@@ -33,7 +33,7 @@ faq:
 
 # What Is Portuguese History?
 
-Portuguese history is the story of a small country on Europe's western edge that, against considerable odds, became the first global maritime empire — connecting continents, reshaping trade, and leaving cultural and linguistic marks across Africa, South America, and Asia that persist to this day.
+Portuguese history is the story of a small country on Europe's western edge that, against considerable odds, became the first global maritime empire — connecting continents, reshaping [trade](/trade), and leaving cultural and linguistic marks across Africa, South America, and Asia that persist to this day.
 
 Portugal occupies just 92,212 square kilometers (about the size of Indiana) with a current population of roughly 10.3 million. Yet between the 15th and 16th centuries, this nation controlled trading networks stretching from Brazil to Japan. Understanding how that happened — and what came before and after — is understanding one of history's most improbable success stories.
 
@@ -51,7 +51,7 @@ Roman rule lasted roughly five centuries and left deep marks: roads, bridges, La
 
 After Rome fell, the Iberian Peninsula saw Visigothic rule followed by Muslim conquest. In 711 CE, Umayyad forces crossed from North Africa and swept through most of Iberia within a few years. Muslim rule in what is now Portugal lasted roughly 500 years in the south (the Algarve wasn't fully reconquered until 1249).
 
-The Muslim period wasn't simply an occupation. It brought architectural advances (still visible in southern Portugal), agricultural innovations ([irrigation](/irrigation) systems, new crops like citrus and rice), and intellectual contributions in [mathematics](/mathematics), medicine, and philosophy. Place names across Portugal preserve Arabic origins — *Algarve* comes from the Arabic *al-Gharb*, meaning "the west."
+The Muslim period wasn't simply an occupation. It brought architectural advances (still visible in southern Portugal), agricultural innovations ([irrigation](/irrigation) systems, new crops like citrus and rice), and intellectual contributions in [mathematics](/mathematics), medicine, and [philosophy](/philosophy). Place names across Portugal preserve Arabic origins — *Algarve* comes from the Arabic *al-Gharb*, meaning "the west."
 
 The Christian reconquest moved gradually southward over centuries. The critical moment for Portuguese independence came through an unlikely figure: Henry of Burgundy, a French nobleman who received the County of Portugal as a reward for helping in the Reconquista. His son, Afonso Henriques, took things further — declaring himself King of Portugal in 1139 after a victory against the Moors at the Battle of Ourique.
 
@@ -65,11 +65,11 @@ This period also saw the development of Portuguese identity through language, [l
 
 ## The Age of Discovery
 
-This is the chapter that made Portugal a world-historical force. No country of its size has ever had a comparable impact on global geography, trade, and culture.
+This is the chapter that made Portugal a world-historical force. No country of its size has ever had a comparable impact on global [geography](/geography), trade, and culture.
 
 ### Prince Henry and the Beginning
 
-Prince Henry the Navigator (1394-1460) never actually navigated much himself, but he organized and funded exploration systematically. From his base at Sagres, on Portugal's southwestern tip, Henry sponsored expeditions down the West African coast, established a school for navigation (though this may be partly legendary), and pushed Portuguese knowledge steadily southward.
+Prince Henry the Navigator (1394-1460) never actually navigated much himself, but he organized and funded exploration systematically. From his base at Sagres, on Portugal's southwestern tip, Henry sponsored expeditions down the West African coast, established a school for [navigation](/navigation) (though this may be partly legendary), and pushed Portuguese knowledge steadily southward.
 
 His sailors reached Madeira (1420), the Azores (1427), and progressively further along the African coast. Each expedition brought back geographical knowledge, trade goods, and — tragically — enslaved Africans. The Portuguese slave trade, beginning in the 1440s, would become one of history's great atrocities.
 
@@ -113,11 +113,11 @@ The reconstruction, led by the Marquis of Pombal, was remarkable. Pombal rebuilt
 
 ### Monarchy to Republic
 
-The 19th century brought turmoil: Napoleonic invasions (1807-1811), the transfer of the royal court to Brazil, Brazilian independence (1822), civil war between liberals and absolutists, and chronic political instability. The monarchy ended in 1910 with a republican revolution, but the First Republic (1910-1926) proved chaotic, cycling through 45 governments in 16 years.
+The 19th century brought turmoil: Napoleonic invasions (1807-1811), the transfer of the royal court to Brazil, Brazilian independence (1822), civil war between liberals and absolutists, and chronic political instability. The [monarchy](/monarchy) ended in 1910 with a republican revolution, but the First Republic (1910-1926) proved chaotic, [cycling](/cycling) through 45 governments in 16 years.
 
 ### The Estado Novo (1933-1974)
 
-Antonio de Oliveira Salazar, an economics professor turned dictator, created the Estado Novo — a corporatist authoritarian state that lasted 41 years. Salazar maintained neutrality during [World War II](/world-war-ii) (while quietly selling tungsten to both sides), suppressed political opposition through secret police (PIDE), and clung to colonial possessions in Africa long after other European powers had decolonized.
+Antonio de Oliveira Salazar, an [economics](/economics) professor turned dictator, created the Estado Novo — a corporatist authoritarian state that lasted 41 years. Salazar maintained neutrality during [World War II](/world-war-ii) (while quietly selling tungsten to both sides), suppressed political opposition through secret police (PIDE), and clung to colonial possessions in Africa long after other European powers had decolonized.
 
 Colonial wars in Angola (from 1961), Guinea-Bissau (from 1963), and Mozambique (from 1964) drained Portugal's resources and eroded military loyalty to the regime. By the early 1970s, Portugal was spending nearly half its national budget on colonial warfare.
 

@@ -75,7 +75,7 @@ Steam power hit the water almost as quickly as it hit the rails. Robert Fulton's
 
 Ocean-going steamships took longer to develop. Early ones still carried sails as backup, since coal was expensive and unreliable supply chains made [running](/running) out of fuel mid-Atlantic a real possibility. The SS *Great Western*, launched in 1838, was the first purpose-built transatlantic steamship. Isambard Kingdom Brunel, the engineer behind it, later built the *Great Eastern* — a ship so enormous (nearly 700 feet long) that nothing larger was constructed for 40 years.
 
-By the late 19th century, steamships had cut Atlantic crossing times from weeks to days. Immigration surged. Between 1880 and 1920, over 23 million immigrants entered the United States, most arriving by steamship at Ellis Island. Global trade volumes exploded — the Suez Canal (1869) and Panama Canal (1914) shortened shipping routes even further.
+By the late 19th century, steamships had cut Atlantic crossing times from weeks to days. Immigration surged. Between 1880 and 1920, over 23 million immigrants entered the United States, most arriving by steamship at Ellis Island. Global [trade](/trade) volumes exploded — the Suez Canal (1869) and Panama Canal (1914) shortened shipping routes even further.
 
 ## The Automobile: Freedom and Sprawl
 
@@ -93,7 +93,7 @@ On December 17, 1903, Orville Wright flew 120 feet in 12 seconds at Kitty Hawk, 
 
 [World War I](/world-war-i) turned aircraft from curiosities into weapons. [World War II](/world-war-ii) turned them into strategic assets — the Boeing B-29 that dropped atomic bombs on Japan had a range of 3,250 miles and could fly at 31,000 feet. Military R&D drove enormous advances: jet engines (Frank Whittle's turbojet first flew in 1941), pressurized cabins, radar navigation.
 
-Commercial aviation borrowed heavily from wartime technology. The Boeing 707, which entered service in 1958, was the first commercially successful jet airliner. It cut New York-to-London travel time from 12 hours (on propeller planes) to about 7. Suddenly, [international business](/international-business) travel was practical, and international tourism became accessible to the middle class.
+Commercial aviation borrowed heavily from wartime technology. The Boeing 707, which entered service in 1958, was the first commercially successful jet airliner. It cut New York-to-London travel time from 12 hours (on propeller planes) to about 7. Suddenly, [international business](/international-business) travel was practical, and international [tourism](/tourism) became accessible to the middle class.
 
 Deregulation of the U.S. airline industry in 1978 drove ticket prices down dramatically. A round-trip New York-to-Los Angeles flight that cost roughly $1,400 (inflation-adjusted) in 1974 could be found for $300 or less by the 2000s. Passenger volume grew from 207 million in 1975 to over 900 million in 2019.
 
@@ -109,11 +109,11 @@ Containerization took decades to spread — ports had to be rebuilt, ships redes
 
 ## What's Next: Electric, Autonomous, and Beyond
 
-Transportation is in the middle of another major shift. Electric vehicles, which actually predate gasoline cars (the first practical EV appeared in the 1880s), are finally reaching mass adoption. Global EV sales exceeded 14 million units in 2023, about 18% of all new car sales worldwide.
+Transportation is in the middle of another major shift. Electric vehicles, which actually predate gasoline cars (the first practical EV appeared in the 1880s), are finally reaching mass adoption. Global EV [sales](/sales) exceeded 14 million units in 2023, about 18% of all new car sales worldwide.
 
 Autonomous driving remains a work in progress. Companies like Waymo operate limited robotaxi services in a handful of cities, but full self-driving on any road in any conditions is still years away — possibly decades. The technical problems are genuinely hard: a self-driving system has to handle snow, construction zones, erratic human drivers, and situations no programmer anticipated.
 
-High-speed rail continues to expand, especially in Asia. China's high-speed network — over 26,000 miles as of 2023 — is the world's largest. Japan's Shinkansen, the original bullet train, has carried over 10 billion passengers since 1964 without a single fatal derailment.
+[High-speed rail](/high-speed-rail) continues to expand, especially in Asia. China's high-speed network — over 26,000 miles as of 2023 — is the world's largest. Japan's Shinkansen, the original bullet train, has carried over 10 billion passengers since 1964 without a single fatal derailment.
 
 And then there's space. SpaceX's reusable rockets have slashed launch costs from roughly $54,500 per kilogram (Space Shuttle era) to about $2,720 per kilogram on a Falcon 9. Whether point-to-point suborbital travel becomes practical — New York to Tokyo in 30 minutes — remains to be seen. But if transportation history teaches anything, it's that the ceiling always gets broken eventually.
 

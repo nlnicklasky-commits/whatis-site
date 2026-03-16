@@ -75,7 +75,7 @@ Like stress, strain comes in flavors. Normal strain measures lengthening or shor
 
 Pull a piece of metal in a testing machine and plot stress against strain, and you get one of the most informative graphs in all of engineering.
 
-For a typical steel specimen, the curve starts as a straight line — stress and strain increase proportionally. This is the **elastic region**, governed by Hooke's Law (stress = modulus times strain). Release the load here, and the material springs back to its original shape. The slope of this line is **Young's modulus**, a fundamental property that tells you how stiff the material is.
+For a typical steel specimen, the curve starts as a straight line — stress and strain increase proportionally. This is the **elastic region**, governed by Hooke's Law (stress = modulus times strain). Release the load here, and the material [springs](/springs) back to its original shape. The slope of this line is **Young's modulus**, a fundamental property that tells you how stiff the material is.
 
 At some point, the straight line ends. This is the **yield point** — the stress at which permanent deformation begins. For structural steel, it's typically around 250 to 350 MPa. Beyond this point, the material enters the **plastic region**, where it deforms permanently but can still carry some load.
 
@@ -164,7 +164,7 @@ A single analysis might involve millions of elements, billions of equations, and
 
 FEM results are only as good as their inputs. "Garbage in, garbage out" applies with full force. Common sources of error include:
 
-- **Mesh quality**: Too coarse a mesh misses stress concentrations. Mesh convergence studies — running the same problem with progressively finer meshes — are essential.
+- **Mesh quality**: Too coarse a mesh misses stress concentrations. Mesh convergence studies — [running](/running) the same problem with progressively finer meshes — are essential.
 - **Material models**: Using a linear elastic model for a material that's actually yielding gives meaningless results.
 - **Boundary conditions**: How you constrain and load the model matters enormously. A misplaced support can completely change the stress distribution.
 - **Element selection**: Different element types work better for different problems. Using the wrong element can produce artificial stiffness or instability.
@@ -189,7 +189,7 @@ Biological materials are trickier than engineering materials. They're anisotropi
 
 ### Geomechanics
 
-Rock and soil are solid materials too, and predicting their behavior matters for tunneling, mining, dam [construction](/construction), and earthquake engineering. Geomechanics deals with materials that are granular, fractured, saturated with water, and under enormous confining pressures. The constitutive models are far more complex than those for metals.
+Rock and soil are solid materials too, and predicting their behavior matters for [tunneling](/tunneling), mining, dam [construction](/construction), and earthquake engineering. Geomechanics deals with materials that are granular, fractured, saturated with water, and under enormous confining pressures. The constitutive models are far more complex than those for metals.
 
 ### Aerospace
 
@@ -207,6 +207,6 @@ The 20th century brought plasticity theory (Hill, Drucker, Prager), fracture mec
 
 You might think solid mechanics is a "solved" field — the equations have been known for over a century, and computers can handle the calculations. But new challenges keep emerging.
 
-Additive manufacturing (3D printing) creates materials with internal structures that don't behave like traditional materials. Nanomaterials have properties that depend on their size. Soft robotics uses highly deformable materials that require nonlinear theories far beyond classical elasticity.
+Additive manufacturing (3D printing) creates materials with internal structures that don't behave like traditional materials. Nanomaterials have properties that depend on their size. Soft [robotics](/robotics) uses highly deformable materials that require nonlinear theories far beyond classical elasticity.
 
 And then there's the fundamental question that drives all of solid mechanics: will this thing break? For all our [computational](/algorithms) sophistication, predicting failure in complex, real-world conditions — with manufacturing defects, environmental degradation, and unexpected loads — remains genuinely difficult. Getting it right saves lives. Getting it wrong builds the case studies that fill textbooks for generations.

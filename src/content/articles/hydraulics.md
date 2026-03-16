@@ -69,11 +69,11 @@ Three main pump types dominate:
 
 Actuators convert hydraulic energy back into mechanical energy. Two types:
 
-**Hydraulic cylinders** produce linear (straight-line) motion. A piston inside a cylindrical tube moves when pressurized fluid enters. Single-acting cylinders push in one direction and return by gravity or spring. Double-acting cylinders can push and pull by applying pressure to either side of the piston.
+**Hydraulic cylinders** produce linear (straight-line) motion. A piston inside a cylindrical tube moves when pressurized fluid enters. Single-[acting](/acting) cylinders push in one direction and return by gravity or spring. Double-acting cylinders can push and pull by applying pressure to either side of the piston.
 
 The forces involved are impressive. A cylinder with a 6-inch bore (about 28 square inches of piston area) at 3,000 PSI produces about 85,000 pounds of push force — enough to lift a loaded semi-truck. Construction equipment like excavators and bulldozers use multiple cylinders this size or larger.
 
-**Hydraulic motors** produce rotary motion. They're essentially pumps running backward — fluid flows in, and the motor shaft rotates. Hydraulic motors drive the tracks on bulldozers, rotate crane booms, power concrete mixers, and spin augers. They can produce enormous torque at low speeds — something electric motors struggle with without gearboxes.
+**Hydraulic motors** produce rotary motion. They're essentially pumps [running](/running) backward — fluid flows in, and the motor shaft rotates. Hydraulic motors drive the tracks on bulldozers, rotate crane booms, power concrete mixers, and spin augers. They can produce enormous torque at low speeds — something electric motors struggle with without gearboxes.
 
 ### Valves: The Brain of the System
 
@@ -113,7 +113,7 @@ The Airbus A380, the world's largest commercial aircraft, has a hydraulic system
 
 ### Manufacturing
 
-Hydraulic presses shape metal in thousands of factories worldwide. Stamping presses form car body panels. Forging presses shape turbine blades and landing gear. Injection molding machines use hydraulic pressure to force molten plastic into molds. Metal-cutting machines use hydraulic clamps to hold workpieces.
+Hydraulic presses shape metal in thousands of factories worldwide. Stamping presses form car body panels. [Forging](/forging) presses shape turbine blades and landing gear. Injection molding machines use hydraulic pressure to force molten plastic into molds. Metal-cutting machines use hydraulic clamps to hold workpieces.
 
 The automotive industry is particularly hydraulic-dependent. A car body requires about 300-400 stamped steel and aluminum parts, nearly all formed by hydraulic presses. A single stamping press might produce 15-20 parts per minute, operating three shifts daily, generating forces of 2,000+ tons per stroke.
 
@@ -137,9 +137,9 @@ Hydraulic fluid isn't just a force transmission medium — it lubricates moving 
 
 **Synthetic fluids** (polyalphaolefin, ester-based) handle extreme temperatures better — critical for aircraft operating from -40°C at altitude to +80°C on a desert tarmac.
 
-**Fire-resistant fluids** (water-glycol, phosphate ester) are required near heat sources like furnaces, forges, and welding operations. A pinhole leak spraying mineral oil onto a hot surface can cause an explosive fire. Fire-resistant fluids dramatically reduce this risk.
+**Fire-resistant fluids** (water-glycol, phosphate ester) are required near heat sources like furnaces, forges, and [welding](/welding) operations. A pinhole leak spraying mineral oil onto a hot surface can cause an explosive fire. Fire-resistant fluids dramatically reduce this risk.
 
-**Biodegradable fluids** are increasingly required in environmentally sensitive applications — forestry equipment, marine systems, and any machinery operating near waterways. A hydraulic hose burst on a conventional excavator can release 50+ gallons of mineral oil into the environment. Biodegradable alternatives break down naturally.
+**Biodegradable fluids** are increasingly required in environmentally sensitive applications — [forestry](/forestry) equipment, marine systems, and any machinery operating near waterways. A hydraulic hose burst on a conventional excavator can release 50+ gallons of mineral oil into the environment. Biodegradable alternatives break down naturally.
 
 Fluid cleanliness is obsessively managed. The ISO 4406 cleanliness code rates fluid on particle counts at different sizes. Clean hydraulic fluid might be rated 16/14/11, meaning specific particle counts at 4, 6, and 14 microns. Systems with servo valves might require 14/12/9 or cleaner. Achieving and maintaining this cleanliness requires filtration, regular fluid analysis, and clean handling practices.
 
@@ -171,17 +171,17 @@ Noise reduction involves pulsation dampeners, vibration-isolating mounts, proper
 
 The rise of electric motors and electronic controls raises a question: will hydraulics survive?
 
-For light-duty applications, the answer is increasingly no. Electric actuators have replaced hydraulic cylinders in many automotive applications (electric power steering, electric parking brakes), small industrial machines, and robotics. Electric systems are cleaner, quieter, more energy-efficient at partial loads, and easier to control digitally.
+For light-duty applications, the answer is increasingly no. Electric actuators have replaced hydraulic cylinders in many automotive applications (electric power steering, electric parking brakes), small industrial machines, and [robotics](/robotics). Electric systems are cleaner, quieter, more energy-efficient at partial loads, and easier to control digitally.
 
 For heavy-duty applications, hydraulics remains dominant — and will for the foreseeable future. The power density of hydraulic actuators (force per unit weight) far exceeds electric alternatives. A hydraulic cylinder weighing 50 pounds can produce 100,000 pounds of force. An electric actuator producing the same force would weigh several hundred pounds. For mobile equipment where every pound matters — construction machines, aircraft, agricultural equipment — this advantage is decisive.
 
 The most likely future is hybrid: electric drives powering hydraulic pumps, with electronic controls managing hydraulic valves. This combines the energy efficiency and controllability of electric systems with the force density of hydraulic actuators. Several major equipment manufacturers — Caterpillar, Komatsu, Volvo — already offer hybrid-electric excavators using this approach.
 
-Electro-hydraulic actuators (EHAs) — self-contained units combining an electric motor, hydraulic pump, and cylinder in a single package — represent another evolution. They provide hydraulic force with the clean packaging and controllability of electric systems. Boeing's 787 Dreamliner uses EHAs extensively, reducing the need for centralized hydraulic plumbing.
+Electro-hydraulic actuators (EHAs) — self-contained units combining an electric motor, hydraulic pump, and cylinder in a single package — represent another evolution. They provide hydraulic force with the clean packaging and controllability of electric systems. Boeing's 787 Dreamliner uses EHAs extensively, reducing the need for centralized hydraulic [plumbing](/plumbing).
 
 ## The Numbers That Matter
 
-Global hydraulic equipment sales exceed $40 billion annually. The technology operates in virtually every industrial sector across every country. About 1.3 million hydraulic systems are sold in the US alone each year, ranging from $500 log splitters to $500,000 industrial presses.
+Global hydraulic equipment [sales](/sales) exceed $40 billion annually. The technology operates in virtually every industrial sector across every country. About 1.3 million hydraulic systems are sold in the US alone each year, ranging from $500 log splitters to $500,000 industrial presses.
 
 Energy efficiency is a growing focus. Traditional hydraulic systems waste 30-50% of input energy as heat. Modern load-sensing systems, variable-speed drives, and energy recovery technologies (capturing and reusing the energy released when lowering heavy loads) can cut waste by half or more. Given that industrial hydraulic systems consume an estimated 2-3% of all [electricity](/electricity) generated in developed countries, these efficiency gains have meaningful environmental impact.
 

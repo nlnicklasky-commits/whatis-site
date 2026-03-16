@@ -37,7 +37,7 @@ faq:
 
 # What Is Structural Engineering?
 
-Structural engineering is the branch of engineering concerned with designing structures — buildings, bridges, dams, towers, tunnels — that safely support the loads and forces they'll encounter during their lifetime. Put bluntly, structural engineers make sure things don't fall down. Given that "things" includes the building you're probably sitting in right now, their work is worth understanding.
+Structural [engineering](/engineering) is the branch of engineering concerned with designing structures — buildings, bridges, dams, towers, tunnels — that safely support the loads and forces they'll encounter during their lifetime. Put bluntly, structural engineers make sure things don't fall down. Given that "things" includes the building you're probably sitting in right now, their work is worth understanding.
 
 ## The Fundamental Problem
 
@@ -81,7 +81,7 @@ A critical concept is resonance. If the earthquake's dominant frequency matches 
 
 **Snow loads** depend on climate, roof [geometry](/geometry), and whether snow can drift and accumulate. **Temperature changes** cause materials to expand and contract, generating forces in restrained structures. **Foundation settlement** — the gradual sinking of the ground under a structure — induces stresses if different parts settle by different amounts. **Impact loads** from vehicle collisions, falling objects, or explosions. **Hydrostatic pressure** from water against retaining walls, dams, and basements.
 
-Structural engineers must consider load combinations — multiple loads acting simultaneously. A building might experience dead load plus live load plus wind at the same time. Codes specify which combinations to check and what probability factors to apply.
+Structural engineers must consider load combinations — multiple loads [acting](/acting) simultaneously. A building might experience dead load plus live load plus wind at the same time. Codes specify which combinations to check and what probability factors to apply.
 
 ## Structural Systems
 
@@ -121,7 +121,7 @@ The longest suspension bridge span is the 1915 Canakkale Bridge in Turkey (2,023
 
 Thin curved surfaces — shells and membranes — can carry loads through in-plane forces (compression and tension in the surface) rather than bending. This is structurally efficient because the entire thickness of the material contributes to load resistance.
 
-The Sydney Opera House's iconic shells, Heinz Isler's concrete shells in Switzerland, and tensile membrane roofs like the Denver International Airport's Teflon-coated fiberglass fabric roof are examples. These structures achieve dramatic spans with remarkably thin sections.
+The Sydney [Opera](/opera) House's iconic shells, Heinz Isler's concrete shells in Switzerland, and tensile membrane roofs like the Denver International Airport's Teflon-coated fiberglass fabric roof are examples. These structures achieve dramatic spans with remarkably thin sections.
 
 ## Materials
 
@@ -177,6 +177,6 @@ Several trends are shaping the field's future.
 
 **Sustainability** is becoming central. Structural engineers are reducing embodied carbon by optimizing designs (using less material), specifying low-carbon materials (mass timber, supplementary cementite materials), and designing for disassembly (so materials can be reused at end of life). The structural system accounts for 50-80% of a building's embodied carbon, so structural engineers have enormous influence on a building's environmental footprint.
 
-**Resilience** — designing structures that not only survive extreme events but recover quickly — is gaining emphasis as climate change increases the frequency of extreme weather. This means thinking beyond life safety (preventing collapse) to include functionality (keeping the building usable after the event).
+**Resilience** — designing structures that not only survive extreme events but recover quickly — is gaining emphasis as [climate change](/climate-change) increases the frequency of extreme weather. This means thinking beyond life safety (preventing collapse) to include functionality (keeping the building usable after the event).
 
 Structural engineering may be invisible when it works — you don't notice the building not collapsing. But every structure you enter, cross, or pass represents thousands of engineering decisions made to keep you safe. The field is one of humanity's most consequential applications of [physics](/physics) and [mathematics](/mathematics), and its continued advancement is essential for building a safe, sustainable world.

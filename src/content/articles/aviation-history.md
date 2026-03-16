@@ -34,7 +34,7 @@ faq:
 ---
 
 # What Is Aviation History?
-Aviation history is the story of how humans learned to fly — from mythological dreams and failed experiments to the Wright Brothers' 12-second flight in 1903 and the modern aviation industry that moves over 4 billion passengers annually. It's a history of [engineering](/engineering), warfare, commerce, and the persistent human refusal to accept that we were meant to stay on the ground.
+[Aviation](/aviation) history is the story of how humans learned to fly — from mythological dreams and failed experiments to the Wright Brothers' 12-second flight in 1903 and the modern aviation industry that moves over 4 billion passengers annually. It's a history of [engineering](/engineering), warfare, commerce, and the persistent human refusal to accept that we were meant to stay on the ground.
 
 The speed of aviation's development is almost hard to believe. In 1903, the Wright Flyer traveled 120 feet at roughly 6.8 miles per hour. Sixty-six years later, Apollo 11 astronauts walked on the moon. A person born in 1900 could have witnessed the entire arc — from "flight is impossible" to "we left the planet."
 
@@ -50,7 +50,7 @@ Lilienthal died in a glider crash in 1896. His last words, reportedly, were "Sac
 
 ## The Wright Brothers and the Birth of Powered Flight
 
-Wilbur and Orville Wright were bicycle mechanics from Dayton, Ohio. They had no university education, no [government](/government) funding, and no corporate backing. What they had was a systematic approach to problem-solving and an insight that their competitors missed.
+Wilbur and Orville Wright were bicycle mechanics from Dayton, Ohio. They had no university [education](/education), no [government](/government) funding, and no corporate backing. What they had was a systematic approach to problem-solving and an insight that their competitors missed.
 
 Most aviation pioneers focused on power — building bigger engines to force aircraft into the air. The Wrights realized the real problem was control. An airplane in the air is unstable in three axes: pitch (nose up/down), roll (wings tilting), and yaw (nose left/right). Without a way to control all three, no amount of engine power would produce safe, sustained flight.
 
@@ -84,7 +84,7 @@ World War II was, to a significant degree, decided by air power. The Battle of B
 
 Aircraft performance improved dramatically. Speeds went from roughly 300 mph to over 500 mph. Altitudes increased. Radar transformed air defense. The jet engine — developed independently in Britain (Frank Whittle) and Germany (Hans von Ohain) — entered service near the war's end. The German Me 262, the first operational jet fighter, was far faster than anything the Allies could match with piston engines.
 
-The war's legacy for aviation was enormous. Thousands of trained pilots, mechanics, and engineers entered civilian life. Surplus military aircraft became the basis of postwar airlines. Radar, jet engines, pressurized cabins, and long-range navigation systems — all developed for military purposes — made commercial aviation practical.
+The war's legacy for aviation was enormous. Thousands of trained pilots, mechanics, and engineers entered civilian life. Surplus military aircraft became the basis of postwar airlines. Radar, jet engines, pressurized cabins, and long-range [navigation](/navigation) systems — all developed for military purposes — made commercial aviation practical.
 
 ## The Jet Age and Mass Air Travel (1950s–Present)
 
@@ -92,7 +92,7 @@ The de Havilland Comet became the first commercial jet airliner in 1952, though 
 
 The Boeing 747, which entered service in 1970, democratized long-distance air travel. Its massive capacity — originally over 400 passengers — drove down per-seat costs. Flying shifted from luxury travel for the wealthy to mass transportation available to the middle class.
 
-Airline deregulation in the United States (1978) and subsequently worldwide transformed the economics of flying. New airlines entered the market. Competition drove prices down. Low-cost carriers like Southwest, Ryanair, and EasyJet made flying cheaper than train travel in many markets.
+Airline deregulation in the United States (1978) and subsequently worldwide transformed the [economics](/economics) of flying. New airlines entered the market. Competition drove prices down. Low-cost carriers like Southwest, Ryanair, and EasyJet made flying cheaper than train travel in many markets.
 
 The numbers tell the story. In 1950, roughly 31 million passengers flew globally. By 2019 (pre-pandemic), that number exceeded 4.5 billion. The [aerospace engineering](/aerospace-engineering) advances that enabled this growth — turbofan engines with fuel efficiencies unimaginable in the 1960s, carbon-fiber composite airframes, fly-by-wire computer controls, GPS navigation — represent engineering achievement on a vast scale.
 

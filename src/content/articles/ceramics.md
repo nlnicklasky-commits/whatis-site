@@ -47,7 +47,7 @@ Clay is decomposed rock — primarily feldspar — ground into particles fine en
 
 **Earthenware** clays fire at lower temperatures (1,800-2,100°F), producing porous, relatively soft pieces. Terra cotta flower pots and traditional tiles are earthenware. It's the most forgiving clay for beginners.
 
-**Stoneware** clays fire at higher temperatures (2,200-2,400°F), becoming dense, watertight, and extremely durable. Most functional pottery — dinnerware, baking dishes, storage crocks — is stoneware.
+**Stoneware** clays fire at higher temperatures (2,200-2,400°F), becoming dense, watertight, and extremely durable. Most functional pottery — dinnerware, [baking](/baking) dishes, storage crocks — is stoneware.
 
 **Porcelain** fires highest (2,300-2,650°F) and produces translucent, glass-like, extremely hard pieces. Chinese porcelain was so prized in Europe that it was called "white gold" — Europeans spent centuries trying to replicate it before Johann Friedrich Böttger cracked the formula in 1708 at Meissen, Germany.
 

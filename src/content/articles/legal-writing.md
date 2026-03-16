@@ -32,7 +32,7 @@ faq:
 ---
 
 # What Is Legal Writing?
-Legal writing is the specialized form of written communication used by lawyers, judges, legislators, and legal scholars to analyze legal issues, document transactions, and persuade courts. It's how the legal profession thinks on paper — and it's a skill that separates effective lawyers from mediocre ones.
+Legal [writing](/writing) is the specialized form of written communication used by lawyers, judges, legislators, and legal scholars to analyze legal issues, document transactions, and persuade courts. It's how the legal profession thinks on paper — and it's a skill that separates effective lawyers from mediocre ones.
 
 If you've ever tried to read a contract, a court opinion, or a statute, you already know that legal writing has a reputation for being dense and impenetrable. That reputation is partly deserved. But the best legal writing is actually precise, clear, and even elegant — and the profession is slowly getting better at it.
 
@@ -42,7 +42,7 @@ Legal writing isn't just regular writing with fancy words thrown in. It has genu
 
 First, precision matters more than almost anything. In ordinary writing, you might say "soon" and everyone understands. In [law](/law), "soon" is dangerously vague. Does it mean tomorrow? Next week? Within a reasonable time? Legal disputes are frequently won or lost on the exact meaning of individual words. A misplaced comma in a contract can change its meaning entirely — and there are actual court cases where this happened.
 
-Second, legal writing must account for authority. You can't just assert things. Every legal argument needs support from statutes, case law, regulations, or constitutional provisions. The skill lies in finding the right authorities, analyzing them accurately, and weaving them into a persuasive argument.
+Second, legal writing must account for authority. You can't just assert things. Every legal argument needs support from statutes, case law, regulations, or constitutional provisions. The skill lies in finding the right authorities, analyzing them accurately, and [weaving](/weaving) them into a persuasive argument.
 
 Third, legal writing operates within rigid formats and conventions. Court filings have page limits, formatting requirements, and structural expectations. A brief that ignores these conventions will annoy judges — and annoying the person deciding your case is never a winning strategy.
 
@@ -62,7 +62,7 @@ The classic memo follows a structure called IRAC: Issue, Rule, Application, Conc
 
 Persuasive writing — primarily briefs and motions submitted to courts — tries to convince a judge or panel of judges that your client should win. This is where legal writing gets interesting, because persuasion involves not just logical arguments but strategic choices about framing, emphasis, and narrative.
 
-The best persuasive legal writing does something surprising: it tells a story. Before diving into legal analysis, an effective brief presents the facts in a way that makes the reader instinctively sympathize with the client's position. The statement of facts in a well-crafted brief is often the most important section — it sets up the legal arguments by making the desired outcome feel natural and fair.
+The best persuasive legal writing does something surprising: it tells a story. Before [diving](/diving) into legal analysis, an effective brief presents the facts in a way that makes the reader instinctively sympathize with the client's position. The statement of facts in a well-crafted brief is often the most important section — it sets up the legal arguments by making the desired outcome feel natural and fair.
 
 Supreme Court Justice Ruth Bader Ginsburg, who was a brilliant legal writer long before she became a judge, structured her briefs in gender discrimination cases to lead judges step by step to conclusions that initially seemed radical but, by the end, felt inevitable.
 

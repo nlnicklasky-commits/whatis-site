@@ -31,7 +31,7 @@ faq:
 
 # What Is Wetland Ecology?
 
-Wetland ecology is the scientific study of wetland ecosystems — marshes, swamps, bogs, fens, and other areas where [water](/water-management) meets land. These are places where the soil stays saturated long enough to create unique conditions that support specialized plants, animals, and microorganisms found nowhere else. Wetlands cover only about 6% of Earth's land surface, but they punch far above their weight in ecological importance, and understanding how they function is the business of wetland ecologists.
+Wetland [ecology](/ecology) is the scientific study of wetland ecosystems — marshes, swamps, bogs, fens, and other areas where [water](/water-management) meets land. These are places where the soil stays saturated long enough to create unique conditions that support specialized plants, animals, and microorganisms found nowhere else. Wetlands cover only about 6% of Earth's land surface, but they punch far above their weight in ecological importance, and understanding how they function is the business of wetland ecologists.
 
 ## What Makes a Wetland
 
@@ -61,7 +61,7 @@ The ecological services wetlands provide are staggering relative to their area.
 
 **Flood control** — Wetlands absorb and slowly release water, reducing flood peaks downstream. One acre of wetland can store 1 to 1.5 million gallons of floodwater. The U.S. Army Corps of Engineers estimated that wetland loss in the upper Mississippi basin contributed significantly to the catastrophic 1993 floods.
 
-**Carbon storage** — Peatlands (bogs and fens) store approximately 30% of all soil carbon on Earth despite covering only about 3% of land area. That's roughly twice the carbon stored in all the world's forests combined. When peatlands are drained for [agriculture](/agriculture) or development, that stored carbon oxidizes and enters the atmosphere as CO2 — making wetland destruction a significant contributor to climate change.
+**Carbon storage** — Peatlands (bogs and fens) store approximately 30% of all soil carbon on Earth despite covering only about 3% of land area. That's roughly twice the carbon stored in all the world's forests combined. When peatlands are drained for [agriculture](/agriculture) or development, that stored carbon oxidizes and enters the atmosphere as CO2 — making wetland destruction a significant contributor to [climate change](/climate-change).
 
 **Biodiversity** — Wetlands support roughly 40% of all species worldwide. About 75% of commercially harvested fish and shellfish in the U.S. depend on wetlands at some life stage. Migratory birds rely on wetlands as stopover and breeding habitat — the Prairie Pothole Region of the northern Great Plains produces 50-80% of North America's ducks.
 

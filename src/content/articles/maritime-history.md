@@ -37,7 +37,7 @@ faq:
 
 Maritime history is the study of humanity's relationship with the sea — how people have sailed, traded, fought, explored, fished, and migrated across oceans and waterways throughout recorded time and before it. It's one of those fields that sounds niche until you realize that the majority of human civilization's most consequential events were shaped by whoever controlled the water.
 
-Roughly 80% of global trade still moves by ship. Wars have been won and empires built on naval power. Entire continents were colonized because someone figured out how to sail there. Maritime history isn't a side story. In many ways, it *is* the story.
+Roughly 80% of global [trade](/trade) still moves by ship. Wars have been won and empires built on naval power. Entire continents were colonized because someone figured out how to sail there. Maritime history isn't a side story. In many ways, it *is* the story.
 
 ## The Ancient Origins of Seafaring
 
@@ -45,7 +45,7 @@ Humans took to the water far earlier than most people assume. The colonization o
 
 The oldest confirmed boats are dugout canoes. The Pesse canoe, found in the Netherlands, dates to around 8000 BCE. Simple, practical, and effective for river and coastal travel.
 
-But the real leap happened with sails. The earliest depictions of sailing vessels come from Egypt, around 3500 BCE, painted on pottery showing boats with square sails on the Nile. [Wind power](/wind-power) changed everything. Suddenly you could move heavy cargo long distances without exhausting a crew of rowers. Trade scaled up. Cities could grow beyond what their immediate hinterlands could feed.
+But the real leap happened with sails. The earliest depictions of [sailing](/sailing) vessels come from Egypt, around 3500 BCE, painted on [pottery](/pottery) showing boats with square sails on the Nile. [Wind power](/wind-power) changed everything. Suddenly you could move heavy cargo long distances without exhausting a crew of rowers. Trade scaled up. Cities could grow beyond what their immediate hinterlands could feed.
 
 ### The Mediterranean as a Highway
 
@@ -111,6 +111,6 @@ Before containers, loading and unloading a cargo ship took days and armies of lo
 
 ## Why Maritime History Matters Now
 
-Climate change is raising sea levels, threatening coastal cities and maritime infrastructure worldwide. Arctic ice melt is opening new shipping routes. Territorial disputes over maritime boundaries — in the South China Sea, the Eastern Mediterranean, the Arctic — are among the world's most dangerous flashpoints.
+[Climate change](/climate-change) is raising sea levels, threatening coastal cities and maritime infrastructure worldwide. Arctic ice melt is opening new shipping routes. Territorial disputes over maritime boundaries — in the South China Sea, the Eastern Mediterranean, the Arctic — are among the world's most dangerous flashpoints.
 
 Understanding how we got here — how trade routes shaped economies, how naval power projected political will, how [maritime law](/maritime-law) evolved, how technological change disrupted entire industries — isn't just academic. The sea has always been where civilizations meet, compete, and sometimes collide. That hasn't changed. It's just faster now.

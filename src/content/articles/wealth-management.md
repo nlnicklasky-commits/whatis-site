@@ -36,15 +36,15 @@ faq:
 ---
 
 # What Is Wealth Management?
-Wealth management is a professional financial advisory service that combines [investment management](/investment-management), tax planning, estate planning, retirement planning, and other financial services into a coordinated strategy for high-net-worth individuals and families. Rather than addressing financial needs in isolation, wealth management takes a unified view of a client's entire financial life.
+Wealth [management](/management) is a professional financial advisory service that combines [investment management](/investment-management), tax planning, estate planning, retirement planning, and other financial services into a coordinated strategy for high-net-worth individuals and families. Rather than addressing financial needs in isolation, wealth management takes a unified view of a client's entire financial life.
 
-The distinction from basic financial advice is scope. A financial advisor might help you pick mutual funds. A wealth manager helps you build, protect, transfer, and grow your wealth across every dimension — investments, taxes, insurance, estate, philanthropy, and sometimes even family governance.
+The distinction from basic financial advice is scope. A financial advisor might help you pick mutual funds. A wealth manager helps you build, protect, transfer, and grow your wealth across every dimension — investments, taxes, [insurance](/insurance), estate, philanthropy, and sometimes even family governance.
 
 ## Who Needs Wealth Management?
 
 The honest answer: you need wealth management when your financial situation becomes complex enough that the pieces interact with each other in meaningful ways.
 
-If you have a W-2 salary, a 401(k), and a checking account, you probably don't need a wealth manager. A good financial advisor or even a solid [personal finance](/personal-finance) education will serve you fine.
+If you have a W-2 salary, a 401(k), and a checking account, you probably don't need a wealth manager. A good financial advisor or even a solid [personal finance](/personal-finance) [education](/education) will serve you fine.
 
 But consider someone who owns a business, has stock options vesting over several years, holds rental properties, is divorced with a blended family, has aging parents who may need care, and wants to fund a charitable foundation. Every decision in one area affects the others. Selling a business triggers capital gains taxes that affect estate planning. The stock options have different tax treatment depending on when and how they're exercised. The rental properties need to be titled correctly for estate purposes. The charitable giving creates deductions that offset income from other sources.
 
@@ -60,7 +60,7 @@ Wealth management combines several disciplines that most people think of as sepa
 
 This is what most people associate with wealth management — selecting and managing a portfolio of investments. But wealth-level investment management goes well beyond picking stocks and bonds.
 
-**Asset allocation** — deciding how to divide investments among stocks, bonds, real estate, alternatives, and cash — is the most important investment decision, responsible for roughly 90% of portfolio return variability according to the classic Brinson, Hood, and Beebower study. Wealth managers design allocations based on your specific goals, time horizon, risk tolerance, tax situation, and liquidity needs.
+**Asset allocation** — deciding how to divide investments among stocks, bonds, [real estate](/real-estate), alternatives, and cash — is the most important investment decision, responsible for roughly 90% of portfolio return variability according to the classic Brinson, Hood, and Beebower study. Wealth managers design allocations based on your specific goals, time horizon, risk tolerance, tax situation, and liquidity needs.
 
 **Tax-efficient investing** means placing investments in the right types of accounts. Tax-inefficient investments (high-yield bonds, REITs, actively traded strategies) belong in tax-advantaged accounts like IRAs and 401(k)s. Tax-efficient investments (index funds, municipal bonds, long-term capital gains) can go in taxable accounts. This "asset location" strategy can add 0.5-1.0% to after-tax returns annually — real money over decades.
 
@@ -88,7 +88,7 @@ Estate planning ensures your wealth transfers to the right people, in the right 
 
 The federal estate tax exemption in 2025 is $13.61 million per person ($27.22 million per married couple). Estates above this threshold are taxed at 40%. The exemption is scheduled to roughly halve in 2026 unless Congress acts, making estate planning urgently relevant for families with $7-30 million in assets.
 
-**Trusts** are the primary estate planning tool. Revocable living trusts avoid probate. Irrevocable trusts remove assets from your taxable estate. Dynasty trusts can benefit multiple generations. Special needs trusts protect disabled beneficiaries' government benefits. Qualified personal residence trusts (QPRTs) transfer homes at reduced gift tax cost.
+**Trusts** are the primary estate planning tool. Revocable living trusts avoid probate. Irrevocable trusts remove assets from your taxable estate. Dynasty trusts can benefit multiple generations. Special needs trusts protect disabled beneficiaries' [government](/government) benefits. Qualified personal residence trusts (QPRTs) transfer homes at reduced gift tax cost.
 
 **Family limited partnerships (FLPs)** and family LLCs allow parents to transfer assets to children at discounted values — reflecting the lack of control and marketability of minority interests. The IRS scrutinizes these structures but accepts properly structured FLPs.
 
@@ -108,7 +108,7 @@ Retirement planning at the wealth management level goes beyond "save enough to r
 
 **Healthcare cost planning** — estimating and preparing for health expenses in retirement. A 65-year-old couple retiring today can expect to spend roughly $315,000 on healthcare throughout retirement (Fidelity's 2023 estimate), excluding long-term care.
 
-**Long-term care** — deciding whether to self-insure, buy long-term care insurance, or use hybrid life/LTC policies. Long-term care costs ($8,000-$12,000 per month for a private nursing home room) can devastate even substantial wealth if not planned for.
+**Long-term care** — deciding whether to self-insure, buy long-term care insurance, or use hybrid life/LTC policies. Long-term care costs ($8,000-$12,000 per month for a private [nursing](/nursing) home room) can devastate even substantial wealth if not planned for.
 
 ## How Wealth Management Fees Work
 
@@ -132,7 +132,7 @@ Finding the right wealth manager is one of the most important financial decision
 
 **Fiduciary duty.** Registered Investment Advisors (RIAs) are held to a fiduciary standard — they must act in your best interest. Broker-dealers are held to a lesser "suitability" standard — they must recommend investments that are "suitable" but not necessarily best. Always choose a fiduciary.
 
-**Credentials.** The CFP (Certified Financial Planner) designation requires education, a thorough exam, experience, and ongoing ethics requirements. The CFA (Chartered Financial Analyst) focuses on investment analysis. The CPA/PFS combines accounting expertise with [financial planning](/financial-planning). These credentials don't guarantee quality, but they demonstrate commitment and competence.
+**Credentials.** The CFP (Certified Financial Planner) designation requires education, a thorough exam, experience, and ongoing ethics requirements. The CFA (Chartered Financial Analyst) focuses on investment analysis. The CPA/PFS combines [accounting](/accounting) expertise with [financial planning](/financial-planning). These credentials don't guarantee quality, but they demonstrate commitment and competence.
 
 **Independence.** Independent RIAs can choose from any available investment products. Advisors at large wirehouses (Morgan Stanley, Merrill Lynch, UBS) may be limited to proprietary products or preferred providers. Independence doesn't guarantee better advice, but it removes one source of conflict.
 
@@ -172,4 +172,4 @@ Even with professional advice, wealthy families make predictable mistakes.
 
 **Neglecting insurance.** High-net-worth families face liability risks that standard insurance doesn't cover. An umbrella liability policy ($1-5 million in additional coverage) costs $300-$800 per year — trivial relative to the potential exposure. Many wealthy families are underinsured.
 
-Wealth management, done well, isn't about getting rich. It's about staying rich, transferring wealth efficiently, minimizing tax friction, and making sure your money supports the life you actually want. The best wealth managers act less like stock pickers and more like financial architects — designing a structure that holds together across market cycles, tax law changes, family transitions, and the surprises that life inevitably delivers.
+Wealth management, done well, isn't about getting rich. It's about staying rich, transferring wealth efficiently, minimizing tax friction, and making sure your money supports the life you actually want. The best wealth managers act less like stock pickers and more like financial architects — designing a structure that holds together across market cycles, [tax law](/tax-law) changes, family transitions, and the surprises that life inevitably delivers.

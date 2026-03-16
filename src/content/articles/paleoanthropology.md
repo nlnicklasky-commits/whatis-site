@@ -73,7 +73,7 @@ Paleoanthropologists work with frustratingly incomplete evidence. Fossilization 
 
 **Why did big brains evolve?** Brain tissue is metabolically expensive — the brain uses about 20% of our energy despite being 2% of body mass. Several hypotheses compete: social complexity (tracking relationships in large groups), tool use, dietary shifts toward calorie-dense foods, and climate variability requiring behavioral flexibility.
 
-**What happened to the other species?** When Homo sapiens left Africa, the world was home to Neanderthals, Denisovans, Homo floresiensis (a small-bodied species on the island of Flores), and possibly other groups. Within 30,000 years, all were gone. Competition with modern humans, interbreeding and absorption, disease, and climate change are all proposed explanations. The truth is probably a combination.
+**What happened to the other species?** When Homo sapiens left Africa, the world was home to Neanderthals, Denisovans, Homo floresiensis (a small-bodied species on the island of Flores), and possibly other groups. Within 30,000 years, all were gone. Competition with modern humans, interbreeding and absorption, disease, and [climate change](/climate-change) are all proposed explanations. The truth is probably a combination.
 
 **What makes us different?** Anatomically modern humans share over 98% of our DNA with chimpanzees. The differences — language, abstract thought, cumulative culture, long-range planning — must trace to relatively small genetic and neurological changes. Understanding exactly what those changes are remains one of the field's great challenges.
 

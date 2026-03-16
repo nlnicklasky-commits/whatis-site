@@ -75,7 +75,7 @@ Silk production ([sericulture](/sericulture)) began in China around 3500 BCE, th
 
 China guarded the secret of silk production for roughly 3,000 years. Smuggling silkworm eggs out of China was reportedly punishable by death. The fabric was so valuable that it functioned as currency — Chinese civil servants were sometimes paid in silk.
 
-The [Silk Road](/silk-road) — the network of trade routes connecting China to the Mediterranean — existed largely because of European and Middle Eastern demand for this single fiber. When Byzantine monks allegedly smuggled silkworm eggs out of China in hollow bamboo canes around 550 CE, they broke a monopoly that had lasted millennia.
+The [Silk Road](/silk-road) — the network of [trade](/trade) routes connecting China to the Mediterranean — existed largely because of European and Middle Eastern demand for this single fiber. When Byzantine monks allegedly smuggled silkworm eggs out of China in hollow bamboo canes around 550 CE, they broke a monopoly that had lasted millennia.
 
 ## The Industrial Revolution: Everything Changes
 

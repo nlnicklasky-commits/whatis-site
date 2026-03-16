@@ -35,13 +35,13 @@ faq:
 
 # What Is Ichthyology?
 
-Ichthyology is the branch of [biology](/biology) that studies fish — their anatomy, behavior, classification, evolution, and ecology. The field covers everything from 8-millimeter dwarf gobies to 40-foot whale sharks, from deep-sea anglerfish living in total darkness to desert pupfish surviving in 112-degree springs. With roughly 36,000 known species, fish represent more than half of all vertebrate animals on Earth.
+Ichthyology is the branch of [biology](/biology) that studies fish — their anatomy, behavior, classification, evolution, and ecology. The field covers everything from 8-millimeter dwarf gobies to 40-foot whale sharks, from deep-sea anglerfish living in total darkness to desert pupfish surviving in 112-degree [springs](/springs). With roughly 36,000 known species, fish represent more than half of all vertebrate animals on Earth.
 
 ## Why Fish Matter More Than You Realize
 
 Let's get this out of the way: fish aren't just dinner. They're the most successful group of vertebrates in evolutionary history, occupying virtually every aquatic habitat on the planet for over 500 million years. They were the first animals to develop jaws, paired appendages, and mineralized skeletons — innovations that every mammal, bird, and reptile inherited.
 
-About 3.3 billion people depend on fish as their primary source of animal protein. The global fishing industry generates over $400 billion annually. Coral reef fish support tourism industries worth $36 billion per year. Freshwater fish regulate nutrient cycles in rivers and lakes worldwide.
+About 3.3 billion people depend on fish as their primary source of animal protein. The global [fishing](/fishing) industry generates over $400 billion annually. Coral reef fish support [tourism](/tourism) industries worth $36 billion per year. Freshwater fish regulate nutrient cycles in rivers and lakes worldwide.
 
 And here's the uncomfortable part: we're losing them. About one-third of assessed fish stocks are overfished. Freshwater fish populations have declined by 76% since 1970 — a collapse that makes the much-publicized declines in mammals and birds look modest by comparison.
 
@@ -57,7 +57,7 @@ The real foundations of ichthyology came in the 18th century with Carl Linnaeus,
 
 The 19th century brought a golden age of fish discovery. Expeditions by naturalists like Charles Darwin and Alfred Russel Wallace collected specimens from across the globe. Louis Agassiz described hundreds of fossil fish species, connecting living fish to their evolutionary past.
 
-In the 20th and 21st centuries, ichthyology expanded from pure description to genetics, physiology, [ecology](/ecology), and behavior. Technologies like [SCUBA diving](/scuba-diving), submersibles, eDNA sampling, and satellite tracking opened windows into fish life that previous generations couldn't have imagined.
+In the 20th and 21st centuries, ichthyology expanded from pure description to genetics, [physiology](/physiology), [ecology](/ecology), and behavior. Technologies like [SCUBA diving](/scuba-diving), submersibles, eDNA sampling, and satellite tracking opened windows into fish life that previous generations couldn't have imagined.
 
 ## What Makes a Fish a Fish?
 
@@ -75,7 +75,7 @@ That said, there are features most fish share:
 
 **Lateral line**: A sensory system unique to fish and aquatic amphibians. A line of pressure-sensitive organs runs along each side of the body, detecting vibrations and water movement. It's essentially a sixth sense — fish can "feel" a nearby predator's approach through water pressure changes, even in complete darkness.
 
-**Swim bladder**: An internal gas-filled organ that allows bony fish to control their buoyancy — hovering in the water column without constant swimming. Sharks lack swim bladders, which is one reason they must keep swimming to avoid sinking (though some species can rest on the bottom).
+**Swim bladder**: An internal gas-filled organ that allows bony fish to control their buoyancy — hovering in the water column without constant [swimming](/swimming). Sharks lack swim bladders, which is one reason they must keep swimming to avoid sinking (though some species can rest on the bottom).
 
 ## The Three Major Groups
 
@@ -155,7 +155,7 @@ Environmental DNA (eDNA) sampling detects fish species from water samples alone.
 
 ### Satellite and Acoustic Tracking
 
-Tags attached to fish transmit location data via satellite, revealing migration routes, diving depths, and habitat use patterns that were previously invisible. Pop-up satellite tags deployed on bluefin tuna, white sharks, and manta rays have rewritten our understanding of how these species use ocean space.
+Tags attached to fish transmit location data via satellite, revealing migration routes, [diving](/diving) depths, and habitat use patterns that were previously invisible. Pop-up satellite tags deployed on bluefin tuna, white sharks, and manta rays have rewritten our understanding of how these species use ocean space.
 
 Acoustic telemetry uses underwater receivers to detect tagged fish passing through specific areas — river mouths, reef passages, dam fish ladders. Arrays of receivers can track individual fish across entire coastlines.
 
@@ -177,9 +177,9 @@ The consequences of getting it wrong are severe. Atlantic cod stocks off Newfoun
 
 [Aquaculture](/aquaculture) — [fish farming](/fish-farming) — now produces more fish for human consumption than wild capture fisheries. Global aquaculture production exceeded 120 million metric tons in 2022, with China producing about 60% of the total.
 
-Ichthyology is the foundation of every aspect of aquaculture: understanding fish nutrition, disease, reproduction, genetics, and behavior. Breeding programs have dramatically improved growth rates and disease resistance in farmed salmon, tilapia, and catfish, applying the same selective breeding principles used in [agriculture](/agriculture) for millennia.
+Ichthyology is the foundation of every aspect of aquaculture: understanding fish [nutrition](/nutrition), disease, reproduction, genetics, and behavior. Breeding programs have dramatically improved growth rates and disease resistance in farmed salmon, tilapia, and catfish, applying the same selective breeding principles used in [agriculture](/agriculture) for millennia.
 
-But aquaculture creates its own problems. Escaped farmed fish can interbreed with wild populations, reducing genetic fitness. Concentrated fish waste pollutes surrounding waters. Disease outbreaks in crowded pens require antibiotics, raising resistance concerns. Feeding carnivorous farmed fish (like salmon) requires catching enormous quantities of smaller wild fish for feed — a questionable net benefit.
+But aquaculture creates its own problems. Escaped farmed fish can interbreed with wild populations, reducing genetic [fitness](/fitness). Concentrated fish waste pollutes surrounding waters. Disease outbreaks in crowded pens require antibiotics, raising resistance concerns. Feeding carnivorous farmed fish (like salmon) requires catching enormous quantities of smaller wild fish for feed — a questionable net benefit.
 
 These challenges drive ongoing ichthyological research: developing plant-based fish feeds, breeding disease-resistant strains, designing closed-containment systems, and understanding the ecological interactions between farmed and wild fish.
 
@@ -193,11 +193,11 @@ Coral reefs, home to about 25% of all marine fish species, are declining worldwi
 
 Overfishing, particularly of top predators like sharks and tuna, cascades through food webs in ways that are still poorly understood. Shark populations have declined by an estimated 71% since 1970. Since sharks help regulate the species beneath them in the food chain, their loss triggers unpredictable ecological shifts.
 
-Ichthyologists contribute to conservation through species assessments (the IUCN Red List evaluates about 20,000 fish species), habitat protection advocacy, fisheries management recommendations, and captive breeding programs for endangered species. But the scale of the challenge vastly exceeds current conservation resources.
+Ichthyologists contribute to conservation through species assessments (the IUCN Red List evaluates about 20,000 fish species), habitat protection advocacy, fisheries [management](/management) recommendations, and captive breeding programs for endangered species. But the scale of the challenge vastly exceeds current conservation resources.
 
 ## The Future of Ichthyology
 
-The field is evolving rapidly. Genomics is revealing the genetic basis of fish adaptations, from antifreeze proteins in Antarctic icefish to the cavefish genes that eliminate eyes over evolutionary time. Climate change research tracks how warming waters shift species distributions — cod moving northward, tropical species appearing in temperate waters.
+The field is evolving rapidly. Genomics is revealing the genetic basis of fish adaptations, from antifreeze proteins in Antarctic icefish to the cavefish genes that eliminate eyes over evolutionary time. [Climate change](/climate-change) research tracks how warming waters shift species distributions — cod moving northward, tropical species appearing in temperate waters.
 
 Citizen science platforms allow recreational fishers and divers to contribute observations, expanding data collection far beyond what professional scientists can achieve alone. Online databases like FishBase make species information freely available worldwide.
 

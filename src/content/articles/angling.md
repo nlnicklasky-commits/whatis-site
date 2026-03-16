@@ -91,7 +91,7 @@ Modern angling is inseparable from [conservation](/conservation-biology). Angler
 
 Catch-and-release fishing — landing a fish and then returning it alive to the water — has become standard practice for many species and locations. When done properly (minimizing handling time, using barbless hooks, avoiding fishing in excessively warm water), survival rates for released fish can exceed 90%.
 
-But angling does face [environmental](/ecology) challenges. Overfishing of certain species, habitat destruction, invasive species, and climate change all affect fish populations. Lead sinkers poison waterfowl. Discarded monofilament entangles wildlife. Responsible anglers increasingly pay attention to these issues, because the sport's future depends on healthy ecosystems.
+But angling does face [environmental](/ecology) challenges. Overfishing of certain species, habitat destruction, invasive species, and [climate change](/climate-change) all affect fish populations. Lead sinkers poison waterfowl. Discarded monofilament entangles wildlife. Responsible anglers increasingly pay attention to these issues, because the sport's future depends on healthy ecosystems.
 
 ## Getting Started
 

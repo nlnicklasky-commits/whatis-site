@@ -37,7 +37,7 @@ faq:
 
 # What Is Mathematical Physics?
 
-Mathematical physics is the discipline that develops, applies, and rigorously justifies the mathematical foundations of physical theories. It sits at the boundary between mathematics and [physics](/physics) — using the tools of pure mathematics to establish what physical theories actually say, what they predict, and whether they're internally consistent.
+Mathematical physics is the discipline that develops, applies, and rigorously justifies the mathematical foundations of physical theories. It sits at the boundary between [mathematics](/mathematics) and [physics](/physics) — using the tools of pure mathematics to establish what physical theories actually say, what they predict, and whether they're internally consistent.
 
 Here's the distinction that matters: a theoretical physicist might write down the equations for a [quantum field theory](/quantum-field-theory), check that they produce predictions matching experiments, and move on. A mathematical physicist asks harder questions. Do those equations actually have solutions? Are the predictions mathematically well-defined? Can you prove the properties the physicist assumes? These questions sound pedantic until you realize that getting them wrong can mean the entire theoretical structure rests on sand.
 
@@ -65,7 +65,7 @@ The mathematical formulation of classical mechanics — Newton's laws reformulat
 
 Joseph-Louis Lagrange reformulated Newton's mechanics in terms of a single scalar function, the Lagrangian L = T - V (kinetic energy minus potential energy). The equations of motion emerge from a variational principle: nature chooses the path that makes the "action" (the integral of the Lagrangian over time) stationary.
 
-This reformulation looks like mathematical window dressing, but it's far more than that. Lagrangian mechanics works in any coordinate system — you don't need to decompose forces into components. It handles constraints naturally. And the variational principle generalizes to virtually every area of physics, from electromagnetism to general relativity to quantum field theory.
+This reformulation looks like mathematical window dressing, but it's far more than that. Lagrangian mechanics works in any coordinate system — you don't need to decompose forces into components. It handles constraints naturally. And the variational principle generalizes to virtually every area of physics, from [electromagnetism](/electromagnetism) to general [relativity](/relativity) to quantum field theory.
 
 ### Hamiltonian Mechanics
 
@@ -73,13 +73,13 @@ William Rowan Hamilton reformulated mechanics again, this time as a system of fi
 
 The key insight: the flow of a Hamiltonian system preserves the symplectic structure of phase space. This is Liouville's theorem — volumes in phase space are conserved. It connects classical mechanics to symplectic geometry, a branch of pure mathematics that has grown enormously partly because of this physics connection.
 
-Hamiltonian mechanics also provides the bridge to quantum mechanics. The procedure of "canonical quantization" — replacing classical position and momentum with quantum operators satisfying specific commutation relations — translates Hamiltonian classical mechanics into quantum mechanics. Understanding this translation requires mathematical precision that the physics alone doesn't demand.
+Hamiltonian mechanics also provides the bridge to [quantum mechanics](/quantum-mechanics). The procedure of "canonical quantization" — replacing classical position and momentum with quantum operators satisfying specific commutation relations — translates Hamiltonian classical mechanics into quantum mechanics. Understanding this [translation](/translation) requires mathematical precision that the physics alone doesn't demand.
 
 ### Integrable Systems
 
 Some Hamiltonian systems can be solved exactly — they have enough conserved quantities (constants of motion) to reduce the problem to simple integration. These "integrable systems" include Kepler's planetary motion, the rigid body, and the harmonic oscillator.
 
-The study of integrable systems has become a rich area of mathematical physics, connecting to [algebra](/algebra), [geometry](/geometry), and even number theory. The KdV equation (describing shallow water waves), first solved exactly in the 1960s, spawned an entire theory of "solitons" — stable, localized wave packets that pass through each other without distortion.
+The study of integrable systems has become a rich area of mathematical physics, connecting to [algebra](/algebra), [geometry](/geometry), and even [number theory](/number-theory). The KdV equation (describing shallow water waves), first solved exactly in the 1960s, spawned an entire theory of "solitons" — stable, localized wave packets that pass through each other without distortion.
 
 ## Quantum Mechanics: The Mathematical Challenge
 
@@ -96,17 +96,17 @@ John von Neumann formalized quantum mechanics in terms of Hilbert spaces — inf
 
 This formulation resolved several paradoxes and ambiguities in the original quantum mechanics of Heisenberg and Schrodinger. It showed that matrix mechanics and wave mechanics — which seemed like different theories — were mathematically equivalent, just different representations in the same Hilbert space.
 
-The mathematics here draws on functional analysis — the study of infinite-dimensional spaces and operators on them. Self-adjoint operators, spectral theory, and operator algebras are essential tools. This is where mathematical physics demands serious mathematical sophistication — you need analysis at the graduate level.
+The mathematics here draws on [functional analysis](/functional-analysis) — the study of infinite-dimensional spaces and operators on them. Self-adjoint operators, spectral theory, and operator algebras are essential tools. This is where mathematical physics demands serious mathematical sophistication — you need analysis at the graduate level.
 
 ### The Spectral Theorem
 
-The spectral theorem — which describes the structure of self-adjoint operators in terms of their eigenvalues and eigenvectors — is the mathematical foundation of quantum measurement theory. For operators with discrete spectra (like the energy of a hydrogen atom), it gives the familiar textbook results. For operators with continuous spectra (like the position of a free particle), the mathematical treatment requires measure theory and distributions.
+The spectral theorem — which describes the structure of self-adjoint operators in terms of their eigenvalues and eigenvectors — is the mathematical foundation of quantum measurement theory. For operators with discrete spectra (like the energy of a hydrogen atom), it gives the familiar textbook results. For operators with continuous spectra (like the position of a free particle), the mathematical treatment requires [measure theory](/measure-theory) and distributions.
 
 Getting the spectral theory right matters because quantum mechanics makes probabilistic predictions based on spectral decomposition. If the mathematical foundations of the spectral theorem are incorrect, those predictions are unreliable.
 
 ### Quantum Field Theory
 
-Quantum field theory (QFT) — the framework combining quantum mechanics with special relativity — is the most accurate and thorough physical theory ever formulated. The Standard Model of particle physics, a specific quantum field theory, describes three of the four fundamental forces and has been confirmed by thousands of experiments.
+Quantum field theory (QFT) — the framework combining quantum mechanics with special relativity — is the most accurate and thorough physical theory ever formulated. The Standard Model of [particle physics](/particle-physics), a specific quantum field theory, describes three of the four fundamental forces and has been confirmed by thousands of experiments.
 
 But QFT's mathematical foundations remain problematic. The calculations involve infinite sums that require "renormalization" — a systematic procedure for removing infinities that, from a mathematical standpoint, is not fully justified in the most general cases.
 
@@ -124,7 +124,7 @@ The mathematics is differential geometry — the study of curved spaces using [c
 
 Mathematical physicists have proved several results about general relativity:
 
-**Singularity theorems** (Penrose, Hawking, 1960s-70s): Under physically reasonable conditions, gravitational collapse inevitably produces singularities — points where the curvature becomes infinite and the theory breaks down. These theorems don't assume special symmetry; they hold for generic initial conditions. The mathematics uses differential geometry and topology, particularly the theory of geodesics (shortest paths in curved spaces).
+**Singularity theorems** (Penrose, Hawking, 1960s-70s): Under physically reasonable conditions, gravitational collapse inevitably produces singularities — points where the curvature becomes infinite and the theory breaks down. These theorems don't assume special symmetry; they hold for generic initial conditions. The mathematics uses differential geometry and [topology](/topology), particularly the theory of geodesics (shortest paths in curved spaces).
 
 **Positive energy theorem** (Schoen and Yau, 1979; Witten, 1981): The total energy of an isolated gravitational system is always non-negative. This might sound obvious, but it's a non-trivial mathematical result — gravity is an attractive force that contributes negative energy, so it's not immediately clear that the total can't be negative. The proof uses sophisticated differential geometry.
 
@@ -158,11 +158,11 @@ This classification is extraordinarily successful. Before particles were discove
 
 ## [Statistical Mechanics](/statistical-mechanics): Bridging Scales
 
-Statistical mechanics connects the microscopic world of atoms to the macroscopic world of thermodynamics. It explains how the behaviors of trillions of individual particles give rise to temperature, pressure, entropy, and phase transitions.
+Statistical mechanics connects the microscopic world of atoms to the macroscopic world of [thermodynamics](/thermodynamics). It explains how the behaviors of trillions of individual particles give rise to temperature, pressure, entropy, and phase transitions.
 
 ### Phase Transitions and Critical Phenomena
 
-When water boils or iron loses its magnetism, the system undergoes a phase transition. Near the transition point, the system exhibits remarkable mathematical properties — power-law behavior, scale invariance, and universality (different physical systems showing identical critical behavior).
+When water boils or iron loses its [magnetism](/magnetism), the system undergoes a phase transition. Near the transition point, the system exhibits remarkable mathematical properties — power-law behavior, scale invariance, and universality (different physical systems showing identical critical behavior).
 
 The mathematical framework for understanding critical phenomena is the renormalization group, developed by Kenneth Wilson in the 1970s (for which he received the Nobel Prize). The renormalization group is a mathematical procedure that systematically "zooms out" from microscopic details to reveal macroscopic behavior.
 
@@ -176,11 +176,11 @@ Mathematical physicists have proved numerous results about statistical mechanics
 - Properties of Gibbs measures (probability distributions describing equilibrium states)
 - Stability of matter (proving that ordinary matter doesn't collapse under its own electromagnetic interactions — a non-trivial result that depends on quantum mechanics and the Pauli exclusion principle)
 
-These results require probability theory, functional analysis, and combinatorics — demonstrating the breadth of mathematics that mathematical physics draws upon.
+These results require [probability theory](/probability-theory), functional analysis, and combinatorics — demonstrating the breadth of mathematics that mathematical physics draws upon.
 
 ## String Theory and Mathematical Physics
 
-String theory — the proposal that fundamental particles are tiny vibrating strings rather than point particles — has become one of the most mathematically rich areas of theoretical physics, even though experimental confirmation remains elusive.
+[String theory](/string-theory) — the proposal that fundamental particles are tiny vibrating strings rather than point particles — has become one of the most mathematically rich areas of [theoretical physics](/theoretical-physics), even though experimental confirmation remains elusive.
 
 Whether or not string theory describes physical reality, it has generated remarkable mathematics. Mirror symmetry (a duality between different geometric spaces) has produced new results in algebraic geometry. The AdS/CFT correspondence (a duality between gravity in a curved space and quantum field theory on its boundary) has produced new results in both physics and mathematics.
 
@@ -203,6 +203,6 @@ This breadth is both the challenge and the appeal of mathematical physics. It de
 
 Mathematical physics exists because mathematics and [physics](/physics) need each other. Physics provides mathematics with some of its most important and difficult problems. Mathematics provides physics with the language and rigor needed to make theories precise, consistent, and predictive.
 
-The great unsolved problems of mathematical physics — rigorous construction of four-dimensional quantum field theories, cosmic censorship in general relativity, mathematical foundations of quantum gravity — are among the deepest problems in either mathematics or physics. They demand expertise in both fields and creative thinking at the highest level.
+The great unsolved problems of mathematical physics — rigorous [construction](/construction) of four-dimensional quantum field theories, cosmic censorship in general relativity, mathematical foundations of quantum gravity — are among the deepest problems in either mathematics or physics. They demand expertise in both fields and creative thinking at the highest level.
 
 If you're drawn to mathematics that has physical meaning, or to physics that demands mathematical precision, mathematical physics is where these interests converge. The field won't make you rich (it's primarily academic), but it will put you at the frontier of human understanding of how the universe works — and why the mathematical structures we discover on paper seem to be the same structures nature uses to organize itself. That coincidence, as Eugene Wigner called it, remains the "unreasonable effectiveness of mathematics in the natural sciences" — and mathematical physics is where you grapple with it most directly.

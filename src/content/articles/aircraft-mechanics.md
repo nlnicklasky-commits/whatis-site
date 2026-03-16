@@ -41,7 +41,7 @@ Aircraft mechanics is the field of maintaining, inspecting, repairing, and overh
 
 ## Why Aircraft Mechanics Exists (And Why It's So Regulated)
 
-Here's a fact that puts things in perspective: commercial aviation is the safest form of mass transportation ever created. The fatal accident rate for commercial flights hovers around 0.07 per million departures. That safety record didn't happen by accident — pun intended. It's the direct result of obsessive maintenance standards enforced by agencies like the Federal Aviation Administration (FAA) in the United States and the European Union Aviation Safety Agency (EASA) in Europe.
+Here's a fact that puts things in perspective: commercial [aviation](/aviation) is the safest form of mass transportation ever created. The fatal accident rate for commercial flights hovers around 0.07 per million departures. That safety record didn't happen by accident — pun intended. It's the direct result of obsessive maintenance standards enforced by agencies like the Federal Aviation Administration (FAA) in the United States and the European Union Aviation Safety Agency (EASA) in Europe.
 
 Every commercial aircraft flying today follows a maintenance program approved by regulators. Miss a scheduled inspection? That plane doesn't fly. Find a crack in a wing spar during a routine check? The aircraft is grounded until the repair meets exact specifications. There's no "good enough" in aircraft maintenance. Either the work meets the standard or it doesn't.
 
@@ -67,7 +67,7 @@ Engine maintenance ranges from routine tasks like oil changes and borescope insp
 
 ### Avionics Technicians
 
-Avionics technicians handle the electronic systems — navigation, communication, radar, autopilot, flight management computers, weather systems, and increasingly, the software that ties everything together. Modern aircraft are essentially flying computer networks. A Boeing 787 Dreamliner has roughly 6.5 million lines of software code.
+Avionics technicians handle the electronic systems — [navigation](/navigation), communication, radar, autopilot, flight [management](/management) computers, weather systems, and increasingly, the software that ties everything together. Modern aircraft are essentially flying computer networks. A Boeing 787 Dreamliner has roughly 6.5 million lines of software code.
 
 As aircraft become more digitally connected, avionics work has shifted from replacing black boxes to diagnosing software issues, updating firmware, and integrating new systems. [Machine learning](/machine-learning) is even making its way into predictive maintenance systems, where algorithms analyze sensor data to flag components likely to fail before they actually do.
 
@@ -79,7 +79,7 @@ The path to becoming a certified aircraft mechanic in the U.S. is governed by 14
 
 Part 147 schools are FAA-approved Aviation Maintenance Technician Schools. The curriculum requires a minimum of 1,900 hours of instruction for a combined A&P program — 750 hours for general subjects, 750 for airframe, and 400 for powerplant. Most programs run 18 to 24 months.
 
-The training covers everything from basic physics and math to [sheet metal work](/sheet-metal-work), welding, electrical systems, composite repair, turbine engines, and inspection procedures. You'll also learn the regulatory framework — how to read and interpret FAA airworthiness directives, service bulletins, and type certificate data sheets.
+The training covers everything from basic [physics](/physics) and math to [sheet metal work](/sheet-metal-work), [welding](/welding), electrical systems, composite repair, turbine engines, and inspection procedures. You'll also learn the regulatory framework — how to read and interpret FAA airworthiness directives, service bulletins, and type certificate data sheets.
 
 After completing the program, graduates must pass three sets of FAA exams for each certificate (airframe and powerplant separately): a written knowledge test, an oral exam, and a practical (hands-on) exam. The practical tests are administered by FAA Designated Mechanic Examiners (DMEs) and can take an entire day each.
 
@@ -91,7 +91,7 @@ The catch? You still have to pass the same FAA written, oral, and practical exam
 
 ### Beyond the A&P
 
-The A&P certificate is really just the beginning. Experienced mechanics can pursue an Inspection Authorization (IA), which allows them to perform annual inspections on aircraft and approve return-to-service after major repairs. Getting an IA requires at least three years of A&P experience, and maintaining it requires ongoing activity — you have to perform a minimum number of inspections or complete continuing education each year.
+The A&P certificate is really just the beginning. Experienced mechanics can pursue an Inspection Authorization (IA), which allows them to perform annual inspections on aircraft and approve return-to-service after major repairs. Getting an IA requires at least three years of A&P experience, and maintaining it requires ongoing activity — you have to perform a minimum number of inspections or complete continuing [education](/education) each year.
 
 Manufacturers also offer specialized training certificates. Want to work on a specific engine type? You'll likely need factory training from Pratt & Whitney, GE, Rolls-Royce, or whoever built it. Airlines run their own training programs for fleet-specific knowledge. The learning never really stops.
 
@@ -121,7 +121,7 @@ Heavier maintenance follows a system of letter checks, though many airlines have
 
 When the FAA identifies an unsafe condition in a particular aircraft type, engine, or component, they issue an Airworthiness Directive (AD). ADs are legally binding — compliance isn't optional. They might require an inspection, a modification, a component replacement, or a limitation on operations. Some ADs are one-time actions. Others are recurring inspections that must be performed at specified intervals for the life of the aircraft.
 
-The AD system is reactive — it responds to problems that have been discovered. But it's also how the aviation industry continuously improves safety. Every accident investigation, every in-service failure report, and every engineering analysis can result in new ADs that tighten the maintenance net.
+The AD system is reactive — it responds to problems that have been discovered. But it's also how the aviation industry continuously improves safety. Every accident investigation, every in-service failure report, and every [engineering](/engineering) analysis can result in new ADs that tighten the maintenance net.
 
 ## Tools of the Trade
 
@@ -159,7 +159,7 @@ Modern aircraft increasingly use composite materials — carbon fiber reinforced
 
 This shift has dramatically changed maintenance practices. Composites don't corrode like aluminum, which is great. But they fail differently. Composites can suffer internal delamination — layers separating — from an impact that leaves barely a mark on the surface. A tool dropped on an aluminum wing panel leaves an obvious dent. The same tool dropped on a composite panel might look fine externally while the internal structure is compromised.
 
-Repairing composites requires different skills than working with metal. Instead of riveting a patch, composite repairs involve cutting out damaged material, laying up new plies of pre-impregnated fabric at specific orientations, and curing the repair under controlled heat and pressure using vacuum bags or autoclaves. The chemistry matters — mixing ratios, cure temperatures, cure times — in ways that metal repair doesn't demand.
+Repairing composites requires different skills than working with metal. Instead of riveting a patch, composite repairs involve cutting out damaged material, laying up new plies of pre-impregnated fabric at specific orientations, and curing the repair under controlled heat and pressure using vacuum bags or autoclaves. The [chemistry](/chemistry) matters — mixing ratios, cure temperatures, cure times — in ways that metal repair doesn't demand.
 
 Many veteran mechanics have had to retrain entirely to work on composite structures. It's a fundamentally different discipline, and it's only becoming more important as newer aircraft designs push composite usage even further.
 
@@ -215,13 +215,13 @@ But there's a satisfaction to it that's hard to find elsewhere. When you push ba
 
 ### Pay and Benefits
 
-The Bureau of Labor Statistics reports a median annual wage of approximately $75,400 for aircraft mechanics as of 2024. The top 10% earned over $109,000. Mechanics at major airlines typically earn more than those at regional carriers or general aviation shops. Many airline mechanics also receive flight benefits — free or heavily discounted travel — which is a surprisingly compelling perk.
+The Bureau of Labor [Statistics](/statistics) reports a median annual wage of approximately $75,400 for aircraft mechanics as of 2024. The top 10% earned over $109,000. Mechanics at major airlines typically earn more than those at regional carriers or general aviation shops. Many airline mechanics also receive flight benefits — free or heavily discounted travel — which is a surprisingly compelling perk.
 
 ## Common Misconceptions
 
 **"Aircraft mechanics just follow checklists."** Partially true, and intentionally so. Maintenance manuals exist for a reason — they capture engineering knowledge and prevent shortcuts. But troubleshooting a complex system malfunction requires deep understanding, logical reasoning, and experience that no checklist provides. When an intermittent electrical fault refuses to reproduce on the ground, a mechanic's diagnostic skill becomes the critical factor.
 
-**"Automation will replace aircraft mechanics."** Not anytime soon. Robots can't crawl through a fuel tank to inspect for corrosion. Drones are being tested for exterior visual inspections, but they can't replace the hands-on work of repair, component replacement, or systems troubleshooting. Automation and AI will change the job — better diagnostics, smarter scheduling, digital records — but the physical work remains stubbornly human.
+**"Automation will replace aircraft mechanics."** Not anytime soon. Robots can't crawl through a fuel tank to inspect for corrosion. Drones are being tested for exterior visual inspections, but they can't replace the hands-on work of repair, component replacement, or systems troubleshooting. Automation and AI will change the job — better diagnostics, smarter [scheduling](/scheduling), digital records — but the physical work remains stubbornly human.
 
 **"It's the same as being a car mechanic."** The technical knowledge overlaps slightly, but the regulatory environment, documentation requirements, and consequences of errors make aircraft maintenance a fundamentally different profession. An automotive mechanic doesn't need to produce paperwork certifying that every single task was performed according to the manufacturer's instructions and that the vehicle is safe to operate. An aircraft mechanic does — for everything.
 

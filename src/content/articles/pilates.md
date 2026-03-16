@@ -39,7 +39,7 @@ Joseph Hubertus Pilates (1883-1967) was born in Germany and spent his life obses
 
 During [World War I](/world-war-i), Pilates was interned as a German national in England. He used his time productively, developing his exercise system and [teaching](/teaching) it to fellow internees. He reportedly rigged bed [springs](/springs) to hospital beds to create resistance exercise equipment for injured soldiers — the prototype for the Pilates reformer.
 
-After the war, Pilates emigrated to New York City in 1926, opening a studio on Eighth Avenue with his wife Clara. Their studio attracted dancers — particularly from the New York City [Ballet](/ballet) — who found that Pilates' method built strength without bulk, improved flexibility, and helped rehabilitate injuries. This dance-world connection established Pilates' reputation and shaped its emphasis on long, lean muscles and graceful movement.
+After the war, Pilates emigrated to New York City in 1926, opening a studio on Eighth Avenue with his wife Clara. Their studio attracted dancers — particularly from the New York City [Ballet](/ballet) — who found that Pilates' method built strength without bulk, improved flexibility, and helped rehabilitate injuries. This [dance](/dance)-world connection established Pilates' reputation and shaped its emphasis on long, lean muscles and graceful movement.
 
 Joseph Pilates developed over 500 exercises during his lifetime. He was reportedly doing his full exercise routine into his 80s.
 

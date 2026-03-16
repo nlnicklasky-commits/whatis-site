@@ -31,13 +31,13 @@ faq:
 
 # What Is Wildlife Management?
 
-Wildlife management is the applied science of maintaining wild animal populations at healthy, sustainable levels while balancing the needs of those animals with human interests — [agriculture](/agriculture), development, recreation, and safety. It's not just about protecting animals (though it includes that). It's about actively managing populations, habitats, and human-wildlife interactions using data, [biology](/biology), and policy. Think of it as the practical, sometimes messy counterpart to conservation idealism.
+Wildlife [management](/management) is the applied science of maintaining wild animal populations at healthy, sustainable levels while balancing the needs of those animals with human interests — [agriculture](/agriculture), development, recreation, and safety. It's not just about protecting animals (though it includes that). It's about actively managing populations, habitats, and human-wildlife interactions using data, [biology](/biology), and policy. Think of it as the practical, sometimes messy counterpart to conservation idealism.
 
 ## The Origin Story
 
 Modern wildlife management exists because unregulated exploitation nearly destroyed North American wildlife. By the late 1800s, market [hunting](/hunting) and habitat destruction had pushed species to the brink: bison from 30-60 million to fewer than 1,000, white-tailed deer to roughly 500,000 (from an estimated 30 million), wild turkeys to isolated remnant populations, elk eliminated from most of their historic range.
 
-The response came in two phases. First, legal protection — the Lacey Act of 1900 prohibited interstate trade in illegally taken wildlife. Then, active management — Aldo Leopold, often called the father of wildlife management, published Game Management in 1933, establishing wildlife management as a science based on [ecology](/ecology) rather than sentiment.
+The response came in two phases. First, legal protection — the Lacey Act of 1900 prohibited interstate [trade](/trade) in illegally taken wildlife. Then, active management — Aldo Leopold, often called the father of wildlife management, published Game Management in 1933, establishing wildlife management as a science based on [ecology](/ecology) rather than sentiment.
 
 The results speak for themselves. White-tailed deer now number over 30 million. Wild turkeys went from near-extinction to populations exceeding 6 million across 49 states. Elk have been restored to much of their range. The North American Model of [Wildlife Conservation](/wildlife-conservation) — based on science-based management, regulated use, and public ownership of wildlife — is one of the most successful conservation programs in history.
 

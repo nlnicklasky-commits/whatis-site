@@ -101,7 +101,7 @@ In 1969, Robert Whittaker proposed the five-kingdom classification system, final
 
 Contemporary mycology has been transformed by DNA sequencing. Before molecular tools, mycologists classified fungi primarily by their physical characteristics — spore shape, cap color, gill structure. This led to many misclassifications because distantly related species can look similar (convergent evolution), and closely related species can look different.
 
-DNA barcoding — identifying species by short, standardized genetic sequences — has revolutionized fungal taxonomy. Environmental DNA (eDNA) sampling allows mycologists to detect fungal species in soil, water, and air without ever seeing the organism itself. The result has been an explosion of newly described species and a wholesale rearrangement of fungal family trees.
+DNA barcoding — identifying species by short, standardized genetic sequences — has revolutionized fungal [taxonomy](/taxonomy). Environmental DNA (eDNA) sampling allows mycologists to detect fungal species in soil, water, and air without ever seeing the organism itself. The result has been an explosion of newly described species and a wholesale rearrangement of fungal family trees.
 
 ## The Major Groups of Fungi
 
@@ -157,7 +157,7 @@ Beyond the obvious — eating mushrooms directly — fungi are embedded througho
 
 **Mycoprotein.** Quorn, a meat substitute made from *Fusarium venenatum* mycelium, has been commercially available since the 1980s. More recently, companies like Meati Foods and Nature's Fynd are developing mycelium-based proteins as alternatives to conventional meat — growing fungal biomass in fermentation tanks and processing it into products with meat-like texture.
 
-**Mushroom cultivation** itself is a major global industry. The worldwide mushroom market was valued at approximately $53 billion in 2024. China produces about 75% of the world's cultivated mushrooms. Button mushrooms (*Agaricus bisporus*) dominate Western markets, while shiitake, oyster, enoki, and king trumpet mushrooms are increasingly popular.
+**Mushroom cultivation** itself is a major global industry. The worldwide mushroom market was valued at approximately $53 billion in 2024. China produces about 75% of the world's cultivated mushrooms. Button mushrooms (*Agaricus bisporus*) dominate Western markets, while shiitake, oyster, enoki, and king [trumpet](/trumpet) mushrooms are increasingly popular.
 
 ## Fungi and Environmental Solutions
 
@@ -167,7 +167,7 @@ Some of the most exciting modern applications of mycology involve environmental 
 
 Certain fungi can break down pollutants that resist other forms of treatment. Paul Stamets, perhaps the most prominent public mycologist, has demonstrated that oyster mushrooms (*Pleurotus ostreatus*) can degrade diesel fuel, polycyclic aromatic hydrocarbons, and other petroleum-based contaminants in soil. White-rot fungi can break down some pesticides and even certain plastics.
 
-The logic is straightforward: fungi evolved to decompose complex organic molecules (especially lignin, which is structurally challenging). Some synthetic pollutants are structurally similar enough that fungal enzymes can attack them too.
+The [logic](/logic) is straightforward: fungi evolved to decompose complex organic molecules (especially lignin, which is structurally challenging). Some synthetic pollutants are structurally similar enough that fungal enzymes can attack them too.
 
 ### Mycelium Materials
 
@@ -177,7 +177,7 @@ Mycelium-based leather (marketed under names like Mylo and Reishi) is being adop
 
 ### Carbon Cycling
 
-Mycorrhizal fungi transfer significant amounts of carbon from the atmosphere (via plant photosynthesis) into the soil. Research published in 2023 estimated that mycorrhizal fungi receive about 13 gigatons of CO2 equivalent per year from plants — roughly 36% of annual fossil fuel emissions. Understanding and potentially enhancing this process could contribute to climate change mitigation, though the science is still developing.
+Mycorrhizal fungi transfer significant amounts of carbon from the atmosphere (via plant photosynthesis) into the soil. Research published in 2023 estimated that mycorrhizal fungi receive about 13 gigatons of CO2 equivalent per year from plants — roughly 36% of annual fossil fuel emissions. Understanding and potentially enhancing this process could contribute to [climate change](/climate-change) mitigation, though the science is still developing.
 
 ## Threats to Fungal Diversity
 

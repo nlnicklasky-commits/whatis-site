@@ -43,9 +43,9 @@ Acoustics is the branch of [physics](/physics) that deals with the production, t
 
 ## Sound Starts with Vibration
 
-Every sound you've ever heard began the same way: something vibrated. A guitar string. A vocal cord. A jackhammer slamming concrete. That vibration pushes against surrounding air molecules, which push against their neighbors, which push against theirs, creating a pressure wave that ripples outward from the source. When that wave reaches your eardrum, it vibrates too, and your brain interprets the pattern as sound.
+Every sound you've ever heard began the same way: something vibrated. [A guitar](/guitar) string. A vocal cord. A jackhammer slamming concrete. That vibration pushes against surrounding air molecules, which push against their neighbors, which push against theirs, creating a pressure wave that ripples outward from the source. When that wave reaches your eardrum, it vibrates too, and your brain interprets the pattern as sound.
 
-Here's what's easy to miss, though. The air molecules themselves don't travel from the source to your ear. They just bump into each other in sequence, like a line of dominoes. The *energy* moves; the molecules mostly stay put. This is why sound is classified as a mechanical wave — it needs a physical medium to travel through.
+Here's what's easy to miss, though. The air molecules themselves don't travel from the source to your ear. They just bump into each other in sequence, like a line of [dominoes](/dominoes). The *energy* moves; the molecules mostly stay put. This is why sound is classified as a mechanical wave — it needs a physical medium to travel through.
 
 No medium, no sound. That's why space is silent. The vacuum between stars contains too few molecules for pressure waves to propagate. Every explosion in a space movie should technically be dead quiet.
 
@@ -53,7 +53,7 @@ No medium, no sound. That's why space is silent. The vacuum between stars contai
 
 Sound waves have three properties that determine what you actually hear:
 
-**Frequency** is how many complete wave cycles pass a point per second, measured in hertz (Hz). Higher frequency means higher pitch. The lowest note on a piano vibrates at about 27.5 Hz. The highest hits around 4,186 Hz. Humans can generally hear from 20 Hz to 20,000 Hz, though that upper range drops as you age — most adults over 25 have already lost some high-frequency hearing.
+**Frequency** is how many complete wave cycles pass a point per second, measured in hertz (Hz). Higher frequency means higher pitch. The lowest note on a [piano](/piano) vibrates at about 27.5 Hz. The highest hits around 4,186 Hz. Humans can generally hear from 20 Hz to 20,000 Hz, though that upper range drops as you age — most adults over 25 have already lost some high-frequency hearing.
 
 **Amplitude** is the wave's strength — how much the air pressure deviates from its resting state. Higher amplitude means louder sound. We measure loudness in decibels (dB), which uses a logarithmic scale. This is an important detail: every 10 dB increase represents a perceived doubling of loudness. So 80 dB doesn't just sound "a bit more" than 70 dB. It sounds twice as loud.
 
@@ -79,7 +79,7 @@ The key concept here is **reverberation time** — how long a sound lingers afte
 
 Different spaces need different reverberation times. A concert hall for orchestral music typically aims for 1.8 to 2.2 seconds — enough reverb to blend instruments and create warmth. A recording studio needs far less, maybe 0.3 to 0.5 seconds, because you want to capture the dry sound and add effects later. A lecture hall sits somewhere in between, around 0.7 to 1.0 seconds — enough liveliness to feel natural, but short enough that speech remains clear.
 
-The materials in a room determine its acoustic character. Hard surfaces like concrete and glass reflect sound, increasing reverberation. Soft materials like carpet, curtains, and acoustic panels absorb it. The shapes matter too — parallel walls create standing waves and flutter echoes, which is why many concert halls use angled surfaces and irregular geometry.
+The materials in a room determine its acoustic character. Hard surfaces like concrete and glass reflect sound, increasing reverberation. Soft materials like carpet, curtains, and acoustic panels absorb it. The shapes matter too — parallel walls create standing waves and flutter echoes, which is why many concert halls use angled surfaces and irregular [geometry](/geometry).
 
 Boston's Symphony Hall, completed in 1900, was the first concert hall designed using Sabine's principles. It's still considered one of the finest acoustic spaces in the world — over 120 years later.
 
@@ -109,7 +109,7 @@ Then there's the **cocktail party effect** — your brain's ability to focus on 
 
 ### Musical Acoustics
 
-Why does a C note on a piano sound different from the same C on a violin, even at the same pitch and volume? The answer is **timbre** (pronounced "TAM-ber"), and it's determined by the overtone structure of the sound.
+Why does a C note on a piano sound different from the same C on a [violin](/violin), even at the same pitch and volume? The answer is **timbre** (pronounced "TAM-ber"), and it's determined by the overtone structure of the sound.
 
 When a string vibrates, it doesn't just produce one frequency. It creates a fundamental frequency plus a series of harmonics — integer multiples of the fundamental. A 440 Hz A note produces overtones at 880 Hz, 1,320 Hz, 1,760 Hz, and so on. The relative strengths of these overtones, plus the way they change over time (the attack, sustain, and decay), give each instrument its distinctive voice.
 
@@ -135,7 +135,7 @@ Ultrasound imaging has a massive advantage over X-rays and CT scans: no ionizing
 
 Beyond imaging, therapeutic ultrasound uses focused sound energy to heat and destroy tissue — treating certain cancers, breaking up kidney stones (lithotripsy), and even delivering drugs through the skin.
 
-Industrial ultrasonics are equally impressive. Ultrasonic testing can detect cracks and defects inside metal structures without cutting them open. Ultrasonic welding joins plastics and metals using high-frequency vibration. Ultrasonic cleaning uses cavitation — the rapid formation and collapse of tiny bubbles — to scrub surfaces at a microscopic level.
+Industrial ultrasonics are equally impressive. Ultrasonic testing can detect cracks and defects inside metal structures without cutting them open. Ultrasonic [welding](/welding) joins plastics and metals using high-frequency vibration. Ultrasonic cleaning uses cavitation — the rapid formation and collapse of tiny bubbles — to scrub surfaces at a microscopic level.
 
 ## The Doppler Effect: When Sound Gets Weird
 
@@ -155,7 +155,7 @@ On the friendly side, resonance is how most musical instruments work. A guitar b
 
 On the dangerous side, resonance can destroy things. The most famous (and often misunderstood) example is the Tacoma Narrows Bridge collapse in 1940. While commonly attributed to resonance, it was actually caused by a related phenomenon called aeroelastic flutter. But genuine acoustic resonance failures do happen — improperly mounted machinery can vibrate itself apart when operating speeds match structural resonant frequencies.
 
-Wine glasses can indeed shatter from sound, though it takes very precise frequency matching and significant volume — typically above 100 dB at the exact resonant frequency of the glass. Opera singer shattering glass on stage? Theoretically possible, but practically very difficult without amplification.
+Wine glasses can indeed shatter from sound, though it takes very precise frequency matching and significant volume — typically above 100 dB at the exact resonant frequency of the glass. [Opera](/opera) singer shattering glass on stage? Theoretically possible, but practically very difficult without amplification.
 
 ## Room Modes and Standing Waves
 
@@ -185,7 +185,7 @@ Sound shapes your daily experience in ways you probably don't think about.
 
 **Your car's interior** was acoustically engineered. Door seals, sound-deadening mats, laminated windshields, and engine mounts were all chosen partly for their acoustic properties. Luxury car brands spend millions ensuring you hear a solid "thunk" when you close the door — that sound communicates quality, and it's deliberately designed.
 
-**Your phone calls** depend on acoustic echo cancellation. Without it, the signal from your earpiece would bounce off your face, get picked up by the microphone, and feed back to the other person. Algorithms running on your phone's processor detect and remove this echo in real time.
+**Your phone calls** depend on acoustic echo cancellation. Without it, the signal from your earpiece would bounce off your face, get picked up by the microphone, and feed back to the other person. Algorithms [running](/running) on your phone's processor detect and remove this echo in real time.
 
 **Restaurant noise** isn't accidental — it's often a design choice. Many modern restaurants use hard surfaces (exposed brick, concrete floors, metal ceilings) that increase noise levels to 80-85 dB. The ambient buzz creates energy and makes the space feel lively. But it comes at a cost: at those levels, you're practically shouting to have a conversation, and staff working 8-hour shifts face potential hearing damage.
 
@@ -211,6 +211,6 @@ Acoustics is the science of something we experience every waking moment but rare
 
 ## Key Takeaways
 
-Acoustics is the science of sound — from the physics of pressure waves to the psychology of perception to the [engineering](/engineering) of spaces and devices. Sound begins with vibration, travels as mechanical waves through a medium, and gets interpreted by brains tuned by millions of years of evolution. The field spans architectural design, noise control, music, medicine, underwater detection, and emerging technologies like acoustic metamaterials and active noise cancellation.
+Acoustics is the science of sound — from the physics of pressure waves to the [psychology](/psychology) of perception to the [engineering](/engineering) of spaces and devices. Sound begins with vibration, travels as mechanical waves through a medium, and gets interpreted by brains tuned by millions of years of evolution. The field spans architectural design, noise control, music, medicine, underwater detection, and emerging technologies like acoustic metamaterials and active noise cancellation.
 
 Whether you're designing a concert hall, protecting workers from hearing damage, developing better headphones, or just trying to figure out why your living room has a weird bass buildup in the corner, acoustics has the answers. It's one of those rare sciences that touches your life constantly — you just have to know where to listen.

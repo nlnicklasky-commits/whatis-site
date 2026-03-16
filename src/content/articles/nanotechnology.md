@@ -37,9 +37,9 @@ faq:
 
 # What Is Nanotechnology?
 
-Nanotechnology is the science and engineering of manipulating matter at the nanoscale — roughly 1 to 100 nanometers, where a nanometer is one billionth of a meter. To put that in perspective: a sheet of paper is about 100,000 nanometers thick. A strand of DNA is about 2 nanometers wide. At this scale, you're working with individual atoms and molecules, and materials behave in ways that defy the rules we're used to at human scale.
+Nanotechnology is the science and [engineering](/engineering) of manipulating matter at the nanoscale — roughly 1 to 100 nanometers, where a nanometer is one billionth of a meter. To put that in perspective: a sheet of paper is about 100,000 nanometers thick. A strand of DNA is about 2 nanometers wide. At this scale, you're working with individual atoms and molecules, and materials behave in ways that defy the rules we're used to at human scale.
 
-Here's the thing that makes nanotechnology genuinely interesting, not just small: materials at the nanoscale develop entirely new properties. Gold, which is famously gold-colored, turns red or purple at the nanoscale. Aluminum, normally stable, becomes explosively combustible as nanoparticles. Carbon arranged in tubes just nanometers wide becomes stronger than steel at a fraction of the weight. Physics changes at the bottom.
+Here's the thing that makes nanotechnology genuinely interesting, not just small: materials at the nanoscale develop entirely new properties. Gold, which is famously gold-colored, turns red or purple at the nanoscale. Aluminum, normally stable, becomes explosively combustible as nanoparticles. Carbon arranged in tubes just nanometers wide becomes stronger than steel at a fraction of the weight. [Physics](/physics) changes at the bottom.
 
 ## Why Size Changes Everything
 
@@ -77,7 +77,7 @@ Drexler's vision was controversial among scientists. He proposed self-replicatin
 
 ### The Scanning Probe Breakthrough
 
-The field's real technological birth came with the invention of the scanning tunneling microscope (STM) in 1981 by Gerd Binnig and Heinrich Rohrer at IBM Zurich — work that earned them the 1986 Nobel Prize in Physics. The STM could image individual atoms on a surface for the first time.
+The field's real technological birth came with the [invention](/invention) of the scanning [tunneling](/tunneling) microscope (STM) in 1981 by Gerd Binnig and Heinrich Rohrer at IBM Zurich — work that earned them the 1986 Nobel Prize in Physics. The STM could image individual atoms on a surface for the first time.
 
 Then in 1989, IBM researcher Don Eigler used an STM to arrange 35 individual xenon atoms on a nickel surface, spelling out "IBM." It was the first time humans had deliberately positioned individual atoms. The image became iconic — proof that Feynman's dream of atomic manipulation was achievable.
 
@@ -85,11 +85,11 @@ The atomic force microscope (AFM), invented in 1986, extended these capabilities
 
 ### Carbon Nanostructures Change the Game
 
-In 1985, Robert Curl, Harold Kroto, and Richard Smalley discovered buckminsterfullerene (C60) — a soccer-ball-shaped molecule made of 60 carbon atoms. In 1991, Sumio Iijima reported the discovery of carbon nanotubes — cylindrical structures of rolled graphene sheets, just nanometers in diameter but micrometers to millimeters long.
+In 1985, Robert Curl, Harold Kroto, and Richard Smalley discovered buckminsterfullerene (C60) — a [soccer](/soccer)-ball-shaped molecule made of 60 carbon atoms. In 1991, Sumio Iijima reported the discovery of carbon nanotubes — cylindrical structures of rolled graphene sheets, just nanometers in diameter but micrometers to millimeters long.
 
 Carbon nanotubes turned out to have extraordinary properties: tensile strength 100 times greater than steel at one-sixth the weight, electrical conductivity comparable to copper, and thermal conductivity exceeding diamond. They became the poster child for nanomaterial potential.
 
-Graphene — a single atomic layer of carbon atoms arranged in a hexagonal lattice — was isolated by Andre Geim and Konstantin Novoselov in 2004 (Nobel Prize in Physics, 2010). It's the thinnest possible material, extraordinarily strong, and conducts electricity better than any known material at room temperature.
+Graphene — a single atomic layer of carbon atoms arranged in a hexagonal lattice — was isolated by Andre Geim and Konstantin Novoselov in 2004 (Nobel Prize in Physics, 2010). It's the thinnest possible material, extraordinarily strong, and conducts [electricity](/electricity) better than any known material at room temperature.
 
 ## What Nanotechnology Actually Does Today
 
@@ -111,7 +111,7 @@ Abraxane, a nanoparticle formulation of the cancer drug paclitaxel bound to albu
 
 ### Electronics
 
-Nanotechnology isn't a future technology in electronics — it's been the present for over a decade. Modern computer chips are manufactured at nanometer-scale feature sizes. As of 2025, leading-edge processors from TSMC and Samsung use 3-nanometer process nodes, meaning the smallest features on the chip are about 3 nanometers across — roughly 15 atoms wide.
+Nanotechnology isn't a future technology in [electronics](/electronics) — it's been the present for over a decade. Modern computer chips are manufactured at nanometer-scale feature sizes. As of 2025, leading-edge processors from TSMC and Samsung use 3-nanometer process nodes, meaning the smallest features on the chip are about 3 nanometers across — roughly 15 atoms wide.
 
 Moore's Law — the observation that transistor density doubles approximately every two years — has been driven by the ability to shrink features to the nanoscale. Whether this scaling continues depends largely on overcoming nanoscale physics challenges: quantum tunneling (electrons leaking through barriers that should stop them), heat dissipation, and manufacturing precision.
 
@@ -125,7 +125,7 @@ Nanomaterials are quietly everywhere in consumer products.
 
 **Stain-resistant fabrics** use nanostructured coatings that create a water-repellent surface — mimicking the lotus leaf's natural nano-textured surface that causes water to bead up and roll off, carrying dirt with it.
 
-**Stronger, lighter composites.** Carbon nanotubes and nanofibers reinforced into polymers and metals create materials used in aerospace, sporting goods, automotive parts, and construction. A tennis racket reinforced with carbon nanotubes is stiffer and lighter than conventional alternatives.
+**Stronger, lighter composites.** Carbon nanotubes and nanofibers reinforced into polymers and metals create materials used in aerospace, sporting goods, automotive parts, and [construction](/construction). A [tennis](/tennis) racket reinforced with carbon nanotubes is stiffer and lighter than conventional alternatives.
 
 **Self-cleaning glass** uses a nano-thin coating of titanium dioxide that breaks down organic dirt using UV light (photocatalysis) and creates a surface where water sheets off rather than forming droplets, carrying away loosened dirt.
 
@@ -165,7 +165,7 @@ Making things at the nanoscale requires specialized approaches.
 
 **Top-down manufacturing** starts with bulk material and carves it down to nanoscale features. This is how semiconductor chips are made — [photolithography](/photolithography) projects patterns of light onto photosensitive material, and etching removes everything that wasn't protected. It's extremely precise but faces physical limits as features shrink below 5-7 nanometers.
 
-**Bottom-up manufacturing** assembles structures from individual atoms or molecules. Chemical synthesis creates nanoparticles and nanostructures by controlling reactions at the molecular level. Self-assembly — where molecules naturally organize into ordered structures because of their chemical properties — is a particularly elegant bottom-up approach. DNA origami, where synthetic DNA strands fold into predetermined 2D and 3D shapes, is a remarkable example.
+**Bottom-up manufacturing** assembles structures from individual atoms or molecules. Chemical synthesis creates nanoparticles and nanostructures by controlling reactions at the molecular level. Self-assembly — where molecules naturally organize into ordered structures because of their chemical properties — is a particularly elegant bottom-up approach. DNA [origami](/origami), where synthetic DNA strands fold into predetermined 2D and 3D shapes, is a remarkable example.
 
 The ultimate goal — Drexler's vision of molecular assemblers that build arbitrary structures atom by atom — remains theoretical. Current bottom-up methods work well for specific materials and structures but can't produce arbitrary shapes with atomic precision.
 
@@ -175,7 +175,7 @@ The ultimate goal — Drexler's vision of molecular assemblers that build arbitr
 
 **Materials discovery.** AI models trained on materials databases can predict properties of nanomaterials that haven't been synthesized yet, dramatically reducing the trial-and-error of traditional [materials science](/materials-science). Google DeepMind's GNoME model identified 2.2 million potential new materials in 2023.
 
-**Process optimization.** Nanoparticle synthesis involves many variables — temperature, concentration, reaction time, surfactant choice — and AI can optimize these parameters faster than human experimentation.
+**Process [optimization](/optimization).** Nanoparticle synthesis involves many variables — temperature, concentration, reaction time, surfactant choice — and AI can optimize these parameters faster than human experimentation.
 
 **Imaging and characterization.** Machine learning algorithms analyze [electron microscopy](/electron-microscopy) images to identify and classify nanostructures automatically, speeding up characterization that was previously done manually.
 
@@ -203,6 +203,6 @@ Several frontiers are particularly active.
 
 Nanotechnology is the engineering of matter at atomic and molecular scales, where materials develop properties fundamentally different from their bulk counterparts. It's already deeply embedded in products you use daily — electronics, sunscreens, coatings, vaccines — while simultaneously pushing toward applications that could reshape medicine, energy, and computing.
 
-The field sits at the intersection of [chemistry](/chemistry), physics, [biology](/biology), materials science, and engineering. Its promise is real — targeted drug delivery, more efficient solar cells, stronger and lighter materials, more powerful computers. Its risks are also real — uncertain toxicology, environmental unknowns, and regulatory gaps.
+The field sits at the intersection of [chemistry](/chemistry), physics, [biology](/biology), materials science, and engineering. Its promise is real — targeted drug delivery, more efficient solar cells, stronger and lighter materials, more powerful computers. Its risks are also real — uncertain [toxicology](/toxicology), environmental unknowns, and regulatory gaps.
 
 The key insight about nanotechnology is that it isn't a single technology. It's a scale of engineering — a toolkit that applies across virtually every field of science and industry. Mastering that scale is one of the defining technical challenges of the 21st century.

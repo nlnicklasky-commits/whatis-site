@@ -31,7 +31,7 @@ faq:
 
 # What Is Water Management?
 
-Water management is the practice of planning, developing, distributing, and conserving water resources to meet human needs while maintaining environmental health. It covers everything from building dams and treatment plants to setting conservation policies and managing stormwater runoff. Done well, it's invisible — you turn a tap and clean water comes out. Done poorly, you get droughts, floods, contamination, and [public health](/public-health) crises.
+Water [management](/management) is the practice of planning, developing, distributing, and conserving water resources to meet human needs while maintaining environmental health. It covers everything from building dams and treatment plants to setting conservation policies and managing stormwater runoff. Done well, it's invisible — you turn a tap and clean water comes out. Done poorly, you get droughts, floods, contamination, and [public health](/public-health) crises.
 
 ## The Supply Side
 
@@ -81,7 +81,7 @@ Philadelphia's Green City, Clean Waters program is a prominent example — the c
 
 ## Climate Change and Water
 
-Climate change is fundamentally altering water management calculations. Warmer temperatures increase evaporation, change precipitation patterns, reduce snowpack (which serves as natural water storage), and intensify both droughts and flooding.
+[Climate change](/climate-change) is fundamentally altering water management calculations. Warmer temperatures increase evaporation, change precipitation patterns, reduce snowpack (which serves as natural water storage), and intensify both droughts and flooding.
 
 The Western U.S. is particularly vulnerable. Mountain snowpack — which provides water to hundreds of millions of people through gradual spring melting — is declining. By mid-century, snowpack reductions of 25-50% are projected in many Western watersheds. This doesn't necessarily mean less total precipitation, but it changes the timing — more rain and less snow means more flood risk in winter and less water available in summer.
 

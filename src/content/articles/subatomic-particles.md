@@ -88,7 +88,7 @@ If fermions are the bricks, bosons are the mortar. They carry the fundamental fo
 
 **Photons** carry the electromagnetic force. Every time you see light, feel warmth from the sun, or use a [radio](/amateur-radio), you're interacting with photons. They have zero mass and travel at the speed of light (obviously — they *are* light).
 
-**Gluons** carry the strong nuclear force, which binds quarks together inside protons and neutrons and holds the atomic nucleus together. The strong force is absurdly powerful — about 137 times stronger than electromagnetism. But it only operates over incredibly tiny distances, roughly the diameter of an atomic nucleus (about 10^-15 meters).
+**Gluons** carry the strong nuclear force, which binds quarks together inside protons and neutrons and holds the atomic nucleus together. The strong force is absurdly powerful — about 137 times stronger than [electromagnetism](/electromagnetism). But it only operates over incredibly tiny distances, roughly the diameter of an atomic nucleus (about 10^-15 meters).
 
 Here's the weird part about gluons: unlike photons, gluons carry the charge they transmit (called "color charge"). This means gluons interact with each other, not just with quarks. It makes the strong force behave in truly strange ways — the further apart you pull two quarks, the *stronger* the force between them gets, like a spring that never breaks. This is why you'll never see a free quark floating around on its own.
 
@@ -108,7 +108,7 @@ The strong force works through the exchange of gluons between quarks. A proton i
 
 ### The Electromagnetic Force
 
-Electromagnetism governs the behavior of electrically charged particles. It's responsible for [chemistry](/chemistry), light, magnetism, electronics, and basically every phenomenon you experience in daily life that isn't gravity. Your body is held together by electromagnetic forces between [atoms](/anatomy). The screen you're reading this on works because of controlled electromagnetic interactions.
+Electromagnetism governs the behavior of electrically charged particles. It's responsible for [chemistry](/chemistry), light, magnetism, [electronics](/electronics), and basically every phenomenon you experience in daily life that isn't gravity. Your body is held together by electromagnetic forces between [atoms](/anatomy). The screen you're reading this on works because of controlled electromagnetic interactions.
 
 ### The Weak Nuclear Force
 
@@ -120,7 +120,7 @@ The weak force also violates a symmetry called parity — it distinguishes betwe
 
 Gravity is by far the weakest of the four forces — about 10^36 times weaker than electromagnetism. But it has infinite range and always attracts, which means it dominates at large scales. It's why planets orbit stars and galaxies hold together.
 
-The Standard Model doesn't include gravity. Einstein's general relativity describes gravity beautifully at large scales, but combining it with quantum mechanics has proven extraordinarily difficult. Some physicists hypothesize a graviton — a massless, spin-2 boson that would carry the gravitational force — but none has ever been detected.
+The Standard Model doesn't include gravity. Einstein's [general relativity](/general-relativity) describes gravity beautifully at large scales, but combining it with [quantum mechanics](/quantum-mechanics) has proven extraordinarily difficult. Some physicists hypothesize a graviton — a massless, spin-2 boson that would carry the gravitational force — but none has ever been detected.
 
 Finding a quantum theory of gravity is one of the biggest open problems in physics today.
 
@@ -128,7 +128,7 @@ Finding a quantum theory of gravity is one of the biggest open problems in physi
 
 For every matter particle, there's a corresponding antiparticle with the same mass but opposite charge. The electron's antiparticle is the positron (positive electron). The proton has the antiproton. Even neutrinos have anti-neutrinos.
 
-When a particle meets its antiparticle, they annihilate each other in a burst of pure energy. This isn't science fiction — it happens in PET scanners at hospitals every day. PET stands for Positron Emission Tomography, and it works by detecting the gamma rays produced when positrons from a radioactive tracer annihilate with electrons in your body.
+When a particle meets its antiparticle, they annihilate each other in a burst of pure energy. This isn't [science fiction](/science-fiction) — it happens in PET scanners at hospitals every day. PET stands for Positron Emission Tomography, and it works by detecting the gamma rays produced when positrons from a radioactive tracer annihilate with electrons in your body.
 
 Here's one of the biggest mysteries in physics: the Big Bang should have produced equal amounts of matter and antimatter. If it had, everything would have annihilated immediately, leaving nothing but radiation. Obviously, that didn't happen — we exist. Something tipped the balance slightly in favor of matter, but we still don't fully understand what.
 
@@ -142,7 +142,7 @@ The primary tool is the particle accelerator. These machines accelerate particle
 
 The Large Hadron Collider (LHC) at CERN, straddling the French-Swiss border, is the world's largest and most powerful accelerator. It's a ring 27 kilometers (17 miles) in circumference, buried 100 meters underground. It accelerates protons to 99.9999991% of the speed of light and collides them about 600 million times per second.
 
-The LHC's detectors — ATLAS and CMS are the two biggest — are engineering marvels. ATLAS is 46 meters long and 25 meters in diameter, bigger than a five-story building. It contains about 3,000 kilometers of cable. These detectors record the tracks, energies, and identities of the particles produced in each collision.
+The LHC's detectors — ATLAS and CMS are the two biggest — are [engineering](/engineering) marvels. ATLAS is 46 meters long and 25 meters in diameter, bigger than a five-story building. It contains about 3,000 kilometers of cable. These detectors record the tracks, energies, and identities of the particles produced in each collision.
 
 ### Cosmic Ray Detectors
 
@@ -152,7 +152,7 @@ The IceCube Neutrino Observatory at the South Pole uses a cubic kilometer of Ant
 
 ### Underground Experiments
 
-Many particle physics experiments are conducted deep underground to shield against cosmic ray interference. The Super-Kamiokande detector in Japan sits 1,000 meters underground in a mine, containing 50,000 tons of ultra-pure water surrounded by 11,146 photomultiplier tubes that can detect individual photons.
+Many [particle physics](/particle-physics) experiments are conducted deep underground to shield against cosmic ray interference. The Super-Kamiokande detector in Japan sits 1,000 meters underground in a mine, containing 50,000 tons of ultra-pure water surrounded by 11,146 photomultiplier tubes that can detect individual photons.
 
 ## Beyond the Standard Model
 
@@ -182,7 +182,7 @@ Physicists have proposed several frameworks to address the Standard Model's shor
 
 **Supersymmetry (SUSY)** predicts that every known particle has a heavier "superpartner." If true, the lightest superpartner could be dark matter. But the LHC hasn't found any superpartners yet, pushing SUSY into increasingly constrained territory.
 
-**String theory** proposes that particles aren't point-like but rather tiny vibrating strings of energy. Different vibration patterns would produce different particles. It naturally includes gravity and could unify all four forces. The catch? String theory requires extra spatial dimensions (usually 6 or 7) and makes very few testable predictions at energies we can reach.
+**[String theory](/string-theory)** proposes that particles aren't point-like but rather tiny vibrating strings of energy. Different vibration patterns would produce different particles. It naturally includes gravity and could unify all four forces. The catch? String theory requires extra spatial dimensions (usually 6 or 7) and makes very few testable predictions at energies we can reach.
 
 **Loop quantum gravity** takes a different approach, attempting to quantize spacetime itself into discrete chunks at the Planck scale (about 10^-35 meters). Unlike string theory, it doesn't require extra dimensions, but it also doesn't unify the forces.
 

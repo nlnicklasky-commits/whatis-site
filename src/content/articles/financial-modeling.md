@@ -45,7 +45,7 @@ Here's a scenario. A [private equity](/private-equity) firm is considering buyin
 
 To answer, they need to project the company's future cash flows, estimate how quickly debt can be repaid, calculate the likely return on investment under different scenarios, and compare this deal to other opportunities. They can't do any of this with a gut feeling. They need a model.
 
-Financial models are the primary analytical tool for decisions involving millions or billions of dollars. Investment bankers build them to price IPOs and mergers. [Corporate finance](/corporate-finance) teams build them to evaluate new projects. Venture capitalists build them to assess startup valuations. Real estate developers build them to decide whether to break ground.
+Financial models are the primary analytical tool for decisions involving millions or billions of dollars. Investment bankers build them to price IPOs and mergers. [Corporate finance](/corporate-finance) teams build them to evaluate new projects. Venture capitalists build them to assess startup valuations. [Real estate](/real-estate) developers build them to decide whether to break ground.
 
 The model doesn't make the decision—people do. But the model structures the analysis, forces assumptions to be explicit, and allows decision-makers to test how different scenarios affect the outcome. A good model turns "I think this is a good deal" into "Under these specific assumptions, this deal returns 22% annually. If revenue growth drops from 8% to 5%, the return drops to 14%."
 
@@ -59,7 +59,7 @@ You start with revenue. How much will the company sell next year? The year after
 
 - Historical growth rates
 - Industry benchmarks
-- Management guidance
+- [Management](/management) guidance
 - Market size and share analysis
 - Contract backlog or pipeline data
 
@@ -91,7 +91,7 @@ The three-statement model is the foundation. Specialized models build on it for 
 
 The DCF model values a company by projecting its future free cash flows and discounting them back to present value. It answers the question: "What is this company worth today based on the cash it will generate in the future?"
 
-The logic follows directly from the time value of money. A dollar received next year is worth less than a dollar today. So future cash flows must be "discounted" to reflect this. The discount rate is typically the company's weighted average cost of capital (WACC)—representing the minimum return that investors expect.
+The [logic](/logic) follows directly from the time value of money. A dollar received next year is worth less than a dollar today. So future cash flows must be "discounted" to reflect this. The discount rate is typically the company's weighted average cost of capital (WACC)—representing the minimum return that investors expect.
 
 A typical DCF has two components:
 
@@ -118,7 +118,7 @@ An LBO model projects:
 
 The key output is the IRR. Private equity firms typically target IRRs of 20-25% or higher. If the model shows 15%, the deal probably doesn't get done. If it shows 30%, they're interested.
 
-LBO models are particularly sensitive to entry price and exit multiple. Buy too expensive or sell at a lower multiple, and returns collapse. This is why private equity is intensely focused on purchase price negotiation—every dollar paid upfront directly reduces returns.
+LBO models are particularly sensitive to entry price and exit multiple. Buy too expensive or sell at a lower multiple, and returns collapse. This is why private equity is intensely focused on purchase price [negotiation](/negotiation)—every dollar paid upfront directly reduces returns.
 
 ### Merger and Acquisition (M&A) Model
 
@@ -137,15 +137,15 @@ An operating model for a SaaS (software-as-a-service) company might track:
 - Churn rates by customer segment
 - Revenue per customer over time (expansion, contraction)
 - Server costs per customer
-- Sales team [productivity](/productivity) by rep
+- [Sales](/sales) team [productivity](/productivity) by rep
 
-These models are often more granular than valuation models because they need to support operational decisions—how many salespeople to hire, how much to spend on marketing, when to expand capacity.
+These models are often more granular than valuation models because they need to support operational decisions—how many salespeople to hire, how much to spend on [marketing](/marketing), when to expand capacity.
 
 ### Real Estate Financial Model
 
 Real estate has its own modeling conventions. A property model projects rental income, vacancy rates, operating expenses, debt service, capital improvements, and eventual sale proceeds to calculate investor returns.
 
-The key metrics are different from corporate finance: cap rate (net operating income / property value), cash-on-cash return (annual cash flow / equity invested), and IRR over the hold period.
+The key metrics are different from corporate [finance](/finance): cap rate (net operating income / property value), cash-on-cash return (annual cash flow / equity invested), and IRR over the hold period.
 
 ## The Art of Assumptions
 

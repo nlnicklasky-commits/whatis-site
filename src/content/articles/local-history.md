@@ -58,7 +58,7 @@ In the United States, local history boomed in the 19th century. As communities g
 
 These early county histories had obvious biases. They typically focused on white, male, property-owning residents. They often served as vanity publications — families paid to have their biographies included. Indigenous peoples, African Americans, immigrants, and working-class communities were largely absent.
 
-The 20th century saw local history professionalize and democratize. The Works Progress Administration (WPA) during the 1930s employed writers to document local histories, folklore, and slave narratives across the United States — creating an extraordinary archive of ordinary American life. The Federal Writers' Project alone produced over 10,000 individual pieces documenting communities, ethnic groups, and social conditions.
+The 20th century saw local history professionalize and democratize. The Works Progress Administration (WPA) during the 1930s employed writers to document local histories, [folklore](/folklore), and slave narratives across the United States — creating an extraordinary archive of ordinary American life. The Federal Writers' Project alone produced over 10,000 individual pieces documenting communities, ethnic groups, and social conditions.
 
 After [World War II](/world-war-ii), the "new [social history](/social-history)" movement pushed historians to study ordinary people — workers, women, minorities, immigrants — rather than just elites. Local history became a natural vehicle for this approach. If you want to understand how working-class families experienced industrialization, you study a specific factory town. If you want to understand the Great Migration, you study the specific Southern communities people left and the Northern neighborhoods they built.
 
@@ -84,7 +84,7 @@ Local history is remarkably democratic. While professional historians, archivist
 
 Historical societies are the institutional backbone of local history in most communities. The United States has over 14,000 historical societies, ranging from volunteer-run organizations operating out of donated houses to large institutions with professional staff, archives, and museum collections. They collect materials, organize exhibitions, publish research, and serve as gathering points for people interested in their community's past.
 
-Museums — from large regional museums to tiny, single-room collections — preserve and interpret local artifacts, documents, and stories. Historic preservation programs protect buildings, landscapes, and archaeological sites that embody local history. Walking tours, historical markers, and heritage trails make local history physically visible in the communities themselves.
+Museums — from large regional museums to tiny, single-room collections — preserve and interpret local artifacts, documents, and stories. Historic preservation programs protect buildings, landscapes, and archaeological sites that embody local history. [Walking](/walking) tours, historical markers, and heritage trails make local history physically visible in the communities themselves.
 
 Digital technology has transformed the field. Digitized records, online databases, geographic [information systems](/information-systems) (GIS), and social media have made research faster and collaboration easier. Projects like HistoryPin and the Digital Public Library of America aggregate local history materials from thousands of institutions, making them searchable and accessible worldwide.
 
@@ -94,7 +94,7 @@ Local history shapes community identity in ways that matter practically, not jus
 
 Understanding your community's history gives you context for current issues. Why is that neighborhood segregated? Why is that factory closed? Why is that building preserved while that one was demolished? These aren't random outcomes — they're products of specific decisions made by specific people at specific times. Knowing that [history](/histology) helps you understand the present and participate more effectively in decisions about the future.
 
-Heritage tourism — people visiting places because of their historical significance — is a significant economic force. Communities that preserve and interpret their history attract visitors, support local businesses, and create jobs. The National Trust for Historic Preservation estimates that heritage tourism contributes over $170 billion annually to the U.S. economy.
+Heritage [tourism](/tourism) — people visiting places because of their historical significance — is a significant economic force. Communities that preserve and interpret their history attract visitors, support local businesses, and create jobs. The National Trust for Historic Preservation estimates that heritage tourism contributes over $170 billion annually to the U.S. economy.
 
 Local history also challenges received narratives. Every community has stories that have been suppressed, forgotten, or distorted — stories of indigenous displacement, racial violence, labor struggles, immigrant contributions, and women's activism that don't appear in the official record. Recovering these stories isn't just good history — it's a form of justice.
 

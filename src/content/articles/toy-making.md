@@ -87,4 +87,4 @@ Research in [developmental psychology](/developmental-psychology) consistently s
 
 The toy industry's challenge is balancing commercial interests with genuine benefit to children. The best toys — from simple wooden blocks to well-designed construction sets — promote open-ended, imaginative play. The worst are essentially marketing vehicles that encourage passive consumption rather than active engagement.
 
-Toy making, at its best, combines design creativity, engineering skill, safety science, and an understanding of how children think and play. It's a field where getting it right genuinely matters.
+Toy making, at its best, combines design creativity, [engineering](/engineering) skill, safety science, and an understanding of how children think and play. It's a field where getting it right genuinely matters.

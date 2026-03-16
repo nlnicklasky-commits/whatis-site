@@ -57,7 +57,7 @@ Piaget identified four stages:
 
 **Sensorimotor (0-2 years):** Infants understand the world through physical interaction—grasping, sucking, shaking. The major achievement here is object permanence: understanding that things continue to exist when you can't see them. Before about 8 months, if you hide a toy under a blanket, a baby acts as if it vanished. After object permanence develops, the baby lifts the blanket and looks. This seems trivial, but it represents an enormous cognitive leap—the ability to mentally represent things that aren't directly perceived.
 
-**Preoperational (2-7 years):** Children develop language and symbolic thinking but struggle with logic. They're egocentric—not selfish, but genuinely unable to understand that others see things differently. Piaget's famous "three mountains task" demonstrated this: children couldn't describe what a scene looked like from another person's perspective. They also fail conservation tasks—they insist that a tall, thin glass has more water than a short, wide one, even after watching you pour the same water between them.
+**Preoperational (2-7 years):** Children develop language and symbolic thinking but struggle with [logic](/logic). They're egocentric—not selfish, but genuinely unable to understand that others see things differently. Piaget's famous "three mountains task" demonstrated this: children couldn't describe what a scene looked like from another person's perspective. They also fail conservation tasks—they insist that a tall, thin glass has more water than a short, wide one, even after watching you pour the same water between them.
 
 **Concrete operational (7-11 years):** Logical thinking emerges, but only for concrete situations. Conservation problems become easy. Children can classify, order, and reason about real objects. But abstract hypothetical reasoning remains difficult.
 
@@ -113,7 +113,7 @@ The striking finding: attachment styles measured at 12 months predict relationsh
 
 ### Physical Development
 
-Physical development follows predictable patterns with individual variation. Infants develop motor skills in a cephalocaudal (head-to-tail) and proximodistal (center-to-extremities) direction—head control before sitting, sitting before walking, gross motor before fine motor.
+Physical development follows predictable patterns with individual variation. Infants develop motor skills in a cephalocaudal (head-to-tail) and proximodistal (center-to-extremities) direction—head control before sitting, sitting before [walking](/walking), gross motor before fine motor.
 
 Puberty, triggered by hormonal cascades beginning around ages 8-13, produces the dramatic physical changes of adolescence. The timing of puberty has been getting earlier over the past century—a phenomenon called the secular trend—likely due to improved [nutrition](/nutrition), increased body fat, and possibly environmental chemical exposure.
 
@@ -123,7 +123,7 @@ The brain doesn't stop developing with the body. As mentioned, the prefrontal co
 
 Beyond Piaget's stages, cognitive development research has revealed specifics that are genuinely surprising.
 
-**Infant competence** is far greater than anyone suspected before the 1980s. Using eye-tracking and looking-time studies, researchers discovered that infants understand basic physics (they're surprised when objects appear to pass through each other), basic math (they react when 1+1 seems to equal 1 or 3), and basic psychology (they expect agents to act according to their goals). This knowledge appears so early that it seems built-in rather than learned.
+**Infant competence** is far greater than anyone suspected before the 1980s. Using eye-tracking and looking-time studies, researchers discovered that infants understand basic [physics](/physics) (they're surprised when objects appear to pass through each other), basic math (they react when 1+1 seems to equal 1 or 3), and basic psychology (they expect agents to act according to their goals). This knowledge appears so early that it seems built-in rather than learned.
 
 **Memory development** follows a fascinating trajectory. Infants form memories from birth, but autobiographical memory—the ability to recall personal experiences—doesn't emerge until around age 3-4, which is why almost nobody has memories from before that age (childhood amnesia). This isn't because young brains can't form memories—it's because the hippocampal circuits needed for long-term autobiographical memory haven't matured yet.
 
@@ -131,7 +131,7 @@ Beyond Piaget's stages, cognitive development research has revealed specifics th
 
 ### Social and Emotional Development
 
-Humans are born social. Newborns prefer faces over other visual patterns, orient toward voices, and begin imitating facial expressions within hours of birth. This social orientation isn't learned—it's built into our biology, shaped by millions of years of evolution in social groups.
+Humans are born social. Newborns prefer faces over other visual patterns, orient toward voices, and begin imitating facial expressions within hours of birth. This social orientation isn't learned—it's built into our [biology](/biology), shaped by millions of years of evolution in social groups.
 
 **Theory of mind**—understanding that other people have thoughts, beliefs, and desires different from your own—typically develops around age 4. Before this, children assume everyone knows what they know. The classic test involves showing a child that a candy box actually contains pencils, then asking what another child (who hasn't looked inside) thinks is in the box. Three-year-olds say "pencils." Four-year-olds say "candy." That one-year gap represents an enormous cognitive advance in understanding other minds.
 
@@ -147,9 +147,9 @@ More recent research suggests moral development is messier than stage theories i
 
 ## Nature, Nurture, and the Interaction Between Them
 
-The nature-versus-nurture debate has been largely resolved—both matter, and they interact constantly.
+The nature-versus-nurture [debate](/debate) has been largely resolved—both matter, and they interact constantly.
 
-**Behavioral genetics** research, particularly twin studies, has quantified the contributions. Identical twins raised apart are more similar in personality and intelligence than fraternal twins raised together, demonstrating strong genetic influence. But identical twins aren't identical in personality, demonstrating equally strong environmental influence. Most psychological traits show heritability estimates of 40-60%, meaning both genes and environment contribute substantially.
+**Behavioral [genetics](/genetics)** research, particularly twin studies, has quantified the contributions. Identical twins raised apart are more similar in personality and intelligence than fraternal twins raised together, demonstrating strong genetic influence. But identical twins aren't identical in personality, demonstrating equally strong environmental influence. Most psychological traits show heritability estimates of 40-60%, meaning both genes and environment contribute substantially.
 
 **Epigenetics** has revealed one mechanism for gene-environment interaction. Environmental experiences—nutrition, stress, social bonding—can chemically modify genes, altering their expression without changing the DNA sequence. Some of these modifications can even be transmitted across generations. Rat pups that receive more maternal licking develop different stress response patterns than neglected pups, and these differences are mediated by epigenetic changes.
 
@@ -159,7 +159,7 @@ The nature-versus-nurture debate has been largely resolved—both matter, and th
 
 Adolescence is a period of profound change that extends roughly from puberty to the mid-20s. The popular image of teenagers as hormone-addled risk-takers is partly true but mostly misleading.
 
-The adolescent brain undergoes massive restructuring. Synaptic pruning eliminates unused neural connections, making remaining circuits more efficient. Myelination—coating neurons with insulating material—speeds signal transmission. These changes happen unevenly, with emotional and reward systems maturing before the prefrontal cortex. The result: adolescents experience intense emotions and strong reward sensitivity before having fully developed impulse control.
+The adolescent brain undergoes massive restructuring. Synaptic [pruning](/pruning) eliminates unused neural connections, making remaining circuits more efficient. Myelination—coating neurons with insulating material—speeds signal transmission. These changes happen unevenly, with emotional and reward systems maturing before the prefrontal cortex. The result: adolescents experience intense emotions and strong reward sensitivity before having fully developed impulse control.
 
 This mismatch explains a lot. Teenagers aren't stupid—they perform as well as adults on logic tests in calm, laboratory conditions. But in emotionally charged, real-world situations with peers present, their decision-making deteriorates. The neural systems for rational thinking are there; they just get overridden by emotion and social pressure.
 

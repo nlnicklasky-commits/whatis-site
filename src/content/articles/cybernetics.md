@@ -41,9 +41,9 @@ Cybernetics is the interdisciplinary study of regulatory systems, their structur
 
 ## The Birth of a Science Nobody Could Classify
 
-Cybernetics emerged from an unlikely collision of disciplines during World War II. Norbert Wiener, a mathematician at MIT, was working on anti-aircraft fire control---the problem of shooting down fast-moving planes with guns that took time to aim. The challenge was prediction: by the time the shell reached the plane's current position, the plane would be somewhere else.
+Cybernetics emerged from an unlikely collision of disciplines during [World War II](/world-war-ii). Norbert Wiener, a mathematician at MIT, was working on anti-aircraft fire control---the problem of shooting down fast-moving planes with guns that took time to aim. The challenge was prediction: by the time the shell reached the plane's current position, the plane would be somewhere else.
 
-Wiener realized this was fundamentally a communication and feedback problem. The gun system needed to observe the plane's trajectory (input), predict its future position (computation), fire (output), observe the result (feedback), and adjust. The same feedback loop structure appeared everywhere he looked---in engineering, in biology, in nervous systems, in social organizations.
+Wiener realized this was fundamentally a communication and feedback problem. The gun system needed to observe the plane's trajectory (input), predict its future position (computation), fire (output), observe the result (feedback), and adjust. The same feedback loop structure appeared everywhere he looked---in [engineering](/engineering), in [biology](/biology), in nervous systems, in social organizations.
 
 In 1943, Wiener collaborated with Mexican physiologist Arturo Rosenblueth and engineer Julian Bigelow on a paper called "Behavior, Purpose, and Teleology." Their argument was radical: purposeful behavior---whether exhibited by a human, an animal, or a machine---could be explained by the same feedback mechanisms. A cat chasing a mouse and a torpedo tracking a ship both use feedback to pursue goals. The underlying principle is identical.
 
@@ -73,11 +73,11 @@ But unchecked positive feedback is usually catastrophic. Financial panics, ecosy
 
 Real systems contain multiple interacting feedback loops---some positive, some negative---operating on different timescales. [Coral-reef-ecology](/coral-reef-ecology) provides a vivid example: healthy reefs maintain stability through negative feedback (herbivorous fish eat algae, preventing overgrowth). Remove the herbivores (through overfishing), and positive feedback takes over---algae overgrow coral, reducing reef fish habitat, further reducing herbivory, accelerating algae growth.
 
-Climate change involves feedback loops at planetary scale. Warming melts Arctic ice, reducing the Earth's reflectivity, causing more warming (positive feedback). But warming also increases cloud formation, reflecting sunlight, partially counteracting warming (negative feedback). The net effect depends on which feedback loops dominate---a question with enormous consequences.
+[Climate change](/climate-change) involves feedback loops at planetary scale. Warming melts Arctic ice, reducing the Earth's reflectivity, causing more warming (positive feedback). But warming also increases cloud formation, reflecting sunlight, partially counteracting warming (negative feedback). The net effect depends on which feedback loops dominate---a question with enormous consequences.
 
 ## The Macy Conferences: Where Everything Connected
 
-Between 1946 and 1953, a series of conferences sponsored by the Josiah Macy Jr. Foundation brought together an extraordinary group of thinkers. These "Macy Conferences on Cybernetics" included Wiener, John von Neumann (computing and game theory), Claude Shannon ([information theory](/information-theory)), Warren McCulloch and Walter Pitts ([neural networks](/neural-networks)), Margaret Mead and Gregory Bateson (anthropology), and many others.
+Between 1946 and 1953, a series of conferences sponsored by the Josiah Macy Jr. Foundation brought together an extraordinary group of thinkers. These "Macy Conferences on Cybernetics" included Wiener, John von Neumann (computing and [game theory](/game-theory)), Claude Shannon ([information theory](/information-theory)), Warren McCulloch and Walter Pitts ([neural networks](/neural-networks)), Margaret Mead and Gregory Bateson ([anthropology](/anthropology)), and many others.
 
 The conferences were intentionally interdisciplinary---radically so for the time. A mathematician would present alongside an anthropologist. A neurophysiologist would discuss ideas with an electrical engineer. The common thread was cybernetic thinking: the search for patterns of communication, control, and organization that transcend individual disciplines.
 
@@ -85,11 +85,11 @@ From these conversations emerged ideas that would spawn entire fields:
 
 **Information theory**: Shannon's mathematical framework for quantifying information, redundancy, and communication channel capacity. Essential to every digital communication system today.
 
-**Neural networks**: McCulloch and Pitts showed that networks of simple threshold elements could perform logical computation, laying the theoretical foundation for both computational neuroscience and [artificial intelligence](/artificial-intelligence).
+**Neural networks**: McCulloch and Pitts showed that networks of simple threshold elements could perform logical computation, laying the theoretical foundation for both computational [neuroscience](/neuroscience) and [artificial intelligence](/artificial-intelligence).
 
-**Game theory**: Von Neumann's work on strategic interaction---how rational agents make decisions when outcomes depend on others' choices---influenced economics, [military strategy](/military-strategy), and [evolutionary biology](/evolutionary-biology).
+**Game theory**: Von Neumann's work on strategic interaction---how rational agents make decisions when outcomes depend on others' choices---influenced [economics](/economics), [military strategy](/military-strategy), and [evolutionary biology](/evolutionary-biology).
 
-**Systems theory**: The study of complex systems with interacting components, emphasizing that the whole behaves differently from the sum of its parts.
+**[Systems theory](/systems-theory)**: The study of complex systems with interacting components, emphasizing that the whole behaves differently from the sum of its parts.
 
 ## First-Order and Second-Order Cybernetics
 
@@ -101,7 +101,7 @@ Early cybernetics (1940s-1960s) focused on observed systems---machines, organism
 
 W. Ross Ashby's work typified first-order cybernetics. His 1956 book "An Introduction to Cybernetics" formalized concepts like requisite variety---the idea that a control system must have at least as much variety (range of possible states) as the system it's controlling. A thermostat with only on/off can control temperature roughly but can't maintain precise control across many conditions. More complex control requires more complex controllers.
 
-Ashby's Law of Requisite Variety has implications far beyond engineering. It suggests that organizations need internal diversity to respond to external diversity. A company facing rapidly changing markets needs flexible, varied internal processes---not rigid, uniform ones. Government agencies dealing with complex social problems need diverse perspectives and approaches.
+Ashby's Law of Requisite Variety has implications far beyond engineering. It suggests that organizations need internal diversity to respond to external diversity. A company facing rapidly changing markets needs flexible, varied internal processes---not rigid, uniform ones. [Government](/government) agencies dealing with complex social problems need diverse perspectives and approaches.
 
 ### Second-Order Cybernetics: Observing the Observer
 
@@ -109,7 +109,7 @@ Starting in the 1970s, Heinz von Foerster, Humberto Maturana, and Francisco Vare
 
 Maturana and Varela developed the concept of autopoiesis---self-creating systems that continuously produce and maintain themselves. A living cell is autopoietic: it produces the components that constitute it, using processes that are themselves constituted by those components. The cell creates itself. This circular causality---where the system is both cause and effect of its own existence---is quintessentially cybernetic.
 
-Second-order cybernetics influenced constructivism in education, family therapy (seeing the therapist as part of the system, not a detached observer), organizational learning, and social systems theory (Niklas Luhmann's work). It's more abstract and philosophical than first-order cybernetics, which is partly why it never achieved the same popular recognition.
+Second-order cybernetics influenced constructivism in [education](/education), [family therapy](/family-therapy) (seeing the therapist as part of the system, not a detached observer), organizational learning, and social systems theory (Niklas Luhmann's work). It's more abstract and philosophical than first-order cybernetics, which is partly why it never achieved the same popular recognition.
 
 ## Cybernetics in Practice: Where the Ideas Live
 
@@ -117,7 +117,7 @@ Even though the word "cybernetics" has faded from common use, cybernetic thinkin
 
 ### Control Engineering
 
-Modern control theory---the engineering of systems that regulate themselves---is direct descendant of cybernetics. PID controllers (Proportional-Integral-Derivative) are everywhere: in your car's cruise control, your building's HVAC system, industrial manufacturing processes, and drone stabilization. Each uses feedback to maintain a desired state.
+Modern [control theory](/control-theory)---the engineering of systems that regulate themselves---is direct descendant of cybernetics. PID controllers (Proportional-Integral-Derivative) are everywhere: in your car's cruise control, your building's HVAC system, industrial manufacturing processes, and drone stabilization. Each uses feedback to maintain a desired state.
 
 Advanced control systems use model predictive control, adaptive control, and machine learning-based approaches. Self-driving cars are cybernetic systems: they sense the environment (cameras, lidar, radar), compare current conditions to desired behavior (stay in lane, maintain speed, avoid obstacles), and adjust controls (steering, acceleration, braking). The feedback loop runs hundreds of times per second.
 
@@ -125,7 +125,7 @@ Advanced control systems use model predictive control, adaptive control, and mac
 
 The relationship between cybernetics and AI is complicated. Both emerged from the same wartime intellectual ferment. But in the late 1950s, they diverged. AI, led by John McCarthy, Marvin Minsky, and others, focused on symbolic reasoning---programming computers with explicit rules and logic. Cybernetics emphasized feedback, learning from interaction, and distributed networks.
 
-For decades, the symbolic AI approach dominated. But the resurgence of neural networks---now called deep learning---represents a return to cybernetic ideas. Neural networks learn from data through feedback (adjusting weights based on errors). [Reinforcement learning](/reinforcement-learning), where agents learn by trial and error in environments, is essentially cybernetic goal-seeking behavior.
+For decades, the symbolic AI approach dominated. But the resurgence of neural networks---now called [deep learning](/deep-learning)---represents a return to cybernetic ideas. Neural networks learn from data through feedback (adjusting weights based on errors). [Reinforcement learning](/reinforcement-learning), where agents learn by trial and error in environments, is essentially cybernetic goal-seeking behavior.
 
 The irony is thick: many ideas dismissed by mainstream AI in the 1960s---neural networks, learning from feedback, embodied interaction with the environment---are now the foundation of the most successful AI systems.
 
@@ -135,13 +135,13 @@ Cybernetic thinking is fundamental to modern biology, even when biologists don't
 
 Homeostasis---the body's maintenance of stable internal conditions---is a cybernetic concept, though it predates the term (Walter Cannon coined it in 1926). The immune system is a cybernetic marvel: detecting threats, mounting responses, and regulating those responses through feedback to avoid autoimmunity.
 
-Systems biology explicitly applies cybernetic principles to biological systems. Gene regulatory networks, [metabolic pathways](/metabolic-pathways), and signaling cascades are analyzed as feedback systems. The discovery that many diseases result from feedback loops gone wrong---diabetes as a failure of glucose regulation, cancer as a failure of cell growth control---is cybernetic insight applied to medicine.
+[Systems biology](/systems-biology) explicitly applies cybernetic principles to biological systems. Gene regulatory networks, [metabolic pathways](/metabolic-pathways), and signaling cascades are analyzed as feedback systems. The discovery that many diseases result from feedback loops gone wrong---diabetes as a failure of glucose regulation, cancer as a failure of cell growth control---is cybernetic insight applied to medicine.
 
 Neuroscience relies heavily on cybernetic models. The brain is the ultimate feedback system: sensory input produces motor output that changes sensory input. Perception, action, and learning are intertwined in continuous feedback loops. The predictive processing framework---which proposes that the brain constantly predicts sensory input and updates its model based on prediction errors---is deeply cybernetic.
 
 ### Economics and Organizations
 
-Cybernetics influenced management science and organizational theory. Stafford Beer's "Viable System Model" (1972) applied cybernetic principles to organizational design, arguing that viable organizations need specific regulatory structures---analogous to the nervous system's regulatory functions.
+Cybernetics influenced [management](/management) science and organizational theory. Stafford Beer's "Viable System Model" (1972) applied cybernetic principles to organizational design, arguing that viable organizations need specific regulatory structures---analogous to the nervous system's regulatory functions.
 
 Economic models of market equilibrium invoke negative feedback: excess supply drives prices down, which reduces supply and increases demand, restoring equilibrium. Economic crises often involve positive feedback loops overwhelming regulatory mechanisms---bank runs, speculative bubbles, deflationary spirals.
 

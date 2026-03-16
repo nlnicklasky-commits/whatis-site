@@ -31,7 +31,7 @@ faq:
 
 # What Is Eastern [Philosophy](/philosophy)?
 
-Eastern philosophy refers broadly to the philosophical traditions that developed in Asia — primarily in India, China, and Japan — over the past 3,000+ years. The major traditions include [Hinduism](/hinduism), [Buddhism](/buddhism), Taoism (Daoism), [Confucianism](/confucianism), and their many branches. While [Western philosophy](/western-philosophy) (rooted in ancient Greece) has dominated academic philosophy departments, Eastern philosophical traditions have shaped the lives, governments, arts, and daily practices of billions of people across the largest continent on Earth.
+Eastern philosophy refers broadly to the philosophical traditions that developed in Asia — primarily in India, China, and Japan — over the past 3,000+ years. The major traditions include [Hinduism](/hinduism), [Buddhism](/buddhism), [Taoism](/taoism) (Daoism), [Confucianism](/confucianism), and their many branches. While [Western philosophy](/western-philosophy) (rooted in ancient Greece) has dominated academic philosophy departments, Eastern philosophical traditions have shaped the lives, governments, arts, and daily practices of billions of people across the largest continent on Earth.
 
 ## The Indian Traditions
 
@@ -49,7 +49,7 @@ Indian philosophy is among the oldest in the world. The Vedas, composed roughly 
 
 The Four Noble Truths summarize Buddhist philosophy: (1) life involves suffering (dukkha), (2) suffering arises from craving and attachment, (3) suffering can end, and (4) the path to ending suffering is the Eightfold Path — right view, intention, speech, action, livelihood, effort, mindfulness, and concentration.
 
-The Buddha's most radical claim: there is no permanent self (anatta/anatman). What you think of as "you" is actually a constantly changing process — a bundle of sensations, perceptions, thoughts, and reactions with no fixed center. This directly contradicts Hindu philosophy's emphasis on the eternal Atman, and the disagreement between the two traditions has produced 2,500 years of philosophical debate.
+The Buddha's most radical claim: there is no permanent self (anatta/anatman). What you think of as "you" is actually a constantly changing process — a bundle of sensations, perceptions, thoughts, and reactions with no fixed center. This directly contradicts Hindu philosophy's emphasis on the eternal Atman, and the disagreement between the two traditions has produced 2,500 years of philosophical [debate](/debate).
 
 ## The Chinese Traditions
 

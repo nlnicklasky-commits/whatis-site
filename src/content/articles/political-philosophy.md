@@ -35,11 +35,11 @@ faq:
 
 # What Is Political [Philosophy](/philosophy)?
 
-Political philosophy is the branch of philosophy that asks the most fundamental questions about how humans organize their collective lives: What gives a [government](/government) the right to rule? What do citizens owe each other? When is inequality unjust? What are the limits of individual freedom? These aren't abstract puzzles — they're the questions beneath every political debate, law, and revolution in human history.
+Political philosophy is the branch of philosophy that asks the most fundamental questions about how humans organize their collective lives: What gives a [government](/government) the right to rule? What do citizens owe each other? When is inequality unjust? What are the limits of individual freedom? These aren't abstract puzzles — they're the questions beneath every political [debate](/debate), law, and revolution in human history.
 
 ## Why This Matters to You, Specifically
 
-You might think political philosophy is for academics and people who enjoy arguing at dinner parties. But here's the thing: you already have political philosophy, whether you know it or not. Every opinion you hold about taxes, immigration, free speech, healthcare, policing, or education rests on deeper assumptions about rights, fairness, and the purpose of government. Political philosophy just makes those assumptions visible.
+You might think political philosophy is for academics and people who enjoy arguing at dinner parties. But here's the thing: you already have political philosophy, whether you know it or not. Every opinion you hold about taxes, immigration, free speech, healthcare, policing, or [education](/education) rests on deeper assumptions about rights, fairness, and the purpose of government. Political philosophy just makes those assumptions visible.
 
 When you say "that's not fair," you're invoking a theory of justice. When you say "the government shouldn't be able to tell me what to do," you're making a claim about individual liberty and state authority. When you say "we have a responsibility to help the less fortunate," you're asserting an obligation that not everyone agrees exists. Political philosophy gives you the tools to examine and defend (or revise) those positions.
 
@@ -51,7 +51,7 @@ And the stakes are genuinely enormous. The 20th century's worst catastrophes —
 
 Political philosophy in the Western tradition begins in ancient Athens, around 380 BCE, with Plato's *Republic*. Plato's central question was bold: what would a perfectly just society look like?
 
-His answer was... controversial. Plato argued that most people are incapable of governing themselves wisely. Democracy, he thought, was dangerously susceptible to demagogues who would flatter the crowd while pursuing their own interests. (If that sounds familiar, it should — Plato was writing in the aftermath of Athens' disastrous defeat in the Peloponnesian War, a conflict driven partly by populist leaders making reckless decisions.)
+His answer was... controversial. Plato argued that most people are incapable of governing themselves wisely. Democracy, he thought, was dangerously susceptible to demagogues who would flatter the crowd while pursuing their own interests. (If that sounds familiar, it should — Plato was [writing](/writing) in the aftermath of Athens' disastrous defeat in the Peloponnesian War, a conflict driven partly by populist leaders making reckless decisions.)
 
 Instead, Plato proposed rule by philosopher-kings — specially educated rulers trained in wisdom and virtue, who would govern not for personal gain but for the common good. Society would be organized into three classes — rulers, warriors, and producers — each performing their proper function.
 
@@ -115,7 +115,7 @@ John Rawls' *A Theory of Justice* (1971) is arguably the most important work of 
 
 He called this hypothetical situation the "original position" — imagine you're designing society's basic rules behind a "veil of ignorance," not knowing whether you'll be rich or poor, talented or disabled, male or female, Black or white. What rules would you choose?
 
-Rawls argued you'd choose two principles: first, equal basic liberties for everyone (speech, religion, voting, due process). Second, social and economic inequalities are permissible only if they benefit the least-advantaged members of society (the "difference principle").
+Rawls argued you'd choose two principles: first, equal basic liberties for everyone (speech, [religion](/religion), voting, due process). Second, social and economic inequalities are permissible only if they benefit the least-advantaged members of society (the "difference principle").
 
 That second principle is the controversial one. It doesn't require perfect equality — some inequality is fine if it makes everyone better off, including the poorest. A society where the rich earn 10 times the poor is just, according to Rawls, only if the poor are better off than they would be under strict equality. But a society where the rich earn 100 times the poor while the poor could be better off under a different arrangement is unjust.
 
@@ -135,7 +135,7 @@ Political philosophy isn't exclusively Western, though university curricula ofte
 
 ### Confucian Political Thought
 
-Confucius (551-479 BCE) developed a political philosophy centered on virtue, relationships, and social harmony. Good government, for Confucius, depends not on constitutional structures but on the moral character of rulers. A virtuous ruler leads by example, inspiring subjects to behave well without coercion.
+Confucius (551-479 BCE) developed a political philosophy centered on virtue, relationships, and social [harmony](/harmony). Good government, for Confucius, depends not on constitutional structures but on the moral character of rulers. A virtuous ruler leads by example, inspiring subjects to behave well without coercion.
 
 The Confucian emphasis on hierarchy, duty, and communal harmony offers a genuine alternative to the Western focus on individual rights and social contracts. Several contemporary philosophers have argued that Confucian principles provide better foundations for governance in some contexts than Western [liberalism](/liberalism).
 

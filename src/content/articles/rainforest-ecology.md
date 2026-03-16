@@ -37,7 +37,7 @@ faq:
 
 # What Is Rainforest Ecology?
 
-Rainforest ecology is the scientific study of how organisms in tropical and subtropical forests interact with each other and their physical environment. It examines everything from nutrient cycling and energy flow to species relationships and the effects of disturbance on these extraordinarily complex systems. Tropical rainforests cover roughly 6% of Earth's land surface yet harbor about half of all known species — making them the single most biodiverse biome on the planet.
+Rainforest ecology is the scientific study of how organisms in tropical and subtropical forests interact with each other and their physical environment. It examines everything from nutrient [cycling](/cycling) and energy flow to species relationships and the effects of disturbance on these extraordinarily complex systems. Tropical rainforests cover roughly 6% of Earth's land surface yet harbor about half of all known species — making them the single most biodiverse biome on the planet.
 
 ## Why Rainforests Are Not Just "Lots of Trees"
 
@@ -107,7 +107,7 @@ In most temperate forests, decomposition is slow and nutrients accumulate in the
 
 Mycorrhizal fungi play a starring role here. These fungi form partnerships with tree roots, extending hair-thin filaments (hyphae) through the soil and decomposing litter. The fungi break down organic matter and deliver phosphorus, nitrogen, and other nutrients directly to tree roots. In return, the trees supply sugars from photosynthesis. It's one of nature's most important mutualistic relationships.
 
-This tight cycling means that when you cut down a rainforest, you don't just lose the trees — you break the nutrient cycle. The nutrients wash away in the first few rainy seasons, and the soil becomes essentially sterile for [agriculture](/agriculture) within 3-5 years. That's why slash-and-burn farming keeps moving: farmers clear a patch, farm it until yields collapse, then move on to the next one.
+This tight cycling means that when you cut down a rainforest, you don't just lose the trees — you break the nutrient cycle. The nutrients wash away in the first few rainy seasons, and the soil becomes essentially sterile for [agriculture](/agriculture) within 3-5 years. That's why slash-and-burn [farming](/farming) keeps moving: farmers clear a patch, farm it until yields collapse, then move on to the next one.
 
 ## Water Cycling and Climate Regulation
 
@@ -115,7 +115,7 @@ Rainforests are massive water pumps. A large tree in the Amazon can transpire ov
 
 The Amazon rainforest produces roughly 50-75% of its own rainfall through transpiration and evaporation. Scientists call this "recycled precipitation." The moisture released by trees in the eastern Amazon falls as rain further west, where it's absorbed by more trees, transpired again, and falls again even further west. This process, documented in research published in *Nature*, means the forest effectively pushes moisture thousands of kilometers inland from the Atlantic coast.
 
-This has major implications for [climatology](/climatology). Deforestation doesn't just remove trees — it disrupts this moisture recycling. Modeling studies suggest that if Amazon deforestation crosses a tipping point (estimated at 20-25% of total forest area), the remaining forest could shift to a drier savanna state. As of 2024, roughly 17% of the original Amazon forest has been cleared.
+This has major implications for [climatology](/climatology). Deforestation doesn't just remove trees — it disrupts this moisture [recycling](/recycling). Modeling studies suggest that if Amazon deforestation crosses a tipping point (estimated at 20-25% of total forest area), the remaining forest could shift to a drier savanna state. As of 2024, roughly 17% of the original Amazon forest has been cleared.
 
 Rainforests also store enormous quantities of carbon. The world's tropical forests hold an estimated 250 billion metric tons of carbon in their biomass. When forests burn or decompose after clearing, that carbon enters the atmosphere as CO2. Tropical deforestation currently accounts for about 8-10% of global greenhouse gas emissions — more than the entire European Union's transportation sector.
 
@@ -127,13 +127,13 @@ The interactions between rainforest species are where the ecology gets genuinely
 
 Mutualistic relationships — where both partners benefit — are disproportionately common in rainforests compared to other biomes. The fig-wasp relationship is a classic: each of the approximately 900 fig species has its own dedicated pollinator wasp species. The wasp can only reproduce inside the fig's fruit, and the fig can only be pollinated by its specific wasp. If either goes extinct, the other follows. Figs, in turn, are a keystone food source for hundreds of bird and mammal species. Pull one thread and the whole mix starts to unravel. (Figuratively speaking — the interconnections are real.)
 
-Leafcutter ants are another remarkable case. These ants don't eat leaves — they use them as substrate to farm fungus gardens underground. The relationship between ants, fungus, and the bacteria that protect the gardens from contamination is a three-way symbiosis that's been running for approximately 50 million years.
+Leafcutter ants are another remarkable case. These ants don't eat leaves — they use them as substrate to farm fungus gardens underground. The relationship between ants, fungus, and the bacteria that protect the gardens from contamination is a three-way symbiosis that's been [running](/running) for approximately 50 million years.
 
 ### Predation and Defense
 
 [Evolutionary biology](/evolutionary-biology) has produced some wild arms races in rainforests. Poison dart frogs advertise their toxicity with bright colors (aposematism). Their poison — batrachotoxin in some species — is potent enough that indigenous Choco people in Colombia use it on blowgun darts. The frogs actually acquire their toxins from the insects they eat, which in turn get them from plants.
 
-Many rainforest plants produce chemical defenses. Alkaloids, terpenes, tannins — the pharmaceutical industry has found countless drugs in rainforest chemistry. Quinine (for malaria), curare (a muscle relaxant), and compounds used in cancer treatment all originated from rainforest species.
+Many rainforest plants produce chemical defenses. Alkaloids, terpenes, tannins — the pharmaceutical industry has found countless drugs in rainforest [chemistry](/chemistry). Quinine (for malaria), curare (a muscle relaxant), and compounds used in cancer treatment all originated from rainforest species.
 
 ### [Pollination](/pollination) and Seed Dispersal
 
@@ -167,7 +167,7 @@ The primary drivers are well-documented by [environmental science](/environmenta
 
 ### The Tipping Point Concern
 
-The concept of a "tipping point" is especially alarming for the Amazon. Scientist Carlos Nobre and colleagues have argued that the combination of deforestation, fire, and climate change could push the Amazon past a threshold beyond which large portions would convert irreversibly to savanna. The estimated threshold is 20-25% cumulative deforestation, and we're at roughly 17%.
+The concept of a "tipping point" is especially alarming for the Amazon. Scientist Carlos Nobre and colleagues have argued that the combination of deforestation, fire, and [climate change](/climate-change) could push the Amazon past a threshold beyond which large portions would convert irreversibly to savanna. The estimated threshold is 20-25% cumulative deforestation, and we're at roughly 17%.
 
 This wouldn't happen overnight. It would unfold over decades as the moisture recycling system breaks down, dry seasons lengthen, and fire becomes increasingly frequent. But once triggered, the process would be self-reinforcing and essentially irreversible on human timescales.
 
@@ -177,7 +177,7 @@ Not all conservation strategies are equally effective. Research in [conservation
 
 **Protected areas** work — when enforced. A study published in *Science* found that strictly protected areas in the Amazon experienced 1.5% deforestation compared to 18% in surrounding unprotected areas. But "paper parks" — areas that are legally protected but lack enforcement — show little benefit.
 
-**Indigenous management** is remarkably effective. Indigenous territories in the Amazon have deforestation rates even lower than government-managed protected areas, according to World Resources Institute data. Indigenous communities have strong incentives and deep knowledge for forest management. Supporting indigenous land rights turns out to be one of the most cost-effective conservation strategies available.
+**Indigenous [management](/management)** is remarkably effective. Indigenous territories in the Amazon have deforestation rates even lower than [government](/government)-managed protected areas, according to World Resources Institute data. Indigenous communities have strong incentives and deep knowledge for forest management. Supporting indigenous land rights turns out to be one of the most cost-effective conservation strategies available.
 
 **Payment for ecosystem services (PES)** compensates landowners for maintaining forest cover. Costa Rica's program, running since 1997, has helped reverse the country's deforestation trend and now covers over 1 million hectares.
 
@@ -205,13 +205,13 @@ Economically, the answer is complicated. A hectare of cleared Amazon forest can 
 
 This misalignment between private incentives and public benefit is the core economic challenge of rainforest conservation. Programs like REDD+ (Reducing Emissions from Deforestation and Forest Degradation) try to bridge this gap by creating [financial planning](/financial-planning) mechanisms where wealthy nations pay tropical nations to maintain their forests. Results have been mixed, but the principle is sound.
 
-Carbon markets represent another avenue. If tropical forest carbon is valued at even $20 per ton — roughly the current price in voluntary markets — a hectare of mature Amazon forest storing 150-200 tons of carbon would be worth $3,000-$4,000 just for its carbon content. As carbon prices rise (the EU Emissions Trading System traded at over EUR 60 per ton in 2024), the economics increasingly favor conservation.
+Carbon markets represent another avenue. If tropical forest carbon is valued at even $20 per ton — roughly the current price in voluntary markets — a hectare of mature Amazon forest storing 150-200 tons of carbon would be worth $3,000-$4,000 just for its carbon content. As carbon prices rise (the EU Emissions Trading System traded at over EUR 60 per ton in 2024), the [economics](/economics) increasingly favor conservation.
 
 ## What Happens If We Lose Them
 
 This isn't hypothetical doom-mongering. Scientists can quantify many of the consequences.
 
-Losing tropical forests would release an estimated 250 billion tons of CO2 — roughly 25 years of current global fossil fuel emissions — pushing global temperatures well past the 2 degrees Celsius Paris Agreement target. Rainfall patterns would shift across South America, Africa, and Southeast Asia, potentially devastating agriculture in regions that feed billions. Roughly 50% of all terrestrial species would lose their primary habitat, triggering extinctions on a scale not seen since the asteroid that ended the dinosaurs 66 million years ago.
+Losing tropical forests would release an estimated 250 billion tons of CO2 — roughly 25 years of current global fossil fuel emissions — pushing global temperatures well past the 2 degrees Celsius Paris Agreement target. Rainfall patterns would shift across South America, Africa, and Southeast Asia, potentially devastating agriculture in regions that feed billions. Roughly 50% of all terrestrial species would lose their primary habitat, triggering extinctions on a scale not seen since the asteroid that ended the [dinosaurs](/dinosaurs) 66 million years ago.
 
 The pharmaceutical losses alone are staggering. Only about 1% of tropical plant species have been studied for medicinal properties, yet they've already yielded treatments for cancer, malaria, heart disease, and more. What's in the other 99%? We won't find out if the forests disappear first.
 

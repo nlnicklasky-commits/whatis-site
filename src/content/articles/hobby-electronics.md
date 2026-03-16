@@ -35,19 +35,19 @@ faq:
 
 # What Is Hobby Electronics?
 
-Hobby electronics is the recreational pursuit of designing, building, modifying, and experimenting with electronic circuits and devices for personal enjoyment, learning, and creative expression. It ranges from simple projects like blinking an LED to complex builds like autonomous robots, custom synthesizers, home automation systems, and amateur radio stations—all driven by curiosity and the satisfaction of making something work with your own hands.
+Hobby [electronics](/electronics) is the recreational pursuit of designing, building, modifying, and experimenting with electronic circuits and devices for personal enjoyment, learning, and creative expression. It ranges from simple projects like blinking an LED to complex builds like autonomous robots, custom synthesizers, home automation systems, and amateur radio stations—all driven by curiosity and the satisfaction of making something work with your own hands.
 
 ## The Spark That Starts It
 
-Everyone who's into hobby electronics remembers their first moment. Maybe it was taking apart a broken radio as a kid and wondering what all those tiny components did. Maybe it was watching a YouTube video of someone building a guitar effects pedal from scratch. Maybe it was realizing that the Arduino microcontroller on your desk could make a motor spin, and suddenly the gap between "software" and "physical world" collapsed.
+Everyone who's into hobby electronics remembers their first moment. Maybe it was taking apart a broken radio as a kid and wondering what all those tiny components did. Maybe it was watching a YouTube video of someone building [a guitar](/guitar) effects pedal from scratch. Maybe it was realizing that the Arduino microcontroller on your desk could make a motor spin, and suddenly the gap between "software" and "physical world" collapsed.
 
 That moment—when you realize you can make electrons do things—is addictive. It's the same impulse that drives people to tinker with cars, build furniture, or write code. But electronics has a particular magic: you're working with invisible forces. You can't see current flowing through a wire or electrons jumping across a transistor junction. You infer what's happening from measurements, from whether the LED lights up, from whether the motor spins. When it works, it feels like a small miracle. When it doesn't, debugging is its own kind of puzzle.
 
-The hobby has exploded in the past 15 years. The maker movement, affordable microcontrollers, online tutorials, and communities like Hackaday, Reddit's r/electronics, and countless Discord servers have lowered the barrier to entry dramatically. You no longer need an engineering degree or expensive equipment to build genuinely impressive projects.
+The hobby has exploded in the past 15 years. The maker movement, affordable microcontrollers, online tutorials, and communities like Hackaday, Reddit's r/electronics, and countless Discord servers have lowered the barrier to entry dramatically. You no longer need an [engineering](/engineering) degree or expensive equipment to build genuinely impressive projects.
 
 ## The Fundamentals: What You Need to Know
 
-Before diving into projects, you need a basic mental model of how [electricity](/electricity) works. Don't worry—you don't need a physics degree. You need three concepts.
+Before [diving](/diving) into projects, you need a basic mental model of how [electricity](/electricity) works. Don't worry—you don't need a [physics](/physics) degree. You need three concepts.
 
 ### Voltage, Current, and Resistance
 
@@ -79,9 +79,9 @@ For example: you have a 9V battery and want to power an LED that needs 20 millia
 
 ## Breadboards: The Playground
 
-A breadboard is a plastic board with rows of interconnected holes that let you plug in components and wires without soldering. It's the sandbox of hobby electronics—you can build a circuit, test it, tear it apart, and build something else in minutes.
+A breadboard is a plastic board with rows of interconnected holes that let you plug in components and wires without [soldering](/soldering). It's the sandbox of hobby electronics—you can build a circuit, test it, tear it apart, and build something else in minutes.
 
-Breadboards have a standard layout: two power rails running along each edge and rows of five connected holes in the center, split by a channel. Components plug into the holes, jumper wires connect them, and you can prototype circuits quickly and iteratively.
+Breadboards have a standard layout: two power rails [running](/running) along each edge and rows of five connected holes in the center, split by a channel. Components plug into the holes, jumper wires connect them, and you can prototype circuits quickly and iteratively.
 
 Most beginners start on breadboards and stay there for months or even years. There's no shame in it. Breadboarding lets you experiment freely, make mistakes cheaply, and learn by doing rather than by reading. When you're ready for something permanent, you move to soldering.
 
@@ -117,7 +117,7 @@ With an ESP32, you can build a weather station that posts data to a web dashboar
 
 The Raspberry Pi is different from Arduino and ESP32—it's a full computer running Linux, not just a microcontroller. It has USB ports, HDMI output, WiFi, Bluetooth, a camera interface, and 40 GPIO pins for [computer hardware](/computer-hardware) interaction.
 
-Raspberry Pi projects tend to be more complex: media centers, retro gaming consoles, network-attached storage servers, security cameras with AI-powered object detection, weather stations with web interfaces, and robots with [computer vision](/computer-vision). Programming is typically done in Python, though any Linux-compatible language works.
+Raspberry Pi projects tend to be more complex: media centers, retro [gaming](/gaming) consoles, network-attached storage servers, security cameras with AI-powered object detection, weather stations with web interfaces, and robots with [computer vision](/computer-vision). Programming is typically done in Python, though any Linux-compatible language works.
 
 The Raspberry Pi Foundation's educational mission keeps prices low ($35 for a Pi 4, $5 for a Pi Zero) and documentation excellent. The community is massive—virtually any project you can imagine, someone has attempted and documented.
 
@@ -135,7 +135,7 @@ Guitar effects pedals are hugely popular because they combine electronics skills
 
 ### Home Automation
 
-Automating your home—controlling lights, monitoring temperature and humidity, managing irrigation systems, detecting motion, locking doors—is one of the most practical applications of hobby electronics. ESP32 boards running ESPHome firmware integrate seamlessly with Home Assistant (open-source home automation software), creating sophisticated automation systems at a fraction of the cost of commercial solutions.
+Automating your home—controlling lights, monitoring temperature and humidity, managing [irrigation](/irrigation) systems, detecting motion, locking doors—is one of the most practical applications of hobby electronics. ESP32 boards running ESPHome firmware integrate seamlessly with Home Assistant (open-source home automation software), creating sophisticated automation systems at a fraction of the cost of commercial solutions.
 
 A typical home automation starter project: ESP32 + DHT22 temperature/humidity sensor + relay module = a smart thermostat for under $15 in parts. Add a soil moisture sensor in the garden, a light sensor for automated blinds, a motion sensor for security lighting, and you've built a smart home system that rivals products costing hundreds of dollars.
 
@@ -143,7 +143,7 @@ A typical home automation starter project: ESP32 + DHT22 temperature/humidity se
 
 Building robots combines electronics with mechanical design and programming—three disciplines in one project. Beginner robots typically use an Arduino controlling DC motors with a motor driver board, ultrasonic sensors for obstacle detection, and a battery pack. More advanced builds incorporate computer vision (Raspberry Pi + camera), LiDAR for mapping, inverse kinematics for robotic arms, and PID control algorithms for precise movement.
 
-The FIRST Robotics community, Arduino-based robot kits, and battle robot competitions have made robotics one of the fastest-growing segments of the hobby.
+The FIRST [Robotics](/robotics) community, Arduino-based robot kits, and battle robot competitions have made robotics one of the fastest-growing segments of the hobby.
 
 ### Amateur Radio (Ham Radio)
 
@@ -163,7 +163,7 @@ A **multimeter** ($20-50) measures voltage, current, and resistance. It's the si
 
 An **oscilloscope** ($300-400 for a basic digital model, or $50 for a USB oscilloscope) shows voltage changes over time. It's essential for debugging timing-sensitive circuits, audio projects, and communication protocols. Once you've used an oscilloscope, you'll wonder how you ever debugged without one.
 
-A **logic analyzer** ($10-30 for a USB model) captures and displays digital signals. When your microcontroller isn't communicating correctly with a sensor, a logic analyzer shows you exactly what signals are being sent and received.
+A **[logic](/logic) analyzer** ($10-30 for a USB model) captures and displays digital signals. When your microcontroller isn't communicating correctly with a sensor, a logic analyzer shows you exactly what signals are being sent and received.
 
 A **bench power supply** ($50-100) provides adjustable, stable voltage for testing circuits. Unlike batteries (which sag under load and die at inconvenient times), a bench supply delivers consistent power and lets you set current limits to protect circuits during development.
 
@@ -181,7 +181,7 @@ This has changed the hobby fundamentally. Hobbyists now design boards that look 
 
 The hobby electronics learning ecosystem is extraordinary. Some standout resources:
 
-**YouTube channels** like Ben Eater (building a computer from scratch on breadboards), GreatScott! (practical electronics projects), EEVblog (in-depth electronics engineering), and ElectroBOOM (entertaining safety demonstrations) provide free education that rivals university courses.
+**YouTube channels** like Ben Eater (building a computer from scratch on breadboards), GreatScott! (practical electronics projects), EEVblog (in-depth electronics engineering), and ElectroBOOM (entertaining safety demonstrations) provide free [education](/education) that rivals university courses.
 
 **Adafruit and SparkFun** maintain extensive tutorial libraries covering everything from "what is a resistor?" to "build a LoRa mesh network." Both companies design beginner-friendly hardware with excellent documentation.
 
@@ -195,7 +195,7 @@ The combination of cheap components, free software, excellent tutorials, and sup
 
 Hobby electronics isn't just recreation. It develops skills with real-world value.
 
-Understanding electronics helps you repair devices instead of replacing them—a $3 capacitor replacement can fix a $500 monitor. It helps you evaluate technology claims critically—you know what's physically possible and what's marketing hype. It builds skills in [data structures](/data-structures), debugging methodology, and systems thinking that transfer directly to professional software development and engineering.
+Understanding electronics helps you repair devices instead of replacing them—a $3 capacitor replacement can fix a $500 monitor. It helps you evaluate technology claims critically—you know what's physically possible and what's [marketing](/marketing) hype. It builds skills in [data structures](/data-structures), debugging methodology, and systems thinking that transfer directly to professional software development and engineering.
 
 Many professional engineers started as hobby electronics enthusiasts. Steve Wozniak built the Apple I as essentially a hobby project. The Arduino itself was created by educators and hobbyists, not a major corporation. The entire maker movement—now a multibillion-dollar industry of tools, components, and educational products—grew from people tinkering on kitchen tables.
 

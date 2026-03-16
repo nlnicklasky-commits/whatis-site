@@ -43,7 +43,7 @@ If you've ever picked up a smartphone, driven a car, or taken medication, a manu
 
 ## What Manufacturing Engineers Actually Do All Day
 
-Here's the thing most people don't realize: designing a product and manufacturing a product are completely different problems. An aerospace engineer might design a turbine blade with perfect aerodynamics, but if nobody can actually machine that shape affordably at the tolerances required, the design is worthless.
+Here's the thing most people don't realize: designing a product and manufacturing a product are completely different problems. An aerospace engineer might design a turbine blade with perfect [aerodynamics](/aerodynamics), but if nobody can actually machine that shape affordably at the tolerances required, the design is worthless.
 
 Manufacturing engineers solve that second problem. Their work breaks down into several core areas.
 
@@ -113,11 +113,11 @@ This was genuinely new. Before Taylor, the fastest way to make things was whatev
 
 ### The Quality Revolution
 
-The mid-20th century brought a quality revolution, primarily driven by W. Edwards Deming and Joseph Juran. Their work in Japan after World War II transformed Japanese manufacturing from a source of cheap junk into the world's quality benchmark.
+The mid-20th century brought a quality revolution, primarily driven by W. Edwards Deming and Joseph Juran. Their work in Japan after [World War II](/world-war-ii) transformed Japanese manufacturing from a source of cheap junk into the world's quality benchmark.
 
 The core insight: quality problems are usually system problems, not worker problems. If a machine produces defective parts, blaming the operator is pointless. Fix the machine, the tooling, the process parameters, or the incoming material specification.
 
-This philosophy — that quality is designed into processes, not inspected into products — remains the foundation of modern manufacturing engineering. It connects directly to statistical thinking and [algorithms](/algorithms) for process optimization.
+This [philosophy](/philosophy) — that quality is designed into processes, not inspected into products — remains the foundation of modern manufacturing engineering. It connects directly to statistical thinking and [algorithms](/algorithms) for process [optimization](/optimization).
 
 ### Lean Manufacturing
 
@@ -162,7 +162,7 @@ Each process has a "window" of parameters that produce good joints. Too much hea
 
 Sheet metal stamping produces billions of parts annually — car body panels, appliance housings, electronic enclosures. Injection molding produces billions more — every plastic component you can see right now was probably injection-molded.
 
-These processes involve fascinating physics. Sheet metal forming depends on material yield strength, ductility, anisotropy, and friction. Injection molding involves polymer flow through complex geometries, heat transfer during cooling, and residual stress development. Manufacturing engineers use simulation software based on [computational physics](/computational-physics) and [fluid dynamics](/fluid-dynamics) principles to predict and optimize these processes before cutting a single die.
+These processes involve fascinating physics. Sheet metal forming depends on material yield strength, ductility, anisotropy, and friction. Injection molding involves polymer flow through complex geometries, [heat transfer](/heat-transfer) during cooling, and residual stress development. Manufacturing engineers use simulation software based on [computational physics](/computational-physics) and [fluid dynamics](/fluid-dynamics) principles to predict and optimize these processes before cutting a single die.
 
 ## The Digital Transformation of Manufacturing
 
@@ -182,7 +182,7 @@ Modern factories are instrumented with thousands of sensors. Temperature sensors
 
 Manufacturing engineers design these sensing strategies, determine what to measure and how often, set alarm thresholds, and build the response procedures triggered by abnormal readings.
 
-The data volumes are staggering. A single CNC machine might generate gigabytes of sensor data daily. Processing this data effectively requires [data analysis](/data-analysis) skills and increasingly, [machine learning](/machine-learning) approaches for pattern recognition.
+The data volumes are staggering. A single CNC machine might generate gigabytes of sensor data daily. Processing this data effectively requires [data analysis](/data-analysis) skills and increasingly, [machine learning](/machine-learning) approaches for [pattern recognition](/pattern-recognition).
 
 ### Simulation and Virtual Commissioning
 
@@ -192,7 +192,7 @@ This virtual commissioning can reduce physical commissioning time by 50-80%, sav
 
 ## The Economics of Manufacturing
 
-Manufacturing engineering is ultimately about economics. Every decision — process selection, automation level, quality strategy, material choice — has cost implications.
+Manufacturing engineering is ultimately about [economics](/economics). Every decision — process selection, automation level, quality strategy, material choice — has cost implications.
 
 ### Cost Modeling
 
@@ -202,7 +202,7 @@ Manufacturing engineers build detailed cost models that break production costs i
 - **Direct labor**: Operator time, adjusted for efficiency and burden rates
 - **Machine costs**: Depreciation, maintenance, energy, consumables
 - **Tooling costs**: Dies, molds, fixtures, cutting tools — amortized across production volume
-- **Overhead**: Factory utilities, management, quality systems, logistics
+- **Overhead**: Factory utilities, [management](/management), quality systems, [logistics](/logistics)
 
 These models reveal where cost reduction efforts will have the most impact. If material represents 60% of cost, optimizing labor efficiency by 10% barely moves the needle. If tooling cost dominates, extending tool life or reducing changeover time matters most.
 
@@ -218,7 +218,7 @@ Should you make a component in-house or buy it from a supplier? This decision de
 - Cost (can you beat supplier pricing?)
 - Strategic considerations (intellectual property, supply chain risk)
 
-Manufacturing engineers provide the technical analysis — capability assessment, cost modeling, quality risk evaluation — that informs these strategic decisions.
+Manufacturing engineers provide the [technical analysis](/technical-analysis) — capability assessment, cost modeling, quality risk evaluation — that informs these strategic decisions.
 
 ## Manufacturing and Sustainability
 
@@ -226,7 +226,7 @@ The environmental impact of manufacturing is enormous, and manufacturing enginee
 
 ### Energy Efficiency
 
-Manufacturing consumes roughly one-third of global energy. Manufacturing engineers reduce energy consumption through process optimization (cutting only what's necessary), machine efficiency improvements, process substitution (replacing energy-intensive processes with more efficient alternatives), and production scheduling that minimizes idle machine time.
+Manufacturing consumes roughly one-third of global energy. Manufacturing engineers reduce energy consumption through process optimization (cutting only what's necessary), machine efficiency improvements, process substitution (replacing energy-intensive processes with more efficient alternatives), and production [scheduling](/scheduling) that minimizes idle machine time.
 
 ### Material Efficiency
 
@@ -246,13 +246,13 @@ Manufacturing engineering offers remarkably diverse career paths, partly because
 
 ### Industry Sectors
 
-**Automotive**: High-volume production with extreme cost pressure. Body panel stamping, powertrain machining, final assembly. The automotive industry drove many manufacturing innovations, from interchangeable parts to lean manufacturing.
+**Automotive**: High-volume production with extreme cost pressure. Body panel stamping, powertrain machining, final assembly. The automotive industry drove many manufacturing innovations, from interchangeable parts to [lean manufacturing](/lean-manufacturing).
 
 **Aerospace**: Low-volume, high-precision, extreme quality requirements. Exotic materials like titanium and carbon fiber composites. Every part traceable, every process documented, every deviation investigated.
 
 **Medical devices**: Stringent regulatory requirements (FDA in the U.S., EU MDR in Europe). Biocompatible materials. Clean room manufacturing for implants. Validation and documentation requirements that would stagger most engineers.
 
-**Electronics**: Miniaturization driving process innovation. Surface mount technology placing components at thousands per hour with sub-millimeter accuracy. Clean rooms for semiconductor fabrication.
+**[Electronics](/electronics)**: Miniaturization driving process innovation. Surface mount technology placing components at thousands per hour with sub-millimeter accuracy. Clean rooms for semiconductor fabrication.
 
 **Consumer products**: High volume, cost-sensitive, rapid product cycles. Injection molding, stamping, assembly. Manufacturing engineering here is heavily focused on design-for-manufacturing and cost reduction.
 
@@ -274,7 +274,7 @@ Beyond technical knowledge, successful manufacturing engineers need:
 
 - **Problem-solving under pressure**: Production problems don't wait for analysis. When the line is down, you need to diagnose and fix the issue fast.
 - **Communication**: You'll work with designers, operators, suppliers, and executives. Explaining technical concepts to non-technical audiences is essential.
-- **Data literacy**: Statistical analysis, data visualization, and increasingly, [data science](/data-science) skills.
+- **Data literacy**: Statistical analysis, [data visualization](/data-visualization), and increasingly, [data science](/data-science) skills.
 - **Business acumen**: Understanding cost structures, return on investment, and how manufacturing decisions affect company profitability.
 - **Continuous learning**: Manufacturing technology evolves constantly. The engineer who stops learning falls behind quickly.
 
@@ -282,9 +282,9 @@ Beyond technical knowledge, successful manufacturing engineers need:
 
 **"Manufacturing is all robots now."** Robots handle repetitive, dangerous, or precision-critical tasks. But humans still perform complex assembly, quality judgment, troubleshooting, and process improvement. The ratio is shifting, but manufacturing isn't fully automated — and won't be for decades, if ever.
 
-**"Manufacturing jobs are low-skill."** Operator roles require significant training. Manufacturing engineering roles require advanced education and continuous learning. The image of unskilled factory work is decades out of date.
+**"Manufacturing jobs are low-skill."** Operator roles require significant training. Manufacturing engineering roles require advanced [education](/education) and continuous learning. The image of unskilled factory work is decades out of date.
 
-**"Manufacturing is declining."** Manufacturing output in most developed countries has actually increased over time — we produce more stuff than ever. What's declined is manufacturing employment as a percentage of total employment, because automation has increased productivity per worker. But the industry itself is growing, not shrinking.
+**"Manufacturing is declining."** Manufacturing output in most developed countries has actually increased over time — we produce more stuff than ever. What's declined is manufacturing employment as a percentage of total employment, because automation has increased [productivity](/productivity) per worker. But the industry itself is growing, not shrinking.
 
 **"You can't manufacture in high-wage countries."** German manufacturing is thriving. Japanese manufacturing remains world-class. American manufacturing output hit record levels in recent years. High-wage manufacturing succeeds through automation, precision, quality, and innovation — not by competing on labor cost.
 

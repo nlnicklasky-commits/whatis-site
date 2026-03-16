@@ -90,7 +90,7 @@ Environmental regulations shape what can be built, where, and how. The National 
 
 These reviews assess impacts on air quality, water, wildlife habitat, traffic, noise, and historical resources. They're essential for preventing environmental damage but also add significant time and cost to development. A major highway project can spend 5-10 years in environmental review before construction begins. Critics argue that environmental review processes are sometimes weaponized by project opponents to block development they dislike — including housing and transit projects that would actually benefit the environment.
 
-**Floodplain management** restricts development in areas prone to flooding. FEMA's flood maps determine where flood insurance is required and where building is prohibited or restricted. Given that flood damage costs the U.S. an average of $17 billion annually, keeping development out of flood zones makes sense — but millions of existing homes and businesses already sit in harm's way.
+**Floodplain management** restricts development in areas prone to flooding. FEMA's flood maps determine where flood [insurance](/insurance) is required and where building is prohibited or restricted. Given that flood damage costs the U.S. an average of $17 billion annually, keeping development out of flood zones makes sense — but millions of existing homes and businesses already sit in harm's way.
 
 ## Historical Schools of Thought
 
@@ -130,7 +130,7 @@ Reform is happening. California has passed multiple laws overriding local zoning
 
 ### Climate Planning
 
-Planning for climate change involves two tracks: **mitigation** (reducing greenhouse gas emissions through land use and transportation decisions) and **adaptation** (preparing for climate impacts that are already locked in).
+Planning for [climate change](/climate-change) involves two tracks: **mitigation** (reducing greenhouse gas emissions through land use and transportation decisions) and **adaptation** (preparing for climate impacts that are already locked in).
 
 On mitigation, land use planning matters enormously. Compact, mixed-use development generates roughly 20-40% fewer vehicle miles traveled per household than low-density sprawl. Transit investment, bike infrastructure, and walkable neighborhoods reduce emissions while improving quality of life.
 
@@ -142,12 +142,12 @@ Planning has a troubled history with race and class. Redlining, restrictive cove
 
 Modern planning increasingly centers equity as a core value. This means analyzing who benefits from and who is burdened by planning decisions, engaging underrepresented communities in meaningful ways, and directing investment toward historically underserved areas.
 
-The challenge is moving from rhetoric to results. Many planning departments have adopted equity frameworks and hired diversity staff. Whether these changes produce materially different outcomes for low-income communities and communities of color is the real test.
+The challenge is moving from [rhetoric](/rhetoric) to results. Many planning departments have adopted equity frameworks and hired diversity staff. Whether these changes produce materially different outcomes for low-income communities and communities of color is the real test.
 
 ## The Planner's Dilemma
 
-Urban planning is inherently about trade-offs. More housing means taller buildings, which means changed neighborhood character. More transit funding means less road funding (or higher taxes). More environmental protection means more development constraints. More community participation means slower, more expensive processes.
+Urban planning is inherently about [trade](/trade)-offs. More housing means taller buildings, which means changed neighborhood character. More transit funding means less road funding (or higher taxes). More environmental protection means more development constraints. More community participation means slower, more expensive processes.
 
-Good planners make these trade-offs explicit rather than pretending they don't exist. They use data to inform decisions while acknowledging that values and politics ultimately determine outcomes. They try to ensure that the costs and benefits of planning decisions are distributed fairly rather than concentrated on the politically weakest.
+Good planners make these trade-offs explicit rather than pretending they don't exist. They use data to inform decisions while acknowledging that values and [politics](/politics) ultimately determine outcomes. They try to ensure that the costs and benefits of planning decisions are distributed fairly rather than concentrated on the politically weakest.
 
 The field is messy, contentious, and often frustrating. But the alternative — no planning, no coordination, no consideration of long-term consequences — produces results that are far worse. Every pleasant neighborhood, every convenient transit ride, every park that makes a city livable exists because someone, at some point, made a plan. The quality of that plan determines the quality of the city that follows.

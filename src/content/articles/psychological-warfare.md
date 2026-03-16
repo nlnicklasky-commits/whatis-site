@@ -79,9 +79,9 @@ The Cold War transformed psychological warfare from a wartime tactic into a perm
 
 **Radio Free Europe and Radio Liberty** — Funded by the CIA (covertly at first, openly later), these stations broadcast Western news and cultural programming into Soviet-bloc countries. Their effect is debated, but former Eastern Bloc citizens have described them as a crucial connection to the outside world.
 
-**The United States Information Agency (USIA)** — A government agency dedicated to public [diplomacy](/diplomacy), running cultural exchange programs, libraries, and publications worldwide. At its peak, it had over 200 posts in 150 countries.
+**The United States Information Agency (USIA)** — A government agency dedicated to public [diplomacy](/diplomacy), [running](/running) cultural exchange programs, libraries, and publications worldwide. At its peak, it had over 200 posts in 150 countries.
 
-**Soviet active measures** — The KGB's Service A specialized in disinformation: forging documents, planting false stories in foreign media, and spreading conspiracy theories. One of the most successful was Operation INFEKTION (1983-1987), which spread the false claim that the U.S. government created the HIV/AIDS virus as a biological weapon. This story circulated globally and is still believed by some people today.
+**Soviet active measures** — The KGB's Service A specialized in disinformation: [forging](/forging) documents, planting false stories in foreign media, and spreading conspiracy theories. One of the most successful was Operation INFEKTION (1983-1987), which spread the false claim that the U.S. government created the HIV/AIDS virus as a biological weapon. This story circulated globally and is still believed by some people today.
 
 The Vietnam War introduced the phrase "hearts and minds" to American military vocabulary. The U.S. military's PSYOP units dropped 50 billion leaflets over Vietnam (yes, billion) — the largest leaflet campaign in history. Whether it worked is another question. The U.S. also ran the Chieu Hoi ("Open Arms") program, which encouraged Viet Cong defection. Over 200,000 enemy fighters defected under the program, making it one of the more successful psyops campaigns of the era.
 

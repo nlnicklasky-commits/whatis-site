@@ -41,7 +41,7 @@ Psychology is the scientific study of mind and behavior. It examines how people 
 
 Here's what most people get wrong about psychology: they think it's about reading body language or analyzing dreams on a couch. Those are tiny slivers of a field that spans everything from [neuroscience](/neuroscience) to courtroom behavior to why you can't stop scrolling your phone at 2 AM.
 
-Psychology sits at a unique intersection. It's part biology, part philosophy, part statistics, and part detective work. A psychologist studying memory might use brain imaging technology borrowed from medicine. Another studying group behavior might use survey methods from sociology. A third studying decision-making might build mathematical models that would look at home in an economics department.
+Psychology sits at a unique intersection. It's part [biology](/biology), part [philosophy](/philosophy), part [statistics](/statistics), and part detective work. A psychologist studying memory might use brain imaging technology borrowed from medicine. Another studying group behavior might use survey methods from [sociology](/sociology). A third studying decision-making might build mathematical models that would look at home in an [economics](/economics) department.
 
 That breadth is actually the field's biggest strength — and its biggest source of internal arguments. More on that later.
 
@@ -69,13 +69,13 @@ John B. Watson published his behaviorist manifesto in 1913, arguing that psychol
 
 B.F. Skinner took this further with his work on operant conditioning. Skinner showed that behavior is shaped by its consequences — reward a behavior and it increases; punish it and it decreases. His ideas, tested rigorously with rats and pigeons, proved remarkably powerful at predicting and controlling behavior.
 
-Behaviorism dominated American psychology from roughly 1920 to 1960. Its legacy is enormous: [behavioral psychology](/behavioral-psychology) principles underlie modern behavior therapy, classroom management techniques, animal training, and even app design (ever wonder why social media notifications feel so addictive?).
+Behaviorism dominated American psychology from roughly 1920 to 1960. Its legacy is enormous: [behavioral psychology](/behavioral-psychology) principles underlie modern behavior therapy, classroom [management](/management) techniques, animal training, and even app design (ever wonder why social media notifications feel so addictive?).
 
 ### The Cognitive Revolution
 
 By the 1960s, though, many psychologists were frustrated. Behaviorism worked, but it treated the mind like a black box. It could predict *what* people did but couldn't explain the thinking behind it.
 
-The cognitive revolution changed that. Influenced by computer science, linguistics, and [neuroscience](/neuroscience), researchers like Ulric Neisser, Noam Chomsky, and George Miller argued that studying internal mental processes was both possible and necessary. Chomsky's devastating 1959 review of Skinner's book on language essentially proved that language acquisition couldn't be explained by behaviorist principles alone — children generate sentences they've never heard, which means something more complex must be happening inside their heads.
+The cognitive revolution changed that. Influenced by [computer science](/computer-science), [linguistics](/linguistics), and [neuroscience](/neuroscience), researchers like Ulric Neisser, Noam Chomsky, and George Miller argued that studying internal mental processes was both possible and necessary. Chomsky's devastating 1959 review of Skinner's book on language essentially proved that [language acquisition](/language-acquisition) couldn't be explained by behaviorist principles alone — children generate sentences they've never heard, which means something more complex must be happening inside their heads.
 
 [Cognitive psychology](/cognitive-psychology) brought mental processes back into the mainstream: attention, memory, problem-solving, language, and decision-making became legitimate research topics again. This time, though, they were studied with rigorous experimental methods, not the armchair philosophizing that Watson had rightfully criticized.
 
@@ -85,7 +85,7 @@ Psychology isn't one field — it's more like 50 fields wearing a trench coat. H
 
 ### Clinical and Counseling Psychology
 
-This is what most people picture when they hear "psychology." Clinical psychologists assess and treat mental health disorders — depression, anxiety, PTSD, schizophrenia, personality disorders. They use evidence-based therapies like cognitive-behavioral therapy (CBT), which has been tested in over 2,000 clinical trials.
+This is what most people picture when they hear "psychology." Clinical psychologists assess and treat [mental health](/mental-health) disorders — depression, anxiety, PTSD, schizophrenia, personality disorders. They use evidence-based therapies like cognitive-behavioral therapy (CBT), which has been tested in over 2,000 clinical trials.
 
 About 30% of psychologists work in clinical or counseling roles, according to the APA. The distinction between the two is subtle: clinical psychologists tend to focus on more severe psychopathology, while counseling psychologists often work with adjustment issues and life transitions.
 
@@ -97,7 +97,7 @@ More recent work has shown that babies are far more capable than Piaget believed
 
 ### Social Psychology
 
-Social psychology examines how people influence each other. Some of its findings are genuinely disturbing.
+[Social psychology](/social-psychology) examines how people influence each other. Some of its findings are genuinely disturbing.
 
 Solomon Asch showed in the 1950s that 75% of people would give an obviously wrong answer to a simple question if everyone else in the room gave that wrong answer first. Stanley Milgram demonstrated in 1963 that 65% of ordinary people would administer what they believed were dangerous electric shocks to a stranger, simply because an authority figure told them to. Philip Zimbardo's 1971 Stanford Prison Experiment (though methodologically criticized) showed how quickly normal college students could adopt cruel roles.
 
@@ -111,7 +111,7 @@ Kahneman won the Nobel Prize in Economics in 2002 for this work — a psychologi
 
 ### Biological Psychology and Neuroscience
 
-This branch bridges psychology and biology, studying how the brain produces behavior. Modern brain imaging techniques — fMRI, PET scans, EEG — have revealed correlations between brain activity and mental states that would have seemed like science fiction 50 years ago.
+This branch bridges psychology and biology, studying how the brain produces behavior. Modern brain imaging techniques — fMRI, PET scans, EEG — have revealed correlations between brain activity and mental states that would have seemed like [science fiction](/science-fiction) 50 years ago.
 
 We now know that [neuroscience](/neuroscience) findings connect directly to psychological phenomena. For example, London taxi drivers who memorize the city's complex street layout have measurably larger hippocampi (the brain region involved in spatial memory) than bus drivers who follow fixed routes.
 
@@ -135,7 +135,7 @@ These findings are backed by hundreds of experiments but, frustratingly, haven't
 
 ## Research Methods: How Psychology Knows Things
 
-Psychology uses multiple research methods, each with strengths and limitations.
+Psychology uses multiple [research methods](/research-methods), each with strengths and limitations.
 
 ### Experiments
 
@@ -185,7 +185,7 @@ Spacing, testing, and interleaving effects — all discovered through [cognitive
 
 ### Marketing and Design
 
-Why do free trials work? Loss aversion — a concept from behavioral economics rooted in psychology. You hate losing something you already have more than you enjoy gaining something new. Why do progress bars motivate you? The goal gradient effect — you work harder as you approach completion. Psychological principles drive everything from website [design patterns](/design-patterns) to product pricing.
+Why do free trials work? Loss aversion — a concept from [behavioral economics](/behavioral-economics) rooted in psychology. You hate losing something you already have more than you enjoy gaining something new. Why do progress bars motivate you? The goal gradient effect — you work harder as you approach completion. Psychological principles drive everything from website [design patterns](/design-patterns) to product pricing.
 
 ### Public Policy
 
@@ -237,6 +237,6 @@ Beyond clinical applications, understanding psychology helps you think more clea
 
 Psychology is the scientific study of mind and behavior — a field that spans from brain cells to courtrooms to classrooms to corporate boardrooms. It has a messy history, genuine methodological challenges, and an ongoing identity crisis about what kind of science it wants to be.
 
-But it has also produced knowledge that saves lives, improves education, shapes policy, and helps people understand themselves. When practiced well, psychology is one of the most practically useful sciences we have.
+But it has also produced knowledge that saves lives, improves [education](/education), shapes policy, and helps people understand themselves. When practiced well, psychology is one of the most practically useful sciences we have.
 
-The next time someone dismisses it as a "soft science," ask them whether they think memory, perception, learning, social influence, mental illness, decision-making, and child development are unimportant topics. The question answers itself.
+The next time someone dismisses it as a "soft science," ask them whether they think memory, perception, learning, social influence, mental illness, decision-making, and [child development](/child-development) are unimportant topics. The question answers itself.

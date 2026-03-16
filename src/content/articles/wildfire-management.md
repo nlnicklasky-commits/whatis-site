@@ -31,7 +31,7 @@ faq:
 
 # What Is Wildfire [Management](/wildlife-management)?
 
-Wildfire management is the practice of preventing, detecting, controlling, and strategically using fire across landscapes to protect human communities, infrastructure, and natural ecosystems. It's not simply [firefighting](/firefighting) — though that's the most visible part. Modern wildfire management includes prescribed burning, fuel reduction, land-use planning, community preparedness, and the increasingly uncomfortable acknowledgment that some ecosystems need fire and that trying to eliminate it entirely made things worse.
+Wildfire [management](/management) is the practice of preventing, detecting, controlling, and strategically using fire across landscapes to protect human communities, infrastructure, and natural ecosystems. It's not simply [firefighting](/firefighting) — though that's the most visible part. Modern wildfire management includes prescribed burning, fuel reduction, land-use planning, community preparedness, and the increasingly uncomfortable acknowledgment that some ecosystems need fire and that trying to eliminate it entirely made things worse.
 
 ## Fire Is Natural (and Necessary)
 

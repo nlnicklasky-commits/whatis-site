@@ -52,7 +52,7 @@ The scale is enormous. Google Analytics alone is installed on over 28 million we
 
 ## How Web Analytics Works (Technically)
 
-Web analytics tools collect data using several methods, each with trade-offs.
+Web analytics tools collect data using several methods, each with [trade](/trade)-offs.
 
 ### JavaScript Tags (Client-Side Tracking)
 
@@ -112,7 +112,7 @@ Google Analytics 4 replaced bounce rate with **engagement rate** — the percent
 
 **Revenue per visitor** — total revenue divided by total visitors. This single number captures both conversion rate and average order value in one metric.
 
-**Cost per acquisition (CPA)** — how much you spend in [marketing](/marketing) to acquire one converting visitor. If you spend $5,000 on ads that generate 50 sales, your CPA is $100. Whether that's good depends on your profit margin.
+**Cost per acquisition (CPA)** — how much you spend in [marketing](/marketing) to acquire one converting visitor. If you spend $5,000 on ads that generate 50 [sales](/sales), your CPA is $100. Whether that's good depends on your profit margin.
 
 **Customer lifetime value (CLV)** — the total revenue a customer generates over their relationship with you. CLV is critical because it determines how much you can afford to spend acquiring a customer. A customer who buys once and never returns is worth much less than one who buys monthly for three years.
 

@@ -123,7 +123,7 @@ The Fifth Amendment to the US Constitution permits takings but requires "just co
 
 ## Modern Challenges
 
-Land law faces new pressures. Climate change creates questions about property rights in flood zones, coastal erosion areas, and fire-prone regions. Should the government compensate landowners whose property becomes unusable due to climate-related regulations? Who bears the risk when sea levels rise?
+Land law faces new pressures. [Climate change](/climate-change) creates questions about property rights in flood zones, coastal erosion areas, and fire-prone regions. Should the government compensate landowners whose property becomes unusable due to climate-related regulations? Who bears the risk when sea levels rise?
 
 Digital technology raises new issues too. Drones flying over private property — is that trespass? How high up do your property rights extend? (The traditional answer — *usque ad coelum*, "up to the heavens" — has been modified by the reality of [aviation](/aviation).)
 

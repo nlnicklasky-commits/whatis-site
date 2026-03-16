@@ -45,11 +45,11 @@ Here's the blunt version: every business decision has legal implications. Hiring
 
 Most business owners don't think about law until something goes wrong. And by then, the damage is done. A 2023 survey by LegalShield found that 53% of small businesses faced a legal event in the preceding year — contract disputes, regulatory issues, employment claims, or intellectual property problems. The average cost of a business lawsuit ranges from $3,000 for simple disputes to over $100,000 for complex litigation.
 
-The purpose of business law isn't to create obstacles. It's to provide a predictable framework — a set of rules that all parties understand and rely on — so commerce can function. Without contract law, how would you enforce agreements? Without corporate law, how would investors know their rights? Without employment law, what would stop exploitation? Business law creates the trust infrastructure that makes commercial activity possible.
+The purpose of business law isn't to create obstacles. It's to provide a predictable framework — a set of rules that all parties understand and rely on — so commerce can function. Without [contract law](/contract-law), how would you enforce agreements? Without corporate law, how would investors know their rights? Without employment law, what would stop exploitation? Business law creates the trust infrastructure that makes commercial activity possible.
 
 ## Choosing a Business Structure: The First Legal Decision
 
-The legal structure you choose for your business affects everything — taxation, personal liability, management authority, ability to raise capital, and regulatory requirements. This is probably the most important legal decision a new business makes.
+The legal structure you choose for your business affects everything — taxation, personal liability, [management](/management) authority, ability to raise capital, and regulatory requirements. This is probably the most important legal decision a new business makes.
 
 ### Sole Proprietorship
 
@@ -71,7 +71,7 @@ The critical document: a partnership agreement. Without one, your state's defaul
 
 LLCs combine liability protection with tax flexibility. Members (owners) are generally not personally liable for business debts — their risk is limited to their investment. For tax purposes, an LLC can choose to be taxed as a sole proprietorship, partnership, S-corp, or C-corp.
 
-LLCs have become enormously popular since their widespread adoption in the 1990s. The flexibility in management structure, profit distribution, and taxation makes them suitable for everything from single-member freelance businesses to multi-million-dollar real estate ventures.
+LLCs have become enormously popular since their widespread adoption in the 1990s. The flexibility in management structure, profit distribution, and taxation makes them suitable for everything from single-member freelance businesses to multi-million-dollar [real estate](/real-estate) ventures.
 
 Formation requires filing articles of organization with the state. An operating agreement — while not required in all states — is strongly recommended. It defines member roles, voting rights, profit distribution, and procedures for admitting or removing members.
 
@@ -117,11 +117,11 @@ For a contract to be legally enforceable, it needs:
 
 The UCC standardizes commercial transactions across US states. Article 2 — governing the sale of goods — is the most heavily tested area of business law. Key UCC concepts:
 
-**Warranties**: Express warranties (explicit promises about a product), implied warranty of merchantability (the product works for its ordinary purpose), and implied warranty of fitness for a particular purpose (when a seller knows the buyer's specific needs and recommends a product).
+**Warranties**: Express warranties (explicit promises about a product), implied warranty of merchantability (the product works for its ordinary purpose), and implied warranty of [fitness](/fitness) for a particular purpose (when a seller knows the buyer's specific needs and recommends a product).
 
 **Risk of loss**: Determines who bears the financial risk if goods are damaged or destroyed during shipment. The answer depends on shipping terms (FOB origin vs. FOB destination) and whether either party breached the contract.
 
-**Statute of frauds**: Certain contracts must be in writing to be enforceable — including contracts for goods over $500, real estate transactions, and agreements that can't be completed within one year.
+**Statute of frauds**: Certain contracts must be in [writing](/writing) to be enforceable — including contracts for goods over $500, real estate transactions, and agreements that can't be completed within one year.
 
 ## Employment Law: The Rules of Work
 
@@ -131,7 +131,7 @@ Employment law governs the employer-employee relationship and is one of the most
 
 Most US employment is "at-will" — either party can terminate the relationship at any time, for any reason (or no reason), without notice. But this seemingly simple rule has significant exceptions:
 
-**Anti-discrimination laws** prohibit termination based on race, color, religion, sex (including pregnancy and sexual orientation after the 2020 Bostock decision), national origin, age (40+), disability, or genetic information. Title VII of the Civil Rights Act, the Americans with Disabilities Act, and the Age Discrimination in Employment Act are the primary federal statutes.
+**Anti-discrimination laws** prohibit termination based on race, color, [religion](/religion), sex (including pregnancy and sexual orientation after the 2020 Bostock decision), national origin, age (40+), disability, or genetic information. Title VII of the Civil Rights Act, the Americans with Disabilities Act, and the Age Discrimination in Employment Act are the primary federal statutes.
 
 **Retaliation protection** prevents firing employees for exercising legal rights — filing workers' compensation claims, reporting safety violations, or cooperating with investigations.
 
@@ -145,15 +145,15 @@ Misclassification — treating employees as independent contractors to avoid pay
 
 ### [Workplace Safety](/workplace-safety)
 
-The Occupational Safety and Health Act requires employers to provide workplaces free from recognized hazards. OSHA inspections can result in citations and fines — up to $161,323 per willful violation (2024 figure). Beyond compliance, workplace injuries cost US employers about $167 billion annually in direct costs (workers' compensation, medical expenses) and indirect costs (lost productivity, replacement hiring).
+The Occupational Safety and Health Act requires employers to provide workplaces free from recognized hazards. OSHA inspections can result in citations and fines — up to $161,323 per willful violation (2024 figure). Beyond compliance, workplace injuries cost US employers about $167 billion annually in direct costs (workers' compensation, medical expenses) and indirect costs (lost [productivity](/productivity), replacement hiring).
 
 ## Intellectual Property: Protecting Business Ideas
 
-Intellectual property (IP) law protects creations of the mind — inventions, brands, designs, creative works, and trade secrets.
+Intellectual property (IP) law protects creations of the mind — inventions, brands, designs, creative works, and [trade](/trade) secrets.
 
 ### Patents
 
-Patents grant inventors exclusive rights to make, use, and sell an invention for a limited period (20 years for utility patents, 15 years for design patents). The patent must describe something novel, non-obvious, and useful.
+Patents grant inventors exclusive rights to make, use, and sell an [invention](/invention) for a limited period (20 years for utility patents, 15 years for design patents). The patent must describe something novel, non-obvious, and useful.
 
 The US Patent and Trademark Office received approximately 650,000 patent applications in 2023. Patents are expensive to obtain ($15,000-30,000 for attorney fees and filing costs) and expensive to enforce (patent litigation averages $2-5 million in legal fees). But they provide powerful market protection — pharmaceutical patents are worth billions.
 
@@ -183,17 +183,17 @@ Businesses operate within a web of federal, state, and local regulations that va
 
 **Antitrust law** prevents monopolistic behavior. The Sherman Act, Clayton Act, and FTC Act prohibit price fixing, market allocation, monopolization, and anti-competitive mergers. Violations carry criminal penalties (up to $100 million for corporations) and treble damages in private lawsuits.
 
-**Consumer protection** laws — including the FTC Act, state consumer protection statutes, and industry-specific regulations — prohibit deceptive advertising, unfair business practices, and various forms of consumer exploitation. The FTC has become particularly active in regulating data privacy, influencer marketing disclosures, and AI-related consumer deception.
+**Consumer protection** laws — including the FTC Act, state consumer protection statutes, and industry-specific regulations — prohibit deceptive advertising, unfair business practices, and various forms of consumer exploitation. The FTC has become particularly active in regulating data privacy, influencer [marketing](/marketing) disclosures, and AI-related consumer deception.
 
 **[Environmental law](/environmental-law)** — the Clean Air Act, Clean Water Act, RCRA (hazardous waste), and CERCLA (Superfund cleanup) — imposes obligations on businesses that generate pollution or handle hazardous materials. Violations can result in both civil penalties and criminal prosecution.
 
-**Tax law** affects every business decision. Choice of entity structure, compensation design, investment timing, business location, and transaction structure all have tax implications. The Internal Revenue Code is notoriously complex — over 2,600 pages, supplemented by thousands of pages of Treasury regulations, IRS revenue rulings, and court decisions. Professional tax advice isn't a luxury; it's a necessity for any substantial business. Good [bookkeeping](/bookkeeping) is the prerequisite.
+**[Tax law](/tax-law)** affects every business decision. Choice of entity structure, compensation design, investment timing, business location, and transaction structure all have tax implications. The Internal Revenue Code is notoriously complex — over 2,600 pages, supplemented by thousands of pages of Treasury regulations, IRS revenue rulings, and court decisions. Professional tax advice isn't a luxury; it's a necessity for any substantial business. Good [bookkeeping](/bookkeeping) is the prerequisite.
 
 ## Dispute Resolution
 
 When business disputes arise, several resolution mechanisms exist:
 
-**Negotiation**: Direct discussion between parties. The cheapest and fastest option when it works.
+**[Negotiation](/negotiation)**: Direct discussion between parties. The cheapest and fastest option when it works.
 
 **Mediation**: A neutral third party helps the parties reach agreement. Non-binding — either party can walk away. Effective for preserving business relationships.
 
@@ -207,7 +207,7 @@ The trend in [business administration](/business-administration) is toward alter
 
 Businesses operating across borders face additional legal complexity.
 
-**The Foreign Corrupt Practices Act (FCPA)** prohibits US companies from bribing foreign government officials. Penalties are severe — Siemens paid $1.6 billion in FCPA penalties in 2008, the largest settlement in the law's history at the time.
+**The Foreign Corrupt Practices Act (FCPA)** prohibits US companies from bribing foreign [government](/government) officials. Penalties are severe — Siemens paid $1.6 billion in FCPA penalties in 2008, the largest settlement in the law's history at the time.
 
 **[International trade](/international-trade) law** encompasses tariffs, trade agreements, export controls, and sanctions. The World Trade Organization provides a framework for resolving trade disputes between nations.
 

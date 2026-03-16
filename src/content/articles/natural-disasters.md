@@ -65,7 +65,7 @@ This distinction matters because it means the severity of a "natural" disaster d
 
 ### Fire-Related Disasters
 
-**Wildfires** burn millions of acres annually worldwide. Climate change, land [management](/management) practices, and expanding human development into wildfire-prone areas have made fire seasons longer and more destructive. The 2020 U.S. wildfire season burned over 10 million acres.
+**Wildfires** burn millions of acres annually worldwide. [Climate change](/climate-change), land [management](/management) practices, and expanding human development into wildfire-prone areas have made fire seasons longer and more destructive. The 2020 U.S. wildfire season burned over 10 million acres.
 
 ## The Human and Economic Toll
 

@@ -37,7 +37,7 @@ faq:
 
 # What Is Reservoir Engineering?
 
-Reservoir engineering is the branch of [petroleum engineering](/petroleum-engineering) concerned with understanding and optimizing the extraction of oil and gas from underground rock formations. It sits at the intersection of [geology](/geology), [fluid dynamics](/fluid-dynamics), [thermodynamics](/thermodynamics), and economics — combining deep scientific knowledge with practical engineering to answer one deceptively simple question: how do you get hydrocarbons out of the ground efficiently, economically, and (increasingly) responsibly?
+Reservoir [engineering](/engineering) is the branch of [petroleum engineering](/petroleum-engineering) concerned with understanding and optimizing the extraction of oil and gas from underground rock formations. It sits at the intersection of [geology](/geology), [fluid dynamics](/fluid-dynamics), [thermodynamics](/thermodynamics), and [economics](/economics) — combining deep scientific knowledge with practical engineering to answer one deceptively simple question: how do you get hydrocarbons out of the ground efficiently, economically, and (increasingly) responsibly?
 
 A reservoir engineer's job is not just figuring out whether oil exists down there — geologists handle that. It is figuring out how much oil exists, how it will flow through rock, how fast you can extract it, what techniques will maximize recovery, and whether doing so makes economic sense. A reservoir that contains a billion barrels of oil sounds impressive, but if the rock is too tight, the oil too viscous, or the depth too great, you might never produce a profitable drop.
 
@@ -59,7 +59,7 @@ Reservoir rocks are not hollow caverns filled with crude oil. They are solid roc
 
 Reservoirs contain mixtures of hydrocarbons and water. The relative proportions and properties matter enormously.
 
-**Oil** varies from light, easily-flowing crude (API gravity above 31 — like cooking oil) to heavy, viscous crude (API below 22 — like molasses or even tar). Light crude flows easily through pore spaces and is more valuable. Heavy crude resists flow and requires more aggressive recovery techniques.
+**Oil** varies from light, easily-flowing crude (API gravity above 31 — like [cooking](/cooking) oil) to heavy, viscous crude (API below 22 — like molasses or even tar). Light crude flows easily through pore spaces and is more valuable. Heavy crude resists flow and requires more aggressive recovery techniques.
 
 **Natural gas** may exist as a free gas cap above oil, dissolved within oil (which it leaves as pressure drops — like CO2 leaving soda when you open the bottle), or as the primary reservoir fluid in gas reservoirs.
 
@@ -73,7 +73,7 @@ Oil and gas are lighter than water and naturally migrate upward through permeabl
 
 **Stratigraphic traps** form when changes in rock type create barriers — a porous sandstone layer pinching out into impermeable shale, for example.
 
-Understanding trap geometry matters because it determines the reservoir's size, shape, and the location of fluid contacts (the interfaces between gas, oil, and water zones). [Geophysics](/geophysics) — particularly seismic surveys — is essential for mapping these structures.
+Understanding trap [geometry](/geometry) matters because it determines the reservoir's size, shape, and the location of fluid contacts (the interfaces between gas, oil, and water zones). [Geophysics](/geophysics) — particularly seismic surveys — is essential for mapping these structures.
 
 ## Reservoir Characterization: Knowing What You're Working With
 
@@ -125,7 +125,7 @@ Primary recovery typically extracts 10-30% of the original oil in place. That le
 
 When natural energy dissipates and production declines, engineers inject fluids to maintain pressure and displace additional oil.
 
-**Water flooding** — injecting water through dedicated wells to push oil toward production wells — is the most common secondary recovery technique and has been practiced since the 1920s. It is simple, relatively cheap, and can boost total recovery to 30-50%. The art of water flooding lies in well placement and injection rate management — you want the water to sweep efficiently through the reservoir, not shortcut through high-permeability channels and bypass trapped oil.
+**Water flooding** — injecting water through dedicated wells to push oil toward production wells — is the most common secondary recovery technique and has been practiced since the 1920s. It is simple, relatively cheap, and can boost total recovery to 30-50%. The art of water flooding lies in well placement and injection rate [management](/management) — you want the water to sweep efficiently through the reservoir, not shortcut through high-permeability channels and bypass trapped oil.
 
 **Gas injection** uses natural gas, nitrogen, or CO2 to maintain pressure or displace oil. Gas is less effective than water at displacing oil from pore spaces but is useful in reservoirs where water flooding is impractical.
 
@@ -159,7 +159,7 @@ History matching does not guarantee that predictions are correct — it means th
 
 ## Reserves Estimation: How Much Is Down There?
 
-Estimating how much oil or gas can be recovered from a reservoir is one of the highest-stakes calculations in the energy industry. Reserves estimates drive investment decisions, company valuations, government revenue forecasting, and national energy policy.
+Estimating how much oil or gas can be recovered from a reservoir is one of the highest-stakes calculations in the energy industry. Reserves estimates drive investment decisions, company valuations, [government](/government) revenue forecasting, and national energy policy.
 
 Reserves are classified by confidence level:
 
@@ -181,7 +181,7 @@ Reservoir engineering is evolving rapidly in response to both technological adva
 
 Shale oil and gas — produced by hydraulic fracturing (fracking) of extremely low-permeability rock — has transformed the energy industry since the mid-2000s. The U.S. went from declining oil production in 2008 to becoming the world's largest oil producer by 2018, almost entirely due to shale development.
 
-Shale reservoir engineering differs significantly from conventional practice. Reservoir contact comes from hydraulically induced fractures rather than natural permeability. Well spacing, fracture design, and completion optimization replace traditional water flooding decisions. Production declines are steep — shale wells typically lose 50-70% of initial production in the first year — requiring continuous drilling to maintain field output.
+Shale reservoir engineering differs significantly from conventional practice. Reservoir contact comes from hydraulically induced fractures rather than natural permeability. Well spacing, fracture design, and completion [optimization](/optimization) replace traditional water flooding decisions. Production declines are steep — shale wells typically lose 50-70% of initial production in the first year — requiring continuous drilling to maintain field output.
 
 ### Carbon Capture and Storage
 
@@ -191,7 +191,7 @@ Many reservoir engineers are transitioning their skills to CCS projects, which a
 
 ### Geothermal Applications
 
-Geothermal energy development — particularly enhanced geothermal systems — requires the same fundamental understanding of fluid flow in hot subsurface rock. The physics are similar: inject fluid, let it pick up heat, produce it through wells, extract the heat at the surface. Reservoir engineers moving into geothermal work apply familiar principles to a different resource.
+Geothermal energy development — particularly enhanced geothermal systems — requires the same fundamental understanding of fluid flow in hot subsurface rock. The [physics](/physics) are similar: inject fluid, let it pick up heat, produce it through wells, extract the heat at the surface. Reservoir engineers moving into geothermal work apply familiar principles to a different resource.
 
 ### Digital Transformation
 

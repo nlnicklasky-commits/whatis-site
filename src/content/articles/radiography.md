@@ -67,7 +67,7 @@ When X-rays pass through the body, different tissues absorb different amounts:
 
 The X-rays that pass through the body hit a detector on the other side, which records the pattern of radiation intensity. Areas where more X-rays were absorbed appear light (fewer X-rays reached the detector); areas where fewer were absorbed appear dark (more X-rays got through).
 
-The result is a two-dimensional shadow projection of three-dimensional anatomy. It's like holding a flashlight behind your hand -- you see the shadow of bones and dense structures.
+The result is a two-dimensional shadow projection of three-dimensional [anatomy](/anatomy). It's like holding a flashlight behind your hand -- you see the shadow of bones and dense structures.
 
 ### The Contrast Problem
 
@@ -118,7 +118,7 @@ Dental X-rays detect cavities between teeth, bone loss from periodontal disease,
 
 - **Intraoral X-rays** (periapical, bitewing, occlusal) -- small film or sensors placed inside the mouth
 - **Panoramic X-rays** (orthopantomogram) -- a sweeping X-ray that captures the entire jaw in one image
-- **Cone-beam CT** -- a 3D imaging technique increasingly used for implant planning, [orthodontics](/orthodontics), and oral surgery
+- **Cone-beam CT** -- a 3D imaging technique increasingly used for implant planning, [orthodontics](/orthodontics), and oral [surgery](/surgery)
 
 Dental X-rays use very low doses -- a full-mouth series delivers about 0.15 mSv, less than a day's worth of natural background radiation.
 
@@ -226,7 +226,7 @@ Radiography isn't just for hospitals. Industrial radiography inspects [materials
 
 **Pipeline inspection** -- mobile radiography units inspect pipeline welds in the field, often in remote locations. Gamma ray sources (iridium-192, cobalt-60) are portable and don't require electrical power, making them suitable for field use.
 
-**Security screening** -- airport baggage scanners are radiographic systems that create X-ray images of luggage contents. Dual-energy systems can distinguish organic materials (plastics, food) from inorganic materials (metals, ceramics) by using two different X-ray energies.
+**Security screening** -- airport baggage scanners are radiographic systems that create X-ray images of luggage contents. Dual-energy systems can distinguish organic materials (plastics, food) from inorganic materials (metals, [ceramics](/ceramics)) by using two different X-ray energies.
 
 **Art and [archaeology](/archaeology)** -- radiography reveals hidden paintings beneath visible surfaces, the internal structure of sculptures, the contents of sealed containers, and the condition of ancient manuscripts too fragile to open. Mummy CT scans have revealed diseases, injuries, and cause of death in individuals who lived thousands of years ago.
 

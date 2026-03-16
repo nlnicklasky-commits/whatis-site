@@ -35,7 +35,7 @@ faq:
 
 # What Is Optical Engineering?
 
-Optical engineering is the branch of engineering concerned with designing, building, and testing systems that generate, control, or detect light. If a device uses lenses, mirrors, lasers, fiber optics, cameras, or sensors — an optical engineer probably had a hand in making it work.
+Optical [engineering](/engineering) is the branch of engineering concerned with designing, building, and testing systems that generate, control, or detect light. If a device uses lenses, mirrors, lasers, [fiber optics](/fiber-optics), cameras, or sensors — an optical engineer probably had a hand in making it work.
 
 ## More Than Just Lenses
 
@@ -45,7 +45,7 @@ Your smartphone camera? Optical engineering. Those tiny lenses — often five or
 
 The internet runs on light. Fiber optic cables carry 99% of intercontinental data as pulses of laser light bouncing through glass fibers thinner than a human hair. Optical engineers design the fibers, the lasers, the amplifiers, and the detectors that make this possible.
 
-Medical imaging — MRI machines, endoscopes, OCT (optical coherence tomography) for eye exams — all require optical systems designed to exacting specifications. Semiconductor manufacturing uses extreme ultraviolet lithography, where light with a wavelength of just 13.5 nanometers etches circuits onto silicon chips. Without optical engineering, your computer wouldn't exist.
+[Medical imaging](/medical-imaging) — MRI machines, endoscopes, OCT (optical coherence tomography) for eye exams — all require optical systems designed to exacting specifications. Semiconductor manufacturing uses extreme ultraviolet lithography, where light with a wavelength of just 13.5 nanometers etches circuits onto silicon chips. Without optical engineering, your computer wouldn't exist.
 
 ## The Physics Foundation
 
@@ -117,9 +117,9 @@ The magic of stimulated emission is that the emitted photon has the same wavelen
 
 Different gain media produce different wavelengths:
 
-- **CO2 lasers** (10.6 micrometers, infrared) — industrial cutting and welding. A 4-kilowatt CO2 laser can cut through 20mm steel plate.
+- **CO2 lasers** (10.6 micrometers, infrared) — industrial cutting and [welding](/welding). A 4-kilowatt CO2 laser can cut through 20mm steel plate.
 - **Nd:YAG lasers** (1064 nm, near-infrared) — medical procedures, material processing, military range-finding.
-- **Excimer lasers** (193 nm, ultraviolet) — LASIK eye surgery and semiconductor lithography.
+- **Excimer lasers** (193 nm, ultraviolet) — LASIK eye [surgery](/surgery) and semiconductor [lithography](/lithography).
 - **Fiber lasers** — telecommunications, increasingly replacing CO2 for industrial cutting because they're more efficient and reliable.
 - **Semiconductor diode lasers** — barcode scanners, optical disc drives, fiber optic communications, laser pointers.
 
@@ -143,17 +143,17 @@ Optical engineers design the imaging systems that let us see what our eyes can't
 
 Astronomical telescopes are optical engineering at grand scale. The James Webb Space Telescope's primary mirror is 6.5 meters across, made of 18 gold-coated beryllium segments. It observes infrared light from the earliest galaxies, some 13 billion light-years away. The optical alignment requirements are insane — each mirror segment must be positioned to within 10 nanometers.
 
-Ground-based telescopes face an additional challenge: atmospheric turbulence. Adaptive optics systems measure atmospheric distortion hundreds of times per second and deform a flexible mirror to compensate in real time. This technology, developed in the 1990s, essentially removed the atmosphere as a limitation for ground-based astronomy.
+Ground-based telescopes face an additional challenge: atmospheric turbulence. Adaptive optics systems measure atmospheric distortion hundreds of times per second and deform a flexible mirror to compensate in real time. This technology, developed in the 1990s, essentially removed the atmosphere as a limitation for ground-based [astronomy](/astronomy).
 
 ### Microscopes
 
-Going the other direction, optical engineers build microscopes that approach and even exceed the classical diffraction limit. Super-resolution techniques like STED, PALM, and SIM (which earned the 2014 Nobel Prize in Chemistry) can image biological structures at resolutions below 50 nanometers — shattering what was thought to be a fundamental physical limit.
+Going the other direction, optical engineers build microscopes that approach and even exceed the classical diffraction limit. Super-resolution techniques like STED, PALM, and SIM (which earned the 2014 Nobel Prize in [Chemistry](/chemistry)) can image biological structures at resolutions below 50 nanometers — shattering what was thought to be a fundamental physical limit.
 
-Confocal microscopy, two-photon microscopy, and light-sheet microscopy allow three-dimensional imaging of living cells and tissues. These aren't just better versions of what Antonie van Leeuwenhoek used in the 1670s — they're fundamentally different instruments that happen to share the name "microscope."
+Confocal [microscopy](/microscopy), two-photon microscopy, and light-sheet microscopy allow three-dimensional imaging of living cells and tissues. These aren't just better versions of what Antonie van Leeuwenhoek used in the 1670s — they're fundamentally different instruments that happen to share the name "microscope."
 
 ### Medical Imaging
 
-Optical coherence tomography (OCT) creates cross-sectional images of tissue using light interference. It's standard in ophthalmology — your eye doctor uses it to image your retina with micrometer resolution. Newer versions image at speeds exceeding 100,000 depth scans per second.
+Optical coherence tomography (OCT) creates cross-sectional images of tissue using light interference. It's standard in [ophthalmology](/ophthalmology) — your eye doctor uses it to image your retina with micrometer resolution. Newer versions image at speeds exceeding 100,000 depth scans per second.
 
 Endoscopes use fiber bundles to carry images from inside the body. Modern capsule endoscopes — pill-sized cameras you swallow — wirelessly transmit thousands of images as they pass through your digestive tract. The optical design challenges of fitting a useful camera into something that small are formidable.
 
@@ -175,7 +175,7 @@ The appeal of photonic computing is speed and energy efficiency. Light travels f
 
 ### Quantum Optics
 
-Quantum optics — manipulating individual photons — is enabling new technologies. Quantum key distribution uses the principles of [quantum mechanics](/quantum-mechanics) to create theoretically unbreakable encryption. If anyone intercepts the photons, the quantum state is disturbed, and the eavesdropping is detected.
+[Quantum optics](/quantum-optics) — manipulating individual photons — is enabling new technologies. Quantum key distribution uses the principles of [quantum mechanics](/quantum-mechanics) to create theoretically unbreakable encryption. If anyone intercepts the photons, the quantum state is disturbed, and the eavesdropping is detected.
 
 [Quantum computing](/quantum-computing) with photons is another active frontier. Companies like PsiQuantum and Xanadu are building photonic quantum computers, betting that photons' natural resistance to decoherence makes them superior qubits compared to superconducting or ion-trap approaches.
 
@@ -215,7 +215,7 @@ Several trends are shaping optical engineering's future:
 
 **Metalenses** — flat optical elements made of arrays of nanopillars — could replace traditional curved lenses in some applications. They're manufactured using semiconductor fabrication techniques, which means they could be mass-produced cheaply. The technology is young but advancing rapidly.
 
-**Optical neural networks** perform certain AI computations using light, potentially at much higher speeds and lower power than electronic processors. Early demonstrations show promise for inference workloads.
+**Optical [neural networks](/neural-networks)** perform certain AI computations using light, potentially at much higher speeds and lower power than electronic processors. Early demonstrations show promise for inference workloads.
 
 **Space-based optical systems** continue to push boundaries. Future space telescopes with even larger apertures, satellite-based LIDAR for climate monitoring, and optical communications between satellites (laser crosslinks) are all in development.
 

@@ -39,7 +39,7 @@ faq:
 
 # What Is Aviation?
 
-Aviation is the science, [engineering](/engineering), and practice of designing, building, and operating aircraft for flight within Earth's atmosphere. It encompasses everything from the physics of how wings generate lift to the global network of airlines, airports, and air traffic control systems that move over 4 billion passengers per year.
+Aviation is the science, [engineering](/engineering), and practice of designing, building, and operating aircraft for flight within Earth's atmosphere. It encompasses everything from the [physics](/physics) of how wings generate lift to the global network of airlines, airports, and air traffic control systems that move over 4 billion passengers per year.
 
 ## The Physics of Getting Off the Ground
 
@@ -67,11 +67,11 @@ On December 17, 1903, at Kitty Hawk, North Carolina, Orville Wright flew the Wri
 
 What made the Wrights succeed where others failed wasn't their engine — it was their control system. They invented three-axis control (pitch, roll, and yaw) using wing warping and a movable rudder. This remains the fundamental control scheme for every fixed-wing aircraft built since.
 
-The speed of progress that followed is staggering. In 1903, they flew 120 feet. By 1927, Charles Lindbergh flew 3,600 miles nonstop across the Atlantic. By 1947, Chuck Yeager broke the sound barrier. By 1969, humans were walking on the moon. Sixty-six years from the first wobbly 12-second flight to landing on another world.
+The speed of progress that followed is staggering. In 1903, they flew 120 feet. By 1927, Charles Lindbergh flew 3,600 miles nonstop across the Atlantic. By 1947, Chuck Yeager broke the sound barrier. By 1969, humans were [walking](/walking) on the moon. Sixty-six years from the first wobbly 12-second flight to landing on another world.
 
 ### World Wars as Aviation Accelerators
 
-Nothing accelerates technology like war. World War I transformed the airplane from a curiosity into a weapon in just four years. Biplanes evolved from unarmed reconnaissance platforms into fighters and bombers. Engine power jumped from 80 HP to over 300 HP. The war produced the first true fighter aces and established the airplane as a decisive military tool.
+Nothing accelerates technology like war. [World War I](/world-war-i) transformed the airplane from a curiosity into a weapon in just four years. Biplanes evolved from unarmed reconnaissance platforms into fighters and bombers. Engine power jumped from 80 HP to over 300 HP. The war produced the first true fighter aces and established the airplane as a decisive military tool.
 
 [World War II](/world-war-ii) pushed aviation development even further. The Spitfire, P-51 Mustang, and Zero became icons. Radar was developed and integrated into air defense. Strategic bombing campaigns — controversial and devastating — demonstrated that airpower could shape the outcome of wars. And at the very end, the jet engine arrived. The German Me 262, operational in 1944, could fly at 540 mph — roughly 100 mph faster than any Allied piston fighter.
 
@@ -103,7 +103,7 @@ Engine efficiency has improved dramatically. The engines on the first 707 (Pratt
 
 ### Avionics and Navigation
 
-Avionics — aviation [electronics](/electronics) — handle navigation, communication, flight management, and increasingly, automation. Modern airliners use GPS for primary navigation, supplemented by inertial reference systems (IRS) that track position through accelerometers and gyroscopes. The Flight Management System (FMS) can fly a pre-programmed route from shortly after takeoff to just before landing, including altitude changes, speed adjustments, and turns.
+Avionics — aviation [electronics](/electronics) — handle [navigation](/navigation), communication, flight [management](/management), and increasingly, automation. Modern airliners use GPS for primary navigation, supplemented by inertial reference systems (IRS) that track position through accelerometers and gyroscopes. The Flight Management System (FMS) can fly a pre-programmed route from shortly after takeoff to just before landing, including altitude changes, speed adjustments, and turns.
 
 Glass cockpits — where traditional mechanical gauges are replaced by digital screens — became standard starting in the 1980s. The displays are configurable, can show different information depending on the flight phase, and are easier for pilots to scan than a wall of individual gauges. A modern Airbus A350 cockpit has six large LCD screens that display everything from engine parameters to terrain maps to weather radar.
 
@@ -127,7 +127,7 @@ Radar has been the backbone of ATC since the 1950s, but it's being supplemented 
 
 ### Airports
 
-The world's busiest airport — Hartsfield-Jackson Atlanta International — handles roughly 90+ million passengers annually. Running an airport at that scale requires the coordination of airlines, ground handlers, ATC, security, customs, retail operations, and an army of maintenance staff. The infrastructure is staggering: multiple runways capable of handling aircraft weighing 500,000+ pounds, terminal buildings covering millions of square feet, and fuel systems that pump thousands of gallons per minute.
+The world's busiest airport — Hartsfield-Jackson Atlanta International — handles roughly 90+ million passengers annually. [Running](/running) an airport at that scale requires the coordination of airlines, ground handlers, ATC, security, customs, retail operations, and an army of maintenance staff. The infrastructure is staggering: multiple runways capable of handling aircraft weighing 500,000+ pounds, terminal buildings covering millions of square feet, and fuel systems that pump thousands of gallons per minute.
 
 Airport design is itself a specialized [engineering](/automotive-engineering) discipline. Runway length, orientation (aligned with prevailing winds to minimize crosswind landings), taxiway layout, and terminal configuration all affect capacity and safety. The spacing between parallel runways determines whether they can be used simultaneously for approaches — at major airports, this is the primary constraint on how many flights per hour can be handled.
 
@@ -141,7 +141,7 @@ Unmanned aerial vehicles (UAVs or drones) have transformed military aviation ove
 
 ## General Aviation
 
-"General aviation" (GA) covers everything that isn't commercial airlines or military. That includes private pilots flying Cessna 172s on weekend trips, corporate jets, flight training, agricultural spraying, aerial surveying, and bush pilots in Alaska landing on gravel bars.
+"General aviation" (GA) covers everything that isn't commercial airlines or military. That includes private pilots flying Cessna 172s on weekend trips, corporate jets, flight training, agricultural spraying, aerial [surveying](/surveying), and bush pilots in Alaska landing on gravel bars.
 
 GA accounts for about 60% of all air traffic in the United States but tends to be invisible to the general public. There are approximately 200,000 active general aviation aircraft in the US — far more than the roughly 7,000 commercial airliners operated by US carriers. Small airports that serve GA outnumber major commercial airports by a factor of 10 or more.
 
@@ -163,11 +163,11 @@ The technology works. The engineering challenge is largely solved. The harder pr
 
 ### Supersonic Revival
 
-Boom Supersonic's Overture aims to carry 65-80 passengers at Mach 1.7 — cutting trans-Pacific and trans-Atlantic flight times nearly in half. Unlike Concorde, it's designed to run on 100% SAF and to avoid sonic boom issues through optimized flight routing. United Airlines has placed orders for up to 50 aircraft. Whether the economics work — supersonic flight inherently burns more fuel per passenger-mile than subsonic — remains to be proven in production.
+Boom Supersonic's Overture aims to carry 65-80 passengers at Mach 1.7 — cutting trans-Pacific and trans-Atlantic flight times nearly in half. Unlike Concorde, it's designed to run on 100% SAF and to avoid sonic boom issues through optimized flight routing. United Airlines has placed orders for up to 50 aircraft. Whether the [economics](/economics) work — supersonic flight inherently burns more fuel per passenger-mile than subsonic — remains to be proven in production.
 
 ## Why Aviation Matters
 
-Aviation connects the world in a way no other transportation mode can. A flight from New York to London takes 7 hours. By ship, it takes 7 days. That speed enables [international business](/international-business), tourism, cultural exchange, humanitarian aid, and organ transplant delivery in ways that would simply be impossible otherwise.
+Aviation connects the world in a way no other transportation mode can. A flight from New York to London takes 7 hours. By ship, it takes 7 days. That speed enables [international business](/international-business), [tourism](/tourism), cultural exchange, humanitarian aid, and organ transplant delivery in ways that would simply be impossible otherwise.
 
 The industry directly and indirectly supports roughly 87 million jobs worldwide and contributes about $3.5 trillion to global GDP. For island nations, landlocked countries, and remote communities, aviation isn't a luxury — it's the primary connection to the global economy.
 

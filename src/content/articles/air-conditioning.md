@@ -37,7 +37,7 @@ faq:
 
 # What Is Air Conditioning?
 
-Air conditioning is a system that removes heat and moisture from indoor air and moves it outside, making interior spaces cooler and more comfortable. It works by exploiting a basic physics principle: when a liquid evaporates into a gas, it absorbs heat from its surroundings.
+Air conditioning is a system that removes heat and moisture from indoor air and moves it outside, making interior spaces cooler and more comfortable. It works by exploiting a basic [physics](/physics) principle: when a liquid evaporates into a gas, it absorbs heat from its surroundings.
 
 ## The Surprisingly Recent History of Cool Air
 
@@ -200,7 +200,7 @@ Understanding basic AC troubleshooting can save you a service call — or at lea
 
 **AC runs but doesn't cool well.** Usually a dirty air filter, dirty condenser coils (the outdoor unit), or low refrigerant. Start with the filter. If the outdoor unit is clogged with leaves, grass clippings, or cottonwood fluff, clean it with a garden hose. If neither fixes it, you likely have a refrigerant leak that needs professional attention.
 
-**AC cycles on and off rapidly (short cycling).** Often caused by an oversized system, a malfunctioning thermostat, or a dirty evaporator coil. Short cycling wastes energy and puts excessive wear on the compressor.
+**AC cycles on and off rapidly (short [cycling](/cycling)).** Often caused by an oversized system, a malfunctioning thermostat, or a dirty evaporator coil. Short cycling wastes energy and puts excessive wear on the compressor.
 
 **Water leaking inside.** The condensate drain is probably clogged. Algae and mold grow in the drain line over time. Pouring a cup of distilled white vinegar through the drain every few months prevents most clogs.
 
@@ -212,7 +212,7 @@ Understanding basic AC troubleshooting can save you a service call — or at lea
 
 Several trends are reshaping how we'll cool buildings in the coming decades.
 
-**Variable-speed compressors** are replacing the traditional on/off design. Instead of running at full blast and then shutting off, variable-speed systems modulate their output to match the actual cooling load. They run at lower speeds most of the time, which is quieter, more efficient, and better at humidity control. Think of it like cruise control versus flooring the accelerator and then braking repeatedly.
+**Variable-speed compressors** are replacing the traditional on/off design. Instead of [running](/running) at full blast and then shutting off, variable-speed systems modulate their output to match the actual cooling load. They run at lower speeds most of the time, which is quieter, more efficient, and better at humidity control. Think of it like cruise control versus flooring the accelerator and then braking repeatedly.
 
 **Geothermal heat pumps** use the stable temperature of the earth (around 55 degrees F year-round at 6-10 feet deep) as their heat sink instead of outdoor air. They're 3-5 times more efficient than conventional systems but cost $15,000-$30,000+ to install because of the ground loop excavation. The long-term savings are real, but the upfront cost limits adoption.
 

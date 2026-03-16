@@ -41,7 +41,7 @@ Every camera — from a $50,000 cinema rig to your phone — works the same way:
 
 Three settings control light reaching the sensor, and understanding their interaction is the core technical skill of camera operation.
 
-**Aperture** (f-stop) — The adjustable opening in the lens. Wider apertures (lower f-numbers like f/1.4) let in more light and create shallow depth of field (the background blurs while the subject stays sharp). Narrower apertures (higher f-numbers like f/16) let in less light but keep more of the scene in focus. The [optics](/optics) governing aperture behavior follow the physics of light diffraction.
+**Aperture** (f-stop) — The adjustable opening in the lens. Wider apertures (lower f-numbers like f/1.4) let in more light and create shallow depth of field (the background blurs while the subject stays sharp). Narrower apertures (higher f-numbers like f/16) let in less light but keep more of the scene in focus. The [optics](/optics) governing aperture behavior follow the [physics](/physics) of light diffraction.
 
 **Shutter speed** — How long the sensor is exposed to light. Fast shutter speeds (1/1000 second) freeze motion but require more light. Slow shutter speeds (1/30 second or longer) allow more light but risk motion blur. Creative use of slow shutter speeds produces effects like silky water or light trails.
 
@@ -83,7 +83,7 @@ The lens matters more than the camera body for image quality and creative contro
 
 Modern cameras shoot both stills and video, but the skills diverge significantly.
 
-Video adds temporal dimensions: camera movement (pans, tilts, tracking shots), frame rate (24fps for cinematic look, 60fps for smooth motion), audio recording, and the need to think in sequences rather than single frames. [Cinematography](/cinematography) builds on camera operation fundamentals but adds storytelling through motion, editing, and sound.
+Video adds temporal dimensions: camera movement (pans, tilts, tracking shots), frame rate (24fps for cinematic look, 60fps for smooth motion), audio recording, and the need to think in sequences rather than single frames. [Cinematography](/cinematography) builds on camera operation fundamentals but adds storytelling through motion, [editing](/editing), and sound.
 
 Still photography freezes a single moment, placing greater emphasis on precise timing, decisive framing, and the ability to capture an entire narrative in one frame.
 
@@ -95,6 +95,6 @@ Professional camera operation persists because dedicated equipment offers contro
 
 ## Career Paths
 
-Camera operators work in numerous contexts: photojournalism, wedding and [portrait photography](/portrait-photography), commercial and advertising photography, film and [television production](/television-production), documentary production, [sports photography](/sports-photography), scientific and [medical imaging](/medical-imaging), and [real estate](/real-estate) photography. The Bureau of Labor Statistics reports approximately 143,000 professional photographers in the U.S., with additional demand for video camera operators in film and [broadcasting](/broadcasting).
+Camera operators work in numerous contexts: photojournalism, wedding and [portrait photography](/portrait-photography), commercial and advertising photography, film and [television production](/television-production), documentary production, [sports photography](/sports-photography), scientific and [medical imaging](/medical-imaging), and [real estate](/real-estate) photography. The Bureau of Labor [Statistics](/statistics) reports approximately 143,000 professional photographers in the U.S., with additional demand for video camera operators in film and [broadcasting](/broadcasting).
 
 The barrier to entry has never been lower — a smartphone and a good eye are sufficient to start. But professional-level work requires understanding light, composition, and equipment at a depth that takes years to develop. The camera is just a tool. The photographer is the artist.

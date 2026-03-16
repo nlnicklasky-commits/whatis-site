@@ -31,13 +31,13 @@ faq:
 
 # What Is Physical [Education](/education)?
 
-Physical education — PE, gym class, whatever your school called it — is the structured teaching of physical activity, movement skills, fitness concepts, and healthy lifestyle habits within a school setting. At its best, PE teaches kids how to move their bodies, builds habits that prevent chronic disease, and helps students discover physical activities they'll enjoy for life. At its worst, it's a traumatic experience involving dodgeball and public humiliation that turns people off exercise for decades.
+Physical education — PE, gym class, whatever your school called it — is the structured [teaching](/teaching) of physical activity, movement skills, [fitness](/fitness) concepts, and healthy lifestyle habits within a school setting. At its best, PE teaches kids how to move their bodies, builds habits that prevent chronic disease, and helps students discover physical activities they'll enjoy for life. At its worst, it's a traumatic experience involving dodgeball and public humiliation that turns people off exercise for decades.
 
 ## What It's Supposed to Do
 
 Modern physical education has four main goals, according to SHAPE America (the Society of Health and Physical Educators):
 
-**Motor competence.** Teach students fundamental movement skills — running, jumping, throwing, catching, kicking, balance, coordination — and sport-specific skills. A child who can't throw a ball or maintain balance is unlikely to enjoy physical activity as an adult. These skills aren't innate; they need to be taught and practiced.
+**Motor competence.** Teach students fundamental movement skills — [running](/running), jumping, throwing, catching, kicking, balance, coordination — and sport-specific skills. A child who can't throw a ball or maintain balance is unlikely to enjoy physical activity as an adult. These skills aren't innate; they need to be taught and practiced.
 
 **Health-related fitness.** Develop cardiovascular endurance, muscular strength and endurance, flexibility, and body composition awareness. Students should understand how exercise affects their body and how to maintain basic fitness independently.
 
@@ -61,7 +61,7 @@ The case for physical education is overwhelming:
 
 Despite the evidence, PE has a reputation problem. Many adults remember gym class as their worst school experience. The reasons are predictable:
 
-**Overemphasis on team sports.** Traditional PE revolves around [basketball](/basketball), football, soccer, and [volleyball](/volleyball). Great if you're athletic. Miserable if you're not. Students who struggle with competitive sports often conclude they're "not athletic" — when really they just haven't found an activity they enjoy. Activities like hiking, yoga, dance, [martial arts](/martial-arts), [rock climbing](/rock-climbing), and [swimming](/swimming) rarely appear in traditional PE.
+**Overemphasis on team sports.** Traditional PE revolves around [basketball](/basketball), football, [soccer](/soccer), and [volleyball](/volleyball). Great if you're athletic. Miserable if you're not. Students who struggle with competitive sports often conclude they're "not athletic" — when really they just haven't found an activity they enjoy. Activities like [hiking](/hiking), yoga, [dance](/dance), [martial arts](/martial-arts), [rock climbing](/rock-climbing), and [swimming](/swimming) rarely appear in traditional PE.
 
 **Public performance anxiety.** Being chosen last for teams, having your fitness test results discussed openly, being unable to do a pull-up while the class watches — these experiences create lasting negative associations with physical activity. The kid who's humiliated in PE at age 10 may avoid exercise at age 40.
 

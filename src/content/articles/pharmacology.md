@@ -39,7 +39,7 @@ faq:
 
 Pharmacology is the science of how drugs interact with living systems. It studies what drugs do to the body, what the body does to drugs, and everything that happens in between --- from the moment you swallow a pill to the moment the last trace of it leaves your system.
 
-If [pharmaceutical chemistry](/pharmaceutical-chemistry) designs and builds the molecule, pharmacology is the discipline that figures out what happens once that molecule meets biology.
+If [pharmaceutical chemistry](/pharmaceutical-chemistry) designs and builds the molecule, pharmacology is the discipline that figures out what happens once that molecule meets [biology](/biology).
 
 ## Why Pharmacology Matters More Than You Think
 
@@ -59,7 +59,7 @@ Pharmacokinetics is captured by the acronym ADME: Absorption, Distribution, Meta
 
 **Absorption** is how the drug gets from its administration site into the bloodstream. When you swallow a tablet, it dissolves in the stomach or intestines, and the drug molecules cross the gut lining into the blood. This seems simple, but it's influenced by dozens of factors: the drug's solubility, the pH of the stomach, food in the gut, intestinal motility, and the drug's ability to cross cell membranes.
 
-Not all drugs are taken orally. Intravenous injection delivers 100% of the drug directly into the blood (this is called 100% bioavailability). Intramuscular injection puts the drug in muscle tissue, where it absorbs more slowly. Transdermal patches deliver drugs through the skin. Inhalation gets drugs to the lungs almost instantly. Each route has advantages and trade-offs.
+Not all drugs are taken orally. Intravenous injection delivers 100% of the drug directly into the blood (this is called 100% bioavailability). Intramuscular injection puts the drug in muscle tissue, where it absorbs more slowly. Transdermal patches deliver drugs through the skin. Inhalation gets drugs to the lungs almost instantly. Each route has advantages and [trade](/trade)-offs.
 
 **Distribution** describes where the drug goes once it's in the blood. Blood carries it everywhere, but drugs don't distribute evenly. Some accumulate in fat tissue. Some bind to plasma proteins (especially albumin), which acts like a reservoir --- only the unbound fraction is pharmacologically active. Some drugs cross the blood-brain barrier; many don't. The volume of distribution (Vd) is a pharmacokinetic parameter that describes how widely a drug disperses through the body. A drug with a high Vd is extensively distributed into tissues; a low Vd means it mostly stays in the blood.
 
@@ -111,7 +111,7 @@ Population pharmacokinetics uses [mathematical modeling](/mathematical-modeling)
 
 ### Toxicology
 
-Toxicology is pharmacology's dark mirror. It studies the harmful effects of chemical substances --- not just drugs, but environmental chemicals, industrial compounds, and naturally occurring poisons. The basic principle, attributed to Paracelsus in the 1500s, remains true: "The dose makes the poison." Even water is toxic in sufficient quantities (water intoxication can cause fatal brain swelling).
+[Toxicology](/toxicology) is pharmacology's dark mirror. It studies the harmful effects of chemical substances --- not just drugs, but environmental chemicals, industrial compounds, and naturally occurring poisons. The basic principle, attributed to Paracelsus in the 1500s, remains true: "The dose makes the poison." Even water is toxic in sufficient quantities (water intoxication can cause fatal brain swelling).
 
 Pharmacotoxicology specifically studies the toxic effects of drugs. Every drug has a therapeutic window --- the range between the minimum effective dose and the maximum tolerated dose. Understanding this window is critical for safe prescribing.
 
@@ -155,7 +155,7 @@ The 20th century brought the receptor concept (Clark, 1926), the development of 
 
 ### Antibiotic Resistance
 
-Antibiotics are losing effectiveness because bacteria evolve resistance faster than we develop new drugs. The WHO estimates that drug-resistant infections killed 1.27 million people globally in 2019. Pharmacologists are working on new antibiotic classes, combination therapies, and alternative approaches like bacteriophage therapy. But the economics are discouraging: antibiotics are taken for days, while chronic disease drugs are taken for years, making antibiotic development less profitable.
+Antibiotics are losing effectiveness because bacteria evolve resistance faster than we develop new drugs. The WHO estimates that drug-resistant infections killed 1.27 million people globally in 2019. Pharmacologists are working on new antibiotic classes, combination therapies, and alternative approaches like bacteriophage therapy. But the [economics](/economics) are discouraging: antibiotics are taken for days, while chronic disease drugs are taken for years, making antibiotic development less profitable.
 
 ### The Opioid Crisis
 

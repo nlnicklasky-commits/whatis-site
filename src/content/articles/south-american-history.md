@@ -51,7 +51,7 @@ Other early sites include Pedra Furada in Brazil, where some archaeologists clai
 
 ### Early Civilizations
 
-The oldest known civilization in the Americas — Norte Chico (also called Caral) — emerged along Peru's central coast around 3000 BCE, roughly contemporary with ancient Egypt and Mesopotamia. The city of Caral featured monumental [architecture](/architecture), including platform mounds and sunken circular plazas, built by a society that apparently had no pottery, no writing, and no evidence of warfare. They sustained themselves through fishing and [agriculture](/agriculture), growing cotton and squash.
+The oldest known civilization in the Americas — Norte Chico (also called Caral) — emerged along Peru's central coast around 3000 BCE, roughly contemporary with ancient Egypt and Mesopotamia. The city of Caral featured monumental [architecture](/architecture), including platform mounds and sunken circular plazas, built by a society that apparently had no [pottery](/pottery), no [writing](/writing), and no evidence of warfare. They sustained themselves through [fishing](/fishing) and [agriculture](/agriculture), growing cotton and squash.
 
 What makes Norte Chico remarkable is its age and complexity. It pushes back the timeline for complex society in the Americas by over a thousand years from previous estimates.
 
@@ -59,7 +59,7 @@ Later pre-Columbian civilizations in South America include:
 
 **The Chavin (900-200 BCE)** — An early Andean culture centered at Chavin de Huantar in Peru. They developed sophisticated [stone carving](/stone-carving), metallurgy, and textile production, and their religious [iconography](/iconography) spread across a wide area, suggesting significant cultural influence.
 
-**The Moche (100-700 CE)** — A northern Peruvian coastal society known for extraordinary ceramics — portrait vessels so detailed they may represent actual individuals — and massive adobe pyramids, including the Huaca del Sol, one of the largest structures in pre-Columbian South America. The Moche also practiced human sacrifice and developed sophisticated [irrigation](/irrigation) systems.
+**The Moche (100-700 CE)** — A northern Peruvian coastal society known for extraordinary [ceramics](/ceramics) — portrait vessels so detailed they may represent actual individuals — and massive adobe pyramids, including the Huaca del Sol, one of the largest structures in pre-Columbian South America. The Moche also practiced human sacrifice and developed sophisticated [irrigation](/irrigation) systems.
 
 **The Tiwanaku (500-1000 CE)** — Based near Lake Titicaca at an elevation of nearly 4,000 meters, Tiwanaku was one of the most important precursors to the Inca. At its peak, the city held perhaps 20,000-40,000 people and exerted influence across modern Bolivia, Peru, and Chile.
 
@@ -99,9 +99,9 @@ By the early 1800s, colonial elites — primarily *criollos* who resented being 
 
 Two figures dominated the independence era. **Simon Bolivar**, from Venezuela, led liberation campaigns across Venezuela, Colombia, Ecuador, Peru, and Bolivia. **Jose de San Martin**, from Argentina, liberated Argentina, Chile, and Peru from the south. The two met in Guayaquil, Ecuador, in 1822 in a private meeting whose contents remain one of South American history's great mysteries — after which San Martin withdrew from public life.
 
-Most South American countries achieved independence between 1810 and 1830. Brazil's independence was unusual — relatively peaceful, with the Portuguese prince Pedro declaring independence in 1822 and becoming Emperor Pedro I. Brazil remained a monarchy until 1889.
+Most South American countries achieved independence between 1810 and 1830. Brazil's independence was unusual — relatively peaceful, with the Portuguese prince Pedro declaring independence in 1822 and becoming Emperor Pedro I. Brazil remained a [monarchy](/monarchy) until 1889.
 
-Independence didn't bring stability. Most new nations spent the 19th century cycling through political crises, military coups, border wars, and economic struggles. The continent's economies remained largely dependent on commodity exports — coffee, sugar, rubber, minerals — controlled by small elites. The social hierarchies of the colonial era persisted under new national flags.
+Independence didn't bring stability. Most new nations spent the 19th century [cycling](/cycling) through political crises, military coups, border wars, and economic struggles. The continent's economies remained largely dependent on commodity exports — coffee, sugar, rubber, minerals — controlled by small elites. The social hierarchies of the colonial era persisted under new national flags.
 
 ## The 20th Century: Booms, Busts, and Dictators
 
@@ -121,12 +121,12 @@ Economic performance has been uneven. Brazil emerged as the world's ninth-larges
 
 Indigenous rights movements have gained significant ground. Bolivia elected its first indigenous president, Evo Morales, in 2006. Ecuador's 2008 constitution granted legal rights to nature — the first country to do so. Land rights, cultural preservation, and environmental protection remain active and often contentious issues.
 
-The Amazon rainforest — shared among nine countries, with about 60% in Brazil — has become a global environmental flashpoint. Deforestation, driven by cattle ranching, soybean farming, and logging, threatens the world's largest tropical forest. Between 2001 and 2022, Brazil lost approximately 51 million hectares of tree cover.
+The Amazon rainforest — shared among nine countries, with about 60% in Brazil — has become a global environmental flashpoint. Deforestation, driven by cattle ranching, soybean [farming](/farming), and logging, threatens the world's largest tropical forest. Between 2001 and 2022, Brazil lost approximately 51 million hectares of tree cover.
 
 ## Why This History Matters
 
 South American history matters because it's the history of 430 million people living on a continent that's been continuously inhabited longer than almost anywhere outside Africa. It's a history of astonishing achievement — the Inca road system, Norte Chico's pyramids, the biodiversity of the Amazon — and staggering destruction — the colonial extraction machine, the military dictatorships, the ongoing environmental crisis.
 
-It's also a history that's still very much in progress. The legacies of colonialism, slavery, and Cold War intervention are not abstract historical concepts in South America. They shape politics, [economics](/economics), and daily life right now.
+It's also a history that's still very much in progress. The legacies of colonialism, slavery, and Cold War intervention are not abstract historical concepts in South America. They shape [politics](/politics), [economics](/economics), and daily life right now.
 
 Understanding this continent's past isn't just academic exercise. It's context for understanding the present.

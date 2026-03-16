@@ -39,21 +39,21 @@ Mesopotamian history is the study of the civilizations that arose in the region 
 
 The name says it all. "Mesopotamia" comes from the Greek *meso* (between) and *potamos* (river). The Tigris and Euphrates both originate in the mountains of eastern Turkey and flow southeast to the Persian Gulf, creating a fertile corridor through an otherwise arid region.
 
-But "fertile" is a complicated word here. Southern Mesopotamia — the flat alluvial plain where the most famous cities arose — received almost no rainfall. Less than 8 inches per year. Without [irrigation](/irrigation), farming was impossible. With irrigation, it was extraordinarily productive. The rivers deposited rich silt during annual floods, and the flat terrain made canal-building feasible.
+But "fertile" is a complicated word here. Southern Mesopotamia — the flat alluvial plain where the most famous cities arose — received almost no rainfall. Less than 8 inches per year. Without [irrigation](/irrigation), [farming](/farming) was impossible. With irrigation, it was extraordinarily productive. The rivers deposited rich silt during annual floods, and the flat terrain made canal-building feasible.
 
-This created a peculiar situation: the land between the rivers could support dense populations, but only through organized, cooperative labor. Someone had to build the canals, maintain them, allocate water, settle disputes. That required administration. Administration required record-keeping. Record-keeping eventually required writing. In a real sense, the challenges of irrigated [agriculture](/agriculture) in a difficult environment drove the development of civilization itself.
+This created a peculiar situation: the land between the rivers could support dense populations, but only through organized, cooperative labor. Someone had to build the canals, maintain them, allocate water, settle disputes. That required administration. Administration required record-keeping. Record-keeping eventually required [writing](/writing). In a real sense, the challenges of irrigated [agriculture](/agriculture) in a difficult environment drove the development of civilization itself.
 
 ## The Sumerians: Firsts Upon Firsts
 
 The Sumerians are the earliest identifiable civilization in Mesopotamia — and one of the most mysterious. Their language is an isolate, unrelated to any known language family. Where they came from is genuinely uncertain. But what they built, starting around 4500 BCE and peaking between 3500 and 2000 BCE, was extraordinary.
 
-The Sumerians created the world's first cities. Uruk, around 3500 BCE, may have been the largest city on Earth, with a population estimated at 40,000 to 80,000 people. That's remarkable for a time when most humans lived in villages of a few hundred. Uruk had monumental [architecture](/architecture), specialized labor, social stratification, and long-distance trade networks reaching as far as the Indus Valley and Egypt.
+The Sumerians created the world's first cities. Uruk, around 3500 BCE, may have been the largest city on Earth, with a population estimated at 40,000 to 80,000 people. That's remarkable for a time when most humans lived in villages of a few hundred. Uruk had monumental [architecture](/architecture), specialized labor, social stratification, and long-distance [trade](/trade) networks reaching as far as the Indus Valley and Egypt.
 
-They invented writing — or at least the earliest writing system we've found. Cuneiform started around 3400 BCE as a practical tool: temple administrators needed to track grain, livestock, and labor. The earliest tablets are [accounting](/accounting) records. "Received: 5 jars of beer." Not exactly poetry. But over centuries, the system evolved to represent the full range of human thought. By 2600 BCE, Sumerians were writing [literature](/literature), including the *Epic of Gilgamesh* — the oldest surviving literary narrative, a 4,000-year-old story about mortality, friendship, and the search for meaning that's still genuinely moving to read.
+They invented writing — or at least the earliest writing system we've found. Cuneiform started around 3400 BCE as a practical tool: temple administrators needed to track grain, livestock, and labor. The earliest tablets are [accounting](/accounting) records. "Received: 5 jars of beer." Not exactly [poetry](/poetry). But over centuries, the system evolved to represent the full range of human thought. By 2600 BCE, Sumerians were writing [literature](/literature), including the *Epic of Gilgamesh* — the oldest surviving literary narrative, a 4,000-year-old story about mortality, friendship, and the search for meaning that's still genuinely moving to read.
 
 The Sumerians also developed a base-60 mathematical system. That might sound arbitrary, but 60 is remarkably practical — it's evenly divisible by 2, 3, 4, 5, 6, 10, 12, 15, 20, and 30. We still live with Sumerian math every day. Sixty seconds in a minute. Sixty minutes in an hour. 360 degrees in a circle. All Sumerian.
 
-They built ziggurats — massive stepped temple platforms that dominated their cities. They brewed beer (it was a dietary staple, safer than water). They had schools (called *edubba*, or "tablet house"). They practiced medicine, law, and diplomacy. They played [board games](/board-games).
+They built ziggurats — massive stepped temple platforms that dominated their cities. They brewed beer (it was a dietary staple, safer than water). They had schools (called *edubba*, or "tablet house"). They practiced medicine, law, and [diplomacy](/diplomacy). They played [board games](/board-games).
 
 ## Akkad: The First Empire
 
@@ -81,13 +81,13 @@ While Babylon had its ups and downs, the Assyrians in northern Mesopotamia were 
 
 Assyrian warfare was brutal and deliberately so. They developed iron weapons, siege engines, cavalry units, and [engineering](/engineering) corps capable of diverting rivers to flood enemy cities. They deported conquered populations en masse — not randomly, but strategically, relocating skilled workers and farmers to areas where they were needed while destroying the social bonds that might fuel rebellion.
 
-Their empire eventually stretched from Egypt to Iran. At its peak under Ashurbanipal (668-627 BCE), it was the largest empire the world had yet known. Ashurbanipal was also a scholar who assembled one of antiquity's greatest libraries at Nineveh — over 30,000 clay tablets covering literature, science, medicine, religion, and history. Most of what we know about Sumerian and Babylonian literature survives because Ashurbanipal's scribes copied it.
+Their empire eventually stretched from Egypt to Iran. At its peak under Ashurbanipal (668-627 BCE), it was the largest empire the world had yet known. Ashurbanipal was also a scholar who assembled one of antiquity's greatest libraries at Nineveh — over 30,000 clay tablets covering literature, science, medicine, [religion](/religion), and history. Most of what we know about Sumerian and Babylonian literature survives because Ashurbanipal's scribes copied it.
 
 The Assyrians collapse was sudden. In 612 BCE, a coalition of Babylonians and Medes sacked Nineveh. By 609 BCE, the empire was gone. The destruction was so thorough that when the Greek historian Xenophon marched past Nineveh's ruins two centuries later, he had no idea what city had once stood there.
 
 ## Neo-Babylonian Revival
 
-Babylon's second act was brief but brilliant. The Neo-Babylonian Empire (626-539 BCE) under Nebuchadnezzar II rebuilt Babylon into arguably the most magnificent city of its era. The Ishtar Gate, covered in glazed blue tiles depicting dragons and bulls, was one of the ancient world's wonders. The Hanging Gardens — if they existed (archaeologists still debate this) — were another.
+Babylon's second act was brief but brilliant. The Neo-Babylonian Empire (626-539 BCE) under Nebuchadnezzar II rebuilt Babylon into arguably the most magnificent city of its era. The Ishtar Gate, covered in glazed blue tiles depicting dragons and bulls, was one of the ancient world's wonders. The Hanging Gardens — if they existed (archaeologists still [debate](/debate) this) — were another.
 
 Nebuchadnezzar is also remembered for conquering Jerusalem in 586 BCE, destroying Solomon's Temple, and deporting the Jewish elite to Babylon. The "Babylonian Captivity" profoundly shaped Judaism — much of the Hebrew Bible was compiled or edited during this period.
 

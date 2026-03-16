@@ -89,7 +89,7 @@ This argument made many scholars uncomfortable, because it seemed to deny agency
 
 Bhabha's *The Location of Culture* (1994) introduced concepts that became standard vocabulary in the field. **Hybridity** describes how colonial encounters produce cultures that are neither purely colonizer nor purely colonized, but something new and unstable. **Mimicry** captures the way colonized peoples adopt the colonizer's language, dress, and manners — but never quite perfectly, producing a result that is "almost the same, but not quite," which unsettles the colonizer's authority.
 
-Bhabha's prose is notoriously difficult — he's been criticized (and occasionally mocked) for unnecessarily opaque writing. But his ideas about cultural mixing and the instability of colonial authority have been widely adopted.
+Bhabha's [prose](/prose) is notoriously difficult — he's been criticized (and occasionally mocked) for unnecessarily opaque [writing](/writing). But his ideas about cultural mixing and the instability of colonial authority have been widely adopted.
 
 ## Key Debates and Tensions
 
@@ -97,7 +97,7 @@ Bhabha's prose is notoriously difficult — he's been criticized (and occasional
 
 Western political thought since the Enlightenment has claimed universal validity for concepts like human rights, democracy, individual freedom, and the rule of law. Postcolonial scholars ask: are these genuinely universal, or are they particular European ideas dressed up as universal truths and imposed on the rest of the world?
 
-This debate has real stakes. When international organizations promote "good governance" or "human rights" in developing countries, are they spreading universal values or continuing a colonial project of cultural transformation? The answer probably isn't either/or — some values may be genuinely universal while others are culturally specific — but the question demands honest engagement.
+This [debate](/debate) has real stakes. When international organizations promote "good governance" or "human rights" in developing countries, are they spreading universal values or continuing a colonial project of cultural transformation? The answer probably isn't either/or — some values may be genuinely universal while others are culturally specific — but the question demands honest engagement.
 
 ### Language and [Literature](/literature)
 

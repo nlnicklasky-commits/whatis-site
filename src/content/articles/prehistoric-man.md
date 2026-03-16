@@ -85,7 +85,7 @@ No discussion of prehistoric humans is complete without Neanderthals, and no gro
 
 About 1-4% of the DNA of non-African modern humans comes from Neanderthals. That's not just a curiosity. Neanderthal genes affect our immune systems, skin and hair traits, and even our susceptibility to certain diseases. They're not a separate story from ours. They're part of it.
 
-Neanderthals disappeared about 40,000 years ago, shortly after modern humans arrived in Europe. Whether we outcompeted them, absorbed them through interbreeding, or they fell victim to climate change — or some combination — remains one of [paleoanthropology](/paleoanthropology)'s biggest open questions.
+Neanderthals disappeared about 40,000 years ago, shortly after modern humans arrived in Europe. Whether we outcompeted them, absorbed them through interbreeding, or they fell victim to [climate change](/climate-change) — or some combination — remains one of [paleoanthropology](/paleoanthropology)'s biggest open questions.
 
 ## Out of Africa — Twice (At Least)
 

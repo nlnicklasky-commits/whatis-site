@@ -64,7 +64,7 @@ This was genuinely radical. In a world of ritual-based polytheism, Zarathustra p
 
 Ahura Mazda is the supreme, uncreated creator of everything good. The name means "Wise Lord" — "Ahura" (lord) and "Mazda" (wisdom). He's all-knowing, all-good, and exists in eternal opposition to evil.
 
-But here's where Zoroastrian theology gets genuinely interesting: Ahura Mazda is not omnipotent in the way the Abrahamic God is typically conceived. He's locked in a cosmic struggle with Angra Mainyu (also called Ahriman) — the destructive spirit, the source of all evil, suffering, and death.
+But here's where Zoroastrian [theology](/theology) gets genuinely interesting: Ahura Mazda is not omnipotent in the way the Abrahamic God is typically conceived. He's locked in a cosmic struggle with Angra Mainyu (also called Ahriman) — the destructive spirit, the source of all evil, suffering, and death.
 
 This cosmic dualism — good versus evil as equal and opposite forces — is Zoroastrianism's most distinctive theological contribution. It's not that evil is merely the absence of good, or a test from God, or a necessary part of a divine plan. Evil is a genuinely hostile force, and the universe is a battleground.
 
@@ -100,7 +100,7 @@ Zoroastrianism has a fully developed eschatology — a theology of the end times
 - Evil will be permanently defeated.
 - The world will be renewed and perfected (the Frashokereti — "making wonderful").
 
-Sound familiar? The concepts of bodily resurrection, final judgment, a messianic savior, heaven and hell, and a renewed world all appear here — centuries before they show up in [Christianity](/christianity), [Judaism](/comparative-religion), or Islam.
+Sound familiar? The concepts of bodily resurrection, final judgment, a messianic savior, heaven and hell, and a renewed world all appear here — centuries before they show up in [Christianity](/christianity), [Judaism](/comparative-religion), or [Islam](/islam).
 
 ## Sacred Texts
 

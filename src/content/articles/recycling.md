@@ -31,7 +31,7 @@ faq:
 
 # What Is Recycling?
 
-Recycling is the process of collecting [waste](/[waste](/zero-waste-living)-management) materials and converting them into new products instead of discarding them in landfills or incinerators. Aluminum cans become new cans. Old newspapers become cardboard. Glass bottles become new glass bottles. The basic idea is simple and appealing: instead of extracting virgin resources from the earth, reuse what we've already extracted. The reality is more complicated than the idea, but the [environmental](/environmental-engineering) benefits — when recycling works — are genuine and significant.
+Recycling is the process of collecting [waste](/[waste](/zero-waste-living)-[management](/management)) materials and converting them into new products instead of discarding them in landfills or incinerators. Aluminum cans become new cans. Old newspapers become cardboard. Glass bottles become new glass bottles. The basic idea is simple and appealing: instead of extracting virgin resources from the earth, reuse what we've already extracted. The reality is more complicated than the idea, but the [environmental](/environmental-[engineering](/engineering)) benefits — when recycling works — are genuine and significant.
 
 ## How It Works
 

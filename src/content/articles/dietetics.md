@@ -35,21 +35,21 @@ faq:
 
 # What Is Dietetics?
 
-Dietetics is the science of how food and nutrition affect human health, and the practice of applying that knowledge to prevent and treat disease. A dietitian translates research about nutrients, metabolism, and food composition into practical eating guidance for individuals and populations.
+Dietetics is the science of how food and [nutrition](/nutrition) affect human health, and the practice of applying that knowledge to prevent and treat disease. A dietitian translates research about nutrients, metabolism, and food composition into practical eating guidance for individuals and populations.
 
 ## More Than Just Telling People to Eat Vegetables
 
-There's a common misconception that dietetics is just common-sense advice about eating more greens and drinking water. Frankly, that sells the field way short. Dietetics sits at the intersection of [biochemistry](/chemistry), physiology, food science, and clinical medicine. A registered dietitian working in a hospital's intensive care unit is calculating precise macronutrient ratios for a patient receiving nutrition through an IV line — that's applied science, not wellness advice.
+There's a common misconception that dietetics is just common-sense advice about eating more greens and drinking water. Frankly, that sells the field way short. Dietetics sits at the intersection of [biochemistry](/chemistry), [physiology](/physiology), [food science](/food-science), and clinical medicine. A registered dietitian working in a hospital's intensive care unit is calculating precise macronutrient ratios for a patient receiving nutrition through an IV line — that's applied science, not [wellness](/wellness) advice.
 
 The field's scope is genuinely broad. Dietitians manage the nutritional care of premature infants who can't yet eat. They design renal diets for people whose kidneys can no longer filter phosphorus and potassium properly. They help athletes optimize performance by timing carbohydrate intake around training. They treat eating disorders, counsel cancer patients experiencing treatment-related nausea, and develop school lunch programs that meet federal nutrition standards while staying within budget.
 
-About 70% of the roughly 110,000 registered dietitian nutritionists in the United States work in clinical settings — hospitals, outpatient clinics, long-term care facilities. The rest work in community health, food service, research, education, and private practice.
+About 70% of the roughly 110,000 registered dietitian nutritionists in the United States work in clinical settings — hospitals, outpatient clinics, long-term care facilities. The rest work in community health, food service, research, [education](/education), and private practice.
 
 ## A Brief History of Dietetics
 
 Humans have always known — at least intuitively — that food affects health. Hippocrates supposedly said "Let food be thy medicine" around 400 BCE (though whether he actually said that is debatable). Ancient Egyptians, Greeks, and Chinese all had dietary prescriptions for various ailments.
 
-But dietetics as a formal profession is a 20th-century creation. The American Dietetic Association (now the Academy of Nutrition and Dietetics) was founded in 1917, largely in response to World War I. The U.S. government needed experts to plan adequate diets for soldiers and to help the civilian population conserve food. Lenna Frances Cooper, one of the founders, ran the nutrition department at a Battle Creek, Michigan sanitarium and was among the first to treat diet as a science rather than a folk tradition.
+But dietetics as a formal profession is a 20th-century creation. The American Dietetic Association (now the Academy of Nutrition and Dietetics) was founded in 1917, largely in response to [World War I](/world-war-i). The U.S. [government](/government) needed experts to plan adequate diets for soldiers and to help the civilian population conserve food. Lenna Frances Cooper, one of the founders, ran the nutrition department at a Battle Creek, Michigan sanitarium and was among the first to treat diet as a science rather than a folk tradition.
 
 The discovery of vitamins in the early 1900s was a turning point. Before scientists identified thiamine (B1), scurvy-preventing vitamin C, and rickets-preventing vitamin D, the link between specific nutrients and specific diseases was poorly understood. Once those connections became clear, dietetics had a biochemical foundation to build on.
 
@@ -60,12 +60,12 @@ The mid-20th century brought the study of diet and chronic disease — the relat
 The education required for dietetics is more rigorous than most people realize. The curriculum includes:
 
 - **[Human anatomy](/human-anatomy) and physiology** — you can't plan a diet for someone with kidney disease if you don't understand how [kidneys work](/anatomy)
-- **Biochemistry** — [metabolic pathways](/metabolic-pathways), enzyme kinetics, how the body processes macronutrients and micronutrients
-- **Food science** — how cooking, processing, and storage affect nutrient content and food safety
+- **[Biochemistry](/biochemistry)** — [metabolic pathways](/metabolic-pathways), enzyme kinetics, how the body processes macronutrients and micronutrients
+- **Food science** — how [cooking](/cooking), processing, and storage affect nutrient content and food safety
 - **Medical nutrition therapy** — clinical protocols for managing diabetes, heart disease, GI disorders, cancer, renal failure, and other conditions
 - **Community nutrition** — [public health](/public-health) approaches to malnutrition, food insecurity, and population-level dietary interventions
-- **Food service management** — menu planning, cost control, food safety regulations, and institutional food operations
-- **[Research methods](/research-methods)** — study design, statistics, how to read and evaluate nutrition research
+- **Food service [management](/management)** — menu planning, cost control, food safety regulations, and institutional food operations
+- **[Research methods](/research-methods)** — study design, [statistics](/statistics), how to read and evaluate nutrition research
 
 Since January 2024, a master's degree has been the minimum requirement for new registered dietitians in the United States. The previous minimum was a bachelor's degree. The change reflects the growing complexity of the field and the need for practitioners who can critically evaluate research.
 
@@ -75,7 +75,7 @@ Clinical dietetics is where abstract nutrition science meets actual patients. He
 
 ### Medical Nutrition Therapy
 
-Medical nutrition therapy (MNT) is the foundation of clinical dietetics. It's a systematic approach: assess the patient's nutritional status, diagnose the nutrition problem, create an intervention plan, and monitor outcomes. MNT is recognized by Medicare and many insurance providers as a reimbursable medical service — particularly for [diabetes](/diabetes-management) and kidney disease.
+Medical nutrition therapy (MNT) is the foundation of clinical dietetics. It's a systematic approach: assess the patient's nutritional status, diagnose the nutrition problem, create an intervention plan, and monitor outcomes. MNT is recognized by Medicare and many [insurance](/insurance) providers as a reimbursable medical service — particularly for [diabetes](/diabetes-management) and kidney disease.
 
 For a patient with Type 2 diabetes, MNT might involve carbohydrate counting education, meal timing strategies, and glycemic index guidance. For a patient with heart failure, it might mean sodium restriction to 2,000 mg per day and fluid limitations. For a patient with celiac disease, it means a lifelong gluten-free diet and monitoring for nutrient deficiencies common in celiac patients (iron, calcium, vitamin D, B12).
 

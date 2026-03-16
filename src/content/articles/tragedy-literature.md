@@ -31,7 +31,7 @@ faq:
 
 # What Is Tragedy (Literature)?
 
-Tragedy is one of the oldest and most enduring genres of literature and [drama](/drama). Fundamentally, it tells the story of a person — usually someone of status or exceptional quality — whose life spirals from prosperity to catastrophe through some combination of personal failings, impossible circumstances, and the indifference of fate.
+Tragedy is one of the oldest and most enduring genres of [literature](/literature) and [drama](/drama). Fundamentally, it tells the story of a person — usually someone of status or exceptional quality — whose life spirals from prosperity to catastrophe through some combination of personal failings, impossible circumstances, and the indifference of fate.
 
 It's supposed to make you feel terrible. That's the point. And paradoxically, the experience of watching someone suffer devastating loss produces something deeply satisfying — what the [ancient Greeks](/ancient-greek-history) called *catharsis*, a purging of emotions that leaves the audience shaken but strangely uplifted.
 

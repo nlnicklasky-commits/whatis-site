@@ -31,7 +31,7 @@ faq:
 
 # What Is The History of Political Science?
 
-The history of political science is the story of how humans went from asking "who should rule?" to building an entire academic discipline around studying how power actually works. It's a journey from ancient philosophical speculation to modern data-driven research — with some genuinely ruthless thinkers along the way.
+The history of [political science](/political-science) is the story of how humans went from asking "who should rule?" to building an entire academic discipline around studying how power actually works. It's a journey from ancient philosophical speculation to modern data-driven research — with some genuinely ruthless thinkers along the way.
 
 Political science as a formal discipline is surprisingly young. The first university departments didn't appear until the 1880s. But people have been thinking systematically about [government](/government), authority, and justice for about 2,500 years.
 
@@ -47,13 +47,13 @@ The Greek city-states — particularly Athens — changed that. When you have ci
 
 **Aristotle** (384–322 BCE) took a more empirical approach. He and his students collected and analyzed the constitutions of 158 Greek city-states — essentially the first [comparative politics](/comparative-politics) study. He classified governments into six types: [monarchy](/monarchy), aristocracy, and polity (the good versions) versus tyranny, oligarchy, and democracy (the corrupt versions). His analysis was practical rather than utopian. The best achievable government, Aristotle thought, was a **polity** — a stable middle-class constitutional system.
 
-Aristotle's *Politics* raised questions that political scientists still wrestle with: What causes revolutions? How do economic conditions affect political stability? What institutional arrangements best prevent corruption?
+Aristotle's *[Politics](/politics)* raised questions that political scientists still wrestle with: What causes revolutions? How do economic conditions affect political stability? What institutional arrangements best prevent corruption?
 
 ## Rome: Law, Republic, and Empire
 
 The Romans were better administrators than philosophers, but their contributions to political thinking were substantial.
 
-**Cicero** (106–43 BCE) adapted Greek political philosophy for Roman circumstances. He developed the concept of **natural law** — the idea that there are universal moral principles discoverable by reason, independent of any particular government's decrees. This concept survived the fall of Rome and eventually influenced the American Declaration of Independence's claim that certain rights are "self-evident."
+**Cicero** (106–43 BCE) adapted Greek [political philosophy](/political-philosophy) for Roman circumstances. He developed the concept of **natural law** — the idea that there are universal moral principles discoverable by reason, independent of any particular government's decrees. This concept survived the fall of Rome and eventually influenced the American Declaration of Independence's claim that certain rights are "self-evident."
 
 The Roman Republic's constitutional structure — with its separation of powers among consuls, the Senate, and popular assemblies — provided a model that later political thinkers studied intensely. **Polybius** (c. 200–118 BCE) analyzed Rome's "mixed constitution" as a balance of monarchical, aristocratic, and democratic elements, arguing that this balance explained Rome's success.
 
@@ -65,7 +65,7 @@ Medieval political thinking in Europe was dominated by one question: what is the
 
 **Augustine of Hippo** (354–430 CE) argued in *The City of God* that earthly political arrangements are inherently imperfect and secondary to the spiritual city of God. Government exists to restrain sin, not to achieve perfection. This was a pretty pessimistic view, and it shaped Christian political thought for a millennium.
 
-**Thomas Aquinas** (1225–1274) was more optimistic. Drawing on Aristotle (who had been reintroduced to Europe through [Islamic scholars](/the-history-of-philosophy)), Aquinas argued that government is natural and good — humans are social animals who need political community to flourish. He also developed the concept of **just war**, specifying conditions under which warfare is morally permissible.
+**Thomas Aquinas** (1225–1274) was more optimistic. [Drawing](/drawing) on Aristotle (who had been reintroduced to Europe through [Islamic scholars](/the-history-of-[philosophy](/philosophy))), Aquinas argued that government is natural and good — humans are social animals who need political community to flourish. He also developed the concept of **just war**, specifying conditions under which warfare is morally permissible.
 
 The **Investiture Controversy** (11th–12th centuries) — a showdown between popes and Holy Roman Emperors over who got to appoint bishops — forced the development of more sophisticated theories about the limits of authority. This was practical political theory driven by real institutional conflict.
 
@@ -75,7 +75,7 @@ In the Islamic world, **Al-Farabi** (c. 872–950) described the ideal city rule
 
 **Niccolo Machiavelli** (1469–1527) broke decisively from the tradition of imagining ideal states. He wanted to describe how politics *actually* works.
 
-*The Prince* (1513) is infamous for advising rulers that "it is better to be feared than loved." But the real significance isn't the cynicism — it's the method. Machiavelli analyzed power relationships empirically, drawing on historical examples rather than moral ideals. He separated the study of politics from ethics and [theology](/theology).
+*The Prince* (1513) is infamous for advising rulers that "it is better to be feared than loved." But the real significance isn't the cynicism — it's the method. Machiavelli analyzed power relationships empirically, drawing on historical examples rather than moral ideals. He separated the study of politics from [ethics](/ethics) and [theology](/theology).
 
 Was he a monster or a realist? Scholars have argued about this for 500 years. His *Discourses on Livy* show a genuine commitment to republican government. Some read *The Prince* as satire, others as straightforward advice, others as a job application to the Medici family. Whatever his intention, Machiavelli established that you could study politics without assuming rulers are virtuous.
 
@@ -83,7 +83,7 @@ Was he a monster or a realist? Scholars have argued about this for 500 years. Hi
 
 The 17th and 18th centuries produced the idea that government's legitimacy comes from the consent of the governed — the **social contract**.
 
-**Thomas Hobbes** (1588–1679), writing during the English Civil War, argued that without government, human life is "solitary, poor, nasty, brutish, and short." People agree to surrender their freedom to a sovereign in exchange for security. The sovereign's power should be essentially absolute — any alternative is worse than tyranny.
+**Thomas Hobbes** (1588–1679), [writing](/writing) during the English Civil War, argued that without government, human life is "solitary, poor, nasty, brutish, and short." People agree to surrender their freedom to a sovereign in exchange for security. The sovereign's power should be essentially absolute — any alternative is worse than tyranny.
 
 **John Locke** (1632–1704) took a much more optimistic view. People have natural rights to life, liberty, and property. Government exists to protect these rights, and if it fails, the people have the right to revolt. Locke's ideas showed up almost verbatim in the American Declaration of Independence.
 
@@ -105,7 +105,7 @@ The formal discipline of political science emerged in the late 1800s. **Francis 
 
 Political science in the 1900s went through several major phases.
 
-The **behavioral revolution** (1950s–1960s) pushed the discipline toward quantitative methods. Instead of analyzing constitutions and philosophical texts, political scientists started conducting surveys, running statistical analyses, and testing hypotheses about voter behavior, legislative bargaining, and international conflict. The idea was to make political science as rigorous as the natural sciences.
+The **behavioral revolution** (1950s–1960s) pushed the discipline toward quantitative methods. Instead of analyzing constitutions and philosophical texts, political scientists started conducting surveys, [running](/running) statistical analyses, and testing hypotheses about voter behavior, legislative bargaining, and international conflict. The idea was to make political science as rigorous as the natural sciences.
 
 The **rational choice** approach applied economic models to politics. Politicians are vote-maximizers. Bureaucrats are budget-maximizers. Voters calculate costs and benefits. This framework generated precise, testable predictions — though critics argued it was too simplistic about human motivation.
 

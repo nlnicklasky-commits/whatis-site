@@ -37,7 +37,7 @@ faq:
 
 # What Is Quantum Chemistry?
 
-Quantum chemistry is the branch of chemistry that applies quantum mechanics — the physics of the very small — to understand how atoms bond, how molecules behave, and why chemical reactions happen the way they do. It replaces the ball-and-stick models from your intro [chemistry](/chemistry) class with precise mathematical descriptions of where electrons actually are (or, more accurately, where they probably are).
+Quantum chemistry is the branch of chemistry that applies [quantum mechanics](/quantum-mechanics) — the physics of the very small — to understand how atoms bond, how molecules behave, and why chemical reactions happen the way they do. It replaces the ball-and-stick models from your intro [chemistry](/chemistry) class with precise mathematical descriptions of where electrons actually are (or, more accurately, where they probably are).
 
 ## Why Chemistry Needed Quantum Mechanics
 
@@ -65,7 +65,7 @@ So quantum chemists spend their careers developing clever approximations. And fr
 
 The first and most important simplification is the Born-Oppenheimer approximation, introduced in 1927. The idea is straightforward: protons and neutrons are roughly 1,836 times heavier than electrons. Because of this mass difference, nuclei move much more slowly than electrons. So you can separate the problem — fix the nuclei in place, solve for the electrons, then let the nuclei adjust.
 
-This sounds like a minor technical trick, but it's absolutely essential. Without it, you'd need to solve for the coupled motion of every electron and every nucleus simultaneously. With it, you solve a purely electronic problem at fixed nuclear positions, then map out how the energy changes as you move the nuclei around. That energy map is called a "potential energy surface," and it tells you everything about molecular geometry and reaction pathways.
+This sounds like a minor technical trick, but it's absolutely essential. Without it, you'd need to solve for the coupled motion of every electron and every nucleus simultaneously. With it, you solve a purely electronic problem at fixed nuclear positions, then map out how the energy changes as you move the nuclei around. That energy map is called a "potential energy surface," and it tells you everything about molecular [geometry](/geometry) and reaction pathways.
 
 The approximation works remarkably well for most [chemistry](/chemistry). It breaks down in special cases — certain photochemical reactions, for instance, where electronic and nuclear motions are strongly coupled. But for ground-state chemistry, it's the foundation everything else builds on.
 
@@ -115,7 +115,7 @@ Density Functional Theory (DFT) changed quantum chemistry more than any other de
 
 The Hohenberg-Kohn theorems (1964) proved that the ground-state electron density uniquely determines all molecular properties. Walter Kohn shared the 1998 Nobel Prize in Chemistry for this work. The Kohn-Sham formalism (1965) made DFT practical by introducing a set of orbital equations similar to Hartree-Fock but including an exchange-correlation functional that (in principle) captures all the electron correlation.
 
-The catch is that nobody knows the exact exchange-correlation functional. Hundreds of approximate functionals exist — B3LYP, PBE, omega-B97X-D, M06-2X — each with different strengths and weaknesses. Choosing the right functional for your problem is part art, part science, and part reading the literature to see what's worked before.
+The catch is that nobody knows the exact exchange-correlation functional. Hundreds of approximate functionals exist — B3LYP, PBE, omega-B97X-D, M06-2X — each with different strengths and weaknesses. Choosing the right functional for your problem is part art, part science, and part reading the [literature](/literature) to see what's worked before.
 
 DFT's computational cost scales as roughly N^3, compared to N^7 for CCSD(T). This means DFT can handle molecules with hundreds or even thousands of atoms. It's the method that made quantum chemistry relevant to real-world problems in [biochemistry](/biochemistry), materials science, and drug design.
 
@@ -145,7 +145,7 @@ Designing new materials — solar cell components, battery electrodes, supercond
 
 ### Catalysis
 
-Understanding how catalysts work — and designing better ones — is a natural application for quantum chemistry. Transition-state theory, developed using quantum chemical methods, predicts reaction rates and mechanisms. Industrial catalysis, worth hundreds of billions of dollars annually, depends on these insights for process optimization and the development of new [materials-science](/materials-science) applications.
+Understanding how catalysts work — and designing better ones — is a natural application for quantum chemistry. Transition-state theory, developed using quantum chemical methods, predicts reaction rates and mechanisms. Industrial catalysis, worth hundreds of billions of dollars annually, depends on these insights for process [optimization](/optimization) and the development of new [materials-science](/materials-science) applications.
 
 ### Atmospheric and Environmental Chemistry
 
@@ -171,13 +171,13 @@ Modern approaches tackle this by exploiting the locality of electronic interacti
 
 The most exciting recent development is the application of [machine-learning](/machine-learning) to quantum chemistry. Neural network potentials trained on quantum chemistry data can predict molecular energies and forces thousands of times faster than direct quantum calculations. The ANI, SchNet, and PhysNet models, among others, are achieving DFT-level accuracy at a fraction of the computational cost.
 
-Google DeepMind's FermiNet and PauliNet use neural networks to directly represent the electronic wavefunction, potentially offering a new path to accurate quantum chemistry that bypasses traditional approximation hierarchies entirely.
+Google DeepMind's FermiNet and PauliNet use [neural networks](/neural-networks) to directly represent the electronic wavefunction, potentially offering a new path to accurate quantum chemistry that bypasses traditional approximation hierarchies entirely.
 
 ### Quantum Computing for Quantum Chemistry
 
 There's a certain elegance to using quantum computers for quantum chemistry — simulating quantum systems on quantum hardware. [Algorithms](/algorithms) like the Variational Quantum Eigensolver (VQE) and Quantum Phase Estimation could, in principle, solve the electronic structure problem efficiently on a quantum computer.
 
-As of 2025, quantum computers remain too noisy and too small for practical quantum chemistry beyond very simple systems. But the field is progressing rapidly, and quantum chemistry is widely considered one of the most promising near-term applications of quantum computing.
+As of 2025, quantum computers remain too noisy and too small for practical quantum chemistry beyond very simple systems. But the field is progressing rapidly, and quantum chemistry is widely considered one of the most promising near-term applications of [quantum computing](/quantum-computing).
 
 ## The People Behind the Science
 
@@ -187,7 +187,7 @@ Quantum chemistry has an unusually rich Nobel Prize history. Key laureates inclu
 - **Robert Mulliken** (Chemistry, 1966): Molecular orbital theory
 - **Roald Hoffmann and Kenichi Fukui** (Chemistry, 1981): Orbital symmetry in reactions
 - **John Pople and Walter Kohn** (Chemistry, 1998): Computational quantum chemistry and DFT
-- **Martin Karplus, Michael Levitt, and Arieh Warshel** (Chemistry, 2013): Multiscale models combining quantum and classical mechanics
+- **Martin Karplus, Michael Levitt, and Arieh Warshel** (Chemistry, 2013): Multiscale models combining quantum and [classical mechanics](/classical-mechanics)
 
 The 1998 Nobel Prize to Pople and Kohn effectively recognized quantum chemistry as a mature, practical science. Their methods are now used by tens of thousands of researchers worldwide, and quantum chemistry calculations appear in the majority of chemistry research papers published today.
 
@@ -207,7 +207,7 @@ Real chemistry happens in solution, at surfaces, in biological environments — 
 
 ## How to Get Started
 
-If quantum chemistry interests you, the typical path runs through undergraduate [mathematics](/mathematics) (especially [linear-algebra](/linear-algebra) and [differential-equations](/differential-equations)), physical chemistry, and then graduate-level quantum chemistry courses. Textbook staples include Szabo and Ostlund's "Modern Quantum Chemistry" and Levine's "Quantum Chemistry."
+If quantum chemistry interests you, the typical path runs through undergraduate [mathematics](/mathematics) (especially [linear-algebra](/linear-algebra) and [differential-equations](/differential-equations)), [physical chemistry](/physical-chemistry), and then graduate-level quantum chemistry courses. Textbook staples include Szabo and Ostlund's "Modern Quantum Chemistry" and Levine's "Quantum Chemistry."
 
 For hands-on experience, free software like Psi4 and ORCA lets you run real quantum chemistry calculations on a laptop. Starting with small molecules — H2, water, methane — and building up gives you intuition for how different methods and basis sets behave.
 

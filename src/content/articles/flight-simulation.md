@@ -47,13 +47,13 @@ But getting there? That's where things get genuinely interesting.
 
 ### The Physics Engine
 
-Every flight simulator starts with aerodynamics. The software must calculate lift, drag, thrust, and weight — the four fundamental forces of flight — hundreds of times per second. Modern simulators use one of two approaches.
+Every flight simulator starts with [aerodynamics](/aerodynamics). The software must calculate lift, drag, thrust, and weight — the four fundamental forces of flight — hundreds of times per second. Modern simulators use one of two approaches.
 
 **Lookup table models** store pre-calculated aerodynamic data for specific aircraft configurations. When you pull back on the yoke, the simulator looks up how that control input changes the aircraft's pitch coefficient at the current speed, altitude, and configuration. This approach is fast and accurate for known flight conditions. It's how most Level D professional simulators work — the data comes directly from wind tunnel testing and flight test programs.
 
 **Blade element theory** calculates aerodynamic forces from first principles, dividing each wing into small sections and computing lift and drag individually. X-Plane, one of the most popular civilian simulators, uses this approach. It's computationally heavier but can model unusual flight conditions — like what happens when you fly an aircraft that's never actually been built. This makes it especially useful for [aerospace engineering](/aerospace-engineering) applications.
 
-The physics engine also handles ground dynamics (what happens when the wheels touch the runway), engine models (how fuel flow translates to thrust at different altitudes and temperatures), and atmospheric modeling (wind, turbulence, temperature inversions, icing conditions).
+The [physics](/physics) engine also handles ground dynamics (what happens when the wheels touch the runway), engine models (how fuel flow translates to thrust at different altitudes and temperatures), and atmospheric modeling (wind, turbulence, temperature inversions, icing conditions).
 
 ### Visual Systems
 
@@ -113,7 +113,7 @@ The training syllabus in a professional simulator follows a carefully designed p
 
 ### Phase One: Systems and Normal Operations
 
-Pilots first learn the aircraft's systems — hydraulics, electrical, pneumatics, fuel, flight controls. They practice normal procedures: engine starts, taxi, takeoff, climb, cruise, descent, approach, and landing. They do this repeatedly until the procedures become automatic.
+Pilots first learn the aircraft's systems — [hydraulics](/hydraulics), electrical, [pneumatics](/pneumatics), fuel, flight controls. They practice normal procedures: engine starts, taxi, takeoff, climb, cruise, descent, approach, and landing. They do this repeatedly until the procedures become automatic.
 
 This phase also covers standard instrument approaches. Pilots fly ILS approaches (using radio beams to guide them to the runway), VOR approaches, GPS approaches, and visual approaches — all in varying weather conditions. The emphasis is on precision: hitting target airspeeds within 5 knots, maintaining glideslope within one dot, touching down in the correct zone.
 
@@ -139,7 +139,7 @@ A flight simulator's computers must update the physics model, render the visual 
 
 Professional simulators use dedicated real-time computing hardware with deterministic processing — meaning the computer guarantees it will complete its calculations within a fixed time window. This is fundamentally different from a desktop PC, where the operating system might pause your simulation to handle a background task.
 
-Modern consumer hardware has closed much of this gap. High-end gaming PCs with fast GPUs can run detailed flight simulations at frame rates that would have seemed impossible a decade ago. But the deterministic guarantee — knowing the frame will always complete on time — remains a professional-system advantage.
+Modern consumer hardware has closed much of this gap. High-end [gaming](/gaming) PCs with fast GPUs can run detailed flight simulations at frame rates that would have seemed impossible a decade ago. But the deterministic guarantee — knowing the frame will always complete on time — remains a professional-system advantage.
 
 ### Image Generation
 
@@ -167,7 +167,7 @@ Before a new aircraft ever flies, it's flown thousands of hours in simulation. E
 
 NASA's simulation facilities have been instrumental in developing flight control laws for aircraft from the Space Shuttle to the latest commercial jets. Their Vertical Motion Simulator at Ames Research Center has the largest vertical travel of any simulator in the world — 60 feet — allowing it to replicate the sensations of helicopter autorotations and spacecraft landings.
 
-Boeing and Airbus both use engineering simulators extensively during aircraft development. Pilots evaluate proposed cockpit layouts, display designs, and automation logic years before the first prototype is built. Problems identified in simulation are far cheaper to fix than problems found in flight test.
+Boeing and Airbus both use [engineering](/engineering) simulators extensively during aircraft development. Pilots evaluate proposed cockpit layouts, display designs, and automation [logic](/logic) years before the first prototype is built. Problems identified in simulation are far cheaper to fix than problems found in flight test.
 
 ### Accident Investigation
 
@@ -187,7 +187,7 @@ The home flight simulation community is enormous — and surprisingly serious.
 
 ### The Major Platforms
 
-**Microsoft Flight Simulator** has been around since 1982, making it one of the longest-running software franchises in history. The 2020 edition (and its 2024 update) uses Azure [cloud computing](/cloud-computing) to stream photorealistic scenery, real-time weather data from actual weather stations, and live air traffic data. The visual quality shocked even professional simulator developers.
+**Microsoft Flight Simulator** has been around since 1982, making it one of the longest-[running](/running) software franchises in history. The 2020 edition (and its 2024 update) uses Azure [cloud computing](/cloud-computing) to stream photorealistic scenery, real-time weather data from actual weather stations, and live air traffic data. The visual quality shocked even professional simulator developers.
 
 **X-Plane** takes a different approach, using blade element theory to model aerodynamics from first principles. This makes it popular with engineers and experimenters because you can design a completely fictional aircraft and get plausible flight characteristics. The FAA has certified X-Plane-based systems as Aviation Training Devices.
 
@@ -205,9 +205,9 @@ Companies like Honeycomb Aeronautical and Thrustmaster make consumer flight cont
 
 Networks like VATSIM (Virtual Air Traffic Simulation Network) and IVAO connect flight simulator users with live human air traffic controllers. Pilots file flight plans, communicate by voice, follow published procedures, and fly in shared airspace with hundreds of other users.
 
-Virtual airlines replicate the scheduling and operations of real airlines. Pilots bid for routes, complete flights, track their hours, and advance through a rank structure. Some virtual airlines have thousands of active pilots.
+Virtual airlines replicate the [scheduling](/scheduling) and operations of real airlines. Pilots bid for routes, complete flights, track their hours, and advance through a rank structure. Some virtual airlines have thousands of active pilots.
 
-This community has produced real-world pilots. Many flight training students credit home simulation with giving them a significant head start — particularly in instrument flying, navigation, and procedural knowledge.
+This community has produced real-world pilots. Many flight training students credit home simulation with giving them a significant head start — particularly in instrument flying, [navigation](/navigation), and procedural knowledge.
 
 ## The Role of VR and AR
 
@@ -223,7 +223,7 @@ Augmented reality has potential applications too. Imagine maintenance training w
 
 ## Military Flight Simulation
 
-The military was arguably the first serious user of flight simulation. The Link Trainer, developed in the late 1920s by Edwin Link, was a mechanical device that used pneumatic bellows to replicate the motion of flight. The U.S. military adopted it extensively during World War II, training over 500,000 pilots. It's estimated that the Link Trainer saved the U.S. military roughly $3 billion in training costs during the war — and countless lives.
+The military was arguably the first serious user of flight simulation. The Link Trainer, developed in the late 1920s by Edwin Link, was a mechanical device that used pneumatic bellows to replicate the motion of flight. The U.S. military adopted it extensively during [World War II](/world-war-ii), training over 500,000 pilots. It's estimated that the Link Trainer saved the U.S. military roughly $3 billion in training costs during the war — and countless lives.
 
 Modern military simulators are classified and staggeringly capable. They model radar, electronic warfare, weapons systems, threat environments, and multi-aircraft coordination. A single F-35 full-mission simulator costs around $25 million and includes detailed modeling of the aircraft's sensor fusion capabilities.
 

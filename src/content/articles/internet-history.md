@@ -37,7 +37,7 @@ faq:
 
 Internet history is the story of how a small experimental network connecting four university computers in 1969 grew into the global communication system that connects over 5 billion people, carries the majority of the world's commerce, and has reshaped virtually every aspect of modern life.
 
-It's a story with no single inventor, no single moment of creation, and no single country of origin — though the United States played a disproportionate role. It involves Cold War paranoia, academic idealism, engineering brilliance, commercial greed, and an extraordinary amount of luck. The internet as it exists today is not what anyone planned. It's what happened when smart people built tools and billions of other people figured out what to do with them.
+It's a story with no single inventor, no single moment of creation, and no single country of origin — though the United States played a disproportionate role. It involves Cold War paranoia, academic idealism, [engineering](/engineering) brilliance, commercial greed, and an extraordinary amount of luck. The internet as it exists today is not what anyone planned. It's what happened when smart people built tools and billions of other people figured out what to do with them.
 
 ## Before the Internet: The Ideas That Made It Possible
 
@@ -65,7 +65,7 @@ In 1962, Licklider became the first director of the Information Processing Techn
 
 On October 29, 1969, a computer at UCLA sent the first message to a computer at Stanford Research Institute over ARPANET. The message was supposed to be "LOGIN." The system crashed after "LO." So the first internet message was "LO" — as in "Lo and behold."
 
-By December 1969, four nodes were connected: UCLA, Stanford Research Institute, UC Santa Barbara, and the University of Utah. The network used Interface Message Processors (IMPs) — specialized computers made by Bolt Beranek and Newman (BBN) that handled the networking, letting host computers focus on computing.
+By December 1969, four nodes were connected: UCLA, Stanford Research Institute, UC Santa Barbara, and the University of Utah. The network used Interface Message Processors (IMPs) — specialized computers made by Bolt Beranek and Newman (BBN) that handled the [networking](/networking), letting host computers focus on computing.
 
 ### Growth and Innovation
 
@@ -73,7 +73,7 @@ ARPANET grew steadily through the 1970s. By 1971, it had 15 nodes. By 1973, 30 n
 
 **Email** — In 1971, Ray Tomlinson sent the first networked email, choosing the @ symbol to separate user names from computer names. Email quickly became ARPANET's most popular application — by 1973, it accounted for 75% of all ARPANET traffic. The internet's "killer app" was, from the very beginning, people sending messages to each other.
 
-**Mailing lists** — The first mailing list, SF-LOVERS (for [science fiction](/science-fiction) fans), appeared in 1975. DARPA tried to shut it down as a waste of government resources. After debate, it was allowed to continue. The precedent that networks would be used for social communication as well as official business was established early.
+**Mailing lists** — The first mailing list, SF-LOVERS (for [science fiction](/science-fiction) fans), appeared in 1975. DARPA tried to shut it down as a waste of [government](/government) resources. After [debate](/debate), it was allowed to continue. The precedent that networks would be used for social communication as well as official business was established early.
 
 **FTP** — The File Transfer Protocol (1971) allowed users to transfer files between computers. This seems trivially obvious now, but at the time, every computer system stored files differently. Standardizing file transfer was a major achievement.
 
@@ -91,7 +91,7 @@ On January 1, 1983 — "flag day" — ARPANET switched from NCP to TCP/IP. Every
 
 The National Science Foundation (NSF) built NSFNet in 1986 to connect university researchers to supercomputing centers. Its backbone ran at 56 Kbps initially — roughly the speed of a single analog modem. By 1988, it was upgraded to 1.5 Mbps (T1). By 1991, 45 Mbps (T3).
 
-NSFNet's acceptable use policy initially prohibited commercial traffic — the network was for research and education only. This restriction would be lifted in 1991, a decision that changed everything.
+NSFNet's acceptable use policy initially prohibited commercial traffic — the network was for research and [education](/education) only. This restriction would be lifted in 1991, a decision that changed everything.
 
 ### Other Networks
 
@@ -111,7 +111,7 @@ The internet existed before the web. But the web is what made the internet matte
 
 ### Tim Berners-Lee's Proposal
 
-In March 1989, Tim Berners-Lee — a British physicist working at CERN in Switzerland — submitted a proposal titled "Information Management: A Proposal." His boss's response, written on the cover page: "Vague but exciting."
+In March 1989, Tim Berners-Lee — a British physicist working at CERN in Switzerland — submitted a proposal titled "Information [Management](/management): A Proposal." His boss's response, written on the cover page: "Vague but exciting."
 
 Berners-Lee wanted to solve a specific problem: researchers at CERN couldn't easily share documents and data. Information was scattered across different computers, in different formats, with no linking between related documents.
 
@@ -121,7 +121,7 @@ His solution combined three ideas:
 2. **HTTP** (Hypertext Transfer Protocol) — a protocol for requesting and transmitting documents between computers
 3. **URLs** (Uniform Resource Locators) — addresses that uniquely identify any document on the web
 
-By Christmas 1990, Berners-Lee had built the first web server, the first web browser (called WorldWideWeb), and the first web page — running on a NeXT computer at CERN.
+By Christmas 1990, Berners-Lee had built the first web server, the first web browser (called WorldWideWeb), and the first web page — [running](/running) on a NeXT computer at CERN.
 
 ### Going Public
 
@@ -133,7 +133,7 @@ Andreessen left NCSA and co-founded Netscape Communications in 1994. Netscape Na
 
 ### Early Web Culture
 
-The early web (1993-1997) had a distinct culture. Personal home pages with "under construction" GIF [animations](/electronics). Guestbooks. Web rings — groups of related sites linked in a circle. GeoCities, which let anyone create a free webpage in themed "neighborhoods." Alta Vista, Yahoo, and Lycos as search engines (Google wouldn't launch until 1998).
+The early web (1993-1997) had a distinct culture. Personal home pages with "under [construction](/construction)" GIF [animations](/electronics). Guestbooks. Web rings — groups of related sites linked in a circle. GeoCities, which let anyone create a free webpage in themed "neighborhoods." Alta Vista, Yahoo, and Lycos as search engines (Google wouldn't launch until 1998).
 
 The web was chaotic, ugly, slow (loading a single image over a 14.4 Kbps modem could take minutes), and absolutely magical to people experiencing it for the first time. The feeling of typing a URL and seeing a page from a computer in another country appear on your screen — that sense of wonder was real, even if the page took 45 seconds to load.
 
@@ -171,11 +171,11 @@ Apple's iPhone launched in June 2007. Within a few years, smartphones had replac
 
 The [app development](/app-development) ecosystem that emerged around smartphones — Apple's App Store (2008), Google Play — created entirely new categories of internet services: ride-sharing (Uber, 2009), mobile payments, location-based services, and mobile messaging (WhatsApp, 2009).
 
-In developing countries, smartphones leapfrogged desktop computers entirely. Billions of people in Africa, South Asia, and Southeast Asia accessed the internet for the first time on a mobile device, often before they had reliable electricity or running water.
+In developing countries, smartphones leapfrogged desktop computers entirely. Billions of people in Africa, South Asia, and Southeast Asia accessed the internet for the first time on a mobile device, often before they had reliable [electricity](/electricity) or running water.
 
 ### User-Generated Content
 
-Wikipedia (2001) demonstrated that volunteer contributors could create an encyclopedia rivaling Britannica. Blogs democratized publishing — anyone with an internet connection could reach a global audience. Reddit (2005) organized communities around every conceivable interest.
+Wikipedia (2001) demonstrated that volunteer contributors could create an encyclopedia rivaling Britannica. Blogs democratized [publishing](/publishing) — anyone with an internet connection could reach a global audience. Reddit (2005) organized communities around every conceivable interest.
 
 This democratization had a dark side that became increasingly apparent: misinformation, conspiracy theories, harassment, and radicalization spread as easily as useful information. The same tools that enabled Arab Spring protests also enabled coordinated disinformation campaigns.
 
@@ -199,7 +199,7 @@ The emergence of large language models (ChatGPT, 2022) and generative AI represe
 
 ### The Infrastructure Beneath
 
-The physical internet is an engineering marvel. Over 550 submarine cables (totaling over 1.4 million kilometers) carry 99% of intercontinental data traffic. These [fiber optic](/fiber-optics) cables rest on the ocean floor, sometimes at depths of over 8,000 meters.
+The physical internet is an engineering marvel. Over 550 submarine cables (totaling over 1.4 million kilometers) carry 99% of intercontinental data traffic. These [fiber optic](/fiber-[optics](/optics)) cables rest on the ocean floor, sometimes at depths of over 8,000 meters.
 
 Data centers consume roughly 1-2% of global electricity. The largest — operated by hyperscalers like Amazon, Google, Microsoft, and Meta — are massive facilities with thousands of servers, advanced cooling systems, and dedicated power supplies.
 
@@ -209,7 +209,7 @@ Internet exchange points (IXPs) are physical locations where internet service pr
 
 A brief, incomplete inventory of what the internet transformed:
 
-**Commerce**: E-commerce was $5.8 trillion globally in 2023. Amazon alone generated $575 billion in revenue. The entire retail industry has been restructured around online sales and delivery.
+**Commerce**: E-commerce was $5.8 trillion globally in 2023. Amazon alone generated $575 billion in revenue. The entire retail industry has been restructured around online [sales](/sales) and delivery.
 
 **Communication**: 4.6 billion email accounts exist. WhatsApp handles over 100 billion messages per day. The cost of long-distance communication dropped to effectively zero.
 
@@ -217,7 +217,7 @@ A brief, incomplete inventory of what the internet transformed:
 
 **Work**: Remote work, enabled by internet tools (Zoom, Slack, Google Docs), went from fringe to mainstream during COVID-19. An estimated 28% of work days in the US are now remote.
 
-**Politics**: Campaigns are won and lost on social media. Misinformation spreads at the speed of shares. Government surveillance capabilities expanded enormously. Digital authoritarianism — using internet technology for censorship and control — is growing in dozens of countries.
+**[Politics](/politics)**: Campaigns are won and lost on social media. Misinformation spreads at the speed of shares. Government surveillance capabilities expanded enormously. Digital authoritarianism — using internet technology for censorship and control — is growing in dozens of countries.
 
 **Knowledge**: The sum of human knowledge is accessible from a device in your pocket. This is genuinely unprecedented in human history. Whether we're using that access wisely is an open question.
 

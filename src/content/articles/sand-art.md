@@ -37,7 +37,7 @@ Sand art is any creative work that uses sand as its primary medium — from the 
 
 This is what most people picture when they hear "sand art." Professional sand sculpting has come a remarkably long way from childhood sandcastles.
 
-Modern competitive sand sculpting produces works that look physically impossible. Sculptors create figures, buildings, and scenes that tower 15-20 feet high with details so fine they resemble [stone carving](/stone-carving). The Harrison Hot Springs sand sculpting championship in Canada, the Texas SandFest, and the International Sand [Sculpture](/sculpture) Festival in Portugal draw artists from around the world.
+Modern competitive sand sculpting produces works that look physically impossible. Sculptors create figures, buildings, and scenes that tower 15-20 feet high with details so fine they resemble [stone carving](/stone-carving). The Harrison Hot [Springs](/springs) sand sculpting championship in Canada, the Texas SandFest, and the International Sand [Sculpture](/sculpture) Festival in Portugal draw artists from around the world.
 
 The technique is counterintuitive. You don't build up like you would with clay — you pack sand tightly into a block and then carve down, like a stone sculptor. Professional sculptors use plywood forms to create compacted blocks of sand, tamping layers wet and heavy until they're nearly solid. Then they remove the forms and carve from top to bottom, using tools ranging from kitchen spatulas to dental picks.
 

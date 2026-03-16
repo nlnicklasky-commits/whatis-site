@@ -31,7 +31,7 @@ faq:
 
 # What Is Trail Running?
 
-Trail running is the sport of running on unpaved paths — forest trails, mountain tracks, desert washes, coastal paths, and any other natural terrain that doesn't involve asphalt or concrete. It's running with roots, rocks, mud, elevation changes, and views that make you stop (or at least slow down) and stare.
+Trail [running](/running) is the sport of running on unpaved paths — forest trails, mountain tracks, desert washes, coastal paths, and any other natural terrain that doesn't involve asphalt or concrete. It's running with roots, rocks, mud, elevation changes, and views that make you stop (or at least slow down) and stare.
 
 The sport has exploded in popularity over the past two decades. What was once a niche activity for ultramarathon enthusiasts has become one of the fastest-growing segments of the running world, driven by people who got bored with road running, fell in love with the outdoors, or simply wanted to run somewhere beautiful.
 
@@ -49,7 +49,7 @@ And then there's the mental component. Trail running demands attention. You can'
 
 **Hydration** — Trails rarely have water fountains. Running vests or hydration packs with water reservoirs and space for [nutrition](/nutrition), emergency supplies, and extra layers are standard for anything beyond a short outing.
 
-**Nutrition** — Longer trail runs require calorie intake during the effort. Gels, chews, bars, and real food (sandwiches, potatoes, candy) are all used. [Ultramarathon](/exercise-physiology)) runners consume thousands of calories during races.
+**Nutrition** — Longer trail runs require calorie intake during the effort. Gels, chews, bars, and real food (sandwiches, potatoes, candy) are all used. [Ultramarathon](/exercise-[physiology](/physiology))) runners consume thousands of calories during races.
 
 **[Navigation](/navigation)** — GPS watches, phone apps (like AllTrails or Gaia GPS), and occasionally old-fashioned maps and compasses. Getting lost on trails is a real possibility.
 

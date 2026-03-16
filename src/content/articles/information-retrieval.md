@@ -35,7 +35,7 @@ faq:
 
 # What Is Information Retrieval?
 
-Information retrieval (IR) is the science and practice of finding material — usually text documents — that satisfies an information need from within a large collection of unstructured or semi-structured data. When you type a query into Google, search your email for a message from last week, or ask a voice assistant a question, you're using an information retrieval system. The field combines [computer science](/computer-science), linguistics, statistics, and cognitive science to solve one of computing's oldest and most important problems: how do you find the right information when there's too much to look through manually?
+Information retrieval (IR) is the science and practice of finding material — usually text documents — that satisfies an information need from within a large collection of unstructured or semi-structured data. When you type a query into Google, search your email for a message from last week, or ask a voice assistant a question, you're using an information retrieval system. The field combines [computer science](/computer-science), [linguistics](/linguistics), [statistics](/statistics), and cognitive science to solve one of computing's oldest and most important problems: how do you find the right information when there's too much to look through manually?
 
 ## The Needle and the Haystack
 
@@ -65,9 +65,9 @@ Before any searching happens, the system must process and index its document col
 
 *Stop word removal* eliminates extremely common words ("the," "is," "at," "which") that appear in nearly every document and carry little discriminating value. Though modern systems are more cautious about this — removing "the" from a search for "The Who" would be a problem.
 
-*Stemming and lemmatization* reduce words to their root forms. "Running," "runs," "ran" all map to "run." Stemming uses rule-based chopping (Porter's algorithm just strips suffixes). Lemmatization uses linguistic knowledge to find actual root words. Both improve matching by connecting different forms of the same concept.
+*Stemming and lemmatization* reduce words to their root forms. "[Running](/running)," "runs," "ran" all map to "run." Stemming uses rule-based chopping (Porter's algorithm just strips suffixes). Lemmatization uses linguistic knowledge to find actual root words. Both improve matching by connecting different forms of the same concept.
 
-**Inverted index construction**: This is the key data structure in IR. Instead of listing which words appear in each document (a forward index), an inverted index lists which documents contain each word. It's like a book index — instead of flipping through every page looking for "photosynthesis," you look up "photosynthesis" in the index and get directed to pages 47, 112, and 305.
+**Inverted index [construction](/construction)**: This is the key data structure in IR. Instead of listing which words appear in each document (a forward index), an inverted index lists which documents contain each word. It's like a book index — instead of flipping through every page looking for "photosynthesis," you look up "photosynthesis" in the index and get directed to pages 47, 112, and 305.
 
 A real inverted index also stores positional information (where in the document the word appears), term frequency (how many times it appears), and document metadata. These details power the ranking algorithms that determine result order.
 
@@ -87,9 +87,9 @@ Matching identifies which documents contain the query terms. Ranking determines 
 
 ### The Boolean Model
 
-The earliest IR systems used Boolean logic. A query like "climate AND change AND policy NOT regulation" returns all documents satisfying the logical expression exactly. You either get a document or you don't — there's no ranking.
+The earliest IR systems used Boolean [logic](/logic). A query like "climate AND change AND policy NOT regulation" returns all documents satisfying the logical expression exactly. You either get a document or you don't — there's no ranking.
 
-The Boolean model is precise but crude. It returns documents in no particular order. A document mentioning "climate change policy" once is treated the same as one dedicated entirely to the topic. Users can't express "I want documents about X, but I'd also like them to cover Y" — Boolean logic doesn't handle degrees of relevance.
+The Boolean model is precise but crude. It returns documents in no particular order. A document mentioning "[climate change](/climate-change) policy" once is treated the same as one dedicated entirely to the topic. Users can't express "I want documents about X, but I'd also like them to cover Y" — Boolean logic doesn't handle degrees of relevance.
 
 Legal databases like LexisNexis and scientific databases like PubMed still support Boolean search because precision matters more than ease of use in those contexts. But for general-purpose search, Boolean retrieval was replaced decades ago.
 
@@ -97,7 +97,7 @@ Legal databases like LexisNexis and scientific databases like PubMed still suppo
 
 The breakthrough that made modern search possible. TF-IDF scores each term-document pair based on two factors:
 
-**Term frequency (TF)**: How often the term appears in this specific document. If "quantum" appears 15 times in a document about physics, that document is probably more relevant to a query about [quantum mechanics](/quantum-mechanics) than a document mentioning "quantum" once.
+**Term frequency (TF)**: How often the term appears in this specific document. If "quantum" appears 15 times in a document about [physics](/physics), that document is probably more relevant to a query about [quantum mechanics](/quantum-mechanics) than a document mentioning "quantum" once.
 
 **Inverse document frequency (IDF)**: How rare the term is across the entire collection. A word that appears in almost every document ("the," "and," "is") has low IDF — it doesn't help distinguish relevant documents from irrelevant ones. A word that appears in only 50 out of a million documents ("neutrino") has high IDF — its presence strongly signals relevance to queries about that topic.
 
@@ -123,7 +123,7 @@ Google's transition from purely algorithmic ranking to ML-based ranking — begi
 
 The latest frontier. Dense retrieval models encode both queries and documents as dense vectors in a high-dimensional space, using [neural networks](/neural-networks) trained on massive amounts of text. Relevance is computed as vector similarity — documents whose vector representations are close to the query's vector are considered relevant.
 
-This approach understands meaning rather than just matching words. A query about "treating high blood pressure" can match documents about "hypertension management" even if neither set of words appears in the other — because the neural network has learned that these concepts are semantically equivalent.
+This approach understands meaning rather than just matching words. A query about "treating high blood pressure" can match documents about "hypertension [management](/management)" even if neither set of words appears in the other — because the neural network has learned that these concepts are semantically equivalent.
 
 Dense retrieval works well for semantic understanding but struggles with rare terms and specific entities. Hybrid approaches combining traditional keyword matching (BM25) with neural semantic understanding currently produce the best results.
 
@@ -137,7 +137,7 @@ IR systems are evaluated rigorously using established metrics and test collectio
 
 **Recall**: Of all relevant documents in the collection, what fraction did the system find? If 100 relevant documents exist and the system returned 7 of them, recall is 0.07 (7%).
 
-Precision and recall trade off against each other. You can achieve 100% recall by returning every document in the collection — but precision drops to near zero. You can achieve near-100% precision by returning only the single most obviously relevant document — but recall drops to near zero.
+Precision and recall [trade](/trade) off against each other. You can achieve 100% recall by returning every document in the collection — but precision drops to near zero. You can achieve near-100% precision by returning only the single most obviously relevant document — but recall drops to near zero.
 
 ### Mean Average Precision (MAP)
 

@@ -69,7 +69,7 @@ Modern Olympic [fencing](/sports-history) uses three weapons:
 - **Epee** — A heavier thrusting weapon. The entire body is a valid target. No right-of-way — whoever hits first scores.
 - **Sabre** — A cutting and thrusting weapon. Valid target is everything above the waist. Fast, aggressive, and explosive.
 
-Fencing has been in every modern Olympics since 1896. Electronic scoring, introduced in the 1930s-1950s, made judging more objective but also changed tactical dynamics.
+[Fencing](/fencing) has been in every modern Olympics since 1896. Electronic scoring, introduced in the 1930s-1950s, made judging more objective but also changed tactical dynamics.
 
 ## The HEMA Revival
 

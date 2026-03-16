@@ -40,7 +40,7 @@ They're also some of the most iconic structures humans have ever built. There's 
 
 ## Ancient Origins: Fire on the Shore
 
-The idea of lighting fires to guide sailors is ancient — probably as old as maritime trade itself. Phoenician merchants, who dominated Mediterranean commerce around 1200 BCE, likely used hilltop fires to mark harbors and coastlines. But the distinction between a bonfire on a hill and a purpose-built lighthouse is important.
+The idea of lighting fires to guide sailors is ancient — probably as old as maritime [trade](/trade) itself. Phoenician merchants, who dominated Mediterranean commerce around 1200 BCE, likely used hilltop fires to mark harbors and coastlines. But the distinction between a bonfire on a hill and a purpose-built lighthouse is important.
 
 The Pharos of Alexandria, constructed around 280 BCE during the reign of Ptolemy II, was the ancient world's most famous lighthouse — and one of the Seven Wonders. Built on the island of Pharos at the entrance to Alexandria's harbor, it stood somewhere between 330 and 450 feet tall (accounts vary). A fire burned at its summit, reportedly amplified by a large bronze mirror that reflected the light far out to sea.
 
@@ -64,11 +64,11 @@ The Eddystone Lighthouse, built on a treacherous reef 14 miles off Plymouth, Eng
 
 Building lighthouses on exposed ocean rocks was extraordinarily dangerous. The Bell Rock Lighthouse, completed in 1811 off the coast of Scotland, required workers to labor on a reef submerged at high tide. Robert Stevenson (grandfather of author Robert Louis Stevenson) spent four years building it, with workers often standing in water while they laid stone. It's still operating over 200 years later.
 
-In America, Congress established the Lighthouse Service in 1789 — one of the first acts of the new government. George Washington personally signed commissions for the first lighthouse keepers. By the Civil War, the United States had over 300 lighthouses along its coasts, guiding everything from fishing boats to clipper ships to naval vessels. The history of American lighthouse construction parallels the nation's expansion, with towers appearing on the Great Lakes, the Gulf Coast, and eventually the Pacific shore.
+In America, Congress established the Lighthouse Service in 1789 — one of the first acts of the new government. George Washington personally signed commissions for the first lighthouse keepers. By the Civil War, the United States had over 300 lighthouses along its coasts, guiding everything from [fishing](/fishing) boats to clipper ships to naval vessels. The history of American lighthouse construction parallels the nation's expansion, with towers appearing on the Great Lakes, the Gulf Coast, and eventually the Pacific shore.
 
 ## The Fresnel Revolution
 
-No single invention changed lighthouses more than the Fresnel lens, developed by French physicist Augustin-Jean Fresnel in 1822.
+No single [invention](/invention) changed lighthouses more than the Fresnel lens, developed by French physicist Augustin-Jean Fresnel in 1822.
 
 Before Fresnel, lighthouses used parabolic mirrors to reflect light — an approach that wasted most of the light energy. Fresnel's lens used concentric rings of glass prisms to capture light radiating in all directions and bend it into a single, powerful beam. The result was dramatic: the same amount of oil could produce a beam visible over 20 miles.
 
@@ -116,7 +116,7 @@ Several reasons. GPS can fail — and when it does, visual aids become critical.
 
 Decommissioned lighthouses have found new lives as museums, bed-and-breakfasts, private homes, and tourist attractions. The National Historic Lighthouse Preservation Act (2000) in the United States transferred many federal lighthouses to local organizations, municipalities, and nonprofits dedicated to their preservation.
 
-Lighthouse tourism is substantial. The Cape Hatteras Lighthouse on North Carolina's Outer Banks draws hundreds of thousands of visitors annually. Maine markets itself largely on its lighthouse heritage. Similar tourism exists in Britain, France, Scandinavia, and Australia.
+Lighthouse [tourism](/tourism) is substantial. The Cape Hatteras Lighthouse on North Carolina's Outer Banks draws hundreds of thousands of visitors annually. Maine markets itself largely on its lighthouse heritage. Similar tourism exists in Britain, France, Scandinavia, and Australia.
 
 The cultural significance runs deep. Lighthouses appear in [literature](/literature) — Virginia Woolf's *To the Lighthouse*, Edgar Allan Poe's "The Light-House." They're fixtures in visual art, photography, and film. They symbolize guidance, safety, solitude, and perseverance — meanings that transcend their practical function.
 

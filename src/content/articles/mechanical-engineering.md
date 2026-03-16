@@ -35,7 +35,7 @@ faq:
 
 # What Is Mechanical Engineering?
 
-Mechanical engineering is the branch of engineering that deals with the design, analysis, manufacturing, and maintenance of mechanical systems. It applies principles of physics, materials science, and mathematics to create everything from tiny medical devices to massive power plants.
+Mechanical [engineering](/engineering) is the branch of engineering that deals with the design, analysis, manufacturing, and maintenance of mechanical systems. It applies principles of physics, [materials science](/materials-science), and mathematics to create everything from tiny medical devices to massive power plants.
 
 If something moves, heats up, cools down, or needs to hold together under stress, a mechanical engineer probably had a hand in making it work.
 
@@ -65,9 +65,9 @@ The Institution of Mechanical Engineers was founded in Birmingham, England, in 1
 
 ### The 20th Century and Beyond
 
-The 1900s brought internal combustion engines, jet engines, nuclear power, and the space program --- all fundamentally mechanical engineering achievements. The discipline absorbed and contributed to fields like control theory, materials science, and computer-aided design.
+The 1900s brought internal combustion engines, jet engines, [nuclear power](/nuclear-power), and the space program --- all fundamentally mechanical engineering achievements. The discipline absorbed and contributed to fields like [control theory](/control-theory), materials science, and computer-aided design.
 
-Today, mechanical engineering is merging with electronics ([mechatronics](/mechatronics)), biology (biomechanical engineering), and computation (computational mechanics) in ways that would be unrecognizable to a 19th-century engineer.
+Today, mechanical engineering is merging with [electronics](/electronics) ([mechatronics](/mechatronics)), biology (biomechanical engineering), and computation (computational mechanics) in ways that would be unrecognizable to a 19th-century engineer.
 
 ## Core Principles: The Physics That Runs Everything
 
@@ -81,7 +81,7 @@ Dynamics is what happens when things move. [Classical mechanics](/classical-mech
 
 ### Thermodynamics
 
-Thermodynamics is the study of energy, heat, and work. It governs engines, refrigerators, power plants, and any system where energy changes form. The four laws of thermodynamics set absolute constraints on what's physically possible.
+[Thermodynamics](/thermodynamics) is the study of energy, heat, and work. It governs engines, refrigerators, power plants, and any system where energy changes form. The four laws of thermodynamics set absolute constraints on what's physically possible.
 
 The second law of thermodynamics --- entropy always increases in an isolated system --- is particularly important. It's the reason no engine can be 100% efficient and the reason perpetual motion machines don't work (no matter how many YouTube videos claim otherwise).
 
@@ -125,7 +125,7 @@ Mechanical engineers design power plants --- natural gas, nuclear, solar thermal
 
 ### Biomedical Engineering
 
-Mechanical engineers design prosthetics, surgical robots, medical imaging equipment, and implants. The mechanical behavior of biological tissues --- [biomechanics](/biomechanics) --- is a whole field in itself. Hip replacements, heart valves, and orthopedic devices all require mechanical engineering expertise combined with biological knowledge.
+Mechanical engineers design [prosthetics](/prosthetics), surgical robots, [medical imaging](/medical-imaging) equipment, and implants. The mechanical behavior of biological tissues --- [biomechanics](/biomechanics) --- is a whole field in itself. Hip replacements, heart valves, and orthopedic devices all require mechanical engineering expertise combined with biological knowledge.
 
 ### HVAC and Building Systems
 
@@ -143,7 +143,7 @@ Mechanical engineering follows a structured design process, though experienced e
 
 **4. Detailed design.** Create precise 3D models using CAD software (SolidWorks, CATIA, AutoCAD, Fusion 360). Specify dimensions, tolerances, materials, and surface finishes.
 
-**5. Analysis and simulation.** Use finite element analysis (FEA) to check stresses, computational fluid dynamics (CFD) to analyze flow, and thermal analysis to check heat management. These simulations catch problems before you build physical prototypes.
+**5. Analysis and simulation.** Use finite element analysis (FEA) to check stresses, computational [fluid dynamics](/fluid-dynamics) (CFD) to analyze flow, and thermal analysis to check heat management. These simulations catch problems before you build physical prototypes.
 
 **6. Prototype and test.** Build physical prototypes and test them. Measure actual performance against predictions. This is where reality humbles theory --- there are always surprises.
 
@@ -157,7 +157,7 @@ This process can take weeks for a simple component or years for a complex system
 
 ### CAD Software
 
-Computer-aided design software is the mechanical engineer's primary tool. SolidWorks is the most common for product design. CATIA dominates in aerospace and automotive. AutoCAD handles 2D drafting. These tools produce 3D models precise to thousandths of a millimeter.
+Computer-aided design software is the mechanical engineer's primary tool. SolidWorks is the most common for [product design](/product-design). CATIA dominates in aerospace and automotive. AutoCAD handles 2D drafting. These tools produce 3D models precise to thousandths of a millimeter.
 
 ### Simulation Software
 
@@ -169,7 +169,7 @@ Coordinate measuring machines (CMMs), strain gauges, accelerometers, thermal cam
 
 ### Programming
 
-Modern mechanical engineers increasingly need programming skills. MATLAB is standard for analysis and simulation. Python is growing rapidly for data analysis, automation, and machine learning applications. Many engineers also need to work with PLCs (programmable logic controllers) for automated systems.
+Modern mechanical engineers increasingly need programming skills. MATLAB is standard for analysis and simulation. Python is growing rapidly for [data analysis](/data-analysis), automation, and machine learning applications. Many engineers also need to work with PLCs (programmable logic controllers) for automated systems.
 
 ## Real Numbers: What Mechanical Engineering Has Achieved
 
@@ -200,9 +200,9 @@ The boundaries between mechanical, electrical, software, and materials engineeri
 
 A bachelor's degree in mechanical engineering is the standard entry point. The typical curriculum includes:
 
-- [Calculus](/calculus) (through differential equations), linear algebra, and statistics
-- Physics (mechanics, thermodynamics, electromagnetism)
-- Core engineering courses: statics, dynamics, fluid mechanics, heat transfer, materials science, machine design
+- [Calculus](/calculus) (through [differential equations](/differential-equations)), [linear algebra](/linear-algebra), and statistics
+- Physics (mechanics, thermodynamics, [electromagnetism](/electromagnetism))
+- Core engineering courses: statics, dynamics, fluid mechanics, [heat transfer](/heat-transfer), materials science, machine design
 - Design projects (usually including a senior capstone project)
 - Electives in specialization areas
 
@@ -212,7 +212,7 @@ Career progression typically moves from individual technical contributor to proj
 
 ## Why It Matters
 
-Mechanical engineering is one of those professions that's easy to take for granted precisely because it works so well. The elevator you ride, the car you drive, the HVAC system keeping your office comfortable, the turbine generating your electricity --- they all function so reliably that you never think about them. That reliability is the product of centuries of accumulated mechanical engineering knowledge, rigorous analysis, and careful design.
+Mechanical engineering is one of those professions that's easy to take for granted precisely because it works so well. The elevator you ride, the car you drive, the HVAC system keeping your office comfortable, the turbine generating your [electricity](/electricity) --- they all function so reliably that you never think about them. That reliability is the product of centuries of accumulated mechanical engineering knowledge, rigorous analysis, and careful design.
 
 When mechanical engineering fails, you notice immediately. And when it succeeds, you don't notice at all. That quiet, invisible competence is maybe the best measure of how good the field has become.
 

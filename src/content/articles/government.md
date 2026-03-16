@@ -57,7 +57,7 @@ Modern democracies are almost always representative democracies, where citizens 
 
 ### Monarchies
 
-Monarchies concentrate power in a single ruler — a king, queen, emperor, or sultan — who typically inherits the position through family bloodline. For most of human history, this was the default. Ancient Egypt, medieval Europe, Imperial China, the Ottoman Empire — monarchies dominated global politics for roughly 5,000 years.
+Monarchies concentrate power in a single ruler — a king, queen, emperor, or sultan — who typically inherits the position through family bloodline. For most of human history, this was the default. Ancient Egypt, medieval Europe, Imperial China, the Ottoman Empire — monarchies dominated global [politics](/politics) for roughly 5,000 years.
 
 Today, most surviving monarchies are constitutional monarchies. The British monarch, for instance, has almost no real political power. Parliament runs the show. But absolute monarchies still exist — Saudi Arabia and Brunei, for example, where the ruler holds genuine executive authority.
 
@@ -65,7 +65,7 @@ Today, most surviving monarchies are constitutional monarchies. The British mona
 
 Authoritarian governments concentrate power in a small group or single leader without meaningful democratic accountability. Elections may technically exist, but they're rigged or meaningless. The press is controlled. Dissent is punished.
 
-Totalitarian systems go further — they attempt to control not just politics but every aspect of life: the economy, culture, education, even private beliefs. Stalin's Soviet Union and Nazi Germany are the textbook examples. North Korea today fits this description. The state doesn't just rule you. It tries to own your thoughts.
+Totalitarian systems go further — they attempt to control not just politics but every aspect of life: the economy, culture, [education](/education), even private beliefs. Stalin's Soviet Union and Nazi Germany are the textbook examples. North Korea today fits this description. The state doesn't just rule you. It tries to own your thoughts.
 
 ### Theocracies
 
@@ -79,7 +79,7 @@ But the neat three-branch diagram doesn't capture how messy governance really is
 
 In reality, bureaucracies do most of the actual governing. When you interact with "the government," you're usually dealing with a civil servant following administrative rules — someone at the DMV, a tax auditor, a building inspector. These bureaucratic agencies employ millions of people. The U.S. federal government alone employs roughly 2.9 million civilian workers (as of 2023), not counting military personnel.
 
-Lobbying and interest groups shape policy enormously. In the United States, lobbying expenditures exceeded $4.1 billion in 2022, according to OpenSecrets. Corporations, unions, nonprofits, and professional associations all push for policies that benefit their members. This isn't inherently corrupt — petitioning the government is a constitutional right — but it does mean that well-funded groups often have outsized influence.
+[Lobbying](/lobbying) and interest groups shape policy enormously. In the United States, lobbying expenditures exceeded $4.1 billion in 2022, according to OpenSecrets. Corporations, unions, nonprofits, and professional associations all push for policies that benefit their members. This isn't inherently corrupt — petitioning the government is a constitutional right — but it does mean that well-funded groups often have outsized influence.
 
 Elections are the mechanism through which democracies transfer power, but voter turnout varies wildly. The U.S. averages about 60% in presidential elections and a dismal 40% in midterms. Belgium and Australia, which have compulsory voting laws, see turnout above 90%. Whether that produces better governance is hotly debated.
 
@@ -87,9 +87,9 @@ Elections are the mechanism through which democracies transfer power, but voter 
 
 Government has evolved through distinct phases, though these overlap and vary by region.
 
-**Tribal and clan-based governance** (prehistory to present in some areas) relied on kinship, elder councils, and consensus decision-making. No written laws. No formal institutions. Authority came from age, wisdom, or warrior reputation.
+**Tribal and clan-based governance** ([prehistory](/prehistory) to present in some areas) relied on kinship, elder councils, and consensus decision-making. No written laws. No formal institutions. Authority came from age, wisdom, or warrior reputation.
 
-**City-states** emerged around 3000 BCE in Mesopotamia and later in Greece. These were small, self-governing communities — Ur, Athens, Sparta — each with their own laws, armies, and political systems. The Greek city-states gave the world democracy, [philosophy](/stoicism), and the idea that citizens could debate [public policy](/public-policy) openly.
+**City-states** emerged around 3000 BCE in Mesopotamia and later in Greece. These were small, self-governing communities — Ur, Athens, Sparta — each with their own laws, armies, and political systems. The Greek city-states gave the world democracy, [philosophy](/stoicism), and the idea that citizens could [debate](/debate) [public policy](/public-policy) openly.
 
 **Empires** consolidated multiple peoples under centralized authority. The Roman Empire at its height governed roughly 70 million people across three continents. The [Chinese imperial system](/silk-road) lasted over 2,000 years. These empires developed sophisticated administrative systems — tax collection, road networks, postal services, legal codes — that modern governments still echo.
 
@@ -109,7 +109,7 @@ Today's governments face problems their predecessors couldn't have imagined.
 
 **Digital surveillance and privacy** present genuine dilemmas. Governments can now monitor communications at scale, raising questions about the balance between security and individual rights. The Edward Snowden revelations in 2013 showed how far surveillance programs had expanded.
 
-**Climate change** requires international cooperation on a scale that's historically unprecedented. Individual governments struggle to address a problem that respects no borders, creating a collective action challenge that existing institutions weren't designed for.
+**[Climate change](/climate-change)** requires international cooperation on a scale that's historically unprecedented. Individual governments struggle to address a problem that respects no borders, creating a collective action challenge that existing institutions weren't designed for.
 
 **Disinformation and social media** have destabilized democratic processes. When anyone can broadcast anything to millions instantly, the shared factual basis that democratic debate requires becomes harder to maintain.
 
@@ -121,4 +121,4 @@ This isn't abstract political theory. The form of government you live under shap
 
 Frankly, most people only notice government when it fails — when the potholes multiply, when the courts seem unjust, when corruption becomes obvious. But the absence of government, or its collapse, is far worse than its imperfections. Ask anyone who's lived through state failure. The unglamorous, bureaucratic, often frustrating machinery of government is what stands between organized society and chaos.
 
-Understanding how government works — its structures, its history, its trade-offs — isn't just for [political science](/political-science) majors. It's for anyone who votes, pays taxes, or expects the roads to be paved and the water to be clean.
+Understanding how government works — its structures, its history, its [trade](/trade)-offs — isn't just for [political science](/political-science) majors. It's for anyone who votes, pays taxes, or expects the roads to be paved and the water to be clean.

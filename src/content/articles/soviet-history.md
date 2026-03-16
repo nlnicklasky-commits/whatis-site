@@ -53,7 +53,7 @@ What followed was a vicious civil war (1917-1922) between the Bolshevik "Reds" a
 
 The Bolsheviks won, and on December 30, 1922, the Union of Soviet Socialist Republics was formally established. It initially included Russia, Ukraine, Belarus, and the Transcaucasian Federation (Georgia, Armenia, and Azerbaijan). More republics were added over time, eventually reaching fifteen.
 
-During the civil war, Lenin implemented "War Communism" — forced grain requisitions from peasants, nationalization of industry, and the abolition of private trade. It kept the Red Army fed but devastated the economy. By 1921, industrial output had dropped to about 20% of pre-war levels.
+During the civil war, Lenin implemented "War Communism" — forced grain requisitions from peasants, nationalization of industry, and the abolition of private [trade](/trade). It kept the Red Army fed but devastated the economy. By 1921, industrial output had dropped to about 20% of pre-war levels.
 
 Lenin reversed course with the New Economic Policy (NEP) in 1921, allowing limited private enterprise and market-based trade. The NEP worked — the economy recovered quickly. But ideological purists within the party saw it as a betrayal of communist principles.
 
@@ -101,13 +101,13 @@ Economic growth slowed dramatically. The centrally planned economy, which had be
 
 The Soviet invasion of Afghanistan in 1979 became the USSR's Vietnam — a grinding, unwinnable war that killed 15,000 Soviet troops and drained resources for nearly a decade. It also destroyed whatever remained of the USSR's credibility in the developing world.
 
-When Brezhnev died in 1982, he was succeeded by two elderly, sick leaders — Yuri Andropov (died 1984) and Konstantin Chernenko (died 1985). The gerontocracy was running on fumes.
+When Brezhnev died in 1982, he was succeeded by two elderly, sick leaders — Yuri Andropov (died 1984) and Konstantin Chernenko (died 1985). The gerontocracy was [running](/running) on fumes.
 
 ## Gorbachev and Collapse
 
 Mikhail Gorbachev came to power in 1985 at age 54 — practically a teenager by Politburo standards. He recognized the system was failing and introduced two major reform programs:
 
-**Glasnost** ("openness") — loosened censorship, allowed public debate, and began acknowledging past crimes like Stalin's purges. This was genuinely popular but also unleashed nationalist movements in the republics that had been suppressed for decades.
+**Glasnost** ("openness") — loosened censorship, allowed public [debate](/debate), and began acknowledging past crimes like Stalin's purges. This was genuinely popular but also unleashed nationalist movements in the republics that had been suppressed for decades.
 
 **Perestroika** ("restructuring") — attempted to reform the command economy by introducing limited market mechanisms. It managed to disrupt the old system without creating a functioning new one. Shortages got worse, not better.
 

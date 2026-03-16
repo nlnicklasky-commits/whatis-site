@@ -37,7 +37,7 @@ faq:
 
 # What Is Osteology?
 
-Osteology is the scientific study of bones. That two-word definition covers an enormous amount of ground — from the cellular biology of bone growth to the forensic identification of murder victims, from the evolutionary history written in fossil skeletons to the medical treatment of osteoporosis. Bones are the most durable part of the body, the last thing to decompose, and often the only biological evidence left behind by past lives. Studying them tells us who lived, how they lived, what they ate, how they died, and how they were related to other species.
+Osteology is the scientific study of bones. That two-word definition covers an enormous amount of ground — from the cellular [biology](/biology) of bone growth to the forensic identification of murder victims, from the evolutionary history written in fossil skeletons to the medical treatment of osteoporosis. Bones are the most durable part of the body, the last thing to decompose, and often the only biological evidence left behind by past lives. Studying them tells us who lived, how they lived, what they ate, how they died, and how they were related to other species.
 
 ## Bone as Living Tissue
 
@@ -73,7 +73,7 @@ Bones aren't solid throughout. They come in two structural forms:
 
 **Trabecular (spongy) bone** fills the interior of flat bones, vertebrae, and the ends of long bones. It consists of a lattice of thin struts (trabeculae) oriented along the lines of mechanical stress. This is not random — the trabeculae align themselves to resist the forces the bone actually experiences, a phenomenon first described by Julius Wolff in 1892 (Wolff's Law). An X-ray of the proximal femur reveals trabecular patterns that match the stress lines predicted by [engineering](/engineering) analysis perfectly.
 
-This adaptive architecture means bones literally sculpt themselves to handle the loads placed on them. Tennis players develop thicker cortical bone in their dominant arm. Astronauts lose bone density in space because the absence of gravity removes the mechanical stimulus for bone maintenance. Your bones are a record of the forces your body has experienced.
+This adaptive architecture means bones literally sculpt themselves to handle the loads placed on them. [Tennis](/tennis) players develop thicker cortical bone in their dominant arm. Astronauts lose bone density in space because the absence of gravity removes the mechanical stimulus for bone maintenance. Your bones are a record of the forces your body has experienced.
 
 ## The Human Skeleton: Structure and Function
 
@@ -87,7 +87,7 @@ The skull protects the brain, houses the sensory organs (eyes, ears, nose), and 
 
 ### The Vertebral Column
 
-The spine consists of 33 vertebrae (7 cervical, 12 thoracic, 5 lumbar, 5 sacral fused into the sacrum, and 4 coccygeal fused into the coccyx). Its S-shaped curve — unique among primates — is an adaptation for bipedal locomotion. The curve distributes weight efficiently and absorbs shock during walking and running.
+The spine consists of 33 vertebrae (7 cervical, 12 thoracic, 5 lumbar, 5 sacral fused into the sacrum, and 4 coccygeal fused into the coccyx). Its S-shaped curve — unique among primates — is an adaptation for bipedal locomotion. The curve distributes weight efficiently and absorbs shock during [walking](/walking) and [running](/running).
 
 Intervertebral discs between vertebrae are fibrocartilage cushions that allow flexibility while bearing compressive loads. Disc degeneration with age is nearly universal and a leading cause of back pain — affecting about 80% of adults at some point in their lives.
 
@@ -143,19 +143,19 @@ Ancient bones record disease with surprising detail. Tuberculosis leaves charact
 
 Growth arrest lines (Harris lines) visible in X-rays of long bones record episodes of illness or malnutrition during childhood — each line represents a period when growth stopped and then resumed. These lines provide a record of childhood stress in populations that left no written history.
 
-The transition from hunting-gathering to [agriculture](/agriculture) — one of the most significant changes in human history — left clear signatures in skeletal remains. Early farming populations show increased dental cavities (from carbohydrate-rich diets), shorter stature (from nutritional deficiency), more infectious disease (from increased population density and proximity to animals), and more arthritis in specific joints (from repetitive agricultural labor).
+The transition from [hunting](/hunting)-gathering to [agriculture](/agriculture) — one of the most significant changes in human history — left clear signatures in skeletal remains. Early [farming](/farming) populations show increased dental cavities (from carbohydrate-rich diets), shorter stature (from nutritional deficiency), more infectious disease (from increased population density and proximity to animals), and more arthritis in specific joints (from repetitive agricultural labor).
 
 ### Activity and Occupation
 
-Bones remodel in response to mechanical stress, so habitual activities leave their mark. Enthesopathies — roughened areas where muscles and ligaments attach — indicate heavy use of specific muscle groups. Medieval archers develop enlarged left arm bones (from holding the bow) and specific changes to the right shoulder and fingers (from drawing the bowstring). Grain grinders develop arthritic changes in the knees and lower spine from hours of kneeling at grinding stones.
+Bones remodel in response to mechanical stress, so habitual activities leave their mark. Enthesopathies — roughened areas where muscles and ligaments attach — indicate heavy use of specific muscle groups. Medieval archers develop enlarged left arm bones (from holding the bow) and specific changes to the right shoulder and fingers (from [drawing](/drawing) the bowstring). Grain grinders develop arthritic changes in the knees and lower spine from hours of kneeling at grinding stones.
 
 Dental wear can reveal occupational habits. Leather workers who used their teeth to hold strips of hide develop distinctive anterior tooth wear. Pipe smokers create notched grooves in their teeth. Seamstresses who bit thread show wear on specific anterior teeth.
 
 ### Migration and Population Movement
 
-Stable isotope analysis has revolutionized our understanding of ancient migration. Strontium isotope ratios in tooth enamel reflect the local geology where a person grew up (because strontium substitutes for calcium in enamel during childhood). By comparing tooth enamel isotope ratios with local geological values, researchers can determine whether an individual grew up locally or migrated from elsewhere.
+Stable isotope analysis has revolutionized our understanding of ancient migration. Strontium isotope ratios in tooth enamel reflect the local [geology](/geology) where a person grew up (because strontium substitutes for calcium in enamel during childhood). By comparing tooth enamel isotope ratios with local geological values, researchers can determine whether an individual grew up locally or migrated from elsewhere.
 
-This technique has produced remarkable discoveries. The "Amesbury Archer," buried near Stonehenge around 2300 BCE with rich grave goods, grew up in the Alps — evidence of long-distance travel in the Bronze Age. Analysis of Roman-era cemeteries in Britain reveals individuals who grew up in North Africa, the Middle East, and Scandinavia — demonstrating the cosmopolitan nature of the Roman Empire through skeletal chemistry.
+This technique has produced remarkable discoveries. The "Amesbury Archer," buried near Stonehenge around 2300 BCE with rich grave goods, grew up in the Alps — evidence of long-distance travel in the Bronze Age. Analysis of Roman-era cemeteries in Britain reveals individuals who grew up in North Africa, the Middle East, and Scandinavia — demonstrating the cosmopolitan nature of the Roman Empire through skeletal [chemistry](/chemistry).
 
 ## Comparative and Evolutionary Osteology
 
@@ -189,11 +189,11 @@ Contemporary osteological research uses technology that has transformed the fiel
 
 **Ancient DNA extraction** from bone (especially the petrous bone) has enabled genetic analysis of individuals dead for tens of thousands of years. Svante Paabo's Nobel Prize-winning work on Neanderthal and Denisovan genomes used DNA extracted from ancient bones, revealing interbreeding between archaic humans and modern *Homo sapiens*.
 
-**Histological analysis** — thin-section microscopy of bone — reveals growth patterns, age at death (in both humans and other animals), and pathological changes invisible on the bone's surface. In non-human animals, lines of arrested growth (LAGs) in bone cross-sections function like tree rings, recording annual growth cycles.
+**Histological analysis** — thin-section [microscopy](/microscopy) of bone — reveals growth patterns, age at death (in both humans and other animals), and pathological changes invisible on the bone's surface. In non-human animals, lines of arrested growth (LAGs) in bone cross-sections function like tree rings, recording annual growth cycles.
 
 ## Why Osteology Matters
 
-Bones endure. Long after soft tissues decompose, bones remain — carrying information about identity, health, diet, activity, ancestry, and evolution. Osteology extracts that information using techniques from [anatomy](/anatomy), biology, chemistry, physics, and statistics.
+Bones endure. Long after soft tissues decompose, bones remain — carrying information about identity, health, diet, activity, ancestry, and evolution. Osteology extracts that information using techniques from [anatomy](/anatomy), biology, chemistry, physics, and [statistics](/statistics).
 
 Whether the goal is identifying disaster victims, understanding how ancient civilizations lived, tracing human evolution, or treating bone diseases in living patients, osteology provides the knowledge foundation. It's a field where a single bone fragment can tell you whether a person was male or female, young or old, local or migrant, healthy or diseased, and how they died. Few scientific disciplines pack so much information into such durable evidence.
 

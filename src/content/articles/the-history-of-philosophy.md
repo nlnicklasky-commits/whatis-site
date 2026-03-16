@@ -33,9 +33,9 @@ faq:
 
 # What Is The History of Philosophy?
 
-The history of philosophy is the record of humanity's most persistent attempt to figure out what's going on. What exists? What can we know? How should we live? What makes a society just? These questions emerged independently across multiple civilizations around 2,600 years ago, and — here's the thing — we're still arguing about most of them.
+The history of [philosophy](/philosophy) is the record of humanity's most persistent attempt to figure out what's going on. What exists? What can we know? How should we live? What makes a society just? These questions emerged independently across multiple civilizations around 2,600 years ago, and — here's the thing — we're still arguing about most of them.
 
-Philosophy isn't a body of settled knowledge the way chemistry is. It's more like a conversation that's been going on for millennia, where the questions matter as much as the answers. Many of the disciplines we now consider separate — [science](/the-history-of-science), psychology, [linguistics](/linguistics), [political science](/political-science) — originally spun off from philosophy when they developed their own methods.
+Philosophy isn't a body of settled knowledge the way [chemistry](/chemistry) is. It's more like a conversation that's been going on for millennia, where the questions matter as much as the answers. Many of the disciplines we now consider separate — [science](/the-history-of-science), [psychology](/psychology), [linguistics](/linguistics), [political science](/political-science) — originally spun off from philosophy when they developed their own methods.
 
 ## The Axial Age: Multiple Traditions Ignite
 
@@ -53,7 +53,7 @@ In **China**, **Confucius** (551–479 BCE) developed an ethical philosophy cent
 
 **Socrates** (470–399 BCE) wrote nothing down. Everything we know comes from his students, mainly Plato. His method was to ask questions — relentless, probing questions that exposed contradictions in people's beliefs. He claimed to know nothing himself, which was either genuine humility or supreme irony (scholars still argue about this). Athens executed him for "corrupting the youth" and "introducing new gods." He accepted the sentence and drank hemlock.
 
-**Plato** (428–348 BCE), Socrates' student, wrote dialogues that are still read as both philosophy and literature. His **Theory of Forms** proposed that the physical world is just shadows — imperfect copies of perfect, eternal Forms that exist in a higher reality. The chair you're sitting in is an imperfect instance of the Form of Chair. This sounds wild, but it influenced everything from Christian theology to modern [mathematics](/mathematics).
+**Plato** (428–348 BCE), Socrates' student, wrote dialogues that are still read as both philosophy and [literature](/literature). His **Theory of Forms** proposed that the physical world is just shadows — imperfect copies of perfect, eternal Forms that exist in a higher reality. The chair you're sitting in is an imperfect instance of the Form of Chair. This sounds wild, but it influenced everything from Christian theology to modern [mathematics](/mathematics).
 
 Plato's *Republic* remains one of the most important works of [political philosophy](/the-history-of-political-science). His allegory of the cave — prisoners chained in a cave, mistaking shadows on the wall for reality — is one of the most famous images in all of philosophy.
 
@@ -73,7 +73,7 @@ The **Skeptics**, following Pyrrho, argued that we should suspend judgment on vi
 
 The medieval period saw philosophers grappling with how to reconcile religious faith with rational inquiry.
 
-In the **Islamic world**, this produced extraordinary work. **Al-Kindi** (c. 801–873) argued that philosophy and Islam were compatible. **Avicenna** (Ibn Sina, 980–1037) developed a sophisticated metaphysics that influenced both Islamic and Christian thought. His proof for God's existence from the concept of necessary being was one of the most rigorous attempts in medieval philosophy. **Averroes** (Ibn Rushd, 1126–1198) wrote detailed commentaries on Aristotle that were so influential in Europe that he was simply called "The Commentator."
+In the **Islamic world**, this produced extraordinary work. **Al-Kindi** (c. 801–873) argued that philosophy and Islam were compatible. **Avicenna** (Ibn Sina, 980–1037) developed a sophisticated [metaphysics](/metaphysics) that influenced both Islamic and Christian thought. His proof for God's existence from the concept of necessary being was one of the most rigorous attempts in medieval philosophy. **Averroes** (Ibn Rushd, 1126–1198) wrote detailed commentaries on Aristotle that were so influential in Europe that he was simply called "The Commentator."
 
 In **Christian Europe**, the dominant project was **[Scholasticism](/scholasticism)** — the systematic attempt to reconcile Christian theology with Aristotelian philosophy. **Thomas Aquinas** (1225–1274) was the master of this, producing the massive *Summa Theologica*. His "Five Ways" — five arguments for God's existence — are still discussed in every [philosophy of religion](/philosophy-of-religion) course.
 
@@ -91,7 +91,7 @@ In **Christian Europe**, the dominant project was **[Scholasticism](/scholastici
 
 **Georg Wilhelm Friedrich Hegel** (1770–1831) built an enormously ambitious philosophical system in which all of history is the progressive self-realization of Spirit (Geist) through a dialectical process: thesis, antithesis, synthesis. His writing is notoriously difficult — Schopenhauer called him a "charlatan."
 
-**Karl Marx** took Hegel's dialectic and flipped it. History isn't driven by ideas but by material conditions — economics, class struggle, control of production. Marx's thought shaped the 20th century's political geography more than any other philosopher's.
+**Karl Marx** took Hegel's dialectic and flipped it. History isn't driven by ideas but by material conditions — [economics](/economics), class struggle, control of production. Marx's thought shaped the 20th century's political [geography](/geography) more than any other philosopher's.
 
 **Friedrich Nietzsche** (1844–1900) declared "God is dead" — not as celebration but as diagnosis. Western culture had lost its metaphysical foundations, and Nietzsche worried about the nihilism that would follow. His alternative — affirming life, creating your own values, becoming an "Ubermensch" — is still debated, partly because he wrote in aphorisms and metaphors rather than systematic arguments.
 
@@ -107,4 +107,4 @@ Philosophy in the 1900s split into two broad traditions.
 
 **Michel Foucault** analyzed how power shapes what counts as knowledge. **Jacques Derrida** questioned whether texts have fixed meanings. The postmodernists challenged the grand narratives of progress, reason, and truth that had shaped Western philosophy since the Enlightenment.
 
-Today, philosophy engages with questions that earlier centuries couldn't have imagined. What rights should artificial intelligences have? Is consciousness computable? What do we owe future generations regarding climate change? The conversation continues — and if 2,600 years of history tells us anything, it's not ending anytime soon.
+Today, philosophy engages with questions that earlier centuries couldn't have imagined. What rights should artificial intelligences have? Is consciousness computable? What do we owe future generations regarding [climate change](/climate-change)? The conversation continues — and if 2,600 years of history tells us anything, it's not ending anytime soon.

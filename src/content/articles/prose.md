@@ -31,7 +31,7 @@ faq:
 
 # What Is Prose?
 
-Prose is written or spoken language in its ordinary form — flowing in sentences and paragraphs, following the natural patterns of speech, without the deliberate line breaks and metrical structure of poetry. You're reading prose right now. Most of what you read — novels, news articles, emails, textbooks, text messages — is prose. It's so common that most people never think to name it, the way fish probably don't think much about water.
+Prose is written or spoken language in its ordinary form — flowing in sentences and paragraphs, following the natural patterns of speech, without the deliberate line breaks and metrical structure of [poetry](/poetry). You're reading prose right now. Most of what you read — novels, news articles, emails, textbooks, text messages — is prose. It's so common that most people never think to name it, the way fish probably don't think much about water.
 
 ## The Word Itself
 
@@ -53,7 +53,7 @@ The term exists primarily in contrast to verse (poetry). For most of literary hi
 
 Bad prose is easy to spot — it's unclear, clunky, or boring. Good prose is harder to define, but a few qualities show up consistently.
 
-**Clarity.** The reader understands what you mean without struggling. George Orwell argued that clear writing is the foundation of clear thinking, and his six rules from "[Politics](/politics) and the [English Language](/english-language)" (1946) remain solid advice: never use a long word where a short one will do, never use a passive verb where an active one works, cut any word you can cut.
+**Clarity.** The reader understands what you mean without struggling. George Orwell argued that clear [writing](/writing) is the foundation of clear thinking, and his six rules from "[Politics](/politics) and the [English Language](/english-language)" (1946) remain solid advice: never use a long word where a short one will do, never use a passive verb where an active one works, cut any word you can cut.
 
 **Rhythm.** Prose has rhythm even though it doesn't have meter. The length and structure of sentences create a cadence — short sentences punch, long sentences flow, variation keeps the reader's attention. Read great prose aloud and you'll hear it immediately.
 

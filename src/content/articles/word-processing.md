@@ -45,7 +45,7 @@ The term "word processing" was coined by IBM in the late 1960s to market their M
 
 Dedicated word processing machines dominated offices through the 1970s. Wang Laboratories became a billion-dollar company selling dedicated word processors -- standalone machines with screens, keyboards, and printers that did nothing but process text. In 1978, a Wang word processor cost around $30,000 (roughly $140,000 in today's dollars). Offices that could afford them transformed their [productivity](/productivity).
 
-The personal computer changed everything. When the IBM PC launched in 1981, software developers immediately saw the opportunity. WordStar (1978) was already running on CP/M systems. WordPerfect arrived in 1979 and became the dominant word processor of the 1980s, especially beloved by legal professionals for its reveal codes feature that let you see exactly what formatting was applied.
+The personal computer changed everything. When the IBM PC launched in 1981, software developers immediately saw the opportunity. WordStar (1978) was already [running](/running) on CP/M systems. WordPerfect arrived in 1979 and became the dominant word processor of the 1980s, especially beloved by legal professionals for its reveal codes feature that let you see exactly what formatting was applied.
 
 Then came Microsoft Word. First released for MS-DOS in 1983 and for Macintosh in 1985, Word initially struggled against WordPerfect's installed base. But when Windows 3.0 launched in 1990, Word for Windows had the advantage -- it was designed for graphical interfaces from the start, while WordPerfect was still a DOS application with a Windows version that felt bolted on. By the mid-1990s, Word had won the office word processor war and hasn't looked back.
 
@@ -71,7 +71,7 @@ Justification -- making text align with both left and right margins -- requires 
 
 "What You See Is What You Get" -- the principle that the document on screen should look the same as the printed output -- seems obvious now but was revolutionary in the 1980s. Before WYSIWYG, word processors showed raw text with formatting codes. You couldn't see bold text as bold; you saw codes like `{B}text{/B}` or had to print a page to check your formatting.
 
-The Xerox Star (1981) and Apple Macintosh (1984) introduced WYSIWYG to personal computers. Today, every mainstream word processor is WYSIWYG, though markup-based writing tools (like LaTeX and Markdown) retain the older approach for users who prefer explicit control over their formatting.
+The Xerox Star (1981) and Apple Macintosh (1984) introduced WYSIWYG to personal computers. Today, every mainstream word processor is WYSIWYG, though markup-based [writing](/writing) tools (like LaTeX and Markdown) retain the older approach for users who prefer explicit control over their formatting.
 
 ## Key Features of Modern Word Processors
 
@@ -96,7 +96,7 @@ Most people never learn to use styles properly. They manually format everything,
 
 Track changes -- the ability to record edits so that reviewers can see what changed and accept or reject modifications -- is essential for collaborative writing. Microsoft Word's track changes feature has been the standard for [business](/business-administration) document review for decades.
 
-Google Docs took collaboration further with real-time co-editing, where multiple people can type in the same document simultaneously and see each other's cursors and changes instantly. This capability, once considered bleeding-edge, is now expected in any serious word processor.
+Google Docs took collaboration further with real-time co-[editing](/editing), where multiple people can type in the same document simultaneously and see each other's cursors and changes instantly. This capability, once considered bleeding-edge, is now expected in any serious word processor.
 
 Comments and suggestions provide additional collaboration layers. Reviewers can add marginal comments without modifying the text, and Google Docs' "Suggesting" mode lets editors propose changes that the document owner can accept or reject -- similar to Word's track changes but integrated into the real-time editing experience.
 
@@ -124,7 +124,7 @@ Word's weakness is its complexity. Most users access maybe 10% of its features. 
 
 ### Google Docs
 
-Google Docs is the word processor that proved cloud-based software could work. It's free, runs entirely in a browser, and saves automatically to Google Drive. For education, casual writing, and collaborative work, it's become the default choice for many people.
+Google Docs is the word processor that proved cloud-based software could work. It's free, runs entirely in a browser, and saves automatically to Google Drive. For [education](/education), casual writing, and collaborative work, it's become the default choice for many people.
 
 Real-time collaboration is Google Docs' killer feature. Sharing a document and editing together happens without any friction -- no emails, no version confusion, no "Track Changes" to reconcile. The revision history lets you see every change ever made and revert to any previous state.
 

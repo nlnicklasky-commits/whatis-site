@@ -45,9 +45,9 @@ Ancient Egyptian embalmers understood organ placement well enough to remove the 
 
 Hippocrates (around 400 BCE) described some structures, but Greek cultural taboos against dissecting the dead limited his accuracy. The real breakthroughs came from Herophilus and Erasistratus at the Library of Alexandria around 300 BCE. They performed systematic human dissections — and, according to some ancient sources, vivisections of condemned criminals. Whether those accounts are true remains debated, but their anatomical descriptions of the nervous system, eye, and circulatory system were remarkably accurate.
 
-Then came Galen (129-216 CE), who dominated anatomy for nearly 1,400 years — and got a lot wrong. Roman law prohibited human dissection, so Galen dissected apes and pigs and extrapolated to humans. He described a five-lobed liver (pigs have five lobes; humans have four), a two-part jaw (true in dogs, not humans), and blood vessels in the rete mirabile at the base of the brain (present in ungulates, absent in humans). Nobody challenged him for over a millennium because, well, nobody was dissecting humans to check.
+Then came Galen (129-216 CE), who dominated anatomy for nearly 1,400 years — and got a lot wrong. [Roman law](/roman-law) prohibited human dissection, so Galen dissected apes and pigs and extrapolated to humans. He described a five-lobed liver (pigs have five lobes; humans have four), a two-part jaw (true in dogs, not humans), and blood vessels in the rete mirabile at the base of the brain (present in ungulates, absent in humans). Nobody challenged him for over a millennium because, well, nobody was dissecting humans to check.
 
-Andreas Vesalius changed everything in 1543 with *De humani corporis fabrica* — a beautifully illustrated anatomical text based on actual human dissection. Vesalius publicly corrected over 200 of Galen's errors. His reward? Getting attacked by the medical establishment, who were personally invested in Galen being right. Science has always had politics.
+Andreas Vesalius changed everything in 1543 with *De humani corporis fabrica* — a beautifully illustrated anatomical text based on actual human dissection. Vesalius publicly corrected over 200 of Galen's errors. His reward? Getting attacked by the medical establishment, who were personally invested in Galen being right. Science has always had [politics](/politics).
 
 The 18th and 19th centuries brought the "Resurrection Men" — body snatchers who dug up fresh graves to sell corpses to anatomy schools. Demand outstripped supply so dramatically that in Edinburgh, William Burke and William Hare skipped the digging entirely and simply murdered 16 people to sell their bodies. The resulting public outrage led to the Anatomy Act of 1832, which provided legal channels for obtaining cadavers.
 
@@ -64,7 +64,7 @@ Key directional terms:
 - **Proximal/Distal** — closer to/farther from the trunk (used for limbs)
 - **Superficial/Deep** — near the surface/farther inward
 
-The body is also described using three standard planes: sagittal (dividing left and right), coronal (dividing front and back), and transverse (dividing top and bottom). Every CT scan, MRI, and anatomy textbook illustration uses these reference planes.
+The body is also described using three standard planes: sagittal (dividing left and right), coronal (dividing front and back), and transverse (dividing top and bottom). Every CT scan, MRI, and anatomy textbook [illustration](/illustration) uses these reference planes.
 
 ## The Organ Systems: A Tour
 
@@ -80,7 +80,7 @@ Joints — where bones meet — come in several types. Synovial joints (knees, s
 
 ### The Muscular System
 
-Your body has over 600 skeletal muscles, accounting for roughly 40% of body weight. These are the voluntary muscles — the ones you consciously control for movement, posture, and facial expression.
+Your body has over 600 skeletal muscles, [accounting](/accounting) for roughly 40% of body weight. These are the voluntary muscles — the ones you consciously control for movement, posture, and facial expression.
 
 But skeletal muscle is just one of three muscle types. Smooth muscle lines hollow organs (stomach, blood vessels, intestines) and operates involuntarily — you don't consciously decide to push food through your intestines. Cardiac muscle, found only in the heart, has unique properties: it's striated like skeletal muscle but involuntary like smooth muscle, and cardiac cells are electrically coupled so the heart beats as a coordinated unit.
 
@@ -90,7 +90,7 @@ The smallest functional unit of skeletal muscle is the sarcomere — a repeating
 
 The nervous system is your body's communication network — and it's staggeringly complex. Your brain contains roughly 86 billion neurons, each connected to thousands of others, creating an estimated 100 trillion synaptic connections. No computer comes close to this level of connectivity.
 
-The system divides into the central nervous system (brain and spinal cord) and peripheral nervous system (everything else — the nerves running to your fingers, toes, organs, and skin). The peripheral system further subdivides into somatic (voluntary — moving your arm) and autonomic (involuntary — digesting lunch).
+The system divides into the central nervous system (brain and spinal cord) and peripheral nervous system (everything else — the nerves [running](/running) to your fingers, toes, organs, and skin). The peripheral system further subdivides into somatic (voluntary — moving your arm) and autonomic (involuntary — digesting lunch).
 
 The autonomic nervous system splits again into sympathetic ("fight or flight" — dilates pupils, increases heart rate, diverts blood to muscles) and parasympathetic ("rest and digest" — slows heart rate, stimulates digestion). These two branches work in constant opposition, maintaining balance. Understanding this interplay is central to [behavioral psychology](/behavioral-psychology) and clinical medicine alike.
 
@@ -106,9 +106,9 @@ William Harvey described the circulation correctly in 1628 — a huge advance. B
 
 ### The Respiratory System
 
-Every minute, you breathe about 12-20 times, moving roughly 6 liters of air. Your lungs contain approximately 300 million alveoli — tiny air sacs where gas exchange occurs. If you flattened all those alveoli out, they'd cover a tennis court. This enormous surface area exists for one purpose: getting oxygen into your blood and carbon dioxide out.
+Every minute, you breathe about 12-20 times, moving roughly 6 liters of air. Your lungs contain approximately 300 million alveoli — tiny air sacs where gas exchange occurs. If you flattened all those alveoli out, they'd cover a [tennis](/tennis) court. This enormous surface area exists for one purpose: getting oxygen into your blood and carbon dioxide out.
 
-The diaphragm — a dome-shaped muscle beneath the lungs — drives breathing. When it contracts and flattens, it creates negative pressure in the chest cavity, drawing air in. When it relaxes, air is pushed out. You do this about 20,000 times per day without thinking about it.
+The diaphragm — a dome-shaped muscle beneath the lungs — drives breathing. When it contracts and flattens, it creates negative pressure in the chest cavity, [drawing](/drawing) air in. When it relaxes, air is pushed out. You do this about 20,000 times per day without thinking about it.
 
 ### The Digestive System
 
@@ -166,7 +166,7 @@ Modern imaging technology lets us study anatomy in living people — something t
 
 The Visible Human Project, completed in 1994, created the first complete digital anatomy dataset by photographing thousands of cross-sections of two donated bodies. That data has been used to create virtual dissection programs used worldwide.
 
-Modern virtual anatomy tools use high-resolution 3D models that students can rotate, disassemble, and explore interactively. Apps like Complete Anatomy and Visible Body provide detailed models accessible on tablets and phones. Some medical schools have adopted virtual reality anatomy labs where students can "walk inside" the heart or examine neurons at cellular scale.
+Modern virtual anatomy tools use high-resolution 3D models that students can rotate, disassemble, and explore interactively. Apps like Complete Anatomy and Visible Body provide detailed models accessible on tablets and phones. Some medical schools have adopted [virtual reality](/virtual-reality) anatomy labs where students can "walk inside" the heart or examine neurons at cellular scale.
 
 These tools supplement but haven't replaced physical dissection. A 2019 meta-analysis of 36 studies found that combining traditional dissection with digital tools produced the best learning outcomes — better than either approach alone.
 
@@ -176,17 +176,17 @@ Here's something anatomy textbooks don't always emphasize enough: normal variati
 
 About 10-20% of people have an accessory renal artery (an extra blood vessel supplying the kidney). Roughly 35% of people lack the palmaris longus muscle in their forearm — grab your wrist and flex your hand to check; if you see a prominent tendon in the center, you have it. The sternalis muscle, an extra muscle on the front of the chest, appears in about 8% of people. These aren't abnormalities. They're variations within the normal range.
 
-Understanding variation matters clinically. A surgeon who assumes the textbook arrangement and encounters an unusual vascular pattern needs to adapt in real time. This is why anatomy education emphasizes that textbook illustrations show the most common pattern, not the only pattern.
+Understanding variation matters clinically. A surgeon who assumes the textbook arrangement and encounters an unusual vascular pattern needs to adapt in real time. This is why anatomy [education](/education) emphasizes that textbook illustrations show the most common pattern, not the only pattern.
 
 ## Why Anatomy Still Matters
 
 In an age of genetic medicine, [molecular biology](/molecular-biology), and artificial intelligence, you might wonder whether learning the physical layout of the body still matters. It does — profoundly.
 
-Surgeons can't operate without knowing anatomy. Every incision follows anatomical landmarks. Every procedure requires understanding which structures lie in the surgical field and how to avoid damaging critical ones. Robotic surgery hasn't changed this — the robot doesn't know anatomy; the surgeon controlling it does.
+Surgeons can't operate without knowing anatomy. Every incision follows anatomical landmarks. Every procedure requires understanding which structures lie in the surgical field and how to avoid damaging critical ones. Robotic [surgery](/surgery) hasn't changed this — the robot doesn't know anatomy; the surgeon controlling it does.
 
 Radiologists interpret imaging by recognizing normal anatomy and identifying deviations. Emergency physicians assess injuries by understanding anatomical relationships. Physical therapists design rehabilitation programs based on [biomechanics](/biomechanics) — which is applied anatomy.
 
-Even fields that seem far from anatomy depend on it. Drug delivery requires understanding where target tissues are and how to reach them. Medical device design requires knowing the dimensions and properties of the structures devices will contact. [Artificial intelligence](/artificial-intelligence) systems for medical imaging are trained using anatomical knowledge to recognize normal and abnormal structures.
+Even fields that seem far from anatomy depend on it. Drug delivery requires understanding where target tissues are and how to reach them. Medical device design requires knowing the dimensions and properties of the structures devices will contact. [Artificial intelligence](/artificial-intelligence) systems for [medical imaging](/medical-imaging) are trained using anatomical knowledge to recognize normal and abnormal structures.
 
 ## Anatomy and Development
 
@@ -198,7 +198,7 @@ When development goes wrong — due to genetic mutations, teratogen exposure, or
 
 ## Comparative Anatomy: Humans in Context
 
-Comparing human anatomy to that of other animals reveals our evolutionary heritage. The human skeleton shares basic architecture with all vertebrates — skull, spine, ribs, four limbs. Our hands have the same basic bone pattern as whale flippers, bat wings, and horse hooves. These homologous structures point to common ancestry.
+Comparing human anatomy to that of other animals reveals our evolutionary heritage. The human skeleton shares basic [architecture](/architecture) with all vertebrates — skull, spine, ribs, four limbs. Our hands have the same basic bone pattern as whale flippers, bat wings, and horse hooves. These homologous structures point to common ancestry.
 
 [Comparative anatomy](/comparative-anatomy) also reveals structures that no longer serve their original function. The appendix, wisdom teeth, ear muscles, and coccyx (tailbone) are vestiges of ancestral anatomy. The plantaris muscle in your calf — present in about 90% of people — was important for foot grasping in our tree-dwelling ancestors. Some individuals are born without it, with no functional consequence.
 

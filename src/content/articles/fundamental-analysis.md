@@ -61,7 +61,7 @@ Fundamental analysts typically approach valuation from one of two directions.
 
 Start with the big picture and narrow down:
 
-1. **Macroeconomic environment**: Interest rates, GDP growth, inflation, unemployment, trade policy. Is the overall economy expanding or contracting?
+1. **Macroeconomic environment**: Interest rates, GDP growth, inflation, unemployment, [trade](/trade) policy. Is the overall economy expanding or contracting?
 2. **Sector analysis**: Which industries benefit from current economic conditions? During economic expansion, cyclical industries (autos, [construction](/construction), luxury goods) tend to outperform. During contraction, defensive sectors (utilities, healthcare, consumer staples) hold up better.
 3. **Company selection**: Within attractive sectors, identify the strongest companies based on financial metrics and competitive position.
 
@@ -88,7 +88,7 @@ Financial statements are the raw material of fundamental analysis. Public compan
 
 Also called the profit and loss statement (P&L). It shows how much the company earned and spent over a period.
 
-**Revenue** (top line): Total sales. Is it growing? Consistently? Faster or slower than competitors? Revenue growth driven by selling more units is generally healthier than growth from price increases alone.
+**Revenue** (top line): Total [sales](/sales). Is it growing? Consistently? Faster or slower than competitors? Revenue growth driven by selling more units is generally healthier than growth from price increases alone.
 
 **Gross profit**: Revenue minus cost of goods sold (COGS). The gross margin (gross profit / revenue) tells you how much the company marks up its products. Software companies might have 80%+ gross margins. Grocery stores might have 25%. Compare to industry peers — a company with higher gross margins than competitors usually has a pricing advantage.
 
@@ -243,7 +243,7 @@ Modern fundamental analysis is more accessible than ever:
 
 - **SEC EDGAR**: Free access to all public company filings
 - **Company investor relations pages**: Earnings transcripts, presentations, annual reports
-- **Financial databases**: Bloomberg Terminal (professional), Yahoo Finance and Macrotrends (free)
+- **Financial databases**: Bloomberg Terminal (professional), Yahoo [Finance](/finance) and Macrotrends (free)
 - **Screening tools**: Finviz, Stock Rover, and others let you filter thousands of stocks by fundamental criteria
 - **Academic resources**: Aswath Damodaran's NYU website provides free valuation models, datasets, and lectures
 

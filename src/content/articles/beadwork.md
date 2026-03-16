@@ -31,7 +31,7 @@ faq:
 
 # What Is Beadwork?
 
-Beadwork is the craft of creating decorative objects, garments, and art by arranging small beads — typically glass, stone, shell, bone, or seed — into patterns through sewing, [weaving](/weaving), stringing, or [embroidery](/embroidery) techniques. It spans virtually every human culture and dates back at least 80,000 years.
+Beadwork is the craft of creating decorative objects, garments, and art by arranging small beads — typically glass, stone, shell, bone, or seed — into patterns through [sewing](/sewing), [weaving](/weaving), stringing, or [embroidery](/embroidery) techniques. It spans virtually every human culture and dates back at least 80,000 years.
 
 ## Older Than Civilization
 
@@ -53,7 +53,7 @@ Today, Native American beadwork remains a living art. Contemporary beadworkers l
 
 African beadwork traditions are immensely diverse. The Maasai of Kenya and Tanzania create elaborate beaded collars and headpieces, with specific color combinations indicating age, marital status, and social position. Zulu beadwork from South Africa uses color symbolism to encode messages — a practice called "love letters" when young women send beaded messages to suitors.
 
-West African beadwork — particularly the use of trade beads as currency and adornment — intertwined with global trade networks for centuries. Some European trade beads have become valuable antiques, collected for their [historical](/anthropology) significance and craftsmanship.
+West African beadwork — particularly the use of [trade](/trade) beads as currency and adornment — intertwined with global trade networks for centuries. Some European trade beads have become valuable antiques, collected for their [historical](/anthropology) significance and craftsmanship.
 
 ### European Beadwork
 

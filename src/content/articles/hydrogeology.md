@@ -35,7 +35,7 @@ faq:
 
 # What Is Hydrogeology?
 
-Hydrogeology is the branch of geology that studies groundwater — how water moves through soil and rock beneath the Earth's surface, where it accumulates in usable quantities, how it interacts with geological materials, and how human activities affect its quality and availability. It sits at the intersection of geology, [hydrology](/hydrology), [chemistry](/chemistry), and [engineering](/engineering), and it addresses one of civilization's most fundamental needs: access to clean water.
+Hydrogeology is the branch of [geology](/geology) that studies groundwater — how water moves through soil and rock beneath the Earth's surface, where it accumulates in usable quantities, how it interacts with geological materials, and how human activities affect its quality and availability. It sits at the intersection of geology, [hydrology](/hydrology), [chemistry](/chemistry), and [engineering](/engineering), and it addresses one of civilization's most fundamental needs: access to clean water.
 
 ## Why Groundwater Matters More Than You Think
 
@@ -43,7 +43,7 @@ Here's a number that surprises most people: roughly 2 billion humans rely on gro
 
 And yet, most people have never thought about groundwater for more than a few seconds. Surface water — rivers, lakes, reservoirs — is visible, intuitive, and easy to appreciate. Groundwater is invisible. It's down there somewhere, doing its thing, and as long as the tap works, who cares?
 
-Hydrogeologists care. Because groundwater is being depleted faster than it's replenished in many of the world's most productive agricultural regions. Because once contaminated, groundwater can take decades or centuries to clean up — if it can be cleaned at all. Because climate change is altering precipitation patterns that recharge aquifers. And because the gap between water demand and water supply is growing in ways that will reshape economies and [geopolitics](/geopolitics) within your lifetime.
+Hydrogeologists care. Because groundwater is being depleted faster than it's replenished in many of the world's most productive agricultural regions. Because once contaminated, groundwater can take decades or centuries to clean up — if it can be cleaned at all. Because [climate change](/climate-change) is altering precipitation patterns that recharge aquifers. And because the gap between water demand and water supply is growing in ways that will reshape economies and [geopolitics](/geopolitics) within your lifetime.
 
 ## How Water Gets Underground
 
@@ -75,7 +75,7 @@ The Great Artesian Basin in Australia is the world's largest artesian aquifer sy
 
 **Sandstone aquifers** have moderate permeability. Water flows through the pore spaces between sand grains that were cemented into rock over millions of years. The Nubian Sandstone Aquifer beneath the Sahara — one of the world's largest fossil water reserves — covers about 770,000 square miles across Libya, Egypt, Chad, and Sudan.
 
-**Limestone and karst aquifers** are unique. Limestone dissolves in slightly acidic water (carbonic acid from dissolved CO2), creating channels, caves, and conduits that can transmit water extremely rapidly. Florida's Floridan Aquifer — one of the world's most productive — is a karst system. Springs like Florida's Rainbow Springs can discharge over 500 million gallons per day.
+**Limestone and karst aquifers** are unique. Limestone dissolves in slightly acidic water (carbonic acid from dissolved CO2), creating channels, caves, and conduits that can transmit water extremely rapidly. Florida's Floridan Aquifer — one of the world's most productive — is a karst system. [Springs](/springs) like Florida's Rainbow Springs can discharge over 500 million gallons per day.
 
 The catch with karst: the same rapid flow that makes these aquifers productive makes them extremely vulnerable to contamination. A pollutant entering a karst system can travel miles in hours through conduits, with no filtration by soil or rock along the way.
 
@@ -169,7 +169,7 @@ Several developments are reshaping the field.
 
 **Remote sensing and satellite data** — NASA's GRACE (Gravity Recovery and Climate Experiment) satellites measure changes in Earth's gravity field, revealing groundwater storage changes across entire basins. GRACE data showed that India's northwestern aquifers lost 109 cubic kilometers of water between 2002 and 2008 — a depletion rate visible from space.
 
-**Computational modeling** — increasingly sophisticated [data analysis](/data-analysis) and numerical models simulate groundwater flow and contaminant transport in three dimensions over decades or centuries. These models guide pumping management, contamination remediation design, and water resource planning.
+**Computational modeling** — increasingly sophisticated [data analysis](/data-analysis) and numerical models simulate groundwater flow and contaminant transport in three dimensions over decades or centuries. These models guide pumping [management](/management), contamination remediation design, and water resource planning.
 
 **Water governance** — perhaps the biggest challenge isn't technical but institutional. In many jurisdictions, groundwater is poorly regulated. In most US states, landowners can pump as much groundwater as they want from beneath their property — even if it depletes their neighbors' wells. Transitioning from unregulated to managed groundwater use requires political will that scientific knowledge alone doesn't create.
 

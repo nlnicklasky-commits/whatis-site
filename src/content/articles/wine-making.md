@@ -81,6 +81,6 @@ Bordeaux is the classic blending region. The five permitted red grapes (Cabernet
 
 Wine production spans an absurd range of scale. E. & J. Gallo, the world's largest wine company, produces roughly 900 million bottles annually. At the other end, small estate producers might make 2,000-5,000 cases (24,000-60,000 bottles) from their own vineyards.
 
-The economics are similarly varied. Industrial wine production uses mechanical harvesting, computer-controlled fermentation, and minimal barrel aging to produce drinkable wine at $2-$4 per bottle cost. Artisanal producers hand-harvest, sort grapes individually, ferment in small lots, and age in expensive oak for years — producing wines that cost $20-$100+ per bottle to make.
+The [economics](/economics) are similarly varied. Industrial wine production uses mechanical harvesting, computer-controlled fermentation, and minimal barrel aging to produce drinkable wine at $2-$4 per bottle cost. Artisanal producers hand-harvest, sort grapes individually, ferment in small lots, and age in expensive oak for years — producing wines that cost $20-$100+ per bottle to make.
 
 Both approaches produce wine. The difference — whether it matters and how much — is the question that wine lovers, critics, and winemakers have been arguing about since the Romans planted vines in Gaul.

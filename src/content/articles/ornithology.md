@@ -37,7 +37,7 @@ faq:
 
 # What Is Ornithology?
 
-Ornithology is the scientific study of birds — their biology, behavior, evolution, ecology, and conservation. It covers everything from the [biomechanics](/biomechanics) of hummingbird flight to the genetics of bird song, from the ecology of Arctic seabird colonies to the conservation of critically endangered parrots. With roughly 10,900 living species occupying every continent and nearly every habitat on Earth, birds offer one of the richest subjects for biological research.
+Ornithology is the scientific study of birds — their [biology](/biology), behavior, evolution, ecology, and conservation. It covers everything from the [biomechanics](/biomechanics) of hummingbird flight to the [genetics](/genetics) of bird song, from the ecology of Arctic seabird colonies to the conservation of critically endangered parrots. With roughly 10,900 living species occupying every continent and nearly every habitat on Earth, birds offer one of the richest subjects for biological research.
 
 ## Why Birds? The Scientific Case
 
@@ -53,7 +53,7 @@ Rachel Carson's *Silent Spring* (1962) — arguably the book that launched the m
 
 ## Anatomy and Physiology: Built for Flight
 
-The bodies of birds are [engineering](/engineering) marvels shaped by 150 million years of evolution. Understanding avian [anatomy](/anatomy) reveals how natural selection solved the physics problem of powered flight.
+The bodies of birds are [engineering](/engineering) marvels shaped by 150 million years of evolution. Understanding avian [anatomy](/anatomy) reveals how natural selection solved the [physics](/physics) problem of powered flight.
 
 ### The Skeleton
 
@@ -117,7 +117,7 @@ How birds work through remains partly mysterious. They use a magnetic compass (p
 
 The evolutionary history of birds is one of [evolutionary biology's](/evolutionary-biology) greatest success stories — both as a scientific narrative and as a biological achievement.
 
-Birds evolved from small theropod dinosaurs during the Jurassic period. Archaeopteryx, discovered in 1861, was the first recognized transitional fossil — a creature with feathered wings but also teeth, clawed fingers, and a bony tail. Since the 1990s, dozens of feathered dinosaur species have been discovered in China's Liaoning Province, filling in the evolutionary sequence from dinosaur to bird in extraordinary detail.
+Birds evolved from small theropod [dinosaurs](/dinosaurs) during the Jurassic period. Archaeopteryx, discovered in 1861, was the first recognized transitional fossil — a creature with feathered wings but also teeth, clawed fingers, and a bony tail. Since the 1990s, dozens of feathered dinosaur species have been discovered in China's Liaoning Province, filling in the evolutionary sequence from dinosaur to bird in extraordinary detail.
 
 The extinction event 66 million years ago that killed the non-avian dinosaurs spared only one lineage of theropods — the ancestors of modern birds. In the 10-15 million years following the extinction, birds underwent a spectacular adaptive radiation, diversifying into the roughly 40 modern orders we see today.
 
@@ -127,13 +127,13 @@ Molecular phylogenetics — using DNA sequences to reconstruct evolutionary rela
 
 Birds occupy virtually every ecological niche. Understanding their ecological roles reveals how ecosystems function.
 
-**Pollination**: Hummingbirds, sunbirds, and honeyeaters pollinate thousands of plant species. Some plants are entirely dependent on bird pollination — their flowers are precisely shaped to fit specific bird bills.
+**[Pollination](/pollination)**: Hummingbirds, sunbirds, and honeyeaters pollinate thousands of plant species. Some plants are entirely dependent on bird pollination — their flowers are precisely shaped to fit specific bird bills.
 
 **Seed dispersal**: Frugivorous birds (fruit-eaters) disperse seeds across vast distances. A single cassowary in Australian rainforest can carry seeds from over 200 plant species. Forest regeneration after disturbance often depends heavily on bird-mediated seed dispersal.
 
 **Pest control**: Insectivorous birds consume enormous quantities of insects. A study published in *Science* estimated that birds eat 400-500 million tons of insects annually. Barn owls nesting in agricultural areas each consume about 3,000 rodents per year, providing free pest control worth hundreds of dollars per nest to farmers.
 
-**Nutrient cycling**: Seabird colonies transfer nutrients from ocean to land through guano (droppings). This fertilization creates productive coastal ecosystems. Historically, guano was so valuable as fertilizer that nations fought wars over guano-rich islands — Peru's guano trade in the 19th century was a major source of national income.
+**Nutrient [cycling](/cycling)**: Seabird colonies transfer nutrients from ocean to land through guano (droppings). This fertilization creates productive coastal ecosystems. Historically, guano was so valuable as fertilizer that nations fought wars over guano-rich islands — Peru's guano [trade](/trade) in the 19th century was a major source of national income.
 
 **Scavenging**: Vultures consume animal carcasses, preventing disease spread. When vulture populations collapsed in South Asia due to diclofenac poisoning (a veterinary drug toxic to vultures), feral dog populations exploded, leading to an estimated 47,000 additional human deaths from rabies. Losing vultures didn't just affect vultures — it killed people.
 
@@ -141,7 +141,7 @@ Birds occupy virtually every ecological niche. Understanding their ecological ro
 
 About 1,400 bird species — roughly 13% of all species — are threatened with extinction. 223 species are critically endangered. At least 161 species have gone extinct since 1500, including iconic losses like the dodo, the passenger pigeon, and the Carolina parakeet.
 
-The threats are familiar: habitat destruction (especially tropical deforestation and wetland drainage), climate change (shifting ranges, phenological mismatches), invasive species (particularly rats and cats on islands — domestic and feral cats kill an estimated 1.3-4.0 billion birds annually in the United States alone), pesticide poisoning, and direct persecution.
+The threats are familiar: habitat destruction (especially tropical deforestation and wetland drainage), [climate change](/climate-change) (shifting ranges, phenological mismatches), invasive species (particularly rats and cats on islands — domestic and feral cats kill an estimated 1.3-4.0 billion birds annually in the United States alone), pesticide poisoning, and direct persecution.
 
 But there are success stories. The bald eagle, California condor, peregrine falcon, and Mauritius kestrel all recovered from near-extinction through intensive [conservation biology](/conservation-biology) efforts. The bald eagle's recovery from fewer than 500 breeding pairs in the 1960s to over 70,000 today is one of the most celebrated conservation victories in history, achieved primarily by banning DDT.
 
@@ -163,7 +163,7 @@ Today's ornithologists use technology that early naturalists couldn't have imagi
 
 ## Why Ornithology Matters
 
-Birds are among the best-studied organisms on Earth, and ornithological research has contributed disproportionately to our understanding of [ecology](/ecology), evolution, behavior, and conservation. Darwin's finches helped establish natural selection. Tinbergen's herring gulls helped found ethology. Island bird extinctions drove the development of conservation biology.
+Birds are among the best-studied organisms on Earth, and ornithological research has contributed disproportionately to our understanding of [ecology](/ecology), evolution, behavior, and conservation. Darwin's finches helped establish natural selection. Tinbergen's herring gulls helped found [ethology](/ethology). Island bird extinctions drove the development of conservation biology.
 
 On a personal level, birds are the most accessible wildlife for most people. You don't need expensive equipment or travel to remote locations. A pair of binoculars and a field guide open a window into the natural world that's available from backyards, parks, and local wetlands everywhere. There are an estimated 45 million birders in the United States alone, making [bird watching](/bird-watching) one of the most popular outdoor activities.
 
@@ -171,4 +171,4 @@ Ornithology bridges professional science and public engagement in a way few othe
 
 ## Key Takeaways
 
-Ornithology studies birds across every aspect of their biology — anatomy, physiology, behavior, evolution, ecology, and conservation. With roughly 10,900 species, birds are the most diverse group of land vertebrates and serve as critical indicator species for ecosystem health. Key findings include the dinosaurian origin of birds, the remarkable cognitive abilities of corvids and parrots, the multi-sensory navigation systems used in migration, and the essential ecological roles birds play in pollination, seed dispersal, and pest control. Modern ornithology combines field observation, genomics, satellite tracking, and citizen science to study and protect birds at scales ranging from individual neurons to global migration flyways.
+Ornithology studies birds across every aspect of their biology — anatomy, [physiology](/physiology), behavior, evolution, ecology, and conservation. With roughly 10,900 species, birds are the most diverse group of land vertebrates and serve as critical indicator species for ecosystem health. Key findings include the dinosaurian origin of birds, the remarkable cognitive abilities of corvids and parrots, the multi-sensory [navigation](/navigation) systems used in migration, and the essential ecological roles birds play in pollination, seed dispersal, and pest control. Modern ornithology combines field observation, genomics, satellite tracking, and citizen science to study and protect birds at scales ranging from individual neurons to global migration flyways.

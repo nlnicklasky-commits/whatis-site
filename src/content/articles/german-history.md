@@ -57,7 +57,7 @@ The [feudal](/feudalism) structure made genuine centralization nearly impossible
 
 ### The Reformation
 
-In 1517, a German monk named Martin Luther nailed 95 theses to the door of a church in Wittenberg, challenging the Catholic Church's sale of indulgences. Whether or not the door-nailing actually happened (historians debate this), the effect was explosive.
+In 1517, a German monk named Martin Luther nailed 95 theses to the door of a church in Wittenberg, challenging the Catholic Church's sale of indulgences. Whether or not the door-nailing actually happened (historians [debate](/debate) this), the effect was explosive.
 
 Luther's theological revolt quickly became political. German princes who resented papal authority and coveted Church property rallied to the Protestant cause. The result was over a century of religious conflict, culminating in the catastrophic [Thirty Years' War](/thirty-years-war) (1618-1648).
 
@@ -75,7 +75,7 @@ On January 18, 1871, in the Hall of Mirrors at Versailles, the German Empire was
 
 ## The German Empire (1871-1918)
 
-United Germany rapidly became Europe's most powerful state. Its industrial output surpassed Britain's by 1900. Its population grew from 41 million in 1871 to 65 million by 1914. Its army was the continent's strongest. Its universities and scientific institutions were the world's finest — German was the international language of science, and German scholars dominated [physics](/classical-mechanics), chemistry, philosophy, and medicine.
+United Germany rapidly became Europe's most powerful state. Its industrial output surpassed Britain's by 1900. Its population grew from 41 million in 1871 to 65 million by 1914. Its army was the continent's strongest. Its universities and scientific institutions were the world's finest — German was the international language of science, and German scholars dominated [physics](/classical-mechanics), [chemistry](/chemistry), [philosophy](/philosophy), and medicine.
 
 But the new empire had structural problems. Bismarck's constitution gave enormous power to the military and the Kaiser while limiting parliamentary democracy. The army answered to the emperor, not the legislature. This meant that when Kaiser Wilhelm II dismissed Bismarck in 1890 and pursued an aggressive [foreign policy](/foreign-policy) — building a navy to challenge Britain, demanding colonies, alienating potential allies — there were few institutional checks on his recklessness.
 
@@ -95,7 +95,7 @@ The victorious Allies divided Germany into four occupation zones. The Western zo
 
 Berlin, located deep inside East Germany, was similarly divided. When East Germans began fleeing to the West in large numbers — roughly 3.5 million between 1945 and 1961 — the East German government built the Berlin Wall on August 13, 1961. The Wall became the Cold War's most potent symbol: a concrete scar through a city, dividing families and friends literally overnight.
 
-West Germany's postwar recovery — the *Wirtschaftswunder* or economic miracle — was remarkable. From rubble in 1945, West Germany became the world's third-largest economy by the 1960s. The Marshall Plan provided initial capital (about $1.4 billion), but the real drivers were currency reform, free-market policies under Economics Minister Ludwig Erhard, and the energy of a population determined to rebuild.
+West Germany's postwar recovery — the *Wirtschaftswunder* or economic miracle — was remarkable. From rubble in 1945, West Germany became the world's third-largest economy by the 1960s. The Marshall Plan provided initial capital (about $1.4 billion), but the real drivers were currency reform, free-market policies under [Economics](/economics) Minister Ludwig Erhard, and the energy of a population determined to rebuild.
 
 East Germany's trajectory was different. Under Soviet-style central planning, it became the most economically successful state in the Eastern Bloc — but that's relative. Living standards remained far below West Germany's, political freedom was nonexistent, and the Stasi (secret police) maintained one of the most extensive surveillance systems in history, employing roughly one informer for every 63 citizens.
 
@@ -107,10 +107,10 @@ Formal reunification came on October 3, 1990. The process was faster than almost
 
 Today, Germany is Europe's most populous country (84 million people) and its largest economy (GDP of roughly $4.5 trillion). It anchors the European Union, plays a central role in NATO, and has spent decades building a reputation for multilateralism and restraint in foreign policy — a deliberate contrast to its earlier history.
 
-The relationship between modern Germany and its past is unique among nations. The German concept of *Vergangenheitsbewältigung* — "coming to terms with the past" — describes an ongoing national process of confronting the Nazi era through education, memorials, legal accountability, and public discourse. No other country has undertaken this kind of systematic historical reckoning on such a scale.
+The relationship between modern Germany and its past is unique among nations. The German concept of *Vergangenheitsbewältigung* — "coming to terms with the past" — describes an ongoing national process of confronting the Nazi era through [education](/education), memorials, legal accountability, and public discourse. No other country has undertaken this kind of systematic historical reckoning on such a scale.
 
 ## Why German History Matters
 
 German history matters because it sits at the crossroads of nearly every major theme in European and world history: the tension between fragmentation and unity, the relationship between economic power and political stability, the dangers of nationalism and the challenges of democracy, and the question of how a society confronts its own worst chapters.
 
-Understanding Germany — its geography, its cultural diversity, its political evolution, its catastrophes and recoveries — is essential to understanding [modern Europe](/capitalism) and, by extension, the modern world.
+Understanding Germany — its [geography](/geography), its cultural diversity, its political evolution, its catastrophes and recoveries — is essential to understanding [modern Europe](/capitalism) and, by extension, the modern world.

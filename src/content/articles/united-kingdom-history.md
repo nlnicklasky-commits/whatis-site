@@ -49,7 +49,7 @@ The Vikings showed up in 793, when Norse raiders sacked the monastery at Lindisf
 
 The most famous date in [English history](/english-history). On October 14, 1066, William, Duke of Normandy, defeated King Harold II at the Battle of Hastings. Harold took an arrow in the eye (probably — the evidence is debated), and England got a new ruling class.
 
-The Norman Conquest was total. William replaced nearly the entire Anglo-Saxon aristocracy with Norman lords. He commissioned the Domesday Book in 1086 — a detailed survey of English land and property that's still consulted today. The Normans built stone castles everywhere — the Tower of London, started in 1066, is the most famous. They introduced [feudalism](/feudalism) in its fullest form and established French as the language of the court. For centuries afterward, English law, politics, and high culture were French-flavored.
+The Norman Conquest was total. William replaced nearly the entire Anglo-Saxon aristocracy with Norman lords. He commissioned the Domesday Book in 1086 — a detailed survey of English land and property that's still consulted today. The Normans built stone castles everywhere — the Tower of London, started in 1066, is the most famous. They introduced [feudalism](/feudalism) in its fullest form and established French as the language of the court. For centuries afterward, English law, [politics](/politics), and high culture were French-flavored.
 
 The consequences echoed for generations. The [English language](/english-language) itself is a product of the conquest — a Germanic base (Anglo-Saxon) layered with thousands of French and Latin words. That's why English has pairs like "cow" (Anglo-Saxon, the animal in the field) and "beef" (French, the meat on the table). The people who tended the animals spoke English; the people who ate the meat spoke French.
 
@@ -59,7 +59,7 @@ In 1215, a group of rebellious barons forced King John to sign the Magna Carta a
 
 Parliament evolved gradually from these roots. Edward I summoned the "Model Parliament" in 1295, which included representatives of the common people (not just lords and bishops) for the first time. Over the following centuries, Parliament's power grew, especially the House of Commons. By the 1600s, the question of whether the king or Parliament held supreme authority was tearing the country apart.
 
-The English Civil War (1642-1651) settled it — temporarily, at least. King Charles I, who believed in divine right and had tried to rule without Parliament for 11 years, was defeated by Parliamentary forces led by Oliver Cromwell. Charles was tried for treason and executed on January 30, 1649 — a shock that reverberated across Europe. England became a republic (the Commonwealth) under Cromwell, but the experiment ended after Cromwell's death. The monarchy was restored in 1660 under Charles II.
+The English Civil War (1642-1651) settled it — temporarily, at least. King Charles I, who believed in divine right and had tried to rule without Parliament for 11 years, was defeated by Parliamentary forces led by Oliver Cromwell. Charles was tried for treason and executed on January 30, 1649 — a shock that reverberated across Europe. England became a republic (the Commonwealth) under Cromwell, but the experiment ended after Cromwell's death. The [monarchy](/monarchy) was restored in 1660 under Charles II.
 
 The Glorious Revolution of 1688 was the more lasting settlement. Parliament invited William of Orange to replace the Catholic James II, and the resulting Bill of Rights (1689) established that the monarch could not suspend laws, levy taxes, or maintain a standing army without Parliamentary consent. Britain became a constitutional monarchy. The monarch reigned; Parliament ruled.
 
@@ -69,9 +69,9 @@ Britain's global expansion started modestly. England established its first perma
 
 The loss of the American colonies in 1783 was a setback, but the British Empire was just getting started. Victory in the [Napoleonic Wars](/napoleonic-wars) (1815) left Britain as the world's dominant naval and commercial power. The Victorian era (1837-1901) saw the empire reach its maximum extent. By the 1920s, it covered roughly a quarter of the world's land surface and governed about 458 million people.
 
-The empire was built on naval superiority, industrial capacity, financial power, and — let's be honest — violence. The conquest of India involved decades of warfare and manipulation. The colonization of Africa in the late 19th century was achieved through military force, including the devastating suppression of resistance movements. The transatlantic slave trade, in which Britain was a major participant until abolition in 1807 (slavery in the empire was abolished in 1833), forcibly transported an estimated 3.1 million Africans on British ships.
+The empire was built on naval superiority, industrial capacity, financial power, and — let's be honest — violence. The conquest of India involved decades of warfare and manipulation. The colonization of Africa in the late 19th century was achieved through military force, including the devastating suppression of resistance movements. The transatlantic slave [trade](/trade), in which Britain was a major participant until abolition in 1807 (slavery in the empire was abolished in 1833), forcibly transported an estimated 3.1 million Africans on British ships.
 
-How you evaluate the empire depends a lot on where you sit. British defenders point to the spread of the English language, parliamentary institutions, railways, and the common law. Critics point to exploitation, extraction, famine (the Bengal famine of 1943 killed roughly 3 million), cultural destruction, and the lasting economic damage to colonized nations. Both perspectives hold truth, and the debate is far from settled.
+How you evaluate the empire depends a lot on where you sit. British defenders point to the spread of the English language, parliamentary institutions, railways, and the common law. Critics point to exploitation, extraction, famine (the Bengal famine of 1943 killed roughly 3 million), cultural destruction, and the lasting economic damage to colonized nations. Both perspectives hold truth, and the [debate](/debate) is far from settled.
 
 ## Industrial Revolution: Britain Changes the World
 
@@ -93,9 +93,9 @@ Decolonization followed rapidly. India and Pakistan gained independence in 1947.
 
 ## Modern Britain: From Welfare State to Brexit
 
-Post-war Britain built a welfare state. The National Health Service, founded in 1948, provided free healthcare at the point of use. The [Education](/education) Act of 1944 guaranteed free secondary education. Council housing, unemployment insurance, and old-age pensions created a social safety net that previous generations couldn't have imagined.
+Post-war Britain built a welfare state. The National Health Service, founded in 1948, provided free healthcare at the point of use. The [Education](/education) Act of 1944 guaranteed free secondary education. Council housing, unemployment [insurance](/insurance), and old-age pensions created a social safety net that previous generations couldn't have imagined.
 
-Margaret Thatcher's [government](/government) (1979-1990) reversed much of the post-war consensus — privatizing state industries, breaking union power, deregulating finance. Tony Blair's "New Labour" (1997-2007) maintained much of Thatcher's economic framework while investing more in public services.
+Margaret Thatcher's [government](/government) (1979-1990) reversed much of the post-war consensus — privatizing state industries, breaking union power, deregulating [finance](/finance). Tony Blair's "New Labour" (1997-2007) maintained much of Thatcher's economic framework while investing more in public services.
 
 The most disruptive event of recent [British history](/british-history) was Brexit. On June 23, 2016, 51.9% of voters chose to leave the European Union, which Britain had joined in 1973. The decision exposed deep divisions — between England and Scotland, between cities and rural areas, between the young and the old. Britain formally left the EU on January 31, 2020. The full consequences are still unfolding.
 

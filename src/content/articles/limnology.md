@@ -37,7 +37,7 @@ faq:
 
 Limnology is the scientific study of inland waters—lakes, ponds, rivers, streams, wetlands, and reservoirs. The word comes from the Greek *limne* (lake) and *logos* (study), but the field extends well beyond lakes to encompass virtually every body of fresh (and sometimes brackish) water that isn't an ocean.
 
-If that sounds niche, consider this: every glass of water you drink, every fish you eat from a river, every decision about dam [construction](/construction), irrigation, flood control, and pollution regulation depends on understanding how freshwater systems work. Limnology is the science behind the water that keeps you alive.
+If that sounds niche, consider this: every glass of water you drink, every fish you eat from a river, every decision about dam [construction](/construction), [irrigation](/irrigation), flood control, and pollution regulation depends on understanding how freshwater systems work. Limnology is the science behind the water that keeps you alive.
 
 ## Why Freshwater Matters Disproportionately
 
@@ -45,11 +45,11 @@ Here's a number that should make you pay attention: freshwater ecosystems cover 
 
 They're also the most threatened. The WWF's Living Planet Index reports an 83% decline in freshwater vertebrate populations since 1970—more than double the decline seen in marine or terrestrial ecosystems. We're losing freshwater biodiversity faster than we're losing anything else on Earth.
 
-And then there's the human dimension. Over 2 billion people live in countries experiencing high water stress. Agriculture consumes about 70% of global freshwater withdrawals. Climate change is altering precipitation patterns, melting glaciers that feed rivers, and intensifying both droughts and floods. Understanding freshwater systems isn't academic—it's existential.
+And then there's the human dimension. Over 2 billion people live in countries experiencing high water stress. [Agriculture](/agriculture) consumes about 70% of global freshwater withdrawals. [Climate change](/climate-change) is altering precipitation patterns, melting glaciers that feed rivers, and intensifying both droughts and floods. Understanding freshwater systems isn't academic—it's existential.
 
 ## The Founder: Francois-Alphonse Forel
 
-Limnology as a formal science began with Francois-Alphonse Forel, a Swiss physician who spent decades studying Lake Geneva (Lac Leman). His three-volume *Le Leman* (1892-1904) was the first thorough scientific study of a lake—covering its physics, chemistry, [biology](/biology), geology, and climate connections.
+Limnology as a formal science began with Francois-Alphonse Forel, a Swiss physician who spent decades studying Lake Geneva (Lac Leman). His three-volume *Le Leman* (1892-1904) was the first thorough scientific study of a lake—covering its [physics](/physics), chemistry, [biology](/biology), [geology](/geology), and climate connections.
 
 Forel coined the term "limnology" and established the principle that lakes are integrated systems—you can't understand the fish without understanding the water chemistry, which depends on the surrounding geology, which is influenced by climate, which affects the watershed, which feeds the lake. Everything connects.
 
@@ -83,7 +83,7 @@ Deep lakes that rarely or never mix completely can develop permanently anoxic (o
 
 Because water is densest at 4°C (not at 0°C), ice forms on the surface and floats. This is extraordinary—in most substances, the solid form is denser than the liquid. If ice sank, lakes would freeze from the bottom up, killing aquatic life and potentially freezing solid. Instead, ice insulates the water below, maintaining liquid habitat through winter.
 
-Ice cover is declining worldwide due to climate change. Between 1980 and 2020, ice-covered days decreased by an average of 12 days per century across Northern Hemisphere lakes. Some lakes that historically froze every winter no longer freeze at all. This affects everything from winter [ecology](/ecology) to ice fishing to lake mixing patterns.
+Ice cover is declining worldwide due to climate change. Between 1980 and 2020, ice-covered days decreased by an average of 12 days per century across Northern Hemisphere lakes. Some lakes that historically froze every winter no longer freeze at all. This affects everything from winter [ecology](/ecology) to ice [fishing](/fishing) to lake mixing patterns.
 
 ## Lake Chemistry: What's in the Water
 
@@ -137,7 +137,7 @@ The RCC was influential but oversimplified. Real rivers are interrupted by dams,
 
 ### Dams and River Fragmentation
 
-Dams are the single greatest human alteration to river systems. There are roughly 60,000 large dams worldwide (over 15 meters tall) and millions of smaller ones. They convert free-flowing rivers into chains of reservoirs, fundamentally altering hydrology, sediment transport, temperature regimes, water [chemistry](/chemistry), and biological connectivity.
+Dams are the single greatest human alteration to river systems. There are roughly 60,000 large dams worldwide (over 15 meters tall) and millions of smaller ones. They convert free-flowing rivers into chains of reservoirs, fundamentally altering [hydrology](/hydrology), sediment transport, temperature regimes, water [chemistry](/chemistry), and biological connectivity.
 
 Salmon populations illustrate the impact. Pacific salmon must migrate from the ocean up rivers to spawn. Dams block this migration—even with fish ladders, which are only partially effective. Columbia River salmon runs declined from an estimated 10-16 million fish annually before European settlement to less than 1 million by the late 20th century. Four Snake River dams are at the center of one of the most contentious environmental debates in the American West.
 
@@ -151,7 +151,7 @@ Wetlands—marshes, swamps, bogs, fens—occupy the boundary between terrestrial
 
 **Flood control**: Wetlands absorb floodwater like sponges, reducing peak flows and downstream flood damage. The loss of wetlands along the Mississippi River system has contributed to increased flooding severity—the 2019 floods caused $20 billion in damage partly because floodplain wetlands that once absorbed excess water had been drained for agriculture.
 
-**Carbon storage**: Peatlands—wetlands where dead plant material accumulates as peat—store roughly twice as much carbon as all the world's forests combined, despite covering only 3% of Earth's land surface. When peatlands are drained (for agriculture, forestry, or peat extraction), this stored carbon oxidizes and enters the atmosphere as CO2, making peatland destruction a significant source of greenhouse gas emissions.
+**Carbon storage**: Peatlands—wetlands where dead plant material accumulates as peat—store roughly twice as much carbon as all the world's forests combined, despite covering only 3% of Earth's land surface. When peatlands are drained (for agriculture, [forestry](/forestry), or peat extraction), this stored carbon oxidizes and enters the atmosphere as CO2, making peatland destruction a significant source of greenhouse gas emissions.
 
 **Biodiversity**: Wetlands support an outsized share of freshwater biodiversity. Many fish species depend on seasonal floodplain wetlands for spawning. Waterfowl depend on prairie potholes for breeding. Amphibians depend on vernal pools for reproduction.
 
@@ -169,7 +169,7 @@ Bathymetric mapping (measuring lake depth) uses sonar, similar to how oceanograp
 
 Water samples are analyzed for nutrients (nitrogen, phosphorus), dissolved oxygen, pH, alkalinity, dissolved organic carbon, major ions, trace metals, and hundreds of potential pollutants. Modern analytical instruments can detect contaminants at parts-per-trillion concentrations.
 
-Sediment cores—cylinders of lake-bottom mud extracted with specialized tubes—serve as archives of a lake's history. Layers of sediment accumulate over centuries, trapping pollen, diatom shells, charcoal particles, heavy metals, and other markers of environmental conditions. Reading a sediment core is like reading tree rings—each layer tells a story about what was happening in the lake and its watershed at a specific time.
+Sediment cores—cylinders of lake-bottom mud extracted with specialized tubes—serve as archives of a lake's history. Layers of sediment accumulate over centuries, [trapping](/trapping) pollen, diatom shells, charcoal particles, heavy metals, and other markers of environmental conditions. Reading a sediment core is like reading tree rings—each layer tells a story about what was happening in the lake and its watershed at a specific time.
 
 This field, called paleolimnology, has revealed how lakes responded to past climate changes, human settlement, deforestation, and industrialization. It provides the long-term context essential for understanding current conditions and predicting future changes.
 
@@ -187,7 +187,7 @@ Freshwater ecosystems are particularly vulnerable to invasive species because th
 
 **Zebra mussels** (*Dreissena polymorpha*), introduced to the Great Lakes via ballast water from European cargo ships around 1988, transformed lake ecosystems. They filter vast quantities of water, dramatically increasing water clarity but starving native plankton communities. They colonize and clog water intake pipes, costing billions in infrastructure damage. They've spread to hundreds of waterways across North America with no effective control.
 
-**Asian carp** (bighead and silver carp), originally imported for aquaculture in the 1970s, escaped into the Mississippi River system and now dominate stretches of major rivers. Silver carp leap from the water when disturbed by boat motors—a spectacle that injures boaters and is all over the internet. Their potential invasion of the Great Lakes is considered one of the most significant environmental threats to the region.
+**Asian carp** (bighead and silver carp), originally imported for [aquaculture](/aquaculture) in the 1970s, escaped into the Mississippi River system and now dominate stretches of major rivers. Silver carp leap from the water when disturbed by boat motors—a spectacle that injures boaters and is all over the internet. Their potential invasion of the Great Lakes is considered one of the most significant environmental threats to the region.
 
 **Eurasian watermilfoil**, **didymo** ("rock snot"), and hundreds of other invasive species are reshaping freshwater ecosystems worldwide. Once established, most freshwater invasives are virtually impossible to eradicate.
 

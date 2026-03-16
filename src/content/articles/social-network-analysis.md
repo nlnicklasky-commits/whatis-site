@@ -49,7 +49,7 @@ This is the fundamental claim of social network analysis: structure matters. *Wh
 
 ## The Building Blocks: Nodes, Edges, and Graphs
 
-Social network analysis borrows its mathematical foundation from [graph theory](/graph-theory), a branch of mathematics developed by Leonhard Euler in 1736 when he proved you couldn't walk across all seven bridges of Konigsberg exactly once. The vocabulary is straightforward.
+Social network analysis borrows its mathematical foundation from [graph theory](/graph-theory), a branch of [mathematics](/mathematics) developed by Leonhard Euler in 1736 when he proved you couldn't walk across all seven bridges of Konigsberg exactly once. The vocabulary is straightforward.
 
 ### Nodes (Vertices)
 
@@ -91,7 +91,7 @@ The concept was formalized by sociologist Linton Freeman in 1977, and it capture
 
 How quickly can a node reach everyone else in the network? Closeness centrality measures the average shortest path from a node to all other nodes. High closeness means you're close to everyone — information reaches you quickly, and your influence spreads efficiently.
 
-In a public health context, a person with high closeness centrality in a contact network would be among the first to catch — and spread — a contagious disease. This insight has practical implications for vaccination strategies.
+In a [public health](/public-health) context, a person with high closeness centrality in a contact network would be among the first to catch — and spread — a contagious disease. This insight has practical implications for vaccination strategies.
 
 ### Eigenvector Centrality and PageRank
 
@@ -111,7 +111,7 @@ What fraction of all possible connections actually exist? In a network of 100 pe
 
 ## A Brief History of the Field
 
-Social network analysis didn't emerge from a single discipline. It grew from the convergence of sociology, anthropology, mathematics, and — eventually — computer science.
+Social network analysis didn't emerge from a single discipline. It grew from the convergence of [sociology](/sociology), [anthropology](/anthropology), mathematics, and — eventually — computer science.
 
 ### The Sociometry Era (1930s-1950s)
 
@@ -171,7 +171,7 @@ Cross-boundary connector analysis identifies employees who bridge departments an
 
 ### Marketing and Influence
 
-Influencer identification is essentially [network analysis](/data-analysis) applied to marketing. Instead of targeting the largest audience, network-aware marketing targets the most structurally influential people — those whose adoption of a product will cascade through their network.
+Influencer identification is essentially [network analysis](/data-analysis) applied to [marketing](/marketing). Instead of targeting the largest audience, network-aware marketing targets the most structurally influential people — those whose adoption of a product will cascade through their network.
 
 The "two-step flow" model (information flows from media to opinion leaders to the broader public) was proposed by Paul Lazarsfeld in the 1940s. Modern SNA has refined this into multi-step models that account for network topology, tie strength, and community structure.
 
@@ -185,7 +185,7 @@ Studies of Twitter networks during political events have revealed sharp polariza
 
 SNA raises significant privacy and ethical concerns. Mapping someone's social network reveals intimate details about their life — who they associate with, how central they are, whether they're isolated or well-connected.
 
-The 2014 Facebook "emotional contagion" study — where researchers manipulated users' news feeds to test whether emotional content spread through networks — provoked widespread outrage because participants didn't give informed consent. Government surveillance programs that collect "metadata" (who called whom, when, and for how long) are performing social network analysis on entire populations.
+The 2014 Facebook "emotional contagion" study — where researchers manipulated users' news feeds to test whether emotional content spread through networks — provoked widespread outrage because participants didn't give informed consent. [Government](/government) surveillance programs that collect "metadata" (who called whom, when, and for how long) are performing social network analysis on entire populations.
 
 Researchers working with network data face a particularly tricky anonymization problem: even if you remove names, the structure of someone's connections can be unique enough to identify them. De-anonymizing network data has been demonstrated repeatedly by [computer security](/computer-security) researchers.
 
@@ -209,8 +209,8 @@ If you want to conduct your own SNA, here's the basic workflow.
 
 Network science — the broader interdisciplinary field that grew from SNA, physics, biology, and [computer science](/computer-science) — is expanding rapidly.
 
-Temporal network analysis studies how networks change over time, not just their static structure. Multilayer network analysis handles the reality that people are connected through multiple types of relationships simultaneously (friendship, work, family, online). Network neuroscience applies graph theory to brain connectivity data, mapping how regions of the brain communicate.
+Temporal network analysis studies how networks change over time, not just their static structure. Multilayer network analysis handles the reality that people are connected through multiple types of relationships simultaneously (friendship, work, family, online). Network [neuroscience](/neuroscience) applies graph theory to brain connectivity data, mapping how regions of the brain communicate.
 
-Machine learning on graphs — using [deep learning](/deep-learning) techniques adapted for network data — is one of the hottest areas in [data science](/data-science) right now. Graph neural networks can predict missing links, classify nodes, and detect communities in ways that traditional SNA metrics cannot.
+Machine learning on graphs — using [deep learning](/deep-learning) techniques adapted for network data — is one of the hottest areas in [data science](/data-science) right now. Graph [neural networks](/neural-networks) can predict missing links, classify nodes, and detect communities in ways that traditional SNA metrics cannot.
 
 The fundamental insight remains the same one Jacob Moreno had in the 1930s: relationships matter. Where you sit in a web of connections shapes what you know, what you can do, and who you become. Social network analysis just gives you the tools to see it clearly.

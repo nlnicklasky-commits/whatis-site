@@ -35,7 +35,7 @@ faq:
 
 # What Is Environmental Law?
 
-Environmental law is the collection of statutes, regulations, treaties, and legal principles that govern how humans interact with the natural environment. It covers everything from the air you breathe and the water you drink to endangered species, hazardous waste, and climate change.
+Environmental law is the collection of statutes, regulations, treaties, and legal principles that govern how humans interact with the natural environment. It covers everything from the air you breathe and the water you drink to endangered species, hazardous waste, and [climate change](/climate-change).
 
 ## Why Environmental Law Exists
 

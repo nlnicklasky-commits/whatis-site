@@ -72,7 +72,7 @@ The great jurists of the imperial era produced staggering amounts of [legal writ
 
 Some of their ideas are worth pausing on:
 
-**Legal persons.** Roman jurists developed the concept that organizations — not just individual humans — could have legal rights and obligations. Municipalities, religious colleges, and trade associations could own property, enter contracts, and sue. This concept eventually became the modern corporation.
+**Legal persons.** Roman jurists developed the concept that organizations — not just individual humans — could have legal rights and obligations. Municipalities, religious colleges, and [trade](/trade) associations could own property, enter contracts, and sue. This concept eventually became the modern corporation.
 
 **Obligations and contracts.** The Romans identified four sources of legal obligations: contracts, quasi-contracts, delicts (wrongs), and quasi-delicts. They classified contracts into categories based on how they formed — by agreement, by delivery of a thing, by words, or by writing. If you've taken a contracts class in law school, this framework will look very familiar.
 

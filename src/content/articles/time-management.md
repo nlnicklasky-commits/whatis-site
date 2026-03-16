@@ -31,7 +31,7 @@ faq:
 
 # What Is Time Management?
 
-Time management is the process of planning and controlling how you spend your time to accomplish what matters most to you. It's the set of principles, practices, and tools that help you use your limited hours more effectively — doing more of what's important and less of what isn't.
+Time [management](/management) is the process of planning and controlling how you spend your time to accomplish what matters most to you. It's the set of principles, practices, and tools that help you use your limited hours more effectively — doing more of what's important and less of what isn't.
 
 Here's the uncomfortable truth about time management: you can't actually manage time. It passes at the same rate regardless of what you do. What you can manage is yourself — your attention, your decisions, your energy, and your priorities. The phrase "time management" is really a [shorthand](/shorthand) for "self-management within the constraints of time."
 

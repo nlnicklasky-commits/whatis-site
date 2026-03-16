@@ -45,7 +45,7 @@ If you've ever wondered when you'd actually use the math you learned in school, 
 
 The core idea is beautifully simple. In a right triangle (a triangle with one 90-degree angle), the ratios between the sides are completely determined by the other angles. If you know one angle and one side, you can calculate everything else. That's it. That's the whole foundation of trigonometry.
 
-But from that simple foundation, an extraordinary amount of science and engineering follows. When an architect designs a roof pitch, they're using trigonometry. When a GPS satellite determines your position, the calculation runs through trigonometric functions. When your phone displays a 3D game, the graphics engine performs millions of trigonometric calculations per second. When a doctor looks at your CT scan, the image was reconstructed using trigonometric principles.
+But from that simple foundation, an extraordinary amount of science and [engineering](/engineering) follows. When an architect designs a roof pitch, they're using trigonometry. When a GPS satellite determines your position, the calculation runs through trigonometric functions. When your phone displays a 3D game, the graphics engine performs millions of trigonometric calculations per second. When a doctor looks at your CT scan, the image was reconstructed using trigonometric principles.
 
 ## The Origin Story: Measuring the Unmeasurable
 
@@ -61,7 +61,7 @@ Ptolemy, working in Alexandria around 150 CE, extended Hipparchus's work in his 
 
 ### Indian Mathematicians Create Sine and Cosine
 
-The transition from chord-based trigonometry to the sine function happened in India. Around 500 CE, the mathematician Aryabhata defined the "half-chord" (ardha-jya in Sanskrit, later shortened to jya) — what we now call the sine function. This was a significant conceptual shift: instead of working with the full chord of a circle, Indian mathematicians worked with half the chord, which simplified calculations considerably.
+The transition from chord-based trigonometry to the sine function happened in India. Around 500 CE, the mathematician Aryabhata defined the "half-chord" (ardha-jya in [Sanskrit](/sanskrit), later shortened to jya) — what we now call the sine function. This was a significant conceptual shift: instead of working with the full chord of a circle, Indian mathematicians worked with half the chord, which simplified calculations considerably.
 
 The cosine function (kotijya) followed naturally. Indian mathematicians also developed remarkably accurate approximations for these functions — Madhava of Sangamagrama (c. 1350-1425) discovered the infinite series expansions for sine and cosine about 250 years before European mathematicians did the same.
 
@@ -161,7 +161,7 @@ A right angle = pi/2 radians (approximately 1.571 radians)
 
 Why do mathematicians and physicists prefer radians? Because the [calculus](/calculus) of trigonometric functions works cleanly only in radians. The derivative of sin(x) is cos(x) — but only if x is in radians. In degrees, the derivative of sin(x degrees) is (pi/180) cos(x degrees), which is ugly and inconvenient. Radians eliminate the conversion factor.
 
-This isn't just an aesthetic preference. In physics, angular velocity is measured in radians per second, not degrees per second, because the formulas for circular motion, wave propagation, and rotational dynamics all assume radians. Getting the units wrong means getting the physics wrong.
+This isn't just an aesthetic preference. In [physics](/physics), angular velocity is measured in radians per second, not degrees per second, because the formulas for circular motion, wave propagation, and rotational dynamics all assume radians. Getting the units wrong means getting the physics wrong.
 
 ## Where Trigonometry Shows Up in Real Life
 
@@ -173,9 +173,9 @@ When an engineer designs a bridge truss, each member carries either tension or c
 
 ### Navigation and GPS
 
-Before GPS, maritime navigation depended almost entirely on trigonometry. Celestial navigation — determining position by measuring the angles between the horizon and celestial bodies — is applied spherical trigonometry. A sextant measures the angle; trigonometric calculations convert it to latitude and longitude.
+Before GPS, maritime [navigation](/navigation) depended almost entirely on trigonometry. Celestial navigation — determining position by measuring the angles between the horizon and celestial bodies — is applied spherical trigonometry. A sextant measures the angle; trigonometric calculations convert it to latitude and longitude.
 
-GPS is still trigonometry, just faster. Each GPS satellite broadcasts its position and a time signal. Your receiver calculates the distance to each satellite (from the time delay) and uses trilateration — a process closely related to triangulation — to determine your position. The math involves solving systems of equations built on the geometry of spheres, with trigonometric functions throughout.
+GPS is still trigonometry, just faster. Each GPS satellite broadcasts its position and a time signal. Your receiver calculates the distance to each satellite (from the time delay) and uses trilateration — a process closely related to triangulation — to determine your position. The math involves solving systems of equations built on the [geometry](/geometry) of spheres, with trigonometric functions throughout.
 
 ### Waves and Oscillations
 
@@ -183,11 +183,11 @@ This might be the most important application of all. Any periodic phenomenon —
 
 A pure tone at 440 Hz (the note A above middle C) is a pressure wave described by a sine function with a period of 1/440 seconds. A complex sound — a voice, a violin, a car engine — is a combination of sine waves at different frequencies and amplitudes. The mathematical tool for breaking complex signals into their component sine waves is the Fourier transform, named after Joseph Fourier, who showed in 1822 that any periodic function can be expressed as a sum of sines and cosines.
 
-This principle — called Fourier analysis — is used in [music production](/music-production), image compression (JPEG), [signal processing](/signal-processing), medical imaging (MRI and CT scans), telecommunications, and virtually every area of modern technology. Your phone's ability to compress photos, play music, and transmit your voice all depend on trigonometric decomposition of signals.
+This principle — called Fourier analysis — is used in [music production](/music-production), image compression (JPEG), [signal processing](/signal-processing), [medical imaging](/medical-imaging) (MRI and CT scans), telecommunications, and virtually every area of modern technology. Your phone's ability to compress photos, play music, and transmit your voice all depend on trigonometric decomposition of signals.
 
 ### Computer Graphics
 
-Every 3D game, animation, and CAD program runs on trigonometry. Rotating objects in 3D space uses rotation matrices built from sine and cosine values. Projecting 3D scenes onto a 2D screen requires trigonometric calculations for perspective. Lighting calculations use the cosine of the angle between a surface and a light source (Lambert's cosine law) to determine brightness.
+Every 3D game, [animation](/animation), and CAD program runs on trigonometry. Rotating objects in 3D space uses rotation matrices built from sine and cosine values. Projecting 3D scenes onto a 2D screen requires trigonometric calculations for perspective. Lighting calculations use the cosine of the angle between a surface and a light source (Lambert's cosine law) to determine brightness.
 
 A modern GPU performs billions of trigonometric operations per second. The sine and cosine functions are so important to graphics that GPUs have dedicated hardware circuits for calculating them — it's faster to build specialized silicon than to compute them in software.
 
@@ -199,7 +199,7 @@ Surveyors have used trigonometry since ancient Egypt, and modern [cartography](/
 
 ### Euler's Formula
 
-Euler's formula — e to the power (i times theta) equals cos(theta) plus i times sin(theta) — connects trigonometry to complex numbers and exponential functions. It's been called the most beautiful equation in mathematics. The special case where theta equals pi gives Euler's identity: e to the power (i times pi) plus 1 equals 0, linking five fundamental mathematical constants in a single equation.
+Euler's formula — e to the power (i times theta) equals cos(theta) plus i times sin(theta) — connects trigonometry to complex numbers and exponential functions. It's been called the most beautiful equation in [mathematics](/mathematics). The special case where theta equals pi gives Euler's identity: e to the power (i times pi) plus 1 equals 0, linking five fundamental mathematical constants in a single equation.
 
 This isn't just beautiful — it's practical. Euler's formula simplifies the analysis of alternating current circuits, [quantum mechanics](/quantum-mechanics), signal processing, and control systems. Electrical engineers use it daily.
 

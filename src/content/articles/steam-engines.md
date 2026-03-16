@@ -103,7 +103,7 @@ This was the breakthrough that made mobile steam power possible. High-pressure e
 
 George Stephenson refined Trevithick's concepts and built the *Rocket* in 1829, which won the Rainhill Trials — a competition to select the engine for the Liverpool and Manchester Railway, the world's first inter-city passenger railway (opened 1830). Within two decades, railway mania had swept Britain, then Europe, then the world.
 
-Steam also went to sea. Robert Fulton's *Clermont* demonstrated commercially viable steamboat service on the Hudson River in 1807. By the mid-19th century, steamships were crossing the Atlantic regularly, reducing the journey from weeks to days. The shift from sail to steam transformed global trade, naval warfare, and migration patterns.
+Steam also went to sea. Robert Fulton's *Clermont* demonstrated commercially viable steamboat service on the Hudson River in 1807. By the mid-19th century, steamships were crossing the Atlantic regularly, reducing the journey from weeks to days. The shift from sail to steam transformed global [trade](/trade), naval warfare, and migration patterns.
 
 ## Powering the Industrial Revolution
 

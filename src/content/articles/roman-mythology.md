@@ -40,7 +40,7 @@ If you know the days of the week or the planets in our solar system, you already
 
 Here's something that surprises most people: early Roman [religion](/religion) didn't really have mythology. Not in the way we think of it.
 
-The earliest Romans — we're talking 8th century BCE and before — worshipped *numina*, vague divine forces or spirits associated with specific places, activities, and natural phenomena. There was a spirit for the first plowing. A spirit for the granary door. A spirit for the threshold of your house. These weren't personified beings with soap-opera love lives. They were powers you needed to keep happy through precise ritual.
+The earliest Romans — we're talking 8th century BCE and before — worshipped *numina*, vague divine forces or spirits associated with specific places, activities, and natural phenomena. There was a spirit for the first plowing. A spirit for the granary door. A spirit for the threshold of your house. These weren't personified beings with soap-[opera](/opera) love lives. They were powers you needed to keep happy through precise ritual.
 
 This early religion was intensely practical. You performed the right ritual at the right time using the right words, and the numina would (hopefully) ensure your crops grew, your family stayed healthy, and your enemies lost their battles. Get the ritual wrong — even one word — and you had to start over.
 
@@ -102,7 +102,7 @@ Roman mythology wasn't something you studied in school and forgot about. It satu
 
 **In public**, the Roman state maintained an elaborate calendar of religious festivals — over 40 major ones per year. The **Saturnalia** (December, honoring Saturn) was the biggest — a week of feasting, gift-giving, and role-reversal where slaves ate with masters. Sound familiar? Many Saturnalia customs fed directly into Christmas traditions.
 
-**The Lupercalia** (February) involved young men running through the streets striking women with leather thongs for fertility blessings. It was rowdy enough that it persisted into the Christian era — Pope Gelasius I finally suppressed it in 494 CE, possibly replacing it with Saint Valentine's Day.
+**The Lupercalia** (February) involved young men [running](/running) through the streets striking women with leather thongs for fertility blessings. It was rowdy enough that it persisted into the Christian era — Pope Gelasius I finally suppressed it in 494 CE, possibly replacing it with Saint Valentine's Day.
 
 **Augury and divination** were official state functions. Before any major military or political decision, priests called **augurs** read signs from the gods — patterns of bird flight, the condition of animal entrails, unusual natural events. The Roman Senate wouldn't declare war, hold elections, or begin major [construction](/construction) without favorable signs.
 
@@ -112,7 +112,7 @@ This system — called the **pax deorum** (peace of the gods) — rested on a tr
 
 The influence is almost impossible to overstate, though I'll try to be specific.
 
-**Literature.** Virgil's *Aeneid*, Ovid's *Metamorphoses*, and Livy's histories preserved Roman myths and transmitted them to the medieval and Renaissance world. When Dante wrote the *Divine Comedy*, he made Virgil his guide through Hell. When Shakespeare needed plots, he turned to Ovid and Plutarch's Roman stories. Milton, Keats, Shelley — the entire Western literary canon is soaked in Roman mythology.
+**Literature.** Virgil's *Aeneid*, Ovid's *Metamorphoses*, and Livy's histories preserved Roman myths and transmitted them to the medieval and Renaissance world. When Dante wrote the *Divine [Comedy](/comedy)*, he made Virgil his guide through Hell. When Shakespeare needed plots, he turned to Ovid and Plutarch's Roman stories. Milton, Keats, Shelley — the entire Western literary canon is soaked in Roman mythology.
 
 **Art and [architecture](/architecture).** The Renaissance was, in large part, a rediscovery of Roman (and Greek) mythology. Botticelli's *Birth of Venus*, Michelangelo's Sistine Chapel, Bernini's sculptures — these works brought Roman gods back to visual culture. Neoclassical architecture (think the U.S. Capitol building) deliberately imitates Roman temples.
 

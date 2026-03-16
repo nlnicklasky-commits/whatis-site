@@ -35,13 +35,13 @@ faq:
 
 # What Is Environmental Engineering?
 
-Environmental engineering is the branch of engineering that applies scientific and engineering principles to protect and improve the natural environment, human health, and the quality of life. Environmental engineers design systems and processes to treat contaminated water, clean polluted air, manage solid and hazardous waste, remediate contaminated land, and develop sustainable infrastructure — essentially, they build the things that keep the modern world from poisoning itself.
+Environmental [engineering](/engineering) is the branch of engineering that applies scientific and engineering principles to protect and improve the natural environment, human health, and the quality of life. Environmental engineers design systems and processes to treat contaminated water, clean polluted air, manage solid and hazardous waste, remediate contaminated land, and develop sustainable infrastructure — essentially, they build the things that keep the modern world from poisoning itself.
 
 ## The Engineering of Not Dying from Our Own Waste
 
 That subheading sounds dramatic, but it's historically accurate. The reason you can drink water from your tap without getting cholera, the reason your city doesn't smell like an open sewer, the reason the air in most developed cities no longer kills people in visible smog events — environmental engineering made all of that possible.
 
-Before the mid-1800s, most cities dumped raw sewage directly into rivers that also served as drinking water sources. The results were predictable and horrifying. London's "Great Stink" of 1858 — when the Thames became so polluted that Parliament couldn't meet because of the smell — finally forced the construction of a modern sewer system. John Snow's epidemiological work linking cholera to contaminated water pumps in 1854 provided the scientific basis, but engineers built the actual infrastructure.
+Before the mid-1800s, most cities dumped raw sewage directly into rivers that also served as drinking water sources. The results were predictable and horrifying. London's "Great Stink" of 1858 — when the Thames became so polluted that Parliament couldn't meet because of the smell — finally forced the [construction](/construction) of a modern sewer system. John Snow's epidemiological work linking cholera to contaminated water pumps in 1854 provided the scientific basis, but engineers built the actual infrastructure.
 
 The story of environmental engineering is, in many ways, the story of civilization learning to manage the chemical and biological consequences of concentrating millions of people in small areas. It's not glamorous. But it might be the branch of engineering that has saved the most lives.
 
@@ -70,7 +70,7 @@ The specific treatment train depends on the source water quality. Groundwater ma
 
 Modern wastewater treatment plants are engineering marvels, processing millions of gallons daily and removing 95-99% of contaminants. Some advanced facilities produce effluent clean enough for indirect potable reuse — treated wastewater that's returned to reservoirs and eventually re-treated for drinking water. Singapore's NEWater system and Orange County, California's Groundwater Replenishment System are leading examples.
 
-The numbers are staggering. The U.S. has roughly 16,000 municipal wastewater treatment plants serving about 240 million people. [Civil engineering](/civil-engineering) and environmental engineering overlap heavily in this area — the plants require structural design, hydraulic engineering, and process engineering simultaneously.
+The numbers are staggering. The U.S. has roughly 16,000 municipal wastewater treatment plants serving about 240 million people. [Civil engineering](/civil-engineering) and environmental engineering overlap heavily in this area — the plants require structural design, hydraulic engineering, and [process engineering](/process-engineering) simultaneously.
 
 ### Air Quality Engineering
 
@@ -88,7 +88,7 @@ Americans generate roughly 292 million tons of municipal solid waste per year �
 
 **Modern landfills** are nothing like the open dumps of the past. They feature engineered liners (typically composite clay and synthetic membranes) to prevent leachate from contaminating groundwater, gas collection systems to capture methane for energy generation, and monitoring wells to detect any leaks.
 
-**Waste-to-energy facilities** incinerate waste under controlled conditions, generating electricity while reducing waste volume by 85-90%. Modern facilities use advanced emission controls to meet strict air quality standards. Northern European countries, particularly Sweden and Denmark, have been leaders in this technology — Sweden imports waste from neighboring countries because its waste-to-energy capacity exceeds domestic waste production.
+**Waste-to-energy facilities** incinerate waste under controlled conditions, generating [electricity](/electricity) while reducing waste volume by 85-90%. Modern facilities use advanced emission controls to meet strict air quality standards. Northern European countries, particularly Sweden and Denmark, have been leaders in this technology — Sweden imports waste from neighboring countries because its waste-to-energy capacity exceeds domestic waste production.
 
 **Hazardous waste** requires special handling. [Chemical engineering](/chemical-engineering) principles apply directly — engineers design treatment processes to neutralize, stabilize, or destroy hazardous materials. Thermal desorption heats contaminated soils to vaporize organic pollutants. Chemical oxidation uses reagents like hydrogen peroxide to break down contaminants in place.
 
@@ -106,17 +106,17 @@ The EPA's Superfund program, established in 1980, addresses the worst contaminat
 
 **Permeable reactive barriers:** Underground walls of reactive material (zero-valent iron is common) are installed in the path of contaminated groundwater flow. The contaminant is degraded or captured as groundwater passes through the barrier.
 
-Each site is unique. The geology, hydrology, contaminant chemistry, and land use all influence the remediation strategy. A good environmental engineer needs to understand all of these factors — and communicate effectively with regulators, community members, and clients who may have very different priorities.
+Each site is unique. The geology, [hydrology](/hydrology), contaminant [chemistry](/chemistry), and land use all influence the remediation strategy. A good environmental engineer needs to understand all of these factors — and communicate effectively with regulators, community members, and clients who may have very different priorities.
 
 ## Climate Change and Environmental Engineering
 
-Climate change has expanded environmental engineering's scope dramatically.
+[Climate change](/climate-change) has expanded environmental engineering's scope dramatically.
 
 **Adaptation infrastructure:** Engineers design stormwater systems for more intense rainfall, coastal protection against sea level rise, and water supply systems resilient to drought. New York City's post-Hurricane Sandy resilience investments, including flood barriers and elevated utilities, exemplify this work.
 
 **Carbon capture and storage (CCS):** Engineers design systems to capture CO2 from power plant or industrial emissions and inject it into underground geological formations. The technology works — several commercial CCS facilities operate worldwide — but cost remains a challenge.
 
-**[Alternative energy](/alternative-energy) integration:** Environmental engineers work on the environmental permitting, impact assessment, and waste management aspects of renewable energy projects. Solar panel recycling, wind turbine blade disposal, and battery waste management all require environmental engineering expertise.
+**[Alternative energy](/alternative-energy) integration:** Environmental engineers work on the environmental permitting, impact assessment, and [waste management](/waste-management) aspects of [renewable energy](/renewable-energy) projects. Solar panel recycling, wind turbine blade disposal, and battery waste management all require environmental engineering expertise.
 
 **Green infrastructure:** Rain gardens, green roofs, permeable pavements, and constructed wetlands manage stormwater naturally, reducing flooding and filtering pollutants. These "soft" engineering approaches complement traditional "gray" infrastructure (pipes and treatment plants) and often cost less over their lifecycle.
 
@@ -128,7 +128,7 @@ In the U.S., the major federal laws include:
 
 - **Clean Water Act (1972):** Regulates discharges of pollutants into waters
 - **Clean Air Act (1970, amended 1990):** Sets air quality standards and controls emissions
-- **Resource Conservation and Recovery Act (1976):** Governs hazardous and solid waste management
+- **Resource Conservation and Recovery Act (1976):** Governs hazardous and solid waste [management](/management)
 - **Thorough Environmental Response, Compensation, and Liability Act (1980):** Superfund — addresses contaminated site cleanup
 - **Safe Drinking Water Act (1974):** Sets drinking water quality standards
 
@@ -154,7 +154,7 @@ As freshwater supplies tighten globally, water reuse is expanding. Direct potabl
 
 ### Resilience Engineering
 
-Climate change means environmental infrastructure must withstand conditions it wasn't designed for. Hundred-year flood events occurring every decade. Extended droughts reducing water supply. Extreme heat affecting treatment plant biology. Environmental engineers must design for uncertainty — a fundamentally different challenge than designing for historical conditions.
+Climate change means environmental infrastructure must withstand conditions it wasn't designed for. Hundred-year flood events occurring every decade. Extended droughts reducing water supply. Extreme heat affecting treatment [plant biology](/plant-biology). Environmental engineers must design for uncertainty — a fundamentally different challenge than designing for historical conditions.
 
 ## What Environmental Engineers Actually Do Day-to-Day
 
@@ -175,13 +175,13 @@ The daily reality varies enormously by role.
 A bachelor's degree in environmental engineering (or civil engineering with an environmental focus) is the standard entry point. The curriculum typically includes:
 
 - Chemistry and [biology](/biology)
-- Fluid mechanics and hydraulics
-- [Environmental chemistry](/environmental-chemistry) and microbiology
+- Fluid mechanics and [hydraulics](/hydraulics)
+- [Environmental chemistry](/environmental-chemistry) and [microbiology](/microbiology)
 - Water and wastewater treatment design
 - Air quality engineering
 - Solid waste management
-- Environmental law and policy
-- Statistics and [data analysis](/data-analysis)
+- [Environmental law](/environmental-law) and policy
+- [Statistics](/statistics) and [data analysis](/data-analysis)
 
 Licensure as a Professional Engineer (PE) requires passing the FE exam (typically taken during senior year), gaining four years of supervised experience, and passing the PE exam in environmental engineering. PE licensure is essential for engineers who sign and seal designs.
 
@@ -195,7 +195,7 @@ Environmental engineering doesn't stand alone. It borrows from and contributes t
 
 [Civil engineering](/civil-engineering) provides the structural and hydraulic foundations. [Chemical engineering](/chemical-engineering) informs treatment process design. [Computer science](/computer-science) enables environmental modeling and monitoring systems. [Mechanical engineering](/mechanical-engineering) contributes to equipment design. [Electrical engineering](/electrical-engineering) is relevant for instrumentation and control systems.
 
-The interdisciplinary nature is one of the field's strengths — and one reason environmental engineers often find they can pivot to related careers in water resources, sustainability consulting, energy, or public health.
+The interdisciplinary nature is one of the field's strengths — and one reason environmental engineers often find they can pivot to related careers in water resources, sustainability consulting, energy, or [public health](/public-health).
 
 ## Why It Matters
 

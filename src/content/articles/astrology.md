@@ -47,7 +47,7 @@ If you've ever read a horoscope in a newspaper, you've encountered the most simp
 
 ### The Zodiac Signs
 
-Western astrology divides the sky into twelve segments, each associated with a constellation the sun appears to pass through during the year. These are the zodiac signs:
+Western astrology divides the sky into twelve segments, each associated with a constellation the sun appears to pass through during the year. These are the [zodiac](/zodiac) signs:
 
 - **Aries** (March 21 - April 19) — associated with assertiveness, courage, impatience
 - **Taurus** (April 20 - May 20) — associated with stability, sensuality, stubbornness
@@ -127,7 +127,7 @@ Astrology was mainstream in medieval Europe. Court astrologers advised kings. Un
 
 The separation between astrology and astronomy happened gradually during the 17th century. As the Copernican model displaced the Earth-centered universe, the astrological framework — which assumed Earth was the center around which everything revolved — lost its cosmological foundation.
 
-Newton's physics explained celestial movements through gravity and mechanics, leaving no room for mysterious planetary "influences" on human [psychology](/psychology). By the 18th century, [astronomy](/astronomy) had established itself as a legitimate science, while astrology was increasingly dismissed by educated Europeans.
+Newton's [physics](/physics) explained celestial movements through gravity and mechanics, leaving no room for mysterious planetary "influences" on human [psychology](/psychology). By the 18th century, [astronomy](/astronomy) had established itself as a legitimate science, while astrology was increasingly dismissed by educated Europeans.
 
 The split wasn't instant. Isaac Newton himself never publicly endorsed astrology but reportedly kept an astrological chart. Kepler, whose laws of planetary motion are fundamental to modern astronomy, practiced astrology to pay his bills (while privately expressing skepticism about many of its claims).
 
@@ -185,7 +185,7 @@ Human brains are pattern-detection machines. We're so good at finding patterns t
 
 ### Genuine Psychological Value
 
-Here's the thing people on both sides of the debate sometimes miss: astrology provides real psychological benefits even if its mechanisms are fictional.
+Here's the thing people on both sides of the [debate](/debate) sometimes miss: astrology provides real psychological benefits even if its mechanisms are fictional.
 
 Reading about your sign can prompt genuine self-reflection. "Am I really as stubborn as Taurus is supposed to be?" is a useful question to ask yourself, regardless of whether Taurus actually makes people stubborn. Natal chart readings function somewhat like personality inventories — they give you a vocabulary for thinking about your strengths, weaknesses, and relationships.
 

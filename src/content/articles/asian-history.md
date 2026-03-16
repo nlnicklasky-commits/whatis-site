@@ -44,11 +44,11 @@ Trying in short "Asian history" in a single article is a bit like trying in shor
 
 Chinese civilization is unusual for its continuity. While other ancient civilizations rose and fell, China maintained a recognizable cultural identity across millennia — even as dynasties, borders, and political systems changed dramatically.
 
-The Shang dynasty (c. 1600–1046 BCE) produced the earliest Chinese writing — oracle bones inscribed with questions to ancestors and spirits. The Zhou dynasty (1046–256 BCE) established the "Mandate of Heaven" concept — the idea that rulers governed through divine approval that could be revoked. This wasn't democracy, but it was a theory of legitimate governance that allowed for regime change. If the ruler failed, heaven withdrew its mandate, and rebellion was justified.
+The Shang dynasty (c. 1600–1046 BCE) produced the earliest Chinese [writing](/writing) — oracle bones inscribed with questions to ancestors and spirits. The Zhou dynasty (1046–256 BCE) established the "Mandate of Heaven" concept — the idea that rulers governed through divine approval that could be revoked. This wasn't democracy, but it was a theory of legitimate governance that allowed for regime change. If the ruler failed, heaven withdrew its mandate, and rebellion was justified.
 
 The Warring States period (475–221 BCE) was violent but intellectually explosive. [Confucianism](/confucianism), Daoism, Legalism, and Mohism all emerged during this era, each offering different answers to the question: how should society be organized? Confucius emphasized ritual, hierarchy, and moral cultivation. Laozi and the Daoists valued naturalness and non-action. Legalists wanted strict laws and strong central authority.
 
-In 221 BCE, Qin Shi Huang unified China through Legalist methods — centralized bureaucracy, standardized writing and measurements, and sheer military force. His dynasty lasted only 15 years, but the idea of a unified Chinese state persisted. The Han dynasty (206 BCE–220 CE) consolidated this unity, established the [Silk Road](/silk-road) trade network, adopted Confucianism as state ideology, and created a civil service examination system that would shape Chinese governance for two thousand years.
+In 221 BCE, Qin Shi Huang unified China through Legalist methods — centralized bureaucracy, standardized writing and measurements, and sheer military force. His dynasty lasted only 15 years, but the idea of a unified Chinese state persisted. The Han dynasty (206 BCE–220 CE) consolidated this unity, established the [Silk Road](/silk-road) [trade](/trade) network, adopted Confucianism as state ideology, and created a civil service examination system that would shape Chinese governance for two thousand years.
 
 ### India: Diversity as Identity
 
@@ -56,17 +56,17 @@ Indian civilization developed along a fundamentally different path. Where China 
 
 The Indus Valley civilization (c. 3300–1300 BCE) built planned cities with sophisticated drainage systems, standardized weights, and extensive trade networks — all without, as far as we can tell, monumental temples or palaces. Its script remains undeciphered, which means we know surprisingly little about one of the world's earliest urban civilizations.
 
-The Vedic period (c. 1500–500 BCE) brought the Sanskrit texts that form the foundation of Hinduism. The caste system began taking shape during this era — a social organization that would structure Indian society for millennia. [Buddhism](/buddhism) and Jainism emerged in the 6th–5th centuries BCE as reactions against Vedic ritual complexity and caste rigidity.
+The Vedic period (c. 1500–500 BCE) brought the [Sanskrit](/sanskrit) texts that form the foundation of [Hinduism](/hinduism). The caste system began taking shape during this era — a social organization that would structure Indian society for millennia. [Buddhism](/buddhism) and [Jainism](/jainism) emerged in the 6th–5th centuries BCE as reactions against Vedic ritual complexity and caste rigidity.
 
 The Maurya Empire (322–185 BCE) under Ashoka achieved something rare — an enormous empire governed, at least in theory, by Buddhist principles of non-violence and tolerance. Ashoka's edicts, carved into rocks and pillars across the subcontinent, represent one of the earliest documented attempts to govern according to ethical principles rather than pure power.
 
-The Gupta period (320–550 CE) is sometimes called India's "Golden Age" — a label that oversimplifies but captures something real. Indian mathematicians developed the decimal numeral system and the concept of zero. Astronomers calculated the Earth's circumference. Sanskrit [literature](/literature) and drama flourished. These intellectual achievements would eventually reach Europe through Arab intermediaries and reshape global [mathematics](/calculus) and science.
+The Gupta period (320–550 CE) is sometimes called India's "Golden Age" — a label that oversimplifies but captures something real. Indian mathematicians developed the decimal numeral system and the concept of zero. Astronomers calculated the Earth's circumference. Sanskrit [literature](/literature) and [drama](/drama) flourished. These intellectual achievements would eventually reach Europe through Arab intermediaries and reshape global [mathematics](/calculus) and science.
 
 ### Japan, Korea, and Southeast Asia
 
-Japan's history is marked by selective borrowing and adaptation. Beginning in the 6th–7th centuries CE, Japan adopted Chinese writing, Buddhist religion, Confucian ethics, and centralized governmental structures — then modified each to fit Japanese culture. The result was a civilization that shared deep roots with China while developing a distinctly different character.
+Japan's history is marked by selective borrowing and adaptation. Beginning in the 6th–7th centuries CE, Japan adopted Chinese writing, Buddhist [religion](/religion), Confucian [ethics](/ethics), and centralized governmental structures — then modified each to fit Japanese culture. The result was a civilization that shared deep roots with China while developing a distinctly different character.
 
-The samurai warrior class, the Shinto religious tradition, and the imperial institution (the world's oldest hereditary monarchy) gave Japan a cultural identity that resisted complete assimilation into Chinese models. The feudal period (roughly 1185–1868) saw Japan develop its own version of medieval society — with shoguns, daimyo lords, and an elaborate code of warrior ethics.
+The samurai warrior class, the Shinto religious tradition, and the imperial institution (the world's oldest hereditary [monarchy](/monarchy)) gave Japan a cultural identity that resisted complete assimilation into Chinese models. The feudal period (roughly 1185–1868) saw Japan develop its own version of medieval society — with shoguns, daimyo lords, and an elaborate code of warrior ethics.
 
 Korea occupied a strategic position between China and Japan, absorbing influences from both while maintaining its own language, culture, and political identity. Korean innovations — movable metal type printing (invented roughly 200 years before Gutenberg), celadon [ceramics](/ceramics), and the phonetic Hangul alphabet — demonstrate a civilization that was far from passive.
 
@@ -82,7 +82,7 @@ The devastation was immense. Entire cities were destroyed. Population losses in 
 
 ### The Ming and Qing Dynasties
 
-After expelling the Mongols, the Ming dynasty (1368–1644) rebuilt Chinese power. The early Ming sponsored enormous naval expeditions under Admiral Zheng He — fleets of hundreds of ships that reached East Africa decades before Europeans rounded the Cape of Good Hope. Then, famously, China turned inward. The expeditions stopped. The great ships were dismantled. Historians still debate why.
+After expelling the Mongols, the Ming dynasty (1368–1644) rebuilt Chinese power. The early Ming sponsored enormous naval expeditions under Admiral Zheng He — fleets of hundreds of ships that reached East Africa decades before Europeans rounded the Cape of Good Hope. Then, famously, China turned inward. The expeditions stopped. The great ships were dismantled. Historians still [debate](/debate) why.
 
 The Qing dynasty (1644–1912) — founded by Manchu conquerors from the northeast — expanded Chinese territory to its greatest extent, incorporating Tibet, Xinjiang, Mongolia, and Taiwan. For much of the 18th century, the Qing Empire was arguably the wealthiest and most powerful state on Earth.
 

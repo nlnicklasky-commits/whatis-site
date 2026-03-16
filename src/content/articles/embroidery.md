@@ -45,7 +45,7 @@ The **Bayeux Mix** (actually an embroidery, not a mix — it's stitched, not wov
 
 Every embroidery tradition worldwide uses variations of a few fundamental stitches.
 
-**Running stitch** is the simplest — the needle goes in and out at regular intervals, creating a dashed line. Japanese sashiko uses running stitch exclusively, proving that simple doesn't mean limited.
+**[Running](/running) stitch** is the simplest — the needle goes in and out at regular intervals, creating a dashed line. Japanese sashiko uses running stitch exclusively, proving that simple doesn't mean limited.
 
 **Backstitch** creates a solid, unbroken line by doubling back with each stitch. It's the go-to stitch for outlines and text. Clean backstitching requires consistent stitch length — it looks easy and is surprisingly tricky to perfect.
 
@@ -63,7 +63,7 @@ Every embroidery tradition worldwide uses variations of a few fundamental stitch
 
 **Indian embroidery** encompasses dozens of regional traditions. Zardozi (metallic thread on velvet) adorns wedding garments. Chikankari (white-on-white) from Lucknow creates delicate, ethereal designs. Kantha (running stitch through layered fabric) from Bengal tells stories through stitched narratives. Each tradition reflects its region's materials, climate, and cultural values.
 
-**Scandinavian embroidery** — Hardanger (geometric cutwork), Swedish Huck weaving, and Norwegian Rosemaling-influenced designs — emphasizes [geometry](/geometry), symmetry, and the contrast between white fabric and colored thread.
+**Scandinavian embroidery** — Hardanger (geometric cutwork), Swedish Huck [weaving](/weaving), and Norwegian Rosemaling-influenced designs — emphasizes [geometry](/geometry), symmetry, and the contrast between white fabric and colored thread.
 
 **Mexican embroidery** — particularly Otomi (tenango) with its vibrant, folk-art depictions of animals, plants, and daily life — has gained international recognition. The bold colors and narrative quality of Otomi embroidery make it immediately recognizable.
 
@@ -71,7 +71,7 @@ Every embroidery tradition worldwide uses variations of a few fundamental stitch
 
 Embroidery experienced a dramatic resurgence beginning around 2015, driven by social media (Instagram, Pinterest, TikTok), a broader craft revival, and artists who pushed the medium into contemporary territory.
 
-**Contemporary embroidery art** includes photorealistic [portraits](/drawing) stitched in thread, embroidered installations filling gallery walls, mixed-media pieces combining stitching with photography, and subversive works using traditional techniques to deliver modern messages. Artists like Cayce Zavaglia (hyper-realistic thread portraits), Sarah K. Benning (embroidered [houseplants](/houseplants)), and Danielle Clough (embroidery on unexpected surfaces like tennis rackets and fences) have brought the craft to [fine art](/fine-art) audiences.
+**Contemporary embroidery art** includes photorealistic [portraits](/drawing) stitched in thread, embroidered installations filling gallery walls, mixed-media pieces combining stitching with photography, and subversive works using traditional techniques to deliver modern messages. Artists like Cayce Zavaglia (hyper-realistic thread portraits), Sarah K. Benning (embroidered [houseplants](/houseplants)), and Danielle Clough (embroidery on unexpected surfaces like [tennis](/tennis) rackets and fences) have brought the craft to [fine art](/fine-art) audiences.
 
 The maker movement and slow craft ethos contributed too. In a digital world, the deliberate slowness of hand embroidery — each stitch placed individually, progress measured in hours — appeals precisely because it's the opposite of instant. Embroidery is [meditation](/meditation) with visible results.
 

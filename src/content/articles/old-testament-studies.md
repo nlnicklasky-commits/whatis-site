@@ -35,7 +35,7 @@ faq:
 
 # What Is Old Proof Studies?
 
-Old Proof studies is the academic discipline devoted to the critical examination of the Hebrew Bible — its texts, historical contexts, literary forms, theological ideas, and the long process by which it was composed, edited, and transmitted. It's a field that sits at the intersection of history, [literary criticism](/literary-criticism), [archaeology](/archaeology), [linguistics](/linguistics), and theology.
+Old Proof studies is the academic discipline devoted to the critical examination of the Hebrew Bible — its texts, historical contexts, literary forms, theological ideas, and the long process by which it was composed, edited, and transmitted. It's a field that sits at the intersection of history, [literary criticism](/literary-criticism), [archaeology](/archaeology), [linguistics](/linguistics), and [theology](/theology).
 
 ## The Text in Question
 
@@ -59,7 +59,7 @@ These books contain the most iconic stories in Western [literature](/literature)
 
 This section divides into Former Prophets (Joshua, Judges, Samuel, Kings) — which are actually historical narratives — and Latter Prophets (Isaiah, Jeremiah, Ezekiel, and the twelve Minor Prophets). The Former Prophets trace Israel's history from the conquest of Canaan through the [monarchy](/monarchy) and its collapse. The Latter Prophets contain the oracles, sermons, and visions of Israel's prophetic figures.
 
-The prophets are some of the most powerful voices in the collection. Amos thunders against social injustice. Hosea uses his own troubled marriage as a metaphor for God's relationship with Israel. Isaiah contains poetry of extraordinary beauty alongside political commentary on 8th-century Assyrian imperialism. Jeremiah watches his warnings go unheeded as Jerusalem falls to Babylon in 586 BCE.
+The prophets are some of the most powerful voices in the collection. Amos thunders against social injustice. Hosea uses his own troubled marriage as a metaphor for God's relationship with Israel. Isaiah contains [poetry](/poetry) of extraordinary beauty alongside political commentary on 8th-century Assyrian imperialism. Jeremiah watches his warnings go unheeded as Jerusalem falls to Babylon in 586 BCE.
 
 ### Ketuvim (Writings)
 
@@ -86,7 +86,7 @@ This hypothesis has been challenged and refined extensively since Wellhausen, bu
 
 ### Form Criticism
 
-Developed in the early 20th century by Hermann Gunkel and others, form criticism identifies the literary genres (forms) within the text and traces them to their original social settings (*Sitz im Leben*). A psalm of lament probably originated in temple worship. A prophetic lawsuit speech follows legal rhetoric. An etiological tale explains why a place has a particular name.
+Developed in the early 20th century by Hermann Gunkel and others, form criticism identifies the literary genres (forms) within the text and traces them to their original social settings (*Sitz im Leben*). A psalm of lament probably originated in temple worship. A prophetic lawsuit speech follows legal [rhetoric](/rhetoric). An etiological tale explains why a place has a particular name.
 
 ### Redaction Criticism
 
@@ -112,6 +112,6 @@ Why do they matter? Before the Dead Sea Scrolls, the oldest complete Hebrew manu
 
 Old Proof studies isn't just for theologians and clergy. The Hebrew Bible is one of the most influential texts in human history. Its ideas about justice, covenant, monotheism, law, and human nature have shaped Western civilization, Islamic civilization, and global culture in ways that extend far beyond any particular religious community.
 
-Understanding these texts critically — knowing when they were written, by whom, for what purpose, and how they've been interpreted over time — is essential for making sense of art, literature, law, ethics, and [politics](/politics) across the Western tradition. Shakespeare is full of biblical allusion. American political rhetoric is steeped in Exodus imagery. The concept of a "day of rest" comes straight from Genesis. The idea that law should protect the vulnerable — the widow, the orphan, the foreigner — first appears in the Hebrew prophets.
+Understanding these texts critically — knowing when they were written, by whom, for what purpose, and how they've been interpreted over time — is essential for making sense of art, literature, law, [ethics](/ethics), and [politics](/politics) across the Western tradition. Shakespeare is full of biblical allusion. American political rhetoric is steeped in Exodus imagery. The concept of a "day of rest" comes straight from Genesis. The idea that law should protect the vulnerable — the widow, the orphan, the foreigner — first appears in the Hebrew prophets.
 
-You don't have to be religious to find the Hebrew Bible fascinating. As literature, it contains some of the most powerful writing in any tradition. As history, it offers a window into the ancient Near Eastern world. As a case study in textual transmission, it's unmatched in scope. And as a document that billions of people still consider sacred, it demands careful, honest, informed study — the kind that Old Proof scholarship, at its best, provides.
+You don't have to be religious to find the Hebrew Bible fascinating. As literature, it contains some of the most powerful [writing](/writing) in any tradition. As history, it offers a window into the ancient Near Eastern world. As a case study in textual transmission, it's unmatched in scope. And as a document that billions of people still consider sacred, it demands careful, honest, informed study — the kind that Old Proof scholarship, at its best, provides.

@@ -35,7 +35,7 @@ faq:
 
 # What Is Quantitative Analysis?
 
-Quantitative analysis is the systematic use of mathematical models, statistical methods, and computational tools to examine numerical data, identify patterns, test hypotheses, and make data-driven decisions. It's the approach you use when you want to answer questions with numbers: How effective is this drug compared to a placebo? Is this investment strategy profitable? What factors predict student success? How fast is the climate warming? The discipline spans [statistics](/statistics), [mathematics](/mathematics), finance, science, engineering, social science, and increasingly every field that generates measurable data.
+Quantitative analysis is the systematic use of mathematical models, statistical methods, and computational tools to examine numerical data, identify patterns, test hypotheses, and make data-driven decisions. It's the approach you use when you want to answer questions with numbers: How effective is this drug compared to a placebo? Is this investment strategy profitable? What factors predict student success? How fast is the climate warming? The discipline spans [statistics](/statistics), [mathematics](/mathematics), [finance](/finance), science, [engineering](/engineering), social science, and increasingly every field that generates measurable data.
 
 ## What Makes Analysis "Quantitative"
 
@@ -47,7 +47,7 @@ Three elements define quantitative analysis:
 
 1. **Measurement**: Converting observations into numerical values using defined scales and instruments.
 2. **Mathematical/[statistical modeling](/statistical-modeling)**: Applying formal techniques to identify patterns, relationships, and trends in the numbers.
-3. **Inference**: Drawing conclusions about populations, predictions, or causal relationships based on sample data.
+3. **Inference**: [Drawing](/drawing) conclusions about populations, predictions, or causal relationships based on sample data.
 
 ## The Foundations
 
@@ -57,7 +57,7 @@ Before any sophisticated analysis, you need to describe what you have. Descripti
 
 The mean tells you the average, but it's sensitive to outliers. If nine people earn $50,000 and one earns $5 million, the mean income is $545,000—a number that describes nobody in the group. The median ($50,000) better represents the typical member. Knowing when to use which measure is a fundamental quantitative skill.
 
-Distributions matter. The normal distribution (bell curve) underlies much of classical statistics, but real-world data is often skewed, bimodal, or heavy-tailed. Visualizing data distributions before running analyses is essential—and often reveals surprises that summary statistics conceal. As the statistician Francis Anscombe demonstrated with his famous quartet (1973), very different data sets can produce identical summary statistics. You need to look at the data, not just its numerical summaries.
+Distributions matter. The normal distribution (bell curve) underlies much of classical statistics, but real-world data is often skewed, bimodal, or heavy-tailed. Visualizing data distributions before [running](/running) analyses is essential—and often reveals surprises that summary statistics conceal. As the statistician Francis Anscombe demonstrated with his famous quartet (1973), very different data sets can produce identical summary statistics. You need to look at the data, not just its numerical summaries.
 
 ### Inferential Statistics: What Does It Mean?
 
@@ -85,7 +85,7 @@ Regression's power comes with risks. Garbage in, garbage out: if your variables 
 
 ### Scientific Research
 
-The scientific method is inherently quantitative in its modern form. Experiments manipulate independent variables, measure dependent variables, and use [statistics](/statistics) to determine whether observed effects are real or due to chance.
+The [scientific method](/scientific-method) is inherently quantitative in its modern form. Experiments manipulate independent variables, measure dependent variables, and use [statistics](/statistics) to determine whether observed effects are real or due to chance.
 
 Clinical trials—the gold standard for medical evidence—are entirely quantitative enterprises. Phase III trials typically enroll hundreds to thousands of patients, randomly assign them to treatment or control groups, and use statistical tests to evaluate outcomes. The FDA requires quantitative evidence of safety and efficacy before approving drugs.
 
@@ -95,13 +95,13 @@ The replication crisis has forced science to reconsider its quantitative methods
 
 Quantitative analysis in finance—"quant" analysis—uses mathematical models to value securities, manage risk, and identify trading opportunities.
 
-**Portfolio theory**, developed by Harry Markowitz in 1952, uses quantitative optimization to construct portfolios that maximize expected return for a given level of risk. The key insight: diversification reduces risk because different assets don't move in lockstep.
+**Portfolio theory**, developed by Harry Markowitz in 1952, uses quantitative [optimization](/optimization) to construct portfolios that maximize expected return for a given level of risk. The key insight: diversification reduces risk because different assets don't move in lockstep.
 
-**Options pricing** was transformed by the Black-Scholes model (1973), which uses stochastic calculus to derive theoretical option prices. The model earned Myron Scholes and Robert Merton the Nobel Prize in Economics. It also has well-known limitations—it assumes constant volatility and normal distributions, neither of which holds perfectly in real markets.
+**Options pricing** was transformed by the Black-Scholes model (1973), which uses stochastic [calculus](/calculus) to derive theoretical option prices. The model earned Myron Scholes and Robert Merton the Nobel Prize in Economics. It also has well-known limitations—it assumes constant volatility and normal distributions, neither of which holds perfectly in real markets.
 
 **Algorithmic trading** uses quantitative models to execute trades automatically. High-frequency trading firms process millions of data points per second, looking for statistical arbitrage opportunities that last microseconds. As of 2024, algorithmic trading accounts for roughly 60-75% of U.S. equity trading volume.
 
-**Risk management** uses Value at Risk (VaR), stress testing, and Monte Carlo simulation to estimate potential losses. The 2008 financial crisis revealed that many risk models underestimated the probability of extreme events—"fat tail" risks that normal distributions severely underweight. This failure led to more sophisticated models incorporating non-normal distributions and regime-switching dynamics.
+**[Risk management](/risk-management)** uses Value at Risk (VaR), stress testing, and Monte Carlo simulation to estimate potential losses. The 2008 financial crisis revealed that many risk models underestimated the probability of extreme events—"fat tail" risks that normal distributions severely underweight. This failure led to more sophisticated models incorporating non-normal distributions and regime-switching dynamics.
 
 ### Social Sciences
 
@@ -113,7 +113,7 @@ Quantitative analysis in finance—"quant" analysis—uses mathematical models t
 
 ### Public Health and Epidemiology
 
-Quantitative epidemiology tracks disease patterns and identifies risk factors. The relative risk, odds ratio, and hazard ratio are workhorses of epidemiological analysis. John Snow's 1854 mapping of cholera cases in London—identifying a contaminated water pump as the source—is often cited as the birth of quantitative epidemiology, though his methods were simple by modern standards.
+Quantitative [epidemiology](/epidemiology) tracks disease patterns and identifies risk factors. The relative risk, odds ratio, and hazard ratio are workhorses of epidemiological analysis. John Snow's 1854 mapping of cholera cases in London—identifying a contaminated water pump as the source—is often cited as the birth of quantitative epidemiology, though his methods were simple by modern standards.
 
 COVID-19 pushed quantitative analysis into the public spotlight. Epidemic curves, reproduction numbers (R0), case fatality rates, and vaccine efficacy statistics became daily news. This exposed both the effect of quantitative analysis (accurate predictions of outbreak trajectories) and its limitations (early estimates based on poor data led to widely varying projections).
 
@@ -133,13 +133,13 @@ Classical statistics remains foundational, but newer approaches expand the toolk
 
 The Bayesian approach has several advantages: it naturally incorporates prior knowledge, it provides direct probability statements about parameters ("there's a 95% probability the treatment effect is between 3 and 7 points"), and it handles small samples more gracefully than frequentist methods.
 
-The computational barrier that historically limited Bayesian analysis—the integrals involved are often analytically intractable—has been overcome by Markov Chain Monte Carlo (MCMC) methods and modern computing power. Bayesian analysis is now practical for complex models and is standard in fields like ecology, epidemiology, and [machine learning](/machine-learning).
+The computational barrier that historically limited Bayesian analysis—the integrals involved are often analytically intractable—has been overcome by Markov Chain Monte Carlo (MCMC) methods and modern computing power. Bayesian analysis is now practical for complex models and is standard in fields like [ecology](/ecology), epidemiology, and [machine learning](/machine-learning).
 
 ### Machine Learning as Analysis
 
 [Machine learning](/machine-learning) blurs the line between analysis and prediction. Traditional quantitative analysis emphasizes understanding relationships (why does X affect Y?). Machine learning emphasizes prediction (given X, what will Y be?). A random forest or neural network might predict customer churn with 92% accuracy but provide little insight into why customers leave.
 
-This trade-off between interpretability and predictive power is a central tension in modern quantitative analysis. Techniques like SHAP values and LIME attempt to make machine learning models more interpretable, but the tension remains.
+This [trade](/trade)-off between interpretability and predictive power is a central tension in modern quantitative analysis. Techniques like SHAP values and LIME attempt to make machine learning models more interpretable, but the tension remains.
 
 ### Causal Inference
 
@@ -159,7 +159,7 @@ Quantitative analysis is powerful, but it's easily done badly.
 
 **P-hacking**: Running many statistical tests and reporting only the significant ones. If you test 20 hypotheses at the 0.05 level, you expect one false positive by chance alone. Researchers who try many analyses and report only the "interesting" results inflate false positive rates dramatically.
 
-**Confounding**: Concluding that X causes Y when actually Z causes both. Ice cream sales and drowning deaths are correlated—not because ice cream causes drowning, but because hot weather causes both.
+**Confounding**: Concluding that X causes Y when actually Z causes both. Ice cream [sales](/sales) and drowning deaths are correlated—not because ice cream causes drowning, but because hot weather causes both.
 
 **Simpson's Paradox**: A trend present in several groups reverses when the groups are combined. A treatment might appear better overall but worse within every subgroup (or vice versa), depending on how subgroups are distributed. This paradox has real consequences—it affected real medical treatment decisions.
 

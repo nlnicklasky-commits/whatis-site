@@ -59,7 +59,7 @@ No water system better illustrates the complexity of water law than the Colorado
 
 The problem: the Compact was based on flow data from unusually wet years. The river actually averages about 12-13 million acre-feet — less than the amount legally allocated. Tree-ring studies show that the early 20th century was among the wettest periods in 1,200 years.
 
-The result is that more water is legally promised than physically exists. Add 40 million people depending on the river, drought intensified by climate change, and reservoir levels at Lake Mead and Lake Powell dropping to historically low levels, and you get one of the most complex water law challenges in [American history](/american-history).
+The result is that more water is legally promised than physically exists. Add 40 million people depending on the river, drought intensified by [climate change](/climate-change), and reservoir levels at Lake Mead and Lake Powell dropping to historically low levels, and you get one of the most complex water law challenges in [American history](/american-history).
 
 ## Federal Water Law
 

@@ -41,7 +41,7 @@ Physical anthropology is the branch of [anthropology](/anthropology) that studie
 
 You might wonder why we need a whole discipline for this when we already have [biology](/biology), [genetics](/genetics), and medicine. Here's the thing — those fields study the human body in isolation. Physical anthropology puts our biology into context. It asks not just *how* our bodies work, but *why* they evolved this way, *when* key changes happened, and *what* those changes tell us about our species.
 
-A doctor knows that humans walk upright. A physical anthropologist asks: when did bipedalism evolve? What selective pressures drove it? How did walking on two legs reshape our pelvis, spine, skull, and foot anatomy? And what does that tell us about the environments our ancestors lived in 4 million years ago?
+A doctor knows that humans walk upright. A physical anthropologist asks: when did bipedalism evolve? What selective pressures drove it? How did [walking](/walking) on two legs reshape our pelvis, spine, skull, and foot anatomy? And what does that tell us about the environments our ancestors lived in 4 million years ago?
 
 That contextual thinking — biology plus time plus environment plus culture — is what makes physical anthropology its own discipline. And frankly, it's produced some of the most exciting scientific discoveries of the past century.
 
@@ -51,9 +51,9 @@ Physical anthropology has a complicated past, and being honest about that matter
 
 The field emerged in the 18th and 19th centuries, initially focused on classifying human "races." Early practitioners like Johann Blumenbach (1752–1840) measured skulls and attempted to sort humanity into racial hierarchies. This wasn't just bad science — it was weaponized to justify colonialism, slavery, and genocide.
 
-By the mid-20th century, the field underwent a major reckoning. Scientists like Sherwood Washburn argued in 1951 for a "New Physical Anthropology" that abandoned racial typology in favor of population thinking, evolutionary theory, and genetics. Modern physical anthropologists have conclusively demonstrated that biological race — as discrete, natural categories — doesn't exist. Human genetic variation is clinal (it changes gradually across geography) rather than falling into neat boxes.
+By the mid-20th century, the field underwent a major reckoning. Scientists like Sherwood Washburn argued in 1951 for a "New Physical Anthropology" that abandoned racial typology in favor of population thinking, evolutionary theory, and genetics. Modern physical anthropologists have conclusively demonstrated that biological race — as discrete, natural categories — doesn't exist. Human genetic variation is clinal (it changes gradually across [geography](/geography)) rather than falling into neat boxes.
 
-Today, the field is sometimes called biological anthropology to distance itself from its problematic origins and to better reflect its modern, genetics-heavy approach.
+Today, the field is sometimes called [biological anthropology](/biological-anthropology) to distance itself from its problematic origins and to better reflect its modern, genetics-heavy approach.
 
 ## The Core Subfields
 
@@ -61,27 +61,27 @@ Physical anthropology isn't one thing — it's several interconnected areas of r
 
 ### Paleoanthropology: Digging Up Our Past
 
-Paleoanthropology is the study of human [evolutionary biology](/evolutionary-biology) through the fossil record. These are the scientists who find ancient skulls in African valleys and piece together the story of how ape-like ancestors became us.
+[Paleoanthropology](/paleoanthropology) is the study of human [evolutionary biology](/evolutionary-biology) through the fossil record. These are the scientists who find ancient skulls in African valleys and piece together the story of how ape-like ancestors became us.
 
 The hominin fossil record stretches back roughly 7 million years, to species like *Sahelanthropus tchadensis*. Between then and now, dozens of hominin species lived, adapted, and went extinct. Only one — *Homo sapiens* — survives.
 
 Some landmark discoveries that shaped our understanding:
 
-- **"Lucy" (1974):** A 3.2-million-year-old *Australopithecus afarensis* skeleton found in Ethiopia. Lucy proved that bipedalism evolved millions of years before large brains — overturning earlier assumptions about human evolution.
+- **"Lucy" (1974):** A 3.2-million-year-old *Australopithecus afarensis* skeleton found in Ethiopia. Lucy proved that bipedalism evolved millions of years before large brains — overturning earlier assumptions about [human evolution](/human-evolution).
 - **Homo naledi (2013–2015):** A species discovered in South Africa's Rising Star Cave system with a bizarre mix of primitive and modern features. Over 1,500 fossil elements from at least 15 individuals were recovered, making it one of the largest hominin fossil finds ever.
 - **Flores "Hobbit" (2003):** *Homo floresiensis*, a meter-tall hominin from Indonesia that survived until roughly 50,000 years ago, showing that human evolution produced far more diversity than anyone expected.
 
-Paleoanthropologists work with fragmentary evidence — sometimes a single tooth or jawbone. Reconstructing an entire species from scattered bones requires deep knowledge of comparative [anatomy](/anatomy), geology, and taphonomy (the study of how organisms decay and fossilize).
+Paleoanthropologists work with fragmentary evidence — sometimes a single tooth or jawbone. Reconstructing an entire species from scattered bones requires deep knowledge of comparative [anatomy](/anatomy), [geology](/geology), and taphonomy (the study of how organisms decay and fossilize).
 
 ### Primatology: Our Closest Relatives
 
 You can't understand human evolution without understanding primates. Primatology studies our closest living relatives — apes, monkeys, and prosimians — to shed light on the biological and behavioral roots of humanity.
 
-Jane Goodall's work with chimpanzees starting in 1960 shattered the assumption that tool use was uniquely human. Chimps fashion sticks to fish for termites, use rocks to crack nuts, and even craft spears for hunting. Dian Fossey's research on mountain gorillas revealed complex social structures and emotional bonds. Birutė Galdikas documented the remarkable intelligence and solitary lifestyle of orangutans.
+Jane Goodall's work with chimpanzees starting in 1960 shattered the assumption that tool use was uniquely human. Chimps fashion sticks to fish for termites, use rocks to crack nuts, and even craft spears for [hunting](/hunting). Dian Fossey's research on mountain gorillas revealed complex social structures and emotional bonds. Birutė Galdikas documented the remarkable intelligence and solitary lifestyle of orangutans.
 
 Modern primatology covers enormous ground:
 
-- **Behavioral ecology:** How primates find food, avoid predators, and organize socially
+- **Behavioral [ecology](/ecology):** How primates find food, avoid predators, and organize socially
 - **Conservation:** Many primate species face extinction. Roughly 60% of primate species are threatened, according to a 2017 study in *Science Advances*
 - **Cognition:** Studies of language, memory, problem-solving, and self-awareness in apes
 - **Genetics:** DNA comparisons between humans and other primates (we share about 98.7% of our DNA with chimpanzees)
@@ -108,13 +108,13 @@ Bioarchaeologists study human skeletal remains from [archaeological](/archaeolog
 
 A trained bioarchaeologist can examine a skeleton and determine approximate age at death, biological sex, stature, nutritional status, and disease history. Arthritis in the spine might indicate heavy labor. Dental caries suggest a carbohydrate-heavy diet. Healed fracture patterns reveal violence or occupational hazards.
 
-Population-level studies reveal even more. The transition from hunting and gathering to agriculture around 10,000 years ago left clear signatures in skeletal remains: shorter stature, more dental disease, increased infectious disease, and new patterns of repetitive stress injuries. Agriculture made civilization possible, but it wasn't exactly great for individual health — at least not initially.
+Population-level studies reveal even more. The transition from hunting and gathering to [agriculture](/agriculture) around 10,000 years ago left clear signatures in skeletal remains: shorter stature, more dental disease, increased infectious disease, and new patterns of repetitive stress injuries. Agriculture made civilization possible, but it wasn't exactly great for individual health — at least not initially.
 
 Isotope analysis of bones and teeth can reveal diet composition (the ratio of C3 to C4 plants consumed, marine vs. terrestrial protein) and even migration patterns. Strontium isotopes in tooth enamel reflect the geology where a person grew up, allowing researchers to identify first-generation immigrants in ancient cemeteries.
 
 ### Forensic Anthropology: Science Meets Justice
 
-Forensic anthropology applies skeletal biology to legal contexts — identifying human remains, determining cause of death, and assisting in criminal investigations.
+[Forensic anthropology](/forensic-anthropology) applies skeletal biology to legal contexts — identifying human remains, determining cause of death, and assisting in criminal investigations.
 
 When police discover decomposed or skeletal remains, forensic anthropologists establish the biological profile: age, sex, ancestry, stature, and any distinguishing features. They analyze trauma patterns to determine whether injuries occurred before death (antemortem), around the time of death (perimortem), or after death (postmortem).
 
@@ -131,7 +131,7 @@ The genetics revolution has utterly transformed physical anthropology. Where ear
 
 ### Ancient DNA
 
-Extracting and sequencing DNA from fossils seemed impossible until Svante Pääbo and colleagues proved otherwise. Pääbo won the 2022 Nobel Prize in Physiology or Medicine for his work on ancient genomes, including sequencing the Neanderthal genome and discovering the Denisovans — an entirely new hominin species identified from a single finger bone through DNA analysis.
+Extracting and sequencing DNA from fossils seemed impossible until Svante Pääbo and colleagues proved otherwise. Pääbo won the 2022 Nobel Prize in [Physiology](/physiology) or Medicine for his work on ancient genomes, including sequencing the Neanderthal genome and discovering the Denisovans — an entirely new hominin species identified from a single finger bone through DNA analysis.
 
 Ancient DNA has revealed that modern non-African humans carry 1–4% Neanderthal DNA, evidence of interbreeding between species roughly 50,000–60,000 years ago. Melanesian populations carry up to 6% Denisovan DNA. These findings rewrote the simple "Out of Africa" narrative into something far more complicated — a braided stream of migrations, encounters, and genetic mixing.
 
@@ -168,7 +168,7 @@ Laboratory work includes:
 
 ### Statistical and Computational Methods
 
-Modern physical anthropology relies heavily on statistics and computational tools. Geometric morphometrics — a method for analyzing shape using landmark coordinates — allows researchers to quantify subtle differences in skull or tooth shape across populations. Phylogenetic analysis borrowed from [evolutionary biology](/evolutionary-biology) constructs evolutionary trees. Bayesian statistical methods help researchers deal with the uncertainty inherent in fragmentary fossil evidence.
+Modern physical anthropology relies heavily on [statistics](/statistics) and computational tools. Geometric morphometrics — a method for analyzing shape using landmark coordinates — allows researchers to quantify subtle differences in skull or tooth shape across populations. Phylogenetic analysis borrowed from [evolutionary biology](/evolutionary-biology) constructs evolutionary trees. Bayesian statistical methods help researchers deal with the uncertainty inherent in fragmentary fossil evidence.
 
 ## Major Debates and Open Questions
 
@@ -180,7 +180,7 @@ We know bipedalism preceded large brains by millions of years. But why did our a
 
 ### What Happened to the Neanderthals?
 
-Neanderthals disappeared roughly 40,000 years ago, shortly after modern humans arrived in Europe. Did we outcompete them? Absorb them through interbreeding? Did climate change do them in? The Neanderthal genome proves interbreeding occurred, but whether competition, assimilation, or environmental change drove their extinction remains debated.
+Neanderthals disappeared roughly 40,000 years ago, shortly after modern humans arrived in Europe. Did we outcompete them? Absorb them through interbreeding? Did [climate change](/climate-change) do them in? The Neanderthal genome proves interbreeding occurred, but whether competition, assimilation, or environmental change drove their extinction remains debated.
 
 ### How Many Hominin Species Existed?
 
@@ -216,13 +216,13 @@ If this sounds fascinating, here's the practical side. Physical anthropology is 
 
 Undergraduate coursework typically includes human [anatomy](/anatomy), [genetics](/genetics), statistics, [archaeology](/archaeology), and biological [anthropology](/anthropology) core courses. Field schools — summer programs where students participate in actual excavations or primate field studies — are practically essential for graduate school applications.
 
-Career paths beyond academia include forensic anthropology (often requiring board certification through the American Board of Forensic Anthropology), museum work, biomedical research, genetic counseling, and consulting for government agencies.
+Career paths beyond academia include forensic anthropology (often requiring board certification through the American Board of Forensic Anthropology), museum work, biomedical research, genetic counseling, and consulting for [government](/government) agencies.
 
 The field is competitive but growing, particularly in forensic applications and genetics-based research. And there's genuinely still a lot to discover — vast stretches of the hominin fossil record remain sparse, and ancient DNA technology keeps opening doors that were sealed shut a decade ago.
 
 ## The Bigger Meaning
 
-Physical anthropology asks the biggest questions a science can ask: Where did we come from? Why are we the way we are? What makes us human? And it answers them not with philosophy or speculation, but with bones, genes, measurements, and field observations.
+Physical anthropology asks the biggest questions a science can ask: Where did we come from? Why are we the way we are? What makes us human? And it answers them not with [philosophy](/philosophy) or speculation, but with bones, genes, measurements, and field observations.
 
 The picture that emerges is humbling. We're one twig on an enormous evolutionary bush. Our species is young — roughly 300,000 years old — on a planet that's 4.5 billion years old. We share the vast majority of our DNA with chimpanzees, a significant chunk with mice, and some with bananas. We're not the pinnacle of evolution. We're just the latest experiment.
 

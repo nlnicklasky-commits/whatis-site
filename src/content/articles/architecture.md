@@ -31,11 +31,11 @@ faq:
 
 # What Is Architecture?
 
-Architecture is the art and science of designing and constructing buildings, spaces, and physical environments. It sits at the intersection of [engineering](/engineering), art, sociology, and environmental science — producing structures that must simultaneously stand up, function well, look good, and serve the people who use them.
+Architecture is the art and science of designing and constructing buildings, spaces, and physical environments. It sits at the intersection of [engineering](/engineering), art, [sociology](/sociology), and environmental science — producing structures that must simultaneously stand up, function well, look good, and serve the people who use them.
 
 ## More Than Just Buildings
 
-The Roman architect Vitruvius, writing around 30 BCE, identified three qualities every building should possess: *firmitas* (strength), *utilitas* (utility), and *venustas* (beauty). That framework — structure, function, [aesthetics](/aesthetics) — still defines architectural thinking 2,000 years later.
+The Roman architect Vitruvius, [writing](/writing) around 30 BCE, identified three qualities every building should possess: *firmitas* (strength), *utilitas* (utility), and *venustas* (beauty). That framework — structure, function, [aesthetics](/aesthetics) — still defines architectural thinking 2,000 years later.
 
 But architecture is broader than individual buildings. It encompasses [urban planning](/urban-planning), field design, interior spaces, and even the experience of moving through an environment. When you walk down a narrow European street and feel enclosed and intimate, or stand in a gothic cathedral and feel small, those are architectural effects created deliberately through proportions, materials, light, and spatial relationships.
 
@@ -85,7 +85,7 @@ Computer-aided design (CAD) replaced hand drafting in the 1980s and 1990s. Build
 
 ## Architecture and Society
 
-Buildings reflect the values, priorities, and power structures of the societies that create them. Medieval cathedrals expressed religious devotion and civic pride. Skyscrapers express [capitalism](/capitalism) and corporate ambition. Government buildings communicate authority — or, in democratic designs, accessibility and transparency.
+Buildings reflect the values, priorities, and power structures of the societies that create them. Medieval cathedrals expressed religious devotion and civic pride. Skyscrapers express [capitalism](/capitalism) and corporate ambition. [Government](/government) buildings communicate authority — or, in democratic designs, accessibility and transparency.
 
 Architecture also shapes behavior. [Research in psychology](/environmental-science) shows that ceiling height affects creativity (higher ceilings correlate with more abstract thinking). Natural light improves [productivity](/productivity) and mood. Well-designed public spaces encourage social interaction, while poorly designed ones breed isolation.
 
@@ -93,11 +93,11 @@ The field has faced serious criticism for its historical lack of diversity. The 
 
 ## Sustainability: Architecture's Biggest Challenge
 
-Buildings account for roughly 40% of global energy consumption and 36% of CO2 emissions, according to the United Nations Environment Programme. This makes architecture one of the most consequential fields for addressing climate change.
+Buildings account for roughly 40% of global energy consumption and 36% of CO2 emissions, according to the United Nations Environment Programme. This makes architecture one of the most consequential fields for addressing [climate change](/climate-change).
 
 [Sustainable architecture](/environmental-engineering) addresses this through multiple strategies: passive solar design (orienting buildings to maximize natural heating and cooling), high-performance insulation, green roofs, rainwater harvesting, solar panels, and materials with lower embodied carbon. Cross-laminated timber (CLT) is gaining traction as a structural alternative to steel and concrete, with significantly lower carbon emissions.
 
-The LEED (Leadership in Energy and Environmental Design) certification system, administered by the U.S. Green Building Council, rates buildings on sustainability criteria. Similar systems exist worldwide — BREEAM in the UK, DGNB in Germany, Green Star in Australia.
+The LEED ([Leadership](/leadership) in Energy and Environmental Design) certification system, administered by the U.S. Green Building Council, rates buildings on sustainability criteria. Similar systems exist worldwide — BREEAM in the UK, DGNB in Germany, Green Star in Australia.
 
 But the bigger question might not be about new construction at all. Demolishing an existing building and replacing it with an energy-efficient new one often produces more carbon emissions than simply renovating the old one. The greenest approach, increasingly, is to build less and reuse more.
 

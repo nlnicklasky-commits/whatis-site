@@ -35,7 +35,7 @@ faq:
 
 # What Is Hinduism?
 
-Hinduism is the world's oldest major religion, with roots extending back over 4,000 years to the ancient civilizations of the Indian subcontinent. Practiced by approximately 1.2 billion people—about 15% of the global population—it is the third-largest religion worldwide and the dominant faith in India and Nepal. Unlike most major religions, Hinduism has no single founder, no single scripture, and no single set of required beliefs, functioning instead as a vast family of traditions unified by shared concepts, practices, and cultural heritage.
+Hinduism is the world's oldest major [religion](/religion), with roots extending back over 4,000 years to the ancient civilizations of the Indian subcontinent. Practiced by approximately 1.2 billion people—about 15% of the global population—it is the third-largest religion worldwide and the dominant faith in India and Nepal. Unlike most major religions, Hinduism has no single founder, no single scripture, and no single set of required beliefs, functioning instead as a vast family of traditions unified by shared concepts, practices, and cultural heritage.
 
 ## Not Quite Like Other Religions
 
@@ -67,7 +67,7 @@ This idea—that your true nature is divine—is one of Hinduism's most distinct
 
 ### Dharma: Cosmic and Personal Order
 
-Dharma is one of those Sanskrit words that defies simple [translation](/translation). It encompasses cosmic order, moral law, social duty, personal ethics, and religious practice all at once. Your dharma depends on your stage of life, your social role, your abilities, and your circumstances.
+Dharma is one of those [Sanskrit](/sanskrit) words that defies simple [translation](/translation). It encompasses cosmic order, moral law, social duty, personal [ethics](/ethics), and religious practice all at once. Your dharma depends on your stage of life, your social role, your abilities, and your circumstances.
 
 The Bhagavad Gita—arguably the most widely read Hindu text—revolves around a crisis of dharma. The warrior prince Arjuna faces a battle against his own relatives and teachers. His dharma as a warrior demands he fight. His dharma as a family member and student says he shouldn't harm them. The ensuing conversation with Krishna explores how to act when duties conflict—a question with no easy answer, which is precisely the point.
 
@@ -79,7 +79,7 @@ Karma literally means "action," but in Hindu thought it refers to the universal 
 
 This isn't as simple as a cosmic scoring system. The Gita distinguishes between three types of karma: the consequences of past actions (prarabdha karma), current actions creating future consequences (kriyamana karma), and the accumulated store of all past karma awaiting fruition (sanchita karma).
 
-The subtlety is that karma isn't about the action itself but about the intention and attachment behind it. The Gita's central teaching is *nishkama karma*—action performed without attachment to results. Do your duty, act with integrity, but don't cling to the outcomes. This idea influenced [stoicism](/stoicism) through possible historical connections and certainly shares philosophical parallels with Stoic indifference to external results.
+The subtlety is that karma isn't about the action itself but about the intention and attachment behind it. The Gita's central [teaching](/teaching) is *nishkama karma*—action performed without attachment to results. Do your duty, act with integrity, but don't cling to the outcomes. This idea influenced [stoicism](/stoicism) through possible historical connections and certainly shares philosophical parallels with Stoic indifference to external results.
 
 ### Samsara and Moksha: The Cycle and Its Escape
 
@@ -89,7 +89,7 @@ Moksha is liberation from samsara—freedom from the cycle of rebirth. How you a
 
 **Jnana yoga** (the path of knowledge): Liberation through understanding the true nature of reality. Study, contemplation, and direct insight into the nature of Brahman and atman.
 
-**Bhakti yoga** (the path of devotion): Liberation through loving devotion to God. Surrender to a personal deity—Krishna, Shiva, Devi—and receive divine grace. This is the most popular path in practice, accessible to everyone regardless of education or social status.
+**Bhakti yoga** (the path of devotion): Liberation through loving devotion to God. Surrender to a personal deity—Krishna, Shiva, Devi—and receive divine grace. This is the most popular path in practice, accessible to everyone regardless of [education](/education) or social status.
 
 **Karma yoga** (the path of action): Liberation through selfless action performed without attachment to results. Do your duty, serve others, and dedicate all actions to God.
 
@@ -145,7 +145,7 @@ The **Ramayana** tells the story of Prince Rama, his wife Sita, and his ally Han
 
 ### The Puranas
 
-The eighteen major Puranas are mythological texts that make the abstract philosophy of the Vedas and Upanishads accessible through stories. They contain creation myths, genealogies of gods and heroes, pilgrimage guides, and detailed descriptions of cosmology and ritual. For most Hindus throughout history, the Puranas—not the Vedas—have been the primary source of religious knowledge.
+The eighteen major Puranas are mythological texts that make the abstract philosophy of the Vedas and Upanishads accessible through stories. They contain creation myths, genealogies of gods and heroes, pilgrimage guides, and detailed descriptions of [cosmology](/cosmology) and ritual. For most Hindus throughout history, the Puranas—not the Vedas—have been the primary source of religious knowledge.
 
 ## Worship and Practice
 
@@ -153,7 +153,7 @@ Hindu worship (puja) is extraordinarily varied. It can be as simple as lighting 
 
 ### Temple Worship
 
-Hindu temples are designed as the earthly dwelling of a deity. The innermost chamber (garbhagriha, or "womb-house") contains the main deity image. Priests perform rituals that treat the image as a living divine presence—bathing it, dressing it, offering food, and singing to it.
+Hindu temples are designed as the earthly dwelling of a deity. The innermost chamber (garbhagriha, or "womb-house") contains the main deity image. Priests perform rituals that treat the image as a living divine presence—bathing it, dressing it, offering food, and [singing](/singing) to it.
 
 Temple [architecture](/architecture) varies dramatically by region. South Indian temples have massive, intricately carved gateway towers (gopurams). North Indian temples feature curving spires (shikharas). The aesthetic dimension of temple design connects Hinduism to [aesthetics](/aesthetics) as a philosophical discipline—art and beauty are not separate from spirituality but expressions of it.
 
@@ -163,7 +163,7 @@ Most Hindu worship happens at home, not in temples. Families maintain shrines wi
 
 ### Festivals
 
-Hindu festivals are numerous and spectacular. Diwali (the festival of lights) celebrates the victory of light over darkness and is observed by nearly a billion people. Holi (the festival of colors) marks spring with the throwing of colored powders. Navaratri (nine nights) celebrates the Goddess through dance, fasting, and worship. Ganesh Chaturthi honors the elephant-headed god of new beginnings.
+Hindu festivals are numerous and spectacular. Diwali (the festival of lights) celebrates the victory of light over darkness and is observed by nearly a billion people. Holi (the festival of colors) marks spring with the throwing of colored powders. Navaratri (nine nights) celebrates the Goddess through [dance](/dance), fasting, and worship. Ganesh Chaturthi honors the elephant-headed god of new beginnings.
 
 Each festival has mythological significance but also functions as a community event—bringing families together, marking seasonal cycles, and reinforcing social bonds.
 
@@ -171,7 +171,7 @@ Each festival has mythological significance but also functions as a community ev
 
 Hinduism's influence on global culture extends far beyond its adherents. Yoga, now practiced by an estimated 300 million people worldwide, originated as a Hindu spiritual discipline. Meditation techniques rooted in Hindu traditions have entered mainstream [mental health](/mental-health) practice. The concepts of karma and dharma have become part of global vocabulary.
 
-Historically, Hindu culture spread across Southeast Asia through trade and cultural exchange rather than military conquest. The Angkor Wat temple complex in Cambodia, the Prambanan temple in Indonesia, and the Sanskrit influence on Thai, Cambodian, and Indonesian languages all reflect this cultural diffusion.
+Historically, Hindu culture spread across Southeast Asia through [trade](/trade) and cultural exchange rather than military conquest. The Angkor Wat temple complex in Cambodia, the Prambanan temple in Indonesia, and the Sanskrit influence on Thai, Cambodian, and Indonesian languages all reflect this cultural diffusion.
 
 Hindu philosophy influenced Western thinkers from Emerson and Thoreau (who read the Bhagavad Gita and Upanishads) to Schopenhauer, Huxley, and Oppenheimer (who famously quoted the Gita upon witnessing the first nuclear explosion: "Now I am become Death, the destroyer of worlds").
 
@@ -191,4 +191,4 @@ The Hindu diaspora, now numbering over 25 million outside South Asia, faces its 
 
 Hinduism is less a single religion than a civilization's accumulated spiritual wisdom—a tradition spanning over 4,000 years, encompassing radically different philosophies, practices, and devotional paths within a shared cultural framework. Its core concepts—Brahman (ultimate reality), atman (true self), dharma (moral order), karma (action and consequence), samsara (cycle of rebirth), and moksha (liberation)—provide a coherent framework that accommodates enormous diversity in practice and belief.
 
-Understanding Hinduism means accepting complexity. It's a tradition where monotheism, polytheism, monism, and atheism coexist. Where rigorous philosophical argument sits alongside ecstatic devotional singing. Where abstract [metaphysics](/metaphysics) and colorful mythology serve the same ultimate purpose: helping human beings understand who they are and find their way to freedom.
+Understanding Hinduism means accepting complexity. It's a tradition where monotheism, polytheism, monism, and atheism coexist. Where rigorous philosophical argument sits alongside ecstatic devotional singing. Where abstract [metaphysics](/metaphysics) and colorful [mythology](/mythology) serve the same ultimate purpose: helping human beings understand who they are and find their way to freedom.

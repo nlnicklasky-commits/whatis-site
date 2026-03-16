@@ -55,21 +55,21 @@ The classical economists—Adam Smith, David Ricardo, Thomas Malthus, John Stuar
 
 Smith's key insight went beyond the invisible hand. He observed that specialization—the division of labor—dramatically increases [productivity](/productivity). His famous pin factory example: one worker making pins alone might produce 20 per day. Ten workers, each specializing in one step of the process, could produce 48,000 per day. That's not 10 times more productive; it's 240 times more productive.
 
-This insight explains trade between nations, the growth of cities, and the structure of modern corporations. Specialization creates efficiency. Trade allows everyone to benefit from everyone else's specialization. This is the foundation of comparative advantage.
+This insight explains [trade](/trade) between nations, the growth of cities, and the structure of modern corporations. Specialization creates efficiency. Trade allows everyone to benefit from everyone else's specialization. This is the foundation of comparative advantage.
 
 ### David Ricardo and Comparative Advantage
 
-Ricardo's theory of comparative advantage (1817) is perhaps the most counterintuitive result in economics. Even if one country is better at producing *everything* than another country, both countries still benefit from trade. What matters isn't absolute ability but relative efficiency.
+Ricardo's theory of comparative advantage (1817) is perhaps the most counterintuitive result in [economics](/economics). Even if one country is better at producing *everything* than another country, both countries still benefit from trade. What matters isn't absolute ability but relative efficiency.
 
 Suppose the US can produce both wine and cloth more efficiently than Portugal. If the US is *relatively* better at cloth and Portugal is *relatively* better at wine, both countries benefit if the US specializes in cloth, Portugal specializes in wine, and they trade. Total output increases. Both countries consume more than they could in isolation.
 
-This principle applies everywhere—not just [international trade](/international-trade). Should a surgeon who also happens to be a faster typist do her own typing? No. Her comparative advantage is surgery. Even though she types faster than her assistant, the time she spends typing is time not spent performing surgery, where her productivity advantage is vastly greater.
+This principle applies everywhere—not just [international trade](/international-trade). Should a surgeon who also happens to be a faster typist do her own typing? No. Her comparative advantage is [surgery](/surgery). Even though she types faster than her assistant, the time she spends typing is time not spent performing surgery, where her productivity advantage is vastly greater.
 
 ### Malthus and the Limits of Growth
 
 Thomas Malthus made the gloomy prediction in 1798 that population growth would inevitably outstrip food production, leading to famine and misery. Population grows geometrically; food production grows arithmetically. Eventually, population hits a ceiling and crashes.
 
-Malthus was wrong about the timeline—agricultural technology has kept pace with population growth so far—but the underlying logic of resource constraints remains relevant. Modern ecological economics revisits Malthusian themes when considering finite fossil fuels, freshwater, and arable land.
+Malthus was wrong about the timeline—agricultural technology has kept pace with population growth so far—but the underlying [logic](/logic) of resource constraints remains relevant. Modern ecological economics revisits Malthusian themes when considering finite fossil fuels, freshwater, and arable land.
 
 ## The Marginalist Revolution
 
@@ -101,15 +101,15 @@ John Maynard Keynes looked at the 1930s—25% unemployment, years of depression�
 
 Keynes's *General Theory of Employment, Interest, and Money* (1936) argued that aggregate demand (total spending in the economy) could be persistently too low. If people lose confidence and stop spending, firms lay off workers. Unemployed workers spend less. Firms lay off more workers. This vicious cycle doesn't self-correct because falling wages reduce spending power.
 
-The solution, Keynes argued, was government spending. When private demand collapses, the government should step in to spend, creating jobs and income that restart private spending. This was intellectual dynamite—it justified deficit spending during recessions, something classical theory explicitly warned against.
+The solution, Keynes argued, was [government](/government) spending. When private demand collapses, the government should step in to spend, creating jobs and income that restart private spending. This was intellectual dynamite—it justified deficit spending during recessions, something classical theory explicitly warned against.
 
 ### The Keynesian-Monetarist Debate
 
-Milton Friedman challenged Keynes from a different angle. Yes, the Great Depression was a disaster. But it was caused not by insufficient demand but by catastrophic [monetary policy](/monetary-policy)—the Federal Reserve allowed the money supply to contract by one-third. The cure wasn't fiscal spending but proper monetary management.
+Milton Friedman challenged Keynes from a different angle. Yes, the Great Depression was a disaster. But it was caused not by insufficient demand but by catastrophic [monetary policy](/monetary-policy)—the Federal Reserve allowed the money supply to contract by one-third. The cure wasn't fiscal spending but proper monetary [management](/management).
 
 Friedman's monetarism emphasized a simple proposition: inflation is always and everywhere a monetary phenomenon. Print too much money, and prices rise. The money supply, not government spending, is what matters.
 
-This debate—fiscal policy versus monetary policy, Keynes versus Friedman—dominated [macroeconomics](/macroeconomics) for decades and still shapes policy arguments today. When the 2008 financial crisis hit, governments used *both* approaches: central banks slashed interest rates and expanded the money supply (monetarism), while governments passed stimulus packages (Keynesianism).
+This [debate](/debate)—fiscal policy versus monetary policy, Keynes versus Friedman—dominated [macroeconomics](/macroeconomics) for decades and still shapes policy arguments today. When the 2008 financial crisis hit, governments used *both* approaches: central banks slashed interest rates and expanded the money supply (monetarism), while governments passed stimulus packages (Keynesianism).
 
 ## Supply and Demand: The Core Model
 
@@ -141,7 +141,7 @@ Contemporary microeconomics has grown far beyond supply and demand.
 
 ### Game Theory
 
-Game theory studies strategic interactions—situations where your optimal choice depends on what others do. John Nash's equilibrium concept (the Nash equilibrium, popularized by the film *A Beautiful Mind*) describes a situation where no player can improve their outcome by unilaterally changing strategy.
+[Game theory](/game-theory) studies strategic interactions—situations where your optimal choice depends on what others do. John Nash's equilibrium concept (the Nash equilibrium, popularized by the film *A Beautiful Mind*) describes a situation where no player can improve their outcome by unilaterally changing strategy.
 
 Game theory explains price wars, arms races, auction design, and environmental treaties. It's why two gas stations across the street from each other charge nearly identical prices. It's why countries cooperate on trade agreements. It's central to [business strategy](/business-strategy) and competition policy.
 
@@ -159,7 +159,7 @@ Behavioral economics doesn't reject the rational model entirely—it enriches it
 
 George Akerlof's "lemons problem" (1970) showed that asymmetric information—when sellers know more than buyers—can cause market failure. In used car markets, sellers know whether their car is reliable (a "peach") or unreliable (a "lemon"). Buyers can't distinguish them. Because buyers assume an average quality and offer an average price, owners of good cars are unwilling to sell at that price. They exit the market. Average quality drops. Prices drop further. More good cars exit. In the extreme, only lemons are offered for sale.
 
-This insight extends to insurance (adverse selection), employment (signaling), and finance (moral hazard). It earned Akerlof the 2001 Nobel Prize and launched an entire field studying how information asymmetries shape economic outcomes.
+This insight extends to [insurance](/insurance) (adverse selection), employment (signaling), and [finance](/finance) (moral hazard). It earned Akerlof the 2001 Nobel Prize and launched an entire field studying how information asymmetries shape economic outcomes.
 
 ## Modern Macroeconomic Theory
 
@@ -183,7 +183,7 @@ Why are some countries rich and others poor? Growth theory tackles the biggest q
 
 Robert Solow's 1956 model showed that capital accumulation alone can't sustain long-run growth—eventually, diminishing returns kick in. Long-run growth depends on technological progress, which Solow treated as exogenous (coming from outside the model).
 
-Paul Romer's endogenous growth theory (1990s) brought technology inside the model. Innovation requires investment in research and development. Ideas are "non-rival"—once created, they can be used by anyone without being used up. This creates increasing returns and explains why some countries grow faster than others: they invest more in education, R&D, and institutions that support innovation. Romer won the 2018 Nobel Prize for this work.
+Paul Romer's endogenous growth theory (1990s) brought technology inside the model. Innovation requires investment in research and development. Ideas are "non-rival"—once created, they can be used by anyone without being used up. This creates increasing returns and explains why some countries grow faster than others: they invest more in [education](/education), R&D, and institutions that support innovation. Romer won the 2018 Nobel Prize for this work.
 
 ## Where Economic Theory Falls Short
 
@@ -203,6 +203,6 @@ Despite its limitations, economic theory provides irreplaceable tools for unders
 
 The concept of opportunity cost—the value of the next-best alternative you gave up—changes how you think about every decision. Supply and demand explains price movements from housing to healthcare. Comparative advantage explains international trade patterns. The theory of externalities explains why pollution is overproduced and why vaccines are underproduced.
 
-Economic theory won't give you a crystal ball. The economy is too complex, too influenced by politics, psychology, and chance, for any theory to predict perfectly. But it gives you frameworks for thinking clearly about tradeoffs, incentives, and unintended consequences—skills that are useful whether you're running a business, voting on policy, or just deciding whether to rent or buy a house.
+Economic theory won't give you a crystal ball. The economy is too complex, too influenced by [politics](/politics), [psychology](/psychology), and chance, for any theory to predict perfectly. But it gives you frameworks for thinking clearly about tradeoffs, incentives, and unintended consequences—skills that are useful whether you're [running](/running) a business, voting on policy, or just deciding whether to rent or buy a house.
 
 The best economic theory doesn't tell you what to believe. It tells you what to look for—and what questions to ask.

@@ -35,7 +35,7 @@ faq:
 
 # What Is Heat Transfer?
 
-Heat transfer is the movement of thermal energy from a region of higher temperature to a region of lower temperature, driven by the temperature difference between them. It occurs through three fundamental mechanisms—conduction, convection, and radiation—and governs everything from how your coffee cools to how stars die, from the design of car engines to the physics of climate change.
+Heat transfer is the movement of thermal energy from a region of higher temperature to a region of lower temperature, driven by the temperature difference between them. It occurs through three fundamental mechanisms—conduction, convection, and radiation—and governs everything from how your coffee cools to how stars die, from the design of car engines to the [physics](/physics) of [climate change](/climate-change).
 
 ## Why Heat Moves (And Why It Only Goes One Way)
 
@@ -43,7 +43,7 @@ Here's a fact so basic that people rarely stop to think about how strange it is:
 
 This isn't just an observation—it's the second law of [thermodynamics](/thermodynamics), one of the most fundamental principles in physics. Heat flows spontaneously from hot to cold because of probability. At the molecular level, thermal energy is the random motion of atoms and molecules. When a fast-moving molecule (hot) collides with a slow-moving molecule (cold), energy transfers from fast to slow. Statistically, across trillions of molecular collisions, the net effect is always energy flowing from high temperature to low temperature.
 
-You can force heat to flow against its natural direction—that's what your refrigerator and [air conditioning](/air-conditioning) system do—but it requires external energy input. This isn't a minor engineering detail; it's a law of the universe.
+You can force heat to flow against its natural direction—that's what your refrigerator and [air conditioning](/air-conditioning) system do—but it requires external energy input. This isn't a minor [engineering](/engineering) detail; it's a law of the universe.
 
 ## Conduction: Heat Through Direct Contact
 
@@ -75,7 +75,7 @@ Building insulation is fundamentally about reducing conduction. Fiberglass, foam
 
 R-values—the standard measure of insulation effectiveness—are simply the inverse of thermal conductance. An R-30 insulation is 30 times more resistant to heat flow than a bare surface. The principles of [civil engineering](/civil-engineering) and building design depend heavily on these calculations to create energy-efficient structures.
 
-Heat sinks in electronics work on the opposite principle: they maximize conduction. A computer processor generates heat in a tiny area. A heat sink—usually aluminum or copper, with many thin fins—conducts that heat away from the chip and spreads it over a much larger surface area, where it can be dissipated by convection.
+Heat sinks in [electronics](/electronics) work on the opposite principle: they maximize conduction. A computer processor generates heat in a tiny area. A heat sink—usually aluminum or copper, with many thin fins—conducts that heat away from the chip and spreads it over a much larger surface area, where it can be dissipated by convection.
 
 ## Convection: Heat Carried by Moving Fluids
 
@@ -109,7 +109,7 @@ This is why blowing on hot soup cools it faster than letting it sit. Your breath
 
 ### The Convection Heat Transfer Coefficient
 
-Engineers use Newton's law of cooling to quantify convection: heat transfer rate equals the convection coefficient times the surface area times the temperature difference. The convection coefficient depends on fluid properties, flow velocity, surface geometry, and whether the flow is laminar (smooth) or turbulent (chaotic).
+Engineers use Newton's law of cooling to quantify convection: heat transfer rate equals the convection coefficient times the surface area times the temperature difference. The convection coefficient depends on fluid properties, flow velocity, surface [geometry](/geometry), and whether the flow is laminar (smooth) or turbulent (chaotic).
 
 Typical values range enormously: natural convection in air gives coefficients of 5-25 W/m^2-K. Forced convection in air: 25-250. Natural convection in water: 100-1,000. Forced convection in water: 250-10,000. Boiling water: 2,500-25,000. This is why water cools things so much more effectively than air, and why boiling is such an efficient heat transfer mechanism.
 
@@ -137,7 +137,7 @@ The greenhouse effect is radiation physics applied to planetary atmospheres. The
 
 Here's the critical part: greenhouse gases (CO2, methane, water vapor) are transparent to incoming visible radiation but absorb outgoing infrared radiation. They trap heat in the atmosphere like a one-way valve. Without any greenhouse effect, Earth's average temperature would be about -18 degrees Celsius instead of the current +15 degrees Celsius. Life wouldn't exist.
 
-The problem is that human activity has increased atmospheric CO2 from 280 parts per million (pre-industrial) to over 420 ppm today—a 50% increase. This enhances the greenhouse effect, trapping more outgoing radiation, raising global temperatures, and driving climate change. The physics is straightforward; the consequences are enormous.
+The problem is that human activity has increased atmospheric CO2 from 280 parts per million (pre-industrial) to over 420 ppm today—a 50% increase. This enhances the greenhouse effect, [trapping](/trapping) more outgoing radiation, raising global temperatures, and driving climate change. The physics is straightforward; the consequences are enormous.
 
 ## Combined Heat Transfer
 
@@ -167,7 +167,7 @@ Boiling water on your stove stays at exactly 100 degrees Celsius (at sea level) 
 
 This is why steam burns are so much worse than hot water burns. When steam condenses on your skin, it releases all that latent heat directly into your tissue.
 
-Evaporative cooling exploits the reverse process. When sweat evaporates from your skin, it absorbs latent heat from your body—about 2,400 kJ per kilogram of sweat. This is your body's primary cooling mechanism during exercise. It's also the principle behind cooling towers, swamp coolers, and the reason you feel cold stepping out of a swimming pool on a windy day.
+Evaporative cooling exploits the reverse process. When sweat evaporates from your skin, it absorbs latent heat from your body—about 2,400 kJ per kilogram of sweat. This is your body's primary cooling mechanism during exercise. It's also the principle behind cooling towers, swamp coolers, and the reason you feel cold stepping out of a [swimming](/swimming) pool on a windy day.
 
 ## Heat Transfer in Nature
 
@@ -183,7 +183,7 @@ Nature is full of elegant heat transfer solutions that engineers study and somet
 
 Heat transfer research continues pushing boundaries. [Nanotechnology](/nanotechnology) is producing materials with engineered thermal properties—thermal interface materials for electronics, phononic crystals that control heat flow the way optical crystals control light, and materials that can switch between conducting and insulating states on demand.
 
-Thermal management in electronics is becoming critical as chips get more powerful and smaller. A modern GPU can generate over 400 watts in an area smaller than a playing card. Without effective heat transfer solutions—heat pipes, vapor chambers, liquid cooling loops—these chips would destroy themselves in seconds.
+Thermal [management](/management) in electronics is becoming critical as chips get more powerful and smaller. A modern GPU can generate over 400 watts in an area smaller than a playing card. Without effective heat transfer solutions—heat pipes, vapor chambers, liquid cooling loops—these chips would destroy themselves in seconds.
 
 Space exploration presents extreme heat transfer challenges. Spacecraft re-entering the atmosphere experience temperatures exceeding 1,600 degrees Celsius. Ablative heat shields—materials designed to absorb heat by melting and vaporizing—protect the vehicle by sacrificing themselves. Getting the heat transfer calculations wrong means losing the spacecraft and its occupants.
 

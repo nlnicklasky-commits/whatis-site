@@ -34,21 +34,21 @@ faq:
 ---
 
 # What Is Ancient Roman History?
-Ancient Roman history spans roughly 1,200 years — from Rome's legendary founding in 753 BCE to the fall of the Western Roman Empire in 476 CE. During that time, a small settlement on the Tiber River grew into the largest empire the ancient Mediterranean world had ever seen, governing an estimated 60–70 million people across three continents.
+Ancient [Roman history](/roman-history) spans roughly 1,200 years — from Rome's legendary founding in 753 BCE to the fall of the Western Roman Empire in 476 CE. During that time, a small settlement on the Tiber River grew into the largest empire the ancient Mediterranean world had ever seen, governing an estimated 60–70 million people across three continents.
 
-What makes Rome fascinating isn't just its size or duration. It's how Rome kept reinventing itself. Monarchy, republic, empire — each political system emerged from the failures of the last. And the things Romans built, both physical and institutional, are still with you today. The legal systems, roads, languages, and even the calendar you use trace back to Roman innovations.
+What makes Rome fascinating isn't just its size or duration. It's how Rome kept reinventing itself. [Monarchy](/monarchy), republic, empire — each political system emerged from the failures of the last. And the things Romans built, both physical and institutional, are still with you today. The legal systems, roads, languages, and even the calendar you use trace back to Roman innovations.
 
 ## From Village to Republic (753–264 BCE)
 
 Rome's origin story involves twin brothers, a she-wolf, and fratricide. According to legend, Romulus and Remus were abandoned as infants, nursed by a wolf, and Romulus killed Remus before founding the city in 753 BCE. It's a myth, obviously — but Romans took it seriously, and it tells you something about how they saw themselves. Tough. Willing to do hard things.
 
-The reality is less dramatic. Rome began as a cluster of hilltop villages along the Tiber River in central Italy. For its first two centuries, it was ruled by kings — including several Etruscan rulers who brought [urban planning](/urban-planning) and engineering knowledge.
+The reality is less dramatic. Rome began as a cluster of hilltop villages along the Tiber River in central Italy. For its first two centuries, it was ruled by kings — including several Etruscan rulers who brought [urban planning](/urban-planning) and [engineering](/engineering) knowledge.
 
-In 509 BCE, the Romans overthrew their last king, Tarquinius Superbus, and established a republic. This was the defining political act of early Rome. They developed such a hatred of monarchy that "king" remained a dirty word in Roman politics for five hundred years.
+In 509 BCE, the Romans overthrew their last king, Tarquinius Superbus, and established a republic. This was the defining political act of early Rome. They developed such a hatred of monarchy that "king" remained a dirty word in Roman [politics](/politics) for five hundred years.
 
-The Republic's government was complicated by design. Two consuls shared executive power and served for just one year — preventing anyone from accumulating too much authority. A Senate of wealthy elders provided advice and continuity. Popular assemblies gave citizens some voice, though wealth determined how much your vote actually counted.
+The Republic's [government](/government) was complicated by design. Two consuls shared executive power and served for just one year — preventing anyone from accumulating too much authority. A Senate of wealthy elders provided advice and continuity. Popular assemblies gave citizens some voice, though wealth determined how much your vote actually counted.
 
-The tension between patricians (aristocrats) and plebeians (commoners) drove Roman politics for centuries. Through a series of struggles called the Conflict of the Orders, plebeians gradually won legal protections, including their own representatives (tribunes) who could veto Senate actions. This messy process of negotiation and compromise — not idealism — is what kept the Republic functioning.
+The tension between patricians (aristocrats) and plebeians (commoners) drove Roman politics for centuries. Through a series of struggles called the Conflict of the Orders, plebeians gradually won legal protections, including their own representatives (tribunes) who could veto Senate actions. This messy process of [negotiation](/negotiation) and compromise — not idealism — is what kept the Republic functioning.
 
 ## Conquest of the Mediterranean (264–133 BCE)
 
@@ -56,7 +56,7 @@ Rome didn't set out to conquer the world. Or at least, that's what Romans told t
 
 The Punic Wars against Carthage (264–146 BCE) transformed Rome from an Italian power into a Mediterranean superpower. The First Punic War gave Rome Sicily. The Second Punic War — featuring Hannibal's famous crossing of the Alps with elephants — nearly destroyed Rome before Scipio Africanus defeated Hannibal at Zama in 202 BCE. The Third Punic War ended with Carthage literally erased from the map in 146 BCE.
 
-That same year, Rome destroyed Corinth, completing its conquest of Greece. Within a generation, Rome controlled Spain, North Africa, Greece, and much of the eastern Mediterranean. [Ancient Greek history](/ancient-greek-history) didn't end with Roman conquest — Greek culture profoundly shaped Roman education, art, and [philosophy](/philosophy).
+That same year, Rome destroyed Corinth, completing its conquest of Greece. Within a generation, Rome controlled Spain, North Africa, Greece, and much of the eastern Mediterranean. [Ancient Greek history](/ancient-greek-history) didn't end with Roman conquest — Greek culture profoundly shaped Roman [education](/education), art, and [philosophy](/philosophy).
 
 The conquests brought enormous wealth flooding into Rome. And that wealth destabilized everything. A small elite grew fantastically rich from conquered lands while ordinary soldiers returned home to find their farms bankrupt. The gap between rich and poor became a chasm that the Republic's institutions couldn't bridge.
 
@@ -80,9 +80,9 @@ The system worked spectacularly well for about 200 years. This era, the Pax Roma
 
 Roman [civil engineering](/civil-engineering) was staggering. They built 250,000 miles of roads — some still in use today. Aqueducts carried fresh water to cities across the empire. The Colosseum could seat 50,000 spectators. Roman concrete, using volcanic ash, was so durable that structures like the Pantheon still stand after nearly 2,000 years.
 
-Trade connected the entire Mediterranean into a single economic zone. Grain from Egypt fed Rome. Olive oil from Spain, wine from Gaul, silk from China via the [Silk Road](/silk-road) — goods moved along Roman roads and shipping lanes with a reliability that wouldn't be matched for over a thousand years.
+[Trade](/trade) connected the entire Mediterranean into a single economic zone. Grain from Egypt fed Rome. Olive oil from Spain, wine from Gaul, silk from China via the [Silk Road](/silk-road) — goods moved along Roman roads and shipping lanes with a reliability that wouldn't be matched for over a thousand years.
 
-Roman law became perhaps the empire's most lasting achievement. Legal principles like "innocent until proven guilty," the right to a defense, and the distinction between public and private law all have Roman roots. Justinian's legal code, compiled in the 6th century CE, directly influenced every modern Western [legal system](/contract-law).
+[Roman law](/roman-law) became perhaps the empire's most lasting achievement. Legal principles like "innocent until proven guilty," the right to a defense, and the distinction between public and private law all have Roman roots. Justinian's legal code, compiled in the 6th century CE, directly influenced every modern Western [legal system](/contract-law).
 
 ## Society, Culture, and Daily Life
 
@@ -92,7 +92,7 @@ Life in Rome itself was crowded, noisy, and occasionally dangerous. The city's p
 
 Entertainment was a political tool. "Bread and circuses," as the poet Juvenal put it. Free grain distributions kept the urban poor fed. Gladiatorial games, chariot races, and theatrical performances kept them distracted. The Colosseum's inaugural games in 80 CE lasted 100 days.
 
-Roman religion borrowed heavily from the Greeks but added its own character. The state religion centered on rituals and sacrifices to ensure divine favor for Rome. As the empire expanded, it absorbed countless local religions. [Christianity](/christianity) began as one of many small cults in the eastern provinces before Constantine legalized it in 313 CE and it eventually became the empire's official religion.
+Roman [religion](/religion) borrowed heavily from the Greeks but added its own character. The state religion centered on rituals and sacrifices to ensure divine favor for Rome. As the empire expanded, it absorbed countless local religions. [Christianity](/christianity) began as one of many small cults in the eastern provinces before Constantine legalized it in 313 CE and it eventually became the empire's official religion.
 
 Latin, the language of Rome, evolved into the [Romance languages](/romance-languages) — French, Spanish, Italian, Portuguese, and Romanian. Even English, a Germanic language, gets roughly 60% of its vocabulary from Latin roots, mostly through French after the Norman Conquest.
 
@@ -112,7 +112,7 @@ The Eastern Empire — which we call the Byzantine Empire — continued for near
 
 Rome's legacy is everywhere, and you probably don't notice most of it. The [calendar](/astronomy) you use is essentially Julius Caesar's reform. The legal systems of most Western countries descend from Roman law. Republican government — with its separation of powers, checks and balances, and representative institutions — was explicitly modeled on Rome by the American founders. Even the U.S. Senate takes its name directly from the Roman Senatus.
 
-Roman engineering and [architecture](/archaeology) influenced every subsequent Western building tradition. The arch, the dome, concrete construction — these were Roman perfections of earlier techniques. When Renaissance architects rediscovered Roman principles, they reshaped European cities.
+Roman engineering and [architecture](/archaeology) influenced every subsequent Western building tradition. The arch, the dome, concrete [construction](/construction) — these were Roman perfections of earlier techniques. When Renaissance architects rediscovered Roman principles, they reshaped European cities.
 
 But Rome also offers cautionary lessons. The Republic fell because its institutions couldn't adapt to new realities — wealth inequality, military power concentrated in individual hands, political violence normalized as a tool. The Empire lasted through authoritarianism that eventually became rigid and brittle. These patterns recur throughout history, which is why historians keep returning to Rome.
 

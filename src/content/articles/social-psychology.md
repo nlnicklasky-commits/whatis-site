@@ -35,7 +35,7 @@ faq:
 
 # What Is Social Psychology?
 
-Social psychology is the scientific study of how people's thoughts, feelings, and behaviors are shaped by the actual, imagined, or implied presence of others. It sits at the intersection of [psychology](/psychology) (the study of individuals) and sociology (the study of groups), asking a question that turns out to be surprisingly deep: how does the social world get inside your head?
+Social psychology is the scientific study of how people's thoughts, feelings, and behaviors are shaped by the actual, imagined, or implied presence of others. It sits at the intersection of [psychology](/psychology) (the study of individuals) and [sociology](/sociology) (the study of groups), asking a question that turns out to be surprisingly deep: how does the social world get inside your head?
 
 ## The Core Insight: You Are Not Who You Think You Are
 
@@ -65,11 +65,11 @@ If Asch showed that people conform to peers, Milgram showed something darker: pe
 
 Milgram's setup: participants were told they were in a learning study and instructed to deliver increasingly powerful electric shocks to a "learner" (actually a confederate) each time the learner made a mistake. The shock generator went up to 450 volts, labeled "XXX — Danger: Severe Shock." The learner, in an adjacent room, screamed in pain, pounded on the wall, and eventually went silent.
 
-Before running the study, Milgram surveyed psychiatrists, who predicted that fewer than 1% of participants would go to the maximum voltage. The actual result: 65% delivered the full 450 volts. Most were visibly distressed — sweating, trembling, laughing nervously — but they continued when the experimenter said things like "the experiment requires that you continue."
+Before [running](/running) the study, Milgram surveyed psychiatrists, who predicted that fewer than 1% of participants would go to the maximum voltage. The actual result: 65% delivered the full 450 volts. Most were visibly distressed — sweating, trembling, laughing nervously — but they continued when the experimenter said things like "the experiment requires that you continue."
 
 These findings hit the post-Holocaust world like a bomb. Milgram had designed the study partly to understand how ordinary Germans participated in genocide. His answer: you don't need pathological sadists. You need ordinary people in a system that provides authority, legitimacy, and incremental escalation.
 
-The study has been critiqued extensively — ethical concerns are obvious, and some scholars have questioned whether participants truly believed the shocks were real. But partial replications (ethics committees won't allow the full protocol anymore) have generally confirmed the core finding: situational authority can override personal moral judgment to a disturbing degree.
+The study has been critiqued extensively — ethical concerns are obvious, and some scholars have questioned whether participants truly believed the shocks were real. But partial replications ([ethics](/ethics) committees won't allow the full protocol anymore) have generally confirmed the core finding: situational authority can override personal moral judgment to a disturbing degree.
 
 ### The Stanford Prison Experiment (1971)
 
@@ -77,7 +77,7 @@ Philip Zimbardo's prison study assigned college students randomly to roles as "g
 
 The study has been widely cited as evidence that roles and situations determine behavior. But — and this is important — it's also one of the most criticized studies in psychology's history. Recent investigations revealed that Zimbardo actively encouraged guard aggression, some participants admitted to performing rather than genuinely experiencing distress, and the study had no control group.
 
-Does this mean the Stanford Prison Experiment tells us nothing? Not quite. It remains a powerful illustration of how institutional roles shape behavior. But the lesson may be less about the automatic power of situations and more about how authority figures (including Zimbardo himself) can create and escalate abusive environments.
+Does this mean the Stanford Prison Experiment tells us nothing? Not quite. It remains a powerful [illustration](/illustration) of how institutional roles shape behavior. But the lesson may be less about the automatic power of situations and more about how authority figures (including Zimbardo himself) can create and escalate abusive environments.
 
 ### The Bystander Effect (1968)
 
@@ -135,7 +135,7 @@ Social psychology has explored how the self is constructed through social intera
 
 Why do people help each other? Why do they hurt each other? These questions are central to social psychology.
 
-**Altruism** debates center on whether truly selfless helping exists. C. Daniel Batson's empathy-altruism hypothesis argues that feeling empathy for someone in need produces genuine altruistic motivation. Critics counter that all helping ultimately serves self-interest — reducing your own distress, building your reputation, or expecting reciprocity. The debate continues, but from a practical perspective, the mechanism matters less than the outcome: empathy increases helping, period.
+**Altruism** debates center on whether truly selfless helping exists. C. Daniel Batson's empathy-altruism hypothesis argues that feeling empathy for someone in need produces genuine altruistic motivation. Critics counter that all helping ultimately serves self-interest — reducing your own distress, building your reputation, or expecting reciprocity. The [debate](/debate) continues, but from a practical perspective, the mechanism matters less than the outcome: empathy increases helping, period.
 
 **Aggression** research distinguishes hostile aggression (driven by anger, the goal is harm) from instrumental aggression (using aggression as a tool to achieve some other goal). Albert Bandura's social learning theory demonstrated that children learn aggressive behaviors by observing models — his famous Bobo doll studies showed children imitating specific aggressive acts they'd watched an adult perform.
 
@@ -145,7 +145,7 @@ Starting around 2011, social psychology faced a reckoning. Several high-profile 
 
 The poster child was Daryl Bem's 2011 paper claiming to find evidence for precognition (ESP). It was published in a top journal, met the field's statistical standards, and was almost certainly wrong. If the standard methods could produce evidence for psychic powers, something was broken.
 
-What followed was painful but productive. The field discovered that many published findings were based on small samples, flexible [data analysis](/data-analysis) (running multiple tests and reporting only the significant ones), and publication bias (journals publishing positive results and rejecting null findings).
+What followed was painful but productive. The field discovered that many published findings were based on small samples, flexible [data analysis](/data-analysis) (running multiple tests and reporting only the significant ones), and publication bias (journals [publishing](/publishing) positive results and rejecting null findings).
 
 The response has been substantial: pre-registration of hypotheses (stating what you'll test before you collect data), larger sample sizes, open data sharing, and registered reports (where journals accept studies based on methods before results are known). Major replication projects — like the Reproducibility Project and "Many Labs" studies — have systematically tested which classic findings hold up.
 
@@ -161,7 +161,7 @@ The field's insights have practical applications across many domains.
 
 **Legal system.** Social psychologists study jury decision-making, eyewitness testimony reliability (which is far worse than most people assume), false confessions, and the effects of pretrial publicity. Elizabeth Loftus's research on memory distortion has directly influenced how police conduct lineups.
 
-**Education.** Growth mindset interventions (Carol Dweck), stereotype threat reduction, and cooperative learning structures all draw on social psychological research.
+**[Education](/education).** Growth mindset interventions (Carol Dweck), stereotype threat reduction, and cooperative learning structures all draw on social psychological research.
 
 **Environmental behavior.** Robert Cialdini's work on social norms — showing hotel guests a sign saying "most guests reuse their towels" increased reuse more than environmental appeals — demonstrates how perceived norms drive behavior more than rational arguments.
 

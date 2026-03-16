@@ -43,19 +43,19 @@ Sheet metal work is the craft and industrial process of transforming flat sheets
 
 The definition is straightforward: sheet metal is any metal that's been rolled or hammered into thin, flat pieces. The standard thickness range is 0.5mm to 6mm (about 0.02 to 0.25 inches). Thinner than that is foil. Thicker is plate.
 
-The thickness is measured using a gauge system, which — in one of manufacturing's more annoying quirks — runs backwards. A higher gauge number means thinner material. 10-gauge steel is about 3.4mm thick. 20-gauge is about 0.9mm. 30-gauge is about 0.3mm. The gauge system dates to the wire-drawing industry of the 19th century, and different metal types use different gauge scales, because apparently consistency was too much to ask for.
+The thickness is measured using a gauge system, which — in one of manufacturing's more annoying quirks — runs backwards. A higher gauge number means thinner material. 10-gauge steel is about 3.4mm thick. 20-gauge is about 0.9mm. 30-gauge is about 0.3mm. The gauge system dates to the wire-[drawing](/drawing) industry of the 19th century, and different metal types use different gauge scales, because apparently consistency was too much to ask for.
 
 Common sheet metals include:
 
 **Mild steel** (low-carbon steel) is the workhorse. Cheap, strong, easy to form and weld. It rusts without protection, so it's often painted, powder-coated, or galvanized.
 
-**Stainless steel** resists corrosion thanks to its chromium content (at least 10.5%). Used for kitchen equipment, medical devices, architectural features, and anywhere appearance and hygiene matter. More expensive and harder to work than mild steel.
+**Stainless steel** resists corrosion thanks to its chromium content (at least 10.5%). Used for kitchen equipment, medical devices, architectural features, and anywhere appearance and [hygiene](/hygiene) matter. More expensive and harder to work than mild steel.
 
 **Aluminum** is about one-third the weight of steel with good corrosion resistance. Essential in [aerospace engineering](/aerodynamics)), transportation, and [electronics](/electronics) enclosures. It's softer and more prone to scratching, but its light weight often outweighs (pun intended) that drawback.
 
 **Galvanized steel** is mild steel coated with a thin layer of zinc to prevent rust. The standard material for HVAC ductwork, outdoor enclosures, and agricultural equipment.
 
-**Copper and brass** are used for decorative work, electrical applications, and plumbing. Copper roofing develops its distinctive green patina (verdigris) over years of exposure.
+**Copper and brass** are used for decorative work, electrical applications, and [plumbing](/plumbing). Copper [roofing](/roofing) develops its distinctive green patina (verdigris) over years of exposure.
 
 ## Cutting: The First Operation
 
@@ -79,7 +79,7 @@ The cut quality is excellent. The "kerf" (the width of material removed by the c
 
 A plasma cutter forces compressed air through a nozzle while passing an electrical arc through it, creating a jet of superheated plasma at temperatures up to 30,000 degrees Celsius. This jet melts through metal quickly, making plasma cutting ideal for thicker materials (6mm and up) where lasers become slow and expensive.
 
-Plasma cutting is faster than laser cutting for thick materials and cheaper per cut. The trade-off is lower precision and rougher cut edges. For structural steel work and heavy fabrication, that trade-off is usually worth it.
+Plasma cutting is faster than laser cutting for thick materials and cheaper per cut. The [trade](/trade)-off is lower precision and rougher cut edges. For structural steel work and heavy fabrication, that trade-off is usually worth it.
 
 ### Waterjet Cutting
 
@@ -101,7 +101,7 @@ Cutting gives you a flat shape. Bending gives you the third dimension. This is w
 
 The press brake is the most important bending machine in sheet metal fabrication. It consists of a top beam (the ram) that pushes a V-shaped punch into the workpiece, forcing the metal into a matching V-shaped die below.
 
-The geometry of the bend is controlled by three variables: the punch angle, the die opening width, and the depth of the punch's stroke. Different combinations produce different bend angles, from a gentle 30-degree bend to a sharp 135-degree fold.
+The [geometry](/geometry) of the bend is controlled by three variables: the punch angle, the die opening width, and the depth of the punch's stroke. Different combinations produce different bend angles, from a gentle 30-degree bend to a sharp 135-degree fold.
 
 **Air bending** — the most common method — pushes the punch partway into the die opening. The bend angle is determined by how far down the punch travels, not by the tool geometry. This means a single set of tools can produce multiple bend angles, making air bending extremely flexible.
 
@@ -111,27 +111,27 @@ The geometry of the bend is controlled by three variables: the punch angle, the 
 
 ### Springback: The Eternal Headache
 
-When you bend sheet metal and release it, it springs back slightly toward its original flat shape. This **springback** varies by material, thickness, bend radius, and grain direction. Mild steel might spring back 2-3 degrees. Stainless steel springs back more. Aluminum can spring back 5-8 degrees.
+When you bend sheet metal and release it, it [springs](/springs) back slightly toward its original flat shape. This **springback** varies by material, thickness, bend radius, and grain direction. Mild steel might spring back 2-3 degrees. Stainless steel springs back more. Aluminum can spring back 5-8 degrees.
 
-Every experienced fabricator accounts for springback by overbending — if you need a 90-degree bend in a material that springs back 3 degrees, you bend to 87 degrees. CNC press brakes can calculate and compensate for springback automatically, but the physics is always there, always needing to be managed.
+Every experienced fabricator accounts for springback by overbending — if you need a 90-degree bend in a material that springs back 3 degrees, you bend to 87 degrees. CNC press brakes can calculate and compensate for springback automatically, but the [physics](/physics) is always there, always needing to be managed.
 
 ### Roll Forming
 
 For long, uniform profiles — think rain gutters, roof panels, metal studs, C-channels — roll forming is the efficient choice. The sheet metal passes through a series of roller stations, each one adding a bit more bend until the final profile shape is achieved. Roll forming is continuous — you feed in flat coil and get finished profiles out the other end, potentially at speeds of 30-100 meters per minute.
 
-The tooling cost is high (each profile needs its own set of rollers), but the per-unit cost is extremely low at volume. This makes roll forming ideal for [construction](/construction), [automotive](/automotive-engineering), and HVAC applications where you need miles of identical profiles.
+The tooling cost is high (each profile needs its own set of rollers), but the per-unit cost is extremely low at volume. This makes roll forming ideal for [construction](/construction), [automotive](/automotive-[engineering](/engineering)), and HVAC applications where you need miles of identical profiles.
 
 ### Stamping and Deep Drawing
 
 Stamping uses custom dies in high-speed presses to form parts in a single stroke — or a series of progressive strokes. A car door panel starts as a flat sheet, gets placed in a stamping press, and emerges as a three-dimensional shape in seconds. Stamping presses can produce 500-1,500 parts per hour.
 
-Deep drawing is a stamping variant that forms cup-shaped or box-shaped parts by pulling flat sheet metal into a die cavity. Beverage cans, kitchen sinks, ammunition casings, and automotive fuel tanks are all deep-drawn. The physics of deep drawing — managing the flow of metal, preventing wrinkling, avoiding tearing — is genuinely complex. Getting the blank holder force, lubrication, and draw ratio right requires both engineering analysis and practical experience.
+Deep drawing is a stamping variant that forms cup-shaped or box-shaped parts by pulling flat sheet metal into a die cavity. Beverage cans, kitchen sinks, ammunition casings, and automotive fuel tanks are all deep-drawn. The physics of deep drawing — managing the flow of metal, preventing wrinkling, avoiding tearing — is genuinely complex. Getting the blank holder force, lubrication, and draw ratio right requires both [engineering](/engineering) analysis and practical experience.
 
 ### Hydroforming
 
 Hydroforming uses hydraulic fluid pressure to force sheet metal against a die. The fluid pressure is uniform, so the part forms evenly without the friction issues that plague mechanical forming. Hydroforming produces parts with more uniform wall thickness, better surface finish, and tighter tolerances than conventional stamping.
 
-Automotive manufacturers use hydroforming extensively for structural frame components. The process can form complex shapes in a single operation that would otherwise require multiple stamping steps and welding.
+Automotive manufacturers use hydroforming extensively for structural frame components. The process can form complex shapes in a single operation that would otherwise require multiple stamping steps and [welding](/welding).
 
 ## Joining: Putting It All Together
 

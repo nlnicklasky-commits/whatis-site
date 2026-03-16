@@ -39,7 +39,7 @@ faq:
 
 Space colonization is the proposed establishment of permanent, self-sustaining human communities beyond Earth — on other planets, moons, asteroids, or in free-floating space habitats. It represents one of the most ambitious goals in human history: transforming our species from a single-planet civilization into a multi-world one.
 
-As of now, zero humans live permanently off Earth. But the idea has moved from pure [science fiction](/science-fiction) to serious engineering discussion, with multiple government agencies and private companies actively developing the hardware to make it possible.
+As of now, zero humans live permanently off Earth. But the idea has moved from pure [science fiction](/science-fiction) to serious [engineering](/engineering) discussion, with multiple [government](/government) agencies and private companies actively developing the hardware to make it possible.
 
 ## Why Leave Earth at All?
 
@@ -47,7 +47,7 @@ This is the first question skeptics ask, and it deserves a serious answer. Earth
 
 ### The Extinction Argument
 
-The most compelling case for space colonization is risk reduction. Earth has experienced five mass extinction events in the last 500 million years. The Chicxulub asteroid that killed the dinosaurs 66 million years ago was about 10 kilometers across — a rock the size of a city. There's nothing in the laws of physics preventing another one.
+The most compelling case for space colonization is risk reduction. Earth has experienced five mass extinction events in the last 500 million years. The Chicxulub asteroid that killed the [dinosaurs](/dinosaurs) 66 million years ago was about 10 kilometers across — a rock the size of a city. There's nothing in the laws of physics preventing another one.
 
 Beyond asteroids, there are supervolcanoes, gamma-ray bursts, engineered pandemics, nuclear war, and risks we haven't imagined yet. As long as all 8 billion of us live on one planet, a single catastrophic event could end the human story permanently.
 
@@ -57,7 +57,7 @@ A self-sustaining colony on Mars (or anywhere off Earth) wouldn't prevent disast
 
 Earth's resources are finite. Asteroid mining could provide effectively unlimited supplies of metals, rare earth elements, and even water. A single metallic asteroid 500 meters in diameter could contain more platinum-group metals than have ever been mined on Earth.
 
-Space-based solar power could capture sunlight 24/7 without atmospheric interference, potentially solving energy problems. Manufacturing in microgravity enables the creation of materials impossible to produce on Earth — perfect crystals, ultra-pure alloys, and specialized fiber optics.
+Space-based solar power could capture sunlight 24/7 without atmospheric interference, potentially solving energy problems. Manufacturing in microgravity enables the creation of materials impossible to produce on Earth — perfect crystals, ultra-pure alloys, and specialized [fiber optics](/fiber-optics).
 
 These economic arguments are speculative and long-term, but they're taken seriously by investors. The space economy was valued at approximately $469 billion in 2023 and is projected to exceed $1 trillion by the mid-2030s.
 
@@ -121,7 +121,7 @@ O'Neill's design envisioned enormous rotating cylinders — 8 kilometers in diam
 
 Such structures could be placed at gravitationally stable Lagrange points (like L5, between Earth and the Moon) and built from materials mined on the Moon or asteroids. They'd have controlled environments — perfect weather, no [natural disasters](/natural-disasters), adjustable gravity.
 
-The engineering challenges are staggering: the mass of such a cylinder, radiation shielding, structural integrity under rotation, and the sheer scale of construction. But the physics works. O'Neill's calculations showed that the structural loads are within the capability of existing materials like steel and titanium.
+The engineering challenges are staggering: the mass of such a cylinder, radiation shielding, structural integrity under rotation, and the sheer scale of [construction](/construction). But the physics works. O'Neill's calculations showed that the structural loads are within the capability of existing materials like steel and titanium.
 
 Jeff Bezos has explicitly cited O'Neill's work as inspiration for Blue Origin's long-term vision, suggesting free-floating habitats could eventually support trillions of people in the solar system.
 
@@ -133,11 +133,11 @@ The hardest engineering problem in space colonization isn't propulsion — it's 
 
 A person needs approximately: 0.84 kilograms of oxygen per day, 2.5 kilograms of water (with more for hygiene and food preparation), 1.8 kilograms of food (dry mass), and radiation protection equivalent to Earth's atmosphere plus magnetic field. They produce about 1 kilogram of carbon dioxide per day, plus urine, feces, and trace contaminants.
 
-On the International Space Station, life support costs about $22,000 per person per day when you factor in resupply missions. A self-sustaining colony must bring that cost to essentially zero by closing all the loops — recycling water, regenerating oxygen, growing food, and processing waste.
+On the International Space Station, life support costs about $22,000 per person per day when you factor in resupply missions. A self-sustaining colony must bring that cost to essentially zero by closing all the loops — [recycling](/recycling) water, regenerating oxygen, growing food, and processing waste.
 
 ### Bioregenerative Life Support
 
-The only long-term solution is growing plants. [Plants](/botany) consume CO2 and produce oxygen. They purify water through transpiration. And they produce food. A fully closed bioregenerative system would use plants (and possibly algae and microbes) to maintain atmospheric composition, recycle water, and provide nutrition.
+The only long-term solution is growing plants. [Plants](/botany) consume CO2 and produce oxygen. They purify water through transpiration. And they produce food. A fully closed bioregenerative system would use plants (and possibly algae and microbes) to maintain atmospheric composition, recycle water, and provide [nutrition](/nutrition).
 
 NASA's Controlled Ecological Life Support System (CELSS) program and international projects like MELiSSA (Micro-Ecological Life Support System Alternative, run by ESA) have been developing these systems for decades. The challenge is reliability: a life support system that works 99% of the time kills everyone the other 1%.
 
@@ -179,6 +179,6 @@ A permanent, self-sustaining colony — one that could survive indefinitely with
 
 Space colonization forces a question that sounds philosophical but is actually very practical: is humanity a one-planet species, or a multi-planet one?
 
-The answer isn't predetermined. It depends on whether we're willing to spend the money, develop the technology, and accept the risks. The physics allows it. The engineering is hard but tractable. The biology is uncertain. The economics are unfavorable in the short term. The politics are complicated.
+The answer isn't predetermined. It depends on whether we're willing to spend the money, develop the technology, and accept the risks. The physics allows it. The engineering is hard but tractable. The biology is uncertain. The [economics](/economics) are unfavorable in the short term. The politics are complicated.
 
 But so was crossing the Atlantic in a wooden ship. So was building a railroad across a continent. So was flying. Every great expansion in [human geography](/human-geography) seemed impossible until it wasn't. Space colonization might follow the same pattern — or it might not. The only way to find out is to try.

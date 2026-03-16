@@ -85,7 +85,7 @@ The early 21st century has produced a foreign policy field of unusual complexity
 
 **Great power competition** between the U.S. and China dominates strategic thinking. The competition spans trade, technology, military presence in the Pacific, influence in developing countries, and control of critical supply chains (especially semiconductors).
 
-**Climate change** is increasingly recognized as a foreign policy issue. It drives migration, resource competition, food insecurity, and conflict. International cooperation on emissions reduction requires coordinated foreign policy on a scale never before attempted.
+**[Climate change](/climate-change)** is increasingly recognized as a foreign policy issue. It drives migration, resource competition, food insecurity, and conflict. International cooperation on emissions reduction requires coordinated foreign policy on a scale never before attempted.
 
 **Technology** creates new foreign policy challenges: cyber warfare, AI-driven disinformation, data privacy across borders, and the governance of global tech platforms. Traditional diplomatic frameworks weren't designed for threats that move at internet speed.
 

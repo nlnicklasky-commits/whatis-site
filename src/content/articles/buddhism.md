@@ -39,7 +39,7 @@ faq:
 
 # What Is Buddhism?
 
-Buddhism is a religion and philosophical system founded in the 5th century BCE by Siddhartha Gautama, known as the Buddha, based on the principle that suffering arises from attachment and craving and can be ended through ethical conduct, mental discipline, and wisdom — specifically through the Four Noble Truths and the Noble Eightfold Path.
+Buddhism is a [religion](/religion) and philosophical system founded in the 5th century BCE by Siddhartha Gautama, known as the Buddha, based on the principle that suffering arises from attachment and craving and can be ended through ethical conduct, mental discipline, and wisdom — specifically through the Four Noble Truths and the Noble Eightfold Path.
 
 ## The Man Behind the Teaching
 
@@ -53,7 +53,7 @@ For six years, he tried everything. He studied under the leading [meditation](/m
 
 He eventually sat under a Bodhi tree in Bodh Gaya (modern Bihar, India) and resolved not to rise until he understood. After a night of intense meditation, he reached what Buddhists call enlightenment — a complete understanding of the nature of suffering, its causes, and its cessation. He was 35.
 
-He spent the remaining 45 years of his life teaching. He died around 483 BCE at age 80 in Kushinagar, India — reportedly from food poisoning after eating a meal offered by a blacksmith named Cunda.
+He spent the remaining 45 years of his life [teaching](/teaching). He died around 483 BCE at age 80 in Kushinagar, India — reportedly from food poisoning after eating a meal offered by a blacksmith named Cunda.
 
 Here's what makes the Buddha different from founders of other religions: he never claimed to be divine. He didn't claim to be a messenger of God. He said he was a human being who discovered something through his own effort — and that anyone else could discover the same thing through the same effort. That's a remarkably democratic claim for a religious founder.
 
@@ -125,7 +125,7 @@ The Eightfold Path is organized into three categories: wisdom, ethical conduct, 
 
 **Right Concentration** — Developing focused, unified states of mind through meditation. The texts describe four jhanas (absorption states) of increasingly refined concentration and tranquility.
 
-The path factors work together. You can't develop genuine concentration without ethical conduct (guilt and anxiety disturb focus). You can't maintain ethical conduct without wisdom (you need to understand why ethics matter). Each factor supports and reinforces the others.
+The path factors work together. You can't develop genuine concentration without ethical conduct (guilt and anxiety disturb focus). You can't maintain ethical conduct without wisdom (you need to understand why [ethics](/ethics) matter). Each factor supports and reinforces the others.
 
 ## Key Concepts That Shape Buddhist Thought
 
@@ -155,7 +155,7 @@ Different Buddhist traditions interpret rebirth differently. Some take it litera
 
 ### Dependent Origination (Pratityasamutpada)
 
-Nothing exists independently. Everything arises in dependence on causes and conditions. A tree depends on soil, water, sunlight, and seed. Your mood depends on sleep, nutrition, social interaction, and brain [chemistry](/chemistry). Even what seems most solid and independent is actually a web of interconnected conditions.
+Nothing exists independently. Everything arises in dependence on causes and conditions. A tree depends on soil, water, sunlight, and seed. Your mood depends on sleep, [nutrition](/nutrition), social interaction, and brain [chemistry](/chemistry). Even what seems most solid and independent is actually a web of interconnected conditions.
 
 This principle underlies all Buddhist thought. Suffering arises from conditions (craving and ignorance) and ceases when those conditions are removed. Nothing is inherently anything — things are what they are because of their conditions.
 
@@ -177,11 +177,11 @@ Mahayana ("Great Vehicle") emerged around the 1st century CE and represents the 
 
 Mahayana introduced the bodhisattva ideal — instead of seeking personal liberation, the bodhisattva vows to achieve enlightenment for the benefit of all beings. This shift from individual to collective liberation is the tradition's defining feature.
 
-Mahayana developed extensive philosophical systems. Nagarjuna (c. 150-250 CE) articulated the doctrine of emptiness (sunyata) — the idea that all things are empty of inherent, independent existence. This isn't nihilism; it's the logical extension of dependent origination. If everything depends on conditions, nothing has independent self-nature.
+Mahayana developed extensive philosophical systems. Nagarjuna (c. 150-250 CE) articulated the doctrine of emptiness (sunyata) — the idea that all things are empty of inherent, independent existence. This isn't [nihilism](/nihilism); it's the logical extension of dependent origination. If everything depends on conditions, nothing has independent self-nature.
 
 Major Mahayana schools include:
 
-**Zen Buddhism** (Chan in China) emphasizes direct experience through meditation, often using koans (paradoxical riddles) to break through conceptual thinking. The famous "What is the sound of one hand clapping?" is a Zen koan.
+**Zen Buddhism** (Chan in China) emphasizes direct experience through meditation, often using koans (paradoxical [riddles](/riddles)) to break through conceptual thinking. The famous "What is the sound of one hand clapping?" is a Zen koan.
 
 **Pure Land Buddhism** focuses on devotion to Amitabha Buddha and rebirth in his Pure Land — a area where conditions are ideal for achieving enlightenment. This is the most practiced form of Buddhism in East Asia, offering a devotional path accessible to laypeople who can't dedicate their lives to meditation.
 

@@ -41,7 +41,7 @@ Currency trading---also called foreign exchange or forex trading---is the buying
 
 ## The Basics: Everything Is a Pair
 
-Here's the first thing that confuses newcomers: in currency trading, you never trade a single currency. You always trade a pair. When you buy EUR/USD, you're simultaneously buying euros and selling US dollars. When you sell GBP/JPY, you're selling British pounds and buying Japanese yen.
+Here's the first thing that confuses newcomers: in currency trading, you never [trade](/trade) a single currency. You always trade a pair. When you buy EUR/USD, you're simultaneously buying euros and selling US dollars. When you sell GBP/JPY, you're selling British pounds and buying Japanese yen.
 
 The first currency in a pair is the "base currency." The second is the "quote currency." The exchange rate tells you how much of the quote currency you need to buy one unit of the base currency. If EUR/USD = 1.0850, one euro costs 1.0850 US dollars.
 
@@ -137,7 +137,7 @@ Economic indicators move currencies because they influence expectations about fu
 
 **Employment data**: The U.S. Non-Farm Payrolls report (released the first Friday of each month) is one of the most market-moving events in forex. Strong employment suggests economic strength and potential rate hikes.
 
-**Trade balance**: Countries that export more than they import (trade surplus) see higher demand for their currency from foreign buyers. Countries running persistent trade deficits face downward pressure on their currencies.
+**Trade balance**: Countries that export more than they import (trade surplus) see higher demand for their currency from foreign buyers. Countries [running](/running) persistent trade deficits face downward pressure on their currencies.
 
 ### Political and Geopolitical Events
 
@@ -147,7 +147,7 @@ Political stability supports currency value. Countries with predictable governan
 
 ### Market Sentiment and Positioning
 
-In the short term, market psychology matters as much as fundamentals. Fear drives money into "safe haven" currencies---the U.S. dollar, Japanese yen, and Swiss franc. Risk appetite drives money into higher-yielding emerging market currencies.
+In the short term, market [psychology](/psychology) matters as much as fundamentals. Fear drives money into "safe haven" currencies---the U.S. dollar, Japanese yen, and Swiss franc. Risk appetite drives money into higher-yielding emerging market currencies.
 
 Positioning data (like the CFTC's Commitments of Traders report) shows how leveraged traders are positioned. When the market is overwhelmingly positioned in one direction, the risk of a sharp reversal increases---because any catalyst for the opposite move can trigger a cascade of stop-losses and forced liquidations.
 
@@ -159,7 +159,7 @@ Currency traders employ various approaches, ranging from pure [technical analysi
 
 Technical traders use price charts, patterns, and statistical indicators to identify trading opportunities. They look for trends (moving averages, trendlines), support and resistance levels (prices where buying or selling has historically concentrated), and momentum indicators (RSI, MACD, stochastics).
 
-The philosophy behind technical analysis is that all relevant information is already reflected in the price, and price movements follow recognizable patterns. Critics argue it's [pattern recognition](/pattern-recognition) on random data. Proponents argue that because so many traders use technical analysis, the patterns become self-fulfilling---enough traders buying at a support level actually creates support.
+The [philosophy](/philosophy) behind technical analysis is that all relevant information is already reflected in the price, and price movements follow recognizable patterns. Critics argue it's [pattern recognition](/pattern-recognition) on random data. Proponents argue that because so many traders use technical analysis, the patterns become self-fulfilling---enough traders buying at a support level actually creates support.
 
 ### [Fundamental Analysis](/fundamental-analysis)
 
@@ -205,7 +205,7 @@ Currency trading isn't just about making money. The forex market performs essent
 
 It enables [international trade](/international-trade) by providing the mechanism for converting currencies. Without forex markets, a Japanese company couldn't efficiently buy Brazilian soybeans or a French airline couldn't buy American aircraft.
 
-It provides price discovery for currencies, reflecting the collective judgment of millions of participants about each currency's relative value. These prices, in turn, affect import and export costs, inflation, tourism, and foreign investment flows.
+It provides price discovery for currencies, reflecting the collective judgment of millions of participants about each currency's relative value. These prices, in turn, affect import and export costs, inflation, [tourism](/tourism), and foreign investment flows.
 
 It allows risk transfer---companies can hedge their currency exposure to focus on their core business rather than worrying about exchange rate fluctuations. This is directly relevant to [corporate-finance](/corporate-finance) decisions at multinational companies.
 
@@ -219,7 +219,7 @@ Several developments are reshaping forex markets.
 
 **[Blockchain](/blockchain) and settlement**: Traditional forex trades settle in T+2 (two business days after the trade). Distributed ledger technology could enable real-time settlement, reducing counterparty risk and freeing up capital currently locked in settlement processes.
 
-**Retail access**: Trading platforms continue lowering barriers to entry, though increased accessibility without increased education creates risks. Regulatory responses---use caps, negative balance protection, and stricter broker requirements---attempt to protect retail participants.
+**Retail access**: Trading platforms continue lowering barriers to entry, though increased accessibility without increased [education](/education) creates risks. Regulatory responses---use caps, negative balance protection, and stricter broker requirements---attempt to protect retail participants.
 
 **Emerging market currencies**: As emerging economies grow, their currencies become more actively traded. The Chinese yuan's share of global forex turnover has grown from 1% in 2007 to about 7% in 2022---still small relative to China's economic size, but growing.
 

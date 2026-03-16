@@ -39,7 +39,7 @@ Jazz did not appear from nothing. It grew from several roots:
 
 **Blues** — the music of African American experience in the South, built on call-and-response patterns, "blue" notes (slightly flattened thirds and sevenths), and raw emotional expression.
 
-**Ragtime** — piano music with syncopated rhythms over a steady bass, popularized by Scott Joplin in the 1890s and early 1900s.
+**Ragtime** — [piano](/piano) music with syncopated rhythms over a steady bass, popularized by Scott Joplin in the 1890s and early 1900s.
 
 **Brass band music** — New Orleans had a vibrant tradition of marching bands for parades, funerals, and celebrations. These bands provided the instrumentation ([trumpet](/trumpet), trombone, clarinet, drums) that early jazz would adopt.
 

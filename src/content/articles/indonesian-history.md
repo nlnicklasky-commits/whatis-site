@@ -35,7 +35,7 @@ faq:
 
 # What Is Indonesian History?
 
-Indonesian history is the story of the world's largest archipelago — over 17,000 islands stretching across 5,100 kilometers of equatorial ocean — from ancient Hindu-Buddhist kingdoms and Islamic sultanates through centuries of Dutch colonial rule to its emergence as the world's fourth most populous nation. It is a history shaped by trade, maritime power, religious transformation, colonial exploitation, and the challenge of forging unity from extraordinary diversity.
+Indonesian history is the story of the world's largest archipelago — over 17,000 islands stretching across 5,100 kilometers of equatorial ocean — from ancient Hindu-Buddhist kingdoms and Islamic sultanates through centuries of Dutch colonial rule to its emergence as the world's fourth most populous nation. It is a history shaped by [trade](/trade), maritime power, religious transformation, colonial exploitation, and the challenge of [forging](/forging) unity from extraordinary diversity.
 
 ## [Geography](/geography) as Destiny
 
@@ -47,21 +47,21 @@ The sheer size and fragmentation of the archipelago also created staggering dive
 
 ## Hindu-Buddhist Kingdoms: The First Millennium
 
-Indian cultural influence reached the Indonesian archipelago through trade networks beginning around the 1st century CE. The result wasn't conquest — India never colonized Southeast Asia. Instead, local elites selectively adopted Indian religions (Hinduism and [Buddhism](/buddhism)), writing systems (Sanskrit), political models (the concept of the divine king), and artistic traditions, blending them with indigenous beliefs and practices.
+Indian cultural influence reached the Indonesian archipelago through trade networks beginning around the 1st century CE. The result wasn't conquest — India never colonized Southeast Asia. Instead, local elites selectively adopted Indian religions ([Hinduism](/hinduism) and [Buddhism](/buddhism)), [writing](/writing) systems ([Sanskrit](/sanskrit)), political models (the concept of the divine king), and artistic traditions, blending them with indigenous beliefs and practices.
 
 The first major Indianized state was Srivijaya, a maritime empire centered on Sumatra that dominated the Strait of Malacca from roughly the 7th to the 13th century. Srivijaya's power came from controlling trade — it taxed ships passing through the strait and maintained a navy to enforce its monopoly. The Chinese monk Yijing, who visited in the 7th century, described Srivijaya as a major center of Buddhist learning with over a thousand monks.
 
 On Java, a different pattern emerged. The Sailendra dynasty built Borobudur — the world's largest Buddhist temple — around 800 CE. This massive stone monument, with over 2,600 relief panels and 504 Buddha statues arranged on nine stacked platforms, remains one of the most astonishing architectural achievements in human history. Nearby, the Hindu Prambanan temple complex, built slightly later, demonstrates that Hinduism and Buddhism coexisted (and competed) on Java.
 
-The Majapahit Empire (1293-1527) represented the peak of Hindu-Javanese civilization. Under Prime Minister Gajah Mada, Majapahit claimed sovereignty over much of the Indonesian archipelago and parts of mainland Southeast Asia. How much actual control it exercised over distant islands is debated, but its cultural influence was enormous. The Majapahit court produced elaborate poetry, refined court rituals, and a political ideology that later Indonesian nationalists would invoke when arguing for a unified Indonesian state.
+The Majapahit Empire (1293-1527) represented the peak of Hindu-Javanese civilization. Under Prime Minister Gajah Mada, Majapahit claimed sovereignty over much of the Indonesian archipelago and parts of mainland Southeast Asia. How much actual control it exercised over distant islands is debated, but its cultural influence was enormous. The Majapahit court produced elaborate [poetry](/poetry), refined court rituals, and a political ideology that later Indonesian nationalists would invoke when arguing for a unified Indonesian state.
 
 ## The Coming of Islam
 
-Islam reached the Indonesian archipelago through trade — Arab, Indian, and Chinese Muslim merchants who had been trading in Southeast Asian ports for centuries. The conversion process was gradual, beginning around the 13th century in northern Sumatra and spreading through Java and the eastern islands over the next 300 years.
+[Islam](/islam) reached the Indonesian archipelago through trade — Arab, Indian, and Chinese Muslim merchants who had been trading in Southeast Asian ports for centuries. The conversion process was gradual, beginning around the 13th century in northern Sumatra and spreading through Java and the eastern islands over the next 300 years.
 
-The spread of Islam in Indonesia was remarkably different from the Middle Eastern or North African experience. There was no military conquest. Conversion was driven by trade networks, intermarriage, and the activities of Sufi mystics whose emphasis on personal spiritual experience resonated with existing Javanese mystical traditions. Islam in Java, in particular, developed a distinctive character — heavily syncretic, blending Islamic theology with Hindu-Buddhist concepts, Javanese animist beliefs, and local customs.
+The spread of Islam in Indonesia was remarkably different from the Middle Eastern or North African experience. There was no military conquest. Conversion was driven by trade networks, intermarriage, and the activities of Sufi mystics whose emphasis on personal spiritual experience resonated with existing Javanese mystical traditions. Islam in Java, in particular, developed a distinctive character — heavily syncretic, blending Islamic [theology](/theology) with Hindu-Buddhist concepts, Javanese animist beliefs, and local customs.
 
-By the 16th century, Islamic sultanates had replaced Hindu-Buddhist kingdoms across most of the archipelago. The Sultanate of Malacca (on the Malay Peninsula but culturally tied to Sumatra), the Sultanate of Demak (on Java's north coast), and the Sultanate of Ternate (in the Spice Islands) were among the most powerful. But Islam's character varied enormously from place to place — the strict [Islamic law](/comparative-religion) of Aceh in northern Sumatra contrasted sharply with the relaxed syncretism of central Java. Bali, notably, remained Hindu, as it does to this day.
+By the 16th century, Islamic sultanates had replaced Hindu-Buddhist kingdoms across most of the archipelago. The Sultanate of Malacca (on the Malay Peninsula but culturally tied to Sumatra), the Sultanate of Demak (on Java's north coast), and the Sultanate of Ternate (in the Spice Islands) were among the most powerful. But Islam's character varied enormously from place to place — the strict [Islamic law](/comparative-[religion](/religion)) of Aceh in northern Sumatra contrasted sharply with the relaxed syncretism of central Java. Bali, notably, remained Hindu, as it does to this day.
 
 ## The Colonial Period: 350 Years of Exploitation
 
@@ -75,7 +75,7 @@ The "Ethical Policy" adopted around 1901 promised to improve [education](/educat
 
 ## The Independence Struggle
 
-Indonesian nationalism emerged in the early 20th century, drawing on diverse sources: Islamic modernism, Marxism, traditional Javanese culture, and Western liberal ideals. The founding of Budi Utomo (1908), the first indigenous political organization, is conventionally marked as the beginning of the nationalist movement. The Youth Pledge of 1928 — in which young activists from across the archipelago declared "one nation, one people, one language" (Indonesian, based on Malay) — was a defining moment.
+Indonesian nationalism emerged in the early 20th century, [drawing](/drawing) on diverse sources: Islamic modernism, [Marxism](/marxism), traditional Javanese culture, and Western liberal ideals. The founding of Budi Utomo (1908), the first indigenous political organization, is conventionally marked as the beginning of the nationalist movement. The Youth Pledge of 1928 — in which young activists from across the archipelago declared "one nation, one people, one language" (Indonesian, based on Malay) — was a defining moment.
 
 The Japanese occupation during [World War II](/world-war-ii) (1942-1945) shattered the myth of European invincibility and provided Indonesians with military training and administrative experience. When Japan surrendered on August 15, 1945, nationalist leaders Sukarno and Mohammad Hatta declared independence two days later.
 

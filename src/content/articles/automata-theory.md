@@ -39,7 +39,7 @@ faq:
 
 # What Is Automata Theory?
 
-Automata theory is the branch of [theoretical computer science](/theoretical-computer-science) and mathematics that studies abstract computing machines — called automata — and the problems they can solve. It provides the mathematical foundations for understanding computation itself: what can be computed, what can't, and how much resources (time, memory) different computations require. Along with computability theory and [complexity theory](/complexity-theory), it forms the theoretical backbone of computer science.
+Automata theory is the branch of [theoretical computer science](/theoretical-computer-science) and [mathematics](/mathematics) that studies abstract computing machines — called automata — and the problems they can solve. It provides the mathematical foundations for understanding computation itself: what can be computed, what can't, and how much resources (time, memory) different computations require. Along with computability theory and [complexity theory](/complexity-theory), it forms the theoretical backbone of computer science.
 
 ## Why Study Machines That Don't Exist?
 
@@ -47,9 +47,9 @@ Here's the thing that trips people up. Automata theory studies *abstract* machin
 
 So why bother?
 
-Because these abstract models reveal fundamental truths about computation that apply to *every* computer, regardless of its physical construction. A proof that a Turing machine can't solve a particular problem means no computer can solve it — not your laptop, not a supercomputer, not some future machine built with technology that doesn't exist yet. The results are universal.
+Because these abstract models reveal fundamental truths about computation that apply to *every* computer, regardless of its physical [construction](/construction). A proof that a Turing machine can't solve a particular problem means no computer can solve it — not your laptop, not a supercomputer, not some future machine built with technology that doesn't exist yet. The results are universal.
 
-That's an extraordinary claim. But it's backed by nearly a century of mathematical proof, and nobody has found a counterexample. The abstract machines of automata theory are to computer science what idealized models are to physics — simplified systems that capture essential behavior while ignoring irrelevant details.
+That's an extraordinary claim. But it's backed by nearly a century of mathematical proof, and nobody has found a counterexample. The abstract machines of automata theory are to [computer science](/computer-science) what idealized models are to [physics](/physics) — simplified systems that capture essential behavior while ignoring irrelevant details.
 
 ## The Hierarchy of Machines
 
@@ -82,7 +82,7 @@ Add a stack — a last-in, first-out memory structure — to a finite automaton,
 
 This extra memory is exactly what's needed to handle **context-free languages** — patterns that require matching or counting nested structures. The most classic example: matching parentheses. The string "(()())" is balanced. The string "(()" is not. A finite automaton can't check this for arbitrary nesting depth, but a pushdown automaton can — push an opening paren, pop when you see a closing one, accept if the stack is empty at the end.
 
-Context-free languages are directly relevant to programming. The syntax of virtually every programming language is defined by a context-free grammar. When a compiler parses your code — checking that your if-else blocks are properly structured, that your function calls have matching parentheses, that your expressions follow operator precedence — it's using a pushdown automaton (or an equivalent algorithm) based on the language's context-free grammar.
+Context-free languages are directly relevant to programming. The [syntax](/syntax) of virtually every programming language is defined by a context-free [grammar](/grammar). When a compiler parses your code — checking that your if-else blocks are properly structured, that your function calls have matching parentheses, that your expressions follow operator precedence — it's using a pushdown automaton (or an equivalent algorithm) based on the language's context-free grammar.
 
 Noam Chomsky introduced context-free grammars in the 1950s as a model for natural language syntax. While human language turned out to be more complex than context-free grammars can handle, the formalism found its perfect application in programming language design.
 
@@ -103,9 +103,9 @@ The most powerful machines in the hierarchy. A Turing machine, proposed by Alan 
 
 At each step, the machine reads the symbol under the head, consults its transition rules based on the current state and symbol, writes a new symbol, moves the head left or right, and transitions to a new state.
 
-That's it. An infinite tape, a read/write head, and a lookup table of rules. It sounds almost absurdly simple. But this minimal machine can compute *anything that any computer can compute.* Your laptop, running any program in any language, is doing nothing that a Turing machine (with enough time and tape) couldn't do.
+That's it. An infinite tape, a read/write head, and a lookup table of rules. It sounds almost absurdly simple. But this minimal machine can compute *anything that any computer can compute.* Your laptop, [running](/running) any program in any language, is doing nothing that a Turing machine (with enough time and tape) couldn't do.
 
-This isn't a vague metaphor. It's a mathematical claim — the **Church-Turing thesis** — that has held up for nearly 90 years. Every other proposed model of computation (lambda calculus, recursive functions, [cellular automata](/cellular-automata), quantum computers solving decision problems) has been proven equivalent to Turing machines. No one has found a practically realizable computing model that can solve problems a Turing machine can't.
+This isn't a vague metaphor. It's a mathematical claim — the **Church-Turing thesis** — that has held up for nearly 90 years. Every other proposed model of computation (lambda [calculus](/calculus), recursive functions, [cellular automata](/cellular-automata), quantum computers solving decision problems) has been proven equivalent to Turing machines. No one has found a practically realizable computing model that can solve problems a Turing machine can't.
 
 ## Turing's Breakthrough: Some Problems Are Unsolvable
 
@@ -202,7 +202,7 @@ Complexity classes like P, NP, PSPACE, and EXPTIME are defined in terms of Turin
 
 ## The Philosophical Depth
 
-Automata theory raises questions that reach beyond computer science into philosophy.
+Automata theory raises questions that reach beyond computer science into [philosophy](/philosophy).
 
 **What is computation?** The Church-Turing thesis says Turing machines capture everything we mean by "effective computation." But is human thinking a form of computation? Can creativity, consciousness, or understanding be modeled as Turing computation? Roger Penrose has argued no; most AI researchers assume yes (or at least haven't found evidence to the contrary).
 

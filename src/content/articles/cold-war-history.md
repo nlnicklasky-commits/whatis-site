@@ -59,7 +59,7 @@ Korea established a pattern that would repeat throughout the Cold War: the super
 
 The arms race defined the Cold War's unique terror. The U.S. tested the first hydrogen bomb in 1952. The Soviets followed in 1953. By the 1960s, both nations had enough nuclear weapons to destroy civilization multiple times over — a concept chillingly called "mutually assured destruction," or MAD.
 
-At its peak, the combined U.S. and Soviet nuclear arsenal exceeded 70,000 warheads. The logic was perverse but internally consistent: if both sides knew that launching a nuclear attack would guarantee their own destruction, neither side would launch. Peace through terror.
+At its peak, the combined U.S. and Soviet nuclear arsenal exceeded 70,000 warheads. The [logic](/logic) was perverse but internally consistent: if both sides knew that launching a nuclear attack would guarantee their own destruction, neither side would launch. Peace through terror.
 
 The problem was that MAD assumed rational decision-making. It didn't account for false alarms, accidents, or leaders under extreme stress. In September 1983, Soviet Lt. Colonel Stanislav Petrov received a satellite alert indicating five incoming American missiles. He decided it was a false alarm — his own judgment against the computer system — and didn't report it up the chain. He was right. The alert was caused by sunlight reflecting off clouds. One man's skepticism may have prevented nuclear war.
 

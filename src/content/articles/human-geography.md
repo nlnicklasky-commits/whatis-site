@@ -33,7 +33,7 @@ faq:
 
 # What Is Human Geography?
 
-Human geography is the branch of geography that studies the spatial patterns of human activity — where people live, how they organize their societies, why they move, and how they transform the physical environment through culture, economics, and politics. While [physical geography](/physical-geography) examines the natural world (mountains, rivers, climate), human geography asks: what are people doing on that field, and why?
+Human [geography](/geography) is the branch of geography that studies the spatial patterns of human activity — where people live, how they organize their societies, why they move, and how they transform the physical environment through culture, [economics](/economics), and [politics](/politics). While [physical geography](/physical-geography) examines the natural world (mountains, rivers, climate), human geography asks: what are people doing on that field, and why?
 
 ## The Big Question: Why Does Location Matter?
 
@@ -41,7 +41,7 @@ In an age of remote work, instant communication, and global shipping, you might 
 
 Where you're born still predicts your life expectancy more reliably than almost any other single variable. A baby born in Japan in 2024 has a life expectancy of about 84 years. Born in Chad? About 53. Same species, same biology, different geography — 31 years of difference.
 
-Where a company locates its headquarters still affects its access to talent, its tax burden, and its market reach. Where a government draws borders still determines who goes to war. Where a disease emerges still shapes how fast it spreads. Geography — the human kind — remains one of the most powerful explanatory frameworks we have for understanding how the world actually works.
+Where a company locates its headquarters still affects its access to talent, its tax burden, and its market reach. Where a [government](/government) draws borders still determines who goes to war. Where a disease emerges still shapes how fast it spreads. Geography — the human kind — remains one of the most powerful explanatory frameworks we have for understanding how the world actually works.
 
 ## The Major Subfields
 
@@ -63,9 +63,9 @@ Cultural geography examines how cultural practices, beliefs, languages, and iden
 
 Language distribution offers a fascinating example. About 7,000 languages exist today, but they're distributed wildly unevenly. Papua New Guinea — a country roughly the size of California — has over 800 languages. Mountainous terrain and dense forest created isolation between communities, allowing linguistic divergence. Meanwhile, [Mandarin Chinese](/mandarin-chinese) (1.1 billion speakers) spread across vast territory because political unification standardized a common written and official spoken language.
 
-Religion follows spatial patterns too. The geography of religion isn't random — it reflects patterns of conquest, trade, migration, and colonial influence. Christianity's global distribution maps closely onto European colonial empires. Islam spread along trade routes through the Middle East, North Africa, and Southeast Asia. Hinduism remained geographically concentrated in South Asia because it wasn't a proselytizing religion.
+[Religion](/religion) follows spatial patterns too. The geography of religion isn't random — it reflects patterns of conquest, trade, migration, and colonial influence. [Christianity](/christianity)'s global distribution maps closely onto European colonial empires. Islam spread along trade routes through the Middle East, North Africa, and Southeast Asia. [Hinduism](/hinduism) remained geographically concentrated in South Asia because it wasn't a proselytizing religion.
 
-Food geography — what people eat and why — reveals cultural adaptation to environment. Rice-based diets dominate where monsoon climates support paddy farming. Wheat-based diets dominate in temperate grasslands. Pastoralist cultures developed in environments too dry or hilly for crop agriculture. These patterns persist long after the original environmental pressures changed — Italian Americans in New Jersey still eat more pasta than rice, even though both are equally available.
+Food geography — what people eat and why — reveals cultural adaptation to environment. Rice-based diets dominate where monsoon climates support paddy farming. Wheat-based diets dominate in temperate grasslands. Pastoralist cultures developed in environments too dry or hilly for crop [agriculture](/agriculture). These patterns persist long after the original environmental pressures changed — Italian Americans in New Jersey still eat more pasta than rice, even though both are equally available.
 
 ### Economic Geography
 
@@ -73,7 +73,7 @@ Economic geography asks: why are certain economic activities located where they 
 
 Alfred Weber's industrial location theory (1909) — one of the field's foundational frameworks — argued that factories locate to minimize transportation costs, balancing access to raw materials, markets, and labor. This explained heavy industry patterns well: steel mills near coal deposits, breweries near grain regions, lumber mills near forests.
 
-But modern economic geography must explain knowledge-based economies where the "raw materials" are ideas and talent. Agglomeration effects — the tendency of related businesses to cluster together — create self-reinforcing concentrations. Silicon Valley attracts tech workers because tech companies are there. Tech companies are there because tech workers are there. Venture capital concentrates nearby because both companies and workers are there. Breaking this cycle is extraordinarily difficult, which is why government efforts to create "tech hubs" elsewhere often fail.
+But modern economic geography must explain knowledge-based economies where the "raw materials" are ideas and talent. Agglomeration effects — the tendency of related businesses to cluster together — create self-reinforcing concentrations. Silicon Valley attracts tech workers because tech companies are there. Tech companies are there because tech workers are there. [Venture capital](/venture-capital) concentrates nearby because both companies and workers are there. Breaking this cycle is extraordinarily difficult, which is why government efforts to create "tech hubs" elsewhere often fail.
 
 Global supply chains add another dimension. A single smartphone contains materials from over 30 countries, is assembled in another, and sold in 190+. Understanding these networks requires the spatial analysis that economic geography provides. When the 2011 tsunami disabled Japanese semiconductor factories, [automotive engineering](/automotive-engineering) plants worldwide shut down — geographic concentration of critical suppliers created systemic vulnerability.
 
@@ -85,7 +85,7 @@ Borders are human geography's most obvious artifact. They're lines on a map that
 
 Gerrymandering — manipulating electoral district boundaries for political advantage — is a purely geographic phenomenon. In the US, computer [algorithms](/algorithms) now make it possible to draw districts that virtually guarantee outcomes. Maryland's 3rd congressional district, before redistricting, was described as resembling a "broken-winged pterodactyl" — its bizarre shape existed purely to concentrate Democratic voters.
 
-Geopolitics examines how geographic factors influence [international relations](/international-relations). Russia's historical obsession with warm-water ports, China's investments in Central Asian infrastructure (the Belt and Road Initiative), and the strategic importance of the Strait of Hormuz (through which 21% of global oil passes) are all geopolitical realities rooted in physical geography but expressed through political behavior.
+[Geopolitics](/geopolitics) examines how geographic factors influence [international relations](/international-relations). Russia's historical obsession with warm-water ports, China's investments in Central Asian infrastructure (the Belt and Road Initiative), and the strategic importance of the Strait of Hormuz (through which 21% of global oil passes) are all geopolitical realities rooted in physical geography but expressed through political behavior.
 
 ### Urban Geography
 
@@ -101,7 +101,7 @@ Gentrification — the process by which wealthier residents move into lower-inco
 
 Environmental geography sits at the intersection of human and physical geography, studying how human activity affects natural systems and how environmental conditions shape human behavior.
 
-Climate change is the defining environmental geography challenge. Its causes are fundamentally geographic — emissions concentrate in certain countries and regions. Its effects are also geographic — sea level rise threatens specific coastlines, changing rainfall patterns affect specific agricultural regions, and extreme heat impacts specific urban areas differently based on their built environment (the urban heat island effect can make cities 5-10 degrees Fahrenheit warmer than surrounding rural areas).
+[Climate change](/climate-change) is the defining environmental geography challenge. Its causes are fundamentally geographic — emissions concentrate in certain countries and regions. Its effects are also geographic — sea level rise threatens specific coastlines, changing rainfall patterns affect specific agricultural regions, and extreme heat impacts specific urban areas differently based on their built environment (the urban heat island effect can make cities 5-10 degrees Fahrenheit warmer than surrounding rural areas).
 
 [Climatology](/climatology) provides the physical science; human geography provides the analysis of vulnerability, adaptation, and justice. Why are low-income communities disproportionately exposed to environmental hazards? Why do wealthy nations produce most emissions while poorer nations suffer most consequences? These are geographic questions with political answers.
 
@@ -119,7 +119,7 @@ This seems intuitive, but the model makes quantifiable predictions about trade f
 
 Places carry meaning beyond their physical characteristics. The neighborhood where you grew up, the town where you met your partner, the city that represents your cultural identity — these emotional and cultural associations shape how people relate to geography.
 
-Yi-Fu Tuan coined the term "topophilia" (love of place) to describe this relationship. Its opposite — "topophobia" (fear or aversion to certain places) — explains why some neighborhoods feel unsafe regardless of actual crime statistics, why certain regions carry stigma, and why displacement from meaningful places causes genuine psychological harm.
+Yi-Fu Tuan coined the term "topophilia" (love of place) to describe this relationship. Its opposite — "topophobia" (fear or aversion to certain places) — explains why some neighborhoods feel unsafe regardless of actual crime [statistics](/statistics), why certain regions carry stigma, and why displacement from meaningful places causes genuine psychological harm.
 
 ### Scale
 
@@ -133,7 +133,7 @@ Human geographers are trained to think across scales — to recognize that local
 
 GIS software layers spatial data to reveal patterns invisible in tabular data. Mapping COVID-19 cases alongside population density, poverty rates, and healthcare facility locations revealed that infection and death rates weren't randomly distributed — they concentrated in specific communities with identifiable characteristics.
 
-GIS has become essential across fields: public health, urban planning, environmental management, business site selection, emergency response, and [data visualization](/data-visualization). The ability to ask spatial questions — What's near what? Where do patterns cluster? What areas are underserved? — gives geographic analysis practical power.
+GIS has become essential across fields: [public health](/public-health), [urban planning](/urban-planning), environmental [management](/management), business site selection, emergency response, and [data visualization](/data-visualization). The ability to ask spatial questions — What's near what? Where do patterns cluster? What areas are underserved? — gives geographic analysis practical power.
 
 ### Remote Sensing
 
@@ -141,7 +141,7 @@ Satellite and aerial imagery provides continuous data about land use, urban grow
 
 ### Qualitative Methods
 
-Not everything in human geography can be mapped or counted. Understanding sense of place, cultural meaning, political identity, and lived experience requires qualitative methods: interviews, ethnography, participatory mapping, oral histories, and textual analysis. These methods borrow heavily from [anthropology](/anthropology) and sociology, reflecting human geography's position as both a science and a humanity.
+Not everything in human geography can be mapped or counted. Understanding sense of place, cultural meaning, political identity, and lived experience requires qualitative methods: interviews, ethnography, participatory mapping, oral histories, and textual analysis. These methods borrow heavily from [anthropology](/anthropology) and [sociology](/sociology), reflecting human geography's position as both a science and a humanity.
 
 ## Why Human Geography Matters Now
 

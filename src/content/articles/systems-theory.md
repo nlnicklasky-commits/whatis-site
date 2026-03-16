@@ -64,15 +64,15 @@ Running in parallel with Bertalanffy's work was cybernetics, pioneered by mathem
 
 Wiener's key insight: systems regulate themselves through feedback loops. A thermostat measures temperature and adjusts heating accordingly. Your body measures blood sugar and adjusts insulin accordingly. An anti-aircraft gun (Wiener's original research context during WWII) tracks a target's trajectory and adjusts aim accordingly. The specific machinery differs, but the control principle is identical.
 
-Cybernetics attracted a remarkable interdisciplinary group. The Macy Conferences (1946-1953) brought together mathematicians, engineers, neuroscientists, anthropologists, and psychologists — including Wiener, John von Neumann, Claude Shannon, Margaret Mead, and Gregory Bateson. These conversations seeded ideas that would eventually produce [artificial intelligence](/artificial-intelligence), cognitive science, and modern control theory.
+Cybernetics attracted a remarkable interdisciplinary group. The Macy Conferences (1946-1953) brought together mathematicians, engineers, neuroscientists, anthropologists, and psychologists — including Wiener, John von Neumann, Claude Shannon, Margaret Mead, and Gregory Bateson. These conversations seeded ideas that would eventually produce [artificial intelligence](/artificial-intelligence), cognitive science, and modern [control theory](/control-theory).
 
 ### Other Foundational Contributions
 
 Several other intellectual streams fed into systems theory:
 
-**Information theory** — Claude Shannon's mathematical theory of communication (1948) provided tools for quantifying information, uncertainty, and the capacity of channels. These concepts proved broadly applicable beyond telecommunications.
+**[Information theory](/information-theory)** — Claude Shannon's mathematical theory of communication (1948) provided tools for quantifying information, uncertainty, and the capacity of channels. These concepts proved broadly applicable beyond telecommunications.
 
-**Operations research** — developed during WWII to optimize military logistics, operations research applied [mathematical modeling](/mathematical-modeling) to complex organizational problems. It demonstrated that systems-level analysis could produce practically useful results.
+**[Operations research](/operations-research)** — developed during WWII to optimize military logistics, operations research applied [mathematical modeling](/mathematical-modeling) to complex organizational problems. It demonstrated that systems-level analysis could produce practically useful results.
 
 **Ecology** — the study of ecosystems was inherently systems-oriented, analyzing how species, energy flows, nutrient cycles, and environmental factors interact as wholes.
 
@@ -91,7 +91,7 @@ A car is a system. Remove any major subsystem — engine, transmission, steering
 
 ### Open vs. Closed Systems
 
-**Closed systems** exchange no matter or energy with their environment. They're mostly theoretical — a perfectly insulated container, perhaps. Closed systems tend toward maximum entropy (disorder) according to the second law of thermodynamics.
+**Closed systems** exchange no matter or energy with their environment. They're mostly theoretical — a perfectly insulated container, perhaps. Closed systems tend toward maximum entropy (disorder) according to the second law of [thermodynamics](/thermodynamics).
 
 **Open systems** exchange matter, energy, and information with their environment. All living systems are open systems. They maintain organized, low-entropy states by importing energy and exporting waste. Your body does this constantly — eating food (energy in), radiating heat and excreting waste (entropy out). So do cities, ecosystems, and economies.
 
@@ -111,7 +111,7 @@ Most complex system behaviors arise from the interaction of multiple feedback lo
 
 Emergence is the phenomenon where system-level properties arise from component interactions but aren't present in any individual component. Consciousness emerges from networks of neurons. Wetness emerges from collections of water molecules. Market prices emerge from millions of individual transactions.
 
-Emergence is why reductionism has limits. You can study every neuron in a brain and still not understand how memory works, because memory is an emergent property of neural networks, not a property of individual neurons.
+Emergence is why reductionism has limits. You can study every neuron in a brain and still not understand how memory works, because memory is an emergent property of [neural networks](/neural-networks), not a property of individual neurons.
 
 Strong emergence — where the emergent property is genuinely unpredictable from complete knowledge of the components — is philosophically controversial. Weak emergence — where the emergent property is in principle predictable but practically too complex to derive — is widely accepted.
 
@@ -137,7 +137,7 @@ Ecology was systems thinking before systems thinking had a name. Ecosystems are 
 
 Systems ecology, pioneered by Howard and Eugene Odum in the 1950s-1970s, applied energy flow analysis and systems modeling to ecosystems. Their work revealed that ecosystems have characteristic structural properties — energy flows, nutrient cycles, diversity patterns — that can be modeled mathematically.
 
-Modern environmental science is deeply systems-oriented. [Climate](/climatology) modeling involves simulating the interactions of atmosphere, oceans, ice sheets, land surfaces, and biosphere as a coupled system. Understanding the global carbon cycle, water cycle, and nitrogen cycle requires tracking flows through interconnected reservoirs.
+Modern [environmental science](/environmental-science) is deeply systems-oriented. [Climate](/climatology) modeling involves simulating the interactions of atmosphere, oceans, ice sheets, land surfaces, and biosphere as a coupled system. Understanding the global carbon cycle, water cycle, and nitrogen cycle requires tracking flows through interconnected reservoirs.
 
 ### Organizational Management
 
@@ -149,7 +149,7 @@ System dynamics, developed by Jay Forrester at MIT in the 1950s, uses computer s
 
 ### Engineering
 
-Control systems engineering — designing systems that regulate themselves through feedback — is a direct descendant of cybernetics. Every autopilot, thermostat, cruise control, and industrial process controller embodies systems principles.
+Control [systems engineering](/systems-engineering) — designing systems that regulate themselves through feedback — is a direct descendant of cybernetics. Every autopilot, thermostat, cruise control, and industrial process controller embodies systems principles.
 
 [Systems engineering](/aerospace-engineering) manages the design of complex technical systems like aircraft, spacecraft, and power grids. It focuses on requirements, interfaces between subsystems, integration, testing, and lifecycle management — all systems-level concerns that can't be addressed by any single engineering discipline alone.
 
@@ -179,7 +179,7 @@ Systems theory has been criticized on several grounds.
 
 **Political misuse** — systems language has sometimes been used to justify the status quo ("the system needs all its parts, so don't change anything") or to diffuse responsibility ("it's a system problem, not anyone's fault").
 
-Despite these limitations, systems theory provides something valuable: a way of thinking about complexity that goes beyond simple cause-and-effect chains. In a world of interconnected problems — climate change, public health, economic instability, technological disruption — the ability to think in systems isn't just academically interesting. It's practically essential.
+Despite these limitations, systems theory provides something valuable: a way of thinking about complexity that goes beyond simple cause-and-effect chains. In a world of interconnected problems — [climate change](/climate-change), public health, economic instability, technological disruption — the ability to think in systems isn't just academically interesting. It's practically essential.
 
 ## Systems Thinking as a Life Skill
 

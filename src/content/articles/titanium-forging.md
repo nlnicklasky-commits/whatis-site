@@ -31,7 +31,7 @@ faq:
 
 # What Is Titanium Forging?
 
-Titanium forging is the process of shaping titanium and its alloys into desired forms by applying compressive force at elevated temperatures. The heated metal is pressed, hammered, or rolled between dies to create parts with superior mechanical properties — greater strength, better fatigue resistance, and more consistent grain structure than cast or machined components.
+Titanium [forging](/forging) is the process of shaping titanium and its alloys into desired forms by applying compressive force at elevated temperatures. The heated metal is pressed, hammered, or rolled between dies to create parts with superior mechanical properties — greater strength, better fatigue resistance, and more consistent grain structure than cast or machined components.
 
 Titanium is one of the most remarkable [engineering](/engineering) materials available. It's as strong as many steels but 45% lighter. It resists corrosion from saltwater, acids, and body fluids. It's biocompatible — the human body doesn't reject it. And it maintains its strength at temperatures up to about 600°C. The catch? Working with it is genuinely difficult and expensive.
 
@@ -73,7 +73,7 @@ After forging, parts undergo heat treatment to optimize the microstructure, mach
 
 **Chemical processing** — Titanium's corrosion resistance makes it valuable for equipment handling aggressive chemicals, seawater, and chlorine compounds.
 
-**Sports equipment** — Golf club heads, bicycle frames, and specialty tools benefit from titanium's light weight and strength, though the cost limits it to premium products.
+**Sports equipment** — [Golf](/golf) club heads, bicycle frames, and specialty tools benefit from titanium's light weight and strength, though the cost limits it to premium products.
 
 ## The Supply Chain Challenge
 

@@ -112,7 +112,7 @@ Every cell in your body contains the same DNA (with rare exceptions). Yet a live
 
 ### Transcription Factors
 
-Proteins called transcription factors bind to specific DNA sequences near genes and either activate or repress transcription. The human genome encodes roughly 1,500 transcription factors. The combinatorial logic of multiple transcription factors acting on a single gene creates enormous regulatory complexity from a limited number of components.
+Proteins called transcription factors bind to specific DNA sequences near genes and either activate or repress transcription. The human genome encodes roughly 1,500 transcription factors. The combinatorial [logic](/logic) of multiple transcription factors [acting](/acting) on a single gene creates enormous regulatory complexity from a limited number of components.
 
 ### Epigenetics
 
@@ -161,7 +161,7 @@ In 2012, Jennifer Doudna and Emmanuelle Charpentier demonstrated that the CRISPR
 
 CRISPR works by pairing a guide RNA (which specifies the target DNA sequence) with the Cas9 enzyme (which cuts the DNA at that location). Once the DNA is cut, the cell's repair machinery can be exploited to delete genes, correct mutations, or insert new sequences.
 
-CRISPR is faster, cheaper, and more versatile than previous gene-editing tools (zinc finger nucleases, TALENs). It has accelerated research in every area of biology and is being developed for therapeutic applications—treating sickle cell disease, certain cancers, hereditary blindness, and more. In 2023, the first CRISPR-based therapy (Casgevy, for sickle cell disease) received regulatory approval.
+CRISPR is faster, cheaper, and more versatile than previous gene-[editing](/editing) tools (zinc finger nucleases, TALENs). It has accelerated research in every area of biology and is being developed for therapeutic applications—treating sickle cell disease, certain cancers, hereditary blindness, and more. In 2023, the first CRISPR-based therapy (Casgevy, for sickle cell disease) received regulatory approval.
 
 ### Gel Electrophoresis
 
@@ -198,7 +198,7 @@ Molecular biology has profoundly strengthened our understanding of [evolutionary
 - Identify genes under natural selection
 - Trace human migration patterns using mitochondrial DNA and Y-chromosome markers
 
-The molecular evidence overwhelmingly confirms evolutionary relationships inferred from anatomy and the fossil record, while adding extraordinary resolution. We now know, for example, that humans and chimpanzees share about 98.7% of their DNA sequence, that all living humans descend from a common maternal ancestor who lived roughly 200,000 years ago in Africa, and that 1-4% of the DNA in non-African modern humans comes from Neanderthal interbreeding.
+The molecular evidence overwhelmingly confirms evolutionary relationships inferred from [anatomy](/anatomy) and the fossil record, while adding extraordinary resolution. We now know, for example, that humans and chimpanzees share about 98.7% of their DNA sequence, that all living humans descend from a common maternal ancestor who lived roughly 200,000 years ago in Africa, and that 1-4% of the DNA in non-African modern humans comes from Neanderthal interbreeding.
 
 ## Key Takeaways
 

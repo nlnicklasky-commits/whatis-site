@@ -35,7 +35,7 @@ faq:
 
 # What Is Hydrology?
 
-Hydrology is the scientific study of water's movement, distribution, and quality across Earth and other planets. It tracks water from the moment it evaporates off an ocean surface, through its journey as atmospheric vapor and precipitation, into rivers and underground aquifers, and eventually back again. The field sits at the intersection of [geology](/geology), [environmental science](/environmental-science), chemistry, and atmospheric science.
+Hydrology is the scientific study of water's movement, distribution, and quality across Earth and other planets. It tracks water from the moment it evaporates off an ocean surface, through its journey as atmospheric vapor and precipitation, into rivers and underground aquifers, and eventually back again. The field sits at the intersection of [geology](/geology), [environmental science](/environmental-science), [chemistry](/chemistry), and atmospheric science.
 
 ## Why Water Science Matters More Than You Think
 
@@ -83,9 +83,9 @@ Water that doesn't infiltrate flows across the surface, gathering in rivulets, t
 
 Every point on Earth's land surface belongs to a watershed. Rain that falls on the western slope of a mountain might flow toward the Pacific Ocean, while rain falling 100 feet away on the eastern slope heads toward the Atlantic. The line dividing them is called a drainage divide.
 
-Streamflow — the volume of water passing a point in a river per unit time — is one of hydrology's most important measurements. The USGS operates over 10,000 stream gauging stations across the United States alone, many of them recording data continuously in real time. This network provides the foundation for flood forecasting, water supply management, and [ecological](/ecology) monitoring.
+Streamflow — the volume of water passing a point in a river per unit time — is one of hydrology's most important measurements. The USGS operates over 10,000 stream gauging stations across the United States alone, many of them recording data continuously in real time. This network provides the foundation for flood forecasting, water supply [management](/management), and [ecological](/ecology) monitoring.
 
-Streamflow has two main components: baseflow (groundwater seeping into the stream) and quickflow (recent rainfall or snowmelt running off the surface). During dry periods, a river runs entirely on baseflow. During storms, quickflow dominates and the river rises rapidly. Understanding this separation helps hydrologists predict how rivers will behave under different conditions.
+Streamflow has two main components: baseflow (groundwater seeping into the stream) and quickflow (recent rainfall or snowmelt [running](/running) off the surface). During dry periods, a river runs entirely on baseflow. During storms, quickflow dominates and the river rises rapidly. Understanding this separation helps hydrologists predict how rivers will behave under different conditions.
 
 ### Groundwater: The Hidden Reservoir
 
@@ -93,7 +93,7 @@ Beneath your feet, in the cracks and pores of rock and sediment, sits an enormou
 
 Water underground fills geological formations called aquifers. Some aquifers are shallow — 20 or 30 feet down — and replenish quickly from surface infiltration. Others are deep, ancient formations containing water that fell as rain thousands of years ago.
 
-The Ogallala Aquifer under the Great Plains of the United States is one of the world's largest. It holds about 2.93 billion acre-feet of water and irrigates roughly 27% of the nation's cropland. Problem is, farmers are pumping water out far faster than nature replenishes it. In parts of Kansas and Texas, the aquifer has dropped over 150 feet since intensive irrigation began in the 1950s. Some areas may run dry within a generation.
+The Ogallala Aquifer under the Great Plains of the United States is one of the world's largest. It holds about 2.93 billion acre-feet of water and irrigates roughly 27% of the nation's cropland. Problem is, farmers are pumping water out far faster than nature replenishes it. In parts of Kansas and Texas, the aquifer has dropped over 150 feet since intensive [irrigation](/irrigation) began in the 1950s. Some areas may run dry within a generation.
 
 [Hydrogeology](/hydrogeology) — the study of groundwater specifically — uses well measurements, pumping tests, and computer models to understand how water moves through these underground systems. It's critical work, because once you deplete an aquifer, you can't just refill it. The geology may compact, permanently reducing its capacity. Contamination from surface pollutants can persist for decades or centuries.
 
@@ -137,11 +137,11 @@ The basic mechanism is simple: more water arrives at a location than can drain a
 
 ### Flood Forecasting and Management
 
-Hydrologists build mathematical models of watersheds — digital representations that simulate how rainfall translates into streamflow. These models incorporate topography, soil types, land use, channel geometry, and real-time rainfall data to predict when and where flooding will occur.
+Hydrologists build mathematical models of watersheds — digital representations that simulate how rainfall translates into streamflow. These models incorporate [topography](/topography), soil types, land use, channel [geometry](/geometry), and real-time rainfall data to predict when and where flooding will occur.
 
 The U.S. National Weather Service's River Forecast Centers use these models to issue flood watches and warnings. The accuracy has improved dramatically over the decades, but uncertainty remains — especially for flash floods, where the time between rainfall and flooding may be just 30 to 60 minutes.
 
-Flood management goes beyond prediction. Hydrologists design levees, retention basins, and floodways. They develop floodplain maps that determine building codes and insurance requirements. Increasingly, they advocate for "green infrastructure" — preserving wetlands, restoring floodplains, and using permeable surfaces — that works with water rather than against it.
+Flood management goes beyond prediction. Hydrologists design levees, retention basins, and floodways. They develop floodplain maps that determine building codes and [insurance](/insurance) requirements. Increasingly, they advocate for "green infrastructure" — preserving wetlands, restoring floodplains, and using permeable surfaces — that works with water rather than against it.
 
 ## Water Quality: The Other Half of Hydrology
 
@@ -169,7 +169,7 @@ The Chesapeake Bay watershed, spanning 64,000 square miles across six states, is
 
 ## Hydrology and Climate Change
 
-Climate change is rewriting the rules that hydrologists have relied on for decades. Historical data — the foundation of most hydrological analysis — may no longer predict the future.
+[Climate change](/climate-change) is rewriting the rules that hydrologists have relied on for decades. Historical data — the foundation of most hydrological analysis — may no longer predict the future.
 
 ### Shifting Precipitation Patterns
 
@@ -197,7 +197,7 @@ The most widely used models include HEC-HMS (developed by the U.S. Army Corps of
 
 These models require enormous amounts of input data — topography, soil properties, land cover, weather data, stream channel geometry — and they produce outputs only as good as their inputs. The old computing maxim "garbage in, garbage out" applies with full force.
 
-Machine learning is increasingly supplementing traditional physics-based models. [Neural networks](/neural-networks) trained on historical data can sometimes outperform conventional models for specific prediction tasks, particularly flood forecasting. But they lack the physical interpretability of process-based models — they can tell you what will happen without explaining why.
+Machine learning is increasingly supplementing traditional [physics](/physics)-based models. [Neural networks](/neural-networks) trained on historical data can sometimes outperform conventional models for specific prediction tasks, particularly flood forecasting. But they lack the physical interpretability of process-based models — they can tell you what will happen without explaining why.
 
 ### Real-Time Data Systems
 
@@ -223,7 +223,7 @@ Low Impact Development (LID) and green infrastructure offer alternatives: permea
 
 Providing reliable water to a growing population requires hydrological analysis at every step. How much water is available in a given watershed? How much can be sustainably withdrawn from an aquifer? What happens during drought years? How will demand change with population growth and [economic](/economics) development?
 
-These questions involve probability and risk. Hydrologists don't predict the future — they characterize uncertainty. A water utility might design its system to handle the worst drought expected once in 100 years, accepting a 1% annual risk of shortage. Climate change complicates these calculations by making historical statistics less reliable.
+These questions involve probability and risk. Hydrologists don't predict the future — they characterize uncertainty. A water utility might design its system to handle the worst drought expected once in 100 years, accepting a 1% annual risk of shortage. Climate change complicates these calculations by making historical [statistics](/statistics) less reliable.
 
 ### Environmental Flows
 

@@ -63,7 +63,7 @@ Both models have strengths. Vector data is efficient for discrete features with 
 
 ### Coordinate Systems and Projections
 
-Every GIS dataset needs a coordinate reference system — a way to translate locations on the curved Earth into numerical coordinates. This connects directly to [cartography](/cartography) and geodesy.
+Every GIS dataset needs a coordinate reference system — a way to translate locations on the curved Earth into numerical coordinates. This connects directly to [cartography](/cartography) and [geodesy](/geodesy).
 
 Geographic coordinates (latitude and longitude) locate points on the Earth's surface but use angular units (degrees). For measurements in meters or feet — distances, areas — you need a projected coordinate system that maps the 3D Earth onto a 2D plane.
 
@@ -81,7 +81,7 @@ This is where GIS earns its keep. Spatial analysis includes dozens of operations
 
 **Network analysis** finds optimal routes, service areas, and closest facilities through connected networks. What's the fastest route for an ambulance, considering current traffic? Which fire station can reach this address quickest? Where should you place distribution centers to minimize delivery distances?
 
-**Spatial statistics** identify patterns that aren't visible on inspection alone. Cluster analysis reveals whether disease cases, crimes, or species observations are randomly distributed or significantly clustered. Hot spot analysis identifies statistically significant concentrations. Spatial regression accounts for geographic relationships in statistical models — because observations near each other tend to be more similar than distant observations (a concept called spatial autocorrelation, or Tobler's First Law of Geography).
+**Spatial [statistics](/statistics)** identify patterns that aren't visible on inspection alone. Cluster analysis reveals whether disease cases, crimes, or species observations are randomly distributed or significantly clustered. Hot spot analysis identifies statistically significant concentrations. Spatial regression accounts for geographic relationships in statistical models — because observations near each other tend to be more similar than distant observations (a concept called spatial autocorrelation, or Tobler's First Law of [Geography](/geography)).
 
 **Interpolation** estimates values at locations where you haven't measured. You have temperature readings from 50 weather stations — interpolation estimates the temperature at every point between them. The same approach works for soil contamination, groundwater depth, or air quality.
 
@@ -91,9 +91,9 @@ Modern GIS involves multiple software layers.
 
 ### Desktop GIS
 
-Desktop applications handle data editing, analysis, and map production. **ArcGIS Pro** (from Esri) is the industry standard — powerful but expensive, with a licensing model that locks many organizations in. **QGIS** is the leading open-source alternative — free, increasingly capable, and supported by a strong community. Both support Python scripting for automation.
+Desktop applications handle data [editing](/editing), analysis, and map production. **ArcGIS Pro** (from Esri) is the industry standard — powerful but expensive, with a licensing model that locks many organizations in. **QGIS** is the leading open-source alternative — free, increasingly capable, and supported by a strong community. Both support Python scripting for automation.
 
-Desktop GIS is where the heavy analytical lifting typically happens — running spatial models, digitizing features from imagery, performing quality control, and producing high-quality cartographic outputs.
+Desktop GIS is where the heavy analytical lifting typically happens — [running](/running) spatial models, digitizing features from imagery, performing quality control, and producing high-quality cartographic outputs.
 
 ### Web GIS and Cloud Services
 
@@ -125,7 +125,7 @@ Commercial satellites now offer sub-meter resolution — detailed enough to coun
 
 ### Open Data
 
-Government agencies increasingly publish geographic data openly. The US Census Bureau releases demographic data at multiple geographic levels. USGS provides elevation models, geological maps, and land cover data. OpenStreetMap — a collaborative project — has created a free, editable map of the entire world, built by volunteers.
+[Government](/government) agencies increasingly publish geographic data openly. The US Census Bureau releases demographic data at multiple geographic levels. USGS provides elevation models, geological maps, and land cover data. OpenStreetMap — a collaborative project — has created a free, editable map of the entire world, built by volunteers.
 
 ### GPS and Sensors
 
@@ -147,11 +147,11 @@ Conservation organizations use GIS to map habitats, track species, model climate
 
 ### Public Health
 
-Disease mapping and spatial epidemiology rely on GIS. During the COVID-19 pandemic, the Johns Hopkins CSSE dashboard — a GIS-powered application — became the world's primary tracker for case counts, deaths, and vaccination rates. Beyond pandemics, GIS helps analyze access to healthcare, model disease spread, and identify environmental health risks.
+Disease mapping and spatial [epidemiology](/epidemiology) rely on GIS. During the COVID-19 pandemic, the Johns Hopkins CSSE dashboard — a GIS-powered application — became the world's primary tracker for case counts, deaths, and vaccination rates. Beyond pandemics, GIS helps analyze access to healthcare, model disease spread, and identify environmental health risks.
 
 ### Business and Retail
 
-Every retail chain uses GIS for site selection — analyzing demographics, competition, traffic patterns, and accessibility to choose optimal store locations. Real estate valuation models incorporate spatial factors. Logistics companies optimize delivery routes using network analysis. Insurance companies model risk based on geographic hazard exposure.
+Every retail chain uses GIS for site selection — analyzing demographics, competition, traffic patterns, and accessibility to choose optimal store locations. [Real estate](/real-estate) valuation models incorporate spatial factors. [Logistics](/logistics) companies optimize delivery routes using network analysis. [Insurance](/insurance) companies model risk based on geographic hazard exposure.
 
 ### Agriculture
 
@@ -177,7 +177,7 @@ GIS isn't magic. It has real limitations.
 
 GIS is evolving rapidly along several fronts.
 
-**Real-time GIS** processes streaming data — vehicle locations, sensor readings, social media posts — as it arrives, enabling active mapping and instant analysis. This powers ride-sharing services, traffic management, and emergency response.
+**Real-time GIS** processes streaming data — vehicle locations, sensor readings, social media posts — as it arrives, enabling active mapping and instant analysis. This powers ride-sharing services, traffic [management](/management), and emergency response.
 
 **3D and indoor GIS** extends spatial analysis from the traditional 2D map into three dimensions and inside buildings. Building information modeling (BIM) integration allows GIS to manage infrastructure from city scale down to individual building components.
 

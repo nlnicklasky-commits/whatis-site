@@ -91,7 +91,7 @@ A 2015 study in *Archives of [Gerontology](/gerontology) and Geriatrics* found t
 
 ### Mental Health
 
-The mental health benefits mirror those of other exercise forms — reduced anxiety, improved mood, better sleep — but water exercise adds some unique elements. The sensation of being in water is inherently calming for most people. The group format combats social isolation, which is particularly valuable for older adults. And the low-pain, low-impact nature of the exercise means people actually enjoy doing it, which matters enormously for long-term adherence.
+The [mental health](/mental-health) benefits mirror those of other exercise forms — reduced anxiety, improved mood, better sleep — but water exercise adds some unique elements. The sensation of being in water is inherently calming for most people. The group format combats social isolation, which is particularly valuable for older adults. And the low-pain, low-impact nature of the exercise means people actually enjoy doing it, which matters enormously for long-term adherence.
 
 ## Who Should (and Shouldn't) Do Water Aerobics
 

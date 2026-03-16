@@ -65,7 +65,7 @@ Battles are typically choreographed to follow the general historical sequence, b
 
 ### Living History
 
-Living history emphasizes daily life over combat. Participants set up period camps and demonstrate activities like [cooking](/cooking), [blacksmithing](/blacksmithing), spinning, weaving, leatherwork, [woodworking](/woodworking), and medicine. Visitors can watch, ask questions, and sometimes participate.
+Living history emphasizes daily life over combat. Participants set up period camps and demonstrate activities like [cooking](/cooking), [blacksmithing](/blacksmithing), spinning, [weaving](/weaving), leatherwork, [woodworking](/woodworking), and medicine. Visitors can watch, ask questions, and sometimes participate.
 
 The National Park Service actively supports living history programs at battlefield sites and historic locations across the United States. Colonial Williamsburg in Virginia employs hundreds of costumed interpreters who portray 18th-century residents. Plimoth Patuxet Museums in Massachusetts recreates the 1627 Plymouth colony with first-person interpretation — staff members speak and behave as 17th-century colonists and Wampanoag people.
 
@@ -91,7 +91,7 @@ Reenactment isn't without its problems, and honest practitioners will tell you t
 
 ## The Experiential Argument
 
-The strongest case for reenactment is experiential. You can read about how heavy a suit of medieval armor is. You can look at the number: 40-60 pounds. But wearing it, walking in it, trying to fight in it — that's different. You understand, in your muscles and bones, what a medieval soldier endured. You understand why cavalry dominated infantry for centuries. You understand why physical fitness was literally a matter of life and death.
+The strongest case for reenactment is experiential. You can read about how heavy a suit of medieval armor is. You can look at the number: 40-60 pounds. But wearing it, [walking](/walking) in it, trying to fight in it — that's different. You understand, in your muscles and bones, what a medieval soldier endured. You understand why cavalry dominated infantry for centuries. You understand why physical [fitness](/fitness) was literally a matter of life and death.
 
 Similarly, spending a weekend in a Civil War camp — sleeping on the ground, eating period rations, marching in wool under an August sun — doesn't make you a Civil War soldier. But it gives you a physical reference point that changes how you read about the experience. The gap between intellectual knowledge and experiential understanding is enormous, and reenactment bridges it in ways that few other educational methods can.
 

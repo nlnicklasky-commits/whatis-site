@@ -37,7 +37,7 @@ faq:
 
 # What Is Personal Finance?
 
-Personal finance is the management of your money — how you earn, spend, save, invest, and protect it over your lifetime. It covers [budgeting](/budgeting), debt management, savings, investing, insurance, taxes, and retirement planning, all organized around the goal of building financial security and achieving your life goals.
+Personal finance is the [management](/management) of your money — how you earn, spend, save, invest, and protect it over your lifetime. It covers [budgeting](/budgeting), debt management, savings, investing, [insurance](/insurance), taxes, and retirement planning, all organized around the goal of building financial security and achieving your life goals.
 
 ## Why This Matters More Than You Think
 
@@ -95,7 +95,7 @@ Not all debt is created equal. Understanding the difference between debt that he
 
 ### Good Debt (Sometimes)
 
-Some debt finances assets that appreciate or generate income. A mortgage lets you buy a home that typically appreciates over time. Student loans fund education that (ideally) increases your earning power. A business loan finances a venture that may generate profit.
+Some debt finances assets that appreciate or generate income. A mortgage lets you buy a home that typically appreciates over time. Student loans fund [education](/education) that (ideally) increases your earning power. A business loan finances a venture that may generate profit.
 
 Even "good" debt can become bad debt if the amount is excessive relative to your income or if the expected return doesn't materialize. A $500,000 mortgage on a $60,000 income is risky regardless of how good the [real estate](/real-estate) market looks. Student loans for a degree that doesn't lead to higher earnings may not pay off.
 
@@ -213,7 +213,7 @@ You can claim Social Security as early as age 62 (at a reduced benefit) or delay
 
 ### The 4% Rule
 
-The 4% rule suggests that you can withdraw 4% of your retirement portfolio in the first year of retirement and adjust for inflation each subsequent year, with a high probability (historically about 95%) of not running out of money over a 30-year retirement. This means you need roughly 25 times your annual expenses saved to retire.
+The 4% rule suggests that you can withdraw 4% of your retirement portfolio in the first year of retirement and adjust for inflation each subsequent year, with a high probability (historically about 95%) of not [running](/running) out of money over a 30-year retirement. This means you need roughly 25 times your annual expenses saved to retire.
 
 This rule has critics — it was based on historical U.S. market returns that may not repeat, and it doesn't account for variable spending patterns — but it's a useful starting benchmark for estimating how much you need.
 

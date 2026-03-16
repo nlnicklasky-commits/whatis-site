@@ -144,7 +144,7 @@ VC investments are illiquid — you can't sell your shares on a stock exchange. 
 
 **Acquisition.** A larger company buys the startup. Most successful VC exits are acquisitions, not IPOs. Google acquired YouTube for $1.65 billion. Facebook bought Instagram for $1 billion and WhatsApp for $19 billion. These acquisitions generated massive returns for early investors.
 
-**Secondary sales.** Investors (and sometimes founders) sell shares to other private investors before an IPO. Secondary markets have grown significantly, allowing some liquidity without a formal exit.
+**Secondary [sales](/sales).** Investors (and sometimes founders) sell shares to other private investors before an IPO. Secondary markets have grown significantly, allowing some liquidity without a formal exit.
 
 **Down round or shutdown.** The unhappy scenarios. The company either raises money at a lower valuation (diluting earlier investors) or simply runs out of cash and shuts down. Venture-backed companies that fail typically return zero to investors.
 
@@ -154,7 +154,7 @@ Venture capital is geographically concentrated. Silicon Valley has dominated sin
 
 New York, Boston, Los Angeles, and Seattle are major secondary markets. Internationally, London, Tel Aviv, Beijing, Shanghai, Singapore, and Bangalore have significant VC ecosystems.
 
-Remote work has somewhat distributed startup formation, but VC dollars remain concentrated. Most top-tier firms still prefer to invest in companies within driving distance, though the pandemic permanently shifted some attitudes about geography.
+Remote work has somewhat distributed startup formation, but VC dollars remain concentrated. Most top-tier firms still prefer to invest in companies within driving distance, though the pandemic permanently shifted some attitudes about [geography](/geography).
 
 ## Venture Capital's Impact on the Economy
 

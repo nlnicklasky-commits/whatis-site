@@ -47,7 +47,7 @@ At the high school level, it's usually called student council and tends to be si
 
 At many colleges, student governments control substantial budgets funded by student activity fees. A large state university might allocate $500,000 or more per year through its student government. That money funds student organizations, campus events, guest speakers, and services.
 
-This is real financial responsibility. Student senators debate funding requests, evaluate proposals, and make decisions that affect thousands of students. It's the closest most 20-year-olds get to managing public money.
+This is real financial responsibility. Student senators [debate](/debate) funding requests, evaluate proposals, and make decisions that affect thousands of students. It's the closest most 20-year-olds get to managing public money.
 
 ### Advocacy
 
@@ -57,7 +57,7 @@ The effectiveness varies enormously. Some student governments have genuine influ
 
 ### Event Planning
 
-Homecoming, prom, welcome week, spring fling, guest lectures, community service projects — student government organizes or oversees many of the events that define the student experience. This involves [logistics](/logistics), [budgeting](/budgeting), marketing, and coordination with vendors and venues.
+Homecoming, prom, welcome week, spring fling, guest lectures, community service projects — student government organizes or oversees many of the events that define the student experience. This involves [logistics](/logistics), [budgeting](/budgeting), [marketing](/marketing), and coordination with vendors and venues.
 
 ### Policy Input
 
@@ -76,7 +76,7 @@ The 1960s and 1970s were the high point of student government activism. Student 
 Here's what student government participants rarely talk about but what makes the experience genuinely valuable:
 
 - **[Negotiation](/negotiation)** — You learn to build coalitions, compromise, and get things done when not everyone agrees with you.
-- **[Public speaking](/public-speaking)** — Running meetings, giving campaign speeches, and presenting to administrators builds confidence fast.
+- **[Public speaking](/public-speaking)** — [Running](/running) meetings, giving campaign speeches, and presenting to administrators builds confidence fast.
 - **Budgeting** — Allocating limited resources across competing priorities is a skill that transfers directly to the professional world.
 - **Organization** — Planning a campus event teaches [project management](/project-management) in a way no textbook can.
 - **Dealing with bureaucracy** — Working within institutional rules and processes is frustrating but useful preparation for virtually any career.

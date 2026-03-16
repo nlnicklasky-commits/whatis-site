@@ -36,15 +36,15 @@ faq:
 # What Is Business History?
 Business history is the study of how commercial enterprises, industries, and economic practices have developed over time — from ancient trading networks to modern multinational corporations. It examines the people, decisions, and forces that shaped how we produce, sell, and organize economic activity.
 
-Here's what makes business history different from just reading about old companies: it reveals patterns. The same types of disruptions, management failures, and market shifts keep happening across centuries. Understanding those patterns gives you a genuine edge in making sense of the present.
+Here's what makes business history different from just reading about old companies: it reveals patterns. The same types of disruptions, [management](/management) failures, and market shifts keep happening across centuries. Understanding those patterns gives you a genuine edge in making sense of the present.
 
 ## From Ancient Trade to Medieval Commerce
 
 Business didn't start with the Industrial Revolution. Commercial activity is as old as civilization itself. Mesopotamian merchants were using contracts, credit, and bookkeeping systems by 2000 BCE — practices you'd recognize in any modern [accounting](/accounting) office, just written on clay tablets instead of spreadsheets.
 
-The ancient Romans built a commercial infrastructure that wouldn't be matched for over a thousand years. Roman roads enabled [international trade](/international-trade) across an empire stretching from Britain to Egypt. Roman law established concepts of contract, property, and partnership that still underpin [business law](/business-law) today.
+The ancient Romans built a commercial infrastructure that wouldn't be matched for over a thousand years. Roman roads enabled [international trade](/international-trade) across an empire stretching from Britain to Egypt. [Roman law](/roman-law) established concepts of contract, property, and partnership that still underpin [business law](/business-law) today.
 
-After Rome's fall, commerce didn't disappear — it just reorganized. Medieval Europe saw the rise of merchant guilds, organizations that regulated trade, set quality standards, and trained apprentices. The guild system was essentially a combination of trade association, labor union, and professional licensing board. If you've ever wondered why certain London streets have names like "Bread Street" or "Milk Street," that's the guild system's geographic legacy.
+After Rome's fall, commerce didn't disappear — it just reorganized. Medieval Europe saw the rise of merchant guilds, organizations that regulated [trade](/trade), set quality standards, and trained apprentices. The guild system was essentially a combination of trade association, labor union, and professional licensing board. If you've ever wondered why certain London streets have names like "Bread Street" or "Milk Street," that's the guild system's geographic legacy.
 
 Italian city-states — Venice, Florence, Genoa — became the commercial powerhouses of medieval Europe. Venetian merchants developed double-entry [bookkeeping](/bookkeeping) (formalized by Luca Pacioli in 1494), bills of exchange, and sophisticated banking networks. The Medici family in Florence essentially invented modern banking, financing everything from popes to kings while accumulating enormous political influence.
 
@@ -54,7 +54,7 @@ The single biggest innovation in business history might be the joint-stock compa
 
 The Dutch East India Company (VOC), founded in 1602, changed everything. It allowed thousands of investors to buy shares, spreading risk across a massive pool of capital. It created the world's first stock exchange in Amsterdam. And it operated with a level of organizational complexity that wouldn't become common for another two centuries.
 
-The English East India Company, the Hudson's Bay Company, and other chartered companies followed similar models. These weren't just businesses — they were quasi-governmental entities with their own armies, diplomatic powers, and territorial claims. The East India Company effectively ruled large portions of India for decades before the British government took direct control.
+The English East India Company, the Hudson's Bay Company, and other chartered companies followed similar models. These weren't just businesses — they were quasi-governmental entities with their own armies, diplomatic powers, and territorial claims. The East India Company effectively ruled large portions of India for decades before the British [government](/government) took direct control.
 
 This period illustrates something important about business history: the relationship between commerce and political power has always been intimate. Companies shaped governments, and governments shaped companies. That active hasn't changed.
 
@@ -66,9 +66,9 @@ Before industrialization, most production happened in homes or small workshops. 
 
 The factory system upended all of that. Richard Arkwright's water-powered spinning mills, beginning in the 1770s, gathered hundreds of workers under one roof, operating machines that could produce far more than any individual craftsperson. [Productivity](/productivity) soared. Costs plummeted. And the nature of work changed fundamentally.
 
-The railroad transformed business geography. Before railways, markets were local. A manufacturer could only sell within the distance a horse could travel. Railways connected distant markets, enabling mass production and mass distribution for the first time. The railroad companies themselves became the first truly large-scale business organizations, requiring management structures that previous businesses never needed.
+The railroad transformed business [geography](/geography). Before railways, markets were local. A manufacturer could only sell within the distance a horse could travel. Railways connected distant markets, enabling mass production and mass distribution for the first time. The railroad companies themselves became the first truly large-scale business organizations, requiring management structures that previous businesses never needed.
 
-This is where modern [management](/business-administration) was born. Running a railroad with thousands of employees spread across hundreds of miles demanded new approaches to organization, communication, and control. The divisional structure, middle management, cost accounting — all emerged from the practical challenges of running these vast enterprises.
+This is where modern [management](/business-administration) was born. [Running](/running) a railroad with thousands of employees spread across hundreds of miles demanded new approaches to organization, communication, and control. The divisional structure, middle management, cost accounting — all emerged from the practical challenges of running these vast enterprises.
 
 ## The Age of the Corporation
 
@@ -82,7 +82,7 @@ The managerial revolution, documented by historian Alfred Chandler, saw ownershi
 
 ## The Rise of Global Business
 
-After World War II, American corporations went global on an unprecedented scale. Companies like Coca-Cola, IBM, and General Motors built operations across dozens of countries. The multinational corporation became the dominant form of large-scale business organization.
+After [World War II](/world-war-ii), American corporations went global on an unprecedented scale. Companies like Coca-Cola, IBM, and General Motors built operations across dozens of countries. The multinational corporation became the dominant form of large-scale business organization.
 
 Japan's postwar economic miracle offered a different model. Companies like Toyota, Sony, and Honda developed management practices — just-in-time manufacturing, quality circles, continuous improvement (kaizen) — that challenged American assumptions about how businesses should operate. By the 1980s, American companies were scrambling to adopt Japanese methods.
 
@@ -104,7 +104,7 @@ Study enough business history and certain patterns become hard to ignore.
 
 There's a practical argument and an intellectual one. The practical argument: knowing how businesses succeeded and failed in the past helps you make better decisions today. The [entrepreneurs](/entrepreneurship) who changed industries — Ford, Carnegie, Steve Jobs, Akio Morita — didn't operate in a vacuum. They understood their industries' histories and built on what came before.
 
-The intellectual argument is equally compelling. Business history is really the history of how humans organize collective economic activity. It touches on technology, politics, culture, law, and psychology. You can't understand the modern world without understanding how commerce shaped it.
+The intellectual argument is equally compelling. Business history is really the history of how humans organize collective economic activity. It touches on technology, [politics](/politics), culture, law, and [psychology](/psychology). You can't understand the modern world without understanding how commerce shaped it.
 
 And here's something most people miss: business history shows that the challenges facing today's companies aren't as new as they seem. Worries about monopoly power? Standard Oil, 1880. Concerns about automation destroying jobs? Textile workers smashing looms in 1811. Debates about corporate social responsibility? Those go back at least to the Quaker businesses of the 18th century.
 

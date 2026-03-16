@@ -35,7 +35,7 @@ Instrument making is the craft of building musical instruments by hand — selec
 
 ## The Science and the Mystery
 
-Every acoustic instrument is, fundamentally, a vibration amplifier. A string vibrates. A reed vibrates. A drumhead vibrates. But those vibrations alone are nearly inaudible. The instrument's body — the [violin](/violin)'s hollow box, the guitar's sound chamber, the piano's soundboard — amplifies and shapes those vibrations into the sound you hear.
+Every acoustic instrument is, fundamentally, a vibration amplifier. A string vibrates. A reed vibrates. A drumhead vibrates. But those vibrations alone are nearly inaudible. The instrument's body — the [violin](/violin)'s hollow box, the guitar's sound chamber, the [piano](/piano)'s soundboard — amplifies and shapes those vibrations into the sound you hear.
 
 The [physics](/physics) is well understood in principle. A thinner top plate vibrates more freely, producing louder sound. The internal volume determines which frequencies are amplified. The wood's density, stiffness, and damping properties all affect tone. Bracing patterns control how the top flexes. Bridge placement determines string length and tension.
 
@@ -57,7 +57,7 @@ Modern [violin making](/violin-making) continues this tradition. Schools in Crem
 
 **Brass instrument making** involves forming metal tubes (typically yellow brass) into precise shapes, with valves or slides for pitch changes. The bore profile — how the tube's diameter changes along its length — determines the instrument's tonal character.
 
-**Woodwind making** requires extreme precision. A flute's tone holes must be positioned to within fractions of a millimeter. Clarinet bore dimensions affect intonation across the instrument's range. The best oboe and bassoon makers shape their instruments to the playing characteristics of individual musicians.
+**Woodwind making** requires extreme precision. A [flute](/flute)'s tone holes must be positioned to within fractions of a millimeter. Clarinet bore dimensions affect intonation across the instrument's range. The best oboe and bassoon makers shape their instruments to the playing characteristics of individual musicians.
 
 **Drum making** ranges from industrial production to artisanal craft. Custom snare drums, hand-shaped djembes, and traditional Japanese taiko drums each represent different making traditions with specific materials and techniques.
 

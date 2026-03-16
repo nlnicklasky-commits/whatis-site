@@ -55,7 +55,7 @@ Public health thinking predates the term by millennia. Roman aqueducts moved cle
 
 The real turning point came in London in 1854. Cholera was tearing through the Soho neighborhood, and physician John Snow did something radical — he mapped the cases. His map showed a clear cluster around a single water pump on Broad Street. He convinced authorities to remove the pump handle. The outbreak subsided.
 
-Snow didn't even know what caused cholera (germ theory wouldn't be established for another two decades). But he proved you could stop disease through careful observation and intervention, without understanding the underlying biology. That's epidemiology — the study of how diseases spread through populations — and it remains the backbone of public health.
+Snow didn't even know what caused cholera (germ theory wouldn't be established for another two decades). But he proved you could stop disease through careful observation and intervention, without understanding the underlying [biology](/biology). That's epidemiology — the study of how diseases spread through populations — and it remains the backbone of public health.
 
 ### The Sanitary Revolution
 
@@ -79,7 +79,7 @@ The math behind the evidence. Biostatisticians design studies, analyze health da
 
 ### Environmental Health
 
-This branch examines how your physical surroundings affect your health. Air quality, water contamination, toxic chemical exposure, radiation, climate change, food safety — all fall under environmental health. The EPA estimates that outdoor air pollution contributes to roughly 100,000-200,000 premature deaths per year in the U.S. alone.
+This branch examines how your physical surroundings affect your health. Air quality, water contamination, toxic chemical exposure, radiation, [climate change](/climate-change), food safety — all fall under environmental health. The EPA estimates that outdoor air pollution contributes to roughly 100,000-200,000 premature deaths per year in the U.S. alone.
 
 ### Health Policy and [Management](/management)
 
@@ -103,7 +103,7 @@ When something bad is detected, the response machinery kicks in. Contact tracing
 
 ### Prevention Programs
 
-Most public health work is less dramatic than outbreak response. It's the daily grind of prevention: running immunization clinics, inspecting restaurant kitchens, testing water supplies, distributing condoms, screening for lead exposure in children, teaching [diabetes management](/diabetes-management) classes. Unsexy work. Enormously effective work.
+Most public health work is less dramatic than outbreak response. It's the daily grind of prevention: [running](/running) immunization clinics, inspecting restaurant kitchens, testing water supplies, distributing condoms, screening for lead exposure in children, [teaching](/teaching) [diabetes management](/diabetes-management) classes. Unsexy work. Enormously effective work.
 
 ### Policy and Regulation
 

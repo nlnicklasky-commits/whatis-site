@@ -46,7 +46,7 @@ Palmer developed a theory that misalignments of the spine — which he called "s
 
 This original theory was, frankly, too broad. The idea that spinal misalignments cause everything from back pain to diabetes to infections isn't supported by evidence. But Palmer hit on something real within his overreach: spinal joint dysfunction does cause pain and can affect the [nervous system](/neuroscience), and manual manipulation can provide genuine relief for certain conditions.
 
-Palmer's son, B.J. Palmer, built the profession through aggressive marketing and educational expansion. The first chiropractic college opened in 1897. By the 1930s, chiropractic was the largest alternative health profession in America — despite relentless opposition from organized medicine, including the arrest of chiropractors for "practicing medicine without a license."
+Palmer's son, B.J. Palmer, built the profession through aggressive [marketing](/marketing) and educational expansion. The first chiropractic college opened in 1897. By the 1930s, chiropractic was the largest alternative health profession in America — despite relentless opposition from organized medicine, including the arrest of chiropractors for "practicing medicine without a license."
 
 ## What Happens During a Chiropractic Adjustment
 
@@ -88,9 +88,9 @@ Understanding the [anatomy](/anatomy) of the spine helps put the safety discussi
 
 ## Chiropractic Education and Licensing
 
-In the United States, chiropractors earn a Doctor of Chiropractic (DC) degree after roughly four years of graduate education. The curriculum includes [human physiology](/human-physiology), anatomy, [biochemistry](/biochemistry), pathology, diagnosis, radiology, and extensive training in spinal manipulation and other techniques.
+In the United States, chiropractors earn a Doctor of Chiropractic (DC) degree after roughly four years of graduate education. The curriculum includes [human physiology](/human-physiology), anatomy, [biochemistry](/biochemistry), [pathology](/pathology), diagnosis, [radiology](/radiology), and extensive training in spinal manipulation and other techniques.
 
-Chiropractic programs require significant undergraduate prerequisites, typically including biology, [chemistry](/chemistry), physics, and psychology. Total education averages 7-8 years beyond high school.
+Chiropractic programs require significant undergraduate prerequisites, typically including [biology](/biology), [chemistry](/chemistry), [physics](/physics), and psychology. Total education averages 7-8 years beyond high school.
 
 All 50 U.S. states license chiropractors, as do most developed countries. Licensing requires passing national board examinations and meeting continuing education requirements. Scope of practice varies by jurisdiction — some states allow chiropractors to perform certain laboratory tests or prescribe limited supplements, while others restrict practice more narrowly.
 
@@ -98,7 +98,7 @@ All 50 U.S. states license chiropractors, as do most developed countries. Licens
 
 The relationship between chiropractic and mainstream medicine has evolved significantly. For decades, organized medicine actively opposed chiropractic. The American Medical Association maintained a formal policy against physician cooperation with chiropractors until a landmark 1987 antitrust lawsuit found the AMA had engaged in an illegal conspiracy to destroy chiropractic.
 
-Today, the relationship is more collaborative — if still sometimes wary. Many hospitals include chiropractors on staff. The Veterans Administration and Department of Defense provide chiropractic services. Insurance coverage for chiropractic care is widespread.
+Today, the relationship is more collaborative — if still sometimes wary. Many hospitals include chiropractors on staff. The Veterans Administration and Department of Defense provide chiropractic services. [Insurance](/insurance) coverage for chiropractic care is widespread.
 
 The trend among evidence-based chiropractors is toward integration with mainstream healthcare — working alongside physicians, physical therapists, and other providers as part of a treatment team. This approach focuses chiropractic on what it does best (musculoskeletal pain [management](/management)) rather than making claims about treating conditions outside its evidence base.
 

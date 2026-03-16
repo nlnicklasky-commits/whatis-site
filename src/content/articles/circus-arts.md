@@ -53,7 +53,7 @@ Hand balancing deserves special mention. A skilled hand balancer holds their ent
 
 Performing while suspended from apparatus above the ground. Major aerial disciplines:
 
-**Trapeze** — Static (stationary bar for poses and drops), swinging (the classic flying trapeze with catchers), and dance trapeze (incorporating movement and wrapping). Flying trapeze — where a performer swings from a bar, releases in mid-air, executes tricks, and is caught by a partner swinging from another trapeze — remains one of circus's most thrilling acts.
+**Trapeze** — Static (stationary bar for poses and drops), swinging (the classic flying trapeze with catchers), and [dance](/dance) trapeze (incorporating movement and wrapping). Flying trapeze — where a performer swings from a bar, releases in mid-air, executes tricks, and is caught by a partner swinging from another trapeze — remains one of circus's most thrilling acts.
 
 **Aerial silks** (tissu) — Two long fabric panels suspended from a rigging point. Performers climb, wrap, and drop through the silk, creating visual shapes and dramatic falls. Silks have become the most popular recreational aerial discipline, driving the aerial fitness boom.
 

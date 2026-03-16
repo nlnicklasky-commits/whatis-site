@@ -31,7 +31,7 @@ faq:
 
 # What Is Video Editing?
 
-Video editing is the process of taking raw footage and shaping it into a coherent, watchable production. It involves selecting the best shots, arranging them in sequence, controlling timing and pacing, adding transitions, incorporating sound and music, and making the countless small decisions that determine whether a viewer stays engaged or clicks away.
+Video [editing](/editing) is the process of taking raw footage and shaping it into a coherent, watchable production. It involves selecting the best shots, arranging them in sequence, controlling timing and pacing, adding transitions, incorporating sound and music, and making the countless small decisions that determine whether a viewer stays engaged or clicks away.
 
 ## The Invisible Art
 

@@ -37,13 +37,13 @@ faq:
 
 # What Is Comparative Anatomy?
 
-Comparative anatomy is the branch of biology that studies the similarities and differences in the physical structures of different species to understand evolutionary relationships, functional adaptations, and the principles that govern body design across the animal kingdom. By comparing how bones, organs, and tissues are arranged in different organisms, scientists can reconstruct evolutionary history, understand how structures adapt to different environments, and predict how organisms will respond to new challenges.
+Comparative anatomy is the branch of [biology](/biology) that studies the similarities and differences in the physical structures of different species to understand evolutionary relationships, functional adaptations, and the principles that govern body design across the animal kingdom. By comparing how bones, organs, and tissues are arranged in different organisms, scientists can reconstruct evolutionary history, understand how structures adapt to different environments, and predict how organisms will respond to new challenges.
 
 ## The Insight That Changed Biology
 
 Here's the observation that launched comparative anatomy as a serious science: your arm and a whale's flipper contain the same bones.
 
-Look at your arm. You've got one bone in the upper arm (humerus), two in the forearm (radius and ulna), a cluster of small wrist bones (carpals), and five sets of finger bones (metacarpals and phalanges). Now look at a whale's flipper. Same bones. Same arrangement. Humerus, radius, ulna, carpals, metacarpals, phalanges — they're shortened, flattened, and modified for swimming, but they're the same bones in the same relative positions.
+Look at your arm. You've got one bone in the upper arm (humerus), two in the forearm (radius and ulna), a cluster of small wrist bones (carpals), and five sets of finger bones (metacarpals and phalanges). Now look at a whale's flipper. Same bones. Same arrangement. Humerus, radius, ulna, carpals, metacarpals, phalanges — they're shortened, flattened, and modified for [swimming](/swimming), but they're the same bones in the same relative positions.
 
 Now look at a bat's wing. Same bones again — but the finger bones are enormously elongated to support the wing membrane. A horse's leg? Same bones — but the horse walks on a single modified finger (the third digit), with the other digits reduced to tiny splints.
 
@@ -81,7 +81,7 @@ Not all similarities between species indicate shared ancestry. Sometimes, unrela
 
 **Camera eyes** evolved independently in vertebrates and cephalopods (octopuses and squid). Both have a lens that focuses light onto a retina, but the detailed structure differs — most strikingly, the vertebrate retina is "inside out" (the nerve fibers are on the front surface, creating a blind spot), while the cephalopod retina has the nerve fibers behind the photoreceptors (no blind spot). Same problem, similar solution, different [engineering](/engineering).
 
-**Streamlined body shapes** appear in dolphins (mammals), sharks (fish), and ichthyosaurs (extinct reptiles). These three lineages are only distantly related, but they all evolved torpedo-shaped bodies for moving efficiently through water. The physics of [fluid dynamics](/fluid-dynamics) imposed similar body shapes on completely different starting points.
+**Streamlined body shapes** appear in dolphins (mammals), sharks (fish), and ichthyosaurs (extinct reptiles). These three lineages are only distantly related, but they all evolved torpedo-shaped bodies for moving efficiently through water. The [physics](/physics) of [fluid dynamics](/fluid-dynamics) imposed similar body shapes on completely different starting points.
 
 This phenomenon — convergent evolution — is actually powerful evidence *for* evolution. It shows that natural selection predictably produces similar solutions to similar problems. And comparative anatomy is how we distinguish convergence from common ancestry: by looking past superficial similarity to examine underlying structural details.
 
@@ -131,7 +131,7 @@ The field has been transformed by technology and by integration with [molecular 
 
 **Phylogenetic comparative methods** combine anatomical data with molecular phylogenies (evolutionary trees based on DNA) to test hypotheses about how structures evolved. Did a particular structure evolve once or multiple times? Did body size increase or decrease along a particular evolutionary lineage? These questions require both anatomical and molecular data.
 
-**Evo-devo** (evolutionary [developmental biology](/developmental-biology)) bridges comparative [anatomy](/anatomy) and genetics by studying how changes in developmental genes produce changes in body structure. A mutation in a single Hox gene can transform one body segment's structures into another's — demonstrating that the connection between genes and anatomy is direct and mechanistic.
+**Evo-devo** (evolutionary [developmental biology](/developmental-biology)) bridges comparative [anatomy](/anatomy) and [genetics](/genetics) by studying how changes in developmental genes produce changes in body structure. A mutation in a single Hox gene can transform one body segment's structures into another's — demonstrating that the connection between genes and anatomy is direct and mechanistic.
 
 ## Why It Still Matters
 

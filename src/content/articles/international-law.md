@@ -35,7 +35,7 @@ faq:
 
 # What Is International Law?
 
-International law is the body of rules, agreements, and principles that govern how sovereign states and other international actors interact with one another. It covers everything from trade agreements and diplomatic immunity to the laws of war and human rights protections.
+International law is the body of rules, agreements, and principles that govern how sovereign states and other international actors interact with one another. It covers everything from [trade](/trade) agreements and diplomatic immunity to the laws of war and human rights protections.
 
 ## The Weird Thing About International Law
 
@@ -55,7 +55,7 @@ The sources of international law are laid out in Article 38 of the Statute of th
 
 Treaties are written agreements between states. They're the most straightforward source of international law — essentially contracts between countries. When the United States signs and ratifies a treaty, it becomes legally binding.
 
-The sheer volume of treaties is staggering. The United Nations Treaty Collection contains over 560 major multilateral treaties and tens of thousands of bilateral ones. They cover everything from postal regulations (the Universal Postal Union dates to 1874) to nuclear weapons (the Non-Proliferation Treaty of 1968) to climate change (the Paris Agreement of 2015).
+The sheer volume of treaties is staggering. The United Nations Treaty Collection contains over 560 major multilateral treaties and tens of thousands of bilateral ones. They cover everything from postal regulations (the Universal Postal Union dates to 1874) to nuclear weapons (the Non-Proliferation Treaty of 1968) to [climate change](/climate-change) (the Paris Agreement of 2015).
 
 Treaty-making follows a standard process: [negotiation](/negotiation), signature, and ratification. Signature indicates agreement in principle. Ratification — usually requiring legislative approval — creates the legal obligation. This distinction matters. The US signed the Kyoto Protocol in 1998 but never ratified it, meaning it was never legally bound by its terms.
 
@@ -126,7 +126,7 @@ Several theories offer partial answers. **Realism** says states follow internati
 
 In practice, compliance happens for all these reasons and more. Reputation matters — states that consistently violate international law find it harder to negotiate future agreements. Reciprocity matters — if you violate a treaty, the other side may do the same. Institutional inertia matters — once bureaucracies are set up to comply with international obligations, compliance becomes the default.
 
-The compliance rate for international law as a whole is actually quite high. Most international law — the rules governing postal service, aviation, maritime [navigation](/navigation), diplomatic relations, trade — is followed routinely because compliance serves everyone's interests. It's the hard cases — territorial disputes, human rights abuses, the use of force — where compliance breaks down.
+The compliance rate for international law as a whole is actually quite high. Most international law — the rules governing postal service, [aviation](/aviation), maritime [navigation](/navigation), diplomatic relations, trade — is followed routinely because compliance serves everyone's interests. It's the hard cases — territorial disputes, human rights abuses, the use of force — where compliance breaks down.
 
 ## The Limits of International Law
 
@@ -138,7 +138,7 @@ The veto power of the five permanent Security Council members means that any gre
 
 International law is struggling to keep pace with new realities. Cyberwarfare operates in a legal gray zone — when does a cyberattack constitute an "armed attack" justifying [self-defense](/self-defense)? Climate change raises questions of intergenerational justice and state responsibility for emissions. [Artificial intelligence](/artificial-intelligence) in weapons systems challenges the laws of war's requirement for human judgment in targeting decisions.
 
-Space law, governed primarily by the 1967 Outer Space Treaty, was written when only two countries could reach orbit. Now private companies launch rockets, and questions about mining asteroids and claiming territory are no longer hypothetical.
+[Space law](/space-law), governed primarily by the 1967 Outer Space Treaty, was written when only two countries could reach orbit. Now private companies launch rockets, and questions about mining asteroids and claiming territory are no longer hypothetical.
 
 These challenges won't be solved overnight. But they'll be addressed — imperfectly, incrementally, through negotiation and compromise — using the same tools international law has always relied on: treaties, custom, institutions, and the persistent, frustrating, occasionally inspiring effort to bring order to a world of sovereign states that answer to no one but themselves.
 

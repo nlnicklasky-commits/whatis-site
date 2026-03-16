@@ -72,7 +72,7 @@ Foundations and government agencies distribute billions annually through competi
 The grant process typically involves:
 1. **Research**: Identifying foundations whose funding priorities match your programs
 2. **Letter of inquiry**: A brief introduction (many foundations require this before a full proposal)
-3. **Proposal writing**: A detailed document describing the project, budget, organizational capacity, and evaluation plan
+3. **Proposal [writing](/writing)**: A detailed document describing the project, budget, organizational capacity, and evaluation plan
 4. **Review period**: Weeks to months while the funder evaluates applications
 5. **Reporting**: If funded, regular reports on how the money was used and what outcomes were achieved
 
@@ -82,9 +82,9 @@ The downsides of grant dependence: grants are often restricted to specific progr
 
 ### Events
 
-Galas, walks, runs, auctions, golf tournaments, and concerts serve dual purposes: raising money and building community. Events are the most visible form of fundraising and often the most fun — and the most expensive to produce.
+Galas, walks, runs, auctions, [golf](/golf) tournaments, and concerts serve dual purposes: raising money and building community. Events are the most visible form of fundraising and often the most fun — and the most expensive to produce.
 
-The economics of events are tricky. A gala that raises $200,000 might cost $80,000 to produce, yielding a net of $120,000. That's a 60% return — not bad for a single evening. But the same staff time invested in major gift cultivation might produce higher returns.
+The [economics](/economics) of events are tricky. A gala that raises $200,000 might cost $80,000 to produce, yielding a net of $120,000. That's a 60% return — not bad for a single evening. But the same staff time invested in major gift cultivation might produce higher returns.
 
 Events work best when they:
 - Build relationships that lead to larger future gifts
@@ -99,11 +99,11 @@ Events work worst when they consume enormous staff time, generate more stress th
 
 Businesses support nonprofits through several channels:
 
-**Corporate sponsorships**: Companies pay to have their brand associated with events, programs, or organizations. This is marketing spend with charitable benefit — the company gets visibility, the nonprofit gets funding.
+**Corporate sponsorships**: Companies pay to have their brand associated with events, programs, or organizations. This is [marketing](/marketing) spend with charitable benefit — the company gets visibility, the nonprofit gets funding.
 
 **Matching gifts**: Many companies match their employees' charitable donations, effectively doubling the gift. About $2-3 billion in matching gift funds go unclaimed annually because donors don't know their employers offer the program.
 
-**Cause marketing**: Companies tie product sales to charitable donations ("buy this product and we'll donate $1 to X"). These campaigns can generate significant revenue and awareness.
+**Cause marketing**: Companies tie product [sales](/sales) to charitable donations ("buy this product and we'll donate $1 to X"). These campaigns can generate significant revenue and awareness.
 
 **In-kind donations**: Products, services, or volunteer time instead of cash. Pro bono legal services, donated technology, or volunteer teams can be extremely valuable even though they don't appear as dollar figures.
 
@@ -211,7 +211,7 @@ Fundraising requires collecting personal and financial information. Ethical orga
 
 ## Fundraising as a Profession
 
-Professional fundraising has grown from an informal activity to a recognized profession with certification, ethical standards, and career paths. The Association of Fundraising Professionals (AFP) has over 26,000 members. The Certified Fund Raising Executive (CFRE) credential requires experience, education, and passing an examination.
+Professional fundraising has grown from an informal activity to a recognized profession with certification, ethical standards, and career paths. The Association of Fundraising Professionals (AFP) has over 26,000 members. The Certified Fund Raising Executive (CFRE) credential requires experience, [education](/education), and passing an examination.
 
 Typical roles include:
 
@@ -234,7 +234,7 @@ Several trends are reshaping how nonprofits raise money:
 
 **Younger donors**: Millennials and Gen Z have different giving patterns — they prefer monthly recurring gifts over annual appeals, value transparency and impact reporting, and discover causes through social media rather than direct mail. Adapting to these preferences is essential for long-term sustainability.
 
-**Cryptocurrency and DAFs**: Donor-advised funds (DAFs) — accounts where donors receive immediate tax deductions but recommend grants over time — held $229 billion in assets in 2023. Cryptocurrency donations are growing, offering tax advantages for donors with appreciated crypto assets.
+**[Cryptocurrency](/cryptocurrency) and DAFs**: Donor-advised funds (DAFs) — accounts where donors receive immediate tax deductions but recommend grants over time — held $229 billion in assets in 2023. Cryptocurrency donations are growing, offering tax advantages for donors with appreciated crypto assets.
 
 **Participatory philanthropy**: Models where beneficiaries or community members have a voice in how funds are distributed are gaining traction. This challenges traditional top-down [business strategy](/business-strategy) approaches to grantmaking.
 

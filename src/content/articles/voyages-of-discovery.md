@@ -55,7 +55,7 @@ Portugal punched way above its weight. A small kingdom with a population of abou
 
 Prince Henry the Navigator (1394-1460) organized and funded systematic exploration of the West African coast. His navigators crept south, cape by cape, over decades. They weren't looking for Africa specifically — they were looking for a sea route around it to reach India and the spice markets.
 
-The breakthrough came in 1488 when Bartholomew Dias rounded the Cape of Good Hope at Africa's southern tip, proving that the Atlantic and Indian Oceans were connected. A decade later, in 1498, Vasco da Gama completed the route, sailing from Lisbon to Calicut (modern Kozhikode) in India. The round trip took over two years, and half his crew died. But the spices he brought back were worth 60 times the cost of the entire expedition.
+The breakthrough came in 1488 when Bartholomew Dias rounded the Cape of Good Hope at Africa's southern tip, proving that the Atlantic and Indian Oceans were connected. A decade later, in 1498, Vasco da Gama completed the route, [sailing](/sailing) from Lisbon to Calicut (modern Kozhikode) in India. The round trip took over two years, and half his crew died. But the spices he brought back were worth 60 times the cost of the entire expedition.
 
 Portugal quickly built a string of fortified trading posts — Goa, Malacca, Hormuz, Macau — controlling key choke points in the Indian Ocean trade network. They didn't conquer large territories the way Spain would. Instead, they dominated through naval superiority and control of strategic ports.
 

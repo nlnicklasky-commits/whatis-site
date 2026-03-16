@@ -31,17 +31,17 @@ faq:
 
 # What Is Fine Art?
 
-Fine art refers to creative works produced primarily for their aesthetic, intellectual, or emotional value rather than for a practical function. Painting, sculpture, drawing, [printmaking](/printmaking), and — more recently — photography, video, installation, and performance are all considered fine art. The term distinguishes these from "applied" or "decorative" arts (furniture, textiles, ceramics), though that distinction has been questioned, debated, and partly dismantled over the past century.
+Fine art refers to creative works produced primarily for their aesthetic, intellectual, or emotional value rather than for a practical function. [Painting](/painting), [sculpture](/sculpture), [drawing](/drawing), [printmaking](/printmaking), and — more recently — photography, video, installation, and performance are all considered fine art. The term distinguishes these from "applied" or "decorative" arts (furniture, textiles, [ceramics](/ceramics)), though that distinction has been questioned, debated, and partly dismantled over the past century.
 
 ## The Traditional Categories
 
 For most of Western [art history](/art-history), the fine arts were a defined list. The French Academy, which dominated European art from the 17th to 19th centuries, ranked them in a hierarchy:
 
-**History painting** sat at the top — large-scale depictions of biblical, mythological, or historical scenes. This was considered the most intellectually demanding genre because it required knowledge of history, anatomy, composition, and narrative.
+**History painting** sat at the top — large-scale depictions of biblical, mythological, or historical scenes. This was considered the most intellectually demanding genre because it required knowledge of history, [anatomy](/anatomy), composition, and narrative.
 
 **Portraiture** came next, followed by **genre painting** (scenes of everyday life), **field**, and **still life** at the bottom. This hierarchy reflected social values more than artistic quality — painting powerful people and grand narratives mattered more than painting fruit bowls.
 
-**Sculpture** ranked alongside painting. **Drawing** was fundamental — the basis for all other [visual arts](/visual-arts). **Printmaking** (etching, engraving, [lithography](/lithography)) emerged as a fine art that could reach broader audiences than unique paintings.
+**Sculpture** ranked alongside painting. **Drawing** was fundamental — the basis for all other [visual arts](/visual-arts). **Printmaking** (etching, [engraving](/engraving), [lithography](/lithography)) emerged as a fine art that could reach broader audiences than unique paintings.
 
 [Architecture](/architecture) was sometimes included, sometimes not. Music and poetry were traditionally grouped with the fine arts but occupy their own categories today.
 
@@ -59,13 +59,13 @@ The fine art market is a $65+ billion annual industry, and it operates by rules 
 
 Auction houses — Christie's and Sotheby's dominate — drive high-end prices and generate headlines. Leonardo da Vinci's *Salvator Mundi* sold for $450.3 million in 2017, the highest price ever paid for an artwork. Jeff Koons's *Rabbit* (a stainless steel balloon animal) sold for $91.1 million in 2019.
 
-These numbers represent a tiny fraction of the art market. Most working fine artists struggle financially. The Bureau of Labor Statistics puts the median income for fine artists in the U.S. at roughly $50,000. Galleries take 50% commissions. Art school debt averages $35,000-$40,000. The gap between the art market's headline prices and most artists' reality is enormous.
+These numbers represent a tiny fraction of the art market. Most working fine artists struggle financially. The Bureau of Labor [Statistics](/statistics) puts the median income for fine artists in the U.S. at roughly $50,000. Galleries take 50% commissions. Art school debt averages $35,000-$40,000. The gap between the art market's headline prices and most artists' reality is enormous.
 
 ## Fine Art Education
 
-Formal art education follows a relatively standard path. A Bachelor of Fine Arts (BFA) is the standard undergraduate degree, typically four years with heavy studio work. A Master of Fine Arts (MFA) is the terminal degree — two to three years of intensive studio practice and critique.
+Formal art [education](/education) follows a relatively standard path. A Bachelor of Fine Arts (BFA) is the standard undergraduate degree, typically four years with heavy studio work. A Master of Fine Arts (MFA) is the terminal degree — two to three years of intensive studio practice and critique.
 
-MFA programs function as both training grounds and networking opportunities. Schools like Yale, RISD, CalArts, the Royal College of Art, and Columbia attract talented students and connect them to galleries, curators, and collectors. The "right" MFA program can significantly boost an artist's career prospects — though many successful artists have no formal training at all.
+MFA programs function as both training grounds and [networking](/networking) opportunities. Schools like Yale, RISD, CalArts, the Royal College of Art, and Columbia attract talented students and connect them to galleries, curators, and collectors. The "right" MFA program can significantly boost an artist's career prospects — though many successful artists have no formal training at all.
 
 Art school teaches technique, but perhaps more importantly, it teaches [critical thinking](/critical-thinking) about art — how to articulate what your work is doing, how to position it within art historical conversations, and how to give and receive critique.
 

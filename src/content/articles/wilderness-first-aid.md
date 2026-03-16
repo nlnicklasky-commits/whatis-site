@@ -33,7 +33,7 @@ faq:
 
 # What Is Wilderness First Aid?
 
-Wilderness first aid is emergency medical care provided in remote, outdoor settings where professional help — an ambulance, a hospital, a doctor — is significantly delayed or unavailable. While standard first aid assumes help arrives in minutes, wilderness first aid operates on the assumption that you might be managing a patient for hours, or even days, with whatever supplies you have in your pack.
+Wilderness [first aid](/first-aid) is emergency medical care provided in remote, outdoor settings where professional help — an ambulance, a hospital, a doctor — is significantly delayed or unavailable. While standard first aid assumes help arrives in minutes, wilderness first aid operates on the assumption that you might be managing a patient for hours, or even days, with whatever supplies you have in your pack.
 
 That changes the math completely. In an urban setting, your job is mostly to keep someone alive until paramedics arrive. In the backcountry, you may need to set a dislocated shoulder, splint a broken leg with trekking poles, treat hypothermia using body heat, and then figure out how to get an injured person off a mountainside. The skills overlap with standard first aid, but the context — remote, resource-limited, weather-exposed — makes it a fundamentally different discipline.
 

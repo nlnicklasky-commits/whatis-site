@@ -35,13 +35,13 @@ faq:
 
 # What Is Islamic History?
 
-Islamic history is the study of the civilization, political systems, cultural achievements, and religious developments that emerged from the founding of Islam by the Prophet Muhammad in 7th-century Arabia and spread across three continents over the following 1,400 years. It encompasses caliphates that governed vast empires, a golden age of science and philosophy, and the diverse experiences of nearly two billion Muslims today.
+Islamic history is the study of the civilization, political systems, cultural achievements, and religious developments that emerged from the founding of [Islam](/islam) by the Prophet Muhammad in 7th-century Arabia and spread across three continents over the following 1,400 years. It encompasses caliphates that governed vast empires, a golden age of science and [philosophy](/philosophy), and the diverse experiences of nearly two billion Muslims today.
 
 ## Arabia Before Islam
 
 The Arabian Peninsula in the early 7th century was a peripheral region. The two great powers — the Byzantine Empire and the Sassanid Persian Empire — dominated the Middle East, and Arabia sat between them, largely ignored. Most Arabs were polytheistic, worshiping a pantheon of deities at various shrines. Mecca, a trading city in the Hejaz region, housed the Kaaba, a cuboid structure containing hundreds of idols that served as the most important pilgrimage site.
 
-Arabia wasn't a total backwater, though. Meccans controlled lucrative trade routes between Yemen and the Mediterranean. The [Arabic language](/arabic-language) had a rich oral literary tradition — poetry was the highest art form, and great poets held social status comparable to modern celebrities. Jewish and Christian communities existed throughout the peninsula. The stage was set, though nobody knew it, for one of history's most consequential transformations.
+Arabia wasn't a total backwater, though. Meccans controlled lucrative [trade](/trade) routes between Yemen and the Mediterranean. The [Arabic language](/arabic-language) had a rich oral literary tradition — [poetry](/poetry) was the highest art form, and great poets held social status comparable to modern celebrities. Jewish and Christian communities existed throughout the peninsula. The stage was set, though nobody knew it, for one of history's most consequential transformations.
 
 ## Muhammad and the Birth of Islam (610-632 CE)
 
@@ -79,7 +79,7 @@ The Abbasid Caliphate moved the capital to Baghdad, and what followed was one of
 
 Baghdad, founded in 762, became the world's largest city by the early 9th century, with a population estimated at over one million. The House of Wisdom (*Bayt al-Hikma*), established under Caliph al-Ma'mun (reigned 813-833), systematically translated Greek, Persian, and Indian texts into Arabic. This wasn't mere preservation — scholars actively built upon and extended classical knowledge.
 
-The achievements were staggering. Al-Khwarizmi (c. 780-850) wrote the foundational texts of [algebra](/algebra) — the word itself comes from the title of his book, *al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala*. Ibn al-Haytham (Alhazen, 965-1040) essentially invented the [scientific method](/scientific-method) and wrote the *Book of Optics*, which influenced European scientists for centuries. Al-Razi (Rhazes, 854-925) distinguished between measles and smallpox and wrote encyclopedic medical texts. Ibn Sina (Avicenna, 980-1037) produced *The Canon of Medicine*, used as a textbook in European universities until the 17th century.
+The achievements were staggering. Al-Khwarizmi (c. 780-850) wrote the foundational texts of [algebra](/algebra) — the word itself comes from the title of his book, *al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala*. Ibn al-Haytham (Alhazen, 965-1040) essentially invented the [scientific method](/scientific-method) and wrote the *Book of [Optics](/optics)*, which influenced European scientists for centuries. Al-Razi (Rhazes, 854-925) distinguished between measles and smallpox and wrote encyclopedic medical texts. Ibn Sina (Avicenna, 980-1037) produced *The Canon of Medicine*, used as a textbook in European universities until the 17th century.
 
 This wasn't limited to science. Islamic [jurisprudence](/jurisprudence) (fiqh) developed into sophisticated legal schools. Sufi mysticism produced extraordinary poetry and philosophy. [Architecture](/architecture) reached new heights — the Great Mosque of Samarra, with its spiral minaret, was the largest mosque in the world. Persian [literature](/literature) experienced a renaissance under Abbasid patronage.
 
@@ -89,7 +89,7 @@ The Mongol sack of Baghdad in 1258 ended the Abbasid Caliphate and remains one o
 
 ## The Ottoman, Safavid, and Mughal Empires
 
-The post-Mongol era saw three great Islamic empires emerge. The Ottoman Empire (1299-1922), centered on Anatolia and southeastern Europe, became the dominant power in the eastern Mediterranean. The Safavid Empire (1501-1736) established Shia Islam as [Iran's](/iranian-history) state religion. The Mughal Empire (1526-1857) ruled most of the Indian subcontinent.
+The post-Mongol era saw three great Islamic empires emerge. The Ottoman Empire (1299-1922), centered on Anatolia and southeastern Europe, became the dominant power in the eastern Mediterranean. The Safavid Empire (1501-1736) established Shia Islam as [Iran's](/iranian-history) state [religion](/religion). The Mughal Empire (1526-1857) ruled most of the Indian subcontinent.
 
 The Ottoman Empire was the longest-lasting and most powerful. Mehmed II conquered Constantinople in 1453, ending the Byzantine Empire. At its peak under Suleiman the Magnificent (reigned 1520-1566), the empire stretched from Hungary to Yemen, from Algeria to Iraq. Istanbul became perhaps the world's most cosmopolitan city — home to Muslims, Christians, and Jews under a system of communal autonomy (the millet system).
 
@@ -111,4 +111,4 @@ The 20th century brought independence but also new challenges. The creation of I
 
 Today, roughly 1.9 billion people — about 25% of the world's population — are Muslim, spread across 49 Muslim-majority countries and significant minorities on every continent. Indonesia, not an Arab country, has the world's largest Muslim population (roughly 230 million). Islam is the world's fastest-growing major religion, projected to nearly equal [Christianity](/christianity) in global numbers by 2060.
 
-Understanding Islamic history means recognizing a civilization of extraordinary diversity — Arab, Persian, Turkish, South Asian, Southeast Asian, African — united by a common faith but expressing it in vastly different ways. It means seeing the connections between medieval Muslim scientists and modern [mathematics](/algebra), between Ottoman administrative innovations and contemporary Middle Eastern politics, between colonial legacies and current conflicts. Most importantly, it means taking seriously a civilization that shaped the world as profoundly as any other.
+Understanding Islamic history means recognizing a civilization of extraordinary diversity — Arab, Persian, Turkish, South Asian, Southeast Asian, African — united by a common faith but expressing it in vastly different ways. It means seeing the connections between medieval Muslim scientists and modern [mathematics](/algebra), between Ottoman administrative innovations and contemporary Middle Eastern [politics](/politics), between colonial legacies and current conflicts. Most importantly, it means taking seriously a civilization that shaped the world as profoundly as any other.

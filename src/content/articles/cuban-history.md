@@ -47,7 +47,7 @@ Within 50 years, the Taino were nearly wiped out. European diseases — smallpox
 
 Spain ruled Cuba for over 400 years — longer than any other colonial power held any territory in the Western Hemisphere. The island's economy evolved through several phases, each brutal in its own way.
 
-Initially, Cuba served as a staging point for Spain's conquests of Mexico and South America. Havana's deep harbor made it a crucial port for the treasure fleets carrying gold and silver back to Spain. The city grew wealthy from trade — and from being a target for pirates, privateers, and the occasional British invasion (the British actually captured Havana in 1762, holding it for 11 months before trading it back to Spain for Florida).
+Initially, Cuba served as a staging point for Spain's conquests of Mexico and South America. Havana's deep harbor made it a crucial port for the treasure fleets carrying gold and silver back to Spain. The city grew wealthy from [trade](/trade) — and from being a target for pirates, privateers, and the occasional British invasion (the British actually captured Havana in 1762, holding it for 11 months before trading it back to Spain for Florida).
 
 By the 18th century, sugar had become Cuba's economic engine. Sugar production required enormous amounts of labor, and that labor came from enslaved Africans. Between 1790 and 1867, an estimated 780,000 enslaved Africans were brought to Cuba. At its peak, enslaved people made up about 40% of Cuba's population. The sugar plantations were notoriously deadly — the average life expectancy of an enslaved worker on a Cuban sugar plantation was about seven years.
 

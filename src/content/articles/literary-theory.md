@@ -37,7 +37,7 @@ That might sound dry. It's actually one of the most contentious fields in the hu
 
 ## Why Theory Exists
 
-For most of literary history, criticism was fairly informal. You read a work, judged whether it was good, and explained why — drawing on taste, knowledge, and rhetorical skill. Aristotle's *Poetics* (circa 335 BCE) is the earliest surviving example, analyzing tragedy through concepts like catharsis, plot structure, and character.
+For most of literary history, criticism was fairly informal. You read a work, judged whether it was good, and explained why — [drawing](/drawing) on taste, knowledge, and rhetorical skill. Aristotle's *Poetics* (circa 335 BCE) is the earliest surviving example, analyzing tragedy through concepts like catharsis, plot structure, and character.
 
 But in the 20th century, scholars started asking harder questions. *How* do we decide what a text means? *Whose* reading counts? *What assumptions* are we making when we call something "great literature"? Literary theory emerged from these questions, borrowing heavily from [philosophy](/philosophy), [linguistics](/linguistics), [psychology](/psychology), [sociology](/sociology), and political thought.
 
@@ -53,9 +53,9 @@ The strength of structuralism is its ability to reveal patterns. Its weakness? I
 
 ## Post-Structuralism and Deconstruction
 
-Post-structuralism emerged in the late 1960s as a critique of structuralism's confidence in stable systems and fixed meanings. Its most famous figure is Jacques Derrida, whose practice of "deconstruction" showed that the binary oppositions structuralism relied on (speech/writing, presence/absence, nature/culture) always contain hidden hierarchies and internal contradictions.
+Post-structuralism emerged in the late 1960s as a critique of structuralism's confidence in stable systems and fixed meanings. Its most famous figure is Jacques Derrida, whose practice of "deconstruction" showed that the binary oppositions structuralism relied on (speech/[writing](/writing), presence/absence, nature/culture) always contain hidden hierarchies and internal contradictions.
 
-Derrida's insight — simplified aggressively — is that meaning is never fully present in language. Every word gains its meaning partly from what it's *not*, and every text contains tensions that undermine its apparent message. Reading deconstructively means finding the moments where a text contradicts itself, where its logic breaks down, where the margins reveal what the center tries to suppress.
+Derrida's insight — simplified aggressively — is that meaning is never fully present in language. Every word gains its meaning partly from what it's *not*, and every text contains tensions that undermine its apparent message. Reading deconstructively means finding the moments where a text contradicts itself, where its [logic](/logic) breaks down, where the margins reveal what the center tries to suppress.
 
 This sounds destructive, but Derrida insisted it wasn't about destroying meaning — it was about showing that meaning is always more complex, layered, and unstable than we assume.
 
@@ -85,7 +85,7 @@ These ideas remain controversial. Many readers — and quite a few scholars — 
 
 ## Theory's Bad Reputation
 
-Let's be honest: literary theory has a PR problem. Much of it is written in prose so dense and jargon-heavy that even sympathetic readers struggle. The "Sokal affair" of 1996, in which a physicist published a deliberately nonsensical article in a cultural studies journal, damaged theory's credibility. And the question "but what's it good for?" has never been satisfactorily answered for everyone.
+Let's be honest: literary theory has a PR problem. Much of it is written in [prose](/prose) so dense and jargon-heavy that even sympathetic readers struggle. The "Sokal affair" of 1996, in which a physicist published a deliberately nonsensical article in a cultural studies journal, damaged theory's credibility. And the question "but what's it good for?" has never been satisfactorily answered for everyone.
 
 The defense is that theory makes visible the assumptions we bring to reading — assumptions about meaning, value, identity, and power that operate whether we're aware of them or not. Making those assumptions visible doesn't ruin reading. It deepens it.
 

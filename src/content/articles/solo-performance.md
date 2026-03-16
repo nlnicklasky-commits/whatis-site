@@ -45,7 +45,7 @@ Solo performance takes several shapes, each with different demands.
 
 **Storytelling** performance is the oldest form — a narrator sharing a story with an audience. The Moth, story slams, and similar events have revived this tradition. The performer typically shares a personal true story within time constraints (often 5-10 minutes), creating a form that's accessible to amateur and professional performers alike.
 
-**Physical and [dance](/dance) solo** removes words entirely, communicating through movement. Solo dance pieces and mime performances use the body as the complete communication medium.
+**Physical and [dance](/dance) solo** removes words entirely, communicating through movement. Solo dance pieces and [mime](/mime) performances use the body as the complete communication medium.
 
 ## Why It Works
 

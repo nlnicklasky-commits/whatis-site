@@ -35,21 +35,21 @@ faq:
 
 # What Is Comparative Religion?
 
-Comparative religion is the academic discipline that studies the world's religious traditions systematically, examining their beliefs, practices, texts, histories, and cultural contexts side by side to identify patterns of similarity and difference. Unlike theology, which works from within a specific faith tradition, comparative religion analyzes all religions from a scholarly perspective — not to judge which is "right," but to understand how and why humans across cultures develop religious systems.
+Comparative [religion](/religion) is the academic discipline that studies the world's religious traditions systematically, examining their beliefs, practices, texts, histories, and cultural contexts side by side to identify patterns of similarity and difference. Unlike [theology](/theology), which works from within a specific faith tradition, comparative religion analyzes all religions from a scholarly perspective — not to judge which is "right," but to understand how and why humans across cultures develop religious systems.
 
 ## Why Compare Religions at All?
 
-About 85% of the world's 8 billion people identify with a religious tradition. Religion shapes laws, wars, holidays, family structures, dietary habits, artistic traditions, and moral reasoning across every inhabited continent. You literally cannot understand human history, politics, or culture without understanding religion. And you cannot understand any single religion fully without understanding what it shares with — and how it differs from — others.
+About 85% of the world's 8 billion people identify with a religious tradition. Religion shapes laws, wars, holidays, family structures, dietary habits, artistic traditions, and moral reasoning across every inhabited continent. You literally cannot understand human history, [politics](/politics), or culture without understanding religion. And you cannot understand any single religion fully without understanding what it shares with — and how it differs from — others.
 
-Here's an example. [Christianity](/christianity), Islam, and Judaism all trace their heritage to Abraham. They share monotheism, prophetic tradition, ethical commandments, and concepts of divine judgment. Yet they've fought wars against each other for centuries. Understanding why requires comparative analysis — examining how similar theological foundations led to different institutional structures, different scriptural interpretations, and different political trajectories.
+Here's an example. [Christianity](/christianity), [Islam](/islam), and Judaism all trace their heritage to Abraham. They share monotheism, prophetic tradition, ethical commandments, and concepts of divine judgment. Yet they've fought wars against each other for centuries. Understanding why requires comparative analysis — examining how similar theological foundations led to different institutional structures, different scriptural interpretations, and different political trajectories.
 
-Or consider this: Buddhism and [Stoicism](/stoicism) developed independently on different continents, yet both emphasize acceptance of suffering, detachment from desire, mindfulness of the present moment, and virtue as the path to inner peace. Is this coincidence? Evidence of some universal truth? Or a common response to the psychological challenges of human existence? Comparative religion provides frameworks for exploring these questions.
+Or consider this: [Buddhism](/buddhism) and [Stoicism](/stoicism) developed independently on different continents, yet both emphasize acceptance of suffering, detachment from desire, mindfulness of the present moment, and virtue as the path to inner peace. Is this coincidence? Evidence of some universal truth? Or a common response to the psychological challenges of human existence? Comparative religion provides frameworks for exploring these questions.
 
 ## A Short History of the Field
 
 Comparing religions is ancient. The Greek historian Herodotus compared Egyptian and Greek gods in the 5th century BCE, noting parallels (Osiris = Dionysus, Isis = Demeter) and differences. The Roman Empire was full of syncretic religious mixing. Medieval Muslim scholars like al-Biruni wrote detailed, surprisingly objective accounts of Hindu beliefs.
 
-But comparative religion as a formal academic discipline began in the 19th century. Friedrich Max Muller (1823-1900), a German-born Oxford professor, is often credited as the founder. Muller studied Sanskrit and translated the sacred texts of Hinduism, arguing that comparing religions was essential to understanding any single one. His famous line: "He who knows one, knows none."
+But comparative religion as a formal academic discipline began in the 19th century. Friedrich Max Muller (1823-1900), a German-born Oxford professor, is often credited as the founder. Muller studied [Sanskrit](/sanskrit) and translated the sacred texts of [Hinduism](/hinduism), arguing that comparing religions was essential to understanding any single one. His famous line: "He who knows one, knows none."
 
 Muller's approach was philological — he compared religions through their sacred texts and languages. He believed that all religions originated from human awe at natural phenomena (the sun, storms, the cycle of seasons) and that linguistic analysis could trace them back to common roots. His specific theories have been largely abandoned, but his insistence on rigorous, text-based comparison established the field's scholarly standards.
 
@@ -59,9 +59,9 @@ In the early 20th century, several competing approaches emerged.
 
 Eliade identified common structural patterns across religions: the distinction between sacred and profane space, the concept of an axis mundi (center of the world), the pattern of death and rebirth, the nostalgia for a lost paradise. These patterns, he argued, reflect deep structures in human consciousness rather than cultural borrowing.
 
-**Sociological approaches**, following Emile Durkheim and Max Weber, analyzed religion as a social phenomenon. Durkheim argued that religion's primary function is social cohesion — the sacred is really the social group itself, projected outward. Weber analyzed how different religious ethics shaped economic behavior (his famous argument about Protestantism and [capitalism](/capitalism)). These approaches treated religion not as a window into the divine but as a window into human society.
+**Sociological approaches**, following Emile Durkheim and Max Weber, analyzed religion as a social phenomenon. Durkheim argued that religion's primary function is social cohesion — the sacred is really the social group itself, projected outward. Weber analyzed how different religious [ethics](/ethics) shaped economic behavior (his famous argument about Protestantism and [capitalism](/capitalism)). These approaches treated religion not as a window into the divine but as a window into human society.
 
-**Psychological approaches**, from William James to Carl Jung, examined religion as a product of individual psychology. James cataloged varieties of religious experience. Jung proposed archetypes — universal symbolic patterns in the collective unconscious — that manifest differently across cultures but share common roots.
+**Psychological approaches**, from William James to Carl Jung, examined religion as a product of individual [psychology](/psychology). James cataloged varieties of religious experience. Jung proposed archetypes — universal symbolic patterns in the collective unconscious — that manifest differently across cultures but share common roots.
 
 ## The Major Traditions: What Comparison Reveals
 
@@ -79,21 +79,21 @@ What comparative analysis reveals: all three share monotheism, but express it di
 
 ### The Dharmic Religions
 
-Hinduism, Buddhism, Jainism, and Sikhism originated in South Asia and share concepts like karma, dharma, and cyclical existence, though they interpret these very differently.
+Hinduism, Buddhism, [Jainism](/jainism), and [Sikhism](/sikhism) originated in South Asia and share concepts like karma, dharma, and cyclical existence, though they interpret these very differently.
 
 **Hinduism** (roughly 1.2 billion) is perhaps the most internally diverse of all major religions. It encompasses monotheism, polytheism, pantheism, and even atheism under one umbrella. Core concepts include dharma (cosmic order and duty), karma (the law of moral cause and effect), samsara (the cycle of birth, death, and rebirth), and moksha (liberation from that cycle). Hinduism has no single founder, no single sacred text (though the Vedas, Upanishads, and Bhagavad Gita are central), and no central authority.
 
 **Buddhism** (roughly 500 million) began with Siddhartha Gautama's enlightenment around the 5th century BCE. The Buddha rejected Hindu caste distinctions and the authority of the Vedas, focusing instead on the Four Noble Truths: life involves suffering (dukkha), suffering arises from craving, suffering can cease, and the Eightfold Path leads to its cessation. Buddhism spread across Asia, developing into distinct traditions — Theravada (Southeast Asia), Mahayana (East Asia), and Vajrayana (Tibet and Mongolia) — with significant philosophical differences. Notably, early Buddhism was agnostic about God's existence — the question was considered irrelevant to the practical project of ending suffering.
 
-**Jainism** (roughly 4-5 million) emphasizes radical non-violence (ahimsa) to an extent unmatched by any other major tradition. Jain monks sweep the ground before walking to avoid crushing insects and wear mouth coverings to prevent inhaling tiny organisms. Jainism teaches that every living being has an eternal soul (jiva) and that liberation comes through extreme asceticism and non-harm.
+**Jainism** (roughly 4-5 million) emphasizes radical non-violence (ahimsa) to an extent unmatched by any other major tradition. Jain monks sweep the ground before [walking](/walking) to avoid crushing insects and wear mouth coverings to prevent inhaling tiny organisms. Jainism teaches that every living being has an eternal soul (jiva) and that liberation comes through extreme asceticism and non-harm.
 
 Comparative insight: these traditions share the karma-samsara framework but differ profoundly on how liberation works. Hinduism offers multiple paths (devotion, knowledge, action). Buddhism rejects the existence of a permanent self and seeks liberation through wisdom and [meditation](/meditation). Jainism emphasizes ascetic practice and non-harm. Same basic metaphysical framework, radically different practical conclusions.
 
 ### East Asian Traditions
 
-**[Confucianism](/confucianism)** is sometimes classified as a religion, sometimes as a [philosophy](/philosophy). Founded by Confucius (551-479 BCE) in China, it emphasizes social harmony, filial piety, ritual propriety, and moral cultivation. Confucianism is less concerned with the afterlife or divine beings than with creating a just and harmonious society through proper relationships and virtuous behavior.
+**[Confucianism](/confucianism)** is sometimes classified as a religion, sometimes as a [philosophy](/philosophy). Founded by Confucius (551-479 BCE) in China, it emphasizes social [harmony](/harmony), filial piety, ritual propriety, and moral cultivation. Confucianism is less concerned with the afterlife or divine beings than with creating a just and harmonious society through proper relationships and virtuous behavior.
 
-**Taoism** (Daoism) originated in China around the same period. The Tao Te Ching, attributed to Laozi, teaches that the Tao (the Way) is the fundamental principle underlying all reality — formless, nameless, and beyond intellectual understanding. Taoist practice emphasizes wu wei (non-action, or effortless action), simplicity, and harmony with nature. In contrast to Confucianism's focus on social order, Taoism is suspicious of social conventions and institutions.
+**[Taoism](/taoism)** (Daoism) originated in China around the same period. The Tao Te Ching, attributed to Laozi, teaches that the Tao (the Way) is the fundamental principle underlying all reality — formless, nameless, and beyond intellectual understanding. Taoist practice emphasizes wu wei (non-action, or effortless action), simplicity, and harmony with nature. In contrast to Confucianism's focus on social order, Taoism is suspicious of social conventions and institutions.
 
 **Shinto**, Japan's indigenous religion, centers on kami — spirits or sacred essences that inhabit natural features, ancestors, and particular places. Shinto has no founder, no central scripture, and no systematic theology. It coexists with Buddhism in Japan — most Japanese participate in both traditions, using Shinto for life celebrations (birth, marriage) and Buddhism for death rituals (funerals, ancestor remembrance).
 

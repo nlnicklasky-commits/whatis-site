@@ -35,7 +35,7 @@ faq:
 
 # What Is Malacology?
 
-Malacology is the branch of zoology dedicated to the study of mollusks — the extraordinarily diverse phylum Mollusca that includes snails, slugs, clams, mussels, oysters, squid, octopuses, nautiluses, and chitons. With roughly 85,000 described living species (and perhaps 200,000 total including undiscovered ones), mollusks are the second-largest phylum of animals on Earth, outnumbered only by arthropods.
+Malacology is the branch of [zoology](/zoology) dedicated to the study of mollusks — the extraordinarily diverse phylum Mollusca that includes snails, slugs, clams, mussels, oysters, squid, octopuses, nautiluses, and chitons. With roughly 85,000 described living species (and perhaps 200,000 total including undiscovered ones), mollusks are the second-largest phylum of animals on Earth, outnumbered only by arthropods.
 
 Here's what's wild about mollusks: this single group includes garden slugs that fit on your thumbnail, giant squid exceeding 13 meters in length, and everything in between. It includes creatures with no brain at all (bivalves) and some of the most intelligent invertebrates ever studied (octopuses). It includes animals that have barely changed in 500 million years (nautiluses) and others that evolved jet propulsion, ink defense systems, and the ability to change color in milliseconds. No other animal phylum spans such a range of body plans, habitats, and capabilities.
 
@@ -69,11 +69,11 @@ Gastropods are the largest class, with roughly 65,000-80,000 species. The name m
 
 ### Bivalvia: Clams, Mussels, Oysters, and Scallops
 
-Bivalves have two shells (valves) connected by a hinge. Most are filter feeders, drawing water through their bodies and trapping microscopic food particles. About 20,000 species exist.
+Bivalves have two shells (valves) connected by a hinge. Most are filter feeders, [drawing](/drawing) water through their bodies and [trapping](/trapping) microscopic food particles. About 20,000 species exist.
 
 **Ecological importance**: Bivalves are ecosystem engineers. Oyster reefs provide habitat for hundreds of other species. A single oyster filters up to 50 gallons (190 liters) of water per day, removing algae, sediment, and pollutants. Before over-harvesting, the oyster population of Chesapeake Bay could filter the entire bay's volume in about a week. Today, the depleted population takes over a year.
 
-**Giant clams** (Tridacna gigas) can reach 1.2 meters across and weigh over 200 kg. They harbor photosynthetic algae in their mantle tissue, farming sunlight much like [coral reefs](/coral-reef-ecology).
+**Giant clams** (Tridacna gigas) can reach 1.2 meters across and weigh over 200 kg. They harbor photosynthetic algae in their mantle tissue, [farming](/farming) sunlight much like [coral reefs](/coral-reef-ecology).
 
 **Pearls** form when a bivalve coats an irritant (usually a parasite, not a grain of sand) with layers of nacre. The pearl industry is worth over $10 billion annually.
 
@@ -83,7 +83,7 @@ Bivalves have two shells (valves) connected by a hinge. Most are filter feeders,
 
 Cephalopods are the rock stars of the mollusk world — fast, intelligent, and spectacularly adapted.
 
-**Intelligence**: Octopuses have about 500 million neurons (two-thirds located in their arms, not their central brain). They solve problems, use tools, escape from aquariums, and recognize individual human faces. They can work through mazes, open childproof containers, and learn by watching other octopuses. In one famous case, an octopus at a New Zealand aquarium repeatedly short-circuited an annoying light by squirting water at it.
+**Intelligence**: Octopuses have about 500 million neurons (two-thirds located in their arms, not their central brain). They solve problems, use tools, escape from [aquariums](/aquariums), and recognize individual human faces. They can work through mazes, open childproof containers, and learn by watching other octopuses. In one famous case, an octopus at a New Zealand aquarium repeatedly short-circuited an annoying light by squirting water at it.
 
 **Camouflage**: Cuttlefish and octopuses change color and texture in milliseconds using chromatophores (pigment cells that expand and contract), iridophores (reflecting cells), and papillae (skin projections that change texture). They can match virtually any background pattern — even though most are colorblind. How they produce accurate color matches without color vision remains one of [biology](/biology)'s unsolved mysteries.
 
@@ -91,7 +91,7 @@ Cephalopods are the rock stars of the mollusk world — fast, intelligent, and s
 
 **Giant and colossal squid**: The giant squid (Architeuthis dux) reaches 13 meters in length, with the largest eyes in the animal kingdom — up to 27 cm (about the size of a dinner plate), adapted for detecting bioluminescent flashes in the deep ocean. The colossal squid (Mesonychoteuthis hamiltoni) may be even heavier. Live giant squid were not filmed until 2004, making them one of the last large animals observed alive.
 
-**Nautiluses**: The only living cephalopods with external shells. They've existed in essentially their current form for over 400 million years — predating the dinosaurs by 170 million years. Unlike their fast-living relatives, nautiluses are slow, long-lived (15-20 years compared to 1-3 years for most octopuses), and less intelligent.
+**Nautiluses**: The only living cephalopods with external shells. They've existed in essentially their current form for over 400 million years — predating the [dinosaurs](/dinosaurs) by 170 million years. Unlike their fast-living relatives, nautiluses are slow, long-lived (15-20 years compared to 1-3 years for most octopuses), and less intelligent.
 
 ### Other Classes
 
@@ -121,7 +121,7 @@ Mollusks play critical ecological roles that are often underappreciated.
 
 **Reef formation**: Oyster reefs provide complex three-dimensional habitat, reduce wave energy (protecting shorelines), and support diverse communities of fish, crabs, and other organisms. Oyster reef restoration is now a major conservation strategy, with projects in Chesapeake Bay, the Gulf of Mexico, and other regions.
 
-**Nutrient cycling**: Burrowing mollusks in sediments mix and oxygenate the substrate, facilitating decomposition and nutrient cycling — similar to what earthworms do on land.
+**Nutrient [cycling](/cycling)**: Burrowing mollusks in sediments mix and oxygenate the substrate, facilitating decomposition and nutrient cycling — similar to what earthworms do on land.
 
 **Food web**: Mollusks are critical food sources for fish, seabirds, marine mammals, and other predators. The entire food web of many marine and freshwater [ecosystems](/ecology) depends on healthy mollusk populations.
 
@@ -137,13 +137,13 @@ The invasive zebra mussel (Dreissena polymorpha), introduced to North America fr
 
 On land, island snails have suffered catastrophic extinctions. The Hawaiian Islands originally had over 750 endemic land snail species — one of the highest diversities anywhere. More than half are now extinct, driven by habitat loss and the deliberately introduced predatory rosy wolfsnail (Euglandina rosea), which was supposed to control another invasive snail but instead attacked native species.
 
-**Climate change** threatens marine mollusks through ocean acidification — as seawater absorbs CO2, it becomes more acidic, making it harder for mollusks to build calcium carbonate shells. Pteropods ("sea butterflies") — tiny free-swimming gastropods that form the base of many marine food chains — are already showing shell dissolution in acidified waters.
+**[Climate change](/climate-change)** threatens marine mollusks through ocean acidification — as seawater absorbs CO2, it becomes more acidic, making it harder for mollusks to build calcium carbonate shells. Pteropods ("sea butterflies") — tiny free-[swimming](/swimming) gastropods that form the base of many marine food chains — are already showing shell dissolution in acidified waters.
 
 ## Mollusks and Humans
 
 The relationship between humans and mollusks stretches back tens of thousands of years.
 
-**Food**: Shellfish have been a human food source since prehistory. Archaeological shell middens — massive accumulations of discarded shells — mark ancient coastal settlements worldwide. Today, the global mollusk [aquaculture](/aquaculture) and fishery industry is worth over $30 billion annually. Oysters, mussels, clams, scallops, squid, and octopus are dietary staples in many cultures.
+**Food**: Shellfish have been a human food source since [prehistory](/prehistory). Archaeological shell middens — massive accumulations of discarded shells — mark ancient coastal settlements worldwide. Today, the global mollusk [aquaculture](/aquaculture) and fishery industry is worth over $30 billion annually. Oysters, mussels, clams, scallops, squid, and octopus are dietary staples in many cultures.
 
 **Shells as currency**: Cowrie shells served as currency across Africa, South Asia, and the Pacific for thousands of years. The money cowrie (Monetaria moneta) — hence its Latin name — was one of the most widely used currencies in human history.
 

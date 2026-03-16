@@ -43,7 +43,7 @@ Computer hardware refers to the physical components of a computer system — the
 
 ## The Big Picture: How Hardware Works Together
 
-Before diving into individual components, it helps to understand the basic flow. Your computer hardware works like a relay team:
+Before [diving](/diving) into individual components, it helps to understand the basic flow. Your computer hardware works like a relay team:
 
 1. **Input devices** (keyboard, mouse, microphone) capture your actions
 2. The **CPU** processes instructions and data
@@ -67,7 +67,7 @@ What makes modern CPUs remarkable is how many tricks they use to go faster. They
 
 ### Key CPU Specifications
 
-**Clock speed** (measured in GHz) — how many cycles per second. A 5 GHz processor completes 5 billion cycles per second. But clock speed alone doesn't determine performance. Architecture matters enormously.
+**Clock speed** (measured in GHz) — how many cycles per second. A 5 GHz processor completes 5 billion cycles per second. But clock speed alone doesn't determine performance. [Architecture](/architecture) matters enormously.
 
 **Core count** — modern CPUs have multiple processing cores. An 8-core CPU can genuinely work on 8 things simultaneously. But software must be written to use multiple cores, and many programs still primarily use one.
 
@@ -96,7 +96,7 @@ RAM is dramatically faster than storage. DDR5 RAM transfers data at 50-70 GB/s. 
 **How much RAM do you actually need?**
 
 - 8 GB — bare minimum for modern use. Fine for web browsing and basic office work. You'll feel the limit with many browser tabs or larger applications.
-- 16 GB — the sweet spot for most people in 2026. Handles multitasking, gaming, photo [editing](/editing), and general development comfortably.
+- 16 GB — the sweet spot for most people in 2026. Handles multitasking, [gaming](/gaming), photo [editing](/editing), and general development comfortably.
 - 32 GB — recommended for [video editing](/video-editing), professional 3D work, heavy software development, or running virtual machines.
 - 64 GB+ — specialized workloads like [machine learning](/machine-learning), scientific computing, or running many virtual machines simultaneously.
 
@@ -116,7 +116,7 @@ Storage retains data when the power is off. It holds your operating system, appl
 
 **Hard Disk Drives (HDDs)** use spinning magnetic platters and a mechanical read/write head. They're much cheaper per terabyte ($15-20/TB vs. $50-80/TB for SSDs) but vastly slower (100-200 MB/s sequential read). They're still used for mass storage where speed isn't critical — backup archives, NAS systems, surveillance cameras.
 
-If you're building or buying a computer in 2026, an SSD for your operating system and primary applications is non-negotiable. The performance difference between booting from an HDD and an SSD is like the difference between walking and driving. It's that significant.
+If you're building or buying a computer in 2026, an SSD for your operating system and primary applications is non-negotiable. The performance difference between booting from an HDD and an SSD is like the difference between [walking](/walking) and driving. It's that significant.
 
 ### NVMe vs. SATA
 
@@ -142,7 +142,7 @@ The motherboard is the main circuit board that connects every component. CPU, RA
 
 ## The GPU: Graphics and Beyond
 
-The Graphics Processing Unit was originally designed for rendering [computer graphics](/computer-graphics) — turning 3D [geometry](/geometry) into pixels on your screen. But GPUs have become general-purpose parallel processors used for [machine learning](/machine-learning), scientific computing, cryptocurrency mining, and video encoding.
+The Graphics Processing Unit was originally designed for rendering [computer graphics](/computer-graphics) — turning 3D [geometry](/geometry) into pixels on your screen. But GPUs have become general-purpose parallel processors used for [machine learning](/machine-learning), scientific computing, [cryptocurrency](/cryptocurrency) mining, and video encoding.
 
 ### Integrated vs. Dedicated Graphics
 

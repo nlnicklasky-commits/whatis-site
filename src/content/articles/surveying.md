@@ -58,7 +58,7 @@ Determining where something is on the Earth's surface requires a reference syste
 
 Traditional methods for establishing horizontal position include:
 
-**Triangulation** — measuring angles from known points to determine the position of unknown points. If you know the precise positions of two hilltops and can measure the angles from each to a third point, trigonometry gives you the third point's position. This method built the first accurate maps of entire countries.
+**Triangulation** — measuring angles from known points to determine the position of unknown points. If you know the precise positions of two hilltops and can measure the angles from each to a third point, [trigonometry](/trigonometry) gives you the third point's position. This method built the first accurate maps of entire countries.
 
 **Trilateration** — measuring distances instead of angles. This is how GPS works (more on that shortly).
 
@@ -86,7 +86,7 @@ The surveying profession has been transformed by technology in the past 40 years
 
 ### GPS/GNSS Surveying
 
-The Global Positioning System (GPS) and other satellite navigation systems (collectively called GNSS — Global Navigation Satellite Systems) have fundamentally changed surveying. Instead of measuring from known ground points, surveyors can determine their position anywhere on Earth by receiving signals from orbiting satellites.
+The Global Positioning System (GPS) and other satellite [navigation](/navigation) systems (collectively called GNSS — Global Navigation Satellite Systems) have fundamentally changed surveying. Instead of measuring from known ground points, surveyors can determine their position anywhere on Earth by receiving signals from orbiting satellites.
 
 Standard GPS gives accuracy of a few meters — useful for hiking, not for surveying. But survey-grade GNSS receivers use techniques that push accuracy to the centimeter level:
 
@@ -120,7 +120,7 @@ Drone surveying is particularly useful for stockpile volume calculations (mining
 
 The most common type. Boundary surveys determine property lines and corners, resolving where one person's land ends and another's begins. These surveys have legal significance — they're used in property sales, disputes, and land registration.
 
-Boundary surveying requires knowledge of law as well as measurement. Surveyors must interpret historical deeds (sometimes written centuries ago with vague descriptions like "from the large oak tree to the stone wall"), resolve conflicts between overlapping claims, and understand local property law. A surveyor's determination of a boundary can be challenged in court, and they may be called as expert witnesses.
+Boundary surveying requires knowledge of law as well as measurement. Surveyors must interpret historical deeds (sometimes written centuries ago with vague descriptions like "from the large oak tree to the stone wall"), resolve conflicts between overlapping claims, and understand local [property law](/property-law). A surveyor's determination of a boundary can be challenged in court, and they may be called as expert witnesses.
 
 ### Topographic Surveys
 
@@ -148,11 +148,11 @@ The NOAA Office of Coast Survey produces the nautical charts used by every comme
 
 ## The Legal Side of Surveying
 
-Surveying is one of the few engineering professions that requires specific licensure in every U.S. state (and most other countries). Professional surveyors must pass rigorous exams, accumulate years of experience under a licensed surveyor, and meet continuing education requirements.
+Surveying is one of the few [engineering](/engineering) professions that requires specific licensure in every U.S. state (and most other countries). Professional surveyors must pass rigorous exams, accumulate years of experience under a licensed surveyor, and meet continuing [education](/education) requirements.
 
-Why? Because surveys have legal consequences. A property boundary survey can determine who owns what, and that determination affects property rights worth potentially millions of dollars. A construction survey error could cause a building to encroach on neighboring property or violate setback requirements. An elevation certificate from a surveyor determines whether a property is in a flood zone and what insurance rates apply.
+Why? Because surveys have legal consequences. A property boundary survey can determine who owns what, and that determination affects property rights worth potentially millions of dollars. A construction survey error could cause a building to encroach on neighboring property or violate setback requirements. An elevation certificate from a surveyor determines whether a property is in a flood zone and what [insurance](/insurance) rates apply.
 
-According to the Bureau of Labor Statistics, there were about 58,700 surveyors employed in the U.S. in 2023, with a median annual salary of around $63,080. The profession is expected to grow as infrastructure investment increases and aging surveyors retire.
+According to the Bureau of Labor [Statistics](/statistics), there were about 58,700 surveyors employed in the U.S. in 2023, with a median annual salary of around $63,080. The profession is expected to grow as infrastructure investment increases and aging surveyors retire.
 
 ## Surveying and GIS
 
@@ -172,6 +172,6 @@ The surveying profession faces interesting challenges. Technology is automating 
 
 **Real-time monitoring** using permanently installed sensors is growing. Bridges, dams, tunnels, and landslide-prone slopes can be monitored continuously for movement — sometimes detecting shifts of less than a millimeter.
 
-**Climate change** is creating new surveying demands. Rising sea levels require updated coastal surveys. Thawing permafrost in arctic regions is destabilizing [infrastructure](/building-automation) that was surveyed and built on previously stable ground. More frequent extreme weather events require updated flood maps.
+**[Climate change](/climate-change)** is creating new surveying demands. Rising sea levels require updated coastal surveys. Thawing permafrost in arctic regions is destabilizing [infrastructure](/building-automation) that was surveyed and built on previously stable ground. More frequent extreme weather events require updated flood maps.
 
 The core skill — the ability to precisely measure and describe spatial relationships — isn't going away. If anything, the demand for accurate spatial data is increasing. The tools change. The need for someone who truly understands measurement, accuracy, error, and the physical world doesn't.

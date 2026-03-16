@@ -37,7 +37,7 @@ The scope is vast. Composition includes a teenager [writing](/writing) a three-c
 
 ## How Composers Work
 
-There's no single method. Beethoven famously sketched and revised obsessively — his notebooks show melodies reworked through dozens of iterations. Mozart reportedly composed complete movements in his head before writing them down (though this is probably somewhat exaggerated). Stravinsky sat at the piano and worked things out with his hands. Brian Eno sets up systems and lets chance generate material.
+There's no single method. Beethoven famously sketched and revised obsessively — his notebooks show melodies reworked through dozens of iterations. Mozart reportedly composed complete movements in his head before writing them down (though this is probably somewhat exaggerated). Stravinsky sat at the [piano](/piano) and worked things out with his hands. Brian Eno sets up systems and lets chance generate material.
 
 Most composers use some combination of these approaches:
 

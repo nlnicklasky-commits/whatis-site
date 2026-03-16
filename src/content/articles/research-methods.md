@@ -39,7 +39,7 @@ faq:
 
 Research methods are the systematic strategies, techniques, and procedures used to collect, analyze, and interpret data in order to answer questions, solve problems, or test hypotheses. They are the toolkit that separates rigorous investigation from casual observation — the difference between knowing something and merely believing it.
 
-This might sound dry. It is not. Research methods are how we figured out that smoking causes cancer, that the universe is expanding, that washing hands prevents disease transmission, and that a specific vaccine can prevent COVID-19 in 95% of recipients. Every medical treatment you receive, every engineering standard your car meets, every psychological insight about why people behave the way they do — all of it rests on research methods applied carefully by someone who knew what they were doing.
+This might sound dry. It is not. Research methods are how we figured out that smoking causes cancer, that the universe is expanding, that washing hands prevents disease transmission, and that a specific vaccine can prevent COVID-19 in 95% of recipients. Every medical treatment you receive, every [engineering](/engineering) standard your car meets, every psychological insight about why people behave the way they do — all of it rests on research methods applied carefully by someone who knew what they were doing.
 
 The methods themselves are not the exclusive property of scientists in white coats. Journalists use them to verify stories. Businesses use them to test products. Policymakers use them (or should) to evaluate programs. Anyone who wants to move beyond "I think" to "the evidence shows" needs to understand how research methods work.
 
@@ -47,7 +47,7 @@ The methods themselves are not the exclusive property of scientists in white coa
 
 The scientific method is the backbone of systematic inquiry. It is not a rigid, step-by-step recipe — practicing scientists will tell you it is messier than textbooks suggest — but it provides a logical structure for investigating the world.
 
-**Observation**: You notice something interesting or puzzling. Mortality rates in one hospital ward are much higher than another. A certain material conducts electricity at very low temperatures. Students who take notes by hand seem to remember more than those who type.
+**Observation**: You notice something interesting or puzzling. Mortality rates in one hospital ward are much higher than another. A certain material conducts [electricity](/electricity) at very low temperatures. Students who take notes by hand seem to remember more than those who type.
 
 **Question**: You formulate a specific question. Why is the mortality rate higher? Does this material become superconductive below a specific temperature? Do handwritten notes improve retention compared to typed notes?
 
@@ -113,7 +113,7 @@ In-depth interviews allow researchers to explore topics in detail, following up 
 
 ### Ethnography
 
-Ethnography involves immersing yourself in a community or setting for extended periods (months or years), observing behavior, participating in activities, and documenting what you see. Originally developed in [anthropology](/anthropology) for studying distant cultures, ethnography is now used in education, healthcare, organizational research, and technology design.
+Ethnography involves immersing yourself in a community or setting for extended periods (months or years), observing behavior, participating in activities, and documenting what you see. Originally developed in [anthropology](/anthropology) for studying distant cultures, ethnography is now used in [education](/education), healthcare, organizational research, and technology design.
 
 The strength of ethnography is deep, contextual understanding. By living within a community, the researcher sees things that surveys and experiments miss — the unstated rules, the informal power dynamics, the gap between what people say they do and what they actually do. The weakness is that it is time-consuming, difficult to replicate, and the researcher's presence can alter the behavior being studied (the observer effect).
 
@@ -163,7 +163,7 @@ Two concepts determine whether research findings are worth taking seriously.
 
 Starting around 2011, scientists began systematically attempting to replicate published findings in psychology, medicine, [economics](/economics), and other fields. The results were alarming.
 
-The Open Science Collaboration (2015) attempted to replicate 100 psychology studies published in top journals. Only 36% replicated successfully. A major cancer biology replication project found that only about half of high-profile preclinical studies could be reproduced. In economics, replication rates were somewhat higher but still troubling.
+The Open Science Collaboration (2015) attempted to replicate 100 psychology studies published in top journals. Only 36% replicated successfully. A major cancer [biology](/biology) replication project found that only about half of high-profile preclinical studies could be reproduced. In economics, replication rates were somewhat higher but still troubling.
 
 The causes are multiple: publication bias (journals prefer positive results, so negative findings go unpublished), p-hacking (analyzing data multiple ways until you find a "significant" result), small sample sizes (underpowered studies that detect effects that are not real), flexible definitions (changing what you're measuring after seeing the data), and the pressure to publish novel, exciting findings.
 
@@ -175,7 +175,7 @@ These reforms are improving research quality, but the replication crisis is a hu
 
 Research involving humans requires ethical oversight. This was not always the case. The Tuskegee Syphilis Study (1932-1972) deliberately withheld treatment from Black men with syphilis without their knowledge. Nazi medical experiments tortured and killed concentration camp prisoners. The Milgram obedience experiments and Stanford Prison Experiment, while not physically harmful, raised serious questions about psychological distress.
 
-Modern research ethics rests on several principles:
+Modern research [ethics](/ethics) rests on several principles:
 
 **Informed consent**: Participants must understand what the study involves and agree voluntarily. They must be free to withdraw at any time without penalty.
 
@@ -199,7 +199,7 @@ The internet and big data have transformed research methods in several ways.
 
 **Digital trace data** — search queries, social media posts, GPS location data, purchasing records — provides behavioral data at unprecedented scale without relying on self-report. This data raises privacy concerns and methodological questions (is what people search for a valid measure of what they think?), but it offers genuinely new research possibilities.
 
-**Preprints and open access** are accelerating scientific communication. Papers posted on arXiv, bioRxiv, and other preprint servers are available immediately rather than after months of peer review. This speed was critical during the COVID-19 pandemic, when the pace of knowledge generation outstripped traditional publishing timelines.
+**Preprints and open access** are accelerating scientific communication. Papers posted on arXiv, bioRxiv, and other preprint servers are available immediately rather than after months of peer review. This speed was critical during the COVID-19 pandemic, when the pace of knowledge generation outstripped traditional [publishing](/publishing) timelines.
 
 ## Key Takeaways
 

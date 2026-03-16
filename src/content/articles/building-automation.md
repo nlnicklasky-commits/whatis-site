@@ -35,11 +35,11 @@ faq:
 
 # What Is Building Automation?
 
-Building automation is the centralized, automated control of a building's mechanical, electrical, and electromechanical systems — including heating, ventilation, air conditioning (HVAC), lighting, security, fire safety, and access control — through a building management system (BMS) that monitors conditions, adjusts operations, and reports performance with minimal human intervention.
+Building automation is the centralized, automated control of a building's mechanical, electrical, and electromechanical systems — including heating, ventilation, air conditioning (HVAC), lighting, security, [fire safety](/fire-safety), and access control — through a building [management](/management) system (BMS) that monitors conditions, adjusts operations, and reports performance with minimal human intervention.
 
 ## Why Buildings Need Brains
 
-Buildings are energy hogs. Commercial and residential buildings account for approximately 40% of total energy consumption in the United States and roughly 35% of carbon dioxide emissions, according to the US Department of Energy. A significant chunk of that energy is wasted — lights blazing in empty rooms, HVAC systems conditioning unoccupied floors, equipment running at full capacity when half-power would suffice.
+Buildings are energy hogs. Commercial and residential buildings account for approximately 40% of total energy consumption in the United States and roughly 35% of carbon dioxide emissions, according to the US Department of Energy. A significant chunk of that energy is wasted — lights blazing in empty rooms, HVAC systems conditioning unoccupied floors, equipment [running](/running) at full capacity when half-power would suffice.
 
 Building automation exists to eliminate that waste. And it works. Studies consistently show energy savings of 10-30% from properly implemented automation, with some buildings achieving 40%+ reductions. At commercial energy rates, that translates to tens or hundreds of thousands of dollars annually for a large building.
 
@@ -63,7 +63,7 @@ These devices are the nervous system of the building — sensing conditions and 
 
 ### The Automation Level: Controllers
 
-Controllers are the brains. They receive data from sensors, run control logic, and send commands to actuators. Each controller typically manages a specific subsystem — one controller for the air handling unit on floor 3, another for the chiller plant, another for the parking garage lighting.
+Controllers are the brains. They receive data from sensors, run control [logic](/logic), and send commands to actuators. Each controller typically manages a specific subsystem — one controller for the air handling unit on floor 3, another for the chiller plant, another for the parking garage lighting.
 
 Most controllers use programmable logic based on sequences of operations — essentially "if this, then that" rules, but far more sophisticated than home automation. For example: if outdoor temperature drops below 35°F AND the building is occupied, switch from economizer mode (free cooling with outside air) to mechanical heating, ramp up the boiler, open hot water valves proportionally to maintain 72°F at the zone level, and adjust fan speed to maintain duct static pressure.
 
@@ -87,7 +87,7 @@ HVAC (heating, ventilation, and [air conditioning](/air-conditioning)) typically
 
 Key HVAC automation strategies:
 
-**Scheduling**: Running equipment only when the building is occupied. A standard office building might operate HVAC from 6 AM to 7 PM weekdays. Nights, weekends, and holidays run in setback mode — maintaining minimum temperatures (to prevent pipe freezing) without full conditioning.
+**[Scheduling](/scheduling)**: Running equipment only when the building is occupied. A standard office building might operate HVAC from 6 AM to 7 PM weekdays. Nights, weekends, and holidays run in setback mode — maintaining minimum temperatures (to prevent pipe freezing) without full conditioning.
 
 **Optimal start/stop**: Instead of starting HVAC at a fixed time, the system calculates the latest possible start time to reach comfortable conditions by occupancy time, based on current indoor temperature, outdoor conditions, and thermal mass of the building. This saves 15-30 minutes of runtime daily — meaningful energy over a year.
 
@@ -190,11 +190,11 @@ The concept of a "smart building" goes beyond traditional automation. It's a bui
 
 Building automation isn't perfect. Several persistent challenges affect the industry.
 
-**Cybersecurity**: Connected building systems are vulnerable to cyberattack. In 2013, Target's massive data breach originated through compromised HVAC vendor credentials. Building systems often run on outdated software with known vulnerabilities. The convergence of building automation with IT networks creates attack surfaces that many facilities teams aren't equipped to manage.
+**[Cybersecurity](/cybersecurity)**: Connected building systems are vulnerable to cyberattack. In 2013, Target's massive data breach originated through compromised HVAC vendor credentials. Building systems often run on outdated software with known vulnerabilities. The convergence of building automation with IT networks creates attack surfaces that many facilities teams aren't equipped to manage.
 
 **Interoperability**: Despite open protocols, integrating systems from multiple vendors remains challenging. Configuration differences, non-standard implementations, and proprietary extensions create friction. Full interoperability remains more aspiration than reality.
 
-**Skilled workforce shortage**: Designing, programming, and maintaining building automation systems requires specialized knowledge spanning HVAC engineering, networking, programming, and controls theory. This combination is rare, and the industry faces a persistent shortage of qualified professionals.
+**Skilled workforce shortage**: Designing, programming, and maintaining building automation systems requires specialized knowledge spanning HVAC [engineering](/engineering), [networking](/networking), programming, and controls theory. This combination is rare, and the industry faces a persistent shortage of qualified professionals.
 
 **Legacy systems**: Many buildings operate on 15-20 year old automation systems with outdated hardware and proprietary software that's no longer supported. Upgrading is expensive and disruptive, leading many building owners to defer modernization until equipment physically fails.
 
@@ -210,7 +210,7 @@ Several trends are shaping the field's near-term future.
 
 **Pandemic-influenced design** has increased focus on indoor air quality, touchless access, and occupancy management. Demand-controlled ventilation with CO₂ monitoring — already a best practice — has become a priority in post-COVID building design.
 
-**Carbon tracking** is moving from voluntary to mandatory in many jurisdictions. Building automation systems will increasingly include embedded carbon accounting, tracking emissions in real-time and adjusting operations to stay within limits.
+**Carbon tracking** is moving from voluntary to mandatory in many jurisdictions. Building automation systems will increasingly include embedded carbon [accounting](/accounting), tracking emissions in real-time and adjusting operations to stay within limits.
 
 ## Key Takeaways
 

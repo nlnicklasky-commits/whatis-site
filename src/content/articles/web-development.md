@@ -37,7 +37,7 @@ faq:
 
 # What Is Web Development?
 
-Web development is the work involved in building and maintaining websites and web applications. It encompasses everything from writing markup that structures a simple webpage to engineering complex server-side systems that handle millions of requests per second. If something runs in a browser or serves content to one, a web developer probably built it.
+Web development is the work involved in building and maintaining websites and web applications. It encompasses everything from writing markup that structures a simple webpage to [engineering](/engineering) complex server-side systems that handle millions of requests per second. If something runs in a browser or serves content to one, a web developer probably built it.
 
 ## How We Got Here: A Brief History
 
@@ -72,7 +72,7 @@ HTML5, the current version, introduced semantic elements like `<article>`, `<nav
 
 CSS (Cascading Style Sheets) controls how HTML elements look -- colors, fonts, spacing, layout, animations. Without CSS, every website would look like a plain document from 1993.
 
-Modern CSS is remarkably capable. Flexbox and CSS Grid handle complex layouts that used to require JavaScript libraries. CSS custom properties (variables) enable theming systems. CSS animations and transitions create smooth visual effects without any scripting. Media queries make [responsive design](/web-design) possible, adapting layouts to different screen sizes.
+Modern CSS is remarkably capable. Flexbox and CSS Grid handle complex layouts that used to require JavaScript libraries. CSS custom properties (variables) enable theming systems. CSS animations and transitions create smooth [visual effects](/visual-effects) without any scripting. Media queries make [responsive design](/web-design) possible, adapting layouts to different screen sizes.
 
 The "cascading" part refers to how CSS rules inherit and override each other based on specificity and order. Understanding the cascade is genuinely one of the harder parts of CSS -- it's why developers sometimes joke that CSS stands for "Cascading Stress Sheets."
 
@@ -92,7 +92,7 @@ Frontend (or client-side) development is everything that happens in the user's b
 
 Raw HTML, CSS, and JavaScript can build anything, but modern web applications are complex enough that frameworks provide essential structure:
 
-**React** (maintained by Meta) is the most popular frontend library. It uses a component-based architecture where you build reusable UI pieces and compose them together. React introduced the virtual DOM concept -- an in-memory representation of the actual DOM that enables efficient updates. As of 2024, React is used by about 40% of professional web developers according to the Stack Overflow survey.
+**React** (maintained by Meta) is the most popular frontend library. It uses a component-based [architecture](/architecture) where you build reusable UI pieces and compose them together. React introduced the virtual DOM concept -- an in-memory representation of the actual DOM that enables efficient updates. As of 2024, React is used by about 40% of professional web developers according to the Stack Overflow survey.
 
 **Vue.js** offers a gentler learning curve than React while providing similar capabilities. Its template syntax feels more like traditional HTML, which makes it approachable for developers coming from a [design](/web-design) background.
 
@@ -135,7 +135,7 @@ Almost every web application stores data, and choosing the right [database](/dat
 
 **Relational databases** (PostgreSQL, MySQL, SQLite) store data in structured tables with defined relationships. They use SQL for queries and are excellent when your data has clear, consistent structure. PostgreSQL has become the go-to choice for new projects thanks to its reliability and feature set.
 
-**NoSQL databases** (MongoDB, Redis, Cassandra) offer more flexibility. MongoDB stores data as JSON-like documents, making it natural for JavaScript developers. Redis keeps data in memory for extremely fast read/write operations -- perfect for caching and session management.
+**NoSQL databases** (MongoDB, Redis, Cassandra) offer more flexibility. MongoDB stores data as JSON-like documents, making it natural for JavaScript developers. Redis keeps data in memory for extremely fast read/write operations -- perfect for caching and session [management](/management).
 
 ### APIs: How Frontend Talks to Backend
 
@@ -185,7 +185,7 @@ This automation catches bugs before they reach users and makes deployment a non-
 
 ## Web Security: The Stuff You Can't Ignore
 
-Web applications are constantly under attack. The Open Web Application Security Project (OWASP) maintains a list of the top 10 web security risks, and every developer should know them.
+Web applications are constantly under attack. The Open Web Application Security Project (OWASP) maintains a list of the top 10 [web security](/web-security) risks, and every developer should know them.
 
 **Cross-Site Scripting (XSS)** happens when attackers inject malicious JavaScript into your pages. If your site displays user-generated content without sanitizing it, an attacker could execute scripts that steal cookies, redirect users, or modify page content.
 
@@ -201,7 +201,7 @@ Web applications are constantly under attack. The Open Web Application Security 
 
 Users expect web pages to load in under 3 seconds. Google uses page speed as a ranking factor. Performance matters.
 
-Key optimization strategies include:
+Key [optimization](/optimization) strategies include:
 
 - **Code splitting**: Loading only the JavaScript needed for the current page, not the entire application
 - **Image optimization**: Using modern formats (WebP, AVIF), appropriate sizes, and lazy loading
@@ -230,13 +230,13 @@ These numbers vary significantly by location, company size, and specialization. 
 
 - **Self-taught**: Free resources like freeCodeCamp, The Odin Project, and MDN Web Docs provide structured curricula. This path requires discipline but costs nothing.
 - **Bootcamps**: Intensive 12-24 week programs (Lambda School, General Assembly, Flatiron) cost $10,000-$20,000 and provide structured learning with career support.
-- **University**: Computer science degrees provide deep theoretical foundations in [algorithms](/algorithms), [data structures](/data-structures), and systems. A 4-year degree is the slowest path but provides the broadest knowledge base.
+- **University**: [Computer science](/computer-science) degrees provide deep theoretical foundations in [algorithms](/algorithms), [data structures](/data-structures), and systems. A 4-year degree is the slowest path but provides the broadest knowledge base.
 
 ## The Future of Web Development
 
 Several trends are shaping where web development is heading:
 
-**WebAssembly (Wasm)** lets languages like C++, Rust, and Go run in the browser at near-native speed. This enables performance-intensive applications -- video editing, 3D rendering, scientific simulations -- to run in a browser tab.
+**WebAssembly (Wasm)** lets languages like C++, Rust, and Go run in the browser at near-native speed. This enables performance-intensive applications -- [video editing](/video-editing), 3D rendering, scientific simulations -- to run in a browser tab.
 
 **Edge computing** moves server-side logic closer to users. Instead of your backend running in a single data center, it runs at CDN edge nodes worldwide, reducing latency dramatically.
 

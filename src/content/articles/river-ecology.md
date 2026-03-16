@@ -37,7 +37,7 @@ faq:
 
 # What Is River Ecology?
 
-River ecology is the scientific study of how living organisms interact with each other and with the physical and chemical conditions of flowing freshwater environments. It examines everything from microscopic algae clinging to rocks in a mountain stream to the massive fish populations migrating through continental river systems — and all the biological, chemical, and physical processes connecting them.
+River [ecology](/ecology) is the scientific study of how living organisms interact with each other and with the physical and chemical conditions of flowing freshwater environments. It examines everything from microscopic algae clinging to rocks in a mountain stream to the massive fish populations migrating through continental river systems — and all the biological, chemical, and physical processes connecting them.
 
 ## Why Rivers Deserve Their Own Science
 
@@ -91,7 +91,7 @@ Water [chemistry](/chemistry) shapes river life in ways that aren't always visib
 
 The most numerous organisms in any river are the ones you can't see. Bacteria, archaea, fungi, and protists form biofilms on every submerged surface — rocks, wood, sediment, even the bodies of larger organisms. These biofilms are the engine of river metabolism.
 
-Bacteria break down dead organic matter, recycling nutrients back into the system. Fungi colonize submerged leaves and make them more palatable and nutritious for invertebrate shredders — a process called "conditioning" that typically takes 2-4 weeks. Without fungal conditioning, many invertebrates won't eat freshly fallen leaves at all.
+Bacteria break down dead organic matter, [recycling](/recycling) nutrients back into the system. Fungi colonize submerged leaves and make them more palatable and nutritious for invertebrate shredders — a process called "conditioning" that typically takes 2-4 weeks. Without fungal conditioning, many invertebrates won't eat freshly fallen leaves at all.
 
 Algae — particularly diatoms — form the photosynthetic component of biofilms. In sunlit rivers, these algal mats (called periphyton) produce the primary energy that supports the entire food web. A healthy periphyton layer on a streambed rock might contain hundreds of diatom species, each adapted to specific light, nutrient, and flow conditions.
 
@@ -127,7 +127,7 @@ Energy enters river ecosystems from two main sources: in-stream primary producti
 
 The relative importance of these sources changes along the river continuum, as we discussed earlier. But here's what makes river food webs particularly interesting: they're incredibly "leaky." Unlike a pond where nutrients and organic matter tend to stay put, river food webs are constantly losing material downstream. The entire system relies on continuous inputs from upstream and from the terrestrial field.
 
-This creates a concept ecologists call "nutrient spiraling." Instead of cycling in place (as in a forest soil), nutrients in rivers cycle while moving downstream. A nitrogen atom might be taken up by algae, eaten by a mayfly, excreted, carried downstream, taken up by another algal cell, and so on — spiraling through biological uptake and release as it moves toward the sea. The tighter the spiral (shorter distance between uptake events), the more efficiently the river retains nutrients.
+This creates a concept ecologists call "nutrient spiraling." Instead of [cycling](/cycling) in place (as in a forest soil), nutrients in rivers cycle while moving downstream. A nitrogen atom might be taken up by algae, eaten by a mayfly, excreted, carried downstream, taken up by another algal cell, and so on — spiraling through biological uptake and release as it moves toward the sea. The tighter the spiral (shorter distance between uptake events), the more efficiently the river retains nutrients.
 
 ### Disturbance and Resilience
 
@@ -146,7 +146,7 @@ Rivers are connected systems in four dimensions:
 3. **Vertical** — surface water to groundwater. The hyporheic zone — where river water and groundwater mix beneath and alongside the channel — is a biogeochemically active habitat supporting unique communities.
 4. **Temporal** — changes over time, including seasonal cycles, flood-drought patterns, and long-term [climate shifts](/climatology).
 
-Break any of these connections, and the ecosystem suffers. Dams sever longitudinal connectivity, blocking fish migration and trapping sediment. Levees sever lateral connectivity, isolating rivers from their floodplains. Groundwater pumping severs vertical connectivity, drying out hyporheic habitats. And altered flow regimes disrupt temporal patterns that organisms have evolved to match.
+Break any of these connections, and the ecosystem suffers. Dams sever longitudinal connectivity, blocking fish migration and [trapping](/trapping) sediment. Levees sever lateral connectivity, isolating rivers from their floodplains. Groundwater pumping severs vertical connectivity, drying out hyporheic habitats. And altered flow regimes disrupt temporal patterns that organisms have evolved to match.
 
 ## Threats to River Ecosystems
 
@@ -180,7 +180,7 @@ Some projections suggest that 30-50% of freshwater fish species could face extin
 
 ### Biological Assessment
 
-River ecologists frequently assess ecosystem health by surveying biological communities rather than (or in addition to) measuring chemical parameters. The logic is straightforward: organisms integrate conditions over time. A single water chemistry sample tells you what's happening at that instant. The biological community tells you what conditions have been like for weeks, months, or years.
+River ecologists frequently assess ecosystem health by [surveying](/surveying) biological communities rather than (or in addition to) measuring chemical parameters. The [logic](/logic) is straightforward: organisms integrate conditions over time. A single water chemistry sample tells you what's happening at that instant. The biological community tells you what conditions have been like for weeks, months, or years.
 
 The most common approach involves sampling benthic macroinvertebrates — bottom-dwelling invertebrates visible to the naked eye. Standardized protocols (like the EPA's Rapid Bioassessment Protocols) allow comparison between sites and over time. Metrics like EPT richness, diversity indices, and the ratio of pollution-tolerant to pollution-sensitive taxa provide quantitative assessments of river health.
 
@@ -188,7 +188,7 @@ Fish surveys, algal assessments, and even DNA-based methods (environmental DNA, 
 
 ### Hydrological Monitoring
 
-Understanding river ecology requires understanding hydrology — the movement of water through the field. Stream gauges measure water level and discharge (volume of flow per unit time). Long-term gauging records, some spanning over a century, provide the baseline for understanding how flow regimes have changed and how they might change in the future.
+Understanding river ecology requires understanding [hydrology](/hydrology) — the movement of water through the field. Stream gauges measure water level and discharge (volume of flow per unit time). Long-term gauging records, some spanning over a century, provide the baseline for understanding how flow regimes have changed and how they might change in the future.
 
 Modern tools like remote sensing, isotope tracing, and hydrological models allow ecologists to track water movement through entire watersheds — from rainfall through soil infiltration, groundwater flow, and eventual discharge into streams. This watershed-scale perspective is essential because what happens on land directly affects what happens in the river.
 
@@ -236,4 +236,4 @@ Finding the balance — rivers that support both thriving ecosystems and human w
 
 ## Key Takeaways
 
-River ecology studies the interactions between organisms and their flowing freshwater environment. Rivers are far more biologically rich than their small surface area would suggest, supporting about 12% of all known animal species. The physical structure of rivers — flow, substrate, temperature, and channel shape — creates diverse habitats that support different communities. Energy enters through in-stream photosynthesis and terrestrial inputs, with the balance shifting from headwaters to mouth. Rivers face serious threats from pollution, habitat modification, invasive species, and climate change, but restoration science and practice are advancing rapidly. Understanding rivers as connected, active systems rather than static water channels is the key insight of modern river ecology.
+River ecology studies the interactions between organisms and their flowing freshwater environment. Rivers are far more biologically rich than their small surface area would suggest, supporting about 12% of all known animal species. The physical structure of rivers — flow, substrate, temperature, and channel shape — creates diverse habitats that support different communities. Energy enters through in-stream photosynthesis and terrestrial inputs, with the balance shifting from headwaters to mouth. Rivers face serious threats from pollution, habitat modification, invasive species, and [climate change](/climate-change), but restoration science and practice are advancing rapidly. Understanding rivers as connected, active systems rather than static water channels is the key insight of modern river ecology.

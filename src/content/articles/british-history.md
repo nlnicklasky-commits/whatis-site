@@ -72,7 +72,7 @@ Elizabeth I's reign (1558–1603) saw England emerge as a serious European power
 
 ## Civil War, Revolution, and Union
 
-The 17th century was brutal. The English Civil War (1642–1651) pitted Parliament against the Crown, resulting in the execution of King Charles I in 1649 — an act that shocked all of Europe. Oliver Cromwell's republican Commonwealth proved unstable, and the monarchy was restored in 1660.
+The 17th century was brutal. The English Civil War (1642–1651) pitted Parliament against the Crown, resulting in the execution of King Charles I in 1649 — an act that shocked all of Europe. Oliver Cromwell's republican Commonwealth proved unstable, and the [monarchy](/monarchy) was restored in 1660.
 
 The Glorious Revolution of 1688 was quieter but arguably more important. When Parliament essentially invited William of Orange to replace King James II, it established the principle of parliamentary sovereignty — that Parliament, not the monarch, held ultimate authority. The Bill of Rights of 1689 codified this arrangement.
 
@@ -90,15 +90,15 @@ Queen Victoria's reign shaped an entire era. Victorian Britain was the world's d
 
 ## The World Wars and Their Aftermath
 
-The 20th century humbled Britain. World War I (1914–1918) killed roughly 886,000 British military personnel and shattered the confidence of a generation. The war accelerated social changes — women gained partial suffrage in 1918, partly due to their wartime contributions — but the psychological scars ran deep.
+The 20th century humbled Britain. [World War I](/world-war-i) (1914–1918) killed roughly 886,000 British military personnel and shattered the confidence of a generation. The war accelerated social changes — women gained partial suffrage in 1918, partly due to their wartime contributions — but the psychological scars ran deep.
 
-World War II (1939–1945) was, in many ways, Britain's finest and most devastating hour simultaneously. The country stood alone against Nazi Germany for over a year after the fall of France in 1940. Winston Churchill's leadership and the resilience of ordinary Britons during the Blitz became central to national identity. But the war bankrupted the country and accelerated the end of empire.
+[World War II](/world-war-ii) (1939–1945) was, in many ways, Britain's finest and most devastating hour simultaneously. The country stood alone against Nazi Germany for over a year after the fall of France in 1940. Winston Churchill's leadership and the resilience of ordinary Britons during the Blitz became central to national identity. But the war bankrupted the country and accelerated the end of empire.
 
-The postwar period brought radical change. The Labour government of 1945 created the National Health Service, nationalized key industries, and built the modern welfare state. Decolonization gathered pace — India gained independence in 1947, and most African colonies followed by the 1960s. Britain's role in the world shrank dramatically, even as immigration from former colonies transformed British society and culture.
+The postwar period brought radical change. The Labour [government](/government) of 1945 created the National Health Service, nationalized key industries, and built the modern welfare state. Decolonization gathered pace — India gained independence in 1947, and most African colonies followed by the 1960s. Britain's role in the world shrank dramatically, even as immigration from former colonies transformed British society and culture.
 
 ## Scotland, Wales, and the Question of Identity
 
-British history has never been just [English history](/english-history), though it's often told that way. Scotland maintained its own legal system, education system, and church even after the 1707 union. Wales preserved its language and distinct cultural identity despite centuries of English dominance.
+British history has never been just [English history](/english-history), though it's often told that way. Scotland maintained its own legal system, [education](/education) system, and church even after the 1707 union. Wales preserved its language and distinct cultural identity despite centuries of English dominance.
 
 Devolution in the late 1990s created separate parliaments for Scotland, Wales, and Northern Ireland, giving these nations greater self-governance. The 2014 Scottish independence referendum — which resulted in a 55% vote to remain in the UK — showed that questions of national identity within Britain remain very much alive.
 
@@ -108,7 +108,7 @@ The Brexit vote in 2016, where England and Wales voted to leave the European Uni
 
 You might wonder why the history of a relatively small island matters so much. The short answer: influence. The [English language](/english-language), common law legal systems, parliamentary democracy, the Industrial Revolution, and the legacies of empire connect British history to virtually every country on Earth.
 
-Understanding British history helps you make sense of everything from American [constitutional law](/jurisprudence) to Indian politics to Australian cultural identity. It explains why English is the global lingua franca, why so many countries drive on the left, and why the Commonwealth of Nations still exists.
+Understanding British history helps you make sense of everything from American [constitutional law](/jurisprudence) to Indian [politics](/politics) to Australian cultural identity. It explains why English is the global lingua franca, why so many countries drive on the left, and why the Commonwealth of Nations still exists.
 
 But British history also matters as a case study in how nations change. From feudal monarchy to constitutional democracy, from island kingdom to global empire to post-imperial nation — the British story is one of constant reinvention. Sometimes painful, sometimes inspiring, always complicated.
 

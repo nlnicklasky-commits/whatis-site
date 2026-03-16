@@ -33,7 +33,7 @@ faq:
 
 # What Is Resource Management?
 
-Resource management is the process of planning, scheduling, and allocating the resources needed to get work done — people, money, equipment, technology, and time. It answers a deceptively simple question: do you have what you need, when you need it, to accomplish what you've committed to?
+Resource [management](/management) is the process of planning, [scheduling](/scheduling), and allocating the resources needed to get work done — people, money, equipment, technology, and time. It answers a deceptively simple question: do you have what you need, when you need it, to accomplish what you've committed to?
 
 Most organizations answer that question with some version of "probably... we hope." And that's the problem. Without deliberate resource management, companies over-commit their best people, blow through budgets, leave expensive equipment idle, and miss deadlines — all while everyone works harder than they should.
 
@@ -77,7 +77,7 @@ Gantt charts, resource histograms, and capacity planning tools all help visualiz
 
 Once work begins, you need to monitor actual usage against the plan. Are people spending their time where you expected? Is the budget being consumed at the projected rate? Is equipment being used efficiently?
 
-Tracking reveals the gaps between planning and reality. Maybe the database migration is taking twice as long as estimated, consuming developer hours that were earmarked for another project. Maybe the marketing budget is being spent faster than planned because ad costs increased. Early detection of these variances gives you time to adjust.
+Tracking reveals the gaps between planning and reality. Maybe the database migration is taking twice as long as estimated, consuming developer hours that were earmarked for another project. Maybe the [marketing](/marketing) budget is being spent faster than planned because ad costs increased. Early detection of these variances gives you time to adjust.
 
 ### 5. Resource [Optimization](/optimization)
 
@@ -85,7 +85,7 @@ This is the ongoing effort to get more output from the same inputs. Optimization
 
 - **Resource leveling** — adjusting the schedule to smooth out peaks and valleys in demand, preventing overallocation
 - **Resource smoothing** — similar to leveling, but keeps the project end date fixed while redistributing work within existing slack
-- **Cross-training** — teaching team members additional skills so they can fill multiple roles, reducing bottleneck risk
+- **Cross-training** — [teaching](/teaching) team members additional skills so they can fill multiple roles, reducing bottleneck risk
 - **Outsourcing** — contracting specialized work rather than maintaining full-time staff for intermittent needs
 - **Automation** — replacing manual, repetitive tasks with software, freeing [human resources](/human-resources) for higher-value work
 
@@ -95,11 +95,11 @@ Different industries emphasize different aspects, but the core principles stay t
 
 **Human Resource Management** focuses on people — hiring, training, scheduling, and retaining the right talent. In knowledge-work organizations, people are usually the most expensive and most constrained resource. A 2022 Gartner survey found that 58% of organizations reported significant skills gaps that affected their ability to execute strategy.
 
-**Financial Resource Management** covers budgeting, forecasting, and controlling expenditures. This is where resource management overlaps with [financial planning](/financial-planning) and accounting. The key challenge is maintaining enough flexibility to respond to surprises while keeping spending within approved limits.
+**Financial Resource Management** covers [budgeting](/budgeting), forecasting, and controlling expenditures. This is where resource management overlaps with [financial planning](/financial-planning) and accounting. The key challenge is maintaining enough flexibility to respond to surprises while keeping spending within approved limits.
 
-**Physical Resource Management** handles tangible assets — equipment, facilities, vehicles, raw materials, inventory. Manufacturing companies, [construction](/construction) firms, and logistics operations often consider this their primary resource management challenge. Idle equipment and excess inventory tie up capital; shortages halt production.
+**Physical Resource Management** handles tangible assets — equipment, facilities, vehicles, raw materials, inventory. Manufacturing companies, [construction](/construction) firms, and [logistics](/logistics) operations often consider this their primary resource management challenge. Idle equipment and excess inventory tie up capital; shortages halt production.
 
-**Digital Resource Management** is the newest category. [Cloud computing](/cloud-computing), SaaS licenses, data storage, and computing capacity all need active management. Many organizations are shocked when they audit their software subscriptions and discover they're paying for tools nobody uses, or running cloud instances that serve no purpose.
+**Digital Resource Management** is the newest category. [Cloud computing](/cloud-computing), SaaS licenses, data storage, and computing capacity all need active management. Many organizations are shocked when they audit their software subscriptions and discover they're paying for tools nobody uses, or [running](/running) cloud instances that serve no purpose.
 
 ## Common Pitfalls
 

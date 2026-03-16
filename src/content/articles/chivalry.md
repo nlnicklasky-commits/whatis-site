@@ -58,7 +58,7 @@ Chivalry as a formal code developed gradually during the 11th through 13th centu
 
 **The religious dimension** added Christian moral obligations. The Crusades (beginning in 1095) were the ultimate expression of this: holy warfare in which martial skill served religious purpose. The ideal knight was a Christian warrior, defending the faith, protecting pilgrims, and fighting God's enemies. The military orders — Templars, Hospitallers, Teutonic Knights — combined monastic discipline with martial training, creating organizations that were simultaneously religious orders and fighting forces.
 
-**The courtly dimension** introduced refinement, [education](/education), and romantic love. A knight should be literate (or at least educated), able to compose poetry, practice courtesy, and demonstrate graceful behavior in social settings. The rough warrior was supposed to become a gentleman — a transformation that the courts of France, in particular, promoted enthusiastically.
+**The courtly dimension** introduced refinement, [education](/education), and romantic love. A knight should be literate (or at least educated), able to compose [poetry](/poetry), practice courtesy, and demonstrate graceful behavior in social settings. The rough warrior was supposed to become a gentleman — a transformation that the courts of France, in particular, promoted enthusiastically.
 
 Ramon Llull's "Book of the Order of Chivalry" (c. 1275) codified many of these ideals. A knight, Llull wrote, should defend the faith, protect the weak, practice justice, exercise temperance, and be truthful. The [ethical](/ethics) framework was essentially Christian virtue applied to the warrior class.
 

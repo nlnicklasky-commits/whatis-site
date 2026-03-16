@@ -57,7 +57,7 @@ The Great Depression hit rural America particularly hard, and rural sociologists
 
 The cultural and political gap between rural and urban America has become one of the defining features of American public life. Rural areas vote differently, hold different values on certain issues, consume different media, and experience different economic realities than urban areas. Rural sociologists have been studying this divide long before it became a cable news talking point.
 
-The divide is real but often oversimplified. Rural communities are diverse — a ranching community in Montana has little in common with a fishing village in Maine or a majority-Black community in the Mississippi Delta or a Latino agricultural town in California's Central Valley. Treating "rural America" as monolithic misses these differences.
+The divide is real but often oversimplified. Rural communities are diverse — a ranching community in Montana has little in common with a [fishing](/fishing) village in Maine or a majority-Black community in the Mississippi Delta or a Latino agricultural town in California's Central Valley. Treating "rural America" as monolithic misses these differences.
 
 What rural communities do share is a relationship with distance. Distance from markets, from hospitals, from universities, from [government](/government) offices, from broadband internet. This distance shapes everything — economic opportunity, social services, political engagement, cultural life. When a factory closes in a city, workers can look for other jobs nearby. When the one employer in a rural county closes, the community's future is genuinely at stake.
 
@@ -77,6 +77,6 @@ Rural sociology isn't just an American discipline. Globally, roughly 44% of the 
 
 Rural sociology might sound like an obscure academic specialty, and in some ways it is — there are far fewer rural sociologists than, say, criminologists or organizational sociologists. But the questions rural sociology addresses — food production, environmental [management](/management), community resilience, inequality, political polarization — are among the most pressing issues of our time.
 
-Climate change will hit rural communities particularly hard. Agricultural regions face drought, heat stress, and changing growing seasons. Coastal rural communities face rising seas. Resource-dependent communities face energy transitions. Understanding how these communities adapt — or fail to adapt — requires the kind of careful, place-based social analysis that rural sociology provides.
+[Climate change](/climate-change) will hit rural communities particularly hard. Agricultural regions face drought, heat stress, and changing growing seasons. Coastal rural communities face rising seas. Resource-dependent communities face energy transitions. Understanding how these communities adapt — or fail to adapt — requires the kind of careful, place-based social analysis that rural sociology provides.
 
 The discipline reminds us that behind the [statistics](/statistics) about farm consolidation, hospital closures, and population decline are real communities with real people making real decisions about their lives. Those decisions, and the forces that shape them, deserve serious study.

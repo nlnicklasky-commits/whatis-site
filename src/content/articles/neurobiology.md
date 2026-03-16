@@ -39,7 +39,7 @@ Neurobiology is the study of how the nervous system functions at the biological 
 
 ## The Problem Neurobiology Tries to Solve
 
-Here's the fundamental question that drives this entire field: how does a collection of cells — made from the same basic chemistry as every other cell in your body — produce thought, sensation, memory, emotion, and consciousness?
+Here's the fundamental question that drives this entire field: how does a collection of cells — made from the same basic [chemistry](/chemistry) as every other cell in your body — produce thought, sensation, memory, emotion, and consciousness?
 
 Your liver cells process toxins. Your muscle cells contract. Your skin cells form a barrier. These are impressive but conceptually straightforward. Your neurons? They somehow give rise to your experience of being alive. That's a different level of mystery entirely.
 
@@ -177,7 +177,7 @@ Growing axons work through to their targets over distances that, relative to cel
 
 ### Synaptic Pruning
 
-The adolescent brain contains far more synapses than the adult brain. During adolescence and early adulthood, unused synapses are eliminated while active ones are strengthened and stabilized. This "use it or lose it" pruning is why early experiences have such outsized influence on brain development.
+The adolescent brain contains far more synapses than the adult brain. During adolescence and early adulthood, unused synapses are eliminated while active ones are strengthened and stabilized. This "use it or lose it" [pruning](/pruning) is why early experiences have such outsized influence on brain development.
 
 Abnormal pruning is implicated in several psychiatric conditions. Excessive pruning may contribute to the onset of schizophrenia in early adulthood. Insufficient pruning may be involved in some forms of autism, where the brain retains too many connections and becomes overwhelmed by sensory input.
 
@@ -201,7 +201,7 @@ By inserting light-sensitive proteins into specific neuron types, researchers ca
 
 ### CRISPR in Neurobiology
 
-Gene editing allows researchers to create precise genetic modifications in neurons and study the consequences. Want to know what happens when a specific receptor is absent from a specific neuron type? CRISPR can answer that question with an efficiency that would have seemed like [science fiction](/science-fiction) 15 years ago. This connects directly to [biotechnology](/biotechnology) advances in gene editing.
+Gene [editing](/editing) allows researchers to create precise genetic modifications in neurons and study the consequences. Want to know what happens when a specific receptor is absent from a specific neuron type? CRISPR can answer that question with an efficiency that would have seemed like [science fiction](/science-fiction) 15 years ago. This connects directly to [biotechnology](/biotechnology) advances in gene editing.
 
 ### Two-Photon [Microscopy](/microscopy)
 

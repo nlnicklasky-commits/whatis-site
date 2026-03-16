@@ -55,11 +55,11 @@ Every DTP project starts with a page—or more precisely, a spread (two facing p
 
 Professional DTP software uses a coordinate system measured in points (1/72 of an inch) or millimeters. You can position elements with sub-millimeter precision. This matters because even tiny misalignments are visible in print, especially on large-format pieces.
 
-**Master pages** (or parent pages) define elements that repeat across multiple pages—page numbers, running headers, column guides, logos. Change the master page, and every page based on it updates automatically. This is what makes it possible to lay out a 300-page book without manually placing elements on each page.
+**Master pages** (or parent pages) define elements that repeat across multiple pages—page numbers, [running](/running) headers, column guides, logos. Change the master page, and every page based on it updates automatically. This is what makes it possible to lay out a 300-page book without manually placing elements on each page.
 
 ### Typography: Where the Magic Happens
 
-Typography is arguably the most important skill in desktop publishing. And frankly, it's where most beginners go wrong.
+[Typography](/typography) is arguably the most important skill in desktop publishing. And frankly, it's where most beginners go wrong.
 
 **Font selection** matters more than most people realize. A font communicates tone before the reader processes a single word. Serif fonts (like Times or Garamond) suggest tradition and authority. Sans-serif fonts (like Helvetica or Futura) feel modern and clean. Display fonts create mood but become unreadable at small sizes. The rule of thumb: use no more than two or three fonts in a single project. More than that creates visual chaos.
 
@@ -165,7 +165,7 @@ Newspaper layout adds time pressure. Pages need to be composed quickly, often un
 
 ### Marketing Materials
 
-Brochures, flyers, posters, business cards, packaging—marketing collateral is bread-and-butter DTP work. These projects prioritize visual impact and brand consistency. A tri-fold brochure needs to work both folded (as a cover) and unfolded (as a full layout). A poster needs to communicate from across a room.
+Brochures, flyers, posters, business cards, packaging—[marketing](/marketing) collateral is bread-and-butter DTP work. These projects prioritize visual impact and brand consistency. A tri-fold brochure needs to work both folded (as a cover) and unfolded (as a full layout). A poster needs to communicate from across a room.
 
 ### Corporate Documents
 
@@ -179,7 +179,7 @@ The rise of [self-publishing](/self-publishing), in particular, has made DTP kno
 
 ## Where DTP Meets Web Design
 
-Desktop publishing and web design share DNA—both arrange text and images to communicate effectively—but they diverge in important ways. Print is fixed; web is fluid. Print controls exact appearance; web negotiates with browsers, screen sizes, and user preferences. Print uses points and picas; web uses pixels, ems, and percentages.
+Desktop publishing and [web design](/web-design) share DNA—both arrange text and images to communicate effectively—but they diverge in important ways. Print is fixed; web is fluid. Print controls exact appearance; web negotiates with browsers, screen sizes, and user preferences. Print uses points and picas; web uses pixels, ems, and percentages.
 
 Still, DTP principles transfer directly to web work. Typography hierarchy, grid systems, white space management, and [color theory](/color-theory) apply in both domains. Many web designers started in print and brought those fundamentals with them. Understanding [aesthetics](/aesthetics) and visual design principles serves you regardless of the output medium.
 

@@ -72,7 +72,7 @@ Unlike Japanese ceremony's single bowl of matcha, gongfu cha involves multiple s
 
 What both traditions share is the radical idea that preparing and drinking tea can be a form of meditation — a practice of presence, attention, and connection.
 
-In Japanese chanoyu, the concept of *ichigo ichie* ("one time, one meeting") captures the philosophy: this gathering of these specific people will never happen again. Therefore, give it your complete attention. Be fully present.
+In Japanese chanoyu, the concept of *ichigo ichie* ("one time, one meeting") captures the [philosophy](/philosophy): this gathering of these specific people will never happen again. Therefore, give it your complete attention. Be fully present.
 
 This isn't about tea. It's about paying attention to what's in front of you, treating ordinary moments as worthy of care, and connecting with other people through shared experience. The tea is just the vehicle.
 

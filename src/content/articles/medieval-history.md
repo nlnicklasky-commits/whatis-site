@@ -37,7 +37,7 @@ It's also been spectacularly misunderstood. [Popular culture](/popular-culture) 
 
 ## The Early Middle Ages (500-1000)
 
-After Rome fell, Western Europe fragmented into smaller kingdoms ruled by Germanic peoples — Franks, Visigoths, Ostrogoths, Anglo-Saxons, and others. Central authority collapsed. Trade networks broke down. Cities shrank. Literacy declined outside the Church.
+After Rome fell, Western Europe fragmented into smaller kingdoms ruled by Germanic peoples — Franks, Visigoths, Ostrogoths, Anglo-Saxons, and others. Central authority collapsed. [Trade](/trade) networks broke down. Cities shrank. Literacy declined outside the Church.
 
 But "collapse" doesn't mean "nothing happened." The early medieval period produced Charlemagne's Carolingian Empire (the largest Western European state since Rome), the spread of [Christianity](/christianity) to northern Europe, the preservation of classical texts in monasteries (without which we'd have lost most of Greek and Roman [literature](/literature)), and the development of new agricultural techniques that would eventually support population growth.
 
@@ -51,7 +51,7 @@ This is when medieval Europe hit its stride. Population grew. Cities expanded. T
 
 **The Church.** The Catholic Church was the single most powerful institution in medieval Europe. It provided the shared cultural framework (Christianity), the educational system (cathedral and monastic schools, then universities), the legal system (canon law), the welfare system (hospitals, almshouses), and much of the artistic and architectural patronage. Popes and kings struggled for supremacy throughout the period.
 
-**Universities.** Bologna (1088), Paris (circa 1150), and Oxford (1096-1167) were among the first universities. They taught theology, law, medicine, and the liberal arts. [Scholasticism](/scholasticism) — the rigorous application of logical reasoning to theological questions — produced thinkers like Thomas Aquinas, whose synthesis of Aristotelian [philosophy](/philosophy) and Christian theology remains influential.
+**Universities.** Bologna (1088), Paris (circa 1150), and Oxford (1096-1167) were among the first universities. They taught [theology](/theology), law, medicine, and the liberal arts. [Scholasticism](/scholasticism) — the rigorous application of logical reasoning to theological questions — produced thinkers like Thomas Aquinas, whose synthesis of Aristotelian [philosophy](/philosophy) and Christian theology remains influential.
 
 **[Gothic architecture](/gothic-architecture)).** The great cathedrals — Chartres, Notre-Dame, Canterbury, Cologne — are among humanity's most impressive architectural achievements. Flying buttresses allowed walls of [stained glass](/stained-glass) that filled interiors with colored light. These buildings took decades or centuries to complete and remain standing nearly a thousand years later.
 
@@ -65,15 +65,15 @@ The Hundred Years' War (1337-1453) devastated France and transformed warfare —
 
 The Western Schism (1378-1417) split the Catholic Church, with rival popes in Rome and Avignon. This damaged Church authority and planted seeds for the Protestant Reformation.
 
-But the late Middle Ages also produced remarkable cultural achievements. Dante wrote the *Divine Comedy*. Chaucer wrote the *Canterbury Tales*. Gutenberg invented the printing press (circa 1440), which would transform European culture more profoundly than almost any other single invention.
+But the late Middle Ages also produced remarkable cultural achievements. Dante wrote the *Divine [Comedy](/comedy)*. Chaucer wrote the *Canterbury Tales*. Gutenberg invented the printing press (circa 1440), which would transform European culture more profoundly than almost any other single [invention](/invention).
 
 ## Daily Life
 
 For the roughly 90% of medieval Europeans who were peasants, daily life revolved around [agriculture](/agriculture). You worked the lord's land and your own small plots. You ate bread, porridge, peas, beans, and (if you were lucky) some meat and cheese. You attended church regularly. Your world extended about as far as you could walk in a day.
 
-Life expectancy was low — roughly 30-35 years on average, though this is skewed by high infant mortality. If you survived childhood, living to 50 or 60 was common. Medical knowledge was limited, hygiene was poor by modern standards, and famine and epidemic disease were constant threats.
+Life expectancy was low — roughly 30-35 years on average, though this is skewed by high infant mortality. If you survived childhood, living to 50 or 60 was common. Medical knowledge was limited, [hygiene](/hygiene) was poor by modern standards, and famine and epidemic disease were constant threats.
 
-But medieval people weren't miserable primitives. They had festivals, games, music, art, humor, love, and community. Court cultures produced elaborate poetry and romance. Guild systems supported skilled craftspeople. Market towns buzzed with commerce and social life.
+But medieval people weren't miserable primitives. They had festivals, games, music, art, humor, love, and community. Court cultures produced elaborate [poetry](/poetry) and romance. Guild systems supported skilled craftspeople. Market towns buzzed with commerce and social life.
 
 ## Why It Matters
 

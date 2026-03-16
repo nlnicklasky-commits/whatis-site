@@ -93,7 +93,7 @@ CODIS contains over 22 million offender profiles and more than 5 million forensi
 
 Familial DNA searching — looking for partial matches that might indicate a relative of the offender is in the database — has solved high-profile cases including the Golden State Killer, identified through a [genealogy](/genealogy) database rather than CODIS.
 
-But DNA databases raise privacy concerns. Who should be in the database? Just convicted felons? Anyone arrested? Everyone? Different jurisdictions draw the line differently, and the debate reflects fundamental tensions between public safety and privacy.
+But DNA databases raise privacy concerns. Who should be in the database? Just convicted felons? Anyone arrested? Everyone? Different jurisdictions draw the line differently, and the [debate](/debate) reflects fundamental tensions between public safety and privacy.
 
 ## Fingerprint Analysis
 
@@ -159,7 +159,7 @@ Trace evidence includes the small — sometimes microscopic — materials transf
 
 Textile fibers can link a suspect to a scene, a victim, or a vehicle. A wool fiber from a suspect's sweater found on a victim's clothing supports contact between them. The evidential value depends on the fiber type (a common white cotton fiber is much less significant than an unusual synthetic blend), the number of fibers found, and whether the transfer makes sense in context.
 
-Fiber analysis uses microscopy and instrumental techniques like microspectrophotometry (measuring color precisely) and Fourier-transform infrared spectroscopy (FTIR, identifying the chemical composition). Fibers can usually be classified to type and color but rarely linked to a specific garment to the exclusion of all others.
+Fiber analysis uses [microscopy](/microscopy) and instrumental techniques like microspectrophotometry (measuring color precisely) and Fourier-transform infrared spectroscopy (FTIR, identifying the chemical composition). Fibers can usually be classified to type and color but rarely linked to a specific garment to the exclusion of all others.
 
 ### Glass
 

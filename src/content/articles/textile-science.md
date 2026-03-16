@@ -39,7 +39,7 @@ Textile science is the interdisciplinary study of fibers, yarns, fabrics, and fi
 
 ## The Stuff You Wear Is Surprisingly Complicated
 
-You probably don't think much about the shirt on your back. But that shirt represents thousands of years of accumulated knowledge about fiber properties, spinning mechanics, weaving patterns, dye chemistry, and finishing processes. The textile industry was the original high-tech sector — it drove the Industrial Revolution, spawned the factory system, and pioneered automation.
+You probably don't think much about the shirt on your back. But that shirt represents thousands of years of accumulated knowledge about fiber properties, spinning mechanics, [weaving](/weaving) patterns, dye chemistry, and finishing processes. The textile industry was the original high-tech sector — it drove the Industrial Revolution, spawned the factory system, and pioneered automation.
 
 Today, textiles are a $1.7 trillion global industry. The average American buys 68 garments per year. And the science behind those garments — understanding why cotton breathes, why polyester wicks moisture, why wool insulates even when wet — is a field unto itself.
 
@@ -59,7 +59,7 @@ Cotton's popularity comes from its comfort properties: it absorbs moisture well 
 
 But wool's real superpower is its crimped structure. Each fiber naturally zig-zags, creating tiny air pockets that trap body heat. Wool insulates better than most fibers and — critically — retains about 80% of its insulating ability even when wet. This is why wool remains the material of choice for cold, damp conditions. Hikers and mountaineers know this well.
 
-**Silk** is produced by silkworms (Bombyx mori) as a cocoon filament. A single cocoon yields about 300-900 meters of continuous filament. Silk's strength and luster come from its molecular structure — tightly packed beta-sheet protein crystals alternating with amorphous regions that provide flexibility. Silk has been cultivated in China for at least 5,000 years, and the Silk Road trade network shaped world history for millennia.
+**Silk** is produced by silkworms (Bombyx mori) as a cocoon filament. A single cocoon yields about 300-900 meters of continuous filament. Silk's strength and luster come from its molecular structure — tightly packed beta-sheet protein crystals alternating with amorphous regions that provide flexibility. Silk has been cultivated in China for at least 5,000 years, and [the Silk Road](/silk-road) trade network shaped world history for millennia.
 
 **Linen** (from the flax plant), **hemp**, **jute**, and **ramie** are bast fibers — they come from the stems of plants. They tend to be strong, stiff, and durable but less soft than cotton. Linen was the dominant textile fiber in Europe before cotton imports from India and the Americas.
 
@@ -87,7 +87,7 @@ These occupy a middle ground — they're made from natural polymers (usually cel
 
 ### Spinning
 
-Fibers must be twisted together to form yarn — a process called spinning. For staple fibers (short lengths like cotton or cut synthetic fibers), the process involves opening and cleaning the raw fiber, carding (aligning fibers roughly parallel), drawing (pulling the fiber mass into a thin strand), and spinning (twisting to lock fibers together).
+Fibers must be twisted together to form yarn — a process called spinning. For staple fibers (short lengths like cotton or cut synthetic fibers), the process involves opening and cleaning the raw fiber, carding (aligning fibers roughly parallel), [drawing](/drawing) (pulling the fiber mass into a thin strand), and spinning (twisting to lock fibers together).
 
 The spinning process profoundly affects yarn properties. Tighter twist creates stronger, harder yarn; looser twist produces softer, more voluminous yarn. Ring spinning, the traditional method, produces the strongest yarns. Open-end (rotor) spinning is faster and cheaper but produces slightly weaker, bulkier yarn. Air-jet spinning is the newest commercial method, offering speed without sacrificing too much strength.
 
@@ -103,7 +103,7 @@ Weaving interlaces two sets of yarns — the warp (lengthwise) and the weft (cro
 
 ### Knitting
 
-Knitting forms fabric from interlocking loops rather than interlaced threads. Knit fabrics stretch more than woven fabrics, which is why t-shirts (jersey knit) are stretchy and dress shirts (woven broadcloth) are not. The trade-off is that knits are less dimensionally stable — they can distort and lose shape over time.
+[Knitting](/knitting) forms fabric from interlocking loops rather than interlaced threads. Knit fabrics stretch more than woven fabrics, which is why t-shirts (jersey knit) are stretchy and dress shirts (woven broadcloth) are not. The trade-off is that knits are less dimensionally stable — they can distort and lose shape over time.
 
 Weft knitting (like your grandmother's hand knitting, scaled up) and warp knitting (a machine process that creates stable, run-resistant fabrics) are the two main categories. About 40% of all fabric produced is knitted.
 
@@ -113,7 +113,7 @@ Nonwoven fabrics skip both weaving and knitting. Instead, fibers are bonded toge
 
 ## Dyeing and Finishing — The Chemistry of Color
 
-Getting color into a fiber is harder than it looks. You can't just paint a fabric and expect the color to stick through washing, sunlight exposure, and wear. Dyeing is a chemical process where dye molecules form bonds — ionic, covalent, hydrogen, or Van der Waals — with the fiber's polymer chains.
+Getting color into a fiber is harder than it looks. You can't just paint a fabric and expect the color to stick through washing, sunlight exposure, and wear. [Dyeing](/dyeing) is a chemical process where dye molecules form bonds — ionic, covalent, hydrogen, or Van der Waals — with the fiber's polymer chains.
 
 Different fibers require different dye classes:
 
@@ -154,10 +154,10 @@ The textile industry has a serious environmental footprint, and textile science 
 
 **Chemical pollution.** Textile dyeing is responsible for an estimated 20% of industrial water pollution globally. Many developing countries lack adequate wastewater treatment for textile effluent, and rivers near dyeing facilities run visibly colored with chemical-laden runoff.
 
-Textile scientists are working on solutions. Closed-loop recycling systems that break [polyester](/chemistry) back into its monomers for re-spinning are becoming commercial. Waterless dyeing technologies using supercritical CO2 as a solvent eliminate wastewater entirely. Bio-based fibers from algae, mycelium (mushroom roots), and bacterial cellulose offer alternatives to petroleum-based synthetics. And enzyme-based finishing processes are replacing some harsh chemical treatments.
+Textile scientists are working on solutions. Closed-loop [recycling](/recycling) systems that break [polyester](/chemistry) back into its monomers for re-spinning are becoming commercial. Waterless dyeing technologies using supercritical CO2 as a solvent eliminate wastewater entirely. Bio-based fibers from algae, mycelium (mushroom roots), and bacterial cellulose offer alternatives to petroleum-based synthetics. And enzyme-based finishing processes are replacing some harsh chemical treatments.
 
 ## Why This Science Matters
 
 You interact with textiles more intimately and continuously than almost any other manufactured product. They touch your skin all day, regulate your temperature, protect you from the elements, and express your identity. And the decisions made by textile scientists — what fibers to develop, what processes to use, what environmental costs to accept — affect billions of people.
 
-Understanding [textile science](/textile-science) means understanding how material properties, manufacturing processes, and human needs intersect. It's chemistry, physics, [biology](/biology), and engineering, all woven together — if you'll forgive the pun — into the fabric of daily life.
+Understanding [textile science](/textile-science) means understanding how material properties, manufacturing processes, and human needs intersect. It's chemistry, [physics](/physics), [biology](/biology), and [engineering](/engineering), all woven together — if you'll forgive the pun — into the fabric of daily life.

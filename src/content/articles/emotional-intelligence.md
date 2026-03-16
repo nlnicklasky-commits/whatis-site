@@ -102,7 +102,7 @@ Emotional intelligence isn't just a psychological construct — it maps onto ide
 
 ### The Amygdala and Emotional Processing
 
-The amygdala, an almond-shaped structure deep in the temporal lobes, processes emotional significance rapidly — often before conscious awareness. When you see a snake-shaped stick and jump before you realize it's not a snake, that's your amygdala acting as an early warning system.
+The amygdala, an almond-shaped structure deep in the temporal lobes, processes emotional significance rapidly — often before conscious awareness. When you see a snake-shaped stick and jump before you realize it's not a snake, that's your amygdala [acting](/acting) as an early warning system.
 
 The amygdala's speed comes at the cost of accuracy. It makes fast, rough assessments based on pattern matching. This is why emotionally triggering stimuli (an angry face, a loud noise, a threatening gesture) can produce emotional responses before the slower cortical processing determines whether the threat is real.
 
@@ -138,7 +138,7 @@ The absence of team emotional intelligence is painfully visible: unaddressed res
 
 ### Hiring and Development
 
-Some organizations now include emotional intelligence assessments in hiring processes, particularly for roles involving significant interpersonal interaction — management, sales, customer service, healthcare. The evidence supporting this practice is mixed: while emotional intelligence predicts performance in these roles, many assessment tools lack the validity needed for high-stakes selection decisions.
+Some organizations now include emotional intelligence assessments in hiring processes, particularly for roles involving significant interpersonal interaction — management, [sales](/sales), customer service, healthcare. The evidence supporting this practice is mixed: while emotional intelligence predicts performance in these roles, many assessment tools lack the validity needed for high-stakes selection decisions.
 
 Development programs are on stronger ground. [Coaching](/coaching) programs targeting specific emotional intelligence competencies — active listening, empathy, conflict management, self-awareness — show measurable improvements when sustained over months rather than delivered as one-time workshops.
 
@@ -150,7 +150,7 @@ Emotional intelligence is not without significant scientific controversy.
 
 Some psychologists argue that emotional intelligence doesn't meet the criteria for a true intelligence. Traditional intelligences (as measured by IQ tests) are relatively stable over time, normally distributed in the population, and predict specific outcomes. Emotional intelligence, critics argue, is better described as a set of personality traits and social skills than as an intelligence proper.
 
-This debate isn't purely academic — it affects how EQ should be measured and developed. If emotional intelligence is a set of abilities (like Salovey and Mayer argue), it should be measured with performance tests. If it's more like a personality trait (as some self-report measures treat it), it should be measured differently.
+This [debate](/debate) isn't purely academic — it affects how EQ should be measured and developed. If emotional intelligence is a set of abilities (like Salovey and Mayer argue), it should be measured with performance tests. If it's more like a personality trait (as some self-report measures treat it), it should be measured differently.
 
 ### The Measurement Problem
 
@@ -158,7 +158,7 @@ Measuring emotional intelligence is genuinely difficult. Ability-based tests (li
 
 ### Overselling and Misapplication
 
-Goleman's claim that emotional intelligence is twice as important as IQ for success was not well-supported by the evidence at the time and has been significantly qualified since. The pop psychology industry has enthusiastically oversold emotional intelligence, often making claims that go far beyond what research supports.
+Goleman's claim that emotional intelligence is twice as important as IQ for success was not well-supported by the evidence at the time and has been significantly qualified since. The pop [psychology](/psychology) industry has enthusiastically oversold emotional intelligence, often making claims that go far beyond what research supports.
 
 Some workplace applications are concerning. "Emotional intelligence" can be weaponized — framing employees' legitimate frustration as an "emotional intelligence deficit" rather than addressing the valid concerns driving the frustration. It can also encode cultural biases: what counts as "emotionally intelligent" behavior varies across cultures, and assessments developed in Western, individualistic contexts may not translate to collectivist cultures.
 
@@ -198,7 +198,7 @@ This makes intuitive sense. A student who can manage test anxiety, work through 
 
 Emotional intelligence doesn't exist in a cultural vacuum. What counts as emotionally appropriate behavior varies significantly across cultures.
 
-In individualistic Western cultures, direct emotional expression is generally valued — "authentic" communication means expressing what you feel. In many East Asian cultures, emotional restraint and consideration of group harmony take precedence — managing your emotional expression to maintain social cohesion is itself a mark of emotional skill.
+In individualistic Western cultures, direct emotional expression is generally valued — "authentic" communication means expressing what you feel. In many East Asian cultures, emotional restraint and consideration of group [harmony](/harmony) take precedence — managing your emotional expression to maintain social cohesion is itself a mark of emotional skill.
 
 Neither approach is more emotionally intelligent than the other — they reflect different cultural values about the role of emotions in social life. An effective model of emotional intelligence must account for these cultural differences rather than imposing a single Western standard.
 

@@ -49,7 +49,7 @@ These are the species we've studied. Scientists estimate Earth holds 8-10 millio
 
 **Invasive species** — Species introduced to new environments where they lack natural predators or competitors. Rats, cats, and mongooses introduced to islands have driven hundreds of bird species to extinction. The brown tree snake, accidentally introduced to Guam after [World War II](/world-war-ii), eliminated 10 of 12 native forest bird species.
 
-**Climate change** — Shifting temperatures, altered rainfall, rising seas, and ocean acidification force species to adapt, move, or die. Coral reefs — which support 25% of all marine species — are bleaching and dying as ocean temperatures rise. Polar bears, whose sea ice [hunting](/hunting) platforms are disappearing, have become the poster species for climate-driven wildlife decline.
+**[Climate change](/climate-change)** — Shifting temperatures, altered rainfall, rising seas, and ocean acidification force species to adapt, move, or die. Coral reefs — which support 25% of all marine species — are bleaching and dying as ocean temperatures rise. Polar bears, whose sea ice [hunting](/hunting) platforms are disappearing, have become the poster species for climate-driven wildlife decline.
 
 **Pollution** — Pesticides, plastics, light pollution, and noise all affect wildlife. DDT thinned raptor eggshells and nearly eliminated bald eagles and peregrine falcons. Plastic debris kills an estimated 100,000 marine mammals and over a million seabirds annually.
 

@@ -43,7 +43,7 @@ The slide has seven standard positions, spaced roughly 3.5 inches apart. First p
 
 Here's what makes the trombone uniquely expressive: because the slide moves continuously rather than clicking between fixed positions, a trombonist can glide between notes seamlessly. That smooth slide between pitches — the glissando — is the trombone's signature sound effect. It's the reason trombones show up in [comedy](/comedy), [jazz](/jazz-music) solos, and orchestral moments where a composer wants something dramatic or playful.
 
-But that continuous slide is also what makes playing in tune so demanding. A [trumpet](/trumpet) player presses a valve and gets a note. A trombonist has to *find* each note by ear, placing the slide precisely in the right spot — and that spot shifts slightly depending on temperature, the harmonic series, and the player's embouchure. It's like the difference between a piano (fixed pitches) and a [violin](/violin) (the player determines intonation).
+But that continuous slide is also what makes playing in tune so demanding. A [trumpet](/trumpet) player presses a valve and gets a note. A trombonist has to *find* each note by ear, placing the slide precisely in the right spot — and that spot shifts slightly depending on temperature, the harmonic series, and the player's embouchure. It's like the difference between a [piano](/piano) (fixed pitches) and a [violin](/violin) (the player determines intonation).
 
 ## Types of Trombones
 

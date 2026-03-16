@@ -60,7 +60,7 @@ But Darwin's 1859 *On the Origin of Species* laid out the argument with such ove
 
 The consequence? Traits that improve survival and reproduction become more common in the population over generations. The population evolves. No intelligent planner is needed — the process is automatic, driven by the interaction between variation and environmental pressures.
 
-Darwin didn't know how inheritance worked (genetics wouldn't be understood until the 20th century), but his logical framework was so strong that it survived the integration of genetics and emerged even more powerful.
+Darwin didn't know how inheritance worked ([genetics](/genetics) wouldn't be understood until the 20th century), but his logical framework was so strong that it survived the integration of genetics and emerged even more powerful.
 
 ## The Modern Synthesis: Darwin Meets Mendel
 
@@ -68,7 +68,7 @@ Darwin's great frustration was inheritance. He didn't understand how traits were
 
 Gregor Mendel's work on pea plants (published 1866, largely ignored until 1900) solved the problem. Traits are inherited as discrete units (genes) that don't blend. A recessive allele can hide for generations and reappear intact. This means variation is maintained in populations indefinitely — exactly what natural selection needs.
 
-The **Modern Synthesis** of the 1930s-1940s unified Darwinian natural selection with Mendelian genetics, population genetics, and paleontology. Key architects included Theodosius Dobzhansky, Ernst Mayr, Julian Huxley, and George Gaylord Simpson. They showed mathematically how natural selection, acting on genetic variation within populations, could produce the patterns observed in the fossil record and in the geographic distribution of species.
+The **Modern Synthesis** of the 1930s-1940s unified Darwinian natural selection with Mendelian genetics, population genetics, and [paleontology](/paleontology). Key architects included Theodosius Dobzhansky, Ernst Mayr, Julian Huxley, and George Gaylord Simpson. They showed mathematically how natural selection, [acting](/acting) on genetic variation within populations, could produce the patterns observed in the fossil record and in the geographic distribution of species.
 
 Dobzhansky's famous statement — "Nothing in biology makes sense except in the light of evolution" — became the field's unofficial motto. And it's genuinely true. Try to understand antibiotic resistance, cancer, the human immune system, [developmental biology](/developmental-biology), or ecosystems without evolution. You can't. The pieces don't fit together without it.
 
@@ -86,7 +86,7 @@ The process Darwin described: differential survival and reproduction based on he
 
 **Disruptive selection** favors both extremes over the middle. In some bird populations, individuals with either very large or very small bills do better than those with medium bills, potentially leading to population splitting.
 
-**Sexual selection** — Darwin's second great mechanism — favors traits that increase mating success, even at the cost of survival. The peacock's tail, the elk's antlers, the bird of paradise's dance — all products of sexual selection.
+**Sexual selection** — Darwin's second great mechanism — favors traits that increase mating success, even at the cost of survival. The peacock's tail, the elk's antlers, the bird of paradise's [dance](/dance) — all products of sexual selection.
 
 ### Genetic Drift
 
@@ -110,7 +110,7 @@ The movement of genes between populations through migration and interbreeding. G
 
 Adaptations are traits shaped by natural selection to serve specific functions. The eye, the wing, the immune system — these are adaptations. They appear designed because natural selection is a cumulative process: small improvements are retained and built upon over many generations, producing structures of remarkable complexity.
 
-But adaptations are imperfect. They're constrained by evolutionary history (you can't start from scratch — you modify what's already there), by genetic trade-offs (an allele that helps in one way may hurt in another), and by the fact that environments change. What's adaptive today may be maladaptive tomorrow.
+But adaptations are imperfect. They're constrained by evolutionary history (you can't start from scratch — you modify what's already there), by genetic [trade](/trade)-offs (an allele that helps in one way may hurt in another), and by the fact that environments change. What's adaptive today may be maladaptive tomorrow.
 
 The human spine is a good example. It evolved for quadrupedal locomotion and was co-opted for bipedalism without a fundamental redesign. The result? Back pain affects roughly 80% of people at some point in their lives. A good engineer designing a biped from scratch wouldn't produce a spine like ours. But evolution doesn't design from scratch — it modifies existing structures.
 
@@ -124,7 +124,7 @@ Speciation — the splitting of one species into two or more — is what generat
 
 **Parapatric speciation** occurs along environmental gradients, where populations at different ends of the gradient experience different selective pressures.
 
-The species concept itself is surprisingly contentious. The **biological species concept** (groups of actually or potentially interbreeding populations reproductively isolated from other such groups) works well for sexually reproducing animals but fails for asexual organisms, fossils, and hybridizing species. Alternative concepts based on phylogenetics, ecology, or morphology each have strengths and limitations. Frankly, "what is a species?" remains one of evolutionary biology's most productive ongoing arguments.
+The species concept itself is surprisingly contentious. The **biological species concept** (groups of actually or potentially interbreeding populations reproductively isolated from other such groups) works well for sexually reproducing animals but fails for asexual organisms, fossils, and hybridizing species. Alternative concepts based on phylogenetics, [ecology](/ecology), or morphology each have strengths and limitations. Frankly, "what is a species?" remains one of evolutionary biology's most productive ongoing arguments.
 
 ## Evidence for Evolution
 
@@ -154,7 +154,7 @@ Species distributions match evolutionary predictions. Island species resemble ma
 
 We watch evolution happen. Bacteria evolve antibiotic resistance. Insects evolve pesticide resistance. Darwin's finches in the Galapagos evolved measurably larger beaks during a severe drought in 1977 — the Grants documented this in real time over 40 years of field research.
 
-Richard Lenski's Long-Term Evolution Experiment, running since 1988 with *E. coli*, has documented evolution of new metabolic capabilities, increased fitness, and other evolutionary changes over more than 75,000 generations.
+Richard Lenski's Long-Term Evolution Experiment, [running](/running) since 1988 with *E. coli*, has documented evolution of new metabolic capabilities, increased [fitness](/fitness), and other evolutionary changes over more than 75,000 generations.
 
 ## [Human Evolution](/human-evolution)
 
@@ -164,13 +164,13 @@ The hominin fossil record spans roughly 7 million years, from early forms like *
 
 DNA analysis reveals that modern humans share 98.7% of their DNA with chimpanzees — our closest living relatives. Ancient DNA from Neanderthals and Denisovans shows that our ancestors interbred with these closely related species. Most people of non-African descent carry 1-4% Neanderthal DNA.
 
-Human evolution didn't stop when agriculture began. Lactose tolerance evolved independently in multiple populations that domesticated cattle. Malaria resistance (through the sickle cell allele) evolved in populations with high malaria exposure. High-altitude adaptations evolved separately in Tibetans, Andean populations, and Ethiopian highlanders.
+Human evolution didn't stop when [agriculture](/agriculture) began. Lactose tolerance evolved independently in multiple populations that domesticated cattle. Malaria resistance (through the sickle cell allele) evolved in populations with high malaria exposure. High-altitude adaptations evolved separately in Tibetans, Andean populations, and Ethiopian highlanders.
 
 ## Evolution and Medicine
 
 Evolutionary biology isn't just about the past. It has direct medical applications.
 
-**Antibiotic resistance** is evolution in action. Understanding evolutionary dynamics — how resistance spreads, how to slow its evolution — is essential for managing this public health crisis.
+**Antibiotic resistance** is evolution in action. Understanding evolutionary dynamics — how resistance spreads, how to slow its evolution — is essential for managing this [public health](/public-health) crisis.
 
 **Cancer** is an evolutionary process within the body. Tumor cells mutate, compete, and are selected for traits like rapid growth and immune evasion. Evolutionary thinking informs treatment strategies — for example, "adaptive therapy" that maintains drug-sensitive cells to compete with resistant ones, rather than trying to kill all tumor cells and inadvertently selecting for resistance.
 
@@ -192,10 +192,10 @@ A few persistent misunderstandings worth clearing up:
 
 ## The Future of Evolutionary Biology
 
-Genomics, bioinformatics, and [computational biology](/computational-biology) are transforming the field. Whole-genome sequencing makes it possible to track evolution at the DNA level across thousands of species. CRISPR gene editing allows experimental tests of evolutionary hypotheses. Environmental DNA (eDNA) sampling reveals species presence from water or soil samples, enabling large-scale biodiversity monitoring.
+Genomics, bioinformatics, and [computational biology](/computational-biology) are transforming the field. Whole-genome sequencing makes it possible to track evolution at the DNA level across thousands of species. CRISPR gene [editing](/editing) allows experimental tests of evolutionary hypotheses. Environmental DNA (eDNA) sampling reveals species presence from water or soil samples, enabling large-scale biodiversity monitoring.
 
-Evolutionary biology also faces pressing applied challenges: predicting how pathogens evolve, understanding how species respond to climate change, managing [conservation biology](/conservation-biology) efforts informed by population genetics, and applying evolutionary principles to agriculture and medicine.
+Evolutionary biology also faces pressing applied challenges: predicting how pathogens evolve, understanding how species respond to [climate change](/climate-change), managing [conservation biology](/conservation-biology) efforts informed by population genetics, and applying evolutionary principles to agriculture and medicine.
 
 ## Key Takeaways
 
-Evolutionary biology studies how populations change over generations through natural selection, genetic drift, mutation, and gene flow. Darwin's theory of natural selection — that heritable variation, combined with differential survival and reproduction, produces adaptation and species change — remains the central organizing principle of biology. Evidence from fossils, comparative anatomy, molecular biology, biogeography, and direct observation overwhelmingly supports evolution. The Modern Synthesis united Darwinian selection with Mendelian genetics, and ongoing discoveries in genomics, developmental biology, and ecology continue to enrich our understanding. Evolution isn't just an abstract historical science — it has direct applications in medicine, agriculture, and conservation.
+Evolutionary biology studies how populations change over generations through natural selection, genetic drift, mutation, and gene flow. Darwin's theory of natural selection — that heritable variation, combined with differential survival and reproduction, produces adaptation and species change — remains the central organizing principle of biology. Evidence from fossils, comparative anatomy, molecular biology, [biogeography](/biogeography), and direct observation overwhelmingly supports evolution. The Modern Synthesis united Darwinian selection with Mendelian genetics, and ongoing discoveries in genomics, developmental biology, and ecology continue to enrich our understanding. Evolution isn't just an abstract historical science — it has direct applications in medicine, agriculture, and conservation.

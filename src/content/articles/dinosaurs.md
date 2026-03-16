@@ -148,7 +148,7 @@ The longer-term effects were worse. Dust and soot blocked sunlight for months or
 
 About 75% of all species went extinct. All non-avian dinosaurs. All pterosaurs. All large marine reptiles. All ammonites. The survivors included small mammals, small birds, crocodilians, turtles, snakes, amphibians, and many invertebrates—generally smaller animals with lower metabolic demands.
 
-The asteroid hypothesis was proposed by Luis and Walter Alvarez in 1980 based on a global layer of iridium-rich clay at the K-Pg boundary. Iridium is rare on Earth but common in asteroids. The Chicxulub crater was identified in 1991. By the 2010s, after decades of debate, the scientific consensus solidified: the asteroid was the primary cause, though massive volcanic eruptions in India's Deccan Traps likely contributed to environmental stress both before and after the impact.
+The asteroid hypothesis was proposed by Luis and Walter Alvarez in 1980 based on a global layer of iridium-rich clay at the K-Pg boundary. Iridium is rare on Earth but common in asteroids. The Chicxulub crater was identified in 1991. By the 2010s, after decades of [debate](/debate), the scientific consensus solidified: the asteroid was the primary cause, though massive volcanic eruptions in India's Deccan Traps likely contributed to environmental stress both before and after the impact.
 
 ## Dinosaurs as Living Birds
 
@@ -156,7 +156,7 @@ Here's the part that surprises many people: dinosaurs didn't entirely go extinct
 
 The evidence is overwhelming. Shared skeletal features: hollow bones, a wishbone (furcula), three-toed feet. Shared physiological features: air-sac respiratory system, egg-laying. And of course, feathers—which we now know were widespread among theropods, not unique to the bird lineage.
 
-The transition from non-avian theropod to bird was gradual, not sudden. Small, feathered, bipedal dinosaurs with partially hollow bones, wishbones, and respiratory air sacs were running around 150 million years ago. Flight-capable forms appeared by the Late Jurassic or Early Cretaceous. By the time the asteroid hit, birds had already been diversifying for tens of millions of years.
+The transition from non-avian theropod to bird was gradual, not sudden. Small, feathered, bipedal dinosaurs with partially hollow bones, wishbones, and respiratory air sacs were [running](/running) around 150 million years ago. Flight-capable forms appeared by the Late Jurassic or Early Cretaceous. By the time the asteroid hit, birds had already been diversifying for tens of millions of years.
 
 The roughly 10,000 living bird species are the direct legacy of the Mesozoic dinosaurs. The chickadee at your feeder, the crow on your fence, the eagle overhead—all are dinosaurs by any rigorous scientific definition. Dinosaurs are not extinct. They're just much smaller now and can fly.
 
@@ -176,7 +176,7 @@ The roughly 10,000 living bird species are the direct legacy of the Mesozoic din
 
 ## Why Dinosaurs Still Fascinate
 
-There's something about dinosaurs that grips the human imagination in ways few other scientific subjects do. Part of it is sheer drama—giant animals, mass extinction, a mystery buried in stone for millions of years. Part of it is scale—time spans so vast they challenge our ability to comprehend them.
+There's something about dinosaurs that grips the human imagination in ways few other scientific subjects do. Part of it is sheer [drama](/drama)—giant animals, mass extinction, a mystery buried in stone for millions of years. Part of it is scale—time spans so vast they challenge our ability to comprehend them.
 
 But there's something deeper too. Dinosaurs remind us that the world has been radically different from how it is now, and will be radically different again. The planet we walk on once belonged to creatures so different from us they might as well be alien. They ruled for 700 times longer than our species has existed. And then, in geological terms, they vanished overnight.
 

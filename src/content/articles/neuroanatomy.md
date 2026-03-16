@@ -152,7 +152,7 @@ The fundamental signaling cells of the nervous system. Despite enormous variatio
 
 **Dendrites** — branching extensions that receive signals from other neurons. A single neuron may have thousands of dendritic branches, each covered in synaptic contacts.
 
-**Axon** — a single long projection that transmits signals to other neurons. Axon length varies wildly — from less than a millimeter (interneurons in the cortex) to over a meter (motor neurons running from the spinal cord to your toes). The longest cells in the human body are neurons.
+**Axon** — a single long projection that transmits signals to other neurons. Axon length varies wildly — from less than a millimeter (interneurons in the cortex) to over a meter (motor neurons [running](/running) from the spinal cord to your toes). The longest cells in the human body are neurons.
 
 **Myelin sheath** — a fatty insulation around many axons that dramatically increases signal speed. Myelinated axons conduct signals at up to 120 meters per second; unmyelinated axons manage only about 2 meters per second. Diseases that damage myelin — like multiple sclerosis — demonstrate how critical this insulation is.
 
@@ -188,7 +188,7 @@ Traditional neuroanatomy required cadavers. Modern techniques let us study livin
 
 **PET scans** use radioactive tracers to measure metabolic activity, blood flow, or specific receptor distributions. They're particularly valuable for studying [neurochemistry](/neurochemistry) and diagnosing conditions like Alzheimer's.
 
-**Electron microscopy** reveals the ultrastructure of neurons and synapses at nanometer resolution. Projects like the "connectome" efforts at Harvard and Janelia Research Campus are using electron microscopy to map every single synapse in small volumes of brain tissue.
+**[Electron microscopy](/electron-microscopy)** reveals the ultrastructure of neurons and synapses at nanometer resolution. Projects like the "connectome" efforts at Harvard and Janelia Research Campus are using electron microscopy to map every single synapse in small volumes of brain tissue.
 
 ## Clinical Significance
 
@@ -204,7 +204,7 @@ Understanding neuroanatomy also drives research into conditions like Alzheimer's
 
 The most ambitious project in neuroanatomy today is mapping the connectome — the complete wiring diagram of the brain. The only organism whose connectome has been fully mapped is C. elegans, a roundworm with exactly 302 neurons and about 7,000 connections. Even that took over a decade.
 
-Mapping the human connectome at the same resolution would require technology that doesn't quite exist yet. The data involved is staggering — a single cubic millimeter of brain tissue contains roughly 50,000 neurons and 130 million synaptic connections. A complete electron-microscopy-level map of the human brain would require approximately 1.3 exabytes of data.
+Mapping the human connectome at the same resolution would require technology that doesn't quite exist yet. The data involved is staggering — a single cubic millimeter of brain tissue contains roughly 50,000 neurons and 130 million synaptic connections. A complete electron-[microscopy](/microscopy)-level map of the human brain would require approximately 1.3 exabytes of data.
 
 But coarser-grained connectomes are already revealing important patterns. The Human Connectome Project has shown that the brain's wiring follows "small world" network principles — most connections are local, with a few long-range connections that dramatically increase overall connectivity, similar to how airline hub systems work.
 

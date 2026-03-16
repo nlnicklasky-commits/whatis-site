@@ -33,7 +33,7 @@ faq:
 
 # What Is The History of Astronomy?
 
-The history of astronomy is the story of how humans looked up, wondered what they were seeing, and — over about 5,000 years of concerted effort — figured most of it out. It starts with Babylonian priests tracking planetary movements on clay tablets and ends (so far) with a space telescope photographing galaxies that formed 13.4 billion years ago.
+The history of [astronomy](/astronomy) is the story of how humans looked up, wondered what they were seeing, and — over about 5,000 years of concerted effort — figured most of it out. It starts with Babylonian priests tracking planetary movements on clay tablets and ends (so far) with a space telescope photographing galaxies that formed 13.4 billion years ago.
 
 No other science has a longer pedigree. Astronomy is arguably the first science, period — the first systematic attempt to observe natural phenomena, find patterns, and make predictions.
 

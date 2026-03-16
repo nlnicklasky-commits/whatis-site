@@ -35,7 +35,7 @@ faq:
 
 # What Is Global Economics?
 
-Global economics is the study of economic activity, trade, finance, and policy across national borders. It examines how goods, services, capital, and labor move between countries, how exchange rates are determined, how international institutions shape economic rules, and how events in one economy ripple through the rest of the world. In a world where a factory closure in China can affect retail prices in Kansas, global economics is the framework for understanding those connections.
+Global [economics](/economics) is the study of economic activity, [trade](/trade), [finance](/finance), and policy across national borders. It examines how goods, services, capital, and labor move between countries, how exchange rates are determined, how international institutions shape economic rules, and how events in one economy ripple through the rest of the world. In a world where a factory closure in China can affect retail prices in Kansas, global economics is the framework for understanding those connections.
 
 ## Why Borders Matter in Economics
 
@@ -59,11 +59,11 @@ This isn't just theory. Comparative advantage explains why Japan exports cars an
 
 ### What Gets Traded
 
-Global trade includes tangible goods (manufactured products, raw materials, agricultural commodities) and services (finance, consulting, software, tourism). Services trade is growing faster than goods trade and now accounts for about 25% of total global trade.
+Global trade includes tangible goods (manufactured products, raw materials, agricultural commodities) and services (finance, consulting, software, [tourism](/tourism)). Services trade is growing faster than goods trade and now accounts for about 25% of total global trade.
 
 The composition of trade has shifted dramatically. In 1960, raw materials dominated global trade. Today, manufactured goods—especially electronics, vehicles, and machinery—are the largest category. The fastest-growing segment is digital services: software, [cloud computing](/cloud-computing), streaming content, and data processing.
 
-Supply chains have become astonishingly complex. A single smartphone might contain components from 40 different countries. The Boeing 787 Dreamliner has major structural components made in Japan, Italy, and South Korea, assembled in the United States with engines from either Britain or the US. This fragmentation of production across borders—sometimes called "global value chains"—means that trade statistics significantly understate the degree of international economic integration.
+Supply chains have become astonishingly complex. A single smartphone might contain components from 40 different countries. The Boeing 787 Dreamliner has major structural components made in Japan, Italy, and South Korea, assembled in the United States with engines from either Britain or the US. This fragmentation of production across borders—sometimes called "global value chains"—means that trade [statistics](/statistics) significantly understate the degree of international economic integration.
 
 ### Trade Policy: Tariffs, Quotas, and Agreements
 
@@ -137,11 +137,11 @@ Global economics doesn't operate in an institutional vacuum. Several major organ
 
 Created in 1944 at the Bretton Woods Conference, the IMF monitors the global economy, provides technical assistance, and lends to countries facing balance-of-payments crises. It has 190 member countries and lending capacity of about $1 trillion.
 
-The IMF is controversial. Its lending conditions—often requiring fiscal austerity, privatization, and market liberalization—have been criticized for worsening economic pain in crisis countries. Supporters argue these conditions are necessary to restore economic stability. The debate continues.
+The IMF is controversial. Its lending conditions—often requiring fiscal austerity, privatization, and market liberalization—have been criticized for worsening economic pain in crisis countries. Supporters argue these conditions are necessary to restore economic stability. The [debate](/debate) continues.
 
 ### The World Bank
 
-Also created at Bretton Woods, the World Bank provides loans and grants for development projects in low- and middle-income countries. Its focus areas include infrastructure, education, health, and climate adaptation.
+Also created at Bretton Woods, the World Bank provides loans and grants for development projects in low- and middle-income countries. Its focus areas include infrastructure, [education](/education), health, and climate adaptation.
 
 ### The World Trade Organization (WTO)
 
@@ -183,7 +183,7 @@ The answers are complex and debated, but several factors consistently matter:
 
 **Human capital**: Education and health are essential for economic growth. Countries that invest in their people—East Asian economies being the prime example—tend to develop faster.
 
-**Geography**: Access to oceans, navigable rivers, natural resources, and favorable climate affects development. Landlocked countries face higher trade costs. Tropical countries face disease burdens that temperate countries avoid.
+**[Geography](/geography)**: Access to oceans, navigable rivers, natural resources, and favorable climate affects development. Landlocked countries face higher trade costs. Tropical countries face disease burdens that temperate countries avoid.
 
 **Trade openness**: Countries that engage in international trade generally grow faster than those that don't, though the relationship is complicated by institutional quality and the type of goods traded.
 
@@ -195,7 +195,7 @@ Foreign aid's role in development is heavily debated. Total official development
 
 Several trends will shape the global economy in coming decades.
 
-**Climate change** is becoming a major economic variable. The transition from fossil fuels to [renewable energy](/alternative-energy) will reshape trade patterns, create new industries, and strand existing assets. Carbon pricing, border carbon adjustments, and climate finance are becoming central trade policy issues.
+**[Climate change](/climate-change)** is becoming a major economic variable. The transition from fossil fuels to [renewable energy](/alternative-energy) will reshape trade patterns, create new industries, and strand existing assets. Carbon pricing, border carbon adjustments, and climate finance are becoming central trade policy issues.
 
 **Digital transformation** is redefining what's tradeable. Services that once required physical presence—consulting, education, healthcare—can increasingly be delivered digitally across borders. This creates new opportunities but also new challenges for regulation and taxation.
 
@@ -209,4 +209,4 @@ Global economics studies the economic relationships between nations—trade, fin
 
 The field is built on foundational concepts like comparative advantage and shaped by institutions like the IMF, World Bank, and WTO. Globalization has produced enormous aggregate benefits—reducing poverty, lowering prices, expanding choice—while also creating real losers and political backlash.
 
-Understanding global economics matters because no economy operates in isolation. Your job, the prices you pay, the investments you hold, and the policy decisions your government makes are all shaped by forces that cross borders. Whether you're evaluating a trade deal, following [currency markets](/currency-trading), or simply wondering why your coffee costs what it does, global economics provides the analytical framework for making sense of an interconnected world.
+Understanding global economics matters because no economy operates in isolation. Your job, the prices you pay, the investments you hold, and the policy decisions your [government](/government) makes are all shaped by forces that cross borders. Whether you're evaluating a trade deal, following [currency markets](/currency-trading), or simply wondering why your coffee costs what it does, global economics provides the analytical framework for making sense of an interconnected world.

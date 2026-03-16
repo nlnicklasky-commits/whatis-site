@@ -51,7 +51,7 @@ Neither Kierkegaard nor Nietzsche used the word "existentialism." That came late
 
 ## The 20th Century Explosion
 
-Existentialism really took off in the 1940s and 1950s, mostly in France. [World War II](/world-war-ii) had just demonstrated — in the most visceral way imaginable — that civilization's guarantees were fragile. The Holocaust, the atomic bomb, the sheer scale of destruction. People were ready for a philosophy that acknowledged absurdity and confronted meaninglessness head-on.
+Existentialism really took off in the 1940s and 1950s, mostly in France. [World War II](/world-war-ii) had just demonstrated — in the most visceral way imaginable — that civilization's guarantees were fragile. The Holocaust, the atomic bomb, the sheer scale of destruction. People were ready for a [philosophy](/philosophy) that acknowledged absurdity and confronted meaninglessness head-on.
 
 **Jean-Paul Sartre** became the public face of existentialism. His 1943 work *Being and Nothingness* laid out the philosophical foundations, but it was his 1946 lecture "Existentialism Is a [Humanism](/humanism)" that made the ideas accessible. Sartre emphasized radical freedom, personal responsibility, and "bad faith" — his term for the self-deception people use to avoid confronting their freedom.
 

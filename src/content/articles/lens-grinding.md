@@ -41,9 +41,9 @@ Every telescope that has revealed a distant galaxy, every microscope that has ex
 
 ## A Technology That Changed Everything
 
-It's hard to overstate what lens grinding made possible. Before precision optics, the universe beyond unaided human vision was simply invisible. We didn't know bacteria existed. We didn't know Jupiter had moons. We didn't know our own blood was full of tiny cells.
+It's hard to overstate what lens grinding made possible. Before precision [optics](/optics), the universe beyond unaided human vision was simply invisible. We didn't know bacteria existed. We didn't know Jupiter had moons. We didn't know our own blood was full of tiny cells.
 
-The [invention](/invention) of eyeglasses in 13th-century Italy—likely in Florence or Venice around 1286—was the first major application of ground lenses. Early spectacles used convex lenses to help farsighted readers, typically monks and scholars. The ability to continue reading and writing past age 40 had enormous implications for scholarship and administration. One historian estimated that eyeglasses effectively doubled the productive working life of literate Europeans.
+The [invention](/invention) of eyeglasses in 13th-century Italy—likely in Florence or Venice around 1286—was the first major application of ground lenses. Early spectacles used convex lenses to help farsighted readers, typically monks and scholars. The ability to continue reading and [writing](/writing) past age 40 had enormous implications for scholarship and administration. One historian estimated that eyeglasses effectively doubled the productive working life of literate Europeans.
 
 The telescope appeared around 1608, when Dutch spectacle maker Hans Lippershey (and possibly others independently) combined lenses to magnify distant objects. Galileo Galilei built his own improved version in 1609 and promptly discovered the moons of Jupiter, the phases of Venus, craters on the Moon, and countless stars invisible to the naked eye. Within a few decades, the geocentric model of the universe collapsed, and [astronomy](/astronomy) was transformed forever.
 

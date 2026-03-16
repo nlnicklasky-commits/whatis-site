@@ -41,7 +41,7 @@ Web design is the process of planning, conceptualizing, and arranging content fo
 
 ## A Quick History of Designing for the Web
 
-The first website went live in 1991 at CERN, and honestly, it was just a wall of text with hyperlinks. No images, no styling, no design to speak of. For the first few years of the web, nobody thought much about aesthetics because the technology barely supported anything beyond plain text.
+The first website went live in 1991 at CERN, and honestly, it was just a wall of text with hyperlinks. No images, no styling, no design to speak of. For the first few years of the web, nobody thought much about [aesthetics](/aesthetics) because the technology barely supported anything beyond plain text.
 
 That changed around 1996 when CSS (Cascading Style Sheets) entered the picture. Suddenly, designers could separate a page's content from its presentation. Before CSS, styling was done inline with HTML tags like `<font>` and `<center>` -- a nightmare to maintain. CSS opened the door to actual design thinking on the web.
 
@@ -49,7 +49,7 @@ The early 2000s brought table-based layouts, Flash animations, and some truly qu
 
 By 2007, the iPhone launched and everything shifted. Designers suddenly had to think about screens that fit in your pocket. The concept of responsive design, formally introduced by Ethan Marcotte in 2010, became non-negotiable. And frankly, it made everyone better at their jobs because it forced clarity and simplicity.
 
-Today, web design draws from decades of print design tradition, user psychology research, and a constantly evolving set of tools and standards maintained by organizations like the W3C.
+Today, web design draws from decades of print design tradition, user [psychology](/psychology) research, and a constantly evolving set of tools and standards maintained by organizations like the W3C.
 
 ## The Core Principles Every Designer Should Know
 
@@ -63,7 +63,7 @@ Visual hierarchy is achieved through size, color, contrast, spacing, and positio
 
 ### Typography
 
-Typography on the web has come a long way since the days when you were limited to Arial, Times New Roman, and Verdana. Google Fonts alone offers over 1,500 font families for free, and services like Adobe Fonts expand the options further.
+[Typography](/typography) on the web has come a long way since the days when you were limited to Arial, Times New Roman, and Verdana. Google Fonts alone offers over 1,500 font families for free, and services like Adobe Fonts expand the options further.
 
 But here's what most people miss: good typography isn't about finding a cool font. It's about readability. Line height (the space between lines of text) should typically be 1.4 to 1.6 times the font size. Line length should stay between 50 and 75 characters for comfortable reading. Font size for body text should be at least 16 pixels on screens -- anything smaller and your readers are squinting.
 
@@ -97,7 +97,7 @@ Frameworks like Bootstrap popularized the 12-column grid and made it accessible 
 
 ### Flexbox
 
-Where CSS Grid handles two-dimensional layouts, Flexbox handles one-dimensional arrangements -- either a row or a column. It's perfect for navigation bars, card layouts, and centering elements (which, believe it or not, was hilariously difficult in CSS for years).
+Where CSS Grid handles two-dimensional layouts, Flexbox handles one-dimensional arrangements -- either a row or a column. It's perfect for [navigation](/navigation) bars, card layouts, and centering elements (which, believe it or not, was hilariously difficult in CSS for years).
 
 ### Common Layout Patterns
 
@@ -126,9 +126,9 @@ The mobile-first approach -- designing for the smallest screen first and then ad
 
 These two terms get thrown around interchangeably, but they're different things.
 
-**User Interface (UI) design** is about the visual and interactive elements: buttons, icons, forms, menus, typography, color. It's the surface layer -- what users see and touch.
+**[User Interface (UI) design](/user-interface-ui-design)** is about the visual and interactive elements: buttons, icons, forms, menus, typography, color. It's the surface layer -- what users see and touch.
 
-**User Experience (UX) design** is about the entire journey: how users find the site, what they're trying to accomplish, how easily they can accomplish it, and how they feel afterward. UX includes research, testing, [information architecture](/information-architecture), wireframing, and iteration.
+**[User Experience (UX) design](/user-experience-ux-design)** is about the entire journey: how users find the site, what they're trying to accomplish, how easily they can accomplish it, and how they feel afterward. UX includes research, testing, [information architecture](/information-architecture), wireframing, and iteration.
 
 A site can have a beautiful UI and terrible UX. Imagine a gorgeous online store where the checkout process takes 12 steps and crashes on mobile. The UI designers nailed it; the UX designers failed.
 
@@ -214,7 +214,7 @@ Trends come and go, but some recent shifts reflect genuine improvements in how w
 
 Web design offers several career trajectories depending on your interests and strengths.
 
-**Freelance web designer**: You work directly with clients, handling everything from initial consultation to final delivery. The freedom is appealing, but you're also doing sales, [project management](/project-management), and accounting. Freelance web designers in the U.S. earn between $50,000 and $100,000+ annually depending on experience and specialization.
+**Freelance web designer**: You work directly with clients, handling everything from initial consultation to final delivery. The freedom is appealing, but you're also doing sales, [project management](/project-management), and [accounting](/accounting). Freelance web designers in the U.S. earn between $50,000 and $100,000+ annually depending on experience and specialization.
 
 **In-house designer**: You work for a single company, maintaining and improving their web presence. The stability is nice, and you get to deeply understand one brand and audience. Salaries range from $55,000 to $95,000 at mid-level.
 
@@ -229,7 +229,7 @@ If you're interested in learning web design, here's a practical roadmap:
 1. **Learn the fundamentals of visual design**: Understand hierarchy, contrast, alignment, repetition, and proximity. These principles apply to all design, not just the web.
 2. **Get comfortable with HTML and CSS**: You don't need to become a [programmer](/web-development), but understanding the medium you're designing for is essential. MDN Web Docs is the best free resource.
 3. **Pick a design tool and learn it well**: Figma is the strongest choice right now due to its industry adoption and free tier.
-4. **Study existing websites**: Sites like Awwwards and Dribbble showcase excellent web design. But also study ordinary websites -- the ones people actually use every day, like Wikipedia, Amazon, and government sites. Notice what works and what doesn't.
+4. **Study existing websites**: Sites like Awwwards and Dribbble showcase excellent web design. But also study ordinary websites -- the ones people actually use every day, like Wikipedia, Amazon, and [government](/government) sites. Notice what works and what doesn't.
 5. **Build projects**: Design a portfolio site, a landing page, a blog layout. Real practice beats tutorials every time.
 6. **Learn about accessibility and performance**: These aren't optional extras -- they're fundamental skills that will set you apart from designers who only think about aesthetics.
 

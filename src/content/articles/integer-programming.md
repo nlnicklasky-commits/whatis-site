@@ -35,9 +35,9 @@ faq:
 
 # What Is Integer Programming?
 
-Integer programming is a type of mathematical optimization where some or all of the decision variables are restricted to whole numbers. That restriction — which sounds minor — actually makes problems dramatically harder to solve than their continuous counterparts, and it's also what makes integer programming so useful for real-world decisions.
+Integer programming is a type of mathematical [optimization](/optimization) where some or all of the decision variables are restricted to whole numbers. That restriction — which sounds minor — actually makes problems dramatically harder to solve than their continuous counterparts, and it's also what makes integer programming so useful for real-world decisions.
 
-Think about it this way. If you're deciding how many trucks to send on delivery routes, the answer needs to be a whole number. You can't send 3.7 trucks. If you're deciding whether to build a factory at a particular location, the answer is yes or no — 1 or 0. If you're scheduling airline crews, each pilot is a complete human being, not a fraction of one.
+Think about it this way. If you're deciding how many trucks to send on delivery routes, the answer needs to be a whole number. You can't send 3.7 trucks. If you're deciding whether to build a factory at a particular location, the answer is yes or no — 1 or 0. If you're [scheduling](/scheduling) airline crews, each pilot is a complete human being, not a fraction of one.
 
 These are the kinds of problems integer programming was built to solve.
 
@@ -83,7 +83,7 @@ Solving integer programs requires sophisticated algorithms. The two most importa
 
 ### Branch and Bound
 
-Branch and bound works by systematically exploring the space of possible solutions, pruning away regions that can't contain the optimal solution.
+Branch and bound works by systematically exploring the space of possible solutions, [pruning](/pruning) away regions that can't contain the optimal solution.
 
 Start by solving the LP relaxation (ignoring integer constraints). If the solution happens to be all integers, you're done — that's your answer. Usually it won't be. So you pick a variable with a fractional value (say, x₁ = 3.7) and create two subproblems: one where x₁ ≤ 3 and one where x₁ ≥ 4. Each subproblem is solved as an LP.
 
@@ -109,7 +109,7 @@ The progress in solver technology has been extraordinary. A problem that took 1 
 
 For problems too large or too difficult to solve optimally, heuristic methods find good (but not provably optimal) solutions quickly. Common approaches include:
 
-**Greedy heuristics** make the locally best choice at each step. Fast but often suboptimal.
+**Greedy [heuristics](/heuristics)** make the locally best choice at each step. Fast but often suboptimal.
 
 **Local search** starts with a feasible solution and iteratively improves it by making small changes. Simulated annealing, tabu search, and genetic [algorithms](/algorithms) are variations on this theme.
 
@@ -119,7 +119,7 @@ In practice, many real-world integer programs are solved using a combination of 
 
 ## Formulation: The Art of Modeling
 
-The real skill in integer programming isn't running the solver — it's formulating the model. The same real-world problem can be expressed as different mathematical programs, and some formulations solve dramatically faster than others.
+The real skill in integer programming isn't [running](/running) the solver — it's formulating the model. The same real-world problem can be expressed as different mathematical programs, and some formulations solve dramatically faster than others.
 
 ### Decision Variables
 
@@ -169,11 +169,11 @@ Power grid operators use mixed-integer programming for unit commitment — decid
 
 ### Finance
 
-Portfolio optimization with minimum lot sizes (you can't buy half a share — well, now you can, but traditionally you couldn't), cardinality constraints (hold at most 20 stocks), and transaction costs all require integer variables. Capital budgeting — choosing which projects to fund given a limited budget — is a textbook binary programming problem and a practical application of [financial modeling](/financial-modeling).
+Portfolio optimization with minimum lot sizes (you can't buy half a share — well, now you can, but traditionally you couldn't), cardinality constraints (hold at most 20 stocks), and transaction costs all require integer variables. Capital [budgeting](/budgeting) — choosing which projects to fund given a limited budget — is a textbook binary programming problem and a practical application of [financial modeling](/financial-modeling).
 
 ## The Computational Frontier
 
-Integer programming sits at the intersection of mathematics, [computer science](/computer-science), and [applied mathematics](/applied-mathematics). Several research frontiers are pushing the field forward.
+Integer programming sits at the intersection of [mathematics](/mathematics), [computer science](/computer-science), and [applied mathematics](/applied-mathematics). Several research frontiers are pushing the field forward.
 
 ### Decomposition Methods
 
@@ -187,7 +187,7 @@ Branch-and-bound trees are naturally parallelizable — different processors can
 
 This is the hot frontier. Can [machine learning](/machine-learning) learn to make better decisions within integer programming solvers? Which variable should we branch on? Which cuts should we generate? When should we switch from cutting to branching? ML models trained on thousands of solved instances can predict good answers to these questions, potentially accelerating solving by orders of magnitude.
 
-Google's DeepMind published influential work in 2021 showing that neural networks could learn branching strategies that outperformed hand-crafted heuristics. This area is evolving rapidly.
+Google's DeepMind published influential work in 2021 showing that [neural networks](/neural-networks) could learn branching strategies that outperformed hand-crafted heuristics. This area is evolving rapidly.
 
 ### [Quantum Computing](/quantum-computing)
 
@@ -197,7 +197,7 @@ Certain optimization problems map naturally onto quantum computing architectures
 
 If you want to get into integer programming, here's a practical path.
 
-**Start with linear programming.** You need to understand LP before IP makes sense. Any [operations research](/operations-research) textbook covers the basics — the simplex method, duality, sensitivity analysis. [Calculus](/calculus) and linear algebra background helps but isn't strictly necessary for applied work.
+**Start with linear programming.** You need to understand LP before IP makes sense. Any [operations research](/operations-research) textbook covers the basics — the simplex method, duality, sensitivity analysis. [Calculus](/calculus) and [linear algebra](/linear-algebra) background helps but isn't strictly necessary for applied work.
 
 **Learn to formulate models.** The skill of translating a word problem into mathematical variables, constraints, and an objective function is the core competency. Practice with classic problems: knapsack, assignment, traveling salesman, facility location.
 
@@ -209,6 +209,6 @@ If you want to get into integer programming, here's a practical path.
 
 Integer programming is a mathematical optimization technique that handles problems where decision variables must be whole numbers — representing real-world constraints like yes/no decisions, indivisible resources, and discrete choices. It's dramatically harder to solve than continuous linear programming due to its combinatorial nature, but modern algorithms and solvers have made previously intractable problems routinely solvable.
 
-The field is the foundation of logistics, scheduling, network design, energy systems, and [financial planning](/financial-planning) across every major industry. Solver technology has improved by a factor of roughly 2 million through algorithmic advances alone over the past three decades, and integration with machine learning promises further acceleration.
+The field is the foundation of [logistics](/logistics), scheduling, network design, energy systems, and [financial planning](/financial-planning) across every major industry. Solver technology has improved by a factor of roughly 2 million through algorithmic advances alone over the past three decades, and integration with machine learning promises further acceleration.
 
 If optimization interests you, integer programming is where theory meets practice in the most impactful way. The problems are mathematically deep, computationally challenging, and practically everywhere.

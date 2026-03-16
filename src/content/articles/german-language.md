@@ -47,9 +47,9 @@ The story of German is really the story of Europe. Wars, religious upheavals, po
 
 **Old High German (circa 500-1050 CE)** was spoken during the early medieval period. It wasn't one language but a collection of dialects. The most important written records from this period include religious texts, glossaries, and the *Hildebrandslied*—a heroic poem about a father and son who meet on opposite sides of a battlefield. The language looks almost unrecognizable to modern German speakers: "Ik gihorta dat seggen" ("I heard it said") shares structure with modern German but the vocabulary has shifted dramatically.
 
-**Middle High German (circa 1050-1350)** was the language of medieval courtly literature. This is the period of the *Nibelungenlied* (the Germanic epic that inspired Wagner's Ring Cycle), the Minnesanger (courtly love poets), and significant literary production. The language was closer to modern German but still very different—no standardized spelling, no standard grammar, enormous dialect variation.
+**Middle High German (circa 1050-1350)** was the language of medieval courtly [literature](/literature). This is the period of the *Nibelungenlied* (the Germanic epic that inspired Wagner's Ring Cycle), the Minnesanger (courtly love poets), and significant literary production. The language was closer to modern German but still very different—no standardized spelling, no standard [grammar](/grammar), enormous dialect variation.
 
-**Early New High German (circa 1350-1650)** was the critical transition period. Two developments shaped the modern language more than anything else: the invention of the printing press and Martin Luther's Bible [translation](/translation).
+**Early New High German (circa 1350-1650)** was the critical transition period. Two developments shaped the modern language more than anything else: the [invention](/invention) of the printing press and Martin Luther's Bible [translation](/translation).
 
 ### Luther and the Printing Press
 
@@ -73,7 +73,7 @@ But cases have an advantage: word order becomes more flexible. Because case endi
 
 ### Three Grammatical Genders
 
-Every German noun has a grammatical gender: masculine (der), feminine (die), or neuter (das). Sometimes the gender follows logic—der Mann (the man) is masculine, die Frau (the woman) is feminine. Often it doesn't—das Madchen (the girl) is neuter because the diminutive suffix *-chen* always triggers neuter gender, regardless of the noun's meaning.
+Every German noun has a grammatical gender: masculine (der), feminine (die), or neuter (das). Sometimes the gender follows [logic](/logic)—der Mann (the man) is masculine, die Frau (the woman) is feminine. Often it doesn't—das Madchen (the girl) is neuter because the diminutive suffix *-chen* always triggers neuter gender, regardless of the noun's meaning.
 
 Mark Twain famously complained about this in his essay "The Awful German Language": "In German, a young lady has no sex, while a turnip has." He wasn't wrong. Gender assignment in German follows patterns, but those patterns have so many exceptions that learners essentially have to memorize the gender of every noun individually.
 
@@ -95,11 +95,11 @@ And then there are separable verbs—verbs that split in two, with the prefix fl
 
 ## The Dialect Field
 
-Standard German (Hochdeutsch) is what's taught in schools and used in media, government, and formal settings. But spoken German varies enormously by region. The dialect diversity is so extreme that speakers from different regions can genuinely struggle to understand each other.
+Standard German (Hochdeutsch) is what's taught in schools and used in media, [government](/government), and formal settings. But spoken German varies enormously by region. The dialect diversity is so extreme that speakers from different regions can genuinely struggle to understand each other.
 
 ### High German vs. Low German
 
-The fundamental divide in German dialects runs east-west across central Germany. South of this line, speakers use "High German" dialects (named for the highland geography, not prestige). North of it, they use "Low German" (Plattdeutsch) dialects.
+The fundamental divide in German dialects runs east-west across central Germany. South of this line, speakers use "High German" dialects (named for the highland [geography](/geography), not prestige). North of it, they use "Low German" (Plattdeutsch) dialects.
 
 The difference goes back to the High German consonant shift, a sound change that occurred around 500-700 CE. High German dialects shifted certain consonants—p became pf or f, t became ts or s, k became ch. Low German dialects didn't make these changes. This is why the English word "water" (from Low German/Anglo-Saxon) corresponds to German "Wasser"—the t shifted to ss in High German.
 
@@ -109,7 +109,7 @@ Low German is sometimes classified as a separate language rather than a dialect 
 
 **Bavarian** (Bairisch) is spoken in Bavaria and Austria. It differs significantly from standard German in pronunciation, vocabulary, and grammar. A Bavarian speaker saying "I don't know" would say "I woass ned" rather than standard "Ich weiss nicht."
 
-**Alemannic** covers southwestern Germany, German-speaking Switzerland, and parts of Austria. Swiss German (Schweizerdeutsch) is an Alemannic dialect so distinct that German media programs from Switzerland are often subtitled for German audiences. Swiss German speakers use standard German for writing but Schweizerdeutsch for speaking—a classic example of diglossia.
+**Alemannic** covers southwestern Germany, German-speaking Switzerland, and parts of Austria. Swiss German (Schweizerdeutsch) is an Alemannic dialect so distinct that German media programs from Switzerland are often subtitled for German audiences. Swiss German speakers use standard German for [writing](/writing) but Schweizerdeutsch for speaking—a classic example of diglossia.
 
 **Saxon** (Sachsisch) is spoken in central-eastern Germany. It carries unfortunate social stigma within Germany—surveys consistently rank it as the least prestigious dialect, despite its historical importance (Luther based his Bible translation partly on Saxon administrative language).
 
@@ -127,7 +127,7 @@ Austrian German is the official language of Austria and has its own recognized s
 
 Swiss German-speaking Switzerland presents a unique linguistic situation. Written German follows a Swiss standard (similar to German standard but with differences—notably, Switzerland doesn't use the letter sharp-s, writing "ss" instead). Spoken language is Schweizerdeutsch, which varies from canton to canton and is essentially a family of Alemannic dialects.
 
-The Swiss situation shows how language, identity, and politics intertwine. Switzerland has four official languages (German, French, Italian, Romansh), and multilingualism is a core part of national identity. Swiss German speakers learn standard German in school almost as a foreign language.
+The Swiss situation shows how language, identity, and [politics](/politics) intertwine. Switzerland has four official languages (German, French, Italian, Romansh), and multilingualism is a core part of national identity. Swiss German speakers learn standard German in school almost as a foreign language.
 
 ### Historical Communities
 
@@ -135,13 +135,13 @@ German-speaking communities exist worldwide due to historical migration. The Pen
 
 ## German in Science and Culture
 
-German's influence on [intellectual history](/intellectual-history) is enormous. For centuries, German was *the* language of science, philosophy, and music.
+German's influence on [intellectual history](/intellectual-history) is enormous. For centuries, German was *the* language of science, [philosophy](/philosophy), and music.
 
 ### Scientific German
 
 Before [World War II](/world-war-ii), German was arguably the most important language of science. Einstein published in German. Max Planck, Werner Heisenberg, Erwin Schrodinger—the founders of [quantum mechanics](/quantum-mechanics)—worked and published in German. The periodic table uses German-derived element names (Wolfram for tungsten, Kalium for potassium).
 
-The shift to English as science's dominant language is a 20th-century phenomenon, driven largely by World War II and America's subsequent scientific dominance. But German remains significant in specific fields—particularly [chemistry](/chemistry), [philosophy](/aesthetics), musicology, and theology.
+The shift to English as science's dominant language is a 20th-century phenomenon, driven largely by World War II and America's subsequent scientific dominance. But German remains significant in specific fields—particularly [chemistry](/chemistry), [philosophy](/aesthetics), musicology, and [theology](/theology).
 
 ### Philosophy
 
@@ -149,7 +149,7 @@ German is the language of Kant, Hegel, Nietzsche, Marx, Heidegger, and Wittgenst
 
 ### Music and Literature
 
-German is the language of Bach, Beethoven, Mozart, Wagner, Brahms, and Strauss. Opera and classical vocal music have deep German roots—lieder (art songs) are a distinctly German musical form. Understanding German enriches the experience of this vast musical tradition.
+German is the language of Bach, Beethoven, Mozart, Wagner, Brahms, and Strauss. [Opera](/opera) and classical vocal music have deep German roots—lieder (art songs) are a distinctly German musical form. Understanding German enriches the experience of this vast musical tradition.
 
 German literature—from Goethe and Schiller through Thomas Mann, Franz Kafka (who wrote in German though he lived in Prague), and Gunter Grass—ranks among the world's richest. The Brothers Grimm didn't just collect [fairy tales](/fairy-tales); they also created the first major German dictionary, a project so enormous it wasn't completed until 1961—over a century after they started.
 
@@ -183,7 +183,7 @@ German's global position has shifted. It's no longer the dominant language of sc
 
 **Economically**, Germany has the world's fourth-largest economy. German is the language of major global companies—Volkswagen, Siemens, SAP, BASF, BMW, Bosch. In European business, German is often more useful than French or Spanish because of Germany's economic weight.
 
-**Academically**, Germany is the third-most-popular destination for international students (after the US and UK). German universities produce significant research, particularly in [engineering](/engineering), [chemistry](/chemistry), physics, and medicine.
+**Academically**, Germany is the third-most-popular destination for international students (after the US and UK). German universities produce significant research, particularly in [engineering](/engineering), [chemistry](/chemistry), [physics](/physics), and medicine.
 
 **Digitally**, German is the second-most-used language on the internet (by number of websites), after English. Wikipedia's German edition is the second-largest.
 
@@ -193,9 +193,9 @@ German's global position has shifted. It's no longer the dominant language of sc
 
 Languages evolve constantly, and German is no exception. Modern German absorbs English loanwords at a rapid rate—*Computer*, *Software*, *Meeting*, *Team*, *Stress*, *Job*, *cool*. Language purists object; everyday speakers adopt them without hesitation.
 
-The Rechtschreibreform (spelling reform) of 1996 simplified some German spelling rules and sparked heated public debate. Germans take their language personally—few topics generate more passionate letters to newspapers than proposed changes to orthography.
+The Rechtschreibreform (spelling reform) of 1996 simplified some German spelling rules and sparked heated public [debate](/debate). Germans take their language personally—few topics generate more passionate letters to newspapers than proposed changes to orthography.
 
-Dialectal diversity is declining as standard German, spread by media and education, replaces local varieties. Young people in many regions speak standard German as their primary language and may understand but not actively use their grandparents' dialect. Whether this represents a natural evolution or a cultural loss depends on your perspective.
+Dialectal diversity is declining as standard German, spread by media and [education](/education), replaces local varieties. Young people in many regions speak standard German as their primary language and may understand but not actively use their grandparents' dialect. Whether this represents a natural evolution or a cultural loss depends on your perspective.
 
 What's certain is that German remains a major world language—the native language of approximately 95 million people, an official language of six countries, and a language of significant cultural, economic, and scientific importance. Its compound words may intimidate, its cases may confuse, but its precision, expressiveness, and deep cultural heritage make it one of the most rewarding languages to learn.
 

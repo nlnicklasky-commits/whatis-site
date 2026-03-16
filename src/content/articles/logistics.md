@@ -45,7 +45,7 @@ Global logistics is a roughly $10 trillion industry — yes, trillion — repres
 
 When logistics works, nobody notices. When it breaks, everyone does. The COVID-19 pandemic made this viscerally clear: empty store shelves, months-long waits for [electronics](/electronics), skyrocketing shipping costs, and a global "supply chain crisis" that dominated headlines for over a year.
 
-The 2021 Suez Canal blockage by the Ever Given container ship — a single vessel stuck sideways in a canal — disrupted an estimated $9.6 billion in trade per day and created ripple effects lasting months. That's how interconnected and fragile the global logistics network can be.
+The 2021 Suez Canal blockage by the Ever Given container ship — a single vessel stuck sideways in a canal — disrupted an estimated $9.6 billion in [trade](/trade) per day and created ripple effects lasting months. That's how interconnected and fragile the global logistics network can be.
 
 ## The Core Components
 
@@ -77,11 +77,11 @@ Warehouses aren't just empty buildings where stuff sits. Modern warehouses are s
 
 ### [Inventory Management](/inventory-management)
 
-Inventory is money sitting on shelves. Too much inventory ties up capital and risks obsolescence. Too little means stockouts — lost sales and unhappy customers. Getting the balance right is one of the central challenges in logistics.
+Inventory is money sitting on shelves. Too much inventory ties up capital and risks obsolescence. Too little means stockouts — lost [sales](/sales) and unhappy customers. Getting the balance right is one of the central challenges in logistics.
 
 **Just-in-time (JIT)** inventory minimizes stock by coordinating deliveries to arrive exactly when needed. Toyota pioneered this approach, and it revolutionized manufacturing. But JIT is vulnerable to disruption — when supply chains broke during COVID-19, companies with JIT systems had no buffer.
 
-**Safety stock** is extra inventory held as insurance against demand spikes or supply disruptions. The optimal safety stock level depends on demand variability, lead time variability, and the cost of stockouts versus holding costs. This is a classic [data analysis](/data-analysis) problem.
+**Safety stock** is extra inventory held as [insurance](/insurance) against demand spikes or supply disruptions. The optimal safety stock level depends on demand variability, lead time variability, and the cost of stockouts versus holding costs. This is a classic [data analysis](/data-analysis) problem.
 
 **ABC analysis** categorizes inventory by value: "A" items (top 20% of products generating 80% of revenue) get the most attention, "B" items get moderate management, and "C" items get basic oversight. Not all products deserve the same logistics investment.
 
@@ -134,7 +134,7 @@ This is why the logistics industry has consolidated significantly. UPS, FedEx, D
 
 ### Automation and Robotics
 
-Modern warehouses increasingly use robots. Amazon operates over 750,000 robots in its fulfillment centers. These aren't humanoid robots — they're mostly autonomous mobile robots (AMRs) that carry shelves of products to human pickers, reducing walking time by 50% or more.
+Modern warehouses increasingly use robots. Amazon operates over 750,000 robots in its fulfillment centers. These aren't humanoid robots — they're mostly autonomous mobile robots (AMRs) that carry shelves of products to human pickers, reducing [walking](/walking) time by 50% or more.
 
 Automated storage and retrieval systems (AS/RS) use cranes and conveyors to store and retrieve items in high-density configurations. Goods-to-person systems bring products directly to workers instead of workers walking to products.
 
@@ -181,7 +181,7 @@ The economics of last-mile delivery are why "free shipping" is never actually fr
 
 ## Reverse Logistics: The Return Trip
 
-Products don't just flow one direction. Returns, recalls, recycling, and disposal create a "reverse" logistics flow that many companies handle poorly.
+Products don't just flow one direction. Returns, recalls, [recycling](/recycling), and disposal create a "reverse" logistics flow that many companies handle poorly.
 
 E-commerce return rates average 20-30% — meaning for every 10 items shipped, 2-3 come back. Processing a return costs $10-20 per item for inspection, restocking, and resale (or disposal). In 2023, U.S. retail returns exceeded $740 billion in merchandise value.
 

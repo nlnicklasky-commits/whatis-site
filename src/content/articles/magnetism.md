@@ -97,7 +97,7 @@ Speaking of levitation: diamagnetic levitation of living things is possible. In 
 
 ## Electromagnetism: Electricity and Magnetism United
 
-One of the greatest discoveries in physics: electricity and magnetism are two aspects of the same force.
+One of the greatest discoveries in [physics](/physics): electricity and magnetism are two aspects of the same force.
 
 ### Oersted's Discovery
 
@@ -109,7 +109,7 @@ In 1820, Hans Christian Oersted noticed that a compass needle deflected when pla
 
 In 1831, Michael Faraday discovered the reverse: a changing magnetic field induces an electric current in a conductor. Move a magnet through a coil of wire, and current flows. Stop moving it, and the current stops. Change it faster, and more current flows.
 
-**Faraday's law of induction** is the principle behind electric generators, transformers, and induction cooking. Every power plant in the world — coal, nuclear, hydroelectric, wind — works by spinning magnets near coils of wire to generate electricity. The details differ, but the underlying physics is Faraday's law.
+**Faraday's law of induction** is the principle behind electric generators, transformers, and induction [cooking](/cooking). Every power plant in the world — coal, nuclear, hydroelectric, wind — works by spinning magnets near coils of wire to generate electricity. The details differ, but the underlying physics is Faraday's law.
 
 ### Maxwell's Equations
 
@@ -117,7 +117,7 @@ James Clerk Maxwell unified electricity and magnetism into a single theoretical 
 
 Maxwell's equations predicted that changing electric and magnetic fields could sustain each other in a self-propagating wave — and calculated that this wave would travel at the speed of light. His conclusion: light itself is an electromagnetic wave. This was confirmed experimentally by Heinrich Hertz in 1887.
 
-The implications were staggering. Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays are all electromagnetic waves — magnetic and electric fields oscillating together, differing only in frequency. Maxwell's equations unified optics with electricity and magnetism in one of the most elegant theoretical achievements in the history of [physics](/classical-mechanics).
+The implications were staggering. Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays are all electromagnetic waves — magnetic and electric fields oscillating together, differing only in frequency. Maxwell's equations unified [optics](/optics) with electricity and magnetism in one of the most elegant theoretical achievements in the history of [physics](/classical-mechanics).
 
 ## Earth's Magnetic Field
 
@@ -135,7 +135,7 @@ We know the field is currently weakening — it's declined about 9% over the pas
 
 Many animals use Earth's magnetic field for navigation. Migratory birds, sea turtles, salmon, lobsters, and even bacteria (magnetotactic bacteria contain tiny magnetite crystals) orient themselves using geomagnetic cues. How exactly they sense the field remains an active area of research — leading hypotheses involve either magnetite-based receptors or quantum effects in cryptochrome molecules in the eyes.
 
-Humans have used magnetic compasses for navigation since at least the 11th century CE in China and the 12th century in Europe. The compass — a magnetized needle free to rotate — aligns with Earth's field, pointing roughly north. This simple technology enabled the Age of Exploration and the expansion of global trade.
+Humans have used magnetic compasses for navigation since at least the 11th century CE in China and the 12th century in Europe. The compass — a magnetized needle free to rotate — aligns with Earth's field, pointing roughly north. This simple technology enabled the Age of Exploration and the expansion of global [trade](/trade).
 
 ## Applications of Magnetism
 

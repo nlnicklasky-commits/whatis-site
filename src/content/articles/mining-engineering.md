@@ -61,7 +61,7 @@ Because most deposits are buried, exploration relies heavily on geophysical meth
 
 - **Magnetic surveys** detect iron-bearing minerals and map geological structures.
 - **Gravity surveys** identify dense ore bodies (like massive sulfide deposits).
-- **Electromagnetic surveys** detect conductive mineralization (sulfide minerals conduct electricity).
+- **Electromagnetic surveys** detect conductive mineralization (sulfide minerals conduct [electricity](/electricity)).
 - **Seismic surveys** image subsurface structures, similar to how they're used in oil exploration.
 
 Modern airborne surveys can cover thousands of square kilometers in days, producing detailed maps of subsurface geology without drilling a single hole.
@@ -74,7 +74,7 @@ The cost is substantial. A single deep drill hole can cost $100,000 or more. A f
 
 ## Mine Design: Getting It Out
 
-Once a deposit is confirmed and deemed economically viable, mining engineers design the extraction method. The choice depends on the deposit's depth, geometry, grade (concentration of valuable mineral), and surrounding rock conditions.
+Once a deposit is confirmed and deemed economically viable, mining engineers design the extraction method. The choice depends on the deposit's depth, [geometry](/geometry), grade (concentration of valuable mineral), and surrounding rock conditions.
 
 ### Surface Mining
 
@@ -98,7 +98,7 @@ When ore is too deep for economical surface mining, engineers go underground.
 
 **Cut-and-fill mining** is used for steeply dipping, irregular ore bodies. Ore is mined in horizontal slices, and each mined-out slice is backfilled with waste rock or cemented tailings before mining the next slice above. The fill supports the walls and provides a working floor.
 
-**Block caving** is used for large, low-grade ore bodies at depth. Engineers undercut the base of the ore body, causing it to fracture and collapse under its own weight. Broken ore flows by gravity to collection points (drawpoints) below. The technique mines enormous volumes at low cost—the Grasberg mine in Indonesia, one of the world's largest copper and gold mines, uses block caving to process over 200,000 tons of ore per day.
+**Block [caving](/caving)** is used for large, low-grade ore bodies at depth. Engineers undercut the base of the ore body, causing it to fracture and collapse under its own weight. Broken ore flows by gravity to collection points (drawpoints) below. The technique mines enormous volumes at low cost—the Grasberg mine in Indonesia, one of the world's largest copper and gold mines, uses block caving to process over 200,000 tons of ore per day.
 
 **Sub-level stoping** blasts ore in large open voids (stopes) between upper and lower access levels, with broken ore collected from below. It's efficient for strong, competent rock where the stope walls are self-supporting.
 
@@ -123,7 +123,7 @@ Underground mines need air. Lots of it. Ventilation systems serve three critical
 
 2. **Removing dust.** Silica dust from drilling and blasting causes silicosis, a debilitating lung disease. Dust control through ventilation, water sprays, and personal protective equipment is strictly regulated.
 
-3. **Controlling temperature.** Rock temperature increases with depth at roughly 25-30°C per kilometer (the geothermal gradient). At the deepest levels of the Mponeng gold mine (nearly 4 km deep), rock temperatures exceed 60°C. Massive refrigeration plants cool the air to safe working temperatures—these systems consume more electricity than the actual mining operations.
+3. **Controlling temperature.** Rock temperature increases with depth at roughly 25-30°C per kilometer (the geothermal gradient). At the deepest levels of the Mponeng gold mine (nearly 4 km deep), rock temperatures exceed 60°C. Massive [refrigeration](/refrigeration) plants cool the air to safe working temperatures—these systems consume more electricity than the actual mining operations.
 
 Ventilation circuits in large underground mines can move millions of cubic feet of air per minute through hundreds of kilometers of airways. The energy cost is enormous, often representing 40-50% of a mine's total electricity consumption.
 
@@ -133,7 +133,7 @@ Raw ore from the mine is rarely pure enough to sell directly. Mineral processing
 
 **Crushing and grinding** reduce ore to fine particles—sometimes as small as 75 micrometers—to liberate mineral grains from the surrounding rock. This is the most energy-intensive step in mining. Grinding alone accounts for roughly 3-4% of global electricity consumption.
 
-**Flotation** exploits differences in surface chemistry. Ground ore is mixed with water and chemical reagents in large tanks. Air bubbles attach selectively to the valuable mineral particles, floating them to the surface where they're collected as a froth concentrate. Flotation is the workhorse process for copper, zinc, lead, nickel, and many other sulfide ores.
+**Flotation** exploits differences in surface [chemistry](/chemistry). Ground ore is mixed with water and chemical reagents in large tanks. Air bubbles attach selectively to the valuable mineral particles, floating them to the surface where they're collected as a froth concentrate. Flotation is the workhorse process for copper, zinc, lead, nickel, and many other sulfide ores.
 
 **Gravity separation** uses density differences—gold, being extremely dense (19.3 g/cm3), can be separated from lighter gangue minerals using jigs, spirals, and shaking tables.
 
@@ -161,7 +161,7 @@ Mining's environmental footprint is significant, and managing it is a major resp
 
 **Acid mine drainage (AMD)** occurs when sulfide minerals exposed by mining react with air and water, producing sulfuric acid that leaches heavy metals into streams. AMD can persist for decades or centuries after a mine closes. The Berkeley Pit in Butte, Montana—a former open-pit copper mine that's been filling with acidic, metal-laden water since 1982—is one of the largest Superfund sites in the United States.
 
-**Tailings management** is another critical challenge. Tailings—the finely ground waste material left after mineral processing—are typically stored in large impoundments behind dams. Tailings dam failures are catastrophic. The 2019 Brumadinho dam collapse in Brazil killed 270 people and released 12 million cubic meters of toxic mud downstream. These disasters have prompted industry-wide reform of tailings management standards.
+**Tailings [management](/management)** is another critical challenge. Tailings—the finely ground waste material left after mineral processing—are typically stored in large impoundments behind dams. Tailings dam failures are catastrophic. The 2019 Brumadinho dam collapse in Brazil killed 270 people and released 12 million cubic meters of toxic mud downstream. These disasters have prompted industry-wide reform of tailings management standards.
 
 **Reclamation** is the process of restoring mined land to a useful condition after mining ceases. Modern regulations require mines to post reclamation bonds and develop detailed closure plans before operations begin. Successful reclamation can return mined land to productive use—wildlife habitat, agriculture, recreation—though restoring original ecosystems is rarely fully achievable.
 
@@ -171,7 +171,7 @@ Mining's environmental footprint is significant, and managing it is a major resp
 
 Mining is rapidly automating. Autonomous haul trucks, operated remotely from control rooms hundreds of kilometers away, now operate at dozens of mines worldwide. Rio Tinto's autonomous fleet in Western Australia has hauled over 4 billion tons of ore. Autonomous drilling, blasting, and underground loading systems are following.
 
-The drivers are safety (removing people from hazardous areas), productivity (autonomous trucks operate 24/7 without shift changes), and precision (GPS-guided drilling and loading improve ore recovery).
+The drivers are safety (removing people from hazardous areas), [productivity](/productivity) (autonomous trucks operate 24/7 without shift changes), and precision (GPS-guided drilling and loading improve ore recovery).
 
 ### Digital Mining
 
@@ -187,6 +187,6 @@ Asteroids contain enormous quantities of metals—a single asteroid, 16 Psyche, 
 
 ## Key Takeaways
 
-Mining engineering is the discipline that turns geological knowledge into the raw materials civilization depends on. It combines geology, mechanical and [civil engineering](/civil-engineering), environmental science, and economics to extract minerals safely and efficiently from incredibly challenging environments.
+Mining engineering is the discipline that turns geological knowledge into the raw materials civilization depends on. It combines geology, mechanical and [civil engineering](/civil-engineering), environmental science, and [economics](/economics) to extract minerals safely and efficiently from incredibly challenging environments.
 
 The field faces genuine tensions—society demands more minerals (especially for clean energy transition) while also demanding less environmental impact. Meeting both requirements simultaneously is the defining challenge for the next generation of mining engineers. The solutions will involve more automation, better environmental management, and probably some entirely new extraction methods we haven't perfected yet. What won't change is the fundamental need—modern life without mining isn't a thing.

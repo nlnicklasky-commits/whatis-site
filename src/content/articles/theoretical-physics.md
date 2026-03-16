@@ -39,7 +39,7 @@ Theoretical physics is the branch of physics that uses mathematical models, abst
 
 ## The Art of Explaining Everything with Equations
 
-Theoretical physics occupies a strange position in science. It produces no physical products. It runs no experiments. Its practitioners spend their time scribbling equations on chalkboards, arguing about mathematics, and occasionally publishing papers that begin with phrases like "Consider a massless, frictionless universe..."
+Theoretical physics occupies a strange position in science. It produces no physical products. It runs no experiments. Its practitioners spend their time scribbling equations on chalkboards, arguing about [mathematics](/mathematics), and occasionally publishing papers that begin with phrases like "Consider a massless, frictionless universe..."
 
 And yet, theoretical physics has produced the most accurate predictions in all of science. The magnetic moment of the electron, as calculated by [quantum electrodynamics](/quantum-electrodynamics), agrees with experiment to about 12 decimal places. That's like predicting the distance from New York to Los Angeles to within the width of a human hair. No other science comes close to that kind of precision.
 
@@ -53,11 +53,11 @@ Isaac Newton's *Principia Mathematica* (1687) essentially invented theoretical p
 
 The effect of Newton's framework was its universality. The same equations that described an apple falling from a tree also described the orbit of Jupiter. This was new. The idea that terrestrial and celestial physics obeyed the same laws was genuinely shocking in the 17th century.
 
-Newtonian mechanics, combined with his development of calculus (independently invented by Leibniz), dominated physics for over 200 years. And it's still perfectly adequate for engineering, everyday life, and most [astronomical](/astronomy) calculations. You don't need Einstein to build a bridge.
+Newtonian mechanics, combined with his development of calculus (independently invented by Leibniz), dominated physics for over 200 years. And it's still perfectly adequate for [engineering](/engineering), everyday life, and most [astronomical](/astronomy) calculations. You don't need Einstein to build a bridge.
 
 ### Maxwell — Unifying Electricity, Magnetism, and Light
 
-In the 1860s, James Clerk Maxwell achieved something remarkable: he showed that electricity and magnetism are aspects of a single force — electromagnetism — and that light itself is an electromagnetic wave. His four equations (Maxwell's equations) unified phenomena that seemed completely unrelated: lightning, compass needles, radio waves, and the colors of the rainbow.
+In the 1860s, James Clerk Maxwell achieved something remarkable: he showed that [electricity](/electricity) and magnetism are aspects of a single force — [electromagnetism](/electromagnetism) — and that light itself is an electromagnetic wave. His four equations (Maxwell's equations) unified phenomena that seemed completely unrelated: lightning, compass needles, radio waves, and the colors of the rainbow.
 
 Maxwell's equations also predicted the speed of light — derived from pure theory, with no reference to any measurement of light. When the calculated value matched the measured speed of light, it was clear that the theoretical framework was capturing something real about the universe.
 
@@ -69,7 +69,7 @@ Einstein's contributions to theoretical physics are hard to overstate. In his mi
 
 1. **Special relativity:** Space and time are relative — they depend on the observer's motion. Mass and energy are equivalent (E = mc²). The speed of light is absolute.
 
-2. **The photoelectric effect:** Light comes in discrete packets (photons). This was a key step toward quantum mechanics. It won him the Nobel Prize.
+2. **The photoelectric effect:** Light comes in discrete packets (photons). This was a key step toward [quantum mechanics](/quantum-mechanics). It won him the Nobel Prize.
 
 3. **Brownian motion:** The random jiggling of pollen grains in water proved the existence of atoms, which was still debated in 1905.
 
@@ -114,7 +114,7 @@ Several approaches are being pursued. None has succeeded. All are fascinating.
 
 ### String Theory
 
-String theory proposes that the fundamental constituents of nature aren't point particles but tiny vibrating strings of energy, about 10^-35 meters long. Different vibrational modes correspond to different particles — much like different vibrations of a guitar string produce different notes.
+[String theory](/string-theory) proposes that the fundamental constituents of nature aren't point particles but tiny vibrating strings of energy, about 10^-35 meters long. Different vibrational modes correspond to different particles — much like different vibrations of a guitar string produce different notes.
 
 String theory naturally includes gravity (the graviton emerges as a vibrational mode) and is mathematically consistent — it avoids the infinities that plague other quantum gravity approaches. It also requires extra dimensions of space — 6 or 7 additional dimensions beyond the 3 we experience, curled up so small we can't detect them.
 
@@ -136,7 +136,7 @@ Like string theory, LQG hasn't produced experimentally confirmed predictions spe
 
 ## The Standard Model — Triumph and Frustration
 
-The Standard Model of particle physics is theoretical physics' greatest practical achievement. Developed between the 1960s and 1970s, it unifies the electromagnetic force, the weak nuclear force, and the strong nuclear force into a single framework of quantum field theories.
+The Standard Model of [particle physics](/particle-physics) is theoretical physics' greatest practical achievement. Developed between the 1960s and 1970s, it unifies the electromagnetic force, the weak nuclear force, and the strong nuclear force into a single framework of quantum field theories.
 
 The Standard Model predicted the existence of the W and Z bosons (discovered 1983), the top quark (discovered 1995), the tau neutrino (discovered 2000), and the Higgs boson (discovered 2012 at CERN's Large Hadron Collider). Every prediction has been confirmed.
 
@@ -166,7 +166,7 @@ A typical research project might involve:
 4. Deriving testable predictions from the framework
 5. Publishing the results for peer review and (hopefully) experimental testing
 
-The mathematics involved is often formidable. Theoretical physics draws on differential geometry, group theory, topology, [functional analysis](/functional-analysis), and algebraic geometry — mathematics that most physicists need years of graduate-level study to master.
+The mathematics involved is often formidable. Theoretical physics draws on differential geometry, [group theory](/group-theory), topology, [functional analysis](/functional-analysis), and algebraic geometry — mathematics that most physicists need years of graduate-level study to master.
 
 Increasingly, theoretical physics also involves computation. Lattice quantum chromodynamics, for example, uses supercomputers to calculate the properties of protons and neutrons from the underlying quark-gluon dynamics. Numerical relativity simulates black hole mergers to predict gravitational waveforms. These computational approaches complement analytical (pen-and-paper) methods.
 

@@ -55,7 +55,7 @@ The Hanging Gardens of Babylon (if they existed — historians still argue about
 
 Scientific hydroponics began in the 1600s when Jan Baptist van Helmont ran his famous willow tree experiment, growing a tree in a measured quantity of soil and proving that most of the tree's mass came from water, not soil. By the 1800s, German botanists Julius von Sachs and Wilhelm Knop had identified the specific mineral elements plants need and grown plants entirely in nutrient solutions.
 
-The term "hydroponics" itself was coined in 1937 by William Frederick Gericke at the University of California, Berkeley. He grew tomato vines 25 feet tall in mineral nutrient solutions, generating massive public interest. During [World War II](/world-war-ii), the U.S. military used hydroponic systems to grow fresh vegetables for troops on barren Pacific islands where soil-based farming was impossible.
+The term "hydroponics" itself was coined in 1937 by William Frederick Gericke at the University of California, Berkeley. He grew tomato vines 25 feet tall in mineral nutrient solutions, generating massive public interest. During [World War II](/world-war-ii), the U.S. military used hydroponic systems to grow fresh vegetables for troops on barren Pacific islands where soil-based [farming](/farming) was impossible.
 
 ## How Plants Eat: The Science Behind It
 
@@ -213,7 +213,7 @@ That's it. No pumps, no timers, no complexity. Once you've successfully grown a 
 
 ## Hydroponics and Food Security
 
-About 690 million people worldwide are chronically undernourished. Population projections suggest we'll need to produce 50% more food by 2050 to feed 9.7 billion people. Meanwhile, arable land per person is shrinking, water supplies are tightening, and climate change is disrupting traditional farming regions.
+About 690 million people worldwide are chronically undernourished. Population projections suggest we'll need to produce 50% more food by 2050 to feed 9.7 billion people. Meanwhile, arable land per person is shrinking, water supplies are tightening, and [climate change](/climate-change) is disrupting traditional farming regions.
 
 Hydroponics won't single-handedly solve food security — it's currently too expensive for staple calorie crops. But it can meaningfully contribute in specific ways.
 

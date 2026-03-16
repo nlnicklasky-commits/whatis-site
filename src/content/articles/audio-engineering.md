@@ -39,13 +39,13 @@ faq:
 
 # What Is Audio [Engineering](/engineering)?
 
-Audio engineering is the technical practice and applied science of recording, manipulating, mixing, and reproducing sound. It encompasses the equipment, techniques, and physical principles used to capture acoustic events, process them electronically, and deliver them to listeners through speakers, headphones, or broadcast systems. Audio engineers work in music, film, television, gaming, podcasting, live events, and any field where sound quality matters.
+Audio engineering is the technical practice and applied science of recording, manipulating, mixing, and reproducing sound. It encompasses the equipment, techniques, and physical principles used to capture acoustic events, process them electronically, and deliver them to listeners through speakers, headphones, or broadcast systems. Audio engineers work in music, film, television, [gaming](/gaming), [podcasting](/podcasting), live events, and any field where sound quality matters.
 
 ## It's Not Just Pressing Record
 
 The popular image of an audio engineer is someone sitting behind a giant mixing console, adjusting faders while a band plays behind a glass window. That's not wrong — but it's about as complete as describing a chef's job as "putting food on plates."
 
-Audio engineering involves physics, [electronics](/electronics), psychoacoustics (how the brain perceives sound), [signal processing](/signal-processing), and an enormous amount of critical listening. A good audio engineer can hear a 1 dB volume difference on a specific frequency range, identify resonances in a room by clapping their hands, and tell you which microphone will best capture a particular instrument in a particular space.
+Audio engineering involves [physics](/physics), [electronics](/electronics), psychoacoustics (how the brain perceives sound), [signal processing](/signal-processing), and an enormous amount of critical listening. A good audio engineer can hear a 1 dB volume difference on a specific frequency range, identify resonances in a room by clapping their hands, and tell you which microphone will best capture a particular instrument in a particular space.
 
 It's a strange hybrid of technical precision and artistic judgment. The same recording can sound radically different depending on microphone choice, placement, room treatment, signal chain, mixing decisions, and mastering approach. Two engineers given identical source material will produce two different results — and both might be excellent.
 
@@ -59,7 +59,7 @@ Thomas Edison's phonograph (1877) was the first device to record and reproduce s
 
 The sound quality was terrible by modern standards. But it worked. For the first time, you could hear a voice or a song without being in the same room as the source.
 
-Emile Berliner improved on Edison's design with the flat disc gramophone (1887), which was easier to mass-produce. By the early 1900s, the recording industry existed — Enrico Caruso's opera recordings became massive sellers. All recording during this era was purely mechanical. No [electricity](/electricity) involved. The musicians performed into a horn, and the sound energy directly cut the groove. Loud instruments dominated; quiet ones were barely audible.
+Emile Berliner improved on Edison's design with the flat disc gramophone (1887), which was easier to mass-produce. By the early 1900s, the recording industry existed — Enrico Caruso's [opera](/opera) recordings became massive sellers. All recording during this era was purely mechanical. No [electricity](/electricity) involved. The musicians performed into a horn, and the sound energy directly cut the groove. Loud instruments dominated; quiet ones were barely audible.
 
 ### The Electrical Era (1925-1945)
 
@@ -67,7 +67,7 @@ Everything changed with the microphone and the electronic amplifier. Western Ele
 
 The frequency range expanded dramatically — from about 250-2,500 Hz (acoustic era) to roughly 50-6,000 Hz. You could suddenly hear bass and high frequencies that earlier recordings missed entirely.
 
-By the 1930s, magnetic tape recording (developed primarily in Germany) began to emerge. Tape offered something unprecedented: editing. You could cut and splice tape, combine multiple takes, and fix mistakes without re-recording the entire performance.
+By the 1930s, magnetic tape recording (developed primarily in Germany) began to emerge. Tape offered something unprecedented: [editing](/editing). You could cut and splice tape, combine multiple takes, and fix mistakes without re-recording the entire performance.
 
 ### The Golden Age of Analog (1945-1980s)
 
@@ -81,9 +81,9 @@ This changed everything about how records were made. Musicians didn't all need t
 
 Digital recording converts analog sound waves into discrete numerical values (samples). The CD standard, introduced in 1982, uses 16-bit resolution at 44,100 samples per second — enough to capture frequencies up to about 22 kHz (just above human hearing range).
 
-The advantages were clear: perfect copies with no degradation, no tape hiss, and eventually, dramatically lower costs. The transition was contentious — many engineers and audiophiles insisted (and some still do) that analog recordings had a warmth and depth that digital couldn't replicate. The debate has cooled somewhat as digital technology improved and sample rates and bit depths increased.
+The advantages were clear: perfect copies with no degradation, no tape hiss, and eventually, dramatically lower costs. The transition was contentious — many engineers and audiophiles insisted (and some still do) that analog recordings had a warmth and depth that digital couldn't replicate. The [debate](/debate) has cooled somewhat as digital technology improved and sample rates and bit depths increased.
 
-Digital audio workstations (DAWs) — computer software for recording, editing, and mixing — displaced tape-based recording in the 2000s. Pro Tools, released by Digidesign in 1991, became the professional standard. Today, a laptop running a DAW with a decent audio interface has more recording capability than a million-dollar studio from 1985.
+Digital audio workstations (DAWs) — computer software for recording, editing, and mixing — displaced tape-based recording in the 2000s. Pro Tools, released by Digidesign in 1991, became the professional standard. Today, a laptop [running](/running) a DAW with a decent audio interface has more recording capability than a million-dollar studio from 1985.
 
 ## The Signal Chain
 
@@ -99,7 +99,7 @@ A **microphone** converts acoustic energy (sound waves) into electrical energy (
 
 **Ribbon microphones** use a thin metal ribbon suspended in a magnetic field. They produce a warm, natural sound prized for strings, brass, and vocals. They're delicate — a strong gust of air can destroy the ribbon — but their sound character is unique.
 
-Microphone choice and placement are among the most important decisions an audio engineer makes. Moving a microphone six inches can completely change how a guitar amp sounds. Distance affects the ratio of direct sound to room reflections. Angle affects frequency response. Two microphones on the same source can create phase cancellation if positioned poorly.
+Microphone choice and placement are among the most important decisions an audio engineer makes. Moving a microphone six inches can completely change how [a guitar](/guitar) amp sounds. Distance affects the ratio of direct sound to room reflections. Angle affects frequency response. Two microphones on the same source can create phase cancellation if positioned poorly.
 
 At the other end of the chain, **speakers** (and headphones) convert electrical signals back into sound waves. Studio monitors are designed for accuracy — they reproduce what's actually in the recording, without flattering it. Consumer speakers and headphones often boost bass or treble to make music sound more exciting, which is great for listening but terrible for mixing decisions.
 

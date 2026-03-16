@@ -35,7 +35,7 @@ faq:
 
 # What Is Poultry Farming?
 
-Poultry farming is the practice of raising domesticated birds — primarily chickens, but also turkeys, ducks, geese, and increasingly guinea fowl and quail — for meat, eggs, feathers, and other products. It's the world's largest and fastest-growing animal [agriculture](/agriculture) sector, producing over 130 million tons of meat and 1.5 trillion eggs annually. If you eat any animal protein, there's a good chance most of it comes from poultry.
+Poultry [farming](/farming) is the practice of raising domesticated birds — primarily chickens, but also turkeys, ducks, geese, and increasingly guinea fowl and quail — for meat, eggs, feathers, and other products. It's the world's largest and fastest-growing animal [agriculture](/agriculture) sector, producing over 130 million tons of meat and 1.5 trillion eggs annually. If you eat any animal protein, there's a good chance most of it comes from poultry.
 
 ## The Scale Is Staggering
 
@@ -51,7 +51,7 @@ Why the explosive growth? Chicken is cheap to produce, quick to grow, culturally
 
 ## Broiler Production: From Chick to Chicken in 47 Days
 
-Modern broiler (meat chicken) production is an intensely engineered system. Understanding how it works — both its efficiency and its controversies — requires walking through the entire process.
+Modern broiler (meat chicken) production is an intensely engineered system. Understanding how it works — both its efficiency and its controversies — requires [walking](/walking) through the entire process.
 
 ### Breeding and Genetics
 
@@ -65,7 +65,7 @@ The breeding industry operates on a pyramid structure. Primary breeders maintain
 
 Commercial broiler chickens are raised in large enclosed houses, typically holding 20,000-30,000 birds per house. A single farm might have 4-12 houses. The houses are climate-controlled — automated ventilation, heating, and cooling systems maintain optimal conditions year-round.
 
-Birds are placed as day-old chicks on a floor covered with litter material (wood shavings, rice hulls) and raised in the same house for their entire 6-8 week life. Feed (a carefully formulated mix of corn, soybean meal, vitamins, and minerals) and water are delivered automatically through lines of feeders and drinkers running the length of the house.
+Birds are placed as day-old chicks on a floor covered with litter material (wood shavings, rice hulls) and raised in the same house for their entire 6-8 week life. Feed (a carefully formulated mix of corn, soybean meal, vitamins, and minerals) and water are delivered automatically through lines of feeders and drinkers [running](/running) the length of the house.
 
 The feed conversion ratio — how efficiently an animal converts feed into body weight — is a key metric. Modern broilers achieve an FCR of about 1.6-1.8:1, meaning roughly 1.7 pounds of feed produces 1 pound of live weight. Compare this to pork (2.5-3.5:1) or beef (6-10:1). Chicken is remarkably efficient.
 
@@ -119,7 +119,7 @@ Keeping tens of thousands of genetically similar birds in close proximity create
 
 ### Major Diseases
 
-**Avian influenza (bird flu)** is the headline threat. Highly pathogenic avian influenza (HPAI) periodically sweeps through poultry populations with devastating results. The 2022-2023 global outbreak killed or led to the culling of over 200 million birds worldwide. Outbreaks trigger quarantines, trade restrictions, and sometimes consumer panic. The 2024-2025 U.S. outbreaks contributed to record egg prices, with a dozen eggs exceeding $5 in many markets.
+**Avian influenza (bird flu)** is the headline threat. Highly pathogenic avian influenza (HPAI) periodically sweeps through poultry populations with devastating results. The 2022-2023 global outbreak killed or led to the culling of over 200 million birds worldwide. Outbreaks trigger quarantines, [trade](/trade) restrictions, and sometimes consumer panic. The 2024-2025 U.S. outbreaks contributed to record egg prices, with a dozen eggs exceeding $5 in many markets.
 
 **Newcastle disease**, **infectious bronchitis**, **Marek's disease**, and **coccidiosis** are other major poultry diseases. Vaccination programs address most viral diseases — commercial chicks are typically vaccinated against multiple diseases at the hatchery, sometimes even before hatching (in-ovo vaccination through the eggshell).
 
@@ -129,7 +129,7 @@ Antibiotics in poultry production have become a major [public health](/public-he
 
 The use of antibiotics as growth promoters has been banned in the EU since 2006 and effectively eliminated in U.S. poultry production as of 2017, when the FDA ended the use of medically important antibiotics for growth promotion. The concern is that routine antibiotic use in livestock contributes to antibiotic resistance — creating "superbugs" that threaten human medicine.
 
-Major U.S. poultry companies (Perdue, Tyson, Pilgrim's) have significantly reduced antibiotic use under consumer and regulatory pressure. "Raised without antibiotics" is now a standard marketing claim, though its verification mechanisms vary.
+Major U.S. poultry companies (Perdue, Tyson, Pilgrim's) have significantly reduced antibiotic use under consumer and regulatory pressure. "Raised without antibiotics" is now a standard [marketing](/marketing) claim, though its verification mechanisms vary.
 
 ### Biosecurity
 
@@ -203,7 +203,7 @@ The poultry industry is evolving under pressure from multiple directions: consum
 
 ## The Bigger Picture
 
-Poultry farming feeds billions of people the most affordable, accessible animal protein available. That's not a small thing. In a world where 800+ million people remain food insecure, chicken and eggs provide essential nutrition at prices most can afford.
+Poultry farming feeds billions of people the most affordable, accessible animal protein available. That's not a small thing. In a world where 800+ million people remain food insecure, chicken and eggs provide essential [nutrition](/nutrition) at prices most can afford.
 
 But the scale and intensity of modern poultry production create real problems — animal welfare compromises, environmental pollution, disease risks, and worker safety concerns — that can't be dismissed. The challenge isn't to eliminate poultry farming but to reform it: producing protein that's safe, affordable, and produced with acceptable welfare and environmental standards.
 

@@ -31,9 +31,9 @@ faq:
 
 # What Is Talmudic Law?
 
-Talmudic law is the system of legal analysis, interpretation, and ruling found in the Talmud — the central text of rabbinic Judaism. It covers virtually every aspect of human life: Sabbath observance, dietary laws, marriage and divorce, property disputes, criminal justice, ritual purity, agricultural practices, and ethics.
+Talmudic law is the system of legal analysis, interpretation, and ruling found in the Talmud — the central text of rabbinic Judaism. It covers virtually every aspect of human life: Sabbath observance, dietary laws, marriage and divorce, property disputes, criminal justice, ritual purity, agricultural practices, and [ethics](/ethics).
 
-The Talmud isn't a law code in the way most people think of one. It's not a list of rules. It's a record of centuries of debate — rabbis arguing, questioning, dissenting, and analyzing how Jewish law should work. The arguments are often more important than the conclusions.
+The Talmud isn't a law code in the way most people think of one. It's not a list of rules. It's a record of centuries of [debate](/debate) — rabbis arguing, questioning, dissenting, and analyzing how Jewish law should work. The arguments are often more important than the conclusions.
 
 ## What Is the Talmud?
 

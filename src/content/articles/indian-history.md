@@ -37,9 +37,9 @@ Indian history covers over 5,000 years of civilization on the South Asian subcon
 
 The story begins with one of humanity's earliest urban civilizations. The Indus Valley (or Harappan) Civilization stretched across what is now Pakistan and northwestern India, with major cities at Mohenjo-daro and Harappa. At its peak around 2500 BCE, it may have supported 5 million people — making it larger than contemporary Egypt or Mesopotamia.
 
-What makes the Indus Valley remarkable is its [urban planning](/urban-planning). Streets were laid out in grid patterns. Houses had indoor [plumbing](/plumbing) and drainage systems connected to covered sewers — sanitation technology that much of the world would not match for 4,000 years. Standardized weights and measures suggest organized trade. The civilization had a writing system, though it remains undeciphered — one of the great unsolved puzzles of [archaeology](/archaeology).
+What makes the Indus Valley remarkable is its [urban planning](/urban-planning). Streets were laid out in grid patterns. Houses had indoor [plumbing](/plumbing) and drainage systems connected to covered sewers — sanitation technology that much of the world would not match for 4,000 years. Standardized weights and measures suggest organized [trade](/trade). The civilization had a [writing](/writing) system, though it remains undeciphered — one of the great unsolved puzzles of [archaeology](/archaeology).
 
-The civilization declined around 1900-1300 BCE, likely due to climate change that disrupted the monsoon patterns and river systems the cities depended upon.
+The civilization declined around 1900-1300 BCE, likely due to [climate change](/climate-change) that disrupted the monsoon patterns and river systems the cities depended upon.
 
 ## The Vedic Period and Classical Age (1500 BCE - 500 CE)
 
@@ -51,7 +51,7 @@ The **Gupta Empire** (320-550 CE) is often called India's "Golden Age." During t
 
 ## Medieval India and the Mughals (700-1700 CE)
 
-Arab traders brought Islam to India's western coast as early as the 7th century. By the 12th century, Muslim sultanates controlled much of northern India. The **Delhi Sultanate** (1206-1526) and then the **Mughal Empire** (1526-1857) shaped centuries of Indian history.
+Arab traders brought [Islam](/islam) to India's western coast as early as the 7th century. By the 12th century, Muslim sultanates controlled much of northern India. The **Delhi Sultanate** (1206-1526) and then the **Mughal Empire** (1526-1857) shaped centuries of Indian history.
 
 The Mughals produced some of history's most spectacular art and [architecture](/architecture). Emperor **Akbar** (reigned 1556-1605) promoted religious tolerance, patronized art and learning, and administered an empire of 100 million people with sophisticated bureaucratic systems. **Shah Jahan** (reigned 1628-1658) built the Taj Mahal — a mausoleum for his wife that took 20,000 workers 22 years to complete and remains one of the most beautiful buildings on Earth.
 

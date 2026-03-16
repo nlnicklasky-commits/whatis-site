@@ -37,7 +37,7 @@ faq:
 
 # What Is Business Ethics?
 
-Business ethics is the application of moral principles and standards to commercial activities, organizations, and the behavior of individuals within business contexts. It examines what constitutes right and wrong conduct in business, addressing questions of fairness, honesty, responsibility, and the obligations companies owe to employees, customers, communities, and the environment.
+Business [ethics](/ethics) is the application of moral principles and standards to commercial activities, organizations, and the behavior of individuals within business contexts. It examines what constitutes right and wrong conduct in business, addressing questions of fairness, honesty, responsibility, and the obligations companies owe to employees, customers, communities, and the environment.
 
 ## Why Businesses Need Ethics (And Why They Resist Them)
 
@@ -73,7 +73,7 @@ The strength of utilitarianism is its quantitative nature — you can (theoretic
 
 Immanuel Kant argued that some actions are inherently right or wrong, regardless of consequences. Don't lie — even if lying would produce better outcomes. Treat people as ends in themselves, never merely as means to your own ends.
 
-In business, Kantian ethics means: don't deceive customers (even if it boosts sales), don't exploit workers (even if it reduces costs), keep promises (even if breaking them would be more profitable). The rules apply regardless of circumstances or outcomes.
+In business, Kantian ethics means: don't deceive customers (even if it boosts [sales](/sales)), don't exploit workers (even if it reduces costs), keep promises (even if breaking them would be more profitable). The rules apply regardless of circumstances or outcomes.
 
 This approach has clear strengths — it protects individual rights even when violating them would benefit the majority. But it's rigid. What happens when rules conflict? When honesty harms an innocent person? Deontological ethics doesn't always handle these conflicts gracefully.
 
@@ -89,7 +89,7 @@ R. Edward Freeman's stakeholder theory, developed in the 1984 book "[Strategic M
 
 This directly challenged Milton Friedman's 1970 assertion that "the social responsibility of business is to increase its profits." Friedman argued that managers spending corporate funds on social causes was essentially stealing from shareholders. Freeman argued that ignoring stakeholder interests ultimately harms shareholders too — through regulation, boycotts, employee turnover, and reputational damage.
 
-The stakeholder vs. shareholder debate continues, but the trend is clearly toward stakeholder thinking. The Business Roundtable's 2019 statement — signed by 181 CEOs including those of Apple, Amazon, and JPMorgan Chase — redefined the purpose of a corporation to include serving customers, investing in employees, dealing ethically with suppliers, supporting communities, and generating long-term shareholder value. Whether this represents genuine commitment or [public relations](/public-relations) remains debated.
+The stakeholder vs. shareholder [debate](/debate) continues, but the trend is clearly toward stakeholder thinking. The Business Roundtable's 2019 statement — signed by 181 CEOs including those of Apple, Amazon, and JPMorgan Chase — redefined the purpose of a corporation to include serving customers, investing in employees, dealing ethically with suppliers, supporting communities, and generating long-term shareholder value. Whether this represents genuine commitment or [public relations](/public-relations) remains debated.
 
 ## The Real-World Ethical Issues
 
@@ -111,9 +111,9 @@ How companies treat workers is the oldest and most persistent ethical battlegrou
 
 Business activity generates environmental costs that are often borne by society rather than the company — what economists call externalities.
 
-The carbon emissions driving climate change are the most consequential example. Fossil fuel companies earn private profits while generating public costs — rising seas, extreme weather, agricultural disruption — that dwarf their revenues. Just 100 companies are responsible for 71% of global industrial greenhouse gas emissions since 1988 (Carbon Disclosure Project, 2017).
+The carbon emissions driving [climate change](/climate-change) are the most consequential example. Fossil fuel companies earn private profits while generating public costs — rising seas, extreme weather, agricultural disruption — that dwarf their revenues. Just 100 companies are responsible for 71% of global industrial greenhouse gas emissions since 1988 (Carbon Disclosure Project, 2017).
 
-**Greenwashing** — making misleading claims about environmental responsibility — has become a significant ethical concern. Companies spend millions on green marketing while making minimal operational changes. The SEC, FTC, and European regulators are increasingly pursuing greenwashing claims, but enforcement remains inconsistent.
+**Greenwashing** — making misleading claims about environmental responsibility — has become a significant ethical concern. Companies spend millions on green [marketing](/marketing) while making minimal operational changes. The SEC, FTC, and European regulators are increasingly pursuing greenwashing claims, but enforcement remains inconsistent.
 
 **Planned obsolescence** — designing products to fail or become outdated so consumers must buy replacements — raises ethical questions about waste generation. The average American generates 4.9 pounds of waste per day. When companies deliberately reduce product lifespan, they increase both consumer costs and environmental burden.
 
@@ -123,7 +123,7 @@ The digital economy runs on personal data, and the ethical questions are enormou
 
 **Informed consent**: When you agree to a 30-page terms of service document, are you genuinely consenting to data collection? Studies show that reading every privacy policy you encounter would take approximately 76 work days per year. The "consent" model is effectively fictional.
 
-**Algorithmic bias**: AI systems used for hiring, lending, criminal sentencing, and insurance pricing can perpetuate and amplify existing biases. Amazon scrapped an AI recruiting tool in 2018 after discovering it penalized resumes containing the word "women's" (as in "women's chess club"). The algorithm learned from historical hiring data — which reflected existing gender bias.
+**Algorithmic bias**: AI systems used for hiring, lending, criminal sentencing, and insurance pricing can perpetuate and amplify existing biases. Amazon scrapped an AI recruiting tool in 2018 after discovering it penalized resumes containing the word "women's" (as in "women's [chess](/chess) club"). The algorithm learned from historical hiring data — which reflected existing gender bias.
 
 **Surveillance [capitalism](/capitalism)**: Companies like Google and Meta built trillion-dollar businesses on monitoring human behavior and selling predictions about it. Whether this business model is ethical — even with user "consent" — is one of the defining ethical questions of the 21st century.
 
@@ -143,7 +143,7 @@ Corporate governance — the system of rules, practices, and processes by which 
 
 ### Board of Directors
 
-The board is supposed to oversee management on behalf of shareholders. In practice, boards vary wildly in effectiveness. Independent directors (those without financial ties to the company) provide better oversight than insiders. Board diversity — in gender, race, expertise, and perspective — correlates with better decision-making and fewer ethical failures.
+The board is supposed to oversee [management](/management) on behalf of shareholders. In practice, boards vary wildly in effectiveness. Independent directors (those without financial ties to the company) provide better oversight than insiders. Board diversity — in gender, race, expertise, and perspective — correlates with better decision-making and fewer ethical failures.
 
 After major scandals, governance requirements tighten. Post-Enron regulations required audit committee independence and financial expertise. Post-2008 financial crisis regulations imposed stress testing and capital requirements on banks. The pattern repeats: scandal, regulation, compliance, complacency, new scandal.
 

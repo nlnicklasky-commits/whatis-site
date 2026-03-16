@@ -35,11 +35,11 @@ faq:
 
 # What Is Iranian History?
 
-Iranian history is the story of one of the world's oldest continuous civilizations, stretching from the earliest settlements on the Iranian plateau around 3200 BCE to the modern Islamic Republic. It encompasses the rise and fall of great Persian empires, the spread of [Zoroastrianism](/zoroastrianism) and later Islam, and a series of cultural achievements in poetry, science, and [architecture](/architecture) that shaped the wider world.
+Iranian history is the story of one of the world's oldest continuous civilizations, stretching from the earliest settlements on the Iranian plateau around 3200 BCE to the modern Islamic Republic. It encompasses the rise and fall of great Persian empires, the spread of [Zoroastrianism](/zoroastrianism) and later [Islam](/islam), and a series of cultural achievements in [poetry](/poetry), science, and [architecture](/architecture) that shaped the wider world.
 
 ## A Civilization Before History Had a Name
 
-The Iranian plateau has been inhabited for tens of thousands of years, but civilization in the formal sense — cities, writing, organized states — took root around 3200 BCE in Elam, in what is now southwestern Iran. The Elamites built Susa, one of the oldest cities in the world, and developed their own writing system independently of Mesopotamia next door.
+The Iranian plateau has been inhabited for tens of thousands of years, but civilization in the formal sense — cities, [writing](/writing), organized states — took root around 3200 BCE in Elam, in what is now southwestern Iran. The Elamites built Susa, one of the oldest cities in the world, and developed their own writing system independently of Mesopotamia next door.
 
 But the groups that would define Iranian identity arrived later. Indo-Iranian peoples migrated onto the plateau during the second millennium BCE, gradually splitting into the Medes and the Persians. By about 700 BCE, the Medes had established a kingdom centered on Ecbatana (modern Hamadan), powerful enough to help destroy the Assyrian Empire in 612 BCE.
 
@@ -61,7 +61,7 @@ The empire's decline came through overreach and internal weakness. The Greek war
 
 Alexander's conquest was brief. He died in 323 BCE, and his generals carved up his empire. Iran fell to the Seleucid dynasty, which ruled for about 150 years before being pushed out by a new Iranian dynasty: the Parthians.
 
-The Parthian Empire (247 BCE - 224 CE) is oddly underappreciated. It lasted nearly 500 years, controlled [the Silk Road](/silk-road) trade between Rome and China, and repeatedly defeated Roman armies — most spectacularly at the Battle of Carrhae in 53 BCE, where Parthian horse archers annihilated seven Roman legions and killed their commander, Crassus. The Parthians' military innovation — heavily armored cavalry (cataphracts) combined with mobile horse archers — influenced warfare for centuries.
+The Parthian Empire (247 BCE - 224 CE) is oddly underappreciated. It lasted nearly 500 years, controlled [the Silk Road](/silk-road) [trade](/trade) between Rome and China, and repeatedly defeated Roman armies — most spectacularly at the Battle of Carrhae in 53 BCE, where Parthian horse archers annihilated seven Roman legions and killed their commander, Crassus. The Parthians' military innovation — heavily armored cavalry (cataphracts) combined with mobile horse archers — influenced warfare for centuries.
 
 Yet the Parthians left fewer monumental ruins than the Achaemenids, and their decentralized feudal structure made them harder for historians to study. They were a major power largely forgotten by the Western historical tradition.
 
@@ -71,7 +71,7 @@ In 224 CE, a Persian vassal king named Ardashir I overthrew the last Parthian ki
 
 The Sassanid Empire was Rome's principal rival for over four centuries. Wars between the two powers were nearly constant. Shapur I captured the Roman Emperor Valerian in 260 CE — the only time a Roman emperor was taken prisoner. The rock reliefs at Naqsh-e Rostam depict this humiliation in vivid, boastful detail.
 
-Zoroastrianism became the state religion under the Sassanids, with a formalized priesthood and official doctrine. But the empire also hosted significant Christian, Jewish, and Manichaean communities. The intellectual culture was remarkable — the Academy of Gondishapur brought together Greek, Indian, and Persian medical and philosophical traditions, becoming perhaps the most important center of learning in the late ancient world.
+Zoroastrianism became the state [religion](/religion) under the Sassanids, with a formalized priesthood and official doctrine. But the empire also hosted significant Christian, Jewish, and Manichaean communities. The intellectual culture was remarkable — the Academy of Gondishapur brought together Greek, Indian, and Persian medical and philosophical traditions, becoming perhaps the most important center of learning in the late ancient world.
 
 Sassanid art, architecture, and court culture influenced both the Byzantine Empire and the later Islamic civilization. The empire's administrative structures — tax systems, bureaucracy, military organization — were adopted wholesale by the Arab-Muslim caliphates that followed.
 
@@ -93,7 +93,7 @@ Iran experienced devastating invasions in the medieval period. The Mongol conque
 
 Yet the Mongol period also brought connections. The Il-Khanate (1256-1335) eventually converted to Islam and became patrons of Persian culture. Timur (Tamerlane), himself a Turkic-Mongol conqueror, devastated Iran again in the late 14th century but also built the architectural glories of Samarkand using Iranian craftsmen.
 
-The Safavid dynasty (1501-1736) created the borders of roughly modern Iran and established the cultural and religious identity that persists today. Shah Abbas I (reigned 1588-1629) built Isfahan into one of the world's most beautiful cities — the saying went, "Isfahan is half the world." The Safavid period produced extraordinary achievements in [miniature painting](/miniature-painting), carpet weaving, architecture, and tile work.
+The Safavid dynasty (1501-1736) created the borders of roughly modern Iran and established the cultural and religious identity that persists today. Shah Abbas I (reigned 1588-1629) built Isfahan into one of the world's most beautiful cities — the saying went, "Isfahan is half the world." The Safavid period produced extraordinary achievements in [miniature painting](/miniature-painting), carpet [weaving](/weaving), architecture, and tile work.
 
 ## The Modern Era: From Qajars to Revolution
 

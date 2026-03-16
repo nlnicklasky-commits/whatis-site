@@ -35,7 +35,7 @@ faq:
 
 # What Is Thesaurus Construction?
 
-Thesaurus construction is the systematic process of creating a structured vocabulary — called a thesaurus — that defines preferred terms within a subject area and maps the hierarchical, equivalence, and associative relationships between them. These thesauri are used primarily in [information retrieval](/information-retrieval) systems, libraries, archives, and databases to improve the precision and completeness of searching.
+Thesaurus [construction](/construction) is the systematic process of creating a structured vocabulary — called a thesaurus — that defines preferred terms within a subject area and maps the hierarchical, equivalence, and associative relationships between them. These thesauri are used primarily in [information retrieval](/information-retrieval) systems, libraries, archives, and databases to improve the precision and completeness of searching.
 
 ## Not Your English Class Thesaurus
 
@@ -134,7 +134,7 @@ Automated term extraction — using [natural language processing](/natural-langu
 
 ### Step 3: Establish Preferred Terms
 
-For each concept, choose one term as the descriptor and designate the rest as non-preferred entry terms. This is where domain expertise matters most. Should the preferred term be "climate change" or "global warming"? "[Artificial intelligence](/artificial-intelligence)" or "AI"? "Heart attack" or "myocardial infarction"? The choice affects usability.
+For each concept, choose one term as the descriptor and designate the rest as non-preferred entry terms. This is where domain expertise matters most. Should the preferred term be "[climate change](/climate-change)" or "global warming"? "[Artificial intelligence](/artificial-intelligence)" or "AI"? "Heart attack" or "myocardial infarction"? The choice affects usability.
 
 Standards recommend using the most common form in the relevant [literature](/literature) and user community, but institutional preferences, cultural context, and evolving usage all influence the decision.
 
@@ -144,7 +144,7 @@ Organize terms into tree structures, from broad to narrow. This step often revea
 
 ### Step 5: Add Associative Relationships
 
-Link terms that are meaningfully related but not hierarchically connected. This step requires systematic review — for each term, consider what other terms a user might want to see. Cross-discipline connections are particularly valuable (linking "diabetes" to "insulin" to "blood glucose monitoring" to "nutrition").
+Link terms that are meaningfully related but not hierarchically connected. This step requires systematic review — for each term, consider what other terms a user might want to see. Cross-discipline connections are particularly valuable (linking "diabetes" to "insulin" to "blood glucose monitoring" to "[nutrition](/nutrition)").
 
 ### Step 6: Add Scope Notes
 

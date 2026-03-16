@@ -119,7 +119,7 @@ Given that WordPress powers roughly 43% of all websites, an entire hosting categ
 
 Providers like WP Engine, Kinsta, and Flywheel optimize their server configurations specifically for WordPress performance. They typically include staging environments (test copies of your site), automatic daily backups, and built-in caching.
 
-Prices range from $20-100+ per month, which is more than basic shared hosting but worth it for businesses that depend on their WordPress site running reliably.
+Prices range from $20-100+ per month, which is more than basic shared hosting but worth it for businesses that depend on their WordPress site [running](/running) reliably.
 
 ## Key Hosting Features That Matter
 
@@ -198,7 +198,7 @@ Picking a host comes down to matching your needs to the right type and provider.
 ### Red Flags to Watch For
 
 - **"Unlimited everything" claims**: Nothing is truly unlimited. Read the fair-use policy.
-- **No uptime SLA**: If they won't commit to uptime in writing, expect downtime.
+- **No uptime SLA**: If they won't commit to uptime in [writing](/writing), expect downtime.
 - **Difficult cancellation**: Check the refund policy and cancellation process before signing up.
 - **No backup service**: If they don't offer backups, they're not serious about your data.
 - **Overcrowded shared servers**: Persistent slow performance on shared hosting means too many sites on one server.

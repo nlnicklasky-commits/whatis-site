@@ -35,7 +35,7 @@ faq:
 
 # What Is Psychophysics?
 
-Psychophysics is the scientific study of the relationship between physical stimuli and the subjective sensations they produce. It asks questions like: How bright does a light need to be before you can see it? How much louder does a sound need to get before you notice the difference? If you add one gram to a 100-gram weight, can you feel it—and what about adding one gram to a 1,000-gram weight? These questions sit right at the boundary between physics and [psychology](/psychology), which is exactly where Gustav Fechner planted his flag in 1860 when he coined the term.
+Psychophysics is the scientific study of the relationship between physical stimuli and the subjective sensations they produce. It asks questions like: How bright does a light need to be before you can see it? How much louder does a sound need to get before you notice the difference? If you add one gram to a 100-gram weight, can you feel it—and what about adding one gram to a 1,000-gram weight? These questions sit right at the boundary between [physics](/physics) and [psychology](/psychology), which is exactly where Gustav Fechner planted his flag in 1860 when he coined the term.
 
 ## The Birth of Quantitative Psychology
 
@@ -143,11 +143,11 @@ Psychophysics isn't just academic—its methods and findings shape technologies 
 
 Your phone screen, your monitor, your TV—all designed with psychophysical principles. Display engineers need to know: How many pixels per inch before you can't distinguish individual pixels? (That's a resolution threshold.) How many levels of brightness can you discriminate? (That determines bit depth.) What color differences are perceptible? (That defines color spaces.)
 
-Apple's "Retina" display was explicitly designed around psychophysical data—the pixel density exceeds the eye's resolving ability at typical viewing distances. The HDR (High Active Range) standard for televisions is based on psychophysical data about brightness discrimination. Every display specification that mentions "perceptually uniform" is drawing on psychophysics.
+Apple's "Retina" display was explicitly designed around psychophysical data—the pixel density exceeds the eye's resolving ability at typical viewing distances. The HDR (High Active Range) standard for televisions is based on psychophysical data about brightness discrimination. Every display specification that mentions "perceptually uniform" is [drawing](/drawing) on psychophysics.
 
 ### [Audio Engineering](/audio-engineering)
 
-The entire field of audio engineering relies on psychophysical principles. The equal-loudness contours (Fletcher-Munson curves) show that human hearing sensitivity varies dramatically with frequency—we're most sensitive around 2-5 kHz (where speech consonants live) and much less sensitive at very low and very high frequencies. Audio equipment design, compression algorithms (like MP3), and concert hall [acoustics](/acoustics) all use these curves.
+The entire field of audio [engineering](/engineering) relies on psychophysical principles. The equal-loudness contours (Fletcher-Munson curves) show that human hearing sensitivity varies dramatically with frequency—we're most sensitive around 2-5 kHz (where speech consonants live) and much less sensitive at very low and very high frequencies. Audio equipment design, compression algorithms (like MP3), and concert hall [acoustics](/acoustics) all use these curves.
 
 MP3 and AAC audio compression work by removing sounds that psychophysical research shows you can't perceive—sounds masked by louder nearby frequencies, or temporal details too brief to detect. The result: file sizes shrink by 90% with minimal perceived quality loss. That's psychophysics saving bandwidth.
 
@@ -171,7 +171,7 @@ Modern psychophysics often pairs perceptual measurements with neural recordings,
 
 Single-neuron recordings in animals performing psychophysical tasks have revealed that detection thresholds correspond to specific patterns of neural activity. A monkey's ability to detect a faint visual motion signal correlates tightly with the firing rate of neurons in area MT (a motion-processing area). The neural threshold and the behavioral threshold align remarkably closely.
 
-This work has established that psychophysical thresholds aren't arbitrary—they reflect fundamental limits imposed by neural noise and [signal processing](/signal-processing) architecture.
+This work has established that psychophysical thresholds aren't arbitrary—they reflect fundamental limits imposed by neural noise and [signal processing](/signal-processing) [architecture](/architecture).
 
 ### Ideal Observer Analysis
 

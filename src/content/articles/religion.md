@@ -39,9 +39,9 @@ faq:
 
 Religion is a system of beliefs, practices, rituals, and ethics organized around questions of ultimate meaning — the existence of God or gods, the purpose of human life, the nature of death and what follows it, and the moral principles that should guide how people live. An estimated 85% of the world's 8 billion people identify with a religious tradition, making religion one of the most widespread and persistent features of human civilization.
 
-But defining religion is surprisingly difficult. Is Confucianism a religion or a philosophy? Is Buddhism a religion if some forms of it do not involve belief in God? Are secular ideologies that inspire devotion, community, and moral frameworks — like Marxism or certain forms of nationalism — functionally religious?
+But defining religion is surprisingly difficult. Is Confucianism a religion or a [philosophy](/philosophy)? Is Buddhism a religion if some forms of it do not involve belief in God? Are secular [ideologies](/ideologies) that inspire devotion, community, and moral frameworks — like Marxism or certain forms of nationalism — functionally religious?
 
-Scholars have debated these boundary questions for centuries without resolution. What is clear is that religion, however you define it, has shaped every human society in recorded history. It has inspired art, architecture, music, and literature. It has motivated both extraordinary compassion and terrible violence. It has provided comfort to billions and imposed restrictions on billions more. Understanding religion is not optional if you want to understand human beings.
+Scholars have debated these boundary questions for centuries without resolution. What is clear is that religion, however you define it, has shaped every human society in recorded history. It has inspired art, [architecture](/architecture), music, and [literature](/literature). It has motivated both extraordinary compassion and terrible violence. It has provided comfort to billions and imposed restrictions on billions more. Understanding religion is not optional if you want to understand human beings.
 
 ## The Core Elements of Religion
 
@@ -55,11 +55,11 @@ These beliefs answer questions that empirical investigation cannot: Why is there
 
 ### Rituals and Practices
 
-Religion is not just believed — it is performed. Prayer, meditation, pilgrimage, fasting, singing, chanting, sacrificing, gathering for worship — these practices give religion its experiential dimension.
+Religion is not just believed — it is performed. Prayer, [meditation](/meditation), pilgrimage, fasting, singing, chanting, sacrificing, gathering for worship — these practices give religion its experiential dimension.
 
 Rituals mark transitions: birth (baptism, naming ceremonies), adulthood (bar/bat mitzvah, vision quests), marriage, and death (funerals, memorial rites). They mark time: weekly sabbaths, annual festivals, liturgical calendars. They create shared experience that binds communities together. A Muslim praying five times daily facing Mecca is connected to 1.9 billion others doing the same thing, regardless of language, nationality, or economic status.
 
-The regularity of ritual matters. Research in psychology suggests that repeated communal practices strengthen group identity, reduce anxiety, and create a sense of predictable structure in unpredictable lives. Rituals work even when participants do not fully understand their theological meaning — the embodied, communal experience itself has psychological and social effects.
+The regularity of ritual matters. Research in [psychology](/psychology) suggests that repeated communal practices strengthen group identity, reduce anxiety, and create a sense of predictable structure in unpredictable lives. Rituals work even when participants do not fully understand their theological meaning — the embodied, communal experience itself has psychological and social effects.
 
 ### Moral Codes
 
@@ -79,13 +79,13 @@ The relationship between text and interpretation is one of the most contentious 
 
 ### Community and Institutions
 
-Religion is inherently communal. Even traditions that emphasize individual spiritual practice (like certain forms of Buddhism or mysticism) develop communities, hierarchies, and institutions over time. Churches, mosques, temples, synagogues, monasteries, and ashrams provide physical spaces for gathering. Clergy, priests, rabbis, imams, monks, and gurus provide leadership and teaching.
+Religion is inherently communal. Even traditions that emphasize individual spiritual practice (like certain forms of Buddhism or mysticism) develop communities, hierarchies, and institutions over time. Churches, mosques, temples, synagogues, monasteries, and ashrams provide physical spaces for gathering. Clergy, priests, rabbis, imams, monks, and gurus provide [leadership](/leadership) and [teaching](/teaching).
 
 Religious institutions are among the oldest continuously operating organizations on Earth. The Catholic Church has existed for nearly 2,000 years. Buddhist monastic orders trace their lineage back 2,500 years. These institutions accumulate enormous resources, influence, and cultural power — for good and ill.
 
 ## The Major World Religions: A Quick Map
 
-Understanding the global religious field requires some basic numbers and geography.
+Understanding the global religious field requires some basic numbers and [geography](/geography).
 
 ### Christianity (2.4 billion adherents)
 
@@ -117,7 +117,7 @@ Buddhism divides into Theravada (Southeast Asia — Sri Lanka, Myanmar, Thailand
 
 **Sikhism** (30 million): Founded by Guru Nanak in 15th-century Punjab, emphasizing one God, equality, service, and honest living. The fifth-largest religion globally.
 
-**Folk and traditional religions** (~400 million): Indigenous and local traditions that defy easy categorization — ancestor worship, animism, shamanism, and syncretic practices blending local traditions with world religions.
+**Folk and traditional religions** (~400 million): Indigenous and local traditions that defy easy categorization — ancestor worship, animism, [shamanism](/shamanism), and syncretic practices blending local traditions with [world religions](/world-religions).
 
 **Nonreligious** (~1.2 billion): Atheists, agnostics, and the unaffiliated. This category is growing rapidly in developed nations, though many "nones" maintain spiritual beliefs or practices outside organized religion.
 
@@ -147,7 +147,7 @@ Others suggest religion is a byproduct of cognitive capacities that evolved for 
 
 Some scholars — and virtually all religious practitioners — insist that religion exists because it corresponds to something real. Rudolf Otto described the experience of the "numinous" — the feeling of awe, mystery, and overwhelming presence that people across cultures report in religious contexts. William Alston argued that mystical experiences provide evidence for God's existence, much as sensory experiences provide evidence for the physical world.
 
-This perspective is unfashionable in academic settings but worth taking seriously. Billions of people report experiences they interpret as encounters with the divine. Dismissing all of these as delusion or cognitive error requires assuming that billions of people across all cultures, historical periods, and levels of education are systematically mistaken about a core dimension of their experience.
+This perspective is unfashionable in academic settings but worth taking seriously. Billions of people report experiences they interpret as encounters with the divine. Dismissing all of these as delusion or cognitive error requires assuming that billions of people across all cultures, historical periods, and levels of [education](/education) are systematically mistaken about a core dimension of their experience.
 
 ## Religion and Society: The Complicated Relationship
 
@@ -165,13 +165,13 @@ But religion has also justified slavery, holy wars, persecution of minorities, s
 
 The relationship between religious authority and political power has been contentious everywhere, always. Theocracies (Iran, historical Tibet, medieval Europe) merge religious and political authority. Secular democracies attempt to separate them — the U.S. First Amendment prohibits Congress from establishing a religion. Authoritarian regimes sometimes suppress religion as a competing source of loyalty and meaning.
 
-In practice, the boundaries are always blurry. Politicians in officially secular democracies routinely invoke religious language and court religious constituencies. Religious leaders regularly take political positions on issues from abortion to climate change to immigration. The idea that religion and politics occupy separate spheres is more aspiration than description.
+In practice, the boundaries are always blurry. Politicians in officially secular democracies routinely invoke religious language and court religious constituencies. Religious leaders regularly take political positions on issues from abortion to [climate change](/climate-change) to immigration. The idea that religion and [politics](/politics) occupy separate spheres is more aspiration than description.
 
 ### Religion and Science
 
 The "warfare thesis" — the idea that science and religion are fundamentally incompatible and historically in conflict — was popularized in the 19th century and persists in [popular culture](/popular-culture). But historians of science have largely abandoned it. The relationship between religion and science has been much more complex and cooperative than the conflict narrative suggests.
 
-The Big Bang theory was first proposed by Georges Lemaitre, a Catholic priest. Gregor Mendel, the father of genetics, was an Augustinian friar. Many universities — Oxford, Cambridge, Harvard, and countless others — were founded by religious institutions. Islamic scholars preserved and advanced Greek science during Europe's medieval period.
+The Big Bang theory was first proposed by Georges Lemaitre, a Catholic priest. Gregor Mendel, the father of [genetics](/genetics), was an Augustinian friar. Many universities — Oxford, Cambridge, Harvard, and countless others — were founded by religious institutions. Islamic scholars preserved and advanced Greek science during Europe's medieval period.
 
 Genuine conflicts exist: the Galileo affair, debates over evolution, disputes about the age of the Earth. But these are specific disagreements, not evidence of a fundamental incompatibility. Many scientists are religious, and many religious people enthusiastically embrace scientific findings.
 
@@ -179,7 +179,7 @@ Genuine conflicts exist: the Galileo affair, debates over evolution, disputes ab
 
 Religion has motivated extraordinary violence: the Crusades, the Inquisition, the [Thirty Years' War](/thirty-years-war), sectarian conflict in Northern Ireland, Hindu-Muslim violence in South Asia, Buddhist-Muslim conflict in Myanmar. This record is undeniable and important.
 
-But attributing violence solely to religion misreads history. Most religious conflicts involve ethnicity, politics, territory, economics, and power alongside — and often more than — theology. The Troubles in Northern Ireland were about British colonial history and Irish nationalism as much as Protestantism versus Catholicism. The Bosnian War involved ethnic identity, not just religious difference.
+But attributing violence solely to religion misreads history. Most religious conflicts involve ethnicity, politics, territory, [economics](/economics), and power alongside — and often more than — theology. The Troubles in Northern Ireland were about British colonial history and Irish nationalism as much as Protestantism versus Catholicism. The Bosnian War involved ethnic identity, not just religious difference.
 
 Religion is neither uniquely peaceful nor uniquely violent. It is a powerful motivating force that can be directed toward either — and sometimes toward both simultaneously by different adherents of the same tradition.
 

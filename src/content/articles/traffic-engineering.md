@@ -37,7 +37,7 @@ faq:
 
 # What Is Traffic Engineering?
 
-Traffic engineering is the branch of [civil engineering](/civil-engineering) that deals with the planning, design, and operation of roadway systems to move people and vehicles safely and efficiently. It covers everything from timing a traffic signal to designing a freeway interchange to figuring out why a particular intersection keeps producing crashes.
+Traffic [engineering](/engineering) is the branch of [civil engineering](/civil-engineering) that deals with the planning, design, and operation of roadway systems to move people and vehicles safely and efficiently. It covers everything from timing a traffic signal to designing a freeway interchange to figuring out why a particular intersection keeps producing crashes.
 
 ## The Science of Getting People Where They're Going
 
@@ -126,7 +126,7 @@ Where hazards can't be removed, engineers install barriers — guardrails, cable
 
 ### Access Management
 
-One of the most powerful — and least visible — tools in traffic engineering is access management: controlling where and how driveways and side streets connect to major roads.
+One of the most powerful — and least visible — tools in traffic engineering is access [management](/management): controlling where and how driveways and side streets connect to major roads.
 
 Every driveway on a busy road is a potential conflict point. Vehicles turning in and out interrupt through traffic, create speed differentials, and generate crashes. Research consistently shows that crash rates increase linearly with driveway density. A commercial corridor with 60 driveways per mile has roughly four times the crash rate of one with 15 driveways per mile.
 

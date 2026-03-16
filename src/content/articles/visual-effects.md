@@ -63,7 +63,7 @@ Andy Serkis's performances as Gollum (Lord of the Rings), Caesar (Planet of the 
 
 ### Matte Painting
 
-The oldest VFX technique, updated for the digital age. Traditional matte painters created detailed paintings on glass that were composited with live-action footage. Modern matte painters work digitally, creating photorealistic environments that extend or replace filmed locations. A scene set in ancient Rome might feature a real street with real actors, but every building above the first floor is a digital matte painting.
+The oldest VFX technique, updated for the digital age. Traditional matte painters created detailed paintings on glass that were composited with live-action footage. Modern matte painters work digitally, creating photorealistic environments that extend or replace filmed locations. A scene set in ancient Rome might feature a real street with real actors, but every building above the first floor is a digital matte [painting](/painting).
 
 ## A Brief History
 

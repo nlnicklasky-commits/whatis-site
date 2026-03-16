@@ -41,7 +41,7 @@ Stereoscopy is the technique of creating or enhancing the illusion of depth in a
 
 ## How Your Brain Sees in 3D
 
-Before diving into the technology, you need to understand what's actually happening inside your head. Your two eyes are spaced about 6.5 centimeters apart — a distance called the interocular distance. This means each eye sees the world from a slightly different angle. Hold your thumb up at arm's length, close one eye, then switch. Your thumb appears to jump sideways. That jump — binocular disparity — is the raw data your brain uses to compute depth.
+Before [diving](/diving) into the technology, you need to understand what's actually happening inside your head. Your two eyes are spaced about 6.5 centimeters apart — a distance called the interocular distance. This means each eye sees the world from a slightly different angle. Hold your thumb up at arm's length, close one eye, then switch. Your thumb appears to jump sideways. That jump — binocular disparity — is the raw data your brain uses to compute depth.
 
 The visual cortex has specialized neurons called binocular disparity detectors (discovered by David Hubel and Torsten Wiesel in work that won them the 1981 Nobel Prize in [Physiology](/physiology) or Medicine). These neurons respond specifically to the slight differences in position between the left-eye and right-eye images of the same object. Close objects produce large disparity; distant objects produce small disparity. The brain converts this disparity map into your experience of three-dimensional space.
 
@@ -57,13 +57,13 @@ The human fascination with artificial 3D goes back further than you might expect
 
 ### Early Discoveries
 
-The geometry of binocular vision was understood by Euclid around 280 BCE, and Leonardo da Vinci wrote about binocular disparity in his notebooks around 1508. But nobody figured out how to actually reproduce it artificially until 1838, when Sir Charles Wheatstone invented the stereoscope.
+The [geometry](/geometry) of binocular vision was understood by Euclid around 280 BCE, and Leonardo da Vinci wrote about binocular disparity in his notebooks around 1508. But nobody figured out how to actually reproduce it artificially until 1838, when Sir Charles Wheatstone invented the stereoscope.
 
-Wheatstone used mirrors to present separate drawings to each eye and demonstrated that the brain would fuse them into a single 3D scene. His timing was perfect — the invention of [photography](/photovoltaics) just a year later in 1839 made it practical to capture real-world stereo pairs. You just took two photographs from positions about 6.5 cm apart.
+Wheatstone used mirrors to present separate drawings to each eye and demonstrated that the brain would fuse them into a single 3D scene. His timing was perfect — the [invention](/invention) of [photography](/photovoltaics) just a year later in 1839 made it practical to capture real-world stereo pairs. You just took two photographs from positions about 6.5 cm apart.
 
 ### The Victorian Craze
 
-Sir David Brewster improved the design with a lensed stereoscope in 1849, and Oliver Wendell Holmes Sr. created the cheap, portable Holmes stereoscope in 1861. Stereoscopy exploded in popularity. By the 1860s, stereo viewers were as common in Victorian parlors as televisions would be a century later. Companies produced thousands of stereo card sets featuring travel destinations, news events, and educational content. It was, in a real sense, the 19th century's version of virtual tourism.
+Sir David Brewster improved the design with a lensed stereoscope in 1849, and Oliver Wendell Holmes Sr. created the cheap, portable Holmes stereoscope in 1861. Stereoscopy exploded in popularity. By the 1860s, stereo viewers were as common in Victorian parlors as televisions would be a century later. Companies produced thousands of stereo card sets featuring travel destinations, news events, and educational content. It was, in a real sense, the 19th century's version of virtual [tourism](/tourism).
 
 The London Stereoscopic Company's slogan was "No home without a stereoscope." They sold over a million viewers and published a catalog of over 100,000 stereo views. Queen Victoria was reportedly fascinated by the technology after seeing it at the Great Exhibition of 1851.
 
@@ -75,7 +75,7 @@ The 2009 release of James Cameron's "Avatar" triggered another 3D revival, this 
 
 ## How Modern Stereoscopic Systems Work
 
-Different applications use different techniques to deliver separate images to each eye. The choice involves trade-offs between image quality, cost, comfort, and practical constraints.
+Different applications use different techniques to deliver separate images to each eye. The choice involves [trade](/trade)-offs between image quality, cost, comfort, and practical constraints.
 
 ### Anaglyph (Color-Filtered) Glasses
 
@@ -152,7 +152,7 @@ NASA's Mars rovers carry stereo camera systems that capture 3D images of the Mar
 
 ## The Psychology of Stereoscopic Depth
 
-Not everyone experiences stereoscopy the same way, and the psychology of 3D perception is more complex than "two eyes equals depth."
+Not everyone experiences stereoscopy the same way, and the [psychology](/psychology) of 3D perception is more complex than "two eyes equals depth."
 
 About 5-10% of the population has some degree of stereo blindness. For these individuals, 3D movies and VR are at best flat and at worst nauseating. Common causes include amblyopia (lazy eye), strabismus (crossed or divergent eyes), and significant refractive differences between the two eyes (anisometropia). Some people are stereo blind without knowing it — they've never experienced binocular depth and have no frame of reference for what they're missing.
 
@@ -168,7 +168,7 @@ After multiple boom-and-bust cycles in entertainment, stereoscopy's most promisi
 
 **Telemedicine** is increasingly using stereoscopic video for remote consultations and surgical guidance. A surgeon in one city can view a 3D feed of an operation happening thousands of miles away, providing real-time advice with the benefit of depth perception.
 
-**Education** benefits from stereoscopic visualization of complex 3D subjects — [anatomy](/anatomy), [chemistry](/chemistry), [architecture](/architecture), [engineering](/engineering). Seeing a molecular structure or a building's internal systems in 3D conveys spatial relationships that flat diagrams simply cannot.
+**[Education](/education)** benefits from stereoscopic visualization of complex 3D subjects — [anatomy](/anatomy), [chemistry](/chemistry), [architecture](/architecture), [engineering](/engineering). Seeing a molecular structure or a building's internal systems in 3D conveys spatial relationships that flat diagrams simply cannot.
 
 **Autonomous vehicles** use stereo camera systems as one of several sensor modalities for perceiving the 3D structure of the road environment. Two cameras, calibrated like a pair of eyes, can compute depth maps of the scene using the same binocular disparity principle that drives human 3D vision.
 

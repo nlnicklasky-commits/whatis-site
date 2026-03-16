@@ -73,13 +73,13 @@ Sand casting is versatile and relatively inexpensive. It handles parts from a fe
 
 Green sand (sand mixed with clay and water) is the cheapest and most traditional molding method. Chemically bonded sand (using urethane, phenolic, or furan resins) produces better surface finish and dimensional accuracy but costs more.
 
-The environmental impact of sand casting is significant — foundries generate waste sand, dust, and emissions that require management. Modern foundries reclaim and recycle 90%+ of their sand, but the process remains resource-intensive.
+The environmental impact of sand casting is significant — foundries generate waste sand, dust, and emissions that require [management](/management). Modern foundries reclaim and recycle 90%+ of their sand, but the process remains resource-intensive.
 
 ### Investment Casting (Lost-Wax Casting)
 
 This method produces the most detailed and precise castings. The pattern is made from wax, coated with ceramic slurry, and then the wax is melted out (the "lost wax"), leaving a ceramic shell mold.
 
-Investment casting dates to at least 3700 BC — the oldest known example is a copper amulet from the Indus Valley. The same basic process produces modern jet engine turbine blades, dental crowns, and golf club heads.
+Investment casting dates to at least 3700 BC — the oldest known example is a copper amulet from the Indus Valley. The same basic process produces modern jet engine turbine blades, dental crowns, and [golf](/golf) club heads.
 
 The precision is remarkable. Tolerances of ±0.1 mm are standard. Surface finish rivals machined surfaces. And investment casting can produce geometries — internal cooling passages in turbine blades, for example — that no other method can achieve.
 
@@ -117,7 +117,7 @@ When molten metal cools in a mold, it doesn't solidify all at once. Solid crysta
 
 The solidification front — the boundary between liquid and solid metal — moves through the casting over minutes or hours. As metal solidifies, it shrinks (most metals are denser as solids than liquids, with the notable exception of water and a few alloys). This shrinkage must be compensated by risers — reservoirs of molten metal that feed the casting as it contracts.
 
-If solidification occurs too fast or unevenly, defects form: porosity (trapped gas or shrinkage voids), hot tears (cracks caused by thermal stress), and cold shuts (where two flow fronts meet without fully bonding). Predicting and preventing these defects is the central challenge of casting engineering.
+If solidification occurs too fast or unevenly, defects form: porosity (trapped gas or shrinkage voids), hot tears (cracks caused by thermal stress), and cold shuts (where two flow fronts meet without fully bonding). Predicting and preventing these defects is the central challenge of casting [engineering](/engineering).
 
 ### Alloy Design
 
@@ -131,7 +131,7 @@ Superalloys — nickel-based alloys used in jet engines — are among the most c
 
 After casting, many parts undergo heat treatment to modify their microstructure and properties. Solution treatment dissolves alloying elements into a uniform matrix. Aging (precipitation hardening) causes tiny particles to form within the metal, dramatically increasing strength.
 
-A cast aluminum wheel in its "as-cast" condition might have a tensile strength of 200 MPa. After T6 heat treatment (solution treatment + artificial aging), that same wheel might reach 310 MPa — a 55% improvement without changing the material or geometry.
+A cast aluminum wheel in its "as-cast" condition might have a tensile strength of 200 MPa. After T6 heat treatment (solution treatment + artificial aging), that same wheel might reach 310 MPa — a 55% improvement without changing the material or [geometry](/geometry).
 
 ## Simulation and Modern Technology
 
@@ -141,7 +141,7 @@ Modern foundries simulate the entire casting process before pouring a single kil
 
 These simulations save enormous time and money. Instead of making a dozen trial castings to find the right gating system (the channels that direct metal into the mold), engineers simulate hundreds of configurations in hours. First-article success rates have improved from roughly 50% to over 90% in shops that use simulation effectively.
 
-The underlying physics involves computational [fluid dynamics](/fluid-dynamics) (for mold filling), [heat transfer](/heat-transfer) (for solidification), and [solid mechanics](/solid-mechanics) (for stress and deformation) — solved simultaneously using finite element [algorithms](/algorithms) on high-performance computers.
+The underlying [physics](/physics) involves computational [fluid dynamics](/fluid-dynamics) (for mold filling), [heat transfer](/heat-transfer) (for solidification), and [solid mechanics](/solid-mechanics) (for stress and deformation) — solved simultaneously using finite element [algorithms](/algorithms) on high-performance computers.
 
 ### 3D Printing Integration
 
@@ -165,11 +165,11 @@ Modern foundries have dramatically improved their environmental performance. Air
 
 The energy equation is straightforward but demanding: melting one metric ton of iron requires roughly 500-600 kWh of [electricity](/electricity) in an induction furnace. The global casting industry melts tens of millions of tons annually. [Alternative energy](/alternative-energy) sources and more efficient furnace designs are active areas of investment.
 
-Recycling is a bright spot. The casting industry is one of the largest recyclers of metals. Scrap iron, aluminum, and steel are the primary feedstocks for many foundries. In some operations, 95%+ of the metal input comes from recycled sources.
+[Recycling](/recycling) is a bright spot. The casting industry is one of the largest recyclers of metals. Scrap iron, aluminum, and steel are the primary feedstocks for many foundries. In some operations, 95%+ of the metal input comes from recycled sources.
 
 ## Casting in Everyday Life
 
-Most people never think about metal casting, yet cast parts surround them. The plumbing in your house — cast bronze or cast iron fittings. Your car — the engine block, transmission housing, brake calipers, and wheel hubs are all castings. [Air conditioning](/air-conditioning) systems use cast compressor housings and valve bodies.
+Most people never think about metal casting, yet cast parts surround them. The [plumbing](/plumbing) in your house — cast bronze or cast iron fittings. Your car — the engine block, transmission housing, brake calipers, and wheel hubs are all castings. [Air conditioning](/air-conditioning) systems use cast compressor housings and valve bodies.
 
 Infrastructure relies on castings. Manhole covers, fire hydrants, bridge bearings, valve bodies, and pump housings are cast. The Statue of Liberty's copper skin was shaped over a cast iron frame. Church bells have been cast in bronze for centuries.
 

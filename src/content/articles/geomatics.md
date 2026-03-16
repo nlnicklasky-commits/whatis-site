@@ -37,15 +37,15 @@ faq:
 
 # What Is Geomatics?
 
-Geomatics is the science and technology of gathering, storing, processing, analyzing, managing, and delivering spatially referenced data — information tied to locations on Earth's surface. It integrates traditional land surveying with modern technologies including GPS/GNSS positioning, remote sensing, geographic [information systems](/information-systems) (GIS), photogrammetry, and [cartography](/cartography) to measure, map, and model the physical world.
+Geomatics is the science and technology of gathering, storing, processing, analyzing, managing, and delivering spatially referenced data — information tied to locations on Earth's surface. It integrates traditional land [surveying](/surveying) with modern technologies including GPS/GNSS positioning, remote sensing, geographic [information systems](/information-systems) (GIS), photogrammetry, and [cartography](/cartography) to measure, map, and model the physical world.
 
 ## Where Everything Meets Location
 
 You've probably never heard the word "geomatics." That's okay — most people haven't, even though they use its products every day. Every time you pull up a map on your phone, get driving directions, check a property boundary, or look at a satellite image, you're using data that geomatics professionals collected, processed, and organized.
 
-The term emerged in the late 1960s and gained traction in the 1990s, primarily in Canada and Europe, as a way to describe the convergence of traditional surveying with digital spatial technologies. In some countries, the same field goes by "geospatial science," "geoinformatics," or "spatial information engineering." The names differ, but the idea is the same: it's the discipline that measures the world, turns those measurements into data, and makes that data useful.
+The term emerged in the late 1960s and gained traction in the 1990s, primarily in Canada and Europe, as a way to describe the convergence of traditional surveying with digital spatial technologies. In some countries, the same field goes by "geospatial science," "geoinformatics," or "spatial information [engineering](/engineering)." The names differ, but the idea is the same: it's the discipline that measures the world, turns those measurements into data, and makes that data useful.
 
-Here's why geomatics matters more than most people realize. About 80% of all data has a location component. Your health records are linked to where you live. Sales data connects to store locations. Environmental monitoring ties to sampling sites. Infrastructure management depends on knowing exactly where every pipe, wire, and road segment is. Geomatics provides the framework for connecting all this information to the physical world.
+Here's why geomatics matters more than most people realize. About 80% of all data has a location component. Your health records are linked to where you live. [Sales](/sales) data connects to store locations. Environmental monitoring ties to sampling sites. Infrastructure [management](/management) depends on knowing exactly where every pipe, wire, and road segment is. Geomatics provides the framework for connecting all this information to the physical world.
 
 ## The Core Technologies
 
@@ -53,7 +53,7 @@ Geomatics sits at the intersection of several technologies, each contributing a 
 
 ### Surveying: The Foundation
 
-Land surveying — the direct measurement of positions, distances, and angles on Earth's surface — is the oldest geomatics technology. The Egyptians surveyed property boundaries after annual Nile floods over 4,000 years ago. Roman surveyors laid out roads and aqueducts with remarkable precision. The craft has been fundamental to civilization since land ownership and infrastructure construction began.
+Land surveying — the direct measurement of positions, distances, and angles on Earth's surface — is the oldest geomatics technology. The Egyptians surveyed property boundaries after annual Nile floods over 4,000 years ago. Roman surveyors laid out roads and aqueducts with remarkable precision. The craft has been fundamental to civilization since land ownership and infrastructure [construction](/construction) began.
 
 Modern surveying uses total stations — instruments that combine electronic distance measurement with precise angle measurement — to determine three-dimensional positions accurate to a few millimeters at distances of several kilometers. Robotic total stations track prisms automatically, allowing one-person operation. These instruments are standard on construction sites, where [civil engineering](/civil-engineering) projects require constant position verification.
 
@@ -61,13 +61,13 @@ Laser scanning — both terrestrial and airborne — captures millions of 3D poi
 
 ### GNSS: Satellites Measuring the Earth
 
-Global Navigation Satellite Systems — GPS (US), GLONASS (Russia), Galileo (EU), BeiDou (China) — have transformed positioning. A basic smartphone GPS provides accuracy of about 3-5 meters. Survey-grade GNSS receivers, using dual-frequency signals and correction services, achieve centimeter or even millimeter accuracy.
+Global [Navigation](/navigation) Satellite Systems — GPS (US), GLONASS (Russia), Galileo (EU), BeiDou (China) — have transformed positioning. A basic smartphone GPS provides accuracy of about 3-5 meters. Survey-grade GNSS receivers, using dual-frequency signals and correction services, achieve centimeter or even millimeter accuracy.
 
 Real-Time Kinematic (RTK) positioning — where a nearby base station broadcasts corrections to a roving receiver — gives centimeter accuracy in real time. This enables machine guidance for construction equipment (bulldozers grade surfaces to design specifications without stakes), precision [agriculture](/agriculture) (tractors follow paths with centimeter repeatability), and countless other applications.
 
 Precise Point Positioning (PPP) uses satellite orbit and clock corrections to achieve centimeter-level accuracy without a local base station — useful in remote areas where correction networks don't exist.
 
-The accuracy of GNSS depends on more than just the satellites. Atmospheric delays, multipath (signals bouncing off buildings), satellite geometry, and receiver quality all affect results. Understanding and managing these error sources is core geomatics expertise.
+The accuracy of GNSS depends on more than just the satellites. Atmospheric delays, multipath (signals bouncing off buildings), satellite [geometry](/geometry), and receiver quality all affect results. Understanding and managing these error sources is core geomatics expertise.
 
 ### Remote Sensing: Observing from Above
 
@@ -107,7 +107,7 @@ For existing infrastructure, geomatics monitors structural health. Survey measur
 
 ### Mining
 
-Mining operations depend on geomatics at every stage. Geological exploration uses airborne geophysics and remote sensing to identify prospective areas. Mine planning uses detailed topographic surveys and 3D geological models. During operations, drone surveys measure stockpile volumes (accurate to within 1-2%), track pit advancement, and monitor wall stability. Reclamation after mining closure uses geomatics to verify that restored landscapes meet regulatory requirements.
+Mining operations depend on geomatics at every stage. Geological exploration uses airborne [geophysics](/geophysics) and remote sensing to identify prospective areas. Mine planning uses detailed topographic surveys and 3D geological models. During operations, drone surveys measure stockpile volumes (accurate to within 1-2%), track pit advancement, and monitor wall stability. Reclamation after mining closure uses geomatics to verify that restored landscapes meet regulatory requirements.
 
 ### Environmental Monitoring
 
@@ -129,7 +129,7 @@ The HD maps used by autonomous vehicles contain centimeter-accurate lane boundar
 
 ### Precision Agriculture
 
-Modern farming increasingly operates on spatial data. Yield monitors on combines create maps showing production variability within fields. Soil sampling at georeferenced locations reveals nutrient and pH patterns. Drone imagery detects crop stress, weed patches, and pest damage. All this spatial [data analysis](/data-analysis) feeds into variable-rate application systems that adjust seed, fertilizer, and pesticide rates based on within-field conditions.
+Modern [farming](/farming) increasingly operates on spatial data. Yield monitors on combines create maps showing production variability within fields. Soil sampling at georeferenced locations reveals nutrient and pH patterns. Drone imagery detects crop stress, weed patches, and pest damage. All this spatial [data analysis](/data-analysis) feeds into variable-rate application systems that adjust seed, fertilizer, and pesticide rates based on within-field conditions.
 
 The result: lower input costs, reduced environmental impact, and maintained or improved yields. Precision agriculture is projected to save global farming $67 billion annually by 2028.
 
@@ -141,7 +141,7 @@ Geomatics generates enormous datasets. A single LiDAR flight over a small city p
 
 ### Accuracy and Reliability
 
-Different applications demand different accuracy levels. A hiking map is fine with 10-meter accuracy. A property boundary survey needs centimeters. Machine guidance for paving needs millimeters. Understanding error sources, propagation, and reporting is essential — and it's one of the areas where trained geomatics professionals add value that automated systems can't easily replace.
+Different applications demand different accuracy levels. A [hiking](/hiking) map is fine with 10-meter accuracy. A property boundary survey needs centimeters. Machine guidance for paving needs millimeters. Understanding error sources, propagation, and reporting is essential — and it's one of the areas where trained geomatics professionals add value that automated systems can't easily replace.
 
 ### Interoperability
 

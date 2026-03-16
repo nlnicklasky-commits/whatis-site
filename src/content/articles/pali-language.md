@@ -47,7 +47,7 @@ The Pali Canon — called the Tipitaka (literally "three baskets") — is one of
 
 **Vinaya Pitaka** (Basket of Discipline) contains the rules governing monastic life — 227 rules for monks and 311 for nuns, with extensive commentary explaining the circumstances behind each rule. It's essentially a legal code for Buddhist monasteries.
 
-**Sutta Pitaka** (Basket of Discourses) contains the Buddha's teachings as remembered and recited by his followers. It includes thousands of discourses (suttas) on [meditation](/meditation), ethics, [philosophy](/philosophy), and [psychology](/psychology). Famous texts like the Dhammapada (verses on the path of truth) and the Satipatthana Sutta (foundations of mindfulness) come from this collection.
+**Sutta Pitaka** (Basket of Discourses) contains the Buddha's teachings as remembered and recited by his followers. It includes thousands of discourses (suttas) on [meditation](/meditation), [ethics](/ethics), [philosophy](/philosophy), and [psychology](/psychology). Famous texts like the Dhammapada (verses on the path of truth) and the Satipatthana Sutta (foundations of mindfulness) come from this collection.
 
 **Abhidhamma Pitaka** (Basket of Higher Doctrine) contains systematic philosophical analysis of the Buddha's teachings — detailed classifications of mental states, physical phenomena, and the processes of consciousness. It's the most technical section and represents the Theravada tradition's effort to organize the teachings into a coherent philosophical system.
 
@@ -55,7 +55,7 @@ The entire canon runs to approximately 20,000 pages in Pali. English translation
 
 ## How Pali Works
 
-Pali is significantly simpler than [Sanskrit](/sanskrit) — both in phonology and grammar. Where Sanskrit preserved complex consonant clusters, Pali simplified them. Where Sanskrit maintained eight grammatical cases, Pali reduced them functionally.
+Pali is significantly simpler than [Sanskrit](/sanskrit) — both in phonology and [grammar](/grammar). Where Sanskrit preserved complex consonant clusters, Pali simplified them. Where Sanskrit maintained eight grammatical cases, Pali reduced them functionally.
 
 Some distinctive features:
 

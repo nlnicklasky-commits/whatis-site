@@ -63,7 +63,7 @@ University finances are more complicated than most people realize. Revenue comes
 
 ## The Growth Debate
 
-Here's where things get contentious. Administrative staffing at American universities has grown dramatically over the past 40 years — and the reasons are a matter of fierce debate.
+Here's where things get contentious. Administrative staffing at American universities has grown dramatically over the past 40 years — and the reasons are a matter of fierce [debate](/debate).
 
 The numbers are stark. Between 1975 and 2015, the number of full-time administrators and professional staff at U.S. colleges more than doubled, while full-time faculty grew by only about 50%. At some institutions, administrative staff now outnumber faculty.
 

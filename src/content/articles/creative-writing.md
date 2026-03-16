@@ -31,7 +31,7 @@ faq:
 
 # What Is Creative Writing?
 
-Creative writing is original written work that prioritizes artistic expression, imagination, and literary craft over purely informational or commercial purposes. It encompasses fiction, [poetry](/poetry), memoir, personal essay, [playwriting](/playwriting), and screenwriting — basically any writing where how you say something matters as much as what you say.
+Creative [writing](/writing) is original written work that prioritizes artistic expression, imagination, and literary craft over purely informational or commercial purposes. It encompasses fiction, [poetry](/poetry), memoir, personal essay, [playwriting](/playwriting), and screenwriting — basically any writing where how you say something matters as much as what you say.
 
 ## The Line Between Creative and Everything Else
 
@@ -41,9 +41,9 @@ When Toni Morrison writes "124 was spiteful" to open *Beloved*, she's not delive
 
 ## The Major Forms
 
-**Fiction** tells invented stories. The novel (typically 50,000-120,000 words), the short story (1,000-10,000 words), and flash fiction (under 1,000 words) are the primary forms. Each demands different skills — novels require sustained narrative [architecture](/architecture); short stories demand compression and precision; flash fiction is more like poetry in prose form.
+**Fiction** tells invented stories. The novel (typically 50,000-120,000 words), the short story (1,000-10,000 words), and flash fiction (under 1,000 words) are the primary forms. Each demands different skills — novels require sustained narrative [architecture](/architecture); short stories demand compression and precision; flash fiction is more like poetry in [prose](/prose) form.
 
-**Poetry** uses language at its most concentrated. Line breaks, rhythm, sound, imagery, and metaphor carry meaning in ways prose typically doesn't. Poetry ranges from formal (sonnets, villanelles, haiku) to free verse to experimental forms that challenge the very definition of poetry. Despite its reputation as niche, poetry collections have seen growing sales in recent years, partly driven by social media poets like Rupi Kaur.
+**Poetry** uses language at its most concentrated. Line breaks, rhythm, sound, imagery, and metaphor carry meaning in ways prose typically doesn't. Poetry ranges from formal (sonnets, villanelles, [haiku](/haiku)) to free verse to experimental forms that challenge the very definition of poetry. Despite its reputation as niche, poetry collections have seen growing [sales](/sales) in recent years, partly driven by social media poets like Rupi Kaur.
 
 **Creative nonfiction** applies literary techniques to true stories. Memoir, personal essay, literary journalism, and nature writing all fall here. The constraint — everything must be true — makes the craft challenge different from fiction. You can't invent the perfect metaphor; you have to find it in reality. Authors like Joan Didion, James Baldwin, and Mary Oliver elevated creative nonfiction into art.
 
@@ -81,9 +81,9 @@ Stephen King reads 70-80 books per year. Most professional writers read at a sim
 
 ## Making a Living
 
-Let's be honest about the economics. Very few creative writers support themselves solely through their creative work. The median income from writing for published authors is well below the poverty line. Most writers who "make a living writing" do so through adjacent work — teaching, [journalism](/journalism), freelance [copywriting](/copywriting), editing, or speaking.
+Let's be honest about the [economics](/economics). Very few creative writers support themselves solely through their creative work. The median income from writing for published authors is well below the poverty line. Most writers who "make a living writing" do so through adjacent work — [teaching](/teaching), [journalism](/journalism), freelance [copywriting](/copywriting), [editing](/editing), or speaking.
 
-This isn't new. William Faulkner wrote screenplays in Hollywood. Toni Morrison worked as an editor at Random House. Wallace Stevens was an insurance executive. The romantic image of the full-time writer supported by book sales alone describes a tiny fraction of published authors.
+This isn't new. William Faulkner wrote screenplays in Hollywood. Toni Morrison worked as an editor at Random House. Wallace Stevens was an [insurance](/insurance) executive. The romantic image of the full-time writer supported by book sales alone describes a tiny fraction of published authors.
 
 That said, writing can generate income — particularly for genre fiction writers (romance, thriller, [science fiction](/science-fiction)) who publish frequently, and for self-published authors who treat their writing as a business. The paths to sustainable creative writing careers are more varied than ever.
 

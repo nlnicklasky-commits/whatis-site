@@ -59,7 +59,7 @@ The Protestant Reformation (1517 onward) was, in many ways, the first media even
 
 ### Newspapers and the Birth of [Journalism](/journalism)
 
-The first regularly published newspaper, *Relation aller Furnemmen und gedenckwurdigen Historien*, appeared in Strasbourg in 1605. By the 18th century, newspapers were the primary vehicle for public political debate.
+The first regularly published newspaper, *Relation aller Furnemmen und gedenckwurdigen Historien*, appeared in Strasbourg in 1605. By the 18th century, newspapers were the primary vehicle for public political [debate](/debate).
 
 The American Revolution was partly fought in print. Pamphlets like Thomas Paine's *Common Sense* (1776) — which sold 500,000 copies, an astonishing number for a colonial population of 2.5 million — shaped public opinion and built support for independence.
 
@@ -85,7 +85,7 @@ But radio also showed media's dark potential. Father Charles Coughlin used radio
 
 ### Television — Seeing Is Believing
 
-Television's development stretched from the late 1920s through the 1940s, with commercial broadcasting beginning in the late 1940s. Adoption was explosive: in 1950, 9% of American households had a TV set. By 1960, 87% did. No previous technology had been adopted so quickly.
+Television's development stretched from the late 1920s through the 1940s, with commercial [broadcasting](/broadcasting) beginning in the late 1940s. Adoption was explosive: in 1950, 9% of American households had a TV set. By 1960, 87% did. No previous technology had been adopted so quickly.
 
 Television's impact was enormous and varied. The 1960 Kennedy-Nixon debates are the textbook example of TV changing politics — radio listeners thought Nixon won on substance, but TV viewers favored the telegenic Kennedy. The Vietnam War was the first "living room war," with nightly news footage showing combat and casualties to American families. The civil rights movement gained national sympathy partly because TV broadcast images of peaceful protesters being attacked with fire hoses and police dogs.
 

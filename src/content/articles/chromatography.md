@@ -35,7 +35,7 @@ faq:
 
 # What Is Chromatography?
 
-Chromatography is a laboratory technique used to separate mixtures into their individual components based on differences in how each component interacts with a stationary material and a moving fluid. Invented by Russian-Italian botanist Mikhail Tsvet in 1900 to separate plant pigments (the name literally means "color writing" in Greek), chromatography has become one of the most widely used analytical methods in modern science, with applications ranging from drug testing to environmental monitoring to food safety.
+Chromatography is a laboratory technique used to separate mixtures into their individual components based on differences in how each component interacts with a stationary material and a moving fluid. Invented by Russian-Italian botanist Mikhail Tsvet in 1900 to separate plant pigments (the name literally means "color [writing](/writing)" in Greek), chromatography has become one of the most widely used analytical methods in modern science, with applications ranging from drug testing to environmental monitoring to food safety.
 
 ## The Basic Idea: Why Separation Matters
 
@@ -53,7 +53,7 @@ Every chromatographic method uses the same fundamental principle: a sample is ca
 
 This is the material that stays put. It might be a solid packed into a column, a thin layer of powder spread on a glass plate, or a coating inside a narrow tube. The key property is that different molecules interact with it differently. Some molecules stick to it strongly. Others barely interact at all.
 
-Think of it like a crowd of people walking through a market. Some people stop at every stall, examine everything, chat with the vendors. Others walk straight through without stopping. Even though everyone started at the same point, the browsers end up far behind the speed walkers. The market stalls are the stationary phase.
+Think of it like a crowd of people [walking](/walking) through a market. Some people stop at every stall, examine everything, chat with the vendors. Others walk straight through without stopping. Even though everyone started at the same point, the browsers end up far behind the speed walkers. The market stalls are the stationary phase.
 
 ### The Mobile Phase
 
@@ -119,7 +119,7 @@ Combining gas chromatography with mass spectrometry creates one of the most powe
 
 GC-MS is the gold standard for forensic drug testing, environmental analysis, and many regulatory applications. When an athlete tests positive for a banned substance, the confirmation test is almost always GC-MS. When law enforcement seizes an unknown powder, GC-MS tells them exactly what it is.
 
-The technique can detect substances at incredibly low concentrations. Modern GC-MS instruments routinely work at parts-per-trillion levels—equivalent to finding a single drop of water in 20 Olympic swimming pools.
+The technique can detect substances at incredibly low concentrations. Modern GC-MS instruments routinely work at parts-per-trillion levels—equivalent to finding a single drop of water in 20 Olympic [swimming](/swimming) pools.
 
 ### Size-Exclusion Chromatography (SEC)
 
@@ -179,7 +179,7 @@ Mikhail Tsvet developed the first chromatographic technique in 1900 while studyi
 
 The technique was largely ignored for decades. It wasn't until Archer John Porter Martin and Richard Laurence Millington Synge developed partition chromatography in 1941 that the method gained wide attention. Their work earned the Nobel Prize in Chemistry in 1952.
 
-Martin went on to develop gas chromatography in 1952 and conceptualize what would become HPLC. The invention of automated HPLC systems in the late 1960s and 1970s transformed analytical chemistry. Suddenly, labs could run dozens of samples per day with high precision and minimal manual effort.
+Martin went on to develop gas chromatography in 1952 and conceptualize what would become HPLC. The [invention](/invention) of automated HPLC systems in the late 1960s and 1970s transformed analytical chemistry. Suddenly, labs could run dozens of samples per day with high precision and minimal manual effort.
 
 Each decade has brought improvements—smaller particles, better detectors, faster systems, and new stationary phase chemistries. Modern ultra-high-performance liquid chromatography (UHPLC) uses sub-2-micrometer particles and pressures up to 1,300 bar, completing analyses in minutes that once took hours.
 
@@ -201,7 +201,7 @@ Chromatography is powerful but not perfect.
 
 **Cost** is a factor. An HPLC system costs $30,000-$200,000. A GC-MS might run $100,000-$500,000. Columns, solvents, and reference standards add ongoing costs. Skilled operators are needed to run the instruments and interpret results.
 
-**Speed** is improving but still a limitation for some applications. While modern methods are much faster than historical ones, analyzing thousands of samples still takes time. High-throughput labs use automation, multiple instruments running in parallel, and rapid methods to maximize sample processing.
+**Speed** is improving but still a limitation for some applications. While modern methods are much faster than historical ones, analyzing thousands of samples still takes time. High-throughput labs use automation, multiple instruments [running](/running) in parallel, and rapid methods to maximize sample processing.
 
 ## The Future of Chromatography
 
@@ -211,7 +211,7 @@ Two-dimensional chromatography—running a sample through two different separati
 
 [Artificial intelligence](/artificial-intelligence) and machine learning are changing how chromatographic data is interpreted. [Pattern recognition](/pattern-recognition) [algorithms](/algorithms) can identify compounds from complex chromatograms faster and more reliably than manual analysis, particularly when dealing with overlapping peaks or noisy data.
 
-Green chromatography aims to reduce the environmental impact of the technique itself—using less toxic solvents, reducing solvent consumption, and recycling waste. Given that a busy HPLC lab might use hundreds of liters of organic solvents per month, these improvements matter.
+Green chromatography aims to reduce the environmental impact of the technique itself—using less toxic solvents, reducing solvent consumption, and [recycling](/recycling) waste. Given that a busy HPLC lab might use hundreds of liters of organic solvents per month, these improvements matter.
 
 ## Why Chromatography Deserves Your Attention
 

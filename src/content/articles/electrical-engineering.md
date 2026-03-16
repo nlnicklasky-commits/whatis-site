@@ -87,9 +87,9 @@ Digital circuit design works with discrete logic states (0 and 1) and involves c
 
 ### Signal Processing
 
-Signal processing extracts useful information from electrical signals, which are often corrupted by noise. [Digital signal processing](/digital-signal-processing) (DSP) is the modern form, converting analog signals to digital, processing them mathematically, and converting back if needed.
+[Signal processing](/signal-processing) extracts useful information from electrical signals, which are often corrupted by noise. [Digital signal processing](/digital-signal-processing) (DSP) is the modern form, converting analog signals to digital, processing them mathematically, and converting back if needed.
 
-Your phone uses DSP constantly. Voice calls involve encoding speech, compressing it, transmitting it, receiving it, decompressing it, and playing it back — all while filtering out background noise. Music streaming, image processing, radar, sonar, medical imaging — all signal processing.
+Your phone uses DSP constantly. Voice calls involve encoding speech, compressing it, transmitting it, receiving it, decompressing it, and playing it back — all while filtering out background noise. Music streaming, [image processing](/image-processing), radar, sonar, [medical imaging](/medical-imaging) — all signal processing.
 
 The Fourier transform is the fundamental tool here. It decomposes any signal into its component frequencies, like a prism splitting white light into colors. Understanding signals in the frequency domain reveals structure that's invisible in the time domain.
 
@@ -97,11 +97,11 @@ The Fourier transform is the fundamental tool here. It decomposes any signal int
 
 Control engineers design systems that regulate behavior automatically. A thermostat is a simple control system: it measures temperature, compares it to a setpoint, and turns heating or cooling on or off. Industrial control systems are vastly more complex, managing chemical reactors, aircraft flight surfaces, robotic arms, and electrical grid frequency.
 
-The fundamental challenge is stability. A poorly designed control system can oscillate wildly or respond sluggishly. Control theory — heavily mathematical, involving Laplace transforms, transfer functions, and state-space models — provides the tools to analyze and guarantee stable, responsive behavior.
+The fundamental challenge is stability. A poorly designed control system can oscillate wildly or respond sluggishly. [Control theory](/control-theory) — heavily mathematical, involving Laplace transforms, transfer functions, and state-space models — provides the tools to analyze and guarantee stable, responsive behavior.
 
 ### Telecommunications
 
-Telecom engineers design the systems that move information: cellular networks, fiber optics, satellite communications, WiFi, and Bluetooth. The field combines electromagnetic wave theory, signal processing, information theory, and network engineering.
+Telecom engineers design the systems that move information: cellular networks, [fiber optics](/fiber-optics), satellite communications, WiFi, and Bluetooth. The field combines electromagnetic wave theory, signal processing, [information theory](/information-theory), and network engineering.
 
 Claude Shannon's information theory (1948) established the theoretical limits of communication — how much data can be transmitted reliably over a noisy channel. Every communication system since has been an attempt to approach Shannon's limit, and modern systems like 5G come remarkably close.
 
@@ -129,7 +129,7 @@ For complex circuits, matrix methods and computer simulation are essential. SPIC
 
 ### Electromagnetic Theory
 
-Maxwell's equations in their full vector calculus form describe electromagnetic fields in all situations. Learning to solve these equations — often involving partial differential equations, boundary conditions, and complex geometries — is a rite of passage for EE students.
+Maxwell's equations in their full [vector calculus](/vector-calculus) form describe electromagnetic fields in all situations. Learning to solve these equations — often involving partial [differential equations](/differential-equations), boundary conditions, and complex geometries — is a rite of passage for EE students.
 
 In practice, numerical methods (finite element analysis, method of moments) handle the complex geometries of real devices. But understanding the underlying physics is essential for knowing which approximations are valid and interpreting results correctly.
 
@@ -143,7 +143,7 @@ If you can handle complex numbers, AC circuits become almost as straightforward 
 
 ### The Energy Transition
 
-The shift from fossil fuels to renewables is fundamentally an electrical engineering problem. Solar and wind are intermittent — they produce power when nature cooperates, not necessarily when demand peaks. Integrating these sources into a stable grid requires energy storage ([battery technology](/battery-technology)), smart grid controls, improved power electronics, and potentially rethinking grid architecture entirely.
+The shift from fossil fuels to renewables is fundamentally an electrical engineering problem. Solar and wind are intermittent — they produce power when nature cooperates, not necessarily when demand peaks. Integrating these sources into a stable grid requires energy storage ([battery technology](/battery-technology)), smart grid controls, improved power electronics, and potentially rethinking grid [architecture](/architecture) entirely.
 
 Electric vehicles add another layer: millions of EVs charging simultaneously could stress distribution systems designed decades ago for different load patterns. Vehicle-to-grid technology, where EV batteries feed power back during peak demand, is an emerging solution that requires sophisticated bidirectional power electronics and control systems.
 
@@ -155,7 +155,7 @@ Engineers are responding with 3D chip stacking, new transistor architectures (ga
 
 ### Quantum Computing
 
-Quantum computing uses quantum mechanical phenomena — superposition, entanglement — to perform computations that classical computers can't handle efficiently. Building a practical quantum computer is primarily an electrical engineering challenge: creating and controlling qubits that maintain quantum coherence in the face of thermal noise and electromagnetic interference.
+[Quantum computing](/quantum-computing) uses quantum mechanical phenomena — superposition, entanglement — to perform computations that classical computers can't handle efficiently. Building a practical quantum computer is primarily an electrical engineering challenge: creating and controlling qubits that maintain quantum coherence in the face of thermal noise and electromagnetic interference.
 
 Current quantum computers require extreme cooling (millikelvins), precise microwave control signals, and extraordinarily sensitive measurement electronics. The engineering challenges are immense, which is why practical, error-corrected quantum computers remain years away despite impressive laboratory demonstrations.
 
@@ -169,9 +169,9 @@ Billions of devices — sensors, actuators, controllers — connected wirelessly
 
 A typical EE undergraduate program includes:
 
-- **Mathematics**: Calculus, differential equations, linear algebra, probability
-- **Physics**: Mechanics and electromagnetism
-- **Core EE**: Circuit analysis, electronics, signals and systems, electromagnetic fields, digital logic
+- **Mathematics**: Calculus, differential equations, [linear algebra](/linear-algebra), probability
+- **Physics**: Mechanics and [electromagnetism](/electromagnetism)
+- **Core EE**: Circuit analysis, electronics, signals and systems, electromagnetic fields, [digital logic](/digital-logic)
 - **Specialization**: Power systems, communications, control, VLSI, embedded systems
 - **Labs**: Hands-on experience with oscilloscopes, function generators, soldering, PCB design, simulation software
 
@@ -186,7 +186,7 @@ The range is staggering:
 - **Telecom**: AT&T, Qualcomm, Ericsson — building communication networks
 - **Aerospace**: Boeing, Lockheed Martin, SpaceX — avionics, power systems, communications
 - **Automotive**: Tesla, traditional automakers — electric powertrains, driver assistance systems
-- **Consumer electronics**: Apple, Samsung, Sony — product design
+- **Consumer electronics**: Apple, Samsung, Sony — [product design](/product-design)
 - **Medical devices**: Medtronic, Boston Scientific — diagnostic and therapeutic equipment
 - **Research labs**: National labs, universities — pushing boundaries
 
@@ -194,7 +194,7 @@ The median annual salary for electrical engineers in the US was about $104,000 i
 
 ## The Relationship to Other Engineering Disciplines
 
-Electrical engineering doesn't exist in isolation. A building requires structural engineering for the frame, mechanical engineering for HVAC, and electrical engineering for power, lighting, fire alarm, and communication systems. An automobile needs mechanical engineering for the drivetrain, [automotive engineering](/automotive-engineering) for the chassis, and electrical engineering for the engine control unit, infotainment, and — increasingly — the entire propulsion system.
+Electrical engineering doesn't exist in isolation. A building requires [structural engineering](/structural-engineering) for the frame, [mechanical engineering](/mechanical-engineering) for HVAC, and electrical engineering for power, lighting, fire alarm, and communication systems. An automobile needs mechanical engineering for the drivetrain, [automotive engineering](/automotive-engineering) for the chassis, and electrical engineering for the engine control unit, infotainment, and — increasingly — the entire propulsion system.
 
 The boundaries between disciplines blur constantly. Mechatronics combines mechanical and electrical engineering. [Computer science](/computer-science) and electrical engineering are deeply intertwined in computer engineering. Biomedical engineering draws on electrical principles for imaging, neural interfaces, and diagnostic equipment.
 

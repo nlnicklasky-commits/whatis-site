@@ -39,7 +39,7 @@ faq:
 
 Natural history is the systematic observation, description, and study of the natural world — animals, plants, fungi, minerals, fossils, weather, and the relationships between them. It's one of the oldest forms of science, predating laboratory experiments by millennia. Before there were microscopes, gene sequencers, or statistical models, there were people watching, collecting, describing, and trying to make sense of the living and non-living world around them.
 
-If that sounds quaint compared to modern molecular [biology](/biology) or computational [ecology](/ecology), consider this: almost everything we know about species distribution, seasonal behavior, population trends, and ecosystem change builds on centuries of natural history observation. Darwin's theory of evolution emerged from natural history. [Conservation biology](/conservation-biology) depends on it. Climate change research uses natural history records stretching back hundreds of years to understand how species and ecosystems are shifting.
+If that sounds quaint compared to modern molecular [biology](/biology) or computational [ecology](/ecology), consider this: almost everything we know about species distribution, seasonal behavior, population trends, and ecosystem change builds on centuries of natural history observation. Darwin's theory of evolution emerged from natural history. [Conservation biology](/conservation-biology) depends on it. [Climate change](/climate-change) research uses natural history records stretching back hundreds of years to understand how species and ecosystems are shifting.
 
 Natural history isn't a relic. It's a foundation — and one that's arguably more important now than ever.
 
@@ -47,15 +47,15 @@ Natural history isn't a relic. It's a foundation — and one that's arguably mor
 
 Natural history is deliberately broad. Historically, it encompassed everything that wasn't "artificial" (human-made). Today, it's generally understood to include:
 
-**Zoology** — the study of animals, from their anatomy and behavior to their classification and distribution. Before genetics existed, naturalists classified animals by careful observation of form, habitat, and behavior. That tradition continues in field [biology](/biology).
+**[Zoology](/zoology)** — the study of animals, from their [anatomy](/anatomy) and behavior to their classification and distribution. Before [genetics](/genetics) existed, naturalists classified animals by careful observation of form, habitat, and behavior. That tradition continues in field [biology](/biology).
 
 **Botany** — the study of plants. Plant collection (herbaria) and description were core natural history activities for centuries. Pressed plant specimens from the 1700s are still scientifically valuable — they document what grew where, providing baselines for measuring ecological change. [Botany](/botany) remains deeply rooted in natural history methods.
 
-**Geology and mineralogy** — the study of rocks, minerals, landforms, and Earth's physical processes. Early geologists were natural historians who described rock formations, collected mineral specimens, and gradually developed the concept of deep geological time.
+**[Geology](/geology) and [mineralogy](/mineralogy)** — the study of rocks, minerals, landforms, and Earth's physical processes. Early geologists were natural historians who described rock formations, collected mineral specimens, and gradually developed the concept of deep geological time.
 
 **[Paleontology](/paleontology)** — the study of fossils and ancient life. Fossil discovery and description is fundamentally natural history work — finding specimens in the field, preparing and describing them, and placing them in evolutionary context.
 
-**Entomology, ornithology, [ichthyology](/ichthyology), [herpetology](/herpetology)** — specialized branches focusing on insects, birds, fish, and reptiles/amphibians respectively. These fields retain particularly strong natural history traditions because field observation remains essential to understanding species behavior, distribution, and ecology.
+**[Entomology](/entomology), [ornithology](/ornithology), [ichthyology](/ichthyology), [herpetology](/herpetology)** — specialized branches focusing on insects, birds, fish, and reptiles/amphibians respectively. These fields retain particularly strong natural history traditions because field observation remains essential to understanding species behavior, distribution, and ecology.
 
 **[Meteorology](/meteorology) and astronomy** — historically grouped under natural history as the study of celestial and atmospheric phenomena. [Astronomy](/astronomy) gradually separated into its own discipline, but weather observation and climate recording retain natural history connections.
 
@@ -103,7 +103,7 @@ The world's natural history collections collectively hold an estimated 3 billion
 
 Natural history requires a specific set of skills that differ from laboratory science.
 
-**Observation.** Really seeing what's in front of you — not just "a bird" but the specific field marks, behavior, habitat, and context. Experienced naturalists notice things invisible to untrained eyes: the subtle difference between two similar butterfly species, the diagnostic bark pattern of a tree, the track pattern that reveals whether an animal was walking or running.
+**Observation.** Really seeing what's in front of you — not just "a bird" but the specific field marks, behavior, habitat, and context. Experienced naturalists notice things invisible to untrained eyes: the subtle difference between two similar butterfly species, the diagnostic bark pattern of a tree, the track pattern that reveals whether an animal was [walking](/walking) or [running](/running).
 
 **Identification.** Knowing what you're looking at. This requires familiarity with regional flora and fauna, field guide proficiency, and often, the ability to key out specimens using dichotomous keys (step-by-step identification tools based on physical characteristics). Modern apps like iNaturalist and Merlin have made identification more accessible, but deep field identification skills still take years to develop.
 
@@ -131,7 +131,7 @@ These comparisons are only possible because naturalists made careful observation
 
 ### Ecosystem Understanding
 
-Understanding how ecosystems function — energy flow, nutrient cycling, species interactions, food web structure — requires knowing what organisms are present and how they interact. This is fundamentally natural history work. You can model an ecosystem mathematically, but the model is only as good as the field data feeding it.
+Understanding how ecosystems function — energy flow, nutrient [cycling](/cycling), species interactions, food web structure — requires knowing what organisms are present and how they interact. This is fundamentally natural history work. You can model an ecosystem mathematically, but the model is only as good as the field data feeding it.
 
 ### Biodiversity Crisis Documentation
 
@@ -153,7 +153,7 @@ These platforms represent a genuine fusion of traditional natural history with m
 
 ## The Problem of Declining Naturalist Expertise
 
-Paradoxically, even as citizen science expands, professional expertise in traditional natural history is declining. Many universities have reduced or eliminated courses in taxonomy, field biology, and organismal biology in favor of [molecular biology](/molecular-biology), genomics, and computational approaches.
+Paradoxically, even as citizen science expands, professional expertise in traditional natural history is declining. Many universities have reduced or eliminated courses in [taxonomy](/taxonomy), field biology, and organismal biology in favor of [molecular biology](/molecular-biology), genomics, and computational approaches.
 
 The result is a growing gap. There are fewer trained taxonomists at the exact moment when the biodiversity crisis demands more. A 2020 study found that about 20% of described species are known from only one or two specimens — meaning a single taxonomist's retirement can effectively remove the expertise needed to identify an entire group of organisms.
 

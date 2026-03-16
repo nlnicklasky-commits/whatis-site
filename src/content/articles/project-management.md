@@ -53,7 +53,7 @@ Every project lives inside a triangle with three constraints: what you're buildi
 
 Want to add features without extending the deadline? You'll need more people (cost goes up) or you'll sacrifice quality. Want to cut the budget? You'll need to reduce scope or extend the timeline. Want to deliver faster? Something has to give — either the scope shrinks or the cost increases.
 
-The project manager's job is to balance these constraints while maintaining quality. Every decision — every "yes" to a new feature request, every "we need to cut the budget by 15%" from finance — shifts the triangle. Good PMs make these trade-offs explicit and visible rather than letting them happen silently.
+The project manager's job is to balance these constraints while maintaining quality. Every decision — every "yes" to a new feature request, every "we need to cut the budget by 15%" from [finance](/finance) — shifts the triangle. Good PMs make these [trade](/trade)-offs explicit and visible rather than letting them happen silently.
 
 Some people add a fourth dimension: quality. You can technically deliver on time and on budget by cutting corners — but if the result is unusable, you haven't really succeeded. The best project managers treat quality as non-negotiable and adjust the other three to accommodate it.
 
@@ -73,7 +73,7 @@ Before planning, you need to define *what* you're doing and *why*. The initiatin
 
 Planning is where the real work of project management begins. A solid plan doesn't guarantee success, but inadequate planning virtually guarantees failure.
 
-**Work breakdown structure (WBS)** decomposes the project into manageable pieces. A WBS for building a house might break down into: foundation, framing, electrical, plumbing, interior finishing, [landscaping](/landscaping). Each of these breaks down further — electrical includes wiring, panel installation, fixture installation, inspection.
+**Work breakdown structure (WBS)** decomposes the project into manageable pieces. A WBS for building a house might break down into: foundation, framing, electrical, [plumbing](/plumbing), interior finishing, [landscaping](/landscaping). Each of these breaks down further — electrical includes wiring, panel installation, fixture installation, inspection.
 
 **[Scheduling](/scheduling)** sequences the work items and estimates durations. Critical path analysis identifies the longest chain of dependent tasks — the sequence that determines the minimum project duration. Any delay on the critical path delays the entire project.
 
@@ -182,7 +182,7 @@ Four standard risk response strategies:
 
 - **Avoid**: Change the plan to eliminate the risk entirely. Using a proven technology instead of an unproven one avoids integration risk.
 - **Mitigate**: Reduce the probability or impact. Cross-training team members mitigates the risk of knowledge loss if someone leaves.
-- **Transfer**: Shift the risk to someone else. Insurance, fixed-price contracts, and warranties transfer risk.
+- **Transfer**: Shift the risk to someone else. [Insurance](/insurance), fixed-price contracts, and warranties transfer risk.
 - **Accept**: Acknowledge the risk and prepare a contingency. Some risks are too expensive to mitigate and must simply be accepted.
 
 ## Tools of the Trade
@@ -205,7 +205,7 @@ The tooling matters less than the process. A great project manager with sticky n
 
 ### Communication
 
-Project managers spend 75-90% of their time communicating, according to PMI research. Writing clear emails, facilitating meetings, presenting to executives, negotiating with stakeholders, and having difficult conversations about delays or budget overruns — communication is the job.
+Project managers spend 75-90% of their time communicating, according to PMI research. [Writing](/writing) clear emails, facilitating meetings, presenting to executives, negotiating with stakeholders, and having difficult conversations about delays or budget overruns — communication is the job.
 
 The most important communication skill is translating between audiences. Engineers need technical detail. Executives need business impact. Clients need reassurance. The PM must speak all these languages fluently.
 
@@ -227,7 +227,7 @@ Project managers negotiate constantly: deadlines with stakeholders, resources wi
 
 ## The PMP and Other Certifications
 
-**PMP (Project Management Professional)** from PMI is the gold standard. Requirements: 3-5 years of experience leading projects, 35 hours of PM education, and passing a 180-question exam covering predictive, agile, and hybrid approaches. About 1.4 million people hold the PMP worldwide.
+**PMP (Project Management Professional)** from PMI is the gold standard. Requirements: 3-5 years of experience leading projects, 35 hours of PM [education](/education), and passing a 180-question exam covering predictive, agile, and hybrid approaches. About 1.4 million people hold the PMP worldwide.
 
 **PRINCE2** certification is common in the UK and Commonwealth countries. It has Foundation and Practitioner levels.
 

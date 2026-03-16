@@ -35,7 +35,7 @@ faq:
 
 # What Is Paleobotany?
 
-Paleobotany is the study of fossil plants—their anatomy, ecology, evolution, and their profound influence on Earth's atmosphere, climate, and the rest of life. It sits at the intersection of [botany](/botany) and [paleontology](/paleontology), using preserved plant remains to reconstruct the history of vegetation stretching back over 470 million years.
+Paleobotany is the study of fossil plants—their [anatomy](/anatomy), [ecology](/ecology), evolution, and their profound influence on Earth's atmosphere, climate, and the rest of life. It sits at the intersection of [botany](/botany) and [paleontology](/paleontology), using preserved plant remains to reconstruct the history of vegetation stretching back over 470 million years.
 
 ## Why Fossil Plants Matter More Than You'd Think
 
@@ -71,9 +71,9 @@ This means different parts of the same plant species often get different scienti
 
 ### The Green Invasion of Land (470-400 Million Years Ago)
 
-The ancestors of land plants were green algae living in freshwater environments. The transition to land required solving enormous problems: desiccation, gravity (no water to float in), UV radiation, and reproduction without swimming sperm.
+The ancestors of land plants were green algae living in freshwater environments. The transition to land required solving enormous problems: desiccation, gravity (no water to float in), UV radiation, and reproduction without [swimming](/swimming) sperm.
 
-The earliest land plants were small, simple things—probably resembling modern liverworts and mosses. They lacked true roots, leaves, and vascular tissue (the internal plumbing that moves water and nutrients). But they had a critical innovation: a waxy cuticle that prevented water loss, and spores with tough walls that could survive exposure to air.
+The earliest land plants were small, simple things—probably resembling modern liverworts and mosses. They lacked true roots, leaves, and vascular tissue (the internal [plumbing](/plumbing) that moves water and nutrients). But they had a critical innovation: a waxy cuticle that prevented water loss, and spores with tough walls that could survive exposure to air.
 
 By about 425 million years ago, vascular plants had appeared. *Cooksonia*, one of the earliest, was barely a few centimeters tall—just simple forking stems with spore-producing tips. But vascular tissue was a game-changer. It allowed plants to grow taller, transport water from roots to aerial parts, and eventually become trees.
 
@@ -173,4 +173,4 @@ Paleobotany answers questions that no other discipline can. How did the atmosphe
 
 Plants built the world we live in—literally. They created the atmosphere we breathe, the soils we farm, the fossil fuels we burn, and the ecosystems that support every animal on Earth. Understanding their history isn't optional if you want to understand the planet.
 
-The fossil plant record is our longest-running experiment in how vegetation responds to environmental change. We'd be foolish to ignore what it tells us.
+The fossil plant record is our longest-[running](/running) experiment in how vegetation responds to environmental change. We'd be foolish to ignore what it tells us.

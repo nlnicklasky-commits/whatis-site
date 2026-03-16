@@ -31,7 +31,7 @@ faq:
 
 # What Is Supernatural Folklore?
 
-Supernatural folklore is the body of traditional stories, beliefs, and practices that deal with phenomena beyond the natural world — ghosts, spirits, demons, witches, vampires, shapeshifters, curses, omens, and forces that defy scientific explanation. Every culture on Earth has these stories. Every one.
+Supernatural [folklore](/folklore) is the body of traditional stories, beliefs, and practices that deal with phenomena beyond the natural world — ghosts, spirits, demons, witches, vampires, shapeshifters, curses, omens, and forces that defy scientific explanation. Every culture on Earth has these stories. Every one.
 
 That universality is the interesting part. Societies that had no contact with each other for millennia independently developed strikingly similar supernatural beliefs. Ghost stories exist everywhere. Spirit possession shows up in nearly every culture. Shape-shifting animals appear in folklore from Siberia to sub-Saharan Africa to South America. Something about the human mind consistently generates these ideas.
 

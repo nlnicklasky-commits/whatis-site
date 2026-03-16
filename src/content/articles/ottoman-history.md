@@ -41,7 +41,7 @@ Ottoman history is the study of the Ottoman Empire — one of the longest-lastin
 
 The origin story is both simple and improbable. Around the end of the 13th century, a Turkic tribal leader named Osman I controlled a small territory in northwestern Anatolia (modern Turkey), on the frontier of the crumbling Byzantine Empire. His band of warriors — called ghazis — raided Byzantine border towns, attracted followers, and gradually expanded their territory.
 
-What made Osman's tiny state different from dozens of similar Turkic principalities in the region? Historians debate this, but [geography](/geography) mattered. Osman's lands sat right at the boundary between the Islamic and Christian worlds. That position attracted warriors seeking both spiritual purpose and material reward. The weakened Byzantine Empire offered easy targets. And the Osmans (later "Ottomans") proved unusually skilled at absorbing conquered peoples rather than just subjugating them.
+What made Osman's tiny state different from dozens of similar Turkic principalities in the region? Historians [debate](/debate) this, but [geography](/geography) mattered. Osman's lands sat right at the boundary between the Islamic and Christian worlds. That position attracted warriors seeking both spiritual purpose and material reward. The weakened Byzantine Empire offered easy targets. And the Osmans (later "Ottomans") proved unusually skilled at absorbing conquered peoples rather than just subjugating them.
 
 Osman's son Orhan captured the important city of Bursa in 1326, making it the first Ottoman capital. His grandson Murad I crossed into Europe in the 1350s and began conquering the Balkans. The Battle of Kosovo in 1389 — still a source of profound national memory for Serbs — effectively ended Serbian independence, though Murad himself died in the battle.
 
@@ -73,11 +73,11 @@ Sinan alone designed over 300 structures across the empire — mosques, bridges,
 
 ### How the Empire Was Governed
 
-Running a territory this vast required sophisticated administration, and the Ottomans built a surprisingly effective system.
+[Running](/running) a territory this vast required sophisticated administration, and the Ottomans built a surprisingly effective system.
 
 The **sultan** held absolute power, at least in theory. In practice, the empire was administered by the **Grand Vizier** and a bureaucratic apparatus called the **Divan** — essentially a cabinet of ministers who ran the day-to-day business of [government](/government).
 
-The **devshirme** system was one of the empire's most distinctive — and disturbing — institutions. Christian boys from the Balkans were taken from their families, converted to Islam, and trained for government or military service. The most talented became administrators, diplomats, or commanders. Others joined the **Janissaries**, the empire's elite infantry corps. The system sounds horrifying by modern standards, and it was deeply resented by the Christian communities it drew from. But it also created a meritocratic channel where a peasant boy could rise to become Grand Vizier — something virtually impossible in contemporary European kingdoms.
+The **devshirme** system was one of the empire's most distinctive — and disturbing — institutions. Christian boys from the Balkans were taken from their families, converted to [Islam](/islam), and trained for government or military service. The most talented became administrators, diplomats, or commanders. Others joined the **Janissaries**, the empire's elite infantry corps. The system sounds horrifying by modern standards, and it was deeply resented by the Christian communities it drew from. But it also created a meritocratic channel where a peasant boy could rise to become Grand Vizier — something virtually impossible in contemporary European kingdoms.
 
 The **millet system** organized non-Muslim populations into semi-autonomous religious communities. Greek Orthodox Christians, Armenian Christians, and Jews each governed their own religious affairs, maintained their own courts for family and [civil law](/civil-law), and collected their own taxes. This wasn't religious equality — non-Muslims paid extra taxes and faced various restrictions — but it was considerably more tolerant than what most of Europe offered its religious minorities during the same period.
 
@@ -89,7 +89,7 @@ What actually happened was more complicated. The empire continued to expand into
 
 **Military stagnation.** European armies adopted new tactics, weapons, and organizational models that the Ottomans were slow to copy. The Janissaries, once the world's most feared infantry, became a conservative political force that resisted modernization.
 
-**Economic shifts.** European maritime expansion — the discovery of the Americas, the opening of sea routes to Asia — redirected global trade flows away from the overland routes the Ottomans controlled. The influx of New World silver caused severe inflation across the empire.
+**Economic shifts.** European maritime expansion — the discovery of the Americas, the opening of sea routes to Asia — redirected global [trade](/trade) flows away from the overland routes the Ottomans controlled. The influx of New World silver caused severe inflation across the empire.
 
 **Nationalist movements.** Starting in the early 19th century, the empire's diverse subject peoples began demanding independence. The Greek War of Independence (1821-1829) was the first successful breakaway, followed by Serbia, Romania, and Bulgaria. Each loss shrank the empire and weakened its revenue base.
 
@@ -117,7 +117,7 @@ The borders of the modern Middle East were drawn on top of former Ottoman provin
 
 The architecture is still standing. Istanbul's skyline is still defined by Ottoman mosques. The Grand Bazaar, built in the 15th century, is still a functioning marketplace. Ottoman hammams, bridges, and caravanserais dot the field from the Balkans to North Africa.
 
-Ottoman cuisine — the ancestor of modern Turkish, Greek, Lebanese, and Balkan cooking — influences what millions of people eat every day. Coffee culture, yogurt, baklava, kebabs, and stuffed grape leaves all trace routes through the Ottoman kitchen.
+Ottoman cuisine — the ancestor of modern Turkish, Greek, Lebanese, and Balkan [cooking](/cooking) — influences what millions of people eat every day. Coffee culture, yogurt, baklava, kebabs, and stuffed grape leaves all trace routes through the Ottoman kitchen.
 
 And the political legacy remains alive and contested. In Turkey, the Ottoman period is a source of pride and nostalgia for some, a symbol of imperial overreach for others, and a permanent fixture in political [rhetoric](/rhetoric). Across the former Ottoman territories, the empire's memory is equally complicated — resented by some, remembered with grudging respect by others, ignored by none.
 

@@ -59,7 +59,7 @@ All three are written right to left, like Arabic and Hebrew. The Syriac alphabet
 
 Here's the part of the story that deserves more attention: Syriac scholars preserved and transmitted Greek knowledge during a period when much of it was being lost in the West.
 
-Between the 5th and 8th centuries, Syriac-speaking [scholars](/middle-eastern-history) — many of them monks — translated Greek works of philosophy, medicine, [astronomy](/astronomy), and logic into Syriac. Aristotle, Hippocrates, Galen, and Euclid were all rendered into Syriac at monastic translation centers.
+Between the 5th and 8th centuries, Syriac-speaking [scholars](/middle-eastern-history) — many of them monks — translated Greek works of philosophy, medicine, [astronomy](/astronomy), and [logic](/logic) into Syriac. Aristotle, Hippocrates, Galen, and Euclid were all rendered into Syriac at monastic translation centers.
 
 When Arab Muslim scholars later undertook their own massive translation project during the Islamic Golden Age (8th-12th centuries), they frequently translated from Syriac rather than directly from Greek. The famous Baghdad House of Wisdom employed numerous Syriac-speaking Christian scholars, including Hunayn ibn Ishaq, who supervised translations of hundreds of Greek medical and scientific works.
 

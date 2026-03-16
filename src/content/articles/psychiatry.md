@@ -39,7 +39,7 @@ Psychiatry is the branch of medicine dedicated to diagnosing, treating, and prev
 
 People mix up psychiatry and psychology constantly, and honestly, the overlap doesn't help. Both deal with the mind. Both treat mental health conditions. But the training, methods, and philosophical starting points differ more than you'd expect.
 
-Psychiatry starts from medicine. A psychiatrist first completes medical school — the same training as a cardiologist or surgeon — then specializes through a four-year residency in psychiatry. This medical foundation means psychiatrists think about mental illness as partly biological: brain chemistry, genetics, [neuroanatomy](/neuroanatomy), hormones. They can prescribe medications, order brain scans, run blood tests, and consider how physical conditions (thyroid disorders, autoimmune diseases, brain tumors) might cause psychiatric symptoms.
+Psychiatry starts from medicine. A psychiatrist first completes medical school — the same training as a cardiologist or surgeon — then specializes through a four-year residency in psychiatry. This medical foundation means psychiatrists think about mental illness as partly biological: brain chemistry, [genetics](/genetics), [neuroanatomy](/neuroanatomy), hormones. They can prescribe medications, order brain scans, run blood tests, and consider how physical conditions (thyroid disorders, autoimmune diseases, brain tumors) might cause psychiatric symptoms.
 
 Psychology starts from behavior and cognition. A clinical psychologist completes a doctoral program focused on understanding and treating behavioral and emotional problems through therapy. They're generally trained in specific psychotherapy modalities — cognitive-behavioral therapy, dialectical behavior therapy, psychodynamic therapy — and in psychological testing.
 
@@ -51,7 +51,7 @@ The history of psychiatry is not exactly a feel-good story. For most of human hi
 
 The first dedicated psychiatric institutions appeared in the medieval Islamic world. The Bimaristan of Baghdad (8th century) and the Maristan of Fez (13th century) provided care for mentally ill patients that was, by the standards of the time, remarkably humane.
 
-In Europe, the picture was grimmer. "Madhouses" like Bethlem Royal Hospital in London (founded 1247, nicknamed "Bedlam") became warehouses for the mentally ill. Patients were chained, displayed for public entertainment, and subjected to treatments including bloodletting, purging, cold baths, and spinning chairs. The logic — insofar as there was any — was that physical shock might restore mental balance.
+In Europe, the picture was grimmer. "Madhouses" like Bethlem Royal Hospital in London (founded 1247, nicknamed "Bedlam") became warehouses for the mentally ill. Patients were chained, displayed for public entertainment, and subjected to treatments including bloodletting, purging, cold baths, and spinning chairs. The [logic](/logic) — insofar as there was any — was that physical shock might restore mental balance.
 
 Reform came slowly. Philippe Pinel in France (1790s) and the Quaker-founded York Retreat in England (1796) championed "moral treatment" — the radical idea that mentally ill people should be treated with dignity, housed in pleasant environments, and given meaningful activities. It worked better than chains, unsurprisingly.
 

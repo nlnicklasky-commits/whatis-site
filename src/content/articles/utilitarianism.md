@@ -153,7 +153,7 @@ This puts utilitarianism in conflict with strong moral intuitions about justice.
 
 ## Why Utilitarianism Won't Go Away
 
-For all its problems, utilitarianism endures because the alternatives have problems too. Deontological ethics (follow moral rules regardless of consequences) struggles to explain why we should follow rules when doing so clearly produces terrible outcomes. [Virtue ethics](/virtue-ethics) (be a virtuous person) struggles to provide concrete guidance in complex situations. Rights-based theories can't resolve conflicts between competing rights without appealing to something like consequences.
+For all its problems, utilitarianism endures because the alternatives have problems too. Deontological [ethics](/ethics) (follow moral rules regardless of consequences) struggles to explain why we should follow rules when doing so clearly produces terrible outcomes. [Virtue ethics](/virtue-ethics) (be a virtuous person) struggles to provide concrete guidance in complex situations. Rights-based theories can't resolve conflicts between competing rights without appealing to something like consequences.
 
 Utilitarianism has a simplicity and a democratic equality — every person's well-being counts the same — that remains deeply appealing. Its demand that we look at outcomes, consider everyone affected, and try to do the most good is hard to reject entirely, even if the strict theory leads to uncomfortable places.
 

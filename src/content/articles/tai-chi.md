@@ -97,8 +97,8 @@ These principles extend beyond martial application. Many practitioners find that
 
 ## Getting Started
 
-Tai chi is accessible to almost everyone. No special equipment, no special clothing, no special fitness level required. You can practice indoors or outdoors, alone or in a group, in a space no larger than a parking spot.
+Tai chi is accessible to almost everyone. No special equipment, no special clothing, no special [fitness](/fitness) level required. You can practice indoors or outdoors, alone or in a group, in a space no larger than a parking spot.
 
-Look for a qualified instructor (ideally one who can explain martial applications, which demonstrates deeper understanding of the movements). Try several classes before committing — the instructor's personality and teaching style matter enormously.
+Look for a qualified instructor (ideally one who can explain martial applications, which demonstrates deeper understanding of the movements). Try several classes before committing — the instructor's personality and [teaching](/teaching) style matter enormously.
 
 Start with a short form. Don't worry about getting everything right immediately. Tai chi rewards patience, and the practice deepens over years. Many long-term practitioners describe it as the most valuable thing they've ever learned for their physical and mental well-being.

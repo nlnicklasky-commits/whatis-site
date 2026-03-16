@@ -75,6 +75,6 @@ Post-[World War II](/world-war-ii) saw socialism spread in various forms. China,
 
 In the United States, "socialism" has become both an insult and an aspiration, depending on who's talking. Polls show younger Americans view socialism more favorably than older generations — a 2021 Axios poll found 49% of Gen Z and Millennials held positive views of socialism.
 
-What they usually mean by "socialism" is closer to Scandinavian [social democracy](/social-democracy) than Soviet central planning — universal healthcare, free college, stronger unions, and higher taxes on the wealthy. Whether that's actually socialism or just reformed capitalism is itself part of the ongoing debate.
+What they usually mean by "socialism" is closer to Scandinavian [social democracy](/social-democracy) than Soviet central planning — universal healthcare, free college, stronger unions, and higher taxes on the wealthy. Whether that's actually socialism or just reformed capitalism is itself part of the ongoing [debate](/debate).
 
 Globally, socialist parties govern or participate in government across Europe, Latin America, and parts of Asia and Africa. The question isn't whether socialism will exist — some version of it always has — but which version, implemented how, and with what safeguards against the historical failures that haunt the tradition.

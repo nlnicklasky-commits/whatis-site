@@ -33,9 +33,9 @@ faq:
 
 # What Is The History of Biology?
 
-The history of biology is the long, messy, sometimes accidental process of figuring out what life is, how it works, and how all living things are connected. It spans from Aristotle classifying sea urchins in the 4th century BCE to scientists in 2023 reading the complete human genome, all three billion base pairs of it.
+The history of [biology](/biology) is the long, messy, sometimes accidental process of figuring out what life is, how it works, and how all living things are connected. It spans from Aristotle classifying sea urchins in the 4th century BCE to scientists in 2023 reading the complete human genome, all three billion base pairs of it.
 
-What makes biology's history unique among the sciences is how late it came together. Physics had Newton in 1687. [Chemistry](/chemistry) had Lavoisier in the 1770s. Biology didn't get its unifying theory — evolution by natural selection — until 1859, and the mechanism underlying it (DNA) wasn't understood until 1953. For most of human history, studying life meant cataloging what you could see and guessing at the rest.
+What makes biology's history unique among the sciences is how late it came together. [Physics](/physics) had Newton in 1687. [Chemistry](/chemistry) had Lavoisier in the 1770s. Biology didn't get its unifying theory — evolution by natural selection — until 1859, and the mechanism underlying it (DNA) wasn't understood until 1953. For most of human history, studying life meant cataloging what you could see and guessing at the rest.
 
 ## Ancient Biology: Observation Without Microscopes
 
@@ -87,7 +87,7 @@ Cell theory was to biology what atomic theory was to chemistry — a fundamental
 
 ### Darwin and Natural Selection (1859)
 
-Charles Darwin spent five years aboard HMS Beagle (1831-1836), observing geology and biology across South America, the Galapagos Islands, and the Pacific. He noticed patterns — similar species on different islands with different adaptations, fossil sequences showing gradual change — and spent the next 20 years developing his theory.
+Charles Darwin spent five years aboard HMS Beagle (1831-1836), observing [geology](/geology) and biology across South America, the Galapagos Islands, and the Pacific. He noticed patterns — similar species on different islands with different adaptations, fossil sequences showing gradual change — and spent the next 20 years developing his theory.
 
 *On the Origin of Species* (1859) argued two things. First, species change over time (evolution). Second, the primary mechanism is natural selection — organisms with traits better suited to their environment are more likely to survive and reproduce, passing those traits to offspring. Over many generations, this process produces new species.
 
@@ -107,7 +107,7 @@ The irony is thick. Darwin struggled throughout his career with the mechanism of
 
 ### The Modern Synthesis (1930s-1940s)
 
-For decades after Mendel's rediscovery, genetics and evolution seemed to contradict each other. Mendelian genetics dealt with discrete traits (round vs. wrinkled seeds). Darwinian evolution required continuous, gradual variation.
+For decades after Mendel's rediscovery, [genetics](/genetics) and evolution seemed to contradict each other. Mendelian genetics dealt with discrete traits (round vs. wrinkled seeds). Darwinian evolution required continuous, gradual variation.
 
 Scientists including Ronald Fisher, J.B.S. Haldane, Sewall Wright, Theodosius Dobzhansky, and Ernst Mayr resolved this conflict by showing mathematically that Mendelian inheritance of many genes, each with small effects, could produce the continuous variation that natural selection acts upon. This "modern synthesis" unified biology's two biggest ideas into a single framework.
 

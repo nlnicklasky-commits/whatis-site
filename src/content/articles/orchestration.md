@@ -31,7 +31,7 @@ faq:
 
 # What Is Orchestration?
 
-Orchestration is the art and technique of [writing](/writing) music for an orchestra — or more precisely, deciding which instruments play which notes. It's the difference between a melody played by a solo [flute](/flute) and the same melody scored for full strings with [French horn](/french-horn) countermelody, harp arpeggios, and a timpani roll underneath. The notes might be identical, but the sound world is completely different. Orchestration is what makes an orchestra sound like an orchestra rather than 80 people playing the same thing simultaneously.
+Orchestration is the art and technique of [writing](/writing) music for an orchestra — or more precisely, deciding which instruments play which notes. It's the difference between a melody played by a solo [flute](/flute) and the same melody scored for full strings with [French horn](/french-horn) countermelody, [harp](/harp) arpeggios, and a timpani roll underneath. The notes might be identical, but the sound world is completely different. Orchestration is what makes an orchestra sound like an orchestra rather than 80 people playing the same thing simultaneously.
 
 ## Why It Matters
 
@@ -49,7 +49,7 @@ Understanding orchestration means understanding what each instrument can do.
 
 **Woodwinds** (flute, oboe, clarinet, bassoon, and their extended family) each have distinct personalities. The flute is bright and agile. The oboe is reedy and penetrating. The clarinet has an enormous active range and a liquid tone. The bassoon is warm and slightly comical in its upper register, dark and dignified in its lower range. Orchestrators exploit these personality differences constantly.
 
-**Brass** (French horn, [trumpet](/trumpet), trombone, tuba) bring power and brilliance. A brass chorale can sound like a cathedral. A solo trumpet can cut through the entire orchestra. French horns blend beautifully with both woodwinds and strings, making them the most versatile brass instrument. Muted brass — using devices inserted into the bell — creates entirely different timbres, from distant and mysterious to buzzy and aggressive.
+**Brass** (French horn, [trumpet](/trumpet), trombone, [tuba](/tuba)) bring power and brilliance. A brass chorale can sound like a cathedral. A solo trumpet can cut through the entire orchestra. French horns blend beautifully with both woodwinds and strings, making them the most versatile brass instrument. Muted brass — using devices inserted into the bell — creates entirely different timbres, from distant and mysterious to buzzy and aggressive.
 
 **Percussion** covers everything from timpani and bass drum to triangle, cymbals, xylophone, marimba, glockenspiel, and dozens of other instruments. Percussion adds rhythm, color, punctuation, and special effects. A single cymbal crash can mark a structural moment. A snare drum roll can build tension. Tubular bells can evoke church towers.
 

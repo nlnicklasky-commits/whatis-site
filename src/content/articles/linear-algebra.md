@@ -35,9 +35,9 @@ faq:
 
 # What Is Linear Algebra?
 
-Linear algebra is the branch of mathematics that studies vectors, matrices, vector spaces, and linear transformations. It provides the language and tools for solving systems of linear equations and understanding geometric transformations in any number of dimensions.
+Linear algebra is the branch of [mathematics](/mathematics) that studies vectors, matrices, vector spaces, and linear transformations. It provides the language and tools for solving systems of linear equations and understanding geometric transformations in any number of dimensions.
 
-Here's the thing most people don't realize: linear algebra is arguably the most *useful* math you'll ever learn. Not calculus. Not statistics. Linear algebra. It runs your Google searches, trains your AI models, renders your video games, and compresses your Netflix streams. And yet, most people have never heard of it until college — if they hear about it at all.
+Here's the thing most people don't realize: linear algebra is arguably the most *useful* math you'll ever learn. Not calculus. Not [statistics](/statistics). Linear algebra. It runs your Google searches, trains your AI models, renders your video games, and compresses your Netflix streams. And yet, most people have never heard of it until college — if they hear about it at all.
 
 ## Vectors: The Starting Point
 
@@ -132,9 +132,9 @@ Most vectors change both direction and magnitude when you apply a matrix transfo
 
 **Google's PageRank**: The importance scores of web pages are the eigenvector of the link matrix corresponding to eigenvalue 1. Google built a trillion-dollar company on an eigenvector calculation.
 
-**Structural engineering**: When engineers analyze a bridge or building for vibration, they compute eigenvalues to find the natural frequencies. If an earthquake hits at one of those frequencies, you get resonance — and potential collapse. The eigenvalues literally tell you which frequencies to worry about.
+**[Structural engineering](/structural-engineering)**: When engineers analyze a bridge or building for vibration, they compute eigenvalues to find the natural frequencies. If an earthquake hits at one of those frequencies, you get resonance — and potential collapse. The eigenvalues literally tell you which frequencies to worry about.
 
-**Quantum mechanics**: Observable quantities in quantum physics correspond to eigenvalues of operators. The possible energy levels of an atom are eigenvalues of the Hamiltonian operator. This isn't a metaphor — it's the actual mathematical structure of quantum theory.
+**[Quantum mechanics](/quantum-mechanics)**: Observable quantities in [quantum physics](/quantum-physics) correspond to eigenvalues of operators. The possible energy levels of an atom are eigenvalues of the Hamiltonian operator. This isn't a metaphor — it's the actual mathematical structure of quantum theory.
 
 **Principal Component Analysis (PCA)**: In [data science](/data-science), PCA finds the eigenvalues and eigenvectors of a data covariance matrix to identify the most important dimensions of variation. This is how you reduce a dataset with 1,000 features down to 10 meaningful ones.
 
@@ -170,13 +170,13 @@ An **orthonormal basis** is a set of mutually perpendicular unit vectors. Workin
 
 Given any set of independent vectors, the Gram-Schmidt process systematically produces an orthonormal set that spans the same space. It's like taking a messy set of coordinate axes and straightening them into clean, perpendicular ones.
 
-This procedure is fundamental in numerical computing, signal processing, and quantum mechanics. When engineers compute the QR decomposition of a matrix (breaking it into an orthogonal matrix times an upper triangular matrix), they're essentially running Gram-Schmidt.
+This procedure is fundamental in numerical computing, [signal processing](/signal-processing), and quantum mechanics. When engineers compute the QR decomposition of a matrix (breaking it into an orthogonal matrix times an upper triangular matrix), they're essentially running Gram-Schmidt.
 
 ### Least Squares: When Exact Solutions Don't Exist
 
 Often, you have more equations than unknowns — an **overdetermined** system with no exact solution. Think of fitting a line to 100 data points: unless all points are perfectly collinear, no line passes through all of them.
 
-The **least squares** solution finds the vector x that minimizes the total squared error. It's the "best fit" solution, and it's computed using the formula x = (A^T A)^(-1) A^T b. This single formula underlies most of [data analysis](/data-analysis), regression in statistics, and curve fitting in engineering.
+The **least squares** solution finds the vector x that minimizes the total squared error. It's the "best fit" solution, and it's computed using the formula x = (A^T A)^(-1) A^T b. This single formula underlies most of [data analysis](/data-analysis), regression in statistics, and curve fitting in [engineering](/engineering).
 
 Every time someone fits a trendline to data, they're using least squares. Every time a GPS receiver computes your position from satellite signals (more signals than unknowns), it's using least squares.
 
@@ -192,7 +192,7 @@ The SVD reveals the fundamental structure of a matrix. The singular values tell 
 
 **Recommendation systems**: Netflix's recommendation engine uses SVD-like techniques to decompose the massive user-movie rating matrix into user preferences and movie characteristics. The SVD finds the hidden factors that explain why certain users like certain movies.
 
-**Natural language processing**: Latent Semantic Analysis uses SVD to find hidden relationships between words and documents. Words that appear in similar contexts end up close together in the reduced space, even if they never appear in the same document.
+**[Natural language processing](/natural-language-processing)**: Latent Semantic Analysis uses SVD to find hidden relationships between words and documents. Words that appear in similar contexts end up close together in the reduced space, even if they never appear in the same document.
 
 **Noise reduction**: In signal processing, the SVD separates signal (large singular values) from noise (small singular values). Discarding small singular values effectively filters out noise.
 
@@ -208,7 +208,7 @@ A neural network is, at each layer, a matrix multiplication followed by a non-li
 
 **Convolutions** in image recognition are matrix operations applied across spatial regions of an image.
 
-**Attention mechanisms** in transformer models (the architecture behind ChatGPT and similar systems) are fundamentally matrix multiplication: queries, keys, and values are all matrices, and attention scores are computed as matrix products.
+**Attention mechanisms** in transformer models (the [architecture](/architecture) behind ChatGPT and similar systems) are fundamentally matrix multiplication: queries, keys, and values are all matrices, and attention scores are computed as matrix products.
 
 The entire [artificial intelligence](/artificial-intelligence) revolution runs on linear algebra executed at massive scale on GPUs.
 
@@ -216,11 +216,11 @@ The entire [artificial intelligence](/artificial-intelligence) revolution runs o
 
 ### Physics
 
-Nearly all of physics is linear algebra once you dig deep enough. Quantum mechanics operates entirely in complex vector spaces. [Electromagnetism](/electromagnetism) uses vector fields and tensor algebra. General relativity describes spacetime curvature using tensor equations — which are generalizations of matrix equations to higher dimensions.
+Nearly all of physics is linear algebra once you dig deep enough. Quantum mechanics operates entirely in complex vector spaces. [Electromagnetism](/electromagnetism) uses vector fields and tensor algebra. [General relativity](/general-relativity) describes spacetime curvature using tensor equations — which are generalizations of matrix equations to higher dimensions.
 
 ### Economics and Finance
 
-Input-output models in [economics](/economics) use matrices to describe how different sectors of an economy interact. Portfolio optimization in [finance](/finance) involves covariance matrices of asset returns. Linear programming (itself a matrix-based technique) optimizes resource allocation.
+Input-output models in [economics](/economics) use matrices to describe how different sectors of an economy interact. Portfolio [optimization](/optimization) in [finance](/finance) involves covariance matrices of asset returns. [Linear programming](/linear-programming) (itself a matrix-based technique) optimizes resource allocation.
 
 ### Engineering
 
@@ -248,9 +248,9 @@ Linear algebra has ancient roots. The Babylonians solved systems of linear equat
 
 Arthur Cayley formalized matrix algebra in 1858. Hermann Grassmann developed the theory of vector spaces. The term "linear algebra" itself emerged in the early 20th century as the subject coalesced from various mathematical threads.
 
-The field exploded in importance during World War II, when large systems of equations arose in military applications — ballistics, cryptography, and logistics. The development of computers made large-scale linear algebra computations practical, and the subject has grown in importance every decade since.
+The field exploded in importance during [World War II](/world-war-ii), when large systems of equations arose in military applications — ballistics, [cryptography](/cryptography), and [logistics](/logistics). The development of computers made large-scale linear algebra computations practical, and the subject has grown in importance every decade since.
 
-Today, linear algebra is required coursework in mathematics, engineering, physics, computer science, data science, and increasingly in biology and economics. Its centrality to modern science and technology is hard to overstate.
+Today, linear algebra is required coursework in mathematics, engineering, physics, [computer science](/computer-science), data science, and increasingly in biology and economics. Its centrality to modern science and technology is hard to overstate.
 
 ## Learning Linear Algebra: Practical Advice
 

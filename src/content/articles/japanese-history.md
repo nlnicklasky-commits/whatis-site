@@ -39,19 +39,19 @@ Japanese history is the story of an island civilization that developed largely i
 
 ## The Ancient Foundations
 
-Japan's earliest known culture, the Jomon, produced some of the world's oldest pottery — cord-marked ceramics dating to around 14,000 BCE. The Jomon people were hunter-gatherers who lived in settled communities, an unusual combination that challenges the standard narrative about the development of civilization.
+Japan's earliest known culture, the Jomon, produced some of the world's oldest [pottery](/pottery) — cord-marked [ceramics](/ceramics) dating to around 14,000 BCE. The Jomon people were hunter-gatherers who lived in settled communities, an unusual combination that challenges the standard narrative about the development of civilization.
 
-Wet-rice agriculture arrived from the Korean Peninsula around 300 BCE, marking the beginning of the Yayoi period. [Rice farming](/rice-farming) transformed everything. Populations grew. Social hierarchies formed around control of productive land. [Metalworking](/metalworking) appeared. By the 3rd century CE, powerful clans competed for dominance.
+Wet-rice [agriculture](/agriculture) arrived from the Korean Peninsula around 300 BCE, marking the beginning of the Yayoi period. [Rice farming](/rice-farming) transformed everything. Populations grew. Social hierarchies formed around control of productive land. [Metalworking](/metalworking) appeared. By the 3rd century CE, powerful clans competed for dominance.
 
-The Yamato clan gradually consolidated power, claiming descent from the sun goddess Amaterasu and establishing the imperial line that continues (at least nominally) to this day. Japan's imperial dynasty is the oldest continuous hereditary monarchy in the world — tradition places its founding at 660 BCE, though reliable historical records begin much later.
+The Yamato clan gradually consolidated power, claiming descent from the sun goddess Amaterasu and establishing the imperial line that continues (at least nominally) to this day. Japan's imperial dynasty is the oldest continuous hereditary [monarchy](/monarchy) in the world — tradition places its founding at 660 BCE, though reliable historical records begin much later.
 
 ## Chinese Influence and the Nara-Heian Period
 
-Japan's relationship with China shaped its early civilization profoundly. Beginning in the 6th century, Japanese elites deliberately imported Chinese writing, Buddhism, Confucian philosophy, administrative systems, and architectural styles. The effort was systematic and conscious — official missions to Tang Dynasty China brought back knowledge, texts, and cultural practices.
+Japan's relationship with China shaped its early civilization profoundly. Beginning in the 6th century, Japanese elites deliberately imported Chinese [writing](/writing), Buddhism, Confucian [philosophy](/philosophy), administrative systems, and architectural styles. The effort was systematic and conscious — official missions to Tang Dynasty China brought back knowledge, texts, and cultural practices.
 
-The Nara period (710-794) saw Japan establish its first permanent capital, modeled on the Chinese city of Chang'an. Buddhism became the de facto state religion. The earliest surviving works of Japanese literature — the *Kojiki* (712) and *Nihon Shoki* (720) — compiled myth, legend, and history to legitimize the imperial line.
+The Nara period (710-794) saw Japan establish its first permanent capital, modeled on the Chinese city of Chang'an. Buddhism became the de facto state [religion](/religion). The earliest surviving works of Japanese [literature](/literature) — the *Kojiki* (712) and *Nihon Shoki* (720) — compiled myth, legend, and history to legitimize the imperial line.
 
-The Heian period (794-1185) produced perhaps the most refined court culture in human history. The capital at Heian-kyo (modern Kyoto) was home to an aristocracy obsessed with [aesthetics](/aesthetics), poetry, and social refinement. The *Tale of Genji*, written by Lady Murasaki Shikibu around 1000 CE, is often called the world's first novel. Sei Shonagon's *Pillow Book* captures court life with witty, observant prose that reads remarkably well a thousand years later.
+The Heian period (794-1185) produced perhaps the most refined court culture in human history. The capital at Heian-kyo (modern Kyoto) was home to an aristocracy obsessed with [aesthetics](/aesthetics), [poetry](/poetry), and social refinement. The *Tale of Genji*, written by Lady Murasaki Shikibu around 1000 CE, is often called the world's first novel. Sei Shonagon's *Pillow Book* captures court life with witty, observant prose that reads remarkably well a thousand years later.
 
 What's striking about Heian culture is that its greatest literary achievements were produced by women. Aristocratic men wrote in Chinese (the prestige language); women wrote in Japanese, using the hiragana syllabary, and created the foundational works of Japanese literature.
 
@@ -59,11 +59,11 @@ But Heian refinement masked political reality. Real power shifted from the imper
 
 ## The Age of the Samurai
 
-The samurai era began in 1185, when the Minamoto clan defeated the Taira clan in the Genpei War and established the Kamakura Shogunate — a military government that ruled in the emperor's name but held all actual power. The emperor became a figurehead, a role he would occupy for most of the next 700 years.
+The samurai era began in 1185, when the Minamoto clan defeated the Taira clan in the Genpei War and established the Kamakura Shogunate — a military [government](/government) that ruled in the emperor's name but held all actual power. The emperor became a figurehead, a role he would occupy for most of the next 700 years.
 
 The samurai were originally mounted warriors — the word comes from *saburau*, "to serve." Over time, they developed into a distinct social class with its own code of conduct. Bushido — "the way of the warrior" — emphasized loyalty to one's lord, martial skill, honor, discipline, and (somewhat paradoxically) cultural refinement. A samurai was expected to write poetry and conduct [tea ceremony](/tea-ceremony) with the same skill he wielded a sword.
 
-The Kamakura Shogunate survived the Mongol invasions of 1274 and 1281. Kublai Khan sent massive fleets — the second invasion force may have included 140,000 men, making it the largest naval invasion in history until D-Day. Both invasions were thwarted by a combination of Japanese resistance and devastating typhoons — the *kamikaze* or "divine wind." The belief that Japan was divinely protected became a powerful element of national mythology.
+The Kamakura Shogunate survived the Mongol invasions of 1274 and 1281. Kublai Khan sent massive fleets — the second invasion force may have included 140,000 men, making it the largest naval invasion in history until D-Day. Both invasions were thwarted by a combination of Japanese resistance and devastating typhoons — the *kamikaze* or "divine wind." The belief that Japan was divinely protected became a powerful element of national [mythology](/mythology).
 
 The Sengoku period ("Warring States," roughly 1467-1615) was Japan's most chaotic era. The central shogunate collapsed, and regional warlords (daimyo) fought for supremacy. It was a period of near-constant warfare but also of considerable social mobility — peasants could become warriors, warriors could become lords. Three successive unifiers — Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu — gradually reassembled Japan's political order.
 
@@ -75,7 +75,7 @@ The Tokugawa system was ingenious in its control mechanisms. Daimyo were require
 
 The isolation wasn't total — Japan maintained limited contact with China, Korea, and the Ryukyu Kingdom — but it was dramatic. [Christianity](/christianity), initially tolerated, was brutally suppressed after the Shimabara Rebellion (1637-1638), in which roughly 37,000 Christians and peasants were massacred. Foreign books were banned. Japanese who left the country faced execution upon return.
 
-Yet the Tokugawa period was far from stagnant. Edo grew to over one million people by 1720, making it possibly the world's largest city. A vibrant urban culture emerged: kabuki theater, ukiyo-e woodblock prints (later a major influence on European [Impressionism](/impressionism)), the haiku poetry of Matsuo Basho, and a publishing industry that produced books, guides, and even proto-manga.
+Yet the Tokugawa period was far from stagnant. Edo grew to over one million people by 1720, making it possibly the world's largest city. A vibrant urban culture emerged: kabuki theater, ukiyo-e woodblock prints (later a major influence on European [Impressionism](/impressionism)), the haiku poetry of Matsuo Basho, and a [publishing](/publishing) industry that produced books, guides, and even proto-manga.
 
 The merchant class, theoretically at the bottom of the social hierarchy, grew wealthy and culturally influential. Samurai, barred from commerce, often fell into debt to the merchants they officially outranked. The system's contradictions accumulated over centuries.
 
@@ -85,7 +85,7 @@ The arrival of Commodore Matthew Perry's American warships in 1853 — the "Blac
 
 In 1868, a coalition of samurai from the domains of Satsuma, Choshu, Tosa, and Hizen overthrew the shogunate and restored imperial rule — the Meiji Restoration. The 15-year-old Emperor Meiji became the symbol of a new Japan.
 
-What followed was one of the most remarkable transformations in history. Japan's new leaders studied Western nations systematically, sending delegations to Europe and America. They adopted whatever seemed useful: a British-style navy, a French (later German) army, a German constitution, an American public education system, Western legal codes.
+What followed was one of the most remarkable transformations in history. Japan's new leaders studied Western nations systematically, sending delegations to Europe and America. They adopted whatever seemed useful: a British-style navy, a French (later German) army, a German constitution, an American public [education](/education) system, Western legal codes.
 
 The speed was astonishing. Japan's first railway opened in 1872. The samurai class was abolished in the 1870s (with cash stipends that funded many former samurai's transitions into business). Universal male conscription replaced the warrior class. A modern banking system, postal service, and telegraph network were established. By the 1890s, Japan had a parliamentary government, a modern military, and a rapidly growing industrial economy.
 
@@ -93,7 +93,7 @@ The speed was astonishing. Japan's first railway opened in 1872. The samurai cla
 
 Success bred ambition. Japan defeated China in 1894-1895, taking Taiwan and gaining influence in Korea. The Russo-Japanese War of 1904-1905 — in which Japan defeated a European great power for the first time in [modern history](/modern-history) — shocked the world and established Japan as a major military force. Korea was formally annexed in 1910.
 
-World War I was profitable for Japan. As an Allied power, Japan took German possessions in the Pacific and expanded its industrial output. The 1920s brought democratic trends — expanded suffrage, party politics, cultural liberalization — in what's sometimes called "Taisho democracy."
+[World War I](/world-war-i) was profitable for Japan. As an Allied power, Japan took German possessions in the Pacific and expanded its industrial output. The 1920s brought democratic trends — expanded suffrage, party politics, cultural liberalization — in what's sometimes called "Taisho democracy."
 
 But the Great Depression hit Japan hard, and military factions gained influence. Japan invaded Manchuria in 1931, withdrew from the League of Nations in 1933, and launched a full-scale invasion of China in 1937. The Nanjing Massacre (1937-1938), in which Japanese soldiers killed an estimated 200,000-300,000 Chinese civilians and prisoners of war, remains one of the most controversial and painful episodes in East [Asian history](/asian-history).
 
@@ -105,7 +105,7 @@ The American occupation (1945-1952) under General Douglas MacArthur restructured
 
 The economic recovery was extraordinary. Japan's GDP grew at roughly 10% annually from 1950 to 1973 — the "economic miracle." Companies like Toyota, Sony, Honda, and Panasonic became global brands. Japanese manufacturing techniques — kaizen (continuous improvement), just-in-time production, quality circles — influenced business practices worldwide. By 1968, Japan had the world's second-largest economy.
 
-The 1980s were a period of dizzying prosperity. Japanese real estate and stock prices soared to absurd levels — the Imperial Palace grounds in Tokyo were reportedly valued higher than all the real estate in California. Then the bubble burst. The 1990s became the "Lost Decade" — a period of deflation, stagnation, and banking crises that challenged Japan's economic model.
+The 1980s were a period of dizzying prosperity. Japanese [real estate](/real-estate) and stock prices soared to absurd levels — the Imperial Palace grounds in Tokyo were reportedly valued higher than all the real estate in California. Then the bubble burst. The 1990s became the "Lost Decade" — a period of deflation, stagnation, and banking crises that challenged Japan's economic model.
 
 ## Modern Japan
 
@@ -119,4 +119,4 @@ Japan's relationship with its wartime past remains contentious. Periodic controv
 
 Japan's history offers a case study in adaptation that's hard to match. A civilization that deliberately isolated itself for 250 years then deliberately opened itself and industrialized faster than any country in history. A nation utterly destroyed in 1945 that rebuilt into an economic superpower within a generation. A culture that absorbed enormous foreign influence — Chinese, Western — while maintaining a distinct identity.
 
-Understanding Japanese history helps explain contemporary East Asian geopolitics, global manufacturing and trade patterns, and the spread of cultural influence in the digital age. It also raises fascinating questions about the relationship between tradition and modernity, isolation and engagement, and the choices societies make about which parts of their past to preserve and which to leave behind.
+Understanding Japanese history helps explain contemporary East Asian [geopolitics](/geopolitics), global manufacturing and trade patterns, and the spread of cultural influence in the digital age. It also raises fascinating questions about the relationship between tradition and modernity, isolation and engagement, and the choices societies make about which parts of their past to preserve and which to leave behind.

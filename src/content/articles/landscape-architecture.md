@@ -31,7 +31,7 @@ faq:
 
 # What Is Field [Architecture](/architecture)?
 
-Field architecture is the profession of designing outdoor environments — from backyard gardens to [national parks](/national-parks), from corporate campuses to urban waterfronts. It sits at the intersection of art, ecology, [engineering](/engineering), and social science, because designing outdoor spaces requires understanding not just how things look, but how water flows, how plants grow, how people move through space, and how communities use public places.
+Field architecture is the profession of designing outdoor environments — from backyard gardens to [national parks](/national-parks), from corporate campuses to urban waterfronts. It sits at the intersection of art, [ecology](/ecology), [engineering](/engineering), and social science, because designing outdoor spaces requires understanding not just how things look, but how water flows, how plants grow, how people move through space, and how communities use public places.
 
 ## More Than Pretty Gardens
 
@@ -51,7 +51,7 @@ Olmsted went on to design Boston's Emerald Necklace, the grounds of the U.S. Cap
 
 ## What Field Architects Do
 
-**Site analysis** — before designing anything, field architects study the site. [Topography](/topography), soil types, hydrology (where water flows), existing vegetation, microclimates, views, and how the site connects to its surroundings. Good design starts with understanding what is already there.
+**Site analysis** — before designing anything, field architects study the site. [Topography](/topography), soil types, [hydrology](/hydrology) (where water flows), existing vegetation, microclimates, views, and how the site connects to its surroundings. Good design starts with understanding what is already there.
 
 **Master planning** — creating the overall vision for how a site will be organized. This includes circulation (paths, roads, gathering areas), program (what activities happen where), grading (reshaping the land surface for drainage and accessibility), and planting design.
 
@@ -65,9 +65,9 @@ Olmsted went on to design Boston's Emerald Necklace, the grounds of the U.S. Cap
 
 A typical field architecture project follows these phases:
 
-**Programming** — what does the client need? A community might want a park with sports fields, playgrounds, and walking paths. A corporation might want a campus that attracts employees. A university might need a quad that handles 5,000 students between classes.
+**Programming** — what does the client need? A community might want a park with sports fields, playgrounds, and [walking](/walking) paths. A corporation might want a campus that attracts employees. A university might need a quad that handles 5,000 students between classes.
 
-**Schematic design** — broad-strokes layout. Where do things go? How does the space flow? This phase involves lots of sketching, digital modeling, and client discussions.
+**Schematic design** — broad-strokes layout. Where do things go? How does the space flow? This phase involves lots of [sketching](/sketching), digital modeling, and client discussions.
 
 **Design development** — refining the schematic into detailed plans. Specifying materials, plants, grading, drainage, lighting, and furnishings.
 

@@ -35,7 +35,7 @@ faq:
 
 # What Is Roman History?
 
-Roman history is the story of how a cluster of mud huts on the banks of the Tiber River grew into the most powerful state the ancient world ever produced — and then, over centuries, fell apart. It spans roughly 1,200 years if you count from Rome's traditional founding in 753 BC to the fall of the Western Roman Empire in 476 AD. Include the Eastern (Byzantine) Empire and the timeline stretches to 1453 AD. Either way, it's one of the longest-running political narratives in human history.
+Roman history is the story of how a cluster of mud huts on the banks of the Tiber River grew into the most powerful state the ancient world ever produced — and then, over centuries, fell apart. It spans roughly 1,200 years if you count from Rome's traditional founding in 753 BC to the fall of the Western Roman Empire in 476 AD. Include the Eastern (Byzantine) Empire and the timeline stretches to 1453 AD. Either way, it's one of the longest-[running](/running) political narratives in human history.
 
 What makes Rome endlessly fascinating isn't just the scale. It's that so many modern institutions — law, [government](/government), language, [engineering](/engineering), military organization — trace directly back to Roman innovations. When you walk into a courtroom, vote in an election, drive on a paved road, or speak a Romance language, you're using Roman inventions. The empire is gone. Its fingerprints are everywhere.
 
@@ -43,7 +43,7 @@ What makes Rome endlessly fascinating isn't just the scale. It's that so many mo
 
 According to legend, Rome was founded by Romulus and Remus — twin brothers raised by a she-wolf. Romulus killed Remus, named the city after himself, and became its first king. That's [mythology](/mythology). The archaeological reality is less dramatic but still interesting.
 
-The earliest settlement on the Palatine Hill dates to roughly the 8th century BC — consistent with the traditional founding date. Rome began as one of many Latin communities in central Italy, situated at a strategic crossing point on the Tiber. The location gave it control over trade routes between the Etruscans to the north and the Greek colonies to the south.
+The earliest settlement on the Palatine Hill dates to roughly the 8th century BC — consistent with the traditional founding date. Rome began as one of many Latin communities in central Italy, situated at a strategic crossing point on the Tiber. The location gave it control over [trade](/trade) routes between the Etruscans to the north and the Greek colonies to the south.
 
 Rome was ruled by kings for its first two and a half centuries. Seven kings are recorded by tradition, the last three being Etruscan. The final king, Lucius Tarquinius Superbus ("Tarquin the Proud"), was overthrown in 509 BC after his son assaulted a noblewoman named Lucretia. Whether that specific story is true, the broader pattern is plausible: aristocrats tired of royal tyranny staged a coup and established a republic.
 
@@ -101,13 +101,13 @@ But the familiarity has limits. Roman society ran on enslaved labor. Estimates s
 
 After the death of Marcus Aurelius in 180 AD, things got rough. The 3rd century brought a period historians call the Crisis of the Third Century (235-284 AD): 50 years of civil war, economic collapse, plague, and border incursions. In one 50-year stretch, Rome had over 25 emperors — most died violently.
 
-Emperor Diocletian (284-305 AD) stabilized the situation by splitting the empire into four administrative regions, each with its own ruler. Constantine I (306-337 AD) reunified it temporarily, moved the capital to Constantinople (modern Istanbul), and made [Christianity](/christianity) legal with the Edict of Milan in 313 AD. By the end of the 4th century, Christianity was the empire's official religion — a remarkable rise for a faith that had been persecuted just decades earlier.
+Emperor Diocletian (284-305 AD) stabilized the situation by splitting the empire into four administrative regions, each with its own ruler. Constantine I (306-337 AD) reunified it temporarily, moved the capital to Constantinople (modern Istanbul), and made [Christianity](/christianity) legal with the Edict of Milan in 313 AD. By the end of the 4th century, Christianity was the empire's official [religion](/religion) — a remarkable rise for a faith that had been persecuted just decades earlier.
 
 But the Western Empire continued to weaken. The economy deteriorated. The army increasingly relied on Germanic mercenaries whose loyalty was questionable. The administrative bureaucracy grew unwieldy. And wave after wave of migrating peoples — Visigoths, Vandals, Huns, Ostrogoths — pressured and eventually breached the borders.
 
 In 410 AD, the Visigoths sacked Rome. It was the first time the city had been captured in 800 years. In 455, the Vandals sacked it again, more thoroughly. In 476, the Germanic chieftain Odoacer deposed the last Western Roman emperor, a teenager named Romulus Augustulus, and the Western Empire officially ended.
 
-The Eastern Empire, however, continued as the Byzantine Empire for nearly another millennium, preserving [Roman law](/roman-law), Greek culture, and Christian theology until Constantinople fell to the Ottoman Turks in 1453.
+The Eastern Empire, however, continued as the Byzantine Empire for nearly another millennium, preserving [Roman law](/roman-law), Greek culture, and Christian [theology](/theology) until Constantinople fell to the Ottoman Turks in 1453.
 
 ## Rome's Lasting Impact
 

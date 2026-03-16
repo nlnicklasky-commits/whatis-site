@@ -99,7 +99,7 @@ Decolonization was necessary and long overdue. But it often left new nations wit
 
 The Cold War ended with stunning speed. The Berlin Wall fell on November 9, 1989. By December 1991, the Soviet Union had dissolved into 15 independent states. The West declared victory — Francis Fukuyama famously proclaimed "the end of history," suggesting that liberal democracy had won the ideological contest for good.
 
-That turned out to be premature. But the 1990s did see remarkable developments. The World Wide Web, created by Tim Berners-Lee in 1991, went mainstream by the mid-1990s. Globalization accelerated — world trade doubled between 1990 and 2000. China's economy grew at roughly 10% per year, lifting hundreds of millions out of poverty.
+That turned out to be premature. But the 1990s did see remarkable developments. The World Wide Web, created by Tim Berners-Lee in 1991, went mainstream by the mid-1990s. Globalization accelerated — world [trade](/trade) doubled between 1990 and 2000. China's economy grew at roughly 10% per year, lifting hundreds of millions out of poverty.
 
 The century's final decade also brought horrors. The Rwandan genocide of 1994 killed roughly 800,000 people in 100 days while the world watched and did essentially nothing. The wars in Yugoslavia (1991-2001) produced ethnic cleansing in the heart of Europe. The 1997 Asian financial crisis devastated economies from Thailand to South Korea.
 

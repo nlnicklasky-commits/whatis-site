@@ -71,7 +71,7 @@ The Egyptians didn't see these versions as contradictory. Each told a different 
 
 Ra was the sun god and, for much of Egyptian history, the king of the gods. The Egyptians believed Ra sailed across the sky in a solar boat during the day, then traveled through the underworld at night, battling the chaos serpent Apophis before being reborn at dawn. The daily sunrise was literally a divine victory over darkness — never guaranteed, always celebrated.
 
-Ra merged with other gods over time: Amun-Ra (combining the sun god with Thebes' patron), Atum-Ra, Ra-Horakhty. This tendency to merge gods (syncretism) is one of the more distinctive features of Egyptian religion.
+Ra merged with other gods over time: Amun-Ra (combining the sun god with Thebes' patron), Atum-Ra, Ra-Horakhty. This tendency to merge gods (syncretism) is one of the more distinctive features of Egyptian [religion](/religion).
 
 ### Osiris, Isis, and Horus — The Central Story
 

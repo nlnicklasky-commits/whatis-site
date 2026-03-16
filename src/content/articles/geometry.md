@@ -35,11 +35,11 @@ faq:
 
 # What Is Geometry?
 
-Geometry is the branch of mathematics that studies the properties, measurements, and relationships of points, lines, surfaces, and solids in space. It provides the formal language for describing shapes, sizes, angles, and positions—and it is one of the oldest mathematical disciplines, with roots stretching back over 5,000 years to ancient Egypt and Mesopotamia.
+Geometry is the branch of [mathematics](/mathematics) that studies the properties, measurements, and relationships of points, lines, surfaces, and solids in space. It provides the formal language for describing shapes, sizes, angles, and positions—and it is one of the oldest mathematical disciplines, with roots stretching back over 5,000 years to ancient Egypt and Mesopotamia.
 
 ## Where It All Started
 
-The word "geometry" comes from the Greek *geo* (earth) and *metron* (measurement). And that's literally how it began—measuring the earth. Ancient Egyptians needed to re-survey farm boundaries every year after the Nile flooded and washed away property markers. Around 3000 BCE, they developed practical techniques for measuring land, constructing pyramids, and laying out irrigation canals.
+The word "geometry" comes from the Greek *geo* (earth) and *metron* (measurement). And that's literally how it began—measuring the earth. Ancient Egyptians needed to re-survey farm boundaries every year after the Nile flooded and washed away property markers. Around 3000 BCE, they developed practical techniques for measuring land, constructing pyramids, and laying out [irrigation](/irrigation) canals.
 
 The Babylonians were doing similar work around the same time. They knew the Pythagorean theorem at least 1,000 years before Pythagoras was born. Clay tablets from around 1800 BCE show Babylonian scribes calculating areas of rectangles, triangles, and trapezoids with surprising accuracy.
 
@@ -117,7 +117,7 @@ Why does similarity matter? Because it lets you measure things you can't reach. 
 
 Geometry deals with four basic transformations:
 
-- **Translation**: sliding a shape without rotating or flipping it
+- **[Translation](/translation)**: sliding a shape without rotating or flipping it
 - **Rotation**: turning a shape around a fixed point
 - **Reflection**: flipping a shape over a line (creating a mirror image)
 - **Dilation**: scaling a shape up or down from a center point
@@ -128,7 +128,7 @@ These transformations are central to modern geometry, [computer graphics](/compu
 
 Calculating areas and volumes is one of geometry's most practical applications. Rectangles, triangles, circles—these area formulas are straightforward. But geometry also handles complex shapes through decomposition (breaking them into simpler shapes) and through [calculus](/calculus), which extends geometric reasoning to curves and irregular surfaces.
 
-Volume formulas for standard solids—cubes, spheres, cylinders, cones, pyramids—are essential in engineering, manufacturing, and physics. Archimedes discovered the relationship between the volume of a sphere and its circumscribing cylinder, and considered it his greatest achievement. (He liked it so much he asked for it to be engraved on his tombstone.)
+Volume formulas for standard solids—cubes, spheres, cylinders, cones, pyramids—are essential in [engineering](/engineering), manufacturing, and physics. Archimedes discovered the relationship between the volume of a sphere and its circumscribing cylinder, and considered it his greatest achievement. (He liked it so much he asked for it to be engraved on his tombstone.)
 
 ## Beyond Flat Surfaces: Non-Euclidean Geometry
 
@@ -144,11 +144,11 @@ This sounds abstract, but hyperbolic geometry describes the geometry of saddle-s
 
 On the surface of a sphere, there are *no* parallel lines—every pair of "great circles" (the largest circles you can draw on a sphere) intersects. The angles of a triangle sum to *more* than 180 degrees.
 
-This is the geometry of navigation. Airline routes follow great circles because they're the shortest paths on a sphere. If you've ever noticed that a flight from New York to Tokyo goes over Alaska rather than straight across the Pacific, that's spherical geometry in action.
+This is the geometry of [navigation](/navigation). Airline routes follow great circles because they're the shortest paths on a sphere. If you've ever noticed that a flight from New York to Tokyo goes over Alaska rather than straight across the Pacific, that's spherical geometry in action.
 
 ### Riemannian Geometry
 
-Bernhard Riemann generalized all of this in the 1850s. His framework allows geometry on surfaces of any curvature—varying from point to point. This turned out to be exactly the mathematics Einstein needed for general relativity in 1915. In Einstein's theory, mass and energy curve spacetime, and objects follow the straightest possible paths (geodesics) through that curved space.
+Bernhard Riemann generalized all of this in the 1850s. His framework allows geometry on surfaces of any curvature—varying from point to point. This turned out to be exactly the mathematics Einstein needed for [general relativity](/general-relativity) in 1915. In Einstein's theory, mass and energy curve spacetime, and objects follow the straightest possible paths (geodesics) through that curved space.
 
 Frankly, it's one of the most beautiful connections in all of science: a pure mathematical framework developed decades before anyone realized it described the actual geometry of the universe.
 
@@ -192,11 +192,11 @@ GPS works by triangulation—a geometric technique. Four or more satellites broa
 
 ### Medical Imaging
 
-CT scans reconstruct 3D images of your insides from multiple 2D X-ray images taken at different angles. The mathematical technique behind this—the Radon transform—is fundamentally geometric. MRI machines use similar geometric reconstruction techniques. Without geometry, modern medical imaging wouldn't exist.
+CT scans reconstruct 3D images of your insides from multiple 2D X-ray images taken at different angles. The mathematical technique behind this—the Radon transform—is fundamentally geometric. MRI machines use similar geometric reconstruction techniques. Without geometry, modern [medical imaging](/medical-imaging) wouldn't exist.
 
 ### Robotics and Computer Vision
 
-Robots need to understand the geometry of their environment to move without crashing into things. Computer vision [algorithms](/algorithms) use geometric reasoning to interpret camera images—identifying objects, estimating distances, and reconstructing 3D scenes from 2D photographs.
+Robots need to understand the geometry of their environment to move without crashing into things. [Computer vision](/computer-vision) [algorithms](/algorithms) use geometric reasoning to interpret camera images—identifying objects, estimating distances, and reconstructing 3D scenes from 2D photographs.
 
 Self-driving cars combine multiple geometric techniques: stereo vision (using two cameras to calculate depth, like human eyes), lidar point clouds (millions of distance measurements creating a 3D geometric model), and path planning [algorithms](/algorithms) that find safe routes through geometric obstacle fields.
 
@@ -204,23 +204,23 @@ Self-driving cars combine multiple geometric techniques: stereo vision (using tw
 
 Topology is sometimes called "rubber sheet geometry." It studies properties that don't change when you stretch, bend, or deform shapes—without cutting or gluing. A coffee mug and a donut are topologically identical (both have exactly one hole). A sphere and a cube are topologically identical (neither has any holes).
 
-This sounds like a mathematical curiosity, but topology has serious applications. Network topology describes how computers are connected. Topological data analysis finds patterns in high-dimensional datasets. The 2016 Nobel Prize in Physics went to researchers who applied topological concepts to understand exotic states of matter.
+This sounds like a mathematical curiosity, but topology has serious applications. Network topology describes how computers are connected. Topological [data analysis](/data-analysis) finds patterns in high-dimensional datasets. The 2016 Nobel Prize in Physics went to researchers who applied topological concepts to understand exotic states of matter.
 
 The most famous problem in topology—the Poincare conjecture—asked whether every simply connected, closed 3-manifold is homeomorphic to the 3-sphere. In 2003, Grigori Perelman proved it was true, then declined both the Fields Medal and the million-dollar Millennium Prize. Mathematicians are sometimes an unusual bunch.
 
 ## Fractal Geometry
 
-Classical geometry deals with smooth shapes—lines, circles, spheres. But nature is rough. Coastlines are jagged. Mountains are craggy. Tree branches fork irregularly. In the 1970s and 1980s, Benoit Mandelbrot developed fractal geometry to describe these rough, self-similar shapes.
+Classical geometry deals with smooth shapes—lines, circles, spheres. But nature is rough. Coastlines are jagged. Mountains are craggy. Tree branches fork irregularly. In the 1970s and 1980s, Benoit Mandelbrot developed [fractal geometry](/fractal-geometry) to describe these rough, self-similar shapes.
 
 A fractal is a pattern that repeats at every scale. Zoom into a coastline on a map and you see the same jagged pattern. Zoom into a fern leaf and each frond looks like a miniature version of the whole leaf. Fractals have fractional dimensions—a fractal coastline isn't quite one-dimensional (like a line) or two-dimensional (like a plane), but something in between.
 
-Fractal geometry appears in [computer graphics](/computer-graphics) (generating realistic landscapes and textures), telecommunications (fractal antennas), medicine (analyzing irregular heartbeats), and financial modeling (describing stock market fluctuations). It represents one of the most unexpected connections between pure mathematics and the physical world.
+Fractal geometry appears in [computer graphics](/computer-graphics) (generating realistic landscapes and textures), telecommunications (fractal antennas), medicine (analyzing irregular heartbeats), and [financial modeling](/financial-modeling) (describing stock market fluctuations). It represents one of the most unexpected connections between pure mathematics and the physical world.
 
 ## Projective and Affine Geometry
 
 Projective geometry studies properties that remain unchanged under projection—like how a photograph preserves certain relationships in a scene even though distances and angles change. It explains why parallel railroad tracks appear to converge at a vanishing point. Renaissance artists used projective geometry to create realistic perspective in paintings.
 
-Affine geometry is the geometry of transformations that preserve parallel lines and ratios of distances. It sits between Euclidean geometry (which preserves all distances and angles) and projective geometry (which preserves neither). Affine transformations—shearing, scaling, rotation—are fundamental in [computer graphics](/computer-graphics) and image processing.
+Affine geometry is the geometry of transformations that preserve parallel lines and ratios of distances. It sits between Euclidean geometry (which preserves all distances and angles) and projective geometry (which preserves neither). Affine transformations—shearing, scaling, rotation—are fundamental in [computer graphics](/computer-graphics) and [image processing](/image-processing).
 
 ## Computational Geometry
 
@@ -231,13 +231,13 @@ As computers became powerful, a new branch emerged: computational geometry. It d
 - **Triangulation**: Dividing a region into triangles for mesh generation, finite element analysis, and 3D rendering
 - **Collision detection**: Determining whether geometric objects intersect—essential for video games, robotics, and simulations
 
-These [algorithms](/algorithms) underpin modern [computer science](/computer-science) applications from geographic information systems to machine learning.
+These [algorithms](/algorithms) underpin modern [computer science](/computer-science) applications from geographic [information systems](/information-systems) to machine learning.
 
 ## Differential Geometry
 
 Differential geometry applies [calculus](/calculus) to geometric problems. It studies curves and surfaces using derivatives and integrals, allowing precise analysis of curvature, geodesics (shortest paths on surfaces), and the behavior of smooth shapes.
 
-This field provides the mathematical language for general relativity (where spacetime curvature represents gravity), string theory (where extra dimensions are described by geometric shapes called Calabi-Yau manifolds), and gauge theory in particle physics.
+This field provides the mathematical language for general relativity (where spacetime curvature represents gravity), [string theory](/string-theory) (where extra dimensions are described by geometric shapes called Calabi-Yau manifolds), and gauge theory in [particle physics](/particle-physics).
 
 The Gauss-Bonnet theorem connects the total curvature of a surface to its topology—a deep relationship between local geometry and global shape. It's the kind of result that makes mathematicians genuinely emotional.
 
@@ -249,7 +249,7 @@ One of geometry's most remarkable features is how thoroughly it connects to othe
 
 [Calculus](/calculus) extends geometry to curves and irregular shapes. The entire field of [differential equations](/differential-equations) describes how geometric quantities change over time.
 
-Physics is fundamentally geometric. Einstein showed that gravity *is* geometry—the curvature of spacetime. Quantum mechanics uses geometric structures (Hilbert spaces, fiber bundles) that would have seemed impossibly abstract to Euclid.
+Physics is fundamentally geometric. Einstein showed that gravity *is* geometry—the curvature of spacetime. [Quantum mechanics](/quantum-mechanics) uses geometric structures (Hilbert spaces, fiber bundles) that would have seemed impossibly abstract to Euclid.
 
 Even [data science](/data-science) has a geometric dimension. High-dimensional data lives in geometric spaces, and machine learning [algorithms](/algorithms) often work by finding geometric structures—clusters, boundaries, manifolds—in that data.
 

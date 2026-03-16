@@ -37,7 +37,7 @@ faq:
 
 # What Is Myology?
 
-Myology is the branch of [anatomy](/anatomy) and physiology that deals with the study of muscles. Every time you blink, breathe, walk, or scroll through your phone, muscles are doing the work. Your body contains over 600 skeletal muscles — plus smooth muscle lining your digestive tract, blood vessels, and organs, plus the cardiac muscle that keeps your heart beating about 100,000 times every single day. Myology studies all of them: how they're built, how they contract, how they fail, and how they can be repaired.
+Myology is the branch of [anatomy](/anatomy) and [physiology](/physiology) that deals with the study of muscles. Every time you blink, breathe, walk, or scroll through your phone, muscles are doing the work. Your body contains over 600 skeletal muscles — plus smooth muscle lining your digestive tract, blood vessels, and organs, plus the cardiac muscle that keeps your heart beating about 100,000 times every single day. Myology studies all of them: how they're built, how they contract, how they fail, and how they can be repaired.
 
 The word comes from the Greek *mys* (muscle) and *logos* (study). It's a sub-discipline of [anatomy](/anatomy) that intersects with physiology, [biomechanics](/biomechanics), [neuroscience](/neuroscience), and clinical medicine. If you've ever wondered why your muscles burn during exercise, why some people are naturally stronger than others, or what actually happens during a muscle cramp, myology has the answers.
 
@@ -75,7 +75,7 @@ Zoom into a skeletal muscle fiber (a single muscle cell — and these cells are 
 
 Each sarcomere contains two types of protein filaments:
 
-- **Thick filaments** made of a protein called myosin. Myosin molecules have heads that project outward — think of them as tiny rowing oars.
+- **Thick filaments** made of a protein called myosin. Myosin molecules have heads that project outward — think of them as tiny [rowing](/rowing) oars.
 - **Thin filaments** made primarily of a protein called actin. These form the tracks that the myosin heads grab onto.
 
 ### The Contraction Mechanism
@@ -91,7 +91,7 @@ When your brain sends a signal to contract a muscle, here's what happens at the 
 7. A new ATP molecule binds to the myosin head, causing it to release from actin.
 8. ATP is hydrolyzed, re-cocking the myosin head for another cycle.
 
-This cycle repeats rapidly — myosin heads can cycle about 5 times per second during a maximal contraction. Since each sarcomere contains hundreds of myosin heads all cycling asynchronously, the result is a smooth, sustained contraction.
+This cycle repeats rapidly — myosin heads can cycle about 5 times per second during a maximal contraction. Since each sarcomere contains hundreds of myosin heads all [cycling](/cycling) asynchronously, the result is a smooth, sustained contraction.
 
 The crucial insight: the filaments don't shorten. They slide past each other. This is why it's called the sliding filament theory, proposed independently by Andrew Huxley and Rolf Niedergerke, and by Hugh Huxley and Jean Hanson, in 1954. It remains one of the most well-supported theories in all of [biology](/biology).
 
@@ -103,7 +103,7 @@ Muscle contraction is energetically expensive. ATP is the immediate fuel, but mu
 
 **Anaerobic glycolysis.** Breaks down glucose without oxygen, producing ATP and lactic acid. This powers intense efforts lasting 30 seconds to 2 minutes. The accumulating lactic acid (more precisely, hydrogen ions) contributes to the burning sensation during intense exercise.
 
-**Aerobic metabolism.** Uses oxygen to completely break down glucose, fatty acids, or amino acids through the citric acid cycle and electron transport chain. This produces far more ATP per fuel molecule but requires sustained oxygen delivery. It powers all activity lasting longer than about 2 minutes — distance running, cycling, swimming.
+**Aerobic metabolism.** Uses oxygen to completely break down glucose, fatty acids, or amino acids through the citric acid cycle and electron transport chain. This produces far more ATP per fuel molecule but requires sustained oxygen delivery. It powers all activity lasting longer than about 2 minutes — distance [running](/running), cycling, [swimming](/swimming).
 
 The balance between these systems explains why sprinters and marathoners have such different physiques and training approaches, and it's a major area of study in both myology and exercise science.
 
@@ -117,7 +117,7 @@ Not all muscle fibers are the same. Skeletal muscle contains different fiber typ
 
 **Type IIx (Fast-Twitch Glycolytic) fibers** contract the fastest and generate the most force, but they fatigue quickly. They rely primarily on anaerobic metabolism. Sprinters and power athletes tend to have a high proportion of Type II fibers.
 
-The proportion of fiber types in your muscles is largely genetically determined. Elite sprinters are typically born with a higher percentage of fast-twitch fibers; elite endurance athletes with more slow-twitch fibers. Training can shift the properties of fibers to some degree (especially between IIa and IIx subtypes), but you can't fundamentally convert slow-twitch to fast-twitch or vice versa. Genetics sets the range; training determines where within that range you fall.
+The proportion of fiber types in your muscles is largely genetically determined. Elite sprinters are typically born with a higher percentage of fast-twitch fibers; elite endurance athletes with more slow-twitch fibers. Training can shift the properties of fibers to some degree (especially between IIa and IIx subtypes), but you can't fundamentally convert slow-twitch to fast-twitch or vice versa. [Genetics](/genetics) sets the range; training determines where within that range you fall.
 
 ## Muscle Growth and Adaptation
 
@@ -169,11 +169,11 @@ Several medical and therapeutic fields apply myological knowledge directly.
 
 **Sports medicine** uses myology to understand injury mechanisms, design rehabilitation protocols, and optimize athletic performance. Understanding muscle strain (fiber tearing), tendinopathy (tendon degeneration), and compartment syndrome (pressure buildup within muscle compartments) all depend on myological knowledge.
 
-**[Physical therapy](/physical-therapy)** applies muscle physiology to restore function after injury, surgery, or disease. Therapists need to understand muscle recruitment patterns, strength curves, and the specific vulnerabilities of different muscle groups.
+**[Physical therapy](/physical-therapy)** applies muscle physiology to restore function after injury, [surgery](/surgery), or disease. Therapists need to understand muscle recruitment patterns, strength curves, and the specific vulnerabilities of different muscle groups.
 
 **Orthopedic surgery** involves reattaching torn tendons, repairing muscle hernias, and reconstructing damaged muscle-tendon units. Surgeons need detailed understanding of [anatomy](/anatomy) — the origin, insertion, nerve supply, and blood supply of every relevant muscle.
 
-**Neurology** frequently intersects with myology because muscle function depends entirely on nerve input. Electromyography (EMG) — measuring the electrical activity of muscles — is a standard diagnostic tool for distinguishing between nerve problems and muscle problems. A neurologist evaluating weakness needs to determine whether the issue is in the brain, spinal cord, peripheral nerve, neuromuscular junction, or the muscle itself.
+**[Neurology](/neurology)** frequently intersects with myology because muscle function depends entirely on nerve input. Electromyography (EMG) — measuring the electrical activity of muscles — is a standard diagnostic tool for distinguishing between nerve problems and muscle problems. A neurologist evaluating weakness needs to determine whether the issue is in the brain, spinal cord, peripheral nerve, neuromuscular junction, or the muscle itself.
 
 ## Emerging Research in Myology
 
@@ -187,7 +187,7 @@ This field intersects with [biotechnology](/biotechnology) and [cell biology](/c
 
 ### Gene Therapy for Muscular Dystrophies
 
-Multiple gene therapy approaches for DMD and other muscular dystrophies are in clinical trials. These include micro-dystrophin gene delivery (inserting a shortened but functional version of the dystrophin gene), exon-skipping therapies (tricking the cellular machinery into producing a partially functional protein despite the mutation), and CRISPR-based gene editing.
+Multiple gene therapy approaches for DMD and other muscular dystrophies are in clinical trials. These include micro-dystrophin gene delivery (inserting a shortened but functional version of the dystrophin gene), exon-skipping therapies (tricking the cellular machinery into producing a partially functional protein despite the mutation), and CRISPR-based gene [editing](/editing).
 
 The FDA approved the first gene therapy for DMD (delandistrogene moxeparvovec, brand name Elevidys) in 2023, though its efficacy data remains debated and long-term outcomes are still being studied.
 

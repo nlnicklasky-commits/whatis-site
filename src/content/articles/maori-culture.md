@@ -37,7 +37,7 @@ Today, Maori culture isn't a museum piece. It's a living, evolving presence in N
 
 ## The Arrival
 
-Polynesian navigators reached New Zealand sometime between 1250 and 1300 CE, traveling from eastern Polynesia (likely the Cook Islands or Society Islands) in double-hulled sailing canoes. These weren't accidental driftings — they were deliberate [voyages of discovery](/voyages-of-discovery), guided by star [navigation](/navigation), ocean currents, cloud patterns, and bird flight.
+Polynesian navigators reached New Zealand sometime between 1250 and 1300 CE, traveling from eastern Polynesia (likely the Cook Islands or Society Islands) in double-hulled [sailing](/sailing) canoes. These weren't accidental driftings — they were deliberate [voyages of discovery](/voyages-of-discovery), guided by star [navigation](/navigation), ocean currents, cloud patterns, and bird flight.
 
 The voyagers found a landmass unlike anything in Polynesia — temperate rather than tropical, enormous, teeming with flightless birds (including the giant moa), and with no native land mammals except bats. Adapting their tropical [Polynesian culture](/polynesian-culture) to this new environment shaped everything about Maori society.
 
@@ -51,7 +51,7 @@ Several foundational concepts run through Maori culture:
 
 **Tapu** (the origin of the English word "taboo") refers to sacredness and restriction. Certain places, objects, people, and activities are tapu — set apart, not to be treated casually. The head, for instance, is considered tapu, which is why traditional greeting involves pressing noses (hongi) rather than touching heads.
 
-**Utu** is reciprocity — the obligation to return both gifts and offenses in kind. It governed trade, [diplomacy](/diplomacy), and warfare. An injury demanded response; a gift demanded a gift in return. Utu wasn't revenge so much as balance.
+**Utu** is reciprocity — the obligation to return both gifts and offenses in kind. It governed [trade](/trade), [diplomacy](/diplomacy), and warfare. An injury demanded response; a gift demanded a gift in return. Utu wasn't revenge so much as balance.
 
 **Kaitiakitanga** is guardianship of the natural world. Maori see themselves not as owners of the land but as its caretakers, with obligations to protect and sustain it for future generations. This concept has influenced New Zealand [environmental law](/environmental-law) — in 2017, the Whanganui River was granted legal personhood, with Maori and government co-guardians.
 
@@ -63,9 +63,9 @@ Maori art is among the most visually striking of any indigenous culture:
 
 **Ta moko** (tattooing) marks identity directly on the body. Traditional moko uses chisels to carve grooves in the skin, producing raised, textured designs quite different from flat needle tattoos. Facial moko for men (moko kauae for women, on the chin) tells genealogical and personal history.
 
-**Kapa haka** ([performance art](/performance-art)) combines song, dance, chanting, and physical movement. The haka is the most famous element, but kapa haka also includes waiata (songs), poi (swinging weighted balls), and various action songs. National kapa haka competitions draw thousands of performers and are major cultural events.
+**Kapa haka** ([performance art](/performance-art)) combines song, [dance](/dance), chanting, and physical movement. The haka is the most famous element, but kapa haka also includes waiata (songs), poi (swinging weighted balls), and various action songs. National kapa haka competitions draw thousands of performers and are major cultural events.
 
-**Raranga** (weaving) produces cloaks, baskets, mats, and other items from flax (harakeke) and other natural fibers. The most prestigious cloaks — korowai and kahu huruhuru (feather cloaks) — are treasures worn on significant occasions.
+**Raranga** ([weaving](/weaving)) produces cloaks, baskets, mats, and other items from flax (harakeke) and other natural fibers. The most prestigious cloaks — korowai and kahu huruhuru (feather cloaks) — are treasures worn on significant occasions.
 
 ## Te Reo Maori — The Language
 

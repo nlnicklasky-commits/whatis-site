@@ -39,7 +39,7 @@ faq:
 
 # What Is Agronomy?
 
-Agronomy is the science of producing and using plants for food, fuel, fiber, and land reclamation. It combines principles from [biology](/biology), [chemistry](/chemistry), [ecology](/ecology), and soil science to figure out how to grow crops more effectively while keeping the land productive for future generations. If you've eaten today, an agronomist had a hand in making that possible.
+Agronomy is the science of producing and using plants for food, fuel, fiber, and land reclamation. It combines principles from [biology](/biology), [chemistry](/chemistry), [ecology](/ecology), and [soil science](/soil-science) to figure out how to grow crops more effectively while keeping the land productive for future generations. If you've eaten today, an agronomist had a hand in making that possible.
 
 ## Where Agronomy Came From — and Why It Exists
 
@@ -65,7 +65,7 @@ Agronomists study soil from multiple angles:
 
 **Chemical properties** — pH, nutrient availability, cation exchange capacity, and salinity. Most crops grow best in slightly acidic to neutral soil (pH 6.0 to 7.0). When pH drifts too far in either direction, nutrients become chemically locked up — present in the soil but unavailable to plants. This is why a soil test showing adequate phosphorus doesn't always mean your crops can actually access it.
 
-**Biological properties** — the microbial communities that drive nutrient cycling, decompose organic matter, and form symbiotic relationships with plant roots. Mycorrhizal fungi, for instance, effectively extend a plant's root system by orders of magnitude, delivering phosphorus and water in exchange for carbon from the plant. Disrupting these fungal networks through excessive tillage is one reason conventional farming sometimes requires more fertilizer than it should.
+**Biological properties** — the microbial communities that drive nutrient [cycling](/cycling), decompose organic matter, and form symbiotic relationships with plant roots. Mycorrhizal fungi, for instance, effectively extend a plant's root system by orders of magnitude, delivering phosphorus and water in exchange for carbon from the plant. Disrupting these fungal networks through excessive tillage is one reason conventional farming sometimes requires more fertilizer than it should.
 
 Soil degradation is arguably the biggest slow-motion crisis in [agriculture](/agriculture). The United Nations estimates that 33% of global soils are already degraded. It takes roughly 500 years to form one inch of topsoil naturally, but poor farming practices can erode that inch in a single decade. Agronomists working on soil conservation aren't just protecting farmland — they're protecting the very basis of terrestrial food production.
 
@@ -73,23 +73,23 @@ Soil degradation is arguably the biggest slow-motion crisis in [agriculture](/ag
 
 The other half of agronomy focuses on the crops themselves. This isn't just [botany](/botany) — it's applied plant science with very specific goals: higher yields, better nutritional profiles, resistance to diseases and pests, tolerance for drought and heat, and adaptation to local growing conditions.
 
-**Plant breeding** has been agronomy's single most powerful tool. Traditional breeding — selecting the best-performing plants and crossing them — has been practiced since farming began, but modern agronomists brought statistical rigor and genetic understanding to the process. A modern corn variety might represent 70+ years of careful selection and crossing, with each generation slightly improving yield potential, standability, or disease resistance.
+**[Plant breeding](/plant-breeding)** has been agronomy's single most powerful tool. Traditional breeding — selecting the best-performing plants and crossing them — has been practiced since farming began, but modern agronomists brought statistical rigor and genetic understanding to the process. A modern corn variety might represent 70+ years of careful selection and crossing, with each generation slightly improving yield potential, standability, or disease resistance.
 
-The numbers are staggering. U.S. corn yields averaged about 26 bushels per acre in 1926. By 2023, the national average exceeded 177 bushels per acre — a nearly sevenfold increase. Plant breeding accounts for roughly 50-60% of that gain, with the rest coming from improved management practices, fertilization, and pest control.
+The numbers are staggering. U.S. corn yields averaged about 26 bushels per acre in 1926. By 2023, the national average exceeded 177 bushels per acre — a nearly sevenfold increase. Plant breeding accounts for roughly 50-60% of that gain, with the rest coming from improved [management](/management) practices, fertilization, and pest control.
 
-**Crop physiology** — understanding how plants actually grow — is equally important. Agronomists study photosynthesis rates, root architecture, nutrient uptake efficiency, and how plants respond to stress. Why does a wheat plant "decide" to produce fewer but larger seeds under drought stress? How do soybeans detect day length to trigger flowering? These aren't academic curiosities. Understanding these mechanisms lets breeders and farmers manipulate them for better outcomes.
+**Crop [physiology](/physiology)** — understanding how plants actually grow — is equally important. Agronomists study photosynthesis rates, root [architecture](/architecture), nutrient uptake efficiency, and how plants respond to stress. Why does a wheat plant "decide" to produce fewer but larger seeds under drought stress? How do soybeans detect day length to trigger flowering? These aren't academic curiosities. Understanding these mechanisms lets breeders and farmers manipulate them for better outcomes.
 
-**[Biotechnology](/biotechnology)** added another dimension starting in the 1990s. Genetically modified crops — particularly herbicide-tolerant and insect-resistant varieties — now cover over 190 million hectares globally. Whether you think GMOs are a miracle or a problem, the agronomic impact is undeniable: Bt corn alone has reduced insecticide applications in U.S. corn production by about 90% compared to pre-adoption levels. More recent gene-editing tools like CRISPR are allowing much more precise modifications than earlier transgenic approaches.
+**[Biotechnology](/biotechnology)** added another dimension starting in the 1990s. Genetically modified crops — particularly herbicide-tolerant and insect-resistant varieties — now cover over 190 million hectares globally. Whether you think GMOs are a miracle or a problem, the agronomic impact is undeniable: Bt corn alone has reduced insecticide applications in U.S. corn production by about 90% compared to pre-adoption levels. More recent gene-[editing](/editing) tools like CRISPR are allowing much more precise modifications than earlier transgenic approaches.
 
 ## How Modern Agronomists Actually Work
 
-If you're picturing someone in overalls walking through a wheat field — well, that does happen. But modern agronomy is increasingly a data science.
+If you're picturing someone in overalls walking through a wheat field — well, that does happen. But modern agronomy is increasingly a [data science](/data-science).
 
 ### Precision Agriculture
 
 The biggest shift in agronomy over the past two decades is precision agriculture — using technology to manage field variability at incredibly fine scales. Instead of applying the same fertilizer rate across an entire 1,000-acre field, precision agriculture lets farmers adjust application rates for every few square meters based on actual soil conditions, yield history, and real-time sensor data.
 
-The technology stack is wild. GPS-guided tractors achieve sub-inch accuracy. Drone-mounted multispectral cameras detect crop stress before it's visible to the human eye. Soil electrical conductivity sensors create detailed maps of soil texture variability across a field. Yield monitors on combines record productivity at each point in the field, building multi-year datasets that reveal patterns no farmer could spot visually.
+The technology stack is wild. GPS-guided tractors achieve sub-inch accuracy. Drone-mounted multispectral cameras detect crop stress before it's visible to the human eye. Soil electrical conductivity sensors create detailed maps of soil texture variability across a field. Yield monitors on combines record [productivity](/productivity) at each point in the field, building multi-year datasets that reveal patterns no farmer could spot visually.
 
 A 2021 meta-analysis found that precision nitrogen management reduced fertilizer use by an average of 15% while maintaining or even improving yields. That's not a marginal gain. Globally, nitrogen fertilizer production alone accounts for about 1.2% of total world energy consumption. Cutting usage by 15% would be significant for both farm profitability and environmental impact.
 
@@ -103,17 +103,17 @@ More complex rotations — corn, soybeans, wheat, and cover crops — yield even
 
 ### Integrated Pest Management
 
-Crop pests — insects, weeds, and diseases — collectively destroy roughly 20-40% of global crop production annually, according to FAO estimates. [Entomology](/entomology) and plant pathology intersect heavily with agronomy here.
+Crop pests — insects, weeds, and diseases — collectively destroy roughly 20-40% of global crop production annually, according to FAO estimates. [Entomology](/entomology) and [plant pathology](/plant-pathology) intersect heavily with agronomy here.
 
 Integrated Pest Management (IPM) is the agronomic approach to this problem. Rather than relying solely on chemical pesticides, IPM combines cultural practices (crop rotation, resistant varieties, planting date manipulation), biological control (predatory insects, microbial agents), and targeted chemical application as a last resort.
 
-The poster child for IPM success is probably Bt crops. By engineering insect resistance directly into the plant, Bt corn and cotton dramatically reduced broad-spectrum insecticide spraying. That didn't just save farmers money — it preserved beneficial insect populations that provide natural pest control. The ecological ripple effects were measurable: a 2018 study in *Nature* found that Bt corn adoption in the U.S. provided pest suppression benefits worth $6.9 billion over 14 years, with $4.3 billion of that benefit going to farmers who *didn't* plant Bt varieties but benefited from area-wide suppression of corn borers.
+The poster child for IPM success is probably Bt crops. By [engineering](/engineering) insect resistance directly into the plant, Bt corn and cotton dramatically reduced broad-spectrum insecticide spraying. That didn't just save farmers money — it preserved beneficial insect populations that provide natural pest control. The ecological ripple effects were measurable: a 2018 study in *Nature* found that Bt corn adoption in the U.S. provided pest suppression benefits worth $6.9 billion over 14 years, with $4.3 billion of that benefit going to farmers who *didn't* plant Bt varieties but benefited from area-wide suppression of corn borers.
 
 ### Water Management
 
 [Irrigation](/irrigation) is the lifeblood of much of global agriculture. About 70% of global freshwater withdrawals go to agriculture, and irrigated land — roughly 20% of all cropland — produces about 40% of the world's food. Managing [water-management](/water-management) efficiently isn't optional. It's existential.
 
-Agronomists have driven enormous improvements in irrigation efficiency. Drip irrigation — delivering water directly to plant root zones through tubing — uses 30-60% less water than traditional flood irrigation. Soil moisture sensors and weather-based scheduling let farmers apply water precisely when crops need it, rather than on a fixed calendar.
+Agronomists have driven enormous improvements in irrigation efficiency. Drip irrigation — delivering water directly to plant root zones through tubing — uses 30-60% less water than traditional flood irrigation. Soil moisture sensors and weather-based [scheduling](/scheduling) let farmers apply water precisely when crops need it, rather than on a fixed calendar.
 
 But the challenges are mounting. Aquifer depletion is a real and growing crisis. The Ogallala Aquifer, which underlies much of the U.S. Great Plains and supports roughly 30% of all U.S. irrigation water, has declined by an average of 16 feet since pre-development levels, with some areas in Kansas and Texas down over 150 feet. Parts of the aquifer are projected to be effectively depleted within 25 years at current pumping rates. Agronomists working on drought-tolerant varieties and water-efficient cropping systems are racing against this clock.
 
@@ -145,7 +145,7 @@ The math problem agronomy faces is daunting. The global population is projected 
 
 Meanwhile, arable land per capita has been declining steadily. In 1960, there were about 0.37 hectares of arable land per person globally. By 2020, that had dropped to about 0.19 hectares. Land expansion is limited — most remaining arable land is in ecologically sensitive areas (tropical forests, savannas) where conversion would cause massive biodiversity loss and carbon emissions.
 
-So the answer has to come primarily from intensification — producing more food on existing farmland. This is agronomy's central challenge for the coming decades. And it has to happen while reducing environmental impact, adapting to climate change, and maintaining economic viability for farmers.
+So the answer has to come primarily from intensification — producing more food on existing farmland. This is agronomy's central challenge for the coming decades. And it has to happen while reducing environmental impact, adapting to [climate change](/climate-change), and maintaining economic viability for farmers.
 
 ### Climate Adaptation
 
@@ -161,9 +161,9 @@ The challenge is speed. Traditional plant breeding takes 8-12 years to develop a
 
 If this field sounds interesting, here's what the career path actually looks like.
 
-Most agronomists start with a bachelor's degree in agronomy, crop science, soil science, or [plant biology](/botany). Coursework typically includes soil chemistry, plant physiology, [genetics](/genetics), statistics, and [ecology](/ecology). Field experience is heavily valued — internships with seed companies, farm operations, or agricultural research stations carry a lot of weight.
+Most agronomists start with a bachelor's degree in agronomy, crop science, soil science, or [plant biology](/botany). Coursework typically includes soil chemistry, plant physiology, [genetics](/genetics), [statistics](/statistics), and [ecology](/ecology). Field experience is heavily valued — internships with seed companies, farm operations, or agricultural research stations carry a lot of weight.
 
-Career paths diverge from there. Many agronomists work directly with farmers as crop consultants or advisers, making field-level recommendations on fertility, pest management, and variety selection. Others work for agribusiness companies — seed firms, fertilizer manufacturers, crop protection companies — in research, sales, or technical support roles. Government agencies like the USDA's Natural Resources Conservation Service employ agronomists for soil surveys and conservation planning. And academic research positions at land-grant universities drive the foundational science.
+Career paths diverge from there. Many agronomists work directly with farmers as crop consultants or advisers, making field-level recommendations on fertility, pest management, and variety selection. Others work for agribusiness companies — seed firms, fertilizer manufacturers, crop protection companies — in research, sales, or technical support roles. [Government](/government) agencies like the USDA's Natural Resources Conservation Service employ agronomists for soil surveys and conservation planning. And academic research positions at land-grant universities drive the foundational science.
 
 The field is experiencing a generational shift. The average age of U.S. farmers has been climbing for decades (it was 57.5 in the most recent USDA Census of Agriculture), and the agronomists who advise them are aging too. There's growing demand for younger professionals who can bridge traditional agronomic knowledge with data science, remote sensing, and precision agriculture technologies.
 
@@ -175,7 +175,7 @@ Agronomy branches into some surprisingly specific niches:
 
 **Weed science** — the study of weed biology and management. Herbicide resistance is a growing crisis; over 500 unique cases of herbicide-resistant weeds have been documented globally. Weed scientists develop integrated strategies combining chemical, mechanical, and cultural control methods.
 
-**Crop modeling** — building computer simulations of crop growth that integrate weather, soil, genetics, and management data. Models like DSSAT and APSIM are used worldwide for yield forecasting, climate change impact assessment, and management optimization. This is where agronomy meets [machine learning](/machine-learning) — training algorithms on decades of field trial data to predict outcomes under novel conditions.
+**Crop modeling** — building computer simulations of crop growth that integrate weather, soil, genetics, and management data. Models like DSSAT and APSIM are used worldwide for yield forecasting, climate change impact assessment, and management [optimization](/optimization). This is where agronomy meets [machine learning](/machine-learning) — training algorithms on decades of field trial data to predict outcomes under novel conditions.
 
 **Forage science** — managing pastures and hay crops for livestock feed. This involves complex interactions between grass and legume species, grazing management, soil fertility, and animal [nutrition](/nutrition).
 

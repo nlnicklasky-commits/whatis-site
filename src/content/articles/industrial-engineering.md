@@ -39,7 +39,7 @@ Most engineering disciplines work with physical things. Industrial engineering w
 
 Frederick Winslow Taylor introduced "scientific [management](/management)" in the early 1900s, using time studies to improve factory [productivity](/productivity). His methods were controversial — workers felt treated like machines — but his insight that work processes can be measured and improved systematically launched the field.
 
-Today, industrial engineering applies those principles to everything from manufacturing and healthcare to logistics, finance, and the military.
+Today, industrial engineering applies those principles to everything from manufacturing and healthcare to [logistics](/logistics), [finance](/finance), and the military.
 
 ## Core Methods
 
@@ -57,7 +57,7 @@ Today, industrial engineering applies those principles to everything from manufa
 
 **Manufacturing** is the traditional home. Designing production lines, optimizing batch sizes, balancing assembly lines, and managing inventory.
 
-**Healthcare** is growing fast. Industrial engineers have cut emergency department wait times by 75% at some hospitals, optimized OR scheduling, and reduced medical errors through process redesign.
+**Healthcare** is growing fast. Industrial engineers have cut emergency department wait times by 75% at some hospitals, optimized OR [scheduling](/scheduling), and reduced medical errors through process redesign.
 
 **Logistics** — Amazon's warehouse operations are industrial engineering at massive scale, optimizing pick paths, predicting demand, and managing delivery networks.
 
@@ -67,6 +67,6 @@ Today, industrial engineering applies those principles to everything from manufa
 
 ## The Career
 
-Industrial engineering is one of the most versatile engineering degrees. The combination of engineering, business, statistics, and [human factors](/human-factors) makes graduates adaptable across industries. The median salary of $96,000 reflects strong demand, and job growth exceeds 12% — faster than average for engineering.
+Industrial engineering is one of the most versatile engineering degrees. The combination of engineering, business, [statistics](/statistics), and [human factors](/human-factors) makes graduates adaptable across industries. The median salary of $96,000 reflects strong demand, and job growth exceeds 12% — faster than average for engineering.
 
 Many industrial engineers eventually move into management, where systems thinking proves valuable for organizational [leadership](/leadership). The degree is also strong preparation for MBA programs and operations-focused business careers.

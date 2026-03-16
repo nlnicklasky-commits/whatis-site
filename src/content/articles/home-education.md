@@ -53,7 +53,7 @@ Homeschooling is not one thing. The methods vary enormously:
 
 **Traditional/structured** — follows a packaged curriculum that mirrors school at home. Textbooks, worksheets, tests, grade levels. Companies like Abeka, Saxon, and Sonlight provide complete programs. This is the most school-like approach.
 
-**Classical education** — based on the medieval trivium: [grammar](/grammar) (facts and foundations), logic ([critical thinking](/critical-thinking)), and [rhetoric](/rhetoric) (articulate expression). Heavy on reading classic [literature](/literature), learning Latin, and developing rigorous reasoning skills. The *Well-Trained Mind* by Susan Wise Bauer is the standard reference.
+**Classical education** — based on the medieval trivium: [grammar](/grammar) (facts and foundations), [logic](/logic) ([critical thinking](/critical-thinking)), and [rhetoric](/rhetoric) (articulate expression). Heavy on reading classic [literature](/literature), learning Latin, and developing rigorous reasoning skills. The *Well-Trained Mind* by Susan Wise Bauer is the standard reference.
 
 **Charlotte Mason** — emphasizes "living books" (well-written, narrative-driven texts rather than textbooks), nature study, narration (children retelling what they have learned), and short lessons to maintain attention. Named after a 19th-century British educator.
 

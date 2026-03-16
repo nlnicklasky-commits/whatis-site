@@ -37,7 +37,7 @@ faq:
 
 # What Is Server Administration?
 
-Server administration is the practice of installing, configuring, maintaining, and securing computer servers so that the applications, websites, databases, and services running on them stay available, performant, and safe. Every website you visit, every app you open, and every email you send relies on a server somewhere — and someone is responsible for keeping it running. That someone is a server administrator.
+Server administration is the practice of installing, configuring, maintaining, and securing computer servers so that the applications, websites, databases, and services [running](/running) on them stay available, performant, and safe. Every website you visit, every app you open, and every email you send relies on a server somewhere — and someone is responsible for keeping it running. That someone is a server administrator.
 
 ## What Exactly Is a Server?
 
@@ -59,7 +59,7 @@ Setting up a new server involves selecting and installing an operating system (L
 
 A fresh Linux server installation takes maybe 20 minutes. But properly configuring it — hardening security, setting up user accounts, configuring firewalls, installing and tuning the required services — takes hours or days, depending on the role.
 
-Configuration management tools like Ansible, Puppet, and Chef automate this process. Instead of manually configuring each server, you define the desired state in code — "this server should have Apache installed, listening on port 443, with these specific settings" — and the tool ensures every server matches that specification. This is the core idea behind **infrastructure as code**, and it's changed server administration from a manual craft to a programmable discipline.
+Configuration [management](/management) tools like Ansible, Puppet, and Chef automate this process. Instead of manually configuring each server, you define the desired state in code — "this server should have Apache installed, listening on port 443, with these specific settings" — and the tool ensures every server matches that specification. This is the core idea behind **infrastructure as code**, and it's changed server administration from a manual craft to a programmable discipline.
 
 ### User and Access Management
 
@@ -126,7 +126,7 @@ Essential commands every administrator knows:
 - `systemctl`: Start, stop, enable, and check services
 - `grep`, `awk`, `sed`: Text processing tools for parsing logs and configuration files
 
-Shell scripting — writing Bash scripts to automate repetitive tasks — is where administration becomes genuinely powerful. A script that checks disk usage, identifies and compresses old log files, and sends a report takes five minutes to write and saves hours of manual work over time.
+Shell scripting — [writing](/writing) Bash scripts to automate repetitive tasks — is where administration becomes genuinely powerful. A script that checks disk usage, identifies and compresses old log files, and sends a report takes five minutes to write and saves hours of manual work over time.
 
 ### Package Management
 
@@ -153,7 +153,7 @@ Each service has its own configuration files, typically in `/etc/`, its own logs
 
 ## Windows Server Administration
 
-While Linux dominates web hosting, Windows Server remains essential in enterprise environments, particularly those using Microsoft's ecosystem — Active Directory, Exchange, SharePoint, SQL Server, and .NET applications.
+While Linux dominates [web hosting](/web-hosting), Windows Server remains essential in enterprise environments, particularly those using Microsoft's ecosystem — Active Directory, Exchange, SharePoint, SQL Server, and .NET applications.
 
 ### Active Directory
 
@@ -163,7 +163,7 @@ Group Policy Objects (GPOs) let administrators define settings that apply to use
 
 ### PowerShell
 
-PowerShell is Windows Server's equivalent of Bash — but with a fundamentally different philosophy. Instead of outputting text that you parse with string manipulation, PowerShell outputs structured objects. When you run `Get-Process`, each process is returned as an object with properties like Name, CPU, and WorkingSet that you can filter, sort, and manipulate programmatically.
+PowerShell is Windows Server's equivalent of Bash — but with a fundamentally different [philosophy](/philosophy). Instead of outputting text that you parse with string manipulation, PowerShell outputs structured objects. When you run `Get-Process`, each process is returned as an object with properties like Name, CPU, and WorkingSet that you can filter, sort, and manipulate programmatically.
 
 This object-oriented approach makes PowerShell exceptionally powerful for administration tasks. Creating 500 user accounts from a CSV file, configuring network adapters across 200 servers, or auditing file permissions across an entire organization — these tasks that would take hours manually can be scripted in PowerShell and executed in minutes.
 
@@ -193,7 +193,7 @@ Platforms like AWS Lambda, Azure Functions, and Google Cloud Functions take serv
 
 ## Networking Fundamentals for Server Admins
 
-Server administration and networking are deeply intertwined. You don't need to be a network engineer, but you need to understand the basics.
+Server administration and [networking](/networking) are deeply intertwined. You don't need to be a network engineer, but you need to understand the basics.
 
 **TCP/IP** is the protocol suite that runs the internet. Every server communicates using IP addresses, TCP or UDP ports, and standard protocols. Understanding how packets travel from client to server — through DNS resolution, routing, TCP handshakes, and application-layer protocols — is essential for troubleshooting.
 

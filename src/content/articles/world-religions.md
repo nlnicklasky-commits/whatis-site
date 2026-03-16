@@ -37,13 +37,13 @@ faq:
 
 # What Is World Religions?
 
-World religions is the academic field that studies the major belief systems practiced across human civilizations, examining their origins, sacred texts, core teachings, rituals, ethical frameworks, and influence on culture and society. The term also refers collectively to the major religious traditions themselves -- primarily Christianity, Islam, Hinduism, [Buddhism](/buddhism), and Judaism -- though the full picture is far more varied and complex than any short list can capture.
+World religions is the academic field that studies the major belief systems practiced across human civilizations, examining their origins, sacred texts, core teachings, rituals, ethical frameworks, and influence on culture and society. The term also refers collectively to the major religious traditions themselves -- primarily Christianity, Islam, [Hinduism](/hinduism), [Buddhism](/buddhism), and Judaism -- though the full picture is far more varied and complex than any short list can capture.
 
 ## Why Study Religions at All?
 
-About 84% of the world's 8 billion people identify with a religious tradition, according to Pew Research Center estimates. Whether you're personally religious or not, understanding what billions of people believe and why they believe it is essential for making sense of history, politics, art, and human behavior.
+About 84% of the world's 8 billion people identify with a religious tradition, according to Pew Research Center estimates. Whether you're personally religious or not, understanding what billions of people believe and why they believe it is essential for making sense of history, [politics](/politics), art, and human behavior.
 
-Religious literacy isn't about agreeing with any particular tradition. It's about understanding the frameworks through which the majority of humanity interprets existence. Wars have started over theological disputes. Peace treaties have been brokered through religious dialogue. Laws, constitutions, and ethical systems across the globe bear the fingerprints of religious thinking. You can't understand the Israeli-Palestinian conflict, the partition of India, the Protestant Reformation's impact on European politics, or the civil rights movement in America without understanding religion.
+Religious literacy isn't about agreeing with any particular tradition. It's about understanding the frameworks through which the majority of humanity interprets existence. Wars have started over theological disputes. Peace treaties have been brokered through religious dialogue. Laws, constitutions, and ethical systems across the globe bear the fingerprints of religious thinking. You can't understand the Israeli-Palestinian conflict, the partition of India, the Protestant Reformation's impact on European politics, or the civil rights movement in America without understanding [religion](/religion).
 
 The academic study of world religions, sometimes called [comparative religion](/comparative-religion), approaches these traditions from a descriptive and analytical perspective rather than a devotional one. The goal is understanding, not conversion or critique.
 
@@ -89,7 +89,7 @@ The Quran is Islam's sacred text, believed to be the literal word of God (Allah)
 
 ### Sunni and Shia
 
-Islam's two major branches, Sunni (~85-90% of Muslims) and Shia (~10-15%), divided originally over the question of succession after Muhammad's death in 632 CE. Sunnis believed the community should elect its leader (caliph); Shia believed leadership should pass through Muhammad's family, specifically to his cousin and son-in-law Ali.
+Islam's two major branches, Sunni (~85-90% of Muslims) and Shia (~10-15%), divided originally over the question of succession after Muhammad's death in 632 CE. Sunnis believed the community should elect its leader (caliph); Shia believed [leadership](/leadership) should pass through Muhammad's family, specifically to his cousin and son-in-law Ali.
 
 Over centuries, this political dispute developed theological, legal, and cultural dimensions. The differences are real but often overstated in Western media. Both branches share the core beliefs of Islam and regard the Quran as sacred.
 
@@ -99,7 +99,7 @@ Hinduism is the world's third-largest religion with about 1.2 billion adherents,
 
 ### Core Concepts
 
-**Brahman** is the ultimate reality in Hindu philosophy -- the infinite, eternal, unchanging ground of all existence. Different Hindu schools understand Brahman differently. Some are monistic (everything is Brahman), some are theistic (Brahman is a personal God), and some hold positions in between.
+**Brahman** is the ultimate reality in Hindu [philosophy](/philosophy) -- the infinite, eternal, unchanging ground of all existence. Different Hindu schools understand Brahman differently. Some are monistic (everything is Brahman), some are theistic (Brahman is a personal God), and some hold positions in between.
 
 **Atman** is the individual soul or self, which many Hindu traditions teach is identical with or connected to Brahman. The Upanishads' famous declaration "Tat tvam asi" ("You are That") expresses this unity.
 
@@ -134,7 +134,7 @@ The Eightfold Path prescribes right view, right intention, right speech, right a
 
 **Theravada** ("Teaching of the Elders") is dominant in Southeast Asia (Sri Lanka, Myanmar, Thailand, Cambodia, Laos). It emphasizes monastic practice, individual effort toward enlightenment, and the historical Buddha's original teachings preserved in the Pali Canon.
 
-**Mahayana** ("Great Vehicle") is predominant in East Asia (China, Japan, Korea, Vietnam). It emphasizes compassion for all beings, the bodhisattva ideal (postponing personal enlightenment to help others), and a vast array of philosophical and devotional traditions. Zen Buddhism (meditation-focused) and Pure Land Buddhism (devotional) are major Mahayana schools.
+**Mahayana** ("Great Vehicle") is predominant in East Asia (China, Japan, Korea, Vietnam). It emphasizes compassion for all beings, the bodhisattva ideal (postponing personal enlightenment to help others), and a vast array of philosophical and devotional traditions. Zen Buddhism ([meditation](/meditation)-focused) and Pure Land Buddhism (devotional) are major Mahayana schools.
 
 **Vajrayana** (Tibetan Buddhism) is sometimes classified as a branch of Mahayana. It incorporates tantric practices, elaborate rituals, and a lineage of teachers (lamas). The Dalai Lama is the most recognizable figure of Vajrayana Buddhism.
 
@@ -194,7 +194,7 @@ Despite enormous diversity, certain themes recur across religious traditions:
 
 ## Studying Religion in the Modern World
 
-The academic study of religion uses methods from [anthropology](/anthropology), history, sociology, [psychology](/psychology), philosophy, and literary criticism. Scholars examine sacred texts using the same analytical tools applied to any historical document, study religious communities through ethnographic fieldwork, and analyze the social functions of religious belief and practice.
+The academic study of religion uses methods from [anthropology](/anthropology), history, [sociology](/sociology), [psychology](/psychology), philosophy, and [literary criticism](/literary-criticism). Scholars examine sacred texts using the same analytical tools applied to any historical document, study religious communities through ethnographic fieldwork, and analyze the social functions of religious belief and practice.
 
 This approach sometimes makes adherents uncomfortable -- analyzing a tradition from outside can feel reductive or disrespectful. But academic study and personal faith aren't mutually exclusive. Many scholars of religion are themselves religious, and they find that careful study deepens rather than diminishes their understanding.
 

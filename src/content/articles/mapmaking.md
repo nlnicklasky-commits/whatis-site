@@ -39,7 +39,7 @@ faq:
 
 Mapmaking — formally called [cartography](/cartography) — is the science, art, and technology of creating maps. It's the process of representing spatial relationships on a flat surface (or increasingly, on a digital screen), transforming the messy, three-dimensional reality of Earth's surface into something humans can read, understand, and use to make decisions.
 
-Maps are so woven into daily life that you probably used one today without thinking about it. Checked your phone for directions? That's a map. Looked at a weather forecast? Map. Scrolled through a real estate listing? Map. Each of those required someone — or some system — to collect spatial data, choose what to include and exclude, pick a visual representation, and handle the unavoidable distortions that come from projecting a sphere onto a flat surface.
+Maps are so woven into daily life that you probably used one today without thinking about it. Checked your phone for directions? That's a map. Looked at a weather forecast? Map. Scrolled through a [real estate](/real-estate) listing? Map. Each of those required someone — or some system — to collect spatial data, choose what to include and exclude, pick a visual representation, and handle the unavoidable distortions that come from projecting a sphere onto a flat surface.
 
 ## The Problem Every Mapmaker Faces
 
@@ -51,7 +51,7 @@ Every flat map distorts something. The only question is what you choose to disto
 
 A map projection is a mathematical formula that converts points on a sphere (latitude and longitude) to points on a flat surface (x and y coordinates). There are hundreds of projections, each making different tradeoffs.
 
-**Conformal projections** preserve local angles and shapes but distort area. The Mercator projection is the most famous example — it's great for navigation because straight lines represent constant compass bearings, but it makes high-latitude regions look absurdly oversized. Greenland appears roughly the same size as Africa on a Mercator map, but Africa is actually 14 times larger.
+**Conformal projections** preserve local angles and shapes but distort area. The Mercator projection is the most famous example — it's great for [navigation](/navigation) because straight lines represent constant compass bearings, but it makes high-latitude regions look absurdly oversized. Greenland appears roughly the same size as Africa on a Mercator map, but Africa is actually 14 times larger.
 
 **Equal-area projections** preserve area but distort shapes. The Mollweide projection shows every region at its correct relative size, but countries near the edges look squished and warped.
 
@@ -59,7 +59,7 @@ A map projection is a mathematical formula that converts points on a sphere (lat
 
 **Azimuthal projections** preserve directions from a central point. They're used for polar maps and for aviation charts showing great-circle routes.
 
-This is where mapmaking intersects with [geometry](/geometry) and mathematics. Choosing a projection is a technical decision with real consequences. A humanitarian organization mapping refugee movements needs an equal-area projection — showing distorted sizes could mislead resource allocation. A marine navigator needs a conformal projection for accurate bearing readings. A general reference atlas might use a compromise.
+This is where mapmaking intersects with [geometry](/geometry) and [mathematics](/mathematics). Choosing a projection is a technical decision with real consequences. A humanitarian organization mapping refugee movements needs an equal-area projection — showing distorted sizes could mislead resource allocation. A marine navigator needs a conformal projection for accurate bearing readings. A general reference atlas might use a compromise.
 
 ### Scale: What Gets Left Out
 
@@ -87,7 +87,7 @@ Meanwhile, Islamic cartographers like al-Idrisi (1154) were producing remarkably
 
 ### The Age of Exploration
 
-The 15th through 17th centuries transformed mapmaking because exploration provided data. Portuguese navigators mapped African coastlines. Columbus (accidentally) mapped Caribbean islands. Magellan's expedition proved the Earth was round by sailing around it.
+The 15th through 17th centuries transformed mapmaking because exploration provided data. Portuguese navigators mapped African coastlines. Columbus (accidentally) mapped Caribbean islands. Magellan's expedition proved the Earth was round by [sailing](/sailing) around it.
 
 Mercator's famous 1569 projection was a practical tool — it let sailors plot straight-line courses on a chart. Its distortions were well understood and accepted as the price for navigational utility.
 
@@ -95,7 +95,7 @@ This era also saw the emergence of national mapping programs. France's Cassini f
 
 ### Scientific Surveying
 
-The 18th and 19th centuries introduced trigonometric surveying — using carefully measured baselines and angles to establish precise geographic positions. Britain's Ordnance Survey, India's Great Trigonometric Survey, and similar programs worldwide created the foundational data for accurate national maps.
+The 18th and 19th centuries introduced trigonometric [surveying](/surveying) — using carefully measured baselines and angles to establish precise geographic positions. Britain's Ordnance Survey, India's Great Trigonometric Survey, and similar programs worldwide created the foundational data for accurate national maps.
 
 These surveys were extraordinary feats of [engineering](/engineering) and endurance. The Great Trigonometric Survey of India took decades, mapped the Himalayas, and accurately measured the height of Mount Everest — all using theodolites carried by teams of surveyors through some of the most difficult terrain on Earth.
 
@@ -127,13 +127,13 @@ Before GIS, making a map was a production process. You created a physical artifa
 
 GIS also enables spatial analysis that wasn't practical with paper maps. Buffer analysis (what's within 500 meters of this river?), overlay analysis (where do flood zones intersect with residential areas?), network analysis (what's the fastest route between these points?) — these operations transform mapping from description to analysis.
 
-Modern GIS connects to [data visualization](/data-visualization), [data science](/data-science), and [computer science](/computer-science) in fundamental ways. The spatial algorithms underlying GIS operations are sophisticated computer science — spatial indexing, computational geometry, graph theory applied to road networks.
+Modern GIS connects to [data visualization](/data-visualization), [data science](/data-science), and [computer science](/computer-science) in fundamental ways. The spatial algorithms underlying GIS operations are sophisticated computer science — spatial indexing, computational geometry, [graph theory](/graph-theory) applied to road networks.
 
 ### LiDAR and Photogrammetry
 
 LiDAR (Light Detection and Ranging) fires laser pulses at the ground and measures the reflected light to create precise 3D models of terrain and structures. Airborne LiDAR surveys can penetrate forest canopy to map the ground underneath — archaeologists have used it to discover ancient cities hidden under jungle.
 
-Photogrammetry extracts 3D information from overlapping photographs. Drone-based photogrammetry has become a standard tool for mapping construction sites, agricultural fields, and disaster areas. You fly a drone over an area, it captures hundreds of overlapping photos, and software stitches them into a detailed 3D model and orthophoto map.
+Photogrammetry extracts 3D information from overlapping photographs. Drone-based photogrammetry has become a standard tool for mapping [construction](/construction) sites, agricultural fields, and disaster areas. You fly a drone over an area, it captures hundreds of overlapping photos, and software stitches them into a detailed 3D model and orthophoto map.
 
 Both technologies produce point clouds — millions or billions of individual 3D points that represent surfaces. Processing these massive datasets requires serious [algorithms](/algorithms) and computational power.
 
@@ -145,7 +145,7 @@ Mapmaking isn't purely technical. A map that's geographically accurate but visua
 
 The most important information should visually dominate. Major roads should be thicker or more saturated than minor roads. City names should be larger than village names. The visual hierarchy guides the reader's eye to what matters, and it's harder to get right than most people think.
 
-This is where mapmaking becomes design. The principles overlap with graphic design and [data visualization](/data-visualization) — using color, size, position, and typography to communicate meaning clearly.
+This is where mapmaking becomes design. The principles overlap with [graphic design](/graphic-design) and [data visualization](/data-visualization) — using color, size, position, and [typography](/typography) to communicate meaning clearly.
 
 ### Color in Maps
 
@@ -159,7 +159,7 @@ Mapmakers use perceptually uniform color scales — where equal numeric differen
 
 Map labels are deceptively challenging. Every label needs to be readable, positioned near its feature without overlapping other labels, oriented to suggest the extent of the feature (a river name might curve along the river), and styled to indicate the type of feature (water names in italic, city names in roman).
 
-Automatic label placement is an NP-hard computational problem — meaning there's no efficient algorithm guaranteed to find the optimal solution. Practical label placement algorithms use heuristics, and skilled cartographers still manually adjust labels for important maps.
+Automatic label placement is an NP-hard computational problem — meaning there's no efficient algorithm guaranteed to find the optimal solution. Practical label placement algorithms use [heuristics](/heuristics), and skilled cartographers still manually adjust labels for important maps.
 
 ### Generalization
 
@@ -212,7 +212,7 @@ Building web maps involves [computer graphics](/computer-graphics), [algorithms]
 
 OpenStreetMap (OSM) is one of the most remarkable mapping projects ever undertaken. Since 2004, volunteers have collaboratively mapped the entire world — roads, buildings, land use, points of interest — creating a free, open-source dataset that rivals commercial offerings.
 
-In many developing countries, OSM is the most detailed map available. After natural disasters, volunteer mappers coordinate through the Humanitarian OpenStreetMap Team (HOT) to rapidly map affected areas from satellite imagery, producing maps that aid organizations use for response coordination.
+In many developing countries, OSM is the most detailed map available. After [natural disasters](/natural-disasters), volunteer mappers coordinate through the Humanitarian OpenStreetMap Team (HOT) to rapidly map affected areas from satellite imagery, producing maps that aid organizations use for response coordination.
 
 This democratization of mapping is genuinely new. For most of history, mapmaking was the province of governments and large institutions. Now anyone with an internet connection can contribute to the world's map.
 
@@ -222,7 +222,7 @@ Maps are never neutral. Every map is an argument — about what matters, how the
 
 ### The effect of Naming
 
-Who gets to name places? Colonial mapmakers renamed indigenous places worldwide, erasing millennia of history with a stroke of ink. The reclamation of indigenous place names is an ongoing process that intersects mapmaking with cultural politics.
+Who gets to name places? Colonial mapmakers renamed indigenous places worldwide, erasing millennia of history with a stroke of ink. The reclamation of indigenous place names is an ongoing process that intersects mapmaking with cultural [politics](/politics).
 
 ### What Gets Mapped and What Doesn't
 

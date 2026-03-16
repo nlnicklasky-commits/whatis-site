@@ -35,7 +35,7 @@ faq:
 
 # What Is Underwater Archaeology?
 
-Underwater archaeology is the scientific study of human history through material remains found beneath water — shipwrecks, sunken settlements, submerged landscapes, and artifacts that ended up on the bottom of oceans, lakes, rivers, and even flooded caves. It's essentially land archaeology, but with worse visibility, limited bottom time, and the constant challenge of working in an environment that actively wants to kill you.
+Underwater [archaeology](/archaeology) is the scientific study of human history through material remains found beneath water — shipwrecks, sunken settlements, submerged landscapes, and artifacts that ended up on the bottom of oceans, lakes, rivers, and even flooded caves. It's essentially land archaeology, but with worse visibility, limited bottom time, and the constant challenge of working in an environment that actively wants to kill you.
 
 ## Why Water Preserves What Land Destroys
 
@@ -109,7 +109,7 @@ UNESCO adopted the Convention on the Protection of the Underwater Cultural Herit
 
 ## Climate Change and Rising Seas
 
-Here's a twist most people don't consider: climate change is both threatening and creating underwater archaeological sites. Rising sea levels are submerging coastal heritage — ancient ports, historic waterfronts, island settlements. But they're also revealing sites that were previously above water, as erosion exposes buried shipwrecks and structures along shifting coastlines.
+Here's a twist most people don't consider: [climate change](/climate-change) is both threatening and creating underwater archaeological sites. Rising sea levels are submerging coastal heritage — ancient ports, historic waterfronts, island settlements. But they're also revealing sites that were previously above water, as erosion exposes buried shipwrecks and structures along shifting coastlines.
 
 Melting ice is uncovering artifacts in Arctic regions. Warming ocean temperatures are accelerating the deterioration of metal wrecks, including historically significant vessels from both world wars. Some researchers estimate that the wreck of the Titanic, which is being consumed by iron-eating bacteria, may be entirely gone within a few decades.
 

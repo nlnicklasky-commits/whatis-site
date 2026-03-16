@@ -41,7 +41,7 @@ The short answer to all of these: because health is never just biological. It's 
 
 ## The Field's Origins
 
-Medical anthropology emerged as a formal subdiscipline in the 1960s and 1970s, but its roots go back further. Early anthropologists like W.H.R. Rivers — who studied traditional healing practices in Melanesia in the early 1900s — noticed that non-Western medical systems weren't random superstition. They had internal logic, diagnostic categories, and treatment protocols. They just operated from different premises about what causes illness.
+Medical anthropology emerged as a formal subdiscipline in the 1960s and 1970s, but its roots go back further. Early anthropologists like W.H.R. Rivers — who studied traditional healing practices in Melanesia in the early 1900s — noticed that non-Western medical systems weren't random superstition. They had internal [logic](/logic), diagnostic categories, and treatment protocols. They just operated from different premises about what causes illness.
 
 The field crystallized during a period when international health organizations were trying (and often failing) to implement biomedical programs in developing countries. Vaccination campaigns faced resistance. Oral rehydration therapy for childhood diarrhea — a simple, cheap, life-saving intervention — was rejected by communities that had their own explanations for why children got sick and their own preferred remedies.
 
@@ -67,7 +67,7 @@ This doesn't mean all medical systems are equally effective at, say, removing a 
 
 ### [Traditional Chinese Medicine](/traditional-chinese-medicine)
 
-TCM operates from a framework of qi (vital energy), yin and yang (opposing forces that must be balanced), and meridians (energy pathways through the body). Illness results from imbalances or blockages in these systems. Treatments include acupuncture, [herbal medicine](/herbal-medicine), dietary therapy, and exercises like tai chi.
+TCM operates from a framework of qi (vital energy), yin and yang (opposing forces that must be balanced), and meridians (energy pathways through the body). Illness results from imbalances or blockages in these systems. Treatments include acupuncture, [herbal medicine](/herbal-medicine), dietary therapy, and exercises like [tai chi](/tai-chi).
 
 From a biomedical perspective, much of this framework doesn't correspond to known [anatomy](/anatomy) or [physiology](/physiology). But acupuncture has demonstrated measurable effects on pain in numerous clinical trials, and many TCM herbal remedies contain pharmacologically active compounds. Artemisinin — the most effective malaria drug in existence — was isolated from a traditional Chinese herbal remedy by pharmacologist Tu Youyou, who won the Nobel Prize for it in 2015.
 

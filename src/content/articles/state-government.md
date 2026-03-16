@@ -31,7 +31,7 @@ faq:
 
 # What Is State Government?
 
-State government is the governmental structure that manages public affairs within each of the 50 U.S. states. It operates between the federal government above and local governments (counties, cities, towns) below — and frankly, it affects your daily life more than most people realize.
+State [government](/government) is the governmental structure that manages public affairs within each of the 50 U.S. states. It operates between the federal government above and local governments (counties, cities, towns) below — and frankly, it affects your daily life more than most people realize.
 
 Your driver's license? State government. The speed limit on your commute? State government. The curriculum your kids follow in school, the standards at the restaurant where you eat lunch, whether you can buy beer on Sunday — all state government.
 
@@ -61,7 +61,7 @@ State judges reach the bench through different methods depending on the state: p
 
 The list is enormous. State governments manage:
 
-- **[Education](/education)** — setting standards, funding public schools, running state university systems
+- **[Education](/education)** — setting standards, funding public schools, [running](/running) state university systems
 - **Transportation** — building and maintaining highways, issuing driver's licenses
 - **Public safety** — state police, prison systems, emergency [management](/management)
 - **Health and welfare** — Medicaid administration, [public health](/public-health) departments, [mental health](/mental-health) services
@@ -78,8 +78,8 @@ Today, many [policy](/politics)) areas involve both levels working together — 
 
 ## Why State Government Matters More Than You Think
 
-Here's what most people miss: state governments make the decisions that shape your immediate environment. The quality of your local roads, the [education](/educational-history) your children receive, how much you pay in sales and income tax, what rights you have as a worker or a tenant — these are state-level decisions.
+Here's what most people miss: state governments make the decisions that shape your immediate environment. The quality of your local roads, the [education](/educational-history) your children receive, how much you pay in [sales](/sales) and income tax, what rights you have as a worker or a tenant — these are state-level decisions.
 
 Voter turnout in state elections typically runs 20-30 percentage points lower than presidential elections. Which means a relatively small number of engaged citizens have outsized influence on the policies that most directly affect everyone's daily experience.
 
-State [politics](/politics) may not generate the same cable news drama as Washington, D.C. But if you want to understand why your property taxes look the way they do, why your state's roads are either pristine or potholed, or why some regulations differ the moment you cross a state line — state government is where those answers live.
+State [politics](/politics) may not generate the same cable news [drama](/drama) as Washington, D.C. But if you want to understand why your property taxes look the way they do, why your state's roads are either pristine or potholed, or why some regulations differ the moment you cross a state line — state government is where those answers live.

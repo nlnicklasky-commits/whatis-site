@@ -50,7 +50,7 @@ faq:
 ---
 
 # What Is Animal Behavior?
-Animal behavior is the scientific study of how animals act, respond to stimuli, interact with each other, and adapt to their environments. It draws from biology, psychology, ecology, and evolution to explain everything from a spider spinning its web to a whale singing across an ocean basin.
+Animal behavior is the scientific study of how animals act, respond to stimuli, interact with each other, and adapt to their environments. It draws from [biology](/biology), [psychology](/psychology), [ecology](/ecology), and evolution to explain everything from a spider spinning its web to a whale [singing](/singing) across an ocean basin.
 
 If you have ever watched a dog tilt its head at a strange noise or wondered why birds fly in V-formations, you have already been doing informal animal behavior research. The formal version — backed by rigorous observation, experiments, and statistical analysis — has been an active scientific discipline since the early 20th century, and it keeps turning up surprises.
 
@@ -58,9 +58,9 @@ If you have ever watched a dog tilt its head at a strange noise or wondered why 
 
 People have been watching animals for as long as there have been people. Aristotle wrote detailed observations about animal habits around 350 BCE, noting that some birds migrate while others hibernate. But the systematic, scientific study of animal behavior did not really take off until the 1930s.
 
-Three European researchers — Konrad Lorenz, Niko Tinbergen, and Karl von Frisch — are generally credited with founding modern ethology. Lorenz famously demonstrated imprinting by getting baby geese to follow him as if he were their mother. Tinbergen developed the "four questions" framework that still guides the field today (more on that shortly). Von Frisch decoded the waggle dance of honeybees, showing that bees communicate the direction and distance of food sources through precise body movements. All three shared the Nobel Prize in Physiology or Medicine in 1973 — the first time the prize was awarded for work on animal behavior.
+Three European researchers — Konrad Lorenz, Niko Tinbergen, and Karl von Frisch — are generally credited with founding modern [ethology](/ethology). Lorenz famously demonstrated imprinting by getting baby geese to follow him as if he were their mother. Tinbergen developed the "four questions" framework that still guides the field today (more on that shortly). Von Frisch decoded the waggle [dance](/dance) of honeybees, showing that bees communicate the direction and distance of food sources through precise body movements. All three shared the Nobel Prize in [Physiology](/physiology) or Medicine in 1973 — the first time the prize was awarded for work on animal behavior.
 
-Around the same time, researchers in North America were approaching the subject differently. B.F. Skinner and other comparative psychologists studied [learning](/algorithms) in controlled laboratory settings, focusing on how animals acquire new behaviors through reinforcement and punishment. The tension between the European "watch them in nature" approach and the American "test them in the lab" approach shaped decades of debate, though modern researchers freely combine both methods.
+Around the same time, researchers in North America were approaching the subject differently. B.F. Skinner and other comparative psychologists studied [learning](/algorithms) in controlled laboratory settings, focusing on how animals acquire new behaviors through reinforcement and punishment. The tension between the European "watch them in nature" approach and the American "test them in the lab" approach shaped decades of [debate](/debate), though modern researchers freely combine both methods.
 
 ## Tinbergen's Four Questions — The Framework That Holds Everything Together
 
@@ -90,7 +90,7 @@ The classic example: a male stickleback fish attacks anything red during breedin
 - **Classical conditioning** — Pavlov's dogs salivating at a bell. The animal learns an association between two stimuli.
 - **Operant conditioning** — behavior changes based on consequences. A rat presses a lever to get food. Skinner built an entire research program around this.
 - **Observational learning** — picking up behaviors by watching others. Young chimpanzees learn to crack nuts by observing their mothers, a process that takes about four years to master.
-- **Insight learning** — solving a novel problem without trial and error. Crows in New Caledonia bend wire into hooks to retrieve food, apparently reasoning about the solution before acting.
+- **Insight learning** — solving a novel problem without trial and error. Crows in New Caledonia bend wire into hooks to retrieve food, apparently reasoning about the solution before [acting](/acting).
 
 Here is where it gets messy: even "innate" behaviors often require environmental input to develop properly. A cat raised without ever seeing a mouse will still pounce — but its technique will be sloppy compared to a cat that practiced on real prey. Song-learning in birds involves an innate template (the bird knows roughly what its species' song should sound like) combined with learning from adult tutors. Remove either component and the song develops abnormally.
 
@@ -110,7 +110,7 @@ Communication is one of the most fascinating aspects of animal behavior. Animals
 
 **Electric signals** are used by some fish species. Electric eels are the famous example, but weakly electric fish like the African elephant fish generate mild electric fields to sense their environment and communicate with each other in murky water.
 
-The question of whether any animal communication constitutes true "language" remains hotly debated. The strongest candidates are great apes trained in [sign language](/sign-language) (Washoe the chimpanzee learned roughly 350 signs) and dolphins given artificial language systems. But most researchers draw a line between communication (transmitting information) and language (which requires grammar, syntax, and the ability to discuss abstract or hypothetical things). The gap between the most complex animal communication and the simplest human language is still enormous — though it may be smaller than we once assumed.
+The question of whether any animal communication constitutes true "language" remains hotly debated. The strongest candidates are great apes trained in [sign language](/sign-language) (Washoe the chimpanzee learned roughly 350 signs) and dolphins given artificial language systems. But most researchers draw a line between communication (transmitting information) and language (which requires [grammar](/grammar), [syntax](/syntax), and the ability to discuss abstract or hypothetical things). The gap between the most complex animal communication and the simplest human language is still enormous — though it may be smaller than we once assumed.
 
 ## Social Lives and Group Dynamics
 
@@ -120,7 +120,7 @@ Some animals are loners. Leopards, many spider species, and most octopuses live 
 
 **Cooperative societies** take sociality further. Meerkats post sentinels to watch for predators while the group forages. African wild dogs vote on group decisions by sneezing — a hunt starts only after enough pack members have sneezed (yes, really, this was published in the Proceedings of the Royal Society in 2017). Naked mole rats live in eusocial colonies with a single breeding queen, much like [social insects](/agriculture), making them one of only two known eusocial mammals.
 
-**Eusociality** — the most extreme form of social organization — involves reproductive division of labor, cooperative brood care, and overlapping generations. It is best known in ants, bees, wasps, and termites. A honeybee colony of 60,000 individuals functions as something close to a superorganism, with workers specializing in nursing, foraging, guarding, or building depending on their age.
+**Eusociality** — the most extreme form of social organization — involves reproductive division of labor, cooperative brood care, and overlapping generations. It is best known in ants, bees, wasps, and termites. A honeybee colony of 60,000 individuals functions as something close to a superorganism, with workers specializing in [nursing](/nursing), [foraging](/foraging), guarding, or building depending on their age.
 
 **Fission-fusion societies** are flexible groups where individuals join and leave subgroups over time. Chimpanzees, dolphins, elephants, and spotted hyenas all live this way. It requires sophisticated social intelligence — you need to remember who is friendly, who is dominant, who owes you a favor, and who tried to steal your food last Tuesday. This cognitive demand may be one reason these species tend to have large brains relative to body size.
 
@@ -178,7 +178,7 @@ Understanding animal behavior has real consequences outside of academia.
 
 **Medicine** draws on animal behavior research too. Studying self-medication in wild animals (chimpanzees eating specific plants when ill, for instance) has pointed researchers toward potential pharmaceutical compounds. The study of animal sleep patterns — from the eight-minute naps of giraffes to the months-long hibernation of bears — has informed human sleep research and even [space medicine](/space-medicine).
 
-**Robotics and AI** increasingly borrow from animal behavior. Swarm algorithms based on ant colony optimization solve complex routing problems. Robot locomotion designs draw inspiration from [animal movement](/aerodynamics) patterns — the way a cockroach handles uneven terrain, or how a gecko's feet grip surfaces. Even social robot design incorporates principles from animal communication research.
+**[Robotics](/robotics) and AI** increasingly borrow from animal behavior. Swarm algorithms based on ant colony optimization solve complex routing problems. Robot locomotion designs draw inspiration from [animal movement](/aerodynamics) patterns — the way a cockroach handles uneven terrain, or how a gecko's feet grip surfaces. Even social robot design incorporates principles from animal communication research.
 
 And frankly, there is value in understanding animal behavior simply because it is extraordinary. The more we learn about what animals do and why, the more we appreciate both the similarities between us and the genuinely alien ways other species experience the world. A mantis shrimp sees 16 color channels where we see three. A bat constructs a mental image of its surroundings from echoes. A honeybee makes collective decisions through a process that, mathematically, resembles how neurons in your brain reach consensus.
 

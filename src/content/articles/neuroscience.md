@@ -47,11 +47,11 @@ Neuroscience is the effort to understand how it all works. And frankly, despite 
 
 ## A Field Born From Many Disciplines
 
-Neuroscience didn't exist as a unified field until surprisingly recently. The term "neuroscience" was coined in 1962 by Francis O. Schmitt, who organized an interdisciplinary research program at MIT. Before that, the study of the nervous system was fragmented across departments of anatomy, physiology, pharmacology, psychology, and more. Each had its own methods, jargon, and questions.
+Neuroscience didn't exist as a unified field until surprisingly recently. The term "neuroscience" was coined in 1962 by Francis O. Schmitt, who organized an interdisciplinary research program at MIT. Before that, the study of the nervous system was fragmented across departments of anatomy, [physiology](/physiology), [pharmacology](/pharmacology), [psychology](/psychology), and more. Each had its own methods, jargon, and questions.
 
 The Society for Neuroscience was founded in 1969 with 500 members. Today it has over 36,000 members from more than 95 countries, making it one of the largest scientific organizations in the world. Annual meeting attendance exceeds 25,000 — a gathering where a molecular biologist studying ion channels might present alongside a psychologist studying consciousness.
 
-This interdisciplinary nature is neuroscience's greatest strength and its greatest challenge. Understanding the brain requires biology, chemistry, physics, psychology, computer science, mathematics, engineering, and philosophy. No single person masters all of these, which is why modern neuroscience is intensely collaborative.
+This interdisciplinary nature is neuroscience's greatest strength and its greatest challenge. Understanding the brain requires biology, chemistry, physics, psychology, [computer science](/computer-science), [mathematics](/mathematics), [engineering](/engineering), and [philosophy](/philosophy). No single person masters all of these, which is why modern neuroscience is intensely collaborative.
 
 ## The Major Branches
 
@@ -69,7 +69,7 @@ This branch studies how neural circuits process information. How does the visual
 
 Systems neuroscience works at the level of brain regions and their interconnections. It uses electrophysiology (recording from individual neurons or groups of neurons), brain imaging, and computational models to understand how circuit-level processing gives rise to function.
 
-The place cell discovery is a classic example. In 1971, John O'Keefe found neurons in the hippocampus that fire only when a rat is in a specific location — creating a neural map of space. May-Britt and Edvard Moser later discovered grid cells in the entorhinal cortex — neurons that fire in a regular hexagonal pattern as an animal moves, creating a coordinate system for navigation. These discoveries (Nobel Prize 2014) revealed that the brain contains an actual spatial mapping system.
+The place cell discovery is a classic example. In 1971, John O'Keefe found neurons in the hippocampus that fire only when a rat is in a specific location — creating a neural map of space. May-Britt and Edvard Moser later discovered grid cells in the entorhinal cortex — neurons that fire in a regular hexagonal pattern as an animal moves, creating a coordinate system for [navigation](/navigation). These discoveries (Nobel Prize 2014) revealed that the brain contains an actual spatial mapping system.
 
 ### Cognitive Neuroscience
 
@@ -77,13 +77,13 @@ Where neuroscience meets psychology. [Cognitive neuroscience](/cognitive-neurosc
 
 fMRI is the workhorse technology here, revealing which brain regions activate during cognitive tasks. But cognitive neuroscience also uses EEG, transcranial magnetic stimulation (TMS), and lesion studies (examining how brain damage affects cognition) to build its understanding.
 
-One of the field's most productive areas has been the study of [cognitive bias](/cognitive-bias) — systematic errors in judgment that arise from the brain's use of mental shortcuts. Understanding these biases at the neural level connects cognitive neuroscience to [neuroeconomics](/neuroeconomics) and social psychology.
+One of the field's most productive areas has been the study of [cognitive bias](/cognitive-bias) — systematic errors in judgment that arise from the brain's use of mental shortcuts. Understanding these biases at the neural level connects cognitive neuroscience to [neuroeconomics](/neuroeconomics) and [social psychology](/social-psychology).
 
 ### Computational Neuroscience
 
 This branch builds mathematical models of neural systems, from individual neurons to large-scale brain networks. It answers questions like: what algorithm does the brain use to represent visual scenes? How do networks of neurons store memories? What computational principles explain neural coding?
 
-Computational neuroscience has strong connections to [artificial intelligence](/artificial-intelligence). Neural networks — the foundation of modern AI — were originally inspired by the brain's structure. The backpropagation algorithm, deep learning architectures, and reinforcement learning all drew on neuroscience insights. The relationship is now bidirectional: AI models serve as testable hypotheses about brain function, and brain research inspires new AI architectures.
+Computational neuroscience has strong connections to [artificial intelligence](/artificial-intelligence). [Neural networks](/neural-networks) — the foundation of modern AI — were originally inspired by the brain's structure. The backpropagation algorithm, [deep learning](/deep-learning) architectures, and [reinforcement learning](/reinforcement-learning) all drew on neuroscience insights. The relationship is now bidirectional: AI models serve as testable hypotheses about brain function, and brain research inspires new AI architectures.
 
 ### Developmental Neuroscience
 
@@ -93,7 +93,7 @@ The discovery that the adolescent brain continues developing until about age 25 
 
 ### Clinical Neuroscience
 
-The bridge between basic research and patient care. Clinical neuroscience studies neurological and psychiatric disorders — their mechanisms, biomarkers, and treatments. It overlaps with neurology and psychiatry but emphasizes the biological basis of disease.
+The bridge between basic research and patient care. Clinical neuroscience studies neurological and psychiatric disorders — their mechanisms, biomarkers, and treatments. It overlaps with neurology and [psychiatry](/psychiatry) but emphasizes the biological basis of disease.
 
 [Neuropharmacology](/neuropharmacology) is a major component, developing and studying drugs that treat brain disorders. Neuroimaging for diagnosis, biomarker discovery for early detection, and brain stimulation therapies (deep brain stimulation, transcranial magnetic stimulation) are all clinical neuroscience domains.
 
@@ -121,7 +121,7 @@ Neuroscience has an extraordinary toolkit, each technique offering a different w
 
 ### Manipulating Neural Activity
 
-**Optogenetics** — genetically engineering specific neurons to respond to light, then using fiber optics to activate or silence them with millisecond precision. This technology, developed in the mid-2000s, allows researchers to test whether specific neural activity is causally necessary for specific behaviors. It's been called the biggest technical advance in neuroscience in the past 20 years.
+**Optogenetics** — genetically engineering specific neurons to respond to light, then using [fiber optics](/fiber-optics) to activate or silence them with millisecond precision. This technology, developed in the mid-2000s, allows researchers to test whether specific neural activity is causally necessary for specific behaviors. It's been called the biggest technical advance in neuroscience in the past 20 years.
 
 **Chemogenetics (DREADDs)** — genetically engineering neurons to respond to specific designer drugs. Less temporally precise than optogenetics but doesn't require implanted fiber optics.
 
@@ -139,7 +139,7 @@ How does subjective experience arise from neural activity? Why does seeing red f
 
 This is the "hard problem of consciousness," named by philosopher David Chalmers. We can identify neural correlates of consciousness — brain activity patterns associated with conscious awareness — but explaining how physical processes produce subjective experience remains deeply mysterious.
 
-Leading theories include Integrated Information Theory (consciousness arises from integrated information processing, quantified as "phi"), Global Workspace Theory (consciousness occurs when information is broadcast widely across cortical networks), and Higher-Order Theories (consciousness requires one brain process to represent another brain process).
+Leading theories include Integrated [Information Theory](/information-theory) (consciousness arises from integrated information processing, quantified as "phi"), Global Workspace Theory (consciousness occurs when information is broadcast widely across cortical networks), and Higher-Order Theories (consciousness requires one brain process to represent another brain process).
 
 These theories generate different predictions that are being tested empirally. The Templeton World Charity Foundation funded a major project pitting Integrated Information Theory against Global Workspace Theory, with results published in 2023 that partially supported and partially challenged both theories.
 
@@ -163,7 +163,7 @@ Psychiatric disorders fare somewhat better in terms of treatment but worse in te
 
 The past decade has seen unprecedented investment in neuroscience.
 
-**The BRAIN Initiative** (Brain Research through Advancing Creative Neurotechnologies) — launched by the U.S. government in 2013 with cumulative funding exceeding $6 billion. It's developing new tools for recording and manipulating brain activity, including next-generation probes, brain-computer interfaces, and whole-brain imaging techniques.
+**The BRAIN Initiative** (Brain Research through Advancing Creative Neurotechnologies) — launched by the U.S. [government](/government) in 2013 with cumulative funding exceeding $6 billion. It's developing new tools for recording and manipulating brain activity, including next-generation probes, brain-computer interfaces, and whole-brain imaging techniques.
 
 **The Human Brain Project** — a European Union initiative (2013-2023) that aimed to simulate the human brain computationally. While it fell short of that ambitious goal, it produced valuable brain atlases, simulation platforms, and neuroinformatics tools.
 

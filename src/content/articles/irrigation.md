@@ -63,11 +63,11 @@ These ancient systems demonstrate that irrigation is not just a modern convenien
 
 **Water depletion.** The Ogallala Aquifer — which irrigates one-fifth of U.S. cropland across eight Great Plains states — is being pumped far faster than it recharges. Some areas have already exhausted accessible groundwater. Similar depletion affects aquifers in India, China, and the Middle East.
 
-**Salinization.** Irrigated soils gradually accumulate salt as water evaporates, leaving dissolved minerals behind. An estimated 20% of irrigated land worldwide suffers from salt buildup, reducing productivity. Proper drainage and flushing can manage the problem but add cost. These soil challenges are studied in [soil-science](/soil-science) and relate to [ecology](/ecology) impacts.
+**Salinization.** Irrigated soils gradually accumulate salt as water evaporates, leaving dissolved minerals behind. An estimated 20% of irrigated land worldwide suffers from salt buildup, reducing [productivity](/productivity). Proper drainage and flushing can manage the problem but add cost. These soil challenges are studied in [soil-science](/soil-science) and relate to [ecology](/ecology) impacts.
 
 **Energy costs.** Pumping water — especially from deep wells — requires significant energy. In California's Central Valley, irrigation pumping accounts for a substantial portion of agricultural operating costs.
 
-**Climate change.** Shifting precipitation patterns, glacier retreat (which feeds many irrigation systems), and increased evaporation are making irrigation simultaneously more necessary and more difficult to sustain.
+**[Climate change](/climate-change).** Shifting precipitation patterns, glacier retreat (which feeds many irrigation systems), and increased evaporation are making irrigation simultaneously more necessary and more difficult to sustain.
 
 ## Smart Irrigation
 

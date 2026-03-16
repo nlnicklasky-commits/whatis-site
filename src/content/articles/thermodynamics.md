@@ -37,7 +37,7 @@ faq:
 
 # What Is Thermodynamics?
 
-Thermodynamics is the branch of physics that deals with heat, work, temperature, and energy — specifically the relationships between them and the laws governing energy transfer and transformation. Its principles determine why engines run, why ice melts, why your coffee cools down, and why the universe itself has a direction in time.
+Thermodynamics is the branch of [physics](/physics) that deals with heat, work, temperature, and energy — specifically the relationships between them and the laws governing energy transfer and transformation. Its principles determine why engines run, why ice melts, why your coffee cools down, and why the universe itself has a direction in time.
 
 ## Four Laws That Run the Universe
 
@@ -111,7 +111,7 @@ The third law states that as a system approaches absolute zero (0 Kelvin, -273.1
 
 More practically, the third law means you can never actually reach absolute zero. You can get arbitrarily close — physicists have cooled systems to within billionths of a degree — but you can never get all the way there. Each successive cooling step requires more effort and yields less temperature reduction, approaching but never reaching the limit.
 
-The coldest temperature ever achieved in a laboratory (as of recent records) is about 38 picokelvin (3.8 × 10^-11 K), produced by physicists at the University of Bremen using magnetic trapping of rubidium atoms. That's colder than outer space (about 2.7 K), colder than the darkest void between galaxy clusters.
+The coldest temperature ever achieved in a laboratory (as of recent records) is about 38 picokelvin (3.8 × 10^-11 K), produced by physicists at the University of Bremen using magnetic [trapping](/trapping) of rubidium atoms. That's colder than outer space (about 2.7 K), colder than the darkest void between galaxy clusters.
 
 ## Heat Engines — Turning Heat into Work
 
@@ -157,7 +157,7 @@ You experience thermodynamic principles constantly, even if you don't think abou
 
 **Your body** is a heat engine with about 25% efficiency for mechanical work. You burn food (chemical energy), produce work (movement), and dump waste heat (which is why you're warm). You produce about 80-100 watts of heat at rest — enough to noticeably warm a small room.
 
-**Cooking** is applied thermodynamics. Heat flows from stove to pan to food by conduction (direct contact), convection (fluid circulation), and radiation (infrared energy). A pressure cooker raises the boiling point of water by increasing pressure — water at 15 psi gauge boils at 121 degrees C instead of 100 degrees C, cooking food roughly 70% faster.
+**[Cooking](/cooking)** is applied thermodynamics. Heat flows from stove to pan to food by conduction (direct contact), convection (fluid circulation), and radiation (infrared energy). A pressure cooker raises the boiling point of water by increasing pressure — water at 15 psi gauge boils at 121 degrees C instead of 100 degrees C, cooking food roughly 70% faster.
 
 ## Statistical Mechanics — The Microscopic Foundation
 
@@ -167,7 +167,7 @@ Temperature is the average kinetic energy of molecules. Pressure is the average 
 
 This statistical mechanical view explains *why* the laws work. The first law is conservation of energy applied to molecular motion. The second law is statistics — systems evolve toward the most probable macroscopic state. The third law follows from quantum mechanics — at absolute zero, a perfect crystal has exactly one microstate.
 
-Statistical mechanics also predicts fluctuations. In a very small system — just a few molecules — you might occasionally see entropy decrease spontaneously. Molecules might all end up on one side of a tiny container. These fluctuations are real and measurable in nanoscale systems. But for macroscopic systems (10^23 molecules), fluctuations are negligibly small. The second law is effectively absolute for anything you can see with your eyes.
+[Statistical mechanics](/statistical-mechanics) also predicts fluctuations. In a very small system — just a few molecules — you might occasionally see entropy decrease spontaneously. Molecules might all end up on one side of a tiny container. These fluctuations are real and measurable in nanoscale systems. But for macroscopic systems (10^23 molecules), fluctuations are negligibly small. The second law is effectively absolute for anything you can see with your eyes.
 
 ## Beyond Equilibrium — Modern Thermodynamics
 
@@ -177,7 +177,7 @@ Non-equilibrium thermodynamics, developed substantially by Ilya Prigogine (Nobel
 
 They don't actually defy it. They increase local order at the expense of greater disorder elsewhere. A living organism maintains its internal order by consuming energy and exporting entropy (as waste heat and waste products) to its environment. Life doesn't violate thermodynamics — it's a particularly sophisticated example of it.
 
-This perspective connects thermodynamics to [biology](/biology), ecology, atmospheric science, and even economics. Anywhere energy flows through a system, thermodynamics applies. And the four laws — the zeroth through the third — stand as some of the most tested, most reliable, and most universal principles humans have ever discovered.
+This perspective connects thermodynamics to [biology](/biology), [ecology](/ecology), atmospheric science, and even [economics](/economics). Anywhere energy flows through a system, thermodynamics applies. And the four laws — the zeroth through the third — stand as some of the most tested, most reliable, and most universal principles humans have ever discovered.
 
 The physicist Arthur Eddington put it best: "If someone points out to you that your pet theory of the universe is in disagreement with Maxwell's equations — then so much the worse for Maxwell's equations. If it is found to be contradicted by observation — well, these experimentalists do bungle things sometimes. But if your theory is found to be against the second law of thermodynamics I can give you no hope; there is nothing for it but to collapse in deepest humiliation."
 

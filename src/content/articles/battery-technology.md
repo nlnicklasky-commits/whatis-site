@@ -69,7 +69,7 @@ Alessandro Volta created the first true battery in 1800 by stacking alternating 
 
 ### Lead-Acid (1859)
 
-Gaston Plante invented the lead-acid battery, which became the first commercially successful rechargeable battery. Its basic [chemistry](/biochemistry) hasn't changed much: lead dioxide cathode, sponge lead anode, sulfuric acid electrolyte. Despite being heavy and relatively low-energy, lead-acid batteries still start virtually every gasoline car on the road — over 150 years after their invention. They're cheap, reliable, and tolerant of abuse.
+Gaston Plante invented the lead-acid battery, which became the first commercially successful rechargeable battery. Its basic [chemistry](/biochemistry) hasn't changed much: lead dioxide cathode, sponge lead anode, sulfuric acid electrolyte. Despite being heavy and relatively low-energy, lead-acid batteries still start virtually every gasoline car on the road — over 150 years after their [invention](/invention). They're cheap, reliable, and tolerant of abuse.
 
 ### Nickel-Cadmium and Nickel-Metal Hydride
 
@@ -77,7 +77,7 @@ NiCd batteries, commercialized in the 1950s, were the first practical rechargeab
 
 ### The Lithium-Ion Revolution
 
-This is the big one. Lithium-ion batteries were commercialized by Sony in 1991 and have since taken over the world. Their development earned John Goodenough, M. Stanley Whittingham, and Akira Yoshino the 2019 Nobel Prize in Chemistry.
+This is the big one. Lithium-ion batteries were commercialized by Sony in 1991 and have since taken over the world. Their development earned John Goodenough, M. Stanley Whittingham, and Akira Yoshino the 2019 Nobel Prize in [Chemistry](/chemistry).
 
 Why lithium? Three reasons. First, lithium is the lightest metal on the periodic table, so lithium-based electrodes have excellent energy-to-weight ratios. Second, lithium has a very negative electrochemical potential, meaning lithium-based cells produce higher voltage than most alternatives. Third, lithium ions are small enough to intercalate (insert themselves) into layered electrode materials without destroying the structure — which is what makes the battery rechargeable.
 
@@ -95,7 +95,7 @@ The cobalt content is a major concern. Cobalt is expensive, concentrated in the 
 
 Lower energy density than NMC (150-180 Wh/kg) but significantly cheaper, longer-lasting (2,000-5,000+ cycles), and more thermally stable. LFP contains no cobalt or nickel. Tesla switched its standard-range Model 3 and Model Y to LFP cells supplied by CATL, and BYD has built its entire EV lineup around LFP chemistry.
 
-The trade-off is range. An LFP pack needs to be about 30% heavier than an NMC pack for equivalent energy storage. For city cars and standard-range vehicles, that's acceptable. For premium long-range vehicles, NMC still wins.
+The [trade](/trade)-off is range. An LFP pack needs to be about 30% heavier than an NMC pack for equivalent energy storage. For city cars and standard-range vehicles, that's acceptable. For premium long-range vehicles, NMC still wins.
 
 ### NCA (Nickel Cobalt Aluminum)
 
@@ -111,7 +111,7 @@ Lithium-ion cells come in three physical formats, each with trade-offs:
 
 **Cylindrical cells** (like the 18650 and the larger 4680) are the most mature format. They're mechanically strong, easy to manufacture at high speed, and provide good thermal [management](/management) because the gaps between cylindrical cells allow coolant to flow. Tesla has championed the 4680 format (46mm diameter, 80mm tall), which offers roughly 5x the energy of an 18650 cell and is cheaper to produce per kWh.
 
-**Prismatic cells** are rectangular cans, typically larger than cylindrical cells. They pack more efficiently (no gaps) but can be more prone to swelling as gases form during cycling. BMW, Volkswagen, and many Chinese manufacturers favor prismatic formats.
+**Prismatic cells** are rectangular cans, typically larger than cylindrical cells. They pack more efficiently (no gaps) but can be more prone to swelling as gases form during [cycling](/cycling). BMW, Volkswagen, and many Chinese manufacturers favor prismatic formats.
 
 **Pouch cells** use a flexible laminated foil packaging instead of a metal can. They're the lightest format and can be made in custom shapes, but they require external structural support and are more vulnerable to puncture. GM's Ultium platform and many Korean manufacturers (LG, SK) use pouch cells.
 
@@ -143,7 +143,7 @@ Fast charging depends on the battery's ability to accept high current without da
 
 ### Solid-State Batteries
 
-Replacing the liquid electrolyte with a solid one is the most anticipated advancement in battery technology. Solid electrolytes — typically ceramics like LLZO (lithium lanthanum zirconium oxide) or sulfide-based compounds — could enable several breakthroughs simultaneously.
+Replacing the liquid electrolyte with a solid one is the most anticipated advancement in battery technology. Solid electrolytes — typically [ceramics](/ceramics) like LLZO (lithium lanthanum zirconium oxide) or sulfide-based compounds — could enable several breakthroughs simultaneously.
 
 First, solid electrolytes are non-flammable, eliminating the primary safety concern of lithium-ion batteries. Second, they could enable lithium metal anodes (pure lithium instead of graphite), roughly doubling energy density to 400-500 Wh/kg. Third, some solid electrolytes are stable at higher voltages, potentially allowing higher-energy cathodes.
 
@@ -179,7 +179,7 @@ Battery manufacturing depends on a handful of critical minerals with concentrate
 
 This concentration creates geopolitical vulnerabilities. The US Inflation Reduction Act (2022) included provisions requiring increasing percentages of battery minerals to be sourced domestically or from free-trade partners — a deliberate attempt to reduce dependence on Chinese-controlled supply chains. The EU's Critical Raw Materials Act has similar goals.
 
-Recycling will eventually reduce dependence on virgin mining. When millions of first-generation EV batteries reach end-of-life in the 2030s and 2040s, they'll represent a significant "urban mine" of valuable materials. Companies like Redwood Materials (founded by former Tesla CTO JB Straubel) and Li-Cycle are building recycling capacity in anticipation.
+[Recycling](/recycling) will eventually reduce dependence on virgin mining. When millions of first-generation EV batteries reach end-of-life in the 2030s and 2040s, they'll represent a significant "urban mine" of valuable materials. Companies like Redwood Materials (founded by former Tesla CTO JB Straubel) and Li-Cycle are building recycling capacity in anticipation.
 
 ## Why It All Matters
 

@@ -31,7 +31,7 @@ faq:
 
 # What Is Skill-Based [Gaming](/gaming)?
 
-Skill-based gaming refers to games where the outcome depends primarily on the player's ability — their reflexes, strategic thinking, knowledge, or practiced technique — rather than on random chance. Chess is the purest example: no dice, no card draws, no randomness. The better player wins. On the opposite end, a slot machine is pure chance — no amount of skill changes the outcome.
+Skill-based gaming refers to games where the outcome depends primarily on the player's ability — their reflexes, strategic thinking, knowledge, or practiced technique — rather than on random chance. [Chess](/chess) is the purest example: no dice, no card draws, no randomness. The better player wins. On the opposite end, a slot machine is pure chance — no amount of skill changes the outcome.
 
 Most games fall somewhere on this spectrum. What makes the concept important now is the explosive growth of competitive gaming (esports), the legal questions around games with cash prizes, and the broader cultural shift toward treating video games as legitimate competitive pursuits requiring genuine talent.
 
@@ -41,7 +41,7 @@ Think of games on a line from pure skill to pure luck.
 
 **Pure skill:** Chess, Go, competitive fighting games (Street Fighter, Tekken), rhythm games (Beat Saber with set patterns). Identical starting conditions, no randomness, complete information. The better player wins.
 
-**Mostly skill with some luck:** Poker, competitive [card games](/card-games) (Magic: The Gathering), battle royale games (Fortnite, Apex [Legends](/legends)). Random elements exist — card draws, loot spawns, circle placement — but skilled players consistently outperform less skilled ones over many games.
+**Mostly skill with some luck:** [Poker](/poker), competitive [card games](/card-games) (Magic: The Gathering), battle royale games (Fortnite, Apex [Legends](/legends)). Random elements exist — card draws, loot spawns, circle placement — but skilled players consistently outperform less skilled ones over many games.
 
 **Balanced:** [Backgammon](/backgammon), many [board games](/board-games) with dice, team-based shooters with random team assignments. Skill and luck contribute roughly equally in any single match, but skill dominates over many matches.
 

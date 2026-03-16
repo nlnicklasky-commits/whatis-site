@@ -41,7 +41,7 @@ The **Three Kingdoms period** (57 BCE - 668 CE) is when Korean history gets vivi
 
 **Goguryeo** in the north was militaristic and expansionist, controlling Manchuria and northern Korea. It successfully repelled massive Chinese invasions — the Sui dynasty threw over a million troops at Goguryeo in 612 CE and lost catastrophically. That defeat contributed to the Sui dynasty's collapse.
 
-**Baekje** in the southwest was the most cosmopolitan, maintaining trade and cultural exchanges with Japan and China. Much of early Japanese culture — [Buddhism](/buddhism), [writing](/writing), [architecture](/architecture) — arrived via Baekje.
+**Baekje** in the southwest was the most cosmopolitan, maintaining [trade](/trade) and cultural exchanges with Japan and China. Much of early Japanese culture — [Buddhism](/buddhism), [writing](/writing), [architecture](/architecture) — arrived via Baekje.
 
 **Silla** in the southeast eventually unified the peninsula in 668 CE by allying with Tang dynasty China, then pushing the Chinese back out. Unified Silla controlled most of the peninsula for over 250 years, producing some of Korea's finest Buddhist art and architecture.
 

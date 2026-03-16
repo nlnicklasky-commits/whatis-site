@@ -57,7 +57,7 @@ There's no one-size-fits-all scaffold. Different situations demand different sys
 
 This is what most people picture when they hear "scaffolding"—a structure built from the ground up.
 
-**Tube and coupler scaffolding** uses steel or aluminum tubes connected by right-angle couplers, swivel couplers, and sleeve joints. It's the most flexible system because you can build literally any configuration—following curves, stepping around obstacles, creating complex shapes. The trade-off is speed: every connection requires manual tightening of a coupler, so erection is slower than prefabricated systems. It's the system of choice for irregular structures, [civil engineering](/civil-law)) projects with unusual geometry, and heavy-duty applications.
+**Tube and coupler scaffolding** uses steel or aluminum tubes connected by right-angle couplers, swivel couplers, and sleeve joints. It's the most flexible system because you can build literally any configuration—following curves, stepping around obstacles, creating complex shapes. The [trade](/trade)-off is speed: every connection requires manual tightening of a coupler, so erection is slower than prefabricated systems. It's the system of choice for irregular structures, [civil engineering](/civil-law)) projects with unusual [geometry](/geometry), and heavy-duty applications.
 
 **Frame scaffolding** (also called fabricated frame) uses pre-welded rectangular frames that stack and lock together. Cross-braces pin between frames for lateral stability. It's the fastest scaffold to erect and the most common type on residential and light commercial construction in North America. A crew of two can erect 40-60 frames per hour. The downside is limited configurability—frames come in standard sizes, and adapting to irregular buildings requires filler pieces and creativity.
 
@@ -75,11 +75,11 @@ Sometimes you can't build from the ground up. Suspended scaffolding hangs from t
 
 ### Specialty Scaffolding
 
-**Rolling scaffolding** (mobile towers) sits on casters and can be pushed to different locations. Essential for work like ceiling installation, painting, and electrical work where you need to move frequently but only to moderate heights. The base dimensions must be proportioned to the height—typically at least one-third the height for stability.
+**Rolling scaffolding** (mobile towers) sits on casters and can be pushed to different locations. Essential for work like ceiling installation, [painting](/painting), and electrical work where you need to move frequently but only to moderate heights. The base dimensions must be proportioned to the height—typically at least one-third the height for stability.
 
 **Mast climbing work platforms** are motor-driven platforms that ride up one or two vertical masts attached to the building face. They're increasingly popular because they're faster to erect than traditional scaffolding and can handle heavier loads. A mast climber can carry 2,000-4,000 kg on a platform up to 30 meters wide. They're especially efficient for long, straight building facades.
 
-**Cantilever scaffolding** (needle scaffolding) extends outward from a building face, supported by beams anchored inside the building. Used when ground-level obstructions (roads, railways, waterways) prevent building from the ground up. This requires careful [building automation](/building-automation) engineering to ensure the anchor points can handle the cantilevered loads.
+**Cantilever scaffolding** (needle scaffolding) extends outward from a building face, supported by beams anchored inside the building. Used when ground-level obstructions (roads, railways, waterways) prevent building from the ground up. This requires careful [building automation](/building-automation) [engineering](/engineering) to ensure the anchor points can handle the cantilevered loads.
 
 **Birdcage scaffolding** fills an entire room or area with a dense forest of vertical standards topped by a working platform. Used for ceiling work in large interior spaces—atriums, theaters, churches. Standing underneath a birdcage scaffold for the first time is genuinely disorienting. It looks like a forest of steel tubes.
 
@@ -205,7 +205,7 @@ The cost breaks down into:
 - **Transport**: Moving thousands of heavy steel tubes to and from a site is expensive. On congested urban sites, scaffold deliveries often happen at night to avoid traffic disruption.
 - **Inspection and maintenance**: Ongoing costs for the life of the scaffold.
 
-The industry trend toward system scaffolds is partly driven by labor economics. System scaffolds erect 30-50% faster than tube-and-coupler, and faster erection means lower labor costs—often enough to offset the higher component rental rates.
+The industry trend toward system scaffolds is partly driven by labor [economics](/economics). System scaffolds erect 30-50% faster than tube-and-coupler, and faster erection means lower labor costs—often enough to offset the higher component rental rates.
 
 ## Digital Scaffolding: BIM and 3D Design
 
@@ -221,7 +221,7 @@ The scaffolding industry is going digital, albeit more slowly than some other co
 
 Not every job that needs access at height requires traditional scaffolding.
 
-**Mobile Elevating Work Platforms (MEWPs)**—cherry pickers, scissor lifts, boom lifts—provide temporary access without erecting a fixed structure. They're ideal for short-duration tasks at height: changing a light fixture, inspecting a facade spot, pruning trees. They're faster to deploy than scaffolding but limited in the area they cover and the number of workers they support.
+**Mobile Elevating Work Platforms (MEWPs)**—cherry pickers, scissor lifts, boom lifts—provide temporary access without erecting a fixed structure. They're ideal for short-duration tasks at height: changing a light fixture, inspecting a facade spot, [pruning](/pruning) trees. They're faster to deploy than scaffolding but limited in the area they cover and the number of workers they support.
 
 **Rope access**—industrial abseiling using climbing ropes and harnesses—is used for inspection, maintenance, and repair on structures where scaffolding is impractical or uneconomical. Think bridges, dams, wind turbines, and high-rise buildings. Rope access technicians undergo rigorous training and certification (IRATA or SPRAT standards). The technique is remarkably safe statistically, but requires highly trained personnel.
 
@@ -237,7 +237,7 @@ Scaffolding technology evolves slowly compared to digital fields, but meaningful
 
 **Automated inspection** using cameras, sensors, and AI image recognition could supplement visual inspections by human competent persons. Detecting missing bracing, loose connections, or settlement through automated monitoring would provide continuous safety assurance rather than periodic snapshots.
 
-**Sustainability** is getting attention. Steel scaffold components are already highly reusable and recyclable. But the carbon footprint of manufacturing, transporting, and maintaining a scaffold fleet is being scrutinized. Longer-lasting components, local manufacturing, and efficient logistics all reduce the environmental impact.
+**Sustainability** is getting attention. Steel scaffold components are already highly reusable and recyclable. But the carbon footprint of manufacturing, transporting, and maintaining a scaffold fleet is being scrutinized. Longer-lasting components, local manufacturing, and efficient [logistics](/logistics) all reduce the environmental impact.
 
 ## The Bottom Line
 

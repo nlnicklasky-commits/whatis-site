@@ -53,11 +53,11 @@ Horticulture isn't one discipline — it's a family of related specialties. Here
 
 ### Pomology: The Fruit Growers
 
-Pomology is the science of growing fruit. Apple orchards in Washington state, citrus groves in Florida, avocado farms in California — all pomology. The work involves selecting rootstocks, managing pollination, timing harvests, and dealing with an army of pests and diseases that also find fruit delicious.
+Pomology is the science of growing fruit. Apple orchards in Washington state, citrus groves in Florida, avocado farms in California — all pomology. The work involves selecting rootstocks, managing [pollination](/pollination), timing harvests, and dealing with an army of pests and diseases that also find fruit delicious.
 
 One fascinating aspect: most commercial fruit trees aren't grown from seed. They're grafted — a cutting from a desirable variety is attached to a hardy rootstock. That Honeycrisp apple you love? Every single Honeycrisp tree in the world is genetically identical to every other one, all clones propagated through grafting. The rootstock determines how big the tree gets, how well it tolerates cold, and how resistant it is to soil diseases. The scion (the grafted top portion) determines what fruit you get.
 
-This is why pomology requires deep knowledge of both [botany](/botany) and genetics. You're essentially engineering a two-part organism.
+This is why pomology requires deep knowledge of both [botany](/botany) and genetics. You're essentially [engineering](/engineering) a two-part organism.
 
 ### Olericulture: Vegetables and Herbs
 
@@ -65,13 +65,13 @@ Olericulture covers vegetable production — from field-grown crops like potatoe
 
 The field has changed enormously in recent decades. Controlled-environment agriculture (CEA) — think greenhouses, high tunnels, and vertical farms — now produces a significant share of fresh vegetables in developed countries. The Netherlands, a country roughly twice the size of New Jersey, is the world's second-largest agricultural exporter by value, largely because of extraordinarily efficient greenhouse vegetable production. Dutch greenhouses produce about 20 times more food per acre than open-field farming.
 
-Hydroponics, aquaponics, and aeroponics all fall under the olericulture umbrella. These soilless growing methods allow vegetable production in places where traditional farming is impossible — urban rooftops, desert regions, even space stations. NASA's research into growing food for long-duration space missions is fundamentally horticultural science.
+[Hydroponics](/hydroponics), aquaponics, and aeroponics all fall under the olericulture umbrella. These soilless growing methods allow vegetable production in places where traditional farming is impossible — urban rooftops, desert regions, even space stations. NASA's research into growing food for long-duration space missions is fundamentally horticultural science.
 
 ### Floriculture: Flowers and Ornamentals
 
 Floriculture is the cultivation of flowering and ornamental plants, primarily for cut flowers, potted plants, and bedding plants. The global cut flower industry alone was valued at approximately $35 billion in 2023, with the Netherlands' Aalsmeer flower auction handling about 12 billion flowers per year.
 
-The logistics are remarkable. A rose cut in Kenya at 6 AM can be on a retail shelf in London by 6 PM the same day. Cold chain management — keeping flowers at precise temperatures from harvest through delivery — is a sophisticated science. Temperature fluctuations of just a few degrees can cut vase life in half.
+The logistics are remarkable. A rose cut in Kenya at 6 AM can be on a retail shelf in London by 6 PM the same day. Cold chain [management](/management) — keeping flowers at precise temperatures from harvest through delivery — is a sophisticated science. Temperature fluctuations of just a few degrees can cut vase life in half.
 
 Floriculture also drives significant [biotechnology](/biotechnology) research. The quest for a true blue rose (roses lack the gene for blue pigment) led to transgenic experiments inserting genes from petunias and irises. The first commercially available "blue" rose — actually more lavender — debuted in Japan in 2009 after nearly 20 years of research.
 
@@ -81,11 +81,11 @@ This branch deals with the design, installation, and maintenance of ornamental p
 
 Field horticulture has grown more scientific as our understanding of ecosystem services has improved. Green infrastructure — using plants and designed landscapes to manage stormwater, reduce urban heat islands, and improve air quality — is now a major focus. A single large tree can intercept over 1,000 gallons of rainfall per year, reducing strain on storm sewers. Urban tree canopies can lower local temperatures by 5-10 degrees Fahrenheit on hot days.
 
-Arboriculture, the specialized care of trees, falls under this branch. Certified arborists manage tree health in urban environments where compacted soil, limited root space, pollution, and construction damage create challenges that forest trees never face.
+Arboriculture, the specialized care of trees, falls under this branch. Certified arborists manage tree health in urban environments where compacted soil, limited root space, pollution, and [construction](/construction) damage create challenges that forest trees never face.
 
 ### Postharvest Physiology
 
-Here's a branch most people never think about: what happens to horticultural products between harvest and your mouth. Postharvest physiology studies how to maintain quality in fruits, vegetables, and flowers after they leave the plant.
+Here's a branch most people never think about: what happens to horticultural products between harvest and your mouth. Postharvest [physiology](/physiology) studies how to maintain quality in fruits, vegetables, and flowers after they leave the plant.
 
 This matters because produce is still alive after harvest. Fruits continue to respire, consuming sugars and producing heat. Ethylene gas — a natural plant hormone — triggers ripening and senescence. A single overripe apple in a storage room can produce enough ethylene to accelerate ripening in every other apple around it. That's not a metaphor — it's literally what the phrase "one bad apple spoils the bunch" refers to.
 
@@ -113,7 +113,7 @@ Modern horticulture uses tissue analysis — testing plant tissue directly — r
 
 ### Genetics and Breeding
 
-Plant breeding has been central to horticulture for centuries. The basic idea is simple: cross two parent plants with desirable traits, grow out the offspring, select the best ones, repeat. But "simple" doesn't mean "easy." Developing a new apple variety typically takes 15-20 years from the initial cross to commercial release.
+[Plant breeding](/plant-breeding) has been central to horticulture for centuries. The basic idea is simple: cross two parent plants with desirable traits, grow out the offspring, select the best ones, repeat. But "simple" doesn't mean "easy." Developing a new apple variety typically takes 15-20 years from the initial cross to commercial release.
 
 Modern breeding is faster thanks to marker-assisted selection — using DNA markers to identify desirable traits in seedlings before they're old enough to fruit. Instead of growing thousands of apple trees for years before evaluating fruit quality, breeders can screen seedling DNA and eliminate poor candidates immediately.
 
@@ -133,7 +133,7 @@ Disease management often focuses on prevention rather than cure. Proper spacing 
 
 ### Commercial Greenhouses
 
-Modern greenhouses are engineering marvels. Dutch Venlo-style houses use computer-controlled climate systems that regulate temperature, humidity, CO2, and light to create optimal growing conditions year-round. Sensors monitor everything. [Algorithms](/algorithms) adjust ventilation, heating, and irrigation in real time.
+Modern greenhouses are engineering marvels. Dutch Venlo-style houses use computer-controlled climate systems that regulate temperature, humidity, CO2, and light to create optimal growing conditions year-round. Sensors monitor everything. [Algorithms](/algorithms) adjust ventilation, heating, and [irrigation](/irrigation) in real time.
 
 A state-of-the-art tomato greenhouse produces about 150 pounds of fruit per square meter per year — roughly 10 times what field production achieves. Water use efficiency is equally impressive. Closed-loop irrigation systems recapture and recycle runoff, using 90% less water than open-field growing.
 
@@ -141,7 +141,7 @@ The investment required is substantial. Building a modern greenhouse costs $30-6
 
 ### Nursery Production
 
-Nurseries grow plants for transplanting — trees, shrubs, perennials, annuals, and houseplants. The US nursery and greenhouse industry generates over $16 billion in annual sales, making it one of the highest-value sectors in American agriculture.
+Nurseries grow plants for transplanting — trees, shrubs, perennials, annuals, and [houseplants](/houseplants). The US nursery and greenhouse industry generates over $16 billion in annual sales, making it one of the highest-value sectors in American agriculture.
 
 Container production dominates modern nurseries. Plants grow in pots filled with soilless media (typically peat moss, pine bark, and perlite) rather than in the ground. This allows year-round shipping and transplanting — a containerized tree can be planted any time, while a field-dug tree can only be transplanted during dormancy.
 
@@ -153,13 +153,13 @@ Vertical farming — growing crops in stacked layers inside climate-controlled b
 
 The numbers are striking. A vertical farm can produce 350 times more food per square foot than conventional farming. Water use is 95% lower. No pesticides needed — the sealed environment keeps pests out. Growing cycles are faster because light, temperature, and nutrition are optimized 24/7.
 
-The catch? Energy costs. LED lighting consumes enormous amounts of electricity. Current economics limit vertical farming to high-value, quick-growing crops like lettuce, basil, and microgreens. Growing wheat or corn vertically makes no economic sense — the energy cost per calorie far exceeds the crop's value.
+The catch? Energy costs. LED lighting consumes enormous amounts of [electricity](/electricity). Current [economics](/economics) limit vertical farming to high-value, quick-growing crops like lettuce, basil, and microgreens. Growing wheat or corn vertically makes no economic sense — the energy cost per calorie far exceeds the crop's value.
 
 But energy costs are dropping as LED efficiency improves, and integration with [alternative energy](/alternative-energy) sources like solar could change the equation dramatically.
 
 ### Public Gardens and Botanical Collections
 
-Botanical gardens serve multiple horticultural purposes: conservation of endangered species, research, public education, and display. The world's roughly 1,775 botanical gardens collectively maintain about one-third of all known plant species in cultivation.
+Botanical gardens serve multiple horticultural purposes: conservation of endangered species, research, public [education](/education), and display. The world's roughly 1,775 botanical gardens collectively maintain about one-third of all known plant species in cultivation.
 
 Conservation collections are increasingly critical. With roughly 40% of the world's plant species threatened with extinction according to a 2020 Royal Botanic Gardens Kew report, ex situ conservation — maintaining plants outside their natural habitat — acts as a backup. Seed banks like the Svalbard Global Seed Vault store seeds from over 1.2 million crop varieties, but many horticultural species have seeds that can't be stored conventionally (they're "recalcitrant," losing viability when dried). These species require living collections — gardens where they're actively grown and maintained.
 
@@ -191,13 +191,13 @@ The field offers a remarkable range of careers. Here's a sampling:
 
 **Extension and education** — helping growers adopt new practices through university extension services. Pay is modest ($45,000-$70,000) but the work is deeply rewarding.
 
-**Field architecture** — designing outdoor spaces. Licensed field architects earn $55,000-$100,000+ depending on experience and location.
+**Field [architecture](/architecture)** — designing outdoor spaces. Licensed field architects earn $55,000-$100,000+ depending on experience and location.
 
 **Arboriculture** — tree care and management. Certified arborists earn $40,000-$75,000; business owners considerably more.
 
-**Research** — academic or industry positions investigating plant biology, pest management, breeding, or postharvest handling. PhD typically required. Salaries $55,000-$100,000 in academia, higher in industry.
+**Research** — academic or industry positions investigating [plant biology](/plant-biology), pest management, breeding, or postharvest handling. PhD typically required. Salaries $55,000-$100,000 in academia, higher in industry.
 
-**Therapy and wellness** — horticultural therapy uses gardening activities to improve physical and mental health. It's a growing field with certification programs and positions in hospitals, rehabilitation centers, and senior living facilities.
+**Therapy and wellness** — horticultural therapy uses [gardening](/gardening) activities to improve physical and [mental health](/mental-health). It's a growing field with certification programs and positions in hospitals, rehabilitation centers, and senior living facilities.
 
 ## The Future of Horticulture
 

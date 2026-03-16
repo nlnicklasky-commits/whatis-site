@@ -43,7 +43,7 @@ Everything we know about the universe beyond Earth — every star, galaxy, black
 
 ## Looking Up: A Very Brief History
 
-Humans have been observing the sky since before recorded history. Neolithic monuments like Stonehenge (circa 3000 BCE) are aligned with astronomical events. Babylonian astronomers kept detailed records of planetary positions starting around 1800 BCE. The Greeks measured the Earth's circumference (Eratosthenes, 240 BCE) and the distance to the Moon (Hipparchus, 150 BCE) using nothing but geometry and careful observation.
+Humans have been observing the sky since before recorded history. Neolithic monuments like Stonehenge (circa 3000 BCE) are aligned with astronomical events. Babylonian astronomers kept detailed records of planetary positions starting around 1800 BCE. The Greeks measured the Earth's circumference (Eratosthenes, 240 BCE) and the distance to the Moon (Hipparchus, 150 BCE) using nothing but [geometry](/geometry) and careful observation.
 
 But everything changed in 1609 when Galileo Galilei pointed a telescope at the sky. Within months, he discovered the moons of Jupiter, the phases of Venus, craters on the Moon, and countless stars invisible to the naked eye. That single technological leap transformed astronomy from a discipline limited by human eyesight into one limited only by our instruments — and our ingenuity in building better ones.
 
@@ -89,7 +89,7 @@ Modern optical telescopes bear little resemblance to Galileo's tube. The largest
 
 **Segmented mirrors** solve the manufacturing problem. Making a single perfect mirror 10 meters across is nearly impossible. Instead, Keck uses 36 hexagonal segments, each 1.8 meters wide, aligned to nanometer precision by computer-controlled actuators. The same approach will be used by the next generation.
 
-**Adaptive optics** is perhaps the most important ground-based innovation of the last 30 years. Earth's atmosphere makes stars twinkle — pretty to look at, terrible for astronomy. Adaptive optics measures atmospheric distortion using a guide star (natural or artificial — many observatories create guide stars by shooting lasers into the upper atmosphere) and adjusts the telescope mirror's shape hundreds of times per second to compensate. The result: images from the ground nearly as sharp as those from space.
+**Adaptive [optics](/optics)** is perhaps the most important ground-based innovation of the last 30 years. Earth's atmosphere makes stars twinkle — pretty to look at, terrible for astronomy. Adaptive optics measures atmospheric distortion using a guide star (natural or artificial — many observatories create guide stars by shooting lasers into the upper atmosphere) and adjusts the telescope mirror's shape hundreds of times per second to compensate. The result: images from the ground nearly as sharp as those from space.
 
 ### The Next Generation
 
@@ -105,7 +105,7 @@ These instruments will be able to study atmospheres of Earth-like [exoplanets](/
 
 ### Space Telescopes
 
-The James Webb Space Telescope, launched December 2021, is the current crown jewel. Its 6.5-meter gold-coated beryllium mirror, five-layer sunshield the size of a tennis court, and suite of infrared instruments represent a generational leap in capability.
+The James Webb Space Telescope, launched December 2021, is the current crown jewel. Its 6.5-meter gold-coated beryllium mirror, five-layer sunshield the size of a [tennis](/tennis) court, and suite of infrared instruments represent a generational leap in capability.
 
 JWST has already delivered significant results: galaxies existing just 300 million years after the Big Bang (earlier than expected), detailed atmospheric compositions of exoplanets, spectacular views of star-forming regions, and evidence of complex organic molecules in protoplanetary disks.
 
@@ -147,7 +147,7 @@ When a planet passes in front of its host star, the star dims very slightly. For
 
 On September 14, 2015, the Laser Interferometer Gravitational-wave Observatory (LIGO) detected gravitational waves for the first time — ripples in spacetime caused by two black holes merging 1.3 billion light-years away. This confirmed a prediction Einstein made in 1916 and opened an entirely new window on the universe.
 
-LIGO works by splitting a laser beam, sending it down two perpendicular 4-kilometer tubes, and recombining it. A passing gravitational wave stretches one arm and compresses the other by an almost incomprehensibly small amount — about 1/10,000th the diameter of a proton. The fact that this can be measured is one of the most astonishing engineering achievements in history.
+LIGO works by splitting a laser beam, sending it down two perpendicular 4-kilometer tubes, and recombining it. A passing gravitational wave stretches one arm and compresses the other by an almost incomprehensibly small amount — about 1/10,000th the diameter of a proton. The fact that this can be measured is one of the most astonishing [engineering](/engineering) achievements in history.
 
 Since 2015, LIGO and its European counterpart Virgo have detected dozens of gravitational wave events: merging black holes, merging neutron stars, and black hole-neutron star mergers. The neutron star merger GW170817 in 2017 was also observed across the electromagnetic spectrum, marking the dawn of multi-messenger astronomy — combining different types of signals from the same event.
 
@@ -175,7 +175,7 @@ Observational astronomy is pursuing several profound questions:
 
 **What is dark matter?** About 85% of the matter in the universe doesn't emit, absorb, or reflect light. We know it exists because of its gravitational effects — galaxy rotation curves, gravitational lensing, galaxy cluster dynamics. But we don't know what it's made of. No telescope has detected dark matter particles directly, and the search continues across multiple wavelengths and detection methods.
 
-**What is dark energy?** The expansion of the universe is accelerating, driven by something called dark energy that constitutes about 68% of the universe's total energy content. Discovered in 1998 through observations of distant supernovae, dark energy remains one of the biggest mysteries in physics. Observational programs like the Dark Energy Survey and the upcoming Euclid and Roman space telescopes aim to characterize it more precisely.
+**What is dark energy?** The expansion of the universe is accelerating, driven by something called dark energy that constitutes about 68% of the universe's total energy content. Discovered in 1998 through observations of distant supernovae, dark energy remains one of the biggest mysteries in [physics](/physics). Observational programs like the Dark Energy Survey and the upcoming Euclid and Roman space telescopes aim to characterize it more precisely.
 
 **Are we alone?** The search for biosignatures in [exoplanet](/exoplanetology) atmospheres is one of JWST's key science goals. If we detect combinations of gases like oxygen and methane in an Earth-like planet's atmosphere — gases that shouldn't coexist without a biological source — it would be among the most significant discoveries in human history.
 

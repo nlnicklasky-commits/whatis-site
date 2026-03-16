@@ -31,7 +31,7 @@ faq:
 
 # What Is Scholasticism?
 
-Scholasticism was the dominant method of intellectual inquiry in medieval European universities from roughly the 11th through the 15th centuries. It combined Christian [theology](/theology) with classical Greek [philosophy](/philosophy) — especially Aristotle — using rigorous logical analysis, structured debate, and systematic [argumentation](/argumentation) to answer big questions about God, nature, ethics, and knowledge.
+Scholasticism was the dominant method of intellectual inquiry in medieval European universities from roughly the 11th through the 15th centuries. It combined Christian [theology](/theology) with classical Greek [philosophy](/philosophy) — especially Aristotle — using rigorous logical analysis, structured [debate](/debate), and systematic [argumentation](/argumentation) to answer big questions about God, nature, [ethics](/ethics), and knowledge.
 
 It wasn't a set of beliefs or doctrines. It was a way of thinking. A Scholastic thinker would take a question ("Does God exist?" or "Is it ever moral to lie?"), present arguments for and against, analyze each argument's logical structure, and arrive at a reasoned conclusion. The method valued precision, consistency, and the willingness to engage seriously with opposing views.
 
@@ -41,7 +41,7 @@ The Scholastic method followed a surprisingly structured format — one you'd re
 
 It went like this. The master (professor) would pose a question — a *quaestio*. Then he'd present objections to the answer he intended to defend. These weren't straw man arguments — they were the strongest possible opposing positions. Only after fully articulating the opposition would he present his own answer, the *respondeo*, supported by authorities (Scripture, Aristotle, earlier Church Fathers) and logical reasoning. Finally, he'd respond to each objection individually, showing where the opposing argument went wrong.
 
-This structure — question, objections, answer, replies — was Thomas Aquinas's format in the *Summa Theologica*, and it became the standard template for Scholastic writing. Notably how different this is from modern argumentation where you often bury the opposition's best points. Scholastics put them front and center.
+This structure — question, objections, answer, replies — was Thomas Aquinas's format in the *Summa Theologica*, and it became the standard template for Scholastic [writing](/writing). Notably how different this is from modern argumentation where you often bury the opposition's best points. Scholastics put them front and center.
 
 The *disputatio* (formal debate) was the other major Scholastic practice. These were public academic events where masters and students would argue positions following strict logical rules. Some were "ordinary" disputations on planned topics. Others — the *quodlibetal* disputes — were open to any question from the audience. A master who couldn't handle random questions in real-time didn't last long.
 
@@ -51,7 +51,7 @@ Scholasticism emerged from a specific historical problem: Europe had rediscovere
 
 For centuries, Western Europe had limited access to Greek philosophy. Most of Aristotle's works were preserved and studied in the Islamic world, where scholars like Avicenna and Averroes had written extensive commentaries. When these texts were translated into Latin during the 12th and 13th centuries — mainly through contact with Islamic Spain and the Byzantine Empire — European thinkers suddenly had access to a massive, sophisticated, non-Christian philosophical system.
 
-This created a crisis. Aristotle's logic was powerful. His explanations of nature, ethics, and [metaphysics](/metaphysics) were brilliantly argued. But some of his conclusions contradicted Christian doctrine — he argued the world was eternal (no creation), that the individual soul might not survive death, and that God was an impersonal "unmoved mover" rather than a personal deity.
+This created a crisis. Aristotle's [logic](/logic) was powerful. His explanations of nature, ethics, and [metaphysics](/metaphysics) were brilliantly argued. But some of his conclusions contradicted Christian doctrine — he argued the world was eternal (no creation), that the individual soul might not survive death, and that God was an impersonal "unmoved mover" rather than a personal deity.
 
 The Scholastic project was essentially: take the best of Aristotle's logic and philosophy, show where it's compatible with [Christianity](/christianity), and correct it where it isn't — using Aristotle's own methods. It was an audacious intellectual move, and it produced some remarkable results.
 

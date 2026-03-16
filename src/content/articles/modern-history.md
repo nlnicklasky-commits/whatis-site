@@ -35,13 +35,13 @@ faq:
 
 Modern history is the period from roughly 1500 CE to the present day. It covers the era when European exploration connected distant continents, the Scientific Revolution overturned centuries of inherited assumptions, political revolutions redrew the map of power, industrialization remade daily life beyond recognition, and two world wars killed tens of millions of people in the span of 30 years.
 
-That's a lot of ground to cover — about 500 years of accelerating change across every inhabited continent. But the basic thread running through all of it is this: the world went from fragmented, mostly agrarian, and slow to change to interconnected, industrialized, and changing so fast that people alive today have seen more technological transformation in their lifetimes than the previous fifty generations combined.
+That's a lot of ground to cover — about 500 years of accelerating change across every inhabited continent. But the basic thread [running](/running) through all of it is this: the world went from fragmented, mostly agrarian, and slow to change to interconnected, industrialized, and changing so fast that people alive today have seen more technological transformation in their lifetimes than the previous fifty generations combined.
 
 ## The Dividing Line — Why 1500?
 
 Historians love to argue about periodization, and the start date for "modern" history is no exception. But 1500 CE has stuck as a rough consensus for several practical reasons.
 
-First, European exploration. When Portuguese sailors rounded the Cape of Good Hope in 1488 and Columbus crossed the Atlantic in 1492, they set in motion a process that would eventually connect every major civilization on Earth through trade, conflict, and exchange. Before 1500, the Americas, sub-Saharan Africa, East Asia, and Europe existed in relative isolation. After 1500, that isolation began to collapse — sometimes violently.
+First, European exploration. When Portuguese sailors rounded the Cape of Good Hope in 1488 and Columbus crossed the Atlantic in 1492, they set in motion a process that would eventually connect every major civilization on Earth through [trade](/trade), conflict, and exchange. Before 1500, the Americas, sub-Saharan Africa, East Asia, and Europe existed in relative isolation. After 1500, that isolation began to collapse — sometimes violently.
 
 Second, the printing press. Gutenberg's [invention](/invention) (around 1440) took a few decades to spread, but by 1500 there were an estimated 20 million printed volumes in Europe. Ideas could now move faster than any horseback messenger. The Protestant Reformation, which started in 1517 with Martin Luther's Ninety-Five Theses, would have been impossible without print.
 
@@ -79,7 +79,7 @@ If you want to understand why the modern world looks the way it does, start here
 
 The numbers tell the story. In 1800, roughly 90% of the world's population lived in rural areas. By 2007, more than half of humanity lived in cities. Global GDP per capita, which had barely budged for centuries, began climbing exponentially after 1800. Life expectancy in industrialized countries roughly doubled between 1800 and 1950.
 
-But industrialization also created factory labor, urban poverty, child exploitation, and environmental destruction on a scale that preindustrial societies couldn't have imagined. The tensions between economic growth and human welfare would define the next two centuries of political debate — and they still haven't been resolved.
+But industrialization also created factory labor, urban poverty, child exploitation, and environmental destruction on a scale that preindustrial societies couldn't have imagined. The tensions between economic growth and human welfare would define the next two centuries of political [debate](/debate) — and they still haven't been resolved.
 
 ### Nationalism and Empire
 
@@ -122,6 +122,6 @@ The point is that "modern" is a relative term. What counts as modern depends on 
 
 Here's the blunt version: you can't understand anything about the world you live in — borders, governments, economies, technologies, conflicts, inequalities — without understanding modern history. Every current political crisis has roots in this period. Every institution you interact with was shaped by it.
 
-The past five centuries produced the nation-state system, industrial [capitalism](/capitalism), democratic governance, [human rights law](/human-rights-law), nuclear weapons, antibiotics, the internet, and climate change. These aren't abstractions. They're the conditions of your daily life.
+The past five centuries produced the nation-state system, industrial [capitalism](/capitalism), democratic governance, [human rights law](/human-rights-law), nuclear weapons, antibiotics, the internet, and [climate change](/climate-change). These aren't abstractions. They're the conditions of your daily life.
 
 Studying modern history doesn't give you simple answers or clean narratives. The period is too messy, too contested, and too recent for that. But it does give you the context to ask better questions — which, frankly, is the most useful thing any kind of history can do.

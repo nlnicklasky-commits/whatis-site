@@ -41,7 +41,7 @@ For most of recorded history, "history" meant the history of kings, generals, an
 
 ## The Problem with Kings and Battles
 
-Traditional history — sometimes called "drum and trumpet" history by its critics — focused overwhelmingly on political events, military campaigns, and the decisions of powerful individuals. It was history viewed from the top down.
+Traditional history — sometimes called "drum and [trumpet](/trumpet)" history by its critics — focused overwhelmingly on political events, military campaigns, and the decisions of powerful individuals. It was history viewed from the top down.
 
 This approach had obvious limitations. It told you that a war happened, but not what the soldiers ate, how their families survived while they were gone, or what they did when they came home. It recorded that a king imposed a tax, but not how that tax affected the daily lives of the people paying it. It documented laws about marriage but not how actual marriages worked.
 
@@ -113,7 +113,7 @@ Social history showed that disease isn't just a medical topic — it's a social 
 
 ### Food and Consumption
 
-What people eat tells you about trade networks, social status, environmental conditions, and cultural values. The introduction of sugar into the European diet, as Sidney Mintz demonstrated in *Sweetness and Power* (1985), was inseparable from the Atlantic slave trade, the rise of industrial [capitalism](/capitalism), and the transformation of working-class diets.
+What people eat tells you about [trade](/trade) networks, social status, environmental conditions, and cultural values. The introduction of sugar into the European diet, as Sidney Mintz demonstrated in *Sweetness and Power* (1985), was inseparable from the Atlantic slave trade, the rise of industrial [capitalism](/capitalism), and the transformation of working-class diets.
 
 ### Gender and Family
 

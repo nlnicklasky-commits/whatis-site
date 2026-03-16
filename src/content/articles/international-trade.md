@@ -35,7 +35,7 @@ faq:
 
 # What Is International Trade?
 
-International trade is the exchange of goods and services between countries. When the US buys cars from Japan, that's an import. When the US sells soybeans to China, that's an export. When you add up all the imports and exports happening between all countries simultaneously, you get something extraordinary: a global system that moved over $31 trillion in goods and services in 2022.
+International [trade](/trade) is the exchange of goods and services between countries. When the US buys cars from Japan, that's an import. When the US sells soybeans to China, that's an export. When you add up all the imports and exports happening between all countries simultaneously, you get something extraordinary: a global system that moved over $31 trillion in goods and services in 2022.
 
 That number is so large it's almost meaningless as a standalone figure. So here's a more tangible way to think about it: roughly 80% of the world's trade is carried by approximately 60,000 cargo ships crossing oceans right now. The shirt you're wearing, the phone in your pocket, the coffee you drank this morning — odds are good that each traveled across at least one border before reaching you.
 
@@ -88,9 +88,9 @@ The composition has shifted dramatically over time. In 1950, raw materials and a
 
 ### Services Trade
 
-Non-physical stuff: financial services, tourism, transportation, telecommunications, consulting, software, [education](/education). Global services trade reached about $6.8 trillion in 2022.
+Non-physical stuff: financial services, [tourism](/tourism), transportation, telecommunications, consulting, software, [education](/education). Global services trade reached about $6.8 trillion in 2022.
 
-Services trade is growing faster than goods trade and is increasingly important for advanced economies. The US runs a substantial surplus in services trade (roughly $250 billion annually), driven by financial services, software, and intellectual property licensing — even while running a large deficit in goods trade.
+Services trade is growing faster than goods trade and is increasingly important for advanced economies. The US runs a substantial surplus in services trade (roughly $250 billion annually), driven by financial services, software, and intellectual property licensing — even while [running](/running) a large deficit in goods trade.
 
 Digital services trade — [cloud computing](/cloud-computing), streaming, software-as-a-service — is the fastest-growing segment and creates thorny policy questions about taxation, data sovereignty, and jurisdiction.
 
@@ -114,7 +114,7 @@ Non-tariff barriers have become more important as tariffs have fallen. A country
 
 International transactions are more complex than domestic ones because buyer and seller are in different countries with different legal systems. Who pays first? What if the buyer doesn't pay? What if the seller doesn't ship?
 
-Letters of credit — guaranteed by banks — solve this problem. The buyer's bank guarantees payment to the seller once shipping documents confirm the goods were sent. This mechanism has been the backbone of trade finance for centuries. About $10 trillion in annual trade moves using letters of credit and related instruments.
+Letters of credit — guaranteed by banks — solve this problem. The buyer's bank guarantees payment to the seller once shipping documents confirm the goods were sent. This mechanism has been the backbone of trade [finance](/finance) for centuries. About $10 trillion in annual trade moves using letters of credit and related instruments.
 
 ### Shipping and [Logistics](/logistics)
 
@@ -176,7 +176,7 @@ Countries also negotiate one-on-one. The US has bilateral free trade agreements 
 
 ## Trade Imbalances: Deficits and Surpluses
 
-The US ran a goods trade deficit of about $1.18 trillion in 2022 — meaning it imported $1.18 trillion more in goods than it exported. This number generates enormous political debate. Is the trade deficit a problem?
+The US ran a goods trade deficit of about $1.18 trillion in 2022 — meaning it imported $1.18 trillion more in goods than it exported. This number generates enormous political [debate](/debate). Is the trade deficit a problem?
 
 ### Why Deficits Happen
 
@@ -216,7 +216,7 @@ Effective trade policy requires addressing this distributional problem — throu
 
 Several forces are reshaping trade patterns.
 
-**Geopolitical fragmentation** is splitting the global trading system into competing blocs. US-allied and China-allied supply chains are diverging, particularly in technology. "Friendshoring" — trading preferentially with geopolitical allies — is replacing the purely cost-driven logic of globalization.
+**Geopolitical fragmentation** is splitting the global trading system into competing blocs. US-allied and China-allied supply chains are diverging, particularly in technology. "Friendshoring" — trading preferentially with geopolitical allies — is replacing the purely cost-driven [logic](/logic) of globalization.
 
 **Digital trade** is growing rapidly and creating new policy challenges. Data localization requirements (countries demanding that data about their citizens be stored domestically) fragment the digital economy. Digital services taxation is contentious — France's digital services tax on US tech companies nearly triggered a trade war.
 

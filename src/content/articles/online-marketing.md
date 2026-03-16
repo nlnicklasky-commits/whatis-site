@@ -35,7 +35,7 @@ faq:
 
 # What Is Online Marketing?
 
-Online marketing is the practice of promoting products, services, or brands through digital channels — search engines, social media platforms, email, websites, mobile apps, and any other medium that operates over the internet. It's also called [digital marketing](/digital-marketing), internet marketing, or web marketing, and it's been the dominant form of marketing since roughly 2019, when global digital ad spending surpassed traditional advertising for the first time.
+Online [marketing](/marketing) is the practice of promoting products, services, or brands through digital channels — search engines, social media platforms, email, websites, mobile apps, and any other medium that operates over the internet. It's also called [digital marketing](/digital-marketing), internet marketing, or web marketing, and it's been the dominant form of marketing since roughly 2019, when global digital ad spending surpassed traditional advertising for the first time.
 
 The numbers tell the story: global digital advertising spending exceeded $600 billion in 2024 and continues growing at 10-15% annually. Google and Meta (Facebook's parent company) alone capture roughly 50% of global digital ad revenue. Over 5 billion people use the internet, and the average person spends nearly 7 hours online daily. If your marketing doesn't exist online, it barely exists at all.
 
@@ -57,7 +57,7 @@ Traditional marketing — TV ads, print ads, billboards, radio spots — broadca
 
 SEO is the practice of optimizing your website and content to rank higher in search engine results — primarily Google, which handles over 90% of global searches.
 
-When someone searches "best running shoes for flat feet," Google evaluates hundreds of factors to determine which pages deserve to rank at the top. The websites occupying the first few results receive the vast majority of clicks — the first result gets roughly 27% of all clicks, while results on page two get almost none.
+When someone searches "best [running](/running) shoes for flat feet," Google evaluates hundreds of factors to determine which pages deserve to rank at the top. The websites occupying the first few results receive the vast majority of clicks — the first result gets roughly 27% of all clicks, while results on page two get almost none.
 
 ### How Search Engines Rank Content
 
@@ -79,7 +79,7 @@ Effective SEO involves several layers:
 
 **Technical SEO** — Ensuring search engines can crawl and index your site efficiently. This includes site speed optimization, mobile responsiveness, XML sitemaps, structured data markup (Schema.org), canonical tags, and proper handling of redirects.
 
-**Content creation** — Publishing high-quality, original content that genuinely answers user questions. Google's emphasis on E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) means content should demonstrate real knowledge, not just keyword optimization.
+**Content creation** — [Publishing](/publishing) high-quality, original content that genuinely answers user questions. Google's emphasis on E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) means content should demonstrate real knowledge, not just keyword optimization.
 
 **Link building** — Earning backlinks from reputable websites through creating valuable content, [public relations](/public-relations), guest posting, partnerships, and digital PR. This remains one of the most challenging aspects of SEO because you can't fully control what others link to.
 
@@ -122,7 +122,7 @@ Content marketing creates and distributes valuable, relevant content to attract 
 
 The most common content formats:
 
-**Blog posts and articles** — In-depth written content targeting specific topics and keywords. A roofing company might publish "How to Know When Your Roof Needs Replacing" — attracting potential customers through search while demonstrating expertise.
+**Blog posts and articles** — In-depth written content targeting specific topics and keywords. A [roofing](/roofing) company might publish "How to Know When Your Roof Needs Replacing" — attracting potential customers through search while demonstrating expertise.
 
 **Video** — YouTube is the world's second-largest search engine. Video content ranges from product demonstrations and tutorials to brand storytelling and behind-the-scenes footage. Short-form video (TikTok, Instagram Reels, YouTube Shorts) has exploded in popularity.
 

@@ -35,7 +35,7 @@ Indigenous religions are the spiritual traditions of native peoples around the w
 
 ## What Sets Them Apart
 
-The major [world religions](/world-religions) — [Christianity](/christianity), Islam, [Buddhism](/buddhism), [Hinduism](/hinduism) — are portable. You can practice them anywhere. They have written scriptures, formalized doctrines, and institutional structures that transcend [geography](/geography).
+The major [world religions](/world-religions) — [Christianity](/christianity), [Islam](/islam), [Buddhism](/buddhism), [Hinduism](/hinduism) — are portable. You can practice them anywhere. They have written scriptures, formalized doctrines, and institutional structures that transcend [geography](/geography).
 
 Indigenous religions are typically the opposite. They are rooted in specific places — this mountain, this river, this forest. Their knowledge is transmitted orally, through stories, songs, ceremonies, and apprenticeships rather than written texts. Their practitioners are usually defined by kinship and community rather than individual conversion.
 

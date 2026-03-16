@@ -39,7 +39,7 @@ Pattern recognition is the automated identification of regularities, structures,
 
 ## Your Brain Does This Constantly
 
-Before diving into the computational side, it's worth appreciating that pattern recognition is something you already do — effortlessly and constantly.
+Before [diving](/diving) into the computational side, it's worth appreciating that pattern recognition is something you already do — effortlessly and constantly.
 
 You recognize a friend's face in a crowd of thousands without consciously analyzing their nose-to-eye ratio. You hear three notes of a song and name it. You read handwriting that no two people produce identically. You detect when something "feels off" about a situation without being able to articulate exactly why. Your brain is an extraordinarily powerful pattern recognition engine, processing visual, auditory, and sensory data and extracting meaningful patterns from noise in real time.
 
@@ -49,7 +49,7 @@ The challenge — and the entire field of computational pattern recognition — 
 
 At its heart, pattern recognition addresses a deceptively simple question: given some input data, what category does it belong to, or what structure does it contain?
 
-A spam filter examines an email and decides: spam or not spam. A medical imaging system looks at a chest X-ray and determines: normal, pneumonia, or something else. A self-driving car's perception system processes camera feeds and identifies: pedestrian, car, traffic light, lane marking, road sign.
+A spam filter examines an email and decides: spam or not spam. A [medical imaging](/medical-imaging) system looks at a chest X-ray and determines: normal, pneumonia, or something else. A self-driving car's perception system processes camera feeds and identifies: pedestrian, car, traffic light, lane marking, road sign.
 
 Each of these is a pattern recognition problem. The input data varies — text, images, sensor data — but the underlying structure is the same: take raw data, extract relevant features, and assign a label or identify a structure.
 
@@ -59,7 +59,7 @@ Raw data is usually too complex to work with directly. A 12-megapixel image cont
 
 Instead, pattern recognition systems extract *features* — simplified representations that capture the essential information while discarding irrelevant detail. For image recognition, features might include edges, textures, shapes, and color histograms. For speech recognition, they might include frequency spectra, energy patterns, and temporal dynamics. For text classification, features might be word frequencies, sentence structures, or semantic embeddings.
 
-Historically, feature engineering — the process of designing features by hand — was the critical bottleneck. Experts spent years crafting features for specific domains: edge detectors for images, mel-frequency cepstral coefficients for audio, bag-of-words representations for text. The quality of your features determined the quality of your results.
+Historically, feature [engineering](/engineering) — the process of designing features by hand — was the critical bottleneck. Experts spent years crafting features for specific domains: edge detectors for images, mel-frequency cepstral coefficients for audio, bag-of-words representations for text. The quality of your features determined the quality of your results.
 
 [Deep learning](/deep-learning) changed this equation. Neural networks can learn their own features directly from raw data, eliminating the need for hand-crafted feature engineering in many domains. This capability — automatic feature learning — is arguably the single most important reason deep learning has dominated pattern recognition since the early 2010s.
 
@@ -97,7 +97,7 @@ SVMs dominated many pattern recognition benchmarks in the 2000s and remain compe
 
 ## Deep Learning: The Current State of the Art
 
-Starting around 2012, deep neural networks — particularly convolutional neural networks (CNNs) and later transformers — dramatically improved the accuracy of pattern recognition across nearly every domain.
+Starting around 2012, deep [neural networks](/neural-networks) — particularly convolutional neural networks (CNNs) and later transformers — dramatically improved the accuracy of pattern recognition across nearly every domain.
 
 ### Convolutional Neural Networks for Vision
 
@@ -111,9 +111,9 @@ Today, CNNs and their descendants power everything from smartphone camera apps (
 
 Patterns in sequential data — speech, text, time series — require architectures that can handle variable-length inputs and capture temporal dependencies.
 
-Recurrent neural networks (RNNs) and their variants (LSTMs, GRUs) process sequences one element at a time, maintaining a hidden state that carries information from earlier in the sequence. They enabled breakthroughs in speech recognition, machine translation, and [natural language processing](/natural-language-processing).
+Recurrent neural networks (RNNs) and their variants (LSTMs, GRUs) process sequences one element at a time, maintaining a hidden state that carries information from earlier in the sequence. They enabled breakthroughs in speech recognition, machine [translation](/translation), and [natural language processing](/natural-language-processing).
 
-Transformers, introduced in 2017, replaced recurrence with self-attention mechanisms that can relate any element in a sequence to any other element directly. This architecture processes entire sequences in parallel (a win for [parallel computing](/parallel-computing)) and captures long-range dependencies more effectively than RNNs. Transformers power the large language models (GPT, Claude, Gemini) that have transformed AI capabilities since 2022, as well as modern speech recognition, translation, and even protein structure prediction.
+Transformers, introduced in 2017, replaced recurrence with self-attention mechanisms that can relate any element in a sequence to any other element directly. This [architecture](/architecture) processes entire sequences in parallel (a win for [parallel computing](/parallel-computing)) and captures long-range dependencies more effectively than RNNs. Transformers power the large language models (GPT, Claude, Gemini) that have transformed AI capabilities since 2022, as well as modern speech recognition, translation, and even protein structure prediction.
 
 ### Generative Models
 
@@ -139,7 +139,7 @@ t-SNE and UMAP have become standard tools for [data visualization](/data-visuali
 
 ### Anomaly Detection
 
-Sometimes the most important pattern is the absence of a normal pattern. Anomaly detection systems learn what "normal" looks like and flag anything that deviates significantly. Credit card fraud detection, network intrusion detection, manufacturing quality control, and predictive maintenance all rely on this approach.
+Sometimes the most important pattern is the absence of a normal pattern. Anomaly detection systems learn what "normal" looks like and flag anything that deviates significantly. Credit card fraud detection, network [intrusion detection](/intrusion-detection), manufacturing quality control, and predictive maintenance all rely on this approach.
 
 This is harder than it sounds. Normal behavior varies by context, time, and individual. A credit card purchase of $10,000 at a jewelry store might be normal for one customer and highly suspicious for another. Effective anomaly detection must account for this variability without generating so many false alarms that operators ignore them.
 
@@ -165,11 +165,11 @@ Biometric pattern recognition raises significant privacy and civil liberties con
 
 ### Financial Markets
 
-Algorithmic trading systems use pattern recognition to detect price movements, correlations, and anomalies in market data faster than human traders can process them. [Financial modeling](/financial-modeling) increasingly relies on [machine learning](/machine-learning)-based pattern recognition for risk assessment, fraud detection, and portfolio optimization.
+Algorithmic trading systems use pattern recognition to detect price movements, correlations, and anomalies in market data faster than human traders can process them. [Financial modeling](/financial-modeling) increasingly relies on [machine learning](/machine-learning)-based pattern recognition for risk assessment, fraud detection, and portfolio [optimization](/optimization).
 
 ### Scientific Discovery
 
-Pattern recognition accelerates scientific research across disciplines. In astronomy, algorithms classify galaxies by morphology and detect exoplanet transits in telescope data. In [genomics](/computational-biology), they identify gene sequences associated with disease. In [materials science](/materials-science), they predict material properties from molecular structures. In [climatology](/climatology), they detect patterns in weather data that forecast extreme events.
+Pattern recognition accelerates scientific research across disciplines. In [astronomy](/astronomy), algorithms classify galaxies by morphology and detect exoplanet transits in telescope data. In [genomics](/computational-[biology](/biology)), they identify gene sequences associated with disease. In [materials science](/materials-science), they predict material properties from molecular structures. In [climatology](/climatology), they detect patterns in weather data that forecast extreme events.
 
 ## Challenges and Limitations
 
@@ -201,4 +201,4 @@ The relationship runs both ways: computational pattern recognition models now in
 
 ## Key Takeaways
 
-Pattern recognition is the science and engineering of automatically identifying meaningful regularities in data. It draws on [machine learning](/machine-learning), statistics, and [computer science](/computer-science) to solve classification, detection, and generation problems across virtually every domain — from medical imaging to autonomous driving to financial analysis. While deep learning has dramatically advanced the field since 2012, fundamental challenges around bias, robustness, explainability, and data requirements remain. As pattern recognition systems become embedded in more consequential decisions, understanding their capabilities and limitations becomes essential not just for engineers, but for everyone affected by automated decision-making.
+Pattern recognition is the science and engineering of automatically identifying meaningful regularities in data. It draws on [machine learning](/machine-learning), [statistics](/statistics), and [computer science](/computer-science) to solve classification, detection, and generation problems across virtually every domain — from medical imaging to autonomous driving to financial analysis. While deep learning has dramatically advanced the field since 2012, fundamental challenges around bias, robustness, explainability, and data requirements remain. As pattern recognition systems become embedded in more consequential decisions, understanding their capabilities and limitations becomes essential not just for engineers, but for everyone affected by automated decision-making.

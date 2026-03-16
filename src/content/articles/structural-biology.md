@@ -41,7 +41,7 @@ Here's why shape matters so much: a [protein](/biochemistry) is essentially a lo
 
 The oldest and most prolific method. You grow a crystal of your protein (which can take weeks or months of trial and error), then blast it with X-rays. The X-rays scatter off the atoms in predictable patterns, and from those diffraction patterns, you calculate the 3D structure.
 
-This technique gave us the structure of [DNA](/genetics) (Watson and Crick's famous double helix in 1953 relied on Rosalind Franklin's X-ray crystallography data), hemoglobin, and thousands of other critical molecules. The Protein Data Bank, which stores all publicly available structures, contains over 200,000 entries — and the majority were determined by X-ray crystallography.
+This technique gave us the structure of [DNA](/genetics) (Watson and Crick's famous double helix in 1953 relied on Rosalind Franklin's [X-ray crystallography](/x-ray-crystallography) data), hemoglobin, and thousands of other critical molecules. The Protein Data Bank, which stores all publicly available structures, contains over 200,000 entries — and the majority were determined by X-ray crystallography.
 
 The limitation? You need a crystal. Some proteins refuse to crystallize. Membrane proteins — which sit in the cell's fatty membrane — are notoriously difficult to crystallize and yet are the targets of roughly half of all drugs.
 
@@ -55,7 +55,7 @@ The big advantage: no crystals needed. You can study molecules in near-native co
 
 NMR [spectroscopy](/spectroscopy) works on molecules in solution — closest to their natural state. It measures how atomic nuclei respond to magnetic fields, revealing distances between atoms and the overall molecular shape.
 
-NMR's unique strength is capturing molecular motion. Proteins aren't rigid statues — they flex, breathe, and shift between conformations. NMR can reveal these dynamics in ways that crystallography and cryo-EM cannot. The tradeoff is a size limit: NMR works best on relatively small proteins.
+NMR's unique strength is capturing molecular motion. Proteins aren't rigid statues — they flex, breathe, and shift between conformations. NMR can reveal these dynamics in ways that [crystallography](/crystallography) and cryo-EM cannot. The tradeoff is a size limit: NMR works best on relatively small proteins.
 
 ## Why This Matters for Medicine
 

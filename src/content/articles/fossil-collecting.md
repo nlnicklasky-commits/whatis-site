@@ -138,7 +138,7 @@ The fossil record also documents mass extinctions — catastrophic events that w
 
 Fossils tell us about ancient environments. Coral fossils in Iowa mean that Iowa was once covered by a warm, shallow sea. Fern fossils in Antarctica mean that Antarctica once had a temperate climate. Mammoth fossils in the North Sea mean that the sea floor was once dry land with a cold grassland ecosystem.
 
-By analyzing the types of organisms preserved, their growth patterns, and the chemical signatures in their shells and bones, paleontologists can reconstruct ancient temperatures, ocean [chemistry](/chemistry), atmospheric composition, and seasonal patterns. This data is crucial for understanding how Earth's climate has changed over geological time — and for putting current climate change in context.
+By analyzing the types of organisms preserved, their growth patterns, and the chemical signatures in their shells and bones, paleontologists can reconstruct ancient temperatures, ocean [chemistry](/chemistry), atmospheric composition, and seasonal patterns. This data is crucial for understanding how Earth's climate has changed over geological time — and for putting current [climate change](/climate-change) in context.
 
 ## Famous Fossil Sites
 

@@ -43,7 +43,7 @@ As of 2024, roughly 5 billion people worldwide use social media, according to th
 
 The title "social media manager" covers an absurd range of responsibilities. On any given day, you might be:
 
-- Writing and editing posts, captions, and stories
+- [Writing](/writing) and [editing](/editing) posts, captions, and stories
 - Creating or commissioning graphics, photos, and video
 - [Scheduling](/scheduling) content across multiple platforms
 - Responding to comments, messages, and mentions
@@ -51,7 +51,7 @@ The title "social media manager" covers an absurd range of responsibilities. On 
 - Analyzing performance data and adjusting strategy
 - Managing paid advertising campaigns
 - Handling customer complaints that arrive via DM
-- Coordinating with other departments ([marketing](/marketing), sales, customer service, PR)
+- Coordinating with other departments ([marketing](/marketing), [sales](/sales), customer service, PR)
 - Staying current on platform algorithm changes, new features, and trends
 
 In smaller organizations, one person does all of this. In larger companies, these responsibilities split across teams: content creators, community managers, paid media specialists, and analytics leads.
@@ -91,7 +91,7 @@ The exact ratio matters less than the principle: if most of your posts are "buy 
 
 ### Platform-Specific Realities
 
-Each platform has its own content format, algorithm logic, and audience behavior. Here's what that means in practice as of 2024-2025:
+Each platform has its own content format, algorithm [logic](/logic), and audience behavior. Here's what that means in practice as of 2024-2025:
 
 **Instagram** prioritizes Reels (short-form video) heavily in its algorithm. Static image posts still work for engagement from existing followers, but Reels are the primary discovery mechanism for reaching new audiences. Stories are excellent for day-to-day updates and polls. Carousel posts (multi-image) tend to get higher engagement than single images because they keep users swiping.
 

@@ -101,7 +101,7 @@ The developer doesn't swing hammers. They manage the process: tracking budget, m
 
 ### Step 8: [Marketing](/marketing), Leasing, and Sales
 
-Depending on the project type, the developer either sells completed units (condos, houses) or leases space (apartments, offices, retail). Marketing often begins during construction — "pre-sales" or "pre-leasing" reduces financial risk because you have commitments before the building is finished.
+Depending on the project type, the developer either sells completed units (condos, houses) or leases space (apartments, offices, retail). Marketing often begins during construction — "pre-[sales](/sales)" or "pre-leasing" reduces financial risk because you have commitments before the building is finished.
 
 ### Step 9: Completion and Stabilization
 

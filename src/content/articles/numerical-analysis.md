@@ -35,7 +35,7 @@ faq:
 
 # What Is Numerical Analysis?
 
-Numerical analysis is the branch of mathematics that develops, analyzes, and implements [algorithms](/algorithms) for obtaining approximate solutions to mathematical problems. When equations can't be solved with pen and paper — and the vast majority of real-world equations can't — numerical analysis provides the tools to compute answers that are accurate enough to be useful.
+Numerical analysis is the branch of [mathematics](/mathematics) that develops, analyzes, and implements [algorithms](/algorithms) for obtaining approximate solutions to mathematical problems. When equations can't be solved with pen and paper — and the vast majority of real-world equations can't — numerical analysis provides the tools to compute answers that are accurate enough to be useful.
 
 Every weather forecast you check, every car crash simulation an engineer runs, every movie with CGI effects, every AI model trained on data — all of these depend on numerical methods running on computers. It's the invisible mathematical infrastructure of modern technology.
 
@@ -71,7 +71,7 @@ A method that cuts error in half with each doubling of effort (first-order conve
 
 Some problems are inherently sensitive to small changes in input. If changing the fifth decimal place of your input changes the first decimal place of your output, you have an ill-conditioned problem. No algorithm can fix this — it's a property of the problem itself, not the method.
 
-The condition number quantifies this sensitivity. Matrices with large condition numbers (ill-conditioned matrices) are nightmares for linear algebra solvers. Small errors in the data get amplified, making the solution unreliable.
+The condition number quantifies this sensitivity. Matrices with large condition numbers (ill-conditioned matrices) are nightmares for [linear algebra](/linear-algebra) solvers. Small errors in the data get amplified, making the solution unreliable.
 
 Understanding the difference between an ill-conditioned problem (which no algorithm can save) and an unstable algorithm (which a better algorithm can fix) is one of the most important distinctions in numerical analysis.
 
@@ -115,11 +115,11 @@ The key insight: most large matrices arising from physical problems are sparse �
 
 ### Eigenvalue Problems
 
-Finding eigenvalues and eigenvectors is central to vibration analysis, quantum mechanics, stability analysis, data science (PCA), and Google's PageRank algorithm. The QR algorithm, developed in the 1960s, remains the standard method for dense eigenvalue problems. For sparse problems, Arnoldi and Lanczos iterations are preferred.
+Finding eigenvalues and eigenvectors is central to [vibration analysis](/vibration-analysis), [quantum mechanics](/quantum-mechanics), stability analysis, [data science](/data-science) (PCA), and Google's PageRank algorithm. The QR algorithm, developed in the 1960s, remains the standard method for dense eigenvalue problems. For sparse problems, Arnoldi and Lanczos iterations are preferred.
 
 ## Differential Equations: Predicting the Future
 
-Differential equations describe how things change. Predicting weather, modeling chemical reactions, simulating structural stress, tracking planetary orbits — all require solving differential equations numerically.
+[Differential equations](/differential-equations) describe how things change. Predicting weather, modeling chemical reactions, simulating structural stress, tracking planetary orbits — all require solving differential equations numerically.
 
 ### Ordinary Differential Equations (ODEs)
 
@@ -147,7 +147,7 @@ Given data at a set of points, how do you estimate values between them?
 
 **Polynomial interpolation** fits a polynomial through data points. With n points, you can fit a polynomial of degree n-1 that passes through all of them exactly. The Lagrange and Newton forms give explicit formulas. But high-degree polynomials often oscillate wildly between data points (Runge's phenomenon), making them unreliable for large datasets.
 
-**Splines** solve this by using low-degree polynomials (typically cubic) on each interval between data points, with smoothness conditions at the junctions. Cubic splines produce smooth, well-behaved curves and are the standard for CAD/CAM systems, computer graphics, and data visualization.
+**Splines** solve this by using low-degree polynomials (typically cubic) on each interval between data points, with smoothness conditions at the junctions. Cubic splines produce smooth, well-behaved curves and are the standard for CAD/CAM systems, [computer graphics](/computer-graphics), and [data visualization](/data-visualization).
 
 **Least squares** fitting finds the best approximation when you have more data points than parameters. It minimizes the sum of squared differences between the data and the model. This is the mathematical foundation of linear regression in statistics and [machine learning](/machine-learning).
 
@@ -157,19 +157,19 @@ Computing definite integrals numerically is called quadrature. The trapezoidal r
 
 For smooth functions, Gaussian quadrature is astonishingly efficient. With n evaluation points, it exactly integrates polynomials of degree 2n-1. For non-smooth functions or high dimensions, Monte Carlo methods — which use random sampling — become competitive because their convergence rate doesn't depend on dimension.
 
-Monte Carlo integration is why it's feasible to compute high-dimensional integrals in finance (option pricing), [physics](/computational-physics) (quantum chromodynamics), and Bayesian statistics. The error decreases as 1/√N regardless of dimension — terrible in one dimension, but unbeatable in a hundred.
+Monte Carlo integration is why it's feasible to compute high-dimensional integrals in finance (option pricing), [physics](/computational-physics) (quantum chromodynamics), and [Bayesian statistics](/bayesian-statistics). The error decreases as 1/√N regardless of dimension — terrible in one dimension, but unbeatable in a hundred.
 
 ## Optimization
 
-Finding the minimum (or maximum) of a function is central to [engineering](/engineering) design, [machine learning](/machine-learning), economics, and operations research.
+Finding the minimum (or maximum) of a function is central to [engineering](/engineering) design, [machine learning](/machine-learning), economics, and [operations research](/operations-research).
 
 **Gradient descent** moves downhill following the negative gradient. It's simple but can be slow, especially near saddle points or in narrow valleys. It's also the foundation of neural network training.
 
-**Newton's method for optimization** uses second-derivative (Hessian) information to find minima quadratically fast. But computing and inverting the Hessian is expensive for high-dimensional problems.
+**Newton's method for [optimization](/optimization)** uses second-derivative (Hessian) information to find minima quadratically fast. But computing and inverting the Hessian is expensive for high-dimensional problems.
 
 **Quasi-Newton methods** (like BFGS) approximate the Hessian using gradient information, achieving near-Newton convergence without the cost of computing second derivatives. These are workhorses for medium-scale optimization.
 
-**Stochastic gradient descent** and its variants (Adam, AdaGrad, RMSProp) use random subsets of data to estimate gradients, making them feasible for problems with millions of parameters — like training deep neural networks. The noise in the gradient estimates actually helps escape local minima.
+**Stochastic gradient descent** and its variants (Adam, AdaGrad, RMSProp) use random subsets of data to estimate gradients, making them feasible for problems with millions of parameters — like training deep [neural networks](/neural-networks). The noise in the gradient estimates actually helps escape local minima.
 
 ## The Role of Software
 
@@ -179,7 +179,7 @@ Numerical analysis is deeply intertwined with software development. The most imp
 
 **BLAS** (Basic Linear Algebra Subprograms) provides low-level matrix and vector operations optimized for specific hardware. Intel's MKL, AMD's AOCL, and OpenBLAS provide implementations tuned to extract maximum performance from modern processors.
 
-**PETSc**, **Trilinos**, and **deal.II** are frameworks for solving large-scale scientific problems, particularly PDEs. They handle the complexities of parallel computing, letting scientists focus on the physics rather than the [computer science](/computer-science).
+**PETSc**, **Trilinos**, and **deal.II** are frameworks for solving large-scale scientific problems, particularly PDEs. They handle the complexities of [parallel computing](/parallel-computing), letting scientists focus on the physics rather than the [computer science](/computer-science).
 
 **MATLAB** popularized numerical computing in academia and industry. Python with NumPy and SciPy has largely replaced it for new projects, offering equivalent capabilities with a better programming language and open-source availability. **Julia** is newer and designed specifically for numerical computing, offering Python-like syntax with Fortran-like speed.
 
@@ -187,17 +187,17 @@ Numerical analysis is deeply intertwined with software development. The most imp
 
 ### Weather and Climate Prediction
 
-Weather forecasting is numerical analysis in action. The atmosphere is divided into a 3D grid with millions of cells. At each cell, the equations of [fluid dynamics](/fluid-dynamics), thermodynamics, and radiation transport are solved numerically. The European Centre for Medium-Range Weather Forecasts (ECMWF) runs simulations with grid cells as small as 9 km, producing 10-day forecasts that are remarkably accurate.
+Weather forecasting is numerical analysis in action. The atmosphere is divided into a 3D grid with millions of cells. At each cell, the equations of [fluid dynamics](/fluid-dynamics), [thermodynamics](/thermodynamics), and radiation transport are solved numerically. The European Centre for Medium-Range Weather Forecasts (ECMWF) runs simulations with grid cells as small as 9 km, producing 10-day forecasts that are remarkably accurate.
 
 Climate models extend this to century-long simulations, incorporating ocean circulation, ice sheet dynamics, carbon cycles, and atmospheric chemistry. The numerical methods and computational resources required are staggering.
 
 ### Machine Learning
 
-Training neural networks is fundamentally an optimization problem solved by numerical methods. Backpropagation is just the chain rule of [calculus](/calculus) applied efficiently. Stochastic gradient descent and its variants are numerical optimization algorithms. The entire deep learning revolution is built on numerical analysis foundations — even if many practitioners don't think of it that way.
+Training neural networks is fundamentally an optimization problem solved by numerical methods. Backpropagation is just the chain rule of [calculus](/calculus) applied efficiently. Stochastic gradient descent and its variants are numerical optimization algorithms. The entire [deep learning](/deep-learning) revolution is built on numerical analysis foundations — even if many practitioners don't think of it that way.
 
 ### Engineering Simulation
 
-Before numerical methods, engineers designed things and hoped they worked. Now they simulate. Crash tests are modeled with finite elements before building physical prototypes. Aerodynamic performance is computed with CFD (computational [fluid dynamics](/fluid-dynamics)) before wind tunnel testing. Structural integrity is verified computationally before construction begins.
+Before numerical methods, engineers designed things and hoped they worked. Now they simulate. Crash tests are modeled with finite elements before building physical prototypes. Aerodynamic performance is computed with CFD (computational [fluid dynamics](/fluid-dynamics)) before wind tunnel testing. Structural integrity is verified computationally before [construction](/construction) begins.
 
 Boeing estimates that computational simulation reduced the number of physical wind tunnel tests for the 787 by 50%, saving years of development time and hundreds of millions of dollars.
 

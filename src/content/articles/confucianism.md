@@ -165,11 +165,11 @@ Xunzi (310-235 BCE) disagreed fundamentally with Mencius. Human nature, he argue
 
 This sounds pessimistic, but Xunzi's conclusion was profoundly optimistic: precisely because morality is learned rather than innate, education is the most important activity in society. Anyone can become a sage through proper training and effort.
 
-The Mencius vs. Xunzi debate about human nature — parallel in many ways to later Western debates between Rousseau and Hobbes — shaped Confucian thought for millennia.
+The Mencius vs. Xunzi [debate](/debate) about human nature — parallel in many ways to later Western debates between Rousseau and Hobbes — shaped Confucian thought for millennia.
 
 ### Neo-Confucianism: The Song Dynasty Revival
 
-After centuries of competition from [Buddhism](/buddhism) and Taoism, Confucianism was revitalized during the Song dynasty (960-1279 CE). Zhu Xi (1130-1200) synthesized Confucian thought with metaphysical concepts borrowed (and adapted) from Buddhism and Taoism, creating Neo-Confucianism.
+After centuries of competition from [Buddhism](/buddhism) and [Taoism](/taoism), Confucianism was revitalized during the Song dynasty (960-1279 CE). Zhu Xi (1130-1200) synthesized Confucian thought with metaphysical concepts borrowed (and adapted) from Buddhism and Taoism, creating Neo-Confucianism.
 
 Zhu Xi introduced the concept of li (principle — different character from ritual li) as the underlying rational structure of reality. Everything has its principle — its proper nature and purpose. Self-cultivation means aligning oneself with these principles through the "investigation of things" (gewu) — careful study of the world to understand its moral structure.
 
@@ -219,7 +219,7 @@ Since the 1990s, Confucianism has experienced a major revival in China. The gove
 
 In South Korea, Taiwan, Japan, Vietnam, and Singapore, Confucian values never fully disappeared — they continued shaping education, family life, and business culture through modernization. The "Confucian work ethic" (parallel to Max Weber's "Protestant work ethic") is cited as a factor in East Asia's rapid economic development.
 
-New Confucianism — a philosophical movement primarily among Chinese intellectuals — seeks to develop Confucian thought in dialogue with [Western philosophy](/western-philosophy), democracy, science, and human rights. Thinkers like Tu Weiming, Mou Zongsan, and Roger Ames argue that Confucianism's core insights about moral cultivation, relational ethics, and social harmony remain valuable — and potentially corrective — for modern societies struggling with individualism, social fragmentation, and moral uncertainty.
+New Confucianism — a philosophical movement primarily among Chinese intellectuals — seeks to develop Confucian thought in dialogue with [Western philosophy](/western-philosophy), democracy, science, and human rights. Thinkers like Tu Weiming, Mou Zongsan, and Roger Ames argue that Confucianism's core insights about moral cultivation, relational [ethics](/ethics), and social harmony remain valuable — and potentially corrective — for modern societies struggling with individualism, social fragmentation, and moral uncertainty.
 
 ## Key Takeaways
 

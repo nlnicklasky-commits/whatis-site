@@ -41,7 +41,7 @@ Microeconomics is the branch of economics that studies how individual people, ho
 
 ## The Small-Scale View of Economics
 
-If [economics](/economics) is the study of how societies deal with scarcity, microeconomics is where you zoom in. Way in. Instead of asking "why is the national unemployment rate 4%?" (that's macroeconomics), micro asks questions like: why does a cup of coffee cost $5 at one cafe and $2.50 at the one across the street? Why do doctors earn more than teachers? Why does a diamond ring cost thousands when water—far more essential—costs almost nothing?
+If [economics](/economics) is the study of how societies deal with scarcity, microeconomics is where you zoom in. Way in. Instead of asking "why is the national unemployment rate 4%?" (that's [macroeconomics](/macroeconomics)), micro asks questions like: why does a cup of coffee cost $5 at one cafe and $2.50 at the one across the street? Why do doctors earn more than teachers? Why does a diamond ring cost thousands when water—far more essential—costs almost nothing?
 
 That last question actually has a name. It's the diamond-water paradox, first posed by Adam Smith in 1776 in *The Wealth of Nations*. Smith struggled with it. It took another century before economists figured out that value depends on marginal utility—how much satisfaction the *next* unit gives you—not total usefulness. You need water to survive, but when you already have plenty, one more glass doesn't mean much. Diamonds are scarce, so each one carries enormous marginal value.
 
@@ -78,7 +78,7 @@ What's really remarkable is that no one coordinates this. No central authority d
 
 ## Elasticity: How Sensitive Are Markets?
 
-Not all products respond to price changes equally. Microeconomists measure this responsiveness with a concept called elasticity.
+Not all products respond to price changes equally. Microeconomists measure this responsiveness with a concept called [elasticity](/elasticity).
 
 **Price elasticity of demand** measures how much the quantity demanded changes when the price changes. If a 10% price increase causes a 20% drop in quantity demanded, the elasticity is -2 (highly elastic). If the same price increase causes only a 3% drop, the elasticity is -0.3 (inelastic).
 
@@ -97,13 +97,13 @@ Why do you buy what you buy? Microeconomics doesn't try to tell you what you *sh
 
 The basic framework goes like this: you have a budget (your income). Goods have prices. You want to allocate your budget to get the most satisfaction (economists call it "utility") possible. The optimal choice happens when the marginal utility per dollar spent is equal across all goods.
 
-Translation: if the last dollar you spent on coffee gives you more satisfaction than the last dollar you spent on magazines, you should buy more coffee and fewer magazines until the marginal satisfaction evens out.
+[Translation](/translation): if the last dollar you spent on coffee gives you more satisfaction than the last dollar you spent on magazines, you should buy more coffee and fewer magazines until the marginal satisfaction evens out.
 
 This sounds overly mathematical, but it explains real behavior surprisingly well. It explains why people diversify their spending instead of buying only one thing. It explains why demand curves slope downward (each additional unit gives less marginal utility, so you need a lower price to justify buying it). And it connects directly to how markets for [financial-planning](/financial-planning) and [budgeting](/budgeting) services work—people are trying to optimize their satisfaction under constraints.
 
 ### Behavioral Wrinkles
 
-Classical consumer choice theory assumes people are rational. Real people... aren't always. [Cognitive bias](/cognitive-bias) research and behavioral economics have documented systematic ways people deviate from rationality:
+Classical consumer choice theory assumes people are rational. Real people... aren't always. [Cognitive bias](/cognitive-bias) research and [behavioral economics](/behavioral-economics) have documented systematic ways people deviate from rationality:
 
 - **Loss aversion.** Losing $100 feels about twice as painful as gaining $100 feels good. This means people make different decisions depending on whether a choice is framed as a gain or a loss.
 - **Anchoring.** People rely heavily on the first number they see. A $100 shirt "marked down" to $60 feels like a bargain even if the shirt was never worth $100.
@@ -119,8 +119,8 @@ On the other side of the market, firms make decisions too. Microeconomics models
 
 Every firm faces costs. Microeconomics divides them into:
 
-- **Fixed costs** don't change with output. Rent, insurance, salaries of permanent staff. You pay these whether you produce zero units or a million.
-- **Variable costs** change with output. Raw materials, hourly labor, electricity for production.
+- **Fixed costs** don't change with output. Rent, [insurance](/insurance), salaries of permanent staff. You pay these whether you produce zero units or a million.
+- **Variable costs** change with output. Raw materials, hourly labor, [electricity](/electricity) for production.
 - **Marginal cost** is the cost of producing one more unit. This is the key decision variable.
 
 The profit-maximizing rule is straightforward: keep producing as long as the revenue from one more unit (marginal revenue) exceeds the cost of one more unit (marginal cost). Stop when they're equal. This sounds obvious, but many businesses violate it—either because they don't know their marginal costs, or because organizational momentum keeps production going past the optimal point.
@@ -129,11 +129,11 @@ The profit-maximizing rule is straightforward: keep producing as long as the rev
 
 As firms grow, they often experience economies of scale—the cost per unit falls as output increases. A factory that produces 10,000 cars spreads its fixed costs across far more units than one producing 100 cars. This is why large companies often have a cost advantage over small ones.
 
-But there are limits. Eventually, firms hit diseconomies of scale. Management becomes unwieldy, communication breaks down, bureaucracy stifles efficiency. The optimal size depends on the industry—tech companies can scale massively because software costs almost nothing to duplicate, while restaurants hit diseconomies relatively quickly because each location needs its own kitchen, staff, and management.
+But there are limits. Eventually, firms hit diseconomies of scale. [Management](/management) becomes unwieldy, communication breaks down, bureaucracy stifles efficiency. The optimal size depends on the industry—tech companies can scale massively because software costs almost nothing to duplicate, while restaurants hit diseconomies relatively quickly because each location needs its own kitchen, staff, and management.
 
 ## Market Structures: Not All Markets Are Equal
 
-One of microeconomics' greatest contributions is its taxonomy of market structures. Different competitive conditions lead to radically different outcomes for prices, quantity, and consumer welfare.
+One of microeconomics' greatest contributions is its [taxonomy](/taxonomy) of market structures. Different competitive conditions lead to radically different outcomes for prices, quantity, and consumer welfare.
 
 ### Perfect Competition
 
@@ -141,7 +141,7 @@ The theoretical ideal. Many small firms sell identical products. No single firm 
 
 Real-world examples are rare but exist: agricultural commodity markets (wheat, corn, soybeans) come close. A wheat farmer in Kansas can't charge more than the market price because buyers would just purchase from another farmer selling identical wheat.
 
-In perfect competition, firms earn zero economic profit in the long run. Not zero accounting profit—they still cover all their costs including a normal return on investment. But they can't earn *extra* profit because competitors would enter the market and drive prices down.
+In perfect competition, firms earn zero economic profit in the long run. Not zero [accounting](/accounting) profit—they still cover all their costs including a normal return on investment. But they can't earn *extra* profit because competitors would enter the market and drive prices down.
 
 ### Monopoly
 
@@ -149,13 +149,13 @@ The opposite extreme. One firm dominates the entire market for a product with no
 
 Monopolies create what economists call deadweight loss—a reduction in total societal welfare. The monopolist produces less and charges more than a competitive market would, which means some trades that would benefit both buyer and seller never happen.
 
-That's why governments regulate monopolies. The [Federal Trade Commission](https://www.ftc.gov/) and Department of Justice enforce antitrust laws to prevent monopolistic behavior. Natural monopolies—like utility companies where it makes no sense to have competing water pipes running to every house—are typically regulated to prevent price gouging.
+That's why governments regulate monopolies. The [Federal Trade Commission](https://www.ftc.gov/) and Department of Justice enforce antitrust laws to prevent monopolistic behavior. Natural monopolies—like utility companies where it makes no sense to have competing water pipes [running](/running) to every house—are typically regulated to prevent price gouging.
 
 ### Oligopoly
 
 A market dominated by a few large firms. Think airlines, wireless carriers, auto manufacturers, or major [cloud-computing](/cloud-computing) providers. Each firm is large enough that its decisions affect the others.
 
-The game theory of oligopolies is fascinating. If Delta cuts airfare on a route, United and American have to decide: match the cut (starting a price war that hurts everyone) or hold prices (and lose market share). This interdependence creates strategic behavior that's much more complex than either perfect competition or monopoly.
+The [game theory](/game-theory) of oligopolies is fascinating. If Delta cuts airfare on a route, United and American have to decide: match the cut (starting a price war that hurts everyone) or hold prices (and lose market share). This interdependence creates strategic behavior that's much more complex than either perfect competition or monopoly.
 
 The prisoner's dilemma often applies. Each firm would be better off if they all maintained high prices. But each firm individually has an incentive to undercut rivals. The result is often prices somewhere between the competitive and monopoly levels—good for firms, less great for consumers.
 
@@ -173,7 +173,7 @@ Microeconomics doesn't just celebrate markets—it rigorously identifies when th
 
 When a transaction affects someone who isn't part of it, that's an externality. A factory that pollutes a river imposes costs on downstream communities that aren't reflected in the factory's prices. A neighbor who gets vaccinated reduces your risk of illness—a positive externality.
 
-Markets left alone produce too much of goods with negative externalities and too little of goods with positive externalities. The standard fixes: taxes on negative externalities (carbon taxes, cigarette taxes), subsidies for positive ones (education, vaccines), or direct regulation.
+Markets left alone produce too much of goods with negative externalities and too little of goods with positive externalities. The standard fixes: taxes on negative externalities (carbon taxes, cigarette taxes), subsidies for positive ones ([education](/education), vaccines), or direct regulation.
 
 The economist Arthur Pigou formalized this in the 1920s. Pigouvian taxes—taxes set equal to the external cost—are theoretically ideal because they force producers to internalize the full cost of their actions. In practice, calculating the exact external cost is extremely difficult. But even imperfect Pigouvian taxes usually outperform doing nothing.
 
@@ -181,7 +181,7 @@ The economist Arthur Pigou formalized this in the 1920s. Pigouvian taxes—taxes
 
 Some goods are non-excludable (you can't prevent people from using them) and non-rivalrous (one person's use doesn't reduce availability for others). National defense, street lighting, clean air. Markets underprovide these because of the free-rider problem—if you can benefit without paying, why pay?
 
-This is the classic justification for government provision of certain services. Private markets won't build enough lighthouses because ship captains who don't pay still benefit from the light. The logic extends to basic research in science, public parks, and [environmental-science](/environmental-science) monitoring.
+This is the classic justification for [government](/government) provision of certain services. Private markets won't build enough [lighthouses](/lighthouses) because ship captains who don't pay still benefit from the light. The logic extends to basic research in science, public parks, and [environmental-science](/environmental-science) monitoring.
 
 ### Information Asymmetry
 
@@ -210,7 +210,7 @@ Why does a software engineer at Google earn more than a teacher? Microeconomics 
 Wage differences also reflect:
 - **Compensating differentials.** Dangerous or unpleasant jobs pay more to attract workers. Oil rig workers earn more than office workers partly because the job is difficult and remote.
 - **Discrimination.** Markets should theoretically eliminate wage discrimination (firms that discriminate pay more for talent), but institutional barriers and implicit biases persist.
-- **Market power.** In monopsony situations—where there's only one major employer in a region—wages may be pushed below competitive levels. This is a major argument in the [economics](/economics) literature for minimum wage laws.
+- **Market power.** In monopsony situations—where there's only one major employer in a region—wages may be pushed below competitive levels. This is a major argument in the [economics](/economics) [literature](/literature) for minimum wage laws.
 
 ## Price Discrimination
 
@@ -246,4 +246,4 @@ Modern macroeconomics increasingly relies on "microfoundations"—building macro
 
 Microeconomics is the study of choices under scarcity at the individual level. It explains how prices emerge from the interaction of supply and demand, why some markets work well and others fail, how firms compete, and why people buy what they buy.
 
-The core insights—marginal thinking, opportunity cost, the effect of incentives, the role of information—aren't just academic. They're tools for understanding everyday decisions, from what you eat for lunch to how you invest your savings to how governments regulate markets. Frankly, most policy debates that seem purely political are actually microeconomic arguments in disguise. Understanding the framework helps you see through the rhetoric to the underlying logic—or the lack of it.
+The core insights—marginal thinking, opportunity cost, the effect of incentives, the role of information—aren't just academic. They're tools for understanding everyday decisions, from what you eat for lunch to how you invest your savings to how governments regulate markets. Frankly, most policy debates that seem purely political are actually microeconomic arguments in disguise. Understanding the framework helps you see through the [rhetoric](/rhetoric) to the underlying logic—or the lack of it.

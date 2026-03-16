@@ -85,7 +85,7 @@ Card games also function as social lubricant. A game provides structure for inte
 
 Physical card games have transitioned smoothly to digital platforms. Online poker rooms, digital CCGs (Hearthstone, Marvel Snap), and apps for traditional games have expanded the player base enormously. Digital platforms enable features impossible with physical cards: matchmaking with opponents worldwide, instant rule enforcement, and [animation](/animation) that brings card interactions to life.
 
-The trade-off: digital card games lack the tactile satisfaction of shuffling and dealing, the face-to-face [social dynamics](/social-dynamics), and the flexibility to modify rules on the fly ("house rules" are a fundamental feature of physical card games).
+The [trade](/trade)-off: digital card games lack the tactile satisfaction of shuffling and dealing, the face-to-face [social dynamics](/social-dynamics), and the flexibility to modify rules on the fly ("house rules" are a fundamental feature of physical card games).
 
 ## Why Cards Endure
 

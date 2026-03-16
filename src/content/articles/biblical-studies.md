@@ -40,9 +40,9 @@ This is distinct from devotional reading or theological study, though all three 
 
 ## Why Study the Bible Academically?
 
-The Bible is, by several measures, the most influential book in human history. It has shaped Western law, literature, art, politics, ethics, and daily language for two thousand years. Whether you're religious or not, understanding the Bible helps you understand the civilization you live in.
+The Bible is, by several measures, the most influential book in human history. It has shaped Western law, literature, art, [politics](/politics), [ethics](/ethics), and daily language for two thousand years. Whether you're religious or not, understanding the Bible helps you understand the civilization you live in.
 
-Beyond cultural influence, the Bible is a genuinely fascinating collection of ancient texts. It contains poetry, law codes, historical narratives, prophecy, wisdom literature, letters, apocalyptic visions, and origin stories — all produced across roughly a thousand years by dozens of authors in multiple languages. The sheer variety of material, and the complex history of how it was assembled, makes it one of the most interesting subjects in the humanities.
+Beyond cultural influence, the Bible is a genuinely fascinating collection of ancient texts. It contains [poetry](/poetry), law codes, historical narratives, [prophecy](/prophecy), wisdom literature, letters, apocalyptic visions, and origin stories — all produced across roughly a thousand years by dozens of authors in multiple languages. The sheer variety of material, and the complex history of how it was assembled, makes it one of the most interesting subjects in the humanities.
 
 Biblical studies also connects to [archaeology](/archaeology), [ancient history](/ancient-greek-history), [linguistics](/linguistics), and [literary theory](/literary-theory). It's an inherently interdisciplinary field, which means it attracts scholars from many backgrounds and produces insights that illuminate far more than just the Bible itself.
 
@@ -56,19 +56,19 @@ The first five books — Genesis, Exodus, Leviticus, Numbers, Deuteronomy — ar
 
 The Documentary Hypothesis, developed by Julius Wellhausen in the 1870s, identified four main sources: J (Jahwist, using "Yahweh" for God's name), E (Elohist, using "Elohim"), D (Deuteronomist, the source behind Deuteronomy), and P (Priestly source, focused on rituals and genealogies). While the hypothesis has been modified and debated extensively since Wellhausen, the basic insight — that the Torah combines multiple literary traditions — remains widely accepted.
 
-This matters because it changes how you read the text. The two creation accounts in Genesis (1:1–2:4a and 2:4b–25) aren't contradictory mistakes — they're two different traditions, each with its own theology and emphasis, woven together by later editors. Understanding the sources helps you hear distinct voices within what looks like a single narrative.
+This matters because it changes how you read the text. The two creation accounts in Genesis (1:1–2:4a and 2:4b–25) aren't contradictory mistakes — they're two different traditions, each with its own [theology](/theology) and emphasis, woven together by later editors. Understanding the sources helps you hear distinct voices within what looks like a single narrative.
 
 ### The Historical Books and Prophets
 
 Books like Joshua, Judges, Samuel, and Kings narrate Israel's history from the conquest of Canaan through the Babylonian exile (586 BCE). The Deuteronomistic History — a scholarly term for Joshua through Kings — was probably compiled during or shortly after the exile, interpreting Israel's history through the lens of Deuteronomy's theology: obey God and prosper, disobey and suffer.
 
-How historically accurate are these narratives? That's a major ongoing debate. Archaeological evidence confirms some biblical events and contradicts others. The kingdoms of Israel and Judah are well-attested in external sources. The exodus from Egypt, as described in the Bible, lacks archaeological confirmation. The conquest of Canaan appears to have been more gradual and complex than Joshua's narrative suggests.
+How historically accurate are these narratives? That's a major ongoing [debate](/debate). Archaeological evidence confirms some biblical events and contradicts others. The kingdoms of Israel and Judah are well-attested in external sources. The exodus from Egypt, as described in the Bible, lacks archaeological confirmation. The conquest of Canaan appears to have been more gradual and complex than Joshua's narrative suggests.
 
 The prophetic books — Isaiah, Jeremiah, Ezekiel, and the twelve "minor prophets" — contain some of the most powerful poetry in ancient literature. Prophets weren't primarily fortune-tellers; they were social critics who spoke on behalf of God, often challenging kings, priests, and the wealthy. Amos's condemnation of those who "trample the head of the poor into the dust" (Amos 2:7) resonates with anyone concerned about economic [justice](/social-justice).
 
 ### Wisdom Literature
 
-Books like Proverbs, Job, and Ecclesiastes represent a different tradition — less concerned with Israel's national story and more focused on universal human experience. Job questions why good people suffer — and, remarkably, never gets a satisfying answer. God responds with questions about cosmic power, not with an explanation for Job's pain. Ecclesiastes ("Vanity of vanities, all is vanity") is so skeptical about life's meaning that some rabbis questioned whether it belonged in the canon at all.
+Books like [Proverbs](/proverbs), Job, and Ecclesiastes represent a different tradition — less concerned with Israel's national story and more focused on universal human experience. Job questions why good people suffer — and, remarkably, never gets a satisfying answer. God responds with questions about cosmic power, not with an explanation for Job's pain. Ecclesiastes ("Vanity of vanities, all is vanity") is so skeptical about life's meaning that some rabbis questioned whether it belonged in the canon at all.
 
 ## The New Proof
 
@@ -122,4 +122,4 @@ Current debates include the historicity of the patriarchal narratives in Genesis
 
 Biblical studies matters because the Bible still shapes the world. Political debates about marriage, justice, war, immigration, and human rights regularly invoke biblical texts. Understanding what those texts actually say — in their original languages, contexts, and historical settings — is essential for informed participation in those conversations.
 
-It also matters because the Bible is great literature that raises permanent questions about human existence, morality, suffering, and meaning. You don't have to believe it's divinely inspired to recognize that Job's wrestling with unjust suffering, or Paul's [meditation](/meditation) on love in 1 Corinthians 13, or Ecclesiastes' frank confrontation with mortality are works of genuine depth. Biblical studies gives you the tools to read these texts with the care and attention they deserve — whatever you believe about their ultimate source.
+It also matters because the Bible is great literature that raises permanent questions about human existence, morality, suffering, and meaning. You don't have to believe it's divinely inspired to recognize that Job's [wrestling](/wrestling) with unjust suffering, or Paul's [meditation](/meditation) on love in 1 Corinthians 13, or Ecclesiastes' frank confrontation with mortality are works of genuine depth. Biblical studies gives you the tools to read these texts with the care and attention they deserve — whatever you believe about their ultimate source.

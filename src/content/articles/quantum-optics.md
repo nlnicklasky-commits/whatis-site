@@ -35,9 +35,9 @@ faq:
 
 # What Is Quantum Optics?
 
-Quantum optics is the branch of physics that studies the quantum mechanical behavior of light and its interaction with matter at the level of individual photons. While classical optics describes light as electromagnetic waves -- and does so brilliantly for everyday purposes -- quantum optics reveals that light is fundamentally composed of discrete particles (photons) that exhibit quantum properties like superposition, entanglement, and uncertainty.
+Quantum [optics](/optics) is the branch of [physics](/physics) that studies the quantum mechanical behavior of light and its interaction with matter at the level of individual photons. While classical optics describes light as electromagnetic waves -- and does so brilliantly for everyday purposes -- quantum optics reveals that light is fundamentally composed of discrete particles (photons) that exhibit quantum properties like superposition, entanglement, and uncertainty.
 
-This isn't just an academic distinction. Quantum optics has produced some of the most practically important technologies in modern life (lasers, which underlie everything from fiber-optic internet to eye surgery), some of the most precise measurements ever achieved (gravitational wave detection at LIGO), and some of the most mind-bending experimental demonstrations in all of science (quantum teleportation across 1,200 km).
+This isn't just an academic distinction. Quantum optics has produced some of the most practically important technologies in modern life (lasers, which underlie everything from fiber-optic internet to eye [surgery](/surgery)), some of the most precise measurements ever achieved (gravitational wave detection at LIGO), and some of the most mind-bending experimental demonstrations in all of science (quantum teleportation across 1,200 km).
 
 ## The Origin Story: When Light Got Quantized
 
@@ -47,7 +47,7 @@ The quantum nature of light was the very first quantum discovery -- and it happe
 
 In December 1900, Max Planck was trying to explain the spectrum of light emitted by a hot object (blackbody radiation). Classical physics predicted that the intensity should increase without limit at short wavelengths -- the "ultraviolet catastrophe." Experiment showed the intensity actually peaked and then decreased.
 
-Planck found he could match the experimental data perfectly if he assumed that energy was emitted and absorbed in discrete chunks, or "quanta," with energy E = hf (where h is Planck's constant and f is the frequency). He considered this a mathematical trick. He was wrong -- it was the beginning of quantum physics.
+Planck found he could match the experimental data perfectly if he assumed that energy was emitted and absorbed in discrete chunks, or "quanta," with energy E = hf (where h is Planck's constant and f is the frequency). He considered this a mathematical trick. He was wrong -- it was the beginning of [quantum physics](/quantum-physics).
 
 ### Einstein's Photon (1905)
 
@@ -55,7 +55,7 @@ Einstein took Planck's idea seriously and proposed that light itself was quantiz
 
 Classical wave theory couldn't explain this. Einstein's photon picture explained it immediately: each photon carries energy hf, and an electron can only be ejected if a single photon has enough energy. More photons (higher intensity) means more electrons, but only if each photon has the minimum required energy.
 
-Einstein won the Nobel Prize in 1921 for this work -- not for relativity.
+Einstein won the Nobel Prize in 1921 for this work -- not for [relativity](/relativity).
 
 ### The Paradox of Light
 
@@ -136,7 +136,7 @@ Alice wants to send the quantum state of a photon (say, its polarization) to Bob
 3. Based on Alice's message, Bob applies one of four simple operations to his half of the entangled pair.
 4. Bob's photon now has the exact quantum state that Alice's original photon had. The original is destroyed (as required by the no-cloning theorem).
 
-This is genuine teleportation of a quantum state, not science fiction teleportation of matter. It's been demonstrated over distances exceeding 1,200 km (using China's Micius satellite) and is a key building block for quantum networks and distributed [quantum computing](/quantum-computing).
+This is genuine teleportation of a quantum state, not [science fiction](/science-fiction) teleportation of matter. It's been demonstrated over distances exceeding 1,200 km (using China's Micius satellite) and is a key building block for quantum networks and distributed [quantum computing](/quantum-computing).
 
 ### Why It Doesn't Enable Faster-Than-Light Communication
 
@@ -176,9 +176,9 @@ Quantum optics enables measurements at or below the standard quantum limit:
 
 **Atomic clocks** use quantum optics techniques (laser cooling, optical frequency combs) to achieve time measurement accuracy of 1 second in 30 billion years.
 
-**Quantum sensors** measure magnetic fields, gravity gradients, and accelerations with sensitivity far beyond classical instruments. Applications include medical brain imaging (magnetoencephalography), underground mineral detection in [geology](/geology), and inertial navigation for submarines.
+**Quantum sensors** measure magnetic fields, gravity gradients, and accelerations with sensitivity far beyond classical instruments. Applications include medical brain imaging (magnetoencephalography), underground mineral detection in [geology](/geology), and inertial [navigation](/navigation) for submarines.
 
-**Optical frequency combs** (Nobel Prize 2005, awarded to John Hall and Theodor Hansch) produce a "ruler" of evenly spaced optical frequencies that enables precision measurement of light frequencies. They're essential for optical atomic clocks, spectroscopy, and telecommunications.
+**Optical frequency combs** (Nobel Prize 2005, awarded to John Hall and Theodor Hansch) produce a "ruler" of evenly spaced optical frequencies that enables precision measurement of light frequencies. They're essential for optical atomic clocks, [spectroscopy](/spectroscopy), and telecommunications.
 
 ### Quantum Imaging
 

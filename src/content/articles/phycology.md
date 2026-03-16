@@ -55,7 +55,7 @@ Phycologists organize algae into several major groups based on evolutionary rela
 
 ### Green Algae (Chlorophyta and Charophyta)
 
-Green algae are the closest relatives of land plants. They share the same photosynthetic pigments (chlorophyll a and b), the same method of storing energy (starch), and similar cell wall chemistry. In fact, land plants evolved from a group of freshwater green algae roughly 470 million years ago. Every tree, flower, and blade of grass is essentially a modified green alga that figured out how to survive on dry land.
+Green algae are the closest relatives of land plants. They share the same photosynthetic pigments (chlorophyll a and b), the same method of storing energy (starch), and similar cell wall [chemistry](/chemistry). In fact, land plants evolved from a group of freshwater green algae roughly 470 million years ago. Every tree, flower, and blade of grass is essentially a modified green alga that figured out how to survive on dry land.
 
 Green algae range from single-celled species like *Chlamydomonas* (used extensively in genetics research --- it has about 17,000 genes) to colonial forms like *Volvox* (a hollow sphere of cells that's one of the simplest examples of cell specialization) to multicellular seaweeds like sea lettuce (*Ulva*).
 
@@ -89,9 +89,9 @@ When diatoms die, their glass shells sink and accumulate on ocean floors. Over m
 
 Dinoflagellates are single-celled organisms with two whip-like flagella. Many photosynthesize, but some are predators, some are parasites, and some can switch between modes. They're the chameleons of the algae world.
 
-Certain dinoflagellates produce bioluminescence --- the ghostly blue glow you sometimes see in ocean waves at night. Others form symbiotic relationships with corals (as zooxanthellae), providing the coral with nutrients through photosynthesis. When ocean temperatures rise, corals expel these symbionts, causing coral bleaching --- one of the most visible consequences of climate change.
+Certain dinoflagellates produce bioluminescence --- the ghostly blue glow you sometimes see in ocean waves at night. Others form symbiotic relationships with corals (as zooxanthellae), providing the coral with nutrients through photosynthesis. When ocean temperatures rise, corals expel these symbionts, causing coral bleaching --- one of the most visible consequences of [climate change](/climate-change).
 
-Some dinoflagellate species produce potent neurotoxins. *Karenia brevis* causes Florida's "red tide" events, killing fish, sickening people, and costing the tourism industry millions. *Alexandrium* species produce saxitoxin, which accumulates in shellfish and can cause paralytic shellfish poisoning in humans --- eating contaminated mussels or clams can be fatal.
+Some dinoflagellate species produce potent neurotoxins. *Karenia brevis* causes Florida's "red tide" events, killing fish, sickening people, and costing the [tourism](/tourism) industry millions. *Alexandrium* species produce saxitoxin, which accumulates in shellfish and can cause paralytic shellfish poisoning in humans --- eating contaminated mussels or clams can be fatal.
 
 ### Cyanobacteria (Blue-Green Algae)
 
@@ -109,13 +109,13 @@ Phycology isn't just cataloging species. Researchers in this field work on some 
 
 Algae are central to the global carbon cycle. Phytoplankton (microscopic algae floating in the ocean) fix roughly 50 billion metric tons of carbon per year through photosynthesis --- comparable to all terrestrial plants combined. Understanding how algal communities respond to warming oceans, ocean acidification, and changing nutrient availability is critical for climate modeling.
 
-The "biological pump" --- where phytoplankton fix carbon at the surface, die, and sink to the deep ocean --- sequesters carbon for centuries. Changes in phytoplankton productivity could accelerate or slow climate change in ways current models struggle to predict.
+The "biological pump" --- where phytoplankton fix carbon at the surface, die, and sink to the deep ocean --- sequesters carbon for centuries. Changes in phytoplankton [productivity](/productivity) could accelerate or slow climate change in ways current models struggle to predict.
 
 ### Biofuels and Biotechnology
 
 Algae grow fast, don't need arable land, and some species produce lipids (oils) at 20-50% of their dry weight. This makes them theoretically ideal for biofuel production. The US Department of Energy's Aquatic Species Program (1978-1996) identified thousands of algal strains suitable for biodiesel production.
 
-The challenge is economics. Growing algae in open ponds is cheap but prone to contamination. Growing them in closed photobioreactors is controllable but expensive. Despite billions of dollars in investment, algal biofuel remains roughly 2-3 times more expensive than fossil diesel at current production scales.
+The challenge is [economics](/economics). Growing algae in open ponds is cheap but prone to contamination. Growing them in closed photobioreactors is controllable but expensive. Despite billions of dollars in investment, algal biofuel remains roughly 2-3 times more expensive than fossil diesel at current production scales.
 
 Beyond fuel, algae are used to produce astaxanthin (a powerful antioxidant worth about $7,000/kg), omega-3 fatty acids, spirulina (a protein-rich food supplement), and beta-carotene. The global algae products market was valued at roughly $5.3 billion in 2023.
 
@@ -123,7 +123,7 @@ Beyond fuel, algae are used to produce astaxanthin (a powerful antioxidant worth
 
 Harmful algal blooms (HABs) are increasing in frequency, duration, and severity worldwide. Climate change, agricultural runoff, and urbanization all contribute. Phycologists work to understand bloom dynamics, predict outbreaks, detect toxins, and develop mitigation strategies.
 
-Freshwater HABs are particularly concerning because they threaten drinking water supplies. In 2025, HABs were documented in all 50 US states. The economic costs are substantial --- estimated at $2.2-4.6 billion annually in the US alone through impacts on water treatment, fisheries, tourism, and public health.
+Freshwater HABs are particularly concerning because they threaten drinking water supplies. In 2025, HABs were documented in all 50 US states. The economic costs are substantial --- estimated at $2.2-4.6 billion annually in the US alone through impacts on water treatment, fisheries, tourism, and [public health](/public-health).
 
 ### Systematics and Evolution
 
@@ -133,7 +133,7 @@ Phycologists continue to discover and describe new species. Advances in DNA sequ
 
 Humans have used algae for millennia. Japanese cultivation of nori (*Porphyra*) dates back to at least 600 CE. In Wales, *Porphyra* is used to make laverbread, a traditional food. Irish moss has been harvested from the coasts of Ireland and New England for centuries.
 
-Algae also appear in less obvious places. Agar, extracted from red algae, is used in microbiology laboratories worldwide as a medium for growing bacteria (Robert Koch used it in 1882 to isolate the tuberculosis bacterium). Alginates from brown algae are used in textile printing, paper manufacturing, and wound dressings. Diatomaceous earth is used in beer and wine filtration.
+Algae also appear in less obvious places. Agar, extracted from red algae, is used in [microbiology](/microbiology) laboratories worldwide as a medium for growing bacteria (Robert Koch used it in 1882 to isolate the tuberculosis bacterium). Alginates from brown algae are used in textile printing, paper manufacturing, and wound dressings. Diatomaceous earth is used in beer and wine filtration.
 
 The discovery that algal pigments like beta-carotene and astaxanthin are potent antioxidants has spurred a nutraceutical industry worth billions. Spirulina (*Arthrospira platensis*) has been consumed since at least the time of the Aztecs, who harvested it from Lake Texcoco.
 
@@ -141,11 +141,11 @@ The discovery that algal pigments like beta-carotene and astaxanthin are potent 
 
 Phycology intersects with numerous disciplines. [Marine biology](/marine-biology) and [oceanography](/oceanography) rely on phycological research to understand ocean productivity and food webs. [Ecology](/ecology) uses algal community structure as an indicator of ecosystem health. [Environmental science](/environmental-science) addresses the causes and consequences of harmful algal blooms. [Biotechnology](/biotechnology) explores algae as sources of valuable products. [Genetics](/genetics) and [evolutionary biology](/evolutionary-biology) use algae as model organisms for understanding photosynthesis, endosymbiosis, and multicellular evolution.
 
-If the marine ecosystems angle interests you most, [marine biology](/marine-biology) is the natural companion. For the broader picture of how organisms interact with their environments, [ecology](/ecology) goes deeper. And if microscopic life in the oceans is your thing, planktonology --- the study of planktonic organisms --- covers both algal and animal plankton.
+If the marine ecosystems angle interests you most, [marine biology](/marine-biology) is the natural companion. For the broader picture of how organisms interact with their environments, [ecology](/ecology) goes deeper. And if microscopic life in the oceans is your thing, [planktonology](/planktonology) --- the study of planktonic organisms --- covers both algal and animal plankton.
 
 ## Why Phycology Matters Now More Than Ever
 
-We're living through a period when understanding algae is becoming urgent. Climate change is reshaping algal communities in ways that affect global oxygen production, carbon cycling, and fisheries. Harmful algal blooms are intensifying, threatening drinking water and coastal economies. And the search for sustainable food, fuel, and materials keeps bringing researchers back to organisms that have been photosynthesizing for 3 billion years.
+We're living through a period when understanding algae is becoming urgent. Climate change is reshaping algal communities in ways that affect global oxygen production, carbon [cycling](/cycling), and fisheries. Harmful algal blooms are intensifying, threatening drinking water and coastal economies. And the search for sustainable food, fuel, and materials keeps bringing researchers back to organisms that have been photosynthesizing for 3 billion years.
 
 Algae are easy to overlook. They're mostly microscopic, they live in water, and they don't have the charisma of polar bears or the grandeur of redwoods. But in terms of sheer planetary importance --- keeping the atmosphere breathable, the oceans productive, and the carbon cycle functioning --- few groups of organisms matter more.
 

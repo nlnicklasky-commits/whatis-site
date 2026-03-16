@@ -35,7 +35,7 @@ faq:
 
 # What Is Sports History?
 
-Sports history is the study of how organized physical competition developed across human civilizations — from ancient ritual games tied to religion and warfare to the trillion-dollar global entertainment industry we know today. It examines not just what happened on the field but how sports reflected and influenced broader social changes: race relations, gender equality, nationalism, [economics](/economics), and technology.
+Sports history is the study of how organized physical competition developed across human civilizations — from ancient ritual games tied to [religion](/religion) and warfare to the trillion-dollar global entertainment industry we know today. It examines not just what happened on the field but how sports reflected and influenced broader social changes: race relations, gender equality, nationalism, [economics](/economics), and technology.
 
 ## Ancient Origins: More Than Just Games
 
@@ -57,19 +57,19 @@ After Rome fell, organized sports in Europe went through a quiet period — but 
 
 **Jousting and tournaments** were the prestige sports of the aristocracy. These evolved from practical cavalry training into elaborate spectacles with formal rules, heralds, and [pageantry](/pageantry). They were also genuinely dangerous — King Henry II of France was killed in a jousting accident in 1559.
 
-**Folk football** — a chaotic, violent precursor to modern football and rugby — was played across medieval England. Entire villages competed against each other with few rules, no set boundaries, and regular injuries and deaths. English kings repeatedly tried to ban it (Edward II in 1314, Edward III in 1349) because it distracted men from archery practice. The bans never worked.
+**Folk football** — a chaotic, violent precursor to modern football and [rugby](/rugby) — was played across medieval England. Entire villages competed against each other with few rules, no set boundaries, and regular injuries and deaths. English kings repeatedly tried to ban it (Edward II in 1314, Edward III in 1349) because it distracted men from [archery](/archery) practice. The bans never worked.
 
-In other parts of the world, sporting traditions continued their own development. **Sumo** [wrestling](/wrestling) in Japan had formalized rituals by the 8th century. **Polo** spread from Persia across Central Asia to China and India. **Lacrosse**, played by Indigenous peoples across North America, involved hundreds of players on a field that could stretch for miles.
+In other parts of the world, sporting traditions continued their own development. **Sumo** [wrestling](/wrestling) in Japan had formalized rituals by the 8th century. **Polo** spread from Persia across Central Asia to China and India. **[Lacrosse](/lacrosse)**, played by Indigenous peoples across North America, involved hundreds of players on a field that could stretch for miles.
 
 ## The Birth of Modern Sports (18th-19th Century)
 
 Modern sports — with standardized rules, governing bodies, and organized leagues — are largely a product of 18th and 19th-century Britain. This isn't coincidence. Britain had the right combination of factors: urbanization created concentrated populations needing recreation, industrialization created leisure time (at least for the middle and upper classes), and the public school system used sports as character-building tools.
 
-**Cricket** was the first sport to develop formal rules (1744) and a professional class of players. **[Horse racing](/horse-racing)** organized the Jockey Club in 1750. **Boxing** got its first set of formal rules (the Broughton Rules) in 1743, later refined by the Marquess of Queensberry Rules in 1867.
+**Cricket** was the first sport to develop formal rules (1744) and a professional class of players. **[Horse racing](/horse-racing)** organized the Jockey Club in 1750. **[Boxing](/boxing)** got its first set of formal rules (the Broughton Rules) in 1743, later refined by the Marquess of Queensberry Rules in 1867.
 
-The big breakthrough was **association football** (soccer). The Football Association was founded in 1863 in London, finally standardizing rules that had varied wildly from place to place. The English Football League, the world's first professional football league, began play in 1888. From Britain, association football spread globally with astonishing speed — by 1900, it was played on every continent.
+The big breakthrough was **association football** ([soccer](/soccer)). The Football Association was founded in 1863 in London, finally standardizing rules that had varied wildly from place to place. The English Football League, the world's first professional football league, began play in 1888. From Britain, association football spread globally with astonishing speed — by 1900, it was played on every continent.
 
-Across the Atlantic, Americans were developing their own sports. **Baseball** — likely evolved from the English game of rounders, despite the persistent myth of Abner Doubleday inventing it — had professional leagues by the 1870s. The National League was founded in 1876. **[American football](/american-football)** evolved from rugby at Ivy League universities in the 1870s-1880s, with Walter Camp (the "Father of American Football") establishing the rules that distinguish it from rugby. **[Basketball](/basketball)** was literally invented by James Naismith in 1891 at a YMCA training school in Springfield, Massachusetts — one of the few major sports with a documented, indisputable origin story.
+Across the Atlantic, Americans were developing their own sports. **[Baseball](/baseball)** — likely evolved from the English game of rounders, despite the persistent myth of Abner Doubleday inventing it — had professional leagues by the 1870s. The National League was founded in 1876. **[American football](/american-football)** evolved from rugby at Ivy League universities in the 1870s-1880s, with Walter Camp (the "Father of American Football") establishing the rules that distinguish it from rugby. **[Basketball](/basketball)** was literally invented by James Naismith in 1891 at a YMCA training school in Springfield, Massachusetts — one of the few major sports with a documented, indisputable origin story.
 
 ## The Modern Olympics Revival
 
@@ -103,7 +103,7 @@ Player salaries followed the money. In 1970, the average MLB salary was about $2
 
 The internet and social media have disrupted traditional sports media, giving athletes direct access to fans and creating new forms of sports content. Fantasy sports and sports betting — legalized in the U.S. by a 2018 Supreme Court decision — have changed how fans engage with games.
 
-**Esports** — competitive video gaming — has emerged as a genuine sporting phenomenon, with professional leagues, multi-million-dollar prize pools, and viewership numbers that rival traditional sports among younger demographics. Whether esports "count" as sports is debated, but the competitive infrastructure, training regimens, and audience engagement are undeniably real.
+**Esports** — competitive video [gaming](/gaming) — has emerged as a genuine sporting phenomenon, with professional leagues, multi-million-dollar prize pools, and viewership numbers that rival traditional sports among younger demographics. Whether esports "count" as sports is debated, but the competitive infrastructure, training regimens, and audience engagement are undeniably real.
 
 Analytics have transformed how sports are played and managed. Baseball's "Moneyball" revolution, pioneered by the Oakland Athletics in the early 2000s, showed that statistical analysis could identify undervalued players. Every major sport has since adopted data analytics, and the gap between data-driven organizations and traditional ones continues to grow.
 

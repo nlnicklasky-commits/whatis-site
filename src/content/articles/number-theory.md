@@ -35,7 +35,7 @@ faq:
 
 # What Is Number Theory?
 
-Number theory is the branch of mathematics devoted to studying integers — whole numbers and their properties, patterns, and relationships. It asks questions that sound deceptively simple: Which numbers are prime? How are primes distributed? Can every even number greater than 2 be expressed as the sum of two primes? These questions are easy to ask, often easy to understand, and frequently extraordinarily hard to answer.
+Number theory is the branch of [mathematics](/mathematics) devoted to studying integers — whole numbers and their properties, patterns, and relationships. It asks questions that sound deceptively simple: Which numbers are prime? How are primes distributed? Can every even number greater than 2 be expressed as the sum of two primes? These questions are easy to ask, often easy to understand, and frequently extraordinarily hard to answer.
 
 Carl Friedrich Gauss — arguably the greatest mathematician who ever lived — called number theory the "queen of mathematics." That's not just poetic flattery. Number theory sits at the foundation of mathematics itself, and its problems have driven the development of entirely new mathematical fields. It's also, somewhat ironically for a branch of "pure" math, responsible for the security of every online transaction you've ever made.
 
@@ -135,7 +135,7 @@ Zhang's story is remarkable on its own terms. He was a relatively unknown mathem
 
 Pierre de Fermat claimed in 1637 that x^n + y^n = z^n has no integer solutions for n > 2. He wrote in his copy of Diophantus: "I have discovered a truly marvelous proof of this, which this margin is too narrow to contain." That margin note launched 358 years of mathematical effort.
 
-Andrew Wiles finally proved it in 1995 using techniques from [abstract algebra](/abstract-algebra), algebraic geometry, and the theory of modular forms — mathematical machinery that didn't exist in Fermat's time. Almost no mathematician believes Fermat actually had a correct proof. But his conjecture inspired three and a half centuries of extraordinary mathematics.
+Andrew Wiles finally proved it in 1995 using techniques from [abstract algebra](/abstract-algebra), algebraic [geometry](/geometry), and the theory of modular forms — mathematical machinery that didn't exist in Fermat's time. Almost no mathematician believes Fermat actually had a correct proof. But his conjecture inspired three and a half centuries of extraordinary mathematics.
 
 ### The abc Conjecture
 
@@ -147,7 +147,7 @@ The field has grown enormously and now encompasses several distinct sub-areas.
 
 ### Analytic Number Theory
 
-Uses tools from calculus and complex analysis to study the distribution of primes and other arithmetic functions. The prime number theorem and the Riemann Hypothesis both belong here. Dirichlet's theorem that every arithmetic progression a, a+d, a+2d, ... (where a and d share no common factor) contains infinitely many primes is a classic result.
+Uses tools from [calculus](/calculus) and [complex analysis](/complex-analysis) to study the distribution of primes and other arithmetic functions. The prime number theorem and the Riemann Hypothesis both belong here. Dirichlet's theorem that every arithmetic progression a, a+d, a+2d, ... (where a and d share no common factor) contains infinitely many primes is a classic result.
 
 ### Algebraic Number Theory
 
@@ -163,19 +163,19 @@ Studies questions about representing numbers as sums. Goldbach's conjecture belo
 
 ### Arithmetic Geometry
 
-Combines number theory with algebraic geometry. Wiles's proof of Fermat's Last Theorem used tools from this area. The Langlands Program — sometimes called a "grand unified theory of mathematics" — connects number theory, algebra, geometry, and analysis in ways that are still being explored.
+Combines number theory with algebraic geometry. Wiles's proof of Fermat's Last Theorem used tools from this area. The Langlands Program — sometimes called a "grand unified theory of mathematics" — connects number theory, [algebra](/algebra), geometry, and analysis in ways that are still being explored.
 
 ## Number Theory and Computer Science
 
 The connections between number theory and [computer science](/computer-science) run deep.
 
-**Complexity theory** cares about number-theoretic problems because they provide natural examples of problems that appear hard but whose difficulty hasn't been proven. Integer factoring, for instance, is believed to be hard for classical computers but not NP-complete. It's in a mysterious computational no-man's-land.
+**[Complexity theory](/complexity-theory)** cares about number-theoretic problems because they provide natural examples of problems that appear hard but whose difficulty hasn't been proven. Integer factoring, for instance, is believed to be hard for classical computers but not NP-complete. It's in a mysterious computational no-man's-land.
 
-**Quantum computing** threatens to upend number-theoretic cryptography. Shor's algorithm, running on a sufficiently powerful quantum computer, could factor large integers in polynomial time, breaking RSA. This is why the cryptographic community is developing post-quantum cryptographic systems — many of which, interestingly, are based on different number-theoretic structures (like lattice problems) believed to resist quantum attacks.
+**[Quantum computing](/quantum-computing)** threatens to upend number-theoretic cryptography. Shor's algorithm, [running](/running) on a sufficiently powerful quantum computer, could factor large integers in polynomial time, breaking RSA. This is why the cryptographic community is developing post-quantum cryptographic systems — many of which, interestingly, are based on different number-theoretic structures (like lattice problems) believed to resist quantum attacks.
 
 **Coding theory** uses number-theoretic constructions for error detection and correction. The check digits on your credit card, ISBN, and UPC codes all use modular arithmetic.
 
-**Hash tables**, the workhorse data structure of software engineering, rely on modular arithmetic to distribute data evenly across memory locations.
+**Hash tables**, the workhorse data structure of [software engineering](/software-engineering), rely on modular arithmetic to distribute data evenly across memory locations.
 
 ## How to Study Number Theory
 
@@ -189,7 +189,7 @@ The subject rewards experimentation. Many number-theoretic patterns become visib
 
 Here's the thing about number theory that makes it unique among mathematical disciplines: it manages to be simultaneously the most ancient, the most abstract, the most beautiful, and the most practically important branch of mathematics.
 
-When G.H. Hardy wrote in 1940 that number theory was "gentle and clean" precisely because it had no practical applications, he was spectacularly wrong. RSA encryption was 37 years away. Hardy would have been horrified — he explicitly celebrated number theory's uselessness. But the history of mathematics repeatedly shows that abstract work, pursued for its own beauty, eventually finds applications nobody predicted.
+When G.H. Hardy wrote in 1940 that number theory was "gentle and clean" precisely because it had no practical applications, he was spectacularly wrong. RSA encryption was 37 years away. Hardy would have been horrified — he explicitly celebrated number theory's uselessness. But [the history of mathematics](/the-history-of-mathematics) repeatedly shows that abstract work, pursued for its own beauty, eventually finds applications nobody predicted.
 
 The integers are the simplest mathematical objects. The questions we ask about them are often the simplest mathematical questions. And yet these simple questions lead to the deepest mathematics humans have ever conceived. That combination of accessibility and depth — problems a child can state that a genius can't solve — is what gives number theory its special place in [mathematics](/applied-mathematics) and in human intellectual culture.
 

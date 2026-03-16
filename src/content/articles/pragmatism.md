@@ -41,11 +41,11 @@ Pragmatism is a philosophical tradition that evaluates ideas, beliefs, and theor
 
 ## The Origin Story Nobody Expected
 
-Pragmatism started, of all places, in a small discussion club. In the early 1870s, a group of young intellectuals in Cambridge, Massachusetts formed what they half-jokingly called "The Metaphysical Club." Among them were Charles Sanders Peirce, a brilliant but eccentric logician, and William James, a psychologist-turned-philosopher who would become one of the most famous thinkers in American history.
+Pragmatism started, of all places, in a small discussion club. In the early 1870s, a group of young intellectuals in Cambridge, Massachusetts formed what they half-jokingly called "The Metaphysical Club." Among them were Charles Sanders Peirce, a brilliant but eccentric logician, and William James, a psychologist-turned-philosopher who would become one of the most famous thinkers in [American history](/american-history).
 
 Peirce introduced the core idea in an 1878 paper called "How to Make Our Ideas Clear." His argument was startlingly simple: if you want to understand what a concept really means, look at what practical effects it produces. The entire meaning of a concept, Peirce argued, consists of the practical consequences you'd expect from it. If two ideas produce identical practical effects, then the "difference" between them is meaningless — just verbal noise.
 
-This was a direct challenge to centuries of European philosophy. Philosophers had spent generations debating whether abstract categories were "real" or whether the external world truly existed. Peirce essentially said: if the answer doesn't change anything about how you act or what you experience, the question isn't worth fighting about.
+This was a direct challenge to centuries of European [philosophy](/philosophy). Philosophers had spent generations debating whether abstract categories were "real" or whether the external world truly existed. Peirce essentially said: if the answer doesn't change anything about how you act or what you experience, the question isn't worth fighting about.
 
 James took this seed and grew it into something much bigger. In a series of wildly popular lectures around 1907, he presented pragmatism as a method for settling philosophical disputes and — more controversially — as a theory of truth itself.
 
@@ -83,7 +83,7 @@ Peirce's pragmatism is more compatible with scientific practice than James's ver
 
 ### Charles Sanders Peirce (1839-1914)
 
-Peirce (pronounced "purse," not "pierce" — a fact that endlessly annoyed him) was arguably the most brilliant of the three founders and certainly the most tragic. He was a polymath who made original contributions to [mathematical logic](/mathematical-logic), semiotics, [probability theory](/probability-theory), and the philosophy of science. He developed an entire system of existential graphs that anticipated many ideas in modern logic. His classification of signs is still used in linguistics and [communication theory](/communication-theory) today.
+Peirce (pronounced "purse," not "pierce" — a fact that endlessly annoyed him) was arguably the most brilliant of the three founders and certainly the most tragic. He was a polymath who made original contributions to [mathematical logic](/mathematical-logic), semiotics, [probability theory](/probability-theory), and the philosophy of science. He developed an entire system of existential graphs that anticipated many ideas in modern logic. His classification of signs is still used in [linguistics](/linguistics) and [communication theory](/communication-theory) today.
 
 But Peirce was also difficult. He alienated colleagues, burned through jobs, and spent his later years in poverty. Johns Hopkins fired him for what were essentially personal reasons. He never held a permanent academic position and died impoverished in 1914, with thousands of pages of unpublished manuscripts.
 
@@ -93,7 +93,7 @@ His version of pragmatism — which he eventually renamed "pragmaticism" (a word
 
 James was the rockstar. Brother of novelist Henry James, son of a wealthy theologian, trained as a medical doctor, and the founder of American [psychology](/psychology) — James was charismatic, generous, and wrote beautifully. His book *Pragmatism* (1907) became a bestseller and introduced the philosophy to a global audience.
 
-Where Peirce was systematic and careful, James was passionate and expansive. He applied pragmatism to questions of religion, [ethics](/ethics), and personal meaning. His *The Varieties of Religious Experience* (1902) used pragmatic principles to argue that religious experiences should be judged by their fruits — by whether they make people healthier, happier, and more morally engaged — rather than by their theological accuracy.
+Where Peirce was systematic and careful, James was passionate and expansive. He applied pragmatism to questions of [religion](/religion), [ethics](/ethics), and personal meaning. His *The Varieties of Religious Experience* (1902) used pragmatic principles to argue that religious experiences should be judged by their fruits — by whether they make people healthier, happier, and more morally engaged — rather than by their theological accuracy.
 
 James also developed the concept of "radical empiricism," arguing that experience is the fundamental stuff of reality — not matter, not mind, but pure experience from which both physical and mental categories emerge. This was a genuinely original metaphysical position, and it influenced everyone from Bertrand Russell to modern phenomenologists.
 
@@ -105,9 +105,9 @@ Dewey was the builder. While Peirce theorized and James popularized, Dewey appli
 
 Dewey's [philosophy of education](/philosophy-of-education) — which he called "instrumentalism" — held that learning should be active, experiential, and connected to real problems. Children shouldn't sit in rows memorizing facts; they should investigate, experiment, and collaborate. Knowledge isn't something you receive passively — it's something you construct through doing.
 
-This sounds obvious now, but in 1900 it was radical. Dewey's Laboratory School at the University of Chicago (founded in 1896) became a model for progressive education worldwide. His book *Democracy and Education* (1916) argued that education and democracy are deeply connected: democratic citizens need the habit of thinking critically, testing ideas, and revising beliefs — precisely the habits pragmatism cultivates.
+This sounds obvious now, but in 1900 it was radical. Dewey's Laboratory School at the University of Chicago (founded in 1896) became a model for progressive [education](/education) worldwide. His book *Democracy and Education* (1916) argued that education and democracy are deeply connected: democratic citizens need the habit of thinking critically, testing ideas, and revising beliefs — precisely the habits pragmatism cultivates.
 
-Dewey also applied pragmatism to social and [political philosophy](/political-philosophy). He argued against rigid ideological categories — capitalism versus socialism, individualism versus collectivism — and insisted that social problems required experimental solutions. Try something, see if it works, adjust. This approach influenced the New Deal and continues to influence evidence-based policy today.
+Dewey also applied pragmatism to social and [political philosophy](/political-philosophy). He argued against rigid ideological categories — [capitalism](/capitalism) versus [socialism](/socialism), individualism versus collectivism — and insisted that social problems required experimental solutions. Try something, see if it works, adjust. This approach influenced the New Deal and continues to influence evidence-based policy today.
 
 ## What Pragmatism Isn't
 
@@ -119,11 +119,11 @@ People hear "what works is true" and assume pragmatism endorses anything that ac
 
 ### It's Not Anti-Intellectual
 
-Pragmatism doesn't reject theory — it rejects theory divorced from practice. Peirce was one of the most rigorous logicians of the 19th century. Dewey wrote detailed analyses of aesthetic experience, logic, and metaphysics. Pragmatists love ideas. They just insist that ideas earn their keep by making a difference.
+Pragmatism doesn't reject theory — it rejects theory divorced from practice. Peirce was one of the most rigorous logicians of the 19th century. Dewey wrote detailed analyses of aesthetic experience, logic, and [metaphysics](/metaphysics). Pragmatists love ideas. They just insist that ideas earn their keep by making a difference.
 
 ### It's Not Relativism
 
-Pragmatism doesn't say "your truth is as good as mine." It says ideas should be tested against experience and evidence. Some ideas survive testing better than others. A flat-earther's beliefs fail pragmatically — they lead to wrong predictions, useless maps, and failed navigation. The pragmatic test is demanding, not permissive.
+Pragmatism doesn't say "your truth is as good as mine." It says ideas should be tested against experience and evidence. Some ideas survive testing better than others. A flat-earther's beliefs fail pragmatically — they lead to wrong predictions, useless maps, and failed [navigation](/navigation). The pragmatic test is demanding, not permissive.
 
 ### It's Not Just American Optimism
 
@@ -131,7 +131,7 @@ There's a stereotype that pragmatism is just American can-do spirit dressed up i
 
 ## Pragmatism's Influence on the Modern World
 
-Here's what most people miss: pragmatism didn't just influence philosophy. It reshaped how we think about science, education, law, politics, and even technology.
+Here's what most people miss: pragmatism didn't just influence philosophy. It reshaped how we think about science, education, law, [politics](/politics), and even technology.
 
 ### Science and the Scientific Method
 
@@ -141,7 +141,7 @@ The idea that scientific theories are tools for prediction rather than mirrors o
 
 ### Law and Legal Pragmatism
 
-Oliver Wendell Holmes Jr., a member of the original Metaphysical Club, brought pragmatism into American jurisprudence. His famous dictum — "The life of the law has not been logic; it has been experience" — is pure pragmatism. Law isn't a system of abstract principles deduced from first principles. It's a living body of rules that evolve based on their practical consequences.
+Oliver Wendell Holmes Jr., a member of the original Metaphysical Club, brought pragmatism into American [jurisprudence](/jurisprudence). His famous dictum — "The life of the law has not been logic; it has been experience" — is pure pragmatism. Law isn't a system of abstract principles deduced from first principles. It's a living body of rules that evolve based on their practical consequences.
 
 This influenced the entire Legal Realism movement and continues to shape how judges think about constitutional interpretation. When a judge considers the real-world effects of a ruling rather than just its logical consistency, they're thinking pragmatically.
 
@@ -159,7 +159,7 @@ Design thinking, prototyping, minimum viable products, A/B testing — all of th
 
 ### Politics and Policy
 
-Pragmatism shaped American political culture in ways that are so deep they're invisible. The idea that policy should be judged by results rather than ideological purity? Pragmatism. Evidence-based policymaking? Pragmatism. The American distrust of rigid political ideologies? Partly pragmatism.
+Pragmatism shaped American political culture in ways that are so deep they're invisible. The idea that policy should be judged by results rather than ideological purity? Pragmatism. Evidence-based policymaking? Pragmatism. The American distrust of rigid political [ideologies](/ideologies)? Partly pragmatism.
 
 Dewey argued that democracy itself is a pragmatic experiment — a society's ongoing effort to solve problems through collective inquiry. This view influenced progressive politics, the social sciences, and the modern emphasis on data-driven governance.
 
@@ -173,11 +173,11 @@ Rorty was the most controversial. A former analytic philosopher, he turned to pr
 
 Rorty drew on James and Dewey to argue that the distinction between objective truth and subjective opinion is less clear than we think. He didn't deny that some beliefs work better than others — he denied that "working better" needs a metaphysical explanation beyond the social practices of the community using those beliefs.
 
-This made him enormously controversial. Scientists accused him of undermining the objectivity of science. Traditional philosophers accused him of nihilism. But Rorty's influence on literary theory, political philosophy, and cultural studies has been enormous.
+This made him enormously controversial. Scientists accused him of undermining the objectivity of science. Traditional philosophers accused him of [nihilism](/nihilism). But Rorty's influence on [literary theory](/literary-theory), political philosophy, and cultural studies has been enormous.
 
 ### Hilary Putnam (1926-2016)
 
-Putnam offered a more moderate neo-pragmatism. He argued that facts and values are entangled — you can't have a purely value-free description of reality, and you can't have values that are completely disconnected from facts. This "collapse of the fact/value dichotomy" is a deeply pragmatist insight with real implications for how we think about science, [ethics](/ethics), and public policy.
+Putnam offered a more moderate neo-pragmatism. He argued that facts and values are entangled — you can't have a purely value-free description of reality, and you can't have values that are completely disconnected from facts. This "collapse of the fact/value dichotomy" is a deeply pragmatist insight with real implications for how we think about science, [ethics](/ethics), and [public policy](/public-policy).
 
 ### Robert Brandom and Huw Price
 
@@ -199,7 +199,7 @@ This is trickier, because pragmatists are empiricists in many ways — they insi
 
 ### Pragmatism vs. Existentialism
 
-Both traditions emphasize human agency and reject predetermined truths. But existentialism focuses on individual authenticity and the anxiety of freedom, while pragmatism is more socially oriented and optimistic. Dewey's pragmatism, in particular, is about communities solving problems together, not solitary individuals confronting absurdity.
+Both traditions emphasize human agency and reject predetermined truths. But [existentialism](/existentialism) focuses on individual authenticity and the anxiety of freedom, while pragmatism is more socially oriented and optimistic. Dewey's pragmatism, in particular, is about communities solving problems together, not solitary individuals confronting absurdity.
 
 ## Criticisms That Actually Land
 

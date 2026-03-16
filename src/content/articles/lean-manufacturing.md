@@ -79,7 +79,7 @@ Excess raw materials, work-in-progress, or finished goods beyond what's immediat
 
 ### 6. Motion
 
-Unnecessary physical movement by workers—reaching, bending, walking, searching for tools. This waste is often invisible because people have done it for so long they consider it normal. Ergonomic analysis and workplace organization can dramatically reduce motion waste.
+Unnecessary physical movement by workers—reaching, bending, [walking](/walking), searching for tools. This waste is often invisible because people have done it for so long they consider it normal. Ergonomic analysis and workplace organization can dramatically reduce motion waste.
 
 ### 7. Defects
 
@@ -89,7 +89,7 @@ Products that don't meet quality standards require rework, scrap, or warranty cl
 
 This eighth waste was added later and refers to the failure to use employees' knowledge, creativity, and skills. When a factory worker sees a better way to do something but has no mechanism to suggest it, that's waste. When an engineer spends half their time on paperwork instead of [engineering](/engineering), that's waste.
 
-Toyota's suggestion system received over 700,000 improvement ideas from employees in a single year, and implemented roughly 99% of them. Most were small—move a tool rack six inches closer, change the angle of a welding jig—but they accumulated into enormous competitive advantage.
+Toyota's suggestion system received over 700,000 improvement ideas from employees in a single year, and implemented roughly 99% of them. Most were small—move a tool rack six inches closer, change the angle of a [welding](/welding) jig—but they accumulated into enormous competitive advantage.
 
 ## The Five Principles of Lean Thinking
 

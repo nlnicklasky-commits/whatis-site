@@ -35,15 +35,15 @@ faq:
 
 # What Is Engineering History?
 
-Engineering history is the study of how humans have designed, built, and improved the structures, machines, and systems that shape civilization. It tracks the progression from Stone Age tools to semiconductor chips — and the people, problems, and breakthroughs that drove each step forward.
+[Engineering](/engineering) history is the study of how humans have designed, built, and improved the structures, machines, and systems that shape civilization. It tracks the progression from Stone Age tools to semiconductor chips — and the people, problems, and breakthroughs that drove each step forward.
 
 ## Before the Word "Engineer" Existed
 
 Humans have been engineering things for far longer than the word has existed. The term "engineer" comes from the Latin *ingenium* — meaning cleverness or innate quality — but the practice goes back to the first person who sharpened a rock or built a shelter.
 
-The earliest known engineered structure is Gobekli Tepe in modern Turkey, dating to roughly 9500 BCE. Massive carved stone pillars, some weighing 10 tons, were erected by people who hadn't even invented pottery yet. We still don't fully understand how they did it.
+The earliest known engineered structure is Gobekli Tepe in modern Turkey, dating to roughly 9500 BCE. Massive carved stone pillars, some weighing 10 tons, were erected by people who hadn't even invented [pottery](/pottery) yet. We still don't fully understand how they did it.
 
-By 3000 BCE, engineers in Mesopotamia were building irrigation canals to control the Tigris and Euphrates rivers. The Egyptians were constructing pyramids. The Indus Valley civilization had planned cities with standardized brick sizes and sophisticated drainage systems. None of these builders called themselves engineers. But that's exactly what they were.
+By 3000 BCE, engineers in Mesopotamia were building [irrigation](/irrigation) canals to control the Tigris and Euphrates rivers. The Egyptians were constructing pyramids. The Indus Valley civilization had planned cities with standardized brick sizes and sophisticated drainage systems. None of these builders called themselves engineers. But that's exactly what they were.
 
 ### Imhotep — The First Engineer We Can Name
 
@@ -71,7 +71,7 @@ Chinese engineers also invented the chain pump, the blast furnace, and the segme
 
 The popular image of the Middle Ages as a technological wasteland is flat wrong. Medieval engineers developed the heavy plow, the horse collar, the windmill, the mechanical clock, and the Gothic arch — each of which changed how people lived.
 
-Gothic cathedrals, in particular, were engineering marvels. Builders figured out that pointed arches, ribbed vaults, and flying buttresses could redistribute weight so effectively that walls could be thinner and filled with enormous stained glass windows. Notre-Dame de Paris (begun 1163) and Chartres Cathedral (begun 1194) pushed the boundaries of what stone construction could achieve.
+Gothic cathedrals, in particular, were engineering marvels. Builders figured out that pointed arches, ribbed vaults, and flying buttresses could redistribute weight so effectively that walls could be thinner and filled with enormous [stained glass](/stained-glass) windows. Notre-Dame de Paris (begun 1163) and Chartres Cathedral (begun 1194) pushed the boundaries of what stone [construction](/construction) could achieve.
 
 The funny thing is, these medieval builders had no formal [mathematics](/calculus) to guide them. They relied on geometric rules of thumb passed down through craft guilds. The fact that these structures still stand — despite being designed without stress calculations — says something about the value of accumulated practical knowledge.
 
@@ -87,13 +87,13 @@ If you had to pick the single most important period in engineering history, it w
 
 ### Steam Power
 
-Thomas Newcomen built the first practical steam engine in 1712 to pump water from coal mines. James Watt improved it dramatically in the 1760s and 1770s, making it efficient enough to power factories. Within decades, steam engines were driving textile mills, locomotives, and steamships.
+Thomas Newcomen built the first practical steam engine in 1712 to pump water from coal mines. James Watt improved it dramatically in the 1760s and 1770s, making it efficient enough to power factories. Within decades, [steam engines](/steam-engines) were driving textile mills, locomotives, and steamships.
 
 The numbers tell the story. Before steam, a water-powered mill might produce 100 watts. Watt's engines produced 10,000 watts. That's a hundredfold increase in available power. Manufacturing went from cottages to factories almost overnight.
 
 ### Iron and Steel
 
-Abraham Darby's discovery that coke (processed coal) could replace charcoal in iron smelting — around 1709 — made iron cheap enough to use as a building material. The Iron Bridge at Coalbrookdale (1779) was the first major bridge built entirely of cast iron.
+Abraham Darby's discovery that coke (processed coal) could replace charcoal in iron [smelting](/smelting) — around 1709 — made iron cheap enough to use as a building material. The Iron Bridge at Coalbrookdale (1779) was the first major bridge built entirely of cast iron.
 
 Then came steel. Henry Bessemer's converter (1856) made [steel production](/steel-production) fast and affordable. Andrew Carnegie and others scaled it massively. By 1900, steel-framed buildings were reshaping city skylines. The Brooklyn Bridge (1883) and the Eiffel Tower (1889) showed the world what steel could do.
 
@@ -101,7 +101,7 @@ Then came steel. Henry Bessemer's converter (1856) made [steel production](/stee
 
 John Smeaton was the first person to call himself a "civil engineer" in the 1750s, deliberately distinguishing his work from [military engineering](/aerospace-engineering). The Institution of Civil Engineers was founded in London in 1818. Engineering schools multiplied: the Ecole Polytechnique in Paris (1794), the Rensselaer Polytechnic Institute in the US (1824), and dozens more by mid-century.
 
-Engineering was no longer something you learned as an apprentice. It was a discipline with formal education, professional societies, and ethical standards.
+Engineering was no longer something you learned as an apprentice. It was a discipline with formal [education](/education), professional societies, and ethical standards.
 
 ## The 20th Century — Acceleration on Every Front
 
@@ -109,7 +109,7 @@ The pace of engineering progress in the 1900s is almost hard to comprehend. The 
 
 ### Electrification
 
-The National Academy of Engineering ranked electrification as the greatest engineering achievement of the 20th century, and it's hard to argue. Thomas Edison's Pearl Street Station (1882) supplied electricity to 85 customers in lower Manhattan. By 1930, about 70% of American homes had electricity. The entire structure of modern life — lighting, [refrigeration](/refrigeration), communication, computing — depends on this single infrastructure.
+The National Academy of Engineering ranked electrification as the greatest engineering achievement of the 20th century, and it's hard to argue. Thomas Edison's Pearl Street Station (1882) supplied [electricity](/electricity) to 85 customers in lower Manhattan. By 1930, about 70% of American homes had electricity. The entire structure of modern life — lighting, [refrigeration](/refrigeration), communication, computing — depends on this single infrastructure.
 
 ### Aviation
 
@@ -129,7 +129,7 @@ Each disaster led to better [engineering standards](/civil-engineering), improve
 
 ## Where Engineering History Is Headed
 
-Today's engineering challenges are different from those of previous centuries but no less daunting. Climate change demands a wholesale rethinking of energy infrastructure. Aging bridges, dams, and water systems in developed countries need repair or replacement — the American Society of Civil Engineers gives US infrastructure a C- grade.
+Today's engineering challenges are different from those of previous centuries but no less daunting. [Climate change](/climate-change) demands a wholesale rethinking of energy infrastructure. Aging bridges, dams, and water systems in developed countries need repair or replacement — the American Society of Civil Engineers gives US infrastructure a C- grade.
 
 Meanwhile, [artificial intelligence](/artificial-intelligence) is beginning to augment and sometimes replace traditional engineering methods. Generative design software can explore thousands of structural configurations that no human would think to try. Additive manufacturing (3D printing) is making it possible to build geometries that were previously impossible to fabricate.
 

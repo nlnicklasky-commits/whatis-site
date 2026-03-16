@@ -61,7 +61,7 @@ Games take 2-4 hours depending on army size and experience level. Competitive pl
 
 ## The Painting Hobby
 
-For many Warhammer enthusiasts, painting miniatures is the primary draw — the gaming is secondary. The miniatures are exquisitely detailed plastic kits that require assembly (cutting from sprues, gluing) and painting with acrylic model paints.
+For many Warhammer enthusiasts, [painting](/painting) miniatures is the primary draw — the gaming is secondary. The miniatures are exquisitely detailed plastic kits that require assembly (cutting from sprues, gluing) and painting with acrylic model paints.
 
 The skill ceiling is enormous. Beginners can produce table-ready miniatures with basic techniques: base coating, washing (applying diluted dark paint that settles into recesses to create shadows), and drybrushing (lightly dragging a mostly-dry brush across raised surfaces to create highlights).
 

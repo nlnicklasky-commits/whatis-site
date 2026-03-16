@@ -172,7 +172,7 @@ Either way, the budget creates the extra money. By identifying and reducing disc
 
 ## Business Budgeting: Different Beast, Same Principles
 
-Business budgeting follows the same logic as personal budgeting — estimate income, plan expenses, track actuals, adjust — but with additional complexity.
+Business budgeting follows the same [logic](/logic) as personal budgeting — estimate income, plan expenses, track actuals, adjust — but with additional complexity.
 
 ### Types of Business Budgets
 

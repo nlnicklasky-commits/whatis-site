@@ -39,7 +39,7 @@ Operations research is the discipline of using mathematical models, statistical 
 
 ## Where This All Started
 
-The origin story of operations research is, frankly, pretty dramatic. It was born during World War II when the British military realized they had a problem that brute force couldn't solve: how do you position radar stations to detect incoming German bombers most effectively?
+The origin story of operations research is, frankly, pretty dramatic. It was born during [World War II](/world-war-ii) when the British military realized they had a problem that brute force couldn't solve: how do you position radar stations to detect incoming German bombers most effectively?
 
 In 1937, a team of scientists — physicists, mathematicians, biologists — was assembled to study military operations scientifically. They called it "operational research" (the British spelling stuck in the UK). The results were staggering. One early analysis showed that changing the depth at which anti-submarine charges detonated could triple the kill rate against U-boats. Not by building better weapons. Just by doing the math on when to trigger the ones they already had.
 
@@ -49,7 +49,7 @@ After 1945, these same techniques migrated into business. Companies realized tha
 
 ## The Core Idea: Optimization
 
-At its heart, operations research is about optimization — finding the best solution from a set of feasible alternatives. That sounds simple until you realize what "best" means in practice.
+At its heart, operations research is about [optimization](/optimization) — finding the best solution from a set of feasible alternatives. That sounds simple until you realize what "best" means in practice.
 
 Consider an airline. It needs to assign crews to flights. Each pilot has legal limits on flying hours, mandatory rest periods, qualification requirements for specific aircraft, home base assignments, and vacation schedules. The airline operates 3,000 flights per day. The number of possible crew assignments is astronomically large — more than the number of atoms in the universe.
 
@@ -57,7 +57,7 @@ You can't try every combination. You need a smarter approach. That's what OR pro
 
 ### Linear Programming
 
-Linear programming (LP) is the workhorse of operations research. Developed by George Dantzig in 1947, it solves problems where you're maximizing or minimizing some objective (profit, cost, time) subject to constraints, and everything is expressed as linear equations.
+[Linear programming](/linear-programming) (LP) is the workhorse of operations research. Developed by George Dantzig in 1947, it solves problems where you're maximizing or minimizing some objective (profit, cost, time) subject to constraints, and everything is expressed as linear equations.
 
 Here's a simplified example. A bakery makes cakes and cookies. Each cake earns $20 profit and requires 3 hours of oven time and 2 pounds of flour. Each cookie batch earns $15 profit and requires 1 hour of oven time and 3 pounds of flour. The bakery has 15 oven-hours and 12 pounds of flour available daily. How many cakes and cookie batches should they make?
 
@@ -67,9 +67,9 @@ Dantzig's simplex method, still used today after nearly 80 years, can solve line
 
 ### Integer Programming
 
-Real life is messier than linear programming allows. Sometimes your variables must be whole numbers — you can't assign half a pilot to a flight or build 2.7 warehouses. Integer programming handles this, but at a cost: these problems are dramatically harder to solve. In computer science terms, many integer programs are NP-hard.
+Real life is messier than linear programming allows. Sometimes your variables must be whole numbers — you can't assign half a pilot to a flight or build 2.7 warehouses. [Integer programming](/integer-programming) handles this, but at a cost: these problems are dramatically harder to solve. In computer science terms, many integer programs are NP-hard.
 
-Modern solvers like Gurobi, CPLEX, and Google OR-Tools use branch-and-bound techniques, cutting planes, and heuristics to solve large integer programs. The progress here has been remarkable — a problem that took 7 years to solve in 1990 can now be solved in under a second. Part of that is faster hardware, but most of it is better [algorithms](/algorithms).
+Modern solvers like Gurobi, CPLEX, and Google OR-Tools use branch-and-bound techniques, cutting planes, and [heuristics](/heuristics) to solve large integer programs. The progress here has been remarkable — a problem that took 7 years to solve in 1990 can now be solved in under a second. Part of that is faster hardware, but most of it is better [algorithms](/algorithms).
 
 ### Network Optimization
 
@@ -85,19 +85,19 @@ Monte Carlo simulation runs a model thousands or millions of times with random i
 
 Discrete-event simulation models systems as sequences of events — a customer arrives, waits in line, gets served, leaves. It's used extensively in healthcare to optimize emergency room flow, in manufacturing to balance production lines, and in logistics to design warehouse layouts.
 
-The key insight with simulation: you're not finding the single best answer. You're understanding the distribution of possible outcomes and making decisions that perform well across many scenarios. It pairs naturally with [statistics](/statistics) and probability theory.
+The key insight with simulation: you're not finding the single best answer. You're understanding the distribution of possible outcomes and making decisions that perform well across many scenarios. It pairs naturally with [statistics](/statistics) and [probability theory](/probability-theory).
 
 ## Queueing Theory: The Science of Waiting
 
 Ever wonder why banks have one line feeding to multiple tellers instead of separate lines for each? That's queueing theory — a branch of OR focused on waiting lines.
 
-The math shows that a single pooled queue is almost always better than multiple separate queues. The average wait time drops significantly, and the worst-case wait time drops even more. This isn't intuition. It's provable mathematics, first developed by Agner Krarup Erlang in 1909 while studying telephone traffic in Copenhagen.
+The math shows that a single pooled queue is almost always better than multiple separate queues. The average wait time drops significantly, and the worst-case wait time drops even more. This isn't intuition. It's provable [mathematics](/mathematics), first developed by Agner Krarup Erlang in 1909 while studying telephone traffic in Copenhagen.
 
 Queueing theory shows up everywhere:
 
 - **Call centers** use it to determine staffing levels. If you know average call duration and arrival rate, you can calculate exactly how many agents you need to keep average wait time under 30 seconds.
 - **Hospitals** use it to staff emergency departments. Patient arrivals follow roughly Poisson distributions, so queueing models predict when bottlenecks will form.
-- **Cloud computing** uses it to size server farms. Amazon, Google, and Microsoft all employ queueing models to ensure you don't wait too long when loading a webpage.
+- **[Cloud computing](/cloud-computing)** uses it to size server farms. Amazon, Google, and Microsoft all employ queueing models to ensure you don't wait too long when loading a webpage.
 - **Theme parks** use it to manage ride capacities and predict wait times — those estimated wait time signs are queueing theory in action.
 
 ## Decision Analysis: Making Choices Under Uncertainty
@@ -130,19 +130,19 @@ During COVID-19, operations research models determined vaccine distribution stra
 
 ### Transportation
 
-Every major airline uses OR for fleet assignment (which aircraft flies which route), crew scheduling, revenue management (pricing seats), and disruption recovery (re-routing when storms hit). American Airlines was one of the pioneers, and their OR-based yield management system was credited with generating $500 million in additional annual revenue in the 1990s.
+Every major airline uses OR for fleet assignment (which aircraft flies which route), crew scheduling, revenue [management](/management) (pricing seats), and disruption recovery (re-routing when storms hit). American Airlines was one of the pioneers, and their OR-based yield management system was credited with generating $500 million in additional annual revenue in the 1990s.
 
 Your GPS navigation app solves shortest-path problems in real time, adjusting for current traffic conditions. Ride-sharing platforms like Uber use OR models to match drivers with riders, set surge pricing, and position idle drivers where demand is predicted to be highest.
 
 ### Sports Analytics
 
-The Moneyball revolution in baseball? That's operations research. Teams now use optimization models for lineup construction, in-game strategy (when to bunt, when to steal, when to pull the pitcher), draft pick valuation, and salary cap management.
+The Moneyball revolution in baseball? That's operations research. Teams now use optimization models for lineup [construction](/construction), in-game strategy (when to bunt, when to steal, when to pull the pitcher), draft pick valuation, and salary cap management.
 
 The NFL's fourth-down decision-making has been dramatically influenced by OR analysis showing that teams historically punted far too often. The data was clear — going for it on fourth down in many situations has a higher expected value than punting. It took years for coaches to accept the math, but they're slowly coming around.
 
 ### Finance
 
-Portfolio optimization — deciding how to allocate investments across assets — was formalized by Harry Markowitz in 1952 using quadratic programming, an OR technique. He won the Nobel Prize in Economics for it. Modern portfolio management still builds on this foundation, incorporating constraints like sector limits, transaction costs, and risk budgets.
+Portfolio optimization — deciding how to allocate investments across assets — was formalized by Harry Markowitz in 1952 using quadratic programming, an OR technique. He won the Nobel Prize in Economics for it. Modern [portfolio management](/portfolio-management) still builds on this foundation, incorporating constraints like sector limits, transaction costs, and risk budgets.
 
 Banks use OR for credit scoring, fraud detection, algorithmic trading, and branch location optimization. The entire modern financial system runs on mathematical optimization.
 
@@ -176,7 +176,7 @@ Stochastic programming incorporates this uncertainty directly into the optimizat
 
 A simple example: a farmer must decide in spring what to plant, but crop yields and market prices won't be known until fall. Stochastic programming considers many possible combinations of yields and prices and finds the planting decision that performs best on average — or best in the worst case, depending on the farmer's risk tolerance.
 
-This is critically important for [supply-chain-management](/supply-chain-management), energy planning, and financial risk management — anywhere you're making decisions now that play out under future uncertainty.
+This is critically important for [supply-chain-management](/supply-chain-management), energy planning, and financial [risk management](/risk-management) — anywhere you're making decisions now that play out under future uncertainty.
 
 ## Heuristics and Metaheuristics: Good Enough, Fast Enough
 
@@ -204,11 +204,11 @@ This isn't just philosophy. It's active research, and it matters enormously as O
 
 Curious about the field? Here's the practical path.
 
-**Education**: Most OR professionals have degrees in operations research, [industrial engineering](/industrial-engineering), applied mathematics, or [computer-science](/computer-science). The mathematical prerequisites include linear algebra, calculus, probability, and statistics. You don't need to be a math genius, but you need to be comfortable with mathematical thinking.
+**Education**: Most OR professionals have degrees in operations research, [industrial engineering](/industrial-engineering), [applied mathematics](/applied-mathematics), or [computer-science](/computer-science). The mathematical prerequisites include [linear algebra](/linear-algebra), calculus, probability, and statistics. You don't need to be a math genius, but you need to be comfortable with mathematical thinking.
 
 **Certifications**: INFORMS offers the Certified Analytics Professional (CAP) credential. It's not required but signals competence to employers.
 
-**Career paths**: OR analysts work in consulting, logistics, finance, healthcare, tech companies, and government. The U.S. Bureau of Labor Statistics projects 23% growth in operations research analyst positions through 2032 — much faster than average. Median salary in 2024 was around $85,000, with experienced practitioners earning well over $120,000.
+**Career paths**: OR analysts work in consulting, logistics, finance, healthcare, tech companies, and [government](/government). The U.S. Bureau of Labor Statistics projects 23% growth in operations research analyst positions through 2032 — much faster than average. Median salary in 2024 was around $85,000, with experienced practitioners earning well over $120,000.
 
 **Getting started**: Pick up Python and learn PuLP or Google OR-Tools. Work through some classic problems — the transportation problem, the assignment problem, the traveling salesman problem. Build intuition for how mathematical models translate to real decisions.
 
@@ -224,4 +224,4 @@ If you've ever waited in a shorter line, received a package faster than expected
 
 ## Key Takeaways
 
-Operations research is the science of better decision-making through mathematical modeling and optimization. Born in World War II, it now quietly runs behind nearly every major logistical, financial, and scheduling system in the world. Its tools — linear programming, simulation, queueing theory, decision analysis — provide rigorous methods for finding the best solutions under constraints. As problems grow more complex and computation grows cheaper, OR becomes more relevant, not less. The field sits at the intersection of mathematics, [computer-science](/computer-science), and real-world problem-solving — and it's hiring.
+Operations research is the science of better decision-making through [mathematical modeling](/mathematical-modeling) and optimization. Born in World War II, it now quietly runs behind nearly every major logistical, financial, and scheduling system in the world. Its tools — linear programming, simulation, queueing theory, decision analysis — provide rigorous methods for finding the best solutions under constraints. As problems grow more complex and computation grows cheaper, OR becomes more relevant, not less. The field sits at the intersection of mathematics, [computer-science](/computer-science), and real-world problem-solving — and it's hiring.

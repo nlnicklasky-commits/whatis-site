@@ -49,7 +49,7 @@ Everything before the cameras roll. This is where most of the critical decisions
 
 **Casting.** Selecting on-camera talent, voice actors, or interview subjects. For narrative work, casting can make or break a project.
 
-**Location scouting.** Finding and securing shooting locations. This involves permits, [insurance](/insurance), logistics, and assessing practical concerns like sound, lighting, and access.
+**Location scouting.** Finding and securing shooting locations. This involves permits, [insurance](/insurance), [logistics](/logistics), and assessing practical concerns like sound, lighting, and access.
 
 **Crew assembly.** Hiring the technical team — director of photography, sound recordist, gaffer, grip, production assistants, and others depending on scale.
 
@@ -67,7 +67,7 @@ Production is expensive in time and money, so efficiency matters enormously. A w
 
 Where raw material becomes finished product:
 
-**Editing.** Selecting and arranging footage to tell the story effectively. Editing is often called "the final rewrite" because it fundamentally shapes the finished piece. What to include, what to cut, how long to hold a shot, when to cut to a reaction — these decisions determine how an audience experiences the content.
+**[Editing](/editing).** Selecting and arranging footage to tell the story effectively. Editing is often called "the final rewrite" because it fundamentally shapes the finished piece. What to include, what to cut, how long to hold a shot, when to cut to a reaction — these decisions determine how an audience experiences the content.
 
 **[Sound design](/sound-design).** Adding music, sound effects, ambient audio, and mixing everything to appropriate levels. Bad audio ruins otherwise good content faster than almost anything else.
 
@@ -101,7 +101,7 @@ Professional media production still commands premium prices because the gap betw
 
 Media production offers diverse career trajectories. Entry-level positions include production assistant, junior editor, camera operator, and social media content creator. Mid-career roles include producer, editor, DP, and post-production supervisor. Senior positions include showrunner, executive producer, and studio head.
 
-Freelancing is common — many production professionals work project-to-project rather than as full-time employees. This offers variety and autonomy but requires self-marketing, [financial planning](/financial-planning), and tolerance for income uncertainty.
+Freelancing is common — many production professionals work project-to-project rather than as full-time employees. This offers variety and autonomy but requires self-[marketing](/marketing), [financial planning](/financial-planning), and tolerance for income uncertainty.
 
 The field is competitive but large. The Bureau of Labor [Statistics](/statistics) projects steady growth in media-related occupations, driven by streaming platforms' demand for content, corporate video needs, and the continued expansion of digital media.
 

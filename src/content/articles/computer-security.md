@@ -39,7 +39,7 @@ faq:
 
 # What Is Computer Security?
 
-Computer security — also called cybersecurity or [information security](/information-security) — is the practice of protecting computer systems, networks, and data from unauthorized access, theft, damage, and disruption. It encompasses the technologies, processes, and practices designed to defend digital assets against a constantly shifting range of threats, from lone hackers to nation-state cyber operations.
+Computer security — also called [cybersecurity](/cybersecurity) or [information security](/information-security) — is the practice of protecting computer systems, networks, and data from unauthorized access, theft, damage, and disruption. It encompasses the technologies, processes, and practices designed to defend digital assets against a constantly shifting range of threats, from lone hackers to nation-state cyber operations.
 
 ## The Scale of the Problem
 
@@ -51,7 +51,7 @@ In 2023, the average cost of a data breach was $4.45 million (IBM Security). Ran
 
 And here's what's sobering: the attackers are getting better, faster, and more organized. State-sponsored hacking groups operate with military-level resources. Ransomware-as-a-Service lets technically unsophisticated criminals deploy sophisticated attacks. AI-generated phishing emails are increasingly indistinguishable from legitimate communications.
 
-This isn't fear-mongering. It's the operating environment that every person, business, and government faces.
+This isn't fear-mongering. It's the operating environment that every person, business, and [government](/government) faces.
 
 ## The CIA Triad: Security's Foundation
 
@@ -97,7 +97,7 @@ The most effective attacks don't target [computer hardware](/computer-hardware) 
 
 **Baiting** leaves infected USB drives in parking lots or common areas, counting on human curiosity. Studies show 45-98% of dropped USB drives get plugged into computers.
 
-Social engineering works because humans have predictable psychological responses: urgency, authority, fear, curiosity, helpfulness. Technical defenses can't fully protect against attacks that exploit human psychology.
+Social [engineering](/engineering) works because humans have predictable psychological responses: urgency, authority, fear, curiosity, helpfulness. Technical defenses can't fully protect against attacks that exploit human [psychology](/psychology).
 
 ### Network Attacks
 
@@ -113,7 +113,7 @@ Social engineering works because humans have predictable psychological responses
 
 APTs are sophisticated, long-term campaigns — typically by nation-states or well-funded groups — that infiltrate networks and remain hidden for months or years. The goal isn't quick profit; it's sustained intelligence gathering, intellectual property theft, or pre-positioning for future disruption.
 
-The SolarWinds attack (discovered December 2020) compromised a widely-used IT management platform, giving attackers access to approximately 18,000 organizations, including multiple U.S. government agencies. The attackers were inside for over nine months before detection.
+The SolarWinds attack (discovered December 2020) compromised a widely-used IT [management](/management) platform, giving attackers access to approximately 18,000 organizations, including multiple U.S. government agencies. The attackers were inside for over nine months before detection.
 
 ## Defensive Technologies: The Arsenal
 
@@ -149,7 +149,7 @@ Authentication verifies that you are who you claim to be. It's the gatekeeper fo
 
 **Security Information and Event Management (SIEM)** systems aggregate logs from across the network, correlate events, and alert security teams to potential incidents. A single failed login is noise. A thousand failed logins from the same IP targeting different accounts in five minutes is an attack.
 
-**Zero Trust Architecture** — the most significant shift in network security philosophy in decades. Instead of trusting anything inside the network perimeter (the traditional "castle and moat" approach), zero trust verifies every access request regardless of source. "Never trust, always verify." Every user, device, and connection must prove authorization for every resource access.
+**Zero Trust [Architecture](/architecture)** — the most significant shift in network security [philosophy](/philosophy) in decades. Instead of trusting anything inside the network perimeter (the traditional "castle and moat" approach), zero trust verifies every access request regardless of source. "Never trust, always verify." Every user, device, and connection must prove authorization for every resource access.
 
 ### Endpoint Protection
 
@@ -254,7 +254,7 @@ Common roles include:
 - **Security Engineer** — designs and implements security systems
 - **Security Architect** — designs organizational security strategy and systems
 - **Incident Responder** — handles active security incidents and forensics
-- **CISO (Chief Information Security Officer)** — executive leadership of security programs
+- **CISO (Chief Information Security Officer)** — executive [leadership](/leadership) of security programs
 
 Entry paths include [computer science](/computer-science) degrees, cybersecurity-specific degrees, certifications (CompTIA Security+, CISSP, CEH, OSCP), and self-study through platforms like TryHackMe, Hack The Box, and OverTheWire.
 
@@ -266,7 +266,7 @@ Salaries reflect the demand: entry-level security analysts earn $65,000-90,000, 
 
 **AI-powered defense** — the same technology helps defenders. AI analyzes massive log volumes, detects anomalous behavior, and accelerates incident response. The arms race between AI-powered attack and defense is the defining security contest of the 2020s.
 
-**[Quantum computing](/quantum-computing) threats** — quantum computers will eventually break current public-key cryptography (RSA, ECC). Post-[quantum cryptography](/quantum-cryptography) standards (NIST finalized initial standards in 2024) are being deployed now to protect data that needs to remain confidential for decades.
+**[Quantum computing](/quantum-computing) threats** — quantum computers will eventually break current public-key [cryptography](/cryptography) (RSA, ECC). Post-[quantum cryptography](/quantum-cryptography) standards (NIST finalized initial standards in 2024) are being deployed now to protect data that needs to remain confidential for decades.
 
 **Supply chain attacks** — compromising trusted software vendors to attack their customers. SolarWinds, Codecov, and the xz Utils backdoor attempt demonstrate that even careful organizations can be compromised through their dependencies.
 

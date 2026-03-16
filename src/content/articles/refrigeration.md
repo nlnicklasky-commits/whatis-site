@@ -55,7 +55,7 @@ About 90% of all refrigeration systems on Earth use the same basic mechanism: th
 
 ### The Four Components
 
-**The compressor** is the heart of the system — literally, it pumps refrigerant through the circuit the way your heart pumps blood. It takes low-pressure refrigerant gas and compresses it into high-pressure, high-temperature gas. This is where the system consumes electricity. The compressor is usually the most expensive component and the one most likely to fail.
+**The compressor** is the heart of the system — literally, it pumps refrigerant through the circuit the way your heart pumps blood. It takes low-pressure refrigerant gas and compresses it into high-pressure, high-temperature gas. This is where the system consumes [electricity](/electricity). The compressor is usually the most expensive component and the one most likely to fail.
 
 **The condenser** is a heat exchanger on the hot side of the system. The high-pressure, hot gas from the compressor flows through condenser coils and releases its heat to the surrounding environment. In your kitchen fridge, the condenser coils are usually on the back or bottom — that is why the area around your refrigerator feels warm. As the refrigerant releases heat, it condenses from gas back into a high-pressure liquid.
 
@@ -73,7 +73,7 @@ About 90% of all refrigeration systems on Earth use the same basic mechanism: th
 
 4. **Evaporation**: The cold refrigerant absorbs heat from the refrigerated space as it flows through the evaporator coils. The liquid portion evaporates completely into low-pressure gas, which returns to the compressor.
 
-That is it. Four steps, running continuously. The refrigerant never gets "used up" — it circulates in a closed loop, absorbing heat in one place and releasing it in another. A well-sealed system can run for decades without needing additional refrigerant.
+That is it. Four steps, [running](/running) continuously. The refrigerant never gets "used up" — it circulates in a closed loop, absorbing heat in one place and releasing it in another. A well-sealed system can run for decades without needing additional refrigerant.
 
 ## Refrigerants: The Working Fluid
 
@@ -103,7 +103,7 @@ The cold chain is the temperature-controlled supply chain that keeps perishable 
 
 About one-third of all food produced globally is lost or wasted, and inadequate cold chain infrastructure is a major contributor, particularly in developing countries. In sub-Saharan Africa, post-harvest losses for fruits and vegetables can exceed 50% due to lack of refrigeration. The World Health Organization estimates that improving cold chain access could prevent 600,000 deaths annually from foodborne illness.
 
-The cold chain is also critical for pharmaceuticals. COVID-19 vaccines required storage at temperatures ranging from standard refrigerator temperatures (Pfizer: -25°C to -15°C after updated guidance) to ultra-cold (-70°C for initial Pfizer requirements). Distributing billions of doses to remote locations without breaking the cold chain was one of the greatest logistical achievements in public health history.
+The cold chain is also critical for pharmaceuticals. COVID-19 vaccines required storage at temperatures ranging from standard refrigerator temperatures (Pfizer: -25°C to -15°C after updated guidance) to ultra-cold (-70°C for initial Pfizer requirements). Distributing billions of doses to remote locations without breaking the cold chain was one of the greatest logistical achievements in [public health](/public-health) history.
 
 ### Cryogenics
 
@@ -131,7 +131,7 @@ Absorption refrigerators are common in RVs, hotel minibars (they are silent — 
 
 The Peltier effect allows direct conversion of electricity to cooling using semiconductor junctions. Pass current through a thermoelectric module, and one side gets cold while the other gets hot. No moving parts, no refrigerant, completely silent.
 
-The downside is terrible efficiency — thermoelectric coolers use 3-4 times more electricity than vapor-compression for the same cooling output. They are used for small-scale applications: portable coolers, CPU cooling in electronics, temperature-controlled wine cabinets, and scientific instruments where precision and silence matter more than energy cost.
+The downside is terrible efficiency — thermoelectric coolers use 3-4 times more electricity than vapor-compression for the same cooling output. They are used for small-scale applications: portable coolers, CPU cooling in [electronics](/electronics), temperature-controlled wine cabinets, and scientific instruments where precision and silence matter more than energy cost.
 
 ### Magnetic Refrigeration
 
@@ -143,13 +143,13 @@ Magnetic refrigeration is still primarily in the research phase, but it offers t
 
 Refrigeration consumes roughly 20% of global electricity. In the average American home, the refrigerator alone accounts for about 7% of electricity use, and adding air conditioning pushes that to 25-30%. The energy implications are staggering.
 
-As global temperatures rise due to climate change, demand for cooling is exploding. The International Energy Agency projects that the number of air conditioning units worldwide will grow from 2 billion in 2023 to 5.6 billion by 2050. The energy required to power all this cooling could require new electricity generation capacity equivalent to the combined capacity of the U.S., EU, and Japan.
+As global temperatures rise due to [climate change](/climate-change), demand for cooling is exploding. The International Energy Agency projects that the number of air conditioning units worldwide will grow from 2 billion in 2023 to 5.6 billion by 2050. The energy required to power all this cooling could require new electricity generation capacity equivalent to the combined capacity of the U.S., EU, and Japan.
 
 This creates a feedback loop: more cooling requires more electricity, which (if generated from fossil fuels) accelerates climate change, which increases cooling demand. Breaking this cycle requires more efficient refrigeration systems, cleaner electricity generation ([renewable energy](/alternative-energy) and nuclear), and better building design that reduces cooling loads in the first place.
 
 ### Efficiency Improvements
 
-Modern refrigerators use about 75% less energy than models from the 1970s, even while being larger and maintaining more consistent temperatures. This improvement came from better insulation, more efficient compressors, improved heat exchanger design, and variable-speed compressor motors that adjust cooling output to match demand rather than cycling on and off.
+Modern refrigerators use about 75% less energy than models from the 1970s, even while being larger and maintaining more consistent temperatures. This improvement came from better insulation, more efficient compressors, improved heat exchanger design, and variable-speed compressor motors that adjust cooling output to match demand rather than [cycling](/cycling) on and off.
 
 The Coefficient of Performance (COP) measures refrigeration efficiency — the ratio of cooling output to energy input. A typical household refrigerator has a COP around 2-3, meaning it moves 2-3 units of heat for every unit of electricity consumed. Industrial chillers can achieve COP values of 5-7. The theoretical maximum (the Carnot limit) depends on the temperature difference between the cold and hot sides.
 
@@ -159,7 +159,7 @@ Refrigeration's most immediately life-saving application is [food preservation](
 
 Between 40°F and 140°F (4°C to 60°C) — the "danger zone" — bacteria like Salmonella, E. coli, and Listeria can double in number every 20 minutes. A single bacterium becomes over 2 million in just 7 hours at room temperature. Refrigeration at 40°F or below does not kill bacteria — it slows their reproduction to a crawl. Freezing at 0°F effectively stops bacterial growth entirely, though it does not eliminate existing bacteria.
 
-Before mechanical refrigeration, food preservation relied on salting, smoking, pickling, canning, and root cellars. These methods worked but limited dietary variety and nutritional quality. The ability to refrigerate and freeze food transformed [human nutrition](/human-nutrition), health, and even geography — cities could grow far larger once they could import and store perishable food from distant farms.
+Before mechanical refrigeration, food preservation relied on salting, smoking, pickling, canning, and root cellars. These methods worked but limited dietary variety and nutritional quality. The ability to refrigerate and freeze food transformed [human nutrition](/human-nutrition), health, and even [geography](/geography) — cities could grow far larger once they could import and store perishable food from distant farms.
 
 ## A Brief History
 
@@ -191,7 +191,7 @@ Cooling technology shows up in places you might not expect.
 
 **Ice rinks**: A network of pipes beneath the ice surface circulates a refrigerant (typically a glycol solution) at around 16°F (-9°C). The concrete slab above the pipes stays cold enough to maintain ice thickness of about 1 to 1.5 inches. An NHL-size rink requires approximately 12,000-15,000 gallons of water to create the ice sheet.
 
-**Tunnel construction**: In soft, waterlogged ground, engineers use ground-freezing techniques — circulating refrigerant through pipes driven into the soil to freeze groundwater and create a temporary, stable wall. This technique was used in construction of the Channel Tunnel and numerous subway systems.
+**Tunnel [construction](/construction)**: In soft, waterlogged ground, engineers use ground-freezing techniques — circulating refrigerant through pipes driven into the soil to freeze groundwater and create a temporary, stable wall. This technique was used in construction of the Channel Tunnel and numerous subway systems.
 
 **Space**: The International Space Station uses an ammonia-based cooling system to reject heat into space. Without it, the heat generated by equipment and solar radiation would make the station uninhabitable within hours.
 
@@ -201,6 +201,6 @@ Cooling technology shows up in places you might not expect.
 
 Refrigeration is the removal of heat from a space to reduce its temperature, and it backs up modern food safety, medicine, industry, and comfort. The vapor-compression cycle — using a compressor, condenser, expansion valve, and evaporator — handles roughly 90% of all cooling worldwide.
 
-Refrigerant chemistry has evolved through four generations, each solving the previous generation's environmental problems while sometimes creating new ones. The current transition to low-GWP refrigerants represents the industry's response to climate concerns.
+Refrigerant [chemistry](/chemistry) has evolved through four generations, each solving the previous generation's environmental problems while sometimes creating new ones. The current transition to low-GWP refrigerants represents the industry's response to climate concerns.
 
 Refrigeration consumes about 20% of global electricity, and demand is growing rapidly as global temperatures rise and developing nations gain access to cooling. Improving efficiency, transitioning to clean energy, and developing alternative cooling technologies are among the most consequential [engineering](/engineering) challenges of the coming decades. Few technologies are simultaneously so essential to daily life and so significant for the planet's future.

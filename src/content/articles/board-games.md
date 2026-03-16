@@ -81,7 +81,7 @@ Several factors explain the modern board game boom:
 
 **Production quality soared.** Modern board games feature gorgeous artwork, detailed miniatures, premium components, and thoughtful [graphic design](/graphic-design). They're objects you want to display, not hide in a closet.
 
-**YouTube and social media.** Shows like *Tabletop* (Wil Wheaton) and channels like Shut Up & Sit Down introduced millions of viewers to modern gaming. Watching people play a game — and enjoy it — is surprisingly compelling content.
+**YouTube and social media.** Shows like *Tabletop* (Wil Wheaton) and channels like Shut Up & Sit Down introduced millions of viewers to modern [gaming](/gaming). Watching people play a game — and enjoy it — is surprisingly compelling content.
 
 **Kickstarter.** The crowdfunding platform allowed small designers to bring niche games to market without traditional [publishing](/publishing) deals. This diversified the hobby enormously.
 
@@ -97,6 +97,6 @@ Research in [psychology](/psychology) supports the social and cognitive benefits
 
 If your board game experience is limited to Monopoly and [Scrabble](/scrabble), the modern hobby will surprise you. Good entry points include *Catan* (trading and building), *Ticket to Ride* (route-building, very easy to learn), *Azul* (pattern-building, beautiful components), *Codenames* (party/word game), and *Pandemic* (cooperative strategy).
 
-Board game cafes let you try before you buy. Local game stores often host open game nights. Online communities like BoardGameGeek provide reviews, recommendations, and forums. The hobby is remarkably welcoming to newcomers — experienced gamers generally love teaching new players.
+Board game cafes let you try before you buy. Local game stores often host open game nights. Online communities like BoardGameGeek provide reviews, recommendations, and forums. The hobby is remarkably welcoming to newcomers — experienced gamers generally love [teaching](/teaching) new players.
 
 The entry cost is modest. Most excellent board games cost $30-60 and provide dozens or hundreds of hours of entertainment. Compare that to almost any other entertainment expenditure, and the value is exceptional. All you need is a table, some willing humans, and an evening with nothing better to do than sit together and play.

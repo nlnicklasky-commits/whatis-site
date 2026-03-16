@@ -37,7 +37,7 @@ Biological anthropology (also called [physical anthropology](/physical-anthropol
 
 Regular [biology](/biology) studies all living things. Biological anthropology specifically focuses on humans and our closest relatives, but with a crucial twist: it always considers biology alongside culture, behavior, and environment. A biologist might study genetic variation as pure science. A biological anthropologist asks how that variation relates to migration patterns, diet, disease, and social structure.
 
-This contextual approach matters. Humans are biological organisms shaped by natural selection, but we're also cultural beings whose behaviors — cooking food, wearing clothes, building shelters, creating medicine — have profoundly altered the selective pressures we face. You can't understand human biology without understanding human culture, and vice versa. That's the core insight of [anthropology](/anthropology) as a discipline.
+This contextual approach matters. Humans are biological organisms shaped by natural selection, but we're also cultural beings whose behaviors — [cooking](/cooking) food, wearing clothes, building shelters, creating medicine — have profoundly altered the selective pressures we face. You can't understand human biology without understanding human culture, and vice versa. That's the core insight of [anthropology](/anthropology) as a discipline.
 
 ## The Major Subfields
 
@@ -51,9 +51,9 @@ Key discoveries keep pushing back our understanding. The 2013 discovery of *Homo
 
 ### Primatology
 
-Studying our closest living relatives — chimpanzees, bonobos, gorillas, orangutans, and other primates — reveals both what we share and what makes us unusual. Jane Goodall's pioneering chimpanzee research at Gombe (beginning in 1960) demonstrated tool use, complex social relationships, and even warfare among chimps, collapsing the assumed boundary between human and animal behavior.
+Studying our closest living relatives — chimpanzees, bonobos, gorillas, orangutans, and other primates — reveals both what we share and what makes us unusual. Jane Goodall's pioneering chimpanzee research at Gombe (beginning in 1960) demonstrated tool use, complex social relationships, and even warfare among chimps, collapsing the assumed boundary between human and [animal behavior](/animal-behavior).
 
-Primatology also informs [conservation](/conservation-biology). Most great ape species are critically endangered, and understanding their behavior, ecology, and genetics is essential for protecting them.
+Primatology also informs [conservation](/conservation-biology). Most great ape species are critically endangered, and understanding their behavior, [ecology](/ecology), and genetics is essential for protecting them.
 
 ### Human Variation
 
@@ -71,7 +71,7 @@ The field gained public visibility through television shows like *Bones*, though
 
 Bioarchaeologists study human remains from archaeological sites to understand past populations — their health, diet, diseases, physical activity patterns, and demographic profiles. A skeleton tells stories: healed fractures reveal injuries, dental wear indicates diet, bone density reflects activity levels, and isotopic analysis can pinpoint where someone grew up.
 
-This subfield connects directly to [archaeology](/archaeology), combining skeletal analysis with artifacts, architecture, and environmental data to reconstruct past lifeways.
+This subfield connects directly to [archaeology](/archaeology), combining skeletal analysis with artifacts, [architecture](/architecture), and environmental data to reconstruct past lifeways.
 
 ## Ancient DNA and the Genetics Revolution
 

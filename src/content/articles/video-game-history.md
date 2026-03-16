@@ -37,7 +37,7 @@ Video game history is the story of how a niche academic experiment in the 1950s 
 
 Video games didn't emerge from the entertainment industry. They came from [physics](/physics) labs, university [computer science](/computer-science) departments, and military research facilities where programmers with access to expensive mainframe computers created games during downtime.
 
-**1952** — Alexander Douglas created OXO, a tic-tac-toe game on the EDSAC computer at Cambridge, as part of his doctoral thesis on human-computer interaction.
+**1952** — Alexander Douglas created OXO, a tic-tac-toe game on the EDSAC computer at Cambridge, as part of his doctoral thesis on [human-computer interaction](/human-computer-interaction).
 
 **1958** — William Higinbotham, a physicist at Brookhaven National Laboratory, built [Tennis](/tennis) for Two on an oscilloscope to entertain visitors during an open house. He never patented it, which he later called one of his biggest regrets.
 

@@ -35,13 +35,13 @@ faq:
 
 # What Is Mechatronics?
 
-Mechatronics is the engineering discipline that combines mechanical engineering, [electrical engineering](/electrical-engineering), computer science, and control theory to design and create intelligent systems and products. The word itself is a blend of "mechanics" and "electronics," coined in 1969 by a Japanese engineer named Tetsuro Mori at the Yaskawa Electric Corporation.
+Mechatronics is the [engineering](/engineering) discipline that combines mechanical engineering, [electrical engineering](/electrical-engineering), [computer science](/computer-science), and [control theory](/control-theory) to design and create intelligent systems and products. The word itself is a blend of "mechanics" and "[electronics](/electronics)," coined in 1969 by a Japanese engineer named Tetsuro Mori at the Yaskawa Electric Corporation.
 
 Think of it this way: a purely mechanical device does one thing in one way. Add sensors, a processor, and some software, and suddenly it can adapt, respond, and make decisions. That transformation --- from dumb machine to smart system --- is what mechatronics is all about.
 
 ## Why Mechatronics Exists
 
-For most of engineering history, mechanical systems and electrical systems were designed separately by specialists who rarely talked to each other. The mechanical engineer designed the moving parts. The electrical engineer added the wiring. The software person wrote the code. Everyone worked in silos.
+For most of [engineering history](/engineering-history), mechanical systems and electrical systems were designed separately by specialists who rarely talked to each other. The mechanical engineer designed the moving parts. The electrical engineer added the wiring. The software person wrote the code. Everyone worked in silos.
 
 This worked fine when products were simple. It stopped working when products got smart.
 
@@ -95,7 +95,7 @@ The best way to understand mechatronics is through examples. They're all around 
 
 Modern cars are essentially rolling mechatronic systems. Anti-lock braking systems (ABS) use wheel speed sensors to detect lockup, then rapidly modulate brake pressure through solenoid valves --- a classic feedback control loop that executes dozens of times per second. Electronic stability control goes further, selectively braking individual wheels to prevent skids.
 
-Electric vehicles are even more mechatronic. Regenerative braking converts kinetic energy back to electrical energy through precise motor control. Battery management systems monitor hundreds of individual cells for voltage, temperature, and state of charge. [Automotive engineering](/automotive-engineering) has become inseparable from mechatronics.
+Electric vehicles are even more mechatronic. Regenerative braking converts kinetic energy back to electrical energy through precise motor control. Battery [management](/management) systems monitor hundreds of individual cells for voltage, temperature, and state of charge. [Automotive engineering](/automotive-engineering) has become inseparable from mechatronics.
 
 Self-driving vehicles represent perhaps the ultimate mechatronic challenge: integrating cameras, lidar, radar, GPS, inertial measurement units, and dozens of other sensors with AI-driven decision-making and precise mechanical control of steering, braking, and acceleration.
 
@@ -109,7 +109,7 @@ The International Federation of Robotics reported that global industrial robot i
 
 Surgical robots like the da Vinci system translate a surgeon's hand movements into precise micro-movements of tiny instruments inside the patient's body. The mechanical challenge is miniaturization and precision. The electronic challenge is high-fidelity sensing and actuation. The software challenge is real-time control with safety guarantees. The control challenge is filtering out hand tremors while preserving intentional movements.
 
-Prosthetic limbs are another fascinating mechatronic application. Modern powered prosthetics use electromyography (EMG) sensors to detect electrical signals from remaining muscles, process those signals to infer the user's intent, and command motors to move the prosthetic accordingly. Some advanced systems even provide sensory feedback to the user.
+Prosthetic limbs are another fascinating mechatronic application. Modern powered [prosthetics](/prosthetics) use electromyography (EMG) sensors to detect electrical signals from remaining muscles, process those signals to infer the user's intent, and command motors to move the prosthetic accordingly. Some advanced systems even provide sensory feedback to the user.
 
 ### Consumer Electronics
 
@@ -132,12 +132,12 @@ Designing a mechatronic system is fundamentally different from designing a purel
 The V-model is commonly used for mechatronic system development:
 
 1. **Requirements definition** --- what the system must do
-2. **System architecture** --- how subsystems are organized and interact
+2. **System [architecture](/architecture)** --- how subsystems are organized and interact
 3. **Detailed design** --- mechanical, electrical, and software design in parallel
 4. **Integration** --- bringing subsystems together (where most problems surface)
 5. **Testing and validation** --- verifying the system meets requirements
 
-Model-based systems engineering (MBSE) uses simulation to test designs before building physical prototypes. MATLAB/Simulink is the dominant tool for this, allowing engineers to simulate mechanical dynamics, electrical circuits, and control algorithms in a single environment. You can test whether a control algorithm will stabilize a drone before you've built a single physical component.
+Model-based [systems engineering](/systems-engineering) (MBSE) uses simulation to test designs before building physical prototypes. MATLAB/Simulink is the dominant tool for this, allowing engineers to simulate mechanical dynamics, electrical circuits, and control algorithms in a single environment. You can test whether a control algorithm will stabilize a drone before you've built a single physical component.
 
 Hardware-in-the-loop (HIL) testing bridges the gap between simulation and reality. The controller runs on real hardware, but the physical system (the "plant") is simulated. This catches real-time performance issues and hardware bugs that pure simulation might miss.
 
@@ -149,11 +149,11 @@ A mechatronics engineer needs breadth. Not surface-level awareness, but genuine 
 
 **Electrical skills**: [Circuit design](/circuit-design), sensor interfacing, motor driver circuits, PCB design, power electronics. You need to be comfortable reading datasheets, selecting components, and debugging circuits with an oscilloscope.
 
-**Software skills**: Embedded programming (C/C++), real-time operating systems, communication protocols (SPI, I2C, UART, CAN bus), Python for prototyping and data analysis. Increasingly, basic [machine learning](/machine-learning) knowledge is valuable.
+**Software skills**: Embedded programming (C/C++), real-time operating systems, communication protocols (SPI, I2C, UART, CAN bus), Python for prototyping and [data analysis](/data-analysis). Increasingly, basic [machine learning](/machine-learning) knowledge is valuable.
 
 **Control skills**: Transfer functions, frequency response, PID tuning, state-space methods, stability analysis. This is the mathematical backbone that makes everything work together.
 
-**Systems skills**: Requirements engineering, system architecture, testing methodology, project management. These "soft" engineering skills become increasingly important as systems grow in complexity.
+**Systems skills**: Requirements engineering, system architecture, testing methodology, [project management](/project-management). These "soft" engineering skills become increasingly important as systems grow in complexity.
 
 ## Mechatronics vs. Related Fields
 
@@ -161,7 +161,7 @@ People often confuse mechatronics with related disciplines. Here's how they diff
 
 **Mechatronics vs. Robotics**: Robotics is a subset of mechatronics focused on autonomous or semi-autonomous machines. All robotics is mechatronics, but not all mechatronics is robotics. An ABS brake system is mechatronic but not robotic.
 
-**Mechatronics vs. Mechanical Engineering**: [Mechanical engineering](/mechanical-engineering) is broader in some ways (it includes [structural engineering](/structural-engineering), thermodynamics, fluid mechanics) but narrower in others (less emphasis on electronics and software). Mechatronics is specifically about the integration of mechanical, electrical, and computational systems.
+**Mechatronics vs. Mechanical Engineering**: [Mechanical engineering](/mechanical-engineering) is broader in some ways (it includes [structural engineering](/structural-engineering), [thermodynamics](/thermodynamics), fluid mechanics) but narrower in others (less emphasis on electronics and software). Mechatronics is specifically about the integration of mechanical, electrical, and computational systems.
 
 **Mechatronics vs. Electrical Engineering**: Electrical engineering covers everything from power grids to microchip design. Mechatronics overlaps with the embedded systems and control portions but includes significant mechanical content that pure EE does not.
 
@@ -173,7 +173,7 @@ Several trends are shaping mechatronics' future.
 
 ### AI and Machine Learning Integration
 
-Traditional control algorithms are being augmented or replaced by learned behaviors. [Reinforcement learning](/reinforcement-learning) can train a robot to walk without explicit programming of gait patterns. Computer vision gives machines the ability to recognize objects and work through environments. Neural networks are being deployed on embedded hardware for real-time inference.
+Traditional control algorithms are being augmented or replaced by learned behaviors. [Reinforcement learning](/reinforcement-learning) can train a robot to walk without explicit programming of gait patterns. [Computer vision](/computer-vision) gives machines the ability to recognize objects and work through environments. [Neural networks](/neural-networks) are being deployed on embedded hardware for real-time inference.
 
 This doesn't eliminate the need for traditional mechatronics knowledge --- you still need the mechanical structure, the sensors, the actuators, and the control architecture. But it adds a powerful new layer of capability.
 
@@ -191,7 +191,7 @@ Collaborative robots (cobots) work alongside humans rather than in isolated cage
 
 ### IoT and Connected Systems
 
-The Internet of Things connects mechatronic devices into networks. A smart factory doesn't just have individual automated machines --- it has a network of machines sharing data, coordinating actions, and optimizing collectively. This adds networking, cybersecurity, and cloud computing to the already broad mechatronics skill set.
+The Internet of Things connects mechatronic devices into networks. A smart factory doesn't just have individual automated machines --- it has a network of machines sharing data, coordinating actions, and optimizing collectively. This adds networking, [cybersecurity](/cybersecurity), and [cloud computing](/cloud-computing) to the already broad mechatronics skill set.
 
 ## Getting Started
 

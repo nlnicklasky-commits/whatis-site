@@ -55,9 +55,9 @@ Civil engineering is broad enough that most practitioners specialize. The major 
 
 Structural engineers ensure that buildings, bridges, towers, and other structures can safely support the loads placed on them—their own weight, the weight of occupants and contents, wind forces, snow loads, seismic forces, and more.
 
-This involves calculating stresses and deflections using principles from physics and [algebra](/algebra), selecting appropriate materials (steel, reinforced concrete, timber, composites), and designing connections that transfer forces safely through the structure.
+This involves calculating stresses and deflections using principles from [physics](/physics) and [algebra](/algebra), selecting appropriate materials (steel, reinforced concrete, timber, composites), and designing connections that transfer forces safely through the structure.
 
-The Burj Khalifa in Dubai stands 828 meters tall. The Golden Gate Bridge spans 1,280 meters. The Sydney Opera House's roof shells weigh 27,000 tons. Each required structural engineers to solve problems that had never been solved before—[accounting](/accounting) for wind vortex shedding, thermal expansion, seismic waves, and dozens of other forces that try to tear structures apart.
+The Burj Khalifa in Dubai stands 828 meters tall. The Golden Gate Bridge spans 1,280 meters. The Sydney [Opera](/opera) House's roof shells weigh 27,000 tons. Each required structural engineers to solve problems that had never been solved before—[accounting](/accounting) for wind vortex shedding, thermal expansion, seismic waves, and dozens of other forces that try to tear structures apart.
 
 Modern structural engineering increasingly uses computer modeling—finite element analysis (FEA) divides a structure into thousands of small elements and calculates how each one responds to applied forces. This allows engineers to predict behavior far more accurately than hand calculations alone, though understanding the underlying physics remains essential for interpreting results.
 
@@ -75,15 +75,15 @@ Transportation engineers design and maintain systems for moving people and goods
 
 [Traffic engineering](/traffic-engineering) is surprisingly mathematical. Traffic flow follows patterns that can be modeled using [fluid dynamics](/fluid-dynamics) equations. The relationship between traffic density, speed, and flow rate determines when highways operate smoothly and when they collapse into gridlock. A single lane of highway can handle about 2,000 vehicles per hour at optimal conditions—but add too many cars and speeds drop, reducing capacity rather than increasing it.
 
-Highway design involves careful attention to geometry—curve radii, grades, sight distances, and superelevation (banking curves) must all work together to keep vehicles safe at design speeds. A highway designed for 70 mph has different geometry than one designed for 45 mph, and mixing the two is dangerous.
+Highway design involves careful attention to [geometry](/geometry)—curve radii, grades, sight distances, and superelevation (banking curves) must all work together to keep vehicles safe at design speeds. A highway designed for 70 mph has different geometry than one designed for 45 mph, and mixing the two is dangerous.
 
 ### Water Resources Engineering
 
-Water resources engineers manage Earth's most essential resource. They design dams, reservoirs, flood control systems, irrigation networks, and stormwater management systems. They predict floods, model river flows, and balance competing demands for water—agricultural, municipal, industrial, recreational, and ecological.
+Water resources engineers manage Earth's most essential resource. They design dams, reservoirs, flood control systems, [irrigation](/irrigation) networks, and stormwater [management](/management) systems. They predict floods, model river flows, and balance competing demands for water—agricultural, municipal, industrial, recreational, and ecological.
 
-The Three Gorges Dam in China, completed in 2006, is the world's largest hydroelectric power station, generating 22,500 MW. It required relocating 1.3 million people and created a reservoir 600 km long. Projects at this scale involve decades of planning and engineering analysis covering hydrology, structural design, environmental impact, and social consequences.
+The Three Gorges Dam in China, completed in 2006, is the world's largest hydroelectric power station, generating 22,500 MW. It required relocating 1.3 million people and created a reservoir 600 km long. Projects at this scale involve decades of planning and engineering analysis covering [hydrology](/hydrology), structural design, environmental impact, and social consequences.
 
-Climate change is making water resources engineering more challenging. Historical rainfall patterns no longer reliably predict future conditions. Droughts are intensifying in some regions while floods worsen in others. Engineers must design for uncertainty—creating systems flexible enough to handle conditions that may differ substantially from historical records.
+[Climate change](/climate-change) is making water resources engineering more challenging. Historical rainfall patterns no longer reliably predict future conditions. Droughts are intensifying in some regions while floods worsen in others. Engineers must design for uncertainty—creating systems flexible enough to handle conditions that may differ substantially from historical records.
 
 ### [Environmental Engineering](/environmental-engineering)
 
@@ -99,7 +99,7 @@ Environmental engineering increasingly intersects with [agriculture](/agricultur
 
 Construction engineers manage the process of actually building things. They plan construction sequences, estimate costs, schedule work, manage crews and subcontractors, ensure quality, and maintain safety on construction sites.
 
-A large construction project—a hospital, a highway interchange, a high-rise building—involves coordinating hundreds of workers, dozens of subcontractors, thousands of material deliveries, and millions of dollars in equipment. Construction management is as much about logistics, communication, and leadership as it is about engineering.
+A large construction project—a hospital, a highway interchange, a high-rise building—involves coordinating hundreds of workers, dozens of subcontractors, thousands of material deliveries, and millions of dollars in equipment. Construction management is as much about [logistics](/logistics), communication, and [leadership](/leadership) as it is about engineering.
 
 The cost of construction errors is enormous. Rework—tearing out and redoing work done incorrectly—typically accounts for 5-12% of construction costs. For a $100 million project, that's $5-12 million wasted. Better planning, clearer communication, and improved quality control can reduce but never eliminate rework.
 
@@ -123,7 +123,7 @@ This phase involves substantial calculation and analysis. Loads must be estimate
 
 The selected concept is developed into complete construction documents—detailed drawings and specifications that tell contractors exactly what to build and how. Structural calculations are finalized, material specifications are written, and construction sequences are planned.
 
-For a typical building project, detailed design produces hundreds or thousands of drawings—foundation plans, structural framing plans, reinforcing details, connection details, and more. Each drawing must be coordinated with architectural, mechanical, electrical, and plumbing designs.
+For a typical building project, detailed design produces hundreds or thousands of drawings—foundation plans, structural framing plans, reinforcing details, connection details, and more. Each [drawing](/drawing) must be coordinated with architectural, mechanical, electrical, and [plumbing](/plumbing) designs.
 
 ### Construction
 
@@ -169,7 +169,7 @@ The **Roman aqueducts**, built over 500 years starting around 312 BCE, transport
 
 The **Panama Canal** (completed 1914) cut through 80 km of mountain and jungle to connect the Atlantic and Pacific oceans. The project required excavating 200 million cubic meters of earth and building locks that lift ships 26 meters above sea level. It reduced the sea voyage between New York and San Francisco by 12,800 km.
 
-The **Interstate Highway System** in the United States, begun in 1956, built over 77,000 km of highways at a cost exceeding $500 billion (inflation-adjusted). It transformed American commerce, culture, and geography—enabling suburban sprawl, long-haul trucking, and road trip culture.
+The **Interstate Highway System** in the United States, begun in 1956, built over 77,000 km of highways at a cost exceeding $500 billion (inflation-adjusted). It transformed American commerce, culture, and [geography](/geography)—enabling suburban sprawl, long-haul trucking, and road trip culture.
 
 The **Channel Tunnel** connecting England and France (completed 1994) runs 50 km under the English Channel, with 39 km underwater. Eleven tunnel boring machines worked simultaneously from both sides, meeting in the middle with remarkable precision.
 

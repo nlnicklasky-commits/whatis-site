@@ -35,13 +35,13 @@ faq:
 
 # What Is Clock Making?
 
-Clock making—formally known as horology—is the art and science of designing, building, and maintaining devices that measure and display time. From ancient sundials tracking the Sun's shadow to atomic clocks that lose less than one second in 300 million years, the quest to measure time precisely has driven some of humanity's most ingenious mechanical and scientific achievements. Clock making sits at the intersection of [engineering](/engineering), craftsmanship, physics, and art, and its history is inseparable from the history of civilization itself.
+Clock making—formally known as horology—is the art and science of designing, building, and maintaining devices that measure and display time. From ancient sundials tracking the Sun's shadow to atomic clocks that lose less than one second in 300 million years, the quest to measure time precisely has driven some of humanity's most ingenious mechanical and scientific achievements. Clock making sits at the intersection of [engineering](/engineering), craftsmanship, [physics](/physics), and art, and its history is inseparable from the history of civilization itself.
 
 ## Why Time Matters: More Than You'd Think
 
-Before diving into gears and escapements, it's worth asking: why did humans become so obsessed with measuring time in the first place?
+Before [diving](/diving) into gears and escapements, it's worth asking: why did humans become so obsessed with measuring time in the first place?
 
-Early agriculture required tracking seasons—plant too early and frost kills the crop; plant too late and it won't ripen before winter. In [agriculture](/agriculture), getting the calendar right was literally a matter of survival. Religious observances needed scheduling. Navigation at sea (as we'll see) became impossible without accurate timekeeping. And once industrial economies emerged, synchronized time became the backbone of transportation, manufacturing, and communication.
+Early agriculture required tracking seasons—plant too early and frost kills the crop; plant too late and it won't ripen before winter. In [agriculture](/agriculture), getting the calendar right was literally a matter of survival. Religious observances needed [scheduling](/scheduling). [Navigation](/navigation) at sea (as we'll see) became impossible without accurate timekeeping. And once industrial economies emerged, synchronized time became the backbone of transportation, manufacturing, and communication.
 
 The railroad was a turning point. Before standardized time zones (introduced in the 1880s), every city set its clocks to local solar noon. Bristol was 10 minutes behind London. When trains started connecting cities, this chaos caused missed connections and—worse—collisions on single-track lines. Time standardization wasn't a convenience. It was a safety requirement.
 
@@ -53,9 +53,9 @@ A mechanical clock has five essential systems. Understanding them reveals the in
 
 ### The Power Source
 
-Something has to provide the energy that keeps the clock running. In early clocks, this was a falling weight—a heavy stone or metal weight suspended on a cord wrapped around a drum. Gravity pulls the weight down, the cord turns the drum, and the drum drives the gear train. Wind the clock by pulling the weight back up.
+Something has to provide the energy that keeps the clock [running](/running). In early clocks, this was a falling weight—a heavy stone or metal weight suspended on a cord wrapped around a drum. Gravity pulls the weight down, the cord turns the drum, and the drum drives the gear train. Wind the clock by pulling the weight back up.
 
-Spring-driven clocks appeared in the 15th century, using a coiled strip of metal (the mainspring) that stores energy when wound and releases it as it unwinds. Springs made portable clocks possible—you can't hang a weight drive from your wrist. But springs presented a problem: they deliver more force when fully wound than when nearly unwound, causing the clock to run fast after winding and slow as the spring runs down.
+Spring-driven clocks appeared in the 15th century, using a coiled strip of metal (the mainspring) that stores energy when wound and releases it as it unwinds. [Springs](/springs) made portable clocks possible—you can't hang a weight drive from your wrist. But springs presented a problem: they deliver more force when fully wound than when nearly unwound, causing the clock to run fast after winding and slow as the spring runs down.
 
 The solution was the fusee—a cone-shaped pulley that compensates for the spring's variable force. When the spring is fully wound and strong, the chain pulls on the narrow end of the cone (small use). As the spring weakens, the chain moves to the wider end (more use). The result is roughly constant force delivered to the gear train. It's a beautiful piece of engineering that clockmakers perfected centuries ago.
 
@@ -113,7 +113,7 @@ Hourglasses, candle clocks, and incense clocks provided portable timekeeping wit
 
 The first mechanical clocks appeared in European monasteries and cathedrals in the late 13th century. These massive tower clocks used verge escapements with foliot balances (weighted bars that oscillated back and forth). They were accurate to perhaps 15-30 minutes per day—terrible by modern standards but revolutionary for the era.
 
-The invention of the mainspring in the 15th century made portable clocks possible. Early spring-driven clocks were carried in pockets or worn around the neck—the ancestors of pocket watches.
+The [invention](/invention) of the mainspring in the 15th century made portable clocks possible. Early spring-driven clocks were carried in pockets or worn around the neck—the ancestors of pocket watches.
 
 ### The Pendulum Revolution (1657)
 
@@ -127,7 +127,7 @@ The problem was that pendulum clocks couldn't work on a rocking ship. The Britis
 
 John Harrison, a self-taught carpenter and clockmaker, spent decades building a series of marine chronometers—H1, H2, H3, and finally the watch-sized H4 (completed 1759)—that solved the problem. H4 used a balance wheel and hairspring instead of a pendulum, with creative temperature compensation and friction reduction. In sea trials, it lost only 5 seconds over 81 days—accurate enough for reliable navigation.
 
-Harrison's achievement saved countless lives by preventing shipwrecks and opened vast new possibilities for global trade and exploration. It also established that precision timekeeping could be achieved in portable, mechanical devices.
+Harrison's achievement saved countless lives by preventing shipwrecks and opened vast new possibilities for global [trade](/trade) and exploration. It also established that precision timekeeping could be achieved in portable, mechanical devices.
 
 ### The Industrial Era
 
@@ -165,7 +165,7 @@ Clock making isn't just craft—it's applied physics. Several scientific princip
 
 **Materials science** determines how components behave under stress, temperature changes, and wear. The development of temperature-compensated alloys for hairsprings was one of the most important materials advances in horological history.
 
-**Tribology** (the study of friction, wear, and lubrication) matters because friction steals energy and causes wear. Clock oils must maintain consistent viscosity across temperature ranges and not dry out for years. Modern synthetic oils have extended service intervals from one year to five or more.
+**[Tribology](/tribology)** (the study of friction, wear, and lubrication) matters because friction steals energy and causes wear. Clock oils must maintain consistent viscosity across temperature ranges and not dry out for years. Modern synthetic oils have extended service intervals from one year to five or more.
 
 **[Fluid dynamics](/fluid-dynamics)** affects clock design in surprising ways. Air resistance damps pendulum swings—precision clocks sometimes operate in partial vacuum to reduce this effect. The sound a clock makes is determined by how its mechanism disturbs the surrounding air.
 

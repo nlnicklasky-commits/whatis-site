@@ -37,7 +37,7 @@ faq:
 
 # What Is Microwave Engineering?
 
-Microwave engineering is the branch of [electrical engineering](/electrical-engineering) that deals with the design, analysis, and application of devices and systems operating at microwave frequencies—electromagnetic waves ranging from about 300 MHz to 300 GHz, with wavelengths between 1 meter and 1 millimeter.
+Microwave [engineering](/engineering) is the branch of [electrical engineering](/electrical-engineering) that deals with the design, analysis, and application of devices and systems operating at microwave frequencies—electromagnetic waves ranging from about 300 MHz to 300 GHz, with wavelengths between 1 meter and 1 millimeter.
 
 ## Why Microwaves Are a Big Deal
 
@@ -45,7 +45,7 @@ You probably associate the word "microwave" with heating leftovers. Fair enough�
 
 Here's what makes the microwave portion of the electromagnetic spectrum special: it sits in a sweet spot. Frequencies are high enough to carry enormous amounts of data (bandwidth scales with frequency), but low enough to propagate through the atmosphere reasonably well. Lower frequencies (like AM radio) can travel great distances but carry limited information. Higher frequencies (infrared, visible light) carry even more information but get absorbed by rain, fog, and walls. Microwaves thread the needle.
 
-The field emerged almost entirely from military necessity during World War II. The development of radar—the defining application of microwave technology—is one of the great engineering stories of the 20th century.
+The field emerged almost entirely from military necessity during [World War II](/world-war-ii). The development of radar—the defining application of microwave technology—is one of the great engineering stories of the 20th century.
 
 ## A History Written in Wartime
 
@@ -63,13 +63,13 @@ The critical breakthrough came in 1940 when British physicists John Randall and 
 
 Britain, facing potential invasion, shared the magnetron with the United States through the Tizard Mission in September 1940. The American physicist Lee DuBridge called it "the most valuable cargo ever brought to our shores." The MIT Radiation Laboratory ("Rad Lab") was established immediately and, at its peak, employed 4,000 people developing microwave radar systems.
 
-The results were dramatic. Airborne radar allowed Allied planes to detect German submarines on the surface at night, turning the Battle of the Atlantic. Ground-based radar provided early warning of air attacks. Fire-control radar guided anti-aircraft guns with unprecedented accuracy. The historian James Phinney Baxter III wrote that radar was "the invention that changed the war."
+The results were dramatic. Airborne radar allowed Allied planes to detect German submarines on the surface at night, turning the Battle of the Atlantic. Ground-based radar provided early warning of air attacks. Fire-control radar guided anti-aircraft guns with unprecedented accuracy. The historian James Phinney Baxter III wrote that radar was "the [invention](/invention) that changed the war."
 
 ### The Postwar Boom
 
 After 1945, thousands of microwave engineers—trained at the Rad Lab and similar facilities—flooded into industry and academia. Their expertise drove the development of microwave communication links, satellite systems, and radio [astronomy](/astronomy).
 
-The microwave oven itself emerged from this period. In 1945, Percy Spencer, an engineer at Raytheon working on magnetrons for radar, noticed a candy bar melting in his pocket while standing near an active magnetron. He experimented with popcorn and eggs (which exploded), and Raytheon filed a patent for a "microwave cooking device" in 1945. The first commercial model, the Radarange, stood nearly 6 feet tall, weighed 750 pounds, and cost about $5,000 (roughly $85,000 in 2025 dollars). Consumer-friendly models didn't appear until the late 1960s.
+The microwave oven itself emerged from this period. In 1945, Percy Spencer, an engineer at Raytheon working on magnetrons for radar, noticed a candy bar melting in his pocket while standing near an active magnetron. He experimented with popcorn and eggs (which exploded), and Raytheon filed a patent for a "microwave [cooking](/cooking) device" in 1945. The first commercial model, the Radarange, stood nearly 6 feet tall, weighed 750 pounds, and cost about $5,000 (roughly $85,000 in 2025 dollars). Consumer-friendly models didn't appear until the late 1960s.
 
 ## The Physics of Microwaves
 
@@ -132,7 +132,7 @@ Solid-state devices—particularly gallium arsenide (GaAs) and gallium nitride (
 Microwave antennas convert guided electromagnetic waves into free-space waves (and vice versa). The most common types:
 
 - **Parabolic dish antennas** focus microwaves into a narrow beam, like a flashlight focuses light. Used for satellite communications, radar, and point-to-point links.
-- **Horn antennas** flare out from a waveguide, providing moderate gain with simple construction. Used in radar, radio telescopes, and as test antennas.
+- **Horn antennas** flare out from a waveguide, providing moderate gain with simple [construction](/construction). Used in radar, radio telescopes, and as test antennas.
 - **Phased arrays** use many small antenna elements whose signals are electronically combined with controlled phase shifts. By adjusting the phases, the beam can be steered without physically moving the antenna. Modern military radar and 5G base stations use phased arrays extensively.
 - **Patch (microstrip) antennas** are flat, lightweight, and cheap. They're in your phone, your Wi-Fi router, and GPS receivers.
 
@@ -163,7 +163,7 @@ Microwave technology has growing medical applications. Microwave ablation destro
 
 ### Scientific Instruments
 
-Radio [astronomy](/astronomy) observes the universe at microwave frequencies. The cosmic microwave background radiation—the afterglow of the Big Bang—peaks at about 160 GHz. Measuring its tiny temperature variations led to precise measurements of the universe's age (13.8 billion years), composition, and geometry.
+Radio [astronomy](/astronomy) observes the universe at microwave frequencies. The cosmic microwave background radiation—the afterglow of the Big Bang—peaks at about 160 GHz. Measuring its tiny temperature variations led to precise measurements of the universe's age (13.8 billion years), composition, and [geometry](/geometry).
 
 Particle accelerators use high-power klystrons and magnetrons to accelerate charged particles. CERN's Large Hadron Collider uses superconducting RF cavities operating at 400 MHz.
 
@@ -183,7 +183,7 @@ Designing microwave systems that don't interfere with each other (or with themse
 
 ### Thermal Management
 
-Microwave power amplifiers convert DC power to RF power with efficiencies ranging from 30% to 70%, depending on the technology and operating conditions. The remaining energy becomes heat. A 100-watt amplifier at 50% efficiency generates 100 watts of heat in a small space. At higher power levels—radar transmitters can produce megawatts peak power—thermal management becomes a critical engineering challenge.
+Microwave power amplifiers convert DC power to RF power with efficiencies ranging from 30% to 70%, depending on the technology and operating conditions. The remaining energy becomes heat. A 100-watt amplifier at 50% efficiency generates 100 watts of heat in a small space. At higher power levels—radar transmitters can produce megawatts peak power—thermal [management](/management) becomes a critical engineering challenge.
 
 GaN transistors have helped enormously here. They operate at higher temperatures than older technologies and dissipate heat more efficiently. But cooling remains a major design constraint, especially in sealed military and space systems where convection isn't available.
 
@@ -211,4 +211,4 @@ Several trends are reshaping the field.
 
 Microwave engineering is the discipline that makes wireless communication, radar, satellite systems, and a vast range of sensing technologies possible. Born from wartime radar development, it has grown into an essential field behind everything from your phone's signal to autonomous vehicle sensors to radio telescopes probing the origins of the universe.
 
-The core challenge is always the same: electromagnetic waves at these frequencies don't behave like simple voltages and currents. Every wire is a transmission line, every discontinuity is a potential reflector, and the physical shape of every component matters. Mastering these realities—through physics, simulation, and painstaking measurement—is what microwave engineering is all about.
+The core challenge is always the same: electromagnetic waves at these frequencies don't behave like simple voltages and currents. Every wire is a transmission line, every discontinuity is a potential reflector, and the physical shape of every component matters. Mastering these realities—through [physics](/physics), simulation, and painstaking measurement—is what microwave engineering is all about.

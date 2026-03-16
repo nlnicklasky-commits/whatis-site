@@ -41,7 +41,7 @@ If you've ever looked at a field and wondered how it got that way, you've been t
 
 ## The Scope of the Science
 
-Physical geography is strikingly broad. It covers everything from the movement of tectonic plates to the migration patterns of caribou, from the chemistry of soil to the behavior of hurricanes. What ties it all together is a focus on spatial patterns --- where things are and why they're there --- and on the interactions between Earth's physical systems.
+Physical geography is strikingly broad. It covers everything from the movement of tectonic plates to the migration patterns of caribou, from the [chemistry](/chemistry) of soil to the behavior of hurricanes. What ties it all together is a focus on spatial patterns --- where things are and why they're there --- and on the interactions between Earth's physical systems.
 
 This breadth distinguishes physical geography from more specialized [earth sciences](/earth-science). [Geology](/geology) focuses on rocks and the deep Earth. [Climatology](/climatology) studies climate. [Ecology](/ecology) examines organisms and their environments. Physical geography integrates all of these, asking how they fit together at Earth's surface.
 
@@ -61,7 +61,7 @@ The Ring of Fire --- a horseshoe-shaped zone around the Pacific Ocean --- accoun
 
 ### Weathering and Erosion
 
-Plate tectonics builds landforms. Weathering and erosion tear them down.
+[Plate tectonics](/plate-tectonics) builds landforms. Weathering and erosion tear them down.
 
 Physical (mechanical) weathering breaks rock without changing its chemistry. Freeze-thaw cycles crack rocks when water freezes in joints and expands by about 9%. Root growth wedges rocks apart. Temperature changes cause expansion and contraction that eventually fractures stone.
 
@@ -133,7 +133,7 @@ The ocean covers 71% of Earth's surface and regulates global climate by absorbin
 
 ## The Biosphere: Life on Earth
 
-Physical geography includes biogeography --- the study of where organisms live and why.
+Physical geography includes [biogeography](/biogeography) --- the study of where organisms live and why.
 
 ### Biomes
 
@@ -143,13 +143,13 @@ Tropical rainforests, covering about 6% of Earth's land surface, contain roughly
 
 ### Soils
 
-Soil is the interface between rock, air, water, and life --- and physical geographers study it intensively. Soil formation depends on five factors identified by Hans Jenny in 1941: climate, organisms, relief (topography), parent material (rock type), and time.
+Soil is the interface between rock, air, water, and life --- and physical geographers study it intensively. Soil formation depends on five factors identified by Hans Jenny in 1941: climate, organisms, relief ([topography](/topography)), parent material (rock type), and time.
 
-Different environments produce radically different soils. Tropical soils (oxisols) are often nutrient-poor because heavy rainfall leaches minerals away. Grassland soils (mollisols) are among the world's most fertile, enriched by thousands of years of grass roots building organic matter. These soil differences explain agricultural productivity patterns around the world.
+Different environments produce radically different soils. Tropical soils (oxisols) are often nutrient-poor because heavy rainfall leaches minerals away. Grassland soils (mollisols) are among the world's most fertile, enriched by thousands of years of grass roots building organic matter. These soil differences explain agricultural [productivity](/productivity) patterns around the world.
 
 ### Ecosystem Services
 
-Physical geographers increasingly quantify the services that natural systems provide to humans: water filtration by wetlands, carbon storage by forests, pollination by insects, flood protection by floodplains. A 1997 study by Robert Costanza estimated the value of global ecosystem services at $33 trillion per year (adjusted for inflation, that's roughly $54 trillion in 2024 dollars) --- exceeding global GDP at the time.
+Physical geographers increasingly quantify the services that natural systems provide to humans: water filtration by wetlands, carbon storage by forests, [pollination](/pollination) by insects, flood protection by floodplains. A 1997 study by Robert Costanza estimated the value of global ecosystem services at $33 trillion per year (adjusted for inflation, that's roughly $54 trillion in 2024 dollars) --- exceeding global GDP at the time.
 
 ## Physical Geography and Human Challenges
 
@@ -163,7 +163,7 @@ The 2004 Indian Ocean tsunami killed over 230,000 people, partly because there w
 
 ### Climate Change
 
-Climate change is arguably the defining challenge for physical geography in the 21st century. Rising temperatures affect every system the field studies: ice sheets melt (cryosphere), sea levels rise (hydrosphere), weather patterns shift (atmosphere), biomes migrate (biosphere), and erosion patterns change (lithosphere).
+[Climate change](/climate-change) is arguably the defining challenge for physical geography in the 21st century. Rising temperatures affect every system the field studies: ice sheets melt (cryosphere), sea levels rise (hydrosphere), weather patterns shift (atmosphere), biomes migrate (biosphere), and erosion patterns change (lithosphere).
 
 The Arctic is warming roughly four times faster than the global average. Permafrost thaw threatens to release billions of tons of stored carbon and methane. Sea level has risen about 21 centimeters since 1900, and the rate is accelerating. Physical geographers document these changes, model their trajectories, and assess their consequences.
 
@@ -177,7 +177,7 @@ Modern physical geography relies on technologies that Alexander von Humboldt cou
 
 **Remote sensing** uses satellites and aircraft to observe Earth from above. Landsat satellites have provided continuous imagery since 1972, creating a 50-year visual record of field change. LiDAR (Light Detection and Ranging) creates detailed 3D terrain models by bouncing laser pulses off the ground --- even through forest canopy.
 
-**Geographic Information Systems (GIS)** --- the focus of [geographic information systems](/geographic-information-systems-gis) --- allow geographers to layer, analyze, and visualize spatial data. You can combine elevation data, soil maps, rainfall records, land use, and population data in a single analysis.
+**Geographic [Information Systems](/information-systems) (GIS)** --- the focus of [geographic information systems](/geographic-information-systems-gis) --- allow geographers to layer, analyze, and visualize spatial data. You can combine elevation data, soil maps, rainfall records, land use, and population data in a single analysis.
 
 **Numerical modeling** simulates physical processes. Climate models, river flow models, glacial movement models, and erosion models all use mathematical equations to predict how systems will behave under different conditions.
 

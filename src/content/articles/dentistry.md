@@ -45,7 +45,7 @@ The ancient Egyptians had dental specialists. Hesy-Ra, who lived around 2600 BCE
 
 But for most of history, dental treatment was crude and agonizing. Barber-surgeons pulled teeth. Blacksmiths made dental instruments. Anesthesia didn't exist. George Washington's famous "wooden teeth" were actually made from hippopotamus ivory, human teeth, and metal — and they caused him constant pain.
 
-Modern dentistry began emerging in the 1700s. Pierre Fauchard, a French physician, published "The Surgeon Dentist" in 1728, establishing dentistry as a distinct profession with standardized techniques. The first dental school — the Baltimore College of Dental Surgery — opened in 1840. Horace Wells demonstrated nitrous oxide anesthesia for tooth extraction in 1844, and dental patients everywhere breathed a literal sigh of relief.
+Modern dentistry began emerging in the 1700s. Pierre Fauchard, a French physician, published "The Surgeon Dentist" in 1728, establishing dentistry as a distinct profession with standardized techniques. The first dental school — the Baltimore College of Dental [Surgery](/surgery) — opened in 1840. Horace Wells demonstrated nitrous oxide anesthesia for tooth extraction in 1844, and dental patients everywhere breathed a literal sigh of relief.
 
 ## What General Dentists Do
 
@@ -61,7 +61,7 @@ Good preventive care means catching problems early. A small cavity caught on an 
 
 When teeth are damaged by decay, trauma, or wear, dentists restore them.
 
-**Fillings** replace tooth structure lost to cavities. Traditional amalgam (silver) fillings have been used since the 1800s and are durable and inexpensive. Composite (tooth-colored) fillings look more natural and bond directly to the tooth. The debate over amalgam's mercury content has continued for decades — major health organizations including the FDA, ADA, and WHO consider dental amalgam safe for adults and children over 6, though some countries have phased it out as a precaution.
+**Fillings** replace tooth structure lost to cavities. Traditional amalgam (silver) fillings have been used since the 1800s and are durable and inexpensive. Composite (tooth-colored) fillings look more natural and bond directly to the tooth. The [debate](/debate) over amalgam's mercury content has continued for decades — major health organizations including the FDA, ADA, and WHO consider dental amalgam safe for adults and children over 6, though some countries have phased it out as a precaution.
 
 **Crowns** are caps that cover a damaged tooth entirely, restoring its shape, strength, and appearance. They're used when a tooth is too damaged for a filling but not damaged enough to extract. Modern crowns can be made from porcelain, ceramic, metal alloys, or zirconia — some offices can even design and mill a crown in a single visit using CAD/CAM technology.
 
@@ -69,7 +69,7 @@ When teeth are damaged by decay, trauma, or wear, dentists restore them.
 
 **Bridges and dentures** replace missing teeth. A bridge anchors artificial teeth to adjacent natural teeth. Dentures are removable replacements for multiple missing teeth. Both have been used for centuries, though modern materials and techniques produce far better results.
 
-**Dental implants** are the gold standard for tooth replacement. A titanium post is surgically placed in the jawbone, where it fuses with the bone over several months (a process called osseointegration). An artificial tooth is then attached to the post. Implants look, feel, and function like natural teeth and can last a lifetime with proper care. They're also expensive — typically $3,000-5,000 per tooth, and rarely covered by insurance.
+**Dental implants** are the gold standard for tooth replacement. A titanium post is surgically placed in the jawbone, where it fuses with the bone over several months (a process called osseointegration). An artificial tooth is then attached to the post. Implants look, feel, and function like natural teeth and can last a lifetime with proper care. They're also expensive — typically $3,000-5,000 per tooth, and rarely covered by [insurance](/insurance).
 
 ## Dental Specialties
 
@@ -115,7 +115,7 @@ Several developments are shaping where the field is heading.
 
 **Regenerative dentistry** aims to regrow damaged teeth rather than replacing them with artificial materials. Researchers are experimenting with stem cells, growth factors, and bioactive materials that could stimulate the tooth to repair itself. A drug originally developed for Alzheimer's treatment (Tideglusib) has shown promise in stimulating natural tooth repair in studies.
 
-**AI-assisted diagnosis** is already entering dental offices. [Machine learning](/machine-learning) algorithms can analyze X-rays and flag potential cavities, bone loss, and other pathology, sometimes catching things human eyes miss. These tools augment rather than replace the dentist's judgment.
+**AI-assisted diagnosis** is already entering dental offices. [Machine learning](/machine-learning) algorithms can analyze X-rays and flag potential cavities, bone loss, and other [pathology](/pathology), sometimes catching things human eyes miss. These tools augment rather than replace the dentist's judgment.
 
 **Tele-dentistry** expanded during COVID-19 and continues to grow, particularly for initial consultations, follow-up care, and triaging emergencies in underserved areas.
 

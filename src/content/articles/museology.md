@@ -33,17 +33,17 @@ faq:
 
 Museology is the academic study of museums — their history, [philosophy](/philosophy), social function, organizational practices, and evolving relationship with the public. It asks questions that might seem obvious but turn out to be genuinely complicated: What is a museum for? Who decides what's worth preserving? Whose stories get told, and whose get left out? How should collections acquired through colonialism be handled?
 
-The field sits at the crossroads of several disciplines — [art history](/art-history), [anthropology](/anthropology), [education](/education), [architecture](/architecture), ethics, and organizational [management](/management). If you've ever walked through a museum and wondered why certain objects are displayed in certain ways, or why some cultures are represented by artifacts behind glass while others get entire wings of self-narrated exhibitions, you've been thinking museologically.
+The field sits at the crossroads of several disciplines — [art history](/art-history), [anthropology](/anthropology), [education](/education), [architecture](/architecture), [ethics](/ethics), and organizational [management](/management). If you've ever walked through a museum and wondered why certain objects are displayed in certain ways, or why some cultures are represented by artifacts behind glass while others get entire wings of self-narrated exhibitions, you've been thinking museologically.
 
 ## What Museums Actually Do
 
-The International Council of Museums (ICOM) defines a museum as "a not-for-profit, permanent institution in the service of society that researches, collects, conserves, interprets and exhibits tangible and intangible heritage." That definition was updated in 2022 after years of heated debate — the previous one hadn't changed since 2007, and many professionals felt it didn't reflect modern museum practice.
+The International Council of Museums (ICOM) defines a museum as "a not-for-profit, permanent institution in the service of society that researches, collects, conserves, interprets and exhibits tangible and intangible heritage." That definition was updated in 2022 after years of heated [debate](/debate) — the previous one hadn't changed since 2007, and many professionals felt it didn't reflect modern museum practice.
 
 Behind the public-facing galleries, museums perform several core functions:
 
 **Collecting** — acquiring objects through purchase, donation, fieldwork, or (historically and controversially) removal from their places of origin. Collection policies determine what a museum seeks and accepts.
 
-**Conservation** — preserving objects against deterioration. Conservation science is a technical field involving [chemistry](/chemistry), [materials science](/materials-science), and meticulous manual skill. A painting conservator might spend months on a single work.
+**Conservation** — preserving objects against deterioration. Conservation science is a technical field involving [chemistry](/chemistry), [materials science](/materials-science), and meticulous manual skill. A [painting](/painting) conservator might spend months on a single work.
 
 **Research** — studying collections to understand what they mean. Museum researchers publish scholarship, conduct scientific analysis, and build the knowledge base that makes interpretation possible.
 
@@ -77,13 +77,13 @@ Working in a museum involves far more than standing in galleries. Key roles incl
 
 **Curators** — oversee collections and develop exhibitions. They combine deep subject knowledge with storytelling ability. Curators decide what gets shown, how, and why.
 
-**Registrars** — manage the logistics of objects: acquisition records, loan agreements, insurance, tracking, and legal compliance. If a Rembrandt travels from Amsterdam to New York, a registrar coordinates every detail.
+**Registrars** — manage the [logistics](/logistics) of objects: acquisition records, loan agreements, [insurance](/insurance), tracking, and legal compliance. If a Rembrandt travels from Amsterdam to New York, a registrar coordinates every detail.
 
 **Conservators** — preserve and restore objects. A textile conservator might stabilize a 500-year-old mix. A paintings conservator might remove yellowed varnish to reveal original colors.
 
 **Exhibition designers** — create the physical and spatial experience of exhibitions. They work with curators, educators, and graphic designers to translate ideas into three-dimensional experiences.
 
-**Educators** — develop programs for schools, families, adults, and communities. Museum education is now more sophisticated, drawing on learning theory and audience research.
+**Educators** — develop programs for schools, families, adults, and communities. Museum education is now more sophisticated, [drawing](/drawing) on learning theory and audience research.
 
 ## The Future of Museums
 

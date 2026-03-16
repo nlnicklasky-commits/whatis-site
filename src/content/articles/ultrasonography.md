@@ -51,7 +51,7 @@ The "real-time" aspect is what makes ultrasound particularly useful. The transdu
 
 ### Frequency Matters
 
-Here's a trade-off that matters in practice. Higher-frequency sound waves produce sharper images but don't penetrate as deeply. Lower frequencies reach deeper structures but with less detail.
+Here's a [trade](/trade)-off that matters in practice. Higher-frequency sound waves produce sharper images but don't penetrate as deeply. Lower frequencies reach deeper structures but with less detail.
 
 A 12-15 MHz transducer might be used for superficial structures like thyroid nodules or breast lumps, where you need fine detail and the target is close to the skin. A 2-5 MHz transducer is better for abdominal organs or a fetus deep inside the pelvis, where penetration depth matters more than resolution.
 
@@ -107,7 +107,7 @@ This might be ultrasound's most underappreciated use. Doctors routinely use real
 
 **Doppler ultrasound** measures blood flow velocity and direction. It's essential for vascular and cardiac imaging.
 
-**3D ultrasound** combines multiple 2D images to create a three-dimensional picture. It's mainly used in obstetrics — those eerily detailed fetal face images are 3D ultrasounds.
+**3D ultrasound** combines multiple 2D images to create a three-dimensional picture. It's mainly used in [obstetrics](/obstetrics) — those eerily detailed fetal face images are 3D ultrasounds.
 
 **4D ultrasound** is 3D in real time — essentially a 3D video. It looks impressive, but its clinical value beyond standard 2D imaging is debated.
 

@@ -35,13 +35,13 @@ faq:
 
 # What Is Workplace Safety?
 
-Workplace safety is the set of policies, procedures, and practices designed to protect employees from physical injury, illness, and other hazards while on the job. It covers everything from hard hats on construction sites to ergonomic keyboards in offices to chemical exposure limits in manufacturing plants.
+Workplace safety is the set of policies, procedures, and practices designed to protect employees from physical injury, illness, and other hazards while on the job. It covers everything from hard hats on [construction](/construction) sites to ergonomic keyboards in offices to chemical exposure limits in manufacturing plants.
 
 ## Why It Matters More Than You Think
 
-Here's a number that should stop you cold: roughly 5,190 workers died from work-related injuries in the United States in 2021, according to the Bureau of Labor Statistics. That's about 14 people every single day. And that only counts fatal injuries — the number of nonfatal injuries and illnesses runs into the millions annually.
+Here's a number that should stop you cold: roughly 5,190 workers died from work-related injuries in the United States in 2021, according to the Bureau of Labor [Statistics](/statistics). That's about 14 people every single day. And that only counts fatal injuries — the number of nonfatal injuries and illnesses runs into the millions annually.
 
-Beyond the human cost, workplace injuries drain businesses financially. The National Safety Council estimates that work injuries cost U.S. employers over $167 billion per year in wage and productivity losses, medical expenses, and administrative costs. For a small business, even a single serious incident can mean the difference between staying open and closing for good.
+Beyond the human cost, workplace injuries drain businesses financially. The National Safety Council estimates that work injuries cost U.S. employers over $167 billion per year in wage and [productivity](/productivity) losses, medical expenses, and administrative costs. For a small business, even a single serious incident can mean the difference between staying open and closing for good.
 
 So workplace safety isn't just a moral issue or a regulatory checkbox. It's an economic one, a legal one, and — frankly — a test of whether a company actually values the people who keep it running.
 
@@ -91,7 +91,7 @@ Once hazards are identified, you address them using what safety professionals ca
 
 1. **Elimination** — Remove the hazard entirely. If a chemical is dangerous, stop using it.
 2. **Substitution** — Replace it with something less hazardous.
-3. **Engineering controls** — Physically change the workspace (machine guards, ventilation systems, noise barriers).
+3. **[Engineering](/engineering) controls** — Physically change the workspace (machine guards, ventilation systems, noise barriers).
 4. **Administrative controls** — Change work procedures (rotating shifts to limit exposure, requiring rest breaks).
 5. **Personal protective equipment (PPE)** — Hard hats, gloves, respirators, safety glasses.
 
@@ -107,7 +107,7 @@ When something goes wrong — an injury, a near-miss, a property damage event �
 
 ### Record Keeping and Compliance
 
-OSHA requires employers to maintain records of work-related injuries and illnesses using specific forms (the OSHA 300 log). These records serve multiple purposes: tracking trends within a company, enabling government oversight, and providing data for research. Fines for non-compliance can be steep — OSHA's maximum penalty for a willful violation exceeds $150,000 per instance.
+OSHA requires employers to maintain records of work-related injuries and illnesses using specific forms (the OSHA 300 log). These records serve multiple purposes: tracking trends within a company, enabling [government](/government) oversight, and providing data for research. Fines for non-compliance can be steep — OSHA's maximum penalty for a willful violation exceeds $150,000 per instance.
 
 ## Industry-Specific Challenges
 
@@ -119,7 +119,7 @@ Construction consistently ranks among the most dangerous industries. The "Fatal 
 
 ### Healthcare
 
-Healthcare workers face a unique combination of hazards: bloodborne pathogens, patient handling injuries (nursing has one of the highest rates of musculoskeletal injury of any profession), workplace violence, and chemical exposures. The emotional toll of the work adds psychosocial hazards on top of everything else.
+Healthcare workers face a unique combination of hazards: bloodborne pathogens, patient handling injuries ([nursing](/nursing) has one of the highest rates of musculoskeletal injury of any profession), workplace violence, and chemical exposures. The emotional toll of the work adds psychosocial hazards on top of everything else.
 
 ### Manufacturing
 
@@ -137,7 +137,7 @@ In a strong safety culture, everyone — from the CEO to the newest hire — gen
 
 In weak safety cultures, you hear things like "we've always done it this way," or "just be careful." Incident reports get buried. Near-misses go unreported because people don't want to rock the boat. And safety rules exist on paper but get ignored in practice.
 
-Research consistently shows that leadership commitment is the single biggest predictor of safety outcomes. When the boss takes safety seriously, everyone else follows.
+Research consistently shows that [leadership](/leadership) commitment is the single biggest predictor of safety outcomes. When the boss takes safety seriously, everyone else follows.
 
 ## Emerging Trends
 
@@ -149,7 +149,7 @@ Workplace safety keeps evolving as work itself changes.
 
 **[Artificial intelligence](/artificial-intelligence)** and [machine learning](/machine-learning) analyze safety data to predict where incidents are likely to occur, allowing proactive intervention rather than reactive investigation.
 
-**Heat-related illness** is getting more attention as climate change drives more extreme temperatures. Outdoor workers in agriculture, construction, and delivery face growing risks, and OSHA has been developing federal heat standards.
+**Heat-related illness** is getting more attention as [climate change](/climate-change) drives more extreme temperatures. Outdoor workers in agriculture, construction, and delivery face growing risks, and OSHA has been developing federal heat standards.
 
 ## The Bottom Line
 

@@ -77,7 +77,7 @@ States are not the only players. International politics increasingly involves:
 
 ## Contemporary Challenges
 
-**Climate change** is the ultimate collective action problem. Every country benefits from emissions reductions but has incentives to let others bear the cost. The Paris Agreement (2015) represents progress but remains insufficient — current commitments leave the world on track for 2.5-3 degrees Celsius of warming.
+**[Climate change](/climate-change)** is the ultimate collective action problem. Every country benefits from emissions reductions but has incentives to let others bear the cost. The Paris Agreement (2015) represents progress but remains insufficient — current commitments leave the world on track for 2.5-3 degrees Celsius of warming.
 
 **Nuclear proliferation** — nine countries possess nuclear weapons. Preventing additional states (and non-state actors) from acquiring them is an ongoing challenge.
 

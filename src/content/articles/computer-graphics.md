@@ -39,7 +39,7 @@ faq:
 
 # What Is Computer Graphics?
 
-Computer graphics is the field of creating, manipulating, and rendering visual content using computers — encompassing everything from the pixels on your screen right now to photorealistic CGI in blockbuster films, real-time 3D video games, [medical imaging](/medical-imaging), and virtual reality environments. It's the science and art of turning mathematical descriptions into images you can see.
+Computer graphics is the field of creating, manipulating, and rendering visual content using computers — encompassing everything from the pixels on your screen right now to photorealistic CGI in blockbuster films, real-time 3D video games, [medical imaging](/medical-imaging), and [virtual reality](/virtual-reality) environments. It's the science and art of turning mathematical descriptions into images you can see.
 
 ## From Oscilloscopes to Photorealism: A Quick History
 
@@ -53,7 +53,7 @@ The 1980s brought personal computers with graphics capabilities to ordinary peop
 
 Then Pixar released Toy Story in 1995. The first entirely computer-animated feature film. It took four years and enormous computing power to produce. Today, a single high-end GPU has more rendering power than the entire render farm Pixar used for that movie.
 
-The 2000s and 2010s saw real-time graphics catch up to what had been offline-only quality. Modern video games routinely produce visuals that would have been film-quality CGI just a decade earlier. And real-time ray tracing — long considered too expensive for interactive applications — became a reality with NVIDIA's RTX architecture in 2018.
+The 2000s and 2010s saw real-time graphics catch up to what had been offline-only quality. Modern video games routinely produce visuals that would have been film-quality CGI just a decade earlier. And real-time ray tracing — long considered too expensive for interactive applications — became a reality with NVIDIA's RTX [architecture](/architecture) in 2018.
 
 ## The Rendering Pipeline: From Math to Pixels
 
@@ -63,9 +63,9 @@ Every image you see on a computer screen goes through a rendering pipeline — a
 
 Everything in 3D graphics starts with geometry. Objects are represented as meshes — collections of vertices (points in 3D space) connected by edges to form triangles or other polygons. A simple cube needs 8 vertices and 12 triangles. A detailed character model might have millions.
 
-Why triangles? They're the simplest polygon that defines a flat surface. Any other polygon can be broken into triangles, but a triangle can't be broken down further. This simplicity makes hardware optimization possible. Your GPU is essentially a triangle-processing machine.
+Why triangles? They're the simplest polygon that defines a flat surface. Any other polygon can be broken into triangles, but a triangle can't be broken down further. This simplicity makes hardware [optimization](/optimization) possible. Your GPU is essentially a triangle-processing machine.
 
-Vertices store more than just position. Each vertex can carry color, texture coordinates (how images wrap onto surfaces), normal vectors (which direction the surface faces at that point), and other attributes. This per-vertex data drives everything from lighting to animation.
+Vertices store more than just position. Each vertex can carry color, texture coordinates (how images wrap onto surfaces), normal vectors (which direction the surface faces at that point), and other attributes. This per-vertex data drives everything from lighting to [animation](/animation).
 
 ### Transformations: Placing Things in Space
 
@@ -77,7 +77,7 @@ Once you have geometry, you need to position it. This happens through a chain of
 
 **Projection transformation** converts 3D coordinates to 2D. Perspective projection makes distant objects smaller (how your eyes see the world). Orthographic projection preserves sizes regardless of distance (useful for technical drawings and some game styles).
 
-All of these are matrix multiplications. A 4x4 matrix can represent any combination of translation, rotation, scaling, and projection. This is why linear algebra is the mathematical backbone of [computer graphics](/computer-science) — and why GPUs are designed to multiply matrices absurdly fast.
+All of these are matrix multiplications. A 4x4 matrix can represent any combination of [translation](/translation), rotation, scaling, and projection. This is why [linear algebra](/linear-algebra) is the mathematical backbone of [computer graphics](/computer-science) — and why GPUs are designed to multiply matrices absurdly fast.
 
 ### Rasterization: Filling in the Pixels
 
@@ -142,17 +142,17 @@ Simulating this light transport accurately is called global illumination, and it
 
 ## Real-Time Graphics: Games and Interactive Applications
 
-Real-time graphics must produce images fast enough for interactive use — typically 30 to 144 frames per second. This constraint drives completely different engineering choices than offline rendering.
+Real-time graphics must produce images fast enough for interactive use — typically 30 to 144 frames per second. This constraint drives completely different [engineering](/engineering) choices than offline rendering.
 
 ### Graphics APIs
 
 Applications don't talk to the GPU directly. They use graphics APIs — standardized interfaces that abstract the hardware:
 
-**OpenGL** — the veteran. Cross-platform, relatively simple, still widely used in education and some applications. Being gradually superseded.
+**OpenGL** — the veteran. Cross-platform, relatively simple, still widely used in [education](/education) and some applications. Being gradually superseded.
 
 **Vulkan** — the modern successor to OpenGL. Lower-level, offering more control and better performance but requiring significantly more code. Cross-platform.
 
-**DirectX 12** — Microsoft's low-level graphics API for Windows and Xbox. Similar philosophy to Vulkan.
+**DirectX 12** — Microsoft's low-level graphics API for Windows and Xbox. Similar [philosophy](/philosophy) to Vulkan.
 
 **Metal** — Apple's graphics API for macOS and iOS. Tight integration with Apple hardware.
 
@@ -176,7 +176,7 @@ Most games and interactive 3D applications are built on game engines rather than
 
 **Godot** — an open-source engine gaining significant traction, especially among indie developers.
 
-These engines handle rendering, physics, audio, input, networking, and asset management — letting developers focus on their specific game or application rather than reinventing the wheel.
+These engines handle rendering, physics, audio, input, [networking](/networking), and asset [management](/management) — letting developers focus on their specific game or application rather than reinventing the wheel.
 
 ## Offline Rendering: Film and Visual Effects
 
@@ -239,19 +239,19 @@ Graphics isn't just for entertainment. Scientific visualization and medical imag
 
 **Scientific visualization** turns abstract data into understandable images. Climate models, fluid simulations, molecular structures, astronomical data — graphics makes the invisible visible. Researchers at weather agencies use graphics to visualize atmospheric models. Physicists visualize particle collision data. Biologists explore protein structures in virtual reality.
 
-**Architectural visualization** creates photorealistic renderings of buildings before construction. Real-time walkthroughs in Unreal Engine have largely replaced pre-rendered animations, letting clients explore designs interactively.
+**Architectural visualization** creates photorealistic renderings of buildings before [construction](/construction). Real-time walkthroughs in Unreal Engine have largely replaced pre-rendered animations, letting clients explore designs interactively.
 
 ## The Math Behind the Magic
 
-You can't fully understand computer graphics without appreciating the mathematics involved. The core disciplines are:
+You can't fully understand computer graphics without appreciating the [mathematics](/mathematics) involved. The core disciplines are:
 
 **Linear algebra** — vectors, matrices, transformations. This is the single most important math topic for graphics. Every vertex transformation, every camera projection, every lighting calculation involves linear algebra.
 
 **Calculus** — integration for rendering equations, derivatives for surface normals and tangents, [differential equations](/differential-equations) for physics simulation.
 
-**Trigonometry** — angles, rotations, wave functions for animation and effects.
+**[Trigonometry](/trigonometry)** — angles, rotations, wave functions for animation and effects.
 
-**Statistics and probability** — Monte Carlo methods for path tracing, stochastic sampling, noise functions.
+**[Statistics](/statistics) and probability** — Monte Carlo methods for path tracing, stochastic sampling, noise functions.
 
 **Computational geometry** — intersection testing, mesh processing, convex hulls, spatial [data structures](/data-structures).
 
@@ -263,7 +263,7 @@ If you're interested in graphics programming, invest in linear algebra first. Th
 
 [Machine learning](/machine-learning) is reshaping computer graphics. Neural Radiance Fields (NeRFs) reconstruct 3D scenes from photographs — take pictures around an object, and an AI model produces a renderable 3D representation. Gaussian Splatting achieves similar results faster and with real-time rendering capability.
 
-AI-based super-resolution (NVIDIA's DLSS, AMD's FSR) renders at lower resolution and uses neural networks to upscale the result. The output often looks as good as native high resolution, but at a fraction of the computational cost. This has become essentially mandatory for demanding real-time ray tracing.
+AI-based super-resolution (NVIDIA's DLSS, AMD's FSR) renders at lower resolution and uses [neural networks](/neural-networks) to upscale the result. The output often looks as good as native high resolution, but at a fraction of the computational cost. This has become essentially mandatory for demanding real-time ray tracing.
 
 AI-generated textures, 3D models, and even entire scenes are rapidly improving. Text-to-3D models can generate rough 3D objects from natural language descriptions. They're not production-ready yet for most uses, but the trajectory is clear.
 

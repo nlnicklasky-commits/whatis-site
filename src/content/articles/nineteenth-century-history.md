@@ -47,7 +47,7 @@ A Second Industrial Revolution kicked off around 1870, powered by [electricity](
 
 The 19th century was also the age of revolution and nationalism.
 
-The century opened with the aftermath of the French Revolution and the [Napoleonic Wars](/napoleonic-wars). Napoleon's armies carried revolutionary ideas — citizenship, legal equality, secular governance — across Europe before his final defeat at Waterloo in 1815. The Congress of Vienna tried to stuff the revolutionary genie back in the bottle by restoring monarchies and drawing borders, but it didn't hold.
+The century opened with the aftermath of the French Revolution and the [Napoleonic Wars](/napoleonic-wars). Napoleon's armies carried revolutionary ideas — citizenship, legal equality, secular governance — across Europe before his final defeat at Waterloo in 1815. The Congress of Vienna tried to stuff the revolutionary genie back in the bottle by restoring monarchies and [drawing](/drawing) borders, but it didn't hold.
 
 1848 was the year everything blew up. Revolutions swept across France, Germany, Austria, Hungary, Italy, and beyond. Most were crushed or fizzled, but they planted seeds. The desire for national self-determination — the idea that each "nation" (defined by language, culture, or ethnicity) deserved its own state — would reshape the map.
 
@@ -89,6 +89,6 @@ The 19th century saw the rise of organized movements for social change.
 
 ## The Century's Legacy
 
-By 1900, the world was almost unrecognizable from 1800. Population had doubled from roughly 1 billion to 1.6 billion. Urbanization was accelerating. Global trade networks connected every continent. Communication that once took weeks now took seconds via telegraph.
+By 1900, the world was almost unrecognizable from 1800. Population had doubled from roughly 1 billion to 1.6 billion. Urbanization was accelerating. Global [trade](/trade) networks connected every continent. Communication that once took weeks now took seconds via telegraph.
 
 But the century also planted the seeds of its successor's catastrophes. Imperial rivalries, nationalist tensions, arms races, and unresolved social conflicts were building pressure that would explode in 1914. The 19th century built the modern world — and also built the system that would nearly destroy it.

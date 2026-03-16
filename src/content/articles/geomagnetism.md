@@ -37,7 +37,7 @@ faq:
 
 # What Is Geomagnetism?
 
-Geomagnetism is the study of Earth's magnetic field — its generation by convection currents in the planet's liquid iron outer core, its structure extending from the deep interior through the magnetosphere, its changes over timescales from seconds to billions of years, and its effects on everything from compass navigation to the aurora borealis to the protection of Earth's atmosphere from solar wind erosion.
+Geomagnetism is the study of Earth's magnetic field — its generation by convection currents in the planet's liquid iron outer core, its structure extending from the deep interior through the magnetosphere, its changes over timescales from seconds to billions of years, and its effects on everything from compass [navigation](/navigation) to the aurora borealis to the protection of Earth's atmosphere from solar wind erosion.
 
 ## The Invisible Shield
 
@@ -59,11 +59,11 @@ The outer core is in constant motion. Heat from the inner core (which releases l
 
 These flowing currents of molten iron — an excellent electrical conductor — generate electric currents. Those currents, in turn, generate magnetic fields. And here's the self-sustaining part: the magnetic fields influence the fluid flow, which generates more current, which sustains the magnetic field. This self-exciting dynamo is called the geodynamo.
 
-The geodynamo has been running for at least 3.5 billion years — possibly longer. Computer simulations of the geodynamo are among the most computationally demanding calculations in geophysics, requiring enormous supercomputer resources to model the turbulent, rotating, magnetized [fluid dynamics](/fluid-dynamics) of the outer core. These simulations — efforts in [computational physics](/computational-physics) at their most extreme — successfully reproduce many observed features of Earth's field, including its overall structure, its secular variation, and even spontaneous reversals.
+The geodynamo has been [running](/running) for at least 3.5 billion years — possibly longer. Computer simulations of the geodynamo are among the most computationally demanding calculations in [geophysics](/geophysics), requiring enormous supercomputer resources to model the turbulent, rotating, magnetized [fluid dynamics](/fluid-dynamics) of the outer core. These simulations — efforts in [computational physics](/computational-physics) at their most extreme — successfully reproduce many observed features of Earth's field, including its overall structure, its secular variation, and even spontaneous reversals.
 
 ## The Structure of Earth's Magnetic Field
 
-At Earth's surface, the magnetic field roughly resembles a dipole — the field of a bar magnet tilted about 11 degrees from Earth's rotation axis. The field lines emerge from the southern hemisphere, loop through space, and re-enter in the northern hemisphere (yes, in physics terms, Earth's "north magnetic pole" is actually a south-seeking pole — the naming convention is historical and slightly confusing).
+At Earth's surface, the magnetic field roughly resembles a dipole — the field of a bar magnet tilted about 11 degrees from Earth's rotation axis. The field lines emerge from the southern hemisphere, loop through space, and re-enter in the northern hemisphere (yes, in [physics](/physics) terms, Earth's "north magnetic pole" is actually a south-seeking pole — the naming convention is historical and slightly confusing).
 
 But the dipole is only an approximation. About 10-15% of the surface field comes from non-dipole components — patches of stronger or weaker field that vary in position and intensity over decades to centuries. These non-dipole features reflect the complex convective patterns in the outer core and are responsible for the secular variation (gradual change) of the field that navigators have tracked for centuries.
 
@@ -93,7 +93,7 @@ These stripes — combined with independent dating of the basalt — provided th
 
 ### How Reversals Work
 
-A reversal isn't instantaneous. Based on detailed studies of transitional lava flows and sediments, a complete reversal takes somewhere between 1,000 and 10,000 years — fast by geological standards but slow by human ones. During the transition, the field becomes complicated: the simple dipole weakens, multiple poles may appear, and the field geometry becomes chaotic before re-establishing itself in the opposite polarity.
+A reversal isn't instantaneous. Based on detailed studies of transitional lava flows and sediments, a complete reversal takes somewhere between 1,000 and 10,000 years — fast by geological standards but slow by human ones. During the transition, the field becomes complicated: the simple dipole weakens, multiple poles may appear, and the field [geometry](/geometry) becomes chaotic before re-establishing itself in the opposite polarity.
 
 The field strength typically drops to about 10-25% of its normal value during a reversal. This weakening reduces the magnetosphere's shielding efficiency, potentially allowing more solar and cosmic radiation to reach the surface. Whether this has significant biological effects is debated. Some scientists have looked for correlations between reversals and mass extinctions, but the evidence is inconclusive.
 
@@ -115,7 +115,7 @@ This paleomagnetic evidence was crucial for confirming [plate tectonics](/plate-
 
 ### Apparent Polar Wander
 
-The "apparent polar wander path" for each continent — the track of the ancient magnetic pole relative to that continent over time — provided some of the most compelling evidence for continental drift. Different continents showed different polar wander paths, which only made sense if the continents themselves had moved. When plate tectonics reconstructions are applied, the paths converge — the magnetic poles weren't really wandering; the continents were.
+The "apparent polar wander path" for each continent — the track of the ancient magnetic pole relative to that continent over time — provided some of the most compelling evidence for continental drift. Different continents showed different polar wander paths, which only made sense if the continents themselves had moved. When plate [tectonics](/tectonics) reconstructions are applied, the paths converge — the magnetic poles weren't really wandering; the continents were.
 
 ## Space Weather and Geomagnetic Storms
 
@@ -131,7 +131,7 @@ Geomagnetic storms aren't just pretty lights. They have serious technological co
 
 **Satellites**: Energetic particles during storms damage satellite [electronics](/electronics), degrade solar panels, and can disable satellites entirely. Storm-driven atmospheric expansion increases drag on low-orbit satellites, altering their orbits unpredictably. SpaceX lost 40 Starlink satellites in February 2022 when a geomagnetic storm increased atmospheric drag during their initial orbit-raising maneuvers.
 
-**Communications and navigation**: Ionospheric disturbances during storms degrade GPS accuracy and disrupt high-frequency radio communications — particularly affecting aviation communications on polar routes.
+**Communications and navigation**: Ionospheric disturbances during storms degrade GPS accuracy and disrupt high-frequency radio communications — particularly affecting [aviation](/aviation) communications on polar routes.
 
 **Radiation hazards**: During intense storms, radiation levels at aircraft altitudes increase significantly. Airlines sometimes reroute polar flights to lower latitudes during space weather events. Astronauts on the International Space Station shelter in more shielded areas.
 
@@ -147,11 +147,11 @@ Beyond fundamental science, geomagnetism has numerous practical uses.
 
 **Navigation**: Magnetic declination — the angle between magnetic north and true north — varies with location and changes over time. The World Magnetic Model, updated every five years by NOAA and the British Geological Survey, provides declination values worldwide. Every compass user, from hikers to aircraft pilots to smartphone apps, depends on this model.
 
-**Mineral exploration**: Magnetic surveys — from aircraft, ground stations, or satellites — detect variations in crustal magnetism that indicate different rock types and geological structures. These surveys help locate ore deposits, map buried geological contacts, and identify faults concealed beneath surface cover.
+**Mineral exploration**: Magnetic surveys — from aircraft, ground stations, or satellites — detect variations in crustal [magnetism](/magnetism) that indicate different rock types and geological structures. These surveys help locate ore deposits, map buried geological contacts, and identify faults concealed beneath surface cover.
 
-**[Archaeology](/archaeology)**: Archaeomagnetic dating uses the known history of magnetic field changes to date archaeological features — kilns, hearths, burned structures — that acquired a magnetic signature when they were last heated. The technique complements [radiocarbon dating](/radiocarbon-dating) and is particularly useful for dating pottery and fired structures.
+**[Archaeology](/archaeology)**: Archaeomagnetic dating uses the known history of magnetic field changes to date archaeological features — kilns, hearths, burned structures — that acquired a magnetic signature when they were last heated. The technique complements [radiocarbon dating](/radiocarbon-dating) and is particularly useful for dating [pottery](/pottery) and fired structures.
 
-**Animal navigation**: Numerous species — from bacteria to birds to whales — sense and use the magnetic field for orientation and navigation. Understanding how they do this remains one of biology's intriguing mysteries. The leading hypothesis for birds involves a quantum mechanical process in a protein called cryptochrome in the retina — meaning birds might literally see the magnetic field as a visual overlay on their surroundings.
+**Animal navigation**: Numerous species — from bacteria to birds to whales — sense and use the magnetic field for orientation and navigation. Understanding how they do this remains one of [biology](/biology)'s intriguing mysteries. The leading hypothesis for birds involves a quantum mechanical process in a protein called cryptochrome in the retina — meaning birds might literally see the magnetic field as a visual overlay on their surroundings.
 
 ## The Future of Geomagnetism Research
 
@@ -165,4 +165,4 @@ Several big questions drive current research.
 
 **How did the early magnetic field form?** The oldest paleomagnetic evidence suggests a field existed 3.5 billion years ago or earlier, but the energy sources driving the early dynamo — before the inner core started solidifying — remain debated.
 
-Geomagnetism connects [astronomy](/astronomy) (solar wind interactions) to [astrophysics](/astrophysics) (planetary dynamos) to geology (paleomagnetism and tectonics) to [chemistry](/chemistry) (core composition) to biology (animal navigation) to engineering (space weather effects). It's a field where [quantum mechanics](/quantum-mechanics) meets planetary physics, where ancient rocks tell stories about a restless, churning iron heart deep beneath our feet, and where understanding a phenomenon you can't see or feel turns out to be critical for protecting the technology-dependent civilization we've built on Earth's surface.
+Geomagnetism connects [astronomy](/astronomy) (solar wind interactions) to [astrophysics](/astrophysics) (planetary dynamos) to [geology](/geology) (paleomagnetism and tectonics) to [chemistry](/chemistry) (core composition) to biology (animal navigation) to [engineering](/engineering) (space weather effects). It's a field where [quantum mechanics](/quantum-mechanics) meets planetary physics, where ancient rocks tell stories about a restless, churning iron heart deep beneath our feet, and where understanding a phenomenon you can't see or feel turns out to be critical for protecting the technology-dependent civilization we've built on Earth's surface.

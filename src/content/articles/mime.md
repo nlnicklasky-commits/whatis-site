@@ -73,6 +73,6 @@ Street mime — the white-faced performer doing "trapped in a box" on a sidewalk
 
 Contemporary practitioners like Bill Irwin, Mummenschanz, and Blue Man Group draw on mime techniques while pushing into new territory. Physical theater companies use mime alongside [dance](/dance), circus, [puppetry](/puppetry), and multimedia. Jacques Lecoq's school in Paris trained a generation of performers who brought physical [storytelling](/storytelling) into mainstream theater.
 
-Mime techniques are also fundamental to actor training. Most [drama](/drama) schools include physical theater and movement courses that draw directly from mime traditions. Clown training, mask work, and physical comedy all build on skills that mime developed and systematized.
+Mime techniques are also fundamental to actor training. Most [drama](/drama) schools include physical theater and movement courses that draw directly from mime traditions. Clown training, mask work, and [physical comedy](/physical-comedy) all build on skills that mime developed and systematized.
 
 The pure, traditional form — one performer, no props, no words — remains the most demanding test of physical expression in the performing arts. When it's done well, it reminds you that the human body, all by itself, is the original storytelling instrument.

@@ -57,7 +57,7 @@ Good editors share certain cognitive traits that are worth understanding whether
 
 **[Pattern recognition](/pattern-recognition).** Experienced editors spot recurring problems quickly — an author who uses passive voice habitually, a filmmaker who over-relies on close-ups, a podcaster who says "basically" every third sentence. Addressing patterns is more efficient than fixing individual instances.
 
-**Knowing when to stop.** Over-editing strips personality from writing. Under-editing leaves problems that damage credibility. The judgment about how much to change — and what to leave alone — is the hardest part of editing. It improves only with experience.
+**Knowing when to stop.** Over-editing strips personality from [writing](/writing). Under-editing leaves problems that damage credibility. The judgment about how much to change — and what to leave alone — is the hardest part of editing. It improves only with experience.
 
 ## Film and [Video Editing](/video-editing)
 

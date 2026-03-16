@@ -43,7 +43,7 @@ Despite their invisibility to the unaided eye, microbes run the planet. They pro
 
 ### Van Leeuwenhoek's Animalcules (1670s)
 
-Antonie van Leeuwenhoek, a Dutch cloth merchant with a hobby of grinding lenses, built simple microscopes that magnified up to 270x. In 1676, he looked at a drop of pond water and saw what he called "animalcules" --- tiny creatures swimming around. He wrote to the Royal Society in London describing bacteria (from his own dental plaque, no less), protozoa, and other microorganisms.
+Antonie van Leeuwenhoek, a Dutch cloth merchant with a hobby of grinding lenses, built simple microscopes that magnified up to 270x. In 1676, he looked at a drop of pond water and saw what he called "animalcules" --- tiny creatures [swimming](/swimming) around. He wrote to the Royal Society in London describing bacteria (from his own dental plaque, no less), protozoa, and other microorganisms.
 
 Nobody had ever seen these things before. The scientific community was skeptical, but repeated observations confirmed his findings. Van Leeuwenhoek had opened a window onto a world that humans didn't know existed.
 
@@ -84,7 +84,7 @@ Bacteria are single-celled prokaryotes --- cells without a membrane-bound nucleu
 
 **Structure**: A typical bacterium has a cell membrane, cell wall (made of peptidoglycan in most species), cytoplasm containing ribosomes and DNA (a single circular chromosome), and sometimes external structures like flagella (for movement), pili (for attachment), and a capsule (for protection).
 
-**Diversity**: Bacteria inhabit every environment on Earth. Thermophiles thrive in hot springs at 80+ degrees Celsius. Psychrophiles grow at subzero temperatures. Halophiles tolerate extreme salt concentrations. Acidophiles flourish in conditions as acidic as pH 0 (battery acid). Bacteria live in rocks deep underground, in the upper atmosphere, and in the crushing pressure of deep ocean trenches.
+**Diversity**: Bacteria inhabit every environment on Earth. Thermophiles thrive in hot [springs](/springs) at 80+ degrees Celsius. Psychrophiles grow at subzero temperatures. Halophiles tolerate extreme salt concentrations. Acidophiles flourish in conditions as acidic as pH 0 (battery acid). Bacteria live in rocks deep underground, in the upper atmosphere, and in the crushing pressure of deep ocean trenches.
 
 **Classification**: Bacteria are classified by shape (cocci = spherical, bacilli = rod-shaped, spirilla = spiral), Gram staining (Gram-positive bacteria have thick peptidoglycan walls; Gram-negative have thin walls with an outer membrane), metabolic properties, and increasingly by DNA sequencing.
 
@@ -112,7 +112,7 @@ Fungi are eukaryotes (cells with nuclei) that include yeasts (single-celled), mo
 
 **Medical importance**: Fungal infections (mycoses) range from minor skin conditions (athlete's foot, ringworm) to life-threatening systemic infections (invasive aspergillosis, cryptococcal meningitis) that primarily affect immunocompromised patients. Fungal infections kill an estimated 1.5 million people annually worldwide, a number that doesn't get the attention it deserves.
 
-**Industrial uses**: Yeast (Saccharomyces cerevisiae) is essential for brewing, baking, and winemaking. Penicillin comes from a fungus (Penicillium). Fungi produce enzymes used in food processing, detergents, and [biotechnology](/biotechnology). Some species produce valuable secondary metabolites including statins (cholesterol-lowering drugs).
+**Industrial uses**: Yeast (Saccharomyces cerevisiae) is essential for brewing, [baking](/baking), and winemaking. Penicillin comes from a fungus (Penicillium). Fungi produce enzymes used in food processing, detergents, and [biotechnology](/biotechnology). Some species produce valuable secondary metabolites including statins (cholesterol-lowering drugs).
 
 ### Protozoa
 
@@ -142,17 +142,17 @@ The gut microbiome alone contains over 1,000 bacterial species and performs func
 
 **The gut-brain axis**: Growing research links the gut microbiome to [mental health](/mental-health). Gut bacteria produce neurotransmitters and other signaling molecules that influence brain function. Alterations in the microbiome have been associated with depression, anxiety, autism, and neurodegenerative diseases, though the exact mechanisms are still being worked out.
 
-Disruption of the microbiome (dysbiosis), often caused by antibiotics, poor diet, or illness, is associated with conditions including inflammatory bowel disease, obesity, type 2 diabetes, allergies, and autoimmune disorders. The causal relationships are complex and still being established, but the evidence that the microbiome matters profoundly for health is now overwhelming.
+Disruption of the microbiome (dysbiosis), often caused by antibiotics, poor diet, or illness, is associated with conditions including inflammatory bowel disease, obesity, type 2 diabetes, [allergies](/allergies), and autoimmune disorders. The causal relationships are complex and still being established, but the evidence that the microbiome matters profoundly for health is now overwhelming.
 
 ## Antimicrobial Resistance: The Growing Crisis
 
 Antibiotics were one of humanity's greatest medical achievements. Antibiotic resistance threatens to undo them.
 
-Bacteria evolve resistance through mutation and horizontal gene transfer (sharing resistance genes between species). Every time antibiotics are used, selection pressure favors resistant strains. Overuse in medicine (prescribing antibiotics for viral infections, patients not finishing prescribed courses) and agriculture (using antibiotics as growth promoters in livestock) has accelerated resistance development.
+Bacteria evolve resistance through mutation and horizontal gene transfer (sharing resistance genes between species). Every time antibiotics are used, selection pressure favors resistant strains. Overuse in medicine (prescribing antibiotics for viral infections, patients not finishing prescribed courses) and [agriculture](/agriculture) (using antibiotics as growth promoters in livestock) has accelerated resistance development.
 
 The numbers are alarming. A 2022 study in The Lancet estimated that antimicrobial-resistant bacterial infections were directly responsible for 1.27 million deaths in 2019 and associated with 4.95 million deaths globally. Some infections --- notably drug-resistant tuberculosis, methicillin-resistant Staphylococcus aureus (MRSA), and carbapenem-resistant Enterobacteriaceae --- have become extremely difficult to treat.
 
-If current trends continue, resistant infections could cause 10 million deaths annually by 2050, according to a UK government-commissioned review. New antibiotics are desperately needed, but the economic incentives for pharmaceutical companies are poor --- antibiotics are used for short courses, and the most valuable new antibiotics would be held in reserve, limiting sales.
+If current trends continue, resistant infections could cause 10 million deaths annually by 2050, according to a UK [government](/government)-commissioned review. New antibiotics are desperately needed, but the economic incentives for pharmaceutical companies are poor --- antibiotics are used for short courses, and the most valuable new antibiotics would be held in reserve, limiting [sales](/sales).
 
 Alternative approaches under investigation include phage therapy (using viruses that infect bacteria), antimicrobial peptides, CRISPR-based approaches that target resistance genes, and [machine learning](/machine-learning) methods to discover new antibiotics from previously unscreened sources.
 
@@ -168,7 +168,7 @@ Microbes are workhorses in many industries beyond medicine.
 
 [Biotechnology](/biotechnology) uses microbes as cellular factories. Genetically engineered bacteria produce human insulin (since 1982 --- before this, insulin came from pig and cow pancreases), growth hormone, clotting factors, and many other pharmaceuticals. Industrial enzymes for detergents, food processing, and biofuel production are produced by engineered microbes.
 
-CRISPR-Cas9, the gene-editing technology that won the 2020 Nobel Prize in Chemistry, is itself a microbial defense system --- bacteria use it to fight viral infections. Scientists adapted it into one of the most powerful tools in [biology](/biology).
+CRISPR-Cas9, the gene-[editing](/editing) technology that won the 2020 Nobel Prize in [Chemistry](/chemistry), is itself a microbial defense system --- bacteria use it to fight viral infections. Scientists adapted it into one of the most powerful tools in [biology](/biology).
 
 ### Environmental Applications
 
@@ -184,7 +184,7 @@ Microorganisms can produce ethanol, butanol, biodiesel, and hydrogen from renewa
 
 ### Microscopy
 
-Light microscopy (magnification up to about 1,000x) reveals bacterial morphology and some internal structures. [Electron microscopy](/electron-microscopy) (up to 2,000,000x) resolves viral structures and subcellular details. Fluorescence microscopy uses labeled antibodies or proteins to visualize specific molecules within cells.
+Light [microscopy](/microscopy) (magnification up to about 1,000x) reveals bacterial morphology and some internal structures. [Electron microscopy](/electron-microscopy) (up to 2,000,000x) resolves viral structures and subcellular details. Fluorescence microscopy uses labeled antibodies or proteins to visualize specific molecules within cells.
 
 ### Culture Techniques
 

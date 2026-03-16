@@ -61,7 +61,7 @@ Before a patient is seen, the billing process begins. Front office staff collect
 
 Verification means confirming with the insurance company that the patient's plan is active, what services are covered, what the copay and deductible amounts are, and whether a referral or prior authorization is needed. Skipping this step is one of the most common causes of claim denials.
 
-Prior authorization is particularly important for expensive procedures, specialist visits, and certain medications. The insurance company requires advance approval before they'll agree to pay. Without it, the provider might perform a $50,000 surgery and discover afterward that the insurer won't cover it.
+Prior authorization is particularly important for expensive procedures, specialist visits, and certain medications. The insurance company requires advance approval before they'll agree to pay. Without it, the provider might perform a $50,000 [surgery](/surgery) and discover afterward that the insurer won't cover it.
 
 ### Step 2: The Patient Encounter
 
@@ -200,7 +200,7 @@ Medical billing offers several career trajectories:
 
 **Billing supervisor/manager**: Oversees a billing team, manages payer relationships, handles complex denials and appeals, and monitors key performance indicators. Typically requires several years of experience plus management skills.
 
-**Revenue cycle director**: Senior [leadership](/leadership) role overseeing the entire financial cycle of a healthcare organization. Requires deep expertise in billing, coding, compliance, and healthcare finance.
+**Revenue cycle director**: Senior [leadership](/leadership) role overseeing the entire financial cycle of a healthcare organization. Requires deep expertise in billing, coding, compliance, and healthcare [finance](/finance).
 
 **Billing company owner**: Many experienced billers start their own medical billing businesses, contracting with multiple healthcare providers. The startup costs are relatively low (primarily software and training), making this an accessible entrepreneurial path.
 

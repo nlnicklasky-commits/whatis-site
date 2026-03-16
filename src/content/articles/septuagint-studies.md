@@ -42,7 +42,7 @@ The most famous account of the Septuagint's creation comes from the **Letter of 
 
 The scholars supposedly completed their translation in exactly 72 days. Later versions of the story got more dramatic: the translators worked independently in separate rooms and produced identical translations, proving divine inspiration.
 
-This is almost certainly legendary. But like many legends, it contains a kernel of truth. There really was a Jewish community in Alexandria that needed Greek scriptures. The Torah (the first five books — Genesis through Deuteronomy) really was translated into Greek around 250 BCE. And the translation really did originate in Egypt.
+This is almost certainly legendary. But like many [legends](/legends), it contains a kernel of truth. There really was a Jewish community in Alexandria that needed Greek scriptures. The Torah (the first five books — Genesis through Deuteronomy) really was translated into Greek around 250 BCE. And the translation really did originate in Egypt.
 
 What's less clear is exactly how it happened. The translation was probably a community effort, developed over time by Jewish scholars in Alexandria who needed Greek versions of their scriptures for synagogue worship and [education](/education). No royal commission, no 72 divinely inspired scholars, no miraculous matching translations — just a practical solution to a real problem.
 
@@ -108,7 +108,7 @@ Several ancient scholars also revised the Septuagint. **Origen** (3rd century CE
 
 The field has grown significantly since the mid-20th century. Major current projects include:
 
-The **Goettingen Septuagint** — An ongoing critical edition that aims to reconstruct the oldest recoverable text of each book, with a full apparatus showing all manuscript variations. This project has been running since 1931 and still isn't complete — testimony to the scale and difficulty of the work.
+The **Goettingen Septuagint** — An ongoing critical edition that aims to reconstruct the oldest recoverable text of each book, with a full apparatus showing all manuscript variations. This project has been [running](/running) since 1931 and still isn't complete — testimony to the scale and difficulty of the work.
 
 **NETS (New English Translation of the Septuagint)** — Published in 2007, this provides the first complete English translation of the Septuagint as a Greek text (rather than treating it simply as a witness to the Hebrew). It allows English-speaking scholars and students to study the Septuagint on its own terms.
 

@@ -39,17 +39,17 @@ faq:
 
 # What Is Crystallography?
 
-Crystallography is the scientific discipline that determines the arrangement of atoms within crystalline solids by analyzing how electromagnetic radiation---typically X-rays---diffracts when passing through a crystal lattice. It reveals three-dimensional atomic structures with precision measured in fractions of a nanometer, providing the foundational structural data for fields ranging from drug design to semiconductor engineering.
+Crystallography is the scientific discipline that determines the arrangement of atoms within crystalline solids by analyzing how electromagnetic radiation---typically X-rays---diffracts when passing through a crystal lattice. It reveals three-dimensional atomic structures with precision measured in fractions of a nanometer, providing the foundational structural data for fields ranging from drug design to semiconductor [engineering](/engineering).
 
 ## Why Atoms Arranged in Patterns Changed Everything
 
-There's a reason crystallography has produced 29 Nobel Prizes---more than any other single scientific technique. Before crystallography, chemistry was essentially blind. Scientists knew which atoms were in a molecule and roughly how many, but they couldn't see how those atoms were arranged in three-dimensional space.
+There's a reason crystallography has produced 29 Nobel Prizes---more than any other single scientific technique. Before crystallography, [chemistry](/chemistry) was essentially blind. Scientists knew which atoms were in a molecule and roughly how many, but they couldn't see how those atoms were arranged in three-dimensional space.
 
 Imagine trying to understand how an engine works if you could only weigh the parts but never see them assembled. That was chemistry before crystallography. You knew the ingredients but not the recipe.
 
-Max von Laue changed this in 1912 when he demonstrated that X-rays passing through a copper sulfate crystal produced a distinct pattern of spots on a photographic plate. This proved two things simultaneously: that X-rays were electromagnetic waves (their wavelength was previously unknown) and that crystals were made of regularly repeating arrangements of atoms. He won the 1914 Nobel Prize in Physics.
+Max von Laue changed this in 1912 when he demonstrated that X-rays passing through a copper sulfate crystal produced a distinct pattern of spots on a photographic plate. This proved two things simultaneously: that X-rays were electromagnetic waves (their wavelength was previously unknown) and that crystals were made of regularly repeating arrangements of atoms. He won the 1914 Nobel Prize in [Physics](/physics).
 
-The following year, William Henry Bragg and his 22-year-old son William Lawrence Bragg developed the mathematics for interpreting those diffraction patterns---Bragg's Law. The younger Bragg remains the youngest Nobel laureate in physics, winning at age 25 in 1915. Their equation, nλ = 2d sin θ, relates the wavelength of X-rays (λ), the spacing between crystal planes (d), and the angle of diffraction (θ). Simple. Elegant. And it unlocked the atomic world.
+The following year, William Henry Bragg and his 22-year-old son William Lawrence Bragg developed the [mathematics](/mathematics) for interpreting those diffraction patterns---Bragg's Law. The younger Bragg remains the youngest Nobel laureate in physics, winning at age 25 in 1915. Their equation, nλ = 2d sin θ, relates the wavelength of X-rays (λ), the spacing between crystal planes (d), and the angle of diffraction (θ). Simple. Elegant. And it unlocked the atomic world.
 
 ## How X-Ray Diffraction Actually Works
 
@@ -99,7 +99,7 @@ All crystals belong to one of seven crystal systems, defined by the relationship
 
 **Triclinic**: All edges different, no angles 90 degrees. The lowest symmetry. Albite feldspar is triclinic.
 
-Within these seven systems, there are 14 Bravais lattices (accounting for face-centered and body-centered variations) and 230 space groups (incorporating all possible symmetry operations). Every crystal that has ever existed or will ever exist belongs to one of these 230 space groups.
+Within these seven systems, there are 14 Bravais lattices ([accounting](/accounting) for face-centered and body-centered variations) and 230 space groups (incorporating all possible symmetry operations). Every crystal that has ever existed or will ever exist belongs to one of these 230 space groups.
 
 ## Crystallography's Greatest Hits
 
@@ -121,7 +121,7 @@ Today, the Protein Data Bank (PDB) contains over 215,000 experimentally determin
 
 ### Penicillin and Drug Design
 
-Dorothy Hodgkin determined the structure of penicillin in 1945 and vitamin B12 in 1956---both using [X-ray crystallography](/x-ray-crystallography). She won the 1964 Nobel Prize in Chemistry. Her work on penicillin's structure was initially controversial (the four-membered beta-lactam ring was considered too strained to exist), but the crystal structure settled the debate definitively.
+Dorothy Hodgkin determined the structure of penicillin in 1945 and vitamin B12 in 1956---both using [X-ray crystallography](/x-ray-crystallography). She won the 1964 Nobel Prize in Chemistry. Her work on penicillin's structure was initially controversial (the four-membered beta-lactam ring was considered too strained to exist), but the crystal structure settled the [debate](/debate) definitively.
 
 Structure-based drug design---designing drugs to fit the 3D shape of their target---is now standard in pharmaceutical development. HIV protease inhibitors, developed in the 1990s, were among the first major successes. Crystallographers determined the protease's structure, medicinal chemists designed molecules to block its active site, and the resulting drugs transformed HIV from a death sentence into a manageable condition.
 
@@ -145,7 +145,7 @@ Neutron sources are expensive---they require nuclear reactors or spallation sour
 
 Electrons interact much more strongly with matter than X-rays, allowing very small crystals to be studied. Electron diffraction is particularly useful for nanocrystalline materials and thin films.
 
-The revolution in cryo-[electron microscopy](/electron-microscopy) (cryo-EM) has transformed structural biology since about 2013. Cryo-EM determines structures of biological molecules frozen in thin films of ice---no crystals required. This bypasses crystallography's biggest bottleneck: growing good crystals.
+The revolution in cryo-[electron microscopy](/electron-microscopy) (cryo-EM) has transformed structural [biology](/biology) since about 2013. Cryo-EM determines structures of biological molecules frozen in thin films of ice---no crystals required. This bypasses crystallography's biggest bottleneck: growing good crystals.
 
 Single-particle cryo-EM now routinely achieves resolutions below 3 angstroms for large protein complexes, and the 2017 Nobel Prize in Chemistry recognized the technique's development. For large, flexible molecular complexes that resist crystallization, cryo-EM has become the method of choice.
 
@@ -159,7 +159,7 @@ XFELs have been particularly valuable for studying membrane proteins (which are 
 
 Not everything forms nice single crystals. Powder diffraction analyzes polycrystalline samples---materials composed of many tiny, randomly oriented crystallites. The diffraction pattern is a series of concentric rings rather than discrete spots.
 
-Powder diffraction is indispensable in industry. It identifies crystalline phases in geological samples, pharmaceutical formulations, cement, ceramics, and metals. Every batch of pharmaceutical product is checked by powder diffraction to confirm the drug crystallized in the correct form---because different crystal forms (polymorphs) can have dramatically different bioavailability. A famous case: ritonavir, an HIV drug, had to be reformulated in 1998 when an unexpected polymorph appeared during manufacturing, rendering the original formulation useless.
+Powder diffraction is indispensable in industry. It identifies crystalline phases in geological samples, pharmaceutical formulations, cement, [ceramics](/ceramics), and metals. Every batch of pharmaceutical product is checked by powder diffraction to confirm the drug crystallized in the correct form---because different crystal forms (polymorphs) can have dramatically different bioavailability. A famous case: ritonavir, an HIV drug, had to be reformulated in 1998 when an unexpected polymorph appeared during manufacturing, rendering the original formulation useless.
 
 ## Crystallography in Materials Science
 
@@ -171,7 +171,7 @@ Beyond biological molecules, crystallography is fundamental to understanding mat
 
 **Ceramics**: High-temperature superconductors, piezoelectric materials, battery electrode materials---all are crystalline, and their properties depend on crystal structure. The discovery of high-temperature [superconductivity](/superconductivity) in ceramic oxides (Nobel Prize 1987) was a crystallographic story: understanding the layered perovskite structure was essential to finding new superconducting compositions.
 
-**Minerals and geology**: Crystallography is the foundation of mineralogy. There are approximately 5,900 known mineral species, each defined by its chemical composition and crystal structure. Geological processes---magma crystallization, metamorphism, weathering---produce specific crystal structures under specific conditions, and crystallographic analysis reveals the conditions under which rocks formed.
+**Minerals and [geology](/geology)**: Crystallography is the foundation of [mineralogy](/mineralogy). There are approximately 5,900 known mineral species, each defined by its chemical composition and crystal structure. Geological processes---magma crystallization, metamorphism, weathering---produce specific crystal structures under specific conditions, and crystallographic analysis reveals the conditions under which rocks formed.
 
 ## The Computational Revolution
 
@@ -207,4 +207,4 @@ One thing remains constant: if you want to understand how matter behaves, you ne
 
 ## Key Takeaways
 
-Crystallography determines atomic structures by analyzing how X-rays (or neutrons, or electrons) diffract through crystalline materials. Its fundamental equation---Bragg's Law---connects diffraction angles to atomic spacings. The technique has produced 29 Nobel Prizes and enabled discoveries from DNA's double helix to HIV drug design. Modern methods include synchrotron X-ray sources, X-ray free-electron lasers, cryo-electron microscopy, and powder diffraction, each suited to different materials and problems. Computational advances---from structure prediction algorithms to database mining---have accelerated the field dramatically. Crystallography remains essential across chemistry, biology, materials science, geology, and pharmaceutical development, providing the structural foundation on which much of modern science is built.
+Crystallography determines atomic structures by analyzing how X-rays (or neutrons, or electrons) diffract through crystalline materials. Its fundamental equation---Bragg's Law---connects diffraction angles to atomic spacings. The technique has produced 29 Nobel Prizes and enabled discoveries from DNA's double helix to HIV drug design. Modern methods include synchrotron X-ray sources, X-ray free-electron lasers, cryo-electron [microscopy](/microscopy), and powder diffraction, each suited to different materials and problems. Computational advances---from structure prediction algorithms to database mining---have accelerated the field dramatically. Crystallography remains essential across chemistry, biology, materials science, geology, and pharmaceutical development, providing the structural foundation on which much of modern science is built.

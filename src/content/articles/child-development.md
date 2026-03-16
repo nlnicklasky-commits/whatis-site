@@ -36,7 +36,7 @@ faq:
 # What Is Child Development?
 Child development is the scientific study of how children change and grow from conception through adolescence — physically, cognitively, emotionally, and socially. It's one of the most researched areas in [psychology](/psychology) and one of the most practical, because understanding how kids develop helps parents, teachers, doctors, and policymakers make better decisions.
 
-Every child develops on their own timeline, but the broad patterns are remarkably consistent. A six-month-old in Tokyo and a six-month-old in Toronto are hitting roughly the same physical milestones at roughly the same time. That universality tells us something profound about human biology — and about what happens when normal development gets disrupted.
+Every child develops on their own timeline, but the broad patterns are remarkably consistent. A six-month-old in Tokyo and a six-month-old in Toronto are hitting roughly the same physical milestones at roughly the same time. That universality tells us something profound about human [biology](/biology) — and about what happens when normal development gets disrupted.
 
 ## The Brain's Incredible First Years
 
@@ -44,19 +44,19 @@ If you take away one thing from child development research, make it this: the fi
 
 This isn't just brain growth — it's brain [architecture](/architecture). Early experiences literally shape how the brain is wired. Positive interactions — responsive caregiving, conversation, play, safe environments — build strong neural foundations. Toxic stress — abuse, neglect, extreme poverty, parental substance abuse — disrupts that architecture in ways that can persist for decades.
 
-The concept of "serve and return" interactions captures this beautifully. When a baby babbles and a parent responds, when a toddler points and an adult looks and names the object, when a child asks "why?" and gets an engaged answer — each of these exchanges strengthens neural connections. It's like a game of tennis: the child "serves," the adult "returns," and the rally builds the brain.
+The concept of "serve and return" interactions captures this beautifully. When a baby babbles and a parent responds, when a toddler points and an adult looks and names the object, when a child asks "why?" and gets an engaged answer — each of these exchanges strengthens neural connections. It's like a game of [tennis](/tennis): the child "serves," the adult "returns," and the rally builds the brain.
 
 This doesn't mean you need to constantly stimulate your child or buy expensive educational toys. [Neuroscience](/neuroscience) research shows that ordinary, responsive caregiving — talking, reading, playing, comforting — provides exactly the stimulation developing brains need. The key ingredient is consistent, responsive human interaction.
 
 ## Physical Development: From Helpless to Independent
 
-Newborns are almost comically helpless. They can't hold up their heads, control their limbs, or focus their eyes much past about 12 inches. Within two years, they're walking, running, climbing, and getting into everything. The speed of physical transformation is astonishing.
+Newborns are almost comically helpless. They can't hold up their heads, control their limbs, or focus their eyes much past about 12 inches. Within two years, they're [walking](/walking), [running](/running), climbing, and getting into everything. The speed of physical transformation is astonishing.
 
 Physical development follows two general patterns: cephalocaudal (head to toe) and proximodistal (center to extremities). Babies control their heads before their torsos, their torsos before their legs. They control their arms before their hands, their hands before their fingers. This is why a six-month-old can sit up but can't walk, and why a one-year-old can grab a block but can't button a shirt.
 
 Motor milestones — rolling over (4-6 months), sitting independently (6-8 months), crawling (7-10 months), walking (9-15 months) — provide useful benchmarks, but the ranges are wide. A child who walks at 9 months isn't necessarily more advanced than one who walks at 14 months. Both are completely normal.
 
-Gross motor skills (running, jumping, throwing) and fine motor skills (drawing, cutting, buttoning) develop throughout childhood. By middle childhood (6-12), most kids have the physical coordination for organized sports, musical instruments, and detailed artwork. Understanding this progression helps you set appropriate expectations — asking a three-year-old to write neatly is asking for something their [biology](/developmental-biology) literally can't deliver yet.
+Gross motor skills (running, jumping, throwing) and fine motor skills ([drawing](/drawing), cutting, buttoning) develop throughout childhood. By middle childhood (6-12), most kids have the physical coordination for organized sports, musical instruments, and detailed artwork. Understanding this progression helps you set appropriate expectations — asking a three-year-old to write neatly is asking for something their [biology](/developmental-biology) literally can't deliver yet.
 
 ## Cognitive Development: How Thinking Grows
 
@@ -76,7 +76,7 @@ Modern [developmental psychologists](/developmental-psychology) have refined and
 
 [Language acquisition](/language-acquisition) might be the most remarkable thing children do. By age 6, the average child has a vocabulary of roughly 13,000 words and can produce grammatically complex sentences — all without formal instruction. They absorb language from their environment like sponges absorb water.
 
-The timeline is roughly consistent across cultures and languages. Cooing by 2-3 months. Babbling by 6-7 months. First words around 12 months. Two-word combinations around 18-24 months. Complex sentences by age 3-4. By age 5-6, most children have mastered the basic grammar of their native language.
+The timeline is roughly consistent across cultures and languages. Cooing by 2-3 months. Babbling by 6-7 months. First words around 12 months. Two-word combinations around 18-24 months. Complex sentences by age 3-4. By age 5-6, most children have mastered the basic [grammar](/grammar) of their native language.
 
 The "language explosion" between ages 18 and 24 months is genuinely explosive — children go from a handful of words to several hundred in a matter of months. They're learning 8-10 new words per day, most of them after just one or two exposures.
 
@@ -94,7 +94,7 @@ Peer relationships become increasingly important as children grow. Preschoolers 
 
 ## The Nature-Nurture Dance
 
-The old "nature versus nurture" debate is dead — replaced by a much more interesting question: how do genes and environment interact? The answer, based on decades of research, is "constantly and inseparably."
+The old "nature versus nurture" [debate](/debate) is dead — replaced by a much more interesting question: how do genes and environment interact? The answer, based on decades of research, is "constantly and inseparably."
 
 Genes set the range of developmental possibilities. Environment determines where within that range a child ends up. A child might have genetic potential for high intelligence, but malnutrition, neglect, or toxic stress can prevent that potential from being realized. Conversely, a supportive environment can maximize whatever genetic potential exists.
 

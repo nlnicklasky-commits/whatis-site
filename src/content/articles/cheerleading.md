@@ -39,7 +39,7 @@ The first organized cheerleading happened at the University of Minnesota in 1898
 
 Women entered cheerleading during [World War II](/world-war-ii), and by the 1960s, the activity had become predominantly female. This gender shift coincided with a change in perception — from leadership activity to support role. The ponytails-and-pom-poms stereotype solidified in American culture.
 
-Then, starting in the 1980s, cheerleading began transforming again. Competitive cheerleading emerged as squads started incorporating increasingly difficult gymnastics and stunting, performing 2.5-minute routines scored by judges. Today's competitive cheerleading routines include skills that would be recognizable to Olympic gymnasts: standing back tucks, full twisting layouts, and sequences that require elite athletic ability.
+Then, starting in the 1980s, cheerleading began transforming again. Competitive cheerleading emerged as squads started incorporating increasingly difficult [gymnastics](/gymnastics) and stunting, performing 2.5-minute routines scored by judges. Today's competitive cheerleading routines include skills that would be recognizable to Olympic gymnasts: standing back tucks, full twisting layouts, and sequences that require elite athletic ability.
 
 The tension between cheerleading's identities — sideline support activity vs. competitive athletic endeavor — remains unresolved and politically significant. Title IX (the federal law requiring gender equity in school athletics) doesn't count sideline cheerleading as a sport, which affects funding and resources. Competitive cheerleading's push for sport recognition is driven partly by the practical benefits that recognition brings.
 

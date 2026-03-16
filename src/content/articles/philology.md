@@ -65,7 +65,7 @@ This contextual work prevents the kind of anachronistic misreadings that happen 
 
 ### Ancient Roots
 
-Philology began almost as soon as people started writing things down. The scholars at the Library of Alexandria in the 3rd and 2nd centuries BCE were essentially philologists — they collected, edited, and commented on Greek literary texts, particularly Homer. Aristarchus of Samothrace (c. 216-144 BCE) produced critical editions of the *Iliad* and *Odyssey* that became the basis for all subsequent texts.
+Philology began almost as soon as people started [writing](/writing) things down. The scholars at the Library of Alexandria in the 3rd and 2nd centuries BCE were essentially philologists — they collected, edited, and commented on Greek literary texts, particularly Homer. Aristarchus of Samothrace (c. 216-144 BCE) produced critical editions of the *Iliad* and *Odyssey* that became the basis for all subsequent texts.
 
 In India, Panini's grammar of Sanskrit (roughly 4th century BCE) represents one of the earliest and most sophisticated linguistic analyses ever produced. His 3,959 rules describe the entire structure of the Sanskrit language with a precision that modern linguists still admire.
 
@@ -93,7 +93,7 @@ Other giants of the era include Franz Bopp (comparative grammar of Indo-European
 
 In the 20th century, philology and linguistics diverged — sometimes acrimoniously.
 
-Ferdinand de Saussure's *Course in General Linguistics* (published posthumously in 1916) shifted attention from historical language change to the synchronic study of language as a system. Linguistics became increasingly scientific, focused on universal grammar, phonological rules, and formal syntax. It wanted to be a science like [physics](/physics) — generalizable, theoretical, and not particularly interested in old manuscripts.
+Ferdinand de Saussure's *Course in General Linguistics* (published posthumously in 1916) shifted attention from historical language change to the synchronic study of language as a system. Linguistics became increasingly scientific, focused on universal grammar, phonological rules, and formal [syntax](/syntax). It wanted to be a science like [physics](/physics) — generalizable, theoretical, and not particularly interested in old manuscripts.
 
 Philology, by contrast, remained stubbornly focused on particular texts, specific historical contexts, and the messy realities of how actual human beings used language at particular moments in time.
 

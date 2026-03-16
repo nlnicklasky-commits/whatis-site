@@ -43,7 +43,7 @@ The ocean covers 71% of Earth's surface, averages 3,688 meters deep, and contain
 
 Designing anything for the ocean means dealing with forces and conditions that would be absurd on land.
 
-**Hydrostatic pressure.** For every 10 meters of depth, pressure increases by roughly one atmosphere. At the average ocean depth of 3,688 meters, the pressure is about 370 atmospheres — roughly 5,400 pounds per square inch. At the bottom of the Mariana Trench (10,935 meters), it's over 1,000 atmospheres. Materials deform, seals fail, and electronics get crushed unless everything is engineered for these conditions.
+**Hydrostatic pressure.** For every 10 meters of depth, pressure increases by roughly one atmosphere. At the average ocean depth of 3,688 meters, the pressure is about 370 atmospheres — roughly 5,400 pounds per square inch. At the bottom of the Mariana Trench (10,935 meters), it's over 1,000 atmospheres. Materials deform, seals fail, and [electronics](/electronics) get crushed unless everything is engineered for these conditions.
 
 **Corrosion.** Seawater is astonishingly corrosive. The combination of salt, dissolved oxygen, and biological organisms attacks metals relentlessly. Carbon steel corrodes at 0.1-0.3 mm per year in seawater. Even stainless steels are vulnerable to pitting and crevice corrosion in marine environments. Ocean engineers must specify exotic alloys, protective coatings, and cathodic protection systems that would be overkill on land.
 
@@ -87,7 +87,7 @@ Norway's Ormen Lange gas field operates entirely subsea in 850-1,100 meters of w
 
 ### Remotely Operated Vehicles (ROVs)
 
-ROVs are tethered underwater robots controlled from a surface vessel. They're the workhorses of deep-sea operations — inspecting structures, performing maintenance, drilling, cutting, welding, and manipulating objects at depths where human divers can't work.
+ROVs are tethered underwater robots controlled from a surface vessel. They're the workhorses of deep-sea operations — inspecting structures, performing maintenance, drilling, cutting, [welding](/welding), and manipulating objects at depths where human divers can't work.
 
 A typical work-class ROV weighs 2-5 tons, operates at depths up to 6,000 meters, and carries cameras, sonar, manipulator arms, and specialized tooling. It's connected to the surface by an umbilical cable that provides power, communications, and hydraulic fluid. Pilots operate the ROV from a control room on the support vessel, watching multiple camera feeds and sensor displays.
 
@@ -99,17 +99,17 @@ AUVs operate without a tether or real-time human control. They're programmed wit
 
 Without an umbilical, AUVs face the challenge of limited energy (battery-powered, typically lithium-ion) and communication (acoustic signals are slow — about 1,500 meters per second — and bandwidth-limited). A typical survey AUV can operate for 12-24 hours and cover dozens of kilometers.
 
-Long-range AUVs push these limits further. Underwater gliders, which change their buoyancy to "fly" through the water, have completed ocean crossings lasting months on battery power. Wave-powered gliders (like the Liquid Robotics Wave Glider) extract energy from ocean waves, enabling missions lasting years.
+Long-range AUVs push these limits further. Underwater gliders, which change their buoyancy to "fly" through the water, have completed ocean crossings lasting months on battery power. Wave-powered gliders (like the Liquid [Robotics](/robotics) Wave Glider) extract energy from ocean waves, enabling missions lasting years.
 
 ### Human-Occupied Vehicles (HOVs)
 
-Manned submersibles carry humans to depths unreachable by scuba divers (whose practical limit is about 40 meters, or 100 meters for specialized operations). Alvin, operated by Woods Hole Oceanographic Institution, has been diving since 1964 and can reach 6,500 meters. It discovered hydrothermal vents in 1977 — one of the most significant biological discoveries of the 20th century.
+Manned submersibles carry humans to depths unreachable by scuba divers (whose practical limit is about 40 meters, or 100 meters for specialized operations). Alvin, operated by Woods Hole Oceanographic Institution, has been [diving](/diving) since 1964 and can reach 6,500 meters. It discovered hydrothermal vents in 1977 — one of the most significant biological discoveries of the 20th century.
 
 In 2019, Victor Vescovo's Five Deeps Expedition took the DSV Limiting Factor to the deepest point in each of the five oceans. At the bottom of the Mariana Trench — 10,925 meters — the titanium pressure hull withstood over 16,000 pounds per square inch. The engineering required to keep a human alive and comfortable at that pressure is extraordinary.
 
 ## Offshore [Renewable Energy](/renewable-energy)
 
-This is where ocean engineering is seeing its most explosive growth. Offshore wind power is scaling up dramatically, and wave and tidal energy are emerging from the experimental phase.
+This is where ocean engineering is seeing its most explosive growth. Offshore [wind power](/wind-power) is scaling up dramatically, and wave and tidal energy are emerging from the experimental phase.
 
 ### Offshore Wind
 
@@ -155,7 +155,7 @@ Sometimes the most rational engineering decision is to stop defending a coastlin
 
 Over 95% of international data traffic travels through submarine fiber optic cables. About 550 cable systems totaling over 1.4 million kilometers crisscross the ocean floor. Designing, manufacturing, laying, and maintaining these cables is a specialized branch of ocean engineering.
 
-Cables must withstand seabed currents, fishing trawls, ship anchors, earthquakes, and — yes — shark bites (sharks are occasionally attracted to the electromagnetic fields around powered cables). In shallow water, cables are typically buried 1-2 meters into the seabed for protection. In deep water, they simply rest on the bottom.
+Cables must withstand seabed currents, [fishing](/fishing) trawls, ship anchors, earthquakes, and — yes — shark bites (sharks are occasionally attracted to the electromagnetic fields around powered cables). In shallow water, cables are typically buried 1-2 meters into the seabed for protection. In deep water, they simply rest on the bottom.
 
 Subsea pipelines carry oil, gas, and water across ocean floors. The Nord Stream pipelines (before their sabotage in 2022) carried natural gas 1,222 kilometers across the Baltic Sea at depths up to 210 meters. Designing a pipeline to withstand decades of pressure, temperature changes, seabed movement, and corrosion while maintaining structural integrity is a serious engineering challenge.
 
@@ -165,12 +165,12 @@ The deep ocean floor contains mineral deposits that have attracted significant c
 
 Mining these deposits would require engineering systems that operate at 4,000-6,000 meters depth: collector vehicles on the seabed, riser systems to bring material to the surface, and surface processing vessels. The technical challenges are significant but probably solvable.
 
-The environmental concerns are less solvable. Deep-sea ecosystems are poorly understood, slow to recover from disturbance, and may contain species found nowhere else. Sediment plumes from mining could affect vast areas. The debate between mineral resource needs (particularly for battery materials) and environmental protection is intense and ongoing.
+The environmental concerns are less solvable. Deep-sea ecosystems are poorly understood, slow to recover from disturbance, and may contain species found nowhere else. Sediment plumes from mining could affect vast areas. The [debate](/debate) between mineral resource needs (particularly for battery materials) and environmental protection is intense and ongoing.
 
 ## Career and Future Outlook
 
-Ocean engineering careers span energy companies, [naval architecture](/naval-history)) firms, defense contractors, environmental consultancies, research institutions, and government agencies like NOAA. Salaries tend to be above average for engineering — particularly in offshore energy — and the work often involves travel, fieldwork, and operating in remote locations.
+Ocean engineering careers span energy companies, [naval architecture](/naval-history)) firms, defense contractors, environmental consultancies, research institutions, and [government](/government) agencies like NOAA. Salaries tend to be above average for engineering — particularly in offshore energy — and the work often involves travel, fieldwork, and operating in remote locations.
 
-The field is growing for several converging reasons. Climate change is driving massive investment in offshore wind power and coastal resilience. Growing [aquaculture](/aquaculture) needs engineered marine infrastructure. Submarine data cables support the ever-expanding digital economy. And humanity's fundamental need to understand and responsibly use the ocean — the largest and least explored environment on Earth — ensures that ocean engineers will be needed for as long as we depend on the sea.
+The field is growing for several converging reasons. [Climate change](/climate-change) is driving massive investment in offshore wind power and coastal resilience. Growing [aquaculture](/aquaculture) needs engineered marine infrastructure. Submarine data cables support the ever-expanding digital economy. And humanity's fundamental need to understand and responsibly use the ocean — the largest and least explored environment on Earth — ensures that ocean engineers will be needed for as long as we depend on the sea.
 
-Which, given that the ocean regulates our climate, feeds billions of people, enables global trade, and could provide clean energy for centuries — means forever.
+Which, given that the ocean regulates our climate, feeds billions of people, enables global [trade](/trade), and could provide clean energy for centuries — means forever.

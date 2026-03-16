@@ -35,13 +35,13 @@ faq:
 
 # What Is Environmental Science?
 
-Environmental science is an interdisciplinary field that integrates physical, biological, and information sciences to study the environment and develop solutions to environmental problems. It examines how natural systems function, how human activities affect those systems, and how scientific understanding can inform policy and management decisions that protect both ecosystems and human well-being.
+Environmental science is an interdisciplinary field that integrates physical, biological, and information sciences to study the environment and develop solutions to environmental problems. It examines how natural systems function, how human activities affect those systems, and how scientific understanding can inform policy and [management](/management) decisions that protect both ecosystems and human well-being.
 
 ## The Science of Everything Around You
 
-Environmental science is arguably the most interdisciplinary field in all of science. It pulls from [biology](/biology), [chemistry](/chemistry), physics, geology, atmospheric science, oceanography, [climatology](/climatology), ecology, and even social sciences and economics. Why? Because environmental problems don't respect disciplinary boundaries.
+Environmental science is arguably the most interdisciplinary field in all of science. It pulls from [biology](/biology), [chemistry](/chemistry), physics, geology, atmospheric science, [oceanography](/oceanography), [climatology](/climatology), ecology, and even social sciences and [economics](/economics). Why? Because environmental problems don't respect disciplinary boundaries.
 
-Take acid rain. Understanding it requires atmospheric chemistry (how sulfur dioxide becomes sulfuric acid), meteorology (how acidic precipitation is transported), geology (which rocks buffer acid and which don't), ecology (how acid affects aquatic organisms and forests), economics (the costs of damage versus the costs of prevention), and political science (how to get legislation passed).
+Take acid rain. Understanding it requires atmospheric chemistry (how sulfur dioxide becomes sulfuric acid), [meteorology](/meteorology) (how acidic precipitation is transported), geology (which rocks buffer acid and which don't), ecology (how acid affects aquatic organisms and forests), economics (the costs of damage versus the costs of prevention), and [political science](/political-science) (how to get legislation passed).
 
 No single discipline can handle that alone. Environmental science exists because the world's problems are messy, interconnected, and stubbornly resistant to single-discipline solutions.
 
@@ -53,7 +53,7 @@ Rachel Carson's *Silent Spring* (1962) documented how DDT was decimating bird po
 
 These events drove the creation of the EPA in 1970, the Clean Air Act (1970), the Clean Water Act (1972), and the Endangered Species Act (1973). University environmental science programs proliferated in the 1970s and 1980s, creating the academic infrastructure for the discipline.
 
-The discovery of the Antarctic ozone hole in 1985 demonstrated that human-made chemicals could alter the global atmosphere. Climate change science — building on the work of Svante Arrhenius in 1896 and Charles Keeling's CO2 measurements starting in 1958 — moved from scientific curiosity to existential concern. Each crisis added urgency and scope to environmental science.
+The discovery of the Antarctic ozone hole in 1985 demonstrated that human-made chemicals could alter the global atmosphere. [Climate change](/climate-change) science — building on the work of Svante Arrhenius in 1896 and Charles Keeling's CO2 measurements starting in 1958 — moved from scientific curiosity to existential concern. Each crisis added urgency and scope to environmental science.
 
 ## Core Components of Environmental Science
 
@@ -65,7 +65,7 @@ Ecology — the study of how organisms interact with each other and their enviro
 
 **Biodiversity:** The variety of life at genetic, species, and ecosystem levels. Earth hosts an estimated 8.7 million eukaryotic species, though only about 1.5 million have been formally described. Biodiversity isn't just a count of species — it includes the genetic variation within species and the variety of ecosystem types across landscapes.
 
-**Ecosystem services:** The benefits humans derive from ecosystems. Pollination, water purification, flood control, carbon storage, soil formation, recreation. Robert Costanza's 1997 estimate valued global ecosystem services at $33 trillion annually (roughly equal to global GDP at the time). Updated estimates suggest the figure is considerably higher.
+**Ecosystem services:** The benefits humans derive from ecosystems. [Pollination](/pollination), [water purification](/water-purification), flood control, carbon storage, soil formation, recreation. Robert Costanza's 1997 estimate valued global ecosystem services at $33 trillion annually (roughly equal to global GDP at the time). Updated estimates suggest the figure is considerably higher.
 
 **Trophic dynamics:** Energy flows through ecosystems via food webs. Roughly 10% of energy transfers between trophic levels — a fundamental constraint that limits food chain length and explains why apex predators are always rare relative to their prey.
 
@@ -83,9 +83,9 @@ The Intergovernmental Panel on Climate Change (IPCC) synthesizes the science. Th
 
 ### Hydrology and Water Resources
 
-Water is arguably the most critical environmental resource. Environmental science examines the water cycle, water quality, and water management.
+Water is arguably the most critical environmental resource. Environmental science examines the water cycle, water quality, and [water management](/water-management).
 
-**The water cycle** moves about 500,000 cubic kilometers of water annually through evaporation, precipitation, surface flow, and groundwater movement. Human activities alter this cycle through dam construction, irrigation withdrawals, groundwater pumping, and land cover change.
+**The water cycle** moves about 500,000 cubic kilometers of water annually through evaporation, precipitation, surface flow, and groundwater movement. Human activities alter this cycle through dam [construction](/construction), [irrigation](/irrigation) withdrawals, groundwater pumping, and land cover change.
 
 **Water scarcity** affects roughly 2 billion people worldwide. By 2050, an estimated 5 billion could face water scarcity for at least one month per year, driven by population growth, economic development, and climate change. The Middle East, North Africa, and parts of South Asia are particularly vulnerable.
 
@@ -103,7 +103,7 @@ Soil is one of those things most people never think about — until it fails. En
 
 ### Toxicology and Human Health
 
-Environmental toxicology examines how chemical, physical, and biological agents in the environment affect human health and ecosystem function.
+Environmental [toxicology](/toxicology) examines how chemical, physical, and biological agents in the environment affect human health and ecosystem function.
 
 **Dose-response relationships** — the fundamental concept in toxicology — describe how the severity of effects changes with exposure level. Paracelsus's 16th-century observation that "the dose makes the poison" still holds, though modern research has complicated it with findings about endocrine disruptors that can cause effects at extremely low doses.
 
@@ -115,7 +115,7 @@ Environmental toxicology examines how chemical, physical, and biological agents 
 
 ### Climate Change Mitigation and Adaptation
 
-The central environmental challenge of the 21st century. Mitigation means reducing greenhouse gas emissions — through renewable energy, energy efficiency, electrification of transport, and potentially carbon capture. Adaptation means preparing for the climate changes that are already locked in — building sea walls, developing drought-resistant crops, redesigning stormwater systems, relocating vulnerable communities.
+The central environmental challenge of the 21st century. Mitigation means reducing greenhouse gas emissions — through [renewable energy](/renewable-energy), energy efficiency, electrification of transport, and potentially carbon capture. Adaptation means preparing for the climate changes that are already locked in — building sea walls, developing drought-resistant crops, redesigning stormwater systems, relocating vulnerable communities.
 
 Environmental science provides the data and models that inform both strategies. Which emission reduction pathways limit warming to 1.5°C? Which ecosystems are most vulnerable? Which adaptation measures are most cost-effective? These are fundamentally scientific questions.
 
@@ -137,13 +137,13 @@ Nitrogen and phosphorus from fertilizers, sewage, and industrial processes cause
 
 ## Methods and Tools
 
-Environmental scientists use a wide range of research methods.
+Environmental scientists use a wide range of [research methods](/research-methods).
 
 **Field research:** Direct observation and measurement in natural settings. This includes long-term ecological research (LTER) sites that have been monitored for decades, providing invaluable data on environmental trends.
 
 **Remote sensing:** Satellites, drones, and aircraft-mounted sensors measure everything from forest cover to ocean temperature to atmospheric gas concentrations. NASA's Earth Observing System generates terabytes of environmental data daily.
 
-**Geographic Information Systems (GIS):** Software that analyzes spatial data — mapping species distributions, modeling pollution transport, planning conservation corridors. [Data visualization](/data-visualization) through GIS has become essential for communicating environmental science to policymakers.
+**Geographic [Information Systems](/information-systems) (GIS):** Software that analyzes spatial data — mapping species distributions, modeling pollution transport, planning conservation corridors. [Data visualization](/data-visualization) through GIS has become essential for communicating environmental science to policymakers.
 
 **Modeling:** Computer models simulate environmental processes — climate dynamics, ecosystem responses, pollutant fate and transport. These models can't perfectly predict the future, but they're the best tools we have for exploring scenarios and informing decisions.
 
@@ -155,7 +155,7 @@ Science informs policy, but policy is ultimately made through political processe
 
 **International treaties** like the Paris Agreement (climate), the Montreal Protocol (ozone), and the Convention on Biological Diversity establish global frameworks. Their effectiveness depends on national implementation and compliance.
 
-**National legislation** (Clean Air Act, Clean Water Act, Endangered Species Act in the U.S.) sets standards and enforcement mechanisms. The relationship between scientific evidence and legislative action is complex — sometimes science leads policy (ozone layer), sometimes politics leads science (the decades-long delay in climate action).
+**National legislation** (Clean Air Act, Clean Water Act, Endangered Species Act in the U.S.) sets standards and enforcement mechanisms. The relationship between scientific evidence and legislative action is complex — sometimes science leads policy (ozone layer), sometimes [politics](/politics) leads science (the decades-long delay in climate action).
 
 **Local governance** often determines day-to-day environmental quality. Zoning decisions, water utility management, waste collection, and land use planning all affect environmental outcomes and are made at the local level.
 

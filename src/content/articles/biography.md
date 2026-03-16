@@ -55,7 +55,7 @@ James Boswell's *Life of Samuel Johnson* (1791) is often cited as the first mode
 
 ## The Biographer's Challenges
 
-Writing someone's life raises problems that most [writing](/technical-writing) doesn't face.
+[Writing](/writing) someone's life raises problems that most [writing](/technical-writing) doesn't face.
 
 **Selection** — A human life contains millions of moments. The biographer must decide which matter and which don't, imposing narrative structure on the messy reality of lived experience. Every biography is an argument about what's important.
 
@@ -65,7 +65,7 @@ Writing someone's life raises problems that most [writing](/technical-writing) d
 
 **Truth** — Memory is unreliable. People lie, misremember, and reshape their own histories. Contemporary accounts contradict each other. The biographer must weigh evidence, acknowledge uncertainty, and resist the temptation to present speculation as fact.
 
-**Ethics** — How much of a private life should be exposed? The answer has changed over time — Victorian biographies suppressed personal details that modern biographers routinely include. The question of what the public "deserves to know" about a private person's life has no clean answer.
+**[Ethics](/ethics)** — How much of a private life should be exposed? The answer has changed over time — Victorian biographies suppressed personal details that modern biographers routinely include. The question of what the public "deserves to know" about a private person's life has no clean answer.
 
 ## Why Biographies Matter
 

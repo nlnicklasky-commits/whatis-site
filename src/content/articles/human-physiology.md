@@ -35,7 +35,7 @@ faq:
 
 # What Is Human [Physiology](/physiology)?
 
-Human physiology is the scientific study of how the human body functions — not what structures exist (that's [anatomy](/anatomy)), but how those structures work, individually and as an integrated system. It explains why your heart beats, how your lungs extract oxygen from air, what happens when you eat a sandwich, and why running up stairs makes you breathe harder. Physiology is, in essence, the operating manual for the human body.
+Human physiology is the scientific study of how the human body functions — not what structures exist (that's [anatomy](/anatomy)), but how those structures work, individually and as an integrated system. It explains why your heart beats, how your lungs extract oxygen from air, what happens when you eat a sandwich, and why [running](/running) up stairs makes you breathe harder. Physiology is, in essence, the operating manual for the human body.
 
 ## The Master Principle: Homeostasis
 
@@ -125,7 +125,7 @@ Three energy systems fuel muscle contraction:
 2. **Anaerobic glycolysis** — glucose breakdown without oxygen for ~1-3 minutes (400m sprint), producing lactate
 3. **Aerobic metabolism** — oxygen-dependent breakdown of glucose, fats, and proteins for sustained activity ([marathon running](/marathon-running))
 
-The transition between systems explains the sensations of exercise intensity. Walking uses aerobic metabolism comfortably. Sprinting exhausts the phosphocreatine system in seconds and shifts to anaerobic glycolysis, producing lactate that contributes to that burning sensation. Training improves all three systems, but elite athletes in different sports optimize different ones.
+The transition between systems explains the sensations of exercise intensity. [Walking](/walking) uses aerobic metabolism comfortably. Sprinting exhausts the phosphocreatine system in seconds and shifts to anaerobic glycolysis, producing lactate that contributes to that burning sensation. Training improves all three systems, but elite athletes in different sports optimize different ones.
 
 Bone physiology is equally active. Bones constantly remodel through balanced osteoclast (bone-breaking) and osteoblast (bone-building) activity. Weight-bearing exercise stimulates bone formation (Wolff's Law — bone adapts to the loads placed on it). This is why astronauts lose bone density in microgravity and why weight-bearing exercise is critical for preventing osteoporosis.
 
@@ -135,7 +135,7 @@ Exercise physiology — studying how the body responds to physical exertion — 
 
 During intense exercise, cardiac output increases 4-5 fold. Breathing rate can triple. Blood flow to working muscles increases 20-fold while blood flow to the digestive system decreases (which is why eating before intense exercise causes nausea). Core temperature rises. Sweating increases by up to 2 liters per hour. Every physiological system adjusts.
 
-VO2 max — the maximum rate of oxygen consumption — is the gold standard measure of cardiovascular fitness. Elite endurance athletes achieve values of 70-90 mL/kg/min; untrained individuals average 30-45. Training can improve VO2 max by 15-25%, but genetic factors set the upper limit.
+VO2 max — the maximum rate of oxygen consumption — is the gold standard measure of cardiovascular [fitness](/fitness). Elite endurance athletes achieve values of 70-90 mL/kg/min; untrained individuals average 30-45. Training can improve VO2 max by 15-25%, but genetic factors set the upper limit.
 
 The physiological adaptations to training are specific. Endurance training increases capillary density in muscles, mitochondrial density, and cardiac stroke volume. Resistance training increases muscle fiber cross-sectional area, motor unit recruitment, and tendon strength. These adaptations reverse when training stops — a phenomenon called detraining that begins within 2 weeks of cessation.
 
@@ -145,7 +145,7 @@ Nearly every disease can be understood as a physiological derangement. Heart fai
 
 Understanding the physiology tells you why treatments work. ACE inhibitors treat hypertension by blocking angiotensin-converting enzyme — interfering with the RAAS system that raises blood pressure. Beta blockers reduce heart rate and contractility by blocking sympathetic stimulation. Bronchodilators relax airway smooth muscle. Insulin replacement addresses the deficiency in type 1 diabetes.
 
-This is why physiology is the foundation of medical education. You can't understand what's broken if you don't understand how it's supposed to work. Every first-year medical student learns this quickly.
+This is why physiology is the foundation of medical [education](/education). You can't understand what's broken if you don't understand how it's supposed to work. Every first-year medical student learns this quickly.
 
 ## Frontiers in Physiology
 

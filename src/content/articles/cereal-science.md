@@ -37,7 +37,7 @@ faq:
 
 # What Is Cereal Science?
 
-Cereal science is the interdisciplinary study of cereal grains — their biology, genetics, chemistry, processing, and end-use quality. Covering crops like wheat, rice, corn, barley, oats, rye, sorghum, and millet, cereal science sits at the intersection of [agriculture](/agriculture), chemistry, nutrition, and food engineering. These grains supply roughly 50% of the world's dietary calories and form the foundation of the global food system.
+Cereal science is the interdisciplinary study of cereal grains — their [biology](/biology), [genetics](/genetics), [chemistry](/chemistry), processing, and end-use quality. Covering crops like wheat, rice, corn, barley, oats, rye, sorghum, and millet, cereal science sits at the intersection of [agriculture](/agriculture), chemistry, [nutrition](/nutrition), and food [engineering](/engineering). These grains supply roughly 50% of the world's dietary calories and form the foundation of the global food system.
 
 ## Grains Feed the World — By the Numbers
 
@@ -63,7 +63,7 @@ When flour is "refined" (white flour), the bran is removed. This extends shelf l
 
 The starchy interior — about 83% of a wheat kernel. This is what becomes white flour. It's mostly starch (about 70-75%) and protein (8-15%), with small amounts of fat, vitamins, and minerals. The endosperm exists to feed the developing plant embryo during germination.
 
-Starch is the grain's energy reserve — long chains of glucose molecules packed into granules. [Carbohydrate chemistry](/carbohydrate-chemistry) is central to understanding how these starches behave during milling, baking, brewing, and digestion.
+Starch is the grain's energy reserve — long chains of glucose molecules packed into granules. [Carbohydrate chemistry](/carbohydrate-chemistry) is central to understanding how these starches behave during milling, [baking](/baking), brewing, and digestion.
 
 The protein content and quality of the endosperm varies dramatically between grains and varieties. Hard red winter wheat might contain 12-14% protein with strong gluten-forming characteristics. Soft white wheat might have 8-10% protein with weak gluten. These differences determine what each wheat is suited for — bread, pasta, cakes, or cookies.
 
@@ -79,7 +79,7 @@ Wheat germ oil is one of the richest natural sources of vitamin E. The germ also
 
 Wheat's unique place in human history comes down to two proteins: gliadin and glutenin. When mixed with water and mechanically worked (kneading), these proteins combine to form gluten — an elastic, extensible network unlike anything produced by other cereal grains.
 
-Glutenin provides strength and elasticity (the dough bounces back). Gliadin provides extensibility (the dough stretches without breaking). The balance between these two properties determines what you can make. High glutenin-to-gliadin ratio produces strong bread flour. Lower ratios produce softer pastry flour.
+Glutenin provides strength and [elasticity](/elasticity) (the dough bounces back). Gliadin provides extensibility (the dough stretches without breaking). The balance between these two properties determines what you can make. High glutenin-to-gliadin ratio produces strong bread flour. Lower ratios produce softer pastry flour.
 
 The gluten network traps carbon dioxide bubbles produced by yeast [fermentation](/fermentation), allowing dough to rise. Without gluten, you can't make leavened bread — which is why rice bread and corn bread have fundamentally different textures. [Sourdough](/sourdough) baking involves an especially complex interaction between gluten development, fermentation, and flavor production.
 
@@ -93,7 +93,7 @@ Extraction rate — the percentage of the kernel that ends up as flour — deter
 
 ### Baking Science
 
-Baking is applied cereal science. The [agronomy](/agronomy) of how wheat is grown, the chemistry of gluten formation, and the physics of [heat transfer](/heat-transfer) all converge when dough enters an oven.
+Baking is applied cereal science. The [agronomy](/agronomy) of how wheat is grown, the chemistry of gluten formation, and the [physics](/physics) of [heat transfer](/heat-transfer) all converge when dough enters an oven.
 
 During mixing, gluten develops as proteins hydrate and align through mechanical work. Over-mixing breaks the network (the dough becomes slack and sticky). Under-mixing leaves it underdeveloped (the bread won't rise properly).
 
@@ -105,7 +105,7 @@ During baking, several transformations happen simultaneously. Starch granules ab
 
 ### Types of Rice
 
-Rice classification starts with starch composition. Rice starch contains two types of starch molecules: amylose (linear chains) and amylopectin (branched chains). The ratio determines cooking properties.
+Rice classification starts with starch composition. Rice starch contains two types of starch molecules: amylose (linear chains) and amylopectin (branched chains). The ratio determines [cooking](/cooking) properties.
 
 **Long-grain rice** (jasmine, basmati) has 20-25% amylose. It cooks up fluffy and separate — individual grains don't stick together.
 
@@ -125,7 +125,7 @@ Parboiling — soaking, steaming, and drying paddy rice before milling — is a 
 
 Rice provides calories but is nutritionally incomplete — particularly deficient in vitamin A, iron, and zinc. Vitamin A deficiency affects roughly 250 million children worldwide and causes 250,000-500,000 cases of blindness annually, primarily in rice-dependent populations.
 
-Golden Rice, engineered to produce beta-carotene (a vitamin A precursor) in the endosperm, was developed in 1999 and approved for cultivation in the Philippines in 2021 after two decades of regulatory and political debate. Biofortification — breeding or engineering higher nutrient content into staple crops — is a growing strategy in cereal science.
+Golden Rice, engineered to produce beta-carotene (a vitamin A precursor) in the endosperm, was developed in 1999 and approved for cultivation in the Philippines in 2021 after two decades of regulatory and political [debate](/debate). Biofortification — breeding or engineering higher nutrient content into staple crops — is a growing strategy in cereal science.
 
 ## Corn Science — The Triple-Threat Crop
 
@@ -165,7 +165,7 @@ Barley's beta-glucan content (a soluble dietary fiber) has attracted nutritional
 
 Oats are unique among cereals for their high fat content (5-9%, compared to 1-2% for wheat and rice) and soluble fiber (beta-glucan). They require heat treatment (kilning) before milling because their high lipase enzyme activity would otherwise cause rapid rancidity.
 
-The oat market has grown dramatically with plant-based milk alternatives. Oat milk production involves milling oats, enzymatic hydrolysis of starch (to create the slightly sweet flavor), and homogenization to create a stable emulsion. Global oat milk sales exceeded $4 billion by 2023.
+The oat market has grown dramatically with plant-based milk alternatives. Oat milk production involves milling oats, enzymatic hydrolysis of starch (to create the slightly sweet flavor), and homogenization to create a stable emulsion. Global oat milk [sales](/sales) exceeded $4 billion by 2023.
 
 ### Sorghum and Millet
 
@@ -177,9 +177,9 @@ Despite their importance, sorghum and millet receive far less research funding t
 
 ### Climate Adaptation
 
-Rising temperatures, shifting rainfall patterns, and increased frequency of extreme weather threaten cereal production globally. Wheat yields decline by roughly 6% for each degree Celsius of warming. Rice paddies produce methane, a potent greenhouse gas. Corn is particularly sensitive to heat stress during pollination.
+Rising temperatures, shifting rainfall patterns, and increased frequency of extreme weather threaten cereal production globally. Wheat yields decline by roughly 6% for each degree Celsius of warming. Rice paddies produce methane, a potent greenhouse gas. Corn is particularly sensitive to heat stress during [pollination](/pollination).
 
-Cereal scientists are breeding heat-tolerant, drought-resistant, and pest-resistant varieties using both traditional breeding and genetic engineering. Gene editing tools like CRISPR accelerate this work enormously — what once took 10-15 years of crossbreeding can now be achieved in 2-3 years.
+Cereal scientists are breeding heat-tolerant, drought-resistant, and pest-resistant varieties using both traditional breeding and genetic engineering. Gene [editing](/editing) tools like CRISPR accelerate this work enormously — what once took 10-15 years of crossbreeding can now be achieved in 2-3 years.
 
 ### Post-Harvest Loss
 
@@ -197,4 +197,4 @@ Developing wheat varieties with reduced immunotoxicity — varieties that retain
 
 Every bite of bread, every bowl of rice, every corn tortilla represents thousands of years of accumulated knowledge about how grains work — how to grow them, process them, and turn them into food that sustains human life.
 
-Cereal science isn't glamorous. It doesn't make headlines the way genetics or [artificial intelligence](/artificial-intelligence) does. But it addresses a question more fundamental than any other in applied science: how do we feed 8 billion people? And as climate change, population growth, and shifting diets put increasing pressure on the grain supply, the answers cereal science provides will matter more with each passing decade.
+Cereal science isn't glamorous. It doesn't make headlines the way genetics or [artificial intelligence](/artificial-intelligence) does. But it addresses a question more fundamental than any other in applied science: how do we feed 8 billion people? And as [climate change](/climate-change), population growth, and shifting diets put increasing pressure on the grain supply, the answers cereal science provides will matter more with each passing decade.

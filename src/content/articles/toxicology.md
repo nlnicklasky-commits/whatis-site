@@ -133,7 +133,7 @@ Timing matters enormously in teratogenicity. The same substance might cause no h
 
 Neurotoxins target the nervous system. Lead exposure in children reduces IQ and causes behavioral problems. Organophosphate pesticides inhibit acetylcholinesterase, causing nerve signals to fire continuously — muscle twitching, seizures, respiratory failure. Mercury damages cerebellar neurons, causing the tremors and coordination loss seen in Minamata disease (named after the Japanese city where industrial mercury poisoning affected thousands in the 1950s).
 
-The brain is particularly vulnerable because neurons have limited regenerative capacity, the blood-brain barrier selectively admits lipophilic substances, and the developing brain of children is far more susceptible than the adult brain. This is why lead paint — banned in U.S. housing in 1978 — remains a major public health concern in older buildings.
+The brain is particularly vulnerable because neurons have limited regenerative capacity, the blood-brain barrier selectively admits lipophilic substances, and the developing brain of children is far more susceptible than the adult brain. This is why lead paint — banned in U.S. housing in 1978 — remains a major [public health](/public-health) concern in older buildings.
 
 ## Branches of Toxicology
 
@@ -153,7 +153,7 @@ Modern forensic toxicology uses mass spectrometry, immunoassays, and liquid [chr
 
 Environmental toxicology studies how pollutants affect ecosystems — not just individual organisms but populations, communities, and food webs. The classic example is DDT's impact on raptor populations: DDT accumulated through the food chain (biomagnification), reaching concentrations in predatory birds that caused eggshell thinning and reproductive failure. Rachel Carson's 1962 book *Silent Spring* brought this to public attention and helped launch the modern environmental movement.
 
-Current concerns include PFAS ("forever chemicals") — a family of over 4,700 synthetic compounds used in non-stick coatings, waterproofing, and firefighting foam. PFAS resist breakdown in the environment, accumulate in living organisms, and have been detected in the blood of 98% of Americans tested. Studies link PFAS exposure to kidney cancer, thyroid disease, immune suppression, and reproductive problems. The EPA has been steadily tightening regulations, setting drinking water standards at astonishingly low levels — parts per trillion.
+Current concerns include PFAS ("forever chemicals") — a family of over 4,700 synthetic compounds used in non-stick coatings, waterproofing, and [firefighting](/firefighting) foam. PFAS resist breakdown in the environment, accumulate in living organisms, and have been detected in the blood of 98% of Americans tested. Studies link PFAS exposure to kidney cancer, thyroid disease, immune suppression, and reproductive problems. The EPA has been steadily tightening regulations, setting drinking water standards at astonishingly low levels — parts per trillion.
 
 ### Regulatory Toxicology
 
@@ -179,7 +179,7 @@ The intersection with [artificial intelligence](/artificial-intelligence) and [d
 
 ### Organ-on-a-Chip
 
-Microfluidic devices that mimic human organs — liver-on-a-chip, lung-on-a-chip, kidney-on-a-chip — provide more human-relevant data than traditional cell cultures or animal models. These devices contain living human cells arranged in structures that mimic organ architecture, with flowing fluids that simulate blood circulation. They can predict human drug toxicity more accurately than standard animal tests for some endpoints.
+Microfluidic devices that mimic human organs — liver-on-a-chip, lung-on-a-chip, kidney-on-a-chip — provide more human-relevant data than traditional cell cultures or animal models. These devices contain living human cells arranged in structures that mimic organ [architecture](/architecture), with flowing fluids that simulate blood circulation. They can predict human drug toxicity more accurately than standard animal tests for some endpoints.
 
 ## The Ongoing Challenge
 

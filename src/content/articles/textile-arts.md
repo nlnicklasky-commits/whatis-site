@@ -31,9 +31,9 @@ faq:
 
 # What Is Textile Arts?
 
-Textile arts is the broad category of art forms that use fibers and fabric as their primary medium — weaving, [knitting](/knitting), crocheting, [embroidery](/embroidery), dyeing, felting, quilting, lace-making, and many more. If it involves turning fiber into something functional, decorative, or expressive, it falls under textile arts.
+Textile arts is the broad category of art forms that use fibers and fabric as their primary medium — [weaving](/weaving), [knitting](/knitting), crocheting, [embroidery](/embroidery), [dyeing](/dyeing), felting, [quilting](/quilting), lace-making, and many more. If it involves turning fiber into something functional, decorative, or expressive, it falls under textile arts.
 
-These are among the oldest human art forms. People were spinning fiber and weaving cloth at least 27,000 years ago — predating pottery, [metalworking](/metalworking), and writing by thousands of years. For most of human history, producing textiles was one of the most time-consuming and economically important activities in any community.
+These are among the oldest human art forms. People were spinning fiber and weaving cloth at least 27,000 years ago — predating [pottery](/pottery), [metalworking](/metalworking), and [writing](/writing) by thousands of years. For most of human history, producing textiles was one of the most time-consuming and economically important activities in any community.
 
 ## The Major Techniques
 
@@ -43,7 +43,7 @@ Interlacing two sets of threads (warp and weft) on a loom to create fabric. Weav
 
 ### Knitting
 
-Creating fabric by interlocking loops of yarn with needles. Knitting produces stretchy, flexible fabric ideal for garments. It likely originated in the Middle East or Egypt around the 5th century CE and spread to Europe through Islamic trade routes. Today, roughly 53 million Americans knit or crochet.
+Creating fabric by interlocking loops of yarn with needles. Knitting produces stretchy, flexible fabric ideal for garments. It likely originated in the Middle East or Egypt around the 5th century CE and spread to Europe through Islamic trade routes. Today, roughly 53 million Americans knit or [crochet](/crochet).
 
 ### Crocheting
 
@@ -51,7 +51,7 @@ Similar to knitting but uses a single hooked needle to create interlocking loops
 
 ### Embroidery
 
-Decorative stitching on existing fabric. Embroidery techniques range from simple cross-stitch to elaborate goldwork, crewelwork, and silk embroidery. Chinese silk embroidery, Japanese sashiko, and Indian zardozi are among the world's most refined traditions.
+Decorative stitching on existing fabric. Embroidery techniques range from simple [cross-stitch](/cross-stitch) to elaborate goldwork, crewelwork, and silk embroidery. Chinese silk embroidery, Japanese sashiko, and Indian zardozi are among the world's most refined traditions.
 
 ### Dyeing
 
@@ -67,7 +67,7 @@ Stitching layers of fabric together, often with decorative patterns on the top l
 
 ## The Art vs. Craft Debate
 
-For much of Western [art history](/art-history), textile arts were classified as "craft" or "decorative art" — separate from and implicitly inferior to "[fine art](/fine-art)" like painting and [sculpture](/sculpture). This hierarchy was never universal (many cultures don't distinguish between art and craft) and was arguably rooted in gender bias, since textile production was historically [women's](/aesthetics) work.
+For much of Western [art history](/art-history), textile arts were classified as "craft" or "decorative art" — separate from and implicitly inferior to "[fine art](/fine-art)" like [painting](/painting) and [sculpture](/sculpture). This hierarchy was never universal (many cultures don't distinguish between art and craft) and was arguably rooted in gender bias, since textile production was historically [women's](/aesthetics) work.
 
 Starting in the 1960s and 70s, artists deliberately challenged this boundary. The Fiber Art movement — led by figures like Sheila Hicks, Lenore Tawney, and Magdalena Abakanowicz — created monumental textile installations that demanded recognition as fine art. Their work hung in galleries and museums alongside paintings and sculpture.
 

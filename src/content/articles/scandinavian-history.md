@@ -32,9 +32,9 @@ faq:
 ---
 
 # What Is Scandinavian History?
-Scandinavian history is the shared story of Denmark, Norway, and Sweden — three nations whose fates have been intertwined for over 10,000 years through geography, language, trade, war, and culture. From Stone Age hunters following retreating glaciers to modern welfare states consistently ranked among the happiest and most prosperous on Earth, it's a story of adaptation, ambition, and — during one very famous 273-year stretch — a whole lot of raiding.
+Scandinavian history is the shared story of Denmark, Norway, and Sweden — three nations whose fates have been intertwined for over 10,000 years through [geography](/geography), language, [trade](/trade), war, and culture. From Stone Age hunters following retreating glaciers to modern welfare states consistently ranked among the happiest and most prosperous on Earth, it's a story of adaptation, ambition, and — during one very famous 273-year stretch — a whole lot of raiding.
 
-These three countries occupy a relatively small corner of northern Europe, with a combined population today of roughly 22 million. But their outsized influence on world history — from Viking expansion to Reformation politics to the modern welfare state model — makes their story worth knowing.
+These three countries occupy a relatively small corner of northern Europe, with a combined population today of roughly 22 million. But their outsized influence on world history — from Viking expansion to Reformation [politics](/politics) to the modern welfare state model — makes their story worth knowing.
 
 ## Before the Vikings — Thousands of Years of Quiet
 
@@ -42,7 +42,7 @@ Humans first arrived in Scandinavia around 12,000 BCE, as the massive ice sheets
 
 The **Bronze Age** (1700-500 BCE) brought something interesting: Scandinavia became surprisingly connected to the wider world. Scandinavians traded amber — fossilized tree resin found along Baltic coastlines — for bronze from as far away as the eastern Mediterranean. Rock carvings from this period show ships, weapons, sun symbols, and ritual scenes that suggest a sophisticated culture, even if they left no written records.
 
-The **Iron Age** (500 BCE-793 CE) saw the development of the social structures that would produce the Viking Age. Chieftains consolidated power, building great halls where warriors gathered. The runic alphabet appeared around the 2nd century CE, giving Scandinavians their first writing system. Trade networks expanded, connecting Scandinavia to Roman trade routes — Roman coins and goods have been found all over southern Scandinavia.
+The **Iron Age** (500 BCE-793 CE) saw the development of the social structures that would produce the Viking Age. Chieftains consolidated power, building great halls where warriors gathered. The runic alphabet appeared around the 2nd century CE, giving Scandinavians their first [writing](/writing) system. Trade networks expanded, connecting Scandinavia to Roman trade routes — Roman coins and goods have been found all over southern Scandinavia.
 
 By the 700s CE, several factors were converging. Population was growing. Farmland in the narrow coastal strips was getting crowded. Scandinavian shipbuilders had perfected the **longship** — a shallow-draft, clinker-built vessel that could cross open oceans and work through shallow rivers. And the wealthy, poorly defended monasteries and trading towns of western Europe were just a short sail away.
 
@@ -112,7 +112,7 @@ The 19th century transformed Scandinavia. Three major developments stand out.
 
 **Sweden** remained officially neutral throughout the war, though its neutrality was complicated — it sold iron ore to Germany, allowed German troops to transit through Sweden, and simultaneously sheltered refugees and passed intelligence to the Allies.
 
-The postwar period saw the development of the **Nordic model** — a distinctive approach to political economy that combined market [capitalism](/capitalism) with extensive welfare states, strong labor unions, progressive taxation, and universal public services (healthcare, education, childcare). This wasn't socialism, as critics sometimes claim — Scandinavian countries have market economies, private property, and thriving private sectors. But they redistribute more aggressively than most countries, investing heavily in social safety nets.
+The postwar period saw the development of the **Nordic model** — a distinctive approach to political economy that combined market [capitalism](/capitalism) with extensive welfare states, strong labor unions, progressive taxation, and universal public services (healthcare, [education](/education), childcare). This wasn't [socialism](/socialism), as critics sometimes claim — Scandinavian countries have market economies, private property, and thriving private sectors. But they redistribute more aggressively than most countries, investing heavily in social safety nets.
 
 The results speak for themselves. Scandinavian countries consistently rank among the top nations for quality of life, education, social mobility, gender equality, press freedom, and — that overused but telling metric — happiness. Norway's sovereign wealth fund, built on North Sea oil revenue, exceeds $1.5 trillion, making it the world's largest.
 

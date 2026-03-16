@@ -31,7 +31,7 @@ faq:
 
 # What Is Biogeography?
 
-Biogeography is the scientific study of the distribution of species and ecosystems across Earth's surface and through geological time. It asks a deceptively simple question: why do particular organisms live where they do? The answers involve [plate tectonics](/plate-tectonics), climate change, [evolution](/evolutionary-biology), ocean currents, mountain ranges, and millions of years of history.
+Biogeography is the scientific study of the distribution of species and ecosystems across Earth's surface and through geological time. It asks a deceptively simple question: why do particular organisms live where they do? The answers involve [plate tectonics](/plate-tectonics), [climate change](/climate-change), [evolution](/evolutionary-biology), ocean currents, mountain ranges, and millions of years of history.
 
 ## The Question That Started Everything
 

@@ -31,13 +31,13 @@ faq:
 
 # What Is Basket Weaving?
 
-Basket weaving (also called basketry) is the craft of creating containers and structures by interlacing flexible materials — typically plant fibers like willow, reed, bamboo, or grass. It's one of the oldest crafts in human history, predating pottery and possibly even weaving cloth.
+Basket [weaving](/weaving) (also called basketry) is the craft of creating containers and structures by interlacing flexible materials — typically plant fibers like willow, reed, bamboo, or grass. It's one of the oldest crafts in human history, predating [pottery](/pottery) and possibly even weaving cloth.
 
 ## Older Than Almost Everything
 
 Humans have been weaving baskets for at least 10,000 years, and probably much longer. The problem with dating basketry is that organic materials decompose — unlike pottery or stone tools, baskets rarely survive in the [archaeological](/archaeology) record. The oldest known intact baskets, found in Danger Cave, Utah, are roughly 10,000 years old. But impressions of woven patterns in clay fragments suggest the craft goes back further still.
 
-Before pottery, before metal containers, before plastic — baskets were how humans carried, stored, and transported virtually everything. Food, water (when lined with pitch or clay), clothing, babies, trade goods. The craft was universal: every culture on every continent developed its own basketry traditions using whatever plant materials were locally available.
+Before pottery, before metal containers, before plastic — baskets were how humans carried, stored, and transported virtually everything. Food, water (when lined with pitch or clay), clothing, babies, [trade](/trade) goods. The craft was universal: every culture on every continent developed its own basketry traditions using whatever plant materials were locally available.
 
 ## How It's Done
 
@@ -53,7 +53,7 @@ Flat strips of material (palm leaves, bark, split bamboo) are woven over and und
 
 ### Wicker (Stake-and-Strand)
 
-A framework of rigid stakes (typically willow rods) forms the skeleton, and more flexible weavers are woven in and out between the stakes. This is the technique most Westerners picture when they think of basket weaving — the classic round, ribbed basket. It produces strong, dimensional forms suitable for everything from laundry hampers to fishing creels.
+A framework of rigid stakes (typically willow rods) forms the skeleton, and more flexible weavers are woven in and out between the stakes. This is the technique most Westerners picture when they think of basket weaving — the classic round, ribbed basket. It produces strong, dimensional forms suitable for everything from laundry hampers to [fishing](/fishing) creels.
 
 ## Cultural Traditions
 

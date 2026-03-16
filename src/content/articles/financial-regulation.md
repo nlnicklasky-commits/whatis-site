@@ -39,7 +39,7 @@ faq:
 
 # What Is Financial Regulation?
 
-Financial regulation is the body of laws, rules, and oversight mechanisms that governments and designated agencies use to supervise banks, securities markets, insurance companies, and other financial institutions. Its fundamental purposes are to maintain financial system stability, protect consumers and investors from fraud and abuse, ensure fair and transparent markets, and prevent financial crises from spreading to the broader economy.
+Financial regulation is the body of laws, rules, and oversight mechanisms that governments and designated agencies use to supervise banks, securities markets, [insurance](/insurance) companies, and other financial institutions. Its fundamental purposes are to maintain financial system stability, protect consumers and investors from fraud and abuse, ensure fair and transparent markets, and prevent financial crises from spreading to the broader economy.
 
 ## Why We Regulate Finance
 
@@ -47,7 +47,7 @@ Financial regulation exists because the consequences of financial system failure
 
 When Lehman Brothers collapsed in September 2008, the firm's 25,000 employees weren't the only ones who suffered. Credit markets froze globally. Businesses couldn't get loans to make payroll. The stock market lost over 50% of its value. About 8.7 million Americans lost their jobs. Home values dropped by $6 trillion. The total estimated cost to the U.S. economy: $12.8 trillion.
 
-The people who lost homes and jobs mostly had nothing to do with the mortgage-backed securities that caused the crisis. That's the core argument for regulation: in finance, private risk-taking creates public consequences.
+The people who lost homes and jobs mostly had nothing to do with the mortgage-backed securities that caused the crisis. That's the core argument for regulation: in [finance](/finance), private risk-taking creates public consequences.
 
 Several features make financial markets uniquely prone to failure without oversight:
 
@@ -79,7 +79,7 @@ Created in 1934 after the 1929 stock market crash, the SEC regulates securities 
 
 The SEC requires public companies to disclose financial information (annual 10-K reports, quarterly 10-Q reports, material event 8-K reports). It enforces insider trading laws. It oversees stock exchanges, broker-dealers, investment advisers, and mutual funds. And it brings enforcement actions against securities fraud.
 
-When a company goes public through an IPO, it must register with the SEC and provide extensive disclosure. When insiders trade their company's stock, they must report it to the SEC. When an analyst publishes a fraudulent research report, the SEC investigates.
+When a company goes public through an IPO, it must register with the SEC and provide extensive disclosure. When insiders [trade](/trade) their company's stock, they must report it to the SEC. When an analyst publishes a fraudulent research report, the SEC investigates.
 
 ### The FDIC (Federal Deposit Insurance Corporation)
 
@@ -111,7 +111,7 @@ Financial regulation in the U.S. has evolved through crisis-response cycles: a f
 
 ### The Glass-Steagall Act (1933)
 
-Passed during the Great Depression, Glass-Steagall separated commercial banking (taking deposits, making loans) from [investment banking](/investment-banking) (underwriting securities, trading). The logic: banks that gamble with depositors' money create unacceptable risks. Keep the boring, safe banking separate from the risky, speculative stuff.
+Passed during the Great Depression, Glass-Steagall separated commercial banking (taking deposits, making loans) from [investment banking](/investment-banking) (underwriting securities, trading). The [logic](/logic): banks that gamble with depositors' money create unacceptable risks. Keep the boring, safe banking separate from the risky, speculative stuff.
 
 Glass-Steagall was gradually eroded through the 1980s and 1990s, then formally repealed by the Gramm-Leach-Bliley Act in 1999. This allowed the creation of financial supermarkets like Citigroup—combining commercial banking, investment banking, and insurance under one roof. Many economists (though not all) believe this repeal contributed to the conditions that caused the 2008 crisis.
 
@@ -119,7 +119,7 @@ Glass-Steagall was gradually eroded through the 1980s and 1990s, then formally r
 
 The Securities Act of 1933 requires companies to provide truthful information when selling securities to the public. The Securities Exchange Act of 1934 created the SEC and established ongoing reporting requirements for public companies.
 
-Together, these acts created the disclosure-based regulatory framework that governs U.S. securities markets. The philosophy is that markets work best when investors have access to accurate, complete information. Rather than deciding which securities are good or bad, the government requires disclosure and lets investors decide for themselves.
+Together, these acts created the disclosure-based regulatory framework that governs U.S. securities markets. The [philosophy](/philosophy) is that markets work best when investors have access to accurate, complete information. Rather than deciding which securities are good or bad, the government requires disclosure and lets investors decide for themselves.
 
 ### The Sarbanes-Oxley Act (2002)
 
@@ -148,7 +148,7 @@ The most sweeping financial regulation since the 1930s, passed in response to th
 
 **Consumer protection**: Created the CFPB with authority over consumer financial products and services.
 
-Parts of Dodd-Frank were rolled back by the Economic Growth, Regulatory Relief, and Consumer Protection Act of 2018, which exempted smaller banks from some of the stricter requirements. The collapse of Silicon Valley Bank in 2023 reignited debate about whether this rollback went too far.
+Parts of Dodd-Frank were rolled back by the Economic Growth, Regulatory Relief, and Consumer Protection Act of 2018, which exempted smaller banks from some of the stricter requirements. The collapse of Silicon Valley Bank in 2023 reignited [debate](/debate) about whether this rollback went too far.
 
 ## International Financial Regulation
 
@@ -192,7 +192,7 @@ Stricter capital requirements make banks safer but reduce their ability to lend.
 
 Fintech companies argue that outdated regulations designed for traditional banking don't fit new business models—and that over-regulation stifles innovation that could benefit consumers. Regulators counter that consumer protection and financial stability matter regardless of the technology used to deliver financial services.
 
-The debate around cryptocurrency regulation exemplifies this tension perfectly. Crypto advocates argue that decentralized finance offers genuine benefits—faster transactions, lower costs, financial inclusion. Regulators point to widespread fraud, market manipulation, and consumer losses in unregulated crypto markets. Finding the right balance between enabling innovation and preventing harm remains unresolved.
+The debate around [cryptocurrency](/cryptocurrency) regulation exemplifies this tension perfectly. Crypto advocates argue that decentralized finance offers genuine benefits—faster transactions, lower costs, financial inclusion. Regulators point to widespread fraud, market manipulation, and consumer losses in unregulated crypto markets. Finding the right balance between enabling innovation and preventing harm remains unresolved.
 
 ### National vs. International Coordination
 
@@ -206,7 +206,7 @@ Others argue that the financial system is inherently complex, and simple rules c
 
 ## The Enforcement Challenge
 
-Writing rules is one thing. Enforcing them is another.
+[Writing](/writing) rules is one thing. Enforcing them is another.
 
 Regulatory agencies face chronic resource constraints. The SEC's enforcement division has about 1,400 employees overseeing markets with thousands of public companies, investment advisers, and broker-dealers. [Business ethics](/business-ethics) violations can be subtle, complex, and deliberately concealed.
 
@@ -218,7 +218,7 @@ After the 2008 crisis, not a single senior executive at a major Wall Street bank
 
 Several trends are shaping the future of financial regulation.
 
-**Climate-related financial risk**: Regulators increasingly view climate change as a financial stability risk. The SEC has proposed climate-related disclosure requirements. The European Central Bank has incorporated climate scenarios into bank stress tests. The debate is whether these represent prudent risk management or regulatory overreach.
+**Climate-related financial risk**: Regulators increasingly view [climate change](/climate-change) as a financial stability risk. The SEC has proposed climate-related disclosure requirements. The European Central Bank has incorporated climate scenarios into bank stress tests. The debate is whether these represent prudent risk [management](/management) or regulatory overreach.
 
 **AI and algorithmic decision-making**: As financial firms use [artificial intelligence](/artificial-intelligence) for lending decisions, trading, and risk management, regulators face questions about algorithmic bias, transparency, and accountability. If an AI denies your mortgage application, who's responsible? How do regulators examine a decision made by a model they can't interpret?
 

@@ -43,7 +43,7 @@ Here's what trips people up right away. "Osteopathy" means very different things
 
 **In the United States**, osteopathic medicine is a fully licensed branch of medicine. Doctors of Osteopathic Medicine (DOs) attend four-year medical schools, complete residency training, prescribe medications, perform surgeries, and practice in every medical specialty — from family medicine to neurosurgery. They have the same practice rights as MDs. There are currently about 115,000 practicing DOs in the U.S., and roughly 25% of all medical students in the country attend osteopathic schools.
 
-**In most other countries** — the UK, Australia, Canada, much of Europe — osteopathy is practiced as a manual therapy, closer to what Americans might think of as [physical therapy](/physical-therapy) or [chiropractic](/chiropractic) care. Practitioners aren't medical doctors. They focus on musculoskeletal assessment and hands-on treatment, and they don't prescribe drugs or perform surgery.
+**In most other countries** — the UK, Australia, Canada, much of Europe — osteopathy is practiced as a manual therapy, closer to what Americans might think of as [physical therapy](/physical-therapy) or [chiropractic](/chiropractic) care. Practitioners aren't medical doctors. They focus on musculoskeletal assessment and hands-on treatment, and they don't prescribe drugs or perform [surgery](/surgery).
 
 This dual identity causes endless confusion. An American DO is a fully trained physician who happens to also know manual medicine techniques. A British osteopath is a manual therapist who doesn't go to medical school. Same word, radically different credentials. Keep this distinction in mind as we go.
 
@@ -101,9 +101,9 @@ The honest assessment is that OMT works best for what you'd intuitively expect: 
 
 Becoming a DO follows a path that closely mirrors the MD track:
 
-**Undergraduate [education](/education)** (4 years): Pre-medical coursework in biology, [chemistry](/chemistry), physics, and related subjects.
+**Undergraduate [education](/education)** (4 years): Pre-medical coursework in [biology](/biology), [chemistry](/chemistry), [physics](/physics), and related subjects.
 
-**Osteopathic medical school** (4 years): The curriculum covers the same material as MD programs — anatomy, [physiology](/physiology), pharmacology, pathology, clinical rotations in all major specialties. The key addition is roughly 200 hours of OMT training spread across all four years.
+**Osteopathic medical school** (4 years): The curriculum covers the same material as MD programs — [anatomy](/anatomy), [physiology](/physiology), pharmacology, [pathology](/pathology), clinical rotations in all major specialties. The key addition is roughly 200 hours of OMT training spread across all four years.
 
 **Residency** (3-7 years depending on specialty): Since 2020, all MD and DO graduates compete for the same residency positions through the same matching process. This merger of the previously separate residency systems was one of the biggest changes in American medical education in decades.
 

@@ -39,13 +39,13 @@ faq:
 
 # What Is Experimental Physics?
 
-Experimental physics is the branch of physics devoted to testing hypotheses and theories through controlled observations, measurements, and reproducible experiments. It produces the empirical evidence that either confirms or overturns our understanding of the physical world—from subatomic particles to the structure of the universe itself.
+Experimental [physics](/physics) is the branch of physics devoted to testing hypotheses and theories through controlled observations, measurements, and reproducible experiments. It produces the empirical evidence that either confirms or overturns our understanding of the physical world—from [subatomic particles](/subatomic-particles) to the structure of the universe itself.
 
 ## Where Theory Meets Reality
 
 Physics has two major branches, and they couldn't be more different in their day-to-day work. Theoretical physicists sit with equations, whiteboard markers, and computers, building mathematical models of how nature should behave. Experimental physicists get their hands dirty. They build detectors, calibrate instruments, collect data for months or years, and then spend even more time figuring out what that data actually means.
 
-But here's the thing—neither branch works without the other. Albert Einstein's general relativity was pure theory in 1915. It took Arthur Eddington's 1919 solar eclipse expedition to confirm that gravity bends light. Peter Higgs predicted the Higgs boson in 1964. It took until 2012 and a $13.25 billion machine (the Large Hadron Collider) to confirm it existed.
+But here's the thing—neither branch works without the other. Albert Einstein's [general relativity](/general-relativity) was pure theory in 1915. It took Arthur Eddington's 1919 solar eclipse expedition to confirm that gravity bends light. Peter Higgs predicted the Higgs boson in 1964. It took until 2012 and a $13.25 billion machine (the Large Hadron Collider) to confirm it existed.
 
 Sometimes experiments lead and theory follows. The discovery of X-rays by Wilhelm Roentgen in 1895 was completely accidental—he noticed a fluorescent screen glowing when it shouldn't have been. No theory predicted X-rays. The experimental observation came first, and then theorists scrambled to explain what was happening.
 
@@ -57,7 +57,7 @@ The process of experimental physics follows a logic that's related to the broade
 
 Every experiment begins with a question. Sometimes it's precise: "Does the electron have an electric dipole moment?" Sometimes it's exploratory: "What happens when we collide lead ions at 99.9999% the speed of light?" The best questions are ones where the answer—whatever it turns out to be—will teach us something genuinely new.
 
-Physicists don't pick questions randomly. They read the theoretical literature, identify predictions that haven't been tested, look for anomalies in existing [data analysis](/data-analysis), and talk to colleagues. The choice of what to measure is itself a major intellectual contribution.
+Physicists don't pick questions randomly. They read the theoretical [literature](/literature), identify predictions that haven't been tested, look for anomalies in existing [data analysis](/data-analysis), and talk to colleagues. The choice of what to measure is itself a major intellectual contribution.
 
 ### Designing the Experiment
 
@@ -83,9 +83,9 @@ The concept of a "controlled experiment" sounds straightforward, but in practice
 
 ### Taking Data and Statistical Analysis
 
-Raw data is meaningless without analysis. And in experimental physics, analysis means statistics—lots of statistics.
+Raw data is meaningless without analysis. And in experimental physics, analysis means [statistics](/statistics)—lots of statistics.
 
-The gold standard in particle physics is "five sigma"—a result must be statistically significant at 5 standard deviations before the community accepts it as a discovery. That corresponds to a probability of roughly 1 in 3.5 million that the result occurred by random chance. This extremely high bar exists because physics has been burned before by results that looked real but turned out to be statistical flukes.
+The gold standard in [particle physics](/particle-physics) is "five sigma"—a result must be statistically significant at 5 standard deviations before the community accepts it as a discovery. That corresponds to a probability of roughly 1 in 3.5 million that the result occurred by random chance. This extremely high bar exists because physics has been burned before by results that looked real but turned out to be statistical flukes.
 
 [Data analysis](/data-analysis) in experimental physics involves fitting theoretical models to measured data, estimating uncertainties, propagating errors through calculations, and checking for systematic biases. A physicist who measures something but can't quantify their uncertainty hasn't really measured anything at all.
 
@@ -105,13 +105,13 @@ The 2012 discovery of the Higgs boson completed the Standard Model of particle p
 
 This is actually the largest subfield of physics by number of practitioners. Condensed matter physicists study how matter behaves when you have lots of atoms packed together—solids, liquids, and exotic states of matter you've never heard of.
 
-Superconductivity, discovered experimentally in 1911, occurs when certain materials conduct electricity with zero resistance below a critical temperature. The experimental search for room-temperature superconductors has been ongoing for over a century. In 2023, claims of room-temperature superconductivity (LK-99) generated enormous excitement before being debunked by careful experimental replication—a perfect example of the scientific process working as intended.
+[Superconductivity](/superconductivity), discovered experimentally in 1911, occurs when certain materials conduct electricity with zero resistance below a critical temperature. The experimental search for room-temperature superconductors has been ongoing for over a century. In 2023, claims of room-temperature superconductivity (LK-99) generated enormous excitement before being debunked by careful experimental replication—a perfect example of the scientific process working as intended.
 
 Condensed matter experiments often happen at more modest scales than particle physics. A tabletop laser setup might cost $500,000 rather than $13 billion. But the precision required is no less impressive—measuring electron behavior at the quantum level demands extraordinary control over experimental conditions.
 
 ### Atomic, Molecular, and Optical Physics
 
-AMO physics uses lasers, electromagnetic traps, and precision spectroscopy to study atoms and molecules with incredible detail. This field has produced some of the most precise measurements in all of science.
+AMO physics uses lasers, electromagnetic traps, and precision [spectroscopy](/spectroscopy) to study atoms and molecules with incredible detail. This field has produced some of the most precise measurements in all of science.
 
 Atomic clocks, for instance, are so accurate they wouldn't gain or lose a second in 300 million years. These clocks work by measuring the frequency of electromagnetic radiation emitted by atoms—and that measurement has been refined to astonishing precision through decades of experimental improvement.
 
@@ -123,13 +123,13 @@ Not all physics experiments happen in laboratories. [Astrophysics](/astrophysics
 
 The cosmic microwave background—radiation left over from the Big Bang—has been measured with increasing precision by experiments like COBE, WMAP, and Planck. These measurements have confirmed the Big Bang theory, measured the age of the universe (13.8 billion years), and determined the relative amounts of ordinary matter, dark matter, and dark energy in the cosmos.
 
-Gravitational wave astronomy, born with LIGO's first detection in 2015, opened an entirely new window on the universe. For the first time, physicists could "hear" cosmic events—black hole mergers, neutron star collisions—rather than just "see" them with light.
+Gravitational wave [astronomy](/astronomy), born with LIGO's first detection in 2015, opened an entirely new window on the universe. For the first time, physicists could "hear" cosmic events—black hole mergers, neutron star collisions—rather than just "see" them with light.
 
 ### Nuclear Physics
 
-Nuclear physics studies the structure and behavior of atomic nuclei. The experiments range from scattering experiments (shooting particles at nuclei and seeing what bounces off) to studies of nuclear reactions and radioactive decay.
+[Nuclear physics](/nuclear-physics) studies the structure and behavior of atomic nuclei. The experiments range from scattering experiments (shooting particles at nuclei and seeing what bounces off) to studies of nuclear reactions and radioactive decay.
 
-This field has enormous practical implications. Nuclear power, nuclear medicine (PET scans, radiation therapy), and radioactive dating all emerged from experimental nuclear physics. Understanding nuclear reactions is also critical for national security—monitoring nuclear weapons testing relies on sophisticated physics detectors.
+This field has enormous practical implications. [Nuclear power](/nuclear-power), nuclear medicine (PET scans, radiation therapy), and radioactive dating all emerged from experimental nuclear physics. Understanding nuclear reactions is also critical for national security—monitoring nuclear weapons testing relies on sophisticated physics detectors.
 
 ## The Equipment: Tools of the Trade
 
@@ -155,7 +155,7 @@ Lasers are the Swiss Army knife of experimental physics. They're used for coolin
 
 ### Cryogenic Systems
 
-Many experiments require extreme cold. Superconducting magnets in the LHC operate at 1.9 Kelvin (colder than outer space). Quantum computing experiments operate at millikelvin temperatures. Achieving and maintaining these temperatures requires sophisticated cryogenic engineering—liquid helium systems, dilution refrigerators, and careful thermal isolation.
+Many experiments require extreme cold. Superconducting magnets in the LHC operate at 1.9 Kelvin (colder than outer space). [Quantum computing](/quantum-computing) experiments operate at millikelvin temperatures. Achieving and maintaining these temperatures requires sophisticated cryogenic [engineering](/engineering)—liquid helium systems, dilution refrigerators, and careful thermal isolation.
 
 ## Famous Experiments That Changed Everything
 
@@ -165,7 +165,7 @@ Some experiments don't just add data points. They change how we understand reali
 
 First performed by Thomas Young in 1801, this experiment showed that light behaves as a wave. Send light through two narrow slits, and you get an interference pattern on the screen behind—bright and dark bands that only make sense if light waves from the two slits are combining and canceling.
 
-Then quantum mechanics made it weirder. In the 20th century, physicists showed that even single particles—electrons, photons, even atoms—produce interference patterns when sent through double slits one at a time. A single particle appears to go through both slits simultaneously. But if you set up a detector to watch which slit the particle goes through, the interference pattern disappears. The act of observation changes the result. Richard Feynman called this "the only mystery" of quantum mechanics.
+Then [quantum mechanics](/quantum-mechanics) made it weirder. In the 20th century, physicists showed that even single particles—electrons, photons, even atoms—produce interference patterns when sent through double slits one at a time. A single particle appears to go through both slits simultaneously. But if you set up a detector to watch which slit the particle goes through, the interference pattern disappears. The act of observation changes the result. Richard Feynman called this "the only mystery" of quantum mechanics.
 
 ### Rutherford's Gold Foil Experiment (1911)
 
@@ -177,7 +177,7 @@ This experiment demolished the "plum pudding" model of the atom (positive charge
 
 Albert Michelson and Edward Morley tried to measure Earth's motion through the "luminiferous ether"—the medium that physicists believed light waves traveled through, much like sound waves travel through air. They built an interferometer that should have detected differences in the speed of light in different directions as Earth moved through this ether.
 
-They found nothing. Light traveled at the same speed regardless of direction. This "null result" was one of the most important measurements in physics history. It undermined classical physics and helped set the stage for Einstein's special relativity, which abandoned the ether entirely and declared the speed of light constant for all observers.
+They found nothing. Light traveled at the same speed regardless of direction. This "null result" was one of the most important measurements in physics history. It undermined classical physics and helped set the stage for Einstein's special [relativity](/relativity), which abandoned the ether entirely and declared the speed of light constant for all observers.
 
 ### The Detection of Gravitational Waves (2015)
 
@@ -203,7 +203,7 @@ There's real tension here. Some of the most exciting recent physics has come fro
 
 The Standard Model of particle physics was completed with the Higgs boson discovery in 2012. Since then, the LHC has found... nothing new. No supersymmetric particles. No extra dimensions. No dark matter candidates. This has created something of an existential crisis. Building a bigger, more expensive collider might discover new particles—or it might find nothing again.
 
-Proposals for a Future Circular Collider (100 km circumference, estimated cost $20+ billion) have sparked intense debate. Is it worth the investment without a specific theoretical target? Some physicists argue passionately yes; others think the money would be better spent on alternative experimental approaches.
+Proposals for a Future Circular Collider (100 km circumference, estimated cost $20+ billion) have sparked intense [debate](/debate). Is it worth the investment without a specific theoretical target? Some physicists argue passionately yes; others think the money would be better spent on alternative experimental approaches.
 
 ## The Human Side of Experimental Physics
 

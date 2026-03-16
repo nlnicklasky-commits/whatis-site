@@ -31,7 +31,7 @@ faq:
 
 # What Is Sports Coaching?
 
-Sports coaching is the practice of instructing, guiding, and mentoring athletes to improve their skills, physical conditioning, tactical understanding, and competitive performance. It sounds straightforward — teach people to play sports better. But anyone who's coached or been coached knows it's far more complicated than that. Coaching sits at the intersection of [teaching](/teaching), [psychology](/psychology), [leadership](/leadership), [sports science](/sports-science), and human relationships, and the best coaches are skilled at all of them.
+Sports [coaching](/coaching) is the practice of instructing, guiding, and mentoring athletes to improve their skills, physical conditioning, tactical understanding, and competitive performance. It sounds straightforward — teach people to play sports better. But anyone who's coached or been coached knows it's far more complicated than that. Coaching sits at the intersection of [teaching](/teaching), [psychology](/psychology), [leadership](/leadership), [sports science](/sports-science), and human relationships, and the best coaches are skilled at all of them.
 
 An estimated 8.5 million people coach sports in the United States alone, from volunteer parents [running](/running) Saturday morning [soccer](/soccer) to head coaches of professional franchises managing rosters worth hundreds of millions of dollars. The contexts differ wildly, but the core challenge is the same: help athletes get better.
 
@@ -49,7 +49,7 @@ The job involves far more than [drawing](/drawing) plays on a whiteboard.
 
 ## Coaching Philosophy
 
-Every coach operates from a philosophy, whether they've articulated it or not. The major schools of thought break down along a few dimensions.
+Every coach operates from a [philosophy](/philosophy), whether they've articulated it or not. The major schools of thought break down along a few dimensions.
 
 **Authoritarian vs. democratic.** Traditional coaching is top-down — the coach decides, athletes execute. More modern approaches involve athletes in decision-making, tactical discussions, and goal-setting. Research suggests democratic coaching produces better long-term athlete development and autonomy, but authoritarian approaches can be effective in the short term, especially with experienced athletes who need clear direction.
 

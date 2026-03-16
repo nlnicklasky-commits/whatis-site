@@ -35,11 +35,11 @@ faq:
 
 # What Is Industrial Psychology?
 
-Industrial psychology — more formally called industrial-organizational (I-O) psychology — is the scientific study of human behavior in workplace settings. It applies psychological [research methods](/research-methods) to questions about employee selection, training, motivation, performance, well-being, and organizational effectiveness. The field uses data and evidence rather than intuition to answer practical questions: Who should we hire? How should we train them? What makes teams work well? Why do people quit?
+Industrial [psychology](/psychology) — more formally called industrial-organizational (I-O) psychology — is the scientific study of human behavior in workplace settings. It applies psychological [research methods](/research-methods) to questions about employee selection, training, motivation, performance, well-being, and organizational effectiveness. The field uses data and evidence rather than intuition to answer practical questions: Who should we hire? How should we train them? What makes teams work well? Why do people quit?
 
 ## The Science of Work (Not Just Common Sense)
 
-Here's what makes industrial psychology different from ordinary management advice: evidence. Every workplace has opinions about what makes a good employee, what motivates people, and how to build effective teams. Most of those opinions are wrong — or at least incomplete.
+Here's what makes industrial psychology different from ordinary [management](/management) advice: evidence. Every workplace has opinions about what makes a good employee, what motivates people, and how to build effective teams. Most of those opinions are wrong — or at least incomplete.
 
 Consider hiring. Most managers believe they're good at evaluating candidates in interviews. Research consistently shows they're not. Unstructured interviews — the "let's just have a conversation" approach — predict job performance barely better than flipping a coin. The correlation between unstructured interview ratings and actual job performance is about 0.20 on a scale where 1.0 would be perfect prediction. That's terrible.
 
@@ -53,7 +53,7 @@ Industrial psychologists know this because they've run the studies. Thousands of
 
 Industrial psychology's origin story starts in 1913, when Hugo Munsterberg published "Psychology and Industrial Efficiency." Munsterberg — a German psychologist working at Harvard — argued that psychology could improve worker selection, training, and workplace conditions. His work included early studies of trolley car operator selection and jury decision-making.
 
-But the field really took off during World War I. The U.S. Army needed to rapidly classify 1.7 million recruits into appropriate roles. Psychologists Robert Yerkes and colleagues developed the Army Alpha and Army Beta tests — standardized intelligence assessments that could be administered to groups. It was the largest psychological testing program in history at that point, and it demonstrated that systematic psychological assessment worked at scale.
+But the field really took off during [World War I](/world-war-i). The U.S. Army needed to rapidly classify 1.7 million recruits into appropriate roles. Psychologists Robert Yerkes and colleagues developed the Army Alpha and Army Beta tests — standardized intelligence assessments that could be administered to groups. It was the largest psychological testing program in history at that point, and it demonstrated that systematic psychological assessment worked at scale.
 
 ### The Hawthorne Studies
 
@@ -65,7 +65,7 @@ The "Hawthorne effect" — performance improvement driven by observation and att
 
 ### Post-War Expansion
 
-World War II brought another massive application of I-O psychology: selecting pilots, assessing officer potential, designing equipment that minimized human error, and managing the psychological challenges of military service. After the war, psychologists trained in these military applications brought their skills to the corporate world.
+[World War II](/world-war-ii) brought another massive application of I-O psychology: selecting pilots, assessing officer potential, designing equipment that minimized human error, and managing the psychological challenges of military service. After the war, psychologists trained in these military applications brought their skills to the corporate world.
 
 The 1960s and 1970s added a critical dimension — one connected to [business law](/business-law) — legal requirements. The Civil Rights Act of 1964 and subsequent legislation required that hiring and promotion decisions be job-related and non-discriminatory. Suddenly, organizations needed scientifically validated selection procedures — not just whatever the hiring manager felt like doing. I-O psychologists became essential for developing legally defensible hiring systems.
 
@@ -87,11 +87,11 @@ The toolkit includes:
 
 **Cognitive ability tests**: Measures of general mental ability (learning speed, reasoning, problem-solving) are the single strongest predictor of job performance across nearly all jobs. The correlation with performance is about 0.51 — not perfect, but substantially better than any alternative used alone.
 
-**Personality assessments**: The Big Five personality traits (conscientiousness, extraversion, agreeableness, openness, neuroticism) predict different aspects of work behavior. Conscientiousness — the tendency to be organized, dependable, and hardworking — predicts performance across virtually all occupations. Extraversion predicts sales performance. [Emotional intelligence](/emotional-intelligence) measures predict performance in socially demanding roles.
+**Personality assessments**: The Big Five personality traits (conscientiousness, extraversion, agreeableness, openness, neuroticism) predict different aspects of work behavior. Conscientiousness — the tendency to be organized, dependable, and hardworking — predicts performance across virtually all occupations. Extraversion predicts [sales](/sales) performance. [Emotional intelligence](/emotional-intelligence) measures predict performance in socially demanding roles.
 
 **Structured interviews**: Same questions, same evaluation criteria, for every candidate. Behavioral questions ("Tell me about a time you handled a difficult customer") predict future behavior better than hypothetical questions ("What would you do if...").
 
-**Work sample tests**: Give candidates a sample of the actual work and evaluate their performance. A coding test for programmers. A teaching demonstration for professors. A writing sample for content writers. These have high validity and are perceived as fair by candidates.
+**Work sample tests**: Give candidates a sample of the actual work and evaluate their performance. A coding test for programmers. A [teaching](/teaching) demonstration for professors. A [writing](/writing) sample for content writers. These have high validity and are perceived as fair by candidates.
 
 **Assessment centers**: Multi-method evaluation programs where candidates complete several exercises — group discussions, in-basket exercises, role plays, presentations — observed by multiple trained assessors. Expensive and time-consuming but effective for management selection.
 
@@ -113,7 +113,7 @@ Training is where organizations spend enormous money with surprisingly little ev
 
 I-O psychologists apply systematic training design principles:
 
-**Needs analysis**: Drawing on principles from [educational psychology](/educational-psychology), what specific skills or knowledge gaps exist? Training for skills people already have is waste.
+**Needs analysis**: [Drawing](/drawing) on principles from [educational psychology](/educational-psychology), what specific skills or knowledge gaps exist? Training for skills people already have is waste.
 
 **Learning principles**: Active practice beats passive lectures. Distributed practice (spread over time) beats massed practice (all at once). Feedback during practice is essential. Transfer of training — applying what you learned back on the job — requires deliberate design, not hope.
 
@@ -127,7 +127,7 @@ Why do people work hard — or not? This question has generated some of psycholo
 
 **Maslow's hierarchy of needs** (1943) proposed that people must satisfy basic needs (food, safety) before pursuing higher needs (belonging, esteem, self-actualization). Intuitive, widely taught — but poorly supported by research. People pursue multiple need levels simultaneously, and the hierarchy doesn't hold consistently across cultures.
 
-**Herzberg's two-factor theory** (1959) distinguished "hygiene factors" (salary, working conditions, job security) that cause dissatisfaction when absent but don't motivate when present, from "motivators" (achievement, recognition, meaningful work) that drive engagement. The distinction has practical value even though the research behind it has been criticized.
+**Herzberg's two-factor theory** (1959) distinguished "[hygiene](/hygiene) factors" (salary, working conditions, job security) that cause dissatisfaction when absent but don't motivate when present, from "motivators" (achievement, recognition, meaningful work) that drive engagement. The distinction has practical value even though the research behind it has been criticized.
 
 **Self-determination theory** (Deci and Ryan, 1985) identifies three universal psychological needs: autonomy (control over your work), competence (mastery and effectiveness), and relatedness (connection to others). Environments that support these needs produce intrinsic motivation; environments that thwart them produce disengagement or purely external compliance.
 
@@ -137,7 +137,7 @@ The practical takeaway from decades of motivation research: money matters (espec
 
 ### Leadership
 
-I-O psychology has studied leadership more intensively than almost any other topic. The conclusions are both encouraging and humbling.
+I-O psychology has studied [leadership](/leadership) more intensively than almost any other topic. The conclusions are both encouraging and humbling.
 
 Leadership matters — a lot. Meta-analyses consistently show that leadership quality explains significant variance in team performance, employee satisfaction, and organizational outcomes. Changing leaders changes results.
 
@@ -161,7 +161,7 @@ Burnout, stress, work-life conflict — these aren't just personal problems. The
 
 The job demands-resources model provides the dominant framework. Job demands (workload, time pressure, emotional labor, role ambiguity) drain energy and produce strain. Job resources (autonomy, social support, feedback, opportunities for growth) provide energy and buffer against demands. When demands consistently exceed resources, burnout results.
 
-The research is clear: burnout isn't primarily an individual failing. It's a systemic issue. People don't burn out because they're weak; they burn out because their work environments chronically drain more than they provide. Interventions that address only individual coping ("try meditation!") while ignoring structural causes ("we eliminated two positions but didn't reduce the workload") are ineffective.
+The research is clear: burnout isn't primarily an individual failing. It's a systemic issue. People don't burn out because they're weak; they burn out because their work environments chronically drain more than they provide. Interventions that address only individual coping ("try [meditation](/meditation)!") while ignoring structural causes ("we eliminated two positions but didn't reduce the workload") are ineffective.
 
 ## I-O Psychology in Practice
 
@@ -171,7 +171,7 @@ Many I-O psychologists work as consultants, helping organizations design selecti
 
 ### People Analytics
 
-The fastest-growing area of applied I-O psychology, enabled by [machine learning](/machine-learning) and modern analytics platforms. Organizations now collect enormous amounts of employee data — engagement surveys, performance metrics, communication patterns, turnover rates, hiring funnel statistics. People analytics applies statistical methods to this data to identify patterns and predict outcomes.
+The fastest-growing area of applied I-O psychology, enabled by [machine learning](/machine-learning) and modern analytics platforms. Organizations now collect enormous amounts of employee data — engagement surveys, performance metrics, communication patterns, turnover rates, hiring funnel [statistics](/statistics). People analytics applies statistical methods to this data to identify patterns and predict outcomes.
 
 Which interview questions actually predict performance? What factors drive voluntary turnover? Which teams are at risk of burnout? People analytics answers these questions with data rather than opinion. Google's Project Oxygen, which used [data analysis](/data-analysis) to identify the behaviors of effective managers, is perhaps the most famous example.
 

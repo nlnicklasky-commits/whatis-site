@@ -104,4 +104,4 @@ The antiques market has shifted significantly in the past two decades. "Brown fu
 
 Online selling has democratized the market. Items that might sit unsold in a rural antique shop can find buyers worldwide through [online platforms](/web-development). But online buying carries risks — you can't examine condition in person, and photos can be deceptive.
 
-The entry barrier is low. You don't need wealth to collect antiques. Plenty of genuinely interesting, historically significant items sell for under $50 at estate sales and flea markets. The key is knowing what you're looking at — and that knowledge comes from handling lots of objects, reading, talking to experienced collectors, and making the occasional expensive mistake.
+The entry barrier is low. You don't need wealth to collect antiques. Plenty of genuinely interesting, historically significant items sell for under $50 at estate [sales](/sales) and flea markets. The key is knowing what you're looking at — and that knowledge comes from handling lots of objects, reading, talking to experienced collectors, and making the occasional expensive mistake.

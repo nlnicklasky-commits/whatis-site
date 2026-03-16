@@ -37,7 +37,7 @@ faq:
 
 # What Is Statistical Mechanics?
 
-Statistical mechanics is the branch of physics that explains the macroscopic properties of matter — temperature, pressure, entropy — by applying probability theory and statistics to the microscopic behavior of atoms and molecules. It bridges the gap between the world of individual particles and the world you actually experience.
+Statistical mechanics is the branch of physics that explains the macroscopic properties of matter — temperature, pressure, entropy — by applying [probability theory](/probability-theory) and statistics to the microscopic behavior of atoms and molecules. It bridges the gap between the world of individual particles and the world you actually experience.
 
 ## The Problem Statistical Mechanics Solves
 
@@ -73,7 +73,7 @@ The equation carved into Boltzmann's tombstone says it all:
 
 Entropy (S) equals Boltzmann's constant (k = 1.381 × 10⁻²³ J/K) times the natural logarithm of the number of microstates (W).
 
-This is arguably the most profound equation in physics after E = mc². It connects the microscopic world (W, the count of arrangements) to the macroscopic world (S, the thermodynamic entropy you measure in a lab). And it explains why the second law of thermodynamics works.
+This is arguably the most profound equation in physics after E = mc². It connects the microscopic world (W, the count of arrangements) to the macroscopic world (S, the thermodynamic entropy you measure in a lab). And it explains why the second law of [thermodynamics](/thermodynamics) works.
 
 Why does entropy increase? Because there are overwhelmingly more high-entropy microstates than low-entropy ones. A system doesn't "want" to increase its entropy — it simply stumbles into higher-entropy states because there are more of them to stumble into. It's pure probability, not some mysterious driving force.
 
@@ -126,7 +126,7 @@ The remarkable thing? For large systems (and "large" means anything bigger than 
 
 ## Classical vs. Quantum Statistical Mechanics
 
-The framework described so far works perfectly for classical particles — billiard-ball-like objects with definite positions and momenta. But real atoms obey quantum mechanics, and this changes the counting of microstates in fundamental ways.
+The framework described so far works perfectly for classical particles — billiard-ball-like objects with definite positions and momenta. But real atoms obey [quantum mechanics](/quantum-mechanics), and this changes the counting of microstates in fundamental ways.
 
 ### Identical Particles Change Everything
 
@@ -154,7 +154,7 @@ For bosons:
 
 **n(E) = 1 / (e^((E-μ)/kT) - 1)**
 
-Note the minus sign in the denominator instead of plus. This seemingly tiny difference has enormous consequences — it allows unlimited occupation of single states and leads to phenomena like superfluidity, superconductivity, and laser operation.
+Note the minus sign in the denominator instead of plus. This seemingly tiny difference has enormous consequences — it allows unlimited occupation of single states and leads to phenomena like superfluidity, [superconductivity](/superconductivity), and laser operation.
 
 ## Applications of Statistical Mechanics
 
@@ -170,7 +170,7 @@ The Maxwell-Boltzmann speed distribution tells you that gas molecules at room te
 
 Water freezes at 0°C. Magnets lose their magnetism above a critical temperature. Superconductors suddenly gain zero resistance below a threshold. These phase transitions are among the most dramatic phenomena in physics, and statistical mechanics explains them through the mathematics of how microstates reorganize.
 
-Near a phase transition, [fluctuations](/data-analysis) become enormous — the system can't "decide" which phase to be in. The correlation length — how far apart two particles can be and still influence each other — diverges to infinity. And remarkably, different phase transitions in completely different systems share the same critical exponents, a phenomenon called universality that Ken Wilson explained in the 1970s using renormalization group theory, earning a Nobel Prize.
+Near a phase transition, [fluctuations](/data-analysis) become enormous — the system can't "decide" which phase to be in. The correlation length — how far apart two particles can be and still influence each other — diverges to infinity. And remarkably, different phase transitions in completely different systems share the same critical exponents, a phenomenon called universality that Ken Wilson explained in the 1970s using renormalization [group theory](/group-theory), earning a Nobel Prize.
 
 ### Polymers and Biological Molecules
 
@@ -180,7 +180,7 @@ Protein folding — how a linear chain of amino acids finds its three-dimensiona
 
 ### Information Theory and Computing
 
-Claude Shannon's information theory is, mathematically, the same thing as statistical mechanics. Shannon entropy — the measure of information content — has exactly the same form as Boltzmann entropy. This isn't a coincidence; it reflects a deep connection between information and physical entropy.
+Claude Shannon's [information theory](/information-theory) is, mathematically, the same thing as statistical mechanics. Shannon entropy — the measure of information content — has exactly the same form as Boltzmann entropy. This isn't a coincidence; it reflects a deep connection between information and physical entropy.
 
 This connection has practical consequences. Landauer's principle states that erasing one bit of information requires dissipating at least kT ln 2 joules of energy as heat — about 3 × 10⁻²¹ J at room temperature. This sets a fundamental thermodynamic limit on computing efficiency. Current computers operate about a billion times above this limit, so there's room for improvement, but the limit is real and inescapable.
 
@@ -198,9 +198,9 @@ Statistical mechanics continues to evolve. Some of the most active research area
 
 **Monte Carlo methods** use random sampling to estimate partition functions and thermodynamic properties of systems too complex for exact solutions. The Metropolis algorithm, introduced in 1953, remains one of the most important [algorithms](/algorithms) in scientific computing. Modern variants simulate everything from protein folding to galaxy formation.
 
-**Machine learning and statistical mechanics** share deep mathematical connections. Neural networks can be mapped onto spin systems, and techniques from statistical mechanics — like mean field theory and the replica method — provide insights into why [deep learning](/deep-learning) works.
+**Machine learning and statistical mechanics** share deep mathematical connections. [Neural networks](/neural-networks) can be mapped onto spin systems, and techniques from statistical mechanics — like mean field theory and the replica method — provide insights into why [deep learning](/deep-learning) works.
 
-**Quantum computing** promises to simulate quantum statistical mechanical systems efficiently — something that classical computers fundamentally cannot do. Simulating a quantum system of 300 particles would require more classical bits than there are atoms in the observable universe. A quantum computer could, in principle, do it directly.
+**[Quantum computing](/quantum-computing)** promises to simulate quantum statistical mechanical systems efficiently — something that classical computers fundamentally cannot do. Simulating a quantum system of 300 particles would require more classical bits than there are atoms in the observable universe. A quantum computer could, in principle, do it directly.
 
 ## Why Statistical Mechanics Matters
 

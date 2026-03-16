@@ -53,7 +53,7 @@ The stereotype of race car drivers as people who "just turn left" (a dig at NASC
 
 **Physical demands.** An F1 driver experiences up to 6G in heavy braking zones — six times the force of gravity pressing on their body. Their heart rate sits between 140-170 bpm for the entire race, comparable to a competitive runner. Neck muscles must support a head and helmet weighing over 15 pounds under those G-forces. Cockpit temperatures routinely exceed 130°F (55°C). Drivers lose 2-4 kg of bodyweight in fluid during a two-hour race.
 
-**Mental processing.** At 200 mph, a driver covers nearly 300 feet per second. They're simultaneously managing braking points, turn-in points, throttle application, tire management, fuel consumption, competitor positions, pit stop timing, and radio communications with their engineer — all while processing visual information faster than most humans can comprehend.
+**Mental processing.** At 200 mph, a driver covers nearly 300 feet per second. They're simultaneously managing braking points, turn-in points, throttle application, tire [management](/management), fuel consumption, competitor positions, pit stop timing, and radio communications with their engineer — all while processing visual information faster than most humans can comprehend.
 
 **Racecraft.** Knowing when to overtake, how to defend a position, when to conserve tires for a late-race push, and when to take risks — these strategic decisions separate good drivers from great ones. Max Verstappen's aggressive racing style and Lewis Hamilton's tire management and late-race pace are both forms of racecraft, applied differently.
 

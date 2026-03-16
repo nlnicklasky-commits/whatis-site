@@ -37,7 +37,7 @@ faq:
 
 # What Is Photovoltaics?
 
-Photovoltaics (PV) is the technology that converts sunlight directly into electricity using semiconductor materials. When photons from the sun hit a solar cell, they knock electrons loose from atoms, creating an electrical current. No moving parts, no combustion, no noise. Just light in, electricity out.
+Photovoltaics (PV) is the technology that converts sunlight directly into [electricity](/electricity) using semiconductor materials. When photons from the sun hit a solar cell, they knock electrons loose from atoms, creating an electrical current. No moving parts, no combustion, no noise. Just light in, electricity out.
 
 That simple description belies one of the most consequential technological stories of the 21st century.
 
@@ -127,7 +127,7 @@ The non-panel components --- wiring, mounting hardware, monitoring systems, and 
 
 Solar produces electricity when the sun shines, which doesn't always match when you need it. Battery storage systems (typically lithium-ion) store excess daytime production for evening use. The cost of lithium-ion batteries dropped about 97% between 1991 and 2023, making home storage increasingly practical.
 
-Grid-connected systems without batteries can net meter --- sending excess electricity to the grid during the day and drawing from it at night. This effectively uses the grid as a battery, though net metering policies vary by location and are politically contentious.
+Grid-connected systems without batteries can net meter --- sending excess electricity to the grid during the day and [drawing](/drawing) from it at night. This effectively uses the grid as a battery, though net metering policies vary by location and are politically contentious.
 
 ## The Economics: Why Solar Exploded
 
@@ -135,7 +135,7 @@ The story of solar economics is one of the most dramatic cost declines in techno
 
 In 1976, solar panels cost about $106 per watt. By 2024, the global average was under $0.20 per watt --- a decline of over 99.8%. This follows "Swanson's Law," which observes that the price of solar panels drops roughly 20% for every doubling of cumulative shipped volume.
 
-What drove this? Manufacturing scale, primarily. China invested heavily in solar manufacturing starting in the mid-2000s, and global production capacity grew from about 2 GW per year in 2005 to over 450 GW per year in 2023. This massive scaling reduced costs through learning-by-doing, process optimization, and supply chain maturation.
+What drove this? Manufacturing scale, primarily. China invested heavily in solar manufacturing starting in the mid-2000s, and global production capacity grew from about 2 GW per year in 2005 to over 450 GW per year in 2023. This massive scaling reduced costs through learning-by-doing, process [optimization](/optimization), and supply chain maturation.
 
 The result: solar is now the cheapest source of new electricity generation in most of the world. The International Energy Agency's 2023 World Energy Outlook found that solar PV is the cheapest source of new electricity in countries representing 95% of global power generation. In many locations, building new solar is cheaper than continuing to operate existing coal plants.
 
@@ -177,9 +177,9 @@ Solar panels use silver for contacts (about 10-15 grams per panel), which contri
 
 ### Land Use
 
-Utility-scale solar farms require 5-10 acres per megawatt. A study by the National Renewable Energy Laboratory found that powering the entire US electricity system with solar would require about 22,000 square miles --- roughly 0.6% of US land area. That's significant but manageable, especially since much could be placed on rooftops, parking lots, and degraded land.
+Utility-scale solar farms require 5-10 acres per megawatt. A study by the National [Renewable Energy](/renewable-energy) Laboratory found that powering the entire US electricity system with solar would require about 22,000 square miles --- roughly 0.6% of US land area. That's significant but manageable, especially since much could be placed on rooftops, parking lots, and degraded land.
 
-Agrivoltaics --- farming under and around solar panels --- is gaining traction. Certain crops actually benefit from partial shade, and the panels benefit from the cooling effect of plant transpiration.
+Agrivoltaics --- [farming](/farming) under and around solar panels --- is gaining traction. Certain crops actually benefit from partial shade, and the panels benefit from the cooling effect of plant transpiration.
 
 ## Grid Integration Challenges
 
@@ -193,9 +193,9 @@ Solar's intermittency --- it only works when the sun shines --- creates real cha
 
 ## Connections to Other Fields
 
-Photovoltaics sits at the intersection of several disciplines. The underlying physics connects to [electromagnetism](/electromagnetism) and quantum mechanics. The semiconductor technology shares DNA with [electronics](/electronics) and [computer hardware](/computer-hardware). The materials science challenges link to [materials science](/materials-science) and [chemistry](/chemistry). The energy storage question connects to [battery technology](/battery-technology) and [electrochemistry](/electrochemistry). And the broader context of energy transition involves [environmental science](/environmental-science) and [economics](/economics).
+Photovoltaics sits at the intersection of several disciplines. The underlying [physics](/physics) connects to [electromagnetism](/electromagnetism) and [quantum mechanics](/quantum-mechanics). The semiconductor technology shares DNA with [electronics](/electronics) and [computer hardware](/computer-hardware). The materials science challenges link to [materials science](/materials-science) and [chemistry](/chemistry). The energy storage question connects to [battery technology](/battery-technology) and [electrochemistry](/electrochemistry). And the broader context of energy transition involves [environmental science](/environmental-science) and [economics](/economics).
 
-If you're interested in the broader energy picture, [alternative energy](/alternative-energy) covers wind, hydro, and other renewable sources. For the engineering side of getting electricity from panels to your outlets, [electrical engineering](/electrical-engineering) goes deeper.
+If you're interested in the broader energy picture, [alternative energy](/alternative-energy) covers wind, hydro, and other renewable sources. For the [engineering](/engineering) side of getting electricity from panels to your outlets, [electrical engineering](/electrical-engineering) goes deeper.
 
 ## Where Solar Goes From Here
 

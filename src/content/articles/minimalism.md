@@ -75,7 +75,7 @@ Minimalism has attracted reasonable criticism:
 
 **It doesn't suit everyone.** Some people thrive with collections, abundant books, full workshops, and bustling homes. Minimalism's aesthetic of empty space and sparse possessions is a preference, not a universal good.
 
-**It individualizes systemic problems.** Climate change and overconsumption are structural issues driven by industrial production, planned obsolescence, and economic growth imperatives. Individual minimalism is admirable but doesn't address the systems that generate excess.
+**It individualizes systemic problems.** [Climate change](/climate-change) and overconsumption are structural issues driven by industrial production, planned obsolescence, and economic growth imperatives. Individual minimalism is admirable but doesn't address the systems that generate excess.
 
 ## What's Worth Keeping
 

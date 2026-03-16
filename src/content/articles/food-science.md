@@ -35,13 +35,13 @@ faq:
 
 # What Is Food Science?
 
-Food science is the applied discipline that uses [biology](/biology), [chemistry](/chemistry), and engineering to study the nature of food, the causes of its deterioration, and the principles underlying food processing, preservation, and safety. It covers everything from understanding why bread rises to designing factory processes that safely feed millions.
+Food science is the applied discipline that uses [biology](/biology), [chemistry](/chemistry), and [engineering](/engineering) to study the nature of food, the causes of its deterioration, and the principles underlying food processing, preservation, and safety. It covers everything from understanding why bread rises to designing factory processes that safely feed millions.
 
 ## Why Food Science Exists
 
 Here's a number that puts things in perspective: roughly 600 million people worldwide get sick from contaminated food every year, and about 420,000 die from it, according to the World Health Organization. Before modern food science, those numbers were far worse.
 
-Food science emerged as a formal discipline in the mid-20th century, but its roots go back thousands of years. Humans have been fermenting, drying, salting, and smoking food since prehistory. What changed was the scientific understanding of *why* these methods work — and that understanding opened the door to methods our ancestors couldn't have imagined.
+Food science emerged as a formal discipline in the mid-20th century, but its roots go back thousands of years. Humans have been fermenting, drying, salting, and smoking food since [prehistory](/prehistory). What changed was the scientific understanding of *why* these methods work — and that understanding opened the door to methods our ancestors couldn't have imagined.
 
 Louis Pasteur's work in the 1860s — demonstrating that microorganisms cause food spoilage and disease — was arguably the birth of modern food science. Before Pasteur, people knew that heating milk made it last longer, but they didn't know why. After Pasteur, [food preservation](/food-preservation) became an engineering problem with a scientific basis rather than a collection of folk practices.
 
@@ -51,21 +51,21 @@ Food science isn't a single subject. It's a bundle of overlapping specialties, e
 
 ### Food Microbiology
 
-Microorganisms can be your best friend or your worst enemy in food. Understanding which is which — and controlling the outcomes — is what food microbiology is about.
+Microorganisms can be your best friend or your worst enemy in food. Understanding which is which — and controlling the outcomes — is what food [microbiology](/microbiology) is about.
 
 **The enemies** include *Salmonella* (responsible for about 1.35 million infections per year in the U.S.), *E. coli* O157:H7 (which can cause kidney failure, particularly in children), *Listeria monocytogenes* (especially dangerous for pregnant women and immunocompromised individuals), and *Clostridium botulinum* (which produces the most potent biological toxin known).
 
 Each of these organisms has specific growth requirements — temperature ranges, pH preferences, water activity thresholds, oxygen needs. Food microbiologists exploit these requirements to design preservation systems. *Clostridium botulinum* can't grow below pH 4.6, which is why acidic foods like tomatoes are safe for home canning but low-acid vegetables like green beans require pressure canning (to reach 121°C and destroy botulinum spores).
 
-**The friends** include the lactobacilli that ferment yogurt and sauerkraut, the saccharomyces yeast that makes bread rise and beer ferment, the acetobacter that convert wine to vinegar, and the penicillium molds that give Camembert and Roquefort their characteristic flavors. Fermentation is one of the oldest food preservation methods — lactic acid bacteria lower the pH of food, creating an environment hostile to pathogens while producing appealing flavors.
+**The friends** include the lactobacilli that ferment yogurt and sauerkraut, the saccharomyces yeast that makes bread rise and beer ferment, the acetobacter that convert wine to vinegar, and the penicillium molds that give Camembert and Roquefort their characteristic flavors. [Fermentation](/fermentation) is one of the oldest food preservation methods — lactic acid bacteria lower the pH of food, creating an environment hostile to pathogens while producing appealing flavors.
 
 The human gut microbiome has become a major research focus. The trillions of bacteria in your digestive tract affect everything from nutrient absorption to immune function to [mental health](/mental-health). Food scientists are investigating how different foods, fibers, and fermented products influence microbiome composition — a field that barely existed 20 years ago.
 
 ### [Food Chemistry](/food-chemistry)
 
-Food chemistry examines the chemical composition of food and the reactions that occur during processing and storage. It's the science behind why browning happens, why emulsions stabilize or break, why certain vitamins degrade during cooking, and why fats go rancid.
+Food chemistry examines the chemical composition of food and the reactions that occur during processing and storage. It's the science behind why browning happens, why emulsions stabilize or break, why certain vitamins degrade during [cooking](/cooking), and why fats go rancid.
 
-The Maillard reaction — the chemical browning that creates the flavors of seared meat, toasted bread, and roasted coffee — is perhaps the most studied reaction in food chemistry. It produces hundreds of different flavor compounds from the interaction of amino acids and sugars at high temperatures. Understanding and controlling this reaction lets food scientists design everything from artificial meat flavors to optimal bread baking conditions.
+The Maillard reaction — the chemical browning that creates the flavors of seared meat, toasted bread, and roasted coffee — is perhaps the most studied reaction in food chemistry. It produces hundreds of different flavor compounds from the interaction of amino acids and sugars at high temperatures. Understanding and controlling this reaction lets food scientists design everything from artificial meat flavors to optimal bread [baking](/baking) conditions.
 
 Lipid oxidation is another central concern. Fats react with oxygen over time, producing compounds that taste rancid and may be unhealthy. Controlling oxidation — through packaging, antioxidants, and storage conditions — is critical for the shelf life of everything from potato chips to baby formula.
 
@@ -73,7 +73,7 @@ Lipid oxidation is another central concern. Fats react with oxygen over time, pr
 
 Food engineering applies principles from [chemical engineering](/chemical-engineering) and [mechanical engineering](/mechanical-engineering) to design the equipment and processes that produce food at scale.
 
-Consider what it takes to make a gallon of pasteurized milk. Raw milk must be received, tested, standardized (adjusted to the correct fat content), homogenized (forced through tiny nozzles to break up fat globules so cream doesn't separate), pasteurized (heated to 72°C for 15 seconds to kill pathogens), cooled rapidly, packaged, and distributed under [refrigeration](/refrigeration) — all while maintaining strict hygiene and traceability.
+Consider what it takes to make a gallon of pasteurized milk. Raw milk must be received, tested, standardized (adjusted to the correct fat content), homogenized (forced through tiny nozzles to break up fat globules so cream doesn't separate), pasteurized (heated to 72°C for 15 seconds to kill pathogens), cooled rapidly, packaged, and distributed under [refrigeration](/refrigeration) — all while maintaining strict [hygiene](/hygiene) and traceability.
 
 Modern dairy plants process hundreds of thousands of gallons per day. The engineering required to do this safely, efficiently, and consistently is substantial. Heat exchangers must transfer energy precisely. Flow rates must be controlled. Cleaning-in-place (CIP) systems must sanitize equipment between runs without disassembly.
 
@@ -81,7 +81,7 @@ Other food engineering challenges include:
 
 - **Extrusion**: Forcing food material through a die under heat and pressure. This single process produces breakfast cereals, pasta, pet food, snack chips, and textured vegetable protein. The conditions — temperature, pressure, moisture, screw speed — determine whether you get a puffed cereal or a dense pasta shape.
 
-- **Spray drying**: Converting liquid foods into powder by atomizing them into a stream of hot air. Instant coffee, powdered milk, and protein powder are all spray-dried products. The challenge is preserving flavor and nutrition during the rapid dehydration.
+- **Spray drying**: Converting liquid foods into powder by atomizing them into a stream of hot air. Instant coffee, powdered milk, and protein powder are all spray-dried products. The challenge is preserving flavor and [nutrition](/nutrition) during the rapid dehydration.
 
 - **Aseptic processing**: Sterilizing the food and the packaging separately, then combining them in a sterile environment. This allows shelf-stable products like juice boxes and soup cartons that don't require refrigeration despite having no preservatives.
 
@@ -99,11 +99,11 @@ The interaction between senses matters enormously. Color affects flavor percepti
 
 Food safety is the non-negotiable foundation of food science. The systems that keep food safe are elaborate, science-based, and rigorously enforced.
 
-**HACCP (Hazard Analysis and Critical Control Points)** is the international standard for food safety management. Developed originally for NASA (astronauts can't afford food poisoning in space), HACCP requires identifying every potential biological, chemical, and physical hazard in a food production process, then establishing control points where monitoring and corrective actions can prevent those hazards from reaching consumers.
+**HACCP (Hazard Analysis and Critical Control Points)** is the international standard for food safety [management](/management). Developed originally for NASA (astronauts can't afford food poisoning in space), HACCP requires identifying every potential biological, chemical, and physical hazard in a food production process, then establishing control points where monitoring and corrective actions can prevent those hazards from reaching consumers.
 
 A HACCP plan for a canned soup factory might identify dozens of critical control points: incoming ingredient temperatures, cooking time and temperature in the retort, seal integrity on the cans, metal detection for foreign objects, proper labeling for allergens.
 
-**Food traceability** — the ability to track every ingredient from farm to fork — has become essential for rapid response to contamination events. When a romaine lettuce outbreak occurs, investigators need to trace the contaminated product back through distribution centers to specific farms and fields. Modern traceability systems use lot codes, GPS data, and blockchain technology to make this possible within hours rather than weeks.
+**Food traceability** — the ability to track every ingredient from farm to fork — has become essential for rapid response to contamination events. When a romaine lettuce outbreak occurs, investigators need to trace the contaminated product back through distribution centers to specific farms and fields. Modern traceability systems use lot codes, GPS data, and [blockchain](/blockchain) technology to make this possible within hours rather than weeks.
 
 ## How Food Gets Preserved
 
@@ -135,7 +135,7 @@ Removing water prevents microbial growth (most bacteria need water activity abov
 
 ### Fermentation
 
-Fermentation uses microorganisms to transform food in beneficial ways. Lactic acid fermentation produces yogurt, cheese, sauerkraut, kimchi, and sourdough. Alcoholic fermentation produces beer, wine, and spirits. Acetic acid fermentation produces vinegar.
+Fermentation uses microorganisms to transform food in beneficial ways. Lactic acid fermentation produces yogurt, cheese, sauerkraut, kimchi, and [sourdough](/sourdough). Alcoholic fermentation produces beer, wine, and spirits. Acetic acid fermentation produces vinegar.
 
 Beyond preservation, fermentation creates entirely new flavors and textures. Cheese is remarkably different from milk. Soy sauce is nothing like soybeans. The metabolic products of fermentation — acids, alcohols, esters, amino acids — create complexity that other processing methods can't replicate.
 
@@ -153,7 +153,7 @@ Food science doesn't exist in an academic vacuum. It's deeply embedded in a glob
 
 ### Product Development
 
-Creating a new food product involves chemistry, engineering, sensory science, marketing, and regulatory compliance. A typical development cycle might take 12-24 months from concept to shelf.
+Creating a new food product involves chemistry, engineering, sensory science, [marketing](/marketing), and regulatory compliance. A typical development cycle might take 12-24 months from concept to shelf.
 
 Consider developing a new protein bar. The food scientist must select proteins that provide the desired amino acid profile and texture (whey protein isolate makes a different bar than pea protein). They must choose binders (syrups, nut butters) that hold everything together without making it too sticky. Flavoring must taste good immediately and continue tasting good over a 12-month shelf life — some flavors fade, others intensify during storage. The water activity must be low enough to prevent mold growth but high enough to keep the bar chewy rather than brick-like.
 

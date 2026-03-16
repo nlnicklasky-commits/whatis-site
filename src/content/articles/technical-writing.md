@@ -36,7 +36,7 @@ faq:
 ---
 
 # What Is Technical Writing?
-Technical writing is the practice of creating clear, accurate, and well-organized documents that help specific audiences understand or use complex products, processes, or concepts. It translates specialized knowledge into language that the intended reader can actually act on — whether that's a software developer reading API documentation, a nurse operating medical equipment, or a homeowner assembling a bookshelf.
+Technical [writing](/writing) is the practice of creating clear, accurate, and well-organized documents that help specific audiences understand or use complex products, processes, or concepts. It translates specialized knowledge into language that the intended reader can actually act on — whether that's a software developer reading API documentation, a nurse operating medical equipment, or a homeowner assembling a bookshelf.
 
 The field is bigger than most people realize. Technical writers produce everything from user manuals and help systems to regulatory submissions, safety procedures, training materials, and internal process documentation. If you've ever successfully assembled furniture thanks to clear instructions, or figured out a software feature from a help article, you've benefited from good technical writing. And if you've thrown instructions across the room in frustration — well, that's what bad technical writing looks like.
 
@@ -59,7 +59,7 @@ Not every piece of writing about a technical topic counts as technical writing. 
 The most visible category. This includes:
 
 - **User manuals** — guides for operating products, from consumer [electronics](/electronics) to industrial machinery
-- **Quick start guides** — condensed instructions for getting up and running fast
+- **Quick start guides** — condensed instructions for getting up and [running](/running) fast
 - **Online help systems** — searchable, context-sensitive help built into software
 - **FAQs and knowledge bases** — organized answers to common questions
 - **Release notes** — what changed in the latest version of a product
@@ -91,7 +91,7 @@ Some of the most demanding technical writing involves:
 - **FDA submissions** — pharmaceutical and medical device companies submit thousands of pages of documentation for regulatory approval
 - **Safety data sheets (SDS)** — required for hazardous chemicals, following GHS (Globally Harmonized System) format
 - **Environmental impact assessments** — required for major [construction](/construction) and industrial projects
-- **Aviation and defense documentation** — following strict standards like S1000D and ATA iSpec 2200
+- **[Aviation](/aviation) and defense documentation** — following strict standards like S1000D and ATA iSpec 2200
 
 These documents often follow rigid formatting requirements set by regulatory bodies. Getting them wrong can delay product launches by months or years and cost millions of dollars.
 
@@ -186,11 +186,11 @@ Documentation isn't done when it's published. Products change. Features are adde
 This is why modern documentation often uses:
 - **Docs-as-code** — documentation stored in Git, reviewed via pull requests, and published through CI/CD pipelines, just like software
 - **Single-sourcing** — writing content once and reusing it across multiple outputs (web, PDF, in-app help)
-- **Content [management](/management) systems** — tools like MadCap Flare, Paligo, or custom systems that manage versioning, [translation](/translation), and multi-channel publishing
+- **Content [management](/management) systems** — tools like MadCap Flare, Paligo, or custom systems that manage versioning, [translation](/translation), and multi-channel [publishing](/publishing)
 
 ## Technical Writing and Software
 
-The software industry is the largest employer of technical writers today. The Bureau of Labor Statistics projects 7% growth in technical writing jobs through 2032, with much of that growth in software and information technology.
+The software industry is the largest employer of technical writers today. The Bureau of Labor [Statistics](/statistics) projects 7% growth in technical writing jobs through 2032, with much of that growth in software and information technology.
 
 Software documentation has its own specific challenges:
 
@@ -228,7 +228,7 @@ Technical writing is one of those careers that people fall into — few plan for
 - **Support specialists** who document solutions so they stop answering the same questions
 - **Career changers** who combine domain expertise with writing ability
 
-Google offers free technical writing courses at developers.google.com/tech-writing. The Society for Technical Communication (STC) provides certifications and networking. Building a portfolio — even by documenting open-source projects or writing tutorials — is the most effective way to break in.
+Google offers free technical writing courses at developers.google.com/tech-writing. The Society for Technical Communication (STC) provides certifications and [networking](/networking). Building a portfolio — even by documenting open-source projects or writing tutorials — is the most effective way to break in.
 
 The job market is healthy. The median salary is around $80,000, with experienced writers in tech earning well over $100,000. Remote work is common since documentation doesn't require physical proximity to a product or team.
 

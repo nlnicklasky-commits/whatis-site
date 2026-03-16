@@ -63,7 +63,7 @@ Plants have evolved remarkable mechanisms to promote cross-pollination and preve
 
 **Dichogamy** — male and female parts mature at different times. In protandry, pollen is shed before the stigma is receptive. In protogyny, the stigma is receptive before pollen matures. Either way, self-pollination is difficult because the male and female stages don't overlap.
 
-**Separate male and female flowers** — some plants have flowers that are exclusively male (pollen-producing) or female (ovule-bearing), either on the same plant (monoecious — corn, squash) or on separate plants (dioecious — holly, kiwi, cannabis).
+**Separate male and female flowers** — some plants have flowers that are exclusively male (pollen-producing) or female (ovule-bearing), either on the same plant (monoecious — corn, [squash](/squash)) or on separate plants (dioecious — holly, kiwi, cannabis).
 
 **Herkogamy** — physical separation of anthers and stigma within the same flower. In many orchids, the pollen is packaged in structures (pollinia) that physically cannot reach the plant's own stigma without help from a specific pollinator.
 
@@ -133,9 +133,9 @@ The causes are multiple and interacting:
 
 **Parasites and diseases** — the Varroa destructor mite, first detected in European honeybee colonies in the 1960s, has devastated managed honeybee populations worldwide. Varroa feeds on bees' fat bodies and transmits viruses. Without treatment, most colonies die within 1-3 years.
 
-**Climate change** is creating mismatches between flower timing and pollinator emergence. If wildflowers bloom earlier due to warming but bees emerge on their historical schedule, they miss each other. These phenological mismatches are already documented in multiple systems.
+**[Climate change](/climate-change)** is creating mismatches between flower timing and pollinator emergence. If wildflowers bloom earlier due to warming but bees emerge on their historical schedule, they miss each other. These phenological mismatches are already documented in multiple systems.
 
-**Poor nutrition** — monoculture agriculture provides brief, intense flowering periods followed by "food deserts" where pollinators find nothing. A bee needs diverse pollen sources across the entire growing season, not just one massive canola bloom in May.
+**Poor [nutrition](/nutrition)** — monoculture agriculture provides brief, intense flowering periods followed by "food deserts" where pollinators find nothing. A bee needs diverse pollen sources across the entire growing season, not just one massive canola bloom in May.
 
 ### Colony Collapse Disorder
 
@@ -147,7 +147,7 @@ Managed honeybees aren't going extinct — beekeepers can replace losses by spli
 
 The response to pollinator declines involves multiple strategies:
 
-**Pollinator-friendly farming** — planting wildflower strips alongside crops, reducing pesticide use, maintaining hedgerows, and practicing integrated pest [management](/management). Research consistently shows that farms with more natural habitat nearby have better pollination and equivalent or better yields.
+**Pollinator-friendly [farming](/farming)** — planting wildflower strips alongside crops, reducing pesticide use, maintaining hedgerows, and practicing integrated pest [management](/management). Research consistently shows that farms with more natural habitat nearby have better pollination and equivalent or better yields.
 
 **Urban pollination corridors** — cities are creating networks of parks, gardens, green roofs, and planted medians that provide food and nesting sites for urban pollinators. Urban areas can actually support surprising pollinator diversity because they're relatively pesticide-free.
 
@@ -165,7 +165,7 @@ California's Central Valley produces about 80% of the world's almonds — a $6 b
 
 This annual migration is the largest managed pollination event on Earth. Beekeepers from as far away as Florida and Maine load their hives onto flatbed trucks and drive them west. Pollination fees have risen from about $50 per colony in the 1990s to $200+ per colony today, reflecting both increased demand and decreased bee health.
 
-The dependence of a $6 billion industry on the health of a single insect species, transported thousands of miles in trucks, should give everyone pause. It's a remarkable achievement of agricultural logistics and a vivid [illustration](/illustration) of how fragile the system is.
+The dependence of a $6 billion industry on the health of a single insect species, transported thousands of miles in trucks, should give everyone pause. It's a remarkable achievement of agricultural [logistics](/logistics) and a vivid [illustration](/illustration) of how fragile the system is.
 
 ### Pollination Deficits
 

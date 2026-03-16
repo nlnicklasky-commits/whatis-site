@@ -35,11 +35,11 @@ faq:
 
 # What Is Software Testing?
 
-Software testing is the process of running a program or system with the intent of finding errors, verifying that it meets its specified requirements, and confirming that it behaves correctly under expected and unexpected conditions. Put more bluntly: testing is the organized attempt to break your own software before your users do.
+Software testing is the process of [running](/running) a program or system with the intent of finding errors, verifying that it meets its specified requirements, and confirming that it behaves correctly under expected and unexpected conditions. Put more bluntly: testing is the organized attempt to break your own software before your users do.
 
 ## Why Testing Exists (and Why It's Harder Than It Sounds)
 
-Every programmer has had the experience of writing code that "obviously works" — and then watching it fail spectacularly in production. The gap between what developers think their code does and what it actually does is the entire reason testing exists.
+Every programmer has had the experience of [writing](/writing) code that "obviously works" — and then watching it fail spectacularly in production. The gap between what developers think their code does and what it actually does is the entire reason testing exists.
 
 The numbers are sobering. A 2002 NIST study estimated that software bugs cost the U.S. economy approximately $59.5 billion annually (adjusted for inflation, that's well over $100 billion today). The Therac-25 radiation therapy machine killed patients in the 1980s due to software bugs. The 1996 Ariane 5 rocket exploded 37 seconds after launch because of an integer overflow error. Knight Capital lost $440 million in 45 minutes in 2012 due to a deployment error that could have been caught by testing.
 
@@ -53,7 +53,7 @@ Mike Cohn introduced the testing pyramid concept, and it's become the standard m
 
 Unit tests verify that individual functions, methods, or classes work correctly in isolation. They're small, fast, and numerous. A well-tested application might have thousands of unit tests that run in seconds.
 
-For example, if you have a function that calculates sales tax, a unit test would verify that passing in $100 with a 7% rate returns $7.00. Another test would check that it handles zero correctly. Another would check negative numbers. Another would check very large numbers. Each test covers one specific behavior.
+For example, if you have a function that calculates [sales](/sales) tax, a unit test would verify that passing in $100 with a 7% rate returns $7.00. Another test would check that it handles zero correctly. Another would check negative numbers. Another would check very large numbers. Each test covers one specific behavior.
 
 Unit tests are written by developers, usually using frameworks like JUnit (Java), pytest ([Python](/python-programming)), Jest (JavaScript), or xUnit (.NET). The best unit tests are:
 
@@ -152,7 +152,7 @@ Common coverage metrics:
 - **Branch coverage** — percentage of decision branches (if/else, switch) taken. More meaningful than line coverage.
 - **Path coverage** — percentage of execution paths tested. Theoretically ideal but practically impossible for complex programs — the number of paths grows exponentially with the number of decisions.
 
-A common question: "What code coverage percentage should we target?" The honest answer: it depends. 100% coverage doesn't mean bug-free — you can execute every line without testing meaningful scenarios. 80% is a commonly cited target, but the number matters less than what you're covering. Critical business logic at 100% with edge cases tested is better than 95% overall coverage that skips error handling.
+A common question: "What code coverage percentage should we target?" The honest answer: it depends. 100% coverage doesn't mean bug-free — you can execute every line without testing meaningful scenarios. 80% is a commonly cited target, but the number matters less than what you're covering. Critical business [logic](/logic) at 100% with edge cases tested is better than 95% overall coverage that skips error handling.
 
 ## Test-Driven Development (TDD)
 

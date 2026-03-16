@@ -35,7 +35,7 @@ faq:
 
 # What Is Data Mining?
 
-Data mining is the computational process of discovering previously unknown patterns, correlations, and anomalies in large datasets using a combination of statistics, [machine learning](/machine-learning), and database techniques. It transforms raw data into knowledge that organizations can act on—finding the signal buried in terabytes of noise.
+Data mining is the computational process of discovering previously unknown patterns, correlations, and anomalies in large datasets using a combination of [statistics](/statistics), [machine learning](/machine-learning), and database techniques. It transforms raw data into knowledge that organizations can act on—finding the signal buried in terabytes of noise.
 
 ## The Gold Rush Metaphor (And Why It Actually Works)
 
@@ -66,7 +66,7 @@ A 2024 survey by Anaconda found that data scientists spend an average of 44% of 
 Once clean, data often needs to be transformed into formats suitable for mining [algorithms](/algorithms). This includes:
 
 - **Normalization**: Scaling numeric values to a common range so one feature doesn't dominate others
-- **Aggregation**: Combining data points (daily sales into weekly totals, for example)
+- **Aggregation**: Combining data points (daily [sales](/sales) into weekly totals, for example)
 - **Feature [construction](/construction)**: Creating new variables from existing ones (combining "purchase date" and "birth date" to get "customer age at purchase")
 - **Dimensionality reduction**: Reducing the number of variables while preserving important information, using techniques like Principal Component Analysis (PCA)
 
@@ -118,7 +118,7 @@ The key metrics are:
 - **Confidence**: How often the rule is true (80% of diaper purchases include beer)
 - **Lift**: How much more likely items are to be purchased together than independently (3.0 means they're three times more likely to appear together than chance alone would predict)
 
-The **Apriori algorithm** is the foundational method for finding association rules. It works by first finding frequent individual items, then checking which pairs of frequent items appear together, then triples, and so on—efficiently pruning combinations that can't possibly be frequent.
+The **Apriori algorithm** is the foundational method for finding association rules. It works by first finding frequent individual items, then checking which pairs of frequent items appear together, then triples, and so on—efficiently [pruning](/pruning) combinations that can't possibly be frequent.
 
 Amazon's recommendation engine ("customers who bought this also bought...") is probably the most visible application of association rule mining in daily life.
 
@@ -184,7 +184,7 @@ Astronomers mine telescope data to discover new celestial objects. Biologists mi
 
 **R** has excellent mining packages, particularly for statistical approaches. The caret package provides a unified interface to hundreds of [algorithms](/algorithms).
 
-**Weka** is a Java-based tool with a graphical interface, popular in academic settings for teaching data mining concepts.
+**Weka** is a Java-based tool with a graphical interface, popular in academic settings for [teaching](/teaching) data mining concepts.
 
 **Apache Spark MLlib** handles data mining at massive scale, processing datasets too large for a single machine using distributed computing.
 
@@ -212,11 +212,11 @@ Addressing bias requires intentional effort: auditing training data, testing mod
 
 ### Transparency and Explainability
 
-When data mining models make decisions affecting people's lives—loan approvals, insurance rates, criminal risk scores—those people deserve some understanding of how the decision was made. But many of the most powerful mining techniques (neural networks, ensemble methods) are essentially black boxes. The push for explainable AI is a direct response to this tension.
+When data mining models make decisions affecting people's lives—loan approvals, [insurance](/insurance) rates, criminal risk scores—those people deserve some understanding of how the decision was made. But many of the most powerful mining techniques (neural networks, ensemble methods) are essentially black boxes. The push for explainable AI is a direct response to this tension.
 
 ### Consent and Purpose Limitation
 
-Just because someone consented to their data being collected for one purpose doesn't mean they consented to having it mined for other purposes. A person who shares their location with a navigation app might not expect that data to be mined for advertising profiles.
+Just because someone consented to their data being collected for one purpose doesn't mean they consented to having it mined for other purposes. A person who shares their location with a [navigation](/navigation) app might not expect that data to be mined for advertising profiles.
 
 ## Common Challenges and Limitations
 
@@ -246,7 +246,7 @@ Several trends are reshaping the field.
 
 **Automated machine learning (AutoML)** automates the selection and tuning of mining algorithms, making sophisticated techniques accessible to non-specialists. Google's AutoML, H2O.ai, and Auto-sklearn are leading examples.
 
-**Privacy-preserving mining** techniques like federated learning, differential privacy, and homomorphic encryption allow mining insights from sensitive data without exposing individual records. This is critical for healthcare, finance, and other privacy-sensitive domains.
+**Privacy-preserving mining** techniques like federated learning, differential privacy, and homomorphic encryption allow mining insights from sensitive data without exposing individual records. This is critical for healthcare, [finance](/finance), and other privacy-sensitive domains.
 
 **Real-time mining** processes streaming data as it arrives rather than analyzing stored historical data. This enables immediate response to detected patterns—catching fraud during the transaction, not after.
 

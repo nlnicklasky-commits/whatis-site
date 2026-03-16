@@ -36,7 +36,7 @@ faq:
 ---
 
 # What Is Veterinary Medicine?
-Veterinary medicine is the branch of medicine that deals with the prevention, diagnosis, and treatment of disease, injury, and other conditions in animals. It covers everything from routine pet checkups to complex surgical procedures on horses, wildlife conservation efforts, food safety inspection, and research that directly benefits human health.
+Veterinary medicine is the branch of medicine that deals with the prevention, diagnosis, and treatment of disease, injury, and other conditions in animals. It covers everything from routine pet checkups to complex surgical procedures on horses, [wildlife conservation](/wildlife-conservation) efforts, food safety inspection, and research that directly benefits human health.
 
 If you think vets just give dogs shots and trim cat nails, you're missing about 90% of what this field actually does.
 
@@ -50,7 +50,7 @@ Most people picture a veterinarian as someone in a small clinic examining a Labr
 
 **Wildlife and zoo medicine** addresses the health of non-domesticated species. Zoo veterinarians might perform surgery on a gorilla, treat a tiger's dental problems, or manage reproduction programs for endangered species. Wildlife vets work in the field, tracking disease in wild populations, rehabilitating injured animals, and studying how environmental changes affect animal health.
 
-**Public health and food safety** is where veterinary medicine directly protects humans. USDA veterinarians inspect meat processing facilities. CDC veterinarians track zoonotic diseases — infections that jump from animals to humans. About 75% of emerging infectious diseases in people originated in animals, including COVID-19, Ebola, HIV, and influenza.
+**[Public health](/public-health) and food safety** is where veterinary medicine directly protects humans. USDA veterinarians inspect meat processing facilities. CDC veterinarians track zoonotic diseases — infections that jump from animals to humans. About 75% of emerging infectious diseases in people originated in animals, including COVID-19, Ebola, HIV, and influenza.
 
 **Research** veterinarians work in universities, pharmaceutical companies, and government laboratories developing new drugs, vaccines, and medical procedures — many of which benefit both animals and humans.
 
@@ -60,7 +60,7 @@ Becoming a veterinarian is no joke. The education requirements are rigorous, exp
 
 ### Undergraduate Preparation
 
-Most vet schools require a bachelor's degree with extensive science coursework — [biology](/biology), [chemistry](/chemistry), organic chemistry, physics, [biochemistry](/biochemistry), and statistics. Many applicants also need hands-on animal experience: veterinary clinic hours, farm work, research lab experience, or wildlife rehabilitation volunteering.
+Most vet schools require a bachelor's degree with extensive science coursework — [biology](/biology), [chemistry](/chemistry), [organic chemistry](/organic-chemistry), physics, [biochemistry](/biochemistry), and statistics. Many applicants also need hands-on animal experience: veterinary clinic hours, farm work, research lab experience, or wildlife rehabilitation volunteering.
 
 The average GPA of accepted applicants hovers around 3.5-3.7. Strong applicants also have research experience and leadership activities. The competition is fierce because there are so few spots available.
 
@@ -73,11 +73,11 @@ The Doctor of Veterinary Medicine (DVM) degree is a four-year professional progr
 - [Pharmacology](/pharmacology)
 - Pathology
 - [Microbiology](/microbiology)
-- Parasitology
+- [Parasitology](/parasitology)
 - Toxicology
 - Nutrition
 
-The last two years shift to clinical rotations — working in the veterinary teaching hospital under supervision. Students rotate through surgery, internal medicine, radiology, anesthesiology, emergency/critical care, dermatology, ophthalmology, and more. They treat real patients (animals) under the guidance of board-certified specialists.
+The last two years shift to clinical rotations — working in the veterinary teaching hospital under supervision. Students rotate through surgery, internal medicine, radiology, [anesthesiology](/anesthesiology), emergency/critical care, dermatology, [ophthalmology](/ophthalmology), and more. They treat real patients (animals) under the guidance of board-certified specialists.
 
 Here's a key difference from human medical education: vet students learn to treat multiple species. A human medical student studies one species. A veterinary student needs working knowledge of dogs, cats, horses, cattle, sheep, goats, pigs, birds, and often exotic animals. The anatomical, physiological, and pharmacological differences across species are enormous.
 
@@ -89,7 +89,7 @@ Board certification requires passing rigorous exams administered by specialty co
 
 ### The Cost Problem
 
-Veterinary education is expensive. The average DVM graduate carries about $180,000 in student debt, while starting salaries in general practice are often $80,000-$100,000. The debt-to-income ratio is significantly worse than for human physicians, which creates real financial stress for early-career veterinarians and contributes to the profession's well-documented mental health challenges.
+Veterinary education is expensive. The average DVM graduate carries about $180,000 in student debt, while starting salaries in general practice are often $80,000-$100,000. The debt-to-income ratio is significantly worse than for human physicians, which creates real financial stress for early-career veterinarians and contributes to the profession's well-documented [mental health](/mental-health) challenges.
 
 ## What Veterinarians Actually Do Day to Day
 
@@ -114,7 +114,7 @@ That last one is significant. Veterinarians perform euthanasia regularly — end
 
 Emergency vets handle the crises — hit-by-car trauma, toxin ingestion, bloat (gastric dilatation-volvulus, which can kill a large dog in hours), seizures, respiratory distress, and complicated births. Emergency hospitals run 24/7, and the work is high-intensity, high-emotion.
 
-The medical complexity rivals human emergency medicine. Emergency vets perform blood transfusions, place chest tubes, manage ventilators, run CPR, and make rapid life-or-death decisions — all while communicating with distraught pet owners.
+The medical complexity rivals human [emergency medicine](/emergency-medicine). Emergency vets perform blood transfusions, place chest tubes, manage ventilators, run CPR, and make rapid life-or-death decisions — all while communicating with distraught pet owners.
 
 ### Large Animal and Farm Practice
 

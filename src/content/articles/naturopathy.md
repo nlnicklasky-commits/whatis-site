@@ -33,7 +33,7 @@ faq:
 
 # What Is Naturopathy?
 
-Naturopathy is a system of medicine that emphasizes the body's ability to heal itself through natural therapies — [herbal medicine](/herbal-medicine), clinical nutrition, lifestyle counseling, physical therapies, and sometimes more controversial treatments like [homeopathy](/homeopathy). It's been around in some form since the late 19th century, and it currently occupies an awkward middle ground between mainstream medicine and the alternative health fringe.
+Naturopathy is a system of medicine that emphasizes the body's ability to heal itself through natural therapies — [herbal medicine](/herbal-medicine), clinical [nutrition](/nutrition), lifestyle counseling, physical therapies, and sometimes more controversial treatments like [homeopathy](/homeopathy). It's been around in some form since the late 19th century, and it currently occupies an awkward middle ground between mainstream medicine and the alternative health fringe.
 
 Here's what makes naturopathy interesting and complicated at the same time: it contains treatments with genuine scientific support sitting right next to treatments with essentially none. Nutritional counseling for [diabetes management](/diabetes-management)? That's evidence-based. Homeopathic dilutions for chronic illness? The scientific consensus says that's water. A naturopathic doctor might offer both in the same visit.
 
@@ -41,9 +41,9 @@ Here's what makes naturopathy interesting and complicated at the same time: it c
 
 Naturopathy traces its modern roots to Benedict Lust, a German immigrant who founded the American School of Naturopathy in New York City in 1901. Lust drew on European "nature cure" traditions — water therapy, fresh air, sunlight, herbal remedies, and vegetarian diets — that had been popular in Germany since the mid-1800s.
 
-The early naturopathic movement grew alongside other alternative health movements of the era: [chiropractic](/chiropractic), osteopathy, homeopathy, and the physical culture movement. All of them pushed back against the conventional medicine of their time, which — to be fair — relied heavily on mercury, bloodletting, and other treatments that often did more harm than good.
+The early naturopathic movement grew alongside other alternative health movements of the era: [chiropractic](/chiropractic), [osteopathy](/osteopathy), homeopathy, and the physical culture movement. All of them pushed back against the conventional medicine of their time, which — to be fair — relied heavily on mercury, bloodletting, and other treatments that often did more harm than good.
 
-Naturopathy thrived in the early 20th century, then nearly disappeared. The Flexner Report of 1910 standardized American medical education around the [scientific method](/scientific-method), and naturopathic schools couldn't compete. By the 1960s, only a handful of naturopathic colleges remained in the United States.
+Naturopathy thrived in the early 20th century, then nearly disappeared. The Flexner Report of 1910 standardized American medical [education](/education) around the [scientific method](/scientific-method), and naturopathic schools couldn't compete. By the 1960s, only a handful of naturopathic colleges remained in the United States.
 
 The revival started in the 1970s, fueled by the counterculture movement's distrust of institutional medicine and growing interest in preventive health. Today, there are seven accredited naturopathic medical schools in North America, and naturopathic doctors are licensed in 29 U.S. states, the District of Columbia, and five Canadian provinces.
 
@@ -51,7 +51,7 @@ The revival started in the 1970s, fueled by the counterculture movement's distru
 
 Naturopathy organizes itself around six core principles. They sound reasonable on paper — the question is how they're applied in practice.
 
-**1. First, do no harm (Primum non nocere).** Use the least invasive and least toxic therapies first. This means trying dietary changes and lifestyle modifications before medications, and medications before surgery. Fair enough — most conventional doctors would agree with that progression for non-emergency conditions.
+**1. First, do no harm (Primum non nocere).** Use the least invasive and least toxic therapies first. This means trying dietary changes and lifestyle modifications before medications, and medications before [surgery](/surgery). Fair enough — most conventional doctors would agree with that progression for non-emergency conditions.
 
 **2. The healing power of nature (Vis medicatrix naturae).** The body has an inherent ability to heal itself; the naturopath's job is to support that process. This is partly true — your immune system does fight infections, broken bones do mend, and cuts do close. But it can be taken too far when it leads to avoiding necessary medical interventions.
 
@@ -59,7 +59,7 @@ Naturopathy organizes itself around six core principles. They sound reasonable o
 
 **4. Doctor as teacher (Docere).** Educate and empower patients to take responsibility for their own health. This is genuinely valuable — studies consistently show that patients who understand their conditions have better outcomes. Naturopaths typically spend 60-90 minutes on an initial consultation, compared to the 15 minutes a typical primary care visit allows.
 
-**5. Treat the whole person.** Consider physical, mental, emotional, social, and spiritual factors in health. The biopsychosocial model of health is well-established in medical literature, so this principle aligns with current understanding — though "spiritual" gets defined very loosely.
+**5. Treat the whole person.** Consider physical, mental, emotional, social, and spiritual factors in health. The biopsychosocial model of health is well-established in medical [literature](/literature), so this principle aligns with current understanding — though "spiritual" gets defined very loosely.
 
 **6. Prevention.** Focus on preventing disease through education, lifestyle modification, and early intervention. No argument here. Prevention is cheaper, less painful, and more effective than treatment for most chronic conditions.
 
@@ -76,7 +76,7 @@ Dietary changes and nutritional supplementation. This is probably the strongest 
 Herbal remedies in various forms — tinctures, capsules, teas, topical preparations. Some of these have good evidence (ginger for nausea, peppermint oil for IBS, saw palmetto for mild BPH symptoms). Others are traditional rather than evidence-based.
 
 ### Lifestyle Counseling
-Exercise recommendations, stress management techniques, sleep hygiene, and behavioral changes. This is straightforward and well-supported. The challenge in conventional medicine is that doctors rarely have time for it — a 15-minute office visit doesn't allow for a detailed conversation about someone's sleep habits and work stress.
+Exercise recommendations, stress [management](/management) techniques, sleep [hygiene](/hygiene), and behavioral changes. This is straightforward and well-supported. The challenge in conventional medicine is that doctors rarely have time for it — a 15-minute office visit doesn't allow for a detailed conversation about someone's sleep habits and work stress.
 
 ### Physical Medicine
 Hydrotherapy (therapeutic use of water — hot and cold applications, baths, wraps), massage, and sometimes manipulation techniques similar to those used in [physical therapy](/physical-therapy) or chiropractic.
@@ -90,7 +90,7 @@ Not all naturopaths emphasize homeopathy equally. Some use it extensively; other
 
 The credentialing field for naturopathy is confusing, and it matters a lot for patient safety.
 
-**Licensed naturopathic doctors (NDs)** in regulated states have completed a four-year doctoral program at an accredited naturopathic medical school. Their education includes two years of basic sciences (anatomy, physiology, [biochemistry](/biochemistry), pathology, [microbiology](/microbiology)) and two years of clinical training. They must pass board examinations administered by the North American Board of Naturopathic Examiners (NABNE).
+**Licensed naturopathic doctors (NDs)** in regulated states have completed a four-year doctoral program at an accredited naturopathic medical school. Their education includes two years of basic sciences ([anatomy](/anatomy), [physiology](/physiology), [biochemistry](/biochemistry), [pathology](/pathology), [microbiology](/microbiology)) and two years of clinical training. They must pass board examinations administered by the North American Board of Naturopathic Examiners (NABNE).
 
 **Traditional naturopaths** may have completed correspondence courses, weekend seminars, or self-study. In states without licensing laws, anyone can call themselves a naturopath. This creates a real risk — an unlicensed practitioner might miss a serious diagnosis, recommend harmful treatments, or advise against necessary medical care.
 

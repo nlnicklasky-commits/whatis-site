@@ -56,7 +56,7 @@ Understanding Stoicism means grasping a few essential ideas. These aren't compli
 
 ### The Dichotomy of Control
 
-This is the most important Stoic insight. Epictetus, one of the greatest Stoic teachers, opened his teaching manual with this principle: some things are within your control, and some things are not.
+This is the most important Stoic insight. Epictetus, one of the greatest Stoic teachers, opened his [teaching](/teaching) manual with this principle: some things are within your control, and some things are not.
 
 What's within your control? Your judgments, desires, actions, intentions, and beliefs. Essentially—your mind. What happens inside you is ultimately your responsibility.
 
@@ -72,7 +72,7 @@ This doesn't mean you ignore external things. You can work toward your goals, ta
 
 The Stoics believed the universe isn't chaotic or meaningless. It's governed by reason and natural law—they called this logos. Everything exists as part of one interconnected whole, operating according to rational principles.
 
-What does "living according to nature" mean? It means understanding your place in this rational whole and acting in harmony with it. As a human, your nature is to be rational. Your special capacity is the ability to reason, to understand universal principles, to see yourself as part of something larger.
+What does "living according to nature" mean? It means understanding your place in this rational whole and [acting](/acting) in [harmony](/harmony) with it. As a human, your nature is to be rational. Your special capacity is the ability to reason, to understand universal principles, to see yourself as part of something larger.
 
 Living according to nature means using reason to understand what's genuinely good—and it's not what most people think. External success, wealth, status, pleasure—these aren't bad, but they're not the true good. The only true good is virtue—excellence of character and wise action.
 

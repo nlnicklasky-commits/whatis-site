@@ -31,7 +31,7 @@ faq:
 
 # What Is Complex Analysis?
 
-Complex analysis is the branch of mathematics that studies functions of complex numbers — numbers that combine a real part with an imaginary part. If that sounds abstract, consider this: complex analysis is one of the most practically useful areas of advanced math, powering everything from aircraft design to [quantum physics](/quantum-physics) to the [signal processing](/signal-processing) in your phone.
+Complex analysis is the branch of [mathematics](/mathematics) that studies functions of complex numbers — numbers that combine a real part with an imaginary part. If that sounds abstract, consider this: complex analysis is one of the most practically useful areas of advanced math, powering everything from aircraft design to [quantum physics](/quantum-physics) to the [signal processing](/signal-processing) in your phone.
 
 ## Complex Numbers in 60 Seconds
 
@@ -43,7 +43,7 @@ Complex numbers live on a plane, not a line. The horizontal axis represents the 
 
 ## What Makes Complex Analysis Special
 
-Complex analysis studies what happens when you take the familiar concepts of [calculus](/calculus) — derivatives, integrals, series — and apply them to functions of complex variables. The results are startlingly different from real analysis.
+Complex analysis studies what happens when you take the familiar concepts of [calculus](/calculus) — derivatives, integrals, series — and apply them to functions of complex variables. The results are startlingly different from [real analysis](/real-analysis).
 
 The most remarkable property is this: if a complex function is differentiable at a point (mathematicians call this "holomorphic" or "analytic"), then it's differentiable everywhere in a neighborhood of that point, and it equals its own Taylor series. In real analysis, a function can be differentiable without being analytic. In complex analysis, differentiability implies analyticity. That's a much stronger condition, and it gives complex functions a rigidity and elegance that real functions lack.
 
@@ -59,13 +59,13 @@ This rigidity produces what mathematicians genuinely consider beautiful theorems
 
 **Liouville's Theorem**: A bounded entire function (holomorphic everywhere and never exceeding some maximum value) must be constant. This seemingly modest statement has enormous consequences — it provides one of the cleanest proofs of the Fundamental Theorem of [Algebra](/algebra) (every polynomial with complex coefficients has at least one complex root).
 
-**The Riemann Mapping Theorem**: Any simply connected region of the complex plane (other than the whole plane) can be conformally mapped onto the unit disk. This means complicated shapes can be mathematically transformed into simple ones while preserving angles — a fact that has direct engineering applications.
+**The Riemann Mapping Theorem**: Any simply connected region of the complex plane (other than the whole plane) can be conformally mapped onto the unit disk. This means complicated shapes can be mathematically transformed into simple ones while preserving angles — a fact that has direct [engineering](/engineering) applications.
 
 ## Conformal Mapping — Where Theory Meets Wings
 
 Here's where complex analysis stops being abstract and starts building airplanes.
 
-A conformal map preserves angles between curves. If two paths cross at 45 degrees in the original domain, they'll cross at 45 degrees in the mapped domain. This property makes conformal maps incredibly useful for solving problems in fluid dynamics and electrostatics.
+A conformal map preserves angles between curves. If two paths cross at 45 degrees in the original domain, they'll cross at 45 degrees in the mapped domain. This property makes conformal maps incredibly useful for solving problems in [fluid dynamics](/fluid-dynamics) and electrostatics.
 
 The Joukowski transform — a specific conformal mapping — takes a circle in the complex plane and transforms it into an airfoil shape. By analyzing airflow around the simple circle (which is mathematically tractable) and then mapping the results onto the airfoil, engineers could calculate lift and drag on wing shapes. This technique, developed in the early 1900s, directly influenced [aircraft](/aerodynamics) design before computational methods became available.
 
@@ -89,6 +89,6 @@ Why does anyone care? Because proving it would nail down our understanding of ho
 
 ## Why "Imaginary" Is a Terrible Name
 
-The word "imaginary" was coined by Rene Descartes in 1637 as a dismissal. He didn't think these numbers were legitimate. He was wrong. Complex numbers are as mathematically valid as any other number system, and their applications in physics and engineering make them extremely "real" in every practical sense.
+The word "imaginary" was coined by Rene Descartes in 1637 as a dismissal. He didn't think these numbers were legitimate. He was wrong. Complex numbers are as mathematically valid as any other number system, and their applications in [physics](/physics) and engineering make them extremely "real" in every practical sense.
 
 The name stuck, unfortunately, and it still misleads people into thinking complex numbers are made up or artificial. They're not. They're a natural extension of the number system that happens to describe the physical world with remarkable accuracy. Imaginary numbers are real. That's the paradox, and it's a fun one.

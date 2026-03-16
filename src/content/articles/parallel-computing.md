@@ -43,13 +43,13 @@ Parallel computing is the practice of breaking a computational problem into smal
 
 For decades, the story of computing was simple: wait a year or two, and your processor gets faster. Gordon Moore observed in 1965 that transistor counts on integrated circuits doubled roughly every two years — an observation that held remarkably well for about four decades. Faster clock speeds meant your programs ran faster without changing a single line of code.
 
-Then, around 2004-2005, something changed. Clock speeds stopped climbing. Intel's Pentium 4 hit 3.8 GHz, and that was essentially the ceiling. The reason? Physics.
+Then, around 2004-2005, something changed. Clock speeds stopped climbing. Intel's Pentium 4 hit 3.8 GHz, and that was essentially the ceiling. The reason? [Physics](/physics).
 
 Pushing clock speeds higher requires more power, and that power converts to heat. The relationship isn't linear — it's roughly cubic. Double the clock speed, and power consumption goes up by roughly a factor of eight. At the speeds processors were reaching, the heat generated per square centimeter approached that of a nuclear reactor's surface. You simply can't cool a chip that hot in a consumer device.
 
 This is called the "power wall," and it fundamentally changed [computer architecture](/computer-architecture). Instead of making individual cores faster, chip manufacturers started putting multiple cores on a single chip. Intel's first mainstream dual-core processor arrived in 2005. By 2026, consumer CPUs commonly have 8-24 cores, and server processors pack 64-128 cores onto a single chip.
 
-But here's the catch: multiple cores only help if your software can actually use them. And that's where parallel computing comes in — not as a nice-to-have optimization, but as an absolute necessity for modern performance.
+But here's the catch: multiple cores only help if your software can actually use them. And that's where parallel computing comes in — not as a nice-to-have [optimization](/optimization), but as an absolute necessity for modern performance.
 
 ## The Fundamental Concepts
 
@@ -57,7 +57,7 @@ But here's the catch: multiple cores only help if your software can actually use
 
 In parallel computing, a "task" is an independent unit of work that can execute alongside other tasks. Tasks are typically implemented as either threads (lightweight, sharing memory within a single process) or processes (heavier, each with its own memory space).
 
-Threads within a single process can communicate by reading and writing shared variables — fast, but dangerous if not coordinated carefully. Processes communicate by passing messages to each other — safer, but slower due to the overhead of packaging, sending, and unpacking data.
+Threads within a single process can communicate by reading and [writing](/writing) shared variables — fast, but dangerous if not coordinated carefully. Processes communicate by passing messages to each other — safer, but slower due to the overhead of packaging, sending, and unpacking data.
 
 This distinction matters enormously in practice. Shared-memory parallelism (threads) works well on a single machine with multiple cores. Message-passing parallelism (processes) scales to distributed systems where computation spans many machines connected by a network.
 
@@ -101,7 +101,7 @@ Graphics Processing Units were originally designed to render images — a task t
 
 A modern GPU contains thousands of small cores (NVIDIA's H100 has over 16,000 CUDA cores). Each individual core is simpler and slower than a CPU core, but when working together on data-parallel problems, GPUs can outperform CPUs by factors of 10-100x.
 
-GPU computing (using frameworks like CUDA and OpenCL) has transformed scientific computing, [deep learning](/deep-learning), cryptocurrency mining, and any field with problems that map well to data parallelism. The entire modern AI revolution — from training large language models to running image recognition — depends critically on GPU parallel computing.
+GPU computing (using frameworks like CUDA and OpenCL) has transformed scientific computing, [deep learning](/deep-learning), [cryptocurrency](/cryptocurrency) mining, and any field with problems that map well to data parallelism. The entire modern AI revolution — from training large language models to [running](/running) image recognition — depends critically on GPU parallel computing.
 
 ### Clusters and Supercomputers
 
@@ -141,7 +141,7 @@ Many large-scale parallel programs use both: MPI for communication between nodes
 
 Programming GPUs requires thinking differently. Instead of a few threads doing complex work, you launch thousands of simple threads that each process a small chunk of data. NVIDIA's CUDA framework provides C/C++ extensions for GPU programming. OpenCL is an open standard that works across GPU vendors.
 
-GPU programming has a steep learning curve. You need to manage data transfers between CPU and GPU memory, organize threads into blocks and grids, and structure your computation to match the GPU's hardware architecture. Get it right, and you see 50x speedups. Get it wrong, and your GPU code runs slower than sequential CPU code.
+GPU programming has a steep learning curve. You need to manage data transfers between CPU and GPU memory, organize threads into blocks and grids, and structure your computation to match the GPU's hardware [architecture](/architecture). Get it right, and you see 50x speedups. Get it wrong, and your GPU code runs slower than sequential CPU code.
 
 Modern frameworks like PyTorch and TensorFlow abstract away much of this complexity for [deep learning](/deep-learning) applications, letting researchers write Python code that automatically parallelizes across GPUs. This accessibility has been a major driver of the AI boom.
 
@@ -203,7 +203,7 @@ Despite decades of research, parallel computing still has fundamental unsolved p
 
 ### The Programming Gap
 
-Writing correct, efficient parallel programs remains significantly harder than writing sequential code. Race conditions, deadlocks, and non-deterministic behavior make parallel programs difficult to test and debug. Tools have improved — sanitizers, model checkers, and formal verification methods help — but the fundamental cognitive difficulty of reasoning about multiple simultaneous execution paths persists.
+Writing correct, efficient parallel programs remains significantly harder than writing sequential code. Race conditions, deadlocks, and non-deterministic behavior make parallel programs difficult to test and debug. Tools have improved — sanitizers, model [checkers](/checkers), and formal verification methods help — but the fundamental cognitive difficulty of reasoning about multiple simultaneous execution paths persists.
 
 ### Communication Overhead
 
@@ -219,7 +219,7 @@ Modern parallel systems increasingly mix different types of processors — CPUs,
 
 ## The Future
 
-Parallel computing is evolving along several fronts. Quantum computing — a fundamentally different form of parallelism where quantum bits can represent multiple states simultaneously — promises exponential speedups for specific problems like cryptography and optimization, though practical quantum computers for general-purpose parallel computing remain years away.
+Parallel computing is evolving along several fronts. Quantum computing — a fundamentally different form of parallelism where quantum bits can represent multiple states simultaneously — promises exponential speedups for specific problems like [cryptography](/cryptography) and optimization, though practical quantum computers for general-purpose parallel computing remain years away.
 
 Neuromorphic computing, inspired by the brain's massively parallel architecture, aims to process information more like biological [neural networks](/neural-networks) — potentially offering dramatic improvements in energy efficiency for AI workloads.
 

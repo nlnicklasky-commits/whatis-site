@@ -34,7 +34,7 @@ faq:
 ---
 
 # What Is Synthetic Biology?
-Synthetic biology is the application of engineering principles to biology — designing, constructing, and testing biological systems and organisms that perform new functions not found in nature, or redesigning existing biological systems to work more efficiently.
+Synthetic biology is the application of [engineering](/engineering) principles to biology — designing, constructing, and testing biological systems and organisms that perform new functions not found in nature, or redesigning existing biological systems to work more efficiently.
 
 Think of it this way: traditional [biology](/biology) studies life as it exists. [Genetic engineering](/biotechnology) modifies life by moving genes around. Synthetic biology goes a step further — it treats biological components like Lego bricks that can be designed, standardized, and assembled into systems that do whatever you want. Read DNA. Write DNA. Debug DNA. It's biology meets [software engineering](/software-engineering), and it's changing what's possible.
 
@@ -56,7 +56,7 @@ The term "synthetic biology" gained traction around 2004, when MIT hosted the fi
 
 Synthetic biology borrows the engineering design cycle. You design a biological system on a computer. You build it by synthesizing DNA and assembling it in cells. You test whether it works as intended. You learn from the results and iterate. Repeat until it works.
 
-This sounds straightforward, but biology is messy. Engineered systems in electronics and mechanics behave predictably because the components are well-characterized and interactions are understood. Biological components are far less predictable. A gene that works perfectly in one organism might fail completely in another. Proteins interact in ways that are difficult to anticipate. Evolution constantly introduces mutations that can break engineered functions.
+This sounds straightforward, but biology is messy. Engineered systems in [electronics](/electronics) and mechanics behave predictably because the components are well-characterized and interactions are understood. Biological components are far less predictable. A gene that works perfectly in one organism might fail completely in another. Proteins interact in ways that are difficult to anticipate. Evolution constantly introduces mutations that can break engineered functions.
 
 Despite these challenges, the design-build-test-learn approach has dramatically accelerated biological engineering. What used to take years of PhD work can now sometimes be accomplished in weeks.
 
@@ -70,9 +70,9 @@ In practice, standardization in biology is harder than in electronics. Biologica
 
 ### CRISPR and Gene Editing
 
-CRISPR-Cas9, discovered in 2012 by Jennifer Doudna and Emmanuelle Charpentier (who won the Nobel Prize in Chemistry in 2020), gave synthetic biology a precision tool for editing DNA in living cells. CRISPR acts like molecular scissors — it can cut DNA at a specific location, allowing scientists to delete genes, insert new ones, or modify existing sequences with unprecedented ease.
+CRISPR-Cas9, discovered in 2012 by Jennifer Doudna and Emmanuelle Charpentier (who won the Nobel Prize in [Chemistry](/chemistry) in 2020), gave synthetic biology a precision tool for [editing](/editing) DNA in living cells. CRISPR acts like molecular scissors — it can cut DNA at a specific location, allowing scientists to delete genes, insert new ones, or modify existing sequences with unprecedented ease.
 
-Before CRISPR, editing a genome was expensive, slow, and technically demanding. CRISPR made it fast, cheap, and accessible to virtually any biology lab. It's been described as the word processor of genetics — making edits that were once laborious into routine operations.
+Before CRISPR, editing a genome was expensive, slow, and technically demanding. CRISPR made it fast, cheap, and accessible to virtually any biology lab. It's been described as the word processor of [genetics](/genetics) — making edits that were once laborious into routine operations.
 
 Newer CRISPR variants offer even more precision. Base editors can change individual DNA letters without cutting the double strand. Prime editors can insert, delete, or replace sequences with minimal collateral damage. These tools are making synthetic biology more precise and reliable with each generation.
 
@@ -116,7 +116,7 @@ Living organisms can produce materials with properties that synthetic chemistry 
 
 **Bioplastics** made from engineered microorganisms could replace petroleum-based plastics with biodegradable alternatives. PHA (polyhydroxyalkanoate), produced by engineered bacteria feeding on plant sugars or waste gases, is already used in some packaging and disposable items.
 
-**Living building materials** incorporate engineered bacteria into construction materials. Researchers at the University of Colorado Boulder created "living concrete" — a building material made with photosynthetic cyanobacteria that can actually grow, heal cracks, and sequester carbon dioxide.
+**Living building materials** incorporate engineered bacteria into [construction](/construction) materials. Researchers at the University of Colorado Boulder created "living concrete" — a building material made with photosynthetic cyanobacteria that can actually grow, heal cracks, and sequester carbon dioxide.
 
 ### Energy and Environment
 
@@ -144,7 +144,7 @@ Synthetic biology raises serious questions that the field has, to its credit, en
 The same tools that enable beneficial applications could, in theory, be used to create dangerous pathogens. As DNA synthesis becomes cheaper and easier, concerns about "dual-use" research grow. Several governance measures are in place:
 
 - DNA synthesis companies screen orders against databases of dangerous sequences
-- The U.S. government requires review of research involving potential pandemic pathogens
+- The U.S. [government](/government) requires review of research involving potential pandemic pathogens
 - The iGEM competition includes mandatory safety reviews for all projects
 - International discussions on biosecurity governance are ongoing, though progress is slow
 
@@ -176,7 +176,7 @@ The pace of progress in synthetic biology is accelerating. Several trends are wo
 
 **AI and machine learning** are transforming biological design. [Deep learning](/deep-learning) models can predict protein structures (AlphaFold), design new proteins (ProteinMPNN), and optimize genetic circuits far faster than human intuition. The combination of AI and synthetic biology may be more powerful than either alone.
 
-**Biofoundries** — automated facilities that can design, build, and test thousands of biological constructs simultaneously — are making synthetic biology faster and more systematic. These facilities use robotics, high-throughput screening, and [data analysis](/data-analysis) to parallelize the design-build-test-learn cycle.
+**Biofoundries** — automated facilities that can design, build, and test thousands of biological constructs simultaneously — are making synthetic biology faster and more systematic. These facilities use [robotics](/robotics), high-throughput screening, and [data analysis](/data-analysis) to parallelize the design-build-test-learn cycle.
 
 **Xenobiology** — creating life forms based on alternative biochemistries (different genetic codes, synthetic amino acids, or even different nucleotide base pairs) — pushes toward truly alien biology that has no precedent in natural evolution.
 

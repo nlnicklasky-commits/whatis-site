@@ -34,9 +34,9 @@ faq:
 ---
 
 # What Is Ancient Greek History?
-Ancient Greek history covers roughly 1,500 years of civilization centered around the Aegean Sea, from the collapse of Mycenaean palace cultures around 1200 BCE to the Roman conquest in 146 BCE. This civilization produced democracy, Western [philosophy](/philosophy), dramatic theater, the Olympic Games, and foundational advances in mathematics, science, and art.
+Ancient Greek history covers roughly 1,500 years of civilization centered around the Aegean Sea, from the collapse of Mycenaean palace cultures around 1200 BCE to the Roman conquest in 146 BCE. This civilization produced democracy, Western [philosophy](/philosophy), dramatic theater, the Olympic Games, and foundational advances in [mathematics](/mathematics), science, and art.
 
-You might think of ancient Greece as one unified country. It wasn't. Greece was a patchwork of independent city-states — each with its own government, laws, currency, and military. They fought each other constantly. They also produced an outsized share of the ideas that still shape how you think, govern, and create today.
+You might think of ancient Greece as one unified country. It wasn't. Greece was a patchwork of independent city-states — each with its own [government](/government), laws, currency, and military. They fought each other constantly. They also produced an outsized share of the ideas that still shape how you think, govern, and create today.
 
 ## The Major Periods of Greek History
 
@@ -44,7 +44,7 @@ Greek history doesn't unfold as one smooth timeline. It lurches through distinct
 
 ### The Dark Ages and Archaic Period (1200–480 BCE)
 
-After Mycenaean civilization collapsed — probably from a combination of invasion, earthquake, and economic disruption — Greece entered a period scholars call the "Dark Ages." Writing disappeared. Trade shrank. Populations declined. It sounds grim, and it was.
+After Mycenaean civilization collapsed — probably from a combination of invasion, earthquake, and economic disruption — Greece entered a period scholars call the "Dark Ages." [Writing](/writing) disappeared. Trade shrank. Populations declined. It sounds grim, and it was.
 
 But something interesting happened during this downturn. The Greeks developed the polis, or city-state. By around 800 BCE, communities were organizing themselves into independent political units. This was the seed of everything that followed.
 
@@ -68,7 +68,7 @@ Alexander, king of Macedon, conquered the Persian Empire by age 30. He died at 3
 
 After Alexander's death, his generals carved up his empire into rival kingdoms. Greek culture blended with Egyptian, Persian, and Indian traditions. Alexandria in Egypt became the intellectual capital of the Mediterranean, housing the famous Library.
 
-Science flourished. Euclid systematized geometry. Archimedes calculated pi and invented war machines. Eratosthenes measured the Earth's circumference — and got remarkably close. The Hellenistic period is sometimes overlooked, but it produced some of the most practical advances in Greek [astronomy](/astronomy) and [mathematics](/calculus).
+Science flourished. Euclid systematized [geometry](/geometry). Archimedes calculated pi and invented war machines. Eratosthenes measured the Earth's circumference — and got remarkably close. The Hellenistic period is sometimes overlooked, but it produced some of the most practical advances in Greek [astronomy](/astronomy) and [mathematics](/calculus).
 
 This era ended when Rome gradually absorbed the Greek world, culminating in the destruction of Corinth in 146 BCE.
 
@@ -76,13 +76,13 @@ This era ended when Rome gradually absorbed the Greek world, culminating in the 
 
 Athens deserves its own section because its experiment with democracy was genuinely unprecedented.
 
-Around 508 BCE, a reformer named Cleisthenes reorganized Athenian politics. Instead of power flowing through aristocratic families, he created a system where citizens voted directly on laws and policies. Not representatives — the citizens themselves. Every male citizen over 18 could attend the Assembly, debate, and vote.
+Around 508 BCE, a reformer named Cleisthenes reorganized Athenian [politics](/politics). Instead of power flowing through aristocratic families, he created a system where citizens voted directly on laws and policies. Not representatives — the citizens themselves. Every male citizen over 18 could attend the Assembly, [debate](/debate), and vote.
 
 Here's what most people miss about Athenian democracy: it was radically direct. There was no president, no parliament. Officials were chosen by lottery — the Greeks believed random selection was more democratic than elections, which they associated with [political philosophy](/political-philosophy) favoring the wealthy and well-known.
 
 The obvious caveat? "Citizen" excluded women, enslaved people, and foreigners. Only about 30,000 out of perhaps 300,000 residents of Athens could participate. That's roughly 10%. By modern standards, deeply flawed. By ancient standards, remarkable.
 
-Athenian culture during the 5th century BCE was extraordinary. Drama festivals produced tragedies exploring fate, justice, and human suffering. The Parthenon demonstrated architectural and mathematical precision. Philosophers questioned everything from the nature of reality to the best way to organize society.
+Athenian culture during the 5th century BCE was extraordinary. [Drama](/drama) festivals produced tragedies exploring fate, justice, and human suffering. The Parthenon demonstrated architectural and mathematical precision. Philosophers questioned everything from the nature of reality to the best way to organize society.
 
 ## Sparta: The Military State
 
@@ -94,11 +94,11 @@ The weird part is that Sparta's system worked — for a while. Sparta had the mo
 
 ## Greek Religion and Mythology
 
-Greek religion wasn't a set of abstract beliefs. It was practice — rituals, sacrifices, festivals, and consultation with oracles. The gods lived on Mount Olympus and intervened in human affairs constantly. Zeus ruled the sky. Athena governed wisdom and warfare. Poseidon controlled the seas.
+Greek [religion](/religion) wasn't a set of abstract beliefs. It was practice — rituals, sacrifices, festivals, and consultation with oracles. The gods lived on Mount Olympus and intervened in human affairs constantly. Zeus ruled the sky. Athena governed wisdom and warfare. Poseidon controlled the seas.
 
 The myths weren't just stories. They were explanations for how the world worked, moral lessons, and entertainment all rolled together. The story of Prometheus giving fire to humanity explained technology and its costs. The tale of Odysseus's journey home from Troy explored loyalty, cunning, and the human desire for home.
 
-Every city-state had patron deities. Athens belonged to Athena. Festivals like the Panathenaea and the Dionysia were both religious events and cultural spectacles — the Dionysia is where Greek tragedy and comedy were born.
+Every city-state had patron deities. Athens belonged to Athena. Festivals like the Panathenaea and the Dionysia were both religious events and cultural spectacles — the Dionysia is where Greek tragedy and [comedy](/comedy) were born.
 
 The Oracle at Delphi was consulted by individuals and governments alike before making major decisions. Its priestess, the Pythia, delivered pronouncements that were famously ambiguous — which, honestly, is a pretty smart business model.
 
@@ -108,7 +108,7 @@ The Greeks didn't invent thinking, obviously. But they did something unusual: th
 
 The pre-Socratics (Thales, Anaximander, Heraclitus, Parmenides) asked what the universe was made of and how it worked. Their answers were often wrong, but the method — rational inquiry without appealing to gods — was revolutionary.
 
-Socrates shifted the focus to ethics and human behavior. He wandered Athens asking people uncomfortable questions about justice, virtue, and knowledge. He wrote nothing down. His student Plato wrote dialogues featuring Socrates as the main character and founded the Academy. Plato's student Aristotle then wrote about basically everything — [biology](/biology), [physics](/physics), logic, politics, poetry, ethics.
+Socrates shifted the focus to [ethics](/ethics) and human behavior. He wandered Athens asking people uncomfortable questions about justice, virtue, and knowledge. He wrote nothing down. His student Plato wrote dialogues featuring Socrates as the main character and founded the Academy. Plato's student Aristotle then wrote about basically everything — [biology](/biology), [physics](/physics), [logic](/logic), politics, [poetry](/poetry), ethics.
 
 This intellectual chain — Socrates to Plato to Aristotle — shaped Western thought for over two thousand years. You can draw a direct line from their arguments to modern [psychology](/psychology), science, and political theory.
 
@@ -128,7 +128,7 @@ Warfare was constant. Greek city-states fought each other more often than they c
 
 Here's what makes ancient Greece unusual: its influence is disproportionate to its size and duration. A collection of small city-states on a rocky peninsula produced ideas that billions of people still live by.
 
-Democracy, however imperfect its Greek form, inspired every modern democratic government. The [scientific method](/scientific-method) traces back to Greek rationalism. Western literature begins with Homer. Theater begins with Athenian drama. [Philosophy](/philosophy) as a discipline is a Greek invention. Even the word "history" comes from the Greek *historia* — inquiry.
+Democracy, however imperfect its Greek form, inspired every modern democratic government. The [scientific method](/scientific-method) traces back to Greek rationalism. Western [literature](/literature) begins with Homer. Theater begins with Athenian drama. [Philosophy](/philosophy) as a discipline is a Greek [invention](/invention). Even the word "history" comes from the Greek *historia* — inquiry.
 
 The Romans conquered Greece militarily but were conquered by Greek culture in return. They adopted Greek gods (with new names), Greek [architecture](/archaeology), Greek philosophy, and Greek educational methods. Through Rome, Greek ideas spread across Europe and eventually the world.
 

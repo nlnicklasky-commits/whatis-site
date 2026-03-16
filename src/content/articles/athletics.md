@@ -35,7 +35,7 @@ Athletics — known as [track and field](/track-and-field) in the United States 
 
 ## The Original Sport
 
-Athletics has a stronger claim to being "the original sport" than just about anything else. The ancient Olympic Games, first held in Olympia, Greece, in 776 BCE, consisted of a single event: the stadion, a footrace of about 192 meters. Over the following centuries, longer races, [wrestling](/wrestling), boxing, and the pentathlon (running, jumping, discus, javelin, wrestling) were added.
+Athletics has a stronger claim to being "the original sport" than just about anything else. The ancient Olympic Games, first held in Olympia, Greece, in 776 BCE, consisted of a single event: the stadion, a footrace of about 192 meters. Over the following centuries, longer races, [wrestling](/wrestling), [boxing](/boxing), and the pentathlon (running, jumping, discus, javelin, wrestling) were added.
 
 The modern Olympics, revived by Pierre de Coubertin in 1896, placed athletics at the center of the program — a position it has never lost. Athletics events produce some of the Games' most iconic moments: Jesse Owens in 1936 Berlin, Bob Beamon's impossible long jump in 1968, Usain Bolt's dominance from 2008 to 2016.
 

@@ -99,7 +99,7 @@ The UN's record is genuinely mixed, and honest assessment requires acknowledging
 
 **Devastating failures:** The UN stood by during the Rwandan genocide in 1994, when roughly 800,000 Tutsis were killed in 100 days. Dutch UN peacekeepers in Srebrenica failed to prevent the massacre of over 8,000 Bosnian Muslim men and boys in 1995. The Oil-for-Food Programme in Iraq (1995-2003) was riddled with corruption. Sexual abuse by UN peacekeepers has been documented in multiple missions.
 
-**The gray zone:** The Universal Declaration of Human Rights (1948) set a global standard that governments routinely violate but can no longer ignore. The Paris Agreement on climate change (2015) was negotiated under UN auspices but lacks enforcement mechanisms. The UN [Sustainable Development](/sustainable-development) Goals set ambitious targets that most countries won't meet.
+**The gray zone:** The Universal Declaration of Human Rights (1948) set a global standard that governments routinely violate but can no longer ignore. The Paris Agreement on [climate change](/climate-change) (2015) was negotiated under UN auspices but lacks enforcement mechanisms. The UN [Sustainable Development](/sustainable-development) Goals set ambitious targets that most countries won't meet.
 
 ## Reform: Everybody Agrees It's Needed, Nobody Agrees How
 

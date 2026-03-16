@@ -59,7 +59,7 @@ Fashion makeup artists work with photographers, designers, and magazines to crea
 
 ### Theatrical
 
-Stage makeup must read from a distance — sometimes 50 feet or more from the audience. Colors are bolder, lines are stronger, and the application is less about subtlety and more about clarity. Musical theater, opera, and [dance](/dance) all require specialized makeup skills.
+Stage makeup must read from a distance — sometimes 50 feet or more from the audience. Colors are bolder, lines are stronger, and the application is less about subtlety and more about clarity. Musical theater, [opera](/opera), and [dance](/dance) all require specialized makeup skills.
 
 ## The Core Skills
 
@@ -104,7 +104,7 @@ There's no single route into makeup artistry. Common paths include:
 
 Makeup artistry has changed significantly in recent years. The push for inclusivity has expanded shade ranges — Fenty Beauty's 2017 launch with 40 foundation shades (now 50) exposed how many brands had been neglecting darker skin tones. Most major brands have since expanded their ranges.
 
-Social media has democratized both learning and visibility. Techniques that were once trade secrets — contouring, [baking](/baking), cut creases — are now public knowledge. This hasn't made professional makeup artists obsolete, but it has raised client expectations and changed the competitive environment.
+Social media has democratized both learning and visibility. Techniques that were once [trade](/trade) secrets — contouring, [baking](/baking), cut creases — are now public knowledge. This hasn't made professional makeup artists obsolete, but it has raised client expectations and changed the competitive environment.
 
 Clean and sustainable beauty is growing, with increased demand for products free from certain chemicals and packaged responsibly. Makeup artists are increasingly expected to know about ingredients, allergens, and ethical sourcing.
 

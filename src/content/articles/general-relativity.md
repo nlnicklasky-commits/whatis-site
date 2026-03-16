@@ -37,7 +37,7 @@ faq:
 
 # What Is General Relativity?
 
-General relativity is Albert Einstein's theory of gravitation, published in 1915, which describes gravity not as a force pulling objects together but as the warping of spacetime itself by mass and energy. Objects follow the straightest possible paths through curved spacetime, and what we experience as gravitational attraction is actually the geometry of the universe bending around massive bodies.
+General [relativity](/relativity) is Albert Einstein's theory of gravitation, published in 1915, which describes gravity not as a force pulling objects together but as the warping of spacetime itself by mass and energy. Objects follow the straightest possible paths through curved spacetime, and what we experience as gravitational attraction is actually the [geometry](/geometry) of the universe bending around massive bodies.
 
 ## Why Newton Wasn't Enough
 
@@ -57,7 +57,7 @@ General relativity says: no. Space and time aren't a stage — they're part of t
 
 ### What Does "Curved Spacetime" Actually Mean?
 
-Imagine placing a bowling ball on a stretched rubber sheet. The ball creates a dip. Roll a marble nearby, and it curves toward the bowling ball — not because the bowling ball is "attracting" it, but because the marble is following the curved surface. That's the analogy people usually reach for, and it's decent but imperfect (gravity is creating the dip on the rubber sheet too, which is a bit circular).
+Imagine placing a [bowling](/bowling) ball on a stretched rubber sheet. The ball creates a dip. Roll a marble nearby, and it curves toward the bowling ball — not because the bowling ball is "attracting" it, but because the marble is following the curved surface. That's the analogy people usually reach for, and it's decent but imperfect (gravity is creating the dip on the rubber sheet too, which is a bit circular).
 
 The real picture involves four dimensions — three of space and one of time — curved by the presence of mass-energy. You can't visualize four-dimensional curvature. Nobody can. But the math describes it precisely through what's called the metric tensor, a mathematical object that encodes all the information about how spacetime is shaped at every point.
 
@@ -79,7 +79,7 @@ The equations relate two things: the curvature of spacetime (described by the Ei
 
 **Curvature of spacetime = constant x mass-energy content**
 
-That's it. That's the whole theory, compressed into one relationship. Of course, that "one relationship" is actually ten coupled, nonlinear partial differential equations, which is why solving them for anything beyond the simplest scenarios requires supercomputers or very clever approximations.
+That's it. That's the whole theory, compressed into one relationship. Of course, that "one relationship" is actually ten coupled, nonlinear partial [differential equations](/differential-equations), which is why solving them for anything beyond the simplest scenarios requires supercomputers or very clever approximations.
 
 The cosmological constant — a term Einstein originally added, then called his "biggest blunder," then turned out to be necessary after all — accounts for the accelerating expansion of the universe. Dark energy, whatever it actually is, behaves like a cosmological constant pushing spacetime apart.
 
@@ -99,7 +99,7 @@ General relativity predicts that clocks tick more slowly in stronger gravitation
 
 This effect, called gravitational time dilation, has been measured with atomic clocks. In 2010, researchers at the National Institute of Standards and Technology measured time dilation between two clocks separated by just 33 centimeters of height. The lower clock ran slower by exactly the predicted amount.
 
-GPS satellites orbit about 20,200 kilometers above Earth, where gravity is weaker. Their clocks tick about 45 microseconds faster per day due to gravitational time dilation. Combined with the 7-microsecond slowdown from their orbital speed (a special relativistic effect), the net gain is about 38 microseconds daily. Without corrections based on relativity, GPS would accumulate errors of roughly 10 kilometers per day. Every time you use GPS navigation, you're relying on Einstein being right.
+GPS satellites orbit about 20,200 kilometers above Earth, where gravity is weaker. Their clocks tick about 45 microseconds faster per day due to gravitational time dilation. Combined with the 7-microsecond slowdown from their orbital speed (a special relativistic effect), the net gain is about 38 microseconds daily. Without corrections based on relativity, GPS would accumulate errors of roughly 10 kilometers per day. Every time you use GPS [navigation](/navigation), you're relying on Einstein being right.
 
 ### Gravitational Redshift
 
@@ -115,7 +115,7 @@ General relativity predicts that accelerating masses should create ripples in sp
 
 He was wrong about detection. On September 14, 2015, the LIGO observatories in Louisiana and Washington state simultaneously detected gravitational waves from two black holes merging 1.3 billion light-years away. The signal matched general relativity's predictions with stunning precision. The detected distortion? About one-thousandth the diameter of a proton.
 
-This achievement earned Rainer Weiss, Barry Barish, and Kip Thorne the 2017 Nobel Prize in Physics. Since then, LIGO and its partner observatory Virgo have detected dozens of gravitational wave events from merging black holes and neutron stars. Gravitational wave [astronomy](/astronomy) is now a thriving field, giving us an entirely new way to observe the universe.
+This achievement earned Rainer Weiss, Barry Barish, and Kip Thorne the 2017 Nobel Prize in [Physics](/physics). Since then, LIGO and its partner observatory Virgo have detected dozens of gravitational wave events from merging black holes and neutron stars. Gravitational wave [astronomy](/astronomy) is now a thriving field, giving us an entirely new way to observe the universe.
 
 ## Black Holes: Where Spacetime Goes Extreme
 
@@ -161,9 +161,9 @@ At the center of black holes and at the Big Bang, general relativity predicts in
 
 ### The Quantum Incompatibility
 
-General relativity is a classical theory. It treats spacetime as smooth and continuous. But quantum mechanics says everything comes in discrete packages at small enough scales. These two frameworks are mathematically incompatible.
+General relativity is a classical theory. It treats spacetime as smooth and continuous. But [quantum mechanics](/quantum-mechanics) says everything comes in discrete packages at small enough scales. These two frameworks are mathematically incompatible.
 
-Quantum mechanics works brilliantly for atoms, particles, and forces. General relativity works brilliantly for planets, stars, and the cosmos. But at the Planck scale — about 10^-35 meters — where both quantum effects and gravitational effects are strong, we need a theory of quantum gravity. String theory, loop quantum gravity, and other approaches attempt to bridge this gap, but none has been experimentally confirmed.
+Quantum mechanics works brilliantly for atoms, particles, and forces. General relativity works brilliantly for planets, stars, and the cosmos. But at the Planck scale — about 10^-35 meters — where both quantum effects and gravitational effects are strong, we need a theory of quantum gravity. [String theory](/string-theory), loop quantum gravity, and other approaches attempt to bridge this gap, but none has been experimentally confirmed.
 
 This incompatibility is arguably the biggest unsolved problem in physics. Whoever solves it will probably win a Nobel Prize and fundamentally change our understanding of reality.
 
@@ -175,7 +175,7 @@ You might think this is all abstract — interesting but irrelevant to daily lif
 
 **Particle accelerators** at CERN and elsewhere must account for relativistic effects when particles approach the speed of light. The discoveries at the Large Hadron Collider — including the Higgs boson — rely on relativistic [physics](/computational-physics) calculations.
 
-**Medical imaging** using PET scans involves positron-electron annihilation, a process described by relativistic quantum mechanics that builds on Einstein's mass-energy equivalence.
+**[Medical imaging](/medical-imaging)** using PET scans involves positron-electron annihilation, a process described by relativistic quantum mechanics that builds on Einstein's mass-energy equivalence.
 
 **Satellite communications** and precision timing systems account for gravitational time dilation to maintain synchronization across global networks.
 
@@ -199,7 +199,7 @@ So far, Einstein keeps winning.
 
 General relativity turned 100 in 2015, and it's holding up remarkably well. It predicted gravitational waves decades before we could detect them. It predicted black holes when most physicists thought they were mathematical artifacts. It provides the framework for understanding the expanding universe, the cosmic microwave background, and the large-scale structure of the cosmos.
 
-But it's almost certainly incomplete. The quest for quantum gravity — a theory that unifies general relativity with quantum mechanics — continues to drive theoretical physics. Whether the answer comes from string theory, loop quantum gravity, or something entirely unexpected, the next theory will need to reproduce all of general relativity's successes while going beyond it.
+But it's almost certainly incomplete. The quest for quantum gravity — a theory that unifies general relativity with quantum mechanics — continues to drive [theoretical physics](/theoretical-physics). Whether the answer comes from string theory, loop quantum gravity, or something entirely unexpected, the next theory will need to reproduce all of general relativity's successes while going beyond it.
 
 Einstein's genius wasn't just in the specific theory he created. It was in recognizing that the geometry of spacetime itself is the key to understanding gravity — a conceptual leap that reshaped [physics](/computational-physics), [astronomy](/astronomy), [cosmology](/cosmology), and our entire picture of reality.
 

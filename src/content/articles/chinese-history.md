@@ -42,11 +42,11 @@ The sheer scope is humbling. When Rome was being founded, China already had a th
 
 Chinese civilization emerged along two great rivers: the Yellow River (Huang He) in the north and the Yangtze in the south. By 7000 BCE, settled agricultural communities were cultivating millet in the north and rice in the south — two crops that would sustain Chinese civilization for millennia.
 
-The earliest dynasty confirmed by [archaeology](/archaeology) is the Shang (roughly 1600–1046 BCE). The Shang left behind spectacular bronze vessels, the earliest Chinese writing (oracle bone inscriptions used for divination), and evidence of a complex, stratified society. Their bronze-working was extraordinary — some ceremonial vessels weigh over 800 kilograms.
+The earliest dynasty confirmed by [archaeology](/archaeology) is the Shang (roughly 1600–1046 BCE). The Shang left behind spectacular bronze vessels, the earliest Chinese [writing](/writing) (oracle bone inscriptions used for divination), and evidence of a complex, stratified society. Their bronze-working was extraordinary — some ceremonial vessels weigh over 800 kilograms.
 
 The Zhou dynasty (1046–256 BCE) introduced the concept of the Mandate of Heaven — the idea that heaven grants authority to a just ruler and withdraws it from a corrupt one. This concept justified dynastic change for the next 3,000 years. If your dynasty fell, it wasn't just military defeat — it was heaven's judgment on your moral failure.
 
-The later Zhou period, paradoxically, was both politically chaotic and intellectually brilliant. The Warring States period (475–221 BCE) saw seven major states fighting for supremacy. But this same era produced China's greatest philosophical traditions. [Confucianism](/confucianism) emphasized social harmony, filial piety, and moral governance. [Taoism](/taoism) explored the natural order and spontaneous living. Legalism promoted strict laws and state power. This "Hundred Schools of Thought" period shaped Chinese civilization as profoundly as ancient Greek philosophy shaped the West.
+The later Zhou period, paradoxically, was both politically chaotic and intellectually brilliant. The Warring States period (475–221 BCE) saw seven major states fighting for supremacy. But this same era produced China's greatest philosophical traditions. [Confucianism](/confucianism) emphasized social [harmony](/harmony), filial piety, and moral governance. [Taoism](/taoism) explored the natural order and spontaneous living. Legalism promoted strict laws and state power. This "Hundred Schools of Thought" period shaped Chinese civilization as profoundly as ancient Greek [philosophy](/philosophy) shaped the West.
 
 ## The First Emperor and Imperial Unity
 
@@ -68,7 +68,7 @@ The Han period also saw [Buddhism](/buddhism) enter China from India, beginning 
 
 After centuries of division following the Han collapse, the Sui and Tang dynasties reunified China. The Tang dynasty (618–907 CE) is widely considered China's cultural golden age — and with good reason. Tang China was probably the most cosmopolitan civilization on Earth. Its capital, Chang'an (modern Xi'an), had about a million residents and hosted merchants, monks, diplomats, and artists from across Asia.
 
-Tang poetry reached heights that Chinese [literature](/literature) has never quite matched. Li Bai and Du Fu — the two greatest Tang poets — remain household names in China 1,300 years later. Tang ceramics, painting, music, and dance all flourished in an atmosphere of unusual cultural openness.
+Tang [poetry](/poetry) reached heights that Chinese [literature](/literature) has never quite matched. Li Bai and Du Fu — the two greatest Tang poets — remain household names in China 1,300 years later. Tang [ceramics](/ceramics), [painting](/painting), music, and [dance](/dance) all flourished in an atmosphere of unusual cultural openness.
 
 The Song dynasty (960–1279) was different but equally remarkable. The Song period saw an economic revolution: the world's first paper money, a proto-industrial economy, urbanization rates that wouldn't be matched in Europe for centuries, and technological innovations including movable type printing, improved gunpowder weapons, and the magnetic compass for [navigation](/navigation).
 
@@ -80,7 +80,7 @@ The Mongol conquest of China, completed by Kublai Khan in 1279, was traumatic. T
 
 The Ming dynasty (1368–1644) represented a reassertion of Chinese rule. Early Ming China was extraordinarily powerful. Between 1405 and 1433, Admiral Zheng He commanded fleets of hundreds of ships — some over 400 feet long — on seven voyages reaching Southeast Asia, India, Arabia, and East Africa. These expeditions dwarfed anything Europe could mount at the time.
 
-Then, in one of history's great "what ifs," Ming China essentially stopped. Subsequent emperors ended the voyages, restricted foreign trade, and turned inward. The reasons are debated — court politics, Confucian disdain for commerce, the cost of northern defense — but the consequences were enormous. While China pulled back, European states launched the Age of Exploration and gradually gained the global advantages that would matter so much in the 19th century.
+Then, in one of history's great "what ifs," Ming China essentially stopped. Subsequent emperors ended the voyages, restricted foreign [trade](/trade), and turned inward. The reasons are debated — court [politics](/politics), Confucian disdain for commerce, the cost of northern defense — but the consequences were enormous. While China pulled back, European states launched the Age of Exploration and gradually gained the global advantages that would matter so much in the 19th century.
 
 The Ming also built the Great Wall as we know it today — the stone and brick structure is largely a Ming-era construction, not an ancient one. And they created the Forbidden City in Beijing, a palace complex of nearly 10,000 rooms that housed emperors for five centuries.
 
@@ -90,7 +90,7 @@ The Qing dynasty (1644–1912), founded by the Manchu people from northeast Asia
 
 The 19th century brought catastrophe. The Opium Wars (1839–1842 and 1856–1860) — provoked by British determination to force open Chinese markets to opium — resulted in humiliating military defeats and "unequal treaties" that gave foreign powers trading privileges, territorial concessions, and legal immunities inside China. The Taiping Rebellion (1850–1864), a massive civil war led by a man who believed he was Jesus Christ's brother, killed an estimated 20–30 million people.
 
-Chinese remember the period from roughly 1839 to 1949 as the "Century of Humiliation" — a concept that still shapes Chinese [foreign policy](/foreign-policy) and national psychology today.
+Chinese remember the period from roughly 1839 to 1949 as the "Century of Humiliation" — a concept that still shapes Chinese [foreign policy](/foreign-policy) and national [psychology](/psychology) today.
 
 ## Revolution, War, and Transformation
 

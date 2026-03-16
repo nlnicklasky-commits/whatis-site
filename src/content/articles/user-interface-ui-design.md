@@ -101,7 +101,7 @@ These patterns work because users already understand them. A toggle switch doesn
 
 ## The Career Path
 
-UI design careers typically start with a portfolio demonstrating visual design skills and problem-solving ability. Formal [education](/education) in [graphic design](/graphic-design), interaction design, or HCI (human-computer interaction) helps but isn't required — many successful UI designers are self-taught or career-changers.
+UI design careers typically start with a portfolio demonstrating visual design skills and problem-solving ability. Formal [education](/education) in [graphic design](/graphic-design), interaction design, or HCI ([human-computer interaction](/human-computer-interaction)) helps but isn't required — many successful UI designers are self-taught or career-changers.
 
 Entry-level UI designers earn $50,000-$75,000 in the U.S. Senior designers and design leads at major tech companies can earn $150,000-$250,000 or more. The field has grown consistently as businesses recognize that interface quality directly affects user retention, conversion rates, and customer satisfaction.
 

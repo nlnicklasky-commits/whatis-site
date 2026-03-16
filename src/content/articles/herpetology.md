@@ -35,7 +35,7 @@ faq:
 
 # What Is Herpetology?
 
-Herpetology is the branch of zoology dedicated to the scientific study of reptiles and amphibians—their biology, ecology, behavior, [physiology](/physiology), evolution, taxonomy, and conservation. The name comes from the Greek word *herpeton*, meaning "creeping animal," and the field covers an astonishingly diverse group of organisms that includes roughly 11,700 reptile species and 8,700 amphibian species worldwide.
+Herpetology is the branch of [zoology](/zoology) dedicated to the scientific study of reptiles and amphibians—their biology, [ecology](/ecology), behavior, [physiology](/physiology), evolution, [taxonomy](/taxonomy), and conservation. The name comes from the Greek word *herpeton*, meaning "creeping animal," and the field covers an astonishingly diverse group of organisms that includes roughly 11,700 reptile species and 8,700 amphibian species worldwide.
 
 ## Two Groups, One Field
 
@@ -85,7 +85,7 @@ Amphibians were the first vertebrates to walk on land, around 370 million years 
 
 With over 7,500 species, frogs are the most diverse amphibian group. They occupy habitats from tropical rainforests to Arctic tundra, from desert burrows to mountain streams.
 
-Poison dart frogs of Central and South America are among the most toxic animals on Earth. The golden poison frog (*Phyllobates terribilis*) carries enough batrachotoxin to kill 10 adult humans—and it's only 5 centimeters long. Indigenous Choco people of Colombia use the toxin on blowgun darts for hunting, which is where the common name comes from.
+Poison dart frogs of Central and South America are among the most toxic animals on Earth. The golden poison frog (*Phyllobates terribilis*) carries enough batrachotoxin to kill 10 adult humans—and it's only 5 centimeters long. Indigenous Choco people of Colombia use the toxin on blowgun darts for [hunting](/hunting), which is where the common name comes from.
 
 But frogs' most remarkable adaptation might be their skin. Amphibian skin is permeable—it absorbs water and exchanges gases directly. Many frogs don't drink; they absorb water through their skin. Some species can breathe entirely through their skin, without using lungs at all. This permeability, though, is also their Achilles heel: pollutants, UV radiation, and disease organisms pass through that skin just as easily as water does.
 
@@ -93,7 +93,7 @@ But frogs' most remarkable adaptation might be their skin. Amphibian skin is per
 
 About 800 species of salamanders exist, mostly in temperate regions. The Chinese giant salamander holds the size record at up to 1.8 meters—though wild individuals that large are now almost nonexistent due to harvesting for food.
 
-Salamanders' most famous ability is regeneration. Cut off a salamander's leg, and it grows back—bones, muscles, nerves, blood vessels, and all. This isn't just wound healing; it's complete organ regeneration. The axolotl can regenerate limbs, heart tissue, spinal cord, and even parts of its brain. Understanding how they do this is one of the most active areas of regenerative medicine research, drawing from [developmental biology](/developmental-biology) and genetics.
+Salamanders' most famous ability is regeneration. Cut off a salamander's leg, and it grows back—bones, muscles, nerves, blood vessels, and all. This isn't just wound healing; it's complete organ regeneration. The axolotl can regenerate limbs, heart tissue, spinal cord, and even parts of its brain. Understanding how they do this is one of the most active areas of regenerative medicine research, [drawing](/drawing) from [developmental biology](/developmental-biology) and [genetics](/genetics).
 
 The cellular mechanism involves dedifferentiation—mature cells at the wound site revert to a stem-cell-like state, forming a structure called a blastema, which then regrows the missing tissue. Humans share many of the same genes involved in this process; they're just not activated the same way. Cracking that code could eventually enable human tissue regeneration.
 
@@ -133,7 +133,7 @@ The economic value of these services is difficult to quantify but substantial. O
 
 Studying herps requires specialized techniques because many species are secretive, nocturnal, or well-camouflaged.
 
-**Pitfall traps** are buckets buried flush with the ground along drift fences (low barriers that guide walking animals into the traps). They're effective for ground-dwelling species like small snakes, toads, and lizards.
+**Pitfall traps** are buckets buried flush with the ground along drift fences (low barriers that guide [walking](/walking) animals into the traps). They're effective for ground-dwelling species like small snakes, toads, and lizards.
 
 **Visual encounter surveys** involve systematically walking through a habitat and recording every herp observed. Nighttime surveys using headlamps are often more productive because many species are nocturnal. Night drives—slowly driving roads in warm weather—are particularly effective for snakes, which bask on warm pavement after dark.
 
@@ -147,7 +147,7 @@ Studying herps requires specialized techniques because many species are secretiv
 
 Environmental DNA (eDNA) is transforming herpetological surveys. Animals shed DNA constantly—in skin cells, mucus, feces, and reproductive products. This DNA persists in water and soil for days to weeks. By collecting water samples and analyzing the DNA present, researchers can detect species without ever seeing them.
 
-eDNA is particularly valuable for rare, cryptic, or aquatic species. Finding an endangered salamander in a large stream system might take weeks of traditional surveying. An eDNA water sample can confirm the species' presence in hours—at a fraction of the cost.
+eDNA is particularly valuable for rare, cryptic, or aquatic species. Finding an endangered salamander in a large stream system might take weeks of traditional [surveying](/surveying). An eDNA water sample can confirm the species' presence in hours—at a fraction of the cost.
 
 ## Conservation Herpetology
 
@@ -173,4 +173,4 @@ This cultural baggage creates real conservation challenges. Many harmless snakes
 
 Herpetology studies two of the most ancient, diverse, and—in the case of amphibians—threatened vertebrate groups on Earth. The roughly 20,400 known species of reptiles and amphibians occupy virtually every terrestrial and freshwater habitat, provide critical ecosystem services, and offer biomedical resources ranging from venom-derived drugs to regeneration research.
 
-The field sits at a crossroads. Amphibians face an extinction crisis driven by disease, habitat loss, and climate change. Reptile populations are declining less dramatically but still significantly. Understanding these animals—their biology, their ecological roles, their vulnerabilities—has never been more urgent. Herpetology provides that understanding and, increasingly, the conservation tools needed to prevent losing species that took hundreds of millions of years to evolve.
+The field sits at a crossroads. Amphibians face an extinction crisis driven by disease, habitat loss, and [climate change](/climate-change). Reptile populations are declining less dramatically but still significantly. Understanding these animals—their biology, their ecological roles, their vulnerabilities—has never been more urgent. Herpetology provides that understanding and, increasingly, the conservation tools needed to prevent losing species that took hundreds of millions of years to evolve.

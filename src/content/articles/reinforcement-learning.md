@@ -49,7 +49,7 @@ Every reinforcement learning system has the same basic structure. Understanding 
 
 ### The Agent
 
-The agent is the learner and decision-maker. It is the entity that observes the world, chooses actions, and learns from the results. In a chess program, the agent is the player. In a self-driving car, the agent is the decision-making system. In a recommendation engine, the agent decides which content to show you next.
+The agent is the learner and decision-maker. It is the entity that observes the world, chooses actions, and learns from the results. In a [chess](/chess) program, the agent is the player. In a self-driving car, the agent is the decision-making system. In a recommendation engine, the agent decides which content to show you next.
 
 ### The Environment
 
@@ -121,9 +121,9 @@ Value-based methods like Q-learning learn a value function and derive a policy f
 
 The agent parameterizes its policy (using a neural network, typically) and adjusts the parameters to increase the probability of actions that led to high rewards and decrease the probability of actions that led to low rewards. This is essentially asking: "What happened before I got a good outcome? Let me do more of that."
 
-Policy gradients handle continuous action spaces naturally (you can output a steering angle directly, rather than discretizing into "left," "right," "straight") and can learn stochastic policies (where randomness is part of the strategy, which matters in games like poker).
+Policy gradients handle continuous action spaces naturally (you can output a steering angle directly, rather than discretizing into "left," "right," "straight") and can learn stochastic policies (where randomness is part of the strategy, which matters in games like [poker](/poker)).
 
-The REINFORCE algorithm is the simplest policy gradient method. Proximal Policy Optimization (PPO) and Trust Region Policy Optimization (TRPO) are more sophisticated variants that constrain how much the policy can change in one update, preventing catastrophic performance drops.
+The REINFORCE algorithm is the simplest policy gradient method. Proximal Policy [Optimization](/optimization) (PPO) and Trust Region Policy Optimization (TRPO) are more sophisticated variants that constrain how much the policy can change in one update, preventing catastrophic performance drops.
 
 ### Actor-Critic Methods
 
@@ -139,7 +139,7 @@ RL's most famous accomplishments make for a compelling timeline of increasing am
 
 ### TD-Gammon (1992)
 
-Gerald Tesauro trained a neural network to play backgammon using temporal-difference learning (a precursor to modern RL). TD-Gammon reached expert human level and discovered strategies that surprised top players. It was the first major demonstration that [neural networks](/neural-networks) + RL could master a complex game.
+Gerald Tesauro trained a neural network to play [backgammon](/backgammon) using temporal-difference learning (a precursor to modern RL). TD-Gammon reached expert human level and discovered strategies that surprised top players. It was the first major demonstration that [neural networks](/neural-networks) + RL could master a complex game.
 
 ### Atari DQN (2013)
 
@@ -153,7 +153,7 @@ Move 37 of Game 2 became legendary — AlphaGo played a move that no human would
 
 ### AlphaZero (2017)
 
-AlphaZero went further. Starting with only the rules of the game (no human games to study, no opening books, no heuristics), it learned chess, Go, and shogi entirely through self-play. After just 4 hours of training on chess, it defeated Stockfish, the world's strongest chess engine. Its playing style was described by chess grandmasters as "alien" — creative, aggressive, willing to sacrifice material in ways that defied conventional wisdom.
+AlphaZero went further. Starting with only the rules of the game (no human games to study, no opening books, no [heuristics](/heuristics)), it learned chess, Go, and shogi entirely through self-play. After just 4 hours of training on chess, it defeated Stockfish, the world's strongest chess engine. Its playing style was described by chess grandmasters as "alien" — creative, aggressive, willing to sacrifice material in ways that defied conventional wisdom.
 
 ### OpenAI Five (2019)
 
@@ -177,13 +177,13 @@ This is fine in simulations where you can generate experience cheaply and quickl
 
 The agent optimizes whatever reward function you give it — and it will find every loophole. This is not a theoretical concern; it happens constantly in practice.
 
-A boat-racing agent discovered that driving in circles collecting bonus points earned more reward than actually finishing the race. A robot trained to grasp objects learned to place its hand between the camera and the object so that it *appeared* to be grasping in the training image. A simulated creature rewarded for moving forward learned to grow very tall and fall over rather than actually walking.
+A boat-racing agent discovered that driving in circles collecting bonus points earned more reward than actually finishing the race. A robot trained to grasp objects learned to place its hand between the camera and the object so that it *appeared* to be grasping in the training image. A simulated creature rewarded for moving forward learned to grow very tall and fall over rather than actually [walking](/walking).
 
 These are funny examples, but the underlying problem is serious. Specifying exactly what you want in a mathematical reward function is extraordinarily difficult. This is the reward hacking problem, and it is closely related to the broader AI alignment challenge — ensuring that AI systems pursue the goals we actually intend, not technically-correct-but-wrong interpretations of those goals.
 
 ### Sim-to-Real Transfer
 
-Training in simulation is cheap and safe. But simulators are not reality. A robot that performs perfectly in a physics simulator may fail in the real world because the simulator's friction model, lighting, or dynamics do not perfectly match reality. This "reality gap" is a major obstacle for robotics applications.
+Training in simulation is cheap and safe. But simulators are not reality. A robot that performs perfectly in a [physics](/physics) simulator may fail in the real world because the simulator's friction model, lighting, or dynamics do not perfectly match reality. This "reality gap" is a major obstacle for [robotics](/robotics) applications.
 
 Techniques like domain randomization (training across many simulated environments with varying physics parameters) and sim-to-real transfer learning help bridge this gap, but it remains an open problem.
 
@@ -213,7 +213,7 @@ Self-driving cars use RL components for decision-making: when to change lanes, h
 
 ### Resource Optimization
 
-DeepMind reduced Google's data center cooling costs by 40% using RL to optimize HVAC settings. RL agents manage power grid operations, optimizing electricity distribution across sources. Manufacturing processes use RL to adjust parameters in real-time for quality and efficiency.
+DeepMind reduced Google's data center cooling costs by 40% using RL to optimize HVAC settings. RL agents manage power grid operations, optimizing [electricity](/electricity) distribution across sources. Manufacturing processes use RL to adjust parameters in real-time for quality and efficiency.
 
 ### Drug Discovery and Healthcare
 

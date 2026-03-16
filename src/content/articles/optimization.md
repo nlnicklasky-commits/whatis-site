@@ -53,7 +53,7 @@ Simple optimization problems — finding the minimum of a smooth function with t
 
 **Combinatorial explosion.** A delivery company with 20 stops has 20! (about 2.4 quintillion) possible route orderings. Checking every possibility isn't feasible even for the fastest computers. The Traveling Salesman Problem — finding the shortest route visiting each city exactly once — is one of the most famous unsolved problems in [computer science](/computer-science). Nobody knows if an efficient exact solution exists.
 
-**Multiple objectives.** You want to minimize cost AND maximize quality AND reduce environmental impact. These objectives often conflict. Improving quality usually costs more. Reducing emissions might slow production. Multi-objective optimization finds the set of trade-off solutions (called the Pareto frontier) where you can't improve one objective without worsening another.
+**Multiple objectives.** You want to minimize cost AND maximize quality AND reduce environmental impact. These objectives often conflict. Improving quality usually costs more. Reducing emissions might slow production. Multi-objective optimization finds the set of [trade](/trade)-off solutions (called the Pareto frontier) where you can't improve one objective without worsening another.
 
 **Uncertainty.** Real decisions involve unknowns. Customer demand fluctuates. Weather changes. Equipment breaks. Stochastic optimization accounts for randomness, finding solutions that perform well across a range of possible scenarios rather than perfectly in one.
 
@@ -89,4 +89,4 @@ Simple optimization problems — finding the minimum of a smooth function with t
 
 You don't need to be a mathematician to think in optimization terms. Any time you're making a decision — choosing between options, allocating limited resources, trying to improve a process — you're solving an optimization problem, even if you're doing it intuitively.
 
-The formal discipline gives you tools to handle problems too complex for intuition. But the mindset is what matters most: define what you're trying to achieve, identify what you can control, understand your constraints, and search systematically for the best answer. That's optimization, whether you're running a linear program or just figuring out the best way to pack your car for a road trip.
+The formal discipline gives you tools to handle problems too complex for intuition. But the mindset is what matters most: define what you're trying to achieve, identify what you can control, understand your constraints, and search systematically for the best answer. That's optimization, whether you're [running](/running) a linear program or just figuring out the best way to pack your car for a road trip.

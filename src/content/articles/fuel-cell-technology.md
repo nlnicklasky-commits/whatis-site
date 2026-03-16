@@ -39,7 +39,7 @@ A fuel cell is an electrochemical device that converts chemical energy directly 
 
 ## How a Fuel Cell Actually Works
 
-The basic principle is elegant, almost deceptively simple. And it starts with something you probably learned in high school chemistry — just running it backward.
+The basic principle is elegant, almost deceptively simple. And it starts with something you probably learned in high school chemistry — just [running](/running) it backward.
 
 Electrolysis uses electricity to split water into hydrogen and oxygen. A fuel cell reverses that process: combine hydrogen and oxygen, and you get water plus electricity. No combustion. No moving parts (in the cell itself). No emissions beyond pure water vapor.
 
@@ -75,7 +75,7 @@ SOFCs use a solid ceramic electrolyte and operate at extremely high temperatures
 
 **Advantages**: Can run on multiple fuels (natural gas, biogas, even diesel) because internal reforming is possible at high temperatures. Very high efficiency, especially in combined heat and power applications (up to 85%). No precious metal catalysts needed.
 
-**Disadvantages**: Slow startup (hours, not minutes), brittle ceramic materials, thermal cycling can cause cracks. Not suitable for vehicles — they're stationary power generators.
+**Disadvantages**: Slow startup (hours, not minutes), brittle ceramic materials, thermal [cycling](/cycling) can cause cracks. Not suitable for vehicles — they're stationary power generators.
 
 Bloom Energy boxes (those flat green units you might see at data centers and commercial buildings) are solid oxide fuel cells running on natural gas. They produce power at the point of use, avoiding transmission losses.
 
@@ -148,7 +148,7 @@ The efficiency argument is important for passenger cars (where batteries make mo
 
 **Maritime**: The shipping industry produces about 3% of global CO2 emissions and is exploring hydrogen and ammonia (which is easier to store and can be converted back to hydrogen) as alternatives to heavy fuel oil. For [automotive engineering](/automotive-engineering) and transport, hydrogen offers a path that batteries alone cannot provide.
 
-**Aviation**: Airbus has announced plans for hydrogen-powered aircraft by 2035. Short-haul flights (under 1,000 miles) using hydrogen are considered technically feasible, though enormous engineering challenges remain around storage and safety.
+**[Aviation](/aviation)**: Airbus has announced plans for hydrogen-powered aircraft by 2035. Short-haul flights (under 1,000 miles) using hydrogen are considered technically feasible, though enormous [engineering](/engineering) challenges remain around storage and safety.
 
 ### Stationary Power
 
@@ -175,9 +175,9 @@ Cost has been the primary barrier to fuel cell adoption. But the numbers have im
 
 Platinum catalyst cost is a major factor. Each automotive fuel cell uses about 30-60 grams of platinum (down from 100+ grams a decade ago). At roughly $30/gram, that's $900-$1,800 in platinum alone. Research into low-platinum and platinum-free catalysts is ongoing, with promising results from iron-nitrogen-carbon and cobalt-based alternatives.
 
-The cost of hydrogen itself matters too. At $16/kg (typical U.S. retail price at the pump for green hydrogen), driving a fuel cell car costs about $0.21/mile — roughly comparable to gasoline but more than battery electric. As green hydrogen production scales up and drops toward $4-5/kg retail, the economics become much more attractive.
+The cost of hydrogen itself matters too. At $16/kg (typical U.S. retail price at the pump for green hydrogen), driving a fuel cell car costs about $0.21/mile — roughly comparable to gasoline but more than battery electric. As green hydrogen production scales up and drops toward $4-5/kg retail, the [economics](/economics) become much more attractive.
 
-Government support is accelerating adoption. The U.S. Inflation Reduction Act (2022) provides tax credits of up to $3/kg for clean hydrogen production. The EU's hydrogen strategy targets 10 million tons of domestic green hydrogen production by 2030. Japan, South Korea, China, and Australia have all published national hydrogen strategies with billions in government investment.
+[Government](/government) support is accelerating adoption. The U.S. Inflation Reduction Act (2022) provides tax credits of up to $3/kg for clean hydrogen production. The EU's hydrogen strategy targets 10 million tons of domestic green hydrogen production by 2030. Japan, South Korea, China, and Australia have all published national hydrogen strategies with billions in government investment.
 
 ## Challenges and Limitations
 

@@ -45,7 +45,7 @@ Let's walk through a real-world private equity deal step by step, because unders
 
 ### Step 1: Raise the Fund
 
-A private equity firm — let's call it Apex Capital — decides to raise a new fund. The firm's partners travel the world pitching institutional investors: pension funds managing retirement savings for teachers and firefighters, university endowments, sovereign wealth funds from oil-rich nations, insurance companies, and ultra-wealthy individuals.
+A private equity firm — let's call it Apex Capital — decides to raise a new fund. The firm's partners travel the world pitching institutional investors: pension funds managing retirement savings for teachers and firefighters, university endowments, sovereign wealth funds from oil-rich nations, [insurance](/insurance) companies, and ultra-wealthy individuals.
 
 The pitch goes something like this: "Give us your money. We'll invest it over the next 3-5 years, improve the companies we buy, and return your capital plus significant profits within 10 years. Our target is a 20-25% annual return."
 
@@ -61,7 +61,7 @@ This is like buying a house with a 30% down payment and a 70% mortgage — excep
 
 ### Step 3: Improve the Company
 
-Now Apex goes to work. They might replace management, cut costs, sell off underperforming divisions, invest in technology, make add-on acquisitions, renegotiate supplier contracts, or expand into new markets. The goal is to increase the company's profitability and value.
+Now Apex goes to work. They might replace [management](/management), cut costs, sell off underperforming divisions, invest in technology, make add-on acquisitions, renegotiate supplier contracts, or expand into new markets. The goal is to increase the company's profitability and value.
 
 Some PE firms are genuinely skilled at operational improvement. They bring in experienced executives, implement better systems, and make investments that the previous owners couldn't or wouldn't make. Others primarily focus on financial [engineering](/engineering) — loading the company with debt, cutting costs aggressively, and extracting dividends.
 
@@ -143,11 +143,11 @@ These invest in multiple PE funds rather than directly in companies. They provid
 
 ## Who Invests in Private Equity?
 
-The investor base has shifted dramatically over the decades. Public pension funds are the largest category, accounting for roughly 35% of PE capital. This creates an interesting active: the retirement savings of public employees — teachers, police officers, municipal workers — are invested in firms that sometimes cut jobs and load companies with debt.
+The investor base has shifted dramatically over the decades. Public pension funds are the largest category, [accounting](/accounting) for roughly 35% of PE capital. This creates an interesting active: the retirement savings of public employees — teachers, police officers, municipal workers — are invested in firms that sometimes cut jobs and load companies with debt.
 
 Other major investor categories include:
 
-- **Sovereign wealth funds** (15-20%): Government investment vehicles from countries like Norway, Abu Dhabi, and Singapore
+- **Sovereign wealth funds** (15-20%): [Government](/government) investment vehicles from countries like Norway, Abu Dhabi, and Singapore
 - **Endowments and foundations** (10-15%): Universities like Yale and Harvard have been major PE investors since the 1990s
 - **Insurance companies** (10-15%): Seeking higher returns than bonds provide
 - **High-net-worth individuals** (10-15%): Wealthy families and individuals
@@ -163,7 +163,7 @@ Historically, top-quartile PE funds have outperformed public markets by 3-5 perc
 
 But — and this is a huge but — those are top-quartile returns. Median PE returns often match or barely exceed public market returns after accounting for fees, illiquidity, and risk. Bottom-quartile PE funds can lose money. The dispersion of returns in PE is much wider than in public markets.
 
-There's also an ongoing academic debate about how PE returns are measured. PE firms report "internal rate of return" (IRR), which can be manipulated through the timing of cash flows. When researchers use "public market equivalent" (PME) metrics — comparing PE returns to what investors would have earned in public markets — the outperformance often shrinks or disappears.
+There's also an ongoing academic [debate](/debate) about how PE returns are measured. PE firms report "internal rate of return" (IRR), which can be manipulated through the timing of cash flows. When researchers use "public market equivalent" (PME) metrics — comparing PE returns to what investors would have earned in public markets — the outperformance often shrinks or disappears.
 
 ## The Controversy: Job Killer or Job Creator?
 
@@ -179,7 +179,7 @@ Academic research shows that PE-owned companies often increase [productivity](/p
 
 Critics point to real disasters. Toys "R" Us collapsed in 2017 under $5 billion in PE-imposed debt — debt that consumed $400 million annually in interest payments, leaving no room for investment in stores or e-commerce. 33,000 people lost their jobs. The PE owners still made money on their fees.
 
-Healthcare has become a particular flashpoint. PE-owned emergency rooms have been associated with higher patient costs and, in some studies, worse outcomes. PE-owned nursing homes have shown higher mortality rates. The fundamental tension — PE needs to extract profits from companies that also need to serve patients — creates inherent conflicts.
+Healthcare has become a particular flashpoint. PE-owned emergency rooms have been associated with higher patient costs and, in some studies, worse outcomes. PE-owned [nursing](/nursing) homes have shown higher mortality rates. The fundamental tension — PE needs to extract profits from companies that also need to serve patients — creates inherent conflicts.
 
 Retail has seen similar patterns. When PE firms buy retail chains, load them with debt, and extract management fees, the companies often can't invest in the customer experience, inventory, or employee training needed to compete. The PE firm's timeline (5-7 years) conflicts with the long-term investments healthy retailers need.
 

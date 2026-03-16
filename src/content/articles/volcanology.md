@@ -128,7 +128,7 @@ Changes in the composition and volume of volcanic gases indicate changes in the 
 
 ### Thermal Monitoring
 
-Satellite-based thermal sensors detect heat anomalies at volcanic craters — new fumaroles, hot springs, or warming crater lakes that indicate increased activity. Thermal cameras provide continuous monitoring of dome growth and lava flow activity.
+Satellite-based thermal sensors detect heat anomalies at volcanic craters — new fumaroles, hot [springs](/springs), or warming crater lakes that indicate increased activity. Thermal cameras provide continuous monitoring of dome growth and lava flow activity.
 
 ### Integration
 
@@ -152,11 +152,11 @@ Volcanic eruptions affect climate through two main mechanisms.
 
 **Stratospheric aerosols.** Large eruptions inject sulfur dioxide into the stratosphere (above ~15 km altitude), where it converts to sulfuric acid aerosol droplets. These aerosols reflect incoming sunlight, cooling the planet. The effect is temporary — the aerosols settle out within 1-3 years — but significant. Pinatubo's cooling effect was measurable by satellite.
 
-**Long-term carbon [cycling](/cycling).** Over geological timescales, volcanic CO₂ emissions are a major input to Earth's carbon cycle. Without volcanic outgassing, atmospheric CO₂ would eventually be drawn down by weathering and biological processes. Volcanoes maintain the greenhouse effect that keeps Earth habitable. However, current human CO₂ emissions are roughly 100 times greater than all volcanic CO₂ emissions combined — so volcanoes aren't causing modern climate change.
+**Long-term carbon [cycling](/cycling).** Over geological timescales, volcanic CO₂ emissions are a major input to Earth's carbon cycle. Without volcanic outgassing, atmospheric CO₂ would eventually be drawn down by weathering and biological processes. Volcanoes maintain the greenhouse effect that keeps Earth habitable. However, current human CO₂ emissions are roughly 100 times greater than all volcanic CO₂ emissions combined — so volcanoes aren't causing modern [climate change](/climate-change).
 
 ## Volcanology as a Career
 
-Volcanology is a specialization within [earth science](/earth-science) and [geophysics](/geophysics). Most volcanologists hold a PhD in geology, geophysics, [geochemistry](/geochemistry), or a related field. The educational path typically includes a bachelor's in geology or physics, followed by graduate research focused on volcanic processes.
+Volcanology is a specialization within [earth science](/earth-science) and [geophysics](/geophysics). Most volcanologists hold a PhD in geology, geophysics, [geochemistry](/geochemistry), or a related field. The educational path typically includes a bachelor's in geology or [physics](/physics), followed by graduate research focused on volcanic processes.
 
 The work combines fieldwork (often in remote and sometimes dangerous locations), laboratory analysis ([petrology](/petrology), geochemistry, isotope analysis), and computational modeling. Field volcanologists collect samples from active craters, deploy monitoring instruments, and map volcanic deposits. Some of the field conditions are genuinely extreme — working near active lava flows, climbing active volcanoes, or sampling gases from fumaroles at temperatures exceeding 600°C.
 

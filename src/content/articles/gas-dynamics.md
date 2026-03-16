@@ -181,7 +181,7 @@ Gas dynamics shows up in surprising industrial contexts:
 - **Steam turbines**: High-speed steam in power plants behaves compressibly, and turbine blade design uses the same [classical mechanics](/classical-mechanics) and gas dynamics principles as jet engines.
 - **Natural gas pipelines**: Long-distance gas transport involves compressible flow with friction, [heat transfer](/heat-transfer), and compressor stations.
 - **Pressure relief valves**: Emergency depressurization of vessels produces choked flow through valves, governed by gas dynamics.
-- **Laser cutting and welding**: High-pressure assist gas jets interact with material surfaces at supersonic speeds.
+- **Laser cutting and [welding](/welding)**: High-pressure assist gas jets interact with material surfaces at supersonic speeds.
 
 ### Ballistics
 

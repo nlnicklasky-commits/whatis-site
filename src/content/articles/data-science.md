@@ -35,7 +35,7 @@ faq:
 
 # What Is Data Science?
 
-Data science is an interdisciplinary field that uses scientific methods, statistics, [algorithms](/algorithms), and computing systems to extract knowledge and actionable insights from structured and unstructured data. It sits at the intersection of mathematics, computer science, and domain expertise—and since Harvard Business Review called it "the sexiest job of the 21st century" in 2012, it has grown into one of the most sought-after career paths in technology.
+Data science is an interdisciplinary field that uses scientific methods, [statistics](/statistics), [algorithms](/algorithms), and computing systems to extract knowledge and actionable insights from structured and unstructured data. It sits at the intersection of [mathematics](/mathematics), [computer science](/computer-science), and domain expertise—and since Harvard Business Review called it "the sexiest job of the 21st century" in 2012, it has grown into one of the most sought-after career paths in technology.
 
 ## The Three Pillars of Data Science
 
@@ -43,7 +43,7 @@ Data science isn't a single skill—it's a combination of three distinct areas o
 
 ### Mathematics and Statistics
 
-This is the theoretical backbone. [Probability theory](/probability-theory), statistical inference, linear algebra, calculus, and optimization theory provide the mathematical framework for understanding data. Without statistics, you can't determine whether a pattern is real or just random noise. Without linear algebra, you can't understand how most [machine learning](/machine-learning) algorithms actually work under the hood.
+This is the theoretical backbone. [Probability theory](/probability-theory), statistical inference, [linear algebra](/linear-algebra), calculus, and [optimization](/optimization) theory provide the mathematical framework for understanding data. Without statistics, you can't determine whether a pattern is real or just random noise. Without linear algebra, you can't understand how most [machine learning](/machine-learning) algorithms actually work under the hood.
 
 You don't need to be a math PhD—but you do need comfort with concepts like probability distributions, hypothesis testing, Bayesian inference, and regression. These aren't optional extras. They're the foundation that separates actual data science from "playing with data."
 
@@ -79,7 +79,7 @@ Data rarely comes from a single, clean source. A typical project might combine d
 - Surveys and manual data entry
 - IoT sensors and streaming data
 
-Integrating these sources—aligning timestamps, resolving identity across systems, handling different schemas—is a significant engineering challenge. It's also where many projects stall. The data you need exists, but getting it into a usable format takes longer than anyone estimated.
+Integrating these sources—aligning timestamps, resolving identity across systems, handling different schemas—is a significant [engineering](/engineering) challenge. It's also where many projects stall. The data you need exists, but getting it into a usable format takes longer than anyone estimated.
 
 ### Exploratory Data Analysis (EDA)
 
@@ -135,23 +135,23 @@ The emerging discipline of MLOps (machine learning operations) addresses these c
 
 Regression predicts continuous values. Simple linear regression models the relationship between one input and one output. Multiple regression uses several inputs. Polynomial regression handles non-linear relationships. Regularized regression (Ridge, Lasso, Elastic Net) prevents overfitting when you have many potential input variables.
 
-When a real estate company predicts home prices based on square footage, location, bedrooms, and lot size, that's regression. When an insurance company estimates claim amounts based on policyholder characteristics, that's regression too.
+When a [real estate](/real-estate) company predicts home prices based on square footage, location, bedrooms, and lot size, that's regression. When an [insurance](/insurance) company estimates claim amounts based on policyholder characteristics, that's regression too.
 
 ### Classification
 
 Classification assigns inputs to categories. Binary classification (two categories) is the most common—spam or not, fraud or not, will churn or won't. Multi-class classification handles more categories—which disease, which product category, which customer segment.
 
-The [algorithm](/algorithms) zoo for classification is vast: logistic regression (despite the name, it's for classification), decision trees, random forests, gradient boosting (XGBoost, LightGBM), support vector machines, and neural networks. Each has strengths for different data characteristics.
+The [algorithm](/algorithms) zoo for classification is vast: logistic regression (despite the name, it's for classification), decision trees, random forests, gradient boosting (XGBoost, LightGBM), support vector machines, and [neural networks](/neural-networks). Each has strengths for different data characteristics.
 
 ### Clustering
 
 Clustering finds natural groupings in data without being told what groups to find. K-means, hierarchical clustering, DBSCAN, and Gaussian mixture models each approach this differently.
 
-Customer segmentation is the classic business application. Instead of treating all customers identically, clustering reveals distinct behavioral groups—price-sensitive shoppers, brand-loyal buyers, occasional high-spenders—each requiring different marketing strategies.
+Customer segmentation is the classic business application. Instead of treating all customers identically, clustering reveals distinct behavioral groups—price-sensitive shoppers, brand-loyal buyers, occasional high-spenders—each requiring different [marketing](/marketing) strategies.
 
 ### [Natural Language Processing](/natural-language-processing) (NLP)
 
-NLP applies data science to human language. Sentiment analysis determines whether text is positive or negative. Named entity recognition extracts names, dates, and locations. Topic modeling discovers themes in document collections. Machine translation converts between languages.
+NLP applies data science to human language. Sentiment analysis determines whether text is positive or negative. Named entity recognition extracts names, dates, and locations. Topic modeling discovers themes in document collections. Machine [translation](/translation) converts between languages.
 
 The NLP field has been transformed by large language models like GPT-4 and Claude, which learn from billions of text examples and can perform tasks that seemed impossible just five years ago. But traditional NLP techniques remain important for specialized applications where these large models are overkill or too expensive.
 
@@ -198,7 +198,7 @@ Tools like **MLflow**, **Weights & Biases**, and **Neptune** track experiments�
 
 The boundaries are blurry, but the distinctions matter for career planning.
 
-**[Data analysis](/data-analysis)** is more focused on examining historical data to answer specific questions. Analysts tend to use simpler tools (Excel, SQL, BI platforms) and focus more on communication and business context than on model building.
+**[Data analysis](/data-analysis)** is more focused on examining historical data to answer specific questions. Analysts tend to use simpler tools (Excel, SQL, BI platforms) and focus more on communication and business context than on [model building](/model-building).
 
 **[Data mining](/data-mining)** emphasizes discovery of patterns in large datasets. It's a technique within data science, not a separate field—but some organizations use the title distinctly.
 
@@ -217,8 +217,8 @@ The demand is real. The U.S. Bureau of Labor Statistics projects 35% growth in d
 - **Junior Data Scientist**: Entry level, typically working on defined problems under supervision. Python, SQL, basic ML.
 - **Data Scientist**: Mid-level, owns end-to-end projects. Advanced modeling, feature engineering, business communication.
 - **Senior Data Scientist**: Leads projects, mentors juniors, influences strategy. Deep expertise in specific domains or techniques.
-- **Staff/Principal Data Scientist**: Technical leadership across teams. Sets standards, solves the hardest problems, drives technical direction.
-- **Data Science Manager/Director**: People management plus technical leadership. Balances team development with business impact.
+- **Staff/Principal Data Scientist**: Technical [leadership](/leadership) across teams. Sets standards, solves the hardest problems, drives technical direction.
+- **Data Science Manager/Director**: People [management](/management) plus technical leadership. Balances team development with business impact.
 
 ### Breaking In
 
@@ -245,11 +245,11 @@ Data science raises serious ethical questions that practitioners can't afford to
 
 ## Where Data Science Is Going
 
-**Foundation models** (large pre-trained models like GPT-4, Claude, and DALL-E) are changing the economics of data science. Instead of training models from scratch for each problem, data scientists increasingly fine-tune existing models or use them through APIs. This lowers the barrier to entry for many applications but raises the bar for the most advanced work.
+**Foundation models** (large pre-trained models like GPT-4, Claude, and DALL-E) are changing the [economics](/economics) of data science. Instead of training models from scratch for each problem, data scientists increasingly fine-tune existing models or use them through APIs. This lowers the barrier to entry for many applications but raises the bar for the most advanced work.
 
 **MLOps maturity** is making deployment and maintenance less painful. The gap between "model in a notebook" and "model in production" is shrinking, though it's far from closed.
 
-**Responsible AI** frameworks are moving from aspirational to operational. Organizations are building fairness metrics into model evaluation pipelines, conducting bias audits, and publishing transparency reports.
+**Responsible AI** frameworks are moving from aspirational to operational. Organizations are building fairness metrics into model evaluation pipelines, conducting bias audits, and [publishing](/publishing) transparency reports.
 
 **Domain-specific data science** is growing. Instead of generalist data scientists who move between industries, companies increasingly want people who combine data science skills with deep expertise in healthcare, climate science, fintech, or other specific fields.
 

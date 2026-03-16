@@ -45,7 +45,7 @@ Physics has a dirty secret: most of its equations can't actually be solved.
 
 Newton's laws of motion are beautifully simple. F = ma. The gravitational force between two bodies follows an elegant inverse-square law. And for two bodies — say, the Earth and the Sun — you can solve the equations exactly. Kepler did it in the 1600s.
 
-Add a third body — the Moon — and suddenly there's no exact solution. The "three-body problem" has no general closed-form answer. Henri Poincare proved this in 1887 and, in the process, basically discovered chaos theory. Three objects pulling on each other gravitationally creates behavior that's deterministic but unpredictable over long timescales.
+Add a third body — the Moon — and suddenly there's no exact solution. The "three-body problem" has no general closed-form answer. Henri Poincare proved this in 1887 and, in the process, basically discovered [chaos theory](/chaos-theory). Three objects pulling on each other gravitationally creates behavior that's deterministic but unpredictable over long timescales.
 
 Now consider a gas. A room-temperature cup of air contains about 10^22 molecules, all bouncing off each other. Each individual collision follows simple [classical mechanics](/classical-mechanics). But tracking 10^22 simultaneous interactions? Impossible analytically. Impossible even computationally if you tried to track every molecule individually. [Statistical mechanics](/statistical-mechanics) handles this by working with averages and distributions instead of individual particles — but that only works for systems in equilibrium. Turbulent fluid flow, phase transitions, and non-equilibrium processes remain brutally hard.
 
@@ -53,7 +53,7 @@ The same pattern repeats across physics. Simple equations. Complex behavior. No 
 
 ## The Founding Era
 
-Computational physics effectively began during World War II with the Manhattan Project. The physics of nuclear weapons — how neutrons diffuse through fissile material, how shock waves propagate, how implosion geometry affects yield — involved coupled nonlinear [differential equations](/differential-equations) that had no analytical solutions.
+Computational physics effectively began during [World War II](/world-war-ii) with the Manhattan Project. The physics of nuclear weapons — how neutrons diffuse through fissile material, how shock waves propagate, how implosion geometry affects yield — involved coupled nonlinear [differential equations](/differential-equations) that had no analytical solutions.
 
 Los Alamos scientists, including Stanislaw Ulam, John von Neumann, and Nicholas Metropolis, developed Monte Carlo methods to tackle these problems. The idea was brilliantly simple: instead of solving equations directly, use random sampling to approximate solutions statistically. Want to calculate the probability that a neutron escapes a block of uranium? Simulate thousands of individual neutrons, track each one randomly through the material following the known probability rules, and count how many escape. The more simulations you run, the closer your answer gets to the true value.
 
@@ -77,17 +77,17 @@ The breakthrough protein-folding simulations by D.E. Shaw Research used a custom
 
 ### Monte Carlo Methods
 
-Monte Carlo methods use random sampling to estimate quantities that are difficult or impossible to calculate directly. The applications extend far beyond nuclear physics.
+Monte Carlo methods use random sampling to estimate quantities that are difficult or impossible to calculate directly. The applications extend far beyond [nuclear physics](/nuclear-physics).
 
 In statistical physics, Monte Carlo methods simulate thermal fluctuations in materials. The Metropolis algorithm (1953) — one of the most cited papers in computational science — samples configurations of a system according to their Boltzmann weights, allowing calculation of thermodynamic properties at any temperature.
 
-In particle physics, Monte Carlo event generators simulate what happens when protons collide at nearly the speed of light. The Large Hadron Collider at CERN produces billions of collision events, each producing showers of particles. Comparing experimental data with Monte Carlo predictions is how physicists discover new particles — the Higgs boson discovery in 2012 relied critically on Monte Carlo simulations to distinguish the Higgs signal from background noise.
+In [particle physics](/particle-physics), Monte Carlo event generators simulate what happens when protons collide at nearly the speed of light. The Large Hadron Collider at CERN produces billions of collision events, each producing showers of particles. Comparing experimental data with Monte Carlo predictions is how physicists discover new particles — the Higgs boson discovery in 2012 relied critically on Monte Carlo simulations to distinguish the Higgs signal from background noise.
 
-In astrophysics, radiative transfer Monte Carlo simulations track photons as they bounce through gas clouds, stellar atmospheres, and interstellar dust, predicting what telescopes should observe from different physical scenarios.
+In [astrophysics](/astrophysics), radiative transfer Monte Carlo simulations track photons as they bounce through gas clouds, stellar atmospheres, and interstellar dust, predicting what telescopes should observe from different physical scenarios.
 
 ### Finite Element and Finite Difference Methods
 
-Many physics problems reduce to partial differential equations (PDEs) — equations describing how quantities vary in space and time. Maxwell's equations for electromagnetism, the Navier-Stokes equations for fluid flow, the Schrodinger equation for quantum mechanics — all are PDEs.
+Many physics problems reduce to partial differential equations (PDEs) — equations describing how quantities vary in space and time. Maxwell's equations for [electromagnetism](/electromagnetism), the Navier-Stokes equations for fluid flow, the Schrodinger equation for [quantum mechanics](/quantum-mechanics) — all are PDEs.
 
 Finite difference methods approximate PDEs by replacing continuous derivatives with discrete differences on a grid. The temperature at grid point (i,j) at time t+1 depends on the temperature at neighboring grid points at time t. Simple to implement, but accuracy requires fine grids, and fine grids require enormous computation.
 
@@ -99,7 +99,7 @@ Adaptive mesh refinement dynamically adjusts grid resolution — using fine grid
 
 Solving the full quantum mechanics of even a small molecule is computationally prohibitive — the number of variables grows exponentially with the number of electrons. Density functional theory (DFT), developed by Walter Kohn and others (Nobel Prize in Chemistry, 1998), reformulates the problem in terms of electron density rather than individual electron wavefunctions. This reduces the computational cost from exponential to polynomial, making quantum calculations of hundreds or even thousands of atoms feasible.
 
-DFT is the workhorse of computational materials science and computational chemistry. It predicts crystal structures, magnetic properties, chemical reaction energies, and electronic properties of materials. The discovery of new battery materials, catalysts, and semiconductors increasingly starts with DFT calculations that screen thousands of candidate materials computationally before synthesizing the most promising ones experimentally.
+DFT is the workhorse of computational [materials science](/materials-science) and computational chemistry. It predicts crystal structures, magnetic properties, chemical reaction energies, and electronic properties of materials. The discovery of new battery materials, catalysts, and semiconductors increasingly starts with DFT calculations that screen thousands of candidate materials computationally before synthesizing the most promising ones experimentally.
 
 ## Simulating the Universe
 
@@ -107,7 +107,7 @@ Cosmological simulations model the evolution of the universe from shortly after 
 
 These simulations test cosmological theories. If the Standard Model of cosmology is correct, simulations using its parameters should produce a universe that looks like ours. They do — the distribution of galaxies, the cosmic web of dark matter filaments, the properties of galaxy clusters — all match observations within measurement uncertainties.
 
-Climate simulation is another universe-scale application. General circulation models divide Earth's atmosphere and oceans into millions of grid cells and solve fluid dynamics equations at each cell. The physics includes radiation, convection, cloud formation, ocean circulation, ice dynamics, and chemical reactions. These models are the primary tools for projecting future climate change, and computational physics is essential to their development and validation.
+Climate simulation is another universe-scale application. General circulation models divide Earth's atmosphere and oceans into millions of grid cells and solve [fluid dynamics](/fluid-dynamics) equations at each cell. The physics includes radiation, convection, cloud formation, ocean circulation, ice dynamics, and chemical reactions. These models are the primary tools for projecting future [climate change](/climate-change), and computational physics is essential to their development and validation.
 
 ## Computational Physics and Experiment
 
@@ -125,7 +125,7 @@ The 2015 detection of gravitational waves from merging black holes by LIGO confi
 
 Computational physics has always pushed the boundaries of available computing hardware, and in many cases, has driven hardware development.
 
-The Cray-1 (1976), often considered the first successful supercomputer, was designed largely for nuclear weapons simulations. Vector processing, parallel computing, GPU computing, and now quantum computing have all been accelerated by physics problems that demanded more computational power.
+The Cray-1 (1976), often considered the first successful supercomputer, was designed largely for nuclear weapons simulations. Vector processing, [parallel computing](/parallel-computing), GPU computing, and now [quantum computing](/quantum-computing) have all been accelerated by physics problems that demanded more computational power.
 
 GPU computing — using graphics processing units for general computation — was initially adopted by computational physicists because GPUs, designed to render millions of pixels simultaneously, are naturally suited to the parallel computations that physics simulations require. NVIDIA's CUDA platform, which enabled general-purpose GPU programming, was initially driven by demand from scientific computing.
 
@@ -137,11 +137,11 @@ Quantum computing holds particular promise for computational physics because qua
 
 The intersection of [machine learning](/machine-learning) and computational physics is one of the most active current research areas.
 
-**ML-accelerated simulations**: Training neural networks to approximate expensive physics calculations can speed up simulations by orders of magnitude. Neural network potentials — ML models trained on DFT calculations — can reproduce quantum mechanical accuracy at a fraction of the computational cost, enabling molecular dynamics simulations of millions of atoms with near-quantum accuracy.
+**ML-accelerated simulations**: Training [neural networks](/neural-networks) to approximate expensive physics calculations can speed up simulations by orders of magnitude. Neural network potentials — ML models trained on DFT calculations — can reproduce quantum mechanical accuracy at a fraction of the computational cost, enabling molecular dynamics simulations of millions of atoms with near-quantum accuracy.
 
 **Physics-informed neural networks (PINNs)**: Neural networks that incorporate known physics equations as constraints. Instead of learning purely from data, PINNs learn solutions that satisfy both the data and the governing equations. This improves accuracy, reduces data requirements, and ensures physically plausible predictions.
 
-**Inverse problems**: Given observed data, what physical model produced it? ML methods can invert this question — inferring physical parameters from observations. Gravitational lensing analysis, seismology, and medical imaging all use ML-based inversion.
+**Inverse problems**: Given observed data, what physical model produced it? ML methods can invert this question — inferring physical parameters from observations. Gravitational lensing analysis, seismology, and [medical imaging](/medical-imaging) all use ML-based inversion.
 
 **Symbolic regression**: ML systems that discover mathematical equations from data. Instead of a neural network black box, the output is a human-readable equation. This could accelerate theoretical physics by discovering new physical laws from simulation data.
 
@@ -149,8 +149,8 @@ The intersection of [machine learning](/machine-learning) and computational phys
 
 Computational physics methods have spread far beyond physics departments.
 
-Engineering firms use finite element simulations for everything from car crash safety to bridge load analysis to semiconductor design. [Aerospace engineering](/aerospace-engineering) depends on computational fluid dynamics for wing design, engine optimization, and thermal management. Climate science runs on physics simulations of atmospheric and oceanic circulation.
+Engineering firms use finite element simulations for everything from car crash safety to bridge load analysis to semiconductor design. [Aerospace engineering](/aerospace-engineering) depends on computational fluid dynamics for wing design, engine [optimization](/optimization), and thermal management. Climate science runs on physics simulations of atmospheric and oceanic circulation.
 
-Financial modeling borrows Monte Carlo methods to price options and assess risk. Biology uses molecular dynamics and quantum chemistry to understand protein behavior and drug interactions. Even computer graphics in movies and games uses physics simulations — fluid dynamics for realistic water, particle systems for explosions, rigid-body dynamics for physical interactions.
+[Financial modeling](/financial-modeling) borrows Monte Carlo methods to price options and assess risk. Biology uses molecular dynamics and quantum chemistry to understand protein behavior and drug interactions. Even computer graphics in movies and games uses physics simulations — fluid dynamics for realistic water, particle systems for explosions, rigid-body dynamics for physical interactions.
 
 The fundamental insight of computational physics — that you can explore physical reality by computing its consequences numerically — has become a universal tool across science and engineering. It's the third way of knowing, alongside theory and experiment. And for many of the most important questions facing humanity — climate change, energy technology, disease treatment, materials design — it's the way that matters most.

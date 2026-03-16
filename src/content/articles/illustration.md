@@ -63,7 +63,7 @@ The digital revolution brought illustration back. The internet created enormous 
 
 ## Traditional vs. Digital
 
-The tools have changed dramatically, but the fundamentals have not. Whether you draw with a pencil on paper or a stylus on a Wacom tablet, the core skills are the same: understanding anatomy, perspective, composition, [color theory](/color-theory), light, and shadow.
+The tools have changed dramatically, but the fundamentals have not. Whether you draw with a pencil on paper or a stylus on a Wacom tablet, the core skills are the same: understanding [anatomy](/anatomy), perspective, composition, [color theory](/color-theory), light, and shadow.
 
 **Traditional media** — watercolor, gouache, acrylic, ink, colored pencil — produce qualities that digital tools still struggle to replicate perfectly. The texture of watercolor on rough paper, the unpredictable bleeds of ink, the luminosity of gouache — these physical qualities have intrinsic appeal.
 

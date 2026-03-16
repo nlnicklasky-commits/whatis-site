@@ -43,7 +43,7 @@ Turkish itself isn't related to Arabic or Persian, despite heavy historical borr
 
 ## The Grammar That Builds Words Like Legos
 
-Turkish grammar operates on a principle that feels alien to English speakers at first but turns out to be remarkably logical. You start with a root word and keep adding suffixes to layer on meaning.
+Turkish [grammar](/grammar) operates on a principle that feels alien to English speakers at first but turns out to be remarkably logical. You start with a root word and keep adding suffixes to layer on meaning.
 
 Take the word "ev" (house). Add "-ler" and you get "evler" (houses). Add "-im" and you get "evlerim" (my houses). Keep going: "evlerimde" (in my houses), "evlerimdekiler" (those who are in my houses). One word, no spaces, complete grammatical clarity.
 
@@ -51,7 +51,7 @@ This agglutinative structure means Turkish words can get spectacularly long. The
 
 ### Vowel Harmony: The Secret Pattern
 
-Turkish has a system called vowel harmony that governs which vowels can appear together in a word. Suffixes change their vowels to match the last vowel in the root word. There are two types:
+Turkish has a system called vowel [harmony](/harmony) that governs which vowels can appear together in a word. Suffixes change their vowels to match the last vowel in the root word. There are two types:
 
 **Two-way harmony** divides vowels into front (e, i, o, u) and back (a, ı, o, u) groups. If the root word's last vowel is a front vowel, the suffix uses a front vowel too.
 

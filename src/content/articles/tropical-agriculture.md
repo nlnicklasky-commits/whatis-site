@@ -37,7 +37,7 @@ faq:
 
 # What Is Tropical Agriculture?
 
-Tropical agriculture is the branch of agricultural science focused on crop and livestock production in tropical and subtropical climates — roughly the region between the Tropics of Cancer and Capricorn, spanning 23.5 degrees north and south of the equator. It encompasses the unique challenges of farming in environments defined by high temperatures, intense rainfall, distinct wet and dry seasons, and soils that behave very differently from their temperate counterparts.
+Tropical agriculture is the branch of agricultural science focused on crop and livestock production in tropical and subtropical climates — roughly the region between the Tropics of Cancer and Capricorn, spanning 23.5 degrees north and south of the equator. It encompasses the unique challenges of [farming](/farming) in environments defined by high temperatures, intense rainfall, distinct wet and dry seasons, and soils that behave very differently from their temperate counterparts.
 
 ## Farming Between the Tropics
 
@@ -45,7 +45,7 @@ About 40% of the world's population lives in the tropics, and that proportion is
 
 The tropics produce nearly all of the world's cocoa, coffee, rubber, palm oil, cassava, and tropical fruits. They produce most of the world's rice and sugarcane. They're the source of spices, vanilla, coconut, and dozens of other commodities that the global economy depends on. The [FAO estimates](https://www.fao.org/in-action/tropical-agriculture-platform/en/) that tropical regions produce roughly 40% of global agricultural output, a share that's rising.
 
-But here's the contradiction that defines tropical [agriculture](/agriculture): the tropics look incredibly fertile — lush forests, explosive growth, twelve months of warmth. Yet many tropical farming systems struggle with low [productivity](/productivity), degraded soils, and persistent food insecurity. The reasons are rooted in [soil science](/soil-science), ecology, [economics](/economics), and history.
+But here's the contradiction that defines tropical [agriculture](/agriculture): the tropics look incredibly fertile — lush forests, explosive growth, twelve months of warmth. Yet many tropical farming systems struggle with low [productivity](/productivity), degraded soils, and persistent food insecurity. The reasons are rooted in [soil science](/soil-science), [ecology](/ecology), [economics](/economics), and history.
 
 ## The Tropical Climate: Gift and Curse
 
@@ -81,7 +81,7 @@ If you cut down a tropical rainforest and expect the soil beneath it to be incre
 
 The dominant soils of the humid tropics — Oxisols and Ultisols — are among the most weathered soils on Earth. Millions of years of heavy rainfall have leached away most of the soluble minerals that plants need: calcium, magnesium, potassium, and phosphorus. What remains is a deep, heavily weathered clay rich in iron and aluminum oxides — which is why many tropical soils are bright red or yellow.
 
-So how do tropical forests grow so luxuriantly on poor soil? The answer is that the nutrient cycling happens almost entirely in the biomass, not the soil. Dead leaves, branches, and organisms decompose rapidly in the warm, moist conditions — sometimes within weeks rather than months — and the released nutrients are immediately captured by the dense network of surface roots and mycorrhizal fungi. It's a closed loop: nutrients cycle between living organisms and fresh organic matter, barely touching the mineral soil.
+So how do tropical forests grow so luxuriantly on poor soil? The answer is that the nutrient [cycling](/cycling) happens almost entirely in the biomass, not the soil. Dead leaves, branches, and organisms decompose rapidly in the warm, moist conditions — sometimes within weeks rather than months — and the released nutrients are immediately captured by the dense network of surface roots and mycorrhizal fungi. It's a closed loop: nutrients cycle between living organisms and fresh organic matter, barely touching the mineral soil.
 
 When the forest is cleared, this loop breaks. The organic matter decomposes without being replenished. The freed nutrients leach away in the first few heavy rains. Within 2-5 years, much of the soil's available fertility is gone. This is why slash-and-burn farming traditionally required long fallow periods — 10 to 20 years for the forest to regrow and rebuild the nutrient cycle.
 
@@ -113,7 +113,7 @@ Tropical plantation agriculture — large-scale, commercial production of a sing
 
 **Cocoa** is grown almost exclusively in the tropics, with West Africa (Cote d'Ivoire, Ghana, Nigeria, Cameroon) producing about 70% of the world's supply. Cocoa trees require shade, consistent moisture, and temperatures between 18-32 degrees Celsius. Most cocoa is still produced by smallholder farmers on plots of 2-5 hectares, often with minimal inputs and low yields. The global chocolate industry is worth over $130 billion annually, but the average cocoa farmer in West Africa earns less than $2 per day.
 
-**Coffee** grows best at elevations of 800-2,000 meters in the tropics, where temperatures are cooler and nights are relatively cold. Brazil, Vietnam, Colombia, and Ethiopia are the leading producers. Climate change is shrinking the area suitable for coffee production — by 2050, an estimated 50% of current coffee-growing land may no longer be suitable, according to research published in *Climatic Change*.
+**Coffee** grows best at elevations of 800-2,000 meters in the tropics, where temperatures are cooler and nights are relatively cold. Brazil, Vietnam, Colombia, and Ethiopia are the leading producers. [Climate change](/climate-change) is shrinking the area suitable for coffee production — by 2050, an estimated 50% of current coffee-growing land may no longer be suitable, according to research published in *Climatic Change*.
 
 ### Smallholder Mixed Farming
 

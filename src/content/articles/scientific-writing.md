@@ -37,7 +37,7 @@ faq:
 
 # What Is Scientific Writing?
 
-Scientific writing is a form of technical communication that reports the methods, results, and interpretation of scientific research to other scientists and, increasingly, to the broader public. Its defining characteristics are precision, clarity, logical structure, and evidence-based [argumentation](/argumentation). Every sentence exists to convey specific information, and every claim is either supported by data or properly attributed to its source.
+Scientific [writing](/writing) is a form of technical communication that reports the methods, results, and interpretation of scientific research to other scientists and, increasingly, to the broader public. Its defining characteristics are precision, clarity, logical structure, and evidence-based [argumentation](/argumentation). Every sentence exists to convey specific information, and every claim is either supported by data or properly attributed to its source.
 
 About 3 million scientific papers are published annually across roughly 30,000 peer-reviewed journals worldwide. That number has been growing at approximately 5-6% per year for decades. The volume creates both opportunity and challenge: more knowledge is being shared than ever before, but finding and reading the relevant fraction of it is a real problem. Writing clearly and concisely isn't just a nicety—it's an ethical obligation to the readers who are investing their limited time in your work.
 
@@ -73,7 +73,7 @@ The Introduction does three things in sequence:
 
 This funnel structure—broad to narrow—is nearly universal. It guides the reader from general knowledge to the specific question your paper addresses. A well-written Introduction makes the reader think "yes, that's an important question and I want to know the answer"—which is exactly the motivation needed to keep reading.
 
-Common mistakes in Introductions: being too broad ("Since the dawn of time, humans have wondered about..."), being too narrow (jumping to specific details without context), reviewing too much literature (the Introduction isn't a review article), and burying the purpose statement.
+Common mistakes in Introductions: being too broad ("Since the dawn of time, humans have wondered about..."), being too narrow (jumping to specific details without context), reviewing too much [literature](/literature) (the Introduction isn't a review article), and burying the purpose statement.
 
 The best Introductions are 2-4 paragraphs for a standard paper. They cite 15-30 references. They end with a clear statement of what the paper does and, sometimes, a brief preview of the key findings.
 
@@ -99,7 +99,7 @@ The Results section presents your findings without interpreting them. That's the
 
 **Report negative results.** If an experiment didn't work or showed no significant effect, say so. Omitting negative results creates publication bias and misleads other researchers. The sentence "Treatment X did not significantly affect outcome Y (p = 0.43, n = 50)" is more valuable than silence because it saves other researchers from pursuing a dead end.
 
-**Statistical reporting** follows field-specific conventions. In biomedical writing: "Mean blood pressure decreased by 8.3 mmHg (95% CI: 5.1-11.5, p = 0.002)." In psychology: "Participants in the experimental condition scored higher (M = 72.3, SD = 8.1) than controls (M = 65.7, SD = 7.9), t(98) = 4.13, p < .001, d = 0.83." [Data analysis](/data-analysis) conventions vary between fields, so check your target journal's requirements.
+**Statistical reporting** follows field-specific conventions. In biomedical writing: "Mean blood pressure decreased by 8.3 mmHg (95% CI: 5.1-11.5, p = 0.002)." In [psychology](/psychology): "Participants in the experimental condition scored higher (M = 72.3, SD = 8.1) than controls (M = 65.7, SD = 7.9), t(98) = 4.13, p < .001, d = 0.83." [Data analysis](/data-analysis) conventions vary between fields, so check your target journal's requirements.
 
 ### Discussion: What It Means
 
@@ -163,11 +163,11 @@ Good figures can communicate results more effectively than any amount of text. B
 
 **One message per figure.** A figure should answer one question or make one comparison. If you're cramming multiple unrelated datasets into a single panel, split them.
 
-**Labels and legends must be self-explanatory.** A reader should be able to understand your figure without reading the main text. Include axis labels with units, define all symbols in the legend, and add scale bars where relevant.
+**Labels and [legends](/legends) must be self-explanatory.** A reader should be able to understand your figure without reading the main text. Include axis labels with units, define all symbols in the legend, and add scale bars where relevant.
 
 **Choose the right plot type.** Bar charts for categorical comparisons. Scatter plots for continuous variable relationships. Line graphs for time series or dose-response curves. Box plots for distributions. Don't use pie charts for scientific data—they're notoriously hard to read accurately.
 
-**Show the data.** Wherever possible, show individual data points rather than just summary statistics (means and error bars). A bar chart with error bars can hide bimodal distributions, outliers, and other patterns that scatter plot overlays reveal.
+**Show the data.** Wherever possible, show individual data points rather than just summary [statistics](/statistics) (means and error bars). A bar chart with error bars can hide bimodal distributions, outliers, and other patterns that scatter plot overlays reveal.
 
 **Color carefully.** About 8% of men have some form of color vision deficiency. Use colorblind-friendly palettes (avoiding red-green combinations), and ensure your figures are interpretable in grayscale. Journals still print some content in black and white.
 
@@ -179,7 +179,7 @@ Tables work best for precise numerical comparisons when exact values matter more
 
 ### Choosing a Journal
 
-Before writing, identify your target journal. Each journal has specific scope, audience, format requirements, and impact level. Submitting a molecular [biology](/biology) paper to a physics journal wastes everyone's time. Consider:
+Before writing, identify your target journal. Each journal has specific scope, audience, format requirements, and impact level. Submitting a molecular [biology](/biology) paper to a [physics](/physics) journal wastes everyone's time. Consider:
 
 - **Scope**: Does the journal publish this type of research?
 - **Audience**: Will the right people read it here?
@@ -202,7 +202,7 @@ Most papers that are eventually published go through 1-3 rounds of revision. Thi
 
 ### Open Access and Preprints
 
-The traditional publishing model—journals charge readers for access—is shifting toward open access, where papers are freely available and authors (or their institutions/funders) pay publication fees. Many funding agencies now mandate open access publication.
+The traditional [publishing](/publishing) model—journals charge readers for access—is shifting toward open access, where papers are freely available and authors (or their institutions/funders) pay publication fees. Many funding agencies now mandate open access publication.
 
 Preprint servers (arXiv for physics/math, bioRxiv for biology, medRxiv for medical research) allow researchers to share findings immediately, before peer review. Preprints accelerate science—the COVID-19 pandemic demonstrated their value dramatically—but they bypass quality control, which means readers must evaluate preprints more critically than peer-reviewed publications.
 
@@ -222,7 +222,7 @@ Your most important finding should be prominent—in the title, in the abstract,
 
 ### Ignoring the Audience
 
-Writing for a specialized biochemistry journal is different from writing for a broad-audience journal like *Nature* or *Science*. Know your audience's background and adjust your level of explanation accordingly. Don't explain PCR to a [molecular biology](/molecular-biology) audience, but do explain it for a general science audience.
+Writing for a specialized [biochemistry](/biochemistry) journal is different from writing for a broad-audience journal like *Nature* or *Science*. Know your audience's background and adjust your level of explanation accordingly. Don't explain PCR to a [molecular biology](/molecular-biology) audience, but do explain it for a general science audience.
 
 ## Writing for Non-Scientists
 
@@ -238,13 +238,13 @@ Modern scientific writing involves software at every stage:
 
 **Reference managers** (Zotero, Mendeley, EndNote) organize citations and automatically format bibliographies. They save enormous time and reduce formatting errors.
 
-**LaTeX** is the standard typesetting system in mathematics, physics, and [computer science](/computer-science). It handles equations, figures, and references with precision that word processors can't match. The learning curve is steep but the output is beautiful.
+**LaTeX** is the standard [typesetting](/typesetting) system in [mathematics](/mathematics), physics, and [computer science](/computer-science). It handles equations, figures, and references with precision that word processors can't match. The learning curve is steep but the output is beautiful.
 
-**Collaborative writing tools** (Overleaf for LaTeX, Google Docs, Microsoft 365) enable multi-author writing with real-time editing, commenting, and version tracking. Given that the average scientific paper has 5-6 authors, collaboration tools are essential.
+**Collaborative writing tools** (Overleaf for LaTeX, Google Docs, Microsoft 365) enable multi-author writing with real-time [editing](/editing), commenting, and version tracking. Given that the average scientific paper has 5-6 authors, collaboration tools are essential.
 
 **Statistical software** (R, Python, SPSS, Stata) generates publication-quality figures and performs the analyses reported in the paper. Reproducible analysis workflows—where code and data are shared alongside the paper—are becoming standard in many fields.
 
-**AI writing assistants** are entering the picture but remain controversial. They can help with grammar, clarity, and structural suggestions, but generating scientific content with AI raises serious ethical questions about authorship, accuracy, and originality.
+**AI writing assistants** are entering the picture but remain controversial. They can help with [grammar](/grammar), clarity, and structural suggestions, but generating scientific content with AI raises serious ethical questions about authorship, accuracy, and originality.
 
 ## The Craft Behind the Science
 
@@ -254,4 +254,4 @@ The best scientific papers combine both—strong science, clearly communicated. 
 
 Scientific writing is a skill that improves with practice, feedback, and deliberate study. Read papers in your field with an eye toward craft as well as content. Notice which papers you find easy to read and figure out what the authors did differently. Study the style guides. Accept that your first draft will be terrible and that revision is where good writing actually happens.
 
-The goal is never to show how smart you are. The goal is to transfer understanding from your mind to the reader's as efficiently and accurately as possible. When you achieve that—when a complex finding becomes clear through your prose—that's scientific writing doing exactly what it's supposed to do.
+The goal is never to show how smart you are. The goal is to transfer understanding from your mind to the reader's as efficiently and accurately as possible. When you achieve that—when a complex finding becomes clear through your [prose](/prose)—that's scientific writing doing exactly what it's supposed to do.

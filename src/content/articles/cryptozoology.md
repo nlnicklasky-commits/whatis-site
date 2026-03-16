@@ -79,4 +79,4 @@ Dismissing cryptozoology entirely might miss something. While the specific claim
 
 The ocean remains genuinely mysterious. Deep-sea expeditions routinely encounter species unknown to science. The Congo Basin and Amazon rainforest still yield new vertebrate species. The idea that large, undiscovered animals might exist isn't impossible — it's just that the specific candidates championed by cryptozoology consistently fail to produce evidence when investigated rigorously.
 
-The best approach might be to enjoy the stories for what they are — fascinating cultural artifacts that reveal human psychology, regional identity, and our deep-seated desire to believe that the world still contains genuine surprises. It probably does. They're just more likely to be weird deep-sea fish than eight-foot-tall ape-men.
+The best approach might be to enjoy the stories for what they are — fascinating cultural artifacts that reveal human [psychology](/psychology), regional identity, and our deep-seated desire to believe that the world still contains genuine surprises. It probably does. They're just more likely to be weird deep-sea fish than eight-foot-tall ape-men.

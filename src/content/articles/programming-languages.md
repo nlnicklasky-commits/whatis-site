@@ -45,7 +45,7 @@ Computers, at the most fundamental level, understand only one thing: binary. Seq
 
 Nobody wants to write software in binary. It's technically possible — the earliest programmers literally flipped switches and punched holes in cards — but it's agonizingly slow, error-prone, and impossible to read. A simple operation like "add two numbers" might require a dozen binary instructions.
 
-Programming languages exist to let humans express computational ideas in something closer to human thought. Instead of writing `10110000 01100001` (an x86 instruction), you write `x = 97` and let the language's toolchain translate it to binary. This translation — from human-readable code to machine-executable instructions — is the essential function of every programming language.
+Programming languages exist to let humans express computational ideas in something closer to human thought. Instead of [writing](/writing) `10110000 01100001` (an x86 instruction), you write `x = 97` and let the language's toolchain translate it to binary. This [translation](/translation) — from human-readable code to machine-executable instructions — is the essential function of every programming language.
 
 ## The Layers of Abstraction
 
@@ -53,11 +53,11 @@ Programming languages operate at different levels of abstraction — different d
 
 ### Machine Code and Assembly
 
-**Machine code** is the binary language the processor actually executes. It's specific to each processor architecture — code written for an Intel x86 chip won't run on an ARM chip without translation.
+**Machine code** is the binary language the processor actually executes. It's specific to each processor [architecture](/architecture) — code written for an Intel x86 chip won't run on an ARM chip without translation.
 
 **Assembly language** is one tiny step above machine code. Instead of binary numbers, you write mnemonics like `MOV`, `ADD`, `JMP` that correspond directly to machine instructions. Assembly gives you complete control over the hardware but is tedious, error-prone, and not portable between different processors.
 
-Who still uses assembly? People writing operating system kernels, embedded systems for medical devices or spacecraft, high-frequency trading systems where nanoseconds matter, and security researchers reverse-engineering software.
+Who still uses assembly? People writing operating system kernels, embedded systems for medical devices or spacecraft, high-frequency trading systems where nanoseconds matter, and security researchers reverse-[engineering](/engineering) software.
 
 ### Low-Level Languages
 
@@ -69,9 +69,9 @@ C++ (created by Bjarne Stroustrup starting in 1979) added [object-oriented progr
 
 ### High-Level Languages
 
-High-level languages abstract away hardware details so programmers can focus on logic and problem-solving rather than memory management and register allocation.
+High-level languages abstract away hardware details so programmers can focus on [logic](/logic) and problem-solving rather than memory [management](/management) and register allocation.
 
-**Python** might be the most significant programming language story of the 21st century. Created by Guido van Rossum in 1991, Python was designed for readability — code should look almost like English pseudocode. For years it was considered "just a scripting language." Then data science happened. Then [machine learning](/machine-learning) happened. Then AI happened. Python's extensive libraries (NumPy, pandas, TensorFlow, PyTorch) made it the default language for scientific computing and AI research. By 2025, Python was the most popular programming language in the world by most measures.
+**Python** might be the most significant programming language story of the 21st century. Created by Guido van Rossum in 1991, Python was designed for readability — code should look almost like English pseudocode. For years it was considered "just a scripting language." Then [data science](/data-science) happened. Then [machine learning](/machine-learning) happened. Then AI happened. Python's extensive libraries (NumPy, pandas, TensorFlow, PyTorch) made it the default language for scientific computing and AI research. By 2025, Python was the most popular programming language in the world by most measures.
 
 **JavaScript** has a stranger story. Created by Brendan Eich in just 10 days in 1995, it was initially a simple scripting language for web browsers. It had quirky design decisions (type coercion, anyone?) and was widely dismissed by serious programmers. But it had one superpower: it was the only language that ran in web browsers. As the web became the dominant platform, JavaScript became inescapable. Node.js (2009) brought it to server-side programming. Today, JavaScript and its typed superset TypeScript run everything from Netflix to PayPal to NASA mission control dashboards.
 
@@ -147,8 +147,8 @@ The trend over the past decade has been toward optional static typing in active 
 
 ### Python
 
-**Used for:** AI/ML, data science, web backends (Django, Flask), automation, scientific computing, education
-**Strengths:** Readable syntax, enormous ecosystem, dominant in AI
+**Used for:** AI/ML, data science, web backends (Django, Flask), automation, scientific computing, [education](/education)
+**Strengths:** Readable [syntax](/syntax), enormous ecosystem, dominant in AI
 **Weaknesses:** Slow for CPU-intensive tasks, GIL limits threading, weak for mobile/desktop apps
 **Who uses it:** Google, Instagram, Spotify, Netflix, NASA, nearly every AI research lab
 
@@ -169,7 +169,7 @@ The trend over the past decade has been toward optional static typing in active 
 ### C / C++
 
 **Used for:** Operating systems, game engines, browsers, embedded systems, high-performance computing
-**Strengths:** Maximum performance, direct hardware access, 50+ years of optimization
+**Strengths:** Maximum performance, direct hardware access, 50+ years of [optimization](/optimization)
 **Weaknesses:** Manual memory management, security vulnerabilities, slow development speed
 **Who uses it:** Microsoft (Windows), Apple (parts of macOS/iOS), game studios, embedded device manufacturers
 
@@ -189,7 +189,7 @@ The trend over the past decade has been toward optional static typing in active 
 
 ### SQL
 
-**Used for:** Database queries, data analysis, reporting
+**Used for:** Database queries, [data analysis](/data-analysis), reporting
 **Strengths:** Declarative, standardized, universally understood for data work
 **Weaknesses:** Not a general-purpose language, vendor-specific extensions break portability
 **Who uses it:** Everyone who works with databases
@@ -213,7 +213,7 @@ People spend enormous energy debating which language is "best." The honest answe
 
 **For the long term:** Consider the language's trajectory. Is it growing or declining? Are new libraries being actively developed? Is the language well-maintained? Betting on a dying language creates technical debt.
 
-The most productive developers tend to know multiple languages and choose the right tool for each job. Learning your second and third languages is much easier than learning your first — the core concepts ([algorithms](/algorithms), [data structures](/data-structures), design patterns) transfer across languages.
+The most productive developers tend to know multiple languages and choose the right tool for each job. Learning your second and third languages is much easier than learning your first — the core concepts ([algorithms](/algorithms), [data structures](/data-structures), [design patterns](/design-patterns)) transfer across languages.
 
 ## The Future of Programming Languages
 
@@ -229,4 +229,4 @@ The history of programming languages is a story of rising abstraction — from b
 
 ## Key Takeaways
 
-Programming languages are formal notation systems that translate human intentions into machine-executable instructions. They range from low-level languages like C that operate close to hardware, to high-level languages like Python that prioritize readability and productivity. Different languages embody different programming paradigms — imperative, object-oriented, functional, declarative — and the choice of language depends on the problem, the team, and the ecosystem rather than any universal "best." With thousands of languages in existence and new ones emerging, the field continues evolving — but the fundamental challenge remains the same as in 1951: how do we tell machines what we want them to do?
+Programming languages are formal notation systems that translate human intentions into machine-executable instructions. They range from low-level languages like C that operate close to hardware, to high-level languages like Python that prioritize readability and [productivity](/productivity). Different languages embody different programming paradigms — imperative, object-oriented, functional, declarative — and the choice of language depends on the problem, the team, and the ecosystem rather than any universal "best." With thousands of languages in existence and new ones emerging, the field continues evolving — but the fundamental challenge remains the same as in 1951: how do we tell machines what we want them to do?

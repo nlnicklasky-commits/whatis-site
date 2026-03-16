@@ -39,7 +39,7 @@ faq:
 
 # What Is Aerospace Engineering?
 
-Aerospace engineering is the branch of engineering that designs, builds, and tests aircraft, spacecraft, satellites, and missiles. It splits into two main disciplines: aeronautics (vehicles that fly within Earth's atmosphere) and astronautics (vehicles that operate beyond it). If it flies or orbits, an aerospace engineer probably had a hand in making it work.
+Aerospace [engineering](/engineering) is the branch of engineering that designs, builds, and tests aircraft, spacecraft, satellites, and missiles. It splits into two main disciplines: aeronautics (vehicles that fly within Earth's atmosphere) and astronautics (vehicles that operate beyond it). If it flies or orbits, an aerospace engineer probably had a hand in making it work.
 
 ## Two Fields Under One Roof
 
@@ -49,17 +49,17 @@ The "aero" in aerospace covers a lot of ground — literally and figuratively. U
 
 Aeronautics is the older sibling. Humans have been trying to fly for centuries, but the engineering discipline really took off (sorry) after the Wright brothers' 1903 flight at Kitty Hawk. Today, aeronautical engineers design commercial airliners, military jets, helicopters, drones, and even high-altitude balloons.
 
-The core challenge? Making something heavier than air stay up there. That means wrestling with [aerodynamics](/aerodynamics) — the study of how air moves around objects — along with structural loads, propulsion efficiency, and control systems that keep a 500-ton Boeing 747 stable at 35,000 feet.
+The core challenge? Making something heavier than air stay up there. That means [wrestling](/wrestling) with [aerodynamics](/aerodynamics) — the study of how air moves around objects — along with structural loads, propulsion efficiency, and control systems that keep a 500-ton Boeing 747 stable at 35,000 feet.
 
-Modern aeronautical work extends well beyond traditional aircraft. Engineers design unmanned aerial vehicles (UAVs) for agriculture, surveillance, and delivery. They work on urban air mobility concepts — essentially flying taxis. And they push the boundaries of supersonic and hypersonic flight, trying to bring back something like the Concorde without the window-rattling sonic booms.
+Modern aeronautical work extends well beyond traditional aircraft. Engineers design unmanned aerial vehicles (UAVs) for [agriculture](/agriculture), surveillance, and delivery. They work on urban air mobility concepts — essentially flying taxis. And they push the boundaries of supersonic and hypersonic flight, trying to bring back something like the Concorde without the window-rattling sonic booms.
 
 ### Astronautics: Beyond the Atmosphere
 
 Astronautics picked up steam in the mid-20th century, driven largely by the Cold War space race between the United States and Soviet Union. Yuri Gagarin orbited Earth in 1961. Eight years later, Apollo 11 landed on the Moon. The engineering required to make those missions work was — and this is not an exaggeration — some of the most demanding problem-solving humans have ever attempted.
 
-Astronautical engineers deal with a different set of headaches than their aeronautical counterparts. There's no air in space (obviously), so aerodynamic lift is useless. Instead, everything comes down to orbital mechanics, rocket propulsion, thermal management in extreme temperatures, and keeping humans alive in an environment that's trying very hard to kill them.
+Astronautical engineers deal with a different set of headaches than their aeronautical counterparts. There's no air in space (obviously), so aerodynamic lift is useless. Instead, everything comes down to orbital mechanics, rocket propulsion, thermal [management](/management) in extreme temperatures, and keeping humans alive in an environment that's trying very hard to kill them.
 
-Today, astronautical engineering covers satellite design, space station operations, interplanetary probes, launch vehicle development, and the growing commercial space industry. Companies like SpaceX, Blue Origin, and Rocket Lab have turned what was once a government-only domain into a competitive market.
+Today, astronautical engineering covers satellite design, space station operations, interplanetary probes, launch vehicle development, and the growing commercial space industry. Companies like SpaceX, Blue Origin, and Rocket Lab have turned what was once a [government](/government)-only domain into a competitive market.
 
 ## The Core Disciplines: What Aerospace Engineers Actually Study
 
@@ -87,11 +87,11 @@ Nothing flies without thrust. Propulsion engineers design the engines that make 
 
 An aircraft has to be strong enough to survive turbulence, takeoff loads, and pressurization cycles — but light enough to actually fly. This tension between strength and weight drives the entire field of aerospace structures.
 
-Aluminum alloys dominated aircraft construction for decades, but the trend has shifted dramatically toward composites. The Boeing 787 Dreamliner is approximately 50% composite materials by weight, primarily carbon fiber reinforced polymer. These composites are stronger than steel at a fraction of the weight, but they bring their own challenges: they're expensive, hard to inspect for internal damage, and behave differently under stress than metals.
+Aluminum alloys dominated aircraft [construction](/construction) for decades, but the trend has shifted dramatically toward composites. The Boeing 787 Dreamliner is approximately 50% composite materials by weight, primarily carbon fiber reinforced polymer. These composites are stronger than steel at a fraction of the weight, but they bring their own challenges: they're expensive, hard to inspect for internal damage, and behave differently under stress than metals.
 
 [Materials science](/materials-science) in aerospace also involves exotic alloys — nickel-based superalloys for turbine blades, titanium for high-stress structural components, and increasingly, ceramic matrix composites that can withstand the extreme temperatures inside next-generation engines.
 
-For spacecraft, materials face even harsher conditions. Thermal cycling between -250 degrees Fahrenheit in shadow and +250 degrees in sunlight. Micrometeorite impacts. Radiation degradation. The International Space Station's exterior has been peppered with thousands of tiny impacts over its 25+ years in orbit.
+For spacecraft, materials face even harsher conditions. Thermal [cycling](/cycling) between -250 degrees Fahrenheit in shadow and +250 degrees in sunlight. Micrometeorite impacts. Radiation degradation. The International Space Station's exterior has been peppered with thousands of tiny impacts over its 25+ years in orbit.
 
 ### Flight Dynamics and Control
 
@@ -99,7 +99,7 @@ An airplane doesn't just need to fly — it needs to fly where the pilot wants i
 
 Modern fly-by-wire systems replaced mechanical cables with electronic signals decades ago. The pilot moves the stick, a computer interprets the input, and actuators move the control surfaces. But here's the thing most people don't realize: many modern aircraft are inherently unstable. The F-16, for example, is deliberately designed to be aerodynamically unstable because instability makes the jet more maneuverable. The flight control computer makes thousands of corrections per second to keep it flying straight. Without the computer, the pilot couldn't keep the plane in the air for more than a few seconds.
 
-Control theory — the mathematics behind these systems — overlaps heavily with [robotics](/robotics) and autonomous systems. The autopilot on a commercial airliner is essentially a robot flying the plane, and the algorithms share DNA with self-driving cars and industrial automation.
+[Control theory](/control-theory) — the mathematics behind these systems — overlaps heavily with [robotics](/robotics) and autonomous systems. The autopilot on a commercial airliner is essentially a robot flying the plane, and the algorithms share DNA with self-driving cars and industrial automation.
 
 ### Orbital Mechanics and Astrodynamics
 
@@ -127,7 +127,7 @@ Aerospace engineering's timeline reads like a highlight reel of human ambition.
 
 **2012:** SpaceX's Dragon becomes the first commercial spacecraft to dock with the International Space Station.
 
-**2020:** SpaceX achieves routine booster landings and reuse, fundamentally changing the economics of space access. The cost per kilogram to orbit dropped from roughly $54,500 (Space Shuttle) to under $2,720 (Falcon 9).
+**2020:** SpaceX achieves routine booster landings and reuse, fundamentally changing the [economics](/economics) of space access. The cost per kilogram to orbit dropped from roughly $54,500 (Space Shuttle) to under $2,720 (Falcon 9).
 
 **2024:** NASA's Artemis program aims to return humans to the lunar surface, this time with plans for a sustained presence.
 
@@ -141,7 +141,7 @@ The Hollywood version of aerospace engineering is all rocket launches and dramat
 
 Most aerospace engineers spend significant time designing components or systems using CAD (computer-aided design) software and analyzing their performance through simulation. A structural engineer might model how a wing spar handles fatigue over 30 years of service. A propulsion engineer might simulate combustion dynamics inside a scramjet engine. An orbital mechanics specialist might optimize a satellite constellation's coverage pattern.
 
-The design process in aerospace is iterative and highly regulated. Aviation products must meet certification standards from agencies like the FAA (Federal Aviation Administration) in the United States or EASA (European Union Aviation Safety Agency) in Europe. This means extensive documentation, testing, and review at every stage.
+The design process in aerospace is iterative and highly regulated. [Aviation](/aviation) products must meet certification standards from agencies like the FAA (Federal Aviation Administration) in the United States or EASA (European Union Aviation Safety Agency) in Europe. This means extensive documentation, testing, and review at every stage.
 
 ### Testing
 
@@ -151,7 +151,7 @@ Flight testing is where designs meet reality. Test pilots and flight test engine
 
 ### Systems Integration
 
-Modern aerospace vehicles are enormously complex systems. A commercial airliner has millions of parts, hundreds of miles of wiring, and dozens of interconnected subsystems — hydraulics, avionics, environmental control, fuel, electrical power, and more. Making all of these work together reliably is [systems engineering](/systems-engineering), and it's one of the most challenging aspects of the field.
+Modern aerospace vehicles are enormously complex systems. A commercial airliner has millions of parts, hundreds of miles of wiring, and dozens of interconnected subsystems — [hydraulics](/hydraulics), avionics, environmental control, fuel, electrical power, and more. Making all of these work together reliably is [systems engineering](/systems-engineering), and it's one of the most challenging aspects of the field.
 
 The James Webb Space Telescope is a perfect example. It involved over 300 single-point failures — any one of which could have ended the $10 billion mission. Every component had to work, in sequence, with no opportunity for repair. That kind of integration work requires extraordinary attention to detail and rigorous testing protocols.
 
@@ -169,7 +169,7 @@ Airbus and Boeing dominate commercial aircraft manufacturing, but the supply cha
 
 ### Commercial Space
 
-This is where the energy is right now. SpaceX employs over 13,000 people. Blue Origin, Rocket Lab, Relativity Space, and dozens of other companies are hiring aggressively. The global space economy was estimated at approximately $570 billion in 2024, with growth projected to accelerate as satellite internet, space tourism, and lunar missions expand.
+This is where the energy is right now. SpaceX employs over 13,000 people. Blue Origin, Rocket Lab, [Relativity](/relativity) Space, and dozens of other companies are hiring aggressively. The global space economy was estimated at approximately $570 billion in 2024, with growth projected to accelerate as satellite internet, space tourism, and lunar missions expand.
 
 ### Government and Research
 
@@ -219,7 +219,7 @@ If you're considering this field, here's the practical reality.
 
 ### Education
 
-A bachelor's degree in aerospace engineering is the standard entry point. Strong programs exist at schools like MIT, Georgia Tech, Purdue, the University of Michigan, Stanford, Caltech, and many others worldwide. The curriculum is math-intensive: [calculus](/calculus), [differential equations](/differential-equations), linear algebra, numerical methods, and statistics form the foundation. On top of that, you'll study [aerodynamics](/aerodynamics), propulsion, structures, control systems, and orbital mechanics.
+A bachelor's degree in aerospace engineering is the standard entry point. Strong programs exist at schools like MIT, Georgia Tech, Purdue, the University of Michigan, Stanford, Caltech, and many others worldwide. The curriculum is math-intensive: [calculus](/calculus), [differential equations](/differential-equations), [linear algebra](/linear-algebra), numerical methods, and [statistics](/statistics) form the foundation. On top of that, you'll study [aerodynamics](/aerodynamics), propulsion, structures, control systems, and orbital mechanics.
 
 A master's degree opens doors to more specialized roles and research positions. A PhD is typically needed for academic research or very specialized R&D positions. Many engineers pursue graduate degrees part-time while working — defense contractors and NASA often provide tuition assistance.
 
@@ -250,8 +250,8 @@ Aerospace engineering remains one of the most demanding technical disciplines �
 
 ## Key Takeaways
 
-Aerospace engineering encompasses the design, development, testing, and production of aircraft, spacecraft, satellites, and missiles. It divides into aeronautics (atmospheric flight) and astronautics (space operations), each with distinct challenges but shared fundamental principles in physics, mathematics, and engineering.
+Aerospace engineering encompasses the design, development, testing, and production of aircraft, spacecraft, satellites, and missiles. It divides into aeronautics (atmospheric flight) and astronautics (space operations), each with distinct challenges but shared fundamental principles in physics, [mathematics](/mathematics), and engineering.
 
-The field sits at the intersection of [aerodynamics](/aerodynamics), propulsion, structures, materials, control systems, and orbital mechanics. It demands rigorous education and strong analytical skills, but rewards practitioners with some of the most consequential engineering work available — building machines that fly, orbit, and explore beyond our planet.
+The field sits at the intersection of [aerodynamics](/aerodynamics), propulsion, structures, materials, control systems, and orbital mechanics. It demands rigorous [education](/education) and strong analytical skills, but rewards practitioners with some of the most consequential engineering work available — building machines that fly, orbit, and explore beyond our planet.
 
 Whether you're drawn to the commercial aviation industry's push toward sustainability, the commercial space sector's rapid growth, or the defense world's advanced technology programs, aerospace engineering offers career paths that are both financially rewarding and genuinely meaningful. The problems are hard. The stakes are real. And the work matters.

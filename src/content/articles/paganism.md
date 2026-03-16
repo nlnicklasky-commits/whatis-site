@@ -49,7 +49,7 @@ The modern reclaiming of "pagan" as a positive self-identification didn't happen
 
 ## Historical Paganism: What Came Before
 
-Before Christianity, Judaism, and Islam became dominant in the Western world, virtually everyone was "pagan" by definition. Understanding what ancient pagan religions actually looked like — rather than the distorted picture created by centuries of Christian polemic — helps explain what modern pagans find inspiring in those traditions.
+Before Christianity, Judaism, and [Islam](/islam) became dominant in the Western world, virtually everyone was "pagan" by definition. Understanding what ancient pagan religions actually looked like — rather than the distorted picture created by centuries of Christian polemic — helps explain what modern pagans find inspiring in those traditions.
 
 ### Greco-Roman Religion
 
@@ -63,7 +63,7 @@ Temples were the gods' houses, not gathering places for congregations. Sacrifice
 
 The pre-Christian religions of northern Europe are harder to reconstruct because these cultures left fewer written records. What we know comes from later (often biased) Christian writers, archaeological evidence, and comparative analysis.
 
-Celtic religion appears to have been animistic and polytheistic, with a strong emphasis on natural features — sacred groves, springs, rivers, and hills. The druids (a priestly class) maintained oral traditions and performed rituals at seasonal turning points. The Romans described druid ceremonies with a mixture of fascination and horror, though how much of their reporting was accurate vs. propaganda remains debated.
+Celtic [religion](/religion) appears to have been animistic and polytheistic, with a strong emphasis on natural features — sacred groves, [springs](/springs), rivers, and hills. The druids (a priestly class) maintained oral traditions and performed rituals at seasonal turning points. The Romans described druid ceremonies with a mixture of fascination and horror, though how much of their reporting was accurate vs. propaganda remains debated.
 
 Germanic and Norse religion — the source material for modern Heathenry — centered on a pantheon including Odin, Thor, Freya, and dozens of other deities. Religious practice involved blot (sacrifice), sumbel (ritual drinking), and seasonal festivals. The Eddas and sagas, written down in 13th-century Iceland (centuries after Christianization), preserve [mythology](/mythology) and some ritual descriptions, though filtered through Christian-era sensibilities.
 
@@ -79,7 +79,7 @@ Modern paganism — neopaganism — began in the early-to-mid 20th century, thou
 
 ### Wicca
 
-Wicca is the largest and best-known modern pagan tradition. Gerald Gardner, a retired British civil servant, published *Witchcraft Today* in 1954, claiming to have been initiated into a surviving coven of witches practicing a pre-Christian nature religion. Whether Gardner discovered a genuine survival or created a new religion from various sources remains debated — most scholars lean toward the latter, with Gardner drawing on ceremonial magic, [Freemasonry](/freemasonry), folklore, and the writings of Aleister Crowley.
+Wicca is the largest and best-known modern pagan tradition. Gerald Gardner, a retired British civil servant, published *Witchcraft Today* in 1954, claiming to have been initiated into a surviving coven of witches practicing a pre-Christian nature religion. Whether Gardner discovered a genuine survival or created a new religion from various sources remains debated — most scholars lean toward the latter, with Gardner [drawing](/drawing) on ceremonial magic, [Freemasonry](/freemasonry), [folklore](/folklore), and the writings of Aleister Crowley.
 
 Regardless of its origins, Wicca spread rapidly. Key beliefs include:
 
@@ -103,7 +103,7 @@ Contemporary Druid organizations like the Order of Bards, Ovates and Druids (OBO
 
 - Reverence for the natural world and ecological awareness
 - Celebration of Celtic festivals and seasonal cycles
-- Creative expression (the "bardic" tradition of poetry, music, and [storytelling](/storytelling))
+- Creative expression (the "bardic" tradition of [poetry](/poetry), music, and [storytelling](/storytelling))
 - Personal spiritual development through meditation, ritual, and study
 - Scholarship about [Celtic history](/celtic-history) and mythology
 
@@ -195,7 +195,7 @@ Several factors drive this growth:
 
 **Disillusionment with institutional religion**: People leaving organized Christianity or other monotheistic traditions sometimes find pagan spirituality more compatible with their values, especially regarding gender equality, LGBTQ+ inclusion, and environmental ethics.
 
-**Environmental awareness**: As [ecology](/ecology) and climate change become more prominent concerns, spiritualities that center nature gain appeal.
+**Environmental awareness**: As [ecology](/ecology) and [climate change](/climate-change) become more prominent concerns, spiritualities that center nature gain appeal.
 
 **Feminism**: Goddess-centered traditions offer women spiritual roles and imagery often absent from male-dominated monotheistic religions.
 
@@ -207,7 +207,7 @@ Pagans still face discrimination and misunderstanding. Employers, family members
 
 ## The Academic Study of Paganism
 
-Scholars study modern paganism through [anthropology](/anthropology), religious studies, sociology, and history. Key academic works include Ronald Hutton's *The Triumph of the Moon* (a definitive history of Wicca's origins), Graham Harvey's *Listening People, Speaking Earth* (a survey of contemporary paganism), and Michael York's *Pagan Theology* (a systematic exploration of pagan philosophical positions).
+Scholars study modern paganism through [anthropology](/anthropology), religious studies, [sociology](/sociology), and history. Key academic works include Ronald Hutton's *The Triumph of the Moon* (a definitive history of Wicca's origins), Graham Harvey's *Listening People, Speaking Earth* (a survey of contemporary paganism), and Michael York's *Pagan [Theology](/theology)* (a systematic exploration of pagan philosophical positions).
 
 The academic consensus is that modern paganism is a genuine religious movement with real spiritual content — not merely "playing pretend" or a political statement — while acknowledging that its historical claims are often exaggerated or unsupported. The "ancient, unbroken tradition" narrative that early Wiccans promoted has been largely abandoned in favor of a more honest assessment: modern paganism draws inspiration from ancient sources but is substantially a new creation.
 

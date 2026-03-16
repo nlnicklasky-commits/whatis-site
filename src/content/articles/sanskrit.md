@@ -31,7 +31,7 @@ faq:
 
 # What Is Sanskrit?
 
-Sanskrit is an ancient language of the Indian subcontinent, belonging to the Indo-Aryan branch of the Indo-European language family. It's the language of the Vedas (Hinduism's oldest sacred texts), the Mahabharata, the Ramayana, classical Indian [philosophy](/philosophy), and an enormous body of scientific, mathematical, and literary works spanning over 3,000 years. For [linguistics](/linguistics), Sanskrit is one of the most important languages ever studied — its systematic grammar, documented by the scholar Panini around the 4th century BCE, was so precise and sophisticated that it influenced modern [computational linguistics](/computational-linguistics) over two millennia later.
+Sanskrit is an ancient language of the Indian subcontinent, belonging to the Indo-Aryan branch of the Indo-European language family. It's the language of the Vedas ([Hinduism](/hinduism)'s oldest sacred texts), the Mahabharata, the Ramayana, classical Indian [philosophy](/philosophy), and an enormous body of scientific, mathematical, and literary works spanning over 3,000 years. For [linguistics](/linguistics), Sanskrit is one of the most important languages ever studied — its systematic [grammar](/grammar), documented by the scholar Panini around the 4th century BCE, was so precise and sophisticated that it influenced modern [computational linguistics](/computational-linguistics) over two millennia later.
 
 ## Vedic and Classical
 
@@ -41,13 +41,13 @@ Sanskrit exists in two major forms, and the distinction matters.
 
 **Classical Sanskrit** is the standardized form codified by Panini in his Ashtadhyayi (Eight Chapters), a grammar containing approximately 4,000 rules. Panini's grammar is one of the greatest intellectual achievements in human history — a complete, formal description of a language using something remarkably close to a formal notation system, anticipating concepts in modern [computer science](/computer-science) by 2,400 years. Classical Sanskrit was the literary, scientific, and philosophical language of India for over two millennia, roughly the way Latin functioned in medieval Europe.
 
-The word "Sanskrit" (samskrita) means "refined" or "perfected" — distinguishing it from Prakrit, the "natural" or everyday spoken languages. Sanskrit was always, to some extent, a deliberately cultivated language of learning and religion, existing alongside the Prakrits that people actually spoke.
+The word "Sanskrit" (samskrita) means "refined" or "perfected" — distinguishing it from Prakrit, the "natural" or everyday spoken languages. Sanskrit was always, to some extent, a deliberately cultivated language of learning and [religion](/religion), existing alongside the Prakrits that people actually spoke.
 
 ## The Grammar
 
 Sanskrit grammar is elaborate, systematic, and — for language learners — formidable.
 
-**The sound system** includes about 48 distinct phonemes, organized by point and manner of articulation with a precision that Western linguists didn't achieve until the 19th century. Sanskrit distinguishes between aspirated and unaspirated consonants (like "k" vs. "kh"), dental and retroflex consonants (tongue against teeth vs. tongue curled back), and has a set of nasal consonants that match each stop position. The Devanagari script (the most common writing system for Sanskrit) is arranged according to this phonetic organization — it's not random like the English alphabet.
+**The sound system** includes about 48 distinct phonemes, organized by point and manner of articulation with a precision that Western linguists didn't achieve until the 19th century. Sanskrit distinguishes between aspirated and unaspirated consonants (like "k" vs. "kh"), dental and retroflex consonants (tongue against teeth vs. tongue curled back), and has a set of nasal consonants that match each stop position. The Devanagari script (the most common [writing](/writing) system for Sanskrit) is arranged according to this phonetic organization — it's not random like the English alphabet.
 
 **Eight grammatical cases.** Nouns change form depending on their function: nominative (subject), accusative (object), instrumental (by means of), dative (to/for), ablative (from), genitive (of/belonging to), locative (in/at), and vocative (direct address). Each case has three numbers — singular, dual (exactly two), and plural. That's 24 possible forms for a single noun.
 
@@ -55,15 +55,15 @@ Sanskrit grammar is elaborate, systematic, and — for language learners — for
 
 **Sandhi** — the systematic sound changes that occur when words or morphemes combine. Sanskrit has extensive rules governing how sounds change at word boundaries. The word "sandhi" itself has entered English linguistic terminology to describe this phenomenon in any language.
 
-**Compound words.** Sanskrit allows enormously long compound words — strings of nouns, adjectives, and other elements joined together without spaces. A famous verse from the Panchatantra contains a compound of 27 words joined as one. This feature makes Sanskrit prose dense and challenging to parse but allows extreme precision.
+**Compound words.** Sanskrit allows enormously long compound words — strings of nouns, adjectives, and other elements joined together without spaces. A famous verse from the Panchatantra contains a compound of 27 words joined as one. This feature makes Sanskrit [prose](/prose) dense and challenging to parse but allows extreme precision.
 
 ## The [Literature](/literature)
 
 Sanskrit's literary output is staggering in both quantity and quality.
 
-**The epics.** The Mahabharata (about 200,000 verse lines — roughly 10 times the length of the Iliad and Odyssey combined) tells the story of a dynastic war between the Pandavas and Kauravas. It contains the Bhagavad Gita, one of the most influential philosophical texts ever written. The Ramayana (about 24,000 verses) tells the story of Prince Rama's quest to rescue his wife Sita. Both epics are not just stories — they're encyclopedias of Indian philosophy, ethics, politics, and [cosmology](/cosmology).
+**The epics.** The Mahabharata (about 200,000 verse lines — roughly 10 times the length of the Iliad and Odyssey combined) tells the story of a dynastic war between the Pandavas and Kauravas. It contains the Bhagavad Gita, one of the most influential philosophical texts ever written. The Ramayana (about 24,000 verses) tells the story of Prince Rama's quest to rescue his wife Sita. Both epics are not just stories — they're encyclopedias of Indian philosophy, [ethics](/ethics), [politics](/politics), and [cosmology](/cosmology).
 
-**Classical poetry and drama.** Kalidasa (roughly 4th-5th century CE), often called the Shakespeare of Sanskrit, wrote plays (*Shakuntala*, *Vikramorvashiyam*) and poems of extraordinary beauty and emotional depth. His work was among the first Sanskrit literature translated into European languages, astonishing Goethe and other Western writers.
+**Classical [poetry](/poetry) and [drama](/drama).** Kalidasa (roughly 4th-5th century CE), often called the Shakespeare of Sanskrit, wrote plays (*Shakuntala*, *Vikramorvashiyam*) and poems of extraordinary beauty and emotional depth. His work was among the first Sanskrit literature translated into European languages, astonishing Goethe and other Western writers.
 
 **Scientific and philosophical texts.** Aryabhata's mathematical works (5th century CE), Sushruta's surgical treatise (one of the world's earliest medical textbooks), Chanakya's Arthashastra (a treatise on statecraft), and the vast philosophical literature of the six schools of Hindu philosophy — all in Sanskrit.
 

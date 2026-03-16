@@ -37,7 +37,7 @@ faq:
 
 # What Is Sikhism?
 
-Sikhism is a monotheistic religion founded in the Punjab region of South Asia by Guru Nanak Dev Ji in the late 15th century (1469-1539 CE). With approximately 25-30 million adherents worldwide, it is the fifth-largest organized religion. Sikhism teaches devotion to one formless God, the equality of all people, honest living through productive work, and selfless service to others. Its scripture — the Guru Granth Sahib — holds the unique status of being considered a living Guru, the final and eternal spiritual authority for all Sikhs.
+Sikhism is a monotheistic [religion](/religion) founded in the Punjab region of South Asia by Guru Nanak Dev Ji in the late 15th century (1469-1539 CE). With approximately 25-30 million adherents worldwide, it is the fifth-largest organized religion. Sikhism teaches devotion to one formless God, the equality of all people, honest living through productive work, and selfless service to others. Its scripture — the Guru Granth Sahib — holds the unique status of being considered a living Guru, the final and eternal spiritual authority for all Sikhs.
 
 ## Guru Nanak: The Founder's Story
 
@@ -47,11 +47,11 @@ The key moment came when Nanak was about 30 years old. He went to bathe in a riv
 
 Nanak then embarked on four great journeys (*udasis*) that lasted approximately 24 years and covered an astonishing amount of ground — across India, to Sri Lanka, to Tibet, to Mecca, and to Baghdad, according to Sikh tradition. At each stop, he engaged with religious leaders, challenged empty ritual, and taught through poetry and song. He was accompanied by Mardana, a Muslim musician who played the rabab while Nanak sang his compositions — a Hindu and a Muslim traveling together across a divided world, making music.
 
-What emerged wasn't a sect of Hinduism or a compromise between Hindu and Muslim beliefs. It was something genuinely new: a distinct spiritual path with its own theology, its own scripture, and its own institutions. Nanak settled in Kartarpur (in present-day Pakistan) and established the first Sikh community — centered on communal worship, shared meals, and productive work.
+What emerged wasn't a sect of [Hinduism](/hinduism) or a compromise between Hindu and Muslim beliefs. It was something genuinely new: a distinct spiritual path with its own [theology](/theology), its own scripture, and its own institutions. Nanak settled in Kartarpur (in present-day Pakistan) and established the first Sikh community — centered on communal worship, shared meals, and productive work.
 
 ### What Nanak Actually Taught
 
-Nanak's teaching can be distilled to a few core principles, though the nuance in his poetry (preserved in the Guru Granth Sahib) resists simple summarization.
+Nanak's [teaching](/teaching) can be distilled to a few core principles, though the nuance in his poetry (preserved in the Guru Granth Sahib) resists simple summarization.
 
 **Ik Onkar** — there is one God. Not a Hindu god or a Muslim god, but one universal creative force that transcends all human categories. This God is formless (*nirankar*), timeless (*akal*), and self-existent (*saibhang*). God is not separate from creation but pervades it — present in every atom, every being, every moment.
 
@@ -69,7 +69,7 @@ Sikhism developed through a succession of ten human Gurus spanning from 1469 to 
 
 **Guru Nanak Dev Ji (1469-1539)** — Founded the faith. Composed the foundational hymns. Established the practices of sangat (congregation), pangat (eating together), and kirtan (devotional singing).
 
-**Guru Angad Dev Ji (1504-1552)** — Standardized the Gurmukhi script (used to write Punjabi and the Sikh scriptures). Promoted physical fitness and [wrestling](/wrestling) (*mall akhara*) alongside spiritual practice — the idea that body and spirit are both gifts to be developed.
+**Guru Angad Dev Ji (1504-1552)** — Standardized the Gurmukhi script (used to write Punjabi and the Sikh scriptures). Promoted physical [fitness](/fitness) and [wrestling](/wrestling) (*mall akhara*) alongside spiritual practice — the idea that body and spirit are both gifts to be developed.
 
 **Guru Amar Das Ji (1479-1574)** — Institutionalized the langar, requiring even Emperor Akbar to sit on the floor and eat with common people before receiving an audience. Fought against the practice of sati (widow immolation) and advocated for women's rights to remarry.
 
@@ -79,7 +79,7 @@ Sikhism developed through a succession of ten human Gurus spanning from 1469 to 
 
 **Guru Hargobind Ji (1595-1644)** — Introduced the concept of *miri-piri*: that spiritual authority (*piri*) and temporal/political authority (*miri*) are inseparable. He wore two swords representing these twin authorities. This was a turning point — the Sikh community began developing a political and military dimension alongside its spiritual core.
 
-**Guru Har Rai Ji (1630-1661)** — Maintained a large cavalry and emphasized environmental stewardship, reportedly running an extensive [herbal medicine](/herbal-medicine) dispensary and animal sanctuary.
+**Guru Har Rai Ji (1630-1661)** — Maintained a large cavalry and emphasized environmental stewardship, reportedly [running](/running) an extensive [herbal medicine](/herbal-medicine) dispensary and animal sanctuary.
 
 **Guru Har Krishan Ji (1656-1664)** — Became Guru at age five and died of smallpox at eight, after reportedly tending to Delhi's sick during an epidemic. The youngest Guru, revered for his compassion.
 
@@ -109,7 +109,7 @@ The Guru then did something unprecedented: he asked the Panj Pyare to initiate *
 
 Initiated Khalsa Sikhs observe the **Five Ks** — five articles of faith that serve as visible markers of identity and commitment:
 
-**Kesh** (uncut hair) — Sikhs do not cut their hair, maintaining it in its natural state as a sign of living in harmony with God's will. Men (and many women) cover their hair with a turban (*dastar*).
+**Kesh** (uncut hair) — Sikhs do not cut their hair, maintaining it in its natural state as a sign of living in [harmony](/harmony) with God's will. Men (and many women) cover their hair with a turban (*dastar*).
 
 **Kangha** (wooden comb) — A small comb worn in the hair, representing cleanliness and order. It's a practical tool but also a symbol: maintain yourself, keep your life organized.
 
@@ -169,7 +169,7 @@ Worship services (*diwan*) center on kirtan — the singing of hymns from the Gu
 
 Every Gurdwara operates a langar — a free community kitchen that serves meals to anyone who walks in, regardless of religion, caste, wealth, or social status. Everyone sits together on the floor (*pangat*), eating the same vegetarian food.
 
-The Golden Temple's langar in Amritsar is the world's largest free kitchen, serving 50,000-100,000 meals daily. It operates 24 hours a day, 365 days a year, run almost entirely by volunteers. The [logistics](/logistics) are remarkable: tons of flour, vegetables, and dal are prepared daily in massive pots, with an assembly line of volunteers cooking, serving, and cleaning.
+The Golden Temple's langar in Amritsar is the world's largest free kitchen, serving 50,000-100,000 meals daily. It operates 24 hours a day, 365 days a year, run almost entirely by volunteers. The [logistics](/logistics) are remarkable: tons of flour, vegetables, and dal are prepared daily in massive pots, with an assembly line of volunteers [cooking](/cooking), serving, and cleaning.
 
 Langar isn't charity — it's equality made physical. When a billionaire and a homeless person sit on the same floor eating the same food, abstract ideals about equality become concrete experience. This was Guru Nanak's genius: don't just preach equality, practice it at every meal.
 

@@ -60,7 +60,7 @@ Key questions driving current research:
 
 ### Planetary Science
 
-Planetary science studies the planets, moons, asteroids, and comets in our solar system — their geology, atmospheres, magnetic fields, and potential for harboring life.
+Planetary science studies the planets, moons, asteroids, and comets in our solar system — their [geology](/geology), atmospheres, magnetic fields, and potential for harboring life.
 
 This is the branch of space science with the most direct contact with its subjects. Robotic missions have landed on Mars (eight successful landers and rovers), Venus (multiple Soviet Venera missions in the 1970s-80s), Saturn's moon Titan (the Huygens probe in 2005), and even a comet (Rosetta's Philae lander in 2014). Orbiters have mapped every planet in the solar system plus several moons and asteroids.
 
@@ -78,13 +78,13 @@ The most famous solar storm in recorded history — the Carrington Event of 1859
 
 Astrobiology asks arguably the biggest question in all of science: is there life beyond Earth?
 
-The field combines biology, [chemistry](/chemistry), geology, and planetary science to understand where life might arise, what forms it might take, and how to detect it. It's guided by the principle of "follow the water" — everywhere we find liquid water on Earth, we find life. So finding liquid water elsewhere is a strong hint.
+The field combines [biology](/biology), [chemistry](/chemistry), geology, and planetary science to understand where life might arise, what forms it might take, and how to detect it. It's guided by the principle of "follow the water" — everywhere we find liquid water on Earth, we find life. So finding liquid water elsewhere is a strong hint.
 
 Current astrobiology research focuses on:
 
 - Analyzing Martian soil and rock for biosignatures (evidence of past life)
 - Characterizing exoplanet atmospheres for gases that might indicate biological activity (oxygen, methane, phosphine)
-- Studying extremophile organisms on Earth that survive in conditions similar to other worlds — acid hot springs, deep ocean vents, Antarctic ice
+- Studying extremophile organisms on Earth that survive in conditions similar to other worlds — acid hot [springs](/springs), deep ocean vents, Antarctic ice
 - Understanding prebiotic chemistry — how non-living chemicals can organize into self-replicating systems
 
 No confirmed extraterrestrial life has been found. But the number of potentially habitable locations — both within our solar system and among the billions of exoplanets in the galaxy — makes the question more alive than ever.
@@ -117,7 +117,7 @@ The 21st century opened entirely new windows on the universe:
 
 **Neutrinos** are nearly massless particles produced in nuclear reactions. The IceCube Neutrino Observatory at the South Pole uses a cubic kilometer of Antarctic ice as a detector, spotting the rare interactions between cosmic neutrinos and water molecules. In 2017, IceCube traced a high-energy neutrino to a blazar — an active galaxy with a jet pointed at Earth — opening the door to neutrino astronomy.
 
-**Cosmic rays** — charged particles from deep space — have been studied since Victor Hess's balloon flights in 1912. The highest-energy cosmic rays carry as much energy as a well-thrown baseball, concentrated in a single proton. How anything in the universe accelerates particles to such energies remains one of the great mysteries.
+**Cosmic rays** — charged particles from deep space — have been studied since Victor Hess's balloon flights in 1912. The highest-energy cosmic rays carry as much energy as a well-thrown [baseball](/baseball), concentrated in a single proton. How anything in the universe accelerates particles to such energies remains one of the great mysteries.
 
 ## Robotic Exploration
 
@@ -155,7 +155,7 @@ Launched in 1990 (with a famously flawed mirror corrected in 1993), Hubble has b
 
 ### James Webb Space Telescope
 
-JWST is Hubble's successor, optimized for infrared rather than visible light. With a 6.5-meter gold-coated mirror (compared to Hubble's 2.4 meters) and a sunshield the size of a tennis court, it operates at the second Lagrange point (L2), 1.5 million kilometers from Earth.
+JWST is Hubble's successor, optimized for infrared rather than visible light. With a 6.5-meter gold-coated mirror (compared to Hubble's 2.4 meters) and a sunshield the size of a [tennis](/tennis) court, it operates at the second Lagrange point (L2), 1.5 million kilometers from Earth.
 
 In its first years of operation, JWST has already revealed galaxies that formed within 300 million years of the Big Bang — earlier than current models predicted — and directly imaged exoplanet atmospheres, detecting carbon dioxide, methane, and water vapor. It's expected to operate for at least 20 years, possibly longer.
 

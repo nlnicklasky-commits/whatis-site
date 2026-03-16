@@ -42,7 +42,7 @@ Here's the strange part: the Byzantines never called themselves "Byzantine." The
 
 The story begins with Emperor Constantine I, who made two decisions that changed everything. First, in 313 CE, he legalized [Christianity](/christianity) throughout the Roman Empire. Second, in 330 CE, he established a new imperial capital at the ancient Greek city of Byzantion, renaming it Constantinople — "the city of Constantine."
 
-The location was brilliant. Constantinople sat on a peninsula where Europe meets Asia, controlling the strait between the Mediterranean and the Black Sea. It was surrounded by water on three sides, making it extraordinarily defensible. And it sat at the crossroads of trade routes connecting Europe, Asia, and Africa.
+The location was brilliant. Constantinople sat on a peninsula where Europe meets Asia, controlling the strait between the Mediterranean and the Black Sea. It was surrounded by water on three sides, making it extraordinarily defensible. And it sat at the crossroads of [trade](/trade) routes connecting Europe, Asia, and Africa.
 
 When the Western Roman Empire collapsed in 476 CE — overrun by Germanic tribes, hollowed out by economic decline — the Eastern half kept going. And going. And going. For nearly a thousand more years.
 
@@ -56,11 +56,11 @@ His general Belisarius reconquered North Africa from the Vandals, Italy from the
 
 Justinian's more lasting achievements were cultural and legal. He commissioned the Hagia Sophia, completed in 537 CE — a building so architecturally audacious that it remained the world's largest cathedral for nearly a thousand years. Its massive dome seemed to float above the interior, and contemporaries described it as heaven brought to earth.
 
-Even more significant was Justinian's codification of Roman law. The Corpus Juris Civilis organized centuries of Roman legal precedent into a systematic code. This work preserved Roman legal thinking and later became the foundation for [civil law](/civil-law) systems across continental Europe. If you've ever studied [contract law](/contract-law) or [property law](/property-law) in a civil law country, you're studying Justinian's legacy.
+Even more significant was Justinian's codification of [Roman law](/roman-law). The Corpus Juris Civilis organized centuries of Roman legal precedent into a systematic code. This work preserved Roman legal thinking and later became the foundation for [civil law](/civil-law) systems across continental Europe. If you've ever studied [contract law](/contract-law) or [property law](/property-law) in a civil law country, you're studying Justinian's legacy.
 
 ## Religion, Art, and Identity
 
-You cannot understand Byzantine civilization without understanding Orthodox Christianity. Religion wasn't a private matter or a weekend activity — it permeated everything. Politics, art, [education](/education), daily life, foreign relations — all were shaped by religious belief and institutional church power.
+You cannot understand Byzantine civilization without understanding Orthodox Christianity. [Religion](/religion) wasn't a private matter or a weekend activity — it permeated everything. [Politics](/politics), art, [education](/education), daily life, foreign relations — all were shaped by religious belief and institutional church power.
 
 The iconoclast controversy (726–843 CE) demonstrates this perfectly. For over a century, the empire tore itself apart over a seemingly simple question: should Christians use religious images (icons) in worship? Iconoclasts said no — icons were idol worship. Iconophiles said yes — images were a legitimate way to honor the divine. Emperors, patriarchs, monks, and ordinary citizens fought bitterly over this question. Thousands died. The eventual victory of the iconophiles shaped Orthodox Christian practice permanently.
 

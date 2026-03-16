@@ -35,15 +35,15 @@ faq:
 
 # What Is Petroleum Engineering?
 
-Petroleum engineering is the branch of [engineering](/engineering) focused on the exploration, extraction, and production of crude oil and natural gas from underground reservoirs. It combines principles from [geology](/geology), [geophysics](/geophysics), [chemical engineering](/chemical-engineering), and mechanical engineering to find hydrocarbons, drill wells to reach them, and bring them to the surface efficiently and safely.
+Petroleum engineering is the branch of [engineering](/engineering) focused on the exploration, extraction, and production of crude oil and natural gas from underground reservoirs. It combines principles from [geology](/geology), [geophysics](/geophysics), [chemical engineering](/chemical-engineering), and [mechanical engineering](/mechanical-engineering) to find hydrocarbons, drill wells to reach them, and bring them to the surface efficiently and safely.
 
 ## Why It Still Matters
 
-Let's address the elephant in the room. With climate concern and renewable energy expansion, talking about petroleum engineering might seem backward-looking. But here's the reality: oil and gas still supply about 55% of the world's primary energy as of 2025. Even under the most aggressive decarbonization scenarios, petroleum will remain a significant energy source for decades. The International Energy Agency's Net Zero by 2050 scenario — the most ambitious widely cited pathway — still projects oil demand of about 24 million barrels per day in 2050, down from roughly 100 million barrels per day today but far from zero.
+Let's address the elephant in the room. With climate concern and [renewable energy](/renewable-energy) expansion, talking about petroleum engineering might seem backward-looking. But here's the reality: oil and gas still supply about 55% of the world's primary energy as of 2025. Even under the most aggressive decarbonization scenarios, petroleum will remain a significant energy source for decades. The International Energy Agency's Net Zero by 2050 scenario — the most ambitious widely cited pathway — still projects oil demand of about 24 million barrels per day in 2050, down from roughly 100 million barrels per day today but far from zero.
 
 Somebody has to produce that oil and gas as safely, efficiently, and cleanly as possible. That's what petroleum engineers do. And increasingly, they're applying their skills to adjacent fields: geothermal energy production, carbon capture and storage, hydrogen infrastructure, and underground energy storage.
 
-Understanding petroleum engineering matters whether you support or oppose fossil fuel use. The technology shapes global [economics](/economics), geopolitics, and environmental outcomes in ways that affect everyone.
+Understanding petroleum engineering matters whether you support or oppose fossil fuel use. The technology shapes global [economics](/economics), [geopolitics](/geopolitics), and environmental outcomes in ways that affect everyone.
 
 ## How Oil and Gas Form
 
@@ -57,11 +57,11 @@ Finding these reservoirs is petroleum engineering's first challenge. Understandi
 
 ## Exploration: Finding the Oil
 
-Before you can drill, you need to know where to drill. Exploration combines [geology](/geology), [geophysics](/geophysics), and increasingly sophisticated data analysis to identify promising underground structures.
+Before you can drill, you need to know where to drill. Exploration combines [geology](/geology), [geophysics](/geophysics), and increasingly sophisticated [data analysis](/data-analysis) to identify promising underground structures.
 
 ### Seismic Surveys
 
-The primary exploration tool is seismic surveying. On land, vibrating trucks generate controlled shock waves that travel downward through rock layers. In marine settings, ships tow air guns that produce acoustic pulses. These waves reflect off boundaries between rock layers and return to the surface, where arrays of sensors (geophones on land, hydrophones at sea) record them.
+The primary exploration tool is seismic [surveying](/surveying). On land, vibrating trucks generate controlled shock waves that travel downward through rock layers. In marine settings, ships tow air guns that produce acoustic pulses. These waves reflect off boundaries between rock layers and return to the surface, where arrays of sensors (geophones on land, hydrophones at sea) record them.
 
 Processing the recorded signals — a computationally intensive task requiring significant [computing](/parallel-computing) power — produces three-dimensional images of subsurface structures. Geophysicists interpret these images to identify potential traps where hydrocarbons might accumulate: anticlines (arched rock layers), fault traps (where rock layers are displaced along a fracture), and stratigraphic traps (where porous rock grades into impermeable rock).
 
@@ -75,7 +75,7 @@ These measurements, collected at depths from hundreds to thousands of meters, bu
 
 ### Reservoir Characterization
 
-All the geological and geophysical data gets integrated into reservoir models — three-dimensional computer simulations of the reservoir that describe its geometry, rock properties, fluid content, pressure distribution, and flow behavior.
+All the geological and geophysical data gets integrated into reservoir models — three-dimensional computer simulations of the reservoir that describe its [geometry](/geometry), rock properties, fluid content, pressure distribution, and flow behavior.
 
 Building accurate reservoir models is one of petroleum engineering's most intellectually demanding tasks. The subsurface is known only through sparse data points (well measurements at specific locations) and indirect measurements (seismic surveys with limited resolution). The space between data points must be estimated using geostatistical methods — statistical techniques that account for spatial correlation patterns in geological properties.
 
@@ -135,7 +135,7 @@ EOR can push recovery factors to 60-70% in favorable cases, though it adds signi
 
 ## Reservoir Engineering: The Analytical Core
 
-Reservoir engineering is the intellectual heart of petroleum engineering. Reservoir engineers analyze how fluids (oil, gas, water) flow through porous rock under various conditions, and they use this analysis to make production decisions.
+[Reservoir engineering](/reservoir-engineering) is the intellectual heart of petroleum engineering. Reservoir engineers analyze how fluids (oil, gas, water) flow through porous rock under various conditions, and they use this analysis to make production decisions.
 
 ### Fluid Properties
 
@@ -165,11 +165,11 @@ Oil and gas operations produce greenhouse gas emissions at every stage: methane 
 
 ### Water Management
 
-Hydraulic fracturing uses large volumes of water (typically 5-15 million gallons per well), and produced water (water that comes back to the surface with oil and gas) must be managed carefully to prevent contamination of freshwater sources. Recycling produced water for use in new fracking operations reduces both freshwater consumption and disposal needs.
+Hydraulic fracturing uses large volumes of water (typically 5-15 million gallons per well), and produced water (water that comes back to the surface with oil and gas) must be managed carefully to prevent contamination of freshwater sources. [Recycling](/recycling) produced water for use in new fracking operations reduces both freshwater consumption and disposal needs.
 
 ### Well Integrity
 
-Preventing leaks requires proper well construction — multiple layers of steel casing cemented into place to isolate the wellbore from surrounding formations, particularly freshwater aquifers. Well integrity failures, while infrequent in properly constructed wells, can cause groundwater contamination and surface spills.
+Preventing leaks requires proper well [construction](/construction) — multiple layers of steel casing cemented into place to isolate the wellbore from surrounding formations, particularly freshwater aquifers. Well integrity failures, while infrequent in properly constructed wells, can cause groundwater contamination and surface spills.
 
 ### Decommissioning
 
@@ -179,7 +179,7 @@ When production ends, wells must be properly plugged and abandoned — sealed wi
 
 The global energy transition creates both threats and opportunities for petroleum engineers.
 
-Demand for petroleum engineering skills in traditional oil and gas will likely decline over coming decades as [alternative energy](/alternative-energy) sources grow. But many petroleum engineering competencies — subsurface characterization, drilling, fluid flow analysis, well design, project management — transfer directly to emerging energy technologies.
+Demand for petroleum engineering skills in traditional oil and gas will likely decline over coming decades as [alternative energy](/alternative-energy) sources grow. But many petroleum engineering competencies — subsurface characterization, drilling, fluid flow analysis, well design, [project management](/project-management) — transfer directly to emerging energy technologies.
 
 **Geothermal energy** uses the same drilling and reservoir engineering skills to extract heat from deep underground. Enhanced geothermal systems (EGS), which create artificial reservoirs in hot dry rock, are essentially a petroleum engineering application.
 
@@ -191,4 +191,4 @@ The petroleum engineers of the future may spend as much time putting fluids unde
 
 ## Key Takeaways
 
-Petroleum engineering is the discipline responsible for finding, extracting, and producing oil and natural gas from underground reservoirs. It combines subsurface geology, drilling technology, reservoir analysis, and production engineering to recover hydrocarbons that still supply over half the world's energy. While the energy transition is reshaping the field's future, petroleum engineering skills in subsurface characterization, drilling, and fluid management transfer directly to geothermal energy, carbon capture, and hydrogen storage — ensuring the discipline's relevance even as the energy mix evolves. Understanding petroleum engineering provides essential context for energy policy, climate discussions, and the economic realities of the global energy system.
+Petroleum engineering is the discipline responsible for finding, extracting, and producing oil and natural gas from underground reservoirs. It combines subsurface geology, drilling technology, reservoir analysis, and production engineering to recover hydrocarbons that still supply over half the world's energy. While the energy transition is reshaping the field's future, petroleum engineering skills in subsurface characterization, drilling, and fluid [management](/management) transfer directly to geothermal energy, carbon capture, and hydrogen storage — ensuring the discipline's relevance even as the energy mix evolves. Understanding petroleum engineering provides essential context for energy policy, climate discussions, and the economic realities of the global energy system.

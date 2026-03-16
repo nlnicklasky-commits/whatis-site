@@ -45,7 +45,7 @@ The historian Fernand Braudel, whose 1949 masterwork *The Mediterranean and the 
 
 Human settlement around the Mediterranean goes back deep into [prehistory](/prehistory). The oldest known seafaring in the Mediterranean dates to at least 130,000 years ago — stone tools found on Crete suggest that early hominins somehow crossed open water to reach the island long before modern humans arrived.
 
-By around 3000 BCE, the first great Mediterranean civilizations were emerging. The Minoans on Crete built elaborate palace complexes at Knossos and Phaistos, developed a writing system (Linear A, still undeciphered), and dominated maritime trade across the eastern Mediterranean. Their civilization flourished for over a thousand years before declining around 1450 BCE — possibly following the catastrophic volcanic eruption of Thera (modern Santorini).
+By around 3000 BCE, the first great Mediterranean civilizations were emerging. The Minoans on Crete built elaborate palace complexes at Knossos and Phaistos, developed a [writing](/writing) system (Linear A, still undeciphered), and dominated maritime [trade](/trade) across the eastern Mediterranean. Their civilization flourished for over a thousand years before declining around 1450 BCE — possibly following the catastrophic volcanic eruption of Thera (modern Santorini).
 
 Meanwhile, ancient Egypt — though primarily a Nile River civilization — was deeply connected to the Mediterranean through its Delta ports. Egyptian trade ships carried grain, papyrus, and gold across the eastern Mediterranean. The Egyptians didn't love the sea the way the Phoenicians did (they called it "the Great Green" and generally preferred river travel), but they couldn't ignore it.
 
@@ -83,7 +83,7 @@ After Rome's western half collapsed in 476 CE, the Mediterranean world split int
 
 The Byzantine Empire (the eastern Roman Empire, centered on Constantinople) controlled the eastern Mediterranean, preserved Greek learning, and maintained Roman administrative traditions for nearly a thousand years — until Constantinople fell to the Ottoman Turks in 1453.
 
-The Islamic caliphates, beginning with the Arab conquests of the 7th century, swept across North Africa, the Levant, and eventually into Spain. By 750 CE, the Umayyad and then Abbasid caliphates controlled the Mediterranean's southern and eastern shores. Islamic scholars translated and preserved Greek philosophical and scientific texts that would have been lost otherwise — and made major original contributions in [mathematics](/mathematics), [astronomy](/astronomy), medicine, and optics.
+The Islamic caliphates, beginning with the Arab conquests of the 7th century, swept across North Africa, the Levant, and eventually into Spain. By 750 CE, the Umayyad and then Abbasid caliphates controlled the Mediterranean's southern and eastern shores. Islamic scholars translated and preserved Greek philosophical and scientific texts that would have been lost otherwise — and made major original contributions in [mathematics](/mathematics), [astronomy](/astronomy), medicine, and [optics](/optics).
 
 Western Christendom — the kingdoms that emerged from Rome's collapse — controlled the northern shore but was, for centuries, the least prosperous and culturally advanced of the three. That changed during the later Middle Ages, as Italian city-states like Venice, Genoa, and Pisa developed sophisticated maritime trade networks that made them fabulously wealthy.
 

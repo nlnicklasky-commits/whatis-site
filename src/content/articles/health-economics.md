@@ -35,13 +35,13 @@ faq:
 
 # What Is Health Economics?
 
-Health economics is a branch of economics that studies how individuals, institutions, and societies allocate scarce resources to the production, distribution, and consumption of healthcare goods and services. It examines why healthcare markets behave differently from other markets, how policy decisions affect health outcomes, and what trade-offs emerge when budgets can't cover every medical need.
+Health [economics](/economics) is a branch of economics that studies how individuals, institutions, and societies allocate scarce resources to the production, distribution, and consumption of healthcare goods and services. It examines why healthcare markets behave differently from other markets, how policy decisions affect health outcomes, and what [trade](/trade)-offs emerge when budgets can't cover every medical need.
 
 ## Why Healthcare Isn't Like Buying Groceries
 
 Here's the thing most people don't realize: healthcare breaks almost every rule that makes normal markets work. When you buy a car, you can compare models, check prices, wait for a sale, and walk away if the deal stinks. Try doing that when you're having a heart attack.
 
-Economists call this **market failure**, and healthcare is riddled with it. There are at least four major ways healthcare defies standard economic logic.
+Economists call this **market failure**, and healthcare is riddled with it. There are at least four major ways healthcare defies standard economic [logic](/logic).
 
 ### Information Asymmetry
 
@@ -93,7 +93,7 @@ These calculations sound cold. They are cold. But they're also necessary—becau
 
 Health equity is a major subfield. In the U.S., life expectancy varies by up to 20 years depending on your zip code. Wealthier neighborhoods have more doctors, better hospitals, and healthier environments. Poorer areas often lack basic primary care.
 
-Health economists study these disparities using tools from [data science](/data-science) and econometrics. They quantify how income, race, geography, and education affect health outcomes—and they model what interventions might close those gaps.
+Health economists study these disparities using tools from [data science](/data-science) and [econometrics](/econometrics). They quantify how income, race, [geography](/geography), and [education](/education) affect health outcomes—and they model what interventions might close those gaps.
 
 For instance, research shows that expanding Medicaid coverage in U.S. states reduced mortality rates by about 6% among eligible populations. That's not a theoretical finding—it's measured in actual lives saved.
 
@@ -103,7 +103,7 @@ One of the most fascinating parts of health economics is comparing how different
 
 ### The Beveridge Model
 
-Named after William Beveridge, who designed Britain's National Health Service (NHS) in 1948. The government provides and finances healthcare through taxation. Hospitals are government-owned, doctors are government employees (or contracted), and most care is free at the point of use.
+Named after William Beveridge, who designed Britain's National Health Service (NHS) in 1948. The [government](/government) provides and finances healthcare through taxation. Hospitals are government-owned, doctors are government employees (or contracted), and most care is free at the point of use.
 
 Countries using this model: UK, Spain, Italy, Scandinavian nations, New Zealand.
 
@@ -111,7 +111,7 @@ The upside? Universal coverage, low administrative costs, strong cost control. T
 
 ### The Bismarck Model
 
-Named after Prussian Chancellor Otto von Bismarck, who created the first modern social insurance system in 1883. Healthcare is funded through employer and employee payroll deductions into nonprofit insurance funds called "sickness funds." Providers are mostly private.
+Named after Prussian Chancellor Otto von Bismarck, who created the first modern social [insurance](/insurance) system in 1883. Healthcare is funded through employer and employee payroll deductions into nonprofit insurance funds called "sickness funds." Providers are mostly private.
 
 Countries using this model: Germany, France, Japan, Switzerland, Belgium.
 
@@ -137,7 +137,7 @@ Drug pricing is probably the most emotionally charged topic in health economics.
 
 Pharmaceutical companies argue that high drug prices fund research and development. Bringing a new drug to market costs an estimated $1.3 billion to $2.8 billion (depending on which study you trust) and takes 10-15 years. Only about 12% of drugs that enter clinical trials actually reach patients. Companies need to recoup those costs—plus the costs of all their failed drugs—during the patent period.
 
-There's truth to this argument. But it's not the whole story. Many major drug discoveries originated in publicly funded university research. Marketing budgets at major pharmaceutical companies often rival or exceed their R&D budgets. And executive compensation in pharma is among the highest of any industry.
+There's truth to this argument. But it's not the whole story. Many major drug discoveries originated in publicly funded university research. [Marketing](/marketing) budgets at major pharmaceutical companies often rival or exceed their R&D budgets. And executive compensation in pharma is among the highest of any industry.
 
 ### Patent Cliffs and Generic Competition
 
@@ -211,11 +211,11 @@ The COVID-19 pandemic made the economics of public health viscerally real. Count
 
 ## Healthcare Labor Economics
 
-Healthcare is one of the largest employers in most developed nations. The U.S. healthcare sector employs over 22 million people—more than manufacturing and construction combined.
+Healthcare is one of the largest employers in most developed nations. The U.S. healthcare sector employs over 22 million people—more than manufacturing and [construction](/construction) combined.
 
-But labor markets in healthcare are unusual. Training a doctor takes 11-16 years after high school. Nursing programs face capacity constraints unrelated to demand. These long training pipelines mean that labor supply can't respond quickly to changes in demand—creating shortages that persist for years.
+But labor markets in healthcare are unusual. Training a doctor takes 11-16 years after high school. [Nursing](/nursing) programs face capacity constraints unrelated to demand. These long training pipelines mean that labor supply can't respond quickly to changes in demand—creating shortages that persist for years.
 
-The World Health Organization projects a global shortfall of 10 million healthcare workers by 2030, concentrated in low-income countries. This shortage is itself an economic problem with economic solutions: higher wages to attract workers, immigration policies to distribute workers globally, technology to increase productivity, and task-shifting to allow less-trained workers to handle routine care.
+The World Health Organization projects a global shortfall of 10 million healthcare workers by 2030, concentrated in low-income countries. This shortage is itself an economic problem with economic solutions: higher wages to attract workers, immigration policies to distribute workers globally, technology to increase [productivity](/productivity), and task-shifting to allow less-trained workers to handle routine care.
 
 Physician compensation also raises interesting economic questions. U.S. doctors earn roughly twice what their counterparts in other wealthy countries make. Is this because American medical training is more expensive? Because the AMA restricts medical school capacity? Because the U.S. system rewards specialists over primary care physicians? Health economists argue about all of these factors—and the answer is probably "all of the above."
 
@@ -223,7 +223,7 @@ Physician compensation also raises interesting economic questions. U.S. doctors 
 
 New medical technology drives both better outcomes and higher costs—a tension that defines much of modern health economics.
 
-Historically, about half of healthcare cost growth has been attributed to new technology. MRI machines produce better diagnoses but cost millions. Robotic surgery improves precision but requires massive capital investment. Gene therapies promise cures but carry price tags of $2 million or more per patient.
+Historically, about half of healthcare cost growth has been attributed to new technology. MRI machines produce better diagnoses but cost millions. Robotic [surgery](/surgery) improves precision but requires massive capital investment. Gene therapies promise cures but carry price tags of $2 million or more per patient.
 
 Health economists evaluate these technologies using the methods described earlier—cost-effectiveness analysis, budget impact analysis—but the evaluations are complicated by uncertainty. When a new technology is first introduced, we often don't know its long-term benefits or costs. By the time we have good data, the technology is already embedded in clinical practice and difficult to remove even if it proves cost-ineffective.
 
@@ -235,7 +235,7 @@ Several trends are reshaping the field. Value-based care models—where provider
 
 Precision medicine, guided by genetic data, promises to target treatments to patients most likely to benefit. This could dramatically improve cost-effectiveness by reducing wasted treatments. But it also raises equity concerns: will precision medicine be available to everyone, or only to those who can afford genetic testing?
 
-Climate change is emerging as a major health economics issue. Heat-related illness, air pollution, vector-borne disease expansion, and extreme weather events all carry healthcare costs. The Lancet estimates that climate-related health costs could reach $2-4 billion per day by 2030 globally.
+[Climate change](/climate-change) is emerging as a major health economics issue. Heat-related illness, air pollution, vector-borne disease expansion, and extreme weather events all carry healthcare costs. The Lancet estimates that climate-related health costs could reach $2-4 billion per day by 2030 globally.
 
 And the aging of populations worldwide—in the U.S., the 65+ population will grow from 56 million to 80 million by 2040—will strain healthcare budgets everywhere. Health economists are modeling these demographic shifts and their fiscal implications, trying to answer the uncomfortable question: how do we pay for an older, sicker population without bankrupting younger generations?
 

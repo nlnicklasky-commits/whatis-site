@@ -47,7 +47,7 @@ The transcript is lightly edited for readability — removing filler words, fals
 
 ### Intelligent Transcription
 
-More heavily edited, converting spoken language into polished written prose. [Grammar](/grammar) is corrected, sentences are restructured, and redundancies are eliminated. Used for [publishing](/publishing) and content creation.
+More heavily edited, converting spoken language into polished written [prose](/prose). [Grammar](/grammar) is corrected, sentences are restructured, and redundancies are eliminated. Used for [publishing](/publishing) and content creation.
 
 ## Where Transcription Is Used
 

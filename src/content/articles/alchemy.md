@@ -36,7 +36,7 @@ faq:
 # What Is Alchemy?
 Alchemy was a centuries-long tradition of experimental, philosophical, and spiritual practice centered on transforming matter — most famously, turning base metals like lead into gold. It was practiced across the ancient and medieval world, from Hellenistic Egypt to Islamic civilization to European courts, and while it never achieved its primary goals, it accidentally laid the groundwork for modern [chemistry](/chemistry).
 
-Calling alchemy simply "fake chemistry" misses the point entirely. Alchemists were working with a fundamentally different understanding of matter — one where physical transformation and spiritual purification were inseparable, and where the laboratory was as much a place of meditation as experimentation.
+Calling alchemy simply "fake chemistry" misses the point entirely. Alchemists were working with a fundamentally different understanding of matter — one where physical transformation and spiritual purification were inseparable, and where the laboratory was as much a place of [meditation](/meditation) as experimentation.
 
 ## Origins: Where Alchemy Began
 
@@ -44,7 +44,7 @@ The word "alchemy" likely derives from the Arabic "al-kimiya," though the root "
 
 ### Hellenistic Egypt (c. 300 BCE - 400 CE)
 
-Alchemy's earliest identifiable form emerged in Greco-Egyptian Alexandria, where Greek [philosophy](/philosophy), Egyptian metallurgical traditions, and mystical speculation collided. The city was a cosmopolitan hub — a place where Aristotle's theory of four elements (earth, water, air, fire) met Egyptian practical knowledge of metalworking, dyeing, and embalming.
+Alchemy's earliest identifiable form emerged in Greco-Egyptian Alexandria, where Greek [philosophy](/philosophy), Egyptian metallurgical traditions, and mystical speculation collided. The city was a cosmopolitan hub — a place where Aristotle's theory of four elements (earth, water, air, fire) met Egyptian practical knowledge of metalworking, [dyeing](/dyeing), and embalming.
 
 Key early figures include Maria the Jewess (c. 1st-3rd century CE), who invented several pieces of laboratory equipment still used today — the bain-marie (water bath) is named after her. Zosimos of Panopolis (c. 300 CE) wrote some of the earliest surviving alchemical texts, blending practical recipes with mystical visions.
 
@@ -86,7 +86,7 @@ The results were often the opposite of life-giving. Several Chinese emperors lik
 
 For many alchemists, the physical work was inseparable from spiritual development. The transmutation of lead into gold was simultaneously understood as a metaphor for the purification of the soul. The laboratory process mirrored an inner process of self-refinement.
 
-This spiritual dimension is why Carl Jung became fascinated with alchemy in the 20th century. Jung interpreted alchemical symbolism as a pre-scientific language for psychological transformation — the integration of unconscious contents into conscious awareness. His book *Psychology and Alchemy* (1944) treated alchemical texts as maps of the psyche rather than failed [chemistry](/chemistry) experiments.
+This spiritual dimension is why Carl Jung became fascinated with alchemy in the 20th century. Jung interpreted alchemical symbolism as a pre-scientific language for psychological transformation — the integration of unconscious contents into conscious awareness. His book *[Psychology](/psychology) and Alchemy* (1944) treated alchemical texts as maps of the psyche rather than failed [chemistry](/chemistry) experiments.
 
 ## What Alchemists Actually Discovered
 
@@ -127,11 +127,11 @@ Paracelsus was also famously disagreeable. He publicly burned the works of Galen
 
 ### Isaac Newton (1643-1727)
 
-This is the one that surprises people. Newton — the guy who formulated the laws of motion, invented calculus, and described gravity — was a devoted alchemist. He wrote over a million words on alchemy, more than he wrote on physics and mathematics combined.
+This is the one that surprises people. Newton — the guy who formulated the laws of motion, invented [calculus](/calculus), and described gravity — was a devoted alchemist. He wrote over a million words on alchemy, more than he wrote on physics and [mathematics](/mathematics) combined.
 
 Newton's alchemical manuscripts were kept hidden for centuries. When they were finally auctioned in 1936, economist John Maynard Keynes purchased them and declared that Newton was "not the first of the age of reason" but "the last of the magicians."
 
-Modern scholars, including those at Indiana University's Chymistry of Isaac Newton project, have shown that Newton's alchemical and scientific thinking were deeply intertwined. His concept of forces acting at a distance (gravity) may have been influenced by alchemical ideas about hidden sympathies between substances.
+Modern scholars, including those at Indiana University's Chymistry of Isaac Newton project, have shown that Newton's alchemical and scientific thinking were deeply intertwined. His concept of forces [acting](/acting) at a distance (gravity) may have been influenced by alchemical ideas about hidden sympathies between substances.
 
 ### Robert Boyle (1627-1691)
 

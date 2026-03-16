@@ -35,7 +35,7 @@ faq:
 
 # What Is Portfolio Management?
 
-Portfolio management is the art and science of making decisions about what investments to hold, how much to allocate to each, and when to make changes — all in pursuit of specific financial objectives while managing the risk of loss. It's how individual investors, pension funds, endowments, and sovereign wealth funds try to grow money while not losing it.
+Portfolio [management](/management) is the art and science of making decisions about what investments to hold, how much to allocate to each, and when to make changes — all in pursuit of specific financial objectives while managing the risk of loss. It's how individual investors, pension funds, endowments, and sovereign wealth funds try to grow money while not losing it.
 
 ## Why You Can't Just "Buy Good Stuff"
 
@@ -55,15 +55,15 @@ Asset allocation — how you divide your money among different types of investme
 
 **Equities (stocks)** represent ownership in companies. Historically the highest-returning asset class over long periods — the global stock market has returned roughly 8-10% annually over the past century — but with significant short-term volatility. Stock prices can drop 30-50% in bear markets.
 
-**Fixed income (bonds)** are loans to governments or corporations that pay regular interest. Lower expected returns than stocks (historically 4-6% for investment-grade bonds) but with much lower volatility. Government bonds, particularly U.S. Treasuries, are considered among the safest investments available.
+**Fixed income (bonds)** are loans to governments or corporations that pay regular interest. Lower expected returns than stocks (historically 4-6% for investment-grade bonds) but with much lower volatility. [Government](/government) bonds, particularly U.S. Treasuries, are considered among the safest investments available.
 
 **Cash and equivalents** (money market funds, short-term Treasury bills, savings accounts) provide stability and liquidity. Returns barely keep pace with inflation, but you won't lose principal. Cash is the shock absorber of a portfolio.
 
-**Real estate** — either direct property ownership or through REITs (Real Estate Investment Trusts) — provides income, inflation protection, and diversification from stocks and bonds. Returns have historically fallen between stocks and bonds.
+**[Real estate](/real-estate)** — either direct property ownership or through REITs (Real Estate Investment Trusts) — provides income, inflation protection, and diversification from stocks and bonds. Returns have historically fallen between stocks and bonds.
 
 **Commodities** (gold, oil, agricultural products) are physical goods traded on exchanges. They tend to perform well during inflation and poorly during economic growth — making them useful diversifiers. Gold in particular has a centuries-long track record as a store of value during crises.
 
-**Alternative investments** — hedge funds, [private equity](/private-equity), [venture capital](/venture-capital), cryptocurrencies, collectibles — are everything else. They often promise higher returns or better diversification but come with higher fees, lower liquidity, and more complexity.
+**Alternative investments** — hedge funds, [private equity](/private-equity), [venture capital](/venture-capital), cryptocurrencies, [collectibles](/collectibles) — are everything else. They often promise higher returns or better diversification but come with higher fees, lower liquidity, and more complexity.
 
 ### How to Allocate: The Big Question
 
@@ -77,7 +77,7 @@ Your ideal asset allocation depends on several factors:
 
 **Financial goals** — retirement, a house down payment, college funding, and legacy planning all have different time horizons and risk profiles. A portfolio should be designed around specific goals, not abstract return maximization.
 
-**Income needs** — retirees drawing income from their portfolio need different allocations than accumulators adding money. Income-oriented portfolios typically emphasize bonds, dividend-paying stocks, and real estate.
+**Income needs** — retirees [drawing](/drawing) income from their portfolio need different allocations than accumulators adding money. Income-oriented portfolios typically emphasize bonds, dividend-paying stocks, and real estate.
 
 ## Active vs. Passive Management: The Great Debate
 
@@ -184,7 +184,7 @@ MPT formalized diversification, demonstrated that portfolio risk depends on corr
 
 **Past data isn't the future.** MPT relies on historical returns, volatilities, and correlations to estimate future portfolio behavior. But financial markets evolve, new instruments appear, regulations change, and past relationships may not persist.
 
-Despite these limitations, MPT remains the starting framework for portfolio construction. Nothing better has fully replaced it. The practical response is to use MPT as a foundation while acknowledging its limitations and supplementing it with stress testing, scenario analysis, and behavioral awareness.
+Despite these limitations, MPT remains the starting framework for portfolio [construction](/construction). Nothing better has fully replaced it. The practical response is to use MPT as a foundation while acknowledging its limitations and supplementing it with stress testing, scenario analysis, and behavioral awareness.
 
 ## Professional Portfolio Management
 
@@ -218,7 +218,7 @@ The biggest threat to your portfolio isn't the stock market — it's you. [Behav
 
 **Herding** — following the crowd into popular investments (buying high) and fleeing with the crowd during panics (selling low). This is the exact opposite of good investing.
 
-**Overconfidence** — most investors believe they're above average, which is mathematically impossible. Overconfident investors trade more frequently, incurring higher costs, and perform worse than patient investors.
+**Overconfidence** — most investors believe they're above average, which is mathematically impossible. Overconfident investors [trade](/trade) more frequently, incurring higher costs, and perform worse than patient investors.
 
 The data on investor behavior is damning. Dalbar's annual [Quantitative Analysis](/quantitative-analysis) of Investor Behavior consistently shows that the average investor earns significantly less than the funds they invest in — because they buy after prices rise and sell after prices fall.
 

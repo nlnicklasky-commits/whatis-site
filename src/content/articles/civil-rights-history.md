@@ -35,7 +35,7 @@ faq:
 
 # What Is Civil Rights History?
 
-Civil rights history is the study of movements, legislation, and social struggles aimed at securing equal legal protections and freedoms for all people, regardless of race, gender, religion, or other characteristics. In the United States, it most commonly refers to the African American freedom struggle from the post-Civil War era through the landmark legislation of the 1960s — though the fight for civil rights is a global and ongoing story.
+Civil rights history is the study of movements, legislation, and social struggles aimed at securing equal legal protections and freedoms for all people, regardless of race, gender, [religion](/religion), or other characteristics. In the United States, it most commonly refers to the African American freedom struggle from the post-Civil War era through the landmark legislation of the 1960s — though the fight for civil rights is a global and ongoing story.
 
 ## Before the Movement Had a Name
 
@@ -89,13 +89,13 @@ The Civil Rights Act of 1964 was a hard-fought victory. It passed only after a 5
 
 But voting remained a problem. In Mississippi, only 6.7% of eligible Black voters were registered in 1964. Literacy tests, poll taxes, and outright intimidation kept the rest away. The violence at the Edmund Pettus Bridge in Selma, Alabama on March 7, 1965 — "Bloody Sunday" — pushed Congress to pass the Voting Rights Act of 1965. Within a year, Black voter registration in Mississippi jumped to nearly 60%.
 
-The Fair Housing Act of 1968, passed just a week after King's assassination, prohibited discrimination in housing sales and rentals. Together, these three laws dismantled the legal [architecture](/architecture) of segregation.
+The Fair Housing Act of 1968, passed just a week after King's assassination, prohibited discrimination in housing [sales](/sales) and rentals. Together, these three laws dismantled the legal [architecture](/architecture) of segregation.
 
 ## Beyond King: The Movement's Many Voices
 
 The civil rights movement was never a monolith. While King's [philosophy](/philosophy) of nonviolent resistance and integration is the most celebrated, other voices offered different visions.
 
-Malcolm X, a minister in the Nation of Islam, rejected integration in favor of Black self-determination and [self-defense](/self-defense). His [philosophy](/comparative-religion) evolved significantly after leaving the Nation of Islam in 1964 and traveling to Mecca. He was assassinated in February 1965 at age 39.
+Malcolm X, a minister in the Nation of [Islam](/islam), rejected integration in favor of Black self-determination and [self-defense](/self-defense). His [philosophy](/comparative-religion) evolved significantly after leaving the Nation of Islam in 1964 and traveling to Mecca. He was assassinated in February 1965 at age 39.
 
 The Black Power movement, popularized by Stokely Carmichael and the Black Panther Party, emphasized racial pride, community control, and — when necessary — armed self-defense. The Panthers also ran breakfast programs for children and health clinics in Black neighborhoods, though their story is often reduced to the guns and berets.
 
@@ -105,7 +105,7 @@ Women were the backbone of the movement but rarely got the spotlight. Ella Baker
 
 The civil rights movement didn't just change Black America. It created a template that other movements followed.
 
-The women's rights movement drew directly on civil rights strategies and rhetoric. The Americans with Disabilities Act of 1990 was modeled on the Civil Rights Act of 1964. LGBTQ+ rights organizers adopted sit-ins, marches, and legal challenges as core tactics. Even labor movements around the world looked to the American civil rights playbook.
+The women's rights movement drew directly on civil rights strategies and [rhetoric](/rhetoric). The Americans with Disabilities Act of 1990 was modeled on the Civil Rights Act of 1964. LGBTQ+ rights organizers adopted sit-ins, marches, and legal challenges as core tactics. Even labor movements around the world looked to the American civil rights playbook.
 
 The movement also influenced the broader understanding of [economic systems](/capitalism) and how they intersected with racial inequality. King himself, by the end of his life, was increasingly focused on economic justice — his last campaign was the Poor People's Campaign, which sought to address poverty across racial lines.
 

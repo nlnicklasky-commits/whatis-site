@@ -35,7 +35,7 @@ faq:
 
 # What Is Psycholinguistics?
 
-Psycholinguistics is the study of how humans process, produce, and acquire language. It investigates the mental mechanisms behind seemingly effortless acts—reading this sentence, understanding a friend's joke, finding the right word when you're mid-thought—and reveals that each of these involves astonishingly complex computation happening below conscious awareness. The field sits at the crossroads of [psychology](/psychology), [linguistics](/linguistics), and [neuroscience](/neuroscience), drawing on experiments, brain imaging, computational models, and observations of language breakdown to understand what's happening between your ears when you use language.
+Psycholinguistics is the study of how humans process, produce, and acquire language. It investigates the mental mechanisms behind seemingly effortless acts—reading this sentence, understanding a friend's joke, finding the right word when you're mid-thought—and reveals that each of these involves astonishingly complex computation happening below conscious awareness. The field sits at the crossroads of [psychology](/psychology), [linguistics](/linguistics), and [neuroscience](/neuroscience), [drawing](/drawing) on experiments, brain imaging, computational models, and observations of language breakdown to understand what's happening between your ears when you use language.
 
 ## How Psycholinguistics Became a Field
 
@@ -45,7 +45,7 @@ Then Noam Chomsky published his devastating 1959 review of Skinner's book, argui
 
 Chomsky proposed that humans have an innate "[language acquisition](/language-acquisition) device"—a biological endowment specifically for language. This idea, whether you fully accept it or not, blew the doors open. Suddenly researchers had testable hypotheses about what mental structures support language, and the experiments started flowing.
 
-George Miller's work on memory and language processing in the 1950s-60s was equally foundational. His famous "magical number seven, plus or minus two" paper (1956) showed that human working memory has severe limits, which constrain how we process sentences in real time. Roger Brown's studies of child language development in the 1960s-70s provided the first detailed longitudinal data on how children actually acquire grammar.
+George Miller's work on memory and language processing in the 1950s-60s was equally foundational. His famous "magical number seven, plus or minus two" paper (1956) showed that human working memory has severe limits, which constrain how we process sentences in real time. Roger Brown's studies of child language development in the 1960s-70s provided the first detailed longitudinal data on how children actually acquire [grammar](/grammar).
 
 By the 1970s, psycholinguistics had its own journals, conferences, and a growing community of researchers using reaction time experiments, eye-tracking, and later brain imaging to crack open the black box of language processing.
 
@@ -69,7 +69,7 @@ On top of that, the same word sounds physically different every time it's spoken
 
 ## Reading: A Newer Trick for an Old Brain
 
-Reading is not something human brains evolved to do. Writing was invented only about 5,000 years ago—a blink in evolutionary time. Your brain has repurposed visual processing regions that originally evolved to recognize objects, faces, and natural scenes. The fact that reading works at all is remarkable. The fact that skilled readers process text at 200-300 words per minute is extraordinary.
+Reading is not something human brains evolved to do. [Writing](/writing) was invented only about 5,000 years ago—a blink in evolutionary time. Your brain has repurposed visual processing regions that originally evolved to recognize objects, faces, and natural scenes. The fact that reading works at all is remarkable. The fact that skilled readers process text at 200-300 words per minute is extraordinary.
 
 ### The Eye-Mind Connection
 
@@ -95,7 +95,7 @@ This reveals something important: your brain doesn't wait until the end of a sen
 
 ## Speech Production: How You Turn Thoughts Into Words
 
-You produce roughly 2-3 words per second in normal conversation, selecting each word from a mental vocabulary of 50,000-100,000 words, arranging them grammatically, programming the precise muscle movements for articulation, and monitoring the output for errors—all while planning what you're going to say next. The processing demands are enormous, and yet you do it while walking, cooking, or driving.
+You produce roughly 2-3 words per second in normal conversation, selecting each word from a mental vocabulary of 50,000-100,000 words, arranging them grammatically, programming the precise muscle movements for articulation, and monitoring the output for errors—all while planning what you're going to say next. The processing demands are enormous, and yet you do it while [walking](/walking), [cooking](/cooking), or driving.
 
 ### Levelt's Model
 
@@ -122,11 +122,11 @@ The speed of child language acquisition is staggering. By age 1, infants recogni
 
 Chomsky's famous argument: the language input children receive is insufficient to explain what they learn. Adults produce false starts, interruptions, and ungrammatical utterances. Children hear only a fraction of possible sentences. Yet they extract the underlying rules and generalize correctly to sentences they've never encountered. This suggests, Chomsky argued, that children bring innate linguistic knowledge to the task—a Universal Grammar that constrains what human languages can look like.
 
-The counter-argument, from usage-based approaches, is that the input is richer than Chomsky suggested and that children have powerful general learning mechanisms (statistical learning, [pattern recognition](/pattern-recognition), analogy) that don't require language-specific innate knowledge. This debate remains active and contentious.
+The counter-argument, from usage-based approaches, is that the input is richer than Chomsky suggested and that children have powerful general learning mechanisms (statistical learning, [pattern recognition](/pattern-recognition), analogy) that don't require language-specific innate knowledge. This [debate](/debate) remains active and contentious.
 
 ### Statistical Learning
 
-In a landmark 1996 study, Jenny Saffran and colleagues showed that 8-month-old infants can track statistical patterns in speech. After just two minutes of exposure to a continuous stream of syllables (like "bidakupadotigolabubidaku..."), babies could distinguish three-syllable sequences that had occurred as units from sequences that crossed unit boundaries. They were computing transitional probabilities—the likelihood that one syllable follows another—and using those statistics to find word boundaries.
+In a landmark 1996 study, Jenny Saffran and colleagues showed that 8-month-old infants can track statistical patterns in speech. After just two minutes of exposure to a continuous stream of syllables (like "bidakupadotigolabubidaku..."), babies could distinguish three-syllable sequences that had occurred as units from sequences that crossed unit boundaries. They were computing transitional probabilities—the likelihood that one syllable follows another—and using those [statistics](/statistics) to find word boundaries.
 
 This was a big deal. It showed that even before they understand any words, infants are extracting structural patterns from speech using domain-general statistical learning abilities.
 
@@ -134,7 +134,7 @@ This was a big deal. It showed that even before they understand any words, infan
 
 There appears to be a window of heightened language-learning ability in childhood that gradually closes. Eric Lenneberg proposed this in 1967, and subsequent evidence has broadly supported it—though the "period" is probably a gradual decline rather than a sharp cutoff.
 
-The strongest evidence comes from tragic natural experiments. Children deprived of language input during early childhood (cases of extreme isolation) struggle enormously with grammar even after years of subsequent exposure and training. Deaf children who receive sign language input early acquire it natively; those exposed late show persistent grammatical difficulties.
+The strongest evidence comes from tragic natural experiments. Children deprived of language input during early childhood (cases of extreme isolation) struggle enormously with grammar even after years of subsequent exposure and training. Deaf children who receive [sign language](/sign-language) input early acquire it natively; those exposed late show persistent grammatical difficulties.
 
 For second-language learning, the pattern is similar: people who begin learning a second language before puberty typically achieve native-like proficiency; those who begin later rarely do, particularly in pronunciation and grammatical intuition.
 
@@ -158,7 +158,7 @@ The brain needs a control mechanism to manage this. Current models suggest the p
 
 ## Computational Psycholinguistics
 
-The rise of [natural language processing](/natural-language-processing) and large language models has created new connections between psycholinguistics and [computer science](/computer-science). Researchers now use computational models not just as engineering tools but as theories of human cognition.
+The rise of [natural language processing](/natural-language-processing) and large language models has created new connections between psycholinguistics and [computer science](/computer-science). Researchers now use computational models not just as [engineering](/engineering) tools but as theories of human cognition.
 
 ### Surprisal Theory
 
@@ -172,7 +172,7 @@ But they also diverge from human processing in important ways. They don't learn 
 
 ## Language and the Brain
 
-Modern neuroimaging has mapped language processing onto brain anatomy with increasing precision, building on insights from [neuroscience](/neuroscience) and [neurolinguistics](/neurolinguistics).
+Modern neuroimaging has mapped language processing onto brain [anatomy](/anatomy) with increasing precision, building on insights from [neuroscience](/neuroscience) and [neurolinguistics](/neurolinguistics).
 
 ### Classic Areas
 
@@ -196,7 +196,7 @@ When stroke or injury damages language areas, recovery is sometimes possible thr
 
 ## Psycholinguistic Disorders
 
-Language breakdown reveals the architecture of the language system in ways that normal processing obscures.
+Language breakdown reveals the [architecture](/architecture) of the language system in ways that normal processing obscures.
 
 **Aphasia** (language impairment from brain damage) comes in many forms. Broca's aphasia involves effortful, fragmented speech with relatively preserved comprehension. Wernicke's aphasia involves fluent but meaningless speech with impaired comprehension. Conduction aphasia involves difficulty repeating words despite relatively intact production and comprehension.
 
@@ -206,7 +206,7 @@ Language breakdown reveals the architecture of the language system in ways that 
 
 ## Where Psycholinguistics Is Heading
 
-The field is moving toward integration. Traditional psycholinguistic experiments (reaction times, error rates) are being combined with neuroscience methods (fMRI, EEG, MEG), computational modeling (neural networks, Bayesian models), and big data approaches (corpus analysis, online experiments with thousands of participants).
+The field is moving toward integration. Traditional psycholinguistic experiments (reaction times, error rates) are being combined with neuroscience methods (fMRI, EEG, MEG), computational modeling ([neural networks](/neural-networks), Bayesian models), and big data approaches (corpus analysis, online experiments with thousands of participants).
 
 [Computational linguistics](/computational-linguistics) and psycholinguistics are converging as language models improve. Questions about what makes human language processing unique—its efficiency, its groundedness in physical experience, its developmental trajectory—become sharper when we have artificial systems that process language differently.
 

@@ -31,15 +31,15 @@ faq:
 
 # What Is Home [Economics](/economics)?
 
-Home economics is the academic discipline focused on practical skills for daily life — cooking, nutrition, [budgeting](/budgeting), sewing, child care, and household [management](/management). Now usually called Family and Consumer Sciences (FCS), it teaches people how to run a household, manage money, feed themselves properly, and make informed consumer decisions. It sounds unglamorous. It is also arguably the most useful class most people never took.
+Home economics is the academic discipline focused on practical skills for daily life — [cooking](/cooking), [nutrition](/nutrition), [budgeting](/budgeting), [sewing](/sewing), child care, and household [management](/management). Now usually called Family and Consumer Sciences (FCS), it teaches people how to run a household, manage money, feed themselves properly, and make informed consumer decisions. It sounds unglamorous. It is also arguably the most useful class most people never took.
 
 ## The Origin Story
 
-Home economics was not born from tradition — it was born from science. In the late 1800s, Ellen Swallow Richards, the first woman to earn a degree from MIT, wanted to apply [chemistry](/chemistry) and biology to the problems of everyday domestic life. Contaminated food. Unsanitary homes. Nutritional deficiency. These were killing people, and Richards argued that scientific knowledge could fix them.
+Home economics was not born from tradition — it was born from science. In the late 1800s, Ellen Swallow Richards, the first woman to earn a degree from MIT, wanted to apply [chemistry](/chemistry) and [biology](/biology) to the problems of everyday domestic life. Contaminated food. Unsanitary homes. Nutritional deficiency. These were killing people, and Richards argued that scientific knowledge could fix them.
 
-Between 1899 and 1908, Richards organized a series of conferences at Lake Placid, New York, that established home economics as a formal discipline. The American Home Economics Association was founded in 1909. By 1917, the Smith-Hughes Act provided federal funding for home economics education in public schools.
+Between 1899 and 1908, Richards organized a series of conferences at Lake Placid, New York, that established home economics as a formal discipline. The American Home Economics Association was founded in 1909. By 1917, the Smith-Hughes Act provided federal funding for home economics [education](/education) in public schools.
 
-The timing mattered. America was urbanizing fast. Millions of people had moved from farms — where domestic skills were passed down naturally — to cities, where they lived in tenements with no idea how to cook nutritious meals, manage a budget, or prevent disease through hygiene. Home economics filled that knowledge gap.
+The timing mattered. America was urbanizing fast. Millions of people had moved from farms — where domestic skills were passed down naturally — to cities, where they lived in tenements with no idea how to cook nutritious meals, manage a budget, or prevent disease through [hygiene](/hygiene). Home economics filled that knowledge gap.
 
 ## What It Actually Covered
 
@@ -51,7 +51,7 @@ A typical mid-20th century home economics curriculum included:
 
 **Home management** — budgeting, household organization, cleaning, and basic home maintenance. The financial literacy component was often the most pragmatically valuable.
 
-**[Child development](/child-development)** — basics of child care, developmental milestones, and parenting principles. Some programs included nursery school labs where high school students interacted with young children.
+**[Child development](/child-development)** — basics of child care, developmental milestones, and [parenting](/parenting) principles. Some programs included nursery school labs where high school students interacted with young children.
 
 **Consumer education** — how to evaluate products, understand advertising, read contracts, and make informed purchasing decisions.
 
@@ -91,6 +91,6 @@ There is a growing movement to bring these courses back. Some states have begun 
 
 The argument for home economics (by whatever name) is simple: everyone eats, everyone spends money, everyone wears clothes, and most people eventually manage a household or care for other people. These are not niche concerns. They are universal human needs.
 
-Teaching a teenager to cook a week's worth of meals for $50, understand a lease agreement, sew a button, balance a budget, and recognize predatory lending is not less important than teaching them algebra. It might be more important. Not because algebra does not matter, but because these skills affect every single day of adult life.
+[Teaching](/teaching) a teenager to cook a week's worth of meals for $50, understand a lease agreement, sew a button, balance a budget, and recognize predatory lending is not less important than teaching them algebra. It might be more important. Not because algebra does not matter, but because these skills affect every single day of adult life.
 
 The best version of home economics — the version Richards originally envisioned — is not gendered domesticity training. It is applied science for everyday living. And that is something every student deserves.

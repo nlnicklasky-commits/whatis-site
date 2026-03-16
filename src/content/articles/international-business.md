@@ -81,7 +81,7 @@ Direct exporting means selling to foreign customers yourself. Indirect exporting
 
 Licensing lets a foreign company use your intellectual property — patents, trademarks, technology, brand name — in exchange for royalties. You get revenue without building foreign operations yourself. The risk is that your licensee might become a competitor, or they might damage your brand through poor quality.
 
-Franchising is licensing applied to entire business models. McDonald's doesn't own most of its 40,000+ restaurants worldwide — local franchisees do. The franchisee gets a proven business model. McDonald's gets franchise fees and royalties without the capital investment and operational complexity of running every location itself.
+Franchising is licensing applied to entire business models. McDonald's doesn't own most of its 40,000+ restaurants worldwide — local franchisees do. The franchisee gets a proven business model. McDonald's gets franchise fees and royalties without the capital investment and operational complexity of [running](/running) every location itself.
 
 [Entrepreneurship](/entrepreneurship) opportunities through franchising are particularly significant in emerging markets where local entrepreneurs gain access to established brand systems.
 
@@ -109,7 +109,7 @@ When a company operates in multiple countries with substantial foreign operation
 
 The largest MNCs have economic power comparable to nation-states. Walmart's annual revenue ($611 billion in 2023) exceeds the GDP of countries like Argentina, Sweden, or Thailand. Apple's market capitalization ($3+ trillion) exceeds the GDP of all but a handful of countries.
 
-About 80,000 MNCs operate worldwide, with over 800,000 foreign affiliates. They account for roughly two-thirds of world trade, and a substantial portion of that trade is intra-firm — goods moving between different subsidiaries of the same company.
+About 80,000 MNCs operate worldwide, with over 800,000 foreign affiliates. They account for roughly two-thirds of world [trade](/trade), and a substantial portion of that trade is intra-firm — goods moving between different subsidiaries of the same company.
 
 ### Organizational Structures
 
@@ -127,7 +127,7 @@ How MNCs organize their international operations varies:
 
 Every MNC faces a fundamental strategic tension: should we standardize our products and processes globally (cheaper, more efficient) or localize them for each market (better fit, more appeal)?
 
-McDonald's standardizes its operations — the cooking process, quality standards, and core menu items are similar worldwide. But it localizes extensively: McSpicy Paneer in India, Teriyaki McBurger in Japan, McArabia in the Middle East. The balance between global consistency and local adaptation is a constant [negotiation](/negotiation).
+McDonald's standardizes its operations — the [cooking](/cooking) process, quality standards, and core menu items are similar worldwide. But it localizes extensively: McSpicy Paneer in India, Teriyaki McBurger in Japan, McArabia in the Middle East. The balance between global consistency and local adaptation is a constant [negotiation](/negotiation).
 
 ## The Environment of International Business
 
@@ -137,7 +137,7 @@ International business operates within a complex environment that domestic busin
 
 Every country has its own legal system, regulatory framework, and political dynamics. What's legal in one country may be illegal in another. Bribery that violates the US Foreign Corrupt Practices Act might be a routine business practice elsewhere. Employment laws, environmental regulations, import restrictions, and tax codes vary enormously.
 
-Political risk — the possibility that government actions will adversely affect business — ranges from regulatory changes to outright expropriation (the government seizing your assets). Venezuela nationalized oil industry operations by multiple foreign companies in the 2000s. Russia seized hundreds of foreign companies' assets after 2022.
+Political risk — the possibility that [government](/government) actions will adversely affect business — ranges from regulatory changes to outright expropriation (the government seizing your assets). Venezuela nationalized oil industry operations by multiple foreign companies in the 2000s. Russia seized hundreds of foreign companies' assets after 2022.
 
 ### Economic Environment
 
@@ -147,7 +147,7 @@ Economic development levels also matter. Selling luxury goods in a country where
 
 ### Cultural Environment
 
-Culture affects everything in international business — negotiation styles, management practices, consumer preferences, advertising effectiveness, and workplace expectations.
+Culture affects everything in international business — negotiation styles, [management](/management) practices, consumer preferences, advertising effectiveness, and workplace expectations.
 
 Geert Hofstede's cultural dimensions framework identifies key differences: individualism vs. collectivism, power distance (acceptance of hierarchy), uncertainty avoidance, and long-term vs. short-term orientation. These aren't stereotypes — they're measurable tendencies backed by extensive research.
 
@@ -173,7 +173,7 @@ The COVID-19 pandemic exposed supply chain vulnerabilities when factory shutdown
 
 ### International Finance
 
-Moving money across borders is more complicated than domestic transactions. Companies must manage foreign exchange risk (currency fluctuations can wipe out profits), work through different banking systems, understand international tax law, and handle transfer pricing (the prices charged for goods moving between subsidiaries in different countries).
+Moving money across borders is more complicated than domestic transactions. Companies must manage foreign exchange risk (currency fluctuations can wipe out profits), work through different banking systems, understand international [tax law](/tax-law), and handle transfer pricing (the prices charged for goods moving between subsidiaries in different countries).
 
 Transfer pricing is particularly contentious. By setting high prices for goods shipped from a low-tax country to a high-tax country, MNCs can shift profits to minimize their overall tax burden. Governments actively combat this through transfer pricing regulations, but the game of cat and mouse continues.
 
@@ -217,7 +217,7 @@ This isn't globalization reversing — trade volumes remain enormous. But the pa
 
 E-commerce allows even small companies to sell globally. Shopify, Amazon, and Alibaba provide platforms that handle cross-border payments, shipping, and customs. Digital services — software, streaming, consulting — can be delivered internationally with zero shipping costs.
 
-This democratization of international business is real, but challenges remain: digital taxation (which country taxes profits from digital sales?), data privacy regulations (GDPR in Europe, different rules elsewhere), and the digital divide in developing countries.
+This democratization of international business is real, but challenges remain: digital taxation (which country taxes profits from digital [sales](/sales)?), data privacy regulations (GDPR in Europe, different rules elsewhere), and the digital divide in developing countries.
 
 ### Sustainability and ESG
 
@@ -231,9 +231,9 @@ This represents a significant shift from the post-Cold War era of expanding [glo
 
 ## Careers in International Business
 
-International business offers diverse career paths. Trade compliance specialists ensure companies follow import/export regulations. International marketing managers adapt brand strategies for foreign markets. Supply chain managers coordinate global logistics. Foreign exchange traders manage currency risk. International lawyers work through cross-border legal issues.
+International business offers diverse career paths. Trade compliance specialists ensure companies follow import/export regulations. International [marketing](/marketing) managers adapt brand strategies for foreign markets. Supply chain managers coordinate global [logistics](/logistics). Foreign exchange traders manage currency risk. International lawyers work through cross-border legal issues.
 
-Language skills, cultural awareness, and willingness to relocate are valuable. An MBA with an international focus is common but not required — many successful international business professionals built their expertise through experience rather than formal education.
+Language skills, cultural awareness, and willingness to relocate are valuable. An MBA with an international focus is common but not required — many successful international business professionals built their expertise through experience rather than formal [education](/education).
 
 ## Key Takeaways
 

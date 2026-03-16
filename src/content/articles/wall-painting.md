@@ -31,7 +31,7 @@ faq:
 
 # What Is Wall Painting?
 
-Wall painting is the practice of applying paint, pigment, or other media directly to a wall, ceiling, or other large architectural surface. It's one of the oldest art forms — cave paintings at Lascaux (about 17,000 years old) and Chauvet (about 36,000 years old) are wall paintings. From prehistoric caves to Michelangelo's Sistine Chapel to the street murals of modern cities, humans have consistently felt the urge to put images on walls.
+Wall [painting](/painting) is the practice of applying paint, pigment, or other media directly to a wall, ceiling, or other large architectural surface. It's one of the oldest art forms — cave paintings at Lascaux (about 17,000 years old) and Chauvet (about 36,000 years old) are wall paintings. From prehistoric caves to Michelangelo's Sistine Chapel to the street murals of modern cities, humans have consistently felt the urge to put images on walls.
 
 ## The Ancient Technique: Fresco
 

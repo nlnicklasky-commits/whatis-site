@@ -41,7 +41,7 @@ The atmosphere is a thin shell of gas (just 1% of Earth's radius thick, if you'r
 
 ## Why Weather Prediction Was Impossible (Until It Wasn't)
 
-For most of human history, weather forecasting was guesswork dressed up as folklore. "Red sky at morning, sailors take warning" --- some folk wisdom worked because it captured real patterns (a red sunrise can indicate approaching storm systems from the west). But predicting weather more than a few hours ahead was essentially impossible without understanding the physics of the atmosphere.
+For most of human history, weather forecasting was guesswork dressed up as [folklore](/folklore). "Red sky at morning, sailors take warning" --- some folk wisdom worked because it captured real patterns (a red sunrise can indicate approaching storm systems from the west). But predicting weather more than a few hours ahead was essentially impossible without understanding the [physics](/physics) of the atmosphere.
 
 Three breakthroughs changed everything.
 
@@ -102,7 +102,7 @@ Major operational models include:
 
 ### Step 4: Ensemble Forecasting
 
-Running a single model once gives a single answer. But given uncertainties in observations and model physics, how confident should you be in that answer?
+[Running](/running) a single model once gives a single answer. But given uncertainties in observations and model physics, how confident should you be in that answer?
 
 Ensemble forecasting runs the model many times (typically 20-50) with slightly different initial conditions and model configurations. If most runs agree, confidence is high. If they diverge, uncertainty is large. This is why modern forecasts include probability: "70% chance of rain" means roughly 70% of ensemble members produced rain.
 
@@ -158,7 +158,7 @@ Meteorology and [climatology](/climatology) are related but distinct. Weather is
 
 Climate science uses many of the same physics and modeling techniques as weather forecasting but applies them over much longer timescales. Climate models run the same basic equations but at coarser resolution and for centuries instead of days. They're not trying to predict whether it will rain on March 15, 2050 --- they're predicting the statistical distribution of temperature and precipitation over decades.
 
-The relationship between meteorology and climate change is complex. Global warming is altering the [statistics](/statistics) of weather events --- more heat energy in the atmosphere means more fuel for storms, higher humidity levels, and shifted precipitation patterns. Attribution science can now estimate how much climate change increased the likelihood or intensity of specific weather events.
+The relationship between meteorology and [climate change](/climate-change) is complex. Global warming is altering the [statistics](/statistics) of weather events --- more heat energy in the atmosphere means more fuel for storms, higher humidity levels, and shifted precipitation patterns. Attribution science can now estimate how much climate change increased the likelihood or intensity of specific weather events.
 
 ## Modern Tools and Technology
 
@@ -188,7 +188,7 @@ Meteorology offers diverse career paths:
 
 **Broadcast meteorologists** present weather on television, radio, and digital platforms. They communicate complex information to the public. The best ones make weather both understandable and engaging.
 
-**Private sector meteorologists** work for weather companies (The Weather Company, AccuWeather, DTN), energy companies (wind and solar forecasting), [agriculture](/agriculture) companies, airlines, and insurance companies. This sector has grown rapidly.
+**Private sector meteorologists** work for weather companies (The Weather Company, AccuWeather, DTN), energy companies (wind and solar forecasting), [agriculture](/agriculture) companies, airlines, and [insurance](/insurance) companies. This sector has grown rapidly.
 
 **Research meteorologists** work at universities, NOAA, NCAR (National Center for Atmospheric Research), and other institutions. They advance understanding of atmospheric processes and improve forecasting methods.
 
@@ -200,7 +200,7 @@ According to the Bureau of Labor Statistics, the median annual salary for atmosp
 
 ## Why It Matters to You
 
-Weather affects virtually every human activity. Agriculture depends on precipitation forecasting. Aviation relies on turbulence and visibility predictions. Energy companies need wind and solar forecasts. Emergency [management](/management) requires severe weather warnings. [Construction](/construction), transportation, outdoor events, and military operations all depend on weather information.
+Weather affects virtually every human activity. Agriculture depends on precipitation forecasting. [Aviation](/aviation) relies on turbulence and visibility predictions. Energy companies need wind and solar forecasts. Emergency [management](/management) requires severe weather warnings. [Construction](/construction), transportation, outdoor events, and military operations all depend on weather information.
 
 The economic value of weather forecasting is difficult to overstate. NOAA estimates that weather-sensitive industries account for about one-third of U.S. GDP --- roughly $7 trillion. A single accurate severe weather warning can save hundreds of lives. Improved forecasting of natural gas demand based on temperature predictions saves the energy sector billions annually.
 

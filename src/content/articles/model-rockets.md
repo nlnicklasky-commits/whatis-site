@@ -37,11 +37,11 @@ faq:
 
 # What Is Model Rockets?
 
-Model rocketry is the hobby, educational activity, and applied science of designing, building, and flying small rockets powered by commercially manufactured, pre-loaded propellant motors. It's a hands-on way to learn the physics of flight, propulsion, and [aerodynamics](/aerodynamics) while doing something genuinely exciting—launching a vehicle you built yourself hundreds or thousands of feet into the air.
+Model rocketry is the hobby, educational activity, and applied science of designing, building, and flying small rockets powered by commercially manufactured, pre-loaded propellant motors. It's a hands-on way to learn the [physics](/physics) of flight, propulsion, and [aerodynamics](/aerodynamics) while doing something genuinely exciting—launching a vehicle you built yourself hundreds or thousands of feet into the air.
 
 ## Not Fireworks. Not Toys. Actual Rocket Science.
 
-Let's clear up a common misconception right away. Model rockets are not bottle rockets. They're not fireworks. They're engineered vehicles that follow the same fundamental physics as the rockets that carried astronauts to the Moon. The propellant chemistry, the aerodynamic design, the recovery systems, the flight trajectory calculations—all of it scales. A model rocket is a smaller, simpler version of what NASA and SpaceX build, not a different category of thing.
+Let's clear up a common misconception right away. Model rockets are not bottle rockets. They're not fireworks. They're engineered vehicles that follow the same fundamental physics as the rockets that carried astronauts to the Moon. The propellant [chemistry](/chemistry), the aerodynamic design, the recovery systems, the flight trajectory calculations—all of it scales. A model rocket is a smaller, simpler version of what NASA and SpaceX build, not a different category of thing.
 
 This matters because model rocketry has been the entry point for an extraordinary number of professional aerospace engineers, astronauts, and scientists. Homer Hickam, who went from launching rockets in a West Virginia coal town to working as a NASA engineer, is the most famous example (his memoir *Rocket Boys* became the movie *October Sky*). But the pipeline from model rocketry to [aerospace-engineering](/aerospace-engineering) is well-established: organizations like the National Association of Rocketry (NAR) and Tripoli Rocketry Association have introduced millions of young people to aerospace since the late 1950s.
 
@@ -212,9 +212,9 @@ Some university teams aim even higher. The Portland State Aerospace Society and 
 There's a reason NASA, the Department of Defense, and aerospace companies actively support model rocketry programs. Building and flying rockets teaches:
 
 - **Physics:** Newton's laws, aerodynamics, [thermodynamics](/thermodynamics), ballistics
-- **Mathematics:** Trajectory calculations, [trigonometry](/trigonometry) (for tracking altitude), statistics (for analyzing flight data)
+- **[Mathematics](/mathematics):** Trajectory calculations, [trigonometry](/trigonometry) (for tracking altitude), [statistics](/statistics) (for analyzing flight data)
 - **Engineering design:** Iterative design process, testing, failure analysis
-- **[Project management](/project-management):** Planning, budgeting, scheduling
+- **[Project management](/project-management):** Planning, [budgeting](/budgeting), [scheduling](/scheduling)
 
 The 4-H, Boy Scouts, Girl Scouts, and Civil Air Patrol all have model rocketry programs. Middle and high school teachers use rocketry to make [physics](/computational-physics) tangible—students care a lot more about calculating drag coefficients when their rocket's altitude depends on getting it right.
 

@@ -84,7 +84,7 @@ If Agile is the [philosophy](/philosophy), Scrum is the most widely adopted play
 
 Scrum defines three roles:
 
-**Product Owner** — This person represents the customer and the business. They maintain a prioritized backlog of features and user stories, deciding what gets built next. A good Product Owner makes hard trade-off decisions and ensures the team builds the most valuable thing first. A bad one either micromanages or disappears entirely.
+**Product Owner** — This person represents the customer and the business. They maintain a prioritized backlog of features and user stories, deciding what gets built next. A good Product Owner makes hard [trade](/trade)-off decisions and ensures the team builds the most valuable thing first. A bad one either micromanages or disappears entirely.
 
 **Scrum Master** — Part coach, part obstacle-remover, part process guardian. The Scrum Master doesn't manage the team — they serve the team. They facilitate meetings, protect the team from outside interruptions, and help the team improve its own processes. Think of them as a combination of referee and therapist.
 
@@ -98,7 +98,7 @@ Scrum organizes work into fixed-length iterations called sprints, usually lastin
 
 **Daily Standup** (or Daily Scrum) — A 15-minute meeting, every day, where each team member answers three questions: What did I do yesterday? What will I do today? What's blocking me? The standup isn't a status report for managers. It's a coordination mechanism for the team.
 
-**Sprint Review** — At the end of the sprint, the team demonstrates the working software they've built to stakeholders. Real software, actually running — not slides, not mockups. Stakeholders provide feedback that shapes future work.
+**Sprint Review** — At the end of the sprint, the team demonstrates the working software they've built to stakeholders. Real software, actually [running](/running) — not slides, not mockups. Stakeholders provide feedback that shapes future work.
 
 **Sprint Retrospective** — The team reflects on how they worked during the sprint. What went well? What didn't? What should they change? This is arguably the most important ceremony in Scrum because it creates a built-in improvement mechanism. Teams that skip retros stop getting better.
 
@@ -136,7 +136,7 @@ Kanban works particularly well for teams handling a continuous stream of incomin
 
 Scrum and Kanban get most of the attention, but the Agile ecosystem includes other approaches worth knowing about.
 
-**Extreme Programming (XP)** — Created by Kent Beck, XP emphasizes engineering practices as much as process. Pair programming, test-driven development (TDD), continuous integration, collective code ownership, and frequent releases are all core XP practices. Many of these have been absorbed into mainstream development even by teams that don't formally follow XP.
+**Extreme Programming (XP)** — Created by Kent Beck, XP emphasizes [engineering](/engineering) practices as much as process. Pair programming, test-driven development (TDD), continuous integration, collective code ownership, and frequent releases are all core XP practices. Many of these have been absorbed into mainstream development even by teams that don't formally follow XP.
 
 **Lean Software Development** — Adapted from [lean manufacturing](/lean-manufacturing) principles at Toyota, Lean focuses on eliminating waste, delivering fast, and amplifying learning. It asks teams to identify which activities create value for the customer and cut everything else. Lean thinking heavily influenced Kanban.
 
@@ -154,7 +154,7 @@ The team starts a two-week sprint by pulling the top items from the backlog. The
 
 For the next two weeks, the team writes code, writes tests, reviews each other's work, and deploys to a staging environment. They meet for 15 minutes every morning to coordinate. When a developer finishes a feature, it goes through code review and automated testing before being merged. The Product Owner is available throughout the sprint to clarify requirements and answer questions.
 
-At the sprint review, the team demonstrates a working version of the app with three new features. Stakeholders from marketing notice that the account balance screen doesn't show pending transactions — something nobody thought of during planning. The Product Owner adds "show pending transactions" to the backlog and prioritizes it for the next sprint.
+At the sprint review, the team demonstrates a working version of the app with three new features. Stakeholders from [marketing](/marketing) notice that the account balance screen doesn't show pending transactions — something nobody thought of during planning. The Product Owner adds "show pending transactions" to the backlog and prioritizes it for the next sprint.
 
 At the retrospective, the team notes that code reviews took too long this sprint. They agree to a new policy: reviews must be completed within 4 hours of submission. They'll check whether this helped at the next retro.
 
@@ -196,7 +196,7 @@ Agile doesn't exist in isolation. Several technical and cultural practices have 
 
 **DevOps** — The cultural and technical movement to break down walls between development and operations teams. If your developers can write code quickly but deployments take three months of paperwork, Agile can't deliver on its promises. DevOps ensures the full pipeline from code to production is fast and reliable.
 
-**Test-Driven Development (TDD)** — Write the test before writing the code. This practice, borrowed from XP, ensures every feature has automated tests and helps developers think about design before implementation.
+**Test-Driven Development (TDD)** — Write the test before [writing](/writing) the code. This practice, borrowed from XP, ensures every feature has automated tests and helps developers think about design before implementation.
 
 **User Story Mapping** — A technique for organizing backlog items into a visual map that shows the user's journey through the product. It helps teams see the big picture while still working in small increments.
 

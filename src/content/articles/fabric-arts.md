@@ -31,13 +31,13 @@ faq:
 
 # What Is Fabric Arts?
 
-Fabric arts — sometimes called [textile arts](/textile-arts) — cover any creative practice that uses fabric, thread, yarn, or fiber as its primary medium. That includes weaving, [quilting](/quilting), [embroidery](/embroidery), [knitting](/knitting), crocheting, dyeing, felting, and dozens of other techniques humans have practiced for thousands of years. It's one of the oldest art forms we have, and frankly, one of the most underappreciated.
+Fabric arts — sometimes called [textile arts](/textile-arts) — cover any creative practice that uses fabric, thread, yarn, or fiber as its primary medium. That includes [weaving](/weaving), [quilting](/quilting), [embroidery](/embroidery), [knitting](/knitting), crocheting, [dyeing](/dyeing), felting, and dozens of other techniques humans have practiced for thousands of years. It's one of the oldest art forms we have, and frankly, one of the most underappreciated.
 
 ## A Really Old Tradition
 
 People have been making textiles for at least 27,000 years. The evidence comes from clay impressions found at archaeological sites in the Czech Republic — the fabric itself decomposed long ago, but the patterns it left in wet clay survived. By about 7,000 BCE, communities in what's now Turkey were producing sophisticated woven cloth.
 
-Every major civilization developed its own textile traditions. Egyptian linen was so fine it was practically transparent. Chinese silk production dates back to at least 3600 BCE, and [the Silk Road](/silk-road) trade network that connected Asia to Europe was named after this single textile. Peruvian cultures created textiles so complex — with hundreds of thread colors and complex patterns — that researchers are still trying to decode the information they encoded.
+Every major civilization developed its own textile traditions. Egyptian linen was so fine it was practically transparent. Chinese silk production dates back to at least 3600 BCE, and [the Silk Road](/silk-road) [trade](/trade) network that connected Asia to Europe was named after this single textile. Peruvian cultures created textiles so complex — with hundreds of thread colors and complex patterns — that researchers are still trying to decode the information they encoded.
 
 The weird part is that despite this deep history, fabric arts were consistently treated as "lesser" compared to [painting](/painting) or [sculpture](/sculpture). The reason? Gender. Textile work was primarily associated with women and domestic life, so the art world classified it as "craft" rather than "art." That distinction had nothing to do with skill or creativity and everything to do with who was doing the work.
 

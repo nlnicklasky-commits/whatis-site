@@ -41,13 +41,13 @@ Mineralogy is the branch of [geology](/geology) that studies minerals—naturall
 
 ## Earth's Building Blocks
 
-Everything solid on Earth is made of minerals. The ground you walk on, the mountains on the horizon, the sand at the beach, the clay in pottery, the salt on your food—all minerals or made from minerals. Even your bones contain the mineral hydroxyapatite.
+Everything solid on Earth is made of minerals. The ground you walk on, the mountains on the horizon, the sand at the beach, the clay in [pottery](/pottery), the salt on your food—all minerals or made from minerals. Even your bones contain the mineral hydroxyapatite.
 
 There are about 6,000 recognized mineral species, but here's a surprising fact: just a dozen or so minerals make up the vast majority of Earth's crust. Feldspars alone account for roughly 60% of the crust by volume. Add quartz, pyroxene, amphibole, mica, olivine, and clay minerals, and you've covered about 95%.
 
 The other 5,000+ minerals are rare—some found at only a single location on Earth, some in quantities measured in grams. But these rare minerals are far from irrelevant. Many contain critical elements for technology (lithium, cobalt, rare earth elements), and studying them reveals conditions deep inside Earth that we can't observe directly.
 
-Mineralogy is old. People have been fascinated by minerals since [prehistory](/prehistory)—flint tools, ochre pigments, obsidian trade networks. The ancient Greeks and Romans cataloged minerals, though their classification systems were based on practical uses (stones that attract iron, stones that burn) rather than scientific properties. Modern mineralogy began in the 18th century when scientists started systematically analyzing mineral compositions and crystal shapes.
+Mineralogy is old. People have been fascinated by minerals since [prehistory](/prehistory)—flint tools, ochre pigments, obsidian [trade](/trade) networks. The ancient Greeks and Romans cataloged minerals, though their classification systems were based on practical uses (stones that attract iron, stones that burn) rather than scientific properties. Modern mineralogy began in the 18th century when scientists started systematically analyzing mineral compositions and crystal shapes.
 
 ## What Makes Something a Mineral?
 
@@ -172,7 +172,7 @@ Minerals aren't just specimens in a museum case. They're the raw materials of ci
 
 An ore mineral is one that contains a valuable metal in sufficient concentration to be economically extracted. Chalcopyrite (CuFeS2) is the primary ore of copper. Galena (PbS) is the primary ore of lead. Bauxite (a mixture of aluminum hydroxide minerals) is the ore of aluminum.
 
-The economics of ore minerals constantly shift. A mineral deposit that's unprofitable at $3/pound copper becomes a gold mine (figuratively) at $5/pound. Advances in extraction technology turn previously worthless rock into viable ore. The entire discipline of [earth-science](/earth-science) applied to resource extraction depends on understanding mineral properties and associations.
+The [economics](/economics) of ore minerals constantly shift. A mineral deposit that's unprofitable at $3/pound copper becomes a gold mine (figuratively) at $5/pound. Advances in extraction technology turn previously worthless rock into viable ore. The entire discipline of [earth-science](/earth-science) applied to resource extraction depends on understanding mineral properties and associations.
 
 ### Critical Minerals
 

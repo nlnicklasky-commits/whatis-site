@@ -41,7 +41,7 @@ Neurolinguistics is the study of how the brain processes language. It investigat
 
 Right now, your brain is performing one of its most sophisticated computations: reading. Your eyes fixate on groups of letters, your visual cortex identifies them, your language network assembles them into words, retrieves their meanings, builds syntactic structures, integrates them into the context of the paragraph, and generates understanding — all in about 200-500 milliseconds per word.
 
-You do this without effort. You don't consciously decode grammar or look up word meanings. It just happens. And that effortlessness masks staggering complexity.
+You do this without effort. You don't consciously decode [grammar](/grammar) or look up word meanings. It just happens. And that effortlessness masks staggering complexity.
 
 Consider what's required to understand a single sentence. Your brain must segment continuous sound (or text) into discrete words. Retrieve each word's meaning from a mental dictionary of roughly 50,000-100,000 entries. Determine the grammatical relationships between words. Resolve ambiguities (does "bank" mean a financial institution or a river's edge?). Integrate the sentence's meaning with everything else you know. And do all of this fast enough to keep up with speech arriving at 150-200 words per minute.
 
@@ -69,7 +69,7 @@ Wernicke identified the responsible area in the left posterior superior temporal
 
 The Broca-Wernicke model was a beautiful starting point, but modern neuroimaging has revealed it's a dramatic oversimplification. Language doesn't neatly divide into "production" and "comprehension" in two discrete brain regions.
 
-Broca's area turns out to be involved in comprehension too — specifically in processing complex syntax. And it activates during music perception, action observation, and other non-language tasks. Wernicke's area has been so inconsistently defined by different researchers that some neurolinguists have argued the term should be retired.
+Broca's area turns out to be involved in comprehension too — specifically in processing complex [syntax](/syntax). And it activates during music perception, action observation, and other non-language tasks. Wernicke's area has been so inconsistently defined by different researchers that some neurolinguists have argued the term should be retired.
 
 The reality, as revealed by fMRI, lesion mapping, and electrophysiology, is that language is processed by a distributed network spanning much of the left hemisphere and portions of the right.
 
@@ -111,13 +111,13 @@ Recent research using diffusion tensor imaging has revealed that these pathways 
 
 ## How the Brain Reads
 
-Reading is neurologically weird. Writing was invented only about 5,000 years ago — far too recent for evolution to have produced dedicated reading circuits. Instead, the brain repurposes existing systems.
+Reading is neurologically weird. [Writing](/writing) was invented only about 5,000 years ago — far too recent for evolution to have produced dedicated reading circuits. Instead, the brain repurposes existing systems.
 
 ### The Visual Word Form Area
 
 A small region in the left fusiform gyrus — the visual word form area (VWFA) — becomes specialized for recognizing written words. In literate people, this region responds more to letter strings than to other visual objects. It develops in an area that, in non-literate people, responds to faces and objects.
 
-Stanislas Dehaene's "neuronal recycling" hypothesis proposes that learning to read hijacks visual neurons originally evolved for object recognition, repurposing them for letter and word recognition. This is why reading feels effortless — you're using a high-powered visual recognition system that evolution spent millions of years refining, just aimed at a new target.
+Stanislas Dehaene's "neuronal [recycling](/recycling)" hypothesis proposes that learning to read hijacks visual neurons originally evolved for object recognition, repurposing them for letter and word recognition. This is why reading feels effortless — you're using a high-powered visual recognition system that evolution spent millions of years refining, just aimed at a new target.
 
 ### The Dual Route Model
 
@@ -143,7 +143,7 @@ Electroencephalography (EEG) reveals the brain's electrical responses to linguis
 
 **The ELAN** (Early Left Anterior Negativity) — appears as early as 150-200 milliseconds and responds to phrase structure violations. Its speed suggests that some syntactic processing is nearly automatic.
 
-These components reveal that the brain processes semantics and syntax in parallel, using partially distinct neural mechanisms, and begins language processing within the first 200 milliseconds of encountering a word.
+These components reveal that the brain processes [semantics](/semantics) and syntax in parallel, using partially distinct neural mechanisms, and begins language processing within the first 200 milliseconds of encountering a word.
 
 ## Bilingualism and the Brain
 
@@ -163,7 +163,7 @@ Remarkably, sign languages activate the same left-hemisphere language network as
 
 ## Language Development
 
-Children acquire language with astonishing speed and minimal instruction. By age 6, a child typically knows 10,000-14,000 words and can produce grammatically complex sentences — all without formal teaching.
+Children acquire language with astonishing speed and minimal instruction. By age 6, a child typically knows 10,000-14,000 words and can produce grammatically complex sentences — all without formal [teaching](/teaching).
 
 ### The Critical Period
 

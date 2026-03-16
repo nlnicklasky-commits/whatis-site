@@ -35,7 +35,7 @@ faq:
 
 # What Is Geophysics?
 
-Geophysics is the branch of science that applies the principles and methods of physics to study Earth's structure, composition, and the physical processes occurring within and around it. By measuring phenomena like seismic waves, magnetic fields, gravitational variations, and heat flow, geophysicists investigate everything from the planet's deep interior to its atmosphere—revealing details that direct observation alone could never uncover.
+Geophysics is the branch of science that applies the principles and methods of [physics](/physics) to study Earth's structure, composition, and the physical processes occurring within and around it. By measuring phenomena like seismic waves, magnetic fields, gravitational variations, and heat flow, geophysicists investigate everything from the planet's deep interior to its atmosphere—revealing details that direct observation alone could never uncover.
 
 ## Why We Need Geophysics
 
@@ -51,7 +51,7 @@ Geophysics is broad. Really broad. It spans everything from the inner core to th
 
 ### Seismology: Listening to the Earth
 
-Seismology—the study of seismic waves—is arguably the most important branch of geophysics. Earthquakes generate waves that travel through the entire planet, and how those waves behave reveals the interior structure.
+[Seismology](/seismology)—the study of seismic waves—is arguably the most important branch of geophysics. Earthquakes generate waves that travel through the entire planet, and how those waves behave reveals the interior structure.
 
 There are two main types of seismic body waves:
 
@@ -65,7 +65,7 @@ Modern seismology goes far beyond just mapping layers. **Seismic tomography** cr
 
 ### Geodesy: Measuring Earth's Shape and Motion
 
-Geodesy measures Earth's shape, orientation, and gravitational field with extreme precision. And I mean extreme—modern GPS networks can detect ground movement of less than a millimeter per year.
+[Geodesy](/geodesy) measures Earth's shape, orientation, and gravitational field with extreme precision. And I mean extreme—modern GPS networks can detect ground movement of less than a millimeter per year.
 
 This precision reveals things invisible to casual observation. GPS stations along the San Andreas Fault show exactly how fast the Pacific and North American plates move relative to each other (about 46 mm/year). GPS measurements in Scandinavia show that the land is still rising—up to 1 centimeter per year—after being compressed by ice sheets that melted 10,000 years ago. The ground is literally bouncing back in slow motion.
 
@@ -75,7 +75,7 @@ Satellite geodesy measures Earth's gravitational field with enough precision to 
 
 Earth generates a magnetic field through the motion of liquid iron in the outer core—a process called the geodynamo. This field extends thousands of kilometers into space, forming the magnetosphere that shields the planet from solar wind and cosmic radiation. Without it, the solar wind would strip away Earth's atmosphere. Mars likely lost much of its atmosphere after its magnetic field died.
 
-Geophysicists study Earth's magnetic field because it reveals information about the core, it has practical applications (compass navigation, wildlife migration), and it changes over time in ways we don't fully understand.
+Geophysicists study Earth's magnetic field because it reveals information about the core, it has practical applications (compass [navigation](/navigation), wildlife migration), and it changes over time in ways we don't fully understand.
 
 The field flips polarity irregularly—north becomes south and vice versa. This has happened hundreds of times over Earth's history, with intervals ranging from tens of thousands to millions of years. The last reversal occurred about 780,000 years ago. During a reversal, the field weakens significantly, potentially increasing radiation exposure at the surface. We don't know when the next one will happen, but the current field has weakened about 10% over the past 200 years.
 
@@ -83,7 +83,7 @@ Paleomagnetism—studying ancient magnetic field directions preserved in rocks�
 
 ### Gravity: Weighing the Earth
 
-Earth's gravitational field isn't perfectly uniform. It varies because of topography (mountains exert slightly more pull than valleys), because of density variations in the subsurface (dense ore bodies pull harder than porous sediment), and because Earth isn't a perfect sphere (it bulges at the equator due to rotation).
+Earth's gravitational field isn't perfectly uniform. It varies because of [topography](/topography) (mountains exert slightly more pull than valleys), because of density variations in the subsurface (dense ore bodies pull harder than porous sediment), and because Earth isn't a perfect sphere (it bulges at the equator due to rotation).
 
 **Gravity surveys** measure these tiny variations—typically in units of milligals (one milligal is about one millionth of Earth's surface gravity). These measurements reveal subsurface structures invisible from the surface: buried geological faults, ore deposits, salt domes, and even archaeological features.
 
@@ -91,7 +91,7 @@ Oil exploration relies heavily on gravity surveys. Salt domes—columns of salt 
 
 ### Heat Flow: Earth's Thermal Engine
 
-Earth is hot inside—the core temperature is about 5,500 degrees Celsius, comparable to the Sun's surface. This heat drives mantle convection, plate tectonics, volcanism, and the geodynamo. Geothermal heat flow measurements at the surface reveal how heat escapes from the interior.
+Earth is hot inside—the core temperature is about 5,500 degrees Celsius, comparable to the Sun's surface. This heat drives mantle convection, plate [tectonics](/tectonics), volcanism, and the geodynamo. Geothermal heat flow measurements at the surface reveal how heat escapes from the interior.
 
 Average heat flow at Earth's surface is about 87 milliwatts per square meter. That's not much—you wouldn't feel it—but integrated over the entire planet, it amounts to about 44 terawatts of power, roughly twice humanity's total energy consumption.
 
@@ -113,7 +113,7 @@ A large proportion of working geophysicists are employed in exploration—findin
 
 Seismic reflection profiling is the backbone of petroleum exploration. Geophysicists generate seismic waves (using vibrating trucks on land or air guns at sea) and record reflections from subsurface layers. The resulting images look like cross-sections of the earth, showing rock layers, faults, and structures that might trap oil and gas.
 
-Modern 3D and 4D (time-lapse) seismic surveys create extraordinarily detailed images of subsurface geology. A typical offshore 3D survey might involve recording data from tens of thousands of receiver positions, with processing requiring months of supercomputer time. The investment is justified because drilling a single offshore exploration well can cost $100 million or more—you want to know what you're drilling into.
+Modern 3D and 4D (time-lapse) seismic surveys create extraordinarily detailed images of subsurface [geology](/geology). A typical offshore 3D survey might involve recording data from tens of thousands of receiver positions, with processing requiring months of supercomputer time. The investment is justified because drilling a single offshore exploration well can cost $100 million or more—you want to know what you're drilling into.
 
 ### Mining
 
@@ -221,6 +221,6 @@ The field also contributes to addressing global challenges: [climate change](/cl
 
 Geophysics applies the principles of physics to study Earth's structure and processes. Its main branches—seismology, geodesy, geomagnetism, gravimetry, heat flow, and electromagnetics—use different physical measurements to reveal different aspects of the planet.
 
-The field provided the evidence for plate tectonics, maps earthquake hazards, finds natural resources, monitors climate change, and extends to other planets. It connects the abstract beauty of physics to some of the most practical problems facing humanity—from building earthquake-safe structures to finding clean water to understanding how our planet evolves over billions of years.
+The field provided the evidence for plate tectonics, maps earthquake hazards, finds natural resources, monitors [climate change](/climate-change), and extends to other planets. It connects the abstract beauty of physics to some of the most practical problems facing humanity—from building earthquake-safe structures to finding clean water to understanding how our planet evolves over billions of years.
 
 At its heart, geophysics is about using physical signals to see what we cannot directly observe. Earth doesn't give up its secrets easily. But by listening to its seismic whispers, measuring its magnetic embrace, and weighing its gravitational pull, geophysicists have revealed a world far more complex, more active, and more fascinating than anything visible from the surface.

@@ -37,7 +37,7 @@ faq:
 
 # What Is Speleology?
 
-Speleology is the scientific study of caves — their formation, physical structure, history, biology, and the geological processes that create and modify them over time. The word comes from the Greek *spelaion* (cave) and *logos* (study), and the discipline sits at the intersection of geology, [hydrology](/hydrology), [chemistry](/chemistry), [biology](/biology), and climatology.
+Speleology is the scientific study of caves — their formation, physical structure, history, biology, and the geological processes that create and modify them over time. The word comes from the Greek *spelaion* (cave) and *logos* (study), and the discipline sits at the intersection of [geology](/geology), [hydrology](/hydrology), [chemistry](/chemistry), [biology](/biology), and climatology.
 
 Caves are more than holes in rock. They're windows into Earth's history, reservoirs for groundwater, refuges for unique species found nowhere else, and archives of climate data stretching back hundreds of thousands of years.
 
@@ -79,7 +79,7 @@ Karst landscapes develop wherever soluble bedrock (usually limestone) is exposed
 
 - **Sinkholes** — circular depressions where the surface has collapsed into underground voids. Florida has thousands; one famously swallowed a house in Seffner in 2013.
 - **Disappearing streams** — rivers that flow into caves and vanish underground, sometimes reemerging kilometers away.
-- **Springs** — points where underground water returns to the surface, often in spectacular fashion. Florida's Silver Springs discharges about 2 billion liters per day.
+- **[Springs](/springs)** — points where underground water returns to the surface, often in spectacular fashion. Florida's Silver Springs discharges about 2 billion liters per day.
 - **Dry valleys** — valleys that once carried surface streams before the water was captured underground.
 
 Approximately 15 to 20 percent of Earth's ice-free land surface is karst or near-karst terrain. This matters enormously for water resources — karst aquifers supply drinking water to roughly 25 percent of the world's population. Understanding cave hydrology is therefore not just academic; it's a [public health](/public-health) necessity.
@@ -156,13 +156,13 @@ Cave surveys produce both plan views (looking down) and profile views (side view
 
 Reaching the deepest caves on Earth is one of the most demanding activities in exploration. Veryovkina Cave in the western Caucasus Mountains is the deepest known cave at 2,212 meters — that's deeper than six Empire State Buildings stacked end to end. Reaching the bottom requires multiple days of vertical rope work through shafts hundreds of meters deep, tight squeezes, underground rivers, and sumps (passages completely filled with water that must be dived through).
 
-The exploration teams that push these caves are small, self-sufficient, and operate in conditions where rescue is essentially impossible. A serious injury at the bottom of a cave two kilometers deep, hours of technical caving from the surface, presents a logistical nightmare that has led to some of the most complex rescue operations in history.
+The exploration teams that push these caves are small, self-sufficient, and operate in conditions where rescue is essentially impossible. A serious injury at the bottom of a cave two kilometers deep, hours of technical [caving](/caving) from the surface, presents a logistical nightmare that has led to some of the most complex rescue operations in history.
 
 ### Cave Diving
 
 Underwater cave exploration is arguably the most dangerous form of exploration still practiced. Cave divers penetrate flooded passages using scuba equipment, navigating in zero visibility through labyrinthine tunnels where getting lost means death.
 
-Despite the risks, cave diving has produced extraordinary discoveries. Sistema Sac Actun in Mexico's Yucatan Peninsula, the world's longest underwater cave system at over 380 kilometers, was entirely explored by divers. These submerged caves contain Maya [archaeological](/archaeology) artifacts, Pleistocene animal remains, and the oldest known human skeleton in the Americas — the roughly 12,000-year-old "Naia," found in a submerged chamber.
+Despite the risks, cave [diving](/diving) has produced extraordinary discoveries. Sistema Sac Actun in Mexico's Yucatan Peninsula, the world's longest underwater cave system at over 380 kilometers, was entirely explored by divers. These submerged caves contain Maya [archaeological](/archaeology) artifacts, Pleistocene animal remains, and the oldest known human skeleton in the Americas — the roughly 12,000-year-old "Naia," found in a submerged chamber.
 
 ## Conservation: The Fragile Underground
 
@@ -176,13 +176,13 @@ Caves are extraordinarily fragile environments. A stalactite that took 10,000 ye
 
 **Pollution** — contaminants entering through the karst hydrogeological system can wipe out entire cave ecosystems. Agricultural runoff, sewage, and industrial waste all find their way underground in karst terrain.
 
-**Climate change** — altered precipitation patterns affect speleothem growth, cave hydrology, and the temperature-sensitive organisms that inhabit caves. Some troglobites exist in very narrow temperature ranges and cannot migrate if conditions change.
+**[Climate change](/climate-change)** — altered precipitation patterns affect speleothem growth, cave hydrology, and the temperature-sensitive organisms that inhabit caves. Some troglobites exist in very narrow temperature ranges and cannot migrate if conditions change.
 
 **Show cave development** — lighting installed in tourist caves promotes algae growth ("lampenflora") on formations, and the heat and CO2 from large visitor numbers alter the cave's microclimate. Managing these impacts while keeping caves accessible to the public is a constant balancing act.
 
 ### Conservation Practices
 
-The caving community generally follows the motto: "Take nothing but photographs, leave nothing but footprints." Most organized caving groups have strict ethics codes about formation protection, minimal impact practices, and gate installation at sensitive caves to control access.
+The caving community generally follows the motto: "Take nothing but photographs, leave nothing but footprints." Most organized caving groups have strict [ethics](/ethics) codes about formation protection, minimal impact practices, and gate installation at sensitive caves to control access.
 
 [National parks](/national-parks) and other protected areas preserve some of the world's most significant caves. Mammoth Cave National Park, Carlsbad Caverns, and Postojna Cave in Slovenia are among the best-protected cave systems globally. But the vast majority of caves have no formal protection at all.
 

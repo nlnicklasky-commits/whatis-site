@@ -41,7 +41,7 @@ Freemasonry is a fraternal organization that uses symbolic rituals, moral allego
 
 The honest answer about Freemasonry's origins is that nobody knows for certain — and that ambiguity has fueled centuries of wild speculation. The most historically grounded explanation traces it to the medieval stonemasons' guilds that built Europe's great cathedrals.
 
-These weren't ordinary tradesmen. Building a Gothic cathedral required advanced knowledge of [geometry](/geometry), [materials science](/materials-science), and [structural engineering](/structural-engineering) — knowledge that took years to acquire through apprenticeship. The stonemasons organized into guilds that protected their trade secrets, set standards for workmanship, and provided mutual aid to members and their families.
+These weren't ordinary tradesmen. Building a Gothic cathedral required advanced knowledge of [geometry](/geometry), [materials science](/materials-science), and [structural engineering](/structural-engineering) — knowledge that took years to acquire through apprenticeship. The stonemasons organized into guilds that protected their [trade](/trade) secrets, set standards for workmanship, and provided mutual aid to members and their families.
 
 The guilds met in temporary buildings called lodges, built adjacent to [construction](/construction) sites. Within these lodges, masons developed systems of passwords and handshakes to identify fellow craftsmen — critical in an era when workers traveled between projects and needed to prove their qualifications to strangers.
 
@@ -61,7 +61,7 @@ Freemasonry's core experience is the degree system — a series of three ritual 
 
 **Fellow Craft (Second Degree).** This ceremony focuses on learning and intellectual growth. It uses architectural symbolism — pillars, staircases, working tools — to teach lessons about the value of [education](/education) and the liberal arts.
 
-**Master Mason (Third Degree).** The climactic ceremony centers on the legend of Hiram Abiff, the mythical architect of King Solomon's Temple. Without spoiling the details (Masons take this seriously), the drama explores themes of fidelity, mortality, and integrity under pressure. Completion of this degree makes one a full member of the fraternity.
+**Master Mason (Third Degree).** The climactic ceremony centers on the legend of Hiram Abiff, the mythical architect of King Solomon's Temple. Without spoiling the details (Masons take this seriously), the [drama](/drama) explores themes of fidelity, mortality, and integrity under pressure. Completion of this degree makes one a full member of the fraternity.
 
 Each degree uses physical props, costumed participants, memorized dialogue, and sensory elements to create an immersive experience. Think of it as philosophical theater — the candidate doesn't just hear moral lessons, he participates in them.
 
@@ -69,7 +69,7 @@ Each degree uses physical props, costumed participants, memorized dialogue, and 
 
 Masonic symbolism borrows heavily from the building trade, and you've probably seen these symbols without knowing their meaning:
 
-**The Square and Compasses** — Freemasonry's most recognizable emblem. The square represents morality (acting "on the square" means being honest), while the compasses represent self-restraint — keeping your passions within bounds. The "G" sometimes displayed between them stands for both God and Geometry.
+**The Square and Compasses** — Freemasonry's most recognizable emblem. The square represents morality ([acting](/acting) "on the square" means being honest), while the compasses represent self-restraint — keeping your passions within bounds. The "G" sometimes displayed between them stands for both God and Geometry.
 
 **The All-Seeing Eye** — representing the watchfulness of the Supreme Being. Yes, this is the same symbol on the back of the U.S. dollar bill, though whether the dollar's designer intended a Masonic reference is debated.
 
@@ -113,7 +113,7 @@ Freemasonry is catnip for conspiracy theorists. Theories range from the mildly p
 
 ## Freemasonry Today
 
-Modern Freemasonry faces a serious membership challenge. In the United States, membership peaked at about 4.1 million in 1959. By 2023, it had fallen below 1 million. The decline mirrors the broader collapse of fraternal and civic organizations documented in Robert Putnam's *Bowling Alone* — Americans simply join fewer organizations than they used to.
+Modern Freemasonry faces a serious membership challenge. In the United States, membership peaked at about 4.1 million in 1959. By 2023, it had fallen below 1 million. The decline mirrors the broader collapse of fraternal and civic organizations documented in Robert Putnam's *[Bowling](/bowling) Alone* — Americans simply join fewer organizations than they used to.
 
 The average age of American Masons has climbed steadily, and many lodges struggle to attract younger members. Some grand lodges have responded by modernizing their recruitment (dropping the "you must ask" tradition), updating lodge facilities, and emphasizing community service and social events over lengthy ritual.
 

@@ -39,7 +39,7 @@ Social justice is the principle that all people deserve equal access to wealth, 
 
 ## The Idea Has Been Around Longer Than the Name
 
-People have argued about what makes a society fair for as long as societies have existed. But the specific intellectual lineage of "social justice" as a concept starts with the Greeks and winds through religious teaching, Enlightenment philosophy, and modern political theory.
+People have argued about what makes a society fair for as long as societies have existed. But the specific intellectual lineage of "social justice" as a concept starts with the Greeks and winds through religious teaching, Enlightenment [philosophy](/philosophy), and modern political theory.
 
 ### Plato and Aristotle Got the Ball Rolling
 
@@ -51,7 +51,7 @@ But here's what both Greek thinkers missed: they assumed slavery was natural and
 
 ### Religious Traditions and the Dignity of the Poor
 
-Every major world religion contains principles that connect to social justice, though the emphasis varies.
+Every major world [religion](/religion) contains principles that connect to social justice, though the emphasis varies.
 
 In Judaism, the concept of *tzedakah* (often translated as charity, but more accurately meaning righteousness or justice) creates obligations to the poor that aren't optional — they're duties. The Hebrew Bible repeatedly commands fair treatment of widows, orphans, and strangers.
 
@@ -63,7 +63,7 @@ Islam's zakat (one of the Five Pillars) mandates giving 2.5% of one's wealth to 
 
 The 17th and 18th centuries brought a radical shift in thinking about justice. Instead of grounding it in divine command or natural hierarchy, Enlightenment philosophers asked: what would rational people agree to if they were designing a society from scratch?
 
-Thomas Hobbes argued that without government, life would be "solitary, poor, nasty, brutish, and short." People submit to authority for protection. John Locke countered that people have natural rights — life, liberty, property — that no government can legitimately violate. Jean-Jacques Rousseau pushed further still, arguing that legitimate political authority requires the consent of the governed and that inequality corrupts society.
+Thomas Hobbes argued that without [government](/government), life would be "solitary, poor, nasty, brutish, and short." People submit to authority for protection. John Locke countered that people have natural rights — life, liberty, property — that no government can legitimately violate. Jean-Jacques Rousseau pushed further still, arguing that legitimate political authority requires the consent of the governed and that inequality corrupts society.
 
 These ideas directly fueled the American and French Revolutions. The Declaration of Independence's "all men are created equal" is a social justice claim — though its authors owned slaves, which tells you something about the persistent gap between social justice as an ideal and social justice as a practice.
 
@@ -91,15 +91,15 @@ Critics from the left say Rawls is too accepting of inequality. Critics from the
 
 Rawls's Harvard colleague Robert Nozick fired back in 1974 with *Anarchy, State, and Utopia*. Nozick argued that justice isn't about distribution patterns at all — it's about process. If you acquired something fairly (through labor, voluntary exchange, or gift), it's yours. Period. The government has no right to redistribute it, no matter how unequal the results.
 
-Nozick's famous Wilt Chamberlain example illustrates his point: if a million basketball fans each voluntarily pay 25 cents extra to watch Wilt Chamberlain play, Chamberlain ends up with $250,000 more than anyone else. Is that unjust? Each transaction was voluntary. Nobody was coerced. The resulting inequality emerged from free choices.
+Nozick's famous Wilt Chamberlain example illustrates his point: if a million [basketball](/basketball) fans each voluntarily pay 25 cents extra to watch Wilt Chamberlain play, Chamberlain ends up with $250,000 more than anyone else. Is that unjust? Each transaction was voluntary. Nobody was coerced. The resulting inequality emerged from free choices.
 
 This libertarian framework appeals to people who prioritize individual freedom above collective outcomes. Its critics point out that it ignores how initial distributions of wealth and property were rarely "fair" to begin with — if your great-grandparents' land was stolen, the fact that subsequent transactions were "voluntary" doesn't make the current distribution just.
 
 ### Amartya Sen and the Capabilities Approach
 
-Indian economist and philosopher Amartya Sen (Nobel Prize in Economics, 1998) took a different angle entirely. Instead of asking about the distribution of goods or the fairness of processes, Sen asked: what can people actually *do* and *be*?
+Indian economist and philosopher Amartya Sen (Nobel Prize in [Economics](/economics), 1998) took a different angle entirely. Instead of asking about the distribution of goods or the fairness of processes, Sen asked: what can people actually *do* and *be*?
 
-His capabilities approach defines justice in terms of substantive freedoms — not just formal rights, but real abilities. You might have the legal right to education, but if you can't afford food and need your children to work, that right is meaningless. Sen argued that justice requires ensuring people have genuine capabilities: the ability to be healthy, to be educated, to participate in community life, to live with dignity.
+His capabilities approach defines justice in terms of substantive freedoms — not just formal rights, but real abilities. You might have the legal right to [education](/education), but if you can't afford food and need your children to work, that right is meaningless. Sen argued that justice requires ensuring people have genuine capabilities: the ability to be healthy, to be educated, to participate in community life, to live with dignity.
 
 Martha Nussbaum, a philosopher at the University of Chicago, expanded Sen's framework into a specific list of central capabilities that every just society must guarantee, including life, bodily health, bodily integrity, practical reason, affiliation, and control over one's environment.
 
@@ -121,7 +121,7 @@ The campaign to end slavery — spanning the late 18th to late 19th centuries ac
 
 The [labor movement](/capitalism) of the 19th and early 20th centuries fought for the eight-hour workday, [workplace safety](/workplace-safety), child labor laws, and the right to organize unions. Before these movements, 12- to 16-hour workdays were standard, children as young as five worked in factories and mines, and workplace deaths were treated as an ordinary cost of doing business.
 
-The Triangle Shirtwaist Factory fire in New York City in 1911 — which killed 146 garment workers, mostly young immigrant women, because the exits were locked — became a catalyst for labor reform and fire safety regulation. Sometimes progress requires tragedy that makes injustice impossible to ignore.
+The Triangle Shirtwaist Factory fire in New York City in 1911 — which killed 146 garment workers, mostly young immigrant women, because the exits were locked — became a catalyst for labor reform and [fire safety](/fire-safety) regulation. Sometimes progress requires tragedy that makes injustice impossible to ignore.
 
 ### Civil Rights
 
@@ -151,7 +151,7 @@ Social justice is deeply contested terrain. Reasonable people disagree — somet
 
 Should social justice aim for equal starting points (everyone gets the same education, the same legal protections, the same access to healthcare) and then accept whatever results emerge? Or should it aim for more equal outcomes, using redistribution and affirmative policies to correct disparities?
 
-Equality of opportunity sounds great in theory, but in practice, opportunities are shaped by wealth, geography, family connections, and inherited advantages. A kid born into poverty in a low-performing school district doesn't have the same "opportunity" as a kid born into wealth with private tutors, regardless of what the law says.
+Equality of opportunity sounds great in theory, but in practice, opportunities are shaped by wealth, [geography](/geography), family connections, and inherited advantages. A kid born into poverty in a low-performing school district doesn't have the same "opportunity" as a kid born into wealth with private tutors, regardless of what the law says.
 
 Equality of outcome, on the other hand, raises concerns about individual initiative and whether identical outcomes are even desirable. If two people have the same opportunities but make different choices, should the government equalize their results?
 

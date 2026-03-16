@@ -55,7 +55,7 @@ This makes sense when you think about it. Invertebrates have been around far lon
 
 Trilobites dominated Earth's oceans for nearly 300 million years (521-252 million years ago). Over 20,000 species have been described. Their calcite exoskeletons fossilize beautifully, and their rapid evolution makes them excellent index fossils — organisms used to date the rocks they're found in.
 
-Trilobite eyes are particularly fascinating. Some had compound eyes with calcite lenses — literally crystal-clear optics. A few species had eyes with over 15,000 individual lenses arranged in a compound structure so efficient that optical engineers have studied them for design inspiration. Other trilobites were blind, burrowing through sediment in perpetual darkness.
+Trilobite eyes are particularly fascinating. Some had compound eyes with calcite lenses — literally crystal-clear [optics](/optics). A few species had eyes with over 15,000 individual lenses arranged in a compound structure so efficient that optical engineers have studied them for design inspiration. Other trilobites were blind, burrowing through sediment in perpetual darkness.
 
 ### Ammonites: The Ocean's Timekeepers
 
@@ -65,9 +65,9 @@ Their shells varied wildly — tightly coiled, loosely coiled, straight, hooked,
 
 ### Coral Reefs Through Time
 
-Modern coral reefs are built primarily by scleractinian (stony) corals, but these are relatively recent arrivals. Ancient reefs were constructed by different organisms at different times: archaeocyathids in the Cambrian, stromatoporoids and tabulate corals in the Silurian and Devonian, rudist bivalves in the Cretaceous. Each time a reef-building group went extinct, a different group eventually took over the reef construction business.
+Modern coral reefs are built primarily by scleractinian (stony) corals, but these are relatively recent arrivals. Ancient reefs were constructed by different organisms at different times: archaeocyathids in the Cambrian, stromatoporoids and tabulate corals in the Silurian and Devonian, rudist bivalves in the Cretaceous. Each time a reef-building group went extinct, a different group eventually took over the reef [construction](/construction) business.
 
-Studying these ancient reef communities reveals how [ecology](/ecology) works over deep time. Reef ecosystems have collapsed and reformed repeatedly, and each iteration was built by different organisms filling similar ecological roles. This pattern — different players, same game — is a fundamental insight of paleoecology.
+Studying these ancient reef communities reveals how [ecology](/ecology) works over deep time. Reef ecosystems have collapsed and reformed repeatedly, and each iteration was built by different organisms filling similar ecological roles. This pattern — different players, same game — is a fundamental insight of [paleoecology](/paleoecology).
 
 ## Vertebrate Paleozoology
 
@@ -81,9 +81,9 @@ From these tiny, jawless ancestors, vertebrates radiated into an astonishing div
 
 ### The Age of Reptiles
 
-The Mesozoic era (252-66 million years ago) was dominated by reptiles in a way that's hard to fully appreciate. [Dinosaurs](/dinosaurs) ruled the land, but they weren't alone. Pterosaurs controlled the skies with wingspans up to 10-12 meters — the size of small aircraft. Marine reptiles including ichthyosaurs, plesiosaurs, and mosasaurs filled every large predator niche in the oceans. Crocodilian relatives were far more diverse than their modern descendants, including fast-running terrestrial predators and even herbivorous forms.
+The Mesozoic era (252-66 million years ago) was dominated by reptiles in a way that's hard to fully appreciate. [Dinosaurs](/dinosaurs) ruled the land, but they weren't alone. Pterosaurs controlled the skies with wingspans up to 10-12 meters — the size of small aircraft. Marine reptiles including ichthyosaurs, plesiosaurs, and mosasaurs filled every large predator niche in the oceans. Crocodilian relatives were far more diverse than their modern descendants, including fast-[running](/running) terrestrial predators and even herbivorous forms.
 
-Paleozoologists studying Mesozoic reptiles have overturned decades of old assumptions. Dinosaurs weren't sluggish cold-blooded reptiles — bone histology shows many had growth rates comparable to modern mammals. Some had feathers. Many were social. A few may have been nocturnal. The picture that emerges from modern paleozoological research is far more active and surprising than what textbooks showed even 30 years ago.
+Paleozoologists studying Mesozoic reptiles have overturned decades of old assumptions. Dinosaurs weren't sluggish cold-blooded reptiles — bone [histology](/histology) shows many had growth rates comparable to modern mammals. Some had feathers. Many were social. A few may have been nocturnal. The picture that emerges from modern paleozoological research is far more active and surprising than what textbooks showed even 30 years ago.
 
 ### The Mammalian Radiation
 
@@ -123,7 +123,7 @@ For more recent fossils — Ice Age mammals, for instance — ancient DNA has be
 
 Understanding how animals become fossils — the process called taphonomy — is critical for interpreting paleozoological evidence correctly. Were bones scattered by scavengers or water currents? Did the animal die where it was found, or was it transported? Were bones damaged by trampling, weathering, or diagenesis (chemical alteration during burial)?
 
-Taphonomic analysis prevents paleozoologists from making errors. Without it, you might mistake a bone accumulation created by river currents for a mass death event, or interpret post-mortem damage as a pathology suffered during life.
+Taphonomic analysis prevents paleozoologists from making errors. Without it, you might mistake a bone accumulation created by river currents for a mass death event, or interpret post-mortem damage as a [pathology](/pathology) suffered during life.
 
 ## Paleoecology: Putting Animals in Context
 
@@ -141,9 +141,9 @@ Some of paleozoology's most charismatic subjects are the large mammals — megaf
 
 Woolly mammoths roamed northern Eurasia and North America until about 4,000 years ago (a small population survived on Wrangel Island in the Arctic Ocean until roughly 2000 BCE). Giant ground sloths weighing several tons lived in the Americas until about 10,000 years ago. Sabertooth cats, dire wolves, giant armadillos, and enormous flightless birds — the megafauna of the Pleistocene was impressive by any standard.
 
-The extinction of these animals — driven by some combination of climate change at the end of the last Ice Age and hunting by expanding human populations — is one of paleozoology's most debated topics. In Australia, megafaunal extinction closely follows human arrival (roughly 45,000 years ago). In the Americas, extinctions coincide with both climate change and the arrival of Clovis people (roughly 13,000 years ago). Separating human and climate effects remains genuinely difficult.
+The extinction of these animals — driven by some combination of [climate change](/climate-change) at the end of the last Ice Age and [hunting](/hunting) by expanding human populations — is one of paleozoology's most debated topics. In Australia, megafaunal extinction closely follows human arrival (roughly 45,000 years ago). In the Americas, extinctions coincide with both climate change and the arrival of Clovis people (roughly 13,000 years ago). Separating human and climate effects remains genuinely difficult.
 
-Understanding these recent extinctions matters for [conservation biology](/conservation-biology). The Pleistocene megafaunal losses reshaped ecosystems in ways we're still discovering. Seed dispersal networks collapsed. Grazing patterns changed. Nutrient cycling was disrupted. Some ecologists argue that modern rewilding efforts should consider what landscapes looked like before these extinctions — not just before European colonization.
+Understanding these recent extinctions matters for [conservation biology](/conservation-biology). The Pleistocene megafaunal losses reshaped ecosystems in ways we're still discovering. Seed dispersal networks collapsed. Grazing patterns changed. Nutrient [cycling](/cycling) was disrupted. Some ecologists argue that modern rewilding efforts should consider what landscapes looked like before these extinctions — not just before European colonization.
 
 ## Paleozoology and Evolution
 
@@ -151,16 +151,16 @@ Perhaps paleozoology's greatest contribution to science is its documentation of 
 
 [Evolutionary biology](/evolutionary-biology) depends on paleozoological data to understand speciation rates, extinction rates, the tempo and mode of evolutionary change, and the long-term effects of environmental disruption on animal diversity. Without fossils, our understanding of evolution would be limited to what we can observe in living organisms — a snapshot of the present, with no movie to put it in context.
 
-The concept of convergent evolution — unrelated animals independently evolving similar features in response to similar environmental pressures — is beautifully illustrated in the paleozoological record. Ichthyosaurs (marine reptiles), dolphins (mammals), and tuna (fish) all evolved streamlined body shapes for fast swimming. Sabertooth morphology evolved independently in at least four different mammalian lineages and even in some non-mammalian therapsids. These convergences tell us that natural selection, given similar problems, often arrives at similar solutions.
+The concept of convergent evolution — unrelated animals independently evolving similar features in response to similar environmental pressures — is beautifully illustrated in the paleozoological record. Ichthyosaurs (marine reptiles), dolphins (mammals), and tuna (fish) all evolved streamlined body shapes for fast [swimming](/swimming). Sabertooth morphology evolved independently in at least four different mammalian lineages and even in some non-mammalian therapsids. These convergences tell us that natural selection, given similar problems, often arrives at similar solutions.
 
 ## The Current State and Future
 
 Modern paleozoology is producing discoveries at an unprecedented rate. China's fossil beds continue to yield feathered dinosaurs, early birds, and ancient mammals in extraordinary preservation. Argentina and other South American countries produce giant dinosaurs regularly. Morocco's Cretaceous and Paleozoic deposits have become major sources of marine vertebrate and invertebrate fossils.
 
-New analytical methods — machine learning for automated fossil identification, synchrotron scanning for internal anatomy, computational fluid dynamics for swimming and flying analysis, and [molecular biology](/molecular-biology) approaches for ancient biomolecules — are extracting more information from each fossil than was possible even a decade ago.
+New analytical methods — machine learning for automated fossil identification, synchrotron scanning for internal [anatomy](/anatomy), computational [fluid dynamics](/fluid-dynamics) for swimming and flying analysis, and [molecular biology](/molecular-biology) approaches for ancient biomolecules — are extracting more information from each fossil than was possible even a decade ago.
 
-The field also grapples with ethical questions about fossil collecting, international repatriation of specimens, and the tension between commercial fossil markets and scientific research. These aren't just academic debates — they shape which fossils get studied, who gets to study them, and how much of the fossil record is lost to private collections.
+The field also grapples with ethical questions about [fossil collecting](/fossil-collecting), international repatriation of specimens, and the tension between commercial fossil markets and scientific research. These aren't just academic debates — they shape which fossils get studied, who gets to study them, and how much of the fossil record is lost to private collections.
 
 ## Key Takeaways
 
-Paleozoology is the scientific study of ancient animals through their fossil remains, spanning everything from microscopic marine invertebrates to the largest dinosaurs. As a major branch of [paleontology](/paleontology), it reconstructs the evolutionary history of animal life, ancient ecosystems, and the biological consequences of environmental change over hundreds of millions of years. The field combines traditional anatomical study with modern technologies including CT scanning, isotope analysis, computational biomechanics, and ancient biomolecule extraction to answer questions about how extinct animals lived, moved, ate, reproduced, and went extinct. Its findings are essential for understanding [evolutionary biology](/evolutionary-biology), predicting ecological responses to environmental disruption, and contextualizing the current biodiversity crisis.
+Paleozoology is the scientific study of ancient animals through their fossil remains, spanning everything from microscopic marine invertebrates to the largest dinosaurs. As a major branch of [paleontology](/paleontology), it reconstructs the evolutionary history of animal life, ancient ecosystems, and the biological consequences of environmental change over hundreds of millions of years. The field combines traditional anatomical study with modern technologies including CT scanning, isotope analysis, computational [biomechanics](/biomechanics), and ancient biomolecule extraction to answer questions about how extinct animals lived, moved, ate, reproduced, and went extinct. Its findings are essential for understanding [evolutionary biology](/evolutionary-biology), predicting ecological responses to environmental disruption, and contextualizing the current biodiversity crisis.

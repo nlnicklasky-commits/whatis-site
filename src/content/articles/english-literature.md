@@ -31,7 +31,7 @@ faq:
 
 # What Is English [Literature](/literature)?
 
-English literature is the body of written work produced in the English language — [poetry](/poetry), prose, [drama](/drama), essays, and other literary forms — spanning from roughly the 7th century to the present. It includes everything from the anonymous *Beowulf* to the latest Booker Prize winner, from Shakespeare's sonnets to contemporary graphic novels. As a field of study, it examines not just what these works say but how they say it, what they reveal about the cultures that produced them, and why certain texts endure while others fade.
+English literature is the body of written work produced in the English language — [poetry](/poetry), [prose](/prose), [drama](/drama), essays, and other literary forms — spanning from roughly the 7th century to the present. It includes everything from the anonymous *Beowulf* to the latest Booker Prize winner, from Shakespeare's sonnets to contemporary graphic novels. As a field of study, it examines not just what these works say but how they say it, what they reveal about the cultures that produced them, and why certain texts endure while others fade.
 
 ## The Beginning: Old English
 
@@ -83,7 +83,7 @@ The 20th century's first half shattered literary conventions.
 
 ## Contemporary and Beyond
 
-English literature is now global. Chinua Achebe (Nigeria), Salman Rushdie (India/UK), Toni Morrison (US), Margaret Atwood (Canada), Kazuo Ishiguro (Japan/UK), and Chimamanda Ngozi Adichie (Nigeria) write in English from perspectives that would have been excluded from the [canon](/creative-writing)) a century ago.
+English literature is now global. Chinua Achebe (Nigeria), Salman Rushdie (India/UK), Toni Morrison (US), Margaret Atwood (Canada), Kazuo Ishiguro (Japan/UK), and Chimamanda Ngozi Adichie (Nigeria) write in English from perspectives that would have been excluded from the [canon](/creative-[writing](/writing))) a century ago.
 
 The question of which works "count" as literature remains contentious. Genre fiction ([science fiction](/science-fiction), mystery, fantasy) has gained literary respectability. Graphic novels (*Maus*, *Persepolis*) are taught in university courses. Memoir and creative nonfiction blur boundaries. The definition of literature expands with each generation — and the expansion is mostly healthy.
 

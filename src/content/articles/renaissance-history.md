@@ -39,9 +39,9 @@ That framing is a bit unfair to the Middle Ages, which produced its own achievem
 
 ## Florence: Ground Zero
 
-If you had to point to one city where the Renaissance began, it's Florence. By the late 1300s, this Tuscan city-state of about 60,000 people had become spectacularly wealthy from banking and the wool trade. That wealth created a new kind of patron — not the Church (though the Church still spent lavishly), but private citizens who wanted beautiful things and were willing to pay for them.
+If you had to point to one city where the Renaissance began, it's Florence. By the late 1300s, this Tuscan city-state of about 60,000 people had become spectacularly wealthy from banking and the wool [trade](/trade). That wealth created a new kind of patron — not the Church (though the Church still spent lavishly), but private citizens who wanted beautiful things and were willing to pay for them.
 
-The Medici family looms largest. Cosimo de' Medici, who effectively controlled Florence from 1434 to 1464, spent vast sums commissioning art, founding libraries, and supporting scholars. His grandson Lorenzo "the Magnificent" continued the tradition, personally mentoring a teenage Michelangelo. The Medici weren't acting purely from altruism — patronage was political currency, a way to demonstrate power and legitimacy. But the result was an unprecedented concentration of artistic and intellectual talent in one city.
+The Medici family looms largest. Cosimo de' Medici, who effectively controlled Florence from 1434 to 1464, spent vast sums commissioning art, founding libraries, and supporting scholars. His grandson Lorenzo "the Magnificent" continued the tradition, personally mentoring a teenage Michelangelo. The Medici weren't [acting](/acting) purely from altruism — patronage was political currency, a way to demonstrate power and legitimacy. But the result was an unprecedented concentration of artistic and intellectual talent in one city.
 
 Florence wasn't alone. Venice, Milan, Rome, and Naples all became centers of Renaissance activity. The Italian peninsula's fragmentation into competing city-states actually helped — rivalry drove each city to outdo the others in cultural splendor.
 
@@ -49,9 +49,9 @@ Florence wasn't alone. Venice, Milan, Rome, and Naples all became centers of Ren
 
 The intellectual engine of the Renaissance was humanism — not to be confused with modern secular humanism, though they share some DNA. Renaissance humanism was, at its simplest, a renewed focus on classical Greek and Latin texts and a belief that studying these works could improve human life.
 
-Medieval education revolved around theology. Humanist education — the *studia humanitatis* — added grammar, rhetoric, history, poetry, and [moral philosophy](/moral-philosophy)). The idea was that a well-rounded education in the "humanities" would produce better citizens, better leaders, and better human beings.
+Medieval education revolved around [theology](/theology). Humanist education — the *studia humanitatis* — added [grammar](/grammar), [rhetoric](/rhetoric), history, [poetry](/poetry), and [moral philosophy](/moral-philosophy)). The idea was that a well-rounded education in the "humanities" would produce better citizens, better leaders, and better human beings.
 
-Francesco Petrarch (1304-1374) is often called the father of humanism. He spent decades hunting down and copying ancient Roman manuscripts, and he openly mourned what he saw as the cultural decline between Rome's fall and his own era. His attitude — reverence for classical antiquity combined with dissatisfaction with the present — became the template for Renaissance thought.
+Francesco Petrarch (1304-1374) is often called the father of humanism. He spent decades [hunting](/hunting) down and copying ancient Roman manuscripts, and he openly mourned what he saw as the cultural decline between Rome's fall and his own era. His attitude — reverence for classical antiquity combined with dissatisfaction with the present — became the template for Renaissance thought.
 
 This had huge implications. If ancient pagans like Cicero and Plato had achieved such brilliance, then clearly wisdom wasn't the exclusive property of the Church. Human reason, observation, and creativity mattered. Individual achievement mattered. The earthly world was worth studying and celebrating, not just endured as a waystation before heaven.
 
@@ -81,7 +81,7 @@ The Renaissance didn't produce the scientific method as we know it — that came
 
 **Andreas Vesalius** (1514-1564) published *De humani corporis fabrica* in 1543 — the same year as Copernicus's book — with detailed anatomical illustrations based on actual human dissections. His work corrected errors that had stood unchallenged in medical textbooks for 1,300 years, since the Roman physician Galen.
 
-**Leonardo da Vinci** studied everything. [Fluid dynamics](/fluid-dynamics), geology, botany, optics, flight, human circulation. His notebooks contain observations and experiments that were centuries ahead of their time — though because they remained unpublished, their direct influence on science was limited.
+**Leonardo da Vinci** studied everything. [Fluid dynamics](/fluid-dynamics), [geology](/geology), [botany](/botany), [optics](/optics), flight, human circulation. His notebooks contain observations and experiments that were centuries ahead of their time — though because they remained unpublished, their direct influence on science was limited.
 
 ## The Printing Press Changed Everything
 
@@ -93,7 +93,7 @@ The effects were staggering:
 
 - **Knowledge spread faster than ever before.** A new idea in Florence could reach London within months, not decades.
 - **Prices dropped.** Books that once cost as much as a house became affordable for the middle class.
-- **Standardization.** Identical copies meant scholars could reference the same page of the same text, enabling precise debate.
+- **Standardization.** Identical copies meant scholars could reference the same page of the same text, enabling precise [debate](/debate).
 - **Vernacular languages** gained prestige as publishers realized they could sell far more books in Italian, French, or German than in Latin.
 - **The Reformation.** Martin Luther's 95 Theses (1517) would have been a local dispute without the press. Instead, printed copies spread across Germany within weeks, sparking a religious revolution.
 
@@ -113,7 +113,7 @@ The Renaissance didn't stop on a specific date. It gradually gave way to the Bar
 
 The **Sack of Rome** in 1527, when troops of the Holy Roman Emperor Charles V looted the city for months, shattered the papal court's role as a cultural center and scattered artists and scholars across Europe.
 
-The **Wars of Religion** that followed the Reformation consumed European attention and resources for over a century. The optimism of Renaissance humanism was hard to maintain while Protestants and Catholics slaughtered each other.
+The **Wars of [Religion](/religion)** that followed the Reformation consumed European attention and resources for over a century. The optimism of Renaissance humanism was hard to maintain while Protestants and Catholics slaughtered each other.
 
 The **Counter-Reformation** saw the Catholic Church reassert doctrinal authority and impose stricter controls on art and intellectual inquiry. The Inquisition's treatment of Galileo in 1633 symbolized the shift.
 

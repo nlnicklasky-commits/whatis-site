@@ -31,7 +31,7 @@ faq:
 
 # What Is Urban Farming?
 
-Urban farming is the practice of growing food and raising animals within city boundaries. It happens on rooftops, in vacant lots, inside old warehouses, on balconies, and in community gardens — basically anywhere someone can create growing conditions in an otherwise concrete environment. It's [agriculture](/agriculture) adapted to the city rather than the countryside.
+Urban [farming](/farming) is the practice of growing food and raising animals within city boundaries. It happens on rooftops, in vacant lots, inside old warehouses, on balconies, and in community gardens — basically anywhere someone can create growing conditions in an otherwise concrete environment. It's [agriculture](/agriculture) adapted to the city rather than the countryside.
 
 ## Why Grow Food in Cities?
 
@@ -69,7 +69,7 @@ The catch: energy costs are enormous. [Running](/running) thousands of LED light
 
 ### Aquaponics
 
-This combines [fish farming](/fish-farming) ([aquaculture](/aquaculture)) with hydroponics. Fish waste provides nutrients for plants; plants filter the water for the fish. It's a closed-loop system that produces both protein and vegetables.
+This combines [fish farming](/fish-farming) ([aquaculture](/aquaculture)) with [hydroponics](/hydroponics). Fish waste provides nutrients for plants; plants filter the water for the fish. It's a closed-loop system that produces both protein and vegetables.
 
 Growing Power, founded by Will Allen in Milwaukee, was a pioneering urban aquaponics operation that grew tilapia, perch, lettuce, and herbs in interconnected systems within a former industrial lot. The concept has since spread worldwide.
 

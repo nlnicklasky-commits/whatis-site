@@ -43,7 +43,7 @@ People tend to lump everything from Bach to Beethoven into one bucket. In realit
 
 **Baroque (1600-1750):** Things get dramatic. [Opera](/opera) was invented. Bach, Handel, and Vivaldi defined this era. The music features ornate melodies, strong bass lines, and a new emphasis on contrast — loud against soft, solo against ensemble. Vivaldi's *Four Seasons* (1725) remains one of the most-performed works in the entire repertoire.
 
-**Classical (1750-1820):** Confusingly, the "Classical" period is just one era within classical music. Mozart, Haydn, and early Beethoven prized clarity, balance, and elegant form. The symphony, string quartet, and piano sonata became the dominant genres. Mozart wrote over 600 works before dying at 35 — a staggering output by any standard.
+**Classical (1750-1820):** Confusingly, the "Classical" period is just one era within classical music. Mozart, Haydn, and early Beethoven prized clarity, balance, and elegant form. The symphony, string quartet, and [piano](/piano) sonata became the dominant genres. Mozart wrote over 600 works before dying at 35 — a staggering output by any standard.
 
 **Romantic (1820-1900):** Emotion takes center stage. Beethoven bridged the gap, and composers like Chopin, Tchaikovsky, Brahms, and Wagner pushed music toward bigger orchestras, longer works, and deeper emotional expression. Wagner's operas could last five hours. Mahler's symphonies used orchestras of 100+ musicians.
 
@@ -61,13 +61,13 @@ The conductor stands at the front, shaping tempo, dynamics, and interpretation t
 
 Out of the millions of compositions written over a thousand years, only a fraction enter the standard repertoire — the works that get performed regularly. What determines which pieces survive?
 
-Partly quality, obviously. Bach's fugues are mathematically elegant and emotionally moving simultaneously. Beethoven's Fifth Symphony uses four notes (da-da-da-DUM) to build an entire 30-minute drama. These works endure because they're genuinely extraordinary.
+Partly quality, obviously. Bach's fugues are mathematically elegant and emotionally moving simultaneously. Beethoven's Fifth Symphony uses four notes (da-da-da-DUM) to build an entire 30-minute [drama](/drama). These works endure because they're genuinely extraordinary.
 
 But survival is also political. For centuries, women composers were systematically excluded from professional music-making. Fanny Mendelssohn, Clara Schumann, and Amy Beach wrote brilliant music that's only recently getting the performance frequency it deserves. The same applies to composers of color — Florence Price became the first Black woman to have a symphony performed by a major American orchestra in 1933, but her work was largely forgotten until manuscripts were rediscovered in 2009.
 
 ## The Weird [Economics](/economics) of Classical Music
 
-Here's something most people don't realize: professional orchestras almost never break even. The New York Philharmonic's annual budget exceeds $80 million, and ticket sales cover only about 40% of costs. The rest comes from donations, endowments, and [government](/government) grants.
+Here's something most people don't realize: professional orchestras almost never break even. The New York Philharmonic's annual budget exceeds $80 million, and ticket [sales](/sales) cover only about 40% of costs. The rest comes from donations, endowments, and [government](/government) grants.
 
 This has been true for over a century. The economics are brutal — you need 80 highly trained musicians on salary, a concert hall to maintain, and an administrative staff to keep everything [running](/running). A rock band can tour with a van and four people. An orchestra needs buses, trucks, and weeks of rehearsal.
 

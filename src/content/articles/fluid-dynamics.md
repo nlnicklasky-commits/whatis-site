@@ -37,7 +37,7 @@ faq:
 
 # What Is Fluid Dynamics?
 
-Fluid dynamics is the branch of physics that studies how fluids — both liquids and gases — move and the forces acting on them during that motion. It describes everything from water flowing through a pipe to air rushing over an airplane wing, from blood circulating through your arteries to hurricanes forming over warm ocean water.
+Fluid dynamics is the branch of [physics](/physics) that studies how fluids — both liquids and gases — move and the forces [acting](/acting) on them during that motion. It describes everything from water flowing through a pipe to air rushing over an airplane wing, from blood circulating through your arteries to hurricanes forming over warm ocean water.
 
 ## The Basics: What Counts as a Fluid?
 
@@ -147,7 +147,7 @@ Since analytical solutions to the Navier-Stokes equations are rare, engineers tu
 
 The basic process is conceptually straightforward:
 
-1. **Geometry creation**: Define the shape of the object and the fluid domain around it.
+1. **[Geometry](/geometry) creation**: Define the shape of the object and the fluid domain around it.
 2. **Meshing**: Divide the domain into a grid of cells. This is arguably the most critical step — a bad mesh gives bad results regardless of everything else. Near surfaces, the mesh must be extremely fine to capture boundary layer behavior.
 3. **Setting boundary conditions**: What's the incoming flow speed? What pressure exists at the outlet? Is the wall heated? These conditions define the problem.
 4. **Solving**: The computer iterates through the equations, updating velocity, pressure, and temperature at each cell until the solution converges (stops changing significantly).
@@ -173,7 +173,7 @@ Nature is full of stunning fluid dynamics — and studying natural flows has rep
 
 ### Biological Flows
 
-Your circulatory system is a fluid dynamics system. Blood — a non-Newtonian fluid — flows through a network of vessels with diameters ranging from the centimeter-scale aorta to capillaries just 5-10 micrometers wide. The heart generates pulsatile flow (pressure waves, not steady flow), and the elasticity of artery walls creates wave propagation effects.
+Your circulatory system is a fluid dynamics system. Blood — a non-Newtonian fluid — flows through a network of vessels with diameters ranging from the centimeter-scale aorta to capillaries just 5-10 micrometers wide. The heart generates pulsatile flow (pressure waves, not steady flow), and the [elasticity](/elasticity) of artery walls creates wave propagation effects.
 
 Understanding blood flow matters medically. Atherosclerosis (plaque buildup) preferentially occurs in regions of disturbed flow — arterial branches and curves where the flow separates and recirculates. Artificial heart valves must be designed to produce flow patterns that don't damage blood cells or promote clotting.
 
@@ -183,9 +183,9 @@ Fish and dolphins exploit fluid dynamics with remarkable efficiency. Dolphins' s
 
 Weather is fluid dynamics at planetary scale. The atmosphere and oceans are both fluids driven by solar heating, Earth's rotation (Coriolis effect), and interactions with the land surface.
 
-The jet stream — a river of fast-moving air at about 30,000 feet — exists because of temperature differences between the equator and poles combined with Earth's rotation. Understanding its behavior is critical for aviation routing and weather prediction.
+The jet stream — a river of fast-moving air at about 30,000 feet — exists because of temperature differences between the equator and poles combined with Earth's rotation. Understanding its behavior is critical for [aviation](/aviation) routing and weather prediction.
 
-Ocean currents distribute heat around the planet. The Gulf Stream carries warm water from the Gulf of Mexico to Northern Europe, which is why London has milder winters than Labrador despite being at a similar latitude. Climate change's effect on these circulation patterns is a major concern — and modeling them requires some of the most sophisticated CFD simulations in existence.
+Ocean currents distribute heat around the planet. The Gulf Stream carries warm water from the Gulf of Mexico to Northern Europe, which is why London has milder winters than Labrador despite being at a similar latitude. [Climate change](/climate-change)'s effect on these circulation patterns is a major concern — and modeling them requires some of the most sophisticated CFD simulations in existence.
 
 ### Astrophysical Flows
 
@@ -199,7 +199,7 @@ Fluid dynamics has a rich [intellectual history](/intellectual-history) stretchi
 
 **Archimedes** (287-212 BC) described buoyancy: an object immersed in fluid experiences an upward force equal to the weight of fluid displaced. He reportedly discovered this in the bath and ran through Syracuse naked shouting "Eureka."
 
-**Leonardo da Vinci** (1452-1519) made detailed observations of water flow, sketching vortices and turbulence with remarkable accuracy. His notebooks contain some of the earliest systematic studies of fluid motion.
+**Leonardo da Vinci** (1452-1519) made detailed observations of water flow, [sketching](/sketching) vortices and turbulence with remarkable accuracy. His notebooks contain some of the earliest systematic studies of fluid motion.
 
 **Isaac Newton** contributed the concept of viscosity as a linear relationship between stress and strain rate — the defining characteristic of Newtonian fluids.
 
@@ -223,7 +223,7 @@ Other frontiers include:
 
 **Multiphase flows**: Mixtures of liquid and gas (like bubbles in a liquid or droplets in air) are extraordinarily complex. Spray combustion in engines, cloud formation, boiling heat transfer — all involve multiphase fluid dynamics.
 
-**Active matter**: Fluids containing self-propelled particles — bacteria swimming in water, for instance — exhibit collective behavior that doesn't follow traditional fluid dynamics rules.
+**Active matter**: Fluids containing self-propelled particles — bacteria [swimming](/swimming) in water, for instance — exhibit collective behavior that doesn't follow traditional fluid dynamics rules.
 
 **Climate modeling**: Predicting Earth's climate requires coupling atmospheric fluid dynamics with ocean dynamics, ice sheet dynamics, and chemical processes across timescales from hours to millennia.
 

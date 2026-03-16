@@ -33,9 +33,9 @@ faq:
 
 # What Is The History of Religion?
 
-The history of religion is the story of how humans have sought meaning, explained the unexplainable, and built communities around shared beliefs about things they can't see or prove. It's one of the longest stories there is — stretching back at least 100,000 years if you count the earliest evidence of ritual behavior — and it touches every civilization that's ever existed.
+The history of [religion](/religion) is the story of how humans have sought meaning, explained the unexplainable, and built communities around shared beliefs about things they can't see or prove. It's one of the longest stories there is — stretching back at least 100,000 years if you count the earliest evidence of ritual behavior — and it touches every civilization that's ever existed.
 
-Here's what makes this subject tricky: religion isn't one thing. It encompasses everything from a Paleolithic hunter painting animals on a cave wall to a philosopher-monk debating the nature of emptiness to a megachurch with a fog machine and a light show. Trying to define "religion" itself has occupied scholars for centuries without producing consensus.
+Here's what makes this subject tricky: religion isn't one thing. It encompasses everything from a Paleolithic hunter [painting](/painting) animals on a cave wall to a philosopher-monk debating the nature of emptiness to a megachurch with a fog machine and a light show. Trying to define "religion" itself has occupied scholars for centuries without producing consensus.
 
 ## Before Written History: The Archaeological Evidence
 
@@ -45,7 +45,7 @@ Neanderthal burial sites dating to roughly 100,000 years ago show bodies placed 
 
 Cave paintings at Lascaux (c. 17,000 years ago) and Chauvet (c. 36,000 years ago) depict animals with a vividness and intentionality that goes beyond decoration. Some chambers required crawling through tight passages to reach, suggesting ritual purpose. Figures that appear to be part-human, part-animal hint at shamanic practices.
 
-**Gobekli Tepe** in modern Turkey, dating to about 9600 BCE, is a game-changer. This massive stone complex — with carved pillars weighing up to 20 tons — was built by hunter-gatherers *before* the invention of [agriculture](/agriculture) or pottery. It flips the traditional narrative. We used to think settled agriculture came first and religion followed. Gobekli Tepe suggests that the desire to build sacred spaces may have actually *driven* the development of settled communities.
+**Gobekli Tepe** in modern Turkey, dating to about 9600 BCE, is a game-changer. This massive stone complex — with carved pillars weighing up to 20 tons — was built by hunter-gatherers *before* the [invention](/invention) of [agriculture](/agriculture) or pottery. It flips the traditional narrative. We used to think settled agriculture came first and religion followed. Gobekli Tepe suggests that the desire to build sacred spaces may have actually *driven* the development of settled communities.
 
 ## Ancient Mesopotamia and Egypt: Gods Everywhere
 
@@ -61,13 +61,13 @@ Around 1350 BCE, **Pharaoh Akhenaten** attempted something radical: he declared 
 
 The same period that produced Greek [philosophy](/the-history-of-philosophy) also produced or refined most of the world's major religious traditions.
 
-**Hinduism** doesn't have a single founder or a single origin point. It evolved from the Vedic religion of the Indo-Aryan peoples who settled in the Indian subcontinent around 1500 BCE. The **Vedas** are the oldest scriptures, focused on ritual and sacrifice. The **Upanishads** (c. 800–200 BCE) shifted the emphasis toward philosophical questions about the nature of reality (Brahman) and the self (Atman). The idea of **karma** and **reincarnation** — that your actions determine your future births — became central.
+**[Hinduism](/hinduism)** doesn't have a single founder or a single origin point. It evolved from the Vedic religion of the Indo-Aryan peoples who settled in the Indian subcontinent around 1500 BCE. The **Vedas** are the oldest scriptures, focused on ritual and sacrifice. The **Upanishads** (c. 800–200 BCE) shifted the emphasis toward philosophical questions about the nature of reality (Brahman) and the self (Atman). The idea of **karma** and **reincarnation** — that your actions determine your future births — became central.
 
-**Buddhism** emerged from Hinduism. **Siddhartha Gautama** (c. 563–483 BCE), a prince in what's now Nepal, left his luxurious life after encountering suffering. After years of ascetic practice and [meditation](/meditation), he achieved enlightenment and became the Buddha ("awakened one"). His core teaching — the Four Noble Truths — diagnoses human suffering as caused by craving and attachment, and prescribes the Eightfold Path as the cure. Buddhism spread across Asia along trade routes and split into major branches: Theravada, Mahayana, and Vajrayana.
+**[Buddhism](/buddhism)** emerged from Hinduism. **Siddhartha Gautama** (c. 563–483 BCE), a prince in what's now Nepal, left his luxurious life after encountering suffering. After years of ascetic practice and [meditation](/meditation), he achieved enlightenment and became the Buddha ("awakened one"). His core [teaching](/teaching) — the Four Noble Truths — diagnoses human suffering as caused by craving and attachment, and prescribes the Eightfold Path as the cure. Buddhism spread across Asia along trade routes and split into major branches: Theravada, Mahayana, and Vajrayana.
 
 **[Zoroastrianism](/zoroastrianism)**, founded by the prophet Zarathustra (dates disputed, possibly 1500–500 BCE) in ancient Persia, introduced ideas that profoundly influenced later religions: a cosmic battle between good (Ahura Mazda) and evil (Angra Mainyu), individual moral choice, final judgment, heaven and hell, and an eventual resurrection. Many scholars believe these concepts influenced Judaism, [Christianity](/christianity), and Islam.
 
-**Judaism** evolved from the polytheistic religion of the ancient Israelites into strict monotheism over several centuries. The Babylonian Exile (586–539 BCE) was a turning point — forced from their land, Jewish thinkers developed a theology that emphasized a single God with universal jurisdiction, ethical monotheism, covenantal law, and the importance of scripture. The Hebrew Bible was largely compiled during and after this period.
+**Judaism** evolved from the polytheistic religion of the ancient Israelites into strict monotheism over several centuries. The Babylonian Exile (586–539 BCE) was a turning point — forced from their land, Jewish thinkers developed a [theology](/theology) that emphasized a single God with universal jurisdiction, ethical monotheism, covenantal law, and the importance of scripture. The Hebrew Bible was largely compiled during and after this period.
 
 ## Christianity and Islam: Global Expansion
 
@@ -77,7 +77,7 @@ Christianity's spread was gradual until Emperor **Constantine** converted around
 
 **Islam** emerged in 7th-century Arabia. The Prophet **Muhammad** (c. 570–632 CE) received revelations from God (Allah) through the angel Gabriel, compiled as the **Quran**. Islam's core message — absolute monotheism, submission to God's will, and a detailed ethical code — spread with astonishing speed. Within a century of Muhammad's death, the Islamic caliphate stretched from Spain to Central Asia.
 
-Islam developed its own internal diversity. The **Sunni-Shia split** (originating in a dispute over Muhammad's succession) remains the faith's major division. **Sufism**, the mystical tradition within Islam, emphasized direct experience of the divine. Islamic civilization during its Golden Age (8th–14th centuries) preserved and extended Greek [science](/the-history-of-science) and philosophy while Europe was still in the early medieval period.
+Islam developed its own internal diversity. The **Sunni-Shia split** (originating in a dispute over Muhammad's succession) remains the faith's major division. **Sufism**, the mystical tradition within Islam, emphasized direct experience of the divine. Islamic civilization during its Golden Age (8th–14th centuries) preserved and extended Greek [science](/the-history-of-science) and [philosophy](/philosophy) while Europe was still in the early medieval period.
 
 ## East Asian Traditions: A Different Approach
 

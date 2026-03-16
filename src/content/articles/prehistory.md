@@ -31,7 +31,7 @@ faq:
 
 # What Is Prehistory?
 
-Prehistory is the period of human existence before the [invention](/invention) of writing — a span covering roughly 99.5% of the time humans and their ancestors have been on Earth. It begins with the earliest stone tools about 3.3 million years ago and ends, depending on the region, between about 3400 BCE (in Mesopotamia) and as recently as the 19th century (in parts of the Pacific Islands).
+Prehistory is the period of human existence before the [invention](/invention) of [writing](/writing) — a span covering roughly 99.5% of the time humans and their ancestors have been on Earth. It begins with the earliest stone tools about 3.3 million years ago and ends, depending on the region, between about 3400 BCE (in Mesopotamia) and as recently as the 19th century (in parts of the Pacific Islands).
 
 ## The Word Itself Has a History
 
@@ -53,19 +53,19 @@ The longest chapter by far. The Stone Age is itself divided into three parts:
 
 The Paleolithic ended with the last Ice Age. At the glacial maximum about 26,000 years ago, ice sheets covered much of North America and Europe. Sea levels were roughly 120 meters lower than today. You could walk from Siberia to Alaska, from Britain to France, from Australia to New Guinea. The world map looked nothing like it does now.
 
-**The Mesolithic (Middle Stone Age)** — Roughly 12,000 to 6,000 years ago in Europe (dates vary by region). As glaciers retreated, environments changed rapidly. Forests replaced tundra. Sea levels rose, flooding coastal areas and creating islands. Human groups adapted with new tools: microliths (tiny stone blades), fishing equipment, and dugout canoes. Populations grew. Settlements became more permanent. In the Near East, this period is often called the Epipaleolithic.
+**The Mesolithic (Middle Stone Age)** — Roughly 12,000 to 6,000 years ago in Europe (dates vary by region). As glaciers retreated, environments changed rapidly. Forests replaced tundra. Sea levels rose, flooding coastal areas and creating islands. Human groups adapted with new tools: microliths (tiny stone blades), [fishing](/fishing) equipment, and dugout canoes. Populations grew. Settlements became more permanent. In the Near East, this period is often called the Epipaleolithic.
 
 **The Neolithic (New Stone Age)** — This is where everything changed. Starting around 10,000-8,000 BCE in the Fertile Crescent (modern Iraq, Syria, Turkey, and surrounding areas), humans began domesticating plants and animals. Wheat, barley, lentils, goats, sheep, cattle, pigs — all brought under human [management](/management) within a few thousand years.
 
 The Neolithic Revolution — and it really was a revolution, even if it took millennia — fundamentally altered human existence. Instead of following food, people grew it. Permanent villages appeared. Populations exploded. Jericho, one of the oldest known towns, had stone walls and a tower by about 8000 BCE. Catalhoyuk in Turkey housed perhaps 8,000 people by 7000 BCE.
 
-But here's the twist: the shift to farming wasn't obviously good for individuals. Skeletal evidence shows early farmers were shorter, had worse teeth, suffered more nutritional deficiencies, and worked harder than their hunter-gatherer contemporaries. Agriculture fed more people, but it didn't feed them better. It created surplus, which enabled hierarchy, specialization, and eventually civilization — but at a significant cost to individual well-being.
+But here's the twist: the shift to [farming](/farming) wasn't obviously good for individuals. Skeletal evidence shows early farmers were shorter, had worse teeth, suffered more nutritional deficiencies, and worked harder than their hunter-gatherer contemporaries. Agriculture fed more people, but it didn't feed them better. It created surplus, which enabled hierarchy, specialization, and eventually civilization — but at a significant cost to individual well-being.
 
 ### The Bronze Age (~3300-1200 BCE)
 
 The discovery that copper and tin could be smelted together to create bronze — harder and more durable than either metal alone — marks the start of the Bronze Age. This happened independently in several regions: the Near East around 3300 BCE, the Indus Valley around 3300 BCE, China around 2000 BCE, and Europe between 3200 and 1900 BCE.
 
-Bronze made better tools, weapons, and ornaments. But more importantly, it created trade networks. Tin is rare — you can't find it everywhere — so societies that wanted bronze had to trade over long distances. The tin trade connected Cornwall to the Mediterranean, Afghanistan to Mesopotamia. These networks moved ideas as well as materials.
+Bronze made better tools, weapons, and ornaments. But more importantly, it created [trade](/trade) networks. Tin is rare — you can't find it everywhere — so societies that wanted bronze had to trade over long distances. The tin trade connected Cornwall to the Mediterranean, Afghanistan to Mesopotamia. These networks moved ideas as well as materials.
 
 The Bronze Age also saw the rise of the first states: Sumer, Egypt, the Indus Valley civilization, the Shang Dynasty. Writing emerged in this period (ending "prehistory" in those regions), along with monumental architecture, organized religion, codified law, and bureaucracy. The roots of what we call civilization are Bronze Age roots.
 
@@ -89,9 +89,9 @@ Sub-Saharan Africa skipped the Bronze Age in many regions, moving directly from 
 
 Certain moments in prehistory changed everything. Not overnight — nothing in prehistory happens overnight — but irreversibly.
 
-**Bipedalism** (6-7 million years ago): Walking upright freed our hands, changed our [anatomy](/anatomy), and set the stage for tool use. Why our ancestors started walking is still debated. Theories include adapting to open grasslands, carrying food, thermoregulation, and reaching food in trees.
+**Bipedalism** (6-7 million years ago): [Walking](/walking) upright freed our hands, changed our [anatomy](/anatomy), and set the stage for tool use. Why our ancestors started walking is still debated. Theories include adapting to open grasslands, carrying food, thermoregulation, and reaching food in trees.
 
-**Fire Control** (1 million-400,000 years ago): Cooking food, staying warm, warding off predators, extending the day. Fire shaped human biology (smaller guts, bigger brains) and social life (gathering around a hearth).
+**Fire Control** (1 million-400,000 years ago): [Cooking](/cooking) food, staying warm, warding off predators, extending the day. Fire shaped human [biology](/biology) (smaller guts, bigger brains) and social life (gathering around a hearth).
 
 **Language** (uncertain — possibly 500,000+ years ago): No one knows when language emerged, but it changed everything about how information could be stored, shared, and accumulated across generations.
 
@@ -119,6 +119,6 @@ Understanding prehistory isn't just about satisfying curiosity — though that's
 
 Humans spent over 95% of their existence as hunter-gatherers in small groups. Our brains, social instincts, dietary needs, sleep patterns, and stress responses evolved in that context. The agricultural revolution, cities, and industrial society are extremely recent experiments in evolutionary terms.
 
-Climate change isn't new to our species. Prehistoric humans survived ice ages, droughts, volcanic winters, and rising seas. Studying how they adapted — or failed to — offers lessons for our own uncertain future.
+[Climate change](/climate-change) isn't new to our species. Prehistoric humans survived ice ages, droughts, volcanic winters, and rising seas. Studying how they adapted — or failed to — offers lessons for our own uncertain future.
 
 And there's a humbling truth in prehistory: most of what humans have ever done, thought, believed, and created left no trace. The vast majority of prehistoric lives are permanently invisible to us. Every artifact we find represents thousands of people whose stories we'll never know. That absence should make us value the fragments we do have — and think carefully about what our own era will leave behind.

@@ -41,7 +41,7 @@ Patent law is the body of law governing patents — legal instruments that grant
 
 ## The Basic Bargain
 
-The logic behind patent law is surprisingly straightforward, even if the implementation is anything but.
+The [logic](/logic) behind patent law is surprisingly straightforward, even if the implementation is anything but.
 
 Without patents, inventors face a problem: once you reveal your invention, anyone can copy it. If it costs you $10 million and five years to develop a new drug, but a competitor can reverse-engineer it in six months for $500,000, you have very little incentive to invest that $10 million in the first place. Why take the risk?
 
@@ -49,7 +49,7 @@ Patent law fixes this by giving inventors a head start. For 20 years, only you (
 
 The other half of the bargain is disclosure. When you file a patent, you must describe your invention in enough detail that someone skilled in the field could reproduce it. This description becomes public, adding to humanity's collective knowledge even while the patent is active. Other inventors can read your patent, learn from it, and build on it (as long as they don't infringe your specific claims).
 
-This trade — temporary monopoly for public disclosure — is the fundamental social contract at the heart of patent law. It's enshrined in the U.S. Constitution (Article I, Section 8, Clause 8), which grants Congress the power "to promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."
+This [trade](/trade) — temporary monopoly for public disclosure — is the fundamental social contract at the heart of patent law. It's enshrined in the U.S. Constitution (Article I, Section 8, Clause 8), which grants Congress the power "to promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."
 
 ## What Can Be Patented?
 
@@ -107,7 +107,7 @@ Getting a patent is neither quick nor cheap. The process involves several stages
 
 ### Patent Search
 
-Before filing, most applicants conduct a prior art search to determine whether their invention is likely novel and non-obvious. This involves searching patent databases (the USPTO, European Patent Office, and WIPO databases are freely searchable online) and relevant technical literature. A thorough search typically costs $1,500-$3,000 when done by a professional searcher.
+Before filing, most applicants conduct a prior art search to determine whether their invention is likely novel and non-obvious. This involves searching patent databases (the USPTO, European Patent Office, and WIPO databases are freely searchable online) and relevant technical [literature](/literature). A thorough search typically costs $1,500-$3,000 when done by a professional searcher.
 
 Skipping this step is risky. If prior art exists that anticipates your invention, you'll spend thousands on an application that will ultimately be rejected.
 
@@ -125,7 +125,7 @@ Most inventors hire patent attorneys or agents to draft their applications. Pate
 
 ### Examination
 
-After filing, the application enters a queue at the USPTO. A patent examiner — a government employee with relevant technical expertise — searches prior art, evaluates the claims against patentability requirements, and issues an "office action" detailing any objections or rejections.
+After filing, the application enters a queue at the USPTO. A patent examiner — a [government](/government) employee with relevant technical expertise — searches prior art, evaluates the claims against patentability requirements, and issues an "office action" detailing any objections or rejections.
 
 The applicant responds, typically amending claims to distinguish over prior art and arguing why the invention is novel and non-obvious. This back-and-forth can go through multiple rounds. If the examiner is ultimately satisfied, the patent is granted ("allowed"). If not, the applicant can appeal to the Patent Trial and Appeal Board.
 
@@ -169,7 +169,7 @@ The Inter Partes Review (IPR) process, established by the America Invents Act of
 
 ## Controversies and Criticisms
 
-Patent law is the subject of intense debate. Reasonable people disagree strongly about whether the current system achieves its goals.
+Patent law is the subject of intense [debate](/debate). Reasonable people disagree strongly about whether the current system achieves its goals.
 
 ### Patent Trolls (Non-Practicing Entities)
 

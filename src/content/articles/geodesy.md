@@ -45,7 +45,7 @@ Most people imagine Earth as a sphere. It's a reasonable first guess — from sp
 
 First complication: Earth isn't a sphere. It's an oblate spheroid — flattened at the poles and bulging at the equator. The equatorial radius (6,378.1 kilometers) is about 21 kilometers longer than the polar radius (6,356.8 kilometers). That's a 0.3% difference. Doesn't sound like much, but ignoring it would introduce positioning errors of kilometers.
 
-Second complication: even the oblate spheroid is an approximation. Earth's actual gravitational shape — what geodesists call the geoid — is lumpy. Dense rock formations pull the gravitational field slightly stronger in some areas, while less dense regions create weaker spots. If you could fill the entire Earth with a connected ocean (tunneling through continents), the water surface would follow the geoid — and it would have bumps and valleys of up to 100 meters relative to the ellipsoid.
+Second complication: even the oblate spheroid is an approximation. Earth's actual gravitational shape — what geodesists call the geoid — is lumpy. Dense rock formations pull the gravitational field slightly stronger in some areas, while less dense regions create weaker spots. If you could fill the entire Earth with a connected ocean ([tunneling](/tunneling) through continents), the water surface would follow the geoid — and it would have bumps and valleys of up to 100 meters relative to the ellipsoid.
 
 The geoid surface is highest over places like Iceland and New Guinea (about 80 meters above the ellipsoid) and lowest south of India (about 106 meters below). These variations reflect density differences deep in the mantle.
 
@@ -61,7 +61,7 @@ Humans have been trying to measure the Earth for over 2,000 years.
 
 Around 240 BCE, Eratosthenes — a Greek scholar in Alexandria — calculated Earth's circumference with remarkable accuracy. He knew that at noon on the summer solstice, the Sun was directly overhead in Syene (modern Aswan, Egypt), casting no shadow. In Alexandria, about 800 kilometers north, a vertical stick cast a shadow indicating the Sun was about 7.2 degrees from vertical.
 
-Since 7.2 degrees is 1/50 of a full circle, and the distance between the cities was about 5,000 stadia, Earth's circumference was approximately 250,000 stadia. Depending on which definition of "stadion" he used, this translates to roughly 39,000-46,000 kilometers. The actual value is about 40,075 kilometers at the equator. Not bad for a guy with a stick and some geometry.
+Since 7.2 degrees is 1/50 of a full circle, and the distance between the cities was about 5,000 stadia, Earth's circumference was approximately 250,000 stadia. Depending on which definition of "stadion" he used, this translates to roughly 39,000-46,000 kilometers. The actual value is about 40,075 kilometers at the equator. Not bad for a guy with a stick and some [geometry](/geometry).
 
 ### Triangulation Networks
 
@@ -157,7 +157,7 @@ Geodesy might sound abstract, but it underlies technologies you depend on daily.
 
 **Precision [agriculture](/agriculture)**: GPS-guided tractors plant seeds, apply fertilizer, and harvest crops with centimeter accuracy. This reduces waste, increases yields, and is enabled by geodetic reference networks that provide the needed accuracy via real-time kinematic (RTK) corrections.
 
-**Aviation**: Aircraft navigation, instrument landing systems, and air traffic [management](/management) all depend on geodetic coordinate systems. The vertical accuracy is particularly critical — knowing your altitude precisely is the difference between a smooth landing and a catastrophe.
+**[Aviation](/aviation)**: Aircraft navigation, instrument landing systems, and air traffic [management](/management) all depend on geodetic coordinate systems. The vertical accuracy is particularly critical — knowing your altitude precisely is the difference between a smooth landing and a catastrophe.
 
 **Legal boundaries**: Property boundaries, national borders, and maritime territorial limits are defined by coordinates in geodetic reference frames. Shifts in the reference frame or improvements in measurement accuracy can — and occasionally do — create legal complications.
 

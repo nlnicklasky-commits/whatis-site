@@ -47,7 +47,7 @@ Dieter Rams, the legendary designer at Braun who influenced everything from Appl
 
 ## The Design Process: How Products Actually Get Made
 
-Every design team has its own process, but most follow a similar pattern. The specifics vary — a hardware startup designing a medical device operates differently from a software team at a social media company — but the underlying logic is consistent.
+Every design team has its own process, but most follow a similar pattern. The specifics vary — a hardware startup designing a medical device operates differently from a software team at a social media company — but the underlying [logic](/logic) is consistent.
 
 ### Phase 1: Discovery — Understanding the Problem
 
@@ -75,7 +75,7 @@ With research in hand, the design team defines the scope. This is where you make
 
 Now you generate ideas. Lots of them. The key principle: quantity first, quality later. Bad ideas often lead to good ones through unexpected connections.
 
-**Sketching** is still the fastest way to explore ideas. Quick, rough sketches on paper or whiteboards communicate spatial relationships and workflows faster than any digital tool. The deliberately rough quality also signals "this isn't finished — give me honest feedback."
+**[Sketching](/sketching)** is still the fastest way to explore ideas. Quick, rough sketches on paper or whiteboards communicate spatial relationships and workflows faster than any digital tool. The deliberately rough quality also signals "this isn't finished — give me honest feedback."
 
 **Design studios and workshops** bring diverse perspectives together. Engineers, marketers, customer support staff, and users can all contribute ideas. The best solutions often come from unexpected sources — a customer support agent who fields complaints daily may see problems the design team never imagined.
 
@@ -95,7 +95,7 @@ The mantra is "fail fast, learn fast." Every prototype is a question: "Does this
 
 ### Phase 5: Testing — Reality Check
 
-You show your prototype to real users and watch what happens. Not what they say — what they *do*. People are notoriously bad at predicting their own behavior. They'll tell you the navigation is "fine" while getting hopelessly lost.
+You show your prototype to real users and watch what happens. Not what they say — what they *do*. People are notoriously bad at predicting their own behavior. They'll tell you the [navigation](/navigation) is "fine" while getting hopelessly lost.
 
 **Usability testing** puts prototypes in front of 5-8 representative users and asks them to complete specific tasks. Five users typically reveal about 85% of usability problems — a finding from research by Jakob Nielsen that has held up remarkably well since the 1990s.
 
@@ -119,7 +119,7 @@ In tech companies, "product design" usually means designing software interfaces 
 
 - **Interaction design**: How users interact with the product. What happens when you tap a button, swipe a card, or scroll a feed? Every interaction should feel natural and provide clear feedback.
 
-- **Visual design**: Colors, typography, spacing, imagery. This isn't decoration — it's communication. A red button communicates danger or importance. Generous whitespace communicates calm and focus. Consistent typography communicates professionalism.
+- **Visual design**: Colors, [typography](/typography), spacing, imagery. This isn't decoration — it's communication. A red button communicates danger or importance. Generous whitespace communicates calm and focus. Consistent typography communicates professionalism.
 
 - **Responsive design**: Products must work across phones, tablets, and desktops. This isn't just shrinking things — it's rethinking layouts, interactions, and priorities for different contexts.
 
@@ -171,7 +171,7 @@ Product design doesn't exist in a vacuum. It operates within business constraint
 
 ### Design and Revenue
 
-Good design directly affects revenue. A Stanford study found that 75% of users judge a company's credibility based on website design. Forrester Research estimated that every dollar invested in UX returns $100. Amazon found that every 100 milliseconds of page load delay cost 1% in sales.
+Good design directly affects revenue. A Stanford study found that 75% of users judge a company's credibility based on website design. Forrester Research estimated that every dollar invested in UX returns $100. Amazon found that every 100 milliseconds of page load delay cost 1% in [sales](/sales).
 
 These numbers make the business case clear, but they also create pressure. Designers sometimes face tension between what's best for users and what maximizes short-term metrics. Dark patterns — design tricks that manipulate users into unintended actions (like sneaking items into shopping carts or making unsubscribe buttons tiny) — are "good design" if your only metric is conversion rate. They're terrible design by every other standard.
 

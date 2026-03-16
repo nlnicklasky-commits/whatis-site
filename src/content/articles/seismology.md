@@ -112,7 +112,7 @@ Modern broadband seismometers can detect ground movements as small as a nanomete
 
 Richter magnitude has limitations: it saturates (doesn't distinguish well between very large earthquakes) and only works for local earthquakes at specific distances and frequencies.
 
-**Moment magnitude (Mw)** replaced Richter magnitude for most scientific purposes. It's based on the seismic moment—a physical measure of the earthquake source that accounts for the fault area, the average displacement, and the rigidity of the rock. Moment magnitude doesn't saturate and is directly related to the physics of the earthquake source. When you hear earthquake magnitudes reported today, they're almost always moment magnitude, even though news outlets still say "Richter scale" by habit.
+**Moment magnitude (Mw)** replaced Richter magnitude for most scientific purposes. It's based on the seismic moment—a physical measure of the earthquake source that accounts for the fault area, the average displacement, and the rigidity of the rock. Moment magnitude doesn't saturate and is directly related to the [physics](/physics) of the earthquake source. When you hear earthquake magnitudes reported today, they're almost always moment magnitude, even though news outlets still say "Richter scale" by habit.
 
 **Modified Mercalli Intensity (MMI)** measures earthquake effects at specific locations on a scale from I (not felt) to XII (total destruction). Unlike magnitude (which is a single number per earthquake), intensity varies geographically. An M7.0 earthquake might produce MMI IX (heavy damage) near the epicenter and MMI III (felt indoors) at 200 km distance.
 
@@ -142,7 +142,7 @@ Seismic wave speeds change at boundaries between materials of different composit
 
 Just as a medical CT scan images the body's interior by sending X-rays through it from multiple angles, seismic tomography images Earth's interior by analyzing seismic waves from thousands of earthquakes recorded at thousands of stations. Regions where waves travel faster than average are inferred to be cooler and denser (such as subducting slabs). Regions where waves travel slower are inferred to be warmer and less dense (such as mantle plumes beneath hotspots like Hawaii and Yellowstone).
 
-Seismic tomography has revealed structures that plate tectonics theory predicted but couldn't directly observe: slabs of subducted ocean floor sinking through the mantle, some all the way to the core-mantle boundary. It's also revealed unexpected features, including massive low-velocity provinces at the base of the mantle beneath Africa and the Pacific—continent-sized blobs of anomalous material whose origin and composition remain debated.
+Seismic tomography has revealed structures that plate [tectonics](/tectonics) theory predicted but couldn't directly observe: slabs of subducted ocean floor sinking through the mantle, some all the way to the core-mantle boundary. It's also revealed unexpected features, including massive low-velocity provinces at the base of the mantle beneath Africa and the Pacific—continent-sized blobs of anomalous material whose origin and composition remain debated.
 
 ## Seismic Hazard and Engineering
 
@@ -156,7 +156,7 @@ These hazard assessments drive building codes. Areas with high seismic hazard re
 
 ### Site Effects
 
-The same earthquake can cause dramatically different shaking at two locations the same distance from the epicenter—all because of local geology. Soft sediments (clay, sand, fill) amplify seismic waves compared to bedrock. This site amplification can increase ground acceleration by factors of 2-10.
+The same earthquake can cause dramatically different shaking at two locations the same distance from the epicenter—all because of local [geology](/geology). Soft sediments (clay, sand, fill) amplify seismic waves compared to bedrock. This site amplification can increase ground acceleration by factors of 2-10.
 
 The 1989 Loma Prieta earthquake demonstrated this vividly in San Francisco: areas built on bedrock experienced moderate shaking, while the Marina District—built on fill dumped after the 1906 earthquake—experienced intense shaking, liquefaction (soil behaving like liquid), and building collapse. Same earthquake, same city, vastly different outcomes based on what was underneath the buildings.
 

@@ -33,9 +33,9 @@ faq:
 
 # What Is Shop [Management](/management)?
 
-Shop management is the process of running a retail store — handling everything from inventory and staffing to customer experience and financial performance. It's the work of turning a space full of products into a business that actually makes money, keeps customers coming back, and doesn't drive you crazy in the process.
+Shop management is the process of [running](/running) a retail store — handling everything from inventory and staffing to customer experience and financial performance. It's the work of turning a space full of products into a business that actually makes money, keeps customers coming back, and doesn't drive you crazy in the process.
 
-If that sounds broad, it is. A shop manager on any given day might be negotiating with a supplier, rearranging a window display, covering a cashier's lunch break, and reviewing last week's sales numbers. The job touches every part of the business.
+If that sounds broad, it is. A shop manager on any given day might be negotiating with a supplier, rearranging a window display, covering a cashier's lunch break, and reviewing last week's [sales](/sales) numbers. The job touches every part of the business.
 
 ## The Core Functions
 
@@ -65,9 +65,9 @@ One thing experienced managers learn fast: your best people are worth far more t
 
 How products are displayed directly affects what sells. This isn't opinion — it's been studied extensively. Eye-level placement increases sales by 15-40% compared to bottom-shelf placement. End-cap displays (the shelving at the end of aisles) generate 2-5 times more sales than mid-aisle positions. Grouping complementary products together — batteries next to [electronics](/electronics), scarves next to coats — increases average transaction value.
 
-The storefront window is your most powerful [marketing](/marketing) tool. It's working 24 hours a day, seven days a week, communicating your brand to every person walking past. Changing window displays regularly — every 2-4 weeks — keeps the store looking fresh and gives passersby a reason to come in.
+The storefront window is your most powerful [marketing](/marketing) tool. It's working 24 hours a day, seven days a week, communicating your brand to every person [walking](/walking) past. Changing window displays regularly — every 2-4 weeks — keeps the store looking fresh and gives passersby a reason to come in.
 
-Inside the store, the layout guides traffic flow. Most shops use one of a few standard patterns: grid layouts (like grocery stores), loop layouts (like IKEA), or free-flow layouts (like boutiques). Each has trade-offs between product exposure, customer comfort, and space efficiency.
+Inside the store, the layout guides traffic flow. Most shops use one of a few standard patterns: grid layouts (like grocery stores), loop layouts (like IKEA), or free-flow layouts (like boutiques). Each has [trade](/trade)-offs between product exposure, customer comfort, and space efficiency.
 
 ### Financial Management
 

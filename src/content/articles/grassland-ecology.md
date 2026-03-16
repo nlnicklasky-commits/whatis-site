@@ -35,7 +35,7 @@ faq:
 
 # What Is Grassland Ecology?
 
-Grassland ecology is the scientific study of ecosystems where grasses and other herbaceous plants—rather than trees or shrubs—are the dominant vegetation. Grasslands cover approximately 40% of Earth's land surface (excluding Antarctica and Greenland), making them one of the most widespread biomes on the planet. This field examines the species, processes, and interactions that sustain these open landscapes, from the soil microbes beneath the surface to the herds of grazers that roam above it.
+Grassland [ecology](/ecology) is the scientific study of ecosystems where grasses and other herbaceous plants—rather than trees or shrubs—are the dominant vegetation. Grasslands cover approximately 40% of Earth's land surface (excluding Antarctica and Greenland), making them one of the most widespread biomes on the planet. This field examines the species, processes, and interactions that sustain these open landscapes, from the soil microbes beneath the surface to the herds of grazers that roam above it.
 
 ## The Grasslands of the World
 
@@ -118,7 +118,7 @@ Grasslands are seriously underappreciated as carbon sinks. While forests store c
 
 Globally, grassland soils store approximately 34% of the terrestrial carbon pool. That's more than forests in many estimates. And unlike forest carbon (which is released when trees burn or decompose), soil carbon can persist for centuries to millennia.
 
-This has important implications for climate change policy. Current climate strategies heavily emphasize tree planting, but converting grasslands to forest can actually release more carbon than it sequesters—breaking up grassland soil releases stored carbon, and young trees take decades to compensate. Protecting existing grasslands may be more effective for climate mitigation than planting new forests in many contexts.
+This has important implications for [climate change](/climate-change) policy. Current climate strategies heavily emphasize tree planting, but converting grasslands to forest can actually release more carbon than it sequesters—breaking up grassland soil releases stored carbon, and young trees take decades to compensate. Protecting existing grasslands may be more effective for climate mitigation than planting new forests in many contexts.
 
 ### Soil Biology
 
@@ -228,4 +228,4 @@ Grassland ecology studies the most widespread yet most endangered terrestrial bi
 
 Grasslands store enormous amounts of carbon underground, support spectacular biodiversity (much of it below the soil surface), and provide ecosystem services that humanity depends on—from food production to water filtration to climate regulation.
 
-Despite their importance, grasslands have lost more area to conversion than any other biome and receive less conservation attention than forests. Protecting remaining grasslands and restoring degraded ones is among the most urgent and underappreciated priorities in conservation. These are not empty, featureless landscapes waiting to be plowed. They are ancient, complex, and irreplaceable ecosystems—and we're running out of time to save what's left.
+Despite their importance, grasslands have lost more area to conversion than any other biome and receive less conservation attention than forests. Protecting remaining grasslands and restoring degraded ones is among the most urgent and underappreciated priorities in conservation. These are not empty, featureless landscapes waiting to be plowed. They are ancient, complex, and irreplaceable ecosystems—and we're [running](/running) out of time to save what's left.

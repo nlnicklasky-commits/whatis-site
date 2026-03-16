@@ -31,7 +31,7 @@ faq:
 
 # What Is World Cuisine?
 
-World cuisine is the collective term for the diverse food traditions, [cooking](/cooking) techniques, ingredients, and eating customs practiced across human cultures globally. It's not a single thing — it's thousands of distinct food traditions shaped by [geography](/geography), climate, [agriculture](/agriculture), [religion](/religion), trade, migration, and centuries of accumulated kitchen knowledge. When you eat pad thai, paella, or pho, you're tasting a specific culture's answer to the universal human question: what should we eat, and how should we prepare it?
+World cuisine is the collective term for the diverse food traditions, [cooking](/cooking) techniques, ingredients, and eating customs practiced across human cultures globally. It's not a single thing — it's thousands of distinct food traditions shaped by [geography](/geography), climate, [agriculture](/agriculture), [religion](/religion), [trade](/trade), migration, and centuries of accumulated kitchen knowledge. When you eat pad thai, paella, or pho, you're tasting a specific culture's answer to the universal human question: what should we eat, and how should we prepare it?
 
 ## What Shapes a Cuisine
 

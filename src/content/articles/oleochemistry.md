@@ -71,7 +71,7 @@ The result: crude fatty acids (mixtures of different chain lengths and unsaturat
 
 React a triglyceride with methanol (in the presence of a catalyst), and you get three molecules of fatty acid methyl ester (FAME) plus glycerol. FAME is biodiesel — it can be blended with or used instead of petroleum diesel. This reaction is the foundation of the global biodiesel industry, which produces over 40 billion liters annually.
 
-The reaction is straightforward: mix oil with methanol, add sodium hydroxide or potassium hydroxide as catalyst, stir, and separate the two layers. Biodiesel floats on top; glycerol settles to the bottom. Small-scale biodiesel production from used cooking oil has become a popular DIY project, though industrial operations use more sophisticated catalysts and process controls.
+The reaction is straightforward: mix oil with methanol, add sodium hydroxide or potassium hydroxide as catalyst, stir, and separate the two layers. Biodiesel floats on top; glycerol settles to the bottom. Small-scale biodiesel production from used [cooking](/cooking) oil has become a popular DIY project, though industrial operations use more sophisticated catalysts and process controls.
 
 ### Hydrogenation
 
@@ -198,7 +198,7 @@ Oleochemistry is evolving in several directions simultaneously.
 
 **Enzymatic processing** using lipases (enzymes that break down fats) offers milder reaction conditions, higher selectivity, and lower energy consumption than traditional chemical processes. Novozymes and other enzyme companies have developed industrial lipases for biodiesel production, interesterification, and specialty ester synthesis.
 
-**Metabolic engineering** — modifying oilseed crops or microorganisms to produce specific fatty acids — could create tailor-made oleochemical feedstocks. Crops producing high-oleic, high-lauric, or unusual fatty acids (like ricinoleic acid from castor) are already commercially available.
+**Metabolic [engineering](/engineering)** — modifying oilseed crops or microorganisms to produce specific fatty acids — could create tailor-made oleochemical feedstocks. Crops producing high-oleic, high-lauric, or unusual fatty acids (like ricinoleic acid from castor) are already commercially available.
 
 **Integration with [biochemistry](/biochemistry) and [fermentation](/fermentation)** — using microorganisms to convert fatty acids into higher-value products like omega-3 fatty acids, biosurfactants, or biopolymers — blurs the line between oleochemistry and [biotechnology](/biotechnology).
 

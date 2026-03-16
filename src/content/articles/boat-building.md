@@ -53,7 +53,7 @@ Modern wooden boat building often uses marine plywood and epoxy, which are more 
 
 Fiberglass revolutionized boat building starting in the 1950s. Glass fiber cloth is laid into a mold and saturated with resin (polyester or epoxy), creating a strong, waterproof, low-maintenance hull. Once a mold is built, identical hulls can be produced repeatedly — enabling mass production of recreational boats.
 
-Most boats sold today are fiberglass. The material is durable, relatively inexpensive, and requires less maintenance than wood. The trade-off is that production fiberglass boats lack the individuality and character of wooden boats — a distinction that matters to some builders and buyers.
+Most boats sold today are fiberglass. The material is durable, relatively inexpensive, and requires less maintenance than wood. The [trade](/trade)-off is that production fiberglass boats lack the individuality and character of wooden boats — a distinction that matters to some builders and buyers.
 
 ### Aluminum
 

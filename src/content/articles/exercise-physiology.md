@@ -39,7 +39,7 @@ Exercise physiology is the study of how your body responds to physical activity 
 
 ## Your Body's Energy Systems
 
-Every movement you make — from blinking to running a marathon — requires energy in the form of adenosine triphosphate (ATP). Your body only stores about 80-100 grams of ATP at any time, enough to power about 2-3 seconds of maximum effort. So your [cells](/cell-biology) need to constantly regenerate ATP, and they do this through three energy systems.
+Every movement you make — from blinking to [running](/running) a marathon — requires energy in the form of adenosine triphosphate (ATP). Your body only stores about 80-100 grams of ATP at any time, enough to power about 2-3 seconds of maximum effort. So your [cells](/cell-biology) need to constantly regenerate ATP, and they do this through three energy systems.
 
 ### The Phosphocreatine System (0-10 Seconds)
 
@@ -55,9 +55,9 @@ The downside is that glycolysis produces lactate and hydrogen ions as byproducts
 
 ### The Oxidative System (2+ Minutes)
 
-For anything lasting more than a couple minutes — jogging, cycling, [swimming](/swimming) laps — your aerobic system takes over. It breaks down carbohydrates, fats, and even small amounts of protein using oxygen, producing far more ATP per molecule of fuel than the other systems. One molecule of glucose yields about 36-38 ATP through aerobic metabolism versus just 2 ATP from anaerobic glycolysis.
+For anything lasting more than a couple minutes — jogging, [cycling](/cycling), [swimming](/swimming) laps — your aerobic system takes over. It breaks down carbohydrates, fats, and even small amounts of protein using oxygen, producing far more ATP per molecule of fuel than the other systems. One molecule of glucose yields about 36-38 ATP through aerobic metabolism versus just 2 ATP from anaerobic glycolysis.
 
-The trade-off is speed. Aerobic energy production is slower, which is why you can't sprint a marathon. But it's sustainable for hours because the fuel supply (especially fat) is virtually unlimited. Even a lean athlete with 10% body fat carries roughly 30,000-40,000 calories of stored fat — enough for about 20 marathons.
+The [trade](/trade)-off is speed. Aerobic energy production is slower, which is why you can't sprint a marathon. But it's sustainable for hours because the fuel supply (especially fat) is virtually unlimited. Even a lean athlete with 10% body fat carries roughly 30,000-40,000 calories of stored fat — enough for about 20 marathons.
 
 **The key insight**: these systems don't operate in isolation. They all run simultaneously. The intensity and duration of your activity determine which system contributes the most energy at any given moment.
 
@@ -67,7 +67,7 @@ The trade-off is speed. Aerobic energy production is slower, which is why you ca
 
 When you start exercising, your cardiovascular system responds within seconds. Heart rate increases. Blood vessels in working muscles dilate while those in non-essential areas (like the digestive system) constrict. Blood flow to active muscles can increase from about 1 liter per minute at rest to over 20 liters per minute during intense exercise.
 
-Your heart's output — the volume of blood it pumps per minute — is the product of heart rate and stroke volume (the amount pumped per beat). At rest, cardiac output is about 5 liters per minute. During maximum exercise, it can reach 20-40 liters per minute, depending on fitness level.
+Your heart's output — the volume of blood it pumps per minute — is the product of heart rate and stroke volume (the amount pumped per beat). At rest, cardiac output is about 5 liters per minute. During maximum exercise, it can reach 20-40 liters per minute, depending on [fitness](/fitness) level.
 
 Here's where training makes a dramatic difference. An untrained person's resting heart rate is typically 70-80 beats per minute with a stroke volume of about 70 milliliters. An elite endurance athlete might have a resting heart rate of 40-50 bpm with a stroke volume of 100+ mL. The athlete's heart pumps the same amount of blood with far fewer beats because each beat is more powerful.
 

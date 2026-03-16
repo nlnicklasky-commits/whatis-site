@@ -31,7 +31,7 @@ faq:
 
 # What Is Japanese Art?
 
-Japanese art encompasses thousands of years of creative production across painting, ceramics, [sculpture](/sculpture), [printmaking](/printmaking), [calligraphy](/calligraphy), [textile arts](/textile-arts), metalwork, and garden design. What makes it distinctive is not any single technique but a set of aesthetic values — restraint, asymmetry, connection to nature, appreciation of imperfection, and the tension between simplicity and richness — that give Japanese art its unmistakable character.
+Japanese art encompasses thousands of years of creative production across [painting](/painting), [ceramics](/ceramics), [sculpture](/sculpture), [printmaking](/printmaking), [calligraphy](/calligraphy), [textile arts](/textile-arts), metalwork, and garden design. What makes it distinctive is not any single technique but a set of aesthetic values — restraint, asymmetry, connection to nature, appreciation of imperfection, and the tension between simplicity and richness — that give Japanese art its unmistakable character.
 
 ## Aesthetic Foundations
 
@@ -41,7 +41,7 @@ Several concepts shape Japanese artistic sensibility:
 
 **Ma** — negative space, the pause, the empty area that gives meaning to what surrounds it. A painting with vast empty areas is not unfinished — the emptiness is the composition.
 
-**Mono no aware** — the bittersweet awareness of impermanence. Cherry blossoms are beautiful precisely *because* they fall. This sensibility pervades Japanese art from poetry to painting.
+**Mono no aware** — the bittersweet awareness of impermanence. Cherry blossoms are beautiful precisely *because* they fall. This sensibility pervades Japanese art from [poetry](/poetry) to painting.
 
 ## Major Art Forms
 
@@ -49,7 +49,7 @@ Several concepts shape Japanese artistic sensibility:
 
 **Ukiyo-e** (woodblock prints, 17th-19th centuries) are Japan's most internationally famous art form. "Floating world" prints depicted the entertainment districts, kabuki theater, beautiful women, sumo wrestlers, and landscapes. The process involved collaboration between designer, carver, and printer. Hokusai's *Thirty-six Views of Mount Fuji* and Hiroshige's *The Fifty-three Stations of the Tokaido* are masterworks.
 
-**Ceramics** hold special status in Japanese culture. The [tea ceremony](/tea-ceremony) elevated pottery to a fine art, prizing hand-formed irregularity over machine-perfect symmetry. **Raku** ware — quickly fired, deliberately unpredictable — embodies wabi-sabi aesthetics. **Kintsugi** — repairing broken ceramics with gold lacquer — transforms damage into decoration, making breakage part of an object's beauty.
+**Ceramics** hold special status in Japanese culture. The [tea ceremony](/tea-ceremony) elevated [pottery](/pottery) to a [fine art](/fine-art), prizing hand-formed irregularity over machine-perfect symmetry. **Raku** ware — quickly fired, deliberately unpredictable — embodies wabi-sabi aesthetics. **Kintsugi** — repairing broken ceramics with gold lacquer — transforms damage into decoration, making breakage part of an object's beauty.
 
 **Calligraphy** (*shodo*) is considered a supreme art form. Written with brush and ink, Japanese calligraphy expresses meaning through both the content of the characters and the energy of the brushwork. Speed, pressure, and ink density all communicate something beyond the literal text.
 
@@ -63,7 +63,7 @@ Several concepts shape Japanese artistic sensibility:
 
 **Muromachi/Momoyama** (1336-1615) — Zen [Buddhism](/buddhism) deeply influenced art. Ink painting, tea ceremony aesthetics, Noh theater, and garden design flourished. The Momoyama period produced spectacular gold-leaf screen paintings.
 
-**Edo period** (1615-1868) — 250 years of peace under Tokugawa shoguns. Urban culture flourished, producing ukiyo-e prints, kabuki theater, and haiku poetry. Isolation from the outside world concentrated creative energy inward.
+**Edo period** (1615-1868) — 250 years of peace under Tokugawa shoguns. Urban culture flourished, producing ukiyo-e prints, kabuki theater, and [haiku](/haiku) poetry. Isolation from the outside world concentrated creative energy inward.
 
 **Modern period** (1868-present) — Japan opened to Western influence, and artists navigated between traditional and Western approaches. Contemporary Japanese art — from Yayoi Kusama's infinity rooms to Takashi Murakami's "Superflat" movement — continues this dialogue between East and West.
 

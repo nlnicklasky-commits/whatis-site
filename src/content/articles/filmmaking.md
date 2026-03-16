@@ -31,13 +31,13 @@ faq:
 
 # What Is Filmmaking?
 
-Filmmaking is the process of creating motion pictures — from the first spark of an idea through writing, planning, shooting, [editing](/editing), and delivering a finished film to audiences. It's one of the most collaborative art forms in existence, combining writing, visual art, music, performance, technology, and business into a single creative endeavor. It's also one of the most difficult. Getting dozens or hundreds of people to execute a shared creative vision, on schedule and on budget, while dealing with every imaginable obstacle, is an achievement whether the resulting film is good or not.
+Filmmaking is the process of creating motion pictures — from the first spark of an idea through [writing](/writing), planning, shooting, [editing](/editing), and delivering a finished film to audiences. It's one of the most collaborative art forms in existence, combining writing, visual art, music, performance, technology, and business into a single creative endeavor. It's also one of the most difficult. Getting dozens or hundreds of people to execute a shared creative vision, on schedule and on budget, while dealing with every imaginable obstacle, is an achievement whether the resulting film is good or not.
 
 ## The Core Crafts
 
 Filmmaking involves several distinct disciplines, each requiring deep expertise.
 
-**[Screenwriting](/screenwriting)** is where most films begin. The screenplay provides the blueprint — dialogue, scene descriptions, and story structure that everyone else builds from. A good script doesn't guarantee a good film, but a bad script almost guarantees a bad one. The screenplay is simultaneously the most important and most overlooked element of filmmaking — audiences praise acting and directing while rarely knowing the writer's name.
+**[Screenwriting](/screenwriting)** is where most films begin. The screenplay provides the blueprint — dialogue, scene descriptions, and story structure that everyone else builds from. A good script doesn't guarantee a good film, but a bad script almost guarantees a bad one. The screenplay is simultaneously the most important and most overlooked element of filmmaking — audiences praise [acting](/acting) and directing while rarely knowing the writer's name.
 
 **[Cinematography](/cinematography)** is the art of capturing images. The Director of Photography (DP or cinematographer) makes decisions about camera placement, lens selection, [lighting design](/lighting-design), camera movement, and composition. These choices aren't decorative — they determine what the audience sees and how they feel about it. Roger Deakins, Emmanuel Lubezki, and Janusz Kaminski are cinematographers whose visual signatures are as recognizable as any director's.
 

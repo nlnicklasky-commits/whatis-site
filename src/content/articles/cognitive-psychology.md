@@ -45,7 +45,7 @@ To understand why cognitive psychology matters, you need to understand what came
 
 For the first half of the 20th century, behaviorism dominated psychology. B.F. Skinner, John Watson, and their followers insisted that psychology should study only observable behavior. The mind? A "black box." You could measure what went in (stimuli) and what came out (responses), but speculating about internal mental processes was unscientific. Consciousness, memory, thought — these were off-limits.
 
-This worked fine for studying rats pressing levers and pigeons pecking keys. But it fell apart when researchers tried to explain distinctly human abilities. How do children learn language so rapidly? Why can humans solve problems they've never encountered before? How does a chess grandmaster evaluate a board position in seconds?
+This worked fine for studying rats pressing levers and pigeons pecking keys. But it fell apart when researchers tried to explain distinctly human abilities. How do children learn language so rapidly? Why can humans solve problems they've never encountered before? How does a [chess](/chess) grandmaster evaluate a board position in seconds?
 
 The cracks appeared in the 1950s. Three developments shattered behaviorism's dominance.
 

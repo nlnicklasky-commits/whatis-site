@@ -45,7 +45,7 @@ Accounting is the systematic process of recording, classifying, summarizing, and
 
 Okay, maybe not *the* oldest. But accounting has been around far longer than most people realize. The earliest accounting records date back over 7,000 years to ancient Mesopotamia, where merchants used clay tablets to track grain and livestock trades. The word "account" itself comes from the Old French *aconter*, meaning "to reckon."
 
-But the real turning point came in 1494, when an Italian friar and mathematician named Luca Pacioli published *Summa de Arithmetica*. In it, he described the double-entry [bookkeeping](/bookkeeping) system—a method where every transaction is recorded in two places: as a debit in one account and a credit in another. This wasn't Pacioli's invention (Venetian merchants had been using it for at least a century), but he was the first to write it down systematically.
+But the real turning point came in 1494, when an Italian friar and mathematician named Luca Pacioli published *Summa de Arithmetica*. In it, he described the double-entry [bookkeeping](/bookkeeping) system—a method where every transaction is recorded in two places: as a debit in one account and a credit in another. This wasn't Pacioli's [invention](/invention) (Venetian merchants had been using it for at least a century), but he was the first to write it down systematically.
 
 Here's the thing: that 500-year-old system? It's still the foundation of virtually all modern accounting. Every entry in QuickBooks, every line on a Fortune 500 balance sheet, every transaction in your bank's database uses double-entry bookkeeping. Pacioli's framework survived the industrial revolution, the invention of computers, and the rise of global [finance](/finance). That's a remarkable track record.
 
@@ -115,7 +115,7 @@ The Financial Accounting Standards Board (FASB) sets GAAP rules in the United St
 
 ### Management Accounting
 
-Internal-facing. Management accountants produce reports for company leaders to help them make decisions. These reports don't need to follow GAAP because they're never published. They can include forecasts, cost analyses, performance metrics—whatever helps management run the business better.
+Internal-facing. [Management](/management) accountants produce reports for company leaders to help them make decisions. These reports don't need to follow GAAP because they're never published. They can include forecasts, cost analyses, performance metrics—whatever helps management run the business better.
 
 A management accountant might calculate the exact cost to produce one unit of product, including materials, labor, and overhead. That number drives pricing decisions, production planning, and profitability analysis. This is the "behind the curtain" work of [economics](/economics) applied at the company level.
 
@@ -172,7 +172,7 @@ There are two fundamental approaches to recording transactions.
 
 **Cash basis accounting** records transactions when cash actually changes hands. You record revenue when the customer pays you. You record expenses when you write the check. Simple, intuitive, and used by many small businesses.
 
-**Accrual basis accounting** records transactions when they're earned or incurred, regardless of cash timing. Sell $50,000 in products in December but don't get paid until January? Under accrual accounting, that's December revenue. Sign a $12,000 annual insurance policy in January? Under accrual, you record $1,000 in expense each month.
+**Accrual basis accounting** records transactions when they're earned or incurred, regardless of cash timing. Sell $50,000 in products in December but don't get paid until January? Under accrual accounting, that's December revenue. Sign a $12,000 annual [insurance](/insurance) policy in January? Under accrual, you record $1,000 in expense each month.
 
 GAAP requires accrual accounting for public companies. Why? Because cash basis can be misleading. A company could delay sending invoices or rush to collect payments to make any given quarter look better or worse than reality. Accrual accounting matches revenue with the period it was earned and expenses with the period they were incurred, giving a more accurate picture of actual performance.
 
@@ -184,7 +184,7 @@ Accounting has changed more in the last 30 years than in the previous 300. Sprea
 
 Software like QuickBooks, Xero, and FreshBooks handles basic bookkeeping for millions of small businesses. Enterprise Resource Planning (ERP) systems from SAP, Oracle, and Microsoft integrate accounting with every other business function. [Machine learning](/machine-learning) algorithms can now categorize transactions, flag anomalies, and even generate preliminary financial reports.
 
-The Bureau of Labor Statistics projects roughly 6% growth in accountant and auditor jobs through 2032—about as fast as average for all occupations. But the nature of the work is shifting. Routine transaction recording and basic compliance work is increasingly automated. The growing demand is for accountants who can analyze data, advise on strategy, and interpret what the numbers mean—not just record them.
+The Bureau of Labor [Statistics](/statistics) projects roughly 6% growth in accountant and auditor jobs through 2032—about as fast as average for all occupations. But the nature of the work is shifting. Routine transaction recording and basic compliance work is increasingly automated. The growing demand is for accountants who can analyze data, advise on strategy, and interpret what the numbers mean—not just record them.
 
 Here's the part most people miss: automation isn't killing accounting jobs. It's changing them. A bookkeeper who only records transactions might be replaced by software. An accountant who can explain to a CEO why profit margins are shrinking and what to do about it is more valuable than ever.
 
@@ -224,7 +224,7 @@ Even if you never plan to become an accountant, understanding the basics matters
 
 **If you work for a company**, understanding how your department's spending is tracked and reported gives you an advantage. Managers who speak the language of accounting get their budgets approved more often. That's not cynicism—it's reality.
 
-**If you're a citizen**, government budgets and financial reports affect you directly. When a city says it "balanced the budget," what does that actually mean? When a politician claims a program will "pay for itself," can you evaluate that claim? Basic accounting literacy helps you cut through rhetoric.
+**If you're a citizen**, [government](/government) budgets and financial reports affect you directly. When a city says it "balanced the budget," what does that actually mean? When a politician claims a program will "pay for itself," can you evaluate that claim? Basic accounting literacy helps you cut through [rhetoric](/rhetoric).
 
 ## The Principles Behind the Rules
 
@@ -249,7 +249,7 @@ Several forces are reshaping accounting right now.
 
 **Environmental, Social, and Governance (ESG) reporting** is becoming mandatory in many jurisdictions. The EU's Corporate Sustainability Reporting Directive requires large companies to report on environmental impact, social practices, and governance alongside financial data. The SEC has proposed similar rules for US companies. This is creating entirely new accounting specialties.
 
-**Cryptocurrency and digital assets** pose unique challenges. How do you account for an asset whose value can swing 30% in a week? FASB issued new guidance in December 2023 requiring companies to report crypto assets at fair value—a significant change from the previous impairment model that only allowed write-downs, never write-ups.
+**[Cryptocurrency](/cryptocurrency) and digital assets** pose unique challenges. How do you account for an asset whose value can swing 30% in a week? FASB issued new guidance in December 2023 requiring companies to report crypto assets at fair value—a significant change from the previous impairment model that only allowed write-downs, never write-ups.
 
 **Globalization** continues pushing toward greater standardization. As companies operate across borders, the pressure to reconcile GAAP and IFRS grows. The question isn't whether harmonization will happen, but how far it will go and how fast.
 
@@ -259,4 +259,4 @@ Accounting is the system humans built to make financial reality legible. It date
 
 The three core financial statements—balance sheet, income statement, and cash flow statement—tell different parts of the same story. Financial accounting communicates that story to the outside world. Management accounting tells it to company leaders. Tax accounting translates it for the government. Auditing verifies that nobody made the story up.
 
-Whether you're running a business, investing your savings, or just trying to understand the news, the fundamentals of accounting give you a clearer view of how money actually works. And frankly, in a world where financial claims fly around constantly, that clarity is worth more than most people realize.
+Whether you're [running](/running) a business, investing your savings, or just trying to understand the news, the fundamentals of accounting give you a clearer view of how money actually works. And frankly, in a world where financial claims fly around constantly, that clarity is worth more than most people realize.

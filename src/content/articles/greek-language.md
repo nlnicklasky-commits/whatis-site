@@ -31,17 +31,17 @@ faq:
 
 # What Is the Greek Language?
 
-Greek is an Indo-European language with the longest documented history of any language in its family — over 3,400 years of continuous written records. It's the language of Homer, Plato, Aristotle, the New Proof, and modern Greece. About 13 million people speak it today, mostly in Greece and Cyprus. But Greek's influence extends far beyond its speaker population — it's donated more words to English than any language except Latin, and its alphabet became the ancestor of both the Latin and Cyrillic scripts. You're using Greek every time you say "democracy," "[philosophy](/philosophy)," "biology," or "technology."
+Greek is an Indo-European language with the longest documented history of any language in its family — over 3,400 years of continuous written records. It's the language of Homer, Plato, Aristotle, the New Proof, and modern Greece. About 13 million people speak it today, mostly in Greece and Cyprus. But Greek's influence extends far beyond its speaker population — it's donated more words to English than any language except Latin, and its alphabet became the ancestor of both the Latin and Cyrillic scripts. You're using Greek every time you say "democracy," "[philosophy](/philosophy)," "[biology](/biology)," or "technology."
 
 ## The Timeline
 
 Greek's history divides into several distinct periods, each different enough that scholars treat them almost as separate languages.
 
-**Mycenaean Greek** (roughly 1600-1200 BCE) is the oldest recorded form, preserved on clay tablets written in Linear B script — a syllabic writing system deciphered by Michael Ventris in 1952. These tablets are mostly inventories and administrative records, not [literature](/literature), but they prove Greek was already a distinct language 3,500 years ago.
+**Mycenaean Greek** (roughly 1600-1200 BCE) is the oldest recorded form, preserved on clay tablets written in Linear B script — a syllabic [writing](/writing) system deciphered by Michael Ventris in 1952. These tablets are mostly inventories and administrative records, not [literature](/literature), but they prove Greek was already a distinct language 3,500 years ago.
 
 **Ancient Greek** (roughly 800-300 BCE) is the classical language — the Greek of Homer, Sophocles, Plato, and Aristotle. During this period, Greek was spoken in dozens of dialects across city-states, but Attic Greek (the dialect of Athens) became dominant due to Athens' cultural and political influence.
 
-**Koine Greek** (roughly 300 BCE-300 CE) was the common dialect that spread across Alexander the Great's empire. It simplified earlier Greek grammar and became the lingua franca of the eastern Mediterranean and Near East. The New Proof was written in Koine Greek. So were the earliest translations of the Hebrew Bible (the Septuagint).
+**Koine Greek** (roughly 300 BCE-300 CE) was the common dialect that spread across Alexander the Great's empire. It simplified earlier Greek [grammar](/grammar) and became the lingua franca of the eastern Mediterranean and Near East. The New Proof was written in Koine Greek. So were the earliest translations of the Hebrew Bible (the Septuagint).
 
 **Medieval Greek** (roughly 300-1453 CE) — the language of the Byzantine Empire. Greek served as the administrative, literary, and religious language of a civilization that lasted a thousand years. During this period, pronunciation shifted significantly toward modern patterns.
 
@@ -59,11 +59,11 @@ The Greek alphabet has 24 letters: alpha (A), beta (B), gamma (Γ), delta (Δ), 
 
 English has borrowed from Greek on a massive scale, especially in scientific, medical, academic, and technical vocabulary.
 
-**Direct borrowings** — words taken straight from Greek: analysis, crisis, drama, idea, music, theme, zone.
+**Direct borrowings** — words taken straight from Greek: analysis, crisis, [drama](/drama), idea, music, theme, zone.
 
-**Scientific terminology** — biology (bios + logos = life + study), [psychology](/psychology) (psyche + logos = mind + study), geology, [astronomy](/astronomy), physics, [mathematics](/mathematics). When scientists need a new term, they almost always build it from Greek (or Latin) roots.
+**Scientific terminology** — biology (bios + logos = life + study), [psychology](/psychology) (psyche + logos = mind + study), [geology](/geology), [astronomy](/astronomy), [physics](/physics), [mathematics](/mathematics). When scientists need a new term, they almost always build it from Greek (or Latin) roots.
 
-**Medical vocabulary** — cardiology, [dermatology](/dermatology), pathology, diagnosis, prognosis, therapy, symptom. [Medical terminology](/medical-terminology) is so Greek-heavy that learning Greek roots is literally part of medical [education](/education).
+**Medical vocabulary** — cardiology, [dermatology](/dermatology), [pathology](/pathology), diagnosis, prognosis, therapy, symptom. [Medical terminology](/medical-terminology) is so Greek-heavy that learning Greek roots is literally part of medical [education](/education).
 
 **Prefixes and suffixes** that English uses productively: anti- (against), auto- (self), bio- (life), geo- (earth), micro- (small), macro- (large), mono- (one), poly- (many), -ology (study of), -phobia (fear of), -graph (writing), -scope (viewing).
 
@@ -77,7 +77,7 @@ The literary legacy of ancient Greek is staggering. Western literature essential
 
 **Greek tragedy** — Aeschylus, Sophocles, and Euripides created plays that have been performed continuously for 2,500 years. *Oedipus Rex*, *Antigone*, *Medea* — these aren't museum pieces. They're still staged and still resonate.
 
-**Philosophy** — Plato's dialogues and Aristotle's treatises were written in Greek that's still studied in the original. Their vocabulary became the vocabulary of Western thought: logic, [metaphysics](/metaphysics), ethics, politics, [aesthetics](/aesthetics).
+**Philosophy** — Plato's dialogues and Aristotle's treatises were written in Greek that's still studied in the original. Their vocabulary became the vocabulary of Western thought: [logic](/logic), [metaphysics](/metaphysics), [ethics](/ethics), [politics](/politics), [aesthetics](/aesthetics).
 
 **History** — Herodotus and Thucydides essentially invented historical writing as a discipline. The word "history" itself is Greek (historia, meaning "inquiry").
 

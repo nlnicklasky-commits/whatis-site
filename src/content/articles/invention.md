@@ -51,7 +51,7 @@ These three words get confused constantly, and the differences matter.
 
 **Innovation** is taking inventions (or existing ideas) and turning them into practical, widely-used applications. The transistor was invented at Bell Labs in 1947. The innovation was integrating millions of transistors onto a single chip (the integrated circuit), then using those chips to build personal computers, smartphones, and everything else. Innovation is where inventions become valuable.
 
-Many of history's greatest inventors were not the greatest innovators, and vice versa. Nikola Tesla was arguably a better inventor than Thomas Edison — his AC electrical system was technically superior to Edison's DC system. But Edison was the superior innovator, building the business infrastructure (power plants, distribution networks, manufacturing) that brought electricity to millions.
+Many of history's greatest inventors were not the greatest innovators, and vice versa. Nikola Tesla was arguably a better inventor than Thomas Edison — his AC electrical system was technically superior to Edison's DC system. But Edison was the superior innovator, building the business infrastructure (power plants, distribution networks, manufacturing) that brought [electricity](/electricity) to millions.
 
 ## The Anatomy of Invention
 
@@ -69,9 +69,9 @@ Here's what most people miss: identifying the right problem is often harder than
 
 No invention emerges from nothing. Inventors build on what came before. Before Edison's light bulb, at least 20 other people had created incandescent lights that worked briefly. Edison's contribution was finding a filament material (carbonized bamboo) that lasted 1,200 hours — turning a laboratory curiosity into a practical product.
 
-Understanding what already exists — called "prior art" in patent law — is essential. It prevents wasting time reinventing existing solutions. It reveals what approaches have been tried and failed. And it identifies the specific gap between what exists and what's needed.
+Understanding what already exists — called "prior art" in [patent law](/patent-law) — is essential. It prevents wasting time reinventing existing solutions. It reveals what approaches have been tried and failed. And it identifies the specific gap between what exists and what's needed.
 
-Patent databases, scientific literature, trade publications, and increasingly, online communities are where inventors study prior art. The US Patent and Trademark Office (USPTO) database alone contains over 11 million granted patents, each describing in detail an attempt to solve a specific problem.
+Patent databases, scientific [literature](/literature), [trade](/trade) publications, and increasingly, online communities are where inventors study prior art. The US Patent and Trademark Office (USPTO) database alone contains over 11 million granted patents, each describing in detail an attempt to solve a specific problem.
 
 ### Conceptual Design
 
@@ -143,7 +143,7 @@ The steam engine converted heat into mechanical work, freeing [humanity](/engine
 
 ### The Transistor (1947)
 
-John Bardeen, Walter Brattain, and William Shockley invented the transistor at Bell Labs. It replaced vacuum tubes — which were large, hot, fragile, and power-hungry — with a tiny, reliable, cool-running semiconductor switch.
+John Bardeen, Walter Brattain, and William Shockley invented the transistor at Bell Labs. It replaced vacuum tubes — which were large, hot, fragile, and power-hungry — with a tiny, reliable, cool-[running](/running) semiconductor switch.
 
 The transistor made modern [electronics](/electronics) possible. Without it, no computers, no smartphones, no internet, no modern medicine, no space exploration, no... well, no modern civilization as we know it. The number of transistors in a computer chip has grown from one (1947) to over 100 billion (Apple's M2 Ultra, 2023), following the trajectory that Gordon Moore predicted in 1965.
 
@@ -155,9 +155,9 @@ Vaccines have saved more lives than perhaps any other class of invention. Smallp
 
 ### The Internet (1969-1995)
 
-The internet — from ARPANET to TCP/IP to the World Wide Web — was a collective invention involving hundreds of contributors over decades. It connected billions of people, reshaped commerce, media, politics, and social life, and created an infrastructure for further invention that accelerated the pace of everything.
+The internet — from ARPANET to TCP/IP to the World Wide Web — was a collective invention involving hundreds of contributors over decades. It connected billions of people, reshaped commerce, media, [politics](/politics), and social life, and created an infrastructure for further invention that accelerated the pace of everything.
 
-What makes the internet unusual as an invention is that it's a platform for other inventions. E-commerce, social media, streaming, [cloud computing](/cloud-computing), cryptocurrency, and AI applications are all inventions built on top of the internet invention. It's an invention multiplier.
+What makes the internet unusual as an invention is that it's a platform for other inventions. E-commerce, social media, streaming, [cloud computing](/cloud-computing), [cryptocurrency](/cryptocurrency), and AI applications are all inventions built on top of the internet invention. It's an invention multiplier.
 
 ## The Sociology of Invention
 
@@ -165,15 +165,15 @@ Invention isn't purely a technical process. Social, economic, and cultural facto
 
 ### Simultaneous Invention
 
-Many important inventions were made independently by multiple people at roughly the same time. Calculus: Newton and Leibniz (1680s). The telephone: Bell and Elisha Gray filed patents on the same day (1876). The airplane: the Wrights and several European experimenters were working simultaneously (1900s). Evolution: Darwin and Wallace (1858). Radio: Marconi, Tesla, and several others (1890s).
+Many important inventions were made independently by multiple people at roughly the same time. [Calculus](/calculus): Newton and Leibniz (1680s). The telephone: Bell and Elisha Gray filed patents on the same day (1876). The airplane: the Wrights and several European experimenters were working simultaneously (1900s). Evolution: Darwin and Wallace (1858). Radio: Marconi, Tesla, and several others (1890s).
 
 This pattern suggests that inventions arise when the necessary prerequisite knowledge and technology are available. Individual genius matters, but the timing of invention is partly determined by the state of available knowledge. If Edison hadn't invented the practical light bulb, someone else would have — probably within a few years.
 
 ### Who Gets to Invent
 
-Historically, invention has been dominated by men from wealthy countries, not because of superior ability but because of access to education, funding, workshops, and institutions. Women and people from developing countries have been systematically excluded from inventing — and from receiving credit when they did invent.
+Historically, invention has been dominated by men from wealthy countries, not because of superior ability but because of access to [education](/education), funding, workshops, and institutions. Women and people from developing countries have been systematically excluded from inventing — and from receiving credit when they did invent.
 
-Margaret Knight invented a machine for making flat-bottomed paper bags in 1868. Charles Annan tried to steal the patent, claiming a woman couldn't have invented such a machine. Knight fought and won, but her experience was far from unique. Hedy Lamarr co-invented frequency-hopping spread spectrum technology during World War II — the foundation for Bluetooth and Wi-Fi — but received no recognition during her lifetime.
+Margaret Knight invented a machine for making flat-bottomed paper bags in 1868. Charles Annan tried to steal the patent, claiming a woman couldn't have invented such a machine. Knight fought and won, but her experience was far from unique. Hedy Lamarr co-invented frequency-hopping spread spectrum technology during [World War II](/world-war-ii) — the foundation for Bluetooth and Wi-Fi — but received no recognition during her lifetime.
 
 [Entrepreneurship](/entrepreneurship) and invention are becoming more globally distributed as education access improves and technology lowers barriers. But the disparity in patent filing between wealthy and developing nations remains stark — the US, China, Japan, South Korea, and Germany account for over 80% of global patent applications.
 
@@ -181,7 +181,7 @@ Margaret Knight invented a machine for making flat-bottomed paper bags in 1868. 
 
 Invention requires resources: time, materials, equipment, and often specialized knowledge. Where these resources come from shapes what gets invented.
 
-Government funding — through agencies like DARPA, NSF, and NIH in the US — has supported many of the most important inventions of the past century: the internet, GPS, mRNA vaccines, touchscreens, voice recognition. These were too risky or too far from commercialization for private funding.
+[Government](/government) funding — through agencies like DARPA, NSF, and NIH in the US — has supported many of the most important inventions of the past century: the internet, GPS, mRNA vaccines, touchscreens, voice recognition. These were too risky or too far from commercialization for private funding.
 
 Corporate R&D labs — Bell Labs, Xerox PARC, IBM Research — produced significant inventions when given long time horizons and freedom to explore. But corporate research has increasingly shifted toward shorter-term, product-focused development as shareholder pressure demands quicker returns.
 
@@ -199,7 +199,7 @@ Several forces are changing how invention works.
 
 **Democratized tools**: 3D printers, CNC machines, low-cost microcontrollers, and cloud computing give individual inventors capabilities that previously required corporate facilities. A person in their garage today has more prototyping capability than a major corporation had in 1990.
 
-**Accelerating returns**: Each invention enables further invention. CRISPR gene editing (invented 2012) enabled new biological inventions. Smartphones enabled new communication inventions. The pace of invention is accelerating because the toolkit for inventing is continuously expanding.
+**Accelerating returns**: Each invention enables further invention. CRISPR gene [editing](/editing) (invented 2012) enabled new biological inventions. Smartphones enabled new communication inventions. The pace of invention is accelerating because the toolkit for inventing is continuously expanding.
 
 ## Key Takeaways
 

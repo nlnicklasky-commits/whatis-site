@@ -39,7 +39,7 @@ Dream analysis is the practice of examining the imagery, emotions, narratives, a
 
 ## A Very Brief History of Dreaming About Dreams
 
-Humans have been trying to decode dreams for as long as we've been writing things down. The ancient Egyptians maintained dream books as early as 2000 BCE—catalogues matching dream imagery to predicted events. The Greek temple practice of "incubation" involved sleeping in sacred spaces hoping for divine messages through dreams. Aristotle, ever the skeptic, argued dreams were merely residual sense impressions from waking life.
+Humans have been trying to decode dreams for as long as we've been [writing](/writing) things down. The ancient Egyptians maintained dream books as early as 2000 BCE—catalogues matching dream imagery to predicted events. The Greek temple practice of "incubation" involved sleeping in sacred spaces hoping for divine messages through dreams. Aristotle, ever the skeptic, argued dreams were merely residual sense impressions from waking life.
 
 But modern dream analysis really begins with one person.
 
@@ -55,7 +55,7 @@ Some of Freud's specific interpretations feel dated now. Not every elongated obj
 
 Carl Jung, initially Freud's protege, broke away and developed a radically different approach. Where Freud saw dreams as concealing forbidden wishes, Jung saw them as revealing truths the dreamer needed to hear. Dreams, for Jung, were compensatory—they balanced the one-sidedness of conscious attitudes.
 
-Jung introduced the concept of archetypes—universal symbolic figures (the Shadow, the Anima/Animus, the Wise Old Man, the Great Mother) that appear across cultures and throughout history. When these figures show up in your dreams, Jung argued, they represent fundamental aspects of human psychology that you need to integrate.
+Jung introduced the concept of archetypes—universal symbolic figures (the Shadow, the Anima/Animus, the Wise Old Man, the Great Mother) that appear across cultures and throughout history. When these figures show up in your dreams, Jung argued, they represent fundamental aspects of human [psychology](/psychology) that you need to integrate.
 
 The Jungian approach also emphasized the *collective unconscious*—a shared layer of psychic content inherited from human evolutionary history. This explains, Jung thought, why people across unrelated cultures dream of similar symbols: water as the unconscious, snakes as transformation, houses as the self.
 
@@ -75,7 +75,7 @@ The psychological theories are fascinating, but what's actually happening in you
 
 ### REM Sleep and Dreaming
 
-Most vivid, story-like dreaming occurs during REM (Rapid Eye Movement) sleep, which your brain cycles into roughly every 90 minutes throughout the night. During REM, something remarkable happens: your brain is almost as active as when you're awake, but your body is temporarily paralyzed (a condition called REM atonia) to prevent you from acting out your dreams.
+Most vivid, story-like dreaming occurs during REM (Rapid Eye Movement) sleep, which your brain cycles into roughly every 90 minutes throughout the night. During REM, something remarkable happens: your brain is almost as active as when you're awake, but your body is temporarily paralyzed (a condition called REM atonia) to prevent you from [acting](/acting) out your dreams.
 
 Your first REM period lasts about 10 minutes. The last one, just before waking, might last 45-60 minutes. This is why your most memorable dreams tend to happen in the early morning.
 
@@ -83,13 +83,13 @@ But here's what a lot of people don't realize: you also dream during non-REM sle
 
 ### The Activation-Synthesis Hypothesis
 
-In 1977, psychiatrists J. Allan Hobson and Robert McCarley proposed a theory that horrified the psychoanalytic establishment: dreams might be meaningless. Their activation-synthesis model suggested that during REM sleep, the brainstem sends random electrical signals to the cortex, and the cortex—being a meaning-making machine—stitches these random activations into a semi-coherent narrative. Dreams aren't messages from the unconscious. They're your brain's [storytelling](/storytelling) engine running on noise.
+In 1977, psychiatrists J. Allan Hobson and Robert McCarley proposed a theory that horrified the psychoanalytic establishment: dreams might be meaningless. Their activation-synthesis model suggested that during REM sleep, the brainstem sends random electrical signals to the cortex, and the cortex—being a meaning-making machine—stitches these random activations into a semi-coherent narrative. Dreams aren't messages from the unconscious. They're your brain's [storytelling](/storytelling) engine [running](/running) on noise.
 
 The theory has been significantly refined since then. Hobson himself evolved his position, acknowledging that the way the brain synthesizes random activation is itself psychologically meaningful—it draws on your memories, concerns, and emotional patterns. The randomness is in the trigger; the content reveals who you are.
 
 ### Memory Consolidation Theory
 
-One of the most compelling modern theories: dreams help consolidate memories and learning. During sleep, your brain replays and reorganizes information from the day, strengthening important connections and pruning unnecessary ones.
+One of the most compelling modern theories: dreams help consolidate memories and learning. During sleep, your brain replays and reorganizes information from the day, strengthening important connections and [pruning](/pruning) unnecessary ones.
 
 Studies at Harvard and MIT have shown that people who dream about a task they've been learning perform better on it afterward. In one famous study, participants navigated a virtual maze. Those who reported dreaming about the maze during a nap showed dramatically improved performance compared to those who napped without maze-related dreams.
 
@@ -173,13 +173,13 @@ Lucid dreaming itself has been verified in sleep laboratories: dreamers can sign
 
 Dream interpretation varies dramatically across cultures, which tells us something important about the enterprise itself.
 
-Many Indigenous Australian traditions treat dreams as access to the "Dreamtime"—a foundational reality underlying the physical world. Dreams aren't personal psychology; they're spiritual navigation.
+Many Indigenous Australian traditions treat dreams as access to the "Dreamtime"—a foundational reality underlying the physical world. Dreams aren't personal psychology; they're spiritual [navigation](/navigation).
 
 In Tibetan Buddhist dream yoga practice, learning to maintain awareness during dreams is a formal [meditation](/meditation) discipline aimed at understanding the nature of consciousness itself. The dream state is treated as a training ground for maintaining awareness through the "dream" of ordinary waking life—and through the transition of death.
 
 [Traditional Chinese medicine](/traditional-chinese-medicine) has interpreted dreams diagnostically for centuries—specific dream content was thought to indicate imbalances in organ systems and qi flow.
 
-These diverse frameworks remind us that dream analysis is always interpretation through a cultural lens. Freud's framework reflected Victorian European sexual repression. Jung's reflected his interest in mythology and religion. Modern neuroscience reflects our culture's emphasis on biological mechanism. Each reveals something; none reveals everything.
+These diverse frameworks remind us that dream analysis is always interpretation through a cultural lens. Freud's framework reflected Victorian European sexual repression. Jung's reflected his interest in [mythology](/mythology) and [religion](/religion). Modern neuroscience reflects our culture's emphasis on biological mechanism. Each reveals something; none reveals everything.
 
 ## The Limits of Dream Interpretation
 

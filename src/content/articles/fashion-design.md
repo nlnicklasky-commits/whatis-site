@@ -37,7 +37,7 @@ Fashion design is the art of applying [aesthetics](/aesthetics), cultural awaren
 
 The common perception of fashion design involves glamorous runway shows and celebrity dresses. That's real, but it's maybe 1% of the industry. Most fashion design is far more practical — figuring out how to make a t-shirt that fits well, costs $12 to manufacture, and doesn't fall apart after three washes. The technical challenges of fit, fabric behavior, production efficiency, and cost control are where most designers spend their time.
 
-The design process typically follows a sequence: research and inspiration, [sketching](/sketching) concepts, selecting fabrics, creating patterns, draping on dress forms, sewing prototypes (called "toiles" or "muslins"), fitting and adjusting, and finally producing the finished garment. Each step requires different skills, and a mistake at any stage can derail the whole thing.
+The design process typically follows a sequence: research and inspiration, [sketching](/sketching) concepts, selecting fabrics, creating patterns, draping on dress forms, [sewing](/sewing) prototypes (called "toiles" or "muslins"), fitting and adjusting, and finally producing the finished garment. Each step requires different skills, and a mistake at any stage can derail the whole thing.
 
 Pattern making is particularly underappreciated. Converting a two-dimensional sketch into a three-dimensional garment that fits a moving human body is essentially an [engineering](/engineering) problem. The human body isn't a cylinder — it curves, bends, and varies wildly between individuals. Getting a sleeve to hang correctly or a collar to lay flat requires precision measured in millimeters.
 

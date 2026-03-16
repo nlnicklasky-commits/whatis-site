@@ -58,7 +58,7 @@ The initial franchise fee is just the beginning. Here's what a typical franchise
 - **Equipment**: Everything from kitchen equipment to POS systems to signage
 - **Inventory**: Initial stock of products and supplies
 - **Working capital**: Cash to cover operating expenses until the business becomes self-sustaining (usually 3-12 months)
-- **Insurance, permits, and legal fees**: The bureaucratic necessities
+- **[Insurance](/insurance), permits, and legal fees**: The bureaucratic necessities
 
 All told, a McDonald's franchise requires $1.3 million to $2.3 million in total investment. A Subway costs $150,000 to $300,000. A home-based tutoring franchise might be $50,000 to $100,000. The range is enormous.
 
@@ -67,7 +67,7 @@ All told, a McDonald's franchise requires $1.3 million to $2.3 million in total 
 Once you're open, the payments continue:
 
 - **Royalty fees**: Typically 4-8% of gross revenue (not profit — gross revenue). This means you pay the franchisor whether you're profitable or not.
-- **Advertising fees**: Usually 1-4% of gross revenue, pooled into national or regional marketing funds.
+- **Advertising fees**: Usually 1-4% of gross revenue, pooled into national or regional [marketing](/marketing) funds.
 - **Technology fees**: Many franchisors charge for mandatory software systems, online ordering platforms, or proprietary technology.
 - **Required purchases**: Most franchisors require you to buy supplies from approved vendors, who may charge premium prices.
 
@@ -83,7 +83,7 @@ According to [budgeting](/budgeting) experts and franchise analysts, here's the 
 - **Average franchise owners** typically earn $50,000-$80,000
 - **Struggling franchise owners** may earn less than minimum wage or lose money entirely
 
-Multi-unit ownership — running several franchise locations — is where the real wealth building happens. About 54% of all franchise units in the U.S. are owned by multi-unit operators. The economics improve with scale because overhead gets spread across more revenue.
+Multi-unit ownership — [running](/running) several franchise locations — is where the real wealth building happens. About 54% of all franchise units in the U.S. are owned by multi-unit operators. The [economics](/economics) improve with scale because overhead gets spread across more revenue.
 
 ## The Franchise Disclosure Document: Your Most Important Reading
 
@@ -115,7 +115,7 @@ About 80% of all franchises use this model. The franchisor maintains tight contr
 
 Here, the franchisee primarily distributes the franchisor's products but has more operational freedom. Car dealerships, gas stations, and soft drink bottling companies typically use this model. You're selling their product under their brand, but how you run your showroom or distribution center is more up to you.
 
-This model accounts for about 30% of franchise sales revenue — it's fewer units than business format franchising but the individual units tend to be larger.
+This model accounts for about 30% of franchise [sales](/sales) revenue — it's fewer units than business format franchising but the individual units tend to be larger.
 
 ### Manufacturing Franchising
 
@@ -129,7 +129,7 @@ A good franchisor gives you:
 
 - **Brand recognition**: Customers already know and trust the name
 - **Proven systems**: Operational procedures refined over years or decades
-- **Training**: Initial training (often 2-8 weeks) plus ongoing education
+- **Training**: Initial training (often 2-8 weeks) plus ongoing [education](/education)
 - **Marketing**: National advertising campaigns and local marketing support
 - **Purchasing power**: Negotiated deals with suppliers that you couldn't get alone
 - **Ongoing support**: Field consultants, help lines, peer networks
@@ -189,9 +189,9 @@ Walk away if you see any of these:
 
 ## The History of Franchising
 
-Franchising isn't new. Isaac Singer used franchise-like distribution for sewing machines in the 1850s. But modern franchising took off after [World War II](/world-war-ii), when returning veterans with savings and ambition met entrepreneurs with business concepts ready to scale.
+Franchising isn't new. Isaac Singer used franchise-like distribution for [sewing](/sewing) machines in the 1850s. But modern franchising took off after [World War II](/world-war-ii), when returning veterans with savings and ambition met entrepreneurs with business concepts ready to scale.
 
-Ray Kroc's expansion of McDonald's starting in 1954 is the canonical franchise story. Kroc didn't invent the McDonald brothers' restaurant — he recognized that their system could be replicated everywhere. By standardizing every aspect of operations (from cooking times to napkin placement), he created a model where any competent operator could produce consistent results. By 1960, McDonald's had 200 locations. Today, there are over 40,000 worldwide, with about 93% operated by franchisees.
+Ray Kroc's expansion of McDonald's starting in 1954 is the canonical franchise story. Kroc didn't invent the McDonald brothers' restaurant — he recognized that their system could be replicated everywhere. By standardizing every aspect of operations (from [cooking](/cooking) times to napkin placement), he created a model where any competent operator could produce consistent results. By 1960, McDonald's had 200 locations. Today, there are over 40,000 worldwide, with about 93% operated by franchisees.
 
 The franchise boom of the 1960s and 1970s brought both legitimate opportunities and outright scams. Fly-by-night "franchisors" collected fees and disappeared. This led to the FTC's Franchise Rule in 1979, requiring disclosure documents and cooling-off periods. Updated in 2007, the rule remains the primary federal regulation governing franchise sales.
 

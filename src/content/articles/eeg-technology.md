@@ -109,7 +109,7 @@ Beta activity increases during active thinking, problem-solving, focused attenti
 
 The fastest measurable oscillations. Gamma activity is associated with higher cognitive functions—binding features of a perception together (seeing a red moving ball as a single object rather than separate features), conscious awareness, and cross-regional communication in the brain.
 
-Gamma is technically difficult to measure with scalp EEG because high-frequency signals are attenuated more by the skull, and muscle artifact (electrical signals from scalp muscles) overlaps with the gamma range. Much gamma research uses intracranial recordings (electrodes placed directly on or in the brain during epilepsy surgery).
+Gamma is technically difficult to measure with scalp EEG because high-frequency signals are attenuated more by the skull, and muscle artifact (electrical signals from scalp muscles) overlaps with the gamma range. Much gamma research uses intracranial recordings (electrodes placed directly on or in the brain during epilepsy [surgery](/surgery)).
 
 ## Clinical Applications
 
@@ -185,7 +185,7 @@ EEG has specific strengths and weaknesses relative to other neuroimaging techniq
 
 **Spatial resolution:** EEG loses. Scalp EEG localizes activity to roughly centimeter-scale regions—you know whether activity is frontal or parietal, left or right, but not precisely which brain structure is involved. fMRI provides millimeter resolution. Source localization algorithms can improve EEG spatial resolution, but they involve mathematical assumptions that aren't always met.
 
-**Cost and portability:** EEG wins by a mile. A clinical EEG system costs $15,000-50,000. An fMRI scanner costs $2-5 million, requires a specially shielded room, and weighs several tons. EEG systems can be portable—worn while walking, driving (in research settings), or sleeping at home.
+**Cost and portability:** EEG wins by a mile. A clinical EEG system costs $15,000-50,000. An fMRI scanner costs $2-5 million, requires a specially shielded room, and weighs several tons. EEG systems can be portable—worn while [walking](/walking), driving (in research settings), or sleeping at home.
 
 **What it measures:** EEG directly measures neural electrical activity. fMRI measures blood oxygenation changes, an indirect proxy for neural activity with a 4-6 second delay. PET uses radioactive tracers. MEG (magnetoencephalography) measures the magnetic fields produced by neural currents—similar to EEG in temporal resolution but with better spatial localization and much higher equipment cost ($2-3 million).
 

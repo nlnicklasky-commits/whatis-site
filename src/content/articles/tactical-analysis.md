@@ -95,7 +95,7 @@ Wagon wheels (showing where a batsman hits), [bowling](/bowling) maps, and field
 
 The field attracts people who combine sports passion with analytical thinking. Many analysts have backgrounds in [coaching](/coaching), sports science, [data science](/data-science), or [journalism](/journalism). University programs in [sports analytics](/sports-analytics) are growing, and organizations like the MIT Sloan Sports Analytics Conference have built communities where aspiring analysts can network and learn.
 
-Entry points include club internships, freelance analysis writing, social media content creation, and amateur coaching. The tools are increasingly accessible — anyone with a laptop and a Wyscout or StatsBomb subscription can do meaningful analysis.
+Entry points include club internships, freelance analysis [writing](/writing), social media content creation, and amateur coaching. The tools are increasingly accessible — anyone with a laptop and a Wyscout or StatsBomb subscription can do meaningful analysis.
 
 ## The Limits
 

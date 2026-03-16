@@ -42,9 +42,9 @@ The conventional starting point for Russian history is the founding of **Kievan 
 
 Whether that actually happened is debatable. What's clear is that by the late 9th century, Scandinavian warriors and traders had established control over key trading routes connecting the Baltic Sea to Constantinople (modern Istanbul). The city of **Kiev** (now Kyiv) became the center of this network.
 
-The big cultural turning point came in **988 CE**, when Prince Vladimir I converted to Eastern Orthodox [Christianity](/christianity) and ordered mass baptisms of his people in the Dnieper River. This decision — reportedly made after investigating Islam, Judaism, and Western Christianity as alternatives — permanently linked Russian civilization to the Byzantine cultural sphere. It shaped Russian art, [architecture](/architecture), [literature](/literature), law, and political ideology for the next thousand years.
+The big cultural turning point came in **988 CE**, when Prince Vladimir I converted to Eastern Orthodox [Christianity](/christianity) and ordered mass baptisms of his people in the Dnieper River. This decision — reportedly made after investigating [Islam](/islam), Judaism, and Western Christianity as alternatives — permanently linked Russian civilization to the Byzantine cultural sphere. It shaped Russian art, [architecture](/architecture), [literature](/literature), law, and political ideology for the next thousand years.
 
-Kievan Rus wasn't a centralized state. It was a collection of principalities loosely connected by trade, family ties, and shared religion. Princes constantly fought over succession. The system worked when there was a strong leader; it fractured when there wasn't.
+Kievan Rus wasn't a centralized state. It was a collection of principalities loosely connected by [trade](/trade), family ties, and shared [religion](/religion). Princes constantly fought over succession. The system worked when there was a strong leader; it fractured when there wasn't.
 
 ## The Mongol Period — Two Centuries of Domination (1240-1480)
 
@@ -62,7 +62,7 @@ The key story of this period is the gradual rise of **Moscow**. Muscovite prince
 
 In his early years, Ivan reformed the legal code, created a standing army, expanded trade, and conquered the Tatar khanates of Kazan and Astrakhan — opening Siberia to Russian expansion. In his later years, he established the **Oprichnina**, a state-within-a-state run by black-robed secret police who terrorized the nobility, massacred the city of Novgorod (killing thousands), and created a precedent for state terror that would resurface throughout Russian history.
 
-Ivan also killed his own son and heir in a fit of rage — an event captured in Ilya Repin's famous painting. His death in 1584 led to the **Time of Troubles** (1598-1613), a catastrophic period of famine, civil war, and foreign invasion that nearly destroyed Russia.
+Ivan also killed his own son and heir in a fit of rage — an event captured in Ilya Repin's famous [painting](/painting). His death in 1584 led to the **Time of Troubles** (1598-1613), a catastrophic period of famine, civil war, and foreign invasion that nearly destroyed Russia.
 
 The crisis ended when a national assembly elected **Michael Romanov** as tsar in 1613, founding the dynasty that would rule Russia until 1917.
 
@@ -74,9 +74,9 @@ Peter's reforms were real but incomplete. He modernized the military and state a
 
 ## Imperial Russia — Expansion and Tension (1725-1917)
 
-After Peter, Russia kept expanding. **Catherine the Great** (ruled 1762-1796) added vast territories in the south (Crimea, Ukraine) and west (parts of Poland). She corresponded with Enlightenment philosophers, reformed education and administration, and presented herself as an enlightened ruler — while simultaneously tightening serfdom and crushing Pugachev's massive peasant rebellion.
+After Peter, Russia kept expanding. **Catherine the Great** (ruled 1762-1796) added vast territories in the south (Crimea, Ukraine) and west (parts of Poland). She corresponded with Enlightenment philosophers, reformed [education](/education) and administration, and presented herself as an enlightened ruler — while simultaneously tightening serfdom and crushing Pugachev's massive peasant rebellion.
 
-By the 19th century, Russia was an empire stretching from Poland to Alaska (sold to the United States in 1867 for $7.2 million — about 2 cents per acre). It had defeated Napoleon's invasion in 1812, and the Russian army's march to Paris made it a dominant force in European politics.
+By the 19th century, Russia was an empire stretching from Poland to Alaska (sold to the United States in 1867 for $7.2 million — about 2 cents per acre). It had defeated Napoleon's invasion in 1812, and the Russian army's march to Paris made it a dominant force in European [politics](/politics).
 
 But internally, the problems were mounting:
 
@@ -124,8 +124,8 @@ Russian history has certain recurring themes that are hard to ignore:
 
 **Cycles of reform and reaction.** Peter the Great's modernization, Alexander II's Great Reforms, the 1905 constitutional experiment, Khrushchev's Thaw, Gorbachev's glasnost — each period of opening has been followed by tightening.
 
-**The tension between Russia and "the West."** Since Peter the Great, Russian elites have debated whether Russia should follow a Western path of development or find its own way. This debate — between "Westernizers" and "Slavophiles" in the 19th century — continues in different forms today.
+**The tension between Russia and "the West."** Since Peter the Great, Russian elites have debated whether Russia should follow a Western path of development or find its own way. This [debate](/debate) — between "Westernizers" and "Slavophiles" in the 19th century — continues in different forms today.
 
-**Enormous suffering.** The statistics are staggering. The Mongol invasion, the Time of Troubles, serfdom, World War I, the Civil War, Stalin's terror, World War II, the post-Soviet collapse — Russian history involves human suffering on a scale that's difficult to fully grasp.
+**Enormous suffering.** The [statistics](/statistics) are staggering. The Mongol invasion, the Time of Troubles, serfdom, World War I, the Civil War, Stalin's terror, World War II, the post-Soviet collapse — Russian history involves human suffering on a scale that's difficult to fully grasp.
 
 Understanding these patterns doesn't make the future predictable. But it does help explain why Russia behaves the way it does — and why the relationship between Russia and the rest of the world remains one of the most consequential questions in global politics.

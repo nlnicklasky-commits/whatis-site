@@ -35,9 +35,9 @@ faq:
 
 # What Is Quantum Biology?
 
-Quantum biology is the study of quantum mechanical phenomena in living organisms -- processes like electron tunneling, quantum coherence, and spin dynamics that directly influence biological functions such as photosynthesis, enzyme catalysis, and animal navigation. It sits at the intersection of [quantum chemistry](/quantum-chemistry), [biophysics](/biophysics), and [biology](/biology), and it's one of the most exciting scientific frontiers of the 21st century.
+Quantum biology is the study of quantum mechanical phenomena in living organisms -- processes like electron [tunneling](/tunneling), quantum coherence, and spin dynamics that directly influence biological functions such as photosynthesis, enzyme catalysis, and animal [navigation](/navigation). It sits at the intersection of [quantum chemistry](/quantum-chemistry), [biophysics](/biophysics), and [biology](/biology), and it's one of the most exciting scientific frontiers of the 21st century.
 
-Here's the thing that makes quantum biology so surprising: for decades, physicists assumed quantum effects couldn't possibly matter in biological systems. Quantum phenomena are fragile. They typically require near-absolute-zero temperatures and perfect isolation from environmental noise. Living cells are warm, wet, and chaotic -- the worst possible environment for [quantum mechanics](/quantum-mechanics). And yet, life found a way to exploit quantum physics anyway.
+Here's the thing that makes quantum biology so surprising: for decades, physicists assumed quantum effects couldn't possibly matter in biological systems. Quantum phenomena are fragile. They typically require near-absolute-zero temperatures and perfect isolation from environmental noise. Living cells are warm, wet, and chaotic -- the worst possible environment for [quantum mechanics](/quantum-mechanics). And yet, life found a way to exploit [quantum physics](/quantum-physics) anyway.
 
 ## Why Quantum Effects in Biology Seemed Impossible
 
@@ -45,7 +45,7 @@ To appreciate why quantum biology is such a big deal, you need to understand why
 
 Quantum mechanics governs the behavior of particles at incredibly small scales. At the atomic and subatomic level, particles don't behave like tiny billiard balls. They exist in superpositions (multiple states simultaneously), they tunnel through energy barriers they shouldn't be able to cross, and they can become entangled -- linked in ways that defy classical explanation.
 
-But these effects are extraordinarily delicate. The slightest interaction with the surrounding environment -- a stray photon, a thermal vibration -- causes "decoherence," collapsing quantum states into ordinary classical behavior. In a physics lab, maintaining quantum coherence requires cooling systems to temperatures near -273 degrees Celsius and shielding from all external interference.
+But these effects are extraordinarily delicate. The slightest interaction with the surrounding environment -- a stray photon, a thermal vibration -- causes "decoherence," collapsing quantum states into ordinary classical behavior. In a [physics](/physics) lab, maintaining quantum coherence requires cooling systems to temperatures near -273 degrees Celsius and shielding from all external interference.
 
 A living cell is the opposite of that environment. It's 37 degrees Celsius (in humans), surrounded by water molecules constantly jostling everything, and full of chemical reactions producing heat and electromagnetic noise. The idea that quantum effects could persist long enough to matter biologically seemed absurd.
 
@@ -69,7 +69,7 @@ This is essentially the same principle behind a [quantum computing](/quantum-com
 
 The really puzzling part is that this quantum coherence lasts for hundreds of femtoseconds at biological temperatures. That doesn't sound like much, but it's orders of magnitude longer than physicists predicted it could survive in such a warm, noisy environment.
 
-How does biology pull this off? Research published between 2010 and 2023 suggests that the protein scaffolding around the pigment molecules isn't just structural -- it actively protects and sustains quantum coherence. The vibrations of the protein environment, rather than destroying quantum effects, may actually help maintain them through a phenomenon called "environment-assisted quantum transport" or ENAQT.
+How does biology pull this off? Research published between 2010 and 2023 suggests that the protein [scaffolding](/scaffolding) around the pigment molecules isn't just structural -- it actively protects and sustains quantum coherence. The vibrations of the protein environment, rather than destroying quantum effects, may actually help maintain them through a phenomenon called "environment-assisted quantum transport" or ENAQT.
 
 In other words, the noise isn't the enemy of quantum biology. It's a collaborator. The biological system has evolved to use environmental vibrations to sustain quantum effects just long enough to be useful. This was a model-changing insight.
 
@@ -93,7 +93,7 @@ Enzymes like alcohol dehydrogenase, aromatic amine dehydrogenase, and soybean li
 
 ### Why This Matters for Medicine
 
-If quantum tunneling is essential to how enzymes work, then understanding tunneling could lead to better drug design. Drugs that inhibit enzymes (which is how many pharmaceuticals work) might be designed to specifically interfere with tunneling pathways. This is still early-stage research, but the implications for [biochemistry](/biochemistry) and pharmacology are significant.
+If quantum tunneling is essential to how enzymes work, then understanding tunneling could lead to better drug design. Drugs that inhibit enzymes (which is how many pharmaceuticals work) might be designed to specifically interfere with tunneling pathways. This is still early-stage research, but the implications for [biochemistry](/biochemistry) and [pharmacology](/pharmacology) are significant.
 
 ## Bird Navigation: A Quantum Compass in the Eye
 
@@ -167,11 +167,11 @@ Several mechanisms have been proposed and, increasingly, confirmed:
 
 Biological molecules aren't passive containers. The protein environments surrounding quantum-active sites appear to be precisely tuned to protect quantum coherence. Specific vibrations in the protein structure can resonate with quantum processes, sustaining them rather than destroying them.
 
-A 2014 study in *Nature Chemistry* showed that in photosynthetic complexes, the protein vibrations and electronic quantum states are coupled in a way that extends coherence lifetimes. The biological system has evolved a kind of quantum error correction -- not the deliberate kind used in quantum computers, but an emergent protection arising from billions of years of natural selection.
+A 2014 study in *Nature [Chemistry](/chemistry)* showed that in photosynthetic complexes, the protein vibrations and electronic quantum states are coupled in a way that extends coherence lifetimes. The biological system has evolved a kind of quantum error correction -- not the deliberate kind used in quantum computers, but an emergent protection arising from billions of years of natural selection.
 
 ### Decoherence-Free Subspaces
 
-In some cases, quantum states may exist in "decoherence-free subspaces" -- mathematical subsets of the quantum state space that are naturally immune to certain types of environmental noise. If biological evolution has found these subspaces, quantum effects could persist indefinitely in the right molecular geometry.
+In some cases, quantum states may exist in "decoherence-free subspaces" -- mathematical subsets of the quantum state space that are naturally immune to certain types of environmental noise. If biological evolution has found these subspaces, quantum effects could persist indefinitely in the right molecular [geometry](/geometry).
 
 ### Quantum Zeno Effect
 
@@ -197,7 +197,7 @@ Quantum consciousness remains a fringe theory, but it's no longer dismissed quit
 
 Studying quantum biology requires tools from both [physics](/experimental-physics) and biology:
 
-**Two-dimensional electronic spectroscopy** was the technique that revealed quantum coherence in photosynthesis. It uses ultrafast laser pulses to probe energy transfer dynamics at femtosecond timescales.
+**Two-dimensional electronic [spectroscopy](/spectroscopy)** was the technique that revealed quantum coherence in photosynthesis. It uses ultrafast laser pulses to probe energy transfer dynamics at femtosecond timescales.
 
 **Electron paramagnetic resonance (EPR)** spectroscopy detects unpaired electrons and is essential for studying radical pair mechanisms in bird navigation.
 
@@ -213,7 +213,7 @@ Quantum biology is still a young field, but it's growing fast. Several direction
 
 **Quantum biology meets medicine.** Understanding quantum tunneling in enzymes could reshape drug design. If we can model the quantum states involved in enzyme catalysis, we could design inhibitors that specifically target tunneling pathways -- potentially more effective and more specific than current drugs.
 
-**Artificial photosynthesis.** If we can fully understand and replicate the quantum coherence mechanisms in photosynthesis, we could build solar energy systems that approach biological efficiency. Current solar panels convert about 20-25% of incident light to electricity. Photosynthetic systems achieve 95% energy transfer efficiency. The gap is largely quantum.
+**Artificial photosynthesis.** If we can fully understand and replicate the quantum coherence mechanisms in photosynthesis, we could build solar energy systems that approach biological efficiency. Current solar panels convert about 20-25% of incident light to [electricity](/electricity). Photosynthetic systems achieve 95% energy transfer efficiency. The gap is largely quantum.
 
 **Quantum-inspired computing.** The way biological systems maintain quantum coherence in warm, noisy environments could inspire new approaches to building [quantum computers](/quantum-computing) that don't require extreme cooling. Nature has solved the decoherence problem -- we just need to figure out how.
 
@@ -235,6 +235,6 @@ Quantum biology reveals that life has been exploiting quantum mechanics for bill
 
 The field challenges our assumptions about both physics and biology. Quantum effects were supposed to be too fragile for warm biological systems. Biology was supposed to be fully explainable by classical chemistry. Both assumptions turned out to be wrong.
 
-What makes quantum biology so compelling isn't just that quantum effects exist in living systems -- it's that life appears to have evolved to exploit them. Natural selection found quantum advantages and optimized them over billions of years. In a very real sense, nature has been doing quantum engineering since before there were multicellular organisms.
+What makes quantum biology so compelling isn't just that quantum effects exist in living systems -- it's that life appears to have evolved to exploit them. Natural selection found quantum advantages and optimized them over billions of years. In a very real sense, nature has been doing quantum [engineering](/engineering) since before there were multicellular organisms.
 
 We're only beginning to understand the implications. But already, quantum biology is reshaping how we think about life, physics, and the relationship between the two. And frankly, that's pretty extraordinary.

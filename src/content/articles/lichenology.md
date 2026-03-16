@@ -79,7 +79,7 @@ Some lichens don't fit these categories neatly. Squamulose lichens have small, s
 
 The photobiont captures sunlight and converts carbon dioxide into sugars through photosynthesis, just as it would living independently. But in the lichen partnership, the fungus intercepts these sugars—extracting up to 90% of the photobiont's production. This sounds exploitative, and some biologists argue that lichens are better described as "controlled parasitism" than "mutualism."
 
-The photobiont benefits through protection (the fungal cortex shields it from UV radiation, desiccation, and extreme temperatures) and access to mineral nutrients that the fungus extracts from its substrate. Whether this trade is truly fair is debated, but the partnership has been successful for at least 400 million years—lichen fossils date back to the early Devonian period.
+The photobiont benefits through protection (the fungal cortex shields it from UV radiation, desiccation, and extreme temperatures) and access to mineral nutrients that the fungus extracts from its substrate. Whether this [trade](/trade) is truly fair is debated, but the partnership has been successful for at least 400 million years—lichen fossils date back to the early Devonian period.
 
 Lichens with cyanobacterial photobionts have an additional trick: nitrogen fixation. The cyanobacterium converts atmospheric nitrogen into biologically available forms, making these lichens important nutrient inputs in nitrogen-poor ecosystems like old-growth forests and biological soil crusts.
 
@@ -131,7 +131,7 @@ Modern lichen monitoring programs map air quality across large regions by [surve
 
 ### Climate Change
 
-Lichens are also being used to track climate change effects. Since lichen distributions are strongly influenced by temperature and moisture, shifts in lichen communities can indicate changing climatic conditions. Species moving to higher elevations or latitudes, or species disappearing from areas that have become too warm or dry, provide evidence of environmental change.
+Lichens are also being used to track [climate change](/climate-change) effects. Since lichen distributions are strongly influenced by temperature and moisture, shifts in lichen communities can indicate changing climatic conditions. Species moving to higher elevations or latitudes, or species disappearing from areas that have become too warm or dry, provide evidence of environmental change.
 
 Long-lived lichen thalli serve as archives of atmospheric conditions. [Chemistry](/chemistry) analysis of lichen tissue can reveal historical pollution levels, heavy metal deposition, and even radioactive fallout. Lichens near the Chernobyl disaster site concentrated radioactive cesium-137 and served as indicators of contamination extent.
 

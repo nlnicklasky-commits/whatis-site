@@ -39,9 +39,9 @@ faq:
 
 Natural language processing — usually abbreviated NLP — is the field of [artificial intelligence](/artificial-intelligence) focused on enabling computers to understand, interpret, and generate human language. When you ask a voice assistant to set an alarm, use Google Translate to read a menu in Tokyo, or get autocomplete suggestions while typing an email, NLP is doing the work.
 
-The challenge is harder than it sounds. Human language is spectacularly messy. Words have multiple meanings depending on context ("bank" can be a financial institution or a river's edge). Sentences can be ambiguous ("I saw the man with the telescope" — who has the telescope?). Sarcasm reverses meaning entirely. Slang evolves constantly. Grammar rules have more exceptions than rules. And yet, humans handle all this effortlessly from about age four.
+The challenge is harder than it sounds. Human language is spectacularly messy. Words have multiple meanings depending on context ("bank" can be a financial institution or a river's edge). Sentences can be ambiguous ("I saw the man with the telescope" — who has the telescope?). Sarcasm reverses meaning entirely. Slang evolves constantly. [Grammar](/grammar) rules have more exceptions than rules. And yet, humans handle all this effortlessly from about age four.
 
-Teaching computers to do the same has been one of AI's longest-running and most commercially valuable pursuits.
+[Teaching](/teaching) computers to do the same has been one of AI's longest-running and most commercially valuable pursuits.
 
 ## Why Language Is So Hard for Computers
 
@@ -63,7 +63,7 @@ Language is ambiguous at essentially every structural level:
 
 English (and most natural languages) resist formalization. Every grammatical rule has exceptions. Spelling rules are unreliable ("i before e except after c" fails for science, weird, seize, and dozens of others). Word boundaries in speech are ambiguous ("recognize speech" and "wreck a nice beach" sound identical).
 
-Languages also change constantly. New words emerge, meanings drift, and grammatical conventions shift. The English used in formal writing, Twitter posts, academic papers, and text messages are almost different languages, each with its own conventions.
+Languages also change constantly. New words emerge, meanings drift, and grammatical conventions shift. The English used in formal [writing](/writing), Twitter posts, academic papers, and text messages are almost different languages, each with its own conventions.
 
 ### World Knowledge
 
@@ -89,11 +89,11 @@ The shift to statistical methods changed everything. Instead of writing rules, r
 
 **Hidden Markov Models** and **n-gram models** dominated this era. These approaches treated language probabilistically — what's the probability that word X follows word Y? Train the model on enough text, and it learns useful patterns without being explicitly programmed.
 
-Statistical machine translation (pioneered at IBM in the late 1980s) translated between languages by analyzing aligned bilingual texts and learning statistical correspondences. Google Translate launched in 2006 using statistical methods and improved dramatically as more training data became available.
+Statistical machine [translation](/translation) (pioneered at IBM in the late 1980s) translated between languages by analyzing aligned bilingual texts and learning statistical correspondences. Google Translate launched in 2006 using statistical methods and improved dramatically as more training data became available.
 
 **Named Entity Recognition** (identifying proper nouns like person names, organizations, and locations in text), **part-of-speech tagging** (labeling each word as noun, verb, adjective, etc.), and **sentiment analysis** (determining whether text expresses positive, negative, or neutral opinions) all became practical with statistical approaches.
 
-Bag-of-words models treated text as an unordered collection of words, ignoring syntax entirely. Surprisingly, this crude approach worked well for many classification tasks. TF-IDF (Term Frequency-Inverse Document Frequency) weighted words by how informative they were — common words like "the" got low weights, while distinctive words got high weights. These methods powered early search engines and [information retrieval](/information-retrieval) systems.
+Bag-of-words models treated text as an unordered collection of words, ignoring [syntax](/syntax) entirely. Surprisingly, this crude approach worked well for many classification tasks. TF-IDF (Term Frequency-Inverse Document Frequency) weighted words by how informative they were — common words like "the" got low weights, while distinctive words got high weights. These methods powered early search engines and [information retrieval](/information-retrieval) systems.
 
 ### The Deep Learning Revolution (2013-Present)
 
@@ -159,11 +159,11 @@ NLP technology is embedded in products used by billions of people.
 
 **Email.** Gmail's autocomplete (Smart Compose) uses NLP to predict what you'll type next. Spam filters use text classification. Priority inbox uses NLP to determine email importance.
 
-**Healthcare.** NLP extracts structured information from clinical notes, radiology reports, and electronic health records. This enables clinical decision support, automated medical coding, and population health analytics. Processing the vast amount of unstructured text in healthcare — estimated at 80% of medical data — is a major NLP application area.
+**Healthcare.** NLP extracts structured information from clinical notes, [radiology](/radiology) reports, and electronic health records. This enables clinical decision support, automated medical coding, and population health analytics. Processing the vast amount of unstructured text in healthcare — estimated at 80% of medical data — is a major NLP application area.
 
 **Legal.** Contract analysis, legal research, case summarization, and regulatory compliance monitoring all use NLP. Legal documents are particularly challenging because of their formal language, complex sentence structures, and the critical importance of precise interpretation.
 
-**Finance.** Sentiment analysis of news and social media for trading signals, automated processing of financial documents, regulatory filing analysis, and customer service chatbots are all NLP applications in finance.
+**[Finance](/finance).** Sentiment analysis of news and social media for trading signals, automated processing of financial documents, regulatory filing analysis, and customer service chatbots are all NLP applications in finance.
 
 ## The Limits of Current NLP
 
@@ -171,7 +171,7 @@ Despite remarkable progress, NLP has real limitations.
 
 **Hallucination.** LLMs generate plausible-sounding but factually incorrect information. They don't "know" facts the way humans do — they predict statistically likely text sequences, which sometimes produces convincing nonsense. This is a fundamental issue, not a bug to be patched, and it limits the reliability of LLMs in high-stakes applications.
 
-**Reasoning.** Current models struggle with multi-step logical reasoning, mathematical computation, and causal inference. They can simulate reasoning when the pattern appears in their training data but fail on genuinely novel reasoning problems. Whether LLMs will achieve true reasoning through scale alone or require fundamentally different architectures is an open debate.
+**Reasoning.** Current models struggle with multi-step logical reasoning, mathematical computation, and causal inference. They can simulate reasoning when the pattern appears in their training data but fail on genuinely novel reasoning problems. Whether LLMs will achieve true reasoning through scale alone or require fundamentally different architectures is an open [debate](/debate).
 
 **Bias.** Models trained on internet text absorb the biases present in that text — gender stereotypes, racial biases, cultural assumptions. Significant research effort goes into measuring and reducing bias, but eliminating it entirely is probably impossible given that the training data reflects human society.
 
@@ -197,7 +197,7 @@ Several trends are shaping the near future.
 
 **Multimodal models** that process text, images, audio, and video together — rather than each modality separately — are advancing rapidly. GPT-4V, Gemini, and Claude already handle text and images. Future models will likely process all modalities fluently, enabling applications like visual question answering, video summarization, and audio-visual content creation.
 
-**Smaller, efficient models.** While headlines focus on ever-larger models, there's significant research into making smaller models perform well through techniques like [distillation](/distillation), quantization, and pruning. Running capable NLP models on phones and edge devices — without cloud connectivity — is increasingly feasible.
+**Smaller, efficient models.** While headlines focus on ever-larger models, there's significant research into making smaller models perform well through techniques like [distillation](/distillation), quantization, and [pruning](/pruning). [Running](/running) capable NLP models on phones and edge devices — without cloud connectivity — is increasingly feasible.
 
 **Retrieval-augmented generation (RAG).** Combining LLMs with external knowledge retrieval systems reduces hallucination by grounding responses in specific, verifiable source documents. This approach is becoming standard for enterprise [AI applications](/artificial-intelligence).
 

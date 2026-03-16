@@ -31,7 +31,7 @@ faq:
 
 # What Is Stand-up Comedy?
 
-Stand-up comedy is a [performance art](/performance-art) form in which a comedian stands on a stage — usually alone, with a microphone — and speaks directly to a live audience with the goal of making them laugh. No costumes, no props (usually), no scene partners, no safety net. Just one person, their words, and a room full of people who will let them know immediately and honestly whether the material works.
+Stand-up [comedy](/comedy) is a [performance art](/performance-art) form in which a comedian stands on a stage — usually alone, with a microphone — and speaks directly to a live audience with the goal of making them laugh. No costumes, no props (usually), no scene partners, no safety net. Just one person, their words, and a room full of people who will let them know immediately and honestly whether the material works.
 
 It's the most direct form of comedy and one of the most exposed forms of performance in any art. A musician can hide behind their instrument. An actor has a character. A stand-up has only themselves and their ideas, presented to strangers who paid money to laugh. When it works, it's electric. When it doesn't, the silence is devastating.
 

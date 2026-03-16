@@ -31,9 +31,9 @@ faq:
 
 # What Is Television Production?
 
-Television production is the complete process of creating television content — from the initial concept through writing, filming, [editing](/editing), and final broadcast or streaming delivery. It encompasses everything that happens to turn an idea into something that appears on your screen.
+Television production is the complete process of creating television content — from the initial concept through [writing](/writing), filming, [editing](/editing), and final broadcast or streaming delivery. It encompasses everything that happens to turn an idea into something that appears on your screen.
 
-The scale varies enormously. A local news broadcast and a $200-million-per-season HBO drama are both television production. The principles — pre-production, production, post-production — are the same. The budgets, timelines, and complexity are worlds apart.
+The scale varies enormously. A local news broadcast and a $200-million-per-season HBO [drama](/drama) are both television production. The principles — pre-production, production, post-production — are the same. The budgets, timelines, and complexity are worlds apart.
 
 ## The Three Phases
 
@@ -93,7 +93,7 @@ Where the raw footage becomes a finished show:
 
 ## Types of Television Production
 
-- **Scripted drama/comedy** — The most complex and expensive. Requires writers, actors, sets, and extensive post-production.
+- **Scripted drama/[comedy](/comedy)** — The most complex and expensive. Requires writers, actors, sets, and extensive post-production.
 - **Reality/unscripted** — Lower per-episode costs but high shooting ratios. Much of the "story" is created in editing.
 - **News** — Live or near-live production with tight deadlines and real-time decision-making.
 - **Documentary** — Longer production timelines, smaller crews, emphasis on research and access.

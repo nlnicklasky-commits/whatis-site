@@ -35,7 +35,7 @@ faq:
 
 # What Is Quantum Cryptography?
 
-Quantum cryptography is a method of securing communications using the principles of [quantum mechanics](/quantum-mechanics) rather than mathematical complexity. Its most developed application, quantum key distribution (QKD), allows two parties to generate a shared encryption key with security guaranteed by the laws of physics -- not by the assumed difficulty of a math problem.
+Quantum cryptography is a method of securing communications using the principles of [quantum mechanics](/quantum-mechanics) rather than mathematical complexity. Its most developed application, quantum key distribution (QKD), allows two parties to generate a shared encryption key with security guaranteed by the laws of [physics](/physics) -- not by the assumed difficulty of a math problem.
 
 Here's why that distinction matters enormously: every encryption method you use today -- your bank's HTTPS connection, your messaging app's end-to-end encryption, your VPN -- relies on mathematical problems that are hard but not provably impossible to solve. If someone discovers a faster algorithm or builds a powerful enough [quantum computer](/quantum-computing), that security evaporates. Quantum cryptography is different. Its security is based on physical laws that cannot be broken by any computer, classical or quantum, now or ever.
 
@@ -57,7 +57,7 @@ The security of RSA depends on the difficulty of factoring large numbers. ECC de
 
 Peter Shor proved in 1994 that a quantum computer could factor large numbers exponentially faster than classical computers. When quantum computers become powerful enough -- and this is a question of when, not if -- RSA and ECC will be broken. Every encrypted message ever sent using these methods and recorded by adversaries will become readable.
 
-This is the "harvest now, decrypt later" threat that intelligence agencies worldwide are already acting on. And it's the problem that quantum cryptography aims to solve permanently.
+This is the "harvest now, decrypt later" threat that intelligence agencies worldwide are already [acting](/acting) on. And it's the problem that quantum cryptography aims to solve permanently.
 
 ## How Quantum Key Distribution Works
 
@@ -121,7 +121,7 @@ Quantum cryptography isn't just theoretical. It's being deployed today:
 
 China has made the most aggressive push into quantum communication. The Beijing-Shanghai quantum backbone, completed in 2017, stretches over 2,000 km and uses a network of trusted relay nodes for QKD. In 2017, China also demonstrated satellite-based QKD using the Micius satellite, distributing keys over 1,200 km between ground stations.
 
-By 2025, China's quantum communication network connected major cities across the country and was being used for banking and government communications. China reportedly invested over $15 billion in quantum technologies, with quantum communication as a major focus.
+By 2025, China's quantum communication network connected major cities across the country and was being used for banking and [government](/government) communications. China reportedly invested over $15 billion in quantum technologies, with quantum communication as a major focus.
 
 ### European Quantum Communication Infrastructure (EuroQCI)
 
@@ -149,7 +149,7 @@ Three solutions exist:
 
 **Satellite QKD** transmits photons through free space (atmosphere and vacuum), which has much lower loss than fiber for long distances. China's Micius satellite demonstrated this, and several countries are launching quantum communication satellites.
 
-**Quantum repeaters** would extend QKD distances without trusted nodes by using quantum entanglement and teleportation to relay quantum states. They're the "holy grail" of quantum networking but remain in the research stage. Functional quantum repeaters require quantum memories that can store entangled states -- technology that's improving rapidly but isn't yet reliable enough for deployment.
+**Quantum repeaters** would extend QKD distances without trusted nodes by using quantum entanglement and teleportation to relay quantum states. They're the "holy grail" of quantum [networking](/networking) but remain in the research stage. Functional quantum repeaters require quantum memories that can store entangled states -- technology that's improving rapidly but isn't yet reliable enough for deployment.
 
 ## Quantum Cryptography vs. Post-Quantum Cryptography
 
@@ -157,13 +157,13 @@ These terms sound similar but refer to very different approaches. Understanding 
 
 **Quantum cryptography** (specifically QKD) uses [quantum physics](/quantum-physics) to distribute keys. It requires specialized hardware (single-photon sources, quantum detectors, dark fiber). Its security is based on physics.
 
-**Post-quantum cryptography** (PQC) uses classical computers running mathematical algorithms that are believed to resist quantum attacks. It requires no special hardware -- it runs on existing [computers](/computer-science) and networks. Its security is based on mathematical problems (like lattice problems) that are hard for both classical and quantum computers.
+**Post-quantum cryptography** (PQC) uses classical computers [running](/running) mathematical algorithms that are believed to resist quantum attacks. It requires no special hardware -- it runs on existing [computers](/computer-science) and networks. Its security is based on mathematical problems (like lattice problems) that are hard for both classical and quantum computers.
 
 NIST standardized post-quantum algorithms in 2024: CRYSTALS-Kyber (ML-KEM) for key exchange and CRYSTALS-Dilithium (ML-DSA) for digital signatures. These algorithms are already being integrated into web browsers, TLS protocols, and messaging apps.
 
 For most practical purposes, PQC is the near-term solution to the quantum threat. It protects existing infrastructure without hardware upgrades. QKD provides stronger theoretical security guarantees but requires dedicated fiber or satellite links.
 
-Think of it this way: post-quantum cryptography is aspirin -- widely available, works for most situations, and relies on our best understanding of the problem. Quantum cryptography is surgery -- more targeted, more effective for specific cases, but requiring specialized resources.
+Think of it this way: post-quantum cryptography is aspirin -- widely available, works for most situations, and relies on our best understanding of the problem. Quantum cryptography is [surgery](/surgery) -- more targeted, more effective for specific cases, but requiring specialized resources.
 
 ## The Vulnerabilities You Should Know About
 
@@ -185,7 +185,7 @@ Most deployed QKD networks use trusted relay nodes, which means the security of 
 
 ### Side-Channel Leakage
 
-Even if the quantum channel is secure, information can leak through classical side channels: timing patterns, electromagnetic emissions, power consumption, or even the sound of equipment. These are the same types of attacks that affect classical [cryptographic](/cryptography) systems, and they require the same types of engineering countermeasures.
+Even if the quantum channel is secure, information can leak through classical side channels: timing patterns, electromagnetic emissions, power consumption, or even the sound of equipment. These are the same types of attacks that affect classical [cryptographic](/cryptography) systems, and they require the same types of [engineering](/engineering) countermeasures.
 
 ## The Quantum Internet
 
@@ -211,9 +211,9 @@ If you're not a government intelligence officer or a bank's chief [security](/co
 
 **The transition is happening now.** NIST's post-quantum standards are being integrated into the software you use. Browser updates, operating system patches, and messaging app upgrades are already incorporating quantum-resistant algorithms. You'll benefit from this protection without needing to do anything.
 
-**It shapes geopolitics.** Quantum communication capabilities are a strategic asset. Nations investing in quantum [networks](/computer-networking) gain a communication advantage that could shift the balance of intelligence capabilities.
+**It shapes [geopolitics](/geopolitics).** Quantum communication capabilities are a strategic asset. Nations investing in quantum [networks](/computer-networking) gain a communication advantage that could shift the balance of intelligence capabilities.
 
-**It's driving innovation in optics and photonics.** The engineering challenges of quantum cryptography -- generating single photons reliably, detecting them efficiently, transmitting them over long distances -- are pushing advances in [optical engineering](/optical-engineering) that benefit telecommunications, sensing, and computing.
+**It's driving innovation in [optics](/optics) and photonics.** The engineering challenges of quantum cryptography -- generating single photons reliably, detecting them efficiently, transmitting them over long distances -- are pushing advances in [optical engineering](/optical-engineering) that benefit telecommunications, sensing, and computing.
 
 ## Key Takeaways
 

@@ -37,7 +37,7 @@ faq:
 
 # What Is Coastal [Geography](/geography)?
 
-Coastal geography is the study of the active zone where land meets the ocean—examining the physical processes, landforms, ecosystems, and human interactions that shape coastlines around the world. Coastlines cover approximately 1.6 million kilometers globally and are among the most geologically active and ecologically productive environments on Earth. With roughly 40% of the world's population living within 100 kilometers of a coast, and with sea levels rising due to climate change, understanding how coastlines form, change, and respond to human activity has become critically important.
+Coastal geography is the study of the active zone where land meets the ocean—examining the physical processes, landforms, ecosystems, and human interactions that shape coastlines around the world. Coastlines cover approximately 1.6 million kilometers globally and are among the most geologically active and ecologically productive environments on Earth. With roughly 40% of the world's population living within 100 kilometers of a coast, and with sea levels rising due to [climate change](/climate-change), understanding how coastlines form, change, and respond to human activity has become critically important.
 
 ## The Coastal Zone: Where Nothing Stands Still
 

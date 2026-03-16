@@ -103,7 +103,7 @@ A **trend** is the general direction of price movement. An uptrend consists of h
 
 Trendlines are diagonal lines drawn along the lows of an uptrend or the highs of a downtrend. They help visualize the trend's trajectory and identify potential reversal points. A trendline that's been touched three or more times is considered significant — the more times price bounces off a trendline, the more meaningful a break through it becomes.
 
-**Trend is your friend** — this is perhaps the most repeated phrase in trading. It means that it's generally safer to trade in the direction of the prevailing trend than against it. Fighting a strong trend is like [swimming](/swimming) against a current. Possible, but exhausting.
+**Trend is your friend** — this is perhaps the most repeated phrase in trading. It means that it's generally safer to [trade](/trade) in the direction of the prevailing trend than against it. Fighting a strong trend is like [swimming](/swimming) against a current. Possible, but exhausting.
 
 ### Volume
 
@@ -185,7 +185,7 @@ Professional traders rarely use technical analysis in isolation. Most combine it
 - **Sentiment analysis** — gauging market mood through options data, surveys, and social media
 - **Macro awareness** — interest rates, economic data, geopolitical events
 
-The most dangerous thing a beginner can do is treat technical analysis as a crystal ball. It's not. It's a probability tool. A head and shoulders pattern doesn't guarantee a reversal — it suggests one is more likely than not. Acting on probabilities with proper risk management is professional trading. Betting the farm on a chart pattern is gambling.
+The most dangerous thing a beginner can do is treat technical analysis as a crystal ball. It's not. It's a probability tool. A head and shoulders pattern doesn't guarantee a reversal — it suggests one is more likely than not. [Acting](/acting) on probabilities with proper risk [management](/management) is professional trading. Betting the farm on a chart pattern is gambling.
 
 For anyone interested in [data analysis](/data-analysis) more broadly, technical analysis provides an interesting case study in how humans search for patterns in noisy data — and how difficult it is to distinguish genuine signals from coincidence.
 

@@ -31,7 +31,7 @@ faq:
 
 # What Is Renaissance Art?
 
-Renaissance art refers to the painting, sculpture, and [architecture](/architecture) produced in Europe — primarily Italy — between roughly 1300 and 1600, during a period of cultural revival inspired by the art, philosophy, and science of ancient Greece and Rome. The word "Renaissance" means "rebirth," and the art reflects that literally: a rebirth of interest in the natural world, the human body, classical learning, and the idea that humans could understand and represent reality through observation and reason.
+Renaissance art refers to the [painting](/painting), [sculpture](/sculpture), and [architecture](/architecture) produced in Europe — primarily Italy — between roughly 1300 and 1600, during a period of cultural revival inspired by the art, [philosophy](/philosophy), and science of ancient Greece and Rome. The word "Renaissance" means "rebirth," and the art reflects that literally: a rebirth of interest in the natural world, the human body, classical learning, and the idea that humans could understand and represent reality through observation and reason.
 
 ## The Shift from Medieval to Renaissance
 
@@ -45,7 +45,7 @@ Renaissance artists broke from this approach in several fundamental ways:
 
 **Chiaroscuro** — the dramatic use of light and shadow to create volume and atmosphere. Caravaggio pushed this to extremes, but the technique was developed throughout the Renaissance.
 
-**Humanism** — the philosophical movement placing human beings at the center of intellectual and artistic inquiry. Renaissance art celebrates human beauty, intelligence, emotion, and achievement. Even religious subjects are depicted with human emotion and physical presence.
+**[Humanism](/humanism)** — the philosophical movement placing human beings at the center of intellectual and artistic inquiry. Renaissance art celebrates human beauty, intelligence, emotion, and achievement. Even religious subjects are depicted with human emotion and physical presence.
 
 ## The Key Periods
 
@@ -67,7 +67,7 @@ The peak. Three artists working simultaneously in and around Florence and Rome p
 
 **Michelangelo** (1475-1564) painted the Sistine Chapel ceiling (1508-1512) — 5,800 square feet of fresco containing over 300 figures, painted while lying on his back on [scaffolding](/scaffolding). His sculpture *David* is the most famous sculpture in the world. His architecture includes St. Peter's Basilica dome. He worked into his late 80s, producing masterworks across seven decades.
 
-**Raphael** (1483-1520) painted *The School of Athens* — a monumental fresco depicting the great philosophers of antiquity in an architecture that demonstrates perfect perspective. His Madonnas set the standard for compositional harmony. He died at 37, having produced a body of work that influenced painting for centuries.
+**Raphael** (1483-1520) painted *The School of Athens* — a monumental fresco depicting the great philosophers of antiquity in an architecture that demonstrates perfect perspective. His Madonnas set the standard for compositional [harmony](/harmony). He died at 37, having produced a body of work that influenced painting for centuries.
 
 ### The Northern Renaissance
 
@@ -79,7 +79,7 @@ The Renaissance in Northern Europe developed independently, with distinct charac
 
 ## Patronage and Power
 
-Renaissance art was made possible by wealthy patrons — the Medici in Florence, the Papacy in Rome, the Sforza in Milan, the Doge in Venice. Art was patronage, and patronage was politics. Commissioning a magnificent altarpiece or funding a cathedral demonstrated wealth, taste, piety, and power simultaneously.
+Renaissance art was made possible by wealthy patrons — the Medici in Florence, the Papacy in Rome, the Sforza in Milan, the Doge in Venice. Art was patronage, and patronage was [politics](/politics). Commissioning a magnificent altarpiece or funding a cathedral demonstrated wealth, taste, piety, and power simultaneously.
 
 The Medici alone funded works by Botticelli, Michelangelo, Leonardo, and dozens of other artists. Lorenzo de' Medici (Lorenzo the Magnificent) essentially ran an informal art academy. When the Medici were temporarily expelled from Florence in 1494, artists scattered — and spread Renaissance ideas further.
 
@@ -87,8 +87,8 @@ The Catholic Church was the single largest patron of Renaissance art. The Vatica
 
 ## The Legacy
 
-Renaissance art established the Western tradition of visual representation that dominated for five centuries. Perspective, anatomical accuracy, chiaroscuro, composition — these became the standard tools of visual art and remain the foundation of representational art education.
+Renaissance art established the Western tradition of visual representation that dominated for five centuries. Perspective, anatomical accuracy, chiaroscuro, composition — these became the standard tools of visual art and remain the foundation of representational art [education](/education).
 
 More broadly, the Renaissance established the concept of the artist as an individual genius — a creator, not merely a craftsman. Before the Renaissance, artists were anonymous members of guilds. After, they were celebrities whose names, personalities, and rivalries were public knowledge.
 
-Every art movement since has defined itself in relation to Renaissance principles — whether building on them (Baroque, [Neoclassicism](/neoclassicism)), rebelling against them ([Impressionism](/impressionism), Modern Art), or selectively reviving them (Pre-Raphaelites, Photorealism). The Renaissance didn't just produce great art. It defined what "great art" means.
+Every art movement since has defined itself in relation to Renaissance principles — whether building on them (Baroque, [Neoclassicism](/neoclassicism)), rebelling against them ([Impressionism](/impressionism), [Modern Art](/modern-art)), or selectively reviving them (Pre-Raphaelites, Photorealism). The Renaissance didn't just produce great art. It defined what "great art" means.

@@ -231,6 +231,6 @@ Insurance should be a foundation of [financial planning](/financial-planning), n
 
 Insurance is a financial mechanism for transferring risk from individuals to a large pool of policyholders, managed by insurance companies that use [statistical modeling](/statistical-modeling) to price that risk. It works because large groups have predictable loss patterns even though individual outcomes are uncertain.
 
-The major types — health, auto, homeowner's, life, and disability — each protect against different risks. Insurance is regulated at the state level, priced by actuaries, and evolving rapidly due to climate change, technology, and shifting risk patterns.
+The major types — health, auto, homeowner's, life, and disability — each protect against different risks. Insurance is regulated at the state level, priced by actuaries, and evolving rapidly due to [climate change](/climate-change), technology, and shifting risk patterns.
 
 Understanding insurance isn't glamorous. But it's one of the most practically important financial topics you'll ever encounter. The difference between adequate insurance and no insurance — or the wrong insurance — can be the difference between a manageable setback and financial devastation.

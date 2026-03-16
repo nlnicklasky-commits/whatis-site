@@ -43,7 +43,7 @@ Apiculture is the science and practice of managing honey bee colonies — typica
 
 ## Humans and Bees Go Way Back
 
-The relationship between people and honey bees is ancient — far older than most people realize. A rock painting in the Cuevas de la Arana cave near Valencia, Spain, shows a human figure collecting honey from a wild bee nest. It dates to roughly 8,000 BCE. That's 10,000 years ago, before the wheel, before writing, before bronze tools.
+The relationship between people and honey bees is ancient — far older than most people realize. A rock [painting](/painting) in the Cuevas de la Arana cave near Valencia, Spain, shows a human figure collecting honey from a wild bee nest. It dates to roughly 8,000 BCE. That's 10,000 years ago, before the wheel, before [writing](/writing), before bronze tools.
 
 But early honey hunters weren't beekeepers. They were raiders. Climb a tree or cliff, smoke out the bees, grab what you can, and run. True apiculture — actually keeping bees in managed containers — emerged in ancient Egypt around 2400 BCE. Temple reliefs at Abu Ghurob show cylindrical clay hives stacked horizontally, with beekeepers using smoke to calm the colonies. The Egyptians were already producing honey at commercial scale, using it as currency, medicine, and embalming material.
 
@@ -113,7 +113,7 @@ Here's what makes Varroa so devastating: the mites don't just weaken bees direct
 
 Varroa mites jumped from the Asian honey bee (*Apis cerana*) to the Western honey bee (*Apis mellifera*) sometime in the mid-20th century and have since spread to every continent except Australia. *Apis cerana* has natural defenses against Varroa — grooming behavior and smaller cell size limit mite reproduction. *Apis mellifera* has almost none.
 
-Modern beekeepers manage Varroa through a combination of chemical treatments (synthetic miticides like amitraz, or organic acids like oxalic acid and formic acid), mechanical methods (drone comb trapping, sugar dusting, brood breaks), and increasingly through breeding programs that select for bees with natural hygienic behaviors. The Varroa-Sensitive Hygiene (VSH) trait, identified by USDA researchers, causes worker bees to detect and remove mite-infested brood cells — essentially giving managed bees the defense mechanisms they should have evolved on their own.
+Modern beekeepers manage Varroa through a combination of chemical treatments (synthetic miticides like amitraz, or organic acids like oxalic acid and formic acid), mechanical methods (drone comb [trapping](/trapping), sugar dusting, brood breaks), and increasingly through breeding programs that select for bees with natural hygienic behaviors. The Varroa-Sensitive [Hygiene](/hygiene) (VSH) trait, identified by USDA researchers, causes worker bees to detect and remove mite-infested brood cells — essentially giving managed bees the defense mechanisms they should have evolved on their own.
 
 ## Why Bees Matter Beyond Honey
 
@@ -143,7 +143,7 @@ Honey is the flagship product, but hives produce a surprising range of useful ma
 
 If you're thinking about keeping bees, here's the honest version. It's cheaper than most hobbies (a couple hundred dollars to start), it doesn't take huge amounts of time (maybe 30 minutes per hive per week during the active season), and bees mostly take care of themselves — you're managing, not micromanaging.
 
-Start by joining a local beekeeping association. Nearly every county in the United States has one, and most offer beginner classes in late winter or early spring. These classes typically cover basic bee biology, hive setup, seasonal management, and hands-on hive inspections with experienced mentors. The American Beekeeping Federation and state apiarist offices maintain directories of local clubs.
+Start by joining a local beekeeping association. Nearly every county in the United States has one, and most offer beginner classes in late winter or early spring. These classes typically cover basic bee [biology](/biology), hive setup, seasonal management, and hands-on hive inspections with experienced mentors. The American Beekeeping Federation and state apiarist offices maintain directories of local clubs.
 
 Equipment-wise, you need a hive (most beginners choose the standard Langstroth hive with 10-frame deep boxes), bees (either a 3-pound package with a mated queen or a nucleus colony — a "nuc" — which is a small, already-established colony on five frames), protective gear (at minimum a veil and gloves, though many experienced beekeepers work bare-handed), a smoker, and a hive tool for prying apart frames.
 
@@ -161,6 +161,6 @@ Technology is also making an impact. Hive monitoring sensors can track internal 
 
 Breeding programs are producing bees with better Varroa resistance, improved overwintering ability, and gentler temperament. The USDA's Baton Rouge Bee Lab has developed several resistant stock lines, and organizations like the Bee Informed Partnership collect and share data on colony survival that helps the entire industry make better management decisions.
 
-The biggest structural change may be a growing recognition that honey bees can't carry the pollination burden alone. Efforts to support wild pollinator populations through habitat restoration, reduced pesticide use, and diversified farming practices benefit managed bees too — more flowers and fewer chemicals make everyone's job easier.
+The biggest structural change may be a growing recognition that honey bees can't carry the pollination burden alone. Efforts to support wild pollinator populations through habitat restoration, reduced pesticide use, and diversified [farming](/farming) practices benefit managed bees too — more flowers and fewer chemicals make everyone's job easier.
 
 Apiculture isn't going anywhere. People have been keeping bees for over 4,000 years, through wars, plagues, climate shifts, and agricultural revolutions. The challenges are different now, but the basic relationship — humans provide shelter and management, bees provide honey and pollination — remains one of the most productive partnerships between our species and any other organism on Earth.

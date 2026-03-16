@@ -37,7 +37,7 @@ faq:
 
 # What Is Fiber Optics?
 
-Fiber optics is a technology that transmits information as pulses of light through thin, flexible strands of glass or plastic, each roughly the diameter of a human hair. A single fiber optic cable can carry data at speeds exceeding 100 terabits per second over distances of hundreds of kilometers—making it the backbone of the modern internet and the fastest data transmission technology in widespread commercial use.
+Fiber [optics](/optics) is a technology that transmits information as pulses of light through thin, flexible strands of glass or plastic, each roughly the diameter of a human hair. A single fiber optic cable can carry data at speeds exceeding 100 terabits per second over distances of hundreds of kilometers—making it the backbone of the modern internet and the fastest data transmission technology in widespread commercial use.
 
 ## How Light Carries Your Data
 
@@ -97,7 +97,7 @@ The global fiber optic network is one of the largest infrastructure projects in 
 
 About 99% of intercontinental data traffic travels through undersea fiber optic cables. Not satellites—cables. Roughly 550 submarine cable systems span the world's ocean floors, totaling over 1.4 million kilometers of cable. That's enough to circle the Earth 35 times.
 
-These cables sit on the ocean floor at depths of up to 8,000 meters, protected by steel armoring in shallow waters and laid bare on the deep seabed where the main threats are earthquakes, fishing trawlers, and the occasional shark bite (sharks have been observed biting submarine cables, possibly attracted by electrical fields from power-feeding equipment).
+These cables sit on the ocean floor at depths of up to 8,000 meters, protected by steel armoring in shallow waters and laid bare on the deep seabed where the main threats are earthquakes, [fishing](/fishing) trawlers, and the occasional shark bite (sharks have been observed biting submarine cables, possibly attracted by electrical fields from power-feeding equipment).
 
 Laying submarine cable costs $30,000-$50,000 per kilometer, and a trans-Atlantic cable runs about 6,000 kilometers. Total project costs for major submarine cables routinely exceed $300 million. Companies like SubCom, NEC, and Alcatel Submarine Networks specialize in this work, using purpose-built cable ships that can carry thousands of kilometers of cable and lay it at depths humans could never work at directly.
 
@@ -117,7 +117,7 @@ Copper cable (specifically coaxial cable and twisted-pair Ethernet) served telec
 
 **Speed**: Fiber residential service typically offers 1-10 Gbps. Cable internet (copper coax) tops out around 1-2 Gbps downstream with current DOCSIS 3.1 technology, and real-world speeds are often much lower due to shared bandwidth.
 
-**Latency**: Light in fiber travels at about 200,000 kilometers per second (roughly two-thirds the speed of light in vacuum). Electrical signals in copper travel at about 200,000 km/s too—but fiber's advantage comes from less signal processing overhead and fewer repeaters needed over distance.
+**Latency**: Light in fiber travels at about 200,000 kilometers per second (roughly two-thirds the speed of light in vacuum). Electrical signals in copper travel at about 200,000 km/s too—but fiber's advantage comes from less [signal processing](/signal-processing) overhead and fewer repeaters needed over distance.
 
 **Distance**: Fiber signals travel 100+ km without amplification. Copper signals degrade significantly after a few hundred meters for high-speed data. This matters enormously for backbone networks.
 
@@ -135,7 +135,7 @@ Fiber optics isn't just for internet access. The technology appears in surprisin
 
 ### Medicine
 
-Fiber optic endoscopes allow doctors to see inside the human body without surgery. A bundle of optical fibers carries light into the body and returns an image—through your esophagus, colon, airways, or joints. Modern medical fiber optics can be thinner than a millimeter, reaching into tiny blood vessels.
+Fiber optic endoscopes allow doctors to see inside the human body without [surgery](/surgery). A bundle of optical fibers carries light into the body and returns an image—through your esophagus, colon, airways, or joints. Modern medical fiber optics can be thinner than a millimeter, reaching into tiny blood vessels.
 
 Fiber lasers are used in surgery for precise cutting with minimal damage to surrounding tissue. Fiber optic sensors monitor physiological parameters like blood oxygen levels (pulse oximeters use fiber optic principles) and intracranial pressure.
 
@@ -143,7 +143,7 @@ Fiber lasers are used in surgery for precise cutting with minimal damage to surr
 
 Fiber optic sensors measure temperature, pressure, strain, and vibration with extraordinary sensitivity. A technology called distributed acoustic sensing (DAS) turns an ordinary fiber optic cable into thousands of individual vibration sensors along its entire length. This is used to monitor oil and gas pipelines for leaks, detect earthquakes, track vehicle traffic, and even monitor wildlife activity.
 
-The physics is elegant: send a laser pulse down the fiber and analyze the light that scatters back. Vibrations cause tiny changes in the backscattered light—changes that sophisticated signal processing can detect and locate to within meters along cables that may be tens of kilometers long.
+The [physics](/physics) is elegant: send a laser pulse down the fiber and analyze the light that scatters back. Vibrations cause tiny changes in the backscattered light—changes that sophisticated signal processing can detect and locate to within meters along cables that may be tens of kilometers long.
 
 ### Military and Defense
 
@@ -173,7 +173,7 @@ Fiber optics isn't perfect. Several challenges persist.
 
 ### The Last Mile
 
-Getting fiber to every home is the biggest practical challenge. It's not a technology problem—it's an economics problem. In dense urban areas, the cost per home is manageable because many customers share the infrastructure investment. In rural areas, running fiber miles to reach a handful of homes doesn't pencil out without subsidies.
+Getting fiber to every home is the biggest practical challenge. It's not a technology problem—it's an economics problem. In dense urban areas, the cost per home is manageable because many customers share the infrastructure investment. In rural areas, [running](/running) fiber miles to reach a handful of homes doesn't pencil out without subsidies.
 
 This is why [computer networking](/computer-networking) approaches like fixed wireless (using 5G or point-to-point radio) and satellite internet (Starlink) are competing with fiber in rural deployments. They're slower than fiber, but dramatically cheaper to deploy in low-density areas.
 
@@ -193,7 +193,7 @@ Splicing and connecting fiber requires precision equipment and skilled technicia
 
 Fiber optic technology continues advancing rapidly.
 
-**Hollow-core fiber** replaces the solid glass core with air (or vacuum), allowing light to travel at nearly the speed of light in vacuum (about 50% faster than in solid glass). This reduces latency—critical for financial trading, real-time gaming, and other latency-sensitive applications. Commercial hollow-core fiber is beginning to ship as of 2025, though costs remain high.
+**Hollow-core fiber** replaces the solid glass core with air (or vacuum), allowing light to travel at nearly the speed of light in vacuum (about 50% faster than in solid glass). This reduces latency—critical for financial trading, real-time [gaming](/gaming), and other latency-sensitive applications. Commercial hollow-core fiber is beginning to ship as of 2025, though costs remain high.
 
 **Space-division multiplexing (SDM)** uses fibers with multiple cores or multiple modes in a single fiber to multiply capacity. A 19-core fiber carries 19 times the data of a single-core fiber in the same physical space. Lab demonstrations have exceeded 10 petabits per second—10,000 terabits—through a single cable.
 
@@ -201,7 +201,7 @@ Fiber optic technology continues advancing rapidly.
 
 **Photonic computing** aims to perform computation using light rather than electrons. Fiber optics would serve as both interconnect and processing medium. While still largely experimental, photonic processors for [machine learning](/machine-learning) inference are beginning to appear commercially.
 
-**Fiber to the room** is emerging in large buildings, replacing copper Ethernet runs with fiber all the way to individual workstations. As data demands increase and fiber installation costs decrease, the economic crossover point where fiber beats copper for in-building networking is approaching.
+**Fiber to the room** is emerging in large buildings, replacing copper Ethernet runs with fiber all the way to individual workstations. As data demands increase and fiber installation costs decrease, the economic crossover point where fiber beats copper for in-building [networking](/networking) is approaching.
 
 ## The Invisible Infrastructure
 

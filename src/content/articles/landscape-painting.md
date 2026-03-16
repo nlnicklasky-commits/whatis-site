@@ -89,4 +89,4 @@ The Impressionists, the Post-Impressionists (Cezanne's geometric landscapes, Van
 
 Contemporary field painting is thriving. Plein air painting has experienced a revival, with hundreds of competitions and festivals worldwide. Gallery painters continue to explore field in styles ranging from photorealistic to completely abstract. David Hockney's iPad paintings of the Yorkshire countryside, Peter Doig's dreamlike tropical scenes, and April Gornik's atmospheric seascapes demonstrate that field remains a vital, evolving genre.
 
-The subject has gained new urgency as climate change alters the landscapes being painted. Some contemporary field painters explicitly address environmental transformation — melting glaciers, deforested hillsides, rising seas — giving the ancient genre a pointed contemporary relevance.
+The subject has gained new urgency as [climate change](/climate-change) alters the landscapes being painted. Some contemporary field painters explicitly address environmental transformation — melting glaciers, deforested hillsides, rising seas — giving the ancient genre a pointed contemporary relevance.

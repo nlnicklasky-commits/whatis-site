@@ -37,7 +37,7 @@ faq:
 
 # What Is Tropical Ecology?
 
-Tropical ecology is the scientific study of the relationships between organisms and their environments in tropical regions — the belt of Earth between the Tropic of Cancer (23.5 degrees N) and the Tropic of Capricorn (23.5 degrees S). These regions contain the most species-rich ecosystems on the planet, from towering rainforest canopies to vibrant coral reefs.
+Tropical [ecology](/ecology) is the scientific study of the relationships between organisms and their environments in tropical regions — the belt of Earth between the Tropic of Cancer (23.5 degrees N) and the Tropic of Capricorn (23.5 degrees S). These regions contain the most species-rich ecosystems on the planet, from towering rainforest canopies to vibrant coral reefs.
 
 ## Why the Tropics Are Different
 
@@ -47,7 +47,7 @@ This staggering difference has puzzled ecologists since Alexander von Humboldt f
 
 Several explanations work together. Tropical regions receive more solar energy per unit area than anywhere else on Earth, which drives more photosynthesis, more plant growth, and ultimately supports more animals. The climate is stable year-round — no harsh winters wiping out specialized species. And the tropics have been relatively free of ice ages and other catastrophic disruptions for tens of millions of years, giving evolution time to fill every available niche.
 
-But here's the thing that still surprises researchers: even accounting for all of these factors, mathematical models consistently underpredict tropical diversity. Something else is going on, and we're still figuring out what.
+But here's the thing that still surprises researchers: even [accounting](/accounting) for all of these factors, mathematical models consistently underpredict tropical diversity. Something else is going on, and we're still figuring out what.
 
 ### The Latitudinal Diversity Gradient
 
@@ -55,7 +55,7 @@ This is the formal name for the pattern: species richness increases as you move 
 
 The numbers are wild. Colombia, which is roughly the size of Texas and California combined, has about 1,900 bird species. All of Canada has about 450. Indonesia has more than 25,000 plant species on its islands. The entire United Kingdom has around 1,500.
 
-This gradient is so consistent that ecologists consider it one of the oldest and most strong patterns in ecology. Yet the debate over its causes has been running for over 200 years without full resolution.
+This gradient is so consistent that ecologists consider it one of the oldest and most strong patterns in ecology. Yet the debate over its causes has been [running](/running) for over 200 years without full resolution.
 
 ## The Structure of Tropical Forests
 
@@ -75,15 +75,15 @@ Canopy research was practically impossible until the 1970s, when ecologists star
 
 Below the canopy, light drops off dramatically. The understory receives only 2 to 5% of full sunlight, and the forest floor can be nearly dark at midday. Plants here have evolved enormous leaves to capture whatever light trickles through — some understory leaves are a meter wide.
 
-The forest floor is where decomposition happens at astonishing speed. A leaf that falls in a temperate forest might take a year to break down. In a tropical forest, fungi, termites, and bacteria can reduce it to nothing in six weeks. This rapid nutrient cycling is critical because, counterintuitively, tropical soils are typically nutrient-poor. Millions of years of heavy rain have washed minerals out of the soil. The nutrients are locked in the living biomass itself, recycled so quickly that they barely spend any time in the ground.
+The forest floor is where decomposition happens at astonishing speed. A leaf that falls in a temperate forest might take a year to break down. In a tropical forest, fungi, termites, and bacteria can reduce it to nothing in six weeks. This rapid nutrient [cycling](/cycling) is critical because, counterintuitively, tropical soils are typically nutrient-poor. Millions of years of heavy rain have washed minerals out of the soil. The nutrients are locked in the living biomass itself, recycled so quickly that they barely spend any time in the ground.
 
 ## Nutrient Cycling: The Tropical Paradox
 
-Here's one of the most surprising facts in ecology: the world's most productive forests grow on some of its poorest soils. If you scraped away the trees and plants from an Amazonian [rainforest](/botany), you'd find thin, acidic, nutrient-depleted earth — terrible for farming.
+Here's one of the most surprising facts in ecology: the world's most productive forests grow on some of its poorest soils. If you scraped away the trees and plants from an Amazonian [rainforest](/botany), you'd find thin, acidic, nutrient-depleted earth — terrible for [farming](/farming).
 
 This paradox makes sense once you understand how tropical nutrient cycling works. In temperate forests, thick soil layers store nutrients over decades. In the tropics, nutrients are recycled so rapidly that they never accumulate in the soil. Mycorrhizal fungi — networks of fungal threads that connect to tree roots — intercept nutrients from decaying matter almost immediately and shuttle them back into living trees. Some researchers call this a "direct nutrient cycling" system, where the gap between death and rebirth is practically zero.
 
-This is why slash-and-burn [agriculture](/agriculture) in tropical regions is such a trap. Burning forest releases a pulse of nutrients into the soil, and crops grow well for two or three years. Then yields crash. The nutrients are gone, washed away by rain, and without the forest's recycling machinery there's no way to get them back. The farmer moves on, clears more forest, and the cycle repeats.
+This is why slash-and-burn [agriculture](/agriculture) in tropical regions is such a trap. Burning forest releases a pulse of nutrients into the soil, and crops grow well for two or three years. Then yields crash. The nutrients are gone, washed away by rain, and without the forest's [recycling](/recycling) machinery there's no way to get them back. The farmer moves on, clears more forest, and the cycle repeats.
 
 ### Phosphorus: The Hidden Limit
 
@@ -143,7 +143,7 @@ Protecting tropical ecosystems requires a mix of approaches, and there's no silv
 
 **Protected areas** are the traditional approach. About 18% of tropical forest land is now in some form of protected area, though enforcement varies wildly. A well-funded national park in Costa Rica works very differently from a "paper park" in the Congo Basin that exists on maps but has no rangers.
 
-**Indigenous land management** is increasingly recognized as one of the most effective conservation tools. Studies consistently show that deforestation rates inside indigenous territories are 2-3 times lower than in comparable unprotected areas. Indigenous communities manage roughly 36% of the world's remaining intact forests.
+**Indigenous land [management](/management)** is increasingly recognized as one of the most effective conservation tools. Studies consistently show that deforestation rates inside indigenous territories are 2-3 times lower than in comparable unprotected areas. Indigenous communities manage roughly 36% of the world's remaining intact forests.
 
 **Payment for ecosystem services** programs pay landowners to keep forests standing rather than clearing them. Costa Rica's Payments for Environmental Services program, launched in 1997, is the most famous example and has helped the country nearly double its forest cover since the 1980s.
 
@@ -162,7 +162,7 @@ The Smithsonian Tropical Research Institute in Panama has been running one of th
 Despite decades of research, some fundamental questions remain unresolved:
 
 - **Why are there so many species?** We have partial answers, but no complete theory explains the full magnitude of tropical diversity.
-- **How will climate change reshape tropical ecosystems?** Most tropical species have evolved in remarkably stable climates. Even small temperature increases could push species beyond their thermal limits.
+- **How will [climate change](/climate-change) reshape tropical ecosystems?** Most tropical species have evolved in remarkably stable climates. Even small temperature increases could push species beyond their thermal limits.
 - **Where is the Amazon tipping point?** The interaction between deforestation, fire, and drought could trigger irreversible conversion to savanna, but the exact threshold remains uncertain.
 - **How much tropical biodiversity have we already lost without knowing it?** Estimates of undescribed species in the tropics range from 5 million to over 50 million. Many of these are going extinct before scientists ever find them — a phenomenon called "dark extinction."
 

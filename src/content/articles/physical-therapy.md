@@ -33,7 +33,7 @@ faq:
 
 # What Is Physical Therapy?
 
-Physical therapy (PT) is a healthcare profession focused on restoring, maintaining, and promoting movement and physical function. Physical therapists use exercise, manual therapy, [education](/education), and other interventions to treat people dealing with injuries, surgeries, chronic pain, neurological conditions, and movement disorders — the goal being to get you moving better, with less pain, and ideally without surgery or long-term medication.
+Physical therapy (PT) is a healthcare profession focused on restoring, maintaining, and promoting movement and physical function. Physical therapists use exercise, manual therapy, [education](/education), and other interventions to treat people dealing with injuries, surgeries, chronic pain, neurological conditions, and movement disorders — the goal being to get you moving better, with less pain, and ideally without [surgery](/surgery) or long-term medication.
 
 Outside the United States, it's usually called physiotherapy. Same profession, different name.
 
@@ -45,7 +45,7 @@ The scope of physical therapy is broader than most people imagine. It's not just
 
 Every physical therapy episode begins with an evaluation. The therapist assesses your range of motion, strength, balance, coordination, posture, gait (how you walk), and functional abilities (can you climb stairs, get out of a chair, reach overhead). They also review your [medical history](/medical-history), imaging results, and — importantly — listen to your description of the problem.
 
-PTs are trained to perform differential diagnosis within their scope. That means they can identify what's causing your pain or movement limitation without relying solely on a physician's referral. If they find something outside their scope — a suspicious mass, signs of a fracture, red flags for serious pathology — they refer you to the appropriate medical professional.
+PTs are trained to perform differential diagnosis within their scope. That means they can identify what's causing your pain or movement limitation without relying solely on a physician's referral. If they find something outside their scope — a suspicious mass, signs of a fracture, red flags for serious [pathology](/pathology) — they refer you to the appropriate medical professional.
 
 ### Treatment Planning
 
@@ -59,7 +59,7 @@ Treatment plans typically combine several approaches:
 
 **Modalities** are supplementary treatments like electrical stimulation, ultrasound, ice, heat, and dry needling. These typically support the primary treatment rather than replacing it. A therapist might use electrical stimulation to reduce pain before a manual therapy session, or apply ice afterward to control swelling.
 
-**Patient education** is arguably the most important component. Teaching you why your shoulder hurts, what movements to avoid during healing, how to set up your workstation ergonomically, and what exercises to do at home — this knowledge prevents recurrence and empowers you to manage your condition independently.
+**Patient education** is arguably the most important component. [Teaching](/teaching) you why your shoulder hurts, what movements to avoid during healing, how to set up your workstation ergonomically, and what exercises to do at home — this knowledge prevents recurrence and empowers you to manage your condition independently.
 
 ## Specialties Within Physical Therapy
 
@@ -89,7 +89,7 @@ Focused on the aging population, geriatric PTs address balance and fall preventi
 
 ### The DPT Degree
 
-Since 2015, all accredited physical therapy programs in the U.S. award a Doctor of Physical Therapy (DPT) degree. The program takes three years and follows an undergraduate degree (typically in biology, kinesiology, or a related field). Total education: seven years after high school.
+Since 2015, all accredited physical therapy programs in the U.S. award a Doctor of Physical Therapy (DPT) degree. The program takes three years and follows an undergraduate degree (typically in [biology](/biology), kinesiology, or a related field). Total education: seven years after high school.
 
 DPT programs are demanding. Coursework covers anatomy, [physiology](/physiology), [biomechanics](/biomechanics), [neuroscience](/neuroscience), [pharmacology](/pharmacology), pathology, exercise science, and clinical decision-making. Students also complete multiple clinical rotations — typically 30 or more weeks of supervised patient care across different settings.
 

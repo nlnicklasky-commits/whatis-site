@@ -31,7 +31,7 @@ faq:
 
 # What Is Lawn Care?
 
-Lawn care is the ongoing maintenance of a grass lawn — mowing, watering, fertilizing, aerating, overseeding, and managing weeds and pests to keep the grass healthy, dense, and green. It is the most common form of yard maintenance in America, practiced by roughly 80 million households, and it is simultaneously one of the simplest and most obsessed-over activities in suburban life. Lawn care overlaps with [gardening](/gardening), [landscaping](/landscaping), and [botany](/botany) knowledge, particularly when considering plant biology and soil composition.
+Lawn care is the ongoing maintenance of a grass lawn — mowing, watering, fertilizing, aerating, overseeding, and managing weeds and pests to keep the grass healthy, dense, and green. It is the most common form of yard maintenance in America, practiced by roughly 80 million households, and it is simultaneously one of the simplest and most obsessed-over activities in suburban life. Lawn care overlaps with [gardening](/gardening), [landscaping](/landscaping), and [botany](/botany) knowledge, particularly when considering [plant biology](/plant-biology) and soil composition.
 
 ## The Basics That Actually Matter
 

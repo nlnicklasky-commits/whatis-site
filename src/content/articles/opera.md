@@ -45,7 +45,7 @@ Opera spread rapidly through Italy and then across Europe. Venice opened the fir
 
 **The libretto** is the text — the words the singers sing. A librettist (the person who writes the text) works with or before the composer to create the dramatic structure. Great librettos — like Lorenzo Da Ponte's work with Mozart or Arrigo Boito's collaboration with Verdi — are literary achievements in their own right.
 
-**Arias** are the set-piece songs where characters express their feelings. "Nessun dorma" from Puccini's *Turandot*, "La donna e mobile" from Verdi's *Rigoletto*, "Der Holle Rache" from Mozart's *The Magic Flute* — these are arias, and they're usually what people remember.
+**Arias** are the set-piece songs where characters express their feelings. "Nessun dorma" from Puccini's *Turandot*, "La donna e mobile" from Verdi's *Rigoletto*, "Der Holle Rache" from Mozart's *The Magic [Flute](/flute)* — these are arias, and they're usually what people remember.
 
 **Recitative** is the conversational singing between arias that advances the plot. It's less melodic and follows speech rhythms more closely. In some periods, recitative was accompanied only by a harpsichord; in later opera, the full orchestra accompanies everything.
 

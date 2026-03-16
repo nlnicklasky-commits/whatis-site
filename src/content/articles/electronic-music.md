@@ -65,7 +65,7 @@ The **Roland TR-808** drum machine (1980), the **Yamaha DX7** synthesizer (1983)
 
 ## Production and Tools
 
-Modern electronic [music production](/music-production) has been democratized by software. A laptop [running](/running) **Ableton Live**, **FL Studio**, **Logic Pro**, or **Bitwig Studio** provides capabilities that would have cost millions in studio equipment 30 years ago.
+Modern electronic [music production](/music-production) has been democratized by software. A laptop [running](/running) **Ableton Live**, **FL Studio**, **[Logic](/logic) Pro**, or **Bitwig Studio** provides capabilities that would have cost millions in studio equipment 30 years ago.
 
 **MIDI** (Musical Instrument Digital Interface), standardized in 1983, allows electronic instruments and computers to communicate. A MIDI keyboard doesn't produce sound itself — it sends note data to software instruments that can emulate any sound imaginable.
 

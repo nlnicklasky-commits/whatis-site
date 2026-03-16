@@ -67,11 +67,11 @@ Geologists classify rocks into three types based on how they form.
 
 **Metamorphic rocks** form when existing rocks are transformed by heat, pressure, or chemically active fluids without melting. Limestone becomes marble. Shale becomes slate, then phyllite, then schist, then gneiss with increasing temperature and pressure. Sandstone becomes quartzite. The minerals recrystallize and often align, creating the banded textures characteristic of many metamorphic rocks.
 
-These three types are connected by the rock cycle — a continuous process where rocks are created, destroyed, and recreated in different forms. Igneous rocks weather to sediments, which become sedimentary rocks, which can be metamorphosed, which can melt to form new igneous rocks. The cycle has been running for over 4 billion years.
+These three types are connected by the rock cycle — a continuous process where rocks are created, destroyed, and recreated in different forms. Igneous rocks weather to sediments, which become sedimentary rocks, which can be metamorphosed, which can melt to form new igneous rocks. The cycle has been [running](/running) for over 4 billion years.
 
 ## [Plate Tectonics](/plate-tectonics): The Grand Unifying Theory
 
-Plate tectonics is to geology what evolution is to [biology](/biology) — the overarching theory that explains nearly everything. And like evolution, it was fiercely resisted before the evidence became overwhelming.
+Plate [tectonics](/tectonics) is to geology what evolution is to [biology](/biology) — the overarching theory that explains nearly everything. And like evolution, it was fiercely resisted before the evidence became overwhelming.
 
 ### The Idea That Changed Everything
 
@@ -131,7 +131,7 @@ Ore deposits form through specific geological processes — magmatic segregation
 
 ### Water Resources
 
-Groundwater — water stored in porous and permeable rock formations called aquifers — supplies drinking water to about half the world's population. Geological mapping identifies aquifer locations, their capacity, and their vulnerability to contamination. [Hydrogeology](/hydrogeology) — the study of groundwater flow — combines geology, physics, and [chemistry](/chemistry) to manage this critical resource.
+Groundwater — water stored in porous and permeable rock formations called aquifers — supplies drinking water to about half the world's population. Geological mapping identifies aquifer locations, their capacity, and their vulnerability to contamination. [Hydrogeology](/hydrogeology) — the study of groundwater flow — combines geology, [physics](/physics), and [chemistry](/chemistry) to manage this critical resource.
 
 ## Historical Geology: Earth's Story
 
@@ -167,7 +167,7 @@ We've never directly sampled material from below about 12 kilometers depth, yet 
 
 ### Climate Geoscience
 
-Geology provides the long-term context for current climate change. Ice cores, ocean sediment records, and isotopic data from rocks reveal how Earth's climate has varied over hundreds of millions of years. This deep-time perspective shows that current CO2 levels (about 424 ppm) are the highest in at least 3 million years and possibly 15 million years. The rate of CO2 increase is unprecedented in the geological record — faster than any known natural process, including massive volcanic events.
+Geology provides the long-term context for current [climate change](/climate-change). Ice cores, ocean sediment records, and isotopic data from rocks reveal how Earth's climate has varied over hundreds of millions of years. This deep-time perspective shows that current CO2 levels (about 424 ppm) are the highest in at least 3 million years and possibly 15 million years. The rate of CO2 increase is unprecedented in the geological record — faster than any known natural process, including massive volcanic events.
 
 This geological context is critical. It shows that Earth's climate system is sensitive to CO2 changes, that warming triggers feedbacks (ice melting, permafrost thawing, ocean circulation changes) that can amplify the initial forcing, and that returning to stable conditions after a carbon perturbation takes thousands to tens of thousands of years.
 
@@ -175,7 +175,7 @@ This geological context is critical. It shows that Earth's climate system is sen
 
 The transition from fossil fuels to renewable energy requires enormous quantities of specific geological materials. A single wind turbine uses several tons of rare earth elements, copper, and specialized steel. Electric vehicle batteries need lithium, cobalt, nickel, and manganese. Solar panels require silicon, silver, and indium.
 
-Geologists are essential for finding and evaluating new deposits of these critical minerals, understanding the environmental impacts of extraction, and developing recycling and substitution strategies. The geological challenges of the energy transition are as significant as the [engineering](/engineering) ones.
+Geologists are essential for finding and evaluating new deposits of these critical minerals, understanding the environmental impacts of extraction, and developing [recycling](/recycling) and substitution strategies. The geological challenges of the energy transition are as significant as the [engineering](/engineering) ones.
 
 ## Why Geology Matters
 

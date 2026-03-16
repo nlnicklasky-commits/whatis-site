@@ -43,13 +43,13 @@ Cryptography is the science and practice of securing information by transforming
 
 ## From Ancient Secrets to Modern Math
 
-Cryptography has been around almost as long as writing itself. The Spartans used a device called a scytale---a leather strip wrapped around a wooden cylinder---to encrypt military messages around 700 BC. Julius Caesar shifted letters in the alphabet (A becomes D, B becomes E, and so on) to hide messages from enemies. This "Caesar cipher" is so simple a 10-year-old could crack it, but it worked fine when your adversaries were largely illiterate.
+Cryptography has been around almost as long as [writing](/writing) itself. The Spartans used a device called a scytale---a leather strip wrapped around a wooden cylinder---to encrypt military messages around 700 BC. Julius Caesar shifted letters in the alphabet (A becomes D, B becomes E, and so on) to hide messages from enemies. This "Caesar cipher" is so simple a 10-year-old could crack it, but it worked fine when your adversaries were largely illiterate.
 
 For most of history, cryptography was a craft practiced by spies, diplomats, and military commanders. Codes were invented, broken, and replaced in an endless cycle. The breaking of the German Enigma machine during [World War II](/world-war-ii)---largely by Alan Turing and his team at Bletchley Park---is perhaps the most famous example. Their work shortened the war by an estimated two years and saved millions of lives.
 
 But something changed in the 1970s. Cryptography transformed from a secretive [government](/government) art into an open mathematical science. Two developments drove this shift.
 
-First, the Data Encryption Standard (DES) was published in 1977 as a federal standard, making strong encryption publicly available for the first time. Before DES, the NSA considered cryptographic knowledge a national security matter. Publishing DES was controversial---some argued it was deliberately weakened. But it democratized encryption.
+First, the Data Encryption Standard (DES) was published in 1977 as a federal standard, making strong encryption publicly available for the first time. Before DES, the NSA considered cryptographic knowledge a national security matter. [Publishing](/publishing) DES was controversial---some argued it was deliberately weakened. But it democratized encryption.
 
 Second, Whitfield Diffie and Martin Hellman published "New Directions in Cryptography" in 1976, introducing the concept of public-key cryptography. This was genuinely revolutionary. For the first time, two people could communicate securely without ever having met to exchange a secret key. It changed everything.
 
@@ -63,7 +63,7 @@ The Advanced Encryption Standard (AES) is the workhorse of modern symmetric encr
 
 AES works through a series of substitution, transposition, and mixing operations applied repeatedly (10 rounds for 128-bit keys, 14 for 256-bit). Each round transforms the data in ways that are individually simple but collectively create an avalanche effect---changing a single bit of the input changes roughly half the output bits.
 
-AES-256 has 2^256 possible keys. To put that in perspective: if every atom in the observable universe (roughly 10^80) were a computer that could test a billion billion keys per second, and they'd been running since the Big Bang, they'd have tested approximately 10^134 keys---still unimaginably far from 2^256 (approximately 10^77). AES-256 is not getting brute-forced. Not by current technology. Not by any foreseeable technology.
+AES-256 has 2^256 possible keys. To put that in perspective: if every atom in the observable universe (roughly 10^80) were a computer that could test a billion billion keys per second, and they'd been [running](/running) since the Big Bang, they'd have tested approximately 10^134 keys---still unimaginably far from 2^256 (approximately 10^77). AES-256 is not getting brute-forced. Not by current technology. Not by any foreseeable technology.
 
 ### The Key Distribution Problem
 
@@ -135,7 +135,7 @@ The process: the signer hashes the message, then encrypts the hash with their pr
 
 Digital signatures are legally equivalent to handwritten signatures in most jurisdictions (under laws like the U.S. E-SIGN Act and the EU's eIDAS regulation). They're used in software distribution, financial transactions, [contract-law](/contract-law) documents, email authentication, and code signing.
 
-The security depends on the private key remaining private. If someone steals your private key, they can forge your signature. This is why key management---securely generating, storing, and eventually destroying cryptographic keys---is one of the hardest problems in practical cryptography.
+The security depends on the private key remaining private. If someone steals your private key, they can forge your signature. This is why key [management](/management)---securely generating, storing, and eventually destroying cryptographic keys---is one of the hardest problems in practical cryptography.
 
 ## TLS: Cryptography in Action
 
@@ -177,7 +177,7 @@ You use cryptography constantly without thinking about it.
 
 **Software updates**: Code signing uses digital signatures to verify that software updates come from the legitimate developer and haven't been tampered with. When your phone installs an OS update, it verifies the digital signature before applying it.
 
-**Email**: PGP (Pretty Good Privacy) and S/MIME provide email encryption and digital signatures, though adoption remains frustratingly low outside security-conscious communities.
+**Email**: PGP (Pretty Good Privacy) and S/[MIME](/mime) provide email encryption and digital signatures, though adoption remains frustratingly low outside security-conscious communities.
 
 **VPNs**: Virtual Private Networks create encrypted tunnels that protect your internet traffic from local eavesdroppers---useful on public Wi-Fi networks.
 
@@ -191,9 +191,9 @@ Governments periodically push for "backdoors"---ways for authorized parties to a
 
 The FBI's 2016 dispute with Apple over accessing a locked iPhone belonging to a mass shooter brought this tension into public view. Apple refused to create software that would bypass its own encryption, arguing it would create a dangerous tool that could be used against any iPhone. The FBI eventually accessed the phone through a third party.
 
-This debate continues. The EU's proposed "Chat Control" regulation, various national encryption policies, and ongoing discussions about "lawful access" to encrypted communications reflect the unresolved tension between security and surveillance.
+This [debate](/debate) continues. The EU's proposed "Chat Control" regulation, various national encryption policies, and ongoing discussions about "lawful access" to encrypted communications reflect the unresolved tension between security and surveillance.
 
-The cryptographic community's consensus is broadly clear: backdoors weaken security for everyone and should be avoided. But the policy debate is far from settled, and democratic societies continue wrestling with how to balance privacy, security, and law enforcement access.
+The cryptographic community's consensus is broadly clear: backdoors weaken security for everyone and should be avoided. But the policy debate is far from settled, and democratic societies continue [wrestling](/wrestling) with how to balance privacy, security, and law enforcement access.
 
 ## Common Cryptographic Mistakes
 

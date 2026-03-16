@@ -113,9 +113,9 @@ The equipment hierarchy for podcast recording, from bottom to top:
 
 **XLR microphone + audio interface** — professional quality. The Shure SM7B is the iconic podcasting mic (Joe Rogan uses one; so does seemingly every other podcaster). Requires an audio interface like the Focusrite Scarlett or RodeCaster Pro to connect to your computer. $200-700 for the setup.
 
-Recording software ranges from free (Audacity, GarageBand) to professional (Adobe Audition, Hindenburg Journalist, Logic Pro). For remote interviews, platforms like Riverside.fm, SquadCast, and Zencastr record each participant's audio locally, producing better quality than a Zoom recording.
+Recording software ranges from free (Audacity, GarageBand) to professional (Adobe Audition, Hindenburg Journalist, [Logic](/logic) Pro). For remote interviews, platforms like Riverside.fm, SquadCast, and Zencastr record each participant's audio locally, producing better quality than a Zoom recording.
 
-Room acoustics matter more than most beginners realize. A $500 microphone in an echoey room sounds worse than a $100 microphone in a treated space. Simple fixes — recording in a closet full of clothes, hanging blankets on walls, using a microphone isolation shield — make a noticeable difference.
+Room [acoustics](/acoustics) matter more than most beginners realize. A $500 microphone in an echoey room sounds worse than a $100 microphone in a treated space. Simple fixes — recording in a closet full of clothes, hanging blankets on walls, using a microphone isolation shield — make a noticeable difference.
 
 ### Editing and Post-Production
 
@@ -127,7 +127,7 @@ Raw recordings need work. At minimum, you'll want to:
 - Add intro/outro music and any [sound design](/sound-design) elements
 - Apply basic [audio-engineering](/audio-engineering)) processing: noise reduction, compression, EQ
 
-The amount of editing varies enormously by format. A casual conversation podcast might get a light cleanup in 30 minutes. A narrative production like *Radiolab* reportedly spends 40+ hours editing a single episode.
+The amount of [editing](/editing) varies enormously by format. A casual conversation podcast might get a light cleanup in 30 minutes. A narrative production like *Radiolab* reportedly spends 40+ hours editing a single episode.
 
 Automated tools are changing the editing field. Descript lets you edit audio by editing a transcript — delete words from the text and they vanish from the audio. Adobe Podcast's AI tools can enhance audio quality, remove background noise, and even clone voices for corrections. These tools aren't replacing skilled editors, but they're lowering the barrier for smaller productions.
 
@@ -153,7 +153,7 @@ Ad formats include:
 
 Mid-rolls command the highest CPMs because listeners are most engaged.
 
-Active ad insertion (DAI) technology has changed the game. Instead of baking ads permanently into episodes, DAI inserts ads at the time of download. This means a two-year-old episode can serve current ads, advertisers can target by geography or demographics, and hosts can update sponsorships without re-editing old episodes.
+Active ad insertion (DAI) technology has changed the game. Instead of [baking](/baking) ads permanently into episodes, DAI inserts ads at the time of download. This means a two-year-old episode can serve current ads, advertisers can target by [geography](/geography) or demographics, and hosts can update sponsorships without re-editing old episodes.
 
 ### Direct Monetization
 
@@ -167,7 +167,7 @@ Many podcasters bypass advertising entirely, generating revenue directly from th
 
 ### Podcast as Marketing Channel
 
-Many of the most strategically valuable podcasts don't monetize directly at all. Instead, they serve as marketing channels for other business activities. A consultant hosts a podcast to demonstrate expertise and attract clients. An [entrepreneur](/entrepreneurship) builds audience through a podcast to sell courses or software. A company produces a branded podcast as content marketing.
+Many of the most strategically valuable podcasts don't monetize directly at all. Instead, they serve as [marketing](/marketing) channels for other business activities. A consultant hosts a podcast to demonstrate expertise and attract clients. An [entrepreneur](/entrepreneurship) builds audience through a podcast to sell courses or software. A company produces a branded podcast as content marketing.
 
 This "podcast as business card" model is increasingly sophisticated. HubSpot, Shopify, Mailchimp, and many other B2B companies produce high-quality podcasts not for ad revenue but for brand building and lead generation.
 
@@ -199,7 +199,7 @@ Podcasting has reshaped media consumption patterns in ways that are easy to unde
 
 **Intimacy and trust.** The parasocial relationship between podcast host and listener is unusually strong. Listeners often feel they "know" their hosts after spending hundreds of hours hearing them talk. This creates trust levels that traditional media struggles to match — and that advertisers find extremely valuable.
 
-**Audio content is time-efficient.** You can listen while commuting, exercising, cooking, or doing housework. Podcasts fit into time that was previously dead time, competing not with other media but with silence. This is a unique competitive advantage.
+**Audio content is time-efficient.** You can listen while commuting, exercising, [cooking](/cooking), or doing housework. Podcasts fit into time that was previously dead time, competing not with other media but with silence. This is a unique competitive advantage.
 
 ## Where Podcasting Goes From Here
 

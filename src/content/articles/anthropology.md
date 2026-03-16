@@ -70,7 +70,7 @@ This branch asks the big evolutionary questions. How did humans evolve? Why do w
 
 Biological anthropologists study everything from 3.2-million-year-old Lucy (the famous *Australopithecus afarensis* skeleton found in Ethiopia in 1974) to modern human genetic variation across populations. Some subspecialties include:
 
-- **Paleoanthropology** — studying hominin fossils to trace human evolution
+- **[Paleoanthropology](/paleoanthropology)** — studying hominin fossils to trace [human evolution](/human-evolution)
 - **Primatology** — studying our closest living relatives (chimps, gorillas, bonobos) to understand shared behaviors
 - **[Forensic anthropology](/forensic-anthropology)** — identifying human remains for legal investigations (yes, *Bones* was loosely based on real work)
 - **Human biology** — examining how living humans adapt to different environments, altitudes, diets, and diseases
@@ -83,13 +83,13 @@ Language isn't just a communication tool — it shapes how people think, organiz
 
 And languages are dying at an alarming rate. Of the roughly 7,000 languages spoken today, linguists estimate that one goes extinct approximately every two weeks. By 2100, between 50% and 90% of today's languages could vanish. Linguistic anthropologists work to document endangered languages before they disappear — recording grammar, vocabulary, oral histories, and the cultural knowledge embedded within them.
 
-But the subfield isn't all doom and gloom. Researchers also study fascinating phenomena like code-switching (flipping between languages mid-conversation), the emergence of new languages (like Nicaraguan Sign Language, which developed spontaneously among deaf children in the 1980s), and how digital communication creates new linguistic patterns. Think about how texting has spawned its own grammar and vocabulary — that's exactly the kind of thing linguistic anthropologists track.
+But the subfield isn't all doom and gloom. Researchers also study fascinating phenomena like code-switching (flipping between languages mid-conversation), the emergence of new languages (like Nicaraguan [Sign Language](/sign-language), which developed spontaneously among deaf children in the 1980s), and how digital communication creates new linguistic patterns. Think about how texting has spawned its own grammar and vocabulary — that's exactly the kind of thing linguistic anthropologists track.
 
 ### Archaeology
 
-Archaeology is the study of past human life through material remains — artifacts, structures, landscapes, even ancient garbage dumps (middens, in the jargon). While it's sometimes treated as its own separate discipline, in the American tradition it sits firmly within anthropology.
+[Archaeology](/archaeology) is the study of past human life through material remains — artifacts, structures, landscapes, even ancient garbage dumps (middens, in the jargon). While it's sometimes treated as its own separate discipline, in the American tradition it sits firmly within anthropology.
 
-Archaeologists have pushed back the timeline of human activity far beyond what anyone expected a few decades ago. Gobekli Tepe in Turkey, dating to around 9600 BCE, revealed monumental stone architecture built by hunter-gatherers — people who were supposed to be too "simple" for such projects. The discovery forced a rethinking of how and why humans first settled down.
+Archaeologists have pushed back the timeline of human activity far beyond what anyone expected a few decades ago. Gobekli Tepe in Turkey, dating to around 9600 BCE, revealed monumental stone [architecture](/architecture) built by hunter-gatherers — people who were supposed to be too "simple" for such projects. The discovery forced a rethinking of how and why humans first settled down.
 
 Modern archaeology is intensely scientific. Ground-penetrating radar, LIDAR scanning (which can reveal ancient cities hidden under jungle canopy), DNA analysis of ancient remains, and chemical analysis of pottery residues have all become standard tools. In 2018, LIDAR surveys revealed that the ancient Maya civilization in Guatemala was far larger than anyone realized — with over 60,000 previously unknown structures hidden beneath forest cover.
 
@@ -107,7 +107,7 @@ It takes time. Most ethnographic fieldwork runs 12 to 18 months minimum. You hav
 
 ### Comparative Analysis
 
-Anthropology's secret weapon is comparison. Because the discipline studies humans across all times and places, anthropologists can test whether a pattern is universal or culturally specific. Does every society have some form of religion? (Basically, yes.) Does every culture use kinship to organize social relationships? (Yes, but the systems vary enormously.) Do all humans categorize colors the same way? (No — and the research on this is wild.)
+Anthropology's secret weapon is comparison. Because the discipline studies humans across all times and places, anthropologists can test whether a pattern is universal or culturally specific. Does every society have some form of [religion](/religion)? (Basically, yes.) Does every culture use kinship to organize social relationships? (Yes, but the systems vary enormously.) Do all humans categorize colors the same way? (No — and the research on this is wild.)
 
 The Human Relations Area Files (HRAF), a database at Yale University containing ethnographic information on over 400 cultural groups, makes this kind of cross-cultural comparison possible at scale. Researchers have used it to study everything from warfare patterns to child-rearing practices across hundreds of societies.
 
@@ -135,7 +135,7 @@ The San people of southern Africa, for instance, have one of the oldest continuo
 
 ### Humans Are Weirder Than You Think
 
-Cross-cultural research keeps revealing that things Westerners assume are "natural" or "universal" are actually culturally specific. A landmark 2010 paper by Joseph Henrich and colleagues introduced the acronym WEIRD — Western, Educated, Industrialized, Rich, Democratic — to describe the tiny slice of humanity that most psychology research draws from. They showed that WEIRD populations are statistical outliers on numerous psychological measures, including visual perception, concepts of fairness, and reasoning styles.
+Cross-cultural research keeps revealing that things Westerners assume are "natural" or "universal" are actually culturally specific. A landmark 2010 paper by Joseph Henrich and colleagues introduced the acronym WEIRD — Western, Educated, Industrialized, Rich, Democratic — to describe the tiny slice of humanity that most [psychology](/psychology) research draws from. They showed that WEIRD populations are statistical outliers on numerous psychological measures, including visual perception, concepts of fairness, and reasoning styles.
 
 This connects directly to research on [cognitive bias](/cognitive-bias) — many of the "universal" biases identified in psychology labs may actually be artifacts of studying WEIRD subjects almost exclusively.
 
@@ -143,7 +143,7 @@ This connects directly to research on [cognitive bias](/cognitive-bias) — many
 
 No honest overview of anthropology can skip the discipline's troubled relationship with colonialism, racism, and power. The field grew up alongside European imperialism, and early anthropologists sometimes served colonial administrations directly — mapping indigenous social structures so governments could control them more effectively.
 
-Some historical examples are genuinely disturbing. During World War II, the U.S. government recruited anthropologists for intelligence work, including Ruth Benedict's study of Japanese culture (*The Chrysanthemum and the Sword*, 1946), which was commissioned by the Office of War Information. During the Vietnam War, the Army's Project Camelot attempted to use social science research for counterinsurgency — a scandal that rocked the discipline.
+Some historical examples are genuinely disturbing. During [World War II](/world-war-ii), the U.S. [government](/government) recruited anthropologists for intelligence work, including Ruth Benedict's study of Japanese culture (*The Chrysanthemum and the Sword*, 1946), which was commissioned by the Office of War Information. During the Vietnam War, the Army's Project Camelot attempted to use social science research for counterinsurgency — a scandal that rocked the discipline.
 
 More recently, the Human Terrain System (2007-2014) embedded anthropologists with U.S. military units in Iraq and Afghanistan, provoking fierce debate within the profession. The American Anthropological Association formally opposed the program, arguing it violated ethical principles around informed consent and the protection of research subjects.
 
@@ -157,7 +157,7 @@ The stereotype of the anthropologist in a remote village hasn't been accurate fo
 
 ### Corporate and Tech
 
-Some of the biggest tech companies employ anthropologists. Intel's research division has had anthropologists on staff since the 1990s, studying how people actually use technology in their homes — research that shaped product design decisions. Microsoft, Google, and Meta all employ ethnographic researchers. The field of user experience (UX) research draws heavily on anthropological methods.
+Some of the biggest tech companies employ anthropologists. Intel's research division has had anthropologists on staff since the 1990s, studying how people actually use technology in their homes — research that shaped [product design](/product-design) decisions. Microsoft, Google, and Meta all employ ethnographic researchers. The field of user experience (UX) research draws heavily on anthropological methods.
 
 Genevieve Bell, trained as an anthropologist at Stanford, became one of Intel's most influential researchers and later a Senior Fellow — one of the company's highest technical positions. Her work studying technology use across Asia directly influenced Intel's product strategy.
 
@@ -173,7 +173,7 @@ Forensic anthropologists identify human remains in criminal cases, mass disaster
 
 ### Development and Policy
 
-Anthropologists work with organizations like the World Bank, USAID, and various UN agencies to ensure that development projects actually fit the communities they're supposed to help. Too many well-intentioned projects have failed because planners didn't understand local social dynamics, land tenure systems, or gender roles. Anthropological research helps prevent expensive mistakes.
+Anthropologists work with organizations like the World Bank, USAID, and various UN agencies to ensure that development projects actually fit the communities they're supposed to help. Too many well-intentioned projects have failed because planners didn't understand local [social dynamics](/social-dynamics), land tenure systems, or gender roles. Anthropological research helps prevent expensive mistakes.
 
 ### Museums and Cultural Heritage
 
@@ -185,7 +185,7 @@ Anthropology rests on several intellectual commitments that distinguish it from 
 
 **Cultural relativism** — the idea that you should understand a culture's practices within its own context before judging them — remains foundational. This doesn't mean "anything goes" or that anthropologists can't have moral opinions. It means your first job is to understand *why* people do what they do, on their own terms. Judgment, if it comes, should follow understanding.
 
-**Holism** — the commitment to studying all aspects of human life as interconnected — separates anthropology from more specialized fields. An anthropologist studying food wouldn't just look at nutrition or economics or ritual or ecology in isolation. They'd look at how all those dimensions connect. How does what you eat reflect your social status, your religious beliefs, your relationship with the land, and your family structure — all at once?
+**Holism** — the commitment to studying all aspects of human life as interconnected — separates anthropology from more specialized fields. An anthropologist studying food wouldn't just look at [nutrition](/nutrition) or [economics](/economics) or ritual or ecology in isolation. They'd look at how all those dimensions connect. How does what you eat reflect your social status, your religious beliefs, your relationship with the land, and your family structure — all at once?
 
 This connects to the long tradition of philosophical inquiry in [aesthetics](/aesthetics) — anthropologists have contributed significantly to understanding how different cultures define beauty, art, and creative expression.
 
@@ -195,11 +195,11 @@ The ancient Greek and Roman thinkers who influenced [stoicism](/stoicism) were a
 
 ## Current Debates and Directions
 
-Anthropology in 2026 is wrestling with several big questions.
+Anthropology in 2026 is [wrestling](/wrestling) with several big questions.
 
-**Digital ethnography** — How do you do fieldwork when communities exist online? Anthropologists now study Discord servers, TikTok subcultures, cryptocurrency communities, and virtual worlds. The methods are adapting, but the core question remains the same: What are these people doing, and why does it make sense to them?
+**Digital ethnography** — How do you do fieldwork when communities exist online? Anthropologists now study Discord servers, TikTok subcultures, [cryptocurrency](/cryptocurrency) communities, and virtual worlds. The methods are adapting, but the core question remains the same: What are these people doing, and why does it make sense to them?
 
-**Climate and environment** — Environmental anthropology examines how different communities understand, experience, and respond to environmental change. Indigenous ecological knowledge — the accumulated environmental understanding of peoples who have managed specific ecosystems for centuries or millennia — is increasingly recognized as valuable for conservation science. Some indigenous fire management practices, for example, are now being adopted by Western land managers after decades of catastrophic wildfire seasons proved that suppression-only strategies don't work.
+**Climate and environment** — Environmental anthropology examines how different communities understand, experience, and respond to environmental change. Indigenous ecological knowledge — the accumulated environmental understanding of peoples who have managed specific ecosystems for centuries or millennia — is increasingly recognized as valuable for conservation science. Some indigenous fire [management](/management) practices, for example, are now being adopted by Western land managers after decades of catastrophic wildfire seasons proved that suppression-only strategies don't work.
 
 **Multispecies anthropology** — A growing number of anthropologists study the relationships between humans and other species — not just as resources or symbols, but as beings with their own social lives that intersect with ours. How do dairy farmers relate to their cows? How do mushroom foragers understand the fungi they seek? It sounds quirky, but it's producing genuinely new insights about how humans fit into broader ecological systems.
 

@@ -57,7 +57,7 @@ Earth's crust is the thin outer shell we live on. Continental crust averages abo
 
 The eight most abundant elements in the crust, by mass, are: oxygen (46.1%), silicon (28.2%), aluminum (8.2%), iron (5.6%), calcium (4.1%), sodium (2.4%), magnesium (2.3%), and potassium (2.1%). Together, they make up over 98% of the crust. Everything else — the copper in your wiring, the gold in your jewelry, the rare earths in your phone — comes from that remaining 2%.
 
-This is why mining is hard. The elements we want most are present in tiny concentrations, and finding places where geological processes have concentrated them is the whole game of economic geology.
+This is why mining is hard. The elements we want most are present in tiny concentrations, and finding places where geological processes have concentrated them is the whole game of economic [geology](/geology).
 
 ### The Mantle: Hot Rock in Slow Motion
 
@@ -77,7 +77,7 @@ Nothing stays put forever. Elements cycle through Earth's systems in processes t
 
 ### The Carbon Cycle
 
-Carbon is everywhere — in the atmosphere as CO2, dissolved in oceans, locked in carbonate rocks like limestone, buried as fossil fuels, and cycling through living organisms. The geochemical carbon cycle operates on two timescales:
+Carbon is everywhere — in the atmosphere as CO2, dissolved in oceans, locked in carbonate rocks like limestone, buried as fossil fuels, and [cycling](/cycling) through living organisms. The geochemical carbon cycle operates on two timescales:
 
 The **short-term cycle** (years to centuries) involves photosynthesis, respiration, decomposition, and ocean-atmosphere exchange. Plants absorb CO2, animals eat plants, decomposition releases CO2. Oceans absorb and release CO2 based on temperature and chemistry.
 
@@ -178,10 +178,10 @@ Understanding biogeochemical cycles is critical for [agriculture](/agriculture) 
 
 ## Why Geochemistry Matters Now
 
-We're living through a period where geochemical literacy is more important than ever. Climate change is fundamentally a geochemical problem — we've disrupted the carbon cycle by extracting and burning fossil carbon at unprecedented rates. Designing effective climate solutions requires understanding how carbon moves through atmosphere, ocean, biosphere, and lithosphere.
+We're living through a period where geochemical literacy is more important than ever. [Climate change](/climate-change) is fundamentally a geochemical problem — we've disrupted the carbon cycle by extracting and burning fossil carbon at unprecedented rates. Designing effective climate solutions requires understanding how carbon moves through atmosphere, ocean, biosphere, and lithosphere.
 
 Critical mineral supply for [renewable energy](/renewable-energy) technology — lithium for batteries, rare earth elements for wind turbines and electric motors, cobalt for energy storage — depends on geochemical knowledge of where and how these elements concentrate in the crust.
 
 Water security in a warming world requires understanding the geochemistry of aquifers, contamination sources, and water treatment processes.
 
-Geochemistry sits at the junction of [chemistry](/chemistry), geology, biology, and environmental science. It's the discipline that connects what happens in a mineral crystal to what happens in the atmosphere, that links a volcanic eruption to ocean chemistry to climate to the evolution of life. That connecting role — bridging scales from atoms to planets, timescales from seconds to billions of years — makes it one of the most quietly important sciences on the planet.
+Geochemistry sits at the junction of [chemistry](/chemistry), geology, [biology](/biology), and environmental science. It's the discipline that connects what happens in a mineral crystal to what happens in the atmosphere, that links a volcanic eruption to ocean chemistry to climate to the evolution of life. That connecting role — bridging scales from atoms to planets, timescales from seconds to billions of years — makes it one of the most quietly important sciences on the planet.

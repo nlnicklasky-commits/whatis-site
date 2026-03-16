@@ -31,7 +31,7 @@ faq:
 
 # What Is Modern Art?
 
-Modern art is the broad category of art produced between roughly the 1860s and the 1970s — a century-long period when artists systematically dismantled the conventions that had governed [Western art](/western-art) for 500 years. Instead of painting realistic scenes with proper perspective and naturalistic color, modern artists experimented with abstraction, distortion, new materials, and radically different ideas about what art could be.
+Modern art is the broad category of art produced between roughly the 1860s and the 1970s — a century-long period when artists systematically dismantled the conventions that had governed [Western art](/western-art) for 500 years. Instead of [painting](/painting) realistic scenes with proper perspective and naturalistic color, modern artists experimented with abstraction, distortion, new materials, and radically different ideas about what art could be.
 
 The result was the most creative, contentious, and genuinely revolutionary period in [art history](/art-history). It also produced the most common complaint in museum galleries: "My kid could paint that." (Your kid didn't, though. And the reason this art matters is about more than what it looks like.)
 
@@ -47,7 +47,7 @@ Cezanne, Van Gogh, Gauguin, and Seurat took Impressionism's freedom and pushed i
 
 ### Cubism (1907-1920s)
 
-Picasso and Braque shattered single-point perspective. A Cubist painting shows multiple viewpoints simultaneously — a face seen from the front and side at once, a guitar from above and below. Cubism declared that painting didn't have to show how things look; it could show how things *are*, from every angle at once.
+Picasso and Braque shattered single-point perspective. A Cubist painting shows multiple viewpoints simultaneously — a face seen from the front and side at once, [a guitar](/guitar) from above and below. Cubism declared that painting didn't have to show how things look; it could show how things *are*, from every angle at once.
 
 ### Expressionism (1905-1930s)
 
@@ -55,7 +55,7 @@ Emotion over observation. Artists like Munch, Kirchner, and Kandinsky distorted 
 
 ### Surrealism (1920s-1940s)
 
-Drawing on Freudian [psychology](/psychology), Dali, Magritte, and Ernst depicted dreamlike scenes where logic dissolves. Melting clocks, impossible architectures, and uncanny juxtapositions explored the unconscious mind. Surrealism's influence extends well beyond painting — into film, [literature](/literature), advertising, and pop culture.
+[Drawing](/drawing) on Freudian [psychology](/psychology), Dali, Magritte, and Ernst depicted dreamlike scenes where logic dissolves. Melting clocks, impossible architectures, and uncanny juxtapositions explored the unconscious mind. Surrealism's influence extends well beyond painting — into film, [literature](/literature), advertising, and pop culture.
 
 ### Abstract Expressionism (1940s-1960s)
 
@@ -63,7 +63,7 @@ The first major American art movement. Pollock dripped and poured paint. Rothko 
 
 ### Pop Art (1950s-1970s)
 
-Warhol, Lichtenstein, and Oldenburg brought commercial and [popular culture](/popular-culture) into fine art — Campbell's soup cans, comic strips, oversized everyday objects. Pop Art blurred the line between high art and mass culture, questioning what art is and who gets to decide.
+Warhol, Lichtenstein, and Oldenburg brought commercial and [popular culture](/popular-culture) into [fine art](/fine-art) — Campbell's soup cans, comic strips, oversized everyday objects. [Pop Art](/pop-art) blurred the line between high art and mass culture, questioning what art is and who gets to decide.
 
 ## Why It Happened
 
@@ -73,7 +73,7 @@ Several forces drove modern art's break from tradition:
 
 **Industrialization and urbanization.** The modern world — cities, machines, speed, mass production — demanded new forms of expression. Traditional art felt inadequate to the pace and chaos of modern life.
 
-**Scientific discoveries.** Einstein's relativity, Freud's unconscious, [quantum physics](/quantum-physics) — all challenged the idea of a single, stable, knowable reality. Art reflected this by fragmenting perspectives and exploring hidden dimensions of experience.
+**Scientific discoveries.** Einstein's [relativity](/relativity), Freud's unconscious, [quantum physics](/quantum-physics) — all challenged the idea of a single, stable, knowable reality. Art reflected this by fragmenting perspectives and exploring hidden dimensions of experience.
 
 **Two World Wars.** The catastrophic violence of 1914-1918 and 1939-1945 made traditional beauty feel obscene. How do you paint a pretty field after the trenches? Dada, Surrealism, and Expressionism were partly responses to the horror of industrial warfare.
 

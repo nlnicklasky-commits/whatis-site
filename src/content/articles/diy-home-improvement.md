@@ -51,7 +51,7 @@ Some home improvements are straightforward enough that paying a professional is 
 
 **Painting** is the classic DIY project. The technique isn't complicated — prep surfaces, tape edges, cut in with a brush, roll the large areas. The key mistakes are rushing prep work (not filling holes, not sanding, not cleaning surfaces) and buying cheap paint. Good paint covers better, lasts longer, and actually saves money over cheap paint that needs three coats instead of two.
 
-**Basic plumbing fixes** — replacing faucets, fixing running toilets, unclogging drains, replacing showerheads — require minimal tools and usually take less than an hour. A running toilet costs $0.50-$5.00 per day in wasted water. Fixing it costs about $15 in parts and 20 minutes with a YouTube tutorial.
+**Basic plumbing fixes** — replacing faucets, fixing [running](/running) toilets, unclogging drains, replacing showerheads — require minimal tools and usually take less than an hour. A running toilet costs $0.50-$5.00 per day in wasted water. Fixing it costs about $15 in parts and 20 minutes with a YouTube tutorial.
 
 **[Decorating](/decorating) and cosmetic updates** — installing new hardware (cabinet pulls, doorknobs), swapping light fixtures, adding shelving, laying peel-and-stick tile, hanging wallpaper or installing accent walls — offer high visual impact with low skill requirements.
 

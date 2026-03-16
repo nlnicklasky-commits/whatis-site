@@ -37,13 +37,13 @@ faq:
 
 # What Is Mathematical Finance?
 
-Mathematical finance is the application of mathematical methods — particularly probability theory, stochastic calculus, statistics, and optimization — to problems in [finance](/finance). It provides the theoretical foundations for pricing financial instruments, managing risk, constructing portfolios, and understanding how financial markets behave.
+Mathematical finance is the application of mathematical methods — particularly [probability theory](/probability-theory), stochastic calculus, [statistics](/statistics), and [optimization](/optimization) — to problems in [finance](/finance). It provides the theoretical foundations for pricing financial instruments, managing risk, constructing portfolios, and understanding how financial markets behave.
 
-Here's the scale we're talking about: the global derivatives market has a notional value exceeding $600 trillion. Every one of those contracts is priced using mathematical models. Every bank's risk management system runs on mathematics. Every pension fund's asset allocation strategy uses optimization theory. Mathematical finance isn't an academic curiosity — it's the operating system of the global financial system.
+Here's the scale we're talking about: the global derivatives market has a notional value exceeding $600 trillion. Every one of those contracts is priced using mathematical models. Every bank's [risk management](/risk-management) system runs on [mathematics](/mathematics). Every pension fund's asset allocation strategy uses optimization theory. Mathematical finance isn't an academic curiosity — it's the operating system of the global financial system.
 
 ## Where It All Started: The Black-Scholes Revolution
 
-The modern field of mathematical finance effectively began with a single paper. In 1973, Fischer Black and Myron Scholes published "The Pricing of Options and Corporate Liabilities," providing the first rigorous mathematical framework for pricing options. Robert Merton independently developed a similar approach and extended it further. Scholes and Merton received the Nobel Prize in Economics in 1997 (Black had died in 1995).
+The modern field of mathematical finance effectively began with a single paper. In 1973, Fischer Black and Myron Scholes published "The Pricing of Options and Corporate Liabilities," providing the first rigorous mathematical framework for pricing options. Robert Merton independently developed a similar approach and extended it further. Scholes and Merton received the Nobel Prize in [Economics](/economics) in 1997 (Black had died in 1995).
 
 ### What Problem They Solved
 
@@ -71,7 +71,7 @@ These limitations are well understood, and much of modern mathematical finance a
 
 ## Core Mathematical Tools
 
-Mathematical finance uses a specific toolkit that distinguishes it from other branches of applied mathematics.
+Mathematical finance uses a specific toolkit that distinguishes it from other branches of [applied mathematics](/applied-mathematics).
 
 ### Stochastic Processes
 
@@ -150,15 +150,15 @@ The mathematics involves optimization — finding the portfolio weights that min
 
 In practice, Markowitz optimization is sensitive to input estimates — small changes in expected returns or correlations produce large changes in optimal weights. Strong optimization, shrinkage estimators, and Bayesian approaches address this sensitivity.
 
-Modern portfolio management extends these ideas with factor models (explaining returns through exposure to systematic factors like market risk, value, size, and momentum), Black-Litterman models (combining market equilibrium with investor views), and active programming for multi-period optimization.
+Modern [portfolio management](/portfolio-management) extends these ideas with factor models (explaining returns through exposure to systematic factors like market risk, value, size, and momentum), Black-Litterman models (combining market equilibrium with investor views), and active programming for multi-period optimization.
 
-This connects to [financial planning](/financial-planning), [financial modeling](/financial-modeling), and the practical world of [finance](/finance) and investment management.
+This connects to [financial planning](/financial-planning), [financial modeling](/financial-modeling), and the practical world of [finance](/finance) and [investment management](/investment-management).
 
 ### Algorithmic and High-Frequency Trading
 
 Quantitative trading strategies use mathematical models to identify and exploit market inefficiencies. Statistical arbitrage, pairs trading, market-making, and momentum strategies all rely on mathematical analysis of price patterns, correlations, and market microstructure.
 
-High-frequency trading operates on millisecond timescales, where the mathematics of order book dynamics, optimal execution, and market impact becomes critical. The field draws on [data science](/data-science), [machine learning](/machine-learning), and signal processing as much as traditional mathematical finance.
+High-frequency trading operates on millisecond timescales, where the mathematics of order book dynamics, optimal execution, and market impact becomes critical. The field draws on [data science](/data-science), [machine learning](/machine-learning), and [signal processing](/signal-processing) as much as traditional mathematical finance.
 
 ## The 2008 Financial Crisis: When Models Failed
 
@@ -202,18 +202,18 @@ Develops trading strategies based on statistical analysis of market data. Combin
 
 ### Quantitative Developer
 
-Implements mathematical models in production software. Requires strong programming skills (C++, Python, R) alongside mathematical understanding. The intersection of mathematical finance and software engineering.
+Implements mathematical models in production software. Requires strong programming skills (C++, Python, R) alongside mathematical understanding. The intersection of mathematical finance and [software engineering](/software-engineering).
 
 ### Skills Required
 
 Beyond advanced mathematics (stochastic calculus, PDEs, probability theory, optimization), quants need:
 
 - **Programming**: C++ for high-performance applications, Python for research and prototyping, R for statistical analysis
-- **Data skills**: Handling large financial datasets, time series analysis, database management
+- **Data skills**: Handling large financial datasets, time series analysis, database [management](/management)
 - **Financial knowledge**: Understanding markets, instruments, and regulations
 - **Communication**: Explaining complex models to traders, risk managers, and regulators
 
-Most quants have graduate degrees (master's or PhD) in mathematics, physics, engineering, [computer science](/computer-science), or quantitative finance. Programs specifically designed for quant careers — Master of Financial Engineering (MFE) or Master of Mathematical Finance (MMF) — are offered by major universities.
+Most quants have graduate degrees (master's or PhD) in mathematics, physics, [engineering](/engineering), [computer science](/computer-science), or quantitative finance. Programs specifically designed for quant careers — Master of Financial Engineering (MFE) or Master of Mathematical Finance (MMF) — are offered by major universities.
 
 ## Current Frontiers
 
@@ -223,7 +223,7 @@ Most quants have graduate degrees (master's or PhD) in mathematics, physics, eng
 
 ### Decentralized Finance (DeFi)
 
-Blockchain-based financial protocols create new mathematical challenges — automated market makers, liquidity pool dynamics, flash loan attacks, and tokenized derivatives all require quantitative analysis. The mathematics of DeFi is still being developed.
+[Blockchain](/blockchain)-based financial protocols create new mathematical challenges — automated market makers, liquidity pool dynamics, flash loan attacks, and tokenized derivatives all require [quantitative analysis](/quantitative-analysis). The mathematics of DeFi is still being developed.
 
 ### Climate Finance
 
@@ -237,7 +237,7 @@ Recent research has shown that volatility behaves like a "rough" process — mor
 
 Mathematical finance transformed how the financial world operates. Before Black-Scholes, derivatives pricing was art. After, it became science — imperfect, model-dependent, sometimes dangerously wrong, but fundamentally quantitative.
 
-The field sits at the intersection of deep mathematics (stochastic calculus, PDEs, probability theory), practical [finance](/finance) (markets, instruments, regulations), and computational science (simulation, numerical methods, data analysis). It demands technical skill that few other applied mathematics fields match.
+The field sits at the intersection of deep mathematics (stochastic calculus, PDEs, probability theory), practical [finance](/finance) (markets, instruments, regulations), and computational science (simulation, numerical methods, [data analysis](/data-analysis)). It demands technical skill that few other applied mathematics fields match.
 
 If you're drawn to mathematics that has immediate, large-scale real-world impact — where your equations literally move billions of dollars and your model errors can crash economies — mathematical finance is uniquely compelling. The mathematics is beautiful, the applications are consequential, and the problems are genuinely hard.
 

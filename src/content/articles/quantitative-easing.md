@@ -137,7 +137,7 @@ This distributional impact has political consequences. The perception—justifie
 
 ### Asset Bubbles
 
-By pushing investors into riskier assets and keeping interest rates artificially low for years, QE may have inflated asset bubbles—particularly in real estate and speculative investments. Home prices in many markets reached record highs during extended QE periods. The cryptocurrency boom of 2020-2021 coincided with unprecedented monetary expansion. Whether these constitute bubbles or reflect genuine valuation changes is debated, but the concern is real.
+By pushing investors into riskier assets and keeping interest rates artificially low for years, QE may have inflated asset bubbles—particularly in real estate and speculative investments. Home prices in many markets reached record highs during extended QE periods. The [cryptocurrency](/cryptocurrency) boom of 2020-2021 coincided with unprecedented monetary expansion. Whether these constitute bubbles or reflect genuine valuation changes is debated, but the concern is real.
 
 ### Moral Hazard
 

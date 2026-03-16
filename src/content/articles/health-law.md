@@ -83,7 +83,7 @@ The tension between individual rights and collective welfare is baked into publi
 
 The 2010 Affordable Care Act (ACA, also known as "Obamacare") was the largest change to American health law in decades. Key provisions included:
 
-- **Insurance marketplaces** where individuals could compare and purchase plans
+- **[Insurance](/insurance) marketplaces** where individuals could compare and purchase plans
 - **Medicaid expansion** (adopted by 40 states as of 2024) extending coverage to adults earning up to 138% of the federal poverty level
 - **Pre-existing condition protections** prohibiting insurers from denying coverage or charging more based on health status
 - **The individual mandate** (effectively eliminated in 2017 by reducing the penalty to $0) requiring most Americans to carry insurance

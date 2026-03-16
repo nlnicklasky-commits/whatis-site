@@ -73,7 +73,7 @@ In the 20th century, Picasso, Miro, Chagall, Jasper Johns, and Robert Rauschenbe
 
 Adding color to lithography requires a separate stone or plate for each color. The artist creates the image in layers — one stone for blue, one for red, one for yellow, and so on. Each color is printed sequentially on the same sheet of paper, with careful registration (alignment) to ensure the colors line up properly.
 
-Chromolithography, the mass production of color lithographic prints, boomed in the mid-19th century. By the 1870s, chromolithographic prints were everywhere — advertisements, book illustrations, decorative prints for home display, trade cards, and labels. The quality ranged from gorgeous to garish, and the technique was eventually supplanted by photographic reproduction methods.
+Chromolithography, the mass production of color lithographic prints, boomed in the mid-19th century. By the 1870s, chromolithographic prints were everywhere — advertisements, book illustrations, decorative prints for home display, [trade](/trade) cards, and labels. The quality ranged from gorgeous to garish, and the technique was eventually supplanted by photographic reproduction methods.
 
 ## Offset Lithography
 

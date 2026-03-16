@@ -35,17 +35,17 @@ faq:
 
 # What Is Information [Architecture](/architecture)?
 
-Information architecture (IA) is the practice of organizing, structuring, and labeling content in a way that helps people find information and complete tasks. It determines how content is grouped, what things are called, how navigation works, and how different pieces of content relate to each other. You encounter information architecture every time you use a website menu, browse categories in an app, or search for something in a digital product.
+Information architecture (IA) is the practice of organizing, structuring, and labeling content in a way that helps people find information and complete tasks. It determines how content is grouped, what things are called, how [navigation](/navigation) works, and how different pieces of content relate to each other. You encounter information architecture every time you use a website menu, browse categories in an app, or search for something in a digital product.
 
 ## The Problem IA Solves
 
-Imagine walking into a grocery store where nothing is organized. Cereal is next to laundry detergent. Bread is in the frozen food aisle. There are no signs. Products are labeled in a language you don't speak. You need milk. Good luck.
+Imagine [walking](/walking) into a grocery store where nothing is organized. Cereal is next to laundry detergent. Bread is in the frozen food aisle. There are no signs. Products are labeled in a language you don't speak. You need milk. Good luck.
 
 That's what a website or app without good information architecture feels like. The content might all be there, but if you can't find it — or if finding it takes ten frustrating clicks through confusing menus — it might as well not exist.
 
 This isn't a theoretical problem. Research from the Nielsen Norman Group consistently shows that users spend less than 15 seconds on a page before deciding whether to stay or leave. If they can't quickly locate what they're looking for, they leave. They don't read your carefully crafted content. They don't buy your product. They don't use your service. They just leave.
 
-The cost is real. Forrester Research estimated that a well-designed user experience — of which IA is a critical component — can increase conversion rates by up to 400%. Enterprise organizations waste billions annually because employees can't find information in their own internal systems. The U.S. government's 2023 digital services report found that poor information architecture was the number one complaint about government websites.
+The cost is real. Forrester Research estimated that a well-designed user experience — of which IA is a critical component — can increase conversion rates by up to 400%. Enterprise organizations waste billions annually because employees can't find information in their own internal systems. The U.S. [government](/government)'s 2023 digital services report found that poor information architecture was the number one complaint about government websites.
 
 Information architecture prevents these failures. It's the structural planning that makes content findable, understandable, and useful.
 
@@ -67,7 +67,7 @@ Who is using this system? What do they know? What vocabulary do they use? What a
 
 These aren't questions you can answer by guessing. User research — interviews, surveys, observation, analytics — reveals how actual people think about your content. And the findings are frequently surprising.
 
-A university might organize its website by academic departments (College of Arts and Sciences, College of Engineering, School of Business) because that's how the university thinks about itself. But prospective students might think in terms of career outcomes ("I want to be a nurse" or "I want to work in [game development](/game-development)"), not administrative structures. Building IA around the organization's internal structure rather than users' mental models is one of the most common IA mistakes — and one of the most damaging.
+A university might organize its website by academic departments (College of Arts and Sciences, College of [Engineering](/engineering), School of Business) because that's how the university thinks about itself. But prospective students might think in terms of career outcomes ("I want to be a nurse" or "I want to work in [game development](/game-development)"), not administrative structures. Building IA around the organization's internal structure rather than users' mental models is one of the most common IA mistakes — and one of the most damaging.
 
 ### Content
 
@@ -91,7 +91,7 @@ How do you group content? There are several approaches, and most real systems us
 
 **Exact organization schemes** divide content by objective, mutually exclusive criteria. Alphabetical order. Chronological order. Geographic region. These are unambiguous — you always know where something belongs — but they only work when users know exactly what they're looking for.
 
-**Ambiguous organization schemes** group content by subjective criteria. By topic. By audience. By task. These match how people actually think about information, but they create classification challenges — does an article about pediatric nutrition belong under "Children's Health," "Nutrition," or "Parenting"?
+**Ambiguous organization schemes** group content by subjective criteria. By topic. By audience. By task. These match how people actually think about information, but they create classification challenges — does an article about pediatric [nutrition](/nutrition) belong under "Children's Health," "Nutrition," or "[Parenting](/parenting)"?
 
 **Hybrid schemes** combine approaches. Amazon organizes products by department (ambiguous topic organization) but lets you sort within departments by price (exact) or customer rating (exact). Wikipedia uses alphabetical listing within topical categories. Hybrids use each scheme's strengths while compensating for weaknesses.
 
@@ -119,7 +119,7 @@ Navigation is how users move through information. It includes:
 
 **Utility navigation**: Secondary navigation for tasks that don't fit the main content structure. Login. Search. Language selection. Contact. Cart. These are typically placed in headers or footers, separate from content navigation.
 
-**Breadcrumbs**: A trail showing the user's path from the homepage to their current location. "Home > Products > Electronics > Headphones." Breadcrumbs provide context and allow quick navigation up the hierarchy. They're particularly valuable on large sites with deep structures.
+**Breadcrumbs**: A trail showing the user's path from the homepage to their current location. "Home > Products > [Electronics](/electronics) > Headphones." Breadcrumbs provide context and allow quick navigation up the hierarchy. They're particularly valuable on large sites with deep structures.
 
 ### Search Systems
 
@@ -195,13 +195,13 @@ Information architecture doesn't work in isolation. It connects to several neigh
 
 **[Human-computer interaction](/human-computer-interaction)** provides the research foundation for understanding how people interact with information systems. HCI research on cognitive load, scanning patterns, and information seeking behavior directly informs IA practice.
 
-**Search engine optimization** depends on good IA. Search engines evaluate site structure, internal linking patterns, and content organization when determining rankings. Clear hierarchies, descriptive URLs, and logical linking support both user navigation and search engine crawling.
+**Search engine [optimization](/optimization)** depends on good IA. Search engines evaluate site structure, internal linking patterns, and content organization when determining rankings. Clear hierarchies, descriptive URLs, and logical linking support both user navigation and search engine crawling.
 
 ## IA for Complex Systems
 
 ### Intranets
 
-Enterprise intranets — internal websites serving employees — present unique IA challenges, often requiring dedicated [information systems](/information-systems) expertise. Content comes from dozens of departments with different goals and vocabularies. Users range from executives to warehouse workers. Information needs span HR policies, technical documentation, [project management](/project-management), company news, and social networking.
+Enterprise intranets — internal websites serving employees — present unique IA challenges, often requiring dedicated [information systems](/information-systems) expertise. Content comes from dozens of departments with different goals and vocabularies. Users range from executives to warehouse workers. Information needs span HR policies, technical documentation, [project management](/project-management), company news, and social [networking](/networking).
 
 The best enterprise IAs typically use a task-based primary structure ("I need to..." rather than "Department of...") supplemented by powerful search, well-maintained taxonomies, and personalization based on role and location.
 
@@ -215,7 +215,7 @@ Cross-channel IA requires consistent core structures (content models, taxonomies
 
 The field is evolving in several directions.
 
-**AI-assisted organization**: [Machine learning](/machine-learning) can analyze usage patterns, cluster content automatically, and suggest structural improvements. Auto-tagging and content classification reduce manual taxonomy management burden.
+**AI-assisted organization**: [Machine learning](/machine-learning) can analyze usage patterns, cluster content automatically, and suggest structural improvements. Auto-tagging and content classification reduce manual [taxonomy](/taxonomy) [management](/management) burden.
 
 **Conversational interfaces**: Voice assistants and chatbots don't use traditional navigation. Users ask questions or state needs in natural language. IA for conversational interfaces focuses on intent recognition, dialogue flow, and content retrieval rather than menus and hierarchies.
 

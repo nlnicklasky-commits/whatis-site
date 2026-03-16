@@ -35,7 +35,7 @@ faq:
 
 # What Is Unemployment Economics?
 
-Unemployment economics is the study of why workers who want to be employed cannot find jobs, how joblessness is measured, what causes it, and what policy tools can reduce it. It sits at the intersection of [macroeconomics](/macroeconomics) and labor economics and directly influences [monetary policy](/monetary-policy), fiscal policy, and social welfare programs in every developed country.
+Unemployment [economics](/economics) is the study of why workers who want to be employed cannot find jobs, how joblessness is measured, what causes it, and what policy tools can reduce it. It sits at the intersection of [macroeconomics](/macroeconomics) and labor economics and directly influences [monetary policy](/monetary-policy), fiscal policy, and social welfare programs in every developed country.
 
 ## Defining and Measuring Unemployment
 
@@ -43,7 +43,7 @@ The concept seems simple: people who don't have jobs. But measuring it is surpri
 
 ### The Official Definition
 
-In the United States, the Bureau of Labor Statistics (BLS) conducts the Current Population Survey every month, interviewing about 60,000 households. To be counted as unemployed, a person must meet three criteria simultaneously:
+In the United States, the Bureau of Labor [Statistics](/statistics) (BLS) conducts the Current Population Survey every month, interviewing about 60,000 households. To be counted as unemployed, a person must meet three criteria simultaneously:
 
 1. They are not currently working (not even one hour per week for pay)
 2. They are available to start working
@@ -81,9 +81,9 @@ The internet has probably reduced frictional unemployment by making job search f
 
 This is the painful kind. Structural unemployment occurs when workers' skills don't match available jobs, or when jobs exist in places where workers don't live. A coal miner in West Virginia who's been mining for 30 years can't easily become a software developer in Seattle, even if there are thousands of open tech positions.
 
-Structural unemployment increases during periods of rapid technological change. The mechanization of [agriculture](/agriculture) in the early 20th century displaced millions of farm workers. The decline of manufacturing in the Rust Belt left communities with workers whose skills had no local demand. The automation of routine cognitive tasks — data entry, [bookkeeping](/bookkeeping), basic accounting — is displacing office workers today.
+Structural unemployment increases during periods of rapid technological change. The mechanization of [agriculture](/agriculture) in the early 20th century displaced millions of farm workers. The decline of manufacturing in the Rust Belt left communities with workers whose skills had no local demand. The automation of routine cognitive tasks — data entry, [bookkeeping](/bookkeeping), basic [accounting](/accounting) — is displacing office workers today.
 
-The politically uncomfortable truth about structural unemployment is that the standard solutions (retraining programs, relocation assistance) have a mixed track record. Government retraining programs show modest results at best. Many displaced workers are in their 40s and 50s, with families, mortgages, and community ties that make relocation impractical. The pain is real and often long-lasting.
+The politically uncomfortable truth about structural unemployment is that the standard solutions (retraining programs, relocation assistance) have a mixed track record. [Government](/government) retraining programs show modest results at best. Many displaced workers are in their 40s and 50s, with families, mortgages, and community ties that make relocation impractical. The pain is real and often long-lasting.
 
 ### Cyclical Unemployment
 
@@ -91,7 +91,7 @@ This is unemployment caused by recessions — the business cycle. When economic 
 
 The Great Recession provides a clear example. U.S. unemployment rose from 4.7% in November 2007 to 10.0% in October 2009. That 5.3 percentage point increase represented about 8 million people losing their jobs. It took until 2017 — nearly a decade — for unemployment to return to pre-recession levels.
 
-Cyclical unemployment is the type that [monetary and fiscal policy](/capitalism) most directly targets. The Federal Reserve cuts interest rates to stimulate borrowing and spending. Congress can pass stimulus packages, extend unemployment benefits, or fund infrastructure projects to create jobs. Whether these interventions work well, work poorly, or create new problems is the subject of enormous economic debate.
+Cyclical unemployment is the type that [monetary and fiscal policy](/capitalism) most directly targets. The Federal Reserve cuts interest rates to stimulate borrowing and spending. Congress can pass stimulus packages, extend unemployment benefits, or fund infrastructure projects to create jobs. Whether these interventions work well, work poorly, or create new problems is the subject of enormous economic [debate](/debate).
 
 ### Seasonal Unemployment
 
@@ -125,7 +125,7 @@ In 1958, economist A.W. Phillips observed an inverse relationship between unempl
 
 The Phillips Curve became a tool for policymakers who thought they could "choose" their preferred combination of unemployment and inflation. Want lower unemployment? Accept higher inflation. Want price stability? Accept higher unemployment.
 
-Milton Friedman and Edmund Phelps independently argued in the late 1960s that this trade-off was temporary. In the long run, they said, unemployment settles at its "natural rate" regardless of inflation. Attempts to push unemployment below the natural rate with monetary stimulus would simply accelerate inflation without permanently reducing joblessness.
+Milton Friedman and Edmund Phelps independently argued in the late 1960s that this [trade](/trade)-off was temporary. In the long run, they said, unemployment settles at its "natural rate" regardless of inflation. Attempts to push unemployment below the natural rate with monetary stimulus would simply accelerate inflation without permanently reducing joblessness.
 
 The stagflation of the 1970s seemed to prove Friedman right — the U.S. had both high unemployment (above 7%) and high inflation (above 10%) simultaneously, a combination the simple Phillips Curve said shouldn't exist.
 

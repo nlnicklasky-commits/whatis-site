@@ -31,7 +31,7 @@ faq:
 
 # What Is Fairy Tales?
 
-A fairy tale is a short narrative featuring magical elements — enchanted objects, [supernatural](/supernatural-folklore) beings, impossible transformations — usually set in a vague "once upon a time" past. Despite the name, most fairy tales don't actually contain fairies. What they do contain are witches, talking wolves, cursed princes, clever peasants, and moral lessons wrapped in stories strange enough to stick in your memory for decades. Fairy tales have roots in ancient [folklore](/folklore) and share elements with broader [mythology](/mythology) traditions across cultures, making them a rich form of [storytelling](/storytelling) that has influenced [fantasy](/fantasy-literature) literature for centuries.
+A fairy tale is a short narrative featuring magical elements — enchanted objects, [supernatural](/supernatural-folklore) beings, impossible transformations — usually set in a vague "once upon a time" past. Despite the name, most fairy tales don't actually contain fairies. What they do contain are witches, talking wolves, cursed princes, clever peasants, and moral lessons wrapped in stories strange enough to stick in your memory for decades. Fairy tales have roots in ancient [folklore](/folklore) and share elements with broader [mythology](/mythology) traditions across cultures, making them a rich form of [storytelling](/storytelling) that has influenced [fantasy](/fantasy-[literature](/literature)) literature for centuries.
 
 ## Older Than You Think
 

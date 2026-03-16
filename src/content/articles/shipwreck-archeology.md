@@ -125,7 +125,7 @@ Perhaps the most exciting development is the sheer volume of ocean floor being m
 
 Shipwrecks aren't just exciting stories about treasure and disaster. They fill gaps in the historical record that land-based sources simply can't.
 
-Written records from the ancient and medieval world are patchy, biased toward elites, and often destroyed. But a ship's cargo is objective evidence of what was actually being traded, consumed, and valued. The Uluburun wreck told us more about Bronze Age trade than decades of studying Egyptian temple inscriptions.
+Written records from the ancient and medieval world are patchy, biased toward elites, and often destroyed. But a ship's cargo is objective evidence of what was actually being traded, consumed, and valued. The Uluburun wreck told us more about Bronze Age [trade](/trade) than decades of studying Egyptian temple inscriptions.
 
 Wrecks also capture ordinary life. The Mary Rose contained the personal possessions of 500 Tudor sailors — their combs, dice, musical instruments, and the remains of their last meals. That's an intimacy with the past that official records never provide.
 
@@ -135,6 +135,6 @@ And there's the environmental angle. Wrecks that have sat undisturbed for decade
 
 The next frontier is deep water. Most explored wrecks sit in relatively shallow coastal waters — the accessible zone. But the deep ocean, below 200 meters, holds potentially millions of undiscovered sites. As deep-sea technology becomes cheaper and more capable, those sites will become reachable.
 
-Climate change is also exposing wrecks. Rising water temperatures, acidification, and changing currents are eroding sites that were stable for centuries. In the Arctic, melting ice is uncovering ships from failed polar expeditions — the HMS Erebus and HMS Terror, lost during the Franklin Expedition in 1845-1848, were finally found in 2014 and 2016 in Canadian Arctic waters.
+[Climate change](/climate-change) is also exposing wrecks. Rising water temperatures, acidification, and changing currents are eroding sites that were stable for centuries. In the Arctic, melting ice is uncovering ships from failed polar expeditions — the HMS Erebus and HMS Terror, lost during the Franklin Expedition in 1845-1848, were finally found in 2014 and 2016 in Canadian Arctic waters.
 
 The race, frankly, is between discovery and destruction. And that's what makes this field urgent.

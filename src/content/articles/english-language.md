@@ -71,7 +71,7 @@ English is not one language. American English and British English differ in spel
 
 Within countries, variation is enormous. A speaker from Glasgow, a speaker from London, and a speaker from rural Devon speak significantly different versions of English. American dialects — Southern, Midwestern, New England, African American Vernacular English (AAVE) — differ in grammar, vocabulary, and pronunciation.
 
-**Indian English**, spoken by an estimated 125 million people, has its own distinct vocabulary, syntax, and pronunciation patterns. **Nigerian English**, **Singaporean English (Singlish)**, **Australian English**, and **South African English** are all legitimate varieties with their own internal consistency and rules.
+**Indian English**, spoken by an estimated 125 million people, has its own distinct vocabulary, [syntax](/syntax), and pronunciation patterns. **Nigerian English**, **Singaporean English (Singlish)**, **Australian English**, and **South African English** are all legitimate varieties with their own internal consistency and rules.
 
 The idea that any one variety is "correct" English is linguistically unsupportable. Standard American English and Standard British English have social prestige — they're used in formal education, media, and business — but they're not inherently superior to any other variety. They're just the dialects that happened to be spoken by people in power.
 

@@ -45,7 +45,7 @@ Here's a common misconception: that ore is basically rock with little nuggets of
 
 You can't just heat iron oxide and get iron. You need a [chemical](/chemistry) reaction that rips the oxygen atoms away from the iron atoms. That's what a reducing agent does. In iron smelting, the reducing agent is carbon monoxide (produced from coke, which is baked coal). The carbon monoxide "wants" those oxygen atoms more than the iron does, so it grabs them, forming carbon dioxide and leaving behind metallic iron.
 
-This principle — using one substance's chemical affinity to steal atoms from another — is the fundamental idea behind all smelting. The specific reducing agents, temperatures, and techniques vary by metal, but the core logic stays the same.
+This principle — using one substance's chemical affinity to steal atoms from another — is the fundamental idea behind all smelting. The specific reducing agents, temperatures, and techniques vary by metal, but the core [logic](/logic) stays the same.
 
 ## A Quick History of Humans Figuring This Out
 
@@ -61,7 +61,7 @@ The earliest confirmed smelting sites date to around 5000 BCE in the Balkans and
 
 The real breakthrough came when someone figured out that adding tin to copper produced bronze — an alloy dramatically harder and more durable than either metal alone. This required smelting two different metals and combining them, which is a non-trivial achievement for people without [chemistry](/chemistry) textbooks.
 
-Bronze changed everything. Better weapons, better tools, better agricultural implements. Entire trade networks sprang up because tin deposits are relatively rare — the Mediterranean world imported tin from as far away as Cornwall, England, and possibly even Afghanistan.
+Bronze changed everything. Better weapons, better tools, better agricultural implements. Entire [trade](/trade) networks sprang up because tin deposits are relatively rare — the Mediterranean world imported tin from as far away as Cornwall, England, and possibly even Afghanistan.
 
 ### The Iron Age (1200 BCE onward)
 
@@ -109,13 +109,13 @@ Copper smelting follows a different path because copper ores are typically sulfi
 
 Aluminum smelting doesn't use heat-based reduction at all. Instead, it relies on the Hall-Heroult process, developed independently by Charles Hall in the United States and Paul Heroult in France in 1886. Both were 22 years old at the time — one of those strange historical coincidences.
 
-Aluminum ore (bauxite) is first refined into alumina (aluminum oxide, Al2O3) through the Bayer process. The alumina is then dissolved in molten cryolite (a fluoride mineral) at about 960 degrees Celsius, and a massive electrical current — typically 150,000 to 400,000 amperes — is passed through the solution. The electricity breaks the aluminum-oxygen bonds, and liquid aluminum collects at the bottom of the electrolytic cell.
+Aluminum ore (bauxite) is first refined into alumina (aluminum oxide, Al2O3) through the Bayer process. The alumina is then dissolved in molten cryolite (a fluoride mineral) at about 960 degrees Celsius, and a massive electrical current — typically 150,000 to 400,000 amperes — is passed through the solution. The [electricity](/electricity) breaks the aluminum-oxygen bonds, and liquid aluminum collects at the bottom of the electrolytic cell.
 
 This process consumes staggering amounts of electricity. Producing one ton of aluminum requires about 13,000 to 16,000 kilowatt-hours — enough to power an average American home for about a year and a half. This is why aluminum smelters are almost always located near cheap electricity sources, particularly hydroelectric dams. Iceland, with its abundant geothermal and hydro power, smelts far more aluminum than its tiny population would suggest.
 
 ## The Chemistry Behind the Curtain
 
-If you want to understand smelting at a deeper level, you need to think about thermodynamics — specifically, the Ellingham diagram.
+If you want to understand smelting at a deeper level, you need to think about [thermodynamics](/thermodynamics) — specifically, the Ellingham diagram.
 
 ### The Ellingham Diagram
 
@@ -177,7 +177,7 @@ In 2023, about 130 million tons of DRI were produced worldwide — roughly 7% of
 
 Some figures to put smelting's scale in perspective:
 
-- Global crude steel production in 2023: approximately 1.89 billion metric tons
+- Global crude [steel production](/steel-production) in 2023: approximately 1.89 billion metric tons
 - Global primary aluminum production: about 70 million metric tons
 - Global refined copper production: roughly 26 million metric tons
 - Energy consumed by the global aluminum industry: about 3.5% of all electricity generated worldwide

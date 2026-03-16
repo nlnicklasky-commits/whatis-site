@@ -33,7 +33,7 @@ faq:
 
 Scientific illustration is the practice of creating accurate, detailed visual representations of scientific subjects — plants, animals, geological formations, anatomical structures, molecular models, surgical procedures, and anything else where precise visual communication matters more than artistic interpretation.
 
-It sits at the intersection of art and science, demanding both technical skill with drawing media and deep understanding of the subjects being depicted. A scientific illustrator drawing a bird skull needs to understand avian anatomy well enough to know which details matter and which are incidental. Get the angle of the beak wrong by a few degrees, and a taxonomist might misidentify the species.
+It sits at the intersection of art and science, demanding both technical skill with [drawing](/drawing) media and deep understanding of the subjects being depicted. A scientific illustrator drawing a bird skull needs to understand avian [anatomy](/anatomy) well enough to know which details matter and which are incidental. Get the angle of the beak wrong by a few degrees, and a taxonomist might misidentify the species.
 
 ## Why Not Just Use Cameras?
 
@@ -73,7 +73,7 @@ But here's the thing — digital hasn't replaced traditional skills. You still n
 
 Scientific illustration branches into several distinct fields.
 
-**Medical illustration** is the largest and best-paid specialization. Medical illustrators create images for textbooks, surgical planning, patient [education](/education), legal cases, and pharmaceutical marketing. The field requires extensive study of anatomy, [physiology](/physiology), and pathology. There are only four accredited master's programs in medical illustration in North America, making it a competitive niche.
+**Medical illustration** is the largest and best-paid specialization. Medical illustrators create images for textbooks, surgical planning, patient [education](/education), legal cases, and pharmaceutical [marketing](/marketing). The field requires extensive study of anatomy, [physiology](/physiology), and [pathology](/pathology). There are only four accredited master's programs in medical illustration in North America, making it a competitive niche.
 
 **[Natural history](/natural-history) illustration** covers plants, animals, fossils, and ecosystems. Museum exhibits, field guides, and academic publications are the primary clients. Pay is typically lower than medical illustration, but the work is beloved by those who do it.
 

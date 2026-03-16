@@ -35,7 +35,7 @@ faq:
 
 # What Is Desalination?
 
-Desalination is the process of removing dissolved salts and other minerals from seawater or brackish water to produce fresh water suitable for human consumption, [irrigation](/irrigation), or industrial use. With 97.5% of Earth's water being saltwater and freshwater supplies under increasing pressure from population growth, [agriculture](/agriculture), and climate change, desalination has grown from a niche technology into a critical water infrastructure serving over 300 million people in more than 150 countries.
+Desalination is the process of removing dissolved salts and other minerals from seawater or brackish water to produce fresh water suitable for human consumption, [irrigation](/irrigation), or industrial use. With 97.5% of Earth's water being saltwater and freshwater supplies under increasing pressure from population growth, [agriculture](/agriculture), and [climate change](/climate-change), desalination has grown from a niche technology into a critical water infrastructure serving over 300 million people in more than 150 countries.
 
 ## The Water Problem Desalination Solves
 
@@ -84,7 +84,7 @@ MSF is the oldest modern desalination technology, developed in the 1960s. It's l
 
 ### Why RO Is Winning
 
-The economics are clear. RO consumes roughly 3-4 kWh/m³. Thermal methods consume 10-16 kWh/m³ equivalent. As energy costs rise and membrane technology improves, RO's advantage grows.
+The [economics](/economics) are clear. RO consumes roughly 3-4 kWh/m³. Thermal methods consume 10-16 kWh/m³ equivalent. As energy costs rise and membrane technology improves, RO's advantage grows.
 
 Additionally, RO scales more flexibly. You can build small RO plants for a village or massive ones for a city. Thermal plants generally only make economic sense at very large scales where waste heat is available.
 
@@ -92,13 +92,13 @@ The one area where thermal still has advantages: extremely salty feed water (lik
 
 ## The Global Desalination Field
 
-As of 2025, there are approximately 21,000 desalination plants worldwide with a combined capacity of over 130 million cubic meters per day. That's enough to fill about 52,000 Olympic swimming pools—daily.
+As of 2025, there are approximately 21,000 desalination plants worldwide with a combined capacity of over 130 million cubic meters per day. That's enough to fill about 52,000 Olympic [swimming](/swimming) pools—daily.
 
 **Middle East and North Africa** dominate, with about 48% of global capacity. Saudi Arabia, the UAE, Kuwait, and Israel are the heaviest users. Israel's story is particularly remarkable—the country went from severe water scarcity to a water surplus in about a decade by building five large RO plants along its Mediterranean coast. Israel now desalinates about 585 million cubic meters annually, covering approximately 80% of domestic water needs.
 
 **The United States** has the largest single RO plant in the Western Hemisphere—the Carlsbad Desalination Plant in San Diego County, producing 190,000 cubic meters per day. It cost $1 billion to build and supplies about 10% of San Diego County's water.
 
-**Australia** built six large desalination plants during the Millennium Drought (2001-2009), including the Sydney Desalination Plant and the Victorian Desalination Plant. These serve as drought insurance—they can ramp up during dry periods and scale down when reservoir levels are healthy.
+**Australia** built six large desalination plants during the Millennium Drought (2001-2009), including the Sydney Desalination Plant and the Victorian Desalination Plant. These serve as drought [insurance](/insurance)—they can ramp up during dry periods and scale down when reservoir levels are healthy.
 
 **China** and **India** are rapidly expanding desalination capacity to meet industrial and municipal demand in water-stressed coastal regions.
 
@@ -143,7 +143,7 @@ Emerging alternatives to ocean discharge include:
 
 ### Marine Life Impacts
 
-Intake systems can trap and kill marine organisms. Open ocean intakes are the worst—they can entrain fish larvae, plankton, and small organisms. Subsurface intakes (drawing water from below the seabed) are much gentler but not always feasible depending on local geology.
+Intake systems can trap and kill marine organisms. Open ocean intakes are the worst—they can entrain fish larvae, plankton, and small organisms. Subsurface intakes ([drawing](/drawing) water from below the seabed) are much gentler but not always feasible depending on local [geology](/geology).
 
 Modern plants increasingly use wedge-wire screens with small openings (1-2mm) and low intake velocities to minimize marine life impacts. Some plants use subsurface galleries that filter water through natural sand—essentially copying nature's filtration.
 
@@ -175,7 +175,7 @@ Water scarcity creates geopolitical tension. Rivers crossing national boundaries
 
 Israel's massive desalination investment has reduced its dependence on the Sea of Galilee and the Jordan River system, easing one dimension of the Arab-Israeli water dispute. Saudi Arabia's desalination capacity makes it independent of any transboundary water source—a strategic advantage in a region where water rights are fiercely contested.
 
-But desalination creates new dependencies. Countries relying heavily on desalination need reliable energy supplies to keep the plants running. A disruption to energy supply becomes a disruption to water supply—a vulnerability that military planners take seriously.
+But desalination creates new dependencies. Countries relying heavily on desalination need reliable energy supplies to keep the plants [running](/running). A disruption to energy supply becomes a disruption to water supply—a vulnerability that military planners take seriously.
 
 ## Where Desalination Is Heading
 
@@ -187,12 +187,12 @@ Global desalination capacity is projected to grow at 7-9% annually through 2030.
 
 **Smaller, modular systems** are making desalination accessible beyond large coastal cities. Container-sized RO units can provide freshwater for communities of 10,000-50,000 people, making the technology viable for small islands, disaster relief, and rural coastal communities.
 
-**Hybrid systems** combining desalination with water recycling, rainwater harvesting, and aquifer recharge are becoming the standard approach for water-scarce regions. Desalination isn't a standalone solution—it's one component of an integrated water strategy.
+**Hybrid systems** combining desalination with water [recycling](/recycling), rainwater harvesting, and aquifer recharge are becoming the standard approach for water-scarce regions. Desalination isn't a standalone solution—it's one component of an integrated water strategy.
 
 ## Key Takeaways
 
 Desalination converts saltwater into freshwater, primarily through reverse osmosis (pushing water through membranes under high pressure) or thermal distillation (boiling and condensing). It currently serves over 300 million people worldwide and is growing rapidly as freshwater scarcity intensifies.
 
-The technology works. The water quality is excellent. The costs have dropped dramatically and continue falling. But desalination carries real tradeoffs: high energy consumption, brine disposal challenges, and marine ecosystem impacts that require careful management.
+The technology works. The water quality is excellent. The costs have dropped dramatically and continue falling. But desalination carries real tradeoffs: high energy consumption, brine disposal challenges, and marine ecosystem impacts that require careful [management](/management).
 
 For coastal communities facing water scarcity, desalination is increasingly not a question of whether but when. The ocean contains more water than humanity could ever use—the engineering challenge is accessing it sustainably, affordably, and at the scale the world needs. That challenge is being met, one membrane at a time.

@@ -41,9 +41,9 @@ Environmental chemistry is the study of chemical processes occurring in the envi
 
 Every environmental problem is, at some level, a chemistry problem.
 
-Climate change? It's about the radiative properties of CO2 and methane molecules — how they absorb infrared radiation and trap heat in the atmosphere. The greenhouse effect is fundamentally a chemistry and physics phenomenon.
+[Climate change](/climate-change)? It's about the radiative properties of CO2 and methane molecules — how they absorb infrared radiation and trap heat in the atmosphere. The greenhouse effect is fundamentally a chemistry and physics phenomenon.
 
-Water pollution? It's about chemical contaminants — lead leaching from old pipes, nitrates running off agricultural fields, pharmaceuticals passing through wastewater treatment plants unremoved.
+Water pollution? It's about chemical contaminants — lead leaching from old pipes, nitrates [running](/running) off agricultural fields, pharmaceuticals passing through wastewater treatment plants unremoved.
 
 Ozone depletion? It's about chlorofluorocarbon molecules releasing chlorine atoms in the stratosphere, each one catalytically destroying thousands of ozone molecules before being deactivated.
 
@@ -61,7 +61,7 @@ Atmospheric chemistry involves photochemical reactions driven by sunlight. When 
 
 The stratospheric ozone layer — about 15-35 km above Earth's surface — protects life from harmful UV radiation. The story of how CFCs destroyed this layer, and how the 1987 Montreal Protocol successfully addressed the problem, remains one of environmental chemistry's greatest successes. CFC concentrations in the atmosphere have been declining since the mid-1990s, and the ozone layer is slowly recovering. It's projected to return to pre-1980 levels by the 2060s.
 
-Atmospheric chemistry also governs acid rain formation. Sulfur dioxide from coal burning and nitrogen oxides from vehicle emissions react with water vapor to form sulfuric and nitric acids, which fall as acidic precipitation. The Acid Rain Program, established under the 1990 Clean Air Act amendments, used a cap-and-trade system to reduce SO2 emissions by about 90% — another environmental chemistry success story.
+Atmospheric chemistry also governs acid rain formation. Sulfur dioxide from coal burning and nitrogen oxides from vehicle emissions react with water vapor to form sulfuric and nitric acids, which fall as acidic precipitation. The Acid Rain Program, established under the 1990 Clean Air Act amendments, used a cap-and-[trade](/trade) system to reduce SO2 emissions by about 90% — another environmental chemistry success story.
 
 ### The Hydrosphere
 
@@ -125,7 +125,7 @@ You can't manage what you can't measure. Environmental chemistry depends on incr
 
 **Remote sensing** using satellites and aircraft-mounted spectrometers can measure atmospheric gas concentrations over large areas. NASA's OCO-2 satellite maps CO2 concentrations globally with remarkable spatial resolution.
 
-The sensitivity of modern instruments is almost absurd. We can now detect some contaminants at parts-per-quadrillion levels — roughly equivalent to detecting a single drop of water in an Olympic swimming pool, then multiplying that swimming pool by a thousand.
+The sensitivity of modern instruments is almost absurd. We can now detect some contaminants at parts-per-quadrillion levels — roughly equivalent to detecting a single drop of water in an Olympic [swimming](/swimming) pool, then multiplying that swimming pool by a thousand.
 
 ## Biogeochemical Cycles
 
@@ -141,7 +141,7 @@ Understanding the carbon cycle's chemistry is essential for climate modeling. Ho
 
 Nitrogen is essential for all life (it's in every amino acid and nucleic acid base), but it must be "fixed" — converted from atmospheric N2 to biologically available forms like ammonia (NH3) or nitrate (NO3-).
 
-The Haber-Bosch process, invented in 1909, synthetically fixes atmospheric nitrogen into ammonia for fertilizer production. This single chemical process may be the most consequential invention of the 20th century — it enabled food production to keep pace with population growth. About half the nitrogen atoms in your body were fixed by the Haber-Bosch process.
+The Haber-Bosch process, invented in 1909, synthetically fixes atmospheric nitrogen into ammonia for fertilizer production. This single chemical process may be the most consequential [invention](/invention) of the 20th century — it enabled food production to keep pace with population growth. About half the nitrogen atoms in your body were fixed by the Haber-Bosch process.
 
 But excess reactive nitrogen creates serious environmental problems. Nitrate runoff from farms causes eutrophication. Nitrous oxide (N2O) is a potent greenhouse gas. Ammonia emissions contribute to fine particulate matter. The global nitrogen cycle is now more disrupted than the carbon cycle, relative to pre-industrial baselines.
 
@@ -175,7 +175,7 @@ In 2014, Flint, Michigan switched its water source from Lake Huron (treated by t
 
 This was fundamentally a chemistry failure. Lead pipes aren't inherently dangerous if a protective mineral scale forms inside them — orthophosphate treatment creates a barrier between the pipe and water. Without this treatment, the chemistry of the corrosive river water attacked the pipes directly.
 
-Environmental chemists were among the first to identify the problem. Virginia Tech researcher Marc Edwards measured lead levels in Flint homes and demonstrated the scope of contamination, eventually forcing government action.
+Environmental chemists were among the first to identify the problem. Virginia Tech researcher Marc Edwards measured lead levels in Flint homes and demonstrated the scope of contamination, eventually forcing [government](/government) action.
 
 ### PFAS: The Forever Chemical Challenge
 
@@ -203,13 +203,13 @@ Environmental chemists work in diverse settings:
 - **Academia** conducts research and trains the next generation
 - **Nonprofits** like the Environmental Defense Fund employ chemists to inform policy advocacy
 
-A bachelor's degree in chemistry or environmental science can qualify you for entry-level analytical or field positions. Research and leadership roles typically require a master's or PhD. Salaries range from about $45,000 for entry-level positions to $100,000+ for experienced specialists.
+A bachelor's degree in chemistry or environmental science can qualify you for entry-level analytical or field positions. Research and [leadership](/leadership) roles typically require a master's or PhD. Salaries range from about $45,000 for entry-level positions to $100,000+ for experienced specialists.
 
 The field is growing. Environmental regulations continue to tighten globally, emerging contaminants (PFAS, microplastics, pharmaceuticals) require new analytical methods and treatment technologies, and the chemistry of climate change mitigation creates demand for environmental chemists across sectors.
 
 ## Connections to Other Fields
 
-Environmental chemistry intersects with [biochemistry](/biochemistry) through toxicology and bioaccumulation studies. It connects to [agriculture](/agriculture) through soil chemistry and pesticide fate. [Alternative energy](/alternative-energy) technologies — batteries, solar cells, hydrogen production — all have environmental chemistry implications. [Climatology](/climatology) depends on atmospheric chemistry models. Even [data science](/data-science) plays a role, as environmental monitoring generates massive datasets requiring sophisticated analysis.
+Environmental chemistry intersects with [biochemistry](/biochemistry) through [toxicology](/toxicology) and bioaccumulation studies. It connects to [agriculture](/agriculture) through soil chemistry and pesticide fate. [Alternative energy](/alternative-energy) technologies — batteries, solar cells, hydrogen production — all have environmental chemistry implications. [Climatology](/climatology) depends on atmospheric chemistry models. Even [data science](/data-science) plays a role, as environmental monitoring generates massive datasets requiring sophisticated analysis.
 
 ## Key Takeaways
 

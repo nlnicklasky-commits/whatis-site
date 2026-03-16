@@ -39,7 +39,7 @@ faq:
 
 # What Is Anatomy?
 
-Anatomy is the scientific study of the structure of living organisms — their parts, how those parts are arranged, and how they relate to each other. In practice, most people mean human anatomy, though the field covers everything from earthworms to elephants. It's one of the oldest branches of [biology](/biology), with roots stretching back more than 2,000 years.
+Anatomy is the scientific study of the structure of living organisms — their parts, how those parts are arranged, and how they relate to each other. In practice, most people mean [human anatomy](/human-anatomy), though the field covers everything from earthworms to elephants. It's one of the oldest branches of [biology](/biology), with roots stretching back more than 2,000 years.
 
 ## The Body Mapped, Not Explained
 
@@ -47,7 +47,7 @@ Here's a distinction that trips people up: anatomy and [physiology](/physiology)
 
 When you look at a diagram of the heart and learn that it has four chambers — two atria on top, two ventricles on the bottom, separated by the septum — that's anatomy. When you learn that the left ventricle pumps oxygenated blood out to the body through the aorta at a pressure of about 120 mmHg — that's physiology.
 
-The two fields depend on each other. You can't understand how a structure works without first knowing what it looks like, and structure often hints at function. The lungs have roughly 480 million tiny air sacs called alveoli, giving them a total surface area of about 70 square meters (roughly half a tennis court). That's anatomy. But that number immediately tells you something about function — a massive surface area exists because the lungs need maximum exposure to air for gas exchange. Structure and function are joined at the hip.
+The two fields depend on each other. You can't understand how a structure works without first knowing what it looks like, and structure often hints at function. The lungs have roughly 480 million tiny air sacs called alveoli, giving them a total surface area of about 70 square meters (roughly half a [tennis](/tennis) court). That's anatomy. But that number immediately tells you something about function — a massive surface area exists because the lungs need maximum exposure to air for gas exchange. Structure and function are joined at the hip.
 
 ## Two Ways to Look: Gross vs. Microscopic
 
@@ -67,9 +67,9 @@ Neither approach is better. They're just different lenses on the same body.
 
 Below the threshold of the naked eye, you enter microscopic anatomy. This has two main subdivisions:
 
-**Histology** is the study of tissues. The human body has four primary tissue types — epithelial (covering surfaces), connective (supporting and binding), muscle (contracting), and nervous (transmitting signals). Histologists prepare thin slices of tissue, stain them with dyes, and examine them under a microscope. A single organ might contain all four tissue types arranged in precise layers, and disease often shows up as visible changes in tissue architecture — which is exactly what a pathologist looks for when examining a biopsy.
+**[Histology](/histology)** is the study of tissues. The human body has four primary tissue types — epithelial (covering surfaces), connective (supporting and binding), muscle (contracting), and nervous (transmitting signals). Histologists prepare thin slices of tissue, stain them with dyes, and examine them under a microscope. A single organ might contain all four tissue types arranged in precise layers, and disease often shows up as visible changes in tissue [architecture](/architecture) — which is exactly what a pathologist looks for when examining a biopsy.
 
-**Cytology** goes even smaller, down to the individual cell. The average human body contains roughly 37.2 trillion cells (a figure estimated by Italian and Spanish researchers in 2013), and they come in over 200 distinct types. Red blood cells, neurons, epithelial cells, osteocytes — each has a characteristic shape that reflects its job. Red blood cells are biconcave discs roughly 6-8 micrometers across, optimized for squeezing through capillaries and maximizing surface area for oxygen transport.
+**[Cytology](/cytology)** goes even smaller, down to the individual cell. The average human body contains roughly 37.2 trillion cells (a figure estimated by Italian and Spanish researchers in 2013), and they come in over 200 distinct types. Red blood cells, neurons, epithelial cells, osteocytes — each has a characteristic shape that reflects its job. Red blood cells are biconcave discs roughly 6-8 micrometers across, optimized for squeezing through capillaries and maximizing surface area for oxygen transport.
 
 ## The 11 Organ Systems (Give or Take)
 
@@ -77,7 +77,7 @@ The human body is traditionally divided into 11 organ systems. Here's the quick 
 
 **Skeletal system.** 206 bones in the average adult (babies start with about 270, but many fuse during growth). Your skeleton provides structure, protects organs, stores minerals like calcium and phosphorus, and produces blood cells inside bone marrow. The femur is the longest and strongest bone; the stapes, deep in your middle ear, is the smallest at about 3 millimeters.
 
-**Muscular system.** Over 600 skeletal muscles, accounting for roughly 40% of your body weight. Three types exist: skeletal (voluntary, attached to bones), cardiac (involuntary, only in the heart), and smooth (involuntary, lining organs and vessels). Your strongest muscle depends on how you measure — the masseter (jaw) generates the most force per unit area, but the gluteus maximus is the largest overall.
+**Muscular system.** Over 600 skeletal muscles, [accounting](/accounting) for roughly 40% of your body weight. Three types exist: skeletal (voluntary, attached to bones), cardiac (involuntary, only in the heart), and smooth (involuntary, lining organs and vessels). Your strongest muscle depends on how you measure — the masseter (jaw) generates the most force per unit area, but the gluteus maximus is the largest overall.
 
 **Circulatory system.** The heart, blood vessels, and blood. Your heart beats about 100,000 times per day, pumping roughly 7,500 liters of blood. Laid end to end, your blood vessels would stretch about 100,000 kilometers — enough to circle the Earth twice and then some. [Medicine](/meditation) probably owes more discoveries to studying this system than any other.
 
@@ -109,7 +109,7 @@ But the Greeks took things further. **Hippocrates** (c. 460-370 BCE) and his fol
 
 ### Galen's Long Shadow
 
-**Galen of Pergamon** (129-216 CE) became the dominant authority on anatomy for over 1,300 years. He was brilliant, prolific, and — here's the problem — he mostly dissected animals, not humans. Roman law prohibited human dissection, so Galen worked with Barbary macaques, pigs, and other animals, extrapolating to humans. Many of his conclusions were wrong. He thought the liver had five lobes (it has four in humans), that the rete mirabile (a network of blood vessels found in some animals) existed at the base of the human brain (it doesn't), and that blood moved back and forth in a tidal motion rather than circulating.
+**Galen of Pergamon** (129-216 CE) became the dominant authority on anatomy for over 1,300 years. He was brilliant, prolific, and — here's the problem — he mostly dissected animals, not humans. [Roman law](/roman-law) prohibited human dissection, so Galen worked with Barbary macaques, pigs, and other animals, extrapolating to humans. Many of his conclusions were wrong. He thought the liver had five lobes (it has four in humans), that the rete mirabile (a network of blood vessels found in some animals) existed at the base of the human brain (it doesn't), and that blood moved back and forth in a tidal motion rather than circulating.
 
 Nobody corrected him for over a millennium. His authority was essentially unquestioned throughout the medieval period.
 
@@ -123,13 +123,13 @@ Vesalius was 28 when it came out. He faced fierce backlash from Galenists — hi
 
 ### From Dissection to Imaging
 
-The centuries after Vesalius saw anatomy advance through increasingly precise dissection techniques. **William Harvey** demonstrated blood circulation in 1628, destroying Galen's tidal model. The invention of the microscope in the late 1600s opened up histology and cytology. **Xavier Bichat** (1771-1802) classified 21 types of tissue without ever using a microscope — he used chemical tests and physical observation, which is remarkable when you think about it.
+The centuries after Vesalius saw anatomy advance through increasingly precise dissection techniques. **William Harvey** demonstrated blood circulation in 1628, destroying Galen's tidal model. The [invention](/invention) of the microscope in the late 1600s opened up histology and cytology. **Xavier Bichat** (1771-1802) classified 21 types of tissue without ever using a microscope — he used chemical tests and physical observation, which is remarkable when you think about it.
 
 Then the 20th century changed everything. X-rays (discovered by Wilhelm Rontgen in 1895) let doctors see bones without cutting skin. CT scanning arrived in 1971, MRI in the early 1980s, and PET scanning shortly after. For the first time, you could study anatomy in a living person with extraordinary detail. The NIH's Visible Human Project, launched in 1994, created complete cross-sectional datasets of a male and female body — the male dataset alone consists of 1,871 digital cross-sections at one-millimeter intervals.
 
 ## How Anatomy Is Actually Taught
 
-If you're imagining a room full of medical students poking nervously at a cadaver, you're not entirely wrong. But anatomy education has shifted dramatically in the past two decades.
+If you're imagining a room full of medical students poking nervously at a cadaver, you're not entirely wrong. But anatomy [education](/education) has shifted dramatically in the past two decades.
 
 ### The Cadaver Lab
 
@@ -145,11 +145,11 @@ The research on whether this works is mixed. A 2020 meta-analysis in *Anatomical
 
 ### The Plastination Revolution
 
-In 1977, German anatomist Gunther von Hagens invented plastination — a process that replaces water and fat in tissue with curable polymers (usually silicone). The result is a dry, odorless, durable specimen that can be handled without gloves. Von Hagens turned this into the controversial [Body Worlds](https://bodyworlds.com/) exhibition, which has been seen by over 50 million people worldwide. Plastinated specimens are also used in medical schools as teaching aids, though they lack the tactile qualities of fresh or embalmed tissue.
+In 1977, German anatomist Gunther von Hagens invented plastination — a process that replaces water and fat in tissue with curable polymers (usually silicone). The result is a dry, odorless, durable specimen that can be handled without gloves. Von Hagens turned this into the controversial [Body Worlds](https://bodyworlds.com/) exhibition, which has been seen by over 50 million people worldwide. Plastinated specimens are also used in medical schools as [teaching](/teaching) aids, though they lack the tactile qualities of fresh or embalmed tissue.
 
 ## Clinical Anatomy — Where It Gets Real
 
-Anatomy isn't just an academic exercise. It's the foundation of surgery, radiology, [emergency medicine](/emergency-medicine), and [physical therapy](/physical-therapy). Every time a surgeon makes an incision, they're relying on anatomical knowledge to avoid cutting something they shouldn't.
+Anatomy isn't just an academic exercise. It's the foundation of [surgery](/surgery), [radiology](/radiology), [emergency medicine](/emergency-medicine), and [physical therapy](/physical-therapy). Every time a surgeon makes an incision, they're relying on anatomical knowledge to avoid cutting something they shouldn't.
 
 ### Surface Anatomy
 
@@ -193,7 +193,7 @@ The field isn't static. Several developments are pushing anatomy in directions t
 
 **3D bioprinting** uses anatomical data to print tissue scaffolds and, increasingly, functional tissue. Researchers at Wake Forest Institute for Regenerative Medicine have printed ear cartilage, bone fragments, and muscle tissue that survived after implantation in animals. We're still years from printing whole organs, but the anatomical blueprints for doing so are getting more precise every year.
 
-**[Artificial intelligence](/artificial-intelligence)** is being applied to anatomical imaging. Deep learning algorithms can now identify anatomical structures in CT scans with accuracy approaching (and sometimes exceeding) that of trained radiologists. A 2021 study in *Nature Medicine* showed an AI system that could segment 104 anatomical structures from a CT scan in under a minute — a task that would take a human expert hours.
+**[Artificial intelligence](/artificial-intelligence)** is being applied to anatomical imaging. [Deep learning](/deep-learning) algorithms can now identify anatomical structures in CT scans with accuracy approaching (and sometimes exceeding) that of trained radiologists. A 2021 study in *Nature Medicine* showed an AI system that could segment 104 anatomical structures from a CT scan in under a minute — a task that would take a human expert hours.
 
 ## Why Any of This Matters to You
 
@@ -203,4 +203,4 @@ For one thing, anatomical literacy helps you understand your own body. When a do
 
 Anatomy also shapes fields you might not expect. Artists study it to draw convincing figures (Leonardo da Vinci performed over 30 dissections and filled notebooks with anatomical drawings that were centuries ahead of published medical texts). [Aerospace engineering](/aerospace-engineering) borrows anatomical principles for ergonomic cockpit design. Forensic scientists use skeletal anatomy to identify remains. Athletic coaches use functional anatomy to design training programs.
 
-And frankly, there's something genuinely awe-inspiring about the engineering of the human body. The fact that your femur can withstand compressive forces of up to 1,700 pounds. That your eyes can distinguish roughly 10 million colors. That a single nerve cell in your spinal cord can stretch over a meter long. These aren't abstract facts — they're descriptions of the machine you're living in right now.
+And frankly, there's something genuinely awe-inspiring about the [engineering](/engineering) of the human body. The fact that your femur can withstand compressive forces of up to 1,700 pounds. That your eyes can distinguish roughly 10 million colors. That a single nerve cell in your spinal cord can stretch over a meter long. These aren't abstract facts — they're descriptions of the machine you're living in right now.

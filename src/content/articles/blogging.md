@@ -31,7 +31,7 @@ faq:
 
 # What Is Blogging?
 
-Blogging is the practice of regularly writing and [publishing](/publishing) articles (blog posts) on a website, typically presented in reverse chronological order. The term combines "web" and "log" — a web log, or blog. What started as online personal diaries in the late 1990s has evolved into a massive ecosystem of personal, professional, and commercial content creation.
+Blogging is the practice of regularly [writing](/writing) and [publishing](/publishing) articles (blog posts) on a website, typically presented in reverse chronological order. The term combines "web" and "log" — a web log, or blog. What started as online personal diaries in the late 1990s has evolved into a massive ecosystem of personal, professional, and commercial content creation.
 
 ## A Brief History
 
@@ -49,7 +49,7 @@ Social media platforms — Facebook (2004), Twitter (2006), Instagram (2010) —
 
 **Professional/business blogs** use content to attract customers through [search engine optimization](/seo-search-engine-optimization). A law firm blogs about legal topics to attract potential clients. A software company blogs about industry trends to establish authority. This content [marketing](/digital-marketing) approach drives billions in business revenue.
 
-**Niche blogs** cover specific topics in depth — [personal finance](/personal-finance), [travel hacking](/travel-hacking), [woodworking](/woodworking), [sourdough](/sourdough) baking, vintage car restoration. The best niche blogs become authoritative resources in their fields, attracting dedicated audiences that general publications can't match.
+**Niche blogs** cover specific topics in depth — [personal finance](/personal-finance), [travel hacking](/travel-hacking), [woodworking](/woodworking), [sourdough](/sourdough) [baking](/baking), vintage car restoration. The best niche blogs become authoritative resources in their fields, attracting dedicated audiences that general publications can't match.
 
 **News and opinion blogs** cover current events and analysis. Some (The Verge, Ars Technica, Politico) have grown into major media organizations. Others remain one-person operations with outsized influence in their areas.
 
@@ -79,13 +79,13 @@ Monetization strategies for bloggers include:
 
 **Display advertising** — Networks like Mediavine and AdThrive place ads on your site and pay based on impressions. Requires significant traffic (50,000+ monthly pageviews) to generate meaningful income.
 
-**Affiliate marketing** — Recommending products with tracked links, earning commissions on resulting sales. Amazon Associates is the largest affiliate program, though specialized programs often pay better commissions.
+**Affiliate [marketing](/marketing)** — Recommending products with tracked links, earning commissions on resulting [sales](/sales). Amazon Associates is the largest affiliate program, though specialized programs often pay better commissions.
 
 **Sponsored content** — Brands pay bloggers to write about their products or services. Rates vary from $100 to $10,000+ per post depending on audience size and niche.
 
 **Digital products** — E-books, online courses, templates, and printables. Higher margins than affiliate marketing and full ownership of the product.
 
-**Consulting and services** — Blog authority translates into consulting opportunities. Many professional bloggers derive most of their income from speaking, coaching, or freelance services built on their blog's credibility.
+**Consulting and services** — Blog authority translates into consulting opportunities. Many professional bloggers derive most of their income from speaking, [coaching](/coaching), or freelance services built on their blog's credibility.
 
 ## Why Blogging Persists
 

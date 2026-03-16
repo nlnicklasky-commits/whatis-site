@@ -35,11 +35,11 @@ faq:
 
 # What Is Clinical Psychology?
 
-Clinical psychology is the branch of psychology dedicated to understanding, diagnosing, and treating mental illness, emotional disturbance, and behavioral problems. Clinical psychologists use evidence-based therapies, psychological assessment, and research to help people with conditions ranging from depression and anxiety to schizophrenia and personality disorders.
+Clinical [psychology](/psychology) is the branch of psychology dedicated to understanding, diagnosing, and treating mental illness, emotional disturbance, and behavioral problems. Clinical psychologists use evidence-based therapies, psychological assessment, and research to help people with conditions ranging from depression and anxiety to schizophrenia and personality disorders.
 
 ## How Clinical Psychology Became a Field
 
-Psychology as a discipline is surprisingly young. Wilhelm Wundt opened the first psychology laboratory in Leipzig, Germany in 1879 — that's more recent than the invention of the telephone. But it took decades before psychology turned its attention seriously to treating mental illness.
+Psychology as a discipline is surprisingly young. Wilhelm Wundt opened the first psychology laboratory in Leipzig, Germany in 1879 — that's more recent than the [invention](/invention) of the telephone. But it took decades before psychology turned its attention seriously to treating mental illness.
 
 For most of history, mental illness was understood through religious or moral frameworks. People who heard voices were possessed. People who couldn't stop washing their hands were morally weak. The lucky ones ended up in monasteries. The unlucky ones ended up chained in asylums.
 
@@ -89,7 +89,7 @@ Clinical psychology is broad enough to contain several distinct specializations.
 
 **Child and adolescent clinical psychology** focuses on [developmental](/developmental-psychology) issues, childhood disorders like ADHD and autism spectrum disorder, and the unique challenges of treating young people. Therapy with a 6-year-old looks nothing like therapy with an adult — play therapy, family involvement, and school-based interventions are common tools.
 
-**Health psychology** examines how psychological factors affect physical health. Stress [management](/management) for cardiac patients, pain management techniques, adherence to medical treatment, coping with chronic illness — all fall under this umbrella. The mind-body connection isn't just a wellness buzzword; it's a research-backed reality with measurable health outcomes.
+**Health psychology** examines how psychological factors affect physical health. Stress [management](/management) for cardiac patients, pain management techniques, adherence to medical treatment, coping with chronic illness — all fall under this umbrella. The mind-body connection isn't just a [wellness](/wellness) buzzword; it's a research-backed reality with measurable health outcomes.
 
 **Neuropsychology** sits at the intersection of psychology and brain science. Neuropsychologists assess and treat cognitive problems caused by brain injury, stroke, dementia, and neurological disease. They use specialized tests to pinpoint which brain functions are impaired and develop rehabilitation plans. Understanding the [brain's structure](/anatomy) is essential for this work.
 

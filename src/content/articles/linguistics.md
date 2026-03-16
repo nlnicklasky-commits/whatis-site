@@ -37,7 +37,7 @@ faq:
 
 Linguistics is the scientific study of human language — its structure, its sounds, its meaning, how it changes over time, and how it functions in society. Linguists don't just study individual languages; they study *language itself*, trying to understand the underlying systems that make human communication possible.
 
-Here's something that surprises most people: you've been doing linguistics since you were about two years old. Every time you form a sentence you've never heard before — and you do this constantly — you're applying grammatical rules you internalized without anyone explicitly teaching them to you. Linguistics tries to figure out what those rules actually are.
+Here's something that surprises most people: you've been doing linguistics since you were about two years old. Every time you form a sentence you've never heard before — and you do this constantly — you're applying grammatical rules you internalized without anyone explicitly [teaching](/teaching) them to you. Linguistics tries to figure out what those rules actually are.
 
 ## The Core Branches
 
@@ -81,7 +81,7 @@ English falls somewhere in the middle — we use some morphology (un-break-able)
 
 ### Syntax: Sentence Structure
 
-Syntax studies how words combine into phrases and sentences. It's the architecture of language — the rules that determine what's grammatical and what isn't.
+Syntax studies how words combine into phrases and sentences. It's the [architecture](/architecture) of language — the rules that determine what's grammatical and what isn't.
 
 "The cat chased the mouse" is grammatical. "Cat the the chased mouse" isn't. You know this instantly, but articulating *why* requires syntactic theory.
 
@@ -93,13 +93,13 @@ This recursion — the ability to embed structures within structures — is argu
 
 ### Semantics: Meaning
 
-Semantics studies meaning — what words and sentences actually convey. This is trickier than it sounds.
+[Semantics](/semantics) studies meaning — what words and sentences actually convey. This is trickier than it sounds.
 
 **Lexical semantics** examines word meaning. What's the relationship between "dog" and "animal"? (Hyponymy — "dog" is a type of "animal.") Between "buy" and "sell"? (Converseness — same event from different perspectives.) Between "bank" (financial) and "bank" (river)? (Polysemy — one word with related meanings.)
 
 **Compositional semantics** asks how word meanings combine to form sentence meanings. "Every student read a book" is ambiguous: did every student read the *same* book, or did each read a different one? The individual words aren't ambiguous — the ambiguity arises from how they combine.
 
-Formal semantics uses [mathematical logic](/mathematical-logic) — particularly predicate logic and set theory — to model meaning precisely. This branch connects [linguistics](/computational-linguistics) directly to philosophy, mathematics, and [computer science](/computer-science).
+Formal semantics uses [mathematical logic](/mathematical-logic) — particularly predicate logic and [set theory](/set-theory) — to model meaning precisely. This branch connects [linguistics](/computational-linguistics) directly to [philosophy](/philosophy), [mathematics](/mathematics), and [computer science](/computer-science).
 
 ### Pragmatics: Language in Context
 
@@ -125,7 +125,7 @@ Historical linguistics traces how and why languages change:
 
 ### The Language Family Tree
 
-By comparing systematically related words across languages, linguists reconstruct ancient ancestor languages. English, German, Dutch, Swedish, and other Germanic languages descended from Proto-Germanic, spoken around 500 BCE. Proto-Germanic, Latin, Greek, Sanskrit, and others descended from Proto-Indo-European, spoken roughly 4500-2500 BCE.
+By comparing systematically related words across languages, linguists reconstruct ancient ancestor languages. English, German, Dutch, Swedish, and other Germanic languages descended from Proto-Germanic, spoken around 500 BCE. Proto-Germanic, Latin, Greek, [Sanskrit](/sanskrit), and others descended from Proto-Indo-European, spoken roughly 4500-2500 BCE.
 
 This comparative method has identified about 400 language families worldwide. The Indo-European family alone includes roughly 3 billion native speakers across languages from Hindi to English to Greek to Persian.
 
@@ -143,11 +143,11 @@ Language doesn't exist in a vacuum — it's shaped by and shapes social structur
 
 **Language and identity** are deeply intertwined. Accent, vocabulary, and grammatical patterns signal regional origin, social class, ethnicity, age, and group membership. Linguistic discrimination — judging people by how they speak — is one of the last socially acceptable forms of prejudice.
 
-William Labov's pioneering studies in the 1960s showed that even within a single city (New York), pronunciation varies systematically by social class, and speakers unconsciously shift their pronunciation in more formal settings. Sociolinguistics revealed that language variation isn't random — it's structured and meaningful.
+William Labov's pioneering studies in the 1960s showed that even within a single city (New York), pronunciation varies systematically by social class, and speakers unconsciously shift their pronunciation in more formal settings. [Sociolinguistics](/sociolinguistics) revealed that language variation isn't random — it's structured and meaningful.
 
 ## [Psycholinguistics](/psycholinguistics) and [Language Acquisition](/language-acquisition)
 
-How do children learn language? This question connects linguistics to [cognitive psychology](/cognitive-psychology) and neuroscience.
+How do children learn language? This question connects linguistics to [cognitive psychology](/cognitive-psychology) and [neuroscience](/neuroscience).
 
 Children acquire their first language with remarkable speed and uniformity. By age 3, most children produce grammatically complex sentences, despite receiving no formal instruction. They make errors — "I goed" instead of "I went" — but these errors are *systematic*, showing they've internalized rules (past tense = add "-ed") and overgeneralized them.
 
@@ -165,11 +165,11 @@ This field has exploded in recent years. Modern language models like GPT and Cla
 
 The relationship between linguistics and NLP is complicated. Early NLP relied heavily on linguistic theory — building rule-based parsers and grammars. Modern neural approaches are more data-driven, learning patterns directly from text without explicit linguistic rules. Yet linguistic knowledge still matters for evaluation, error analysis, and understanding what these systems actually do.
 
-Applications include machine translation, speech recognition (Siri, Alexa), sentiment analysis, text summarization, chatbots, and information extraction. Every time you talk to a voice assistant or use autocomplete on your phone, you're interacting with systems built on [artificial intelligence](/artificial-intelligence) techniques applied to linguistic data.
+Applications include machine [translation](/translation), speech recognition (Siri, Alexa), sentiment analysis, text summarization, chatbots, and information extraction. Every time you talk to a voice assistant or use autocomplete on your phone, you're interacting with systems built on [artificial intelligence](/artificial-intelligence) techniques applied to linguistic data.
 
 ## Writing Systems
 
-Human language is primarily spoken (or signed). Writing is a secondary representation — an invention only about 5,000 years old, compared to the roughly 100,000-year history of spoken language.
+Human language is primarily spoken (or signed). Writing is a secondary representation — an [invention](/invention) only about 5,000 years old, compared to the roughly 100,000-year history of spoken language.
 
 Writing systems fall into several types:
 
@@ -185,7 +185,7 @@ Most writing systems are mixed. English uses an alphabet but with notoriously in
 
 ## Sign Languages
 
-Sign languages are full, natural human languages — not pantomime, not simplified codes, not just gesture versions of spoken languages. American Sign Language (ASL) has its own grammar, which differs substantially from English. British Sign Language (BSL) is not mutually intelligible with ASL, despite both being used in English-speaking countries.
+Sign languages are full, natural human languages — not [pantomime](/pantomime), not simplified codes, not just gesture versions of spoken languages. American [Sign Language](/sign-language) (ASL) has its own grammar, which differs substantially from English. British Sign Language (BSL) is not mutually intelligible with ASL, despite both being used in English-speaking countries.
 
 Sign languages have phonology (the equivalent units are handshape, location, movement, and orientation), morphology, syntax, and all the same structural complexity as spoken languages. Deaf children acquiring sign language go through the same developmental stages as hearing children acquiring spoken language, including "babbling" with their hands.
 
@@ -207,17 +207,17 @@ These patterns constrain the space of possible human languages. Not every logica
 
 About 40% of the world's 7,000 languages are endangered, with fewer than 1,000 speakers each. A language dies roughly every two weeks. By 2100, between 50% and 90% of today's languages may be extinct.
 
-When a language dies, the world loses irreplaceable knowledge: unique ways of categorizing experience, traditional ecological knowledge encoded in vocabulary, oral literature and history, and insights into the range of possible human languages.
+When a language dies, the world loses irreplaceable knowledge: unique ways of categorizing experience, traditional ecological knowledge encoded in vocabulary, oral [literature](/literature) and history, and insights into the range of possible human languages.
 
 Language documentation efforts — recording, transcribing, and analyzing endangered languages — are a race against time. Projects like the Endangered Languages Project and ELAR (Endangered Languages Archive) work to preserve linguistic diversity.
 
-Revitalization efforts have had successes. Hebrew was revived from a liturgical language to a living mother tongue. Welsh and Maori have seen increasing speaker numbers through education and policy. But reversing language shift is difficult and requires sustained community commitment.
+Revitalization efforts have had successes. Hebrew was revived from a liturgical language to a living mother tongue. Welsh and Maori have seen increasing speaker numbers through [education](/education) and policy. But reversing language shift is difficult and requires sustained community commitment.
 
 ## Forensic Linguistics
 
 Forensic linguistics applies linguistic analysis to legal contexts — author identification, trademark disputes, analysis of confessions, and interpretation of legal language.
 
-Linguists have helped identify anonymous authors of threatening letters by analyzing writing style. They've testified about whether confession statements were genuinely voluntary or linguistically manipulated. They analyze the comprehensibility of jury instructions, insurance policies, and consumer contracts.
+Linguists have helped identify anonymous authors of threatening letters by analyzing writing style. They've testified about whether confession statements were genuinely voluntary or linguistically manipulated. They analyze the comprehensibility of jury instructions, [insurance](/insurance) policies, and consumer contracts.
 
 The field gained public attention through the Unabomber case, where linguistic analysis of Ted Kaczynski's manifesto helped narrow the suspect pool.
 

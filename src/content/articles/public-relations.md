@@ -43,7 +43,7 @@ The Public Relations Society of America defines PR as "a strategic communication
 
 **Content creation.** Modern PR produces enormous amounts of content — blog posts, social media updates, newsletters, white papers, infographics, videos, podcasts. "Owned media" (content published on the organization's own channels) has become as important as earned media in many PR strategies.
 
-**Reputation management.** Long-term brand perception is shaped by consistent communication, community engagement, thought [leadership](/leadership) (positioning executives as experts), and alignment between what an organization says and what it does. Reputation takes years to build and can be damaged in hours.
+**Reputation [management](/management).** Long-term brand perception is shaped by consistent communication, community engagement, thought [leadership](/leadership) (positioning executives as experts), and alignment between what an organization says and what it does. Reputation takes years to build and can be damaged in hours.
 
 **Internal communication.** Employee communication is a PR function in many organizations. Keeping employees informed, engaged, and aligned with the organization's mission affects morale, retention, and ultimately the organization's public image (unhappy employees talk).
 

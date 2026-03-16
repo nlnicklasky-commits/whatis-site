@@ -47,11 +47,11 @@ Humans have wondered about the physical world since we first looked at the stars
 
 Modern physics began when people started testing ideas against reality. Galileo Galilei (1564-1642) didn't just theorize about falling objects --- he rolled balls down inclined planes and measured the results. That commitment to experiment over authority was revolutionary. It still defines physics today.
 
-Isaac Newton synthesized mechanics, optics, and gravitation into a mathematical framework so powerful that it predicted the existence of Neptune before anyone saw it. James Clerk Maxwell unified electricity, magnetism, and light into four equations of such elegance that they still give physicists chills. And then, right around 1900, two revolutions shattered the comfortable certainties of classical physics and rebuilt the science from the ground up.
+Isaac Newton synthesized mechanics, [optics](/optics), and gravitation into a mathematical framework so powerful that it predicted the existence of Neptune before anyone saw it. James Clerk Maxwell unified [electricity](/electricity), [magnetism](/magnetism), and light into four equations of such elegance that they still give physicists chills. And then, right around 1900, two revolutions shattered the comfortable certainties of classical physics and rebuilt the science from the ground up.
 
 ## Classical Physics: The Everyday World
 
-Classical physics describes the behavior of objects and forces at human scales --- things you can see, touch, and measure without exotic equipment. It works phenomenally well for everything from bridge engineering to orbital mechanics.
+Classical physics describes the behavior of objects and forces at human scales --- things you can see, touch, and measure without exotic equipment. It works phenomenally well for everything from bridge [engineering](/engineering) to orbital mechanics.
 
 ### Mechanics
 
@@ -63,15 +63,15 @@ Classical physics describes the behavior of objects and forces at human scales -
 
 These three statements, combined with his law of universal gravitation, explain planetary orbits, projectile trajectories, tidal forces, and the behavior of everything from baseballs to bridges. NASA used Newtonian mechanics to send astronauts to the Moon in 1969 --- over 280 years after Newton published them.
 
-In the 18th and 19th centuries, Lagrange and Hamilton reformulated mechanics using energy-based approaches rather than force-based ones. These formulations look very different mathematically but make the same predictions. They turned out to be essential when quantum mechanics arrived --- Hamiltonian mechanics maps directly onto quantum theory.
+In the 18th and 19th centuries, Lagrange and Hamilton reformulated mechanics using energy-based approaches rather than force-based ones. These formulations look very different mathematically but make the same predictions. They turned out to be essential when [quantum mechanics](/quantum-mechanics) arrived --- Hamiltonian mechanics maps directly onto quantum theory.
 
 ### Thermodynamics
 
-Thermodynamics studies heat, energy, and their transformations. It emerged from practical questions about steam engines in the 1800s but revealed laws of staggering generality.
+[Thermodynamics](/thermodynamics) studies heat, energy, and their transformations. It emerged from practical questions about steam engines in the 1800s but revealed laws of staggering generality.
 
 The first law is conservation of energy: energy can change form but can't be created or destroyed. The second law introduces entropy --- a measure of disorder that always increases in isolated systems. Coffee cools. Iron rusts. Stars burn out. The universe trends toward disorder, and that trend is irreversible.
 
-The second law has profound implications. It explains why perpetual motion machines are impossible. It defines the arrow of time (entropy tells you which direction events flow). It even connects to information theory --- erasing information requires energy expenditure (Landauer's principle, confirmed experimentally in 2012).
+The second law has profound implications. It explains why perpetual motion machines are impossible. It defines the arrow of time (entropy tells you which direction events flow). It even connects to [information theory](/information-theory) --- erasing information requires energy expenditure (Landauer's principle, confirmed experimentally in 2012).
 
 ### Electromagnetism
 
@@ -93,7 +93,7 @@ Around 1900, two problems cracked classical physics wide open.
 
 ### Quantum Mechanics
 
-Classical physics predicted that a hot object should radiate infinite energy at short wavelengths (the "ultraviolet catastrophe"). It obviously didn't. In 1900, Max Planck resolved this by proposing that energy comes in discrete packets --- quanta --- rather than continuous streams. He considered it a mathematical trick. It was the beginning of the most successful and strangest theory in the history of science.
+Classical physics predicted that a hot object should radiate infinite energy at short wavelengths (the "ultraviolet catastrophe"). It obviously didn't. In 1900, Max Planck resolved this by proposing that energy comes in discrete packets --- quanta --- rather than continuous streams. He considered it a mathematical trick. It was the beginning of the most successful and strangest theory in [the history of science](/the-history-of-science).
 
 Key developments came fast:
 
@@ -103,7 +103,7 @@ Key developments came fast:
 
 **1920s**: Werner Heisenberg, Erwin Schrodinger, Max Born, and Paul Dirac built the full mathematical framework. Heisenberg's uncertainty principle showed that you can't simultaneously know a particle's exact position and momentum. Schrodinger's equation describes how quantum states evolve over time. Born interpreted the wave function as a probability distribution.
 
-The implications are genuinely bizarre. Particles exist in superpositions of states until measured. Electrons don't have definite locations --- they have probability clouds. Entangled particles show correlations that seem to defy the speed of light (though they don't transmit information faster than light). Quantum tunneling allows particles to pass through barriers they classically couldn't.
+The implications are genuinely bizarre. Particles exist in superpositions of states until measured. Electrons don't have definite locations --- they have probability clouds. Entangled particles show correlations that seem to defy the speed of light (though they don't transmit information faster than light). Quantum [tunneling](/tunneling) allows particles to pass through barriers they classically couldn't.
 
 And yet, quantum mechanics works. It predicts the properties of atoms, molecules, and materials with extraordinary precision. The anomalous magnetic moment of the electron has been calculated to 12 decimal places and matches experiment to 12 decimal places. No theory in the history of science has been tested this precisely and passed.
 
@@ -111,7 +111,7 @@ Quantum mechanics is the foundation of all of [chemistry](/chemistry) (chemical 
 
 ### Relativity
 
-Einstein published two theories of relativity that reshaped our understanding of space, time, and gravity.
+Einstein published two theories of [relativity](/relativity) that reshaped our understanding of space, time, and gravity.
 
 **Special relativity** (1905) starts from two postulates: the laws of physics are the same for all observers in uniform motion, and the speed of light is the same for all observers regardless of their motion. From these simple starting points, extraordinary consequences follow:
 
@@ -125,7 +125,7 @@ General relativity predicts gravitational time dilation (clocks near massive obj
 
 ## The Standard Model: A Catalog of Reality
 
-The Standard Model of particle physics, developed over the second half of the 20th century, catalogs all known fundamental particles and three of the four fundamental forces.
+The Standard Model of [particle physics](/particle-physics), developed over the second half of the 20th century, catalogs all known fundamental particles and three of the four fundamental forces.
 
 **Matter particles (fermions)** include six quarks (up, down, charm, strange, top, bottom) and six leptons (electron, muon, tau, and their associated neutrinos). Ordinary matter --- everything you see around you --- is made of just three: up quarks, down quarks, and electrons. Protons are two up quarks and one down quark. Neutrons are two down quarks and one up quark.
 
@@ -149,11 +149,11 @@ Dark energy is even more mysterious. Discovered in 1998 through observations of 
 
 General relativity describes gravity beautifully at large scales. Quantum mechanics describes particles beautifully at small scales. But the two theories are mathematically incompatible. At extreme conditions --- inside black holes, at the moment of the Big Bang --- both theories should apply simultaneously, and we don't have a framework that combines them.
 
-String theory proposes that fundamental particles are actually tiny vibrating strings in 10 or 11 dimensions. Loop quantum gravity proposes that spacetime itself has a discrete structure at the Planck scale (10^-35 meters). Both approaches are mathematically sophisticated and experimentally untested. The energy required to probe the Planck scale directly exceeds what any conceivable particle accelerator could produce.
+[String theory](/string-theory) proposes that fundamental particles are actually tiny vibrating strings in 10 or 11 dimensions. Loop quantum gravity proposes that spacetime itself has a discrete structure at the Planck scale (10^-35 meters). Both approaches are mathematically sophisticated and experimentally untested. The energy required to probe the Planck scale directly exceeds what any conceivable particle accelerator could produce.
 
 ### The Measurement Problem
 
-Quantum mechanics says particles exist in superpositions until measured, then "collapse" into definite states. But what counts as a measurement? Where exactly does the quantum world end and the classical world begin? This is the measurement problem, and despite 100 years of debate, there's no consensus answer.
+Quantum mechanics says particles exist in superpositions until measured, then "collapse" into definite states. But what counts as a measurement? Where exactly does the quantum world end and the classical world begin? This is the measurement problem, and despite 100 years of [debate](/debate), there's no consensus answer.
 
 The Copenhagen interpretation says the wave function collapse is fundamental. The many-worlds interpretation says every quantum measurement splits the universe into branches. Decoherence theory explains how quantum superpositions become effectively classical through interaction with the environment. Physicists argue about these interpretations with remarkable passion for a field supposedly guided by experiment.
 
@@ -163,7 +163,7 @@ Physics isn't just about exotic phenomena. It's embedded in every technology you
 
 Your phone's touchscreen uses the capacitive properties of your finger. Its processor operates through quantum-mechanical tunneling of electrons in transistors. Its GPS relies on both special and general relativistic corrections. Its display uses liquid crystal physics or organic LED technology. Its battery stores energy through [electrochemistry](/electrochemistry), governed by thermodynamics.
 
-Medical imaging --- MRI uses nuclear magnetic resonance, CT scans use X-ray physics, PET scans detect gamma rays from positron annihilation --- is pure applied physics. Fiber-optic communications depend on total internal reflection. Solar panels depend on the photoelectric effect. Nuclear power depends on mass-energy equivalence.
+[Medical imaging](/medical-imaging) --- MRI uses nuclear magnetic resonance, CT scans use X-ray physics, PET scans detect gamma rays from positron annihilation --- is pure applied physics. Fiber-optic communications depend on total internal reflection. Solar panels depend on the photoelectric effect. Nuclear power depends on mass-energy equivalence.
 
 ## The Branches of Physics
 
@@ -171,11 +171,11 @@ Physics has grown so large that it's divided into many subfields:
 
 - **[Classical mechanics](/classical-mechanics)**: Motion and forces at human scales
 - **[Electromagnetism](/electromagnetism)**: Electric and magnetic phenomena, light
-- **Thermodynamics and statistical mechanics**: Heat, energy, entropy
+- **Thermodynamics and [statistical mechanics](/statistical-mechanics)**: Heat, energy, entropy
 - **Quantum mechanics**: Behavior at atomic and subatomic scales
 - **[General relativity](/general-relativity)**: Gravity and spacetime curvature
 - **Particle physics**: Fundamental particles and forces
-- **Nuclear physics**: Atomic nuclei, radioactivity, fusion, fission
+- **[Nuclear physics](/nuclear-physics)**: Atomic nuclei, radioactivity, fusion, fission
 - **Condensed matter physics**: Solid, liquid, and exotic states of matter
 - **[Astrophysics](/astrophysics)**: Physics of stars, galaxies, and the cosmos
 - **[Biophysics](/biophysics)**: Physical principles in biological systems

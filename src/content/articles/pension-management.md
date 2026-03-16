@@ -37,13 +37,13 @@ faq:
 
 # What Is Pension Management?
 
-Pension management is the process of administering, investing, and overseeing retirement funds so that workers receive income after they stop working. It involves collecting contributions, investing those funds across decades, calculating future obligations using actuarial science, and distributing benefits to retirees according to plan rules.
+Pension [management](/management) is the process of administering, investing, and overseeing retirement funds so that workers receive income after they stop working. It involves collecting contributions, investing those funds across decades, calculating future obligations using actuarial science, and distributing benefits to retirees according to plan rules.
 
 ## Why Pension Management Matters More Than You Think
 
 Here's a number that should grab your attention: globally, pension funds hold over $56 trillion in assets as of 2025. That's trillion with a T. These funds are among the largest institutional investors on the planet, and how they're managed affects everything from stock market stability to whether your grandmother can pay her electric bill.
 
-Pension management sits at the intersection of [finance](/finance), demographics, law, and politics. Get it right, and millions of people retire with dignity. Get it wrong, and you end up with cities like Detroit filing for bankruptcy partly because of pension obligations they couldn't meet.
+Pension management sits at the intersection of [finance](/finance), demographics, law, and [politics](/politics). Get it right, and millions of people retire with dignity. Get it wrong, and you end up with cities like Detroit filing for bankruptcy partly because of pension obligations they couldn't meet.
 
 The stakes are personal, too. If you're working right now and someone is managing a pension on your behalf, the decisions being made today — how aggressively to invest, how much to set aside, what assumptions to make about the future — will directly determine your quality of life in 20 or 30 years.
 
@@ -59,7 +59,7 @@ For example, a common formula might be: 1.5% x years of service x final average 
 
 The employer bears all the investment risk here. If the stock market crashes, the company still owes you that $36,000. If people live longer than expected, the company keeps paying. This is why DB plans have become increasingly expensive and rare in the private sector — only about 15% of private-sector U.S. workers had access to one by 2023, down from 38% in the early 1980s.
 
-But DB plans remain common in the public sector. Teachers, firefighters, police officers, and government employees often still have defined benefit pensions. Managing these plans is a massive undertaking involving billions of dollars and obligations stretching decades into the future.
+But DB plans remain common in the public sector. Teachers, firefighters, police officers, and [government](/government) employees often still have defined benefit pensions. Managing these plans is a massive undertaking involving billions of dollars and obligations stretching decades into the future.
 
 ### Defined Contribution Plans: The Modern Shift
 
@@ -69,7 +69,7 @@ What you get in retirement depends entirely on how much went in and how those in
 
 This shift from DB to DC plans represents one of the largest transfers of financial risk in [modern history](/modern-history) — from employers to individual workers. And frankly, most workers aren't equipped to manage that risk well. Studies consistently show that people contribute too little, invest too conservatively when young (or too aggressively near retirement), and pay too much in fees.
 
-Managing DC plans involves a different skill set than DB plans. It's less about actuarial projections and more about plan design, investment menu [construction](/construction), participant education, and regulatory compliance.
+Managing DC plans involves a different skill set than DB plans. It's less about actuarial projections and more about plan design, investment menu [construction](/construction), participant [education](/education), and regulatory compliance.
 
 ## The Actuarial Engine: Predicting the Unpredictable
 
@@ -87,7 +87,7 @@ This is where pension math gets genuinely tricky. A pension fund might owe $1 bi
 
 A higher discount rate makes the liability look smaller (because you're assuming your investments will earn more). A lower discount rate makes it look bigger. The difference between using a 7% discount rate and a 5% discount rate on a large pension fund can swing the apparent funding level by hundreds of millions of dollars.
 
-Public pension funds have historically used relatively high discount rates — often 7% to 8% — based on expected investment returns. Many economists argue this is too aggressive and masks the true cost of pension promises. This isn't an academic debate. It determines how much governments need to contribute to their pension funds, which affects [budgeting](/budgeting), tax rates, and public services.
+Public pension funds have historically used relatively high discount rates — often 7% to 8% — based on expected investment returns. Many economists argue this is too aggressive and masks the true cost of pension promises. This isn't an academic [debate](/debate). It determines how much governments need to contribute to their pension funds, which affects [budgeting](/budgeting), tax rates, and public services.
 
 ### Salary Growth Projections
 
@@ -103,10 +103,10 @@ The fundamental question for any pension fund is how to divide its assets among 
 
 - **Equities (stocks):** 40-60% — the growth engine, but volatile
 - **Fixed income (bonds):** 20-35% — steadier returns, lower risk
-- **Real estate:** 5-15% — inflation protection and income
+- **[Real estate](/real-estate):** 5-15% — inflation protection and income
 - **Alternative investments:** 10-25% — [private equity](/private-equity), hedge funds, infrastructure, commodities
 
-The right mix depends on the fund's demographics. A young fund with mostly active workers can afford more risk because payouts are decades away. A mature fund with many retirees needs more stability because it's writing checks every month.
+The right mix depends on the fund's demographics. A young fund with mostly active workers can afford more risk because payouts are decades away. A mature fund with many retirees needs more stability because it's [writing](/writing) checks every month.
 
 This concept — matching asset duration to liability duration — is called asset-liability management (ALM), and it's one of the most important disciplines in pension management. Get the match wrong, and you might have the right amount of money overall but not enough cash on hand when payments come due.
 
@@ -144,7 +144,7 @@ Internationally, frameworks vary enormously. The Netherlands requires pension fu
 
 Pension funds must regularly report their financial status. Key metrics include the funded ratio (assets divided by liabilities), contribution rates, investment returns, and actuarial assumptions. These reports should be publicly available, but they can be dense and difficult for non-experts to interpret.
 
-One persistent challenge is that different accounting standards allow different methods for calculating pension obligations. A pension fund can appear healthy or troubled depending on which assumptions and methods are used. This makes comparing plans — or even assessing a single plan's true health — surprisingly difficult.
+One persistent challenge is that different [accounting](/accounting) standards allow different methods for calculating pension obligations. A pension fund can appear healthy or troubled depending on which assumptions and methods are used. This makes comparing plans — or even assessing a single plan's true health — surprisingly difficult.
 
 ## The Funding Crisis: Why So Many Plans Are in Trouble
 

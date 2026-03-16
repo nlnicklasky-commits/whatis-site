@@ -45,7 +45,7 @@ Is it ever right to lie? Is it wrong to eat animals? Should you sacrifice one pe
 
 These aren't abstract puzzles. They're the kinds of questions that show up—often uninvited—in hospital rooms, courtrooms, boardrooms, and legislative chambers. Moral philosophy doesn't promise easy answers to them (if someone promises you easy answers to moral questions, be suspicious). What it offers is something more useful: a set of frameworks for thinking through hard questions carefully, identifying hidden assumptions, and understanding *why* reasonable people disagree.
 
-And they do disagree. Profoundly. Not because some people are moral and others aren't, but because they're drawing on different moral frameworks—different theories about what makes an action right or wrong. Understanding those frameworks is what moral philosophy is about.
+And they do disagree. Profoundly. Not because some people are moral and others aren't, but because they're [drawing](/drawing) on different moral frameworks—different theories about what makes an action right or wrong. Understanding those frameworks is what moral philosophy is about.
 
 ## Ancient Roots: Where It All Started
 
@@ -89,7 +89,7 @@ The virtues—courage, honesty, compassion, justice, temperance, practical wisdo
 - It can be vague. "Do what a virtuous person would do" doesn't give clear guidance when you need to make a specific decision
 - It risks circularity: a virtuous action is what a virtuous person would do, and a virtuous person is one who performs virtuous actions
 
-The [Stoic](/stoicism) tradition offers a related but distinct virtue ethics. For the Stoics, virtue is the only true good, and external circumstances (wealth, health, even pleasure) are "indifferent"—they don't affect your moral worth. This radical commitment to inner virtue regardless of circumstances influenced early Christianity and continues to resonate today.
+The [Stoic](/stoicism) tradition offers a related but distinct virtue ethics. For the Stoics, virtue is the only true good, and external circumstances (wealth, health, even pleasure) are "indifferent"—they don't affect your moral worth. This radical commitment to inner virtue regardless of circumstances influenced early [Christianity](/christianity) and continues to resonate today.
 
 ### Deontology: What Rules Should I Follow?
 
@@ -97,7 +97,7 @@ Deontological ethics (from the Greek *deon*, meaning "duty") holds that certain 
 
 Kant argued that morality is grounded in reason alone. His key principle is the Categorical Imperative, which he formulated in several ways:
 
-1. **Universalizability:** "Act only according to that maxim by which you can at the same time will that it should become a universal law." Translation: before you act, ask whether you could consistently want *everyone* to act that way. Lying fails this test because if everyone lied, the concept of truth (and therefore the possibility of lying) would collapse.
+1. **Universalizability:** "Act only according to that maxim by which you can at the same time will that it should become a universal law." [Translation](/translation): before you act, ask whether you could consistently want *everyone* to act that way. Lying fails this test because if everyone lied, the concept of truth (and therefore the possibility of lying) would collapse.
 
 2. **Humanity as an end:** "Act so that you treat humanity, whether in your own person or in that of another, always as an end and never merely as a means." Translation: never use people as mere instruments for your purposes. This is the philosophical foundation for human rights and human dignity.
 
@@ -117,7 +117,7 @@ Kant argued that morality is grounded in reason alone. His key principle is the 
 
 Consequentialism holds that the morality of an action depends entirely on its consequences. The most famous version is [utilitarianism](/utilitarianism), developed by Jeremy Bentham (1748-1832) and John Stuart Mill (1806-1873).
 
-Bentham proposed a simple principle: the right action is the one that produces the greatest happiness for the greatest number. He even attempted a "felicific calculus"—a mathematical method for quantifying pleasure and pain to determine the best action.
+Bentham proposed a simple principle: the right action is the one that produces the greatest happiness for the greatest number. He even attempted a "felicific [calculus](/calculus)"—a mathematical method for quantifying pleasure and pain to determine the best action.
 
 Mill refined Bentham's approach, arguing that pleasures differ in quality, not just quantity. The pleasures of the intellect, Mill argued, are higher than physical pleasures: "It is better to be Socrates dissatisfied than a fool satisfied."
 
@@ -161,13 +161,13 @@ What obligations do corporations have beyond maximizing shareholder value? Is it
 
 ### Environmental Ethics
 
-Do animals have moral rights? Do ecosystems? Do future generations have claims on us? How much should we sacrifice today to prevent climate change?
+Do animals have moral rights? Do ecosystems? Do future generations have claims on us? How much should we sacrifice today to prevent [climate change](/climate-change)?
 
 Peter Singer's influential 1975 book *Animal Liberation* argued from a utilitarian perspective that the capacity to suffer—not species membership—determines moral consideration. This challenges the anthropocentric assumption underlying most traditional ethics and has influenced animal welfare legislation worldwide.
 
 ### Ethics of Technology
 
-As [artificial intelligence](/artificial-intelligence) makes increasingly consequential decisions—in criminal sentencing, hiring, autonomous vehicles, and [computer-security](/computer-security)—moral philosophy becomes urgently relevant. How should a self-driving car choose when a crash is unavoidable? The trolley problem, once a purely theoretical thought experiment, is now a practical engineering question.
+As [artificial intelligence](/artificial-intelligence) makes increasingly consequential decisions—in criminal sentencing, hiring, autonomous vehicles, and [computer-security](/computer-security)—moral philosophy becomes urgently relevant. How should a self-driving car choose when a crash is unavoidable? The trolley problem, once a purely theoretical thought experiment, is now a practical [engineering](/engineering) question.
 
 AI ethics also raises questions about fairness, transparency, and accountability. If [an algorithm](/algorithms) discriminates against certain groups, who is responsible? The programmer? The company? The training data? These are new questions requiring old philosophical tools.
 
@@ -181,7 +181,7 @@ Beyond asking "what should I do?" moral philosophy asks even more fundamental qu
 
 **Moral anti-realists** deny this. Some (error theorists) argue that all moral claims are false because there are no moral facts. Others (expressivists) argue that moral statements aren't factual claims at all—they're expressions of attitudes, like saying "boo!" to torture.
 
-This debate has enormous implications. If moral realism is correct, there's a truth about ethics waiting to be discovered. If anti-realism is correct, morality is something we construct—and the question becomes: whose construction, and on what basis?
+This [debate](/debate) has enormous implications. If moral realism is correct, there's a truth about ethics waiting to be discovered. If anti-realism is correct, morality is something we construct—and the question becomes: whose [construction](/construction), and on what basis?
 
 ### Moral Relativism
 

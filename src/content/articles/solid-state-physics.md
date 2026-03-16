@@ -37,7 +37,7 @@ faq:
 
 # What Is Solid-State Physics?
 
-Solid-state physics is the branch of [physics](/physics) that studies how the atomic-scale structure and interactions within solid materials give rise to their macroscopic properties — electrical conductivity, magnetism, thermal behavior, optical characteristics, and mechanical strength. It's the science behind why copper conducts electricity, why diamond is hard, why silicon powers your phone, and why some materials become superconductors at low temperatures.
+Solid-state physics is the branch of [physics](/physics) that studies how the atomic-scale structure and interactions within solid materials give rise to their macroscopic properties — electrical conductivity, [magnetism](/magnetism), thermal behavior, optical characteristics, and mechanical strength. It's the science behind why copper conducts [electricity](/electricity), why diamond is hard, why silicon powers your phone, and why some materials become superconductors at low temperatures.
 
 More than half of all physicists worldwide work in this field or its parent discipline, condensed matter physics. That's not an accident — it's where the technology is.
 
@@ -117,7 +117,7 @@ Heat moves through solids by two mechanisms: electrons carrying kinetic energy (
 
 Diamond has the highest thermal conductivity of any natural material — about 2,200 watts per meter per kelvin — not because of electrons (it's an insulator) but because its stiff, symmetric crystal structure transmits phonons extraordinarily efficiently. Very few defects, very high speed of sound, very long phonon mean free path.
 
-This property is why diamond is used as a heat spreader in high-power electronics. Your [computer](/computer-hardware) might have diamond-like carbon coatings in its thermal management system.
+This property is why diamond is used as a heat spreader in high-power [electronics](/electronics). Your [computer](/computer-hardware) might have diamond-like carbon coatings in its thermal [management](/management) system.
 
 ### Specific Heat and the Einstein/Debye Models
 
@@ -185,8 +185,8 @@ Solid-state physics is far from finished. Several areas are producing discoverie
 
 ## Why It Shapes Everything
 
-Solid-state physics is sometimes called the most practically important branch of physics. That's a bold claim, but the evidence backs it up. The transistor. The laser. The LED. The solar cell. The hard drive. Fiber optics. MRI machines. All are direct products of solid-state physics research.
+Solid-state physics is sometimes called the most practically important branch of physics. That's a bold claim, but the evidence backs it up. The transistor. The laser. The LED. The solar cell. The hard drive. [Fiber optics](/fiber-optics). MRI machines. All are direct products of solid-state physics research.
 
-The field took shape in the 1930s and 1940s, when quantum mechanics was applied systematically to crystalline materials. Within two decades, it produced the transistor — arguably the most important invention of the 20th century. Today, the semiconductor industry alone generates over $500 billion in annual revenue, all built on the band theory that solid-state physicists worked out on blackboards in the 1930s.
+The field took shape in the 1930s and 1940s, when quantum mechanics was applied systematically to crystalline materials. Within two decades, it produced the transistor — arguably the most important [invention](/invention) of the 20th century. Today, the semiconductor industry alone generates over $500 billion in annual revenue, all built on the band theory that solid-state physicists worked out on blackboards in the 1930s.
 
 Understanding how atoms arrange themselves in solids, and how that arrangement creates macroscopic properties, is one of the most productive intellectual achievements in human history. The phone in your pocket is proof.

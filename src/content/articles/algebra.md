@@ -39,7 +39,7 @@ faq:
 
 # What Is Algebra?
 
-Algebra is the branch of mathematics that uses letters and symbols to represent numbers and quantities in equations and formulas. It provides a language for describing patterns, expressing general relationships, and solving problems where some values are unknown.
+Algebra is the branch of [mathematics](/mathematics) that uses letters and symbols to represent numbers and quantities in equations and formulas. It provides a language for describing patterns, expressing general relationships, and solving problems where some values are unknown.
 
 ## The Moment Math Gets Interesting
 
@@ -49,7 +49,7 @@ Arithmetic asks, "What's 7 plus 5?" Algebra asks, "What number, when you add 5 t
 
 And that shift changes everything. Suddenly you can answer questions you've never seen before. You can describe relationships that work for any number, not just the specific ones in front of you. You can build models of how things actually work in the real world.
 
-A 2013 study from the National Center for Education Statistics found that students who complete Algebra II in high school are more than twice as likely to earn a four-year college degree. That's not because quadratic equations come up in [English Literature](/english-literature) classes. It's because algebra trains a particular kind of abstract reasoning that transfers to almost every field.
+A 2013 study from the National Center for Education [Statistics](/statistics) found that students who complete Algebra II in high school are more than twice as likely to earn a four-year college degree. That's not because quadratic equations come up in [English Literature](/english-literature) classes. It's because algebra trains a particular kind of abstract reasoning that transfers to almost every field.
 
 ## Variables: Letters That Changed Everything
 
@@ -89,7 +89,7 @@ Linear equations model constant-rate situations. If you earn $15 per hour, your 
 
 ### Systems of Equations
 
-Real problems rarely involve just one unknown. Suppose you're mixing two solutions in a chemistry lab — one 10% acid, another 30% acid — to make 100 mL of 18% acid. You need two equations with two unknowns:
+Real problems rarely involve just one unknown. Suppose you're mixing two solutions in a [chemistry](/chemistry) lab — one 10% acid, another 30% acid — to make 100 mL of 18% acid. You need two equations with two unknowns:
 
 x + y = 100 (total volume)
 0.10x + 0.30y = 18 (total acid)
@@ -196,7 +196,7 @@ Algebra didn't appear out of nowhere. Its development spans thousands of years a
 
 **European Renaissance (1500s-1600s)**: Symbolic notation gradually replaced verbal descriptions. Francois Viete introduced using letters for known and unknown quantities. Rene Descartes connected algebra to geometry by inventing coordinate systems — the x-y axes you know from graphing. This fusion, analytic geometry, was arguably one of the most important intellectual achievements in history.
 
-**Modern era**: The 1800s brought abstract algebra, group theory, and eventually the formalization of algebraic structures that underpin modern physics and computer science. Today, algebraic thinking permeates virtually every quantitative discipline.
+**Modern era**: The 1800s brought abstract algebra, [group theory](/group-theory), and eventually the formalization of algebraic structures that underpin modern physics and [computer science](/computer-science). Today, algebraic thinking permeates virtually every quantitative discipline.
 
 ## Why Algebra Actually Matters (Beyond "You'll Need It Someday")
 
@@ -208,15 +208,15 @@ The ability to reason with unknowns — to manipulate things you can't see and d
 
 ### It's the Gateway to Every STEM Field
 
-Here's what most people miss: algebra isn't the hardest math you'll encounter. It's the easiest of the hard math. Calculus, statistics, linear algebra, [differential equations](/differential-equations), discrete mathematics — every advanced mathematical topic assumes you're fluent in algebra the way a novelist assumes you're fluent in grammar.
+Here's what most people miss: algebra isn't the hardest math you'll encounter. It's the easiest of the hard math. Calculus, statistics, [linear algebra](/linear-algebra), [differential equations](/differential-equations), discrete mathematics — every advanced mathematical topic assumes you're fluent in algebra the way a novelist assumes you're fluent in grammar.
 
-If you want to study physics, you need algebra. Engineering? Algebra. Computer science? Algebra. Economics? Algebra. Medicine requires statistics, which requires — you guessed it — algebra. The Bureau of Labor Statistics reports that STEM occupations had a median annual wage of $100,900 in 2022, compared to $40,120 for non-STEM. Algebra is the first gate.
+If you want to study physics, you need algebra. [Engineering](/engineering)? Algebra. Computer science? Algebra. Economics? Algebra. Medicine requires statistics, which requires — you guessed it — algebra. The Bureau of Labor Statistics reports that STEM occupations had a median annual wage of $100,900 in 2022, compared to $40,120 for non-STEM. Algebra is the first gate.
 
 ### It Powers Technology You Use Every Day
 
-Every Google search runs through algorithms (the word itself comes from al-Khwarizmi's name) that rely on linear algebra and algebraic optimization. [Machine learning](/machine-learning) models that recommend your Netflix shows, filter your email spam, and recognize your face all solve algebraic equations — millions of them, thousands of times per second.
+Every Google search runs through algorithms (the word itself comes from al-Khwarizmi's name) that rely on linear algebra and algebraic [optimization](/optimization). [Machine learning](/machine-learning) models that recommend your Netflix shows, filter your email spam, and recognize your face all solve algebraic equations — millions of them, thousands of times per second.
 
-Video game physics, GPS navigation, weather forecasting, medical imaging, financial markets — all built on algebraic foundations. You don't see the algebra, but it's running underneath everything.
+Video game physics, GPS [navigation](/navigation), weather forecasting, [medical imaging](/medical-imaging), financial markets — all built on algebraic foundations. You don't see the algebra, but it's running underneath everything.
 
 ### It Shows Up in Personal Finance
 
@@ -240,7 +240,7 @@ A reasonable question: if computers can solve any equation instantly, why learn 
 
 The answer is the same reason you learn to cook even though restaurants exist. Understanding the process gives you judgment that tools can't provide. A computer will happily solve an equation you set up wrong and give you a precise, confidently wrong answer. Only algebraic understanding lets you catch that mistake.
 
-More practically, programming is applied algebra. Variables in Python or JavaScript work exactly like variables in algebra — they store values that can change. Conditional logic (if-then statements) mirrors algebraic reasoning. Loops iterate through ranges of values. Data structures organize information using patterns that algebra describes. Knowing algebra doesn't just help you use computers — it helps you tell computers what to do.
+More practically, programming is applied algebra. Variables in Python or JavaScript work exactly like variables in algebra — they store values that can change. Conditional logic (if-then statements) mirrors algebraic reasoning. Loops iterate through ranges of values. [Data structures](/data-structures) organize information using patterns that algebra describes. Knowing algebra doesn't just help you use computers — it helps you tell computers what to do.
 
 Computer algebra systems like Wolfram Alpha, MATLAB, and even the solver in your phone's calculator app are magnificent tools. But they're tools for people who understand what they're asking for. The algebra isn't obsolete; the tedious arithmetic is.
 
@@ -250,25 +250,25 @@ Algebra doesn't exist in isolation. It connects to and supports practically ever
 
 **Geometry** becomes analytic geometry when you add coordinates. Every geometric shape can be described by an algebraic equation — circles, ellipses, parabolas, hyperbolas. The distance formula, the midpoint formula, slope — all algebra applied to spatial relationships.
 
-**Trigonometry** studies angles and triangles, but its identities are algebraic expressions. Simplifying trigonometric equations requires algebraic manipulation skills.
+**[Trigonometry](/trigonometry)** studies angles and triangles, but its identities are algebraic expressions. Simplifying trigonometric equations requires algebraic manipulation skills.
 
 **Calculus** is essentially the algebra of change and accumulation. Derivatives and integrals are defined and computed using algebraic operations. A weak algebra foundation makes calculus nearly impossible.
 
 **Statistics** uses algebraic formulas for everything from mean calculations to regression analysis to hypothesis testing. The regression equation that predicts one variable from another is literally a line of best fit — a linear algebraic expression.
 
-**Physics** expresses its laws algebraically. F = ma. E = mc-squared. V = IR. These aren't just formulas — they're algebraic relationships that tell you how physical quantities depend on each other. [Aerodynamics](/aerodynamics), thermodynamics, [quantum mechanics](/quantum-mechanics) — all expressed in the language of algebra.
+**Physics** expresses its laws algebraically. F = ma. E = mc-squared. V = IR. These aren't just formulas — they're algebraic relationships that tell you how physical quantities depend on each other. [Aerodynamics](/aerodynamics), [thermodynamics](/thermodynamics), [quantum mechanics](/quantum-mechanics) — all expressed in the language of algebra.
 
 ## Where Algebra Goes Next
 
 If elementary algebra is the ground floor, the building goes much higher.
 
-**Linear algebra** studies vectors, matrices, and linear transformations. It's the backbone of [computer graphics](/computer-graphics), quantum mechanics, and data science. Every time you rotate an object in a 3D video game, that's a matrix multiplication.
+**Linear algebra** studies vectors, matrices, and linear transformations. It's the backbone of [computer graphics](/computer-graphics), quantum mechanics, and [data science](/data-science). Every time you rotate an object in a 3D video game, that's a matrix multiplication.
 
-**[Abstract algebra](/abstract-algebra)** examines algebraic structures at their most general — groups, rings, and fields. It asks, "What are the fundamental rules that make algebra work, and what happens when you change those rules?" This leads to deep results in cryptography, coding theory, and [theoretical physics](/theoretical-physics).
+**[Abstract algebra](/abstract-algebra)** examines algebraic structures at their most general — groups, rings, and fields. It asks, "What are the fundamental rules that make algebra work, and what happens when you change those rules?" This leads to deep results in [cryptography](/cryptography), coding theory, and [theoretical physics](/theoretical-physics).
 
 **Algebraic geometry** merges algebra with geometry in sophisticated ways, studying geometric objects defined by polynomial equations. It's one of the most active areas of modern mathematical research.
 
-**Algebraic topology** uses algebraic tools to study shapes and spaces, classifying them by properties that don't change when you stretch or deform them. It has found unexpected applications in data analysis and robotics.
+**Algebraic topology** uses algebraic tools to study shapes and spaces, classifying them by properties that don't change when you stretch or deform them. It has found unexpected applications in [data analysis](/data-analysis) and robotics.
 
 ## Key Takeaways
 

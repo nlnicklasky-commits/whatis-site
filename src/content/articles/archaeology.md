@@ -39,15 +39,15 @@ faq:
 
 # What Is Archaeology?
 
-Archaeology is the scientific study of human history and prehistory through the excavation, analysis, and interpretation of material remains — artifacts, structures, biological remains, and landscapes left behind by past societies. It is the primary method for understanding the roughly 97% of human existence that predates written records.
+Archaeology is the scientific study of human history and [prehistory](/prehistory) through the excavation, analysis, and interpretation of material remains — artifacts, structures, biological remains, and landscapes left behind by past societies. It is the primary method for understanding the roughly 97% of human existence that predates written records.
 
 ## More Than Digging Holes
 
 Here's the popular image: a sun-baked figure in a fedora brushes sand off a golden artifact. It makes for great cinema. It also misrepresents about 95% of what archaeologists actually do.
 
-Real archaeology is painstaking, methodical, and — frankly — often tedious. For every hour spent excavating, archaeologists spend dozens cataloging finds, analyzing soil samples, writing reports, and arguing about what it all means. The glamour-to-paperwork ratio is heavily skewed toward paperwork.
+Real archaeology is painstaking, methodical, and — frankly — often tedious. For every hour spent excavating, archaeologists spend dozens cataloging finds, analyzing soil samples, [writing](/writing) reports, and arguing about what it all means. The glamour-to-paperwork ratio is heavily skewed toward paperwork.
 
-But that methodical approach is exactly what makes archaeology powerful. Unlike treasure hunting (which destroys context to grab objects), archaeology treats the *relationships* between things as more important than the things themselves. A gold coin is interesting. A gold coin found in a specific layer of soil, next to specific pottery types, inside a structure with a known [construction](/construction) date — that tells a story.
+But that methodical approach is exactly what makes archaeology powerful. Unlike treasure [hunting](/hunting) (which destroys context to grab objects), archaeology treats the *relationships* between things as more important than the things themselves. A gold coin is interesting. A gold coin found in a specific layer of soil, next to specific [pottery](/pottery) types, inside a structure with a known [construction](/construction) date — that tells a story.
 
 The fundamental principle is this: once you dig something up, you can never un-dig it. Excavation is destruction. Every site is excavated exactly once. That's why archaeologists document obsessively — measured drawings, photographs, 3D scans, GPS coordinates, soil descriptions. The records become the permanent archive once the physical site is gone.
 
@@ -61,7 +61,7 @@ The Renaissance sparked renewed interest in the classical past. Italian scholars
 
 The shift toward [scientific method](/scientific-method) came gradually in the 19th century. Three developments were critical:
 
-**Stratigraphy.** Geologists established that rock layers are deposited sequentially — deeper means older. Archaeologists applied the same logic to cultural deposits. A tool found three meters deep is generally older than one found at one meter. This sounds obvious now, but it was a breakthrough.
+**Stratigraphy.** Geologists established that rock layers are deposited sequentially — deeper means older. Archaeologists applied the same [logic](/logic) to cultural deposits. A tool found three meters deep is generally older than one found at one meter. This sounds obvious now, but it was a breakthrough.
 
 **The three-age system.** In 1836, Danish antiquarian Christian Jurgensen Thomsen organized his museum collection into Stone Age, Bronze Age, and Iron Age. This gave archaeology its first chronological framework — a way to organize the vast stretch of unrecorded human history.
 
@@ -69,7 +69,7 @@ The shift toward [scientific method](/scientific-method) came gradually in the 1
 
 By the early 20th century, archaeology had developed professional standards, university departments, and specialized methods. Mortimer Wheeler's excavation techniques in the 1920s-1950s introduced the grid system still used today. V. Gordon Childe's syntheses connected individual sites into broad narratives of cultural change.
 
-The "New Archaeology" of the 1960s, led by Lewis Binford and others, pushed the field toward explicit theory-testing and scientific rigor. Post-processual archaeologists in the 1980s argued for more attention to meaning, symbolism, and the perspectives of marginalized peoples. The debate between these approaches continues, but both enriched the discipline.
+The "New Archaeology" of the 1960s, led by Lewis Binford and others, pushed the field toward explicit theory-testing and scientific rigor. Post-processual archaeologists in the 1980s argued for more attention to meaning, symbolism, and the perspectives of marginalized peoples. The [debate](/debate) between these approaches continues, but both enriched the discipline.
 
 ## How Archaeologists Find Sites
 
@@ -101,7 +101,7 @@ Once a site is identified, excavation follows a careful sequence.
 
 ### Planning and Permits
 
-No legitimate archaeologist starts digging without permits. In most countries, archaeological sites are protected by law. You need permission from landowners, government antiquities departments, and often local communities. Many countries require that excavation results be published and finds deposited in national museums.
+No legitimate archaeologist starts digging without permits. In most countries, archaeological sites are protected by law. You need permission from landowners, [government](/government) antiquities departments, and often local communities. Many countries require that excavation results be published and finds deposited in national museums.
 
 ### Setting Up the Grid
 
@@ -117,7 +117,7 @@ Reading these layers is as much art as science. Experienced excavators can disti
 
 Every artifact gets a label noting its grid square, layer, depth, and date of excavation. Photographs and drawings document the appearance of each layer before it's removed. Today, photogrammetry and 3D scanning create detailed digital models of the excavation as it progresses.
 
-Soil samples are collected for environmental analysis — pollen reveals ancient vegetation, phytoliths indicate crop processing, and chemical analysis can identify areas used for cooking, metalworking, or animal penning.
+Soil samples are collected for environmental analysis — pollen reveals ancient vegetation, phytoliths indicate crop processing, and chemical analysis can identify areas used for [cooking](/cooking), [metalworking](/metalworking), or animal penning.
 
 ### Post-Excavation Analysis
 
@@ -141,7 +141,7 @@ Relative dating tells you *sequence* — what came before what — but not exact
 
 Absolute dating provides actual ages (within margins of error).
 
-**[Radiocarbon dating](/radiocarbon-dating) (carbon-14)** revolutionized archaeology after its development by Willard Libby in 1949 (which won him the Nobel Prize in Chemistry in 1960). Living organisms absorb carbon-14 from the atmosphere. After death, C-14 decays at a known rate — half-life of approximately 5,730 years. By measuring the remaining C-14 in organic material (wood, bone, charcoal, shell), you can determine when the organism died. The method works up to about 50,000 years ago.
+**[Radiocarbon dating](/radiocarbon-dating) (carbon-14)** revolutionized archaeology after its development by Willard Libby in 1949 (which won him the Nobel Prize in [Chemistry](/chemistry) in 1960). Living organisms absorb carbon-14 from the atmosphere. After death, C-14 decays at a known rate — half-life of approximately 5,730 years. By measuring the remaining C-14 in organic material (wood, bone, charcoal, shell), you can determine when the organism died. The method works up to about 50,000 years ago.
 
 **Dendrochronology** (tree-ring dating) counts and matches annual growth rings in wood. Overlapping sequences of ring patterns have been built up going back over 10,000 years in some regions. When applicable, it provides dates precise to the exact year — sometimes even the season.
 
@@ -157,7 +157,7 @@ The field is far more specialized than outsiders realize.
 
 This covers human existence before writing — which means most of human history. The oldest known stone tools, from Lomekwi in Kenya, date to about 3.3 million years ago. Writing was invented around 3,200 BCE in Mesopotamia. That's roughly 3.3 million years of toolmaking humans versus about 5,200 years of written records.
 
-Prehistoric archaeologists reconstruct entire lifeways — diet, technology, social organization, trade networks, symbolic behavior — from material remains alone. It requires creative interpretation and can be controversial precisely because there are no texts to confirm or deny hypotheses.
+Prehistoric archaeologists reconstruct entire lifeways — diet, technology, social organization, [trade](/trade) networks, symbolic behavior — from material remains alone. It requires creative interpretation and can be controversial precisely because there are no texts to confirm or deny hypotheses.
 
 ### Historical Archaeology
 
@@ -167,7 +167,7 @@ James Deetz's study of colonial New England, for example, showed that material c
 
 ### [Underwater Archaeology](/underwater-archaeology)
 
-Shipwrecks, submerged settlements, and underwater cultural heritage require specialized techniques — diving, submersibles, and underwater excavation tools. The Mary Rose (Henry VIII's flagship, sunk in 1545 and raised in 1982) and the Titanic (explored starting in 1985) are famous examples, but underwater archaeology also studies ancient harbors, flooded prehistoric landscapes, and submerged indigenous sites.
+Shipwrecks, submerged settlements, and underwater cultural heritage require specialized techniques — [diving](/diving), submersibles, and underwater excavation tools. The Mary Rose (Henry VIII's flagship, sunk in 1545 and raised in 1982) and the Titanic (explored starting in 1985) are famous examples, but underwater archaeology also studies ancient harbors, flooded prehistoric landscapes, and submerged indigenous sites.
 
 ### Bioarchaeology
 
@@ -175,7 +175,7 @@ Focuses on human remains. Skeletal analysis reveals age at death, sex, stature, 
 
 ### Environmental Archaeology
 
-Studies past environments and human-environment interactions. What did ancient landscapes look like? How did climate change affect societies? When did humans start modifying their environment? This subfield uses pollen analysis, animal and plant remains, soil chemistry, and isotopic analysis.
+Studies past environments and human-environment interactions. What did ancient landscapes look like? How did [climate change](/climate-change) affect societies? When did humans start modifying their environment? This subfield uses pollen analysis, animal and plant remains, soil chemistry, and isotopic analysis.
 
 ### Cultural [Resource Management](/resource-management) (CRM)
 
@@ -193,7 +193,7 @@ A few finds have fundamentally reshaped our understanding of the past.
 
 **Terracotta Army (1974).** Farmers digging a well near Xi'an, China, found the first of over 8,000 life-sized clay soldiers, each with unique facial features, guarding the tomb of Emperor Qin Shi Huang (died 210 BCE). The scale of the find was almost unbelievable.
 
-**Gobekli Tepe (1990s excavation).** This site in southeastern Turkey features massive stone circles built around 9600 BCE — before agriculture, before pottery, before permanent settlements. It upended the assumption that monumental [architecture](/architecture) required settled agricultural societies. Hunter-gatherers built it, suggesting that the desire for communal ritual spaces may have *driven* the transition to farming, not the other way around.
+**Gobekli Tepe (1990s excavation).** This site in southeastern Turkey features massive stone circles built around 9600 BCE — before [agriculture](/agriculture), before pottery, before permanent settlements. It upended the assumption that monumental [architecture](/architecture) required settled agricultural societies. Hunter-gatherers built it, suggesting that the desire for communal ritual spaces may have *driven* the transition to [farming](/farming), not the other way around.
 
 ## Controversies and Ethics
 

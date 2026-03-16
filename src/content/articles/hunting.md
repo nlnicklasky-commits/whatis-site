@@ -39,7 +39,7 @@ The motivations have changed over millennia but have not disappeared:
 
 **Food.** Millions of people hunt primarily for meat. Wild game — venison, elk, duck, turkey, wild boar — is lean, free of antibiotics and hormones, and often more flavorful than commercially raised meat. A single adult deer yields 50 to 80 pounds of meat. For rural families, hunting can provide a significant portion of annual protein.
 
-**Wildlife management.** In much of North America, large predators (wolves, mountain lions) have been reduced or eliminated. Without predation, prey species — particularly white-tailed deer — overpopulate. Overpopulated deer destroy forests by eating young trees, cause thousands of car accidents annually, and spread diseases like chronic wasting disease. Regulated hunting keeps populations in balance with their habitat.
+**Wildlife [management](/management).** In much of North America, large predators (wolves, mountain lions) have been reduced or eliminated. Without predation, prey species — particularly white-tailed deer — overpopulate. Overpopulated deer destroy forests by eating young trees, cause thousands of car accidents annually, and spread diseases like chronic wasting disease. Regulated hunting keeps populations in balance with their habitat.
 
 **Conservation funding.** This one surprises people. The Pittman-Robertson Act of 1937 placed an 11% excise tax on firearms and ammunition, directing the revenue to state wildlife agencies for habitat restoration and research. Since its passage, the act has generated over $15 billion. Add hunting license fees and tag [sales](/sales), and hunters collectively contribute roughly $1.6 billion per year to conservation — far more than any other group.
 

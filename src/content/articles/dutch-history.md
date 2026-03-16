@@ -35,7 +35,7 @@ faq:
 
 # What Is Dutch History?
 
-Dutch history is the story of how the Netherlands — a small, low-lying territory on Europe's North Sea coast — evolved from a collection of waterlogged provinces into one of the most prosperous and culturally influential nations on Earth. It's a history shaped by water, trade, religious tolerance (often imperfect), and an outsized global impact that few countries of its size have ever matched.
+Dutch history is the story of how the Netherlands — a small, low-lying territory on Europe's North Sea coast — evolved from a collection of waterlogged provinces into one of the most prosperous and culturally influential nations on Earth. It's a history shaped by water, [trade](/trade), religious tolerance (often imperfect), and an outsized global impact that few countries of its size have ever matched.
 
 ## Before the Netherlands Was the Netherlands
 
@@ -45,7 +45,7 @@ The Frisians, who inhabited the coastal areas, were fierce enough that the Roman
 
 After Rome's collapse, the region passed through Frankish rule and eventually became part of the Holy Roman Empire. During the medieval period, the Low Countries (which included modern Belgium and Luxembourg along with the Netherlands) were divided into numerous small counties, duchies, and bishoprics. The Counts of Holland, the Dukes of Brabant, and the Bishops of Utrecht all exercised local power.
 
-Two things defined medieval Dutch life: [water management](/water-management) and trade. The Dutch began building dikes as early as the 11th century, gradually reclaiming land from the sea and creating the "polders" — tracts of land enclosed by dikes and kept dry by pumping. This wasn't just [engineering](/engineering); it was a social project that required collective decision-making and cooperation, which some historians argue shaped the Dutch culture of consensus and pragmatism.
+Two things defined medieval Dutch life: [water management](/water-management) and trade. The Dutch began building dikes as early as the 11th century, gradually reclaiming land from the sea and creating the "polders" — tracts of land enclosed by dikes and kept dry by pumping. This wasn't just [engineering](/engineering); it was a social project that required collective decision-making and cooperation, which some historians argue shaped the Dutch culture of consensus and [pragmatism](/pragmatism).
 
 ## The Revolt Against Spain
 
@@ -65,9 +65,9 @@ How? Several factors converged:
 
 **Trade.** The Dutch dominated global maritime commerce. The Dutch East India Company (VOC), founded in 1602, was the world's first publicly traded company, the first to issue stock, and arguably the first multinational corporation. At its peak, the VOC had 50,000 employees, a private army, and a fleet larger than many national navies. It controlled the spice trade from the Indonesian archipelago and operated trading posts from Japan to South Africa.
 
-**Finance.** Amsterdam invented or perfected many of the financial instruments we still use: stock exchanges, futures contracts, options, central banking. The Amsterdam Exchange Bank (Wisselbank), founded in 1609, brought stability to the chaotic world of European currencies. The city became Europe's financial capital — a position it held for over a century.
+**[Finance](/finance).** Amsterdam invented or perfected many of the financial instruments we still use: stock exchanges, futures contracts, options, central banking. The Amsterdam Exchange Bank (Wisselbank), founded in 1609, brought stability to the chaotic world of European currencies. The city became Europe's financial capital — a position it held for over a century.
 
-**Religious tolerance.** By the standards of the 17th century, the Dutch Republic was remarkably tolerant. Sephardic Jews expelled from Spain and Portugal, Huguenots fleeing France, and dissenters from across Europe found refuge in the Netherlands. This attracted talent and capital. The Pilgrims lived in Leiden before sailing to America on the Mayflower in 1620.
+**Religious tolerance.** By the standards of the 17th century, the Dutch Republic was remarkably tolerant. Sephardic Jews expelled from Spain and Portugal, Huguenots fleeing France, and dissenters from across Europe found refuge in the Netherlands. This attracted talent and capital. The Pilgrims lived in Leiden before [sailing](/sailing) to America on the Mayflower in 1620.
 
 **Art and science.** The Golden Age produced Rembrandt van Rijn, Johannes Vermeer, Frans Hals, and dozens of other masters. Antonie van Leeuwenhoek built microscopes and discovered bacteria. Christiaan Huygens invented the pendulum clock and developed the wave theory of light. Hugo Grotius laid the foundations of [international law](/international-law). Baruch Spinoza, a Jewish philosopher in Amsterdam, wrote some of the most influential philosophical works in [Western thought](/early-modern-history).
 
@@ -81,7 +81,7 @@ The 18th century was a period of relative decline. Britain surpassed the Netherl
 
 After Napoleon's defeat, the Congress of Vienna created the Kingdom of the Netherlands in 1815, uniting the northern and southern Low Countries under King William I of Orange. The marriage didn't last — Belgium revolted and achieved independence in 1830. Luxembourg eventually separated too.
 
-The 19th-century Netherlands was a relatively quiet constitutional monarchy. Industrialization came later here than in Britain or Germany. The country maintained its colonial empire in Indonesia, Suriname, and the Caribbean while developing parliamentary democracy at home.
+The 19th-century Netherlands was a relatively quiet constitutional [monarchy](/monarchy). Industrialization came later here than in Britain or Germany. The country maintained its colonial empire in Indonesia, Suriname, and the Caribbean while developing parliamentary democracy at home.
 
 ## [World War II](/world-war-ii)
 
@@ -107,4 +107,4 @@ Today, the Netherlands has a population of about 17.8 million in a territory rou
 
 One thread runs through all of Dutch history: the relationship with water. A third of the country is below sea level. Without dikes, pumps, and constant vigilance, much of the Netherlands would flood. The Delta Works — a massive system of storm surge barriers, dams, and dikes built after the catastrophic North Sea flood of 1953 (which killed 1,836 people) — is considered one of the seven modern wonders of the world.
 
-Climate change and rising sea levels pose an existential challenge. The Dutch are, characteristically, already planning for it — investing in floating [architecture](/architecture), managed flooding areas, and [advanced water engineering](/civil-engineering) that the rest of the world is increasingly studying and copying. If any nation is prepared for rising seas, it's the one that spent a thousand years fighting them.
+[Climate change](/climate-change) and rising sea levels pose an existential challenge. The Dutch are, characteristically, already planning for it — investing in floating [architecture](/architecture), managed flooding areas, and [advanced water engineering](/civil-engineering) that the rest of the world is increasingly studying and copying. If any nation is prepared for rising seas, it's the one that spent a thousand years fighting them.

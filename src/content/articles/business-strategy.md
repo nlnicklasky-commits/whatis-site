@@ -79,7 +79,7 @@ Done poorly, SWOT becomes a brainstorming exercise that generates long lists wit
 
 ### The Value Chain
 
-Porter's value chain breaks a company into discrete activities — inbound [logistics](/logistics), operations, outbound logistics, [marketing](/marketing) and sales, and service (primary activities) plus procurement, technology development, human [resource management](/resource-management), and firm infrastructure (support activities).
+Porter's value chain breaks a company into discrete activities — inbound [logistics](/logistics), operations, outbound logistics, [marketing](/marketing) and [sales](/sales), and service (primary activities) plus procurement, technology development, human [resource management](/resource-management), and firm infrastructure (support activities).
 
 The insight: competitive advantage comes from performing specific activities better or differently than competitors. Southwest Airlines doesn't just have "lower costs" — it achieves lower costs through specific value chain choices: single aircraft type (lower maintenance and training costs), no assigned seating (faster boarding and turnaround), point-to-point routes (no hub complexity), and minimal frills (no meals, no first class).
 
@@ -103,7 +103,7 @@ Compete by being the lowest-cost producer in your industry. This doesn't necessa
 
 Walmart is the defining cost leader. Their entire operation — from supply chain logistics to store design to employee compensation to technology investment — is optimized for cost reduction. In 2024, Walmart's operating expenses as a percentage of revenue were roughly 20% — significantly below most retailers.
 
-Cost leadership requires scale, operational efficiency, and relentless cost management. It's difficult to achieve and even harder to sustain — competitors continuously find ways to cut costs. But done well, it creates a powerful competitive position because the cost leader can profitably match any competitor's price.
+Cost leadership requires scale, operational efficiency, and relentless cost [management](/management). It's difficult to achieve and even harder to sustain — competitors continuously find ways to cut costs. But done well, it creates a powerful competitive position because the cost leader can profitably match any competitor's price.
 
 ### Differentiation
 
@@ -231,7 +231,7 @@ Several forces are changing how strategy is practiced.
 
 **Ecosystem thinking**: Competition increasingly happens between ecosystems — networks of companies that co-create value — rather than between individual firms. Apple vs. Google isn't just two companies competing; it's two entire ecosystems of developers, device makers, content providers, and service companies.
 
-**Sustainability integration**: Climate change, resource scarcity, and social expectations are becoming strategic variables, not just [business ethics](/business-ethics) concerns. Companies that don't account for environmental and social factors in their strategy face regulatory, reputational, and operational risks that can undermine their competitive position.
+**Sustainability integration**: [Climate change](/climate-change), resource scarcity, and social expectations are becoming strategic variables, not just [business ethics](/business-ethics) concerns. Companies that don't account for environmental and social factors in their strategy face regulatory, reputational, and operational risks that can undermine their competitive position.
 
 ## Key Takeaways
 

@@ -47,7 +47,7 @@ This is why your "simple" attempt to plan a week often falls apart by Tuesday. Y
 
 **Dependencies** are tasks that can't start until other tasks finish. You can't paint a wall before the drywall is hung. In [project management](/project-management)), mapping these dependencies correctly is often the difference between a project finishing on time and one that drags on for months.
 
-**Constraints** are limits on when or how work can happen. A meeting room is available only from 2 to 4 PM. A specialist works only on Tuesdays. A permit must be obtained before construction begins. Constraints narrow your options and force trade-offs.
+**Constraints** are limits on when or how work can happen. A meeting room is available only from 2 to 4 PM. A specialist works only on Tuesdays. A permit must be obtained before construction begins. Constraints narrow your options and force [trade](/trade)-offs.
 
 **Buffer time** — also called slack or float — is intentional empty space in a schedule. Beginners tend to pack schedules tightly, leaving no room for things going wrong. Experienced schedulers build in buffers because things always go wrong. A good rule of thumb: add 20-30% buffer to any time estimate.
 
@@ -93,7 +93,7 @@ Digital tools (Google Calendar, Asana, Monday.com, Microsoft Project) offer powe
 
 But there's evidence that analog methods — paper planners, whiteboards, sticky notes — work better for personal scheduling. A study from Princeton and UCLA found that [writing](/writing) by hand engages deeper cognitive processing than typing. The physical act of writing a schedule may help you internalize and commit to it more strongly.
 
-The pragmatic approach: use digital tools for shared schedules and complex projects, analog methods for personal daily planning. Many productive people use both — a project management app for team coordination and a paper notebook for their own daily schedule.
+The pragmatic approach: use digital tools for shared schedules and complex projects, analog methods for personal daily planning. Many productive people use both — a project [management](/management) app for team coordination and a paper notebook for their own daily schedule.
 
 ## Scheduling Pitfalls
 

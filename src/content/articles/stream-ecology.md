@@ -37,7 +37,7 @@ faq:
 
 # What Is Stream Ecology?
 
-Stream ecology is the scientific study of the organisms that live in flowing freshwater environments — streams, creeks, brooks, and rivers — and how those organisms interact with each other and with their physical surroundings. It's a field that sits at the intersection of [biology](/biology), [hydrology](/hydrology), [chemistry](/chemistry), and geology, because understanding a stream requires understanding all of these simultaneously.
+Stream [ecology](/ecology) is the scientific study of the organisms that live in flowing freshwater environments — streams, creeks, brooks, and rivers — and how those organisms interact with each other and with their physical surroundings. It's a field that sits at the intersection of [biology](/biology), [hydrology](/hydrology), [chemistry](/chemistry), and [geology](/geology), because understanding a stream requires understanding all of these simultaneously.
 
 ## Why Streams Are Special
 
@@ -71,7 +71,7 @@ The substrate also stores organic matter. The spaces between gravel particles �
 
 Stream temperature controls the metabolic rates of cold-blooded aquatic organisms, the amount of dissolved oxygen the water can hold, and the timing of life cycle events like insect emergence and fish spawning.
 
-Shade from riparian trees is the primary temperature regulator in small streams. Remove the trees, and water temperatures can rise 5-10°C — enough to eliminate cold-water species like trout and many pollution-sensitive invertebrates. Climate change is warming streams globally, with measurable effects on species distributions, timing of biological events, and community composition.
+Shade from riparian trees is the primary temperature regulator in small streams. Remove the trees, and water temperatures can rise 5-10°C — enough to eliminate cold-water species like trout and many pollution-sensitive invertebrates. [Climate change](/climate-change) is warming streams globally, with measurable effects on species distributions, timing of biological events, and community composition.
 
 ### Chemistry
 

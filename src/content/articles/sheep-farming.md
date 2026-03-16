@@ -73,7 +73,7 @@ The math works out when you have enough sheep, good genetics, low death loss, an
 
 **Predators** are every sheep farmer's headache. Coyotes, dogs, wolves, bears, and eagles all prey on sheep, particularly lambs. Guard animals — livestock guardian dogs, donkeys, or llamas — are the primary defense. Guardian dogs (Great Pyrenees, Anatolian Shepherds, Maremmas) live with the flock full-time and are remarkably effective at deterring predators.
 
-**Parasites** — particularly internal worms like *Haemonchus contortus* (barber pole worm) — are the single biggest health challenge. These parasites cause anemia, weight loss, and death in severe cases. Climate change is expanding parasite ranges into previously safe areas. Rotational grazing, genetic selection for parasite resistance, and targeted deworming (rather than routine treatment) are the current best practices.
+**Parasites** — particularly internal worms like *Haemonchus contortus* (barber pole worm) — are the single biggest health challenge. These parasites cause anemia, weight loss, and death in severe cases. [Climate change](/climate-change) is expanding parasite ranges into previously safe areas. Rotational grazing, genetic selection for parasite resistance, and targeted deworming (rather than routine treatment) are the current best practices.
 
 **Market volatility** affects profitability. Lamb prices fluctuate with demand, imports (Australia and New Zealand export heavily), and feed costs. Wool prices have been depressed for decades as synthetic fibers dominate — a major reversal from the era when wool was a primary source of wealth.
 

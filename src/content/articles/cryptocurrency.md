@@ -47,7 +47,7 @@ Cryptocurrency removes the need for this trusted middleman by using [cryptograph
 
 ## The Money Problem Bitcoin Solved
 
-In 2008, during the global financial crisis, an anonymous person (or group) using the pseudonym Satoshi Nakamoto published the Bitcoin whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System." The paper proposed a solution to a longstanding computer science problem: how can a network of untrusting computers agree on a shared transaction history without a central authority?
+In 2008, during the global financial crisis, an anonymous person (or group) using the pseudonym Satoshi Nakamoto published the Bitcoin whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System." The paper proposed a solution to a longstanding [computer science](/computer-science) problem: how can a network of untrusting computers agree on a shared transaction history without a central authority?
 
 Before Bitcoin, this was considered theoretically impossible. Computers on a network don't trust each other, so how could they agree on which transactions are valid? What's to stop someone from claiming they spent the same digital coin twice?
 
@@ -63,7 +63,7 @@ When you send cryptocurrency, you use your private key to digitally sign the tra
 
 The blockchain is where all transactions are recorded. Instead of one central ledger (like a bank's database), thousands of computers around the world each maintain a complete copy. When you send Bitcoin to someone, your transaction gets broadcast to the network, miners or validators verify it's legitimate, and it gets included in the next block. Once a transaction is a few blocks deep in the chain, reversing it would require recalculating the cryptographic work for all subsequent blocks—economically impossible.
 
-Different cryptocurrencies use different consensus mechanisms to decide how the network agrees on transactions. Bitcoin uses proof-of-work, where miners spend electricity to solve puzzles. Ethereum originally used proof-of-work but switched to proof-of-stake in 2022, where validators stake their own coins as collateral instead of solving puzzles. With stake-based systems, trying to cheat the network causes you to lose your staked coins, so honest behavior is economically rational.
+Different cryptocurrencies use different consensus mechanisms to decide how the network agrees on transactions. Bitcoin uses proof-of-work, where miners spend [electricity](/electricity) to solve puzzles. Ethereum originally used proof-of-work but switched to proof-of-stake in 2022, where validators stake their own coins as collateral instead of solving puzzles. With stake-based systems, trying to cheat the network causes you to lose your staked coins, so honest behavior is economically rational.
 
 ## Bitcoin: The First and Most Famous Cryptocurrency
 
@@ -71,9 +71,9 @@ Bitcoin launched on January 3, 2009, with Satoshi mining the first block manuall
 
 Bitcoin's early value came from cryptography enthusiasts and libertarians who believed in removing governments from money. In 2010, someone famously paid 10,000 Bitcoin for two pizzas—a transaction that would be worth hundreds of millions of dollars today. The price was then under a cent per coin.
 
-Bitcoin is deliberately designed to be slow and expensive to change. Its protocol hard-wires in economic incentives: miners earn newly created Bitcoin plus transaction fees for maintaining the network, and there's a fixed supply cap of 21 million Bitcoin. This scarcity and fixed supply are intentional—Bitcoin's founder wanted a currency that couldn't be arbitrarily inflated by government printing.
+Bitcoin is deliberately designed to be slow and expensive to change. Its protocol hard-wires in economic incentives: miners earn newly created Bitcoin plus transaction fees for maintaining the network, and there's a fixed supply cap of 21 million Bitcoin. This scarcity and fixed supply are intentional—Bitcoin's founder wanted a currency that couldn't be arbitrarily inflated by [government](/government) printing.
 
-Bitcoin's transaction speed is limited by design. The Bitcoin network processes about 7 transactions per second, while Visa processes 24,000. This slowness is the trade-off for decentralization: faster processing would require centralization that defeats the purpose.
+Bitcoin's transaction speed is limited by design. The Bitcoin network processes about 7 transactions per second, while Visa processes 24,000. This slowness is the [trade](/trade)-off for decentralization: faster processing would require centralization that defeats the purpose.
 
 Over 16 years, Bitcoin has become the most proven and tested cryptocurrency, though it also has significant limitations. It consumes tremendous energy, transactions are slow and expensive during peak times, and it's limited to simple payments and cannot support complex financial applications.
 
@@ -95,7 +95,7 @@ Bitcoin and Ethereum dominate by market capitalization, but thousands of other c
 
 **Stablecoins** like USDC and USDT maintain a 1:1 exchange rate with the US dollar, combining crypto's benefits (fast, decentralized transfer) with price stability. They're essential infrastructure for DeFi and reduce the volatility problem that makes crypto impractical for everyday spending.
 
-**Layer 2 solutions** like Lightning Network and Polygon build on top of Bitcoin and Ethereum to dramatically increase transaction speed and reduce fees, while inheriting security from the underlying blockchain. This is where practical applications like Bitcoin payments and Ethereum gaming actually happen.
+**Layer 2 solutions** like Lightning Network and Polygon build on top of Bitcoin and Ethereum to dramatically increase transaction speed and reduce fees, while inheriting security from the underlying blockchain. This is where practical applications like Bitcoin payments and Ethereum [gaming](/gaming) actually happen.
 
 **Altcoins** is the catch-all term for thousands of alternative cryptocurrencies. Some introduce genuine innovation, while others are straightforward scams. The barrier to entry is near-zero—anyone can create a token with a few hours of coding—which explains why most new cryptocurrencies fail.
 
@@ -115,9 +115,9 @@ Despite crypto's wild west reputation, genuine use cases are emerging:
 
 ## The Environmental Concern That Actually Matters
 
-Bitcoin's proof-of-work consensus is the elephant in the room. Mining uses approximately 150 terawatt-hours of electricity annually—comparable to a country's consumption. The environmental impact depends heavily on the energy grid's composition: mining powered by fossil fuels is genuinely problematic, while mining powered by renewable energy is a different story.
+Bitcoin's proof-of-work consensus is the elephant in the room. Mining uses approximately 150 terawatt-hours of electricity annually—comparable to a country's consumption. The environmental impact depends heavily on the energy grid's composition: mining powered by fossil fuels is genuinely problematic, while mining powered by [renewable energy](/renewable-energy) is a different story.
 
-Proof-of-stake cryptocurrencies like Ethereum after 2022 use 99.95% less energy because they don't rely on competitive computation. This suggests the environmental problem isn't inherent to cryptocurrency—it's inherent to proof-of-work, which was a clever engineering solution that now looks increasingly unnecessary.
+Proof-of-stake cryptocurrencies like Ethereum after 2022 use 99.95% less energy because they don't rely on competitive computation. This suggests the environmental problem isn't inherent to cryptocurrency—it's inherent to proof-of-work, which was a clever [engineering](/engineering) solution that now looks increasingly unnecessary.
 
 That said, cryptocurrency mining has created economic incentives for renewable energy development in some regions, because miners prefer cheap electricity and renewable energy is increasingly the cheapest source.
 

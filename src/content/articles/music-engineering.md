@@ -37,9 +37,9 @@ faq:
 
 # What Is Music Engineering?
 
-Music engineering is the technical discipline of capturing, manipulating, and reproducing sound for musical recordings. When you hear a perfectly balanced mix on your headphones — every instrument sitting in its own space, the vocals clear and present, the bass thumping without overwhelming everything else — that's the work of a music engineer.
+Music [engineering](/engineering) is the technical discipline of capturing, manipulating, and reproducing sound for musical recordings. When you hear a perfectly balanced mix on your headphones — every instrument sitting in its own space, the vocals clear and present, the bass thumping without overwhelming everything else — that's the work of a music engineer.
 
-The title gets used somewhat loosely, but fundamentally, a music engineer is the person who understands the physics of [sound](/acoustics), the electronics of audio equipment, the mathematics of [digital signal processing](/digital-signal-processing), and the artistic judgment to make all of it serve the music. They're the bridge between a musical performance and the recording you actually hear.
+The title gets used somewhat loosely, but fundamentally, a music engineer is the person who understands the [physics](/physics) of [sound](/acoustics), the [electronics](/electronics) of audio equipment, the [mathematics](/mathematics) of [digital signal processing](/digital-signal-processing), and the artistic judgment to make all of it serve the music. They're the bridge between a musical performance and the recording you actually hear.
 
 ## Recording, Mixing, Mastering — The Three Acts
 
@@ -61,7 +61,7 @@ The recording environment matters too, which is where [acoustics](/acoustics) be
 
 ### Mixing
 
-If recording is capturing raw ingredients, mixing is cooking the meal.
+If recording is capturing raw ingredients, mixing is [cooking](/cooking) the meal.
 
 A modern pop song might have 80 to 200 individual tracks: drums (each mic is a separate track), bass, multiple guitar parts, keyboards, synths, lead vocals, backing vocals (potentially dozens of them), sound effects, and samples. Mixing is the process of balancing, processing, and blending all of these into a cohesive stereo (or increasingly, spatial audio) presentation.
 
@@ -77,7 +77,7 @@ The mixing engineer makes hundreds of decisions per song:
 
 **Panning.** In stereo, the engineer decides where each sound sits between left and right speakers. Drums might be spread across the stereo field, guitars panned to opposite sides, vocals dead center. Good panning creates width and separation.
 
-**Automation.** Most mixing decisions aren't static — they change throughout the song. The reverb might increase during the chorus. The bass might get louder during the bridge. The EQ on the vocals might shift between sections. Modern DAWs allow the engineer to automate virtually every parameter, drawing precise curves that change settings over time.
+**Automation.** Most mixing decisions aren't static — they change throughout the song. The reverb might increase during the chorus. The bass might get louder during the bridge. The EQ on the vocals might shift between sections. Modern DAWs allow the engineer to automate virtually every parameter, [drawing](/drawing) precise curves that change settings over time.
 
 ### Mastering
 
@@ -87,7 +87,7 @@ A mastering engineer takes the mixed stereo file and makes final adjustments: en
 
 Mastering also handles format-specific preparation. A song destined for vinyl has different technical requirements than one going to Spotify. CD mastering has its own standards. The mastering engineer ensures the music translates well across all playback systems — from car speakers to earbuds to club PA systems.
 
-The famous "loudness wars" of the 2000s and 2010s happened at the mastering stage. Engineers and labels pushed for louder and louder masters, crushing active range to make songs seem punchier on radio. Spotify and Apple Music's loudness normalization (which automatically adjusts volume so quiet and loud masters play at similar levels) has somewhat reduced this pressure, but the debate continues.
+The famous "loudness wars" of the 2000s and 2010s happened at the mastering stage. Engineers and labels pushed for louder and louder masters, crushing active range to make songs seem punchier on radio. Spotify and Apple Music's loudness normalization (which automatically adjusts volume so quiet and loud masters play at similar levels) has somewhat reduced this pressure, but the [debate](/debate) continues.
 
 ## The Evolution of Recording Technology
 
@@ -95,7 +95,7 @@ The history of music engineering is essentially a story of technological leaps, 
 
 ### The Acoustic Era (Pre-1925)
 
-The earliest recordings captured sound mechanically. Musicians played into a large horn that focused sound waves onto a diaphragm connected to a cutting stylus, which carved grooves directly into a rotating wax cylinder or disc. No electricity involved at all. The fidelity was terrible by modern standards, but the fact that sound could be captured and replayed was miraculous.
+The earliest recordings captured sound mechanically. Musicians played into a large horn that focused sound waves onto a diaphragm connected to a cutting stylus, which carved grooves directly into a rotating wax cylinder or disc. No [electricity](/electricity) involved at all. The fidelity was terrible by modern standards, but the fact that sound could be captured and replayed was miraculous.
 
 ### The Electrical Era (1925-1945)
 
@@ -113,7 +113,7 @@ By the 1970s, 24-track machines were standard, and the modern concept of multitr
 
 Digital recording converts analog audio signals into numerical data. The Sony PCM-1600 (1978) was among the first commercially used digital audio recorders. CDs, introduced in 1982, brought digital playback to consumers.
 
-The real earthquake was the DAW — digital audio workstation. When Pro Tools launched in 1991, it began a transformation that took about 15 years to fully play out. By the mid-2000s, a laptop running Pro Tools, Logic Pro, or Ableton Live could do virtually everything that once required a $2 million recording studio.
+The real earthquake was the DAW — digital audio workstation. When Pro Tools launched in 1991, it began a transformation that took about 15 years to fully play out. By the mid-2000s, a laptop [running](/running) Pro Tools, Logic Pro, or Ableton Live could do virtually everything that once required a $2 million recording studio.
 
 This democratization was extraordinary. In 1985, making a professional-sounding record required booking time at an expensive studio with an experienced engineer. By 2010, bedroom producers were creating Grammy-nominated tracks on laptops. Billie Eilish's debut album *When We All Fall Asleep, Where Do We Go?* (2019) — which swept the Grammys — was recorded primarily in a small bedroom by her brother Finneas.
 
@@ -141,7 +141,7 @@ Room [acoustics](/acoustics) involves controlling three phenomena:
 
 **Resonances (Room Modes).** Every room has natural resonant frequencies determined by its dimensions. At these frequencies, bass builds up unevenly — booming in some spots, nearly absent in others. This is why mixing low frequencies in an untreated room is almost impossible. Bass traps — typically large, dense absorptive panels in room corners — address room modes.
 
-**Isolation.** Keeping external sound out and internal sound in. This is why serious studios have floating floors (the inner room literally sits on springs, decoupled from the building structure), double walls, and isolated HVAC systems.
+**Isolation.** Keeping external sound out and internal sound in. This is why serious studios have floating floors (the inner room literally sits on [springs](/springs), decoupled from the building structure), double walls, and isolated HVAC systems.
 
 Studio design is a specialized engineering discipline in itself. Companies like Walters-Storyk Design Group and acoustic consultants spend careers optimizing these spaces.
 
@@ -149,7 +149,7 @@ Studio design is a specialized engineering discipline in itself. Companies like 
 
 The DAW is the central tool of modern music engineering. Here's how the major players differ:
 
-**Pro Tools** (Avid) remains the professional studio standard, especially for recording and mixing. Its timeline editing and track management are industry-benchmark. Most major commercial studios run Pro Tools because clients expect it.
+**Pro Tools** (Avid) remains the professional studio standard, especially for recording and mixing. Its timeline [editing](/editing) and track [management](/management) are industry-benchmark. Most major commercial studios run Pro Tools because clients expect it.
 
 **Logic Pro** (Apple) is popular among producers and songwriter-engineers. Its built-in virtual instruments and effects are exceptionally good for the price (a one-time purchase of $199, versus Pro Tools' subscription model). It's Mac-only, which limits its reach.
 
@@ -207,11 +207,11 @@ Apple Music reported that by 2024, over 10,000 songs were available in Spatial A
 
 How do you actually become a music engineer? There's no single path.
 
-**Formal education** — programs at Berklee College of Music, Full Sail University, SAE Institute, Middle Tennessee State University, and others offer structured curricula covering [acoustics](/acoustics), electronics, studio technique, [music theory](/music-theory), and business. These programs provide expensive but valuable networking, mentorship, and studio access.
+**Formal [education](/education)** — programs at Berklee College of Music, Full Sail University, SAE Institute, Middle Tennessee State University, and others offer structured curricula covering [acoustics](/acoustics), electronics, studio technique, [music theory](/music-theory), and business. These programs provide expensive but valuable [networking](/networking), mentorship, and studio access.
 
 **Apprenticeship** — the traditional path. Start as an intern or assistant engineer at a studio. Make coffee, set up microphones, coil cables, observe sessions. Gradually take on more responsibility. This approach has produced many legendary engineers, but opportunities have shrunk as major studios have closed.
 
-**Self-teaching** — increasingly viable. Online resources from Pensado's Place, Mix with the Masters, Produce Like a Pro, and countless YouTube channels provide world-class education for free or at low cost. Combined with an affordable home studio setup, self-taught engineers can develop professional skills — though they miss the networking and mentorship of formal paths.
+**Self-[teaching](/teaching)** — increasingly viable. Online resources from Pensado's Place, Mix with the Masters, Produce Like a Pro, and countless YouTube channels provide world-class education for free or at low cost. Combined with an affordable home studio setup, self-taught engineers can develop professional skills — though they miss the networking and mentorship of formal paths.
 
 The reality is that most working engineers combine elements of all three. And regardless of educational path, the same truth applies: you get good at music engineering by engineering music. Thousands of hours of practice — recording, mixing, listening critically, comparing your work to professional references — is what ultimately builds competence.
 
@@ -219,7 +219,7 @@ The reality is that most working engineers combine elements of all three. And re
 
 Understanding the business context matters. Music engineering doesn't happen in a vacuum — it happens within an industry with specific economic pressures.
 
-Streaming has transformed the economics. When an album sale generated $10-15 in revenue, budgets for engineering were substantial. Now that a stream generates fractions of a penny, recording budgets have compressed dramatically for most artists. This has pushed engineering toward efficiency — faster sessions, fewer takes, more work done "in the box" (entirely in software) rather than using expensive analog hardware.
+Streaming has transformed the [economics](/economics). When an album sale generated $10-15 in revenue, budgets for engineering were substantial. Now that a stream generates fractions of a penny, recording budgets have compressed dramatically for most artists. This has pushed engineering toward efficiency — faster sessions, fewer takes, more work done "in the box" (entirely in software) rather than using expensive analog hardware.
 
 At the same time, the sheer volume of music being released has exploded. Over 120,000 new tracks are uploaded to Spotify daily as of 2025. Each of those tracks needs some level of engineering. The demand for engineering skills hasn't decreased — it's distributed differently, with more work at lower per-project budgets and less work at premium budgets.
 

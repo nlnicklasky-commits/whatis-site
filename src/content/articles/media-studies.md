@@ -41,7 +41,7 @@ The average American spends over 12 hours per day consuming media in some form. 
 
 Media studies emerged from several converging concerns. In the early 20th century, scholars worried about propaganda — how governments and corporations used mass media to manipulate public opinion. The Frankfurt School (Adorno, Horkheimer, Marcuse) analyzed how [popular culture](/popular-culture) could serve as a tool of social control. Marshall McLuhan argued that the medium itself (not just the message) reshapes how humans think and relate.
 
-By the 1960s-70s, media studies had become a distinct academic field in British and American universities, drawing on [literary criticism](/literary-criticism), sociology, semiotics (the study of signs and symbols), and political economy.
+By the 1960s-70s, media studies had become a distinct academic field in British and American universities, [drawing](/drawing) on [literary criticism](/literary-criticism), sociology, semiotics (the study of signs and symbols), and political economy.
 
 ## Key Theories
 

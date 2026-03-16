@@ -35,15 +35,15 @@ faq:
 
 # What Is Biophysics?
 
-Biophysics is the interdisciplinary science that applies the theories, methods, and mathematical tools of physics to understand how biological systems work. It asks questions like: What forces hold a protein in its functional shape? How does a nerve cell generate an electrical signal? Why does DNA form a double helix? How can a single photon of light trigger a cascade of molecular events that lets you see? The answer to each of these questions requires physics — not just [biology](/biology) or [chemistry](/biochemistry), but the quantitative understanding of energy, force, and matter that physics provides.
+Biophysics is the interdisciplinary science that applies the theories, methods, and mathematical tools of [physics](/physics) to understand how biological systems work. It asks questions like: What forces hold a protein in its functional shape? How does a nerve cell generate an electrical signal? Why does DNA form a double helix? How can a single photon of light trigger a cascade of molecular events that lets you see? The answer to each of these questions requires physics — not just [biology](/biology) or [chemistry](/biochemistry), but the quantitative understanding of energy, force, and matter that physics provides.
 
 ## Why Biology Needs Physics
 
-Biology is full of phenomena that look like engineering problems in disguise. Cells pump ions against concentration gradients — that's thermodynamics. DNA stores information in a linear code — that's [information theory](/information-theory). Muscles convert chemical energy to mechanical work — that's a heat engine. Photoreceptors detect individual photons — that's quantum mechanics.
+Biology is full of phenomena that look like [engineering](/engineering) problems in disguise. Cells pump ions against concentration gradients — that's [thermodynamics](/thermodynamics). DNA stores information in a linear code — that's [information theory](/information-theory). Muscles convert chemical energy to mechanical work — that's a heat engine. Photoreceptors detect individual photons — that's [quantum mechanics](/quantum-mechanics).
 
 For most of biology's history, these physical aspects were acknowledged but not deeply explored. Biologists focused on identifying the molecules and describing what they did. Biophysicists go further, asking how and why the physics makes it work.
 
-Here's a concrete example. Every biology student learns that hemoglobin carries oxygen in the blood. A biochemist can tell you the molecular structure of hemoglobin and the chemistry of oxygen binding. A biophysicist asks: Why does hemoglobin bind oxygen cooperatively — why does binding the first oxygen molecule make binding the second, third, and fourth progressively easier? The answer involves allosteric conformational changes, free energy landscapes, and [statistical mechanics](/statistical-mechanics). Understanding this physics explains why hemoglobin is so efficient at loading oxygen in the lungs and unloading it in the tissues — a property that a simple "it binds oxygen" description completely misses.
+Here's a concrete example. Every biology student learns that hemoglobin carries oxygen in the blood. A biochemist can tell you the molecular structure of hemoglobin and the [chemistry](/chemistry) of oxygen binding. A biophysicist asks: Why does hemoglobin bind oxygen cooperatively — why does binding the first oxygen molecule make binding the second, third, and fourth progressively easier? The answer involves allosteric conformational changes, free energy landscapes, and [statistical mechanics](/statistical-mechanics). Understanding this physics explains why hemoglobin is so efficient at loading oxygen in the lungs and unloading it in the tissues — a property that a simple "it binds oxygen" description completely misses.
 
 ## The Physics of Protein Folding
 
@@ -71,7 +71,7 @@ The forces driving folding include:
 
 ### AlphaFold and Computational Prediction
 
-DeepMind's AlphaFold system, which uses deep learning to predict protein structures from amino acid sequences, effectively solved the structure prediction problem in 2020-2021. AlphaFold's predictions match experimental structures with remarkable accuracy for most proteins. This was a biophysics milestone — and it was enabled by training on decades of experimentally determined structures from [X-ray crystallography](/x-ray-crystallography) and cryo-EM.
+DeepMind's AlphaFold system, which uses [deep learning](/deep-learning) to predict protein structures from amino acid sequences, effectively solved the structure prediction problem in 2020-2021. AlphaFold's predictions match experimental structures with remarkable accuracy for most proteins. This was a biophysics milestone — and it was enabled by training on decades of experimentally determined structures from [X-ray crystallography](/x-ray-crystallography) and cryo-EM.
 
 But structure prediction isn't the same as understanding folding. AlphaFold tells you what the final shape is; it doesn't explain the physics of how the protein gets there. Understanding the folding pathway — including misfolding and aggregation — still requires biophysical approaches like molecular dynamics simulation, single-molecule experiments, and [computational modeling](/algorithms).
 
@@ -109,7 +109,7 @@ Living cells contain molecular machines that convert chemical energy (usually fr
 
 Kinesin is a motor protein that "walks" along microtubule tracks inside cells, carrying cargo (vesicles, organelles, chromosomes) from one location to another. Each step is 8 nanometers — the spacing between tubulin subunits in the microtubule — and each step consumes one ATP molecule.
 
-The biophysics of kinesin walking has been studied using optical traps (focused laser beams that can hold and manipulate individual molecules) and single-molecule fluorescence. These experiments revealed that kinesin moves in a hand-over-hand manner, with its two "heads" alternately stepping forward, and generates a force of about 6 piconewtons. It can take about 100 steps before detaching — walking roughly 800 nanometers on a single run.
+The biophysics of kinesin [walking](/walking) has been studied using optical traps (focused laser beams that can hold and manipulate individual molecules) and single-molecule fluorescence. These experiments revealed that kinesin moves in a hand-over-hand manner, with its two "heads" alternately stepping forward, and generates a force of about 6 piconewtons. It can take about 100 steps before detaching — walking roughly 800 nanometers on a single run.
 
 ### Myosin and Muscle Contraction
 
@@ -155,11 +155,11 @@ The dose-response relationship for radiation effects — how much damage occurs 
 
 **Cryo-[electron microscopy](/electron-microscopy) (cryo-EM)** has revolutionized [structural biology](/structural-biology) over the past decade. By flash-freezing molecules in solution and imaging them with an electron microscope, researchers can determine structures at near-atomic resolution without crystallization. The 2017 Nobel Prize in Chemistry was awarded for cryo-EM development. It has become the go-to method for large molecular complexes and membrane proteins that are difficult to crystallize.
 
-**Optogenetics** uses light-sensitive proteins (originally from algae) genetically inserted into neurons to control neural activity with light. A flash of blue light can activate a specific set of neurons; a flash of yellow light can silence them. This has transformed neuroscience by allowing researchers to establish causal relationships between neural activity and behavior.
+**Optogenetics** uses light-sensitive proteins (originally from algae) genetically inserted into neurons to control neural activity with light. A flash of blue light can activate a specific set of neurons; a flash of yellow light can silence them. This has transformed [neuroscience](/neuroscience) by allowing researchers to establish causal relationships between neural activity and behavior.
 
-**Mechanobiology** — the study of how mechanical forces affect biological processes — is a rapidly growing intersection of biophysics and cell biology. Cells sense and respond to the stiffness of their surroundings, the forces applied to them, and the mechanical properties of neighboring cells. Cancer cells, for instance, are typically softer than normal cells and respond differently to mechanical stress. Understanding this opens new avenues for [diagnostics and therapy](/bioengineering).
+**Mechanobiology** — the study of how mechanical forces affect biological processes — is a rapidly growing intersection of biophysics and [cell biology](/cell-biology). Cells sense and respond to the stiffness of their surroundings, the forces applied to them, and the mechanical properties of neighboring cells. Cancer cells, for instance, are typically softer than normal cells and respond differently to mechanical stress. Understanding this opens new avenues for [diagnostics and therapy](/bioengineering).
 
-**Quantum biology** asks whether quantum mechanical effects play functional roles in biological systems. Evidence suggests that quantum coherence may influence photosynthesis efficiency, that quantum tunneling occurs in enzyme catalysis, and that birds may work through using quantum effects in cryptochrome proteins in their eyes. The field is young and controversial, but the questions are genuinely exciting.
+**[Quantum biology](/quantum-biology)** asks whether quantum mechanical effects play functional roles in biological systems. Evidence suggests that quantum coherence may influence photosynthesis efficiency, that quantum [tunneling](/tunneling) occurs in enzyme catalysis, and that birds may work through using quantum effects in cryptochrome proteins in their eyes. The field is young and controversial, but the questions are genuinely exciting.
 
 ## Why Biophysics Matters
 

@@ -35,7 +35,7 @@ faq:
 
 # What Is Data Analysis?
 
-Data analysis is the systematic process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It sits at the intersection of statistics, domain expertise, and increasingly, [computer science](/computer-science)—and it's become one of the most in-demand skills across virtually every industry.
+Data analysis is the systematic process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It sits at the intersection of [statistics](/statistics), domain expertise, and increasingly, [computer science](/computer-science)—and it's become one of the most in-demand skills across virtually every industry.
 
 ## Why Data Analysis Matters More Than Ever
 
@@ -51,10 +51,10 @@ Data analysis isn't one thing. It's a sequence of steps, and skipping any of the
 
 ### Step 1: Define the Question
 
-This sounds obvious, but it's where most analysis fails. "What does our data say?" isn't a question—it's a fishing expedition. Good analysis starts with specific, answerable questions:
+This sounds obvious, but it's where most analysis fails. "What does our data say?" isn't a question—it's a [fishing](/fishing) expedition. Good analysis starts with specific, answerable questions:
 
 - Why did customer retention drop 8% last quarter?
-- Which marketing channels produce the highest lifetime customer value?
+- Which [marketing](/marketing) channels produce the highest lifetime customer value?
 - Is there a correlation between employee commute time and turnover?
 
 The question shapes everything: what data you collect, how you clean it, which methods you use, and how you interpret results. Vague questions produce vague answers. Every time.
@@ -65,7 +65,7 @@ Once you know what you're asking, you need data that can answer it. This comes f
 
 **Primary data** is information you collect yourself—surveys, experiments, interviews, observations. You control the methodology, which is great for quality but expensive and time-consuming.
 
-**Secondary data** is information someone else already collected—government statistics, industry reports, internal databases, public datasets. It's cheaper and faster to obtain but may not perfectly match your needs.
+**Secondary data** is information someone else already collected—[government](/government) statistics, industry reports, internal databases, public datasets. It's cheaper and faster to obtain but may not perfectly match your needs.
 
 The key decision here is sample size. Too small, and your conclusions won't be statistically significant. Too large, and you're wasting resources on precision you don't need. Statistical power analysis helps you find the sweet spot, but frankly, many analysts just go with "as much as we can reasonably get."
 
@@ -89,11 +89,11 @@ Now the actual analysis begins. The method you choose depends entirely on your q
 
 **Descriptive analysis** answers "what happened?" You're summarizing data using measures like mean, median, mode, standard deviation, and frequency distributions. This is the foundation—you need to understand what your data looks like before you can do anything more sophisticated.
 
-**Diagnostic analysis** answers "why did it happen?" You're looking for causes and correlations. If sales dropped in March, diagnostic analysis digs into whether it was seasonal, competitive, operational, or something else entirely.
+**Diagnostic analysis** answers "why did it happen?" You're looking for causes and correlations. If [sales](/sales) dropped in March, diagnostic analysis digs into whether it was seasonal, competitive, operational, or something else entirely.
 
 **Predictive analysis** answers "what will happen?" Using historical patterns to forecast future outcomes. This is where [machine learning](/machine-learning) often enters the picture, though simpler statistical methods like regression often work just as well for many business questions.
 
-**Prescriptive analysis** answers "what should we do?" This is the most advanced form, combining prediction with optimization to recommend specific actions. It's also the hardest to get right, because it requires not just predicting outcomes but evaluating tradeoffs.
+**Prescriptive analysis** answers "what should we do?" This is the most advanced form, combining prediction with [optimization](/optimization) to recommend specific actions. It's also the hardest to get right, because it requires not just predicting outcomes but evaluating tradeoffs.
 
 ### Step 5: Interpret and Communicate
 
@@ -181,7 +181,7 @@ For anything beyond basic analysis, you'll want a programming language. Python a
 
 **R** was built specifically for statistical computing. Its statistical capabilities are arguably deeper than Python's, and ggplot2 produces publication-quality visualizations with less effort. However, R is primarily used for statistics and analysis—it's less versatile than Python for general programming tasks.
 
-The Python vs. R debate generates strong opinions, but honestly? Either one will serve you well. Pick one and get good at it.
+The Python vs. R [debate](/debate) generates strong opinions, but honestly? Either one will serve you well. Pick one and get good at it.
 
 ### Business Intelligence Platforms
 
@@ -205,7 +205,7 @@ Analyzing only the data that "survived" some selection process. The classic exam
 
 ### Simpson's Paradox
 
-A trend that appears in several groups of data reverses when the groups are combined. This sounds theoretical, but it happens in practice more often than you'd think. A treatment might appear effective overall but actually be harmful when you control for patient severity. Always segment your data before drawing conclusions.
+A trend that appears in several groups of data reverses when the groups are combined. This sounds theoretical, but it happens in practice more often than you'd think. A treatment might appear effective overall but actually be harmful when you control for patient severity. Always segment your data before [drawing](/drawing) conclusions.
 
 ### Overfitting
 
@@ -239,7 +239,7 @@ Moneyball wasn't fiction—it was a case study. Professional sports now employ a
 
 ### Government
 
-Census data, economic indicators, public health surveillance, criminal justice statistics, and environmental monitoring all require analysis at massive scale. Government agencies like the Bureau of Labor Statistics produce some of the most carefully analyzed datasets in the world.
+Census data, economic indicators, [public health](/public-health) surveillance, criminal justice statistics, and environmental monitoring all require analysis at massive scale. Government agencies like the Bureau of Labor Statistics produce some of the most carefully analyzed datasets in the world.
 
 ## The Ethics of Data Analysis
 
@@ -270,7 +270,7 @@ The most valuable analyst skills, in rough order of importance:
 
 ### Entry Points
 
-You don't need a graduate degree to become a data analyst, though it helps for certain roles. Many successful analysts come from backgrounds in business, economics, social sciences, or even humanities—they bring domain expertise and learn the technical skills along the way.
+You don't need a graduate degree to become a data analyst, though it helps for certain roles. Many successful analysts come from backgrounds in business, [economics](/economics), social sciences, or even humanities—they bring domain expertise and learn the technical skills along the way.
 
 Online courses, bootcamps, and certifications (Google Data Analytics Certificate, IBM Data Analyst Professional Certificate) provide structured learning paths. Building a portfolio of analysis projects using publicly available datasets demonstrates your skills more effectively than credentials alone.
 
@@ -292,7 +292,7 @@ Several trends are shaping the future of this field.
 
 **Augmented analytics** uses AI to automate parts of the analysis process—data preparation, pattern detection, and even insight generation. Tools like ThoughtSpot and Tableau's Ask Data let users query data in natural language. This doesn't replace analysts, but it changes what they spend their time on.
 
-**Real-time analytics** is replacing batch processing for many use cases. Instead of running reports overnight, organizations want insights as events happen—detecting fraud during the transaction, adjusting prices based on current demand, routing ambulances based on live traffic data.
+**Real-time analytics** is replacing batch processing for many use cases. Instead of [running](/running) reports overnight, organizations want insights as events happen—detecting fraud during the transaction, adjusting prices based on current demand, routing ambulances based on live traffic data.
 
 **Data democratization** pushes analytical capabilities to more people within organizations. Self-service tools, data literacy training, and embedded analytics mean that marketing managers and operations leads can answer their own data questions without filing a request to the analytics team.
 

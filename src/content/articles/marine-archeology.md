@@ -35,7 +35,7 @@ faq:
 
 # What Is Marine Archeology?
 
-Marine archeology is the study of human interaction with the sea — past cultures, trade routes, naval battles, and everyday maritime life — through physical evidence preserved underwater. This includes shipwrecks, submerged harbors, cargo scattered across the ocean floor, and even entire coastal settlements swallowed by rising seas over millennia.
+Marine archeology is the study of human interaction with the sea — past cultures, [trade](/trade) routes, naval battles, and everyday maritime life — through physical evidence preserved underwater. This includes shipwrecks, submerged harbors, cargo scattered across the ocean floor, and even entire coastal settlements swallowed by rising seas over millennia.
 
 Think of it as regular [archeology](/archaeology), but with the added challenge of working in an environment that actively tries to kill you. Cold water, limited visibility, crushing pressure, and strict bottom time all make the work dramatically harder than digging a trench on dry land. But here's the trade-off: water is actually a fantastic preservative. Artifacts that would have rotted away centuries ago on the surface can survive in remarkably good condition on the seafloor.
 

@@ -35,7 +35,7 @@ faq:
 
 # What Is Speech [Pathology](/pathology)?
 
-Speech pathology — formally called speech-language pathology — is the healthcare field devoted to diagnosing and treating disorders of communication and swallowing. Speech-language pathologists (SLPs) work with people who have trouble speaking, understanding language, reading, writing, using their voice, or swallowing food and liquids safely. The field covers everything from helping a toddler say their first words to rehabilitating an adult's speech after a stroke.
+Speech pathology — formally called speech-language pathology — is the healthcare field devoted to diagnosing and treating disorders of communication and swallowing. Speech-language pathologists (SLPs) work with people who have trouble speaking, understanding language, reading, [writing](/writing), using their voice, or swallowing food and liquids safely. The field covers everything from helping a toddler say their first words to rehabilitating an adult's speech after a stroke.
 
 ## More Than Just "Speech" Problems
 
@@ -72,7 +72,7 @@ A typical day depends heavily on the work setting, but here's the general proces
 Before treatment starts, the SLP needs to figure out what's going on. Assessment might include:
 
 - Standardized tests (comparing a person's abilities to age-matched norms)
-- Language samples (analyzing spontaneous speech for grammar, vocabulary, and pragmatic skills)
+- Language samples (analyzing spontaneous speech for [grammar](/grammar), vocabulary, and pragmatic skills)
 - Oral-motor examination (checking the physical structures involved in speech — tongue, lips, palate, jaw)
 - Hearing screening (ruling out hearing loss as a contributing factor)
 - Instrumental assessments for swallowing (videofluoroscopic swallow studies, fiberoptic endoscopic evaluation)
@@ -90,7 +90,7 @@ For a **stroke survivor with aphasia**, therapy might involve constraint-induced
 
 For a **teenager who stutters**, therapy might combine fluency-shaping techniques (controlling breathing, gentle onset of speech, light articulatory contacts) with cognitive-behavioral approaches to reduce the anxiety and avoidance behaviors that often accompany stuttering.
 
-For a **nursing home resident with dysphagia**, treatment might involve strengthening exercises for the swallowing muscles, teaching compensatory strategies (chin tuck, head turn), and recommending diet modifications (thickened liquids, pureed foods) to make swallowing safer.
+For a **[nursing](/nursing) home resident with dysphagia**, treatment might involve strengthening exercises for the swallowing muscles, [teaching](/teaching) compensatory strategies (chin tuck, head turn), and recommending diet modifications (thickened liquids, pureed foods) to make swallowing safer.
 
 ## Where Do Speech Pathologists Work?
 
@@ -114,9 +114,9 @@ Speech pathology is grounded in several scientific disciplines:
 
 **[Neuroanatomy](/neuroanatomy) and neurophysiology** — Understanding how the brain controls speech and language is fundamental. Broca's area (left frontal lobe) and Wernicke's area (left temporal lobe) are classically associated with speech production and language comprehension, respectively. But modern neuroimaging has shown that language processing involves widely distributed [neural networks](/neural-networks) — it's far more complicated than the textbook diagrams suggest.
 
-**[Acoustics](/acoustics) and phonetics** — The physics of sound production and perception. SLPs use spectrographic analysis and other acoustic measures to objectively assess voice quality, resonance, and speech characteristics.
+**[Acoustics](/acoustics) and phonetics** — The [physics](/physics) of sound production and perception. SLPs use spectrographic analysis and other acoustic measures to objectively assess voice quality, resonance, and speech characteristics.
 
-**[Linguistics](/linguistics)** — Understanding phonology, morphology, syntax, semantics, and pragmatics provides the framework for analyzing language disorders.
+**[Linguistics](/linguistics)** — Understanding phonology, morphology, [syntax](/syntax), [semantics](/semantics), and pragmatics provides the framework for analyzing language disorders.
 
 **Motor learning theory** — Speech is one of the most complex motor activities humans perform, requiring the coordination of over 100 muscles. Principles from motor learning research — like the importance of practice variability and distributed practice — directly inform how therapy is structured.
 

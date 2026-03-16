@@ -54,7 +54,7 @@ Systems biology emerged to address exactly this problem: how do you understand b
 
 ## The Core Approach
 
-Systems biology follows a cycle that mirrors the scientific method but with a distinctly computational flavor.
+Systems biology follows a cycle that mirrors the [scientific method](/scientific-method) but with a distinctly computational flavor.
 
 ### Step 1: Measure Everything
 
@@ -64,9 +64,9 @@ The first step is collecting data — lots of it. Modern biology can measure tho
 
 **Transcriptomics** measures which genes are active (transcribed into RNA) in a cell at a given moment, and at what levels. Technologies like RNA-seq can quantify the expression of every gene simultaneously.
 
-**Proteomics** identifies and quantifies all the proteins present in a cell or tissue. Mass spectrometry can detect thousands of proteins in a single experiment.
+**[Proteomics](/proteomics)** identifies and quantifies all the proteins present in a cell or tissue. Mass spectrometry can detect thousands of proteins in a single experiment.
 
-**Metabolomics** measures the small molecules (metabolites) present in a biological sample — sugars, amino acids, lipids, and the thousands of other compounds that make up a cell's chemistry.
+**Metabolomics** measures the small molecules (metabolites) present in a biological sample — sugars, amino acids, lipids, and the thousands of other compounds that make up a cell's [chemistry](/chemistry).
 
 **Epigenomics** maps chemical modifications to DNA and histone proteins that affect gene expression without changing the DNA sequence itself.
 
@@ -82,9 +82,9 @@ These networks can be enormous. The human protein-protein interaction network co
 
 **Active models** go beyond static networks to simulate how systems change over time. Using [differential equations](/differential-equations), systems biologists model how concentrations of molecules rise and fall in response to signals, how feedback loops create oscillations or switches, and how perturbations (like drugs or mutations) propagate through the system.
 
-**Constraint-based models** are particularly useful for metabolism. Flux Balance Analysis (FBA) uses known biochemical constraints to predict the flow of metabolites through a metabolic network. It's been successfully used to predict bacterial growth rates, identify essential genes, and design metabolic engineering strategies.
+**Constraint-based models** are particularly useful for metabolism. Flux Balance Analysis (FBA) uses known biochemical constraints to predict the flow of metabolites through a metabolic network. It's been successfully used to predict bacterial growth rates, identify essential genes, and design metabolic [engineering](/engineering) strategies.
 
-**Machine learning models** are increasingly used when the underlying biology is too complex for mechanistic modeling. [Deep learning](/deep-learning) algorithms can find patterns in biological data that humans and traditional statistics miss — predicting protein structures, identifying disease subtypes, and classifying cell types from gene expression data.
+**Machine learning models** are increasingly used when the underlying biology is too complex for mechanistic modeling. [Deep learning](/deep-learning) algorithms can find patterns in biological data that humans and traditional [statistics](/statistics) miss — predicting protein structures, identifying disease subtypes, and classifying cell types from gene expression data.
 
 ### Step 3: Predict and Test
 
@@ -104,7 +104,7 @@ Understanding emergence requires systems-level thinking. It's not enough to know
 
 Biological systems are remarkably strong — they maintain function despite significant perturbations. Your body temperature stays at about 37 degrees C whether you're in a desert or a blizzard. Cellular gene expression is maintained even when individual genes are deleted (many gene knockouts have no observable effect because redundant pathways compensate).
 
-Systems biology studies how this robustness arises from network architecture. Features like redundancy (multiple components performing similar functions), feedback loops (systems that detect and correct deviations), and modularity (semi-independent subsystems that can fail without crashing the whole) all contribute.
+Systems biology studies how this robustness arises from network [architecture](/architecture). Features like redundancy (multiple components performing similar functions), feedback loops (systems that detect and correct deviations), and modularity (semi-independent subsystems that can fail without crashing the whole) all contribute.
 
 Understanding robustness has practical implications. Cancer cells, for example, often exploit biological robustness — they rewire signaling networks to maintain growth even when targeted therapies block specific pathways. Effective cancer treatment may require attacking multiple network nodes simultaneously to overcome this robustness.
 
@@ -177,6 +177,6 @@ Systems biology is maturing from a niche academic pursuit into a standard approa
 
 **Digital twins** — computational models of individual patients that can simulate disease progression and predict treatment outcomes — are a long-term goal of systems medicine. We're far from this, but progress is steady.
 
-**AI integration** — machine learning and deep learning are becoming standard tools for analyzing biological [data](/data-analysis), building predictive models, and generating hypotheses. AlphaFold's protein structure predictions, for instance, have revolutionized structural biology and are being integrated into systems models.
+**AI integration** — machine learning and deep learning are becoming standard tools for analyzing biological [data](/data-analysis), building predictive models, and generating hypotheses. AlphaFold's protein structure predictions, for instance, have revolutionized [structural biology](/structural-biology) and are being integrated into systems models.
 
 The vision that launched systems biology — understanding life not as a collection of molecules but as an integrated, interacting system — is being realized, slowly and incompletely, but unmistakably. Every new dataset, every better model, every validated prediction brings us closer to genuinely understanding how living things work. And that understanding is already changing medicine, agriculture, and biotechnology in ways that matter.

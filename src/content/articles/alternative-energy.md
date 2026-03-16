@@ -45,7 +45,7 @@ Alternative energy is any energy source used instead of fossil fuels — coal, o
 
 Here's the situation in plain terms. Fossil fuels still supply about 80% of the world's primary energy. Burning them releases carbon dioxide and other greenhouse gases, which trap heat in the atmosphere. Since the industrial revolution, atmospheric CO2 has risen from roughly 280 parts per million to over 420 ppm — a 50% increase. Global average temperatures have climbed about 1.2 degrees Celsius above pre-industrial levels.
 
-That might sound small. It is not. A 1.2-degree global average shift means more intense hurricanes, longer droughts, rising sea levels, and disrupted growing seasons for [agriculture](/agriculture). The Intergovernmental Panel on Climate Change (IPCC) warns that crossing 1.5 degrees could trigger feedback loops that accelerate warming further.
+That might sound small. It is not. A 1.2-degree global average shift means more intense hurricanes, longer droughts, rising sea levels, and disrupted growing seasons for [agriculture](/agriculture). The Intergovernmental Panel on [Climate Change](/climate-change) (IPCC) warns that crossing 1.5 degrees could trigger feedback loops that accelerate warming further.
 
 So the motivation behind alternative energy is not just ideological. It is a math problem. We need roughly 580 exajoules of energy per year to run civilization. The question is whether we can get that energy from sources that do not destabilize the climate. The answer, increasingly, is yes — but the transition is complicated, expensive, and full of tradeoffs nobody likes to talk about.
 
@@ -73,7 +73,7 @@ This is why energy storage matters so much. [Battery technology](/battery-techno
 
 ## Wind Power: Invisible Fuel, Visible Turbines
 
-Wind energy captures kinetic energy from moving air using turbines. The basic principle is ancient — windmills have ground grain for over a thousand years — but modern wind turbines are engineering marvels operating at a completely different scale.
+Wind energy captures kinetic energy from moving air using turbines. The basic principle is ancient — windmills have ground grain for over a thousand years — but modern wind turbines are [engineering](/engineering) marvels operating at a completely different scale.
 
 ### How Wind Turbines Generate Electricity
 
@@ -139,11 +139,11 @@ Public fear of radiation, justified or not, makes siting new plants politically 
 
 ### Small Modular Reactors
 
-Small modular reactors (SMRs) aim to change the economics. Factory-built in standardized units, SMRs promise faster construction, lower upfront costs, and enhanced safety features. Several designs are in advanced development or early deployment. Whether they actually deliver on the cost promises remains to be seen — the nuclear industry has a history of optimistic projections that do not survive contact with reality.
+Small modular reactors (SMRs) aim to change the [economics](/economics). Factory-built in standardized units, SMRs promise faster construction, lower upfront costs, and enhanced safety features. Several designs are in advanced development or early deployment. Whether they actually deliver on the cost promises remains to be seen — the nuclear industry has a history of optimistic projections that do not survive contact with reality.
 
 ## Hydrogen: Fuel of the Future (Again)
 
-Hydrogen is the most abundant element in the universe and produces only water when burned or used in a fuel cell. So why are we not running everything on hydrogen? Because hydrogen is not really an energy source — it is an energy carrier. You have to use energy to produce it first.
+Hydrogen is the most abundant element in the universe and produces only water when burned or used in a fuel cell. So why are we not [running](/running) everything on hydrogen? Because hydrogen is not really an energy source — it is an energy carrier. You have to use energy to produce it first.
 
 ### The Color Spectrum
 
@@ -153,19 +153,19 @@ For hydrogen to matter as an alternative energy carrier, green hydrogen costs ne
 
 ### Where Hydrogen Makes Sense
 
-Hydrogen is probably not going to power your car — battery electric vehicles are winning that race decisively. But hydrogen has strong potential for heavy industry (steel, cement, chemicals), long-haul shipping, aviation, and seasonal energy storage. These are applications where batteries are too heavy, too bulky, or too expensive.
+Hydrogen is probably not going to power your car — battery electric vehicles are winning that race decisively. But hydrogen has strong potential for heavy industry (steel, cement, chemicals), long-haul shipping, [aviation](/aviation), and seasonal energy storage. These are applications where batteries are too heavy, too bulky, or too expensive.
 
 ## Biomass and Biofuels: It Is Complicated
 
 Biomass energy burns organic material — wood, crop waste, animal manure, dedicated energy crops — to produce heat or electricity. Biofuels convert crops like corn or sugarcane into liquid fuels for transportation.
 
-The logic is straightforward: plants absorb CO2 as they grow, so burning them should be carbon-neutral. The reality is messier. Growing energy crops requires land, water, and fertilizer. Corn ethanol in the United States consumes nearly as much energy to produce as it yields. Burning wood pellets releases particulate matter and, depending on the forestry practices, can actually increase net carbon emissions for decades.
+The [logic](/logic) is straightforward: plants absorb CO2 as they grow, so burning them should be carbon-neutral. The reality is messier. Growing energy crops requires land, water, and fertilizer. Corn ethanol in the United States consumes nearly as much energy to produce as it yields. Burning wood pellets releases particulate matter and, depending on the [forestry](/forestry) practices, can actually increase net carbon emissions for decades.
 
 Advanced biofuels — made from algae, agricultural waste, or non-food crops — hold more promise but remain expensive and difficult to scale. Biomass is best understood as a transitional technology rather than a long-term solution.
 
 ## Tidal and Wave Energy: The Ocean's Untapped Potential
 
-The oceans contain enormous energy. Tides are driven by gravitational forces from the moon and sun — predictable to the minute, centuries in advance. Waves are driven by wind acting on the ocean surface.
+The oceans contain enormous energy. Tides are driven by gravitational forces from the moon and sun — predictable to the minute, centuries in advance. Waves are driven by wind [acting](/acting) on the ocean surface.
 
 Tidal stream generators work like underwater wind turbines. Tidal barrages work like dams across estuaries. Wave energy converters capture the up-and-down motion of ocean swells.
 
@@ -185,7 +185,7 @@ Lithium-ion batteries dominate current grid storage. Costs have fallen from over
 
 Pumped hydro stores energy by pumping water uphill and releasing it through turbines later — it accounts for about 95% of current grid storage capacity worldwide. Compressed air energy storage forces air into underground caverns and releases it to drive turbines. Gravity storage lifts heavy weights and drops them to generate electricity. Thermal storage heats materials like molten salt and extracts the heat later.
 
-Each approach has tradeoffs in cost, efficiency, scale, and geography. The honest truth is that no single storage technology solves the problem. We will need a mix.
+Each approach has tradeoffs in cost, efficiency, scale, and [geography](/geography). The honest truth is that no single storage technology solves the problem. We will need a mix.
 
 ## The Grid: Connecting It All Together
 
@@ -199,13 +199,13 @@ This is frankly the most underappreciated bottleneck in the energy transition. Y
 
 The economics of alternative energy have shifted dramatically. In 2009, solar was the most expensive source of new electricity. By 2024, it was the cheapest in most of the world. Wind followed a similar trajectory. This was not because of subsidies alone — though subsidies helped — but because of manufacturing scale, [machine learning](/machine-learning)-driven [optimization](/optimization), and relentless engineering improvement.
 
-Global investment in clean energy reached approximately $1.8 trillion in 2024, exceeding fossil fuel investment for the first time. China dominated, accounting for roughly $680 billion. The United States, European Union, and India followed.
+Global investment in clean energy reached approximately $1.8 trillion in 2024, exceeding fossil fuel investment for the first time. China dominated, [accounting](/accounting) for roughly $680 billion. The United States, European Union, and India followed.
 
 The jobs picture is notable too. The renewable energy sector employed over 13.7 million people globally as of 2023, according to IRENA. Solar photovoltaic alone employed 4.9 million. These numbers are growing faster than fossil fuel employment is shrinking, though the geographic distribution does not always match — coal miners in Appalachia do not automatically become solar installers in Arizona.
 
 ## Country-Level Snapshots
 
-**Iceland** runs on nearly 100% renewable electricity — about 75% hydro and 25% geothermal. Its unique geology makes this possible in ways that do not transfer to most countries.
+**Iceland** runs on nearly 100% renewable electricity — about 75% hydro and 25% geothermal. Its unique [geology](/geology) makes this possible in ways that do not transfer to most countries.
 
 **Denmark** generates over 55% of its electricity from wind. On particularly breezy days, Denmark produces more wind electricity than it can consume and exports the surplus to neighbors.
 

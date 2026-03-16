@@ -94,6 +94,6 @@ Transcendentalism's direct influence is visible across American culture:
 
 **American individualism** — The emphasis on self-reliance, nonconformity, and personal authenticity became deeply woven into American identity.
 
-**Progressive education** — Bronson Alcott's experimental schools, based on respect for children's inherent wisdom, anticipated progressive education movements by decades.
+**Progressive [education](/education)** — Bronson Alcott's experimental schools, based on respect for children's inherent wisdom, anticipated progressive education movements by decades.
 
 The transcendentalists were idealistic, sometimes impractical, and occasionally naive. But their fundamental insight — that nature, individual conscience, and spiritual intuition matter as much as [logic](/logic), commerce, and institutional authority — remains powerful and relevant.

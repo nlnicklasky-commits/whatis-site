@@ -43,7 +43,7 @@ Electricity by itself doesn't do much useful. It flows. That's about it. The mag
 
 Your phone contains billions of transistors arranged in precise circuits. Your car's engine [management](/management) system uses circuits to time fuel injection within milliseconds. The charger plugged into your wall uses a circuit to convert 120V AC from the outlet into 5V DC for your device. Even something as simple as a flashlight is a circuit—battery, switch, LED, wires forming a closed loop.
 
-Circuit design is the discipline of figuring out which components to use, how to connect them, and how to ensure the resulting circuit does what it's supposed to do reliably. It's equal parts physics, engineering, and problem-solving.
+Circuit design is the discipline of figuring out which components to use, how to connect them, and how to ensure the resulting circuit does what it's supposed to do reliably. It's equal parts [physics](/physics), engineering, and problem-solving.
 
 ## Fundamental Concepts: What You Need to Know First
 
@@ -81,7 +81,7 @@ Every circuit is built from a surprisingly small set of basic components. Knowin
 
 **Diodes** allow current to flow in only one direction. They protect circuits from reverse voltage, convert AC to DC (rectification), emit light (LEDs), and regulate voltage (Zener diodes). A simple rectifier circuit uses four diodes arranged in a bridge configuration to convert AC wall power into DC.
 
-**Transistors** are the workhorses of [electronics](/electronics). In their simplest role, they act as electrically controlled switches—a small signal at the control terminal turns a larger current on or off. In analog circuits, they amplify signals. In digital circuits, billions of them implement logic functions. The two main families are bipolar junction transistors (BJTs) and field-effect transistors (FETs/MOSFETs).
+**Transistors** are the workhorses of [electronics](/electronics). In their simplest role, they act as electrically controlled switches—a small signal at the control terminal turns a larger current on or off. In analog circuits, they amplify signals. In digital circuits, billions of them implement [logic](/logic) functions. The two main families are bipolar junction transistors (BJTs) and field-effect transistors (FETs/MOSFETs).
 
 A single transistor can amplify a weak microphone signal to drive a speaker. Arrange a few transistors together, and you get a logic gate. Combine logic gates, and you build a processor. Modern smartphone processors contain around 15 billion transistors, each smaller than a virus.
 
@@ -101,7 +101,7 @@ Good specifications prevent wasted effort. Vague requirements lead to designs th
 
 The schematic is a symbolic diagram showing every component and connection in the circuit. Each component has a standard symbol—resistors are zigzag lines (or rectangles in the European convention), capacitors are parallel lines, transistors have specific symbols indicating their type.
 
-Schematic design is where the real engineering happens. You choose components, calculate values, and arrange them to achieve the required function. This involves circuit analysis—applying Kirchhoff's voltage and current laws, Thevenin's theorem, and other tools from electrical theory. [Algebra](/algebra) and sometimes calculus are essential here.
+Schematic design is where the real engineering happens. You choose components, calculate values, and arrange them to achieve the required function. This involves circuit analysis—applying Kirchhoff's voltage and current laws, Thevenin's theorem, and other tools from electrical theory. [Algebra](/algebra) and sometimes [calculus](/calculus) are essential here.
 
 Modern schematic capture happens in electronic design automation (EDA) software. Tools like KiCad, Altium Designer, and Cadence OrCAD provide component libraries, electrical rule checking, and simulation integration. The software catches errors—unconnected pins, shorted power rails, missing ground connections—that would be easy to miss on paper.
 
@@ -127,7 +127,7 @@ Once the PCB is designed, prototypes are manufactured—typically by specialized
 
 Components are soldered onto the prototype boards, either by hand (for small quantities) or using pick-and-place machines and reflow ovens (for larger quantities or very small components). Then comes the moment of truth: power it up and see if it works.
 
-Testing involves measuring voltages, currents, and waveforms with oscilloscopes, multimeters, and spectrum analyzers. Does the output match the simulation? Does it meet specifications? Does it work across the required temperature range? Does it survive voltage spikes and power cycling?
+Testing involves measuring voltages, currents, and waveforms with oscilloscopes, multimeters, and spectrum analyzers. Does the output match the simulation? Does it meet specifications? Does it work across the required temperature range? Does it survive voltage spikes and power [cycling](/cycling)?
 
 Almost no complex circuit works perfectly on the first prototype. There's always something—a trace too thin, a component value slightly off, a layout issue causing noise. Designers iterate, modifying the design and building new prototypes until the circuit meets all specifications reliably.
 
@@ -207,7 +207,7 @@ Several trends are reshaping circuit design.
 
 **The Internet of Things (IoT)** creates demand for low-power, wireless-connected circuits that can run for years on a battery. Designing circuits that consume microwatts while maintaining reliable communication is a distinct challenge. Technologies like [cloud computing](/cloud-computing) pair with IoT devices to process the data these circuits collect.
 
-**AI and machine learning** are beginning to assist circuit design itself. [Algorithms](/algorithms) can optimize component placement, routing, and even circuit topology. Generative design tools propose circuit architectures that meet specifications, though human expertise remains essential for validation and refinement.
+**AI and machine learning** are beginning to assist circuit design itself. [Algorithms](/algorithms) can optimize component placement, routing, and even circuit [topology](/topology). Generative design tools propose circuit architectures that meet specifications, though human expertise remains essential for validation and refinement.
 
 **Flexible and printed electronics** enable circuits on substrates that bend, stretch, or conform to irregular surfaces. Wearable health monitors, flexible displays, and electronic skin patches all require new approaches to circuit design.
 

@@ -35,7 +35,7 @@ faq:
 
 # What Is Dendrology?
 
-Dendrology is the branch of botany that studies woody plants—primarily trees and shrubs—including their identification, classification, distribution, ecology, and economic importance. Derived from the Greek words *dendron* (tree) and *logos* (study), dendrology combines field observation, laboratory analysis, and increasingly, genetic techniques to understand the roughly 73,300 tree species that populate Earth's forests, savannas, cities, and gardens.
+Dendrology is the branch of [botany](/botany) that studies woody plants—primarily trees and shrubs—including their identification, classification, distribution, ecology, and economic importance. Derived from the Greek words *dendron* (tree) and *logos* (study), dendrology combines field observation, laboratory analysis, and increasingly, genetic techniques to understand the roughly 73,300 tree species that populate Earth's forests, savannas, cities, and gardens.
 
 ## Trees: More Important Than You Probably Realize
 
@@ -55,7 +55,7 @@ The modern era of dendrology began in the 18th century with Carl Linnaeus's bino
 
 The 19th century saw explosive growth in tree knowledge as colonial expeditions brought specimens back to European botanical gardens and herbaria. The Royal Botanic Gardens at Kew in London became a center for dendrological research, amassing a collection of dried plant specimens that now numbers over 7 million.
 
-In the 20th and 21st centuries, dendrology expanded beyond classification into ecology, genetics, and [conservation biology](/conservation-biology). DNA sequencing has revolutionized tree taxonomy, revealing that species once thought closely related are actually distant cousins, and vice versa. Satellite remote sensing now monitors global forest cover in near real-time, giving dendrologists tools that Theophrastus couldn't have imagined.
+In the 20th and 21st centuries, dendrology expanded beyond classification into ecology, [genetics](/genetics), and [conservation biology](/conservation-biology). DNA sequencing has revolutionized tree [taxonomy](/taxonomy), revealing that species once thought closely related are actually distant cousins, and vice versa. Satellite remote sensing now monitors global forest cover in near real-time, giving dendrologists tools that Theophrastus couldn't have imagined.
 
 ## How Trees Are Classified
 
@@ -122,7 +122,7 @@ Trees face an extraordinary engineering challenge: moving water from roots in th
 
 **Phloem** carries sugars produced by photosynthesis downward from leaves to roots and growing tissues. Unlike xylem transport, phloem uses active loading and pressure-driven flow.
 
-**Heartwood**, the older wood at the tree's center, no longer conducts water. It's essentially retired plumbing that provides structural support. The compounds deposited in heartwood (tannins, resins, oils) make it more durable and often give wood its characteristic color—the reason walnut heartwood is dark brown while maple heartwood is pale.
+**Heartwood**, the older wood at the tree's center, no longer conducts water. It's essentially retired [plumbing](/plumbing) that provides structural support. The compounds deposited in heartwood (tannins, resins, oils) make it more durable and often give wood its characteristic color—the reason walnut heartwood is dark brown while maple heartwood is pale.
 
 ## Tree Ecology
 
@@ -132,7 +132,7 @@ Trees don't exist in isolation. They're members of communities, and dendrologist
 
 When a disturbance clears land—fire, logging, [agriculture](/agriculture), or natural disaster—the trees that colonize first aren't the same as those that form the eventual mature forest. Pioneer species (birches, aspens, willows) are fast-growing, sun-loving, and short-lived. They're replaced over decades by intermediate species, which are eventually overtaken by shade-tolerant climax species (beeches, hemlocks, sugar maples in northeastern North America).
 
-This process, called ecological succession, unfolds over 100-400 years depending on the ecosystem. Understanding it is critical for forestry [management](/management) and [ecological](/ecology) restoration.
+This process, called ecological succession, unfolds over 100-400 years depending on the ecosystem. Understanding it is critical for [forestry](/forestry) [management](/management) and [ecological](/ecology) restoration.
 
 ### Mycorrhizal Networks
 
@@ -148,7 +148,7 @@ Trees are both affected by and affect climate in profound ways.
 
 As carbon sinks, forests absorb approximately 2.6 billion tonnes of CO2 annually—about 30% of human emissions. Tropical forests are the biggest sinks, but boreal forests store more total carbon because their cold soils decompose organic matter slowly, locking carbon away for centuries.
 
-Climate change is reshaping forests worldwide. Species ranges are shifting poleward and upward in elevation. Growing seasons are lengthening. Drought stress is increasing in many regions. Pest outbreaks (mountain pine beetle in western North America, bark beetles in Europe) are expanding as warmer winters fail to kill overwintering larvae.
+[Climate change](/climate-change) is reshaping forests worldwide. Species ranges are shifting poleward and upward in elevation. Growing seasons are lengthening. Drought stress is increasing in many regions. Pest outbreaks (mountain pine beetle in western North America, bark beetles in Europe) are expanding as warmer winters fail to kill overwintering larvae.
 
 Dendrology provides the scientific foundation for understanding these changes and predicting their consequences—information critical for conservation and forest management in a changing climate.
 
@@ -176,7 +176,7 @@ Dendrological research identifies endangered species, assesses their conservatio
 
 The properties of different woods—density, grain pattern, workability, durability, flexibility—determine their suitability for specific uses. Oak for furniture and barrel-making. Spruce for musical instruments and construction. Teak for boat-building. Balsa for model-making and insulation.
 
-These properties trace directly back to the tree's biology—its growth rate, cell structure, and chemical composition. Understanding why a particular species produces wood with specific qualities is applied dendrology at its most practical.
+These properties trace directly back to the tree's [biology](/biology)—its growth rate, cell structure, and chemical composition. Understanding why a particular species produces wood with specific qualities is applied dendrology at its most practical.
 
 ## Dendrochronology: The Tree Ring Connection
 

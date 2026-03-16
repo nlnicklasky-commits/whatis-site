@@ -69,7 +69,7 @@ The vertical distance between consecutive contour lines is called the contour in
 
 Topographic maps show far more than elevation. Standard USGS maps include:
 
-- **Hydrography** — rivers, streams, lakes, wetlands, springs (shown in blue)
+- **Hydrography** — rivers, streams, lakes, wetlands, [springs](/springs) (shown in blue)
 - **Vegetation** — forested areas appear in green tints
 - **Transportation** — roads, trails, railroads (black and red)
 - **Boundaries** — political borders, public land boundaries
@@ -84,13 +84,13 @@ Measuring the shape of the Earth has gone from chain-and-compass fieldwork to sa
 
 ### Traditional Surveying
 
-For centuries, topographic surveying meant sending teams into the field with measuring instruments. They'd establish baselines, measure angles with theodolites, determine elevations with spirit levels, and painstakingly record thousands of data points. A single USGS topographic map sheet could take a field crew months or even years to complete.
+For centuries, topographic [surveying](/surveying) meant sending teams into the field with measuring instruments. They'd establish baselines, measure angles with theodolites, determine elevations with spirit levels, and painstakingly record thousands of data points. A single USGS topographic map sheet could take a field crew months or even years to complete.
 
 The work was physically grueling. Early survey teams hauled heavy equipment up mountains, across deserts, and through dense forests. The Great Trigonometrical Survey of India (1802-1871) — which measured the height of Mount Everest and mapped the entire subcontinent — was one of the largest scientific undertakings of the 19th century. Workers died from malaria, tiger attacks, and sheer exhaustion.
 
 ### Aerial Photogrammetry
 
-The invention of aircraft changed everything. By the 1930s, stereoscopic aerial photography became the primary method for creating topographic maps. Two overlapping photographs taken from slightly different positions (mimicking human binocular vision) could be viewed through a stereoscope to perceive depth. Specialized instruments called stereoplotters allowed cartographers to trace contour lines directly from the 3D image.
+The [invention](/invention) of aircraft changed everything. By the 1930s, stereoscopic aerial photography became the primary method for creating topographic maps. Two overlapping photographs taken from slightly different positions (mimicking human binocular vision) could be viewed through a stereoscope to perceive depth. Specialized instruments called stereoplotters allowed cartographers to trace contour lines directly from the 3D image.
 
 Photogrammetry dramatically accelerated mapping. What took a field crew months could be accomplished in weeks from an office. The USGS completed its coverage of the contiguous United States primarily through aerial photogrammetry during the mid-20th century.
 
@@ -127,7 +127,7 @@ These calculations happen in Geographic [Information Systems](/information-syste
 
 ### Resolution Matters
 
-The usefulness of a DEM depends heavily on its resolution. SRTM data at 30-meter resolution is fine for regional planning but useless for designing a building foundation. LiDAR-derived DEMs at 1-meter resolution can show individual drainage ditches and building footprints. Some engineering projects use survey-grade DEMs at centimeter resolution.
+The usefulness of a DEM depends heavily on its resolution. SRTM data at 30-meter resolution is fine for regional planning but useless for designing a building foundation. LiDAR-derived DEMs at 1-meter resolution can show individual drainage ditches and building footprints. Some [engineering](/engineering) projects use survey-grade DEMs at centimeter resolution.
 
 There's always a trade-off between resolution, coverage area, and data volume. A 1-meter DEM of a single county might be several gigabytes. The same resolution for an entire state could be terabytes. Managing and processing this data requires serious computing power, which is why cloud-based GIS platforms have become essential tools.
 
@@ -145,7 +145,7 @@ Valleys trap cold air (cold air pooling), creating frost pockets that affect agr
 
 Topography is the primary control on where water goes. The simple principle is gravity: water flows downhill, following the steepest available path. The pattern of ridges and valleys defines watersheds — areas where all precipitation drains to a common outlet. The Mississippi River watershed, for example, covers 1.24 million square miles across 31 states, all defined by topography.
 
-Stream patterns are diagnostic of underlying geology and topography. Dendritic (tree-like) patterns develop on uniform slopes. Trellis patterns form on folded rock layers. Radial patterns emerge from volcanic cones. A trained geomorphologist can read the geological history of a region just from its drainage pattern on a topographic map.
+Stream patterns are diagnostic of underlying [geology](/geology) and topography. Dendritic (tree-like) patterns develop on uniform slopes. Trellis patterns form on folded rock layers. Radial patterns emerge from volcanic cones. A trained geomorphologist can read the geological history of a region just from its drainage pattern on a topographic map.
 
 ### Ecology
 
@@ -169,7 +169,7 @@ A dam's location is determined almost entirely by topography. Engineers need a n
 
 Cities that ignore topography pay the price. Houston, Texas — built on a flat coastal plain with clay soils — experiences devastating floods partly because there's nowhere for the water to go. The topography offers almost no natural drainage relief. In contrast, cities built on moderate slopes tend to drain naturally, though they face different challenges like erosion and landslides.
 
-Modern flood management uses high-resolution topographic data to designate flood zones, design stormwater systems, and plan evacuation routes. The [NOAA National Geodetic Survey](https://geodesy.noaa.gov/) maintains the vertical reference framework that all of these calculations depend on. Without accurate elevation data, a flood map is just a guess.
+Modern flood [management](/management) uses high-resolution topographic data to designate flood zones, design stormwater systems, and plan evacuation routes. The [NOAA National Geodetic Survey](https://[geodesy](/geodesy).noaa.gov/) maintains the vertical reference framework that all of these calculations depend on. Without accurate elevation data, a flood map is just a guess.
 
 ## Military Topography: Terrain as Weapon and Shield
 
@@ -177,7 +177,7 @@ Topography has shaped [military strategy](/military-strategy) since armies first
 
 The Battle of Gettysburg (1863) was largely a fight over topographic features — Cemetery Ridge, Little Round Top, and Devil's Den. The Union army's position on higher ground gave them a decisive advantage that contributed to a Confederate defeat considered the turning point of the American Civil War.
 
-Modern militaries invest heavily in topographic intelligence. Terrain analysis — combining elevation data with land cover, soil type, and hydrology — determines where vehicles can travel, where helicopters can land, and where defensive positions are most effective. The U.S. National Geospatial-Intelligence Agency (NGA) employs thousands of people to produce topographic and geospatial data for military operations worldwide.
+Modern militaries invest heavily in topographic intelligence. Terrain analysis — combining elevation data with land cover, soil type, and [hydrology](/hydrology) — determines where vehicles can travel, where helicopters can land, and where defensive positions are most effective. The U.S. National Geospatial-Intelligence Agency (NGA) employs thousands of people to produce topographic and geospatial data for military operations worldwide.
 
 ## Undersea Topography: Bathymetry
 

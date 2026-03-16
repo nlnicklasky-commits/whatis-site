@@ -39,7 +39,7 @@ faq:
 
 # What Is Botany?
 
-Botany is the scientific study of plants — their structure, physiology, genetics, ecology, distribution, classification, and evolutionary relationships. As a branch of biology, it covers everything from microscopic algae to towering redwoods, encompassing roughly 380,000 known species that form the foundation of nearly every terrestrial ecosystem on Earth.
+Botany is the scientific study of plants — their structure, [physiology](/physiology), [genetics](/genetics), [ecology](/ecology), distribution, classification, and evolutionary relationships. As a branch of [biology](/biology), it covers everything from microscopic algae to towering redwoods, encompassing roughly 380,000 known species that form the foundation of nearly every terrestrial ecosystem on Earth.
 
 ## Plants Run the World (Seriously)
 
@@ -91,7 +91,7 @@ But the actual process is anything but simple. Photosynthesis involves two major
 
 Plants have evolved different photosynthetic strategies for different environments. C3 plants (most species, including wheat and rice) use the standard Calvin cycle. C4 plants (corn, sugarcane, many tropical grasses) have an extra step that concentrates CO₂, making them more efficient in hot, sunny conditions. CAM plants (cacti, succulents, pineapples) open their stomata only at night to minimize water loss — a critical adaptation for deserts.
 
-These variations matter enormously for [agriculture](/agriculture). As climate change shifts temperature and rainfall patterns, understanding which crops use which photosynthetic pathway helps predict which will thrive and which will struggle.
+These variations matter enormously for [agriculture](/agriculture). As [climate change](/climate-change) shifts temperature and rainfall patterns, understanding which crops use which photosynthetic pathway helps predict which will thrive and which will struggle.
 
 ### Plant Anatomy: Built Different
 
@@ -121,7 +121,7 @@ Botany is broad enough that it has split into numerous subspecialties. Here are 
 
 ### Plant Taxonomy and Systematics
 
-Classifying and naming plants remains foundational work. Modern taxonomy uses DNA sequencing alongside morphological characteristics, and the results have reshuffled our understanding of plant relationships significantly. Some plants that look similar turn out to be distant relatives. Others that appear completely different share recent common ancestors.
+Classifying and naming plants remains foundational work. Modern [taxonomy](/taxonomy) uses DNA sequencing alongside morphological characteristics, and the results have reshuffled our understanding of plant relationships significantly. Some plants that look similar turn out to be distant relatives. Others that appear completely different share recent common ancestors.
 
 The APG (Angiosperm Phylogeny Group) system, first published in 1998 and updated regularly, represents the current consensus on how flowering plants are related. It replaced older systems based solely on physical appearance with classifications reflecting actual evolutionary history.
 
@@ -145,7 +145,7 @@ Plant ecology studies how plants interact with each other, with animals, and wit
 
 **Invasion biology** studies how non-native plants establish in new environments and displace native species. Invasive plants cost the US economy an estimated $34.7 billion annually in agricultural losses and control efforts. Understanding invasion mechanisms is essential for effective [management](/management).
 
-**Conservation botany** works to prevent plant extinctions. The IUCN estimates that roughly 40% of the world's plant species are threatened with extinction — a staggering figure that doesn't get the attention it deserves compared to animal conservation. Botanical gardens serve as living gene banks, maintaining collections of rare species as insurance against extinction in the wild.
+**Conservation botany** works to prevent plant extinctions. The IUCN estimates that roughly 40% of the world's plant species are threatened with extinction — a staggering figure that doesn't get the attention it deserves compared to animal conservation. Botanical gardens serve as living gene banks, maintaining collections of rare species as [insurance](/insurance) against extinction in the wild.
 
 ### [Ethnobotany](/ethnobotany)
 

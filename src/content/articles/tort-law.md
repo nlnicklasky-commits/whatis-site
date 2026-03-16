@@ -100,4 +100,4 @@ Tort law is politically contentious. Reform advocates argue that excessive litig
 
 Opponents argue that tort reform primarily benefits corporations at the expense of injured individuals, that the "frivolous lawsuit" narrative is exaggerated, and that the threat of liability is the main incentive for companies to maintain safety standards.
 
-The debate continues, with different states adopting different reform measures. Wherever you stand politically, understanding tort law matters — because the principles of duty, care, and responsibility that it embodies affect how virtually every business and institution operates.
+The [debate](/debate) continues, with different states adopting different reform measures. Wherever you stand politically, understanding tort law matters — because the principles of duty, care, and responsibility that it embodies affect how virtually every business and institution operates.

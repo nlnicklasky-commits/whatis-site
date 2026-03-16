@@ -37,7 +37,7 @@ faq:
 
 # What Is Proteomics?
 
-Proteomics is the large-scale study of the complete set of proteins produced by an organism, cell type, or tissue at a specific time and under specific conditions. While [genetics](/genetics) tells you what an organism *could* make, proteomics tells you what it's *actually* making right now — and that distinction turns out to be enormously important for understanding health, disease, and biology itself.
+Proteomics is the large-scale study of the complete set of proteins produced by an organism, cell type, or tissue at a specific time and under specific conditions. While [genetics](/genetics) tells you what an organism *could* make, proteomics tells you what it's *actually* making right now — and that distinction turns out to be enormously important for understanding health, disease, and [biology](/biology) itself.
 
 ## Why Proteins, Not Just Genes?
 
@@ -59,13 +59,13 @@ Genomics gives you the 20,000-gene view. Proteomics gives you the million-proteo
 
 The classic "central dogma" of [molecular biology](/molecular-biology) says: DNA makes RNA makes protein. It's a useful simplification, but reality is messier.
 
-**Transcription isn't the whole story.** Gene expression studies (transcriptomics) measure mRNA levels, and mRNA levels don't reliably predict protein levels. The correlation between mRNA abundance and protein abundance in human cells is only about 40%. Translation efficiency, protein stability, and degradation rates all create discrepancies. A gene might be actively transcribed but its protein rapidly degraded — or barely transcribed but its protein extremely stable and abundant.
+**[Transcription](/transcription) isn't the whole story.** Gene expression studies (transcriptomics) measure mRNA levels, and mRNA levels don't reliably predict protein levels. The correlation between mRNA abundance and protein abundance in human cells is only about 40%. [Translation](/translation) efficiency, protein stability, and degradation rates all create discrepancies. A gene might be actively transcribed but its protein rapidly degraded — or barely transcribed but its protein extremely stable and abundant.
 
 **Post-translational modifications (PTMs) change everything.** After a protein is made, it can be chemically modified in hundreds of ways:
 
 - **Phosphorylation**: Adding a phosphate group — the most common regulatory modification, controlling protein activity like an on/off switch. Over 13,000 human proteins are phosphorylated.
 - **Glycosylation**: Adding sugar chains — affects protein folding, stability, and cell-cell recognition. Critical for immune function.
-- **Ubiquitination**: Tagging with ubiquitin — often marks proteins for destruction by the proteasome (the cell's recycling center).
+- **Ubiquitination**: Tagging with ubiquitin — often marks proteins for destruction by the proteasome (the cell's [recycling](/recycling) center).
 - **Acetylation**: Adding an acetyl group — regulates gene expression through histone modifications and controls metabolic enzymes.
 - **Methylation, sumoylation, lipidation** — the list goes on.
 
@@ -151,7 +151,7 @@ Proteomics is moving from research laboratories into clinical practice, though m
 
 ### Nutrition and Agriculture
 
-Proteomics characterizes protein composition in foods, identifies allergens, and monitors food quality. In agriculture, proteomics helps understand crop stress responses, improve [plant breeding](/plant-breeding), and develop disease-resistant varieties.
+Proteomics characterizes protein composition in foods, identifies allergens, and monitors food quality. In [agriculture](/agriculture), proteomics helps understand crop stress responses, improve [plant breeding](/plant-breeding), and develop disease-resistant varieties.
 
 ### [Environmental Science](/environmental-science)
 
@@ -169,7 +169,7 @@ False discovery rates (FDR) control the quality of identifications. The standard
 
 ### Statistical Analysis
 
-Comparing proteomes across conditions — healthy vs. diseased, treated vs. untreated — requires rigorous statistics. Missing values are common (a protein might be detected in some samples but not others), and the large number of proteins tested demands multiple testing corrections to avoid false discoveries.
+Comparing proteomes across conditions — healthy vs. diseased, treated vs. untreated — requires rigorous [statistics](/statistics). Missing values are common (a protein might be detected in some samples but not others), and the large number of proteins tested demands multiple testing corrections to avoid false discoveries.
 
 ### Machine Learning
 
@@ -199,9 +199,9 @@ Moving proteomics from research to clinical practice requires validation at a sc
 
 ## The Future of Proteomics
 
-**Single-cell proteomics** will reveal how individual cells within a tissue differ in their protein profiles — critical for understanding cancer heterogeneity, immune responses, and stem cell biology.
+**Single-cell proteomics** will reveal how individual cells within a tissue differ in their protein profiles — critical for understanding cancer heterogeneity, immune responses, and stem [cell biology](/cell-biology).
 
-**Spatial proteomics** maps protein location within tissues at cellular resolution. Technologies like imaging mass spectrometry and multiplexed immunofluorescence show not just which proteins are present but exactly where they are in the tissue architecture.
+**Spatial proteomics** maps protein location within tissues at cellular resolution. Technologies like imaging mass spectrometry and multiplexed immunofluorescence show not just which proteins are present but exactly where they are in the tissue [architecture](/architecture).
 
 **Clinical proteomics** is moving toward blood tests that can screen for multiple cancers simultaneously. Large-scale studies like the UK Biobank are building the datasets needed to validate multi-protein biomarker panels.
 

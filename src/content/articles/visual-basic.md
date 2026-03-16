@@ -36,7 +36,7 @@ faq:
 ---
 
 # What Is Visual Basic?
-Visual Basic is a programming language and development environment created by Microsoft in 1991 that allowed developers to build Windows applications by visually designing user interfaces and writing code in an English-like syntax. It was one of the first languages to make graphical application development accessible to non-expert programmers, and it became one of the most widely used [programming languages](/programming-languages) in history.
+Visual Basic is a programming language and development environment created by Microsoft in 1991 that allowed developers to build Windows applications by visually designing user interfaces and [writing](/writing) code in an English-like [syntax](/syntax). It was one of the first languages to make graphical application development accessible to non-expert programmers, and it became one of the most widely used [programming languages](/programming-languages) in history.
 
 At its peak in the late 1990s, there were an estimated 6 million Visual Basic developers worldwide — more than any other programming language at the time.
 
@@ -68,7 +68,7 @@ The DAO (Data Access Objects) model let you connect to databases, run queries, a
 
 ### Visual Basic 4.0-5.0 (1995-1997)
 
-These versions added increasingly serious capabilities. VB4 introduced 32-bit compilation for Windows 95, classes (limited object-oriented programming), and the ability to create OLE Automation servers. VB5 added native code compilation (programs ran significantly faster) and the ability to create ActiveX controls — reusable components that could be embedded in web pages through Internet Explorer.
+These versions added increasingly serious capabilities. VB4 introduced 32-bit compilation for Windows 95, classes (limited [object-oriented programming](/object-oriented-programming)), and the ability to create OLE Automation servers. VB5 added native code compilation (programs ran significantly faster) and the ability to create ActiveX controls — reusable components that could be embedded in web pages through Internet Explorer.
 
 The ActiveX era was VB's browser moment. For a brief period in the mid-to-late 1990s, Visual Basic components ran inside web pages. It was slow, insecure, and only worked in Internet Explorer, but it existed — and it gave VB developers a (limited) on-ramp to [web development](/web-development).
 
@@ -76,7 +76,7 @@ The ActiveX era was VB's browser moment. For a brief period in the mid-to-late 1
 
 VB6 was the peak. It was fast enough, capable enough, and stable enough to build serious business applications. ADO (ActiveX Data Objects) replaced DAO for database access. The IDE was polished and productive. A massive ecosystem of third-party controls and components existed.
 
-VB6 applications ran everything from small business [accounting](/accounting) systems to banking front-ends to medical records systems. Many of these applications are still running today — over 25 years later — because they work, nobody wants to pay for a rewrite, and the cost of replacing a system that "just works" is hard to justify.
+VB6 applications ran everything from small business [accounting](/accounting) systems to banking front-ends to medical records systems. Many of these applications are still [running](/running) today — over 25 years later — because they work, nobody wants to pay for a rewrite, and the cost of replacing a system that "just works" is hard to justify.
 
 Microsoft released VB6 in September 1998. They had no idea it would be the last "classic" version.
 
@@ -128,7 +128,7 @@ Key language features across versions:
 
 Visual Basic triggered one of programming's longest-running cultural debates: is accessibility a feature or a flaw?
 
-The "real programmers don't use VB" camp argued that VB encouraged bad habits — poor error handling, spaghetti code, ignorance of memory management, and an overall lack of rigor. They pointed (often correctly) to VB applications that were unmaintainable messes of global variables and GoTo statements.
+The "real programmers don't use VB" camp argued that VB encouraged bad habits — poor error handling, spaghetti code, ignorance of memory [management](/management), and an overall lack of rigor. They pointed (often correctly) to VB applications that were unmaintainable messes of global variables and GoTo statements.
 
 The "VB democratized programming" camp countered that most software doesn't need to be elegant — it needs to solve a problem. A working inventory system written by a small business owner in VB is infinitely more valuable than the "proper" C++ application they never would have built.
 
@@ -158,7 +158,7 @@ As of 2025, Visual Basic exists in several forms with very different levels of v
 
 **VB6 applications** still run in production at many organizations. The VB6 runtime ships with Windows 11 and will likely continue to be included for the foreseeable future. Microsoft has repeatedly extended its support commitment because so many businesses depend on VB6 applications. Some companies have been running the same VB6 applications for 20+ years.
 
-**Legacy migration** is a significant industry. Consultancies specialize in migrating VB6 and VBA applications to modern platforms — .NET, web applications, or cloud services. The migration work is technically straightforward but organizationally complex because the original developers are often long gone, documentation is sparse, and business logic is buried in code that nobody fully understands.
+**Legacy migration** is a significant industry. Consultancies specialize in migrating VB6 and VBA applications to modern platforms — .NET, web applications, or cloud services. The migration work is technically straightforward but organizationally complex because the original developers are often long gone, documentation is sparse, and business [logic](/logic) is buried in code that nobody fully understands.
 
 ## Lessons from Visual Basic
 

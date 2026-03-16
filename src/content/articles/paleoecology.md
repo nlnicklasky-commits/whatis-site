@@ -61,7 +61,7 @@ Different plant species produce pollen with distinctive shapes. An oak grain loo
 
 Stack these spectra from a sediment core — bottom (oldest) to top (youngest) — and you get a pollen diagram showing how vegetation changed over time. A typical lake sediment core from northern Europe might show tundra pollen at the bottom (last ice age), followed by birch and pine (early warming), then oak, elm, and lime (warm period), then declining elm and increasing grass and cereal pollen (human agricultural clearance).
 
-This technique — pollen analysis or palynology — has reconstructed vegetation history across entire continents with remarkable detail. We know when forests expanded after the ice ages, when prairies replaced forests, when humans began farming, and when specific tree species declined due to disease (the elm decline around 5,000 years ago in Europe, likely caused by Dutch elm disease, shows up in pollen records across the continent).
+This technique — pollen analysis or palynology — has reconstructed vegetation history across entire continents with remarkable detail. We know when forests expanded after the ice ages, when prairies replaced forests, when humans began [farming](/farming), and when specific tree species declined due to disease (the elm decline around 5,000 years ago in Europe, likely caused by Dutch elm disease, shows up in pollen records across the continent).
 
 ### Diatoms
 
@@ -89,7 +89,7 @@ Russell Coope pioneered this approach in the 1960s, showing that beetle faunas i
 
 ### Stable Isotopes
 
-Chemical signatures in biological materials record environmental conditions. The ratio of oxygen-18 to oxygen-16 in carbonate shells tracks temperature and ice volume. The ratio of carbon-13 to carbon-12 in organic matter distinguishes between different photosynthetic pathways (and thus vegetation types). Nitrogen isotope ratios indicate nutrient cycling and trophic level.
+Chemical signatures in biological materials record environmental conditions. The ratio of oxygen-18 to oxygen-16 in carbonate shells tracks temperature and ice volume. The ratio of carbon-13 to carbon-12 in organic matter distinguishes between different photosynthetic pathways (and thus vegetation types). Nitrogen isotope ratios indicate nutrient [cycling](/cycling) and trophic level.
 
 Stable isotope analysis has become standard in paleoecology. Ice cores from Greenland and Antarctica, analyzed for oxygen isotopes, have produced the most detailed record of global temperature change over the past 800,000 years — a record that clearly shows the correlation between temperature and atmospheric CO2 concentration that backs up our understanding of greenhouse gas warming.
 
@@ -103,7 +103,7 @@ In many ecosystems, fire is a natural and necessary process. Paleoecological fir
 
 Individual proxies tell partial stories. The art of paleoecology lies in combining multiple lines of evidence to reconstruct entire ecosystems.
 
-Consider reconstructing a lake ecosystem from 8,000 years ago. Pollen records reveal the surrounding forest composition. Diatom assemblages indicate water chemistry and clarity. Chironomid (midge) head capsules indicate water temperature. Cladoceran (water flea) remains indicate food web structure. Fish bones and scales indicate which fish species were present. Charcoal reveals fire frequency. Stable isotopes reveal nutrient cycling. Sediment chemistry reveals erosion rates and watershed stability.
+Consider reconstructing a lake ecosystem from 8,000 years ago. Pollen records reveal the surrounding forest composition. Diatom assemblages indicate water [chemistry](/chemistry) and clarity. Chironomid (midge) head capsules indicate water temperature. Cladoceran (water flea) remains indicate food web structure. Fish bones and scales indicate which fish species were present. Charcoal reveals fire frequency. Stable isotopes reveal nutrient cycling. Sediment chemistry reveals erosion rates and watershed stability.
 
 Layer all of these together and you get a remarkably detailed picture: the forest species, the lake's clarity and temperature, the food web from algae to fish, the fire regime, the nutrient status, and how all of these interacted. Change one variable — add [agriculture](/agriculture) to the watershed, for instance — and you can trace the cascading effects through every part of the ecosystem.
 
@@ -117,7 +117,7 @@ In Europe, the Iberian Peninsula, Italy, and the Balkans served as refugia for t
 
 ### Megafaunal Extinctions
 
-The end of the last ice age (roughly 12,000-10,000 years ago) saw the extinction of most large mammals on every continent except Africa: mammoths, mastodons, giant ground sloths, saber-toothed cats, giant armadillos, and dozens more. Was climate change responsible, or human hunting?
+The end of the last ice age (roughly 12,000-10,000 years ago) saw the extinction of most large mammals on every continent except Africa: mammoths, mastodons, giant ground sloths, saber-toothed cats, giant armadillos, and dozens more. Was [climate change](/climate-change) responsible, or human [hunting](/hunting)?
 
 Paleoecological evidence suggests the answer is "both, in different proportions depending on the continent." The timing of extinctions closely tracks human arrival on each landmass — the Americas, Australia, Madagascar, New Zealand. But climate changes made populations vulnerable. Spore records of the dung fungus *Sporormiella* — which grows on herbivore dung — show that megafaunal populations crashed before vegetation changed, suggesting that hunting drove the declines and climate prevented recovery.
 

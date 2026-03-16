@@ -63,7 +63,7 @@ These aren't one-time decisions. As data grows and usage patterns change, config
 
 This is often considered the most challenging—and most valuable—DBA skill. When a query that should return in 200 milliseconds takes 30 seconds, someone needs to figure out why.
 
-**Query [optimization](/optimization)** involves analyzing SQL statements to find inefficiencies. Maybe a query is scanning an entire table when an index would allow it to jump directly to the relevant rows. Maybe a subquery runs once per row instead of once total. Maybe the query planner chose a bad execution plan because statistics are outdated.
+**Query [optimization](/optimization)** involves analyzing SQL statements to find inefficiencies. Maybe a query is scanning an entire table when an index would allow it to jump directly to the relevant rows. Maybe a subquery runs once per row instead of once total. Maybe the query planner chose a bad execution plan because [statistics](/statistics) are outdated.
 
 **Index management** is critical. Indexes speed up data retrieval—like the index at the back of a book, they let the database find rows without scanning everything. But indexes aren't free. Each index consumes disk space and slows down write operations (every insert and update must update every relevant index). Too few indexes and reads are slow. Too many and writes are slow. Finding the right balance is an ongoing exercise.
 
@@ -101,7 +101,7 @@ Database security operates in layers, and a DBA manages most of them.
 
 ### High Availability and Disaster Recovery
 
-Modern businesses expect databases to be available 24/7. Downtime costs real money—Amazon estimated that a one-hour outage costs them $34 million in lost sales.
+Modern businesses expect databases to be available 24/7. Downtime costs real money—Amazon estimated that a one-hour outage costs them $34 million in lost [sales](/sales).
 
 **Replication** maintains copies of the database on multiple servers. If the primary server fails, a replica takes over. Synchronous replication ensures no data loss (the primary waits for the replica to confirm each write) but adds latency. Asynchronous replication is faster but risks losing recent transactions during failover.
 
@@ -113,7 +113,7 @@ Modern businesses expect databases to be available 24/7. Downtime costs real mon
 
 The DBA role has specialized as databases have grown more complex.
 
-**Production DBA** manages live databases that serve applications and users. This is the classic DBA role: keeping systems running, handling emergencies, and ensuring performance meets SLAs. On-call rotations and middle-of-the-night pages are common.
+**Production DBA** manages live databases that serve applications and users. This is the classic DBA role: keeping systems [running](/running), handling emergencies, and ensuring performance meets SLAs. On-call rotations and middle-of-the-night pages are common.
 
 **Development DBA** works closely with software development teams, optimizing queries, designing [database schemas](/database-design), reviewing data access patterns, and ensuring that new code won't create performance problems in production.
 
@@ -129,7 +129,7 @@ The DBA role has specialized as databases have grown more complex.
 
 Relational databases store data in tables with defined relationships between them. SQL is the standard query language. They enforce ACID properties (Atomicity, Consistency, Isolation, Durability) that guarantee reliable transaction processing.
 
-**Oracle Database** dominates large enterprise environments, particularly in finance and telecommunications. It's expensive, complex, and powerful—with features for virtually every scenario. Oracle DBAs are among the highest-paid in the field.
+**Oracle Database** dominates large enterprise environments, particularly in [finance](/finance) and telecommunications. It's expensive, complex, and powerful—with features for virtually every scenario. Oracle DBAs are among the highest-paid in the field.
 
 **SQL Server** (Microsoft) is popular in Windows-based environments and organizations using the Microsoft stack. Strong integration with .NET, Azure, and Power BI.
 
@@ -166,9 +166,9 @@ This hasn't eliminated DBAs. It's shifted the job. Instead of installing operati
 
 ### Technical Skills
 
-**SQL mastery** is non-negotiable. Not just basic SELECT statements—advanced query writing, window functions, CTEs, execution plan analysis, and query optimization. A DBA who can't read and optimize SQL is like a mechanic who can't use a wrench.
+**SQL mastery** is non-negotiable. Not just basic SELECT statements—advanced query [writing](/writing), window functions, CTEs, execution plan analysis, and query optimization. A DBA who can't read and optimize SQL is like a mechanic who can't use a wrench.
 
-**Operating system administration** (Linux or Windows) matters because databases run on operating systems. Understanding file systems, memory management, process scheduling, and network configuration is essential for troubleshooting performance issues.
+**Operating system administration** (Linux or Windows) matters because databases run on operating systems. Understanding file systems, memory management, process [scheduling](/scheduling), and network configuration is essential for troubleshooting performance issues.
 
 **Scripting and automation** using Python, Bash, or PowerShell. Routine tasks that a DBA performs manually every day should be automated. Automated monitoring, automated health checks, automated backup verification—automation reduces errors and frees time for higher-value work.
 

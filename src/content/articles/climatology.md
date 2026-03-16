@@ -173,7 +173,7 @@ The climate system contains feedback mechanisms that amplify or dampen initial c
 
 **Water vapor feedback** (positive): Warming increases evaporation, putting more water vapor into the atmosphere. Water vapor is a greenhouse gas, so this causes more warming. This feedback roughly doubles the warming from CO2 alone.
 
-**Cloud feedback** (mixed, uncertain): Clouds can cool (by reflecting sunlight) or warm (by trapping infrared radiation), depending on type, altitude, and thickness. How cloud cover changes with warming is the largest source of uncertainty in climate projections.
+**Cloud feedback** (mixed, uncertain): Clouds can cool (by reflecting sunlight) or warm (by [trapping](/trapping) infrared radiation), depending on type, altitude, and thickness. How cloud cover changes with warming is the largest source of uncertainty in climate projections.
 
 **Carbon cycle feedbacks** (mixed): Warming could release carbon from permafrost (positive feedback) or could increase plant growth that absorbs CO2 (negative feedback). The net effect is uncertain but appears to be slightly positive—meaning the carbon cycle will likely amplify warming rather than moderate it.
 
@@ -191,18 +191,18 @@ A 1.1-degree average warming might not sound like much. But global averages conc
 
 ## Climatology as a Career and Field
 
-Climatologists work in universities, [government](/government) agencies (NASA, NOAA, EPA, national weather services worldwide), international organizations (IPCC, WMO), private consulting firms, and increasingly in the private sector (insurance companies need climate risk assessment, energy companies need climate projections for planning).
+Climatologists work in universities, [government](/government) agencies (NASA, NOAA, EPA, national weather services worldwide), international organizations (IPCC, WMO), private consulting firms, and increasingly in the private sector ([insurance](/insurance) companies need climate risk assessment, energy companies need climate projections for planning).
 
-The field draws on physics, [chemistry](/chemistry), [mathematics](/mathematics), [computer science](/computer-science), and statistics. Modern climatology is heavily computational—running and analyzing climate models requires strong programming skills and statistical literacy.
+The field draws on [physics](/physics), [chemistry](/chemistry), [mathematics](/mathematics), [computer science](/computer-science), and [statistics](/statistics). Modern climatology is heavily computational—[running](/running) and analyzing climate models requires strong programming skills and statistical literacy.
 
-The Intergovernmental Panel on Climate Change (IPCC), established in 1988, coordinates climate science worldwide. Its assessment reports, produced roughly every 6-7 years, represent the most thorough synthesis of climate science available. The Sixth Assessment Report (2021-2023) involved hundreds of scientists from dozens of countries reviewing thousands of peer-reviewed studies.
+The Intergovernmental Panel on [Climate Change](/climate-change) (IPCC), established in 1988, coordinates climate science worldwide. Its assessment reports, produced roughly every 6-7 years, represent the most thorough synthesis of climate science available. The Sixth Assessment Report (2021-2023) involved hundreds of scientists from dozens of countries reviewing thousands of peer-reviewed studies.
 
 ## The Path Forward
 
 Climatology tells us clearly what's happening and why. Earth is warming because of human greenhouse gas emissions. The warming will continue as long as emissions continue. The consequences—sea level rise, extreme weather, ecosystem disruption, agricultural stress—will intensify with every fraction of a degree.
 
-What climatology can't determine is what we do about it. That's a question of policy, economics, technology, and values. But climatology provides the scientific foundation for those decisions—the data, the models, the projections that allow society to make informed choices about [alternative energy](/alternative-energy), emissions reduction, and adaptation strategies.
+What climatology can't determine is what we do about it. That's a question of policy, [economics](/economics), technology, and values. But climatology provides the scientific foundation for those decisions—the data, the models, the projections that allow society to make informed choices about [alternative energy](/alternative-energy), emissions reduction, and adaptation strategies.
 
-Understanding climatology means understanding the most consequential environmental change in human history—not as a political debate, but as a physical process governed by well-understood science. The greenhouse effect isn't an opinion. The temperature record isn't a belief system. The ice cores don't have a political agenda.
+Understanding climatology means understanding the most consequential environmental change in human history—not as a political [debate](/debate), but as a physical process governed by well-understood science. The greenhouse effect isn't an opinion. The temperature record isn't a belief system. The ice cores don't have a political agenda.
 
 What climatology reveals is both sobering and clarifying: Earth's climate system responds to physical forces in predictable ways, and we are now the dominant force. What we do with that knowledge is the defining question of our time.

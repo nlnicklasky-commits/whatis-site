@@ -43,11 +43,11 @@ Despite this, the term stuck. It generally refers to the area from Egypt in the 
 
 The Middle East's historical significance is hard to overstate. The region produced an extraordinary number of human firsts:
 
-Agriculture began here. The Fertile Crescent — arcing from the Nile Valley through the Levant and down to [Mesopotamia](/mesopotamian-history) — is where humans first domesticated wheat, barley, sheep, goats, and cattle, roughly 10,000 years ago. That shift from hunting and gathering to farming made everything else possible: permanent settlements, surplus food, population growth, specialization of labor.
+Agriculture began here. The Fertile Crescent — arcing from the Nile Valley through the Levant and down to [Mesopotamia](/mesopotamian-history) — is where humans first domesticated wheat, barley, sheep, goats, and cattle, roughly 10,000 years ago. That shift from [hunting](/hunting) and gathering to [farming](/farming) made everything else possible: permanent settlements, surplus food, population growth, specialization of labor.
 
-The first cities appeared in Mesopotamia around 3500 BCE. The first writing systems — cuneiform in Mesopotamia, hieroglyphics in Egypt — emerged around 3400-3200 BCE. The first legal codes, the first mathematical systems, the first astronomical observations precise enough to predict celestial events — all Middle Eastern.
+The first cities appeared in Mesopotamia around 3500 BCE. The first [writing](/writing) systems — cuneiform in Mesopotamia, hieroglyphics in Egypt — emerged around 3400-3200 BCE. The first legal codes, the first mathematical systems, the first astronomical observations precise enough to predict celestial events — all Middle Eastern.
 
-And then there's religion. Judaism, [Christianity](/christianity), and Islam — the three Abrahamic faiths that together claim roughly 4 billion adherents — all originated in the Middle East. Jerusalem is sacred to all three. The region's religious significance has been a source of both profound meaning and devastating conflict for millennia.
+And then there's [religion](/religion). Judaism, [Christianity](/christianity), and [Islam](/islam) — the three Abrahamic faiths that together claim roughly 4 billion adherents — all originated in the Middle East. Jerusalem is sacred to all three. The region's religious significance has been a source of both profound meaning and devastating conflict for millennia.
 
 ## Ancient Empires
 
@@ -73,9 +73,9 @@ Muhammad, born in Mecca around 570 CE, began receiving revelations around 610 CE
 
 What followed, roughly from the 8th through the 13th centuries, is often called the Islamic Golden Age — and the label isn't hype. Baghdad, founded in 762 CE as the Abbasid caliphate's capital, became the world's largest and most intellectually vibrant city.
 
-The House of Wisdom (*Bayt al-Hikma*) in Baghdad translated and preserved Greek, Persian, and Indian scientific and philosophical texts that would otherwise have been lost. But Muslim scholars didn't just preserve — they extended. Al-Khwarizmi developed algebra (the word comes from his book's title, *al-Kitab al-mukhtasar fi hisab al-jabr wa'l-muqabala*). Ibn al-Haytham wrote the foundational text on optics. Ibn Sina (Avicenna) produced a medical encyclopedia used in European universities for 600 years. Al-Biruni calculated Earth's circumference to within 10 miles of the modern value.
+The House of Wisdom (*Bayt al-Hikma*) in Baghdad translated and preserved Greek, Persian, and Indian scientific and philosophical texts that would otherwise have been lost. But Muslim scholars didn't just preserve — they extended. Al-Khwarizmi developed [algebra](/algebra) (the word comes from his book's title, *al-Kitab al-mukhtasar fi hisab al-jabr wa'l-muqabala*). Ibn al-Haytham wrote the foundational text on [optics](/optics). Ibn Sina (Avicenna) produced a medical encyclopedia used in European universities for 600 years. Al-Biruni calculated Earth's circumference to within 10 miles of the modern value.
 
-This intellectual flourishing occurred alongside enormous commercial prosperity. Muslim merchants dominated trade routes from China to West Africa. The Middle East sat at the crossroads of global commerce — silk, spices, gold, slaves, textiles, and ideas all flowed through its cities.
+This intellectual flourishing occurred alongside enormous commercial prosperity. Muslim merchants dominated [trade](/trade) routes from China to West Africa. The Middle East sat at the crossroads of global commerce — silk, spices, gold, slaves, textiles, and ideas all flowed through its cities.
 
 ## The Ottoman Centuries
 
@@ -91,7 +91,7 @@ Ottoman decline was gradual, stretching across the 18th and 19th centuries. Mili
 
 [World War I](/world-war-i) destroyed the Ottoman Empire and produced the modern Middle Eastern state system — with consequences that reverberate today.
 
-The Sykes-Picot Agreement (1916) is the most infamous episode. British and French diplomats secretly divided the Ottoman Empire's Arab provinces between their two countries, drawing borders on a map with little regard for ethnic, religious, or tribal realities on the ground. Britain took Iraq, Palestine, and Transjordan. France took Syria and Lebanon.
+The Sykes-Picot Agreement (1916) is the most infamous episode. British and French diplomats secretly divided the Ottoman Empire's Arab provinces between their two countries, [drawing](/drawing) borders on a map with little regard for ethnic, religious, or tribal realities on the ground. Britain took Iraq, Palestine, and Transjordan. France took Syria and Lebanon.
 
 These weren't natural nations. Iraq combined Sunni Arabs, Shia Arabs, and Kurds — groups with distinct identities and often conflicting interests — into a single state because it was administratively convenient for Britain. Syria and Lebanon were carved apart for French strategic reasons. Palestine was promised simultaneously to Arab inhabitants and to the Zionist movement (through the Balfour Declaration of 1917), creating a contradiction that remains unresolved.
 

@@ -39,15 +39,15 @@ faq:
 
 # What Is Agriculture?
 
-Agriculture is the practice of cultivating plants, raising animals, and processing natural resources to produce food, fiber, and fuel. It's the single most important invention in human history — the thing that turned small bands of nomadic hunters into civilizations with cities, writing, and everything else we associate with modern life.
+Agriculture is the practice of cultivating plants, raising animals, and processing natural resources to produce food, fiber, and fuel. It's the single most important [invention](/invention) in human history — the thing that turned small bands of nomadic hunters into civilizations with cities, writing, and everything else we associate with modern life.
 
 ## How Growing Food Changed Everything
 
 Here's a number that might surprise you: for roughly 95% of human existence, nobody farmed. Humans spent about 200,000 years as hunter-gatherers before anyone thought to stick a seed in the ground and wait. When it finally happened — around 10,000 BCE in the Fertile Crescent (modern-day Iraq, Syria, and Turkey) — it changed absolutely everything.
 
-The shift wasn't fast. Early farmers didn't wake up one morning and decide to quit hunting. Archaeological evidence suggests the transition took thousands of years, with communities gradually relying more on cultivated crops and less on wild food sources. The earliest domesticated crops were wheat, barley, lentils, and flax. Animals came next — goats around 10,000 BCE, sheep and cattle shortly after.
+The shift wasn't fast. Early farmers didn't wake up one morning and decide to quit [hunting](/hunting). Archaeological evidence suggests the transition took thousands of years, with communities gradually relying more on cultivated crops and less on wild food sources. The earliest domesticated crops were wheat, barley, lentils, and flax. Animals came next — goats around 10,000 BCE, sheep and cattle shortly after.
 
-But here's the thing most people miss about the agricultural revolution: it didn't just change what people ate. It changed how humans organized themselves. Farming meant staying in one place. Staying in one place meant building permanent structures. Permanent structures meant villages. Villages meant specialization — not everyone had to find food anymore, so some people became potters, weavers, priests, and eventually bureaucrats.
+But here's the thing most people miss about the agricultural revolution: it didn't just change what people ate. It changed how humans organized themselves. [Farming](/farming) meant staying in one place. Staying in one place meant building permanent structures. Permanent structures meant villages. Villages meant specialization — not everyone had to find food anymore, so some people became potters, weavers, priests, and eventually bureaucrats.
 
 Agriculture didn't emerge in just one place, either. Independent agricultural revolutions happened in China (rice and millet, around 8,000 BCE), Mesoamerica (maize, around 7,000 BCE), the Andes (potatoes, around 8,000 BCE), and sub-Saharan Africa (sorghum, around 5,000 BCE). Each region domesticated different plants and animals based on what was locally available. The fact that it happened independently in so many places suggests that once human populations reached a certain density, farming became almost inevitable.
 
@@ -67,11 +67,11 @@ Different crops have different requirements. Rice needs flooded paddies. Wheat p
 
 Raising animals for meat, dairy, eggs, wool, and leather accounts for roughly 40% of global agricultural output by value. The numbers are enormous: approximately 1 billion cattle, 1 billion sheep, 980 million pigs, and over 33 billion chickens exist on Earth at any given time. (Yes, chickens outnumber humans roughly 4 to 1.)
 
-Livestock farming ranges from small-scale pastoral herding — where families move animals across open grasslands — to massive confined animal feeding operations (CAFOs) where thousands of cattle or tens of thousands of chickens are raised in controlled environments. The industrialization of animal agriculture over the past century has dramatically increased production efficiency while raising serious questions about animal welfare, antibiotic resistance, and environmental impact.
+[Livestock farming](/livestock-farming) ranges from small-scale pastoral herding — where families move animals across open grasslands — to massive confined animal feeding operations (CAFOs) where thousands of cattle or tens of thousands of chickens are raised in controlled environments. The industrialization of animal agriculture over the past century has dramatically increased production efficiency while raising serious questions about animal welfare, antibiotic resistance, and environmental impact.
 
 ### Horticulture
 
-Horticulture focuses on fruits, vegetables, nuts, herbs, and ornamental plants. Unlike large-scale grain farming, horticulture tends to be more labor-intensive and often happens on smaller plots. Think orchards, vineyards, market gardens, and greenhouses.
+[Horticulture](/horticulture) focuses on fruits, vegetables, nuts, herbs, and ornamental plants. Unlike large-scale grain farming, horticulture tends to be more labor-intensive and often happens on smaller plots. Think orchards, vineyards, market gardens, and greenhouses.
 
 It's a bigger deal economically than you might expect. The global horticultural market exceeds $300 billion annually. Crops like avocados, berries, and specialty vegetables command premium prices that can make small farms highly profitable per acre — even if their total output is tiny compared to a Midwestern corn operation.
 
@@ -97,7 +97,7 @@ Soil health determines crop yields more than almost any other factor. That's why
 
 Modern crop [genetics](/genetics) has produced varieties that would astonish farmers from a century ago. Norman Borlaug's dwarf wheat varieties — developed in the 1960s — essentially doubled or tripled yields in India and Pakistan, preventing predicted famines and earning Borlaug the Nobel Peace Prize. This "Green Revolution" relied on breeding shorter, sturdier plants that could support heavier grain heads without falling over.
 
-Today, seed companies use both traditional breeding and genetic engineering to develop crops resistant to specific pests, tolerant of drought, or able to grow in salty soils. Genetically modified organisms (GMOs) remain controversial — roughly 90% of corn, soybeans, and cotton grown in the United States are genetically modified, while many European and African countries restrict or ban them.
+Today, seed companies use both traditional breeding and genetic [engineering](/engineering) to develop crops resistant to specific pests, tolerant of drought, or able to grow in salty soils. Genetically modified organisms (GMOs) remain controversial — roughly 90% of corn, soybeans, and cotton grown in the United States are genetically modified, while many European and African countries restrict or ban them.
 
 The debate over GMOs is genuinely complicated. Proponents point to reduced pesticide use, higher yields, and the potential to address malnutrition (like Golden Rice, engineered to contain Vitamin A). Critics worry about corporate control of seed supplies, potential ecological impacts, and the lack of truly long-term safety studies.
 
@@ -123,7 +123,7 @@ Every farmer fights pests — insects, weeds, fungi, and diseases that compete w
 
 The introduction of synthetic pesticides in the mid-20th century — DDT being the most famous — initially seemed miraculous. Crop losses plummeted. But Rachel Carson's 1962 book *Silent Spring* documented the ecological devastation caused by widespread pesticide use, particularly its effects on bird populations. DDT was eventually banned in the U.S. in 1972.
 
-Modern pest management increasingly relies on Integrated Pest Management (IPM), which combines biological controls (introducing predator insects), cultural practices (crop rotation, resistant varieties), and targeted chemical applications only when necessary. The goal is to manage pests below economically damaging levels rather than attempting to eliminate them entirely.
+Modern pest [management](/management) increasingly relies on Integrated Pest Management (IPM), which combines biological controls (introducing predator insects), cultural practices (crop rotation, resistant varieties), and targeted chemical applications only when necessary. The goal is to manage pests below economically damaging levels rather than attempting to eliminate them entirely.
 
 ## The Economics of Feeding 8 Billion People
 
@@ -131,7 +131,7 @@ Agriculture is a $3.5 trillion global industry, yet farming itself is often fina
 
 ### The Farm Paradox
 
-Here's the fundamental weirdness of agricultural economics: when farmers get better at farming, they often make less money. It's called the "farm price paradox" or "the treadmill." When yields increase across the board, supply goes up, prices fall, and individual farmers aren't better off even though they're producing more. To survive, they need to adopt the next productivity improvement, which further increases supply, which further pushes prices down.
+Here's the fundamental weirdness of agricultural economics: when farmers get better at farming, they often make less money. It's called the "farm price paradox" or "the treadmill." When yields increase across the board, supply goes up, prices fall, and individual farmers aren't better off even though they're producing more. To survive, they need to adopt the next [productivity](/productivity) improvement, which further increases supply, which further pushes prices down.
 
 This is why farms keep getting bigger and more specialized. In 1935, there were 6.8 million farms in the United States. Today there are about 2 million, and the largest 10% produce over 75% of all agricultural output. Small farms haven't disappeared, but they increasingly depend on off-farm income, direct-to-consumer sales, or premium markets (organic, specialty crops) to remain viable.
 
@@ -143,7 +143,7 @@ These subsidies exist partly because food security is a national security issue 
 
 ### The Supply Chain
 
-Modern agriculture involves a supply chain of staggering complexity. A single loaf of bread might involve wheat from Kansas, yeast from a lab in Wisconsin, packaging from a plant in Georgia, and distribution through a logistics network spanning thousands of miles. The COVID-19 pandemic exposed how fragile these supply chains can be — processing plant closures led to food shortages even while crops rotted in fields.
+Modern agriculture involves a supply chain of staggering complexity. A single loaf of bread might involve wheat from Kansas, yeast from a lab in Wisconsin, packaging from a plant in Georgia, and distribution through a [logistics](/logistics) network spanning thousands of miles. The COVID-19 pandemic exposed how fragile these supply chains can be — processing plant closures led to food shortages even while crops rotted in fields.
 
 ## Agriculture and the Environment
 
@@ -179,13 +179,13 @@ The results can be impressive. Precision agriculture can reduce fertilizer use b
 
 Growing crops indoors under LED lights in stacked layers — vertical farming — eliminates weather risk, reduces water use by up to 95%, and can produce crops year-round regardless of climate. Companies like AeroFarms and Plenty have built large-scale vertical farms near major cities.
 
-The catch? Energy costs. Growing plants under artificial lights requires enormous electricity. Vertical farming currently makes economic sense mainly for high-value leafy greens and herbs — not for staple crops like wheat or corn, where the energy cost per calorie far exceeds conventional farming.
+The catch? Energy costs. Growing plants under artificial lights requires enormous [electricity](/electricity). Vertical farming currently makes economic sense mainly for high-value leafy greens and herbs — not for staple crops like wheat or corn, where the energy cost per calorie far exceeds conventional farming.
 
 ### Regenerative Agriculture
 
 Regenerative agriculture goes beyond "sustainable" (maintaining current conditions) to actively improving soil health, increasing biodiversity, and sequestering carbon. Key practices include no-till farming, cover cropping, diverse rotations, and integrating livestock with crop production.
 
-The idea is that healthy soil acts as a carbon sink — drawing CO2 from the atmosphere and storing it as organic matter. Some proponents argue that widespread adoption of regenerative practices could offset a meaningful portion of agricultural emissions. Skeptics counter that the carbon sequestration potential is overstated and difficult to measure accurately. The truth is probably somewhere in between.
+The idea is that healthy soil acts as a carbon sink — [drawing](/drawing) CO2 from the atmosphere and storing it as organic matter. Some proponents argue that widespread adoption of regenerative practices could offset a meaningful portion of agricultural emissions. Skeptics counter that the carbon sequestration potential is overstated and difficult to measure accurately. The truth is probably somewhere in between.
 
 ### Alternative Proteins
 
@@ -195,7 +195,7 @@ The motivation is straightforward: if livestock production accounts for 14.5% of
 
 ### Gene Editing
 
-CRISPR gene editing technology allows scientists to make precise modifications to crop [genetics](/genetics) without introducing foreign DNA — a key distinction from traditional GMOs that has led some regulators to treat gene-edited crops differently. Researchers are developing disease-resistant bananas, drought-tolerant corn, and non-browning mushrooms using CRISPR.
+CRISPR gene [editing](/editing) technology allows scientists to make precise modifications to crop [genetics](/genetics) without introducing foreign DNA — a key distinction from traditional GMOs that has led some regulators to treat gene-edited crops differently. Researchers are developing disease-resistant bananas, drought-tolerant corn, and non-browning mushrooms using CRISPR.
 
 The technology could be especially important for crops that are difficult to improve through conventional breeding. Cassava, a staple food for 800 million people in tropical regions, is being edited for resistance to viral diseases that cause billions of dollars in losses annually.
 
@@ -203,7 +203,7 @@ The technology could be especially important for crops that are difficult to imp
 
 About 500 million smallholder farms — those under 5 acres — produce roughly a third of the world's food. These farms, concentrated in Africa, Asia, and Latin America, face fundamentally different challenges than large commercial operations in wealthy countries.
 
-Many smallholders lack access to improved seeds, fertilizer, irrigation, credit, and markets. Post-harvest losses can exceed 30% due to inadequate storage and transportation infrastructure. Climate change hits these farmers hardest because they lack the resources to adapt — no crop insurance, no irrigation systems to fall back on during drought, no savings to survive a bad year.
+Many smallholders lack access to improved seeds, fertilizer, irrigation, credit, and markets. Post-harvest losses can exceed 30% due to inadequate storage and transportation infrastructure. [Climate change](/climate-change) hits these farmers hardest because they lack the resources to adapt — no crop [insurance](/insurance), no irrigation systems to fall back on during drought, no savings to survive a bad year.
 
 Improving smallholder productivity is one of the most effective ways to reduce global poverty. The World Bank estimates that GDP growth originating in agriculture is 2-4 times more effective at reducing poverty than growth in other sectors. That's because the poorest people tend to be farmers — when agriculture improves, the benefits flow directly to those who need them most.
 
@@ -219,7 +219,7 @@ This creates a genuine tension: mechanization increases productivity and reduces
 
 A few common misconceptions worth clearing up.
 
-**"Organic is always better."** Organic farming has real benefits — reduced chemical exposure, often better soil health, and lower environmental impact per acre in some metrics. But organic yields are typically 20-25% lower than conventional. If all farming went organic overnight, we'd need roughly 25% more farmland to produce the same amount of food. That means converting forests and grasslands to agriculture, which creates its own environmental problems.
+**"Organic is always better."** [Organic farming](/organic-farming) has real benefits — reduced chemical exposure, often better soil health, and lower environmental impact per acre in some metrics. But organic yields are typically 20-25% lower than conventional. If all farming went organic overnight, we'd need roughly 25% more farmland to produce the same amount of food. That means converting forests and grasslands to agriculture, which creates its own environmental problems.
 
 **"Small farms feed the world."** Smallholder farms do produce about a third of global food, but large-scale commercial agriculture produces the majority of staple crops. The romantic vision of small family farms feeding everyone isn't supported by the math. Both large and small farms have important roles, and pretending otherwise doesn't help anyone.
 
@@ -235,4 +235,4 @@ The decisions being made right now about agriculture — what technologies to ad
 
 ## Key Takeaways
 
-Agriculture is humanity's oldest and most important technology — the practice of growing food that made civilization possible. It encompasses crop production, livestock raising, [aquaculture](/aquaculture), horticulture, and forestry. Modern agriculture feeds 8 billion people through a combination of advanced [genetics](/genetics), synthetic fertilizers, [irrigation](/irrigation), mechanization, and global supply chains. But it also drives deforestation, contributes substantially to greenhouse gas emissions, depletes water resources, and reduces biodiversity. The future of agriculture depends on balancing the need to feed a growing population with the urgent need to reduce environmental damage — through precision farming, regenerative practices, alternative proteins, and better support for the world's 500 million smallholder farmers.
+Agriculture is humanity's oldest and most important technology — the practice of growing food that made civilization possible. It encompasses crop production, livestock raising, [aquaculture](/aquaculture), horticulture, and [forestry](/forestry). Modern agriculture feeds 8 billion people through a combination of advanced [genetics](/genetics), synthetic fertilizers, [irrigation](/irrigation), mechanization, and global supply chains. But it also drives deforestation, contributes substantially to greenhouse gas emissions, depletes water resources, and reduces biodiversity. The future of agriculture depends on balancing the need to feed a growing population with the urgent need to reduce environmental damage — through precision farming, regenerative practices, alternative proteins, and better support for the world's 500 million smallholder farmers.

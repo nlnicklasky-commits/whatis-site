@@ -37,7 +37,7 @@ faq:
 
 # What Is Rice Farming?
 
-Rice farming is the cultivation of rice (*Oryza sativa* and *Oryza glaberrima*), a cereal grain that feeds more people than any other single crop on Earth. Over 3.5 billion people — roughly half of humanity — depend on rice as their primary source of calories. In many Asian countries, rice provides 50-80% of daily caloric intake. The word for "rice" and the word for "food" or "meal" are the same in several Asian languages. That tells you everything about how central this grain is to human civilization.
+Rice [farming](/farming) is the cultivation of rice (*Oryza sativa* and *Oryza glaberrima*), a cereal grain that feeds more people than any other single crop on Earth. Over 3.5 billion people — roughly half of humanity — depend on rice as their primary source of calories. In many Asian countries, rice provides 50-80% of daily caloric intake. The word for "rice" and the word for "food" or "meal" are the same in several Asian languages. That tells you everything about how central this grain is to human civilization.
 
 Humans have been growing rice for at least 9,000 years, and probably longer. The earliest confirmed evidence of rice cultivation comes from the Yangtze River valley in China, dating to around 7000 BCE. From that single origin, rice cultivation spread across Southeast Asia, South Asia, the Middle East, Africa, and eventually the Americas. Today, rice is grown on every continent except Antarctica, with global production exceeding 520 million metric tons (milled equivalent) annually.
 
@@ -67,7 +67,7 @@ Rice progresses through several growth stages over 100-180 days, depending on th
 
 Paddy fields require flat terrain (or terracing on slopes), reliable water supply, and clay-rich soils that hold water without excessive percolation. The terraced rice paddies of the Philippine Cordilleras, the Bali subak system, and the Yunnan rice terraces are UNESCO World Heritage sites — recognized as cultural landscapes of extraordinary beauty and [engineering](/engineering) sophistication.
 
-**Upland rice** is grown on dry land without flooding, rain-fed like wheat or corn. It accounts for about 4% of global production. Yields are lower (1-2 tons per hectare versus 4-8 for paddy rice), but upland rice requires no irrigation infrastructure and can grow on hillsides and marginal land. It is important in parts of Africa, Brazil, and upland Southeast Asia.
+**Upland rice** is grown on dry land without flooding, rain-fed like wheat or corn. It accounts for about 4% of global production. Yields are lower (1-2 tons per hectare versus 4-8 for paddy rice), but upland rice requires no [irrigation](/irrigation) infrastructure and can grow on hillsides and marginal land. It is important in parts of Africa, Brazil, and upland Southeast Asia.
 
 **Deepwater and floating rice** grow in areas prone to deep seasonal flooding (water depths of 50 cm to over 4 meters). These specialized varieties can elongate their stems by up to 20 cm per day to keep pace with rising floodwaters — a remarkable adaptation. They are grown in Bangladesh, Myanmar, Vietnam, and parts of West Africa.
 
@@ -87,7 +87,7 @@ Growing water scarcity in many rice-producing regions has driven innovation.
 
 **Alternate Wetting and Drying (AWD)**: Instead of maintaining continuous flooding, fields are allowed to dry out periodically before re-flooding. AWD reduces water use by 15-30% with little or no yield loss. It also reduces methane emissions by 30-50% because the periodic drying interrupts anaerobic decomposition. AWD is one of the most impactful agricultural innovations of recent decades, and organizations like IRRI are promoting its adoption across Asia.
 
-**System of Rice Intensification (SRI)**: A management approach that includes transplanting younger seedlings at wider spacing, maintaining moist (not flooded) soil, and using organic fertilizers. SRI proponents claim yield increases of 20-100% with 25-50% less water. Results are debated — some trials confirm large benefits, others show modest or no improvement — but the core principle of doing more with less water has influenced practice.
+**System of Rice Intensification (SRI)**: A [management](/management) approach that includes transplanting younger seedlings at wider spacing, maintaining moist (not flooded) soil, and using organic fertilizers. SRI proponents claim yield increases of 20-100% with 25-50% less water. Results are debated — some trials confirm large benefits, others show modest or no improvement — but the core principle of doing more with less water has influenced practice.
 
 **Direct-seeded rice (DSR)**: Rather than transplanting seedlings, rice is seeded directly into the field (either dry-seeded or water-seeded). DSR eliminates the labor-intensive nursery and transplanting steps, reduces water use, and can be done mechanically. It is gaining adoption rapidly in areas with rising labor costs.
 
@@ -113,7 +113,7 @@ The spread of IR8 and its successors, combined with irrigation expansion and fer
 
 Today's rice breeders pursue varieties that are:
 
-- **Drought-tolerant**: Varieties that maintain yield with less water are critical as climate change alters rainfall patterns.
+- **Drought-tolerant**: Varieties that maintain yield with less water are critical as [climate change](/climate-change) alters rainfall patterns.
 - **Flood-tolerant**: The Sub1 gene, discovered in an Indian rice variety, allows rice to survive complete submergence for up to two weeks. Varieties carrying Sub1 have been deployed to millions of farmers in flood-prone areas.
 - **Salt-tolerant**: Rising sea levels and irrigation-related salinization threaten rice production in coastal areas. Salt-tolerant varieties are increasingly needed.
 - **Nutrient-rich**: Golden Rice, engineered to produce beta-carotene (a vitamin A precursor), addresses vitamin A deficiency that affects 250 million children worldwide. It remains controversial — some countries have approved it while others resist genetically modified crops.
@@ -137,7 +137,7 @@ Weeds are rice farmers' most persistent enemy, capable of reducing yields by 30-
 
 ## The Environmental Footprint
 
-Rice farming has significant environmental impacts that deserve honest accounting.
+Rice farming has significant environmental impacts that deserve honest [accounting](/accounting).
 
 ### Methane Emissions
 
@@ -145,7 +145,7 @@ Flooded rice paddies are the largest agricultural source of methane (CH4) — a 
 
 Rice paddies emit an estimated 25-100 million metric tons of methane annually, accounting for roughly 1.5% of total global greenhouse gas emissions. That is comparable to the emissions from all the world's ships.
 
-Reducing these emissions without reducing rice production is a critical challenge for [climatology](/climatology) and food security. AWD can reduce methane by 30-50%. Mid-season drainage — briefly draining fields during the vegetative growth stage — also reduces methane. Some researchers are developing rice varieties that emit less methane by altering root exudate chemistry.
+Reducing these emissions without reducing rice production is a critical challenge for [climatology](/climatology) and food security. AWD can reduce methane by 30-50%. Mid-season drainage — briefly draining fields during the vegetative growth stage — also reduces methane. Some researchers are developing rice varieties that emit less methane by altering root exudate [chemistry](/chemistry).
 
 ### Water Use
 
@@ -167,7 +167,7 @@ China and India together produce over half the world's rice. The top five produc
 
 ### Major Exporters
 
-India is the world's largest rice exporter, shipping about 22 million metric tons in 2023 — roughly 40% of global exports. Thailand, Vietnam, Pakistan, and the United States round out the top five. India's 2023 decision to restrict rice exports sent shockwaves through global markets, demonstrating how concentrated the export trade is and how vulnerable import-dependent countries can be.
+India is the world's largest rice exporter, shipping about 22 million metric tons in 2023 — roughly 40% of global exports. Thailand, Vietnam, Pakistan, and the United States round out the top five. India's 2023 decision to restrict rice exports sent shockwaves through global markets, demonstrating how concentrated the export [trade](/trade) is and how vulnerable import-dependent countries can be.
 
 ### Rice and Food Security
 

@@ -39,13 +39,13 @@ faq:
 
 Network administration is the practice of managing, maintaining, and securing computer networks — the infrastructure that allows computers, servers, printers, phones, and every other connected device to communicate with each other. When you open a browser and a website loads in under a second, when your email arrives reliably, when your company's files are accessible from any office — that's a network working correctly because someone is administering it.
 
-The network administrator (often shortened to "netadmin" or just "admin") is the person responsible for keeping that connectivity running. They configure routers and switches, manage firewalls, troubleshoot connectivity problems, monitor performance, apply security updates, and plan for capacity growth. In smaller organizations, the network admin might also handle servers, email, desktop support, and whatever else has a plug or an IP address. In larger organizations, network administration is a specialized role within a broader IT team.
+The network administrator (often shortened to "netadmin" or just "admin") is the person responsible for keeping that connectivity [running](/running). They configure routers and switches, manage firewalls, troubleshoot connectivity problems, monitor performance, apply security updates, and plan for capacity growth. In smaller organizations, the network admin might also handle servers, email, desktop support, and whatever else has a plug or an IP address. In larger organizations, network administration is a specialized role within a broader IT team.
 
 It's not glamorous work — nobody notices the network when it's working perfectly. They notice immediately when it isn't. That asymmetry defines the job.
 
 ## What a Network Actually Is
 
-Before diving into administration, let's establish what we're administering.
+Before [diving](/diving) into administration, let's establish what we're administering.
 
 A computer network is a collection of interconnected devices that can exchange data. That's the simple version. The reality involves layers of physical infrastructure, protocols, addressing schemes, and services that work together to make communication possible.
 
@@ -152,7 +152,7 @@ The line between network administration and [cybersecurity](/cryptography) is no
 
 Possibly the least exciting and most important responsibility. Network documentation includes:
 
-- Network diagrams showing physical and logical topology
+- Network diagrams showing physical and logical [topology](/topology)
 - IP address allocation records
 - Device inventories with serial numbers, firmware versions, and locations
 - Configuration backups for all network devices
@@ -193,7 +193,7 @@ Network administration has one of the most structured certification ecosystems i
 
 Career progression typically moves from help desk support → junior network administrator → senior network administrator → network engineer → network architect or IT manager. Lateral moves into [cybersecurity](/digital-forensics), [cloud architecture](/cloud-computing), or DevOps are common and often lucrative.
 
-Salaries vary widely by location and experience. In the U.S., network administrators earned a median of approximately $90,520 in 2023 (Bureau of Labor Statistics). Senior network engineers and architects earn $120,000-$180,000+ in major markets.
+Salaries vary widely by location and experience. In the U.S., network administrators earned a median of approximately $90,520 in 2023 (Bureau of Labor [Statistics](/statistics)). Senior network engineers and architects earn $120,000-$180,000+ in major markets.
 
 ## The Future of Network Administration
 

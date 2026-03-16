@@ -69,13 +69,13 @@ Here's what the triumphant narrative of progress usually glosses over: industria
 
 Factory work bore no resemblance to the craft traditions it replaced. Workers — including children as young as five — labored 14 to 16 hours per day, six days a week. Conditions were dangerous. Cotton mills were hot, dusty, and deafeningly loud. Mining accidents killed thousands annually. Industrial cities like Manchester grew so fast that sanitation infrastructure couldn't keep up — cholera outbreaks were routine.
 
-Friedrich Engels described Manchester's working-class districts in 1845: families packed into cellars, open sewers running through streets, life expectancy in some neighborhoods under 20 years. His observations, documented in *The Condition of the Working Class in England*, helped fuel the labor movement and eventually contributed to the development of [capitalism's](/capitalism) most vocal critics.
+Friedrich Engels described Manchester's working-class districts in 1845: families packed into cellars, open sewers [running](/running) through streets, life expectancy in some neighborhoods under 20 years. His observations, documented in *The Condition of the Working Class in England*, helped fuel the labor movement and eventually contributed to the development of [capitalism's](/capitalism) most vocal critics.
 
 Child labor was pervasive and accepted. In 1833, a British parliamentary commission found children working 12-hour shifts in textile mills. The resulting Factory Act of 1833 was a start — it prohibited employment of children under nine in textile factories and limited hours for older children — but enforcement was weak and the law covered only one industry.
 
 ## The Second Industrial Revolution (1870s-1914)
 
-The second wave was different in character. If the first revolution was about steam and textiles, the second was about steel, electricity, and chemistry.
+The second wave was different in character. If the first revolution was about steam and textiles, the second was about steel, [electricity](/electricity), and chemistry.
 
 Henry Bessemer's converter (1856) made steel cheap. Before Bessemer, steel cost roughly $300 per ton. His process dropped that to $30. Andrew Carnegie built his empire on this cost collapse, and cheap steel made possible everything from skyscrapers to battleships.
 
@@ -87,11 +87,11 @@ The assembly line deserves its own mention. Henry Ford didn't invent the automob
 
 ## Labor Fights Back
 
-Workers didn't accept industrial conditions passively. The history of labor organizing is as much a part of industrial history as any invention.
+Workers didn't accept industrial conditions passively. The history of labor organizing is as much a part of industrial history as any [invention](/invention).
 
 Early resistance was often violent and direct. The Luddites smashed textile machinery in northern England between 1811 and 1816 — not because they opposed technology per se, but because machines were destroying their livelihoods without providing alternatives. The Swing Riots of 1830 saw agricultural workers destroying threshing machines for similar reasons.
 
-Over time, resistance became organized. Trade unions formed, fought for recognition, and gradually won concessions. The Trades Union Congress was founded in Britain in 1868. In the United States, the American Federation of Labor (AFL) organized skilled workers from 1886 onward. The Congress of Industrial Organizations (CIO) brought industrial unionism to mass-production workers in the 1930s.
+Over time, resistance became organized. [Trade](/trade) unions formed, fought for recognition, and gradually won concessions. The Trades Union Congress was founded in Britain in 1868. In the United States, the American Federation of Labor (AFL) organized skilled workers from 1886 onward. The Congress of Industrial Organizations (CIO) brought industrial unionism to mass-production workers in the 1930s.
 
 Key victories came slowly: the eight-hour workday (normalized by the early 20th century), [workplace safety](/workplace-safety) regulations, workers' compensation, the abolition of child labor. Each required decades of organizing, strikes, and — frequently — bloodshed. The Triangle Shirtwaist Factory fire of 1911, which killed 146 garment workers in New York, became a turning point for workplace safety legislation in the United States.
 
@@ -101,7 +101,7 @@ Britain's industrial lead didn't last forever. Belgium industrialized in the 182
 
 Japan's Meiji Restoration (1868) launched a deliberate, state-directed industrialization program that transformed the country from a feudal society to an industrial power in roughly 40 years. The Soviet Union attempted something similar under Stalin's Five-Year Plans in the 1930s, achieving rapid industrial growth at an enormous human cost — millions died in famines and labor camps.
 
-After World War II, industrialization spread to South Korea, Taiwan, Singapore, and eventually China. China's industrial transformation since the 1980s is arguably the largest and fastest in history — the country went from producing less than 3% of global manufacturing output in 1980 to over 28% by 2020. Understanding this pattern — how nations industrialize, why some succeed and others struggle — remains one of the central questions of [economics](/economics).
+After [World War II](/world-war-ii), industrialization spread to South Korea, Taiwan, Singapore, and eventually China. China's industrial transformation since the 1980s is arguably the largest and fastest in history — the country went from producing less than 3% of global manufacturing output in 1980 to over 28% by 2020. Understanding this pattern — how nations industrialize, why some succeed and others struggle — remains one of the central questions of [economics](/economics).
 
 ## The Third Industrial Revolution and Beyond
 
@@ -111,7 +111,7 @@ Numerical control machines appeared in the 1950s. Industrial robots entered fact
 
 The consequences for labor were dramatic. Manufacturing employment in the United States peaked at about 19.5 million jobs in 1979 and has declined steadily since, falling to about 12.9 million by 2023 — even as manufacturing output (measured by value) roughly doubled. Machines didn't eliminate manufacturing; they eliminated manufacturing *jobs*. The gap between those two facts is one of the defining political tensions of our era.
 
-Now we're in what some call the Fourth Industrial Revolution — [artificial intelligence](/artificial-intelligence), robotics, the Internet of Things, [biotechnology](/biotechnology), and [machine learning](/machine-learning) all blurring the lines between physical, digital, and biological systems. Whether this represents a genuine break from previous patterns or simply their continuation is a debate for historians to settle — probably decades from now.
+Now we're in what some call the Fourth Industrial Revolution — [artificial intelligence](/artificial-intelligence), [robotics](/robotics), the Internet of Things, [biotechnology](/biotechnology), and [machine learning](/machine-learning) all blurring the lines between physical, digital, and biological systems. Whether this represents a genuine break from previous patterns or simply their continuation is a [debate](/debate) for historians to settle — probably decades from now.
 
 ## Why Industrial History Matters
 

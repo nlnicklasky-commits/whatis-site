@@ -85,9 +85,9 @@ For a Mars mission lasting 30+ months (including 6-9 months each way and a year 
 
 ### 4. Distance from Earth
 
-This isn't just a psychological issue — it's a medical logistics problem. On the ISS, a medical emergency can be handled with an evacuation to Earth in hours. On a Mars mission, evacuation is impossible. The crew must handle every medical scenario — from appendicitis to traumatic injury to cardiac arrest — with whatever equipment and training they have on board.
+This isn't just a psychological issue — it's a medical [logistics](/logistics) problem. On the ISS, a medical emergency can be handled with an evacuation to Earth in hours. On a Mars mission, evacuation is impossible. The crew must handle every medical scenario — from appendicitis to traumatic injury to cardiac arrest — with whatever equipment and training they have on board.
 
-This demands a fundamentally different approach to crew medical capability. Current thinking includes extensive cross-training in emergency procedures, [AI-assisted](/artificial-intelligence) diagnostic systems, telemedicine with built-in communication delays, and possibly autonomous robotic surgery.
+This demands a fundamentally different approach to crew medical capability. Current thinking includes extensive cross-training in emergency procedures, [AI-assisted](/artificial-intelligence) diagnostic systems, telemedicine with built-in communication delays, and possibly autonomous robotic [surgery](/surgery).
 
 The pharmaceutical challenge is real too. Many medications degrade in the space radiation environment. Studies have found that some drugs stored on the ISS lose potency faster than identical drugs stored on Earth. A Mars crew would need either radiation-protected pharmaceutical storage or the ability to manufacture medications in flight.
 
@@ -97,7 +97,7 @@ Spacecraft are sealed environments where everything is recycled — air, water, 
 
 Carbon dioxide [management](/management) is a constant concern. At concentrations above 0.5 percent (ten times Earth's atmospheric level but common on the ISS during equipment issues), CO2 causes headaches, impaired cognitive function, and sleep disruption. The CO2 scrubbing system on the ISS has experienced multiple failures requiring crew intervention.
 
-Microbial ecology inside spacecraft is another concern. Studies of the ISS have found that the station's surfaces harbor a complex microbiome that evolves over time, including bacteria and fungi that can corrode equipment and potentially cause infections in immunocompromised astronauts. Research suggests that some bacteria become more virulent in microgravity — Salmonella, for instance, showed increased pathogenicity after spaceflight in a 2007 study.
+Microbial [ecology](/ecology) inside spacecraft is another concern. Studies of the ISS have found that the station's surfaces harbor a complex microbiome that evolves over time, including bacteria and fungi that can corrode equipment and potentially cause infections in immunocompromised astronauts. Research suggests that some bacteria become more virulent in microgravity — Salmonella, for instance, showed increased pathogenicity after spaceflight in a 2007 study.
 
 ## Countermeasures: Fighting Back
 
@@ -108,7 +108,7 @@ Space medicine isn't just about documenting problems. It's about solving them.
 The primary countermeasure for bone loss, muscle atrophy, and cardiovascular deconditioning is exercise — and a lot of it. ISS astronauts exercise roughly 2 to 2.5 hours per day using three devices:
 
 - **ARED (Advanced Resistive Exercise Device)**: A piston-and-flywheel system that simulates weight lifting with up to 272 kilograms (600 pounds) of resistance. It's the most important piece of countermeasure hardware on the station.
-- **T2 treadmill**: Running with a use that pulls the astronaut toward the belt, simulating about 60 to 80 percent of body weight.
+- **T2 treadmill**: [Running](/running) with a use that pulls the astronaut toward the belt, simulating about 60 to 80 percent of body weight.
 - **CEVIS (Cycle Ergometer with Vibration Isolation)**: A stationary bike for cardiovascular conditioning.
 
 This regimen has significantly improved outcomes. Early space station crews (on Mir and early ISS) experienced severe bone and muscle loss. Current ISS crews, using more aggressive exercise protocols, retain significantly more bone density and muscle mass — though losses still occur, particularly in the hip.
@@ -123,9 +123,9 @@ Research into **radioprotective compounds** — drugs that might reduce radiatio
 
 ### Artificial Gravity
 
-The most straightforward solution to microgravity health effects would be to provide gravity. A rotating spacecraft could generate centripetal acceleration that mimics gravity. The physics is simple: spin a torus or cylinder, and the "floor" is the outer wall.
+The most straightforward solution to microgravity health effects would be to provide gravity. A rotating spacecraft could generate centripetal acceleration that mimics gravity. The [physics](/physics) is simple: spin a torus or cylinder, and the "floor" is the outer wall.
 
-The engineering is hard. A small-radius centrifuge creates strong Coriolis effects that cause nausea and disorientation. To minimize these effects, the rotation radius should be large — ideally 100 meters or more — and the rotation rate should be below about 2 revolutions per minute. This means building a very large spinning structure, which adds mass and complexity.
+The [engineering](/engineering) is hard. A small-radius centrifuge creates strong Coriolis effects that cause nausea and disorientation. To minimize these effects, the rotation radius should be large — ideally 100 meters or more — and the rotation rate should be below about 2 revolutions per minute. This means building a very large spinning structure, which adds mass and complexity.
 
 A compromise being studied is short-radius intermittent centrifugation — a small spinning platform aboard the spacecraft where crew members spend a few hours daily, similar to exercise prescriptions. Whether intermittent gravity exposure provides enough benefit to prevent bone loss and cardiovascular deconditioning is an active research question.
 

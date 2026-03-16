@@ -41,7 +41,7 @@ Elasticity is a property of materials that describes their ability to deform und
 
 ## The Rubber Band Intuition — And Why It's Misleading
 
-Everyone's first mental image of elasticity is a rubber band. You stretch it, let go, it snaps back. Simple enough. But here's what trips people up: in [engineering](/engineering) and physics, "elastic" doesn't mean "stretchy." It means "returns to its original shape."
+Everyone's first mental image of elasticity is a rubber band. You stretch it, let go, it snaps back. Simple enough. But here's what trips people up: in [engineering](/engineering) and [physics](/physics), "elastic" doesn't mean "stretchy." It means "returns to its original shape."
 
 Steel is one of the most elastic materials we use. Seriously. A steel beam under load will deform by a tiny, predictable amount and then spring back perfectly when the load is removed. It barely moves, but it returns with remarkable precision. Rubber, on the other hand, stretches dramatically but doesn't always return to exactly the same shape — especially after repeated use.
 
@@ -59,7 +59,7 @@ There are three main types:
 
 - **Tensile stress** — pulling a material apart (like stretching a rope)
 - **Compressive stress** — pushing a material together (like squeezing a sponge)
-- **Shear stress** — sliding forces acting parallel to a surface (like cutting with scissors)
+- **Shear stress** — sliding forces [acting](/acting) parallel to a surface (like cutting with scissors)
 
 The formula is straightforward: stress = force / area, or sigma = F/A. A thin wire under the same load as a thick cable experiences far more stress because the force is concentrated over a smaller area.
 
@@ -174,7 +174,7 @@ A skyscraper sways in the wind. The Burj Khalifa in Dubai moves up to 2 meters a
 
 ### Automotive Engineering
 
-Car suspensions are pure applied elasticity. Springs (both metal coils and leaf springs) store energy elastically when compressed over bumps and release it to push the wheel back down. The spring rate — the automotive version of the spring constant — determines ride quality. Too stiff and you feel every pebble. Too soft and the car wallows through corners.
+Car suspensions are pure applied elasticity. [Springs](/springs) (both metal coils and leaf springs) store energy elastically when compressed over bumps and release it to push the wheel back down. The spring rate — the automotive version of the spring constant — determines ride quality. Too stiff and you feel every pebble. Too soft and the car wallows through corners.
 
 Modern [automotive engineering](/automotive-engineering) also uses elastic deformation in crash structures. Crumple zones are designed to deform plastically (absorbing energy permanently), but the passenger cell must remain elastic — maintaining its shape to protect occupants.
 
@@ -188,9 +188,9 @@ As you age, elastin degrades and crosslinks form between collagen fibers. This i
 
 ### Sports Equipment
 
-Tennis racket strings are carefully tuned for elasticity. Tighter strings (higher spring constant) give more control but less power — the ball deforms more than the strings, absorbing energy. Looser strings (lower spring constant) stretch more during ball contact, storing elastic energy and returning it as the ball launches — a trampoline effect.
+[Tennis](/tennis) racket strings are carefully tuned for elasticity. Tighter strings (higher spring constant) give more control but less power — the ball deforms more than the strings, absorbing energy. Looser strings (lower spring constant) stretch more during ball contact, storing elastic energy and returning it as the ball launches — a trampoline effect.
 
-Golf club shafts flex during the downswing and snap back at impact, contributing to clubhead speed. The shaft's elastic properties — stiffness, kick point, torque — are precisely engineered for different swing speeds and styles.
+[Golf](/golf) club shafts flex during the downswing and snap back at impact, contributing to clubhead speed. The shaft's elastic properties — stiffness, kick point, torque — are precisely engineered for different swing speeds and styles.
 
 ## Nonlinear Elasticity: When Hooke's Law Fails
 
@@ -222,7 +222,7 @@ You can't just guess at elastic properties. They must be measured precisely, and
 
 A specimen — usually a dogbone-shaped bar of metal — gets clamped into a testing machine. The machine slowly pulls the specimen while measuring both the applied force and the resulting elongation. This data generates the stress-strain curve from which Young's modulus, yield strength, ultimate strength, and elongation at fracture are all determined.
 
-Standard test procedures (ASTM E8 for metals, for example) specify specimen geometry, loading rates, and measurement methods. This standardization ensures that when a material datasheet says "E = 200 GPa," that number means the same thing regardless of who measured it.
+Standard test procedures (ASTM E8 for metals, for example) specify specimen [geometry](/geometry), loading rates, and measurement methods. This standardization ensures that when a material datasheet says "E = 200 GPa," that number means the same thing regardless of who measured it.
 
 ### Ultrasonic Testing
 
@@ -242,7 +242,7 @@ This technique has been transformational for [materials science](/chemistry) res
 
 Most introductory treatments assume materials are isotropic — behaving the same in all directions. Wood spectacularly violates this assumption. Along the grain, wood is stiff and strong. Across the grain, it's much weaker and more compliant. This anisotropy reflects the fibrous microstructure: long cellulose fibers aligned preferentially in the growth direction.
 
-Carbon fiber composites are another deliberately anisotropic material. Engineers orient fibers in specific directions to provide stiffness and strength exactly where needed. An aircraft wing skin might have fibers running spanwise to resist bending and at 45 degrees to resist torsion.
+Carbon fiber composites are another deliberately anisotropic material. Engineers orient fibers in specific directions to provide stiffness and strength exactly where needed. An aircraft wing skin might have fibers [running](/running) spanwise to resist bending and at 45 degrees to resist torsion.
 
 Describing anisotropic elasticity requires up to 21 independent elastic constants instead of just 2 (Young's modulus and Poisson's ratio) for isotropic materials. The math gets considerably more involved, but modern computational tools handle it routinely.
 
@@ -256,7 +256,7 @@ Viscoelasticity matters enormously in applications from vibration damping (car e
 
 ## The Elastic Limit of Human Knowledge
 
-We understand elasticity extraordinarily well for traditional engineering materials — metals, ceramics, common polymers. The theories are mature, the models are accurate, and the testing methods are standardized.
+We understand elasticity extraordinarily well for traditional engineering materials — metals, [ceramics](/ceramics), common polymers. The theories are mature, the models are accurate, and the testing methods are standardized.
 
 But new materials keep pushing boundaries. Metamaterials with negative Poisson's ratio (they expand sideways when stretched, instead of contracting) challenge classical intuition. Hydrogels that are 90% water yet behave elastically require new theoretical frameworks. Shape-memory alloys that recover enormous strains upon heating blur the line between elastic and plastic behavior.
 

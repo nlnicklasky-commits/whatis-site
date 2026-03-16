@@ -77,7 +77,7 @@ Ski culture has its own [social dynamics](/social-dynamics). "Apres-ski" — the
 
 ## The Environmental Tension
 
-Skiing has an uncomfortable relationship with climate change. Winter sport depends on cold temperatures and snow. As global temperatures rise, snowfall at lower elevations is declining, seasons are shortening, and some smaller resorts are closing permanently. A 2023 study projected that without emissions reductions, over half of European ski resorts would face snow scarcity by 2100.
+Skiing has an uncomfortable relationship with [climate change](/climate-change). Winter sport depends on cold temperatures and snow. As global temperatures rise, snowfall at lower elevations is declining, seasons are shortening, and some smaller resorts are closing permanently. A 2023 study projected that without emissions reductions, over half of European ski resorts would face snow scarcity by 2100.
 
 Snowmaking partially compensates — modern snow guns can produce artificial snow when temperatures dip below about 28°F. But snowmaking requires massive amounts of water and [electricity](/electricity), creating its own environmental footprint. The irony of burning energy to make snow in a warming climate is not lost on the industry.
 

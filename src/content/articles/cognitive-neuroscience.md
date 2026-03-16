@@ -39,7 +39,7 @@ faq:
 
 # What Is Cognitive Neuroscience?
 
-Cognitive neuroscience is the scientific study of how biological processes in the brain give rise to mental functions such as memory, attention, language, perception, and decision-making. It sits at the intersection of neuroscience and [cognitive psychology](/cognitive-psychology), combining brain imaging technology with behavioral experiments to map the relationship between neural activity and thought.
+Cognitive [neuroscience](/neuroscience) is the scientific study of how biological processes in the brain give rise to mental functions such as memory, attention, language, perception, and decision-making. It sits at the intersection of neuroscience and [cognitive psychology](/cognitive-psychology), combining brain imaging technology with behavioral experiments to map the relationship between neural activity and thought.
 
 ## Where This Field Came From
 
@@ -47,9 +47,9 @@ The term "cognitive neuroscience" was coined in the late 1970s — legend has it
 
 But the roots go deeper. In the 1860s, Paul Broca examined patients who had lost the ability to speak after strokes. He found damage concentrated in a specific region of the left frontal lobe — now called Broca's area. This was one of the first concrete demonstrations that specific brain regions handle specific mental functions. Around the same time, Carl Wernicke identified a separate brain area involved in language comprehension.
 
-These early lesion studies set the stage. If damaging a particular brain region consistently impairs a particular mental ability, that region must be involved in producing that ability. Simple logic, but it opened an entire field.
+These early lesion studies set the stage. If damaging a particular brain region consistently impairs a particular mental ability, that region must be involved in producing that ability. Simple [logic](/logic), but it opened an entire field.
 
-The real explosion came in the 1990s, often called the "Decade of the Brain." Functional MRI technology arrived, and suddenly researchers could watch the living brain in action — no surgery required. This changed everything. You could ask someone to remember a word list, solve a math problem, or look at faces, and literally watch which brain regions lit up during each task.
+The real explosion came in the 1990s, often called the "Decade of the Brain." Functional MRI technology arrived, and suddenly researchers could watch the living brain in action — no [surgery](/surgery) required. This changed everything. You could ask someone to remember a word list, solve a math problem, or look at faces, and literally watch which brain regions lit up during each task.
 
 ## The Core Questions
 
@@ -75,7 +75,7 @@ Memory isn't one thing. It's several distinct systems, each relying on different
 
 The hippocampus — a seahorse-shaped structure deep in the temporal lobe — is critical for forming new episodic memories (memories of personal experiences). We know this largely because of one extraordinary patient. In 1953, a man known as H.M. had his hippocampus surgically removed to treat severe epilepsy. The seizures improved, but H.M. could no longer form new long-term memories. He could remember his childhood, carry on a conversation (short-term memory was intact), and learn new motor skills — but he couldn't remember meeting someone five minutes after it happened. H.M. was studied for over 50 years and contributed more to our understanding of memory than perhaps any other single case in neuroscience history.
 
-Working memory — the ability to hold and manipulate information temporarily — relies heavily on the prefrontal cortex. This is what you use when you keep a phone number in mind while walking to find a pen. Procedural memory (how to ride a bike) depends on the basal ganglia and cerebellum. Emotional memories involve the amygdala.
+Working memory — the ability to hold and manipulate information temporarily — relies heavily on the prefrontal cortex. This is what you use when you keep a phone number in mind while [walking](/walking) to find a pen. Procedural memory (how to ride a bike) depends on the basal ganglia and cerebellum. Emotional memories involve the amygdala.
 
 The takeaway: "memory" is not a single function localized to one brain area. It's a collection of related abilities, each with its own neural machinery.
 
@@ -119,9 +119,9 @@ For example, TMS applied to the right parietal cortex can cause temporary spatia
 
 Optogenetics — using light to activate genetically modified neurons — has transformed animal research since the 2000s. Researchers can activate specific neural circuits with millisecond precision and observe the behavioral consequences. This level of causal precision was previously impossible.
 
-Multi-electrode arrays implanted directly in brain tissue (used mainly in animal studies and some human clinical contexts) can record from hundreds of individual neurons simultaneously. Brain-computer interfaces, where patients control computer cursors or robotic arms through neural activity alone, have moved from science fiction to clinical reality.
+Multi-electrode arrays implanted directly in brain tissue (used mainly in animal studies and some human clinical contexts) can record from hundreds of individual neurons simultaneously. Brain-computer interfaces, where patients control computer cursors or robotic arms through neural activity alone, have moved from [science fiction](/science-fiction) to clinical reality.
 
-Two-photon microscopy can image individual neurons in living brains. Connectomics projects are mapping every single neural connection in entire brains. The Human Connectome Project has mapped white matter pathways in over 1,200 human participants.
+Two-photon [microscopy](/microscopy) can image individual neurons in living brains. Connectomics projects are mapping every single neural connection in entire brains. The Human Connectome Project has mapped white matter pathways in over 1,200 human participants.
 
 ## Major Discoveries That Changed Everything
 
@@ -145,7 +145,7 @@ Disruptions to the default mode network have been linked to depression, Alzheime
 
 In the 1990s, Italian researchers recording from individual neurons in macaque monkeys found cells that fired both when a monkey performed an action (like grasping a peanut) and when it observed another monkey performing the same action. These "mirror neurons" seemed to create an internal simulation of other individuals' actions.
 
-The implications were provocative. Some researchers argued mirror neurons could explain empathy, language evolution, and even imitation learning. Others pushed back, arguing the claims were overstated. The debate continues, but the core finding — that observation and action share neural circuits — is well established and has influenced research on social cognition, [animal behavior](/animal-behavior), and motor rehabilitation.
+The implications were provocative. Some researchers argued mirror neurons could explain empathy, language evolution, and even imitation learning. Others pushed back, arguing the claims were overstated. The [debate](/debate) continues, but the core finding — that observation and action share neural circuits — is well established and has influenced research on social cognition, [animal behavior](/animal-behavior), and motor rehabilitation.
 
 ### Split-Brain Studies
 
@@ -169,7 +169,7 @@ Schizophrenia, autism spectrum disorders, addiction — cognitive neuroscience h
 
 Here's where things get interesting for the tech world. Cognitive neuroscience and [machine learning](/machine-learning) have a complicated, productive relationship.
 
-Early artificial [neural networks](/neural-networks) were loosely inspired by biological neurons. The basic unit — take inputs, apply weights, sum them up, pass through an activation function — was a simplified model of what real neurons do. Deep learning architectures like convolutional neural networks were directly inspired by the visual cortex's hierarchical processing, where simple features are combined into increasingly complex representations.
+Early artificial [neural networks](/neural-networks) were loosely inspired by biological neurons. The basic unit — take inputs, apply weights, sum them up, pass through an activation function — was a simplified model of what real neurons do. [Deep learning](/deep-learning) architectures like convolutional neural networks were directly inspired by the visual cortex's hierarchical processing, where simple features are combined into increasingly complex representations.
 
 But the relationship goes both ways. Machine learning now helps cognitive neuroscientists analyze brain data. When you record activity from millions of voxels in an fMRI scan or thousands of electrodes in an EEG, [algorithms](/algorithms) are essential for finding meaningful patterns. Multivariate pattern analysis (MVPA) uses machine learning to decode what someone is thinking from their brain activity — literally reading minds, in a limited sense.
 
@@ -201,11 +201,11 @@ Large-scale adversarial collaborations are now testing these theories head-to-he
 
 Cognitive neuroscience raises serious ethical questions that society hasn't fully grappled with.
 
-If brain scans can detect lies more reliably than polygraphs (and the evidence is mixed), should they be admissible in court? If we can predict someone's political orientation, sexual orientation, or mental health status from brain imaging data, who gets access to that information?
+If brain scans can detect lies more reliably than polygraphs (and the evidence is mixed), should they be admissible in court? If we can predict someone's political orientation, sexual orientation, or [mental health](/mental-health) status from brain imaging data, who gets access to that information?
 
 Cognitive enhancement raises fairness issues. If brain stimulation can improve memory or attention, should students use it before exams? Should employers require it? Should it be regulated like performance-enhancing drugs in sports?
 
-Neuromarketing — using brain imaging to optimize advertising — already exists. Companies scan consumers' brains to identify which ads produce the strongest emotional responses. Is this manipulation? Or just better [market research](/market-research)?
+[Neuromarketing](/neuromarketing) — using brain imaging to optimize advertising — already exists. Companies scan consumers' brains to identify which ads produce the strongest emotional responses. Is this manipulation? Or just better [market research](/market-research)?
 
 These questions don't have easy answers. But cognitive neuroscience is advancing fast enough that society needs to start developing frameworks for addressing them now — not after the technology is already widespread.
 
@@ -219,4 +219,4 @@ Understanding attention helps you structure your work environment. Your brain's 
 
 Understanding [cognitive bias](/cognitive-bias) — systematic errors in thinking that cognitive neuroscience has helped explain — makes you a better decision-maker. Knowing that your brain overweights immediate rewards versus future ones (temporal discounting, linked to prefrontal-striatal circuits) can help you resist impulse purchases and stick to long-term goals.
 
-Cognitive neuroscience is, at its heart, the science of understanding yourself. Your thoughts, memories, decisions, emotions — all of it emerges from three pounds of biological tissue running on about 20 watts of power. Understanding how that tissue produces your entire mental life is one of the most fascinating scientific endeavors humans have ever undertaken. And we're just getting started.
+Cognitive neuroscience is, at its heart, the science of understanding yourself. Your thoughts, memories, decisions, emotions — all of it emerges from three pounds of biological tissue [running](/running) on about 20 watts of power. Understanding how that tissue produces your entire mental life is one of the most fascinating scientific endeavors humans have ever undertaken. And we're just getting started.

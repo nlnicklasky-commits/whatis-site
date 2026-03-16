@@ -37,9 +37,9 @@ faq:
 
 # What Is Satellite Communication?
 
-Satellite communication is the transmission of information between points on Earth (or between Earth and space) using artificial satellites as relay stations. A ground station sends a signal up to an orbiting satellite, the satellite amplifies it and shifts its frequency, then beams it back down to another location on Earth. This basic relay concept—called a bent pipe—lets you send voice, video, data, and navigation signals to places that cables and cell towers simply cannot reach.
+Satellite communication is the transmission of information between points on Earth (or between Earth and space) using artificial satellites as relay stations. A ground station sends a signal up to an orbiting satellite, the satellite amplifies it and shifts its frequency, then beams it back down to another location on Earth. This basic relay concept—called a bent pipe—lets you send voice, video, data, and [navigation](/navigation) signals to places that cables and cell towers simply cannot reach.
 
-About 60% of the world's international phone calls in the 1990s traveled through satellites. That share has dropped as undersea fiber optic cables took over bulk traffic, but satellites remain irreplaceable for [broadcasting](/broadcasting), maritime and aviation communication, military operations, rural broadband, and—increasingly—as the backbone of new global internet constellations.
+About 60% of the world's international phone calls in the 1990s traveled through satellites. That share has dropped as undersea fiber optic cables took over bulk traffic, but satellites remain irreplaceable for [broadcasting](/broadcasting), maritime and [aviation](/aviation) communication, military operations, rural broadband, and—increasingly—as the backbone of new global internet constellations.
 
 ## The Physics of Getting a Signal to Space
 
@@ -55,7 +55,7 @@ The satellite contains a device called a **transponder** that does three things:
 
 Here's where the math gets humbling. A signal weakens with the square of the distance it travels. By the time your satellite TV signal reaches your dish from geostationary orbit, it's been attenuated by roughly 200 dB—that's a factor of 10^20. If the satellite transmitted 100 watts, your dish receives something like 10^-18 watts. That's a billionth of a billionth of a watt.
 
-How does this work at all? Two things: highly directional antennas (both on the satellite and your dish) that concentrate energy into narrow beams, and extremely sensitive receivers that can extract useful information from incredibly weak signals. The engineering required to close a satellite link is genuinely impressive. [Digital signal processing](/digital-signal-processing) techniques like forward error correction add redundancy to the signal so the receiver can reconstruct data even when some of it is lost in transit.
+How does this work at all? Two things: highly directional antennas (both on the satellite and your dish) that concentrate energy into narrow beams, and extremely sensitive receivers that can extract useful information from incredibly weak signals. The [engineering](/engineering) required to close a satellite link is genuinely impressive. [Digital signal processing](/digital-signal-processing) techniques like forward error correction add redundancy to the signal so the receiver can reconstruct data even when some of it is lost in transit.
 
 ### Frequency Bands
 
@@ -81,9 +81,9 @@ The orbit a satellite occupies determines everything about how it performs. Orbi
 
 At exactly 35,786 km above the equator, a satellite's orbital period matches Earth's rotation. It appears to hang motionless in the sky. This is incredibly useful—you can point a dish at it once and never move it again. Three GEO satellites, spaced 120 degrees apart, can cover almost the entire Earth's surface (minus the extreme poles).
 
-GEO is where you'll find most TV broadcast satellites, weather satellites like GOES, and traditional communications satellites. The geostationary belt is prime real estate. Orbital positions are allocated by the International [Telecommunication](/telecommunication) Union (ITU) and they're in high demand. Only about 1,800 slots exist (spaced 0.1 degrees apart), and many of the best positions are already taken.
+GEO is where you'll find most TV broadcast satellites, weather satellites like GOES, and traditional communications satellites. The geostationary belt is prime [real estate](/real-estate). Orbital positions are allocated by the International [Telecommunication](/telecommunication) Union (ITU) and they're in high demand. Only about 1,800 slots exist (spaced 0.1 degrees apart), and many of the best positions are already taken.
 
-The downside of GEO? That 36,000 km distance creates roughly 600 milliseconds of round-trip latency. For video broadcasting, this doesn't matter—you don't notice a half-second delay watching CNN. For a voice call, it's noticeable but manageable. For online gaming or video conferencing, it's painful. And for high-frequency financial trading, it's completely unacceptable.
+The downside of GEO? That 36,000 km distance creates roughly 600 milliseconds of round-trip latency. For video broadcasting, this doesn't matter—you don't notice a half-second delay watching CNN. For a voice call, it's noticeable but manageable. For online [gaming](/gaming) or video conferencing, it's painful. And for high-frequency financial trading, it's completely unacceptable.
 
 ### Low Earth Orbit (LEO)
 
@@ -101,7 +101,7 @@ MEO is the middle ground—literally. Satellites at 2,000-35,786 km altitude hav
 
 ### Highly Elliptical Orbits (HEO)
 
-Some satellites use elliptical orbits that swing close to Earth at one point (perigee) and far away at another (apogee). Russia's Molniya orbits, for example, spend most of their time high above the Northern Hemisphere—providing coverage to high-latitude regions that GEO satellites can't reach well because the equatorial geometry creates low elevation angles at polar latitudes.
+Some satellites use elliptical orbits that swing close to Earth at one point (perigee) and far away at another (apogee). Russia's Molniya orbits, for example, spend most of their time high above the Northern Hemisphere—providing coverage to high-latitude regions that GEO satellites can't reach well because the equatorial [geometry](/geometry) creates low elevation angles at polar latitudes.
 
 ## How a Satellite Is Built
 
@@ -109,7 +109,7 @@ Satellites are among the most precisely engineered objects humans make. They nee
 
 ### The Bus and Payload
 
-Every satellite has two main sections. The **bus** provides the basics: power (solar panels and batteries), attitude control (reaction wheels and thrusters to keep the satellite pointed correctly), thermal management, propulsion for orbit maintenance, and a command system for ground operators. The **payload** is the communications equipment—transponders, antennas, amplifiers, and processors that actually handle your signals.
+Every satellite has two main sections. The **bus** provides the basics: power (solar panels and batteries), attitude control (reaction wheels and thrusters to keep the satellite pointed correctly), thermal [management](/management), propulsion for orbit maintenance, and a command system for ground operators. The **payload** is the communications equipment—transponders, antennas, amplifiers, and processors that actually handle your signals.
 
 Modern GEO communications satellites weigh 3,000-6,500 kg at launch and generate 15-25 kilowatts of electrical power from solar panels spanning 30-40 meters tip to tip. They're the size of a school bus with wings.
 
@@ -129,7 +129,7 @@ Phased array antennas—used on both satellites and ground terminals—electroni
 
 Satellite TV was the original killer app. A single GEO satellite can broadcast hundreds of TV channels to an entire continent. Every home with a small dish and a receiver can access the same content. This was revolutionary in the 1990s, bringing TV to rural areas that cable couldn't reach.
 
-Direct Broadcast Satellite (DBS) services like DirecTV, Dish Network, and Sky reach tens of millions of subscribers. The economics are uniquely favorable: the cost of delivering content is independent of the number of viewers. Whether 1 person or 100 million watch, the satellite's cost is the same. That's fundamentally different from streaming services where each viewer consumes bandwidth.
+Direct Broadcast Satellite (DBS) services like DirecTV, Dish Network, and Sky reach tens of millions of subscribers. The [economics](/economics) are uniquely favorable: the cost of delivering content is independent of the number of viewers. Whether 1 person or 100 million watch, the satellite's cost is the same. That's fundamentally different from streaming services where each viewer consumes bandwidth.
 
 ### Global Broadband Internet
 
@@ -149,7 +149,7 @@ Aviation has embraced satellite connectivity aggressively. Most major airlines n
 
 The Global Positioning System is arguably the most impactful satellite system ever built. Operated by the U.S. Space Force, 31 MEO satellites transmit precise timing signals that your phone or car uses to triangulate your position to within a few meters.
 
-GPS isn't alone anymore. Russia's GLONASS, Europe's Galileo, and China's BeiDou provide independent global navigation. Modern receivers use signals from multiple constellations simultaneously, improving accuracy and reliability. With augmentation systems like WAAS (Wide Area Augmentation System) and Real-Time Kinematic (RTK) corrections, centimeter-level positioning is now routine for surveying, [agriculture](/agriculture), and autonomous vehicles.
+GPS isn't alone anymore. Russia's GLONASS, Europe's Galileo, and China's BeiDou provide independent global navigation. Modern receivers use signals from multiple constellations simultaneously, improving accuracy and reliability. With augmentation systems like WAAS (Wide Area Augmentation System) and Real-Time Kinematic (RTK) corrections, centimeter-level positioning is now routine for [surveying](/surveying), [agriculture](/agriculture), and autonomous vehicles.
 
 ### Earth Observation and Weather
 
@@ -201,7 +201,7 @@ Satellite communication is in the middle of its biggest transformation since the
 
 **Software-defined satellites** can reconfigure their frequency plans, coverage areas, and capacity allocation on the fly via software updates. Traditional satellites are built with fixed configurations that can't change for their 15-year lifespan. Flexible satellites adapt to changing markets and demands.
 
-**Optical ground stations** using laser links between satellites and ground terminals promise higher bandwidth and lower probability of interception than radio frequency links. Atmospheric turbulence and clouds are challenges, but adaptive optics and site diversity are making ground-based laser links increasingly practical.
+**Optical ground stations** using laser links between satellites and ground terminals promise higher bandwidth and lower probability of interception than radio frequency links. Atmospheric turbulence and clouds are challenges, but adaptive [optics](/optics) and site diversity are making ground-based laser links increasingly practical.
 
 ## Should You Care About Satellite Communication?
 
@@ -211,4 +211,4 @@ For most people in well-connected urban areas, satellite communication works inv
 
 The current wave of LEO broadband constellations is genuinely changing the connectivity equation for hundreds of millions of people who live beyond the reach of cables and towers. That's not hype—it's happening right now, and it's one of the more meaningful technological shifts of this decade.
 
-The infrastructure orbiting above your head right now—thousands of active satellites, each a small miracle of engineering and physics—represents one of humanity's most impressive achievements. We've turned empty space into a communications network that connects every corner of the planet. The fact that this seems ordinary says more about how quickly we take extraordinary things for granted than about the technology itself.
+The infrastructure orbiting above your head right now—thousands of active satellites, each a small miracle of engineering and [physics](/physics)—represents one of humanity's most impressive achievements. We've turned empty space into a communications network that connects every corner of the planet. The fact that this seems ordinary says more about how quickly we take extraordinary things for granted than about the technology itself.

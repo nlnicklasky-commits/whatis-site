@@ -39,13 +39,13 @@ Digital signal processing (DSP) is the mathematical manipulation of signals—au
 
 ## Signals Are Everywhere
 
-Before diving into the "digital" and "processing" parts, let's talk about signals. A signal is any quantity that varies over time or space and carries information. The pressure waves hitting your eardrum right now? An audio signal. The light pattern falling on your retina? A visual signal. The electrical activity in your heart that an ECG monitors? A biomedical signal. The radio waves carrying your phone call? A communication signal.
+Before [diving](/diving) into the "digital" and "processing" parts, let's talk about signals. A signal is any quantity that varies over time or space and carries information. The pressure waves hitting your eardrum right now? An audio signal. The light pattern falling on your retina? A visual signal. The electrical activity in your heart that an ECG monitors? A biomedical signal. The radio waves carrying your phone call? A communication signal.
 
-We're swimming in signals. The question is what to do with them. And the answer, increasingly, is DSP.
+We're [swimming](/swimming) in signals. The question is what to do with them. And the answer, increasingly, is DSP.
 
 Your phone uses DSP constantly. When you make a call, DSP compresses your voice, removes background noise, corrects for transmission errors, and manages the radio link. When you take a photo, DSP processes the raw sensor data into a viewable image—correcting color, reducing noise, sharpening edges, and maybe detecting faces. When you play music, DSP decodes compressed audio, applies equalization, and manages spatial effects. When you say "Hey Siri," DSP processes the audio before sending it to speech recognition [algorithms](/algorithms).
 
-Virtually every electronic device you interact with has DSP running inside it.
+Virtually every electronic device you interact with has DSP [running](/running) inside it.
 
 ## From Analog to Digital: The First Step
 
@@ -53,7 +53,7 @@ The physical world is analog—continuous signals that vary smoothly over time. 
 
 ### Sampling
 
-Sampling captures the signal's value at regular intervals. Instead of a continuous wave, you get a series of snapshots—like a flipbook animation. The number of samples per second is the **sampling rate** (measured in Hz). CD-quality audio uses 44,100 samples per second. Telephone audio uses 8,000. Professional studio recordings might use 96,000 or even 192,000.
+Sampling captures the signal's value at regular intervals. Instead of a continuous wave, you get a series of snapshots—like a flipbook [animation](/animation). The number of samples per second is the **sampling rate** (measured in Hz). CD-quality audio uses 44,100 samples per second. Telephone audio uses 8,000. Professional studio recordings might use 96,000 or even 192,000.
 
 How fast do you need to sample? The **Nyquist-Shannon sampling theorem** gives the definitive answer: you must sample at least twice the highest frequency present in the signal. If a signal contains frequencies up to 20 kHz (the upper limit of human hearing), you need at least 40,000 samples per second to represent it accurately.
 
@@ -73,7 +73,7 @@ Here's where DSP gets genuinely interesting. Most people think of signals in the
 
 Joseph Fourier discovered in the early 1800s that any signal can be decomposed into a sum of sinusoids (sine and cosine waves) at different frequencies. The Fourier transform does this decomposition, converting a time-domain signal into its frequency-domain representation.
 
-Think of it like this: you hear a chord on a piano. In the time domain, it's a complex wiggly waveform. In the frequency domain, it's three clear spikes—one for each note. The Fourier transform separates the notes.
+Think of it like this: you hear a chord on a [piano](/piano). In the time domain, it's a complex wiggly waveform. In the frequency domain, it's three clear spikes—one for each note. The Fourier transform separates the notes.
 
 This matters because many operations that are difficult in the time domain become trivially easy in the frequency domain. Removing a specific frequency (a hum, a whistle, interference) means just zeroing out that frequency component. Boosting bass or cutting treble means multiplying specific frequency ranges. These operations would require complex calculations in the time domain but become simple multiplications in the frequency domain.
 
@@ -101,7 +101,7 @@ Filtering is probably the single most common DSP operation. A filter modifies a 
 
 Digital filters come in two fundamental architectures.
 
-**Finite Impulse Response (FIR) filters** compute each output sample as a weighted sum of current and past input samples. They're always stable (they can't blow up), they can have exactly linear phase (no phase distortion), and they're straightforward to design. The trade-off: they often need many coefficients (taps) to achieve sharp frequency cutoffs, which means more computation.
+**Finite Impulse Response (FIR) filters** compute each output sample as a weighted sum of current and past input samples. They're always stable (they can't blow up), they can have exactly linear phase (no phase distortion), and they're straightforward to design. The [trade](/trade)-off: they often need many coefficients (taps) to achieve sharp frequency cutoffs, which means more computation.
 
 **Infinite Impulse Response (IIR) filters** use feedback—each output sample depends on past output samples as well as inputs. They can achieve sharp cutoffs with far fewer coefficients than FIR filters, making them computationally cheaper. But feedback introduces the possibility of instability (if poorly designed, the output grows without bound) and phase distortion. IIR designs often mirror classic analog filter types—Butterworth, Chebyshev, elliptic.
 
@@ -125,13 +125,13 @@ The psychoacoustic models behind audio compression are sophisticated. Loud sound
 
 ### Music Production
 
-Every modern music recording passes through extensive DSP. Equalization adjusts frequency balance. Compression reduces active range (the gap between quiet and loud). Reverb simulates room acoustics by convolving the signal with a room's impulse response. Pitch correction (Auto-Tune) analyzes the singer's frequency and shifts it to the nearest correct note.
+Every modern music recording passes through extensive DSP. Equalization adjusts frequency balance. Compression reduces active range (the gap between quiet and loud). Reverb simulates room [acoustics](/acoustics) by convolving the signal with a room's impulse response. Pitch correction (Auto-Tune) analyzes the singer's frequency and shifts it to the nearest correct note.
 
 These effects—which once required expensive analog hardware—now run entirely in software. A laptop running a digital audio workstation (DAW) with DSP plugins has more signal processing power than a million-dollar recording studio from the 1980s.
 
 ## DSP in Communications
 
-Modern wireless communication is essentially impossible without DSP. Your phone's radio modem contains DSP processors performing operations that would have been science fiction 40 years ago.
+Modern wireless communication is essentially impossible without DSP. Your phone's radio modem contains DSP processors performing operations that would have been [science fiction](/science-fiction) 40 years ago.
 
 ### Modulation and Demodulation
 
@@ -175,17 +175,17 @@ Dedicated DSP processors are designed specifically for signal processing operati
 
 ### FPGAs
 
-Field-Programmable Gate Arrays (FPGAs) offer configurable hardware that can be programmed to implement DSP operations directly in logic circuits. They're faster than software-based DSP (because the hardware itself is the algorithm) but more flexible than fixed-function chips. FPGAs are common in military systems, high-frequency trading, and prototype development.
+Field-Programmable Gate Arrays (FPGAs) offer configurable hardware that can be programmed to implement DSP operations directly in [logic](/logic) circuits. They're faster than software-based DSP (because the hardware itself is the algorithm) but more flexible than fixed-function chips. FPGAs are common in military systems, high-frequency trading, and prototype development.
 
 ### GPUs
 
-Graphics Processing Units—originally designed for rendering images—turned out to be excellent at DSP operations because both domains involve massive parallel mathematical operations. GPU-accelerated DSP is now standard for deep learning, video processing, and scientific computing.
+Graphics Processing Units—originally designed for rendering images—turned out to be excellent at DSP operations because both domains involve massive parallel mathematical operations. GPU-accelerated DSP is now standard for [deep learning](/deep-learning), video processing, and scientific computing.
 
 ## The Convergence of DSP and Machine Learning
 
 Traditional DSP and [machine learning](/machine-learning) are converging rapidly. Classical DSP provides the signal conditioning, feature extraction, and mathematical framework. Machine learning adds [pattern recognition](/pattern-recognition), classification, and adaptation capabilities that classical algorithms struggle with.
 
-**Speech recognition** is a perfect example. Classical DSP computes spectrograms (time-frequency representations) of speech. Machine learning models (now typically deep neural networks) recognize words from those spectrograms. Neither alone is sufficient—DSP provides clean, structured input, and ML provides flexible pattern recognition.
+**Speech recognition** is a perfect example. Classical DSP computes spectrograms (time-frequency representations) of speech. Machine learning models (now typically deep [neural networks](/neural-networks)) recognize words from those spectrograms. Neither alone is sufficient—DSP provides clean, structured input, and ML provides flexible pattern recognition.
 
 **Adaptive noise cancellation** increasingly uses neural networks alongside classical adaptive filters. **Radar target classification** combines DSP-based feature extraction with ML-based classifiers. **Audio source separation** (separating individual instruments or voices from a mix) has been transformed by deep learning approaches that outperform classical DSP methods.
 
@@ -195,6 +195,6 @@ The engineers who thrive in modern DSP understand both domains—the mathematica
 
 Digital signal processing converts real-world signals into numbers and manipulates them using mathematical algorithms. The Fourier transform and its fast implementation (FFT) provide the fundamental tool for analyzing and manipulating signals in the frequency domain. Filtering—selectively modifying frequency content—is the most common operation.
 
-DSP touches nearly every electronic device: phones, cameras, medical equipment, radar, communications systems, audio equipment, and automotive systems. It's the invisible technology that makes modern electronics work—cleaning up noisy signals, extracting useful information, compressing data for efficient storage and transmission, and enabling capabilities from noise cancellation to medical imaging.
+DSP touches nearly every electronic device: phones, cameras, medical equipment, radar, communications systems, audio equipment, and automotive systems. It's the invisible technology that makes modern [electronics](/electronics) work—cleaning up noisy signals, extracting useful information, compressing data for efficient storage and transmission, and enabling capabilities from noise cancellation to medical imaging.
 
-The field sits at the intersection of mathematics, [electrical engineering](/electrical-engineering), and [computer science](/computer-science). Understanding DSP means understanding how the physical world's continuous signals become the digital information that defines modern technology—and how we extract meaning from all that data once we have it.
+The field sits at the intersection of [mathematics](/mathematics), [electrical engineering](/electrical-engineering), and [computer science](/computer-science). Understanding DSP means understanding how the physical world's continuous signals become the digital information that defines modern technology—and how we extract meaning from all that data once we have it.

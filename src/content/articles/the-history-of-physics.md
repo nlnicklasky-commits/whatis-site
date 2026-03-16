@@ -59,9 +59,9 @@ Newton's physics worked so well that it dominated for over 200 years. For two ce
 
 ## The 19th Century: Electricity, Magnetism, and Thermodynamics
 
-**Faraday and Maxwell** unified electricity and magnetism into a single theory of [electromagnetism](/electromagnetism). Maxwell's equations (published in the 1860s) showed that light is an electromagnetic wave — one of the greatest theoretical insights in physics history.
+**Faraday and Maxwell** unified [electricity](/electricity) and [magnetism](/magnetism) into a single theory of [electromagnetism](/electromagnetism). Maxwell's equations (published in the 1860s) showed that light is an electromagnetic wave — one of the greatest theoretical insights in physics history.
 
-**Thermodynamics** — developed by Carnot, Clausius, Kelvin, and Boltzmann — described how energy moves and transforms, establishing the concept of entropy and the laws of thermodynamics.
+**[Thermodynamics](/thermodynamics)** — developed by Carnot, Clausius, Kelvin, and Boltzmann — described how energy moves and transforms, establishing the concept of entropy and the laws of thermodynamics.
 
 By 1900, many physicists believed their discipline was essentially complete. Lord Kelvin reportedly said only two small "clouds" remained over physics. Those clouds turned out to be the ultraviolet catastrophe and the Michelson-Morley experiment — and they blew the whole edifice apart.
 
@@ -69,7 +69,7 @@ By 1900, many physicists believed their discipline was essentially complete. Lor
 
 ### Relativity
 
-In 1905, Albert Einstein published four papers that changed physics forever. His special theory of relativity showed that space and time are intertwined, that nothing can travel faster than light, and that energy equals mass times the speed of light squared (E=mc²).
+In 1905, Albert Einstein published four papers that changed physics forever. His special theory of [relativity](/relativity) showed that space and time are intertwined, that nothing can travel faster than light, and that energy equals mass times the speed of light squared (E=mc²).
 
 In 1915, his general theory of [relativity](/general-relativity) replaced Newton's gravity with a geometric description: massive objects curve the fabric of spacetime, and other objects follow that curvature. It was confirmed by the 1919 solar eclipse observation and has passed every test since.
 
@@ -77,7 +77,7 @@ In 1915, his general theory of [relativity](/general-relativity) replaced Newton
 
 Starting with Planck (1900), Bohr (1913), Heisenberg (1925), Schrödinger (1926), and Dirac (1928), physicists discovered that the subatomic world operates by profoundly counterintuitive rules. Particles behave as waves. Energy comes in discrete packets. Measurement affects the system being measured. Outcomes are fundamentally probabilistic.
 
-Quantum mechanics and general relativity are the two pillars of modern physics. Both are confirmed to extraordinary precision. And they're mathematically incompatible with each other — which is the central unsolved problem in physics today.
+[Quantum mechanics](/quantum-mechanics) and general relativity are the two pillars of modern physics. Both are confirmed to extraordinary precision. And they're mathematically incompatible with each other — which is the central unsolved problem in physics today.
 
 ### The Standard Model
 

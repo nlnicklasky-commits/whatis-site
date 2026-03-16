@@ -36,7 +36,7 @@ faq:
 # What Is Sustainable Architecture?
 Sustainable [architecture](/architecture) is the practice of designing buildings and built environments to minimize negative environmental impact while maximizing the health, comfort, and well-being of occupants — through energy efficiency, responsible material selection, water conservation, and thoughtful integration with natural systems.
 
-Buildings are quietly one of the biggest environmental problems we have. They account for about 39% of all carbon emissions in the United States — 28% from operations (heating, cooling, lighting, appliances) and 11% from [construction](/construction) materials and processes. Globally, the numbers are similar. If you care about climate change, you can't ignore buildings. Sustainable architecture is the discipline that says: we can do this differently.
+Buildings are quietly one of the biggest environmental problems we have. They account for about 39% of all carbon emissions in the United States — 28% from operations (heating, cooling, lighting, appliances) and 11% from [construction](/construction) materials and processes. Globally, the numbers are similar. If you care about [climate change](/climate-change), you can't ignore buildings. Sustainable architecture is the discipline that says: we can do this differently.
 
 ## Why Buildings Matter So Much
 
@@ -50,7 +50,7 @@ Here's the kicker: buildings last a long time. A building constructed today will
 
 ## The History of Green Building
 
-Humans built sustainably for thousands of years — because they had no choice. Ancient Persian wind towers caught breezes to cool buildings without any mechanical system. Roman insulae used thick masonry walls for thermal mass. Traditional architecture in every climate — from adobe in the American Southwest to stilted houses in Southeast Asia — evolved to work with local conditions, not against them.
+Humans built sustainably for thousands of years — because they had no choice. Ancient Persian wind towers caught breezes to cool buildings without any mechanical system. Roman insulae used thick [masonry](/masonry) walls for thermal mass. Traditional architecture in every climate — from adobe in the American Southwest to stilted houses in Southeast Asia — evolved to work with local conditions, not against them.
 
 The Industrial Revolution changed everything. Cheap energy from fossil fuels meant buildings could be heated, cooled, and lit artificially, regardless of design. Glass skyscrapers in Phoenix. Poorly insulated houses heated by natural gas. Buildings stopped needing to respond to climate because machines could brute-force comfort.
 
@@ -72,7 +72,7 @@ Insulation is the most cost-effective energy measure. Continuous insulation (wra
 
 **Windows** are typically the weakest thermal element in the envelope. Modern high-performance windows use double or triple glazing, low-emissivity (low-E) coatings that reflect infrared radiation, argon or krypton gas fills between panes, and insulated frames. A triple-pane low-E window might have a U-factor of 0.15 — meaning it loses heat about 6 times slower than a single-pane window.
 
-**Air sealing** prevents conditioned air from leaking out and unconditioned air from leaking in. A typical American home has enough leaks to create a hole the size of a basketball. Sustainable buildings use air barriers, caulking, weather-stripping, and careful detailing to dramatically reduce infiltration. The Passive House standard requires air leakage below 0.6 air changes per hour at 50 Pascals of pressure — about 10 times tighter than a typical new home.
+**Air sealing** prevents conditioned air from leaking out and unconditioned air from leaking in. A typical American home has enough leaks to create a hole the size of a [basketball](/basketball). Sustainable buildings use air barriers, caulking, weather-stripping, and careful detailing to dramatically reduce infiltration. The Passive House standard requires air leakage below 0.6 air changes per hour at 50 Pascals of pressure — about 10 times tighter than a typical new home.
 
 **Passive design** strategies use the building's shape, orientation, and features to manage energy without mechanical systems. South-facing windows with proper overhangs admit winter sun for free heating while blocking summer sun. Thermal mass — concrete, brick, stone, or water — absorbs heat during the day and releases it at night, moderating temperature swings. Natural ventilation, when climate permits, can reduce or eliminate the need for [air conditioning](/air-conditioning).
 
@@ -90,7 +90,7 @@ After minimizing energy demand, sustainable buildings generate some or all of th
 
 ### Sustainable Materials
 
-The materials in a building have environmental impacts from extraction, manufacturing, transportation, installation, and eventual disposal or recycling. Sustainable architecture considers the entire lifecycle.
+The materials in a building have environmental impacts from extraction, manufacturing, transportation, installation, and eventual disposal or [recycling](/recycling). Sustainable architecture considers the entire lifecycle.
 
 **Embodied carbon** — the CO2 emissions from manufacturing building materials — is receiving increasing attention. Concrete and steel together are responsible for about 14% of global CO2 emissions. As operational energy decreases through efficiency, embodied carbon becomes a larger share of a building's total lifetime emissions.
 
@@ -110,7 +110,7 @@ Sustainable buildings use less water and manage stormwater responsibly.
 
 **Low-flow fixtures** — toilets, faucets, and showerheads — can reduce water use by 30-50% with no noticeable difference in performance. Dual-flush toilets use 0.8 gallons for liquid waste and 1.6 gallons for solid, compared to 3.5+ gallons for older models.
 
-**Rainwater harvesting** collects and stores roof runoff for irrigation, toilet flushing, or (with treatment) potable use. In some climates, rainwater can supply a significant portion of a building's water needs.
+**Rainwater harvesting** collects and stores roof runoff for [irrigation](/irrigation), toilet flushing, or (with treatment) potable use. In some climates, rainwater can supply a significant portion of a building's water needs.
 
 **Graywater recycling** treats lightly used water from sinks, showers, and laundry for reuse in toilet flushing or irrigation. The Bullitt Center treats all its wastewater on-site, returning clean water to the ground.
 
@@ -118,7 +118,7 @@ Sustainable buildings use less water and manage stormwater responsibly.
 
 ### Indoor Environmental Quality
 
-Sustainable buildings aren't just good for the planet — they're better for people. Indoor environmental quality (IEQ) encompasses air quality, thermal comfort, lighting, acoustics, and connections to the outdoors.
+Sustainable buildings aren't just good for the planet — they're better for people. Indoor environmental quality (IEQ) encompasses air quality, thermal comfort, lighting, [acoustics](/acoustics), and connections to the outdoors.
 
 Americans spend about 90% of their time indoors, and indoor air can be 2-5 times more polluted than outdoor air, according to the EPA. Sustainable buildings address this through:
 
@@ -134,7 +134,7 @@ Americans spend about 90% of their time indoors, and indoor air can be 2-5 times
 
 ### LEED
 
-LEED (Leadership in Energy and Environmental Design) is the most widely recognized green building certification worldwide. It evaluates buildings across categories including energy, water, materials, indoor quality, site design, and innovation. Points accumulate toward four certification levels: Certified (40-49 points), Silver (50-59), Gold (60-79), and Platinum (80+).
+LEED ([Leadership](/leadership) in Energy and Environmental Design) is the most widely recognized green building certification worldwide. It evaluates buildings across categories including energy, water, materials, indoor quality, site design, and innovation. Points accumulate toward four certification levels: Certified (40-49 points), Silver (50-59), Gold (60-79), and Platinum (80+).
 
 Over 100,000 projects in 181 countries have earned LEED certification. It's become a market standard — many governments require LEED certification for public buildings, and tenants increasingly prefer LEED-certified office space.
 
@@ -155,7 +155,7 @@ The most rigorous standard, the Living Building Challenge requires buildings to 
 
 The future of sustainable architecture is heading toward several convergences.
 
-**Whole-life carbon** accounting — measuring both operational and embodied carbon over a building's entire lifespan — is becoming standard practice. This shifts attention toward material choices and construction processes, not just energy efficiency.
+**Whole-life carbon** [accounting](/accounting) — measuring both operational and embodied carbon over a building's entire lifespan — is becoming standard practice. This shifts attention toward material choices and construction processes, not just energy efficiency.
 
 **Smart [building systems](/building-automation)** using IoT sensors, [machine learning](/machine-learning), and automated controls can optimize energy use in real-time, adjusting lighting, HVAC, and equipment based on occupancy, weather, and grid conditions.
 

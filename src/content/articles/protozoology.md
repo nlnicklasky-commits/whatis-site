@@ -39,9 +39,9 @@ Protozoology is the scientific study of protozoa—single-celled eukaryotic orga
 
 ## A Quick History: How We Started Noticing the Tiny Things
 
-The story of protozoology really starts with one person and one invention. In 1674, a Dutch cloth merchant named Antonie van Leeuwenhoek peered through his hand-ground microscope lenses and spotted tiny moving creatures in a drop of lake water. He called them "animalcules"—little animals. He had no formal scientific training, no university degree, and no idea he'd just kicked off an entire field of science.
+The story of protozoology really starts with one person and one [invention](/invention). In 1674, a Dutch cloth merchant named Antonie van Leeuwenhoek peered through his hand-ground microscope lenses and spotted tiny moving creatures in a drop of lake water. He called them "animalcules"—little animals. He had no formal scientific training, no university degree, and no idea he'd just kicked off an entire field of science.
 
-For the next two centuries, protozoology mostly consisted of people looking through improving microscopes, sketching what they saw, and arguing about classification. The German biologist Christian Gottfried Ehrenberg described hundreds of species in the 1830s, though many of his classifications didn't survive later scrutiny. The real turning point came in the 1880s when Charles Louis Alphonse Laveran, a French army surgeon stationed in Algeria, identified Plasmodium parasites inside the blood cells of malaria patients. Suddenly, protozoology wasn't just about cataloging microscopic curiosities—it was about saving lives.
+For the next two centuries, protozoology mostly consisted of people looking through improving microscopes, [sketching](/sketching) what they saw, and arguing about classification. The German biologist Christian Gottfried Ehrenberg described hundreds of species in the 1830s, though many of his classifications didn't survive later scrutiny. The real turning point came in the 1880s when Charles Louis Alphonse Laveran, a French army surgeon stationed in Algeria, identified Plasmodium parasites inside the blood cells of malaria patients. Suddenly, protozoology wasn't just about cataloging microscopic curiosities—it was about saving lives.
 
 By the early 1900s, protozoology had become a recognized discipline with dedicated journals, research institutes, and a growing understanding that these tiny organisms shaped both ecosystems and human health in ways nobody had previously imagined.
 
@@ -61,7 +61,7 @@ Movement is one of the classic ways protozoologists categorize protozoa, and eac
 
 **Flagellates** whip one or more long, tail-like flagella to propel themselves through liquid. Trypanosoma, the parasite causing African sleeping sickness, is a flagellate. So is Giardia, that intestinal parasite hikers dread.
 
-**Ciliates** are covered in tiny hair-like structures called cilia that beat in coordinated waves—like a microscopic rowboat with thousands of oars. Paramecium is the classic example. The coordination of ciliary beating is remarkable: these single cells manage fluid dynamics that engineers would need computers to model.
+**Ciliates** are covered in tiny hair-like structures called cilia that beat in coordinated waves—like a microscopic rowboat with thousands of oars. Paramecium is the classic example. The coordination of ciliary beating is remarkable: these single cells manage [fluid dynamics](/fluid-dynamics) that engineers would need computers to model.
 
 **Amoeboids** move by extending portions of their cell membrane called pseudopodia ("false feet"). The cell essentially flows in the direction it wants to go. Amoeba proteus is the textbook example, but this movement style shows up across many unrelated groups.
 
@@ -129,7 +129,7 @@ It's easy to focus on the disease-causing protozoa, but the vast majority of spe
 
 ### The Microbial Loop
 
-In aquatic ecosystems, protozoa are critical links in the food web. Bacteria consume dissolved organic matter. Protozoa eat the bacteria. Larger organisms eat the protozoa. This "microbial loop" transfers energy and nutrients from dissolved organic material back into the classical food chain. Without protozoa, a huge fraction of aquatic productivity would be locked in bacteria too small for larger organisms to eat efficiently.
+In aquatic ecosystems, protozoa are critical links in the food web. Bacteria consume dissolved organic matter. Protozoa eat the bacteria. Larger organisms eat the protozoa. This "microbial loop" transfers energy and nutrients from dissolved organic material back into the classical food chain. Without protozoa, a huge fraction of aquatic [productivity](/productivity) would be locked in bacteria too small for larger organisms to eat efficiently.
 
 ### Soil Health
 
@@ -145,7 +145,7 @@ Studying organisms this small requires specialized tools and techniques, many bo
 
 ### Microscopy
 
-Light microscopy remains fundamental—you can observe living protozoa under a standard microscope with nothing more than a drop of pond water. Phase contrast and differential interference contrast (DIC) microscopy reveal internal structures without staining. [Electron microscopy](/electron-microscopy) (both scanning and transmission) provides nanometer-scale detail of ultrastructure.
+Light [microscopy](/microscopy) remains fundamental—you can observe living protozoa under a standard microscope with nothing more than a drop of pond water. Phase contrast and differential interference contrast (DIC) microscopy reveal internal structures without staining. [Electron microscopy](/electron-microscopy) (both scanning and transmission) provides nanometer-scale detail of ultrastructure.
 
 Fluorescence microscopy using specific molecular probes lets researchers track individual proteins, organelles, or parasites within host cells. Confocal microscopy creates three-dimensional images by scanning focal planes. These techniques have revealed subcellular details that would have astounded Leeuwenhoek.
 
@@ -157,7 +157,7 @@ Growing protozoa in the lab ranges from straightforward (Paramecium thrives in s
 
 Modern protozoology relies heavily on DNA sequencing, PCR, and genomic analysis. Environmental DNA (eDNA) surveys have revealed protozoan diversity far exceeding what microscopy-based surveys detected. The genomes of major parasites like Plasmodium, Trypanosoma, and Leishmania have been fully sequenced, providing targets for drug development and vaccines.
 
-CRISPR gene editing has reached protozoology, allowing researchers to knock out specific genes in parasites to understand their function. This has accelerated the identification of potential drug targets.
+CRISPR gene [editing](/editing) has reached protozoology, allowing researchers to knock out specific genes in parasites to understand their function. This has accelerated the identification of potential drug targets.
 
 ## Drug Development and Treatment
 
@@ -179,9 +179,9 @@ The RTS,S malaria vaccine (Mosquirix), approved in 2021, provides partial protec
 
 ## Protozoology and Climate Change
 
-Climate change is shifting the geographic ranges of disease-carrying vectors and, consequently, the diseases they transmit. As temperatures warm, mosquito species that carry malaria are moving to higher altitudes and latitudes. Highland regions in East Africa that were once too cold for malaria transmission are now experiencing cases. Models predict that by 2050, hundreds of millions more people could be at risk.
+[Climate change](/climate-change) is shifting the geographic ranges of disease-carrying vectors and, consequently, the diseases they transmit. As temperatures warm, mosquito species that carry malaria are moving to higher altitudes and latitudes. Highland regions in East Africa that were once too cold for malaria transmission are now experiencing cases. Models predict that by 2050, hundreds of millions more people could be at risk.
 
-Similarly, warming waters may alter marine protozoan communities, affecting the microbial loop and ocean productivity. Changes in soil temperature and moisture affect soil protozoan communities, with potential knock-on effects for nutrient cycling and [agriculture](/agriculture).
+Similarly, warming waters may alter marine protozoan communities, affecting the microbial loop and ocean productivity. Changes in soil temperature and moisture affect soil protozoan communities, with potential knock-on effects for nutrient [cycling](/cycling) and [agriculture](/agriculture).
 
 ## Modern Frontiers in Protozoology
 
@@ -201,7 +201,7 @@ With parasite genomes sequenced, researchers can identify essential genes—gene
 
 ### [Synthetic Biology](/synthetic-biology)
 
-Researchers are engineering protozoa for practical purposes. Modified Tetrahymena (a ciliate) has been used to produce recombinant proteins. Engineered protozoa could potentially serve as living sensors for water quality monitoring or as bioreactors for producing valuable compounds.
+Researchers are [engineering](/engineering) protozoa for practical purposes. Modified Tetrahymena (a ciliate) has been used to produce recombinant proteins. Engineered protozoa could potentially serve as living sensors for water quality monitoring or as bioreactors for producing valuable compounds.
 
 ## Why Protozoology Matters More Than You'd Think
 

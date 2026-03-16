@@ -35,7 +35,7 @@ Dance history is the study of how [dance](/dance) has developed, transformed, an
 
 ## Before Written Records
 
-Dance is almost certainly older than [agriculture](/agriculture), older than pottery, older than any form of art that leaves physical traces. We know this because every human society dances, and because the neurological capacity for rhythmic movement appears to be hardwired. The urge to move together in time preceded civilization.
+Dance is almost certainly older than [agriculture](/agriculture), older than [pottery](/pottery), older than any form of art that leaves physical traces. We know this because every human society dances, and because the neurological capacity for rhythmic movement appears to be hardwired. The urge to move together in time preceded civilization.
 
 The earliest physical evidence comes from cave paintings. The Bhimbetka rock shelters in India (roughly 9,000 years old) show figures in what appear to be dance formations. Egyptian tomb paintings (3000 BC onward) depict dancers at banquets, funerals, and religious ceremonies. Ancient Greek pottery shows dancers in elaborate formations, and the Greeks considered dance a form of [education](/education) — Plato wrote that the well-educated citizen should be proficient in dance.
 
@@ -51,7 +51,7 @@ Ballet technique developed over centuries. Pierre Beauchamp codified the five ba
 
 By 1900, some dancers felt that ballet had become rigid, elitist, and disconnected from genuine human emotion. They rebelled.
 
-**Isadora Duncan** (1877-1927) abandoned corsets, pointe shoes, and codified technique. She danced barefoot in flowing tunics, drawing inspiration from Greek art and natural movement. Her influence was more philosophical than technical — she insisted that dance should express the dancer's inner life, not demonstrate virtuosity.
+**Isadora Duncan** (1877-1927) abandoned corsets, pointe shoes, and codified technique. She danced barefoot in flowing tunics, [drawing](/drawing) inspiration from Greek art and natural movement. Her influence was more philosophical than technical — she insisted that dance should express the dancer's inner life, not demonstrate virtuosity.
 
 **Martha Graham** (1894-1991) developed the first fully codified modern dance technique. Her method centered on contraction and release — the breath-driven movement of the torso that became modern dance's answer to ballet's turnout. Graham's company, founded in 1926, remains active. Her choreographic works (*Appalachian Spring*, *Lamentation*, *Night Journey*) are masterpieces that defined American concert dance.
 
@@ -83,6 +83,6 @@ Dance history faces a unique challenge: dance is ephemeral. Unlike [music](/musi
 
 Before film, dances were preserved through notation systems — Beauchamp-Feuillet notation (1700), Laban notation (1928), and Benesh notation (1955). These systems encode movement on paper, but learning to read them requires specialized training, and they can't capture the subtle qualities of individual performers.
 
-Film and video changed preservation dramatically, but even recorded dance is incomplete — camera angles, editing choices, and two-dimensional screens can't fully capture the three-dimensional, spatial, energetic experience of live performance.
+Film and video changed preservation dramatically, but even recorded dance is incomplete — camera angles, [editing](/editing) choices, and two-dimensional screens can't fully capture the three-dimensional, spatial, energetic experience of live performance.
 
 Dance history reminds us that some of humanity's most important cultural expressions are inherently transient. The dance exists in the moment of dancing. History can only gesture toward what that moment felt like.

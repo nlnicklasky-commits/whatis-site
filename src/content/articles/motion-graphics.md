@@ -37,7 +37,7 @@ faq:
 
 # What Is Motion Graphics?
 
-Motion graphics is the art of bringing [graphic design](/graphic-design) to life through movement. Take a logo, a chart, some text, a handful of geometric shapes — now make them move with purpose and rhythm. That's motion graphics in a sentence. It sits at the intersection of [graphic design](/computer-graphics), animation, and filmmaking, and it's become one of the most in-demand creative skills of the past decade.
+Motion graphics is the art of bringing [graphic design](/graphic-design) to life through movement. Take a logo, a chart, some text, a handful of geometric shapes — now make them move with purpose and rhythm. That's motion graphics in a sentence. It sits at the intersection of [graphic design](/computer-graphics), [animation](/animation), and [filmmaking](/filmmaking), and it's become one of the most in-demand creative skills of the past decade.
 
 You've seen motion graphics thousands of times even if you didn't know the term. The animated title sequence of your favorite TV show? Motion graphics. That slick explainer video a startup used to pitch their product? Motion graphics. The lower-third text crawling across a news broadcast? Also motion graphics. The animated infographic that went viral on social media last week? You get the idea.
 
@@ -47,7 +47,7 @@ This distinction trips people up constantly, so let's clear it out right away.
 
 Traditional animation — think Pixar, Disney, or your favorite anime — tells stories through characters. There are faces, emotions, narrative arcs. A character walks across a room, picks up an object, reacts to something. The animator's job is to make that character feel alive and believable.
 
-Motion graphics, by contrast, usually don't involve characters at all. Instead, the elements in motion are *design elements*: typography, icons, abstract shapes, data visualizations, logos, UI components. The goal isn't to tell a character-driven story — it's to communicate information, create a mood, or reinforce a brand identity through movement.
+Motion graphics, by contrast, usually don't involve characters at all. Instead, the elements in motion are *design elements*: [typography](/typography), icons, abstract shapes, data visualizations, logos, UI components. The goal isn't to tell a character-driven story — it's to communicate information, create a mood, or reinforce a brand identity through movement.
 
 That said, the line between the two has gotten blurry. Plenty of modern motion graphics include illustrated characters. And plenty of animated films use motion graphics techniques for title sequences or HUD displays. The distinction is more about intent and emphasis than a strict boundary.
 
@@ -75,7 +75,7 @@ The explosion of cable television in the 1990s created massive demand. Every cha
 
 When YouTube launched in 2005 and smartphones went mainstream a few years later, the demand for motion graphics went through the roof. Short-form video content needed to grab attention fast, communicate efficiently, and look professional — exactly what motion graphics excel at.
 
-Today, motion graphics appear everywhere: social media ads, [app](/app-development) onboarding screens, website hero sections, corporate presentations, music visualizers, e-learning courses, news broadcasts, and even smartwatch interfaces. The U.S. Bureau of Labor Statistics groups motion designers under multimedia artists and animators, a category projected to grow 8% between 2023 and 2033 — faster than average.
+Today, motion graphics appear everywhere: social media ads, [app](/app-development) onboarding screens, website hero sections, corporate presentations, music visualizers, e-learning courses, news broadcasts, and even smartwatch interfaces. The U.S. Bureau of Labor [Statistics](/statistics) groups motion designers under multimedia artists and animators, a category projected to grow 8% between 2023 and 2033 — faster than average.
 
 ## The 12 Principles of Animation (And Why Motion Designers Care)
 
@@ -83,7 +83,7 @@ Disney animators Frank Thomas and Ollie Johnston codified the "12 Principles of 
 
 Here are the ones that matter most for motion designers:
 
-**Squash and Stretch.** Objects deform slightly when they move. A bouncing ball flattens when it hits the ground and stretches as it rises. In motion graphics, applying subtle squash and stretch to shapes and text makes movement feel organic rather than mechanical.
+**[Squash](/squash) and Stretch.** Objects deform slightly when they move. A bouncing ball flattens when it hits the ground and stretches as it rises. In motion graphics, applying subtle squash and stretch to shapes and text makes movement feel organic rather than mechanical.
 
 **Anticipation.** Before a major action, there's a small preparatory movement in the opposite direction. A button might pull back slightly before flying across the screen. This gives the viewer's eye a fraction of a second to prepare, making the motion feel natural.
 
@@ -109,7 +109,7 @@ After Effects supports expressions (JavaScript-based code that automates animati
 
 For 3D motion graphics, Cinema 4D from Maxon has been the go-to for years. Its MoGraph module is specifically designed for motion graphics — it makes cloning, effecting, and animating large numbers of 3D objects surprisingly intuitive.
 
-Blender, the open-source 3D suite, has caught up dramatically. Its motion graphics capabilities improved massively with the Geometry Nodes system introduced around 2021. For budget-conscious artists or studios, Blender is now a serious alternative that costs exactly zero dollars.
+Blender, the open-source 3D suite, has caught up dramatically. Its motion graphics capabilities improved massively with the [Geometry](/geometry) Nodes system introduced around 2021. For budget-conscious artists or studios, Blender is now a serious alternative that costs exactly zero dollars.
 
 ### Emerging Tools
 
@@ -131,7 +131,7 @@ If the piece includes narration — and many motion graphics videos do — the s
 
 ### 3. Storyboarding and Styleframes
 
-Storyboards map out the key moments in the piece — rough sketches showing what the viewer sees at each major beat. Styleframes are more polished, fully designed static frames that establish the visual language: color palette, typography, illustration style, composition rules.
+Storyboards map out the key moments in the piece — rough sketches showing what the viewer sees at each major beat. Styleframes are more polished, fully designed static frames that establish the visual language: color palette, typography, [illustration](/illustration) style, composition rules.
 
 Most clients find it much easier to give feedback on static styleframes than on rough animation. Getting the visual direction locked before animation begins saves enormous amounts of revision time.
 
@@ -171,7 +171,7 @@ Saul Bass's legacy lives on. Title sequences for films and TV shows remain one o
 
 When you tap a button on your phone and it responds with a subtle bounce, that's motion graphics applied to user interface design. These "micro-interactions" — loading spinners, toggle animations, notification badges, pull-to-refresh gestures — make digital products feel responsive and alive.
 
-This is one of the fastest-growing areas of the field. As [app development](/app-development) and web design evolve, the demand for designers who understand both UI/UX and motion principles keeps climbing.
+This is one of the fastest-growing areas of the field. As [app development](/app-development) and [web design](/web-design) evolve, the demand for designers who understand both UI/UX and motion principles keeps climbing.
 
 ### [Data Visualization](/data-visualization)
 
@@ -201,7 +201,7 @@ One practical trick: set your work to music, even temporarily. Music provides a 
 
 ### Basic Programming Concepts
 
-You don't need to be a software engineer, but understanding variables, loops, conditionals, and basic math helps enormously — especially when writing After Effects expressions or working with procedural tools like Cavalry.
+You don't need to be a software engineer, but understanding variables, loops, conditionals, and basic math helps enormously — especially when [writing](/writing) After Effects expressions or working with procedural tools like Cavalry.
 
 Knowledge of [algorithms](/algorithms) can be useful for generative or data-driven motion work. And if you want to create interactive motion graphics for the web, some familiarity with CSS animations, JavaScript, and frameworks like GSAP (GreenSock Animation Platform) is increasingly expected.
 
@@ -219,7 +219,7 @@ But here's what most people miss: AI currently generates *video*, not *motion gr
 
 Where AI is genuinely useful right now is in assisting parts of the workflow: generating rough concepts, creating texture or background elements, automating repetitive tasks like resizing for different platforms, and accelerating the ideation phase.
 
-The consensus among working professionals seems to be that AI will change the tools and speed up production, but the core skills — design taste, timing intuition, storytelling ability, and client communication — remain human advantages for the foreseeable future.
+The consensus among working professionals seems to be that AI will change the tools and speed up production, but the core skills — design taste, timing intuition, [storytelling](/storytelling) ability, and client communication — remain human advantages for the foreseeable future.
 
 ## Career Paths in Motion Graphics
 
@@ -227,7 +227,7 @@ The field offers several distinct career trajectories, and they look quite diffe
 
 ### Agency/Studio Motion Designer
 
-Working at a design studio or advertising agency, you'll handle a variety of projects for different clients. The work is fast-paced, collaborative, and deadline-driven. You might animate a tech company's product launch video one week and a nonprofit's fundraising campaign the next. Salaries typically range from $60,000 to $95,000 in major U.S. markets.
+Working at a design studio or advertising agency, you'll handle a variety of projects for different clients. The work is fast-paced, collaborative, and deadline-driven. You might animate a tech company's product launch video one week and a nonprofit's [fundraising](/fundraising) campaign the next. Salaries typically range from $60,000 to $95,000 in major U.S. markets.
 
 ### In-House Motion Designer
 
@@ -235,11 +235,11 @@ Large companies — especially tech firms, media companies, and financial instit
 
 ### Freelance Motion Designer
 
-Freelancing is extremely common in this field. Experienced freelancers can earn $400 to $1,500 per day depending on their specialty and market. The trade-off: you're running a business alongside doing creative work, which means invoicing, client acquisition, contract negotiation, and inconsistent income.
+Freelancing is extremely common in this field. Experienced freelancers can earn $400 to $1,500 per day depending on their specialty and market. The trade-off: you're [running](/running) a business alongside doing creative work, which means invoicing, client acquisition, contract [negotiation](/negotiation), and inconsistent income.
 
 ### Creative Director
 
-Senior motion designers often move into creative direction, overseeing teams and making high-level decisions about visual approach, narrative strategy, and production workflow. These roles require strong communication and leadership skills on top of design and animation expertise.
+Senior motion designers often move into creative direction, overseeing teams and making high-level decisions about visual approach, narrative strategy, and production workflow. These roles require strong communication and [leadership](/leadership) skills on top of design and animation expertise.
 
 ### Specialized Roles
 
@@ -255,7 +255,7 @@ After years of watching student and junior work, certain patterns emerge consist
 
 **Poor typography.** If you're animating text and the type choices, sizing, and spacing aren't solid, no amount of clever animation will save it. Typography is a core [graphic design](/computer-graphics) discipline, and it matters even more in motion because the viewer's attention is drawn to anything that moves.
 
-**Neglecting audio.** A beautifully animated piece with no sound design feels incomplete. Even subtle ambient sound and transition effects make an enormous difference in perceived quality.
+**Neglecting audio.** A beautifully animated piece with no [sound design](/sound-design) feels incomplete. Even subtle ambient sound and transition effects make an enormous difference in perceived quality.
 
 **Following trends too closely.** Motion graphics trends cycle fast — the isometric illustration trend, the liquid morphing trend, the 3D gradient blob trend. If you only chase trends, your work becomes dated the moment the trend passes. Develop a personal aesthetic alongside trend awareness.
 
@@ -265,7 +265,7 @@ Understanding the business side matters whether you're hiring a motion designer 
 
 A 60-second explainer video from a mid-tier studio typically costs between $5,000 and $25,000 in the U.S. market. Premium studios and complex projects can push that to $50,000 or more. At the low end, template-based services offer motion graphics for $500 to $2,000, though the quality and customization are limited.
 
-The pricing reflects the labor intensity. A skilled motion designer working on a complex 60-second piece might invest 60 to 100 hours — and that's before accounting for revisions, sound design, and [project management](/project-management).
+The pricing reflects the labor intensity. A skilled motion designer working on a complex 60-second piece might invest 60 to 100 hours — and that's before [accounting](/accounting) for revisions, sound design, and [project management](/project-management).
 
 For businesses, the ROI calculation usually centers on engagement metrics. Video content with motion graphics typically achieves 2-3x the engagement of static content on social platforms. Explainer videos on landing pages have been shown to increase conversion rates by 20-80% in various studies. That makes the investment worthwhile for many companies.
 

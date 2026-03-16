@@ -31,7 +31,7 @@ faq:
 
 # What Is Water Color [Painting](/wall-painting)?
 
-Watercolor painting is a technique where pigments suspended in a water-based binder (usually gum arabic) are applied to paper. The paint is transparent — light passes through it, hits the white paper underneath, and bounces back through the color, creating a luminous glow that no other painting medium quite replicates. It's simultaneously one of the most accessible art forms (you can start with a $20 set) and one of the most demanding to master.
+Watercolor [painting](/painting) is a technique where pigments suspended in a water-based binder (usually gum arabic) are applied to paper. The paint is transparent — light passes through it, hits the white paper underneath, and bounces back through the color, creating a luminous glow that no other painting medium quite replicates. It's simultaneously one of the most accessible art forms (you can start with a $20 set) and one of the most demanding to master.
 
 ## Why Watercolor Is Different
 

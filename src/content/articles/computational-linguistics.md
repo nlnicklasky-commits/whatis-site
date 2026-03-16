@@ -41,7 +41,7 @@ Computational linguistics is the scientific discipline that uses computational m
 
 ## Language: The Hardest Easy Thing
 
-You understand language effortlessly. You're doing it right now — converting visual symbols on a screen into meaning, integrating each word with the ones before it, drawing inferences, updating your mental model of what this article is about. A five-year-old can do this. Every human with normal development does it by age four or five, without formal instruction.
+You understand language effortlessly. You're doing it right now — converting visual symbols on a screen into meaning, integrating each word with the ones before it, [drawing](/drawing) inferences, updating your mental model of what this article is about. A five-year-old can do this. Every human with normal development does it by age four or five, without formal instruction.
 
 And yet, after seventy years of research, computers still struggle with language. Why?
 
@@ -55,11 +55,11 @@ Language understanding requires world knowledge, common sense reasoning, cultura
 
 ### The Rule-Based Era (1950s-1980s)
 
-Computational linguistics began with a bold prediction. In 1954, IBM and Georgetown University demonstrated a system that automatically translated 60 Russian sentences into English using a 250-word vocabulary and six grammar rules. The demonstration was largely hand-picked to work, but newspapers declared that machine [translation](/translation) would be solved within five years.
+Computational linguistics began with a bold prediction. In 1954, IBM and Georgetown University demonstrated a system that automatically translated 60 Russian sentences into English using a 250-word vocabulary and six [grammar](/grammar) rules. The demonstration was largely hand-picked to work, but newspapers declared that machine [translation](/translation) would be solved within five years.
 
 It wasn't. Not even close.
 
-The 1966 ALPAC report — a U.S. government review of machine translation progress — concluded that the technology was too expensive, too slow, and too inaccurate to be useful. Funding dried up overnight. This "AI winter" for language processing lasted over a decade.
+The 1966 ALPAC report — a U.S. [government](/government) review of machine translation progress — concluded that the technology was too expensive, too slow, and too inaccurate to be useful. Funding dried up overnight. This "AI winter" for language processing lasted over a decade.
 
 During this period, Noam Chomsky's work on formal grammars heavily influenced computational linguistics. Chomsky proposed that human language could be described by formal rules — transformational grammars — that generate all and only the grammatically correct sentences of a language. Computational linguists spent decades trying to write complete rule sets for English and other languages.
 
@@ -67,7 +67,7 @@ The problem: natural language resists complete rule-based description. English h
 
 ### The Statistical Revolution (1990s-2010s)
 
-In the early 1990s, a dramatic shift occurred. Instead of writing rules manually, researchers began learning patterns from data. Frederick Jelinek at IBM, working on speech recognition, reportedly said: "Every time I fire a linguist, the performance of the speech recognizer goes up." (He later denied saying it, but the quote captures the era's spirit.)
+In the early 1990s, a dramatic shift occurred. Instead of [writing](/writing) rules manually, researchers began learning patterns from data. Frederick Jelinek at IBM, working on speech recognition, reportedly said: "Every time I fire a linguist, the performance of the speech recognizer goes up." (He later denied saying it, but the quote captures the era's spirit.)
 
 Statistical methods treated language processing as a probability problem. Given a sequence of words, what's the most likely next word? Given a sentence in French, what's the most probable English translation? Given a document, what topic is it most likely about?
 
@@ -109,7 +109,7 @@ Morphology studies word structure — how words are built from smaller meaningfu
 
 For English, morphological analysis is relatively straightforward. For languages like Turkish, Finnish, or Hungarian — where a single word can express what English requires an entire sentence for — morphological analysis is critical and challenging. The Turkish word "Avrupalilastiramadiklarimizdanmissiniz" means "You are said to be one of those that we could not Europeanize." That's one word.
 
-Morphological analysis matters for search engines (a search for "running" should find documents about "run" and "runs"), machine translation (morphologically rich languages require different approaches), and text-to-speech systems (correct pronunciation depends on morphological structure).
+Morphological analysis matters for search engines (a search for "[running](/running)" should find documents about "run" and "runs"), machine translation (morphologically rich languages require different approaches), and text-to-speech systems (correct pronunciation depends on morphological structure).
 
 ### Syntactic Parsing
 
@@ -121,7 +121,7 @@ Modern parsers achieve about 96% accuracy on standard English text — impressiv
 
 ### Semantic Analysis
 
-Semantics goes beyond grammatical structure to meaning. What does a sentence actually *mean*?
+[Semantics](/semantics) goes beyond grammatical structure to meaning. What does a sentence actually *mean*?
 
 Word sense disambiguation determines which meaning of a polysemous word is intended. "Bank" has over 10 distinct meanings in English. "He went to the bank" — financial institution or river edge? Context resolves this for humans. Statistical models do it reasonably well by examining surrounding words.
 
@@ -139,7 +139,7 @@ Translating text between languages remains one of computational linguistics' mos
 
 For common language pairs with abundant training data (English-French, English-Chinese), NMT produces remarkably fluent translations. For low-resource languages (most of the world's 7,000+ languages), quality drops dramatically because there isn't enough parallel text to train on.
 
-Translation quality varies by domain. Technical documentation translates well because the language is formulaic. Poetry, humor, and culturally embedded text remain extremely difficult because meaning depends on associations, sounds, and cultural knowledge that don't transfer across languages.
+Translation quality varies by domain. Technical documentation translates well because the language is formulaic. [Poetry](/poetry), humor, and culturally embedded text remain extremely difficult because meaning depends on associations, sounds, and cultural knowledge that don't transfer across languages.
 
 ### Speech Processing
 
@@ -155,7 +155,7 @@ Computational linguistics powers products you use daily, often without realizing
 
 **Search engines** use NLP to understand queries, match them with relevant documents, and generate featured snippets. When you type "how tall is the Eiffel Tower" and get "330 meters" at the top of the results, that's computational linguistics extracting the answer from web documents.
 
-**Virtual assistants** (Siri, Alexa, Google Assistant) combine speech recognition, natural language understanding, dialogue management, and text-to-speech. Understanding "Set a timer for 15 minutes" requires parsing the command, extracting the duration, and mapping to the correct action.
+**Virtual assistants** (Siri, Alexa, Google Assistant) combine speech recognition, natural language understanding, dialogue [management](/management), and text-to-speech. Understanding "Set a timer for 15 minutes" requires parsing the command, extracting the duration, and mapping to the correct action.
 
 **Email filtering** uses text classification to route spam, prioritize important messages, and suggest reply categories. Gmail's Smart Reply feature uses sequence-to-sequence models to generate short reply options.
 

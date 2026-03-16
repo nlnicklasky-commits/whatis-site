@@ -40,7 +40,7 @@ The word comes from the Greek *makros* (great) and *bios* (life). Hippocrates us
 
 Modern macrobiotics traces back to two Japanese thinkers who believed that diet was the foundation of physical health, mental clarity, and even world peace. That's a big claim for a bowl of brown rice, but they were serious about it.
 
-**George Ohsawa** (born Nyoichi Sakurazawa, 1893-1966) developed the philosophy in the early 20th century, [drawing](/drawing) on Japanese folk medicine, Chinese yin-yang theory, and his own experience recovering from tuberculosis through dietary changes. Ohsawa wrote prolifically, traveled extensively, and promoted macrobiotics in Europe and North America. His approach was sometimes extreme — his strictest dietary level consisted of nothing but brown rice and water, which caused serious health problems for some followers.
+**George Ohsawa** (born Nyoichi Sakurazawa, 1893-1966) developed the [philosophy](/philosophy) in the early 20th century, [drawing](/drawing) on Japanese folk medicine, Chinese yin-yang theory, and his own experience recovering from tuberculosis through dietary changes. Ohsawa wrote prolifically, traveled extensively, and promoted macrobiotics in Europe and North America. His approach was sometimes extreme — his strictest dietary level consisted of nothing but brown rice and water, which caused serious health problems for some followers.
 
 **Michio Kushi** (1926-2014) brought macrobiotics to the United States in the 1950s and became its most influential Western advocate. Based in Boston, Kushi moderated Ohsawa's more extreme positions, developed educational programs, and wrote dozens of books. He founded the East West Journal (later renamed Natural Health), the Kushi Institute, and Erewhon, one of America's first natural food stores. More than anyone else, Kushi shaped the version of macrobiotics that most people encounter today.
 
@@ -72,7 +72,7 @@ The standard macrobiotic diet follows a roughly consistent template, though indi
 
 **Whole grains (40-60% of each meal)** — Brown rice is the centerpiece, but barley, millet, oats, corn, rye, wheat berries, and buckwheat are also used. Grains are cooked simply — boiled, pressure-cooked, or occasionally baked. Refined grains and flour products are minimized.
 
-**Vegetables (20-30%)** — leafy greens (kale, collards, bok choy), round vegetables (cabbage, squash, onions), and root vegetables (carrots, burdock, daikon radish). Vegetables are typically cooked — steamed, sauteed, or pickled — rather than eaten raw. Nightshade vegetables (tomatoes, potatoes, peppers, eggplant) are generally avoided.
+**Vegetables (20-30%)** — leafy greens (kale, collards, bok choy), round vegetables (cabbage, [squash](/squash), onions), and root vegetables (carrots, burdock, daikon radish). Vegetables are typically cooked — steamed, sauteed, or pickled — rather than eaten raw. Nightshade vegetables (tomatoes, potatoes, peppers, eggplant) are generally avoided.
 
 **Beans and sea vegetables (5-10%)** — azuki beans, lentils, chickpeas, and black soybeans are staples. Sea vegetables — nori, wakame, kombu, hijiki — are used daily in small amounts. Soy products like tofu, tempeh, and miso are included regularly.
 
@@ -92,7 +92,7 @@ Macrobiotics isn't just about what you eat — it's about how you prepare and co
 
 **Chewing** — Ohsawa famously recommended chewing each bite 50-100 times. While that sounds extreme, the idea that thorough chewing aids digestion has some scientific support. Slower eating is also associated with reduced calorie intake and better satiety signaling.
 
-**Lifestyle practices** complement the diet: regular physical activity (walking is preferred over intense exercise), contact with nature, avoiding synthetic clothing and household chemicals, maintaining regular sleep patterns, and cultivating gratitude and positive relationships. These recommendations overlap considerably with what modern [wellness](/wellness) research supports.
+**Lifestyle practices** complement the diet: regular physical activity ([walking](/walking) is preferred over intense exercise), contact with nature, avoiding synthetic clothing and household chemicals, maintaining regular sleep patterns, and cultivating gratitude and positive relationships. These recommendations overlap considerably with what modern [wellness](/wellness) research supports.
 
 ## The Evidence: What Science Says
 

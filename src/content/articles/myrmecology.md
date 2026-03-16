@@ -37,9 +37,9 @@ faq:
 
 # What Is Myrmecology?
 
-Myrmecology is the branch of entomology (insect science) dedicated to the study of ants. That might sound extremely specific — an entire scientific discipline for one family of insects? — but ants are arguably the most successful animal group on the planet. They've colonized every continent except Antarctica. Their combined biomass outweighs all wild mammals and birds put together. They've been farming fungi for 60 million years (humans have been farming for about 12,000). And their colonies function as superorganisms — collective entities that exhibit problem-solving abilities no individual ant possesses.
+Myrmecology is the branch of [entomology](/entomology) (insect science) dedicated to the study of ants. That might sound extremely specific — an entire scientific discipline for one family of insects? — but ants are arguably the most successful animal group on the planet. They've colonized every continent except Antarctica. Their combined biomass outweighs all wild mammals and birds put together. They've been [farming](/farming) fungi for 60 million years (humans have been farming for about 12,000). And their colonies function as superorganisms — collective entities that exhibit problem-solving abilities no individual ant possesses.
 
-The word comes from the Greek *myrmex* (ant) and *logos* (study). Myrmecologists investigate ant taxonomy, [ecology](/ecology), [behavior](/animal-behavior), evolution, physiology, and increasingly, the applications of ant-inspired algorithms in robotics, [computer science](/computer-science), and logistics.
+The word comes from the Greek *myrmex* (ant) and *logos* (study). Myrmecologists investigate ant [taxonomy](/taxonomy), [ecology](/ecology), [behavior](/animal-behavior), evolution, [physiology](/physiology), and increasingly, the applications of ant-inspired algorithms in [robotics](/robotics), [computer science](/computer-science), and [logistics](/logistics).
 
 ## Why Ants Deserve Their Own Science
 
@@ -51,7 +51,7 @@ There are about 22,000 described ant species, with estimates suggesting 30,000 o
 
 **Social complexity.** Ant colonies exhibit division of labor, communication, [architecture](/architecture), agriculture, warfare, slavery, and cooperative problem-solving. They do all of this without a central leader — no ant tells the others what to do. The queen's only job is to lay eggs; she doesn't give orders. Colony-level intelligence emerges from simple individual rules, which is why computer scientists and roboticists find ants so fascinating.
 
-**Evolutionary success.** Ants evolved approximately 130-140 million years ago, during the Cretaceous period. They've survived the asteroid impact that killed the dinosaurs, multiple ice ages, and every environmental catastrophe in between. Whatever ants are doing, it works.
+**Evolutionary success.** Ants evolved approximately 130-140 million years ago, during the Cretaceous period. They've survived the asteroid impact that killed the [dinosaurs](/dinosaurs), multiple ice ages, and every environmental catastrophe in between. Whatever ants are doing, it works.
 
 ## Ant Anatomy — Built for Colony Life
 
@@ -65,7 +65,7 @@ Individual ants are remarkably specialized organisms. Their bodies are divided i
 
 ### The Social Stomach
 
-Ants have two stomachs — or more accurately, a crop (social stomach) and a true stomach. Food collected by foraging workers goes into the crop first. Back at the nest, workers regurgitate food from the crop to feed nestmates in a process called trophallaxis. This mouth-to-mouth feeding distributes nutrition throughout the colony and also transfers chemical signals, including the queen's pheromones that suppress reproductive development in workers.
+Ants have two stomachs — or more accurately, a crop (social stomach) and a true stomach. Food collected by [foraging](/foraging) workers goes into the crop first. Back at the nest, workers regurgitate food from the crop to feed nestmates in a process called trophallaxis. This mouth-to-mouth feeding distributes [nutrition](/nutrition) throughout the colony and also transfers chemical signals, including the queen's pheromones that suppress reproductive development in workers.
 
 The social stomach means that colony nutrition is communal property. An ant that finds food doesn't eat it alone — it brings it back and shares it through the colony's social network. This is one of the mechanisms that makes ant colonies function as unified entities rather than collections of individuals.
 
@@ -81,7 +81,7 @@ Most ant species have multiple castes — morphologically and behaviorally disti
 
 **Queens** are reproductive females. In most species, there's one queen per colony (monogyny), though some species have multiple queens (polygyny). The queen's primary function is egg production — a mature leaf-cutter ant queen can lay 30,000 eggs per day.
 
-**Workers** are non-reproductive females. They perform all the colony's labor: foraging, nest construction and maintenance, brood care, defense, and [waste management](/waste-management). In many species, workers shift tasks as they age — younger workers tend brood deep in the nest, while older workers take on riskier tasks like foraging and defense. This age-based polyethism makes intuitive sense: expendable older workers take the dangerous outside jobs.
+**Workers** are non-reproductive females. They perform all the colony's labor: foraging, nest [construction](/construction) and maintenance, brood care, defense, and [waste management](/waste-management). In many species, workers shift tasks as they age — younger workers tend brood deep in the nest, while older workers take on riskier tasks like foraging and defense. This age-based polyethism makes intuitive sense: expendable older workers take the dangerous outside jobs.
 
 **Soldiers** (in species that have them) are workers with enlarged heads and mandibles, specialized for colony defense. In some species, soldiers use their oversized heads to physically block nest entrances.
 
@@ -91,15 +91,15 @@ Most ant species have multiple castes — morphologically and behaviorally disti
 
 No ant gives orders. Colony decisions emerge from local interactions following simple rules — a process studied extensively in both myrmecology and [computer science](/algorithms).
 
-**Ant foraging** is the classic example. When a scout finds food, she returns to the nest laying a pheromone trail. Other ants that encounter this trail follow it to the food source, reinforcing the trail with their own pheromone on the return trip. The more ants use a trail, the stronger it becomes, attracting more ants. Trails to closer or richer food sources get reinforced faster (because round trips are quicker), so the colony automatically optimizes foraging efficiency without any ant understanding the optimization.
+**Ant foraging** is the classic example. When a scout finds food, she returns to the nest laying a pheromone trail. Other ants that encounter this trail follow it to the food source, reinforcing the trail with their own pheromone on the return trip. The more ants use a trail, the stronger it becomes, attracting more ants. Trails to closer or richer food sources get reinforced faster (because round trips are quicker), so the colony automatically optimizes foraging efficiency without any ant understanding the [optimization](/optimization).
 
-This mechanism inspired the Ant Colony Optimization (ACO) algorithm in computer science, developed by Marco Dorigo in 1992. ACO algorithms solve complex optimization problems — routing, scheduling, network design — by simulating the pheromone-based path-finding behavior of ant colonies. It's a genuine case of [biology](/biology) inspiring technology.
+This mechanism inspired the Ant Colony Optimization (ACO) algorithm in computer science, developed by Marco Dorigo in 1992. ACO algorithms solve complex optimization problems — routing, [scheduling](/scheduling), network design — by simulating the pheromone-based path-finding behavior of ant colonies. It's a genuine case of [biology](/biology) inspiring technology.
 
-**Nest site selection** in emigrating colonies involves scouts evaluating potential sites, recruiting other scouts through tandem running (one ant leading another to a candidate site), and reaching a quorum threshold before the colony commits to moving. This decentralized consensus mechanism is remarkably strong — colonies consistently choose the best available site even when individual scouts have only partial information.
+**Nest site selection** in emigrating colonies involves scouts evaluating potential sites, recruiting other scouts through tandem [running](/running) (one ant leading another to a candidate site), and reaching a quorum threshold before the colony commits to moving. This decentralized consensus mechanism is remarkably strong — colonies consistently choose the best available site even when individual scouts have only partial information.
 
 ## Ant Agriculture — 60 Million Years Before Humans
 
-Leafcutter ants (tribe Attini) are farmers. They cut fragments of leaves and carry them — sometimes over distances equivalent to a human walking 12 miles carrying 600 pounds — back to underground fungus gardens. They don't eat the leaves. They chew them into mulch, apply fecal droplets containing enzymes, and use this substrate to develop a specific fungus (*Leucoagaricus gongylophorus*) that produces nutrient-rich structures called gongylidia, which the ants eat.
+Leafcutter ants (tribe Attini) are farmers. They cut fragments of leaves and carry them — sometimes over distances equivalent to a human [walking](/walking) 12 miles carrying 600 pounds — back to underground fungus gardens. They don't eat the leaves. They chew them into mulch, apply fecal droplets containing enzymes, and use this substrate to develop a specific fungus (*Leucoagaricus gongylophorus*) that produces nutrient-rich structures called gongylidia, which the ants eat.
 
 This is true agriculture. The ants plant their crop (fungus), fertilize it, weed it (removing competing mold species), protect it from disease (using antibiotic-producing bacteria they carry on their bodies), and harvest it. The relationship is obligate mutualism — neither the ants nor the fungus can survive without the other.
 
@@ -127,7 +127,7 @@ Ants communicate primarily through chemicals. They produce and detect pheromones
 
 **Queen pheromones** suppress reproductive development in workers and regulate colony behavior. If the queen dies and her pheromones fade, workers in some species can begin developing ovaries and laying eggs.
 
-Beyond chemicals, ants also communicate through touch, vibrations (stridulation — rubbing body parts together to produce sound), and body posture. But chemistry dominates. An ant colony is, in many ways, a chemical society.
+Beyond chemicals, ants also communicate through touch, vibrations (stridulation — rubbing body parts together to produce sound), and body posture. But [chemistry](/chemistry) dominates. An ant colony is, in many ways, a chemical society.
 
 ## Famous Myrmecologists
 
@@ -147,7 +147,7 @@ Ant research feeds into surprising fields.
 
 **Robotics and swarm intelligence.** Engineers designing robot swarms — groups of simple robots that cooperate without central coordination — draw directly from myrmecological research. If you can understand how ants collectively solve complex problems with minimal individual intelligence, you can program robots to do the same.
 
-**Epidemiology.** Ant colonies face disease transmission challenges similar to human societies. Studying how ants manage infection — through social distancing (infected workers voluntarily isolate), hygienic behavior, and antimicrobial secretions — provides insights into disease ecology.
+**[Epidemiology](/epidemiology).** Ant colonies face disease transmission challenges similar to human societies. Studying how ants manage infection — through social distancing (infected workers voluntarily isolate), hygienic behavior, and antimicrobial secretions — provides insights into disease ecology.
 
 **Network design.** The way ant colonies build tunnel networks — with efficient branching, ventilation, and drainage — inspires research on network optimization and even [urban planning](/urban-planning).
 

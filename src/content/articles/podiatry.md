@@ -33,7 +33,7 @@ faq:
 
 # What Is Podiatry?
 
-Podiatry is the branch of medicine devoted to the diagnosis, treatment, and prevention of conditions affecting the foot, ankle, and related structures of the lower leg. Podiatrists are the specialists who handle everything from ingrown toenails to complex reconstructive surgery — and given that the average person walks roughly 100,000 miles in a lifetime, their work is more important than most people appreciate.
+Podiatry is the branch of medicine devoted to the diagnosis, treatment, and prevention of conditions affecting the foot, ankle, and related structures of the lower leg. Podiatrists are the specialists who handle everything from ingrown toenails to complex reconstructive [surgery](/surgery) — and given that the average person walks roughly 100,000 miles in a lifetime, their work is more important than most people appreciate.
 
 Each of your feet contains 26 bones, 33 joints, and more than 100 muscles, tendons, and ligaments. That's a quarter of all the bones in your entire body packed into two relatively small structures. When something goes wrong down there, it affects everything up the chain — your knees, hips, back, and overall mobility.
 
@@ -75,13 +75,13 @@ Common podiatric surgeries include:
 
 ### Plantar Fasciitis
 
-The most common cause of heel pain. The plantar fascia is a thick band of tissue running along the bottom of your foot from heel to toes. When it becomes inflamed — usually from overuse, poor footwear, or biomechanical issues — the result is stabbing pain, typically worst with the first steps in the morning.
+The most common cause of heel pain. The plantar fascia is a thick band of tissue [running](/running) along the bottom of your foot from heel to toes. When it becomes inflamed — usually from overuse, poor footwear, or biomechanical issues — the result is stabbing pain, typically worst with the first steps in the morning.
 
 About 2 million Americans seek treatment for plantar fasciitis each year. The good news: 90% of cases resolve within 10 months with conservative treatment — stretching, orthotics, night splints, and sometimes corticosteroid injections.
 
 ### Bunions
 
-A bunion isn't just a bump. It's a structural deformity where the big toe angles toward the second toe, causing the joint at the base of the big toe to protrude. Genetics are the primary risk factor — if your parents had bunions, you're significantly more likely to develop them. Tight, narrow shoes don't cause bunions, but they can accelerate their progression and worsen symptoms.
+A bunion isn't just a bump. It's a structural deformity where the big toe angles toward the second toe, causing the joint at the base of the big toe to protrude. [Genetics](/genetics) are the primary risk factor — if your parents had bunions, you're significantly more likely to develop them. Tight, narrow shoes don't cause bunions, but they can accelerate their progression and worsen symptoms.
 
 ### Diabetic Foot Complications
 
@@ -103,11 +103,11 @@ The path to becoming a podiatrist is long and rigorous.
 
 ### Undergraduate Education
 
-Four years of college, typically with a heavy science emphasis — biology, [chemistry](/chemistry), physics, and [organic chemistry](/organic-chemistry). Most podiatric medical schools require the MCAT for admission, the same standardized test required by MD and DO programs.
+Four years of college, typically with a heavy science emphasis — [biology](/biology), [chemistry](/chemistry), [physics](/physics), and [organic chemistry](/organic-chemistry). Most podiatric medical schools require the MCAT for admission, the same standardized test required by MD and DO programs.
 
 ### Podiatric Medical School
 
-Four years at one of nine accredited colleges of podiatric medicine in the United States. The first two years mirror the medical school curriculum: [anatomy](/anatomy), [physiology](/physiology), [biochemistry](/biochemistry), [pharmacology](/pharmacology), and pathology. The final two years focus on clinical rotations with an emphasis on lower extremity medicine and surgery.
+Four years at one of nine accredited colleges of podiatric medicine in the United States. The first two years mirror the medical school curriculum: [anatomy](/anatomy), [physiology](/physiology), [biochemistry](/biochemistry), [pharmacology](/pharmacology), and [pathology](/pathology). The final two years focus on clinical rotations with an emphasis on lower extremity medicine and surgery.
 
 ### Residency
 
@@ -121,7 +121,7 @@ After residency, podiatrists can pursue board certification through the American
 
 One thing that makes podiatry unique is its deep focus on biomechanics — the study of how your body moves. Your feet are the foundation of your kinetic chain. When they don't function properly, the effects ripple upward.
 
-Overpronation (excessive inward rolling of the foot during walking) can cause not just foot pain but also shin splints, knee pain, and hip problems. A high-arched, rigid foot that doesn't absorb shock well can contribute to stress fractures and back pain.
+Overpronation (excessive inward rolling of the foot during [walking](/walking)) can cause not just foot pain but also shin splints, knee pain, and hip problems. A high-arched, rigid foot that doesn't absorb shock well can contribute to stress fractures and back pain.
 
 Podiatrists perform detailed gait analyses — sometimes using pressure-mapping technology and motion capture — to identify biomechanical abnormalities. Corrections might involve orthotics, shoe recommendations, strengthening exercises, or in severe cases, surgical realignment.
 

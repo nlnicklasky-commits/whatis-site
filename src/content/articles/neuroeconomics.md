@@ -35,11 +35,11 @@ faq:
 
 # What Is Neuroeconomics?
 
-Neuroeconomics is an interdisciplinary field that combines neuroscience, economics, and psychology to understand how people make decisions. It uses brain imaging, computational models, and behavioral experiments to study the neural mechanisms behind economic choices — everything from what to eat for lunch to whether to invest in stocks.
+Neuroeconomics is an interdisciplinary field that combines neuroscience, [economics](/economics), and [psychology](/psychology) to understand how people make decisions. It uses brain imaging, computational models, and behavioral experiments to study the neural mechanisms behind economic choices — everything from what to eat for lunch to whether to invest in stocks.
 
 ## The Question That Started It All
 
-Classical economics rests on a powerful assumption: people are rational. Given clear options and accurate information, humans will consistently choose whatever maximizes their benefit. This "rational agent" model is mathematically elegant and has driven economic theory for over a century.
+Classical economics rests on a powerful assumption: people are rational. Given clear options and accurate information, humans will consistently choose whatever maximizes their benefit. This "rational agent" model is mathematically elegant and has driven [economic theory](/economic-theory) for over a century.
 
 There's just one problem. It's wrong.
 
@@ -169,7 +169,7 @@ The field itself has been criticized for sometimes overclaiming. Showing that a 
 
 ## Where the Field Is Heading
 
-**Computational psychiatry** uses neuroeconomic models to understand mental illness as disruptions in decision-making algorithms. Depression might be modeled as an underestimation of future rewards. Anxiety as an overestimation of risk. ADHD as excessively steep temporal discounting.
+**Computational [psychiatry](/psychiatry)** uses neuroeconomic models to understand mental illness as disruptions in decision-making algorithms. Depression might be modeled as an underestimation of future rewards. Anxiety as an overestimation of risk. ADHD as excessively steep temporal discounting.
 
 **[Artificial intelligence](/artificial-intelligence) and neuroeconomics** increasingly inform each other. AI systems that learn from reward signals (reinforcement learning) were inspired by dopamine neurons, and neuroscientists now use AI models as hypotheses about brain function. Studying how [algorithms](/algorithms) make decisions illuminates how brains do, and vice versa.
 
@@ -181,4 +181,4 @@ Neuroeconomics reveals that economic decision-making is driven not by a single r
 
 These findings don't just explain why people make "irrational" decisions. They suggest that what economists call "irrational" is actually the product of biological systems that evolved for survival in ancestral environments — systems that work reasonably well most of the time but can be exploited, overwhelmed, or mismatched with modern economic complexities.
 
-Understanding the brain's decision machinery doesn't just satisfy intellectual curiosity. It has real implications for policy design, clinical treatment, financial regulation, and how we think about personal responsibility.
+Understanding the brain's decision machinery doesn't just satisfy intellectual curiosity. It has real implications for policy design, clinical treatment, [financial regulation](/financial-regulation), and how we think about personal responsibility.

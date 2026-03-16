@@ -31,7 +31,7 @@ faq:
 
 # What Is Vocal Coaching?
 
-Vocal coaching is professional training that helps singers and speakers develop their voice, improve technique, and perform more effectively. A vocal coach works with clients on everything from basic breath control and pitch accuracy to advanced performance skills, repertoire selection, and stage presence. Whether you're preparing for an audition, recovering from vocal strain, or just want to sing better in the shower, vocal coaching addresses specific vocal goals through structured practice.
+Vocal [coaching](/coaching) is professional training that helps singers and speakers develop their voice, improve technique, and perform more effectively. A vocal coach works with clients on everything from basic breath control and pitch accuracy to advanced performance skills, repertoire selection, and stage presence. Whether you're preparing for an audition, recovering from vocal strain, or just want to sing better in the shower, vocal coaching addresses specific vocal goals through structured practice.
 
 ## What Happens in a Session
 

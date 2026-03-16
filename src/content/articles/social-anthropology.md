@@ -57,7 +57,7 @@ Bronislaw Malinowski established the fieldwork model in the 1910s-1920s with his
 
 The discipline has changed enormously since its colonial-era origins. Early anthropologists studied "exotic" non-Western societies, often with patronizing assumptions about "primitive" cultures. Modern anthropology has reckoned with this legacy — critically examining its own historical complicity with colonialism and working to decolonize its methods and perspectives.
 
-Contemporary anthropologists study everything from Silicon Valley tech culture to climate change adaptation in Pacific Island communities. Corporate ethnography has become a significant field — companies like Intel, Microsoft, and Google employ anthropologists to understand how people actually use technology (as opposed to how engineers think they should use it).
+Contemporary anthropologists study everything from Silicon Valley tech culture to [climate change](/climate-change) adaptation in Pacific Island communities. Corporate ethnography has become a significant field — companies like Intel, Microsoft, and Google employ anthropologists to understand how people actually use technology (as opposed to how engineers think they should use it).
 
 [Medical anthropology](/medical-anthropology) examines how different cultures understand health, illness, and healing — crucial knowledge for [public health](/public-health) programs that fail when they ignore local beliefs and practices. Development anthropology studies why aid programs succeed or fail based on [cultural](/cultural-anthropology) context. Digital anthropology examines online communities and virtual worlds.
 

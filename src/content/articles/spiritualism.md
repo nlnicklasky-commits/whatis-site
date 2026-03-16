@@ -37,13 +37,13 @@ faq:
 
 # What Is Spiritualism?
 
-Spiritualism is the belief system — and in some forms, organized religion — centered on the claim that the spirits of the dead continue to exist and can communicate with the living, typically through individuals called mediums. Originating in the United States in the late 1840s, Spiritualism grew into a mass movement that at its peak attracted millions of followers in North America and Europe.
+Spiritualism is the belief system — and in some forms, organized [religion](/religion) — centered on the claim that the spirits of the dead continue to exist and can communicate with the living, typically through individuals called mediums. Originating in the United States in the late 1840s, Spiritualism grew into a mass movement that at its peak attracted millions of followers in North America and Europe.
 
 Whether you view it as genuine contact with an afterlife or as a case study in human [psychology](/psychology) and wishful thinking, Spiritualism's influence on religion, science, culture, and the study of consciousness has been enormous.
 
 ## The Hydesville Rappings: Where It Started
 
-On March 31, 1848, in a small wooden house in Hydesville, New York, two young sisters — Kate Fox (age 11) and Margaret Fox (age 14) — claimed to hear mysterious rapping sounds. They developed a system of communication with whatever was making the noise: one rap for yes, two for no. Through this method, the entity reportedly identified itself as the spirit of a peddler named Charles Rosna, who claimed to have been murdered and buried in the cellar.
+On March 31, 1848, in a small wooden house in Hydesville, New York, two young sisters — Kate Fox (age 11) and Margaret Fox (age 14) — claimed to hear mysterious [rapping](/rapping) sounds. They developed a system of communication with whatever was making the noise: one rap for yes, two for no. Through this method, the entity reportedly identified itself as the spirit of a peddler named Charles Rosna, who claimed to have been murdered and buried in the cellar.
 
 The story exploded. Neighbors came to witness the rappings. The local press picked it up. Within weeks, the Fox sisters were famous. Within months, they were performing demonstrations for paying audiences in Rochester and New York City. Within a few years, hundreds of other mediums had emerged across America, claiming their own abilities to contact the dead.
 
@@ -65,11 +65,11 @@ Spiritualism offered something more concrete: the claim that you could actually 
 
 The 1840s-1890s were also a period of astonishing scientific discovery. The telegraph (1844) proved that invisible signals could travel through wires. [Electricity](/electronics) and [magnetism](/magnetism) were being unified. The idea that invisible forces could transmit information was no longer supernatural — it was front-page news.
 
-Spiritualists explicitly drew parallels between telegraphy and mediumship. If [electricity](/electricity) could carry messages along wires, why couldn't some analogous force carry messages from the spirit world? The analogy was wrong, but it was persuasive in an era when the boundaries of physics seemed to be expanding weekly.
+Spiritualists explicitly drew parallels between telegraphy and mediumship. If [electricity](/electricity) could carry messages along wires, why couldn't some analogous force carry messages from the spirit world? The analogy was wrong, but it was persuasive in an era when the boundaries of [physics](/physics) seemed to be expanding weekly.
 
 ### The Religious Context
 
-Traditional Protestantism in America was fracturing. Calvinist theology — with its emphasis on predestination and the inscrutability of God's will — offered cold comfort to the bereaved. Spiritualism bypassed theology entirely. It didn't require faith in doctrines; it claimed to provide *evidence*. You could sit in a seance and hear from your dead mother yourself. No priest needed.
+Traditional Protestantism in America was fracturing. Calvinist [theology](/theology) — with its emphasis on predestination and the inscrutability of God's will — offered cold comfort to the bereaved. Spiritualism bypassed theology entirely. It didn't require faith in doctrines; it claimed to provide *evidence*. You could sit in a seance and hear from your dead mother yourself. No priest needed.
 
 This empirical approach to the afterlife appealed especially to people who were uncomfortable with both orthodox religion (too dogmatic) and pure materialism (too bleak). Spiritualism offered a third path: an afterlife you could investigate scientifically.
 
@@ -85,7 +85,7 @@ Early Spiritualism emphasized physical phenomena — effects that any observer c
 
 **Rapping** — knocking sounds, like the Fox sisters' original phenomena, used to spell out messages.
 
-**Spirit writing** — messages appearing on sealed slates or being written through the medium's hand (automatic writing).
+**Spirit [writing](/writing)** — messages appearing on sealed slates or being written through the medium's hand (automatic writing).
 
 **Materializations** — the supposed appearance of spirit forms, often emerging from a gauzy substance called "ectoplasm" that allegedly exuded from the medium's body.
 
@@ -113,7 +113,7 @@ Founded in London in 1882, the Society for Psychical Research (SPR) was the firs
 
 The SPR investigated dozens of mediums over decades. Their findings were mixed — some mediums were clearly fraudulent, while others produced information that investigators couldn't easily explain. The most studied case was Leonora Piper, a Boston medium investigated by William James (the Harvard psychologist and philosopher) and Richard Hodgson of the SPR. Over years of testing, Piper produced specific information about deceased persons that her investigators could not explain through normal means. James wrote that while he couldn't prove the spirit hypothesis, Piper's case made it impossible for him to dismiss it entirely.
 
-Skeptics countered that even careful investigators could be deceived, and that the emotional investment of bereaved sitters made them unreliable judges of evidence. The debate continues, essentially unchanged, to the present day.
+Skeptics countered that even careful investigators could be deceived, and that the emotional investment of bereaved sitters made them unreliable judges of evidence. The [debate](/debate) continues, essentially unchanged, to the present day.
 
 ### William Crookes and the Problem of Eminent Witnesses
 
@@ -142,7 +142,7 @@ One of the most surprising aspects of Spiritualism was its strong connection to 
 
 From its earliest days, Spiritualism was unusually egalitarian about gender. Mediumship was predominantly a female role, which gave women public platforms, audiences, and income at a time when they had few other avenues for public life. Many prominent suffragists — including Victoria Woodhull (the first woman to run for US president, in 1872), Elizabeth Cady Stanton, and Sojourner Truth — were involved with Spiritualism.
 
-The logic was straightforward: if spirits communicated through women, then women clearly had abilities and spiritual authority that patriarchal religion denied them. Spiritualist churches ordained women as ministers decades before mainstream denominations.
+The [logic](/logic) was straightforward: if spirits communicated through women, then women clearly had abilities and spiritual authority that patriarchal religion denied them. Spiritualist churches ordained women as ministers decades before mainstream denominations.
 
 ### Abolition
 

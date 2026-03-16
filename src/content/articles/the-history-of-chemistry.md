@@ -35,7 +35,7 @@ faq:
 
 # What Is The History of Chemistry?
 
-The history of chemistry is the story of how humans went from mystified observers of fire, rust, and [fermentation](/fermentation) to people who can manipulate individual atoms. It spans roughly 4,000 years, and frankly, it's wilder than most people expect — full of explosions, fraud, accidental genius, and at least one beheading.
+The history of [chemistry](/chemistry) is the story of how humans went from mystified observers of fire, rust, and [fermentation](/fermentation) to people who can manipulate individual atoms. It spans roughly 4,000 years, and frankly, it's wilder than most people expect — full of explosions, fraud, accidental genius, and at least one beheading.
 
 ## Fire, Dyes, and Ancient Tinkering
 
@@ -43,7 +43,7 @@ Chemistry didn't start in a laboratory. It started in kitchens, forges, and dye 
 
 Ancient Egyptians were practicing metallurgy by 3000 BCE, extracting copper, gold, and eventually iron from ores. They developed embalming techniques that preserved bodies for millennia. They made glass, brewed beer, and created pigments — all chemistry, even if they didn't call it that.
 
-The Mesopotamians had recipes for perfumes, medicines, and alloys inscribed on clay tablets. Chinese alchemists were experimenting with mercury and sulfur compounds by the 4th century BCE. Indian metallurgists produced a rust-resistant iron pillar around 400 CE that still stands in Delhi today — and modern scientists still debate exactly how they managed it.
+The Mesopotamians had recipes for perfumes, medicines, and alloys inscribed on clay tablets. Chinese alchemists were experimenting with mercury and sulfur compounds by the 4th century BCE. Indian metallurgists produced a rust-resistant iron pillar around 400 CE that still stands in Delhi today — and modern scientists still [debate](/debate) exactly how they managed it.
 
 The Greeks, as usual, wanted to explain everything with theory. Empedocles proposed that all matter consisted of four elements: earth, water, air, and fire. Aristotle added a fifth — aether — for the heavenly bodies. Democritus went further and suggested that matter was made of tiny, indivisible particles he called *atomos*.
 
@@ -51,7 +51,7 @@ Democritus was remarkably close to being right. But his ideas lost out to Aristo
 
 ## The Alchemists: Brilliant, Obsessed, and Mostly Wrong
 
-Alchemy is chemistry's strange, mystical ancestor. It flourished from roughly the 3rd century CE through the 17th century across the Islamic world, Europe, China, and India.
+[Alchemy](/alchemy) is chemistry's strange, mystical ancestor. It flourished from roughly the 3rd century CE through the 17th century across the Islamic world, Europe, China, and India.
 
 The goals of Western alchemy were ambitious, to put it mildly:
 
@@ -64,7 +64,7 @@ None of these goals were achieved. Obviously. But the pursuit generated an enorm
 
 Islamic alchemists between the 8th and 13th centuries made particularly significant contributions. Jabir ibn Hayyan (known in Europe as Geber) developed techniques for [distillation](/distillation), crystallization, and filtration that are still used today. Al-Razi (Rhazes) classified substances into categories — spirits, metals, stones, salts, and others — creating an early organizational framework. They discovered hydrochloric acid, nitric acid, and aqua regia (the mixture that dissolves gold).
 
-In Europe, alchemy attracted some of the finest minds of the medieval and Renaissance periods. Roger Bacon, Albertus Magnus, and even Isaac Newton — who spent more time on alchemy than on physics — all practiced it. Newton's alchemical manuscripts, kept secret during his lifetime, run to over a million words.
+In Europe, alchemy attracted some of the finest minds of the medieval and Renaissance periods. Roger Bacon, Albertus Magnus, and even Isaac Newton — who spent more time on alchemy than on [physics](/physics) — all practiced it. Newton's alchemical manuscripts, kept secret during his lifetime, run to over a million words.
 
 The weird part is that alchemy's failure was productive. By trying to turn lead into gold and failing thousands of times, alchemists accidentally discovered phosphorus (1669), porcelain manufacturing, mineral acids, and dozens of chemical processes. Hennig Brand discovered phosphorus while boiling enormous quantities of urine — approximately 5,500 liters — looking for the philosopher's stone. He didn't find gold. He found a glowing, flammable element. Science is strange.
 
@@ -72,7 +72,7 @@ The weird part is that alchemy's failure was productive. By trying to turn lead 
 
 The 17th century brought a fundamental shift. Natural philosophers began insisting that knowledge should come from systematic observation and experiment, not ancient authority or mystical tradition.
 
-Robert Boyle published *The Sceptical Chymist* in 1661, which attacked both Aristotle's four elements and the alchemists' three principles (mercury, sulfur, and salt). Boyle argued that elements should be defined experimentally — as substances that cannot be broken down into simpler ones — rather than assumed from philosophy. He also formulated Boyle's Law, relating the pressure and volume of gases.
+Robert Boyle published *The Sceptical Chymist* in 1661, which attacked both Aristotle's four elements and the alchemists' three principles (mercury, sulfur, and salt). Boyle argued that elements should be defined experimentally — as substances that cannot be broken down into simpler ones — rather than assumed from [philosophy](/philosophy). He also formulated Boyle's Law, relating the pressure and volume of gases.
 
 But the biggest obstacle to real chemistry was an idea called **phlogiston theory**. Proposed by Georg Ernst Stahl around 1703, it held that flammable materials contained an invisible substance called "phlogiston" that was released during combustion. When wood burns, phlogiston escapes. When metal rusts (a slow combustion), phlogiston leaves the metal.
 
@@ -127,9 +127,9 @@ The 20th century brought discoveries that would have seemed like alchemy to earl
 
 ## Where Chemistry Stands Now
 
-Modern chemistry operates at scales and speeds that earlier practitioners couldn't have imagined. Computational chemistry models molecular behavior on supercomputers. Green chemistry seeks to reduce hazardous waste and design safer processes. [Nanotechnology](/nanotechnology) manipulates matter at the atomic level. CRISPR gene editing allows precise modification of DNA sequences.
+Modern chemistry operates at scales and speeds that earlier practitioners couldn't have imagined. Computational chemistry models molecular behavior on supercomputers. Green chemistry seeks to reduce hazardous waste and design safer processes. [Nanotechnology](/nanotechnology) manipulates matter at the atomic level. CRISPR gene [editing](/editing) allows precise modification of DNA sequences.
 
-The discipline has also become deeply interconnected with other fields — [materials science](/materials-science), pharmacology, [environmental science](/environmental-science), [food science](/food-science). The boundaries between chemistry and its neighboring sciences have blurred almost to the point of disappearing.
+The discipline has also become deeply interconnected with other fields — [materials science](/materials-science), [pharmacology](/pharmacology), [environmental science](/environmental-science), [food science](/food-science). The boundaries between chemistry and its neighboring sciences have blurred almost to the point of disappearing.
 
 But the core question hasn't changed much since those ancient Egyptians heated copper ore and watched metal appear. What is stuff made of? How does it change? And what can we make it do?
 

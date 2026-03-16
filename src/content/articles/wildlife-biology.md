@@ -35,7 +35,7 @@ faq:
 
 # What Is Wildlife Biology?
 
-Wildlife biology is the scientific study of wild animals and the ecosystems they inhabit, with a focus on understanding species behavior, population dynamics, habitat requirements, and the interactions between organisms and their environments. It is an applied science, meaning it uses research findings to inform management decisions about wildlife populations and their conservation.
+Wildlife biology is the scientific study of wild animals and the ecosystems they inhabit, with a focus on understanding species behavior, population dynamics, habitat requirements, and the interactions between organisms and their environments. It is an applied science, meaning it uses research findings to inform [management](/management) decisions about wildlife populations and their conservation.
 
 ## What Wildlife Biologists Actually Do
 
@@ -43,7 +43,7 @@ If you picture a wildlife biologist, you might imagine someone in khakis trackin
 
 In the field, wildlife biologists conduct population surveys, capture and tag animals, collect biological samples, set up camera traps, and monitor habitat conditions. They might spend weeks in remote areas counting bird nests, tracking radio-collared elk, or electrofishing streams to assess fish populations.
 
-Back at the desk, they analyze data using statistical software, write management plans, prepare environmental impact assessments, and publish research papers. Many wildlife biologists work directly with landowners, hunting groups, conservation organizations, and government agencies to translate scientific findings into practical management actions.
+Back at the desk, they analyze data using statistical software, write management plans, prepare environmental impact assessments, and publish research papers. Many wildlife biologists work directly with landowners, hunting groups, conservation organizations, and [government](/government) agencies to translate scientific findings into practical management actions.
 
 The seasonal rhythm of the work can be intense. Spring and summer are prime field seasons for most species -- nesting surveys, population counts, vegetation assessments. Fall often involves harvest management (setting hunting seasons and bag limits). Winter might mean aerial surveys of big game, analyzing the previous season's data, or writing grant proposals.
 
@@ -71,7 +71,7 @@ Wildlife corridor design has become a major focus area. By identifying and prote
 
 Why do animals do what they do? [Animal behavior](/animal-behavior) studies in the wild provide answers that laboratory research can't replicate.
 
-Wildlife biologists study mating systems (monogamy, polygyny, lek mating), parental investment, territoriality, foraging strategies, migration patterns, and social structures. These behaviors have direct management implications. Knowing that a species is territorial tells you how much space each individual needs. Understanding mating systems reveals how many males are reproductively active, which matters for harvest management.
+Wildlife biologists study mating systems (monogamy, polygyny, lek mating), parental investment, territoriality, [foraging](/foraging) strategies, migration patterns, and social structures. These behaviors have direct management implications. Knowing that a species is territorial tells you how much space each individual needs. Understanding mating systems reveals how many males are reproductively active, which matters for harvest management.
 
 Migration research has been transformed by GPS tracking technology. We now know that bar-tailed godwits fly non-stop for over 7,000 miles from Alaska to New Zealand -- the longest non-stop flight of any bird. Arctic terns migrate roughly 44,000 miles annually, essentially chasing summer between the poles. These findings have reshaped how we think about protecting species that depend on habitats across multiple continents.
 
@@ -91,7 +91,7 @@ Migration research has been transformed by GPS tracking technology. We now know 
 
 ### Statistical Analysis
 
-Modern wildlife biology is heavily quantitative. Population models, survival analysis, occupancy modeling, spatial statistics, and Bayesian inference are standard tools. Software like Program MARK, R, and specialized GIS platforms handle the [data analysis](/data-analysis).
+Modern wildlife biology is heavily quantitative. Population models, survival analysis, occupancy modeling, spatial [statistics](/statistics), and Bayesian inference are standard tools. Software like Program MARK, R, and specialized GIS platforms handle the [data analysis](/data-analysis).
 
 A key challenge is that wildlife data is inherently messy. Animals are hard to count. You can never find them all, and the probability of detection varies with species, habitat, weather, and observer skill. Occupancy modeling, developed by Darryl MacKenzie and colleagues in 2002, specifically accounts for imperfect detection -- a breakthrough that improved population estimates across the field.
 
@@ -125,13 +125,13 @@ Managing invasive species is one of the most challenging problems in wildlife bi
 
 As human populations expand into wildlife habitat, conflicts increase. Elephants raiding crops in Africa and Asia, wolves preying on livestock in the American West, deer causing vehicle collisions, bears getting into garbage -- these conflicts create real economic costs and can turn public opinion against conservation.
 
-Wildlife biologists work to develop coexistence strategies: wildlife-proof fencing, compensation programs for livestock losses, bear-resistant garbage containers, wildlife crossing structures over highways, and community-based conservation programs that give local people economic incentives to protect wildlife rather than kill it.
+Wildlife biologists work to develop coexistence strategies: wildlife-proof [fencing](/fencing), compensation programs for livestock losses, bear-resistant garbage containers, wildlife crossing structures over highways, and community-based conservation programs that give local people economic incentives to protect wildlife rather than kill it.
 
 The successful recovery of gray wolves in the Greater Yellowstone Ecosystem illustrates both the promise and difficulty of coexistence. Wolf reintroduction in 1995 restored ecological balance (wolves reduced elk overgrazing, which allowed streamside vegetation to recover, which stabilized riverbanks and benefited beaver, fish, and songbird populations -- a famous trophic cascade). But livestock predation created conflicts with ranchers that remain politically contentious decades later.
 
 ## Wildlife Management in Practice
 
-Wildlife management applies biological knowledge to maintain wildlife populations at levels compatible with human interests and ecological health. It's inherently political, balancing scientific recommendations with economic, cultural, and ethical considerations.
+[Wildlife management](/wildlife-management) applies biological knowledge to maintain wildlife populations at levels compatible with human interests and ecological health. It's inherently political, balancing scientific recommendations with economic, cultural, and ethical considerations.
 
 ### Harvest Management
 
@@ -153,9 +153,9 @@ But the ESA is also controversial. Listing a species can restrict land use, crea
 
 If working with wildlife appeals to you, here's what the career path looks like.
 
-**Education**: A bachelor's degree in wildlife biology, [ecology](/ecology), [zoology](/biology), or a related field is the entry point. Key coursework includes ecology, statistics, botany, vertebrate zoology, wildlife management, and GIS. A master's degree opens doors to research positions and agency management roles. A Ph.D. is necessary for university faculty positions and senior research roles.
+**[Education](/education)**: A bachelor's degree in wildlife biology, [ecology](/ecology), [zoology](/biology), or a related field is the entry point. Key coursework includes ecology, statistics, botany, vertebrate zoology, wildlife management, and GIS. A master's degree opens doors to research positions and agency management roles. A Ph.D. is necessary for university faculty positions and senior research roles.
 
-**Field experience matters enormously**. Hiring managers look for candidates who have worked field jobs -- seasonal technician positions conducting surveys, trapping, tagging, and data collection. These positions are competitive, often seasonal, sometimes in remote locations, and typically pay $15-20/hour. But they provide the practical skills and professional connections that classroom education can't.
+**Field experience matters enormously**. Hiring managers look for candidates who have worked field jobs -- seasonal technician positions conducting surveys, [trapping](/trapping), tagging, and data collection. These positions are competitive, often seasonal, sometimes in remote locations, and typically pay $15-20/hour. But they provide the practical skills and professional connections that classroom education can't.
 
 **Certifications**: The Wildlife Society offers the Certified Wildlife Biologist (CWB) credential, which requires a bachelor's degree, specific coursework, and five years of professional experience. While not always required, CWB certification demonstrates commitment and competence.
 

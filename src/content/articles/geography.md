@@ -41,7 +41,7 @@ Geography is the scientific study of places, spaces, and the relationships betwe
 
 ## The Science of "Where" — And Why It Matters
 
-Geography gets a bad reputation in some circles. People remember it as the subject where you had to memorize state capitals and find countries on a blank map. That's geography in the same way that spelling bees are literature. The real discipline is far more interesting.
+Geography gets a bad reputation in some circles. People remember it as the subject where you had to memorize state capitals and find countries on a blank map. That's geography in the same way that spelling bees are [literature](/literature). The real discipline is far more interesting.
 
 Geography asks the most fundamental spatial question: why is this here and not there? Why do cities cluster along rivers and coastlines? Why is the Sahara a desert while the Congo is a rainforest, even though they're on the same continent? Why do some neighborhoods thrive while others, just a few blocks away, decline?
 
@@ -55,7 +55,7 @@ Physical geography studies the natural world — the processes and patterns that
 
 ### Geomorphology: Shaping the Land
 
-Geomorphology — the study of landforms — asks how mountains, valleys, coastlines, and plains form and change. The answers involve forces operating at vastly different timescales.
+[Geomorphology](/geomorphology) — the study of landforms — asks how mountains, valleys, coastlines, and plains form and change. The answers involve forces operating at vastly different timescales.
 
 Tectonic forces build mountains over millions of years. The Himalayas are still rising at about 5 millimeters per year as the Indian plate collides with the Eurasian plate. The Andes grew from the Nazca plate subducting beneath South America. The East African Rift is slowly splitting a continent apart.
 
@@ -71,11 +71,11 @@ Earth's climate system is driven by solar energy, but its distribution is uneven
 
 The Hadley, Ferrel, and polar cells create predictable wind and precipitation patterns. The Hadley cell — rising air at the equator, sinking at about 30 degrees latitude — explains why tropical regions are wet and many deserts (Sahara, Arabian, Australian) sit at roughly 30 degrees north or south. The jet streams — fast-moving rivers of air at high altitude — steer weather systems across mid-latitudes.
 
-Climate change is transforming physical geography in real time. Global mean temperatures have risen about 1.1 degrees Celsius since pre-industrial times. Sea levels are rising. Ice sheets are shrinking. Precipitation patterns are shifting. These changes ripple through every other geographic system — ecosystems, agriculture, water resources, human settlement patterns.
+[Climate change](/climate-change) is transforming physical geography in real time. Global mean temperatures have risen about 1.1 degrees Celsius since pre-industrial times. Sea levels are rising. Ice sheets are shrinking. Precipitation patterns are shifting. These changes ripple through every other geographic system — ecosystems, agriculture, water resources, human settlement patterns.
 
 ### Biogeography: Where Life Lives
 
-Biogeography studies the distribution of species and ecosystems across the planet. Why are there kangaroos in Australia but not Africa? Why do tropical rainforests have far more species than temperate forests? Why do islands tend to have unique species found nowhere else?
+[Biogeography](/biogeography) studies the distribution of species and ecosystems across the planet. Why are there kangaroos in Australia but not Africa? Why do tropical rainforests have far more species than temperate forests? Why do islands tend to have unique species found nowhere else?
 
 Alfred Russel Wallace — who independently developed the theory of evolution alongside Darwin — identified a sharp boundary in species composition between the islands of Bali and Lombok, separated by just 35 kilometers of ocean. West of the line: Asian animals (monkeys, tigers). East: Australian-type animals (marsupials, cockatoos). This "Wallace Line" reflects the deep geological separation between the Asian and Australian continental shelves, which were never connected by land bridges, even during ice ages when sea levels dropped 120 meters.
 
@@ -91,11 +91,11 @@ The global water cycle connects atmosphere, ocean, land, and biosphere in a cont
 
 ## Human Geography: How People Shape the World
 
-Human geography studies the spatial dimensions of human existence — where people live, why they live there, and how their activities create and transform landscapes.
+[Human geography](/human-geography) studies the spatial dimensions of human existence — where people live, why they live there, and how their activities create and transform landscapes.
 
 ### Population Geography
 
-The distribution of the world's 8 billion people is dramatically uneven. About 60% live in Asia. Dense population clusters along coastlines, river valleys, and in temperate climates reflect environmental constraints on settlement. But human ingenuity has pushed those constraints — air conditioning made Phoenix and Dubai habitable for millions; irrigation made California's Central Valley one of the world's most productive agricultural regions.
+The distribution of the world's 8 billion people is dramatically uneven. About 60% live in Asia. Dense population clusters along coastlines, river valleys, and in temperate climates reflect environmental constraints on settlement. But human ingenuity has pushed those constraints — [air conditioning](/air-conditioning) made Phoenix and Dubai habitable for millions; [irrigation](/irrigation) made California's Central Valley one of the world's most productive agricultural regions.
 
 Population geography tracks migration patterns, urbanization, demographic transitions, and the relationships between population and resources. The demographic transition model — describing how societies shift from high birth/death rates to low ones as they develop economically — helps explain why populations are growing rapidly in sub-Saharan Africa while declining in Japan and parts of Europe.
 
@@ -117,7 +117,7 @@ Global supply chains have a geography. Raw materials are extracted in one region
 
 ### Cultural Geography
 
-Cultural geography studies how human cultures vary across space — languages, religions, cuisines, architectural styles, social norms. Why does southern Louisiana have a distinct culture different from the rest of the American South? (French colonial heritage, Creole and Cajun traditions, unique environmental adaptation to bayou landscapes.) Why do Alpine villages in Switzerland, Austria, and northern Italy share architectural and cultural features across national borders? (Shared mountain environment, historical trade routes, and ethnic connections predate modern nations.)
+Cultural geography studies how human cultures vary across space — languages, religions, cuisines, architectural styles, social norms. Why does southern Louisiana have a distinct culture different from the rest of the American South? (French colonial heritage, Creole and Cajun traditions, unique environmental adaptation to bayou landscapes.) Why do Alpine villages in Switzerland, Austria, and northern Italy share architectural and cultural features across national borders? (Shared mountain environment, historical [trade](/trade) routes, and ethnic connections predate modern nations.)
 
 Cultural landscapes — the visible imprint of human activity on the physical environment — reveal histories that written records might not capture. The terraced rice paddies of Southeast Asia, the stone walls of the English countryside, the grid layouts of American Midwestern towns — each tells a story about the people who shaped that place.
 
@@ -125,7 +125,7 @@ Cultural landscapes — the visible imprint of human activity on the physical en
 
 Political geography studies how political structures — borders, territories, governance systems — interact with geographic space. National boundaries rarely follow neat physical features. Many modern borders, particularly in Africa and the Middle East, were drawn by colonial powers with little regard for ethnic, linguistic, or geographic realities — creating political tensions that persist today.
 
-Geopolitics examines how geography influences [international relations](/international-relations). Control of strategic waterways (Strait of Hormuz, Strait of Malacca, Suez Canal) confers enormous power. Landlocked countries face economic disadvantages. Natural barriers like mountains and deserts historically limited conquest and cultural exchange.
+[Geopolitics](/geopolitics) examines how geography influences [international relations](/international-relations). Control of strategic waterways (Strait of Hormuz, Strait of Malacca, Suez Canal) confers enormous power. Landlocked countries face economic disadvantages. Natural barriers like mountains and deserts historically limited conquest and cultural exchange.
 
 ## Geographic Methods and Tools
 
@@ -139,7 +139,7 @@ The Landsat program has provided continuous Earth observation since 1972 — a 5
 
 ### GIS and Spatial Analysis
 
-Geographic [Information Systems](/information-systems) — computer systems for storing, analyzing, and visualizing spatial [data](/data-analysis) — have become geography's primary analytical tool. GIS allows geographers to overlay multiple data layers, perform spatial statistics, model scenarios, and produce maps that communicate complex information effectively.
+Geographic [Information Systems](/information-systems) — computer systems for storing, analyzing, and visualizing spatial [data](/data-analysis) — have become geography's primary analytical tool. GIS allows geographers to overlay multiple data layers, perform spatial [statistics](/statistics), model scenarios, and produce maps that communicate complex information effectively.
 
 The integration of GIS with [data science](/data-science) and [artificial intelligence](/artificial-intelligence) is expanding what geographic analysis can accomplish. Machine learning algorithms process satellite imagery to classify land cover, detect changes, and extract features at speeds impossible for human analysts.
 
@@ -157,7 +157,7 @@ We're living through a period when geographic thinking is more important than ev
 
 **Urbanization** is reshaping human geography at unprecedented speed. Megacities of 10+ million people are emerging across Asia and Africa. Managing their growth — providing water, sanitation, transportation, housing, and employment — requires spatial planning that draws directly on geographic expertise.
 
-**Resource conflicts** increasingly have geographic dimensions. Water scarcity, land degradation, and competition for minerals create tensions that follow geographic patterns. The [cartography](/cartography) of conflict often reveals geographic logic — rivers, fertile land, strategic positions.
+**Resource conflicts** increasingly have geographic dimensions. Water scarcity, land degradation, and competition for minerals create tensions that follow geographic patterns. The [cartography](/cartography) of conflict often reveals geographic [logic](/logic) — rivers, fertile land, strategic positions.
 
 **Pandemic response** demonstrated the value of geographic analysis. Mapping disease spread, identifying vulnerable populations, planning vaccine distribution, and tracking mobility patterns all required geographic data and spatial thinking.
 

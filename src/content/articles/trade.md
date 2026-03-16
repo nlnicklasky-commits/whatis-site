@@ -41,7 +41,7 @@ Trade is the voluntary exchange of goods, services, or money between two or more
 
 ## The Oldest Economic Activity
 
-Humans have been trading for at least 150,000 years. Archaeologists have found obsidian tools hundreds of miles from their volcanic sources, seashells used as ornaments far inland, and flint blades distributed across distances that no single group could have traveled. Long before money, writing, or even [agriculture](/agriculture) — people traded.
+Humans have been trading for at least 150,000 years. Archaeologists have found obsidian tools hundreds of miles from their volcanic sources, seashells used as ornaments far inland, and flint blades distributed across distances that no single group could have traveled. Long before money, [writing](/writing), or even [agriculture](/agriculture) — people traded.
 
 Why? Because trade solves a fundamental problem. No individual, family, village, or country can efficiently produce everything it needs. Specialization makes everyone more productive, but specialization only works if you can exchange your surplus for things you don't produce yourself. A wheat farmer doesn't need 10,000 bushels of wheat. She needs wheat, plus tools, clothing, medical care, and a thousand other things. Trade turns her specialized production into access to everything else.
 
@@ -81,7 +81,7 @@ Ancient maritime trade was equally impressive. Phoenician merchants sailed the e
 
 European exploration from the 15th century onward was driven overwhelmingly by trade. Columbus wasn't looking for new continents — he was looking for a shorter trade route to Asia's spices. The Portuguese rounded Africa for the same reason. The Dutch East India Company, founded in 1602, was essentially a trading corporation with its own army and navy, and it became the most valuable company in history (adjusted for inflation).
 
-Mercantilism — the dominant economic [philosophy](/philosophy) from roughly 1500-1800 — viewed trade as a zero-sum game. Nations competed to export more than they imported, hoarding gold and silver as measures of wealth. Colonies existed to supply raw materials and consume manufactured goods from the mother country. This philosophy drove European colonialism and shaped global trade patterns for centuries.
+[Mercantilism](/mercantilism) — the dominant economic [philosophy](/philosophy) from roughly 1500-1800 — viewed trade as a zero-sum game. Nations competed to export more than they imported, hoarding gold and silver as measures of wealth. Colonies existed to supply raw materials and consume manufactured goods from the mother country. This philosophy drove European colonialism and shaped global trade patterns for centuries.
 
 ### The Free Trade Revolution
 
@@ -106,7 +106,7 @@ Global merchandise trade totaled approximately $25 trillion in 2022, according t
 - **Manufactured goods** account for about 70% of merchandise trade. Electronics, vehicles, machinery, chemicals, pharmaceuticals, and clothing dominate.
 - **Fuels and mining products** make up roughly 15% — oil, natural gas, coal, and metals.
 - **Agricultural products** account for about 10% — food, raw materials, beverages.
-- **Services** include financial services, tourism, shipping, telecommunications, and intellectual property licensing.
+- **Services** include financial services, [tourism](/tourism), shipping, telecommunications, and intellectual property licensing.
 
 The [geography](/geography) of trade has shifted dramatically. In 1980, developing countries accounted for about 25% of world exports. By 2022, that share exceeded 45%, driven overwhelmingly by East Asia — particularly China, which became the world's largest exporter of goods in 2009.
 
@@ -149,7 +149,7 @@ National security arguments for protection are also taken seriously. Countries m
 
 In practice, every country protects some industries. The United States subsidizes agriculture and restricts steel imports. Japan protects its rice farmers. Europe subsidizes Airbus. China uses a mixture of tariffs, subsidies, and regulatory barriers to support strategic industries.
 
-The debate isn't really "free trade vs. protectionism" — it's about where to draw the line and how to compensate the losers. Countries that do this well (through retraining programs, regional development investment, and safety nets) manage the transition better. Countries that don't — that let displaced communities simply absorb the shock — generate the political backlash against trade that has become a defining feature of 21st-century politics.
+The [debate](/debate) isn't really "free trade vs. protectionism" — it's about where to draw the line and how to compensate the losers. Countries that do this well (through retraining programs, regional development investment, and safety nets) manage the transition better. Countries that don't — that let displaced communities simply absorb the shock — generate the political backlash against trade that has become a defining feature of 21st-century [politics](/politics).
 
 ## The Future of Trade
 

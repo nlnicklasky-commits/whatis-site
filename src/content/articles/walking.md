@@ -109,7 +109,7 @@ Most people walk with at least one bad habit. Here are the basics of efficient w
 
 **Rucking** — walking with a weighted backpack — has gained popularity as a bridge between walking and more intense exercise. Adding 10-20% of your body weight in a pack significantly increases calorie burn and builds strength.
 
-**Treadmill walking** provides similar cardiovascular benefits to outdoor walking but lacks the uneven terrain (which builds ankle stability), the visual stimulation, and the nature exposure that enhance outdoor walking's mental health benefits.
+**Treadmill walking** provides similar cardiovascular benefits to outdoor walking but lacks the uneven terrain (which builds ankle stability), the visual stimulation, and the nature exposure that enhance outdoor walking's [mental health](/mental-health) benefits.
 
 **Interval walking** alternates between fast and moderate paces. A Japanese study found that 3-minute intervals of fast walking alternated with 3-minute easy walking, repeated for 30 minutes, improved aerobic fitness and muscle strength more than steady-pace walking.
 

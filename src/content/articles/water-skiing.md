@@ -31,7 +31,7 @@ faq:
 
 # What Is [Water](/water-polo) Skiing?
 
-Water skiing is a surface water sport where a person stands on one or two skis and is pulled across the water's surface by a motorboat via a tow rope. The skier holds a handle attached to the rope, leans back against the pull of the boat, and uses body position and weight shifts to control direction and speed. It's been around since 1922 and remains one of the most popular warm-weather water sports worldwide.
+Water [skiing](/skiing) is a surface water sport where a person stands on one or two skis and is pulled across the water's surface by a motorboat via a tow rope. The skier holds a handle attached to the rope, leans back against the pull of the boat, and uses body position and weight shifts to control direction and speed. It's been around since 1922 and remains one of the most popular warm-weather water sports worldwide.
 
 ## How It Started
 

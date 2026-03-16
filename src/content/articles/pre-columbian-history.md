@@ -65,7 +65,7 @@ Mesoamerica — roughly modern-day central Mexico through northern Central Ameri
 
 Often called the "mother culture" of Mesoamerica (though this label is debated), the Olmec built the region's first complex society along the Gulf Coast of Mexico. They're best known for their colossal stone heads — massive basalt sculptures, some weighing over 20 tons, carved with individual portrait features that suggest they depicted specific rulers.
 
-The Olmec likely developed the first writing system and calendar in the Americas, though surviving examples are limited. Their religious [iconography](/iconography) — jaguar imagery, the feathered serpent — influenced virtually every subsequent Mesoamerican civilization.
+The Olmec likely developed the first [writing](/writing) system and calendar in the Americas, though surviving examples are limited. Their religious [iconography](/iconography) — jaguar imagery, the feathered serpent — influenced virtually every subsequent Mesoamerican civilization.
 
 ### The Maya (c. 2000 BCE-1500s CE)
 
@@ -89,7 +89,7 @@ The Aztecs (who called themselves the Mexica) built the last great Mesoamerican 
 
 Tenochtitlan was an [engineering](/engineering) marvel. Built on artificial islands (*chinampas*), connected by causeways and canals, with aqueducts delivering fresh water from the mainland, the city astonished the Spanish conquistadors. Bernal Diaz del Castillo, who accompanied Cortes, wrote that "we were amazed and said that it was like the enchantments they tell of in the legend of Amadis... some of our soldiers even asked whether the things that we saw were not a dream."
 
-The Aztec Empire controlled much of central Mexico through a tributary system. Conquered peoples paid tribute in goods — cacao, cotton, feathers, gold, jade, and captives for sacrifice. Human sacrifice was a real and significant practice in Aztec religion, though its scale has been debated. Spanish accounts, which had obvious motivations to exaggerate, described tens of thousands of sacrifices per year. Modern archaeological evidence confirms that sacrifice occurred on a large scale, but the exact numbers remain uncertain.
+The Aztec Empire controlled much of central Mexico through a tributary system. Conquered peoples paid tribute in goods — cacao, cotton, feathers, gold, jade, and captives for sacrifice. Human sacrifice was a real and significant practice in Aztec [religion](/religion), though its scale has been debated. Spanish accounts, which had obvious motivations to exaggerate, described tens of thousands of sacrifices per year. Modern archaeological evidence confirms that sacrifice occurred on a large scale, but the exact numbers remain uncertain.
 
 ## South American Civilizations
 
@@ -107,7 +107,7 @@ What they had instead:
 
 **Agricultural engineering.** Inca terracing transformed steep Andean slopes into productive farmland. At Moray, circular terraced depressions created microclimates at different elevations — essentially an agricultural laboratory for testing crop varieties at different conditions. Inca freeze-drying techniques for preserving potatoes (*chuno*) were essentially identical to modern freeze-drying methods.
 
-**Stonework.** Inca masonry at sites like Sacsayhuaman and Machu Picchu fits stones together so precisely — without mortar — that you can't fit a knife blade between them. How they achieved this precision with stone and bronze tools remains debated.
+**Stonework.** Inca [masonry](/masonry) at sites like Sacsayhuaman and Machu Picchu fits stones together so precisely — without mortar — that you can't fit a knife blade between them. How they achieved this precision with stone and bronze tools remains debated.
 
 ### Other South American Cultures
 
@@ -121,7 +121,7 @@ North America's most complex pre-Columbian societies are often overlooked. The M
 
 ### The Pueblo Peoples
 
-In the American Southwest, Ancestral Puebloans built cliff dwellings at Mesa Verde and multi-story apartment complexes at Chaco Canyon. The great houses of Chaco were the largest buildings in North America until the 19th century. A network of precisely engineered roads — up to 9 meters wide and running for hundreds of kilometers — connected Chacoan communities across the region.
+In the American Southwest, Ancestral Puebloans built cliff dwellings at Mesa Verde and multi-story apartment complexes at Chaco Canyon. The great houses of Chaco were the largest buildings in North America until the 19th century. A network of precisely engineered roads — up to 9 meters wide and [running](/running) for hundreds of kilometers — connected Chacoan communities across the region.
 
 ## The Catastrophe of Contact
 

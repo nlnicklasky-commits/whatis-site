@@ -51,7 +51,7 @@ This pillar also addresses gender equality, indigenous rights, labor standards, 
 
 ### Environmental
 
-The environmental pillar is the one that gets the most attention, and for good reason. Climate change, biodiversity loss, deforestation, ocean acidification, soil degradation, and freshwater depletion all threaten the ecological systems that human civilization depends on.
+The environmental pillar is the one that gets the most attention, and for good reason. [Climate change](/climate-change), biodiversity loss, deforestation, ocean acidification, soil degradation, and freshwater depletion all threaten the ecological systems that human civilization depends on.
 
 Sustainable development requires keeping environmental impacts within planetary boundaries — the thresholds beyond which Earth's systems become unstable. Scientists have identified nine such boundaries; we've already crossed several.
 

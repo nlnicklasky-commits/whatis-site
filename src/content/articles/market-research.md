@@ -43,7 +43,7 @@ The graveyard of failed products is full of things nobody asked for. New Coke (1
 
 Here's what makes that case instructive: Coca-Cola *did* research. They just asked the wrong questions. Taste tests measured flavor preference. They didn't measure brand loyalty, emotional attachment, or the fury people feel when you mess with something familiar. Good market research isn't just collecting data. It's asking the right questions and interpreting the answers honestly.
 
-The numbers back this up. According to CB Insights, 35% of startups fail because there's "no market need" for their product. That's the number-one reason for startup failure — ahead of running out of cash, having the wrong team, or getting outcompeted. A lot of those companies built something clever without first checking if anyone actually wanted it.
+The numbers back this up. According to CB Insights, 35% of startups fail because there's "no market need" for their product. That's the number-one reason for startup failure — ahead of [running](/running) out of cash, having the wrong team, or getting outcompeted. A lot of those companies built something clever without first checking if anyone actually wanted it.
 
 ## Types of Market Research
 
@@ -69,7 +69,7 @@ Secondary research uses data someone else already collected. It's faster, cheape
 
 Industry reports from firms like IBISWorld, Statista, Gartner, and McKinsey provide market sizing, growth forecasts, competitive analysis, and trend identification. These aren't cheap (often $2,000-$10,000 per report), but they can save you months of primary research.
 
-Academic research, trade publications, competitor filings (public companies disclose a remarkable amount in SEC filings and annual reports), and news archives all contribute to the secondary research toolkit.
+Academic research, [trade](/trade) publications, competitor filings (public companies disclose a remarkable amount in SEC filings and annual reports), and news archives all contribute to the secondary research toolkit.
 
 The limitation: secondary data wasn't collected to answer your specific question. It might be outdated, too broad, or based on a different methodology than what you'd choose. Use it for context and direction, then fill in the gaps with primary research.
 
@@ -89,7 +89,7 @@ Design your sample carefully. Who are you studying? How will you reach them? How
 
 ### 3. Collect the Data
 
-Execute the plan. This is where logistics matter — survey response rates, interview [scheduling](/scheduling), data quality checks. Common pitfalls include low response rates (which can introduce bias — the people who respond may differ systematically from those who don't), poorly trained interviewers, and technical problems with data collection tools.
+Execute the plan. This is where [logistics](/logistics) matter — survey response rates, interview [scheduling](/scheduling), data quality checks. Common pitfalls include low response rates (which can introduce bias — the people who respond may differ systematically from those who don't), poorly trained interviewers, and technical problems with data collection tools.
 
 ### 4. Analyze the Results
 
@@ -105,9 +105,9 @@ Research that sits in a drawer is worthless. The findings need to reach decision
 
 **Asking leading questions.** "Don't you agree that our product is the best on the market?" is not research. It's [cheerleading](/cheerleading). Questions should be neutral: "How would you compare our product to alternatives you've used?"
 
-**Surveying the wrong people.** If you want to know why people don't buy your product, surveying your existing customers won't help. You need to reach non-customers — which is harder and more expensive, but that's where the insight is.
+**[Surveying](/surveying) the wrong people.** If you want to know why people don't buy your product, surveying your existing customers won't help. You need to reach non-customers — which is harder and more expensive, but that's where the insight is.
 
-**Confusing correlation with causation.** Sales went up after your ad campaign launched. But so did the temperature, a competitor's recall, and a viral social media post. Did the ad cause the increase? Maybe. Maybe not. Without controlled experiments, you can't be sure.
+**Confusing correlation with causation.** [Sales](/sales) went up after your ad campaign launched. But so did the temperature, a competitor's recall, and a viral social media post. Did the ad cause the increase? Maybe. Maybe not. Without controlled experiments, you can't be sure.
 
 **Over-relying on self-reported behavior.** People are terrible at predicting their own future actions. "Would you buy this product?" gets enthusiastic yeses from people who, when the product actually ships, don't open their wallets. Behavioral data (what people actually do) beats attitudinal data (what people say they'd do) almost every time.
 

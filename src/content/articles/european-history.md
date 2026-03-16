@@ -43,9 +43,9 @@ European history, in the way most people understand it, begins with the Greeks.
 
 ### Greece — Where the Ideas Started
 
-Around the 8th century BCE, Greek city-states began developing political and intellectual traditions that would shape Western civilization for the next 2,800 years. Athens pioneered democracy (limited, admittedly, to free adult men). Greek philosophers — Socrates, Plato, Aristotle — asked questions about ethics, politics, and reality that we're still debating.
+Around the 8th century BCE, Greek city-states began developing political and intellectual traditions that would shape Western civilization for the next 2,800 years. Athens pioneered democracy (limited, admittedly, to free adult men). Greek philosophers — Socrates, Plato, Aristotle — asked questions about [ethics](/ethics), [politics](/politics), and reality that we're still debating.
 
-The numbers are striking. Athens at its peak had a population of about 300,000 (including slaves and non-citizens). From this relatively small city came the foundations of Western [philosophy](/aesthetics), drama, history writing, mathematics, and political theory. No comparable concentration of intellectual achievement has occurred in such a small population before or since.
+The numbers are striking. Athens at its peak had a population of about 300,000 (including slaves and non-citizens). From this relatively small city came the foundations of Western [philosophy](/aesthetics), [drama](/drama), history [writing](/writing), [mathematics](/mathematics), and political theory. No comparable concentration of intellectual achievement has occurred in such a small population before or since.
 
 Alexander the Great spread Greek culture across an empire stretching from Egypt to India between 334 and 323 BCE. He died at 32, and his empire immediately fragmented. But Hellenistic culture — a blend of Greek and Eastern elements — persisted across the eastern Mediterranean for centuries.
 
@@ -59,11 +59,11 @@ The Western Roman Empire fell in 476 CE when the Germanic chieftain Odoacer depo
 
 ## The Middle Ages (500-1500)
 
-The popular image of the Middle Ages as a "dark age" is misleading. It was a period of significant development in agriculture, technology, law, and [architecture](/civil-engineering) — not to mention the preservation of classical knowledge by Islamic scholars and Christian monasteries.
+The popular image of the Middle Ages as a "dark age" is misleading. It was a period of significant development in [agriculture](/agriculture), technology, law, and [architecture](/civil-[engineering](/engineering)) — not to mention the preservation of classical knowledge by Islamic scholars and Christian monasteries.
 
 ### Feudalism and the Church
 
-After Rome's fall, political power fragmented into local lordships. Feudalism — a system where land was exchanged for military service and peasant labor — organized most of medieval European society. At the top sat kings. Below them, nobles. Below them, serfs who worked the land and couldn't leave it.
+After Rome's fall, political power fragmented into local lordships. [Feudalism](/feudalism) — a system where land was exchanged for military service and peasant labor — organized most of medieval European society. At the top sat kings. Below them, nobles. Below them, serfs who worked the land and couldn't leave it.
 
 The Catholic Church was the one institution that spanned all of Europe. It ran the only educational system, operated hospitals, maintained literacy in Latin, and wielded enormous political influence. The Pope could excommunicate kings — and sometimes did. The tension between secular and religious authority defined medieval politics.
 
@@ -71,7 +71,7 @@ The Catholic Church was the one institution that spanned all of Europe. It ran t
 
 Between 1096 and 1291, European Christians launched a series of military campaigns to capture and hold the Holy Land. The First Crusade succeeded, establishing Crusader states that lasted about 200 years. Subsequent Crusades were mostly failures.
 
-The Crusades' long-term effects mattered more than the battles themselves. They reopened trade routes between Europe and the East, introducing Europeans to spices, silk, paper, and Arabic numerals. They also deepened hostility between Christian Europe and the Islamic world — hostility whose echoes persist.
+The Crusades' long-term effects mattered more than the battles themselves. They reopened [trade](/trade) routes between Europe and the East, introducing Europeans to spices, silk, paper, and Arabic numerals. They also deepened hostility between Christian Europe and the Islamic world — hostility whose echoes persist.
 
 ### The Black Death
 
@@ -81,9 +81,9 @@ Counterintuitively, the plague may have accelerated Europe's development. With f
 
 ## The Renaissance and Reformation (1400-1600)
 
-Starting in 14th-century Italy, the Renaissance ("rebirth") saw a revival of interest in classical Greek and Roman learning, a flowering of art and architecture, and a shift toward more secular, human-centered thinking.
+Starting in 14th-century Italy, the Renaissance ("rebirth") saw a revival of interest in classical Greek and Roman learning, a flowering of art and [architecture](/architecture), and a shift toward more secular, human-centered thinking.
 
-Florence, funded by banking families like the Medici, became the epicenter. Leonardo da Vinci, Michelangelo, Raphael, Machiavelli — names that still define artistic and intellectual achievement — all worked there. The invention of the printing press by Johannes Gutenberg around 1440 amplified the movement by making books cheap and widely available for the first time.
+Florence, funded by banking families like the Medici, became the epicenter. Leonardo da Vinci, Michelangelo, Raphael, Machiavelli — names that still define artistic and intellectual achievement — all worked there. The [invention](/invention) of the printing press by Johannes Gutenberg around 1440 amplified the movement by making books cheap and widely available for the first time.
 
 The Protestant Reformation, triggered by Martin Luther's 95 Theses in 1517, shattered the religious unity of Western Europe. Luther challenged the Catholic Church's authority, particularly the sale of indulgences. His ideas spread rapidly (thanks to that printing press), spawning new Christian denominations and centuries of religious conflict, including the devastating [Thirty Years' War](/thirty-years-war) (1618-1648), which killed roughly 8 million people — about a third of Germany's population.
 
@@ -97,11 +97,11 @@ By 1914, European powers controlled roughly 84% of the world's land surface. The
 
 ## The Enlightenment and Revolution (1650-1800)
 
-The Enlightenment — an intellectual movement centered in France, Britain, and Germany — championed reason, science, individual rights, and skepticism of traditional authority. Voltaire, Rousseau, Locke, Kant, and Adam Smith reframed how Europeans thought about government, [economics](/capitalism), religion, and human nature.
+The Enlightenment — an intellectual movement centered in France, Britain, and Germany — championed reason, science, individual rights, and skepticism of traditional authority. Voltaire, Rousseau, Locke, Kant, and Adam Smith reframed how Europeans thought about [government](/government), [economics](/capitalism), [religion](/religion), and human nature.
 
 These ideas had explosive political consequences.
 
-The French Revolution (1789) overthrew the monarchy, declared the rights of man, and then devoured itself in the Reign of Terror. Napoleon emerged from the chaos, conquered most of Europe, spread revolutionary legal codes across the continent, and was finally defeated at Waterloo in 1815.
+The French Revolution (1789) overthrew the [monarchy](/monarchy), declared the rights of man, and then devoured itself in the Reign of Terror. Napoleon emerged from the chaos, conquered most of Europe, spread revolutionary legal codes across the continent, and was finally defeated at Waterloo in 1815.
 
 The 19th century saw a succession of revolutions — 1830, 1848 — as liberal and nationalist movements challenged the old monarchical order. Italy unified in 1861. Germany unified in 1871. Greece, Belgium, and several Balkan nations won independence. The old order was crumbling, though it wouldn't fully collapse until 1914.
 
@@ -111,7 +111,7 @@ The 30 years between 1914 and 1945 were the most destructive period in European 
 
 ### World War I (1914-1918)
 
-Triggered by the assassination of Archduke Franz Ferdinand and enabled by a tangled web of alliances, World War I killed approximately 20 million people — about 10 million soldiers and 10 million civilians. Trench warfare on the Western Front produced staggering casualties for minimal territorial gains. The Battle of the Somme alone killed or wounded over 1 million men.
+Triggered by the assassination of Archduke Franz Ferdinand and enabled by a tangled web of alliances, [World War I](/world-war-i) killed approximately 20 million people — about 10 million soldiers and 10 million civilians. Trench warfare on the Western Front produced staggering casualties for minimal territorial gains. The Battle of the Somme alone killed or wounded over 1 million men.
 
 The war destroyed four empires (Ottoman, Austro-Hungarian, Russian, German), redrew the map of Europe, and left deep economic and psychological scars that made another war almost inevitable.
 

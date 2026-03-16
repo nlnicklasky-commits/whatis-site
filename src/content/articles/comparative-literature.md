@@ -61,13 +61,13 @@ The range of work is enormous. Some examples:
 
 **Thematic studies** follow ideas across literatures. The theme of exile appears in Homer, Dante, James Joyce, and Salman Rushdie. What connects these treatments? What separates them? The thematic lens reveals both the universality and the cultural specificity of human experience.
 
-**Intermedial studies** compare literature with other art forms — [film](/cinematography), music, visual art, digital media. How does a novel's narrative technique relate to cinematic [editing](/editing)? How does a graphic novel do things that neither prose nor film can?
+**Intermedial studies** compare literature with other art forms — [film](/cinematography), music, visual art, digital media. How does a novel's narrative technique relate to cinematic [editing](/editing)? How does a graphic novel do things that neither [prose](/prose) nor film can?
 
 ## The Translation Problem
 
 Translation is the elephant in every comp lit seminar. The ideal comparatist reads texts in their original languages. But nobody reads every language. Homer wrote in ancient Greek, Murasaki Shikibu in Heian-era Japanese, Kafka in German, Borges in Spanish. No human being masters all of them.
 
-So comparative literature has had to make peace with translation, while remaining alert to what translation obscures. A good translation of Tolstoy conveys plot, character, and much of the philosophical weight. It cannot fully convey the music of Russian syntax, the cultural resonances of specific word choices, or the theological implications embedded in Tolstoy's prose rhythms.
+So comparative literature has had to make peace with translation, while remaining alert to what translation obscures. A good translation of Tolstoy conveys plot, character, and much of the philosophical weight. It cannot fully convey the music of Russian [syntax](/syntax), the cultural resonances of specific word choices, or the theological implications embedded in Tolstoy's prose rhythms.
 
 This limitation isn't fatal to the discipline — it just means comparatists need to be honest about what they can and can't access through translation. The best scholars work in at least three languages and use translations as supplements, not substitutes.
 

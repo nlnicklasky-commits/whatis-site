@@ -105,7 +105,7 @@ The reverse of elimination. A double or triple bond opens up and new atoms attac
 
 ### Radical Reactions
 
-Most organic reactions involve pairs of electrons, but radical reactions involve single unpaired electrons. Radicals are extremely reactive and are responsible for combustion (burning), polymer chain reactions, atmospheric ozone depletion, and biological aging. Free radical damage to DNA is one mechanism of cancer development, which is partly why antioxidants — radical scavengers — are valued in nutrition.
+Most organic reactions involve pairs of electrons, but radical reactions involve single unpaired electrons. Radicals are extremely reactive and are responsible for combustion (burning), polymer chain reactions, atmospheric ozone depletion, and biological aging. Free radical damage to DNA is one mechanism of cancer development, which is partly why antioxidants — radical scavengers — are valued in [nutrition](/nutrition).
 
 ## Stereochemistry: Shape Matters
 
@@ -113,7 +113,7 @@ One of the most profound insights of organic chemistry is that molecular shape m
 
 **Chirality** is the most important concept here. A carbon atom bonded to four different groups is chiral — it exists in two mirror-image forms (enantiomers) that can't be superimposed, like left and right hands. Your left hand and right hand have identical "atoms" in identical connections, but they're not interchangeable. Try putting a left glove on your right hand.
 
-This matters enormously in biology. Enzymes, receptors, and DNA are all chiral. They interact differently with left-handed and right-handed versions of a drug molecule. The painkiller ibuprofen exists as two enantiomers — the S-enantiomer is the active form, while the R-enantiomer is essentially inert. The notorious drug thalidomide caused birth defects because one enantiomer was therapeutic while the other was teratogenic.
+This matters enormously in [biology](/biology). Enzymes, receptors, and DNA are all chiral. They interact differently with left-handed and right-handed versions of a drug molecule. The painkiller ibuprofen exists as two enantiomers — the S-enantiomer is the active form, while the R-enantiomer is essentially inert. The notorious drug thalidomide caused birth defects because one enantiomer was therapeutic while the other was teratogenic.
 
 Modern pharmaceutical chemistry is obsessed with chirality. About 50% of all drugs are chiral, and regulations increasingly require companies to develop single-enantiomer versions. Asymmetric synthesis — selectively making one enantiomer over the other — won the 2001 Nobel Prize in Chemistry (Knowles, Noyori, and Sharpless) and the 2021 Nobel Prize (List and MacMillan for organocatalysis).
 
@@ -125,15 +125,15 @@ Synthesis is the art and science of constructing target molecules from simpler s
 
 Total synthesis means building a complex natural product entirely from simple, commercially available chemicals. It's the organic chemistry equivalent of building a cathedral from raw stone.
 
-Robert Woodward synthesized cholesterol in 1951, quinine in 1944, and vitamin B12 in 1972 — feats that won him the 1965 Nobel Prize and established synthesis as a supreme intellectual challenge. Elias James Corey formalized the logic of synthesis planning with retrosynthetic analysis — working backward from the target molecule, identifying strategic bond disconnections that simplify the structure. He won the 1990 Nobel Prize for this work.
+Robert Woodward synthesized cholesterol in 1951, quinine in 1944, and vitamin B12 in 1972 — feats that won him the 1965 Nobel Prize and established synthesis as a supreme intellectual challenge. Elias James Corey formalized the [logic](/logic) of synthesis planning with retrosynthetic analysis — working backward from the target molecule, identifying strategic bond disconnections that simplify the structure. He won the 1990 Nobel Prize for this work.
 
-Modern total synthesis tackles molecules of staggering complexity. Palytoxin, a marine toxin with 64 stereocenters and 7 double bonds of defined geometry, was synthesized by Yoshito Kishi's group. The probability of getting the right stereoisomer by chance is about 1 in 10^19. That they could make specifically the correct one is a proof to the precision of modern synthetic methods.
+Modern total synthesis tackles molecules of staggering complexity. Palytoxin, a marine toxin with 64 stereocenters and 7 double bonds of defined [geometry](/geometry), was synthesized by Yoshito Kishi's group. The probability of getting the right stereoisomer by chance is about 1 in 10^19. That they could make specifically the correct one is a proof to the precision of modern synthetic methods.
 
 ### Pharmaceutical Synthesis
 
 Drug development depends on organic synthesis at every stage. Medicinal chemists synthesize thousands of analogs (variations) of lead compounds, testing each for potency, selectivity, toxicity, and pharmacokinetics. [Medicinal chemistry](/medicinal-chemistry) is applied organic chemistry with an urgent practical purpose.
 
-The synthesis of penicillin during World War II — scaling from milligram laboratory quantities to tons of industrial production — changed medicine forever. Today, synthesizing a single drug candidate for clinical trials can cost $50-100 million before a single patient takes it.
+The synthesis of penicillin during [World War II](/world-war-ii) — scaling from milligram laboratory quantities to tons of industrial production — changed medicine forever. Today, synthesizing a single drug candidate for clinical trials can cost $50-100 million before a single patient takes it.
 
 ### Industrial Organic Chemistry
 
@@ -177,7 +177,7 @@ Organic chemistry in 2026 looks very different from even a decade ago.
 
 **Bioorthogonal chemistry** develops reactions that work inside living cells without interfering with biological processes. Carolyn Bertozzi won the 2022 Nobel Prize for pioneering click chemistry and bioorthogonal reactions, enabling researchers to label and track specific molecules inside living organisms. This has applications in drug delivery, diagnostics, and understanding [cell biology](/cell-biology).
 
-**Organic electronics** uses conjugated organic molecules and polymers as semiconductors. Organic LEDs (OLEDs) are already in millions of smartphones and TVs. Organic solar cells and organic transistors are advancing rapidly, potentially enabling flexible, printable, and cheap electronic devices.
+**Organic [electronics](/electronics)** uses conjugated organic molecules and polymers as semiconductors. Organic LEDs (OLEDs) are already in millions of smartphones and TVs. Organic solar cells and organic transistors are advancing rapidly, potentially enabling flexible, printable, and cheap electronic devices.
 
 ## Why Organic Chemistry Matters to You
 

@@ -41,7 +41,7 @@ Humans have been working metal for roughly 10,000 years. The specific techniques
 
 ## Why Metal Matters
 
-Before we get into techniques, it's worth asking: why metal? Why not stick with wood, stone, or ceramics?
+Before we get into techniques, it's worth asking: why metal? Why not stick with wood, stone, or [ceramics](/ceramics)?
 
 The answer is a combination of properties that no other material class matches. Metals are strong, ductile (they bend before breaking), conductive (heat and [electricity](/electricity)), and --- crucially --- they can be melted and reshaped repeatedly. A wooden beam that cracks is firewood. A steel beam that bends can be straightened and reused, or melted down and recast into something entirely different.
 
@@ -51,7 +51,7 @@ Steel alone accounts for roughly 1.9 billion metric tons of annual global produc
 
 ### The Copper Age (8000 -- 3300 BCE)
 
-Native copper --- metallic copper found in nature --- was the first metal humans worked. Copper nuggets could be hammered into shape without melting, and this cold-working technique produced simple tools and ornaments. By around 5000 BCE, people in the Middle East had figured out smelting --- extracting copper from its ores using fire. This was arguably the most important technological advance since the controlled use of fire itself.
+Native copper --- metallic copper found in nature --- was the first metal humans worked. Copper nuggets could be hammered into shape without melting, and this cold-working technique produced simple tools and ornaments. By around 5000 BCE, people in the Middle East had figured out [smelting](/smelting) --- extracting copper from its ores using fire. This was arguably the most important technological advance since the controlled use of fire itself.
 
 ### The Bronze Age (3300 -- 1200 BCE)
 
@@ -63,7 +63,7 @@ The Bronze Age also saw the development of lost-wax casting, a technique still u
 
 Iron ore is far more abundant than copper and tin, making iron cheaper and more widely available. But iron requires much higher temperatures to smelt --- around 1,500 degrees Celsius compared to copper's 1,085 degrees. The development of bellows-powered furnaces made this possible.
 
-Early ironwork was primarily forging --- heating iron until malleable and hammering it into shape. Cast iron (iron with high carbon content that can be poured into molds) appeared in China around the 5th century BCE, roughly 1,500 years before Europe figured it out.
+Early ironwork was primarily [forging](/forging) --- heating iron until malleable and hammering it into shape. Cast iron (iron with high carbon content that can be poured into molds) appeared in China around the 5th century BCE, roughly 1,500 years before Europe figured it out.
 
 Steel --- iron with a controlled amount of carbon --- was the ultimate prize. It combined iron's strength with hardness and the ability to hold a sharp edge. Damascus steel and Japanese tamahagane (used in katanas) were famous early steel technologies, though their methods were closely guarded secrets.
 
@@ -75,7 +75,7 @@ Machine tools --- lathes, milling machines, drill presses --- developed rapidly 
 
 ### Modern Metalworking (1900s -- Present)
 
-The 20th century brought electric arc welding, CNC (computer numerical control) machining, laser cutting, electron beam welding, additive manufacturing (metal 3D printing), and dozens of other advances. Modern metalworking combines ancient principles with computer control and [materials science](/materials-science) in ways that would astonish a 19th-century machinist.
+The 20th century brought electric arc [welding](/welding), CNC (computer numerical control) machining, laser cutting, electron beam welding, additive manufacturing (metal 3D printing), and dozens of other advances. Modern metalworking combines ancient principles with computer control and [materials science](/materials-science) in ways that would astonish a 19th-century machinist.
 
 ## The Major Categories of Metalworking
 
@@ -91,7 +91,7 @@ Forming processes change a metal's shape without cutting away material. The meta
 
 **Bending** uses brake presses or roll benders to create angles and curves in sheet metal. Sheet metal fabrication --- cutting and bending thin metal into enclosures, brackets, ductwork, and structural components --- is one of the largest segments of metalworking by volume.
 
-**Drawing** pulls metal through a die to create wire, tubing, or deep-drawn shapes like beverage cans and bullet casings. A single aluminum disc gets drawn through a series of progressively smaller dies to become a soda can --- about 100 billion of them per year worldwide.
+**[Drawing](/drawing)** pulls metal through a die to create wire, tubing, or deep-drawn shapes like beverage cans and bullet casings. A single aluminum disc gets drawn through a series of progressively smaller dies to become a soda can --- about 100 billion of them per year worldwide.
 
 **Stamping** uses dies in a press to cut and form sheet metal at high speed. Automotive body panels, appliance housings, and electronic enclosures are stamped. A modern stamping press can produce hundreds of parts per minute.
 
@@ -103,7 +103,7 @@ Cutting processes remove material to achieve the desired shape. This is the doma
 
 **Milling** uses a rotating cutting tool to remove material from a stationary (or slowly moving) workpiece. Milling machines can produce flat surfaces, slots, pockets, and complex 3D shapes. CNC milling machines with 3, 4, or 5 axes of motion can produce remarkably complex parts in a single setup.
 
-**Drilling** creates holes. Sounds simple, but drilling precision holes in hard metals at high speeds requires careful attention to tool geometry, speed, feed rate, and coolant. Deep-hole drilling (holes much deeper than their diameter) is its own specialty.
+**Drilling** creates holes. Sounds simple, but drilling precision holes in hard metals at high speeds requires careful attention to tool [geometry](/geometry), speed, feed rate, and coolant. Deep-hole drilling (holes much deeper than their diameter) is its own specialty.
 
 **Grinding** uses abrasive wheels to remove small amounts of material with extreme precision. Surface grinding produces flat surfaces accurate to a few micrometers. Cylindrical grinding finishes round parts to tight tolerances. Grinding is often the final operation, producing the smooth, precise surfaces that bearings, gears, and other precision components require.
 
@@ -124,9 +124,9 @@ Joining processes connect separate metal pieces into assemblies.
 - *Stick (SMAW)*: Uses a consumable electrode coated in flux. Versatile and portable. Common in [construction](/construction) and repair.
 - *Flux-cored (FCAW)*: Similar to MIG but uses a tubular wire filled with flux. Works well outdoors and on dirty or rusty metal.
 
-Welding is both a science and a craft. The physics of heat input, metallurgy, distortion, and residual stress are complex. The hands-on skill of controlling a weld pool comes only with practice.
+Welding is both a science and a craft. The [physics](/physics) of heat input, metallurgy, distortion, and residual stress are complex. The hands-on skill of controlling a weld pool comes only with practice.
 
-**Brazing and soldering** join metals using a filler metal with a lower melting point than the base metals. The base metals don't melt. Brazing uses filler metals above 450 degrees Celsius; soldering uses filler metals below. Your plumbing connections are likely soldered or brazed. Electronic circuit boards are soldered.
+**Brazing and [soldering](/soldering)** join metals using a filler metal with a lower melting point than the base metals. The base metals don't melt. Brazing uses filler metals above 450 degrees Celsius; soldering uses filler metals below. Your [plumbing](/plumbing) connections are likely soldered or brazed. Electronic circuit boards are soldered.
 
 **Mechanical fastening** uses bolts, rivets, screws, and other fasteners. It's the oldest joining method and still dominates in applications requiring disassembly or where welding isn't practical. Aircraft are predominantly riveted --- the Boeing 747 contains about 6 million fasteners.
 
@@ -182,7 +182,7 @@ Machine guards, proper training, lockout/tagout procedures, and a culture of saf
 
 ## The Modern Machine Shop
 
-A contemporary machine shop looks nothing like a 1950s job shop. CNC machines dominate, running programmed toolpaths designed in CAM (computer-aided manufacturing) software. A skilled CNC programmer/operator sets up jobs, writes or edits programs, selects tooling, and monitors production. [Mechanical engineering](/mechanical-engineering) drawings specify the parts; the machine shop makes them real.
+A contemporary machine shop looks nothing like a 1950s job shop. CNC machines dominate, [running](/running) programmed toolpaths designed in CAM (computer-aided manufacturing) software. A skilled CNC programmer/operator sets up jobs, writes or edits programs, selects tooling, and monitors production. [Mechanical engineering](/mechanical-engineering) drawings specify the parts; the machine shop makes them real.
 
 Multi-axis machining centers can hold a workpiece and machine it from multiple angles without re-clamping, dramatically improving accuracy and reducing production time. Automated tool changers swap between dozens of cutting tools in seconds. Some shops run "lights-out" --- machines operating unattended through the night, with robotic loading and unloading.
 

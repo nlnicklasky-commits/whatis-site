@@ -36,7 +36,7 @@ faq:
 # What Is Canadian History?
 Canadian history is the story of the land, peoples, and events that shaped Canada — from Indigenous civilizations stretching back over 14,000 years through European colonization, confederation, and the emergence of a modern multicultural nation spanning the world's second-largest landmass.
 
-There's a running joke that Canadian history is boring. That's completely wrong. It includes Viking landings a thousand years ago, fur trade empires spanning half a continent, armed rebellions, forced cultural destruction, world-shaping military contributions, and ongoing struggles over identity and reconciliation. The story just gets told quietly — which is, in fairness, very Canadian.
+There's a [running](/running) joke that Canadian history is boring. That's completely wrong. It includes Viking landings a thousand years ago, fur [trade](/trade) empires spanning half a continent, armed rebellions, forced cultural destruction, world-shaping military contributions, and ongoing struggles over identity and reconciliation. The story just gets told quietly — which is, in fairness, very Canadian.
 
 ## Before European Contact
 
@@ -44,7 +44,7 @@ Indigenous peoples lived on this land for millennia before any European ship app
 
 And these weren't uniform societies. The [anthropological](/anthropology) diversity was extraordinary. On the Pacific coast, nations like the Haida and Coast Salish built permanent settlements, created monumental art, and developed complex social hierarchies supported by abundant salmon runs. On the prairies, nations like the Blackfoot and Cree followed bison herds across vast territories. In the eastern woodlands, the Haudenosaunee (Iroquois) Confederacy developed a sophisticated political system that some scholars argue influenced American democratic thought.
 
-The Inuit adapted to Arctic conditions that most Europeans couldn't survive for a week. Their [engineering](/engineering) — kayaks, igloos, specialized hunting tools — represented thousands of years of accumulated knowledge about surviving in one of Earth's harshest environments.
+The Inuit adapted to Arctic conditions that most Europeans couldn't survive for a week. Their [engineering](/engineering) — kayaks, igloos, specialized [hunting](/hunting) tools — represented thousands of years of accumulated knowledge about surviving in one of Earth's harshest environments.
 
 Estimates of pre-contact Indigenous population in what is now Canada range from 500,000 to over 2 million. European diseases — smallpox, measles, influenza — would eventually kill between 50% and 90% of Indigenous populations, depending on the region. This catastrophe is arguably the most consequential event in Canadian history, and it happened largely before permanent European settlement even began.
 
@@ -52,7 +52,7 @@ Estimates of pre-contact Indigenous population in what is now Canada range from 
 
 Vikings reached the coast of Newfoundland around 1000 CE, establishing a short-lived settlement at L'Anse aux Meadows — the first confirmed European presence in the Americas. They left, and Europe forgot about the place for five centuries.
 
-John Cabot's 1497 voyage to Newfoundland (commissioned by England) and Jacques Cartier's explorations of the St. Lawrence River in the 1530s (for France) kicked off the European competition for Canadian territory. But the early motivation wasn't settlement — it was fish. The Grand Banks cod fishery was so absurdly productive that European fishing fleets crossed the Atlantic annually just to harvest it.
+John Cabot's 1497 voyage to Newfoundland (commissioned by England) and Jacques Cartier's explorations of the St. Lawrence River in the 1530s (for France) kicked off the European competition for Canadian territory. But the early motivation wasn't settlement — it was fish. The Grand Banks cod fishery was so absurdly productive that European [fishing](/fishing) fleets crossed the Atlantic annually just to harvest it.
 
 The fur trade transformed everything. European demand for beaver pelts — used to make fashionable felt hats — created an economic system that reshaped the continent. French traders established relationships with Indigenous nations, learned their languages, and often married Indigenous women, creating the Metis people — a distinct cultural group with both European and Indigenous heritage.
 
@@ -62,11 +62,11 @@ The Hudson's Bay Company, chartered in 1670, controlled trading rights over roug
 
 France's North American colony, New France, stretched from the Gulf of St. Lawrence through the Great Lakes and down the Mississippi to Louisiana. It was vast on paper but thinly populated — by 1760, only about 70,000 French settlers lived in the colony, compared to over a million English colonists to the south.
 
-Life in New France centered on the St. Lawrence River valley. The seigneurial system divided land into long, narrow strips running back from the river — a pattern still visible in Quebec's aerial [geography](/geography) today. The Catholic Church dominated social life, education, and moral authority. French-Canadian culture developed its own distinct character, different from both France and English America.
+Life in New France centered on the St. Lawrence River valley. The seigneurial system divided land into long, narrow strips running back from the river — a pattern still visible in Quebec's aerial [geography](/geography) today. The Catholic Church dominated social life, [education](/education), and moral authority. French-Canadian culture developed its own distinct character, different from both France and English America.
 
 The Seven Years' War (1756–1763) ended French control. The Battle of the Plains of Abraham in 1759 — a 15-minute engagement outside Quebec City where both commanding generals died — is probably the most consequential battle in Canadian history. France ceded its North American territories to Britain in the Treaty of Paris (1763).
 
-Britain now faced an awkward question: what to do with 70,000 French-speaking Catholics who hadn't asked to become British subjects? The Quebec Act of 1774 — which guaranteed French [civil law](/civil-law), Catholic religious freedom, and the seigneurial system — answered pragmatically. This tolerance outraged the American colonies (it was listed among their grievances) but kept Quebec loyal to Britain during the American Revolution. The French-English duality it preserved still defines Canadian politics 250 years later.
+Britain now faced an awkward question: what to do with 70,000 French-speaking Catholics who hadn't asked to become British subjects? The Quebec Act of 1774 — which guaranteed French [civil law](/civil-law), Catholic religious freedom, and the seigneurial system — answered pragmatically. This tolerance outraged the American colonies (it was listed among their grievances) but kept Quebec loyal to Britain during the American Revolution. The French-English duality it preserved still defines Canadian [politics](/politics) 250 years later.
 
 ## Confederation and Expansion
 
@@ -106,4 +106,4 @@ Quebec's relationship with the rest of Canada remains the country's central poli
 
 Immigration has remade Canadian demographics. Today, roughly 23% of Canadians are foreign-born — one of the highest rates among major [economies](/economics). Cities like Toronto and Vancouver are among the most ethnically diverse places on Earth.
 
-Canada's story is still unfolding. Reconciliation with Indigenous peoples, climate change's impact on northern communities, Quebec's place in Confederation, relations with the United States — these aren't resolved questions. They're active, contested, and deeply tied to everything that came before. Canadian history may be quiet, but it's never been simple.
+Canada's story is still unfolding. Reconciliation with Indigenous peoples, [climate change](/climate-change)'s impact on northern communities, Quebec's place in Confederation, relations with the United States — these aren't resolved questions. They're active, contested, and deeply tied to everything that came before. Canadian history may be quiet, but it's never been simple.

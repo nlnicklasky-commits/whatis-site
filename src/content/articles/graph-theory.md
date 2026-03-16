@@ -35,7 +35,7 @@ faq:
 
 # What Is Graph Theory?
 
-Graph theory is the branch of mathematics that studies graphs—structures made up of vertices (nodes) connected by edges (links). It provides the formal framework for analyzing relationships, connections, and networks of all kinds, from social media friendships to airline routes to molecular bonds. As one of the most widely applied areas of [mathematics](/applied-mathematics), graph theory drives search engines, social networks, GPS navigation, and much of modern [computer science](/computer-science).
+Graph theory is the branch of [mathematics](/mathematics) that studies graphs—structures made up of vertices (nodes) connected by edges (links). It provides the formal framework for analyzing relationships, connections, and networks of all kinds, from social media friendships to airline routes to molecular bonds. As one of the most widely applied areas of [mathematics](/applied-mathematics), graph theory drives search engines, social networks, GPS [navigation](/navigation), and much of modern [computer science](/computer-science).
 
 ## The Seven Bridges That Started It All
 
@@ -45,7 +45,7 @@ In 1736, the Prussian city of Konigsberg (now Kaliningrad, Russia) had seven bri
 
 The Swiss mathematician Leonhard Euler proved the answer was no—and more importantly, he explained *why*. He stripped away every irrelevant detail (street names, building positions, distances) and reduced the problem to its essence: four land masses (vertices) connected by seven bridges (edges). He then showed that such a walk is possible only if every vertex has an even number of edges. Since all four vertices in the Konigsberg graph had odd numbers of edges, the walk was impossible.
 
-This was the first theorem in graph theory. Euler's insight—that you could solve a problem about physical geography by abstracting it into a pure mathematical structure—created an entirely new field. The problems Euler was tackling look nothing like traditional geometry or [algebra](/algebra). They're about connectivity, paths, and structure rather than distances and equations.
+This was the first theorem in graph theory. Euler's insight—that you could solve a problem about [physical geography](/physical-geography) by abstracting it into a pure mathematical structure—created an entirely new field. The problems Euler was tackling look nothing like traditional [geometry](/geometry) or [algebra](/algebra). They're about connectivity, paths, and structure rather than distances and equations.
 
 ## Graphs: The Basics
 
@@ -81,7 +81,7 @@ Given a list of cities and the distances between each pair, what's the shortest 
 
 The TSP is easy to state and insanely hard to solve. For a small number of cities, you can check all possible routes. But the number of possible routes grows factorially—for 20 cities, there are over 60 quadrillion possible routes. For 100 cities, the number exceeds the number of atoms in the observable universe.
 
-TSP belongs to the class of NP-hard problems (part of [complexity theory](/complexity-theory)), meaning no known algorithm can solve all instances efficiently. But approximate solutions and clever heuristics can find routes that are within a few percent of optimal. TSP-like problems arise in logistics (delivery routing), manufacturing (circuit board drilling), and even DNA sequencing.
+TSP belongs to the class of NP-hard problems (part of [complexity theory](/complexity-theory)), meaning no known algorithm can solve all instances efficiently. But approximate solutions and clever [heuristics](/heuristics) can find routes that are within a few percent of optimal. TSP-like problems arise in [logistics](/logistics) (delivery routing), manufacturing (circuit board drilling), and even DNA sequencing.
 
 ### Graph Coloring
 
@@ -89,7 +89,7 @@ How many colors do you need to color a map so that no two adjacent regions share
 
 The **Four Color Theorem** states that any planar graph (a graph that can be drawn on a flat surface without edges crossing) can be colored with at most four colors. This was conjectured in 1852 and not proved until 1976—and the proof required a computer to check thousands of cases, making it the first major theorem proved with computer assistance. Some mathematicians were uncomfortable with this. Others shrugged and accepted it.
 
-Graph coloring has practical applications beyond cartography. Register allocation in compilers (assigning variables to CPU registers) is a graph coloring problem. Scheduling exams so that no student has two exams at the same time is a graph coloring problem. Frequency assignment in wireless networks—assigning channels to transmitters so nearby transmitters don't interfere—is a graph coloring problem.
+Graph coloring has practical applications beyond [cartography](/cartography). Register allocation in compilers (assigning variables to CPU registers) is a graph coloring problem. [Scheduling](/scheduling) exams so that no student has two exams at the same time is a graph coloring problem. Frequency assignment in wireless networks—assigning channels to transmitters so nearby transmitters don't interfere—is a graph coloring problem.
 
 ### Eulerian and Hamiltonian Paths
 
@@ -137,9 +137,9 @@ Airline route networks are graphs. Logistics companies model their distribution 
 
 Molecular structures are naturally represented as graphs—atoms are vertices, chemical bonds are edges. Graph theory helps chemists enumerate possible molecular structures, predict properties, and search for drugs with specific characteristics.
 
-Biological networks—protein interaction networks, gene regulatory networks, metabolic networks, neural networks—are all studied using graph theory. The structure of these networks reveals functional organization that isn't apparent from studying individual components.
+Biological networks—protein interaction networks, gene regulatory networks, metabolic networks, [neural networks](/neural-networks)—are all studied using graph theory. The structure of these networks reveals functional organization that isn't apparent from studying individual components.
 
-In epidemiology, disease transmission is modeled as a graph process—infections spread along edges of a contact network. Understanding the structure of social contact networks helps predict how diseases will spread and which interventions (like targeted vaccination of highly connected individuals) will be most effective.
+In [epidemiology](/epidemiology), disease transmission is modeled as a graph process—infections spread along edges of a contact network. Understanding the structure of social contact networks helps predict how diseases will spread and which interventions (like targeted vaccination of highly connected individuals) will be most effective.
 
 ### Computer Science
 
@@ -175,7 +175,7 @@ Applications: designing communication networks, laying cable or pipe, and cluste
 
 How much "stuff" (data, water, traffic) can flow from a source to a sink through a network with capacity-limited edges? The Ford-Fulkerson algorithm and its improvements solve this problem.
 
-Maximum flow algorithms apply to network bandwidth planning, airline scheduling, supply chain optimization, and surprisingly, to bipartite matching problems (like assigning students to dorm rooms or workers to tasks).
+Maximum flow algorithms apply to network bandwidth planning, airline scheduling, supply chain [optimization](/optimization), and surprisingly, to bipartite matching problems (like assigning students to dorm rooms or workers to tasks).
 
 ## Advanced Topics
 
@@ -197,7 +197,7 @@ Google's PageRank is essentially a spectral method—it computes the dominant ei
 
 ### Extremal Graph Theory
 
-How many edges can a graph have while avoiding certain substructures? The Turan problem, the Ramsey problem, and the Szemeredi regularity lemma are central results in this area. These problems connect graph theory to combinatorics, number theory, and probability.
+How many edges can a graph have while avoiding certain substructures? The Turan problem, the Ramsey problem, and the Szemeredi regularity lemma are central results in this area. These problems connect graph theory to combinatorics, [number theory](/number-theory), and probability.
 
 ## The Beauty of Abstraction
 
@@ -211,6 +211,6 @@ This is why graph theory is one of the fastest-growing areas of mathematics. As 
 
 Graph theory is the mathematical study of networks—vertices connected by edges. Born from Euler's 1736 analysis of the Konigsberg bridges, it has grown into one of the most applied areas of mathematics.
 
-Its fundamental problems—shortest paths, coloring, planarity, traversal—have elegant theoretical solutions and massive practical applications. Graph [algorithms](/algorithms) power search engines, social networks, navigation systems, and logistics. Graph models appear in biology, chemistry, sociology, and engineering.
+Its fundamental problems—shortest paths, coloring, planarity, traversal—have elegant theoretical solutions and massive practical applications. Graph [algorithms](/algorithms) power search engines, social networks, navigation systems, and logistics. Graph models appear in [biology](/biology), [chemistry](/chemistry), [sociology](/sociology), and [engineering](/engineering).
 
 The field thrives because of its abstraction: by reducing complex systems to their connection structure, graph theory reveals patterns and enables solutions that would be invisible without this mathematical lens. In a world defined by connections—between people, computers, molecules, and ideas—graph theory provides the language for understanding how those connections work.

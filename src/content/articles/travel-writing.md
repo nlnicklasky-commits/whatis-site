@@ -31,7 +31,7 @@ faq:
 
 # What Is Travel Writing?
 
-Travel writing is the art of capturing the experience of a place — its sights, sounds, people, food, history, and atmosphere — through narrative [prose](/prose). It's not just describing where you went. It's making readers feel like they've been there, or making them desperately want to go.
+Travel [writing](/writing) is the art of capturing the experience of a place — its sights, sounds, people, food, history, and atmosphere — through narrative [prose](/prose). It's not just describing where you went. It's making readers feel like they've been there, or making them desperately want to go.
 
 The genre is older than you might think. Herodotus was writing about his travels through Egypt and Persia in the 5th century BCE. Marco Polo's accounts of China captivated medieval Europe. Ibn Battuta covered roughly 75,000 miles across Africa, Asia, and Europe in the 14th century. The impulse to travel and then tell people about it is ancient.
 

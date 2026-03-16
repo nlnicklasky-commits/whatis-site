@@ -35,13 +35,13 @@ faq:
 
 # What Is Theoretical Computer Science?
 
-Theoretical computer science (TCS) is the branch of computer science that studies the mathematical foundations of computation, including what problems can be solved algorithmically, how efficiently they can be solved, and what fundamental limits exist on computational processes. It operates primarily through mathematical proof rather than programming or experimentation.
+Theoretical [computer science](/computer-science) (TCS) is the branch of computer science that studies the mathematical foundations of computation, including what problems can be solved algorithmically, how efficiently they can be solved, and what fundamental limits exist on computational processes. It operates primarily through mathematical proof rather than programming or experimentation.
 
 ## The Science of What Computers Can't Do
 
 Here's the thing most people get wrong about theoretical computer science: it's not really about computers. It's about computation — the abstract process of transforming input into output according to rules. The physical machine sitting on your desk is just one implementation.
 
-And the most surprising results in TCS aren't about what computers can do — they're about what computers *can't* do. There are precisely defined problems that no computer, no matter how fast or how large, will ever solve. There are other problems that can technically be solved but would take longer than the age of the universe even on the fastest imaginable machine. These aren't engineering limitations. They're mathematical certainties.
+And the most surprising results in TCS aren't about what computers can do — they're about what computers *can't* do. There are precisely defined problems that no computer, no matter how fast or how large, will ever solve. There are other problems that can technically be solved but would take longer than the age of the universe even on the fastest imaginable machine. These aren't [engineering](/engineering) limitations. They're mathematical certainties.
 
 That makes TCS unusual among the sciences. Most fields push to expand what's possible. TCS maps the boundaries — and some of those boundaries are absolute.
 
@@ -71,7 +71,7 @@ The halting problem was the first of many undecidability results. It established
 
 ## Complexity Theory — The Hierarchy of Hard
 
-Computability theory tells you whether a problem can be solved at all. Complexity theory — arguably the heart of modern TCS — asks: for problems that *can* be solved, how much does the solution cost in time and memory?
+Computability theory tells you whether a problem can be solved at all. [Complexity theory](/complexity-theory) — arguably the heart of modern TCS — asks: for problems that *can* be solved, how much does the solution cost in time and memory?
 
 ### Big-O Notation and Growth Rates
 
@@ -95,7 +95,7 @@ The difference between polynomial time (n, n², n³) and exponential time (2^n) 
 
 Clearly, every problem in P is also in NP (if you can solve it quickly, you can certainly verify it quickly). The question is: does NP contain problems that aren't in P? In other words, are there problems that are easy to check but hard to solve?
 
-This is the P vs NP problem, and it's the single most important open question in theoretical computer science. The Clay Mathematics Institute has offered $1 million for its resolution. Most experts believe P ≠ NP — that there really are problems that are fundamentally harder to solve than to verify. But nobody has proven it.
+This is the P vs NP problem, and it's the single most important open question in theoretical computer science. The Clay [Mathematics](/mathematics) Institute has offered $1 million for its resolution. Most experts believe P ≠ NP — that there really are problems that are fundamentally harder to solve than to verify. But nobody has proven it.
 
 Why does it matter? Because if P = NP, then:
 - Every encryption scheme based on computational hardness could be broken efficiently
@@ -111,7 +111,7 @@ In 1971, Stephen Cook proved that the Boolean satisfiability problem (SAT) — g
 
 Shortly after, Richard Karp showed that 21 other well-known problems are also NP-complete, including the traveling salesman problem, graph coloring, [integer programming](/integer-programming), and the knapsack problem. Today, thousands of problems are known to be NP-complete.
 
-The practical impact is huge. When a programmer encounters an NP-complete problem, they know (with very high confidence) that no efficient exact algorithm exists. They need approximation algorithms, heuristics, or restricted versions of the problem. This knowledge saves enormous amounts of wasted effort.
+The practical impact is huge. When a programmer encounters an NP-complete problem, they know (with very high confidence) that no efficient exact algorithm exists. They need approximation algorithms, [heuristics](/heuristics), or restricted versions of the problem. This knowledge saves enormous amounts of wasted effort.
 
 ## Automata Theory — The Simplest Machines
 
@@ -127,7 +127,7 @@ This hierarchy — finite automata < pushdown automata < Turing machines — is 
 
 ## Information Theory and Coding
 
-Claude Shannon's 1948 paper "A Mathematical Theory of Communication" founded information theory, which sits squarely within TCS. Shannon defined information mathematically — as the reduction in uncertainty — and proved fundamental limits on data compression and error-free communication.
+Claude Shannon's 1948 paper "A Mathematical Theory of Communication" founded [information theory](/information-theory), which sits squarely within TCS. Shannon defined information mathematically — as the reduction in uncertainty — and proved fundamental limits on data compression and error-free communication.
 
 **Shannon entropy** measures the information content of a message source. A fair coin flip has 1 bit of entropy. A biased coin (say, 90% heads) has less — about 0.47 bits per flip — because the outcome is more predictable. You can't compress data below its entropy without losing information. This sets absolute limits on compression algorithms.
 
@@ -172,7 +172,7 @@ Because TCS determines what technology can and cannot do. Every time you:
 - Watch Netflix, you're using data compression rooted in information theory
 - Trust a digital signature, you're depending on number-theoretic hardness
 
-The boundaries mapped by theoretical computer science constrain every piece of software, every [machine learning](/machine-learning) model, every cybersecurity system. Understanding those boundaries — even roughly — is understanding the architecture of the digital world.
+The boundaries mapped by theoretical computer science constrain every piece of software, every [machine learning](/machine-learning) model, every [cybersecurity](/cybersecurity) system. Understanding those boundaries — even roughly — is understanding the [architecture](/architecture) of the digital world.
 
 And the open questions are genuinely thrilling. P vs NP alone, if resolved, could reshape mathematics, computer science, economics, and cryptography simultaneously. The people working on these problems are trying to understand the fundamental nature of efficient computation — what it means, what it allows, and where it hits a wall.
 

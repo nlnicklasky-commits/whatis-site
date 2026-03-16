@@ -35,7 +35,7 @@ faq:
 
 # What Is Electrodynamics?
 
-Electrodynamics is the branch of physics that studies the interactions between electric charges, electric fields, magnetic fields, and electromagnetic radiation — particularly when those charges are moving and those fields are changing over time. It is described mathematically by Maxwell's equations, which together form one of the most successful and elegant theories in [the history of science](/the-history-of-science).
+Electrodynamics is the branch of [physics](/physics) that studies the interactions between electric charges, electric fields, magnetic fields, and electromagnetic radiation — particularly when those charges are moving and those fields are changing over time. It is described mathematically by Maxwell's equations, which together form one of the most successful and elegant theories in [the history of science](/the-history-of-science).
 
 ## Why "Dynamics" Matters
 
@@ -53,7 +53,7 @@ Charles-Augustin de Coulomb established in 1785 that the electric force between 
 
 ### Ampere's Law and Magnetic Forces
 
-Andre-Marie Ampere showed in the 1820s that electric currents create magnetic fields and that parallel currents attract each other while antiparallel currents repel. This connected electricity and magnetism for the first time — they weren't separate phenomena but aspects of something unified.
+Andre-Marie Ampere showed in the 1820s that electric currents create magnetic fields and that parallel currents attract each other while antiparallel currents repel. This connected [electricity](/electricity) and [magnetism](/magnetism) for the first time — they weren't separate phenomena but aspects of something unified.
 
 ### Faraday's Induction
 
@@ -112,7 +112,7 @@ The result is an electromagnetic wave — oscillating electric and magnetic fiel
 All electromagnetic waves share the same fundamental nature — they differ only in frequency (and correspondingly, wavelength):
 
 - **Radio waves**: ~3 kHz to 300 GHz (communication, broadcast)
-- **Microwaves**: ~300 MHz to 300 GHz (cooking, radar, WiFi)
+- **Microwaves**: ~300 MHz to 300 GHz ([cooking](/cooking), radar, WiFi)
 - **Infrared**: ~300 GHz to 430 THz (heat, remote controls, thermal imaging)
 - **Visible light**: ~430 THz to 770 THz (the narrow band your eyes detect)
 - **Ultraviolet**: ~770 THz to 30 PHz (sunburn, sterilization)
@@ -172,7 +172,7 @@ The power radiated by an accelerating charge is proportional to the square of th
 
 ## Special Relativity: Electrodynamics Demands It
 
-Here's something that surprised even Einstein's contemporaries: special relativity isn't a separate theory from electrodynamics. It's a consequence of it.
+Here's something that surprised even Einstein's contemporaries: special [relativity](/relativity) isn't a separate theory from electrodynamics. It's a consequence of it.
 
 Maxwell's equations predict that electromagnetic waves travel at speed c regardless of the motion of the source or the observer. This is deeply weird by Newtonian standards. If you throw a ball at 20 mph from a car traveling 60 mph, the ball moves at 80 mph relative to the ground. But if you shoot a light beam from a spaceship traveling at half the speed of light, the beam still moves at exactly c relative to you and relative to the ground.
 
@@ -182,7 +182,7 @@ The relationship goes deeper. What one observer sees as a pure electric field, a
 
 ## Classical vs. [Quantum Electrodynamics](/quantum-electrodynamics)
 
-Classical electrodynamics — Maxwell's equations and the Lorentz force — works magnificently for most practical purposes. Radio engineering, power systems, antenna design, electromagnetic compatibility — all use classical theory with complete confidence.
+Classical electrodynamics — Maxwell's equations and the Lorentz force — works magnificently for most practical purposes. Radio [engineering](/engineering), power systems, antenna design, electromagnetic compatibility — all use classical theory with complete confidence.
 
 But at the atomic scale, classical electrodynamics fails. It predicts that electrons orbiting an atomic nucleus should radiate energy continuously and spiral into the nucleus in about 10^-11 seconds. Atoms should be unstable. They obviously aren't.
 
@@ -194,13 +194,13 @@ QED is arguably the most precisely tested theory in all of physics. Its predicti
 
 ### Antenna Design
 
-Every wireless device uses antennas designed using electrodynamic principles. The antenna's geometry determines which frequencies it resonates with, how directionally it radiates, and how efficiently it converts between guided signals and free-space waves. Modern antenna design uses computational methods (finite-difference time-domain, method of moments) to solve Maxwell's equations numerically for complex geometries.
+Every wireless device uses antennas designed using electrodynamic principles. The antenna's [geometry](/geometry) determines which frequencies it resonates with, how directionally it radiates, and how efficiently it converts between guided signals and free-space waves. Modern antenna design uses computational methods (finite-difference time-domain, method of moments) to solve Maxwell's equations numerically for complex geometries.
 
 The antennas in your phone, for instance, must operate at multiple frequencies (cellular, WiFi, Bluetooth, GPS) within a volume barely larger than a few cubic centimeters. Achieving this requires carefully engineered electromagnetic resonances.
 
 ### Electromagnetic Compatibility
 
-Modern electronics must coexist without interfering with each other. The field of electromagnetic compatibility (EMC) uses electrodynamic analysis to predict and prevent unwanted electromagnetic coupling between circuits. This is why sensitive electronics are shielded with metal enclosures, why cables are twisted or shielded, and why regulatory bodies enforce emission limits on electronic devices.
+Modern [electronics](/electronics) must coexist without interfering with each other. The field of electromagnetic compatibility (EMC) uses electrodynamic analysis to predict and prevent unwanted electromagnetic coupling between circuits. This is why sensitive electronics are shielded with metal enclosures, why cables are twisted or shielded, and why regulatory bodies enforce emission limits on electronic devices.
 
 ### Waveguides and Fiber Optics
 
@@ -222,4 +222,4 @@ That's quite a lot for four equations and a force law.
 
 ## Key Takeaways
 
-Electrodynamics is the physics of electric and magnetic fields in motion and interaction, described by Maxwell's four equations and the Lorentz force law. It predicts electromagnetic waves (light, radio, X-rays) as self-sustaining oscillations of coupled electric and magnetic fields traveling at speed c. The theory demands special relativity, connects to quantum mechanics through QED, and is the foundation of virtually all modern electromagnetic technology — from antennas and fiber optics to MRI machines and particle accelerators. It remains one of the most successful and far-reaching theories in the history of science.
+Electrodynamics is the physics of electric and magnetic fields in motion and interaction, described by Maxwell's four equations and the Lorentz force law. It predicts electromagnetic waves (light, radio, X-rays) as self-sustaining oscillations of coupled electric and magnetic fields traveling at speed c. The theory demands special relativity, connects to quantum mechanics through QED, and is the foundation of virtually all modern electromagnetic technology — from antennas and [fiber optics](/fiber-optics) to MRI machines and particle accelerators. It remains one of the most successful and far-reaching theories in the history of science.

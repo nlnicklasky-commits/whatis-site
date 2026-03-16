@@ -35,15 +35,15 @@ faq:
 
 # What Is Hydrodynamics?
 
-Hydrodynamics is the branch of physics and engineering that studies fluids in motion — how they flow, what forces they exert, and how objects moving through fluids experience resistance, lift, and pressure. While the term historically referred specifically to water (from the Greek *hydro*, water, and *dynamis*, power), modern hydrodynamics applies to all liquids and shares mathematical foundations with [aerodynamics](/aerodynamics), its gas-phase counterpart.
+Hydrodynamics is the branch of [physics](/physics) and [engineering](/engineering) that studies fluids in motion — how they flow, what forces they exert, and how objects moving through fluids experience resistance, lift, and pressure. While the term historically referred specifically to water (from the Greek *hydro*, water, and *dynamis*, power), modern hydrodynamics applies to all liquids and shares mathematical foundations with [aerodynamics](/aerodynamics), its gas-phase counterpart.
 
 ## Why Fluid Motion Is Surprisingly Hard to Understand
 
 You might think flowing water is simple. It's not. Not even close.
 
-Here's the problem: in a solid, each particle stays in a fixed position relative to its neighbors. In a fluid, particles are free to move in any direction, at any speed, and their motion is coupled to the motion of every other particle around them. A tiny change upstream can produce dramatically different flow patterns downstream. The equations governing fluid motion — the Navier-Stokes equations — are among the most difficult in all of physics. Proving whether solutions to them always exist and behave smoothly is one of the seven Clay Mathematics Institute Millennium Prize Problems, carrying a $1 million bounty. As of 2026, it remains unsolved.
+Here's the problem: in a solid, each particle stays in a fixed position relative to its neighbors. In a fluid, particles are free to move in any direction, at any speed, and their motion is coupled to the motion of every other particle around them. A tiny change upstream can produce dramatically different flow patterns downstream. The equations governing fluid motion — the Navier-Stokes equations — are among the most difficult in all of physics. Proving whether solutions to them always exist and behave smoothly is one of the seven Clay [Mathematics](/mathematics) Institute Millennium Prize Problems, carrying a $1 million bounty. As of 2026, it remains unsolved.
 
-Richard Feynman, one of the 20th century's greatest physicists, described turbulence as "the most important unsolved problem of classical physics." Werner Heisenberg reportedly said on his deathbed that he would ask God two questions: "Why relativity? And why turbulence?" He expected God to have an answer to the first.
+Richard Feynman, one of the 20th century's greatest physicists, described turbulence as "the most important unsolved problem of classical physics." Werner Heisenberg reportedly said on his deathbed that he would ask God two questions: "Why [relativity](/relativity)? And why turbulence?" He expected God to have an answer to the first.
 
 Those are physicists joking — sort of. The difficulty is real.
 
@@ -73,7 +73,7 @@ This explains a startling number of phenomena:
 
 - **How airplane wings generate lift** — partially. Air flowing faster over the curved upper surface creates lower pressure than the slower flow beneath. (The full explanation involves circulation and angle of attack, not Bernoulli alone, but the pressure difference is real.)
 
-- **Why a spinning ball curves.** A ball spinning in flight drags air faster around one side (where spin and airflow align) than the other (where they oppose). The pressure difference pushes the ball sideways. This Magnus effect is why curveballs curve and why soccer players can bend free kicks around walls.
+- **Why a spinning ball curves.** A ball spinning in flight drags air faster around one side (where spin and airflow align) than the other (where they oppose). The pressure difference pushes the ball sideways. This Magnus effect is why curveballs curve and why [soccer](/soccer) players can bend free kicks around walls.
 
 ### The Reynolds Number: Order and Chaos
 
@@ -99,7 +99,7 @@ These are the familiar wind-driven waves on oceans and lakes. Wind transfers ene
 
 Wave speed depends on wavelength. In deep water (depth > half the wavelength), speed equals approximately 1.25 times the square root of the wavelength in meters. Longer waves travel faster — which is why a distant storm's swell arrives at the beach as long, evenly-spaced waves (the long, fast waves outrun the short, slow ones).
 
-As waves approach shore and the water shallows, they slow down, steepen, and eventually break. The physics of wave breaking — still not fully described analytically — is important for coastal engineering, surfing (obviously), and understanding sediment transport.
+As waves approach shore and the water shallows, they slow down, steepen, and eventually break. The physics of wave breaking — still not fully described analytically — is important for coastal engineering, [surfing](/surfing) (obviously), and understanding sediment transport.
 
 ### Tsunamis
 
@@ -109,7 +109,7 @@ As a tsunami enters shallow coastal water, it slows down and its energy concentr
 
 ### Internal Waves
 
-Invisible from the surface, internal waves form at boundaries between water layers of different density (temperature or salinity). They can be enormous — some internal waves in the South China Sea are over 500 feet tall. They affect submarine navigation, ocean mixing, and nutrient transport. Satellite imagery can detect their surface signatures (slight changes in surface roughness caused by the internal wave's influence on near-surface currents).
+Invisible from the surface, internal waves form at boundaries between water layers of different density (temperature or salinity). They can be enormous — some internal waves in the South China Sea are over 500 feet tall. They affect submarine [navigation](/navigation), ocean mixing, and nutrient transport. Satellite imagery can detect their surface signatures (slight changes in surface roughness caused by the internal wave's influence on near-surface currents).
 
 ## Practical Applications
 
@@ -117,7 +117,7 @@ Invisible from the surface, internal waves form at boundaries between water laye
 
 Designing efficient ships is a hydrodynamic problem. A ship moving through water creates wave drag (energy lost to generating waves) and viscous drag (friction between the hull and water). The relative importance of each depends on speed and hull shape.
 
-Hull design optimization has been ongoing for centuries. Bulbous bows — the rounded protrusions below the waterline on modern ships — create a wave that partially cancels the bow wave, reducing wave drag by up to 15%. Computer-aided hydrodynamic simulation allows testing thousands of hull shapes before building a single model.
+Hull design [optimization](/optimization) has been ongoing for centuries. Bulbous bows — the rounded protrusions below the waterline on modern ships — create a wave that partially cancels the bow wave, reducing wave drag by up to 15%. Computer-aided hydrodynamic simulation allows testing thousands of hull shapes before building a single model.
 
 The [Froude number](/classical-mechanics) (Fr = velocity / sqrt(g × length)) is the key parameter for ship resistance. Below Fr ≈ 0.4, wave drag is manageable. Above it, wave drag increases sharply. This is why ships have practical speed limits — and why making a ship faster requires dramatically more power. Doubling a ship's speed roughly octuples its drag.
 
@@ -131,7 +131,7 @@ For turbulent flow (most practical pipe flows), the Moody diagram relates fricti
 
 ### Hydropower
 
-Converting the kinetic and potential energy of flowing water to electricity requires hydrodynamic design of turbines. Francis turbines (for medium head, medium flow), Kaplan turbines (low head, high flow), and Pelton wheels (high head, low flow) each optimize for different hydrodynamic conditions.
+Converting the kinetic and potential energy of flowing water to [electricity](/electricity) requires hydrodynamic design of turbines. Francis turbines (for medium head, medium flow), Kaplan turbines (low head, high flow), and Pelton wheels (high head, low flow) each optimize for different hydrodynamic conditions.
 
 Hydropower provides about 16% of global electricity. The Three Gorges Dam in China — the world's largest hydroelectric facility — generates 22,500 MW from 32 Francis turbines, each designed through extensive hydrodynamic analysis to maximize energy extraction while minimizing cavitation damage.
 
@@ -181,7 +181,7 @@ I've mentioned turbulence multiple times because it really is the field's centra
 - It contains structures (eddies, vortices) across a wide range of scales
 - Energy cascades from large scales to small scales (Kolmogorov's 1941 theory)
 - Small-scale turbulence has universal statistical properties independent of how it was generated
-- Large-scale turbulence depends strongly on geometry and boundary conditions
+- Large-scale turbulence depends strongly on [geometry](/geometry) and boundary conditions
 
 What we don't know: how to predict turbulent flow from first principles without either resolving every scale (DNS) or using empirical models (RANS, LES).
 

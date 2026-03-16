@@ -103,7 +103,7 @@ The strategy worked — but it cost territory. Siam ceded what is now Laos and p
 
 ## Constitutional Monarchy and Military Rule (1932-Present)
 
-On June 24, 1932, a group of military officers and civilian intellectuals called the Khana Ratsadon (People's Party) staged a bloodless coup that ended the absolute monarchy. Thailand became a constitutional monarchy, but the transition to stable democracy has been anything but smooth.
+On June 24, 1932, a group of military officers and civilian intellectuals called the Khana Ratsadon (People's Party) staged a bloodless coup that ended the absolute [monarchy](/monarchy). Thailand became a constitutional monarchy, but the transition to stable democracy has been anything but smooth.
 
 Since 1932, Thailand has experienced 13 successful military coups — more than any other country in the world. The pattern is remarkably consistent: elected [government](/government), political crisis, military intervention, new constitution, elections, repeat. The most recent coups occurred in 2006 and 2014.
 

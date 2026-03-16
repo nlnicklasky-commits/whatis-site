@@ -61,7 +61,7 @@ The molecular gastronomy label has fallen out of fashion (many chefs disliked be
 
 Gastronomy's richest vein might be the cultural one. What people eat — and how, when, where, and with whom they eat it — reveals enormous amounts about their society.
 
-**National cuisines** encode history. The spice trade shaped Indian and Southeast Asian cooking. The Columbian Exchange (post-1492 transfer of foods between Old and New Worlds) transformed Italian cuisine (tomatoes), Irish cuisine (potatoes), and Thai cuisine (chili peppers). None of these "traditional" foods existed in those cuisines before the 16th century.
+**National cuisines** encode history. The spice [trade](/trade) shaped Indian and Southeast Asian cooking. The Columbian Exchange (post-1492 transfer of foods between Old and New Worlds) transformed Italian cuisine (tomatoes), Irish cuisine (potatoes), and Thai cuisine (chili peppers). None of these "traditional" foods existed in those cuisines before the 16th century.
 
 **Social class** is written in food traditions. Throughout history, what you ate signaled your status — white bread for the wealthy, dark bread for the poor; fresh meat for nobles, salted fish for commoners. Modern gastronomy grapples with this too — "fine dining" implies expense and exclusivity, while the most exciting food often comes from immigrant communities and working-class traditions.
 

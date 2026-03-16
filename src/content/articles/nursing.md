@@ -101,13 +101,13 @@ Modern healthcare involves multiple providers — physicians, specialists, thera
 
 ### Patient and Family Education
 
-Teaching patients about their conditions, medications, and self-care is a core nursing function. A diabetic patient leaving the hospital needs to understand insulin administration, blood glucose monitoring, dietary management, and warning signs. That education typically comes from nurses.
+[Teaching](/teaching) patients about their conditions, medications, and self-care is a core nursing function. A diabetic patient leaving the hospital needs to understand insulin administration, blood glucose monitoring, dietary management, and warning signs. That education typically comes from nurses.
 
 ## Major Nursing Specialties
 
 The breadth of nursing specialties is staggering. Here are some of the most common.
 
-**Critical care / ICU nursing.** Caring for the most acutely ill patients — those on ventilators, recovering from major surgery, or experiencing organ failure. ICU nurses typically manage one to two patients at a time, with continuous monitoring.
+**Critical care / ICU nursing.** Caring for the most acutely ill patients — those on ventilators, recovering from major [surgery](/surgery), or experiencing organ failure. ICU nurses typically manage one to two patients at a time, with continuous monitoring.
 
 **Emergency nursing.** The front line. ED nurses triage patients, stabilize trauma victims, manage everything from heart attacks to broken fingers, and deal with the unpredictable chaos of the emergency department.
 
@@ -129,7 +129,7 @@ You've probably heard about it. The nursing shortage is real, and it's getting w
 
 ## Nursing Ethics and Advocacy
 
-Nursing has its own code of ethics, distinct from [medical ethics](/medical-ethics). The ANA Code of Ethics for Nurses emphasizes the nurse's primary commitment to the patient, the duty to protect patient rights, and the responsibility to advocate for systemic change when institutional practices threaten patient welfare.
+Nursing has its own code of [ethics](/ethics), distinct from [medical ethics](/medical-ethics). The ANA Code of Ethics for Nurses emphasizes the nurse's primary commitment to the patient, the duty to protect patient rights, and the responsibility to advocate for systemic change when institutional practices threaten patient welfare.
 
 That advocacy role is worth highlighting. Nurses frequently find themselves in situations where they need to push back — questioning a medication order that seems incorrect, raising concerns about staffing levels, or insisting that a patient's wishes be respected. It takes professional courage, and it's one of the reasons why nursing consistently ranks as the most trusted profession in Gallup's annual honesty and ethics poll — a position it has held for over 20 consecutive years.
 

@@ -38,13 +38,13 @@ faq:
 # What Is Zodiac?
 The zodiac is a band of sky extending roughly 8 degrees on either side of the ecliptic — the apparent path the sun traces across the sky over a year — divided into 12 sections, each named after a constellation. It's been used for thousands of years in both [astronomy](/astronomy) and [astrology](/astrology) to track celestial positions, mark seasons, and (more controversially) predict human behavior.
 
-Whether you check your horoscope every morning or roll your eyes at anyone who asks "what's your sign," the zodiac has shaped human culture in ways you probably don't realize. It influenced ancient calendars, navigation systems, agricultural planning, and — yes — billions of people's daily routines. About 29% of Americans believe in astrology according to a 2022 Pew Research survey. That's not a small number.
+Whether you check your horoscope every morning or roll your eyes at anyone who asks "what's your sign," the zodiac has shaped human culture in ways you probably don't realize. It influenced ancient calendars, [navigation](/navigation) systems, agricultural planning, and — yes — billions of people's daily routines. About 29% of Americans believe in astrology according to a 2022 Pew Research survey. That's not a small number.
 
 ## Where the Zodiac Came From
 
 The zodiac didn't appear overnight. Its roots stretch back at least 3,000 years, to ancient Mesopotamia — specifically to the Babylonians around 1000 BCE, though earlier precursors existed.
 
-The Babylonians were obsessive sky-watchers. They needed to track seasons for agriculture, and they noticed that certain star patterns appeared at predictable times throughout the year. They identified 18 constellations along the sun's path, then eventually narrowed that down to 12 — one for each month of their lunar calendar. Practical, tidy, and mathematically convenient.
+The Babylonians were obsessive sky-watchers. They needed to track seasons for [agriculture](/agriculture), and they noticed that certain star patterns appeared at predictable times throughout the year. They identified 18 constellations along the sun's path, then eventually narrowed that down to 12 — one for each month of their lunar calendar. Practical, tidy, and mathematically convenient.
 
 Here's the thing most people miss: the Babylonians weren't doing astrology the way we think of it. They were doing something closer to state-level divination. They watched the skies for omens that might affect the king and the kingdom — not to figure out whether Tuesday was a good day for a first date.
 
@@ -56,7 +56,7 @@ The Greek word "zodiakos" means "circle of animals," which makes sense — most 
 
 Each zodiac sign corresponds to a constellation the sun appears to pass through during a specific time of year:
 
-- **Aries (March 21 – April 19):** The ram. Associated with the golden ram of Greek mythology.
+- **Aries (March 21 – April 19):** The ram. Associated with the golden ram of [Greek mythology](/greek-mythology).
 - **Taurus (April 20 – May 20):** The bull. Linked to Zeus's disguise as a white bull.
 - **Gemini (May 21 – June 20):** The twins. Represents Castor and Pollux.
 - **Cancer (June 21 – July 22):** The crab. Sent by Hera to fight Heracles.
@@ -73,7 +73,7 @@ These date ranges are approximate — and frankly, they're based on where the su
 
 ## The Astronomy Behind the Zodiac
 
-Let's separate the science from the storytelling. From an astronomical perspective, the zodiac is simply a coordinate system — a way to describe positions in the sky.
+Let's separate the science from the [storytelling](/storytelling). From an astronomical perspective, the zodiac is simply a coordinate system — a way to describe positions in the sky.
 
 The ecliptic is the plane of Earth's orbit around the sun. From our perspective on Earth, it looks like the sun moves through the sky along this plane over the course of a year. The constellations that happen to sit along this path are the zodiacal constellations.
 
@@ -117,7 +117,7 @@ The 12 astrological houses divide the sky into sections, each governing a differ
 6. Health and daily routines
 7. Partnerships and marriage
 8. Transformation and shared resources
-9. Travel and higher education
+9. Travel and higher [education](/education)
 10. Career and public reputation
 11. Friends and aspirations
 12. Subconscious and hidden matters
@@ -136,7 +136,7 @@ Unlike Western astrology, which focuses on the moment of birth, Chinese astrolog
 
 ### Vedic (Jyotish) Astrology
 
-Indian astrology, or Jyotish, shares historical roots with Western astrology but diverged significantly. It uses the sidereal zodiac (accounting for precession), includes 27 lunar mansions called nakshatras, and emphasizes karma and dharma. In India, [astrology](/astrology) is woven into daily life — many families consult astrologers for marriage compatibility, business decisions, and naming children.
+Indian astrology, or Jyotish, shares historical roots with Western astrology but diverged significantly. It uses the sidereal zodiac ([accounting](/accounting) for precession), includes 27 lunar mansions called nakshatras, and emphasizes karma and dharma. In India, [astrology](/astrology) is woven into daily life — many families consult astrologers for marriage compatibility, business decisions, and naming children.
 
 ### Mayan and Aztec Systems
 
@@ -160,7 +160,7 @@ So why do people still find astrology convincing? Several psychological mechanis
 
 **Confirmation bias** means we remember the hits and forget the misses. If your horoscope says you'll have an important conversation today and you happen to have one, you remember it. If nothing notable happens, you forget the prediction entirely.
 
-**Self-fulfilling prophecy** can also play a role. If you believe Leos are confident, and you're a Leo, you might act more confidently — not because the stars made you that way, but because you adopted the identity.
+**Self-fulfilling [prophecy](/prophecy)** can also play a role. If you believe Leos are confident, and you're a Leo, you might act more confidently — not because the stars made you that way, but because you adopted the identity.
 
 ## The Zodiac in History and Culture
 
@@ -192,7 +192,7 @@ One genuinely cool astronomical phenomenon related to the zodiac: **zodiacal lig
 
 ### Exoplanets and the Ecliptic
 
-Most exoplanets discovered by missions like Kepler and TESS orbit their stars along planes similar to our ecliptic. This isn't coincidence — it reflects how planetary systems form from rotating disks of gas and dust. The zodiacal plane isn't just an Earth-centric concept; it reflects genuine physics about how solar systems are organized.
+Most exoplanets discovered by missions like Kepler and TESS orbit their stars along planes similar to our ecliptic. This isn't coincidence — it reflects how planetary systems form from rotating disks of gas and dust. The zodiacal plane isn't just an Earth-centric concept; it reflects genuine [physics](/physics) about how solar systems are organized.
 
 ## The Philosophical Angle
 

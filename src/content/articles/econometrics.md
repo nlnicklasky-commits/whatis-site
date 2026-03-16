@@ -37,7 +37,7 @@ faq:
 
 # What Is Econometrics?
 
-Econometrics is the application of statistical methods, mathematical models, and computational techniques to economic data in order to test economic theories, estimate causal relationships, and produce forecasts. It sits at the intersection of economics, statistics, and [mathematics](/mathematics), turning abstract economic ideas into testable, quantifiable propositions.
+Econometrics is the application of statistical methods, mathematical models, and computational techniques to economic data in order to test economic theories, estimate causal relationships, and produce forecasts. It sits at the intersection of [economics](/economics), [statistics](/statistics), and [mathematics](/mathematics), turning abstract economic ideas into testable, quantifiable propositions.
 
 ## Why Economics Needed Its Own Statistics
 
@@ -63,7 +63,7 @@ Y = β₀ + β₁X + ε
 
 OLS finds the values of β₀ and β₁ that minimize the sum of squared differences between your predicted Y values and the actual Y values in your data. Geometrically, it finds the line of best fit through a scatter plot of data points.
 
-The coefficient β₁ tells you: on average, how much does Y change when X increases by one unit? If β₁ = 2,500 in a wage-education regression, an extra year of education is associated with $2,500 higher wages, on average.
+The coefficient β₁ tells you: on average, how much does Y change when X increases by one unit? If β₁ = 2,500 in a wage-[education](/education) regression, an extra year of education is associated with $2,500 higher wages, on average.
 
 ### Multiple Regression
 
@@ -71,7 +71,7 @@ Real economic questions involve many variables simultaneously. How do wages rela
 
 Multiple regression handles this: Y = β₀ + β₁X₁ + β₂X₂ + ... + βₖXₖ + ε
 
-Each coefficient now represents the effect of that variable *holding all other variables constant*. This is crucial. The raw correlation between ice cream sales and drowning deaths is positive, but controlling for temperature eliminates it—both are caused by hot weather, not by each other.
+Each coefficient now represents the effect of that variable *holding all other variables constant*. This is crucial. The raw correlation between ice cream [sales](/sales) and drowning deaths is positive, but controlling for temperature eliminates it—both are caused by hot weather, not by each other.
 
 ### What Makes a Regression "Good"
 
@@ -131,7 +131,7 @@ Much of economic [data analysis](/data-analysis) involves data collected over ti
 
 A stationary time series has constant statistical properties over time. Many economic series are non-stationary—GDP grows over time, prices generally increase. Regressing one non-stationary series on another can produce "spurious regressions" that look statistically significant but are meaningless. Two unrelated random walks will often appear correlated simply because they're both trending.
 
-The Augmented Dickey-Fuller test checks for unit roots (non-stationarity). If your data has a unit root, you typically need to difference it (analyze changes rather than levels) before running regressions.
+The Augmented Dickey-Fuller test checks for unit roots (non-stationarity). If your data has a unit root, you typically need to difference it (analyze changes rather than levels) before [running](/running) regressions.
 
 ### Cointegration
 
@@ -149,7 +149,7 @@ When multiple time series influence each other (interest rates affect inflation,
 
 Panel data tracks multiple units (people, firms, countries) over multiple time periods. This combination is powerful—you can control for both unit-specific fixed effects (permanent differences between units) and time effects (things that change over time but affect everyone equally).
 
-A firm fixed-effects model, for example, controls for everything about a firm that doesn't change over time—management culture, location, founding history. This eliminates huge categories of confounding variables without having to measure them. You're essentially comparing each firm to itself across different time periods.
+A firm fixed-effects model, for example, controls for everything about a firm that doesn't change over time—[management](/management) culture, location, founding history. This eliminates huge categories of confounding variables without having to measure them. You're essentially comparing each firm to itself across different time periods.
 
 Panel data methods have become the backbone of empirical economics. Virtually every economic journal publishes papers using fixed effects, random effects, or some variant.
 
@@ -193,17 +193,17 @@ Where does econometric analysis actually show up in the real world?
 
 **[Government](/government) policy.** Before implementing a policy (tax changes, healthcare reform, environmental regulation), governments estimate its likely effects using econometric analysis. The Congressional Budget Office "scores" proposed legislation partly using econometric models.
 
-**Finance.** Asset pricing models, risk management systems, and [algorithmic trading](/algorithms) strategies all rest on econometric foundations. Factor models that explain stock returns draw directly from regression analysis.
+**[Finance](/finance).** Asset pricing models, risk management systems, and [algorithmic trading](/algorithms) strategies all rest on econometric foundations. Factor models that explain stock returns draw directly from regression analysis.
 
 **Tech companies.** A/B testing—the randomized experiments that decide which button color or headline performs better—is applied econometrics, whether the practitioners call it that or not. Tech companies employ economists trained in causal inference to measure the effects of platform changes on user behavior.
 
-**[International development](/international-development).** The World Bank, IMF, and development organizations use econometrics to evaluate aid programs, estimate the effects of trade agreements, and project economic growth in developing countries.
+**[International development](/international-development).** The World Bank, IMF, and development organizations use econometrics to evaluate aid programs, estimate the effects of [trade](/trade) agreements, and project economic growth in developing countries.
 
 ## Learning Econometrics
 
 If you're interested in picking this up, here's the realistic path:
 
-**Prerequisites:** Statistics through regression analysis, comfortable with algebra, basic calculus helpful but not essential. If you've taken a stats course covering hypothesis testing and confidence intervals, you're ready.
+**Prerequisites:** Statistics through regression analysis, comfortable with [algebra](/algebra), basic [calculus](/calculus) helpful but not essential. If you've taken a stats course covering hypothesis testing and confidence intervals, you're ready.
 
 **Introductory textbook:** Jeffrey Wooldridge's *Introductory Econometrics: A Modern Approach* is the standard, and for good reason—it's clear, practical, and emphasizes application over proofs. Stock and Watson's *Introduction to Econometrics* is another excellent option.
 

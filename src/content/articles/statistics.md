@@ -37,7 +37,7 @@ faq:
 
 # What Is Statistics?
 
-Statistics is the science of collecting, organizing, analyzing, and interpreting data to make informed decisions in the face of uncertainty. It provides the mathematical framework for learning from data — and since nearly every field from medicine to marketing now runs on data, statistics has become one of the most practically important branches of [mathematics](/mathematics).
+Statistics is the science of collecting, organizing, analyzing, and interpreting data to make informed decisions in the face of uncertainty. It provides the mathematical framework for learning from data — and since nearly every field from medicine to [marketing](/marketing) now runs on data, statistics has become one of the most practically important branches of [mathematics](/mathematics).
 
 ## Why Statistics Exists
 
@@ -97,7 +97,7 @@ The CLT also tells you that the standard deviation of sample means (called the *
 
 Hypothesis testing is the bread and butter of scientific research, and also the source of more confusion and misuse than any other statistical concept.
 
-The logic works like this:
+The [logic](/logic) works like this:
 
 1. State a **null hypothesis** (H₀) — usually "there's no effect" or "no difference."
 2. State an **alternative hypothesis** (H₁) — "there is an effect" or "there is a difference."
@@ -119,7 +119,7 @@ You can mess up hypothesis testing in two ways:
 
 **Type II error** (false negative): failing to reject the null hypothesis when it's actually false. The drug works, but you don't detect it. The probability of this error is β, and 1 - β is called **statistical power** — the probability of correctly detecting a real effect.
 
-There's a trade-off. Lower your α to reduce false positives, and you increase false negatives. The only way to reduce both simultaneously is to increase your sample size.
+There's a [trade](/trade)-off. Lower your α to reduce false positives, and you increase false negatives. The only way to reduce both simultaneously is to increase your sample size.
 
 ### Confidence Intervals
 
@@ -147,11 +147,11 @@ Not all relationships are linear. **Logistic regression** handles binary outcome
 
 Regression is powerful but abusable. **Overfitting** — fitting the noise in your data rather than the signal — produces models that look great on training data but fail on new data. **Multicollinearity** — when predictors are highly correlated with each other — makes individual coefficients unreliable. **Confounding** — when an unmeasured variable drives both X and Y — can create phantom relationships.
 
-And the classic warning: regression shows association, not causation. Ice cream sales and drowning deaths are positively correlated. Nobody thinks ice cream causes drowning. (Both increase in summer.)
+And the classic warning: regression shows association, not causation. Ice cream [sales](/sales) and drowning deaths are positively correlated. Nobody thinks ice cream causes drowning. (Both increase in summer.)
 
 ## Bayesian Statistics
 
-Everything described so far is **frequentist** statistics — probability is defined as long-run frequency, and parameters are fixed but unknown. **Bayesian statistics** takes a fundamentally different approach.
+Everything described so far is **frequentist** statistics — probability is defined as long-run frequency, and parameters are fixed but unknown. **[Bayesian statistics](/bayesian-statistics)** takes a fundamentally different approach.
 
 In Bayesian statistics, probability represents degree of belief. Parameters aren't fixed — they have probability distributions that update as you collect data. The update follows Bayes' theorem:
 
@@ -163,7 +163,7 @@ This approach has several advantages. It naturally incorporates prior knowledge.
 
 The disadvantage? Choosing priors is subjective. Two analysts with different priors can reach different conclusions from the same data. Frequentists argue this subjectivity is a bug; Bayesians argue it's a feature — all analysis involves assumptions, and Bayesian methods force you to state yours explicitly.
 
-The Bayesian-frequentist debate has raged for decades. In practice, most working statisticians use both approaches, choosing whichever is more appropriate for the problem at hand.
+The Bayesian-frequentist [debate](/debate) has raged for decades. In practice, most working statisticians use both approaches, choosing whichever is more appropriate for the problem at hand.
 
 ## Common Misuses and Pitfalls
 
@@ -195,7 +195,7 @@ Statistics drives virtually every data-driven decision being made today.
 
 **[Government](/government)** uses statistics for census data, economic indicators (GDP, unemployment rate, inflation), [public health](/public-health) surveillance, and evidence-based policy. The Bureau of Labor Statistics, the Census Bureau, and the CDC all exist because of the need for systematic [data analysis](/data-analysis).
 
-**[Sports analytics](/sports-analytics)** uses regression models, Bayesian methods, and simulation to evaluate players, optimize strategies, and make draft picks. Baseball's "Moneyball" revolution was fundamentally a statistical revolution.
+**[Sports analytics](/sports-analytics)** uses regression models, Bayesian methods, and simulation to evaluate players, optimize strategies, and make draft picks. [Baseball](/baseball)'s "Moneyball" revolution was fundamentally a statistical revolution.
 
 **Climate science** uses statistical models to detect warming trends, attribute changes to specific causes, and project future scenarios. The signal of human-caused warming was identified through statistical analysis of temperature records, natural variability patterns, and forcing factors.
 
@@ -203,7 +203,7 @@ Statistics drives virtually every data-driven decision being made today.
 
 The boundary between statistics and [computer science](/computer-science) is blurring. Machine learning techniques — random forests, [neural networks](/neural-networks), gradient boosting — are essentially statistical models with the focus shifted from inference (understanding relationships) to prediction (forecasting outcomes).
 
-Causal inference — figuring out what causes what from observational data — is one of the hottest areas in modern statistics. Judea Pearl's do-calculus and the potential outcomes framework of Donald Rubin provide formal tools for answering causal questions without randomized experiments, when experiments are impractical or unethical.
+Causal inference — figuring out what causes what from observational data — is one of the hottest areas in modern statistics. Judea Pearl's do-[calculus](/calculus) and the potential outcomes framework of Donald Rubin provide formal tools for answering causal questions without randomized experiments, when experiments are impractical or unethical.
 
 Automated statistics — algorithms that choose models, tune parameters, and validate results with minimal human input — is growing rapidly. But this creates its own dangers: automating a process you don't understand makes it easier to make mistakes you can't detect.
 

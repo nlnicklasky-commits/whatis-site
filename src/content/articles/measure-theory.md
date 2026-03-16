@@ -33,7 +33,7 @@ faq:
 
 Measure theory is the branch of [mathematics](/mathematics) that deals with a deceptively simple question: how do you assign a "size" to a set of things? The length of a line segment. The area of a region. The probability of an event. These all seem intuitive, but when you try to make them mathematically precise — especially for complicated or infinite sets — things get weird fast.
 
-The theory was developed primarily by Henri Lebesgue in the early 1900s, and it's now the foundation for modern probability, advanced calculus (integration theory), and large parts of mathematical analysis. If you've taken a probability course and were told "the probability of an event is a number between 0 and 1," measure theory is the machinery that makes that statement rigorous.
+The theory was developed primarily by Henri Lebesgue in the early 1900s, and it's now the foundation for modern probability, advanced [calculus](/calculus) (integration theory), and large parts of mathematical analysis. If you've taken a probability course and were told "the probability of an event is a number between 0 and 1," measure theory is the machinery that makes that statement rigorous.
 
 ## The Problem Measure Theory Solves
 
@@ -47,7 +47,7 @@ The deeper problem is that not every subset of the real line can be assigned a c
 
 ### Sigma-Algebras
 
-Before you can measure anything, you need to specify which sets you're allowed to measure. A sigma-algebra (or sigma-field) is a collection of subsets of some universal set that satisfies three rules:
+Before you can measure anything, you need to specify which sets you're allowed to measure. A sigma-[algebra](/algebra) (or sigma-field) is a collection of subsets of some universal set that satisfies three rules:
 
 1. The empty set is included
 2. If a set is included, so is its complement
@@ -90,7 +90,7 @@ The **Riemann integral** slices the x-axis into intervals and sums the contribut
 
 The **Lebesgue integral** slices the y-axis instead — grouping all points where the function takes similar values, measuring the "size" of each group (using Lebesgue measure), and summing. This approach handles far more functions and has much better mathematical properties.
 
-For well-behaved functions, both integrals give the same answer. But the Lebesgue integral works in situations where the Riemann integral fails — and its theoretical properties (particularly for limits and series) are vastly superior. This is why advanced probability, physics, and [engineering](/engineering) use Lebesgue integration.
+For well-behaved functions, both integrals give the same answer. But the Lebesgue integral works in situations where the Riemann integral fails — and its theoretical properties (particularly for limits and series) are vastly superior. This is why advanced probability, [physics](/physics), and [engineering](/engineering) use Lebesgue integration.
 
 ## Where It Shows Up
 
@@ -108,7 +108,7 @@ For well-behaved functions, both integrals give the same answer. But the Lebesgu
 
 Measure theory is typically a graduate-level mathematics course. It requires solid preparation in [real analysis](/real-analysis) (epsilon-delta proofs, sequences, series, continuity) and comfort with abstract reasoning.
 
-If you're pursuing graduate studies in mathematics, statistics, physics, or quantitative finance, you'll almost certainly encounter it. For applied work in [data science](/data-science), engineering, or most professional contexts, you can work effectively with probability and statistics without ever studying measure theory explicitly — the results are usable without understanding their deepest foundations.
+If you're pursuing graduate studies in mathematics, statistics, physics, or quantitative [finance](/finance), you'll almost certainly encounter it. For applied work in [data science](/data-science), engineering, or most professional contexts, you can work effectively with probability and statistics without ever studying measure theory explicitly — the results are usable without understanding their deepest foundations.
 
 But if you want to truly understand *why* probability works the way it does — why continuous distributions behave as they do, why certain operations on random variables are justified, why some apparently reasonable questions have no answer — measure theory is where those explanations live.
 

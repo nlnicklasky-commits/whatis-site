@@ -43,11 +43,11 @@ Telescope making is the craft and practice of building optical telescopes by han
 
 Fair question. You can buy a perfectly good telescope online for a few hundred bucks. So why would someone spend weeks hunched over a glass disk, rubbing it against another glass disk, covered in gritty slurry?
 
-A few reasons. First, the economics actually work out — a homemade 8-inch reflector costs roughly half what you'd pay retail, and larger apertures save even more. A 16-inch commercial Dobsonian might run $2,000-$3,000, while building one yourself could cost $600-$900 in materials.
+A few reasons. First, the [economics](/economics) actually work out — a homemade 8-inch reflector costs roughly half what you'd pay retail, and larger apertures save even more. A 16-inch commercial Dobsonian might run $2,000-$3,000, while building one yourself could cost $600-$900 in materials.
 
 But honestly, cost isn't the main driver. The real motivation is that *you made it*. There's something deeply satisfying about pointing a telescope at Saturn and knowing that every photon hitting your retina bounced off a mirror you shaped with your own hands. The surface you polished is accurate to within 1/8 of a wavelength of visible light — about 70 nanometers. You did that. With glass, grit, and patience.
 
-And then there's the optical quality argument. Mass-produced mirrors are ground by machines optimized for speed and consistency. They're good. But a patient amateur who tests obsessively can produce a mirror that's genuinely excellent — 1/10 wave or better. That's a real thing. Amateur telescope makers regularly produce optics that outperform their commercial equivalents.
+And then there's the optical quality argument. Mass-produced mirrors are ground by machines optimized for speed and consistency. They're good. But a patient amateur who tests obsessively can produce a mirror that's genuinely excellent — 1/10 wave or better. That's a real thing. Amateur telescope makers regularly produce [optics](/optics) that outperform their commercial equivalents.
 
 ## A Brief History — From Galileo to Your Garage
 
@@ -57,7 +57,7 @@ Early telescopes were refractors — they used lenses to bend light. Isaac Newto
 
 For centuries, telescope making remained the province of professional opticians and wealthy gentlemen scientists. William Herschel, who discovered Uranus in 1781, cast and ground his own metal mirrors — including a monster 48-inch speculum metal mirror for his 40-foot telescope. The thing weighed over a ton.
 
-The modern amateur telescope making movement really took off in the 1920s and 1930s. Russell Porter, an engineer and artist in Springfield, Vermont, started teaching neighbors how to grind their own mirrors. This led to the founding of the Springfield Telescope Makers in 1920 and their annual Stellafane convention, which continues today as the oldest and most prestigious amateur telescope gathering in North America.
+The modern amateur telescope making movement really took off in the 1920s and 1930s. Russell Porter, an engineer and artist in Springfield, Vermont, started [teaching](/teaching) neighbors how to grind their own mirrors. This led to the founding of the Springfield Telescope Makers in 1920 and their annual Stellafane convention, which continues today as the oldest and most prestigious amateur telescope gathering in North America.
 
 Albert Ingalls popularized the craft through his "Amateur Telescope Making" column in *Scientific American*, starting in 1925. His three-volume book series *Amateur Telescope Making* became the bible of the hobby and remains in print.
 
@@ -77,7 +77,7 @@ You also need a tool — another glass disk of the same diameter that you'll use
 
 The first step is rough grinding, where you create the concave curve in the mirror blank. You place the mirror blank on top (face down) on the tool, sprinkle silicon carbide grit (#80, the coarsest) mixed with water between them, and push the mirror back and forth across the tool in overlapping strokes.
 
-The physics are elegant. When you push the mirror forward across the tool, the abrasive grit rolls between the surfaces and removes more glass from the center of the mirror and the edge of the tool. This naturally creates a concave curve in the mirror and a matching convex curve in the tool. It's almost impossible to get it wrong — the geometry guarantees a spherical curve will emerge.
+The [physics](/physics) are elegant. When you push the mirror forward across the tool, the abrasive grit rolls between the surfaces and removes more glass from the center of the mirror and the edge of the tool. This naturally creates a concave curve in the mirror and a matching convex curve in the tool. It's almost impossible to get it wrong — the [geometry](/geometry) guarantees a spherical curve will emerge.
 
 You're aiming for a specific depth of curve called the sagitta. For a typical f/8 mirror (8-inch diameter, 64-inch focal length), the sagitta is only about 0.06 inches — roughly the thickness of a dime. You measure it with a spherometer or a simple straightedge-and-feeler-gauge setup.
 
@@ -151,7 +151,7 @@ A well-made 8-inch telescope on a clear night will show you Saturn's rings, Jupi
 
 Telescope making has a surprisingly active community. Local [astronomy](/astronomy) clubs often have mirror-grinding workshops where experienced makers mentor newcomers. The equipment is shared — grits, pitch, testing equipment — and the collective knowledge is enormous.
 
-Stellafane, held every summer in Springfield, Vermont, remains the premier gathering. Hundreds of amateur telescope makers bring their instruments for judging, attend talks and workshops, and observe together. The convention has run continuously since 1926 (with a few wartime exceptions), making it one of the longest-running scientific gatherings in America.
+Stellafane, held every summer in Springfield, Vermont, remains the premier gathering. Hundreds of amateur telescope makers bring their instruments for judging, attend talks and workshops, and observe together. The convention has run continuously since 1926 (with a few wartime exceptions), making it one of the longest-[running](/running) scientific gatherings in America.
 
 Online communities have expanded access dramatically. Forums like CloudyNights.com and the r/telescopes subreddit have active mirror-making discussion threads. YouTube tutorials walk through every step. You can even ship your mirror to experienced testers who'll provide detailed interferometric analysis for a modest fee.
 
@@ -165,7 +165,7 @@ Some amateurs build 20-inch, 24-inch, or even 30-inch+ telescopes. These are ser
 
 Large mirrors present unique challenges. Thermal equilibration takes longer — a thick glass mirror needs hours to reach ambient temperature, and temperature gradients distort the image. Many large-mirror builders use thin blanks or exotic materials like quartz or Astro-Sitall (a Russian glass-ceramic with near-zero thermal expansion).
 
-The mount engineering scales up dramatically too. A 20-inch truss Dobsonian might weigh 100-200 pounds and need to break down into manageable pieces for transport. Some builders design their telescopes around the size of their car's cargo area.
+The mount [engineering](/engineering) scales up dramatically too. A 20-inch truss Dobsonian might weigh 100-200 pounds and need to break down into manageable pieces for transport. Some builders design their telescopes around the size of their car's cargo area.
 
 There's also the world of specialty telescope making. Gregorian and Cassegrain designs use a secondary curved mirror to fold the light path, producing a more compact telescope. Schmidt-Cassegrain and Ritchey-Chretien designs correct for off-axis aberrations, making them better for astrophotography. Building these requires making two curved mirrors and getting them to work together — a significant step up in difficulty.
 

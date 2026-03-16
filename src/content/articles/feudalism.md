@@ -39,7 +39,7 @@ Feudalism was the political, economic, and social system that organized much of 
 
 ## The Problem Feudalism Solved
 
-To understand feudalism, you need to understand the mess it emerged from. When the Western Roman Empire collapsed in 476 CE, it left a power vacuum across Europe. The roads, trade networks, legal systems, and military infrastructure that had held civilization together for centuries simply fell apart.
+To understand feudalism, you need to understand the mess it emerged from. When the Western Roman Empire collapsed in 476 CE, it left a power vacuum across Europe. The roads, [trade](/trade) networks, legal systems, and military infrastructure that had held civilization together for centuries simply fell apart.
 
 What replaced Rome was chaos. Viking raids from the north, Magyar invasions from the east, and Saracen attacks from the south meant that ordinary people lived in constant danger. There was no standing army to protect them, no police force, no functioning state in most regions.
 
@@ -93,7 +93,7 @@ Serfdom is the part of feudalism that most resembles something ugly. Serfs weren
 
 In England's Domesday Book (1086), roughly 70% of the recorded population were classified as villeins or bordars — categories of unfree peasants with various degrees of obligation. Free peasants existed too, but they were the minority.
 
-The daily life of a serf was grueling. Farming with medieval technology — wooden plows, hand sickles, no [irrigation](/irrigation) — was backbreaking work. [Nutrition](/nutrition) was marginal. Life expectancy at birth hovered around 30 years (though if you survived childhood, you'd likely reach your 50s). The overwhelming majority of people in medieval Europe lived and died within a few miles of where they were born.
+The daily life of a serf was grueling. [Farming](/farming) with medieval technology — wooden plows, hand sickles, no [irrigation](/irrigation) — was backbreaking work. [Nutrition](/nutrition) was marginal. Life expectancy at birth hovered around 30 years (though if you survived childhood, you'd likely reach your 50s). The overwhelming majority of people in medieval Europe lived and died within a few miles of where they were born.
 
 Still, notably what serfs got out of the arrangement. Protection. A plot of land that, while not owned, was theirs to work and pass to their children. Access to common resources. A place in a community. For people living with endemic violence and no social safety net, those weren't nothing.
 

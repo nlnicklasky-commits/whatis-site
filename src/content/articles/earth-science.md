@@ -53,28 +53,28 @@ Earth science is traditionally divided into four major branches, each studying a
 
 ### Geology: The Solid Earth
 
-Geology studies Earth's rocks, minerals, internal structure, and the processes that shape the surface. It's the oldest branch of Earth science—people have been studying rocks and mining minerals for thousands of years—but the field was completely revolutionized in the 1960s by [plate tectonics](/plate-tectonics).
+[Geology](/geology) studies Earth's rocks, minerals, internal structure, and the processes that shape the surface. It's the oldest branch of Earth science—people have been studying rocks and mining minerals for thousands of years—but the field was completely revolutionized in the 1960s by [plate tectonics](/plate-tectonics).
 
-**Plate tectonics** is the unifying theory of geology, similar to what evolution is for biology. The Earth's outer shell (the lithosphere) is broken into about 15 major plates that float on the semi-fluid asthenosphere beneath. These plates move at rates of 1-15 centimeters per year—about as fast as your fingernails grow.
+**Plate [tectonics](/tectonics)** is the unifying theory of geology, similar to what evolution is for biology. The Earth's outer shell (the lithosphere) is broken into about 15 major plates that float on the semi-fluid asthenosphere beneath. These plates move at rates of 1-15 centimeters per year—about as fast as your fingernails grow.
 
 Where plates collide, mountains rise. The Himalayas are still growing because the Indian plate is crashing into the Eurasian plate at about 5 cm per year. Where plates pull apart, ocean floor is created—the Mid-Atlantic Ridge produces new crust at about 2.5 cm per year. Where one plate slides under another (subduction), you get volcanoes, deep ocean trenches, and the most powerful earthquakes on Earth.
 
 Geology also encompasses:
 
-- **Mineralogy** — the study of minerals, their structures, and properties. Over 5,000 minerals have been identified, but just about a dozen make up 99% of Earth's crust.
-- **Petrology** — the study of rocks: igneous (formed from cooling magma), sedimentary (formed from accumulated sediment), and metamorphic (transformed by heat and pressure).
-- **Paleontology** — the study of ancient life through fossils. Without paleontology, we wouldn't know about [dinosaurs](/dinosaurs), mass extinctions, or the 3.5-billion-year history of life on Earth.
-- **Volcanology** — the study of volcanoes. About 1,500 potentially active volcanoes dot the planet, and roughly 50-70 erupt in any given year.
+- **[Mineralogy](/mineralogy)** — the study of minerals, their structures, and properties. Over 5,000 minerals have been identified, but just about a dozen make up 99% of Earth's crust.
+- **[Petrology](/petrology)** — the study of rocks: igneous (formed from cooling magma), sedimentary (formed from accumulated sediment), and metamorphic (transformed by heat and pressure).
+- **[Paleontology](/paleontology)** — the study of ancient life through fossils. Without paleontology, we wouldn't know about [dinosaurs](/dinosaurs), mass extinctions, or the 3.5-billion-year history of life on Earth.
+- **[Volcanology](/volcanology)** — the study of volcanoes. About 1,500 potentially active volcanoes dot the planet, and roughly 50-70 erupt in any given year.
 
 ### Meteorology: The Atmosphere
 
-Meteorology studies the atmosphere—the thin shell of gas that makes life possible. Earth's atmosphere extends about 480 km above the surface, but 99% of its mass is concentrated in the lowest 30 km.
+[Meteorology](/meteorology) studies the atmosphere—the thin shell of gas that makes life possible. Earth's atmosphere extends about 480 km above the surface, but 99% of its mass is concentrated in the lowest 30 km.
 
 The atmosphere is layered. The troposphere (0-12 km) is where weather happens. The stratosphere (12-50 km) contains the ozone layer that filters ultraviolet radiation. The mesosphere, thermosphere, and exosphere extend above that, growing progressively thinner until they fade into space.
 
 Weather is driven by unequal solar heating. The equator receives far more solar energy than the poles. This temperature difference creates convection cells—massive patterns of rising and sinking air—that drive global wind patterns and ocean currents.
 
-Frankly, weather prediction is one of the great success stories of modern science. In the 1950s, a 24-hour forecast was barely better than guessing. Today, a 5-day forecast is as accurate as a 1-day forecast was 40 years ago. This improvement comes from better observations (satellites, radar, weather balloons), better physics (numerical weather models running on supercomputers), and better mathematics (data assimilation techniques that merge observations with model predictions).
+Frankly, weather prediction is one of the great success stories of modern science. In the 1950s, a 24-hour forecast was barely better than guessing. Today, a 5-day forecast is as accurate as a 1-day forecast was 40 years ago. This improvement comes from better observations (satellites, radar, weather balloons), better [physics](/physics) (numerical weather models [running](/running) on supercomputers), and better [mathematics](/mathematics) (data assimilation techniques that merge observations with model predictions).
 
 [Climatology](/climatology) is meteorology's longer-term sibling. While meteorology asks "will it rain Tuesday?", climatology asks "how much rain does this region typically get, and is that pattern changing?" Climate scientists analyze decades to millennia of data—ice cores, tree rings, ocean sediment cores—to understand how Earth's climate has varied and why.
 
@@ -82,7 +82,7 @@ Frankly, weather prediction is one of the great success stories of modern scienc
 
 The oceans cover 71% of Earth's surface, contain 97% of its water, and remain less explored than the surface of Mars. We've mapped the entire Moon and Mars in high resolution but have only directly surveyed about 20-25% of the ocean floor.
 
-Oceanography has four sub-branches:
+[Oceanography](/oceanography) has four sub-branches:
 
 **Physical oceanography** studies waves, currents, tides, and ocean circulation. The thermohaline circulation (sometimes called the "ocean conveyor belt") moves warm water from the tropics toward the poles and cold water back—a cycle that takes about 1,000 years and profoundly affects global climate.
 
@@ -170,7 +170,7 @@ Earth science directly impacts human civilization in ways most people rarely thi
 
 **[Construction](/construction) and infrastructure.** Every building, bridge, tunnel, and dam requires geotechnical assessment—understanding the properties of the soil and rock it will sit on. The leaning Tower of Pisa is a 800-year-old lesson in what happens when you ignore [soil mechanics](/soil-mechanics).
 
-**Climate change.** Earth scientists are the primary source of knowledge about how the climate system works, how it has changed in the past, and how human activities are changing it now. Ice core records from Antarctica show atmospheric CO2 levels over the past 800,000 years, providing critical context for understanding current levels (above 420 ppm—higher than at any point in at least 800,000 years).
+**[Climate change](/climate-change).** Earth scientists are the primary source of knowledge about how the climate system works, how it has changed in the past, and how human activities are changing it now. Ice core records from Antarctica show atmospheric CO2 levels over the past 800,000 years, providing critical context for understanding current levels (above 420 ppm—higher than at any point in at least 800,000 years).
 
 ## Careers and Fields You Didn't Know Existed
 
@@ -184,7 +184,7 @@ Earth science careers extend far beyond "geologist" and "weather forecaster."
 
 **Glaciologists** study ice sheets, glaciers, and permafrost. With ice sheets in Greenland and Antarctica containing enough water to raise sea levels by about 65 meters if fully melted, their work has obvious urgency.
 
-**Geochemists** study chemical processes in Earth systems—from the composition of volcanic gases to the cycling of nutrients through ecosystems. This field sits at the intersection of Earth science and [chemistry](/chemistry), using sophisticated analytical techniques to trace elements and isotopes through planetary-scale cycles.
+**Geochemists** study chemical processes in Earth systems—from the composition of volcanic gases to the [cycling](/cycling) of nutrients through ecosystems. This field sits at the intersection of Earth science and [chemistry](/chemistry), using sophisticated analytical techniques to trace elements and isotopes through planetary-scale cycles.
 
 ## The Interconnected Planet
 

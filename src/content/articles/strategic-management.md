@@ -35,7 +35,7 @@ faq:
 
 # What Is Strategic Management?
 
-Strategic management is the continuous process by which organizations define their purpose, analyze their competitive environment, set long-term goals, develop plans to achieve those goals, allocate resources accordingly, and monitor results — adjusting course as conditions change. It's the discipline of answering three deceptively simple questions: Where are we now? Where do we want to go? How do we get there?
+Strategic [management](/management) is the continuous process by which organizations define their purpose, analyze their competitive environment, set long-term goals, develop plans to achieve those goals, allocate resources accordingly, and monitor results — adjusting course as conditions change. It's the discipline of answering three deceptively simple questions: Where are we now? Where do we want to go? How do we get there?
 
 ## Why Strategy Matters (And Why Most Companies Are Bad at It)
 

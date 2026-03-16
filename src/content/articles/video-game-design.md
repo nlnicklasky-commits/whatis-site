@@ -31,7 +31,7 @@ faq:
 
 # What Is Video Game Design?
 
-Video game design is the discipline of creating the rules, systems, mechanics, and experiences that define a video game. It's not programming (that's [engineering](/engineering)), not art (that's art direction), and not [writing](/writing) (that's narrative design) — though it touches all three. Game design is fundamentally about deciding how a game works and what it feels like to play.
+Video [game design](/game-design) is the discipline of creating the rules, systems, mechanics, and experiences that define a video game. It's not programming (that's [engineering](/engineering)), not art (that's art direction), and not [writing](/writing) (that's narrative design) — though it touches all three. Game design is fundamentally about deciding how a game works and what it feels like to play.
 
 ## What Designers Actually Do
 

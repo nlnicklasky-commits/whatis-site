@@ -61,7 +61,7 @@ Getting a document notarized is straightforward, but the details matter.
 
 You show up in person. This is a hard requirement in most states — the notary must be physically present with you. (Remote online notarization, discussed below, is changing this in some states.)
 
-You present valid identification. Typically a government-issued photo ID — driver's license, passport, or state ID card. The notary checks that the photo matches your face, the name matches the document, and the ID isn't expired.
+You present valid identification. Typically a [government](/government)-issued photo ID — driver's license, passport, or state ID card. The notary checks that the photo matches your face, the name matches the document, and the ID isn't expired.
 
 The notary may ask if you're signing willingly and understand the document. They're not advising you on the document's content — notaries generally aren't lawyers, and they shouldn't be giving legal advice — but they should confirm you're not being coerced.
 

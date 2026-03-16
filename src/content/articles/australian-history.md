@@ -36,17 +36,17 @@ faq:
 # What Is Australian History?
 Australian history encompasses over 65,000 years of Indigenous civilization — the longest continuous cultural tradition on Earth — followed by roughly 236 years of European settlement that radically transformed the continent's people, environment, and position in the world.
 
-That time gap is worth sitting with. Sixty-five thousand years of continuous habitation, then everything changed within a few generations of British arrival. No other national history involves quite this collision between ancient and modern, and the tension between these two chapters still shapes Australian politics, identity, and daily life.
+That time gap is worth sitting with. Sixty-five thousand years of continuous habitation, then everything changed within a few generations of British arrival. No other national history involves quite this collision between ancient and modern, and the tension between these two chapters still shapes Australian [politics](/politics), identity, and daily life.
 
 ## The World's Oldest Civilization
 
 Indigenous Australians arrived on the continent at least 65,000 years ago, crossing from Southeast Asia when sea levels were lower. Some archaeological evidence from sites like Madjedbebe in the Northern Territory suggests even earlier arrival dates. These were among the first sea crossings in human history — even with lower sea levels, reaching Australia required navigating open water.
 
-Over tens of thousands of years, Indigenous peoples developed extraordinary adaptations to Australia's varied environments — from tropical rainforests in the north to deserts in the center to temperate forests in the south. They managed the land actively, using controlled burning (fire-stick farming) to encourage new growth, attract game animals, and maintain open landscapes. This wasn't passive existence in a wilderness — it was sophisticated land [management](/management) that shaped the Australian [ecology](/botany) Europeans found when they arrived.
+Over tens of thousands of years, Indigenous peoples developed extraordinary adaptations to Australia's varied environments — from tropical rainforests in the north to deserts in the center to temperate forests in the south. They managed the land actively, using controlled burning (fire-stick [farming](/farming)) to encourage new growth, attract game animals, and maintain open landscapes. This wasn't passive existence in a wilderness — it was sophisticated land [management](/management) that shaped the Australian [ecology](/botany) Europeans found when they arrived.
 
 By 1788, an estimated 300,000 to over 1 million Indigenous people lived across the continent, speaking roughly 250 distinct languages. Social organization varied enormously, but common elements included complex kinship systems, spiritual traditions connecting people to specific landscapes (the Dreaming or Dreamtime), oral traditions preserving knowledge across millennia, and sophisticated ecological knowledge.
 
-Trade networks connected communities across vast distances. Shell ornaments from the northern coast have been found thousands of kilometers inland. Stone tools from specific quarries moved along established trade routes. Ideas, songs, ceremonies, and technologies circulated through these networks over thousands of years.
+[Trade](/trade) networks connected communities across vast distances. Shell ornaments from the northern coast have been found thousands of kilometers inland. Stone tools from specific quarries moved along established trade routes. Ideas, songs, ceremonies, and technologies circulated through these networks over thousands of years.
 
 The depth of this history is often underappreciated. When the Great Pyramid at Giza was built around 2560 BCE, Indigenous Australians had already been on the continent for over 60,000 years. When humans first domesticated wheat around 10,000 BCE, Indigenous Australians had been there for over 55,000 years. No other civilization on Earth has comparable continuity.
 
@@ -64,7 +64,7 @@ What followed was, by any honest [accounting](/accounting), a series of wars. As
 
 The violence was severe. Massacres occurred throughout the 19th century. The Black War in Tasmania (1820s–1830s) reduced the Indigenous Tasmanian population from an estimated 3,000–15,000 to fewer than 300. Across the continent, the Indigenous population declined by an estimated 80–90% within a century of British arrival — from violence, introduced diseases (smallpox was devastating), dispossession, and disruption of food systems.
 
-This history was systematically minimized in Australian [education](/education) and public discourse for most of the 20th century. Recent decades have brought more honest reckoning, though debate continues about terminology, responsibility, and appropriate responses.
+This history was systematically minimized in Australian [education](/education) and public discourse for most of the 20th century. Recent decades have brought more honest reckoning, though [debate](/debate) continues about terminology, responsibility, and appropriate responses.
 
 ### Gold, Wool, and Growth
 

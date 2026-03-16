@@ -53,7 +53,7 @@ Understanding why people show up and give effort is arguably the central questio
 
 Let me be clear: pay matters. People need fair compensation, and underpaying employees reliably produces resentment and turnover. But above a threshold of fair pay, throwing more money at people doesn't reliably increase motivation, engagement, or performance. This finding has been replicated so many times it's one of the field's most strong conclusions.
 
-Frederick Herzberg's two-factor theory (1959) distinguished between hygiene factors — pay, job security, working conditions — that prevent dissatisfaction and motivators — achievement, recognition, meaningful work, growth — that produce genuine satisfaction. Fix the hygiene factors and people stop complaining. But to make them actually care about their work, you need the motivators.
+Frederick Herzberg's two-factor theory (1959) distinguished between [hygiene](/hygiene) factors — pay, job security, working conditions — that prevent dissatisfaction and motivators — achievement, recognition, meaningful work, growth — that produce genuine satisfaction. Fix the hygiene factors and people stop complaining. But to make them actually care about their work, you need the motivators.
 
 ### Self-Determination Theory
 
@@ -71,7 +71,7 @@ When all three needs are met, people experience intrinsic motivation — they wo
 
 Edwin Locke and Gary Latham's goal-setting theory is one of the most validated findings in all of organizational [psychology](/psychology). Specific, difficult goals lead to higher performance than easy goals, vague goals ("do your best"), or no goals at all. This effect has been replicated in over 1,000 studies across dozens of countries and industries.
 
-But there are important caveats. Goals must be accepted by the person — imposed goals without buy-in don't work as well. Complex tasks require learning goals ("develop three new approaches") rather than performance goals ("increase sales by 20%"). And goal-setting can backfire spectacularly when it encourages unethical behavior — Wells Fargo's fake accounts scandal is a textbook case of aggressive sales goals producing fraud.
+But there are important caveats. Goals must be accepted by the person — imposed goals without buy-in don't work as well. Complex tasks require learning goals ("develop three new approaches") rather than performance goals ("increase [sales](/sales) by 20%"). And goal-setting can backfire spectacularly when it encourages unethical behavior — Wells Fargo's fake accounts scandal is a textbook case of aggressive sales goals producing fraud.
 
 ## Leadership: What Actually Works
 
@@ -159,7 +159,7 @@ Burnout isn't caused by working hard. It's caused by working hard under conditio
 
 The traditional boundary between work and life has eroded, especially since remote work became widespread. Research on work-family conflict shows that interference in either direction — work intruding on family or family intruding on work — predicts lower satisfaction and higher stress in both domains.
 
-Organizational policies that support work-life balance — flexible scheduling, parental leave, reasonable after-hours expectations — improve retention, reduce absenteeism, and enhance job satisfaction. The return on investment for these programs consistently exceeds their cost.
+Organizational policies that support work-life balance — flexible [scheduling](/scheduling), parental leave, reasonable after-hours expectations — improve retention, reduce absenteeism, and enhance job satisfaction. The return on investment for these programs consistently exceeds their cost.
 
 ### Psychological Capital
 

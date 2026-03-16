@@ -193,7 +193,7 @@ Light microscopy can resolve structures down to about 200 nanometers. Fluorescen
 
 [Electron microscopy](/electron-microscopy) provides far higher resolution (down to 0.1 nanometers) but requires killing and fixing cells. Cryo-electron microscopy (cryo-EM), which flash-freezes cells and images them at near-atomic resolution, won the Nobel Prize in Chemistry in 2017 and has revealed the structures of countless cellular machines.
 
-Super-resolution microscopy techniques — STED, PALM, STORM — break the traditional resolution limit, allowing visualization of structures as small as 20 nanometers in living cells. These techniques won the Nobel Prize in Chemistry in 2014.
+Super-resolution microscopy techniques — STED, PALM, STORM — break the traditional resolution limit, allowing visualization of structures as small as 20 nanometers in living cells. These techniques won the Nobel Prize in [Chemistry](/chemistry) in 2014.
 
 ### Genomics and [Proteomics](/proteomics)
 

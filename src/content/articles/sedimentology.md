@@ -37,7 +37,7 @@ faq:
 
 # What Is Sedimentology?
 
-Sedimentology is the branch of geology that studies sediments—particles of rock, mineral, and organic material—and the processes by which they are produced, transported, deposited, and eventually transformed into sedimentary rock. It's the science of reading Earth's surface history, because sedimentary rocks are essentially a diary written by wind, water, ice, and gravity over billions of years.
+Sedimentology is the branch of [geology](/geology) that studies sediments—particles of rock, mineral, and organic material—and the processes by which they are produced, transported, deposited, and eventually transformed into sedimentary rock. It's the science of reading Earth's surface history, because sedimentary rocks are essentially a diary written by wind, water, ice, and gravity over billions of years.
 
 About 73% of Earth's land surface is covered by sedimentary rocks. Every sandstone cliff, every limestone cave, every shale deposit started as loose grains or dissolved minerals that accumulated somewhere—a beach, a river delta, the deep ocean floor—and were gradually compressed and cemented into solid rock. Understanding how that happened tells us about ancient oceans, vanished mountain ranges, shifting continents, and climates radically different from today's.
 
@@ -109,7 +109,7 @@ Sedimentary structures are physical features within sedimentary rocks that recor
 
 **Graded bedding** shows a systematic change in grain size from bottom to top—typically coarse at the base and fining upward. This forms when a mixture of grain sizes settles from suspension, with larger, heavier grains settling first. Graded beds are characteristic of turbidity current deposits (turbidites) and storm deposits.
 
-**Ripple marks** on bedding surfaces record the flow of water or wind. Symmetric ripples (oscillation ripples) indicate wave action. Asymmetric ripples indicate unidirectional current, with the steep face pointing downstream. Ripple marks on a sandstone surface 400 million years old look identical to ripples forming on a beach today—same physics, same result.
+**Ripple marks** on bedding surfaces record the flow of water or wind. Symmetric ripples (oscillation ripples) indicate wave action. Asymmetric ripples indicate unidirectional current, with the steep face pointing downstream. Ripple marks on a sandstone surface 400 million years old look identical to ripples forming on a beach today—same [physics](/physics), same result.
 
 **Mudcracks** indicate that wet sediment was exposed to air and dried, shrinking and cracking into polygonal patterns. They're reliable indicators of intermittent subaerial exposure—tidal flats, seasonal lake margins, floodplains.
 
@@ -159,7 +159,7 @@ Understanding sediment transport along coastlines is critical for managing erosi
 
 ### Climate Science
 
-Sedimentary records are among the most important archives of past climate. Ice cores, ocean sediment cores, lake sediment cores, and exposed sedimentary rock sequences provide continuous records of temperature, precipitation, atmospheric composition, and ocean circulation stretching back millions to billions of years. These records are indispensable for understanding natural climate variability and contextualizing modern climate change.
+Sedimentary records are among the most important archives of past climate. Ice cores, ocean sediment cores, lake sediment cores, and exposed sedimentary rock sequences provide continuous records of temperature, precipitation, atmospheric composition, and ocean circulation stretching back millions to billions of years. These records are indispensable for understanding natural climate variability and contextualizing modern [climate change](/climate-change).
 
 ### Geoarchaeology
 
@@ -181,7 +181,7 @@ Sedimentology has been transformed by new analytical tools:
 
 ## Reading the Rocks
 
-The deepest satisfaction of sedimentology comes from reading a rock outcrop the way you might read a book. The grain size tells you about transport energy. The sorting tells you about the transport mechanism. The sedimentary structures tell you about flow conditions. The fossils tell you about the biological community. The [mineralogy](/mineralogy) tells you about the source area and climate. The geometry tells you about the depositional environment.
+The deepest satisfaction of sedimentology comes from reading a rock outcrop the way you might read a book. The grain size tells you about transport energy. The sorting tells you about the transport mechanism. The sedimentary structures tell you about flow conditions. The fossils tell you about the biological community. The [mineralogy](/mineralogy) tells you about the source area and climate. The [geometry](/geometry) tells you about the depositional environment.
 
 Put it all together, and a nondescript cliff face becomes a vivid scene: a river meandering across a floodplain 300 million years ago, flooding periodically to deposit sheets of mud, building sandy point bars on the inside of its bends, occasionally burying forests that became coal seams. The evidence is right there in the rock—layers of sand with epsilon cross-bedding (point bar), interbedded with dark mudstones (floodplain), capped by coal (buried swamp), punctuated by fossil tree stumps in growth position.
 

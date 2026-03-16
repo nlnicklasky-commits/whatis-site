@@ -57,13 +57,13 @@ This is reductive if taken as a complete explanation — plenty of wealthy peopl
 
 ### Cultural and Religious Roots
 
-Ideologies also grow from cultural soil. Conservative ideologies often draw on religious traditions, valuing continuity, authority, and moral order derived from faith. [Humanism](/humanism) emerged from Enlightenment-era challenges to religious authority, placing human reason at the center of [ethics](/ethics) and politics.
+Ideologies also grow from cultural soil. Conservative ideologies often draw on religious traditions, valuing continuity, authority, and moral order derived from faith. [Humanism](/humanism) emerged from Enlightenment-era challenges to religious authority, placing human reason at the center of [ethics](/ethics) and [politics](/politics).
 
 Hindu nationalism in India, Islamic political movements in the Middle East, Christian democracy in Europe — these all demonstrate how religious traditions generate and shape ideological frameworks. The relationship runs both ways: ideologies also reshape religious practice.
 
 ### Reaction and Counter-Reaction
 
-Many ideologies form as reactions to other ideologies. Conservatism originated as a response to the French Revolution — Edmund Burke's arguments against revolutionary change were explicitly reactive. Socialism developed as a critique of liberal capitalism. Fascism defined itself against both liberalism and communism. Libertarianism pushes back against the growth of government associated with both progressive and conservative administrations.
+Many ideologies form as reactions to other ideologies. Conservatism originated as a response to the French Revolution — Edmund Burke's arguments against revolutionary change were explicitly reactive. [Socialism](/socialism) developed as a critique of liberal capitalism. Fascism defined itself against both liberalism and communism. Libertarianism pushes back against the growth of government associated with both progressive and conservative administrations.
 
 This reactive pattern means ideologies exist in conversation with each other, not in isolation. Understanding any single ideology requires understanding what it's arguing against.
 
@@ -123,7 +123,7 @@ First-wave feminism (19th-early 20th century) focused on legal rights: voting, p
 
 ### Environmentalism
 
-The belief that ecological systems have inherent value and that human activity must be constrained to protect them. Environmentalism ranges from mainstream conservation (protecting [national parks](/national-parks), reducing pollution) to radical ecology (deep ecology's position that human interests should not take precedence over ecosystem integrity).
+The belief that ecological systems have inherent value and that human activity must be constrained to protect them. Environmentalism ranges from mainstream conservation (protecting [national parks](/national-parks), reducing pollution) to radical [ecology](/ecology) (deep ecology's position that human interests should not take precedence over ecosystem integrity).
 
 Green ideology combines environmental protection with [social justice](/social-justice), arguing that environmental degradation and social inequality are connected. Environmental racism — the disproportionate exposure of minority communities to pollution and environmental hazards — is a central concern.
 
@@ -151,7 +151,7 @@ This is what Marx meant by ideology as "false consciousness" — the ruling clas
 
 After the Soviet Union collapsed in 1991, political scientist Francis Fukuyama famously declared "the end of history" — arguing that liberal democracy had won the ideological competition and no serious alternatives remained.
 
-That prediction aged poorly. The 21st century has seen the resurgence of authoritarian nationalism, the rise of political Islam, the growth of populist movements on both left and right, and increasing disillusionment with liberal democracy in countries that were supposed to be its strongest examples.
+That prediction aged poorly. The 21st century has seen the resurgence of authoritarian nationalism, the rise of political [Islam](/islam), the growth of populist movements on both left and right, and increasing disillusionment with liberal democracy in countries that were supposed to be its strongest examples.
 
 Ideology didn't die. It evolved. The traditional left-right spectrum, while still useful, increasingly fails to capture important political divisions: globalism versus nationalism, cosmopolitan versus parochial, established versus anti-establishment. New ideological formations — digital libertarianism, techno-optimism, degrowth — emerge from 21st-century conditions just as liberalism and socialism emerged from 19th-century conditions.
 
@@ -161,7 +161,7 @@ You don't have to pick one ideology and commit to it forever. In fact, rigid ide
 
 But understanding ideologies — knowing what they claim, what they value, what they ignore, and what historical conditions produced them — gives you tools for analyzing political arguments that you can't get any other way.
 
-When a politician says "freedom," what do they mean? Freedom from government interference? Freedom from poverty? Freedom to practice your religion? Freedom from others' religious imposition? The word means radically different things within different ideological frameworks.
+When a politician says "freedom," what do they mean? Freedom from government interference? Freedom from poverty? Freedom to practice your [religion](/religion)? Freedom from others' religious imposition? The word means radically different things within different ideological frameworks.
 
 When someone says "fairness," do they mean equal treatment (same rules for everyone) or equitable outcomes (adjusting treatment to produce equal results)? These are different concepts rooted in different ideological traditions, and confusing them generates enormous political conflict.
 

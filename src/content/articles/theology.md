@@ -49,7 +49,7 @@ The study of theological themes within the Bible itself — tracing how concepts
 
 ### Historical Theology
 
-How theological ideas have developed over time. From the early church councils that defined core Christian doctrines (Trinity, Incarnation) to the Reformation, Enlightenment challenges, and modern theological movements — [historical](/the-history-of-logic)) theology traces the evolution of religious thought.
+How theological ideas have developed over time. From the early church councils that defined core Christian doctrines (Trinity, Incarnation) to the Reformation, Enlightenment challenges, and modern theological movements — [historical](/the-history-of-[logic](/logic))) theology traces the evolution of religious thought.
 
 ### Moral Theology / Theological Ethics
 
@@ -82,7 +82,7 @@ Can religious belief be rational? Does faith require evidence, or does it go bey
 
 ## Theology Beyond Christianity
 
-While "theology" is most commonly associated with Christian thought, analogous intellectual traditions exist in every major religion:
+While "theology" is most commonly associated with Christian thought, analogous intellectual traditions exist in every major [religion](/religion):
 
 - **Jewish theology** — From the Talmudic rabbis through Maimonides to modern thinkers like Abraham Joshua Heschel
 - **Islamic theology** (*kalam*) — Developed rich traditions of rational argument about God's attributes, human free will, and the nature of revelation

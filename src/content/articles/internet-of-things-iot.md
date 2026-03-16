@@ -81,7 +81,7 @@ IoT security is genuinely concerning. The rush to connect everything has outpace
 
 The 2016 Mirai botnet demonstrated the risk dramatically — malware hijacked hundreds of thousands of insecure IoT devices (mostly cameras and routers) and used them to launch DDoS attacks that took down Twitter, Netflix, and other major sites.
 
-Improving IoT security requires manufacturers to build it in from the start, consumers to update devices and change defaults, and regulators to set minimum security standards. The U.S. IoT Cybersecurity Improvement Act (2020) and the EU Cyber Resilience Act are steps in this direction.
+Improving IoT security requires manufacturers to build it in from the start, consumers to update devices and change defaults, and regulators to set minimum security standards. The U.S. IoT [Cybersecurity](/cybersecurity) Improvement Act (2020) and the EU Cyber Resilience Act are steps in this direction.
 
 ## Privacy Concerns
 

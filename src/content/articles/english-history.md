@@ -69,7 +69,7 @@ The Normans built castles everywhere — over 500 in William's reign alone, incl
 
 In 1215, a group of rebellious barons forced King John to seal the Magna Carta at Runnymede. The document's immediate practical effects were limited — it was mainly about feudal taxation disputes. But its long-term symbolic importance was enormous.
 
-Magna Carta established a principle that would echo through centuries: even the king was subject to law. Clause 39 declared that no free man could be imprisoned or stripped of his rights "except by the lawful judgment of his peers or by the law of the land." That idea — the rule of law — became a foundation stone of English (and later American) government.
+Magna Carta established a principle that would echo through centuries: even the king was subject to law. Clause 39 declared that no free man could be imprisoned or stripped of his rights "except by the lawful judgment of his peers or by the law of the land." That idea — the rule of law — became a foundation stone of English (and later American) [government](/government).
 
 Parliament emerged gradually during the 13th century. Simon de Montfort's Parliament of 1265 is sometimes called the first true English parliament because it included commoners — elected knights and burgesses — alongside the nobles and clergy. Edward I formalized this with the Model Parliament of 1295.
 
@@ -85,7 +85,7 @@ Henry VII won the crown at the Battle of Bosworth Field in 1485, ending the Wars
 
 The 17th century was England's most turbulent. Charles I's attempts to rule without Parliament and impose religious uniformity led to civil war in 1642. The Parliamentarian forces, led by Oliver Cromwell, won. Charles I was tried and executed in 1649 — the first time an English king had been publicly tried and killed by his own people.
 
-England became a republic — the Commonwealth — with Cromwell eventually ruling as Lord Protector. It didn't last. After Cromwell's death in 1658, the monarchy was restored in 1660 under Charles II.
+England became a republic — the Commonwealth — with Cromwell eventually ruling as Lord Protector. It didn't last. After Cromwell's death in 1658, the [monarchy](/monarchy) was restored in 1660 under Charles II.
 
 The real constitutional settlement came with the Glorious Revolution of 1688. When the Catholic James II tried to reassert royal authority, Parliament invited the Protestant William of Orange to take the throne. The resulting Bill of Rights (1689) permanently established that Parliament, not the monarch, held supreme authority. England had become, in practice, a constitutional monarchy.
 
@@ -103,12 +103,12 @@ Britain entered [World War I](/world-war-i) in 1914 and emerged victorious but d
 
 [World War II](/world-war-ii) was England's finest hour, in Churchill's phrase, and its most desperate. The Blitz killed over 43,000 civilians. Britain stood alone against Nazi Germany for over a year before the Soviet Union and United States entered the war. Victory came in 1945, but Britain was financially exhausted.
 
-The postwar period brought the welfare state — the National Health Service (1948), free secondary education, council housing. It also brought the end of empire. India gained independence in 1947, and most of Africa followed in the 1950s and 1960s. By the 1970s, Britain was a medium-sized European power adjusting to its reduced global role.
+The postwar period brought the welfare state — the National Health Service (1948), free secondary [education](/education), council housing. It also brought the end of empire. India gained independence in 1947, and most of Africa followed in the 1950s and 1960s. By the 1970s, Britain was a medium-sized European power adjusting to its reduced global role.
 
 ## Modern England
 
 The late 20th and early 21st centuries have been defined by several shifts: Thatcher's free-market reforms in the 1980s, Tony Blair's New Labour in the 1990s, the 2016 Brexit referendum, and the ongoing questions about what it means to be English in a multicultural, post-imperial [society](/anthropology).
 
-England's population today is about 57 million — roughly 84% of the United Kingdom's total. London is one of the world's great financial centers and arguably its most diverse city. The country continues to punch above its weight in science, literature, music, and [higher education](/economics), with Oxford and Cambridge among the world's oldest and most respected universities.
+England's population today is about 57 million — roughly 84% of the United Kingdom's total. London is one of the world's great financial centers and arguably its most diverse city. The country continues to punch above its weight in science, [literature](/literature), music, and [higher education](/economics), with Oxford and Cambridge among the world's oldest and most respected universities.
 
 English history is, in many ways, a story about the tension between centralized power and individual rights — between the crown and the commons, the state and the citizen. That tension produced Magna Carta, Parliament, the common law tradition, and eventually modern democracy. It also produced an empire that reshaped half the world, for better and worse. Understanding that history isn't just academic. It explains a surprising amount about the world we live in now.

@@ -59,7 +59,7 @@ Shotgun disciplines involve shooting at flying clay targets (called "birds" or "
 
 **Skeet** — targets cross in front of the shooter from two fixed towers. The angles are known, but the timing and crossing patterns create unique challenges.
 
-**Sporting clays** — various stations simulating different [hunting](/hunting) scenarios. Often called "golf with a shotgun."
+**Sporting clays** — various stations simulating different [hunting](/hunting) scenarios. Often called "[golf](/golf) with a shotgun."
 
 ## The Mental Game
 

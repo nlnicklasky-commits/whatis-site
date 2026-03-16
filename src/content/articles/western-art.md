@@ -31,7 +31,7 @@ faq:
 
 # What Is Western Art?
 
-Western art is the visual art tradition that developed in Europe and, later, the Americas and other regions influenced by European culture. It stretches from ancient Greek sculpture through Renaissance painting, Impressionist landscapes, abstract expressionism, and into whatever's happening in galleries right now. It's a 2,500-year conversation between artists, patrons, societies, and ideas — each generation responding to, building on, or deliberately rejecting what came before.
+Western art is the visual art tradition that developed in Europe and, later, the Americas and other regions influenced by European culture. It stretches from ancient Greek [sculpture](/sculpture) through Renaissance [painting](/painting), Impressionist landscapes, abstract expressionism, and into whatever's happening in galleries right now. It's a 2,500-year conversation between artists, patrons, societies, and ideas — each generation responding to, building on, or deliberately rejecting what came before.
 
 ## The Ancient Foundation
 
@@ -45,7 +45,7 @@ When the Roman Empire collapsed, Western art changed direction dramatically. Med
 
 Figures in medieval paintings appear flat and stylized. Sizes indicate importance, not spatial position — Christ is the largest figure, then saints, then ordinary people. Backgrounds are gold leaf rather than landscapes. This wasn't because medieval artists couldn't draw realistically. It was a deliberate choice: the physical world mattered less than the spiritual message.
 
-Byzantine mosaics, illuminated manuscripts, and Gothic cathedral sculpture all followed this logic. The [stained glass](/stained-glass) windows at Chartres Cathedral (begun 1194) weren't decoration — they were theology in colored light, teaching Bible stories to a mostly illiterate population.
+Byzantine mosaics, illuminated manuscripts, and Gothic cathedral sculpture all followed this logic. The [stained glass](/stained-glass) windows at Chartres Cathedral (begun 1194) weren't decoration — they were [theology](/theology) in colored light, [teaching](/teaching) Bible stories to a mostly illiterate population.
 
 ## The Renaissance Changed Everything
 
@@ -53,7 +53,7 @@ Starting in Florence around 1400, artists began looking at the ancient world aga
 
 **Linear perspective** — Filippo Brunelleschi demonstrated around 1415 that parallel lines converge at a vanishing point. Leon Battista Alberti published the theory in 1435. Suddenly, painters could create convincing illusions of three-dimensional space on flat surfaces.
 
-**Anatomy** — Leonardo da Vinci dissected over 30 human corpses to understand how muscles attached to bones. His drawings of [human anatomy](/human-anatomy) were more accurate than most medical textbooks of his era. This knowledge shows in every figure he painted.
+**[Anatomy](/anatomy)** — Leonardo da Vinci dissected over 30 human corpses to understand how muscles attached to bones. His drawings of [human anatomy](/human-anatomy) were more accurate than most medical textbooks of his era. This knowledge shows in every figure he painted.
 
 **[Oil painting](/oil-painting)** — Developed in the Netherlands by artists like Jan van Eyck (active 1420s-1441), oil paint allowed layered glazing that created luminous, detailed surfaces impossible with the egg-tempera medium that preceded it.
 
@@ -73,9 +73,9 @@ Romanticism (late 1700s-mid 1800s) rebelled against reason and order. Artists li
 
 Then came the movement that most fundamentally changed how we think about painting.
 
-The Impressionists — Monet, Renoir, Degas, Pissarro, Berthe Morisot — abandoned the studio for open air. They painted light itself, capturing how a haystack looked at different times of day, how water reflected sky, how a crowded boulevard felt rather than what it literally contained. When the Salon rejected their work in 1874, they organized their own exhibition. Critics mocked them. The name "Impressionism" was originally an insult.
+The Impressionists — Monet, Renoir, Degas, Pissarro, Berthe Morisot — abandoned the studio for open air. They painted light itself, capturing how a haystack looked at different times of day, how water reflected sky, how a crowded boulevard felt rather than what it literally contained. When the Salon rejected their work in 1874, they organized their own exhibition. Critics mocked them. The name "[Impressionism](/impressionism)" was originally an insult.
 
-Monet's series paintings (haystacks, Rouen Cathedral, water lilies) might be the clearest demonstration of their philosophy. Same subject, totally different paintings — because the light changed.
+Monet's series paintings (haystacks, Rouen Cathedral, water lilies) might be the clearest demonstration of their [philosophy](/philosophy). Same subject, totally different paintings — because the light changed.
 
 ## Modern Art Blows It All Up
 
@@ -85,7 +85,7 @@ The 20th century arrived like a bomb. Cubism (Picasso and Braque, around 1907) s
 
 Abstract Expressionism emerged in New York in the 1940s. Jackson Pollock dripped paint onto canvases laid on the floor. Mark Rothko painted enormous fields of color designed to produce emotional responses. The center of the Western art world shifted from Paris to New York — permanently, as it turned out.
 
-Pop Art (Warhol, Lichtenstein) in the 1960s embraced commercial imagery. Minimalism stripped art to basic forms. Conceptual art argued that the idea mattered more than the physical object.
+Pop Art (Warhol, Lichtenstein) in the 1960s embraced commercial imagery. [Minimalism](/minimalism) stripped art to basic forms. Conceptual art argued that the idea mattered more than the physical object.
 
 ## Where It Stands Now
 

@@ -47,7 +47,7 @@ The distinction between pure and applied mathematics sounds clean on paper. Pure
 
 Take number theory. For centuries, it was the poster child for "useless" pure math — mathematicians playing with prime numbers because primes were fascinating, full stop. Then in the 1970s, RSA encryption came along and suddenly prime factorization became the backbone of internet security. Every time you buy something online, you're relying on number theory that was developed with zero practical intent.
 
-This keeps happening. Group theory, born from abstract [algebra](/algebra) puzzles in the 19th century, now backs up particle physics. Topology, once dismissed as mathematical philosophy, drives modern data analysis. The line between pure and applied isn't a wall — it's a revolving door.
+This keeps happening. Group theory, born from abstract [algebra](/algebra) puzzles in the 19th century, now backs up [particle physics](/particle-physics). Topology, once dismissed as mathematical philosophy, drives modern data analysis. The line between pure and applied isn't a wall — it's a revolving door.
 
 Still, there's a genuine difference in *approach*. A pure mathematician might spend years proving that a solution to a differential equation exists, without ever calculating what that solution actually is. An applied mathematician needs the actual number. Or at least a good approximation. That pragmatic focus — "give me something I can use" — is what defines the field.
 
@@ -65,7 +65,7 @@ The field really took off with Newton and Leibniz in the 1680s. Calculus wasn't 
 
 By the 18th and 19th centuries, applied mathematics had become inseparable from the physical sciences. Euler worked on fluid dynamics. Fourier developed his transform to study heat flow. Gauss created least-squares regression because he needed better methods for predicting asteroid orbits. Each of these tools, invented for specific problems, turned out to be wildly useful for problems nobody had imagined yet.
 
-The 20th century brought an explosion. Two world wars drove massive investment in mathematical problem-solving — cryptography, ballistics, operations research, nuclear physics. After the wars, those techniques migrated into civilian life. Operations research became supply chain management. Ballistics math became [aerospace engineering](/aerospace-engineering). Cryptography became computer science.
+The 20th century brought an explosion. Two world wars drove massive investment in mathematical problem-solving — cryptography, ballistics, [operations research](/operations-research), nuclear physics. After the wars, those techniques migrated into civilian life. Operations research became [supply chain management](/supply-chain-management). Ballistics math became [aerospace engineering](/aerospace-engineering). Cryptography became [computer science](/computer-science).
 
 ## The Core Toolkit
 
@@ -73,7 +73,7 @@ Applied mathematicians don't just grab whatever formula looks right. The field h
 
 ### Differential Equations
 
-If applied mathematics has a lingua franca, this is it. Differential equations describe how things change, and nearly everything in the physical world is changing.
+If applied mathematics has a lingua franca, this is it. [Differential equations](/differential-equations) describe how things change, and nearly everything in the physical world is changing.
 
 An ordinary differential equation (ODE) involves a function of one variable and its derivatives. Newton's second law — force equals mass times acceleration — is an ODE. So is the equation governing how a capacitor charges in an electrical circuit, how a drug metabolizes in your bloodstream, and how a population of rabbits grows when there's plenty of food.
 
@@ -83,27 +83,27 @@ Most real-world differential equations can't be solved exactly. That's where num
 
 ### Linear Algebra
 
-Matrices and vectors sound abstract until you realize they're the language of practically everything computational. Google's original PageRank algorithm? A giant matrix eigenvalue problem. Machine learning? Matrix multiplication, over and over. Computer graphics? Transformation matrices rotating and scaling 3D objects.
+Matrices and vectors sound abstract until you realize they're the language of practically everything computational. Google's original PageRank algorithm? A giant matrix eigenvalue problem. Machine learning? Matrix multiplication, over and over. [Computer graphics](/computer-graphics)? Transformation matrices rotating and scaling 3D objects.
 
 Linear algebra is the workhorse of modern applied math. The reason is efficiency: linear systems can be solved fast, even when they're enormous. A physicist simulating fluid flow might need to solve a system with millions of equations — and linear algebra provides the algorithms to do it in seconds rather than centuries.
 
 ### Probability and Statistics
 
-The real world is noisy. Data is messy. Measurements have errors. People behave unpredictably. Probability theory and [statistics](/accounting) give applied mathematicians the tools to work with uncertainty rather than pretending it doesn't exist.
+The real world is noisy. Data is messy. Measurements have errors. People behave unpredictably. [Probability theory](/probability-theory) and [statistics](/accounting) give applied mathematicians the tools to work with uncertainty rather than pretending it doesn't exist.
 
-Bayesian inference, hypothesis testing, regression analysis, stochastic processes — these techniques appear everywhere from clinical drug trials to weather forecasting to financial risk assessment. The insurance industry is essentially applied probability. So is [machine learning](/machine-learning), which fundamentally is statistical pattern recognition at scale.
+Bayesian inference, hypothesis testing, regression analysis, stochastic processes — these techniques appear everywhere from clinical drug trials to weather forecasting to financial risk assessment. The insurance industry is essentially applied probability. So is [machine learning](/machine-learning), which fundamentally is statistical [pattern recognition](/pattern-recognition) at scale.
 
 ### Optimization
 
 You have limited resources. You want the best possible outcome. That's optimization.
 
-Linear programming finds the best solution when your constraints and objective are all linear — think scheduling airline crews, routing delivery trucks, or allocating factory resources. Nonlinear optimization handles messier, more realistic problems. Convex optimization, a sweet spot in between, guarantees you'll find the global best answer rather than getting stuck in a local one.
+[Linear programming](/linear-programming) finds the best solution when your constraints and objective are all linear — think scheduling airline crews, routing delivery trucks, or allocating factory resources. Nonlinear optimization handles messier, more realistic problems. Convex optimization, a sweet spot in between, guarantees you'll find the global best answer rather than getting stuck in a local one.
 
 The simplex method, developed by George Dantzig in 1947 for military logistics, is still one of the most-used [algorithms](/algorithms) in the world. Billions of dollars in business decisions are made daily using descendants of Dantzig's original idea.
 
 ### Numerical Analysis
 
-Here's the dirty secret of applied math: most interesting equations don't have clean closed-form solutions. You can't write the answer as a nice formula. Instead, you approximate — and numerical analysis is the science of making those approximations as accurate and efficient as possible.
+Here's the dirty secret of applied math: most interesting equations don't have clean closed-form solutions. You can't write the answer as a nice formula. Instead, you approximate — and [numerical analysis](/numerical-analysis) is the science of making those approximations as accurate and efficient as possible.
 
 How many grid points do you need to simulate airflow over a wing? How do rounding errors accumulate over millions of calculations? When does an iterative method converge, and how fast? These questions might sound technical, but they determine whether a simulation gives you a useful prediction or complete garbage.
 
@@ -121,11 +121,11 @@ The relationship between physics and applied math is so tight that the boundary 
 
 ### Biology and Medicine
 
-Mathematical biology has grown enormously since the 1990s. Population dynamics models use differential equations to predict how species interact — the classic Lotka-Volterra equations for predator-prey systems date back to the 1920s, but modern versions incorporate spatial movement, disease, and genetic variation.
+[Mathematical biology](/mathematical-biology) has grown enormously since the 1990s. Population dynamics models use differential equations to predict how species interact — the classic Lotka-Volterra equations for predator-prey systems date back to the 1920s, but modern versions incorporate spatial movement, disease, and genetic variation.
 
 Epidemiology runs on applied math. The SIR model (Susceptible, Infected, Recovered) and its descendants were all over the news during COVID-19. These models aren't just academic exercises — they directly inform public health policy, vaccine distribution strategies, and quarantine decisions.
 
-Medical imaging depends on applied math in a way most patients never realize. CT scans use the Radon transform (from 1917 pure mathematics) to reconstruct 3D images from 2D X-ray slices. MRI relies on Fourier transforms to convert radio frequency signals into pictures of soft tissue. Without the underlying math, these technologies simply wouldn't exist.
+[Medical imaging](/medical-imaging) depends on applied math in a way most patients never realize. CT scans use the Radon transform (from 1917 pure mathematics) to reconstruct 3D images from 2D X-ray slices. MRI relies on Fourier transforms to convert radio frequency signals into pictures of soft tissue. Without the underlying math, these technologies simply wouldn't exist.
 
 ### Finance
 
@@ -137,9 +137,9 @@ The 2008 financial crisis, though, showed what happens when mathematical models 
 
 ### Computer Science and Data Science
 
-The relationship between applied math and computer science keeps deepening. [Machine learning](/machine-learning) is, mathematically speaking, optimization plus statistics plus linear algebra. Neural networks are compositions of linear transformations and nonlinear activation functions. Training them means minimizing a loss function using gradient descent — a technique from 19th-century calculus.
+The relationship between applied math and computer science keeps deepening. [Machine learning](/machine-learning) is, mathematically speaking, optimization plus statistics plus linear algebra. [Neural networks](/neural-networks) are compositions of linear transformations and nonlinear activation functions. Training them means minimizing a loss function using gradient descent — a technique from 19th-century calculus.
 
-Cryptography, the foundation of digital security, rests on number theory, [abstract algebra](/abstract-algebra), and computational complexity theory. Graph theory — the study of networks — powers social media algorithms, GPS routing, and internet infrastructure design.
+Cryptography, the foundation of digital security, rests on number theory, [abstract algebra](/abstract-algebra), and computational [complexity theory](/complexity-theory). Graph theory — the study of networks — powers social media algorithms, GPS routing, and internet infrastructure design.
 
 Even [agile software development](/agile-software-development) teams use applied math indirectly, through estimation models and queuing theory for workload management.
 
@@ -213,7 +213,7 @@ Several trends are shaping applied mathematics right now.
 
 **Uncertainty quantification** is getting more sophisticated. Instead of just computing a single answer, modern methods produce probability distributions that capture how uncertain the result is. This matters enormously in high-stakes decisions — should you evacuate a city based on a hurricane model? The answer depends not just on the model's prediction but on how much you trust it.
 
-**Quantum computing** could reshape parts of applied math. Certain optimization problems and linear algebra operations that take classical computers exponential time might be solvable in polynomial time on quantum hardware. The algorithms are already being developed — the question is when the hardware will catch up.
+**[Quantum computing](/quantum-computing)** could reshape parts of applied math. Certain optimization problems and linear algebra operations that take classical computers exponential time might be solvable in polynomial time on quantum hardware. The algorithms are already being developed — the question is when the hardware will catch up.
 
 **Mathematical biology** is one of the fastest-growing subfields. Genomics, neuroscience, ecology, and epidemiology all generate massive datasets and pose mathematical questions that don't fit neatly into traditional frameworks. New math is being invented specifically for biological applications, and the pace is accelerating.
 
@@ -221,6 +221,6 @@ Several trends are shaping applied mathematics right now.
 
 Applied mathematics isn't glamorous. Nobody makes movies about numerical analysts. But the field quietly shapes almost every aspect of modern life. The weather forecast on your phone, the structural integrity of the building you're sitting in, the recommendation algorithm that picked the last show you watched, the dosage of the medication you took this morning — all of it rests on applied math.
 
-The gap between what's mathematically possible and what's practically achievable continues to narrow. As computational power grows, as new mathematical tools emerge, and as more fields recognize the value of mathematical modeling, applied mathematics keeps expanding into new territory.
+The gap between what's mathematically possible and what's practically achievable continues to narrow. As computational power grows, as new mathematical tools emerge, and as more fields recognize the value of [mathematical modeling](/mathematical-modeling), applied mathematics keeps expanding into new territory.
 
 It started with Babylonian farmers measuring their fields. It now reaches into every corner of science, technology, and business. And the problems are only getting more interesting.

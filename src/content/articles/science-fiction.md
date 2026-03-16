@@ -33,7 +33,7 @@ faq:
 
 Science fiction is a genre of [storytelling](/storytelling) that imagines how science, technology, and social change could reshape the world — and then explores what those changes would mean for actual human beings. It takes a "what if" premise rooted in scientific possibility (however loosely) and follows it to its logical, often unsettling conclusions.
 
-The best science fiction isn't really about robots or spaceships. It's about us — how we'd react to contact with alien intelligence, what we'd do with immortality, whether artificial consciousness deserves rights. The technology is the stage. The human drama is the play.
+The best science fiction isn't really about robots or spaceships. It's about us — how we'd react to contact with alien intelligence, what we'd do with immortality, whether artificial consciousness deserves rights. The technology is the stage. The human [drama](/drama) is the play.
 
 ## Where It Came From
 
@@ -51,11 +51,11 @@ Science fiction has fragmented into dozens of subgenres, each with distinct preo
 
 **Hard science fiction** prioritizes scientific accuracy. Writers like Arthur C. Clarke, Kim Stanley Robinson, and Andy Weir build their stories around real [physics](/physics), [biology](/biology), or [engineering](/engineering). *The Martian* is hard sci-fi — the plot hinges on actual orbital mechanics, Martian soil [chemistry](/chemistry), and [botany](/botany). If the science is wrong, the story falls apart.
 
-**Space opera** goes the other direction — big, sweeping adventures with interstellar civilizations, faster-than-light travel, and galactic empires. *Star Wars*, *Dune*, and Iain M. Banks's *Culture* series are space opera. The science is more backdrop than foundation, and the emphasis is on characters, [politics](/politics), and spectacle.
+**Space [opera](/opera)** goes the other direction — big, sweeping adventures with interstellar civilizations, faster-than-light travel, and galactic empires. *Star Wars*, *Dune*, and Iain M. Banks's *Culture* series are space opera. The science is more backdrop than foundation, and the emphasis is on characters, [politics](/politics), and spectacle.
 
 **Cyberpunk** emerged in the 1980s with William Gibson's *Neuromancer* and Ridley Scott's *Blade Runner*. It imagines near-future worlds dominated by corporate power, advanced computing, and social inequality — high tech, low life. In retrospect, cyberpunk predicted the internet age more accurately than almost any other subgenre.
 
-**Dystopian fiction** explores societies gone wrong. Orwell's *1984*, Huxley's *Brave New World*, and Atwood's *The Handmaid's Tale* extrapolate current trends to nightmarish conclusions. This subgenre boomed after 2016, with publishers reporting a 150% increase in dystopian fiction sales.
+**Dystopian fiction** explores societies gone wrong. Orwell's *1984*, Huxley's *Brave New World*, and Atwood's *The Handmaid's Tale* extrapolate current trends to nightmarish conclusions. This subgenre boomed after 2016, with publishers reporting a 150% increase in dystopian fiction [sales](/sales).
 
 **Climate fiction (cli-fi)** deals specifically with environmental change — rising seas, resource wars, ecological collapse. It's the newest major subgenre and arguably the most urgent, since its subject matter is unfolding in real time.
 

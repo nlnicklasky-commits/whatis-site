@@ -31,7 +31,7 @@ faq:
 
 # What Is Prehistoric Art?
 
-Prehistoric art is any visual art created before the [invention](/invention) of writing systems — which means before roughly 3500-3000 BCE in Mesopotamia and Egypt, though the cutoff varies by region. It includes cave paintings, rock engravings, carved figurines, decorated tools, megalithic monuments, and the earliest known sculptures. This is art made by people who left no written explanation of what they were doing or why, which makes interpreting it one of the most fascinating and frustrating challenges in [archaeology](/archaeology).
+Prehistoric art is any visual art created before the [invention](/invention) of [writing](/writing) systems — which means before roughly 3500-3000 BCE in Mesopotamia and Egypt, though the cutoff varies by region. It includes cave paintings, rock engravings, carved figurines, decorated tools, megalithic monuments, and the earliest known sculptures. This is art made by people who left no written explanation of what they were doing or why, which makes interpreting it one of the most fascinating and frustrating challenges in [archaeology](/archaeology).
 
 ## The Oldest Evidence
 
@@ -67,9 +67,9 @@ What do they represent? Theories include fertility symbols, self-portraits (wome
 
 ## Megaliths and Monuments
 
-During the Neolithic period (roughly 10,000-3,000 BCE, depending on region), as humans shifted from hunting and gathering to farming, art and [architecture](/architecture) scaled up dramatically.
+During the Neolithic period (roughly 10,000-3,000 BCE, depending on region), as humans shifted from [hunting](/hunting) and gathering to [farming](/farming), art and [architecture](/architecture) scaled up dramatically.
 
-**Stonehenge** (England, ~3000-2000 BCE) is the most famous megalithic monument, but it's one of thousands across Europe. Gobekli Tepe in Turkey (~9500 BCE) is far older — massive carved stone pillars erected by hunter-gatherers, predating [agriculture](/agriculture) and pottery. Its discovery forced archaeologists to reconsider the assumption that monumental [construction](/construction) required settled, agricultural societies.
+**Stonehenge** (England, ~3000-2000 BCE) is the most famous megalithic monument, but it's one of thousands across Europe. Gobekli Tepe in Turkey (~9500 BCE) is far older — massive carved stone pillars erected by hunter-gatherers, predating [agriculture](/agriculture) and [pottery](/pottery). Its discovery forced archaeologists to reconsider the assumption that monumental [construction](/construction) required settled, agricultural societies.
 
 **Newgrange** (Ireland, ~3200 BCE) is a passage tomb decorated with spirals, diamonds, and concentric circles carved into massive stones. The passage is precisely aligned so that sunlight reaches the inner chamber only at dawn on the winter solstice — a feat of astronomical observation and [engineering](/engineering) that predates the pyramids by 500 years.
 

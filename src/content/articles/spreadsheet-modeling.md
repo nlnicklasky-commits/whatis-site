@@ -85,4 +85,4 @@ The problem isn't that spreadsheet users are careless. It's that spreadsheets pr
 
 Spreadsheets are extraordinary tools for their intended use — but they have limits. When your data exceeds 100,000 rows, when multiple people need to edit simultaneously, when you need version control and audit trails, when calculations require programming logic that formulas can't handle cleanly — it's time to consider databases, [programming languages](/programming-languages) (Python, R), or specialized tools.
 
-But for prototyping an idea, exploring a business question, or building a model that ten people need to understand? Spreadsheets remain unbeatable. They're the reason a finance intern and a Fortune 500 CFO use the same tool — and that accessibility is their greatest strength.
+But for prototyping an idea, exploring a business question, or building a model that ten people need to understand? Spreadsheets remain unbeatable. They're the reason a [finance](/finance) intern and a Fortune 500 CFO use the same tool — and that accessibility is their greatest strength.

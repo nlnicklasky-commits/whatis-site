@@ -67,7 +67,7 @@ The shift started in the mid-19th century. Rifled muskets, which replaced smooth
 
 The British learned the hard way. In the Boer War (1899-1902), Boer marksmen using smokeless-powder rifles picked off red-coated soldiers at 1,000 yards. The British army adopted khaki (from the Urdu word for "dust-colored") for active service, though they'd actually started using it in India as early as the 1840s — it just took decades for the lesson to stick in the rest of the army.
 
-By [World War I](/world-war-i), every major army had ditched bright colors for field service. The British wore khaki. The Germans wore feldgrau (field gray). The French, infamously, entered the war in 1914 still wearing red trousers and blue coats — and suffered catastrophic casualties before switching to "horizon blue" in 1915. The colorful era was over. Dead soldiers in bright uniforms turned out to be a poor trade for tradition.
+By [World War I](/world-war-i), every major army had ditched bright colors for field service. The British wore khaki. The Germans wore feldgrau (field gray). The French, infamously, entered the war in 1914 still wearing red trousers and blue coats — and suffered catastrophic casualties before switching to "horizon blue" in 1915. The colorful era was over. Dead soldiers in bright uniforms turned out to be a poor [trade](/trade) for tradition.
 
 ## Camouflage: The Science of Not Being Seen
 

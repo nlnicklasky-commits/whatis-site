@@ -145,7 +145,7 @@ Despite their reputation, stellar black holes don't actively "suck in" nearby ma
 
 ### Spectroscopy
 
-The single most powerful tool in stellar astronomy is spectroscopy — analyzing the spectrum of light from a star. Absorption lines in the spectrum reveal the star's chemical composition (since each element absorbs specific wavelengths), surface temperature (from line strengths), radial velocity (from Doppler shifts), rotation rate (from line broadening), and even magnetic field strength (from Zeeman splitting).
+The single most powerful tool in stellar astronomy is [spectroscopy](/spectroscopy) — analyzing the spectrum of light from a star. Absorption lines in the spectrum reveal the star's chemical composition (since each element absorbs specific wavelengths), surface temperature (from line strengths), radial velocity (from Doppler shifts), rotation rate (from line broadening), and even magnetic field strength (from Zeeman splitting).
 
 Annie Jump Cannon classified over 350,000 stellar spectra by hand in the early 1900s, creating the classification system still in use today. She could classify three spectra per minute — a feat that modern computers barely outperform in speed, though they handle far larger datasets.
 

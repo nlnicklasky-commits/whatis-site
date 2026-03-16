@@ -148,7 +148,7 @@ Regardless of whether telepathy is real, the research program has produced genui
 
 **Insights into human cognition.** Studying why people believe in telepathy reveals important things about [cognitive bias](/cognitive-bias) — confirmation bias, the clustering illusion (seeing patterns in randomness), subjective validation, and the underestimation of coincidence.
 
-**The replication debate.** Parapsychology's replication problems foreshadowed the broader replication crisis that hit psychology, medicine, and other fields in the 2010s. The same statistical and methodological issues that plague telepathy research also affect mainstream science, just less visibly.
+**The replication debate.** Parapsychology's replication problems foreshadowed the broader replication crisis that hit [psychology](/psychology), medicine, and other fields in the 2010s. The same statistical and methodological issues that plague telepathy research also affect mainstream science, just less visibly.
 
 ## Where Things Stand
 

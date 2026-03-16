@@ -31,13 +31,13 @@ faq:
 
 # What Is Archery?
 
-Archery is the practice of using a bow to propel arrows toward a target. It's one of humanity's oldest technologies — used for hunting and warfare for tens of thousands of years — and now a precision sport practiced by millions of people worldwide, including at the Olympic Games.
+Archery is the practice of using a bow to propel arrows toward a target. It's one of humanity's oldest technologies — used for [hunting](/hunting) and warfare for tens of thousands of years — and now a precision sport practiced by millions of people worldwide, including at the Olympic Games.
 
 ## 70,000 Years of Aiming
 
 The bow and arrow is one of the most significant inventions in human history. Stone arrowheads found in South Africa date to approximately 70,000 years ago. By the time civilizations emerged in Mesopotamia, Egypt, and China, archery was central to both hunting and [military strategy](/military-strategy).
 
-The English longbow dominated medieval European battlefields. At the Battle of Agincourt in 1415, roughly 5,000 English longbowmen devastated a French army several times their size, launching volleys of arrows that could penetrate armor at 200 yards. Training an effective longbowman took years — so much time that English law required regular practice, and skeletal remains of medieval archers show distinctive bone deformations from decades of drawing heavy bows.
+The English longbow dominated medieval European battlefields. At the Battle of Agincourt in 1415, roughly 5,000 English longbowmen devastated a French army several times their size, launching volleys of arrows that could penetrate armor at 200 yards. Training an effective longbowman took years — so much time that English law required regular practice, and skeletal remains of medieval archers show distinctive bone deformations from decades of [drawing](/drawing) heavy bows.
 
 Mounted archery transformed warfare across the Asian steppes. The Mongols under Genghis Khan built the largest contiguous land empire in [history](/sports-history) partly through their extraordinary skill at shooting from horseback at full gallop.
 
@@ -65,7 +65,7 @@ Longbows and traditional recurves — shot without sights, stabilizers, or mecha
 
 ### Target Archery
 
-The most common format. Archers shoot at circular targets from fixed distances — 70 meters outdoors for Olympic competition, 18 meters indoors. The target face has 10 concentric rings; hitting the innermost ring (the "X-ring") scores 10 points. At 70 meters, that innermost ring is just 12.2 centimeters across. Hitting it consistently requires extraordinary precision, physical conditioning, and [mental control](/sports-psychology).
+The most common format. Archers shoot at circular targets from fixed distances — 70 meters outdoors for Olympic competition, 18 meters indoors. The target face has 10 concentric rings; hitting the innermost ring (the "X-ring") scores 10 points. At 70 meters, that innermost ring is just 12.2 centimeters across. Hitting it consistently requires extraordinary precision, physical conditioning, and [mental control](/sports-[psychology](/psychology)).
 
 Olympic archery uses a set system: archers shoot simultaneously in ranking rounds, then face off in head-to-head elimination matches. South Korea has dominated Olympic archery for decades, winning more gold medals than any other country by a wide margin.
 

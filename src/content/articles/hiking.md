@@ -55,7 +55,7 @@ The reasons are both obvious and scientifically validated.
 
 **[Mental health](/mental-health).** Multiple studies — including a widely cited 2015 Stanford paper — show that walking in natural settings reduces activity in the subgenual prefrontal cortex, a brain region associated with rumination (repetitive negative thinking). In plain terms: hiking literally quiets the anxious chatter in your head. Participants showed measurable reductions in anxiety and depression after just 90 minutes of nature walking.
 
-**It is cheap.** You need shoes and water. Everything else is optional. Unlike skiing, golf, or [cycling](/cycling), the barrier to entry is almost zero.
+**It is cheap.** You need shoes and water. Everything else is optional. Unlike [skiing](/skiing), [golf](/golf), or [cycling](/cycling), the barrier to entry is almost zero.
 
 **Social connection.** Hiking with others creates bonding opportunities that differ from regular socializing. Something about walking side by side — rather than facing each other — makes conversation flow more naturally. And shared physical challenges build camaraderie quickly.
 
@@ -78,7 +78,7 @@ The outdoor gear industry would love you to think you need $2,000 worth of equip
 Trails work because people follow unwritten (and sometimes written) rules:
 
 - **Uphill hikers have right of way.** If someone is grinding up a steep section, step aside and let them pass.
-- **Leave No Trace.** Pack out all trash, stay on established trails, do not pick flowers or disturb wildlife. These principles, formalized by the Leave No Trace Center for Outdoor Ethics, keep trails sustainable for future visitors.
+- **Leave No Trace.** Pack out all trash, stay on established trails, do not pick flowers or disturb wildlife. These principles, formalized by the Leave No Trace Center for Outdoor [Ethics](/ethics), keep trails sustainable for future visitors.
 - **Tell someone your plans.** Before any solo hike, let a friend or family member know where you are going and when you expect to return.
 - **Start early.** Morning starts avoid afternoon heat, lightning storms (common in mountains), and the stress of being caught on trail after dark.
 

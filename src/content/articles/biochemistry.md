@@ -39,7 +39,7 @@ faq:
 
 # What Is Biochemistry?
 
-Biochemistry is the scientific discipline that studies the chemical structures, reactions, and processes occurring within and between living cells. It sits precisely at the intersection of [biology](/biology) and chemistry, using the tools and principles of both to explain how the molecules of life — proteins, nucleic acids, lipids, and carbohydrates — drive everything from muscle contraction to memory formation to photosynthesis.
+Biochemistry is the scientific discipline that studies the chemical structures, reactions, and processes occurring within and between living cells. It sits precisely at the intersection of [biology](/biology) and [chemistry](/chemistry), using the tools and principles of both to explain how the molecules of life — proteins, nucleic acids, lipids, and carbohydrates — drive everything from muscle contraction to memory formation to photosynthesis.
 
 ## The Molecules That Make You
 
@@ -131,7 +131,7 @@ Cells must precisely control when and how fast each reaction occurs. Enzyme regu
 
 Modern medicine is biochemistry applied. Nearly every drug targets a specific molecular pathway, and understanding those pathways requires biochemical knowledge.
 
-**Drug design** increasingly uses structural biochemistry — knowing the three-dimensional shape of a target protein (often determined by X-ray crystallography or cryo-[electron microscopy](/electron-microscopy)) to design molecules that fit into its active site or binding pocket. The HIV protease inhibitors that transformed AIDS from a death sentence to a manageable chronic condition were designed this way.
+**Drug design** increasingly uses structural biochemistry — knowing the three-dimensional shape of a target protein (often determined by X-ray [crystallography](/crystallography) or cryo-[electron microscopy](/electron-microscopy)) to design molecules that fit into its active site or binding pocket. The HIV protease inhibitors that transformed AIDS from a death sentence to a manageable chronic condition were designed this way.
 
 **Diagnostic testing** is almost entirely biochemical. Blood glucose monitoring measures the concentration of a small molecule. Pregnancy tests detect the hormone hCG using antibodies. PCR (polymerase chain reaction) amplifies DNA sequences for pathogen detection, forensic identification, and genetic testing. CRISPR-based diagnostics — like the SHERLOCK system developed during COVID-19 — use enzymatic reactions to detect specific nucleic acid sequences.
 
@@ -147,7 +147,7 @@ Several analytical methods define the field:
 
 **Mass spectrometry** identifies molecules by their mass-to-charge ratio. [Proteomics](/proteomics) — the large-scale study of all proteins in a cell — relies heavily on mass spectrometry to identify and quantify thousands of proteins simultaneously.
 
-**X-ray crystallography** determines the atomic structure of molecules by analyzing how X-rays diffract through crystals. It has produced the structures of tens of thousands of proteins, including many drug targets. Cryo-electron microscopy (cryo-EM) has emerged as a complementary technique, particularly for large molecular complexes that are difficult to crystallize.
+**X-ray crystallography** determines the atomic structure of molecules by analyzing how X-rays diffract through crystals. It has produced the structures of tens of thousands of proteins, including many drug targets. Cryo-electron [microscopy](/microscopy) (cryo-EM) has emerged as a complementary technique, particularly for large molecular complexes that are difficult to crystallize.
 
 **[Spectroscopy](/spectroscopy)** — UV-visible, fluorescence, circular dichroism, NMR — provides information about molecular concentration, structure, and dynamics. These are the workhorse measurements of daily biochemistry research.
 

@@ -43,11 +43,11 @@ An algorithm is a finite sequence of well-defined instructions designed to perfo
 
 ## Older Than Computers, Surprisingly
 
-Most people associate algorithms with computers. Reasonable assumption, wrong history. The word itself comes from the name of the 9th-century Persian mathematician Muhammad ibn Musa al-Khwarizmi, whose work on arithmetic and algebra laid foundations that mathematicians still build on today. His name was Latinized to "Algoritmi," and eventually we got "algorithm."
+Most people associate algorithms with computers. Reasonable assumption, wrong history. The word itself comes from the name of the 9th-century Persian mathematician Muhammad ibn Musa al-Khwarizmi, whose work on arithmetic and [algebra](/algebra) laid foundations that mathematicians still build on today. His name was Latinized to "Algoritmi," and eventually we got "algorithm."
 
 But the concept goes back even further. Euclid's algorithm for finding the greatest common divisor of two numbers dates to around 300 BCE. That's over 2,300 years ago. The ancient Babylonians used algorithmic procedures for calculating square roots. Long division? That's an algorithm you probably learned in elementary school without anyone calling it one.
 
-The point is this: algorithms aren't a [computer science](/computer-science) invention. They're a human invention. Computers just happen to be extraordinarily good at executing them—billions of operations per second, without getting bored or making arithmetic mistakes.
+The point is this: algorithms aren't a [computer science](/computer-science) [invention](/invention). They're a human invention. Computers just happen to be extraordinarily good at executing them—billions of operations per second, without getting bored or making arithmetic mistakes.
 
 ## What Makes Something an Algorithm
 
@@ -103,7 +103,7 @@ A graph in computer science isn't a bar chart. It's a network—nodes connected 
 
 ### Recursive Algorithms
 
-Recursion is when a function calls itself with a smaller version of the same problem. It sounds like circular logic, but it works—as long as you have a base case that stops the recursion.
+Recursion is when a function calls itself with a smaller version of the same problem. It sounds like circular [logic](/logic), but it works—as long as you have a base case that stops the recursion.
 
 The classic example is calculating a factorial. 5! = 5 x 4!. And 4! = 4 x 3!. And so on, until you hit 1! = 1. Each call reduces the problem until you reach something trivially solvable, then the answers cascade back up.
 
@@ -115,7 +115,7 @@ Here's where things get genuinely clever. Active programming solves complex prob
 
 Consider calculating Fibonacci numbers. The naive recursive approach recalculates the same values over and over—computing fib(50) requires over a trillion recursive calls. A active programming approach stores each result as it's calculated and looks it up when needed. Suddenly, fib(50) takes 50 steps instead of a trillion. That's not an incremental improvement. That's the difference between a microsecond and centuries.
 
-Active programming powers everything from spell checkers (edit distance calculations) to bioinformatics (DNA sequence alignment) to logistics (route [optimization](/optimization)). It's one of those techniques that separates programmers who can solve hard problems from those who can't.
+Active programming powers everything from spell [checkers](/checkers) (edit distance calculations) to bioinformatics (DNA sequence alignment) to [logistics](/logistics) (route [optimization](/optimization)). It's one of those techniques that separates programmers who can solve hard problems from those who can't.
 
 ## Big O Notation: How Fast Is Fast?
 
@@ -139,7 +139,7 @@ The practical takeaway: if your algorithm is O(n^2) or worse, it might work fine
 
 ## Algorithms in the Wild
 
-Algorithms aren't just academic exercises. They're running your life—whether you realize it or not.
+Algorithms aren't just academic exercises. They're [running](/running) your life—whether you realize it or not.
 
 ### Search Engines
 
@@ -151,11 +151,11 @@ Modern search involves hundreds of additional algorithms layered on top: [natura
 
 When you open Instagram or TikTok, an algorithm decides what you see. These recommendation algorithms analyze your past behavior—what you liked, how long you watched, what you scrolled past—and predict what will keep you engaged. They're optimizing for attention, which is why your feed feels eerily personalized.
 
-These systems use [collaborative filtering](/collaborative-filtering) (people similar to you liked X, so you might like X), content-based filtering (you watched cooking videos, here's another cooking video), and increasingly, deep [machine learning](/machine-learning) models that find patterns humans can't articulate.
+These systems use [collaborative filtering](/collaborative-filtering) (people similar to you liked X, so you might like X), content-based filtering (you watched [cooking](/cooking) videos, here's another cooking video), and increasingly, deep [machine learning](/machine-learning) models that find patterns humans can't articulate.
 
 ### Navigation and Maps
 
-Finding the fastest route between two points on a road network with millions of intersections requires sophisticated graph algorithms. Services like Google Maps and Waze use variations of Dijkstra's algorithm combined with heuristics (A* search), real-time traffic data, and precomputed hierarchical shortcuts. The result: optimal routes calculated in milliseconds.
+Finding the fastest route between two points on a road network with millions of intersections requires sophisticated graph algorithms. Services like Google Maps and Waze use variations of Dijkstra's algorithm combined with [heuristics](/heuristics) (A* search), real-time traffic data, and precomputed hierarchical shortcuts. The result: optimal routes calculated in milliseconds.
 
 ### [Cryptography](/cryptography) and Security
 
@@ -177,7 +177,7 @@ This is the biggest unsolved problem in computer science—and one of the seven 
 
 **P** is the class of problems solvable in polynomial time (efficient algorithms exist). Sorting a list? That's in P.
 
-**NP** is the class of problems where a proposed solution can be *verified* in polynomial time, even if finding the solution might take much longer. Think of a Sudoku puzzle: checking if a completed grid is valid is fast, but solving it from scratch is much harder.
+**NP** is the class of problems where a proposed solution can be *verified* in polynomial time, even if finding the solution might take much longer. Think of a [Sudoku](/sudoku) puzzle: checking if a completed grid is valid is fast, but solving it from scratch is much harder.
 
 The question "does P equal NP?" asks whether every problem whose solution can be quickly verified can also be quickly solved. Most computer scientists believe the answer is no—but nobody has proven it. If P did equal NP, it would break most modern cryptography, because the hard mathematical problems protecting your data would suddenly have efficient solutions.
 
@@ -211,7 +211,7 @@ Social media recommendation algorithms optimize for engagement. Engagement, it t
 
 You don't need to be a programmer to benefit from algorithmic thinking. The core ideas transfer everywhere.
 
-**Break big problems into smaller ones.** This is divide-and-conquer, and it works for planning a wedding, organizing a move, or writing a book. You can't solve a massive problem in one step, but you can break it into pieces that are each manageable.
+**Break big problems into smaller ones.** This is divide-and-conquer, and it works for planning a wedding, organizing a move, or [writing](/writing) a book. You can't solve a massive problem in one step, but you can break it into pieces that are each manageable.
 
 **Eliminate the unnecessary.** Binary search's genius is that it throws away half the possibilities with each step. In decision-making, ask: what information would eliminate the most options? Start there.
 
@@ -227,7 +227,7 @@ Algorithmic development isn't slowing down. Several frontiers are actively being
 
 **Quantum algorithms** like Shor's algorithm (for factoring large numbers) and Grover's algorithm (for searching unsorted databases) promise dramatic speedups for specific problem types. Shor's algorithm would break RSA encryption—which is why cryptographers are already developing post-quantum cryptographic algorithms designed to resist quantum attacks.
 
-**Algorithmic fairness** is becoming a field of its own. Researchers are developing formal mathematical definitions of fairness and building algorithms that satisfy them. This isn't just ethics—it's [engineering](/engineering). Regulators in the EU and US are increasingly requiring algorithmic transparency and accountability.
+**Algorithmic fairness** is becoming a field of its own. Researchers are developing formal mathematical definitions of fairness and building algorithms that satisfy them. This isn't just [ethics](/ethics)—it's [engineering](/engineering). Regulators in the EU and US are increasingly requiring algorithmic transparency and accountability.
 
 **Biological algorithms** take inspiration from nature. Genetic algorithms mimic evolution—populations of candidate solutions "breed" and "mutate" over generations, with the fittest surviving. Ant colony optimization mimics how ants find shortest paths to food. Simulated annealing mimics the cooling of metals. These approaches excel at optimization problems where traditional methods struggle.
 
@@ -235,7 +235,7 @@ Algorithmic development isn't slowing down. Several frontiers are actively being
 
 ## Why This All Matters to You
 
-Here's the thing—even if you never write a line of code, algorithms affect your daily life in ways you might not notice. The interest rate on your mortgage, whether your resume gets seen by a human recruiter, what news stories appear in your feed, how long you wait at a traffic light, whether your insurance claim gets flagged for review. Algorithms.
+Here's the thing—even if you never write a line of code, algorithms affect your daily life in ways you might not notice. The interest rate on your mortgage, whether your resume gets seen by a human recruiter, what news stories appear in your feed, how long you wait at a traffic light, whether your [insurance](/insurance) claim gets flagged for review. Algorithms.
 
 Understanding them—even at a high level—gives you something valuable: the ability to ask better questions. When a company says "our algorithm determined..." you can ask: What data does it use? How was it tested? What are its failure modes? Who audits it?
 

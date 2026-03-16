@@ -39,17 +39,17 @@ faq:
 
 # What Is Finance?
 
-Finance is the discipline concerned with the management, creation, and study of money, investments, and other financial instruments. It encompasses how individuals budget and save, how corporations fund operations and growth, how governments collect and spend revenue, and how markets price risk and allocate capital across an economy.
+Finance is the discipline concerned with the [management](/management), creation, and study of money, investments, and other financial instruments. It encompasses how individuals budget and save, how corporations fund operations and growth, how governments collect and spend revenue, and how markets price risk and allocate capital across an economy.
 
 ## The Three Pillars of Finance
 
-Finance divides neatly into three major branches, each with its own logic, tools, and concerns. Understanding all three gives you a complete picture of how money moves through the world.
+Finance divides neatly into three major branches, each with its own [logic](/logic), tools, and concerns. Understanding all three gives you a complete picture of how money moves through the world.
 
 ### [Personal Finance](/personal-finance)
 
 This is the branch that affects you most directly. Personal finance covers everything about how individuals manage their money: earning, spending, saving, investing, borrowing, and protecting against risk.
 
-The core concepts are deceptively simple. Spend less than you earn. Save the difference. Invest those savings wisely. Protect against catastrophic loss through insurance. Plan for retirement. Manage debt carefully.
+The core concepts are deceptively simple. Spend less than you earn. Save the difference. Invest those savings wisely. Protect against catastrophic loss through [insurance](/insurance). Plan for retirement. Manage debt carefully.
 
 But "simple" doesn't mean "easy." Americans carry over $1.14 trillion in credit card debt as of 2025. The median retirement savings for Americans aged 55-64 is about $185,000—far less than most financial planners recommend. About 56% of Americans can't cover an unexpected $1,000 expense from savings.
 
@@ -75,9 +75,9 @@ The **cost of capital** is a critical concept. When a company raises money—whe
 
 Public finance deals with how governments raise revenue, allocate spending, and manage debt. It's where finance meets policy, and the stakes are enormous.
 
-Governments raise money primarily through taxes (income, corporate, sales, property, excise), fees, and borrowing (issuing government bonds). The U.S. federal government collected about $4.9 trillion in revenue in fiscal year 2024, mostly from individual income taxes and payroll taxes.
+Governments raise money primarily through taxes (income, corporate, [sales](/sales), property, excise), fees, and borrowing (issuing [government](/government) bonds). The U.S. federal government collected about $4.9 trillion in revenue in fiscal year 2024, mostly from individual income taxes and payroll taxes.
 
-Government spending covers defense, social programs (Social Security, Medicare, Medicaid), infrastructure, education, and interest on existing debt. The U.S. federal government spent about $6.8 trillion in FY2024—nearly $2 trillion more than it collected. That deficit was financed by issuing Treasury bonds, adding to a national debt that exceeded $36 trillion by early 2025.
+Government spending covers defense, social programs (Social Security, Medicare, Medicaid), infrastructure, [education](/education), and interest on existing debt. The U.S. federal government spent about $6.8 trillion in FY2024—nearly $2 trillion more than it collected. That deficit was financed by issuing Treasury bonds, adding to a national debt that exceeded $36 trillion by early 2025.
 
 Public finance economists study questions like: What's the optimal tax rate? How does government spending affect economic growth? Is deficit spending stimulative or harmful? These questions don't have simple answers—they depend on economic conditions, time horizons, and value judgments that keep economists arguing perpetually.
 
@@ -87,7 +87,7 @@ Financial markets are the engines that connect people who have money (savers, in
 
 ### Stock Markets
 
-Stock markets allow companies to sell ownership shares to the public, raising capital for growth. Once shares are issued, they trade between investors on exchanges like the New York Stock Exchange (NYSE) and NASDAQ.
+Stock markets allow companies to sell ownership shares to the public, raising capital for growth. Once shares are issued, they [trade](/trade) between investors on exchanges like the New York Stock Exchange (NYSE) and NASDAQ.
 
 As of 2025, the total value of all publicly traded stocks worldwide exceeds $110 trillion. The U.S. stock market alone accounts for about 45% of that total—a dominance that reflects the size of the U.S. economy, the depth of its capital markets, and the strength of its regulatory framework.
 
@@ -111,7 +111,7 @@ Derivatives are financial contracts whose value derives from an underlying asset
 
 The notional value of outstanding derivatives exceeds $600 trillion—a number that sounds terrifying but is somewhat misleading because most derivatives are offsetting contracts that net out against each other. Still, derivatives played a central role in the 2008 financial crisis when complex mortgage-backed derivatives spread risk throughout the financial system in ways that nobody fully understood.
 
-Used properly, derivatives are essential risk management tools. A farmer can sell wheat futures to lock in a price and protect against a price drop. An airline can buy fuel futures to stabilize costs. A multinational corporation can use currency swaps to hedge exchange rate risk. The instruments themselves aren't dangerous—but complexity and use can create systemic risks.
+Used properly, derivatives are essential [risk management](/risk-management) tools. A farmer can sell wheat futures to lock in a price and protect against a price drop. An airline can buy fuel futures to stabilize costs. A multinational corporation can use currency swaps to hedge exchange rate risk. The instruments themselves aren't dangerous—but complexity and use can create systemic risks.
 
 ## The Time Value of Money
 
@@ -145,7 +145,7 @@ The financial system is the infrastructure that connects savers and borrowers, m
 
 **Asset management firms** invest money on behalf of clients—pension funds, endowments, wealthy individuals, and retail investors through mutual funds and ETFs. BlackRock, Vanguard, and Fidelity collectively manage over $20 trillion in assets.
 
-**Central banks** (the Federal Reserve in the U.S., the European Central Bank in Europe, the Bank of Japan) set monetary policy—controlling interest rates and money supply to manage inflation and economic growth. Central bank decisions affect every other part of the financial system.
+**Central banks** (the Federal Reserve in the U.S., the European Central Bank in Europe, the Bank of Japan) set [monetary policy](/monetary-policy)—controlling interest rates and money supply to manage inflation and economic growth. Central bank decisions affect every other part of the financial system.
 
 ## Behavioral Finance: When Humans Aren't Rational
 
@@ -157,7 +157,7 @@ Behavioral finance, pioneered by Daniel Kahneman and Amos Tversky, documents the
 
 **Overconfidence**: Most investors believe they're above average—a mathematical impossibility. Active traders who think they can beat the market consistently underperform passive index funds about 90% of the time over 15-year periods.
 
-**Herd behavior**: When markets are rising, people pile in. When markets crash, people panic-sell. This buy-high, sell-low pattern is the opposite of rational investing but perfectly consistent with human psychology.
+**Herd behavior**: When markets are rising, people pile in. When markets crash, people panic-sell. This buy-high, sell-low pattern is the opposite of rational investing but perfectly consistent with human [psychology](/psychology).
 
 **Present bias**: People overvalue immediate rewards relative to future ones. This explains why saving for retirement is so hard even when people know they should—spending money today feels concretely rewarding in a way that adding to a 401(k) does not.
 
@@ -173,7 +173,7 @@ Financial technology—fintech—has reshaped how financial services are deliver
 
 **Robo-advisors** like Betterment and Wealthfront provide automated [investment management](/investment-management) at a fraction of the cost of human financial advisors. They construct diversified portfolios, rebalance automatically, and harvest tax losses—all for fees of 0.25% or less.
 
-**Blockchain and cryptocurrency** have introduced decentralized financial systems that operate without traditional intermediaries. [Cryptocurrency](/cryptography) remains volatile and speculative, but the underlying technology is being explored by major banks for settlement, clearing, and cross-border payments.
+**[Blockchain](/blockchain) and [cryptocurrency](/cryptocurrency)** have introduced decentralized financial systems that operate without traditional intermediaries. [Cryptocurrency](/cryptography) remains volatile and speculative, but the underlying technology is being explored by major banks for settlement, clearing, and cross-border payments.
 
 **Buy now, pay later (BNPL)** services have exploded, offering interest-free installment payments at the point of sale. While convenient, they've raised concerns about encouraging overspending, particularly among younger consumers.
 

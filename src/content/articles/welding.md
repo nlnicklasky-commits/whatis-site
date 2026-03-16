@@ -45,7 +45,7 @@ Humans have been welding for far longer than most people realize. Forge welding 
 
 But modern welding as we know it started in the 1800s. Sir Humphry Davy demonstrated the electric arc in 1800, and by the 1880s, Russian engineer Nikolai Benardos patented carbon arc welding -- the first electric welding process. Gas welding using oxyacetylene torches appeared around 1903 and became the dominant method for the first half of the 20th century.
 
-World War I and [World War II](/world-war-ii) massively accelerated welding technology. The demand for ships, tanks, aircraft, and weapons drove rapid improvements in welding processes and equipment. The Liberty ships of WWII were the first major vessels built primarily with welding rather than riveting -- though some early ones famously cracked because engineers were still learning how welded steel structures behaved in cold water.
+[World War I](/world-war-i) and [World War II](/world-war-ii) massively accelerated welding technology. The demand for ships, tanks, aircraft, and weapons drove rapid improvements in welding processes and equipment. The Liberty ships of WWII were the first major vessels built primarily with welding rather than riveting -- though some early ones famously cracked because engineers were still learning how welded steel structures behaved in cold water.
 
 The postwar era brought shielded metal arc welding (SMAW), gas metal arc welding (GMAW/MIG), gas tungsten arc welding (GTAW/TIG), and flux-cored arc welding (FCAW). Each solved specific problems and opened new applications. Today, welding is a $25+ billion global industry used in virtually every sector of manufacturing and [construction](/construction).
 
@@ -71,7 +71,7 @@ This shielding is why you can't just "touch two pieces of metal together with a 
 
 The heat-affected zone (HAZ) is the area of base metal adjacent to the weld that wasn't melted but was heated enough to change its microstructure. This zone is often the weakest part of a welded joint because the heating and cooling cycle can alter the metal's grain structure, hardness, and ductility.
 
-Understanding the HAZ is critical in [materials science](/materials-science). Different metals respond differently to heat cycling. Carbon steel can become brittle in the HAZ if cooled too quickly. Some aluminum alloys actually soften in the HAZ. Controlling heat input and cooling rates is how skilled welders and welding engineers manage HAZ properties.
+Understanding the HAZ is critical in [materials science](/materials-science). Different metals respond differently to heat [cycling](/cycling). Carbon steel can become brittle in the HAZ if cooled too quickly. Some aluminum alloys actually soften in the HAZ. Controlling heat input and cooling rates is how skilled welders and welding engineers manage HAZ properties.
 
 ## Major Welding Processes
 
@@ -157,7 +157,7 @@ A weld that looks good on the surface can be full of hidden defects. Several ins
 
 **Radiographic testing** (X-ray or gamma ray) reveals internal defects by passing radiation through the weld and capturing an image on the other side. Voids, inclusions, and cracks show up as dark spots.
 
-**Ultrasonic testing** sends high-frequency sound waves through the weld and analyzes the reflections. It's faster than radiography and doesn't require radiation safety precautions.
+**Ultrasonic testing** sends high-frequency sound waves through the weld and analyzes the reflections. It's faster than [radiography](/radiography) and doesn't require radiation safety precautions.
 
 **Magnetic particle testing** detects surface and near-surface cracks in ferromagnetic materials by applying magnetic fields and iron particles. Cracks disrupt the magnetic field, causing particles to cluster visibly.
 
@@ -171,10 +171,10 @@ The welding industry faces a significant labor shortage. The American Welding So
 
 **Entry-level welding** positions (production welding, fabrication shops) pay $35,000-$50,000 annually. Training typically involves a 6-month to 2-year certificate or associate degree program at a technical school.
 
-**Skilled trade welding** (structural, pipe, maintenance) pays $50,000-$80,000. These positions often require specific certifications and 3-5 years of experience.
+**Skilled [trade](/trade) welding** (structural, pipe, maintenance) pays $50,000-$80,000. These positions often require specific certifications and 3-5 years of experience.
 
 **Specialized welding** (aerospace, nuclear, underwater, pipeline) pays $75,000-$150,000+. These roles require extensive certifications, specialized training, and often involve travel or hazardous conditions.
 
-**Welding engineers and inspectors** typically need a bachelor's degree in welding engineering or a related field from programs accredited by ABET. They earn $70,000-$120,000 and oversee welding operations, develop procedures, and ensure quality compliance.
+**Welding engineers and inspectors** typically need a bachelor's degree in welding [engineering](/engineering) or a related field from programs accredited by ABET. They earn $70,000-$120,000 and oversee welding operations, develop procedures, and ensure quality compliance.
 
 The physical demands of welding are real -- long hours in uncomfortable positions, exposure to heat and noise, and the toll of wearing heavy PPE. But for people who enjoy working with their hands and creating tangible things, welding offers stable, well-paying careers in an industry that isn't going away. Every bridge, building, ship, pipeline, car, and aircraft depends on quality welds, and robots -- while increasingly common in repetitive production welding -- can't replace human welders for the complex, variable work that makes up a huge portion of the trade.

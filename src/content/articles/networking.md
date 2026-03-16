@@ -45,7 +45,7 @@ Computers in isolation are useful. Computers connected to each other are exponen
 
 Before networks, if you wanted to share a file with a colleague, you copied it to a floppy disk and walked it over. Seriously. Programmers called this "sneakernet" — the network speed was limited by how fast you could walk. The first computer networks solved this problem by letting machines exchange data through cables instead of shoe leather.
 
-But sharing files was just the beginning. Networks enable email, instant messaging, video conferencing, shared databases, cloud storage, streaming media, online gaming, e-commerce, and essentially every digital service you use daily. The global economy runs on networks. About 5.5 billion people use the internet as of 2025 — roughly 68% of the world's population.
+But sharing files was just the beginning. Networks enable email, instant messaging, video conferencing, shared databases, cloud storage, streaming media, online [gaming](/gaming), e-commerce, and essentially every digital service you use daily. The global economy runs on networks. About 5.5 billion people use the internet as of 2025 — roughly 68% of the world's population.
 
 Here's what most people miss: networking isn't just about the internet. Your office has a local network. Data centers have internal networks. Factories have industrial networks. Cars have in-vehicle networks connecting dozens of computers. Even your body has something that works roughly like a network — your [nervous system](/anatomy), sending signals between brain and body.
 
@@ -65,7 +65,7 @@ Ethernet is the dominant wired LAN technology. Defined by the IEEE 802.3 standar
 
 ### Metropolitan Area Network (MAN)
 
-A MAN spans a city or campus. A university connecting buildings across a large campus, or a city government linking its offices, creates a MAN. These typically use fiber optic connections and can cover distances up to about 50 kilometers.
+A MAN spans a city or campus. A university connecting buildings across a large campus, or a city [government](/government) linking its offices, creates a MAN. These typically use fiber optic connections and can cover distances up to about 50 kilometers.
 
 ### Wide Area Network (WAN)
 
@@ -75,7 +75,7 @@ WANs generally operate at lower speeds than LANs because of the distances involv
 
 ## The OSI Model: How Network Communication Is Organized
 
-Every networking textbook and certification exam covers the OSI (Open Systems Interconnection) model. It divides network communication into seven layers, each handling a specific function. It's like the postal system — writing a letter, putting it in an envelope, addressing it, and handing it to the mail carrier are separate steps handled by different parts of the system.
+Every networking textbook and certification exam covers the OSI (Open Systems Interconnection) model. It divides network communication into seven layers, each handling a specific function. It's like the postal system — [writing](/writing) a letter, putting it in an envelope, addressing it, and handing it to the mail carrier are separate steps handled by different parts of the system.
 
 **Layer 1 — Physical.** The actual hardware. Cables, connectors, electrical signals, radio waves. This layer deals with bits — 1s and 0s — transmitted as voltages on copper, light pulses on fiber, or radio frequencies through air.
 
@@ -91,7 +91,7 @@ Every networking textbook and certification exam covers the OSI (Open Systems In
 
 **Layer 7 — Application.** The layer users interact with. HTTP, email protocols, FTP, DNS — these are all Layer 7 protocols that applications use to communicate over the network.
 
-In practice, the TCP/IP model (which collapses these into four layers) is what the internet actually uses. But the OSI model remains the standard teaching framework because it separates concerns cleanly.
+In practice, the TCP/IP model (which collapses these into four layers) is what the internet actually uses. But the OSI model remains the standard [teaching](/teaching) framework because it separates concerns cleanly.
 
 ## IP Addressing: How Devices Find Each Other
 
@@ -101,7 +101,7 @@ Every device on a network needs a unique address. On the internet and most priva
 
 The original addressing system uses 32-bit addresses, written as four numbers separated by dots: 192.168.1.1. This allows approximately 4.3 billion unique addresses. That seemed like plenty in 1981 when IPv4 was standardized. It's nowhere near enough now with billions of connected devices.
 
-Network Address Translation (NAT) has extended IPv4's life by allowing multiple devices behind a router to share a single public IP address. Your home network probably uses this — all your devices share one public-facing address while having private addresses internally (typically starting with 192.168 or 10.0).
+Network Address [Translation](/translation) (NAT) has extended IPv4's life by allowing multiple devices behind a router to share a single public IP address. Your home network probably uses this — all your devices share one public-facing address while having private addresses internally (typically starting with 192.168 or 10.0).
 
 ### IPv6
 
@@ -181,7 +181,7 @@ Distribute incoming traffic across multiple servers. When millions of people vis
 
 ### Network Cables
 
-**Cat5e** supports 1 Gbps over 100 meters — adequate for most offices. **Cat6/Cat6a** supports 10 Gbps. **Fiber optic** cables use light instead of electricity, supporting 100 Gbps or more over distances of kilometers. The undersea fiber cables connecting continents carry terabits of data per second.
+**Cat5e** supports 1 Gbps over 100 meters — adequate for most offices. **Cat6/Cat6a** supports 10 Gbps. **Fiber optic** cables use light instead of [electricity](/electricity), supporting 100 Gbps or more over distances of kilometers. The undersea fiber cables connecting continents carry terabits of data per second.
 
 ## Software-Defined Networking (SDN)
 
@@ -189,7 +189,7 @@ Traditional networks require configuring each device individually. In a network 
 
 SDN separates the control plane (the brain that decides where traffic goes) from the data plane (the hardware that moves packets). A central controller manages the entire network programmatically. Need to redirect traffic during maintenance? Change one policy in the controller instead of logging into a hundred switches.
 
-This matters enormously for [cloud computing](/cloud-computing) and [data science](/data-science) workloads where network configurations change constantly. SDN makes networks as programmable and flexible as the applications running on them.
+This matters enormously for [cloud computing](/cloud-computing) and [data science](/data-science) workloads where network configurations change constantly. SDN makes networks as programmable and flexible as the applications [running](/running) on them.
 
 ## Network Virtualization
 
@@ -221,7 +221,7 @@ Not all traffic is created equal. A video conference needs consistent low-latenc
 
 Networks need protection. [Network security](/network-security) is an entire discipline, but the basics include:
 
-**Firewalls** filter traffic based on rules. **Encryption** protects data in transit. **Access controls** limit who can connect and what they can access. **Intrusion detection** monitors for suspicious activity. **Segmentation** isolates sensitive systems.
+**Firewalls** filter traffic based on rules. **Encryption** protects data in transit. **Access controls** limit who can connect and what they can access. **[Intrusion detection](/intrusion-detection)** monitors for suspicious activity. **Segmentation** isolates sensitive systems.
 
 The shift to zero-trust architectures — where nothing is trusted by default, even inside the network — represents the current evolution in how security interacts with networking.
 
@@ -237,7 +237,7 @@ Internet Exchange Points (IXPs) are physical locations where networks connect an
 
 ### 5G and Beyond
 
-5G cellular networks offer theoretical speeds up to 20 Gbps with latency under 1 millisecond. This enables applications like remote surgery, autonomous vehicles, and massive IoT deployments that previous cellular generations couldn't support.
+5G cellular networks offer theoretical speeds up to 20 Gbps with latency under 1 millisecond. This enables applications like remote [surgery](/surgery), autonomous vehicles, and massive IoT deployments that previous cellular generations couldn't support.
 
 ### Wi-Fi 7
 
@@ -255,6 +255,6 @@ Just as [cloud computing](/cloud-computing) turned servers into a service, NaaS 
 
 Networking connects devices so they can share data and resources. From Bluetooth PANs to the global internet, networks operate at every scale using standardized protocols — primarily TCP/IP — that allow billions of devices to communicate.
 
-Understanding the basics — IP addressing, switching, routing, protocols, and network types — gives you a foundation for grasping everything from home Wi-Fi troubleshooting to enterprise architecture to how the internet actually works.
+Understanding the basics — IP addressing, switching, routing, protocols, and network types — gives you a foundation for grasping everything from home Wi-Fi troubleshooting to enterprise [architecture](/architecture) to how the internet actually works.
 
-The field continues evolving rapidly with software-defined networking, 5G, Wi-Fi 7, and AI-powered network management transforming how we build, operate, and secure the networks that underpin modern life.
+The field continues evolving rapidly with software-defined networking, 5G, Wi-Fi 7, and AI-powered network [management](/management) transforming how we build, operate, and secure the networks that underpin modern life.

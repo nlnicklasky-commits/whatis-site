@@ -47,7 +47,7 @@ The cost of bad architecture is usually invisible at first. When a system is sma
 
 ## The Fundamental Trade-offs
 
-Every architectural decision involves trade-offs. There is no perfect architecture — only architectures that are better or worse for specific contexts. Understanding these trade-offs is what separates experienced architects from people who just read about the latest trendy pattern.
+Every architectural decision involves [trade](/trade)-offs. There is no perfect architecture — only architectures that are better or worse for specific contexts. Understanding these trade-offs is what separates experienced architects from people who just read about the latest trendy pattern.
 
 ### Simplicity vs. Flexibility
 
@@ -69,7 +69,7 @@ Architectural patterns are proven structural solutions to recurring design probl
 
 ### Monolithic Architecture
 
-The simplest pattern: everything runs as a single, unified application. All code is compiled and deployed together. The web server, business logic, and data access are all in one codebase, running in one process.
+The simplest pattern: everything runs as a single, unified application. All code is compiled and deployed together. The web server, business [logic](/logic), and data access are all in one codebase, [running](/running) in one process.
 
 **When it works:** Small to medium applications, small teams, early-stage startups, and anything where deployment simplicity matters more than independent scalability. Ruby on Rails, Django, and early versions of most successful web apps were monoliths.
 

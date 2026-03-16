@@ -55,7 +55,7 @@ The body is usually made from spruce or cedar for the top (the soundboard) and r
 
 Here's where classical guitar diverges sharply from other guitar styles. You don't use a pick. Ever. Instead, you pluck the strings with the fingernails of your right hand (or left, if you play left-handed).
 
-The right-hand fingers each have a letter designation from Spanish: p (pulgar, thumb), i (indice, index), m (medio, middle), and a (anular, ring). Your thumb handles the bass strings, and your fingers handle the treble strings. This allows you to play melody, harmony, and bass simultaneously — essentially turning one guitar into a small [orchestra](/orchestration).
+The right-hand fingers each have a letter designation from Spanish: p (pulgar, thumb), i (indice, index), m (medio, middle), and a (anular, ring). Your thumb handles the bass strings, and your fingers handle the treble strings. This allows you to play melody, [harmony](/harmony), and bass simultaneously — essentially turning one guitar into a small [orchestra](/orchestration).
 
 The left hand presses strings against the fretboard, but the technique demands more precision than most guitar styles. Classical pieces often require stretches, barres (pressing multiple strings with one finger), and rapid position shifts up and down the neck.
 
@@ -63,7 +63,7 @@ Posture matters too. The traditional position involves sitting with the guitar r
 
 ## The Repertoire
 
-Classical guitar has a surprisingly deep library of music spanning several centuries. The earliest surviving guitar music dates from the 16th century, with composers like Luis de Narvaez writing for the vihuela, a close ancestor of the modern guitar.
+Classical guitar has a surprisingly deep library of music spanning several centuries. The earliest surviving guitar music dates from the 16th century, with composers like Luis de Narvaez [writing](/writing) for the vihuela, a close ancestor of the modern guitar.
 
 The Baroque period (1600-1750) produced music by Gaspar Sanz, Robert de Visee, and others writing for the five-course Baroque guitar. Then came the Classical period with Fernando Sor, Mauro Giuliani, and Dionisio Aguado — these guys basically wrote the textbook on guitar technique.
 

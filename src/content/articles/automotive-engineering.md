@@ -35,7 +35,7 @@ faq:
 
 # What Is Automotive Engineering?
 
-Automotive engineering is the branch of [mechanical engineering](/mechanical-engineering) concerned with the design, development, manufacturing, and testing of motor vehicles — including cars, trucks, motorcycles, and buses. It brings together principles from mechanical, electrical, materials, and [software engineering](/software-engineering) to create machines that are safe, efficient, reliable, and (ideally) enjoyable to use.
+Automotive [engineering](/engineering) is the branch of [mechanical engineering](/mechanical-engineering) concerned with the design, development, manufacturing, and testing of motor vehicles — including cars, trucks, motorcycles, and buses. It brings together principles from mechanical, electrical, materials, and [software engineering](/software-engineering) to create machines that are safe, efficient, reliable, and (ideally) enjoyable to use.
 
 ## What Makes a Car Work
 
@@ -47,11 +47,11 @@ The powertrain is everything that generates motion and delivers it to the wheels
 
 That efficiency number might sound terrible, and frankly, it is. It's one of the main reasons electric powertrains are gaining ground so quickly. An electric motor converts electrical energy to motion at 85-95% efficiency. The comparison is stark.
 
-Transmissions are another critical powertrain component. Manual transmissions — where the driver selects gears — have become increasingly rare (accounting for less than 2% of US car sales by 2025). Most vehicles now use automatic transmissions, continuously variable transmissions (CVTs), or dual-clutch automated manuals. Each type represents a different engineering approach to the same problem: matching engine speed to wheel speed across a range of driving conditions.
+Transmissions are another critical powertrain component. Manual transmissions — where the driver selects gears — have become increasingly rare ([accounting](/accounting) for less than 2% of US car [sales](/sales) by 2025). Most vehicles now use automatic transmissions, continuously variable transmissions (CVTs), or dual-clutch automated manuals. Each type represents a different engineering approach to the same problem: matching engine speed to wheel speed across a range of driving conditions.
 
 ### Chassis and Suspension
 
-The chassis is the structural skeleton of the vehicle. Modern cars overwhelmingly use unibody construction, where the body panels and structural frame are integrated into a single welded assembly. This approach saves weight compared to traditional body-on-frame construction (still used for trucks and large SUVs) but makes engineering more complex because every panel contributes to structural rigidity.
+The chassis is the structural skeleton of the vehicle. Modern cars overwhelmingly use unibody [construction](/construction), where the body panels and structural frame are integrated into a single welded assembly. This approach saves weight compared to traditional body-on-frame construction (still used for trucks and large SUVs) but makes engineering more complex because every panel contributes to structural rigidity.
 
 Suspension engineering is where [physics](/acoustics) meets human perception. The suspension connects the wheels to the body and must accomplish contradictory goals simultaneously: keep the tires in contact with the road surface over bumps, isolate passengers from road impacts, resist body roll in corners, and provide steering feedback to the driver. The most common front suspension type is the MacPherson strut, invented by Earle MacPherson at GM in the 1940s. It's simple, compact, and cheap — which is why you'll find it on everything from a Honda Civic to a Ford Mustang.
 
@@ -67,11 +67,11 @@ Passive safety includes crumple zones — deliberately designed deformation stru
 
 Airbags are another passive system. A modern car might contain 8 to 12 airbags: front, side, curtain, knee, and even seat-mounted airbags. Each one must deploy within 30 to 50 milliseconds of impact detection — faster than a human can blink — and inflate to precisely the right pressure. Too much pressure and the airbag itself becomes a hazard. Too little and it doesn't adequately cushion the occupant.
 
-Active safety has accelerated dramatically since the 2010s. Anti-lock braking systems (ABS), electronic stability control (ESC), automatic emergency braking (AEB), lane departure warning, blind-spot monitoring, and adaptive cruise control are now standard on most new vehicles. These systems rely on radar, cameras, ultrasonic sensors, and increasingly, LiDAR — all processed by onboard computers running real-time [algorithms](/algorithms) that can react faster than any human driver.
+Active safety has accelerated dramatically since the 2010s. Anti-lock braking systems (ABS), electronic stability control (ESC), automatic emergency braking (AEB), lane departure warning, blind-spot monitoring, and adaptive cruise control are now standard on most new vehicles. These systems rely on radar, cameras, ultrasonic sensors, and increasingly, LiDAR — all processed by onboard computers [running](/running) real-time [algorithms](/algorithms) that can react faster than any human driver.
 
 ### Electronics and Software
 
-Here's something that surprises most people: a modern car contains more lines of software code than a Boeing 787 Dreamliner. A premium vehicle from Mercedes or BMW might run 100 to 150 million lines of code across 70 to 100 electronic control units (ECUs). These ECUs manage everything from engine fuel injection timing to seat heater temperature to the animation on the infotainment display.
+Here's something that surprises most people: a modern car contains more lines of software code than a Boeing 787 Dreamliner. A premium vehicle from Mercedes or BMW might run 100 to 150 million lines of code across 70 to 100 electronic control units (ECUs). These ECUs manage everything from engine fuel injection timing to seat heater temperature to the [animation](/animation) on the infotainment display.
 
 The automotive industry's relationship with software has been... rocky. Traditional automakers were hardware companies that happened to need some software. The arrival of Tesla — essentially a software company that happens to build cars — exposed how far behind established manufacturers were in software development. Over-the-air (OTA) updates, which Tesla pioneered in production cars, are now being adopted industry-wide, allowing manufacturers to fix bugs and add features after the car has been sold.
 
@@ -83,7 +83,7 @@ Developing a new vehicle from concept to production is a massive, multi-year pro
 
 ### Concept and Architecture Phase
 
-This phase defines the vehicle's fundamental parameters: size, weight targets, powertrain type, platform architecture, and target market positioning. Platform sharing — where multiple vehicles share the same basic structure — has become the dominant strategy. Volkswagen's MQB platform drives everything from the Golf to the Tiguan to the Audi A3. Toyota's TNGA platform serves a similarly wide range.
+This phase defines the vehicle's fundamental parameters: size, weight targets, powertrain type, platform [architecture](/architecture), and target market positioning. Platform sharing — where multiple vehicles share the same basic structure — has become the dominant strategy. Volkswagen's MQB platform drives everything from the [Golf](/golf) to the Tiguan to the Audi A3. Toyota's TNGA platform serves a similarly wide range.
 
 Platform sharing dramatically reduces engineering costs. Developing a new platform from scratch costs $1 billion or more. Sharing that platform across 5 or 6 models makes the per-vehicle engineering cost manageable.
 
@@ -101,11 +101,11 @@ Despite all the simulation capability, physical testing remains essential. Proto
 
 Durability testing might involve driving the equivalent of 100,000 miles on Belgian block roads (cobblestones that amplify every vibration), through salt spray chambers, across desert heat, and in Arctic cold. The goal is to find failures before customers do. Engineers use accelerated testing methods that compress years of real-world wear into months.
 
-Crash testing follows specific protocols defined by regulatory bodies (NHTSA, Euro NCAP) and insurance organizations (IIHS). A single frontal crash test at 35 mph destroys a vehicle worth $100,000 or more in prototype costs. The data collected — from onboard accelerometers, high-speed cameras, and crash test dummies loaded with sensors — is fed back into the CAE models to improve accuracy.
+Crash testing follows specific protocols defined by regulatory bodies (NHTSA, Euro NCAP) and [insurance](/insurance) organizations (IIHS). A single frontal crash test at 35 mph destroys a vehicle worth $100,000 or more in prototype costs. The data collected — from onboard accelerometers, high-speed cameras, and crash test dummies loaded with sensors — is fed back into the CAE models to improve accuracy.
 
 ### [Manufacturing Engineering](/manufacturing-engineering)
 
-Designing a car is one thing. Figuring out how to build 1,000 of them per day is an entirely different engineering challenge. Manufacturing engineers design the assembly process, specify robotic welding sequences, develop quality control procedures, and optimize the production line for throughput and consistency.
+Designing a car is one thing. Figuring out how to build 1,000 of them per day is an entirely different engineering challenge. Manufacturing engineers design the assembly process, specify robotic [welding](/welding) sequences, develop quality control procedures, and optimize the production line for throughput and consistency.
 
 A modern automotive assembly line is a choreographed sequence of roughly 4,000 operations. Body panels are stamped from flat steel sheets in presses exerting 2,000+ tons of force. The stamped panels are welded together by robots — a typical body shop has 300 to 500 robots performing 3,000 to 5,000 individual welds. The painted body then moves to general assembly, where workers and robots install the engine, transmission, interior, wiring, glass, and thousands of smaller components.
 
@@ -117,9 +117,9 @@ The shift from internal combustion to electric propulsion is the biggest upheava
 
 ### Battery Engineering
 
-The battery pack is the most expensive single component in an EV, typically accounting for 30-40% of the vehicle's total cost. Lithium-ion cells — the dominant chemistry since Tesla popularized them in the 2008 Roadster — store energy through the movement of lithium ions between a graphite anode and a metal oxide cathode.
+The battery pack is the most expensive single component in an EV, typically accounting for 30-40% of the vehicle's total cost. Lithium-ion cells — the dominant [chemistry](/chemistry) since Tesla popularized them in the 2008 Roadster — store energy through the movement of lithium ions between a graphite anode and a metal oxide cathode.
 
-Engineering challenges include energy density (how much energy per kilogram), power density (how quickly energy can be delivered or absorbed), thermal management (batteries perform poorly and degrade faster outside a narrow temperature window), and cycle life (how many charge-discharge cycles before significant degradation). Current lithium-ion packs achieve roughly 250-300 Wh/kg at the cell level, with industry targets of 400+ Wh/kg by 2030.
+Engineering challenges include energy density (how much energy per kilogram), power density (how quickly energy can be delivered or absorbed), thermal [management](/management) (batteries perform poorly and degrade faster outside a narrow temperature window), and cycle life (how many charge-discharge cycles before significant degradation). Current lithium-ion packs achieve roughly 250-300 Wh/kg at the cell level, with industry targets of 400+ Wh/kg by 2030.
 
 Solid-state batteries — replacing the liquid electrolyte with a solid one — promise significant improvements in energy density and safety. Toyota, Samsung, and several startups are racing to commercialize the technology, with limited production expected by 2027-2028.
 
@@ -131,7 +131,7 @@ Motor engineering for automotive applications focuses on power density, efficien
 
 ### Thermal Management
 
-Managing heat in an EV is paradoxically more complex than in an ICE vehicle. The battery, motor, power electronics, and cabin all have different thermal requirements. The battery needs to stay between roughly 20-40 degrees Celsius for optimal performance. The motor generates significant heat under load. The cabin needs heating (which in an ICE vehicle comes "free" from waste engine heat) and cooling.
+Managing heat in an EV is paradoxically more complex than in an ICE vehicle. The battery, motor, power [electronics](/electronics), and cabin all have different thermal requirements. The battery needs to stay between roughly 20-40 degrees Celsius for optimal performance. The motor generates significant heat under load. The cabin needs heating (which in an ICE vehicle comes "free" from waste engine heat) and cooling.
 
 Most EVs use integrated thermal management systems with heat pumps that can shuttle thermal energy between components — warming the battery with waste heat from the motor, for example. Getting this right directly impacts range, charging speed, and battery longevity.
 
@@ -147,7 +147,7 @@ The [alternative energy](/alternative-energy) push is also driving interest in r
 
 ## The Connected and Autonomous Future
 
-Vehicle-to-everything (V2X) communication — where cars talk to each other, to infrastructure, and to the cloud — is creating new engineering domains. V2X requires expertise in telecommunications, cybersecurity, and distributed systems that would have seemed completely foreign to automotive engineers a generation ago.
+Vehicle-to-everything (V2X) communication — where cars talk to each other, to infrastructure, and to the cloud — is creating new engineering domains. V2X requires expertise in telecommunications, [cybersecurity](/cybersecurity), and distributed systems that would have seemed completely foreign to automotive engineers a generation ago.
 
 Autonomous driving at SAE Level 4 (full autonomy within defined conditions) requires a sensor suite costing thousands of dollars — cameras, radar, LiDAR, ultrasonic sensors — plus computing hardware capable of processing terabytes of data per hour. The engineering challenge isn't just making the hardware work; it's making it work reliably enough to trust with human lives. The automotive industry's traditional validation approach (test until you've covered every known failure mode) struggles with AI-based systems whose failure modes are, by definition, hard to predict.
 

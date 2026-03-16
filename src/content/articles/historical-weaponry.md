@@ -39,7 +39,7 @@ Historical weaponry refers to the tools, devices, and instruments designed for c
 
 ## Stone, Bone, and Desperation
 
-The oldest known weapons aren't glamorous. They're sharpened sticks. Wooden spears dating back roughly 400,000 years have been found at Schoningen, Germany, suggesting that even pre-Homo sapiens hominids were crafting purpose-built hunting tools. These weren't accidental finds — the spears were carefully shaped, balanced, and hardened by fire.
+The oldest known weapons aren't glamorous. They're sharpened sticks. Wooden spears dating back roughly 400,000 years have been found at Schoningen, Germany, suggesting that even pre-Homo sapiens hominids were crafting purpose-built [hunting](/hunting) tools. These weren't accidental finds — the spears were carefully shaped, balanced, and hardened by fire.
 
 Stone tools came next, and they stuck around for an absurdly long time. The hand axe — a teardrop-shaped chunk of flint chipped to a cutting edge — remained essentially unchanged for over a million years. That's not because early humans lacked creativity. It's because the design worked. You could chop, cut, scrape, and, when necessary, crack skulls with it.
 
@@ -97,11 +97,11 @@ The response was the trace italienne — star-shaped fortifications with low, th
 
 ## What Weapons Tell Us About Societies
 
-Here's what most people miss about historical weaponry: weapons are cultural artifacts as much as they're tools of violence. A Japanese katana tells you about the social position of the samurai class, about Japanese metallurgy and its response to limited iron resources, about Buddhist and Shinto spiritual traditions woven into the forging process. A Roman pilum — the heavy javelin designed to bend on impact so enemies couldn't throw it back — tells you about Roman tactical thinking and industrial standardization.
+Here's what most people miss about historical weaponry: weapons are cultural artifacts as much as they're tools of violence. A Japanese katana tells you about the social position of the samurai class, about Japanese metallurgy and its response to limited iron resources, about Buddhist and Shinto spiritual traditions woven into the [forging](/forging) process. A Roman pilum — the heavy javelin designed to bend on impact so enemies couldn't throw it back — tells you about Roman tactical thinking and industrial standardization.
 
 Weapon design also reveals [economic](/economics) conditions. Societies with abundant metal resources produced metal-heavy weapons. Societies without them — like much of pre-contact Mesoamerica — developed alternatives. The Aztec macuahuitl, a wooden club embedded with obsidian blades, could reportedly decapitate a horse. It was a brilliant [engineering](/engineering) response to the absence of workable metals.
 
-The study of historical weapons also connects to [anthropology](/anthropology) and [archaeology](/archaeology). Weapon finds at archaeological sites provide dating evidence, trade network data, and information about social hierarchies. A warrior buried with a gold-hilted sword tells a different story than a soldier buried with a standard-issue spear.
+The study of historical weapons also connects to [anthropology](/anthropology) and [archaeology](/archaeology). Weapon finds at archaeological sites provide dating evidence, [trade](/trade) network data, and information about social hierarchies. A warrior buried with a gold-hilted sword tells a different story than a soldier buried with a standard-issue spear.
 
 ## The Transition to Modern Warfare
 

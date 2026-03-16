@@ -91,7 +91,7 @@ The danger here is obvious: psychological profiling can be used to dehumanize po
 
 ### Trauma and Memory
 
-How do societies process collective trauma? The study of post-traumatic responses — in Holocaust survivors, veterans, genocide survivors, colonized populations — has produced some of the field's strongest work. Historians like Dominick LaCapra have explored how trauma affects historical memory, representation, and the writing of history itself.
+How do societies process collective trauma? The study of post-traumatic responses — in Holocaust survivors, veterans, genocide survivors, colonized populations — has produced some of the field's strongest work. Historians like Dominick LaCapra have explored how trauma affects historical memory, representation, and the [writing](/writing) of history itself.
 
 Intergenerational trauma — the idea that the psychological effects of traumatic events can be transmitted across generations through [parenting](/parenting), culture, and possibly epigenetics — is a particularly active area. Research on descendants of Holocaust survivors, African Americans affected by slavery and Jim Crow, and Indigenous populations subjected to colonization has produced evidence that historical trauma echoes through families and communities long after the original events.
 

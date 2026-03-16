@@ -77,7 +77,7 @@ Diodes rectify AC to DC (in power supplies), protect circuits from reverse volta
 
 ### Transistors
 
-The transistor is the single most important invention in electronics history. Period. It's a semiconductor device that can amplify signals and act as an electronic switch, and it's the building block of every digital and most analog circuits.
+The transistor is the single most important [invention](/invention) in electronics history. Period. It's a semiconductor device that can amplify signals and act as an electronic switch, and it's the building block of every digital and most analog circuits.
 
 **Bipolar Junction Transistors (BJTs)** use a small base current to control a much larger collector-emitter current. The current gain (beta) is typically 50-300, meaning a tiny input signal can control a signal hundreds of times larger. This is amplification.
 
@@ -163,7 +163,7 @@ Microcontrollers — single-chip computers integrating processor, memory, and in
 
 Your car contains 50-100 microcontrollers managing everything from engine timing to airbag deployment to infotainment. A modern refrigerator might contain 5-10, controlling compressor speed, temperature regulation, defrost cycles, and the ice maker.
 
-The line between "electronics" and "computing" has blurred almost completely at this level. Every "electronic" device with any intelligence — and that's nearly all of them — contains at least one programmable processor running software.
+The line between "electronics" and "computing" has blurred almost completely at this level. Every "electronic" device with any intelligence — and that's nearly all of them — contains at least one programmable processor [running](/running) software.
 
 ## Testing and Measurement
 
@@ -173,7 +173,7 @@ Electronics engineers rely on instruments to see what circuits are doing:
 
 **Multimeters** measure voltage, current, and resistance — the basics. Every electronics workbench has one. Professional meters measure to 6+ digits of accuracy.
 
-**Logic analyzers** capture and display many digital signals simultaneously, revealing timing relationships and protocol behavior in digital systems.
+**[Logic](/logic) analyzers** capture and display many digital signals simultaneously, revealing timing relationships and protocol behavior in digital systems.
 
 **Spectrum analyzers** show signal content in the frequency domain — which frequencies are present and at what amplitudes. Essential for radio frequency work and electromagnetic compliance testing.
 
@@ -193,7 +193,7 @@ The technology is still maturing — printed transistors are far slower and larg
 
 ### Neuromorphic Computing
 
-Conventional digital electronics processes information fundamentally differently from biological brains. Neuromorphic chips attempt to mimic neural architecture, using artificial synapses and neurons that process information through spikes rather than binary clock cycles. This approach promises dramatic efficiency gains for AI and [pattern recognition](/pattern-recognition) — tasks where brains excel and conventional electronics struggles with power consumption.
+Conventional digital electronics processes information fundamentally differently from biological brains. Neuromorphic chips attempt to mimic neural [architecture](/architecture), using artificial synapses and neurons that process information through spikes rather than binary clock cycles. This approach promises dramatic efficiency gains for AI and [pattern recognition](/pattern-recognition) — tasks where brains excel and conventional electronics struggles with power consumption.
 
 ## The Invisible Infrastructure
 

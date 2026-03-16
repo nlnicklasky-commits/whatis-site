@@ -39,7 +39,7 @@ What makes theater unique among art forms is its liveness. No two performances a
 
 ### Acting
 
-The most visible component. Actors embody characters through voice, movement, emotion, and physical presence. Training methods vary — Stanislavski's system (the basis for "Method" acting), Meisner technique, classical training, Viewpoints, and others all develop different aspects of the performer's craft.
+The most visible component. Actors embody characters through voice, movement, emotion, and physical presence. Training methods vary — Stanislavski's system (the basis for "Method" [acting](/acting)), Meisner technique, classical training, Viewpoints, and others all develop different aspects of the performer's craft.
 
 ### Directing
 
@@ -77,4 +77,4 @@ Musical theater remains the dominant commercial form. Plays — non-musical dram
 
 In a world of streaming, social media, and increasingly sophisticated entertainment technology, why does live theater survive? Because it offers something screens can't: the unreproducible experience of sharing a room with performers in real time. That shared experience — laughing together, holding your breath together, feeling the collective energy of an audience responding to a powerful moment — creates a connection that no recorded medium can replicate.
 
-Theater training also develops skills with broad applications: [public speaking](/public-speaking), empathy, creative thinking, collaboration under pressure, and the ability to communicate effectively with diverse audiences. These translate to careers in education, law, business, media, and virtually any field that involves human interaction.
+Theater training also develops skills with broad applications: [public speaking](/public-speaking), empathy, creative thinking, collaboration under pressure, and the ability to communicate effectively with diverse audiences. These translate to careers in [education](/education), law, business, media, and virtually any field that involves human interaction.

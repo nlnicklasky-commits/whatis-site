@@ -69,13 +69,13 @@ A 2012 study published in *Science Translational Medicine* by researchers at McM
 
 ### Fascia and Connective Tissue
 
-More recent attention has focused on fascia — the web of connective tissue that surrounds muscles, organs, and other structures throughout the body. Techniques like myofascial release specifically target restrictions in fascia that may contribute to pain and limited mobility. The science here is still evolving, but anatomist Thomas Myers's "Anatomy Trains" model has influenced how many therapists think about interconnected tension patterns throughout the body.
+More recent attention has focused on fascia — the web of connective tissue that surrounds muscles, organs, and other structures throughout the body. Techniques like myofascial release specifically target restrictions in fascia that may contribute to pain and limited mobility. The science here is still evolving, but anatomist Thomas Myers's "[Anatomy](/anatomy) Trains" model has influenced how many therapists think about interconnected tension patterns throughout the body.
 
 ## The Major Types
 
 ### Swedish Massage
 
-The most common style in Western practice. It uses five basic strokes: effleurage (long gliding strokes), petrissage (kneading), tapotement (rhythmic tapping), friction (deep circular movements), and vibration. Pressure ranges from light to moderate. Sessions typically last 60-90 minutes and cover the full body.
+The most common style in Western practice. It uses five basic strokes: effleurage (long [gliding](/gliding) strokes), petrissage (kneading), tapotement (rhythmic tapping), friction (deep circular movements), and vibration. Pressure ranges from light to moderate. Sessions typically last 60-90 minutes and cover the full body.
 
 Swedish massage is a good general-purpose option. It's relaxing, improves circulation, and provides moderate pain relief. If you've never had a massage and aren't sure what to try, this is the usual starting point.
 
@@ -115,7 +115,7 @@ Thai massage is more active and physically engaging than most Western styles. Yo
 
 Requirements vary by state and country, but in the United States, most states require completion of an accredited training program (typically 500-1,000 hours of [education](/education)), passage of the Massage and Bodywork Licensing Examination (MBLEx) or a similar exam, and ongoing continuing education.
 
-The 500-hour programs cover anatomy, [physiology](/physiology), [pathology](/pathology), ethics, business practices, and hands-on technique. Many therapists pursue additional certifications in specialized modalities — neuromuscular therapy, oncology massage, prenatal massage, lymphatic drainage.
+The 500-hour programs cover anatomy, [physiology](/physiology), [pathology](/pathology), [ethics](/ethics), business practices, and hands-on technique. Many therapists pursue additional certifications in specialized modalities — neuromuscular therapy, [oncology](/oncology) massage, prenatal massage, lymphatic drainage.
 
 As of 2024, there are roughly 385,000 licensed massage therapists in the United States, according to the Bureau of Labor [Statistics](/statistics). The median annual salary is about $49,000, though this varies enormously based on location, setting (private practice vs. spa vs. medical clinic), and client base.
 
@@ -126,7 +126,7 @@ Massage is generally safe, but there are contraindications — situations where 
 - **Blood clots or deep vein thrombosis**: Massage could dislodge a clot
 - **Severe osteoporosis**: Fragile bones could be injured by pressure
 - **Open wounds or skin infections**: Risk of spreading infection
-- **Recent surgery**: In the surgical area — check with your surgeon
+- **Recent [surgery](/surgery)**: In the surgical area — check with your surgeon
 - **Certain cancers**: Particularly near tumor sites — though oncology massage by trained therapists is generally safe and increasingly common
 - **Fever or acute illness**: Your body needs its resources for fighting the infection, not processing the effects of bodywork
 

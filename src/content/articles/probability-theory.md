@@ -55,7 +55,7 @@ Every probability calculation starts with two things: a sample space and events 
 
 The **sample space** (usually written as S or the Greek letter omega) is the set of all possible outcomes. Flip a coin? The sample space is {heads, tails}. Roll a die? It's {1, 2, 3, 4, 5, 6}. Draw a card from a standard deck? It's 52 possible cards.
 
-An **event** is any subset of the sample space — any collection of outcomes you're interested in. "Rolling an even number" is the event {2, 4, 6}. "Drawing a heart" is a set of 13 cards.
+An **event** is any subset of the sample space — any collection of outcomes you're interested in. "Rolling an even number" is the event {2, 4, 6}. "[Drawing](/drawing) a heart" is a set of 13 cards.
 
 This seems painfully simple with dice and coins. But the framework scales. The sample space for tomorrow's weather is enormous. The sample space for the future price of a stock is continuous and infinite. Probability theory handles all of these with the same basic machinery.
 
@@ -121,7 +121,7 @@ When outcomes can take any value in a range — like height, temperature, or sto
 
 **The Normal (Gaussian) Distribution** is the most famous bell curve in science. Heights, test scores, measurement errors, stock returns (approximately) — an astonishing number of real-world phenomena follow this distribution, or something close to it. The Central Limit Theorem explains why (more on that soon).
 
-The normal distribution is defined by just two parameters: the mean (center) and standard deviation (spread). About 68% of values fall within one standard deviation of the mean, 95% within two, and 99.7% within three. This "68-95-99.7 rule" is used constantly in quality control, hypothesis testing, and risk management.
+The normal distribution is defined by just two parameters: the mean (center) and standard deviation (spread). About 68% of values fall within one standard deviation of the mean, 95% within two, and 99.7% within three. This "68-95-99.7 rule" is used constantly in quality control, hypothesis testing, and [risk management](/risk-management).
 
 **The Exponential Distribution** models waiting times between random events. How long until the next customer arrives? How long until a light bulb burns out? If events occur randomly at a constant average rate, the time between them follows an exponential distribution.
 
@@ -133,7 +133,7 @@ The normal distribution is defined by just two parameters: the mean (center) and
 
 Flip a fair coin 10 times and you might get 7 heads. Flip it 100 times and you'll probably get between 40 and 60 heads. Flip it 10,000 times and the proportion of heads will be very close to 50%.
 
-The Law of Large Numbers formalizes this intuition: as you repeat a random experiment more and more times, the observed average converges to the theoretical expected value. It's why casinos always win in the long run, why insurance companies can set reliable premiums, and why polls with larger sample sizes are more accurate.
+The Law of Large Numbers formalizes this intuition: as you repeat a random experiment more and more times, the observed average converges to the theoretical expected value. It's why casinos always win in the long run, why [insurance](/insurance) companies can set reliable premiums, and why polls with larger sample sizes are more accurate.
 
 There are actually two versions. The **weak law** says the probability of the average being far from the expected value approaches zero. The **strong law** says the average converges to the expected value with probability 1 — it's essentially guaranteed to happen.
 
@@ -173,7 +173,7 @@ Probability represents a degree of belief. P(rain tomorrow) = 0.7 means you're 7
 
 Probability reflects a physical tendency inherent in the setup. A fair die has a propensity of 1/6 to land on each face because of its physical symmetry. This works well for physical systems but less well for events like elections or economic forecasts.
 
-The debate isn't just philosophical — it affects statistical practice. Frequentists and Bayesians use different methods, and they sometimes reach different conclusions from the same data. In recent decades, Bayesian methods have gained ground, especially in [machine learning](/machine-learning), but the frequentist approach remains standard in many sciences.
+The [debate](/debate) isn't just philosophical — it affects statistical practice. Frequentists and Bayesians use different methods, and they sometimes reach different conclusions from the same data. In recent decades, Bayesian methods have gained ground, especially in [machine learning](/machine-learning), but the frequentist approach remains standard in many sciences.
 
 ## Applications: Where Probability Runs the World
 
@@ -203,7 +203,7 @@ Actuarial science is essentially applied probability. Life tables, premium calcu
 
 ### [Quantum Mechanics](/quantum-mechanics)
 
-Perhaps the most profound application of probability theory is in physics. Quantum mechanics — our most accurate theory of the subatomic world — is fundamentally probabilistic. An electron doesn't have a definite position until measured; it has a probability distribution over possible positions described by its wave function.
+Perhaps the most profound application of probability theory is in [physics](/physics). Quantum mechanics — our most accurate theory of the subatomic world — is fundamentally probabilistic. An electron doesn't have a definite position until measured; it has a probability distribution over possible positions described by its wave function.
 
 Einstein famously objected: "God does not play dice with the universe." But decades of experiments have confirmed that quantum randomness is genuine — not just a reflection of our ignorance, but a fundamental feature of reality. The universe really does run on probabilities.
 
@@ -221,7 +221,7 @@ Remember the medical testing example? People consistently overestimate the proba
 
 ### Confusing Correlation with Causation
 
-Two events can be probabilistically associated without one causing the other. Ice cream sales and drowning deaths are correlated — because both increase in summer. Confusing correlation with causation is perhaps the most common statistical error in popular media and even in published research.
+Two events can be probabilistically associated without one causing the other. Ice cream [sales](/sales) and drowning deaths are correlated — because both increase in summer. Confusing correlation with causation is perhaps the most common statistical error in popular media and even in published research.
 
 ### The Birthday Problem
 
@@ -229,14 +229,14 @@ In a room of 23 people, there's a greater than 50% chance that two share a birth
 
 ## The Frontier: Where Probability Theory Is Heading
 
-Probability theory continues to grow. **Stochastic processes** — probability distributions that evolve over time — are increasingly important in climate modeling, epidemiology, and finance. **High-dimensional probability** deals with random phenomena in spaces with thousands or millions of dimensions — essential for understanding [machine learning](/machine-learning) and big data.
+Probability theory continues to grow. **Stochastic processes** — probability distributions that evolve over time — are increasingly important in climate modeling, [epidemiology](/epidemiology), and finance. **High-dimensional probability** deals with random phenomena in spaces with thousands or millions of dimensions — essential for understanding [machine learning](/machine-learning) and big data.
 
 **Probabilistic programming** languages allow researchers to write complex probability models as computer programs and use automated inference algorithms to draw conclusions. This is making Bayesian analysis accessible to scientists who aren't probability experts.
 
-**Uncertainty quantification** — rigorously measuring how uncertain our predictions are — has become critical in climate science, engineering, and AI. It's not enough to make a prediction; you need to know how much to trust it.
+**Uncertainty quantification** — rigorously measuring how uncertain our predictions are — has become critical in climate science, [engineering](/engineering), and AI. It's not enough to make a prediction; you need to know how much to trust it.
 
 And in the foundations, the old frequentist-Bayesian debate continues to evolve. New frameworks like **imprecise probability** and **Dempster-Shafer theory** extend classical probability to handle situations where even assigning precise probability values seems unjustified.
 
 ## Key Takeaways
 
-Probability theory is the mathematical study of uncertainty, built on Kolmogorov's three axioms and developed over nearly four centuries from Pascal and Fermat's gambling correspondence to modern applications in machine learning and quantum physics. Its core tools — conditional probability, Bayes' theorem, probability distributions, the Law of Large Numbers, and the Central Limit Theorem — provide the foundation for statistics, risk management, scientific inference, and artificial intelligence. Getting probability right leads to better decisions; getting it wrong, as the 2008 financial crisis showed, can be catastrophic.
+Probability theory is the mathematical study of uncertainty, built on Kolmogorov's three axioms and developed over nearly four centuries from Pascal and Fermat's gambling correspondence to modern applications in machine learning and [quantum physics](/quantum-physics). Its core tools — conditional probability, Bayes' theorem, probability distributions, the Law of Large Numbers, and the Central Limit Theorem — provide the foundation for [statistics](/statistics), risk [management](/management), scientific inference, and artificial intelligence. Getting probability right leads to better decisions; getting it wrong, as the 2008 financial crisis showed, can be catastrophic.

@@ -43,7 +43,7 @@ Before getting into how forestry works, it's worth understanding the scale of wh
 
 Forests contain roughly 80% of Earth's terrestrial biodiversity. They provide livelihoods for about 1.6 billion people globally. They store approximately 662 billion tons of carbon — more than half the amount in the entire atmosphere. They filter water for roughly one-third of the world's largest cities. And the global forest products industry generates over $600 billion annually.
 
-Those numbers make the management of forests one of the most consequential human activities on the planet. Get it wrong, and you lose biodiversity, accelerate climate change, degrade water supplies, and impoverish communities. Get it right, and forests become a perpetual source of materials, ecosystem services, and ecological resilience.
+Those numbers make the management of forests one of the most consequential human activities on the planet. Get it wrong, and you lose biodiversity, accelerate [climate change](/climate-change), degrade water supplies, and impoverish communities. Get it right, and forests become a perpetual source of materials, ecosystem services, and ecological resilience.
 
 ## The History of Forestry
 

@@ -58,7 +58,7 @@ This sounds tedious — and parts of it are — but it's also security-critical.
 
 ### Backup and Recovery
 
-Data loss can destroy a business. Sysadmins design and maintain backup systems that protect against hardware failure, software corruption, accidental deletion, ransomware, and natural disasters.
+Data loss can destroy a business. Sysadmins design and maintain backup systems that protect against hardware failure, software corruption, accidental deletion, ransomware, and [natural disasters](/natural-disasters).
 
 The classic "3-2-1" backup strategy says: keep 3 copies of your data, on 2 different types of media, with 1 copy off-site. Modern backup strategies add considerations like Recovery Time Objective (RTO — how quickly you need to restore service) and Recovery Point Objective (RPO — how much data you can afford to lose, measured in time).
 
@@ -70,7 +70,7 @@ Security has become an ever-larger part of systems administration. Sysadmins are
 
 Responsibilities include managing firewalls, configuring [intrusion detection](/intrusion-detection) systems, applying security patches promptly (a leading cause of breaches is unpatched software), implementing access controls, monitoring logs for suspicious activity, and responding to security incidents.
 
-The [NIST Cybersecurity Framework](/cryptography) provides structured guidance for security management. Many organizations also comply with industry-specific standards like HIPAA (healthcare), PCI DSS (payment card data), or SOC 2 (service organizations).
+The [NIST Cybersecurity Framework](/cryptography) provides structured guidance for security [management](/management). Many organizations also comply with industry-specific standards like HIPAA (healthcare), PCI DSS (payment card data), or SOC 2 (service organizations).
 
 ### Monitoring and Alerting
 
@@ -90,9 +90,9 @@ Understanding TCP/IP, subnetting, routing, DNS, and firewall rules is essential.
 
 ### The Early Days
 
-In the mainframe era (1960s-1970s), systems administration meant managing a single large computer shared by many users via terminals. The "operator" role involved mounting tapes, scheduling batch jobs, and keeping the machine running. The relationship was simple: one machine, one admin (or a small team).
+In the mainframe era (1960s-1970s), systems administration meant managing a single large computer shared by many users via terminals. The "operator" role involved mounting tapes, [scheduling](/scheduling) batch jobs, and keeping the machine running. The relationship was simple: one machine, one admin (or a small team).
 
-The personal computer revolution of the 1980s distributed computing across many machines — but those machines were initially standalone. When networking became widespread in the late 1980s and 1990s (Novell NetWare, then Windows NT, then Unix/Linux servers), the sysadmin role as we know it emerged. Suddenly, someone needed to manage dozens or hundreds of interconnected machines, user accounts, shared resources, and network services.
+The personal computer revolution of the 1980s distributed computing across many machines — but those machines were initially standalone. When [networking](/networking) became widespread in the late 1980s and 1990s (Novell NetWare, then Windows NT, then Unix/Linux servers), the sysadmin role as we know it emerged. Suddenly, someone needed to manage dozens or hundreds of interconnected machines, user accounts, shared resources, and network services.
 
 ### The Linux Revolution
 
@@ -104,7 +104,7 @@ Linux administration became a core sysadmin skill. The command line — often in
 
 [Cloud computing](/cloud-computing) — pioneered by Amazon Web Services (launched 2006), followed by Microsoft Azure and Google Cloud — didn't eliminate systems administration. It transformed it.
 
-Instead of buying, racking, cabling, and maintaining physical servers, organizations could provision virtual servers in minutes through a web console or API. This was faster and more flexible, but it also meant sysadmins needed new skills: cloud platform management, infrastructure as code, container orchestration, and cost optimization.
+Instead of buying, racking, cabling, and maintaining physical servers, organizations could provision virtual servers in minutes through a web console or API. This was faster and more flexible, but it also meant sysadmins needed new skills: cloud platform management, infrastructure as code, container [orchestration](/orchestration), and cost [optimization](/optimization).
 
 The physical data center didn't disappear entirely — someone still has to manage the underlying [hardware](/computer-hardware) at AWS, Microsoft, and Google. But for most organizations, the sysadmin's relationship with hardware shifted from hands-on management to abstract provisioning.
 
@@ -120,7 +120,7 @@ DevOps proposed a cultural and technical bridge. Key principles include:
 
 **Containerization** — packaging applications and their dependencies into standardized containers (using Docker) that run consistently across different environments. Container orchestration platforms like Kubernetes manage thousands of containers across clusters of machines.
 
-**Site Reliability Engineering (SRE)** — Google's formalization of DevOps principles, treating operations as a [software engineering](/software-engineering) problem. SREs write code to automate operations tasks, set measurable reliability targets (SLOs), and use error budgets to balance reliability with development velocity.
+**Site Reliability [Engineering](/engineering) (SRE)** — Google's formalization of DevOps principles, treating operations as a [software engineering](/software-engineering) problem. SREs write code to automate operations tasks, set measurable reliability targets (SLOs), and use error budgets to balance reliability with development velocity.
 
 Many traditional sysadmins have evolved into DevOps engineers or SREs. The tools and titles have changed, but the fundamental responsibility — keeping systems running — remains the same.
 
@@ -152,7 +152,7 @@ Technical knowledge is necessary but not sufficient. Sysadmins also need:
 
 **Documentation discipline** — writing down how systems are configured, why decisions were made, and how to handle common problems. Future you (or your replacement) will thank you.
 
-**Time management** — balancing urgent issues (the server is on fire) with important-but-not-urgent work (updating documentation, planning upgrades, improving automation).
+**[Time management](/time-management)** — balancing urgent issues (the server is on fire) with important-but-not-urgent work (updating documentation, planning upgrades, improving automation).
 
 ## The Daily Reality
 

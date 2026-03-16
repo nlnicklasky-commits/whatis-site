@@ -52,7 +52,7 @@ These patterns are as distinctive as fingerprints. A trained vibration analyst c
 
 ## The Physics of Vibration
 
-To understand vibration analysis, you need a quick grounding in the physics. Don't worry — it's more intuitive than it sounds.
+To understand vibration analysis, you need a quick grounding in the [physics](/physics). Don't worry — it's more intuitive than it sounds.
 
 Vibration is oscillatory motion around an equilibrium point. The simplest model is a mass on a spring. Pull the mass down, release it, and it bounces up and down. That oscillation has three fundamental properties:
 

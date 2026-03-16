@@ -35,11 +35,11 @@ faq:
 
 # What Is Health Science?
 
-Health science is the broad field of study and practice dedicated to understanding human health, preventing disease, and improving the physical and mental well-being of individuals and populations. It draws from [biology](/biology), chemistry, physics, psychology, and social sciences to create a unified understanding of how the human body works, what makes it break down, and what can be done about it.
+Health science is the broad field of study and practice dedicated to understanding human health, preventing disease, and improving the physical and mental well-being of individuals and populations. It draws from [biology](/biology), [chemistry](/chemistry), physics, [psychology](/psychology), and social sciences to create a unified understanding of how the human body works, what makes it break down, and what can be done about it.
 
 ## More Than Just Medicine
 
-Most people hear "health science" and think of doctors and hospitals. That's part of it—but only part. Health science is actually an enormous umbrella that covers everything from molecular [biochemistry](/biochemistry) happening inside your cells to global public health policy affecting billions of people.
+Most people hear "health science" and think of doctors and hospitals. That's part of it—but only part. Health science is actually an enormous umbrella that covers everything from molecular [biochemistry](/biochemistry) happening inside your cells to global [public health](/public-health) policy affecting billions of people.
 
 Here's a useful way to think about it: medicine is what happens when you're already sick. Health science includes medicine but also asks why you got sick in the first place, how your community could prevent the next outbreak, whether the air you breathe is making your asthma worse, and how to design food systems that actually nourish rather than harm populations.
 
@@ -53,9 +53,9 @@ Biomedical science is the foundation—the detailed understanding of how the hum
 
 [Anatomy](/anatomy) is the study of body structures. Physiology is the study of how those structures function. Together, they provide the roadmap that every health professional uses.
 
-Modern anatomy has come a long way from cadaver dissection (though that's still an essential part of medical training). Virtual reality anatomical models, 3D-printed organs, and high-resolution imaging let students explore the body in ways that weren't possible even a decade ago. The Visible Human Project, completed by the National Library of Medicine, created a complete digitized anatomical dataset from thin cross-sections of actual human bodies—a resource used by researchers and students worldwide.
+Modern anatomy has come a long way from cadaver dissection (though that's still an essential part of medical training). [Virtual reality](/virtual-reality) anatomical models, 3D-printed organs, and high-resolution imaging let students explore the body in ways that weren't possible even a decade ago. The Visible Human Project, completed by the National Library of Medicine, created a complete digitized anatomical dataset from thin cross-sections of actual human bodies—a resource used by researchers and students worldwide.
 
-Physiology gets stranger the deeper you go. Your heart beats about 100,000 times per day without conscious input. Your digestive system contains more nerve cells than your spinal cord. Your body replaces approximately 3.8 million cells every second. These aren't just fun facts—understanding these mechanisms is how health scientists identify what goes wrong in disease.
+[Physiology](/physiology) gets stranger the deeper you go. Your heart beats about 100,000 times per day without conscious input. Your digestive system contains more nerve cells than your spinal cord. Your body replaces approximately 3.8 million cells every second. These aren't just fun facts—understanding these mechanisms is how health scientists identify what goes wrong in disease.
 
 ### Cell Biology and [Molecular Biology](/molecular-biology)
 
@@ -63,13 +63,13 @@ Zoom in past organs and tissues, and you reach [cell biology](/cell-biology)—w
 
 The discovery of DNA's structure in 1953 opened an entirely new dimension of health science. Today, we can read entire human genomes for under $200, identify specific genetic mutations that cause disease, and—with technologies like CRISPR-Cas9—even edit genes directly.
 
-Gene therapy has moved from science fiction to clinical reality. In 2023, the FDA approved Casgevy, the first CRISPR-based gene therapy, for sickle cell disease. Patients who were having regular, agonizing pain crises now live essentially symptom-free. The treatment rewrites the genetic instruction that produces defective hemoglobin.
+Gene therapy has moved from [science fiction](/science-fiction) to clinical reality. In 2023, the FDA approved Casgevy, the first CRISPR-based gene therapy, for sickle cell disease. Patients who were having regular, agonizing pain crises now live essentially symptom-free. The treatment rewrites the genetic instruction that produces defective hemoglobin.
 
 ### Biochemistry and Pharmacology
 
 [Biochemistry](/biochemistry) explains the chemical reactions that sustain life. Every time you eat, breathe, move, or think, biochemical reactions are driving the process. Health scientists who understand these pathways can identify targets for drug intervention.
 
-Pharmacology—the science of drugs—builds directly on biochemistry. How does aspirin reduce pain? It blocks an enzyme (cyclooxygenase) that produces prostaglandins, chemicals that cause inflammation and pain signaling. Understanding that mechanism at the molecular level allowed scientists to develop COX-2 inhibitors, a more targeted approach to the same problem.
+[Pharmacology](/pharmacology)—the science of drugs—builds directly on biochemistry. How does aspirin reduce pain? It blocks an enzyme (cyclooxygenase) that produces prostaglandins, chemicals that cause inflammation and pain signaling. Understanding that mechanism at the molecular level allowed scientists to develop COX-2 inhibitors, a more targeted approach to the same problem.
 
 Drug development is a massive health science enterprise. Of every 10,000 compounds screened in early research, only about 250 enter preclinical testing. Of those, 5 enter human clinical trials. Of those, 1 gets approved. The process takes 10-15 years on average and costs $1-3 billion. These numbers explain why drugs are expensive—and why health scientists are constantly searching for ways to make the process faster and more efficient.
 
@@ -105,7 +105,7 @@ Public health is health science applied to entire communities, nations, and the 
 
 ### Epidemiology
 
-Epidemiology is the detective branch of health science. Epidemiologists track diseases through populations, identify risk factors, and trace outbreaks to their sources.
+[Epidemiology](/epidemiology) is the detective branch of health science. Epidemiologists track diseases through populations, identify risk factors, and trace outbreaks to their sources.
 
 John Snow—often called the father of epidemiology—demonstrated this in 1854 when he mapped cholera cases in London and traced the outbreak to a contaminated water pump on Broad Street. He didn't know about bacteria (germ theory hadn't been established yet), but his systematic data collection and analysis identified the source and stopped the outbreak.
 
@@ -119,7 +119,7 @@ Your health depends on your environment more than most people realize. Air pollu
 
 Environmental health scientists study these connections and develop policies to mitigate harm. The Clean Air Act, for example, is estimated to have prevented 230,000 premature deaths in 2020 alone—the result of environmental health research translated into regulation.
 
-Climate change is now a central concern. Heat waves killed over 60,000 people in Europe during the summer of 2022. Vector-borne diseases like dengue fever and malaria are expanding into new regions as temperatures rise. Wildfires produce toxic particulate matter that triggers respiratory and cardiovascular disease hundreds of miles from the flames.
+[Climate change](/climate-change) is now a central concern. Heat waves killed over 60,000 people in Europe during the summer of 2022. Vector-borne diseases like dengue fever and malaria are expanding into new regions as temperatures rise. Wildfires produce toxic particulate matter that triggers respiratory and cardiovascular disease hundreds of miles from the flames.
 
 ### Global Health
 
@@ -149,15 +149,15 @@ The research has produced clear recommendations. The World Health Organization s
 
 ## Mental Health Science
 
-Mental health has historically been the neglected stepchild of health science. That's changing—and not a moment too soon.
+[Mental health](/mental-health) has historically been the neglected stepchild of health science. That's changing—and not a moment too soon.
 
-Mental disorders are the leading cause of disability worldwide, affecting approximately 1 billion people. Depression alone costs the global economy an estimated $1 trillion per year in lost productivity. Suicide is the second leading cause of death among 15-29 year olds globally.
+Mental disorders are the leading cause of disability worldwide, affecting approximately 1 billion people. Depression alone costs the global economy an estimated $1 trillion per year in lost [productivity](/productivity). Suicide is the second leading cause of death among 15-29 year olds globally.
 
-Neuroscience has transformed our understanding of mental illness. Depression isn't just "being sad"—it involves measurable changes in brain chemistry, neural connectivity, and even brain structure. Schizophrenia involves dopamine system dysregulation and structural brain differences visible on imaging. PTSD literally changes how the brain processes fear memories.
+[Neuroscience](/neuroscience) has transformed our understanding of mental illness. Depression isn't just "being sad"—it involves measurable changes in brain chemistry, neural connectivity, and even brain structure. Schizophrenia involves dopamine system dysregulation and structural brain differences visible on imaging. PTSD literally changes how the brain processes fear memories.
 
 These insights have improved treatment. Cognitive-behavioral therapy (CBT) produces brain changes visible on functional MRI—proving that "talk therapy" isn't just talking. Newer treatments like transcranial magnetic stimulation (TMS) and ketamine-based therapies offer hope for treatment-resistant depression. Psychedelic-assisted therapy using psilocybin shows remarkable results in clinical trials, with a single session producing sustained improvements in depression that medications couldn't achieve.
 
-Yet access to mental health treatment remains woefully inadequate. Over 150 million people in the U.S. live in areas designated as mental health professional shortage areas. The average delay between onset of mental illness symptoms and treatment is 11 years. This is a health science problem that intersects with policy, economics, and social stigma.
+Yet access to mental health treatment remains woefully inadequate. Over 150 million people in the U.S. live in areas designated as mental health professional shortage areas. The average delay between onset of mental illness symptoms and treatment is 11 years. This is a health science problem that intersects with policy, [economics](/economics), and social stigma.
 
 ## Health Science Research Methods
 
@@ -177,7 +177,7 @@ Health science and [biotechnology](/biotechnology) are increasingly inseparable.
 
 Genomic medicine—using genetic information to guide treatment—has moved from research labs to clinical practice. Pharmacogenomics tests can predict how you'll metabolize specific drugs, allowing doctors to choose medications and dosages tailored to your genetic profile. About 90% of people carry at least one genetic variant that affects drug response.
 
-Wearable devices generate continuous health data outside clinical settings. Continuous glucose monitors give diabetic patients real-time feedback. Smartwatches detect irregular heart rhythms. Research-grade wearables track sleep architecture, stress responses, and physical activity with medical-grade accuracy.
+Wearable devices generate continuous health data outside clinical settings. Continuous glucose monitors give diabetic patients real-time feedback. Smartwatches detect irregular heart rhythms. Research-grade wearables track sleep [architecture](/architecture), stress responses, and physical activity with medical-grade accuracy.
 
 Artificial intelligence is making its way into clinical practice through [artificial intelligence](/artificial-intelligence) applications that analyze medical images, predict disease progression, and identify patients at risk of deterioration. These tools don't replace clinicians—they augment human judgment with computational power that can process data at scales no human brain can match.
 
@@ -187,7 +187,7 @@ Several urgent challenges define the field right now.
 
 **Antimicrobial resistance** is one of the most serious threats to global health. Bacteria are evolving resistance to antibiotics faster than new drugs are being developed. The WHO estimates that drug-resistant infections already cause 1.27 million deaths annually and could cause 10 million per year by 2050 if trends continue.
 
-**Health disparities** persist along lines of race, income, geography, and education. In the United States, life expectancy for Black Americans is 5.4 years shorter than for white Americans. These gaps reflect systemic differences in access to care, environmental exposures, nutrition, and stress—problems that health science identifies but cannot solve alone.
+**Health disparities** persist along lines of race, income, [geography](/geography), and [education](/education). In the United States, life expectancy for Black Americans is 5.4 years shorter than for white Americans. These gaps reflect systemic differences in access to care, environmental exposures, nutrition, and stress—problems that health science identifies but cannot solve alone.
 
 **Chronic disease epidemics** are overwhelming healthcare systems. Over 60% of American adults have at least one chronic condition; 40% have two or more. Heart disease, cancer, diabetes, and respiratory diseases account for 74% of all deaths globally. These diseases are largely preventable through lifestyle modification—but translating that knowledge into behavior change at the population level remains health science's greatest unsolved problem.
 

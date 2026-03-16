@@ -117,7 +117,7 @@ The slump test — filling a cone-shaped mold with concrete, removing the mold, 
 
 Strength alone doesn't ensure longevity. Concrete must resist:
 
-**Freeze-thaw cycling** — water in pores freezes, expands 9%, and damages the concrete. Air entrainment is the primary defense.
+**Freeze-thaw [cycling](/cycling)** — water in pores freezes, expands 9%, and damages the concrete. Air entrainment is the primary defense.
 
 **Chloride penetration** — deicing salts and seawater carry chloride ions that corrode steel reinforcement. Low permeability (low w/c ratio, supplementary cementitious materials) is the defense.
 
@@ -143,7 +143,7 @@ Bridges, parking garages, stadium beams, and wind turbine towers frequently use 
 
 Fresh concrete must be placed quickly (before it starts setting), compacted thoroughly (to remove trapped air), and finished to the required surface quality.
 
-**Vibration** consolidates concrete by shaking out air bubbles. Internal vibrators (poker vibrators) are inserted into the concrete. External vibrators attach to formwork. Inadequate vibration leaves voids that weaken the concrete. Over-vibration causes segregation.
+**Vibration** consolidates concrete by shaking out air bubbles. Internal vibrators ([poker](/poker) vibrators) are inserted into the concrete. External vibrators attach to formwork. Inadequate vibration leaves voids that weaken the concrete. Over-vibration causes segregation.
 
 **Pumping** moves concrete through pipes to placement locations — essential for high-rise construction, where concrete is pumped hundreds of meters vertically. The world record for concrete pumping height is 715 meters, set during the construction of a skyscraper in Jeddah.
 

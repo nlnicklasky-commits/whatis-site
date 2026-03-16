@@ -31,7 +31,7 @@ faq:
 
 # What Is Folk Art?
 
-Folk art is creative work made by people without formal artistic training, working within the traditions of their cultural community. It includes painting, [sculpture](/sculpture), textiles, [ceramics](/ceramics), woodcarving, metalwork, and dozens of other forms — anything a community creates that expresses shared aesthetic values, beliefs, and identity. Unlike [fine art](/fine-art), which is typically made for galleries and collectors, folk art emerges from daily life and often serves practical or ceremonial functions alongside its aesthetic ones.
+Folk art is creative work made by people without formal artistic training, working within the traditions of their cultural community. It includes [painting](/painting), [sculpture](/sculpture), textiles, [ceramics](/ceramics), woodcarving, metalwork, and dozens of other forms — anything a community creates that expresses shared aesthetic values, beliefs, and identity. Unlike [fine art](/fine-art), which is typically made for galleries and collectors, folk art emerges from daily life and often serves practical or ceremonial functions alongside its aesthetic ones.
 
 ## What Makes It "Folk"
 
@@ -41,7 +41,7 @@ The term "folk art" is debated constantly, and honestly, no definition satisfies
 
 **Self-taught makers** produce most folk art. They learn through apprenticeship, family instruction, or observation rather than academic training. This doesn't mean they're unskilled — the technical ability in a Pennsylvania Dutch fractur or an Oaxacan carved figure can be extraordinary. They just learned differently.
 
-**Functional origins** distinguish much folk art from gallery art. Quilts keep you warm. Weathervanes show wind direction. Pottery holds food. Baskets carry goods. The beauty is genuine but rarely the sole purpose. Some folk art is purely decorative or ceremonial, but the tradition usually connects to practical life.
+**Functional origins** distinguish much folk art from gallery art. Quilts keep you warm. Weathervanes show wind direction. [Pottery](/pottery) holds food. Baskets carry goods. The beauty is genuine but rarely the sole purpose. Some folk art is purely decorative or ceremonial, but the tradition usually connects to practical life.
 
 **Cultural specificity** ties folk art to particular communities. You can often identify where and when a piece of folk art was made by its style — the geometric patterns of Amish quilts, the bright colors of Mexican alebrijes, the carved motifs of Scandinavian rosemaling. Each tradition encodes specific cultural values and [aesthetics](/aesthetics).
 
@@ -49,7 +49,7 @@ The term "folk art" is debated constantly, and honestly, no definition satisfies
 
 Folk art is everywhere. Every culture has its own traditions.
 
-**Textiles** are among the most widespread. Quilting, [embroidery](/embroidery), weaving, rug-making, and applique traditions exist on every continent. The patterns and techniques are often so distinctive that experts can identify a textile's origin from its design alone.
+**Textiles** are among the most widespread. [Quilting](/quilting), [embroidery](/embroidery), [weaving](/weaving), rug-making, and applique traditions exist on every continent. The patterns and techniques are often so distinctive that experts can identify a textile's origin from its design alone.
 
 **Ceramics** range from utilitarian earthenware to elaborately decorated pottery. Mexican Talavera, Japanese raku, North Carolina face jugs, and Portuguese azulejo tiles all represent distinct ceramic folk traditions.
 

@@ -78,9 +78,9 @@ These questions have generated an entire genre of conspiracy [literature](/liter
 
 **Freemasonry** is the largest, most influential, and best-documented secret society in history. It's also the most misunderstood.
 
-Modern Freemasonry traces its origins to London in 1717, when four existing lodges formed the first Grand Lodge. But its roots go deeper — into medieval stonemason guilds that developed secret signs, passwords, and rituals to identify trained craftsmen and protect trade knowledge.
+Modern Freemasonry traces its origins to London in 1717, when four existing lodges formed the first Grand Lodge. But its roots go deeper — into medieval stonemason guilds that developed secret signs, passwords, and rituals to identify trained craftsmen and protect [trade](/trade) knowledge.
 
-Freemasonry uses [stonemasonry](/stonemasonry) as an extended metaphor. Members are "building" themselves — shaping their moral character the way a mason shapes rough stone into a finished block. The tools of masonry (square, compass, level, plumb) represent moral qualities (integrity, boundaries, equality, uprightness).
+Freemasonry uses [stonemasonry](/stonemasonry) as an extended metaphor. Members are "building" themselves — shaping their moral character the way a mason shapes rough stone into a finished block. The tools of [masonry](/masonry) (square, compass, level, plumb) represent moral qualities (integrity, boundaries, equality, uprightness).
 
 The organization has three basic degrees:
 1. **Entered Apprentice** — introduction to Masonic principles
@@ -111,7 +111,7 @@ There is zero evidence the Illuminati survived past the 1780s. But the idea of a
 
 ## Other Notable Secret Societies
 
-**Skull and Bones** — Founded at Yale University in 1832, this is a senior-year society that initiates 15 juniors each year. Members have included Presidents George H.W. Bush and George W. Bush, Secretary of State John Kerry, and numerous business leaders. Its actual activities appear to be [networking](/networking), debate, and bonding through shared ritual. But the elite membership list guarantees ongoing conspiracy interest.
+**Skull and Bones** — Founded at Yale University in 1832, this is a senior-year society that initiates 15 juniors each year. Members have included Presidents George H.W. Bush and George W. Bush, Secretary of State John Kerry, and numerous business leaders. Its actual activities appear to be [networking](/networking), [debate](/debate), and bonding through shared ritual. But the elite membership list guarantees ongoing conspiracy interest.
 
 **The Carbonari** — Italian revolutionary secret societies active in the early 19th century, working to overthrow Austrian and Bourbon rule in Italy. They actually did conspire — and their conspiracies contributed to Italian unification in the 1860s. This is a case where a secret society's agenda was genuinely political and genuinely consequential.
 
@@ -131,4 +131,4 @@ Secret societies generate conspiracy theories for predictable reasons:
 
 **Power of narrative.** The secret-society conspiracy theory is a great story — shadowy figures, hidden knowledge, ancient rituals, global control. It's essentially a thriller novel applied to reality. Good stories spread, regardless of evidence.
 
-The healthiest approach is somewhere between total credulity and total dismissal. Secret societies are real, historically significant, and occasionally consequential. They are not running the world from hidden chambers. The truth about human organization is both less dramatic and more interesting: power operates mostly in the open, through institutions, markets, and social norms — messily, unpredictably, and without any single group in control.
+The healthiest approach is somewhere between total credulity and total dismissal. Secret societies are real, historically significant, and occasionally consequential. They are not [running](/running) the world from hidden chambers. The truth about human organization is both less dramatic and more interesting: power operates mostly in the open, through institutions, markets, and social norms — messily, unpredictably, and without any single group in control.

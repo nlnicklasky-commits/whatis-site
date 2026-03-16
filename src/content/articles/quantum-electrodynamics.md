@@ -37,7 +37,7 @@ faq:
 
 Quantum electrodynamics -- universally called QED -- is the quantum field theory that describes how light and matter interact. More precisely, it's the relativistic quantum theory of [electromagnetism](/electromagnetism): how electrically charged particles (primarily electrons and positrons) exchange photons, the particles of light. It's the most accurately tested theory in [the history of science](/the-history-of-science), with predictions verified to more than 10 decimal places.
 
-Richard Feynman, one of QED's architects, described it as "the jewel of physics -- our proudest possession." And frankly, he wasn't exaggerating. QED explains everything from why atoms don't collapse to how lasers work, from the color of the sky to the chemistry that makes life possible. It does all this with a mathematical framework so precise that its predictions match experiments with an accuracy no other scientific theory has ever achieved.
+Richard Feynman, one of QED's architects, described it as "the jewel of [physics](/physics) -- our proudest possession." And frankly, he wasn't exaggerating. QED explains everything from why atoms don't collapse to how lasers work, from the color of the sky to the [chemistry](/chemistry) that makes life possible. It does all this with a mathematical framework so precise that its predictions match experiments with an accuracy no other scientific theory has ever achieved.
 
 ## The Problem QED Solved
 
@@ -49,7 +49,7 @@ To appreciate QED, you need to understand the crisis it resolved. By the 1930s, 
 
 ### Special Relativity and Classical Electromagnetism
 
-Maxwell's equations of [electromagnetism](/electromagnetism) and Einstein's special relativity were perfectly compatible with each other. They described electromagnetic waves, the behavior of light, and high-speed particles beautifully. But they were classical theories -- they treated energy and momentum as continuous, not quantized.
+Maxwell's equations of [electromagnetism](/electromagnetism) and Einstein's special [relativity](/relativity) were perfectly compatible with each other. They described electromagnetic waves, the behavior of light, and high-speed particles beautifully. But they were classical theories -- they treated energy and momentum as continuous, not quantized.
 
 ### The Incompatibility
 
@@ -76,7 +76,7 @@ The procedure works like this:
 3. Redefine the "bare" mass and charge to absorb the infinities.
 4. The remaining finite part is the physical prediction.
 
-This sounds like mathematical sleight of hand. And many physicists, including Dirac, criticized it as exactly that. But here's the thing: it works. Not just approximately -- it works with precision that borders on the absurd.
+This sounds like mathematical [sleight of hand](/sleight-of-hand). And many physicists, including Dirac, criticized it as exactly that. But here's the thing: it works. Not just approximately -- it works with precision that borders on the absurd.
 
 ### The Most Precise Prediction in Science
 
@@ -87,7 +87,7 @@ Experimental measurement: g/2 = 1.00115965218059 (with uncertainty in the last d
 
 These numbers agree to better than one part in 10^12 (one trillion). To put that in perspective: if you measured the distance from New York to Los Angeles, this accuracy would correspond to an error smaller than the width of a human hair.
 
-No other prediction in any science -- [physics](/experimental-physics), chemistry, biology, anything -- comes close to this level of agreement between theory and experiment. QED is, by this measure, the most successful quantitative theory humans have ever created.
+No other prediction in any science -- [physics](/experimental-physics), chemistry, [biology](/biology), anything -- comes close to this level of agreement between theory and experiment. QED is, by this measure, the most successful quantitative theory humans have ever created.
 
 ## Feynman Diagrams: Pictures That Changed Physics
 
@@ -129,11 +129,11 @@ Even the [color of objects](/optics) is ultimately a QED phenomenon. Atoms absor
 
 One of QED's most dramatic predictions is that particles can be created from pure energy and destroyed back into energy. An electron and a positron can annihilate each other, producing two gamma-ray photons. Conversely, a high-energy photon near a nucleus can create an electron-positron pair from nothing.
 
-These processes have been observed in countless experiments at [particle physics](/particle-physics) laboratories worldwide and form the basis of technologies like PET (positron emission tomography) medical imaging.
+These processes have been observed in countless experiments at [particle physics](/particle-physics) laboratories worldwide and form the basis of technologies like PET (positron emission tomography) [medical imaging](/medical-imaging).
 
 ## The Fine Structure Constant: Nature's Favorite Number
 
-Running through all of QED is a single dimensionless number: the fine structure constant, denoted alpha. Its value is approximately 1/137.036.
+[Running](/running) through all of QED is a single dimensionless number: the fine structure constant, denoted alpha. Its value is approximately 1/137.036.
 
 Alpha determines the strength of the electromagnetic interaction. It appears everywhere in QED: in the probability that an electron emits a photon, in the energy levels of atoms, in the cross-sections for particle scattering. Every QED calculation is essentially a power series in alpha.
 
@@ -199,9 +199,9 @@ QED's impact extends far beyond particle physics:
 
 **Technology.** Lasers, LEDs, solar cells, semiconductor devices, MRI machines, fiber optic communications -- all of these technologies depend on light-matter interactions described by QED.
 
-**Metrology.** The most precise measurements in science are based on QED predictions. Atomic clocks, the definition of the meter (via the speed of light), the kilogram (via the Planck constant) -- these standards rely on QED's extraordinary accuracy.
+**[Metrology](/metrology).** The most precise measurements in science are based on QED predictions. Atomic clocks, the definition of the meter (via the speed of light), the kilogram (via the Planck constant) -- these standards rely on QED's extraordinary accuracy.
 
-**Cosmology.** The physics of the early universe, when temperatures were high enough for electron-positron pair creation and annihilation, is described by QED. The relative abundance of matter and antimatter in the universe is a QED-related puzzle that remains unsolved.
+**[Cosmology](/cosmology).** The physics of the early universe, when temperatures were high enough for electron-positron pair creation and annihilation, is described by QED. The relative abundance of matter and antimatter in the universe is a QED-related puzzle that remains unsolved.
 
 ## The Philosophical Implications
 

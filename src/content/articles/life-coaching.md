@@ -32,7 +32,7 @@ faq:
 ---
 
 # What Is Life Coaching?
-Life coaching is a collaborative, goal-oriented practice in which a trained coach helps you identify what you want, figure out what's stopping you, and take consistent action toward the life you're trying to build. It's not therapy, not consulting, and not someone telling you what to do — though it gets confused with all three.
+Life [coaching](/coaching) is a collaborative, goal-oriented practice in which a trained coach helps you identify what you want, figure out what's stopping you, and take consistent action toward the life you're trying to build. It's not therapy, not consulting, and not someone telling you what to do — though it gets confused with all three.
 
 The profession has exploded in the last two decades. The International Coaching Federation estimates that there are over 100,000 professional coaches worldwide, generating roughly $4.5 billion in annual revenue as of 2023. That's a lot of people paying other people to help them get unstuck.
 
@@ -86,11 +86,11 @@ The coaching world has spawned numerous specializations, each focusing on differ
 
 **Career coaching** helps people with job transitions, career direction, interview preparation, and professional development. Career coaches may use assessments, help build resumes, or coach through the emotional aspects of career change.
 
-**Health and wellness coaching** focuses on behavior change related to physical health — exercise, nutrition, stress [management](/management), sleep. Some health coaches work within medical systems alongside doctors and nutritionists. This area overlaps with what you'd find in discussions of [nutrition](/nutrition) and preventive health.
+**Health and [wellness](/wellness) coaching** focuses on behavior change related to physical health — exercise, nutrition, stress [management](/management), sleep. Some health coaches work within medical systems alongside doctors and nutritionists. This area overlaps with what you'd find in discussions of [nutrition](/nutrition) and preventive health.
 
 **Relationship coaching** helps individuals or couples improve their relationship skills, communication patterns, and interpersonal dynamics. It differs from couples therapy in that it's forward-focused and doesn't address clinical issues like trauma or mental health conditions.
 
-**Financial coaching** addresses money management, budgeting, debt reduction, and financial goal-setting. Unlike financial advisors, financial coaches don't manage investments or provide specific financial recommendations — they help clients develop better financial habits and mindsets.
+**Financial coaching** addresses money management, [budgeting](/budgeting), debt reduction, and financial goal-setting. Unlike financial advisors, financial coaches don't manage investments or provide specific financial recommendations — they help clients develop better financial habits and mindsets.
 
 ## The Credential Question
 
@@ -98,7 +98,7 @@ Here's an uncomfortable truth about life coaching: in most countries, there are 
 
 This lack of regulation is the industry's biggest credibility problem. The ICF has established the most widely recognized credential system, with three tiers: Associate Certified Coach (ACC, requiring 60+ training hours), Professional Certified Coach (PCC, 125+ hours), and Master Certified Coach (MCC, 200+ hours). Each level also requires documented coaching experience and mentoring.
 
-Other credential bodies exist — the Center for Credentialing & Education (CCE), the International Association of Coaching (IAC), and the European Mentoring and Coaching Council (EMCC). Each has its own standards and requirements.
+Other credential bodies exist — the Center for Credentialing & [Education](/education) (CCE), the International Association of Coaching (IAC), and the European Mentoring and Coaching Council (EMCC). Each has its own standards and requirements.
 
 The gap between credentialed coaches and self-proclaimed coaches is significant. Trained coaches follow ethical guidelines, maintain confidentiality, recognize scope-of-practice limits, and have supervised coaching experience. Untrained coaches may cross boundaries, give advice beyond their competence, or fail to refer clients who need professional help.
 

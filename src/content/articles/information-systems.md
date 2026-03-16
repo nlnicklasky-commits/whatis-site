@@ -41,7 +41,7 @@ An information system (IS) is an organized combination of people, hardware, soft
 
 The most common misconception about information systems is that they're synonymous with computers. They're not. A computer is a component of an information system — an important one, sure, but no more complete on its own than an engine is a car.
 
-Consider a hospital's patient record system. The technology includes servers, databases, workstations, and networking equipment. But the information system also includes the nurses who enter patient data, the doctors who retrieve and interpret it, the policies governing who can access what, the procedures for handling system failures, the training programs that teach new staff how to use the system, and the organizational culture that determines whether people actually follow the procedures.
+Consider a hospital's patient record system. The technology includes servers, databases, workstations, and [networking](/networking) equipment. But the information system also includes the nurses who enter patient data, the doctors who retrieve and interpret it, the policies governing who can access what, the procedures for handling system failures, the training programs that teach new staff how to use the system, and the organizational culture that determines whether people actually follow the procedures.
 
 If any of these components fails, the system fails — regardless of how good the technology is. The most sophisticated software in the world can't help if nobody enters data accurately. The most secure database is useless if the access policies are so restrictive that doctors can't get to patient records during emergencies. This is why information systems is fundamentally an interdisciplinary field — it sits at the intersection of [computer science](/computer-science), [business administration](/business-administration), and [organizational behavior](/organizational-behavior).
 
@@ -61,15 +61,15 @@ Hardware has followed Moore's Law for decades — processing power roughly doubl
 
 The programs that process data and enable user interaction. This includes:
 
-**System software**: Operating systems (Windows, Linux, macOS), database management systems (Oracle, SQL Server, PostgreSQL), and middleware that connects different software components.
+**System software**: Operating systems (Windows, Linux, macOS), database [management](/management) systems (Oracle, SQL Server, PostgreSQL), and middleware that connects different software components.
 
-**Application software**: Programs that perform specific business functions. Accounting software. Customer relationship management (CRM) systems. Email clients. Spreadsheets. The applications that users actually interact with daily.
+**Application software**: Programs that perform specific business functions. [Accounting](/accounting) software. Customer relationship management (CRM) systems. Email clients. Spreadsheets. The applications that users actually interact with daily.
 
 **Custom vs. commercial**: Organizations choose between building custom software (expensive but tailored exactly to their needs) and buying commercial off-the-shelf (COTS) software (cheaper but requiring adaptation to the software's assumptions about how work should flow). Most organizations use a mix — commercial software for common functions, custom development for unique requirements.
 
 ### Data
 
-The raw material that information systems process. Customer records. Financial transactions. Inventory levels. Sensor readings. Employee records. Web analytics. Email archives.
+The raw material that information systems process. Customer records. Financial transactions. Inventory levels. Sensor readings. Employee records. [Web analytics](/web-analytics). Email archives.
 
 Data is only valuable when it's accurate, timely, complete, and accessible. Organizations struggle with all four. Duplicate customer records, outdated inventory data, incomplete transaction histories, and data locked in silos that different departments can't access — these are universal problems.
 
@@ -97,7 +97,7 @@ Organizations use different types of information systems for different purposes,
 
 ### Transaction Processing Systems (TPS)
 
-The workhorses. TPS handle routine, repetitive transactions at high volume: processing sales, tracking inventory, recording payroll, handling bank deposits and withdrawals. Every time you swipe a credit card, a TPS processes that transaction — verifying the card, checking the balance, recording the charge, and sending a confirmation.
+The workhorses. TPS handle routine, repetitive transactions at high volume: processing [sales](/sales), tracking inventory, recording payroll, handling bank deposits and withdrawals. Every time you swipe a credit card, a TPS processes that transaction — verifying the card, checking the balance, recording the charge, and sending a confirmation.
 
 TPS requirements are straightforward: speed, accuracy, reliability, and the ability to handle high volumes. A bank's TPS might process millions of transactions daily. If it goes down for even an hour, the financial consequences are enormous.
 
@@ -109,9 +109,9 @@ The key distinction from TPS: MIS don't process transactions; they summarize and
 
 ### Decision Support Systems (DSS)
 
-DSS help managers make decisions about semi-structured problems — situations where some information is available but judgment is still required. A DSS might help a logistics manager decide how to reroute shipments when a major highway is closed, or help a financial analyst evaluate the risk of different investment portfolios.
+DSS help managers make decisions about semi-structured problems — situations where some information is available but judgment is still required. A DSS might help a [logistics](/logistics) manager decide how to reroute shipments when a major highway is closed, or help a financial analyst evaluate the risk of different investment portfolios.
 
-DSS typically include data analysis tools, modeling capabilities, and "what-if" analysis — the ability to ask "What happens if we increase price by 10%?" or "What happens if demand drops 20%?" and see projected outcomes.
+DSS typically include [data analysis](/data-analysis) tools, modeling capabilities, and "what-if" analysis — the ability to ask "What happens if we increase price by 10%?" or "What happens if demand drops 20%?" and see projected outcomes.
 
 ### Executive Information Systems (EIS)
 
@@ -121,7 +121,7 @@ The CEO doesn't need to know that order #47832 shipped late. They need to know t
 
 ### Enterprise Resource Planning (ERP)
 
-ERP systems integrate multiple business functions — finance, human resources, manufacturing, supply chain, sales — into a single system with a shared database. Instead of each department running its own separate system (with its own data, its own formats, and its own inconsistencies), ERP provides a single source of truth.
+ERP systems integrate multiple business functions — [finance](/finance), [human resources](/human-resources), manufacturing, supply chain, sales — into a single system with a shared database. Instead of each department [running](/running) its own separate system (with its own data, its own formats, and its own inconsistencies), ERP provides a single source of truth.
 
 SAP, Oracle, and Microsoft Dynamics dominate the ERP market. Implementing an ERP system is one of the largest, most expensive, and most disruptive projects an organization can undertake. Implementations typically cost millions of dollars and take 1-3 years. Failure rates are disturbingly high — estimates range from 25% to 75%, depending on how "failure" is defined.
 
@@ -131,11 +131,11 @@ When ERP works, the benefits are substantial: eliminated data redundancy, stream
 
 CRM systems manage an organization's interactions with current and potential customers. They track sales leads, manage customer service inquiries, store contact information and interaction history, and analyze customer behavior patterns.
 
-Salesforce dominates the CRM market, followed by Microsoft Dynamics 365, HubSpot, and others. CRM has become central to sales and marketing operations — most modern sales teams couldn't function without it.
+Salesforce dominates the CRM market, followed by Microsoft Dynamics 365, HubSpot, and others. CRM has become central to sales and [marketing](/marketing) operations — most modern sales teams couldn't function without it.
 
 ## Digital Transformation: IS as Strategic Weapon
 
-For decades, information systems were viewed as a support function — necessary infrastructure, like plumbing. You needed them, but they didn't create competitive advantage. That view is obsolete.
+For decades, information systems were viewed as a support function — necessary infrastructure, like [plumbing](/plumbing). You needed them, but they didn't create competitive advantage. That view is obsolete.
 
 Today, information systems are often the business itself. Amazon isn't a retailer that uses technology — it's a technology company that sells retail products. Uber doesn't own cars; it operates an information system connecting drivers and riders. Netflix's recommendation algorithm is arguably more valuable than its content library.
 
@@ -195,17 +195,17 @@ Several trends are reshaping the field.
 
 **AI integration**: [Artificial intelligence](/artificial-intelligence) is being embedded into every category of information system — ERP, CRM, BI, security, supply chain. AI doesn't replace information systems; it makes them more capable, more automated, and more predictive.
 
-**Cloud-native development**: New systems are increasingly built for cloud deployment from the start, using microservices architecture, containers, and serverless computing. This changes how systems are designed, deployed, and operated.
+**Cloud-native development**: New systems are increasingly built for cloud deployment from the start, using microservices [architecture](/architecture), containers, and serverless computing. This changes how systems are designed, deployed, and operated.
 
 **Low-code/no-code platforms**: Tools that allow non-programmers to build applications using visual interfaces and drag-and-drop components. These democratize system development but raise concerns about quality, security, and maintainability.
 
 **Edge computing**: Processing data closer to where it's generated — in factories, vehicles, retail stores — rather than sending everything to centralized cloud data centers. Essential for applications requiring real-time responses, like autonomous vehicles or industrial automation.
 
-**Sustainability**: As data centers consume an estimated 1-2% of global electricity (and growing), energy-efficient computing and sustainable IT practices are becoming business imperatives, not just environmental nice-to-haves.
+**Sustainability**: As data centers consume an estimated 1-2% of global [electricity](/electricity) (and growing), energy-efficient computing and sustainable IT practices are becoming business imperatives, not just environmental nice-to-haves.
 
 ## Why It All Matters
 
-Every organization — every hospital, school, government agency, retailer, manufacturer, bank, and nonprofit — runs on information systems. The quality of those systems directly affects the quality of the organization's decisions, the efficiency of its operations, and the experience of its customers and employees.
+Every organization — every hospital, school, [government](/government) agency, retailer, manufacturer, bank, and nonprofit — runs on information systems. The quality of those systems directly affects the quality of the organization's decisions, the efficiency of its operations, and the experience of its customers and employees.
 
 Understanding information systems means understanding how modern organizations actually function. Not the org charts and mission statements — the real mechanics of how data flows, decisions get made, and work gets done. That understanding is valuable whether you're building systems, managing them, using them, or leading the organizations that depend on them.
 

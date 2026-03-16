@@ -57,7 +57,7 @@ This seems absurd now, but it shaped how computer scientists thought about users
 
 ### Command Lines and Terminals (1960s-1980s)
 
-Time-sharing systems and terminals gave users their first taste of interactive computing. You typed commands; the computer responded. This was a massive improvement — instant feedback! — but it required memorizing cryptic command syntax. You had to know that `ls -la` listed files or that `chmod 755` changed permissions. No hints, no menus, no visual cues.
+Time-sharing systems and terminals gave users their first taste of interactive computing. You typed commands; the computer responded. This was a massive improvement — instant feedback! — but it required memorizing cryptic command [syntax](/syntax). You had to know that `ls -la` listed files or that `chmod 755` changed permissions. No hints, no menus, no visual cues.
 
 The command line selected for a specific user population: technically minded people comfortable with memorization and abstract thinking. Everyone else was excluded. This wasn't a design choice so much as a non-choice — nobody was thinking about non-technical users yet.
 
@@ -73,7 +73,7 @@ This was HCI's first massive triumph: proving that interface design could dramat
 
 The World Wide Web introduced new HCI challenges. Websites had to work for millions of diverse users with different screen sizes, connection speeds, and technical abilities. [App development](/app-development) for smartphones added touch interfaces, small screens, and context-aware computing.
 
-Each new platform brought new interaction paradigms — and new usability problems to solve. Touch targets need to be at least 44x44 pixels for reliable tapping. Gesture-based navigation (swipe to go back, pinch to zoom) needs to be discoverable without instructions. Mobile forms need to minimize typing. Each insight came from HCI research and testing.
+Each new platform brought new interaction paradigms — and new usability problems to solve. Touch targets need to be at least 44x44 pixels for reliable tapping. Gesture-based [navigation](/navigation) (swipe to go back, pinch to zoom) needs to be discoverable without instructions. Mobile forms need to minimize typing. Each insight came from HCI research and testing.
 
 ## Core Principles That Actually Work
 
@@ -147,7 +147,7 @@ Contextual inquiry has revealed insights that lab testing never would. Office wo
 
 **Autocomplete.** The idea that the system should predict what you're typing and offer suggestions reduced input effort dramatically. Search engines, email clients, code editors, and phone keyboards all use it. Google's autocomplete handles over 3.5 billion queries per day, saving users millions of keystrokes.
 
-**Undo.** The ability to reverse an action seems so natural now that it's hard to imagine computing without it. But early systems had no undo — mistakes were permanent. The multi-level undo (Ctrl+Z repeatedly) was a HCI invention that fundamentally changed how people interact with software, making experimentation safe.
+**Undo.** The ability to reverse an action seems so natural now that it's hard to imagine computing without it. But early systems had no undo — mistakes were permanent. The multi-level undo (Ctrl+Z repeatedly) was a HCI [invention](/invention) that fundamentally changed how people interact with software, making experimentation safe.
 
 ### Failures
 
@@ -167,7 +167,7 @@ Accessibility improvements frequently benefit everyone. Curb cuts were designed 
 
 ### Voice and Conversational Interfaces
 
-Voice assistants (Siri, Alexa, Google Assistant) represent a fundamental shift in interaction model. Instead of visual-spatial interaction (clicking, tapping), voice uses natural language. The HCI challenges are different: discoverability (how do users know what they can say?), error recovery (misrecognition is common), and context management (multi-turn conversations require memory).
+Voice assistants (Siri, Alexa, Google Assistant) represent a fundamental shift in interaction model. Instead of visual-spatial interaction (clicking, tapping), voice uses natural language. The HCI challenges are different: discoverability (how do users know what they can say?), error recovery (misrecognition is common), and context [management](/management) (multi-turn conversations require memory).
 
 Voice interfaces work well for simple commands ("set a timer for 10 minutes") and poorly for complex tasks ("find me a flight from Chicago to Miami next Tuesday, returning Friday, preferably on United, under $400"). The complexity boundary is an active research area.
 
@@ -187,7 +187,7 @@ But adaptive interfaces introduce new HCI problems. If the interface changes, us
 
 The return on investment for usability work is well-documented. IBM found that every dollar spent on ease-of-use returned $10-$100. Forrester Research estimated that improving a website's user experience could increase conversion rates by up to 400%.
 
-Amazon calculated that every 100 milliseconds of page load delay cost them 1% of sales. Google found that a 500-millisecond delay in search results reduced traffic by 20%. These findings — rooted in HCI research on response time expectations — have made performance a business-critical concern.
+Amazon calculated that every 100 milliseconds of page load delay cost them 1% of [sales](/sales). Google found that a 500-millisecond delay in search results reduced traffic by 20%. These findings — rooted in HCI research on response time expectations — have made performance a business-critical concern.
 
 The cost of fixing usability problems after release is 100 times higher than fixing them during design. Finding an issue during user research costs almost nothing. Discovering the same issue after launch — through customer complaints, lost sales, or safety incidents — costs enormously more.
 

@@ -83,7 +83,7 @@ For all their protections, national parks aren't immune to problems.
 
 **Overcrowding.** Some parks are being loved to death. Zion National Park implemented a shuttle system because traffic was destroying the canyon floor. Yosemite has experimented with reservation systems. The tension between public access and conservation is real, and it's getting worse as outdoor recreation booms.
 
-**Climate change.** Glaciers are melting in Glacier National Park — the park had 150 glaciers in 1850 and now has fewer than 30. Coral bleaching threatens marine parks worldwide. Wildfires are burning through parks with increasing intensity.
+**[Climate change](/climate-change).** Glaciers are melting in Glacier National Park — the park had 150 glaciers in 1850 and now has fewer than 30. Coral bleaching threatens marine parks worldwide. Wildfires are burning through parks with increasing intensity.
 
 **Underfunding.** The U.S. National Park Service faces a maintenance backlog exceeding $22 billion. Trails crumble, historic buildings deteriorate, and infrastructure ages faster than budgets can keep up with.
 

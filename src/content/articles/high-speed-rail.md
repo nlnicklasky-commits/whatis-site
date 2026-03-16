@@ -51,9 +51,9 @@ Making a train go fast isn't the hard part. Keeping it safe, comfortable, and re
 
 ### Track Design
 
-High-speed rail tracks look different from conventional rail. The curves are gentler (minimum radius of 4,000-7,000 meters, compared to 300 meters for conventional rail), gradients are shallower (typically under 3.5%), and the track geometry is maintained to millimeter precision.
+High-speed rail tracks look different from conventional rail. The curves are gentler (minimum radius of 4,000-7,000 meters, compared to 300 meters for conventional rail), gradients are shallower (typically under 3.5%), and the track [geometry](/geometry) is maintained to millimeter precision.
 
-Why? Physics. At 300 km/h, even a slight curve imposes enormous lateral forces on the train and passengers. Banking the track (tilting it inward like a racetrack) helps, but there are limits. The solution is building tracks with curves so gentle that passengers barely notice them—which requires enormous amounts of land and earthwork.
+Why? [Physics](/physics). At 300 km/h, even a slight curve imposes enormous lateral forces on the train and passengers. Banking the track (tilting it inward like a racetrack) helps, but there are limits. The solution is building tracks with curves so gentle that passengers barely notice them—which requires enormous amounts of land and earthwork.
 
 Track structure matters too. Most modern HSR uses slab track—concrete slabs with rails mounted directly on them—rather than the traditional ballasted track (rails on gravel). Slab track maintains its geometry more precisely and requires less maintenance, which matters when a few millimeters of track displacement at 350 km/h could cause serious problems.
 
@@ -63,7 +63,7 @@ High-speed trains are aerodynamic machines. At 300 km/h, roughly 75% of the ener
 
 Japan's Shinkansen evolution illustrates this perfectly. Early models had blunt, rounded noses. The Series 500 (1997) introduced a sharply pointed nose. The N700 series uses a shape inspired by the kingfisher bird—a design that reduces not just drag but also the "tunnel boom" problem, where trains entering tunnels at high speed create a sonic-boom-like pressure wave that can shatter windows near tunnel exits.
 
-Modern HSR trains use distributed power—motors in multiple cars rather than a single locomotive—which distributes weight more evenly and increases traction. Electric multiple units (EMUs) are the standard configuration. Almost all high-speed rail is electrically powered, drawing current from overhead catenary wires. This makes HSR compatible with [alternative energy](/alternative-energy) sources: if the grid is powered by renewables, the train is too.
+Modern HSR trains use distributed power—motors in multiple cars rather than a single locomotive—which distributes weight more evenly and increases traction. Electric multiple units (EMUs) are the standard configuration. Almost all high-speed rail is electrically powered, [drawing](/drawing) current from overhead catenary wires. This makes HSR compatible with [alternative energy](/alternative-energy) sources: if the grid is powered by renewables, the train is too.
 
 ### Signaling and Control
 
@@ -127,7 +127,7 @@ These capital costs dwarf highway construction ($5-10 million per lane-km for a 
 
 ### Operating Economics
 
-Once built, high-speed rail has favorable operating economics on busy corridors. Trains are electrically powered (cheaper than jet fuel per passenger-km), run with small crews, and can carry 1,000+ passengers per train. The energy efficiency of HSR is roughly 3-5 times better than short-haul aviation per passenger-kilometer.
+Once built, high-speed rail has favorable operating economics on busy corridors. Trains are electrically powered (cheaper than jet fuel per passenger-km), run with small crews, and can carry 1,000+ passengers per train. The energy efficiency of HSR is roughly 3-5 times better than short-haul [aviation](/aviation) per passenger-kilometer.
 
 On the Tokyo-Osaka corridor, the Shinkansen generates operating profits of over $6 billion annually. The Paris-Lyon TGV has been profitable since its second year. These successes fund expansion of less profitable routes—a cross-subsidy model common in rail systems worldwide.
 
@@ -135,7 +135,7 @@ But many HSR lines don't generate enough revenue to cover both operating costs a
 
 ### The Wider Economic Impact
 
-HSR reshapes economic [geography](/geography). When a city gets connected by high-speed rail, it suddenly becomes part of a larger economic region. Workers can commute longer distances. Businesses can access larger labor markets. Tourism increases.
+HSR reshapes economic [geography](/geography). When a city gets connected by high-speed rail, it suddenly becomes part of a larger economic region. Workers can commute longer distances. Businesses can access larger labor markets. [Tourism](/tourism) increases.
 
 The Japanese concept of the "Shinkansen effect" describes this phenomenon. Cities connected by the Shinkansen experienced population growth, increased business investment, and rising property values—while cities bypassed by HSR stagnated. The effect is strongest for intermediate cities that become accessible to major metropolitan areas: a city 300 km from Tokyo that gets a Shinkansen station effectively becomes a Tokyo suburb for business purposes.
 
@@ -181,9 +181,9 @@ High-speed rail isn't a universal solution, and pretending otherwise undermines 
 
 Here's the strongest argument for high-speed rail: transportation accounts for about 23% of global energy-related CO2 emissions. Aviation alone contributes about 2.5% of global CO2 emissions (with additional warming effects from contrails and high-altitude emissions that may double its effective climate impact).
 
-Shifting short-haul flights to HSR is one of the most direct, proven ways to reduce transportation emissions. Unlike electric cars (which still face questions about battery production emissions and grid carbon intensity), electric trains running on even partially decarbonized grids produce dramatically lower emissions per passenger-kilometer than any alternative.
+Shifting short-haul flights to HSR is one of the most direct, proven ways to reduce transportation emissions. Unlike electric cars (which still face questions about battery production emissions and grid carbon intensity), electric trains [running](/running) on even partially decarbonized grids produce dramatically lower emissions per passenger-kilometer than any alternative.
 
-The International Energy Agency estimates that high-speed rail could avoid 100 million tonnes of CO2 annually by 2050 if networks are expanded to cover major corridors where they're competitive with aviation. That won't solve climate change alone—but it's a significant contribution from a technology that already exists and works.
+The International Energy Agency estimates that high-speed rail could avoid 100 million tonnes of CO2 annually by 2050 if networks are expanded to cover major corridors where they're competitive with aviation. That won't solve [climate change](/climate-change) alone—but it's a significant contribution from a technology that already exists and works.
 
 ## Key Takeaways
 

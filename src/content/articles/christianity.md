@@ -39,21 +39,21 @@ faq:
 
 # What Is Christianity?
 
-Christianity is a monotheistic religion based on the life, teachings, death, and resurrection of Jesus of Nazareth, whom followers believe to be the Son of God and the Messiah (Christ) prophesied in the Hebrew scriptures. With approximately 2.4 billion adherents worldwide as of 2024, it is the largest religion on Earth, shaping laws, cultures, art, philosophy, and politics across every continent for nearly two thousand years.
+Christianity is a monotheistic [religion](/religion) based on the life, teachings, death, and resurrection of Jesus of Nazareth, whom followers believe to be the Son of God and the Messiah (Christ) prophesied in the Hebrew scriptures. With approximately 2.4 billion adherents worldwide as of 2024, it is the largest religion on Earth, shaping laws, cultures, art, [philosophy](/philosophy), and [politics](/politics) across every continent for nearly two thousand years.
 
 ## The Core Story: Jesus of Nazareth
 
 You can't understand Christianity without understanding Jesus. Born around 4 BCE in Roman-occupied Judea (the dating is slightly off because the monk who calculated the calendar made a math error—yes, really), Jesus grew up in Nazareth, a small town in Galilee. He was Jewish, raised in Jewish tradition, and began his public ministry around age 30.
 
-For roughly three years, Jesus traveled through the region teaching, performing what followers describe as miracles (healing the sick, feeding crowds, raising the dead), and gathering disciples. His teachings were often delivered in parables—short stories with spiritual or moral lessons. The Good Samaritan, the Prodigal Son, the Sower and the Seed—these stories have become so embedded in Western culture that people reference them without knowing their origin.
+For roughly three years, Jesus traveled through the region [teaching](/teaching), performing what followers describe as miracles (healing the sick, feeding crowds, raising the dead), and gathering disciples. His teachings were often delivered in parables—short stories with spiritual or moral lessons. The Good Samaritan, the Prodigal Son, the Sower and the Seed—these stories have become so embedded in Western culture that people reference them without knowing their origin.
 
-What made Jesus controversial wasn't just his teachings—it was his claims. He claimed a unique relationship with God, forgave sins (something only God could do in Jewish theology), and challenged religious authorities. The established religious leaders saw him as a threat. The Roman authorities saw a potential revolutionary.
+What made Jesus controversial wasn't just his teachings—it was his claims. He claimed a unique relationship with God, forgave sins (something only God could do in Jewish [theology](/theology)), and challenged religious authorities. The established religious leaders saw him as a threat. The Roman authorities saw a potential revolutionary.
 
 Around 30-33 CE, Jesus was arrested, tried, and executed by crucifixion under the Roman governor Pontius Pilate. And that would have been the end of the story—another failed messianic claimant in a region full of them—except for what his followers claimed happened next.
 
 ### The Resurrection: Christianity's Central Claim
 
-The resurrection of Jesus is the foundational claim of Christianity. His followers reported that three days after his execution, his tomb was empty and he appeared to them alive over a period of 40 days before ascending to heaven. The apostle Paul, writing around 55 CE (roughly 20 years after the events), stated that Jesus appeared to more than 500 people at once.
+The resurrection of Jesus is the foundational claim of Christianity. His followers reported that three days after his execution, his tomb was empty and he appeared to them alive over a period of 40 days before ascending to heaven. The apostle Paul, [writing](/writing) around 55 CE (roughly 20 years after the events), stated that Jesus appeared to more than 500 people at once.
 
 This is the claim that either makes or breaks Christianity. As Paul himself wrote: "If Christ has not been raised, our preaching is useless and so is your faith." Christians don't present the resurrection as a metaphor or a spiritual truth—mainstream Christian theology insists it was a physical, historical event.
 
@@ -67,7 +67,7 @@ Christian theology is vast—two thousand years of thinkers will produce a lot o
 
 Most Christians believe in the Trinity: one God existing as three distinct persons—Father, Son (Jesus), and Holy Spirit. This isn't three gods (that would be polytheism) or one God wearing three masks (that's the heresy called modalism). It's something more subtle and, frankly, hard to fully grasp—three distinct persons sharing one divine essence.
 
-The Trinity wasn't spelled out neatly in the Bible. It was developed over centuries of theological debate, formally defined at the Council of Nicaea in 325 CE and further clarified at the Council of Constantinople in 381 CE. The Nicene Creed, still recited in many churches today, codifies these beliefs.
+The Trinity wasn't spelled out neatly in the Bible. It was developed over centuries of theological [debate](/debate), formally defined at the Council of Nicaea in 325 CE and further clarified at the Council of Constantinople in 381 CE. The Nicene Creed, still recited in many churches today, codifies these beliefs.
 
 ### Sin and Salvation
 
@@ -89,7 +89,7 @@ The Bible is Christianity's scripture, but calling it "a book" is misleading. It
 
 ### The Old Proof
 
-The Old Proof (or Hebrew Bible) contains the sacred scriptures Christianity inherited from Judaism. It includes creation narratives, historical accounts, legal codes, poetry (Psalms, Song of Solomon), wisdom literature (Proverbs, Ecclesiastes), and prophetic writings. Christians read these texts through a christological lens—seeing prophecies and foreshadowing of Jesus throughout.
+The Old Proof (or Hebrew Bible) contains the sacred scriptures Christianity inherited from Judaism. It includes creation narratives, historical accounts, legal codes, [poetry](/poetry) (Psalms, Song of Solomon), wisdom [literature](/literature) ([Proverbs](/proverbs), Ecclesiastes), and prophetic writings. Christians read these texts through a christological lens—seeing prophecies and foreshadowing of Jesus throughout.
 
 ### The New Proof
 
@@ -101,13 +101,13 @@ The New Proof is specifically Christian scripture, written in the decades follow
 
 - **The Epistles**: Letters written by Paul and other early leaders to churches and individuals. Romans, Corinthians, Galatians—these letters address specific theological questions and practical problems. Much of Christian theology comes from Paul's letters rather than directly from Jesus's recorded words.
 
-- **Revelation**: An apocalyptic text describing visions of the end times. It's the most debated book in the Bible, with interpretations ranging from literal prophecy to symbolic commentary on the Roman Empire.
+- **Revelation**: An apocalyptic text describing visions of the end times. It's the most debated book in the Bible, with interpretations ranging from literal [prophecy](/prophecy) to symbolic commentary on the Roman Empire.
 
 ### How Christians Read the Bible
 
 This is where things get complicated. Christians don't agree on how to interpret their own scripture. Some hold to biblical literalism—every word is historically and scientifically accurate. Others practice historical-critical interpretation—analyzing texts in their original cultural and literary context. Still others read allegorically or typologically, finding spiritual meanings beyond the surface text.
 
-These different approaches produce radically different conclusions on everything from the age of the Earth to the role of women in church leadership. The same text, read by different Christians with different interpretive frameworks, yields genuinely different theologies.
+These different approaches produce radically different conclusions on everything from the age of the Earth to the role of women in church [leadership](/leadership). The same text, read by different Christians with different interpretive frameworks, yields genuinely different theologies.
 
 ## The Major Branches: A Family Tree
 
@@ -141,9 +141,9 @@ Christianity's influence on world history is almost impossible to overstate. For
 
 ### Positive Contributions
 
-Christian institutions founded many of the world's oldest universities—Oxford, Cambridge, Paris, Bologna. Monasteries preserved classical learning through the medieval period. Christian ethics influenced the development of human rights concepts, the abolition of slavery (many abolitionists were motivated by Christian conviction), and the establishment of hospitals and charitable organizations.
+Christian institutions founded many of the world's oldest universities—Oxford, Cambridge, Paris, Bologna. Monasteries preserved classical learning through the medieval period. Christian [ethics](/ethics) influenced the development of human rights concepts, the abolition of slavery (many abolitionists were motivated by Christian conviction), and the establishment of hospitals and charitable organizations.
 
-The artistic legacy is staggering. Christian patronage produced Michelangelo's Sistine Chapel ceiling, Bach's Mass in B Minor, Dante's Divine Comedy, Gothic cathedrals, Orthodox [iconography](/iconography), and centuries of [Western art](/western-art) and music. The study of [aesthetics](/aesthetics) in [Western philosophy](/western-philosophy) is inseparable from Christian artistic tradition.
+The artistic legacy is staggering. Christian patronage produced Michelangelo's Sistine Chapel ceiling, Bach's Mass in B Minor, Dante's Divine [Comedy](/comedy), Gothic cathedrals, Orthodox [iconography](/iconography), and centuries of [Western art](/western-art) and music. The study of [aesthetics](/aesthetics) in [Western philosophy](/western-philosophy) is inseparable from Christian artistic tradition.
 
 ### Painful History
 
@@ -187,7 +187,7 @@ How Christians worship varies as much as what they believe.
 
 **Evangelical and free-church traditions** tend toward less formal worship. Contemporary music, extended preaching, spontaneous prayer, and personal testimonies characterize many evangelical services. The emphasis falls on personal relationship with God, Bible study, and evangelism (sharing the faith with others).
 
-**Contemplative traditions** emphasize silence, meditation, and mystical experience. Christian monasticism—dating back to the 3rd century desert fathers and mothers—continues in Benedictine, Cistercian, and other monastic orders. Practices like lectio divina (meditative Scripture reading), centering prayer, and the Jesus Prayer provide alternatives to more verbal worship forms.
+**Contemplative traditions** emphasize silence, [meditation](/meditation), and mystical experience. Christian monasticism—dating back to the 3rd century desert fathers and mothers—continues in Benedictine, Cistercian, and other monastic orders. Practices like lectio divina (meditative Scripture reading), centering prayer, and the Jesus Prayer provide alternatives to more verbal worship forms.
 
 **Prayer** is universal across traditions. Christians pray alone and together—thanking God, asking for help, confessing failings, interceding for others. The Lord's Prayer (the "Our Father"), taught by Jesus himself according to the Gospels, is the most widely shared prayer in Christianity.
 
@@ -197,7 +197,7 @@ Christianity's relationship with other religions is complex. As a missionary rel
 
 Judaism is Christianity's parent religion. Jesus was Jewish, the apostles were Jewish, and the Old Proof is Jewish scripture. Yet Christianity and Judaism diverged sharply over the question of Jesus's identity. Anti-Judaism (and later anti-Semitism) in Christian history is a painful reality that modern Christian leaders have increasingly acknowledged and repented of.
 
-Islam recognizes Jesus as a prophet but denies his divinity and crucifixion. Christians and Muslims have had periods of both cooperation and violent conflict throughout history. The Crusades remain a defining memory in Christian-Muslim relations.
+[Islam](/islam) recognizes Jesus as a prophet but denies his divinity and crucifixion. Christians and Muslims have had periods of both cooperation and violent conflict throughout history. The Crusades remain a defining memory in Christian-Muslim relations.
 
 Inter-religious dialogue has grown significantly since the mid-20th century. The Catholic Church's Vatican II council (1962-1965) fundamentally shifted Catholic attitudes toward other religions. The World Council of Churches promotes ecumenical cooperation among Protestant and Orthodox traditions. Yet tensions persist, and some Christians reject dialogue in favor of exclusive truth claims.
 

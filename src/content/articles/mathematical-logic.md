@@ -37,9 +37,9 @@ faq:
 
 # What Is Mathematical Logic?
 
-Mathematical logic is the branch of mathematics that studies formal systems of reasoning. It takes the informal notion of "logical argument" and makes it precise — defining exactly what constitutes a valid proof, what [formal languages](/formal-languages) can express, what can and cannot be computed, and what the limits of formal reasoning actually are.
+Mathematical [logic](/logic) is the branch of [mathematics](/mathematics) that studies formal systems of reasoning. It takes the informal notion of "logical argument" and makes it precise — defining exactly what constitutes a valid proof, what [formal languages](/formal-languages) can express, what can and cannot be computed, and what the limits of formal reasoning actually are.
 
-Here's the thing that makes mathematical logic different from the logic you might have encountered in a philosophy class: it doesn't just use logic. It studies logic itself as a mathematical object. Ordinary mathematics uses logical reasoning to prove theorems about numbers, shapes, and structures. Mathematical logic proves theorems about reasoning itself — theorems about what proofs can accomplish, what axioms imply, and where formal systems necessarily break down.
+Here's the thing that makes mathematical logic different from the logic you might have encountered in a [philosophy](/philosophy) class: it doesn't just use logic. It studies logic itself as a mathematical object. Ordinary mathematics uses logical reasoning to prove theorems about numbers, shapes, and structures. Mathematical logic proves theorems about reasoning itself — theorems about what proofs can accomplish, what axioms imply, and where formal systems necessarily break down.
 
 Some of the deepest results in all of mathematics — Godel's incompleteness theorems, the undecidability of the halting problem, the independence of the continuum hypothesis — come from mathematical logic. These results don't just tell us facts about specific mathematical objects. They tell us fundamental truths about the nature and limits of mathematical knowledge.
 
@@ -67,7 +67,7 @@ These properties make first-order logic the "sweet spot" for formal reasoning �
 
 ### Set Theory
 
-Set theory provides the foundations of mathematics — or at least, that's the role it was developed to play. Starting in the late 19th century, mathematicians realized that virtually all mathematical objects (numbers, functions, geometric shapes, algebraic structures) could be defined in terms of sets and set membership.
+[Set theory](/set-theory) provides the foundations of mathematics — or at least, that's the role it was developed to play. Starting in the late 19th century, mathematicians realized that virtually all mathematical objects (numbers, functions, geometric shapes, algebraic structures) could be defined in terms of sets and set membership.
 
 **Naive set theory** — the informal version where a set is any collection of objects — leads to paradoxes. Bertrand Russell's famous paradox (1901) asks: does the set of all sets that don't contain themselves contain itself? If it does, it doesn't. If it doesn't, it does. This contradiction showed that unrestricted set formation is logically inconsistent.
 
@@ -148,15 +148,15 @@ The incompleteness theorems are among the most important results in the history 
 
 ### Turing and Undecidability
 
-Alan Turing's 1936 result on the halting problem answered the "decidable" part of Hilbert's program — no, there is no general algorithm that can determine the truth of all mathematical statements. This result, together with equivalent results by Alonzo Church (using lambda calculus) and Godel (using recursive functions), established the field of computability theory.
+Alan Turing's 1936 result on the halting problem answered the "decidable" part of Hilbert's program — no, there is no general algorithm that can determine the truth of all mathematical statements. This result, together with equivalent results by Alonzo Church (using lambda [calculus](/calculus)) and Godel (using recursive functions), established the field of computability theory.
 
 Turing's work had the additional consequence of providing a precise mathematical model of computation — the Turing machine — which became the theoretical foundation of [computer science](/computer-science).
 
 ## Model Theory: Connecting Syntax and Semantics
 
-Model theory studies the relationship between formal languages (syntax) and the mathematical structures that satisfy them (semantics). A "model" of a set of axioms is a mathematical structure in which all the axioms are true.
+Model theory studies the relationship between formal languages ([syntax](/syntax)) and the mathematical structures that satisfy them ([semantics](/semantics)). A "model" of a set of axioms is a mathematical structure in which all the axioms are true.
 
-For example, the axioms of group theory are satisfied by many different structures — the integers under addition, the nonzero rationals under multiplication, the symmetries of a square, and infinitely many others. Each is a "model" of group theory. Model theory studies what these models have in common and how they differ.
+For example, the axioms of [group theory](/group-theory) are satisfied by many different structures — the integers under addition, the nonzero rationals under multiplication, the symmetries of a square, and infinitely many others. Each is a "model" of group theory. Model theory studies what these models have in common and how they differ.
 
 Key results include:
 
@@ -200,7 +200,7 @@ Classical logic — the logic most of us learn — isn't the only game in town. 
 
 **Intuitionistic logic** rejects the law of excluded middle (that every statement is either true or false). In intuitionistic logic, proving that something is not impossible doesn't prove it exists — you must construct a specific example. This connects to constructive mathematics and has deep connections to computation through the Curry-Howard correspondence.
 
-**Modal logic** adds operators for necessity and possibility. "Necessarily P" and "Possibly P" have different logical properties than simply "P." Modal logic is used in philosophy, linguistics, and the verification of concurrent computer programs.
+**Modal logic** adds operators for necessity and possibility. "Necessarily P" and "Possibly P" have different logical properties than simply "P." Modal logic is used in philosophy, [linguistics](/linguistics), and the verification of concurrent computer programs.
 
 **Fuzzy logic** allows truth values between 0 and 1, modeling statements that are partially true. It's used in control systems, [artificial intelligence](/artificial-intelligence), and decision-making under uncertainty.
 

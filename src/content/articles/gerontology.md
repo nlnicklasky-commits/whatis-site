@@ -141,6 +141,6 @@ The question is whether technology supplements human care or replaces it. A sens
 
 ## The Bottom Line
 
-Gerontology sits at the intersection of science, medicine, psychology, [economics](/economics), and ethics. Its central questions — why do we age, how do we age well, and how should societies support aging populations — affect literally everyone, because (if you're fortunate) you will grow old.
+Gerontology sits at the intersection of science, medicine, psychology, [economics](/economics), and [ethics](/ethics). Its central questions — why do we age, how do we age well, and how should societies support aging populations — affect literally everyone, because (if you're fortunate) you will grow old.
 
 The field's most important insight might be the simplest: aging isn't just a medical problem to be solved. It's a human experience to be understood, supported, and — when possible — improved. Getting that right, at both the individual and societal level, is one of the great challenges of our time.

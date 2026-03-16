@@ -38,7 +38,7 @@ faq:
 # What Is Tax Law?
 Tax law is the body of legal rules and regulations that govern how governments levy, collect, and enforce taxes on individuals, businesses, and transactions. It determines who pays what, when they pay it, and what happens if they don't.
 
-If taxes are the price of civilization — as Oliver Wendell Holmes famously put it — then tax law is the rulebook. And it's a rulebook that affects virtually every financial decision you make, from accepting a job offer to buying a house to starting a business. Understanding at least the basics isn't optional. It's financial self-defense.
+If taxes are the price of civilization — as Oliver Wendell Holmes famously put it — then tax law is the rulebook. And it's a rulebook that affects virtually every financial decision you make, from accepting a job offer to buying a house to starting a business. Understanding at least the basics isn't optional. It's financial [self-defense](/self-defense).
 
 ## The Purpose of Tax Law
 
@@ -50,7 +50,7 @@ But tax law does far more than just fill [government](/government) coffers. It s
 
 **Behavior modification** — this is where tax law gets interesting. Governments use tax incentives and penalties to encourage or discourage specific activities. Tax deductions for mortgage interest encourage homeownership. High taxes on cigarettes discourage smoking. Tax credits for electric vehicles push adoption of cleaner technology. The tax code is, frankly, one of the most powerful tools governments have for shaping behavior.
 
-**Wealth redistribution** — progressive tax systems charge higher rates on higher incomes, theoretically redistributing resources from wealthier to less wealthy citizens through government spending. Whether this works as intended is one of the most contested questions in [economics](/economics) and political debate.
+**Wealth redistribution** — progressive tax systems charge higher rates on higher incomes, theoretically redistributing resources from wealthier to less wealthy citizens through government spending. Whether this works as intended is one of the most contested questions in [economics](/economics) and political [debate](/debate).
 
 **Economic stabilization** — during recessions, governments often cut taxes to stimulate spending. During overheating economies, they sometimes raise taxes to cool things down. Tax policy is a key component of fiscal policy alongside government spending.
 
@@ -68,7 +68,7 @@ Most U.S. states also impose their own income taxes, with rates and structures v
 
 ### Sales Tax
 
-Sales tax is charged on purchases of goods and sometimes services. It's collected by the seller at the point of sale and remitted to the government. In the U.S., there's no federal sales tax, but 45 states plus the District of Columbia impose one, with rates typically between 4% and 7.25% — though combined state and local rates can exceed 10% in some areas.
+[Sales](/sales) tax is charged on purchases of goods and sometimes services. It's collected by the seller at the point of sale and remitted to the government. In the U.S., there's no federal sales tax, but 45 states plus the District of Columbia impose one, with rates typically between 4% and 7.25% — though combined state and local rates can exceed 10% in some areas.
 
 Internationally, many countries use a Value-Added Tax (VAT) instead. VAT is collected at each stage of production, not just at final sale. The European Union requires member states to impose a minimum VAT of 15%. Some Scandinavian countries charge 25%.
 
@@ -116,7 +116,7 @@ You choose between taking a flat standard deduction ($14,600 for single filers i
 
 ## How Tax Law Is Made
 
-In the United States, tax legislation must originate in the House of Representatives (per Article I, Section 7 of the Constitution). The House Ways and Means Committee and the Senate Finance Committee are the key bodies that draft tax legislation. The Joint Committee on Taxation provides [technical analysis](/technical-analysis).
+In the United States, tax legislation must originate in the House of Representatives (per Article I, Section 7 of the Constitution). The House Ways and Means Committee and the Senate [Finance](/finance) Committee are the key bodies that draft tax legislation. The Joint Committee on Taxation provides [technical analysis](/technical-analysis).
 
 Once Congress passes a tax bill and the President signs it, the Internal Revenue Service (IRS) writes regulations implementing the law. These regulations fill in details that the statute leaves vague or ambiguous. Courts — particularly the U.S. Tax Court — resolve disputes about interpretation.
 
@@ -146,7 +146,7 @@ Tax law gets significantly more complex when money crosses borders. Key issues i
 
 ## Tax Planning Strategies
 
-Smart tax planning is a legitimate — and expected — part of financial management. The [accounting](/accounting) and legal professions exist partly to help people and businesses minimize their tax burden within the law.
+Smart tax planning is a legitimate — and expected — part of financial [management](/management). The [accounting](/accounting) and legal professions exist partly to help people and businesses minimize their tax burden within the law.
 
 **Retirement accounts** — contributions to 401(k)s, IRAs, and similar accounts reduce current taxable income (traditional accounts) or grow tax-free (Roth accounts). For 2024, you can contribute up to $23,000 to a 401(k) and $7,000 to an IRA.
 
@@ -172,7 +172,7 @@ Tax law never stands still. Current debates center on:
 
 **Expiring provisions** — many individual tax cuts from the 2017 Tax Cuts and Jobs Act expire after 2025, which would raise rates for most taxpayers unless Congress acts.
 
-**Digital taxation** — how to tax digital services, cryptocurrency transactions, and the digital economy is one of the biggest unsettled questions. The IRS now requires reporting of digital asset transactions, and tax treatment of crypto mining, staking, and DeFi remains an active area of rulemaking.
+**Digital taxation** — how to tax digital services, [cryptocurrency](/cryptocurrency) transactions, and the digital economy is one of the biggest unsettled questions. The IRS now requires reporting of digital asset transactions, and tax treatment of crypto mining, staking, and DeFi remains an active area of rulemaking.
 
 **Wealth taxes** — proposals to tax unrealized capital gains or net worth directly have gained political attention but face both constitutional questions and practical enforcement challenges.
 

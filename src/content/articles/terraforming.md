@@ -35,13 +35,13 @@ faq:
 
 # What Is Terraforming?
 
-Terraforming is the theoretical process of deliberately modifying a planet's or moon's environment — its atmosphere, temperature, surface [topography](/topography), and ecology — to make it suitable for human habitation without the need for enclosed life-support systems. The term was coined by [science fiction](/science-fiction) author Jack Williamson in his 1942 short story "Collision Orbit," but the underlying concept has since become a serious subject of scientific inquiry.
+Terraforming is the theoretical process of deliberately modifying a planet's or moon's environment — its atmosphere, temperature, surface [topography](/topography), and [ecology](/ecology) — to make it suitable for human habitation without the need for enclosed life-support systems. The term was coined by [science fiction](/science-fiction) author Jack Williamson in his 1942 short story "Collision Orbit," but the underlying concept has since become a serious subject of scientific inquiry.
 
 ## The Biggest Engineering Project Never Attempted
 
 Here's the scale of what terraforming means: you'd take an entire planet — something roughly the size of Earth or a bit smaller — and rebuild its [atmosphere](/climatology), warm its surface, create liquid water, establish soil, and introduce an ecosystem. From scratch. On a world that currently can't support a blade of grass.
 
-No human engineering project even comes close in scope. The Three Gorges Dam, the International Space Station, the global internet — these are rounding errors compared to what terraforming demands. You're talking about moving gigatons of material, maintaining planetary-scale chemical reactions for centuries, and managing ecological systems of staggering complexity.
+No human [engineering](/engineering) project even comes close in scope. The Three Gorges Dam, the International Space Station, the global internet — these are rounding errors compared to what terraforming demands. You're talking about moving gigatons of material, maintaining planetary-scale chemical reactions for centuries, and managing ecological systems of staggering complexity.
 
 And yet, the idea refuses to die. Because the alternative — humanity permanently confined to one planet — carries its own risks. A single asteroid impact, supervolcanic eruption, or self-inflicted catastrophe could end everything. Making humanity a multi-planet species is, in the long view, an [insurance](/insurance) policy for civilization itself.
 
@@ -79,7 +79,7 @@ This might be the deal-breaker. Mars lost its global magnetic field roughly 4 bi
 
 So even if you built up the atmosphere, the solar wind would slowly erode it again. The timescale is long — millions of years — so it wouldn't undo your work immediately. But it means terraformed Mars would require ongoing maintenance.
 
-One creative proposal from NASA's Jim Green suggests placing a large magnetic dipole shield at the Mars-Sun L1 Lagrange point (a gravitational balance point about 1 million km from Mars). This artificial magnetosphere would deflect the solar wind and protect the atmosphere. Simulations suggest it could allow Mars to regain half of its original atmospheric pressure over time. It's wild, speculative, and would require technology we don't have. But the physics works on paper.
+One creative proposal from NASA's Jim Green suggests placing a large magnetic dipole shield at the Mars-Sun L1 Lagrange point (a gravitational balance point about 1 million km from Mars). This artificial magnetosphere would deflect the solar wind and protect the atmosphere. Simulations suggest it could allow Mars to regain half of its original atmospheric pressure over time. It's wild, speculative, and would require technology we don't have. But the [physics](/physics) works on paper.
 
 ### The Water Problem
 
@@ -135,7 +135,7 @@ Terraforming raises serious ethical issues that the science alone can't resolve.
 
 **Who decides?** Mars belongs to no nation. The Outer Space Treaty of 1967 prohibits national sovereignty claims over celestial bodies. But terraforming requires enormous investment and coordination. Who makes the decisions? Who bears the costs? Who gets to live there?
 
-**Environmental ethics.** Some philosophers argue that Mars's barren grandeur has intrinsic value — that Olympus Mons and Valles Marineris are worth preserving in their natural state, just as we preserve wilderness on Earth. Terraforming would destroy these alien landscapes permanently.
+**Environmental [ethics](/ethics).** Some philosophers argue that Mars's barren grandeur has intrinsic value — that Olympus Mons and Valles Marineris are worth preserving in their natural state, just as we preserve wilderness on Earth. Terraforming would destroy these alien landscapes permanently.
 
 **Colonialism parallels.** The language around terraforming — "making a new world," "taming the frontier" — echoes colonial [rhetoric](/rhetoric). Several scholars have pointed out the uncomfortable parallels and argued for more careful framing of off-world settlement.
 

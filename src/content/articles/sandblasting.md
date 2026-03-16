@@ -39,11 +39,11 @@ faq:
 
 Sandblasting is a surface treatment process that propels abrasive material at high speed against a surface to clean it, smooth it, roughen it, or shape it. Technically called abrasive blasting, the process uses compressed air (or sometimes water) to fire tiny particles of media—sand, glass beads, steel grit, garnet, or dozens of other materials—at whatever you're trying to strip, clean, or prepare.
 
-The name "sandblasting" comes from the original medium: actual sand. But here's the thing—most modern operations don't use sand anymore. Silica sand turned out to cause a devastating lung disease called silicosis, so the industry shifted to safer alternatives decades ago. The name stuck, though. People still call it sandblasting whether the abrasive is walnut shells, baking soda, or aluminum oxide.
+The name "sandblasting" comes from the original medium: actual sand. But here's the thing—most modern operations don't use sand anymore. Silica sand turned out to cause a devastating lung disease called silicosis, so the industry shifted to safer alternatives decades ago. The name stuck, though. People still call it sandblasting whether the abrasive is walnut shells, [baking](/baking) soda, or aluminum oxide.
 
 ## How Sandblasting Actually Works
 
-The basic physics behind sandblasting are surprisingly straightforward. You're essentially doing what wind and water do to rock formations over millennia—eroding material through particle impact—but compressed into seconds rather than centuries.
+The basic [physics](/physics) behind sandblasting are surprisingly straightforward. You're essentially doing what wind and water do to rock formations over millennia—eroding material through particle impact—but compressed into seconds rather than centuries.
 
 ### The Core Mechanics
 
@@ -96,7 +96,7 @@ This is where sandblasting gets genuinely interesting. The choice of media trans
 
 **Baking soda** (sodium bicarbonate) is the gentlest blast media in common use. It dissolves in water, making cleanup easy, and it won't damage soft metals, rubber, glass, or most plastics. It's used for graffiti removal from brick and stone, cleaning food processing equipment, and fire restoration cleanup. The Statue of Liberty's interior was cleaned with baking soda blasting in the 1980s.
 
-**Dry ice** (solid CO2 pellets) is fascinating because the media literally disappears after impact. The pellets sublimate—turn directly from solid to gas—leaving no secondary waste. Only the removed contaminant remains. It's used in electronics manufacturing, [automotive engineering](/automotive-engineering) parts cleaning, and food processing where no residual media is acceptable.
+**Dry ice** (solid CO2 pellets) is fascinating because the media literally disappears after impact. The pellets sublimate—turn directly from solid to gas—leaving no secondary waste. Only the removed contaminant remains. It's used in [electronics](/electronics) manufacturing, [automotive engineering](/automotive-engineering) parts cleaning, and food processing where no residual media is acceptable.
 
 ### Specialty Media
 
@@ -136,7 +136,7 @@ Most cemetery headstones and memorial monuments are engraved using sandblasting.
 
 ### Dental and Medical Applications
 
-Micro-abrasive blasting—using extremely fine media (25-50 microns) at low pressures—is used in dentistry to prepare tooth surfaces for bonding and to remove decay. In manufacturing, similar techniques prepare [biomechanics](/biomechanics)-related implant surfaces to promote bone integration. The roughened surface of a hip implant or dental post helps your body's cells grip and grow into the material.
+Micro-abrasive blasting—using extremely fine media (25-50 microns) at low pressures—is used in [dentistry](/dentistry) to prepare tooth surfaces for bonding and to remove decay. In manufacturing, similar techniques prepare [biomechanics](/biomechanics)-related implant surfaces to promote bone integration. The roughened surface of a hip implant or dental post helps your body's cells grip and grow into the material.
 
 ## Safety: The Part You Cannot Skip
 
@@ -146,7 +146,7 @@ I'm going to be direct about this: sandblasting is one of the most hazardous ind
 
 Crystalline silica—the main component of quartz sand—shatters into microscopic, razor-sharp particles when it impacts a surface. These particles are small enough to penetrate deep into lung tissue, where the body can't remove them. Over time, scar tissue builds up around the silica particles, reducing lung capacity and eventually causing respiratory failure.
 
-Silicosis killed thousands of workers in the 20th century. The Hawk's Nest Tunnel disaster of 1930-31 in West Virginia is one of the worst industrial tragedies in American history—an estimated 764 workers died from acute silicosis after drilling through silica-rich rock without respiratory protection. The exposure was so intense that workers developed symptoms within months rather than the typical years.
+Silicosis killed thousands of workers in the 20th century. The Hawk's Nest Tunnel disaster of 1930-31 in West Virginia is one of the worst industrial tragedies in [American history](/american-history)—an estimated 764 workers died from acute silicosis after drilling through silica-rich rock without respiratory protection. The exposure was so intense that workers developed symptoms within months rather than the typical years.
 
 OSHA's current permissible exposure limit (PEL) for respirable crystalline silica is 50 micrograms per cubic meter of air, averaged over an 8-hour workday. Even with this limit, many health agencies recommend minimizing exposure as much as possible because there's no truly safe level.
 
@@ -194,7 +194,7 @@ Large-scale operations use walk-in blast rooms—essentially enormous blast cabi
 
 ### Robotic Systems
 
-Modern robotic blasting systems use programmed nozzle paths to blast complex shapes consistently. They're used in shipbuilding, pipeline coating, and large-scale manufacturing. A robot doesn't fatigue, maintains perfect standoff distance, and produces uniform surface profiles that manual operators can only approximate. The initial investment is steep—$200,000 or more for a full system—but the consistency and throughput justify it for high-volume operations.
+Modern robotic blasting systems use programmed nozzle paths to blast complex shapes consistently. They're used in [shipbuilding](/shipbuilding), pipeline coating, and large-scale manufacturing. A robot doesn't fatigue, maintains perfect standoff distance, and produces uniform surface profiles that manual operators can only approximate. The initial investment is steep—$200,000 or more for a full system—but the consistency and throughput justify it for high-volume operations.
 
 ## Sandblasting in Restoration and Conservation
 
@@ -202,7 +202,7 @@ Here's an area where sandblasting's reputation has been... complicated.
 
 In the 1960s and 70s, building owners enthusiastically sandblasted the soot and grime off old brick and stone buildings. The results looked great initially. Within a few years, however, many of those buildings showed accelerated deterioration. The hard outer "fire skin" of the brick had been blasted away, exposing the softer interior clay to weather. Water penetrated, froze, and spalled the brick apart.
 
-This led to sandblasting being banned or heavily restricted for historic masonry in many cities. The Secretary of the Interior's Standards for the Treatment of Historic Properties specifically warns against abrasive cleaning methods that damage historic surfaces.
+This led to sandblasting being banned or heavily restricted for historic [masonry](/masonry) in many cities. The Secretary of the Interior's Standards for the Treatment of Historic Properties specifically warns against abrasive cleaning methods that damage historic surfaces.
 
 Modern approaches use gentler techniques. Chemical cleaning, steam cleaning, laser cleaning, and extremely low-pressure micro-blasting with soft media have largely replaced traditional sandblasting for [architecture](/architecture) conservation work. When abrasive cleaning is needed, the specifications are precise: specific media types, maximum pressures, and test panels to verify the approach won't cause damage.
 
@@ -222,13 +222,13 @@ Sandblasting isn't the only way to clean or prepare surfaces. Understanding the 
 
 ## Environmental Considerations
 
-Sandblasting generates two waste streams: spent media and removed contaminants. Both require proper management.
+Sandblasting generates two waste streams: spent media and removed contaminants. Both require proper [management](/management).
 
 Spent media from lead paint removal, for example, is classified as hazardous waste in most jurisdictions. Even non-hazardous spent media needs proper disposal—you can't just sweep it into a storm drain. Many natural media (garnet, walnut shells) are more environmentally friendly than synthetic options, and some can be recycled or composted.
 
 Airborne dust is regulated under the Clean Air Act in the U.S. Outdoor blasting operations may need permits and must implement dust control measures. Containment systems, water suppression, and vacuum recovery all help meet regulatory requirements.
 
-The trend toward recyclable media, wet blasting, and enclosed systems is driven partly by environmental regulations and partly by economics. Recovering and reusing media is cheaper than buying new media and paying disposal fees for the old stuff.
+The trend toward recyclable media, wet blasting, and enclosed systems is driven partly by environmental regulations and partly by [economics](/economics). Recovering and reusing media is cheaper than buying new media and paying disposal fees for the old stuff.
 
 ## Getting Started: What You Actually Need
 
@@ -248,7 +248,7 @@ The compressor is usually the bottleneck. A typical garage compressor (2-5 CFM) 
 ### Hiring a Professional
 
 For larger projects, professional blasting is almost always the better choice. Look for:
-- Proper licensing and insurance (ask specifically about environmental liability)
+- Proper licensing and [insurance](/insurance) (ask specifically about environmental liability)
 - SSPC or NACE (now AMPP) certified operators
 - References from similar projects
 - A written specification including media type, cleanliness standard, and profile requirements

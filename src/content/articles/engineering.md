@@ -65,7 +65,7 @@ Engineering has branched into dozens of specializations. Here are the major ones
 
 ### Civil Engineering
 
-The oldest and broadest branch. [Civil engineering](/civil-engineering) designs and builds the infrastructure that societies depend on: roads, bridges, dams, water treatment systems, buildings, tunnels, and airports. It encompasses structural engineering (making things stand up), geotechnical engineering (understanding soil and rock), [transportation engineering](/transportation-engineering) (moving people and goods), and [environmental engineering](/environmental-engineering) (managing water, waste, and pollution).
+The oldest and broadest branch. [Civil engineering](/civil-engineering) designs and builds the infrastructure that societies depend on: roads, bridges, dams, water treatment systems, buildings, tunnels, and airports. It encompasses [structural engineering](/structural-engineering) (making things stand up), geotechnical engineering (understanding soil and rock), [transportation engineering](/transportation-engineering) (moving people and goods), and [environmental engineering](/environmental-engineering) (managing water, waste, and pollution).
 
 Civil engineers literally shape the built environment. Every building you enter, every road you drive on, every bridge you cross was designed by civil engineers to withstand the loads, weather, seismic activity, and usage patterns it would face over its lifetime.
 
@@ -73,11 +73,11 @@ Civil engineers literally shape the built environment. Every building you enter,
 
 Often called the broadest engineering discipline. Mechanical engineers design machines, thermal systems, manufacturing processes, and mechanical devices — everything from HVAC systems and power plants to robotics, prosthetic limbs, and spacecraft mechanisms.
 
-The core subjects — thermodynamics, fluid mechanics, solid mechanics, dynamics, and manufacturing — provide a toolkit that applies across nearly every industry. This breadth is why mechanical engineering is consistently one of the most popular and versatile engineering degrees.
+The core subjects — thermodynamics, fluid mechanics, [solid mechanics](/solid-mechanics), dynamics, and manufacturing — provide a toolkit that applies across nearly every industry. This breadth is why [mechanical engineering](/mechanical-engineering) is consistently one of the most popular and versatile engineering degrees.
 
 ### Electrical and Electronics Engineering
 
-Covers everything involving electricity, from continent-spanning power grids to nanometer-scale transistors. Power generation, transmission, and distribution; circuit design; signal processing; telecommunications; control systems; computer hardware — all fall under this umbrella. It's arguably the engineering discipline most directly responsible for the technological character of modern life.
+Covers everything involving electricity, from continent-spanning power grids to nanometer-scale transistors. Power generation, transmission, and distribution; [circuit design](/circuit-design); [signal processing](/signal-processing); telecommunications; control systems; [computer hardware](/computer-hardware) — all fall under this umbrella. It's arguably the engineering discipline most directly responsible for the technological character of modern life.
 
 ### Chemical Engineering
 
@@ -99,15 +99,15 @@ Medical devices designed by biomedical engineers — from artificial joints to c
 
 ### Computer Engineering and Software Engineering
 
-Computer engineering designs the hardware that runs software. Software engineering designs the software that runs on hardware. Both are enormous fields — software engineering alone employs more people than many traditional engineering disciplines combined.
+Computer engineering designs the hardware that runs software. [Software engineering](/software-engineering) designs the software that runs on hardware. Both are enormous fields — software engineering alone employs more people than many traditional engineering disciplines combined.
 
 The question of whether software engineering is "real" engineering generates surprisingly heated debate. It lacks the licensing requirements of traditional engineering, and software failures — while costly — rarely kill people directly. But the systematic application of principles to design reliable, maintainable systems at scale is unmistakably engineering, regardless of what professional bodies say.
 
 ### Other Branches
 
-The list continues: environmental engineering (pollution control, remediation, sustainability), industrial engineering (optimizing systems and processes), materials engineering (designing materials with specific properties), nuclear engineering (nuclear power and radiation applications), mining engineering, agricultural engineering, ocean engineering, and more.
+The list continues: environmental engineering (pollution control, remediation, sustainability), [industrial engineering](/industrial-engineering) (optimizing systems and processes), materials engineering (designing materials with specific properties), [nuclear engineering](/nuclear-engineering) (nuclear power and radiation applications), [mining engineering](/mining-engineering), agricultural engineering, [ocean engineering](/ocean-engineering), and more.
 
-New branches emerge as technology advances. Nanotechnology engineering, renewable energy engineering, and autonomous systems engineering are recent additions. The field continues to speciate as new problems demand new specializations.
+New branches emerge as technology advances. Nanotechnology engineering, [renewable energy](/renewable-energy) engineering, and autonomous [systems engineering](/systems-engineering) are recent additions. The field continues to speciate as new problems demand new specializations.
 
 ## The Engineering Method
 
@@ -131,7 +131,7 @@ The ability to manage tradeoffs — to identify which performance attributes mat
 
 ### 4. Design in Detail
 
-The selected approach is developed into detailed designs: drawings, specifications, calculations, material selections, manufacturing instructions. Modern engineering relies heavily on computer-aided design (CAD) for geometry, finite element analysis (FEA) for structural behavior, computational fluid dynamics (CFD) for fluid flow, and specialized simulation tools for thermal, electromagnetic, and other physics.
+The selected approach is developed into detailed designs: drawings, specifications, calculations, material selections, manufacturing instructions. Modern engineering relies heavily on computer-aided design (CAD) for geometry, finite element analysis (FEA) for structural behavior, computational [fluid dynamics](/fluid-dynamics) (CFD) for fluid flow, and specialized simulation tools for thermal, electromagnetic, and other physics.
 
 ### 5. Build and Test
 
@@ -188,7 +188,7 @@ This computational power doesn't replace engineering judgment — it amplifies i
 
 ### Interdisciplinary Integration
 
-Modern problems rarely fit neatly into a single engineering discipline. A self-driving car requires [automotive engineering](/automotive-engineering) (vehicle dynamics), electrical engineering (sensors, computing), software engineering (algorithms, perception), civil engineering (road infrastructure), and human factors engineering (user interaction). Climate change requires chemical, environmental, mechanical, electrical, and civil engineering — all working together.
+Modern problems rarely fit neatly into a single engineering discipline. A self-driving car requires [automotive engineering](/automotive-engineering) (vehicle dynamics), [electrical engineering](/electrical-engineering) (sensors, computing), software engineering (algorithms, perception), civil engineering (road infrastructure), and human factors engineering (user interaction). [Climate change](/climate-change) requires chemical, environmental, mechanical, electrical, and civil engineering — all working together.
 
 The trend toward interdisciplinary teams and systems engineering — managing the interactions between subsystems designed by different specialists — reflects the increasing complexity of the problems engineering addresses.
 

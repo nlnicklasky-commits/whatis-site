@@ -65,7 +65,7 @@ A handful of plastics dominate the market by volume:
 
 **Polypropylene (PP)** handles higher temperatures than polyethylene and has excellent fatigue resistance — you can bend a PP hinge thousands of times without it breaking. Automotive parts, food containers, textiles, and medical devices all use PP.
 
-**Polyethylene terephthalate (PET)** is the clear plastic in beverage bottles. It's also used as a fiber (polyester) in textiles. PET has one of the best recycling rates of any plastic — about 30% globally — though that number is still depressingly low.
+**Polyethylene terephthalate (PET)** is the clear plastic in beverage bottles. It's also used as a fiber (polyester) in textiles. PET has one of the best [recycling](/recycling) rates of any plastic — about 30% globally — though that number is still depressingly low.
 
 **Polyvinyl chloride (PVC)** is the third-most produced plastic globally. Pipes, window frames, vinyl flooring, wire insulation, and medical tubing all rely on PVC. It's incredibly versatile — rigid PVC is hard as a pipe, flexible PVC is soft as a blood bag — depending on plasticizer content.
 
@@ -97,7 +97,7 @@ Designing parts for injection molding is a specialized skill. Wall thickness mus
 
 ### Extrusion
 
-Extrusion pushes molten plastic through a shaped die to create continuous profiles — pipes, tubes, sheets, films, wire coatings, and window profiles. It's a continuous process (unlike the batch nature of injection molding), running 24/7 in many factories.
+Extrusion pushes molten plastic through a shaped die to create continuous profiles — pipes, tubes, sheets, films, wire coatings, and window profiles. It's a continuous process (unlike the batch nature of injection molding), [running](/running) 24/7 in many factories.
 
 Blown film extrusion produces the thin plastic films used for packaging, garbage bags, and agricultural films. A tube of molten plastic is inflated like a balloon while being pulled upward, creating a thin-walled bubble that's flattened into flat film. It's mesmerizing to watch.
 
@@ -121,7 +121,7 @@ One of the biggest mistakes new engineers make is designing plastic parts as if 
 
 ### Creep and Fatigue
 
-Metals behave elastically — apply a load below the yield point and it springs back indefinitely. Plastics creep — under constant load, they slowly deform over time, even at loads well below their nominal strength. A plastic shelf bracket that's fine on day one may sag visibly after a year. Plastics engineers must design for long-term performance, not just initial properties.
+Metals behave elastically — apply a load below the yield point and it [springs](/springs) back indefinitely. Plastics creep — under constant load, they slowly deform over time, even at loads well below their nominal strength. A plastic shelf bracket that's fine on day one may sag visibly after a year. Plastics engineers must design for long-term performance, not just initial properties.
 
 ### Thermal Expansion
 
@@ -145,7 +145,7 @@ Why is plastic recycling so difficult?
 
 **Degradation with each cycle.** Unlike glass or aluminum, most thermoplastics lose quality when recycled. Polymer chains shorten, colors mix, and contaminants accumulate. Recycled plastic is typically used in lower-value applications — a process called downcycling.
 
-**Economics often don't work.** Virgin plastic from petrochemical feedstocks is cheap. Recycled plastic is often more expensive to produce and lower in quality. Without policy interventions (mandated recycled content, virgin plastic taxes), the economic incentive to recycle is weak.
+**[Economics](/economics) often don't work.** Virgin plastic from petrochemical feedstocks is cheap. Recycled plastic is often more expensive to produce and lower in quality. Without policy interventions (mandated recycled content, virgin plastic taxes), the economic incentive to recycle is weak.
 
 ### Chemical Recycling
 
@@ -159,15 +159,15 @@ These technologies are scaling up but face legitimate questions about energy con
 
 Bioplastics — plastics derived from biological sources rather than fossil fuels — are another piece of the puzzle. PLA (polylactic acid), made from corn starch or sugarcane, is the most common. Bio-based PE and PET, chemically identical to their fossil-fuel counterparts but made from plant-derived ethanol, are growing in volume.
 
-But "bioplastic" doesn't automatically mean "biodegradable," and "biodegradable" doesn't automatically mean "compostable in your backyard." PLA, for instance, requires industrial composting conditions (sustained temperatures above 58°C) to break down — it'll sit in a landfill or ocean just as stubbornly as conventional plastic.
+But "bioplastic" doesn't automatically mean "biodegradable," and "biodegradable" doesn't automatically mean "compostable in your backyard." PLA, for instance, requires industrial [composting](/composting) conditions (sustained temperatures above 58°C) to break down — it'll sit in a landfill or ocean just as stubbornly as conventional plastic.
 
-The marketing around bioplastics often outpaces the reality. Plastics engineers — the people who actually understand these materials — tend to be more cautious about environmental claims than marketers.
+The [marketing](/marketing) around bioplastics often outpaces the reality. Plastics engineers — the people who actually understand these materials — tend to be more cautious about environmental claims than marketers.
 
 ## Plastics and Health
 
 Concerns about chemicals leaching from plastics into food and water are legitimate and have driven significant changes in the industry.
 
-BPA (bisphenol A), used in polycarbonate containers and epoxy can linings, became the poster child for plasticizer concerns after studies linked it to hormonal disruption. Most food-contact applications have shifted to BPA-free alternatives, though debate continues about whether the replacements (BPS, BPF) are meaningfully safer.
+BPA (bisphenol A), used in polycarbonate containers and epoxy can linings, became the poster child for plasticizer concerns after studies linked it to hormonal disruption. Most food-contact applications have shifted to BPA-free alternatives, though [debate](/debate) continues about whether the replacements (BPS, BPF) are meaningfully safer.
 
 Phthalate plasticizers, used to soften PVC, have been restricted in children's toys in the EU and U.S. due to endocrine disruption concerns.
 
@@ -179,7 +179,7 @@ Plastics engineers working on food-contact and medical applications must work th
 
 The global plastics industry generates over $600 billion in annual revenue. Major resin producers — ExxonMobil, Dow, SABIC, BASF, LyondellBasell — are integrated petrochemical companies. Downstream, thousands of converters (companies that process resin into products) range from small job shops to large multinationals.
 
-The industry is shifting in response to environmental pressure. Major brand owners have made recycled content commitments. EU regulations mandating minimum recycled content in packaging are driving investment. Extended producer responsibility (EPR) laws — requiring producers to fund end-of-life management — are spreading globally.
+The industry is shifting in response to environmental pressure. Major brand owners have made recycled content commitments. EU regulations mandating minimum recycled content in packaging are driving investment. Extended producer responsibility (EPR) laws — requiring producers to fund end-of-life [management](/management) — are spreading globally.
 
 ## Careers in Plastics Engineering
 

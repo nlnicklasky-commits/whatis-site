@@ -43,7 +43,7 @@ Microscopy is the science and practice of using microscopes to observe objects a
 
 The human eye is a decent instrument, all things considered. It can distinguish objects as small as about 0.1 millimeters—roughly the width of a human hair. But the overwhelming majority of the structures that make up living things, materials, and even the air you breathe exist below that threshold. Red blood cells are about 7 micrometers across. Bacteria range from 0.2 to 10 micrometers. Viruses are measured in nanometers—tens to hundreds of times smaller than bacteria.
 
-For most of human history, this entire world was invisible. People knew diseases existed but had no idea what caused them. They could see wood and metal but couldn't understand why one was strong and the other flexible. The invention of the microscope didn't just give us a new tool—it revealed an entirely hidden layer of reality.
+For most of human history, this entire world was invisible. People knew diseases existed but had no idea what caused them. They could see wood and metal but couldn't understand why one was strong and the other flexible. The [invention](/invention) of the microscope didn't just give us a new tool—it revealed an entirely hidden layer of reality.
 
 And here's the thing: every major improvement in microscopy has triggered a scientific revolution. Light microscopes gave us [cell-biology](/cell-biology) and germ theory. Electron microscopes revealed viruses and the ultrastructure of cells. Scanning probe microscopes showed us individual atoms. The history of microscopy *is* the history of modern science, told through the lens (literally) of what we could finally see.
 
@@ -94,7 +94,7 @@ d = λ / (2 × NA)
 
 Where λ is the wavelength of light (about 400-700 nanometers for visible light) and NA is the numerical aperture of the lens (a measure of light-gathering ability, typically maxing out around 1.4 with oil immersion).
 
-This gives a practical resolution limit of about 200 nanometers. No amount of lens grinding, optical engineering, or clever design can break this limit using conventional optical techniques. It's a law of physics, not an engineering problem.
+This gives a practical resolution limit of about 200 nanometers. No amount of [lens grinding](/lens-grinding), [optical engineering](/optical-engineering), or clever design can break this limit using conventional optical techniques. It's a law of physics, not an engineering problem.
 
 This barrier stood for over 140 years—until it was spectacularly shattered.
 
@@ -106,7 +106,7 @@ Not all optical microscopy involves sticking a stained sample under white light.
 
 **Differential interference contrast (DIC)** creates a 3D-like appearance by using polarized light and prism optics. It gives beautiful, pseudo-3D images of living cells and is particularly popular in developmental biology.
 
-**Fluorescence microscopy** illuminates specimens with specific wavelengths that cause fluorescent molecules to emit light. By labeling specific proteins or structures with fluorescent dyes, researchers can see exactly where particular molecules are located within a cell. Green Fluorescent Protein (GFP), discovered in jellyfish and recognized with the 2008 Nobel Prize in Chemistry, revolutionized cell biology by allowing researchers to genetically engineer organisms to make specific proteins glow.
+**Fluorescence microscopy** illuminates specimens with specific wavelengths that cause fluorescent molecules to emit light. By labeling specific proteins or structures with fluorescent dyes, researchers can see exactly where particular molecules are located within a cell. Green Fluorescent Protein (GFP), discovered in jellyfish and recognized with the 2008 Nobel Prize in [Chemistry](/chemistry), revolutionized cell biology by allowing researchers to genetically engineer organisms to make specific proteins glow.
 
 **Confocal microscopy** uses a pinhole to eliminate out-of-focus light, producing sharp optical sections through thick specimens. By scanning through multiple depths and combining the images, confocal microscopes create detailed 3D reconstructions of cells and tissues.
 
@@ -120,7 +120,7 @@ For over a century, the 200-nanometer resolution limit seemed absolute. Then, in
 
 Hell, Betzig, and W.E. Moerner shared the 2014 Nobel Prize in Chemistry for these achievements. The committee called it a revolution: for the first time, optical microscopy could see structures at the nanoscale—individual proteins, the fine structure of synapses, viral components inside cells.
 
-Super-resolution has since become routine in research labs. It has been particularly impactful in neuroscience and [molecular-biology](/molecular-biology), where understanding structures at the 10-100 nanometer scale is critical.
+Super-resolution has since become routine in research labs. It has been particularly impactful in [neuroscience](/neuroscience) and [molecular-biology](/molecular-biology), where understanding structures at the 10-100 nanometer scale is critical.
 
 ## Electron Microscopy: A Quantum Leap
 
@@ -140,13 +140,13 @@ Instead of transmitting electrons through a sample, an SEM scans a focused elect
 
 SEMs produce the dramatic 3D-looking images you've probably seen of insects, pollen grains, and microchips. Resolution is lower than TEM—typically 1 to 20 nanometers—but specimen preparation is easier, and SEMs can image bulky specimens.
 
-SEMs are workhorses in materials science, failure analysis, quality control in [electronics](/electronics) manufacturing, and forensic analysis. When engineers need to know why a metal part cracked or why a circuit board failed, the SEM is usually the first stop.
+SEMs are workhorses in [materials science](/materials-science), failure analysis, quality control in [electronics](/electronics) manufacturing, and forensic analysis. When engineers need to know why a metal part cracked or why a circuit board failed, the SEM is usually the first stop.
 
 ### Cryo-Electron Microscopy (Cryo-EM)
 
-Here's where things get exciting. Traditional electron microscopy destroys biological samples through dehydration and staining. Cryo-EM avoids this by flash-freezing specimens in liquid ethane at -180°C, preserving them in a near-native state.
+Here's where things get exciting. Traditional [electron microscopy](/electron-microscopy) destroys biological samples through dehydration and staining. Cryo-EM avoids this by flash-freezing specimens in liquid ethane at -180°C, preserving them in a near-native state.
 
-Jacques Dubochet, Joachim Frank, and Richard Henderson shared the 2017 Nobel Prize in Chemistry for developing cryo-EM techniques that can determine the 3D structure of biological molecules at near-atomic resolution. Before cryo-EM, determining protein structures required growing crystals (X-ray crystallography) or using NMR spectroscopy—both limited in what they could handle. Cryo-EM works on molecules that won't crystallize, including many membrane proteins and large molecular complexes.
+Jacques Dubochet, Joachim Frank, and Richard Henderson shared the 2017 Nobel Prize in Chemistry for developing cryo-EM techniques that can determine the 3D structure of biological molecules at near-atomic resolution. Before cryo-EM, determining protein structures required growing crystals ([X-ray crystallography](/x-ray-crystallography)) or using NMR [spectroscopy](/spectroscopy)—both limited in what they could handle. Cryo-EM works on molecules that won't crystallize, including many membrane proteins and large molecular complexes.
 
 During the COVID-19 pandemic, cryo-EM was instrumental in determining the structure of the SARS-CoV-2 spike protein within weeks of the virus being sequenced. This structural information directly enabled the design of mRNA vaccines. Not bad for a microscopy technique.
 
@@ -156,9 +156,9 @@ Scanning probe microscopes don't use light or electrons at all. They use a physi
 
 ### Scanning Tunneling Microscope (STM)
 
-Invented by Gerd Binnig and Heinrich Rohrer at IBM Zurich in 1981 (Nobel Prize, 1986), the STM exploits quantum tunneling. When an atomically sharp metallic tip is brought within a nanometer of a conductive surface, electrons "tunnel" between them. The tunneling current is exquisitely sensitive to the tip-surface distance—changing by an order of magnitude for every 0.1 nanometer change in gap.
+Invented by Gerd Binnig and Heinrich Rohrer at IBM Zurich in 1981 (Nobel Prize, 1986), the STM exploits quantum [tunneling](/tunneling). When an atomically sharp metallic tip is brought within a nanometer of a conductive surface, electrons "tunnel" between them. The tunneling current is exquisitely sensitive to the tip-surface distance—changing by an order of magnitude for every 0.1 nanometer change in gap.
 
-By scanning the tip across a surface while maintaining constant tunneling current, the STM maps out the surface topography with atomic resolution. The first STM images of individual atoms on silicon surfaces were jaw-dropping—the regular arrangement of atoms, predicted by physics, was suddenly visible.
+By scanning the tip across a surface while maintaining constant tunneling current, the STM maps out the surface [topography](/topography) with atomic resolution. The first STM images of individual atoms on silicon surfaces were jaw-dropping—the regular arrangement of atoms, predicted by physics, was suddenly visible.
 
 Even more remarkably, STMs can *move* individual atoms. In 1989, Don Eigler at IBM spelled out "IBM" by positioning 35 xenon atoms on a nickel surface. This was the first demonstration of atomic-scale manipulation and an early milestone in [nanotechnology](/nanotechnology).
 
@@ -166,9 +166,9 @@ Even more remarkably, STMs can *move* individual atoms. In 1989, Don Eigler at I
 
 The AFM, invented by Binnig and colleagues in 1986, works on any surface—not just conductive ones. A tiny cantilever with a sharp tip (radius about 10 nanometers) is scanned across the surface. Atomic forces between the tip and surface cause the cantilever to deflect, and this deflection is measured with a laser.
 
-AFMs can image biological samples, polymers, ceramics, and essentially anything with a surface. They can measure forces as small as piconewtons—the force of a single molecular bond breaking. They can image DNA strands, protein molecules, and living cells under physiological conditions.
+AFMs can image biological samples, polymers, [ceramics](/ceramics), and essentially anything with a surface. They can measure forces as small as piconewtons—the force of a single molecular bond breaking. They can image DNA strands, protein molecules, and living cells under physiological conditions.
 
-The AFM has become the Swiss Army knife of nanotechnology. Beyond imaging, it can measure mechanical properties (hardness, elasticity), electrical properties, magnetic properties, and chemical composition—all at nanometer resolution.
+The AFM has become the Swiss Army knife of nanotechnology. Beyond imaging, it can measure mechanical properties (hardness, [elasticity](/elasticity)), electrical properties, magnetic properties, and chemical composition—all at nanometer resolution.
 
 ## Specialized and Emerging Techniques
 
@@ -214,7 +214,7 @@ Microscopy supports virtually all of medical diagnostics. When a surgeon removes
 
 ### Materials Science
 
-SEM and TEM are essential for developing new materials—from stronger steels to more efficient solar cells to faster [computer-hardware](/computer-hardware). Understanding how atoms arrange themselves at grain boundaries, defects, and interfaces is the key to engineering better materials.
+SEM and TEM are essential for developing new materials—from stronger steels to more efficient solar cells to faster [computer-hardware](/computer-hardware). Understanding how atoms arrange themselves at grain boundaries, defects, and interfaces is the key to [engineering](/engineering) better materials.
 
 ### Semiconductor Industry
 
@@ -228,11 +228,11 @@ Microscopy identifies microplastics in water samples, characterizes atmospheric 
 
 Several frontiers are pushing microscopy into unprecedented territory.
 
-**AI-enhanced microscopy** uses [deep-learning](/deep-learning) and machine learning algorithms to denoise images, improve resolution computationally, and automate feature recognition. Neural networks trained on microscopy data can sometimes reconstruct super-resolution images from conventional microscopy data, dramatically reducing equipment costs.
+**AI-enhanced microscopy** uses [deep-learning](/deep-learning) and machine learning algorithms to denoise images, improve resolution computationally, and automate feature recognition. [Neural networks](/neural-networks) trained on microscopy data can sometimes reconstruct super-resolution images from conventional microscopy data, dramatically reducing equipment costs.
 
 **Quantum microscopy** exploits quantum entanglement and quantum sensing to image with fewer photons (reducing specimen damage) and higher sensitivity. While still experimental, quantum-enhanced microscopy could radically change biological imaging.
 
-**In vivo deep-tissue imaging** using adaptive optics (borrowed from astronomy) and multiphoton excitation allows microscopy deep inside living tissue. Researchers can now image neural activity in the brains of awake, behaving mice—watching thoughts form in real time.
+**In vivo deep-tissue imaging** using adaptive optics (borrowed from [astronomy](/astronomy)) and multiphoton excitation allows microscopy deep inside living tissue. Researchers can now image neural activity in the brains of awake, behaving mice—watching thoughts form in real time.
 
 **Ptychography**, an advanced X-ray imaging technique, recently achieved 0.039-nanometer resolution—a new record for X-ray microscopy—by combining diffraction patterns from overlapping probe positions.
 

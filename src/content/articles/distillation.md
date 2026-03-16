@@ -118,7 +118,7 @@ Column stills (also called continuous stills or Coffey stills, after Aeneas Coff
 
 Column stills produce much higher-proof spirit (up to 95-96% ethanol) than pot stills and can run continuously rather than in batches. Most vodka, many gins, and lighter-style whiskeys use column stills. The higher rectification strips out more congeners (flavor compounds), producing a cleaner, more neutral spirit.
 
-The trade-off is character. Pot still spirits retain more of the raw material's flavors—the grain, the fruit, the sugarcane. Column still spirits are purer but less distinctively flavored. Neither is objectively better; they serve different purposes.
+The [trade](/trade)-off is character. Pot still spirits retain more of the raw material's flavors—the grain, the fruit, the sugarcane. Column still spirits are purer but less distinctively flavored. Neither is objectively better; they serve different purposes.
 
 ## Water Purification
 

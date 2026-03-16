@@ -81,7 +81,7 @@ This works reasonably well for individuals whose ancestry falls neatly into one 
 
 Some practitioners prefer morphoscopic traits — qualitative features like nasal aperture shape, eye orbit shape, and dental characteristics — evaluated visually rather than through measurements. Others advocate for combining metric and morphoscopic approaches.
 
-The field continues to grapple with how to estimate ancestry in a way that's scientifically valid, practically useful for identification, and socially responsible. There's no consensus, and the debate is healthy.
+The field continues to grapple with how to estimate ancestry in a way that's scientifically valid, practically useful for identification, and socially responsible. There's no consensus, and the [debate](/debate) is healthy.
 
 #### Estimating Stature
 
@@ -149,7 +149,7 @@ The analysis of skeletal remains from archaeological sites provides information 
 
 ### Traditional Methods
 
-Much of forensic anthropology still relies on visual and metric assessment by trained practitioners. Calipers, osteometric boards, and standardized measurement protocols haven't changed fundamentally in decades. The experience of the examiner — recognizing subtle bone features, understanding normal variation, distinguishing pathology from normal aging — remains irreplaceable.
+Much of forensic anthropology still relies on visual and metric assessment by trained practitioners. Calipers, osteometric boards, and standardized measurement protocols haven't changed fundamentally in decades. The experience of the examiner — recognizing subtle bone features, understanding normal variation, distinguishing [pathology](/pathology) from normal aging — remains irreplaceable.
 
 ### Modern Advances
 

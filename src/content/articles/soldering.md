@@ -37,7 +37,7 @@ faq:
 
 # What Is Soldering?
 
-Soldering is a metal-joining process where a filler alloy — called solder — is melted and flowed into the gap between two metal surfaces, bonding them together without melting the base metals themselves. The solder melts at temperatures below 450 degrees Celsius (842 degrees Fahrenheit), which separates soldering from brazing and welding, both of which operate at higher temperatures.
+Soldering is a metal-joining process where a filler alloy — called solder — is melted and flowed into the gap between two metal surfaces, bonding them together without melting the base metals themselves. The solder melts at temperatures below 450 degrees Celsius (842 degrees Fahrenheit), which separates soldering from brazing and [welding](/welding), both of which operate at higher temperatures.
 
 If you've ever looked at the underside of a [circuit board](/circuit-design), those tiny silver dots holding every component in place are solder joints. Billions of them are created every single day in factories around the world. But soldering isn't just an [electronics](/electronics) thing — plumbers, jewelers, [stained glass](/stained-glass) artists, and HVAC technicians all rely on it too.
 
@@ -63,7 +63,7 @@ Here's why that matters so much. Copper — the most commonly soldered metal —
 
 There are several flux types:
 
-**Rosin flux** is the classic choice for electronics work. It's derived from pine tree resin and is relatively mild. Most solder wire for electronics has a rosin flux core running through the center, so flux is automatically applied as you feed solder into the joint.
+**Rosin flux** is the classic choice for electronics work. It's derived from pine tree resin and is relatively mild. Most solder wire for electronics has a rosin flux core [running](/running) through the center, so flux is automatically applied as you feed solder into the joint.
 
 **Water-soluble flux** is more aggressive, leaving residues that must be cleaned after soldering (they're corrosive if left on the board). But the stronger cleaning action makes it useful for heavily oxidized surfaces.
 
@@ -181,7 +181,7 @@ Soldering involves hot metals, chemical fumes, and — depending on the alloy �
 
 **Ventilation** is essential. Flux fumes irritate the respiratory system, and some flux types release formaldehyde when heated. At minimum, work with a window open. Better: use a fume extractor with an activated carbon filter positioned near your work.
 
-**Lead hygiene** matters if you're using leaded solder. Lead doesn't evaporate at soldering temperatures (its boiling point is 1,749 degrees Celsius), so you won't inhale lead vapor from a soldering iron. But lead dust can accumulate on surfaces, and you can ingest it through hand-to-mouth contact. Wash your hands after soldering. Don't eat or drink at your workstation.
+**Lead [hygiene](/hygiene)** matters if you're using leaded solder. Lead doesn't evaporate at soldering temperatures (its boiling point is 1,749 degrees Celsius), so you won't inhale lead vapor from a soldering iron. But lead dust can accumulate on surfaces, and you can ingest it through hand-to-mouth contact. Wash your hands after soldering. Don't eat or drink at your workstation.
 
 **Burn prevention** is mostly common sense — a soldering iron tip sits at 300+ degrees Celsius. Use a proper stand with a holder. Never set a hot iron down on a bench surface. Be aware that solder splatter can occasionally flick tiny droplets of molten metal.
 
@@ -205,7 +205,7 @@ Stained glass windows are assembled by soldering lead came (H-shaped lead channe
 
 ### Sheet Metal
 
-HVAC ductwork, roofing, and decorative metalwork all use soldering for joining thin metal sheets. Tinplate, galvanized steel, and copper sheet can all be soldered with appropriate flux and alloys. The joints aren't as strong as welded ones but are perfectly adequate for non-structural applications and create watertight seams.
+HVAC ductwork, [roofing](/roofing), and decorative metalwork all use soldering for joining thin metal sheets. Tinplate, galvanized steel, and copper sheet can all be soldered with appropriate flux and alloys. The joints aren't as strong as welded ones but are perfectly adequate for non-structural applications and create watertight seams.
 
 ## A Brief History of Soldering
 

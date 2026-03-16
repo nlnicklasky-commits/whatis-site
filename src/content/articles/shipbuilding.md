@@ -37,7 +37,7 @@ faq:
 
 # What Is Shipbuilding?
 
-Shipbuilding is the design, engineering, and [construction](/construction) of ships and other marine vessels. It is one of the oldest engineering disciplines in human history and remains one of the most complex manufacturing endeavors undertaken today. A modern container ship contains roughly 30,000 tons of steel, hundreds of kilometers of piping and wiring, and must function reliably for 25 years in the most corrosive environment on Earth — the open ocean. The global shipbuilding industry generates approximately $150 billion in annual revenue, and over 90% of world trade by volume moves aboard ships that someone designed and built.
+Shipbuilding is the design, [engineering](/engineering), and [construction](/construction) of ships and other marine vessels. It is one of the oldest engineering disciplines in human history and remains one of the most complex manufacturing endeavors undertaken today. A modern container ship contains roughly 30,000 tons of steel, hundreds of kilometers of piping and wiring, and must function reliably for 25 years in the most corrosive environment on Earth — the open ocean. The global shipbuilding industry generates approximately $150 billion in annual revenue, and over 90% of world [trade](/trade) by volume moves aboard ships that someone designed and built.
 
 ## A Very Brief History of Building Boats
 
@@ -53,7 +53,7 @@ Chinese shipbuilding reached extraordinary sophistication under the Ming Dynasty
 
 ### The Age of Sail and the Transition to Steel
 
-European wooden sailing ships reached their peak in the 18th and 19th centuries. Ships of the line — massive warships with 100+ guns — required over 6,000 mature oak trees each, driving serious deforestation across Europe. A first-rate ship of the line took three to five years to build and represented one of the largest capital investments any nation could make.
+European wooden [sailing](/sailing) ships reached their peak in the 18th and 19th centuries. Ships of the line — massive warships with 100+ guns — required over 6,000 mature oak trees each, driving serious deforestation across Europe. A first-rate ship of the line took three to five years to build and represented one of the largest capital investments any nation could make.
 
 The transition from wood to iron and then steel happened remarkably quickly. The SS Great Britain (1843) was the first ocean-going ship with an iron hull and screw propeller. Within 50 years, wooden ships had become obsolete for commercial and military purposes. Steel construction, powered by the Bessemer process (1856), made ships stronger, larger, and cheaper to build.
 
@@ -75,13 +75,13 @@ That said, towing tank testing hasn't been abandoned. Scale models (typically 5-
 
 A ship's structure must withstand forces that would crush most buildings. Waves create massive bending moments — a 300-meter ship can be balanced on a single wave crest (called "hogging") with its bow and stern unsupported, or spanning between two crests (called "sagging") with its midship section unsupported. The bending forces involved are enormous: thousands of tons pushing the hull apart at midship.
 
-The structure is organized around a central **keel** (the backbone running the length of the ship), transverse **frames** (ribs extending from keel to deck), longitudinal **stringers** and **girders** (running fore-to-aft for additional stiffness), and watertight **bulkheads** (walls dividing the hull into compartments).
+The structure is organized around a central **keel** (the backbone [running](/running) the length of the ship), transverse **frames** (ribs extending from keel to deck), longitudinal **stringers** and **girders** (running fore-to-aft for additional stiffness), and watertight **bulkheads** (walls dividing the hull into compartments).
 
-Classification societies — organizations like Lloyd's Register, DNV, and the American Bureau of Shipping — set structural standards based on the ship's size, type, and intended service. These rules specify minimum plate thicknesses, frame spacing, and weld quality for every part of the structure. A ship must be classified to get insurance, and without insurance, it can't trade. So classification rules effectively set the minimum engineering standard for the industry.
+Classification societies — organizations like Lloyd's Register, DNV, and the American Bureau of Shipping — set structural standards based on the ship's size, type, and intended service. These rules specify minimum plate thicknesses, frame spacing, and weld quality for every part of the structure. A ship must be classified to get [insurance](/insurance), and without insurance, it can't trade. So classification rules effectively set the minimum engineering standard for the industry.
 
 ### [Systems Engineering](/systems-engineering)
 
-A modern ship is a self-contained city on water. The main propulsion system (diesel engines, gas turbines, or increasingly electric motors) drives the ship forward. Auxiliary systems generate [electricity](/electricity), produce fresh water from seawater, treat sewage, provide heating and cooling, and manage ballast water. Navigation systems include GPS, radar, electronic charts, and automatic identification systems. Communication systems include satellite internet, radio, and emergency beacons.
+A modern ship is a self-contained city on water. The main propulsion system (diesel engines, gas turbines, or increasingly electric motors) drives the ship forward. Auxiliary systems generate [electricity](/electricity), produce fresh water from seawater, treat sewage, provide heating and cooling, and manage ballast water. [Navigation](/navigation) systems include GPS, radar, electronic charts, and automatic identification systems. Communication systems include satellite internet, radio, and emergency beacons.
 
 A large container ship has approximately 500 kilometers of electrical cable, 100 kilometers of piping, and thousands of valves, pumps, motors, and sensors. Integrating all these systems so they work together reliably — in a structure that rolls, pitches, and vibrates constantly — is a genuinely remarkable engineering achievement.
 
@@ -113,7 +113,7 @@ Block construction dramatically reduces total build time. Instead of building se
 
 The blocks converge at the building dock — either a dry dock (a basin that can be pumped dry) or a slipway (an inclined surface from which the completed hull will slide into the water).
 
-Giant gantry cranes — some capable of lifting 1,000+ tons — place blocks into position. The blocks are aligned to tolerances of a few millimeters (remarkable for structures weighing hundreds of tons) and welded together. Welding at this stage is critical — the joints between blocks carry the full structural loads of the ship, and every weld is inspected using ultrasonic testing, radiographic testing, or both.
+Giant gantry cranes — some capable of lifting 1,000+ tons — place blocks into position. The blocks are aligned to tolerances of a few millimeters (remarkable for structures weighing hundreds of tons) and welded together. [Welding](/welding) at this stage is critical — the joints between blocks carry the full structural loads of the ship, and every weld is inspected using ultrasonic testing, radiographic testing, or both.
 
 The hull comes together block by block over several months. Watching a ship take shape in a dry dock is genuinely awe-inspiring — the scale is difficult to comprehend until you're standing at the bottom of the dock looking up at a steel wall that will soon be the side of a container ship.
 
@@ -123,7 +123,7 @@ While the hull is being assembled, outfitting begins — installing the machiner
 
 The main engine (a slow-speed marine diesel can be 15 meters tall and weigh 2,300 tons for the largest container ships) is lowered into the engine room by crane before the upper hull blocks close off access. Propeller shafts are aligned to sub-millimeter precision — any misalignment causes vibration, bearing wear, and reduced efficiency.
 
-Outfitting is the most labor-intensive phase of construction. Thousands of workers from dozens of trades — electricians, pipefitters, painters, insulators, HVAC technicians, carpenters, electronics technicians — work simultaneously in confined spaces. Coordination is a logistical challenge comparable to building construction, but compressed into a shorter timeline and a more constrained environment.
+Outfitting is the most labor-intensive phase of construction. Thousands of workers from dozens of trades — electricians, pipefitters, painters, insulators, HVAC technicians, carpenters, [electronics](/electronics) technicians — work simultaneously in confined spaces. Coordination is a logistical challenge comparable to building construction, but compressed into a shorter timeline and a more constrained environment.
 
 ### Launch and Sea Trials
 
@@ -151,7 +151,7 @@ The diversity of commercial and military vessels is extraordinary. Each type rep
 
 Global shipbuilding is dominated by three countries: South Korea, China, and Japan. Together they account for over 90% of commercial shipbuilding tonnage.
 
-**China** leads in volume, with hundreds of shipyards producing everything from small fishing boats to the largest bulk carriers. State subsidies and lower labor costs give Chinese yards a price advantage for standard vessel types.
+**China** leads in volume, with hundreds of shipyards producing everything from small [fishing](/fishing) boats to the largest bulk carriers. State subsidies and lower labor costs give Chinese yards a price advantage for standard vessel types.
 
 **South Korea** specializes in high-value, technologically complex vessels — LNG carriers, large container ships, and offshore platforms. Yards like Hyundai Heavy Industries, Samsung Heavy Industries, and Daewoo Shipbuilding are among the most productive in the world, with decades of accumulated expertise in complex construction.
 

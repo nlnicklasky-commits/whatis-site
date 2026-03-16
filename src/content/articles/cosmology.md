@@ -43,7 +43,7 @@ Cosmology is the scientific study of the origin, structure, evolution, and ultim
 
 ## A Quick History of Asking Big Questions
 
-Humans have stared at the sky and asked "what is all this?" for as long as we've been human. But scientific cosmology---cosmology based on observation, mathematics, and testable predictions---is surprisingly young. Most of what we know was discovered in the last century.
+Humans have stared at the sky and asked "what is all this?" for as long as we've been human. But scientific cosmology---cosmology based on observation, [mathematics](/mathematics), and testable predictions---is surprisingly young. Most of what we know was discovered in the last century.
 
 Before the 1920s, most scientists believed the universe was static and eternal. The Milky Way was thought to be the entire universe. Then, in 1929, Edwin Hubble measured the distances to "spiral nebulae" and proved two things that changed everything: those nebulae were actually separate galaxies far outside the Milky Way, and they were moving away from us. The farther away a galaxy, the faster it was receding.
 
@@ -57,11 +57,11 @@ Let's clear up the most common misconception right away. The Big Bang was not an
 
 ### The First Moments
 
-The very first instant---the Planck epoch, lasting until 10^-43 seconds after the Big Bang---remains beyond our physics. At this point, the four fundamental forces (gravity, [electromagnetism](/electromagnetism), strong nuclear, weak nuclear) were likely unified, and the temperatures and densities exceeded anything our current theories can describe. We'd need a theory of quantum gravity to understand this era, and we don't have one yet.
+The very first instant---the Planck epoch, lasting until 10^-43 seconds after the Big Bang---remains beyond our [physics](/physics). At this point, the four fundamental forces (gravity, [electromagnetism](/electromagnetism), strong nuclear, weak nuclear) were likely unified, and the temperatures and densities exceeded anything our current theories can describe. We'd need a theory of quantum gravity to understand this era, and we don't have one yet.
 
 Between 10^-36 and 10^-32 seconds, something extraordinary happened: cosmic inflation. The universe expanded exponentially, doubling in size at least 60 times in a tiny fraction of a second. A region smaller than an atom inflated to something larger than the observable universe today. This sounds absurd, but inflation solves several otherwise inexplicable puzzles about the universe.
 
-Why is the cosmic microwave background nearly the same temperature in all directions? Because regions that appear separated by vast distances were actually in contact before inflation pushed them apart. Why is the universe's geometry so close to flat? Because inflation stretched any initial curvature smooth, like inflating a balloon until its surface appears flat.
+Why is the cosmic microwave background nearly the same temperature in all directions? Because regions that appear separated by vast distances were actually in contact before inflation pushed them apart. Why is the universe's [geometry](/geometry) so close to flat? Because inflation stretched any initial curvature smooth, like inflating a balloon until its surface appears flat.
 
 By one microsecond after the Big Bang, the universe had cooled enough for quarks to combine into protons and neutrons. By three minutes, nuclear fusion created the lightest elements: roughly 75% hydrogen, 25% helium, and trace amounts of lithium and deuterium. This prediction of Big Bang Nucleosynthesis matches observed element abundances with remarkable precision.
 
@@ -93,7 +93,7 @@ At the largest scales, the universe has a foam-like structure. Galaxy clusters a
 
 Those tiny density fluctuations in the early universe---the ones we see in the CMB---are the seeds of all this structure. Dark matter, which doesn't interact with light and therefore wasn't smoothed out by radiation pressure, began clumping first. Normal matter fell into the gravitational wells created by dark matter, eventually forming stars and galaxies.
 
-Computer simulations of structure formation---running the equations of gravity, gas dynamics, and dark matter physics forward from CMB-era initial conditions---produce virtual universes that look remarkably like the real one. The cosmic web emerges naturally from gravity acting on small initial density variations over billions of years.
+Computer simulations of structure formation---[running](/running) the equations of gravity, [gas dynamics](/gas-dynamics), and dark matter physics forward from CMB-era initial conditions---produce virtual universes that look remarkably like the real one. The cosmic web emerges naturally from gravity [acting](/acting) on small initial density variations over billions of years.
 
 This is one of cosmology's great triumphs: connecting the microscopic fluctuations frozen into the CMB at 380,000 years to the large-scale structure of galaxies we observe today.
 
@@ -135,7 +135,7 @@ The simplest explanation is the cosmological constant---a constant energy densit
 
 The problem? When physicists try to calculate the cosmological constant from [quantum field theory](/quantum-field-theory), they get a number roughly 10^120 times larger than the observed value. This is the worst prediction in [the history of physics](/the-history-of-physics). Something is profoundly wrong with our understanding.
 
-Alternative explanations include quintessence (a active field that changes over time), modifications to general relativity at large scales, and the anthropic principle (we observe this value because only universes with this value produce observers). None is fully satisfying.
+Alternative explanations include quintessence (a active field that changes over time), modifications to general [relativity](/relativity) at large scales, and the anthropic principle (we observe this value because only universes with this value produce observers). None is fully satisfying.
 
 ## The Shape and Fate of the Universe
 
@@ -181,7 +181,7 @@ Despite extraordinary progress, cosmology faces fundamental unanswered questions
 
 **The initial conditions**: What determined the specific properties of our universe? Why these particle masses, these force strengths, these [algorithms](/algorithms) of physics? The anthropic principle offers one perspective, but many physicists find it unsatisfying.
 
-**Quantum gravity**: General relativity describes gravity beautifully at large scales. [Quantum mechanics](/quantum-mechanics) describes the microscopic world beautifully. But they're mathematically incompatible at extreme conditions---the Big Bang singularity, the centers of black holes. A theory unifying them remains elusive. String theory, loop quantum gravity, and other approaches exist, but none has produced testable predictions confirmed by experiment.
+**Quantum gravity**: General relativity describes gravity beautifully at large scales. [Quantum mechanics](/quantum-mechanics) describes the microscopic world beautifully. But they're mathematically incompatible at extreme conditions---the Big Bang singularity, the centers of black holes. A theory unifying them remains elusive. [String theory](/string-theory), loop quantum gravity, and other approaches exist, but none has produced testable predictions confirmed by experiment.
 
 ## Modern Observational Cosmology
 
@@ -209,4 +209,4 @@ And the questions cosmology asks---Where did we come from? What is the universe 
 
 ## Key Takeaways
 
-Cosmology studies the universe's origin, structure, and fate using observations, mathematics, and physical theory. The Big Bang model---supported by the cosmic microwave background, element abundances, and the observed expansion of space---describes a universe that began 13.8 billion years ago and has been expanding ever since. Dark matter (27% of the universe) provides gravitational scaffolding for structure formation but has never been directly detected. Dark energy (68%) drives the accelerating expansion of space through a mechanism we don't understand. The universe appears geometrically flat and is likely headed toward heat death. Despite these advances, fundamental questions---the nature of dark matter and dark energy, the origin of the matter-antimatter asymmetry, the unification of gravity with quantum mechanics---remain open and drive one of the most active areas of scientific research.
+Cosmology studies the universe's origin, structure, and fate using observations, mathematics, and physical theory. The Big Bang model---supported by the cosmic microwave background, element abundances, and the observed expansion of space---describes a universe that began 13.8 billion years ago and has been expanding ever since. Dark matter (27% of the universe) provides gravitational [scaffolding](/scaffolding) for structure formation but has never been directly detected. Dark energy (68%) drives the accelerating expansion of space through a mechanism we don't understand. The universe appears geometrically flat and is likely headed toward heat death. Despite these advances, fundamental questions---the nature of dark matter and dark energy, the origin of the matter-antimatter asymmetry, the unification of gravity with quantum mechanics---remain open and drive one of the most active areas of scientific research.

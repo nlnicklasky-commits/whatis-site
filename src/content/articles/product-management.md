@@ -37,7 +37,7 @@ faq:
 
 # What Is Product Management?
 
-Product management is the organizational function responsible for defining what a product should be, who it serves, why it matters, and how it delivers value — then guiding its development from concept through launch and beyond. Product managers (PMs) don't build the product themselves. They decide what gets built and make sure it's the right thing.
+Product [management](/management) is the organizational function responsible for defining what a product should be, who it serves, why it matters, and how it delivers value — then guiding its development from concept through launch and beyond. Product managers (PMs) don't build the product themselves. They decide what gets built and make sure it's the right thing.
 
 ## The Job Nobody Can Define Cleanly
 
@@ -85,17 +85,17 @@ The "not doing" part is critical. Strategy is as much about saying no as saying 
 
 **Roadmapping** translates strategy into a rough plan of what gets built when. Good roadmaps communicate priorities and direction without promising specific features on specific dates. The best roadmaps are organized around outcomes ("reduce onboarding time by 40%") rather than outputs ("build tutorial feature").
 
-Roadmaps are inherently political documents. Every team wants their project prioritized. Sales wants features that close deals. Engineering wants to pay down technical debt. The CEO has a pet idea. The PM must balance these pressures against what users actually need and what the data says.
+Roadmaps are inherently political documents. Every team wants their project prioritized. [Sales](/sales) wants features that close deals. Engineering wants to pay down technical debt. The CEO has a pet idea. The PM must balance these pressures against what users actually need and what the data says.
 
 ### Execution: Making It Happen
 
 Strategy without execution is fantasy. PMs must translate strategic priorities into work that teams can actually do.
 
-**Writing requirements.** PMs create documents — product requirement documents (PRDs), user stories, specifications — that communicate what needs to be built and why. The format varies by organization, but the best requirements clearly state the problem, the target user, success criteria, and constraints while leaving room for engineering and design to determine the best implementation.
+**[Writing](/writing) requirements.** PMs create documents — product requirement documents (PRDs), user stories, specifications — that communicate what needs to be built and why. The format varies by organization, but the best requirements clearly state the problem, the target user, success criteria, and constraints while leaving room for engineering and design to determine the best implementation.
 
-**Sprint planning and backlog management.** In [agile](/agile-software-development) organizations, PMs work with the development team to plan sprints — typically two-week cycles of work. They prioritize the backlog, clarify requirements during development, and make trade-off decisions when unexpected complexity arises.
+**Sprint planning and backlog management.** In [agile](/agile-software-development) organizations, PMs work with the development team to plan sprints — typically two-week cycles of work. They prioritize the backlog, clarify requirements during development, and make [trade](/trade)-off decisions when unexpected complexity arises.
 
-**Cross-functional coordination.** A product launch might involve engineering, design, marketing, sales, customer support, legal, and operations. The PM coordinates across all these functions — not by managing people (PMs typically don't have direct reports) but by aligning everyone around shared goals and ensuring nothing falls through cracks.
+**Cross-functional coordination.** A product launch might involve engineering, design, [marketing](/marketing), sales, customer support, legal, and operations. The PM coordinates across all these functions — not by managing people (PMs typically don't have direct reports) but by aligning everyone around shared goals and ensuring nothing falls through cracks.
 
 **Decision-making under uncertainty.** This might be the PM's most important skill. You rarely have perfect information. You need to decide whether to build Feature A or Feature B with incomplete data, conflicting opinions, and time pressure. Good PMs develop frameworks for making these decisions — and the courage to make them even when they might be wrong.
 
@@ -212,7 +212,7 @@ AI is changing PM work in real time. PMs increasingly use AI tools for data anal
 
 The role is also expanding. "Product-led growth" companies where the product itself drives acquisition and retention are giving PMs more responsibility for business outcomes. "Product operations" teams are emerging to handle the operational complexity of modern product development.
 
-And as software eats more industries — healthcare, education, [government](/government), [agriculture](/agriculture) — product management is spreading beyond traditional tech companies. Hospitals need product managers for patient-facing apps. Schools need them for learning platforms. Banks need them for digital services.
+And as software eats more industries — healthcare, [education](/education), [government](/government), [agriculture](/agriculture) — product management is spreading beyond traditional tech companies. Hospitals need product managers for patient-facing apps. Schools need them for learning platforms. Banks need them for digital services.
 
 ## Key Takeaways
 

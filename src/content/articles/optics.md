@@ -69,13 +69,13 @@ A flat mirror produces a virtual image — it looks like there's an object behin
 
 Curved mirrors get more interesting. A concave mirror (curved inward, like the inside of a spoon) converges reflected rays to a focal point. Objects closer than the focal length appear magnified — that's why shaving mirrors and makeup mirrors are concave. A convex mirror (curved outward) diverges rays, producing a smaller but wider-angle image. That's why car side mirrors say "objects may be closer than they appear."
 
-Telescopes like the Hubble Space Telescope use precisely shaped concave mirrors to gather faint light from distant stars. The primary mirror on the James Webb Space Telescope spans 6.5 meters and is made of 18 gold-coated beryllium segments — a monument to reflection engineering.
+Telescopes like the Hubble Space Telescope use precisely shaped concave mirrors to gather faint light from distant stars. The primary mirror on the James Webb Space Telescope spans 6.5 meters and is made of 18 gold-coated beryllium segments — a monument to reflection [engineering](/engineering).
 
 ### Refraction: Why Light Bends
 
 When light passes from one medium to another at an angle, it changes direction. This is refraction, and it's governed by Snell's Law: n1 sin(θ1) = n2 sin(θ2), where n represents the refractive index and θ the angle from the perpendicular.
 
-The intuitive explanation: imagine a marching band walking at an angle from pavement onto sand. The first marchers to hit the sand slow down while those still on pavement keep going at the original speed. This causes the whole line to pivot and change direction. Light does the same thing.
+The intuitive explanation: imagine a marching band [walking](/walking) at an angle from pavement onto sand. The first marchers to hit the sand slow down while those still on pavement keep going at the original speed. This causes the whole line to pivot and change direction. Light does the same thing.
 
 Refraction explains why pools look shallower than they actually are, why roads shimmer in the heat, and why a sunset turns the sky orange and red (shorter wavelengths scatter more than longer ones as sunlight travels through more atmosphere at low angles).
 
@@ -129,11 +129,11 @@ LCD screens work by sandwiching liquid crystals between two polarizing filters. 
 
 At the smallest scales, light consists of individual photons — discrete packets of energy. A photon's energy is proportional to its frequency: E = hf, where h is Planck's constant (6.626 x 10^-34 J·s). Blue photons carry more energy than red photons, which is why ultraviolet light causes sunburn but infrared doesn't.
 
-Quantum optics studies light at this photon level, and the results are genuinely bizarre.
+[Quantum optics](/quantum-optics) studies light at this photon level, and the results are genuinely bizarre.
 
 Individual photons can be in superposition — existing in multiple states simultaneously until measured. Two photons can be entangled, meaning measuring one instantly determines the state of the other regardless of distance. Einstein called this "spooky action at a distance" because it bothered him deeply. He wasn't wrong to be bothered — it's deeply counterintuitive — but experiment after experiment has confirmed it.
 
-These quantum properties aren't just curiosities. They're the foundation of emerging technologies. Quantum cryptography uses entangled photons to create encryption that's theoretically unbreakable — any attempt to intercept the signal disturbs the quantum states and reveals the eavesdropper. Quantum computing uses photonic qubits for certain computational approaches. Quantum sensors can detect gravitational waves and measure time with extraordinary precision.
+These quantum properties aren't just curiosities. They're the foundation of emerging technologies. [Quantum cryptography](/quantum-cryptography) uses entangled photons to create encryption that's theoretically unbreakable — any attempt to intercept the signal disturbs the quantum states and reveals the eavesdropper. [Quantum computing](/quantum-computing) uses photonic qubits for certain computational approaches. Quantum sensors can detect gravitational waves and measure time with extraordinary precision.
 
 ## Optical Instruments: Engineering Light
 
@@ -143,7 +143,7 @@ The history of optics is really a history of instruments. Each new device opened
 
 The compound microscope, developed around 1600, combines two convex lenses to achieve high magnification. A typical laboratory microscope can resolve features as small as about 200 nanometers — roughly the diffraction limit for visible light.
 
-To see smaller things, you need shorter wavelengths. [Electron microscopes](/electron-microscopy) use electron beams with wavelengths thousands of times shorter than visible light, achieving resolution below 0.1 nanometers. Modern techniques like stimulated emission depletion (STED) microscopy and photoactivated localization microscopy (PALM) have actually beaten the diffraction limit for light, earning Stefan Hell, Eric Betzig, and William Moerner the 2014 Nobel Prize in Chemistry.
+To see smaller things, you need shorter wavelengths. [Electron microscopes](/electron-microscopy) use electron beams with wavelengths thousands of times shorter than visible light, achieving resolution below 0.1 nanometers. Modern techniques like stimulated emission depletion (STED) microscopy and photoactivated localization microscopy (PALM) have actually beaten the diffraction limit for light, earning Stefan Hell, Eric Betzig, and William Moerner the 2014 Nobel Prize in [Chemistry](/chemistry).
 
 ### Telescopes: Seeing the Far
 
@@ -157,7 +157,7 @@ Radio telescopes extend optics into wavelengths millions of times longer than vi
 
 The laser (Light Amplification by Stimulated Emission of Radiation) produces light that's coherent — all the waves march in lockstep with the same wavelength, phase, and direction. This concentration of energy into a single wavelength and direction is what makes lasers so useful.
 
-Laser applications span nearly every field. Surgeons use excimer lasers for LASIK eye surgery, ablating corneal tissue with micrometer precision. Manufacturing uses high-power lasers for cutting and welding metal. Telecommunications transmit data through [fiber-optic](/fiber-optics) cables using infrared laser diodes. Surveyors measure distances with laser rangefinders accurate to millimeters over kilometers. Supermarket barcode scanners, Blu-ray players, 3D printers, laser pointers — all descendants of the same principle.
+Laser applications span nearly every field. Surgeons use excimer lasers for LASIK eye [surgery](/surgery), ablating corneal tissue with micrometer precision. Manufacturing uses high-power lasers for cutting and [welding](/welding) metal. Telecommunications transmit data through [fiber-optic](/fiber-optics) cables using infrared laser diodes. Surveyors measure distances with laser rangefinders accurate to millimeters over kilometers. Supermarket barcode scanners, Blu-ray players, 3D printers, laser pointers — all descendants of the same principle.
 
 The most powerful lasers on Earth generate petawatts (10^15 watts) in ultrashort pulses lasting femtoseconds. These are used in [physics](/physics) research to create extreme conditions — temperatures hotter than the sun's core, pressures found only in planetary interiors, and plasma states useful for studying nuclear fusion.
 
@@ -169,15 +169,15 @@ Your smartphone camera contains multiple lens elements, an image sensor that con
 
 Your eyes are optical instruments. The cornea and lens focus light onto the retina, which contains roughly 120 million rod cells (for low-light vision) and 6-7 million cone cells (for color). The retina converts photon energy into electrical signals that travel via the optic nerve to the visual cortex. Your brain processes these signals into the seamless visual experience you're having right now. The whole system — biological optics at its finest.
 
-Traffic lights, projectors, microscopes in hospitals, telescope mirrors in observatories, the [optical engineering](/optical-engineering) behind photolithography that makes computer chips — optics is everywhere, doing its work quietly.
+Traffic lights, projectors, microscopes in hospitals, telescope mirrors in observatories, the [optical engineering](/optical-engineering) behind [photolithography](/photolithography) that makes computer chips — optics is everywhere, doing its work quietly.
 
 ## Modern Frontiers
 
-Optics research today pushes into territory that would have seemed like science fiction a few decades ago.
+Optics research today pushes into territory that would have seemed like [science fiction](/science-fiction) a few decades ago.
 
 **Metamaterials** are artificial structures engineered to bend light in ways no natural material can. Some metamaterials have negative refractive indices, bending light "backward." Researchers have used metamaterials to create rudimentary invisibility cloaks that guide light around an object, though these currently work only for narrow wavelength ranges and small objects.
 
-**Integrated photonics** miniaturizes optical components onto silicon chips, the same way [electronics](/electronics) miniaturized electrical circuits. Photonic chips could process data using light instead of electricity, potentially solving the heat and speed limitations of electronic computing.
+**Integrated photonics** miniaturizes optical components onto silicon chips, the same way [electronics](/electronics) miniaturized electrical circuits. Photonic chips could process data using light instead of [electricity](/electricity), potentially solving the heat and speed limitations of electronic computing.
 
 **Attosecond optics** uses pulses lasting billionths of a billionth of a second (10^-18 s) to observe electron motion within atoms in real time. Pierre Agostini, Ferenc Krausz, and Anne L'Huillier won the 2023 Nobel Prize in Physics for developing these techniques.
 
@@ -194,17 +194,17 @@ For practical [optical engineering](/optical-engineering), the key equations are
 - **The Rayleigh criterion**: θ = 1.22 λ/D — gives the minimum angular resolution of a circular aperture
 - **The grating equation**: d sin(θ) = mλ — determines where different wavelengths appear from a diffraction grating
 
-These equations are surprisingly simple for how much they explain. A student with basic trigonometry can design a functional telescope or predict where a rainbow will appear. That accessibility is part of what makes optics such a rewarding field to study.
+These equations are surprisingly simple for how much they explain. A student with basic [trigonometry](/trigonometry) can design a functional telescope or predict where a rainbow will appear. That accessibility is part of what makes optics such a rewarding field to study.
 
 ## Why Optics Still Matters
 
 It might seem like optics is "solved" — we've understood reflection and refraction for centuries. But the field has never been more active. The global photonics market exceeded $900 billion in 2023 and is growing rapidly.
 
-Optical technologies underpin the internet (fiber optics), modern manufacturing (laser cutting and lithography), medical diagnostics (endoscopes, OCT imaging, laser surgery), defense systems (laser rangefinders, infrared sensors), and scientific discovery (telescopes, spectrometers, particle accelerators that use beam optics).
+Optical technologies underpin the internet (fiber optics), modern manufacturing (laser cutting and [lithography](/lithography)), medical diagnostics (endoscopes, OCT imaging, laser surgery), defense systems (laser rangefinders, infrared sensors), and scientific discovery (telescopes, spectrometers, particle accelerators that use beam optics).
 
 Emerging areas like quantum computing, augmented reality, autonomous vehicles (which use LiDAR — essentially laser radar), and photonic [artificial intelligence](/artificial-intelligence) accelerators are creating new demand for optical innovation.
 
-Whether you're looking through your glasses, checking your phone, or gazing at stars through a telescope, optics is the science making it all possible. It started with people wondering why mirrors show reflections and why the sky is blue. Thousands of years later, we're using those same principles — plus some genuinely weird quantum mechanics — to push the boundaries of what humanity can see, measure, and build.
+Whether you're looking through your glasses, checking your phone, or gazing at stars through a telescope, optics is the science making it all possible. It started with people wondering why mirrors show reflections and why the sky is blue. Thousands of years later, we're using those same principles — plus some genuinely weird [quantum mechanics](/quantum-mechanics) — to push the boundaries of what humanity can see, measure, and build.
 
 ## Key Takeaways
 

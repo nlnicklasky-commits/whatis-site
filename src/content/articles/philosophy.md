@@ -31,7 +31,7 @@ faq:
 
 # What Is Philosophy?
 
-Philosophy is the systematic study of fundamental questions about existence, knowledge, values, reason, mind, and language. The word comes from the Greek *philosophia* — literally "love of wisdom." Unlike sciences that investigate specific aspects of the natural world, philosophy tackles questions that can't be settled by running experiments: What makes something real? How do you know what you think you know? What does it mean to live a good life? Is there such a thing as objective truth?
+Philosophy is the systematic study of fundamental questions about existence, knowledge, values, reason, mind, and language. The word comes from the Greek *philosophia* — literally "love of wisdom." Unlike sciences that investigate specific aspects of the natural world, philosophy tackles questions that can't be settled by [running](/running) experiments: What makes something real? How do you know what you think you know? What does it mean to live a good life? Is there such a thing as objective truth?
 
 ## The Big Questions
 
@@ -41,9 +41,9 @@ Philosophy organizes itself around a few core questions, each spawning its own b
 
 **[Epistemology](/epistemology)** asks: What is knowledge? How do we acquire it? What can we actually know for certain? What's the difference between belief and justified belief? Can we trust our senses? These aren't idle puzzles — your answer to "How do I know what I know?" shapes how you evaluate evidence, make decisions, and assess claims.
 
-**Ethics** asks: What's right and wrong? Are moral truths objective or culturally constructed? What makes an action good? What do we owe each other? Three major ethical frameworks compete for answers: consequentialism (judge actions by their outcomes), deontology (judge actions by whether they follow moral rules), and [virtue ethics](/virtue-ethics) (judge character, not individual actions).
+**[Ethics](/ethics)** asks: What's right and wrong? Are moral truths objective or culturally constructed? What makes an action good? What do we owe each other? Three major ethical frameworks compete for answers: consequentialism (judge actions by their outcomes), deontology (judge actions by whether they follow moral rules), and [virtue ethics](/virtue-ethics) (judge character, not individual actions).
 
-**Logic** studies the rules of valid reasoning. What makes an argument sound? How do you identify a fallacy? Logic isn't about opinions — it's about the structure of arguments. A logically valid argument can have false premises but still be structurally perfect. Understanding logic is like understanding grammar for thinking.
+**[Logic](/logic)** studies the rules of valid reasoning. What makes an argument sound? How do you identify a fallacy? Logic isn't about opinions — it's about the structure of arguments. A logically valid argument can have false premises but still be structurally perfect. Understanding logic is like understanding [grammar](/grammar) for thinking.
 
 **[Aesthetics](/aesthetics)** asks: What is beauty? What makes something art? Can aesthetic judgments be objective, or are they purely subjective? If you've ever argued about whether a particular movie is genuinely good or just popular, you've done aesthetics.
 
@@ -55,7 +55,7 @@ Philosophy organizes itself around a few core questions, each spawning its own b
 
 **Plato** (428-348 BCE) argued that the physical world is a shadow of a higher reality — the world of Forms or Ideas. The perfect circle you imagine is more real, in Plato's view, than any circle you could draw. His *Republic* remains one of the most influential books ever written.
 
-**Aristotle** (384-322 BCE), Plato's student, disagreed with his teacher on nearly everything and built the most ambitious intellectual system in ancient history — logic, physics, biology, ethics, [politics](/politics), poetics. His work dominated Western thought for nearly two thousand years.
+**Aristotle** (384-322 BCE), Plato's student, disagreed with his teacher on nearly everything and built the most ambitious intellectual system in ancient history — logic, [physics](/physics), [biology](/biology), ethics, [politics](/politics), poetics. His work dominated Western thought for nearly two thousand years.
 
 The medieval period fused philosophy with [theology](/theology). Thinkers like Thomas Aquinas tried to reconcile Christian faith with Aristotelian reason. The results were impressively rigorous, whatever you think of the starting assumptions.
 
@@ -69,7 +69,7 @@ Philosophy gets criticized for being impractical, abstract, and prone to jargon.
 
 But the criticism usually misses the point. Philosophy's job isn't to give you answers the way a textbook does. Its job is to teach you how to think about questions that don't have easy answers — and those are exactly the questions that matter most.
 
-Every time you argue about whether an action was ethical, debate what makes a [government](/government) legitimate, question whether AI can be conscious, or wonder what makes life meaningful, you're doing philosophy. You're just doing it informally, without the tools that formal training provides.
+Every time you argue about whether an action was ethical, [debate](/debate) what makes a [government](/government) legitimate, question whether AI can be conscious, or wonder what makes life meaningful, you're doing philosophy. You're just doing it informally, without the tools that formal training provides.
 
 ## Why It Actually Matters
 

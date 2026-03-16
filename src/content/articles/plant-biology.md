@@ -37,7 +37,7 @@ faq:
 
 # What Is Plant Biology?
 
-Plant biology is the scientific study of plants --- how they grow, reproduce, develop, defend themselves, and interact with their environment. It covers everything from the molecular machinery of photosynthesis to the ecological relationships between plants and the animals, fungi, and microbes that depend on them.
+Plant [biology](/biology) is the scientific study of plants --- how they grow, reproduce, develop, defend themselves, and interact with their environment. It covers everything from the molecular machinery of photosynthesis to the ecological relationships between plants and the animals, fungi, and microbes that depend on them.
 
 The field is sometimes called [botany](/botany), and the two terms overlap almost completely. But "plant biology" signals the modern emphasis on molecular, cellular, and genetic approaches that have transformed our understanding of plant life over the past several decades.
 
@@ -76,7 +76,7 @@ Not all plants photosynthesize the same way. About 85% of plant species use the 
 
 ## Plant Structure: Built for Purpose
 
-Plants are engineering marvels, though we rarely think of them that way. Their structure reflects solutions to specific problems: capturing light, transporting water, supporting weight, and reproducing.
+Plants are [engineering](/engineering) marvels, though we rarely think of them that way. Their structure reflects solutions to specific problems: capturing light, transporting water, supporting weight, and reproducing.
 
 ### Roots
 
@@ -138,7 +138,7 @@ This coevolution produced the staggering diversity of flowering plants --- about
 
 ## Plants and Human Civilization
 
-Agriculture --- the deliberate cultivation of plants --- made civilization possible. About 10,000-12,000 years ago, humans began domesticating wild grasses (wheat, rice, maize), legumes (lentils, chickpeas), and other plants. This shift from hunting-gathering to farming allowed permanent settlements, population growth, social stratification, and eventually cities, writing, and everything we call civilization.
+Agriculture --- the deliberate cultivation of plants --- made civilization possible. About 10,000-12,000 years ago, humans began domesticating wild grasses (wheat, rice, maize), legumes (lentils, chickpeas), and other plants. This shift from [hunting](/hunting)-gathering to [farming](/farming) allowed permanent settlements, population growth, social stratification, and eventually cities, [writing](/writing), and everything we call civilization.
 
 Today, just three grasses --- rice, wheat, and maize --- provide roughly 50% of all calories consumed by humans. Including soybean, potato, and cassava brings the total to about 75%. We depend on a remarkably narrow slice of plant diversity for our survival.
 
@@ -148,11 +148,11 @@ Plant biology drives modern agriculture. The Green Revolution's semi-dwarf varie
 
 - **Marker-assisted selection**: Using DNA markers to identify plants with desirable traits, speeding up traditional breeding
 - **Genetic engineering**: Introducing specific genes for pest resistance, herbicide tolerance, or nutritional improvement (Golden Rice, engineered to produce vitamin A precursor, addresses deficiency affecting 250 million children)
-- **Gene editing (CRISPR)**: Making precise modifications to plant genomes without introducing foreign DNA, used to improve disease resistance, drought tolerance, and nutritional quality
+- **Gene [editing](/editing) (CRISPR)**: Making precise modifications to plant genomes without introducing foreign DNA, used to improve disease resistance, drought tolerance, and nutritional quality
 
 ### Medicinal Plants
 
-About 25% of modern pharmaceuticals derive from plant compounds. Aspirin comes from willow bark (salicin). Morphine comes from opium poppy. Taxol (paclitaxel), a major cancer drug, comes from Pacific yew bark. Quinine from cinchona bark treats malaria. Artemisinin from sweet wormwood (*Artemisia annua*) is the frontline malaria treatment today --- its discoverer, Tu Youyou, received the 2015 Nobel Prize in Physiology or Medicine.
+About 25% of modern pharmaceuticals derive from plant compounds. Aspirin comes from willow bark (salicin). Morphine comes from opium poppy. Taxol (paclitaxel), a major cancer drug, comes from Pacific yew bark. Quinine from cinchona bark treats malaria. Artemisinin from sweet wormwood (*Artemisia annua*) is the frontline malaria treatment today --- its discoverer, Tu Youyou, received the 2015 Nobel Prize in [Physiology](/physiology) or Medicine.
 
 ## Modern Frontiers
 
@@ -160,11 +160,11 @@ About 25% of modern pharmaceuticals derive from plant compounds. Aspirin comes f
 
 Plants absorb about 30% of human CO2 emissions. Understanding how this carbon sink will respond to warming temperatures, changing precipitation, and rising CO2 levels is one of the most critical questions in plant biology and [ecology](/ecology).
 
-Higher CO2 generally increases photosynthesis (the "CO2 fertilization effect"), but this benefit is often limited by nutrient availability, especially nitrogen and phosphorus. Warming extends growing seasons in temperate regions but increases heat stress and drought. The net effect on the terrestrial carbon sink --- whether it strengthens or weakens --- will significantly influence the trajectory of climate change.
+Higher CO2 generally increases photosynthesis (the "CO2 fertilization effect"), but this benefit is often limited by nutrient availability, especially nitrogen and phosphorus. Warming extends growing seasons in temperate regions but increases heat stress and drought. The net effect on the terrestrial carbon sink --- whether it strengthens or weakens --- will significantly influence the trajectory of [climate change](/climate-change).
 
 ### Synthetic Biology
 
-Plant synthetic biology aims to redesign photosynthesis for greater efficiency. The RIPE (Realizing Increased Photosynthetic Efficiency) project at the University of Illinois has shown that engineering faster recovery from photoprotection (the process that protects leaves from excess light) can increase crop yields by 15-20%. Other groups are working to introduce C4 photosynthesis into rice (a C3 plant), which could substantially increase yields.
+Plant [synthetic biology](/synthetic-biology) aims to redesign photosynthesis for greater efficiency. The RIPE (Realizing Increased Photosynthetic Efficiency) project at the University of Illinois has shown that engineering faster recovery from photoprotection (the process that protects leaves from excess light) can increase crop yields by 15-20%. Other groups are working to introduce C4 photosynthesis into rice (a C3 plant), which could substantially increase yields.
 
 ### Plant Microbiomes
 
@@ -172,7 +172,7 @@ Like animals, plants host complex microbial communities. The rhizosphere (soil a
 
 ## Connections to Other Fields
 
-Plant biology connects to [ecology](/ecology) through plant community dynamics and ecosystem function, [genetics](/genetics) through plant genomics and breeding, [agriculture](/agriculture) through crop science, [chemistry](/chemistry) through natural products and biochemistry, and [environmental science](/environmental-science) through the carbon cycle and conservation.
+Plant biology connects to [ecology](/ecology) through plant community dynamics and ecosystem function, [genetics](/genetics) through plant genomics and breeding, [agriculture](/agriculture) through crop science, [chemistry](/chemistry) through natural products and [biochemistry](/biochemistry), and [environmental science](/environmental-science) through the carbon cycle and conservation.
 
 If the traditional study of plant diversity and classification interests you, [botany](/botany) is the closest companion. For the ecological perspective, [ecology](/ecology) goes broader. For agricultural applications, [agriculture](/agriculture) and [horticulture](/horticulture) apply plant biology to food and garden production. And if the cellular and molecular machinery fascinates you, [cell biology](/cell-biology) and [molecular biology](/molecular-biology) provide the deeper foundations.
 
@@ -180,6 +180,6 @@ If the traditional study of plant diversity and classification interests you, [b
 
 Plants don't run, roar, or look at you with expressive eyes. They're easy to overlook --- a phenomenon botanists call "plant blindness." But plants are where the energy enters nearly every terrestrial ecosystem. They're the oxygen source, the carbon sink, the food supply, the medicine cabinet, and the structural foundation of every forest and grassland on Earth.
 
-Plant biology studies all of this: from the quantum physics of light capture in photosystems to the ecological dynamics of forests, from the genetics of crop improvement to the chemistry of plant defense. It's the science of the organisms that --- quietly, without anyone noticing --- keep the rest of us alive.
+Plant biology studies all of this: from the [quantum physics](/quantum-physics) of light capture in photosystems to the ecological dynamics of forests, from the genetics of crop improvement to the chemistry of plant defense. It's the science of the organisms that --- quietly, without anyone noticing --- keep the rest of us alive.
 
 Given that we're asking plants to feed 10 billion people, absorb our carbon emissions, and provide materials for a post-fossil-fuel economy, understanding them better isn't just academically interesting. It's necessary.

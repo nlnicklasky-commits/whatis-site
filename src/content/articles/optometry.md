@@ -79,7 +79,7 @@ The back of the eye (the retina, optic nerve, and blood vessels) is examined thr
 
 Modern eyeglass lenses are surprisingly high-tech. They're typically made from polycarbonate or high-index plastic (not glass, despite the name), can include anti-reflective coatings, UV protection, blue-light filtering, photochromic tinting (lenses that darken in sunlight), and progressive zones that smoothly transition from distance to near correction without visible lines.
 
-Progressive lenses — which replaced traditional bifocals for most wearers — are essentially custom-surfaced optics with continuously varying curvature. Getting them right requires precise measurements of pupillary distance, segment height, and frame fit.
+Progressive lenses — which replaced traditional bifocals for most wearers — are essentially custom-surfaced [optics](/optics) with continuously varying curvature. Getting them right requires precise measurements of pupillary distance, segment height, and frame fit.
 
 ### Contact Lenses
 

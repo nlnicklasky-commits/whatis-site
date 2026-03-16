@@ -91,7 +91,7 @@ A host-based IDS monitors activity on a single computer: system logs, file integ
 
 HIDS can detect attacks that don't cross the network — a malicious USB drive, a local privilege escalation, or file tampering. It can monitor encrypted traffic at the endpoint where it's decrypted. And it provides detailed visibility into what's happening on critical servers.
 
-The trade-off: you need to install and maintain HIDS software on every monitored system. On a network with thousands of servers and endpoints, that's significant [management](/management) overhead. HIDS also consumes resources on the monitored system, which matters for performance-sensitive servers.
+The [trade](/trade)-off: you need to install and maintain HIDS software on every monitored system. On a network with thousands of servers and endpoints, that's significant [management](/management) overhead. HIDS also consumes resources on the monitored system, which matters for performance-sensitive servers.
 
 **OSSEC** (now Wazuh) is the most widely deployed open-source HIDS, monitoring file integrity, logs, and rootkit detection across thousands of endpoints.
 

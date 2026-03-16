@@ -31,7 +31,7 @@ faq:
 
 # What Is Nursery [Management](/management)?
 
-Nursery management is the business and science of growing plants — trees, shrubs, flowers, vegetables, and ornamentals — in controlled conditions for commercial sale, [landscaping](/landscaping), reforestation, or transplanting. A plant nursery is essentially a factory where the product is alive, growing, and sensitive to weather, disease, pests, and timing. Managing one well requires equal parts botany, business sense, and careful planning.
+Nursery management is the business and science of growing plants — trees, shrubs, flowers, vegetables, and ornamentals — in controlled conditions for commercial sale, [landscaping](/landscaping), reforestation, or transplanting. A plant nursery is essentially a factory where the product is alive, growing, and sensitive to weather, disease, pests, and timing. Managing one well requires equal parts [botany](/botany), business sense, and careful planning.
 
 ## What Nurseries Actually Do
 
@@ -43,7 +43,7 @@ That's the core challenge: plants don't wait for customers. They grow on their o
 
 ## Types of Nurseries
 
-**Container nurseries** grow plants in pots ranging from small plugs to large 25-gallon containers. This is the dominant model for retail garden centers. Container production allows year-round sales, easy shipping, and control over growing media.
+**Container nurseries** grow plants in pots ranging from small plugs to large 25-gallon containers. This is the dominant model for retail garden centers. Container production allows year-round [sales](/sales), easy shipping, and control over growing media.
 
 **Field nurseries** grow plants directly in the ground, then dig and sell them as bare-root or balled-and-burlapped stock. Trees and large shrubs are commonly grown this way. Field production requires more land but less infrastructure than container growing.
 
@@ -89,6 +89,6 @@ The U.S. nursery and greenhouse industry generates roughly $15-20 billion in ann
 
 Consumer trends are shifting the market. Pollinator-friendly plants, native species, and drought-tolerant varieties are increasingly popular. The houseplant boom that accelerated during the COVID-19 pandemic continues to drive demand for indoor tropical plants.
 
-Climate change is forcing nurseries to adapt — shifting growing zones mean some traditional crops are becoming harder to produce in established locations, while new opportunities open in previously marginal areas. Water restrictions in drought-prone regions are pushing the industry toward more efficient irrigation and drought-adapted plant selections.
+[Climate change](/climate-change) is forcing nurseries to adapt — shifting growing zones mean some traditional crops are becoming harder to produce in established locations, while new opportunities open in previously marginal areas. Water restrictions in drought-prone regions are pushing the industry toward more efficient irrigation and drought-adapted plant selections.
 
 Nursery management combines the satisfaction of growing living things with the complexity of running a business where your inventory has its own ideas about timelines. It's not glamorous work, but every garden, park, reforestation project, and landscaped yard starts here.

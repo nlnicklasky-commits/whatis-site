@@ -41,7 +41,7 @@ Electrochemistry is the branch of [chemistry](/chemistry) that studies the relat
 
 Here's the core concept: certain chemical reactions involve the transfer of electrons from one substance to another. In ordinary chemistry, this transfer happens directly — the two substances touch, electrons jump, and the reaction proceeds. But in electrochemistry, you separate the two substances and force the electrons to travel through an external circuit to complete the reaction. That flow of electrons through a circuit? That's electricity.
 
-This is genuinely clever. You're taking a chemical reaction that *wants* to happen and routing its electrons through wires where they can do useful work — powering a motor, lighting a bulb, running your phone — before completing the reaction at the other end.
+This is genuinely clever. You're taking a chemical reaction that *wants* to happen and routing its electrons through wires where they can do useful work — powering a motor, lighting a bulb, [running](/running) your phone — before completing the reaction at the other end.
 
 The reverse also works. Feed electricity into certain chemical systems and you can force reactions that wouldn't occur spontaneously. This is electrolysis, and it's how we produce aluminum, chlorine, and hydrogen on industrial scales.
 
@@ -157,7 +157,7 @@ Despite their elegance, fuel cells face practical challenges. Platinum catalysts
 
 The infrastructure problem compounds everything. Building hydrogen refueling stations is expensive, and without stations, few people buy fuel cell vehicles. Without vehicles, there's no business case for stations. Breaking this chicken-and-egg cycle has proven difficult, which is why battery electric vehicles have pulled far ahead of fuel cell vehicles in the passenger car market.
 
-Fuel cells may find their niche in heavy transport (trucks, ships, trains), aviation, and stationary power generation — applications where batteries are too heavy and recharging time is too long.
+Fuel cells may find their niche in heavy transport (trucks, ships, trains), [aviation](/aviation), and stationary power generation — applications where batteries are too heavy and recharging time is too long.
 
 ## Corrosion: Electrochemistry You Didn't Ask For
 
@@ -185,7 +185,7 @@ Your body runs on electrochemistry. Nerve signals, muscle contractions, and cell
 
 Nerve cells maintain an electrochemical potential across their membranes using sodium-potassium pumps — protein machines that actively transport Na+ ions out and K+ ions in, creating a voltage difference of about -70 mV. When a nerve fires, ion channels open, allowing ions to rush across the membrane, rapidly changing the local voltage. This depolarization wave propagates down the nerve at speeds up to 120 m/s.
 
-The entire nervous system — every thought, sensation, and voluntary movement — operates on these electrochemical signals. [Biochemistry](/biochemistry) and electrochemistry are inseparable in biology.
+The entire nervous system — every thought, sensation, and voluntary movement — operates on these electrochemical signals. [Biochemistry](/biochemistry) and electrochemistry are inseparable in [biology](/biology).
 
 ### Cellular Respiration
 

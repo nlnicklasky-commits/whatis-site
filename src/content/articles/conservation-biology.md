@@ -39,7 +39,7 @@ faq:
 
 # What Is Conservation Biology?
 
-Conservation biology is the scientific discipline dedicated to understanding and protecting Earth's biological diversity — the variety of species, genes, and ecosystems that sustain life on this planet. It applies principles from ecology, genetics, [biogeography](/biogeography), and population biology to the practical challenge of preventing extinctions, restoring degraded habitats, and managing natural resources so they persist for future generations.
+Conservation [biology](/biology) is the scientific discipline dedicated to understanding and protecting Earth's biological diversity — the variety of species, genes, and ecosystems that sustain life on this planet. It applies principles from [ecology](/ecology), [genetics](/genetics), [biogeography](/biogeography), and population biology to the practical challenge of preventing extinctions, restoring degraded habitats, and managing natural resources so they persist for future generations.
 
 ## The Sixth Extinction: Why This Field Exists
 
@@ -47,7 +47,7 @@ We are living through a mass extinction event. That's not hyperbole — it's the
 
 The background extinction rate — the normal pace at which species disappear without human influence — is roughly 0.1-1 species per million species per year. The current rate is 100 to 1,000 times that. The Living Planet Report (2022) found that monitored wildlife populations declined by an average of 69% between 1970 and 2018. Not 6.9%. Sixty-nine percent. In under fifty years.
 
-Five times before in Earth's history, mass extinctions wiped out 75% or more of species. The last one, 66 million years ago, killed the [dinosaurs](/dinosaurs). What makes the current extinction different is its cause: us. Habitat destruction, overexploitation, pollution, invasive species, and climate change — all driven by human activity — are eliminating species faster than at any point since that asteroid hit.
+Five times before in Earth's history, mass extinctions wiped out 75% or more of species. The last one, 66 million years ago, killed the [dinosaurs](/dinosaurs). What makes the current extinction different is its cause: us. Habitat destruction, overexploitation, pollution, invasive species, and [climate change](/climate-change) — all driven by human activity — are eliminating species faster than at any point since that asteroid hit.
 
 Conservation biology emerged in the 1970s and 1980s as scientists recognized that traditional [wildlife management](/wildlife-management) and ecology weren't enough. Michael Soule, often called the father of conservation biology, described it as a "crisis discipline" — like medicine or emergency management, it makes decisions under uncertainty because waiting for perfect information means losing what you're trying to save.
 
@@ -77,7 +77,7 @@ Habitat fragmentation compounds the problem. A large forest supports more specie
 
 **Population growth and overexploitation** — directly harvesting more organisms than populations can replenish. Overfishing has collapsed fisheries worldwide — 34% of global fish stocks are overfished. Poaching threatens elephants, rhinos, pangolins, and hundreds of other species. The passenger pigeon, once the most abundant bird in North America with flocks of billions, was hunted to extinction by 1914.
 
-**Climate change** — the accelerating threat. Rising temperatures shift habitats faster than many species can migrate or adapt. Coral reefs — home to 25% of marine species — are bleaching and dying as ocean temperatures rise. Alpine and Arctic species are literally running out of habitat as temperatures push their ranges toward mountaintops and poles. Climate change is projected to threaten 15-37% of species with extinction by 2050 under moderate warming scenarios.
+**Climate change** — the accelerating threat. Rising temperatures shift habitats faster than many species can migrate or adapt. Coral reefs — home to 25% of marine species — are bleaching and dying as ocean temperatures rise. Alpine and Arctic species are literally [running](/running) out of habitat as temperatures push their ranges toward mountaintops and poles. Climate change is projected to threaten 15-37% of species with extinction by 2050 under moderate warming scenarios.
 
 ## Core Principles and Approaches
 
@@ -118,7 +118,7 @@ The Yellowstone to Yukon Conservation Initiative (Y2Y) aims to maintain connecte
 
 ### Ecosystem-Based Management
 
-Rather than managing individual species in isolation, ecosystem-based management protects entire ecological communities and the processes that sustain them. Protecting a watershed protects the fish, amphibians, invertebrates, riparian plants, and water quality simultaneously.
+Rather than managing individual species in isolation, ecosystem-based [management](/management) protects entire ecological communities and the processes that sustain them. Protecting a watershed protects the fish, amphibians, invertebrates, riparian plants, and water quality simultaneously.
 
 Wolves reintroduced to Yellowstone National Park in 1995 triggered a trophic cascade — wolves reduced elk numbers, which allowed willow and aspen to recover, which stabilized stream banks, which improved habitat for beavers and songbirds, which altered the physical course of rivers. One species, reintroduced, changed an entire ecosystem. This cascading effect demonstrates why ecosystem-level thinking matters.
 
@@ -142,7 +142,7 @@ These programs are expensive, labor-intensive, and not always successful. They'r
 
 Conservation that ignores local communities fails. People living alongside wildlife need economic incentives to protect rather than exploit it.
 
-Community conservancies in Kenya — where local communities manage wildlife areas and share tourism revenue — have increased wildlife populations across millions of acres. In Namibia, communal conservancies grew from zero in 1996 to 86 by 2020, covering over 166,000 square kilometers. Wildlife populations in conservancy areas have increased significantly, including populations of [endangered species](/animal-behavior) like black rhinos.
+Community conservancies in Kenya — where local communities manage wildlife areas and share [tourism](/tourism) revenue — have increased wildlife populations across millions of acres. In Namibia, communal conservancies grew from zero in 1996 to 86 by 2020, covering over 166,000 square kilometers. Wildlife populations in conservancy areas have increased significantly, including populations of [endangered species](/animal-behavior) like black rhinos.
 
 Payment for ecosystem services (PES) compensates landowners for maintaining forests, wetlands, or other ecosystems that provide public benefits like [water purification](/water-purification), carbon storage, and flood control. Costa Rica's PES program has contributed to the country reversing deforestation and more than doubling its forest cover since the 1980s.
 
@@ -152,7 +152,7 @@ Modern genetics provides powerful conservation tools:
 
 **Environmental DNA (eDNA)** — detecting species presence from DNA they shed into water or soil. A water sample from a stream can reveal which fish, amphibian, and invertebrate species live there, without catching or even seeing them. This makes species surveys faster, cheaper, and less invasive.
 
-**Population genetics** — assessing genetic diversity, detecting inbreeding, identifying distinct populations that merit separate conservation management, and tracking illegal wildlife trade by matching confiscated products to source populations.
+**Population genetics** — assessing genetic diversity, detecting inbreeding, identifying distinct populations that merit separate conservation management, and tracking illegal wildlife [trade](/trade) by matching confiscated products to source populations.
 
 **Genetic rescue** — introducing individuals from healthy populations to boost genetic diversity in threatened ones, as with the Florida panther. This is increasingly viewed as a critical tool for small, isolated populations.
 
@@ -196,7 +196,7 @@ Pristine wilderness is largely gone. Conservation must work in landscapes shared
 
 The "half-Earth" proposal (E.O. Wilson) — protecting 50% of Earth's surface for biodiversity — is scientifically defensible but politically and economically challenging. Where do you put 8 billion people and their food production on the other half?
 
-Pragmatic approaches focus on "working landscapes" — agriculture, forestry, and fisheries managed to maintain biodiversity alongside production. Shade-grown coffee supports far more bird species than sun-grown monocultures. Sustainably managed forests can provide timber while maintaining ecological function.
+Pragmatic approaches focus on "working landscapes" — agriculture, [forestry](/forestry), and fisheries managed to maintain biodiversity alongside production. Shade-grown coffee supports far more bird species than sun-grown monocultures. Sustainably managed forests can provide timber while maintaining ecological function.
 
 ### Triage: Who Do We Save?
 

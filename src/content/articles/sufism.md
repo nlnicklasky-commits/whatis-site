@@ -36,13 +36,13 @@ faq:
 ---
 
 # What Is Sufism?
-Sufism (Arabic: *tasawwuf*) is the mystical and ascetic tradition within Islam that seeks direct, personal experience of God through practices of devotion, meditation, remembrance, and spiritual purification. It emphasizes the inner dimensions of faith over outward ritual alone.
+Sufism (Arabic: *tasawwuf*) is the mystical and ascetic tradition within Islam that seeks direct, personal experience of God through practices of devotion, [meditation](/meditation), remembrance, and spiritual purification. It emphasizes the inner dimensions of faith over outward ritual alone.
 
-You might have encountered Sufism through Rumi's poetry — those gorgeous lines about love and longing that show up on Instagram and wedding invitations. But Sufism is far more than quotable verses. It's a living tradition that has shaped Islamic civilization for over a thousand years, producing some of the world's greatest [literature](/literature), music, art, and philosophy. And its core question is one that resonates across every culture: how do you experience the divine directly, not just believe in it?
+You might have encountered Sufism through Rumi's poetry — those gorgeous lines about love and longing that show up on Instagram and wedding invitations. But Sufism is far more than quotable verses. It's a living tradition that has shaped Islamic civilization for over a thousand years, producing some of the world's greatest [literature](/literature), music, art, and [philosophy](/philosophy). And its core question is one that resonates across every culture: how do you experience the divine directly, not just believe in it?
 
 ## Origins: Where Did Sufism Come From?
 
-The roots of Sufism trace back to the earliest decades of Islam, though scholars debate exactly when it became a distinct movement. The word "Sufi" likely comes from *suf* — the Arabic word for wool — referring to the coarse woolen garments worn by early Muslim ascetics as a sign of simplicity and detachment from worldly things.
+The roots of Sufism trace back to the earliest decades of Islam, though scholars [debate](/debate) exactly when it became a distinct movement. The word "Sufi" likely comes from *suf* — the Arabic word for wool — referring to the coarse woolen garments worn by early Muslim ascetics as a sign of simplicity and detachment from worldly things.
 
 In the first and second centuries of Islam (7th-8th centuries CE), certain Muslims began emphasizing renunciation, inner piety, and constant awareness of God's presence. As the Islamic empire expanded and wealth accumulated, some believers worried that the original spiritual intensity of the Prophet Muhammad's community was fading. They responded by turning inward.
 
@@ -60,7 +60,7 @@ This tension — between mystical experience and orthodox boundaries — has def
 
 ### The Golden Age (11th-13th Centuries)
 
-The greatest systematizer of Sufism was Abu Hamid al-Ghazali (1058-1111), a brilliant [philosopher](/aesthetics) and legal scholar who experienced a spiritual crisis, abandoned his prestigious teaching position in Baghdad, and spent years as a wandering Sufi. His masterwork, *Ihya Ulum al-Din* (Revival of the Religious Sciences), bridged the gap between orthodox Islamic scholarship and Sufi mysticism. Al-Ghazali argued that both were necessary — law without spirituality was dry formalism, and mysticism without law was dangerous antinomianism.
+The greatest systematizer of Sufism was Abu Hamid al-Ghazali (1058-1111), a brilliant [philosopher](/aesthetics) and legal scholar who experienced a spiritual crisis, abandoned his prestigious [teaching](/teaching) position in Baghdad, and spent years as a wandering Sufi. His masterwork, *Ihya Ulum al-Din* (Revival of the Religious Sciences), bridged the gap between orthodox Islamic scholarship and Sufi mysticism. Al-Ghazali argued that both were necessary — law without spirituality was dry formalism, and mysticism without law was dangerous antinomianism.
 
 Al-Ghazali's influence can hardly be overstated. He made Sufism respectable within mainstream Sunni Islam, and his synthesis shaped Islamic thought for centuries.
 
@@ -68,7 +68,7 @@ The 12th and 13th centuries saw Sufism's literary and philosophical golden age. 
 
 ## The Sufi Path: How Does It Work?
 
-Sufism isn't just theology — it's a practice, a discipline, a way of life. The Sufi path (*tariqa*) typically involves several key elements.
+Sufism isn't just [theology](/theology) — it's a practice, a discipline, a way of life. The Sufi path (*tariqa*) typically involves several key elements.
 
 ### The Master-Disciple Relationship
 
@@ -114,7 +114,7 @@ Founded by Abdul Qadir al-Jilani (1077-1166) in Baghdad, the Qadiriyya is one of
 
 ### The Naqshbandiyya
 
-Founded by Baha-ud-Din Naqshband (1318-1389) in Central Asia, this order emphasizes silent dhikr, sobriety over ecstasy, and active engagement with society and politics. The Naqshbandiyya has been particularly influential in Turkey, Central Asia, the Indian subcontinent, and the Caucasus.
+Founded by Baha-ud-Din Naqshband (1318-1389) in Central Asia, this order emphasizes silent dhikr, sobriety over ecstasy, and active engagement with society and [politics](/politics). The Naqshbandiyya has been particularly influential in Turkey, Central Asia, the Indian subcontinent, and the Caucasus.
 
 ### The Mevleviyya
 
@@ -144,13 +144,13 @@ Sufism has produced an extraordinary artistic legacy. Some of the greatest works
 
 The relationship between Sufism and mainstream Islamic orthodoxy has always been complicated. Periods of integration alternate with periods of tension and outright conflict.
 
-Al-Ghazali's synthesis in the 11th century brought Sufism into the mainstream of Sunni Islam. For centuries afterward, Sufi orders were woven into the fabric of Muslim societies — providing education, social services, spiritual guidance, and community cohesion. Many prominent Islamic scholars were also practicing Sufis.
+Al-Ghazali's synthesis in the 11th century brought Sufism into the mainstream of Sunni Islam. For centuries afterward, Sufi orders were woven into the fabric of Muslim societies — providing [education](/education), social services, spiritual guidance, and community cohesion. Many prominent Islamic scholars were also practicing Sufis.
 
 But critics have always existed. The 14th-century scholar Ibn Taymiyyah attacked what he saw as un-Islamic innovations in Sufi practice — saint worship, grave visitation, claims of union with God. His critiques influenced later reformist movements.
 
 In the 18th and 19th centuries, the Wahhabi movement in Arabia took an even harder line, condemning most Sufi practices as polytheism (*shirk*) and destroying Sufi shrines. This anti-Sufi stance has been amplified in the modern era by various Salafi movements, leading to destruction of Sufi sites in places like Libya, Mali, and Pakistan, and violence against Sufi practitioners.
 
-Despite this opposition, Sufism remains deeply embedded in Muslim life worldwide. In countries like Senegal, Turkey, Pakistan, Indonesia, and Morocco, Sufi traditions shape popular religion, music, poetry, and social structures. Estimates vary enormously, but hundreds of millions of Muslims worldwide practice some form of Sufism or are influenced by Sufi traditions.
+Despite this opposition, Sufism remains deeply embedded in Muslim life worldwide. In countries like Senegal, Turkey, Pakistan, Indonesia, and Morocco, Sufi traditions shape popular [religion](/religion), music, poetry, and social structures. Estimates vary enormously, but hundreds of millions of Muslims worldwide practice some form of Sufism or are influenced by Sufi traditions.
 
 ## Sufism in the Modern World
 

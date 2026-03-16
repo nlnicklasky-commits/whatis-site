@@ -91,8 +91,8 @@ Linnaeus's binomial nomenclature system is elegant in its simplicity. Every spec
 The names are typically derived from Latin or Greek, though they can honor people, describe features, or reference locations. *Dracorex hogwartsia* (a dinosaur named after Harry Potter's school) is technically valid nomenclature. So is *Spongiforma squarepantsii* (a mushroom named after SpongeBob SquarePants). Taxonomists occasionally have fun.
 
 Naming rules are governed by international codes:
-- **ICN** (International Code of Nomenclature for algae, fungi, and plants) — for botany
-- **ICZN** (International Commission on Zoological Nomenclature) — for zoology
+- **ICN** (International Code of Nomenclature for algae, fungi, and plants) — for [botany](/botany)
+- **ICZN** (International Commission on Zoological Nomenclature) — for [zoology](/zoology)
 - **ICNP** (International Code of Nomenclature of Prokaryotes) — for bacteria and archaea
 
 These codes establish priority rules (the first validly published name takes precedence), publication requirements, and naming standards. They prevent chaos — barely. Arguments over names can last decades.
@@ -112,7 +112,7 @@ DNA and RNA analysis transformed taxonomy starting in the late 20th century. By 
 The results have been startling. Molecular analysis showed that:
 - Fungi are more closely related to animals than to plants
 - Hippos are the closest living relatives of whales
-- The traditional "reptile" group is artificial — birds are dinosaurs, and crocodiles are more closely related to birds than to lizards
+- The traditional "reptile" group is artificial — birds are [dinosaurs](/dinosaurs), and crocodiles are more closely related to birds than to lizards
 - Many species that look identical are actually distinct (cryptic species)
 
 DNA barcoding — using a standardized short genetic sequence to identify species — has become a powerful tool. For animals, a ~650 base pair region of the mitochondrial COI gene can identify most species. It's like a genetic fingerprint system for the natural world.
@@ -149,13 +149,13 @@ Techniques like environmental DNA (eDNA) — detecting species from DNA traces l
 
 The principles of taxonomy — classification, hierarchy, naming conventions — show up far beyond biology:
 
-**Information science** — website navigation, library classification systems (Dewey Decimal, Library of Congress), and database organization all use taxonomic principles. When you browse categories on any website, you're using a taxonomy.
+**Information science** — website [navigation](/navigation), library classification systems (Dewey Decimal, Library of Congress), and database organization all use taxonomic principles. When you browse categories on any website, you're using a taxonomy.
 
 **[Linguistics](/linguistics)** — languages are classified into families, branches, and groups using methods that parallel biological taxonomy. The Indo-European language family, for instance, branches into Germanic, Romance, Slavic, and other subfamilies.
 
-**[Soil science](/soil-science)** — the USDA Soil Taxonomy classifies soils into 12 orders based on their properties and formation processes. It's used worldwide for agriculture, [engineering](/engineering), and environmental management.
+**[Soil science](/soil-science)** — the USDA Soil Taxonomy classifies soils into 12 orders based on their properties and formation processes. It's used worldwide for agriculture, [engineering](/engineering), and environmental [management](/management).
 
-**Business and marketing** — product taxonomies organize inventory, customer taxonomies segment audiences, and content taxonomies structure information. The term has been thoroughly adopted by the corporate world, though a Linnaean purist might wince at some of the applications.
+**Business and [marketing](/marketing)** — product taxonomies organize inventory, customer taxonomies segment audiences, and content taxonomies structure information. The term has been thoroughly adopted by the corporate world, though a Linnaean purist might wince at some of the applications.
 
 ## The Future of Taxonomy
 

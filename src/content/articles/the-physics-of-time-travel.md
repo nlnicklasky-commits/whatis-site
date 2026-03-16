@@ -37,7 +37,7 @@ faq:
 
 # What Is The Physics of Time Travel?
 
-The physics of time travel is the study of whether movement through time — beyond the normal forward flow everyone experiences — is permitted by the known laws of physics, what mechanisms might allow it, and what constraints or paradoxes arise from the possibility. Forward time travel is an established physical phenomenon; backward time travel remains one of the deepest open questions in theoretical physics.
+The [physics](/physics) of time travel is the study of whether movement through time — beyond the normal forward flow everyone experiences — is permitted by the known laws of physics, what mechanisms might allow it, and what constraints or paradoxes arise from the possibility. Forward time travel is an established physical phenomenon; backward time travel remains one of the deepest open questions in theoretical physics.
 
 ## You're Already a Time Traveler (Just Not a Very Exciting One)
 
@@ -45,11 +45,11 @@ Right now, as you read this sentence, you're traveling through time at a rate of
 
 This isn't [science fiction](/science-fiction). It's been measured.
 
-Atomic clocks flown on jets run slightly slower than identical clocks left on the ground. GPS satellites, orbiting at 20,200 km altitude, experience time about 38 microseconds faster per day than ground-based clocks — partly because they're moving fast (which slows time) and partly because they're higher in Earth's gravitational field (which speeds time up). If GPS didn't correct for these relativistic effects, your navigation would drift by about 10 km per day.
+Atomic clocks flown on jets run slightly slower than identical clocks left on the ground. GPS satellites, orbiting at 20,200 km altitude, experience time about 38 microseconds faster per day than ground-based clocks — partly because they're moving fast (which slows time) and partly because they're higher in Earth's gravitational field (which speeds time up). If GPS didn't correct for these relativistic effects, your [navigation](/navigation) would drift by about 10 km per day.
 
 Astronaut Scott Kelly spent 340 days on the International Space Station traveling at roughly 28,000 km/h. When he returned, he was approximately 5 milliseconds younger than his identical twin brother Mark. Five milliseconds. Measurable, verified, real — but not exactly useful.
 
-The point is this: time travel to the future isn't hypothetical. It's just a question of degree. If you could go faster or sit in a stronger gravitational field, you could skip ahead by years, decades, or centuries. The physics allows it. The engineering is the hard part.
+The point is this: time travel to the future isn't hypothetical. It's just a question of degree. If you could go faster or sit in a stronger gravitational field, you could skip ahead by years, decades, or centuries. The physics allows it. The [engineering](/engineering) is the hard part.
 
 ## Einstein's Gift — Special Relativity and Time Dilation
 
@@ -91,7 +91,7 @@ So forward time travel via velocity is possible in principle but requires absurd
 
 ## General Relativity — Gravity Bends Time
 
-In 1915, Einstein extended special relativity into general relativity, showing that gravity isn't a force — it's the curvature of spacetime caused by mass and energy. And just as velocity affects the flow of time, so does gravity.
+In 1915, Einstein extended special [relativity](/relativity) into [general relativity](/general-relativity), showing that gravity isn't a force — it's the curvature of spacetime caused by mass and energy. And just as velocity affects the flow of time, so does gravity.
 
 Clocks run slower in stronger gravitational fields. A clock on the surface of the Earth ticks slightly slower than one in orbit. A clock on the surface of a neutron star (where gravity is about 2 × 10^11 times stronger than Earth's) would run dramatically slower. Near the event horizon of a black hole, time essentially stops from an outside observer's perspective.
 
@@ -165,7 +165,7 @@ Quantum mechanics adds strange wrinkles to the time travel question.
 
 **[Quantum computing](/quantum-computing)** theorist David Deutsch proposed in 1991 that closed timelike curves, if they exist, could be analyzed using quantum mechanics. His model suggests that time travel would send you to a parallel quantum branch rather than your own past — sidestepping the grandfather paradox entirely.
 
-**Post-selection** in quantum mechanics — filtering results to keep only certain outcomes — turns out to be mathematically equivalent to certain time travel scenarios. Seth Lloyd at MIT has explored "post-selected closed timelike curves" that behave like time machines while avoiding paradoxes. The interpretation is controversial, but the mathematics is sound.
+**Post-selection** in quantum mechanics — filtering results to keep only certain outcomes — turns out to be mathematically equivalent to certain time travel scenarios. Seth Lloyd at MIT has explored "post-selected closed timelike curves" that behave like time machines while avoiding paradoxes. The interpretation is controversial, but the [mathematics](/mathematics) is sound.
 
 ## What Would a Time Machine Actually Look Like?
 
@@ -177,7 +177,7 @@ You'd need:
 3. The ability to move one wormhole mouth at near-light speed or place it near a massive object (staggering energy requirements)
 4. Patience — the time machine can only take you back to when it was first created, not to any arbitrary point in the past
 
-That last point is crucial and often overlooked. A Thorne time machine can only access the past back to the moment the wormhole time difference was established. You couldn't use it to visit the dinosaurs or watch the signing of the Declaration of Independence. You could only go back to when the machine was turned on.
+That last point is crucial and often overlooked. A Thorne time machine can only access the past back to the moment the wormhole time difference was established. You couldn't use it to visit the [dinosaurs](/dinosaurs) or watch the signing of the Declaration of Independence. You could only go back to when the machine was turned on.
 
 This also explains why we don't see time travelers from the future — if time machines are ever built, they can only reach back to when the first time machine was activated. Since no time machine has been activated yet (presumably), future travelers can't reach our era.
 

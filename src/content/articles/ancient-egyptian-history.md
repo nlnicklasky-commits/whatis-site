@@ -34,7 +34,7 @@ faq:
 ---
 
 # What Is Ancient Egyptian History?
-Ancient Egyptian history covers approximately 3,000 years of continuous civilization along the Nile River in northeastern Africa — from the unification of Upper and Lower Egypt around 3100 BCE to the Roman conquest in 30 BCE. It's one of the longest-lasting and most influential civilizations in human history, producing architectural marvels, writing systems, medical knowledge, and religious traditions that continue to fascinate and inform us today.
+Ancient Egyptian history covers approximately 3,000 years of continuous civilization along the Nile River in northeastern Africa — from the unification of Upper and Lower Egypt around 3100 BCE to the Roman conquest in 30 BCE. It's one of the longest-lasting and most influential civilizations in human history, producing architectural marvels, [writing](/writing) systems, medical knowledge, and religious traditions that continue to fascinate and inform us today.
 
 Here's a useful perspective: ancient Egypt was already ancient to the ancient Greeks. When the Greek historian Herodotus visited Egypt around 450 BCE, the Great Pyramid was already 2,000 years old. Cleopatra VII lived closer in time to the Moon landing than to the building of the pyramids. The sheer time scale is difficult to grasp.
 
@@ -42,7 +42,7 @@ Here's a useful perspective: ancient Egypt was already ancient to the ancient Gr
 
 You cannot understand Egyptian history without understanding the Nile. The Greek historian Herodotus called Egypt "the gift of the Nile," and he wasn't exaggerating.
 
-Egypt is essentially a desert with a river running through it. The Nile's annual flood cycle — predictable, reliable, and life-giving — deposited rich black silt across the floodplain every year, creating some of the most fertile agricultural land on Earth. This fertility supported a large, concentrated population that could produce food surpluses — and food surpluses are what make civilization possible.
+Egypt is essentially a desert with a river [running](/running) through it. The Nile's annual flood cycle — predictable, reliable, and life-giving — deposited rich black silt across the floodplain every year, creating some of the most fertile agricultural land on Earth. This fertility supported a large, concentrated population that could produce food surpluses — and food surpluses are what make civilization possible.
 
 The contrast was stark and visible. Black, fertile soil (kemet — "the black land," which is where Egypt gets its ancient name) gave way immediately to red desert sand (deshret — "the red land"). Life and death, literally side by side.
 
@@ -54,7 +54,7 @@ Egyptologists divide ancient Egyptian history into several main periods. The dat
 
 ### Predynastic Period (c. 6000-3100 BCE)
 
-Before the pharaohs, Nile Valley communities developed [agriculture](/agriculture), pottery, stone tools, and increasingly complex social organization. By about 3500 BCE, two distinct political entities had emerged: Upper Egypt (the southern Nile Valley) and Lower Egypt (the northern Nile Delta).
+Before the pharaohs, Nile Valley communities developed [agriculture](/agriculture), [pottery](/pottery), stone tools, and increasingly complex social organization. By about 3500 BCE, two distinct political entities had emerged: Upper Egypt (the southern Nile Valley) and Lower Egypt (the northern Nile Delta).
 
 ### Early Dynastic Period (c. 3100-2686 BCE)
 
@@ -68,21 +68,21 @@ This is when Egypt built the pyramids. And frankly, nothing else needs to be sai
 
 The Step Pyramid at Saqqara (c. 2650 BCE), designed by the architect Imhotep for Pharaoh Djoser, was the first monumental stone structure in history. Within a century, Egyptian engineers had progressed from this stepped design to the true pyramids at Giza.
 
-The Great Pyramid of Khufu (c. 2560 BCE) contains approximately 2.3 million stone blocks, each averaging 2.5 tons. It was built with remarkable precision — the base is level to within 2.1 centimeters across 230 meters. No one knows exactly how it was built (the "ramps versus levers versus counterweights" debate continues), but we know who built it: paid Egyptian workers, not enslaved people.
+The Great Pyramid of Khufu (c. 2560 BCE) contains approximately 2.3 million stone blocks, each averaging 2.5 tons. It was built with remarkable precision — the base is level to within 2.1 centimeters across 230 meters. No one knows exactly how it was built (the "ramps versus levers versus counterweights" [debate](/debate) continues), but we know who built it: paid Egyptian workers, not enslaved people.
 
 [Archaeological](/archaeology) excavations at workers' villages near Giza have revealed bakeries, breweries, medical facilities, and orderly cemeteries — evidence of an organized, fed, and cared-for workforce. These workers were likely a combination of full-time specialists and seasonal agricultural laborers who worked on [construction](/construction) during the flood months when farming was impossible.
 
 ### First Intermediate Period (c. 2181-2055 BCE)
 
-Central authority collapsed. Regional governors (nomarchs) became independent rulers. Climate change — reduced Nile floods — may have triggered famines that undermined pharaonic legitimacy. Egypt fragmented into competing kingdoms.
+Central authority collapsed. Regional governors (nomarchs) became independent rulers. [Climate change](/climate-change) — reduced Nile floods — may have triggered famines that undermined pharaonic legitimacy. Egypt fragmented into competing kingdoms.
 
-This period is often described negatively (ancient Egyptian texts call it a time of chaos), but it also produced some of Egypt's finest literature, including the philosophical *Dialogue of a Man with His Soul* and the [social commentary](/social-commentary) of *The Admonitions of Ipuwer*.
+This period is often described negatively (ancient Egyptian texts call it a time of chaos), but it also produced some of Egypt's finest [literature](/literature), including the philosophical *Dialogue of a Man with His Soul* and the [social commentary](/social-commentary) of *The Admonitions of Ipuwer*.
 
 ### Middle Kingdom (c. 2055-1650 BCE) — Egypt's Classical Age
 
 Reunification under Mentuhotep II launched what many Egyptologists consider Egypt's cultural high point. Middle Kingdom literature, art, and religious texts set standards that later periods consciously imitated.
 
-Pharaohs expanded territory southward into Nubia, built massive irrigation projects, and established trade networks reaching Lebanon, the Sinai, and the Red Sea coast. The Middle Kingdom also produced the earliest known Egyptian mathematical and medical texts.
+Pharaohs expanded territory southward into Nubia, built massive [irrigation](/irrigation) projects, and established [trade](/trade) networks reaching Lebanon, the Sinai, and the Red Sea coast. The Middle Kingdom also produced the earliest known Egyptian mathematical and medical texts.
 
 ### Second Intermediate Period (c. 1650-1550 BCE)
 
@@ -120,25 +120,25 @@ The Rosetta Stone — a decree from 196 BCE written in hieroglyphics, demotic, a
 
 ### Medicine
 
-Egyptian doctors were the ancient world's most respected physicians. The Edwin Smith Papyrus (c. 1600 BCE, likely copied from older texts) describes 48 surgical cases with startlingly modern observations — rational diagnosis, treatment procedures, and prognosis categories. Egyptian physicians performed surgery, set broken bones, and prescribed medications made from hundreds of plants and minerals.
+Egyptian doctors were the ancient world's most respected physicians. The Edwin Smith Papyrus (c. 1600 BCE, likely copied from older texts) describes 48 surgical cases with startlingly modern observations — rational diagnosis, treatment procedures, and prognosis categories. Egyptian physicians performed [surgery](/surgery), set broken bones, and prescribed medications made from hundreds of plants and minerals.
 
 They also had limitations. Magical incantations were prescribed alongside rational treatments, and their understanding of [anatomy](/anatomy) — despite practicing mummification — was limited by religious prohibitions on systematic dissection.
 
 ### Mathematics and Engineering
 
-Egyptian [mathematics](/mathematics) was practical rather than theoretical — focused on surveying land, calculating volumes, and managing resources. They used a base-10 system, calculated areas of circles using a value of pi accurate to about 99.6%, and solved algebraic equations centuries before the Greeks.
+Egyptian [mathematics](/mathematics) was practical rather than theoretical — focused on [surveying](/surveying) land, calculating volumes, and managing resources. They used a base-10 system, calculated areas of circles using a value of pi accurate to about 99.6%, and solved algebraic equations centuries before the Greeks.
 
-Their engineering achievements speak for themselves. Beyond the pyramids, Egyptians built massive temple complexes (Karnak covers over 200 acres), obelisks weighing hundreds of tons, and irrigation systems that maximized Nile flooding.
+Their [engineering](/engineering) achievements speak for themselves. Beyond the pyramids, Egyptians built massive temple complexes (Karnak covers over 200 acres), obelisks weighing hundreds of tons, and irrigation systems that maximized Nile flooding.
 
 ### Religion and the Afterlife
 
-Egyptian religion was extraordinarily complex, with hundreds of deities, elaborate mythology, and a deep preoccupation with the afterlife. The belief that proper burial and ritual could ensure eternal life drove the mummification tradition — and the construction of the pyramids and elaborate tombs.
+Egyptian religion was extraordinarily complex, with hundreds of deities, elaborate [mythology](/mythology), and a deep preoccupation with the afterlife. The belief that proper burial and ritual could ensure eternal life drove the mummification tradition — and the construction of the pyramids and elaborate tombs.
 
 The *Book of the Dead* — a collection of spells and instructions for navigating the afterlife — describes the weighing of the heart ceremony: the deceased's heart was weighed against the feather of Ma'at (truth and justice). If the heart was lighter than the feather, the soul entered paradise. If heavier — devoured by the monster Ammit.
 
 ## Why Ancient Egypt Still Matters
 
-Ancient Egypt's influence on Western civilization is deeper than most people realize. Greek [philosophy](/philosophy), science, and mathematics were all partly built on Egyptian foundations — something Greek writers themselves acknowledged. Egyptian religious concepts influenced [Christianity](/christianity) (the Isis-Horus mother-child imagery bears striking resemblance to Madonna and Child iconography). Egyptian architectural and artistic achievements set standards that architects and artists still reference.
+Ancient Egypt's influence on Western civilization is deeper than most people realize. Greek [philosophy](/philosophy), science, and mathematics were all partly built on Egyptian foundations — something Greek writers themselves acknowledged. Egyptian religious concepts influenced [Christianity](/christianity) (the Isis-Horus mother-child imagery bears striking resemblance to Madonna and Child [iconography](/iconography)). Egyptian architectural and artistic achievements set standards that architects and artists still reference.
 
 And the civilization itself raises questions that remain relevant: How do societies organize at massive scale? What happens when centralized authority weakens? How do cultures respond to climate change? How do people make meaning of death?
 

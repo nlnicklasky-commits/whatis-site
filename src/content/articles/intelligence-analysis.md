@@ -62,7 +62,7 @@ These techniques exist because intelligence failures — the Bay of Pigs, WMDs i
 
 The U.S. Intelligence Community (IC) comprises 18 organizations:
 
-The **CIA** handles foreign intelligence collection and analysis. The **NSA** focuses on signals intelligence and cybersecurity. The **DIA** provides military intelligence. The **FBI** handles domestic intelligence and counterterrorism. The **NGA** produces geospatial intelligence from satellite imagery. Each military branch has its own intelligence component.
+The **CIA** handles foreign intelligence collection and analysis. The **NSA** focuses on signals intelligence and [cybersecurity](/cybersecurity). The **DIA** provides military intelligence. The **FBI** handles domestic intelligence and counterterrorism. The **NGA** produces geospatial intelligence from satellite imagery. Each military branch has its own intelligence component.
 
 The **Director of National Intelligence (DNI)** coordinates across all 18 agencies — a position created after 9/11 to address the information-sharing failures that allowed the attacks.
 

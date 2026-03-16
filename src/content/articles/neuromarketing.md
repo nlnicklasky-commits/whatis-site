@@ -35,7 +35,7 @@ faq:
 
 # What Is Neuromarketing?
 
-Neuromarketing applies neuroscience methods to marketing research, measuring brain activity, eye movements, skin conductance, and other physiological signals to understand how consumers respond to products, advertisements, packaging, and brands. It goes beyond what people say they think and feels to reveal what their brains actually do.
+Neuromarketing applies neuroscience methods to [marketing](/marketing) research, measuring brain activity, eye movements, skin conductance, and other physiological signals to understand how consumers respond to products, advertisements, packaging, and brands. It goes beyond what people say they think and feels to reveal what their brains actually do.
 
 ## Why Marketers Started Scanning Brains
 
@@ -127,7 +127,7 @@ Beyond the headline-grabbing brain scans, neuromarketing has produced actionable
 
 ### Emotion Drives Memory and Purchase
 
-Ads that generate emotional responses are remembered better and drive more purchases than purely informational ads. This isn't just marketing folklore — brain imaging confirms it. Amygdala activation during ad viewing correlates with long-term memory formation. The [behavioral psychology](/behavioral-psychology) behind this is well-established: emotional events trigger norepinephrine release, which strengthens memory consolidation.
+Ads that generate emotional responses are remembered better and drive more purchases than purely informational ads. This isn't just marketing [folklore](/folklore) — brain imaging confirms it. Amygdala activation during ad viewing correlates with long-term memory formation. The [behavioral psychology](/behavioral-psychology) behind this is well-established: emotional events trigger norepinephrine release, which strengthens memory consolidation.
 
 But the relationship is complex. Extreme negative emotions can create strong memories but negative brand associations. The sweet spot is positive emotional arousal — surprise, delight, warmth, humor — that creates lasting positive memories tied to the brand.
 
@@ -167,7 +167,7 @@ Frito-Lay used neuromarketing to discover that their shiny, yellow packaging act
 
 ### Package Design
 
-Eye tracking and EEG guide packaging decisions: color, layout, imagery, typography, and shelf placement. Campbell's Soup famously used neuromarketing to redesign their labels, finding that steam rising from the bowl and a spoon created stronger positive emotional responses than their traditional design.
+Eye tracking and EEG guide packaging decisions: color, layout, imagery, [typography](/typography), and shelf placement. Campbell's Soup famously used neuromarketing to redesign their labels, finding that steam rising from the bowl and a spoon created stronger positive emotional responses than their traditional design.
 
 ### Retail Environment
 
@@ -191,11 +191,11 @@ If marketers can measure subconscious responses, can they manipulate consumers b
 
 In practice, this fear is overblown. There is no buy button. Consumer behavior is far too complex to be triggered by a single neural manipulation. Neuromarketing measures tendencies and preferences, not deterministic responses. People still make conscious decisions, and awareness of marketing intent provides some inoculation.
 
-But the concern isn't entirely unfounded. Marketing that specifically targets vulnerable populations — children, people with addictions, those with impulse control difficulties — using brain-based insights raises real ethical questions. The targeting of dopamine-driven engagement in social media and gaming, informed by [neuroscience](/neuroscience) principles, has produced documented harms.
+But the concern isn't entirely unfounded. Marketing that specifically targets vulnerable populations — children, people with addictions, those with impulse control difficulties — using brain-based insights raises real ethical questions. The targeting of dopamine-driven engagement in social media and [gaming](/gaming), informed by [neuroscience](/neuroscience) principles, has produced documented harms.
 
 ### Informed Consent and Privacy
 
-Neuromarketing research involves measuring brain activity — deeply personal data. Ethical standards require informed consent, data anonymization, and clear limitations on how neural data is used. The Neuromarketing Science and Business Association (NMSBA) Code of Ethics mandates these protections.
+Neuromarketing research involves measuring brain activity — deeply personal data. Ethical standards require informed consent, data anonymization, and clear limitations on how neural data is used. The Neuromarketing Science and Business Association (NMSBA) Code of [Ethics](/ethics) mandates these protections.
 
 But as consumer neurotechnology becomes more accessible — EEG headbands, emotion-reading webcams, biometric wearables — the line between research and surveillance blurs. If a retailer's cameras can read your emotional state as you shop, has consent been obtained? These questions don't have easy answers.
 

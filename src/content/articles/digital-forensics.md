@@ -51,9 +51,9 @@ Digital forensics follows a structured methodology. This isn't optional—courts
 
 ### Step 1: Identification
 
-Before touching anything, investigators identify potential sources of digital evidence. This includes the obvious—computers, phones, tablets, external drives—and the less obvious. Cloud accounts. Smart watches. Gaming consoles (yes, people have been caught through Xbox messages). Vehicle infotainment systems. IoT devices. Security cameras. Even printers, which sometimes store copies of recently printed documents.
+Before touching anything, investigators identify potential sources of digital evidence. This includes the obvious—computers, phones, tablets, external drives—and the less obvious. Cloud accounts. Smart watches. [Gaming](/gaming) consoles (yes, people have been caught through Xbox messages). Vehicle infotainment systems. IoT devices. Security cameras. Even printers, which sometimes store copies of recently printed documents.
 
-The identification phase also assesses volatility. Some evidence is fleeting: RAM contents disappear when a computer is powered off. Network connections close. Running processes terminate. Volatile evidence must be captured immediately, before more stable evidence like hard drive contents.
+The identification phase also assesses volatility. Some evidence is fleeting: RAM contents disappear when a computer is powered off. Network connections close. [Running](/running) processes terminate. Volatile evidence must be captured immediately, before more stable evidence like hard drive contents.
 
 ### Step 2: Preservation
 
@@ -177,7 +177,7 @@ Key certifications include:
 - **AccessData Certified Examiner (ACE)** — focused on FTK tools
 - **Cellebrite Certified Operator (CCO)** — focused on mobile forensics
 
-Most positions require at minimum a bachelor's degree in [computer science](/computer-science), cybersecurity, or a related field, plus specialized forensic training. Law enforcement forensic examiners typically attend agencies like the National Computer Forensics Institute (NCFI) or receive training through SANS, IACIS, or similar organizations.
+Most positions require at minimum a bachelor's degree in [computer science](/computer-science), [cybersecurity](/cybersecurity), or a related field, plus specialized forensic training. Law enforcement forensic examiners typically attend agencies like the National Computer Forensics Institute (NCFI) or receive training through SANS, IACIS, or similar organizations.
 
 ## The Tools of the Trade
 
@@ -197,11 +197,11 @@ The field faces several growing challenges.
 
 **Volume** is exploding. A single investigation might involve terabytes of data from dozens of devices. Reviewing this volume manually is impossible, pushing the field toward automated analysis and [machine-learning](/machine-learning)-assisted triage.
 
-**Encryption ubiquity** means more data is inaccessible by default. The debate between privacy rights and law enforcement access continues without clear resolution.
+**Encryption ubiquity** means more data is inaccessible by default. The [debate](/debate) between privacy rights and law enforcement access continues without clear resolution.
 
 **Cloud and IoT evidence** exists in formats and locations that traditional tools weren't designed to handle. New methodologies are developing, but the technology evolves faster than forensic practices can adapt.
 
-**Cryptocurrency** creates tracing challenges. While [blockchain](/blockchain) transactions are public, mixing services, privacy coins, and decentralized exchanges make following the money increasingly difficult—though not impossible, as several high-profile cases have demonstrated.
+**[Cryptocurrency](/cryptocurrency)** creates tracing challenges. While [blockchain](/blockchain) transactions are public, mixing services, privacy coins, and decentralized exchanges make following the money increasingly difficult—though not impossible, as several high-profile cases have demonstrated.
 
 **Deepfakes and AI-generated content** threaten the assumption that digital media is authentic evidence. As AI-generated images, audio, and video become indistinguishable from authentic content, forensic authentication of digital media becomes both more important and more difficult.
 

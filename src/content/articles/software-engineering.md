@@ -49,7 +49,7 @@ Margaret Hamilton — who led the team that wrote the flight software for NASA's
 
 The 1968 NATO conference wasn't overreacting. The "software crisis" was real, and its echoes persist.
 
-The fundamental problem: as hardware got more powerful, the software people wanted to run on it got more complex — exponentially more complex. Writing a 1,000-line program is straightforward. Writing a 100,000-line program is hard. Writing a 10,000,000-line program — the size of a modern operating system or web browser — requires coordination, methodology, and rigor that informal approaches simply cannot provide.
+The fundamental problem: as hardware got more powerful, the software people wanted to run on it got more complex — exponentially more complex. [Writing](/writing) a 1,000-line program is straightforward. Writing a 100,000-line program is hard. Writing a 10,000,000-line program — the size of a modern operating system or web browser — requires coordination, methodology, and rigor that informal approaches simply cannot provide.
 
 Frederick Brooks captured this in his 1975 book *The Mythical Man-Month*, based on his experience managing IBM's OS/360 project. His most famous observation: "Adding manpower to a late software project makes it later." Why? Because new people need training, communication overhead grows quadratically with team size, and work can't always be parallelized. Nine women can't make a baby in one month.
 
@@ -57,7 +57,7 @@ Brooks also introduced the distinction between "essential complexity" (inherent 
 
 ## The Development Process: How Software Gets Built
 
-Software engineering has experimented with many process models over the decades. Each represents a different philosophy about how to organize the messy, creative, uncertain work of building software.
+Software engineering has experimented with many process models over the decades. Each represents a different [philosophy](/philosophy) about how to organize the messy, creative, uncertain work of building software.
 
 ### Waterfall
 
@@ -82,7 +82,7 @@ The [Agile Manifesto](/agile-software-development), published in 2001 by 17 soft
 
 - Individuals and interactions over processes and tools
 - Working software over documentation
-- Customer collaboration over contract negotiation
+- Customer collaboration over contract [negotiation](/negotiation)
 - Responding to change over following a plan
 
 Agile isn't a specific methodology — it's a philosophy. Specific implementations include Scrum (two-week sprints, daily standups, sprint reviews), Extreme Programming (pair programming, test-driven development, continuous integration), and Kanban (visualizing workflow, limiting work in progress).
@@ -125,7 +125,7 @@ Every serious software project uses version control — a system that tracks cha
 
 Git, created by Linus Torvalds in 2005 (initially to manage Linux kernel development), dominates the field. Platforms like GitHub, GitLab, and Bitbucket add collaboration features — pull requests, code reviews, issue tracking — on top of Git's core functionality.
 
-Before version control, coordinating changes among multiple developers was genuinely nightmarish. Two people editing the same file? One's changes would overwrite the other's. Need to undo last week's change? Hope you kept a backup. Version control solved these problems so thoroughly that it's hard to imagine professional software development without it.
+Before version control, coordinating changes among multiple developers was genuinely nightmarish. Two people [editing](/editing) the same file? One's changes would overwrite the other's. Need to undo last week's change? Hope you kept a backup. Version control solved these problems so thoroughly that it's hard to imagine professional software development without it.
 
 ### Code Review
 
@@ -174,7 +174,7 @@ The ACM Code of Ethics and the IEEE Code of Ethics provide guidelines, but enfor
 
 ## Software Engineering by the Numbers
 
-Some statistics that capture the state of the field:
+Some [statistics](/statistics) that capture the state of the field:
 
 - The global software market was valued at approximately $659 billion in 2023
 - There are an estimated 28 million software developers worldwide
@@ -188,7 +188,7 @@ Some statistics that capture the state of the field:
 
 Several trends are reshaping the discipline.
 
-**AI-assisted development.** Tools like GitHub Copilot, ChatGPT, and similar [AI](/machine-learning) code assistants are changing how code gets written. They don't replace engineers, but they change the skill mix — less memorization of syntax, more skill in reviewing, prompting, and integrating generated code.
+**AI-assisted development.** Tools like GitHub Copilot, ChatGPT, and similar [AI](/machine-learning) code assistants are changing how code gets written. They don't replace engineers, but they change the skill mix — less memorization of [syntax](/syntax), more skill in reviewing, prompting, and integrating generated code.
 
 **Platform engineering.** Instead of expecting every developer to manage their own infrastructure, organizations are building internal developer platforms — standardized toolchains that handle deployment, monitoring, and [security](/information-security) so that product engineers can focus on features.
 

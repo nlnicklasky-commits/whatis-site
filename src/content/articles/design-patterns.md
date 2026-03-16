@@ -61,7 +61,7 @@ The problem? Singletons introduce global state, which makes testing painful and 
 
 **Factory Method** lets you create objects without specifying their exact class. You call a factory method, and it decides which concrete class to instantiate based on some input. This is incredibly useful when your code needs to work with objects that share an interface but differ in implementation. Think about a document editor that needs to create different types of documents—PDF, Word, HTML—without the rest of the code caring which type it gets.
 
-**Abstract Factory** takes this further by providing an interface for creating families of related objects. A UI toolkit might have a Windows factory that produces Windows-style buttons, scrollbars, and menus, and a Mac factory that produces Mac-style equivalents. Your application code works with abstract interfaces and never knows which platform it's running on.
+**Abstract Factory** takes this further by providing an interface for creating families of related objects. A UI toolkit might have a Windows factory that produces Windows-style buttons, scrollbars, and menus, and a Mac factory that produces Mac-style equivalents. Your application code works with abstract interfaces and never knows which platform it's [running](/running) on.
 
 **Builder** separates the [construction](/construction) of a complex object from its representation. If you've ever dealt with constructors that take 15 parameters, Builder is your friend. Instead of `new Pizza(true, false, true, "large", "thin", true, false, 3)`, you get `Pizza.builder().large().thinCrust().pepperoni().mushrooms().build()`. Much more readable. Much harder to mess up.
 
@@ -91,11 +91,11 @@ Behavioral patterns manage communication and responsibility between objects. The
 
 **Observer** defines a subscription mechanism where objects (observers) register to be notified when another object (the subject) changes state. This is everywhere—event listeners in UI frameworks, pub/sub messaging, reactive programming. When you add a click handler to a button in JavaScript, you're using Observer. When you subscribe to state changes in a Redux store, Observer again.
 
-**Strategy** lets you define a family of [algorithms](/algorithms) and swap them at runtime. A sorting function might accept different comparison strategies. A payment system might support multiple payment processors. A [navigation](/navigation) app might switch between driving, walking, and transit route calculations. The key insight: extract the varying behavior into its own interface, and inject the specific implementation you need.
+**Strategy** lets you define a family of [algorithms](/algorithms) and swap them at runtime. A sorting function might accept different comparison strategies. A payment system might support multiple payment processors. A [navigation](/navigation) app might switch between driving, [walking](/walking), and transit route calculations. The key insight: extract the varying behavior into its own interface, and inject the specific implementation you need.
 
 **Command** encapsulates a request as an object, letting you parameterize, queue, log, and undo operations. Every undo/redo system you've ever used is built on Command. Each action becomes an object with `execute()` and `undo()` methods. Store them in a stack, and you've got undo history.
 
-**Iterator** provides a way to access elements of a collection sequentially without exposing the underlying representation. Python's `for item in collection` syntax, Java's `Iterator` interface, JavaScript's `for...of` loops—these are all Iterator implementations. You don't care whether the underlying data is an array, linked list, tree, or database cursor. You just ask for the next element.
+**Iterator** provides a way to access elements of a collection sequentially without exposing the underlying representation. Python's `for item in collection` [syntax](/syntax), Java's `Iterator` interface, JavaScript's `for...of` loops—these are all Iterator implementations. You don't care whether the underlying data is an array, linked list, tree, or database cursor. You just ask for the next element.
 
 **State** lets an object alter its behavior when its internal state changes. A TCP connection behaves differently when it's listening, connected, or closed. A vending machine responds differently to coin insertion when it's idle, has-money, or dispensing. Instead of massive switch statements, State encapsulates each behavior in its own class.
 
@@ -145,7 +145,7 @@ Functional programming brings its own pattern vocabulary. Monads handle side eff
 
 ### Architectural Patterns
 
-As software grew more complex, patterns scaled up from class-level to system-level. Model-View-Controller (MVC) separates data, presentation, and logic. Microservices decompose monoliths into independently deployable services. Event sourcing records all state changes as a sequence of events. CQRS separates read and write operations.
+As software grew more complex, patterns scaled up from class-level to system-level. Model-View-Controller (MVC) separates data, presentation, and [logic](/logic). Microservices decompose monoliths into independently deployable services. Event sourcing records all state changes as a sequence of events. CQRS separates read and write operations.
 
 These architectural patterns borrow heavily from the GoF principles—separation of concerns, loose coupling, single responsibility—but apply them at a much larger scale. If you understand the small patterns, the big ones feel natural.
 
@@ -153,7 +153,7 @@ These architectural patterns borrow heavily from the GoF principles—separation
 
 An interesting development: [machine learning](/machine-learning) systems have spawned their own pattern vocabulary. The Pipeline pattern chains preprocessing, feature extraction, model training, and evaluation. The Feature Store pattern centralizes feature computation and storage. The Model Registry pattern tracks model versions and deployments.
 
-These aren't GoF patterns, but they follow the same philosophy: identify recurring problems, document proven solutions, and give them names so teams can communicate efficiently.
+These aren't GoF patterns, but they follow the same [philosophy](/philosophy): identify recurring problems, document proven solutions, and give them names so teams can communicate efficiently.
 
 ## The SOLID Connection
 
@@ -161,7 +161,7 @@ Design patterns and SOLID principles are deeply intertwined. SOLID—Single Resp
 
 **Single Responsibility** is why patterns extract specific behaviors into separate classes. Strategy extracts algorithms. Observer extracts notification logic. Command extracts operations.
 
-**Open/Closed** is why patterns use composition and interfaces rather than modifying existing code. You extend behavior by adding new Strategy implementations, not by editing existing conditionals.
+**Open/Closed** is why patterns use composition and interfaces rather than modifying existing code. You extend behavior by adding new Strategy implementations, not by [editing](/editing) existing conditionals.
 
 **Dependency Inversion** is why patterns work with abstractions rather than concrete classes. Your code depends on an interface, and patterns provide different concrete implementations of that interface.
 
@@ -217,8 +217,8 @@ These three principles explain virtually every pattern in the catalog. Master th
 
 ## Key Takeaways
 
-Design patterns are proven solutions to recurring software problems, first cataloged by the Gang of Four in 1994 but drawing from architectural theory that's much older. They fall into creational patterns (how you make objects), structural patterns (how you organize objects), and behavioral patterns (how objects communicate).
+Design patterns are proven solutions to recurring software problems, first cataloged by the Gang of Four in 1994 but [drawing](/drawing) from architectural theory that's much older. They fall into creational patterns (how you make objects), structural patterns (how you organize objects), and behavioral patterns (how objects communicate).
 
 The patterns themselves matter less than the principles behind them: composition over inheritance, programming to interfaces, and encapsulating variation. In modern programming—with active languages, functional paradigms, and microservice architectures—the original 23 patterns have evolved, but the underlying ideas remain as relevant as they were 30 years ago.
 
-Use patterns when they genuinely simplify your code. Skip them when they don't. That judgment—knowing when a pattern helps versus when it hurts—is the real skill, and it only comes from writing code, making mistakes, and learning from both.
+Use patterns when they genuinely simplify your code. Skip them when they don't. That judgment—knowing when a pattern helps versus when it hurts—is the real skill, and it only comes from [writing](/writing) code, making mistakes, and learning from both.

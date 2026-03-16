@@ -41,9 +41,9 @@ It's the science of other worlds. And right now, it's in a golden age.
 
 ## A Science of Many Sciences
 
-Planetary science is unusual because it's not really a single discipline. It's a mashup of [geology](/geology), [chemistry](/chemistry), physics, [astronomy](/astronomy), [biology](/biology), and atmospheric science, all focused on understanding worlds other than Earth.
+Planetary science is unusual because it's not really a single discipline. It's a mashup of [geology](/geology), [chemistry](/chemistry), [physics](/physics), [astronomy](/astronomy), [biology](/biology), and atmospheric science, all focused on understanding worlds other than Earth.
 
-A planetary scientist studying Mars might need to understand volcanism (geology), atmospheric chemistry, orbital mechanics (physics), mineralogy (chemistry), and the potential for microbial life (biology) --- all for a single research question. This interdisciplinary nature is what makes the field both challenging and exciting.
+A planetary scientist studying Mars might need to understand volcanism (geology), atmospheric chemistry, orbital mechanics (physics), [mineralogy](/mineralogy) (chemistry), and the potential for microbial life (biology) --- all for a single research question. This interdisciplinary nature is what makes the field both challenging and exciting.
 
 The discipline crystallized in the 1960s, when space missions began returning actual data from other worlds. Before that, planetary study was mostly telescopic astronomy --- squinting at fuzzy disks through eyepieces and speculating about canals on Mars. Spacecraft changed everything. Suddenly, we had close-up photographs, chemical analyses, and surface measurements. Planets became places, not points of light.
 
@@ -55,7 +55,7 @@ The solar system formed about 4.57 billion years ago from a collapsing cloud of 
 
 Mercury, Venus, Earth, and Mars are small, rocky worlds close to the Sun. They formed in the warmer inner solar system where only metals and silicates could condense from the solar nebula.
 
-**Mercury** is a strange little world. It's the smallest planet (about 38% of Earth's diameter) but has a proportionally enormous iron core --- roughly 85% of its radius. Something stripped away much of its outer rocky layers early in solar system history. A giant impact? Solar winds? Planetary scientists debate this. Mercury's surface is heavily cratered, resembling the Moon, and it has no atmosphere worth mentioning --- daytime temperatures reach 430 degrees C while nighttime drops to -180 degrees C.
+**Mercury** is a strange little world. It's the smallest planet (about 38% of Earth's diameter) but has a proportionally enormous iron core --- roughly 85% of its radius. Something stripped away much of its outer rocky layers early in solar system history. A giant impact? Solar winds? Planetary scientists [debate](/debate) this. Mercury's surface is heavily cratered, resembling the Moon, and it has no atmosphere worth mentioning --- daytime temperatures reach 430 degrees C while nighttime drops to -180 degrees C.
 
 **Venus** is Earth's evil twin. Nearly identical in size and mass to Earth, it took a radically different evolutionary path. Its atmosphere is 96% carbon dioxide with a surface pressure 92 times Earth's. Surface temperature: 465 degrees C --- hotter than Mercury despite being nearly twice as far from the Sun. This extreme greenhouse effect makes Venus the clearest example in the solar system of what runaway carbon dioxide accumulation does to a planet.
 
@@ -148,7 +148,7 @@ Planetary evolution is a central theme. Earth, Venus, and Mars started with simi
 
 Planetary science uses a range of exploration strategies:
 
-**Ground-based telescopes** provide ongoing observations of solar system objects. Adaptive optics systems now achieve resolution approaching space-based telescopes.
+**Ground-based telescopes** provide ongoing observations of solar system objects. Adaptive [optics](/optics) systems now achieve resolution approaching space-based telescopes.
 
 **Space telescopes** like JWST and Hubble observe objects without atmospheric interference.
 

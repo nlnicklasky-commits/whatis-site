@@ -51,13 +51,13 @@ Rome conquered the Iberian Peninsula over two brutal centuries (218 BCE to 19 BC
 
 Once pacified, Hispania (as the Romans called it) became one of the empire's most important provinces. It produced emperors (Trajan, Hadrian, Theodosius I), philosophers (Seneca), poets (Martial, Lucan), and enormous quantities of olive oil, wine, grain, and metals — particularly gold, silver, and copper. Roman [engineering](/engineering) transformed the peninsula: roads, bridges (the bridge at Alcantara still stands), aqueducts (Segovia's aqueduct, built without mortar, survived nearly 2,000 years), and cities.
 
-Latin replaced the indigenous languages (except Basque), and Roman law, religion, and culture became the foundation of Iberian civilization. When [Christianity](/christianity) spread through the empire, Iberia adopted it enthusiastically. By the 4th century, Hispania was one of Christendom's most solidly Christian regions.
+Latin replaced the indigenous languages (except Basque), and [Roman law](/roman-law), [religion](/religion), and culture became the foundation of Iberian civilization. When [Christianity](/christianity) spread through the empire, Iberia adopted it enthusiastically. By the 4th century, Hispania was one of Christendom's most solidly Christian regions.
 
 ## The Visigothic Interlude
 
 When the Western Roman Empire collapsed in the 5th century, Iberia was overrun by Germanic peoples — Vandals, Suebi, and Alans — before being largely unified under the Visigoths by the late 6th century. The Visigothic kingdom lasted until 711, and its significance is often underestimated.
 
-The Visigoths converted from Arianism to Catholicism in 589 under King Reccared, unifying the ruling elite with the Hispanic-Roman majority population. They developed a legal code (the *Liber Iudiciorum* of 654) that would influence Iberian law for centuries. And their political instability — the Visigothic monarchy was elective rather than hereditary, leading to constant succession disputes — ultimately opened the door to conquest.
+The Visigoths converted from Arianism to Catholicism in 589 under King Reccared, unifying the ruling elite with the Hispanic-Roman majority population. They developed a legal code (the *Liber Iudiciorum* of 654) that would influence Iberian law for centuries. And their political instability — the Visigothic [monarchy](/monarchy) was elective rather than hereditary, leading to constant succession disputes — ultimately opened the door to conquest.
 
 ## Al-Andalus: When Muslims Ruled Most of Iberia
 
@@ -65,9 +65,9 @@ In 711, a Berber-Arab army under Tariq ibn Ziyad crossed the Strait of Gibraltar
 
 The resulting civilization — al-Andalus — became one of the most remarkable in [medieval history](/medieval-history). Under the Umayyad Caliphate of Cordoba (929-1031), Iberia was arguably the most culturally and intellectually advanced region in Europe. Cordoba itself was one of the largest cities in the world, with a population estimated at over 100,000 — compared to London's roughly 10,000 at the same time.
 
-Al-Andalus excelled in areas where the rest of Europe lagged. [Mathematics](/mathematics) (the transmission of Indian-Arabic numerals to Europe came largely through Iberia), [astronomy](/astronomy), medicine, philosophy, [architecture](/architecture), and [agriculture](/agriculture) all flourished. The [translation](/translation) movement — in which Arabic texts of Aristotle, Galen, Ptolemy, and other classical authors were translated into Latin, often by Jewish intermediaries — transmitted vast amounts of knowledge to a European intellectual world that had largely lost access to these works.
+Al-Andalus excelled in areas where the rest of Europe lagged. [Mathematics](/mathematics) (the transmission of Indian-Arabic numerals to Europe came largely through Iberia), [astronomy](/astronomy), medicine, [philosophy](/philosophy), [architecture](/architecture), and [agriculture](/agriculture) all flourished. The [translation](/translation) movement — in which Arabic texts of Aristotle, Galen, Ptolemy, and other classical authors were translated into Latin, often by Jewish intermediaries — transmitted vast amounts of knowledge to a European intellectual world that had largely lost access to these works.
 
-The relationship between Muslims, Christians, and Jews in al-Andalus was complicated. The term *convivencia* ("living together") is sometimes used to describe it, though scholars debate how rosy the reality actually was. Christians and Jews were dhimmis — protected religious minorities who could practice their faiths but faced legal restrictions and special taxation. There were genuine periods of intellectual collaboration and cultural exchange, but also episodes of persecution, forced conversion, and violence. It was neither a utopia nor a nightmare — it was messy, like most of history.
+The relationship between Muslims, Christians, and Jews in al-Andalus was complicated. The term *convivencia* ("living together") is sometimes used to describe it, though scholars [debate](/debate) how rosy the reality actually was. Christians and Jews were dhimmis — protected religious minorities who could practice their faiths but faced legal restrictions and special taxation. There were genuine periods of intellectual collaboration and cultural exchange, but also episodes of persecution, forced conversion, and violence. It was neither a utopia nor a nightmare — it was messy, like most of history.
 
 ## The Reconquista: Seven Centuries of Slow-Motion Conquest
 
@@ -89,7 +89,7 @@ Portugal's smaller population — roughly one million in the early 16th century 
 
 ## Decline, Dictatorship, and Democracy
 
-Both Iberian powers declined as maritime and economic leadership shifted to the Dutch, British, and French. Spain lost most of its American colonies in the early 19th century. Portugal lost Brazil in 1822. Both countries experienced political instability, military coups, and civil conflicts throughout the 19th and early 20th centuries.
+Both Iberian powers declined as maritime and economic [leadership](/leadership) shifted to the Dutch, British, and French. Spain lost most of its American colonies in the early 19th century. Portugal lost Brazil in 1822. Both countries experienced political instability, military coups, and civil conflicts throughout the 19th and early 20th centuries.
 
 The 20th century brought dictatorships to both countries. Spain endured a devastating Civil War (1936-1939) — in which roughly 500,000 people died — followed by Francisco Franco's authoritarian regime, which lasted until his death in 1975. Portugal lived under Antonio de Oliveira Salazar's Estado Novo from 1933 to 1974, ending with the peaceful Carnation Revolution.
 
@@ -97,6 +97,6 @@ Both countries transitioned to democracy in the 1970s and joined the European Ec
 
 ## Why Iberian History Matters
 
-The Iberian Peninsula is a case study in how geography shapes history. Its position between Europe and Africa, between the Mediterranean and the Atlantic, made it a meeting point where civilizations collided and blended. The result is a cultural richness that's visible everywhere — in the Moorish architecture of Andalusia, in the Gothic cathedrals of Castile, in the Fado music of Lisbon, in the Basque cuisine of San Sebastian.
+The Iberian Peninsula is a case study in how [geography](/geography) shapes history. Its position between Europe and Africa, between the Mediterranean and the Atlantic, made it a meeting point where civilizations collided and blended. The result is a cultural richness that's visible everywhere — in the Moorish architecture of Andalusia, in the Gothic cathedrals of Castile, in the Fado music of Lisbon, in the Basque cuisine of San Sebastian.
 
 Iberian history also matters because its consequences are global. The Spanish and Portuguese empires shaped Latin America, the Philippines, large parts of Africa, and maritime Southeast Asia. Understanding Iberian [history](/european-history) is essential to understanding the modern world — its languages, its religious geography, its economic patterns, and its ongoing debates about colonialism, identity, and cultural inheritance.

@@ -53,7 +53,7 @@ Getting requirements right is critical. Studies consistently show that fixing a 
 
 The architect defines the system's overall structure — major components, how they interact, and what each one is responsible for. This is where the big decisions get made: how many subsystems, what technologies, what interfaces.
 
-A good architecture makes the right tradeoffs between performance, cost, weight, power consumption, reliability, and manufacturability. These tradeoffs are constant and competing — improving one often degrades another.
+A good [architecture](/architecture) makes the right tradeoffs between performance, cost, weight, power consumption, reliability, and manufacturability. These tradeoffs are constant and competing — improving one often degrades another.
 
 ### Design and Development
 

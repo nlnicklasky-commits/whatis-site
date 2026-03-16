@@ -41,11 +41,11 @@ The Jacobean era is the period of English (and Scottish) history corresponding t
 
 James Stuart was already King James VI of Scotland when he inherited the English throne in 1603. Elizabeth I had died childless — the last of the Tudor dynasty — and James was her closest living relative, descended from Henry VII through his great-grandmother Margaret Tudor.
 
-The transition was smoother than anyone had feared. Elizabeth's chief minister, Robert Cecil, managed a seamless succession. James rode south from Edinburgh to London in a journey that took over a month, stopping to enjoy the hospitality (and the hunting) along the way. He arrived to genuine enthusiasm — after 45 years of Elizabeth, people were simply curious about somebody new.
+The transition was smoother than anyone had feared. Elizabeth's chief minister, Robert Cecil, managed a seamless succession. James rode south from Edinburgh to London in a journey that took over a month, stopping to enjoy the hospitality (and the [hunting](/hunting)) along the way. He arrived to genuine enthusiasm — after 45 years of Elizabeth, people were simply curious about somebody new.
 
 But James was a different kind of monarch. Where Elizabeth had been carefully ambiguous, theatrical, and politically shrewd, James was blunt, intellectual, and — to English sensibilities — somewhat odd. He was physically awkward, spoke with a thick Scottish accent, and had an uncomfortably public fondness for handsome male favorites. The English court, accustomed to Elizabeth's calculated grandeur, wasn't sure what to make of him.
 
-Yet James was genuinely learned. He'd published books on kingship, witchcraft, and poetry. He believed passionately in the divine right of kings — the idea that monarchs derive their authority directly from God, not from the consent of the governed. This belief would have enormous consequences for [English history](/english-history), though its worst effects fell on his son, Charles I.
+Yet James was genuinely learned. He'd published books on kingship, witchcraft, and [poetry](/poetry). He believed passionately in the divine right of kings — the idea that monarchs derive their authority directly from God, not from the consent of the governed. This belief would have enormous consequences for [English history](/english-history), though its worst effects fell on his son, Charles I.
 
 ## The Gunpowder Plot (1605)
 
@@ -63,9 +63,9 @@ If James accomplished one thing that outlasted all his political maneuvering, it
 
 James ordered the translation at the Hampton Court Conference of 1604, partly to resolve disputes between Puritan and Anglican factions. He appointed 47 scholars, divided into six companies, who worked from the original Hebrew and Greek texts while consulting earlier English translations (particularly William Tyndale's pioneering work from the 1530s).
 
-The result was a literary masterpiece. The translators achieved a register that was elevated without being pompous, rhythmically beautiful without sacrificing clarity. Phrases from the KJV saturate English to this day: "the powers that be," "a law unto themselves," "the salt of the earth," "to everything there is a season," "the writing on the wall," "a wolf in sheep's clothing."
+The result was a literary masterpiece. The translators achieved a register that was elevated without being pompous, rhythmically beautiful without sacrificing clarity. Phrases from the KJV saturate English to this day: "the powers that be," "a law unto themselves," "the salt of the earth," "to everything there is a season," "the [writing](/writing) on the wall," "a wolf in sheep's clothing."
 
-The Bible's influence extended far beyond [religion](/christianity). It shaped English prose style for centuries. Writers from John Milton to Herman Melville to Toni Morrison drew on its cadences. Abraham Lincoln's speeches echo its rhythms. The KJV is simultaneously a work of theology, literature, and cultural infrastructure — the shared textual foundation of English-speaking civilization.
+The Bible's influence extended far beyond [religion](/christianity). It shaped English [prose](/prose) style for centuries. Writers from John Milton to Herman Melville to Toni Morrison drew on its cadences. Abraham Lincoln's speeches echo its rhythms. The KJV is simultaneously a work of [theology](/theology), [literature](/literature), and cultural infrastructure — the shared textual foundation of English-speaking civilization.
 
 ## Shakespeare's Later Works
 
@@ -75,7 +75,7 @@ The Jacobean Shakespeare is darker, more psychologically complex, and more ambig
 
 Other Jacobean playwrights produced work that's less well known but equally revealing. John Webster's *The Duchess of Malfi* (1614) and *The White Devil* (1612) are revenge tragedies of almost unbearable intensity — full of murder, corruption, and moral ambiguity. Ben Jonson's satirical comedies, particularly *Volpone* (1606) and *The Alchemist* (1610), skewered greed and pretension with surgical precision.
 
-Jacobean drama as a genre tends toward darkness. Violence, betrayal, moral corruption, and the abuse of power are its recurring themes. Scholars have debated why — was it a reaction to Elizabethan optimism? A response to political anxieties? A reflection of genuine social problems? Probably all of the above.
+Jacobean [drama](/drama) as a genre tends toward darkness. Violence, betrayal, moral corruption, and the abuse of power are its recurring themes. Scholars have debated why — was it a reaction to Elizabethan optimism? A response to political anxieties? A reflection of genuine social problems? Probably all of the above.
 
 ## Crown vs. Parliament
 
@@ -83,7 +83,7 @@ The relationship between James and Parliament was tense from the start and got w
 
 James inherited Elizabeth's debts and added to them through lavish spending on his court, his favorites, and gifts. Parliament controlled taxation. James believed his authority came from God and resented parliamentary interference. Parliament believed it had the right to approve new taxes and air grievances before granting money. Neither side would budge.
 
-Between 1604 and 1611, James and his first Parliament argued almost continuously about royal prerogative, religious policy, and finance. James dissolved Parliament in 1611 and tried to govern without it for three years — raising money through feudal dues, monopolies, and the sale of titles (the rank of baronet, created in 1611, was explicitly sold for cash).
+Between 1604 and 1611, James and his first Parliament argued almost continuously about royal prerogative, religious policy, and [finance](/finance). James dissolved Parliament in 1611 and tried to govern without it for three years — raising money through feudal dues, monopolies, and the sale of titles (the rank of baronet, created in 1611, was explicitly sold for cash).
 
 The "Addled Parliament" of 1614 lasted only two months before James dissolved it without passing a single act. His final Parliament (1621-1622) managed some legislation but ended in confrontation over James's attempt to arrange a marriage alliance with Catholic Spain — a policy Parliament despised.
 
@@ -93,7 +93,7 @@ These battles were a rehearsal for the civil war that would come under James's s
 
 The Jacobean era saw England's first permanent settlements in North America. Jamestown, Virginia, was founded in 1607 by the Virginia Company. The early years were disastrous — of the first 500 settlers, only 60 survived the first winter. Starvation, disease, and conflict with the Powhatan Confederacy nearly ended the colony multiple times. Tobacco cultivation, beginning around 1612, finally gave the colony an economic reason to exist.
 
-The Mayflower sailed in 1620, carrying 102 passengers — roughly half of them Separatist Puritans seeking religious freedom — to what became Plymouth Colony in Massachusetts. The Pilgrims' first winter killed half of them. Their survival, aided by the Wampanoag people (particularly Squanto), became foundational mythology for the United States.
+The Mayflower sailed in 1620, carrying 102 passengers — roughly half of them Separatist Puritans seeking religious freedom — to what became Plymouth Colony in Massachusetts. The Pilgrims' first winter killed half of them. Their survival, aided by the Wampanoag people (particularly Squanto), became foundational [mythology](/mythology) for the United States.
 
 James also oversaw the Plantation of Ulster in Ireland, settling Scottish and English Protestants on confiscated Irish Catholic land beginning in 1609. This policy had consequences that reverberated for centuries, ultimately contributing to the partition of [Ireland](/irish-history) and the sectarian conflict known as the Troubles.
 
@@ -111,10 +111,10 @@ Jacobean architecture is distinct and recognizable. It blended English Gothic tr
 
 Inigo Jones, the first great English architect in the classical tradition, began his career under James. His Banqueting House at Whitehall Palace (1619-1622) — designed in pure Italian Palladian style — was revolutionary. It introduced classical architecture to England and became the model for English public buildings for the next two centuries.
 
-The [visual arts](/visual-arts) were dominated by portrait painting. While English artists lagged behind their continental counterparts, James's court attracted foreign painters, and the tradition of aristocratic portraiture continued to develop.
+The [visual arts](/visual-arts) were dominated by portrait [painting](/painting). While English artists lagged behind their continental counterparts, James's court attracted foreign painters, and the tradition of aristocratic portraiture continued to develop.
 
 ## Legacy
 
 James I died in 1625, leaving a complicated legacy. He kept England out of the [Thirty Years' War](/thirty-years-war) (1618-1648), which devastated much of Europe. He commissioned the King James Bible. He presided over one of the greatest periods in English literary history. But he also exacerbated tensions between Crown and Parliament, failed to resolve England's religious divisions, and left his son a financial and political mess that would end in civil war, revolution, and Charles's execution in 1649.
 
-The Jacobean era matters because it was a hinge point — the period between Elizabethan confidence and Caroline crisis, between medieval monarchy and constitutional [government](/government), between insular England and global empire. The questions it raised about power, religion, and governance still echo today.
+The Jacobean era matters because it was a hinge point — the period between Elizabethan confidence and Caroline crisis, between medieval [monarchy](/monarchy) and constitutional [government](/government), between insular England and global empire. The questions it raised about power, [religion](/religion), and governance still echo today.

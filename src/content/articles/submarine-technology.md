@@ -50,7 +50,7 @@ The Civil War brought the H.L. Hunley (1864), the first submarine to sink an ene
 
 ### The Modern Submarine Emerges
 
-John Philip Holland's *Holland VI* (1900) was the first submarine purchased by the U.S. Navy and the first to combine an internal combustion engine for surface running with an electric motor for underwater travel. This dual-propulsion approach — diesel engines on the surface, electric motors submerged — defined submarine design for the next 50 years.
+John Philip Holland's *Holland VI* (1900) was the first submarine purchased by the U.S. Navy and the first to combine an internal combustion engine for surface [running](/running) with an electric motor for underwater travel. This dual-propulsion approach — diesel engines on the surface, electric motors submerged — defined submarine design for the next 50 years.
 
 [World War I](/world-war-i) demonstrated that submarines could reshape naval warfare. German U-boats sank over 5,000 ships during the conflict, nearly starving Britain into submission. Suddenly, undersea warfare wasn't a curiosity — it was a strategic game-changer.
 
@@ -100,7 +100,7 @@ Keeping a crew of 100+ people alive in a sealed metal tube for months is no smal
 
 **Atmosphere monitoring** is constant. Sensors track oxygen, CO2, carbon monoxide, hydrogen, and various trace gases. Submarine air quality is actually quite tightly controlled — CO2 is kept below 0.5%, compared to about 0.04% in normal atmosphere. Crew members adapt to this elevated CO2 level, but it can cause headaches and fatigue.
 
-Fresh water comes from [desalination](/desalination) — distilling seawater using waste heat from the reactor. A nuclear submarine can produce thousands of gallons of fresh water daily, enough for drinking, cooking, and even showers (though water discipline remains part of submarine culture).
+Fresh water comes from [desalination](/desalination) — distilling seawater using waste heat from the reactor. A nuclear submarine can produce thousands of gallons of fresh water daily, enough for drinking, [cooking](/cooking), and even showers (though water discipline remains part of submarine culture).
 
 ## Stealth: The Submarine's Greatest Weapon
 
@@ -150,7 +150,7 @@ Submarine technology faces several pressing challenges. Increasing ocean surveil
 
 **Unmanned underwater vehicles (UUVs)** are a major growth area. Large UUVs could conduct mine-clearing, surveillance, or even strike missions without risking human crews. The U.S. Navy's Orca program is developing extra-large UUVs (XLUUVs) that are essentially unmanned submarines.
 
-**Advanced materials** like high-strength composites and new steel alloys could allow deeper diving depths and lighter hulls. Some researchers are exploring whether metamaterials — engineered structures that manipulate sound waves — could make submarines virtually invisible to sonar.
+**Advanced materials** like high-strength composites and new steel alloys could allow deeper [diving](/diving) depths and lighter hulls. Some researchers are exploring whether metamaterials — engineered structures that manipulate sound waves — could make submarines virtually invisible to sonar.
 
 **Energy storage** improvements in [battery technology](/battery-technology) are making conventional submarines more capable. Solid-state batteries and advanced fuel cells could eventually give non-nuclear submarines endurance rivaling nuclear boats at a fraction of the cost.
 

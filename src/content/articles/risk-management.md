@@ -43,13 +43,13 @@ A quick tour of recent history makes the case:
 
 - The 2008 financial crisis resulted largely from financial institutions failing to manage — or deliberately ignoring — the risks embedded in mortgage-backed securities. The global economy lost an estimated $22 trillion.
 - The COVID-19 pandemic exposed businesses without contingency plans for supply chain disruptions, remote work, or prolonged revenue loss. Companies with strong risk management frameworks adapted faster and survived in greater numbers.
-- The 2021 Colonial Pipeline ransomware attack shut down the largest fuel pipeline in the U.S. for six days, causing fuel shortages across the Southeast. The company paid a $4.4 million ransom. Better cybersecurity risk management could have prevented or minimized the incident.
+- The 2021 Colonial Pipeline ransomware attack shut down the largest fuel pipeline in the U.S. for six days, causing fuel shortages across the Southeast. The company paid a $4.4 million ransom. Better [cybersecurity](/cybersecurity) risk management could have prevented or minimized the incident.
 
 These are headline-level examples. But risk management matters just as much at smaller scales — a [construction](/construction) project that finishes on budget because weather delays were planned for, a restaurant that survives a slow season because cash reserves were maintained, a startup that pivots successfully because the founders anticipated market shifts.
 
 ## The Risk Management Process
 
-Most frameworks follow a similar five-step cycle. The specifics vary by industry and context, but the logic is universal.
+Most frameworks follow a similar five-step cycle. The specifics vary by industry and context, but the [logic](/logic) is universal.
 
 ### Step 1: Risk Identification
 
@@ -151,6 +151,6 @@ ERM also identifies **risk interdependencies** — how one risk can trigger or a
 
 ## The Bottom Line
 
-Risk management is thinking before acting, and continuing to think while acting. It doesn't guarantee good outcomes — nothing does. But it dramatically improves the odds. Organizations that manage risk well make better decisions, recover faster from setbacks, and earn the trust of customers, investors, and regulators.
+Risk management is thinking before [acting](/acting), and continuing to think while acting. It doesn't guarantee good outcomes — nothing does. But it dramatically improves the odds. Organizations that manage risk well make better decisions, recover faster from setbacks, and earn the trust of customers, investors, and regulators.
 
 The goal isn't to avoid risk. The goal is to take risks knowingly, with clear eyes and contingency plans. That's the difference between gambling and investing, between recklessness and courage. And it applies whether you're running a Fortune 500 company or deciding whether to launch a side business.

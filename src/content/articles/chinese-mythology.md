@@ -31,7 +31,7 @@ faq:
 
 # What Is Chinese [Mythology](/mythology)?
 
-Chinese mythology is the vast body of myths, legends, and folk narratives developed across China's 5,000+ year civilization — encompassing creation stories, divine pantheons, heroic epics, and supernatural tales drawn from Daoism, [Buddhism](/buddhism), [Confucianism](/confucianism), and ancient folk [religion](/religion). Unlike Greek or [Norse mythology](/norse-mythology), which exist as relatively bounded systems, Chinese mythology is a living, layered tradition that has continuously absorbed and transformed material across millennia.
+Chinese mythology is the vast body of myths, [legends](/legends), and folk narratives developed across China's 5,000+ year civilization — encompassing creation stories, divine pantheons, heroic epics, and supernatural tales drawn from Daoism, [Buddhism](/buddhism), [Confucianism](/confucianism), and ancient folk [religion](/religion). Unlike Greek or [Norse mythology](/norse-mythology), which exist as relatively bounded systems, Chinese mythology is a living, layered tradition that has continuously absorbed and transformed material across millennia.
 
 ## A Mythology That Never Stopped Growing
 
@@ -79,7 +79,7 @@ Originally the male bodhisattva Avalokiteśvara in Indian Buddhism, Guanyin tran
 
 Chinese dragons (龙, lóng) are fundamentally different from European dragons. They're benevolent, associated with water and weather, symbolize power and good fortune, and are viewed as divine protectors. The emperor was the "dragon" and the imperial throne was the "dragon throne."
 
-Dragon mythology permeates Chinese culture: dragon boat races, dragon dances during Lunar New Year, dragon imagery on temples and art. The Chinese zodiac includes the dragon as the only mythical animal among its twelve signs — it's considered the luckiest birth year.
+Dragon mythology permeates Chinese culture: dragon boat races, dragon dances during Lunar New Year, dragon imagery on temples and art. The Chinese [zodiac](/zodiac) includes the dragon as the only mythical animal among its twelve signs — it's considered the luckiest birth year.
 
 ## Folk Religion and the Spirit World
 

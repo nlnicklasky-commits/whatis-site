@@ -31,7 +31,7 @@ faq:
 
 # What Is Political Science?
 
-Political science is the systematic study of politics, government, power, and [public policy](/public-policy). It examines how societies make collective decisions, how governments are structured and why they function the way they do, how leaders gain and exercise power, and how citizens relate to the state. If politics is the game, political science is the attempt to understand the rules — including the unwritten ones.
+Political science is the systematic study of [politics](/politics), [government](/government), power, and [public policy](/public-policy). It examines how societies make collective decisions, how governments are structured and why they function the way they do, how leaders gain and exercise power, and how citizens relate to the state. If politics is the game, political science is the attempt to understand the rules — including the unwritten ones.
 
 ## What Political Scientists Actually Study
 
@@ -41,7 +41,7 @@ The field breaks into several major subfields, each looking at politics from a d
 
 **[Comparative politics](/comparative-politics)** examines political systems across countries. Why are some countries democratic and others authoritarian? Why do some democracies use proportional representation while others use winner-take-all? How do different welfare state models affect inequality? Comparing systems reveals patterns you'd never notice looking at just one country.
 
-**[International relations](/international-relations)** studies how countries interact — alliances, conflicts, trade, diplomacy, international organizations. The big questions: Why do wars happen? How do international institutions like the UN actually work (or fail to)? What drives countries to cooperate or compete? Major theoretical frameworks include realism (states pursue power), liberalism (institutions and trade promote peace), and constructivism (ideas and norms shape state behavior).
+**[International relations](/international-relations)** studies how countries interact — alliances, conflicts, [trade](/trade), [diplomacy](/diplomacy), international organizations. The big questions: Why do wars happen? How do international institutions like the UN actually work (or fail to)? What drives countries to cooperate or compete? Major theoretical frameworks include realism (states pursue power), [liberalism](/liberalism) (institutions and trade promote peace), and constructivism (ideas and norms shape state behavior).
 
 **Political theory** (or [political philosophy](/political-philosophy)) grapples with fundamental questions about justice, rights, freedom, equality, and obligation. What makes a government legitimate? When is civil disobedience justified? What do we owe each other as members of a society? This subfield stretches from Plato and Aristotle through Locke, Rousseau, and Marx to contemporary thinkers like John Rawls and Amartya Sen.
 
@@ -57,7 +57,7 @@ Political science uses a mix of approaches:
 
 **Formal theory** — mathematical models of strategic interaction, often using [game theory](/game-theory). If two countries are negotiating a trade deal, formal models can predict outcomes based on each side's incentives, information, and alternatives. These models simplify reality dramatically, but the simplification can reveal dynamics that narrative descriptions miss.
 
-**Experimental methods** — increasingly, political scientists run experiments, both in labs and in the field. Randomized controlled trials test whether specific interventions (voter mobilization efforts, civic education programs, institutional reforms) actually work.
+**Experimental methods** — increasingly, political scientists run experiments, both in labs and in the field. Randomized controlled trials test whether specific interventions (voter mobilization efforts, civic [education](/education) programs, institutional reforms) actually work.
 
 ## A Brief [Intellectual History](/intellectual-history)
 
@@ -75,9 +75,9 @@ Since the 1980s, the field has diversified. Rational choice theory applies econo
 
 Political science has genuine predictive successes. Models based on economic fundamentals predict presidential election outcomes with reasonable accuracy — political scientist Allan Lichtman has correctly predicted 9 of the last 10 presidential elections using his "Keys to the White House" framework.
 
-Research on democratic peace theory — the finding that established democracies almost never go to war with each other — is one of the most strong findings in international relations. It's influenced actual [foreign policy](/foreign-policy), though scholars still debate exactly *why* it holds.
+Research on democratic peace theory — the finding that established democracies almost never go to war with each other — is one of the most strong findings in international relations. It's influenced actual [foreign policy](/foreign-policy), though scholars still [debate](/debate) exactly *why* it holds.
 
-Where political science struggles: predicting specific events. Almost no political scientists predicted the collapse of the Soviet Union. Most didn't predict the Arab Spring. Individual elections frequently surprise the models. Political behavior is shaped by culture, psychology, random events, and individual choices in ways that resist systematic prediction.
+Where political science struggles: predicting specific events. Almost no political scientists predicted the collapse of the Soviet Union. Most didn't predict the Arab Spring. Individual elections frequently surprise the models. Political behavior is shaped by culture, [psychology](/psychology), random events, and individual choices in ways that resist systematic prediction.
 
 The honest assessment is that political science is better at explaining patterns and tendencies than at predicting specific outcomes. It's better at answering "what generally happens when X occurs?" than "what will happen next Tuesday?"
 

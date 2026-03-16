@@ -47,13 +47,13 @@ Radio astronomy began with a mistake. In 1933, Karl Jansky, a Bell Telephone Lab
 
 The hiss repeated on a 23-hour, 56-minute cycle -- exactly one sidereal day (the time it takes Earth to rotate relative to the stars, not the sun). Jansky eventually determined the signal came from the center of the Milky Way, in the direction of the constellation Sagittarius.
 
-Jansky had discovered that the universe broadcasts radio waves. He published his findings in 1933, and it made the front page of the New York Times. But the astronomical community largely ignored it. Professional astronomers didn't know radio engineering, and radio engineers didn't know astronomy.
+Jansky had discovered that the universe broadcasts radio waves. He published his findings in 1933, and it made the front page of the New York Times. But the astronomical community largely ignored it. Professional astronomers didn't know radio [engineering](/engineering), and radio engineers didn't know astronomy.
 
 ### Reber's One-Man Revolution
 
 The person who took Jansky seriously was Grote Reber, an [amateur radio](/amateur-radio) enthusiast in Wheaton, Illinois. In 1937, Reber built a 9.4-meter parabolic dish antenna in his backyard -- the first purpose-built radio telescope. For nearly a decade, he was the only radio astronomer in the world.
 
-Reber mapped the radio sky, confirming Jansky's discovery and finding additional radio sources. He published his results in [astrophysics](/astrophysics) journals, gradually gaining the attention of professional astronomers. By the end of World War II -- which had produced enormous advances in radar and radio technology -- the scientific community was ready to take radio astronomy seriously.
+Reber mapped the radio sky, confirming Jansky's discovery and finding additional radio sources. He published his results in [astrophysics](/astrophysics) journals, gradually gaining the attention of professional astronomers. By the end of [World War II](/world-war-ii) -- which had produced enormous advances in radar and radio technology -- the scientific community was ready to take radio astronomy seriously.
 
 ## How Radio Telescopes Work
 
@@ -177,7 +177,7 @@ The SKA represents an investment of over 2 billion euros and involves 16 countri
 
 ### ngVLA (Next Generation Very Large Array)
 
-The US is planning the ngVLA -- an array of 263 dishes spanning North America, operating at frequencies from 1.2 to 116 GHz. It will provide 10 times the sensitivity and resolution of the current VLA and ALMA, enabling studies of planet formation, the physics of black holes, and the search for prebiotic molecules in space.
+The US is planning the ngVLA -- an array of 263 dishes spanning North America, operating at frequencies from 1.2 to 116 GHz. It will provide 10 times the sensitivity and resolution of the current VLA and ALMA, enabling studies of planet formation, the [physics](/physics) of black holes, and the search for prebiotic molecules in space.
 
 ### Space-Based Radio Astronomy
 
@@ -197,7 +197,7 @@ The astronomical community works with [telecommunications](/electromagnetism) re
 
 ### Data Processing
 
-Modern radio telescopes produce enormous data volumes. The SKA will generate approximately 600 petabytes of data per year. Processing this data requires supercomputing facilities, advanced algorithms, and new approaches to data management and analysis.
+Modern radio telescopes produce enormous data volumes. The SKA will generate approximately 600 petabytes of data per year. Processing this data requires supercomputing facilities, advanced algorithms, and new approaches to data [management](/management) and analysis.
 
 Machine learning is increasingly used in radio astronomy for source detection, classification, and interference removal. The computational demands of radio astronomy are pushing advances in high-performance computing and [data science](/data-science).
 
@@ -205,6 +205,6 @@ Machine learning is increasingly used in radio astronomy for source detection, c
 
 Radio astronomy studies the universe through radio waves, revealing phenomena invisible to optical telescopes. Since Karl Jansky's accidental discovery in 1933, radio astronomers have found the cosmic microwave background (confirming the Big Bang), pulsars (rotating neutron stars), quasars (supermassive black holes consuming matter at the centers of distant galaxies), and the first image of a black hole's event horizon.
 
-The technology of radio astronomy -- from single dishes hundreds of meters across to interferometric arrays spanning continents -- represents some of the most sophisticated engineering in science. Upcoming projects like the Square Kilometre Array will push sensitivity and resolution to levels that could reveal the Cosmic Dawn, test general relativity in extreme conditions, and perhaps detect signs of life beyond Earth.
+The technology of radio astronomy -- from single dishes hundreds of meters across to interferometric arrays spanning continents -- represents some of the most sophisticated engineering in science. Upcoming projects like the Square Kilometre Array will push sensitivity and resolution to levels that could reveal the Cosmic Dawn, test general [relativity](/relativity) in extreme conditions, and perhaps detect signs of life beyond Earth.
 
 Radio astronomy reminds us of a humbling fact: the visible light our eyes detect represents a tiny sliver of the [electromagnetic](/electromagnetism) spectrum. Most of the universe's story is written in wavelengths we can't see. By building instruments to read those wavelengths, radio astronomers have transformed our understanding of the cosmos -- and they're just getting started.

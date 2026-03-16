@@ -43,7 +43,7 @@ Organometallic chemistry is the study of compounds that contain at least one dir
 
 At first glance, putting metals and carbon together might seem like an odd pairing. [Organic chemistry](/organic-chemistry) is the domain of carbon. [Inorganic chemistry](/inorganic-chemistry) handles metals. Organometallic chemistry sits right at the boundary, claiming territory from both.
 
-The magic of the metal-carbon bond is that it combines the structural richness of organic molecules with the reactivity and electronic versatility of metals. Metals can do things carbon can't: they change oxidation states, coordinate multiple molecules simultaneously, and activate bonds that are otherwise inert. Carbon provides the structural scaffolding for complex molecules. Put them together and you get chemistry that neither field can achieve alone.
+The magic of the metal-carbon bond is that it combines the structural richness of organic molecules with the reactivity and electronic versatility of metals. Metals can do things carbon can't: they change oxidation states, coordinate multiple molecules simultaneously, and activate bonds that are otherwise inert. Carbon provides the structural [scaffolding](/scaffolding) for complex molecules. Put them together and you get chemistry that neither field can achieve alone.
 
 The formal requirement is simple: there must be a direct M-C bond (metal to carbon). Compounds where a metal binds through oxygen or nitrogen — like metal acetates or metal amines — don't count, even though they contain organic ligands. The distinction matters because metal-carbon bonds have unique properties: they're often more reactive than M-O or M-N bonds, and they participate in reactions (insertions, eliminations, oxidative additions) that define the field.
 
@@ -53,7 +53,7 @@ The field's origin story has a specific date: 1827, when William Christopher Zei
 
 The next landmark came in 1849 when Edward Frankland synthesized diethylzinc (Zn(C2H5)2). This compound ignites spontaneously in air, which made for exciting (and dangerous) laboratory demonstrations. Frankland's work established that metals could form defined compounds with organic groups, and he coined the term "organometallic."
 
-Then in 1951, Peter Pauson and Tom Kealy synthesized ferrocene — an iron atom sandwiched between two flat, five-membered carbon rings. Its unprecedented "sandwich" structure baffled chemists until Geoffrey Wilkinson and Ernst Otto Fischer independently determined its true geometry. Both won the 1973 Nobel Prize for their work on sandwich compounds. Ferrocene launched a revolution in understanding how metals bond to organic molecules, and the field has never looked back.
+Then in 1951, Peter Pauson and Tom Kealy synthesized ferrocene — an iron atom sandwiched between two flat, five-membered carbon rings. Its unprecedented "sandwich" structure baffled chemists until Geoffrey Wilkinson and Ernst Otto Fischer independently determined its true [geometry](/geometry). Both won the 1973 Nobel Prize for their work on sandwich compounds. Ferrocene launched a revolution in understanding how metals bond to organic molecules, and the field has never looked back.
 
 ## The Reactions That Changed Everything
 
@@ -73,7 +73,7 @@ The Suzuki coupling alone is used in thousands of industrial processes. Its appe
 
 ### Olefin Metathesis: Molecular Surgery
 
-Olefin metathesis is a reaction where two carbon-carbon double bonds break apart and reform in new combinations — the molecular equivalent of two couples exchanging partners at a dance. The 2005 Nobel Prize went to Yves Chauvin, Robert Grubbs, and Richard Schrock for this work.
+Olefin metathesis is a reaction where two carbon-carbon double bonds break apart and reform in new combinations — the molecular equivalent of two couples exchanging partners at a [dance](/dance). The 2005 Nobel Prize went to Yves Chauvin, Robert Grubbs, and Richard Schrock for this work.
 
 The catalysts are organometallic carbene complexes — metal compounds with a M=C double bond. Grubbs' ruthenium catalysts are particularly practical because they tolerate air and moisture far better than earlier alternatives.
 
@@ -85,7 +85,7 @@ Karl Ziegler discovered in the 1950s that titanium and aluminum organometallic c
 
 This wasn't just an academic achievement. Ziegler-Natta catalysis produces over 100 million tons of polyethylene and polypropylene annually — the two most common plastics on Earth. Your plastic bags, food containers, bottles, pipes, automotive parts, and medical devices exist in their current form because of organometallic catalysis.
 
-The later development of metallocene catalysts (single-site catalysts based on sandwich compounds) gave even finer control over polymer architecture, enabling the production of specialty polyolefins with precisely tuned properties — specific melting points, mechanical strengths, and optical clarities tailored for particular applications.
+The later development of metallocene catalysts (single-site catalysts based on sandwich compounds) gave even finer control over polymer [architecture](/architecture), enabling the production of specialty polyolefins with precisely tuned properties — specific melting points, mechanical strengths, and optical clarities tailored for particular applications.
 
 ### C-H Activation: The Frontier
 
@@ -131,11 +131,11 @@ The field is responding in several ways:
 
 **Earth-abundant metal catalysis** uses iron, cobalt, nickel, copper, and manganese instead of precious metals. Paul Chirik's iron catalysts for hydrogenation, and numerous groups working on nickel-catalyzed cross-coupling, are making progress. Iron is 10,000 times cheaper than palladium and essentially non-toxic.
 
-**Catalyst recycling and immobilization** — attaching catalysts to solid supports or using biphasic solvent systems — allows recovery and reuse of precious metals. Industrial processes often achieve catalyst recycling efficiencies above 99.9%.
+**Catalyst [recycling](/recycling) and immobilization** — attaching catalysts to solid supports or using biphasic solvent systems — allows recovery and reuse of precious metals. Industrial processes often achieve catalyst recycling efficiencies above 99.9%.
 
 **Photoredox catalysis** uses light to drive catalytic cycles, often enabling reactions at room temperature that would otherwise require heating. Combined with organometallic catalysis, photoredox methods achieve transformations impossible with either approach alone. David MacMillan (2021 Nobel Prize) pioneered many of these combined approaches.
 
-**Electrocatalysis** uses electrical current instead of chemical oxidants or reductants. This ties organometallic chemistry to [renewable energy](/renewable-energy) — reactions driven by solar-generated electricity rather than petroleum-derived reagents. The connection to [electrochemistry](/electrochemistry) is increasingly important.
+**Electrocatalysis** uses electrical current instead of chemical oxidants or reductants. This ties organometallic chemistry to [renewable energy](/renewable-energy) — reactions driven by solar-generated [electricity](/electricity) rather than petroleum-derived reagents. The connection to [electrochemistry](/electrochemistry) is increasingly important.
 
 ## Applications Beyond the Lab
 

@@ -31,7 +31,7 @@ faq:
 
 # What Is Vegetable Gardening?
 
-Vegetable gardening is growing edible plants — from seed or transplant to harvest — in a dedicated space, whether that's a backyard plot, a raised bed, a community garden allotment, or a collection of containers on a balcony. It's one of the oldest human activities ([agriculture](/agriculture) started roughly 10,000 years ago), and it remains one of the most practical hobbies you can pick up. You put seeds in dirt, take care of them, and eat the results.
+Vegetable [gardening](/gardening) is growing edible plants — from seed or transplant to harvest — in a dedicated space, whether that's a backyard plot, a raised bed, a community garden allotment, or a collection of containers on a balcony. It's one of the oldest human activities ([agriculture](/agriculture) started roughly 10,000 years ago), and it remains one of the most practical hobbies you can pick up. You put seeds in dirt, take care of them, and eat the results.
 
 ## Why People Do This
 

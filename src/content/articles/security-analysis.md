@@ -45,7 +45,7 @@ Today, the global financial analysis industry employs an estimated 300,000+ anal
 
 ## The Two Schools: Fundamental vs. Technical
 
-Security analysis splits into two broad approaches that differ in philosophy, methodology, and assumptions about how markets work. Most serious practitioners have a foot in both camps, but the frameworks are genuinely different.
+Security analysis splits into two broad approaches that differ in [philosophy](/philosophy), methodology, and assumptions about how markets work. Most serious practitioners have a foot in both camps, but the frameworks are genuinely different.
 
 ### [Fundamental Analysis](/fundamental-analysis): What Is This Actually Worth?
 
@@ -53,7 +53,7 @@ Fundamental analysis starts from a simple premise: every security has an intrins
 
 If the market price is significantly below intrinsic value, the security is undervalued—a potential buy. If it's above, it's overvalued—a potential sell or avoid. The gap between market price and intrinsic value is what Graham called the "margin of safety"—the bigger the gap, the more room for error in your analysis while still making money.
 
-This sounds straightforward, but estimating intrinsic value requires analyzing everything that affects a company's future cash flows: its financial statements, competitive position, management quality, industry dynamics, regulatory environment, and macroeconomic conditions. Let's break these down.
+This sounds straightforward, but estimating intrinsic value requires analyzing everything that affects a company's future cash flows: its financial statements, competitive position, [management](/management) quality, industry dynamics, regulatory environment, and macroeconomic conditions. Let's break these down.
 
 #### Financial Statement Analysis
 
@@ -61,7 +61,7 @@ The starting point for any fundamental analysis is the company's financial state
 
 **Income Statement Analysis**: Revenue growth, profit margins, expense trends, and earnings quality. Is revenue growing because the company is winning new customers or because it acquired another company? Are margins expanding because of genuine efficiency or because the company is cutting R&D (which looks great short-term but kills long-term competitiveness)?
 
-Earnings quality matters enormously. A company can report strong earnings while its underlying business deteriorates—through accounting choices, one-time gains, or financial engineering. Cash flow from operations is often more reliable than reported earnings because it's harder to manipulate.
+Earnings quality matters enormously. A company can report strong earnings while its underlying business deteriorates—through accounting choices, one-time gains, or financial [engineering](/engineering). Cash flow from operations is often more reliable than reported earnings because it's harder to manipulate.
 
 **Balance Sheet Analysis**: Assets, liabilities, and equity tell you about financial health and risk. Key questions: How much debt does the company carry? Is its debt manageable relative to its earnings? Are its assets fairly valued or inflated? Does it have enough cash to weather a downturn?
 
@@ -91,7 +91,7 @@ Ratios provide quick comparisons, but rigorous valuation requires models.
 
 DCF is powerful but sensitive to assumptions. Change the growth rate by 1% or the discount rate by 0.5%, and your valuation can shift by 20-30%. This sensitivity is both DCF's strength (it forces you to state your assumptions explicitly) and its weakness (garbage assumptions in, garbage valuations out).
 
-**Comparable Company Analysis ("Comps")**: Value a company by looking at what similar companies trade for. If five comparable software companies trade at an average of 8x revenue, and your target company has $500 million in revenue, the implied value is roughly $4 billion. Simple, intuitive, widely used—but assumes the comparable companies are correctly valued, which is circular reasoning if the whole market is overvalued.
+**Comparable Company Analysis ("Comps")**: Value a company by looking at what similar companies [trade](/trade) for. If five comparable software companies trade at an average of 8x revenue, and your target company has $500 million in revenue, the implied value is roughly $4 billion. Simple, intuitive, widely used—but assumes the comparable companies are correctly valued, which is circular reasoning if the whole market is overvalued.
 
 **Precedent Transaction Analysis**: Similar to comps but uses prices paid in actual acquisitions. If recent acquisitions of similar companies were done at 12x EBITDA, that provides a benchmark. Acquisition multiples typically include a control premium (15-30%) above trading multiples because buyers pay extra for controlling the company.
 
@@ -109,7 +109,7 @@ Numbers alone don't tell the whole story. Qualitative factors include:
 
 Technical analysis takes a fundamentally different approach. Instead of asking "what is this worth?", it asks "what is the market doing?" Technical analysts study price charts, trading volume, and market indicators to identify patterns that suggest future price direction.
 
-The core assumption is that price movements are not random—they reflect the collective psychology of market participants, and this psychology produces recognizable patterns that tend to repeat.
+The core assumption is that price movements are not random—they reflect the collective [psychology](/psychology) of market participants, and this psychology produces recognizable patterns that tend to repeat.
 
 #### Chart Patterns
 
@@ -153,7 +153,7 @@ Bond investors are essentially lenders. The key question is: will the borrower p
 
 Credit rating agencies (Moody's, S&P, Fitch) assign ratings from AAA (highest quality) to D (default). These ratings, while imperfect (they famously failed to flag mortgage-backed securities before the 2008 crisis), provide a useful starting framework. [Credit management](/credit-management) principles apply at both the individual and corporate level when assessing debt capacity.
 
-**Yield spread**—the difference between a corporate bond's yield and a risk-free government bond of similar maturity—reflects the market's assessment of credit risk. When spreads widen, the market is pricing in higher risk. When they narrow, confidence is increasing.
+**Yield spread**—the difference between a corporate bond's yield and a risk-free [government](/government) bond of similar maturity—reflects the market's assessment of credit risk. When spreads widen, the market is pricing in higher risk. When they narrow, confidence is increasing.
 
 ### Interest Rate Risk
 
@@ -185,7 +185,7 @@ The practical conclusion for most investors: security analysis skills help you a
 
 ## Behavioral Finance: Why Markets Aren't Always Rational
 
-Behavioral finance studies how psychological biases affect investment decisions and market prices. Key findings include:
+Behavioral [finance](/finance) studies how psychological biases affect investment decisions and market prices. Key findings include:
 
 **Overconfidence**: Investors overestimate their analytical abilities. Professional analysts' earnings forecasts are wrong by an average of 25-40%, yet most express high confidence in their predictions.
 

@@ -37,13 +37,13 @@ faq:
 
 # What Is Computational Biology?
 
-Computational biology is the field that applies [mathematical modeling](/mathematical-modeling), statistical analysis, and [computer science](/computer-science) to understand biological systems and processes. It encompasses everything from analyzing DNA sequences and predicting protein structures to simulating cellular networks and modeling disease spread — any problem where biological questions require computational tools to answer.
+Computational [biology](/biology) is the field that applies [mathematical modeling](/mathematical-modeling), statistical analysis, and [computer science](/computer-science) to understand biological systems and processes. It encompasses everything from analyzing DNA sequences and predicting protein structures to simulating cellular networks and modeling disease spread — any problem where biological questions require computational tools to answer.
 
 ## Why Biology Needs Computers
 
 A single human genome contains about 3.2 billion base pairs of DNA. Reading through it at one letter per second would take over 100 years. A single cell contains thousands of different proteins, each interacting with dozens of others in networks of staggering complexity. The human brain has 86 billion neurons with roughly 100 trillion connections.
 
-Biology has become a data science problem. The data is too vast, too complex, and too interconnected for humans to analyze without computational help. And the data keeps growing — genomic data doubles roughly every seven months, far outpacing Moore's Law.
+Biology has become a [data science](/data-science) problem. The data is too vast, too complex, and too interconnected for humans to analyze without computational help. And the data keeps growing — genomic data doubles roughly every seven months, far outpacing Moore's Law.
 
 This wasn't always the case. For most of biology's history, the bottleneck was generating data. Getting a single DNA sequence was a PhD project. Determining a single protein structure took years. Ecological surveys required painstaking field work.
 
@@ -77,11 +77,11 @@ The challenge is compounded by repetitive DNA — regions where the same sequenc
 
 Proteins fold into specific three-dimensional shapes that determine their function. Predicting a protein's structure from its amino acid sequence — the "protein folding problem" — was one of biology's grand challenges for over 50 years.
 
-The challenge was daunting. A protein with 100 amino acids could theoretically fold into an astronomically large number of possible shapes (Levinthal's paradox estimates 10^300 possibilities). Yet real proteins fold reliably in milliseconds. Understanding how — and predicting the final shape — required understanding physics, chemistry, and biology simultaneously.
+The challenge was daunting. A protein with 100 amino acids could theoretically fold into an astronomically large number of possible shapes (Levinthal's paradox estimates 10^300 possibilities). Yet real proteins fold reliably in milliseconds. Understanding how — and predicting the final shape — required understanding [physics](/physics), [chemistry](/chemistry), and biology simultaneously.
 
-Experimental methods for determining protein structures — [X-ray crystallography](/x-ray-crystallography), NMR spectroscopy, cryo-electron microscopy — are accurate but slow and expensive. As of 2024, the Protein Data Bank contained about 220,000 experimentally determined structures. But there are hundreds of millions of known protein sequences. The gap between sequences and structures was enormous.
+Experimental methods for determining protein structures — [X-ray crystallography](/x-ray-crystallography), NMR [spectroscopy](/spectroscopy), cryo-electron [microscopy](/microscopy) — are accurate but slow and expensive. As of 2024, the Protein Data Bank contained about 220,000 experimentally determined structures. But there are hundreds of millions of known protein sequences. The gap between sequences and structures was enormous.
 
-Then AlphaFold arrived. DeepMind's [machine learning](/machine-learning) system, using deep neural networks trained on known structures, predicted protein structures with accuracy approaching experimental methods. AlphaFold2 (2020) stunned the field by achieving a median accuracy of 92.4 GDT (Global Distance Test) in the CASP14 competition — a score that essentially matched experimental accuracy for many proteins.
+Then AlphaFold arrived. DeepMind's [machine learning](/machine-learning) system, using deep [neural networks](/neural-networks) trained on known structures, predicted protein structures with accuracy approaching experimental methods. AlphaFold2 (2020) stunned the field by achieving a median accuracy of 92.4 GDT (Global Distance Test) in the CASP14 competition — a score that essentially matched experimental accuracy for many proteins.
 
 In 2022, DeepMind released AlphaFold predictions for over 200 million proteins — nearly every known protein sequence. This single computational contribution has had more impact on [structural biology](/structural-biology) than decades of experimental work combined. Researchers worldwide now routinely start with AlphaFold predictions and use experiments to validate or refine them, rather than determining structures from scratch.
 
@@ -107,13 +107,13 @@ Cancer genomics has been transformed by computational approaches. Tumor genomes 
 
 ## Systems Biology: Understanding Networks
 
-Individual genes and proteins don't operate in isolation. They interact in networks — signaling pathways, metabolic networks, regulatory circuits — that determine how cells behave. Systems biology uses computational models to understand these networks.
+Individual genes and proteins don't operate in isolation. They interact in networks — signaling pathways, metabolic networks, regulatory circuits — that determine how cells behave. [Systems biology](/systems-biology) uses computational models to understand these networks.
 
 ### Metabolic Modeling
 
 Every cell runs a complex metabolic network — thousands of chemical reactions converting nutrients into energy and building materials. Flux balance analysis (FBA) models these networks as systems of linear equations, predicting how metabolites flow through the network under different conditions.
 
-FBA has practical applications. In metabolic engineering, researchers modify microbial metabolism to produce valuable chemicals — biofuels, pharmaceuticals, industrial enzymes. Computational models predict which genes to modify and how, reducing years of trial-and-error lab work to computational experiments that take minutes.
+FBA has practical applications. In metabolic [engineering](/engineering), researchers modify microbial metabolism to produce valuable chemicals — biofuels, pharmaceuticals, industrial enzymes. Computational models predict which genes to modify and how, reducing years of trial-and-error lab work to computational experiments that take minutes.
 
 E. coli metabolism is the most thoroughly modeled biological system. The iML1515 model includes 1,515 genes, 2,719 reactions, and 1,192 metabolites. Researchers routinely use this model to design strains that produce specific chemicals, predict growth under different nutritional conditions, and identify essential genes.
 
@@ -147,7 +147,7 @@ Maximum likelihood and Bayesian methods evaluate millions of possible tree topol
 
 Molecular clock analysis uses the rate of sequence evolution to estimate when species diverged. This has dated key events in evolutionary history — the split between humans and chimpanzees (roughly 6-7 million years ago), the emergence of mammals (roughly 200 million years ago), the divergence of animals and plants (roughly 1.5 billion years ago).
 
-Metagenomics — sequencing all DNA in an environmental sample — has revealed astonishing microbial diversity. A single gram of soil can contain thousands of bacterial species, most of which have never been grown in a laboratory. Computational analysis of metagenomic data has revealed entirely new branches of the tree of life that were invisible to traditional microbiology.
+Metagenomics — sequencing all DNA in an environmental sample — has revealed astonishing microbial diversity. A single gram of soil can contain thousands of bacterial species, most of which have never been grown in a laboratory. Computational analysis of metagenomic data has revealed entirely new branches of the tree of life that were invisible to traditional [microbiology](/microbiology).
 
 ## The Future
 
@@ -155,7 +155,7 @@ Several trends are shaping computational biology's next decade.
 
 **Foundation models for biology**: Large language models trained on biological sequences (protein sequences, DNA sequences, single-cell transcriptomes) are showing remarkable ability to predict function, structure, and behavior from sequence alone. ESM (Evolutionary Scale Modeling) from Meta AI predicts protein structures nearly as accurately as AlphaFold but 60 times faster.
 
-**Spatial transcriptomics**: Technologies that measure gene expression while preserving spatial information within tissues generate rich datasets that require new computational methods to analyze. Understanding which cells are next to which other cells, and how spatial context affects gene expression, adds a critical dimension to single-cell biology.
+**Spatial transcriptomics**: Technologies that measure gene expression while preserving spatial information within tissues generate rich datasets that require new computational methods to analyze. Understanding which cells are next to which other cells, and how spatial context affects gene expression, adds a critical dimension to single-[cell biology](/cell-biology).
 
 **Digital twins**: Computational models of individual patients — integrating their genomic data, [medical history](/medical-history), lifestyle factors, and real-time health monitoring — could predict disease trajectories and optimize treatment. This vision remains distant but is driving significant investment.
 

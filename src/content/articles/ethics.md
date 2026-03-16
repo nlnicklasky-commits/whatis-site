@@ -35,7 +35,7 @@ faq:
 
 # What Is Ethics?
 
-Ethics is the branch of philosophy concerned with systematically examining concepts of right and wrong, good and bad, duty and obligation, justice and injustice. It asks not just what people do believe about morality, but what they should believe — and why. As a discipline, ethics has been central to philosophical inquiry for over 2,500 years, from Socrates questioning Athenians in the agora to contemporary debates about artificial intelligence and bioethics.
+Ethics is the branch of [philosophy](/philosophy) concerned with systematically examining concepts of right and wrong, good and bad, duty and obligation, justice and injustice. It asks not just what people do believe about morality, but what they should believe — and why. As a discipline, ethics has been central to philosophical inquiry for over 2,500 years, from Socrates questioning Athenians in the agora to contemporary debates about artificial intelligence and bioethics.
 
 ## Why Ethics Isn't Just "Being a Good Person"
 
@@ -73,7 +73,7 @@ Normative ethics asks: what principles should guide our actions? This is where t
 
 #### Consequentialism (Results Matter Most)
 
-Consequentialist theories judge actions by their outcomes. The most influential version is **utilitarianism**, developed by Jeremy Bentham (1748-1832) and John Stuart Mill (1806-1873).
+Consequentialist theories judge actions by their outcomes. The most influential version is **[utilitarianism](/utilitarianism)**, developed by Jeremy Bentham (1748-1832) and John Stuart Mill (1806-1873).
 
 Classic utilitarianism says: the right action is the one that produces the greatest happiness for the greatest number. Happiness is understood as pleasure and the absence of pain. Every being's happiness counts equally. You calculate the total expected consequences and choose the option with the best outcome.
 
@@ -83,9 +83,9 @@ The appeal is obvious — it's rational, egalitarian, and focuses on what actual
 
 **The demandingness problem:** If you should always maximize total happiness, you should donate almost everything you earn to effective charities, never take vacations, and spend every waking moment helping others. This seems to leave no room for personal projects or relationships.
 
-**The calculation problem:** How do you predict all the consequences of an action? You can't. You're making decisions under radical uncertainty, which makes the utilitarian calculus practically impossible in many real situations.
+**The calculation problem:** How do you predict all the consequences of an action? You can't. You're making decisions under radical uncertainty, which makes the utilitarian [calculus](/calculus) practically impossible in many real situations.
 
-Modern consequentialists have developed sophisticated responses to all these objections — rule utilitarianism, preference utilitarianism, threshold accounts — but the tensions remain productive areas of debate.
+Modern consequentialists have developed sophisticated responses to all these objections — rule utilitarianism, preference utilitarianism, threshold accounts — but the tensions remain productive areas of [debate](/debate).
 
 #### Deontology (Duties Matter Most)
 
@@ -103,7 +103,7 @@ The weaknesses? Rigidity. Kant famously argued that you must not lie even to a m
 
 #### Virtue Ethics (Character Matters Most)
 
-Virtue ethics, originating with Aristotle (384-322 BCE), shifts the focus from actions to the person performing them. The central question isn't "What should I do?" but "What kind of person should I be?"
+[Virtue ethics](/virtue-ethics), originating with Aristotle (384-322 BCE), shifts the focus from actions to the person performing them. The central question isn't "What should I do?" but "What kind of person should I be?"
 
 Aristotle identified virtues as character traits that enable human flourishing (*eudaimonia*). Courage, temperance, justice, wisdom, generosity, honesty — these aren't just nice qualities. They're the traits you need to live a good, complete human life. Each virtue is a mean between two extremes: courage lies between cowardice and recklessness; generosity lies between miserliness and profligacy.
 
@@ -115,13 +115,13 @@ But virtue ethics faces its own challenges. It's vague about what to do in speci
 
 Applied ethics takes the frameworks from normative ethics and brings them to bear on real-world problems. This is where philosophy gets its hands dirty.
 
-**Bioethics** tackles questions about abortion, euthanasia, genetic engineering, organ allocation, informed consent, and reproductive technology. Should parents be allowed to select embryos based on genetic traits? When is it ethical to withdraw life support? These questions don't have easy answers — which is exactly why they need careful ethical analysis.
+**Bioethics** tackles questions about abortion, euthanasia, genetic [engineering](/engineering), organ allocation, informed consent, and reproductive technology. Should parents be allowed to select embryos based on genetic traits? When is it ethical to withdraw life support? These questions don't have easy answers — which is exactly why they need careful ethical analysis.
 
 **[Business ethics](/business-ethics)** examines corporate responsibility, fair labor practices, environmental obligations, and the ethics of profit-seeking. Is it ethical for pharmaceutical companies to charge prices that exclude poor patients? Should companies prioritize shareholder returns over community impact?
 
-**Environmental ethics** asks whether nature has intrinsic value or only matters insofar as it benefits humans. Does a species have a right to exist? Do future generations have moral claims on current resource use? These questions connect directly to policy debates about climate change and [conservation biology](/conservation-biology).
+**Environmental ethics** asks whether nature has intrinsic value or only matters insofar as it benefits humans. Does a species have a right to exist? Do future generations have moral claims on current resource use? These questions connect directly to policy debates about [climate change](/climate-change) and [conservation biology](/conservation-biology).
 
-**Technology ethics** — including AI ethics — has exploded in importance. Should [artificial intelligence](/artificial-intelligence) systems be allowed to make life-and-death decisions? Who is responsible when an algorithm discriminates? How do you balance privacy against security? These are among the most urgent ethical questions of our time.
+**Technology ethics** — including AI ethics — has exploded in importance. Should [artificial intelligence](/artificial-intelligence) systems be allowed to make life-and-death decisions? Who is responsible when [an algorithm](/algorithms) discriminates? How do you balance privacy against security? These are among the most urgent ethical questions of our time.
 
 **Political ethics** examines justice, rights, liberty, equality, and the legitimate use of state power. John Rawls's *A Theory of Justice* (1971) remains hugely influential — his "veil of ignorance" thought experiment (imagine designing society without knowing what position you'd hold in it) is one of the most powerful tools in [political philosophy](/political-philosophy).
 
@@ -139,7 +139,7 @@ Aristotle took a more empirical approach. Instead of searching for abstract mora
 
 [Western philosophy](/western-philosophy) isn't the whole story. Not even close.
 
-**Confucian ethics** (starting with Confucius, 551-479 BCE) emphasizes social harmony, filial piety, and proper relationships. The concept of *ren* (benevolence or humaneness) and *li* (ritual propriety) provides an ethical framework that's deeply relational — you are your relationships, and ethics is about fulfilling your role in them properly.
+**Confucian ethics** (starting with Confucius, 551-479 BCE) emphasizes social [harmony](/harmony), filial piety, and proper relationships. The concept of *ren* (benevolence or humaneness) and *li* (ritual propriety) provides an ethical framework that's deeply relational — you are your relationships, and ethics is about fulfilling your role in them properly.
 
 **Buddhist ethics** centers on reducing suffering through the Eightfold Path. The concept of *ahimsa* (non-harm) extends moral consideration beyond humans to all sentient beings. [Buddhism](/buddhism) and [Confucianism](/confucianism) both emphasize virtue development in ways that parallel Aristotelian virtue ethics, though the specific virtues differ.
 
@@ -160,7 +160,7 @@ Modern medical ethics rests on four principles, articulated by Beauchamp and Chi
 
 These principles sometimes conflict. A patient's autonomous choice might not be in their best interest (refusing life-saving treatment, for example). Distributing scarce resources fairly might mean some patients don't receive beneficial treatment. Managing these conflicts is what medical ethics is for.
 
-The COVID-19 pandemic threw these tensions into sharp relief. Ventilator allocation, vaccine prioritization, mandatory masking, lockdown policies — every one of these involved ethical trade-offs that couldn't be resolved by science alone.
+The COVID-19 pandemic threw these tensions into sharp relief. Ventilator allocation, vaccine prioritization, mandatory masking, lockdown policies — every one of these involved ethical [trade](/trade)-offs that couldn't be resolved by science alone.
 
 ### Technology and AI Ethics
 
@@ -178,21 +178,21 @@ This "is-ought gap" means that ethics can never be purely scientific. Science ca
 
 ### "Ethics is just opinion"
 
-This is the most common objection, and it confuses two things. Yes, people disagree about ethics. But people also disagree about history, economics, and nutrition. Disagreement doesn't prove there are no right answers — it proves the questions are hard.
+This is the most common objection, and it confuses two things. Yes, people disagree about ethics. But people also disagree about history, [economics](/economics), and [nutrition](/nutrition). Disagreement doesn't prove there are no right answers — it proves the questions are hard.
 
 On top of that, some ethical claims are clearly better supported by reasons than others. "It's wrong to torture babies for entertainment" is more defensible than "it's wrong to eat ice cream on Tuesdays." If ethics were purely subjective, you couldn't explain why.
 
 ### "You can't prove ethical claims"
 
-You also can't "prove" most claims outside mathematics. Scientific theories are supported by evidence, not proven. Historical claims are based on sources and inference. Ethical claims are supported by reasons, consistency, and reflective equilibrium (the process of adjusting principles and judgments until they cohere). The standard of "proof" is unfairly demanding when applied only to ethics.
+You also can't "prove" most claims outside [mathematics](/mathematics). Scientific theories are supported by evidence, not proven. Historical claims are based on sources and inference. Ethical claims are supported by reasons, consistency, and reflective equilibrium (the process of adjusting principles and judgments until they cohere). The standard of "proof" is unfairly demanding when applied only to ethics.
 
 ### "Ethics changes over time, so it's not real"
 
-Moral views change. Slavery was widely accepted, now it's condemned. But the fact that moral understanding changes doesn't mean there's no truth — it might mean we're getting closer to it. We once thought the Earth was flat. The fact that geographic knowledge changed doesn't mean geography isn't real.
+Moral views change. Slavery was widely accepted, now it's condemned. But the fact that moral understanding changes doesn't mean there's no truth — it might mean we're getting closer to it. We once thought the Earth was flat. The fact that geographic knowledge changed doesn't mean [geography](/geography) isn't real.
 
 ## Moral Psychology: Why We Do What We Do
 
-Ethics studies what we should do. Moral psychology studies why we actually behave the way we do — and the two don't always align.
+Ethics studies what we should do. Moral [psychology](/psychology) studies why we actually behave the way we do — and the two don't always align.
 
 **[Cognitive bias](/cognitive-bias)** affects moral judgment. We're more empathetic toward identifiable individuals than statistical populations (the "identifiable victim effect"). We judge harmful actions more harshly than equally harmful inactions (omission bias). We're harsher toward people who are different from us (in-group bias).
 

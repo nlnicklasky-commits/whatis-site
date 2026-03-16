@@ -51,15 +51,15 @@ Understanding that history doesn't mean modern schooling is wrong — but it doe
 
 The earliest known formal schools appeared in Sumer around 3000 BCE. Called "edubba" (tablet house), these scribal schools trained boys to read and write cuneiform — a skill essential for bureaucratic and commercial record-keeping. Education was vocational: you learned to write because the temple or the palace needed scribes. Tablets recovered from these schools include student exercises, teacher corrections, and even essays about lazy students — proof that some things never change.
 
-Egypt had a similar system. The "House of Life" attached to temples taught reading, writing, [mathematics](/calculus), and religious texts to the sons of scribes and officials. One surviving document, the Instruction of Ptahhotep (around 2400 BCE), is essentially an advice manual from a father to his son about how to behave properly — an early form of moral education.
+Egypt had a similar system. The "House of Life" attached to temples taught reading, [writing](/writing), [mathematics](/calculus), and religious texts to the sons of scribes and officials. One surviving document, the Instruction of Ptahhotep (around 2400 BCE), is essentially an advice manual from a father to his son about how to behave properly — an early form of moral education.
 
 ### Greece and Rome
 
-Ancient Athens is where many modern educational ideas first appeared. Socrates developed the method of teaching through questioning (the Socratic method) — still used in law schools today. Plato founded the Academy around 387 BCE, possibly the first institution of higher learning in the Western world. Aristotle, Plato's student, founded the Lyceum and emphasized empirical observation.
+Ancient Athens is where many modern educational ideas first appeared. Socrates developed the method of [teaching](/teaching) through questioning (the Socratic method) — still used in law schools today. Plato founded the Academy around 387 BCE, possibly the first institution of higher learning in the Western world. Aristotle, Plato's student, founded the Lyceum and emphasized empirical observation.
 
 Athenian education was informal by modern standards. There was no compulsory attendance, no [government](/government)-run system, and no curriculum in the modern sense. Wealthy families hired tutors or sent their sons to private teachers. Girls were generally excluded from formal education (Sparta was a notable exception, at least for physical training).
 
-Rome adopted and adapted Greek educational practices. Roman schools taught reading, writing, rhetoric, and grammar. The ideal of the educated orator — someone who could speak persuasively on any topic — drove Roman curriculum. Quintilian's *Institutio Oratoria* (around 95 CE), a 12-volume work on education, remained influential for centuries and argued against corporal punishment — a startlingly modern position for its time.
+Rome adopted and adapted Greek educational practices. Roman schools taught reading, writing, [rhetoric](/rhetoric), and [grammar](/grammar). The ideal of the educated orator — someone who could speak persuasively on any topic — drove Roman curriculum. Quintilian's *Institutio Oratoria* (around 95 CE), a 12-volume work on education, remained influential for centuries and argued against corporal punishment — a startlingly modern position for its time.
 
 ### China and the East
 
@@ -69,7 +69,7 @@ The exams were grueling. Candidates spent days in individual examination cells, 
 
 ## The Medieval Period
 
-After Rome's fall in Western Europe, the Catholic Church became the primary institution of education. Monasteries preserved and copied texts. Cathedral schools trained future clergy. The curriculum centered on the seven liberal arts: the trivium (grammar, rhetoric, logic) and the quadrivium (arithmetic, [geometry](/geometry), music, [astronomy](/astronomy)).
+After Rome's fall in Western Europe, the Catholic Church became the primary institution of education. Monasteries preserved and copied texts. Cathedral schools trained future clergy. The curriculum centered on the seven liberal arts: the trivium (grammar, rhetoric, [logic](/logic)) and the quadrivium (arithmetic, [geometry](/geometry), music, [astronomy](/astronomy)).
 
 The first universities emerged in the 12th and 13th centuries — Bologna (1088), Paris (circa 1150), Oxford (1167). They were initially loose associations of scholars and students, not the campus-based institutions we know today. Students were often teenagers. Lectures were the primary teaching method because books were hand-copied and enormously expensive — a single text might cost what a laborer earned in a year.
 
@@ -105,4 +105,4 @@ Several fundamental debates persist. Should education focus on academic content 
 
 The COVID-19 pandemic, which closed schools for over 1.6 billion students worldwide in 2020, exposed deep inequalities in access to digital learning and raised urgent questions about what schools provide beyond academics — socialization, meals, supervision, [mental health](/mental-health) support.
 
-Educational history doesn't answer these questions, but it provides essential context. Every current debate has precedents. Every proposed reform echoes something tried before. Knowing that history won't give you the right answer — but it'll help you avoid confidently proposing something that's already been tried and failed.
+Educational history doesn't answer these questions, but it provides essential context. Every current [debate](/debate) has precedents. Every proposed reform echoes something tried before. Knowing that history won't give you the right answer — but it'll help you avoid confidently proposing something that's already been tried and failed.

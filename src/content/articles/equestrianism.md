@@ -75,6 +75,6 @@ Riding is harder than it looks. The image of someone sitting passively atop a ho
 
 Equestrianism's reputation as an elite sport has some basis in reality. Horse ownership is expensive — $5,000-$15,000 annually for basic care, substantially more for competition. Top-level competitors ride horses worth $100,000 to millions. The sport's demographics skew wealthy and female (approximately 80% of recreational riders are women).
 
-However, riding is more accessible than its reputation suggests. Lesson programs offer riding experience without ownership costs. Working student programs trade barn labor for instruction and ride time. Therapeutic riding programs serve people with disabilities at subsidized or no cost. And community riding programs in urban areas have expanded access significantly.
+However, riding is more accessible than its reputation suggests. Lesson programs offer riding experience without ownership costs. Working student programs [trade](/trade) barn labor for instruction and ride time. Therapeutic riding programs serve people with disabilities at subsidized or no cost. And community riding programs in urban areas have expanded access significantly.
 
 The relationship between human and horse — the communication, the trust, the physical partnership with another species — is what keeps people riding despite the cost, the danger, and the time commitment. Riders describe it as addictive, and they're not being dramatic. Once you've galloped a horse across an open field, the experience doesn't leave you.

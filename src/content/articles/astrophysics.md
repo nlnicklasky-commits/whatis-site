@@ -39,7 +39,7 @@ faq:
 
 # What Is Astrophysics?
 
-Astrophysics is the branch of [astronomy](/astronomy) that applies the principles and methods of physics — including mechanics, thermodynamics, [electromagnetism](/electromagnetism), nuclear and [particle physics](/particle-physics), [quantum mechanics](/quantum-mechanics), and [general relativity](/general-relativity) — to understand the nature, behavior, and evolution of celestial objects and the universe as a whole. Where astronomy asks "what's out there?", astrophysics asks "how does it work?"
+Astrophysics is the branch of [astronomy](/astronomy) that applies the principles and methods of [physics](/physics) — including mechanics, [thermodynamics](/thermodynamics), [electromagnetism](/electromagnetism), nuclear and [particle physics](/particle-physics), [quantum mechanics](/quantum-mechanics), and [general relativity](/general-relativity) — to understand the nature, behavior, and evolution of celestial objects and the universe as a whole. Where astronomy asks "what's out there?", astrophysics asks "how does it work?"
 
 ## Physics Meets the Cosmos
 
@@ -63,7 +63,7 @@ Astrophysics draws on nearly every branch of physics. Here's why each matters.
 
 Newton's gravity works beautifully for most situations — orbits, tides, rocket trajectories. But it breaks down at extremes. Mercury's orbit has a tiny wobble that Newtonian gravity can't explain. Light bends around massive objects. Clocks tick slower in strong gravitational fields.
 
-Einstein's general theory of relativity (1915) replaced Newton's framework with a radical idea: gravity isn't a force between objects. It's the curvature of spacetime caused by mass and energy. Objects follow the straightest possible paths through curved spacetime — what we perceive as gravitational attraction.
+Einstein's general theory of [relativity](/relativity) (1915) replaced Newton's framework with a radical idea: gravity isn't a force between objects. It's the curvature of spacetime caused by mass and energy. Objects follow the straightest possible paths through curved spacetime — what we perceive as gravitational attraction.
 
 General relativity is essential for understanding black holes, gravitational waves, the expansion of the universe, and the Big Bang. It predicted gravitational lensing (confirmed by Arthur Eddington's observations during the 1919 solar eclipse), gravitational time dilation (measured by atomic clocks on aircraft and confirmed daily by GPS corrections), and gravitational waves (detected by LIGO in 2015).
 
@@ -75,7 +75,7 @@ Stars are nuclear fusion reactors. Understanding stellar energy production requi
 
 Hans Bethe worked out the nuclear reactions powering the sun in 1938 — the proton-proton chain, where four hydrogen nuclei are fused step by step into one helium nucleus. The mass difference becomes energy via E = mc^2. Bethe won the Nobel Prize for this work in 1967.
 
-Heavier elements are forged in progressively hotter stellar cores (carbon requires about 600 million degrees, silicon about 3 billion) and in the cataclysmic conditions of supernovae. Elements heavier than iron — gold, platinum, uranium — are primarily produced in neutron star mergers, where neutrons bombard existing nuclei in a process called rapid neutron capture (the r-process). When LIGO detected the gravitational waves from a neutron star merger in 2017, follow-up observations confirmed the production of heavy elements — settling a decades-long debate.
+Heavier elements are forged in progressively hotter stellar cores (carbon requires about 600 million degrees, silicon about 3 billion) and in the cataclysmic conditions of supernovae. Elements heavier than iron — gold, platinum, uranium — are primarily produced in neutron star mergers, where neutrons bombard existing nuclei in a process called rapid neutron capture (the r-process). When LIGO detected the gravitational waves from a neutron star merger in 2017, follow-up observations confirmed the production of heavy elements — settling a decades-long [debate](/debate).
 
 ### Thermodynamics and [Statistical Mechanics](/statistical-mechanics)
 
@@ -93,9 +93,9 @@ Quantum mechanics also governs the behavior of neutron stars (supported by neutr
 
 ### Electromagnetism
 
-Almost everything astrophysicists know comes from electromagnetic radiation. Maxwell's equations, describing how electric and magnetic fields propagate as light, underpin every observation. Spectroscopy — the analysis of light at different wavelengths — is astrophysics' most powerful diagnostic tool.
+Almost everything astrophysicists know comes from electromagnetic radiation. Maxwell's equations, describing how electric and magnetic fields propagate as light, underpin every observation. [Spectroscopy](/spectroscopy) — the analysis of light at different wavelengths — is astrophysics' most powerful diagnostic tool.
 
-Synchrotron radiation from charged particles spiraling in magnetic fields explains the radio and X-ray emission from pulsars, jets from active galactic nuclei, and supernova remnants. Magnetic fields in plasma (the state of matter in most of the universe — ionized gas) are studied through magnetohydrodynamics (MHD), a marriage of fluid dynamics and electromagnetism.
+Synchrotron radiation from charged particles spiraling in magnetic fields explains the radio and X-ray emission from pulsars, jets from active galactic nuclei, and supernova remnants. Magnetic fields in plasma (the state of matter in most of the universe — ionized gas) are studied through magnetohydrodynamics (MHD), a marriage of [fluid dynamics](/fluid-dynamics) and electromagnetism.
 
 ## Black Holes: Where Physics Gets Weird
 
@@ -125,11 +125,11 @@ When a star between roughly 8 and 25 solar masses dies, its core collapses to a 
 
 Neutron stars can spin up to 716 times per second (that's the fastest known, PSR J1748-2446ad). If they have a magnetic field misaligned with their rotation axis, they emit beams of radiation from their magnetic poles. When those beams sweep past Earth, we detect regular pulses — hence "pulsars." Jocelyn Bell Burnell discovered the first pulsar in 1967 as a graduate student, though the Nobel Prize went to her supervisor Antony Hewish (a decision widely considered unjust).
 
-Pulsars are extraordinarily precise clocks. Millisecond pulsars rival atomic clocks in stability, making them useful for detecting gravitational waves, testing general relativity, and potentially for spacecraft navigation.
+Pulsars are extraordinarily precise clocks. Millisecond pulsars rival atomic clocks in stability, making them useful for detecting gravitational waves, testing general relativity, and potentially for spacecraft [navigation](/navigation).
 
 ## The Expanding Universe and Cosmology
 
-Cosmology — understanding the universe's large-scale structure and evolution — is where astrophysics reaches its grandest scope.
+[Cosmology](/cosmology) — understanding the universe's large-scale structure and evolution — is where astrophysics reaches its grandest scope.
 
 ### The Big Bang
 
@@ -175,9 +175,9 @@ Astrophysics in 2026 faces several major open questions.
 
 **What is dark energy?** Is it truly a cosmological constant, or does it change over time? Is our understanding of gravity incomplete? The Dark Energy Spectroscopic Instrument (DESI) and the Vera C. Rubin Observatory are designed partly to address this.
 
-**How do you unify quantum mechanics and general relativity?** These two theories are individually spectacularly successful but mathematically incompatible. String theory, loop quantum gravity, and other approaches attempt unification, but none has produced testable predictions yet.
+**How do you unify quantum mechanics and general relativity?** These two theories are individually spectacularly successful but mathematically incompatible. [String theory](/string-theory), loop quantum gravity, and other approaches attempt unification, but none has produced testable predictions yet.
 
-**Are we alone?** The discovery of thousands of exoplanets, many in habitable zones, has made this question scientific rather than purely philosophical. JWST can analyze exoplanet atmospheres for biosignatures. If evidence of extraterrestrial biology is found — even microbial — it would be the most consequential scientific discovery in history.
+**Are we alone?** The discovery of thousands of exoplanets, many in habitable zones, has made this question scientific rather than purely philosophical. JWST can analyze exoplanet atmospheres for biosignatures. If evidence of extraterrestrial [biology](/biology) is found — even microbial — it would be the most consequential scientific discovery in history.
 
 **What happened before the Big Bang?** Or is the question even meaningful? Some models (eternal inflation, cyclic cosmologies) suggest our Big Bang is one of many. Others argue that "before the Big Bang" is as meaningless as "north of the North Pole." We may never know.
 
@@ -187,7 +187,7 @@ Some of these questions might seem abstract — disconnected from daily life. In
 
 But astrophysics does three things that matter broadly.
 
-First, it drives technology. [Applied mathematics](/applied-mathematics), detector technology, data analysis methods, and computational techniques developed for astrophysics frequently migrate to medicine, communications, [materials science](/materials-science), and other fields.
+First, it drives technology. [Applied mathematics](/applied-mathematics), detector technology, [data analysis](/data-analysis) methods, and computational techniques developed for astrophysics frequently migrate to medicine, communications, [materials science](/materials-science), and other fields.
 
 Second, it reveals our context. We live on a thin crust of rock orbiting an ordinary star in a typical galaxy in an expanding universe that's 13.8 billion years old and 95% made of stuff we don't understand. That context — humbling, astonishing, and occasionally terrifying — shapes how we think about our place in existence.
 

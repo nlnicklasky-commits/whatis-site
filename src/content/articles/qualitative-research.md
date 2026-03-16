@@ -35,7 +35,7 @@ faq:
 
 # What Is Qualitative Research?
 
-Qualitative research is a family of [research methods](/research-methods) that investigate human experience, meaning, and social phenomena through non-numerical data—interviews, observations, documents, images, and field notes. Where quantitative research asks "how many?" and "how much?", qualitative research asks "what is this experience like?", "how do people make sense of this?", and "why do they do what they do?" It's the branch of scientific inquiry designed for questions that numbers alone can't answer, and it's used across [psychology](/psychology), [anthropology](/anthropology), sociology, education, health sciences, business, and virtually every field that studies human behavior.
+Qualitative research is a family of [research methods](/research-methods) that investigate human experience, meaning, and social phenomena through non-numerical data—interviews, observations, documents, images, and field notes. Where quantitative research asks "how many?" and "how much?", qualitative research asks "what is this experience like?", "how do people make sense of this?", and "why do they do what they do?" It's the branch of scientific inquiry designed for questions that numbers alone can't answer, and it's used across [psychology](/psychology), [anthropology](/anthropology), [sociology](/sociology), [education](/education), health sciences, business, and virtually every field that studies human behavior.
 
 ## Why Qualitative Research Exists
 
@@ -71,7 +71,7 @@ Ethnography is the study of cultures and social groups through prolonged immersi
 
 Anthropology pioneered ethnography—Bronislaw Malinowski's fieldwork in the Trobriand Islands (1915-1918) established the model of long-term participant observation that [anthropology](/anthropology) still follows. But ethnographic methods are now used across disciplines. Organizational ethnographers study corporate cultures. Educational ethnographers study classroom dynamics. Medical ethnographers study hospital wards and clinical encounters.
 
-Digital ethnography has expanded the field into online spaces. Researchers study Reddit communities, Discord servers, gaming cultures, and social media movements using adapted ethnographic methods—observing, participating, and analyzing digital interactions as cultural practices.
+Digital ethnography has expanded the field into online spaces. Researchers study Reddit communities, Discord servers, [gaming](/gaming) cultures, and social media movements using adapted ethnographic methods—observing, participating, and analyzing digital interactions as cultural practices.
 
 ### Case Study Research
 
@@ -123,7 +123,7 @@ There's a spectrum from deductive coding (starting with pre-defined codes from t
 
 ### Thematic Analysis
 
-Braun and Clarke's (2006) thematic analysis framework has become the most widely used approach to qualitative data analysis, probably because it's flexible, transparent, and clearly described. The six steps—familiarization, initial coding, generating themes, reviewing themes, defining themes, and writing up—provide a structured process without imposing theoretical commitments.
+Braun and Clarke's (2006) thematic analysis framework has become the most widely used approach to qualitative data analysis, probably because it's flexible, transparent, and clearly described. The six steps—familiarization, initial coding, generating themes, reviewing themes, defining themes, and [writing](/writing) up—provide a structured process without imposing theoretical commitments.
 
 A theme isn't just a topic that comes up frequently. It's a pattern of meaning that captures something important about the data in relation to the research question. Frequency matters, but so does significance—a theme mentioned by only two participants might be analytically important if it reveals a pattern that explains other findings.
 
@@ -155,7 +155,7 @@ A qualitative study of racial discrimination conducted by a white researcher wil
 
 ## Mixed Methods: The Integration
 
-The "model wars" between qualitative and quantitative researchers have largely given way to [pragmatism](/pragmatism). Mixed methods research deliberately combines both approaches, using qualitative data to explain quantitative results, using quantitative data to test qualitative findings, or running both in parallel to provide a more complete picture.
+The "model wars" between qualitative and quantitative researchers have largely given way to [pragmatism](/pragmatism). Mixed methods research deliberately combines both approaches, using qualitative data to explain quantitative results, using quantitative data to test qualitative findings, or [running](/running) both in parallel to provide a more complete picture.
 
 John Creswell's mixed methods designs—convergent (collecting both simultaneously), explanatory sequential (quantitative first, then qualitative to explain), and exploratory sequential (qualitative first, then quantitative to test)—have become standard frameworks.
 

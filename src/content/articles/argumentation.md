@@ -37,7 +37,7 @@ faq:
 
 # What Is Argumentation?
 
-Argumentation is the interdisciplinary study of how people construct, present, analyze, and evaluate reasoned claims. It draws on logic, [rhetoric](/rhetoric), and dialectic to understand how conclusions are supported by evidence and reasoning — and how they can go wrong. In simpler terms, argumentation is the study of how (and whether) we make sense when we try to convince ourselves or others that something is true.
+Argumentation is the interdisciplinary study of how people construct, present, analyze, and evaluate reasoned claims. It draws on [logic](/logic), [rhetoric](/rhetoric), and dialectic to understand how conclusions are supported by evidence and reasoning — and how they can go wrong. In simpler terms, argumentation is the study of how (and whether) we make sense when we try to convince ourselves or others that something is true.
 
 ## This Isn't About Yelling
 
@@ -59,7 +59,7 @@ Argumentation theory has a surprisingly deep history. Three ancient Greek tradit
 
 ### Logic (Aristotle)
 
-Aristotle, writing in the 4th century BCE, essentially invented formal logic. His system of syllogisms — structured arguments with a major premise, a minor premise, and a conclusion — dominated Western reasoning for nearly 2,000 years.
+Aristotle, [writing](/writing) in the 4th century BCE, essentially invented formal logic. His system of syllogisms — structured arguments with a major premise, a minor premise, and a conclusion — dominated Western reasoning for nearly 2,000 years.
 
 The syllogism above about whales and milk? That's Aristotelian logic. The form is:
 
@@ -69,7 +69,7 @@ The syllogism above about whales and milk? That's Aristotelian logic. The form i
 
 Aristotle identified valid forms (where the conclusion necessarily follows from the premises) and invalid forms (where it doesn't). He cataloged fallacies — reasoning errors that look convincing but aren't. His work *Organon* is the foundation of formal logic.
 
-But Aristotle recognized that formal logic alone wasn't enough for real-world reasoning. Most practical arguments don't have the clean certainty of syllogisms. People argue about [politics](/politics), ethics, strategy, and everyday decisions where absolute proof is impossible. For these situations, Aristotle also wrote about rhetoric and dialectic.
+But Aristotle recognized that formal logic alone wasn't enough for real-world reasoning. Most practical arguments don't have the clean certainty of syllogisms. People argue about [politics](/politics), [ethics](/ethics), strategy, and everyday decisions where absolute proof is impossible. For these situations, Aristotle also wrote about rhetoric and dialectic.
 
 ### Rhetoric (Aristotle, Cicero, Quintilian)
 
@@ -161,7 +161,7 @@ Theory is useful, but argumentation exists in real contexts with real stakes.
 
 Legal argumentation is one of the most structured forms of reasoning in practice. Lawyers construct arguments from evidence, precedent, and legal principles. The adversarial system — prosecution vs. defense, plaintiff vs. defendant — is deliberately dialectical: truth is expected to emerge from the clash of opposing arguments.
 
-Legal reasoning combines deductive logic (applying general laws to specific cases) with inductive reasoning (drawing conclusions from evidence) and abductive reasoning (inferring what most likely happened from available facts). The burden of proof shifts depending on the type of case — "beyond a reasonable doubt" in criminal cases, "preponderance of evidence" in civil cases.
+Legal reasoning combines deductive logic (applying general laws to specific cases) with inductive reasoning ([drawing](/drawing) conclusions from evidence) and abductive reasoning (inferring what most likely happened from available facts). The burden of proof shifts depending on the type of case — "beyond a reasonable doubt" in criminal cases, "preponderance of evidence" in civil cases.
 
 ### Science
 
@@ -232,6 +232,6 @@ A few principles that apply whether you're writing a philosophy paper, making a 
 
 We live in a world saturated with claims competing for your belief. Buy this product. Vote for this candidate. Trust this expert. Fear this threat. Argumentation gives you the tools to evaluate those claims instead of just absorbing them.
 
-It's not about winning every debate. It's about thinking clearly — recognizing when someone's reasoning is solid, when it's flawed, and when you need more information before deciding. That skill doesn't just make you a better arguer. It makes you a harder person to deceive, a more effective communicator, and a more honest thinker.
+It's not about winning every [debate](/debate). It's about thinking clearly — recognizing when someone's reasoning is solid, when it's flawed, and when you need more information before deciding. That skill doesn't just make you a better arguer. It makes you a harder person to deceive, a more effective communicator, and a more honest thinker.
 
 Aristotle knew this 2,400 years ago. The tools have been refined since then, but the core insight hasn't changed: clear thinking is a skill, not a talent. And like any skill, it improves with study and practice.

@@ -63,7 +63,7 @@ The diversity of vaudeville acts was extraordinary. In a single evening, you mig
 
 **Comedians** — From slapstick [physical comedy](/physical-comedy) to sophisticated verbal humor. The Marx Brothers developed their famous anarchic style performing hundreds of vaudeville shows, refining bits night after night before live audiences. W.C. Fields started as a [juggling](/juggling) act before discovering his talent for sardonic comedy.
 
-**Musicians and singers** — Everything from opera arias to ragtime piano to barbershop quartets. Sophie Tucker, billed as "The Last of the Red Hot Mamas," became one of vaudeville's highest-paid performers with her bold, brassy singing style.
+**Musicians and singers** — Everything from [opera](/opera) arias to ragtime [piano](/piano) to barbershop quartets. Sophie Tucker, billed as "The Last of the Red Hot Mamas," became one of vaudeville's highest-paid performers with her bold, brassy singing style.
 
 **Dancers** — Tap [dance](/dance) essentially grew up in vaudeville. Bill "Bojangles" Robinson perfected his stair dance on vaudeville stages before becoming a film star.
 
@@ -87,7 +87,7 @@ Vaudeville died as a business in the 1930s, but its DNA is everywhere in modern 
 
 **Television variety shows** — Ed Sullivan, Carol Burnett, Saturday Night Live, and every late-night talk show with a guest-act format descend directly from vaudeville.
 
-**Stand-up comedy** — The concept of a single performer delivering prepared material to a live audience for a set amount of time is pure vaudeville structure.
+**[Stand-up comedy](/stand-up-comedy)** — The concept of a single performer delivering prepared material to a live audience for a set amount of time is pure vaudeville structure.
 
 **Talent competitions** — America's Got Talent is literally a vaudeville show with audience voting. The variety-act format, the emphasis on spectacle, the mix of comedy and physical acts — all vaudeville.
 

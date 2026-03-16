@@ -35,11 +35,11 @@ faq:
 
 # What Is Electromagnetism?
 
-Electromagnetism is one of the four fundamental forces of nature — the force responsible for all interactions between electrically charged particles, including the behavior of electric fields, magnetic fields, and electromagnetic radiation such as light. It holds atoms together, makes chemistry possible, and governs every piece of technology that uses electricity.
+Electromagnetism is one of the four fundamental forces of nature — the force responsible for all interactions between electrically charged particles, including the behavior of electric fields, magnetic fields, and electromagnetic radiation such as light. It holds atoms together, makes chemistry possible, and governs every piece of technology that uses [electricity](/electricity).
 
 ## Two Forces That Turned Out to Be One
 
-For most of human history, electricity and magnetism seemed like completely different phenomena. Electricity was the mysterious spark from rubbed amber (the Greek word *elektron* means amber). Magnetism was the curious property of lodestones that attracted iron and pointed compasses north. Nobody suspected a connection.
+For most of human history, electricity and [magnetism](/magnetism) seemed like completely different phenomena. Electricity was the mysterious spark from rubbed amber (the Greek word *elektron* means amber). Magnetism was the curious property of lodestones that attracted iron and pointed compasses north. Nobody suspected a connection.
 
 Then, on April 21, 1820, Hans Christian Oersted noticed something during a lecture demonstration. A compass needle sitting near a wire deflected when he turned on an electric current. The current was creating a magnetic field. Electricity and magnetism were connected.
 
@@ -110,7 +110,7 @@ James Clerk Maxwell unified electricity and magnetism in the 1860s with four equ
 
 The third and fourth equations are where the magic lives. They couple electric and magnetic fields together, with each one's change generating the other. This coupling allows electromagnetic disturbances to propagate through space as self-sustaining waves — electromagnetic radiation.
 
-Maxwell calculated the speed of these waves from electrical measurements alone: about 3 x 10^8 m/s. This matched the known speed of light with startling precision. Maxwell's conclusion — that light is an electromagnetic wave — was one of the greatest theoretical discoveries in physics.
+Maxwell calculated the speed of these waves from electrical measurements alone: about 3 x 10^8 m/s. This matched the known speed of light with startling precision. Maxwell's conclusion — that light is an electromagnetic wave — was one of the greatest theoretical discoveries in [physics](/physics).
 
 Heinrich Hertz confirmed Maxwell's prediction experimentally in 1887 by generating and detecting radio waves in his laboratory. Within a decade, Guglielmo Marconi was transmitting radio signals across the Atlantic. The age of wireless communication had begun, all flowing from Maxwell's four equations.
 
@@ -124,7 +124,7 @@ The longest wavelengths, lowest frequencies, lowest energies. Radio waves carry 
 
 ### Infrared
 
-Warm objects emit infrared radiation. Your body radiates about 100 watts of infrared — invisible to your eyes but detectable by thermal cameras. Infrared is used in remote controls, fiber optic communication, thermal imaging, and spectroscopy.
+Warm objects emit infrared radiation. Your body radiates about 100 watts of infrared — invisible to your eyes but detectable by thermal cameras. Infrared is used in remote controls, fiber optic communication, thermal imaging, and [spectroscopy](/spectroscopy).
 
 ### Visible Light
 
@@ -132,9 +132,9 @@ The narrow band your eyes evolved to detect, spanning wavelengths from about 380
 
 ### Ultraviolet, X-rays, and Gamma Rays
 
-Progressively higher energies. UV from sunlight causes sunburn and vitamin D production. X-rays penetrate soft tissue but are absorbed by bone, enabling medical imaging. Gamma rays, produced by nuclear reactions and cosmic events, carry enough energy to damage DNA and are used in cancer radiation therapy.
+Progressively higher energies. UV from sunlight causes sunburn and vitamin D production. X-rays penetrate soft tissue but are absorbed by bone, enabling [medical imaging](/medical-imaging). Gamma rays, produced by nuclear reactions and cosmic events, carry enough energy to damage DNA and are used in cancer radiation therapy.
 
-The key insight: these aren't different phenomena. They're all electromagnetic waves. The same physics governs a radio tower broadcasting FM signals and a supernova emitting gamma rays. Only the frequency differs.
+The key insight: these aren't different phenomena. They're all electromagnetic waves. The same physics governs a radio tower [broadcasting](/broadcasting) FM signals and a supernova emitting gamma rays. Only the frequency differs.
 
 ## Electromagnetism in Technology
 
@@ -154,9 +154,9 @@ The efficiency of electric motors (typically 85-95%) far exceeds internal combus
 
 ### Communication
 
-Radio, television, cellular networks, WiFi, Bluetooth, satellite links, fiber optics — all transmit information using electromagnetic waves. The global communication infrastructure is built entirely on electromagnetic principles.
+Radio, television, cellular networks, WiFi, Bluetooth, satellite links, [fiber optics](/fiber-optics) — all transmit information using electromagnetic waves. The global communication infrastructure is built entirely on electromagnetic principles.
 
-Modern communication systems push extraordinarily close to theoretical limits. Claude Shannon's [information theory](/information-theory) (1948) established the maximum data rate achievable over a noisy channel. Today's 5G networks and optical fiber systems approach these limits, representing decades of electromagnetic engineering optimization.
+Modern communication systems push extraordinarily close to theoretical limits. Claude Shannon's [information theory](/information-theory) (1948) established the maximum data rate achievable over a noisy channel. Today's 5G networks and optical fiber systems approach these limits, representing decades of electromagnetic [engineering](/engineering) [optimization](/optimization).
 
 ### Computing
 

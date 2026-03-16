@@ -85,7 +85,7 @@ Color adoption was slow because sets were expensive — the equivalent of $8,000
 
 ### Satellite Broadcasting
 
-Telstar, launched on July 10, 1962, was the first communications satellite to relay television signals across the Atlantic. Suddenly, live international broadcasting was possible. The implications were immediate — the assassination of President John F. Kennedy on November 22, 1963, was the first major news event covered on live television worldwide, and the nation essentially stopped for four days of continuous coverage.
+Telstar, launched on July 10, 1962, was the first communications satellite to relay television signals across the Atlantic. Suddenly, live international [broadcasting](/broadcasting) was possible. The implications were immediate — the assassination of President John F. Kennedy on November 22, 1963, was the first major news event covered on live television worldwide, and the nation essentially stopped for four days of continuous coverage.
 
 The moon landing on July 20, 1969, was the ultimate demonstration of television's reach. An estimated 600 million people — one-sixth of humanity — watched Neil Armstrong step onto the lunar surface in real time.
 

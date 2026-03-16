@@ -35,7 +35,7 @@ faq:
 
 # What Is Sports Psychology?
 
-Sports psychology is the scientific study of how psychological factors affect athletic performance and how participation in sports affects people's mental and emotional well-being. It sits at the intersection of psychology and [athletics](/athletics), examining everything from why some athletes thrive under pressure while others choke, to how coaches can motivate teams, to why exercise is one of the most effective treatments for depression.
+Sports [psychology](/psychology) is the scientific study of how psychological factors affect athletic performance and how participation in sports affects people's mental and emotional well-being. It sits at the intersection of psychology and [athletics](/athletics), examining everything from why some athletes thrive under pressure while others choke, to how coaches can motivate teams, to why exercise is one of the most effective treatments for depression.
 
 ## The Mental Side of Athletics
 
@@ -154,4 +154,4 @@ The COVID-19 pandemic, combined with high-profile athletes like Biles, Naomi Osa
 
 The field is expanding in several directions. Wearable technology and biofeedback devices now allow real-time monitoring of physiological stress markers during training and competition. [Virtual reality](/virtual-reality) is being used for visualization training, allowing athletes to practice in simulated competitive environments. Genetic research is beginning to explore how individual differences in stress response and personality traits interact with mental training approaches.
 
-Perhaps the most important trend is accessibility. Sports psychology was once reserved for Olympic and professional athletes. Increasingly, it's available to college athletes, youth sports participants, and recreational athletes. The principles work at every level — because the mental challenges of performance are universal. Whether you're stepping to the plate in a World Series game or teeing off in a weekend round of golf, the fundamentals of focus, confidence, and emotional regulation are the same.
+Perhaps the most important trend is accessibility. Sports psychology was once reserved for Olympic and professional athletes. Increasingly, it's available to college athletes, youth sports participants, and recreational athletes. The principles work at every level — because the mental challenges of performance are universal. Whether you're stepping to the plate in a World Series game or teeing off in a weekend round of [golf](/golf), the fundamentals of focus, confidence, and emotional regulation are the same.

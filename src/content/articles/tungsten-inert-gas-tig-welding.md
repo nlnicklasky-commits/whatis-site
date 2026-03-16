@@ -35,7 +35,7 @@ faq:
 
 # What Is Tungsten Inert Gas (TIG) Welding?
 
-TIG welding — formally known as Gas Tungsten Arc Welding (GTAW) — is a welding process that uses a non-consumable tungsten electrode to produce an electric arc, shielded by an inert gas, to fuse metals together. It produces the cleanest, most precise welds of any arc welding method, which is why it's the go-to process for aerospace, nuclear, and food-grade applications.
+TIG [welding](/welding) — formally known as Gas Tungsten Arc Welding (GTAW) — is a welding process that uses a non-consumable tungsten electrode to produce an electric arc, shielded by an inert gas, to fuse metals together. It produces the cleanest, most precise welds of any arc welding method, which is why it's the go-to process for aerospace, nuclear, and food-grade applications.
 
 ## How TIG Welding Actually Works
 
@@ -99,7 +99,7 @@ TIG welding a clean, consistent bead is genuinely difficult. It requires coordin
 
 ### The Walking-the-Cup Technique
 
-For pipe welding and large joints, many welders use a technique called "walking the cup," where they rock the ceramic gas nozzle from side to side along the joint, using it as a fulcrum. This produces a characteristic stack-of-dimes pattern that looks beautiful when done right. Pipe welders who've mastered this technique can produce welds that look machine-made.
+For pipe welding and large joints, many welders use a technique called "[walking](/walking) the cup," where they rock the ceramic gas nozzle from side to side along the joint, using it as a fulcrum. This produces a characteristic stack-of-dimes pattern that looks beautiful when done right. Pipe welders who've mastered this technique can produce welds that look machine-made.
 
 ### Pulsed TIG
 

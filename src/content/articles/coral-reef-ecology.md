@@ -123,7 +123,7 @@ Reefs aren't just pretty underwater scenery. Their ecological and economic impor
 
 ### Economic Value
 
-A 2020 study estimated the global economic value of coral reefs at roughly $2.7 trillion annually. This includes fisheries production (reef fisheries feed an estimated 500 million people worldwide), tourism revenue ($36 billion annually), coastal protection, and pharmaceutical research.
+A 2020 study estimated the global economic value of coral reefs at roughly $2.7 trillion annually. This includes fisheries production (reef fisheries feed an estimated 500 million people worldwide), [tourism](/tourism) revenue ($36 billion annually), coastal protection, and pharmaceutical research.
 
 Reef-associated fisheries provide the primary protein source for many tropical coastal communities. In some Pacific Island nations, reef fish supply over 90% of dietary animal protein. The loss of these fisheries would create food crises affecting hundreds of millions.
 
@@ -169,7 +169,7 @@ This isn't just theory. Studies of naturally acidified reef areas (near volcanic
 
 Global threats get the headlines, but local stressors cause enormous damage too.
 
-**Overfishing** removes herbivorous fish that keep algae in check. Without parrotfish and surgeonfish, algae overgrow coral. Destructive fishing practices---dynamite fishing, cyanide fishing---directly destroy reef structure.
+**Overfishing** removes herbivorous fish that keep algae in check. Without parrotfish and surgeonfish, algae overgrow coral. Destructive [fishing](/fishing) practices---dynamite fishing, cyanide fishing---directly destroy reef structure.
 
 **Coastal development** increases sediment runoff that smothers corals and blocks light. Deforestation and poor [agriculture](/agriculture) practices upstream increase sediment loads in rivers that drain to reef areas.
 
@@ -185,7 +185,7 @@ The situation is dire but not hopeless. Significant conservation efforts are und
 
 Marine Protected Areas (MPAs) that restrict fishing, development, and extractive activities can allow reef recovery. Studies consistently show that well-managed no-take zones have more fish, more coral cover, and greater biodiversity than adjacent unprotected areas.
 
-The effectiveness varies enormously, though. A poorly enforced MPA is just a line on a map. Effective MPAs require adequate funding, community support, and enforcement. Australia's Great Barrier Reef Marine Park, established in 1975 and expanded in 2004 to protect 33% of the reef from extractive activities, is often cited as a model---though even it faces existential threats from climate change.
+The effectiveness varies enormously, though. A poorly enforced MPA is just a line on a map. Effective MPAs require adequate funding, community support, and enforcement. Australia's Great Barrier Reef Marine Park, established in 1975 and expanded in 2004 to protect 33% of the reef from extractive activities, is often cited as a model---though even it faces existential threats from [climate change](/climate-change).
 
 ### Coral Restoration
 

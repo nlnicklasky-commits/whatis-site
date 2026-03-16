@@ -37,13 +37,13 @@ faq:
 
 # What Is Geochronology?
 
-Geochronology is the branch of geology dedicated to determining the ages of rocks, fossils, sediments, and geological events. It combines radiometric dating techniques — which measure the decay of radioactive isotopes — with stratigraphic methods to construct the timeline of Earth's 4.54-billion-year history.
+Geochronology is the branch of [geology](/geology) dedicated to determining the ages of rocks, fossils, sediments, and geological events. It combines radiometric dating techniques — which measure the decay of radioactive isotopes — with stratigraphic methods to construct the timeline of Earth's 4.54-billion-year history.
 
 ## The Problem of Deep Time
 
 Humans are terrible at grasping deep time. A century feels long. A millennium feels ancient. But Earth's history spans 4.54 billion years — a number so large it stops meaning anything intuitively.
 
-Here's a way to make it click. Compress Earth's entire history into a single 24-hour day. The planet forms at midnight. Life appears around 4:00 AM. Photosynthetic organisms show up at about 6:00 AM. Complex multicellular life doesn't appear until after 6:00 PM. Dinosaurs arrive at 10:40 PM and go extinct at 11:39 PM. All of recorded human history — every civilization, every war, every invention — occupies the final fraction of a second before midnight.
+Here's a way to make it click. Compress Earth's entire history into a single 24-hour day. The planet forms at midnight. Life appears around 4:00 AM. Photosynthetic organisms show up at about 6:00 AM. Complex multicellular life doesn't appear until after 6:00 PM. Dinosaurs arrive at 10:40 PM and go extinct at 11:39 PM. All of recorded human history — every civilization, every war, every [invention](/invention) — occupies the final fraction of a second before midnight.
 
 Geochronology is how we built that timeline. And building it required solving a genuinely difficult problem: how do you measure time in rocks?
 
@@ -69,7 +69,7 @@ This biostratigraphic approach, refined over two centuries, produced the geologi
 
 Before radiometric dating, scientists tried various approaches to estimate Earth's age. Lord Kelvin calculated how long it would take a molten Earth to cool to its present state — about 20-40 million years. He was wrong by a factor of 100 because he didn't know about radioactive heating inside Earth. Other estimates based on salt accumulation in the ocean or sediment deposition rates gave wildly varying results — all far too young.
 
-The answer required physics that hadn't been discovered yet.
+The answer required [physics](/physics) that hadn't been discovered yet.
 
 ## Radiometric Dating: The Radioactive Clock
 
@@ -153,7 +153,7 @@ After the Chernobyl and Fukushima disasters, geochronological techniques helped 
 
 ### Groundwater Dating
 
-Tritium, carbon-14, and chlorofluorocarbons in groundwater reveal how long water has been underground. This matters enormously for water [resource management](/resource-management) — are we drawing from renewable water that's replenished yearly, or mining ancient water that took thousands of years to accumulate? In many arid regions, the answer is uncomfortably the latter.
+Tritium, carbon-14, and chlorofluorocarbons in groundwater reveal how long water has been underground. This matters enormously for water [resource management](/resource-management) — are we [drawing](/drawing) from renewable water that's replenished yearly, or mining ancient water that took thousands of years to accumulate? In many arid regions, the answer is uncomfortably the latter.
 
 ### Archaeological Dating
 
@@ -173,7 +173,7 @@ Geochronology isn't simple. Several challenges keep researchers busy.
 
 ## Why Geochronology Matters
 
-Without geochronology, we'd have no numerical timeline for Earth's history. We wouldn't know when the dinosaurs lived, when ice ages occurred, how fast tectonic plates move, or how old the universe is. We couldn't reconstruct past climates to understand current climate change. We couldn't date archaeological sites or trace the migrations of ancient peoples.
+Without geochronology, we'd have no numerical timeline for Earth's history. We wouldn't know when the dinosaurs lived, when ice ages occurred, how fast tectonic plates move, or how old the universe is. We couldn't reconstruct past climates to understand current [climate change](/climate-change). We couldn't date archaeological sites or trace the migrations of ancient peoples.
 
 The ability to measure time in rocks and minerals — to put absolute numbers on the geological record — transformed geology from a descriptive science to a quantitative one. It connected Earth science to [chemistry](/chemistry), physics, and [astronomy](/astronomy), and it gave us the timeline against which all of Earth's history is measured.
 

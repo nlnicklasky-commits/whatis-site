@@ -31,7 +31,7 @@ faq:
 
 # What Is Western Philosophy?
 
-Western philosophy is the tradition of systematic inquiry into fundamental questions — about reality, knowledge, morality, logic, and meaning — that began in ancient Greece around the 6th century BCE and continues through universities, books, and arguments today. It's the attempt to answer questions like "What exists?", "What can we know?", "What should we do?", and "What is a good life?" using reason and argument rather than authority or revelation.
+Western [philosophy](/philosophy) is the tradition of systematic inquiry into fundamental questions — about reality, knowledge, morality, [logic](/logic), and meaning — that began in ancient Greece around the 6th century BCE and continues through universities, books, and arguments today. It's the attempt to answer questions like "What exists?", "What can we know?", "What should we do?", and "What is a good life?" using reason and argument rather than authority or revelation.
 
 ## It Started with a Question About Water
 
@@ -47,7 +47,7 @@ These three thinkers — operating in Athens between roughly 470 and 322 BCE —
 
 **Plato** (428-348 BCE) wrote dialogues featuring Socrates as the main character. His most famous idea is the Theory of Forms — the claim that the physical world is a shadow of a higher reality of perfect, eternal Forms. The chair you're sitting in is an imperfect copy of the Form of "Chair." Mathematical truths (2+2=4) exist independently of physical objects. This sounds strange, but some version of Plato's argument about abstract objects remains alive in [mathematics](/mathematics) and philosophy today.
 
-**Aristotle** (384-322 BCE) was Plato's student and disagreed with him on almost everything. Where Plato looked beyond the physical world, Aristotle examined it. He classified animals, analyzed political systems, developed formal logic, wrote about ethics, physics, [metaphysics](/metaphysics), poetry, and [rhetoric](/rhetoric). His influence on Western thought is almost impossible to overstate — for roughly 1,500 years, "the Philosopher" meant Aristotle.
+**Aristotle** (384-322 BCE) was Plato's student and disagreed with him on almost everything. Where Plato looked beyond the physical world, Aristotle examined it. He classified animals, analyzed political systems, developed formal logic, wrote about [ethics](/ethics), physics, [metaphysics](/metaphysics), [poetry](/poetry), and [rhetoric](/rhetoric). His influence on Western thought is almost impossible to overstate — for roughly 1,500 years, "the Philosopher" meant Aristotle.
 
 ## The Medieval Period
 
@@ -83,6 +83,6 @@ After Kant, philosophy fractured into competing movements.
 
 ## Philosophy Now
 
-Contemporary Western philosophy is fragmented but active. [Philosophy of mind](/philosophy-of-mind) grapples with consciousness — why does physical brain activity produce subjective experience? [Political philosophy](/political-philosophy) debates justice, rights, and inequality. Applied ethics tackles questions about AI, genetic [engineering](/engineering), climate change, and animal rights.
+Contemporary Western philosophy is fragmented but active. [Philosophy of mind](/philosophy-of-mind) grapples with consciousness — why does physical brain activity produce subjective experience? [Political philosophy](/political-philosophy) debates justice, rights, and inequality. Applied ethics tackles questions about AI, genetic [engineering](/engineering), [climate change](/climate-change), and animal rights.
 
 The questions Thales asked 2,600 years ago — what is real, what can we know, how should we live — remain open. Philosophy doesn't produce final answers the way science sometimes does. What it produces is clearer thinking, better arguments, and a persistent refusal to accept "because I said so" as a reason for anything.

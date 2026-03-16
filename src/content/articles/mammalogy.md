@@ -35,7 +35,7 @@ faq:
 
 # What Is Mammalogy?
 
-Mammalogy is the branch of zoology focused on the study of mammals — the class Mammalia, comprising roughly 6,400 living species that include everything from 2-gram bumblebee bats to 150-ton blue whales. Mammalogists study mammalian [anatomy](/anatomy), [physiology](/physiology), behavior, ecology, evolution, [taxonomy](/taxonomy), and conservation.
+Mammalogy is the branch of [zoology](/zoology) focused on the study of mammals — the class Mammalia, comprising roughly 6,400 living species that include everything from 2-gram bumblebee bats to 150-ton blue whales. Mammalogists study mammalian [anatomy](/anatomy), [physiology](/physiology), behavior, ecology, evolution, [taxonomy](/taxonomy), and conservation.
 
 You are a mammal. So is your dog, the squirrel in your yard, the whale in the ocean, and the bat in your attic. We share a common ancestor from about 200 million years ago, and despite the enormous diversity since then, every mammal on Earth shares a few key features that define the group. Understanding what those features are — and how mammals came to dominate so many ecological niches — is what mammalogy is all about.
 
@@ -45,7 +45,7 @@ Three features define mammals uniquely:
 
 ### Mammary Glands
 
-The defining characteristic — and the one that gives the class its name. All female mammals produce milk to nourish their young. Milk composition varies enormously: human milk is about 4% fat, while hooded seal milk is 61% fat (allowing pups to gain 7 kg per day). Whale milk has the consistency of toothpaste, which helps it not dissolve in seawater during nursing.
+The defining characteristic — and the one that gives the class its name. All female mammals produce milk to nourish their young. Milk composition varies enormously: human milk is about 4% fat, while hooded seal milk is 61% fat (allowing pups to gain 7 kg per day). Whale milk has the consistency of toothpaste, which helps it not dissolve in seawater during [nursing](/nursing).
 
 Milk is an extraordinary evolutionary innovation. It freed mammals from dependence on specific food sources during the vulnerable postnatal period and allowed extended parental care, which in turn enabled the evolution of larger brains and more complex behavior.
 
@@ -107,9 +107,9 @@ Bats' role as viral reservoirs (they carry coronaviruses, Ebola, rabies, and oth
 
 ### Cetacea (Whales and Dolphins): ~90 Species
 
-Mammals that returned to the sea. Cetaceans evolved from small, hoofed land mammals about 50 million years ago. Transitional fossils like Pakicetus (a wolf-sized animal that lived near water), Ambulocetus (a "walking whale" that could both walk and swim), and Basilosaurus (a fully aquatic 18-meter predator) document this transition beautifully.
+Mammals that returned to the sea. Cetaceans evolved from small, hoofed land mammals about 50 million years ago. Transitional fossils like Pakicetus (a wolf-sized animal that lived near water), Ambulocetus (a "[walking](/walking) whale" that could both walk and swim), and Basilosaurus (a fully aquatic 18-meter predator) document this transition beautifully.
 
-Blue whales are the largest animals that have ever lived — larger than any dinosaur. At up to 30 meters and 180 tonnes, a blue whale's heart is the size of a golf cart, and its aorta is large enough for a small child to crawl through. Its tongue alone weighs as much as an elephant.
+Blue whales are the largest animals that have ever lived — larger than any dinosaur. At up to 30 meters and 180 tonnes, a blue whale's heart is the size of a [golf](/golf) cart, and its aorta is large enough for a small child to crawl through. Its tongue alone weighs as much as an elephant.
 
 Whale song — particularly humpback whale songs lasting up to 20 minutes and repeating for hours — represents one of the most complex vocal behaviors in the animal kingdom. Songs evolve culturally: new songs spread through populations like hit singles, and all males in a population sing the same current version.
 
@@ -153,15 +153,15 @@ Sperm whales have the largest brains of any animal (about 8 kg). They live in ma
 
 ## Conservation Challenges
 
-About 25% of mammal species are classified as threatened by the IUCN Red List. Large mammals are disproportionately at risk because they reproduce slowly, need large territories, and are targets for hunting.
+About 25% of mammal species are classified as threatened by the IUCN Red List. Large mammals are disproportionately at risk because they reproduce slowly, need large territories, and are targets for [hunting](/hunting).
 
 **Megafauna extinction**: Humans have been driving large mammals extinct for tens of thousands of years. When humans arrived in Australia (~65,000 years ago), North America (~15,000 years ago), and islands worldwide, most large mammal species went extinct within centuries. Today, Africa retains the most megafauna, likely because African mammals co-evolved with humans and had time to develop fear responses.
 
 **Habitat loss**: The single greatest threat to mammals worldwide. Deforestation in the tropics threatens primates, elephants, and tigers. Agricultural conversion eliminates habitat for prairie dogs, grassland ungulates, and burrowing mammals. Urban expansion fragments the ranges of large carnivores.
 
-**Poaching and wildlife trade**: Despite international bans, illegal killing continues. About 20,000 African elephants are killed annually for ivory. Rhino horn trade drives species toward extinction. Pangolins are the world's most trafficked mammals, killed for their scales (used in traditional medicine despite having no medicinal value — they're made of keratin, the same protein as your fingernails).
+**Poaching and wildlife [trade](/trade)**: Despite international bans, illegal killing continues. About 20,000 African elephants are killed annually for ivory. Rhino horn trade drives species toward extinction. Pangolins are the world's most trafficked mammals, killed for their scales (used in traditional medicine despite having no medicinal value — they're made of keratin, the same protein as your fingernails).
 
-**Climate change**: Shifting temperature and precipitation patterns are altering mammalian ranges, disrupting seasonal timing (breeding seasons, migration, hibernation), and changing vegetation communities that mammals depend on. Arctic species like polar bears face habitat loss as sea ice diminishes. Mountain-dwelling species face "summit [trapping](/trapping)" — as habitats shift upslope, species run out of mountain.
+**[Climate change](/climate-change)**: Shifting temperature and precipitation patterns are altering mammalian ranges, disrupting seasonal timing (breeding seasons, migration, hibernation), and changing vegetation communities that mammals depend on. Arctic species like polar bears face habitat loss as sea ice diminishes. Mountain-dwelling species face "summit [trapping](/trapping)" — as habitats shift upslope, species run out of mountain.
 
 **Conservation successes** do exist. Gray wolf reintroduction to Yellowstone triggered a trophic cascade that restored river courses. Southern white rhino populations recovered from fewer than 50 to over 20,000 through intensive protection. Humpback whale populations have rebounded significantly since the 1986 whaling moratorium. California condor numbers increased from 22 to over 500 through captive breeding. These successes show that [conservation biology](/conservation-biology) works — when given sufficient resources and political will.
 

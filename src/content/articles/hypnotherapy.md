@@ -103,7 +103,7 @@ It may be worth considering if you're dealing with chronic pain, IBS, smoking, o
 
 It's not appropriate for everyone. People with certain psychiatric conditions — particularly psychotic disorders like schizophrenia, severe dissociative disorders, or active substance abuse — should generally avoid hypnotherapy or pursue it only under close psychiatric supervision. The altered state of consciousness can potentially worsen some conditions.
 
-The biggest practical challenge is finding a qualified practitioner. Regulation varies enormously — in many jurisdictions, anyone can call themselves a "hypnotherapist" regardless of training. Look for practitioners who hold a license in a recognized health profession (psychology, medicine, [social work](/social-work), counseling) and have specific training in clinical hypnosis. Organizations like the American Society of Clinical Hypnosis and the Society for Clinical and Experimental Hypnosis maintain directories of qualified practitioners.
+The biggest practical challenge is finding a qualified practitioner. Regulation varies enormously — in many jurisdictions, anyone can call themselves a "hypnotherapist" regardless of training. Look for practitioners who hold a license in a recognized health profession ([psychology](/psychology), medicine, [social work](/social-work), counseling) and have specific training in clinical hypnosis. Organizations like the American Society of Clinical Hypnosis and the Society for Clinical and Experimental Hypnosis maintain directories of qualified practitioners.
 
 ## The Honest Assessment
 

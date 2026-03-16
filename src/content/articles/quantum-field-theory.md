@@ -35,7 +35,7 @@ faq:
 
 # What Is Quantum Field Theory?
 
-Quantum field theory (QFT) is the theoretical framework that combines quantum mechanics with special relativity to describe the fundamental particles and forces of nature. In QFT, the basic entities aren't particles -- they're fields that extend throughout all of space and time. What we call "particles" are really localized excitations (vibrations) of these fields. An electron is a ripple in the electron field. A photon is a ripple in the electromagnetic field. Everything you've ever seen, touched, or measured is made of field excitations.
+Quantum field theory (QFT) is the theoretical framework that combines [quantum mechanics](/quantum-mechanics) with special [relativity](/relativity) to describe the fundamental particles and forces of nature. In QFT, the basic entities aren't particles -- they're fields that extend throughout all of space and time. What we call "particles" are really localized excitations (vibrations) of these fields. An electron is a ripple in the electron field. A photon is a ripple in the electromagnetic field. Everything you've ever seen, touched, or measured is made of field excitations.
 
 This is probably the most important idea in modern [physics](/experimental-physics), and most people have never heard of it. Quantum mechanics gets all the popular attention. [General relativity](/general-relativity) gets the cool visualizations. But quantum field theory is the framework that actually describes how the universe works at its most fundamental level. It's the mathematical backbone of the Standard Model -- the theory that accounts for every particle and every force (except gravity) we've ever observed.
 
@@ -71,9 +71,9 @@ A field is a physical quantity defined at every point in space and time. You alr
 
 **The electromagnetic field** has values (electric and magnetic field vectors) at every point in space. When you feel the pull of a magnet or see light, you're interacting with this field.
 
-**Gravity** in general relativity is described by the metric field, which specifies the geometry of spacetime at every point.
+**Gravity** in general relativity is described by the metric field, which specifies the [geometry](/geometry) of spacetime at every point.
 
-In classical physics, fields are smooth and continuous. In quantum field theory, they're quantized -- they can only change in discrete steps. These discrete steps are what we call particles.
+In classical [physics](/physics), fields are smooth and continuous. In quantum field theory, they're quantized -- they can only change in discrete steps. These discrete steps are what we call particles.
 
 ### Particles as Field Excitations
 
@@ -109,7 +109,7 @@ This is the same principle behind Feynman diagrams in [quantum electrodynamics](
 
 ## The Standard Model: QFT's Greatest Achievement
 
-The Standard Model of particle physics is a specific quantum field theory. It describes three of the four fundamental forces (electromagnetic, weak nuclear, and strong nuclear) and all known elementary particles. It's built from the following fields:
+The Standard Model of [particle physics](/particle-physics) is a specific quantum field theory. It describes three of the four fundamental forces (electromagnetic, weak nuclear, and strong nuclear) and all known elementary particles. It's built from the following fields:
 
 ### Matter Fields (Fermions)
 
@@ -192,11 +192,11 @@ The Cosmic Microwave Background radiation, measured by satellites like Planck, c
 
 ### String Theory
 
-String theory attempts to go beyond QFT by replacing point particles with one-dimensional strings. But it uses the mathematical machinery of QFT extensively. In fact, string theory in certain limits reduces to specific QFTs. The relationship between string theory and QFT continues to produce deep mathematical insights, even independent of whether string theory correctly describes nature.
+[String theory](/string-theory) attempts to go beyond QFT by replacing point particles with one-dimensional strings. But it uses the mathematical machinery of QFT extensively. In fact, string theory in certain limits reduces to specific QFTs. The relationship between string theory and QFT continues to produce deep mathematical insights, even independent of whether string theory correctly describes nature.
 
 ### Quantum Information
 
-Quantum [information theory](/computer-science), quantum computing, and quantum error correction all use QFT concepts. Entanglement entropy, which measures quantum correlations, connects QFT to black hole physics through the holographic principle -- one of the deepest theoretical insights of the past three decades.
+Quantum [information theory](/computer-science), [quantum computing](/quantum-computing), and quantum error correction all use QFT concepts. Entanglement entropy, which measures quantum correlations, connects QFT to black hole physics through the holographic principle -- one of the deepest theoretical insights of the past three decades.
 
 ## What QFT Doesn't Explain
 

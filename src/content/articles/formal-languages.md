@@ -31,7 +31,7 @@ faq:
 
 # What Is Formal Languages?
 
-A formal language is a set of strings (sequences of symbols) defined by precise mathematical rules. Unlike natural languages — English, Spanish, Mandarin — which evolved organically and tolerate ambiguity, formal languages are rigorously specified. Every string either belongs to the language or it doesn't. There's no "sort of" grammatical. This precision makes formal languages essential to [computer science](/computer-science), [mathematics](/mathematics), and logic, where ambiguity isn't just inconvenient — it's fatal.
+A formal language is a set of strings (sequences of symbols) defined by precise mathematical rules. Unlike natural languages — English, Spanish, Mandarin — which evolved organically and tolerate ambiguity, formal languages are rigorously specified. Every string either belongs to the language or it doesn't. There's no "sort of" grammatical. This precision makes formal languages essential to [computer science](/computer-science), [mathematics](/mathematics), and [logic](/logic), where ambiguity isn't just inconvenient — it's fatal.
 
 ## The Basic Idea
 
@@ -59,7 +59,7 @@ Chomsky classified grammars (and their corresponding languages) into four types,
 
 **Type 3: Regular languages** are the simplest. They can be described by regular expressions and recognized by finite automata (machines with a fixed number of states and no memory beyond the current state). Examples: email address validation patterns, simple text search patterns.
 
-**Type 2: Context-free languages** are more powerful. Their grammars can have rules where a single non-terminal is replaced by any combination of terminals and non-terminals. Most programming language syntax falls here. They're recognized by pushdown automata (finite automata plus a stack for memory).
+**Type 2: Context-free languages** are more powerful. Their grammars can have rules where a single non-terminal is replaced by any combination of terminals and non-terminals. Most programming language [syntax](/syntax) falls here. They're recognized by pushdown automata (finite automata plus a stack for memory).
 
 **Type 1: Context-sensitive languages** allow grammar rules that depend on surrounding context. They're recognized by linear-bounded automata. They're theoretically interesting but less commonly used in practice.
 

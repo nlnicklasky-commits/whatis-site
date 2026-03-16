@@ -39,29 +39,29 @@ Italian history is the story of the Italian peninsula and its peoples, stretchin
 
 ## Before Rome
 
-Italy's prehistory is richer than most people realize. The peninsula's first advanced civilization wasn't Roman — it was Etruscan. The Etruscans dominated central Italy from roughly the 8th to 3rd centuries BCE, building sophisticated cities, creating remarkable art, and developing [engineering](/engineering) techniques (arches, sewers, road-building) that the Romans later adopted.
+Italy's [prehistory](/prehistory) is richer than most people realize. The peninsula's first advanced civilization wasn't Roman — it was Etruscan. The Etruscans dominated central Italy from roughly the 8th to 3rd centuries BCE, building sophisticated cities, creating remarkable art, and developing [engineering](/engineering) techniques (arches, sewers, road-building) that the Romans later adopted.
 
-Greek colonists established thriving cities in southern Italy and Sicily from the 8th century BCE onward. Syracuse, Naples (Neapolis — "new city"), and Taranto were Greek cities before they were Roman ones. The Greeks brought their language, philosophy, art, and political ideas. When Romans later conquered the Greek world, they absorbed Greek culture wholesale — leading the Roman poet Horace to quip that "conquered Greece took captive her fierce conqueror."
+Greek colonists established thriving cities in southern Italy and Sicily from the 8th century BCE onward. Syracuse, Naples (Neapolis — "new city"), and Taranto were Greek cities before they were Roman ones. The Greeks brought their language, [philosophy](/philosophy), art, and political ideas. When Romans later conquered the Greek world, they absorbed Greek culture wholesale — leading the Roman poet Horace to quip that "conquered Greece took captive her fierce conqueror."
 
 The Italian peninsula was also home to dozens of other peoples — Samnites, Latins, Umbrians, Sabines — each with distinct languages and cultures. Rome emerged from this crowded, competitive field, and its rise wasn't inevitable. It was a small Latin city-state that grew, through military tenacity and political flexibility, into the most powerful state the ancient world had known.
 
 ## The Roman Republic (509-27 BCE)
 
-The Romans overthrew their last Etruscan king around 509 BCE and established a republic — a government with elected officials, checks and balances, and a complex system of laws. The system wasn't democratic in the modern sense (power was concentrated among wealthy patrician families), but it was sophisticated and remarkably durable.
+The Romans overthrew their last Etruscan king around 509 BCE and established a republic — a [government](/government) with elected officials, checks and balances, and a complex system of laws. The system wasn't democratic in the modern sense (power was concentrated among wealthy patrician families), but it was sophisticated and remarkably durable.
 
 Rome's expansion was relentless. The Italian peninsula was unified under Roman control by 264 BCE. The Punic Wars against Carthage (264-146 BCE) — featuring Hannibal's famous crossing of the Alps with war elephants — gave Rome control of the western Mediterranean. By 146 BCE, Rome had also conquered Greece and destroyed Carthage utterly.
 
 The Republic's political system, designed for a city-state, struggled to govern an empire. Military commanders like Marius, Sulla, Pompey, and Julius Caesar accumulated personal armies and political power. Caesar crossed the Rubicon in 49 BCE, fought a civil war, became dictator, and was assassinated in 44 BCE. His adopted heir Octavian defeated Mark Antony and Cleopatra at Actium in 31 BCE and became Augustus — the first emperor — in 27 BCE.
 
-The Republic's legacy was enormous. Roman law, [the Latin language](/latin-language), republican political theory, engineering achievements, and administrative systems influenced virtually every Western society that followed. The US Founding Fathers explicitly modeled aspects of the American government on the Roman Republic. The word "senate" itself is Roman.
+The Republic's legacy was enormous. [Roman law](/roman-law), [the Latin language](/latin-language), republican political theory, engineering achievements, and administrative systems influenced virtually every Western society that followed. The US Founding Fathers explicitly modeled aspects of the American government on the Roman Republic. The word "senate" itself is Roman.
 
 ## The Roman Empire (27 BCE - 476 CE)
 
 The Roman Empire at its peak (under Trajan, around 117 CE) stretched from Scotland to Mesopotamia, encompassing roughly 5 million square kilometers and 70 million people — perhaps a quarter of the world's population.
 
-The empire's infrastructure was extraordinary. Over 400,000 kilometers of roads connected provinces. Aqueducts delivered clean water to cities — Rome's aqueduct system carried over 1 million cubic meters of water daily. The Colosseum held 50,000 spectators. Concrete (a Roman invention) enabled architectural feats that wouldn't be matched for over a thousand years.
+The empire's infrastructure was extraordinary. Over 400,000 kilometers of roads connected provinces. Aqueducts delivered clean water to cities — Rome's aqueduct system carried over 1 million cubic meters of water daily. The Colosseum held 50,000 spectators. Concrete (a Roman [invention](/invention)) enabled architectural feats that wouldn't be matched for over a thousand years.
 
-The Pax Romana — roughly 200 years of relative peace and stability from Augustus to Marcus Aurelius (27 BCE - 180 CE) — allowed trade, culture, and urban life to flourish across the Mediterranean. Latin became the common language of the western provinces; Greek dominated the east. [Christianity](/christianity), born in a marginal Roman province, spread through the empire's communication networks and became the state religion under Theodosius I in 380 CE.
+The Pax Romana — roughly 200 years of relative peace and stability from Augustus to Marcus Aurelius (27 BCE - 180 CE) — allowed [trade](/trade), culture, and urban life to flourish across the Mediterranean. Latin became the common language of the western provinces; Greek dominated the east. [Christianity](/christianity), born in a marginal Roman province, spread through the empire's communication networks and became the state [religion](/religion) under Theodosius I in 380 CE.
 
 The empire's decline was gradual and debated. Economic troubles, military overextension, political instability (there were over 50 emperors in the crisis-ridden 3rd century alone), and pressure from migrating Germanic peoples all contributed. The empire split administratively in 285 CE. The western half fell in 476 CE when the Germanic chieftain Odoacer deposed the last western emperor. The eastern half — the Byzantine Empire — continued for nearly another millennium, until Constantinople fell to the Ottomans in 1453.
 
@@ -81,7 +81,7 @@ The Renaissance — from the French for "rebirth" — began in Italy in the 14th
 
 Florence was the epicenter. The Medici family, particularly Lorenzo de' Medici (1449-1492), patronized artists and scholars with extraordinary generosity. The results speak for themselves: Leonardo da Vinci's *The Last Supper* and *Mona Lisa*; Michelangelo's ceiling of the Sistine Chapel and *David*; Raphael's *School of Athens*; Botticelli's *Birth of Venus*. The concentration of genius in one city during one period remains almost inexplicable.
 
-But the Renaissance wasn't just about art. Machiavelli wrote *The Prince* (1513), a work of political theory so clear-eyed about power that his name became an adjective. Galileo Galilei challenged the Church's geocentric cosmology with telescopic observations, getting himself placed under house arrest for the last nine years of his life. Leon Battista Alberti theorized about architecture and perspective. Brunelleschi built the dome of Florence Cathedral — an engineering feat that still astonishes structural engineers.
+But the Renaissance wasn't just about art. Machiavelli wrote *The Prince* (1513), a work of political theory so clear-eyed about power that his name became an adjective. Galileo Galilei challenged the Church's geocentric [cosmology](/cosmology) with telescopic observations, getting himself placed under house arrest for the last nine years of his life. Leon Battista Alberti theorized about architecture and perspective. Brunelleschi built the dome of Florence Cathedral — an engineering feat that still astonishes structural engineers.
 
 The printing press, arriving in Italy in the 1460s, amplified the Renaissance's impact. Books became affordable. Ideas spread faster. Literacy increased. The intellectual monopoly of the Church weakened.
 
@@ -89,13 +89,13 @@ The printing press, arriving in Italy in the 1460s, amplified the Renaissance's 
 
 Italy's political fragmentation made it vulnerable. Beginning with the French invasion of 1494, the peninsula became a battleground for European great powers. Spain controlled southern Italy and Milan through the 16th and 17th centuries. Austria succeeded Spain in the 18th century. Napoleon conquered most of Italy in the 1790s, reorganizing its states and spreading ideas of nationalism and constitutional government.
 
-These centuries weren't all decline. Italian music flourished — opera was invented in Florence around 1600, and composers like Vivaldi, Monteverdi, and later Verdi created works that defined European musical culture. Italian science continued to advance — Torricelli invented the barometer, Volta the battery, Galvani studied bioelectricity. The word "volt" comes from Alessandro Volta. So does "galvanize" from Luigi Galvani. Italian contributions to science shaped the vocabulary of [chemistry](/chemistry) and [physics](/classical-mechanics).
+These centuries weren't all decline. Italian music flourished — [opera](/opera) was invented in Florence around 1600, and composers like Vivaldi, Monteverdi, and later Verdi created works that defined European musical culture. Italian science continued to advance — Torricelli invented the barometer, Volta the battery, Galvani studied bioelectricity. The word "volt" comes from Alessandro Volta. So does "galvanize" from Luigi Galvani. Italian contributions to science shaped the vocabulary of [chemistry](/chemistry) and [physics](/classical-mechanics).
 
 But politically, Italians chafed under foreign rule. The idea of a unified Italian nation — the Risorgimento — gathered force through the 19th century.
 
 ## Unification (1848-1871)
 
-Italian unification was messy, contested, and driven by three very different figures. Giuseppe Mazzini provided the ideological vision — a democratic republic based on popular sovereignty. Camillo Cavour, the pragmatic prime minister of Piedmont-Sardinia, provided the diplomacy and realpolitik. Giuseppe Garibaldi provided the military dash — his "Expedition of the Thousand" conquered Sicily and southern Italy in 1860 with a ragtag volunteer army.
+Italian unification was messy, contested, and driven by three very different figures. Giuseppe Mazzini provided the ideological vision — a democratic republic based on popular sovereignty. Camillo Cavour, the pragmatic prime minister of Piedmont-Sardinia, provided the [diplomacy](/diplomacy) and realpolitik. Giuseppe Garibaldi provided the military dash — his "Expedition of the Thousand" conquered Sicily and southern Italy in 1860 with a ragtag volunteer army.
 
 The Kingdom of Italy was proclaimed in 1861. Venice was added in 1866. Rome was captured from the Pope in 1870 and became the capital in 1871. Italy was finally one country — on paper. In practice, enormous differences between the industrializing north and the agrarian south (the "Southern Question") persisted and still exist today.
 
@@ -103,9 +103,9 @@ The Kingdom of Italy was proclaimed in 1861. Venice was added in 1866. Rome was 
 
 Unified Italy struggled with poverty, emigration (millions left for the Americas between 1880 and 1920), and political instability. [World War I](/world-war-i) cost 600,000 Italian lives and produced economic chaos. This instability enabled Benito Mussolini's Fascist movement to seize power in 1922. Mussolini ruled as dictator until 1943, allied Italy with Nazi Germany, and led the country into [World War II](/world-war-ii) with catastrophic results.
 
-After the war, Italians voted to abolish the monarchy and establish a republic in 1946. The postwar "economic miracle" (1950s-1960s) transformed Italy from a largely agricultural country into one of the world's largest industrial economies. Companies like Fiat, Olivetti, and Pirelli drove growth, and Italian design — in fashion, automobiles, and furniture — became globally influential.
+After the war, Italians voted to abolish the [monarchy](/monarchy) and establish a republic in 1946. The postwar "economic miracle" (1950s-1960s) transformed Italy from a largely agricultural country into one of the world's largest industrial economies. Companies like Fiat, Olivetti, and Pirelli drove growth, and Italian design — in fashion, automobiles, and furniture — became globally influential.
 
-Modern Italy remains a study in contradictions. It has the EU's third-largest economy but persistent regional inequality. Its cultural heritage is unmatched — Italy has more UNESCO World Heritage sites (59) than any other country — but its infrastructure and bureaucracy lag behind northern European standards. Italian politics are notoriously unstable; the country has had over 70 governments since 1946.
+Modern Italy remains a study in contradictions. It has the EU's third-largest economy but persistent regional inequality. Its cultural heritage is unmatched — Italy has more UNESCO World Heritage sites (59) than any other country — but its infrastructure and bureaucracy lag behind northern European standards. Italian [politics](/politics) are notoriously unstable; the country has had over 70 governments since 1946.
 
 ## Why Italian History Matters
 

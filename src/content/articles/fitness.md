@@ -75,7 +75,7 @@ When you exercise, you're deliberately stressing your body. That stress triggers
 
 ### What Happens During Cardio
 
-When you start running, [cycling](/cycling), or [swimming](/swimming) at moderate intensity, your heart rate increases, your breathing deepens, and blood flow redirects from your digestive organs to your working muscles. Your muscles burn through their stored glycogen (glucose) and begin pulling more glucose from your bloodstream. If the activity continues long enough — typically beyond 20-30 minutes — your body increasingly shifts to burning fat for fuel.
+When you start [running](/running), [cycling](/cycling), or [swimming](/swimming) at moderate intensity, your heart rate increases, your breathing deepens, and blood flow redirects from your digestive organs to your working muscles. Your muscles burn through their stored glycogen (glucose) and begin pulling more glucose from your bloodstream. If the activity continues long enough — typically beyond 20-30 minutes — your body increasingly shifts to burning fat for fuel.
 
 Over weeks and months of consistent cardio, your heart actually grows larger and stronger. Resting heart rate drops — well-trained athletes often have resting rates below 50 beats per minute, compared to the average adult's 60-100. Your muscles develop more capillaries, improving oxygen delivery. Your [cells](/anatomy) produce more mitochondria — the tiny structures that generate energy.
 
@@ -89,7 +89,7 @@ The hormonal response to strength training is significant. Heavy compound exerci
 
 The current evidence-based recommendations from the CDC and WHO are clear:
 
-- **150 minutes per week** of moderate-intensity aerobic activity (brisk walking, cycling, swimming), OR
+- **150 minutes per week** of moderate-intensity aerobic activity (brisk [walking](/walking), cycling, swimming), OR
 - **75 minutes per week** of vigorous-intensity aerobic activity (running, HIIT, competitive sports)
 - **Two or more sessions per week** of muscle-strengthening activity covering all major muscle groups
 

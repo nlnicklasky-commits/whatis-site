@@ -71,7 +71,7 @@ People prefer things to stay as they are, even when changing would benefit them.
 
 ### Framing Effects
 
-How a choice is described affects decisions. People are more likely to choose surgery when told "90% survival rate" than "10% mortality rate" — mathematically identical statements that feel very different. [Cognitive psychology](/cognitive-psychology) shows that framing effects persist even when people are aware of them.
+How a choice is described affects decisions. People are more likely to choose [surgery](/surgery) when told "90% survival rate" than "10% mortality rate" — mathematically identical statements that feel very different. [Cognitive psychology](/cognitive-psychology) shows that framing effects persist even when people are aware of them.
 
 ## Nudge Theory in Practice
 

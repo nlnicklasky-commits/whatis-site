@@ -39,13 +39,13 @@ faq:
 
 # What Is Computer Networking?
 
-Computer networking is the practice of connecting two or more computing devices to share data and resources — it's the technology that enables the internet, allows your phone to stream video, lets offices share printers and files, and makes [cloud computing](/cloud-computing) possible. Every time you load a webpage, send an email, or join a video call, computer networking is doing the heavy lifting behind the scenes.
+Computer [networking](/networking) is the practice of connecting two or more computing devices to share data and resources — it's the technology that enables the internet, allows your phone to stream video, lets offices share printers and files, and makes [cloud computing](/cloud-computing) possible. Every time you load a webpage, send an email, or join a video call, computer networking is doing the heavy lifting behind the scenes.
 
 ## Why Networking Matters More Than You Think
 
 Here's a number that puts things in perspective: as of 2025, there are roughly 30 billion connected devices on the internet. That's nearly four devices for every human on Earth. And the amount of data flowing across networks is measured in exabytes per day — that's billions of gigabytes.
 
-Networking isn't just an IT specialty. It's the infrastructure that modern life runs on. Banking, healthcare, transportation, entertainment, communication, government services — all of it depends on computer networks functioning correctly, securely, and efficiently.
+Networking isn't just an IT specialty. It's the infrastructure that modern life runs on. Banking, healthcare, transportation, entertainment, communication, [government](/government) services — all of it depends on computer networks functioning correctly, securely, and efficiently.
 
 If you're in any technology-related field, understanding networking isn't optional. If you're building [applications](/app-development), your code communicates over networks. If you're concerned about [security](/computer-security), you need to know how networks can be attacked. If you're managing systems, networks are what connect them. Even if you're just a user, understanding basics like IP addresses, DNS, and Wi-Fi helps you troubleshoot problems and make better decisions.
 
@@ -77,11 +77,11 @@ Transport layer protocols manage end-to-end communication between applications:
 
 **TCP (Transmission Control Protocol)** — reliable, ordered delivery. TCP establishes a connection, numbers every packet, tracks acknowledgments, and retransmits lost packets. Used for web browsing, email, file transfers — anything where every byte must arrive correctly.
 
-**UDP (User Datagram Protocol)** — fast, unreliable delivery. UDP just sends packets without establishing a connection or tracking delivery. Used for video streaming, online gaming, DNS queries, and VoIP — situations where speed matters more than perfection and the occasional dropped packet is acceptable.
+**UDP (User Datagram Protocol)** — fast, unreliable delivery. UDP just sends packets without establishing a connection or tracking delivery. Used for video streaming, online [gaming](/gaming), DNS queries, and VoIP — situations where speed matters more than perfection and the occasional dropped packet is acceptable.
 
 ### Layers 5-7: Session, Presentation, Application
 
-In practice, these upper layers are often lumped together. They handle session management, data formatting/encryption, and application-specific protocols:
+In practice, these upper layers are often lumped together. They handle session [management](/management), data formatting/encryption, and application-specific protocols:
 
 - **HTTP/HTTPS** — web traffic
 - **SMTP/IMAP/POP3** — email
@@ -196,7 +196,7 @@ BGP is often called the most important protocol most people have never heard of.
 
 A LAN connects devices in a limited area — an office, a building, a home. Ethernet and Wi-Fi are the dominant LAN technologies. LANs offer high speeds (1-10 Gbps wired, up to 46 Gbps for Wi-Fi 7) and low latency (under 1 ms).
 
-VLANs (Virtual LANs) logically segment a physical network. An office might put accounting, [engineering](/engineering), and guest devices on separate VLANs for security and traffic management, even though they're all connected to the same physical switches.
+VLANs (Virtual LANs) logically segment a physical network. An office might put [accounting](/accounting), [engineering](/engineering), and guest devices on separate VLANs for security and traffic management, even though they're all connected to the same physical switches.
 
 ### WANs
 
@@ -226,7 +226,7 @@ Private 5G networks are being deployed in factories, warehouses, and campuses wh
 
 ## Cloud Computing and Networking
 
-Cloud computing — running workloads on rented infrastructure from providers like AWS, Azure, and Google Cloud — has fundamentally changed networking requirements.
+Cloud computing — [running](/running) workloads on rented infrastructure from providers like AWS, Azure, and Google Cloud — has fundamentally changed networking requirements.
 
 **Virtual Private Clouds (VPCs)** create isolated network environments in the cloud. You define subnets, routing tables, and security groups just like a physical network, but everything is virtual.
 

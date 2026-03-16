@@ -33,7 +33,7 @@ faq:
 
 Trapping is the practice of capturing wild animals using mechanical devices — traps, snares, and similar equipment — rather than direct pursuit. It's one of the oldest human activities, practiced for food, fur, predator control, [wildlife management](/wildlife-management), and scientific research.
 
-Trapping generates strong opinions. To some, it's an essential wildlife management tool and a traditional outdoor practice. To others, it's an unnecessary source of animal suffering. Understanding what trapping actually involves — the methods, the regulations, the purposes, and the controversies — helps make that [debate](/debate) more informed.
+Trapping generates strong opinions. To some, it's an essential wildlife [management](/management) tool and a traditional outdoor practice. To others, it's an unnecessary source of animal suffering. Understanding what trapping actually involves — the methods, the regulations, the purposes, and the controversies — helps make that [debate](/debate) more informed.
 
 ## Methods
 

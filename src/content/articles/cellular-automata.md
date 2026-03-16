@@ -35,7 +35,7 @@ faq:
 
 # What Is Cellular Automata?
 
-A cellular automaton is a discrete model of computation consisting of a grid of cells, each in one of a finite number of states, that evolves over time according to a fixed set of rules based solely on the states of neighboring cells. Despite their simplicity, cellular automata produce extraordinarily complex behavior — from self-replicating patterns to universal computation — making them one of the most studied models of emergent complexity in mathematics and [computer science](/computer-science).
+A cellular automaton is a discrete model of computation consisting of a grid of cells, each in one of a finite number of states, that evolves over time according to a fixed set of rules based solely on the states of neighboring cells. Despite their simplicity, cellular automata produce extraordinarily complex behavior — from self-replicating patterns to universal computation — making them one of the most studied models of emergent complexity in [mathematics](/mathematics) and [computer science](/computer-science).
 
 ## The Simplest Idea That Produces the Most Surprising Results
 
@@ -49,11 +49,11 @@ Let that sink in. A row of cells following a rule so simple you can write it on 
 
 ## John von Neumann — The Original Vision
 
-The story begins in the 1940s with John von Neumann, one of the greatest mathematicians of the 20th century. Von Neumann was interested in self-replication — could a machine build a copy of itself? He knew biological organisms did this (cells divide, organisms reproduce), but could a mathematical model capture the essential logic?
+The story begins in the 1940s with John von Neumann, one of the greatest mathematicians of the 20th century. Von Neumann was interested in self-replication — could a machine build a copy of itself? He knew biological organisms did this (cells divide, organisms reproduce), but could a mathematical model capture the essential [logic](/logic)?
 
 His colleague Stanislaw Ulam suggested using a grid of cells with simple update rules. Von Neumann designed a cellular automaton with 29 states per cell on a two-dimensional grid, and proved that a specific configuration within this automaton could replicate itself. His self-replicating automaton, published posthumously in 1966, was enormously complex — the constructor alone required roughly 200,000 cells — but it proved the concept.
 
-Von Neumann's insight was profound: self-replication doesn't require biological machinery. It's a logical property that can emerge from any system with sufficient computational power. This idea influenced decades of research in artificial life, robotics, and evolutionary computation.
+Von Neumann's insight was profound: self-replication doesn't require biological machinery. It's a logical property that can emerge from any system with sufficient computational power. This idea influenced decades of research in artificial life, [robotics](/robotics), and evolutionary computation.
 
 ## Conway's Game of Life — The Star of the Show
 
@@ -130,7 +130,7 @@ Urban expansion follows local rules: development happens near existing developme
 
 Lattice gas automata and lattice Boltzmann methods model fluid flow using cellular automata principles. Instead of solving the Navier-Stokes equations (a notoriously difficult system of differential equations), these methods simulate individual particles moving and colliding on a grid. In the aggregate, the correct fluid behavior emerges.
 
-This approach handles complex geometries (flow through porous materials, around irregular obstacles) that are difficult to model with traditional methods. It's especially popular in [computational physics](/computational-physics) and engineering.
+This approach handles complex geometries (flow through porous materials, around irregular obstacles) that are difficult to model with traditional methods. It's especially popular in [computational physics](/computational-physics) and [engineering](/engineering).
 
 ## The Deep Questions
 
@@ -148,9 +148,9 @@ This means cellular automata are, in a precise mathematical sense, as complex as
 
 ### The Connection to Physics
 
-Some physicists, notably Gerard 't Hooft (Nobel Prize in Physics, 1999), have proposed that the universe itself might be a cellular automaton at the most fundamental level — that the continuous space, time, and [quantum mechanics](/quantum-mechanics) we observe emerge from discrete local rules operating at the Planck scale.
+Some physicists, notably Gerard 't Hooft (Nobel Prize in [Physics](/physics), 1999), have proposed that the universe itself might be a cellular automaton at the most fundamental level — that the continuous space, time, and [quantum mechanics](/quantum-mechanics) we observe emerge from discrete local rules operating at the Planck scale.
 
-This is speculative, but it's taken seriously because cellular automata demonstrate that continuous-looking behavior can emerge from discrete systems, that conservation laws and symmetries can arise from simple local rules, and that the computational complexity of the universe — the fact that predicting its future requires actually running it forward — might reflect computational irreducibility rather than mere practical difficulty.
+This is speculative, but it's taken seriously because cellular automata demonstrate that continuous-looking behavior can emerge from discrete systems, that conservation laws and symmetries can arise from simple local rules, and that the computational complexity of the universe — the fact that predicting its future requires actually [running](/running) it forward — might reflect computational irreducibility rather than mere practical difficulty.
 
 ## Building Your Own Cellular Automata
 
@@ -178,6 +178,6 @@ Cellular automata have influenced fields far beyond mathematics and computer sci
 
 The core lesson is disarmingly simple: you don't need complex rules to get complex behavior. Complexity arises from interaction, not from instruction. A cell in Conway's Game of Life follows the same four rules whether it's part of a glider, a gun, or an empty void. The difference is context — what its neighbors are doing.
 
-This insight — that local interactions produce global patterns without global coordination — runs through everything from [machine learning](/machine-learning) (where simple weight updates produce sophisticated [neural networks](/neural-networks)) to economics (where individual transactions produce market behavior) to biology (where simple genetic rules produce organisms of staggering complexity).
+This insight — that local interactions produce global patterns without global coordination — runs through everything from [machine learning](/machine-learning) (where simple weight updates produce sophisticated [neural networks](/neural-networks)) to [economics](/economics) (where individual transactions produce market behavior) to [biology](/biology) (where simple genetic rules produce organisms of staggering complexity).
 
 Cellular automata didn't just give us a new type of mathematical model. They gave us a new way of thinking about how complex things come from simple beginnings. And that's worth far more than any single simulation.

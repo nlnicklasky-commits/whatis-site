@@ -39,7 +39,7 @@ faq:
 
 # What Is Chemistry?
 
-Chemistry is the scientific study of matter—its properties, composition, structure, and the changes it undergoes during reactions with other matter. Sometimes called "the central science" because it bridges physics with biology and earth science, chemistry explains everything from why iron rusts to how your body converts food into energy. There are roughly 118 known elements, and their combinations produce millions of distinct substances that make up the physical world.
+Chemistry is the scientific study of matter—its properties, composition, structure, and the changes it undergoes during reactions with other matter. Sometimes called "the central science" because it bridges physics with biology and [earth science](/earth-science), chemistry explains everything from why iron rusts to how your body converts food into energy. There are roughly 118 known elements, and their combinations produce millions of distinct substances that make up the physical world.
 
 ## Atoms: The Cast of Characters
 
@@ -47,7 +47,7 @@ Everything around you—your phone, the air you breathe, your own body—is made
 
 An atom has three main parts: protons (positive charge), neutrons (no charge), and electrons (negative charge). Protons and neutrons huddle together in the nucleus at the center, while electrons occupy regions of space around it called orbitals. Here's where it gets interesting—the number of protons defines what element an atom is. One proton? That's hydrogen. Six protons? Carbon. 79? Gold.
 
-Electrons are the real stars of chemistry, though. They're the ones doing all the social networking. When atoms interact, it's their electrons that mingle, share, transfer, or rearrange. The nucleus mostly just sits there being heavy.
+Electrons are the real stars of chemistry, though. They're the ones doing all the social [networking](/networking). When atoms interact, it's their electrons that mingle, share, transfer, or rearrange. The nucleus mostly just sits there being heavy.
 
 ### Electron Configuration and Why It Matters
 
@@ -75,7 +75,7 @@ Isolated atoms are rare in nature. Almost everything you encounter is atoms bond
 
 Remember sodium giving its electron to chlorine? That's ionic bonding. One atom donates electrons, the other accepts them, and the resulting opposite charges attract. The sodium atom becomes a positively charged ion (Na+), the chlorine becomes negatively charged (Cl-), and electrostatic attraction holds them together.
 
-Ionic compounds tend to form crystals, have high melting points, and dissolve in water. Table salt, calcium carbonate (chalk), and potassium permanganate are all ionic. When dissolved, their ions separate and can conduct electricity—which is why electrolytes matter for both car batteries and sports drinks.
+Ionic compounds tend to form crystals, have high melting points, and dissolve in water. Table salt, calcium carbonate (chalk), and potassium permanganate are all ionic. When dissolved, their ions separate and can conduct [electricity](/electricity)—which is why electrolytes matter for both car batteries and sports drinks.
 
 ### Covalent Bonds
 
@@ -123,7 +123,7 @@ Chemistry is too vast for any single person to master entirely. It splits into s
 
 ### Organic Chemistry: The Chemistry of Life
 
-Organic chemistry studies carbon-containing compounds. The name is historical—early chemists believed these compounds could only come from living organisms. That turned out to be wrong (Friedrich Wohler synthesized urea from inorganic materials in 1828), but the name stuck.
+[Organic chemistry](/organic-chemistry) studies carbon-containing compounds. The name is historical—early chemists believed these compounds could only come from living organisms. That turned out to be wrong (Friedrich Wohler synthesized urea from inorganic materials in 1828), but the name stuck.
 
 Carbon's ability to form four stable bonds and chain together indefinitely creates staggering molecular diversity. There are over 10 million known organic compounds. Pharmaceuticals, plastics, dyes, fuels, pesticides, and the molecules making up your body are all organic. The study of [anatomy](/anatomy) at the molecular level is essentially applied organic chemistry.
 
@@ -137,21 +137,21 @@ Transition metals are particularly interesting because their partially filled d-
 
 ### [Physical Chemistry](/physical-chemistry)
 
-Physical chemistry applies physics principles—thermodynamics, quantum mechanics, [statistical mechanics](/statistical-mechanics)—to chemical systems. It answers questions like: Why does this reaction release heat? How fast will it go? What's the equilibrium state?
+Physical chemistry applies physics principles—[thermodynamics](/thermodynamics), [quantum mechanics](/quantum-mechanics), [statistical mechanics](/statistical-mechanics)—to chemical systems. It answers questions like: Why does this reaction release heat? How fast will it go? What's the equilibrium state?
 
-Thermodynamics tells you whether a reaction is possible. Kinetics tells you how fast it happens. Quantum mechanics explains why electrons behave as they do. Physical chemistry is math-heavy and abstract, but it provides the theoretical foundation everything else rests on. If you're comfortable with [algebra](/algebra) and calculus, physical chemistry might appeal to you.
+Thermodynamics tells you whether a reaction is possible. Kinetics tells you how fast it happens. Quantum mechanics explains why electrons behave as they do. Physical chemistry is math-heavy and abstract, but it provides the theoretical foundation everything else rests on. If you're comfortable with [algebra](/algebra) and [calculus](/calculus), physical chemistry might appeal to you.
 
 ### Analytical Chemistry
 
-Analytical chemistry is about identifying what's in a sample and how much of it there's there. It's the detective branch—forensic science, drug testing, environmental monitoring, quality control. Techniques include spectroscopy (using light to identify substances), [chromatography](/chromatography) (separating mixtures into components), mass spectrometry (measuring molecular weights), and titration (using known solutions to determine unknown concentrations).
+Analytical chemistry is about identifying what's in a sample and how much of it there's there. It's the detective branch—[forensic science](/forensic-science), drug testing, environmental monitoring, quality control. Techniques include [spectroscopy](/spectroscopy) (using light to identify substances), [chromatography](/chromatography) (separating mixtures into components), mass spectrometry (measuring molecular weights), and titration (using known solutions to determine unknown concentrations).
 
 Modern analytical instruments are remarkably sensitive. Mass spectrometers can detect substances at parts-per-trillion levels. That's like finding a single specific grain of sand on an entire beach.
 
 ### Biochemistry
 
-Biochemistry is chemistry applied to living systems. It studies the molecular mechanisms of life—how proteins fold, how DNA replicates, how enzymes work, how cells generate energy. Understanding biochemistry is essential for medicine, genetics, and biotechnology.
+[Biochemistry](/biochemistry) is chemistry applied to living systems. It studies the molecular mechanisms of life—how proteins fold, how DNA replicates, how enzymes work, how cells generate energy. Understanding biochemistry is essential for medicine, genetics, and [biotechnology](/biotechnology).
 
-The discovery of DNA's double helix structure by Watson and Crick in 1953 was fundamentally a chemistry achievement. They figured out the molecular architecture that makes genetic information storage and replication possible.
+The discovery of DNA's double helix structure by Watson and Crick in 1953 was fundamentally a chemistry achievement. They figured out the molecular [architecture](/architecture) that makes genetic information storage and replication possible.
 
 ## Chemistry in Your Daily Life
 
@@ -167,7 +167,7 @@ You probably don't think about chemistry while making breakfast, but it's happen
 
 ## A Brief History: From Alchemy to Modern Chemistry
 
-Chemistry didn't always look like science. For centuries, alchemists searched for the philosopher's stone—a substance supposedly capable of turning lead into gold and granting immortality. They never found it, but their experiments produced real discoveries: acids, alkalis, distillation techniques, and new elements.
+Chemistry didn't always look like science. For centuries, alchemists searched for the philosopher's stone—a substance supposedly capable of turning lead into gold and granting immortality. They never found it, but their experiments produced real discoveries: acids, alkalis, [distillation](/distillation) techniques, and new elements.
 
 The shift from alchemy to chemistry happened gradually during the 17th and 18th centuries. Robert Boyle argued in 1661 that elements couldn't be broken into simpler substances, challenging the ancient Greek idea that everything was made of earth, water, air, and fire. Antoine Lavoisier, often called the father of modern chemistry, established the law of conservation of mass in the 1770s and disproved the phlogiston theory of combustion.
 
@@ -203,13 +203,13 @@ When you dissolve sugar in water, you create a solution. The water is the solven
 
 Solubility depends on the nature of both solute and solvent. The general rule: "like dissolves like." Polar solvents (like water) dissolve polar and ionic solutes. Nonpolar solvents (like hexane) dissolve nonpolar solutes. Oil and water don't mix because oil is nonpolar and water is extremely polar. This principle is why grease needs soap (which has both polar and nonpolar ends) to wash away with water.
 
-Temperature usually increases solubility for solids in liquids but decreases it for gases in liquids. That's why warm soda goes flat faster—the carbon dioxide is less soluble in warm water. Understanding solubility matters for everything from [agriculture](/agriculture) (how nutrients dissolve in soil water) to pharmacology (how drugs dissolve in your bloodstream).
+Temperature usually increases solubility for solids in liquids but decreases it for gases in liquids. That's why warm soda goes flat faster—the carbon dioxide is less soluble in warm water. Understanding solubility matters for everything from [agriculture](/agriculture) (how nutrients dissolve in soil water) to [pharmacology](/pharmacology) (how drugs dissolve in your bloodstream).
 
 ## Electrochemistry: Where Chemistry Meets Electricity
 
-Electrochemistry studies reactions involving electron transfer, and it powers our modern world. Batteries, fuel cells, corrosion, electroplating, and metal refining all depend on electrochemical principles.
+[Electrochemistry](/electrochemistry) studies reactions involving electron transfer, and it powers our modern world. Batteries, fuel cells, corrosion, electroplating, and metal refining all depend on electrochemical principles.
 
-A battery works by separating a chemical reaction into two half-reactions at different electrodes. Electrons flow from one electrode to the other through an external circuit—that electron flow is the electrical current you use. Lithium-ion batteries, which power most modern electronics, use lithium compounds that can reversibly intercalate lithium ions, allowing hundreds of charge-discharge cycles.
+A battery works by separating a chemical reaction into two half-reactions at different electrodes. Electrons flow from one electrode to the other through an external circuit—that electron flow is the electrical current you use. Lithium-ion batteries, which power most modern [electronics](/electronics), use lithium compounds that can reversibly intercalate lithium ions, allowing hundreds of charge-discharge cycles.
 
 Corrosion—the rusting of iron, for instance—is an unwanted electrochemical reaction. Iron loses electrons (oxidizes) in the presence of water and oxygen, forming iron oxide (rust). Preventing corrosion through coatings, sacrificial anodes, or stainless steel alloys is a major focus of materials chemistry.
 

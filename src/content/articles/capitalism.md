@@ -79,7 +79,7 @@ The history of American capitalism is partly a history of monopoly battles. Stan
 
 ### [Mercantilism](/mercantilism) and the Pre-Capitalist World
 
-Before capitalism, most European economies ran on mercantilism — the idea that national wealth was measured in gold and silver, and that trade was a zero-sum game. Governments granted monopolies, restricted imports, and managed economies through regulation and royal charters.
+Before capitalism, most European economies ran on mercantilism — the idea that national wealth was measured in gold and silver, and that [trade](/trade) was a zero-sum game. Governments granted monopolies, restricted imports, and managed economies through regulation and royal charters.
 
 Medieval guilds controlled who could practice trades and set prices. Feudal systems tied peasants to land they didn't own. Economic mobility was minimal. If your father was a blacksmith, you'd probably be a blacksmith, working in a system where the lord took a substantial share of everything you produced.
 
@@ -93,9 +93,9 @@ Adam Smith's *The Wealth of Nations* (1776) provided the intellectual framework.
 
 The late 18th and 19th centuries transformed capitalism from a merchant system to an industrial one. Factories, steam power, railroads, and mass production concentrated workers in cities and created enormous wealth — unevenly distributed.
 
-Factory conditions were brutal. Children worked 16-hour shifts. Workers had minimal bargaining power against factory owners. This era produced both spectacular economic growth and spectacular suffering, and the tension between those outcomes shaped every economic debate that followed.
+Factory conditions were brutal. Children worked 16-hour shifts. Workers had minimal bargaining power against factory owners. This era produced both spectacular economic growth and spectacular suffering, and the tension between those outcomes shaped every economic [debate](/debate) that followed.
 
-Karl Marx, writing in the mid-1800s, argued that capitalism contained the seeds of its own destruction — that the exploitation of workers would inevitably lead to revolution. His prediction was wrong about capitalist countries (revolutions happened in pre-industrial Russia and China instead), but his critique of working conditions and wealth concentration influenced labor movements, welfare states, and regulatory frameworks worldwide.
+Karl Marx, [writing](/writing) in the mid-1800s, argued that capitalism contained the seeds of its own destruction — that the exploitation of workers would inevitably lead to revolution. His prediction was wrong about capitalist countries (revolutions happened in pre-industrial Russia and China instead), but his critique of working conditions and wealth concentration influenced labor movements, welfare states, and regulatory frameworks worldwide.
 
 ### The 20th Century — Capitalism's Identity Crisis
 
@@ -115,7 +115,7 @@ The most hands-off version. Government protects property rights, enforces contra
 
 ### Social Market Economy
 
-Germany's model. Markets determine most prices and production, but the government provides strong social safety nets — universal healthcare, generous unemployment insurance, worker representation on corporate boards. Taxes are higher. Inequality is lower. Economic growth tends to be steady rather than spectacular.
+Germany's model. Markets determine most prices and production, but the government provides strong social safety nets — universal healthcare, generous unemployment [insurance](/insurance), worker representation on corporate boards. Taxes are higher. Inequality is lower. Economic growth tends to be steady rather than spectacular.
 
 The Nordic countries (Sweden, Denmark, Norway, Finland) push this further. They combine highly competitive market economies with high taxes, universal public services, and strong labor unions. These countries consistently rank among the happiest and most prosperous in the world, complicating the narrative that less government equals more prosperity.
 
@@ -129,13 +129,13 @@ Singapore, the United Arab Emirates, and to varying degrees most East Asian econ
 
 When political connections, rather than market competition, determine economic outcomes. Government contracts go to allies. Regulations protect incumbents. Licenses create artificial barriers. This isn't a formal economic model — it's a corruption of capitalist principles — but it's common enough that economists treat it as a distinct category.
 
-Russia's post-Soviet economy, where oligarchs acquired state assets through political connections, is a frequently cited example. But crony capitalism exists to some degree everywhere — the line between legitimate lobbying and regulatory capture is blurry.
+Russia's post-Soviet economy, where oligarchs acquired state assets through political connections, is a frequently cited example. But crony capitalism exists to some degree everywhere — the line between legitimate [lobbying](/lobbying) and regulatory capture is blurry.
 
 ## What Capitalism Does Well
 
 ### Innovation
 
-The profit motive is an extraordinarily effective engine for innovation. If you build something people want, you get rich. This incentive has produced the smartphone, the internet, antibiotics, commercial aviation, electric vehicles, and thousands of other advances.
+The profit motive is an extraordinarily effective engine for innovation. If you build something people want, you get rich. This incentive has produced the smartphone, the internet, antibiotics, commercial [aviation](/aviation), electric vehicles, and thousands of other advances.
 
 [Venture capital](/venture-capital) — investors funding risky startups in exchange for ownership stakes — is a distinctly capitalist institution. It finances innovation that's too speculative for traditional lenders. Silicon Valley, for all its excesses, has produced technology that genuinely improved billions of lives.
 
@@ -165,7 +165,7 @@ Some inequality is inherent to any system that rewards different contributions d
 
 When a factory pollutes a river, the cost falls on downstream communities, not the factory owner. When a company pays poverty wages, taxpayers subsidize its workers through food stamps and Medicaid. These "externalities" — costs imposed on parties not involved in a transaction — are capitalism's blind spot.
 
-Climate change is the ultimate externality. Burning fossil fuels generates profit for producers and cheap energy for consumers, but the cost — rising seas, extreme weather, ecosystem collapse — falls on everyone, including future generations who had no say in the transaction. [Agriculture](/agriculture) faces direct threats from climate instability caused partly by this externality problem.
+[Climate change](/climate-change) is the ultimate externality. Burning fossil fuels generates profit for producers and cheap energy for consumers, but the cost — rising seas, extreme weather, ecosystem collapse — falls on everyone, including future generations who had no say in the transaction. [Agriculture](/agriculture) faces direct threats from climate instability caused partly by this externality problem.
 
 Markets don't price externalities correctly without intervention. Carbon taxes, pollution regulations, and environmental standards are attempts to force external costs into market prices. Without them, capitalism systematically underprices environmental destruction.
 
@@ -221,4 +221,4 @@ If you earn a paycheck, pay rent, buy groceries, or check a stock price, you're 
 
 Understanding [accounting](/accounting) — even at a basic level — means understanding the language capitalism uses to describe itself. Balance sheets, profit margins, and cash flows aren't just business concepts; they're the vocabulary of the economic system you live in.
 
-Capitalism isn't a religion or a natural law. It's a human invention — a set of rules for organizing economic activity. Those rules can be written, rewritten, and adapted. The question isn't whether capitalism is good or bad in the abstract. The question is: what specific rules produce the best outcomes for the most people? That's a question every generation must answer for itself.
+Capitalism isn't a [religion](/religion) or a natural law. It's a human [invention](/invention) — a set of rules for organizing economic activity. Those rules can be written, rewritten, and adapted. The question isn't whether capitalism is good or bad in the abstract. The question is: what specific rules produce the best outcomes for the most people? That's a question every generation must answer for itself.

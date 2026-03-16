@@ -31,7 +31,7 @@ faq:
 
 # What Is Arabic Language?
 
-Arabic is a Semitic language — part of the same family as Hebrew and Aramaic — spoken by over 400 million people across the Middle East and North Africa. Written in a flowing right-to-left script, it's the liturgical language of Islam's 1.8 billion adherents and one of the six official languages of the United Nations.
+Arabic is a Semitic language — part of the same family as Hebrew and Aramaic — spoken by over 400 million people across the Middle East and North Africa. Written in a flowing right-to-left script, it's the liturgical language of [Islam](/islam)'s 1.8 billion adherents and one of the six official languages of the United Nations.
 
 ## Origins and Evolution
 
@@ -53,7 +53,7 @@ Learning to read Arabic script takes most students a few weeks of practice. The 
 
 Arabic has a feature that [linguists](/linguistics) call diglossia — a situation where the formal and spoken versions of a language are substantially different. This is more extreme in Arabic than in almost any other major language.
 
-**Modern Standard Arabic (MSA)** — called *fusha* — is the formal variety. It's used in news broadcasts, newspapers, academic writing, political speeches, and inter-Arab communication. It's taught in schools across the Arab world and is relatively uniform from Morocco to Iraq.
+**Modern Standard Arabic (MSA)** — called *fusha* — is the formal variety. It's used in news broadcasts, newspapers, academic [writing](/writing), political speeches, and inter-Arab communication. It's taught in schools across the Arab world and is relatively uniform from Morocco to Iraq.
 
 **Colloquial Arabic** — the dialects people actually speak at home, in markets, and with friends — varies enormously by region. Egyptian Arabic, Levantine Arabic (Syria, Lebanon, Jordan, Palestine), Gulf Arabic, Iraqi Arabic, and Maghrebi Arabic (North Africa) are the major dialect groups, with significant internal variation within each.
 
@@ -65,11 +65,11 @@ Egyptian Arabic has become the most widely understood dialect, largely because o
 
 During Europe's medieval period, Arabic-speaking scholars preserved and extended Greek philosophical and scientific works. The [mathematics](/mathematics) the modern world uses — including the numeral system (ironically called "Arabic numerals," though they originated in India) — was transmitted to Europe through Arabic-language scholarship.
 
-Key contributions include al-Khwarizmi's foundational work on [algebra](/algebra) (the word itself comes from his book title), Ibn Sina's *Canon of Medicine* (the standard medical text in European universities for 500 years), and al-Haytham's *Book of Optics*, which established the [scientific method](/scientific-method) for studying light. Arabic was the international language of [science](/natural-history) and philosophy for roughly 500 years.
+Key contributions include al-Khwarizmi's foundational work on [algebra](/algebra) (the word itself comes from his book title), Ibn Sina's *Canon of Medicine* (the standard medical text in European universities for 500 years), and al-Haytham's *Book of [Optics](/optics)*, which established the [scientific method](/scientific-method) for studying light. Arabic was the international language of [science](/natural-history) and [philosophy](/philosophy) for roughly 500 years.
 
 ## Learning Arabic Today
 
-Arabic's complexity discourages some potential learners, but the rewards are substantial. The U.S. [government](/government) classifies Arabic as a critical-needs language, and demand for Arabic speakers in diplomacy, intelligence, business, and [journalism](/journalism) consistently exceeds supply.
+Arabic's complexity discourages some potential learners, but the rewards are substantial. The U.S. [government](/government) classifies Arabic as a critical-needs language, and demand for Arabic speakers in [diplomacy](/diplomacy), intelligence, business, and [journalism](/journalism) consistently exceeds supply.
 
 Learners face a strategic choice: study MSA first (useful for reading and formal contexts but not street conversation) or dive into a dialect (immediately practical but limited to one region). Many programs now teach both simultaneously, which is demanding but effective.
 
@@ -79,8 +79,8 @@ But the structure has its own elegance. Arabic words are built on three-letter r
 
 ## Arabic in the Digital Age
 
-Arabic is the fourth most used language on the internet, and social media has created new forms of written Arabic. Young Arabic speakers frequently write dialect (not MSA) using a mix of Arabic script and Latin letters with numbers substituting for Arabic sounds that don't exist in the Latin alphabet (3 = ع, 7 = ح, for example). This system, called "Arabizi" or "Arabish," drives purists crazy but reflects the practical reality of [digital communication](/digital-marketing).
+Arabic is the fourth most used language on the internet, and social media has created new forms of written Arabic. Young Arabic speakers frequently write dialect (not MSA) using a mix of Arabic script and Latin letters with numbers substituting for Arabic sounds that don't exist in the Latin alphabet (3 = ع, 7 = ح, for example). This system, called "Arabizi" or "Arabish," drives purists crazy but reflects the practical reality of [digital communication](/digital-[marketing](/marketing)).
 
 Tech companies have invested heavily in Arabic [natural language processing](/natural-language-processing), but the language's complexity — right-to-left rendering, connected letters, absent short vowels, and dialectal variation — makes it significantly harder to process computationally than European languages.
 
-Arabic isn't just a language. It's a doorway to understanding one of the world's great civilizations, a literary tradition spanning 1,400 years, and a living culture of 400 million people. The script is gorgeous. The grammar is fiendishly logical. And the coffee you'll drink while studying it — *qahwa*, another Arabic loanword — is excellent.
+Arabic isn't just a language. It's a doorway to understanding one of the world's great civilizations, a literary tradition spanning 1,400 years, and a living culture of 400 million people. The script is gorgeous. The [grammar](/grammar) is fiendishly logical. And the coffee you'll drink while studying it — *qahwa*, another Arabic loanword — is excellent.

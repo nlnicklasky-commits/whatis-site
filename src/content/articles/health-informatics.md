@@ -39,7 +39,7 @@ Health informatics is the interdisciplinary field that applies information scien
 
 ## From Paper Charts to Digital Everything
 
-If you've ever watched a medical drama from the 1990s, you've seen the old system: thick paper charts stuffed into wall-mounted racks, doctors scribbling illegible notes, nurses flipping through pages looking for a single lab result. That system killed people. Literally.
+If you've ever watched a medical [drama](/drama) from the 1990s, you've seen the old system: thick paper charts stuffed into wall-mounted racks, doctors scribbling illegible notes, nurses flipping through pages looking for a single lab result. That system killed people. Literally.
 
 Medical errors are the third leading cause of death in the United States, responsible for an estimated 250,000 deaths annually. Many of these errors stem from information problems: a doctor couldn't read a handwritten prescription, a critical allergy wasn't flagged, test results got lost between departments, or a patient's history wasn't available during an emergency.
 
@@ -51,7 +51,7 @@ Health informatics isn't one thing. It's an umbrella covering several overlappin
 
 ### Electronic Health Records (EHRs)
 
-EHRs are the backbone. An electronic health record is a digital version of everything a healthcare provider knows about you: your [medical history](/medical-history), diagnoses, medications, lab results, imaging reports, immunization records, allergies, and treatment plans.
+EHRs are the backbone. An electronic health record is a digital version of everything a healthcare provider knows about you: your [medical history](/medical-history), diagnoses, medications, lab results, imaging reports, immunization records, [allergies](/allergies), and treatment plans.
 
 But here's what makes EHRs more than just digital filing cabinets: they're active systems. A well-designed EHR alerts the prescribing physician if a new medication interacts dangerously with something the patient already takes. It flags abnormal lab values. It reminds providers about overdue screenings. It calculates drug dosages based on patient weight and kidney function.
 
@@ -61,7 +61,7 @@ The two dominant EHR vendors in the U.S. are Epic Systems (holding about 36% of 
 
 These are the smart layers built on top of EHRs. A clinical decision support system analyzes patient data and provides evidence-based recommendations to clinicians. Some are simple: drug-drug interaction alerts, dosing calculators, diagnostic checklists. Others are sophisticated, using [machine learning](/machine-learning) to predict which patients are most likely to deteriorate in the next 24 hours.
 
-Sepsis, a life-threatening response to infection, kills about 270,000 Americans annually. Several hospitals now use CDSS algorithms that scan vital signs, lab results, and nursing notes in real time to flag patients showing early signs of sepsis—often hours before a human clinician would notice. Early detection dramatically improves survival rates.
+Sepsis, a life-threatening response to infection, kills about 270,000 Americans annually. Several hospitals now use CDSS algorithms that scan vital signs, lab results, and [nursing](/nursing) notes in real time to flag patients showing early signs of sepsis—often hours before a human clinician would notice. Early detection dramatically improves survival rates.
 
 But CDSS comes with a major usability problem: alert fatigue. When a system generates too many warnings—most of them clinically irrelevant—doctors start ignoring all of them. Studies show that clinicians override 49-96% of drug interaction alerts. Designing systems that alert at the right moment, for the right reasons, without crying wolf is an active area of health informatics research.
 
@@ -79,7 +79,7 @@ COVID-19 compressed a decade of telehealth adoption into about three months. In 
 
 Health informatics professionals design the platforms, data flows, and integration points that make telehealth work. This includes video consultation systems, remote patient monitoring devices (blood pressure cuffs, glucose monitors, pulse oximeters that transmit data automatically), and the backend systems that incorporate this data into the patient's EHR.
 
-Remote monitoring is particularly powerful for chronic disease management. A patient with congestive heart failure who weighs themselves daily on a connected scale can have sudden weight gain (indicating fluid retention) flagged automatically, triggering a nurse call before the patient ends up in the emergency room. Studies show remote monitoring reduces hospital readmissions by 25-40% for certain conditions.
+Remote monitoring is particularly powerful for chronic disease [management](/management). A patient with congestive heart failure who weighs themselves daily on a connected scale can have sudden weight gain (indicating fluid retention) flagged automatically, triggering a nurse call before the patient ends up in the emergency room. Studies show remote monitoring reduces hospital readmissions by 25-40% for certain conditions.
 
 ## The Data Dimension
 
@@ -97,13 +97,13 @@ These aren't just academic questions. Medicare ties hospital reimbursement to qu
 
 Zoom out from individual patients to entire populations, and you enter population health analytics. This field uses large datasets—claims data, EHR data, census data, environmental data—to identify health trends and target interventions.
 
-For example, a health system might analyze its patient population and discover that diabetic patients in a specific zip code have much higher complication rates. Investigation reveals that zip code is a food desert with no grocery stores within walking distance. The health system responds by partnering with a food delivery service—addressing the root cause rather than just treating complications.
+For example, a health system might analyze its patient population and discover that diabetic patients in a specific zip code have much higher complication rates. Investigation reveals that zip code is a food desert with no grocery stores within [walking](/walking) distance. The health system responds by partnering with a food delivery service—addressing the root cause rather than just treating complications.
 
 ### Predictive Analytics and AI
 
 This is where things get exciting—and controversial. [Artificial intelligence](/artificial-intelligence) and [machine learning](/machine-learning) applied to health data can predict outcomes with sometimes startling accuracy.
 
-Google's DeepMind developed an AI that can detect over 50 eye diseases from retinal scans as accurately as expert ophthalmologists. Stanford researchers created an algorithm that identifies skin cancer from photographs at dermatologist-level accuracy. PathAI's system assists pathologists in analyzing tissue samples for cancer diagnosis.
+Google's DeepMind developed an AI that can detect over 50 eye diseases from retinal scans as accurately as expert ophthalmologists. Stanford researchers created [an algorithm](/algorithms) that identifies skin cancer from photographs at dermatologist-level accuracy. PathAI's system assists pathologists in analyzing tissue samples for cancer diagnosis.
 
 But AI in healthcare faces unique challenges. Training data often reflects existing biases—an algorithm trained predominantly on data from white patients may perform poorly for Black patients. A widely used healthcare algorithm was found in 2019 to systematically underestimate the illness severity of Black patients because it used healthcare spending (which is lower for Black patients due to systemic barriers) as a proxy for health needs.
 
@@ -111,13 +111,13 @@ This is why health informatics professionals—not just data scientists—are es
 
 ## Privacy and Security: The Constant Tension
 
-Health data is extraordinarily sensitive. Your medical records reveal conditions you might not share with your closest family members. Mental health diagnoses, HIV status, substance abuse history, genetic predispositions—this information, if exposed, can affect employment, insurance, relationships, and social standing.
+Health data is extraordinarily sensitive. Your medical records reveal conditions you might not share with your closest family members. [Mental health](/mental-health) diagnoses, HIV status, substance abuse history, genetic predispositions—this information, if exposed, can affect employment, [insurance](/insurance), relationships, and social standing.
 
 ### HIPAA and Its Limits
 
 The [Health Insurance](/health-insurance) Portability and Accountability Act (HIPAA), enacted in 1996, established federal protections for health information. It requires healthcare organizations to implement physical, administrative, and technical safeguards for patient data.
 
-But HIPAA has significant gaps. It only applies to "covered entities" (healthcare providers, health plans, clearinghouses) and their business associates. Your fitness tracker data? Not covered. The health information you share with a wellness app? Probably not covered. Genetic data you send to a consumer testing company? Also not covered unless they happen to be a HIPAA-covered entity.
+But HIPAA has significant gaps. It only applies to "covered entities" (healthcare providers, health plans, clearinghouses) and their business associates. Your [fitness](/fitness) tracker data? Not covered. The health information you share with a [wellness](/wellness) app? Probably not covered. Genetic data you send to a consumer testing company? Also not covered unless they happen to be a HIPAA-covered entity.
 
 This regulatory gap is growing as health data increasingly flows through non-traditional channels. Health informatics professionals work at the intersection of [computer security](/computer-security), regulatory compliance, and clinical necessity—balancing the need for data access (which improves care) against the need for data protection (which protects patients).
 
@@ -127,19 +127,19 @@ Healthcare is the most targeted industry for cyberattacks. The average cost of a
 
 Why is healthcare so vulnerable? Legacy systems that can't be easily updated, a vast attack surface (every connected medical device is a potential entry point), and the reality that hospitals can't simply shut down systems when attacked—patients still need care.
 
-Health informatics addresses this through security architecture design, access control systems, encryption protocols, and incident response planning. The challenge is implementing enterprise-grade security in an environment where a doctor might need emergency access to a patient's records at 3 AM from a personal device—security measures that add friction can literally cost lives.
+Health informatics addresses this through security [architecture](/architecture) design, access control systems, encryption protocols, and incident response planning. The challenge is implementing enterprise-grade security in an environment where a doctor might need emergency access to a patient's records at 3 AM from a personal device—security measures that add friction can literally cost lives.
 
 ## Imaging Informatics
 
-Medical imaging—X-rays, CT scans, MRIs, ultrasounds—generates enormous volumes of data that require specialized informatics systems. A single CT scan produces around 200-300 images. An MRI can generate over 1,000. Multiply that by millions of scans annually, and you understand why imaging informatics is its own subspecialty.
+[Medical imaging](/medical-imaging)—X-rays, CT scans, MRIs, ultrasounds—generates enormous volumes of data that require specialized informatics systems. A single CT scan produces around 200-300 images. An MRI can generate over 1,000. Multiply that by millions of scans annually, and you understand why imaging informatics is its own subspecialty.
 
 Picture Archiving and Communication Systems (PACS) store, retrieve, and display medical images digitally. The DICOM standard (Digital Imaging and Communications in Medicine) ensures that imaging equipment from different manufacturers can share images in a common format.
 
-AI is making rapid inroads here. Algorithms that detect lung nodules on chest X-rays, identify fractures that radiologists might miss, and flag critical findings for immediate review are already in clinical use. The FDA has approved over 500 AI-enabled medical devices, with radiology applications leading the pack.
+AI is making rapid inroads here. Algorithms that detect lung nodules on chest X-rays, identify fractures that radiologists might miss, and flag critical findings for immediate review are already in clinical use. The FDA has approved over 500 AI-enabled medical devices, with [radiology](/radiology) applications leading the pack.
 
 ## Public Health Informatics
 
-While clinical informatics focuses on individual patient care, public health informatics operates at the population level. It encompasses disease surveillance systems, vital records management, immunization registries, and outbreak investigation tools.
+While clinical informatics focuses on individual patient care, [public health](/public-health) informatics operates at the population level. It encompasses disease surveillance systems, vital records management, immunization registries, and outbreak investigation tools.
 
 The COVID-19 pandemic exposed both the power and the fragility of public health informatics infrastructure. Countries with strong digital surveillance systems—like South Korea and Taiwan—detected and contained outbreaks faster. The U.S., with its fragmented patchwork of state and local health department systems, struggled with basic tasks like counting cases accurately and tracking vaccine distribution.
 
@@ -205,4 +205,4 @@ The future of health informatics is being shaped by several converging trends.
 
 Health informatics is where healthcare meets information science—the discipline that determines how health data is collected, stored, shared, analyzed, and used to improve patient care. From electronic health records to AI diagnostics, from telehealth platforms to population health analytics, informatics professionals design the information systems that modern healthcare depends on.
 
-The field faces real challenges: interoperability gaps, cybersecurity threats, alert fatigue, algorithmic bias, and the tension between data access and patient privacy. But the trajectory is clear—healthcare is becoming increasingly data-driven, and the professionals who understand both the clinical and technical dimensions of health information will shape how medicine is practiced for decades to come.
+The field faces real challenges: interoperability gaps, [cybersecurity](/cybersecurity) threats, alert fatigue, algorithmic bias, and the tension between data access and patient privacy. But the trajectory is clear—healthcare is becoming increasingly data-driven, and the professionals who understand both the clinical and technical dimensions of health information will shape how medicine is practiced for decades to come.

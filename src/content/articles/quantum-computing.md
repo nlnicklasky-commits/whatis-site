@@ -45,7 +45,7 @@ To understand quantum computing, you first need to understand what makes it diff
 
 ### How Classical Computers Think
 
-A classical computer -- every desktop, laptop, phone, and server on the planet -- processes information using bits. Each bit is either 0 or 1. Every computation, from sending an email to training an AI model, reduces to manipulating billions of these binary digits through logic gates.
+A classical computer -- every desktop, laptop, phone, and server on the planet -- processes information using bits. Each bit is either 0 or 1. Every computation, from sending an email to training an AI model, reduces to manipulating billions of these binary digits through [logic](/logic) gates.
 
 When a classical computer solves a problem, it checks possibilities sequentially (or in parallel across multiple processors, but still one possibility per processor). If you're trying to find the best route through 20 cities, a classical computer checks routes one at a time. With 20 cities, there are about 60 quintillion possible routes. Even at billions of operations per second, this takes longer than the age of the universe.
 
@@ -69,7 +69,7 @@ A qubit is any quantum system that can exist in a superposition of two states. P
 
 **Trapped ions** are individual atoms held in place by electromagnetic fields and manipulated with laser beams. IonQ and Quantinuum use this approach. Trapped ions have longer coherence times and higher gate fidelity than superconducting qubits but are harder to scale.
 
-**Photonic qubits** encode information in properties of individual photons (particles of light). Companies like PsiQuantum and Xanadu pursue this route. Photons don't need cooling and can travel through fiber optic cables, making them promising for quantum networking.
+**Photonic qubits** encode information in properties of individual photons (particles of light). Companies like PsiQuantum and Xanadu pursue this route. Photons don't need cooling and can travel through fiber optic cables, making them promising for quantum [networking](/networking).
 
 **Topological qubits** use exotic quantum states of matter called anyons that are inherently resistant to decoherence. Microsoft has pursued this approach for years. In 2025, they announced progress on a topological qubit design, but the technology remains less mature than alternatives.
 
@@ -127,7 +127,7 @@ Current quantum computers are "noisy" -- their qubits are error-prone and can on
 
 The idea: use a quantum computer to prepare and measure quantum states, but use a classical computer to optimize the parameters. The quantum computer does what it's good at (representing quantum states), and the classical computer does what it's good at (optimization). Algorithms like VQE (Variational Quantum Eigensolver) and QAOA (Quantum Approximate Optimization Algorithm) work this way.
 
-These hybrid approaches are producing early practical results in chemistry simulation and optimization problems, even with today's imperfect hardware.
+These hybrid approaches are producing early practical results in [chemistry](/chemistry) simulation and optimization problems, even with today's imperfect hardware.
 
 ## The Error Problem: Quantum Computing's Biggest Challenge
 
@@ -149,7 +149,7 @@ In 2024, Google demonstrated that increasing the size of its error-correcting co
 
 ## Who's Building Quantum Computers?
 
-The quantum computing industry is a mix of tech giants, well-funded startups, and government programs:
+The quantum computing industry is a mix of tech giants, well-funded startups, and [government](/government) programs:
 
 **IBM** operates the largest fleet of publicly accessible quantum computers, with its Condor processor reaching 1,121 superconducting qubits in 2023. Their roadmap targets 100,000+ qubits by 2033.
 
@@ -185,13 +185,13 @@ This is the application that keeps security agencies up at night. Here's why:
 
 Most internet security relies on two mathematical problems being hard: factoring large numbers (RSA) and computing discrete logarithms on elliptic curves (ECC). Shor's algorithm makes both problems easy for quantum computers.
 
-The concern isn't just future messages. Adversaries practicing "harvest now, decrypt later" strategies are already collecting encrypted communications today, planning to decrypt them once quantum computers are powerful enough. Classified government data, long-term trade secrets, and personal medical records could all be exposed.
+The concern isn't just future messages. Adversaries practicing "harvest now, decrypt later" strategies are already collecting encrypted communications today, planning to decrypt them once quantum computers are powerful enough. Classified government data, long-term [trade](/trade) secrets, and personal medical records could all be exposed.
 
 This is why NIST standardized post-quantum cryptographic algorithms in 2024: CRYSTALS-Kyber for key exchange and CRYSTALS-Dilithium for digital signatures. These algorithms are believed to be resistant to both classical and quantum attacks. The migration to [post-quantum cryptography](/cryptography) is now underway across governments and industries.
 
 ## Quantum Computing vs. Quantum Hype
 
-Let's separate reality from marketing:
+Let's separate reality from [marketing](/marketing):
 
 **Hype:** "Quantum computers will make classical computers obsolete."
 **Reality:** Quantum computers will supplement classical computers for specific problem types. Your email, web browsing, and spreadsheets will always run on classical hardware.
@@ -221,13 +221,13 @@ This will likely change as quantum hardware improves, but the timeline is uncert
 
 If you're not a physicist or [computer scientist](/computer-science), here's the framework that matters:
 
-Quantum computing is a new computational model that will eventually solve specific problems far beyond classical capabilities. These problems include molecular simulation (drug discovery, materials science), optimization (logistics, finance), and cryptography (both breaking and creating new encryption).
+Quantum computing is a new computational model that will eventually solve specific problems far beyond classical capabilities. These problems include molecular simulation (drug discovery, materials science), optimization ([logistics](/logistics), [finance](/finance)), and cryptography (both breaking and creating new encryption).
 
 It will not replace classical computing. It will not make your phone faster. It will not create artificial general intelligence (at least, not on its own).
 
 What it will do is solve problems that are currently unsolvable -- simulating the behavior of complex molecules for drug design, optimizing global supply chains, and enabling new forms of secure communication through quantum key distribution.
 
-The technology is real. The progress is genuine. The timeline is uncertain but measurable in years, not decades. And the long-term impact could be comparable to the invention of the classical computer itself -- not because it replaces it, but because it extends what computation can do into entirely new territory.
+The technology is real. The progress is genuine. The timeline is uncertain but measurable in years, not decades. And the long-term impact could be comparable to the [invention](/invention) of the classical computer itself -- not because it replaces it, but because it extends what computation can do into entirely new territory.
 
 ## Key Takeaways
 

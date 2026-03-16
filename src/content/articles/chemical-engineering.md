@@ -37,7 +37,7 @@ faq:
 
 # What Is Chemical Engineering?
 
-Chemical engineering is the branch of engineering that applies principles of chemistry, physics, mathematics, and biology to design, operate, and optimize processes that convert raw materials into valuable products at industrial scale. Chemical engineers work across nearly every industry — from petroleum refining and pharmaceuticals to food processing, semiconductor manufacturing, and environmental remediation — wherever matter is transformed from one form into another.
+Chemical [engineering](/engineering) is the branch of engineering that applies principles of [chemistry](/chemistry), physics, [mathematics](/mathematics), and [biology](/biology) to design, operate, and optimize processes that convert raw materials into valuable products at industrial scale. Chemical engineers work across nearly every industry — from petroleum refining and pharmaceuticals to food processing, semiconductor manufacturing, and environmental remediation — wherever matter is transformed from one form into another.
 
 ## The Scale-Up Problem — Why Chemical Engineering Exists
 
@@ -47,15 +47,15 @@ This isn't a trivial problem. Scaling up a chemical process by a factor of 10,00
 
 Chemical engineering emerged as a distinct discipline in the late 19th and early 20th centuries specifically to solve this scale-up problem. Before that, scaling up was essentially trial and error — expensive, slow, and often dangerous. Chemical engineering provided the mathematical and scientific framework to predict how processes behave at any scale.
 
-The concept of "unit operations" — the idea that chemical processes can be broken into fundamental steps (distillation, filtration, heat exchange, reaction, drying) that obey the same principles regardless of the specific chemicals involved — was the intellectual breakthrough that made the field possible. Arthur D. Little at MIT formalized this concept in 1915, and it remains the organizing principle of chemical engineering education.
+The concept of "unit operations" — the idea that chemical processes can be broken into fundamental steps ([distillation](/distillation), filtration, heat exchange, reaction, drying) that obey the same principles regardless of the specific chemicals involved — was the intellectual breakthrough that made the field possible. Arthur D. Little at MIT formalized this concept in 1915, and it remains the organizing principle of chemical engineering [education](/education).
 
 ## What Chemical Engineers Actually Design
 
 ### Reactors
 
-The reactor is where the chemistry happens — where raw materials are converted into products. Chemical engineers design reactors by considering reaction kinetics (how fast), [thermodynamics](/thermodynamics) (how far), heat transfer (how hot), and mass transfer (how well mixed).
+The reactor is where the chemistry happens — where raw materials are converted into products. Chemical engineers design reactors by considering reaction kinetics (how fast), [thermodynamics](/thermodynamics) (how far), [heat transfer](/heat-transfer) (how hot), and mass transfer (how well mixed).
 
-**Batch reactors** process one batch at a time — like a giant cooking pot. Pharmaceuticals and specialty chemicals are often made in batch reactors because each batch can be tested for quality before moving on.
+**Batch reactors** process one batch at a time — like a giant [cooking](/cooking) pot. Pharmaceuticals and specialty chemicals are often made in batch reactors because each batch can be tested for quality before moving on.
 
 **Continuous stirred-tank reactors (CSTRs)** run continuously with constant feed and product withdrawal. They're well-mixed, meaning temperature and concentration are uniform throughout.
 
@@ -75,7 +75,7 @@ Most chemical reactions don't produce pure products. The reactor output is typic
 
 **Extraction** separates compounds between two immiscible liquids. Decaffeination of coffee — using supercritical CO₂ to selectively dissolve caffeine — is an extraction process.
 
-**Membrane separation** uses semi-permeable membranes to separate mixtures. Reverse osmosis desalination — pushing seawater through membranes that block salt while passing water — is the dominant desalination technology, producing over 65 million cubic meters of fresh water daily worldwide.
+**Membrane separation** uses semi-permeable membranes to separate mixtures. Reverse osmosis [desalination](/desalination) — pushing seawater through membranes that block salt while passing water — is the dominant desalination technology, producing over 65 million cubic meters of fresh water daily worldwide.
 
 **Crystallization, filtration, drying, and adsorption** round out the separation toolkit. Each has its own physics, its own design equations, and its own practical challenges.
 
@@ -103,7 +103,7 @@ Drug manufacturing is one of the most complex applications of chemical engineeri
 
 Biopharmaceuticals — drugs produced using living cells (antibodies, vaccines, gene therapies) — represent a growing frontier. Designing bioreactors that maintain living cell cultures at industrial scale, controlling contamination, and purifying biological products require chemical engineering principles applied to biological systems.
 
-The COVID-19 pandemic highlighted the importance of pharmaceutical chemical engineering. Scaling mRNA vaccine production from laboratory quantities to billions of doses required solving chemical engineering challenges in lipid nanoparticle formulation, mRNA synthesis, and cold-chain logistics — in record time.
+The COVID-19 pandemic highlighted the importance of pharmaceutical chemical engineering. Scaling mRNA vaccine production from laboratory quantities to billions of doses required solving chemical engineering challenges in lipid nanoparticle formulation, mRNA synthesis, and cold-chain [logistics](/logistics) — in record time.
 
 ### Energy
 
@@ -115,7 +115,7 @@ Even nuclear energy involves chemical engineering — reactor coolant chemistry,
 
 ### Food and Beverage
 
-Food processing is applied chemical engineering. Pasteurization, spray drying, extrusion, fermentation, and emulsification are all unit operations that chemical engineers design and optimize.
+Food processing is applied chemical engineering. Pasteurization, spray drying, extrusion, [fermentation](/fermentation), and emulsification are all unit operations that chemical engineers design and optimize.
 
 Understanding [carbohydrate chemistry](/carbohydrate-chemistry) is essential for food process engineers working with starch modification, sugar processing, and baking. The conversion of raw agricultural products into shelf-stable, nutritious, affordable food is one of chemical engineering's most impactful contributions.
 
@@ -135,7 +135,7 @@ Chemical engineering has a sober relationship with safety. The industry's histor
 
 The Bhopal disaster (1984) killed thousands when methyl isocyanate leaked from a pesticide plant in India. The Texas City refinery explosion (2005) killed 15 workers. The Deepwater Horizon oil spill (2010) resulted from cascading failures in well control.
 
-Each disaster led to improved safety practices. Bhopal drove the Responsible Care program and improved toxic gas monitoring. Texas City led to stronger process safety management requirements. Deepwater Horizon tightened offshore drilling regulations.
+Each disaster led to improved safety practices. Bhopal drove the Responsible Care program and improved toxic gas monitoring. Texas City led to stronger process safety [management](/management) requirements. Deepwater Horizon tightened offshore drilling regulations.
 
 Modern chemical engineering emphasizes inherent safety — designing processes that are safe by their nature, not just safe because of added safety devices. Using less hazardous materials, operating at lower temperatures and pressures, and designing for failure containment are inherently safer than relying on alarms and emergency shutdowns.
 
@@ -145,7 +145,7 @@ Loss prevention engineering — a specialty within chemical engineering — syst
 
 Chemical engineering is mathematics-heavy, and not in a theoretical way — the math directly solves practical problems.
 
-**Mass and energy balances** — accounting for every kilogram of material and every joule of energy entering and leaving a process — are the foundation. If you can't close a mass balance (what goes in must come out, plus or minus what accumulates), you don't understand your process.
+**Mass and energy balances** — [accounting](/accounting) for every kilogram of material and every joule of energy entering and leaving a process — are the foundation. If you can't close a mass balance (what goes in must come out, plus or minus what accumulates), you don't understand your process.
 
 **Thermodynamics** predicts whether a process is physically possible and how much energy it requires. Phase equilibrium calculations determine how liquids and gases behave at different temperatures and pressures — essential for designing distillation columns and evaporators.
 
@@ -179,10 +179,10 @@ Semiconductor manufacturing, battery production, 3D printing materials, and nano
 
 ## Why Chemical Engineering Matters
 
-A chemist once told me that chemical engineering is "chemistry with a budget and a deadline." That's not entirely wrong. Chemical engineers take scientific knowledge and make it work in the real world, at real scale, with real constraints — economics, safety, environmental regulations, and human limitations.
+A chemist once told me that chemical engineering is "chemistry with a budget and a deadline." That's not entirely wrong. Chemical engineers take scientific knowledge and make it work in the real world, at real scale, with real constraints — [economics](/economics), safety, environmental regulations, and human limitations.
 
 The products of chemical engineering surround you. The gasoline in your car. The plastic in your phone. The water from your tap. The medicine in your cabinet. The fertilizer that grew your food. The concrete in your buildings. The silicon in your computer. All produced at scale by processes designed by chemical engineers.
 
-As the world faces its biggest challenges — climate change, water scarcity, food security, public health — chemical engineering will be central to the solutions. The energy transition needs chemical engineers to design batteries, produce hydrogen, capture carbon, and manufacture solar cells. Clean water for 8 billion people needs chemical engineers to design affordable treatment systems. Feeding the world sustainably needs chemical engineers to produce fertilizers, process food, and develop biomaterials.
+As the world faces its biggest challenges — [climate change](/climate-change), water scarcity, food security, [public health](/public-health) — chemical engineering will be central to the solutions. The energy transition needs chemical engineers to design batteries, produce hydrogen, capture carbon, and manufacture solar cells. Clean water for 8 billion people needs chemical engineers to design affordable treatment systems. Feeding the world sustainably needs chemical engineers to produce fertilizers, process food, and develop biomaterials.
 
 It's not the flashiest engineering discipline. You won't see many chemical engineers in movies. But you'll interact with their work every single day of your life.

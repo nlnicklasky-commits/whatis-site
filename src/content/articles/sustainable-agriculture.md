@@ -66,19 +66,19 @@ Healthy soil is the foundation of everything. Soil isn't just dirt — it's a li
 
 Sustainable agriculture treats soil as a living system to be maintained, not a substrate to be mined. Key practices include:
 
-**Cover cropping** — planting crops like clover, rye, or vetch during off-seasons to protect soil from erosion, add organic matter, fix nitrogen, and suppress weeds. A 2019 study by the Sustainable Agriculture Research and Education (SARE) program found that cover crops reduced erosion by 30-90% and increased subsequent cash crop yields by an average of 3%.
+**Cover cropping** — planting crops like clover, rye, or vetch during off-seasons to protect soil from erosion, add organic matter, fix nitrogen, and suppress weeds. A 2019 study by the Sustainable Agriculture Research and [Education](/education) (SARE) program found that cover crops reduced erosion by 30-90% and increased subsequent cash crop yields by an average of 3%.
 
 **Reduced tillage or no-till farming** — minimizing soil disturbance preserves soil structure, protects fungal networks, reduces erosion, and keeps carbon in the ground. No-till acreage in the U.S. has grown from virtually zero in the 1970s to about 104 million acres today — roughly 40% of all cropland.
 
 **[Composting](/composting) and organic amendments** — returning organic matter to soil feeds microbial communities and improves water retention, nutrient availability, and soil structure. Well-managed compost can also suppress soil-borne plant diseases.
 
-**Crop rotation** — alternating different crops on the same field breaks pest and disease cycles, balances nutrient demands, and improves soil biology. The classic example is rotating corn (a heavy nitrogen user) with soybeans (which fix nitrogen from the air through symbiotic bacteria).
+**Crop rotation** — alternating different crops on the same field breaks pest and disease cycles, balances nutrient demands, and improves soil [biology](/biology). The classic example is rotating corn (a heavy nitrogen user) with soybeans (which fix nitrogen from the air through symbiotic bacteria).
 
 ### Water Management
 
 Agriculture uses about 70% of the world's freshwater withdrawals, according to the World Bank. In water-scarce regions, this creates enormous tension between farming, cities, industry, and ecosystems.
 
-Sustainable water management in agriculture includes:
+Sustainable [water management](/water-management) in agriculture includes:
 
 **Drip [irrigation](/irrigation)** delivers water directly to plant roots through a network of tubes and emitters, reducing water use by 30-60% compared to flood irrigation. Israel — where drip irrigation was pioneered — grows substantial food exports in what is essentially a desert, using about 75% less water per acre than traditional methods.
 
@@ -86,7 +86,7 @@ Sustainable water management in agriculture includes:
 
 **Precision irrigation** uses soil moisture sensors, weather data, and sometimes satellite imagery to apply exactly the right amount of water at the right time. No more, no less.
 
-**Wetland buffers** along waterways filter agricultural runoff before it reaches streams and rivers, trapping sediment, absorbing nutrients, and reducing pollution.
+**Wetland buffers** along waterways filter agricultural runoff before it reaches streams and rivers, [trapping](/trapping) sediment, absorbing nutrients, and reducing pollution.
 
 ### Integrated Pest Management (IPM)
 
@@ -112,7 +112,7 @@ Industrial agriculture tends toward simplification — fewer crop species, large
 
 **Hedgerows, field margins, and habitat strips** provide homes for pollinators, predatory insects, birds, and other wildlife that provide free ecosystem services. Studies consistently show that farms with more diverse habitats surrounding crop fields experience less pest damage and require fewer pesticides.
 
-**Agroforestry** — integrating trees with crops or livestock — can provide shade, wind protection, habitat, fruit or nut production, carbon sequestration, and improved water cycling. Silvopasture (combining trees with livestock grazing) can increase per-acre [productivity](/productivity) by 20-50% compared to open pasture alone.
+**Agroforestry** — integrating trees with crops or livestock — can provide shade, wind protection, habitat, fruit or nut production, carbon sequestration, and improved water [cycling](/cycling). Silvopasture (combining trees with livestock grazing) can increase per-acre [productivity](/productivity) by 20-50% compared to open pasture alone.
 
 ### Economic Viability
 
@@ -126,7 +126,7 @@ Sustainable agriculture approaches economic viability through:
 
 **Diversification** — growing multiple crops, adding livestock, selling value-added products, or incorporating agritourism reduces dependence on any single commodity's price.
 
-**Direct marketing** — selling at farmers' markets, through community-supported agriculture (CSA) programs, or directly to restaurants and institutions captures more of the retail dollar than selling through commodity channels.
+**Direct [marketing](/marketing)** — selling at farmers' markets, through community-supported agriculture (CSA) programs, or directly to restaurants and institutions captures more of the retail dollar than selling through commodity channels.
 
 ## Sustainable Agriculture in Practice
 
@@ -154,7 +154,7 @@ Sustainable agriculture isn't anti-technology. Many of the most promising sustai
 
 **Soil carbon measurement** tools are improving rapidly, which matters because soil carbon is both an indicator of soil health and a potential climate solution. Healthy soils sequester carbon from the atmosphere; degraded soils release it.
 
-**Genomics and breeding** (distinct from genetic engineering) are developing crop varieties that are more drought-tolerant, pest-resistant, and nutrient-efficient, reducing the need for inputs.
+**Genomics and breeding** (distinct from genetic [engineering](/engineering)) are developing crop varieties that are more drought-tolerant, pest-resistant, and nutrient-efficient, reducing the need for inputs.
 
 **Data platforms** help farmers track soil health, input costs, weather patterns, and yields over time, making it easier to measure the economic and environmental impacts of changed practices.
 
@@ -162,7 +162,7 @@ Sustainable agriculture isn't anti-technology. Many of the most promising sustai
 
 Individual farmers can do a lot, but systemic change requires policy support.
 
-The U.S. Farm Bill — renewed approximately every five years — shapes American agriculture through subsidies, crop insurance, conservation programs, and research funding. Currently, the vast majority of subsidies flow to large-scale production of commodity crops (corn, soybeans, wheat, cotton), which incentivizes the very monoculture systems that sustainable agriculture seeks to move beyond.
+The U.S. Farm Bill — renewed approximately every five years — shapes American agriculture through subsidies, crop [insurance](/insurance), conservation programs, and research funding. Currently, the vast majority of subsidies flow to large-scale production of commodity crops (corn, soybeans, wheat, cotton), which incentivizes the very monoculture systems that sustainable agriculture seeks to move beyond.
 
 Conservation programs like the Conservation Reserve Program (CRP), Environmental Quality Incentives Program (EQIP), and Conservation Stewardship Program (CSP) pay farmers to adopt sustainable practices. But funding for these programs is a fraction of total farm subsidies.
 

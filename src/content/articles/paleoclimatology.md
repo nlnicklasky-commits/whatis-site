@@ -35,7 +35,7 @@ Paleoclimatology is the study of Earth's past climates — how temperatures, pre
 
 ## Why Past Climates Matter Now
 
-Understanding past climates isn't just academic curiosity. It's essential for understanding current climate change. Earth's climate system is enormously complex, and the best way to understand how it responds to changes in CO2 levels, solar output, volcanic eruptions, and orbital variations is to study how it responded in the past.
+Understanding past climates isn't just academic curiosity. It's essential for understanding current [climate change](/climate-change). Earth's climate system is enormously complex, and the best way to understand how it responds to changes in CO2 levels, solar output, volcanic eruptions, and orbital variations is to study how it responded in the past.
 
 The instrumental temperature record only goes back about 170 years. That's a blink in geological time. To understand the full range of climate behavior — how fast temperatures can change, how high CO2 levels have been, what happens when ice sheets collapse — you need paleoclimate data going back hundreds of thousands or millions of years.
 

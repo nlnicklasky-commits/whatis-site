@@ -35,7 +35,7 @@ faq:
 
 # What Is Hagiography?
 
-Hagiography is the literary genre devoted to writing the lives of saints and holy figures. The term comes from the Greek *hagios* (holy) and *graphein* (to write), and it has been one of the most widely produced forms of [literature](/literature) in human history — even if most people today have never heard the word.
+Hagiography is the literary genre devoted to [writing](/writing) the lives of saints and holy figures. The term comes from the Greek *hagios* (holy) and *graphein* (to write), and it has been one of the most widely produced forms of [literature](/literature) in human history — even if most people today have never heard the word.
 
 ## More Than Just [Biography](/biography)
 
@@ -49,7 +49,7 @@ The result is a genre that frustrates modern historians but fascinates them too.
 
 The earliest [Christian](/christianity) hagiographies emerged in the 2nd and 3rd centuries CE with martyr accounts — stories of Christians who died for their faith under Roman persecution. The *Acts of the Martyrs* recorded (sometimes in graphic detail) how believers faced torture and execution rather than renounce their beliefs. These weren't subtle literary works. They were propaganda — effective, emotionally powerful propaganda designed to inspire faith and courage in communities under threat.
 
-The genre exploded after Christianity became the Roman Empire's official religion in the 4th century. With persecution over, the model of holiness shifted from martyrdom to asceticism. Desert monks and hermits who withdrew from society to pray, fast, and battle demons became the new spiritual heroes. Athanasius of Alexandria wrote the *Life of Antony* around 360 CE, and it became arguably the most influential hagiography ever produced. Antony was portrayed as a warrior against demonic forces — literally [wrestling](/wrestling) with devils in the Egyptian desert. The text was a bestseller by ancient standards and inspired thousands of people across the Mediterranean to pursue monastic life.
+The genre exploded after Christianity became the Roman Empire's official [religion](/religion) in the 4th century. With persecution over, the model of holiness shifted from martyrdom to asceticism. Desert monks and hermits who withdrew from society to pray, fast, and battle demons became the new spiritual heroes. Athanasius of Alexandria wrote the *Life of Antony* around 360 CE, and it became arguably the most influential hagiography ever produced. Antony was portrayed as a warrior against demonic forces — literally [wrestling](/wrestling) with devils in the Egyptian desert. The text was a bestseller by ancient standards and inspired thousands of people across the Mediterranean to pursue monastic life.
 
 By the medieval period, hagiography had become an industry. Every monastery, cathedral, and religious community wanted saints' lives to read aloud during meals, feast days, and liturgical celebrations. Jacobus de Voragine compiled the *Golden Legend* around 1260 — a massive collection of saints' lives that became one of the most widely read books in medieval Europe. It was copied, translated, and distributed more than almost any other text. Only the Bible itself surpassed it.
 
@@ -57,7 +57,7 @@ By the medieval period, hagiography had become an industry. Every monastery, cat
 
 Most hagiographies follow recognizable patterns, and once you know them, you start seeing the same beats everywhere.
 
-**Birth and childhood portents.** The future saint is born under unusual circumstances — a miraculous light, a prophecy, angelic visitations. Even as a child, they show extraordinary piety. They refuse games to pray instead. They give away their food to the poor. These details signal to the reader: this person was special from the start.
+**Birth and childhood portents.** The future saint is born under unusual circumstances — a miraculous light, a [prophecy](/prophecy), angelic visitations. Even as a child, they show extraordinary piety. They refuse games to pray instead. They give away their food to the poor. These details signal to the reader: this person was special from the start.
 
 **Conversion or calling.** The saint experiences a dramatic turning point — a vision, a voice from heaven, a moment of sudden clarity. Augustine's conversion in the garden. Francis of Assisi stripping naked in front of his father to renounce worldly wealth. These moments are written to be vivid and emotionally compelling.
 

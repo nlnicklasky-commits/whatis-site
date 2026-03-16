@@ -37,17 +37,17 @@ faq:
 
 # What Is Nuclear Engineering?
 
-Nuclear engineering is the branch of engineering that applies the physics of atomic nuclei to generate energy, develop medical treatments, design radiation shielding, and build systems that safely handle radioactive materials. It sits at the intersection of [physics](/experimental-physics), [chemistry](/chemistry), and [engineering](/engineering) — and frankly, it's one of the most misunderstood fields out there.
+Nuclear engineering is the branch of engineering that applies the [physics](/physics) of atomic nuclei to generate energy, develop medical treatments, design radiation shielding, and build systems that safely handle radioactive materials. It sits at the intersection of [physics](/experimental-physics), [chemistry](/chemistry), and [engineering](/engineering) — and frankly, it's one of the most misunderstood fields out there.
 
 ## Where It All Started
 
-The story of nuclear engineering begins — somewhat ominously — with a squash court in Chicago. On December 2, 1942, physicist Enrico Fermi and his team achieved the first controlled, self-sustaining nuclear chain reaction beneath the bleachers of the University of Chicago's Stagg Field. That experiment, called Chicago Pile-1, used roughly 45,000 graphite blocks and 19,000 pieces of uranium. No containment structure. No cooling system. Just a brilliant team betting that their calculations were right.
+The story of nuclear engineering begins — somewhat ominously — with a [squash](/squash) court in Chicago. On December 2, 1942, physicist Enrico Fermi and his team achieved the first controlled, self-sustaining nuclear chain reaction beneath the bleachers of the University of Chicago's Stagg Field. That experiment, called Chicago Pile-1, used roughly 45,000 graphite blocks and 19,000 pieces of uranium. No containment structure. No cooling system. Just a brilliant team betting that their calculations were right.
 
 They were. And that moment split [engineering history](/engineering-history) in two: before controlled nuclear reactions, and after.
 
 The Manhattan Project accelerated nuclear technology at a pace that remains almost unmatched in engineering history. Within three years, the U.S. had built entire cities — Oak Ridge, Hanford, Los Alamos — dedicated to nuclear work. Over 125,000 people worked on the project at its peak. The technology was developed for weapons first, but engineers immediately recognized the potential for peaceful applications.
 
-By 1951, the Experimental Breeder Reactor I (EBR-I) in Idaho produced the first electricity from nuclear energy — enough to power four light bulbs. Nine years later, the Shippingport Atomic Power Station in Pennsylvania became the first full-scale nuclear power plant in the U.S., generating 60 megawatts. The nuclear age of engineering had arrived.
+By 1951, the Experimental Breeder Reactor I (EBR-I) in Idaho produced the first [electricity](/electricity) from nuclear energy — enough to power four light bulbs. Nine years later, the Shippingport Atomic Power Station in Pennsylvania became the first full-scale nuclear power plant in the U.S., generating 60 megawatts. The nuclear age of engineering had arrived.
 
 ## The Physics You Need to Understand
 
@@ -99,7 +99,7 @@ About 20% of the world's reactors are BWRs. General Electric designed many of th
 
 ## Safety Engineering: The Non-Negotiable Priority
 
-If you remember one thing about nuclear engineering, make it this: safety isn't a feature — it's the entire design philosophy.
+If you remember one thing about nuclear engineering, make it this: safety isn't a feature — it's the entire design [philosophy](/philosophy).
 
 ### Defense in Depth
 
@@ -122,7 +122,7 @@ For example, some designs use gravity-fed water tanks positioned above the react
 
 Three major accidents have shaped nuclear engineering: Three Mile Island (1979), Chernobyl (1986), and Fukushima (2011). Each one led to significant design improvements.
 
-Three Mile Island was a partial meltdown caused by equipment failures and operator errors. Nobody died, but it revealed how badly human factors can interact with complex systems. The industry responded with improved operator training and control room design.
+Three Mile Island was a partial meltdown caused by equipment failures and operator errors. Nobody died, but it revealed how badly [human factors](/human-factors) can interact with complex systems. The industry responded with improved operator training and control room design.
 
 Chernobyl was catastrophic — a flawed reactor design combined with operator violations caused a steam explosion and graphite fire that released massive amounts of radioactive material. The RBMK reactor type had a positive void coefficient, meaning it could become more reactive as coolant was lost. No Western reactor design has this characteristic.
 
@@ -130,7 +130,7 @@ Fukushima demonstrated that even well-designed reactors are vulnerable to events
 
 ## Nuclear Engineering Beyond Power Plants
 
-Here's what most people miss: [nuclear power](/nuclear-power) generation is just one application of nuclear engineering. The field extends into medicine, industry, agriculture, space exploration, and national security.
+Here's what most people miss: [nuclear power](/nuclear-power) generation is just one application of nuclear engineering. The field extends into medicine, industry, [agriculture](/agriculture), space exploration, and national security.
 
 ### Medical Applications
 
@@ -142,7 +142,7 @@ Nuclear engineers design the reactors that produce medical isotopes, the acceler
 
 ### Industrial Applications
 
-Radiation is used in ways you'd never expect. Food irradiation kills bacteria and extends shelf life — NASA irradiates all food sent to the International Space Station. Industrial radiography uses gamma rays to inspect welds in pipelines and bridges, finding cracks invisible to the eye.
+Radiation is used in ways you'd never expect. Food irradiation kills bacteria and extends shelf life — NASA irradiates all food sent to the International Space Station. Industrial [radiography](/radiography) uses gamma rays to inspect welds in pipelines and bridges, finding cracks invisible to the eye.
 
 Smoke detectors contain americium-241, a radioactive isotope that ionizes air in a small chamber. When smoke particles disrupt the ion flow, the alarm triggers. There's one in your ceiling right now, quietly using nuclear technology to keep you safe.
 
@@ -160,7 +160,7 @@ NuScale Power received the first SMR design certification from the U.S. Nuclear 
 
 Other companies are pursuing different approaches. X-energy's Xe-100 is a high-temperature gas reactor using TRISO fuel particles that can withstand temperatures above 1,600°C without melting. TerraPower, backed by Bill Gates, is developing the Natrium reactor that uses molten sodium as coolant and can store energy as heat.
 
-The promise of SMRs is enormous: lower upfront costs, shorter construction timelines, factory quality control, and the ability to site reactors in locations too small for conventional plants. They could replace retiring coal plants, power remote communities, produce hydrogen fuel, or provide process heat for industrial facilities.
+The promise of SMRs is enormous: lower upfront costs, shorter [construction](/construction) timelines, factory quality control, and the ability to site reactors in locations too small for conventional plants. They could replace retiring coal plants, power remote communities, produce hydrogen fuel, or provide process heat for industrial facilities.
 
 ## The Fuel Cycle
 
@@ -220,6 +220,6 @@ Here's the bottom line. The world needs to produce roughly 30,000 terawatt-hours
 
 Nuclear engineering is also central to medical advances. Without medical isotopes produced in reactors and [accelerators](/experimental-physics), millions of diagnostic scans and cancer treatments wouldn't be possible. Space exploration beyond the inner solar system essentially requires nuclear power — solar panels simply don't receive enough sunlight past Mars.
 
-The engineers who design, build, operate, and regulate nuclear systems are doing work that directly affects global energy security, climate change mitigation, medical care, and scientific discovery. The problems are genuinely hard, the stakes are genuinely high, and the potential payoff is genuinely enormous.
+The engineers who design, build, operate, and regulate nuclear systems are doing work that directly affects global energy security, [climate change](/climate-change) mitigation, medical care, and scientific discovery. The problems are genuinely hard, the stakes are genuinely high, and the potential payoff is genuinely enormous.
 
 Whether you end up working in the field or simply want to understand the debates around nuclear energy, grasping the fundamentals of nuclear engineering gives you a foundation for evaluating one of the most consequential technologies humans have ever developed. The [alternative energy](/alternative-energy) field is incomplete without it, and the future of [electrical engineering](/electrical-engineering) and power generation depends on decisions being made in nuclear engineering labs right now.

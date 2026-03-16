@@ -37,7 +37,7 @@ Military history is the study of warfare — its causes, conduct, consequences, 
 
 ## More Than Drums and Trumpets
 
-Military history has a reputation problem. For a long time — centuries, really — it consisted mainly of heroic narratives about great generals winning decisive battles. Thucydides writing about the Peloponnesian War. Caesar describing his conquest of Gaul (in the third person, because that's how Caesar rolled). Endless analyses of Napoleonic campaigns, Gettysburg, and D-Day.
+Military history has a reputation problem. For a long time — centuries, really — it consisted mainly of heroic narratives about great generals winning decisive battles. Thucydides [writing](/writing) about the Peloponnesian War. Caesar describing his conquest of Gaul (in the third person, because that's how Caesar rolled). Endless analyses of Napoleonic campaigns, Gettysburg, and D-Day.
 
 This approach, sometimes dismissed as "drums and trumpets" history, isn't without value. Understanding why the Persians lost at Salamis or how the German blitzkrieg overwhelmed France in 1940 matters. Battles do change history. But focusing only on combat misses most of what war actually involves.
 
@@ -67,7 +67,7 @@ Gunpowder, arriving in Europe from China in the 14th century, eventually ended t
 
 ### The Age of Gunpowder
 
-The "military revolution" of the 16th and 17th centuries (a concept debated endlessly by historians but useful as shorthand) saw the emergence of standing professional armies, centralized state financing of warfare, fortification systems designed to resist cannons (the star fort), and naval warfare centered on cannon-armed sailing ships.
+The "military revolution" of the 16th and 17th centuries (a concept debated endlessly by historians but useful as [shorthand](/shorthand)) saw the emergence of standing professional armies, centralized state financing of warfare, fortification systems designed to resist cannons (the star fort), and naval warfare centered on cannon-armed [sailing](/sailing) ships.
 
 This era produced some of the most destructive conflicts in [European history](/european-history) relative to population. The [Thirty Years' War](/thirty-years-war) (1618-1648) killed an estimated 8 million people — roughly 20% of the German population. The scale of destruction wouldn't be matched until the world wars.
 
@@ -109,7 +109,7 @@ Civilian experiences have received growing attention too. Strategic bombing in W
 
 A distinction worth understanding: strategy is the big picture — why you're fighting, what you're trying to achieve, and how military force connects to political goals. Tactics are the small picture — how you fight a specific engagement.
 
-The Prussian theorist Carl von Clausewitz, writing in the 1830s, made the most famous observation about strategy: "War is the continuation of politics by other means." In other words, military force is a tool serving political objectives, not an end in itself. When political objectives are unclear or unrealistic, military force tends to fail no matter how well it's employed tactically. Vietnam and Iraq are textbook examples.
+The Prussian theorist Carl von Clausewitz, writing in the 1830s, made the most famous observation about strategy: "War is the continuation of [politics](/politics) by other means." In other words, military force is a tool serving political objectives, not an end in itself. When political objectives are unclear or unrealistic, military force tends to fail no matter how well it's employed tactically. Vietnam and Iraq are textbook examples.
 
 Sun Tzu's *The Art of War* (5th century BCE) takes a different angle: the supreme art of war is defeating the enemy without fighting. Deception, intelligence, [psychological warfare](/psychological-warfare), and strategic positioning matter more than brute force.
 

@@ -111,7 +111,7 @@ Topology has branched into several major subfields, each with its own character.
 
 This is the foundational branch that studies topological spaces in their most abstract form. It deals with the basic properties — open and closed sets, continuity, compactness, connectedness, separability — and provides the framework that all other branches build on.
 
-Point-set topology can feel like an exercise in pathology. Topologists have constructed spaces with bizarre properties that challenge intuition: spaces that are connected but not path-connected, compact spaces that aren't sequentially compact, and spaces where limits aren't unique. These aren't just mathematical curiosities — they test the boundaries of definitions and reveal which properties actually matter.
+Point-set topology can feel like an exercise in [pathology](/pathology). Topologists have constructed spaces with bizarre properties that challenge intuition: spaces that are connected but not path-connected, compact spaces that aren't sequentially compact, and spaces where limits aren't unique. These aren't just mathematical curiosities — they test the boundaries of definitions and reveal which properties actually matter.
 
 ### Algebraic Topology
 
@@ -123,7 +123,7 @@ The main tools include:
 - **Homology groups**: measure higher-dimensional "holes." The first homology group detects tunnels; the second detects cavities; higher homology groups detect higher-dimensional voids.
 - **Cohomology**: the algebraic dual of homology, often easier to compute and carrying additional ring structure.
 
-Algebraic topology was central to the proof of the Poincare Conjecture and continues to drive major advances in mathematics.
+Algebraic topology was central to the proof of the Poincare Conjecture and continues to drive major advances in [mathematics](/mathematics).
 
 ### Differential Topology
 
@@ -137,7 +137,7 @@ A knot in topology is a closed curve embedded in 3-dimensional space. The simple
 
 Classifying knots turns out to be extraordinarily difficult. As of recent tabulations, mathematicians have classified all knots with up to 19 crossings — over 350 million distinct knot types. The tools used — knot polynomials, knot groups, and various invariants — represent some of the most sophisticated mathematics in topology.
 
-Knot theory has unexpected applications. DNA in cells forms knots and links, and enzymes called topoisomerases unknot the DNA so it can be replicated. Understanding this process requires knot theory. Molecular chemists have synthesized knotted molecules (molecular knots) with unusual properties. And in physics, certain models of quantum computation are based on braiding operations related to knot theory.
+Knot theory has unexpected applications. DNA in cells forms knots and links, and enzymes called topoisomerases unknot the DNA so it can be replicated. Understanding this process requires knot theory. Molecular chemists have synthesized knotted molecules (molecular knots) with unusual properties. And in [physics](/physics), certain models of quantum computation are based on braiding operations related to knot theory.
 
 ## Topology in the Real World
 
@@ -149,7 +149,7 @@ This is one of the hottest applications of topology right now. The idea: complex
 
 The key technique is persistent homology. You build a sequence of simplicial complexes (geometric objects built from points, edges, triangles, and their higher-dimensional analogs) at different scales and track how topological features (connected components, loops, voids) appear and disappear. Features that persist across many scales are likely genuine signals in the data; features that appear briefly are likely noise.
 
-TDA has been applied to brain connectivity analysis, protein structure classification, tumor shape analysis in oncology, financial market topology, and sensor network coverage problems. It's particularly useful when data lives in high dimensions where traditional statistical methods struggle.
+TDA has been applied to brain connectivity analysis, protein structure classification, tumor shape analysis in [oncology](/oncology), financial market topology, and sensor network coverage problems. It's particularly useful when data lives in high dimensions where traditional statistical methods struggle.
 
 ### Materials Science
 

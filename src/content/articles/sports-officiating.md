@@ -57,7 +57,7 @@ Studies have found that home teams receive marginally more favorable calls in mo
 
 ## The Technology Debate
 
-Instant replay and electronic systems have changed officiating — and the debate about how much technology should be used is ongoing.
+Instant replay and electronic systems have changed officiating — and the [debate](/debate) about how much technology should be used is ongoing.
 
 **Baseball** introduced automated ball-strike systems (ABS) in the minor leagues, with full MLB implementation planned. Pitch-tracking technology is accurate to within half an inch, eliminating a major source of human error. Some argue this improves fairness; others miss the human element and the "pitcher's umpire" variability that was part of the game's character.
 

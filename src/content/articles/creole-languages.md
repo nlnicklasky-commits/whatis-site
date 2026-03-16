@@ -31,7 +31,7 @@ faq:
 
 # What Is Creole Languages?
 
-Creole languages are natural human languages that developed from contact situations — typically when speakers of mutually unintelligible languages were brought together by colonialism, slavery, or trade and needed to communicate. Far from being "simplified" or "broken" versions of European languages, Creoles are fully developed linguistic systems with their own [grammar](/grammar), vocabulary, and expressive power.
+Creole languages are natural human languages that developed from contact situations — typically when speakers of mutually unintelligible languages were brought together by colonialism, slavery, or [trade](/trade) and needed to communicate. Far from being "simplified" or "broken" versions of European languages, Creoles are fully developed linguistic systems with their own [grammar](/grammar), vocabulary, and expressive power.
 
 ## How Creoles Form
 
@@ -77,7 +77,7 @@ Efforts to change this are ongoing. Haiti made Haitian Creole an official langua
 
 ## Creole Literature and Culture
 
-Creole languages have vibrant cultural traditions. Haitian Creole has a growing literary tradition, with novels, poetry, and drama. Jamaican Patois is the language of Bob Marley, Louise Bennett-Coverley's poetry, and a rich oral tradition.
+Creole languages have vibrant cultural traditions. Haitian Creole has a growing literary tradition, with novels, poetry, and [drama](/drama). Jamaican Patois is the language of Bob Marley, Louise Bennett-Coverley's poetry, and a rich oral tradition.
 
 Music is often the most visible expression of Creole culture — zouk (Antillean Creole), sega (Mauritian Creole), calypso and soca (various Caribbean Creoles), and reggae (Jamaican) all use Creole languages as their primary medium.
 

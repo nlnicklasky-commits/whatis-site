@@ -35,7 +35,7 @@ faq:
 
 The history of logic is the story of how humans learned to think about thinking. It stretches from ancient Greek philosophers arguing in the Athenian agora all the way to the silicon chips in your phone — and the thread connecting those two endpoints is surprisingly direct.
 
-Logic, at its simplest, is the study of valid reasoning. What makes an argument actually hold together? When does a conclusion genuinely follow from its premises? These questions sound abstract, but they've shaped everything from legal systems to mathematics to the very [architecture](/architecture) of modern computers.
+Logic, at its simplest, is the study of valid reasoning. What makes an argument actually hold together? When does a conclusion genuinely follow from its premises? These questions sound abstract, but they've shaped everything from legal systems to [mathematics](/mathematics) to the very [architecture](/architecture) of modern computers.
 
 ## The Ancient Greeks Got the Ball Rolling
 
@@ -43,7 +43,7 @@ Before Aristotle, people obviously reasoned. They argued, debated, and drew conc
 
 The pre-Socratics made some early moves. Parmenides, writing around 475 BCE, used deductive arguments to reach his (admittedly strange) conclusion that change is impossible and reality is a single, unchanging sphere. Zeno of Elea followed up with his famous paradoxes — the one about Achilles never catching the tortoise still bothers people today. These weren't formal logic exactly, but they showed a growing interest in the structure of arguments rather than just their content.
 
-Then came the Sophists, traveling teachers who charged money to teach persuasion and rhetoric. Guys like Gorgias and Protagoras were brilliant at making weak arguments sound strong. This drove [Socrates](/the-history-of-philosophy) absolutely crazy, and his method of relentless questioning — the Socratic method — was partly a response to what he saw as their intellectual dishonesty.
+Then came the Sophists, traveling teachers who charged money to teach persuasion and [rhetoric](/rhetoric). Guys like Gorgias and Protagoras were brilliant at making weak arguments sound strong. This drove [Socrates](/the-history-of-philosophy) absolutely crazy, and his method of relentless questioning — the Socratic method — was partly a response to what he saw as their intellectual dishonesty.
 
 But the real breakthrough belonged to **Aristotle** (384–322 BCE). In a series of works later collected as the *Organon*, he created the first systematic theory of deductive reasoning. His core tool was the **syllogism** — a three-part argument with two premises and a conclusion:
 
@@ -51,7 +51,7 @@ But the real breakthrough belonged to **Aristotle** (384–322 BCE). In a series
 - Socrates is human (minor premise)
 - Therefore, Socrates is mortal (conclusion)
 
-Aristotle didn't just give examples. He *classified* syllogisms. He identified which forms were valid and which weren't, essentially creating a taxonomy of reasoning patterns. He recognized 14 valid syllogistic forms (later medieval scholars expanded this to about 256 possible combinations, of which 24 are valid).
+Aristotle didn't just give examples. He *classified* syllogisms. He identified which forms were valid and which weren't, essentially creating a [taxonomy](/taxonomy) of reasoning patterns. He recognized 14 valid syllogistic forms (later medieval scholars expanded this to about 256 possible combinations, of which 24 are valid).
 
 This was huge. For the first time, you could evaluate an argument's structure independently of its content. The argument "All fish are mammals; all mammals fly; therefore all fish fly" is *logically valid* even though every statement in it is false. Aristotle made that distinction clear.
 
@@ -69,7 +69,7 @@ The common image of medieval scholarship is monks copying manuscripts and not mu
 
 After Aristotle's works were translated into Latin (partly through Arabic intermediaries like [Al-Farabi and Avicenna](/the-history-of-philosophy)), European scholars went to town. Peter Abelard in the 12th century made significant advances in propositional logic and the theory of universals. William of Ockham — yes, the razor guy — contributed important work on supposition theory, which dealt with how terms refer to things in different contexts.
 
-The medieval logicians also developed the theory of **consequences** (rules governing what follows from what), **obligations** (structured debate protocols), and **insolubles** (logical paradoxes like the liar's paradox: "This sentence is false"). They were wrestling with problems that wouldn't be fully resolved until the 20th century.
+The medieval logicians also developed the theory of **consequences** (rules governing what follows from what), **obligations** (structured debate protocols), and **insolubles** (logical paradoxes like the liar's paradox: "This sentence is false"). They were [wrestling](/wrestling) with problems that wouldn't be fully resolved until the 20th century.
 
 Meanwhile, logic wasn't only a European affair. **Indian logic** had been developing independently for centuries. The Nyaya school, founded by Aksapada Gautama around the 2nd century BCE, created a five-part inference scheme. Later, Buddhist logicians like **Dignaga** (c. 480–540 CE) and **Dharmakirti** (c. 600–660 CE) developed sophisticated epistemological frameworks that included formal rules for valid inference and debate. Their work influenced philosophical traditions across South and East Asia.
 
@@ -85,9 +85,9 @@ That pressure came from [mathematics](/the-history-of-mathematics).
 
 ## The 19th Century: Logic Gets Mathematical
 
-By the 1800s, mathematicians were running into problems that Aristotle's logic couldn't handle. The rigor required for calculus, analysis, and [abstract algebra](/abstract-algebra) demanded more precise tools for reasoning.
+By the 1800s, mathematicians were running into problems that Aristotle's logic couldn't handle. The rigor required for [calculus](/calculus), analysis, and [abstract algebra](/abstract-algebra) demanded more precise tools for reasoning.
 
-**George Boole** (1815–1864) made the first big move. In *The Mathematical Analysis of Logic* (1847) and *An Investigation of the Laws of Thought* (1854), he showed that logical operations could be treated algebraically. True and false mapped to 1 and 0. "And" became multiplication. "Or" became addition (roughly). This was **Boolean algebra**, and it would eventually become the mathematical foundation of every digital computer on Earth.
+**George Boole** (1815–1864) made the first big move. In *The Mathematical Analysis of Logic* (1847) and *An Investigation of the Laws of Thought* (1854), he showed that logical operations could be treated algebraically. True and false mapped to 1 and 0. "And" became multiplication. "Or" became addition (roughly). This was **Boolean [algebra](/algebra)**, and it would eventually become the mathematical foundation of every digital computer on Earth.
 
 **Augustus De Morgan** worked alongside Boole, formalizing the logic of relations — something Aristotle's subject-predicate framework couldn't handle well. De Morgan's laws (about how negation distributes over "and" and "or") are still taught in every introductory logic course.
 
@@ -111,7 +111,7 @@ Here's where the story takes a turn that would have baffled Aristotle.
 
 In 1937, a 21-year-old MIT master's student named **Claude Shannon** wrote what's been called the most important master's thesis of the 20th century. He showed that Boolean algebra — Boole's 90-year-old formalization of logic — could be directly implemented with electrical relay circuits. Every logical operation maps to a circuit configuration. AND, OR, NOT — these aren't just abstract operations anymore. They're physical switches.
 
-This insight is the reason computers exist. Every processor in every device you own runs on **logic gates** — tiny circuits that perform Boolean operations billions of times per second. The philosophy of correct reasoning, pursued for 2,300 years, turned into engineering.
+This insight is the reason computers exist. Every processor in every device you own runs on **logic gates** — tiny circuits that perform Boolean operations billions of times per second. The [philosophy](/philosophy) of correct reasoning, pursued for 2,300 years, turned into [engineering](/engineering).
 
 ## Where Logic Stands Now
 

@@ -39,7 +39,7 @@ faq:
 
 Marine engineering is the branch of [engineering](/engineering) that designs, builds, operates, and maintains the mechanical, electrical, and propulsion systems aboard ships, submarines, offshore platforms, and other marine vessels and structures. If a naval architect designs the hull and shape of a ship, the marine engineer fills it with everything that makes it actually work — engines, generators, pumps, HVAC systems, steering gear, fuel systems, and hundreds of other components that keep a vessel operational at sea.
 
-About 90% of global trade moves by sea. That's roughly 11 billion tons of cargo per year, carried by roughly 100,000 commercial vessels. Every one of those vessels needs propulsion, power generation, and auxiliary systems designed, installed, and maintained by marine engineers. Without this field, the global economy quite literally stops moving.
+About 90% of global [trade](/trade) moves by sea. That's roughly 11 billion tons of cargo per year, carried by roughly 100,000 commercial vessels. Every one of those vessels needs propulsion, power generation, and auxiliary systems designed, installed, and maintained by marine engineers. Without this field, the global economy quite literally stops moving.
 
 ## What Makes Marine Engineering Different
 
@@ -61,11 +61,11 @@ Critical systems are typically duplicated. A ship might carry two or three diese
 
 The engines in large container ships and supertankers are among the largest machines ever built. A Wartsila-Sulzer RTA96-C, installed in large container ships, stands over 13 meters tall, weighs 2,300 tons, and produces 80,000 kilowatts — enough to power a small city. Its crankshaft alone weighs 300 tons.
 
-These aren't scaled-up car engines. Two-stroke marine diesels operate on fundamentally different cycles than automotive engines, burning heavy fuel oil that's barely refined beyond crude. Understanding these machines requires deep knowledge of thermodynamics, [fluid dynamics](/fluid-dynamics), and materials behavior under extreme conditions.
+These aren't scaled-up car engines. Two-stroke marine diesels operate on fundamentally different cycles than automotive engines, burning heavy fuel oil that's barely refined beyond crude. Understanding these machines requires deep knowledge of [thermodynamics](/thermodynamics), [fluid dynamics](/fluid-dynamics), and materials behavior under extreme conditions.
 
 ## Core Systems in Marine Engineering
 
-Marine engineers work across multiple interconnected systems. Here's what actually keeps a ship running.
+Marine engineers work across multiple interconnected systems. Here's what actually keeps a ship [running](/running).
 
 ### Propulsion Systems
 
@@ -81,13 +81,13 @@ The propulsion plant is the heart of any vessel. Different ships use different p
 
 **Electric propulsion** is growing rapidly. Battery-electric ferries operate on short routes in Scandinavia. Hybrid diesel-electric systems improve efficiency on vessels with variable speed requirements. And emerging technologies — hydrogen fuel cells, ammonia-fueled engines — are being tested for zero-emission shipping.
 
-Each propulsion type involves different [engineering](/engineering) challenges. The marine engineer must understand thermodynamic cycles, combustion chemistry, bearing design, [vibration analysis](/vibration-analysis), shaft alignment, and propeller-hull interaction.
+Each propulsion type involves different [engineering](/engineering) challenges. The marine engineer must understand thermodynamic cycles, combustion [chemistry](/chemistry), bearing design, [vibration analysis](/vibration-analysis), shaft alignment, and propeller-hull interaction.
 
 ### Power Generation
 
-A large ship is a floating city that generates its own electricity. Container ships, cruise ships, and naval vessels need megawatts of electrical power for lighting, navigation, cargo handling, HVAC, kitchen equipment, and hundreds of other loads.
+A large ship is a floating city that generates its own [electricity](/electricity). Container ships, cruise ships, and naval vessels need megawatts of electrical power for lighting, [navigation](/navigation), cargo handling, HVAC, kitchen equipment, and hundreds of other loads.
 
-Diesel generators are the standard — multiple engines driving alternators, with switchgear distributing power throughout the vessel. Load management systems automatically start and stop generators based on demand, maintaining frequency and voltage within tight tolerances.
+Diesel generators are the standard — multiple engines driving alternators, with switchgear distributing power throughout the vessel. Load [management](/management) systems automatically start and stop generators based on demand, maintaining frequency and voltage within tight tolerances.
 
 Modern vessels increasingly use integrated electric power systems where the same generators serve both propulsion and hotel loads. This provides flexibility and efficiency but requires sophisticated power management to prevent blackouts.
 
@@ -103,9 +103,9 @@ Fire-fighting systems are critical because fire at sea is one of the most danger
 
 ### HVAC and Environmental Control
 
-Submarines need atmospheric control — CO2 scrubbing, oxygen generation, and temperature regulation in a sealed environment. Surface ships need ventilation for engine rooms (which generate enormous heat), [air conditioning](/air-conditioning) for crew and passenger spaces, and refrigeration for food storage.
+Submarines need atmospheric control — CO2 scrubbing, oxygen generation, and temperature regulation in a sealed environment. Surface ships need ventilation for engine rooms (which generate enormous heat), [air conditioning](/air-conditioning) for crew and passenger spaces, and [refrigeration](/refrigeration) for food storage.
 
-In naval vessels, especially submarines, HVAC is directly connected to survivability. Nuclear submarine atmospheric systems must maintain breathable air for a crew of 130+ people during months-long submerged deployments. The engineering is remarkably sophisticated — electrolysis for oxygen generation, amine-based CO2 scrubbing, and trace contaminant filters for everything from cooking fumes to battery gas.
+In naval vessels, especially submarines, HVAC is directly connected to survivability. Nuclear submarine atmospheric systems must maintain breathable air for a crew of 130+ people during months-long submerged deployments. The engineering is remarkably sophisticated — electrolysis for oxygen generation, amine-based CO2 scrubbing, and trace contaminant filters for everything from [cooking](/cooking) fumes to battery gas.
 
 ### Automation and Control Systems
 
@@ -119,7 +119,7 @@ While these are distinct disciplines, they're deeply interconnected. The naval a
 
 But the interactions are constant. Engine weight and position affect the ship's trim and stability. Propeller design depends on hull resistance, which the naval architect calculates. Intake and exhaust routing must accommodate structural requirements. Vibration from the engine affects hull structure.
 
-In practice, both disciplines work together throughout the design process. Some programs combine them into a single degree (often called "naval architecture and marine engineering"), while others separate them. Either way, professionals in both fields need to understand each other's work.
+In practice, both disciplines work together throughout the design process. Some programs combine them into a single degree (often called "naval [architecture](/architecture) and marine engineering"), while others separate them. Either way, professionals in both fields need to understand each other's work.
 
 ### Ship Design Process
 
@@ -127,7 +127,7 @@ Designing a new ship follows a structured process:
 
 1. **Concept design**: Define the mission — cargo capacity, speed, range, operating environment. Establish basic dimensions and layout.
 2. **Preliminary design**: Refine hull form, calculate powering requirements, select propulsion type, develop general arrangement plans.
-3. **Contract design**: Detailed specifications for all systems, sufficient for a shipyard to price the construction.
+3. **Contract design**: Detailed specifications for all systems, sufficient for a shipyard to price the [construction](/construction).
 4. **Detailed design**: Production-level drawings for every system, including manufacturing details, wiring diagrams, piping isometrics, and equipment specifications.
 
 Marine engineers are involved from concept through delivery, but their workload intensifies during detailed design when every valve, pump, pipe run, cable tray, and equipment foundation must be specified and drawn.
@@ -140,7 +140,7 @@ Marine engineering operates within an extensive regulatory framework. Ships cros
 
 Organizations like Lloyd's Register, DNV, Bureau Veritas, and the American Bureau of Shipping (ABS) set technical standards for ship design and construction. They review designs, inspect construction, and conduct periodic surveys throughout a vessel's life to verify that it meets applicable rules.
 
-Classification rules cover structural strength, stability, propulsion reliability, fire safety, and dozens of other aspects. A ship that doesn't maintain its classification can't obtain insurance, and a ship without insurance can't operate commercially.
+Classification rules cover structural strength, stability, propulsion reliability, [fire safety](/fire-safety), and dozens of other aspects. A ship that doesn't maintain its classification can't obtain [insurance](/insurance), and a ship without insurance can't operate commercially.
 
 ### International Maritime Organization (IMO)
 
@@ -200,7 +200,7 @@ Chief engineers manage the entire engineering department, which on a large vesse
 
 Despite automation, marine engineering remains deeply human. The engineer who hears a subtle change in an engine's sound and discovers a failing bearing before it causes a catastrophic failure. The team that jury-rigs a repair from available materials to keep a critical system running until the next port. The chief engineer who manages a diverse, multicultural crew living and working in close quarters for months.
 
-These human skills — judgment, improvisation, leadership — are at least as important as technical knowledge. The best marine engineers combine deep system understanding with practical problem-solving ability.
+These human skills — judgment, improvisation, [leadership](/leadership) — are at least as important as technical knowledge. The best marine engineers combine deep system understanding with practical problem-solving ability.
 
 ## The Future of Marine Engineering
 
@@ -216,7 +216,7 @@ Autonomous and remotely operated ships are being developed and tested. The Norwe
 
 ### Digital Twins and Predictive Maintenance
 
-Digital representations of ship systems that incorporate real-time sensor data enable predictive maintenance — detecting equipment degradation before failure occurs. This connects to [data science](/data-science) and [machine learning](/machine-learning) approaches, and marine engineers increasingly need skills in data analysis alongside traditional mechanical and electrical expertise.
+Digital representations of ship systems that incorporate real-time sensor data enable predictive maintenance — detecting equipment degradation before failure occurs. This connects to [data science](/data-science) and [machine learning](/machine-learning) approaches, and marine engineers increasingly need skills in [data analysis](/data-analysis) alongside traditional mechanical and electrical expertise.
 
 ### Advanced Materials
 

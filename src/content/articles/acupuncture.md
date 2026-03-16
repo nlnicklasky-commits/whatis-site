@@ -46,11 +46,11 @@ The earliest systematic text on acupuncture is the *Huangdi Neijing* (Yellow Emp
 
 The *Huangdi Neijing* laid out the theoretical framework that still defines traditional acupuncture: the body contains vital energy (qi) flowing through channels called meridians. Disease occurs when qi is blocked, deficient, or imbalanced. Inserting needles at specific points along the meridians restores proper flow.
 
-Over the centuries, Chinese physicians refined the system — mapping additional points, developing new needle techniques, and integrating acupuncture with [herbal medicine](/herbal-medicine), diet therapy, and movement practices like tai chi. By the Ming Dynasty (1368-1644), the acupuncture point map included 365 points on 14 major meridians.
+Over the centuries, Chinese physicians refined the system — mapping additional points, developing new needle techniques, and integrating acupuncture with [herbal medicine](/herbal-medicine), diet therapy, and movement practices like [tai chi](/tai-chi). By the Ming Dynasty (1368-1644), the acupuncture point map included 365 points on 14 major meridians.
 
 ### Acupuncture Comes West
 
-Acupuncture's Western introduction happened gradually, but one moment stands out. In 1971, New York Times reporter James Reston accompanied President Nixon's advance team to China and developed appendicitis. After surgery at a Chinese hospital, doctors used acupuncture to manage his postoperative pain. Reston wrote about the experience in the *Times*, and American curiosity exploded.
+Acupuncture's Western introduction happened gradually, but one moment stands out. In 1971, New York Times reporter James Reston accompanied President Nixon's advance team to China and developed appendicitis. After [surgery](/surgery) at a Chinese hospital, doctors used acupuncture to manage his postoperative pain. Reston wrote about the experience in the *Times*, and American curiosity exploded.
 
 The NIH held its first consensus conference on acupuncture in 1997, concluding that acupuncture was effective for postoperative nausea and could be useful as an adjunct for several other conditions. That institutional endorsement opened the door to [insurance](/insurance) coverage, hospital integration, and serious research funding.
 
@@ -102,7 +102,7 @@ Real acupuncture often outperforms no treatment by a significant margin. But it 
 
 What does this mean? Skeptics say it proves acupuncture is "just" placebo — the specific point locations don't matter. Advocates counter that any needle insertion has real physiological effects, making sham acupuncture an active treatment rather than a true placebo. If sticking needles anywhere in the body triggers endorphin release and immune responses, then comparing two active treatments and finding similar results doesn't prove either is ineffective.
 
-This debate remains unresolved. It's one of the most interesting methodological challenges in medical research.
+This [debate](/debate) remains unresolved. It's one of the most interesting methodological challenges in medical research.
 
 ## What Happens During a Session
 

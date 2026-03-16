@@ -37,7 +37,7 @@ faq:
 
 # What Is Bookkeeping?
 
-Bookkeeping is the systematic process of recording, organizing, and maintaining a business's financial transactions, including purchases, sales, receipts, and payments. It forms the foundation of all financial [management](/management) and provides the raw data that [accounting](/accounting) professionals use to create financial statements and business insights.
+Bookkeeping is the systematic process of recording, organizing, and maintaining a business's financial transactions, including purchases, [sales](/sales), receipts, and payments. It forms the foundation of all financial [management](/management) and provides the raw data that [accounting](/accounting) professionals use to create financial statements and business insights.
 
 ## Why Bookkeeping Exists (And Why It Matters)
 
@@ -55,7 +55,7 @@ The real breakthrough came in 1494 when Italian mathematician Luca Pacioli publi
 
 For centuries, bookkeeping meant physical ledger books — actual books with columns and rows where transactions were recorded by hand in ink. Errors meant crossing out entries or, in some cases, starting entire pages over. The work was tedious, exacting, and absolutely critical.
 
-The 20th century brought mechanical adding machines, then electronic calculators, then computers. Each advance reduced the manual labor involved. But the principles? Those stayed the same. Today's cloud-based [accounting](/accounting) software automates much of the recording process, but the underlying logic — debits, credits, accounts, reconciliation — would be perfectly recognizable to a 15th-century Venetian merchant.
+The 20th century brought mechanical adding machines, then electronic calculators, then computers. Each advance reduced the manual labor involved. But the principles? Those stayed the same. Today's cloud-based [accounting](/accounting) software automates much of the recording process, but the underlying [logic](/logic) — debits, credits, accounts, reconciliation — would be perfectly recognizable to a 15th-century Venetian merchant.
 
 ## Single-Entry vs. Double-Entry: The Two Systems
 

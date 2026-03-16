@@ -49,13 +49,13 @@ The emphasis on natural behavior matters. Early ethologists argued, often conten
 
 ## The Founding Trio
 
-Ethology was formally recognized as a science in 1973, when three European zoologists shared the Nobel Prize in Physiology or Medicine. Their contributions shaped the field for generations.
+Ethology was formally recognized as a science in 1973, when three European zoologists shared the Nobel Prize in [Physiology](/physiology) or Medicine. Their contributions shaped the field for generations.
 
 ### Konrad Lorenz (1903-1989)
 
 Lorenz was the charismatic Austrian who became the public face of ethology. His most famous discovery was **imprinting** — the process by which young birds (and some other animals) form strong attachments to the first moving object they encounter after hatching.
 
-Lorenz demonstrated this by having newly hatched graylag geese follow him instead of their mother. The goslings imprinted on him, following him everywhere and even preferring him as an adult companion. The images of Lorenz walking through fields trailed by a line of goslings became iconic.
+Lorenz demonstrated this by having newly hatched graylag geese follow him instead of their mother. The goslings imprinted on him, following him everywhere and even preferring him as an adult companion. The images of Lorenz [walking](/walking) through fields trailed by a line of goslings became iconic.
 
 But imprinting revealed something deeper: critical periods in development. The geese didn't imprint at any time — there was a narrow window (roughly 13-16 hours after hatching) during which imprinting must occur. Miss that window, and the gosling wouldn't imprint at all. This concept of sensitive periods profoundly influenced [developmental psychology](/developmental-psychology), suggesting that some types of learning are time-limited.
 
@@ -69,7 +69,7 @@ His **four questions** remain the single most important conceptual framework in 
 
 1. **Causation (mechanism):** What internal and external stimuli trigger the behavior? What neural, hormonal, and sensory mechanisms produce it?
 2. **Development (ontogeny):** How does the behavior change as the animal develops? Is it learned, innate, or a combination?
-3. **Function (adaptive value):** How does the behavior contribute to the animal's survival and reproduction? What is its fitness benefit?
+3. **Function (adaptive value):** How does the behavior contribute to the animal's survival and reproduction? What is its [fitness](/fitness) benefit?
 4. **Evolution (phylogeny):** How did the behavior evolve? What did ancestral forms of the behavior look like?
 
 Tinbergen insisted that a complete understanding of any behavior requires answers to all four questions. Focusing on only mechanism or only function gives you a partial — and potentially misleading — picture.
@@ -78,7 +78,7 @@ His experimental work was brilliant in its simplicity. To test what triggers agg
 
 ### Karl von Frisch (1886-1982)
 
-Von Frisch decoded the honeybee dance language — one of the most astonishing communication systems in the animal kingdom. He demonstrated that forager bees returning to the hive perform specific dances that communicate the direction, distance, and quality of food sources to other workers.
+Von Frisch decoded the honeybee [dance](/dance) language — one of the most astonishing communication systems in the animal kingdom. He demonstrated that forager bees returning to the hive perform specific dances that communicate the direction, distance, and quality of food sources to other workers.
 
 The **waggle dance** encodes direction relative to the sun's position: the angle of the straight "waggle run" relative to vertical on the comb corresponds to the angle between the sun, the hive, and the food source. Duration of the waggle run indicates distance. The vigor of the dance indicates food quality.
 
@@ -88,11 +88,11 @@ This discovery was initially met with skepticism — a symbolic communication sy
 
 ### Innate vs. Learned Behavior
 
-The nature-nurture debate has been especially intense in behavioral biology. Early ethologists emphasized innate (instinctive) behavior — patterns that develop without learning, appear in all members of a species, and are relatively fixed in form.
+The nature-nurture [debate](/debate) has been especially intense in behavioral biology. Early ethologists emphasized innate (instinctive) behavior — patterns that develop without learning, appear in all members of a species, and are relatively fixed in form.
 
 Comparative psychologists, particularly in the American tradition, emphasized learning. The behaviourist B.F. Skinner argued that virtually all behavior is shaped by reinforcement — reward and punishment.
 
-The modern view? It's not either-or. Most behaviors involve both genetic programming and environmental input, interacting in complex ways. Birdsong is a perfect example: many songbird species have an innate template for their species' song, but they must hear adult singing during a critical period to produce normal song. The template is innate; the fine details are learned. Deprive a young bird of song exposure, and it produces a simplified, abnormal version.
+The modern view? It's not either-or. Most behaviors involve both genetic programming and environmental input, interacting in complex ways. Birdsong is a perfect example: many songbird species have an innate template for their species' song, but they must hear adult [singing](/singing) during a critical period to produce normal song. The template is innate; the fine details are learned. Deprive a young bird of song exposure, and it produces a simplified, abnormal version.
 
 This interaction between nature and nurture — now understood at the molecular level through epigenetics — makes the old debate largely obsolete. The question isn't whether genes or environment matter. Both always matter. The question is how they interact in each specific case.
 
@@ -150,7 +150,7 @@ Do animals think? Feel emotions? Have consciousness? These questions, once consi
 
 ### Behavioral Ecology
 
-This subfield merges ethology with ecology, asking how ecological conditions shape behavioral strategies. Optimal foraging theory predicts how animals should allocate time between food patches. Life history theory examines trade-offs between reproduction and survival. Predator-prey dynamics involve behavioral arms races between detection and evasion.
+This subfield merges ethology with [ecology](/ecology), asking how ecological conditions shape behavioral strategies. Optimal [foraging](/foraging) theory predicts how animals should allocate time between food patches. Life history theory examines [trade](/trade)-offs between reproduction and survival. Predator-prey dynamics involve behavioral arms races between detection and evasion.
 
 ### Conservation Behavior
 
@@ -168,7 +168,7 @@ The European Union's animal welfare legislation is increasingly informed by etho
 
 Lorenz and others applied ethological concepts to human behavior — sometimes controversially. Human ethology examines facial expressions, body language, parent-infant bonding, territorial behavior, aggression, and other aspects of human behavior through an evolutionary lens.
 
-Some insights have held up well. Infant attachment theory, developed by John Bowlby (a psychiatrist influenced by Lorenz's imprinting research), recognizes that human infants form strong attachment bonds during a sensitive period, and that disruption of these bonds has lasting psychological effects. This is mainstream developmental psychology now.
+Some insights have held up well. Infant attachment theory, developed by John Bowlby (a psychiatrist influenced by Lorenz's imprinting research), recognizes that human infants form strong attachment bonds during a sensitive period, and that disruption of these bonds has lasting psychological effects. This is mainstream developmental [psychology](/psychology) now.
 
 Other claims — particularly about the "instinctive" basis of human aggression — have been more controversial. Lorenz's 1963 book *On Aggression* argued that humans have an innate aggressive drive. Critics pointed out that human aggression varies enormously across cultures and circumstances, suggesting that cultural and social factors matter at least as much as biology.
 
@@ -176,7 +176,7 @@ Modern human behavioral ecology and [evolutionary psychology](/evolutionary-psyc
 
 ## How to Become an Ethologist
 
-Most professional ethologists hold PhDs in biology, zoology, psychology, or a related field. The path typically involves:
+Most professional ethologists hold PhDs in biology, [zoology](/zoology), psychology, or a related field. The path typically involves:
 
 - An undergraduate degree in [biology](/biology), zoology, psychology, or animal science
 - Research experience — fieldwork or lab work with animals
@@ -185,15 +185,15 @@ Most professional ethologists hold PhDs in biology, zoology, psychology, or a re
 
 Field research skills are essential — patience, observational acuity, physical endurance, comfort with remote conditions, and the ability to work independently for extended periods. Statistical competence is non-negotiable; modern behavioral research involves sophisticated [quantitative analysis](/quantitative-analysis).
 
-Career options include university research and teaching, zoo and aquarium science, [wildlife conservation](/wildlife-conservation), animal welfare organizations, and consulting on human-animal interactions.
+Career options include university research and [teaching](/teaching), zoo and aquarium science, [wildlife conservation](/wildlife-conservation), animal welfare organizations, and consulting on human-animal interactions.
 
 ## Why Ethology Matters
 
 Ethology matters because understanding animal behavior tells us something important about the world — and about ourselves.
 
-Every behavior you observe in an animal — from a spider spinning a web to a whale singing across ocean basins — is the product of millions of years of natural selection. These behaviors are solutions to survival problems: finding food, avoiding predators, attracting mates, raising offspring. Understanding them reveals the logic of evolution in action.
+Every behavior you observe in an animal — from a spider spinning a web to a whale singing across ocean basins — is the product of millions of years of natural selection. These behaviors are solutions to survival problems: finding food, avoiding predators, attracting mates, raising offspring. Understanding them reveals the [logic](/logic) of evolution in action.
 
-Ethology also matters practically. Conservation, agriculture, [veterinary medicine](/veterinary-medicine), and even [urban planning](/urban-planning) benefit from behavioral knowledge. And by understanding the evolutionary roots of behavior — including our own — we gain perspective on what it means to be an animal species navigating a complex world.
+Ethology also matters practically. Conservation, [agriculture](/agriculture), [veterinary medicine](/veterinary-medicine), and even [urban planning](/urban-planning) benefit from behavioral knowledge. And by understanding the evolutionary roots of behavior — including our own — we gain perspective on what it means to be an animal species navigating a complex world.
 
 ## Key Takeaways
 

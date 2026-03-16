@@ -63,7 +63,7 @@ The most visible form of underwriting is the Initial Public Offering (IPO). When
 
 1. **Due diligence**: Analyzing the company's finances, operations, risks, and growth prospects
 2. **Valuation**: Determining what the company is worth and what price shares should be offered at
-3. **Roadshow**: The company's management presents to institutional investors across the country (or world) to build interest
+3. **Roadshow**: The company's [management](/management) presents to institutional investors across the country (or world) to build interest
 4. **Pricing**: Setting the final offer price based on investor demand
 5. **Allocation**: Deciding which investors get shares and how many
 6. **Stabilization**: Supporting the stock price in the days after the IPO through market-making activity
@@ -76,13 +76,13 @@ Debt underwriting works similarly but for bonds. Companies issue bonds to borrow
 
 Investment banks maintain large trading operations where they buy and sell securities—stocks, bonds, currencies, commodities, and derivatives—both for clients and (in some cases) for the firm's own account.
 
-The sales team maintains relationships with institutional investors (pension funds, mutual funds, hedge funds) and pitches investment ideas to them. Traders execute orders and manage the firm's inventory of securities. This is the part of investment banking you see in movies—the frantic trading floor, the flashing screens, the shouted orders.
+The [sales](/sales) team maintains relationships with institutional investors (pension funds, mutual funds, hedge funds) and pitches investment ideas to them. Traders execute orders and manage the firm's inventory of securities. This is the part of investment banking you see in movies—the frantic trading floor, the flashing screens, the shouted orders.
 
-Trading revenue has become more complicated since the 2008 [financial-regulation](/financial-regulation) overhaul. The Volcker Rule (part of Dodd-Frank) restricted banks' ability to trade for their own profit, pushing more activity toward client-facilitated trades. Still, sales and trading remains a massive revenue source—Goldman Sachs' trading division generated $26 billion in revenue in 2024.
+Trading revenue has become more complicated since the 2008 [financial-regulation](/financial-regulation) overhaul. The Volcker Rule (part of Dodd-Frank) restricted banks' ability to [trade](/trade) for their own profit, pushing more activity toward client-facilitated trades. Still, sales and trading remains a massive revenue source—Goldman Sachs' trading division generated $26 billion in revenue in 2024.
 
 ### Research
 
-Bank research analysts study industries, companies, and economic trends, publishing reports and recommendations for the firm's clients. If a healthcare analyst at JPMorgan publishes a "buy" recommendation on a pharmaceutical stock, institutional investors pay attention.
+Bank research analysts study industries, companies, and economic trends, [publishing](/publishing) reports and recommendations for the firm's clients. If a healthcare analyst at JPMorgan publishes a "buy" recommendation on a pharmaceutical stock, institutional investors pay attention.
 
 Research is supposed to be independent of the banking division (a Wall Street reform following the dot-com bubble), but the reality is more subtle. Research coverage helps win banking mandates—a company is more likely to hire a bank for its IPO if that bank has analysts who will cover its stock afterward.
 
@@ -138,7 +138,7 @@ Not all investment banks are created equal. The industry has a clear pecking ord
 
 **Bulge Bracket Banks** are the global giants: Goldman Sachs, Morgan Stanley, JPMorgan Chase, Bank of America, Citigroup, and a handful of others. They operate worldwide, handle the largest transactions, and have the deepest resources. Getting a job at a bulge bracket is intensely competitive—Goldman Sachs reportedly accepts about 2% of applicants.
 
-**Elite Boutiques** are smaller firms focused purely on advisory work: Evercore, Lazard, Centerview Partners, PJT Partners. They don't underwrite securities or trade—they just advise on deals. What they lack in scale they make up in prestige and per-banker productivity. Compensation at elite boutiques often matches or exceeds bulge bracket pay.
+**Elite Boutiques** are smaller firms focused purely on advisory work: Evercore, Lazard, Centerview Partners, PJT Partners. They don't underwrite securities or trade—they just advise on deals. What they lack in scale they make up in prestige and per-banker [productivity](/productivity). Compensation at elite boutiques often matches or exceeds bulge bracket pay.
 
 **Middle Market Banks** focus on smaller transactions, typically $100 million to $1 billion. Firms like William Blair, Baird, and Houlihan Lokey serve mid-sized companies that don't need (and can't afford) a Goldman Sachs. These banks provide more hands-on attention and often have deeper expertise in specific industries.
 
@@ -174,13 +174,13 @@ Let's walk through how a typical M&A deal actually works, because the process re
 
 **Phase 2: Engagement.** The company hires the bank. Lawyers draft an engagement letter specifying fees, scope, and exclusivity. The bank assembles a deal team—typically an MD, a VP, an associate, and two analysts.
 
-**Phase 3: Preparation.** The team builds a detailed [financial-modeling](/financial-modeling) of the company—projecting revenue, costs, and cash flows for the next 5-10 years under various scenarios. They prepare a Confidential Information Memorandum (CIM)—essentially a 50-100 page marketing document showcasing the company's strengths. They identify potential buyers (strategic acquirers who would benefit from the acquisition, plus financial sponsors like private equity firms).
+**Phase 3: Preparation.** The team builds a detailed [financial-modeling](/financial-modeling) of the company—projecting revenue, costs, and cash flows for the next 5-10 years under various scenarios. They prepare a Confidential Information Memorandum (CIM)—essentially a 50-100 page [marketing](/marketing) document showcasing the company's strengths. They identify potential buyers (strategic acquirers who would benefit from the acquisition, plus financial sponsors like private equity firms).
 
 **Phase 4: Marketing.** The bank contacts potential buyers under strict confidentiality. Interested parties sign NDAs and receive the CIM. The bank fields questions, arranges management presentations, and gauges interest.
 
 **Phase 5: Bidding.** Buyers submit initial indications of interest (IOIs) with preliminary valuations. The bank narrows the field to serious bidders, who then conduct detailed due diligence—examining financial records, contracts, legal liabilities, [accounting](/accounting) practices, and operational details.
 
-**Phase 6: Final Bids and Negotiation.** Remaining bidders submit binding offers. The bank negotiates with the top bidders on price, deal structure, representations and warranties, and closing conditions. This is where the MD's experience and negotiation skills earn their fee.
+**Phase 6: Final Bids and [Negotiation](/negotiation).** Remaining bidders submit binding offers. The bank negotiates with the top bidders on price, deal structure, representations and warranties, and closing conditions. This is where the MD's experience and negotiation skills earn their fee.
 
 **Phase 7: Signing and Closing.** The purchase agreement is signed. Regulatory approvals are obtained. Financing is arranged. At closing, ownership transfers, and checks are cut. The whole process typically takes 6-12 months.
 
@@ -204,7 +204,7 @@ Investment banking faces persistent criticism, and some of it is well-deserved.
 
 **Conflicts of interest** are structural. A bank advising a company on a sale is also motivated by its fee, which only comes if the deal closes. A bank underwriting an IPO wants the highest possible proceeds (for a bigger fee) but also needs the stock to perform well for investor clients. These conflicts are managed through internal walls and regulatory oversight, but they never fully disappear.
 
-**The revolving door** between Wall Street and government raises questions about regulatory capture. Multiple Treasury Secretaries and SEC chairs have come from Goldman Sachs. Whether this represents expertise or undue influence depends on your perspective—but notably.
+**The revolving door** between Wall Street and [government](/government) raises questions about regulatory capture. Multiple Treasury Secretaries and SEC chairs have come from Goldman Sachs. Whether this represents expertise or undue influence depends on your perspective—but notably.
 
 **Income inequality** is another sore point. Investment bankers earn multiples of what teachers, nurses, and firefighters make. Defenders argue that bankers create economic value by efficiently allocating capital. Critics point out that much of their income comes from [economics](/economics) of rent-seeking—extracting fees from transactions that would happen anyway, just with a different intermediary.
 
@@ -224,7 +224,7 @@ Technology is reshaping the industry, though perhaps more slowly than skeptics p
 
 **ESG and sustainability** are creating new revenue streams. Green bonds, sustainability-linked loans, and ESG advisory services are growing rapidly. Banks that build expertise in structuring climate-related financial products are positioning themselves for a market that barely existed five years ago.
 
-Investment banking will continue to evolve, but its core function—connecting companies that need capital with investors who have it—isn't going anywhere. As long as companies grow, merge, and raise money, investment bankers will be in the room where it happens. The fees will remain large, the hours will remain brutal, and the debate about whether they earn their keep will continue indefinitely.
+Investment banking will continue to evolve, but its core function—connecting companies that need capital with investors who have it—isn't going anywhere. As long as companies grow, merge, and raise money, investment bankers will be in the room where it happens. The fees will remain large, the hours will remain brutal, and the [debate](/debate) about whether they earn their keep will continue indefinitely.
 
 ## Key Takeaways
 

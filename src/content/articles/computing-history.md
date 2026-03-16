@@ -35,7 +35,7 @@ faq:
 
 # What Is Computing History?
 
-Computing history is the study of how humans developed machines to perform calculations, process information, and eventually build the interconnected digital world we live in today. It spans from ancient counting devices like the abacus through mechanical calculators, room-sized vacuum tube computers, and the silicon microprocessors that now fit billions of transistors onto chips smaller than your fingernail.
+Computing history is the study of how humans developed machines to perform calculations, process information, and eventually build the interconnected digital world we live in today. It spans from ancient counting devices like the [abacus](/abacus) through mechanical calculators, room-sized vacuum tube computers, and the silicon microprocessors that now fit billions of transistors onto chips smaller than your fingernail.
 
 ## Before [Electricity](/electricity): Counting and Calculating
 
@@ -81,7 +81,7 @@ The Altair 8800 arrived in 1975 as a mail-order kit for hobbyists. It had no key
 
 Steve Wozniak and Steve Jobs launched Apple Computer in 1976 with the Apple I, hand-built in the Jobs family garage. The Apple II (1977) was the machine that proved personal computers had mass-market potential — it had a keyboard, color graphics, and could run practical software like VisiCalc, the first spreadsheet program.
 
-IBM entered the market in 1981 with the IBM PC. Crucially, IBM used an open architecture — anyone could make compatible hardware and software. This decision, possibly more than any other, shaped the computing industry. It created the PC clone market and ensured that IBM-compatible computers (running Microsoft's DOS, and later Windows) would dominate personal computing for decades.
+IBM entered the market in 1981 with the IBM PC. Crucially, IBM used an open architecture — anyone could make compatible hardware and software. This decision, possibly more than any other, shaped the computing industry. It created the PC clone market and ensured that IBM-compatible computers ([running](/running) Microsoft's DOS, and later Windows) would dominate personal computing for decades.
 
 ## [Networking](/networking) and the Internet
 
@@ -89,7 +89,7 @@ Computers that couldn't talk to each other had limited usefulness. The [data str
 
 ARPANET, funded by the U.S. Department of Defense, sent its first message on October 29, 1969. The network grew slowly through the 1970s and 1980s, connecting universities and research institutions. The adoption of TCP/IP protocols in 1983 created the technical foundation of what we now call the internet.
 
-But the internet remained a text-heavy tool for academics and military personnel until Tim Berners-Lee, a physicist at CERN, invented the World Wide Web in 1989. His three innovations — HTML (for writing web pages), URLs (for addressing them), and HTTP (for transferring them) — made the internet usable for ordinary people.
+But the internet remained a text-heavy tool for academics and military personnel until Tim Berners-Lee, a physicist at CERN, invented the World Wide Web in 1989. His three innovations — HTML (for [writing](/writing) web pages), URLs (for addressing them), and HTTP (for transferring them) — made the internet usable for ordinary people.
 
 The first web browser with a graphical interface, Mosaic, launched in 1993. Netscape followed in 1994. By 1995, the internet had gone from an academic curiosity to a cultural phenomenon. Amazon, eBay, and Craigslist all launched that year. The dot-com boom — and bust — followed.
 
@@ -105,8 +105,8 @@ The iPhone's release in 2007 marked another inflection point. Smartphones put a 
 
 A few patterns repeat throughout computing history.
 
-First, the people who build significant technology often can't predict what it'll be used for. The internet was built for military communication. The web was built for sharing physics papers. The smartphone was built for... well, Steve Jobs had a pretty good idea, but even he didn't predict TikTok.
+First, the people who build significant technology often can't predict what it'll be used for. The internet was built for military communication. The web was built for sharing [physics](/physics) papers. The smartphone was built for... well, Steve Jobs had a pretty good idea, but even he didn't predict TikTok.
 
 Second, hardware outpaces everything else. New capabilities create new applications, which create new demands, which drive new hardware. The cycle is relentless and has been accelerating for 80 years.
 
-Third, the impact is never just technical. Every major computing advance rewrites economics, politics, social structures, and culture. The printing press disrupted medieval power structures. The internet is doing the same thing to modern ones. Computing history isn't really about machines. It's about what happens to human societies when machines get powerful enough to change everything.
+Third, the impact is never just technical. Every major computing advance rewrites [economics](/economics), [politics](/politics), social structures, and culture. The printing press disrupted medieval power structures. The internet is doing the same thing to modern ones. Computing history isn't really about machines. It's about what happens to human societies when machines get powerful enough to change everything.

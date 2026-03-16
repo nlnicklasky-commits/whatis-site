@@ -35,7 +35,7 @@ faq:
 
 # What Is Communication Theory?
 
-Communication theory is the academic field that studies how information, meaning, and messages are produced, transmitted, received, and interpreted across all forms of human interaction — from face-to-face conversation to mass media to digital platforms. It draws on [linguistics](/linguistics), [psychology](/psychology), sociology, [philosophy](/philosophy), and information science to explain why communication works when it does, and why it breaks down when it doesn't.
+Communication theory is the academic field that studies how information, meaning, and messages are produced, transmitted, received, and interpreted across all forms of human interaction — from face-to-face conversation to mass media to digital platforms. It draws on [linguistics](/linguistics), [psychology](/psychology), [sociology](/sociology), [philosophy](/philosophy), and information science to explain why communication works when it does, and why it breaks down when it doesn't.
 
 ## The Shannon-Weaver Model: Where It All Started
 
@@ -89,7 +89,7 @@ Most early mass communication theories assumed audiences were passive — sittin
 
 People aren't passive recipients. They actively choose media to satisfy specific needs: information (news), personal identity (content that reinforces your values), social integration (shared cultural experiences), and entertainment (escape and pleasure).
 
-This theory explains why different people consume the same media for different reasons. Two people might watch the same political debate — one for information about policy, the other for entertainment value. The gratification sought determines how the message is interpreted.
+This theory explains why different people consume the same media for different reasons. Two people might watch the same political [debate](/debate) — one for information about policy, the other for entertainment value. The gratification sought determines how the message is interpreted.
 
 Social media makes uses and gratifications especially relevant. People use Instagram for self-presentation, Twitter/X for information and argument, TikTok for entertainment, LinkedIn for professional [networking](/networking). The platform choice reflects the gratification being sought, and platforms are designed to maximize those specific gratifications.
 
@@ -129,13 +129,13 @@ In online contexts, uncertainty reduction is both easier and harder. Social medi
 
 ## Rhetoric: The Oldest Communication Theory
 
-Aristotle's *Rhetoric*, written around 350 BCE, identified three modes of persuasion that remain the backbone of persuasive communication.
+Aristotle's *[Rhetoric](/rhetoric)*, written around 350 BCE, identified three modes of persuasion that remain the backbone of persuasive communication.
 
 **Ethos** — the speaker's credibility. You're more persuaded by someone you trust and respect. This is why advertisers use celebrity endorsements, why academic papers cite prestigious journals, and why politicians emphasize their experience.
 
-**Pathos** — emotional appeal. Fear, hope, anger, compassion — emotions drive action more reliably than logic alone. [Public health](/public-health) campaigns use fear (smoking kills), charities use compassion (pictures of suffering children), and political campaigns use anger (the other side is destroying everything you love).
+**Pathos** — emotional appeal. Fear, hope, anger, compassion — emotions drive action more reliably than [logic](/logic) alone. [Public health](/public-health) campaigns use fear (smoking kills), charities use compassion (pictures of suffering children), and political campaigns use anger (the other side is destroying everything you love).
 
-**Logos** — logical argument. Evidence, statistics, reasoning — the rational case for a position. Scientific papers, legal briefs, and policy analyses rely primarily on logos.
+**Logos** — logical argument. Evidence, [statistics](/statistics), reasoning — the rational case for a position. Scientific papers, legal briefs, and policy analyses rely primarily on logos.
 
 Effective communication typically combines all three. A political speech establishes the speaker's credibility (ethos), makes an emotional connection (pathos), and presents evidence (logos). Relying on any single mode alone is usually less persuasive than combining them.
 
@@ -167,7 +167,7 @@ Not all communication theories are descriptive. Critical theories ask: who benef
 
 The Frankfurt School (Adorno, Horkheimer, Marcuse) argued that mass media serves to maintain existing power structures by producing consenting, uncritical audiences. The "culture industry" produces standardized entertainment that keeps people passive and distracted from genuine social problems.
 
-Antonio Gramsci's concept of hegemony explains how dominant groups maintain power not through force but through cultural consensus — their values and perspectives become "common sense" through media and education. You don't question arrangements that seem natural and inevitable, even if they disadvantage you.
+Antonio Gramsci's concept of hegemony explains how dominant groups maintain power not through force but through cultural consensus — their values and perspectives become "common sense" through media and [education](/education). You don't question arrangements that seem natural and inevitable, even if they disadvantage you.
 
 Stuart Hall's encoding/decoding model proposed that media messages are encoded by producers with intended meanings, but audiences can decode them in three ways: dominant reading (accepting the intended meaning), negotiated reading (partially accepting and partially resisting), or oppositional reading (rejecting the intended meaning entirely). This model explains how the same news broadcast can be interpreted as informative by one viewer and propaganda by another.
 

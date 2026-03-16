@@ -35,7 +35,7 @@ American football is a team sport in which two teams of 11 players each compete 
 
 ## From Rugby Fields to Gridiron
 
-American football didn't spring from nothing. It evolved from [rugby](/sports-history) and association football (soccer) in the late 19th century. The first college football game, played between Rutgers and Princeton on November 6, 1869, looked a lot more like soccer than anything you'd recognize today.
+American football didn't spring from nothing. It evolved from [rugby](/sports-history) and association football ([soccer](/soccer)) in the late 19th century. The first college football game, played between Rutgers and Princeton on November 6, 1869, looked a lot more like soccer than anything you'd recognize today.
 
 Walter Camp, a Yale player and coach, is generally credited as the "Father of American Football." During the 1880s, he introduced the line of scrimmage, the snap from center, the down-and-distance system, and the concept of set plays. These rule changes — especially the requirement to gain a certain number of yards within a set number of attempts — transformed a chaotic scrum into a strategic, play-by-play contest.
 
@@ -59,7 +59,7 @@ The playing field is 100 yards long with a 10-yard end zone at each end. Teams s
 
 The offense gets four attempts (downs) to advance the ball at least 10 yards. If they succeed, they get a fresh set of four downs. If they fail, the other team takes possession. On fourth down, teams usually punt (kick) the ball to push the opponent back, or attempt a field goal if they're close enough.
 
-This down system is what gives football its chess-like quality. Every play is a discrete event with specific strategic implications based on down, distance, field position, score, and time remaining.
+This down system is what gives football its [chess](/chess)-like quality. Every play is a discrete event with specific strategic implications based on down, distance, field position, score, and time remaining.
 
 ### The Players
 
@@ -83,7 +83,7 @@ Let's be honest about this: football is extremely hard on the human body. The sp
 
 The biggest concern is Chronic Traumatic Encephalopathy (CTE), a degenerative brain disease linked to repeated head impacts. A 2017 study published in JAMA found CTE in 110 of 111 brains of deceased NFL players examined — a staggering 99%. The [neuroscience](/neuroscience) behind CTE has forced the NFL to change rules around tackling, implement concussion protocols, and invest in helmet technology.
 
-The average NFL career lasts just 3.3 years. Players at positions involving the most collisions — running back, linebacker, offensive line — frequently deal with chronic pain and [health](/health-science) issues long after retirement. This reality has sparked an ongoing debate about the sport's future, particularly at the youth level where developing brains are most vulnerable.
+The average NFL career lasts just 3.3 years. Players at positions involving the most collisions — running back, linebacker, offensive line — frequently deal with chronic pain and [health](/health-science) issues long after retirement. This reality has sparked an ongoing [debate](/debate) about the sport's future, particularly at the youth level where developing brains are most vulnerable.
 
 ## Strategy and the Modern Game
 
@@ -99,7 +99,7 @@ Football is woven into American culture in ways that go beyond the game itself. 
 
 The Super Bowl halftime show is one of the most-watched musical performances on Earth. Fantasy football — where fans draft virtual teams and compete based on real player [statistics](/statistics) — has over 60 million participants in North America and generates roughly $70 billion in annual economic activity.
 
-But the sport also reflects and amplifies cultural tensions: debates about player protests, concerns about brain injuries, questions about public funding for stadiums, and the ethics of a sport that generates enormous wealth while many of its former players struggle with the physical consequences of their careers.
+But the sport also reflects and amplifies cultural tensions: debates about player protests, concerns about brain injuries, questions about public funding for stadiums, and the [ethics](/ethics) of a sport that generates enormous wealth while many of its former players struggle with the physical consequences of their careers.
 
 ## The Global Question
 

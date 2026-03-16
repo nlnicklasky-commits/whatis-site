@@ -35,7 +35,7 @@ faq:
 
 # What Is Human Factors?
 
-Human factors is the scientific discipline that studies human capabilities, limitations, and behaviors, then applies that knowledge to design systems, products, and environments that fit the people who use them — rather than forcing people to adapt to poorly designed systems. Also known as ergonomics (particularly outside North America), the field draws on [cognitive psychology](/cognitive-psychology), engineering, physiology, and design to reduce errors, improve safety, and make complex systems manageable for the humans operating them.
+Human factors is the scientific discipline that studies human capabilities, limitations, and behaviors, then applies that knowledge to design systems, products, and environments that fit the people who use them — rather than forcing people to adapt to poorly designed systems. Also known as [ergonomics](/ergonomics) (particularly outside North America), the field draws on [cognitive psychology](/cognitive-psychology), [engineering](/engineering), [physiology](/physiology), and design to reduce errors, improve safety, and make complex systems manageable for the humans operating them.
 
 ## The Core Idea: Humans Aren't the Problem
 
@@ -43,7 +43,7 @@ Here's the most important thing to understand about human factors: when a person
 
 Human factors rejects this framing. If multiple trained, competent people keep making the same error with the same system, the system is the problem — not the people. Humans are predictable. We have consistent cognitive limitations: limited working memory, susceptibility to distraction, tendency toward pattern-based thinking, difficulty maintaining vigilance over long periods. Good system design accounts for these characteristics. Bad system design ignores them and then blames operators when things go wrong.
 
-This isn't a soft, feel-good philosophy. It's an engineering approach backed by decades of accident investigation. When you redesign a system to prevent a specific error, that error stops happening. When you just retrain the same operators on the same flawed system, the error reoccurs. The data on this is overwhelming.
+This isn't a soft, feel-good [philosophy](/philosophy). It's an engineering approach backed by decades of accident investigation. When you redesign a system to prevent a specific error, that error stops happening. When you just retrain the same operators on the same flawed system, the error reoccurs. The data on this is overwhelming.
 
 ## A History Written in Accidents
 
@@ -90,7 +90,7 @@ The Institute of Medicine's landmark 1999 report *To Err Is Human* estimated tha
 - Handoff failures during shift changes
 - Poorly designed medical records that bury critical information
 
-Healthcare has been slow to adopt human factors principles compared to aviation, but the field is catching up. Standardized handoff protocols, barcode medication verification, and improved medical device interfaces have measurably reduced error rates where implemented.
+Healthcare has been slow to adopt human factors principles compared to [aviation](/aviation), but the field is catching up. Standardized handoff protocols, barcode medication verification, and improved medical device interfaces have measurably reduced error rates where implemented.
 
 ## The Three Pillars of Human Factors
 
@@ -118,7 +118,7 @@ This branch studies how humans process information, make decisions, maintain att
 
 ### Organizational Ergonomics
 
-The third pillar addresses how organizations, teams, and work processes affect human performance. Shift scheduling is a prime example: humans have circadian rhythms that make alertness lowest between 2-6 AM. Accidents peak during night shifts — Chernobyl, Three Mile Island, and Bhopal all began during night shifts.
+The third pillar addresses how organizations, teams, and work processes affect human performance. Shift [scheduling](/scheduling) is a prime example: humans have circadian rhythms that make alertness lowest between 2-6 AM. Accidents peak during night shifts — Chernobyl, Three Mile Island, and Bhopal all began during night shifts.
 
 Research shows that 12-hour shifts increase error rates compared to 8-hour shifts, that rotating shifts (alternating between day and night) are more disruptive than fixed schedules, and that sleep debt accumulates and cannot be recovered on a single night off.
 
@@ -194,15 +194,15 @@ This "automation paradox" is a central concern in modern human factors. Solution
 
 ### Distraction and Technology
 
-Smartphones have created a distraction crisis. Distracted driving kills over 3,000 people annually in the US. Distracted walking leads to emergency room visits for falls and collisions. Workplace interruptions from notifications fragment attention and increase errors.
+Smartphones have created a distraction crisis. Distracted driving kills over 3,000 people annually in the US. Distracted [walking](/walking) leads to emergency room visits for falls and collisions. Workplace interruptions from notifications fragment attention and increase errors.
 
-Human factors research shows that even the presence of a smartphone on a desk — face down, silent — measurably reduces cognitive performance. The mere possibility of notification is enough to consume attentional resources. This finding has implications for workplace design, education, and safety-critical operations.
+Human factors research shows that even the presence of a smartphone on a desk — face down, silent — measurably reduces cognitive performance. The mere possibility of notification is enough to consume attentional resources. This finding has implications for workplace design, [education](/education), and safety-critical operations.
 
 ### Aging Populations
 
 As populations age globally, designing for older users becomes increasingly important. Age-related changes — reduced visual acuity, hearing loss, slower reaction times, decreased grip strength, cognitive slowing — mean that systems designed for 25-year-olds may be unusable for 75-year-olds.
 
-Age-inclusive design benefits younger users too. Larger text, better contrast, simpler navigation, and more forgiving input methods improve usability for everyone, not just older adults.
+Age-inclusive design benefits younger users too. Larger text, better contrast, simpler [navigation](/navigation), and more forgiving input methods improve usability for everyone, not just older adults.
 
 ## The Future of Human Factors
 

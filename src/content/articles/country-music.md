@@ -37,7 +37,7 @@ Country music is an American musical genre that grew out of Southern folk tradit
 
 Country music didn't appear from nowhere. It emerged from the collision of several older traditions in the rural American South.
 
-**Appalachian [folk music](/folk-music)** brought British and Irish ballads carried by Scots-Irish immigrants. These songs — tales of love, murder, hardship, and home — were passed down orally for generations, accompanied by fiddle and banjo. Many Child Ballads (cataloged by Francis James Child in the 1800s) survived in Appalachian communities long after disappearing in Britain.
+**Appalachian [folk music](/folk-music)** brought British and Irish ballads carried by Scots-Irish immigrants. These songs — tales of love, murder, hardship, and home — were passed down orally for generations, accompanied by fiddle and [banjo](/banjo). Many Child Ballads (cataloged by Francis James Child in the 1800s) survived in Appalachian communities long after disappearing in Britain.
 
 **African American blues** contributed the 12-bar song structure, bent notes, and emotional intensity that distinguish country from pure folk music. The banjo itself originated in West Africa. Jimmie Rodgers, one of country's founding figures, learned guitar from railroad workers and incorporated blues yodeling into his style. The genre has always been more racially intertwined than its popular image suggests.
 
@@ -71,7 +71,7 @@ Country music has a complicated relationship with racial diversity. Despite its 
 
 Charley Pride, who had 29 #1 hits between 1969 and 1983, was the genre's most prominent Black artist for decades — an isolation that itself tells a story. More recently, artists like Mickey Guyton, Kane Brown, and Beyonce (whose *Cowboy Carter* reached #1 on the Billboard Country chart in 2024) have challenged the genre's demographic assumptions.
 
-The debate intensified when Lil Nas X's "Old Town Road" was removed from Billboard's country chart in 2019 despite clearly incorporating country elements. The incident highlighted unresolved questions about who gets to make country music and who gets to define it.
+The [debate](/debate) intensified when Lil Nas X's "Old Town Road" was removed from Billboard's country chart in 2019 despite clearly incorporating country elements. The incident highlighted unresolved questions about who gets to make country music and who gets to define it.
 
 ## Why Country Endures
 

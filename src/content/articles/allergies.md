@@ -74,7 +74,7 @@ Commonly called "hay fever" — which is misleading because it has nothing to do
 
 Symptoms include sneezing, nasal congestion, runny nose, itchy and watery eyes, and postnasal drip. About 20-30% of adults and up to 40% of children are affected. Allergic rhinitis isn't just annoying — it causes measurable reductions in sleep quality, work [productivity](/productivity), and overall quality of life.
 
-Pollen seasons have been getting longer and more intense. A 2021 study in *Proceedings of the National Academy of Sciences* found that pollen seasons in North America have lengthened by 20 days and become 21% more intense since 1990, driven by climate change. If your allergies seem worse than they used to be, they probably are.
+Pollen seasons have been getting longer and more intense. A 2021 study in *Proceedings of the National Academy of Sciences* found that pollen seasons in North America have lengthened by 20 days and become 21% more intense since 1990, driven by [climate change](/climate-change). If your allergies seem worse than they used to be, they probably are.
 
 ### Food Allergies
 

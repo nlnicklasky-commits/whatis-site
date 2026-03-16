@@ -35,9 +35,9 @@ faq:
 
 # What Is Inorganic Chemistry?
 
-Inorganic chemistry is the branch of chemistry that studies compounds not primarily based on carbon-hydrogen bonds. That definition sounds like it's defining itself by what it's not — and frankly, that's a fair criticism. But what it actually covers is enormous: metals, minerals, salts, semiconductors, catalysts, and a huge range of materials that make modern technology possible.
+Inorganic [chemistry](/chemistry) is the branch of chemistry that studies compounds not primarily based on carbon-hydrogen bonds. That definition sounds like it's defining itself by what it's not — and frankly, that's a fair criticism. But what it actually covers is enormous: metals, minerals, salts, semiconductors, catalysts, and a huge range of materials that make modern technology possible.
 
-If organic chemistry is the chemistry of life, inorganic chemistry is the chemistry of pretty much everything else. The iron in your blood, the silicon in your phone, the lithium in your battery, the titanium dioxide in your sunscreen — all inorganic.
+If [organic chemistry](/organic-chemistry) is the chemistry of life, inorganic chemistry is the chemistry of pretty much everything else. The iron in your blood, the silicon in your phone, the lithium in your battery, the titanium dioxide in your sunscreen — all inorganic.
 
 ## The Organic-Inorganic Divide (And Why It's Messy)
 
@@ -57,7 +57,7 @@ The transition metals — elements like iron, copper, nickel, platinum, and pall
 
 What makes transition metals special? They can exist in multiple oxidation states. Iron, for instance, can be Fe²+ or Fe³+, and switching between these states is what allows hemoglobin in your blood to pick up and release oxygen. Copper can be Cu+ or Cu²+. Manganese can exist in oxidation states from +2 to +7.
 
-This flexibility makes transition metals extraordinary catalysts. They can temporarily bond with reactant molecules, lower the energy barrier for chemical reactions, and then release the products — essentially acting as molecular matchmakers.
+This flexibility makes transition metals extraordinary catalysts. They can temporarily bond with reactant molecules, lower the energy barrier for chemical reactions, and then release the products — essentially [acting](/acting) as molecular matchmakers.
 
 The colors of transition metal compounds are another distinctive feature. Copper sulfate is brilliant blue. Potassium permanganate is deep purple. Cobalt chloride is blue when dry and pink when hydrated. These colors result from d-electron transitions — electrons absorbing specific wavelengths of light as they jump between energy levels within the metal's d-orbitals.
 
@@ -85,7 +85,7 @@ Coordination chemistry is arguably the heart of inorganic chemistry. It studies 
 
 Picture a metal ion sitting in solution. It has empty orbitals — spaces where electrons could go. Surrounding molecules with available electron pairs (ligands) donate those electrons into the metal's empty orbitals, forming coordinate bonds. The result is a coordination compound.
 
-The geometry of these compounds depends on how many ligands attach. Two ligands typically create a linear arrangement. Four can be tetrahedral or square planar. Six create an octahedral structure. These geometries aren't just academic — they determine the compound's color, magnetism, reactivity, and biological function.
+The [geometry](/geometry) of these compounds depends on how many ligands attach. Two ligands typically create a linear arrangement. Four can be tetrahedral or square planar. Six create an octahedral structure. These geometries aren't just academic — they determine the compound's color, [magnetism](/magnetism), reactivity, and biological function.
 
 Alfred Werner won the Nobel Prize in 1913 for figuring out the three-dimensional structures of coordination compounds. His work was remarkable because he deduced correct structures using only chemical analysis — decades before [X-ray crystallography](/x-ray-crystallography) could directly confirm molecular shapes.
 
@@ -93,7 +93,7 @@ Alfred Werner won the Nobel Prize in 1913 for figuring out the three-dimensional
 
 Why does a particular coordination compound have a specific color or magnetic behavior? Crystal Field Theory (CFT) provides the initial explanation. When ligands approach a metal ion, they interact with the d-orbitals, splitting them into groups with different energies. The size of this energy gap determines what wavelength of light the compound absorbs — and therefore what color we see.
 
-Ligand Field Theory and Molecular Orbital Theory offer more sophisticated explanations, accounting for covalent bonding character that CFT ignores. But CFT remains the starting point for understanding coordination chemistry because it's intuitive and surprisingly accurate for many systems.
+Ligand Field Theory and Molecular Orbital Theory offer more sophisticated explanations, [accounting](/accounting) for covalent bonding character that CFT ignores. But CFT remains the starting point for understanding coordination chemistry because it's intuitive and surprisingly accurate for many systems.
 
 ## Catalysis: Inorganic Chemistry's Biggest Impact
 
@@ -143,11 +143,11 @@ Today, platinum-based drugs treat testicular, ovarian, bladder, and lung cancers
 
 ## Solid-State and Materials Chemistry
 
-Inorganic chemistry is the foundation of materials science. Semiconductors, superconductors, ceramics, and advanced alloys are all products of inorganic chemistry understanding.
+Inorganic chemistry is the foundation of [materials science](/materials-science). Semiconductors, superconductors, [ceramics](/ceramics), and advanced alloys are all products of inorganic chemistry understanding.
 
 ### Semiconductors
 
-Silicon — the second most abundant element in Earth's crust — forms the basis of the entire electronics industry. Pure silicon is a poor conductor, but "doping" it with tiny amounts of other elements (phosphorus, boron) creates semiconductors that can switch between conducting and insulating states. This is the basis of every transistor, and therefore every computer chip.
+Silicon — the second most abundant element in Earth's crust — forms the basis of the entire [electronics](/electronics) industry. Pure silicon is a poor conductor, but "doping" it with tiny amounts of other elements (phosphorus, boron) creates semiconductors that can switch between conducting and insulating states. This is the basis of every transistor, and therefore every computer chip.
 
 Gallium arsenide, indium phosphide, and silicon carbide are compound semiconductors used in specialized applications — LEDs, solar cells, high-frequency electronics. Each represents decades of inorganic chemistry research to grow pure crystals and understand defect behavior.
 
@@ -161,7 +161,7 @@ Current battery research focuses on solid-state batteries (replacing liquid elec
 
 Superconductors carry electrical current with zero resistance. The first superconductors were simple metals cooled to near absolute zero. In 1986, Bednorz and Muller discovered that certain copper oxide ceramics became superconducting at much higher temperatures — still cold by everyday standards (around -180°C) but achievable with liquid nitrogen rather than expensive liquid helium.
 
-The mechanism of high-temperature superconductivity remains one of the great unsolved problems in physics and chemistry. Understanding it fully would likely require deep insights into inorganic solid-state chemistry.
+The mechanism of high-temperature [superconductivity](/superconductivity) remains one of the great unsolved problems in [physics](/physics) and chemistry. Understanding it fully would likely require deep insights into inorganic solid-state chemistry.
 
 ## Environmental Inorganic Chemistry
 
@@ -191,9 +191,9 @@ Inorganic chemistry is everywhere in daily life, even if you never think about i
 
 **Glass and ceramics**: Glass is an amorphous inorganic solid — primarily silicon dioxide with various additives. Borosilicate glass (Pyrex) contains boron oxide for thermal resistance. Ceramic materials — from porcelain to high-tech alumina and zirconia — are inorganic compounds processed at high temperatures.
 
-**Fertilizers**: Beyond the Haber-Bosch process for nitrogen, inorganic chemistry provides phosphate and potassium fertilizers essential for agriculture. Understanding the [biochemistry](/biochemistry) of nutrient uptake by plants requires knowing how these inorganic nutrients behave in soil.
+**Fertilizers**: Beyond the Haber-Bosch process for nitrogen, inorganic chemistry provides phosphate and potassium fertilizers essential for [agriculture](/agriculture). Understanding the [biochemistry](/biochemistry) of nutrient uptake by plants requires knowing how these inorganic nutrients behave in soil.
 
-**Construction materials**: Portland cement — the binding agent in concrete — is produced by heating limestone (calcium carbonate) and clay at about 1,450°C. The resulting clinker contains calcium silicates and aluminates that react with water to form a hard, stone-like material. Concrete is the most widely used material on Earth after water.
+**[Construction](/construction) materials**: Portland cement — the binding agent in concrete — is produced by heating limestone (calcium carbonate) and clay at about 1,450°C. The resulting clinker contains calcium silicates and aluminates that react with water to form a hard, stone-like material. Concrete is the most widely used material on Earth after water.
 
 ## The Future of Inorganic Chemistry
 
@@ -201,11 +201,11 @@ Several frontiers are driving inorganic chemistry forward.
 
 **Artificial photosynthesis**: Mimicking the way plants use sunlight to split water and fix CO₂ could provide clean fuel from solar energy. This requires developing inorganic catalysts that can perform these reactions efficiently — essentially building an artificial version of the manganese-calcium cluster that natural photosynthesis uses to split water.
 
-**Quantum materials**: Materials with exotic quantum properties — topological insulators, quantum spin liquids, Weyl semimetals — are predicted to enable quantum computing, lossless electronics, and other technologies. Synthesizing and characterizing these materials is an inorganic chemistry challenge.
+**Quantum materials**: Materials with exotic quantum properties — topological insulators, quantum spin liquids, Weyl semimetals — are predicted to enable [quantum computing](/quantum-computing), lossless electronics, and other technologies. Synthesizing and characterizing these materials is an inorganic chemistry challenge.
 
 **Sustainable chemistry**: Replacing toxic, rare, or expensive inorganic materials with earth-abundant alternatives is an ongoing priority. Iron-based catalysts instead of platinum. Sodium batteries instead of lithium. Zinc-based anticancer drugs instead of platinum compounds. Each substitution requires fundamental inorganic chemistry research.
 
-**Space applications**: Inorganic materials for radiation shielding, life support systems, and in-situ resource utilization on the Moon and Mars are active research areas. The minerals available on other planetary bodies are inorganic, and extracting useful materials from them — [geology](/geology) meets chemistry meets engineering — is one of the challenges of space exploration.
+**Space applications**: Inorganic materials for radiation shielding, life support systems, and in-situ resource utilization on the Moon and Mars are active research areas. The minerals available on other planetary bodies are inorganic, and extracting useful materials from them — [geology](/geology) meets chemistry meets [engineering](/engineering) — is one of the challenges of space exploration.
 
 ## Key Takeaways
 

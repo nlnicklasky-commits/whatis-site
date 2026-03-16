@@ -53,7 +53,7 @@ This structure isn't a rule — it's a convention that great composers have foll
 
 ### The Classical Era (1750-1820)
 
-Haydn wrote 104 symphonies and is often called the "Father of the Symphony." He established the standard four-movement form and expanded the orchestra's size and capabilities. Mozart wrote 41 symphonies, adding greater emotional depth and operatic drama to the form.
+Haydn wrote 104 symphonies and is often called the "Father of the Symphony." He established the standard four-movement form and expanded the orchestra's size and capabilities. Mozart wrote 41 symphonies, adding greater emotional depth and operatic [drama](/drama) to the form.
 
 Then came Beethoven. His nine symphonies transformed the genre from elegant entertainment into something far more ambitious — personal expression, philosophical statement, and emotional catharsis. His Third Symphony (*Eroica*, 1803) was roughly twice the length of any previous symphony and changed what people expected the form could do.
 
@@ -73,7 +73,7 @@ Writing a symphony isn't just about melody and harmony — it's about instrument
 
 - **Strings** — Violins, violas, cellos, basses. The backbone of the orchestra.
 - **Woodwinds** — Flutes, oboes, clarinets, bassoons. Color, contrast, and solo voice.
-- **Brass** — Trumpets, French horns, trombones, tuba. Power, majesty, drama.
+- **Brass** — Trumpets, French horns, trombones, [tuba](/tuba). Power, majesty, drama.
 - **Percussion** — Timpani, snare drum, cymbals, and more. Rhythm, accent, punctuation.
 
 The composer must know the range, tone color, technical capabilities, and expressive qualities of every instrument — and how they blend together. A melody played by an oboe over tremolo strings creates a completely different emotional effect than the same melody played by brass over timpani rolls.

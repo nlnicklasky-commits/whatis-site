@@ -39,7 +39,7 @@ faq:
 
 # What Is Fish Farming?
 
-Fish farming, formally called aquaculture, is the practice of breeding, raising, and harvesting fish, shellfish, and aquatic plants in controlled or semi-controlled environments for human consumption, recreation, or conservation purposes. It's the fastest-growing food production sector in the world, and since 2014, humans have consumed more farmed fish than wild-caught fish—a milestone that marks a fundamental shift in how we get protein from the water.
+Fish [farming](/farming), formally called aquaculture, is the practice of breeding, raising, and harvesting fish, shellfish, and aquatic plants in controlled or semi-controlled environments for human consumption, recreation, or conservation purposes. It's the fastest-growing food production sector in the world, and since 2014, humans have consumed more farmed fish than wild-caught fish—a milestone that marks a fundamental shift in how we get protein from the water.
 
 ## The Scale of Modern Aquaculture
 
@@ -73,9 +73,9 @@ The system works beautifully in Norway's sheltered fjords, where cold, clean wat
 
 **Waste discharge**: A salmon farm producing 2,000 tons of fish generates waste roughly equivalent to a city of 10,000 people. This organic waste settles on the seabed below the pens, depleting oxygen and altering the benthic ecosystem.
 
-**Sea lice**: These parasitic copepods thrive in the dense conditions of net pens and can spread to wild salmon swimming nearby. Sea lice have become the salmon industry's most expensive problem—the industry spends over $1 billion annually on lice treatments.
+**Sea lice**: These parasitic copepods thrive in the dense conditions of net pens and can spread to wild salmon [swimming](/swimming) nearby. Sea lice have become the salmon industry's most expensive problem—the industry spends over $1 billion annually on lice treatments.
 
-**Escapes**: Farmed salmon that escape through holes in nets can interbreed with wild populations, potentially reducing the genetic fitness of wild stocks. An estimated 1-2 million farmed salmon escape annually from Norwegian farms alone.
+**Escapes**: Farmed salmon that escape through holes in nets can interbreed with wild populations, potentially reducing the genetic [fitness](/fitness) of wild stocks. An estimated 1-2 million farmed salmon escape annually from Norwegian farms alone.
 
 ### Recirculating Aquaculture Systems (RAS)
 
@@ -91,7 +91,7 @@ Several companies—Atlantic Sapphire, Nordic Aquafarms, AquaBounty—are buildi
 
 Oysters, mussels, clams, and scallops are farmed using methods that are remarkably different from finfish farming—and often more environmentally beneficial.
 
-Oysters are typically grown on racks, bags, or cages in intertidal or subtidal areas. They filter water as they feed on phytoplankton—a single adult oyster filters about 190 liters of water per day. An oyster farm doesn't just produce food; it actively cleans the water it operates in. This is why [conservation biology](/conservation-biology) organizations often support oyster reef restoration as an environmental management strategy.
+Oysters are typically grown on racks, bags, or cages in intertidal or subtidal areas. They filter water as they feed on phytoplankton—a single adult oyster filters about 190 liters of water per day. An oyster farm doesn't just produce food; it actively cleans the water it operates in. This is why [conservation biology](/conservation-biology) organizations often support oyster reef restoration as an environmental [management](/management) strategy.
 
 Mussel farming uses ropes or longlines suspended in the water column. Mussels attach naturally, filter-feed on plankton, and reach market size in 1-2 years. No feed inputs are required—the mussels eat what the ocean provides. This makes mussel farming one of the most sustainable protein production methods on Earth, with a carbon footprint lower than any terrestrial animal protein.
 
@@ -145,7 +145,7 @@ Fish farming is benefiting from the same genetic technologies that transformed t
 
 **Genomic selection** uses DNA markers to identify fish with desirable traits before breeding, accelerating genetic improvement. Instead of waiting to see which fish grow fastest, breeders can screen juveniles genetically and select the best candidates immediately.
 
-**Gene editing** (CRISPR-Cas9) is being explored for disease resistance, sterility (to prevent escaped fish from breeding with wild populations), and growth enhancement. AquaBounty's AquAdvantage salmon—genetically modified to grow year-round instead of only in warm months—was the first genetically engineered animal approved for human consumption in the U.S. (2015) and Canada.
+**Gene [editing](/editing)** (CRISPR-Cas9) is being explored for disease resistance, sterility (to prevent escaped fish from breeding with wild populations), and growth enhancement. AquaBounty's AquAdvantage salmon—genetically modified to grow year-round instead of only in warm months—was the first genetically engineered animal approved for human consumption in the U.S. (2015) and Canada.
 
 **Triploid fish** (sterile fish with three sets of chromosomes instead of the normal two) are increasingly used in salmon farming to prevent genetic mixing with wild fish if escapes occur.
 

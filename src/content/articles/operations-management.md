@@ -31,7 +31,7 @@ faq:
 
 # What Is Operations [Management](/management)?
 
-Operations management is the business discipline focused on designing, running, and improving the processes that produce and deliver goods and services. If a company makes cars, operations management handles how those cars get built — the factory layout, the supply chain, the assembly sequence, the quality checks, the shipping [logistics](/logistics). If a hospital treats patients, operations management handles patient flow, staffing schedules, equipment availability, and procedure efficiency.
+Operations management is the business discipline focused on designing, [running](/running), and improving the processes that produce and deliver goods and services. If a company makes cars, operations management handles how those cars get built — the factory layout, the supply chain, the assembly sequence, the quality checks, the shipping [logistics](/logistics). If a hospital treats patients, operations management handles patient flow, staffing schedules, equipment availability, and procedure efficiency.
 
 Every organization that produces something — physical products, digital services, healthcare, [education](/education), food — has operations to manage, whether they call it that or not.
 
@@ -41,7 +41,7 @@ Operations management sits at the intersection of several critical business func
 
 **Process design.** How should work flow from start to finish? What steps are needed, in what order, and who performs them? A well-designed process minimizes waste, reduces errors, and delivers consistent output. A poorly designed one creates bottlenecks, rework, and frustrated customers.
 
-**Capacity planning.** How much can you produce, and how much should you? Overcapacity wastes money on idle resources. Undercapacity means lost sales and unhappy customers. Getting this balance right requires forecasting demand and matching it to production ability.
+**Capacity planning.** How much can you produce, and how much should you? Overcapacity wastes money on idle resources. Undercapacity means lost [sales](/sales) and unhappy customers. Getting this balance right requires forecasting demand and matching it to production ability.
 
 **[Supply chain management](/supply-chain-management).** Where do your materials come from? How do they get to you? What happens when a supplier fails or a shipping route is disrupted? The COVID-19 pandemic demonstrated just how fragile global supply chains can be — and how devastating the consequences when they break.
 
@@ -71,7 +71,7 @@ The principles are universal, but the applications vary enormously.
 
 **Manufacturing** is the classic operations environment. Production scheduling, machine utilization, quality control, supply chain coordination — all core operations management activities. A semiconductor fab, a food processing plant, and an automobile factory all face fundamentally similar challenges despite making completely different products.
 
-**Healthcare** operations manage patient flow (reducing wait times in emergency departments), surgical scheduling (maximizing operating room utilization), staff scheduling (ensuring adequate nursing coverage 24/7), and supply chain management (ensuring medications and supplies are available when needed).
+**Healthcare** operations manage patient flow (reducing wait times in emergency departments), surgical scheduling (maximizing operating room utilization), staff scheduling (ensuring adequate [nursing](/nursing) coverage 24/7), and supply chain management (ensuring medications and supplies are available when needed).
 
 **Retail** operations cover store layout, inventory replenishment, warehouse management, and logistics. Amazon's dominance is fundamentally an operations management achievement — their fulfillment centers, routing algorithms, and delivery networks are [engineering](/engineering) marvels.
 

@@ -75,7 +75,7 @@ Barrages work, but they have significant drawbacks:
 
 **Environmental impact.** Barrages fundamentally alter estuary ecosystems. They change water flow patterns, sediment transport, salinity levels, and tidal range upstream. Fish migration is disrupted — both species that swim upstream to spawn (like salmon) and those that depend on tidal flats for feeding (many shorebirds). The La Rance barrage caused significant ecological changes, though the estuary has partially adapted over decades.
 
-**Limited sites.** Very few estuaries have the right combination of high tidal range, suitable geology, and acceptable environmental trade-offs.
+**Limited sites.** Very few estuaries have the right combination of high tidal range, suitable [geology](/geology), and acceptable environmental [trade](/trade)-offs.
 
 ### Tidal Stream Generators — Underwater Wind Turbines
 
@@ -166,7 +166,7 @@ But the environmental story isn't entirely clean.
 
 ## The Future of Tidal Power
 
-Tidal power won't replace solar or wind as the dominant renewable energy source. The physics of tidal resource distribution — limited to specific coastal locations — prevents that. But it could become a significant contributor in regions with strong tidal resources, particularly because its predictability addresses the intermittency problem that plagues [solar and wind](/alternative-energy).
+Tidal power won't replace solar or wind as the dominant renewable energy source. The [physics](/physics) of tidal resource distribution — limited to specific coastal locations — prevents that. But it could become a significant contributor in regions with strong tidal resources, particularly because its predictability addresses the intermittency problem that plagues [solar and wind](/alternative-energy).
 
 Several trends favor tidal power's development:
 
@@ -178,4 +178,4 @@ Several trends favor tidal power's development:
 
 **Hybrid projects.** Combining tidal power with other functions — coastal flood defense, harbor infrastructure, [aquaculture](/aquaculture) — can spread costs and increase project value. A tidal lagoon that also protects a city from storm surges might justify its cost even if the electricity alone doesn't.
 
-The ocean covers 70% of Earth's surface, and the tides will keep running for billions of years. Learning to tap that energy efficiently is worth the effort — even if the effort takes longer and costs more than the alternatives. Tides don't stop when the wind dies down or the sun sets. That kind of reliability has a value that goes beyond the price per kilowatt-hour.
+The ocean covers 70% of Earth's surface, and the tides will keep [running](/running) for billions of years. Learning to tap that energy efficiently is worth the effort — even if the effort takes longer and costs more than the alternatives. Tides don't stop when the wind dies down or the sun sets. That kind of reliability has a value that goes beyond the price per kilowatt-hour.

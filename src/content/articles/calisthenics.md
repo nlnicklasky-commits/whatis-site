@@ -92,7 +92,7 @@ The biggest misconception about calisthenics is that you can't progressively ove
 
 Research on bodyweight training has grown substantially in recent years. A 2017 study in the Journal of Exercise Science & Fitness found that push-up training produced similar strength gains to bench press training when matched for effort. A 2020 systematic review published in Sports Medicine concluded that bodyweight exercises can effectively improve muscular strength, endurance, and body composition.
 
-The key insight from [sports science](/sports-science) research: the stimulus matters more than the tool. Your muscles don't know whether resistance comes from a barbell or from gravity acting on your body. What matters is sufficient mechanical tension, metabolic stress, and muscle damage — the three primary drivers of muscle growth.
+The key insight from [sports science](/sports-science) research: the stimulus matters more than the tool. Your muscles don't know whether resistance comes from a barbell or from gravity [acting](/acting) on your body. What matters is sufficient mechanical tension, metabolic stress, and muscle damage — the three primary drivers of muscle growth.
 
 Where calisthenics does have a measurable advantage is in relative strength — strength relative to your body weight. Calisthenics athletes consistently score higher on relative strength tests than athletes who train exclusively with weights. This translates directly to athletic performance, real-world physical capability, and injury resilience.
 

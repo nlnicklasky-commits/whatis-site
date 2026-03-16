@@ -35,7 +35,7 @@ faq:
 
 # What Is Food Chemistry?
 
-Food chemistry is the branch of chemistry that studies the chemical composition of food, the chemical changes food undergoes during processing, cooking, and storage, and the chemical interactions between food components that determine texture, flavor, color, nutritional value, and safety. It sits at the intersection of [organic chemistry](/organic-chemistry), [biochemistry](/biochemistry), and analytical chemistry.
+Food chemistry is the branch of chemistry that studies the chemical composition of food, the chemical changes food undergoes during processing, [cooking](/cooking), and storage, and the chemical interactions between food components that determine texture, flavor, color, nutritional value, and safety. It sits at the intersection of [organic chemistry](/organic-chemistry), [biochemistry](/biochemistry), and analytical chemistry.
 
 ## The Major Components of Food
 
@@ -145,7 +145,7 @@ The chemistry of flavor is dizzyingly complex. A single food can contain hundred
 
 Coffee contains over 800 identified aroma compounds. Chocolate has more than 600. Strawberry flavor comes from a combination of about 350 compounds, with furaneol being the most important single contributor.
 
-"Natural" and "artificial" flavors are a distinction that means less than you'd think. Vanillin — the primary flavor compound in vanilla — has the exact same chemical structure whether it comes from a vanilla bean, a spruce tree, or a chemical reactor. Your taste buds and olfactory receptors can't tell the difference because there is no chemical difference. The "natural" label is a regulatory and marketing distinction, not a chemical one.
+"Natural" and "artificial" flavors are a distinction that means less than you'd think. Vanillin — the primary flavor compound in vanilla — has the exact same chemical structure whether it comes from a vanilla bean, a spruce tree, or a chemical reactor. Your taste buds and olfactory receptors can't tell the difference because there is no chemical difference. The "natural" label is a regulatory and [marketing](/marketing) distinction, not a chemical one.
 
 ## Analytical Techniques in Food Chemistry
 
@@ -183,7 +183,7 @@ Several trends are pushing food chemistry in new directions.
 
 **Precision fermentation** uses engineered microorganisms to produce specific food proteins. Whey protein without cows. Egg protein without chickens. The chemistry is identical to the animal-derived version — same amino acid sequence, same folding, same functional properties.
 
-**Personalized nutrition** aims to tailor dietary recommendations based on individual genetics and microbiome composition. Understanding how different people metabolize the same food differently is fundamentally a [biochemistry](/biochemistry) challenge.
+**Personalized [nutrition](/nutrition)** aims to tailor dietary recommendations based on individual [genetics](/genetics) and microbiome composition. Understanding how different people metabolize the same food differently is fundamentally a [biochemistry](/biochemistry) challenge.
 
 **Reducing food waste** through better understanding of spoilage chemistry. Intelligent packaging that detects spoilage gases. Coatings that slow ripening. Enzymatic treatments that extend shelf life without synthetic preservatives.
 

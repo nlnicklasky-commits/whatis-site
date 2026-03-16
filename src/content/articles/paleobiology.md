@@ -43,7 +43,7 @@ When most people picture the study of ancient life, they imagine someone careful
 
 How fast did that animal grow? What did it eat? How did its population change over millions of years? Why did its entire lineage disappear while a seemingly similar group survived? These are biological questions applied to organisms that have been dead for anywhere from thousands to billions of years.
 
-The field emerged as a distinct discipline in the 1970s and 1980s, when researchers like Stephen Jay Gould, David Raup, and Jack Sepkoski started applying rigorous statistical methods to the fossil record. Before that, paleontology was primarily descriptive—naming species, describing anatomy, placing things in chronological order. Paleobiology shifted the focus toward understanding the *processes* behind the patterns.
+The field emerged as a distinct discipline in the 1970s and 1980s, when researchers like Stephen Jay Gould, David Raup, and Jack Sepkoski started applying rigorous statistical methods to the fossil record. Before that, paleontology was primarily descriptive—naming species, describing [anatomy](/anatomy), placing things in chronological order. Paleobiology shifted the focus toward understanding the *processes* behind the patterns.
 
 ## The Big Questions Paleobiologists Chase
 
@@ -77,23 +77,23 @@ The answers matter for conservation. If we push modern ecosystems past a tipping
 
 ### Quantitative Analysis and Databases
 
-One of the biggest shifts in paleobiology has been the embrace of large-scale data analysis. The Paleobiology Database (PBDB), launched in 1998, now contains occurrence records for over 1.5 million fossil collections from around the world. This lets researchers ask questions that would be impossible with individual fossil sites.
+One of the biggest shifts in paleobiology has been the embrace of large-scale [data analysis](/data-analysis). The Paleobiology Database (PBDB), launched in 1998, now contains occurrence records for over 1.5 million fossil collections from around the world. This lets researchers ask questions that would be impossible with individual fossil sites.
 
 Want to know how global biodiversity changed over the last 500 million years? You need data from thousands of localities across every continent. Want to test whether tropical species are more or less extinction-prone than temperate ones? Same thing. The PBDB made these analyses possible.
 
-Modern paleobiologists are as likely to be found writing code in Python or R as chipping rock in the field. Statistical methods borrowed from [ecology](/ecology), [data science](/data-science), and [mathematical modeling](/mathematical-modeling) are now standard tools.
+Modern paleobiologists are as likely to be found [writing](/writing) code in Python or R as chipping rock in the field. Statistical methods borrowed from [ecology](/ecology), [data science](/data-science), and [mathematical modeling](/mathematical-modeling) are now standard tools.
 
 ### Geochemistry and Isotope Analysis
 
 Fossils aren't just shapes in rock—they're chemical archives. The ratios of oxygen isotopes in fossil shells reveal ancient ocean temperatures. Carbon isotopes indicate what an animal ate and how the global carbon cycle was behaving. Strontium isotopes can trace migration patterns.
 
-A paleobiologist studying a Jurassic marine reptile might analyze the chemistry of its tooth enamel to determine whether it lived in warm or cold water, whether it migrated seasonally, and where it sat in the food web. That's an astonishing amount of biological information from a 150-million-year-old tooth.
+A paleobiologist studying a Jurassic marine reptile might analyze the [chemistry](/chemistry) of its tooth enamel to determine whether it lived in warm or cold water, whether it migrated seasonally, and where it sat in the food web. That's an astonishing amount of biological information from a 150-million-year-old tooth.
 
 ### CT Scanning and Digital Reconstruction
 
 High-resolution CT scanning has revolutionized how paleobiologists study internal anatomy. You can now visualize the brain cavity of a fossil skull without cutting it open. You can trace blood vessel channels through fossil bone. You can reconstruct the inner ear of an extinct animal and infer how it moved and balanced.
 
-Digital reconstructions also allow researchers to build virtual models of extinct organisms and test biomechanical hypotheses. Could *Tyrannosaurus rex* actually run, or was it limited to a fast walk? What was the bite force of a giant prehistoric shark? These questions get answered with engineering software originally designed for crash-testing cars and stress-testing bridges.
+Digital reconstructions also allow researchers to build virtual models of extinct organisms and test biomechanical hypotheses. Could *Tyrannosaurus rex* actually run, or was it limited to a fast walk? What was the bite force of a giant prehistoric shark? These questions get answered with [engineering](/engineering) software originally designed for crash-testing cars and stress-testing bridges.
 
 ### Molecular Paleobiology
 
@@ -113,7 +113,7 @@ Paleobiologists have debated the causes for decades. Was it rising oxygen levels
 
 The end-Permian extinction 252 million years ago was triggered by massive volcanic eruptions in what's now Siberia. These eruptions released enormous quantities of carbon dioxide and methane, causing extreme global warming, ocean acidification, and ocean anoxia (oxygen depletion). Sound familiar?
 
-Paleobiologists have documented the extinction in remarkable detail. Marine ecosystems collapsed. Coral reefs vanished for millions of years. On land, forests were replaced by fungal blooms—literally a world of rot. The parallels to modern [climate change](/climatology) and ocean acidification aren't lost on researchers. We're essentially running a faster version of the same experiment.
+Paleobiologists have documented the extinction in remarkable detail. Marine ecosystems collapsed. Coral reefs vanished for millions of years. On land, forests were replaced by fungal blooms—literally a world of rot. The parallels to modern [climate change](/climatology) and ocean acidification aren't lost on researchers. We're essentially [running](/running) a faster version of the same experiment.
 
 ### The Rise of Mammals After the Dinosaurs
 

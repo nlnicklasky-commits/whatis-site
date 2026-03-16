@@ -37,7 +37,7 @@ Digital art is any artistic work created primarily using digital technology — 
 
 The history of digital art is older than most people realize. In 1963, a programmer named A. Michael Noll at Bell Labs created computer-generated patterns that were deliberately artistic — not functional, not scientific, just interesting to look at. That same year, Frieder Nake in Germany produced [algorithmic](/algorithms) drawings using mathematical formulas to generate visual compositions.
 
-By the late 1960s, galleries were exhibiting computer art. The "Cybernetic Serendipity" exhibition at London's Institute of Contemporary Arts in 1968 showcased computer-generated graphics, music, and poetry. Critics were skeptical. The art world was hostile. But the work kept coming.
+By the late 1960s, galleries were exhibiting computer art. The "Cybernetic Serendipity" exhibition at London's Institute of Contemporary Arts in 1968 showcased computer-generated graphics, music, and [poetry](/poetry). Critics were skeptical. The art world was hostile. But the work kept coming.
 
 Harold Cohen's AARON program, begun in 1973, was arguably the first AI artist — software that could independently create original drawings. Cohen spent decades refining it, and AARON's works were exhibited at major museums. The questions Cohen raised about authorship and creativity anticipate current debates about AI-generated images by half a century.
 
@@ -47,7 +47,7 @@ The 1980s and 1990s changed everything because the tools became accessible.
 
 **Adobe Photoshop** launched in 1990 and fundamentally altered visual culture. Suddenly any photographer or designer could manipulate images with precision that previously required darkroom wizardry. By the mid-1990s, Photoshop wasn't just a tool — it was a verb. The software's impact on [photography](/digital-photography), advertising, and visual media is hard to overstate.
 
-**Wacom tablets** gave artists pressure-sensitive drawing surfaces that translated hand movements to screen. Drawing digitally finally started to feel like drawing. The combination of tablet hardware and painting software (Corel Painter, later Procreate) meant that illustrators could work digitally without sacrificing the feel of traditional media.
+**Wacom tablets** gave artists pressure-sensitive drawing surfaces that translated hand movements to screen. Drawing digitally finally started to feel like drawing. The combination of tablet hardware and [painting](/painting) software (Corel Painter, later Procreate) meant that illustrators could work digitally without sacrificing the feel of traditional media.
 
 **3D software** — Maya, 3ds Max, Cinema 4D, and eventually the free and open-source Blender — opened entirely new creative dimensions. Artists could sculpt, light, and render three-dimensional scenes that existed only as data. Pixar's *Toy Story* (1995) proved that 3D digital art could carry feature-length [storytelling](/storytelling).
 
@@ -77,15 +77,15 @@ The NFT market exploded throughout 2021, crashed spectacularly in 2022-2023, and
 
 ## AI and the New Crisis
 
-The emergence of AI image generators — DALL-E, Midjourney, Stable Diffusion — in 2022-2023 triggered the most intense debate in digital art's history. These systems, trained on billions of existing images, can generate strikingly competent visuals from text prompts.
+The emergence of AI image generators — DALL-E, Midjourney, Stable Diffusion — in 2022-2023 triggered the most intense [debate](/debate) in digital art's history. These systems, trained on billions of existing images, can generate strikingly competent visuals from text prompts.
 
 The arguments are fierce. Critics point out that AI models trained on artists' work without consent or compensation amount to theft. Supporters argue that AI is simply a new tool, no different from Photoshop. The reality is probably more complicated than either position allows.
 
-What's clear is that AI hasn't replaced human digital artists — at least not yet. The output still requires curation, editing, and artistic judgment. Concept artists, illustrators, and designers continue to find that clients value the intentionality and communication skills that human artists bring. But the [economics](/economics) are shifting, and the long-term impact remains genuinely uncertain.
+What's clear is that AI hasn't replaced human digital artists — at least not yet. The output still requires curation, [editing](/editing), and artistic judgment. Concept artists, illustrators, and designers continue to find that clients value the intentionality and communication skills that human artists bring. But the [economics](/economics) are shifting, and the long-term impact remains genuinely uncertain.
 
 ## Why It Matters
 
-Digital art matters because it's where most visual culture is made now. The movie posters, game environments, social media graphics, product visualizations, and editorial illustrations you encounter daily are overwhelmingly digital. Traditional media hasn't disappeared, but digital tools dominate commercial and fine art production.
+Digital art matters because it's where most visual culture is made now. The movie posters, game environments, social media graphics, product visualizations, and editorial illustrations you encounter daily are overwhelmingly digital. Traditional media hasn't disappeared, but digital tools dominate commercial and [fine art](/fine-art) production.
 
 The democratization is real, too. A teenager with a $300 iPad and Procreate has access to better [drawing](/drawing) tools than professional illustrators had 30 years ago. Online communities (DeviantArt, ArtStation, Instagram) provide instant global audiences. YouTube tutorials teach techniques that previously required expensive art school instruction.
 

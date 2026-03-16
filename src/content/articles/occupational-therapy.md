@@ -39,7 +39,7 @@ Occupational therapy (OT) is a healthcare profession that helps people of all ag
 
 ## Wait — What Does "Occupation" Mean Here?
 
-This is where most people get confused. In occupational therapy, "occupation" doesn't mean your job (though it can include that). It means any activity that occupies your time and gives your life meaning. Brushing your teeth. Playing with your kids. [Cooking](/cooking) dinner. Writing an email. Going to school. These are all "occupations" in OT language.
+This is where most people get confused. In occupational therapy, "occupation" doesn't mean your job (though it can include that). It means any activity that occupies your time and gives your life meaning. Brushing your teeth. Playing with your kids. [Cooking](/cooking) dinner. [Writing](/writing) an email. Going to school. These are all "occupations" in OT language.
 
 The idea is straightforward: your ability to do the things that matter to you is central to your health and quality of life. When something disrupts that ability — a stroke that weakens your dominant hand, a car accident that affects your memory, arthritis that makes opening jars impossible — the loss is more than physical. It affects your independence, your identity, and your [mental health](/mental-health).
 

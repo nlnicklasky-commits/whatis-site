@@ -35,13 +35,13 @@ faq:
 
 # What Is Philosophy of Education?
 
-Philosophy of education is the branch of [philosophy](/ethics) that asks the most basic questions about learning, teaching, and schooling: What is education actually for? What should we teach? How do people learn? Who gets to decide? And --- perhaps most importantly --- what kind of people and society do we want education to produce?
+[Philosophy](/philosophy) of education is the branch of [philosophy](/ethics) that asks the most basic questions about learning, teaching, and schooling: What is education actually for? What should we teach? How do people learn? Who gets to decide? And --- perhaps most importantly --- what kind of people and society do we want education to produce?
 
-These aren't abstract questions. Every school policy, every curriculum decision, every teaching method rests on answers to them, whether those answers are stated explicitly or just assumed.
+These aren't abstract questions. Every school policy, every curriculum decision, every [teaching](/teaching) method rests on answers to them, whether those answers are stated explicitly or just assumed.
 
 ## Why Education Needs Philosophy
 
-Here's something that might surprise you: most education debates aren't really about facts. They're about values.
+Here's something that might surprise you: most [education](/education) debates aren't really about facts. They're about values.
 
 Should schools focus on preparing students for jobs or developing their minds? Should every student learn the same things, or should education be personalized? Is the purpose of school to transmit cultural knowledge or to teach [critical thinking](/critical-thinking)? Should education prioritize individual achievement or community responsibility?
 
@@ -55,9 +55,9 @@ Philosophy of education is as old as philosophy itself. In fact, education was o
 
 ### Plato's Vision
 
-Plato (428-348 BCE) laid out the Western world's first systematic philosophy of education in *The Republic*. His vision was radical: education should be controlled by the state, children should be separated from their parents, and the entire system should be designed to identify and develop the most capable minds for leadership.
+Plato (428-348 BCE) laid out the Western world's first systematic philosophy of education in *The Republic*. His vision was radical: education should be controlled by the state, children should be separated from their parents, and the entire system should be designed to identify and develop the most capable minds for [leadership](/leadership).
 
-Plato's education was hierarchical. Most people would receive basic training and become workers or soldiers. The intellectually gifted would continue to advanced education in mathematics, dialectic, and philosophy, eventually becoming philosopher-kings --- rulers guided by wisdom rather than power or wealth.
+Plato's education was hierarchical. Most people would receive basic training and become workers or soldiers. The intellectually gifted would continue to advanced education in [mathematics](/mathematics), dialectic, and philosophy, eventually becoming philosopher-kings --- rulers guided by wisdom rather than power or wealth.
 
 Two ideas from Plato remain influential. First, that education should aim at truth rather than mere opinion. Plato's allegory of the cave --- where prisoners mistake shadows for reality until one escapes into sunlight --- is fundamentally a story about education liberating the mind from ignorance. Second, that what you study shapes who you become. Plato wasn't interested in filling heads with information; he wanted to transform souls.
 
@@ -67,7 +67,7 @@ Aristotle (384-322 BCE) agreed that education should develop virtue, but his app
 
 Aristotle also introduced the idea that education should aim at *eudaimonia* --- human flourishing. This isn't just happiness in the fleeting, feel-good sense. It's a life of purpose, virtue, and engagement. Education, for Aristotle, was about developing the full range of human capacities --- intellectual, moral, physical, and social.
 
-This distinction between Plato's idealism and Aristotle's practical focus has echoed through 2,400 years of educational thought. Every debate between "pure" academic education and "applied" practical education is, in some sense, a replay of Plato versus Aristotle.
+This distinction between Plato's idealism and Aristotle's practical focus has echoed through 2,400 years of educational thought. Every [debate](/debate) between "pure" academic education and "applied" practical education is, in some sense, a replay of Plato versus Aristotle.
 
 ## Enlightenment Revolutions: Locke and Rousseau
 
@@ -101,7 +101,7 @@ Traditional education, Dewey argued, treated students as passive vessels to be f
 
 Dewey's solution: education should be a process of guided experience. Students learn by doing --- by engaging with real problems, working collaboratively, and reflecting on their experiences. The teacher's role isn't to lecture or to stand aside, but to create rich learning environments and guide students through productive inquiry.
 
-His experimental school at the University of Chicago (1896-1904) put these ideas into practice. Children learned math by cooking (measuring ingredients), science by gardening, history by building things. It sounds like modern project-based learning --- because modern project-based learning is largely Dewey's legacy.
+His experimental school at the University of Chicago (1896-1904) put these ideas into practice. Children learned math by [cooking](/cooking) (measuring ingredients), science by [gardening](/gardening), history by building things. It sounds like modern project-based learning --- because modern project-based learning is largely Dewey's legacy.
 
 Dewey also insisted that education and democracy are inseparable. Schools aren't just preparation for democratic citizenship; they should be democratic communities themselves, where students practice collaborative decision-making and learn to consider diverse perspectives. *Democracy and Education* (1916) remains one of the most important books in the field.
 
@@ -115,7 +115,7 @@ Brazilian educator Paulo Freire (1921-1997) argued in *Pedagogy of the Oppressed
 
 Freire's alternative was "problem-posing education," where teachers and students engage in dialogue as equals, examining their lived experiences critically. Education should develop *conscientizacao* --- critical consciousness --- the ability to perceive social, political, and economic contradictions and take action against oppression.
 
-Freire's influence extends far beyond classrooms. His ideas shaped community organizing, social work, [public health](/public-health) education, and liberation movements worldwide. Whenever you hear someone talk about "critical pedagogy" or "empowerment through education," you're hearing Freire's echo.
+Freire's influence extends far beyond classrooms. His ideas shaped community organizing, [social work](/social-work), [public health](/public-health) education, and liberation movements worldwide. Whenever you hear someone talk about "critical pedagogy" or "empowerment through education," you're hearing Freire's echo.
 
 ### Postmodern and Feminist Critiques
 
@@ -131,13 +131,13 @@ These philosophical traditions translate into distinct approaches you can observ
 
 ### Perennialism
 
-Perennialists believe that certain ideas and works are timelessly important. Education should focus on the "Great Books" and enduring questions that have occupied human minds for centuries. Mortimer Adler's Paideia Proposal (1982) exemplified this approach: all students should study the same rigorous curriculum of literature, philosophy, history, science, and mathematics.
+Perennialists believe that certain ideas and works are timelessly important. Education should focus on the "Great Books" and enduring questions that have occupied human minds for centuries. Mortimer Adler's Paideia Proposal (1982) exemplified this approach: all students should study the same rigorous curriculum of [literature](/literature), philosophy, history, science, and mathematics.
 
 The appeal is democratic in a surprising way --- perennialists argue that every student deserves access to humanity's greatest intellectual achievements, not just the privileged few. The criticism is that "timeless" ideas are often selected by a narrow group, and the approach can feel disconnected from students' lived experiences.
 
 ### Essentialism
 
-Essentialists share perennialists' emphasis on academic rigor but focus on essential skills and knowledge needed for modern life. Reading, writing, mathematics, science, and history form the core. The teacher is the authority figure. Discipline and hard work are expected.
+Essentialists share perennialists' emphasis on academic rigor but focus on essential skills and knowledge needed for modern life. Reading, [writing](/writing), mathematics, science, and history form the core. The teacher is the authority figure. Discipline and hard work are expected.
 
 Most traditional public schools in the United States operate on broadly essentialist principles. The standards-based reform movement and standardized testing reflect essentialist assumptions: there's a defined body of knowledge every student should master, and we can measure whether they have.
 
@@ -149,9 +149,9 @@ Progressive schools often look very different from traditional ones --- more mov
 
 ### Constructivism
 
-Constructivism is both a learning theory and an educational philosophy. Drawing on Jean Piaget and Lev Vygotsky, constructivists argue that learners actively construct knowledge through experience rather than passively receiving it. You don't learn physics by memorizing formulas; you learn it by experimenting, failing, discussing, and rebuilding your understanding.
+Constructivism is both a learning theory and an educational philosophy. [Drawing](/drawing) on Jean Piaget and Lev Vygotsky, constructivists argue that learners actively construct knowledge through experience rather than passively receiving it. You don't learn [physics](/physics) by memorizing formulas; you learn it by experimenting, failing, discussing, and rebuilding your understanding.
 
-Vygotsky added the crucial concept of the "zone of proximal development" --- the gap between what a learner can do alone and what they can do with guidance. Effective education operates in this zone, providing just enough support (scaffolding) to help students reach the next level.
+Vygotsky added the crucial concept of the "zone of proximal development" --- the gap between what a learner can do alone and what they can do with guidance. Effective education operates in this zone, providing just enough support ([scaffolding](/scaffolding)) to help students reach the next level.
 
 ### [Existentialism](/existentialism) in Education
 

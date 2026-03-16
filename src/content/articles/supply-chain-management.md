@@ -33,7 +33,7 @@ faq:
 
 # What Is Supply Chain Management?
 
-Supply chain management (SCM) is the coordination of everything involved in getting a product from raw materials to a customer's hands. That includes sourcing, manufacturing, warehousing, transportation, and delivery — plus all the information and money flowing alongside those physical goods.
+Supply chain [management](/management) (SCM) is the coordination of everything involved in getting a product from raw materials to a customer's hands. That includes sourcing, manufacturing, warehousing, transportation, and delivery — plus all the information and money flowing alongside those physical goods.
 
 If you've ever ordered something online and tracked it from a factory in Shenzhen to your doorstep in four days, you've watched a supply chain work. If you've ever been told "out of stock, no estimated restock date," you've watched one fail.
 
@@ -59,7 +59,7 @@ Supply chain management typically breaks down into five interconnected areas:
 
 ## A Brief History of How We Got Here
 
-Supply chains have existed as long as trade has. The [Silk Road](/silk-road) was a supply chain. The East India Company ran supply chains. But the discipline of *managing* supply chains as an integrated system is surprisingly young.
+Supply chains have existed as long as [trade](/trade) has. The [Silk Road](/silk-road) was a supply chain. The East India Company ran supply chains. But the discipline of *managing* supply chains as an integrated system is surprisingly young.
 
 Before the 1980s, most companies treated procurement, manufacturing, and distribution as separate departments with separate goals. The purchasing department wanted the cheapest raw materials. The manufacturing floor wanted the longest production runs. The distribution team wanted the most flexible delivery options. These goals often conflicted, and nobody was optimizing the whole system.
 
@@ -77,7 +77,7 @@ Toyota pioneered this approach in the 1970s. The idea: keep as little inventory 
 
 The advantages are real. Less inventory means less capital tied up in unsold goods, less warehouse space needed, less risk of products becoming obsolete before they sell. Toyota's system was so effective that it became the standard for manufacturing worldwide.
 
-The downside? Zero buffer. When everything works, JIT is brilliantly efficient. When anything breaks — a port closure, a pandemic, a ship stuck in a canal — the whole system seizes up almost immediately. Companies running pure JIT had no inventory cushion when COVID-19 disrupted global shipping in 2020.
+The downside? Zero buffer. When everything works, JIT is brilliantly efficient. When anything breaks — a port closure, a pandemic, a ship stuck in a canal — the whole system seizes up almost immediately. Companies [running](/running) pure JIT had no inventory cushion when COVID-19 disrupted global shipping in 2020.
 
 ### Just-in-Case (JIC)
 
@@ -122,7 +122,7 @@ The response to these vulnerabilities has been a partial retreat from hyper-glob
 
 **Friendshoring** is a geopolitical concept — sourcing from allied nations to reduce dependence on potential adversaries. The U.S. CHIPS Act, which provides $52.7 billion in incentives for domestic semiconductor manufacturing, is friendshoring as policy.
 
-None of these are cheap. Manufacturing in the U.S. or Europe costs significantly more than in Southeast Asia. The calculation companies are making is that the cost of disruption — lost sales, customer defection, production halts — can outweigh the savings from low-cost manufacturing.
+None of these are cheap. Manufacturing in the U.S. or Europe costs significantly more than in Southeast Asia. The calculation companies are making is that the cost of disruption — lost [sales](/sales), customer defection, production halts — can outweigh the savings from low-cost manufacturing.
 
 ## Sustainability in Supply Chains
 

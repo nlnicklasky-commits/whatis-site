@@ -119,7 +119,7 @@ Wear is the progressive loss of material from a surface due to mechanical action
 
 ### Types of Wear
 
-**Adhesive wear** — occurs when asperity contact causes local welding and material transfer between surfaces. Small fragments are torn from one surface and transferred to or ejected from the other. This is the most common wear mechanism in sliding contacts.
+**Adhesive wear** — occurs when asperity contact causes local [welding](/welding) and material transfer between surfaces. Small fragments are torn from one surface and transferred to or ejected from the other. This is the most common wear mechanism in sliding contacts.
 
 **Abrasive wear** — occurs when hard particles (either loose debris or hard asperities on one surface) scratch and cut the softer surface. Think sandpaper on wood. Two-body abrasion (a hard surface scratching a soft one) and three-body abrasion (hard particles trapped between two surfaces) are both common.
 

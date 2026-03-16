@@ -35,7 +35,7 @@ faq:
 
 # What Is Greenhouse Management?
 
-Greenhouse management is the science and practice of controlling the growing environment inside a greenhouse to optimize plant growth, health, and [productivity](/productivity). It involves regulating temperature, humidity, light, carbon dioxide levels, irrigation, and nutrition while managing pests and diseases—essentially giving plants the ideal conditions they'd never reliably get outdoors. As global demand for food increases and arable land decreases, greenhouse management has become a critical component of modern [agriculture](/agriculture).
+Greenhouse [management](/management) is the science and practice of controlling the growing environment inside a greenhouse to optimize plant growth, health, and [productivity](/productivity). It involves regulating temperature, humidity, light, carbon dioxide levels, [irrigation](/irrigation), and [nutrition](/nutrition) while managing pests and diseases—essentially giving plants the ideal conditions they'd never reliably get outdoors. As global demand for food increases and arable land decreases, greenhouse management has become a critical component of modern [agriculture](/agriculture).
 
 ## Why Greenhouses Exist
 
@@ -49,7 +49,7 @@ Today, the reasons for growing under cover are more varied than ever:
 
 **Quality control**: Producing consistent, unblemished produce that meets retail standards. Supermarkets reject surprising amounts of field-grown produce for cosmetic reasons.
 
-**Water efficiency**: Greenhouses use 5-10 times less water than open-field farming because evaporation and runoff are minimized.
+**Water efficiency**: Greenhouses use 5-10 times less water than open-field [farming](/farming) because evaporation and runoff are minimized.
 
 **Pest reduction**: Physical barriers reduce pest pressure, decreasing or eliminating pesticide use.
 
@@ -73,7 +73,7 @@ Temperature is the single most important greenhouse variable. Most greenhouse cr
 
 ### Humidity
 
-Relative humidity affects transpiration (water loss from leaves), disease pressure, and pollination. Most crops prefer 60-80% relative humidity. Below 50%, plants close their stomata to conserve water, slowing growth. Above 85%, fungal diseases explode.
+Relative humidity affects transpiration (water loss from leaves), disease pressure, and [pollination](/pollination). Most crops prefer 60-80% relative humidity. Below 50%, plants close their stomata to conserve water, slowing growth. Above 85%, fungal diseases explode.
 
 Managing humidity is a constant balancing act. Plants transpire constantly, adding moisture to the enclosed greenhouse air. Without ventilation or dehumidification, humidity climbs rapidly. Dehumidification options include venting (exchanging moist inside air for drier outside air), heating (warm air holds more moisture, reducing relative humidity), and mechanical dehumidifiers (energy-intensive but precise).
 
@@ -103,7 +103,7 @@ Greenhouse irrigation has evolved far beyond the watering can.
 
 **Drip irrigation** delivers water directly to each plant's root zone through emitters, minimizing waste. It's the standard for most greenhouse crops.
 
-**Hydroponics** grows plants without soil, in nutrient solutions. Several hydroponic systems exist:
+**[Hydroponics](/hydroponics)** grows plants without soil, in nutrient solutions. Several hydroponic systems exist:
 - **Nutrient Film Technique (NFT)**: A thin film of nutrient solution flows past bare roots in channels
 - **Deep Water Culture**: Roots suspended in aerated nutrient solution
 - **Substrate culture**: Plants grown in inert media (rockwool, perlite, coconut coir) with nutrient solution applied via drip irrigation
@@ -128,7 +128,7 @@ Modern greenhouse operations overwhelmingly favor integrated pest management ove
 
 Biological control works especially well in greenhouses because the enclosed environment prevents beneficial organisms from dispersing. In the Netherlands, over 90% of greenhouse vegetable production uses biological pest control as the primary method—pesticide use has decreased by over 90% since the 1990s.
 
-**Physical controls**: Insect screens on vents prevent entry of flying pests. Sticky traps monitor and reduce populations. UV-blocking plastic films disorient certain insects. Hygiene protocols—cleaning between crops, removing plant debris, sanitizing tools—prevent disease carryover.
+**Physical controls**: Insect screens on vents prevent entry of flying pests. Sticky traps monitor and reduce populations. UV-blocking plastic films disorient certain insects. [Hygiene](/hygiene) protocols—cleaning between crops, removing plant debris, sanitizing tools—prevent disease carryover.
 
 **Cultural controls**: Proper spacing reduces humidity around foliage. Removing lower leaves improves air circulation. Grafting crops onto disease-resistant rootstocks eliminates soil-borne diseases. Resistant varieties reduce vulnerability to specific pathogens.
 
@@ -160,7 +160,7 @@ These systems respond faster and more consistently than human operators. They ca
 
 ### Robotics
 
-Greenhouse robotics is a growing field. Robots harvest tomatoes and peppers (though fruit-picking robots are still less efficient than human workers for most crops). Automated carts transport plants and supplies. UV-light robots treat powdery mildew at night without chemicals. Drone-mounted cameras scout for pest and disease outbreaks.
+Greenhouse [robotics](/robotics) is a growing field. Robots harvest tomatoes and peppers (though fruit-picking robots are still less efficient than human workers for most crops). Automated carts transport plants and supplies. UV-light robots treat powdery mildew at night without chemicals. Drone-mounted cameras scout for pest and disease outbreaks.
 
 Labor is typically the largest or second-largest cost in greenhouse operations (after energy). Automation addresses both cost and the increasing difficulty of finding seasonal agricultural workers in many countries.
 
@@ -192,7 +192,7 @@ Multi-wall polycarbonate panels offer better insulation than single-layer glass 
 
 ## Economics of Greenhouse Production
 
-Greenhouse farming is capital-intensive. Understanding the economics is essential for successful management.
+Greenhouse farming is capital-intensive. Understanding the [economics](/economics) is essential for successful management.
 
 **Revenue**: Greenhouse crops command premium prices due to higher quality, consistency, and off-season availability. Greenhouse tomatoes wholesale at $1.50-3.00 per pound; field tomatoes at $0.50-1.00. This premium justifies the higher production costs.
 
@@ -212,7 +212,7 @@ Greenhouse management is evolving rapidly. Several trends stand out:
 
 **Urban greenhouse integration**: Rooftop greenhouses on commercial buildings use waste heat from the building below while supplying fresh produce to the local market. Projects like Gotham Greens in New York and Montreal's Lufa Farms demonstrate the concept.
 
-**Climate adaptation**: As [climate change](/climatology) makes outdoor agriculture less predictable—more extreme heat waves, droughts, floods, and storms—controlled environment [agriculture](/agriculture) becomes increasingly attractive as insurance against weather variability.
+**Climate adaptation**: As [climate change](/climatology) makes outdoor agriculture less predictable—more extreme heat waves, droughts, floods, and storms—controlled environment [agriculture](/agriculture) becomes increasingly attractive as [insurance](/insurance) against weather variability.
 
 ## Key Takeaways
 

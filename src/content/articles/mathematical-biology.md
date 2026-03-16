@@ -68,7 +68,7 @@ That's it. Two equations with two parameters (infection rate and recovery rate) 
 - **Herd immunity threshold**: The fraction of the population that must be immune to prevent epidemic spread (1 - 1/R0).
 - **Epidemic curve shape**: The characteristic rise-peak-decline pattern that every epidemic follows.
 
-During COVID-19, every public health discussion about "flattening the curve," R0 values, and herd immunity thresholds traced directly back to this 1927 model. The basic framework was nearly a century old — what changed was the parameterization (what are the actual rates for this specific virus?) and the complications (age structure, spatial spread, behavioral changes, vaccination).
+During COVID-19, every [public health](/public-health) discussion about "flattening the curve," R0 values, and herd immunity thresholds traced directly back to this 1927 model. The basic framework was nearly a century old — what changed was the parameterization (what are the actual rates for this specific virus?) and the complications (age structure, spatial spread, behavioral changes, vaccination).
 
 This illustrates the power and limitations of mathematical biology simultaneously. The SIR model captures real dynamics that matter for policy decisions. But it also simplifies enormously — it ignores age structure, spatial heterogeneity, behavioral changes, asymptomatic transmission, and dozens of other real-world complications. More sophisticated models add these features, but they also become harder to analyze and harder to parameterize with real data.
 
@@ -82,7 +82,7 @@ Thomas Malthus observed in 1798 that populations grow exponentially when uncheck
 
 But exponential growth can't continue forever. Pierre-Francois Verhulst added a carrying capacity K in 1838, creating the logistic equation: dN/dt = rN(1 - N/K). As the population approaches K, growth slows and eventually stops. This single equation captures the essential dynamics of a population limited by resources.
 
-The logistic equation and its extensions remain workhorses of [ecology](/ecology), fisheries management, and conservation biology. They're simple enough to analyze mathematically but realistic enough to guide practical decisions about harvest rates and conservation targets.
+The logistic equation and its extensions remain workhorses of [ecology](/ecology), fisheries management, and [conservation biology](/conservation-biology). They're simple enough to analyze mathematically but realistic enough to guide practical decisions about harvest rates and conservation targets.
 
 ### Predator-Prey Dynamics
 
@@ -106,11 +106,11 @@ Robert May showed in 1976 that even the simplest population models can exhibit c
 
 This was genuinely shocking. It meant that wild population fluctuations didn't necessarily require external disturbances (weather, disease, human interference). Simple population dynamics could generate unpredictable behavior from purely deterministic rules.
 
-May's work connected mathematical biology to the broader field of nonlinear dynamics and chaos theory, showing that [calculus](/calculus) and dynamical systems theory had deep implications for understanding biological variability.
+May's work connected mathematical biology to the broader field of nonlinear dynamics and [chaos theory](/chaos-theory), showing that [calculus](/calculus) and dynamical [systems theory](/systems-theory) had deep implications for understanding biological variability.
 
 ## Epidemiology: Math Saves Lives
 
-Mathematical epidemiology — modeling how diseases spread — is the branch of mathematical biology with the most direct impact on human welfare.
+Mathematical [epidemiology](/epidemiology) — modeling how diseases spread — is the branch of mathematical biology with the most direct impact on human welfare.
 
 ### Beyond SIR
 
@@ -136,7 +136,7 @@ During the COVID-19 pandemic, mathematical models informed decisions about lockd
 
 Mathematical models of pathogen evolution predict how drug resistance spreads and identify strategies to slow it. The basic insight: using a drug creates selection pressure favoring resistant organisms. Models quantify this pressure and explore alternatives — combination therapies, cycling between drugs, and dosing strategies that minimize resistance evolution.
 
-This connects mathematical biology to [genetics](/genetics) and evolutionary biology — modeling how populations evolve under selection pressure requires both mathematical and biological expertise.
+This connects mathematical biology to [genetics](/genetics) and [evolutionary biology](/evolutionary-biology) — modeling how populations evolve under selection pressure requires both mathematical and biological expertise.
 
 ## Cellular and Molecular Biology: The Newest Frontier
 
@@ -144,11 +144,11 @@ Mathematical biology has expanded from population-level phenomena to cellular an
 
 ### Reaction Kinetics and Metabolic Networks
 
-Enzyme kinetics — how fast biochemical reactions proceed — has been mathematical since Michaelis and Menten derived their famous equation in 1913. Modern systems biology extends this to entire metabolic networks, modeling hundreds or thousands of interacting biochemical reactions simultaneously.
+Enzyme kinetics — how fast biochemical reactions proceed — has been mathematical since Michaelis and Menten derived their famous equation in 1913. Modern [systems biology](/systems-biology) extends this to entire metabolic networks, modeling hundreds or thousands of interacting biochemical reactions simultaneously.
 
-Flux balance analysis, for example, models metabolism as a linear programming problem — finding the metabolic fluxes (reaction rates) that maximize growth given available nutrients and thermodynamic constraints. This approach has been remarkably successful for predicting bacterial growth in different environments and for guiding metabolic [engineering](/engineering) efforts to produce biofuels, pharmaceuticals, and industrial chemicals.
+Flux balance analysis, for example, models metabolism as a [linear programming](/linear-programming) problem — finding the metabolic fluxes (reaction rates) that maximize growth given available nutrients and thermodynamic constraints. This approach has been remarkably successful for predicting bacterial growth in different environments and for guiding metabolic [engineering](/engineering) efforts to produce biofuels, pharmaceuticals, and industrial chemicals.
 
-The mathematics here involves linear algebra, optimization, and [differential equations](/differential-equations) — tools from [applied mathematics](/applied-mathematics) applied to [biochemistry](/biochemistry) problems.
+The mathematics here involves [linear algebra](/linear-algebra), [optimization](/optimization), and [differential equations](/differential-equations) — tools from [applied mathematics](/applied-mathematics) applied to [biochemistry](/biochemistry) problems.
 
 ### Gene Regulatory Networks
 
@@ -156,7 +156,7 @@ Genes don't act independently — they regulate each other in complex networks. 
 
 Mathematical models of gene regulation use ordinary differential equations (for continuous approximation), stochastic models (for the inherent randomness of molecular events in single cells), and Boolean networks (for simplified on/off representations).
 
-A famous result: genetic toggle switches and oscillators predicted by mathematical models were later constructed synthetically, confirming that the mathematical framework captures real biological dynamics. The synthetic biology field — designing biological systems from scratch — relies heavily on mathematical modeling.
+A famous result: genetic toggle switches and oscillators predicted by mathematical models were later constructed synthetically, confirming that the mathematical framework captures real biological dynamics. The [synthetic biology](/synthetic-biology) field — designing biological systems from scratch — relies heavily on [mathematical modeling](/mathematical-modeling).
 
 ### Pattern Formation
 
@@ -176,7 +176,7 @@ The Hodgkin-Huxley model (1952) describes how neurons generate electrical impuls
 
 Simpler models — FitzHugh-Nagumo, integrate-and-fire, and more recent abstractions — capture essential neural dynamics with fewer equations, making large-scale neural network modeling computationally feasible.
 
-Mathematical neuroscience now models everything from individual synapses to entire brain regions, using tools from dynamical systems theory, stochastic processes, information theory, and [machine learning](/machine-learning). The connection between biological neural networks and artificial neural networks used in [deep learning](/deep-learning) is not coincidental — both fields inform each other.
+Mathematical [neuroscience](/neuroscience) now models everything from individual synapses to entire brain regions, using tools from dynamical systems theory, stochastic processes, [information theory](/information-theory), and [machine learning](/machine-learning). The connection between biological [neural networks](/neural-networks) and artificial neural networks used in [deep learning](/deep-learning) is not coincidental — both fields inform each other.
 
 ### Decision-Making and Behavior
 
@@ -210,7 +210,7 @@ Partial differential equations (PDEs) add spatial dimensions — modeling diffus
 
 ### Stochastic Models
 
-Biological systems are inherently noisy. Gene expression involves random molecular collisions. Small populations experience demographic stochasticity. Environmental variation is unpredictable. Stochastic models — based on probability theory and random processes — capture this randomness.
+Biological systems are inherently noisy. Gene expression involves random molecular collisions. Small populations experience demographic stochasticity. Environmental variation is unpredictable. Stochastic models — based on [probability theory](/probability-theory) and random processes — capture this randomness.
 
 The Gillespie algorithm, for example, simulates biochemical reaction networks by tracking individual molecular events probabilistically. It reveals behaviors that deterministic models miss, such as bimodal gene expression distributions in genetically identical cells.
 

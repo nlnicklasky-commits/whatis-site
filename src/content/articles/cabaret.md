@@ -31,7 +31,7 @@ faq:
 
 # What Is Cabaret?
 
-Cabaret is a form of live entertainment featuring music, [comedy](/comedy), dance, drama, and spoken word, typically performed in intimate nightclub, bar, or restaurant settings where audiences sit at tables rather than in theater-style seating. The close proximity between performer and audience creates an electric, interactive atmosphere that larger venues can't replicate.
+Cabaret is a form of live entertainment featuring music, [comedy](/comedy), [dance](/dance), [drama](/drama), and spoken word, typically performed in intimate nightclub, bar, or restaurant settings where audiences sit at tables rather than in theater-style seating. The close proximity between performer and audience creates an electric, interactive atmosphere that larger venues can't replicate.
 
 ## Born in Bohemian Paris
 

@@ -31,7 +31,7 @@ faq:
 
 # What Is Sports Writing?
 
-Sports writing is [journalism](/journalism) and literary nonfiction focused on athletic competition, the people who play and coach sports, and the cultural significance of sports in society. It ranges from the game recap you read on your phone at midnight to longform narratives about athletes that rival the best magazine writing produced in any subject area.
+Sports [writing](/writing) is [journalism](/journalism) and literary nonfiction focused on athletic competition, the people who play and coach sports, and the cultural significance of sports in society. It ranges from the game recap you read on your phone at midnight to longform narratives about athletes that rival the best magazine writing produced in any subject area.
 
 The craft has been around as long as organized sports. Newspapers began covering [boxing](/boxing) and [horse racing](/horse-racing) in the 1800s. The "Golden Age of Sports Writing" in the 1920s produced writers like Grantland Rice and Ring Lardner who elevated sports coverage from results to [storytelling](/storytelling). Today, sports writing spans game coverage, analysis, investigative reporting, features, opinion columns, and statistical analysis — published through newspapers, websites, podcasts, newsletters, and social media.
 

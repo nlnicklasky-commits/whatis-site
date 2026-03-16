@@ -33,7 +33,7 @@ faq:
 
 # What Is Personal Training?
 
-Personal training is individualized fitness coaching delivered by a certified professional who designs exercise programs based on your specific goals, fitness level, and health history. Whether you want to lose 30 pounds, run a marathon, or just stop feeling winded climbing stairs, a personal trainer builds a plan around you — not a generic template printed off the internet.
+Personal training is individualized [fitness](/fitness) [coaching](/coaching) delivered by a certified professional who designs exercise programs based on your specific goals, fitness level, and health history. Whether you want to lose 30 pounds, run a marathon, or just stop feeling winded climbing stairs, a personal trainer builds a plan around you — not a generic template printed off the internet.
 
 The profession has grown significantly since the 1980s. The Bureau of Labor [Statistics](/statistics) reported roughly 327,000 fitness trainers and instructors working in the U.S. in 2022, and projects the field will grow by about 14% through 2032 — much faster than average.
 
@@ -54,7 +54,7 @@ From there, the trainer works with you to set specific, measurable goals. "Get i
 This is where the real expertise shows up. A well-designed training program accounts for:
 
 - **Progressive overload** — gradually increasing weight, volume, or intensity so your body keeps adapting
-- **Periodization** — cycling through different training phases to prevent burnout and overtraining
+- **Periodization** — [cycling](/cycling) through different training phases to prevent burnout and overtraining
 - **Movement balance** — making sure you're not hammering your chest five days a week while ignoring your back (a surprisingly common mistake)
 - **Recovery needs** — because your muscles grow during rest, not during the workout itself
 
@@ -148,7 +148,7 @@ The highest-value period for personal training is arguably the first three to si
 
 A few clarifications worth making.
 
-Personal trainers are not physical therapists. If you're recovering from a surgery or managing a diagnosed musculoskeletal condition, you need a licensed [physical therapist](/physical-therapy) first. A good trainer will recognize when something is beyond their scope and refer you out.
+Personal trainers are not physical therapists. If you're recovering from a [surgery](/surgery) or managing a diagnosed musculoskeletal condition, you need a licensed [physical therapist](/physical-therapy) first. A good trainer will recognize when something is beyond their scope and refer you out.
 
 Personal trainers are not dietitians. They can share general [nutrition](/nutrition) principles (eat more protein, drink more water), but creating clinical meal plans or managing medical nutrition therapy falls outside their scope of practice in most states.
 

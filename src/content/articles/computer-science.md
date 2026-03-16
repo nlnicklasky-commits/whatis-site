@@ -39,7 +39,7 @@ faq:
 
 # What Is Computer Science?
 
-Computer science is the study of computation — the theory, design, and application of algorithms, data structures, and systems that process information. It's not about computers in the same way astronomy isn't about telescopes. Computers are the tool; the science is about what can be computed, how efficiently, and what the fundamental limits are.
+Computer science is the study of computation — the theory, design, and application of algorithms, [data structures](/data-structures), and systems that process information. It's not about computers in the same way astronomy isn't about telescopes. Computers are the tool; the science is about what can be computed, how efficiently, and what the fundamental limits are.
 
 ## Computer Science Is Not What Most People Think
 
@@ -47,7 +47,7 @@ Let's clear up a misconception right away. Computer science is not "learning to 
 
 The field asks questions like: Can this problem be solved by any algorithm, ever? If so, how fast can we solve it? What's the minimum amount of memory we need? Can we prove our solution is correct? How do we build systems that work reliably when individual parts fail?
 
-These are mathematical and logical questions that happen to have profound practical implications. The answers determine what your phone can do, how search engines find results in milliseconds, why encryption keeps your banking safe, and whether artificial intelligence will keep improving.
+These are mathematical and logical questions that happen to have profound practical implications. The answers determine what your phone can do, how search engines find results in milliseconds, why encryption keeps your banking safe, and whether [artificial intelligence](/artificial-intelligence) will keep improving.
 
 ## A Brief History: From Turing to Today
 
@@ -55,13 +55,13 @@ These are mathematical and logical questions that happen to have profound practi
 
 Computer science existed before computers did. In 1936, Alan Turing published a paper describing an abstract machine — now called a Turing machine — that could compute anything computable by following simple rules on an infinite tape. The same year, Alonzo Church developed lambda calculus, a formal system for expressing computation through function application.
 
-These two models turned out to be equivalent in power (the Church-Turing thesis), establishing a fundamental boundary: anything one computational model can compute, any other sufficiently powerful model can compute too. This is why all programming languages are theoretically equivalent — they can all compute the same things, even if some make certain tasks easier.
+These two models turned out to be equivalent in power (the Church-Turing thesis), establishing a fundamental boundary: anything one computational model can compute, any other sufficiently powerful model can compute too. This is why all [programming languages](/programming-languages) are theoretically equivalent — they can all compute the same things, even if some make certain tasks easier.
 
 During World War II, the first electronic computers were built. Colossus at Bletchley Park broke German codes. ENIAC at the University of Pennsylvania computed artillery firing tables. These room-sized machines demonstrated that electronic computation was practical, not just theoretical.
 
 ### The Software Revolution (1950s-1970s)
 
-The 1950s brought high-level programming languages. FORTRAN (1957) let scientists write formulas instead of machine code. LISP (1958) brought functional programming. COBOL (1959) targeted business applications. Each language represented a leap in abstraction — programmers could think about problems rather than hardware details.
+The 1950s brought high-level programming languages. FORTRAN (1957) let scientists write formulas instead of machine code. LISP (1958) brought [functional programming](/functional-programming). COBOL (1959) targeted business applications. Each language represented a leap in abstraction — programmers could think about problems rather than hardware details.
 
 Operating systems emerged to manage hardware resources. Time-sharing systems let multiple users share a single expensive computer. UNIX (1969) introduced concepts — files as byte streams, pipes, the shell — that still shape computing today.
 
@@ -71,13 +71,13 @@ The 1960s and 1970s saw the field's theoretical foundations solidify. Donald Knu
 
 Personal computers put computing in everyone's hands. The graphical user interface (Xerox PARC, then Apple, then Microsoft) made computers accessible to non-experts. [Object-oriented programming](/object-oriented-programming) (Smalltalk, C++, Java) became the dominant programming model.
 
-The internet — built on networking protocols developed since the 1960s — went public in the 1990s. The World Wide Web (Tim Berners-Lee, 1989) layered hypertext on top of the internet, creating the information architecture we know today. This triggered an explosion of applied [computer networking](/computer-networking), web development, and e-commerce.
+The internet — built on networking protocols developed since the 1960s — went public in the 1990s. The World Wide Web (Tim Berners-Lee, 1989) layered hypertext on top of the internet, creating the [information architecture](/information-architecture) we know today. This triggered an explosion of applied [computer networking](/computer-networking), web development, and e-commerce.
 
 ### The Modern Era (2010s-Present)
 
 [Machine learning](/machine-learning) and artificial intelligence, after multiple "AI winters," finally delivered on decades of promises. Deep learning (neural networks with many layers) enabled breakthroughs in image recognition, [natural language processing](/natural-language-processing), game playing, and code generation.
 
-Cloud computing shifted infrastructure from owned hardware to rented services. Mobile computing put powerful networked computers in every pocket. The data generated by billions of connected devices created both opportunities (data science, analytics) and challenges ([security](/computer-security), privacy, ethics).
+[Cloud computing](/cloud-computing) shifted infrastructure from owned hardware to rented services. Mobile computing put powerful networked computers in every pocket. The data generated by billions of connected devices created both opportunities (data science, analytics) and challenges ([security](/computer-security), privacy, ethics).
 
 ## The Core Areas of Computer Science
 
@@ -97,7 +97,7 @@ This branch asks the deepest questions: What can computers actually do?
 
 **Computability theory** studies what problems can be solved algorithmically at all. Turing proved in 1936 that some problems are undecidable — no algorithm can solve them. The halting problem (determining whether an arbitrary program will eventually stop or run forever) is the most famous example. This isn't a limitation of current technology; it's a mathematical impossibility.
 
-**Complexity theory** asks: among solvable problems, which ones can be solved efficiently? Problems are grouped into complexity classes. P contains problems solvable in polynomial time (efficient). NP contains problems whose solutions can be verified in polynomial time. The P vs. NP question — whether every problem whose solution can be quickly verified can also be quickly solved — is the most important open problem in computer science. The Clay Mathematics Institute offers a $1 million prize for its resolution.
+**[Complexity theory](/complexity-theory)** asks: among solvable problems, which ones can be solved efficiently? Problems are grouped into complexity classes. P contains problems solvable in polynomial time (efficient). NP contains problems whose solutions can be verified in polynomial time. The P vs. NP question — whether every problem whose solution can be quickly verified can also be quickly solved — is the most important open problem in computer science. The Clay Mathematics Institute offers a $1 million prize for its resolution.
 
 This might sound purely academic, but it has massive real-world implications. Modern [encryption](/computer-security) relies on the assumption that certain problems (like factoring enormous numbers) are hard to solve but easy to verify. If P = NP, most current encryption would be breakable.
 
@@ -135,19 +135,19 @@ Databases store, organize, and retrieve data efficiently. They're the backbone o
 
 **NoSQL databases** sacrifice some relational features for scalability and flexibility. Document stores (MongoDB), key-value stores (Redis), column-family stores (Cassandra), and graph databases (Neo4j) each optimize for different access patterns.
 
-Database design — normalization, indexing, query optimization — directly impacts application performance. A poorly designed database query can take minutes; a well-designed one takes milliseconds against the same data.
+[Database design](/database-design) — normalization, indexing, query optimization — directly impacts application performance. A poorly designed database query can take minutes; a well-designed one takes milliseconds against the same data.
 
 ### Artificial Intelligence and Machine Learning
 
-AI has gone from science fiction to the most active area in computer science. The subfields include:
+AI has gone from [science fiction](/science-fiction) to the most active area in computer science. The subfields include:
 
-**[Machine learning](/machine-learning)** — systems that improve from experience. Supervised learning (labeled training data), unsupervised learning (finding patterns in unlabeled data), and reinforcement learning (learning through trial and error in an environment).
+**[Machine learning](/machine-learning)** — systems that improve from experience. Supervised learning (labeled training data), unsupervised learning (finding patterns in unlabeled data), and [reinforcement learning](/reinforcement-learning) (learning through trial and error in an environment).
 
-**Deep learning** — neural networks with many layers that can learn complex patterns. Convolutional networks for images. Transformers for language. Diffusion models for generation.
+**Deep learning** — [neural networks](/neural-networks) with many layers that can learn complex patterns. Convolutional networks for images. Transformers for language. Diffusion models for generation.
 
 **Natural language processing** — understanding and generating human language. Large language models (LLMs) like GPT and Claude can write, summarize, translate, and reason about text with impressive fluency.
 
-**Computer vision** — understanding images and video. Object detection, facial recognition, medical image analysis, autonomous vehicle perception.
+**[Computer vision](/computer-vision)** — understanding images and video. Object detection, facial recognition, medical image analysis, autonomous vehicle perception.
 
 **Robotics** — combining AI with physical systems. Path planning, manipulation, human-robot interaction.
 
@@ -155,7 +155,7 @@ AI has gone from science fiction to the most active area in computer science. Th
 
 [Computer graphics](/computer-graphics) turns mathematical descriptions into visual content. 3D rendering, animation, image processing, virtual reality — all deeply rooted in computer science theory (linear algebra, geometry, optics simulation).
 
-Scientific visualization turns abstract data into understandable images. Medical imaging, weather simulation, molecular modeling — graphics makes the invisible visible.
+Scientific visualization turns abstract data into understandable images. [Medical imaging](/medical-imaging), weather simulation, molecular modeling — graphics makes the invisible visible.
 
 ### Networks and Distributed Systems
 
@@ -165,7 +165,7 @@ The challenges are deceptively hard. Network partitions, machine failures, clock
 
 ## The Subfield That Changed Everything: Software Engineering
 
-While computer science asks "what can be computed?" software engineering asks "how do we build software that actually works?" The distinction matters because most software failures aren't algorithmic — they're engineering failures. Requirements misunderstood, systems too complex to maintain, bugs introduced during changes.
+While computer science asks "what can be computed?" [software engineering](/software-engineering) asks "how do we build software that actually works?" The distinction matters because most software failures aren't algorithmic — they're engineering failures. Requirements misunderstood, systems too complex to maintain, bugs introduced during changes.
 
 Software engineering encompasses:
 
@@ -212,9 +212,9 @@ These aren't just philosophical questions. They influence policy, legislation, a
 
 ## Where Computer Science Is Heading
 
-**AI and machine learning** will continue dominating research and industry investment. The trajectory from pattern recognition to reasoning capabilities suggests increasingly general AI systems, though the timeline for artificial general intelligence (AGI) remains debated.
+**AI and machine learning** will continue dominating research and industry investment. The trajectory from [pattern recognition](/pattern-recognition) to reasoning capabilities suggests increasingly general AI systems, though the timeline for artificial general intelligence (AGI) remains debated.
 
-**Quantum computing** threatens to upend complexity theory. Problems that are hard for classical computers (certain optimization, cryptography, molecular simulation) may become tractable for quantum computers. Practical, large-scale quantum computers are still years away, but the theoretical implications are already reshaping [computer security](/computer-security) planning.
+**[Quantum computing](/quantum-computing)** threatens to upend complexity theory. Problems that are hard for classical computers (certain optimization, cryptography, molecular simulation) may become tractable for quantum computers. Practical, large-scale quantum computers are still years away, but the theoretical implications are already reshaping [computer security](/computer-security) planning.
 
 **Biological computing** — DNA storage, molecular computation, brain-computer interfaces — blurs the line between computer science and biology.
 

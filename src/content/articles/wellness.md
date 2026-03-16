@@ -43,7 +43,7 @@ The modern wellness movement has more specific origins. In the 1950s, Halbert Du
 
 In the 1970s, Don Ardell and John Travis built on Dunn's work, creating wellness centers and assessment tools. Travis's "Illness-Wellness Continuum" became a foundational model: it showed that neutrality (no symptoms, no disease) sat in the middle, with illness on one side and higher levels of wellness on the other. The implication was clear — being "not sick" wasn't the finish line.
 
-The wellness industry exploded in the 2000s and 2010s, fueled by social media, celebrity endorsements, and a growing body of research linking lifestyle factors to disease prevention. The Global Wellness Institute valued the global wellness economy at $5.6 trillion in 2022, encompassing everything from gym memberships and organic food to spa treatments and wellness tourism.
+The wellness industry exploded in the 2000s and 2010s, fueled by social media, celebrity endorsements, and a growing body of research linking lifestyle factors to disease prevention. The Global Wellness Institute valued the global wellness economy at $5.6 trillion in 2022, encompassing everything from gym memberships and organic food to spa treatments and wellness [tourism](/tourism).
 
 ## The Dimensions of Wellness
 
@@ -51,7 +51,7 @@ Wellness frameworks vary, but most break the concept into six to eight interconn
 
 ### Physical Wellness
 
-This is the most visible dimension — the one people usually mean when they say "wellness." It covers exercise, nutrition, sleep, and preventive healthcare.
+This is the most visible dimension — the one people usually mean when they say "wellness." It covers exercise, [nutrition](/nutrition), sleep, and preventive healthcare.
 
 The numbers on physical wellness are well-established. Adults need at least 150 minutes of moderate aerobic activity per week (or 75 minutes of vigorous activity). They need 7-9 hours of sleep per night. They need a diet that includes fruits, vegetables, whole grains, and lean protein while limiting processed food, added sugar, and excessive alcohol.
 
@@ -77,7 +77,7 @@ The research on cognitive engagement is compelling. The "cognitive reserve" hypo
 
 ### Spiritual Wellness
 
-Spiritual wellness is the most personal and most frequently misunderstood dimension. It doesn't require religion — though religion can provide it. Spiritual wellness is about having a sense of purpose, meaning, and connection to something larger than yourself.
+Spiritual wellness is the most personal and most frequently misunderstood dimension. It doesn't require [religion](/religion) — though religion can provide it. Spiritual wellness is about having a sense of purpose, meaning, and connection to something larger than yourself.
 
 Research consistently links spiritual wellness to better health outcomes. People with a strong sense of purpose have lower rates of depression, better immune function, and longer lifespans. A 2019 study in *JAMA Network Open* found that having a strong sense of purpose was associated with a 15.2% lower risk of death from any cause.
 
@@ -111,7 +111,7 @@ Here's where things get tricky. The core of wellness — exercise, sleep, nutrit
 
 **Little or no evidence:** Detox cleanses (your liver and kidneys handle detoxification), crystal healing, most "superfood" [marketing](/marketing) claims, colonic [irrigation](/irrigation), ear candling.
 
-The wellness industry's financial incentives don't always align with scientific evidence. A product that genuinely works — like walking 30 minutes a day — is free and therefore unprofitable. A $90 adaptogenic mushroom blend with vague health claims generates revenue. This creates a natural bias toward selling products and away from recommending the free, boring basics.
+The wellness industry's financial incentives don't always align with scientific evidence. A product that genuinely works — like [walking](/walking) 30 minutes a day — is free and therefore unprofitable. A $90 adaptogenic mushroom blend with vague health claims generates revenue. This creates a natural bias toward selling products and away from recommending the free, boring basics.
 
 ## Practical Wellness: What Actually Works
 

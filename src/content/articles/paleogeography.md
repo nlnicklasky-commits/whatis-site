@@ -47,7 +47,7 @@ Alfred Wegener proposed continental drift in 1912, pointing out that the coastli
 
 The answer came in the 1960s with [plate tectonics](/plate-tectonics). Earth's outer shell (the lithosphere) is divided into about 15 major plates that float on the partially molten asthenosphere below. Convection currents in the mantle — driven by Earth's internal heat — push these plates apart at mid-ocean ridges (where new crust forms), slide them past each other at transform faults (like the San Andreas), and drive them together at subduction zones (where one plate dives beneath another).
 
-This isn't just a theory in the everyday sense of "guess." Plate tectonics is supported by an overwhelming convergence of evidence from [geology](/geology), [geophysics](/geophysics), paleontology, paleomagnetism, [oceanography](/oceanography), and now direct GPS measurement. We can watch the continents move in real time. North America and Europe separate by about 2.5 centimeters per year — the Atlantic Ocean is literally growing while you read this.
+This isn't just a theory in the everyday sense of "guess." Plate [tectonics](/tectonics) is supported by an overwhelming convergence of evidence from [geology](/geology), [geophysics](/geophysics), paleontology, paleomagnetism, [oceanography](/oceanography), and now direct GPS measurement. We can watch the continents move in real time. North America and Europe separate by about 2.5 centimeters per year — the Atlantic Ocean is literally growing while you read this.
 
 ## Reading the Rocks: How Paleogeography Works
 
@@ -55,13 +55,13 @@ Reconstructing ancient geography requires extracting location information from r
 
 ### Paleomagnetism: The Compass in the Rocks
 
-When lava cools or sediments settle, iron-bearing minerals align with Earth's magnetic field like tiny compass needles, then lock in place. Millions of years later, a paleomagnetist can measure this preserved magnetism and determine:
+When lava cools or sediments settle, iron-bearing minerals align with Earth's magnetic field like tiny compass needles, then lock in place. Millions of years later, a paleomagnetist can measure this preserved [magnetism](/magnetism) and determine:
 
 **Paleolatitude** — how far from the equator the rock formed. Earth's magnetic field is horizontal at the equator and vertical at the poles, so the dip angle of the preserved magnetism reveals the latitude.
 
 **Polarity** — Earth's magnetic field periodically reverses (north becomes south and vice versa). The pattern of reversals preserved in ocean floor basalts created the magnetic stripe pattern that confirmed seafloor spreading in the 1960s — one of the key pieces of evidence for plate tectonics.
 
-Paleomagnetism provides latitude but not longitude (because the magnetic field is symmetric around the rotation axis). Pinning down ancient longitude requires additional evidence — geological connections between continents, paleoclimate data, and the geometry of plate boundaries.
+Paleomagnetism provides latitude but not longitude (because the magnetic field is symmetric around the rotation axis). Pinning down ancient longitude requires additional evidence — geological connections between continents, paleoclimate data, and the [geometry](/geometry) of plate boundaries.
 
 ### Fossils as Geographic Evidence
 
@@ -167,7 +167,7 @@ Regardless of which model is correct, the pattern of supercontinent assembly and
 
 ## Why Paleogeography Matters
 
-Paleogeography connects [earth science](/earth-science), biology, and climatology into a unified narrative of planetary change. It explains why identical fossils appear on different continents, why climate has swung between hothouse and icehouse states, why the Himalayas exist, why Australia has unique animals, and why oil deposits are found in specific geological settings (ancient seas that deposited organic-rich sediments).
+Paleogeography connects [earth science](/earth-science), [biology](/biology), and climatology into a unified narrative of planetary change. It explains why identical fossils appear on different continents, why climate has swung between hothouse and icehouse states, why the Himalayas exist, why Australia has unique animals, and why oil deposits are found in specific geological settings (ancient seas that deposited organic-rich sediments).
 
 For practical purposes, paleogeographic knowledge guides resource exploration (petroleum, minerals, and groundwater all have distributions controlled by past geography), informs climate modeling (past configurations provide test cases for models predicting future change), and provides the deep-time perspective necessary for understanding how Earth systems work over timescales that no human experiment can replicate.
 

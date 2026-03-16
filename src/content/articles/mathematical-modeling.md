@@ -39,9 +39,9 @@ faq:
 
 Mathematical modeling is the process of translating a real-world system or problem into mathematical language — equations, inequalities, logical rules, statistical relationships — and then using that mathematical description to understand, predict, or optimize the system's behavior.
 
-The statistician George Box wrote what might be the most quoted sentence in all of applied mathematics: "All models are wrong, but some are useful." He was right on both counts. No mathematical model perfectly captures reality — reality is too complicated, too detailed, too messy. But good models capture enough of reality to make better decisions than you could make without them.
+The statistician George Box wrote what might be the most quoted sentence in all of [applied mathematics](/applied-mathematics): "All models are wrong, but some are useful." He was right on both counts. No mathematical model perfectly captures reality — reality is too complicated, too detailed, too messy. But good models capture enough of reality to make better decisions than you could make without them.
 
-Weather forecasts are mathematical models. The aerodynamics keeping your plane in the air were validated using mathematical models. The drug dosages on your prescription were determined partly through pharmacokinetic modeling. COVID-19 lockdown decisions were informed by epidemiological models. Mathematical modeling is everywhere, doing quietly useful work behind the scenes.
+Weather forecasts are mathematical models. The [aerodynamics](/aerodynamics) keeping your plane in the air were validated using mathematical models. The drug dosages on your prescription were determined partly through pharmacokinetic modeling. COVID-19 lockdown decisions were informed by epidemiological models. Mathematical modeling is everywhere, doing quietly useful work behind the scenes.
 
 ## The Modeling Process: How It Actually Works
 
@@ -51,7 +51,7 @@ Mathematical modeling isn't just writing equations. It's a structured process wi
 
 What are you actually trying to understand or predict? This sounds obvious, but getting the question right is half the battle.
 
-"How does climate change?" is too vague. "What is the global mean surface temperature in 2100 under different CO2 emission scenarios?" is specific enough to model. The precision of your question determines the structure of your model.
+"How does [climate change](/climate-change)?" is too vague. "What is the global mean surface temperature in 2100 under different CO2 emission scenarios?" is specific enough to model. The precision of your question determines the structure of your model.
 
 At this stage, you identify the key variables (what changes?), the inputs (what drives the system?), the outputs (what do you want to predict?), and the boundaries (what's inside the model and what's outside?).
 
@@ -72,11 +72,11 @@ Now you translate assumptions into equations. This is where mathematical skill m
 
 Common mathematical frameworks include:
 
-**[Differential equations](/differential-equations)**: If the system changes continuously over time, ordinary differential equations (ODEs) describe how state variables evolve. Partial differential equations (PDEs) add spatial variation. The equations of [fluid dynamics](/fluid-dynamics), heat transfer, and population dynamics are all differential equations.
+**[Differential equations](/differential-equations)**: If the system changes continuously over time, ordinary differential equations (ODEs) describe how state variables evolve. Partial differential equations (PDEs) add spatial variation. The equations of [fluid dynamics](/fluid-dynamics), [heat transfer](/heat-transfer), and population dynamics are all differential equations.
 
 **Difference equations**: If the system updates in discrete time steps (population counts by generation, financial returns by month), difference equations are the appropriate framework.
 
-**Optimization**: If you want to find the best decision among alternatives, optimization models — linear programming, nonlinear programming, integer programming — formalize the objective function, decision variables, and constraints.
+**[Optimization](/optimization)**: If you want to find the best decision among alternatives, optimization models — [linear programming](/linear-programming), nonlinear programming, [integer programming](/integer-programming) — formalize the objective function, decision variables, and constraints.
 
 **Statistical models**: If the system is inherently variable and you have data, regression, time series analysis, and Bayesian models capture relationships probabilistically rather than deterministically.
 
@@ -116,13 +116,13 @@ What does the model tell you? This goes beyond "the answer is 42" to understandi
 
 Thomas Malthus's exponential growth model (1798) and Pierre-Francois Verhulst's logistic growth model (1838) are among the earliest and most influential mathematical models. The logistic equation — dN/dt = rN(1 - N/K) — captures the fundamental active of a population growing toward a carrying capacity with just two parameters.
 
-Lotka-Volterra predator-prey models, SIR epidemic models, and age-structured population models extend these foundations. They're used daily in [ecology](/ecology), epidemiology, fisheries management, and conservation biology.
+Lotka-Volterra predator-prey models, SIR epidemic models, and age-structured population models extend these foundations. They're used daily in [ecology](/ecology), [epidemiology](/epidemiology), fisheries management, and [conservation biology](/conservation-biology).
 
 ### Physical Models
 
 Newton's laws of motion are mathematical models — extraordinarily successful ones that predict planetary orbits, bridge loads, and rocket trajectories. Maxwell's equations model electromagnetic phenomena. The Navier-Stokes equations model [fluid dynamics](/fluid-dynamics). Schrodinger's equation models quantum behavior.
 
-These physics-based models are among the most precisely validated in all of science. Newton's gravitational model predicts planetary positions to extraordinary accuracy. But they're still models — Einstein's general relativity corrects Newton's model in the regime of strong gravitational fields and high velocities.
+These physics-based models are among the most precisely validated in all of science. Newton's gravitational model predicts planetary positions to extraordinary accuracy. But they're still models — Einstein's [general relativity](/general-relativity) corrects Newton's model in the regime of strong gravitational fields and high velocities.
 
 ### Engineering Models
 
@@ -132,7 +132,7 @@ Finite element analysis (FEA) — dividing a complex structure into thousands of
 
 ### Climate Models
 
-Global climate models (General Circulation Models, or GCMs) are among the most complex mathematical models ever built. They divide Earth's atmosphere, ocean, and land surface into a three-dimensional grid and solve equations for fluid dynamics, thermodynamics, radiation, and chemical reactions in each grid cell.
+Global climate models (General Circulation Models, or GCMs) are among the most complex mathematical models ever built. They divide Earth's atmosphere, ocean, and land surface into a three-dimensional grid and solve equations for fluid dynamics, [thermodynamics](/thermodynamics), radiation, and chemical reactions in each grid cell.
 
 A modern climate model might have millions of grid cells, dozens of interacting processes, and thousands of parameters. Running a century-long climate simulation can take weeks on a supercomputer. The results inform policy decisions affecting billions of people.
 
@@ -168,7 +168,7 @@ The choice matters. A deterministic epidemic model might predict a smooth epidem
 
 **Continuous models** treat variables as changing smoothly in continuous time. Differential equations are the tool.
 
-**Discrete models** treat variables as changing in steps. Difference equations, cellular automata, and agent-based models work in discrete time or space.
+**Discrete models** treat variables as changing in steps. Difference equations, [cellular automata](/cellular-automata), and agent-based models work in discrete time or space.
 
 The choice depends on the system. Fluid flow is inherently continuous. Population genetics in non-overlapping generations is inherently discrete. Many systems can be modeled either way, with the choice depending on mathematical convenience.
 
@@ -188,7 +188,7 @@ Mathematical modeling is powerful but can go badly wrong.
 
 ### Overfitting
 
-A model with enough parameters can fit any dataset, but it won't predict well. The classic illustration: a polynomial of degree 20 can pass exactly through 21 data points, but the polynomial's behavior between and beyond those points is wildly unreliable.
+A model with enough parameters can fit any dataset, but it won't predict well. The classic [illustration](/illustration): a polynomial of degree 20 can pass exactly through 21 data points, but the polynomial's behavior between and beyond those points is wildly unreliable.
 
 ### Ignoring Uncertainty
 
@@ -212,7 +212,7 @@ More complex models aren't always better. A simple model that captures the domin
 
 The explosion of data from sensors, satellites, genomics, and social media is changing how models are built. Traditional modeling starts from theory; data-driven modeling starts from data. [Data science](/data-science) and [machine learning](/machine-learning) techniques discover patterns and relationships that might not be predicted by theory.
 
-Physics-informed neural networks (PINNs) represent an exciting hybrid — neural networks constrained to satisfy known physical laws, combining data-driven flexibility with mechanistic grounding.
+Physics-informed [neural networks](/neural-networks) (PINNs) represent an exciting hybrid — neural networks constrained to satisfy known physical laws, combining data-driven flexibility with mechanistic grounding.
 
 ### Digital Twins
 
@@ -224,11 +224,11 @@ Rigorous uncertainty quantification — understanding how uncertain inputs propa
 
 ### Multi-Scale and Multi-Physics Models
 
-Many real-world systems involve multiple scales and multiple physical phenomena. Modeling blood flow requires coupling [fluid dynamics](/fluid-dynamics) with solid mechanics (vessel walls), chemical transport (dissolved gases), and cellular dynamics (red blood cells). Building these coupled models is technically challenging but increasingly necessary.
+Many real-world systems involve multiple scales and multiple physical phenomena. Modeling blood flow requires coupling [fluid dynamics](/fluid-dynamics) with [solid mechanics](/solid-mechanics) (vessel walls), chemical transport (dissolved gases), and cellular dynamics (red blood cells). Building these coupled models is technically challenging but increasingly necessary.
 
 ## The Essential Message
 
-Mathematical modeling is the art and science of translating reality into mathematics and back again. It's not about the equations themselves — it's about the thinking process: identifying what matters, making assumptions explicit, translating understanding into formal language, testing predictions against reality, and communicating results honestly.
+Mathematical modeling is the art and science of translating reality into [mathematics](/mathematics) and back again. It's not about the equations themselves — it's about the thinking process: identifying what matters, making assumptions explicit, translating understanding into formal language, testing predictions against reality, and communicating results honestly.
 
 Every model is wrong. The goal isn't perfection — it's usefulness. A simple model that clarifies thinking and guides better decisions is worth more than a complex model that's technically impressive but practically useless.
 

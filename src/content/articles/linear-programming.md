@@ -75,7 +75,7 @@ George Dantzig invented the simplex method in 1947, and it changed the world. Li
 
 The simplex method doesn't check every vertex. Instead, it starts at one vertex of the feasible region and moves along edges to adjacent vertices, always improving the objective function. It keeps moving until it reaches a vertex where no neighboring vertex is better. That's the optimal solution.
 
-Think of it like walking along the edges of a diamond, always going uphill. You stop when every direction leads downhill.
+Think of it like [walking](/walking) along the edges of a diamond, always going uphill. You stop when every direction leads downhill.
 
 ### How It Works (Simplified)
 
@@ -112,7 +112,7 @@ This isn't just an elegant mathematical fact. It has practical implications:
 
 **Shadow prices**: The dual variables tell you how much the objective function would improve if you relaxed a constraint by one unit. In our bakery, the dual variable for the flour constraint tells you exactly how much additional profit you'd earn from one more kilogram of flour. This is invaluable for resource planning.
 
-**Economic interpretation**: Duality connects optimization with market pricing. The dual prices represent the fair market value of scarce resources. If you can buy extra flour for less than its shadow price, you should — the extra profit exceeds the cost.
+**Economic interpretation**: Duality connects [optimization](/optimization) with market pricing. The dual prices represent the fair market value of scarce resources. If you can buy extra flour for less than its shadow price, you should — the extra profit exceeds the cost.
 
 **Computational shortcuts**: Sometimes the dual problem is easier to solve than the primal. Solving either one gives you the solution to both.
 
@@ -134,7 +134,7 @@ Pure linear programming assumes variables can take any real value: 3.7 cakes, 2.
 
 This seemingly small change — requiring integers — makes problems dramatically harder. LP can be solved in polynomial time; integer programming is NP-hard. The feasible region is no longer a smooth polytope but a scattered collection of integer points.
 
-Solvers attack MIP problems using **branch and bound**: solve the LP relaxation (ignore integer constraints), then systematically explore integer possibilities, pruning branches that can't improve on the best solution found so far. Modern MIP solvers like Gurobi and CPLEX can handle problems with millions of variables through sophisticated combinations of cutting planes, heuristics, and branch-and-bound.
+Solvers attack MIP problems using **branch and bound**: solve the LP relaxation (ignore integer constraints), then systematically explore integer possibilities, [pruning](/pruning) branches that can't improve on the best solution found so far. Modern MIP solvers like Gurobi and CPLEX can handle problems with millions of variables through sophisticated combinations of cutting planes, [heuristics](/heuristics), and branch-and-bound.
 
 ## Real-World Applications
 
@@ -142,15 +142,15 @@ Solvers attack MIP problems using **branch and bound**: solve the LP relaxation 
 
 [Logistics](/logistics) companies solve LP problems constantly. FedEx and UPS optimize package routing across their networks — deciding which packages go on which planes and trucks, minimizing fuel cost while meeting delivery deadlines. Airlines solve crew scheduling problems: assigning pilots and flight attendants to flights while respecting labor regulations, qualifications, and rest requirements.
 
-The U.S. military used LP for supply chain planning during World War II — that's actually where Dantzig developed it. Today, the same math routes Amazon packages and optimizes Uber driver assignments.
+The U.S. military used LP for supply chain planning during [World War II](/world-war-ii) — that's actually where Dantzig developed it. Today, the same math routes Amazon packages and optimizes Uber driver assignments.
 
 ### Manufacturing and Production
 
-A factory producing multiple products with shared resources is a textbook LP problem. How much of each product should you make to maximize profit, given limited machine time, raw materials, and labor? Production planning at scale involves thousands of products, hundreds of resources, and time-phased scheduling over weeks or months.
+A factory producing multiple products with shared resources is a textbook LP problem. How much of each product should you make to maximize profit, given limited machine time, raw materials, and labor? Production planning at scale involves thousands of products, hundreds of resources, and time-phased [scheduling](/scheduling) over weeks or months.
 
 ### Finance and Portfolio Optimization
 
-Harry Markowitz's mean-variance portfolio optimization — which won the Nobel Prize — is a quadratic programming problem, but LP variants are widely used. Minimizing transaction costs, matching asset-liability durations for insurance companies, and optimizing bond portfolios all use LP formulations.
+Harry Markowitz's mean-variance portfolio optimization — which won the Nobel Prize — is a quadratic programming problem, but LP variants are widely used. Minimizing transaction costs, matching asset-liability durations for [insurance](/insurance) companies, and optimizing bond portfolios all use LP formulations.
 
 [Financial planning](/financial-planning) at institutional scale relies heavily on these techniques.
 
@@ -160,7 +160,7 @@ Power companies solve LP problems to determine which generators to run at what l
 
 ### Agriculture and Nutrition
 
-The original "diet problem" — one of the first LP applications — asked: what's the cheapest combination of foods that meets all nutritional requirements? Animal feed companies solve this exact problem today to minimize feed costs while ensuring livestock get proper nutrition. It also appears in [agriculture](/agriculture) for crop planning and resource allocation.
+The original "diet problem" — one of the first LP applications — asked: what's the cheapest combination of foods that meets all nutritional requirements? Animal feed companies solve this exact problem today to minimize feed costs while ensuring livestock get proper [nutrition](/nutrition). It also appears in [agriculture](/agriculture) for crop planning and resource allocation.
 
 ### Telecommunications
 
@@ -201,7 +201,7 @@ State-of-the-art commercial solvers like Gurobi, CPLEX, and MOSEK can solve LP p
 
 ## A Brief History
 
-The origins of LP trace to Leonid Kantorovich, who in 1939 formulated resource allocation problems for the Soviet government. His work went largely unrecognized in the West for decades.
+The origins of LP trace to Leonid Kantorovich, who in 1939 formulated resource allocation problems for the Soviet [government](/government). His work went largely unrecognized in the West for decades.
 
 George Dantzig independently developed LP and the simplex method in 1947 while working for the U.S. Air Force on logistics planning. The method spread rapidly through military, industrial, and academic applications.
 

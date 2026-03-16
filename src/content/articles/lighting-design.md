@@ -31,7 +31,7 @@ faq:
 
 # What Is Lighting Design?
 
-Lighting design is the deliberate planning and implementation of light — artificial, natural, or both — to serve a specific purpose in a given space. That purpose might be theatrical (making actors visible while creating mood), architectural (making a building functional and beautiful), commercial (drawing shoppers toward merchandise), or any number of other applications.
+Lighting design is the deliberate planning and implementation of light — artificial, natural, or both — to serve a specific purpose in a given space. That purpose might be theatrical (making actors visible while creating mood), architectural (making a building functional and beautiful), commercial ([drawing](/drawing) shoppers toward merchandise), or any number of other applications.
 
 The key word is "deliberate." Flipping a light switch isn't lighting design. Thinking carefully about *which* light, *where* it's placed, *how bright* it is, *what color* it casts, and *what effect* it creates — that's lighting design.
 
@@ -41,11 +41,11 @@ Lighting design splits into two broad disciplines that share principles but diff
 
 ### Theatrical Lighting
 
-Stage lighting designers create the visual atmosphere for live performances — plays, musicals, dance, opera, concerts, and corporate events. Their work is temporary, changing from show to show and often from moment to moment within a single performance.
+Stage lighting designers create the visual atmosphere for live performances — plays, musicals, [dance](/dance), [opera](/opera), concerts, and corporate events. Their work is temporary, changing from show to show and often from moment to moment within a single performance.
 
 A theatrical lighting designer reads the script, meets with the director, and creates a lighting plot — a [technical drawing](/technical-drawing) showing every fixture's position, angle, color, and channel assignment. During technical rehearsals, they program cues (specific lighting states) that shift throughout the show, guiding the audience's attention and reinforcing the emotional arc of the story.
 
-The tools include conventional fixtures (ellipsoidals, fresnels, PAR cans), moving lights that can change position, color, and pattern remotely, LED fixtures with programmable color mixing, and increasingly, projection and video integration. A Broadway show might use 500+ lighting instruments controlled by a computerized console running hundreds of cues.
+The tools include conventional fixtures (ellipsoidals, fresnels, PAR cans), moving lights that can change position, color, and pattern remotely, LED fixtures with programmable color mixing, and increasingly, projection and video integration. A Broadway show might use 500+ lighting instruments controlled by a computerized console [running](/running) hundreds of cues.
 
 ### Architectural Lighting
 
@@ -63,7 +63,7 @@ Light has several controllable properties that designers manipulate:
 
 **Color** — both the color temperature of white light (warm vs. cool) and the use of saturated color through filters or LED mixing. A warm amber wash can make a stage feel like sunset; a cool blue makes it feel like moonlight. In restaurants, warm light (around 2700K) makes food look better and people feel relaxed. In hospitals, cool light (4000K+) supports alertness and accurate color perception.
 
-**Direction** — where light comes from relative to the subject. Front light flattens features and eliminates shadows. Side light creates drama and reveals texture. Backlight creates silhouettes and separation. Uplighting makes things look grand or eerie. Downlighting feels natural (because that's where the sun is).
+**Direction** — where light comes from relative to the subject. Front light flattens features and eliminates shadows. Side light creates [drama](/drama) and reveals texture. Backlight creates silhouettes and separation. Uplighting makes things look grand or eerie. Downlighting feels natural (because that's where the sun is).
 
 **Distribution** — the shape of the light beam. A tight spotlight draws focus. A wide wash illuminates evenly. Gobos (metal or glass patterns inserted into fixtures) project textures like leaves, windows, or abstract shapes.
 
@@ -81,7 +81,7 @@ The U.S. Department of Energy estimates that LED lighting saved about 570 terawa
 
 Here's where lighting design gets genuinely fascinating. Light affects [human physiology](/human-physiology) and psychology in measurable ways. Bright, cool light suppresses melatonin production and increases alertness — which is great for morning [productivity](/productivity) and terrible for evening relaxation. Warm, dim light does the opposite, signaling to your body that it's time to wind down.
 
-Research at Cornell University and elsewhere has shown that lighting quality affects mood, cognitive performance, and even pain perception. Patients in hospital rooms with more natural light recover faster. Students in well-lit classrooms score higher on tests. Retail environments with carefully designed lighting see measurably higher sales.
+Research at Cornell University and elsewhere has shown that lighting quality affects mood, cognitive performance, and even pain perception. Patients in hospital rooms with more natural light recover faster. Students in well-lit classrooms score higher on tests. Retail environments with carefully designed lighting see measurably higher [sales](/sales).
 
 Lighting designers who understand these effects create spaces that don't just look good — they genuinely function better for the people using them.
 

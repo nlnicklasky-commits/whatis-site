@@ -37,7 +37,7 @@ Human resources — universally abbreviated to HR — is the department within a
 
 The scope is broader than most people realize until they work in it:
 
-**Recruitment and hiring.** Writing job descriptions, posting positions, screening resumes, coordinating interviews, extending offers, and onboarding new hires. In a tight labor market, recruiting alone can consume a massive amount of HR's time. The average corporate job posting receives 250 applications. Someone has to process them.
+**Recruitment and hiring.** [Writing](/writing) job descriptions, posting positions, screening resumes, coordinating interviews, extending offers, and onboarding new hires. In a tight labor market, recruiting alone can consume a massive amount of HR's time. The average corporate job posting receives 250 applications. Someone has to process them.
 
 **Compensation and benefits.** Designing salary structures, administering [health insurance](/health-insurance), managing retirement plans (401k, pensions), handling paid time off, and ensuring pay practices comply with equal pay laws. Benefits administration is surprisingly complex — a mid-size company might work with a dozen different vendors for insurance, retirement, [wellness](/wellness) programs, and employee assistance.
 
@@ -78,7 +78,7 @@ Modern HR relies increasingly on data to make decisions:
 
 ## Careers in HR
 
-HR offers diverse career paths. Some people start in recruiting and stay — talent acquisition is essentially a sales role that appeals to outgoing, relationship-oriented personalities. Others gravitate toward compensation and benefits (analytical, detail-oriented), training and development ([teaching](/teaching)-oriented), or labor relations (for those who enjoy [negotiation](/negotiation) and legal complexity).
+HR offers diverse career paths. Some people start in recruiting and stay — talent acquisition is essentially a [sales](/sales) role that appeals to outgoing, relationship-oriented personalities. Others gravitate toward compensation and benefits (analytical, detail-oriented), training and development ([teaching](/teaching)-oriented), or labor relations (for those who enjoy [negotiation](/negotiation) and legal complexity).
 
 The professional certification most recognized in the field is the SHRM-CP (Certified Professional) or SHRM-SCP (Senior Certified Professional), offered by the Society for Human [Resource Management](/resource-management). PHR and SPHR certifications from HRCI are also widely respected.
 

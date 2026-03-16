@@ -31,7 +31,7 @@ faq:
 
 # What Is Miniature Golf?
 
-Miniature golf — also called mini golf, putt-putt, or crazy golf — is a downsized version of golf played on short courses (typically 18 holes, each 10-50 feet long) featuring creative obstacles, themed decorations, and artificial surfaces. You putt a golf ball through windmills, over ramps, around loops, past water features, and into holes, trying to use as few strokes as possible.
+Miniature [golf](/golf) — also called mini golf, putt-putt, or crazy golf — is a downsized version of golf played on short courses (typically 18 holes, each 10-50 feet long) featuring creative obstacles, themed decorations, and artificial surfaces. You putt a golf ball through windmills, over ramps, around loops, past water features, and into holes, trying to use as few strokes as possible.
 
 It's the most accessible form of golf. No membership fees. No dress code. No skill requirement. No four-hour time commitment. A round takes 30-60 minutes, costs $5-15, and provides entertainment for five-year-olds and fifty-year-olds equally. That universal appeal is why miniature golf has survived for over a century while countless other entertainment fads have come and gone.
 

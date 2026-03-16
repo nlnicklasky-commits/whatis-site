@@ -39,7 +39,7 @@ Hawaiian history is the story of an isolated volcanic archipelago in the central
 
 ## The Polynesian Voyagers Who Found Paradise
 
-The first humans to reach Hawaii arrived after one of the most impressive feats of navigation in human history. Polynesian voyagers — likely from the Marquesas Islands, roughly 2,400 miles to the south — crossed open ocean in double-hulled sailing canoes sometime between 1000 and 1200 CE. A second wave of migration from Tahiti followed, bringing new cultural practices, political structures, and agricultural knowledge.
+The first humans to reach Hawaii arrived after one of the most impressive feats of [navigation](/navigation) in human history. Polynesian voyagers — likely from the Marquesas Islands, roughly 2,400 miles to the south — crossed open ocean in double-hulled [sailing](/sailing) canoes sometime between 1000 and 1200 CE. A second wave of migration from Tahiti followed, bringing new cultural practices, political structures, and agricultural knowledge.
 
 Think about what this required. No compasses. No maps. No GPS. These navigators read the stars, tracked ocean currents, watched the flight patterns of birds, and interpreted cloud formations over distant landmasses. They carried pigs, chickens, dogs, taro, breadfruit, and sweet potato — everything needed to establish a new civilization. The voyages were deliberate, planned expeditions, not lucky accidents of people blown off course.
 
@@ -51,7 +51,7 @@ Hawaiian society developed a complex political and social system called the *ahu
 
 The social hierarchy was rigid. At the top sat the *ali'i* (chiefs and royalty), who claimed descent from the gods. Below them were the *kahuna* (priests and expert practitioners), the *maka'ainana* (commoners who farmed and fished), and the *kauwa* (outcasts). The *kapu* system — a set of sacred prohibitions — regulated every aspect of life. Certain foods were forbidden to women. Commoners couldn't let their shadows fall on a chief. Violating *kapu* could mean death.
 
-The population grew substantially. Estimates for pre-contact Hawaiian population range from 300,000 to over 1,000,000 — scholars still debate the exact figure. What's clear is that Hawaiians built an advanced [agricultural](/agriculture) civilization. They constructed elaborate [irrigation](/irrigation) systems for taro cultivation, developed sophisticated fishpond [aquaculture](/aquaculture) (over 400 fishponds existed by the time of European contact), and managed forests and watersheds with practices that sustained their population for centuries.
+The population grew substantially. Estimates for pre-contact Hawaiian population range from 300,000 to over 1,000,000 — scholars still [debate](/debate) the exact figure. What's clear is that Hawaiians built an advanced [agricultural](/agriculture) civilization. They constructed elaborate [irrigation](/irrigation) systems for taro cultivation, developed sophisticated fishpond [aquaculture](/aquaculture) (over 400 fishponds existed by the time of European contact), and managed forests and watersheds with practices that sustained their population for centuries.
 
 ## Captain Cook and the European Disruption
 
@@ -65,11 +65,11 @@ European traders introduced firearms, which immediately changed the political ba
 
 ## Kamehameha and the Hawaiian Kingdom
 
-Kamehameha I exploited European weaponry and his own considerable military genius to conquer most of the Hawaiian Islands by 1810, creating the first unified Hawaiian Kingdom. He established a monarchy, centralized governance, and managed foreign trade — particularly the sandalwood trade with China, which generated enormous wealth but also depleted Hawaiian forests at an alarming rate.
+Kamehameha I exploited European weaponry and his own considerable military genius to conquer most of the Hawaiian Islands by 1810, creating the first unified Hawaiian Kingdom. He established a [monarchy](/monarchy), centralized governance, and managed foreign [trade](/trade) — particularly the sandalwood trade with China, which generated enormous wealth but also depleted Hawaiian forests at an alarming rate.
 
-The kingdom that Kamehameha built was remarkably sophisticated. His successors — Kamehameha II through V, followed by elected monarchs — established a written constitution (1840), a modern legal system, a legislature, diplomatic relations with major world powers, and a public education system. Hawaii was recognized as an independent sovereign nation by the United States, Great Britain, and France.
+The kingdom that Kamehameha built was remarkably sophisticated. His successors — Kamehameha II through V, followed by elected monarchs — established a written constitution (1840), a modern legal system, a legislature, diplomatic relations with major world powers, and a public [education](/education) system. Hawaii was recognized as an independent sovereign nation by the United States, Great Britain, and France.
 
-Kamehameha III's [government](/government) produced the *Mahele* of 1848 — a massive land redistribution that, while intended to protect Hawaiian interests, ultimately allowed foreigners to acquire vast tracts of land. This proved to be a turning point. American sugar planters accumulated enormous economic power, building plantations that demanded cheap labor and importing workers from China, Japan, Portugal, and the Philippines. The sugar industry reshaped Hawaii's demographics, economy, and politics permanently.
+Kamehameha III's [government](/government) produced the *Mahele* of 1848 — a massive land redistribution that, while intended to protect Hawaiian interests, ultimately allowed foreigners to acquire vast tracts of land. This proved to be a turning point. American sugar planters accumulated enormous economic power, building plantations that demanded cheap labor and importing workers from China, Japan, Portugal, and the Philippines. The sugar industry reshaped Hawaii's demographics, economy, and [politics](/politics) permanently.
 
 ## The Overthrow — America's Pacific Power Grab
 

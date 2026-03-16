@@ -31,7 +31,7 @@ faq:
 
 # What Is Urdu Language?
 
-Urdu is an Indo-Aryan language that serves as Pakistan's national language and is one of India's 22 scheduled languages. It's spoken natively by about 70 million people and understood by over 230 million. Written in the elegant Nastaliq script (a calligraphic form of Perso-Arabic [writing](/writing)), Urdu carries a literary tradition that includes some of South Asia's most celebrated poetry, prose, and philosophical writing.
+Urdu is an Indo-Aryan language that serves as Pakistan's national language and is one of India's 22 scheduled languages. It's spoken natively by about 70 million people and understood by over 230 million. Written in the elegant Nastaliq script (a calligraphic form of Perso-Arabic [writing](/writing)), Urdu carries a literary tradition that includes some of South Asia's most celebrated [poetry](/poetry), [prose](/prose), and philosophical writing.
 
 ## The Hindi-Urdu Question
 

@@ -69,7 +69,7 @@ Industrial properties tend to have long lease terms (10-15 years is common), low
 
 ### Special-Purpose Real Estate
 
-This catch-all includes properties designed for specific uses: hospitals, schools, churches, government buildings, amusement parks, self-storage facilities. These properties are harder to value because they cannot easily be repurposed. A church does not convert neatly into a warehouse.
+This catch-all includes properties designed for specific uses: hospitals, schools, churches, [government](/government) buildings, amusement parks, self-storage facilities. These properties are harder to value because they cannot easily be repurposed. A church does not convert neatly into a warehouse.
 
 ## How Real Estate Markets Actually Work
 
@@ -79,13 +79,13 @@ Real estate markets are local. That is the single most important thing to unders
 
 Real estate supply is unusual because land is finite. You cannot manufacture more of it. When demand rises in a city with geographic or regulatory constraints on building, prices can spike dramatically because supply simply cannot keep up.
 
-This is why cities like San Francisco, Vancouver, and London are so expensive. The supply of land is physically limited, zoning laws restrict new construction, and demand from high-earning workers keeps climbing. Compare that to a city like Dallas, where land is abundant and zoning is permissive — housing remains relatively affordable because builders can respond to demand by constructing more units.
+This is why cities like San Francisco, Vancouver, and London are so expensive. The supply of land is physically limited, zoning laws restrict new [construction](/construction), and demand from high-earning workers keeps climbing. Compare that to a city like Dallas, where land is abundant and zoning is permissive — housing remains relatively affordable because builders can respond to demand by constructing more units.
 
 The construction industry also introduces lag. It takes 12-24 months to build a new home and 2-4 years to develop a large apartment complex. By the time new supply comes online, demand conditions may have changed entirely. This lag creates the boom-bust cycles that characterize real estate markets.
 
 ### The Role of Interest Rates
 
-Interest rates are the single biggest external force acting on real estate prices. Here is why: most real estate purchases are financed with debt. A buyer does not pay $400,000 cash for a home — they put down $80,000 and borrow $320,000.
+Interest rates are the single biggest external force [acting](/acting) on real estate prices. Here is why: most real estate purchases are financed with debt. A buyer does not pay $400,000 cash for a home — they put down $80,000 and borrow $320,000.
 
 When mortgage rates are 3%, the monthly payment on that $320,000 loan is about $1,349. When rates jump to 7%, the same loan costs $2,129 per month — a 58% increase in monthly cost for the exact same house. This is why the rate environment matters so much for housing affordability and, consequently, for prices.
 
@@ -103,7 +103,7 @@ Valuing real estate is part science, part art. Unlike stocks, where the price up
 
 ### The Sales Comparison Approach
 
-Find recent sales of similar properties nearby, adjust for differences (that house has a pool, this one doesn't; that house has three bedrooms, this one has four), and arrive at a value estimate. This is the most common method for residential properties and the one that makes intuitive sense. It is essentially asking: "What did someone actually pay for something like this recently?"
+Find recent [sales](/sales) of similar properties nearby, adjust for differences (that house has a pool, this one doesn't; that house has three bedrooms, this one has four), and arrive at a value estimate. This is the most common method for residential properties and the one that makes intuitive sense. It is essentially asking: "What did someone actually pay for something like this recently?"
 
 The challenge is that no two properties are identical. Location, condition, lot size, renovation quality, views — all must be adjusted for. In active markets with lots of transactions, comparables are plentiful and this method works well. In rural areas or for unique properties, finding good comparables can be difficult.
 
@@ -115,11 +115,11 @@ A 10-unit apartment building generating $200,000 in annual NOI, valued at a 6% c
 
 ### The Cost Approach
 
-What would it cost to buy the land and rebuild the structure from scratch? This method is most useful for newer properties or special-purpose buildings where comparable sales and income data are limited. Insurance companies use a version of this to determine replacement value.
+What would it cost to buy the land and rebuild the structure from scratch? This method is most useful for newer properties or special-purpose buildings where comparable sales and income data are limited. [Insurance](/insurance) companies use a version of this to determine replacement value.
 
 ## The Legal Side: Rights, Deeds, and Titles
 
-When you "own" real estate, what you actually own is a bundle of rights. [Jurisprudence](/jurisprudence) around property law has developed over centuries to define these rights precisely.
+When you "own" real estate, what you actually own is a bundle of rights. [Jurisprudence](/jurisprudence) around [property law](/property-law) has developed over centuries to define these rights precisely.
 
 ### The Bundle of Rights
 
@@ -139,7 +139,7 @@ Real estate is not just a big part of the economy — it is the economy's founda
 
 ### GDP Impact
 
-Residential fixed investment and housing services together account for roughly 15-18% of U.S. GDP. When you add commercial construction, the number climbs higher. Real estate construction directly employs about 7.8 million Americans, and millions more work in related fields: mortgage lending, real estate brokerage, property management, home improvement, and insurance.
+Residential fixed investment and housing services together account for roughly 15-18% of U.S. GDP. When you add commercial construction, the number climbs higher. Real estate construction directly employs about 7.8 million Americans, and millions more work in related fields: mortgage lending, real estate brokerage, [property management](/property-management), home improvement, and insurance.
 
 A housing downturn does not just hurt homeowners. It cascades through lumber yards, appliance manufacturers, moving companies, furniture stores, and [financial planning](/financial-planning) firms. The 2008 financial crisis demonstrated this vividly: a collapse in housing prices triggered a global recession because the financial system's exposure to real estate was deeper and more interconnected than anyone realized.
 
@@ -147,11 +147,11 @@ A housing downturn does not just hurt homeowners. It cascades through lumber yar
 
 Real estate is the primary wealth-building mechanism for middle-class Americans. The combination of use (using a mortgage to buy a $400,000 asset with $80,000 down), forced savings (mortgage payments build equity), tax advantages (mortgage interest deduction, capital gains exclusion), and appreciation creates a powerful wealth accumulation engine.
 
-But here is the flip side: because homeownership rates differ dramatically across racial and income lines, real estate also concentrates and amplifies wealth inequality. The Black homeownership rate in America is about 44%, versus 74% for white households. Given that homes are the primary wealth store for most families, this gap has enormous downstream effects on intergenerational wealth transfer, education access, and economic mobility.
+But here is the flip side: because homeownership rates differ dramatically across racial and income lines, real estate also concentrates and amplifies wealth inequality. The Black homeownership rate in America is about 44%, versus 74% for white households. Given that homes are the primary wealth store for most families, this gap has enormous downstream effects on intergenerational wealth transfer, [education](/education) access, and economic mobility.
 
 ### The 2008 Crisis: A Cautionary Tale
 
-The Global Financial Crisis deserves special attention because it illustrates everything that can go wrong when real estate markets combine with reckless lending and financial engineering.
+The Global Financial Crisis deserves special attention because it illustrates everything that can go wrong when real estate markets combine with reckless lending and financial [engineering](/engineering).
 
 Banks issued mortgages to borrowers who could not afford them ("subprime" loans). These mortgages were packaged into securities and sold to investors worldwide. Rating agencies stamped them as safe. When housing prices stopped rising and borrowers defaulted, the securities collapsed in value, banks became insolvent, credit froze, and the global economy entered its worst recession since the 1930s.
 
@@ -167,7 +167,7 @@ Property technology companies are reshaping how real estate is bought, sold, man
 
 ### Blockchain and Tokenization
 
-Some companies are using [blockchain](/blockchain) technology to tokenize real estate — dividing property ownership into digital tokens that can be bought and sold in small fractions. In theory, this could make real estate investing accessible to people who cannot afford to buy an entire property. The technology is still early, and regulatory frameworks are catching up, but the concept is powerful.
+Some companies are using [blockchain](/blockchain) technology to tokenize real estate — dividing property ownership into digital tokens that can be bought and sold in small fractions. In theory, this could make [real estate investing](/real-estate-investing) accessible to people who cannot afford to buy an entire property. The technology is still early, and regulatory frameworks are catching up, but the concept is powerful.
 
 ### AI in Real Estate
 
@@ -199,9 +199,9 @@ Housing affordability is a global challenge. London, Sydney, Hong Kong, Vancouve
 
 Buildings account for roughly 40% of global energy consumption and about 33% of greenhouse gas emissions. The [environmental science](/environmental-science) behind this is straightforward: heating, cooling, and lighting buildings requires enormous energy.
 
-Green building standards like LEED (Leadership in Energy and Environmental Design) have pushed the industry toward more sustainable construction. Solar panels, better insulation, smart HVAC systems, and energy-efficient windows can dramatically reduce a building's environmental footprint. In some jurisdictions, new construction must meet minimum energy performance standards.
+Green building standards like LEED ([Leadership](/leadership) in Energy and Environmental Design) have pushed the industry toward more sustainable construction. Solar panels, better insulation, smart HVAC systems, and energy-efficient windows can dramatically reduce a building's environmental footprint. In some jurisdictions, new construction must meet minimum energy performance standards.
 
-Climate change itself is reshaping real estate markets. Coastal properties face rising flood risk. Properties in fire-prone areas carry higher insurance costs (or cannot get insurance at all). Some coastal markets that were once premium destinations are seeing prices stall or decline as buyers factor in climate risk. First Street Foundation estimates that climate-related risks have already reduced U.S. property values by $121 billion.
+[Climate change](/climate-change) itself is reshaping real estate markets. Coastal properties face rising flood risk. Properties in fire-prone areas carry higher insurance costs (or cannot get insurance at all). Some coastal markets that were once premium destinations are seeing prices stall or decline as buyers factor in climate risk. First Street Foundation estimates that climate-related risks have already reduced U.S. property values by $121 billion.
 
 ## Key Takeaways
 
@@ -209,4 +209,4 @@ Real estate is land, buildings, and attached natural resources — and it is the
 
 Real estate markets are fundamentally local and heavily influenced by interest rates, land supply constraints, and regulation. Property ownership is actually a bundle of legal rights that can be separated and transferred in various combinations. Real estate drives roughly 15-18% of U.S. GDP and serves as the primary wealth-building vehicle for most American families.
 
-The industry is being reshaped by technology, climate change, and shifting work patterns. Understanding real estate — whether you are buying a home, considering an investment, or just trying to make sense of economic headlines — means understanding the intersection of finance, law, geography, and human behavior. Few other asset classes touch so many parts of your life.
+The industry is being reshaped by technology, climate change, and shifting work patterns. Understanding real estate — whether you are buying a home, considering an investment, or just trying to make sense of economic headlines — means understanding the intersection of [finance](/finance), law, [geography](/geography), and human behavior. Few other asset classes touch so many parts of your life.

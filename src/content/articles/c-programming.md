@@ -55,7 +55,7 @@ That backward compatibility is both a blessing and a curse. It means billions of
 
 ### [Object-Oriented Programming](/object-oriented-programming)
 
-The biggest thing C++ added to C was object-oriented programming (OOP). Instead of writing disconnected functions that operate on data, you bundle data and the functions that manipulate it into objects.
+The biggest thing C++ added to C was object-oriented programming (OOP). Instead of [writing](/writing) disconnected functions that operate on data, you bundle data and the functions that manipulate it into objects.
 
 A class is the blueprint. An object is the thing you actually build from that blueprint. If a class is the architectural plan for a house, an object is the house itself — complete with its own address, paint color, and number of rooms.
 
@@ -77,7 +77,7 @@ This is done through pointers (variables that store memory addresses) and manual
 
 Modern C++ has made this easier with smart pointers — `unique_ptr`, `shared_ptr`, and `weak_ptr` — that automatically manage memory lifetimes. The advice in modern C++ circles is blunt: almost never use raw `new` and `delete`. Smart pointers handle it for you, and the compiler optimizes them to have virtually zero overhead.
 
-The RAII pattern (Resource Acquisition Is Initialization) is central to C++ design philosophy. When an object is created, it acquires whatever resources it needs. When it goes out of scope and is destroyed, those resources are released automatically. This pattern prevents entire categories of bugs that plague other systems languages.
+The RAII pattern (Resource Acquisition Is Initialization) is central to C++ design [philosophy](/philosophy). When an object is created, it acquires whatever resources it needs. When it goes out of scope and is destroyed, those resources are released automatically. This pattern prevents entire categories of bugs that plague other systems languages.
 
 ### Templates and Generic Programming
 
@@ -105,7 +105,7 @@ The downside? Compilation takes time. Large C++ projects can take minutes or eve
 
 If you've played a major video game in the last 20 years, C++ was almost certainly involved. Unreal Engine, one of the two dominant game engines, is written in C++. Unity's core runtime is C++. Even engines written in other languages typically call C++ for performance-critical subsystems.
 
-Games need to process physics simulations, render millions of polygons, handle AI decisions, and manage audio — all within 16 milliseconds per frame for 60fps gameplay. No garbage-collected language can guarantee those timing constraints. C++ gives game developers the control to optimize every critical path.
+Games need to process [physics](/physics) simulations, render millions of polygons, handle AI decisions, and manage audio — all within 16 milliseconds per frame for 60fps gameplay. No garbage-collected language can guarantee those timing constraints. C++ gives game developers the control to optimize every critical path.
 
 The game industry also uses C++ because it's been the standard for decades. There's an enormous ecosystem of tools, libraries, and middleware written in C++. Switching would mean rewriting millions of lines of battle-tested code.
 
@@ -123,7 +123,7 @@ The [aerospace engineering](/aerospace-engineering) industry relies heavily on C
 
 ### Financial Systems
 
-High-frequency trading firms care about microseconds. When millions of dollars can be made or lost based on who processes a trade fastest, interpreted languages aren't an option. C++ dominates high-frequency trading because it produces the fastest possible code for processing market data and executing orders.
+High-frequency trading firms care about microseconds. When millions of dollars can be made or lost based on who processes a [trade](/trade) fastest, interpreted languages aren't an option. C++ dominates high-frequency trading because it produces the fastest possible code for processing market data and executing orders.
 
 Banks, exchanges, and fintech companies use C++ for their core transaction processing. Bloomberg Terminal, the financial industry's most important software tool, is built on a massive C++ codebase.
 
@@ -151,7 +151,7 @@ C++11 added anonymous functions (lambdas) that can capture variables from their 
 
 ### Move Semantics
 
-This was a game-changer for performance. Before C++11, returning a large object from a function meant copying it — potentially millions of bytes. Move semantics let you transfer ownership of resources without copying, like handing someone a book instead of photocopying every page and giving them the copy.
+This was a game-changer for performance. Before C++11, returning a large object from a function meant copying it — potentially millions of bytes. Move [semantics](/semantics) let you transfer ownership of resources without copying, like handing someone a book instead of photocopying every page and giving them the copy.
 
 ### Concurrency Support
 
@@ -161,11 +161,11 @@ C++11 added threads, mutexes, atomic operations, and futures to the standard lib
 
 ### Compilers
 
-Three major compilers dominate: GCC (open-source, Linux-focused), Clang (open-source, modern architecture), and MSVC (Microsoft's compiler for Windows). Each implements the standard slightly differently and offers unique extensions. Most serious C++ projects test against at least two compilers.
+Three major compilers dominate: GCC (open-source, Linux-focused), Clang (open-source, modern [architecture](/architecture)), and MSVC (Microsoft's compiler for Windows). Each implements the standard slightly differently and offers unique extensions. Most serious C++ projects test against at least two compilers.
 
 ### Build Systems
 
-C++ doesn't have a single standard build system, which is one of the language's genuine pain points. CMake is the closest thing to a standard — it generates platform-specific build files. Other options include Meson, Bazel, and the venerable Make. Package management has improved with tools like Conan and vcpkg, but it's still rougher than what Python or JavaScript developers enjoy.
+C++ doesn't have a single standard build system, which is one of the language's genuine pain points. CMake is the closest thing to a standard — it generates platform-specific build files. Other options include Meson, Bazel, and the venerable Make. Package [management](/management) has improved with tools like Conan and vcpkg, but it's still rougher than what Python or JavaScript developers enjoy.
 
 ### IDEs and Tools
 
@@ -213,13 +213,13 @@ These serve different purposes. Python is excellent for scripting, [data analysi
 
 ## The Future of C++
 
-C++ isn't standing still. C++26 is in development, with proposals for reflection (inspecting types at compile time), pattern matching (elegant conditional logic), and further improvements to modules and coroutines.
+C++ isn't standing still. C++26 is in development, with proposals for reflection (inspecting types at compile time), pattern matching (elegant conditional [logic](/logic)), and further improvements to modules and coroutines.
 
-The Cpp2/cppfront project, led by Herb Sutter (a longtime C++ standards committee member), explores a simplified C++ syntax that compiles to standard C++. It aims to make the language easier to learn and safer by default while maintaining full compatibility with existing code.
+The Cpp2/cppfront project, led by Herb Sutter (a longtime C++ standards committee member), explores a simplified C++ [syntax](/syntax) that compiles to standard C++. It aims to make the language easier to learn and safer by default while maintaining full compatibility with existing code.
 
 Carbon, an experimental language from Google, was announced as a potential "successor to C++," but adoption remains minimal. The C++ committee's response has been to accelerate modernization of the language itself.
 
-The safety debate is the biggest conversation in the C++ world right now. Government agencies and major companies have called for memory-safe languages. The C++ community is responding with proposals for safe subsets, lifetime annotations, and profiles that enforce safety rules at compile time. Whether these efforts will satisfy critics remains an open question.
+The safety [debate](/debate) is the biggest conversation in the C++ world right now. [Government](/government) agencies and major companies have called for memory-safe languages. The C++ community is responding with proposals for safe subsets, lifetime annotations, and profiles that enforce safety rules at compile time. Whether these efforts will satisfy critics remains an open question.
 
 ## Getting Started With C++
 

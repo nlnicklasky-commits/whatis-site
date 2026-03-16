@@ -31,7 +31,7 @@ faq:
 
 # What Is Classical Composition?
 
-Classical composition is the art of creating original musical works within the Western classical tradition — writing music intended for orchestras, chamber ensembles, choirs, solo instruments, or opera, using the systems of [harmony](/harmony), counterpoint, form, and [orchestration](/orchestration) developed over roughly a thousand years of European musical practice. It's one of the most intellectually demanding creative pursuits humans have devised.
+Classical composition is the art of creating original musical works within the Western classical tradition — [writing](/writing) music intended for orchestras, chamber ensembles, choirs, solo instruments, or [opera](/opera), using the systems of [harmony](/harmony), counterpoint, form, and [orchestration](/orchestration) developed over roughly a thousand years of European musical practice. It's one of the most intellectually demanding creative pursuits humans have devised.
 
 ## Writing Music That Doesn't Exist Yet
 
@@ -59,7 +59,7 @@ The time dimension — how notes are organized in duration and accent. Rhythm ra
 
 ### Orchestration
 
-Choosing which instruments play which parts. Orchestration transforms the same notes into completely different musical experiences. Ravel's orchestration of Mussorgsky's *Pictures at an Exhibition* took piano pieces and gave them orchestral colors so vivid that the orchestral version became more famous than the original.
+Choosing which instruments play which parts. Orchestration transforms the same notes into completely different musical experiences. Ravel's orchestration of Mussorgsky's *Pictures at an Exhibition* took [piano](/piano) pieces and gave them orchestral colors so vivid that the orchestral version became more famous than the original.
 
 ## Musical Forms
 
@@ -83,7 +83,7 @@ Every composer works differently, but common approaches include:
 
 **Developing** — Taking initial ideas and exploring their potential. What happens if the melody is inverted (turned upside down)? Augmented (played at half speed)? Harmonized differently? Combined with another idea? Development is where compositional craft lives.
 
-**Orchestrating** — Assigning parts to specific instruments. This requires deep knowledge of each instrument's range, capabilities, tone color, and limitations. Writing a passage that works on piano may not work for flute (breath limitations), violin (string crossing difficulties), or [trumpet](/trumpet) (endurance constraints).
+**Orchestrating** — Assigning parts to specific instruments. This requires deep knowledge of each instrument's range, capabilities, tone color, and limitations. Writing a passage that works on piano may not work for [flute](/flute) (breath limitations), [violin](/violin) (string crossing difficulties), or [trumpet](/trumpet) (endurance constraints).
 
 **Revising** — Most composers revise extensively. Brahms reportedly destroyed more music than he published. The gap between what you imagine and what you actually write on the page is where the hardest work happens.
 

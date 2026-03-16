@@ -60,7 +60,7 @@ Here's where things get interesting. Not all apps are built the same way, and th
 
 Native apps are built specifically for one platform using that platform's official programming language and tools. For iOS, that means Swift (or the older Objective-C) and Apple's Xcode development environment. For Android, it's Kotlin (or Java) with Android Studio.
 
-The advantage? Performance. Native apps have direct access to the device's hardware—camera, GPS, accelerometer, biometric sensors, Bluetooth. They feel snappy because they're speaking the device's native language, not going through a translation layer. Animations are smoother. Gestures respond faster. The app looks and behaves exactly the way users of that platform expect.
+The advantage? Performance. Native apps have direct access to the device's hardware—camera, GPS, accelerometer, biometric sensors, Bluetooth. They feel snappy because they're speaking the device's native language, not going through a [translation](/translation) layer. Animations are smoother. Gestures respond faster. The app looks and behaves exactly the way users of that platform expect.
 
 The downside? You're building two separate apps. Two codebases. Two teams (or one team that knows both platforms). Every feature gets implemented twice. Every bug potentially needs to be fixed twice. That doubles your cost and roughly doubles your timeline. Companies like Instagram, Airbnb, and Uber started native but eventually explored alternatives as their codebases grew unwieldy.
 
@@ -96,11 +96,11 @@ This is where [UX design](/aesthetics) lives. Every screen, every transition, ev
 
 ### The Backend (What You Don't See)
 
-The backend is the engine room. It handles data storage, user authentication, business logic, third-party integrations, and communication between the app and its servers. When you log into an app, the backend verifies your credentials. When you pull down to refresh your feed, the backend fetches new content. When you make a purchase, the backend processes the payment.
+The backend is the engine room. It handles data storage, user authentication, business [logic](/logic), third-party integrations, and communication between the app and its servers. When you log into an app, the backend verifies your credentials. When you pull down to refresh your feed, the backend fetches new content. When you make a purchase, the backend processes the payment.
 
 Backend development typically involves server-side languages like Python, Node.js, Java, Go, or Ruby. Databases—SQL ones like PostgreSQL or NoSQL ones like MongoDB—store the data. APIs (Application Programming Interfaces) act as the communication layer between the frontend and backend.
 
-Frankly, the backend is where most of the complexity lives. Scaling an app from 1,000 users to 1 million users is primarily a backend problem. You need load balancing, caching, database [optimization](/optimization), and infrastructure that can handle traffic spikes without falling over. This is why backend engineers are among the highest-paid developers—the Bureau of Labor Statistics reports a median salary of $130,160 for software developers as of 2023.
+Frankly, the backend is where most of the complexity lives. Scaling an app from 1,000 users to 1 million users is primarily a backend problem. You need load balancing, caching, database [optimization](/optimization), and infrastructure that can handle traffic spikes without falling over. This is why backend engineers are among the highest-paid developers—the Bureau of Labor [Statistics](/statistics) reports a median salary of $130,160 for software developers as of 2023.
 
 ### The Database Layer
 
@@ -112,7 +112,7 @@ Many modern apps use both. Instagram, for example, uses PostgreSQL for user data
 
 ## The Development Process: How Apps Actually Get Built
 
-Building an app isn't just writing code. It's a sequence of distinct phases, and skipping any of them usually ends badly.
+Building an app isn't just [writing](/writing) code. It's a sequence of distinct phases, and skipping any of them usually ends badly.
 
 ### Phase 1: Discovery and Planning
 
@@ -124,7 +124,7 @@ This phase typically produces a product requirements document, user personas, co
 
 ### Phase 2: Design
 
-Design happens in layers. [Information architecture](/information-architecture) comes first—the structure of screens and how users flow between them. Wireframes map out layouts without visual design. Mockups add color, typography, and imagery. Prototypes make those mockups interactive so you can test the flow before writing a line of code.
+Design happens in layers. [Information architecture](/information-architecture) comes first—the structure of screens and how users flow between them. Wireframes map out layouts without visual design. Mockups add color, [typography](/typography), and imagery. Prototypes make those mockups interactive so you can test the flow before writing a line of code.
 
 Tools like Figma (which Adobe tried to acquire for $20 billion before regulators blocked it) have made collaborative design vastly more efficient. Designers and developers work in the same files, reducing the translation errors that used to plague handoffs.
 
@@ -209,7 +209,7 @@ Best practices include:
 - **Never store sensitive data in plain text** on the device
 - **Use established authentication frameworks** rather than rolling your own
 - **Implement certificate pinning** to prevent man-in-the-middle attacks
-- **Obfuscate your code** to make reverse engineering harder
+- **Obfuscate your code** to make reverse [engineering](/engineering) harder
 - **Keep dependencies updated**—many vulnerabilities come from outdated third-party libraries
 
 Privacy regulations add another layer. GDPR in Europe, CCPA in California, and similar laws worldwide require apps to handle user data with explicit consent and transparency. Apple's App Tracking Transparency framework, introduced in iOS 14.5, forced apps to ask permission before tracking users across other apps—a change that cost Meta an estimated $10 billion in annual advertising revenue.
@@ -222,7 +222,7 @@ App monetization has evolved far beyond the simple paid download. The $0.99 app 
 
 **Subscriptions** have become Apple's and Google's favorite model (and not just because they take a 15-30% cut). Subscription revenue is predictable and recurring. Netflix, Headspace, and Strava use this model. Apple reported that subscription-based apps generated over $100 billion for developers through the App Store by 2024.
 
-**In-app purchases** power the gaming industry. Free-to-play games with optional purchases account for over 75% of mobile gaming revenue. The model is wildly profitable but controversial—especially when it targets younger users or uses manipulative psychological patterns.
+**In-app purchases** power the [gaming](/gaming) industry. Free-to-play games with optional purchases account for over 75% of mobile gaming revenue. The model is wildly profitable but controversial—especially when it targets younger users or uses manipulative psychological patterns.
 
 **Advertising** remains a major revenue source, particularly for apps that can't charge users directly. Google AdMob and Meta's Audience Network are the biggest mobile ad platforms. The average revenue per daily active user (ARPDAU) for ad-supported apps ranges from $0.01 to $0.10, which means you need serious scale to make it work.
 
@@ -244,4 +244,4 @@ A few trends are shaping where app development heads next.
 
 The demand for app developers isn't slowing down. The Bureau of Labor Statistics projects 25% job growth for software developers between 2022 and 2032—much faster than the average for all occupations. Whether you're building the next social platform or an internal tool for a 50-person company, the skills are in demand and the opportunities keep expanding.
 
-What makes app development genuinely fascinating is that it sits at the intersection of engineering, design, psychology, and business. Building a great app isn't just a technical achievement. It's understanding what people need, how they think, and what will keep them coming back—then translating all of that into code that actually works.
+What makes app development genuinely fascinating is that it sits at the intersection of engineering, design, [psychology](/psychology), and business. Building a great app isn't just a technical achievement. It's understanding what people need, how they think, and what will keep them coming back—then translating all of that into code that actually works.

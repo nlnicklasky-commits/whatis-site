@@ -93,7 +93,7 @@ Hospitals and health systems use systems analysis to improve patient flow, reduc
 
 ### Government and Defense
 
-Military and government agencies use systems analysis to evaluate procurement decisions, design logistics networks, assess policy impacts, and manage large-scale programs. The RAND Corporation, founded in 1948, pioneered many systems analysis techniques for defense applications.
+Military and [government](/government) agencies use systems analysis to evaluate procurement decisions, design logistics networks, assess policy impacts, and manage large-scale programs. The RAND Corporation, founded in 1948, pioneered many systems analysis techniques for defense applications.
 
 ## The Human Factor
 

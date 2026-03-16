@@ -31,7 +31,7 @@ faq:
 
 # What Is Social [Engineering](/engineering)?
 
-Social engineering, in the cybersecurity context, is the art of manipulating people into giving up confidential information, granting unauthorized access, or performing actions that compromise security. Instead of hacking computers directly, social engineers hack people — exploiting trust, authority, fear, and helpfulness to bypass technical security measures entirely.
+Social engineering, in the [cybersecurity](/cybersecurity) context, is the art of manipulating people into giving up confidential information, granting unauthorized access, or performing actions that compromise security. Instead of hacking computers directly, social engineers hack people — exploiting trust, authority, fear, and helpfulness to bypass technical security measures entirely.
 
 It's the oldest form of hacking and still the most effective. You can spend millions on firewalls, encryption, and [intrusion detection](/intrusion-detection) systems, but if someone convinces an employee to read their password over the phone, none of that technology matters. As security expert Bruce Schneier put it: "People are the weakest link in security."
 
@@ -63,7 +63,7 @@ Social engineering works because it exploits reliable human tendencies.
 
 The business email compromise (BEC) — a type of spear phishing targeting financial transactions — cost organizations $2.7 billion in 2022 alone, according to the FBI's Internet Crime Complaint Center. That's a single attack category.
 
-The 2020 Twitter hack, where teenagers gained access to high-profile accounts (Barack Obama, Elon Musk, Apple) and posted cryptocurrency scams, started with social engineering — the attackers called Twitter employees and convinced them to provide access to internal tools.
+The 2020 Twitter hack, where teenagers gained access to high-profile accounts (Barack Obama, Elon Musk, Apple) and posted [cryptocurrency](/cryptocurrency) scams, started with social engineering — the attackers called Twitter employees and convinced them to provide access to internal tools.
 
 The 2011 RSA breach, which compromised the security of the SecurID two-factor authentication system used by thousands of organizations, started with a phishing email containing a malicious Excel spreadsheet. A single employee opening a single file cascaded into one of the most significant security breaches in history.
 

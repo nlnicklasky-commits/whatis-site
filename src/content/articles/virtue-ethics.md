@@ -31,7 +31,7 @@ faq:
 
 # What Is Virtue Ethics?
 
-Virtue ethics is a branch of [moral philosophy](/moral-philosophy) that focuses on the character of the person [acting](/acting) rather than on rules to follow or outcomes to achieve. Instead of asking "what should I do in this situation?" it asks "what kind of person should I be?" The idea is that if you develop the right character traits — courage, honesty, generosity, justice — the right actions will follow naturally.
+Virtue [ethics](/ethics) is a branch of [moral philosophy](/moral-philosophy) that focuses on the character of the person [acting](/acting) rather than on rules to follow or outcomes to achieve. Instead of asking "what should I do in this situation?" it asks "what kind of person should I be?" The idea is that if you develop the right character traits — courage, honesty, generosity, justice — the right actions will follow naturally.
 
 ## Aristotle's Big Idea
 
@@ -57,7 +57,7 @@ The mean isn't fixed. It depends on the person and the situation. What counts as
 
 ## Why It Faded (And Came Back)
 
-For about 1,700 years after Aristotle, virtue ethics was the dominant Western ethical framework. The Stoics, the Epicureans, Thomas Aquinas (who integrated Aristotle with [Christianity](/christianity)), and much of medieval moral philosophy worked within virtue ethics frameworks.
+For about 1,700 years after Aristotle, virtue ethics was the dominant Western ethical framework. The Stoics, the Epicureans, Thomas Aquinas (who integrated Aristotle with [Christianity](/christianity)), and much of medieval moral [philosophy](/philosophy) worked within virtue ethics frameworks.
 
 Then came the Enlightenment. Kant's deontological ethics (morality is about following rational rules, regardless of consequences or character) and Bentham's [utilitarianism](/utilitarianism) (morality is about maximizing happiness) offered systematic, universal principles that seemed more rigorous and applicable than virtue ethics' emphasis on character development.
 

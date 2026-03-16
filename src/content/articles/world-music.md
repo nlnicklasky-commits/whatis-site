@@ -49,7 +49,7 @@ Despite the category's problems, the music it encompasses is extraordinary. Here
 
 ### West African Music
 
-West Africa has produced some of the world's most influential musical traditions. Griot music (the hereditary musician-historians of the Mandinka, Wolof, and other peoples) features the kora (a 21-string harp-lute), balafon (wooden xylophone), and detailed vocal traditions. Afrobeat, created by Fela Kuti in Lagos in the late 1960s, fused Yoruba rhythms, jazz, funk, and political lyrics into extended compositions that influenced music globally. Highlife from Ghana and Nigeria blended local rhythms with Western instruments to create a genre that dominated West African pop for decades.
+West Africa has produced some of the world's most influential musical traditions. Griot music (the hereditary musician-historians of the Mandinka, Wolof, and other peoples) features the kora (a 21-string [harp](/harp)-lute), balafon (wooden xylophone), and detailed vocal traditions. Afrobeat, created by Fela Kuti in Lagos in the late 1960s, fused Yoruba rhythms, jazz, funk, and political lyrics into extended compositions that influenced music globally. Highlife from Ghana and Nigeria blended local rhythms with Western instruments to create a genre that dominated West African pop for decades.
 
 ### Indian Classical Music
 
@@ -61,7 +61,7 @@ Brazilian bossa nova, Argentine tango, Cuban son and salsa, Colombian cumbia, Pe
 
 ### Middle Eastern and North African
 
-Arabic classical music uses a tonal system (maqam) with quarter-tone intervals that don't exist in Western tuning. The oud (pear-shaped lute), qanun (zither), and ney (end-blown [flute](/flute)) are signature instruments. Rai music from Algeria blends traditional vocal styles with electric instruments. Gnawa music from Morocco combines Sufi spiritual practice with Sub-Saharan African musical elements.
+Arabic [classical music](/classical-music) uses a tonal system (maqam) with quarter-tone intervals that don't exist in Western tuning. The oud (pear-shaped lute), qanun (zither), and ney (end-blown [flute](/flute)) are signature instruments. Rai music from Algeria blends traditional vocal styles with electric instruments. Gnawa music from Morocco combines Sufi spiritual practice with Sub-Saharan African musical elements.
 
 ### Celtic and European Folk
 

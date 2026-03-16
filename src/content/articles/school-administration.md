@@ -67,7 +67,7 @@ School administration has a clear chain of command, though the specifics vary by
 
 School administration involves inherent conflicts that can't be fully resolved, only managed.
 
-**Standardization vs. flexibility.** State and federal mandates require specific curricula, testing, and reporting. But effective education often requires adapting to local needs, individual students, and unexpected situations. Administrators constantly balance compliance with common sense.
+**Standardization vs. flexibility.** State and federal mandates require specific curricula, testing, and reporting. But effective [education](/education) often requires adapting to local needs, individual students, and unexpected situations. Administrators constantly balance compliance with common sense.
 
 **Equity vs. efficiency.** Spending more resources on struggling students is fair but means fewer resources for everyone else. Creating specialized programs for gifted students improves outcomes for them but may increase inequality. Every resource allocation decision involves this trade-off.
 
@@ -81,11 +81,11 @@ School administration in 2025 looks nothing like it did in 1975. Several forces 
 
 **Data-driven decision making** now dominates. Administrators are expected to analyze test scores, attendance patterns, discipline data, and demographic trends to guide decisions. Many districts use data dashboards that track dozens of metrics in real time. This brings precision but also risks reducing complex human situations to numbers.
 
-**[Technology management](/technology-management)** is now a major responsibility. One-to-one device programs, learning management systems, cybersecurity, internet filtering, and remote learning infrastructure all fall on administrators' plates. Most received no training for this in their degree programs.
+**[Technology management](/technology-management)** is now a major responsibility. One-to-one device programs, learning management systems, [cybersecurity](/cybersecurity), internet filtering, and remote learning infrastructure all fall on administrators' plates. Most received no training for this in their degree programs.
 
 **Mental health** has moved to the center of school administration. Student anxiety and depression rates have risen sharply — the CDC reported in 2023 that 42% of high school students felt persistently sad or hopeless. Administrators now coordinate counseling services, crisis intervention teams, and social-emotional learning programs that simply didn't exist a generation ago.
 
-**Legal complexity** keeps growing. Special education law (IDEA), civil rights compliance (Title IX), student privacy (FERPA), and disability accommodations (ADA and Section 504) create a web of legal requirements that administrators must understand and follow. A single misstep can result in lawsuits, federal investigations, or loss of funding.
+**Legal complexity** keeps growing. [Special education](/special-education) law (IDEA), civil rights compliance (Title IX), student privacy (FERPA), and disability accommodations (ADA and Section 504) create a web of legal requirements that administrators must understand and follow. A single misstep can result in lawsuits, federal investigations, or loss of funding.
 
 ## What Makes a Good Administrator
 

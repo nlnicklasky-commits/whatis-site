@@ -39,13 +39,13 @@ faq:
 
 # What Is Artificial Intelligence?
 
-Artificial intelligence (AI) is the field of [computer science](/computer-science) dedicated to creating systems capable of performing tasks that typically require human intelligence — including learning from experience, understanding natural language, recognizing patterns, making decisions, and solving problems. AI ranges from narrow systems designed for specific tasks (like image recognition or language translation) to the theoretical pursuit of machines with general, human-level cognitive abilities.
+Artificial intelligence (AI) is the field of [computer science](/computer-science) dedicated to creating systems capable of performing tasks that typically require human intelligence — including learning from experience, understanding natural language, recognizing patterns, making decisions, and solving problems. AI ranges from narrow systems designed for specific tasks (like image recognition or language [translation](/translation)) to the theoretical pursuit of machines with general, human-level cognitive abilities.
 
 ## The Idea Is Older Than You Think
 
-The dream of artificial minds predates computers by millennia. Greek myths featured Talos, a bronze automaton that guarded Crete. Medieval legends described mechanical men built by alchemists. Descartes speculated in the 1630s about whether animals were essentially biological machines — and if so, whether a sufficiently complex machine could think.
+The dream of artificial minds predates computers by millennia. Greek myths featured Talos, a bronze automaton that guarded Crete. Medieval [legends](/legends) described mechanical men built by alchemists. Descartes speculated in the 1630s about whether animals were essentially biological machines — and if so, whether a sufficiently complex machine could think.
 
-But the practical pursuit of AI started with a specific question. In 1950, Alan Turing — the British mathematician who helped crack the Enigma code during World War II — published a paper called "Computing Machinery and Intelligence." Its opening line was direct: "I propose to consider the question, 'Can machines think?'"
+But the practical pursuit of AI started with a specific question. In 1950, Alan Turing — the British mathematician who helped crack the Enigma code during [World War II](/world-war-ii) — published a paper called "Computing Machinery and Intelligence." Its opening line was direct: "I propose to consider the question, 'Can machines think?'"
 
 Turing didn't answer the question definitively. Instead, he proposed a test: if a human evaluator couldn't reliably distinguish between a machine's responses and a human's in a text conversation, the machine could be said to exhibit intelligence. The Turing Test became one of the most famous thought experiments in computer science, and people still argue about its validity.
 
@@ -59,7 +59,7 @@ AI's history reads like a stock chart with dramatic peaks and valleys.
 
 ### The Early Enthusiasm (1956-1974)
 
-The first two decades saw genuine breakthroughs. Programs that could prove mathematical theorems, play checkers competitively, and solve algebra word problems. The General Problem Solver (1957) could work through logical puzzles. ELIZA (1966) — a simple chatbot by MIT's Joseph Weizenbaum — convinced some users they were talking to a real therapist, despite using only pattern-matching rules.
+The first two decades saw genuine breakthroughs. Programs that could prove mathematical theorems, play [checkers](/checkers) competitively, and solve [algebra](/algebra) word problems. The General Problem Solver (1957) could work through logical puzzles. ELIZA (1966) — a simple chatbot by MIT's Joseph Weizenbaum — convinced some users they were talking to a real therapist, despite using only pattern-matching rules.
 
 Funding flowed from the US Department of Defense and other agencies. Researchers made bold predictions. Herbert Simon declared in 1965 that "machines will be capable, within twenty years, of doing any work a man can do." Minsky predicted in 1970 that a machine with general intelligence would exist "within three to eight years."
 
@@ -67,7 +67,7 @@ Funding flowed from the US Department of Defense and other agencies. Researchers
 
 Those predictions didn't pan out. The fundamental problem was that early AI could handle toy problems — carefully constrained puzzles in simplified worlds — but fell apart when faced with real-world complexity. Language understanding, visual perception, and common-sense reasoning turned out to be far harder than anticipated.
 
-Funding dried up. A 1973 British government report (the Lighthill Report) concluded that AI had failed to achieve its "grandiose objectives" and recommended cutting funding. DARPA reduced its AI investment. The field entered its first winter.
+Funding dried up. A 1973 British [government](/government) report (the Lighthill Report) concluded that AI had failed to achieve its "grandiose objectives" and recommended cutting funding. DARPA reduced its AI investment. The field entered its first winter.
 
 ### Expert Systems and the Second Boom (1980-1987)
 
@@ -83,15 +83,15 @@ Expert systems hit their limits. They were expensive to build, brittle when face
 
 The field's direction shifted fundamentally. Instead of trying to encode human knowledge as rules, researchers began using statistical methods to learn patterns from data. This was the birth of modern [machine learning](/machine-learning).
 
-IBM's Deep Blue defeated world chess champion Garry Kasparov in 1997 — but it did so with brute-force search and hand-crafted evaluation functions, not learning. The real revolution was quieter: spam filters learning to classify emails, recommendation engines suggesting products, and speech recognition systems gradually improving through statistical models trained on large datasets.
+IBM's Deep Blue defeated world [chess](/chess) champion Garry Kasparov in 1997 — but it did so with brute-force search and hand-crafted evaluation functions, not learning. The real revolution was quieter: spam filters learning to classify emails, recommendation engines suggesting products, and speech recognition systems gradually improving through statistical models trained on large datasets.
 
 ### The Deep Learning Explosion (2012-Present)
 
 In 2012, a deep neural network called AlexNet won the ImageNet image recognition competition by a massive margin — its error rate was 10 percentage points lower than the runner-up. This triggered a gold rush.
 
-Deep learning — [neural networks](/neural-networks) with many layers — turned out to be extraordinarily powerful when combined with large datasets and fast GPU computing. Suddenly, machines could recognize faces, translate languages, transcribe speech, and generate images at or near human performance levels.
+[Deep learning](/deep-learning) — [neural networks](/neural-networks) with many layers — turned out to be extraordinarily powerful when combined with large datasets and fast GPU computing. Suddenly, machines could recognize faces, translate languages, transcribe speech, and generate images at or near human performance levels.
 
-The breakthroughs accelerated. DeepMind's AlphaGo defeated the world champion Go player in 2016 — a feat thought to be at least a decade away. GPT-3 (2020) showed that large language models could generate surprisingly coherent text. By 2023, GPT-4, Claude, and other large language models were passing bar exams, writing code, and carrying on extended conversations that were often indistinguishable from human writing.
+The breakthroughs accelerated. DeepMind's AlphaGo defeated the world champion Go player in 2016 — a feat thought to be at least a decade away. GPT-3 (2020) showed that large language models could generate surprisingly coherent text. By 2023, GPT-4, Claude, and other large language models were passing bar exams, [writing](/writing) code, and carrying on extended conversations that were often indistinguishable from human writing.
 
 ## How AI Actually Works (The Main Approaches)
 
@@ -109,9 +109,9 @@ Instead of programming rules, you give the system data and let it figure out the
 
 **Supervised learning** trains on labeled examples. You show the system thousands of photos labeled "cat" or "not cat," and it learns features that distinguish cats from everything else. Once trained, it can classify new photos it's never seen. This approach powers image recognition, spam filters, medical diagnosis systems, and much more.
 
-**Unsupervised learning** finds patterns in unlabeled data. Clustering algorithms group similar customers for marketing. Dimensionality reduction techniques compress complex data into manageable forms. The system discovers structure without being told what to look for.
+**Unsupervised learning** finds patterns in unlabeled data. Clustering algorithms group similar customers for [marketing](/marketing). Dimensionality reduction techniques compress complex data into manageable forms. The system discovers structure without being told what to look for.
 
-**[Reinforcement learning](/reinforcement-learning)** trains through trial and error. An agent takes actions in an environment, receives rewards or penalties, and gradually learns strategies that maximize reward. This is how AlphaGo mastered Go and how robotics systems learn to walk and manipulate objects. It's loosely inspired by how animals learn through positive and negative reinforcement.
+**[Reinforcement learning](/reinforcement-learning)** trains through trial and error. An agent takes actions in an environment, receives rewards or penalties, and gradually learns strategies that maximize reward. This is how AlphaGo mastered Go and how [robotics](/robotics) systems learn to walk and manipulate objects. It's loosely inspired by how animals learn through positive and negative reinforcement.
 
 ### Neural Networks and Deep Learning
 
@@ -123,7 +123,7 @@ Key architectures include:
 
 - **Convolutional neural networks (CNNs)** — designed for images and spatial data
 - **Recurrent neural networks (RNNs)** and LSTMs — designed for sequential data like text and time series
-- **Transformers** — the architecture behind GPT, Claude, and other large language models. Introduced in 2017, transformers process entire sequences simultaneously rather than word-by-word, allowing much faster training and better capture of long-range relationships in text
+- **Transformers** — the [architecture](/architecture) behind GPT, Claude, and other large language models. Introduced in 2017, transformers process entire sequences simultaneously rather than word-by-word, allowing much faster training and better capture of long-range relationships in text
 
 ### Large Language Models
 
@@ -147,7 +147,7 @@ As of 2026, AI excels at:
 
 AI still struggles with:
 
-- **Common-sense reasoning**: "If I put a bowling ball on a glass table, what might happen?"
+- **Common-sense reasoning**: "If I put a [bowling](/bowling) ball on a glass table, what might happen?"
 - **Genuine understanding** vs. sophisticated pattern matching
 - **Transferring knowledge** across domains without retraining
 - **Physical world interaction** in unpredictable environments
@@ -176,7 +176,7 @@ AI [algorithms](/algorithms) execute the majority of stock trades. Credit scorin
 
 AI-generated art, music, and writing have gone from curiosities to commercial products. Text-to-image models like DALL-E, Midjourney, and Stable Diffusion create images from text descriptions. AI music tools generate compositions in any style. Screenwriters and authors use AI as brainstorming partners and first-draft generators.
 
-This has created fierce debate about authorship, copyright, and the economic impact on human creators. Should an AI-generated image be eligible for copyright? Should AI training on copyrighted material require permission? Courts and legislatures worldwide are grappling with these questions.
+This has created fierce [debate](/debate) about authorship, copyright, and the economic impact on human creators. Should an AI-generated image be eligible for copyright? Should AI training on copyrighted material require permission? Courts and legislatures worldwide are grappling with these questions.
 
 ## The Big Concerns
 
@@ -190,7 +190,7 @@ The problem isn't that AI is inherently biased — it's that it faithfully repro
 
 ### Job Displacement
 
-The economic impact of AI automation is real but unevenly distributed. McKinsey estimated in 2023 that generative AI could automate tasks accounting for roughly 30% of work hours in the US economy by 2030. Some workers will transition to new roles; others will need significant retraining; some will be displaced.
+The economic impact of AI automation is real but unevenly distributed. McKinsey estimated in 2023 that generative AI could automate tasks [accounting](/accounting) for roughly 30% of work hours in the US economy by 2030. Some workers will transition to new roles; others will need significant retraining; some will be displaced.
 
 History suggests that technology creates new jobs over the long run, but the transition can be painful for individuals and communities. The speed of AI adoption may make this transition faster — and harder — than previous technological shifts.
 
@@ -220,7 +220,7 @@ AI development shows no signs of slowing. Several questions will shape the next 
 
 **AI alignment**: How do we ensure AI systems do what we actually want, not just what we literally ask for? This is both a technical problem (specifying goals precisely) and a philosophical one (whose values should AI reflect?).
 
-**Energy consumption**: Training large AI models requires enormous computing power — and electricity. GPT-4's training reportedly consumed enough energy to power thousands of homes for a year. As models grow, energy costs become both an economic and environmental issue.
+**Energy consumption**: Training large AI models requires enormous computing power — and [electricity](/electricity). GPT-4's training reportedly consumed enough energy to power thousands of homes for a year. As models grow, energy costs become both an economic and environmental issue.
 
 **Open vs. closed development**: Should AI models be open-source (allowing anyone to use and modify them) or kept proprietary (giving companies more control over safety)? Both approaches have legitimate arguments, and the debate is intensifying.
 

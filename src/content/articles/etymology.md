@@ -87,7 +87,7 @@ Not every word origin story is true. **Folk etymologies** — popular but incorr
 
 "Cop" supposedly stands for "Constable On Patrol." It doesn't — it comes from an older verb meaning "to capture."
 
-"Golf" supposedly stands for "Gentlemen Only, Ladies Forbidden." It's actually from a Scots word related to Dutch *kolf* (club or bat).
+"[Golf](/golf)" supposedly stands for "Gentlemen Only, Ladies Forbidden." It's actually from a Scots word related to Dutch *kolf* (club or bat).
 
 The lesson: etymology requires evidence, not cleverness. A plausible-sounding backstory isn't the same as a documented history. The best etymology resources (the OED, Etymonline, Merriam-Webster's dictionary with etymologies) carefully document their sources and acknowledge uncertainty when evidence is lacking.
 

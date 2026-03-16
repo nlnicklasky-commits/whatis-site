@@ -45,7 +45,7 @@ The forms of nonfiction have multiplied. Long-form journalism, personal essays, 
 
 ### Fiction
 
-Writing about invented worlds, characters, and events. Novels, short stories, plays, screenplays, poetry (which blurs categories). Fiction's purpose varies — entertainment, emotional truth, [social commentary](/social-commentary), aesthetic experience — but its method is consistent: creating an imagined experience vivid enough that readers engage with it as if it were real.
+Writing about invented worlds, characters, and events. Novels, short stories, plays, screenplays, [poetry](/poetry) (which blurs categories). Fiction's purpose varies — entertainment, emotional truth, [social commentary](/social-commentary), aesthetic experience — but its method is consistent: creating an imagined experience vivid enough that readers engage with it as if it were real.
 
 [Fiction writing](/fiction-writing) requires a different skill set from nonfiction. You need to create characters who feel like real people, build settings that feel like real places, construct plots that generate and sustain tension, and write dialogue that sounds like actual speech (which, paradoxically, means it doesn't read like actual speech — real conversation transcribed verbatim is almost unreadable).
 

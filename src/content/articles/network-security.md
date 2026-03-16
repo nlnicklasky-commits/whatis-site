@@ -45,7 +45,7 @@ Here's a number that should get your attention: the average cost of a data breac
 
 Every organization with a computer connected to the internet has a network. And every network is a target. The question isn't whether someone will try to break in — it's when, and whether you'll be ready.
 
-Frankly, most people don't think about network security until something goes wrong. A hospital gets hit with ransomware and can't access patient records. A retailer loses millions of credit card numbers. A small business owner discovers their bank account drained because someone accessed their accounting system through an unsecured Wi-Fi network.
+Frankly, most people don't think about network security until something goes wrong. A hospital gets hit with ransomware and can't access patient records. A retailer loses millions of credit card numbers. A small business owner discovers their bank account drained because someone accessed their [accounting](/accounting) system through an unsecured Wi-Fi network.
 
 These aren't hypothetical scenarios. They happen every single day. The FBI's Internet Crime Complaint Center received over 880,000 complaints in 2023 alone, with losses exceeding $12.5 billion.
 
@@ -121,7 +121,7 @@ Internet Protocol Security operates at the network layer, encrypting entire IP p
 
 ### Wireless Encryption
 
-Wi-Fi networks need their own encryption layer. WPA3, the current standard, provides strong encryption for wireless communications. If you're still running WPA2 — or, worse, WEP — you're broadcasting an invitation to anyone with freely available hacking tools. WEP can be cracked in minutes. WPA3 is currently considered secure against all known attacks.
+Wi-Fi networks need their own encryption layer. WPA3, the current standard, provides strong encryption for wireless communications. If you're still [running](/running) WPA2 — or, worse, WEP — you're [broadcasting](/broadcasting) an invitation to anyone with freely available hacking tools. WEP can be cracked in minutes. WPA3 is currently considered secure against all known attacks.
 
 ## [Intrusion Detection](/intrusion-detection) and Prevention
 
@@ -143,7 +143,7 @@ More advanced systems use [machine learning](/machine-learning) to build a basel
 
 ## Access Control: Who Gets In
 
-Not every user needs access to every resource. A marketing intern doesn't need access to financial databases. A contractor working on the website shouldn't be able to reach HR systems. Access control ensures people only access what they need.
+Not every user needs access to every resource. A [marketing](/marketing) intern doesn't need access to financial databases. A contractor working on the website shouldn't be able to reach HR systems. Access control ensures people only access what they need.
 
 ### Authentication
 
@@ -199,7 +199,7 @@ The core principles:
 2. **Use least-privilege access.** Grant minimum necessary permissions with just-in-time and just-enough-access policies.
 3. **Assume breach.** Design the network as if an attacker is already inside. Segment access, encrypt all traffic, and use analytics to detect anomalies.
 
-Major organizations including Google (with their BeyondCorp framework) and Microsoft have adopted zero trust architectures. The U.S. federal government mandated zero trust adoption across all agencies by 2024.
+Major organizations including Google (with their BeyondCorp framework) and Microsoft have adopted zero trust architectures. The U.S. federal [government](/government) mandated zero trust adoption across all agencies by 2024.
 
 ## Security Monitoring and Incident Response
 
@@ -227,13 +227,13 @@ Traditional network security assumed your data lived in a physical data center y
 
 ### The Shared Responsibility Model
 
-Cloud providers secure the infrastructure — physical data centers, hypervisors, networking hardware. But you're responsible for securing what you put in the cloud — your data, access policies, application configurations, and encryption keys.
+Cloud providers secure the infrastructure — physical data centers, hypervisors, [networking](/networking) hardware. But you're responsible for securing what you put in the cloud — your data, access policies, application configurations, and encryption keys.
 
 This distinction trips up many organizations. They assume migrating to AWS or Azure means security is "handled." It's not. Misconfigured cloud storage buckets have caused some of the largest data breaches in history.
 
 ### Cloud-Native Security Tools
 
-Cloud Access Security Brokers (CASBs) monitor traffic between your organization and cloud services. Cloud Security Posture Management (CSPM) tools continuously scan cloud configurations for vulnerabilities. Secure Access Service Edge (SASE) combines networking and security functions in a single cloud-delivered service.
+Cloud Access Security Brokers (CASBs) monitor traffic between your organization and cloud services. Cloud Security Posture [Management](/management) (CSPM) tools continuously scan cloud configurations for vulnerabilities. Secure Access Service Edge (SASE) combines networking and security functions in a single cloud-delivered service.
 
 ### Container and Microservice Security
 
@@ -267,7 +267,7 @@ Software vulnerabilities are discovered constantly. Vendors release patches to f
 
 ### Employee Training
 
-Humans remain the most exploited vulnerability. Regular security awareness training — teaching employees to recognize phishing, use strong passwords, report suspicious activity — dramatically reduces successful attacks. The most sophisticated network security is worthless if an employee clicks a malicious link and enters their credentials.
+Humans remain the most exploited vulnerability. Regular security awareness training — [teaching](/teaching) employees to recognize phishing, use strong passwords, report suspicious activity — dramatically reduces successful attacks. The most sophisticated network security is worthless if an employee clicks a malicious link and enters their credentials.
 
 ### Security Policies
 
@@ -281,7 +281,7 @@ Network security is evolving rapidly in response to changing threats and technol
 
 **Software-defined networking (SDN)** separates the network's control plane from the data plane, enabling active, programmable security policies that adapt to conditions automatically.
 
-**Quantum computing** threatens to break current encryption [algorithms](/algorithms). Post-[quantum cryptography](/quantum-cryptography) — new encryption methods resistant to quantum attacks — is being developed and standardized now, before quantum computers become powerful enough to pose a threat.
+**[Quantum computing](/quantum-computing)** threatens to break current encryption [algorithms](/algorithms). Post-[quantum cryptography](/quantum-cryptography) — new encryption methods resistant to quantum attacks — is being developed and standardized now, before quantum computers become powerful enough to pose a threat.
 
 **IoT security** is becoming critical as billions of connected devices — many with minimal built-in security — join networks. Smart thermostats, industrial sensors, medical devices, and connected vehicles all expand the attack surface.
 

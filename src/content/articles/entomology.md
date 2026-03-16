@@ -37,15 +37,15 @@ faq:
 
 # What Is Entomology?
 
-Entomology is the branch of zoology dedicated to the scientific study of insects — their biology, ecology, behavior, classification, and interactions with other organisms and the environment. With over one million described species and estimates suggesting millions more await discovery, insects represent the most diverse group of animals on Earth, and entomology is the science that makes sense of them all.
+Entomology is the branch of zoology dedicated to the scientific study of insects — their biology, [ecology](/ecology), behavior, classification, and interactions with other organisms and the environment. With over one million described species and estimates suggesting millions more await discovery, insects represent the most diverse group of animals on Earth, and entomology is the science that makes sense of them all.
 
 ## Why Insects Deserve Their Own Science
 
 Here's a number that should stop you cold: insects make up roughly 80% of all known animal species. There are more species of beetles alone than there are species of mammals, birds, reptiles, and amphibians combined. The entomologist J.B.S. Haldane reportedly quipped that God has "an inordinate fondness for beetles," and the data backs him up — over 400,000 beetle species have been catalogued so far.
 
-But sheer numbers aren't the whole story. Insects occupy virtually every terrestrial and freshwater habitat on the planet, from Arctic tundra to desert sand dunes to deep cave systems. They've been around for at least 400 million years, predating dinosaurs by a comfortable margin. They pollinate your food, break down dead things, aerate soil, feed fish and birds, and occasionally make your summer barbecue miserable.
+But sheer numbers aren't the whole story. Insects occupy virtually every terrestrial and freshwater habitat on the planet, from Arctic tundra to desert sand dunes to deep cave systems. They've been around for at least 400 million years, predating [dinosaurs](/dinosaurs) by a comfortable margin. They pollinate your food, break down dead things, aerate soil, feed fish and birds, and occasionally make your summer barbecue miserable.
 
-The point is this: you cannot understand [biology](/biology) — or ecology, or agriculture, or public health — without understanding insects. And that's exactly what entomology provides.
+The point is this: you cannot understand [biology](/biology) — or ecology, or agriculture, or [public health](/public-health) — without understanding insects. And that's exactly what entomology provides.
 
 ## A Brief History of Studying Insects
 
@@ -55,7 +55,7 @@ The formal science of entomology emerged in the 17th century. Jan Swammerdam, a 
 
 Carl Linnaeus's classification system in the 1750s gave entomology its organizing framework. Suddenly, insects weren't just "crawly things" — they had families, genera, species. Order emerged from chaos. By the 19th century, entomology had become a major scientific discipline, with dedicated journals, societies, and university departments worldwide.
 
-The 20th century brought genetics, electron microscopy, and chemical ecology into the mix. Today's entomologists use DNA barcoding, satellite tracking, computational modeling, and even artificial intelligence to study insects. The tools have changed; the fascination hasn't.
+The 20th century brought [genetics](/genetics), [electron microscopy](/electron-microscopy), and chemical ecology into the mix. Today's entomologists use DNA barcoding, satellite tracking, computational modeling, and even artificial intelligence to study insects. The tools have changed; the fascination hasn't.
 
 ## Insect Anatomy: The Basic Blueprint
 
@@ -71,7 +71,7 @@ This variation in mouthparts alone tells you something important about insect di
 
 The thorax is the locomotion center. Three segments, each bearing a pair of legs. In most flying insects, wings attach to the second and third thoracic segments. The flight muscles inside the thorax can be astonishingly powerful relative to body size. A common housefly beats its wings about 200 times per second. A midge can hit 1,000 beats per second.
 
-Insect flight is actually an engineering marvel. Unlike birds, many insects can hover, fly backward, and change direction almost instantaneously. Dragonflies are considered among the most efficient aerial predators ever evolved, catching prey mid-flight with a success rate around 95%.
+Insect flight is actually an [engineering](/engineering) marvel. Unlike birds, many insects can hover, fly backward, and change direction almost instantaneously. Dragonflies are considered among the most efficient aerial predators ever evolved, catching prey mid-flight with a success rate around 95%.
 
 ### The Abdomen
 
@@ -113,7 +113,7 @@ Insects aren't just background noise in ecosystems. They're load-bearing pillars
 
 ### Pollination
 
-Here's the fact that keeps agricultural scientists up at night: about 75% of the world's food crops depend at least partly on animal pollination, and insects — especially bees — do most of the heavy lifting. The economic value of insect pollination services has been estimated at $235 to $577 billion annually worldwide. Honeybees get the most attention, but wild bees, hoverflies, butterflies, beetles, and even some wasps are critical pollinators too.
+Here's the fact that keeps agricultural scientists up at night: about 75% of the world's food crops depend at least partly on animal [pollination](/pollination), and insects — especially bees — do most of the heavy lifting. The economic value of insect pollination services has been estimated at $235 to $577 billion annually worldwide. Honeybees get the most attention, but wild bees, hoverflies, butterflies, beetles, and even some wasps are critical pollinators too.
 
 Without insect pollinators, you'd lose most fruits, vegetables, nuts, and oilseeds. Your diet would be limited largely to wind-pollinated grains. No blueberries. No almonds. No chocolate (cacao is pollinated by midges). No coffee, in many growing regions.
 
@@ -121,7 +121,7 @@ This is why colony collapse disorder — the mysterious mass die-off of honeybee
 
 ### Decomposition and Nutrient Cycling
 
-Insects are nature's recycling crew. Dung beetles process animal waste — in Australia, the introduction of African dung beetles dramatically reduced fly populations and improved pasture quality by burying cattle dung that native beetles couldn't handle. Carrion beetles and fly larvae break down dead animals. Termites decompose dead wood, returning nutrients to soil.
+Insects are nature's [recycling](/recycling) crew. Dung beetles process animal waste — in Australia, the introduction of African dung beetles dramatically reduced fly populations and improved pasture quality by burying cattle dung that native beetles couldn't handle. Carrion beetles and fly larvae break down dead animals. Termites decompose dead wood, returning nutrients to soil.
 
 Without insect decomposers, dead organic matter would pile up. Nutrient cycles would stall. Soil fertility would plummet. The system would break.
 
@@ -135,7 +135,7 @@ The well-documented decline in insect biomass — some studies have reported 75%
 
 Many insects eat other insects. Ladybugs devour aphids. Parasitoid wasps lay eggs inside caterpillar pests. Lacewing larvae are voracious predators of soft-bodied pest insects. Entomologists working in [agriculture](/agriculture) often promote these beneficial insects as alternatives to chemical pesticides.
 
-Integrated pest management (IPM) — a strategy that combines biological control, habitat manipulation, and targeted pesticide use — relies heavily on entomological knowledge. Understanding pest lifecycles, natural enemies, and population dynamics allows farmers to reduce pesticide use while maintaining crop yields.
+Integrated pest [management](/management) (IPM) — a strategy that combines biological control, habitat manipulation, and targeted pesticide use — relies heavily on entomological knowledge. Understanding pest lifecycles, natural enemies, and population dynamics allows farmers to reduce pesticide use while maintaining crop yields.
 
 ## Applied Entomology: Practical Applications
 
@@ -171,9 +171,9 @@ This deserves its own section because it's that important.
 
 A 2019 review in *Biological Conservation* estimated that 40% of insect species are declining and a third are endangered. The rate of insect biomass loss in some areas — roughly 2.5% per year — suggests that within decades, many ecosystems could face catastrophic insect loss.
 
-The primary drivers are habitat destruction (especially conversion of land for [agriculture](/agriculture)), pesticide use (particularly neonicotinoids, which are toxic to bees at sub-lethal concentrations), climate change, invasive species, and light pollution.
+The primary drivers are habitat destruction (especially conversion of land for [agriculture](/agriculture)), pesticide use (particularly neonicotinoids, which are toxic to bees at sub-lethal concentrations), [climate change](/climate-change), invasive species, and light pollution.
 
-The consequences extend far beyond insects themselves. Pollination collapses would devastate food production. Loss of insect decomposers would disrupt nutrient cycling. Declining insect prey would cascade through food webs, affecting birds, bats, fish, and amphibians.
+The consequences extend far beyond insects themselves. Pollination collapses would devastate food production. Loss of insect decomposers would disrupt nutrient [cycling](/cycling). Declining insect prey would cascade through food webs, affecting birds, bats, fish, and amphibians.
 
 Some researchers have called this an "insect apocalypse," though others caution that the data is patchy — most long-term monitoring has occurred in Europe, and trends in tropical regions (where most insect diversity exists) are poorly understood. What's not debated is the direction: insect populations are declining in most studied locations, and the trend is deeply concerning.
 
@@ -219,13 +219,13 @@ Most professional entomologists hold at least a master's degree, and research po
 - **Public health** — mosquito control programs and disease vector research
 - **Museum curation** — maintaining insect collections and conducting taxonomic research
 - **Environmental consulting** — assessing insect biodiversity for environmental impact studies
-- **Academia** — teaching and research at universities
-- **Government agencies** — USDA, EPA, CDC, and state agriculture departments all employ entomologists
+- **Academia** — [teaching](/teaching) and research at universities
+- **[Government](/government) agencies** — USDA, EPA, CDC, and state agriculture departments all employ entomologists
 - **Private industry** — pesticide companies, biotech firms, and consulting agencies
 
 Salaries vary significantly. Entry-level positions with a bachelor's degree might start around $40,000, while experienced PhD-level researchers in government or industry can earn $80,000-$120,000 or more.
 
-The field is not oversaturated. Qualified entomologists — particularly those with expertise in taxonomy, molecular biology, or data analysis — are in consistent demand.
+The field is not oversaturated. Qualified entomologists — particularly those with expertise in [taxonomy](/taxonomy), [molecular biology](/molecular-biology), or [data analysis](/data-analysis) — are in consistent demand.
 
 ## Entomology's Connections to Other Sciences
 

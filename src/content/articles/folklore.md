@@ -37,13 +37,13 @@ Folklore is the collective body of traditions, beliefs, stories, customs, and cr
 
 Most people hear "folklore" and think of old fairy tales and myths. That's a sliver of the actual field. Folklore encompasses:
 
-**Verbal lore** — stories, jokes, proverbs, riddles, tongue twisters, insults, blessings, curses, and speechmaking traditions. That joke your uncle tells at every Thanksgiving? Folklore.
+**Verbal lore** — stories, jokes, proverbs, [riddles](/riddles), tongue twisters, insults, blessings, curses, and speechmaking traditions. That joke your uncle tells at every Thanksgiving? Folklore.
 
-**Material lore** — folk art, folk [architecture](/architecture), traditional food, traditional clothing, [quilting](/quilting) patterns, pottery styles. The way your grandmother makes her pie crust — the specific technique passed from her grandmother — is material folklore.
+**Material lore** — folk art, folk [architecture](/architecture), traditional food, traditional clothing, [quilting](/quilting) patterns, [pottery](/pottery) styles. The way your grandmother makes her pie crust — the specific technique passed from her grandmother — is material folklore.
 
 **Customary lore** — rituals, festivals, games, gestures, superstitions, calendar customs. Knocking on wood to avoid bad luck, throwing rice at weddings, blowing out birthday candles and making a wish — all folklore.
 
-**Performative lore** — [folk music](/folk-music), folk dance, folk drama, [storytelling](/storytelling) traditions. When kids play "Ring Around the Rosie" (a rhyme possibly dating to the 1880s or earlier), they're performing folklore.
+**Performative lore** — [folk music](/folk-music), folk [dance](/dance), folk [drama](/drama), [storytelling](/storytelling) traditions. When kids play "Ring Around the Rosie" (a rhyme possibly dating to the 1880s or earlier), they're performing folklore.
 
 The word "folklore" was coined in 1846 by English scholar William Thoms as a replacement for "popular antiquities." He wanted a single term for the traditional knowledge and practices of ordinary people.
 

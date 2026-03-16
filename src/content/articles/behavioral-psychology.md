@@ -115,13 +115,13 @@ Skinner was a **radical behaviorist** — a term he coined himself. Confusingly,
 
 The famous Watson experiment that shadows this whole field: the "Little Albert" study (1920). Watson and his assistant Rosalie Rayner conditioned a 9-month-old infant to fear a white rat by pairing the rat with a loud, startling noise. The baby generalized this fear to other furry objects — a rabbit, a fur coat, even a Santa Claus mask.
 
-The experiment would be wildly unethical by modern standards. The child was never deconditioned, and his later identity was debated for decades. The study is historically important as a demonstration of classically conditioned emotional responses in humans, but it's also a cautionary tale about the ethics of psychological research.
+The experiment would be wildly unethical by modern standards. The child was never deconditioned, and his later identity was debated for decades. The study is historically important as a demonstration of classically conditioned emotional responses in humans, but it's also a cautionary tale about the [ethics](/ethics) of psychological research.
 
 ## Where Behaviorism Falls Short
 
 By the 1960s and 1970s, behaviorism faced serious challenges from multiple directions.
 
-**Noam Chomsky's critique of [language acquisition](/language-acquisition)** was devastating. Skinner's 1957 book "Verbal Behavior" argued that language is learned through operant conditioning — children produce sounds, are reinforced for meaningful ones, and gradually shape their verbal repertoire. Chomsky's 1959 review argued this was hopelessly inadequate. Children produce sentences they've never heard before (ruling out simple imitation). They learn grammar far too quickly and with too little explicit correction to be explained by reinforcement alone. Chomsky proposed an innate language acquisition device — a biological capacity for grammar — that behaviorism simply couldn't account for.
+**Noam Chomsky's critique of [language acquisition](/language-acquisition)** was devastating. Skinner's 1957 book "Verbal Behavior" argued that language is learned through operant conditioning — children produce sounds, are reinforced for meaningful ones, and gradually shape their verbal repertoire. Chomsky's 1959 review argued this was hopelessly inadequate. Children produce sentences they've never heard before (ruling out simple imitation). They learn [grammar](/grammar) far too quickly and with too little explicit correction to be explained by reinforcement alone. Chomsky proposed an innate language acquisition device — a biological capacity for grammar — that behaviorism simply couldn't account for.
 
 **Tolman's cognitive maps** showed that rats could learn the layout of a maze without reinforcement — a phenomenon called latent learning. When reinforcement was later introduced, they immediately demonstrated knowledge they'd acquired without any behavioral consequence. This directly contradicted the behaviorist claim that learning requires reinforcement.
 

@@ -31,7 +31,7 @@ faq:
 
 # What Is Table Tennis?
 
-Table tennis — also called ping-pong — is a sport in which two or four players hit a lightweight ball back and forth across a net on a hard table using small paddles. Games are played to 11 points, and you need to win by 2. Matches are typically best of 5 or 7 games.
+Table [tennis](/tennis) — also called ping-pong — is a sport in which two or four players hit a lightweight ball back and forth across a net on a hard table using small paddles. Games are played to 11 points, and you need to win by 2. Matches are typically best of 5 or 7 games.
 
 It sounds simple. It is emphatically not. At the competitive level, table tennis is one of the fastest sports in the world. The ball can spin at over 9,000 rpm, travel at 70+ mph, and the time between shots is measured in fractions of a second. Professional players make split-second decisions that recreational players can barely follow with their eyes.
 

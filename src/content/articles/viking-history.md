@@ -75,7 +75,7 @@ Meanwhile, in France, a Viking leader named Rollo besieged Paris and was eventua
 
 Norwegian Vikings didn't just raid. They colonized. Iceland was settled beginning around 870 CE, and by 930, the population had reached roughly 30,000 — mostly Norse farmers and their Irish slaves and wives. The Icelanders established the Althing in 930, one of the world's oldest parliamentary institutions.
 
-From Iceland, Erik the Red — exiled for murder, which tells you something about the culture — sailed west and discovered Greenland around 982 CE. He named it "Greenland" as a [marketing](/marketing) ploy to attract settlers. It worked. Two Norse colonies survived there for over 400 years before disappearing in the 15th century, likely due to climate change and isolation.
+From Iceland, Erik the Red — exiled for murder, which tells you something about the culture — sailed west and discovered Greenland around 982 CE. He named it "Greenland" as a [marketing](/marketing) ploy to attract settlers. It worked. Two Norse colonies survived there for over 400 years before disappearing in the 15th century, likely due to [climate change](/climate-change) and isolation.
 
 Erik's son, Leif Erikson, pushed even further west around 1000 CE and reached a place he called Vinland. In 1960, archaeologists Helge and Anne Stine Ingstad confirmed what the Norse sagas had claimed: they found a Norse settlement at L'Anse aux Meadows in Newfoundland, Canada. This was the first proven European presence in the Americas — nearly 500 years before Columbus.
 
@@ -83,7 +83,7 @@ A 2021 study using [radiocarbon dating](/radiocarbon-dating) of wood cut with me
 
 ## The Eastern Route: Varangians in Russia
 
-While Norwegian and Danish Vikings went west and south, Swedish Vikings headed east. Following river routes through what is now Russia and Ukraine, they established trade networks stretching from the Baltic to the Black Sea and the Caspian.
+While Norwegian and Danish Vikings went west and south, Swedish Vikings headed east. Following river routes through what is now Russia and Ukraine, they established [trade](/trade) networks stretching from the Baltic to the Black Sea and the Caspian.
 
 These Varangians — as the eastern Vikings were known — founded or controlled key trading settlements including Novgorod and Kyiv. The Rus' people, from whom Russia gets its name, were likely of Scandinavian origin, though this remains debated by historians.
 
@@ -99,7 +99,7 @@ The legal system centered on the *Thing* — an assembly where free men gathered
 
 ## Religion: From Odin to Christ
 
-Norse religion was polytheistic, with a rich mythology that has proven remarkably durable in [popular culture](/popular-culture). Odin, the one-eyed All-Father, valued wisdom and [poetry](/poetry). Thor, with his hammer Mjölnir, protected humanity from giants. Freya governed love, fertility, and also death — she claimed half the fallen warriors, with Odin taking the other half for Valhalla.
+Norse [religion](/religion) was polytheistic, with a rich [mythology](/mythology) that has proven remarkably durable in [popular culture](/popular-culture). Odin, the one-eyed All-Father, valued wisdom and [poetry](/poetry). Thor, with his hammer Mjölnir, protected humanity from giants. Freya governed love, fertility, and also death — she claimed half the fallen warriors, with Odin taking the other half for Valhalla.
 
 The conversion to [Christianity](/christianity) happened gradually, roughly between 960 and 1100 CE. Denmark's Harald Bluetooth (yes, the wireless technology is named after him) was baptized around 965 CE. Norway's conversion was more violent — King Olaf Tryggvason and later Olaf II used force. Iceland converted by parliamentary vote in 1000 CE, in a remarkably pragmatic decision meant to prevent civil war.
 

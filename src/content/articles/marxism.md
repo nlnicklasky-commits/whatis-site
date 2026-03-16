@@ -39,7 +39,7 @@ That's a lot to unpack. And it's been unpacked, debated, implemented, distorted,
 
 ### Historical Materialism
 
-Marx argued that the economic structure of society — how goods are produced and who controls production — shapes everything else: [politics](/politics), law, religion, culture, and ideas. He called this the "base" (economic relations) determining the "superstructure" (everything else).
+Marx argued that the economic structure of society — how goods are produced and who controls production — shapes everything else: [politics](/politics), law, [religion](/religion), culture, and ideas. He called this the "base" (economic relations) determining the "superstructure" (everything else).
 
 This doesn't mean Marx thought ideas don't matter. He meant that the dominant ideas in any society tend to reflect and justify the economic interests of the ruling class. Medieval Europe's religious worldview justified feudal hierarchy. Capitalism's emphasis on individual freedom justifies private ownership and wage labor.
 

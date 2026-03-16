@@ -41,7 +41,7 @@ Geomorphology is the scientific study of landforms and the processes that shape 
 
 Look out any window. Whatever you see—hills, flat plains, river valleys, coastal cliffs—has a story. Geomorphology is the science of reading that story. Every slope, every ridge, every bend in a river exists because specific physical, chemical, and biological processes acted on specific materials over specific timescales.
 
-The field sits at the intersection of geology, physics, chemistry, and [biology](/biology). A geomorphologist might study the physics of flowing water to understand river channel formation, the chemistry of mineral dissolution to explain cave development, or the biology of vegetation to predict hillslope stability.
+The field sits at the intersection of [geology](/geology), [physics](/physics), [chemistry](/chemistry), and [biology](/biology). A geomorphologist might study the physics of flowing water to understand river channel formation, the chemistry of mineral dissolution to explain cave development, or the biology of vegetation to predict hillslope stability.
 
 What makes geomorphology distinct from general geology is its focus on *surface processes and forms*. Geologists study Earth from core to crust. Geomorphologists concentrate on what happens at and near the surface—the interface between rock, water, air, and life.
 
@@ -51,7 +51,7 @@ The roots of geomorphology stretch back to the 18th century. James Hutton, often
 
 In the late 1800s, American geographer William Morris Davis developed the "cycle of erosion" theory, proposing that landscapes pass through stages of youth (steep, rugged terrain), maturity (gentler slopes), and old age (flat peneplains). His framework dominated geomorphology for decades—and while it turned out to be overly simplistic, it established geomorphology as a distinct scientific discipline.
 
-The 20th century brought a shift toward quantitative, process-based geomorphology. Instead of classifying landscapes into stages, researchers began measuring the actual forces—water velocity, sediment transport rates, tectonic uplift—that create landforms. This approach, combining field measurements with physics and mathematics, defines modern geomorphology.
+The 20th century brought a shift toward quantitative, process-based geomorphology. Instead of classifying landscapes into stages, researchers began measuring the actual forces—water velocity, sediment transport rates, tectonic uplift—that create landforms. This approach, combining field measurements with physics and [mathematics](/mathematics), defines modern geomorphology.
 
 ## The Forces That Shape the Land
 
@@ -63,7 +63,7 @@ Earth's surface is caught in a constant tug-of-war between forces that build ter
 
 Volcanic activity creates landforms rapidly. Mount St. Helens lost 400 meters of elevation in a single eruption in 1980. Hawaii's Big Island grows as lava flows extend its coastline. Iceland sits on a mid-ocean ridge where new crust is literally being manufactured.
 
-Earthquakes reshape landscapes through faulting—vertical and horizontal displacement along fractures in the crust. The San Andreas Fault moves Los Angeles northwest relative to San Francisco by about 46 millimeters per year. In 15 million years, LA will be a suburb of San Francisco. (The real estate implications are unclear.)
+Earthquakes reshape landscapes through faulting—vertical and horizontal displacement along fractures in the crust. The San Andreas Fault moves Los Angeles northwest relative to San Francisco by about 46 millimeters per year. In 15 million years, LA will be a suburb of San Francisco. (The [real estate](/real-estate) implications are unclear.)
 
 ### Weathering: Breaking Down
 
@@ -97,7 +97,7 @@ Rivers are Earth's primary sculptors. They create V-shaped valleys, floodplains,
 
 Rivers evolve over time. Young rivers in mountainous terrain tend to be steep and fast, cutting downward aggressively. Mature rivers on gentler slopes meander across broad floodplains, depositing sediment in characteristic patterns. But this isn't a rigid sequence—tectonic uplift can rejuvenate an old river, and a dam (natural or artificial) can completely reorganize a river's behavior.
 
-Understanding fluvial geomorphology matters enormously for practical purposes. Flood prediction, [water management](/desalination), bridge design, and urban planning all require knowledge of how rivers behave and how their channels change over time.
+Understanding fluvial geomorphology matters enormously for practical purposes. Flood prediction, [water management](/desalination), bridge design, and [urban planning](/urban-planning) all require knowledge of how rivers behave and how their channels change over time.
 
 ### Glacial Landforms
 
@@ -111,7 +111,7 @@ Today, glacial geomorphology takes on new urgency as [climate change](/climatolo
 
 Coastlines are among the most active landscapes on Earth. Waves, tides, currents, and sea-level changes constantly reshape them. Coastal landforms include cliffs, beaches, spits, barrier islands, sea stacks, wave-cut platforms, and estuaries.
 
-Coastal geomorphology matters because about 40% of the world's population lives within 100 kilometers of a coast. Understanding beach erosion, cliff retreat, and barrier island migration is essential for protecting communities. Sea-level rise from climate change—projected at 0.3 to 1.0 meters by 2100—adds urgency to coastal geomorphological research.
+Coastal geomorphology matters because about 40% of the world's population lives within 100 kilometers of a coast. Understanding beach erosion, cliff retreat, and barrier island migration is essential for protecting communities. Sea-level rise from [climate change](/climate-change)—projected at 0.3 to 1.0 meters by 2100—adds urgency to coastal geomorphological research.
 
 ### Aeolian Landforms (Wind)
 
@@ -123,13 +123,13 @@ Sand dunes are surprisingly complex. Their shape depends on wind direction, sand
 
 When slightly acidic water dissolves soluble bedrock—usually limestone—it creates karst landscapes. Caves, sinkholes, disappearing streams, and tower karst (the dramatic limestone pinnacles of southern China and Vietnam) are all karst features.
 
-About 20% of Earth's ice-free land surface is karst terrain. Karst aquifers provide drinking water for roughly 25% of the world's population. Understanding karst geomorphology is critical for groundwater management because karst aquifers behave very differently from other types—water flows through large channels rather than pores, making them both highly productive and highly vulnerable to contamination.
+About 20% of Earth's ice-free land surface is karst terrain. Karst aquifers provide drinking water for roughly 25% of the world's population. Understanding karst geomorphology is critical for groundwater [management](/management) because karst aquifers behave very differently from other types—water flows through large channels rather than pores, making them both highly productive and highly vulnerable to contamination.
 
 ### Volcanic Landforms
 
 Volcanoes create some of the most dramatic landforms on Earth. Shield volcanoes (like Hawaii's Mauna Loa) build broad, gently-sloped structures from fluid lava flows. Stratovolcanoes (like Mount Fuji) create steep, symmetrical cones from alternating lava and ash layers. Calderas form when a volcano's magma chamber empties and the surface collapses—Yellowstone sits in a caldera 72 kilometers long.
 
-Volcanic activity also creates lava plateaus, volcanic islands, hot springs, and geysers. It's one of the few geomorphological processes that genuinely creates new land from scratch.
+Volcanic activity also creates lava plateaus, volcanic islands, hot [springs](/springs), and geysers. It's one of the few geomorphological processes that genuinely creates new land from scratch.
 
 ## Measuring and Modeling Landscapes
 
@@ -165,15 +165,15 @@ After a major landslide, geomorphologists map the affected area, analyze why it 
 
 ### Environmental Management
 
-River restoration projects require geomorphological expertise. When a channelized river is returned to a more natural state, geomorphologists design the new channel geometry to ensure it's stable—the right width, depth, slope, and sinuosity for the water and sediment it carries.
+River restoration projects require geomorphological expertise. When a channelized river is returned to a more natural state, geomorphologists design the new channel [geometry](/geometry) to ensure it's stable—the right width, depth, slope, and sinuosity for the water and sediment it carries.
 
 [Agricultural](/agriculture) land management benefits from understanding erosion processes. Geomorphologists help design terracing, buffer strips, and drainage systems that minimize soil loss while maintaining productivity. Globally, about 24 billion tons of topsoil are lost to erosion annually—a problem with direct implications for food security.
 
 ### Engineering and Construction
 
-Roads, bridges, tunnels, and buildings all interact with the field. Geomorphological assessment identifies potential problems—unstable slopes, subsidence-prone ground, flood-vulnerable locations—before construction begins, when solutions are cheapest.
+Roads, bridges, tunnels, and buildings all interact with the field. Geomorphological assessment identifies potential problems—unstable slopes, subsidence-prone ground, flood-vulnerable locations—before [construction](/construction) begins, when solutions are cheapest.
 
-In coastal areas, geomorphological understanding guides decisions about sea walls, beach nourishment, and managed retreat. Hard engineering (sea walls, groins) often simply shifts erosion problems elsewhere. Modern coastal management increasingly uses geomorphological principles to work with natural processes rather than against them.
+In coastal areas, geomorphological understanding guides decisions about sea walls, beach nourishment, and managed retreat. Hard [engineering](/engineering) (sea walls, groins) often simply shifts erosion problems elsewhere. Modern coastal management increasingly uses geomorphological principles to work with natural processes rather than against them.
 
 ### Planetary Geomorphology
 
@@ -203,7 +203,7 @@ Understanding these climate-field feedbacks is one of the most pressing challeng
 
 Geomorphology is evolving rapidly. New technologies—drones, high-resolution satellite imagery, LiDAR, cosmogenic dating, numerical modeling—provide unprecedented ability to measure and simulate field processes. The integration of [data science](/data-science) and machine learning is beginning to reveal patterns in field data that traditional methods missed.
 
-The field is also becoming more interdisciplinary. Biogeomorphology studies how organisms shape landscapes (and vice versa). Tectonic geomorphology uses field features to infer tectonic processes occurring deep in the crust. Critical zone science integrates geomorphology with hydrology, soil science, ecology, and geochemistry to understand Earth's life-supporting surface layer.
+The field is also becoming more interdisciplinary. Biogeomorphology studies how organisms shape landscapes (and vice versa). Tectonic geomorphology uses field features to infer tectonic processes occurring deep in the crust. Critical zone science integrates geomorphology with [hydrology](/hydrology), [soil science](/soil-science), [ecology](/ecology), and [geochemistry](/geochemistry) to understand Earth's life-supporting surface layer.
 
 ## Key Takeaways
 

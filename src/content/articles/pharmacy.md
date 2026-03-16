@@ -47,7 +47,7 @@ Yes, pharmacists still dispense prescriptions. But "dispensing" involves far mor
 
 - **Correct dosage** — Is this the right amount for the patient's age, weight, and kidney function?
 - **Drug interactions** — Will this new medication clash with something the patient already takes?
-- **Allergies** — Has the patient reported sensitivities to this drug class?
+- **[Allergies](/allergies)** — Has the patient reported sensitivities to this drug class?
 - **Therapeutic duplication** — Is the patient already taking a different medication that does the same thing?
 
 Pharmacists catch prescribing errors more often than most people realize. A 2016 study in the *Journal of the American Pharmacists Association* found that community pharmacists intervened on roughly 2% of all prescriptions processed — and given that U.S. pharmacies fill over 4 billion prescriptions annually, that translates to roughly 80 million potential problems caught each year.
@@ -82,7 +82,7 @@ After earning a PharmD, graduates must pass two exams: the NAPLEX (North America
 
 ### Residencies and Specialization
 
-Pharmacists who want to work in clinical settings often complete one or two years of post-graduate residency training. Board certification is available in specialties including oncology, critical care, infectious diseases, psychiatry, [pediatrics](/pediatrics), and ambulatory care.
+Pharmacists who want to work in clinical settings often complete one or two years of post-graduate residency training. Board certification is available in specialties including [oncology](/oncology), critical care, infectious diseases, [psychiatry](/psychiatry), [pediatrics](/pediatrics), and ambulatory care.
 
 ## The Different Settings
 
@@ -96,7 +96,7 @@ The pace is intense. A busy community pharmacy might fill 300 to 500 prescriptio
 
 ### Hospital Pharmacy
 
-Hospital pharmacists work behind the scenes — and sometimes at the bedside. They prepare IV medications, check physician orders, dose antibiotics based on culture results, and participate in code blue responses. In teaching hospitals, they train pharmacy students and residents.
+Hospital pharmacists work behind the scenes — and sometimes at the bedside. They prepare IV medications, check physician orders, dose antibiotics based on culture results, and participate in code blue responses. In [teaching](/teaching) hospitals, they train pharmacy students and residents.
 
 The work is often more clinically complex than community practice. Hospital pharmacists deal with critically ill patients, narrow therapeutic index drugs (medications where the difference between an effective dose and a toxic dose is small), and high-alert medications like chemotherapy agents.
 
@@ -130,7 +130,7 @@ The profession is changing fast, and in ways that expand pharmacists' responsibi
 
 ### Provider Status Push
 
-Pharmacists have long advocated for federal recognition as healthcare providers under Medicare. Currently, pharmacists can provide many clinical services but often can't bill insurance directly for them. Several states have passed their own provider status legislation, and federal bills have been introduced (though not yet passed) to grant pharmacists provider status nationally.
+Pharmacists have long advocated for federal recognition as healthcare providers under Medicare. Currently, pharmacists can provide many clinical services but often can't bill [insurance](/insurance) directly for them. Several states have passed their own provider status legislation, and federal bills have been introduced (though not yet passed) to grant pharmacists provider status nationally.
 
 ### Pharmacogenomics
 
@@ -142,6 +142,6 @@ COVID-19 accelerated a trend that was already underway. During the pandemic, pha
 
 ## Why Pharmacy Matters
 
-Americans take a lot of medication. About 66% of U.S. adults use at least one prescription drug, and 25% take four or more. Managing that volume of medication safely requires dedicated professionals who understand drug chemistry, physiology, and patient behavior.
+Americans take a lot of medication. About 66% of U.S. adults use at least one prescription drug, and 25% take four or more. Managing that volume of medication safely requires dedicated professionals who understand drug chemistry, [physiology](/physiology), and patient behavior.
 
 Pharmacists are the last checkpoint before a drug reaches your body. They catch interactions that computer systems miss, explain complex regimens in plain language, and increasingly make clinical decisions that directly affect patient outcomes. The white coat behind the counter represents considerably more expertise than most people give it credit for.

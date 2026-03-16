@@ -37,7 +37,7 @@ faq:
 
 # What Is Signal Processing?
 
-Signal processing is the engineering and mathematical discipline concerned with analyzing, modifying, synthesizing, and extracting useful information from signals. A signal is any quantity that varies over time, space, or some other independent variable — a sound wave, a radio transmission, a stock price, an image, a heartbeat. Signal processing gives us the tools to understand what's in a signal, clean it up, compress it, or pull out the information we care about. Every phone call you make, every photo you take, every song you stream, and every medical scan you receive depends on signal processing techniques developed over the past century.
+Signal processing is the [engineering](/engineering) and mathematical discipline concerned with analyzing, modifying, synthesizing, and extracting useful information from signals. A signal is any quantity that varies over time, space, or some other independent variable — a sound wave, a radio transmission, a stock price, an image, a heartbeat. Signal processing gives us the tools to understand what's in a signal, clean it up, compress it, or pull out the information we care about. Every phone call you make, every photo you take, every song you stream, and every medical scan you receive depends on signal processing techniques developed over the past century.
 
 ## What Is a Signal, Really?
 
@@ -71,7 +71,7 @@ Thinking in terms of frequency (rather than time) is profoundly useful because m
 
 A telephone line transmits frequencies between about 300 and 3,400 Hz — the range needed for intelligible speech. Frequencies outside this band are noise. In the time domain, the noise is mixed inseparably with the speech. In the frequency domain, they're separate — you can simply remove everything outside the speech band. This is **filtering**, and it's the most common signal processing operation.
 
-Musical instruments have characteristic frequency spectra — that's why a piano and a guitar playing the same note sound different. Medical conditions produce specific patterns in ECG frequency spectra. Mechanical vibrations at particular frequencies indicate specific types of bearing failure. The frequency domain reveals structure that's invisible in the time domain.
+Musical instruments have characteristic frequency spectra — that's why a piano and [a guitar](/guitar) playing the same note sound different. Medical conditions produce specific patterns in ECG frequency spectra. Mechanical vibrations at particular frequencies indicate specific types of bearing failure. The frequency domain reveals structure that's invisible in the time domain.
 
 ### The Math (Gently)
 
@@ -163,11 +163,11 @@ Signal processing is invisible precisely because it works so well. Here's where 
 
 Every wireless communication system — Wi-Fi, cellular, Bluetooth, satellite — is fundamentally a signal processing system.
 
-**Modulation** encodes data onto a carrier wave. Modern systems use sophisticated modulation schemes like OFDM (Orthogonal Frequency-Division Multiplexing), which splits data across thousands of closely-spaced sub-carriers. 5G cellular, Wi-Fi 6, and digital TV broadcasting all use OFDM. The signal processing required to generate and decode OFDM signals — including FFT, channel estimation, equalization, and error correction — happens billions of times per second in your phone.
+**Modulation** encodes data onto a carrier wave. Modern systems use sophisticated modulation schemes like OFDM (Orthogonal Frequency-Division Multiplexing), which splits data across thousands of closely-spaced sub-carriers. 5G cellular, Wi-Fi 6, and digital TV [broadcasting](/broadcasting) all use OFDM. The signal processing required to generate and decode OFDM signals — including FFT, channel estimation, equalization, and error correction — happens billions of times per second in your phone.
 
 **Error correction coding** adds redundancy to transmitted data so that errors introduced by the wireless channel can be detected and corrected. Modern codes like LDPC (Low-Density Parity-Check) and polar codes can operate within a fraction of a decibel of the theoretical limit predicted by Shannon's channel capacity theorem. The design and decoding of these codes is a signal processing problem.
 
-**MIMO (Multiple-Input Multiple-Output)** uses multiple antennas at both transmitter and receiver to multiply data throughput. Your Wi-Fi router with 4 antennas can send 4 independent data streams simultaneously, quadrupling throughput. The signal processing required to separate these overlapping signals — using matrix algebra and adaptive algorithms — is computationally intense but runs in real-time in commodity hardware.
+**MIMO (Multiple-Input Multiple-Output)** uses multiple antennas at both transmitter and receiver to multiply data throughput. Your Wi-Fi router with 4 antennas can send 4 independent data streams simultaneously, quadrupling throughput. The signal processing required to separate these overlapping signals — using matrix [algebra](/algebra) and adaptive algorithms — is computationally intense but runs in real-time in commodity hardware.
 
 ### Radar and Sonar
 
@@ -175,21 +175,21 @@ Radar sends a radio pulse and processes the returning echo to determine the rang
 
 Automotive radar (used in adaptive cruise control and collision avoidance) operates at 77 GHz and uses FMCW (Frequency-Modulated Continuous Wave) signal processing to detect vehicles, pedestrians, and obstacles. The signal processing chain — mixing, FFT, detection, and tracking — runs on a chip smaller than a postage stamp.
 
-Sonar uses similar principles with sound waves instead of radio waves. Submarine sonar arrays process signals from hundreds of hydrophones using beamforming algorithms to detect and locate other vessels. The [acoustics](/acoustics) are different from radar, but the signal processing mathematics is remarkably similar.
+Sonar uses similar principles with sound waves instead of radio waves. Submarine sonar arrays process signals from hundreds of hydrophones using beamforming algorithms to detect and locate other vessels. The [acoustics](/acoustics) are different from radar, but the signal processing [mathematics](/mathematics) is remarkably similar.
 
 ## Adaptive and Statistical Signal Processing
 
 Some of the most powerful signal processing techniques adapt their behavior based on the signal they're processing.
 
-**Adaptive filters** adjust their coefficients in real time to minimize an error signal. The Least Mean Squares (LMS) algorithm, developed by Bernard Widrow and Ted Hoff in 1960, is the most widely used adaptive algorithm — running in billions of devices for echo cancellation, noise cancellation, and channel equalization.
+**Adaptive filters** adjust their coefficients in real time to minimize an error signal. The Least Mean Squares (LMS) algorithm, developed by Bernard Widrow and Ted Hoff in 1960, is the most widely used adaptive algorithm — [running](/running) in billions of devices for echo cancellation, noise cancellation, and channel equalization.
 
-**Kalman filtering** combines noisy measurements with a mathematical model of the system being measured to produce optimal estimates of the system's state. GPS receivers use Kalman filters to combine satellite signals with motion models, smoothing out measurement noise and providing accurate position estimates even when some satellites are temporarily obscured. Aircraft autopilots, spacecraft navigation, and [financial modeling](/financial-modeling) all use Kalman filtering.
+**Kalman filtering** combines noisy measurements with a mathematical model of the system being measured to produce optimal estimates of the system's state. GPS receivers use Kalman filters to combine satellite signals with motion models, smoothing out measurement noise and providing accurate position estimates even when some satellites are temporarily obscured. Aircraft autopilots, spacecraft [navigation](/navigation), and [financial modeling](/financial-modeling) all use Kalman filtering.
 
 **Spectral estimation** determines the frequency content of a signal from finite, noisy observations. Methods range from simple periodograms (just compute the FFT and look at the magnitude) to sophisticated parametric models (AR, ARMA) and modern techniques like the MUSIC algorithm that can resolve closely-spaced frequencies with remarkable precision.
 
 ## The Intersection with Machine Learning
 
-Signal processing and [machine learning](/machine-learning) have converged dramatically in the past decade. Deep neural networks now perform tasks — speech recognition, image classification, [natural language processing](/natural-language-processing) — that were previously done with hand-designed signal processing algorithms.
+Signal processing and [machine learning](/machine-learning) have converged dramatically in the past decade. Deep [neural networks](/neural-networks) now perform tasks — speech recognition, image classification, [natural language processing](/natural-language-processing) — that were previously done with hand-designed signal processing algorithms.
 
 But the relationship is symbiotic, not adversarial. Signal processing provides the preprocessing (filtering, normalization, feature extraction) that makes raw data usable by ML models. ML provides [pattern recognition](/pattern-recognition) capabilities that exceed what classical signal processing can achieve for complex, nonlinear problems.
 

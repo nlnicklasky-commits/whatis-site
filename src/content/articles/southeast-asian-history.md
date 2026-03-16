@@ -35,7 +35,7 @@ faq:
 
 # What Is Southeast [Asian History](/asian-history)?
 
-Southeast Asian history is the story of how eleven modern nations — stretching from Myanmar in the west to the Philippines in the east — emerged from thousands of years of indigenous kingdoms, maritime trade, religious transformation, colonial occupation, and post-independence struggle. It covers roughly 40,000 years of human habitation in a region that sits at the crossroads of the Indian and Pacific Oceans.
+Southeast Asian history is the story of how eleven modern nations — stretching from Myanmar in the west to the Philippines in the east — emerged from thousands of years of indigenous kingdoms, maritime [trade](/trade), religious transformation, colonial occupation, and post-independence struggle. It covers roughly 40,000 years of human habitation in a region that sits at the crossroads of the Indian and Pacific Oceans.
 
 ## Before the Empires: The Deep Past
 
@@ -59,11 +59,11 @@ The result was a series of "Indianized" kingdoms that blended Indian and indigen
 
 **Pagan Kingdom (9th-13th century)** — The first Burmese empire, centered in present-day Myanmar. At its height, the city of Bagan contained over 10,000 Buddhist temples, monasteries, and pagodas. Around 2,200 of them still stand.
 
-**Majapahit (1293-1527)** — A Javanese empire that claimed authority over much of maritime Southeast Asia. The *Nagarakertagama*, a court poem from 1365, lists vassal states from Sumatra to New Guinea — though historians debate how much actual control Majapahit exercised over distant territories.
+**Majapahit (1293-1527)** — A Javanese empire that claimed authority over much of maritime Southeast Asia. The *Nagarakertagama*, a court poem from 1365, lists vassal states from Sumatra to New Guinea — though historians [debate](/debate) how much actual control Majapahit exercised over distant territories.
 
 ## The Arrival of Islam and the Spice Trade
 
-Islam reached Southeast Asia gradually, starting as early as the 7th century through Arab and Indian Muslim traders. But the major conversion wave came in the 13th-16th centuries, spreading along trade routes from port to port.
+[Islam](/islam) reached Southeast Asia gradually, starting as early as the 7th century through Arab and Indian Muslim traders. But the major conversion wave came in the 13th-16th centuries, spreading along trade routes from port to port.
 
 The Sultanate of Malacca (1400-1511) became the region's most important Islamic trading state. Sitting on the strait between Sumatra and the Malay Peninsula, Malacca attracted merchants from China, India, Arabia, and eventually Europe. At its peak, the port reportedly hosted traders speaking 84 different languages.
 

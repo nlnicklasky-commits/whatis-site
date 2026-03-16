@@ -97,7 +97,7 @@ Search intent falls into four categories:
 - **Commercial**: "best SEO tools 2026" — the searcher is researching options
 - **Transactional**: "buy Ahrefs subscription" — the searcher is ready to act
 
-Your content must match the intent. Writing a 5,000-word educational guide won't rank for a transactional query, and a product page won't rank for an informational one. Google has gotten frighteningly good at detecting intent mismatch.
+Your content must match the intent. [Writing](/writing) a 5,000-word educational guide won't rank for a transactional query, and a product page won't rank for an informational one. Google has gotten frighteningly good at detecting intent mismatch.
 
 **Title tags** are the single most important on-page ranking factor. They appear as the clickable headline in search results and should include your primary keyword near the beginning. Keep them under 60 characters or they'll get truncated.
 
@@ -119,13 +119,13 @@ Off-page SEO is primarily about **backlinks** — links from other websites to y
 
 **Link quality matters infinitely more than link quantity.** One editorial link from a respected publication in your industry is worth more than a thousand low-quality directory listings. Google's algorithms (particularly the Penguin update lineage) can identify and ignore or penalize manipulative link-building practices.
 
-How do you earn quality links? By creating content worth linking to. Original research, thorough guides, useful tools, and genuinely new insights attract links naturally. Data [journalism](/journalism) — publishing original statistics or survey results — is particularly effective because other writers cite data sources.
+How do you earn quality links? By creating content worth linking to. Original research, thorough guides, useful tools, and genuinely new insights attract links naturally. Data [journalism](/journalism) — [publishing](/publishing) original [statistics](/statistics) or survey results — is particularly effective because other writers cite data sources.
 
 **Digital PR** combines traditional [public relations](/public-relations) with SEO strategy. You create newsworthy content — a study, a report, an interactive tool — and pitch it to journalists and bloggers. When they cover your story and link to your site, you gain both referral traffic and SEO authority.
 
 **Guest posting** — writing articles for other sites with a link back to yours — works when done genuinely. Writing for respected publications in your field builds both your authority and your backlink profile. Writing for low-quality sites that exist solely to sell links can get you penalized.
 
-**Brand mentions** also contribute to authority, even without links. Google understands that a mention of "Nike" in a running article, even without a hyperlink, suggests the brand's authority in the running space.
+**Brand mentions** also contribute to authority, even without links. Google understands that a mention of "Nike" in a [running](/running) article, even without a hyperlink, suggests the brand's authority in the running space.
 
 ## How Google's Algorithm Has Evolved
 
@@ -163,7 +163,7 @@ If you run a business that serves a geographic area, local SEO is its own discip
 
 **Reviews** are a significant local ranking factor. Businesses with more positive Google reviews rank higher in local packs. But fake reviews violate Google's policies and can result in profile removal — so the strategy is genuinely earning reviews from satisfied customers.
 
-**Local content** — pages targeting specific neighborhoods, cities, or service areas — helps establish geographic relevance. A plumber in Denver might create pages for "plumbing services in Capitol Hill" and "emergency plumber in Lakewood" to capture location-specific searches.
+**Local content** — pages targeting specific neighborhoods, cities, or service areas — helps establish geographic relevance. A plumber in Denver might create pages for "[plumbing](/plumbing) services in Capitol Hill" and "emergency plumber in Lakewood" to capture location-specific searches.
 
 ## E-Commerce SEO
 

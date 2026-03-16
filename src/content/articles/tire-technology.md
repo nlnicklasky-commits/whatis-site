@@ -37,11 +37,11 @@ faq:
 
 # What Is Tire Technology?
 
-Tire technology is the engineering discipline focused on designing, manufacturing, and optimizing pneumatic tires for vehicles. It spans rubber chemistry, [structural engineering](/structural-engineering), tread design, and [materials science](/materials-science) — all working together to keep roughly 1.4 billion vehicles on the road connected to the ground through four palm-sized contact patches.
+Tire technology is the [engineering](/engineering) discipline focused on designing, manufacturing, and optimizing pneumatic tires for vehicles. It spans rubber chemistry, [structural engineering](/structural-engineering), tread design, and [materials science](/materials-science) — all working together to keep roughly 1.4 billion vehicles on the road connected to the ground through four palm-sized contact patches.
 
 ## The Only Thing Between You and the Road
 
-Think about this for a second. Your entire car — two tons of metal, glass, and electronics — touches the pavement through four patches of rubber, each roughly the size of a postcard. Everything your vehicle does — accelerating, braking, turning, absorbing bumps — happens through those contact patches. That's it. That's the whole interface.
+Think about this for a second. Your entire car — two tons of metal, glass, and [electronics](/electronics) — touches the pavement through four patches of rubber, each roughly the size of a postcard. Everything your vehicle does — accelerating, braking, turning, absorbing bumps — happens through those contact patches. That's it. That's the whole interface.
 
 This is why tire engineering matters far more than most people realize. A set of tires affects your car's fuel efficiency, handling, ride comfort, braking distance, and noise levels. According to the [National Highway Traffic Safety Administration](https://www.nhtsa.gov/equipment/tires), tire-related issues contribute to roughly 11,000 crashes annually in the United States alone. The engineering that goes into preventing those failures is genuinely impressive.
 
@@ -63,7 +63,7 @@ The jump to automobiles happened fast. By 1895, Andre and Edouard Michelin fitte
 
 For the first half of the 20th century, tires used bias-ply [construction](/construction). The internal fabric layers (plies) ran diagonally across the tire, crisscrossing at roughly 30-degree angles. This made tires stiff and somewhat bouncy. They also generated a lot of heat at highway speeds, which shortened their lifespan.
 
-Michelin introduced the radial tire in 1946. Instead of diagonal plies, radial tires have cord layers running perpendicular to the direction of travel (from bead to bead), with additional steel belts running around the circumference. This design lets the sidewall flex independently of the tread — the tread stays flat on the road even during cornering, and the sidewall absorbs bumps without affecting the contact patch.
+Michelin introduced the radial tire in 1946. Instead of diagonal plies, radial tires have cord layers [running](/running) perpendicular to the direction of travel (from bead to bead), with additional steel belts running around the circumference. This design lets the sidewall flex independently of the tread — the tread stays flat on the road even during cornering, and the sidewall absorbs bumps without affecting the contact patch.
 
 The result? Radial tires last roughly twice as long as bias-ply tires, deliver better fuel economy (by some estimates, a 10% improvement), and grip the road more consistently. Europe adopted radials quickly. American manufacturers resisted until the 1970s oil crisis made fuel efficiency impossible to ignore.
 
@@ -110,7 +110,7 @@ Tire rubber isn't one thing. It's a recipe, and different parts of the tire use 
 
 A typical tread compound might contain 10-30% natural rubber (from rubber trees in Southeast Asia), 20-35% synthetic rubber, 25-30% carbon black or silica as reinforcing fillers, and the rest is a cocktail of sulfur, accelerators, retarders, antioxidants, and processing aids.
 
-The filler material matters enormously. Carbon black has been the standard reinforcing agent for over a century — it makes rubber stronger and more wear-resistant, and it's why tires are black. But silica has been gaining ground since Michelin introduced silica-based compounds in the 1990s. Silica reduces rolling resistance (improving fuel economy by 3-5%) while maintaining wet grip. The trade-off is that silica is harder to process and requires silane coupling agents to bond properly with the rubber.
+The filler material matters enormously. Carbon black has been the standard reinforcing agent for over a century — it makes rubber stronger and more wear-resistant, and it's why tires are black. But silica has been gaining ground since Michelin introduced silica-based compounds in the 1990s. Silica reduces rolling resistance (improving fuel economy by 3-5%) while maintaining wet grip. The [trade](/trade)-off is that silica is harder to process and requires silane coupling agents to bond properly with the rubber.
 
 This relationship between grip, wear, and rolling resistance is sometimes called the "magic triangle" of tire engineering. Improving one property traditionally worsened the others. A soft, grippy compound wears faster. A hard, long-lasting compound doesn't grip as well. Much of modern tire [chemistry](/chemistry) focuses on breaking free of these trade-offs using nanomaterials, functionalized polymers, and advanced filler systems.
 
@@ -174,7 +174,7 @@ A tall, flexible sidewall absorbs bumps well — great for comfort. But it also 
 
 ### Noise vs. Everything Else
 
-Tread patterns generate noise as blocks hit the pavement and air gets compressed and released in the grooves. Engineers use techniques like variable pitch sequencing — making tread blocks slightly different sizes so their impacts don't create a single annoying frequency — and optimize groove geometry to reduce resonance. Electric vehicles have made tire noise a bigger issue because there's no engine noise to mask it. At speeds above about 40 mph, tire noise is actually the dominant sound source on most modern EVs.
+Tread patterns generate noise as blocks hit the pavement and air gets compressed and released in the grooves. Engineers use techniques like variable pitch sequencing — making tread blocks slightly different sizes so their impacts don't create a single annoying frequency — and optimize groove [geometry](/geometry) to reduce resonance. Electric vehicles have made tire noise a bigger issue because there's no engine noise to mask it. At speeds above about 40 mph, tire noise is actually the dominant sound source on most modern EVs.
 
 ## Specialty Tires You Never Think About
 

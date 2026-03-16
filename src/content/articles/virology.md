@@ -44,7 +44,7 @@ Viruses infect every form of life on Earth, from bacteria to blue whales, and th
 
 This seems like it should be a simple question. It isn't.
 
-A virus is, at its most basic, a piece of genetic material (DNA or RNA) wrapped in a protein shell. That's it. No nucleus. No mitochondria. No ribosomes. No metabolism. A virus sitting on a tabletop is essentially an inert particle — a complicated chemical. But introduce it to the right host cell, and it springs into action, hijacking the cell's machinery to make copies of itself.
+A virus is, at its most basic, a piece of genetic material (DNA or RNA) wrapped in a protein shell. That's it. No nucleus. No mitochondria. No ribosomes. No metabolism. A virus sitting on a tabletop is essentially an inert particle — a complicated chemical. But introduce it to the right host cell, and it [springs](/springs) into action, hijacking the cell's machinery to make copies of itself.
 
 This is the fundamental paradox of viruses. Outside a cell, they do absolutely nothing. Inside a cell, they can bring down an entire organism.
 
@@ -56,7 +56,7 @@ Despite their simplicity, viruses have elegant [architecture](/architecture). Th
 
 **Genetic material** — either DNA or RNA, never both. This can be single-stranded or double-stranded, linear or circular. The genome size varies enormously: some viruses have fewer than 2,000 nucleotides (barely enough to encode a couple of proteins), while the giant Mimivirus genome contains over 1.2 million base pairs — larger than some bacteria.
 
-**Capsid** — the protein shell protecting the genetic material. Capsids self-assemble from repeating protein subunits (capsomeres) into geometric shapes, most commonly icosahedral (20-faced, soccer ball-like) or helical (rod-shaped). The geometry is dictated by physics and energy minimization — these shapes use the minimum amount of protein to enclose the maximum volume.
+**Capsid** — the protein shell protecting the genetic material. Capsids self-assemble from repeating protein subunits (capsomeres) into geometric shapes, most commonly icosahedral (20-faced, [soccer](/soccer) ball-like) or helical (rod-shaped). The [geometry](/geometry) is dictated by [physics](/physics) and energy minimization — these shapes use the minimum amount of protein to enclose the maximum volume.
 
 **Envelope** — some viruses (like influenza, HIV, and SARS-CoV-2) have an outer lipid membrane stolen from the host cell during exit. This envelope is studded with viral proteins (like the famous spike protein of SARS-CoV-2) that help the virus attach to and enter new cells. Enveloped viruses are generally easier to kill with soap and disinfectants because disrupting the lipid layer inactivates them.
 
@@ -102,7 +102,7 @@ The impact of viruses on human civilization is hard to overstate.
 
 **Smallpox** killed an estimated 300-500 million people in the 20th century alone, and far more throughout history. It decimated indigenous populations in the Americas after European contact. Its eradication through vaccination in 1980 remains one of humanity's greatest achievements — and a triumph of virology.
 
-**The 1918 influenza pandemic** killed 50-100 million people worldwide — more than World War I. The virus was an H1N1 strain of avian origin. It took until 2005 to reconstruct the 1918 virus from preserved tissue samples, finally explaining its unusual severity.
+**The 1918 influenza pandemic** killed 50-100 million people worldwide — more than [World War I](/world-war-i). The virus was an H1N1 strain of avian origin. It took until 2005 to reconstruct the 1918 virus from preserved tissue samples, finally explaining its unusual severity.
 
 **HIV/AIDS** has killed over 40 million people since the epidemic began in the early 1980s. The development of antiretroviral therapy — which emerged from understanding HIV's replication cycle in molecular detail — transformed AIDS from a death sentence into a manageable chronic condition for those with access to treatment.
 
@@ -154,7 +154,7 @@ This extreme mutation rate drives several important phenomena:
 
 **Antigenic shift** — sudden, dramatic changes when different viral strains exchange genetic segments (reassortment). This can create entirely novel viruses against which nobody has immunity. Pandemic influenza strains typically emerge through antigenic shift.
 
-**Zoonotic spillover** — viruses that normally infect animals acquiring the ability to infect humans through mutations. SARS-CoV-2, HIV, Ebola, and many influenza strains originated this way. The conditions promoting spillover include deforestation, wildlife trade, [agriculture](/agriculture) intensification, and increased human-wildlife contact.
+**Zoonotic spillover** — viruses that normally infect animals acquiring the ability to infect humans through mutations. SARS-CoV-2, HIV, Ebola, and many influenza strains originated this way. The conditions promoting spillover include deforestation, wildlife [trade](/trade), [agriculture](/agriculture) intensification, and increased human-wildlife contact.
 
 **Drug resistance** — mutations that reduce the effectiveness of antiviral drugs. This is why monotherapy fails for HIV and why combination therapy is essential.
 

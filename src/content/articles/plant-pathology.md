@@ -35,13 +35,13 @@ faq:
 
 # What Is Plant Pathology?
 
-Plant pathology (also called phytopathology) is the scientific study of plant diseases — their causes, how they develop and spread, and how to manage them. It sits at the intersection of [biology](/biology), [agriculture](/agriculture), and [ecology](/ecology), and it's far more consequential than most people realize.
+Plant [pathology](/pathology) (also called phytopathology) is the scientific study of plant diseases — their causes, how they develop and spread, and how to manage them. It sits at the intersection of [biology](/biology), [agriculture](/agriculture), and [ecology](/ecology), and it's far more consequential than most people realize.
 
 ## Why You Should Care About Sick Plants
 
-Here's a number that should grab your attention: plant diseases destroy an estimated 10-16% of global food production every year. In a world that already struggles to feed everyone, that's an enormous loss — somewhere around 220 million tons of food, gone. And that's with modern disease management. Without it, losses would be catastrophic.
+Here's a number that should grab your attention: plant diseases destroy an estimated 10-16% of global food production every year. In a world that already struggles to feed everyone, that's an enormous loss — somewhere around 220 million tons of food, gone. And that's with modern disease [management](/management). Without it, losses would be catastrophic.
 
-The Irish Potato Famine of the 1840s killed a million people and drove another million from Ireland. The cause? A water mold called *Phytophthora infestans* that turned healthy potato fields into rotting mush within days. Coffee leaf rust reshaped the British Empire's trade patterns and turned an entire nation (Sri Lanka) from coffee to tea production. Chestnut blight effectively erased the American chestnut — once the dominant tree in eastern forests — from the field in a few decades.
+The Irish Potato Famine of the 1840s killed a million people and drove another million from Ireland. The cause? A water mold called *Phytophthora infestans* that turned healthy potato fields into rotting mush within days. Coffee leaf rust reshaped the British Empire's [trade](/trade) patterns and turned an entire nation (Sri Lanka) from coffee to tea production. Chestnut blight effectively erased the American chestnut — once the dominant tree in eastern forests — from the field in a few decades.
 
 Plant diseases aren't just an agricultural problem. They reshape economies, alter ecosystems, trigger famines, and redirect the course of human history. Understanding them matters.
 
@@ -55,7 +55,7 @@ Plant pathologists use a concept called the "disease triangle" to explain how di
 
 **A favorable environment.** Temperature, humidity, rainfall, and other environmental conditions must support infection. Most fungal diseases, for instance, need moisture — leaf surfaces must be wet for spores to germinate and penetrate plant tissue.
 
-Remove any one leg of the triangle and disease doesn't happen. This is the fundamental principle behind disease management: you either change the host (breed resistant varieties), eliminate the pathogen (use fungicides or sanitation), or modify the environment (adjust irrigation, spacing, or planting dates).
+Remove any one leg of the triangle and disease doesn't happen. This is the fundamental principle behind disease management: you either change the host (breed resistant varieties), eliminate the pathogen (use fungicides or sanitation), or modify the environment (adjust [irrigation](/irrigation), spacing, or planting dates).
 
 Some pathologists have expanded this to a "disease pyramid" by adding a fourth element: time. A brief wet period might not cause disease, but prolonged wetness will. A pathogen might arrive before or after the crop's most vulnerable growth stage. Timing matters enormously.
 
@@ -65,7 +65,7 @@ Some pathologists have expanded this to a "disease pyramid" by adding a fourth e
 
 Roughly 85% of plant diseases are caused by fungi. These organisms range from microscopic single-celled yeasts to elaborate mushroom-producing species, and they've been causing plant diseases for at least 400 million years — fossil evidence shows fungal infections in some of the earliest land plants.
 
-Fungal pathogens attack in varied ways. Some, like powdery mildew, grow on leaf surfaces and tap into cells with specialized feeding structures called haustoria. Others, like *Fusarium* wilt pathogens, invade the plant's vascular system — its internal plumbing — blocking water transport and causing the plant to wilt and die. Still others, like root rot fungi, destroy root tissue, cutting the plant off from water and nutrients.
+Fungal pathogens attack in varied ways. Some, like powdery mildew, grow on leaf surfaces and tap into cells with specialized feeding structures called haustoria. Others, like *Fusarium* wilt pathogens, invade the plant's vascular system — its internal [plumbing](/plumbing) — blocking water transport and causing the plant to wilt and die. Still others, like root rot fungi, destroy root tissue, cutting the plant off from water and nutrients.
 
 The diversity of fungal disease strategies is staggering. *Magnaporthe oryzae*, the rice blast fungus, generates pressure equivalent to 80 atmospheres in its infection structure — enough to punch through plant cell walls mechanically. Some rust fungi have five different spore stages and require two completely unrelated host plants to complete their life cycle. The wheat stem rust fungus, for example, alternates between wheat and barberry bushes.
 
@@ -113,7 +113,7 @@ When a pathogen is detected, plants can rapidly produce phytoalexins — antimic
 
 ### The Immune System
 
-Plants have something functionally similar to an immune system, though it works quite differently from the animal version. Plant cells have pattern recognition receptors (PRRs) on their surfaces that detect conserved molecular patterns associated with pathogens — things like bacterial flagellin protein or fungal chitin fragments. This triggers a broad, nonspecific defense response called pattern-triggered immunity (PTI).
+Plants have something functionally similar to an immune system, though it works quite differently from the animal version. Plant cells have [pattern recognition](/pattern-recognition) receptors (PRRs) on their surfaces that detect conserved molecular patterns associated with pathogens — things like bacterial flagellin protein or fungal chitin fragments. This triggers a broad, nonspecific defense response called pattern-triggered immunity (PTI).
 
 Successful pathogens have evolved effector proteins that suppress PTI. But plants have counter-evolved resistance (R) proteins that detect these effectors and trigger a much stronger response called effector-triggered immunity (ETI). This often includes a "hypersensitive response" — the plant deliberately kills its own cells at the infection site, creating a dead zone that stops the pathogen from spreading. It's a scorched-earth strategy, and it works remarkably well.
 
@@ -184,7 +184,7 @@ The wheat blast pathogen (*Magnaporthe oryzae* pathotype Triticum), historically
 
 ### Globalization and Trade
 
-International trade moves pathogens around the world. *Xylella fastidiosa* reached Europe in ornamental plants imported from Costa Rica. Citrus greening disease spread from Asia to the Americas, devastating Florida's citrus industry. The emerald ash borer, which vectors ash dieback pathogens, arrived in North America in wooden packing materials from China.
+[International trade](/international-trade) moves pathogens around the world. *Xylella fastidiosa* reached Europe in ornamental plants imported from Costa Rica. Citrus greening disease spread from Asia to the Americas, devastating Florida's citrus industry. The emerald ash borer, which vectors ash dieback pathogens, arrived in North America in wooden packing materials from China.
 
 Biosecurity — preventing the introduction and establishment of new pathogens — is a critical function of plant pathology. Quarantine regulations, import inspections, and surveillance programs aim to catch threats before they establish. But with billions of tons of goods crossing borders annually, some pathogens inevitably slip through.
 
@@ -194,7 +194,7 @@ As discussed, pathogen populations evolve to overcome plant resistance genes. Th
 
 ## Plant Pathology as a Career
 
-The field offers surprisingly diverse career paths. Plant pathologists work in university research and teaching, government regulatory agencies (USDA APHIS, state departments of agriculture), international development organizations (CGIAR, FAO), agrochemical and seed companies, diagnostic laboratories, and consulting.
+The field offers surprisingly diverse career paths. Plant pathologists work in university research and [teaching](/teaching), [government](/government) regulatory agencies (USDA APHIS, state departments of agriculture), [international development](/international-development) organizations (CGIAR, FAO), agrochemical and seed companies, diagnostic laboratories, and consulting.
 
 Starting salaries for plant pathologists with graduate degrees typically range from $50,000 to $70,000. Senior researchers and industry scientists can earn considerably more. The American Phytopathological Society reports steady demand for trained pathologists, particularly those with skills in molecular diagnostics, [data-analysis](/data-analysis), and epidemiological modeling.
 
@@ -216,6 +216,6 @@ Several developments are reshaping the field.
 
 Plant pathology might not get the headlines of human medicine, but the stakes are comparably high. Every percentage point of crop loss represents millions of tons of food that didn't reach someone's plate. Every pandemic disease of a major crop threatens the food security of entire regions.
 
-The field is simultaneously ancient — farmers have been fighting plant diseases since the dawn of agriculture — and rapidly modernizing. Genomics, remote sensing, artificial intelligence, and gene editing are transforming how we understand and manage plant diseases. But the fundamental challenge remains the same: pathogens evolve, environments change, and crops need protection.
+The field is simultaneously ancient — farmers have been fighting plant diseases since the dawn of agriculture — and rapidly modernizing. Genomics, remote sensing, [artificial intelligence](/artificial-intelligence), and gene [editing](/editing) are transforming how we understand and manage plant diseases. But the fundamental challenge remains the same: pathogens evolve, environments change, and crops need protection.
 
 Plant pathologists are, in a very real sense, the doctors of the plant world. And their patients feed 8 billion people.

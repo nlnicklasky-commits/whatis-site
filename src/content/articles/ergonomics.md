@@ -39,7 +39,7 @@ Ergonomics is the science of designing work environments, tools, and systems to 
 
 ## The Word Itself Tells You Everything
 
-"Ergonomics" comes from the Greek *ergon* (work) and *nomos* (law or principle). Literally, it means "the laws of work." The field is also called "[human factors](/human-factors) engineering" — particularly in the US — though the two terms have slightly different historical roots.
+"Ergonomics" comes from the Greek *ergon* (work) and *nomos* (law or principle). Literally, it means "the laws of work." The field is also called "[human factors](/human-factors) [engineering](/engineering)" — particularly in the US — though the two terms have slightly different historical roots.
 
 The modern field emerged after [World War II](/world-war-ii), when military researchers noticed something troubling: perfectly functional aircraft were crashing because cockpit controls were confusing. Pilots would reach for the landing gear lever and accidentally grab the flap lever instead. The planes weren't broken. The [design](/biomechanics) was.
 
@@ -51,13 +51,13 @@ Physical ergonomics is what most people think of when they hear the word. It dea
 
 ### The Problem Is Enormous
 
-Musculoskeletal disorders (MSDs) — injuries to muscles, tendons, ligaments, nerves, and joints — are among the most common and expensive workplace injuries. According to OSHA, MSDs account for about 30% of all worker's compensation claims. The Bureau of Labor Statistics reports that MSD cases require a median of 14 days away from work, more than any other type of workplace injury.
+Musculoskeletal disorders (MSDs) — injuries to muscles, tendons, ligaments, nerves, and joints — are among the most common and expensive workplace injuries. According to OSHA, MSDs account for about 30% of all worker's compensation claims. The Bureau of Labor [Statistics](/statistics) reports that MSD cases require a median of 14 days away from work, more than any other type of workplace injury.
 
 The annual cost of work-related MSDs in the US exceeds $20 billion in direct costs (medical treatment and lost wages) and may reach $50 billion when indirect costs are included. That's not a small problem.
 
 ### How Repetitive Strain Injures You
 
-Your body is remarkably durable, but it has limits. Tendons — the fibrous cords connecting muscles to bones — can handle a lot of force, but they need recovery time. When you perform the same motion thousands of times per day (typing, assembly work, scanning groceries), the tendons develop micro-tears faster than the body can repair them. Inflammation sets in. Swelling compresses nerves. You get conditions like carpal tunnel syndrome, tennis elbow, or De Quervain's tenosynovitis.
+Your body is remarkably durable, but it has limits. Tendons — the fibrous cords connecting muscles to bones — can handle a lot of force, but they need recovery time. When you perform the same motion thousands of times per day (typing, assembly work, scanning groceries), the tendons develop micro-tears faster than the body can repair them. Inflammation sets in. Swelling compresses nerves. You get conditions like carpal tunnel syndrome, [tennis](/tennis) elbow, or De Quervain's tenosynovitis.
 
 The risk factors are well established:
 
@@ -106,11 +106,11 @@ The third branch of ergonomics looks at the bigger picture: how work is organize
 
 ### Shift Work and Fatigue
 
-Humans are diurnal creatures. We're wired to be awake during the day and asleep at night. When work schedules fight biology, the results are predictable: increased error rates, higher accident risk, and long-term health consequences including cardiovascular disease, obesity, and depression.
+Humans are diurnal creatures. We're wired to be awake during the day and asleep at night. When work schedules fight [biology](/biology), the results are predictable: increased error rates, higher accident risk, and long-term health consequences including cardiovascular disease, obesity, and depression.
 
 Research shows that the Chernobyl disaster (1:23 AM), the Exxon Valdez oil spill (midnight), and the Bhopal chemical disaster (midnight) all occurred during night shifts. That's not coincidence. Fatigue degrades judgment, reaction time, and attention in measurable ways.
 
-Smart shift scheduling — limiting consecutive night shifts, providing adequate rest between rotations, and avoiding "quick returns" (evening shift followed by morning shift) — can reduce fatigue-related errors by 20-30%.
+Smart shift [scheduling](/scheduling) — limiting consecutive night shifts, providing adequate rest between rotations, and avoiding "quick returns" (evening shift followed by morning shift) — can reduce fatigue-related errors by 20-30%.
 
 ### Workflow Design
 

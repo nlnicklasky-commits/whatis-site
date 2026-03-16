@@ -39,7 +39,7 @@ Family therapy is a form of [psychotherapy](/psychotherapy) that treats the fami
 
 ## Why Treat the Family, Not Just the Individual?
 
-Here's the thing most people don't consider: your behavior doesn't exist in a vacuum. The way you act at home is shaped by — and shapes — every other person in your household. A teenager's acting out might look like a discipline problem on the surface. But zoom out and you might find that it started when her parents began fighting more, which started when her father lost his job, which created financial stress that nobody talked about openly.
+Here's the thing most people don't consider: your behavior doesn't exist in a vacuum. The way you act at home is shaped by — and shapes — every other person in your household. A teenager's [acting](/acting) out might look like a discipline problem on the surface. But zoom out and you might find that it started when her parents began fighting more, which started when her father lost his job, which created financial stress that nobody talked about openly.
 
 Family therapists call this "systems thinking." The family is a system, and every part affects every other part. Pull one thread and the whole fabric moves. This isn't just theory — research published in the *Journal of Marital and Family Therapy* found that treating the family system produces longer-lasting results for many conditions than treating individuals alone.
 
@@ -79,7 +79,7 @@ One famous technique is the paradoxical intervention. A therapist might tell a c
 
 This approach, developed by Michael White and David Epston, treats problems as stories. Families come in with a dominant narrative — "our son is the troublemaker" or "we're a broken family." The therapist helps them separate the problem from the person (a technique called externalization) and then co-create a new story.
 
-Instead of "Jake is aggressive," the narrative becomes "Jake's anger sometimes visits when he feels unheard." That might sound like semantics, but the psychological difference is enormous. It shifts Jake from being the problem to being someone who has a problem — and that's a position from which change feels possible.
+Instead of "Jake is aggressive," the narrative becomes "Jake's anger sometimes visits when he feels unheard." That might sound like [semantics](/semantics), but the psychological difference is enormous. It shifts Jake from being the problem to being someone who has a problem — and that's a position from which change feels possible.
 
 ## What Actually Happens in a Session?
 
@@ -92,7 +92,7 @@ Then the real work begins. A typical session might involve:
 - **Direct observation.** The therapist asks the family to discuss a contentious topic and watches how they interact. Who interrupts? Who shuts down? Who plays peacemaker?
 - **Communication exercises.** Learning to use "I" statements instead of "you" accusations, practicing active listening, expressing feelings without blame.
 - **Enactments.** The therapist coaches family members through a difficult conversation in real time, pausing to redirect when patterns go sideways.
-- **Psychoeducation.** Teaching the family about [developmental](/developmental-psychology) stages, attachment theory, or the [neuroscience](/neuroscience) of stress responses — whatever knowledge helps them understand their situation.
+- **Psychoeducation.** [Teaching](/teaching) the family about [developmental](/developmental-[psychology](/psychology)) stages, attachment theory, or the [neuroscience](/neuroscience) of stress responses — whatever knowledge helps them understand their situation.
 
 Sessions usually last 50 to 90 minutes and occur weekly, though some models use longer sessions or marathon formats for intensive intervention.
 
@@ -126,7 +126,7 @@ Not all therapists are trained in family systems work. Look for credentials that
 - **LCSW** or **LPC** with family therapy specialization
 - **Psychologists** with postdoctoral training in family systems
 
-The AAMFT maintains a [therapist locator](https://www.aamft.org/) on their website. Your insurance provider's directory will also list in-network family therapists.
+The AAMFT maintains a [therapist locator](https://www.aamft.org/) on their website. Your [insurance](/insurance) provider's directory will also list in-network family therapists.
 
 [Chemistry](/chemistry) matters more than credentials, though. The best family therapist in the world won't help if your family can't connect with them. Most therapists offer an initial consultation — use it. Ask about their approach, their experience with your specific issues, and how they handle it when family members resist the process.
 

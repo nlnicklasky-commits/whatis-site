@@ -87,7 +87,7 @@ Romance fiction succeeds for reasons that are easy to mock and hard to argue wit
 
 **Community.** Romance readers are one of the most connected and passionate reader communities. BookTok (the book side of TikTok), Goodreads groups, and fan conventions create spaces where enthusiasm is shared and celebrated rather than mocked.
 
-**Representation.** Romance has been ahead of mainstream publishing in representing diverse voices. Black romance, LGBTQ+ romance, disability representation, and stories featuring characters from marginalized communities have found enthusiastic audiences, often through indie publishing channels.
+**Representation.** Romance has been ahead of mainstream [publishing](/publishing) in representing diverse voices. Black romance, LGBTQ+ romance, disability representation, and stories featuring characters from marginalized communities have found enthusiastic audiences, often through indie publishing channels.
 
 ## The Stigma Problem
 

@@ -35,11 +35,11 @@ faq:
 
 # What Is Electron Microscopy?
 
-Electron microscopy is an imaging technique that uses focused beams of electrons instead of light to examine specimens at extremely high magnification and resolution, revealing structural details far too small for any optical microscope to detect. Modern electron microscopes can resolve features smaller than 0.1 nanometers — small enough to image individual atoms in a crystal lattice.
+Electron [microscopy](/microscopy) is an imaging technique that uses focused beams of electrons instead of light to examine specimens at extremely high magnification and resolution, revealing structural details far too small for any optical microscope to detect. Modern electron microscopes can resolve features smaller than 0.1 nanometers — small enough to image individual atoms in a crystal lattice.
 
 ## Why Electrons? The Problem With Light
 
-Here's the fundamental issue with regular microscopes: light has a wavelength, and you can't see anything smaller than about half that wavelength. Visible light wavelengths range from roughly 400 to 700 nanometers. No matter how perfect your lenses, no matter how clever your optics, a light microscope can't resolve details finer than about 200 nanometers. This is the diffraction limit, established by Ernst Abbe in 1873.
+Here's the fundamental issue with regular microscopes: light has a wavelength, and you can't see anything smaller than about half that wavelength. Visible light wavelengths range from roughly 400 to 700 nanometers. No matter how perfect your lenses, no matter how clever your [optics](/optics), a light microscope can't resolve details finer than about 200 nanometers. This is the diffraction limit, established by Ernst Abbe in 1873.
 
 Two hundred nanometers sounds tiny, but it's enormous compared to the things scientists want to see. A virus is typically 20-300 nm. A protein molecule is 2-10 nm. The spacing between atoms in a crystal is around 0.1-0.5 nm. To see these structures, you need a "light" with a much shorter wavelength.
 
@@ -59,15 +59,15 @@ A TEM works conceptually like a slide projector: electrons pass *through* the sp
 
 **What it shows**: Internal structure at extremely high resolution. TEM can reveal crystal lattice planes, grain boundaries, dislocations, nanoparticles embedded in matrices, and — with aberration correction — individual atomic columns. In [biology](/biology), TEM shows the internal structure of cells, organelles, viruses, and protein complexes.
 
-**The catch**: Specimens must be extremely thin. Preparing a TEM sample is often the hardest part of the experiment. For metals and ceramics, this typically involves mechanical thinning followed by ion beam milling. For biological samples, it involves chemical fixation, dehydration, embedding in resin, and slicing with an ultramicrotome — a precision instrument that cuts sections just 50-100 nm thick using a glass or diamond knife.
+**The catch**: Specimens must be extremely thin. Preparing a TEM sample is often the hardest part of the experiment. For metals and [ceramics](/ceramics), this typically involves mechanical thinning followed by ion beam milling. For biological samples, it involves chemical fixation, dehydration, embedding in resin, and slicing with an ultramicrotome — a precision instrument that cuts sections just 50-100 nm thick using a glass or diamond knife.
 
 ### [Scanning Electron Microscopy](/scanning-electron-microscopy) (SEM)
 
-An SEM works differently: instead of transmitting through the specimen, it scans a focused electron beam across the surface and collects the signals generated at each point. The result is an image of the specimen's surface topography — what it looks like from the outside.
+An SEM works differently: instead of transmitting through the specimen, it scans a focused electron beam across the surface and collects the signals generated at each point. The result is an image of the specimen's surface [topography](/topography) — what it looks like from the outside.
 
 **How it works**: A focused electron beam scans across the specimen in a raster pattern (like an old CRT television). At each point, the beam interacts with the specimen, generating several types of signals. Secondary electrons (knocked out of the specimen's surface atoms) are collected to form the primary image. Backscattered electrons (beam electrons bounced back by heavy atoms) provide compositional contrast. X-rays emitted by excited atoms identify which elements are present at each point.
 
-**What it shows**: Surface morphology with remarkable depth of field. SEM images have a distinctly three-dimensional quality because the depth of field is roughly 100 times greater than an optical microscope at the same magnification. Fracture surfaces, biological structures, microelectronics, pollen grains, insect anatomy — SEM excels at showing how things look up close.
+**What it shows**: Surface morphology with remarkable depth of field. SEM images have a distinctly three-dimensional quality because the depth of field is roughly 100 times greater than an optical microscope at the same magnification. Fracture surfaces, biological structures, microelectronics, pollen grains, insect [anatomy](/anatomy) — SEM excels at showing how things look up close.
 
 **Resolution**: Modern SEMs resolve features down to about 1 nm, though 5-10 nm is more typical for routine imaging. This is considerably less than TEM, but for surface imaging, SEM is far more versatile and requires much less sample preparation.
 
@@ -206,7 +206,7 @@ Scanning the electron beam across a specimen while recording a full diffraction 
 
 Electron microscopy has shaped modern science and technology more than most people realize. The structure of [cell biology](/cell-biology) — organelles, membranes, cytoskeleton — was revealed by TEM. The mechanisms of material failure are understood through SEM. Semiconductor manufacturing depends on electron microscopy for quality control. Drug development increasingly relies on cryo-EM for [structural biology](/structural-biology).
 
-Whenever you need to see something too small for light — and in science and engineering, you need this constantly — electron microscopy is how it gets done. It transformed our understanding of the nanoscale world and continues to push the boundaries of what we can observe and measure.
+Whenever you need to see something too small for light — and in science and [engineering](/engineering), you need this constantly — electron microscopy is how it gets done. It transformed our understanding of the nanoscale world and continues to push the boundaries of what we can observe and measure.
 
 ## Key Takeaways
 

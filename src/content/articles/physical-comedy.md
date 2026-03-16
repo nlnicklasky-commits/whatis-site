@@ -72,7 +72,7 @@ Great physical comedians are extraordinary athletes. Keaton was an acrobat from 
 The skills involved include:
 
 - **Pratfalls and tumbling** — falling safely and convincingly, often repeatedly
-- **Mime technique** — creating invisible objects and environments through movement
+- **[Mime](/mime) technique** — creating invisible objects and environments through movement
 - **Facial control** — exaggerated expressions that read at a distance
 - **Prop manipulation** — making everyday objects behave in absurd ways
 - **Spatial awareness** — knowing exactly where everything is while appearing completely oblivious

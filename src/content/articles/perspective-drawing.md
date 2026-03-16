@@ -31,7 +31,7 @@ faq:
 
 # What Is Perspective Drawing?
 
-Perspective drawing is a system for creating the illusion of three-dimensional depth on a two-dimensional surface — a flat piece of paper or canvas. It uses geometric principles to represent how objects appear smaller as they get farther away, how parallel lines seem to converge in the distance, and how the position of the viewer affects what's seen. It's the reason a painted hallway looks like it extends into the distance rather than looking like a flat pattern of lines.
+Perspective [drawing](/drawing) is a system for creating the illusion of three-dimensional depth on a two-dimensional surface — a flat piece of paper or canvas. It uses geometric principles to represent how objects appear smaller as they get farther away, how parallel lines seem to converge in the distance, and how the position of the viewer affects what's seen. It's the reason a painted hallway looks like it extends into the distance rather than looking like a flat pattern of lines.
 
 ## The Problem It Solves
 
@@ -87,7 +87,7 @@ The most common beginner mistake is placing vanishing points too close together,
 
 **[Industrial design](/industrial-design)** uses perspective to present product concepts three-dimensionally — cars, appliances, furniture, consumer [electronics](/electronics).
 
-**Comic books and graphic novels** rely heavily on perspective to create active panel compositions. Extreme angles (low viewpoints, high viewpoints, three-point perspective) add drama and energy.
+**Comic books and graphic novels** rely heavily on perspective to create active panel compositions. Extreme angles (low viewpoints, high viewpoints, three-point perspective) add [drama](/drama) and energy.
 
 **Video games** and 3D [computer graphics](/computer-graphics) use mathematical perspective projection to render three-dimensional virtual worlds on two-dimensional screens — the same geometric principles Brunelleschi discovered, now calculated by GPUs billions of times per second.
 

@@ -39,7 +39,7 @@ faq:
 
 The scientific method is a systematic approach to understanding the natural world through empirical observation, testable hypotheses, controlled experimentation, and critical analysis of evidence. It's the process by which we separate what we think is true from what we can demonstrate is true—and it's the single most effective tool humanity has ever developed for figuring out how things actually work.
 
-That's a big claim, so let me back it up with a specific number: in 1900, global life expectancy was about 32 years. By 2025, it exceeded 73 years. The scientific method—applied through medicine, agriculture, engineering, and sanitation—is the primary reason. Not philosophy. Not tradition. Not intuition. Systematic, evidence-based inquiry.
+That's a big claim, so let me back it up with a specific number: in 1900, global life expectancy was about 32 years. By 2025, it exceeded 73 years. The scientific method—applied through medicine, [agriculture](/agriculture), [engineering](/engineering), and sanitation—is the primary reason. Not [philosophy](/philosophy). Not tradition. Not intuition. Systematic, evidence-based inquiry.
 
 ## The Textbook Version (And Why It's Wrong-ish)
 
@@ -53,7 +53,7 @@ You probably learned the scientific method as a tidy sequence of steps, maybe on
 6. Analyze results
 7. Draw a conclusion
 
-This isn't wrong, exactly. It captures the essential logic. But real science almost never follows this neat sequence from top to bottom. Working scientists bounce between steps, skip some entirely, circle back to earlier ones, and frequently discover that their most interesting findings come from experiments that "failed" in the sense that they didn't confirm the original hypothesis.
+This isn't wrong, exactly. It captures the essential [logic](/logic). But real science almost never follows this neat sequence from top to bottom. Working scientists bounce between steps, skip some entirely, circle back to earlier ones, and frequently discover that their most interesting findings come from experiments that "failed" in the sense that they didn't confirm the original hypothesis.
 
 The textbook version is like describing driving as "start car, steer, brake, park." Technically accurate, profoundly incomplete. So let's dig into what each element really means and how it works in practice.
 
@@ -121,7 +121,7 @@ An experiment changes one thing (the independent variable) and measures the effe
 
 This sounds simple but gets complicated fast in real-world systems. A [chemistry](/chemistry) experiment might involve dozens of variables: temperature, pressure, concentration, catalyst type, reaction time, stirring speed, purity of reagents. Controlling all of them requires meticulous experimental protocols and often specialized equipment.
 
-In fields where strict control is impossible—ecology, epidemiology, astronomy—scientists use statistical methods to account for confounding variables rather than physically controlling them. These methods work but require larger sample sizes and more sophisticated analysis.
+In fields where strict control is impossible—[ecology](/ecology), [epidemiology](/epidemiology), [astronomy](/astronomy)—scientists use statistical methods to account for confounding variables rather than physically controlling them. These methods work but require larger sample sizes and more sophisticated analysis.
 
 ## Data Collection and Analysis
 
@@ -129,7 +129,7 @@ Raw data is useless. It becomes information only when properly collected, organi
 
 ### Measurement and Uncertainty
 
-Every measurement has uncertainty. A thermometer reading of 22.3C might actually be anywhere from 22.1 to 22.5C depending on the instrument's precision. Scientific measurements always include uncertainty estimates—error bars on graphs, confidence intervals in statistics, significant figures in reported values.
+Every measurement has uncertainty. A thermometer reading of 22.3C might actually be anywhere from 22.1 to 22.5C depending on the instrument's precision. Scientific measurements always include uncertainty estimates—error bars on graphs, confidence intervals in [statistics](/statistics), significant figures in reported values.
 
 Failing to account for uncertainty leads to false precision: reporting results to five decimal places when your instrument is accurate to one. It also leads to false conclusions: declaring a difference between two groups when the error bars overlap entirely.
 
@@ -157,7 +157,7 @@ Peer review isn't perfect. Reviewers can be biased, conservative, or simply wron
 
 ### The Replication Crisis
 
-Starting around 2010, researchers in psychology, biomedical science, and other fields discovered that a disturbing number of published findings couldn't be reproduced by other labs. The Reproducibility Project in psychology found that only 36% of 100 published studies replicated successfully. Similar problems emerged in cancer biology, economics, and other disciplines.
+Starting around 2010, researchers in [psychology](/psychology), biomedical science, and other fields discovered that a disturbing number of published findings couldn't be reproduced by other labs. The Reproducibility Project in psychology found that only 36% of 100 published studies replicated successfully. Similar problems emerged in cancer biology, [economics](/economics), and other disciplines.
 
 The causes are multiple: publication bias (journals prefer positive results, so null results go unpublished), p-hacking (testing multiple statistical approaches until one produces p < 0.05), small sample sizes, poor statistical practices, and occasionally outright fraud.
 
@@ -171,7 +171,7 @@ The textbook image of science as a linear march of hypothesis-experiment-conclus
 
 Thomas Kuhn's 1962 book *The Structure of Scientific Revolutions* introduced the concept of paradigms—the shared frameworks of assumptions, methods, and standards that define a scientific field at any given time. Most scientific work is "normal science"—solving puzzles within the existing model. Occasionally, accumulated anomalies that don't fit the model trigger a "model shift"—a fundamental change in how the field understands its subject.
 
-The shift from Newtonian mechanics to Einstein's relativity is the classic example. Newton's framework worked brilliantly for centuries but couldn't explain certain observations (the precession of Mercury's orbit, the invariance of the speed of light). Einstein proposed a radically different framework that explained these anomalies and made new predictions (gravitational lensing, time dilation) that were subsequently confirmed.
+The shift from Newtonian mechanics to Einstein's [relativity](/relativity) is the classic example. Newton's framework worked brilliantly for centuries but couldn't explain certain observations (the precession of Mercury's orbit, the invariance of the speed of light). Einstein proposed a radically different framework that explained these anomalies and made new predictions (gravitational lensing, time dilation) that were subsequently confirmed.
 
 Kuhn's ideas remain controversial—some philosophers of science argue that progress is more continuous and less revolutionary than he suggested—but the basic insight that science operates within frameworks that occasionally get replaced is widely accepted.
 
@@ -191,7 +191,7 @@ The scientific method doesn't tell you what hypothesis to form—it tells you ho
 
 ### "It's Just a Theory"
 
-In everyday language, "theory" means "guess." In science, a theory is a well-substantiated explanation supported by extensive evidence from multiple independent lines of inquiry. The theory of evolution, the germ theory of disease, the theory of plate tectonics, the theory of general relativity—these aren't guesses. They're the most rigorously tested and thoroughly confirmed explanations we have for major natural phenomena.
+In everyday language, "theory" means "guess." In science, a theory is a well-substantiated explanation supported by extensive evidence from multiple independent lines of inquiry. The theory of evolution, the germ theory of disease, the theory of [plate tectonics](/plate-tectonics), the theory of [general relativity](/general-relativity)—these aren't guesses. They're the most rigorously tested and thoroughly confirmed explanations we have for major natural phenomena.
 
 Calling something "just a theory" to dismiss it reveals a misunderstanding of the term. In science, theories are what you graduate to after hypotheses survive extensive testing. They're the highest category of scientific explanation.
 
@@ -211,15 +211,15 @@ The basic principles apply everywhere, but the specific implementation varies dr
 
 ### Experimental Sciences
 
-Physics, [chemistry](/chemistry), and molecular [biology](/biology) can often run controlled experiments: manipulate one variable, hold others constant, measure the outcome, repeat. This gives the strongest evidence but only works for systems you can manipulate in a lab.
+[Physics](/physics), [chemistry](/chemistry), and molecular [biology](/biology) can often run controlled experiments: manipulate one variable, hold others constant, measure the outcome, repeat. This gives the strongest evidence but only works for systems you can manipulate in a lab.
 
 ### Observational Sciences
 
-Astronomy, ecology, and geology largely rely on observation rather than manipulation. You can't experiment on a supernova or re-run an ice age. Instead, these fields use natural variation, comparative studies, and model-based reasoning. The evidence is often indirect—inferring past events from present evidence—but can be remarkably compelling when multiple independent lines of evidence converge.
+Astronomy, ecology, and [geology](/geology) largely rely on observation rather than manipulation. You can't experiment on a supernova or re-run an ice age. Instead, these fields use natural variation, comparative studies, and model-based reasoning. The evidence is often indirect—inferring past events from present evidence—but can be remarkably compelling when multiple independent lines of evidence converge.
 
 ### Historical Sciences
 
-Paleontology, archaeology, and [evolutionary biology](/evolutionary-biology) reconstruct the past from fragmentary evidence. The scientific method here involves generating hypotheses about past events and testing them against the evidence preserved in fossils, artifacts, DNA, and geological formations. Predictions in historical science are "retrodictions"—predictions about what evidence you should find if your hypothesis is correct.
+[Paleontology](/paleontology), archaeology, and [evolutionary biology](/evolutionary-biology) reconstruct the past from fragmentary evidence. The scientific method here involves generating hypotheses about past events and testing them against the evidence preserved in fossils, artifacts, DNA, and geological formations. Predictions in historical science are "retrodictions"—predictions about what evidence you should find if your hypothesis is correct.
 
 ### Computational and Theoretical Sciences
 

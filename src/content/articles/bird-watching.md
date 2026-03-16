@@ -37,7 +37,7 @@ Bird watching — or birding — is the observation, identification, and study o
 
 Bird watching is one of the fastest-growing outdoor activities in North America. Participation increased by an estimated 30% between 2016 and 2022, with particularly sharp growth among younger adults during the COVID-19 pandemic. The Cornell Lab of [Ornithology](/ornithology)'s Merlin Bird ID app has been downloaded over 20 million times.
 
-The [economics](/economics) are significant too. The USFWS estimates that birdwatchers spend over $40 billion annually on equipment, travel, and related expenses. Birding tourism drives local economies in hotspot areas — the Rio Grande Valley in Texas, Point Pelee in Ontario, and Costa Rica's cloud forests attract thousands of visiting birders each year.
+The [economics](/economics) are significant too. The USFWS estimates that birdwatchers spend over $40 billion annually on equipment, travel, and related expenses. Birding [tourism](/tourism) drives local economies in hotspot areas — the Rio Grande Valley in Texas, Point Pelee in Ontario, and Costa Rica's cloud forests attract thousands of visiting birders each year.
 
 ## How to Identify Birds
 
@@ -81,7 +81,7 @@ The **Christmas Bird Count** ([running](/running) since 1900) is the longest-run
 
 ## Birds and Conservation
 
-Birding and [conservation](/wildlife-biology) are deeply intertwined. Birds are excellent environmental indicators — declining bird populations signal habitat loss, pollution, pesticide overuse, and climate change. A 2019 study published in *Science* found that North America has lost approximately 3 billion birds since 1970 — a 29% decline across most major bird groups.
+Birding and [conservation](/wildlife-biology) are deeply intertwined. Birds are excellent environmental indicators — declining bird populations signal habitat loss, pollution, pesticide overuse, and [climate change](/climate-change). A 2019 study published in *Science* found that North America has lost approximately 3 billion birds since 1970 — a 29% decline across most major bird groups.
 
 The major threats include habitat loss (particularly grassland and forest conversion to [agriculture](/agriculture)), outdoor cats (estimated to kill 1.3-4 billion birds annually in the U.S.), window strikes (600 million to 1 billion annual deaths), pesticide use, and climate change shifting habitats faster than some species can adapt.
 

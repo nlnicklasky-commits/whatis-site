@@ -39,7 +39,7 @@ Backgammon — or something very close to it — has been played for about 5,000
 
 The Roman version, called *tabula*, was wildly popular. Emperor Claudius reportedly had a special board built into his chariot so he could play while traveling. That level of obsession tracks — backgammon tends to get under your skin.
 
-The game reached Europe through trade and conquest, evolving through various names and rule sets. The word "backgammon" likely derives from the Middle English *baec gamen* ("back game"), referring to the re-entry of captured pieces. Modern rules stabilized in the 17th and 18th centuries, and competitive play has continued ever since.
+The game reached Europe through [trade](/trade) and conquest, evolving through various names and rule sets. The word "backgammon" likely derives from the Middle English *baec gamen* ("back game"), referring to the re-entry of captured pieces. Modern rules stabilized in the 17th and 18th centuries, and competitive play has continued ever since.
 
 ## How to Play
 

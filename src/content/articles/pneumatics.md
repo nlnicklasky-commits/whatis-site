@@ -43,15 +43,15 @@ The word comes from the Greek "pneuma," meaning wind or breath. And that's essen
 
 ## A Quick History — Older Than You'd Think
 
-People have been using compressed air for thousands of years. Ancient Greeks built pneumatic organs and bellows for metalworking. Hero of Alexandria, that first-century inventor who built everything from steam engines to automatic doors, documented pneumatic devices in his writings around 60 AD. His treatise "Pneumatica" described dozens of machines powered by air and water pressure.
+People have been using compressed air for thousands of years. Ancient Greeks built pneumatic organs and bellows for [metalworking](/metalworking). Hero of Alexandria, that first-century inventor who built everything from [steam engines](/steam-engines) to automatic doors, documented pneumatic devices in his writings around 60 AD. His treatise "Pneumatica" described dozens of machines powered by air and water pressure.
 
-But modern pneumatics really took off during the Industrial Revolution. In the 1800s, engineers started building large-scale compressed air systems for mining, tunneling, and construction. The Mont Cenis Tunnel project in the 1860s — connecting France and Italy through the Alps — used pneumatic drills powered by compressed air piped in from the tunnel entrance. That project proved compressed air could be transmitted over long distances and still do serious work.
+But modern pneumatics really took off during the Industrial Revolution. In the 1800s, engineers started building large-scale compressed air systems for mining, [tunneling](/tunneling), and [construction](/construction). The Mont Cenis Tunnel project in the 1860s — connecting France and Italy through the Alps — used pneumatic drills powered by compressed air piped in from the tunnel entrance. That project proved compressed air could be transmitted over long distances and still do serious work.
 
 By the early 20th century, pneumatics had become standard in factories. The development of reliable air compressors, better sealing materials, and precision valves turned pneumatics from a rough industrial tool into something capable of fine, repeatable control. Today, roughly 70% of all manufacturing facilities worldwide use compressed air systems in their operations.
 
 ## How Pneumatic Systems Actually Work
 
-Fundamentally, every pneumatic system follows the same basic logic: compress air, store it, control its release, and use that release to do work. Here's how each stage plays out.
+Fundamentally, every pneumatic system follows the same basic [logic](/logic): compress air, store it, control its release, and use that release to do work. Here's how each stage plays out.
 
 ### Step 1: Compression
 
@@ -67,7 +67,7 @@ Raw compressed air is dirty. It contains moisture, oil droplets from the compres
 
 An air treatment system typically includes filters to remove particles, dryers to remove moisture, and sometimes lubricators to add a fine mist of oil that keeps downstream components working smoothly. This is often called an FRL unit — Filter, Regulator, Lubricator. The regulator adjusts the pressure to whatever the downstream equipment needs.
 
-The treated air goes into a receiver tank — basically a big storage vessel that acts as a buffer. This tank smooths out pressure fluctuations from the compressor cycling on and off and provides a reserve of compressed air for peak demand moments.
+The treated air goes into a receiver tank — basically a big storage vessel that acts as a buffer. This tank smooths out pressure fluctuations from the compressor [cycling](/cycling) on and off and provides a reserve of compressed air for peak demand moments.
 
 ### Step 3: Distribution
 
@@ -87,7 +87,7 @@ A typical valve is described by its ports and positions. A "5/2 valve" has 5 por
 
 The actuator is where compressed air finally does useful work. The most common actuator is a pneumatic cylinder — a tube with a piston inside. Air pressure on one side of the piston pushes it in one direction. Air on the other side pushes it back. This converts the air's pressure energy into linear motion.
 
-Cylinders come in many configurations. Single-acting cylinders push in one direction and use a spring to return. Double-acting cylinders use air pressure in both directions, giving you powered motion both ways. Rodless cylinders move a carriage along their length without a protruding piston rod. Compact cylinders fit in tight spaces.
+Cylinders come in many configurations. Single-[acting](/acting) cylinders push in one direction and use a spring to return. Double-acting cylinders use air pressure in both directions, giving you powered motion both ways. Rodless cylinders move a carriage along their length without a protruding piston rod. Compact cylinders fit in tight spaces.
 
 Beyond cylinders, pneumatic actuators include rotary actuators (which produce turning motion), grippers (which grab and release objects), vacuum cups (which pick up flat objects using suction), and air motors (which produce continuous rotation).
 
@@ -121,7 +121,7 @@ Pneumatics has real limitations, and pretending otherwise would be dishonest.
 
 ### Energy Efficiency
 
-Here's the uncomfortable truth: pneumatic systems are energy hogs. Converting electrical energy to compressed air and then back to mechanical motion wastes a lot of energy at each step. The overall efficiency of a pneumatic system — from electricity into the compressor to useful work at the actuator — is typically only 10-20%. Compare that to an electric motor at 80-90% efficiency.
+Here's the uncomfortable truth: pneumatic systems are energy hogs. Converting electrical energy to compressed air and then back to mechanical motion wastes a lot of energy at each step. The overall efficiency of a pneumatic system — from [electricity](/electricity) into the compressor to useful work at the actuator — is typically only 10-20%. Compare that to an electric motor at 80-90% efficiency.
 
 That 20-30% leak rate mentioned earlier makes things worse. A medium-sized factory might spend $30,000-$50,000 per year just on the electricity to generate compressed air that leaks away without doing anything useful.
 
@@ -145,15 +145,15 @@ Let's look at where pneumatics actually shows up day to day. The answer is: almo
 
 ### Manufacturing and Assembly
 
-Walk into any car factory, and you'll see pneumatics everywhere. Air-powered tools — impact wrenches, riveters, screwdrivers — are standard equipment. Pneumatic cylinders clamp parts in place during welding and assembly. Air-powered conveyors move parts between stations. Pneumatic grippers on [robot arms](/mechatronics) pick up components and place them precisely.
+Walk into any car factory, and you'll see pneumatics everywhere. Air-powered tools — impact wrenches, riveters, screwdrivers — are standard equipment. Pneumatic cylinders clamp parts in place during [welding](/welding) and assembly. Air-powered conveyors move parts between stations. Pneumatic grippers on [robot arms](/mechatronics) pick up components and place them precisely.
 
-A single automotive assembly plant might have thousands of pneumatic actuators running simultaneously, each performing a specific task in the assembly sequence.
+A single automotive assembly plant might have thousands of pneumatic actuators [running](/running) simultaneously, each performing a specific task in the assembly sequence.
 
 ### Transportation
 
 Every bus, truck, and train you've ridden likely uses pneumatic brakes. Air brakes were invented by George Westinghouse in 1869, and they're still the standard for heavy vehicles. The reason is simple: if an air line breaks, the brakes automatically apply (they're held open by air pressure). This fail-safe design means a leak causes the vehicle to stop, not lose its brakes.
 
-Bus doors open and close pneumatically. Train coupling systems use pneumatics. Even the suspension on many heavy trucks uses air springs — bags of compressed air that adjust ride height and stiffness.
+Bus doors open and close pneumatically. Train coupling systems use pneumatics. Even the suspension on many heavy trucks uses air [springs](/springs) — bags of compressed air that adjust ride height and stiffness.
 
 ### Construction
 
@@ -195,7 +195,7 @@ Some newer pneumatic systems recover energy from exhaust air rather than venting
 
 Vacuum is pneumatics in reverse — instead of pushing with positive pressure, you pull with negative pressure. Vacuum grippers and suction cups are everywhere in [logistics](/logistics) and packaging, picking up everything from cardboard boxes to glass panels to individual pills in pharmaceutical packaging.
 
-Vacuum ejectors, powered by compressed air, create suction without moving parts. A small stream of compressed air flowing through a carefully shaped nozzle creates a vacuum zone through the Venturi effect. It's elegant physics.
+Vacuum ejectors, powered by compressed air, create suction without moving parts. A small stream of compressed air flowing through a carefully shaped nozzle creates a vacuum zone through the Venturi effect. It's elegant [physics](/physics).
 
 ## Pneumatics vs. Electric: The Ongoing Debate
 

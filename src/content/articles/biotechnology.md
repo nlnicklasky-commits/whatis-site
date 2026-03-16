@@ -57,13 +57,13 @@ Biotechnology is so broad that researchers actually categorize it by color. This
 
 Red biotech is probably what you think of first. It covers pharmaceuticals, gene therapy, diagnostics, and regenerative medicine.
 
-The numbers tell the story. The global biopharmaceutical market exceeded $400 billion in 2024. More than 250 biotech-derived drugs and vaccines are currently available to patients. And roughly 40% of drugs in development today come from biotech processes rather than traditional chemistry.
+The numbers tell the story. The global biopharmaceutical market exceeded $400 billion in 2024. More than 250 biotech-derived drugs and vaccines are currently available to patients. And roughly 40% of drugs in development today come from biotech processes rather than traditional [chemistry](/chemistry).
 
 Some standout achievements:
 
 **Recombinant insulin** was the first major biotech product, approved by the FDA in 1982. Before that, diabetics relied on insulin extracted from pig and cow pancreases — which sometimes caused allergic reactions and was expensive to produce. Biotech-produced insulin, made by inserting the human insulin gene into bacteria, was cheaper, more consistent, and identical to what the human body makes naturally.
 
-**Monoclonal antibodies** are lab-made proteins that mimic the immune system's ability to fight off pathogens. They've become the backbone of cancer treatment, autoimmune disease management, and even COVID-19 therapy. Drugs like trastuzumab (Herceptin) target specific cancer cells while leaving healthy tissue alone — something traditional chemotherapy can't do.
+**Monoclonal antibodies** are lab-made proteins that mimic the immune system's ability to fight off pathogens. They've become the backbone of cancer treatment, autoimmune disease [management](/management), and even COVID-19 therapy. Drugs like trastuzumab (Herceptin) target specific cancer cells while leaving healthy tissue alone — something traditional chemotherapy can't do.
 
 **Gene therapy** goes a step further. Instead of treating symptoms, it fixes the underlying genetic problem. In 2017, the FDA approved Luxturna, a gene therapy for inherited retinal dystrophy that can restore vision. Zolgensma, approved in 2019, treats spinal muscular atrophy in infants by replacing a faulty gene — at a one-time cost of $2.1 million per dose, making it one of the most expensive treatments ever.
 
@@ -79,9 +79,9 @@ But green biotech goes way beyond GMOs. It includes:
 
 **Marker-assisted selection**, which speeds up traditional breeding by using DNA markers to identify plants with desirable traits. No genetic modification involved — just smarter breeding.
 
-**Biopesticides** derived from natural organisms. Bacillus thuringiensis (Bt), a soil bacterium, produces proteins toxic to certain insects but harmless to humans. It's been used in organic farming for decades.
+**Biopesticides** derived from natural organisms. Bacillus thuringiensis (Bt), a soil bacterium, produces proteins toxic to certain insects but harmless to humans. It's been used in [organic farming](/organic-farming) for decades.
 
-**Drought-resistant crops** developed through both traditional breeding assisted by genomics and direct genetic modification. With climate change threatening food production, this work is increasingly urgent. Some drought-tolerant corn varieties now yield 20-30% more than conventional varieties under water stress.
+**Drought-resistant crops** developed through both traditional breeding assisted by genomics and direct genetic modification. With [climate change](/climate-change) threatening food production, this work is increasingly urgent. Some drought-tolerant corn varieties now yield 20-30% more than conventional varieties under water stress.
 
 **Golden Rice** is perhaps the most debated green biotech product. Engineered to produce beta-carotene (vitamin A precursor), it was designed to combat vitamin A deficiency, which kills an estimated 670,000 children under five annually. Despite 20+ years of development and safety clearance, regulatory and political barriers have slowed its adoption.
 
@@ -126,11 +126,11 @@ This process, first demonstrated in 1973, remains the backbone of biopharmaceuti
 
 Polymerase Chain Reaction, invented by Kary Mullis in 1983, lets you make millions of copies of a specific DNA segment in hours. It's deceptively simple: heat DNA to separate the strands, cool it so primers attach, let DNA polymerase build new copies. Repeat 30-40 times.
 
-PCR became famous during COVID-19 as the gold standard for testing. But it's used everywhere — forensic identification, paternity testing, genetic disease screening, food safety testing, and archaeological DNA analysis. Frankly, modern biology would be impossible without it.
+PCR became famous during COVID-19 as the gold standard for testing. But it's used everywhere — forensic identification, paternity testing, genetic disease screening, food safety testing, and archaeological DNA analysis. Frankly, modern [biology](/biology) would be impossible without it.
 
 ### CRISPR-Cas9: The Gene Editor
 
-CRISPR changed everything. Discovered as a bacterial immune defense mechanism, it was adapted in 2012 by Jennifer Doudna and Emmanuelle Charpentier into a precise gene-editing tool. They won the 2020 Nobel Prize for it.
+CRISPR changed everything. Discovered as a bacterial immune defense mechanism, it was adapted in 2012 by Jennifer Doudna and Emmanuelle Charpentier into a precise gene-[editing](/editing) tool. They won the 2020 Nobel Prize for it.
 
 Here's why CRISPR matters: previous gene-editing tools (ZFNs, TALENs) were expensive, slow, and required specialized expertise. CRISPR is relatively cheap, fast, and accessible to most [molecular biology](/molecular-biology) labs. It uses a guide RNA to find a specific DNA sequence, then the Cas9 protein cuts it. Scientists can then delete the gene, replace it, or insert new sequences.
 
@@ -148,7 +148,7 @@ Growing cells outside the body is fundamental to biotech. Cell culture lets rese
 
 Chinese hamster ovary (CHO) cells are the workhorses of biopharmaceutical production — they produce about 70% of all recombinant therapeutic proteins. These cells are grown in massive bioreactors, sometimes holding 20,000 liters, continuously producing antibodies and other proteins.
 
-Tissue engineering takes this further. Scientists can now grow skin grafts for burn victims, cartilage for joint repair, and even rudimentary organs using 3D bioprinting — a technology that layers living cells into three-dimensional structures.
+Tissue [engineering](/engineering) takes this further. Scientists can now grow skin grafts for burn victims, cartilage for joint repair, and even rudimentary organs using 3D bioprinting — a technology that layers living cells into three-dimensional structures.
 
 ## Biotechnology and Ethics: The Hard Questions
 
@@ -168,11 +168,11 @@ The scientific consensus — from organizations including the WHO, National Acad
 
 Yet public opposition remains strong, particularly in Europe. Concerns include corporate control of seed supplies (Monsanto/Bayer controls a significant share of the GMO seed market), potential environmental impacts from herbicide-resistant "superweeds," loss of biodiversity, and the broader question of whether humans should be editing the genome of their food.
 
-These concerns aren't irrational. Corporate consolidation of seed supplies is a real economic issue. Herbicide-resistant weeds have appeared. The debate isn't really about safety — it's about control, economics, and philosophy.
+These concerns aren't irrational. Corporate consolidation of seed supplies is a real economic issue. Herbicide-resistant weeds have appeared. The [debate](/debate) isn't really about safety — it's about control, [economics](/economics), and [philosophy](/philosophy).
 
 ### Biosecurity
 
-Biotechnology can be misused. The same techniques that create life-saving drugs can theoretically create biological weapons. [Synthetic biology](/synthetic-biology), which allows construction of DNA sequences from scratch, raises particular concerns. In 2018, Canadian researchers synthesized horsepox virus from mail-ordered DNA fragments — demonstrating that extinct viruses could theoretically be recreated.
+Biotechnology can be misused. The same techniques that create life-saving drugs can theoretically create biological weapons. [Synthetic biology](/synthetic-biology), which allows [construction](/construction) of DNA sequences from scratch, raises particular concerns. In 2018, Canadian researchers synthesized horsepox virus from mail-ordered DNA fragments — demonstrating that extinct viruses could theoretically be recreated.
 
 International agreements like the Biological Weapons Convention exist, but enforcement is difficult. The dual-use nature of biotech — where the same knowledge enables both beneficial and harmful applications — is an ongoing security challenge.
 
@@ -184,9 +184,9 @@ The global biotechnology market was valued at roughly $1.55 trillion in 2024. Th
 
 Drug development is brutally expensive. It takes an average of 10-15 years and $2.6 billion to bring a single new drug to market. Only about 12% of drugs entering clinical trials eventually gain FDA approval. This explains why biotech companies burn through cash for years before ever generating revenue — and why successful drugs are priced so high.
 
-Biotech startups typically follow a distinct pattern: academic researchers discover something promising, form a company, raise venture capital, run clinical trials, and either get acquired by a larger pharmaceutical company or (rarely) bring the product to market independently. About 90% of biotech startups fail.
+Biotech startups typically follow a distinct pattern: academic researchers discover something promising, form a company, raise [venture capital](/venture-capital), run clinical trials, and either get acquired by a larger pharmaceutical company or (rarely) bring the product to market independently. About 90% of biotech startups fail.
 
-The industry also depends heavily on intellectual property. Patents on genes, proteins, and processes are fiercely contested. The 2013 Supreme Court case Association for Molecular Pathology v. Many Genetics ruled that naturally occurring DNA sequences cannot be patented, but synthetic DNA (cDNA) can — a decision that reshaped the entire industry.
+The industry also depends heavily on intellectual property. Patents on genes, proteins, and processes are fiercely contested. The 2013 Supreme Court case Association for Molecular [Pathology](/pathology) v. Many [Genetics](/genetics) ruled that naturally occurring DNA sequences cannot be patented, but synthetic DNA (cDNA) can — a decision that reshaped the entire industry.
 
 ## Emerging Frontiers
 
@@ -214,7 +214,7 @@ Cost remains the major barrier. The first cultured beef burger in 2013 cost $330
 
 ### Microbiome Engineering
 
-The human gut contains roughly 39 trillion bacteria — slightly more than the number of human cells in your body. Research increasingly shows these microbes influence everything from [digestion](/anatomy) to mental health. Biotech companies are developing therapies that modify the gut microbiome to treat conditions including C. difficile infection, inflammatory bowel disease, and even depression.
+The human gut contains roughly 39 trillion bacteria — slightly more than the number of human cells in your body. Research increasingly shows these microbes influence everything from [digestion](/anatomy) to [mental health](/mental-health). Biotech companies are developing therapies that modify the gut microbiome to treat conditions including C. difficile infection, inflammatory bowel disease, and even depression.
 
 Fecal microbiota transplantation (FMT) — yes, exactly what it sounds like — has a 90%+ success rate for recurrent C. difficile infection, far exceeding antibiotics. It's crude, but it works, and it's driving development of more refined microbiome therapies.
 

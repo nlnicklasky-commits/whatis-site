@@ -71,7 +71,7 @@ The variety is enormous:
 
 **Loose connective tissue** (areolar tissue) fills spaces between organs, wraps blood vessels and nerves, and provides a flexible framework. It's mostly collagen and elastic fibers in a gel-like ground substance.
 
-**Dense connective tissue** has packed collagen fibers for strength. Tendons (connecting muscle to bone) are dense regular connective tissue—fibers aligned in parallel for maximum tensile strength. Ligaments are similar. The dermis of your skin is dense irregular connective tissue—fibers running in multiple directions to resist forces from all angles.
+**Dense connective tissue** has packed collagen fibers for strength. Tendons (connecting muscle to bone) are dense regular connective tissue—fibers aligned in parallel for maximum tensile strength. Ligaments are similar. The dermis of your skin is dense irregular connective tissue—fibers [running](/running) in multiple directions to resist forces from all angles.
 
 **Cartilage** is a firm but flexible connective tissue that forms the framework of the ear, nose, trachea, and joint surfaces. Chondrocytes (cartilage cells) sit in small spaces called lacunae within a matrix rich in collagen and proteoglycans. Cartilage has no blood supply—nutrients reach chondrocytes by diffusion through the matrix, which is why cartilage heals slowly and sometimes not at all.
 
@@ -107,7 +107,7 @@ Turning living tissue into a microscope slide is a multistep process that hasn't
 
 The first step is fixation—preserving the tissue to prevent decay. Formalin (a 10% solution of formaldehyde) is the most common fixative. It cross-links proteins, locking cellular structures in place. Tissue must be fixed quickly after removal from the body; delays allow enzyme degradation (autolysis) that distorts the cellular architecture.
 
-Fresh tissue is also sometimes frozen immediately (for frozen sections), which skips the lengthy processing steps and allows rapid diagnosis—useful during surgery when a surgeon needs to know whether a tumor margin is clear before closing the wound. Frozen sections can be prepared, stained, and examined in about 15 minutes.
+Fresh tissue is also sometimes frozen immediately (for frozen sections), which skips the lengthy processing steps and allows rapid diagnosis—useful during [surgery](/surgery) when a surgeon needs to know whether a tumor margin is clear before closing the wound. Frozen sections can be prepared, stained, and examined in about 15 minutes.
 
 ### Processing, Embedding, and Sectioning
 

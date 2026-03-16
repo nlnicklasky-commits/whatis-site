@@ -58,7 +58,7 @@ The World Health Organization estimates that musculoskeletal conditions affect r
 
 ## The Subspecialties — Because One Field Isn't Enough
 
-Orthopedics has fractured (no pun intended) into numerous subspecialties. After completing a five-year orthopedic surgery residency, many surgeons do an additional one to two years of fellowship training in a focused area.
+Orthopedics has fractured (no pun intended) into numerous subspecialties. After completing a five-year orthopedic [surgery](/surgery) residency, many surgeons do an additional one to two years of fellowship training in a focused area.
 
 ### Joint Replacement (Arthroplasty)
 
@@ -72,7 +72,7 @@ Modern joint replacements typically last 15 to 25 years, a huge improvement from
 
 Sports medicine orthopedists treat injuries to muscles, tendons, ligaments, and cartilage — particularly in athletes, though weekend warriors and non-athletes get the same injuries. ACL tears, rotator cuff injuries, meniscus damage, and stress fractures are daily fare.
 
-Arthroscopy — inserting a tiny camera and instruments through small incisions to repair damage inside a joint — revolutionized this subspecialty in the 1970s and 1980s. What once required large open incisions and months of recovery can now sometimes be done as outpatient surgery with patients walking the same day.
+Arthroscopy — inserting a tiny camera and instruments through small incisions to repair damage inside a joint — revolutionized this subspecialty in the 1970s and 1980s. What once required large open incisions and months of recovery can now sometimes be done as outpatient surgery with patients [walking](/walking) the same day.
 
 ### Spine Surgery
 
@@ -118,7 +118,7 @@ Osteoporotic fractures deserve special mention. In older adults, weakened bones 
 
 ### Tendon and Ligament Injuries
 
-Rotator cuff tears, ACL tears, Achilles tendon ruptures, tennis elbow — these injuries involve the soft tissues that connect and support your musculoskeletal system. Treatment depends on the severity. A partial tear might heal with rest and rehab. A complete tear in an active patient often requires surgical repair.
+Rotator cuff tears, ACL tears, Achilles tendon ruptures, [tennis](/tennis) elbow — these injuries involve the soft tissues that connect and support your musculoskeletal system. Treatment depends on the severity. A partial tear might heal with rest and rehab. A complete tear in an active patient often requires surgical repair.
 
 ### Back Pain
 

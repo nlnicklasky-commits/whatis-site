@@ -40,23 +40,23 @@ This might sound like a niche academic pursuit. It's not. Every law you encounte
 
 ## The Ancient Roots of Written Law
 
-People had rules long before they had writing. Customary laws — unwritten rules enforced by community pressure and tradition — governed human behavior for thousands of years. But the shift to written law was a turning point. Suddenly, the rules could be publicly known, consistently applied, and debated.
+People had rules long before they had [writing](/writing). Customary laws — unwritten rules enforced by community pressure and tradition — governed human behavior for thousands of years. But the shift to written law was a turning point. Suddenly, the rules could be publicly known, consistently applied, and debated.
 
 The Code of Ur-Nammu, created in ancient Sumer around 2100 BCE, is the oldest surviving legal code. It prescribed monetary fines for bodily injuries — a surprisingly modern approach. Before this, most disputes were settled through personal vengeance or blood feuds. The idea that a third party (the state) could impose standardized penalties was radical.
 
-The Code of Hammurabi, carved into a black stone stele around 1754 BCE, is better known and more detailed — 282 laws covering property, trade, family, and criminal matters. Its famous "eye for an eye" principle (lex talionis) actually represented progress: it limited punishment to proportional retaliation rather than unlimited revenge.
+The Code of Hammurabi, carved into a black stone stele around 1754 BCE, is better known and more detailed — 282 laws covering property, [trade](/trade), family, and criminal matters. Its famous "eye for an eye" principle (lex talionis) actually represented progress: it limited punishment to proportional retaliation rather than unlimited revenge.
 
 Ancient Egyptian law, though less codified, operated through the concept of Ma'at — truth, order, and justice. Pharaohs were expected to uphold Ma'at, and courts operated at multiple levels of society. Legal documents from ancient Egypt show sophisticated contracts, property transfers, and even prenuptial agreements dating back over 3,000 years.
 
 ## Roman Law: The Foundation of the Western Legal Tradition
 
-If you want to find the single most influential legal system in history, Rome is your answer. Roman law developed over roughly a thousand years and created concepts that still structure legal thinking across much of the world.
+If you want to find the single most influential legal system in history, Rome is your answer. [Roman law](/roman-law) developed over roughly a thousand years and created concepts that still structure legal thinking across much of the world.
 
 The Twelve Tables (450 BCE) were Rome's first written laws — literally inscribed on bronze tablets and posted in the Forum for all to see. The principle behind them was simple and powerful: law should be public, not secret. Citizens should know the rules.
 
 As the Republic and then the Empire expanded, Roman law grew more sophisticated. Jurists like Gaius, Ulpian, and Papinian developed systematic legal analysis. They classified law into categories (persons, things, and actions), developed the law of obligations (contracts and delicts), and created concepts of legal personality that survive today in corporate [law](/law).
 
-Emperor Justinian's compilation, the *Corpus Juris Civilis* (534 CE), organized centuries of Roman legal thought into a coherent system. When European universities rediscovered this text in the 11th century, it triggered a legal revolution. The study of Roman law became the foundation of legal education across continental Europe and eventually influenced legal systems from Latin America to Japan.
+Emperor Justinian's compilation, the *Corpus Juris Civilis* (534 CE), organized centuries of Roman legal thought into a coherent system. When European universities rediscovered this text in the 11th century, it triggered a legal revolution. The study of Roman law became the foundation of legal [education](/education) across continental Europe and eventually influenced legal systems from Latin America to Japan.
 
 ## English Common Law: A Different Path
 
@@ -72,7 +72,7 @@ English equity law developed alongside common law as a corrective. When common l
 
 ## Religious Legal Traditions
 
-Law and religion have been intertwined throughout history. Several religious legal traditions have shaped — and continue to shape — the legal systems of billions of people.
+Law and [religion](/religion) have been intertwined throughout history. Several religious legal traditions have shaped — and continue to shape — the legal systems of billions of people.
 
 Jewish law (Halakha), derived from the Torah and developed through centuries of rabbinical commentary (the Talmud), covers religious observance, civil disputes, and personal conduct. Its methods of textual interpretation influenced both Christian canon law and Islamic [jurisprudence](/jurisprudence). The tradition of rigorous legal reasoning in Jewish scholarship has had an outsized influence on Western legal thinking.
 
@@ -92,7 +92,7 @@ Codification was partly about control — states wanted uniform, predictable law
 
 ## Constitutional Revolutions
 
-The idea that government itself should be bound by law — that there should be a "higher law" constraining what rulers can do — is one of legal history's most important developments.
+The idea that [government](/government) itself should be bound by law — that there should be a "higher law" constraining what rulers can do — is one of legal history's most important developments.
 
 The U.S. Constitution (1787) and its Bill of Rights (1791) created the first modern constitutional government based on popular sovereignty and separated powers. The idea of judicial review — courts striking down laws that violate the constitution — emerged from *Marbury v. Madison* (1803) and became one of America's most important contributions to legal thought.
 
@@ -122,6 +122,6 @@ Digital technology raises questions about privacy, intellectual property, and go
 
 ## Why Legal History Matters Now
 
-Legal history isn't just about the past. Every time a court interprets a statute, every time a legislature drafts a new law, every time a citizen argues about rights — they're drawing on centuries of legal development, whether they know it or not.
+Legal history isn't just about the past. Every time a court interprets a statute, every time a legislature drafts a new law, every time a citizen argues about rights — they're [drawing](/drawing) on centuries of legal development, whether they know it or not.
 
 Understanding legal history gives you something valuable: perspective. It shows you that the laws you live under aren't inevitable or permanent. They were created by specific people, in specific circumstances, for specific reasons. They can be changed. They have been changed. And knowing how that happened before is the best guide to how it might happen again.

@@ -67,7 +67,7 @@ The biggest obstacle isn't skill — it's starting. Here's what works.
 
 ## Famous Sketchers
 
-Leonardo da Vinci's notebooks — filled with sketches of [anatomy](/anatomy), machines, plants, water, and ideas — are arguably the most famous sketchbooks in history. They reveal his thinking process: questions jotted next to drawings, alternative designs explored on the same page, observations that led to discoveries. His sketches prove that drawing was inseparable from his [scientific](/scientific-illustration) and artistic thinking.
+Leonardo da Vinci's notebooks — filled with sketches of [anatomy](/anatomy), machines, plants, water, and ideas — are arguably the most famous sketchbooks in history. They reveal his thinking process: questions jotted next to drawings, alternative designs explored on the same page, observations that led to discoveries. His sketches prove that drawing was inseparable from his [scientific](/scientific-[illustration](/illustration)) and artistic thinking.
 
 Rembrandt's sketches are masterclasses in economy — capturing a sleeping child, a beggar, or a field in a few quick pen strokes that convey more than most artists achieve with hours of careful work. His sketches show that skill isn't about detail; it's about selecting the right marks.
 

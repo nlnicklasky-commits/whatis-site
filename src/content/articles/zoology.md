@@ -46,9 +46,9 @@ Humans have been watching animals for as long as humans have existed. Cave paint
 
 Aristotle (384-322 BCE) is generally considered the father of zoology. His *History of Animals* classified around 540 species and included genuinely impressive observations — he correctly identified that dolphins are mammals, not fish, something European scholars would forget and relearn centuries later. He dissected animals, studied their reproduction, and attempted the first systematic classification of living things.
 
-After Aristotle, zoological knowledge progressed slowly for nearly two millennia. Medieval bestiaries mixed real observations with mythology — unicorns and basilisks shared pages with wolves and eagles. The [scientific method](/scientific-method) hadn't been formalized yet, so accurate observation and wild speculation sat side by side.
+After Aristotle, zoological knowledge progressed slowly for nearly two millennia. Medieval bestiaries mixed real observations with [mythology](/mythology) — unicorns and basilisks shared pages with wolves and eagles. The [scientific method](/scientific-method) hadn't been formalized yet, so accurate observation and wild speculation sat side by side.
 
-The 17th century changed everything. The invention of the microscope by Antonie van Leeuwenhoek revealed a world of organisms invisible to the naked eye. Suddenly, zoology wasn't just about large, visible animals — it included entire ecosystems of microscopic life that no one had imagined.
+The 17th century changed everything. The [invention](/invention) of the microscope by Antonie van Leeuwenhoek revealed a world of organisms invisible to the naked eye. Suddenly, zoology wasn't just about large, visible animals — it included entire ecosystems of microscopic life that no one had imagined.
 
 Carl Linnaeus published his *Systema Naturae* in 1735, creating the binomial naming system we still use today. Every species gets two Latin names — genus and species. Humans are *Homo sapiens*. Domestic cats are *Felis catus*. This system brought order to what had been a chaotic mess of local names and conflicting descriptions.
 
@@ -104,7 +104,7 @@ But fieldwork produces irreplaceable data. You can't fully understand an animal'
 
 ### Laboratory Research
 
-Lab work complements fieldwork. Zoologists use labs for dissection, genetic analysis, cell biology, physiological experiments, and microscopy. Modern labs use tools that would have seemed like science fiction fifty years ago — CRISPR gene editing, electron microscopes that can image individual molecules, bioinformatics software that analyzes millions of DNA sequences simultaneously.
+Lab work complements fieldwork. Zoologists use labs for dissection, genetic analysis, cell biology, physiological experiments, and [microscopy](/microscopy). Modern labs use tools that would have seemed like [science fiction](/science-fiction) fifty years ago — CRISPR gene [editing](/editing), electron microscopes that can image individual molecules, bioinformatics software that analyzes millions of DNA sequences simultaneously.
 
 [Cell biology](/cell-biology) and [biochemistry](/biochemistry) have become essential to modern zoology. Understanding how a snake's venom works at the molecular level, or how a deep-sea fish's proteins resist extreme pressure, requires lab techniques borrowed from [chemistry](/chemistry) and [molecular biology](/molecular-biology).
 
@@ -112,7 +112,7 @@ Lab work complements fieldwork. Zoologists use labs for dissection, genetic anal
 
 The newest frontier. With massive datasets from GPS tracking, camera traps, acoustic monitoring, satellite imagery, and citizen science platforms like iNaturalist, zoologists increasingly need skills in [data analysis](/data-analysis), [statistics](/statistics), and even [machine learning](/machine-learning).
 
-Camera traps alone generate billions of images. Manually identifying species in each photo would take lifetimes. AI-powered image recognition now does this automatically — and it's getting better every year. A 2023 study showed that deep learning models can identify individual animals (not just species, but specific individuals) from camera trap photos with over 90% accuracy.
+Camera traps alone generate billions of images. Manually identifying species in each photo would take lifetimes. AI-powered image recognition now does this automatically — and it's getting better every year. A 2023 study showed that [deep learning](/deep-learning) models can identify individual animals (not just species, but specific individuals) from camera trap photos with over 90% accuracy.
 
 ## Key Concepts Every Zoology Student Learns
 
@@ -158,7 +158,7 @@ Zoology isn't just academic curiosity — it's urgently practical.
 
 We're living through the sixth mass extinction event in Earth's history, and this one is caused by human activity. The 2022 Living Planet Report from WWF documented an average 69% decline in monitored wildlife populations between 1970 and 2018. That's not a typo — a 69% average decline in less than 50 years.
 
-Zoologists are on the front lines of understanding and addressing this crisis. They assess which species are threatened, identify the causes (habitat loss, climate change, pollution, overexploitation, invasive species), and develop conservation strategies.
+Zoologists are on the front lines of understanding and addressing this crisis. They assess which species are threatened, identify the causes (habitat loss, [climate change](/climate-change), pollution, overexploitation, invasive species), and develop conservation strategies.
 
 [Conservation biology](/conservation-biology) has scored some genuine wins. The bald eagle, once nearly extinct due to DDT pesticide, has recovered dramatically. Giant panda populations have increased by 17% in the last decade. The Arabian oryx, extinct in the wild by 1972, has been reintroduced through captive breeding programs.
 
@@ -194,7 +194,7 @@ The evidence is mixed. Some species (California condors, Arabian oryx) would lik
 
 ### Trophy Hunting and Sustainable Use
 
-Some conservation biologists argue that regulated trophy hunting can fund conservation — the fees from a single elephant hunt can fund anti-poaching patrols for a year. Others consider this morally repugnant. The debate is heated, emotional, and genuinely complex.
+Some conservation biologists argue that regulated trophy [hunting](/hunting) can fund conservation — the fees from a single elephant hunt can fund anti-poaching patrols for a year. Others consider this morally repugnant. The debate is heated, emotional, and genuinely complex.
 
 ## Careers in Zoology
 

@@ -39,9 +39,9 @@ Biomechanics is the science that applies the principles of mechanics — the bra
 
 ## Forces Inside Your Body
 
-Every time you take a step, pick up a coffee mug, or turn your head, your body is solving a mechanical problem — balancing forces, managing joint loads, and coordinating muscle activations across dozens of structures simultaneously. You don't think about it, which is a proof to how well your nervous system handles the engineering. But the numbers involved are genuinely impressive.
+Every time you take a step, pick up a coffee mug, or turn your head, your body is solving a mechanical problem — balancing forces, managing joint loads, and coordinating muscle activations across dozens of structures simultaneously. You don't think about it, which is a proof to how well your nervous system handles the [engineering](/engineering). But the numbers involved are genuinely impressive.
 
-When you walk at a normal pace, the force on your hip joint reaches 2.5 to 3 times your body weight with each step. Running pushes that to 4-5 times body weight. A basketball player landing from a jump can experience forces at the knee exceeding 7 times body weight. Your Achilles tendon — a structure about the width of your thumb — routinely handles tensile forces of 3,000-4,000 newtons (675-900 pounds) during running.
+When you walk at a normal pace, the force on your hip joint reaches 2.5 to 3 times your body weight with each step. [Running](/running) pushes that to 4-5 times body weight. A [basketball](/basketball) player landing from a jump can experience forces at the knee exceeding 7 times body weight. Your Achilles tendon — a structure about the width of your thumb — routinely handles tensile forces of 3,000-4,000 newtons (675-900 pounds) during running.
 
 These numbers explain why musculoskeletal injuries are so common. The human body is remarkably well-engineered for the movement patterns it evolved to perform, but it has limits — and modern life regularly pushes people past them.
 
@@ -49,13 +49,13 @@ These numbers explain why musculoskeletal injuries are so common. The human body
 
 Biomechanics borrows directly from [classical mechanics](/classical-mechanics):
 
-**Statics** analyzes bodies in equilibrium — not moving, or moving at constant velocity. When you stand still, your body is a static system. The forces acting on it (gravity pulling down, ground reaction force pushing up) must balance. Analyzing static posture reveals why certain positions strain specific structures — standing with excessive forward lean, for instance, forces back muscles to work harder to prevent you from toppling over, which is why poor posture causes back pain.
+**Statics** analyzes bodies in equilibrium — not moving, or moving at constant velocity. When you stand still, your body is a static system. The forces [acting](/acting) on it (gravity pulling down, ground reaction force pushing up) must balance. Analyzing static posture reveals why certain positions strain specific structures — standing with excessive forward lean, for instance, forces back muscles to work harder to prevent you from toppling over, which is why poor posture causes back pain.
 
 **Dynamics** analyzes bodies in motion — acceleration, deceleration, and the forces causing them. Most interesting biomechanical problems are active. How much force does a sprinter's foot exert at push-off? What's the angular velocity of a pitcher's arm during a fastball? How quickly must a gymnast rotate to complete a backflip?
 
 **Kinematics** describes motion without considering forces — positions, velocities, angles, and angular velocities. Motion capture systems (the same technology used in movie [visual effects](/visual-effects)) track reflective markers on a person's body to measure joint angles and segment velocities with sub-millimeter precision.
 
-**Kinetics** deals with the forces causing motion. Force plates embedded in the floor measure ground reaction forces. Instrumented treadmills do the same during walking and running. Pressure sensors in shoe insoles map how force distributes across the foot during each step.
+**Kinetics** deals with the forces causing motion. Force plates embedded in the floor measure ground reaction forces. Instrumented treadmills do the same during [walking](/walking) and running. Pressure sensors in shoe insoles map how force distributes across the foot during each step.
 
 ## Musculoskeletal Biomechanics
 
@@ -97,11 +97,11 @@ Running biomechanics might be the most studied movement in the field, partly bec
 
 The running gait cycle has two phases: stance (foot on the ground, ~40% of the cycle at moderate speed) and swing (foot in the air). During stance, the body must absorb the impact of landing and then redirect that energy into forward propulsion.
 
-The barefoot running debate — sparked by Christopher McDougall's 2009 book "Born to Run" — was fundamentally a biomechanics question. Traditional running shoes have thick, cushioned heels that encourage a heel-strike landing pattern. Barefoot (or minimally shod) runners tend to land on the forefoot or midfoot, which reduces the impact transient (the initial spike of force at landing) but shifts load to the calf muscles and Achilles tendon. Neither pattern is universally "better" — the optimal gait depends on individual [anatomy](/anatomy), running speed, and training history.
+The barefoot running [debate](/debate) — sparked by Christopher McDougall's 2009 book "Born to Run" — was fundamentally a biomechanics question. Traditional running shoes have thick, cushioned heels that encourage a heel-strike landing pattern. Barefoot (or minimally shod) runners tend to land on the forefoot or midfoot, which reduces the impact transient (the initial spike of force at landing) but shifts load to the calf muscles and Achilles tendon. Neither pattern is universally "better" — the optimal gait depends on individual [anatomy](/anatomy), running speed, and training history.
 
 ### Throwing
 
-The overhand throw is one of the fastest movements the human body can produce. A professional baseball pitcher's arm can reach angular velocities exceeding 7,000 degrees per second during the acceleration phase — the fastest recorded human body movement. The shoulder and elbow joints experience enormous stresses: the medial elbow ligament (UCL) sustains forces approaching its failure threshold on virtually every pitch, which is why Tommy John surgery (UCL reconstruction) is so common among professional pitchers.
+The overhand throw is one of the fastest movements the human body can produce. A professional [baseball](/baseball) pitcher's arm can reach angular velocities exceeding 7,000 degrees per second during the acceleration phase — the fastest recorded human body movement. The shoulder and elbow joints experience enormous stresses: the medial elbow ligament (UCL) sustains forces approaching its failure threshold on virtually every pitch, which is why Tommy John [surgery](/surgery) (UCL reconstruction) is so common among professional pitchers.
 
 Biomechanical analysis has shown that pitching velocity depends more on whole-body kinetic chain coordination — legs, hips, trunk, shoulder, elbow, wrist — than on arm strength alone. The leg drive and hip rotation contribute roughly 50% of the ball's velocity. This is why pitchers don't look like bodybuilders and why pitching velocity can be increased more by improving technique than by lifting weights.
 
@@ -109,7 +109,7 @@ Biomechanical analysis has shown that pitching velocity depends more on whole-bo
 
 Aquatic biomechanics deals with a completely different physical environment. Water is roughly 800 times denser than air, so drag dominates everything. The swimmer's primary challenge is minimizing drag while maximizing propulsive force.
 
-Drag in swimming comes from three sources: friction drag (water resistance against the skin and suit), pressure drag (turbulence behind the body), and wave drag (energy lost creating surface waves). Competitive swimmers reduce drag through streamlined body position, high-tech suits that reduce skin friction, and shaving body hair (which can reduce drag by about 2%).
+Drag in [swimming](/swimming) comes from three sources: friction drag (water resistance against the skin and suit), pressure drag (turbulence behind the body), and wave drag (energy lost creating surface waves). Competitive swimmers reduce drag through streamlined body position, high-tech suits that reduce skin friction, and shaving body hair (which can reduce drag by about 2%).
 
 Propulsion comes from the arms and (to a lesser extent) the legs. The hand acts as a paddle, creating a pressure difference that pushes water backward and the swimmer forward. Optimal hand entry angle, pull path, and stroke timing are all subjects of ongoing biomechanical research.
 
@@ -131,7 +131,7 @@ Powered prosthetic arms controlled by electromyography (EMG) — electrical sign
 
 ### Injury Prevention
 
-Biomechanical research has directly informed injury prevention programs. The FIFA 11+ warm-up protocol — a neuromuscular training program developed using biomechanical principles — has been shown to reduce soccer injuries by 30-50% and ACL injuries specifically by 50-70%. The program works by training athletes to maintain proper knee alignment during landing and cutting movements, addressing the biomechanical patterns that put the ACL at risk.
+Biomechanical research has directly informed injury prevention programs. The FIFA 11+ warm-up protocol — a neuromuscular training program developed using biomechanical principles — has been shown to reduce [soccer](/soccer) injuries by 30-50% and ACL injuries specifically by 50-70%. The program works by training athletes to maintain proper knee alignment during landing and cutting movements, addressing the biomechanical patterns that put the ACL at risk.
 
 ## Computational Biomechanics
 
@@ -159,4 +159,4 @@ Machine learning is increasingly used to analyze biomechanical data. [Computer v
 
 Patient-specific modeling — using a person's own imaging data (CT, MRI) to create customized biomechanical simulations — is being used for surgical planning, particularly in orthopedic and spinal surgery. A surgeon can simulate different implant placements and predict outcomes before entering the operating room.
 
-The thread connecting all of this is the same idea that launched the field: biological systems obey the laws of physics, and understanding those laws — quantitatively, precisely — lets us explain, predict, and improve how living things move. Whether you're trying to run a faster marathon, design a better knee implant, or understand how a cheetah reaches 70 mph, you're asking a biomechanics question.
+The thread connecting all of this is the same idea that launched the field: biological systems obey the laws of [physics](/physics), and understanding those laws — quantitatively, precisely — lets us explain, predict, and improve how living things move. Whether you're trying to run a faster marathon, design a better knee implant, or understand how a cheetah reaches 70 mph, you're asking a biomechanics question.

@@ -43,7 +43,7 @@ Here's what makes this field endlessly fascinating: cultures separated by thousa
 
 **Trickster figures** appear in nearly every [mythology](/mythology). Loki (Norse), Anansi (West African), Coyote (Native American), Hermes (Greek), and Sun Wukong (Chinese) are all cunning, rule-breaking characters who disrupt the established order. They're often responsible for bringing important gifts to humanity — fire, language, death — through deception.
 
-**World trees** or cosmic pillars connecting heaven, earth, and the underworld appear in [Norse mythology](/norse-mythology) (Yggdrasil), Mayan cosmology (the ceiba tree), Hindu tradition (the Ashvattha), and Siberian shamanic beliefs.
+**World trees** or cosmic pillars connecting heaven, earth, and the underworld appear in [Norse mythology](/norse-mythology) (Yggdrasil), Mayan [cosmology](/cosmology) (the ceiba tree), Hindu tradition (the Ashvattha), and Siberian shamanic beliefs.
 
 ## Why the Overlap?
 
@@ -53,13 +53,13 @@ Scholars have proposed several explanations, and the truth likely involves all o
 
 **Shared ancestry.** Proto-Indo-European peoples (dating to roughly 4000-3000 BC) spread across Europe and South Asia, carrying their myths with them. This explains striking parallels between Greek, Norse, and Hindu mythologies — they literally descend from the same source. The sky god Zeus, the Norse god Tyr, and the Vedic god Dyaus Pitar all derive from the same Proto-Indo-European deity.
 
-**Diffusion.** Stories travel along trade routes, through conquest, and via migration. The flood narrative in Genesis almost certainly derives from earlier Mesopotamian versions — the Babylonian exile (6th century BC) put Jewish scribes in direct contact with these stories. Cultural borrowing is real and well-documented.
+**Diffusion.** Stories travel along [trade](/trade) routes, through conquest, and via migration. The flood narrative in Genesis almost certainly derives from earlier Mesopotamian versions — the Babylonian exile (6th century BC) put Jewish scribes in direct contact with these stories. Cultural borrowing is real and well-documented.
 
 **Similar environments.** Cultures living near rivers experience floods. Agricultural societies observe seasonal death and renewal. Coastal peoples tell sea-monster stories. Shared physical environments produce shared mythological responses.
 
 ## The Key Thinkers
 
-**James George Frazer** published *The Golden Bough* in 1890, a massive comparative study that traced patterns of magic, religion, and myth across cultures. His work was pioneering but also problematic — he often forced disparate myths into a single evolutionary framework and viewed non-Western cultures through condescending colonial eyes. Still, the book opened the field.
+**James George Frazer** published *The Golden Bough* in 1890, a massive comparative study that traced patterns of magic, [religion](/religion), and myth across cultures. His work was pioneering but also problematic — he often forced disparate myths into a single evolutionary framework and viewed non-Western cultures through condescending colonial eyes. Still, the book opened the field.
 
 **Joseph Campbell** wrote *The Hero with a Thousand Faces* (1949), arguing that hero myths worldwide follow a single pattern — the "monomyth" or hero's journey. Departure, initiation, return. Campbell's work influenced George Lucas (who explicitly credited Campbell as an influence on *Star Wars*), and the hero's journey framework has become standard in [screenwriting](/screenwriting) and [storytelling](/storytelling) courses.
 
@@ -77,6 +77,6 @@ There's also the political dimension. Colonial-era scholars often used comparati
 
 ## Why It Still Matters
 
-In a globally connected world, understanding how different cultures tell their foundational stories is practically useful. [International business](/international-business), diplomacy, and media all benefit from cultural literacy. Knowing that a [Chinese myth](/chinese-mythology) about the Monkey King means something very specific to Chinese audiences — and that it's not just "an Asian version of" some Western equivalent — prevents the kind of tone-deaf cultural blunders that regularly embarrass companies and governments.
+In a globally connected world, understanding how different cultures tell their foundational stories is practically useful. [International business](/international-business), [diplomacy](/diplomacy), and media all benefit from cultural literacy. Knowing that a [Chinese myth](/chinese-mythology) about the Monkey King means something very specific to Chinese audiences — and that it's not just "an Asian version of" some Western equivalent — prevents the kind of tone-deaf cultural blunders that regularly embarrass companies and governments.
 
 More personally, comparative mythology offers a reminder that human beings have been asking the same big questions forever — and answering them in fascinatingly different ways. That's humbling. And it's genuinely beautiful.

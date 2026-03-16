@@ -41,7 +41,7 @@ Paleontology is the scientific study of ancient life on Earth through the examin
 
 ## More Than Just Dinosaur Bones
 
-When most people hear "paleontology," they picture someone brushing dirt off a T. rex skull in the desert. And sure, that happens. But paleontology is far broader — and, frankly, weirder — than popular culture suggests.
+When most people hear "paleontology," they picture someone brushing dirt off a T. rex skull in the desert. And sure, that happens. But paleontology is far broader — and, frankly, weirder — than [popular culture](/popular-culture) suggests.
 
 The field covers every living thing that ever existed and left a trace in the geological record. That includes 3.5-billion-year-old cyanobacteria mats called stromatolites, 300-million-year-old dragonflies with 70-centimeter wingspans, bizarre Cambrian creatures that look like rejected alien designs, and yes, the dinosaurs that dominated land for over 160 million years. For perspective, our genus *Homo* has been around for roughly 2-3 million years. Dinosaurs had us beat by a factor of about 60.
 
@@ -112,7 +112,7 @@ The study of fossil plants. [Paleobotany](/paleobotany) has revealed that land p
 
 ### Paleoecology
 
-Rather than studying individual organisms, paleoecology reconstructs entire ancient ecosystems. What lived together? How did predator-prey relationships work? How did communities change after mass extinctions? This branch draws on data from all other paleontological subdisciplines to paint a picture of complete ancient worlds. [Ecology](/ecology) provides the theoretical framework, while fossils provide the data.
+Rather than studying individual organisms, [paleoecology](/paleoecology) reconstructs entire ancient ecosystems. What lived together? How did predator-prey relationships work? How did communities change after mass extinctions? This branch draws on data from all other paleontological subdisciplines to paint a picture of complete ancient worlds. [Ecology](/ecology) provides the theoretical framework, while fossils provide the data.
 
 ### Taphonomy
 
@@ -134,7 +134,7 @@ What triggered this burst of evolution? Theories include rising oxygen levels, t
 
 For over a century, dinosaurs were depicted as sluggish, cold-blooded reptiles — basically overgrown lizards. Starting in the 1960s, paleontologist John Ostrom challenged this view by studying Deinonychus, a fast, agile predator whose anatomy suggested a very active, warm-blooded metabolism.
 
-Bone histology (studying thin slices of fossil bone under microscopes) revealed that many dinosaurs had fast-growing bone tissue similar to modern mammals and birds, not the slow-growing bone of reptiles. Isotopic analyses of tooth enamel provided further evidence for elevated body temperatures. Today, the consensus is that most dinosaurs were endothermic or at least had metabolic rates significantly higher than modern reptiles.
+Bone [histology](/histology) (studying thin slices of fossil bone under microscopes) revealed that many dinosaurs had fast-growing bone tissue similar to modern mammals and birds, not the slow-growing bone of reptiles. Isotopic analyses of tooth enamel provided further evidence for elevated body temperatures. Today, the consensus is that most dinosaurs were endothermic or at least had metabolic rates significantly higher than modern reptiles.
 
 This discovery fundamentally changed how we understand dinosaur [ecology](/ecology) and [evolutionary biology](/evolutionary-biology) — and helped establish the connection between dinosaurs and their living descendants, birds.
 
@@ -218,7 +218,7 @@ This interdisciplinary nature is part of what makes paleontology so intellectual
 
 Paleontology is in something of a golden age. New technologies — CT scanning, synchrotron imaging, ancient biomolecule analysis, machine learning for automated fossil identification — are extracting information from specimens that earlier generations could never have imagined. Discoveries pour in from China, Argentina, Morocco, and other regions that were previously underexplored.
 
-At the same time, the field faces challenges. Climate change and urban development threaten fossil-bearing formations. Museum collections remain understudied due to lack of funding and staff. And paleontology, like many sciences, is working to become more inclusive and international after a history dominated by Western institutions.
+At the same time, the field faces challenges. [Climate change](/climate-change) and [urban development](/urban-development) threaten fossil-bearing formations. Museum collections remain understudied due to lack of funding and staff. And paleontology, like many sciences, is working to become more inclusive and international after a history dominated by Western institutions.
 
 But the fundamental appeal of paleontology hasn't changed since the first person picked up a fossil and wondered what it was. The idea that rocks contain the remains of creatures that lived millions — even billions — of years ago, and that we can reconstruct their worlds through careful observation and reasoning, remains one of science's most thrilling propositions.
 

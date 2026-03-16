@@ -31,7 +31,7 @@ faq:
 
 # What Is String Theory?
 
-String theory is a theoretical framework in physics that proposes the most fundamental building blocks of the universe aren't point-like particles but rather incredibly tiny, one-dimensional vibrating strings of energy. Different vibration patterns produce different particles — the same way different vibrations on a guitar string produce different musical notes.
+String theory is a theoretical framework in physics that proposes the most fundamental building blocks of the universe aren't point-like particles but rather incredibly tiny, one-dimensional vibrating strings of energy. Different vibration patterns produce different particles — the same way different vibrations on [a guitar](/guitar) string produce different musical notes.
 
 That's the elevator pitch. The full picture is quite a bit stranger.
 
@@ -41,7 +41,7 @@ Modern physics has two extraordinarily successful theories that refuse to work t
 
 But when you try to combine them — specifically, when you try to describe gravity at quantum scales — the math breaks down. You get infinities that can't be removed. This isn't a minor inconvenience. It means our understanding of physics is fundamentally incomplete. We don't know what happens at the center of a black hole or at the very first instant of the Big Bang, because those situations require both theories simultaneously.
 
-String theory's big promise is that it unifies gravity and quantum mechanics in a single consistent framework. Replace point particles with tiny strings, and the problematic infinities disappear.
+String theory's big promise is that it unifies gravity and [quantum mechanics](/quantum-mechanics) in a single consistent framework. Replace point particles with tiny strings, and the problematic infinities disappear.
 
 ## How It Works (Simplified)
 

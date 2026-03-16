@@ -180,13 +180,13 @@ Under crossed polarizers, different minerals produce different interference colo
 
 Chemical analysis of rocks and minerals provides compositional data that complements optical observations. X-ray fluorescence (XRF) measures bulk rock composition. Electron microprobe analysis determines the chemical composition of individual mineral grains. Mass spectrometry analyzes trace element concentrations and isotopic ratios.
 
-Isotopic ratios are particularly powerful. Oxygen isotope ratios in minerals record the temperature at which they formed. Rubidium-strontium and samarium-neodymium isotopic systems reveal the age of rocks and the source of their parent magmas. Carbon isotopes in sedimentary rocks track the cycling of carbon through ancient atmospheres and oceans.
+Isotopic ratios are particularly powerful. Oxygen isotope ratios in minerals record the temperature at which they formed. Rubidium-strontium and samarium-neodymium isotopic systems reveal the age of rocks and the source of their parent magmas. Carbon isotopes in sedimentary rocks track the [cycling](/cycling) of carbon through ancient atmospheres and oceans.
 
 ### Experimental Petrology
 
 Experimental petrologists recreate geological conditions in the laboratory, subjecting samples to extreme temperatures and pressures in high-pressure apparatus and observing what minerals form. These experiments calibrate the relationships between mineral assemblages and formation conditions, providing the thermometers and barometers that field petrologists use to determine the temperature and pressure history of natural rocks.
 
-Some experiments probe conditions found hundreds of kilometers deep in Earth's mantle — pressures exceeding 25 gigapascals (250,000 atmospheres) and temperatures above 2,000 degrees Celsius. These experiments reveal how the minerals that compose Earth's deep interior behave and transform, informing our understanding of mantle convection, plate tectonics, and the planet's thermal evolution.
+Some experiments probe conditions found hundreds of kilometers deep in Earth's mantle — pressures exceeding 25 gigapascals (250,000 atmospheres) and temperatures above 2,000 degrees Celsius. These experiments reveal how the minerals that compose Earth's deep interior behave and transform, informing our understanding of mantle convection, plate [tectonics](/tectonics), and the planet's thermal evolution.
 
 ## Why Petrology Matters
 

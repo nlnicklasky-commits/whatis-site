@@ -87,7 +87,7 @@ Taxidermy raises questions that reasonable people disagree about. Is it respectf
 
 Proponents argue that taxidermy connects people with [nature](/zoology) in a way that photographs and videos can't — seeing a mounted tiger at eye level creates an emotional impact that a screen image doesn't. Museum taxidermy inspires conservation efforts by making people care about species they might never see alive.
 
-Critics argue that trophy hunting and collecting create demand that threatens wild populations, and that displaying dead animals normalizes a problematic relationship with the natural world.
+Critics argue that trophy [hunting](/hunting) and collecting create demand that threatens wild populations, and that displaying dead animals normalizes a problematic relationship with the natural world.
 
 The field itself has evolved. Modern taxidermists emphasize ethical sourcing — using animals that died naturally, were legally harvested, or were obtained from pest control and [wildlife management](/wildlife-management) programs. Many refuse to work with protected species under any circumstances.
 

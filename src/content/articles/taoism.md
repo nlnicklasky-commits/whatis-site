@@ -50,7 +50,7 @@ The tradition traces its origins primarily to two figures: Laozi and Zhuangzi.
 
 **Zhuangzi** (also written Chuang Tzu) lived around the 4th century BCE and left behind a collection of brilliantly witty, paradoxical essays and parables. His famous butterfly dream — where he wakes up unsure whether he's a man who dreamed he was a butterfly, or a butterfly dreaming it's a man — remains one of [philosophy's](/philosophy) most memorable thought experiments.
 
-These two texts — the *Tao Te Ching* and the *Zhuangzi* — form the philosophical bedrock. But Taoism didn't stay purely philosophical. Over centuries it absorbed folk religion, ritual practices, alchemy, martial arts, [traditional Chinese medicine](/traditional-chinese-medicine), and cosmological theories. By the 2nd century CE, organized religious Taoism had emerged with temples, priests, scriptures, and institutional structures.
+These two texts — the *Tao Te Ching* and the *Zhuangzi* — form the philosophical bedrock. But Taoism didn't stay purely philosophical. Over centuries it absorbed folk religion, ritual practices, alchemy, [martial arts](/martial-arts), [traditional Chinese medicine](/traditional-chinese-medicine), and cosmological theories. By the 2nd century CE, organized religious Taoism had emerged with temples, priests, scriptures, and institutional structures.
 
 ## The Tao Itself: What Exactly Is It?
 
@@ -82,7 +82,7 @@ Yin and yang represent complementary opposites that together form a complete who
 
 The key insight is that these opposites don't just coexist — they depend on each other. You can't have light without dark, activity without rest, expansion without contraction. Each contains the seed of the other (those dots in the symbol), and they're constantly flowing into each other. Day becomes night becomes day. Summer gives way to winter gives way to summer.
 
-This has practical implications. If you're always active, always pushing, always "on" — you're living entirely in yang, and burnout is inevitable. The Taoist approach is to recognize and honor both sides. Rest is not the enemy of productivity — it's the source of it. This connects naturally to ideas in [psychology](/psychology) about sustainable performance and recovery.
+This has practical implications. If you're always active, always pushing, always "on" — you're living entirely in yang, and burnout is inevitable. The Taoist approach is to recognize and honor both sides. Rest is not the enemy of [productivity](/productivity) — it's the source of it. This connects naturally to ideas in [psychology](/psychology) about sustainable performance and recovery.
 
 Yin-yang thinking also shapes how Taoists view conflict. Rather than seeing the world as a battle between good and evil, Taoism sees tension between opposites as natural, necessary, and ultimately harmonious. That's a fundamentally different worldview from most Western philosophical traditions.
 
@@ -108,7 +108,7 @@ These three qualities echo across other philosophical traditions — you'll find
 
 ## Taoism's Influence on Chinese Culture
 
-It's hard to overstate how deeply Taoism has shaped Chinese civilization. Along with Confucianism and [Buddhism](/buddhism), it's one of the "three teachings" (sanjiao) that form the foundation of Chinese culture.
+It's hard to overstate how deeply Taoism has shaped Chinese civilization. Along with [Confucianism](/confucianism) and [Buddhism](/buddhism), it's one of the "three teachings" (sanjiao) that form the foundation of Chinese culture.
 
 **Art and aesthetics.** Chinese field painting, poetry, calligraphy, and garden design all reflect Taoist principles — empty space as important as filled space, nature as the primary subject, suggestion rather than statement. The concept of [aesthetics](/aesthetics) in East Asia owes an enormous debt to Taoist sensibilities.
 
@@ -116,9 +116,9 @@ It's hard to overstate how deeply Taoism has shaped Chinese civilization. Along 
 
 **Medicine.** Traditional Chinese medicine — acupuncture, herbal remedies, dietary therapy — is built on Taoist concepts of qi, yin-yang balance, and the five elements (wood, fire, earth, metal, water). These practices are used by hundreds of millions of people worldwide.
 
-**Science and technology.** This one surprises people. Taoist alchemists, searching for the elixir of immortality, accidentally invented gunpowder around the 9th century CE. They also contributed to early chemistry, metallurgy, and pharmacology. The Taoist emphasis on observing nature carefully — rather than imposing preconceived theories — anticipated aspects of the scientific method.
+**Science and technology.** This one surprises people. Taoist alchemists, searching for the elixir of immortality, accidentally invented gunpowder around the 9th century CE. They also contributed to early chemistry, metallurgy, and [pharmacology](/pharmacology). The Taoist emphasis on observing nature carefully — rather than imposing preconceived theories — anticipated aspects of the [scientific method](/scientific-method).
 
-**Government.** Taoist political philosophy influenced Chinese governance for millennia. The idea that rulers should govern minimally, letting natural social order emerge, provided a counterweight to Confucianism's more structured, hierarchical approach.
+**Government.** Taoist [political philosophy](/political-philosophy) influenced Chinese governance for millennia. The idea that rulers should govern minimally, letting natural social order emerge, provided a counterweight to Confucianism's more structured, hierarchical approach.
 
 ## Philosophical vs. Religious Taoism
 
@@ -150,7 +150,7 @@ Taoism's relationship with other philosophical and religious traditions is genui
 
 **Taoism and Buddhism** influenced each other profoundly after Buddhism arrived in China around the 1st century CE. Zen Buddhism (Chan) is essentially a fusion of Buddhist meditation practices with Taoist sensibilities — its emphasis on spontaneity, paradox, direct experience, and nature all show strong Taoist influence.
 
-**Taoism and Western philosophy** — the parallels are striking. Process philosophy, deep ecology, systems thinking, and even some interpretations of quantum physics echo Taoist ideas about interconnection, flow, and the limits of rational analysis. Whether these are genuine connections or superficial resemblances is debated, but the convergences are thought-provoking.
+**Taoism and [Western philosophy](/western-philosophy)** — the parallels are striking. Process philosophy, deep ecology, systems thinking, and even some interpretations of [quantum physics](/quantum-physics) echo Taoist ideas about interconnection, flow, and the limits of rational analysis. Whether these are genuine connections or superficial resemblances is debated, but the convergences are thought-provoking.
 
 ## Taoism in the Modern World
 

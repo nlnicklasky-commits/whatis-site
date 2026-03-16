@@ -37,7 +37,7 @@ faq:
 
 # What Is Calculus?
 
-Calculus is the branch of mathematics that studies continuous change, providing tools to analyze rates of change (derivatives) and accumulated quantities (integrals). Developed independently by Isaac Newton and Gottfried Wilhelm Leibniz in the late 17th century, calculus forms the mathematical foundation for physics, engineering, economics, computer science, and virtually every quantitative field.
+Calculus is the branch of [mathematics](/mathematics) that studies continuous change, providing tools to analyze rates of change (derivatives) and accumulated quantities (integrals). Developed independently by Isaac Newton and Gottfried Wilhelm Leibniz in the late 17th century, calculus forms the mathematical foundation for [physics](/physics), [engineering](/engineering), [economics](/economics), [computer science](/computer-science), and virtually every quantitative field.
 
 ## The Big Idea — Why Calculus Exists
 
@@ -81,7 +81,7 @@ Derivatives answer the question "how fast is this changing?" which turns out to 
 
 **Physics**: Velocity is the derivative of position with respect to time. Acceleration is the derivative of velocity. Force is mass times acceleration. Newton literally invented calculus to describe the laws of motion and gravity. Without derivatives, physics beyond Aristotle's guesswork wouldn't exist.
 
-**Economics**: Marginal cost — the cost of producing one more unit — is the derivative of the total cost function. Marginal revenue, marginal utility, elasticity of demand — these foundational economic concepts are all derivatives.
+**Economics**: Marginal cost — the cost of producing one more unit — is the derivative of the total cost function. Marginal revenue, marginal utility, [elasticity](/elasticity) of demand — these foundational economic concepts are all derivatives.
 
 **Medicine**: How quickly is a drug being absorbed? How fast is a tumor growing? The rate of change of drug concentration in blood over time is a derivative, and it determines dosing schedules that keep patients alive.
 
@@ -103,7 +103,7 @@ Here's a killer application: derivatives find maximum and minimum values. When a
 
 Want to minimize the cost of manufacturing a product? Write the cost function, take its derivative, set it equal to zero, and solve. Want to maximize the area enclosed by a fence of fixed length? Same process. Want to find the angle that maximizes the range of a projectile? Derivative, set to zero, solve.
 
-This optimization technique powers everything from machine learning [algorithms](/algorithms) training neural networks (gradient descent is literally "follow the derivative downhill") to engineers designing the most efficient shapes for bridges and buildings.
+This [optimization](/optimization) technique powers everything from machine learning [algorithms](/algorithms) training [neural networks](/neural-networks) (gradient descent is literally "follow the derivative downhill") to engineers designing the most efficient shapes for bridges and buildings.
 
 ## Integrals — Adding Up Infinity
 
@@ -137,7 +137,7 @@ Newton and Leibniz both recognized this connection independently. It's arguably 
 
 **Physics**: Work is the integral of force over distance. Electric charge is the integral of current over time. The center of mass of an object is computed with integrals. [Acoustics](/acoustics) uses integrals to analyze sound wave energy over time periods.
 
-**Probability and statistics**: The probability of a continuous random variable falling within a range is the integral of its probability density function over that range. Without integration, modern statistics wouldn't exist.
+**Probability and [statistics](/statistics)**: The probability of a continuous random variable falling within a range is the integral of its probability density function over that range. Without integration, modern statistics wouldn't exist.
 
 **Economics**: Consumer surplus, producer surplus, and total revenue over time are all integrals. If you know the rate of sales, integrating gives you total sales.
 
@@ -153,7 +153,7 @@ Multivariable calculus extends derivatives and integrals to functions of multipl
 
 **Multiple integrals** compute accumulated quantities over areas, volumes, and higher-dimensional regions. The mass of a three-dimensional object with varying density requires a triple integral.
 
-**Vector calculus** — divergence, curl, line integrals, surface integrals — describes fluid flow, electromagnetic fields, and gravitational forces. Maxwell's equations, which describe all electromagnetic phenomena, are written in the language of vector calculus.
+**[Vector calculus](/vector-calculus)** — divergence, curl, line integrals, surface integrals — describes fluid flow, electromagnetic fields, and gravitational forces. Maxwell's equations, which describe all electromagnetic phenomena, are written in the language of vector calculus.
 
 ## [Differential Equations](/differential-equations) — Calculus in Action
 
@@ -165,7 +165,7 @@ Radioactive decay: the rate of decay depends on the amount of material remaining
 
 Newton's second law (F = ma) is a differential equation — acceleration (the second derivative of position) equals force divided by mass.
 
-Solving differential equations means finding the function that satisfies the relationship. Some can be solved analytically (you get a formula). Many can't, and must be solved numerically using computers — which is why scientific computing uses so much calculus-based numerical analysis.
+Solving differential equations means finding the function that satisfies the relationship. Some can be solved analytically (you get a formula). Many can't, and must be solved numerically using computers — which is why scientific computing uses so much calculus-based [numerical analysis](/numerical-analysis).
 
 The entire field of [mathematical modeling](/mathematical-modeling) relies on differential equations. Climate models, epidemiological models predicting disease spread, [structural engineering](/structural-engineering) models predicting how buildings respond to earthquakes — all differential equations, all calculus.
 
@@ -181,7 +181,7 @@ Indian mathematicians in the 14th century, particularly those of the Kerala scho
 
 Isaac Newton developed his "method of fluxions" (his term for calculus) in 1665-1666 while Cambridge was closed due to plague. He was 23. He used it to derive the laws of motion and universal gravitation, proving that the same mathematics describing a falling apple also explains planetary orbits.
 
-Gottfried Wilhelm Leibniz developed calculus independently around 1675-1676, publishing first in 1684. His notation — dy/dx for derivatives, the elongated S (∫) for integrals — was more intuitive than Newton's dots, and it's what we use today.
+Gottfried Wilhelm Leibniz developed calculus independently around 1675-1676, [publishing](/publishing) first in 1684. His notation — dy/dx for derivatives, the elongated S (∫) for integrals — was more intuitive than Newton's dots, and it's what we use today.
 
 The priority dispute between Newton and Leibniz was ugly. Accusations of plagiarism flew. The Royal Society investigated (unfairly — Newton was its president). The dispute divided British and Continental mathematics for over a century, to the detriment of both.
 
@@ -215,9 +215,9 @@ Computer algebra systems like Mathematica, Maple, and the free SymPy library can
 
 Several extensions of calculus push into more abstract territory:
 
-**Complex analysis** extends calculus to complex numbers (numbers with real and imaginary parts). It has stunning properties — complex differentiable functions are automatically infinitely differentiable, and integrals around closed curves can be computed using residues rather than direct calculation.
+**[Complex analysis](/complex-analysis)** extends calculus to complex numbers (numbers with real and imaginary parts). It has stunning properties — complex differentiable functions are automatically infinitely differentiable, and integrals around closed curves can be computed using residues rather than direct calculation.
 
-**[Functional analysis](/functional-analysis)** extends calculus to infinite-dimensional spaces — spaces of functions rather than numbers. This is the mathematical foundation of quantum mechanics.
+**[Functional analysis](/functional-analysis)** extends calculus to infinite-dimensional spaces — spaces of functions rather than numbers. This is the mathematical foundation of [quantum mechanics](/quantum-mechanics).
 
 **Stochastic calculus** handles functions with random components. It's the basis of modern financial mathematics — the Black-Scholes equation that prices options is a stochastic differential equation.
 
@@ -227,7 +227,7 @@ Several extensions of calculus push into more abstract territory:
 
 If you're about to start calculus, here's what actually helps:
 
-**Shore up your algebra and trigonometry.** Most calculus failures are actually algebra failures in disguise. If you can't manipulate fractions, factor polynomials, and work with trigonometric identities fluently, calculus will be unnecessarily painful.
+**Shore up your algebra and [trigonometry](/trigonometry).** Most calculus failures are actually algebra failures in disguise. If you can't manipulate fractions, factor polynomials, and work with trigonometric identities fluently, calculus will be unnecessarily painful.
 
 **Focus on understanding, not just computation.** Know why the derivative of x² is 2x, not just that it is. Understand what the integral represents geometrically, not just how to compute it. When you understand the "why," you can reconstruct rules you've forgotten.
 
@@ -237,6 +237,6 @@ If you're about to start calculus, here's what actually helps:
 
 ## Why Calculus Still Matters
 
-Every quantitative revolution — from Newtonian physics to electromagnetism to quantum mechanics to [general relativity](/general-relativity) to modern machine learning — has been written in the language of calculus. It's not a historical curiosity. It's the active, living mathematics that describes how the physical world works and how we optimize the systems we build within it.
+Every quantitative revolution — from Newtonian physics to [electromagnetism](/electromagnetism) to quantum mechanics to [general relativity](/general-relativity) to modern machine learning — has been written in the language of calculus. It's not a historical curiosity. It's the active, living mathematics that describes how the physical world works and how we optimize the systems we build within it.
 
 You might never compute a derivative by hand after school. But the thinking patterns calculus teaches — breaking complex problems into infinitesimal pieces, analyzing rates of change, understanding accumulation — shape how quantitative thinkers approach every problem they encounter. That mental framework might be calculus's most lasting contribution.

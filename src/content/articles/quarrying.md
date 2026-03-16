@@ -86,7 +86,7 @@ Sand and gravel are critical for concrete (sand is the fine aggregate, gravel th
 Some quarries extract specific materials for particular industrial uses:
 
 - **Limestone quarries** for cement production (cement plants are often built adjacent to their quarries)
-- **Slate quarries** for roofing tiles and flooring
+- **Slate quarries** for [roofing](/roofing) tiles and flooring
 - **Clay quarries** for brick and ceramic production
 - **Chalk quarries** for agricultural lime and industrial uses
 - **Gypsum quarries** for plasterboard manufacturing
@@ -205,10 +205,10 @@ Quarries can affect local water tables by intercepting groundwater flow or by di
 
 - Monitoring boreholes around the quarry
 - Settlement ponds to capture sediment before discharge
-- Water recycling systems (most processing water is reused)
+- Water [recycling](/recycling) systems (most processing water is reused)
 - Controlled discharge to local watercourses, meeting regulatory quality standards
 
-Some quarries actually improve local water management by acting as temporary flood water storage.
+Some quarries actually improve local water management by [acting](/acting) as temporary flood water storage.
 
 ### Carbon Footprint
 
@@ -256,12 +256,12 @@ The relationship between quarrying and the communities around it is complicated.
 
 Smart quarry operators engage communities proactively: hosting open days, supporting local projects, providing educational visits for schools, and maintaining transparent communication about operations and plans. The best operators recognize that social license to operate is as important as their legal permits.
 
-And when quarries close, the [rehabilitation](/environmental-engineering) outcome can be genuinely positive. Some of the world's most beautiful swimming holes, climbing areas, and nature reserves are former quarries. The Eden Project in Cornwall, England -- one of the UK's most visited attractions -- was built in a former china clay quarry. Portland's quarries in Dorset have become world-class fossil sites. The transformation from industrial site to community asset is a real and increasingly common outcome.
+And when quarries close, the [rehabilitation](/environmental-engineering) outcome can be genuinely positive. Some of the world's most beautiful [swimming](/swimming) holes, climbing areas, and nature reserves are former quarries. The Eden Project in Cornwall, England -- one of the UK's most visited attractions -- was built in a former china clay quarry. Portland's quarries in Dorset have become world-class fossil sites. The transformation from industrial site to community asset is a real and increasingly common outcome.
 
 ## Key Takeaways
 
 Quarrying is the extraction of stone, sand, gravel, and other non-metallic minerals from open surface excavations. It's the world's largest extractive industry by volume, producing over 40 billion tons of material annually -- the raw materials for virtually all construction and infrastructure.
 
-Modern quarrying is a sophisticated engineering operation involving computerized blast design, GPS-guided extraction, automated processing, and rigorous quality control. It operates under strict environmental regulations covering noise, dust, water, and rehabilitation.
+Modern quarrying is a sophisticated [engineering](/engineering) operation involving computerized blast design, GPS-guided extraction, automated processing, and rigorous quality control. It operates under strict environmental regulations covering noise, dust, water, and rehabilitation.
 
 The industry faces real tensions: growing demand for aggregate (driven by urbanization and infrastructure development) versus increasing environmental awareness and community resistance. The response involves recycling, automation, better environmental management, and more creative rehabilitation. Quarrying isn't going away -- every building and road depends on it -- but how it's done is changing fast.

@@ -34,13 +34,13 @@ faq:
 ---
 
 # What Is Babylonian Mythology?
-Babylonian mythology is the body of myths, religious narratives, and cosmological stories produced by the ancient Babylonian civilization in Mesopotamia (modern-day Iraq), roughly between 1894 BCE and 539 BCE. It includes creation stories, divine genealogies, epic tales of heroic kings, and accounts of floods, underworld journeys, and the origins of human suffering.
+Babylonian [mythology](/mythology) is the body of myths, religious narratives, and cosmological stories produced by the ancient Babylonian civilization in Mesopotamia (modern-day Iraq), roughly between 1894 BCE and 539 BCE. It includes creation stories, divine genealogies, epic tales of heroic kings, and accounts of floods, underworld journeys, and the origins of human suffering.
 
-These aren't just ancient stories. The Epic of Gilgamesh — the oldest surviving major work of literature — was composed over 4,000 years ago, and its central question is one you've probably asked yourself: what do you do with the knowledge that you're going to die? Babylonian mythology tackled the biggest questions humans have ever faced, and it did so with narrative power that still holds up.
+These aren't just ancient stories. The Epic of Gilgamesh — the oldest surviving major work of [literature](/literature) — was composed over 4,000 years ago, and its central question is one you've probably asked yourself: what do you do with the knowledge that you're going to die? Babylonian mythology tackled the biggest questions humans have ever faced, and it did so with narrative power that still holds up.
 
 ## Mesopotamia: Where Mythology Was Written Down
 
-To understand Babylonian mythology, you need to understand where it came from. Mesopotamia — the land between the Tigris and Euphrates rivers — is often called the cradle of civilization, and for good reason. Writing, [urban planning](/urban-planning), codified law, [mathematics](/mathematics), and organized religion all emerged here.
+To understand Babylonian mythology, you need to understand where it came from. Mesopotamia — the land between the Tigris and Euphrates rivers — is often called the cradle of civilization, and for good reason. [Writing](/writing), [urban planning](/urban-planning), codified law, [mathematics](/mathematics), and organized [religion](/religion) all emerged here.
 
 The Sumerians came first, building city-states like Ur, Uruk, and Eridu starting around 3500 BCE. They invented cuneiform writing — pressing wedge-shaped marks into wet clay tablets — initially for [accounting](/accounting) but soon for recording everything from legal contracts to hymns to myths. This is why we actually have Mesopotamian mythology: they wrote it down on material that happened to survive for millennia.
 
@@ -60,7 +60,7 @@ Babylonian religion was polytheistic, with hundreds of deities organized in a hi
 
 **Ea (Enki in Sumerian)** was the god of freshwater, wisdom, and magic. He was the clever one — the trickster, the problem-solver, the god who warned humanity about the coming flood and helped them survive. Ea represented intelligence and creativity, and he's consistently the most likable deity in Mesopotamian literature.
 
-**Marduk** was Babylon's great contribution to the pantheon. Originally a minor deity, Marduk was elevated to supreme god in the Enuma Elish — a creation epic that was probably composed to justify Babylon's political dominance. According to the story, Marduk defeated Tiamat (the primordial ocean goddess of chaos) when all the other gods were too afraid to face her. In exchange, they made him king of everything. Political theology at its most transparent.
+**Marduk** was Babylon's great contribution to the pantheon. Originally a minor deity, Marduk was elevated to supreme god in the Enuma Elish — a creation epic that was probably composed to justify Babylon's political dominance. According to the story, Marduk defeated Tiamat (the primordial ocean goddess of chaos) when all the other gods were too afraid to face her. In exchange, they made him king of everything. Political [theology](/theology) at its most transparent.
 
 **Ishtar (Inanna in Sumerian)** was the goddess of love, sex, war, and political power. She was passionate, dangerous, and complex — capable of great affection and terrible violence. Her descent to the underworld is one of Mesopotamian literature's greatest narratives, exploring themes of death, sacrifice, and the balance between world powers.
 
@@ -80,7 +80,7 @@ Tiamat, enraged by her consort's death, created an army of monsters — serpents
 
 Marduk defeated Tiamat, split her body in two, and used the halves to create heaven and earth. He organized the cosmos, set the stars in their courses, and created humans from the blood of Tiamat's defeated general, Kingu. The purpose of humanity? To do the work the gods didn't want to do — maintaining temples, offering sacrifices, and generally serving as divine laborers.
 
-This creation story is remarkably different from Genesis. There's no creation from nothing — the cosmos is made from the body of a defeated monster. Humanity isn't created in God's image but from the blood of a rebel. The world emerges from violence and divine politics, not from orderly divine will.
+This creation story is remarkably different from Genesis. There's no creation from nothing — the cosmos is made from the body of a defeated monster. Humanity isn't created in God's image but from the blood of a rebel. The world emerges from violence and divine [politics](/politics), not from orderly divine will.
 
 ## The Epic of Gilgamesh
 
@@ -118,8 +118,8 @@ This myth explores the relationship between life and death, the price of power, 
 
 Babylonian mythology influenced virtually every subsequent tradition in the ancient Near East. Biblical scholars have documented extensive parallels between Mesopotamian and Hebrew texts — not as proof that one "copied" the other, but as evidence of shared cultural traditions that both drew from.
 
-Greek mythology, too, shows Mesopotamian influences. The Titans' war against the Olympians parallels the younger gods' conflict with Tiamat. Greek cosmology's emphasis on primordial chaos echoes the Enuma Elish. These ideas traveled along [trade](/trade) routes and through cultural contact over centuries.
+Greek mythology, too, shows Mesopotamian influences. The Titans' war against the Olympians parallels the younger gods' conflict with Tiamat. Greek [cosmology](/cosmology)'s emphasis on primordial chaos echoes the Enuma Elish. These ideas traveled along [trade](/trade) routes and through cultural contact over centuries.
 
 The rediscovery of cuneiform texts in the 19th century — particularly George Smith's 1872 [translation](/translation) of the flood tablet from Gilgamesh — caused a sensation. A flood story older than the Bible, written by a civilization most Europeans had never heard of? It reshaped how scholars understood [biblical studies](/biblical-studies), literary history, and the ancient world.
 
-Babylonian mythology reminds you that the questions you ask — where did we come from, why do we suffer, what happens when we die, how should we live — aren't modern questions. They're human questions, and people have been wrestling with them for as long as they've been writing things down. Probably longer.
+Babylonian mythology reminds you that the questions you ask — where did we come from, why do we suffer, what happens when we die, how should we live — aren't modern questions. They're human questions, and people have been [wrestling](/wrestling) with them for as long as they've been writing things down. Probably longer.

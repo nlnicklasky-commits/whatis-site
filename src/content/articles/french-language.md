@@ -51,11 +51,11 @@ The earliest written evidence of French as a distinct language is the Strasbourg
 
 Old French was wildly diverse. The *langue d'oil* (northern dialects) differed significantly from the *langue d'oc* (southern dialects, also called Occitan). Within the north, Parisian, Norman, Picard, and Burgundian varieties were all distinct. There was no "standard" French — just a collection of related dialects.
 
-This is the era of the great chansons de geste (songs of heroic deeds), including the *Chanson de Roland* (c. 1100), France's oldest surviving major literary work. Old French literature was vibrant, diverse, and hugely influential across medieval Europe.
+This is the era of the great chansons de geste (songs of heroic deeds), including the *Chanson de Roland* (c. 1100), France's oldest surviving major literary work. Old French [literature](/literature) was vibrant, diverse, and hugely influential across medieval Europe.
 
 ### Middle French (14th-17th centuries)
 
-The centralization of political power in Paris gradually elevated the Parisian dialect. The Ordinance of Villers-Cotterets in 1539 — signed by King Francis I — mandated that all official documents be written in French rather than Latin. This was enormous. It didn't kill Latin overnight, but it made French the language of law, administration, and government.
+The centralization of political power in Paris gradually elevated the Parisian dialect. The Ordinance of Villers-Cotterets in 1539 — signed by King Francis I — mandated that all official documents be written in French rather than Latin. This was enormous. It didn't kill Latin overnight, but it made French the language of law, administration, and [government](/government).
 
 During this period, French absorbed thousands of words directly from Latin and Greek — scholarly borrowings that gave the language its enormous vocabulary. French spelling was also formalized, somewhat chaotically, by printers who sometimes added silent letters to make words look more Latin (the "b" in *debte* from Latin *debitum*, the "p" in *temps* from *tempus*).
 
@@ -63,13 +63,13 @@ During this period, French absorbed thousands of words directly from Latin and G
 
 The 17th century is when French became French as we'd recognize it today. Cardinal Richelieu founded the Academie Francaise in 1635 with an explicit mission: fix the language. Standardize it. Purify it. Make rules.
 
-And make rules they did. French grammar, spelling, and usage were codified. The Academie published its first dictionary in 1694. "Correct" French was defined — and it was the French of the educated Parisian elite. Regional dialects were increasingly stigmatized.
+And make rules they did. French [grammar](/grammar), spelling, and usage were codified. The Academie published its first dictionary in 1694. "Correct" French was defined — and it was the French of the educated Parisian elite. Regional dialects were increasingly stigmatized.
 
-This is also when French conquered European diplomacy. The Treaty of Westphalia (1648) was partly written in French. By the 18th century, every European court spoke French. Frederick the Great of Prussia wrote his philosophy in French. Catherine the Great of Russia conducted her correspondence in French. The language of the Enlightenment was French — Voltaire, Rousseau, Montesquieu, and Diderot wrote in it, and the world read them.
+This is also when French conquered European [diplomacy](/diplomacy). The Treaty of Westphalia (1648) was partly written in French. By the 18th century, every European court spoke French. Frederick the Great of Prussia wrote his [philosophy](/philosophy) in French. Catherine the Great of Russia conducted her correspondence in French. The language of the Enlightenment was French — Voltaire, Rousseau, Montesquieu, and Diderot wrote in it, and the world read them.
 
 ### Modern French (19th century-present)
 
-The French Revolution accelerated linguistic unification. The new republic viewed regional languages and dialects as obstacles to national unity. In 1794, the revolutionary government declared that only French could be used in public affairs. Over the next century, mandatory public education — conducted entirely in French — systematically displaced regional languages.
+The French Revolution accelerated linguistic unification. The new republic viewed regional languages and dialects as obstacles to national unity. In 1794, the revolutionary government declared that only French could be used in public affairs. Over the next century, mandatory public [education](/education) — conducted entirely in French — systematically displaced regional languages.
 
 By 1900, French was the undisputed language of diplomacy, high culture, and international communication. But the 20th century brought competition. English rose dramatically after [World War II](/world-war-ii), driven by American economic and cultural power. French lost its status as *the* international language but remained one of the most important.
 
@@ -166,7 +166,7 @@ The U.S. Foreign Service Institute classifies French as a Category I language �
 That said, different aspects of French present different challenges:
 
 - **Reading**: Relatively easy due to shared vocabulary with English
-- **Writing**: Moderate difficulty — spelling rules are complex but consistent
+- **[Writing](/writing)**: Moderate difficulty — spelling rules are complex but consistent
 - **Listening**: Hard — liaison, silent letters, and nasal vowels make spoken French challenging to parse
 - **Speaking**: Moderate to hard — pronunciation requires muscle memory for unfamiliar sounds
 

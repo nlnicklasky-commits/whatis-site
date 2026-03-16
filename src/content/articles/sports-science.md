@@ -37,13 +37,13 @@ faq:
 
 # What Is Sports Science?
 
-Sports science is the application of scientific principles — from [biology](/biology), physics, [psychology](/psychology), and nutrition — to understanding and improving athletic performance, preventing injury, and supporting recovery. It's the reason modern athletes are faster, stronger, and more durable than their predecessors, and it's why a 2024 Olympic gold medalist would demolish the record holders from 50 years ago in almost every measurable event.
+Sports science is the application of scientific principles — from [biology](/biology), [physics](/physics), [psychology](/psychology), and [nutrition](/nutrition) — to understanding and improving athletic performance, preventing injury, and supporting recovery. It's the reason modern athletes are faster, stronger, and more durable than their predecessors, and it's why a 2024 Olympic gold medalist would demolish the record holders from 50 years ago in almost every measurable event.
 
 The field pulls together [exercise physiology](/exercise-physiology), [biomechanics](/biomechanics), [sports psychology](/sports-psychology), sports nutrition, and strength and conditioning into a unified approach to human performance.
 
 ## Exercise Physiology: The Engine Room
 
-At its foundation, sports science is about understanding how the human body produces and sustains physical effort. Exercise physiology provides that understanding.
+At its foundation, sports science is about understanding how the human body produces and sustains physical effort. Exercise [physiology](/physiology) provides that understanding.
 
 ### Energy Systems
 
@@ -51,9 +51,9 @@ Your muscles need adenosine triphosphate (ATP) to contract. Problem is, muscles 
 
 **The phosphocreatine (PCr) system** is the fastest. Creatine phosphate stored in muscles donates a phosphate group to regenerate ATP almost instantaneously. It powers maximum-intensity efforts — a vertical jump, a golf swing, the first few seconds of a sprint. But PCr stores deplete in about 8 to 12 seconds. Then you need another energy source.
 
-**Anaerobic glycolysis** breaks down glucose (from blood sugar or muscle glycogen) without oxygen, producing ATP and lactate as a byproduct. It kicks in during high-intensity efforts lasting roughly 10 seconds to 2 minutes — a 400-meter sprint, a wrestling scramble. The system produces ATP faster than aerobic metabolism but generates lactate that accumulates in muscles and blood, contributing to that burning sensation and eventual fatigue.
+**Anaerobic glycolysis** breaks down glucose (from blood sugar or muscle glycogen) without oxygen, producing ATP and lactate as a byproduct. It kicks in during high-intensity efforts lasting roughly 10 seconds to 2 minutes — a 400-meter sprint, a [wrestling](/wrestling) scramble. The system produces ATP faster than aerobic metabolism but generates lactate that accumulates in muscles and blood, contributing to that burning sensation and eventual fatigue.
 
-**Aerobic metabolism** uses oxygen to break down carbohydrates, fats, and (to a lesser extent) proteins in the mitochondria. It's slower to produce ATP but can sustain effort for hours. [Marathon running](/marathon-running), cycling, and swimming are predominantly aerobic. The system is remarkably efficient — one molecule of glucose yields about 36 ATP through aerobic metabolism versus just 2 through anaerobic glycolysis.
+**Aerobic metabolism** uses oxygen to break down carbohydrates, fats, and (to a lesser extent) proteins in the mitochondria. It's slower to produce ATP but can sustain effort for hours. [Marathon running](/marathon-running), [cycling](/cycling), and [swimming](/swimming) are predominantly aerobic. The system is remarkably efficient — one molecule of glucose yields about 36 ATP through aerobic metabolism versus just 2 through anaerobic glycolysis.
 
 In reality, all three systems operate simultaneously during any activity. The relative contribution of each depends on exercise intensity and duration. A sports scientist designing a training program needs to understand which systems dominate in their athlete's sport and train accordingly.
 
@@ -75,7 +75,7 @@ Not all muscle fibers are created equal. Two broad types exist:
 
 **Type II (fast-twitch)** fibers contract quickly and generate high force but fatigue rapidly. They rely more on anaerobic energy systems. Sprinters and power athletes tend to have more fast-twitch fibers. Usain Bolt's extraordinary speed likely reflects both an exceptionally high proportion of Type IIx fibers and a rare combination of stride length and frequency.
 
-The ratio of Type I to Type II fibers is largely determined by genetics and can't be dramatically altered by training. You can make existing fibers more efficient, bigger, and more fatigue-resistant — but you can't turn a slow-twitch fiber into a fast-twitch one.
+The ratio of Type I to Type II fibers is largely determined by [genetics](/genetics) and can't be dramatically altered by training. You can make existing fibers more efficient, bigger, and more fatigue-resistant — but you can't turn a slow-twitch fiber into a fast-twitch one.
 
 ## Biomechanics: The Physics of Movement
 
@@ -96,7 +96,7 @@ Biomechanical analysis has produced real, measurable improvements:
 - **Sprint starting technique** — optimal block angles, push-off timing, and acceleration posture are now precisely characterized.
 - **Swimming stroke efficiency** — reducing drag and optimizing propulsive force through refined hand entry, body rotation, and kick timing.
 - **Injury prevention** — identifying biomechanical risk factors for ACL tears (such as knee valgus during landing), stress fractures (excessive loading rates), and throwing injuries.
-- **Equipment design** — running shoe cushioning, bicycle frame geometry, and golf club weighting all draw on biomechanical principles.
+- **Equipment design** — running shoe cushioning, bicycle frame [geometry](/geometry), and golf club weighting all draw on biomechanical principles.
 
 ## Sports Nutrition: Fueling Performance
 

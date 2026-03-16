@@ -65,7 +65,7 @@ The oldest form. Players take alternating turns, each having unlimited time (usu
 
 Modern turn-based strategy games include:
 
-**Civilization** (1991-present): Sid Meier's masterwork. You guide a civilization from the Stone Age to the Space Age, managing cities, research, diplomacy, culture, and military. Each turn represents years or decades. A single game can take 8-12 hours. The series has sold over 60 million copies and is probably the most influential strategy game franchise ever made.
+**Civilization** (1991-present): Sid Meier's masterwork. You guide a civilization from the Stone Age to the Space Age, managing cities, research, [diplomacy](/diplomacy), culture, and military. Each turn represents years or decades. A single game can take 8-12 hours. The series has sold over 60 million copies and is probably the most influential strategy game franchise ever made.
 
 **XCOM** (1994-present): Tactical turn-based combat against alien invaders. You manage a squad of soldiers, each with unique abilities, in tense grid-based battles where a single bad decision can get your best soldier killed permanently. The permadeath mechanic — losing a character means they're gone forever — creates real stakes that most games can't match.
 
@@ -87,13 +87,13 @@ The RTS genre peaked commercially in the early 2000s and has declined somewhat s
 
 ### Grand Strategy
 
-Grand strategy games operate at the highest level of abstraction — you control entire nations, empires, or civilizations across decades or centuries. Military combat is just one element alongside diplomacy, economics, politics, religion, and culture.
+Grand strategy games operate at the highest level of abstraction — you control entire nations, empires, or civilizations across decades or centuries. Military combat is just one element alongside diplomacy, [economics](/economics), [politics](/politics), religion, and culture.
 
 **Paradox Interactive** dominates this space with a suite of interconnected grand strategy titles:
 
 - **Europa Universalis IV** (1444-1821): Guide any nation through the early modern period. Colonize continents, manage trade empires, fight religious wars, work through dynastic politics.
 - **Crusader Kings III** (867-1453): Play as a medieval dynasty, not a nation. Your character has personality traits, skills, and relationships that affect gameplay. Succession crises, scheming relatives, and dynastic marriages are as important as military campaigns.
-- **Hearts of Iron IV** (1936-1948): World War II at the strategic level. Manage industrial production, research military technologies, draw battle plans on a detailed map of the world.
+- **Hearts of Iron IV** (1936-1948): [World War II](/world-war-ii) at the strategic level. Manage industrial production, research military technologies, draw battle plans on a detailed map of the world.
 - **Stellaris** (far future): Build a space empire, encounter alien civilizations, manage your economy and military across a galaxy of procedurally generated stars.
 
 These games are notoriously complex. Hearts of Iron IV has a learning curve measured in dozens of hours. But for players who invest that time, the depth of simulation and the emergent stories that arise from complex systems interacting are unmatched.
@@ -142,7 +142,7 @@ Strategy games have become one of the most important testing grounds for [artifi
 
 ### Chess: The Original AI Benchmark
 
-IBM's Deep Blue defeated world chess champion Garry Kasparov in 1997, marking one of AI's most famous milestones. Deep Blue used brute-force search — evaluating 200 million positions per second — combined with handcrafted evaluation functions. It was impressive engineering but not "intelligence" in any meaningful sense.
+IBM's Deep Blue defeated world chess champion Garry Kasparov in 1997, marking one of AI's most famous milestones. Deep Blue used brute-force search — evaluating 200 million positions per second — combined with handcrafted evaluation functions. It was impressive [engineering](/engineering) but not "intelligence" in any meaningful sense.
 
 Google DeepMind's AlphaZero (2017) changed the game. Starting with nothing but the rules of chess, AlphaZero taught itself to play at superhuman level in just four hours through self-play and [reinforcement learning](/reinforcement-learning). It developed unconventional strategies that surprised human grandmasters, including a preference for active piece activity over material advantage.
 
@@ -160,13 +160,13 @@ Strategy games test capabilities that are directly relevant to real-world AI app
 - **Multi-agent coordination**: Managing many entities toward a common goal
 - **Transfer learning**: Adapting strategies learned in one context to new situations
 
-The techniques developed for game AI — Monte Carlo tree search, deep reinforcement learning, multi-agent training — are being applied to logistics, autonomous vehicles, financial trading, and military planning.
+The techniques developed for game AI — Monte Carlo tree search, deep reinforcement learning, multi-agent training — are being applied to [logistics](/logistics), autonomous vehicles, financial trading, and military planning.
 
 ## The Cultural Impact of Strategy Games
 
 Strategy games have influenced culture beyond gaming in several ways.
 
-The **Civilization** series has introduced millions of players to historical concepts, political systems, and the names of world leaders they'd never have encountered otherwise. Research suggests players develop more interest in [history](/histology) and geography after playing historical strategy games, though the games' simplified models of complex processes (like colonialism or religious conversion) have been criticized for distorting understanding.
+The **Civilization** series has introduced millions of players to historical concepts, political systems, and the names of world leaders they'd never have encountered otherwise. Research suggests players develop more interest in [history](/histology) and [geography](/geography) after playing historical strategy games, though the games' simplified models of complex processes (like colonialism or religious conversion) have been criticized for distorting understanding.
 
 **Chess** remains the world's most played strategy game, with an estimated 600 million regular players. The 2020 Netflix series "The Queen's Gambit" triggered a massive surge in chess interest, with Chess.com gaining millions of new accounts.
 
@@ -186,4 +186,4 @@ Several trends are shaping the genre's future.
 
 **Multiplayer asynchronous play** — taking your turn whenever you have time, like a chess-by-mail arrangement — suits strategy games perfectly and makes them ideal for mobile platforms.
 
-Strategy games have been with us since ancient board games like Go (over 2,500 years old) and chess (about 1,500 years old). The technology changes. The appeal of out-thinking an opponent — human or artificial — doesn't.
+Strategy games have been with us since ancient [board games](/board-games) like Go (over 2,500 years old) and chess (about 1,500 years old). The technology changes. The appeal of out-thinking an opponent — human or artificial — doesn't.

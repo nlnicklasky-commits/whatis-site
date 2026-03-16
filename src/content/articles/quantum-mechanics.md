@@ -69,7 +69,7 @@ Two particles can become "entangled" such that measuring one instantly determine
 
 Einstein called this "spooky action at a distance" and believed it proved quantum mechanics was incomplete. Experiments since the 1970s (most decisively by Alain Aspect in 1982 and later refinements earning the 2022 Nobel Prize) have confirmed that entanglement is real. The correlations between entangled particles can't be explained by any local hidden variables — the universe genuinely works this way.
 
-Entanglement doesn't allow faster-than-light communication (you can't control *which* result you get, so you can't encode a message). But it does underpin [quantum computing](/quantum-computing) and [quantum cryptography](/quantum-optics)).
+Entanglement doesn't allow faster-than-light communication (you can't control *which* result you get, so you can't encode a message). But it does underpin [quantum computing](/quantum-computing) and [quantum cryptography](/quantum-[optics](/optics))).
 
 ## The Math
 

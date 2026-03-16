@@ -65,7 +65,7 @@ The key distinction is between weak and strong emergence. **Weak emergence** mea
 
 ### Self-Organization
 
-Complex systems often organize themselves without central coordination. No one designs a snowflake — its elaborate hexagonal structure emerges from the physics of water crystallization. No architect designs a termite mound — millions of termites following simple chemical signals collectively build a structure with sophisticated temperature regulation. No urban planner designed the spontaneous order of a city's informal economy.
+Complex systems often organize themselves without central coordination. No one designs a snowflake — its elaborate hexagonal structure emerges from the [physics](/physics) of water crystallization. No architect designs a termite mound — millions of termites following simple chemical signals collectively build a structure with sophisticated temperature regulation. No urban planner designed the spontaneous order of a city's informal economy.
 
 Ilya Prigogine won the Nobel Prize in [Chemistry](/chemistry) in 1977 for showing that systems far from thermodynamic equilibrium can spontaneously develop ordered structures. This was revolutionary because the second law of [thermodynamics](/thermodynamics) says that disorder (entropy) tends to increase. Prigogine showed that open systems — systems that exchange energy and matter with their environment — can decrease local entropy by increasing entropy elsewhere. Life itself is the ultimate example: organisms maintain extraordinary internal order by exporting entropy (heat, waste) to their surroundings.
 
@@ -95,7 +95,7 @@ Scale-free networks — where a few nodes have many connections while most nodes
 
 ## [Chaos Theory](/chaos-theory): The Precursor
 
-Complexity theory grew partly from chaos theory, which Edward Lorenz accidentally discovered in 1961 while running weather simulations. Lorenz re-entered initial conditions with slightly rounded numbers (0.506 instead of 0.506127) and got completely different weather patterns. This "sensitive dependence on initial conditions" — popularly known as the butterfly effect — means that deterministic systems can be effectively unpredictable because tiny measurement errors amplify exponentially.
+Complexity theory grew partly from chaos theory, which Edward Lorenz accidentally discovered in 1961 while [running](/running) weather simulations. Lorenz re-entered initial conditions with slightly rounded numbers (0.506 instead of 0.506127) and got completely different weather patterns. This "sensitive dependence on initial conditions" — popularly known as the butterfly effect — means that deterministic systems can be effectively unpredictable because tiny measurement errors amplify exponentially.
 
 The Lorenz attractor — a beautiful butterfly-shaped mathematical object — showed that chaotic systems aren't purely random. They're constrained to specific patterns (attractors) even when individual trajectories are unpredictable. You can't predict exactly what the weather will do next Tuesday, but you can predict that it will stay within certain bounds (it won't spontaneously reach 200 degrees Fahrenheit).
 
@@ -147,7 +147,7 @@ The Santa Fe Institute (SFI), founded in 1984 in New Mexico, was the first resea
 
 SFI brought together physicists, biologists, economists, computer scientists, and social scientists to study common patterns across their fields. An economist studying market dynamics and an ecologist studying species interactions were, in a sense, studying the same thing — multi-agent systems with feedback loops producing emergent behavior. By placing these researchers in the same building and forcing conversations, SFI catalyzed the development of complexity as a unified field.
 
-The institute's influence has been enormous. Concepts developed at SFI — fitness landscapes, agent-based modeling, network theory, scaling laws — have spread across virtually every scientific discipline. The Complexity Explorer platform provides free courses on complexity topics to hundreds of thousands of students worldwide.
+The institute's influence has been enormous. Concepts developed at SFI — [fitness](/fitness) landscapes, agent-based modeling, network theory, scaling laws — have spread across virtually every scientific discipline. The Complexity Explorer platform provides free courses on complexity topics to hundreds of thousands of students worldwide.
 
 ## Criticisms and Limitations
 

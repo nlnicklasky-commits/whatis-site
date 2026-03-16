@@ -69,7 +69,7 @@ Embassy grounds are considered inviolable under the Vienna Convention — host c
 
 Treaties are the currency of diplomacy. They range from simple bilateral agreements (two countries agreeing on [fishing](/fishing) rights) to massive multilateral frameworks (the United Nations Charter, signed by 50 nations in 1945).
 
-The treaty-making process typically involves years of [negotiation](/negotiation), drafting, legal review, and domestic ratification. The Paris Climate Agreement took over two decades of diplomatic effort — from the initial UN Framework Convention on Climate Change in 1992 to the final agreement in 2015. The Iran nuclear deal (JCPOA) required 20 months of intensive negotiations among seven parties.
+The treaty-making process typically involves years of [negotiation](/negotiation), drafting, legal review, and domestic ratification. The Paris Climate Agreement took over two decades of diplomatic effort — from the initial UN Framework Convention on [Climate Change](/climate-change) in 1992 to the final agreement in 2015. The Iran nuclear deal (JCPOA) required 20 months of intensive negotiations among seven parties.
 
 Not all diplomatic agreements are formal treaties. Executive agreements, memoranda of understanding, joint communiqués, and verbal assurances all carry diplomatic weight, though they vary in legal bindingness.
 
@@ -117,4 +117,4 @@ Today's diplomacy faces challenges the Congress of Vienna never imagined. Cyber 
 
 The speed of information is another challenge. When a diplomatic incident can trend on social media within minutes, the slow, deliberate pace of traditional diplomacy can feel inadequate. But rushing diplomatic responses to match the news cycle usually makes things worse, not better.
 
-Despite these challenges, diplomacy remains the primary tool for managing international relations. The world has more diplomatic missions, more international treaties, and more multilateral organizations than at any point in history. The practice adapts, as it always has — because the alternative is still terrible.
+Despite these challenges, diplomacy remains the primary tool for managing [international relations](/international-relations). The world has more diplomatic missions, more international treaties, and more multilateral organizations than at any point in history. The practice adapts, as it always has — because the alternative is still terrible.

@@ -41,7 +41,7 @@ Urban development is the process of building, expanding, and improving the physi
 
 The simple answer: because people move to where the opportunities are. In 1950, about 30% of the world's population lived in cities. By 2023, it was 57%. By 2050, the United Nations projects it will reach 68%. That's roughly 2.5 billion more urban residents in a single generation.
 
-This migration isn't random. Cities offer higher wages, more diverse employment, better access to education and healthcare, and social networks that are hard to replicate in rural areas. Economists call these benefits "agglomeration effects" — the idea that concentrating people and businesses in close proximity makes everyone more productive. A programmer in San Francisco has access to more potential employers, collaborators, and mentors than a programmer in rural Nebraska. A restaurant in Manhattan can draw from a customer base of millions. This economic gravity pulls people toward cities, and urban development is the physical response to that pull.
+This migration isn't random. Cities offer higher wages, more diverse employment, better access to [education](/education) and healthcare, and social networks that are hard to replicate in rural areas. Economists call these benefits "agglomeration effects" — the idea that concentrating people and businesses in close proximity makes everyone more productive. A programmer in San Francisco has access to more potential employers, collaborators, and mentors than a programmer in rural Nebraska. A restaurant in Manhattan can draw from a customer base of millions. This economic gravity pulls people toward cities, and urban development is the physical response to that pull.
 
 But growth creates problems. More people need more housing, more water, more [electricity](/electricity), more roads, more schools. When urban development fails to keep up with population growth — a common situation in the developing world — you get informal settlements, overcrowding, inadequate sanitation, and the kind of grinding poverty that urbanization was supposed to escape.
 
@@ -65,7 +65,7 @@ How people move through a city shapes everything about it. Transportation invest
 
 **Public transit** — buses, subways, light rail, commuter rail — moves people more efficiently per unit of road space and energy. A single subway car carries 150-200 passengers in the space that 1-2 cars occupy on a highway. Transit-oriented development (TOD) clusters housing and jobs near stations, reducing driving and creating walkable neighborhoods.
 
-**Active transportation** infrastructure — sidewalks, bike lanes, trails — has received increasing attention and funding. Protected bike lanes, implemented widely in cities like Amsterdam, Copenhagen, and increasingly in North American cities, enable cycling as practical transportation rather than just recreation. Paris has added over 180 km of protected bike lanes since 2015, and cycling trips have roughly tripled.
+**Active transportation** infrastructure — sidewalks, bike lanes, trails — has received increasing attention and funding. Protected bike lanes, implemented widely in cities like Amsterdam, Copenhagen, and increasingly in North American cities, enable [cycling](/cycling) as practical transportation rather than just recreation. Paris has added over 180 km of protected bike lanes since 2015, and cycling trips have roughly tripled.
 
 ### Utilities and Services
 
@@ -85,7 +85,7 @@ A typical [real estate development](/real-estate-development) project follows a 
 4. **Design** — working with architects, engineers, and [urban designers](/urban-design) to create the building plans
 5. **Financing** — securing construction loans and equity investment
 6. **Construction** — typically 1-3 years for a large project
-7. **Lease-up or sales** — finding tenants or buyers
+7. **Lease-up or [sales](/sales)** — finding tenants or buyers
 
 The process is risky. A developer might spend two years and $5 million on land, design, and entitlements before learning that the city won't approve the project. Market conditions can change between project conception and completion — a building that made sense in a booming economy might be unfinanceable by the time it's ready to build.
 
@@ -97,7 +97,7 @@ Urban development requires both public and private investment, and the balance b
 
 **Public agencies** build infrastructure, provide services, set regulations, and sometimes develop land directly (through redevelopment agencies, public housing authorities, or economic development corporations). They can also shape private development through incentives (tax breaks, density bonuses, expedited permitting) and constraints (zoning limits, design standards, affordable housing requirements).
 
-**Public-private partnerships (PPPs)** blend both. A city might contribute land and infrastructure; a private developer builds and operates the project. Hudson Yards in New York City — the largest private real estate development in U.S. history at an estimated $25 billion — was built over an active rail yard using a platform partly funded by the city, with the development itself privately financed.
+**Public-private partnerships (PPPs)** blend both. A city might contribute land and infrastructure; a private developer builds and operates the project. Hudson Yards in New York City — the largest private [real estate](/real-estate) development in U.S. history at an estimated $25 billion — was built over an active rail yard using a platform partly funded by the city, with the development itself privately financed.
 
 ## Urban Redevelopment and Renewal
 
@@ -109,7 +109,7 @@ America's mid-20th-century urban renewal program (authorized by the Housing Act 
 
 The results were devastating for many communities. Between 1949 and 1973, urban renewal demolished roughly 2,500 neighborhoods, displacing an estimated 1 million people — disproportionately low-income and minority residents. Many of the replacement projects failed. The cleared land sometimes sat vacant for years. The social networks and small businesses that had sustained displaced communities were destroyed and never rebuilt.
 
-James Baldwin's assessment — "urban renewal means Negro removal" — captured a harsh reality. The program's legacy of displacement and community destruction continues to shape American cities and the politics of development.
+James Baldwin's assessment — "urban renewal means Negro removal" — captured a harsh reality. The program's legacy of displacement and community destruction continues to shape American cities and the [politics](/politics) of development.
 
 ### Contemporary Redevelopment
 
@@ -131,7 +131,7 @@ The results are often informal settlements — sometimes called slums or favelas
 
 The "smart city" concept — using sensors, data, and digital technology to improve urban management — has attracted enormous investment and attention. Applications include real-time traffic management, predictive maintenance of infrastructure, energy grid [optimization](/optimization), and digital government services.
 
-The reality is more modest than the marketing. Many "smart city" projects have underdelivered, particularly when technology companies drive the agenda rather than responding to actual community needs. Sidewalk Labs' planned smart neighborhood on Toronto's waterfront was cancelled in 2020 after community opposition over data privacy and governance concerns.
+The reality is more modest than the [marketing](/marketing). Many "smart city" projects have underdelivered, particularly when technology companies drive the agenda rather than responding to actual community needs. Sidewalk Labs' planned smart neighborhood on Toronto's waterfront was cancelled in 2020 after community opposition over data privacy and governance concerns.
 
 Where technology works best in urban development is in incremental, practical applications: using data to optimize bus routes, sensors to detect water main leaks, or satellite imagery to monitor land use change. The most effective smart city projects are boring and useful, not flashy and visionary.
 

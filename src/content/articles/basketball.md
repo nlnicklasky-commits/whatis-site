@@ -89,6 +89,6 @@ The NBA itself is now more international — over 25% of NBA players in 2024 wer
 
 ## Why It Works
 
-Basketball succeeds because of its accessibility and excitement. You need one ball, one hoop, and you can play alone (shooting practice), one-on-one, or with any number up to five-on-five. Courts exist in parks, driveways, gyms, and schoolyards worldwide. The [physical demands](/exercise-physiology)) — speed, agility, jumping, hand-eye coordination — develop naturally through play.
+Basketball succeeds because of its accessibility and excitement. You need one ball, one hoop, and you can play alone (shooting practice), one-on-one, or with any number up to five-on-five. Courts exist in parks, driveways, gyms, and schoolyards worldwide. The [physical demands](/exercise-[physiology](/physiology))) — speed, agility, jumping, hand-eye coordination — develop naturally through play.
 
 And the game is inherently dramatic. Lead changes happen constantly. Individual brilliance can take over at any moment. A three-pointer at the buzzer can change everything. The ball goes in, or it doesn't. There's something beautifully binary about that.

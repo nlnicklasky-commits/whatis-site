@@ -63,7 +63,7 @@ There's a famous story about Emperor Hadrian consulting the Sortes Virgilianae i
 
 ### Persian Fal-e Hafez
 
-Perhaps the most beautiful and enduring tradition of book divination is the Persian practice of fal-e Hafez — consulting the collected poems (Divan) of the 14th-century poet Hafez of Shiraz. Hafez's poetry is astonishing in its range: love, mysticism, wine, gardens, spiritual longing, political commentary, and the fundamental absurdity of human existence. Almost any poem can be read on multiple levels — literal, romantic, mystical, political — which makes them perfect for divination.
+Perhaps the most beautiful and enduring tradition of book divination is the Persian practice of fal-e Hafez — consulting the collected poems (Divan) of the 14th-century poet Hafez of Shiraz. Hafez's [poetry](/poetry) is astonishing in its range: love, mysticism, wine, gardens, spiritual longing, political commentary, and the fundamental absurdity of human existence. Almost any poem can be read on multiple levels — literal, romantic, mystical, political — which makes them perfect for divination.
 
 Fal-e Hafez is practiced across the Persian-speaking world to this day. It's especially common during Nowruz (Persian New Year) and Yalda Night (winter solstice). Families gather, each person concentrates on a question, and someone opens the Divan at random. The poem is read aloud, discussed, and interpreted collectively. It's part divination, part [literary criticism](/literary-criticism), part family bonding — and it keeps Hafez's poetry alive in daily culture six centuries after his death.
 
@@ -103,7 +103,7 @@ In this sense, stichomancy works not because the book knows something you don't,
 
 ## Stichomancy in Literature and Culture
 
-Book divination shows up surprisingly often in literature — sometimes as a plot device, sometimes as a metaphor, sometimes as a character's genuine practice.
+Book divination shows up surprisingly often in [literature](/literature) — sometimes as a plot device, sometimes as a metaphor, sometimes as a character's genuine practice.
 
 Robert Browning wrote about the Sortes Virgilianae in his 1855 poem "Bishop Blougram's Apology." Rabelais described the practice in *Gargantua and Pantagruel*. Charles Dickens reportedly practiced it. And Philip K. Dick's novel *The Man in the High Castle* features characters consulting the *I Ching* to make decisions — a practice Dick himself reportedly used while [writing](/writing) the book.
 

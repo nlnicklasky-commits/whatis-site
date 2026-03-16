@@ -35,7 +35,7 @@ faq:
 
 # What Is Functional Programming?
 
-Functional programming (FP) is a programming model that constructs software by composing pure functions, avoiding shared mutable state and side effects. Rooted in lambda calculus — a formal system developed by mathematician Alonzo Church in the 1930s — functional programming treats computation as the evaluation of mathematical functions rather than a sequence of imperative commands that change program state.
+Functional programming (FP) is a programming model that constructs software by composing pure functions, avoiding shared mutable state and side effects. Rooted in lambda [calculus](/calculus) — a formal system developed by mathematician Alonzo Church in the 1930s — functional programming treats computation as the evaluation of mathematical functions rather than a sequence of imperative commands that change program state.
 
 ## The Core Idea in Plain English
 
@@ -77,7 +77,7 @@ The benefits of immutability:
 
 **No aliasing bugs.** In mutable programs, two parts of the code might hold references to the same object. Change it through one reference, and the other sees unexpected changes. This is a huge source of bugs. With immutability, sharing references is perfectly safe because nobody can change the shared data.
 
-**Time travel and undo.** Since old versions of data still exist, you can trivially implement undo functionality, debugging history, or audit logs. Redux (the state management library for React) is built on this principle — every state change creates a new state, and you can literally replay the history of every change.
+**Time travel and undo.** Since old versions of data still exist, you can trivially implement undo functionality, debugging history, or audit logs. Redux (the state [management](/management) library for React) is built on this principle — every state change creates a new state, and you can literally replay the history of every change.
 
 **Thread safety for free.** If data never changes, multiple threads can read it simultaneously without any coordination overhead. No locks. No deadlocks. No race conditions. This is why functional programming is so attractive for concurrent and parallel applications.
 
@@ -91,9 +91,9 @@ A higher-order function is one that takes a function as an argument or returns a
 - `filter(predicate, list)` keeps only elements where the predicate function returns true
 - `reduce(f, initial, list)` combines all elements into a single value using function f
 
-These replace explicit loops. Instead of writing "create empty result list, for each element, if condition is true, add to result list, return result list" — you write `filter(condition, list)`. The intent is clearer, there are fewer places for bugs, and the implementation can be optimized by the language runtime.
+These replace explicit loops. Instead of [writing](/writing) "create empty result list, for each element, if condition is true, add to result list, return result list" — you write `filter(condition, list)`. The intent is clearer, there are fewer places for bugs, and the implementation can be optimized by the language runtime.
 
-This isn't just syntax sugar. Higher-order functions enable powerful abstraction patterns. You can write a generic retry function that takes *any* operation and retries it with exponential backoff. You can write a caching wrapper that memoizes *any* pure function. You can compose small, focused functions into complex pipelines without any of them knowing about each other.
+This isn't just [syntax](/syntax) sugar. Higher-order functions enable powerful abstraction patterns. You can write a generic retry function that takes *any* operation and retries it with exponential backoff. You can write a caching wrapper that memoizes *any* pure function. You can compose small, focused functions into complex pipelines without any of them knowing about each other.
 
 ### Function Composition
 
@@ -119,7 +119,7 @@ Haskell isn't widely used in industry (though companies like Meta, Standard Char
 
 Rich Hickey created Clojure in 2007, bringing functional programming to the Java Virtual Machine. It's a Lisp dialect — parentheses everywhere — with immutable [data structures](/data-structures) built in and excellent concurrency primitives.
 
-Clojure's pragmatism distinguishes it from Haskell. It doesn't enforce purity — you can mutate state when you need to, through controlled mechanisms (atoms, refs, agents). It provides immutable data structures as the default, not the only option. And because it runs on the JVM, you can use any Java library, making it practical for enterprise environments.
+Clojure's [pragmatism](/pragmatism) distinguishes it from Haskell. It doesn't enforce purity — you can mutate state when you need to, through controlled mechanisms (atoms, refs, agents). It provides immutable data structures as the default, not the only option. And because it runs on the JVM, you can use any Java library, making it practical for enterprise environments.
 
 ### Elixir and Erlang: Built for Concurrency
 

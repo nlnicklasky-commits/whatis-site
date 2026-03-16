@@ -37,17 +37,17 @@ faq:
 
 # What Is Property [Management](/management)?
 
-Property management is the operation, oversight, and administration of [real estate](/real-estate) on behalf of the property owner. It covers everything from finding and screening tenants to collecting rent, handling maintenance, managing finances, and ensuring legal compliance — essentially running a rental property as a business so the owner doesn't have to handle every detail personally.
+Property management is the operation, oversight, and administration of [real estate](/real-estate) on behalf of the property owner. It covers everything from finding and screening tenants to collecting rent, handling maintenance, managing finances, and ensuring legal compliance — essentially [running](/running) a rental property as a business so the owner doesn't have to handle every detail personally.
 
 ## What Property Managers Actually Do All Day
 
-The job description sounds simple: manage properties. The reality is a nonstop juggling act that combines customer service, [accounting](/accounting), legal knowledge, [construction](/construction) oversight, and [conflict resolution](/conflict-resolution) — often all before lunch.
+The job description sounds simple: manage properties. The reality is a nonstop [juggling](/juggling) act that combines customer service, [accounting](/accounting), legal knowledge, [construction](/construction) oversight, and [conflict resolution](/conflict-resolution) — often all before lunch.
 
 ### Tenant Acquisition and Screening
 
 Empty units don't generate revenue. Getting them filled quickly with reliable tenants is the first priority.
 
-**Marketing** starts with listing vacant units on rental platforms (Zillow, Apartments.com, Facebook Marketplace), taking quality photos, writing accurate descriptions, and setting competitive pricing. A good property manager knows the local market deeply — what similar units rent for, which amenities command premium pricing, and when seasonal demand shifts.
+**[Marketing](/marketing)** starts with listing vacant units on rental platforms (Zillow, Apartments.com, Facebook Marketplace), taking quality photos, [writing](/writing) accurate descriptions, and setting competitive pricing. A good property manager knows the local market deeply — what similar units rent for, which amenities command premium pricing, and when seasonal demand shifts.
 
 **Showing properties** requires [scheduling](/scheduling) around prospective tenants' availability, highlighting unit features, and answering questions honestly. In competitive markets, popular units might get 20-30 inquiries within hours of listing. Managing that volume while maintaining quality interactions is a skill.
 
@@ -59,7 +59,7 @@ Empty units don't generate revenue. Getting them filled quickly with reliable te
 - Rental history from previous landlords
 - Eviction records
 
-The screening process must comply with Fair Housing laws — federal, state, and local regulations that prohibit discrimination based on race, color, religion, national origin, sex, familial status, and disability. Some jurisdictions have additional protections (source of income, sexual orientation, immigration status). Violating Fair Housing laws exposes both the manager and the owner to significant legal liability.
+The screening process must comply with Fair Housing laws — federal, state, and local regulations that prohibit discrimination based on race, color, [religion](/religion), national origin, sex, familial status, and disability. Some jurisdictions have additional protections (source of income, sexual orientation, immigration status). Violating Fair Housing laws exposes both the manager and the owner to significant legal liability.
 
 ### Lease Management
 
@@ -99,7 +99,7 @@ Property management exists within a dense web of regulations, and non-compliance
 
 **Fair Housing Act compliance** prohibits discriminatory practices in marketing, screening, and tenant interactions. Property managers must apply screening criteria consistently, make reasonable accommodations for tenants with disabilities, and avoid any language or behavior that could suggest discrimination.
 
-**Local building codes and housing standards** set minimum requirements for habitability — working plumbing, heating, electrical systems, structural integrity, and pest control. A property that doesn't meet these standards can face fines, and tenants in some jurisdictions can withhold rent or break their lease.
+**Local building codes and housing standards** set minimum requirements for habitability — working [plumbing](/plumbing), heating, electrical systems, structural integrity, and pest control. A property that doesn't meet these standards can face fines, and tenants in some jurisdictions can withhold rent or break their lease.
 
 **Security deposit laws** regulate how much can be collected, how it must be stored (many states require separate accounts), what deductions are permitted, and how quickly it must be returned (typically 14-30 days after move-out). Mishandling security deposits is one of the most common sources of legal disputes.
 
@@ -129,7 +129,7 @@ Typical management fees: 4-8% of gross rent.
 
 Managing the common areas and shared resources of homeowner associations and condominium associations. This includes maintaining shared spaces (pools, lobbies, parking areas), enforcing association rules, managing association finances, and coordinating board meetings.
 
-HOA management is politically charged. You're dealing with boards of volunteer homeowners who often disagree with each other and with resident complaints about enforcement. It requires diplomacy and thick skin.
+HOA management is politically charged. You're dealing with boards of volunteer homeowners who often disagree with each other and with resident complaints about enforcement. It requires [diplomacy](/diplomacy) and thick skin.
 
 ### Short-Term Rental Management
 

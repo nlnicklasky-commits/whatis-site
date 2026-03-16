@@ -81,7 +81,7 @@ Line charts show how values change over a continuous variable, typically time. T
 
 Scatter plots show the relationship between two numerical variables. Each data point is positioned according to its values on both axes, revealing correlations, clusters, and outliers.
 
-**Use when**: Exploring relationships between variables. Height vs. weight. Ad spend vs. sales. Experience vs. salary.
+**Use when**: Exploring relationships between variables. Height vs. weight. Ad spend vs. [sales](/sales). Experience vs. salary.
 
 **Variants**: Bubble charts add a third variable through bubble size. Color can encode a fourth variable (categorical) for rich multivariate views.
 
@@ -159,7 +159,7 @@ Never use rainbow color maps for sequential data. The rainbow spectrum has no na
 
 A chart without context is just a shape. Labels, titles, axis descriptions, and annotations transform shapes into understanding.
 
-Directly labeling data points often works better than legends. A legend forces the eye to bounce between the chart and the legend, matching colors to labels. Direct labels put the information right where the reader needs it.
+Directly labeling data points often works better than [legends](/legends). A legend forces the eye to bounce between the chart and the legend, matching colors to labels. Direct labels put the information right where the reader needs it.
 
 Annotations calling out specific data points ("recession begins here" or "new product launch") turn a chart from passive display into active [storytelling](/storytelling).
 

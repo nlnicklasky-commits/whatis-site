@@ -153,4 +153,4 @@ Several trends are shaping the field. Target-controlled infusion systems use com
 
 [Artificial intelligence](/artificial-intelligence) is entering the field, with systems that can help predict which patients are at risk for complications and algorithms that assist with ventilator management. But the core of anesthesiology — making real-time decisions about complex, rapidly changing clinical situations — remains fundamentally human work. No algorithm can replace the judgment needed when a patient's blood pressure drops suddenly and you have seconds to figure out why.
 
-The specialty sits at the intersection of medicine, pharmacology, physiology, and technology. And every time someone goes into surgery and wakes up afterward with no memory of the procedure and no pain — which happens millions of times a year — an anesthesiologist made that possible.
+The specialty sits at the intersection of medicine, pharmacology, [physiology](/physiology), and technology. And every time someone goes into surgery and wakes up afterward with no memory of the procedure and no pain — which happens millions of times a year — an anesthesiologist made that possible.

@@ -43,7 +43,7 @@ Here's a number that should make you uncomfortable: freshwater species populatio
 
 The reason they matter is straightforward. Every terrestrial ecosystem depends on freshwater. Every human civilization was founded near freshwater. Your body is about 60% water. The food you eat requires enormous quantities of freshwater to produce (roughly 1,800 gallons per pound of beef, about 100 gallons per pound of wheat). And the [biology](/biology) of freshwater systems determines whether that water is clean, available, and capable of sustaining the species that depend on it — including you.
 
-Freshwater biology isn't just academic. It's the science behind clean drinking water, fisheries [management](/management), flood control, ecosystem restoration, and understanding how climate change will reshape the water resources that human civilization requires.
+Freshwater biology isn't just academic. It's the science behind clean drinking water, fisheries [management](/management), flood control, ecosystem restoration, and understanding how [climate change](/climate-change) will reshape the water resources that human civilization requires.
 
 ## The Major Freshwater Ecosystems
 
@@ -63,7 +63,7 @@ This gradient creates distinct biological communities at each stage. Headwater s
 
 The most important feature of lakes is thermal stratification. During summer, the sun warms the surface layer (the epilimnion), while deeper water (the hypolimnion) stays cold. Between them sits the thermocline — a narrow zone where temperature drops rapidly. This stratification matters biologically because it controls mixing. Oxygen produced by surface algae doesn't reach the bottom. Nutrients released from bottom sediments don't reach the surface. The lake is effectively split into two separate worlds.
 
-In temperate regions, lakes "turn over" in spring and fall when surface temperatures match deeper water, allowing full mixing. These turnover events redistribute oxygen and nutrients throughout the water column and are among the most biologically significant events in lake ecology.
+In temperate regions, lakes "turn over" in spring and fall when surface temperatures match deeper water, allowing full mixing. These turnover events redistribute oxygen and nutrients throughout the water column and are among the most biologically significant events in lake [ecology](/ecology).
 
 Lake [productivity](/productivity) falls on a spectrum:
 
@@ -99,13 +99,13 @@ Phytoplankton (microscopic algae) are the primary producers in many lakes, conve
 
 These are the workhorses of freshwater ecology — insects, crustaceans, mollusks, and worms large enough to see without a microscope. Mayflies, stoneflies, caddisflies, dragonflies, freshwater shrimp, crayfish, mussels, and snails are the most common groups.
 
-Macroinvertebrates are the most widely used biological indicators of water quality. Different species have different pollution tolerances. Stonefly nymphs require cold, clean, oxygen-rich water — their presence signals healthy conditions. Tubificid worms and chironomid larvae (bloodworms) tolerate severe pollution. By surveying which species are present, biologists can assess water quality without any chemical testing.
+Macroinvertebrates are the most widely used biological indicators of water quality. Different species have different pollution tolerances. Stonefly nymphs require cold, clean, oxygen-rich water — their presence signals healthy conditions. Tubificid worms and chironomid larvae (bloodworms) tolerate severe pollution. By [surveying](/surveying) which species are present, biologists can assess water quality without any chemical testing.
 
 Freshwater mussels deserve special mention. North America has — or had — over 300 species of freshwater mussels, the highest diversity anywhere on Earth. They filter enormous quantities of water (a single mussel can filter 10-15 gallons per day), removing particles, bacteria, and algae. But mussels are also the most endangered group of animals in North America. About 70% of species are threatened, and 35 have gone extinct since 1900. Dams, pollution, sedimentation, and invasive zebra mussels have devastated native mussel populations.
 
 ### Fish
 
-Freshwater fish are the most species-rich group of vertebrates, with over 18,000 described species — more than all mammals, birds, and reptiles combined. They've adapted to nearly every freshwater environment, from thermal hot springs to subzero Antarctic streams.
+Freshwater fish are the most species-rich group of vertebrates, with over 18,000 described species — more than all mammals, birds, and reptiles combined. They've adapted to nearly every freshwater environment, from thermal hot [springs](/springs) to subzero Antarctic streams.
 
 Fish occupy every trophic level. Herbivorous fish graze algae. Insectivorous fish feed on macroinvertebrates. Piscivorous fish eat other fish. Omnivorous fish eat whatever's available. Some species are detritivores, feeding on decomposing organic matter. This diversity of feeding strategies means fish communities reflect overall ecosystem health.
 
@@ -182,7 +182,7 @@ Freshwater biologists work in universities, [government](/government) agencies (
 
 Typical work includes biological surveys, water quality monitoring, environmental impact assessments, species conservation, habitat restoration design, and policy development. The field has grown as water quality and freshwater biodiversity have become major environmental priorities.
 
-A background in [biology](/biology), ecology, chemistry, and statistics is standard preparation. Fieldwork skills — wading in streams, operating boats, identifying organisms — are equally important. Many freshwater biologists describe their work as the best possible combination of outdoor adventure and rigorous science.
+A background in [biology](/biology), ecology, [chemistry](/chemistry), and [statistics](/statistics) is standard preparation. Fieldwork skills — wading in streams, operating boats, identifying organisms — are equally important. Many freshwater biologists describe their work as the best possible combination of outdoor adventure and rigorous science.
 
 ## Key Takeaways
 

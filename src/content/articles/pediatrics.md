@@ -57,7 +57,7 @@ This is the bread and butter of pediatrics — regular check-ups that track a ch
 
 At each visit, the pediatrician measures height, weight, and head circumference (in infants), plots them on growth charts, and checks that the child is tracking along a healthy curve. Growth charts aren't about hitting a specific number — they're about consistency. A child who's always been at the 25th percentile for height is doing fine. A child who drops from the 75th to the 25th percentile in six months needs investigation.
 
-Developmental screening is equally important. Pediatricians track milestones: sitting, crawling, walking, first words, two-word phrases, social interaction, fine motor skills. Validated screening tools like the ASQ (Ages and Stages Questionnaire) and the M-CHAT (Modified Checklist for Autism in Toddlers) help identify delays early, when intervention is most effective.
+Developmental screening is equally important. Pediatricians track milestones: sitting, crawling, [walking](/walking), first words, two-word phrases, social interaction, fine motor skills. Validated screening tools like the ASQ (Ages and Stages Questionnaire) and the M-CHAT (Modified Checklist for Autism in Toddlers) help identify delays early, when intervention is most effective.
 
 Immunizations follow a carefully designed schedule. The CDC-recommended childhood vaccination schedule includes protection against 16 diseases by age 18, from hepatitis B (given within 24 hours of birth) to HPV and meningococcal disease (recommended for adolescents). The schedule is the product of decades of research and ongoing review — it's one of the most evidence-based protocols in all of medicine.
 
@@ -79,11 +79,11 @@ General pediatrics is just the starting point. Pediatric subspecialties mirror a
 
 **Neonatology** cares for newborns, especially premature and critically ill infants in the NICU (Neonatal Intensive Care Unit). Babies born at 24 weeks' gestation — weighing barely over a pound — now have survival rates above 60%, thanks largely to advances in neonatal medicine.
 
-**Pediatric cardiology** diagnoses and treats heart conditions in children. Congenital heart defects are the most common birth defects in the United States, affecting roughly 1 in 100 babies. Many are now correctable with surgery or catheter-based procedures.
+**Pediatric cardiology** diagnoses and treats heart conditions in children. Congenital heart defects are the most common birth defects in the United States, affecting roughly 1 in 100 babies. Many are now correctable with [surgery](/surgery) or catheter-based procedures.
 
-**Pediatric oncology** treats childhood cancers. The good news: childhood cancer survival rates have improved dramatically. The five-year survival rate for childhood cancers overall is now about 84%, up from less than 60% in the 1970s. Leukemia, the most common childhood cancer, has a five-year survival rate above 90%.
+**Pediatric [oncology](/oncology)** treats childhood cancers. The good news: childhood cancer survival rates have improved dramatically. The five-year survival rate for childhood cancers overall is now about 84%, up from less than 60% in the 1970s. Leukemia, the most common childhood cancer, has a five-year survival rate above 90%.
 
-**Pediatric neurology** handles seizure disorders, developmental delays, headaches, nerve and muscle disorders, and brain conditions in children.
+**Pediatric [neurology](/neurology)** handles seizure disorders, developmental delays, headaches, nerve and muscle disorders, and brain conditions in children.
 
 **Pediatric [endocrinology](/endocrinology)** manages hormonal conditions — diabetes, growth disorders, thyroid problems, and early or delayed puberty.
 
@@ -95,7 +95,7 @@ There are at least 20 recognized pediatric subspecialties in total. Each require
 
 Some [statistics](/statistics) about children's health put the field in perspective.
 
-Global child mortality has fallen dramatically: in 1990, about 12.6 million children under 5 died annually. By 2022, that number had dropped to roughly 4.9 million — still too many, but a 61% reduction that represents one of the greatest [public health](/public-health) achievements in human history. Better nutrition, clean water, immunization programs, and improved access to basic pediatric care drove most of that improvement.
+Global child mortality has fallen dramatically: in 1990, about 12.6 million children under 5 died annually. By 2022, that number had dropped to roughly 4.9 million — still too many, but a 61% reduction that represents one of the greatest [public health](/public-health) achievements in human history. Better [nutrition](/nutrition), clean water, immunization programs, and improved access to basic pediatric care drove most of that improvement.
 
 In the United States, the picture is more complicated. While infant mortality has declined overall, it remains stubbornly higher than in most other high-income nations — about 5.4 per 1,000 live births compared to 2 to 3 per 1,000 in countries like Japan, Finland, and Sweden. Racial disparities are glaring: the infant mortality rate for Black infants in the U.S. is more than double that for white infants.
 
@@ -113,7 +113,7 @@ The field faces a paradox, though. Pediatrics is consistently one of the lowest-
 
 ## The Challenges Ahead
 
-Childhood obesity affects roughly 20% of American children and adolescents. It's linked to type 2 diabetes (once called "adult-onset" diabetes, now appearing in 10-year-olds), early cardiovascular disease, joint problems, and mental health struggles. Addressing it requires not just medical intervention but changes in nutrition, physical activity, marketing practices, and food policy — far beyond what any single pediatrician can tackle in a 15-minute visit.
+Childhood obesity affects roughly 20% of American children and adolescents. It's linked to type 2 diabetes (once called "adult-onset" diabetes, now appearing in 10-year-olds), early cardiovascular disease, joint problems, and mental health struggles. Addressing it requires not just medical intervention but changes in nutrition, physical activity, [marketing](/marketing) practices, and food policy — far beyond what any single pediatrician can tackle in a 15-minute visit.
 
 Access to care remains uneven. Rural areas face pediatric shortages. Some pediatric subspecialties are concentrated in major academic medical centers, forcing families in less populated areas to travel hundreds of miles for specialist care. Telehealth has helped close some of these gaps but can't replace hands-on examination for many conditions.
 

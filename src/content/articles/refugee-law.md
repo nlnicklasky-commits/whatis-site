@@ -137,7 +137,7 @@ And here's the part that often gets lost in Western political [debate](/debate):
 
 ### Climate Displacement
 
-The 1951 Convention doesn't cover people displaced by climate change — rising seas, drought, extreme weather. The World Bank estimates that by 2050, climate change could force 216 million people to move within their own countries. Cross-border climate displacement will add to that number. Legal frameworks for protecting climate migrants barely exist.
+The 1951 Convention doesn't cover people displaced by [climate change](/climate-change) — rising seas, drought, extreme weather. The World Bank estimates that by 2050, climate change could force 216 million people to move within their own countries. Cross-border climate displacement will add to that number. Legal frameworks for protecting climate migrants barely exist.
 
 ### Mixed Migration
 

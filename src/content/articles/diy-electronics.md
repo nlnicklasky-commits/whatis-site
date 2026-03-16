@@ -37,7 +37,7 @@ faq:
 
 # What Is DIY Electronics?
 
-DIY electronics is the practice of designing, building, and modifying electronic circuits and devices on your own, typically using affordable components, open-source platforms, and accessible tools like soldering irons and breadboards. It spans everything from blinking an LED for the first time to building custom synthesizers, home automation systems, and even satellites.
+DIY [electronics](/electronics) is the practice of designing, building, and modifying electronic circuits and devices on your own, typically using affordable components, open-source platforms, and accessible tools like [soldering](/soldering) irons and breadboards. It spans everything from blinking an LED for the first time to building custom synthesizers, home automation systems, and even satellites.
 
 ## Why People Are Building Their Own Electronics
 
@@ -130,7 +130,7 @@ DC motors don't draw much power, but they draw more than a microcontroller pin c
 
 ### Project 4: Wireless Sensor Network
 
-Deploy multiple ESP32 boards with sensors around your home. One reads soil moisture in your garden. Another monitors garage temperature. A third detects motion near your door. They all report data over WiFi to a central server (a Raspberry Pi running Node-RED or Home Assistant). Now you're doing real IoT engineering—the same principles behind commercial smart home systems.
+Deploy multiple ESP32 boards with sensors around your home. One reads soil moisture in your garden. Another monitors garage temperature. A third detects motion near your door. They all report data over WiFi to a central server (a Raspberry Pi [running](/running) Node-RED or Home Assistant). Now you're doing real IoT [engineering](/engineering)—the same principles behind commercial smart home systems.
 
 ## PCB Design: Going Beyond the Breadboard
 
@@ -138,7 +138,7 @@ At some point, breadboards aren't enough. Your project needs to be permanent, co
 
 ### The Design Process
 
-Modern PCB design uses software like KiCad (free, open-source) or EasyEDA (free, web-based). You create a schematic first—placing components and drawing connections between them. Then you convert that schematic into a physical layout, positioning components and routing copper traces between them.
+Modern PCB design uses software like KiCad (free, open-source) or EasyEDA (free, web-based). You create a schematic first—placing components and [drawing](/drawing) connections between them. Then you convert that schematic into a physical layout, positioning components and routing copper traces between them.
 
 This is where [circuit design](/circuit-design) gets genuinely addictive. There's a puzzle-like satisfaction in routing traces efficiently, minimizing board size, and getting everything to fit.
 
@@ -146,7 +146,7 @@ This is where [circuit design](/circuit-design) gets genuinely addictive. There'
 
 Here's the wild part: you can get professional-quality PCBs manufactured for under $5 for five boards. Services like JLCPCB and PCBWay accept your design files, fabricate the boards in 2-5 days, and ship them internationally. Ten years ago, a custom PCB run cost hundreds of dollars minimum.
 
-Some manufacturers also offer PCB assembly—they'll solder surface-mount components onto your boards using pick-and-place machines. A fully assembled custom circuit board, manufactured to professional standards, for $20-50. The economics of small-scale hardware production have completely changed.
+Some manufacturers also offer PCB assembly—they'll solder surface-mount components onto your boards using pick-and-place machines. A fully assembled custom circuit board, manufactured to professional standards, for $20-50. The [economics](/economics) of small-scale hardware production have completely changed.
 
 ### Surface Mount vs. Through-Hole
 
@@ -162,7 +162,7 @@ Modern DIY electronics is as much about code as hardware. Here's what you need t
 
 The Arduino ecosystem simplified embedded programming enormously. Instead of dealing with register-level programming and toolchain configuration, you write `digitalWrite(13, HIGH)` to turn on a pin. The Arduino framework abstracts away the hardware details while still giving you access when you need it.
 
-The Arduino IDE is basic but functional. Many experienced makers migrate to PlatformIO (a VS Code extension) for better code completion, library management, and multi-board support.
+The Arduino IDE is basic but functional. Many experienced makers migrate to PlatformIO (a VS Code extension) for better code completion, library [management](/management), and multi-board support.
 
 ### MicroPython and CircuitPython
 
@@ -184,7 +184,7 @@ Building your own radio transmitter and receiver teaches you about electromagnet
 
 ### Audio Electronics
 
-Building guitar pedals, synthesizers, and amplifiers is a massive sub-hobby. The Eurorack modular synthesizer format has a thriving DIY community designing and sharing open-source modules. If you're interested in [acoustics](/acoustics) and sound design, this is where electronics meets music.
+Building guitar pedals, synthesizers, and amplifiers is a massive sub-hobby. The Eurorack modular synthesizer format has a thriving DIY community designing and sharing open-source modules. If you're interested in [acoustics](/acoustics) and [sound design](/sound-design), this is where electronics meets music.
 
 Analog audio circuits teach you about op-amps, filters, and signal processing in ways that digital projects don't. There's something deeply satisfying about hearing a waveform you shaped with resistors and capacitors.
 
@@ -196,7 +196,7 @@ A word of caution: mains voltage (120V/240V AC) can kill you. Seriously. Don't w
 
 ### FPGA and Custom Silicon
 
-Field-Programmable Gate Arrays (FPGAs) let you design custom digital logic hardware—not software running on a processor, but actual hardware circuits that you define. The Lattice iCE40 FPGA boards cost $25-50 and let you build custom CPUs, video processors, or any digital circuit you can imagine. This is where DIY electronics intersects with [computer architecture](/computer-architecture).
+Field-Programmable Gate Arrays (FPGAs) let you design custom [digital logic](/digital-logic) hardware—not software running on a processor, but actual hardware circuits that you define. The Lattice iCE40 FPGA boards cost $25-50 and let you build custom CPUs, video processors, or any digital circuit you can imagine. This is where DIY electronics intersects with [computer architecture](/computer-architecture).
 
 ## The Community
 
@@ -210,7 +210,7 @@ This open culture accelerates learning enormously. Want to understand how a prof
 
 ### Online Communities
 
-Reddit's r/electronics and r/arduino have over 2 million combined members. The EEVBlog forum is home to serious electronics discussions. YouTube channels like Ben Eater (who builds an entire computer from basic logic chips) and GreatScott have made complex topics accessible to millions.
+Reddit's r/electronics and r/arduino have over 2 million combined members. The EEVBlog forum is home to serious electronics discussions. YouTube channels like Ben Eater (who builds an entire computer from basic [logic](/logic) chips) and GreatScott have made complex topics accessible to millions.
 
 Instructables, Hackaday, and hackster.io host hundreds of thousands of documented projects with full build instructions. If you can imagine a project, someone has probably documented building something similar.
 

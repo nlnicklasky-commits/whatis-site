@@ -35,33 +35,33 @@ faq:
 
 # What Is Humanism?
 
-Humanism is a philosophical and ethical stance that emphasizes the value, agency, and rational capacity of human beings — centering morality, meaning, and purpose on human experience and reason rather than on supernatural authority or divine revelation. In its modern secular form, humanism holds that humans can lead ethical, meaningful lives without religion, using evidence, empathy, and [critical thinking](/critical-thinking) as their guides.
+Humanism is a philosophical and ethical stance that emphasizes the value, agency, and rational capacity of human beings — centering morality, meaning, and purpose on human experience and reason rather than on supernatural authority or divine revelation. In its modern secular form, humanism holds that humans can lead ethical, meaningful lives without [religion](/religion), using evidence, empathy, and [critical thinking](/critical-thinking) as their guides.
 
 ## The Word Means Different Things in Different Eras
 
-Here's what trips people up: "humanism" doesn't refer to one single philosophy. The word has been used across centuries to describe related but distinct movements. Getting these straight matters.
+Here's what trips people up: "humanism" doesn't refer to one single [philosophy](/philosophy). The word has been used across centuries to describe related but distinct movements. Getting these straight matters.
 
-**Renaissance humanism** (14th-16th centuries) was primarily an educational and cultural movement. It didn't reject religion — most Renaissance humanists were practicing Christians. Instead, it emphasized studying classical Greek and Latin texts, developing human potential through education, and valuing individual achievement in art, literature, and scholarship. Petrarch, Erasmus, and Thomas More were Renaissance humanists.
+**Renaissance humanism** (14th-16th centuries) was primarily an educational and cultural movement. It didn't reject religion — most Renaissance humanists were practicing Christians. Instead, it emphasized studying classical Greek and Latin texts, developing human potential through [education](/education), and valuing individual achievement in art, [literature](/literature), and scholarship. Petrarch, Erasmus, and Thomas More were Renaissance humanists.
 
-**Enlightenment humanism** (17th-18th centuries) shifted emphasis toward reason, science, and individual rights. Thinkers like Voltaire, John Locke, and Immanuel Kant argued that human reason — not tradition, authority, or revelation — should guide knowledge and ethics. This movement was more skeptical of religious authority, though not uniformly atheistic.
+**Enlightenment humanism** (17th-18th centuries) shifted emphasis toward reason, science, and individual rights. Thinkers like Voltaire, John Locke, and Immanuel Kant argued that human reason — not tradition, authority, or revelation — should guide knowledge and [ethics](/ethics). This movement was more skeptical of religious authority, though not uniformly atheistic.
 
 **Secular humanism** (20th century-present) is the form most people mean when they say "humanism" today. It explicitly grounds ethics in human reason and well-being, considers science the best method for understanding reality, and maintains that supernatural explanations are unnecessary. The Humanist Manifesto I (1933), Humanist Manifesto II (1973), and Humanist Manifesto III (2003) articulate evolving versions of these principles.
 
 **Religious humanism** refers to humanistic approaches within religious traditions — Unitarian Universalism, ethical culture societies, and progressive religious communities that emphasize human dignity and reason while maintaining some spiritual or communal religious practices.
 
-These varieties share a family resemblance: all center human experience, value reason, and emphasize ethical behavior. But their relationships to religion, science, and metaphysics differ considerably.
+These varieties share a family resemblance: all center human experience, value reason, and emphasize ethical behavior. But their relationships to religion, science, and [metaphysics](/metaphysics) differ considerably.
 
 ## The Renaissance: Rediscovering the Human
 
-The Renaissance humanist project began in 14th-century Italy with Petrarch, who is often called the "Father of Humanism." His passion was recovering and studying ancient Greek and Roman texts — philosophy, literature, rhetoric, history — that had been neglected during the medieval period.
+The Renaissance humanist project began in 14th-century Italy with Petrarch, who is often called the "Father of Humanism." His passion was recovering and studying ancient Greek and Roman texts — philosophy, literature, [rhetoric](/rhetoric), history — that had been neglected during the medieval period.
 
-This wasn't anti-religious. Medieval education was dominated by [Scholasticism](/scholasticism) — systematic theology focused on reconciling Christian doctrine with Aristotelian philosophy. Renaissance humanists didn't reject [Christianity](/christianity); they expanded what educated people should study. The *studia humanitatis* (studies of humanity) — grammar, rhetoric, history, poetry, and [moral philosophy](/moral-philosophy) — joined theology as essential knowledge.
+This wasn't anti-religious. Medieval education was dominated by [Scholasticism](/scholasticism) — systematic [theology](/theology) focused on reconciling Christian doctrine with Aristotelian philosophy. Renaissance humanists didn't reject [Christianity](/christianity); they expanded what educated people should study. The *studia humanitatis* (studies of humanity) — [grammar](/grammar), rhetoric, history, [poetry](/poetry), and [moral philosophy](/moral-philosophy) — joined theology as essential knowledge.
 
-The effects were profound. When you study Homer, Cicero, and Seneca alongside the Bible, you encounter sophisticated ethical thinking that predates Christianity. You encounter tragedy, comedy, and beauty created by pagans. You encounter a civilization (ancient Rome) that achieved extraordinary things without Christian guidance. This didn't prove Christianity wrong — but it proved Christianity wasn't the only source of wisdom, beauty, or moral insight.
+The effects were profound. When you study Homer, Cicero, and Seneca alongside the Bible, you encounter sophisticated ethical thinking that predates Christianity. You encounter tragedy, [comedy](/comedy), and beauty created by pagans. You encounter a civilization (ancient Rome) that achieved extraordinary things without Christian guidance. This didn't prove Christianity wrong — but it proved Christianity wasn't the only source of wisdom, beauty, or moral insight.
 
 Leonardo da Vinci, Michelangelo, and Raphael expressed humanist ideals through art. The shift from medieval art (flat, symbolic, focused on religious narratives) to [Renaissance art](/renaissance-art) (three-dimensional, anatomically accurate, celebrating human beauty and emotion) reflects the humanist elevation of human experience as worthy of attention and celebration in its own right.
 
-Erasmus of Rotterdam (1466-1536) represents Renaissance humanism at its most sophisticated. A devout Christian and ordained priest, Erasmus used humanist scholarship to criticize Church corruption, advocate for education reform, and argue for religious tolerance. His *In Praise of Folly* satirized clerical ignorance and superstition. His Greek edition of the New Proof exposed translation errors in the Latin Vulgate that had shaped Church doctrine for centuries. Erasmus proved that humanism and faith could coexist — though the Reformation that followed would complicate that relationship.
+Erasmus of Rotterdam (1466-1536) represents Renaissance humanism at its most sophisticated. A devout Christian and ordained priest, Erasmus used humanist scholarship to criticize Church corruption, advocate for education reform, and argue for religious tolerance. His *In Praise of Folly* satirized clerical ignorance and superstition. His Greek edition of the New Proof exposed [translation](/translation) errors in the Latin Vulgate that had shaped Church doctrine for centuries. Erasmus proved that humanism and faith could coexist — though the Reformation that followed would complicate that relationship.
 
 ## The Enlightenment: Reason Takes the Lead
 
@@ -137,7 +137,7 @@ Albert Camus, though not calling himself a humanist specifically, captured this 
 
 ### "Humanism led to the horrors of the 20th century"
 
-This claim — that secular ideologies (Communism, Fascism) produced history's worst atrocities — appears to indict humanism by association. But this conflates secularism (absence of religion) with humanism (a specific ethical philosophy). Soviet Communism was explicitly anti-humanist — it subordinated individual dignity to state ideology. Fascism rejected Enlightenment values entirely. Neither followed humanist principles; both violated them fundamentally.
+This claim — that secular [ideologies](/ideologies) (Communism, Fascism) produced history's worst atrocities — appears to indict humanism by association. But this conflates secularism (absence of religion) with humanism (a specific ethical philosophy). Soviet Communism was explicitly anti-humanist — it subordinated individual dignity to state ideology. Fascism rejected Enlightenment values entirely. Neither followed humanist principles; both violated them fundamentally.
 
 Humanists don't claim that removing religion automatically produces good outcomes. They claim that human reason, empathy, and democratic principles — specifically — produce better outcomes than alternatives. The evidence, looking at modern secular democracies, supports this claim.
 
@@ -169,9 +169,9 @@ Not all "nones" are humanists — many are "spiritual but not religious," agnost
 
 ## Where Humanism Goes from Here
 
-The 21st century presents humanists with challenges their 20th-century predecessors didn't face. [Artificial intelligence](/artificial-intelligence) raises questions about consciousness, personhood, and moral status that human-centered ethics wasn't designed to address. Climate change demands global cooperation that humanist individualism alone may not produce. Genetic engineering forces decisions about human nature that neither reason nor empathy clearly resolves.
+The 21st century presents humanists with challenges their 20th-century predecessors didn't face. [Artificial intelligence](/artificial-intelligence) raises questions about consciousness, personhood, and moral status that human-centered ethics wasn't designed to address. [Climate change](/climate-change) demands global cooperation that humanist individualism alone may not produce. Genetic [engineering](/engineering) forces decisions about human nature that neither reason nor empathy clearly resolves.
 
-Humanism's strength — its adaptability — is also its answer to these challenges. Because humanist ethics isn't fixed in ancient texts, it can evolve to address new questions. But evolution requires engagement, debate, and willingness to revise — the very qualities humanism most values.
+Humanism's strength — its adaptability — is also its answer to these challenges. Because humanist ethics isn't fixed in ancient texts, it can evolve to address new questions. But evolution requires engagement, [debate](/debate), and willingness to revise — the very qualities humanism most values.
 
 The core insight remains: humans are capable of building ethical, meaningful, fulfilling lives using the tools we already have — reason, empathy, creativity, and community. We don't need cosmic permission. We don't need supernatural reward. We need each other, and we need the courage to think clearly about what matters.
 

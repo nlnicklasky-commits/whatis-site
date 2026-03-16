@@ -37,7 +37,7 @@ It's an art form that shouldn't work. People breaking into song in the middle of
 
 ## Origins
 
-Musical theatre's roots stretch back to ancient Greek drama (which included choral [singing](/singing)), medieval mystery plays, and the Italian opera tradition dating to 1600. But the modern American musical emerged from several distinct threads in the late 19th and early 20th centuries:
+Musical theatre's roots stretch back to ancient Greek [drama](/drama) (which included choral [singing](/singing)), medieval mystery plays, and the Italian [opera](/opera) tradition dating to 1600. But the modern American musical emerged from several distinct threads in the late 19th and early 20th centuries:
 
 **Operetta** — light comic operas, particularly those of Gilbert and Sullivan (*The Mikado*, *H.M.S. Pinafore*) and European composers like Johann Strauss II and Franz Lehar. These established the template of alternating dialogue and song within a narrative framework.
 

@@ -43,7 +43,7 @@ A shipwreck is a time capsule. When a vessel sinks, its cargo, equipment, and st
 
 Think about it this way: a building on land is exposed to weather, scavenging, demolition, and rebuilding for centuries. A ship that sinks to the bottom of a cold, deep-water environment is buried in sediment, shielded from oxygen, and left essentially untouched. Organic materials — wood, textiles, leather, food — that would decompose on land within years can survive underwater for millennia.
 
-The Uluburun shipwreck, discovered off the coast of Turkey in 1982 and dated to around 1300 BCE, contained a cargo that reads like a Bronze Age trade manifest: copper and tin ingots, glass beads from Egypt, ivory from elephants and hippos, pomegranates, almonds, olives, and the oldest known intact book (a set of wooden writing boards). No single land-based archaeological site from the same period has produced such a concentrated snapshot of Mediterranean trade.
+The Uluburun shipwreck, discovered off the coast of Turkey in 1982 and dated to around 1300 BCE, contained a cargo that reads like a Bronze Age [trade](/trade) manifest: copper and tin ingots, glass beads from Egypt, ivory from elephants and hippos, pomegranates, almonds, olives, and the oldest known intact book (a set of wooden [writing](/writing) boards). No single land-based archaeological site from the same period has produced such a concentrated snapshot of Mediterranean trade.
 
 Ships also tell us things that other evidence can't. The [construction](/construction) techniques in a vessel's hull reveal what its builders knew about [engineering](/engineering), materials, and [hydrodynamics](/hydrodynamics). Cargo reveals trade routes and economic relationships. Personal belongings reveal daily life at sea. All of this information is available only because the ship sank — which is a strange kind of luck.
 
@@ -92,7 +92,7 @@ In 1901, sponge divers off the Greek island of Antikythera pulled up a corroded 
 
 ### The Mary Rose (1545)
 
-Henry VIII's warship sank in the Solent, the strait between the Isle of Wight and mainland England, during a battle with the French. Raised in 1982, the ship and its 19,000+ artifacts provided an astonishing portrait of Tudor-era naval life — longbows, medical equipment, musical instruments, gaming dice, lice combs, and the remains of over 90 crew members.
+Henry VIII's warship sank in the Solent, the strait between the Isle of Wight and mainland England, during a battle with the French. Raised in 1982, the ship and its 19,000+ artifacts provided an astonishing portrait of Tudor-era naval life — longbows, medical equipment, musical instruments, [gaming](/gaming) dice, lice combs, and the remains of over 90 crew members.
 
 ### The Titanic (1912)
 
@@ -114,11 +114,11 @@ The UNESCO Convention on the Protection of the Underwater Cultural Heritage, ado
 
 ## Current Challenges
 
-**Climate change** is affecting underwater sites. Rising water temperatures accelerate biological degradation. Increased storm frequency and intensity can damage shallow-water wrecks. Changing ocean [chemistry](/chemistry) — particularly acidification — threatens metal artifacts and marine organisms that stabilize wreck structures.
+**[Climate change](/climate-change)** is affecting underwater sites. Rising water temperatures accelerate biological degradation. Increased storm frequency and intensity can damage shallow-water wrecks. Changing ocean [chemistry](/chemistry) — particularly acidification — threatens metal artifacts and marine organisms that stabilize wreck structures.
 
 **Deep-sea mining** and offshore energy development risk damaging undiscovered wreck sites. As industrial activity extends into deeper waters, the potential for accidental destruction of archaeological sites grows.
 
-**Funding** remains a chronic problem. Nautical archaeology is expensive — boats, diving equipment, ROVs, conservation facilities, and specialized expertise all cost money. Academic funding for archaeology is limited, and public awareness of the field is lower than for land-based archaeology.
+**Funding** remains a chronic problem. Nautical archaeology is expensive — boats, [diving](/diving) equipment, ROVs, conservation facilities, and specialized expertise all cost money. Academic funding for archaeology is limited, and public awareness of the field is lower than for land-based archaeology.
 
 **Digital preservation** presents both opportunities and challenges. 3D models and digital archives can preserve information about sites indefinitely — but they also require ongoing maintenance, format migration, and institutional commitment to remain accessible.
 

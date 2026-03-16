@@ -67,7 +67,7 @@ The relationship between these two types is one of biology's most fascinating st
 
 Despite enormous variety, all cells perform certain fundamental activities:
 
-**Energy metabolism** converts nutrients into usable energy (ATP). In cells with mitochondria, this primarily happens through cellular respiration — breaking down glucose with oxygen to produce ATP, carbon dioxide, and water. The chemistry is described in detail in [biochemistry](/biochemistry), but the key point is this: your cells extract energy from food using essentially the same process that's been running since early life on Earth.
+**Energy metabolism** converts nutrients into usable energy (ATP). In cells with mitochondria, this primarily happens through cellular respiration — breaking down glucose with oxygen to produce ATP, carbon dioxide, and water. The [chemistry](/chemistry) is described in detail in [biochemistry](/biochemistry), but the key point is this: your cells extract energy from food using essentially the same process that's been running since early life on Earth.
 
 **Protein synthesis** translates genetic instructions (DNA → mRNA → protein) into the molecular workers that do everything in the cell. The central dogma of [molecular biology](/molecular-biology) — DNA makes RNA makes protein — is the information flow that drives all cellular life.
 
@@ -75,7 +75,7 @@ Despite enormous variety, all cells perform certain fundamental activities:
 
 ## Genetics: The Code of Life
 
-Genetics is the study of heredity — how traits are passed from parents to offspring. It's one of biology's youngest major branches (Gregor Mendel published his pea plant experiments in 1866, but they were ignored for 35 years) and arguably its most consequential.
+[Genetics](/genetics) is the study of heredity — how traits are passed from parents to offspring. It's one of biology's youngest major branches (Gregor Mendel published his pea plant experiments in 1866, but they were ignored for 35 years) and arguably its most consequential.
 
 ### Mendel's Laws
 
@@ -93,7 +93,7 @@ The identification of DNA as the molecule of heredity (Avery, MacLeod, and McCar
 
 The Human Genome Project, completed in 2003, sequenced the entire human genome: approximately 3.2 billion base pairs encoding about 20,000-25,000 protein-coding genes. The surprising finding was how few genes we have. A fruit fly has about 14,000. A rice plant has about 37,000. Clearly, organism complexity doesn't scale simply with gene count.
 
-Gene regulation — which genes are turned on or off, when, and in what cells — turned out to be far more important than gene count alone. Every cell in your body contains the same DNA, but a neuron and a liver cell express entirely different sets of genes. The regulatory machinery controlling gene expression is staggeringly complex, involving transcription factors, epigenetic modifications, non-coding RNAs, and chromatin remodeling.
+Gene regulation — which genes are turned on or off, when, and in what cells — turned out to be far more important than gene count alone. Every cell in your body contains the same DNA, but a neuron and a liver cell express entirely different sets of genes. The regulatory machinery controlling gene expression is staggeringly complex, involving [transcription](/transcription) factors, epigenetic modifications, non-coding RNAs, and chromatin remodeling.
 
 ### Genomics and the Data Revolution
 
@@ -101,7 +101,7 @@ Since the Human Genome Project, the cost of sequencing a genome has dropped from
 
 Genome-wide association studies (GWAS) have identified thousands of genetic variants associated with diseases, from diabetes to schizophrenia to heart disease. Most complex diseases involve many genes, each contributing a small effect — which is why finding "the gene for" most conditions has proved elusive.
 
-CRISPR gene editing has given biologists the ability to make precise changes to DNA in living organisms, creating possibilities for treating genetic diseases, engineering crops, and studying gene function that were inconceivable 15 years ago.
+CRISPR gene [editing](/editing) has given biologists the ability to make precise changes to DNA in living organisms, creating possibilities for treating genetic diseases, [engineering](/engineering) crops, and studying gene function that were inconceivable 15 years ago.
 
 ## Evolution: The Unifying Theory
 
@@ -119,7 +119,7 @@ Charles Darwin and Alfred Russel Wallace independently developed the theory of n
 
 That's it. No plan, no direction, no goal. Just differential reproduction in response to environmental pressures, operating over millions of years, producing everything from bacteria to blue whales.
 
-The evidence for evolution is vast and comes from multiple independent sources: the fossil record, comparative [anatomy](/anatomy), embryology, molecular biology (DNA sequence similarities across species), biogeography (the distribution of species across continents), and directly observed evolution in laboratory and field settings.
+The evidence for evolution is vast and comes from multiple independent sources: the fossil record, comparative [anatomy](/anatomy), embryology, molecular biology (DNA sequence similarities across species), [biogeography](/biogeography) (the distribution of species across continents), and directly observed evolution in laboratory and field settings.
 
 ### Beyond Natural Selection
 
@@ -139,7 +139,7 @@ New species form when populations become reproductively isolated — unable to i
 
 ## Ecology: Life in Context
 
-No organism exists in isolation. Ecology studies the interactions between organisms and their environment — both the physical environment (temperature, rainfall, soil) and the biological environment (other organisms).
+No organism exists in isolation. [Ecology](/ecology) studies the interactions between organisms and their environment — both the physical environment (temperature, rainfall, soil) and the biological environment (other organisms).
 
 ### Levels of Organization
 
@@ -157,25 +157,25 @@ Ecology operates at several nested levels:
 
 The current estimated number of species on Earth ranges from 8 million to over 1 trillion (the latter estimate includes microorganisms). Roughly 1.5-2 million species have been formally described. The discrepancy tells you how much we don't know.
 
-What we do know is that biodiversity is declining rapidly. The current extinction rate is estimated at 100-1,000 times the natural background rate. The IUCN Red List classifies more than 44,000 species as threatened with extinction. Habitat destruction, climate change, invasive species, pollution, and overexploitation are the primary drivers.
+What we do know is that biodiversity is declining rapidly. The current extinction rate is estimated at 100-1,000 times the natural background rate. The IUCN Red List classifies more than 44,000 species as threatened with extinction. Habitat destruction, [climate change](/climate-change), invasive species, pollution, and overexploitation are the primary drivers.
 
-This matters beyond aesthetics. Biodiversity supports ecosystem services that humans depend on: pollination of crops (worth an estimated $235-577 billion annually), [water purification](/water-purification), carbon sequestration, soil fertility, and disease regulation. Losing species isn't just sad — it's economically and practically dangerous.
+This matters beyond [aesthetics](/aesthetics). Biodiversity supports ecosystem services that humans depend on: [pollination](/pollination) of crops (worth an estimated $235-577 billion annually), [water purification](/water-purification), carbon sequestration, soil fertility, and disease regulation. Losing species isn't just sad — it's economically and practically dangerous.
 
 ## The Major Branches
 
 Biology has fragmented into dozens of specialized disciplines, each with its own techniques, journals, and career paths. A few of the most significant:
 
-**Microbiology** studies microscopic organisms — bacteria, archaea, viruses, fungi, and protists. Microbes were invisible to science until Antonie van Leeuwenhoek observed them through his handmade microscopes in the 1670s. Today we know they're the most abundant life forms on Earth. Your body contains roughly as many bacterial cells as human cells — about 38 trillion. The human microbiome (the microbial community living in and on you) influences digestion, immunity, mental health, and disease susceptibility.
+**[Microbiology](/microbiology)** studies microscopic organisms — bacteria, archaea, viruses, fungi, and protists. Microbes were invisible to science until Antonie van Leeuwenhoek observed them through his handmade microscopes in the 1670s. Today we know they're the most abundant life forms on Earth. Your body contains roughly as many bacterial cells as human cells — about 38 trillion. The human microbiome (the microbial community living in and on you) influences digestion, immunity, [mental health](/mental-health), and disease susceptibility.
 
-**Neuroscience** studies the nervous system — from the molecular properties of ion channels to the neural circuits underlying consciousness. The human brain contains roughly 86 billion neurons connected by approximately 100 trillion synapses. Understanding how this network produces thought, perception, emotion, and behavior is arguably the greatest unsolved problem in all of science.
+**[Neuroscience](/neuroscience)** studies the nervous system — from the molecular properties of ion channels to the neural circuits underlying consciousness. The human brain contains roughly 86 billion neurons connected by approximately 100 trillion synapses. Understanding how this network produces thought, perception, emotion, and behavior is arguably the greatest unsolved problem in all of science.
 
-**Immunology** studies the immune system — the body's defense against pathogens. The immune system distinguishes self from non-self using molecular recognition, deploys specialized cells and proteins to fight infection, and remembers past encounters for faster future responses. Vaccination — training the immune system to recognize a pathogen before encountering it — is among the most consequential applications of biological knowledge, having eradicated smallpox and nearly eliminated polio.
+**[Immunology](/immunology)** studies the immune system — the body's defense against pathogens. The immune system distinguishes self from non-self using molecular recognition, deploys specialized cells and proteins to fight infection, and remembers past encounters for faster future responses. Vaccination — training the immune system to recognize a pathogen before encountering it — is among the most consequential applications of biological knowledge, having eradicated smallpox and nearly eliminated polio.
 
 **Botany** studies plants, which are foundational to virtually all terrestrial ecosystems. Plants convert sunlight to chemical energy through photosynthesis, producing the oxygen we breathe and the food base for most [animal](/animal-behavior) life. Agricultural biology — applying biological knowledge to crop production — feeds the world's 8 billion people.
 
 ## Modern Biology and Technology
 
-Biology in the 21st century is increasingly quantitative, computational, and convergent with engineering and data science.
+Biology in the 21st century is increasingly quantitative, computational, and convergent with engineering and [data science](/data-science).
 
 **[Systems biology](/systems-biology)** tries to understand biological systems as integrated wholes rather than collections of parts. It uses mathematical models and computational simulations to predict how changes in one component affect the entire system. This approach is essential for understanding complex diseases like cancer, where hundreds of interacting genes, proteins, and pathways contribute.
 
@@ -191,4 +191,4 @@ Biology is, in a very direct sense, the study of ourselves. Understanding how ou
 
 The 21st century's biggest challenges are overwhelmingly biological. Climate change is disrupting ecosystems. Antibiotic resistance threatens to return us to a pre-antibiotic era. Pandemic preparedness requires deep understanding of viral evolution and immunology. Feeding 10 billion people by 2050 demands agricultural innovation. Curing cancer, Alzheimer's, and hundreds of other diseases requires molecular understanding that we're still building.
 
-Biology has gone from a descriptive science — cataloging species and drawing pictures of cells — to a predictive, quantitative, and increasingly engineered discipline. The pace of discovery is accelerating, the tools are getting more powerful, and the stakes have never been higher. For anyone who wants to understand how the world works — really works, at the level where it matters — biology is where you start.
+Biology has gone from a descriptive science — cataloging species and [drawing](/drawing) pictures of cells — to a predictive, quantitative, and increasingly engineered discipline. The pace of discovery is accelerating, the tools are getting more powerful, and the stakes have never been higher. For anyone who wants to understand how the world works — really works, at the level where it matters — biology is where you start.

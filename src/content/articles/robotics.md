@@ -37,11 +37,11 @@ faq:
 
 # What Is Robotics?
 
-Robotics is the interdisciplinary field of engineering and science dedicated to the design, construction, programming, and operation of robots — machines capable of sensing their environment, processing information, and taking physical action with some degree of autonomy. It pulls from [mechanical engineering](/mechanical-engineering), [electrical engineering](/electrical-engineering), [computer science](/computer-science), and increasingly [artificial intelligence](/artificial-intelligence), combining them into systems that can interact with the physical world in ways that go beyond fixed, repetitive automation.
+Robotics is the interdisciplinary field of [engineering](/engineering) and science dedicated to the design, [construction](/construction), programming, and operation of robots — machines capable of sensing their environment, processing information, and taking physical action with some degree of autonomy. It pulls from [mechanical engineering](/mechanical-engineering), [electrical engineering](/electrical-engineering), [computer science](/computer-science), and increasingly [artificial intelligence](/artificial-intelligence), combining them into systems that can interact with the physical world in ways that go beyond fixed, repetitive automation.
 
 The word "robot" comes from the Czech word *robota*, meaning forced labor. It was coined by playwright Karel Capek in his 1920 play *R.U.R. (Rossum's Universal Robots)*. A century later, there are roughly 3.9 million industrial robots operating worldwide, according to the International Federation of Robotics (IFR). Add surgical robots, warehouse robots, agricultural robots, underwater robots, space robots, military robots, and consumer robots, and the total is significantly higher.
 
-But here is what most people miss about robotics: the field is not primarily about building human-like machines. That makes for great science fiction, but the vast majority of real robots look nothing like humans. They look like arms, carts, drones, vacuum cleaners, and swimming torpedoes. The interesting questions in robotics are not "can we build a robot that looks like a person?" but "can we build a machine that performs useful work in unstructured environments?" Those two questions lead to very different engineering challenges.
+But here is what most people miss about robotics: the field is not primarily about building human-like machines. That makes for great [science fiction](/science-fiction), but the vast majority of real robots look nothing like humans. They look like arms, carts, drones, vacuum cleaners, and [swimming](/swimming) torpedoes. The interesting questions in robotics are not "can we build a robot that looks like a person?" but "can we build a machine that performs useful work in unstructured environments?" Those two questions lead to very different engineering challenges.
 
 ## The Three Pillars: Sense, Think, Act
 
@@ -53,11 +53,11 @@ Robots need information about their environment to function. The sensors they us
 
 **Vision sensors** include cameras (monocular, stereo, and depth cameras), which provide rich visual data but require sophisticated [computer vision](/computer-vision) [algorithms](/algorithms) to interpret. A camera gives you millions of pixels — figuring out that those pixels represent "a coffee mug sitting on the edge of a table" is a hard computational problem that researchers have worked on for decades.
 
-**LIDAR** (Light Detection and Ranging) fires laser pulses and measures the time they take to bounce back, creating precise 3D point clouds of the environment. LIDAR gives excellent distance measurements but no color or texture information. Self-driving cars use LIDAR extensively, and it is standard on many mobile robots for mapping and navigation.
+**LIDAR** (Light Detection and Ranging) fires laser pulses and measures the time they take to bounce back, creating precise 3D point clouds of the environment. LIDAR gives excellent distance measurements but no color or texture information. Self-driving cars use LIDAR extensively, and it is standard on many mobile robots for mapping and [navigation](/navigation).
 
 **Proximity sensors** detect nearby objects using infrared light, ultrasound, or electromagnetic fields. They are simpler and cheaper than cameras or LIDAR but provide limited information (usually just "something is within X centimeters").
 
-**Force and torque sensors** measure the forces a robot exerts or experiences during physical contact. These are critical for tasks requiring delicate manipulation — assembling electronics, handling fragile objects, or performing surgery. A robot assembling a phone needs to know when it has pressed a connector in firmly enough versus when it is about to break the circuit board.
+**Force and torque sensors** measure the forces a robot exerts or experiences during physical contact. These are critical for tasks requiring delicate manipulation — assembling [electronics](/electronics), handling fragile objects, or performing [surgery](/surgery). A robot assembling a phone needs to know when it has pressed a connector in firmly enough versus when it is about to break the circuit board.
 
 **Inertial Measurement Units (IMUs)** measure acceleration and rotational velocity, telling the robot how it is moving and oriented. GPS provides global position. Encoders on motors measure joint positions and wheel rotations precisely.
 
@@ -81,11 +81,11 @@ The "act" in sense-think-act requires physical hardware that converts decisions 
 
 **Electric motors** are the most common actuators in robotics. DC motors, stepper motors, and servo motors provide precise control of rotation speed and position. A typical six-axis industrial robot arm contains six or more servo motors, each controlling a single joint.
 
-**Hydraulic actuators** use pressurized fluid to generate enormous force. They are common in heavy-duty robots — construction equipment, large manufacturing robots, and the legs of Boston Dynamics' Atlas humanoid. Hydraulics offer unmatched power density but are messy (fluid leaks), noisy, and difficult to control precisely.
+**Hydraulic actuators** use pressurized fluid to generate enormous force. They are common in heavy-duty robots — construction equipment, large manufacturing robots, and the legs of Boston Dynamics' Atlas humanoid. [Hydraulics](/hydraulics) offer unmatched power density but are messy (fluid leaks), noisy, and difficult to control precisely.
 
 **Pneumatic actuators** use compressed air. They are simpler and cleaner than hydraulics but harder to control with precision because air is compressible. Soft robotics makes extensive use of pneumatic actuation in flexible, compliant structures.
 
-**End effectors** are the tools at the end of a robot arm — grippers, suction cups, welding torches, spray nozzles, surgical instruments. The end effector determines what the robot can actually do. A robot arm without an appropriate end effector is like a human hand wearing boxing gloves — powerful but not very useful for delicate work.
+**End effectors** are the tools at the end of a robot arm — grippers, suction cups, [welding](/welding) torches, spray nozzles, surgical instruments. The end effector determines what the robot can actually do. A robot arm without an appropriate end effector is like a human hand wearing boxing gloves — powerful but not very useful for delicate work.
 
 ## Types of Robots
 
@@ -93,7 +93,7 @@ The robotics field has diversified into dozens of application domains, each with
 
 ### Industrial Robots
 
-The workhorses of automation. About 3.9 million industrial robots operated worldwide in 2023, with roughly 553,000 new units installed that year. They perform welding, painting, assembly, material handling, and inspection in factories.
+The workhorses of automation. About 3.9 million industrial robots operated worldwide in 2023, with roughly 553,000 new units installed that year. They perform welding, [painting](/painting), assembly, material handling, and inspection in factories.
 
 Industrial robots are typically large, fast, powerful, and extremely precise — positioning accuracy of 0.02 mm is standard. They operate in caged-off areas because their speed and force can be lethal to humans. An industrial robot arm can swing a 100-kg payload at several meters per second. You do not want to be in the way.
 
@@ -109,11 +109,11 @@ Universal Robots, founded in Denmark in 2005, essentially created this market ca
 
 Robots that move through the environment rather than staying fixed in one location.
 
-**Autonomous Mobile Robots (AMRs)** work through warehouses, hospitals, and office buildings. Amazon operates over 750,000 mobile robots in its fulfillment centers, moving shelves of products to human workers for picking. Hospital AMRs deliver medications, meals, and lab samples, reducing staff walking time.
+**Autonomous Mobile Robots (AMRs)** work through warehouses, hospitals, and office buildings. Amazon operates over 750,000 mobile robots in its fulfillment centers, moving shelves of products to human workers for picking. Hospital AMRs deliver medications, meals, and lab samples, reducing staff [walking](/walking) time.
 
 **Self-driving vehicles** are mobile robots operating on public roads. The sensing, planning, and control challenges are immense because the environment is unstructured, active, and shared with unpredictable human drivers and pedestrians. Companies like Waymo, Cruise, and several Chinese companies have deployed limited robo-taxi services, but fully autonomous driving in all conditions remains an unsolved problem.
 
-**Drones** (unmanned aerial vehicles) are flying mobile robots used for photography, mapping, agriculture, delivery, inspection, and military applications. The global drone market exceeded $30 billion in 2024. Agricultural drones monitor crop health, spray pesticides, and map fields with precision that would be impossible from the ground.
+**Drones** (unmanned aerial vehicles) are flying mobile robots used for photography, mapping, [agriculture](/agriculture), delivery, inspection, and military applications. The global drone market exceeded $30 billion in 2024. Agricultural drones monitor crop health, spray pesticides, and map fields with precision that would be impossible from the ground.
 
 ### Surgical Robots
 
@@ -131,11 +131,11 @@ The argument for humanoid form factors is that human environments are designed f
 
 ### Specialized Domains
 
-**Underwater robots** (ROVs and AUVs) inspect oil pipelines, map ocean floors, and study marine biology at depths humans cannot reach. **Space robots** include Mars rovers (Curiosity, Perseverance), the International Space Station's robotic arm (Canadarm2), and satellite servicing robots. **Agricultural robots** weed fields, pick fruit, monitor crop health, and apply fertilizer with precision. **Construction robots** lay bricks, 3D-print buildings, and demolish structures.
+**Underwater robots** (ROVs and AUVs) inspect oil pipelines, map ocean floors, and study [marine biology](/marine-biology) at depths humans cannot reach. **Space robots** include Mars rovers (Curiosity, Perseverance), the International Space Station's robotic arm (Canadarm2), and satellite servicing robots. **Agricultural robots** weed fields, pick fruit, monitor crop health, and apply fertilizer with precision. **Construction robots** lay bricks, 3D-print buildings, and demolish structures.
 
 ## The Software Side: ROS and Robot Programming
 
-Hardware gets the attention, but software is where the real complexity lives. A robot arm without software is a sculpture.
+Hardware gets the attention, but software is where the real complexity lives. A robot arm without software is a [sculpture](/sculpture).
 
 ### Robot Operating System (ROS)
 
@@ -155,7 +155,7 @@ The biggest shift in modern robotics is the integration of AI — particularly l
 
 Traditional robot programming requires explicitly coding every behavior: if you see X, do Y. This works in structured environments (factories) but fails in unstructured ones (homes, construction sites, hospitals) where situations are unpredictable.
 
-Foundation models trained on massive datasets of text, images, and video are giving robots something closer to common sense. Google DeepMind's RT-2 model can interpret natural language instructions ("pick up the empty can and put it in the recycling bin") and translate them into robot actions, even for objects and tasks it has never specifically encountered before. This is not full autonomy — it is still limited and error-prone — but it represents a fundamentally different approach to robot programming.
+Foundation models trained on massive datasets of text, images, and video are giving robots something closer to common sense. Google DeepMind's RT-2 model can interpret natural language instructions ("pick up the empty can and put it in the [recycling](/recycling) bin") and translate them into robot actions, even for objects and tasks it has never specifically encountered before. This is not full autonomy — it is still limited and error-prone — but it represents a fundamentally different approach to robot programming.
 
 The vision: instead of programming specific behaviors for every situation, you give the robot a general understanding of the world (via a foundation model) and let it figure out how to accomplish goals in context. If this approach matures, it could make robots useful in environments that are currently too variable and unpredictable for traditional automation.
 
@@ -181,7 +181,7 @@ Several trends will shape robotics over the next decade.
 
 **Swarm robotics**: Large numbers of simple, inexpensive robots coordinating to accomplish tasks collectively — like ants building a colony. Potential applications include search and rescue, environmental monitoring, and construction.
 
-**Edge AI**: Running [machine learning](/machine-learning) models directly on robot hardware rather than sending data to the cloud reduces latency and enables faster responses. Advances in edge computing chips are making this increasingly practical.
+**Edge AI**: [Running](/running) [machine learning](/machine-learning) models directly on robot hardware rather than sending data to the cloud reduces latency and enables faster responses. Advances in edge computing chips are making this increasingly practical.
 
 ## Key Takeaways
 

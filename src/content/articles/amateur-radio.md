@@ -43,7 +43,7 @@ Amateur radio -- often called ham radio -- is a licensed radio service that lets
 
 The story of amateur radio starts before [broadcasting](/broadcasting) even existed. In the early 1900s, after Guglielmo Marconi demonstrated transatlantic wireless telegraphy in 1901, hobbyists started building their own spark-gap transmitters in basements and garages. These early experimenters were literally inventing radio communication alongside the professionals.
 
-By 1912, there were enough amateur operators causing interference with military and commercial stations that the U.S. passed the Radio Act of 1912 -- the first legislation to regulate radio. Amateurs got pushed to wavelengths below 200 meters (above 1.5 MHz), which the government considered useless. Here's the twist: those "useless" frequencies turned out to be fantastic for long-distance communication. In 1923, amateurs achieved the first two-way transatlantic shortwave contact, proving that short wavelengths could bounce off the ionosphere and travel thousands of miles. The professionals had gotten it wrong.
+By 1912, there were enough amateur operators causing interference with military and commercial stations that the U.S. passed the Radio Act of 1912 -- the first legislation to regulate radio. Amateurs got pushed to wavelengths below 200 meters (above 1.5 MHz), which the [government](/government) considered useless. Here's the twist: those "useless" frequencies turned out to be fantastic for long-distance communication. In 1923, amateurs achieved the first two-way transatlantic shortwave contact, proving that short wavelengths could bounce off the ionosphere and travel thousands of miles. The professionals had gotten it wrong.
 
 [World War II](/world-war-ii) shut down amateur radio in most countries, but operators flooded into military communications roles. Their skills were genuinely critical to the war effort. After the war ended, ham radio exploded in popularity. The post-war decades saw massive growth, technical innovation driven by surplus military equipment, and the establishment of amateur radio as a serious public service.
 
@@ -123,7 +123,7 @@ This is where amateur radio gets genuinely futuristic. Digital modes use a compu
 
 **Winlink** provides email over radio, which becomes critical during disasters when internet infrastructure fails.
 
-**APRS (Automatic Packet Reporting System)** combines radio with GPS for position tracking, weather reporting, and short messaging. It's heavily used for emergency management and event coordination.
+**APRS (Automatic Packet Reporting System)** combines radio with GPS for position tracking, weather reporting, and short messaging. It's heavily used for emergency [management](/management) and event coordination.
 
 **SSTV (Slow-Scan Television)** sends still images over radio. The International Space Station occasionally transmits SSTV images that anyone with a handheld radio and a smartphone app can receive.
 
@@ -157,7 +157,7 @@ Here's what most people don't know about amateur radio: it's a critical part of 
 
 This isn't hypothetical. During Hurricane Maria in 2017, amateur radio was essentially the only communication link for parts of Puerto Rico for weeks. After the 2011 Tohoku earthquake and tsunami in Japan, ham operators provided vital communication when commercial systems were overwhelmed. During Hurricane Katrina in 2005, amateur operators handled over 100,000 messages for disaster relief organizations.
 
-The reason is physics. An amateur radio station can run on battery or generator power, uses an antenna that's just wire or aluminum, and sends signals that propagate through the atmosphere without any infrastructure between sender and receiver. No cell towers. No internet. No satellites required (though amateurs can use those too). A skilled operator with a 12-volt battery, a 100-watt transceiver, and a wire thrown over a tree branch can communicate across a continent.
+The reason is [physics](/physics). An amateur radio station can run on battery or generator power, uses an antenna that's just wire or aluminum, and sends signals that propagate through the atmosphere without any infrastructure between sender and receiver. No cell towers. No internet. No satellites required (though amateurs can use those too). A skilled operator with a 12-volt battery, a 100-watt transceiver, and a wire thrown over a tree branch can communicate across a continent.
 
 Organizations like ARES (Amateur Radio Emergency Service) and RACES (Radio Amateur Civil Emergency Service) coordinate volunteer amateur operators who train for emergency deployment. Many operators participate in regular drills with local emergency management agencies, the Red Cross, and FEMA. When disaster strikes, these volunteers provide communication for shelters, hospitals, damage assessment teams, and relief coordination.
 
@@ -189,7 +189,7 @@ Antenna experimentation is arguably the most accessible form of radio building. 
 
 The intersection of amateur radio with [machine-learning](/machine-learning) and software development is growing rapidly. SDR platforms invite programming. Digital mode development is an active open-source community. Operators write software for logging, antenna modeling, propagation prediction, and contest automation. If you're a programmer, amateur radio offers fascinating real-world signal processing problems.
 
-Homebrewing also extends to test equipment. Antenna analyzers, power meters, dummy loads, and signal generators can all be built from relatively simple components. The amateur radio community shares designs freely, and there's a deep culture of teaching and mentoring.
+Homebrewing also extends to test equipment. Antenna analyzers, power meters, dummy loads, and signal generators can all be built from relatively simple components. The amateur radio community shares designs freely, and there's a deep culture of [teaching](/teaching) and mentoring.
 
 ## The Community: More Than a Hobby
 
@@ -219,7 +219,7 @@ People often ask: why does amateur radio matter when we have smartphones, the in
 
 First, infrastructure independence. Every other communication system depends on infrastructure that can fail. Cell networks, internet, even satellite phones require functioning ground stations. Amateur radio requires a radio, a power source, and an antenna. That's it. This independence isn't theoretical -- it proves itself in every major disaster.
 
-Second, education. Amateur radio teaches electronics, physics, signal processing, and electromagnetic theory through direct hands-on experience. Concepts like impedance matching, resonance, and wave propagation stop being abstract when you can hear the difference a quarter-inch of antenna wire makes. Several universities use amateur radio in their engineering curricula, and many professional engineers trace their interest in electronics back to ham radio.
+Second, [education](/education). Amateur radio teaches electronics, physics, signal processing, and electromagnetic theory through direct hands-on experience. Concepts like impedance matching, resonance, and wave propagation stop being abstract when you can hear the difference a quarter-inch of antenna wire makes. Several universities use amateur radio in their engineering curricula, and many professional engineers trace their interest in electronics back to ham radio.
 
 Third, pure exploration. The ionosphere changes constantly. Propagation paths open and close unpredictably. Working a new country on a marginal band opening, bouncing signals off the aurora borealis, or decoding a whisper-quiet digital signal from the other side of the planet -- these experiences have a thrill that no app can replicate.
 

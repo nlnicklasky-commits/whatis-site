@@ -31,7 +31,7 @@ faq:
 
 # What Is Music [Education](/education)?
 
-Music education is the field of teaching and learning music — whether that's a kindergartner learning to clap rhythms, a middle schooler playing clarinet in concert band, a conservatory student studying [orchestration](/orchestration), or an adult taking guitar lessons for the first time. It encompasses formal school programs, private instruction, community music-making, and increasingly, online learning platforms.
+Music education is the field of [teaching](/teaching) and learning music — whether that's a kindergartner learning to clap rhythms, a middle schooler playing clarinet in concert band, a conservatory student studying [orchestration](/orchestration), or an adult taking guitar lessons for the first time. It encompasses formal school programs, private instruction, community music-making, and increasingly, online learning platforms.
 
 The case for music education extends well beyond producing musicians. Research from the past three decades consistently shows that learning music develops cognitive abilities (memory, attention, [pattern recognition](/pattern-recognition)), social skills (collaboration, discipline, empathy), and [emotional intelligence](/emotional-intelligence) in ways that few other educational activities match. Whether those benefits alone justify music's place in schools is debated. But the evidence is substantial.
 
@@ -39,7 +39,7 @@ The case for music education extends well beyond producing musicians. Research f
 
 In the United States, music education typically follows a progression:
 
-**Elementary school (K-5)** — general music classes for all students, usually meeting once or twice a week. Activities include singing, movement, rhythm instruments, basic music reading, and exposure to various musical styles and cultures. Many programs use structured approaches like Orff, Kodaly, or Dalcroze (more on these below).
+**Elementary school (K-5)** — general music classes for all students, usually meeting once or twice a week. Activities include [singing](/singing), movement, rhythm instruments, basic music reading, and exposure to various musical styles and cultures. Many programs use structured approaches like Orff, Kodaly, or Dalcroze (more on these below).
 
 **Middle school (6-8)** — students typically choose between ensemble-based programs: concert band, orchestra, choir. General music classes covering music appreciation, composition, and technology are also common. This is where most students begin serious instrument study through school programs.
 
@@ -57,7 +57,7 @@ Several structured approaches dominate music education worldwide:
 
 **Suzuki method** — developed by Japanese violinist Shinichi Suzuki. Based on "mother tongue" [philosophy](/philosophy) — children learn music the way they learn language: through immersion, listening, repetition, and parental involvement. Lessons start as young as age 3. Students learn by ear initially, adding reading later. Suzuki training produces technically proficient players remarkably early.
 
-**Dalcroze Eurhythmics** — developed by Swiss musician Emile Jaques-Dalcroze. Uses physical movement to teach musical concepts. Students walk, dance, and gesture to internalize rhythm, dynamics, and phrasing. The body becomes the first instrument.
+**Dalcroze Eurhythmics** — developed by Swiss musician Emile Jaques-Dalcroze. Uses physical movement to teach musical concepts. Students walk, [dance](/dance), and gesture to internalize rhythm, dynamics, and phrasing. The body becomes the first instrument.
 
 **El Sistema** — founded in Venezuela in 1975 by Jose Antonio Abreu. An intensive orchestral program targeting children from disadvantaged backgrounds. Students rehearse 2-4 hours daily, six days a week. The program has produced world-class musicians (including conductor Gustavo Dudamel) and inspired adaptations in 70+ countries.
 

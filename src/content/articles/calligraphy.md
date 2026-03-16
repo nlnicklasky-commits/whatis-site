@@ -31,7 +31,7 @@ faq:
 
 # What Is Calligraphy?
 
-Calligraphy is the art of forming beautiful, harmonious, and expressive letters using specialized writing instruments — pens, brushes, or other tools — with deliberate attention to the rhythm, form, and spacing of each character. The word comes from the Greek *kalligraphia*: "beautiful writing."
+Calligraphy is the art of forming beautiful, harmonious, and expressive letters using specialized [writing](/writing) instruments — pens, brushes, or other tools — with deliberate attention to the rhythm, form, and spacing of each character. The word comes from the Greek *kalligraphia*: "beautiful writing."
 
 ## Three Great Traditions
 
@@ -39,7 +39,7 @@ Calligraphy developed independently in three major cultural spheres, each with i
 
 ### East Asian Calligraphy
 
-Chinese, Japanese, and Korean calligraphy use the brush as the primary tool, creating characters through a combination of prescribed stroke orders and individual expression. In [Chinese](/chinese-language) tradition, calligraphy ranks among the highest art forms — equal to [painting](/painting) and poetry. The "Four Treasures of the Study" (brush, ink, ink stone, paper) are the essential materials.
+Chinese, Japanese, and Korean calligraphy use the brush as the primary tool, creating characters through a combination of prescribed stroke orders and individual expression. In [Chinese](/chinese-language) tradition, calligraphy ranks among the highest art forms — equal to [painting](/painting) and [poetry](/poetry). The "Four Treasures of the Study" (brush, ink, ink stone, paper) are the essential materials.
 
 Chinese calligraphy has five major script styles, from the ancient seal script to the flowing cursive (grass script). A master calligrapher's brushwork reveals personality, emotion, and philosophical disposition through the energy, rhythm, and pressure of each stroke. The practice is often described as moving [meditation](/meditation) — the focus required to control a brush across rice paper demands complete presence.
 
@@ -47,7 +47,7 @@ Japanese calligraphy (*shodō* — "the way of writing") adapted Chinese traditi
 
 ### Islamic Calligraphy
 
-Since Islam traditionally prohibits figurative art in religious contexts, [Arabic calligraphy](/arabic-language) became the supreme visual art form in Islamic culture. Calligraphers developed elaborate scripts — Kufic (angular, architectural), Naskh (elegant, readable), Thuluth (monumental), Diwani (ornamental), and Nastaliq (flowing, used primarily for Persian and Urdu).
+Since [Islam](/islam) traditionally prohibits figurative art in religious contexts, [Arabic calligraphy](/arabic-language) became the supreme visual art form in Islamic culture. Calligraphers developed elaborate scripts — Kufic (angular, architectural), Naskh (elegant, readable), Thuluth (monumental), Diwani (ornamental), and Nastaliq (flowing, used primarily for Persian and Urdu).
 
 Calligraphic decoration covers mosques, Qurans, [ceramics](/ceramics), textiles, and metalwork. The art form carries deep spiritual significance — rendering the Word of God beautifully is considered an act of devotion. Master calligraphers hold positions of great respect in Islamic societies.
 

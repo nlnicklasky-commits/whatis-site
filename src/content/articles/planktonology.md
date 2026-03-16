@@ -100,7 +100,7 @@ Copepods also perform the largest migration on Earth --- the diel vertical migra
 
 Antarctic krill (*Euphausia superba*) form one of the most abundant animal biomasses on Earth --- estimated at 300-500 million metric tons. They feed on phytoplankton and in turn feed whales, seals, penguins, and fish. Blue whales consume up to 3.6 metric tons of krill per day.
 
-Krill swarms can be so dense they're detected by satellites and fishing sonar. A single swarm observed in 1981 was estimated to contain 2.1 million metric tons of krill covering 450 square kilometers. The entire Antarctic ecosystem effectively runs on krill.
+Krill swarms can be so dense they're detected by satellites and [fishing](/fishing) sonar. A single swarm observed in 1981 was estimated to contain 2.1 million metric tons of krill covering 450 square kilometers. The entire Antarctic ecosystem effectively runs on krill.
 
 ### Jellyfish
 
@@ -114,7 +114,7 @@ Here's how it works: Phytoplankton at the ocean surface absorb CO2 from the atmo
 
 The scale is enormous. The biological pump exports roughly 10 billion metric tons of carbon to the deep ocean each year. Without it, atmospheric CO2 concentrations would be about 200 parts per million higher than they are today --- enough to dramatically alter the climate.
 
-This is why plankton matter for climate science. Changes in phytoplankton [productivity](/productivity), species composition, or distribution patterns can strengthen or weaken the biological pump, creating feedbacks that amplify or dampen climate change.
+This is why plankton matter for climate science. Changes in phytoplankton [productivity](/productivity), species composition, or distribution patterns can strengthen or weaken the biological pump, creating feedbacks that amplify or dampen [climate change](/climate-change).
 
 ## How Planktonologists Work
 
@@ -124,7 +124,7 @@ Studying organisms you mostly can't see in an environment covering 361 million s
 
 Traditional plankton sampling uses nets towed behind research vessels. Mesh size determines what you catch --- fine mesh (64 micrometers) captures microplankton; coarser mesh (200-500 micrometers) targets mesozooplankton. Water samples collected with Niskin bottles capture pico- and nanoplankton too small for nets.
 
-The Continuous Plankton Recorder (CPR), deployed since 1931, is towed behind ships of opportunity (cargo vessels, ferries) on regular routes, collecting plankton samples continuously. The CPR survey has accumulated over 7 million samples across the North Atlantic and North Pacific, creating one of the longest-running marine biological datasets in existence. It's been critical for documenting how plankton communities have shifted over 90 years of changing climate.
+The Continuous Plankton Recorder (CPR), deployed since 1931, is towed behind ships of opportunity (cargo vessels, ferries) on regular routes, collecting plankton samples continuously. The CPR survey has accumulated over 7 million samples across the North Atlantic and North Pacific, creating one of the longest-[running](/running) marine biological datasets in existence. It's been critical for documenting how plankton communities have shifted over 90 years of changing climate.
 
 ### [Microscopy](/microscopy) and Identification
 
@@ -162,7 +162,7 @@ Microplastics (particles smaller than 5 mm) are now ubiquitous in ocean waters. 
 
 ## Connections to Other Fields
 
-Planktonology connects to [marine biology](/marionettes)) as the foundation of ocean ecosystems, [oceanography](/oceanography) through ocean physics and [chemistry](/chemistry), [ecology](/ecology) through food web dynamics, [climatology](/climatology) through the carbon cycle, and [environmental science](/environmental-science) through pollution impacts.
+Planktonology connects to [marine biology](/marionettes)) as the foundation of ocean ecosystems, [oceanography](/oceanography) through ocean [physics](/physics) and [chemistry](/chemistry), [ecology](/ecology) through food web dynamics, [climatology](/climatology) through the carbon cycle, and [environmental science](/environmental-science) through pollution impacts.
 
 If the broader marine ecosystem interests you, [marine biology](/marine-biology) provides the wider context. For ocean physics and chemistry, [oceanography](/oceanography) goes deeper. If the carbon cycle and climate connections fascinate you, [climatology](/climatology) expands the picture. And if the algal side of phytoplankton is your focus, [phycology](/phycology) --- the study of algae --- is the specialized discipline.
 
@@ -172,4 +172,4 @@ Plankton are easy to ignore. They're mostly invisible, they live in the ocean, a
 
 When plankton communities change --- and they are changing, right now, in response to warming, acidification, and pollution --- the effects ripple through fisheries, climate systems, and ultimately, the breathability of our atmosphere.
 
-Planktonology is the science that monitors these changes, understands their mechanisms, and predicts their consequences. It's the study of organisms most people will never see, doing work that keeps the planet habitable. And frankly, that makes it one of the most important fields in modern biology, whether or not anyone outside the field has heard of it.
+Planktonology is the science that monitors these changes, understands their mechanisms, and predicts their consequences. It's the study of organisms most people will never see, doing work that keeps the planet habitable. And frankly, that makes it one of the most important fields in modern [biology](/biology), whether or not anyone outside the field has heard of it.

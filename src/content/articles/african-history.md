@@ -36,7 +36,7 @@ faq:
 # What Is African History?
 African history encompasses the full human story on the world's second-largest continent — from the emergence of *Homo sapiens* over 300,000 years ago through ancient civilizations, medieval empires, the devastating impacts of slavery and colonialism, independence movements, and the complex realities of modern African nations.
 
-For too long, mainstream historical education treated Africa as if its history began with European contact. That's not just wrong — it's absurdly wrong. Africa is where humanity itself began, where some of the earliest civilizations arose, and where empires of extraordinary wealth and sophistication flourished for centuries before Europeans arrived.
+For too long, mainstream historical [education](/education) treated Africa as if its history began with European contact. That's not just wrong — it's absurdly wrong. Africa is where humanity itself began, where some of the earliest civilizations arose, and where empires of extraordinary wealth and sophistication flourished for centuries before Europeans arrived.
 
 ## The Birthplace of Humanity
 
@@ -54,7 +54,7 @@ Early African innovations include the oldest known art (shell beads from Blombos
 
 Ancient Egypt is the African civilization everyone knows — and too few people think of as African. The Nile Valley civilization emerged around 3100 BCE with the unification of Upper and Lower Egypt under King Narmer, and it persisted for over 3,000 years.
 
-Egypt's achievements are staggering: the Great Pyramid of Giza (built around 2560 BCE, the tallest human-made structure for 3,800 years), hieroglyphic writing, advanced mathematics and medicine, monumental [architecture](/architecture), and a bureaucratic state system that managed millions of people across hundreds of miles.
+Egypt's achievements are staggering: the Great Pyramid of Giza (built around 2560 BCE, the tallest human-made structure for 3,800 years), hieroglyphic [writing](/writing), advanced [mathematics](/mathematics) and medicine, monumental [architecture](/architecture), and a bureaucratic state system that managed millions of people across hundreds of miles.
 
 But Egypt didn't exist in isolation. It was deeply connected to other African civilizations — trading with, fighting against, and being influenced by its neighbors to the south and west.
 
@@ -64,13 +64,13 @@ The Kingdom of Kush, centered in what's now Sudan, was one of ancient Egypt's mo
 
 Around 750 BCE, the Kushite king Piye conquered Egypt itself, establishing the 25th Dynasty — the "Black Pharaohs" who ruled both Kush and Egypt for nearly a century. These rulers built more pyramids than any other Egyptian dynasty (there are actually more pyramids in Sudan than in Egypt — about 255 compared to roughly 130).
 
-The Kushite kingdom eventually shifted its capital to Meroe, where it developed its own writing system (Meroitic script, still only partially deciphered), iron-smelting industry, and distinctive artistic traditions. Meroe persisted until around 350 CE.
+The Kushite kingdom eventually shifted its capital to Meroe, where it developed its own writing system (Meroitic script, still only partially deciphered), iron-[smelting](/smelting) industry, and distinctive artistic traditions. Meroe persisted until around 350 CE.
 
 ### Aksum: An International Power
 
 The Aksumite Empire, in modern-day Ethiopia and Eritrea, was one of the four great powers of the ancient world according to the 3rd-century Persian prophet Mani — alongside Rome, Persia, and China. That's not an obscure kingdom. That's a civilization considered a global power by its contemporaries.
 
-Aksum controlled trade routes connecting the Roman Mediterranean world with India and East Africa. It minted its own gold, silver, and bronze coinage — making it one of the first African states to issue currency. In the 4th century, King Ezana converted to [Christianity](/christianity), making Aksum one of the earliest Christian states in the world.
+Aksum controlled [trade](/trade) routes connecting the Roman Mediterranean world with India and East Africa. It minted its own gold, silver, and bronze coinage — making it one of the first African states to issue currency. In the 4th century, King Ezana converted to [Christianity](/christianity), making Aksum one of the earliest Christian states in the world.
 
 The Aksumites built enormous stone obelisks (stelae), the tallest of which stood over 30 meters — among the largest monolithic structures ever erected. They developed their own script (Ge'ez), which is still used in Ethiopian Orthodox liturgy today.
 
@@ -90,7 +90,7 @@ Mali succeeded Ghana and became even wealthier. Its most famous ruler, Mansa Mus
 
 Mansa Musa's 1324 pilgrimage to Mecca is one of history's most extraordinary events. He traveled with a caravan of 60,000 people, 12,000 slaves each carrying four pounds of gold bars, and 80 camels carrying 50-300 pounds of gold dust each. When he passed through Cairo, he gave away so much gold that he crashed Egypt's gold market for over a decade.
 
-Under Mansa Musa, the city of Timbuktu became a major center of [Islamic learning](/comparative-religion). The University of Sankore attracted scholars from across Africa and the Middle East, with its library holding hundreds of thousands of manuscripts. Many of these manuscripts survive today and are being digitized — they cover mathematics, astronomy, medicine, law, and [philosophy](/philosophy).
+Under Mansa Musa, the city of Timbuktu became a major center of [Islamic learning](/comparative-religion). The University of Sankore attracted scholars from across Africa and the Middle East, with its library holding hundreds of thousands of manuscripts. Many of these manuscripts survive today and are being digitized — they cover mathematics, [astronomy](/astronomy), medicine, law, and [philosophy](/philosophy).
 
 ### The Songhai Empire (c. 1464-1591 CE)
 
@@ -130,7 +130,7 @@ Ghana became the first sub-Saharan African country to gain independence in 1957,
 
 But independence brought enormous challenges. New nations inherited colonial borders, colonial economic structures, Cold War pressures, limited infrastructure, and populations divided by colonial-era policies. The results were mixed — some countries (Botswana, Mauritius) built stable democracies and growing economies. Others experienced coups, civil wars, authoritarian rule, and economic stagnation.
 
-Blaming all post-independence problems on colonialism is too simple. So is ignoring colonialism's role. The truth — as usual — is complicated. Colonial structures created real constraints that shaped post-independence outcomes, but African agency, leadership choices, and external Cold War interference all played roles too.
+Blaming all post-independence problems on colonialism is too simple. So is ignoring colonialism's role. The truth — as usual — is complicated. Colonial structures created real constraints that shaped post-independence outcomes, but African agency, [leadership](/leadership) choices, and external Cold War interference all played roles too.
 
 ## Africa Today
 
@@ -138,6 +138,6 @@ Africa in the 21st century defies any single narrative. The continent contains 5
 
 Nigeria has Africa's largest [economy](/economics) and a vibrant film industry (Nollywood produces more movies annually than Hollywood). Rwanda has achieved remarkable recovery from the 1994 genocide and leads the world in gender parity in parliament. Ethiopia has been one of the world's fastest-growing economies. Kenya is a global leader in mobile banking (M-Pesa).
 
-But challenges remain serious. Ongoing conflicts in the Sahel, the Horn of Africa, and parts of Central Africa affect millions. Income inequality is extreme in many countries. Climate change threatens agricultural systems that hundreds of millions depend on.
+But challenges remain serious. Ongoing conflicts in the Sahel, the Horn of Africa, and parts of Central Africa affect millions. Income inequality is extreme in many countries. [Climate change](/climate-change) threatens agricultural systems that hundreds of millions depend on.
 
-Africa's population is the world's youngest and fastest-growing — projected to reach 2.5 billion by 2050. That demographic reality will shape [global economics](/global-economics), politics, and culture for the rest of the century. Understanding African history isn't optional anymore — if it ever was. It's essential context for understanding the world that's coming.
+Africa's population is the world's youngest and fastest-growing — projected to reach 2.5 billion by 2050. That demographic reality will shape [global economics](/global-economics), [politics](/politics), and culture for the rest of the century. Understanding African history isn't optional anymore — if it ever was. It's essential context for understanding the world that's coming.

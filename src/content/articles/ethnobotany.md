@@ -35,7 +35,7 @@ faq:
 
 # What Is Ethnobotany?
 
-Ethnobotany is the scientific study of how people interact with plants — how different cultures use plants for food, medicine, construction, clothing, ritual, and art, and how those relationships have shaped both human societies and the plant world itself. It bridges [botany](/botany) and [anthropology](/anthropology), combining rigorous plant science with deep engagement in cultural knowledge systems.
+Ethnobotany is the scientific study of how people interact with plants — how different cultures use plants for food, medicine, [construction](/construction), clothing, ritual, and art, and how those relationships have shaped both human societies and the plant world itself. It bridges [botany](/botany) and [anthropology](/anthropology), combining rigorous plant science with deep engagement in cultural knowledge systems.
 
 ## Plants Made Us Who We Are
 
@@ -78,7 +78,7 @@ This is arguably ethnobotany's most famous contribution. The numbers are strikin
 - About 80% of the world's population uses traditional plant-based medicine as their primary healthcare, according to the World Health Organization
 - Roughly 50,000-80,000 flowering plant species are used medicinally worldwide
 - About 25% of modern pharmaceutical drugs are derived from or modeled on plant compounds
-- The global herbal medicine market exceeds $100 billion annually
+- The global [herbal medicine](/herbal-medicine) market exceeds $100 billion annually
 
 Some of the most important drugs in medicine came from ethnobotanical leads:
 
@@ -86,11 +86,11 @@ Some of the most important drugs in medicine came from ethnobotanical leads:
 
 **Quinine:** The Quechua people of Peru used cinchona bark to treat fevers long before Europeans arrived. Spanish colonizers brought it to Europe in the 1630s, where it became the primary treatment for malaria. The synthetic derivative chloroquine was developed in the 1930s.
 
-**Morphine:** Opium poppies have been used for pain relief and sedation since at least 3400 BCE in Mesopotamia. Morphine was isolated in 1804 and remains the gold standard for severe pain management.
+**Morphine:** Opium poppies have been used for pain relief and sedation since at least 3400 BCE in Mesopotamia. Morphine was isolated in 1804 and remains the gold standard for severe pain [management](/management).
 
 **Taxol (paclitaxel):** The National Cancer Institute screened thousands of plant compounds in the 1960s, finding that bark from the Pacific yew (*Taxus brevifolia*) had anticancer properties. Taxol became one of the most important chemotherapy drugs.
 
-**Artemisinin:** Chinese scientist Tu Youyou, working from [traditional Chinese medicine](/traditional-chinese-medicine) texts describing sweet wormwood (*Artemisia annua*) for treating fevers, isolated artemisinin in 1972. It's now the foundation of the most effective antimalarial treatments. Tu Youyou won the Nobel Prize in Physiology or Medicine in 2015 for this work.
+**Artemisinin:** Chinese scientist Tu Youyou, working from [traditional Chinese medicine](/traditional-chinese-medicine) texts describing sweet wormwood (*Artemisia annua*) for treating fevers, isolated artemisinin in 1972. It's now the foundation of the most effective antimalarial treatments. Tu Youyou won the Nobel Prize in [Physiology](/physiology) or Medicine in 2015 for this work.
 
 These successes have fueled ongoing "bioprospecting" — the systematic search for new drugs among plants used in traditional medicine. But bioprospecting raises serious ethical questions about who benefits from traditional knowledge.
 
@@ -98,9 +98,9 @@ These successes have fueled ongoing "bioprospecting" — the systematic search f
 
 Ethnobotany isn't just about medicine. Understanding how different cultures have domesticated, cultivated, and managed food plants is critical for [agriculture](/agriculture) and food security.
 
-**Crop origins:** Nearly all major food crops were domesticated from wild plants by indigenous peoples thousands of years ago. Corn was domesticated in Mexico around 9,000 years ago. Rice was domesticated independently in China and Africa. Potatoes were domesticated in the Andes around 8,000 years ago, where Andean farmers still develop hundreds of distinct varieties. This domestication knowledge — selecting for desirable traits, managing growing conditions, saving seeds — represents millennia of informal plant breeding.
+**Crop origins:** Nearly all major food crops were domesticated from wild plants by indigenous peoples thousands of years ago. Corn was domesticated in Mexico around 9,000 years ago. Rice was domesticated independently in China and Africa. Potatoes were domesticated in the Andes around 8,000 years ago, where Andean farmers still develop hundreds of distinct varieties. This domestication knowledge — selecting for desirable traits, managing growing conditions, saving seeds — represents millennia of informal [plant breeding](/plant-breeding).
 
-**Neglected and underutilized species (NUS):** Of the roughly 30,000 edible plant species, only about 200 are commonly cultivated, and just three — rice, wheat, and corn — provide more than 50% of global plant-based calories. This dietary narrowing creates vulnerability to crop failures and climate change. Ethnobotanists study traditional food plants that could diversify diets and agricultural systems — quinoa (once a "forgotten" Andean grain, now globally popular), teff (Ethiopian grain), breadfruit (Pacific staple), and hundreds of others.
+**Neglected and underutilized species (NUS):** Of the roughly 30,000 edible plant species, only about 200 are commonly cultivated, and just three — rice, wheat, and corn — provide more than 50% of global plant-based calories. This dietary narrowing creates vulnerability to crop failures and [climate change](/climate-change). Ethnobotanists study traditional food plants that could diversify diets and agricultural systems — quinoa (once a "forgotten" Andean grain, now globally popular), teff (Ethiopian grain), breadfruit (Pacific staple), and hundreds of others.
 
 **Agroecological knowledge:** Many traditional farming systems are remarkably sophisticated. Amazonian *terra preta* (dark earth) — enriched soil created by pre-Columbian peoples through charcoal and organic amendments — remains more fertile than surrounding soils after centuries. Milpa agriculture in Mesoamerica intercrops corn, beans, and squash in a system that maintains soil fertility without synthetic inputs. This traditional ecological knowledge is increasingly valued by researchers working on [sustainable agriculture](/sustainable-agriculture).
 
@@ -108,11 +108,11 @@ Ethnobotany isn't just about medicine. Understanding how different cultures have
 
 Plants aren't just useful — they're meaningful. Cultural relationships with plants extend far beyond practical applications.
 
-**Sacred plants:** Many cultures consider certain plants sacred or spiritually significant. The lotus in Buddhism and Hinduism. Frankincense and myrrh in [Christianity](/christianity). Sage, sweetgrass, cedar, and tobacco in many Native American traditions. Ayahuasca in Amazonian shamanic practice. These plants carry deep cultural significance that can't be reduced to their chemical properties.
+**Sacred plants:** Many cultures consider certain plants sacred or spiritually significant. The lotus in [Buddhism](/buddhism) and [Hinduism](/hinduism). Frankincense and myrrh in [Christianity](/christianity). Sage, sweetgrass, cedar, and tobacco in many Native American traditions. Ayahuasca in Amazonian shamanic practice. These plants carry deep cultural significance that can't be reduced to their chemical properties.
 
-**Plant names and language:** The way a culture names plants reveals what it values and observes. Some indigenous languages have dozens of terms for plants that English lumps into a single category. The Hanunoo people of the Philippines distinguish over 1,600 plant types. Ethnobotanical linguistics — studying plant names across cultures — reveals patterns of knowledge organization that differ profoundly from Western taxonomy.
+**Plant names and language:** The way a culture names plants reveals what it values and observes. Some indigenous languages have dozens of terms for plants that English lumps into a single category. The Hanunoo people of the Philippines distinguish over 1,600 plant types. Ethnobotanical [linguistics](/linguistics) — studying plant names across cultures — reveals patterns of knowledge organization that differ profoundly from Western [taxonomy](/taxonomy).
 
-**Field management:** Many landscapes that Europeans perceived as "wilderness" were actually actively managed by indigenous peoples through controlled burning, selective harvesting, and deliberate planting. Aboriginal Australians shaped fire regimes across an entire continent. Native Americans managed prairies, forests, and coastlines in ways that maintained biodiversity and productivity. This challenges the nature/culture dichotomy central to much Western environmental thinking.
+**Field management:** Many landscapes that Europeans perceived as "wilderness" were actually actively managed by indigenous peoples through controlled burning, selective harvesting, and deliberate planting. Aboriginal Australians shaped fire regimes across an entire continent. Native Americans managed prairies, forests, and coastlines in ways that maintained biodiversity and [productivity](/productivity). This challenges the nature/culture dichotomy central to much Western environmental thinking.
 
 ## The Biopiracy Problem
 
@@ -130,7 +130,7 @@ The 2010 Nagoya Protocol on Access and Benefit-Sharing established international
 
 Modern ethnobotanists follow ethical codes that go beyond legal requirements. Collaborative research models — where communities are partners, not subjects — are now standard in responsible ethnobotany. Some projects return royalties to communities when their knowledge leads to commercial products. Others support community-based conservation or capacity-building initiatives.
 
-But tensions remain. Traditional knowledge is communal, while patent law is designed for individual or corporate inventorship. Reconciling these fundamentally different frameworks is an ongoing challenge.
+But tensions remain. Traditional knowledge is communal, while [patent law](/patent-law) is designed for individual or corporate inventorship. Reconciling these fundamentally different frameworks is an ongoing challenge.
 
 ## Ethnobotany and Conservation
 
@@ -152,7 +152,7 @@ Ethnobotanical research can support conservation in several ways:
 
 The field has evolved significantly from its colonial-era roots.
 
-**Urban ethnobotany** studies plant use in cities — immigrant communities maintaining traditional food and medicine plants in urban gardens, urban foraging movements, the cultural significance of street trees and park landscapes.
+**Urban ethnobotany** studies plant use in cities — immigrant communities maintaining traditional food and medicine plants in urban gardens, urban [foraging](/foraging) movements, the cultural significance of street trees and park landscapes.
 
 **Historical ethnobotany** uses archaeological evidence — pollen records, charred seeds, chemical residues on pottery — to reconstruct ancient plant-human relationships. What did people eat 10,000 years ago? What plants did they develop, trade, or use medicinally?
 
@@ -166,11 +166,11 @@ The field has evolved significantly from its colonial-era roots.
 
 Ethnobotany is a small but growing field. Most professionals hold graduate degrees (MS or PhD) with backgrounds in botany, anthropology, or both. Career paths include:
 
-- **Academic research and teaching** at universities and botanical gardens
+- **Academic research and [teaching](/teaching)** at universities and botanical gardens
 - **Conservation organizations** — documenting traditional ecological knowledge and supporting community-based conservation
-- **Pharmaceutical and biotechnology companies** — bioprospecting and natural product research
+- **Pharmaceutical and [biotechnology](/biotechnology) companies** — bioprospecting and natural product research
 - **Museums and herbaria** — curating ethnobotanical collections and conducting research
-- **Government agencies** — managing protected areas where indigenous plant use occurs
+- **[Government](/government) agencies** — managing protected areas where indigenous plant use occurs
 - **Nonprofit organizations** — supporting indigenous rights, cultural preservation, and [sustainable development](/sustainable-development)
 
 The field doesn't have the employment volume of, say, [data science](/data-science) or nursing. But for someone passionate about both plants and people, it offers uniquely meaningful work at the intersection of science, culture, and conservation.

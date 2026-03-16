@@ -45,7 +45,7 @@ The world of martial arts is enormous — there are hundreds of named styles. He
 
 **[Taekwondo](/taekwondo)** — a Korean art known for its spectacular high kicks and spinning techniques. An Olympic sport since 2000 and one of the most widely practiced martial arts globally, with an estimated 70+ million practitioners.
 
-**Muay Thai** — Thai boxing, which allows punches, kicks, elbows, and knee strikes, plus clinch fighting. Known as the "art of eight limbs." Muay Thai fighters are among the toughest combat athletes in the world.
+**Muay Thai** — Thai [boxing](/boxing), which allows punches, kicks, elbows, and knee strikes, plus clinch fighting. Known as the "art of eight limbs." Muay Thai fighters are among the toughest combat athletes in the world.
 
 **Boxing** — the Western striking art, focused purely on punches. Despite its apparent simplicity, boxing's footwork, timing, and defensive skills are extraordinarily refined. It's been an Olympic sport since 1904.
 
@@ -61,7 +61,7 @@ The world of martial arts is enormous — there are hundreds of named styles. He
 
 **Kung fu (Chinese martial arts)** — a vast category including hundreds of styles: Wing Chun, Shaolin, [Tai Chi](/tai-chi), Hung Gar, and many more. Chinese martial arts emphasize both external (physical technique) and internal (breathing, energy flow) practice.
 
-**Aikido** — a Japanese art focused on redirecting an attacker's energy through circular movements, joint locks, and throws. Founded by Morihei Ueshiba, aikido is philosophically oriented toward [harmony](/harmony) rather than destruction.
+**[Aikido](/aikido)** — a Japanese art focused on redirecting an attacker's energy through circular movements, joint locks, and throws. Founded by Morihei Ueshiba, aikido is philosophically oriented toward [harmony](/harmony) rather than destruction.
 
 **Krav Maga** — developed for the Israeli military, emphasizing practical self-defense against real-world attacks. Krav Maga isn't concerned with tradition or sport — it focuses on neutralizing threats as efficiently as possible.
 

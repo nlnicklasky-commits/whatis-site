@@ -35,7 +35,7 @@ faq:
 
 # What Is Classical Civilizations?
 
-Classical civilizations is the academic study of the ancient Greek and Roman societies that flourished from roughly 800 BCE to 476 CE, whose contributions to [government](/government), [philosophy](/philosophy), [literature](/literature), art, and law became foundational to Western culture. The field encompasses everything from Athenian democracy to Roman [engineering](/engineering), from Homeric epic to Stoic ethics.
+Classical civilizations is the academic study of the ancient Greek and Roman societies that flourished from roughly 800 BCE to 476 CE, whose contributions to [government](/government), [philosophy](/philosophy), [literature](/literature), art, and law became foundational to Western culture. The field encompasses everything from Athenian democracy to Roman [engineering](/engineering), from Homeric epic to Stoic [ethics](/ethics).
 
 ## Why Greece and Rome? Why Not Everywhere Else?
 
@@ -65,23 +65,23 @@ If Greece gave the world one thing, it was the habit of asking "why?" systematic
 
 Socrates (470–399 BCE) shifted philosophy toward ethics and human behavior. He never wrote anything down — everything we know comes through his student Plato. Socrates was executed by Athens for "corrupting the youth" and "impiety," which probably had more to do with his embarrassing habit of proving important people wrong in public.
 
-Plato (428–348 BCE) founded the Academy, wrote dialogues exploring justice, beauty, truth, and the ideal state, and proposed that the physical world is just a shadow of a higher reality of perfect "Forms." His student Aristotle (384–322 BCE) took the opposite approach — observe the physical world, categorize it, and reason from evidence. Aristotle wrote on [philosophy](/stoicism), biology, politics, logic, and poetry. His work dominated Western thought for nearly two millennia.
+Plato (428–348 BCE) founded the Academy, wrote dialogues exploring justice, beauty, truth, and the ideal state, and proposed that the physical world is just a shadow of a higher reality of perfect "Forms." His student Aristotle (384–322 BCE) took the opposite approach — observe the physical world, categorize it, and reason from evidence. Aristotle wrote on [philosophy](/stoicism), [biology](/biology), [politics](/politics), [logic](/logic), and [poetry](/poetry). His work dominated Western thought for nearly two millennia.
 
 ### Greek Art, Drama, and Science
 
-Greek drama gave us tragedy and comedy as formal art forms. Aeschylus, Sophocles, and Euripides wrote tragedies that are still performed — *Oedipus Rex* remains one of the most devastating plays ever written. Aristophanes wrote comedies that mocked politicians by name. Try imagining a Broadway show doing that to a sitting president.
+Greek [drama](/drama) gave us tragedy and [comedy](/comedy) as formal art forms. Aeschylus, Sophocles, and Euripides wrote tragedies that are still performed — *Oedipus Rex* remains one of the most devastating plays ever written. Aristophanes wrote comedies that mocked politicians by name. Try imagining a Broadway show doing that to a sitting president.
 
-In science, Eratosthenes calculated the Earth's circumference around 240 BCE and got within 2% of the correct value using sticks and shadows. Archimedes discovered the principles of buoyancy and the lever. Hippocrates established medicine as a discipline separate from religion — the Hippocratic Oath, in modified form, is still used today.
+In science, Eratosthenes calculated the Earth's circumference around 240 BCE and got within 2% of the correct value using sticks and shadows. Archimedes discovered the principles of buoyancy and the lever. Hippocrates established medicine as a discipline separate from [religion](/religion) — the Hippocratic Oath, in modified form, is still used today.
 
 ## Ancient Rome: The System Builders
 
-Rome started as a small settlement on the Tiber River around 753 BCE, traditionally founded by Romulus. For about 250 years it was a monarchy. Then the Romans overthrew their king in 509 BCE and established a republic — a system that would last nearly 500 years and become the model for the American Founders.
+Rome started as a small settlement on the Tiber River around 753 BCE, traditionally founded by Romulus. For about 250 years it was a [monarchy](/monarchy). Then the Romans overthrew their king in 509 BCE and established a republic — a system that would last nearly 500 years and become the model for the American Founders.
 
 ### The Roman Republic
 
 The Republic wasn't democratic in the Athenian sense. It was an oligarchy with democratic features. Power was concentrated in the Senate — a body of about 300 wealthy men who served for life. Two consuls, elected annually, served as the executive. Various assemblies gave ordinary citizens some voice, but wealth determined how much your vote counted. Literally — the voting system was structured so the richest citizens voted first, and once a majority was reached, the poorer classes often didn't get to vote at all.
 
-But the Republic developed something crucial: law. Roman law was written down, debated, refined, and applied (unevenly, sure) across an expanding territory. The concept that law should be rational, consistent, and publicly accessible — rather than whatever a king decided on a given day — is a Roman contribution that shaped every legal system in the Western world.
+But the Republic developed something crucial: law. [Roman law](/roman-law) was written down, debated, refined, and applied (unevenly, sure) across an expanding territory. The concept that law should be rational, consistent, and publicly accessible — rather than whatever a king decided on a given day — is a Roman contribution that shaped every legal system in the Western world.
 
 The Republic expanded aggressively. By 146 BCE, Rome controlled the entire Mediterranean. The Punic Wars against Carthage (264–146 BCE) were especially significant — the Second Punic War, where Hannibal marched elephants over the Alps, nearly destroyed Rome. Instead, Carthage was eventually razed to the ground.
 

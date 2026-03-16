@@ -43,7 +43,7 @@ Those questions sound easy. They're not. Getting them wrong costs businesses bil
 
 Here's something that surprises most people: inventory is usually the single largest asset on a retailer's balance sheet. We're talking 20-30% of total company assets sitting on shelves, in warehouses, and on trucks. That's an enormous pile of money doing nothing productive until someone buys it.
 
-Every day that a product sits unsold, it costs money. There's the warehouse rent, the insurance, the opportunity cost of capital, the risk of damage or theft, and—worst of all—the chance that it becomes obsolete. [Electronics](/electronics) retailers know this pain intimately. A smartphone that was worth $800 in January might be worth $400 by June when the next model drops.
+Every day that a product sits unsold, it costs money. There's the warehouse rent, the [insurance](/insurance), the opportunity cost of capital, the risk of damage or theft, and—worst of all—the chance that it becomes obsolete. [Electronics](/electronics) retailers know this pain intimately. A smartphone that was worth $800 in January might be worth $400 by June when the next model drops.
 
 On the flip side, not having enough inventory is equally devastating. A stockout doesn't just mean a lost sale today. Research from Harvard Business Review shows that 21-43% of customers who encounter an out-of-stock item will simply go to a competitor. Some never come back.
 
@@ -51,7 +51,7 @@ So inventory management is really about balance. It's a tightrope walk between "
 
 ## The Building Blocks of Inventory
 
-Before diving into methods and systems, it helps to understand what we're actually managing. Inventory falls into several categories, and each behaves differently.
+Before [diving](/diving) into methods and systems, it helps to understand what we're actually managing. Inventory falls into several categories, and each behaves differently.
 
 ### Raw Materials
 
@@ -67,7 +67,7 @@ Products ready for sale. This is what most people think of when they hear "inven
 
 ### MRO Supplies
 
-Maintenance, Repair, and Operations supplies keep your business running but aren't part of your product. Think cleaning supplies, spare parts for machinery, office materials, safety equipment. They're boring but essential, and running out of a critical MRO item can halt an entire production line.
+Maintenance, Repair, and Operations supplies keep your business [running](/running) but aren't part of your product. Think cleaning supplies, spare parts for machinery, office materials, safety equipment. They're boring but essential, and running out of a critical MRO item can halt an entire production line.
 
 ### Safety Stock
 
@@ -117,9 +117,9 @@ This seems obvious once you hear it, but a shocking number of businesses treat a
 
 ### Just-in-Time (JIT) Inventory
 
-JIT is the philosophy of receiving inventory exactly when you need it—not a day before, not a day after. Toyota pioneered this approach in the 1970s, and it became one of the most influential manufacturing ideas in history.
+JIT is the [philosophy](/philosophy) of receiving inventory exactly when you need it—not a day before, not a day after. Toyota pioneered this approach in the 1970s, and it became one of the most influential manufacturing ideas in history.
 
-The logic is elegant: inventory is waste. Every dollar sitting in your warehouse could be earning returns elsewhere. Every item stored risks damage, obsolescence, or theft. So why not eliminate the warehouse entirely and have suppliers deliver parts directly to the production line right when they're needed?
+The [logic](/logic) is elegant: inventory is waste. Every dollar sitting in your warehouse could be earning returns elsewhere. Every item stored risks damage, obsolescence, or theft. So why not eliminate the warehouse entirely and have suppliers deliver parts directly to the production line right when they're needed?
 
 Toyota's results were spectacular. They reduced inventory costs by 75%, shortened production cycles, and improved quality (because defects were caught immediately rather than buried in piles of WIP). The automotive industry went from keeping months of parts on hand to keeping hours' worth.
 
@@ -137,7 +137,7 @@ Companies in stable industries (like office supplies) might carry two weeks of s
 
 ### Vendor-Managed Inventory (VMI)
 
-Here's a counterintuitive approach: let your supplier manage your inventory for you. Under VMI, you share your sales data with suppliers, and they decide when and how much to ship. Walmart pioneered this with Procter & Gamble in the 1980s, and it worked remarkably well.
+Here's a counterintuitive approach: let your supplier manage your inventory for you. Under VMI, you share your [sales](/sales) data with suppliers, and they decide when and how much to ship. Walmart pioneered this with Procter & Gamble in the 1980s, and it worked remarkably well.
 
 The supplier has better insight into their own production schedules and capacity, so they can optimize deliveries. The buyer reduces ordering costs and stockouts. And because the supplier is motivated to keep product flowing, they tend to be more responsive than if you're just placing orders through a portal.
 

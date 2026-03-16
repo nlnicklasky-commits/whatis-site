@@ -31,7 +31,7 @@ faq:
 
 # What Is Physical Chemistry?
 
-Physical chemistry is the branch of chemistry that uses the principles and methods of physics — [thermodynamics](/thermodynamics), [quantum mechanics](/quantum-mechanics), [statistical mechanics](/statistical-mechanics), and kinetics — to understand how chemical systems behave at the molecular level. While [organic chemistry](/organic-chemistry) asks "What molecules can we make?" and analytical chemistry asks "What's in this sample?", physical chemistry asks "Why do chemicals behave the way they do?" and "Can we predict what will happen?"
+Physical [chemistry](/chemistry) is the branch of chemistry that uses the principles and methods of [physics](/physics) — [thermodynamics](/thermodynamics), [quantum mechanics](/quantum-mechanics), [statistical mechanics](/statistical-mechanics), and kinetics — to understand how chemical systems behave at the molecular level. While [organic chemistry](/organic-chemistry) asks "What molecules can we make?" and analytical chemistry asks "What's in this sample?", physical chemistry asks "Why do chemicals behave the way they do?" and "Can we predict what will happen?"
 
 ## What It Actually Studies
 
@@ -57,7 +57,7 @@ This matters practically because quantum calculations let you predict molecular 
 
 Physical chemists are obsessed with spectroscopy — the study of how matter interacts with electromagnetic radiation. When light hits a molecule, different things happen depending on the wavelength:
 
-- **Microwave radiation** rotates molecules — rotational spectroscopy reveals bond lengths and molecular geometry
+- **Microwave radiation** rotates molecules — rotational spectroscopy reveals bond lengths and molecular [geometry](/geometry)
 - **Infrared radiation** vibrates molecular bonds — IR spectroscopy identifies functional groups and molecular structure
 - **Visible/UV radiation** excites electrons — UV-Vis spectroscopy reveals electronic structure and concentration
 - **X-rays** diffract off crystal lattices — [X-ray crystallography](/x-ray-crystallography)) reveals three-dimensional molecular structure

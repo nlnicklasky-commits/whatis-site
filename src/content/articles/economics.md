@@ -37,7 +37,7 @@ faq:
 
 # What Is Economics?
 
-Economics is the social science that studies how individuals, businesses, governments, and societies make choices about allocating limited resources to meet unlimited wants and needs. It examines production, distribution, and consumption of goods and services, and provides frameworks for understanding everything from personal financial decisions to global trade patterns.
+Economics is the social science that studies how individuals, businesses, governments, and societies make choices about allocating limited resources to meet unlimited wants and needs. It examines production, distribution, and consumption of goods and services, and provides frameworks for understanding everything from personal financial decisions to global [trade](/trade) patterns.
 
 ## It's Not Really About Money
 
@@ -121,7 +121,7 @@ Markets don't always work well. Several systematic failures justify some form of
 
 **Public goods** are non-excludable (you can't prevent people from using them) and non-rival (one person's use doesn't reduce availability for others). National defense, street lighting, clean air. Private markets underproduce public goods because producers can't charge for them effectively—the "free rider" problem.
 
-**Asymmetric information** occurs when one party in a transaction knows more than the other. Sellers of used cars know their car's history; buyers don't. Insurance buyers know their health risks better than insurers. This information gap distorts markets, sometimes severely.
+**Asymmetric information** occurs when one party in a transaction knows more than the other. Sellers of used cars know their car's history; buyers don't. [Insurance](/insurance) buyers know their health risks better than insurers. This information gap distorts markets, sometimes severely.
 
 ## [Macroeconomics](/macroeconomics): The Big Picture
 
@@ -131,7 +131,7 @@ Macroeconomics studies the economy as a whole, focusing on aggregates like total
 
 Gross Domestic Product (GDP) measures the total value of goods and services produced within a country's borders during a specific period. The US GDP in 2024 was approximately $28.8 trillion—meaning Americans collectively produced that much value in a year.
 
-GDP isn't perfect. It doesn't count unpaid work (raising children, volunteering). It doesn't distinguish between good spending (education) and bad spending (cleaning up an oil spill—which actually *increases* GDP). It doesn't measure inequality, environmental quality, or life satisfaction.
+GDP isn't perfect. It doesn't count unpaid work (raising children, volunteering). It doesn't distinguish between good spending ([education](/education)) and bad spending (cleaning up an oil spill—which actually *increases* GDP). It doesn't measure inequality, environmental quality, or life satisfaction.
 
 But as a rough measure of economic output and a basis for comparison across countries and time periods, nothing better has replaced it. GDP per capita (GDP divided by population) gives a rough sense of average living standards. The US GDP per capita is about $85,000; India's is about $2,700. That 30x difference captures real differences in material living standards, even if it misses nuance.
 
@@ -141,7 +141,7 @@ Inflation is a sustained increase in the general price level—meaning your mone
 
 What causes inflation? Two main mechanisms:
 
-**Demand-pull inflation** occurs when total spending in the economy exceeds productive capacity. Too much money chasing too few goods. This is what happened during the post-COVID recovery in 2021-2022: massive government stimulus, supply chain disruptions, and pent-up consumer demand combined to push US inflation above 9%.
+**Demand-pull inflation** occurs when total spending in the economy exceeds productive capacity. Too much money chasing too few goods. This is what happened during the post-COVID recovery in 2021-2022: massive [government](/government) stimulus, supply chain disruptions, and pent-up consumer demand combined to push US inflation above 9%.
 
 **Cost-push inflation** occurs when production costs increase—oil price spikes, supply chain disruptions, wage increases—and businesses pass those costs to consumers through higher prices.
 
@@ -189,7 +189,7 @@ A weaker currency makes a country's exports cheaper (good for exporters) but mak
 
 Why is Norway rich and Niger poor? Development economics studies the most important question in the entire field.
 
-Geography, institutions, history, education, healthcare, corruption, governance, culture, and luck all play roles. No single factor explains everything. But the evidence increasingly points to institutions—the rules of the game that a society operates under—as the most important long-term determinant. Countries with property rights, rule of law, functional courts, and governments that don't confiscate wealth tend to grow. Countries without these institutions tend to stagnate.
+[Geography](/geography), institutions, history, education, healthcare, corruption, governance, culture, and luck all play roles. No single factor explains everything. But the evidence increasingly points to institutions—the rules of the game that a society operates under—as the most important long-term determinant. Countries with property rights, rule of law, functional courts, and governments that don't confiscate wealth tend to grow. Countries without these institutions tend to stagnate.
 
 Daron Acemoglu and James Robinson's work on this topic (summarized in *Why Nations Fail*) won the 2024 Nobel Prize, highlighting how "inclusive" institutions that spread economic opportunity broadly generate growth, while "extractive" institutions that concentrate power and wealth in a small elite do not.
 
@@ -215,8 +215,8 @@ It struggles with inequality. Standard theory can tell you whether total output 
 
 It handles environmental issues awkwardly. The natural environment provides services—clean air, [pollination](/pollination), climate stability—that don't have market prices. Economists have developed methods for valuing these (contingent valuation, replacement cost), but the fit is imperfect.
 
-It underestimates the role of power. Standard models assume competitive markets where no participant has outsized influence. In practice, corporations lobby for favorable regulations, wealthy individuals shape political outcomes, and market power concentrates. Political economy—the study of how economics and politics interact—addresses this but receives less attention than it deserves.
+It underestimates the role of power. Standard models assume competitive markets where no participant has outsized influence. In practice, corporations lobby for favorable regulations, wealthy individuals shape political outcomes, and market power concentrates. Political economy—the study of how economics and [politics](/politics) interact—addresses this but receives less attention than it deserves.
 
 And it sometimes mistakes elegance for truth. Mathematical models can be beautifully constructed and empirically wrong. The 2008 financial crisis exposed many models that assumed efficient markets and rational agents while ignoring systemic risk, herd behavior, and [cognitive biases](/cognitive-bias).
 
-Still, for all its limitations, economics provides the most systematic framework we have for thinking about the tradeoffs and incentives that shape our world. Learn to think like an economist—not to become one, but to see the hidden logic beneath the surface of everyday decisions.
+Still, for all its limitations, economics provides the most systematic framework we have for thinking about the tradeoffs and incentives that shape our world. Learn to think like an economist—not to become one, but to see the hidden [logic](/logic) beneath the surface of everyday decisions.

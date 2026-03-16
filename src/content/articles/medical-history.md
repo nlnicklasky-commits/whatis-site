@@ -47,7 +47,7 @@ The oldest evidence of medical practice is trepanation — using a stone tool to
 
 Egyptian medicine was remarkably sophisticated for its time. The Edwin Smith Papyrus (circa 1600 BCE, but likely copied from texts dating to 2500 BCE) describes 48 surgical cases with methodical observations about injuries, diagnoses, and treatments. Egyptian physicians recognized the pulse and understood, at least vaguely, that the heart pumped blood. They used honey as a wound dressing — which, it turns out, has genuine antibacterial properties.
 
-But Egyptian medicine was also deeply entangled with magic and religion. Incantations accompanied treatments. Disease was often attributed to angry gods or malevolent spirits. The same physician might set a broken bone and recite a spell, seeing both as equally important parts of the cure.
+But Egyptian medicine was also deeply entangled with magic and [religion](/religion). Incantations accompanied treatments. Disease was often attributed to angry gods or malevolent spirits. The same physician might set a broken bone and recite a spell, seeing both as equally important parts of the cure.
 
 ### Hippocrates and Greek Medicine
 
@@ -59,7 +59,7 @@ This theory was wrong. But it was wrong in an important way: it was a naturalist
 
 ### Galen and Roman Medicine
 
-Claudius Galen (129-216 CE), a Greek physician working in Rome, built on Hippocratic theory and added extensive anatomical observations — mostly from dissecting animals, since human dissection was generally forbidden. Galen's writings on [anatomy](/anatomy), physiology, and [pharmacology](/pharmacology) were so authoritative that they dominated Western medicine for over 1,300 years.
+Claudius Galen (129-216 CE), a Greek physician working in Rome, built on Hippocratic theory and added extensive anatomical observations — mostly from dissecting animals, since human dissection was generally forbidden. Galen's writings on [anatomy](/anatomy), [physiology](/physiology), and [pharmacology](/pharmacology) were so authoritative that they dominated Western medicine for over 1,300 years.
 
 The problem was that Galen was sometimes wrong — about blood circulation, about organ function, about anatomy that differed between humans and the pigs and apes he dissected — and his authority was so absolute that nobody corrected the errors for a millennium and a half.
 
@@ -99,7 +99,7 @@ The single most important development in the entire [history](/maritime-history)
 
 Louis Pasteur in France and Robert Koch in Germany proved, through careful experimentation in the 1860s-1880s, that specific microorganisms cause specific diseases. Koch's postulates (1884) established the criteria for proving that a particular bacterium causes a particular disease — criteria that remain the foundation of infectious disease research.
 
-The practical impact was enormous. Once you know that bacteria cause infection, you can sterilize surgical instruments, purify water, pasteurize milk, and develop vaccines. Joseph Lister introduced antiseptic surgery in the 1860s, spraying carbolic acid during operations. Surgical mortality rates plummeted.
+The practical impact was enormous. Once you know that bacteria cause infection, you can sterilize surgical instruments, purify water, pasteurize milk, and develop vaccines. Joseph Lister introduced antiseptic [surgery](/surgery) in the 1860s, spraying carbolic acid during operations. Surgical mortality rates plummeted.
 
 ### Anesthesia
 
@@ -125,8 +125,8 @@ The development of the polio vaccine by Jonas Salk (1955) and Albert Sabin (1961
 
 ## Current Frontiers
 
-Genomic medicine, CRISPR gene editing, immunotherapy for cancer, mRNA vaccine platforms (proven during the COVID-19 pandemic), [artificial intelligence](/artificial-intelligence) for diagnostic imaging — the pace of change is extraordinary.
+Genomic medicine, CRISPR gene [editing](/editing), immunotherapy for cancer, mRNA vaccine platforms (proven during the COVID-19 pandemic), [artificial intelligence](/artificial-intelligence) for diagnostic imaging — the pace of change is extraordinary.
 
-But medical history also teaches humility. Antibiotic resistance is growing because we overused the drugs that saved us. Health inequities persist along lines of race, income, and geography. The next pandemic is a question of when, not if. And for all our technological sophistication, the leading causes of death in wealthy countries — heart disease, cancer, stroke — remain stubbornly difficult to prevent.
+But medical history also teaches humility. Antibiotic resistance is growing because we overused the drugs that saved us. Health inequities persist along lines of race, income, and [geography](/geography). The next pandemic is a question of when, not if. And for all our technological sophistication, the leading causes of death in wealthy countries — heart disease, cancer, stroke — remain stubbornly difficult to prevent.
 
 The story of medicine is a story of brilliant people making incremental progress against enormous complexity, punctuated by occasional breakthroughs and more than a few catastrophic mistakes. Understanding that history — where we've been and what we got wrong — is the best preparation for getting the future right.

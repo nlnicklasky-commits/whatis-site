@@ -31,7 +31,7 @@ faq:
 
 # What Is Particle Physics?
 
-Particle physics is the branch of physics that studies the most fundamental constituents of matter and the forces that govern their interactions. It asks the deepest version of the question "What is stuff made of?" and arrives at answers that are genuinely strange: everything you've ever seen, touched, or experienced is built from a handful of elementary particles — quarks, leptons, and force-carrying bosons — interacting through four fundamental forces.
+Particle [physics](/physics) is the branch of physics that studies the most fundamental constituents of matter and the forces that govern their interactions. It asks the deepest version of the question "What is stuff made of?" and arrives at answers that are genuinely strange: everything you've ever seen, touched, or experienced is built from a handful of elementary particles — quarks, leptons, and force-carrying bosons — interacting through four fundamental forces.
 
 ## The Standard Model
 

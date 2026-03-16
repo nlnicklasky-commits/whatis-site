@@ -47,7 +47,7 @@ Every audio production follows a signal chain — the path sound takes from its 
 
 ### The Acoustic Source
 
-Everything starts with vibration. A singer's vocal cords vibrate. [A guitar](/guitar) string oscillates. A drum head resonates. These vibrations create pressure waves in the air — what we call sound. The character of these waves — their frequency content, amplitude envelope, harmonic structure — is what makes a violin sound different from a [trumpet](/trumpet) even when they play the same note.
+Everything starts with vibration. A singer's vocal cords vibrate. [A guitar](/guitar) string oscillates. A drum head resonates. These vibrations create pressure waves in the air — what we call sound. The character of these waves — their frequency content, amplitude envelope, harmonic structure — is what makes a [violin](/violin) sound different from a [trumpet](/trumpet) even when they play the same note.
 
 Sound engineers can't change the laws of [acoustics](/acoustics), but they can choose *where* and *how* to capture these waves. Microphone placement is arguably the single most important decision in recording. Move a mic six inches, and the captured sound changes dramatically.
 
@@ -116,7 +116,7 @@ Two ears, two speakers, one soundstage. Stereo recording techniques create a sen
 
 Recording each instrument to its own track — multitrack recording — was the breakthrough that transformed popular [music production](/music-production). Les Paul experimented with sound-on-sound recording in the 1940s. Ampex introduced 8-track recorders in the 1950s. By the late 1960s, the Beatles were using 4-track and 8-track machines to create albums that couldn't possibly have been recorded live.
 
-Today, [digital](/digital-signal-processing) audio workstations (DAWs) like Pro Tools, Logic Pro, Ableton Live, and Reaper offer unlimited tracks. A modern pop production might use 100 or more tracks — individual drums, multiple vocal takes, layers of synthesizers, effects returns, and auxiliary busses.
+Today, [digital](/digital-signal-processing) audio workstations (DAWs) like Pro Tools, [Logic](/logic) Pro, Ableton Live, and Reaper offer unlimited tracks. A modern pop production might use 100 or more tracks — individual drums, multiple vocal takes, layers of synthesizers, effects returns, and auxiliary busses.
 
 ## Mixing: Where Art Meets Engineering
 
@@ -167,7 +167,7 @@ The shift from analog to digital audio, which accelerated in the 1990s, fundamen
 
 **Recording** moved from expensive tape machines to [computer](/computer-hardware)-based DAWs. A professional-quality recording setup that cost $500,000 in 1985 can be replicated today for under $5,000. Possibly under $1,000, depending on your mic choices.
 
-**Mixing** moved from hardware consoles to software plugins that emulate classic analog equipment — compressors, EQs, tape machines — with remarkable accuracy. The debate over whether plugins sound as good as the original hardware continues (and probably always will), but the practical difference has shrunk to the point of irrelevance for most productions.
+**Mixing** moved from hardware consoles to software plugins that emulate classic analog equipment — compressors, EQs, tape machines — with remarkable accuracy. The [debate](/debate) over whether plugins sound as good as the original hardware continues (and probably always will), but the practical difference has shrunk to the point of irrelevance for most productions.
 
 **Distribution** moved from physical media (vinyl, tape, CD) to streaming. This changed mastering practices: instead of optimizing for a specific medium, engineers now optimize for loudness-normalized streaming platforms, where crushing dynamics for volume actually makes tracks sound *quieter* after normalization.
 

@@ -35,15 +35,15 @@ faq:
 
 # What Is Process Engineering?
 
-Process engineering is the discipline of designing, operating, controlling, and optimizing industrial processes that transform raw materials into finished products. It sits at the intersection of [chemical engineering](/chemical-engineering), [mechanical engineering](/mechanical-engineering), and [electrical engineering](/electrical-engineering), pulling from each to make sure that factories, refineries, food plants, and pharmaceutical facilities actually work the way they're supposed to.
+Process [engineering](/engineering) is the discipline of designing, operating, controlling, and optimizing industrial processes that transform raw materials into finished products. It sits at the intersection of [chemical engineering](/chemical-engineering), [mechanical engineering](/mechanical-engineering), and [electrical engineering](/electrical-engineering), pulling from each to make sure that factories, refineries, food plants, and pharmaceutical facilities actually work the way they're supposed to.
 
 ## More Than Just Pipes and Valves
 
-If you picture a process engineer as someone staring at gauges all day, you're missing about 90% of the picture. Yes, process engineers deal with physical equipment — reactors, distillation columns, heat exchangers, pumps, and compressors. But the real work happens in the thinking: figuring out how to get a chemical reaction to run at maximum yield while using minimum energy, or redesigning a bottleneck in a production line that's costing $50,000 per hour in lost output.
+If you picture a process engineer as someone staring at gauges all day, you're missing about 90% of the picture. Yes, process engineers deal with physical equipment — reactors, [distillation](/distillation) columns, heat exchangers, pumps, and compressors. But the real work happens in the thinking: figuring out how to get a chemical reaction to run at maximum yield while using minimum energy, or redesigning a bottleneck in a production line that's costing $50,000 per hour in lost output.
 
 Here's the thing most people don't realize: nearly everything you touch has been shaped by process engineering. The gasoline in your car went through a refinery process. The aspirin in your medicine cabinet was manufactured through a pharmaceutical process. The milk in your fridge went through pasteurization. Even your smartphone's chips were fabricated through semiconductor processes that require absurd levels of precision — we're talking clean rooms where a single dust particle can ruin an entire wafer.
 
-The Bureau of Labor Statistics groups process engineers within broader engineering categories, but industry estimates put the number of dedicated process engineering roles in the U.S. at roughly 35,000-50,000, with global demand growing at about 4-6% annually as [manufacturing engineering](/manufacturing-engineering) becomes more sophisticated.
+The Bureau of Labor [Statistics](/statistics) groups process engineers within broader engineering categories, but industry estimates put the number of dedicated process engineering roles in the U.S. at roughly 35,000-50,000, with global demand growing at about 4-6% annually as [manufacturing engineering](/manufacturing-engineering) becomes more sophisticated.
 
 ## The Core Principles That Drive Everything
 
@@ -57,7 +57,7 @@ This might sound basic, and frankly, the concept is simple. But applying it to a
 
 ### Thermodynamics and Reaction Kinetics
 
-You can't design a process without understanding the physics and chemistry behind it. [Thermodynamics](/thermodynamics) tells you what's possible — whether a reaction will happen spontaneously, how much energy you'll need to add (or can extract), and what the equilibrium conditions look like. Reaction kinetics tells you how fast it happens.
+You can't design a process without understanding the [physics](/physics) and [chemistry](/chemistry) behind it. [Thermodynamics](/thermodynamics) tells you what's possible — whether a reaction will happen spontaneously, how much energy you'll need to add (or can extract), and what the equilibrium conditions look like. Reaction kinetics tells you how fast it happens.
 
 Here's where many newcomers get tripped up: thermodynamics says a reaction is possible, but kinetics might say it would take 10,000 years at room temperature. So process engineers manipulate conditions — temperature, pressure, catalysts, concentrations — to make reactions happen at commercially viable speeds.
 
@@ -67,7 +67,7 @@ A classic example: the Haber-Bosch process for making ammonia. Thermodynamics fa
 
 How do heat, mass, and momentum move through your system? This is transport phenomena, and it governs practically everything in process engineering.
 
-Heat transfer determines how you heat reactors, cool products, and recover waste heat. Mass transfer determines how quickly a gas dissolves into a liquid or how fast a solute moves across a membrane. Fluid mechanics determines pressure drops through pipes, how mixtures flow through packed beds, and whether your flow is laminar or turbulent.
+[Heat transfer](/heat-transfer) determines how you heat reactors, cool products, and recover waste heat. Mass transfer determines how quickly a gas dissolves into a liquid or how fast a solute moves across a membrane. Fluid mechanics determines pressure drops through pipes, how mixtures flow through packed beds, and whether your flow is laminar or turbulent.
 
 These aren't abstract academic concepts. When a distillation column floods because the vapor velocity is too high, that's a fluid mechanics problem. When a reactor has hot spots because heat isn't distributing evenly, that's a heat transfer problem. When your extraction process isn't separating compounds efficiently, that's a mass transfer problem.
 
@@ -83,7 +83,7 @@ This phase also involves asking hard questions that other people might not think
 
 ### Detailed Engineering
 
-Once the conceptual design is approved, the real engineering begins. Process engineers create piping and instrumentation diagrams (P&IDs) — detailed documents that show every pipe, valve, instrument, and piece of equipment. These are the blueprints that construction teams use to build the plant.
+Once the conceptual design is approved, the real engineering begins. Process engineers create piping and instrumentation diagrams (P&IDs) — detailed documents that show every pipe, valve, instrument, and piece of equipment. These are the blueprints that [construction](/construction) teams use to build the plant.
 
 During detailed engineering, you size every piece of equipment precisely. That reactor you sketched in the conceptual phase? Now you need to calculate exact dimensions, materials of construction, wall thickness, nozzle sizes, and agitator specifications. You select specific pumps based on flow rates and pressure requirements. You design heat exchangers based on duty calculations.
 
@@ -97,9 +97,9 @@ Commissioning is when you bring the plant to life for the first time. This is of
 
 ### Ongoing Optimization
 
-A process is never truly "done." Once a plant is running, process engineers continuously look for ways to improve it. Can you reduce energy consumption by 5%? Can you squeeze out 2% more yield? Can you eliminate a waste stream? These incremental improvements might sound small, but in a plant that processes millions of tons per year, a 1% improvement can be worth millions of dollars annually.
+A process is never truly "done." Once a plant is [running](/running), process engineers continuously look for ways to improve it. Can you reduce energy consumption by 5%? Can you squeeze out 2% more yield? Can you eliminate a waste stream? These incremental improvements might sound small, but in a plant that processes millions of tons per year, a 1% improvement can be worth millions of dollars annually.
 
-This is where data analysis becomes critical. Modern plants generate enormous amounts of data from thousands of sensors. Process engineers analyze this data to identify trends, detect anomalies, and find optimization opportunities. [Data analysis](/data-analysis) tools and statistical methods like Design of Experiments (DOE) and Six Sigma are standard parts of the process engineer's toolkit.
+This is where data analysis becomes critical. Modern plants generate enormous amounts of data from thousands of sensors. Process engineers analyze this data to identify trends, detect anomalies, and find [optimization](/optimization) opportunities. [Data analysis](/data-analysis) tools and statistical methods like Design of Experiments (DOE) and Six Sigma are standard parts of the process engineer's toolkit.
 
 ## Unit Operations: The Building Blocks
 
@@ -109,11 +109,11 @@ Process engineers think in terms of "unit operations" — standardized steps tha
 
 Chemical reactors are where raw materials transform into products. Batch reactors process materials in discrete batches — load, react, unload, repeat. Continuous stirred-tank reactors (CSTRs) run constantly with materials flowing in and out. Plug flow reactors push materials through a tube where they react as they travel.
 
-Each type has trade-offs. Batch reactors offer flexibility but lower throughput. CSTRs are great for steady-state operation but can be less efficient for certain reaction kinetics. Plug flow reactors can achieve high conversion but are harder to control.
+Each type has [trade](/trade)-offs. Batch reactors offer flexibility but lower throughput. CSTRs are great for steady-state operation but can be less efficient for certain reaction kinetics. Plug flow reactors can achieve high conversion but are harder to control.
 
 ### Separation
 
-After a reaction, you usually have a mixture of product, unreacted feed, byproducts, and solvent. Separation processes isolate what you want. Distillation separates based on boiling point differences — the workhorse of the chemical industry, accounting for roughly 40% of energy use in chemical plants. Filtration separates solids from liquids. Extraction uses solvent differences to partition compounds. [Chromatography](/chromatography) separates based on differential migration through a medium.
+After a reaction, you usually have a mixture of product, unreacted feed, byproducts, and solvent. Separation processes isolate what you want. Distillation separates based on boiling point differences — the workhorse of the chemical industry, [accounting](/accounting) for roughly 40% of energy use in chemical plants. Filtration separates solids from liquids. Extraction uses solvent differences to partition compounds. [Chromatography](/chromatography) separates based on differential migration through a medium.
 
 Membrane separations are increasingly popular because they're often more energy-efficient than thermal methods. Reverse osmosis, ultrafiltration, and gas separation membranes are replacing older technologies in many applications.
 
@@ -143,7 +143,7 @@ Process safety isn't a side concern — it's a central discipline within process
 
 The Bhopal disaster in 1984 killed thousands when methyl isocyanate gas leaked from a pesticide plant. The Texas City refinery explosion in 2005 killed 15 workers. The Deepwater Horizon blowout in 2010 caused 11 deaths and massive environmental damage. Each of these tragedies had process engineering failures at their root.
 
-Modern process safety management includes hazard identification (HAZID), hazard and operability studies (HAZOP), layers of protection analysis (LOPA), and safety integrity level (SIL) assessments. Process engineers design safety systems — pressure relief valves, emergency shutdown systems, containment barriers — and ensure they're properly maintained.
+Modern process safety [management](/management) includes hazard identification (HAZID), hazard and operability studies (HAZOP), layers of protection analysis (LOPA), and safety integrity level (SIL) assessments. Process engineers design safety systems — pressure relief valves, emergency shutdown systems, containment barriers — and ensure they're properly maintained.
 
 OSHA's Process Safety Management (PSM) standard in the United States requires facilities handling hazardous materials to implement 14 specific elements, from process hazard analysis to emergency planning. Similar regulations exist globally.
 
@@ -167,7 +167,7 @@ Process analytical technology (PAT) — using real-time measurements to control 
 
 ### Semiconductors
 
-Semiconductor fabrication is arguably the most precise process engineering in existence. Manufacturing a modern chip involves hundreds of process steps — photolithography, chemical vapor deposition, etching, ion implantation, and more — each controlled to nanometer precision. A particle of dust that's invisible to the naked eye can destroy a chip worth hundreds of dollars.
+Semiconductor fabrication is arguably the most precise process engineering in existence. Manufacturing a modern chip involves hundreds of process steps — [photolithography](/photolithography), chemical vapor deposition, etching, ion implantation, and more — each controlled to nanometer precision. A particle of dust that's invisible to the naked eye can destroy a chip worth hundreds of dollars.
 
 ### Water Treatment
 

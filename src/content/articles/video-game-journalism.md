@@ -31,7 +31,7 @@ faq:
 
 # What Is Video Game Journalism?
 
-Video game journalism is the reporting, reviewing, and critical analysis of video games and the [gaming](/gaming) industry. It covers everything from review scores that influence millions of purchase decisions to investigative reporting on studio working conditions to cultural criticism examining what games say about society. It's journalism applied to a $180 billion industry — with all the usual tensions between access, independence, and audience expectations.
+Video game [journalism](/journalism) is the reporting, reviewing, and critical analysis of video games and the [gaming](/gaming) industry. It covers everything from review scores that influence millions of purchase decisions to investigative reporting on studio working conditions to cultural criticism examining what games say about society. It's journalism applied to a $180 billion industry — with all the usual tensions between access, independence, and audience expectations.
 
 ## What It Actually Covers
 

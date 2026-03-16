@@ -75,7 +75,7 @@ Not all springs are coils of wire. The spring family is surprisingly diverse, an
 
 ### Compression Springs
 
-These are what most people picture when they hear "spring" — a helical coil of wire that resists being pushed together. They're everywhere. Your car's suspension uses them. So does every retractable pen, every mattress, and every pressure relief valve in industrial plumbing.
+These are what most people picture when they hear "spring" — a helical coil of wire that resists being pushed together. They're everywhere. Your car's suspension uses them. So does every retractable pen, every mattress, and every pressure relief valve in industrial [plumbing](/plumbing).
 
 Compression springs work by converting axial force into torsional stress within the wire. When you push the spring's ends together, each coil twists slightly. The wire's resistance to twisting is what creates the restoring force. This is why the wire's cross-sectional shape and the material's shear modulus matter so much — they determine how much torsional stress the wire can handle.
 
@@ -113,7 +113,7 @@ A constant-force spring is a roll of pre-stressed metal strip that exerts a near
 
 Technically not springs in the traditional sense, gas springs use compressed nitrogen gas inside a cylinder to provide a spring-like force. The gas acts as the elastic medium instead of metal. You interact with gas springs every time you open a hatchback, adjust an office chair's height, or lift a storage bed frame.
 
-Their advantage is smooth, controlled motion. Unlike metal springs, they can be designed with built-in damping, and their force characteristics are easily tunable by changing gas pressure, piston area, and cylinder geometry.
+Their advantage is smooth, controlled motion. Unlike metal springs, they can be designed with built-in damping, and their force characteristics are easily tunable by changing gas pressure, piston area, and cylinder [geometry](/geometry).
 
 ## Materials Science of Springs
 
@@ -129,7 +129,7 @@ For higher-temperature applications or greater corrosion resistance, alloy steel
 
 When corrosion is the enemy, stainless steel springs are the answer. Type 302/304 stainless is common for general corrosion resistance. Type 316 handles marine environments. Type 17-7 PH (precipitation hardened) offers the best combination of corrosion resistance and high strength.
 
-The trade-off? Stainless steel springs have lower fatigue life than carbon steel springs of the same dimensions. You're paying for corrosion resistance with reduced longevity.
+The [trade](/trade)-off? Stainless steel springs have lower fatigue life than carbon steel springs of the same dimensions. You're paying for corrosion resistance with reduced longevity.
 
 ### Exotic Materials
 
@@ -177,7 +177,7 @@ Active suspension systems — found in luxury vehicles — use electronically co
 
 A mechanical watch is essentially a spring-powered [algorithm](/algorithms). The mainspring stores energy when you wind the crown. That energy flows through a gear train to the escapement, which releases it in tiny, precisely timed increments. The balance spring (hairspring) — a delicate spiral spring just a few hundredths of a millimeter thick — oscillates the balance wheel at a constant frequency, typically 3-5 Hz, keeping time accurate to within a few seconds per day.
 
-The materials science here is extraordinary. Modern hairsprings use silicon or special alloys like Nivarox that resist temperature changes, magnetic fields, and aging. A 1°C temperature change can affect a steel hairspring's rate by up to 0.6 seconds per day.
+The [materials science](/materials-science) here is extraordinary. Modern hairsprings use silicon or special alloys like Nivarox that resist temperature changes, magnetic fields, and aging. A 1°C temperature change can affect a steel hairspring's rate by up to 0.6 seconds per day.
 
 ### Medical Devices
 
@@ -201,9 +201,9 @@ Springs have been with us longer than written history. The bow — a bent stick 
 
 The coiled spring appeared in European clockwork around 1400-1450. Peter Henlein of Nuremberg is often credited with creating the first spring-driven portable clock around 1510, though the exact history is debated. The development of [steel production](/steel-production) techniques in the 17th and 18th centuries made springs more reliable and affordable.
 
-The Industrial Revolution was the spring's golden age. Railway suspension systems, steam engine governors, and industrial machinery all demanded springs of increasing size and precision. Robert Hooke published his law in 1678, giving engineers a mathematical framework for spring design that remains the foundation of spring engineering today.
+The Industrial Revolution was the spring's golden age. Railway suspension systems, steam engine governors, and industrial machinery all demanded springs of increasing size and precision. Robert Hooke published his law in 1678, giving engineers a mathematical framework for spring design that remains the foundation of spring [engineering](/engineering) today.
 
-The 20th century brought new materials and manufacturing methods. Cold coiling machines automated production. Computer-aided design enabled optimization that hand calculations couldn't achieve. And the invention of new alloys — shape-memory alloys, amorphous metals — opened possibilities that would have astonished Hooke.
+The 20th century brought new materials and manufacturing methods. Cold coiling machines automated production. Computer-aided design enabled [optimization](/optimization) that hand calculations couldn't achieve. And the [invention](/invention) of new alloys — shape-memory alloys, amorphous metals — opened possibilities that would have astonished Hooke.
 
 ## Spring Testing and Quality Control
 

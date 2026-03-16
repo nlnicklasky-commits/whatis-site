@@ -67,7 +67,7 @@ In the United States, the Pinkerton National Detective Agency performed intellig
 
 The First World War brought espionage into the industrial age. The scale was unprecedented. British Naval Intelligence's famous Room 40 intercepted and decoded German communications, most notably the Zimmermann Telegram in 1917 — a German proposal for Mexico to attack the United States. The decrypted telegram, made public, helped push America into the war.
 
-Mata Hari — the Dutch exotic dancer executed by France in 1917 for allegedly spying for Germany — became the most famous spy of the era, though historians now debate whether she was actually an effective spy or simply a convenient scapegoat. Her story cemented the popular image of the glamorous secret agent, an image [intelligence professionals](/digital-forensics) find mostly ridiculous.
+Mata Hari — the Dutch exotic dancer executed by France in 1917 for allegedly spying for Germany — became the most famous spy of the era, though historians now [debate](/debate) whether she was actually an effective spy or simply a convenient scapegoat. Her story cemented the popular image of the glamorous secret agent, an image [intelligence professionals](/digital-forensics) find mostly ridiculous.
 
 The war also introduced aerial reconnaissance, signals intelligence (intercepting radio communications), and the first systematic use of propaganda as a tool of information warfare.
 

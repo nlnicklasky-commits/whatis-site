@@ -31,7 +31,7 @@ faq:
 
 # What Is Real Analysis?
 
-Real analysis is the branch of [mathematics](/mathematics) that provides rigorous foundations for calculus and the study of real numbers. It takes the concepts you learned in calculus — limits, derivatives, integrals, sequences, series — and asks: but *why* do those things work? What exactly do we mean by "a function is continuous" or "a series converges"? Real analysis answers these questions with mathematical proofs, replacing intuition with precision.
+Real analysis is the branch of [mathematics](/mathematics) that provides rigorous foundations for [calculus](/calculus) and the study of real numbers. It takes the concepts you learned in calculus — limits, derivatives, integrals, sequences, series — and asks: but *why* do those things work? What exactly do we mean by "a function is continuous" or "a series converges"? Real analysis answers these questions with mathematical proofs, replacing intuition with precision.
 
 ## Why It Exists
 
@@ -57,7 +57,7 @@ A sequence is an ordered list of numbers: a₁, a₂, a₃, ... A sequence **con
 
 The formal definition: for every ε > 0 (epsilon, your margin of error), there exists an N such that for all n > N, |aₙ - L| < ε. This is the famous **epsilon-N definition** — the first real analysis concept most students encounter, and the one that makes many of them reconsider their career choices.
 
-The definition captures "getting arbitrarily close" without using the word "infinitely." It's entirely finite and logical. No hand-waving. No intuition required — just logic.
+The definition captures "getting arbitrarily close" without using the word "infinitely." It's entirely finite and logical. No hand-waving. No intuition required — just [logic](/logic).
 
 ### Continuity
 
@@ -94,8 +94,8 @@ If you're not a math major, why does real analysis matter?
 Because the concepts it formalizes — convergence, approximation, continuity, limiting behavior — show up everywhere:
 
 - **[Computer science](/computer-science)** uses convergence theory for algorithms that approximate solutions ([machine learning](/machine-learning), numerical methods)
-- **Physics** relies on analysis for [differential equations](/differential-equations), [quantum mechanics](/quantum-mechanics), and [general relativity](/genetics))
-- **Economics** uses analysis for [optimization](/optimization) theory and equilibrium analysis
+- **[Physics](/physics)** relies on analysis for [differential equations](/differential-equations), [quantum mechanics](/quantum-mechanics), and [general relativity](/genetics))
+- **[Economics](/economics)** uses analysis for [optimization](/optimization) theory and equilibrium analysis
 - **[Statistics](/statistics)** depends on convergence theorems (the Central Limit Theorem requires analysis to prove)
 - **[Engineering](/engineering)** uses approximation theory and Fourier analysis (both grounded in real analysis)
 

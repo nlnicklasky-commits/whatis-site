@@ -45,7 +45,7 @@ There's also a social dimension. Camping with family or friends creates shared e
 
 **Car camping** — You drive to a campground, park next to your campsite, and set up. Most popular type. Access to a vehicle means you can bring coolers, camp chairs, large tents, and comfort items. National and state park campgrounds, KOA campgrounds, and private campgrounds cater to car campers.
 
-**Backcountry camping** — Hiking into remote areas and camping where no developed sites exist. Requires carrying all gear, food, and water treatment. More physically demanding but offers solitude and immersion in wilderness. Permits are often required.
+**Backcountry camping** — [Hiking](/hiking) into remote areas and camping where no developed sites exist. Requires carrying all gear, food, and water treatment. More physically demanding but offers solitude and immersion in wilderness. Permits are often required.
 
 **RV camping** — Recreational vehicles (motorhomes, travel trailers, camper vans) provide mobile shelter with beds, kitchens, and sometimes bathrooms. RV parks offer hookups for [electricity](/electricity), water, and sewer. The RV industry generated over $28 billion in 2023.
 

@@ -51,7 +51,7 @@ A floatplane is a conventional airplane with its wheeled landing gear replaced b
 
 The floats are far more than simple hulls. Each float has a stepped bottom—a deliberate break in the hull profile about two-thirds of the way back. This step is critical for breaking the water's suction during takeoff. Without it, the float would hydroplane flat against the water surface indefinitely, never reaching flying speed. [Aerodynamics](/aerodynamics) principles and hydrodynamic design intersect in float [engineering](/engineering) in ways you wouldn't expect.
 
-Floats add significant drag and weight compared to wheels. A Cessna 172 on floats loses about 10-15 knots of cruise speed and a meaningful chunk of useful load compared to the wheeled version. Pilots accept this trade-off for the ability to land virtually anywhere there's suitable water.
+Floats add significant drag and weight compared to wheels. A Cessna 172 on floats loses about 10-15 knots of cruise speed and a meaningful chunk of useful load compared to the wheeled version. Pilots accept this [trade](/trade)-off for the ability to land virtually anywhere there's suitable water.
 
 ### Flying Boats
 
@@ -83,15 +83,15 @@ A seaplane on the water is simultaneously an aircraft and a boat, subject to bot
 
 ### Docking and Beaching
 
-Getting a seaplane to a dock, beach, or shore without damaging it, the dock, bystanders, or yourself is one of the trickiest skills in aviation. You have no brakes. The aircraft weighs 2,000-4,000 pounds. Wind is pushing you. Current is pulling you. And you need to arrive at walking speed with enough momentum to reach shore but not so much that you slam into the dock.
+Getting a seaplane to a dock, beach, or shore without damaging it, the dock, bystanders, or yourself is one of the trickiest skills in aviation. You have no brakes. The aircraft weighs 2,000-4,000 pounds. Wind is pushing you. Current is pulling you. And you need to arrive at [walking](/walking) speed with enough momentum to reach shore but not so much that you slam into the dock.
 
 Most seaplane pilots approach docks at idle power with the engine ready to add power instantly if needed. At the last moment, they shut down the engine and use momentum to coast in, stepping out onto a float to grab the dock with a line. In wind, this becomes a genuine boat-handling exercise—approaching from downwind, using judicious bursts of power, and sometimes using a paddle (yes, serious seaplane pilots carry a paddle).
 
-Beaching involves running the aircraft gently onto a sloping shore, then stepping out and pulling or securing it. Sandy or muddy beaches are preferred over rocky shores that can damage float keels. Some pilots carry small wheels that attach to the float heels for pulling the aircraft up a beach—essentially converting it to a hand-towed trailer.
+Beaching involves [running](/running) the aircraft gently onto a sloping shore, then stepping out and pulling or securing it. Sandy or muddy beaches are preferred over rocky shores that can damage float keels. Some pilots carry small wheels that attach to the float heels for pulling the aircraft up a beach—essentially converting it to a hand-towed trailer.
 
 ### Sailing
 
-Here's something unique to seaplanes: when the engine is off and the wind is blowing, a seaplane will sail. The tail acts as a sail, and the aircraft will drift downwind with the tail leading. Skilled pilots use this to their advantage—raising a float to increase wind catchment on one side, using the flight controls as air rudders, and literally sailing the aircraft to a dock or anchorage.
+Here's something unique to seaplanes: when the engine is off and the wind is blowing, a seaplane will sail. The tail acts as a sail, and the aircraft will drift downwind with the tail leading. Skilled pilots use this to their advantage—raising a float to increase wind catchment on one side, using the flight controls as air rudders, and literally [sailing](/sailing) the aircraft to a dock or anchorage.
 
 This isn't a novelty—it's a survival skill. If your engine quits on the water, you need to get somewhere, and sailing might be your only option.
 
@@ -133,7 +133,7 @@ The glassy water landing technique is counterintuitive: instead of a normal land
 
 ### Rough Water Landing
 
-In waves, you land into the wind (which aligns you with the waves) and touch down at the lowest speed that maintains control. You hold the nose high to keep the float bows from submarine-diving into a wave. The ride is bumpy—sometimes alarmingly so—but a controlled rough-water landing beats an uncontrolled encounter with waves at high speed.
+In waves, you land into the wind (which aligns you with the waves) and touch down at the lowest speed that maintains control. You hold the nose high to keep the float bows from submarine-[diving](/diving) into a wave. The ride is bumpy—sometimes alarmingly so—but a controlled rough-water landing beats an uncontrolled encounter with waves at high speed.
 
 ### Crosswind Landing
 

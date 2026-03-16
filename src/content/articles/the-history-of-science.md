@@ -37,7 +37,7 @@ And "discovered" is the right word. Science wasn't invented in one place by one 
 
 ## The Greeks: Asking Why Instead of Who
 
-Before the Greeks, people explained natural phenomena through mythology. Lightning was Zeus throwing bolts. Earthquakes were Poseidon shaking the ground. Floods were divine punishment. These explanations weren't stupid — they were intuitive attempts to make sense of a confusing world.
+Before the Greeks, people explained natural phenomena through [mythology](/mythology). Lightning was Zeus throwing bolts. Earthquakes were Poseidon shaking the ground. Floods were divine punishment. These explanations weren't stupid — they were intuitive attempts to make sense of a confusing world.
 
 The **pre-Socratic philosophers** (6th–5th century BCE) made the crucial break. **Thales of Miletus** (c. 624–546 BCE) proposed that everything is made of water. He was wrong, but the move was revolutionary: he looked for a natural explanation rather than a supernatural one.
 
@@ -45,7 +45,7 @@ The **pre-Socratic philosophers** (6th–5th century BCE) made the crucial break
 
 **Aristotle** (384–322 BCE) was the most systematic natural philosopher of the ancient world. He classified animals, studied embryonic development, analyzed the weather, and tried to understand motion and change. His approach emphasized careful observation but relied too heavily on deduction from first principles rather than experimentation. Aristotle's enormous authority meant that some of his errors — like the idea that heavier objects fall faster — weren't challenged for nearly two millennia.
 
-**Archimedes** (c. 287–212 BCE) came closer to modern science than almost any other ancient thinker. He combined [mathematical](/the-history-of-mathematics) rigor with physical investigation. His work on buoyancy, levers, and the calculation of areas and volumes was genuinely experimental in spirit. The famous "Eureka!" story about the bathtub is probably legendary, but his methods were real.
+**Archimedes** (c. 287–212 BCE) came closer to modern science than almost any other ancient thinker. He combined [mathematical](/the-history-of-[mathematics](/mathematics)) rigor with physical investigation. His work on buoyancy, levers, and the calculation of areas and volumes was genuinely experimental in spirit. The famous "Eureka!" story about the bathtub is probably legendary, but his methods were real.
 
 ## The Islamic Golden Age: Keeping the Flame Alive (and Adding Fuel)
 
@@ -55,7 +55,7 @@ After the fall of Rome, European science largely stalled. The Islamic world pick
 
 The real standout is **Ibn al-Haytham** (Alhazen, c. 965–1040). His *Book of Optics* didn't just describe how vision works (correctly overturning the Greek theory that eyes emit light rays). It introduced what we'd now recognize as the experimental method: formulate a hypothesis, design experiments to test it, analyze results, and submit findings to peer scrutiny. He did this 600 years before Francis Bacon.
 
-Islamic scholars also advanced astronomy, chemistry (al-chemistry, literally — the word comes from Arabic), and medicine. They translated and preserved Greek works that would otherwise have been lost. When European scholars "rediscovered" Aristotle in the 12th and 13th centuries, it was largely through Arabic translations.
+Islamic scholars also advanced [astronomy](/astronomy), [chemistry](/chemistry) (al-chemistry, literally — the word comes from Arabic), and medicine. They translated and preserved Greek works that would otherwise have been lost. When European scholars "rediscovered" Aristotle in the 12th and 13th centuries, it was largely through Arabic translations.
 
 ## Medieval Europe: Not Quite the Dark Ages
 
@@ -89,9 +89,9 @@ The 18th century applied Newton's methods across the sciences. **Carl Linnaeus**
 
 The 1800s produced scientific theories of staggering scope.
 
-**Charles Darwin** (1809–1882) and **Alfred Russel Wallace** independently arrived at the theory of evolution by natural selection. Darwin's *On the Origin of Species* (1859) explained the diversity of life without reference to a designer. It remains one of the most important books ever published — and one of the most controversial, despite being supported by overwhelming evidence from genetics, [paleontology](/paleontology), [comparative anatomy](/comparative-anatomy), and [molecular biology](/molecular-biology).
+**Charles Darwin** (1809–1882) and **Alfred Russel Wallace** independently arrived at the theory of evolution by natural selection. Darwin's *On the Origin of Species* (1859) explained the diversity of life without reference to a designer. It remains one of the most important books ever published — and one of the most controversial, despite being supported by overwhelming evidence from [genetics](/genetics), [paleontology](/paleontology), [comparative anatomy](/comparative-anatomy), and [molecular biology](/molecular-biology).
 
-**James Clerk Maxwell** (1831–1879) unified electricity, magnetism, and light into a single theoretical framework — Maxwell's equations. Einstein later called this "the most profound and the most fruitful that physics has experienced since the time of Newton."
+**James Clerk Maxwell** (1831–1879) unified electricity, [magnetism](/magnetism), and light into a single theoretical framework — Maxwell's equations. Einstein later called this "the most profound and the most fruitful that physics has experienced since the time of Newton."
 
 **Louis Pasteur** (1822–1895) and **Robert Koch** (1843–1910) established germ theory — the idea that microorganisms cause disease. This seems obvious now, but it was fiercely resisted. The discovery saved more lives than any other scientific finding in history.
 
@@ -101,7 +101,7 @@ The 1800s produced scientific theories of staggering scope.
 
 The 1900s saw science become both more powerful and more strange.
 
-**Albert Einstein** published special relativity in 1905 (energy equals mass times the speed of light squared) and [general relativity](/general-relativity) in 1915 (gravity is the curvature of spacetime caused by mass). Both theories have been confirmed to extraordinary precision.
+**Albert Einstein** published special [relativity](/relativity) in 1905 (energy equals mass times the speed of light squared) and [general relativity](/general-relativity) in 1915 (gravity is the curvature of spacetime caused by mass). Both theories have been confirmed to extraordinary precision.
 
 **[Quantum mechanics](/quantum-mechanics)**, developed by Planck, Bohr, Heisenberg, Schrodinger, Dirac, and others in the 1920s, described the subatomic world — and it was bizarre. Particles behave like waves. Observation affects outcomes. Electrons don't have definite positions until measured. Einstein himself never fully accepted it, famously saying "God does not play dice." He appears to have been wrong.
 
@@ -111,6 +111,6 @@ The 20th century also brought the dark side of scientific power: nuclear weapons
 
 ## Science Now and Next
 
-Today, science faces challenges its founders couldn't have imagined. The replication crisis reveals that many published findings can't be reproduced. The sheer cost of frontier research — particle accelerators, space telescopes, genome sequencing — creates funding dependencies. The gap between scientific consensus and public understanding on issues like climate change and vaccines is a genuine crisis.
+Today, science faces challenges its founders couldn't have imagined. The replication crisis reveals that many published findings can't be reproduced. The sheer cost of frontier research — particle accelerators, space telescopes, genome sequencing — creates funding dependencies. The gap between scientific consensus and public understanding on issues like [climate change](/climate-change) and vaccines is a genuine crisis.
 
 But the method itself — observe, hypothesize, test, revise — remains humanity's most reliable tool for understanding nature. Three thousand years of [intellectual history](/intellectual-history) have produced nothing better. And given the problems ahead — climate change, pandemic preparedness, energy production — we're going to need it more than ever.

@@ -41,9 +41,9 @@ Over 300 million people practice yoga worldwide. In the United States alone, rou
 
 ## A 5,000-Year-Old Practice (Give or Take)
 
-The word "yoga" comes from the Sanskrit root *yuj*, meaning "to yoke" or "to unite" — referring to the connection of mind, body, and spirit. Its origins stretch back thousands of years, though the exact timeline is debated.
+The word "yoga" comes from the [Sanskrit](/sanskrit) root *yuj*, meaning "to yoke" or "to unite" — referring to the connection of mind, body, and spirit. Its origins stretch back thousands of years, though the exact timeline is debated.
 
-The earliest references appear in the *Rigveda*, one of Hinduism's oldest sacred texts, composed between roughly 1500 and 1200 BCE. But yoga as a systematic practice was first codified in Patanjali's *Yoga Sutras*, written sometime between 200 BCE and 200 CE. Patanjali outlined an "eight-limbed path" (*Ashtanga*) that goes far beyond the physical poses most people associate with yoga:
+The earliest references appear in the *Rigveda*, one of [Hinduism](/hinduism)'s oldest sacred texts, composed between roughly 1500 and 1200 BCE. But yoga as a systematic practice was first codified in Patanjali's *Yoga Sutras*, written sometime between 200 BCE and 200 CE. Patanjali outlined an "eight-limbed path" (*Ashtanga*) that goes far beyond the physical poses most people associate with yoga:
 
 1. **Yamas** — ethical restraints (non-violence, truthfulness, etc.)
 2. **Niyamas** — personal observances (cleanliness, contentment, self-discipline)
@@ -110,7 +110,7 @@ What yoga probably doesn't do: cure cancer, reverse aging, or replace necessary 
 
 ## Getting Started Without Embarrassing Yourself
 
-If you've never done yoga, the prospect of walking into a studio full of people in expensive leggings who can touch their toes to their foreheads is... intimidating. Here's the practical stuff.
+If you've never done yoga, the prospect of [walking](/walking) into a studio full of people in expensive leggings who can touch their toes to their foreheads is... intimidating. Here's the practical stuff.
 
 **You don't need to be flexible.** This is the biggest myth. You don't need to be strong to start [strength training](/strength-training), and you don't need to be flexible to start yoga. Every pose can be modified.
 
@@ -128,7 +128,7 @@ If you've never done yoga, the prospect of walking into a studio full of people 
 
 ## The Uncomfortable Conversation: Cultural Appropriation
 
-Yoga's explosion in the West raises legitimate questions. A practice rooted in Hindu, Buddhist, and Jain spiritual traditions has been repackaged, secularized, and sold back to consumers by a predominantly white wellness industry. "Goat yoga" and "beer yoga" exist. Many practitioners know nothing about yoga's philosophical foundations.
+Yoga's explosion in the West raises legitimate questions. A practice rooted in Hindu, Buddhist, and Jain spiritual traditions has been repackaged, secularized, and sold back to consumers by a predominantly white [wellness](/wellness) industry. "Goat yoga" and "beer yoga" exist. Many practitioners know nothing about yoga's philosophical foundations.
 
 Indian scholars and practitioners have raised valid concerns. The Indian [government](/government) launched International Yoga Day (June 21, recognized by the UN since 2015) partly to reassert yoga's cultural origins. Some argue that separating yoga's physical practices from their spiritual context distorts and diminishes the tradition.
 

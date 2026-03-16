@@ -205,7 +205,7 @@ Several trends are reshaping how credit is managed.
 
 **Open banking** initiatives, particularly in Europe and the UK, allow credit managers to access customers' bank data (with permission) in real-time. This provides far richer insight into cash flow and financial health than traditional credit reports.
 
-**Embedded finance** integrates credit decisions directly into purchasing platforms. Rather than a separate credit application process, creditworthiness is assessed automatically at the point of sale based on data already in the system.
+**Embedded [finance](/finance)** integrates credit decisions directly into purchasing platforms. Rather than a separate credit application process, creditworthiness is assessed automatically at the point of sale based on data already in the system.
 
 **ESG considerations** are entering credit assessment. Companies with poor environmental or governance records may face higher credit risk as regulations tighten and consumer preferences shift. Some credit agencies now incorporate ESG scores into their ratings.
 

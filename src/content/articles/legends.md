@@ -81,7 +81,7 @@ Here's where legends get politically interesting. Nations actively use legends t
 
 Japan has the 47 Ronin. Serbia has the Kosovo legend. Mexico has La Llorona. Australia has Ned Kelly. These stories do real cultural work — they tell people who they are, what they value, and how they should behave.
 
-This isn't always benign. Legends can be weaponized. The "Lost Cause" mythology of the American Confederacy is a legend deliberately constructed to sanitize slavery and justify racial hierarchy. Understanding how legends function means understanding how they can be manipulated.
+This isn't always benign. Legends can be weaponized. The "Lost Cause" [mythology](/mythology) of the American Confederacy is a legend deliberately constructed to sanitize slavery and justify racial hierarchy. Understanding how legends function means understanding how they can be manipulated.
 
 ## Legends Today
 

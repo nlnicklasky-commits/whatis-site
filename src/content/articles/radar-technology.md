@@ -39,7 +39,7 @@ Radar -- Radio Detection And Ranging -- is a technology that uses electromagneti
 
 Radar is one of those technologies that operates so quietly in the background that most people never think about it. But it's everywhere. Air traffic control tracking every commercial flight. Weather services mapping approaching storms. Police measuring your speed on the highway. Ships navigating through fog. Military systems guarding airspace. Your car's adaptive cruise control maintaining safe following distance. Even the moisture sensor in your microwave oven uses a tiny radar.
 
-The technology was born in the chaos of [World War II](/world-war-ii), and it arguably did more to decide the outcome than any other single invention -- including the atomic bomb. Understanding radar means understanding a technology that shapes your daily life in ways you probably don't realize.
+The technology was born in the chaos of [World War II](/world-war-ii), and it arguably did more to decide the outcome than any other single [invention](/invention) -- including the atomic bomb. Understanding radar means understanding a technology that shapes your daily life in ways you probably don't realize.
 
 ## The Basic Principle: Echo Location
 
@@ -135,7 +135,7 @@ SAR creates high-resolution images of the ground from aircraft or satellites. As
 
 SAR applications include:
 
-- Topographic mapping (NASA's Shuttle Radar Topography Mission mapped 80% of Earth's land surface)
+- Topographic mapping (NASA's Shuttle Radar [Topography](/topography) Mission mapped 80% of Earth's land surface)
 - Sea ice monitoring in polar regions
 - Deforestation tracking in tropical forests
 - Ground subsidence detection (measuring millimeter-scale ground movements over cities)

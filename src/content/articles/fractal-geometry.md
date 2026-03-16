@@ -35,7 +35,7 @@ faq:
 
 # What Is Fractal Geometry?
 
-Fractal geometry is a branch of mathematics that studies shapes and structures exhibiting self-similarity — patterns that repeat at every level of magnification. Coined by mathematician Benoit Mandelbrot in 1975, the term "fractal" comes from the Latin word *fractus*, meaning broken or fragmented. Unlike classical Euclidean geometry, which deals with smooth lines and perfect circles, fractal geometry describes the rough, irregular shapes that actually dominate the natural world.
+Fractal [geometry](/geometry) is a branch of [mathematics](/mathematics) that studies shapes and structures exhibiting self-similarity — patterns that repeat at every level of magnification. Coined by mathematician Benoit Mandelbrot in 1975, the term "fractal" comes from the Latin word *fractus*, meaning broken or fragmented. Unlike classical Euclidean geometry, which deals with smooth lines and perfect circles, fractal geometry describes the rough, irregular shapes that actually dominate the natural world.
 
 ## Why Regular Geometry Falls Short
 
@@ -59,7 +59,7 @@ There are different flavors of this:
 
 **Quasi self-similarity** means the zoomed-in portions are approximately (but not perfectly) similar to the whole. The [Mandelbrot set](https://mathworld.wolfram.com/MandelbrotSet.html) does this — as you zoom in, you find small copies of the overall shape, but each copy has unique, new details around it.
 
-**Statistical self-similarity** means the statistical properties (not the exact shapes) repeat across scales. This is what you find in nature. A small section of coastline has similar roughness statistics to a large section, even though they're not identical shapes.
+**Statistical self-similarity** means the statistical properties (not the exact shapes) repeat across scales. This is what you find in nature. A small section of coastline has similar roughness [statistics](/statistics) to a large section, even though they're not identical shapes.
 
 That third type is the one that matters most in real-world applications. Nature doesn't produce perfect mathematical objects, but it produces patterns that fractal [mathematics](/applied-mathematics) can describe with stunning accuracy.
 
@@ -119,7 +119,7 @@ The coastline doesn't converge to a fixed length as your ruler shrinks. It keeps
 
 Look at a tree. The trunk splits into major branches. Those branches split into smaller branches. Those split into twigs. Twigs split into smaller twigs. The branching pattern is self-similar — each fork looks like a miniature version of the whole tree.
 
-This isn't coincidence. It's [biology](/biology) optimizing for resource distribution. A tree needs to deliver water and nutrients to every leaf while minimizing the total "plumbing" needed. Fractal branching turns out to be an incredibly efficient solution to this distribution problem. Your circulatory system uses the same strategy — arteries branch into arterioles, then capillaries, in a fractal pattern that delivers blood to every cell.
+This isn't coincidence. It's [biology](/biology) optimizing for resource distribution. A tree needs to deliver water and nutrients to every leaf while minimizing the total "[plumbing](/plumbing)" needed. Fractal branching turns out to be an incredibly efficient solution to this distribution problem. Your circulatory system uses the same strategy — arteries branch into arterioles, then capillaries, in a fractal pattern that delivers blood to every cell.
 
 ### Rivers and Drainage
 
@@ -145,13 +145,13 @@ This is the basis of fractal image compression. Michael Barnsley developed algor
 
 ### L-Systems and Plant Growth
 
-Aristid Lindenmayer invented L-systems in 1968 to model plant growth. An L-system is a string-rewriting grammar — you start with a seed string and apply replacement rules repeatedly. Map the resulting string to drawing instructions (move forward, turn left, turn right, push position, pop position), and you get astonishingly realistic plant structures.
+Aristid Lindenmayer invented L-systems in 1968 to model plant growth. An L-system is a string-rewriting [grammar](/grammar) — you start with a seed string and apply replacement rules repeatedly. Map the resulting string to [drawing](/drawing) instructions (move forward, turn left, turn right, push position, pop position), and you get astonishingly realistic plant structures.
 
 A simple L-system with two rules can generate a convincing fern. A slightly more complex one creates a realistic tree. Botanists use L-systems to study how genetic instructions produce the fractal branching patterns we see in real plants. [Algorithms](/algorithms) based on L-systems generate the vegetation in video games and movies.
 
 ### Strange Attractors and Chaos
 
-Fractal geometry and chaos theory are deeply intertwined. When you plot the long-term behavior of a chaotic system — say, the Lorenz equations that model atmospheric convection — the trajectories trace out a fractal shape called a strange attractor.
+Fractal geometry and [chaos theory](/chaos-theory) are deeply intertwined. When you plot the long-term behavior of a chaotic system — say, the Lorenz equations that model atmospheric convection — the trajectories trace out a fractal shape called a strange attractor.
 
 The Lorenz attractor looks like a butterfly's wings. It has a fractal dimension of about 2.06. The system never repeats exactly, but it stays on this fractal structure forever. This is chaos in action: deterministic (the equations have no randomness) but unpredictable (tiny differences in starting conditions lead to completely different paths on the attractor).
 
@@ -186,7 +186,7 @@ Your body is full of fractal structures — blood vessels, neurons, lung airways
 
 Fractal mathematics shows up in [digital signal processing](/digital-signal-processing) and [data analysis](/data-analysis). Many natural signals — seismic data, financial time series, network traffic, audio recordings — have fractal properties. Their power spectra follow power laws (the signature of self-similarity), and fractal-based methods often outperform traditional analysis for these signals.
 
-Wavelet transforms, now essential in signal processing and image compression (they're part of JPEG 2000), have deep connections to fractal theory. Both deal with information at multiple scales simultaneously.
+Wavelet transforms, now essential in [signal processing](/signal-processing) and image compression (they're part of JPEG 2000), have deep connections to fractal theory. Both deal with information at multiple scales simultaneously.
 
 ## Fractals and Finance
 
@@ -216,7 +216,7 @@ After thousands of iterations, the Sierpinski triangle emerges from what seems l
 
 The Mandelbrot set and Julia sets use escape-time [algorithms](/algorithms). For each point in the complex plane, iterate z = z² + c and check whether the sequence escapes (|z| > 2) or stays bounded. Color based on how many iterations it takes to escape. The boundary between escaping and bounded points is where the fractal structure lives.
 
-Modern GPU-accelerated renderers can generate Mandelbrot zooms in real time, diving deeper and deeper into the infinite fractal structure. Some of the deepest zooms calculated reach magnification factors of 10^2000 — a number so large it makes the size of the observable universe look like a rounding error.
+Modern GPU-accelerated renderers can generate Mandelbrot zooms in real time, [diving](/diving) deeper and deeper into the infinite fractal structure. Some of the deepest zooms calculated reach magnification factors of 10^2000 — a number so large it makes the size of the observable universe look like a rounding error.
 
 ### Random Fractal Landscapes
 
@@ -236,7 +236,7 @@ Either way, fractal geometry changed how we see the world. Before Mandelbrot, ro
 
 ## What Fractal Geometry Means for Other Fields
 
-Fractal thinking has spread far beyond mathematics. In [biology](/biology), researchers describe the fractal architecture of ecosystems, from individual organisms to entire biomes. In [data science](/data-science), fractal analysis characterizes everything from internet traffic to earthquake patterns. In architecture, designers use fractal scaling to create buildings that feel natural and harmonious — because, some researchers argue, our visual system is tuned to prefer fractal patterns with dimensions around 1.3 to 1.5.
+Fractal thinking has spread far beyond mathematics. In [biology](/biology), researchers describe the fractal [architecture](/architecture) of ecosystems, from individual organisms to entire biomes. In [data science](/data-science), fractal analysis characterizes everything from internet traffic to earthquake patterns. In architecture, designers use fractal scaling to create buildings that feel natural and harmonious — because, some researchers argue, our visual system is tuned to prefer fractal patterns with dimensions around 1.3 to 1.5.
 
 The deeper insight of fractal geometry isn't any particular formula or shape. It's the recognition that complexity can arise from simplicity through repetition. A few simple rules, applied recursively, generate infinite variety. That principle shows up everywhere — in [cellular automata](/cellular-automata), in genetic codes, in the structure of the universe itself.
 
@@ -246,6 +246,6 @@ Mandelbrot once said, "Clouds are not spheres, mountains are not cones, coastlin
 
 Fractal geometry studies self-similar shapes — patterns that repeat at every scale. Developed primarily by Benoit Mandelbrot in the 1970s and 1980s, it provides mathematical tools to describe the roughness and irregularity found throughout nature, from coastlines and mountains to blood vessels and galaxies.
 
-Fractals have non-integer dimensions, challenging our basic intuitions about space. They're generated by simple rules applied recursively, producing infinite complexity from finite instructions. And they've found practical applications in antenna design, medical imaging, computer graphics, financial modeling, and signal processing.
+Fractals have non-integer dimensions, challenging our basic intuitions about space. They're generated by simple rules applied recursively, producing infinite complexity from finite instructions. And they've found practical applications in antenna design, [medical imaging](/medical-imaging), computer graphics, [financial modeling](/financial-modeling), and signal processing.
 
 More than a branch of mathematics, fractal geometry is a way of seeing. It reveals the hidden order in apparent chaos and the infinite detail lurking in the everyday shapes around you.

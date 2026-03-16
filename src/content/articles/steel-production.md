@@ -73,7 +73,7 @@ The simplified [chemistry](/chemistry) is:
 
 Fe₂O₃ + 3CO → 2Fe + 3CO₂
 
-The reduced iron melts and trickles down through the coke bed, picking up about 4-5% carbon along the way. This liquid "pig iron" collects in the hearth at the bottom and is tapped out every few hours. It's called pig iron because the old casting molds branched off a central channel like piglets nursing from a sow.
+The reduced iron melts and trickles down through the coke bed, picking up about 4-5% carbon along the way. This liquid "pig iron" collects in the hearth at the bottom and is tapped out every few hours. It's called pig iron because the old casting molds branched off a central channel like piglets [nursing](/nursing) from a sow.
 
 A single large blast furnace produces about 10,000-13,000 tons of pig iron per day. It consumes enormous quantities of raw materials — roughly 1.5 tons of ore, 0.45 tons of coke, 0.25 tons of limestone, and 4 tons of air per ton of pig iron produced.
 
@@ -129,7 +129,7 @@ Solid steel from the caster is shaped into final products through rolling — pa
 
 **Cold rolling** happens at room temperature, producing thinner gauges with better surface finish and tighter tolerances. Cold-rolled steel is harder and stronger (due to work hardening) and is used for automotive body panels, appliances, and [construction](/civil-law)) applications where surface quality matters.
 
-Other forming processes include forging (shaping with compressive force), extrusion (pushing through a die), [drawing](/drawing) (pulling through a die to make wire), and tube making (welding a rolled strip or seamlessly piercing a solid billet).
+Other forming processes include [forging](/forging) (shaping with compressive force), extrusion (pushing through a die), [drawing](/drawing) (pulling through a die to make wire), and tube making ([welding](/welding) a rolled strip or seamlessly piercing a solid billet).
 
 ## Types of Steel
 
@@ -141,7 +141,7 @@ These contain just iron and carbon, with small amounts of manganese, silicon, an
 
 - **Low carbon steel** (0.05-0.25% C): Soft, ductile, easily welded. Used for car bodies, structural shapes, sheet metal, wire.
 - **Medium carbon steel** (0.25-0.60% C): Stronger, can be heat-treated. Used for gears, axles, rails, [structural engineering](/structural-engineering) components.
-- **High carbon steel** (0.60-1.00% C): Hard, wear-resistant. Used for springs, cutting tools, piano wire.
+- **High carbon steel** (0.60-1.00% C): Hard, wear-resistant. Used for [springs](/springs), cutting tools, [piano](/piano) wire.
 
 ### Alloy Steels
 
@@ -166,7 +166,7 @@ Stainless steels contain at least 10.5% chromium, which forms a self-healing oxi
 
 Steel production is responsible for about 7-9% of global CO₂ emissions — roughly 2.6 billion tons per year. The blast furnace process is the main culprit, because it fundamentally relies on carbon (coke) to both generate heat and reduce iron ore.
 
-Decarbonizing steel is one of the biggest challenges in the fight against climate change, and several approaches are being pursued.
+Decarbonizing steel is one of the biggest challenges in the fight against [climate change](/climate-change), and several approaches are being pursued.
 
 ### Hydrogen Direct Reduction
 

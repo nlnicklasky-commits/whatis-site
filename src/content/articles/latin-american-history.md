@@ -36,19 +36,19 @@ faq:
 # What Is Latin American History?
 Latin [American history](/american-history) is the study of the peoples, events, and forces that shaped the vast region stretching from Mexico through Central America, the Caribbean, and South America. It covers roughly 15,000 years of human experience — from the earliest migrations into the Western Hemisphere to the political and social movements of the 21st century.
 
-That's a staggering span of time and geography. And frankly, most people only know fragments of it. The Aztecs. The conquistadors. Maybe something about banana republics. But the full story is far richer — and more relevant to the modern world — than those scattered pieces suggest.
+That's a staggering span of time and [geography](/geography). And frankly, most people only know fragments of it. The Aztecs. The conquistadors. Maybe something about banana republics. But the full story is far richer — and more relevant to the modern world — than those scattered pieces suggest.
 
 ## Before Europe Arrived: Indigenous Civilizations
 
 Here's what most people miss about pre-Columbian Latin America: it wasn't some sparsely populated wilderness waiting to be "discovered." By 1491, the Americas held an estimated 50 to 100 million people. Cities in Mesoamerica rivaled European capitals in size and sophistication.
 
-The Olmec civilization, often called the "mother culture" of Mesoamerica, emerged around 1500 BCE along the Gulf Coast of Mexico. They developed early writing systems, built massive stone head sculptures, and created a calendar system that later civilizations would refine. The [archaeology](/archaeology) of Olmec sites continues to reshape what we know about early American societies.
+The Olmec civilization, often called the "mother culture" of Mesoamerica, emerged around 1500 BCE along the Gulf Coast of Mexico. They developed early [writing](/writing) systems, built massive stone head sculptures, and created a calendar system that later civilizations would refine. The [archaeology](/archaeology) of Olmec sites continues to reshape what we know about early American societies.
 
 The Maya — who flourished from roughly 250 CE to 900 CE — built cities with populations exceeding 100,000. They developed the most advanced writing system in the pre-Columbian Americas, created astonishingly accurate astronomical observations, and independently invented the concept of zero in [mathematics](/mathematics). Their decline remains one of history's genuinely puzzling questions.
 
 Then there were the Aztecs, who built Tenochtitlan — modern-day Mexico City — on an island in Lake Texcoco. When Hernan Cortes arrived in 1519, Tenochtitlan had around 200,000 residents. That made it larger than any city in Spain at the time.
 
-And in South America, the Inca Empire stretched over 2,500 miles along the Andes, governing roughly 12 million people without a written language. They used quipu — knotted strings — for record-keeping, built 25,000 miles of roads, and performed brain surgery with survival rates that would impress modern surgeons.
+And in South America, the Inca Empire stretched over 2,500 miles along the Andes, governing roughly 12 million people without a written language. They used quipu — knotted strings — for record-keeping, built 25,000 miles of roads, and performed brain [surgery](/surgery) with survival rates that would impress modern surgeons.
 
 ## The Colonial Period: Conquest and Its Consequences
 
@@ -68,7 +68,7 @@ The independence movements produced extraordinary figures. Simon Bolivar — the
 
 Haiti deserves special mention. In 1804, it became the first nation in Latin America to gain independence — and it did so through the only successful large-scale slave revolt in history. Toussaint Louverture and Jean-Jacques Dessalines led formerly enslaved people to defeat Napoleon's armies. The world's response? Decades of economic isolation and diplomatic punishment.
 
-Brazil took a different path entirely. When Napoleon's forces threatened Portugal, the entire Portuguese royal court fled to Rio de Janeiro. Prince Pedro, left behind as regent, declared Brazilian independence in 1822 — making Brazil one of the few countries to achieve independence through relatively peaceful means and as a monarchy rather than a republic.
+Brazil took a different path entirely. When Napoleon's forces threatened Portugal, the entire Portuguese royal court fled to Rio de Janeiro. Prince Pedro, left behind as regent, declared Brazilian independence in 1822 — making Brazil one of the few countries to achieve independence through relatively peaceful means and as a [monarchy](/monarchy) rather than a republic.
 
 ## The Turbulent Nineteenth Century
 
@@ -98,13 +98,13 @@ Latin America's [economic history](/economic-history) reads like a roller coaste
 
 The 1980s — known as the "Lost Decade" — saw crushing debt crises across the region. Countries that had borrowed heavily during the 1970s oil boom found themselves unable to repay when interest rates spiked. Mexico's near-default in 1982 triggered a region-wide crisis that set economic development back by years.
 
-The Washington Consensus of the 1990s pushed privatization, deregulation, and trade liberalization. Some countries saw growth; others saw increased inequality. Argentina's catastrophic economic collapse in 2001 — when the peso lost 75% of its value overnight — showed the limits of these policies.
+The Washington Consensus of the 1990s pushed privatization, deregulation, and [trade](/trade) liberalization. Some countries saw growth; others saw increased inequality. Argentina's catastrophic economic collapse in 2001 — when the peso lost 75% of its value overnight — showed the limits of these policies.
 
 The early 2000s brought the "Pink Tide," as left-leaning governments rose to power in Venezuela, Brazil, Bolivia, Ecuador, and elsewhere. They expanded social programs and reduced poverty — Brazil's Bolsa Familia lifted an estimated 36 million people out of extreme poverty. But dependence on commodity exports left these gains vulnerable when prices fell.
 
 ## Cultural Identity: The Blending of Worlds
 
-One of the most fascinating aspects of Latin American history is the cultural synthesis that emerged from the collision of indigenous, African, and European traditions. This isn't just academic — it shapes music, food, religion, [art](/circus-arts), and daily life across the region.
+One of the most fascinating aspects of Latin American history is the cultural synthesis that emerged from the collision of indigenous, African, and European traditions. This isn't just academic — it shapes music, food, [religion](/religion), [art](/circus-arts), and daily life across the region.
 
 Syncretic religions like Santeria (Cuba), Candomble (Brazil), and the veneration of indigenous saints in Mexico blend Catholic and African or indigenous spiritual traditions. Day of the Dead celebrations in Mexico weave pre-Columbian ancestor worship with Catholic All Saints' Day.
 
@@ -116,7 +116,7 @@ Music tells the story too. Samba, tango, salsa, cumbia, reggaeton — each genre
 
 Today, Latin America faces challenges that echo its history. Income inequality remains among the highest in the world — the richest 10% in the region earn roughly 22 times more than the poorest 10%. Drug trafficking and violence, driven partly by demand from the United States and Europe, have destabilized Mexico, Colombia, and Central America.
 
-Migration — both within and from the region — continues to reshape demographics and politics. Venezuela's economic and political crisis has displaced over 7 million people since 2014, creating one of the largest displacement crises in the world.
+Migration — both within and from the region — continues to reshape demographics and [politics](/politics). Venezuela's economic and political crisis has displaced over 7 million people since 2014, creating one of the largest displacement crises in the world.
 
 Indigenous rights movements have gained visibility. Bolivia elected its first indigenous president, Evo Morales, in 2006. Indigenous groups across the Amazon have organized against deforestation and resource extraction. These movements connect directly to [anthropology](/anthropology) and questions about cultural preservation.
 

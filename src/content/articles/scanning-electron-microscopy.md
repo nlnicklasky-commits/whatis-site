@@ -37,7 +37,7 @@ faq:
 
 # What Is Scanning [Electron Microscopy](/electron-microscopy)?
 
-Scanning electron microscopy (SEM) is an imaging technique that uses a focused beam of electrons to scan across a sample's surface, producing highly detailed images of its topography and composition at magnifications up to 500,000x and resolutions as fine as 1 nanometer. Unlike optical microscopes that use light and glass lenses, SEM uses electrons and electromagnetic lenses, bypassing the fundamental resolution limit of visible light (about 200 nanometers) and revealing a world of surface detail invisible to any conventional microscope.
+Scanning electron [microscopy](/microscopy) (SEM) is an imaging technique that uses a focused beam of electrons to scan across a sample's surface, producing highly detailed images of its [topography](/topography) and composition at magnifications up to 500,000x and resolutions as fine as 1 nanometer. Unlike optical microscopes that use light and glass lenses, SEM uses electrons and electromagnetic lenses, bypassing the fundamental resolution limit of visible light (about 200 nanometers) and revealing a world of surface detail invisible to any conventional microscope.
 
 Since its commercial introduction in 1965, SEM has become one of the most widely used analytical instruments in science and industry. There are an estimated 50,000+ SEMs operating worldwide, used in fields from [materials science](/chemistry) and semiconductor manufacturing to forensic investigation and art conservation.
 
@@ -49,7 +49,7 @@ Electrons, when accelerated through a voltage of 10-30 kilovolts (typical SEM op
 
 ## How SEM Actually Works
 
-The principle is straightforward even if the engineering is extraordinarily precise. An SEM generates a fine beam of electrons, focuses it to a tiny spot on the sample surface, and then rasters that spot across the surface in a grid pattern—like how an old CRT television painted an image line by line. At each point, the beam interacts with the sample and produces various signals that detectors collect. The intensity of these signals, mapped to each point in the scan pattern, creates the image.
+The principle is straightforward even if the [engineering](/engineering) is extraordinarily precise. An SEM generates a fine beam of electrons, focuses it to a tiny spot on the sample surface, and then rasters that spot across the surface in a grid pattern—like how an old CRT television painted an image line by line. At each point, the beam interacts with the sample and produces various signals that detectors collect. The intensity of these signals, mapped to each point in the scan pattern, creates the image.
 
 ### The Electron Gun
 
@@ -59,7 +59,7 @@ At the top of the SEM column sits the electron source. Three types are common:
 
 **Lanthanum hexaboride (LaB6) emitters** are brighter than tungsten—they produce more electrons from a smaller area. A small LaB6 crystal is heated to emission temperature. Better brightness means better resolution, but LaB6 emitters cost $500-$1,000 and are more sensitive to vacuum conditions.
 
-**Field emission guns (FEG)** are the high-performance option. A very sharp tungsten tip (radius less than 100 nm) in a strong electric field emits electrons through quantum tunneling. The source is incredibly small and bright, producing the finest beams and best resolution—typically 1-3 nm. Cold FEG sources operate at room temperature; Schottky FEG sources use moderate heating combined with field emission. These emitters last thousands of hours but require ultra-high vacuum (10^-9 Pa or better) and cost significantly more.
+**Field emission guns (FEG)** are the high-performance option. A very sharp tungsten tip (radius less than 100 nm) in a strong electric field emits electrons through quantum [tunneling](/tunneling). The source is incredibly small and bright, producing the finest beams and best resolution—typically 1-3 nm. Cold FEG sources operate at room temperature; Schottky FEG sources use moderate heating combined with field emission. These emitters last thousands of hours but require ultra-high vacuum (10^-9 Pa or better) and cost significantly more.
 
 The electron gun also includes a Wehnelt cylinder or extraction anode that shapes and accelerates the electrons, typically to energies of 0.5-30 keV.
 
@@ -121,7 +121,7 @@ This is the unglamorous but critically important part of SEM work. Garbage in, g
 
 ### Conductivity and Charging
 
-Here's a practical problem: the electron beam deposits charge on the sample surface. If the sample is electrically conductive (metals, most alloys), this charge dissipates through the ground connection. No problem. But if the sample is non-conductive (polymers, ceramics, biological tissue, most geological minerals), charge accumulates on the surface. This creates electric fields that deflect the beam and distort the image—bright streaks, image shift, and contrast anomalies that make the image useless.
+Here's a practical problem: the electron beam deposits charge on the sample surface. If the sample is electrically conductive (metals, most alloys), this charge dissipates through the ground connection. No problem. But if the sample is non-conductive (polymers, [ceramics](/ceramics), biological tissue, most geological minerals), charge accumulates on the surface. This creates electric fields that deflect the beam and distort the image—bright streaks, image shift, and contrast anomalies that make the image useless.
 
 The standard solution is coating the sample with a thin (5-20 nm) layer of conductive material. Gold and gold-palladium alloy are traditional choices—they're easy to deposit by sputter coating (a simple vacuum process) and produce excellent SE images. Carbon coating is preferred for samples that will undergo EDS analysis, because gold's X-ray peaks can interfere with elemental identification.
 
@@ -150,9 +150,9 @@ Focused ion beam (FIB) instruments can mill cross-sections directly into a sampl
 
 ### Semiconductor and Electronics Industry
 
-SEM is arguably the most critical analytical tool in semiconductor manufacturing. Every step of chip fabrication—lithography, etching, deposition, planarization—is monitored by SEM. Critical dimension SEM (CD-SEM) measures feature widths on patterned wafers with sub-nanometer precision. Defect review SEM locates and classifies microscopic defects that could cause chip failure.
+SEM is arguably the most critical analytical tool in semiconductor manufacturing. Every step of chip fabrication—[lithography](/lithography), etching, deposition, planarization—is monitored by SEM. Critical dimension SEM (CD-SEM) measures feature widths on patterned wafers with sub-nanometer precision. Defect review SEM locates and classifies microscopic defects that could cause chip failure.
 
-Modern logic chips have features as small as 3-5 nm. Only electron beam instruments can resolve these dimensions. The semiconductor industry operates tens of thousands of SEMs worldwide, many running 24/7 in automated inspection modes. [Digital signal processing](/digital-signal-processing) algorithms process SEM images to extract measurements and identify defects automatically.
+Modern [logic](/logic) chips have features as small as 3-5 nm. Only electron beam instruments can resolve these dimensions. The semiconductor industry operates tens of thousands of SEMs worldwide, many [running](/running) 24/7 in automated inspection modes. [Digital signal processing](/digital-signal-processing) algorithms process SEM images to extract measurements and identify defects automatically.
 
 ### [Materials Science](/materials-science) and Metallurgy
 
@@ -204,7 +204,7 @@ Modern SEMs increasingly incorporate machine learning for automated particle ana
 
 ### Correlative Microscopy
 
-Combining SEM with other techniques—confocal fluorescence microscopy, Raman spectroscopy, atomic force microscopy—on the same sample area provides complementary information that no single technique can deliver. Correlative platforms are becoming standard in advanced research facilities.
+Combining SEM with other techniques—confocal fluorescence microscopy, Raman [spectroscopy](/spectroscopy), atomic force microscopy—on the same sample area provides complementary information that no single technique can deliver. Correlative platforms are becoming standard in advanced research facilities.
 
 ### In-situ Experiments
 
@@ -212,7 +212,7 @@ Specialized stages allow samples to be heated, cooled, strained, or exposed to r
 
 ## Getting Access to SEM
 
-If you need SEM analysis, you don't necessarily need to buy one. University shared instrumentation facilities, government labs (many NIST facilities offer user programs), and commercial analytical service labs all provide SEM access. Typical rates for academic shared facilities are $30-$100 per hour for trained users and $100-$300 per hour for full-service analysis (the operator does everything).
+If you need SEM analysis, you don't necessarily need to buy one. University shared instrumentation facilities, [government](/government) labs (many NIST facilities offer user programs), and commercial analytical service labs all provide SEM access. Typical rates for academic shared facilities are $30-$100 per hour for trained users and $100-$300 per hour for full-service analysis (the operator does everything).
 
 For industrial quality control requiring frequent SEM use, a tabletop SEM may pay for itself in a year or two compared to outsourcing. The newer compact models are designed for operators without extensive microscopy training—automated column alignment, preset imaging conditions, and push-button operation make them practical for production environments.
 

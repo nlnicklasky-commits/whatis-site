@@ -53,7 +53,7 @@ Solar energy is the big one — both in terms of potential and recent growth. Th
 
 Solar panels use the photovoltaic effect to convert light directly into electricity. When photons hit a semiconductor material (typically silicon), they knock electrons loose, creating an electrical current. No moving parts. No combustion. No noise. Just photons hitting silicon and producing electricity.
 
-The basic physics were first demonstrated by Alexandre Edmond Becquerel in 1839, and the first practical silicon solar cell was created at Bell Labs in 1954 with an efficiency of about 6%. Modern commercial panels achieve 20-22% efficiency, and laboratory cells have exceeded 47% using multi-junction designs. The theoretical maximum for a single-junction silicon cell is about 33% (the Shockley-Queisser limit).
+The basic [physics](/physics) were first demonstrated by Alexandre Edmond Becquerel in 1839, and the first practical silicon solar cell was created at Bell Labs in 1954 with an efficiency of about 6%. Modern commercial panels achieve 20-22% efficiency, and laboratory cells have exceeded 47% using multi-junction designs. The theoretical maximum for a single-junction silicon cell is about 33% (the Shockley-Queisser limit).
 
 The cost trajectory has been astonishing. In 1976, solar panels cost about $106 per watt. By 2024, the cost had fallen to roughly $0.20 per watt — a 99.8% decline. This is arguably the most dramatic cost reduction in the history of energy technology. Solar electricity is now cheaper than coal or natural gas in most of the world, according to IRENA and Lazard analyses.
 
@@ -71,11 +71,11 @@ However, CSP requires direct sunlight (it does not work with diffuse light on cl
 
 The obvious problem: the sun does not shine at night, and clouds reduce output during the day. Solar generation peaks at midday and drops to zero after sunset — precisely when electricity demand often peaks (the "duck curve" in utility planning jargon).
 
-Solutions include [battery technology](/battery-technology) for short-duration storage (lithium-ion batteries can now store solar energy for evening use at increasingly competitive costs), pumped hydroelectric storage (pumping water uphill during sunny hours and releasing it through turbines later), demand shifting (running industrial loads during sunny hours), and geographic diversification through interconnected grids.
+Solutions include [battery technology](/battery-technology) for short-duration storage (lithium-ion batteries can now store solar energy for evening use at increasingly competitive costs), pumped hydroelectric storage (pumping water uphill during sunny hours and releasing it through turbines later), demand shifting ([running](/running) industrial loads during sunny hours), and geographic diversification through interconnected grids.
 
 ## Wind Energy: Harvesting Air Currents
 
-Wind energy converts the kinetic energy of moving air into electricity using turbines. Wind is caused by uneven solar heating of Earth's surface — air over warm areas rises, cooler air rushes in to fill the gap, and you get wind. So in a sense, wind power is indirect solar power.
+Wind energy converts the kinetic energy of moving air into electricity using turbines. Wind is caused by uneven solar heating of Earth's surface — air over warm areas rises, cooler air rushes in to fill the gap, and you get wind. So in a sense, [wind power](/wind-power) is indirect solar power.
 
 ### How Wind Turbines Work
 
@@ -89,7 +89,7 @@ Wind turbine power output scales with the cube of wind speed. Double the wind sp
 
 **Onshore wind** is the more mature and cheaper option. The U.S. had about 150 GW of onshore wind capacity by 2024. The best sites are in the Great Plains, where steady winds and available land make large-scale wind farms economical. Texas alone produces more wind energy than most countries.
 
-**Offshore wind** places turbines in ocean waters where winds are stronger and more consistent. Offshore wind costs more to install and maintain (saltwater, storms, and logistics of working at sea), but generates more energy per turbine. Europe leads in offshore wind, with the North Sea hosting massive wind farms. The U.S. offshore wind industry is growing rapidly, with projects off the coasts of Massachusetts, New York, and Virginia.
+**Offshore wind** places turbines in ocean waters where winds are stronger and more consistent. Offshore wind costs more to install and maintain (saltwater, storms, and [logistics](/logistics) of working at sea), but generates more energy per turbine. Europe leads in offshore wind, with the North Sea hosting massive wind farms. The U.S. offshore wind industry is growing rapidly, with projects off the coasts of Massachusetts, New York, and Virginia.
 
 Floating offshore turbines — anchored to the seabed by cables rather than fixed foundations — open up deep-water locations that were previously inaccessible. This technology could dramatically expand the ocean area available for wind development.
 
@@ -179,7 +179,7 @@ The levelized cost of energy (LCOE) — the total lifetime cost divided by total
 
 New solar and onshore wind are now cheaper than new coal almost everywhere and competitive with or cheaper than new natural gas in most markets. In many regions, building new renewables is cheaper than continuing to fuel existing coal plants.
 
-This cost advantage is the primary driver of renewable deployment. It is also why the energy transition, once dependent on [government](/government) mandates and subsidies, increasingly proceeds on market economics alone. Investors build renewable projects because they are profitable, not (just) because they are green.
+This cost advantage is the primary driver of renewable deployment. It is also why the energy transition, once dependent on [government](/government) mandates and subsidies, increasingly proceeds on market [economics](/economics) alone. Investors build renewable projects because they are profitable, not (just) because they are green.
 
 ## Jobs and Economic Impact
 
@@ -199,9 +199,9 @@ Renewables are not zero-impact. They have environmental footprints that deserve 
 
 **Wildlife**: Wind turbines kill an estimated 140,000-500,000 birds annually in the U.S. (though this is far fewer than the billions killed by cats, windows, and vehicles). Offshore wind development raises concerns about marine mammals. Hydropower's impact on fish populations is well-documented.
 
-**End-of-life**: Solar panels and wind turbine blades must eventually be decommissioned. Recycling infrastructure is developing but not yet mature. About 78 million metric tons of solar panels will reach end-of-life by 2050, creating both a waste challenge and a recycling opportunity.
+**End-of-life**: Solar panels and wind turbine blades must eventually be decommissioned. [Recycling](/recycling) infrastructure is developing but not yet mature. About 78 million metric tons of solar panels will reach end-of-life by 2050, creating both a waste challenge and a recycling opportunity.
 
-These impacts are real but must be weighed against the alternative. Fossil fuels cause air pollution that kills an estimated 8.7 million people annually, drive climate change that threatens ecosystems worldwide, and involve massive environmental damage from extraction (oil spills, mountaintop removal mining, fracking-induced seismicity). No energy source is without impact, but the impact per unit of energy from renewables is dramatically lower.
+These impacts are real but must be weighed against the alternative. Fossil fuels cause air pollution that kills an estimated 8.7 million people annually, drive [climate change](/climate-change) that threatens ecosystems worldwide, and involve massive environmental damage from extraction (oil spills, mountaintop removal mining, fracking-induced seismicity). No energy source is without impact, but the impact per unit of energy from renewables is dramatically lower.
 
 ## Key Takeaways
 

@@ -57,7 +57,7 @@ In an age of smartphones and DNA barcoding, why would anyone still stick pins th
 
 Physical specimens remain the gold standard for species identification and description. A photograph can't be dissected to examine genitalia (often the only way to distinguish closely related species). A DNA sample can't show wing venation patterns or the exact shade of a color pattern. Pressed, pinned, or alcohol-preserved specimens can be re-examined indefinitely as new identification techniques develop.
 
-The Smithsonian's National Museum of Natural History holds over 35 million insect specimens. The Natural History Museum in London has about 34 million. These collections are irreplaceable scientific resources — researchers use them to track species distributions over time, study the effects of climate change, identify agricultural pests, and discover new species.
+The Smithsonian's National Museum of Natural History holds over 35 million insect specimens. The Natural History Museum in London has about 34 million. These collections are irreplaceable scientific resources — researchers use them to track species distributions over time, study the effects of [climate change](/climate-change), identify agricultural pests, and discover new species.
 
 ### Biodiversity Monitoring
 
@@ -93,7 +93,7 @@ Sweep netting is probably the most productive general collecting method. Ten min
 
 Many nocturnal insects are attracted to light — moths especially, but also beetles, lacewings, caddisflies, and dozens of other groups. A basic light trap is just a bright light (mercury vapor or UV) hung in front of a white sheet. Insects land on the sheet, and you pick off what you want.
 
-Serious moth collectors use battery-powered UV lights with bucket traps that capture moths alive and unharmed. A single night of light trapping in a good location during summer can attract hundreds of species. The sheer diversity visible at a light trap on a warm June night is genuinely jaw-dropping.
+Serious moth collectors use battery-powered UV lights with bucket traps that capture moths alive and unharmed. A single night of light [trapping](/trapping) in a good location during summer can attract hundreds of species. The sheer diversity visible at a light trap on a warm June night is genuinely jaw-dropping.
 
 ### Pitfall Traps
 
@@ -103,7 +103,7 @@ For ground-dwelling insects — ground beetles, rove beetles, ants — pitfall t
 
 Named after Swedish entomologist Rene Malaise (not the English word), Malaise traps look like tents with an opening at the bottom. Flying insects enter, can't figure out how to leave, fly upward toward the light, and end up in a collecting bottle at the top. These traps run continuously and can collect thousands of specimens per week.
 
-Malaise traps have been instrumental in revealing insect diversity. A single Malaise trap running for a year in a tropical forest can capture tens of thousands of specimens representing hundreds of species — many of them undescribed.
+Malaise traps have been instrumental in revealing insect diversity. A single Malaise trap [running](/running) for a year in a tropical forest can capture tens of thousands of specimens representing hundreds of species — many of them undescribed.
 
 ### Specialized Techniques
 
@@ -123,7 +123,7 @@ Dried specimens that have stiffened can be relaxed in a humidity chamber (a seal
 
 ### Pinning
 
-The most iconic preservation method. Insect pins are specialized — thinner than sewing pins, made from stainless steel, and available in several sizes. The pin goes through the thorax (middle section) of the insect, positioned to the right of center so the left side is available for examination.
+The most iconic preservation method. Insect pins are specialized — thinner than [sewing](/sewing) pins, made from stainless steel, and available in several sizes. The pin goes through the thorax (middle section) of the insect, positioned to the right of center so the left side is available for examination.
 
 The insect is pushed about two-thirds of the way up the pin, leaving room below for labels. Small insects that would be destroyed by a pin are instead glued to a small triangular card (called a point) that's then placed on a pin.
 

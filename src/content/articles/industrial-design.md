@@ -35,7 +35,7 @@ faq:
 
 # What Is Industrial Design?
 
-Industrial design is the professional practice of designing products that are manufactured in quantity — shaping their form, function, usability, and visual appearance while considering manufacturing processes, materials, and business requirements. It bridges the gap between engineering capability and human experience, ensuring that mass-produced objects aren't just functional but also intuitive, comfortable, and appealing to use.
+Industrial design is the professional practice of designing products that are manufactured in quantity — shaping their form, function, usability, and visual appearance while considering manufacturing processes, materials, and business requirements. It bridges the gap between [engineering](/engineering) capability and human experience, ensuring that mass-produced objects aren't just functional but also intuitive, comfortable, and appealing to use.
 
 ## Everything Around You Was Designed
 
@@ -61,7 +61,7 @@ William Morris and the Arts and Crafts movement of the late 1800s reacted agains
 
 The Bauhaus school, founded in Weimar, Germany in 1919 by architect Walter Gropius, attempted something revolutionary: applying artistic design principles to industrial production. The goal was good design for everyone, not just the wealthy.
 
-Bauhaus designers like Marcel Breuer, Marianne Brandt, and Ludwig Mies van der Rohe created objects that were simultaneously functional, beautiful, and manufacturable. Breuer's tubular steel chairs, designed in 1925, are still in production nearly a century later. The Bauhaus philosophy — "form follows function," honest use of materials, minimal ornamentation — became the foundation of modern industrial design.
+Bauhaus designers like Marcel Breuer, Marianne Brandt, and Ludwig Mies van der Rohe created objects that were simultaneously functional, beautiful, and manufacturable. Breuer's tubular steel chairs, designed in 1925, are still in production nearly a century later. The Bauhaus [philosophy](/philosophy) — "form follows function," honest use of materials, minimal ornamentation — became the foundation of modern industrial design.
 
 When the Nazis closed the Bauhaus in 1933, its faculty scattered across the world, spreading Bauhaus ideas globally. László Moholy-Nagy founded the New Bauhaus (later the Institute of Design) in Chicago. Mies van der Rohe went to the Illinois Institute of Technology. Bauhaus principles became the default language of industrial design worldwide.
 
@@ -104,7 +104,7 @@ Ethnographic research — observing people in their natural environments — oft
 
 ### Ideation and Concept Development
 
-Once you understand the problem, you generate solutions. Lots of them. Sketching is the traditional tool — fast, loose drawings exploring dozens of form possibilities. Good industrial designers can sketch rapidly and expressively, communicating three-dimensional ideas on paper in seconds.
+Once you understand the problem, you generate solutions. Lots of them. [Sketching](/sketching) is the traditional tool — fast, loose drawings exploring dozens of form possibilities. Good industrial designers can sketch rapidly and expressively, communicating three-dimensional ideas on paper in seconds.
 
 Digital tools supplement sketching. CAD (Computer-Aided Design) software like SolidWorks, Rhino, and Fusion 360 — powered by sophisticated [algorithms](/algorithms) — allows precise 3D modeling. But most designers start on paper because digital tools are too precise too early — they encourage premature commitment to specific forms.
 
@@ -122,7 +122,7 @@ User testing with prototypes reveals problems that no amount of analysis can pre
 
 A beautiful design that can't be manufactured economically is worthless. Industrial designers must understand manufacturing processes — injection molding, die casting, stamping, CNC machining, extrusion — and design accordingly.
 
-Injection molding, the most common process for plastic products, imposes specific constraints: uniform wall thickness (to prevent sink marks and warping), draft angles (to allow parts to release from the mold), and avoidance of undercuts (geometry that prevents mold separation). A designer who ignores these constraints creates elegant concepts that become expensive nightmares in production.
+Injection molding, the most common process for plastic products, imposes specific constraints: uniform wall thickness (to prevent sink marks and warping), draft angles (to allow parts to release from the mold), and avoidance of undercuts ([geometry](/geometry) that prevents mold separation). A designer who ignores these constraints creates elegant concepts that become expensive nightmares in production.
 
 Material selection is equally critical. ABS plastic, polycarbonate, silicone, aluminum, stainless steel, wood, glass — each has different properties (strength, flexibility, heat resistance, tactile quality) and different manufacturing implications. The material choice affects not just function but feel: the cool smoothness of aluminum, the warm grain of wood, the soft give of silicone.
 
@@ -158,7 +158,7 @@ The uncomfortable truth about industrial design is that it drives consumption. D
 
 ### Design for Longevity
 
-One response: make things that last. Patagonia's "Buy Less" campaign is the most visible example, but the principle applies broadly. A well-designed cast iron skillet lasts generations. A well-designed chair lasts decades. Durability is a design choice — and choosing it reduces environmental impact more effectively than recycling programs.
+One response: make things that last. Patagonia's "Buy Less" campaign is the most visible example, but the principle applies broadly. A well-designed cast iron skillet lasts generations. A well-designed chair lasts decades. Durability is a design choice — and choosing it reduces environmental impact more effectively than [recycling](/recycling) programs.
 
 Emotional durability matters too. Products that users love and feel attached to last longer than products they're indifferent to. Design that creates emotional bonds — through beauty, personalization, or the development of patina over time — is environmental design in disguise.
 
@@ -174,7 +174,7 @@ The most ambitious sustainability framework — informed by [environmental scien
 
 The field has expanded far beyond physical [product design](/product-design). Industrial designers now work on service design, user experience design, design strategy, and design research roles. The core skills — understanding users, generating creative solutions, making things tangible, balancing competing requirements — apply across domains.
 
-Technology companies employ more industrial designers than ever. Apple, Google, Samsung, Microsoft, and Amazon all maintain large industrial design teams. Consumer electronics, medical devices, automotive interiors, sporting goods, furniture, appliances — virtually every category of manufactured product involves industrial designers.
+Technology companies employ more industrial designers than ever. Apple, Google, Samsung, Microsoft, and Amazon all maintain large industrial design teams. Consumer [electronics](/electronics), medical devices, automotive interiors, sporting goods, furniture, appliances — virtually every category of manufactured product involves industrial designers.
 
 The tools have changed dramatically. Generative design algorithms explore thousands of structural possibilities. [Virtual reality](/virtual-reality) allows designers to experience products at full scale before physical prototypes exist. AI assists with rendering, material selection, and manufacturing [optimization](/optimization).
 

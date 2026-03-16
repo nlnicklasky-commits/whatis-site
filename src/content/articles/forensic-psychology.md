@@ -37,11 +37,11 @@ faq:
 
 # What Is Forensic Psychology?
 
-Forensic psychology is the application of psychological science and clinical practice to questions and issues relating to law and the legal system. It encompasses the assessment, consultation, and treatment activities that forensic psychologists provide in legal contexts — from evaluating whether a criminal defendant is competent to stand trial to helping select jury members, from assessing the risk that a convicted offender will reoffend to providing expert testimony about the reliability of eyewitness memory.
+Forensic [psychology](/psychology) is the application of psychological science and clinical practice to questions and issues relating to law and the legal system. It encompasses the assessment, consultation, and treatment activities that forensic psychologists provide in legal contexts — from evaluating whether a criminal defendant is competent to stand trial to helping select jury members, from assessing the risk that a convicted offender will reoffend to providing expert testimony about the reliability of eyewitness memory.
 
 ## What Forensic Psychologists Actually Do
 
-Forget the Hollywood version — the brooding profiler who gets inside serial killers' heads. Real forensic psychology is mostly assessment work, report writing, and courtroom testimony. It's meticulous, heavily documented, and grounded in standardized methods. And it's far more varied than most people realize.
+Forget the Hollywood version — the brooding profiler who gets inside serial killers' heads. Real forensic psychology is mostly assessment work, report [writing](/writing), and courtroom testimony. It's meticulous, heavily documented, and grounded in standardized methods. And it's far more varied than most people realize.
 
 ### Competency Evaluations
 
@@ -87,7 +87,7 @@ Mock trials and focus groups are probably the most valuable trial consulting ser
 
 In contested custody cases, courts sometimes appoint a forensic psychologist to evaluate both parents and the child and provide recommendations about custody arrangements. These evaluations are among the most emotionally charged and professionally dangerous assignments in forensic psychology.
 
-The evaluator assesses each parent's psychological functioning, parenting capacity, and the quality of each parent-child relationship. They consider factors like [mental health](/mental-health), substance use, domestic violence history, each parent's ability to support the child's relationship with the other parent, and the child's own preferences and needs.
+The evaluator assesses each parent's psychological functioning, [parenting](/parenting) capacity, and the quality of each parent-child relationship. They consider factors like [mental health](/mental-health), substance use, domestic violence history, each parent's ability to support the child's relationship with the other parent, and the child's own preferences and needs.
 
 The challenge is that both parents are highly motivated to present themselves favorably and may coach their children. The evaluator must see through these presentations using multiple sources of information: clinical interviews, psychological testing, behavioral observations of parent-child interaction, collateral contacts (teachers, pediatricians, family members), and review of records.
 
@@ -97,13 +97,13 @@ These evaluations are frequently challenged in court, and the psychologist must 
 
 Forensic psychologists work with law enforcement in several capacities.
 
-**Pre-employment screening** evaluates whether police candidates have the psychological fitness for the job. This typically includes personality testing (the MMPI-2 or MMPI-3 is nearly universal), a clinical interview, and review of background information. The goal is identifying candidates whose psychological characteristics might impair their ability to perform safely and effectively.
+**Pre-employment screening** evaluates whether police candidates have the psychological [fitness](/fitness) for the job. This typically includes personality testing (the MMPI-2 or MMPI-3 is nearly universal), a clinical interview, and review of background information. The goal is identifying candidates whose psychological characteristics might impair their ability to perform safely and effectively.
 
 **Fitness-for-duty evaluations** assess whether an officer currently serving can continue to perform their duties safely. These are triggered by specific concerns — an officer involved in a critical incident, one showing signs of substance abuse or psychological distress, or one whose behavior has raised concerns about judgment or stability.
 
 **Crisis [negotiation](/negotiation) support** applies psychological principles to hostage situations, barricaded subjects, and suicidal individuals. Forensic psychologists train negotiators in active listening, rapport building, and de-escalation techniques.
 
-**Officer wellness programs** address the psychological toll of police work. Law enforcement officers have elevated rates of depression, PTSD, substance abuse, and suicide compared to the general population. Forensic psychologists develop and deliver mental health support programs.
+**Officer [wellness](/wellness) programs** address the psychological toll of police work. Law enforcement officers have elevated rates of depression, PTSD, substance abuse, and suicide compared to the general population. Forensic psychologists develop and deliver mental health support programs.
 
 ## The Science Behind the Practice
 

@@ -36,19 +36,19 @@ faq:
 # What Is Architectural History?
 Architectural history is the study of buildings and built environments across time, examining how structures were designed, constructed, used, and understood within their cultural, social, and technological contexts. It treats buildings not just as functional objects but as expressions of the societies that created them.
 
-Every building tells a story. A medieval cathedral tells you about religious devotion, engineering ambition, and community wealth. A suburban ranch house tells you about postwar American values, automobile culture, and mass production. Architectural historians read these stories — and the good ones find meanings that aren't obvious at first glance.
+Every building tells a story. A medieval cathedral tells you about religious devotion, [engineering](/engineering) ambition, and community wealth. A suburban ranch house tells you about postwar American values, automobile culture, and mass production. Architectural historians read these stories — and the good ones find meanings that aren't obvious at first glance.
 
 ## What Architectural Historians Actually Study
 
-The discipline goes far beyond "this is Gothic, that is Baroque." Architectural historians ask harder questions. Why did a particular style emerge when it did? Whose interests did a building serve? How did available materials and construction technology shape what was possible? What did a building mean to the people who used it — not just the architect who designed it?
+The discipline goes far beyond "this is Gothic, that is Baroque." Architectural historians ask harder questions. Why did a particular style emerge when it did? Whose interests did a building serve? How did available materials and [construction](/construction) technology shape what was possible? What did a building mean to the people who used it — not just the architect who designed it?
 
-This means architectural history draws on [anthropology](/anthropology), economics, engineering, art theory, and political analysis. A study of Versailles isn't just about classical columns and garden geometry. It's about Louis XIV centralizing French political power by literally housing the aristocracy under his roof. A study of public housing projects examines urban policy, racial segregation, [structural engineering](/structural-engineering), and the gap between design intentions and lived reality.
+This means architectural history draws on [anthropology](/anthropology), [economics](/economics), engineering, art theory, and political analysis. A study of Versailles isn't just about classical columns and garden [geometry](/geometry). It's about Louis XIV centralizing French political power by literally housing the aristocracy under his roof. A study of public housing projects examines urban policy, racial segregation, [structural engineering](/structural-engineering), and the gap between design intentions and lived reality.
 
-The field has expanded significantly since the mid-20th century. Earlier architectural history focused almost exclusively on great buildings by famous architects — cathedrals, palaces, monuments. Contemporary scholarship also examines vernacular architecture (ordinary buildings by anonymous builders), landscapes, urban planning, interior spaces, and structures in non-Western traditions that were previously ignored.
+The field has expanded significantly since the mid-20th century. Earlier architectural history focused almost exclusively on great buildings by famous architects — cathedrals, palaces, monuments. Contemporary scholarship also examines vernacular [architecture](/architecture) (ordinary buildings by anonymous builders), landscapes, urban planning, interior spaces, and structures in non-Western traditions that were previously ignored.
 
 ## Ancient Foundations
 
-Architecture begins wherever humans start shaping their environment deliberately. The earliest known permanent structures date back roughly 12,000 years — stone walls, communal buildings, and eventually temples at sites like Gobekli Tepe in modern Turkey, which predates agriculture. People were building monumental structures before they were farming. That's a striking fact about human priorities.
+Architecture begins wherever humans start shaping their environment deliberately. The earliest known permanent structures date back roughly 12,000 years — stone walls, communal buildings, and eventually temples at sites like Gobekli Tepe in modern Turkey, which predates [agriculture](/agriculture). People were building monumental structures before they were [farming](/farming). That's a striking fact about human priorities.
 
 Egyptian architecture set early standards for monumental construction. The Great Pyramid at Giza, built around 2560 BCE, required an estimated 2.3 million stone blocks averaging 2.5 tons each. The precision is almost absurd — the base is level to within 2.1 centimeters across 230 meters. Egyptian builders understood geometry, material properties, and labor organization at a level that still impresses engineers.
 
@@ -74,9 +74,9 @@ The Renaissance (roughly 1400–1600) brought a self-conscious return to classic
 
 Brunelleschi's dome over Florence Cathedral (completed 1436) was a engineering triumph — he invented new construction methods to span the 42-meter opening without temporary wooden supports. Palladio's villas in the Veneto region established a template for elegant country houses that influenced architecture from Virginia plantations to English estates.
 
-The Baroque era (roughly 1600–1750) kept classical vocabulary but cranked up the drama. Curved walls, theatrical lighting, elaborate decoration, and spatial complexity created buildings designed to overwhelm the senses. Bernini's colonnade at St. Peter's Square literally embraces visitors in curved arms of columns. Baroque architecture was propagandistic — the Catholic Church and absolute monarchs used it to project power and inspire devotion.
+The Baroque era (roughly 1600–1750) kept classical vocabulary but cranked up the [drama](/drama). Curved walls, theatrical lighting, elaborate decoration, and spatial complexity created buildings designed to overwhelm the senses. Bernini's colonnade at St. Peter's Square literally embraces visitors in curved arms of columns. Baroque architecture was propagandistic — the Catholic Church and absolute monarchs used it to project power and inspire devotion.
 
-Neoclassicism (roughly 1750–1850) pulled back toward restraint. Inspired by new archaeological discoveries at Pompeii and Herculaneum, architects returned to Greek and Roman models with greater historical accuracy. Government buildings, banks, and museums adopted classical facades to project stability, authority, and democratic values. The U.S. Capitol, the British Museum, the Brandenburg Gate — all speak in neoclassical language.
+[Neoclassicism](/neoclassicism) (roughly 1750–1850) pulled back toward restraint. Inspired by new archaeological discoveries at Pompeii and Herculaneum, architects returned to Greek and Roman models with greater historical accuracy. Government buildings, banks, and museums adopted classical facades to project stability, authority, and democratic values. The U.S. Capitol, the British Museum, the Brandenburg Gate — all speak in neoclassical language.
 
 ## The Industrial Revolution and Modern Architecture
 
@@ -88,7 +88,7 @@ The Chicago School of the 1880s–1890s developed the steel-frame skyscraper. Lo
 
 European Modernism in the early 20th century — Le Corbusier, Mies van der Rohe, Walter Gropius — pursued a radical break from historical styles. They used concrete, steel, and glass to create buildings stripped of ornament. Flat roofs, open floor plans, white walls, ribbon windows. "Less is more," said Mies. Buildings should be machines for living, said Le Corbusier.
 
-Modernism's impact was enormous and controversial. International Style buildings spread across every continent after World War II. Corporate towers, government offices, and public housing all adopted modernist principles — sometimes brilliantly, sometimes disastrously. The Pruitt-Igoe housing project in St. Louis (built 1954, demolished 1972) became a symbol of modernist [urban planning's](/urban-planning) failures.
+Modernism's impact was enormous and controversial. International Style buildings spread across every continent after [World War II](/world-war-ii). Corporate towers, [government](/government) offices, and public housing all adopted modernist principles — sometimes brilliantly, sometimes disastrously. The Pruitt-Igoe housing project in St. Louis (built 1954, demolished 1972) became a symbol of modernist [urban planning's](/urban-planning) failures.
 
 ## Postmodernism and Beyond
 
@@ -104,7 +104,7 @@ Architectural historians use diverse methods. Archival research uncovers drawing
 
 More recent approaches draw on cultural theory, gender studies, postcolonial criticism, and environmental history. Who was excluded from certain spaces? How did colonial powers impose architectural styles on colonized peoples? What [environmental](/climatology) costs did construction impose?
 
-Digital tools are expanding what's possible. 3D scanning and photogrammetry create precise digital models of historic buildings. Geographic information systems map urban development over time. Virtual reality lets researchers experience buildings that no longer exist.
+Digital tools are expanding what's possible. 3D scanning and photogrammetry create precise digital models of historic buildings. Geographic [information systems](/information-systems) map [urban development](/urban-development) over time. [Virtual reality](/virtual-reality) lets researchers experience buildings that no longer exist.
 
 ## Preservation: Where History Meets Practice
 

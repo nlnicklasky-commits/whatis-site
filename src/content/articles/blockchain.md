@@ -73,7 +73,7 @@ Here's the thorny problem blockchain solves: How do thousands of independent com
 
 **Proof of Work (PoW)** is Bitcoin's answer. Miners compete to solve complex mathematical puzzles. The first to solve it gets to add the next block and earns a reward. Everyone else verifies the solution (which is easy) and updates their copy of the ledger. This process—repeating across thousands of blocks, with massive computational effort behind each one—makes rewriting history impractically expensive.
 
-**Proof of Stake (PoS)** is newer and more energy-efficient. Instead of solving puzzles, validators put up collateral (they "stake" their own cryptocurrency). If they validate blocks honestly, they earn rewards. If they cheat, they lose their stake. This creates an economic incentive for honesty without requiring the energy-intensive computation of PoW.
+**Proof of Stake (PoS)** is newer and more energy-efficient. Instead of solving puzzles, validators put up collateral (they "stake" their own [cryptocurrency](/cryptocurrency)). If they validate blocks honestly, they earn rewards. If they cheat, they lose their stake. This creates an economic incentive for honesty without requiring the energy-intensive computation of PoW.
 
 Other consensus mechanisms exist—Proof of Authority, Proof of History, Proof of Elapsed Time—each making different tradeoffs between decentralization, speed, and security.
 
@@ -97,7 +97,7 @@ This matters tremendously in countries with unstable currencies or limited banki
 
 Ethereum introduced smart-contracts—code that lives on the blockchain and executes automatically when conditions are met. Imagine a vending machine: you insert money (condition), the machine delivers snacks (execution). Smart contracts work similarly but for complex agreements.
 
-A farmer could create a smart contract that automatically pays their insurance claim if rainfall falls below a certain level—no paperwork, no claims processing, instant execution. An artist could embed a royalty smart contract in a digital artwork so they automatically receive a percentage every time it's resold. A supply chain company could trigger automatic payments when goods arrive at specific locations.
+A farmer could create a smart contract that automatically pays their [insurance](/insurance) claim if rainfall falls below a certain level—no paperwork, no claims processing, instant execution. An artist could embed a royalty smart contract in a digital artwork so they automatically receive a percentage every time it's resold. A supply chain company could trigger automatic payments when goods arrive at specific locations.
 
 This eliminates the need for lawyers, brokers, and other intermediaries in countless scenarios.
 
@@ -195,7 +195,7 @@ Here's the real question: does blockchain matter to your life?
 
 If you're interested in [cryptocurrency](/cryptography), the answer is yes—you need to understand the technology underlying digital assets.
 
-If you're in supply chain, healthcare, finance, or any industry where multiple parties need to agree on shared records, blockchain deserves serious investigation.
+If you're in supply chain, healthcare, [finance](/finance), or any industry where multiple parties need to agree on shared records, blockchain deserves serious investigation.
 
 If you're just an ordinary person who doesn't use [cryptocurrency](/cryptography) and your institutions work fine, blockchain probably won't directly impact your life for years—if ever. Many problems are already solved well by existing systems. Blockchain isn't always an improvement.
 

@@ -43,7 +43,7 @@ But here's the thing: even this "simple" technology required planning, understan
 
 Progress was glacially slow. The basic Oldowan toolkit — simple choppers and flakes — remained essentially unchanged for over a million years. The **Acheulean hand axe**, a teardrop-shaped bifacial tool, appeared around 1.76 million years ago and persisted with only gradual refinements until about 100,000 years ago. That's a single tool design lasting longer than most geological periods.
 
-**Fire** was the first technology that fundamentally changed what humans could do. Evidence of controlled fire use dates to at least 400,000 years ago, possibly much earlier. Cooking made food safer and more nutritious. Warmth extended habitable range into colder climates. Light extended the usable day. Anthropologist Richard Wrangham argues that cooking literally made us human — the extra calories from cooked food fueled the evolution of larger brains.
+**Fire** was the first technology that fundamentally changed what humans could do. Evidence of controlled fire use dates to at least 400,000 years ago, possibly much earlier. [Cooking](/cooking) made food safer and more nutritious. Warmth extended habitable range into colder climates. Light extended the usable day. Anthropologist Richard Wrangham argues that cooking literally made us human — the extra calories from cooked food fueled the evolution of larger brains.
 
 ## The Neolithic Revolution: Everything Changes
 
@@ -55,11 +55,11 @@ This cascade — agriculture to surplus to specialization to cities — happened
 
 ## Bronze, Iron, and the Metal Ages
 
-**Copper** was the first metal humans worked, around 7000 BCE. But copper is soft. Around 3300 BCE, someone in the Near East figured out that adding tin to copper produces **bronze** — harder, more durable, and capable of holding a sharper edge. Bronze tools and weapons were expensive, which concentrated power in the hands of elites who controlled tin trade routes.
+**Copper** was the first metal humans worked, around 7000 BCE. But copper is soft. Around 3300 BCE, someone in the Near East figured out that adding tin to copper produces **bronze** — harder, more durable, and capable of holding a sharper edge. Bronze tools and weapons were expensive, which concentrated power in the hands of elites who controlled tin [trade](/trade) routes.
 
 **Iron** working, developed around 1200 BCE, was eventually more democratic. Iron ore is far more common than tin, making iron tools cheaper and more widely available. The Hittites were early adopters, but iron technology spread across Eurasia and Africa over several centuries.
 
-The transition from bronze to iron coincided with (and partly caused) the mysterious **Bronze Age Collapse** around 1177 BCE, when nearly every major civilization in the eastern Mediterranean collapsed within a few decades. Trade networks broke down, cities were destroyed, writing systems were lost. The causes are debated — drought, invasion, earthquakes, systems failure — but the disruption of tin supply networks certainly played a role.
+The transition from bronze to iron coincided with (and partly caused) the mysterious **Bronze Age Collapse** around 1177 BCE, when nearly every major civilization in the eastern Mediterranean collapsed within a few decades. Trade networks broke down, cities were destroyed, [writing](/writing) systems were lost. The causes are debated — drought, invasion, earthquakes, systems failure — but the disruption of tin supply networks certainly played a role.
 
 ## Writing, Printing, and the Information Revolutions
 
@@ -87,7 +87,7 @@ The 20th century's defining technology was the **transistor**, invented at Bell 
 
 **Integrated circuits** (Jack Kilby and Robert Noyce, 1958–1959) put multiple transistors on a single chip. **Moore's Law** — the observation that transistor density doubles roughly every two years — held for over five decades, driving exponential growth in computing power. A modern smartphone has more computing power than all of NASA in 1969.
 
-The **internet** began as ARPANET in 1969, a Department of Defense project connecting university computers. Tim Berners-Lee invented the **World Wide Web** in 1989. The first web browser appeared in 1991. Within 15 years, the internet had transformed commerce, communication, entertainment, politics, and social relationships in ways that nobody predicted accurately.
+The **internet** began as ARPANET in 1969, a Department of Defense project connecting university computers. Tim Berners-Lee invented the **World Wide Web** in 1989. The first web browser appeared in 1991. Within 15 years, the internet had transformed commerce, communication, entertainment, [politics](/politics), and social relationships in ways that nobody predicted accurately.
 
 **Mobile phones** went from expensive bricks in the 1980s to pocket supercomputers carried by 6.8 billion people. The smartphone (iPhone, 2007) merged phone, camera, GPS, music player, web browser, and countless other tools into a single device. It's probably the most rapidly adopted technology in human history.
 
@@ -95,7 +95,7 @@ The **internet** began as ARPANET in 1969, a Department of Defense project conne
 
 **[Artificial intelligence](/artificial-intelligence)** moved from [science fiction](/science-fiction) to practical reality in the 2010s and 2020s. [Machine learning](/machine-learning) systems now translate languages, diagnose diseases, drive cars (imperfectly), generate images, and produce human-like text. The pace of AI development is genuinely unprecedented — capabilities that experts predicted would take decades appeared in years.
 
-Whether AI represents just another powerful tool or something qualitatively different — a technology that can improve *itself* — is the defining question of our era. The optimists see solutions to climate change, disease, and poverty. The pessimists see job displacement, surveillance, manipulation, and risks we haven't imagined yet.
+Whether AI represents just another powerful tool or something qualitatively different — a technology that can improve *itself* — is the defining question of our era. The optimists see solutions to [climate change](/climate-change), disease, and poverty. The pessimists see job displacement, surveillance, manipulation, and risks we haven't imagined yet.
 
 What's consistent across 3.3 million years of technology history is this: every major tool creates new possibilities *and* new problems. Fire warmed us and burned forests. Agriculture fed cities and created famine-vulnerable monocultures. Fossil fuels powered industry and changed the climate. The technology itself is neutral. What we do with it never is.
 

@@ -84,7 +84,7 @@ This isn't to say you made the wrong choice—you might not have. But recognizin
 
 ## The Connection to [Behavioral-Economics](/behavioral-economics)
 
-Behavioral economists have spent decades studying how cognitive biases affect financial choices. Traditional [economic theory](/economic-theory) assumes people make perfectly rational decisions in their own self-interest. Research in behavioral economics proves this assumption is nonsense.
+Behavioral economists have spent decades studying how cognitive biases affect financial choices. Traditional [economic theory](/economic-theory) assumes people make perfectly rational decisions in their own self-interest. Research in behavioral [economics](/economics) proves this assumption is nonsense.
 
 People hold losing stocks too long (sunk cost fallacy and loss aversion), buy [insurance](/insurance) against unlikely events (availability bias), spend more freely with credit cards than cash (mental [accounting](/accounting)), and overweight recent performance when selecting investment funds (recency bias). Markets themselves become biased—stock prices rise excessively after good news (overconfidence) and fall excessively after bad news (pessimism bias).
 

@@ -42,11 +42,11 @@ The weird part is that the Celts never called themselves "Celts." That label com
 
 One of the trickiest things about Celtic history is figuring out who, exactly, we're talking about. The Celts didn't build monumental structures with inscriptions. They didn't have a [writing](/writing) system until relatively late. Most of what we know about early Celts comes from three sources: [archaeology](/archaeology), the writings of Greek and Roman observers, and later medieval Irish and Welsh texts.
 
-Archaeologists identify two major Celtic cultural periods. The Hallstatt culture (roughly 800–450 BCE), centered in what is now Austria, represents the earlier phase. It was characterized by iron-working technology, elaborate burial practices, and long-distance trade connections. Salt mining at Hallstatt itself was so productive that the site gives this entire cultural period its name.
+Archaeologists identify two major Celtic cultural periods. The Hallstatt culture (roughly 800–450 BCE), centered in what is now Austria, represents the earlier phase. It was characterized by iron-working technology, elaborate burial practices, and long-distance [trade](/trade) connections. Salt mining at Hallstatt itself was so productive that the site gives this entire cultural period its name.
 
 The La Tene culture (roughly 450–50 BCE), named after a site in Switzerland, represents the later, more recognizable phase of Celtic civilization. La Tene art — with its flowing curves, spirals, and stylized animal forms — is what most people picture when they think "Celtic." This artistic style spread across a huge territory and is genuinely stunning. The Celts were extraordinary metalworkers, creating jewelry, weapons, and decorative objects that rival anything produced in the Mediterranean world.
 
-But here's the debate that keeps scholars arguing: does sharing an art style or language make people "the same"? [Anthropologists](/anthropology) increasingly caution against treating "the Celts" as a single ethnic group. Cultural practices spread through trade, migration, and imitation. A tribe in Gaul and a tribe in Ireland might both speak Celtic languages and use La Tene art styles without having any direct connection or shared identity.
+But here's the [debate](/debate) that keeps scholars arguing: does sharing an art style or language make people "the same"? [Anthropologists](/anthropology) increasingly caution against treating "the Celts" as a single ethnic group. Cultural practices spread through trade, migration, and imitation. A tribe in Gaul and a tribe in Ireland might both speak Celtic languages and use La Tene art styles without having any direct connection or shared identity.
 
 ## The Celtic World at Its Peak
 

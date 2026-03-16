@@ -35,7 +35,7 @@ faq:
 
 # What Is Cloud Computing?
 
-Cloud computing is the delivery of computing resources—servers, storage, databases, networking, software, and analytics—over the internet on an on-demand, pay-as-you-go basis. Instead of buying and maintaining physical hardware, organizations rent computing capacity from cloud providers like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform. As of 2024, global spending on cloud services exceeds $590 billion annually, and an estimated 94% of enterprises use at least one cloud service.
+Cloud computing is the delivery of computing resources—servers, storage, databases, [networking](/networking), software, and analytics—over the internet on an on-demand, pay-as-you-go basis. Instead of buying and maintaining physical hardware, organizations rent computing capacity from cloud providers like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform. As of 2024, global spending on cloud services exceeds $590 billion annually, and an estimated 94% of enterprises use at least one cloud service.
 
 ## The Basic Idea: Computing as a Utility
 
@@ -67,7 +67,7 @@ PaaS adds a layer of managed infrastructure on top of IaaS. The cloud provider h
 
 Think of it as renting a furnished office. The desks, chairs, internet connection, and phone system are already set up. You just bring your team and start working.
 
-Heroku, Google App Engine, and Azure App Service are PaaS products. Developers push their code, and the platform handles deployment, scaling, load balancing, and server management. This dramatically reduces operational overhead but limits customization—you're constrained to the platform's supported languages, frameworks, and configurations.
+Heroku, Google App Engine, and Azure App Service are PaaS products. Developers push their code, and the platform handles deployment, scaling, load balancing, and server [management](/management). This dramatically reduces operational overhead but limits customization—you're constrained to the platform's supported languages, frameworks, and configurations.
 
 ### Software as a Service (SaaS)
 
@@ -79,7 +79,7 @@ SaaS is what most people think of when they think of "the cloud." If you've used
 
 ## How the Cloud Actually Works
 
-Behind the marketing abstractions, cloud computing runs on real, physical hardware in real buildings. Understanding the physical reality helps you understand the technology's capabilities and limitations.
+Behind the [marketing](/marketing) abstractions, cloud computing runs on real, physical hardware in real buildings. Understanding the physical reality helps you understand the technology's capabilities and limitations.
 
 ### Data Centers
 
@@ -87,11 +87,11 @@ A cloud provider's data center is a massive facility—sometimes over 100,000 sq
 
 Data centers are designed for reliability. They have redundant power supplies (utility power plus diesel generators plus battery backup), redundant cooling, redundant network connections, and fire suppression systems. Physical security includes biometric access controls, security cameras, mantrap entrances, and 24/7 guard staff.
 
-AWS operates data centers in over 30 geographic regions worldwide. Azure operates in over 60 regions. Google Cloud operates in over 35 regions. This global footprint matters because physics imposes a speed limit: data travels through fiber optic cables at roughly 200,000 km/s (about two-thirds the speed of light). A server in Virginia introduces about 80 milliseconds of latency for a user in Tokyo—noticeable for interactive applications. Having data centers on every continent reduces this latency.
+AWS operates data centers in over 30 geographic regions worldwide. Azure operates in over 60 regions. Google Cloud operates in over 35 regions. This global footprint matters because [physics](/physics) imposes a speed limit: data travels through fiber optic cables at roughly 200,000 km/s (about two-thirds the speed of light). A server in Virginia introduces about 80 milliseconds of latency for a user in Tokyo—noticeable for interactive applications. Having data centers on every continent reduces this latency.
 
 ### Virtualization
 
-The technology that makes cloud computing practical is virtualization—running multiple virtual machines on a single physical server. A hypervisor (software like VMware, KVM, or Xen) sits between the hardware and the operating systems, dividing a physical server's CPU, memory, and storage among multiple virtual machines that each believe they have their own dedicated hardware.
+The technology that makes cloud computing practical is virtualization—[running](/running) multiple virtual machines on a single physical server. A hypervisor (software like VMware, KVM, or Xen) sits between the hardware and the operating systems, dividing a physical server's CPU, memory, and storage among multiple virtual machines that each believe they have their own dedicated hardware.
 
 A single physical server with 128 CPU cores and 1 TB of memory might run 20-30 virtual machines simultaneously, each isolated from the others. This lets cloud providers sell computing capacity in small, flexible increments rather than entire physical servers.
 
@@ -173,7 +173,7 @@ Cloud security follows the shared responsibility model. The provider secures the
 
 ## The Economics of Cloud Computing
 
-Cloud computing changes IT economics from capital expenditure (CapEx) to operating expenditure (OpEx). Instead of buying servers upfront (CapEx), you pay monthly bills for the resources you consume (OpEx).
+Cloud computing changes IT [economics](/economics) from capital expenditure (CapEx) to operating expenditure (OpEx). Instead of buying servers upfront (CapEx), you pay monthly bills for the resources you consume (OpEx).
 
 This shift has real advantages. No upfront capital investment means lower barriers to entry. Costs scale with usage rather than capacity. You don't pay for idle servers.
 
@@ -187,7 +187,7 @@ Cloud data centers consume approximately 1-1.5% of global electricity—a number
 
 Major providers have committed to carbon neutrality or 100% renewable energy—Google claims carbon neutrality since 2007, Microsoft pledges carbon negative by 2030, and AWS targets 100% renewable energy by 2025. These commitments are significant but also complex—"renewable energy" claims often involve purchasing renewable energy credits rather than directly powering data centers with renewables.
 
-On the other hand, cloud computing can reduce total energy consumption by consolidating workloads. A cloud data center running thousands of servers at high utilization is more energy-efficient than thousands of companies each running their own servers at 10-20% utilization. The consolidation effect means that migration to the cloud typically reduces a company's IT carbon footprint, even accounting for the data center's energy use.
+On the other hand, cloud computing can reduce total energy consumption by consolidating workloads. A cloud data center running thousands of servers at high utilization is more energy-efficient than thousands of companies each running their own servers at 10-20% utilization. The consolidation effect means that migration to the cloud typically reduces a company's IT carbon footprint, even [accounting](/accounting) for the data center's energy use.
 
 ## Where Cloud Computing Is Heading
 

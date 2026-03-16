@@ -86,7 +86,7 @@ According to analysis by Our World in Data (using peer-reviewed research), nucle
 - Nuclear: 0.03 deaths per TWh
 - Solar: 0.02 deaths per TWh
 
-These figures include the estimated deaths from Chernobyl and Fukushima. Even accounting for the worst nuclear accidents in history, nuclear power kills fewer people per unit of energy than almost any other source. Coal kills roughly 800 times more people per TWh than nuclear.
+These figures include the estimated deaths from Chernobyl and Fukushima. Even [accounting](/accounting) for the worst nuclear accidents in history, nuclear power kills fewer people per unit of energy than almost any other source. Coal kills roughly 800 times more people per TWh than nuclear.
 
 This doesn't mean nuclear is without risk. It means the risk is lower than alternatives we already accept without much thought.
 
@@ -102,7 +102,7 @@ Chernobyl remains the worst nuclear accident in history. An RBMK reactor in Sovi
 
 Two plant workers died immediately. Twenty-eight emergency responders died of acute radiation syndrome within months. The WHO estimates that up to 4,000 people may eventually die of radiation-related cancers, though the actual number is debated.
 
-The critical point: no Western reactor design shares the RBMK's flaws. The positive void coefficient — the characteristic that made Chernobyl possible — is prohibited in every reactor design certified in the West. Chernobyl was a failure of Soviet design philosophy, regulatory oversight, and operational culture, not an indictment of nuclear technology itself.
+The critical point: no Western reactor design shares the RBMK's flaws. The positive void coefficient — the characteristic that made Chernobyl possible — is prohibited in every reactor design certified in the West. Chernobyl was a failure of Soviet design [philosophy](/philosophy), regulatory oversight, and operational culture, not an indictment of nuclear technology itself.
 
 ### Fukushima (2011)
 
@@ -110,11 +110,11 @@ A magnitude 9.0 earthquake followed by a 14-meter tsunami struck Japan's Fukushi
 
 Without cooling, three reactor cores melted. Hydrogen explosions damaged reactor buildings. Radioactive material was released, and over 150,000 people were evacuated.
 
-Here's what's often overlooked: zero people died from radiation exposure at Fukushima. The evacuation itself, however, caused an estimated 2,000 deaths — mostly elderly residents who suffered from the stress of relocation. This has led to significant debate about whether evacuation protocols are sometimes more harmful than the radiation they're meant to avoid.
+Here's what's often overlooked: zero people died from radiation exposure at Fukushima. The evacuation itself, however, caused an estimated 2,000 deaths — mostly elderly residents who suffered from the stress of relocation. This has led to significant [debate](/debate) about whether evacuation protocols are sometimes more harmful than the radiation they're meant to avoid.
 
 ## The Climate Argument
 
-This is where nuclear power becomes impossible to ignore in any serious conversation about [alternative energy](/alternative-energy) and climate change.
+This is where nuclear power becomes impossible to ignore in any serious conversation about [alternative energy](/alternative-energy) and [climate change](/climate-change).
 
 Nuclear power's lifecycle greenhouse gas emissions — including mining, enrichment, construction, and decommissioning — are approximately 12 grams of CO2 per kilowatt-hour. That's comparable to wind (11 g/kWh) and far below solar (44 g/kWh), natural gas (490 g/kWh), or coal (820 g/kWh).
 
@@ -162,7 +162,7 @@ Why so expensive? Several factors compound each other:
 
 **First-of-a-kind engineering** — Each new plant tends to be a unique design, preventing the cost reductions that come from repetition. France built 56 reactors using a standardized design in the 1970s-80s at much lower costs. The U.S. has not standardized.
 
-**Construction management** — Nuclear construction requires specialized skills, extreme precision, and extensive quality assurance. Projects that lose momentum (due to funding gaps, regulatory holds, or political opposition) become dramatically more expensive.
+**Construction [management](/management)** — Nuclear construction requires specialized skills, extreme precision, and extensive quality assurance. Projects that lose momentum (due to funding gaps, regulatory holds, or political opposition) become dramatically more expensive.
 
 **Cost of capital** — Nuclear plants take 7-12 years to build and start earning revenue. During that construction period, interest accumulates on billions of dollars in loans. This financing cost can add 30-50% to the total project cost.
 
@@ -182,9 +182,9 @@ This is why license extensions make such economic sense. Extending an existing p
 
 The global picture of nuclear power is uneven and revealing.
 
-**France** generates about 70% of its electricity from nuclear — the highest share of any country. This gives France some of the cheapest and cleanest electricity in Europe. The French model of standardized reactor design and government-led construction is often cited as proof that nuclear can work at scale.
+**France** generates about 70% of its electricity from nuclear — the highest share of any country. This gives France some of the cheapest and cleanest electricity in Europe. The French model of standardized reactor design and [government](/government)-led construction is often cited as proof that nuclear can work at scale.
 
-**United States** has 93 operating reactors producing about 19% of the nation's electricity. It's the world's largest nuclear fleet, but aging. The average reactor age is over 40 years. Few new plants are being built, but license extensions are keeping existing plants running.
+**United States** has 93 operating reactors producing about 19% of the nation's electricity. It's the world's largest nuclear fleet, but aging. The average reactor age is over 40 years. Few new plants are being built, but license extensions are keeping existing plants [running](/running).
 
 **China** is the fastest-growing nuclear power. It has about 55 operating reactors and 20+ under construction, with plans to triple nuclear capacity by 2035. China is building reactors in about 5-6 years at significantly lower cost than Western projects.
 
@@ -216,6 +216,6 @@ The data supports a clear conclusion: nuclear power is one of the safest, cleane
 
 That choice will shape how the world generates electricity for the rest of this century. Understanding nuclear power — really understanding it, beyond headlines and emotions — puts you in a position to evaluate that choice with clear eyes.
 
-The [physics](/experimental-physics) is proven. The [engineering](/nuclear-engineering) is mature. The safety record, when you look at actual data rather than movie plots, is excellent. What happens next depends on economics, politics, and whether societies can make rational decisions about risk.
+The [physics](/experimental-physics) is proven. The [engineering](/nuclear-engineering) is mature. The safety record, when you look at actual data rather than movie plots, is excellent. What happens next depends on [economics](/economics), [politics](/politics), and whether societies can make rational decisions about risk.
 
 Given what's at stake with [climate change](/ecology) and growing global energy demand, that rationality matters more than ever.

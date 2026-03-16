@@ -41,7 +41,7 @@ Fashion history is the academic study of how clothing, accessories, and personal
 
 Dismissing fashion history as trivial is easy. It's also wrong. Clothing is one of the most intimate records of human civilization we have. What people chose to put on their bodies tells you about their economic status, religious beliefs, political allegiances, gender roles, technological capabilities, and relationship to the natural world.
 
-Consider something as simple as the color purple. For most of [human history](/anthropology), purple dye came from a single source: the mucus glands of predatory sea snails called Murex. It took roughly 10,000 snails to produce just 1.4 grams of Tyrian purple dye. That's why purple became associated with royalty — only the absurdly wealthy could afford it. When William Henry Perkin accidentally synthesized the first aniline dye (mauveine) in 1856, he didn't just create a color. He kicked off the entire synthetic chemistry industry and permanently severed the ancient link between purple and power.
+Consider something as simple as the color purple. For most of [human history](/anthropology), purple dye came from a single source: the mucus glands of predatory sea snails called Murex. It took roughly 10,000 snails to produce just 1.4 grams of Tyrian purple dye. That's why purple became associated with royalty — only the absurdly wealthy could afford it. When William Henry Perkin accidentally synthesized the first aniline dye (mauveine) in 1856, he didn't just create a color. He kicked off the entire synthetic [chemistry](/chemistry) industry and permanently severed the ancient link between purple and power.
 
 That's fashion history in a nutshell: following a thread (literally) and watching it connect to everything else.
 
@@ -57,7 +57,7 @@ Greek clothing was architecturally simple but socially complex. The chiton (a re
 
 ### Asia's Parallel Development
 
-While Mediterranean cultures draped, East Asian civilizations developed sophisticated cutting and sewing traditions much earlier. Chinese silk production dates to at least 3630 BCE, based on archaeological evidence from Hemudu. The Chinese silk industry was such a closely guarded secret that smuggling silkworm eggs out of China carried the death penalty for centuries.
+While Mediterranean cultures draped, East Asian civilizations developed sophisticated cutting and [sewing](/sewing) traditions much earlier. Chinese silk production dates to at least 3630 BCE, based on archaeological evidence from Hemudu. The Chinese silk industry was such a closely guarded secret that smuggling silkworm eggs out of China carried the death penalty for centuries.
 
 Japanese clothing evolved its own distinct trajectory. The kimono's basic T-shaped structure has remained essentially unchanged for over a thousand years, but the fabrics, patterns, and styling rules that govern it are staggeringly complex. A single formal kimono can take years to produce by hand.
 
@@ -67,7 +67,7 @@ Something changed in 14th-century Europe. For the first time, clothing styles be
 
 The Black Death (1347-1351) killed roughly one-third of Europe's population. Surviving workers found themselves in demand and wealthier than before. They started dressing above their traditional station, prompting a wave of sumptuary laws — legal restrictions on who could wear what. England's sumptuary legislation of 1363 specified exactly which fabrics and furs each social class was permitted to wear. The fact that governments felt the need to pass these laws tells you they weren't working.
 
-Tailoring technology also leapt forward. The development of buttons (arriving in Europe from the Middle East around the 13th century) and improved cutting techniques allowed garments to be fitted to the body for the first time. Suddenly clothing wasn't just wrapped or draped — it was sculpted. And once you could sculpt clothing to the body, fashion in the modern sense was born: a constant push to create new silhouettes.
+[Tailoring](/tailoring) technology also leapt forward. The development of buttons (arriving in Europe from the Middle East around the 13th century) and improved cutting techniques allowed garments to be fitted to the body for the first time. Suddenly clothing wasn't just wrapped or draped — it was sculpted. And once you could sculpt clothing to the body, fashion in the modern sense was born: a constant push to create new silhouettes.
 
 The [feudal](/feudalism) social structure itself shaped clothing norms. Nobles needed visible markers of status, and as cloth became more accessible, those markers had to change faster to stay exclusive.
 
@@ -97,7 +97,7 @@ The 20th century compressed more fashion change into 100 years than the previous
 
 The late 20th century brought fast fashion — the mass production of inexpensive clothing that mimics current runway trends. Brands like Zara, H&M, and later Shein compressed the time between a design appearing on a runway and a cheap version appearing in stores from months to weeks, and eventually to days.
 
-The [economic](/capitalism) logic is straightforward: make clothes cheap enough that people treat them as disposable, then sell enormous volumes. It works. The global apparel market was worth approximately $1.7 trillion in 2023.
+The [economic](/capitalism) [logic](/logic) is straightforward: make clothes cheap enough that people treat them as disposable, then sell enormous volumes. It works. The global apparel market was worth approximately $1.7 trillion in 2023.
 
 The environmental cost is staggering. The fashion industry produces roughly 10% of global carbon emissions — more than international flights and maritime shipping combined. It's the second-largest consumer of water worldwide. An estimated 92 million tons of textile waste ends up in landfills every year. A single cotton T-shirt requires about 2,700 liters of water to produce — enough drinking water for one person for 2.5 years.
 
@@ -109,7 +109,7 @@ Fashion history might sound like a soft discipline, but the methodology is rigor
 
 - **Surviving garments.** Major collections exist at the Met's Costume Institute, the V&A in London, the Kyoto Costume Institute, and FIT in New York. Dating and authenticating textiles involves fiber analysis, dye testing, and [construction](/construction) analysis.
 - **Visual sources.** Paintings, photographs, fashion plates, and advertisements provide evidence of what people actually wore — or at least what they wanted to be seen wearing. There's always a gap between aspirational imagery and everyday reality.
-- **Written records.** Inventories, wills, account books, letters, diaries, sumptuary laws, and trade records all provide evidence about clothing production, cost, and social significance.
+- **Written records.** Inventories, wills, account books, letters, diaries, sumptuary laws, and [trade](/trade) records all provide evidence about clothing production, cost, and social significance.
 - **Material culture analysis.** Examining the physical construction of garments — seam types, fabric grain, finishing techniques — reveals information about manufacturing technology and labor practices.
 
 The field intersects with [art history](/aesthetics), [economic history](/economic-history), gender studies, [postcolonial studies](/postcolonial-studies), and material science. It's genuinely interdisciplinary.
@@ -122,6 +122,6 @@ Cultural appropriation in fashion — like a luxury brand selling "tribal" print
 
 The sustainability crisis in fashion connects directly to the Industrial Revolution's transformation of textile production from craft to commodity. You can't fix what you don't understand.
 
-And the question of who gets to participate in fashion — whose bodies, identities, and aesthetics are included — is a question with deep historical roots. For most of fashion's history, the answer was restricted by law, economics, race, and gender. That's changing, but slowly, and understanding the history helps explain both the progress and the resistance.
+And the question of who gets to participate in fashion — whose bodies, identities, and aesthetics are included — is a question with deep historical roots. For most of fashion's history, the answer was restricted by law, [economics](/economics), race, and gender. That's changing, but slowly, and understanding the history helps explain both the progress and the resistance.
 
 Fashion history, at its best, shows you that the clothes on your back carry the weight of centuries. Every garment is a document — of technology, trade, aspiration, and identity. Reading those documents is what fashion historians do. And what they find is rarely just about clothes.

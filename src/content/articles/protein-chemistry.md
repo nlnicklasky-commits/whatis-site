@@ -37,7 +37,7 @@ faq:
 
 # What Is Protein Chemistry?
 
-Protein chemistry is the branch of [biochemistry](/biochemistry) that studies the structure, function, and behavior of proteins — the molecular machines that carry out nearly every task in living organisms. From catalyzing chemical reactions to fighting infections, building muscle to transmitting nerve signals, proteins are the workhorses of biology, and understanding their chemistry is fundamental to understanding life itself.
+Protein chemistry is the branch of [biochemistry](/biochemistry) that studies the structure, function, and behavior of proteins — the molecular machines that carry out nearly every task in living organisms. From catalyzing chemical reactions to fighting infections, building muscle to transmitting nerve signals, proteins are the workhorses of [biology](/biology), and understanding their chemistry is fundamental to understanding life itself.
 
 ## Amino Acids: The 20-Letter Alphabet of Life
 
@@ -51,7 +51,7 @@ Actually, the math is staggering. A modest protein of 300 amino acids has 20^300
 
 ### Essential vs. Non-Essential
 
-Your body can synthesize 11 of the 20 standard amino acids. The other 9 — called essential amino acids — must come from food. This is why nutrition science cares about protein quality: animal proteins generally contain all essential amino acids in adequate proportions, while most plant proteins are deficient in one or more (though combining plant sources solves this).
+Your body can synthesize 11 of the 20 standard amino acids. The other 9 — called essential amino acids — must come from food. This is why [nutrition](/nutrition) science cares about protein quality: animal proteins generally contain all essential amino acids in adequate proportions, while most plant proteins are deficient in one or more (though combining plant sources solves this).
 
 ## The Four Levels of Protein Structure
 
@@ -91,7 +91,7 @@ The result is a protein with a specific shape: enzymes with precisely shaped act
 
 ### Quaternary Structure: Multi-Chain Assemblies
 
-Many proteins function as assemblies of multiple polypeptide chains (called subunits). Hemoglobin, for example, consists of four subunits — two alpha chains and two beta chains — arranged in a specific geometry. The subunits communicate: when one binds oxygen, it causes conformational changes that make the others bind oxygen more readily (cooperative binding). This is why hemoglobin is so efficient at loading oxygen in the lungs and releasing it in tissues.
+Many proteins function as assemblies of multiple polypeptide chains (called subunits). Hemoglobin, for example, consists of four subunits — two alpha chains and two beta chains — arranged in a specific [geometry](/geometry). The subunits communicate: when one binds oxygen, it causes conformational changes that make the others bind oxygen more readily (cooperative binding). This is why hemoglobin is so efficient at loading oxygen in the lungs and releasing it in tissues.
 
 Other notable quaternary structures include:
 
@@ -125,11 +125,11 @@ Understanding protein misfolding isn't just academic — it's driving drug devel
 
 ### AlphaFold: The AI Revolution
 
-For decades, predicting a protein's 3D structure from its amino acid sequence was one of biology's grand challenges. Experimental methods — [X-ray crystallography](/x-ray-crystallography)), NMR spectroscopy, cryo-[electron microscopy](/electron-microscopy) — could determine structures, but each one took months to years and cost hundreds of thousands of dollars.
+For decades, predicting a protein's 3D structure from its amino acid sequence was one of biology's grand challenges. Experimental methods — [X-ray crystallography](/x-ray-crystallography)), NMR [spectroscopy](/spectroscopy), cryo-[electron microscopy](/electron-microscopy) — could determine structures, but each one took months to years and cost hundreds of thousands of dollars.
 
 In 2020, DeepMind's AlphaFold AI system solved the structure prediction problem. At the Critical Assessment of Structure Prediction (CASP14) competition, AlphaFold predicted protein structures with accuracy matching experimental methods — a result that stunned the scientific community.
 
-By 2022, AlphaFold had predicted structures for over 200 million proteins — essentially every protein from every organism whose genome had been sequenced. This database, freely available, is accelerating research in drug design, enzyme engineering, and [evolutionary biology](/evolutionary-biology). It's not an exaggeration to call it one of the most impactful applications of AI to date.
+By 2022, AlphaFold had predicted structures for over 200 million proteins — essentially every protein from every organism whose genome had been sequenced. This database, freely available, is accelerating research in drug design, enzyme [engineering](/engineering), and [evolutionary biology](/evolutionary-biology). It's not an exaggeration to call it one of the most impactful applications of AI to date.
 
 ## Enzymes: Proteins That Make Chemistry Happen
 
@@ -157,13 +157,13 @@ This framework, developed in 1913 by Leonor Michaelis and Maud Menten, remains f
 
 ### X-ray Crystallography
 
-The workhorse of [structural biology](/structural-biology) for 60+ years. A protein is crystallized, then bombarded with X-rays. The diffraction pattern reveals the positions of atoms in the crystal. Over 170,000 protein structures in the Protein Data Bank were determined by X-ray crystallography.
+The workhorse of [structural biology](/structural-biology) for 60+ years. A protein is crystallized, then bombarded with X-rays. The diffraction pattern reveals the positions of atoms in the crystal. Over 170,000 protein structures in the Protein Data Bank were determined by X-ray [crystallography](/crystallography).
 
 The catch: the protein must form crystals, which many proteins refuse to do. Membrane proteins and large, flexible complexes are particularly recalcitrant.
 
 ### Cryo-Electron Microscopy (Cryo-EM)
 
-The "resolution revolution." Proteins are flash-frozen in thin layers of ice and imaged by electron microscopy. Computational processing of thousands of images produces 3D reconstructions at near-atomic resolution. Cryo-EM doesn't require crystals, making it ideal for large complexes and membrane proteins. The technique won the 2017 Nobel Prize in [Chemistry](/chemistry).
+The "resolution revolution." Proteins are flash-frozen in thin layers of ice and imaged by electron [microscopy](/microscopy). Computational processing of thousands of images produces 3D reconstructions at near-atomic resolution. Cryo-EM doesn't require crystals, making it ideal for large complexes and membrane proteins. The technique won the 2017 Nobel Prize in [Chemistry](/chemistry).
 
 ### Mass Spectrometry
 
@@ -197,7 +197,7 @@ Engineered proteins are everywhere:
 
 - **Medicine**: Therapeutic antibodies (like adalimumab for rheumatoid arthritis) are engineered for high specificity and stability. Insulin has been engineered for different absorption rates.
 - **Industry**: Enzymes in laundry detergent (lipases for grease removal, proteases for protein stains) are engineered for stability in hot, alkaline conditions.
-- **Agriculture**: Bt toxin proteins from *Bacillus thuringiensis*, engineered into crop plants, provide insect resistance.
+- **[Agriculture](/agriculture)**: Bt toxin proteins from *Bacillus thuringiensis*, engineered into crop plants, provide insect resistance.
 - **Research**: Green fluorescent protein (GFP) and its engineered variants let researchers visualize proteins in living cells — a Nobel Prize-winning tool.
 
 ## Protein Chemistry and Drug Development
@@ -208,7 +208,7 @@ Most drugs work by interacting with proteins. Understanding protein chemistry is
 
 **Antibody drugs** are proteins themselves — engineered to bind specific targets with extraordinary precision. The monoclonal antibody market exceeded $200 billion in 2024, making it the largest category of pharmaceutical products.
 
-**Protein degraders** (PROTACs and molecular glues) represent a new frontier — instead of blocking a protein's function, these drugs tag it for destruction by the cell's own protein recycling machinery. This approach can target "undruggable" proteins that lack binding pockets for traditional drugs.
+**Protein degraders** (PROTACs and molecular glues) represent a new frontier — instead of blocking a protein's function, these drugs tag it for destruction by the cell's own protein [recycling](/recycling) machinery. This approach can target "undruggable" proteins that lack binding pockets for traditional drugs.
 
 ## Key Takeaways
 

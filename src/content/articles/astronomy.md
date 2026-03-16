@@ -67,11 +67,11 @@ Copernicus got the basic idea right but many details wrong. He still used circul
 
 **Galileo Galilei** (1564-1642) pointed the newly invented telescope at the sky in 1609 and saw things nobody had seen before: the moons of Jupiter (proof that not everything orbited Earth), the phases of Venus (consistent with Copernicus but not Ptolemy), craters on the Moon, and spots on the sun. His observations made the heliocentric model increasingly hard to deny, even though the Catholic Church tried.
 
-**Isaac Newton** (1643-1727) tied it all together with his law of universal gravitation. The same force that makes an apple fall to the ground keeps the Moon in orbit and the planets circling the sun. Kepler's laws, which had been empirical descriptions, became mathematical consequences of Newton's physics. Astronomy now had a theoretical engine.
+**Isaac Newton** (1643-1727) tied it all together with his law of universal gravitation. The same force that makes an apple fall to the ground keeps the Moon in orbit and the planets circling the sun. Kepler's laws, which had been empirical descriptions, became mathematical consequences of Newton's [physics](/physics). Astronomy now had a theoretical engine.
 
 ## How Astronomers See the Universe
 
-Astronomy is fundamentally an observational science. Unlike physics or chemistry, you can't run experiments on stars (though you can simulate them). You observe what the universe shows you, in whatever wavelengths you can detect.
+Astronomy is fundamentally an observational science. Unlike physics or [chemistry](/chemistry), you can't run experiments on stars (though you can simulate them). You observe what the universe shows you, in whatever wavelengths you can detect.
 
 ### The Electromagnetic Spectrum
 
@@ -129,7 +129,7 @@ What happens next depends almost entirely on mass.
 
 **Massive stars** (more than about eight times the sun's mass) live fast and die spectacularly. They burn through their fuel in millions of years (sometimes less), then collapse and explode as supernovae — releasing more energy in seconds than the sun will produce in its entire lifetime. The remnant is either a neutron star (a city-sized ball of matter so dense that a teaspoon weighs a billion tons) or a black hole.
 
-Nearly every element heavier than hydrogen and helium was forged inside stars or in the violence of their deaths. The calcium in your bones, the iron in your blood, the silicon in your phone — all of it was made in stars that died before our sun was born. As Carl Sagan put it: "We are made of star stuff." It's not poetry. It's literally true.
+Nearly every element heavier than hydrogen and helium was forged inside stars or in the violence of their deaths. The calcium in your bones, the iron in your blood, the silicon in your phone — all of it was made in stars that died before our sun was born. As Carl Sagan put it: "We are made of star stuff." It's not [poetry](/poetry). It's literally true.
 
 ## Galaxies
 
@@ -149,7 +149,7 @@ Galaxy clusters form even larger structures: superclusters, connected by filamen
 
 ## Cosmology: The Big Picture
 
-Cosmology — the study of the universe's origin, structure, and evolution — might be the grandest branch of astronomy.
+[Cosmology](/cosmology) — the study of the universe's origin, structure, and evolution — might be the grandest branch of astronomy.
 
 ### The Big Bang
 

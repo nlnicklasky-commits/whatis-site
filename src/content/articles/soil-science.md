@@ -43,7 +43,7 @@ Most people walk on soil every day without giving it a second thought. That's a 
 
 And we're losing it. The United Nations estimates that 33% of the world's soils are already degraded, and at current rates of erosion, we could lose the equivalent of all the world's topsoil within 60 years. That's not a vague future threat — that's within many readers' lifetimes.
 
-Soil science exists because this stuff matters, and understanding it requires real science — [chemistry](/chemistry), [biology](/biology), physics, [geology](/geology), and ecology all converge in the first few meters of the Earth's surface.
+Soil science exists because this stuff matters, and understanding it requires real science — [chemistry](/chemistry), [biology](/biology), [physics](/physics), [geology](/geology), and [ecology](/ecology) all converge in the first few meters of the Earth's surface.
 
 ## How Soil Forms: The Five Factors
 
@@ -65,7 +65,7 @@ Freeze-thaw cycles physically break rock apart. Chemical weathering (dissolution
 
 Living things are not just passengers in soil — they're architects. Plants contribute organic matter through leaf litter and root decay. Fungi decompose organic material and form mycorrhizal networks that connect plant roots across enormous areas. Earthworms (about 1 million per hectare in healthy soil) mix organic and mineral material, create channels for water and air, and produce nutrient-rich castings.
 
-Bacteria are the most numerous soil organisms — a gram of healthy soil contains 100 million to 1 billion bacterial cells. They drive nitrogen fixation (converting atmospheric nitrogen into forms plants can use), decomposition, and nutrient cycling. Without soil bacteria, terrestrial ecosystems would collapse within years.
+Bacteria are the most numerous soil organisms — a gram of healthy soil contains 100 million to 1 billion bacterial cells. They drive nitrogen fixation (converting atmospheric nitrogen into forms plants can use), decomposition, and nutrient [cycling](/cycling). Without soil bacteria, terrestrial ecosystems would collapse within years.
 
 Humans are organisms too, and our impact on soil is enormous. [Agriculture](/agronomy), urbanization, deforestation, and pollution have altered soils across most of the Earth's land surface.
 
@@ -145,7 +145,7 @@ Unweathered bedrock. The bottom of the soil world.
 
 Classifying the enormous diversity of soils into a coherent system is — frankly — one of the most tedious but necessary tasks in soil science.
 
-The USDA Soil Taxonomy, used primarily in the United States, classifies soils into 12 orders based on their dominant characteristics:
+The USDA Soil [Taxonomy](/taxonomy), used primarily in the United States, classifies soils into 12 orders based on their dominant characteristics:
 
 - **Alfisols** — moderately weathered, fertile, with clay-enriched subsoils. Common in temperate deciduous forests.
 - **Andisols** — formed from volcanic ash. Light, porous, and fertile. Found in volcanic regions like the Pacific Northwest and Japan.
@@ -166,13 +166,13 @@ The World Reference Base (WRB), used internationally, has a different classifica
 
 ### Erosion
 
-Wind and water erosion remove an estimated 75 billion tons of soil from agricultural land annually, according to the FAO. The Dust Bowl of the 1930s — when severe drought and poor farming practices stripped topsoil from millions of acres across the American Great Plains — remains the most dramatic example of erosion's consequences in recent history. It displaced 2.5 million people.
+Wind and water erosion remove an estimated 75 billion tons of soil from agricultural land annually, according to the FAO. The Dust Bowl of the 1930s — when severe drought and poor [farming](/farming) practices stripped topsoil from millions of acres across the American Great Plains — remains the most dramatic example of erosion's consequences in recent history. It displaced 2.5 million people.
 
 Erosion rates on conventionally tilled farmland are typically 10 to 100 times faster than soil formation rates. This is [unsustainable](/environmental-science) by definition. Conservation practices — no-till farming, cover crops, contour plowing, terracing — can reduce erosion dramatically but aren't universally adopted.
 
 ### Salinization
 
-Irrigation in arid regions often leads to salt accumulation in the soil. Water evaporates, but the dissolved salts remain, gradually concentrating to levels toxic to plants. An estimated 20% of irrigated land worldwide is affected by salinization. Ancient Mesopotamia — one of the cradles of civilization — experienced agricultural decline partly due to salinization of irrigated soils.
+[Irrigation](/irrigation) in arid regions often leads to salt accumulation in the soil. Water evaporates, but the dissolved salts remain, gradually concentrating to levels toxic to plants. An estimated 20% of irrigated land worldwide is affected by salinization. Ancient Mesopotamia — one of the cradles of civilization — experienced agricultural decline partly due to salinization of irrigated soils.
 
 ### Compaction
 
@@ -192,7 +192,7 @@ Soils play a massive role in the global carbon cycle, and here's where soil scie
 
 When plants photosynthesize, they pull CO2 from the atmosphere. When they die, some of that carbon enters the soil as organic matter. In stable ecosystems, soil carbon inputs roughly balance losses from decomposition. But when soils are disturbed — by plowing, clearing forests, or draining wetlands — stored carbon oxidizes and returns to the atmosphere as CO2.
 
-Global agricultural soils have lost an estimated 50-70% of their original organic carbon since cultivation began. Restoring even a fraction of this lost carbon through improved management — cover crops, reduced tillage, compost additions, [agroforestry](/forestry) — could offset a meaningful portion of anthropogenic CO2 emissions.
+Global agricultural soils have lost an estimated 50-70% of their original organic carbon since cultivation began. Restoring even a fraction of this lost carbon through improved [management](/management) — cover crops, reduced tillage, compost additions, [agroforestry](/forestry) — could offset a meaningful portion of anthropogenic CO2 emissions.
 
 The "4 per 1000" initiative, launched at the Paris Climate Conference in 2015, proposes that increasing global soil carbon stocks by just 0.4% per year would offset annual anthropogenic CO2 emissions. Whether this target is achievable is debated, but the direction is clear: soil health and [climate](/climatology) stability are linked.
 

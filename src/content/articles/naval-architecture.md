@@ -37,9 +37,9 @@ faq:
 
 # What Is Naval [Architecture](/architecture)?
 
-Naval architecture is the engineering discipline concerned with the design, [construction](/construction), and operation of ships and other marine vessels. If a structure floats and needs to move through water — or even just stay in one place on water without sinking — a naval architect probably designed it. Container ships, aircraft carriers, oil tankers, cruise liners, tugboats, sailboats, submarines, offshore drilling platforms, and even floating bridges all fall within the naval architect's domain.
+Naval architecture is the [engineering](/engineering) discipline concerned with the design, [construction](/construction), and operation of ships and other marine vessels. If a structure floats and needs to move through water — or even just stay in one place on water without sinking — a naval architect probably designed it. Container ships, aircraft carriers, oil tankers, cruise liners, tugboats, sailboats, submarines, offshore drilling platforms, and even floating bridges all fall within the naval architect's domain.
 
-The field combines [structural engineering](/structural-engineering) (the hull has to be strong enough to survive ocean forces), fluid mechanics (the hull has to move efficiently through water), stability analysis (the ship can't capsize), and systems integration (propulsion, electrical, plumbing, ventilation, and cargo handling all have to work together in a harsh marine environment). It's one of the oldest engineering disciplines — humans have been designing boats for at least 10,000 years — and one of the most consequential. About 90% of world trade by volume moves by ship.
+The field combines [structural engineering](/structural-engineering) (the hull has to be strong enough to survive ocean forces), fluid mechanics (the hull has to move efficiently through water), stability analysis (the ship can't capsize), and systems integration (propulsion, electrical, [plumbing](/plumbing), ventilation, and cargo handling all have to work together in a harsh marine environment). It's one of the oldest engineering disciplines — humans have been designing boats for at least 10,000 years — and one of the most consequential. About 90% of world [trade](/trade) by volume moves by ship.
 
 ## The Physics of Floating — Why Ships Don't Sink
 
@@ -87,7 +87,7 @@ Three points matter:
 
 **Center of buoyancy (B)** — the geometric center of the underwater volume. This is where the buoyant force effectively acts.
 
-**Metacenter (M)** — a theoretical point determined by the hull's geometry. When a ship tilts (heels), the center of buoyancy shifts to one side. The metacenter is the point about which the buoyant force appears to rotate.
+**Metacenter (M)** — a theoretical point determined by the hull's [geometry](/geometry). When a ship tilts (heels), the center of buoyancy shifts to one side. The metacenter is the point about which the buoyant force appears to rotate.
 
 The key measurement is **metacentric height (GM)** — the distance between G and M. If M is above G (positive GM), the ship is stable — when it tilts, the buoyant force creates a righting moment that pushes it back upright. If G is above M (negative GM), the ship is unstable and will capsize.
 
@@ -133,7 +133,7 @@ Most large ships use diesel engines driving propellers. The scale is staggering 
 
 **Gas turbines** — similar to jet engines — are used in naval combatants where power density (power per unit weight) matters more than fuel economy. A gas turbine can produce enormous power from a compact package, enabling warships to reach 30+ knots.
 
-**Electric drive** — diesel generators producing electricity that powers electric motors connected to propellers — is common in cruise ships, icebreakers, and increasingly, cargo ships. This arrangement offers flexibility in machinery placement and improved efficiency at varying speeds.
+**Electric drive** — diesel generators producing [electricity](/electricity) that powers electric motors connected to propellers — is common in cruise ships, icebreakers, and increasingly, cargo ships. This arrangement offers flexibility in machinery placement and improved efficiency at varying speeds.
 
 ### Green Propulsion
 
@@ -161,9 +161,9 @@ Building a large ship is a massive industrial undertaking.
 
 **Launching** — the hull is floated out of the dry dock or slid down a slipway into the water. At this point, the ship floats but isn't yet operational.
 
-**Outfitting and commissioning** — remaining systems are installed and tested. Engines are started, electronics are calibrated, and the ship undergoes sea trials to verify speed, maneuverability, and seakeeping performance.
+**Outfitting and commissioning** — remaining systems are installed and tested. Engines are started, [electronics](/electronics) are calibrated, and the ship undergoes sea trials to verify speed, maneuverability, and seakeeping performance.
 
-South Korea, China, and Japan dominate commercial shipbuilding, collectively producing about 90% of the world's tonnage. The largest shipyards — Hyundai Heavy Industries in Ulsan, South Korea, for example — can deliver multiple large ships simultaneously.
+South Korea, China, and Japan dominate commercial [shipbuilding](/shipbuilding), collectively producing about 90% of the world's tonnage. The largest shipyards — Hyundai Heavy Industries in Ulsan, South Korea, for example — can deliver multiple large ships simultaneously.
 
 ## Modern Challenges in Naval Architecture
 
@@ -173,7 +173,7 @@ The field faces several pressing challenges.
 
 **Autonomous shipping** — ships that operate with reduced crews or no crew at all — is being developed by several companies and maritime nations. Navigational AI, remote monitoring, and autonomous collision avoidance systems are in testing. The Yara Birkeland, the world's first autonomous electric container ship, began operations in Norway in 2022. Regulatory frameworks for autonomous vessels are still developing.
 
-**Extreme weather and sea level rise** — climate change is altering ocean conditions, requiring naval architects to design for more severe wave environments, changing trade routes (Arctic shipping lanes opening due to ice melt), and rising port infrastructure challenges.
+**Extreme weather and sea level rise** — [climate change](/climate-change) is altering ocean conditions, requiring naval architects to design for more severe wave environments, changing trade routes (Arctic shipping lanes opening due to ice melt), and rising port infrastructure challenges.
 
 **Digitalization** — digital twins (real-time virtual models of actual ships), predictive maintenance using sensor data and [machine learning](/machine-learning), and integrated design-to-build digital workflows are transforming how ships are designed, built, and operated.
 
@@ -183,4 +183,4 @@ Naval architecture is the engineering of ships and marine structures — a disci
 
 The field's current priorities — decarbonization, autonomous operation, and digital integration — reflect broader technological trends, but they play out uniquely in the maritime context, where vessels operate in one of Earth's harshest environments, far from shore-based support, for decades at a time.
 
-Whether you're looking at a container ship stacked with boxes, a cruise liner carrying thousands of passengers, or a submarine operating hundreds of meters below the surface, the vessel exists because naval architects solved a series of physics, engineering, and design problems that most people never think about. Ships are among the largest, most complex, and most consequential machines humans build — and naval architecture is how they get built.
+Whether you're looking at a container ship stacked with boxes, a cruise liner carrying thousands of passengers, or a submarine operating hundreds of meters below the surface, the vessel exists because naval architects solved a series of [physics](/physics), engineering, and design problems that most people never think about. Ships are among the largest, most complex, and most consequential machines humans build — and naval architecture is how they get built.

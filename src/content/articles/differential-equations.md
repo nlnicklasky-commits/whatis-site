@@ -39,11 +39,11 @@ A differential equation is a mathematical equation that relates a function to it
 
 ## Why Should You Care?
 
-Here's the honest pitch: differential equations describe how everything changes. Not metaphorically. Literally everything in physics, engineering, biology, economics, and chemistry that involves change over time or variation across space is described by differential equations.
+Here's the honest pitch: differential equations describe how everything changes. Not metaphorically. Literally everything in [physics](/physics), [engineering](/engineering), [biology](/biology), [economics](/economics), and [chemistry](/chemistry) that involves change over time or variation across space is described by differential equations.
 
-The trajectory of a thrown ball? A differential equation (Newton's second law). The spread of a disease? A differential equation (the SIR model). The vibration of a guitar string? A differential equation (the wave equation). The decay of radioactive atoms? A differential equation (exponential decay). The flow of current in a circuit? Differential equations. The price of options on Wall Street? Differential equations (the Black-Scholes equation).
+The trajectory of a thrown ball? A differential equation (Newton's second law). The spread of a disease? A differential equation (the SIR model). The vibration of [a guitar](/guitar) string? A differential equation (the wave equation). The decay of radioactive atoms? A differential equation (exponential decay). The flow of current in a circuit? Differential equations. The price of options on Wall Street? Differential equations (the Black-Scholes equation).
 
-If calculus is the mathematics of change, differential equations are the mathematics of *how things change based on their current state*. That feedback loop—where the rate of change depends on the current value—is what makes them so powerful and so hard.
+If [calculus](/calculus) is the [mathematics](/mathematics) of change, differential equations are the mathematics of *how things change based on their current state*. That feedback loop—where the rate of change depends on the current value—is what makes them so powerful and so hard.
 
 ## The Basic Idea
 
@@ -67,7 +67,7 @@ A first-order ODE involves only the first derivative. The general form is dy/dx 
 
 **Linear first-order equations** have the form dy/dx + P(x)y = Q(x). These are solved using an integrating factor—multiplying both sides by a carefully chosen function that turns the left side into a perfect derivative. The technique is mechanical: compute the integrating factor, multiply through, integrate, and solve for y.
 
-**Exact equations** arise when the equation can be written as the total differential of some function F(x,y). Finding the solution means reconstructing F from its partial derivatives—essentially running the chain rule backward.
+**Exact equations** arise when the equation can be written as the total differential of some function F(x,y). Finding the solution means reconstructing F from its partial derivatives—essentially [running](/running) the chain rule backward.
 
 ### Second-Order ODEs
 
@@ -81,7 +81,7 @@ The solution method involves the **characteristic equation**: ar² + br + c = 0.
 - Repeated real root: critically damped (fastest return without oscillation)
 - Complex conjugate roots: underdamped (oscillation with decay)
 
-This classification isn't just mathematical bookkeeping. It describes physically different behaviors. A car's suspension is engineered to be slightly underdamped—you want it to absorb bumps quickly but not bounce. A closing door should be critically damped—close smoothly without slamming or bouncing. These engineering decisions come directly from the characteristic equation.
+This classification isn't just mathematical [bookkeeping](/bookkeeping). It describes physically different behaviors. A car's suspension is engineered to be slightly underdamped—you want it to absorb bumps quickly but not bounce. A closing door should be critically damped—close smoothly without slamming or bouncing. These engineering decisions come directly from the characteristic equation.
 
 **Forced oscillations** add an external driving force: ay'' + by' + cy = F₀cos(ωt). This models everything from speakers reproducing sound to bridges responding to wind. The terrifying phenomenon of **resonance** occurs when the driving frequency matches the system's natural frequency—the oscillations grow without bound (in the idealized model) or to dangerous amplitudes (in reality). The Tacoma Narrows Bridge collapse in 1940 is the famous cautionary tale, though the actual physics is more subtle than simple resonance.
 
@@ -129,7 +129,7 @@ Most differential equations encountered in real applications can't be solved wit
 
 ### Physics
 
-Essentially every fundamental law of physics is a differential equation. Newton's laws of motion. Maxwell's equations of [electromagnetism](/electromagnetism). The Schrodinger equation of [quantum mechanics](/quantum-mechanics). Einstein's field equations of [general relativity](/general-relativity). The Navier-Stokes equations of fluid dynamics. Understanding physics *is* understanding differential equations—there's no separating them.
+Essentially every fundamental law of physics is a differential equation. Newton's laws of motion. Maxwell's equations of [electromagnetism](/electromagnetism). The Schrodinger equation of [quantum mechanics](/quantum-mechanics). Einstein's field equations of [general relativity](/general-relativity). The Navier-Stokes equations of [fluid dynamics](/fluid-dynamics). Understanding physics *is* understanding differential equations—there's no separating them.
 
 The Navier-Stokes equations deserve special mention. They describe fluid flow—water, air, blood, magma—and are so difficult that proving they always have smooth solutions is one of the seven Millennium Prize Problems, carrying a $1 million reward. We use numerical approximations of these equations every day for weather forecasting and [aerodynamics](/aerodynamics) simulation, but their fundamental mathematical properties remain partially unknown.
 
@@ -143,19 +143,19 @@ Engineers use differential equations constantly. Circuit analysis relies on ODEs
 
 Population dynamics—growth, competition, predation, disease spread—are modeled with systems of ODEs. The SIR model (Susceptible-Infected-Recovered) that informed COVID-19 policy decisions is a system of three differential equations. Pharmacokinetics—how drugs are absorbed, distributed, metabolized, and excreted—uses compartment models based on ODEs.
 
-The Hodgkin-Huxley equations describe how neurons fire, modeling the flow of ions through membrane channels. This work won the 1963 Nobel Prize and laid the mathematical foundation for computational neuroscience.
+The Hodgkin-Huxley equations describe how neurons fire, modeling the flow of ions through membrane channels. This work won the 1963 Nobel Prize and laid the mathematical foundation for computational [neuroscience](/neuroscience).
 
 ### Economics and Finance
 
 The Black-Scholes equation—a PDE describing how option prices evolve—revolutionized financial markets and earned its creators the 1997 Nobel Prize in Economics. Economic growth models, inflation dynamics, and market equilibrium analysis all use differential equations.
 
-Interest rate models, portfolio optimization, and risk assessment rely on stochastic differential equations—differential equations with random noise terms that capture the inherent uncertainty of financial markets.
+Interest rate models, portfolio [optimization](/optimization), and risk assessment rely on stochastic differential equations—differential equations with random noise terms that capture the inherent uncertainty of financial markets.
 
 ## Chaos and Nonlinear Dynamics
 
 Linear differential equations are (relatively) well-behaved: small changes in initial conditions produce small changes in solutions. Nonlinear equations can be wildly different.
 
-Edward Lorenz discovered in 1963 that a simple system of three nonlinear ODEs—modeling atmospheric convection—exhibited extreme sensitivity to initial conditions. Tiny differences in starting values produced completely different trajectories after enough time. This sensitivity became popularly known as the "butterfly effect" and launched the field of chaos theory.
+Edward Lorenz discovered in 1963 that a simple system of three nonlinear ODEs—modeling atmospheric convection—exhibited extreme sensitivity to initial conditions. Tiny differences in starting values produced completely different trajectories after enough time. This sensitivity became popularly known as the "butterfly effect" and launched the field of [chaos theory](/chaos-theory).
 
 Chaotic systems are deterministic—they follow exact equations with no randomness—yet they're effectively unpredictable beyond a certain time horizon because measurement precision is always finite. This has deep implications: weather is governed by known equations but is inherently unpredictable beyond about two weeks because small measurement errors amplify exponentially.
 

@@ -115,4 +115,4 @@ The office shapes the person as much as the person shapes the office. Presidents
 
 And perhaps the most sobering lesson: the presidency is simultaneously the most powerful position on Earth and remarkably constrained. Congress controls the budget. The courts interpret the law. The states retain enormous authority. Public opinion limits what's politically possible. The president proposes; everybody else disposes.
 
-That tension — between enormous power and constant constraint — is the central drama of presidential history. It's what makes the office endlessly fascinating and endlessly frustrating, for the people who hold it and the people who study it.
+That tension — between enormous power and constant constraint — is the central [drama](/drama) of presidential history. It's what makes the office endlessly fascinating and endlessly frustrating, for the people who hold it and the people who study it.

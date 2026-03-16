@@ -178,13 +178,13 @@ Deep learning dominates computer vision. Specific applications:
 - **Medical imaging**: Detecting tumors in MRIs, identifying diabetic retinopathy in retinal scans, classifying skin lesions. A 2024 study in *The Lancet* found that AI-assisted radiologists detected 20% more cancers than radiologists working alone.
 - **Autonomous vehicles**: Processing camera, lidar, and radar data in real-time to detect pedestrians, vehicles, lane markings, and traffic signs.
 - **Manufacturing**: Inspecting products for defects on assembly lines at speeds impossible for human inspectors.
-- **Agriculture**: Drone-based crop monitoring, disease detection, and yield prediction using satellite imagery.
+- **[Agriculture](/agriculture)**: Drone-based crop monitoring, disease detection, and yield prediction using satellite imagery.
 
 ### [Natural Language Processing](/natural-language-processing)
 
 Language is where deep learning has made its most visible public impact.
 
-- **Translation**: Neural machine translation (Google Translate, DeepL) has dramatically improved translation quality compared to older statistical methods.
+- **[Translation](/translation)**: Neural machine translation (Google Translate, DeepL) has dramatically improved translation quality compared to older statistical methods.
 - **Conversational AI**: ChatGPT, Claude, and similar assistants use deep learning to generate human-like text responses.
 - **Sentiment analysis**: Analyzing customer reviews, social media, and support tickets at scale to gauge opinion.
 - **Code generation**: GitHub Copilot and similar tools generate code from natural language descriptions.
@@ -197,7 +197,7 @@ Language is where deep learning has made its most visible public impact.
 
 ### Scientific Discovery
 
-- **Protein structure prediction**: DeepMind's AlphaFold predicted structures for nearly all known proteins, solving a 50-year grand challenge in biology.
+- **Protein structure prediction**: DeepMind's AlphaFold predicted structures for nearly all known proteins, solving a 50-year grand challenge in [biology](/biology).
 - **Drug discovery**: Deep learning identifies potential drug candidates by analyzing molecular structures, reducing the time from target identification to lead compound.
 - **Climate modeling**: Neural networks accelerate climate simulations and improve weather prediction accuracy.
 - **[Materials science](/materials-science)**: Predicting properties of new materials before synthesizing them.
@@ -244,9 +244,9 @@ Large language models generate text that sounds confident and plausible but is f
 
 **Multimodal models** process multiple data types (text, images, audio, video) in a single architecture. GPT-4V, Gemini, and similar models understand images alongside text, and this trend toward unified models across modalities is accelerating.
 
-**Smaller, efficient models** are getting attention as the costs of massive models become apparent. Techniques like [distillation](/distillation) (training a small model to mimic a large one), quantization (reducing numerical precision), and pruning (removing unnecessary connections) make deep learning practical on mobile devices and edge hardware.
+**Smaller, efficient models** are getting attention as the costs of massive models become apparent. Techniques like [distillation](/distillation) (training a small model to mimic a large one), quantization (reducing numerical precision), and [pruning](/pruning) (removing unnecessary connections) make deep learning practical on mobile devices and edge hardware.
 
-**Agent-based systems** use deep learning models as reasoning engines within larger systems that can take actions—searching the web, writing code, using tools, and making plans. This moves beyond question-answering toward autonomous task completion.
+**Agent-based systems** use deep learning models as reasoning engines within larger systems that can take actions—searching the web, [writing](/writing) code, using tools, and making plans. This moves beyond question-answering toward autonomous task completion.
 
 **[Neuroscience](/neuroscience)-inspired architectures** look beyond Transformers. Spiking neural networks, which more closely model biological neurons, and state-space models like Mamba offer alternatives with different computational tradeoffs.
 

@@ -65,7 +65,7 @@ Target identification draws heavily on [molecular biology](/molecular-biology), 
 
 Once you have a target, you need a "hit" --- a molecule that interacts with that target in a measurable way. There are several approaches:
 
-**High-throughput screening (HTS)** tests hundreds of thousands of compounds against a target using robotics and automated detection. A large pharmaceutical company might screen a library of 2 million compounds in a matter of weeks. Most won't do anything. A few --- the hits --- will show some activity.
+**High-throughput screening (HTS)** tests hundreds of thousands of compounds against a target using [robotics](/robotics) and automated detection. A large pharmaceutical company might screen a library of 2 million compounds in a matter of weeks. Most won't do anything. A few --- the hits --- will show some activity.
 
 **Fragment-based drug discovery** starts smaller. Instead of screening large, complex molecules, you test tiny molecular fragments (typically under 300 Daltons). These fragments bind weakly, but they give chemists a starting point. You then grow or link fragments together to create something with real potency.
 
@@ -77,7 +77,7 @@ Once you have a target, you need a "hit" --- a molecule that interacts with that
 
 A hit isn't a drug. It's a starting point. The hit might bind to your target, but it probably also does a dozen things you don't want: it's toxic, it breaks down in stomach acid, it can't cross cell membranes, or it gets metabolized too quickly.
 
-This is where pharmaceutical chemistry really shines. Lead optimization is the systematic process of modifying a molecule's structure to improve its properties while maintaining its desired activity. Chemists use structure-activity relationships (SAR) --- changing one piece of the molecule at a time and measuring what happens.
+This is where pharmaceutical chemistry really shines. Lead [optimization](/optimization) is the systematic process of modifying a molecule's structure to improve its properties while maintaining its desired activity. Chemists use structure-activity relationships (SAR) --- changing one piece of the molecule at a time and measuring what happens.
 
 Want the drug to last longer in the body? Maybe add a methyl group that blocks a metabolic vulnerability. Need better solubility? Introduce a polar functional group. Getting off-target effects? Tweak the shape so it fits your target more precisely.
 
@@ -125,9 +125,9 @@ You can't optimize what you can't measure. Pharmaceutical chemists rely on analy
 
 - **Mass spectrometry** determines molecular weight and fragmentation patterns
 - **Nuclear magnetic resonance (NMR)** reveals molecular structure and dynamics
-- **X-ray crystallography** provides atomic-level 3D structures
-- **High-performance liquid chromatography (HPLC)** separates and quantifies compounds
-- **Infrared and UV-Vis spectroscopy** identify functional groups and electronic properties
+- **[X-ray crystallography](/x-ray-crystallography)** provides atomic-level 3D structures
+- **High-performance liquid [chromatography](/chromatography) (HPLC)** separates and quantifies compounds
+- **Infrared and UV-Vis [spectroscopy](/spectroscopy)** identify functional groups and electronic properties
 
 These tools verify that the molecule you think you made is actually what you made --- and that it's pure enough for testing.
 
@@ -151,13 +151,13 @@ After years of laboratory work, a drug candidate enters clinical trials. Pharmac
 
 **Phase III** trials are large-scale studies (1,000-3,000+ patients) that confirm effectiveness, monitor side effects, and compare the drug to existing treatments. These trials generate the evidence needed for regulatory approval.
 
-The entire clinical trial process takes 6-7 years on average. After Phase III, the company submits a New Drug Application (NDA) to regulators like the FDA or EMA. Review takes another 1-2 years. And even after approval, Phase IV post-marketing surveillance continues to monitor for rare side effects.
+The entire clinical trial process takes 6-7 years on average. After Phase III, the company submits a New Drug Application (NDA) to regulators like the FDA or EMA. Review takes another 1-2 years. And even after approval, Phase IV post-[marketing](/marketing) surveillance continues to monitor for rare side effects.
 
 ## Real-World Examples That Changed Everything
 
 ### Penicillin: The Accidental Discovery
 
-Alexander Fleming noticed mold killing bacteria in 1928, but it took pharmaceutical chemists Howard Florey and Ernst Boris Chain over a decade to figure out how to purify and produce penicillin at scale. The chemical challenge was enormous --- penicillin's beta-lactam ring is chemically unstable and difficult to synthesize. Early production relied on fermentation (growing the mold), but chemists eventually developed semi-synthetic penicillins by modifying the natural molecule to resist bacterial enzymes.
+Alexander Fleming noticed mold killing bacteria in 1928, but it took pharmaceutical chemists Howard Florey and Ernst Boris Chain over a decade to figure out how to purify and produce penicillin at scale. The chemical challenge was enormous --- penicillin's beta-lactam ring is chemically unstable and difficult to synthesize. Early production relied on [fermentation](/fermentation) (growing the mold), but chemists eventually developed semi-synthetic penicillins by modifying the natural molecule to resist bacterial enzymes.
 
 ### Imatinib (Gleevec): Rational Drug Design
 

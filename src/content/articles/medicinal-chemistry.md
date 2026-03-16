@@ -35,7 +35,7 @@ faq:
 
 # What Is Medicinal Chemistry?
 
-Medicinal chemistry is the science of designing, synthesizing, and developing chemical compounds for use as pharmaceutical drugs. It sits at the intersection of [chemistry](/chemistry), [biology](/biology), and pharmacology, and its primary goal is straightforward even if the work isn't: find molecules that treat disease safely and effectively.
+Medicinal chemistry is the science of designing, synthesizing, and developing chemical compounds for use as pharmaceutical drugs. It sits at the intersection of [chemistry](/chemistry), [biology](/biology), and [pharmacology](/pharmacology), and its primary goal is straightforward even if the work isn't: find molecules that treat disease safely and effectively.
 
 Every pill you've taken, every injection you've received, every drug that's ever helped you --- a medicinal chemist played a central role in creating it.
 
@@ -81,7 +81,7 @@ The drug discovery process is long, expensive, and full of failure. Here's what 
 
 Every drug needs a biological target --- usually a protein (an enzyme, receptor, or ion channel) that plays a key role in a disease process. Identifying the right target requires deep understanding of disease biology.
 
-For example, if a disease is caused by overactivity of a specific enzyme, that enzyme becomes the target. If a receptor is involved in pain signaling, blocking that receptor might relieve pain. Target identification increasingly relies on genomics, proteomics, and [data science](/data-science) to analyze biological pathways and find the most promising intervention points.
+For example, if a disease is caused by overactivity of a specific enzyme, that enzyme becomes the target. If a receptor is involved in pain signaling, blocking that receptor might relieve pain. Target identification increasingly relies on genomics, [proteomics](/proteomics), and [data science](/data-science) to analyze biological pathways and find the most promising intervention points.
 
 Not all targets are "druggable." Some proteins don't have binding pockets where a small molecule can attach. Some are inside cells in locations that drugs can't easily reach. Roughly 3,000 of the approximately 20,000 human proteins are considered druggable by small molecules, though new approaches (like protein degraders) are expanding this number.
 
@@ -128,7 +128,7 @@ Lipinski's Rule of Five, published in 1997, provides rough guidelines for oral d
 The optimized lead compound undergoes extensive preclinical testing, including:
 
 - In vitro studies (cell-based assays, metabolic stability tests)
-- In vivo studies in animal models (efficacy, pharmacokinetics, toxicology)
+- In vivo studies in animal models (efficacy, pharmacokinetics, [toxicology](/toxicology))
 - Formulation development
 - Process chemistry (developing practical methods for large-scale synthesis)
 
@@ -148,7 +148,7 @@ Success rates drop at each phase. Roughly 63% of Phase I drugs make it to Phase 
 
 ### Step 7: Regulatory Approval and Beyond
 
-The sponsor submits a New Drug Application (NDA) to the FDA, containing all preclinical and clinical data. FDA review takes about 10 to 12 months. If approved, the drug enters the market. But the work isn't over --- Phase IV (post-marketing surveillance) monitors for rare side effects that only appear in large populations.
+The sponsor submits a New Drug Application (NDA) to the FDA, containing all preclinical and clinical data. FDA review takes about 10 to 12 months. If approved, the drug enters the market. But the work isn't over --- Phase IV (post-[marketing](/marketing) surveillance) monitors for rare side effects that only appear in large populations.
 
 ## The Tools of Modern Medicinal Chemistry
 
@@ -183,7 +183,7 @@ The ability to efficiently synthesize molecules remains fundamental. Modern tech
 
 ### Analytical Techniques
 
-Mass spectrometry, NMR spectroscopy, X-ray crystallography, and cryo-[electron microscopy](/electron-microscopy) are the eyes of medicinal chemistry. They confirm the identity and purity of synthesized compounds, reveal the three-dimensional structures of drug-target complexes, and provide the structural data that drives rational design.
+Mass spectrometry, NMR [spectroscopy](/spectroscopy), X-ray [crystallography](/crystallography), and cryo-[electron microscopy](/electron-microscopy) are the eyes of medicinal chemistry. They confirm the identity and purity of synthesized compounds, reveal the three-dimensional structures of drug-target complexes, and provide the structural data that drives rational design.
 
 ## Emerging Frontiers
 
@@ -193,7 +193,7 @@ Traditional medicinal chemistry focuses on small molecules (molecular weight und
 
 **Biologics**: Large protein-based drugs like antibodies. The global biologics market exceeded $400 billion in 2024.
 
-**Antibody-drug conjugates (ADCs)**: Antibodies linked to toxic payloads that deliver chemotherapy directly to cancer cells. This is essentially targeted molecular engineering.
+**Antibody-drug conjugates (ADCs)**: Antibodies linked to toxic payloads that deliver chemotherapy directly to cancer cells. This is essentially targeted molecular [engineering](/engineering).
 
 **RNA therapeutics**: mRNA vaccines (like the COVID-19 vaccines from Pfizer and Moderna) and RNA interference drugs. These represent an entirely new class of medicines.
 
@@ -209,15 +209,15 @@ Cancer treatment is furthest along this path. Genomic testing of tumors identifi
 
 ### Antimicrobial Resistance
 
-The pipeline of new antibiotics has slowed to a trickle, even as antibiotic resistance grows. The WHO considers antimicrobial resistance one of the top 10 global [public health](/public-health) threats. Medicinal chemists are working on new antibiotic classes, but the economics are challenging --- antibiotics are taken for short courses (unlike chronic disease drugs), and successful new antibiotics are held in reserve, limiting commercial returns. This economic reality has driven many pharmaceutical companies out of antibiotic research, leaving the field to academic labs, small biotechs, and government-funded initiatives.
+The pipeline of new antibiotics has slowed to a trickle, even as antibiotic resistance grows. The WHO considers antimicrobial resistance one of the top 10 global [public health](/public-health) threats. Medicinal chemists are working on new antibiotic classes, but the [economics](/economics) are challenging --- antibiotics are taken for short courses (unlike chronic disease drugs), and successful new antibiotics are held in reserve, limiting commercial returns. This economic reality has driven many pharmaceutical companies out of antibiotic research, leaving the field to academic labs, small biotechs, and [government](/government)-funded initiatives.
 
 ## Careers in Medicinal Chemistry
 
 The standard path is a bachelor's degree in chemistry or [biology](/biology), followed by a PhD in medicinal chemistry, [organic chemistry](/organic-chemistry), or a related field. Postdoctoral research (2-4 years) is common before industry positions.
 
-Pharmaceutical companies (Pfizer, Novartis, Roche, Johnson & Johnson, Merck) are the largest employers. Biotech companies offer roles that are often more hands-on and varied. Academic positions combine research with teaching.
+Pharmaceutical companies (Pfizer, Novartis, Roche, Johnson & Johnson, Merck) are the largest employers. Biotech companies offer roles that are often more hands-on and varied. Academic positions combine research with [teaching](/teaching).
 
-Typical roles include research scientist, senior scientist, principal scientist, and research fellow on the technical track, or team leader, department head, and VP of chemistry on the management track. Salaries range from roughly $80,000 for entry-level PhD scientists to $200,000+ for senior technical or management positions.
+Typical roles include research scientist, senior scientist, principal scientist, and research fellow on the technical track, or team leader, department head, and VP of chemistry on the [management](/management) track. Salaries range from roughly $80,000 for entry-level PhD scientists to $200,000+ for senior technical or management positions.
 
 The field also needs specialists in computational chemistry, analytical chemistry, process chemistry (scaling up synthesis for manufacturing), and regulatory chemistry (ensuring manufactured drugs meet quality standards).
 

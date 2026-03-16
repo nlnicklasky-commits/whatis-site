@@ -31,11 +31,11 @@ faq:
 
 # What Is Art History?
 
-Art history is the scholarly study of visual arts — painting, sculpture, [architecture](/architecture), photography, and other visual forms — examining how they were created, what they meant in their original context, and how they relate to broader patterns of human culture, belief, and power.
+Art history is the scholarly study of [visual arts](/visual-arts) — [painting](/painting), [sculpture](/sculpture), [architecture](/architecture), photography, and other visual forms — examining how they were created, what they meant in their original context, and how they relate to broader patterns of human culture, belief, and power.
 
 ## Why Study Old Paintings?
 
-The question sounds flip, but it's worth answering directly. Art history matters because visual objects are some of the most revealing evidence we have about past societies. A Roman mosaic tells you about wealth, taste, trade routes, and domestic life. A medieval altarpiece reveals religious beliefs, patronage systems, and artistic technique. A photograph from the Great Depression captures social reality in ways that statistics alone cannot.
+The question sounds flip, but it's worth answering directly. Art history matters because visual objects are some of the most revealing evidence we have about past societies. A Roman mosaic tells you about wealth, taste, [trade](/trade) routes, and domestic life. A medieval altarpiece reveals religious beliefs, patronage systems, and artistic technique. A photograph from the Great Depression captures social reality in ways that [statistics](/statistics) alone cannot.
 
 Art doesn't just reflect culture — it shapes it. Images influence how people see themselves, their leaders, their enemies, and their gods. Understanding how visual persuasion works is arguably more relevant now than ever, in a world saturated with images competing for your attention.
 
@@ -47,7 +47,7 @@ Cave paintings at Lascaux (roughly 17,000 years ago) and Altamira demonstrate th
 
 ### Medieval
 
-After Rome fell, European art turned primarily to religious subjects. Byzantine art (Eastern Roman Empire) developed iconic gold-ground panel paintings. Romanesque and Gothic periods produced illuminated manuscripts, monumental church sculpture, and — in Gothic cathedrals — [stained glass](/stained-glass) programs that functioned as visual theology for largely illiterate congregations.
+After Rome fell, European art turned primarily to religious subjects. Byzantine art (Eastern Roman Empire) developed iconic gold-ground panel paintings. Romanesque and Gothic periods produced illuminated manuscripts, monumental church sculpture, and — in Gothic cathedrals — [stained glass](/stained-glass) programs that functioned as visual [theology](/theology) for largely illiterate congregations.
 
 ### Renaissance
 
@@ -55,13 +55,13 @@ The Italian Renaissance (roughly 1400-1600) is art history's most celebrated cha
 
 ### Baroque to Neoclassical
 
-Baroque art (1600s) embraced drama, movement, and intense emotion — Caravaggio's stark lighting, Bernini's theatrical sculptures. The Rococo (early 1700s) turned lighter and more decorative. [Neoclassicism](/neoclassicism) (late 1700s) swung back to Greek and Roman severity, reflecting Enlightenment ideals of reason and civic virtue.
+Baroque art (1600s) embraced [drama](/drama), movement, and intense emotion — Caravaggio's stark lighting, Bernini's theatrical sculptures. The Rococo (early 1700s) turned lighter and more decorative. [Neoclassicism](/neoclassicism) (late 1700s) swung back to Greek and Roman severity, reflecting Enlightenment ideals of reason and civic virtue.
 
 ### Modern Art
 
-The 19th and 20th centuries produced an astonishing cascade of movements: [Impressionism](/impressionism), [Post-Impressionism](/post-impressionism), Cubism, Expressionism, Surrealism, Abstract Expressionism, Pop Art, Minimalism, Conceptual Art. Each challenged previous assumptions about what art should look like, what it should do, and who gets to define it.
+The 19th and 20th centuries produced an astonishing cascade of movements: [Impressionism](/impressionism), [Post-Impressionism](/post-impressionism), Cubism, Expressionism, Surrealism, Abstract Expressionism, [Pop Art](/pop-art), [Minimalism](/minimalism), Conceptual Art. Each challenged previous assumptions about what art should look like, what it should do, and who gets to define it.
 
-Impressionism alone — Monet, Renoir, Degas — was revolutionary because it prioritized visible brushwork and fleeting light effects over the polished finish that academic painting demanded. The Salon establishment hated it. Audiences eventually loved it. This pattern — rejection, then acceptance — repeats throughout modern art history.
+Impressionism alone — Monet, Renoir, Degas — was revolutionary because it prioritized visible brushwork and fleeting light effects over the polished finish that academic painting demanded. The Salon establishment hated it. Audiences eventually loved it. This pattern — rejection, then acceptance — repeats throughout [modern art](/modern-art) history.
 
 ### Contemporary
 
@@ -93,7 +93,7 @@ This has been changing, sometimes controversially. Art history programs increasi
 
 ## Art History Careers
 
-The stereotypical career path is academia — teaching and publishing in universities. But art historians also work as museum curators and directors, gallery owners, auction house specialists, art conservators, arts journalists, cultural policy advisors, and art lawyers.
+The stereotypical career path is academia — [teaching](/teaching) and [publishing](/publishing) in universities. But art historians also work as museum curators and directors, gallery owners, auction house specialists, art conservators, arts journalists, cultural policy advisors, and art lawyers.
 
 The transferable skills are real: visual analysis, research methodology, written communication, cross-cultural understanding, and the ability to construct arguments from evidence. Art history graduates don't just know about paintings — they know how to look carefully, think critically, and communicate clearly about complex subjects.
 

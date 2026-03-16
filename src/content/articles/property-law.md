@@ -109,7 +109,7 @@ Several trends are reshaping property law right now.
 
 **Digital property** raises new questions. Do you own your digital music, or just license it? What happens to your online accounts when you die? Courts and legislatures are still working this out.
 
-**Climate change** is forcing property law to confront rising seas, increased flooding, and shifting coastlines. When the ocean swallows your beachfront property, who bears the cost? What happens to property boundaries when rivers change course?
+**[Climate change](/climate-change)** is forcing property law to confront rising seas, increased flooding, and shifting coastlines. When the ocean swallows your beachfront property, who bears the cost? What happens to property boundaries when rivers change course?
 
 **Housing affordability** is pushing jurisdictions to rethink zoning, rent regulation, and development rules. The tension between property rights (an owner's right to do what they want with their land) and community needs (affordable housing, environmental protection, historical preservation) is as old as property law itself — but the pressure is intensifying.
 

@@ -41,9 +41,9 @@ That distinction matters more than it sounds. Every time a Supreme Court justice
 
 ## Why Jurisprudence Matters
 
-You might think this is purely academic—the kind of thing philosophy professors argue about while the rest of us deal with actual laws. But here's the thing: jurisprudential assumptions shape real legal outcomes every single day.
+You might think this is purely academic—the kind of thing [philosophy](/philosophy) professors argue about while the rest of us deal with actual laws. But here's the thing: jurisprudential assumptions shape real legal outcomes every single day.
 
-When the U.S. Supreme Court ruled in *Brown v. Board of Education* (1954) that segregated schools were unconstitutional, they weren't just applying existing law. They were making a jurisprudential judgment—that the Constitution embodies principles of equality that override the explicit intentions of its authors, many of whom owned slaves. That's a natural law argument masquerading as constitutional interpretation.
+When the U.S. Supreme Court ruled in *Brown v. Board of [Education](/education)* (1954) that segregated schools were unconstitutional, they weren't just applying existing law. They were making a jurisprudential judgment—that the Constitution embodies principles of equality that override the explicit intentions of its authors, many of whom owned slaves. That's a natural law argument masquerading as constitutional interpretation.
 
 When judges interpret contracts strictly according to their text, ignoring what the parties "really meant," they're applying a positivist philosophy—the written word is the law, period. When other judges look beyond the text to the parties' intentions and the broader context, they're applying a different philosophy entirely.
 
@@ -65,13 +65,13 @@ Thomas Aquinas gave natural law its most sophisticated medieval formulation. He 
 
 This idea has enormous practical consequences. The Nuremberg trials after [World War II](/world-war-ii) relied on natural law reasoning: Nazi officials couldn't defend their actions by saying they were "just following the law," because those laws violated principles of human dignity that transcend any nation's legal system. The defense "I was obeying orders" was rejected precisely because jurisprudence holds that some moral standards override positive law.
 
-Modern natural law theory, articulated by scholars like John Finnis, doesn't necessarily require religious foundations. Finnis argues that certain "basic goods"—life, knowledge, play, aesthetic experience, friendship, practical reasonableness, and religion (broadly defined)—are self-evidently valuable and provide the moral foundation for law. Law's purpose is to facilitate the pursuit of these goods within a community.
+Modern natural law theory, articulated by scholars like John Finnis, doesn't necessarily require religious foundations. Finnis argues that certain "basic goods"—life, knowledge, play, aesthetic experience, friendship, practical reasonableness, and [religion](/religion) (broadly defined)—are self-evidently valuable and provide the moral foundation for law. Law's purpose is to facilitate the pursuit of these goods within a community.
 
 ### Legal Positivism
 
 Legal positivism takes the opposite view: law is whatever a legitimate authority enacts through proper procedures. Its moral content is irrelevant to its status as law.
 
-John Austin, writing in the 1830s, defined law as "the command of a sovereign, backed by the threat of sanction." This is clean and simple—law is about power and procedure, not morality. A law can be perfectly valid and deeply unjust at the same time. Positivists don't deny that unjust laws are bad—they just insist that being bad doesn't make them non-laws.
+John Austin, [writing](/writing) in the 1830s, defined law as "the command of a sovereign, backed by the threat of sanction." This is clean and simple—law is about power and procedure, not morality. A law can be perfectly valid and deeply unjust at the same time. Positivists don't deny that unjust laws are bad—they just insist that being bad doesn't make them non-laws.
 
 H.L.A. Hart refined positivism in his 1961 masterpiece *The Concept of Law*. Hart argued that Austin's command theory was too crude—it couldn't explain things like constitutional law (which limits the sovereign) or custom (which creates legal obligations without explicit commands).
 
@@ -87,7 +87,7 @@ One of the most famous exchanges in jurisprudence occurred between Hart and Lon 
 
 Fuller responded that law requires an "inner morality"—certain procedural requirements (laws must be general, public, prospective, clear, consistent, possible to comply with, stable, and administered consistently) without which you don't really have a legal system at all. Nazi law failed these requirements so thoroughly that calling it "law" was misleading.
 
-This debate remains unresolved, which tells you something about the depth of the questions jurisprudence asks. Both positions have strong arguments, and the disagreement reveals something genuine about the tension between law's practical reality and its moral aspirations.
+This [debate](/debate) remains unresolved, which tells you something about the depth of the questions jurisprudence asks. Both positions have strong arguments, and the disagreement reveals something genuine about the tension between law's practical reality and its moral aspirations.
 
 ### Legal Realism
 
@@ -107,9 +107,9 @@ The Critical Legal Studies (CLS) movement emerged in the 1970s as a radical chal
 
 Duncan Kennedy, Roberto Unger, and other CLS scholars drew on Marxist theory, [anthropology](/anthropology), and [literary criticism](/literary-criticism) to "deconstruct" legal doctrines. They argued that legal rules are fundamentally contradictory—for every principle, there's an equally valid counter-principle—and that the choices between them are political, not legal.
 
-For example, [contract law](/contract-law) contains both the principle of "freedom of contract" (people should be free to make whatever agreements they want) and the principle of "unconscionability" (courts can void contracts that are grossly unfair). Which principle a court applies depends not on logic but on whose interests the court wants to protect.
+For example, [contract law](/contract-law) contains both the principle of "freedom of contract" (people should be free to make whatever agreements they want) and the principle of "unconscionability" (courts can void contracts that are grossly unfair). Which principle a court applies depends not on [logic](/logic) but on whose interests the court wants to protect.
 
-CLS was controversial and divisive within law schools. Critics accused it of nihilism—if all legal reasoning is political, what's the point of law? CLS scholars responded that exposing law's political nature was the first step toward making it more just.
+CLS was controversial and divisive within law schools. Critics accused it of [nihilism](/nihilism)—if all legal reasoning is political, what's the point of law? CLS scholars responded that exposing law's political nature was the first step toward making it more just.
 
 ### Feminist Jurisprudence
 
@@ -121,11 +121,11 @@ Feminist jurisprudence also challenged the public/private distinction in law—t
 
 ### Law and Economics
 
-The Law and Economics movement applies economic analysis to legal questions. Richard Posner, its most prominent advocate, argued that the common law tends toward economic efficiency—legal rules generally evolve to maximize wealth and minimize transaction costs.
+The Law and [Economics](/economics) movement applies economic analysis to legal questions. Richard Posner, its most prominent advocate, argued that the common law tends toward economic efficiency—legal rules generally evolve to maximize wealth and minimize transaction costs.
 
 Under this framework, legal questions become cost-benefit analyses. Should a factory be liable for pollution? Compare the cost of pollution to the cost of preventing it. Should contracts be enforced strictly? Consider the transaction costs of renegotiation versus the efficiency gains of certainty.
 
-Law and economics has been enormously influential, particularly in antitrust law, tort law, and [business-law](/business-law) regulatory analysis. But critics argue it reduces human values to dollar amounts. Some things—dignity, fairness, community—resist quantification, and a jurisprudence that can only speak in prices misses what law is fundamentally about.
+Law and economics has been enormously influential, particularly in antitrust law, [tort law](/tort-law), and [business-law](/business-law) regulatory analysis. But critics argue it reduces human values to dollar amounts. Some things—dignity, fairness, community—resist quantification, and a jurisprudence that can only speak in prices misses what law is fundamentally about.
 
 ## Jurisprudence in Action: Constitutional Interpretation
 
@@ -135,13 +135,13 @@ Nowhere are jurisprudential debates more visible than in constitutional interpre
 
 **Living constitutionalism** holds that the Constitution's meaning evolves with society. The Eighth Amendment prohibits "cruel and unusual punishment"—but what's cruel and unusual changes over time. Flogging was commonplace in 1791 but would be unconstitutional today. Living constitutionalists argue that the framers wrote in broad terms precisely to allow adaptation.
 
-**Pragmatism** focuses on practical consequences rather than theoretical consistency. Justice Stephen Breyer advocated reading the Constitution to promote democratic self-governance—whatever interpretation best serves democratic values is the right one.
+**[Pragmatism](/pragmatism)** focuses on practical consequences rather than theoretical consistency. Justice Stephen Breyer advocated reading the Constitution to promote democratic self-governance—whatever interpretation best serves democratic values is the right one.
 
 These aren't just academic positions—they determine how the Supreme Court decides cases on abortion, gun rights, affirmative action, executive power, and every other major constitutional question. Your jurisprudential philosophy drives your legal conclusions.
 
 ## International Jurisprudence
 
-Jurisprudential questions become even more complex at the international level. [International law](/international-law) lacks a sovereign—there's no world government to enforce it. So where does it get its authority?
+Jurisprudential questions become even more complex at the international level. [International law](/international-law) lacks a sovereign—there's no world [government](/government) to enforce it. So where does it get its authority?
 
 Natural law theorists argue that international law derives authority from universal moral principles—human rights, for instance, exist regardless of what any nation's laws say. This was the philosophical basis for the Universal Declaration of Human Rights (1948) and the development of international humanitarian law.
 
@@ -181,11 +181,11 @@ Modern jurisprudence grapples with challenges its founders couldn't have imagine
 
 **Digital privacy** forces reconsideration of what constitutes a "search" under the Fourth Amendment. When police access your cell phone location data, is that a search? The Supreme Court said yes in *Carpenter v. United States* (2018)—but the existing framework of physical trespass law was never designed for digital surveillance.
 
-**Global governance** challenges the Westphalian model of sovereign nation-states that backs up most jurisprudential theory. Climate change, pandemics, and financial crises don't respect borders, but legal authority still resides primarily within them.
+**Global governance** challenges the Westphalian model of sovereign nation-states that backs up most jurisprudential theory. [Climate change](/climate-change), pandemics, and financial crises don't respect borders, but legal authority still resides primarily within them.
 
 **Algorithmic decision-making** in criminal justice—predictive policing, sentencing algorithms, parole risk assessments—raises questions about due process, equal protection, and the very nature of legal judgment. Can [an algorithm](/algorithms) deliver justice? And if it reproduces existing biases in the data, is it dispensing law or entrenching injustice?
 
-These questions don't have settled answers, which is exactly why jurisprudence remains alive and essential. The philosophical frameworks developed over millennia—natural law, positivism, realism, critical theory—provide the vocabulary and analytical tools for wrestling with problems that are genuinely new.
+These questions don't have settled answers, which is exactly why jurisprudence remains alive and essential. The philosophical frameworks developed over millennia—natural law, positivism, realism, critical theory—provide the vocabulary and analytical tools for [wrestling](/wrestling) with problems that are genuinely new.
 
 ## Key Takeaways
 

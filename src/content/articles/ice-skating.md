@@ -55,7 +55,7 @@ The current understanding: ice surfaces naturally have a thin quasi-liquid layer
 
 **Figure skates** have a long blade with a toe pick (a serrated front edge used for jumping and spinning), a leather or synthetic boot with moderate ankle support, and a relatively flat blade profile. The toe pick is essential for figure skating technique — toe jumps (toe loop, flip, lutz) launch from it.
 
-**Hockey skates** have a shorter, more curved blade (allowing tighter turns), a rigid boot for protection, and no toe pick. They are designed for speed and agility.
+**[Hockey](/hockey) skates** have a shorter, more curved blade (allowing tighter turns), a rigid boot for protection, and no toe pick. They are designed for speed and agility.
 
 **Speed skates** have the longest blades — up to 18 inches for long-track "clap skates" (the blade detaches at the heel during the stride, increasing power). The boots are low-cut for maximum ankle flexibility.
 

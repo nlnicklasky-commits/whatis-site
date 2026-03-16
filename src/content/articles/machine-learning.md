@@ -50,13 +50,13 @@ Machine learning works fundamentally through iteration and feedback. Here's the 
 
 **Step one: You collect data.** This might be thousands (or millions) of photos labeled with what's in them. Customer transactions labeled as "fraud" or "legitimate." Emails labeled as "spam" or "not spam." The labels are crucial—they're the answer key the system learns from.
 
-**Step two: You choose a model architecture.** A model is essentially a mathematical structure with adjustable parameters. Think of it like a recipe where the ingredients are fixed but the amounts are variable. Different model types work better for different problems—decision trees for some tasks, [neural networks](/neural-networks) for others, linear regression for straightforward relationships.
+**Step two: You choose a model [architecture](/architecture).** A model is essentially a mathematical structure with adjustable parameters. Think of it like a recipe where the ingredients are fixed but the amounts are variable. Different model types work better for different problems—decision trees for some tasks, [neural networks](/neural-networks) for others, linear regression for straightforward relationships.
 
 **Step three: You feed data through the model.** The model makes predictions based on its current (usually random) parameters. Those predictions will be terrible at first. A randomly initialized neural network asked to recognize cats will be spectacularly wrong.
 
 **Step four: You measure how wrong the model was.** This measurement is called the "loss" or "error." It quantifies the gap between what the model predicted and what actually happened. This is where the learning happens—not in the predictions themselves, but in understanding how wrong you were.
 
-**Step five: You adjust the parameters to reduce that error.** Using mathematics (usually calculus-based optimization), you nudge the model's parameters in directions that make future predictions closer to correct. Then you repeat. Step three through five happen thousands or millions of times.
+**Step five: You adjust the parameters to reduce that error.** Using [mathematics](/mathematics) (usually [calculus](/calculus)-based [optimization](/optimization)), you nudge the model's parameters in directions that make future predictions closer to correct. Then you repeat. Step three through five happen thousands or millions of times.
 
 **Step six: You validate on data the model never saw.** This is critical. If you only tested on the data the model learned from, you'd have no idea if it actually learned the underlying pattern or just memorized the answers (a problem called "overfitting").
 
@@ -72,7 +72,7 @@ Not all machine learning works the same way. The main categories reflect differe
 
 **[Reinforcement learning](/reinforcement-learning)** mimics how humans and animals learn through trial and error, with rewards and penalties. An AI playing chess or Go doesn't learn from labeled game outcomes; it learns by playing thousands of games, receiving a reward signal when it wins. AlphaGo, the system that defeated world champions at Go, learned primarily through reinforcement learning—playing against itself millions of times and getting better through feedback.
 
-There's also a middle ground. **Semi-supervised learning** works with mostly unlabeled data plus a small amount of labeled data. **Self-supervised learning** creates its own labels from the data itself—like teaching a system to predict the next word in a sentence using all the previous words as context.
+There's also a middle ground. **Semi-supervised learning** works with mostly unlabeled data plus a small amount of labeled data. **Self-supervised learning** creates its own labels from the data itself—like [teaching](/teaching) a system to predict the next word in a sentence using all the previous words as context.
 
 ## The Models: Decision Trees Through Neural Networks
 
@@ -92,7 +92,7 @@ The choice of model depends on your specific problem—the size of your data, th
 
 ## Training, Validation, Testing: The Holy Trinity
 
-This might sound like three separate steps, but they're actually the scaffolding that determines whether your model actually works or just appears to work.
+This might sound like three separate steps, but they're actually the [scaffolding](/scaffolding) that determines whether your model actually works or just appears to work.
 
 During **training**, the model sees your labeled data and adjusts its parameters. This is where learning happens. But here's the trap: if you test the model's performance on the same data it trained on, it'll look much better than it actually is. A model can memorize specific examples without learning generalizable patterns. That's overfitting, and it's the subtle monster lurking in most machine learning projects.
 
@@ -142,17 +142,17 @@ The abstract becomes concrete when you see what machine learning does in practic
 
 **Healthcare**: Predicting disease progression, analyzing medical images to detect tumors, discovering drug candidates, personalizing treatment recommendations. Hospitals now use ML systems to predict patient deterioration hours before critical events.
 
-**Finance**: Fraud detection, algorithmic trading, credit risk assessment, customer churn prediction. Banks process trillions in transactions partly because machine learning can flag suspicious patterns at machine speed.
+**[Finance](/finance)**: Fraud detection, algorithmic trading, credit risk assessment, customer churn prediction. Banks process trillions in transactions partly because machine learning can flag suspicious patterns at machine speed.
 
-**Transportation**: Autonomous vehicles rely on computer vision and reinforcement learning. Route optimization for delivery systems. Rideshare companies predict demand and position drivers using ML models trained on years of movement patterns.
+**Transportation**: Autonomous vehicles rely on [computer vision](/computer-vision) and reinforcement learning. Route optimization for delivery systems. Rideshare companies predict demand and position drivers using ML models trained on years of movement patterns.
 
-**Natural language processing**: Chatbots, translation, sentiment analysis, autocomplete. Language models like GPT are built on machine learning foundations that enable them to generate human-like text.
+**[Natural language processing](/natural-language-processing)**: Chatbots, [translation](/translation), sentiment analysis, autocomplete. Language models like GPT are built on machine learning foundations that enable them to generate human-like text.
 
 **Recommendation systems**: Spotify suggesting songs, Amazon suggesting products, Netflix suggesting shows—all driven by machine learning algorithms learning your preferences. These systems account for a significant portion of many companies' revenue.
 
 **Manufacturing**: Predictive maintenance catches equipment failures before they happen, saving millions in downtime. Quality control through image recognition. Factories optimize production schedules based on ML models predicting demand and supply chain constraints.
 
-**Agriculture**: Crop yield prediction, pest detection, precision irrigation based on soil and weather data. Farmers increasingly use ML to optimize fertilizer use and predict optimal harvest timing.
+**[Agriculture](/agriculture)**: Crop yield prediction, pest detection, precision [irrigation](/irrigation) based on soil and weather data. Farmers increasingly use ML to optimize fertilizer use and predict optimal harvest timing.
 
 These aren't hypothetical. They're generating real value right now, in industries from healthcare to retail to agriculture.
 
@@ -162,7 +162,7 @@ If you're thinking about learning machine learning practically, here's what a re
 
 **Learn Python first** if you haven't. It's the de facto language for machine learning. You don't need to be a software engineer—but you do need enough Python fluency to read and modify code.
 
-**Pick up the fundamentals of [data science](/data-science)**—data cleaning, exploration, visualization, basic statistics. This is less glamorous than neural networks, but it's where you'll spend most of your time. Learning pandas and matplotlib will serve you better initially than learning advanced deep learning.
+**Pick up the fundamentals of [data science](/data-science)**—data cleaning, exploration, visualization, basic [statistics](/statistics). This is less glamorous than neural networks, but it's where you'll spend most of your time. Learning pandas and matplotlib will serve you better initially than learning advanced deep learning.
 
 **Start with scikit-learn**, a Python library that makes traditional machine learning accessible. Build decision trees, random forests, SVMs. Get comfortable with the whole pipeline—loading data, splitting it, training models, evaluating them.
 
@@ -178,7 +178,7 @@ The field is moving fast, which means learning is never finished. New architectu
 
 ## Feature Engineering: The Secret Ingredient
 
-Here's something they don't always emphasize in machine learning courses: the quality of your features matters as much as the quality of your algorithm. This process is called feature engineering, and it's where domain expertise becomes critical.
+Here's something they don't always emphasize in machine learning courses: the quality of your features matters as much as the quality of your algorithm. This process is called feature [engineering](/engineering), and it's where domain expertise becomes critical.
 
 A feature is just an input variable—an attribute of your data that you're feeding into your model. But choosing which features to include, how to transform them, and how to combine them? That's an art form.
 
@@ -210,7 +210,7 @@ The bizarre thing is that the "best" hyperparameters depend on your specific dat
 
 You run your model multiple times with different hyperparameter settings, evaluate performance on validation data, and pick the settings that worked best. This is called hyperparameter tuning, and it's computationally expensive (especially for deep learning). You might train your model a hundred times with different settings, trying to find the best combination.
 
-This is partly why building machine learning systems is hard. You're not just choosing an algorithm—you're making dozens of minor decisions, and they all interact with each other in non-obvious ways. Experience and intuition help, but at scale, people use systematic search approaches like grid search or Bayesian optimization to automate the process.
+This is partly why building machine learning systems is hard. You're not just choosing [an algorithm](/algorithms)—you're making dozens of minor decisions, and they all interact with each other in non-obvious ways. Experience and intuition help, but at scale, people use systematic search approaches like grid search or Bayesian optimization to automate the process.
 
 ## Class Imbalance: When Your Data Is Lopsided
 
@@ -220,7 +220,7 @@ This is the class imbalance problem, and it trips up machine learning practition
 
 There are several approaches. You can oversample the minority class (duplicate fraud examples so they're not so outnumbered). You can undersample the majority class (randomly remove legitimate transactions to balance the dataset). You can assign different weights to different classes so the model "cares more" about getting the rare class right. You can use different evaluation metrics—accuracy is misleading here, but precision, recall, and the F1 score tell you more about whether you're actually detecting fraud.
 
-This problem appears in almost any practical classification task where the thing you're trying to detect is rare. Disease diagnosis. Equipment failure prediction. Network intrusion detection. The solutions are well-known in the field but often overlooked by people new to machine learning.
+This problem appears in almost any practical classification task where the thing you're trying to detect is rare. Disease diagnosis. Equipment failure prediction. Network [intrusion detection](/intrusion-detection). The solutions are well-known in the field but often overlooked by people new to machine learning.
 
 ## Transfer Learning: Standing on Giant Shoulders
 

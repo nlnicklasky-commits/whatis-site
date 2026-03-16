@@ -59,7 +59,7 @@ Despite its complexity, the Thai [writing](/writing) system is fairly phonetic �
 
 ## Grammar: Surprisingly Simple
 
-Here's the good news for learners: Thai grammar is remarkably straightforward compared to European [languages](/linguistics).
+Here's the good news for learners: Thai [grammar](/grammar) is remarkably straightforward compared to European [languages](/linguistics).
 
 - **No conjugation** — Verbs don't change form. "Go" is "pai" regardless of who's going, when they went, or how many of them are going.
 - **No declension** — Nouns don't change for case, number, or gender.
@@ -77,7 +77,7 @@ Thai vocabulary reflects centuries of cultural contact:
 
 **Khmer** — The Khmer Empire's historical influence contributed many words, particularly in government and culture.
 
-**Chinese** — Migration and trade brought Chinese loanwords, especially for food, commerce, and everyday items.
+**Chinese** — Migration and [trade](/trade) brought Chinese loanwords, especially for food, commerce, and everyday items.
 
 **English** — Modern Thai absorbs English words at a rapid rate, particularly in technology, business, and [popular culture](/popular-culture). Words like "computer" (khom-phiu-ter) and "internet" (in-ter-net) are used directly.
 

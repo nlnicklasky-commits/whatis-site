@@ -35,7 +35,7 @@ faq:
 
 # What Is Plasma Physics?
 
-Plasma physics is the study of ionized gases — matter in which atoms have been stripped of some or all of their electrons, creating a soup of charged particles that behaves in ways fundamentally different from ordinary solids, liquids, or gases. Plasma is often called the fourth state of matter, and it makes up an estimated 99% of the visible universe.
+Plasma [physics](/physics) is the study of ionized gases — matter in which atoms have been stripped of some or all of their electrons, creating a soup of charged particles that behaves in ways fundamentally different from ordinary solids, liquids, or gases. Plasma is often called the fourth state of matter, and it makes up an estimated 99% of the visible universe.
 
 ## You're Surrounded by Plasma (You Just Don't Know It)
 
@@ -93,7 +93,7 @@ Plasma supports an extraordinary variety of waves — far more than ordinary flu
 
 Langmuir waves are oscillations of the electron density at the plasma frequency — a characteristic frequency determined by the electron density. These waves are why radio signals above a certain frequency pass through the ionosphere while lower frequencies bounce back. AM radio can bounce off the ionosphere and travel over the horizon; higher-frequency FM signals punch straight through into space.
 
-Alfvén waves, discovered theoretically by Hannes Alfvén (who won the 1970 Nobel Prize in [physics](/classical-mechanics) for it), are low-frequency waves that propagate along magnetic field lines, somewhat like waves on a guitar string. They're ubiquitous in space plasmas — the solar wind, Earth's magnetosphere, and [astrophysics](/astrophysics) environments like accretion disks around black holes.
+Alfvén waves, discovered theoretically by Hannes Alfvén (who won the 1970 Nobel Prize in [physics](/classical-mechanics) for it), are low-frequency waves that propagate along magnetic field lines, somewhat like waves on [a guitar](/guitar) string. They're ubiquitous in space plasmas — the solar wind, Earth's magnetosphere, and [astrophysics](/astrophysics) environments like accretion disks around black holes.
 
 ### Instabilities — Plasma's Wild Side
 
@@ -117,7 +117,7 @@ The leading approach uses powerful magnetic fields to confine plasma in donut-sh
 
 The current flagship project is ITER (International Thermonuclear Experimental Reactor), under [construction](/construction) in southern France. It's the most expensive science experiment in history — estimated cost over $25 billion — and involves cooperation between 35 nations. ITER aims to produce 500 megawatts of fusion power from 50 megawatts of heating input, demonstrating a tenfold energy gain. First plasma is expected in the early 2030s.
 
-Stellarators, an alternative to tokamaks, use complex, twisted magnetic field geometries that don't require the plasma to carry its own current. Germany's Wendelstein 7-X stellarator, which began operating in 2015, has demonstrated promising confinement results. The engineering is more complex than a tokamak, but stellarators may offer advantages in steady-state operation.
+Stellarators, an alternative to tokamaks, use complex, twisted magnetic field geometries that don't require the plasma to carry its own current. Germany's Wendelstein 7-X stellarator, which began operating in 2015, has demonstrated promising confinement results. The [engineering](/engineering) is more complex than a tokamak, but stellarators may offer advantages in steady-state operation.
 
 ### Inertial Confinement
 
@@ -129,7 +129,7 @@ That achievement — called ignition — was genuinely historic. But the efficie
 
 A wave of private companies entered the fusion race in the 2010s and 2020s, each pursuing different approaches. Commonwealth Fusion Systems is building a compact tokamak using high-temperature superconducting magnets. TAE Technologies uses a field-reversed configuration. Helion Energy is pursuing a magneto-inertial approach. General Fusion tested a mechanically driven compression system.
 
-These companies have raised billions in private capital, bringing entrepreneurial urgency to a field historically dominated by government-funded research. Whether any will achieve commercial fusion energy remains to be seen, but the diversity of approaches increases the odds that at least one path will work.
+These companies have raised billions in private capital, bringing entrepreneurial urgency to a field historically dominated by [government](/government)-funded research. Whether any will achieve commercial fusion energy remains to be seen, but the diversity of approaches increases the odds that at least one path will work.
 
 ## Space and Astrophysical Plasmas
 
@@ -179,11 +179,11 @@ Plasma physics is mathematically demanding — there's no getting around it. The
 
 For practical calculations, physicists use several levels of description:
 
-**Single particle motion** tracks individual charged particle trajectories. This works for tenuous plasmas or for understanding basic particle behavior — gyration around magnetic field lines, drift motions, particle trapping.
+**Single particle motion** tracks individual charged particle trajectories. This works for tenuous plasmas or for understanding basic particle behavior — gyration around magnetic field lines, drift motions, particle [trapping](/trapping).
 
 **Kinetic theory** describes plasma using distribution functions — statistical descriptions of particle velocities at each point in space. The Vlasov equation, the fundamental kinetic equation, is a six-dimensional partial differential equation (three space dimensions plus three velocity dimensions). Solving it exactly is essentially impossible for realistic systems, so approximations are essential.
 
-**Fluid theory** (magnetohydrodynamics, or MHD) treats plasma as a conducting fluid, averaging over particle velocities. This dramatically simplifies the mathematics while capturing large-scale plasma behavior. MHD is the workhorse of [astrophysics](/astrophysics) and fusion plasma modeling.
+**Fluid theory** (magnetohydrodynamics, or MHD) treats plasma as a conducting fluid, averaging over particle velocities. This dramatically simplifies the [mathematics](/mathematics) while capturing large-scale plasma behavior. MHD is the workhorse of [astrophysics](/astrophysics) and fusion plasma modeling.
 
 **Computational plasma physics** uses supercomputers to simulate plasma behavior numerically. Modern simulations track billions of computational particles or solve fluid equations on grids with millions of cells. Computational plasma physics has become indispensable — many plasma phenomena are too complex for analytical theory and too dangerous or expensive to study experimentally.
 

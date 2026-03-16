@@ -35,7 +35,7 @@ faq:
 
 # What Is Investment Management?
 
-Investment management is the professional practice of managing a portfolio of financial assets—stocks, bonds, real estate, commodities, and other securities—to achieve specific financial objectives. It involves making disciplined decisions about what to buy, what to sell, when to act, and how much risk to take.
+Investment [management](/management) is the professional practice of managing a portfolio of financial assets—stocks, bonds, [real estate](/real-estate), commodities, and other securities—to achieve specific financial objectives. It involves making disciplined decisions about what to buy, what to sell, when to act, and how much risk to take.
 
 At its simplest, investment management answers the question: "I have money. How do I make it grow while not losing sleep at night?" The answer, it turns out, is far more detailed than most people expect.
 
@@ -51,7 +51,7 @@ Third, [financial-planning](/financial-planning) is about more than investment r
 
 ## The Core Concepts
 
-Before diving into strategies and structures, you need to understand a few foundational ideas that drive every investment decision.
+Before [diving](/diving) into strategies and structures, you need to understand a few foundational ideas that drive every investment decision.
 
 ### Risk and Return
 
@@ -81,7 +81,7 @@ This is why target-date retirement funds automatically shift from stocks to bond
 
 ## Active vs. Passive Management: The Great Debate
 
-No topic in investment management generates more heat than the active-versus-passive debate. It's worth understanding both sides, because reasonable people disagree.
+No topic in investment management generates more heat than the active-versus-passive [debate](/debate). It's worth understanding both sides, because reasonable people disagree.
 
 ### The Case for Passive (Index) Investing
 
@@ -89,7 +89,7 @@ Passive investing means buying an index fund that tracks a broad market benchmar
 
 The evidence for passive investing is overwhelming. The SPIVA Scorecard, published semi-annually by S&P Dow Jones Indices, consistently shows that the vast majority of active managers underperform their benchmark after fees. Over 15-year periods, roughly 85-90% of large-cap U.S. equity funds trail the S&P 500.
 
-John Bogle, founder of Vanguard, built an empire on this insight. Vanguard's index funds now manage over $8 trillion. The logic is hard to argue with: if most professionals can't beat the market after fees, why pay them to try? Just buy the market cheaply and focus your energy elsewhere.
+John Bogle, founder of Vanguard, built an empire on this insight. Vanguard's index funds now manage over $8 trillion. The [logic](/logic) is hard to argue with: if most professionals can't beat the market after fees, why pay them to try? Just buy the market cheaply and focus your energy elsewhere.
 
 Warren Buffett made the case memorably in 2007 when he bet $1 million that an S&P 500 index fund would beat a portfolio of hedge funds over 10 years. He won decisively—the index fund returned 125.8% while the hedge fund portfolio returned 36%.
 
@@ -121,7 +121,7 @@ The downside is fees. The average actively managed equity mutual fund charges ab
 
 ### Exchange-Traded Funds (ETFs)
 
-ETFs trade like stocks throughout the day, offering more flexibility than mutual funds. They're typically cheaper (many charge under 0.10%), more tax-efficient (due to their creation/redemption mechanism), and more transparent. The ETF market has exploded—from $0.5 trillion in 2008 to over $10 trillion in 2025.
+ETFs [trade](/trade) like stocks throughout the day, offering more flexibility than mutual funds. They're typically cheaper (many charge under 0.10%), more tax-efficient (due to their creation/redemption mechanism), and more transparent. The ETF market has exploded—from $0.5 trillion in 2008 to over $10 trillion in 2025.
 
 Most popular ETFs are passively managed, tracking indexes. But active ETFs have grown rapidly since SEC rule changes in 2019 made them more practical.
 
@@ -153,7 +153,7 @@ Building a portfolio is more than picking good investments—it's about how they
 
 This is the long-term target mix—say, 60% stocks, 30% bonds, 10% alternatives. It reflects the investor's goals, risk tolerance, and time horizon. Academic research suggests this decision drives most of your long-term results.
 
-A young investor saving for retirement 35 years away might target 90% stocks and 10% bonds—maximizing growth potential since they can ride out volatility. A retiree drawing income might target 40% stocks and 60% bonds—prioritizing stability and income over growth.
+A young investor saving for retirement 35 years away might target 90% stocks and 10% bonds—maximizing growth potential since they can ride out volatility. A retiree [drawing](/drawing) income might target 40% stocks and 60% bonds—prioritizing stability and income over growth.
 
 ### Tactical Asset Allocation
 
@@ -175,7 +175,7 @@ Individual investors are a fraction of the investment management industry. The r
 
 ### Pension Funds
 
-The largest pool of professionally managed money. The California Public Employees' Retirement System (CalPERS) manages over $500 billion for 2 million state employees and retirees. Japan's Government Pension Investment Fund manages over $1.6 trillion—the largest pool of retirement savings on earth.
+The largest pool of professionally managed money. The California Public Employees' Retirement System (CalPERS) manages over $500 billion for 2 million state employees and retirees. Japan's [Government](/government) Pension Investment Fund manages over $1.6 trillion—the largest pool of retirement savings on earth.
 
 Pension funds have extremely long time horizons (they'll be paying benefits for 50+ years) and well-defined liabilities (specific benefit promises to retirees). This shapes their investment approach: they need reliable, inflation-adjusted returns over very long periods. They were among the first investors to diversify beyond stocks and bonds into alternatives like private equity, real estate, and infrastructure.
 
@@ -239,7 +239,7 @@ The industry has been moving toward lower fees, driven by competition from index
 
 This fee compression has squeezed active managers. To justify charging 0.50-1.50%, they need to consistently generate enough excess return to cover the fee difference and then some. Few succeed, which is why assets continue flowing from active to passive strategies.
 
-For [financial-planning](/financial-planning), the fee question is critical: are you getting enough value from your investment manager to justify what you're paying? The answer depends on what services you receive, how complex your situation is, and whether the manager is actually adding value through better returns, tax management, behavioral coaching, or thorough financial planning.
+For [financial-planning](/financial-planning), the fee question is critical: are you getting enough value from your investment manager to justify what you're paying? The answer depends on what services you receive, how complex your situation is, and whether the manager is actually adding value through better returns, tax management, behavioral [coaching](/coaching), or thorough financial planning.
 
 ## The Future of Investment Management
 
@@ -257,4 +257,4 @@ The core challenge of investment management hasn't changed in centuries: grow we
 
 ## Key Takeaways
 
-Investment management is the disciplined process of building and maintaining a portfolio to meet financial goals. The most important decisions are asset allocation (stocks vs. bonds vs. alternatives), cost management (minimizing fees), and behavioral discipline (avoiding panic selling and euphoric buying). Most active managers underperform passive benchmarks after fees, making low-cost index investing the default recommendation for most individuals. For complex situations—large wealth, tax optimization, estate planning—professional management can add substantial value, but only if the advisor is competent, fiduciary, and reasonably priced.
+Investment management is the disciplined process of building and maintaining a portfolio to meet financial goals. The most important decisions are asset allocation (stocks vs. bonds vs. alternatives), cost management (minimizing fees), and behavioral discipline (avoiding panic selling and euphoric buying). Most active managers underperform passive benchmarks after fees, making low-cost index investing the default recommendation for most individuals. For complex situations—large wealth, tax [optimization](/optimization), estate planning—professional management can add substantial value, but only if the advisor is competent, fiduciary, and reasonably priced.

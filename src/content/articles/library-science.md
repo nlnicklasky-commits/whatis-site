@@ -45,7 +45,7 @@ Library science is the answer to one of civilization's oldest challenges: how do
 
 The stereotype of library science as "learning to shelve books" persists, and it's frustrating for everyone in the field. Modern library science encompasses [data-science](/data-science), [information architecture](/information-architecture), digital preservation, metadata design, user experience research, community informatics, and information policy.
 
-A library scientist might design the classification system for a hospital's medical records. They might build the metadata schema for a digital archive of historical photographs. They might study how teenagers evaluate online information (spoiler: not well). They might advocate for open access to government data. They might develop the search algorithm for a corporate knowledge base.
+A library scientist might design the classification system for a hospital's medical records. They might build the metadata schema for a digital archive of historical photographs. They might study how teenagers evaluate online information (spoiler: not well). They might advocate for open access to [government](/government) data. They might develop the search algorithm for a corporate knowledge base.
 
 The common thread isn't books—it's information, and the systems humans need to access it.
 
@@ -57,13 +57,13 @@ But library science as a formal discipline emerged in the 19th century, driven b
 
 ### Melvil Dewey and the Classification Revolution
 
-Melvil Dewey published the Dewey Decimal Classification in 1876, and it's still used in public libraries worldwide. His system divided all knowledge into 10 main classes (000-999), with subdivisions allowing increasingly specific categorization. Philosophy is 100. Science is 500. Literature is 800. Each subject gets a unique number, so a book's location is determined by its content rather than its size, author, or arrival date.
+Melvil Dewey published the Dewey Decimal Classification in 1876, and it's still used in public libraries worldwide. His system divided all knowledge into 10 main classes (000-999), with subdivisions allowing increasingly specific categorization. [Philosophy](/philosophy) is 100. Science is 500. [Literature](/literature) is 800. Each subject gets a unique number, so a book's location is determined by its content rather than its size, author, or arrival date.
 
 Dewey also founded the first school of library science at Columbia University in 1887 and co-founded the American Library Association in 1876. Whatever his personal flaws (and they were significant—he was eventually forced to resign from ALA over sexual harassment), his impact on the profession was immense.
 
 ### The Library of Congress Classification
 
-Charles Ammi Cutter and the Library of Congress developed an alternative classification system (LC Classification) that's now standard in academic and research libraries. LC uses letters and numbers (Q for Science, QA for Mathematics, QA76 for [Computer Science](/computer-science)) and allows more granular classification than Dewey.
+Charles Ammi Cutter and the Library of Congress developed an alternative classification system (LC Classification) that's now standard in academic and research libraries. LC uses letters and numbers (Q for Science, QA for [Mathematics](/mathematics), QA76 for [Computer Science](/computer-science)) and allows more granular classification than Dewey.
 
 The choice between Dewey and LC is one of library science's enduring practical questions. Public libraries generally use Dewey (it's more intuitive for casual users). Academic libraries use LC (it handles specialized subjects better). Neither is objectively superior—they optimize for different use cases.
 
@@ -77,7 +77,7 @@ S.R. Ranganathan, an Indian mathematician turned librarian, developed the five l
 4. Save the time of the reader (systems should minimize the effort required to find information)
 5. The library is a growing organism (libraries must adapt to changing needs and technologies)
 
-Ranganathan also developed the Colon Classification system, which introduced the concept of faceted classification—categorizing items by multiple independent attributes rather than placing them in a single hierarchical slot. A book about the economics of agriculture in India could be classified by subject (economics), topic (agriculture), and geography (India) simultaneously.
+Ranganathan also developed the Colon Classification system, which introduced the concept of faceted classification—categorizing items by multiple independent attributes rather than placing them in a single hierarchical slot. A book about the [economics](/economics) of [agriculture](/agriculture) in India could be classified by subject (economics), topic (agriculture), and [geography](/geography) (India) simultaneously.
 
 This idea—that information can be categorized along multiple dimensions—directly prefigured modern [database design](/database-design), tagging systems, and the faceted search you use on e-commerce sites when you filter by price, color, brand, and rating simultaneously. Ranganathan was solving problems in the 1930s that software engineers would rediscover in the 2000s.
 
@@ -107,7 +107,7 @@ Reference librarians help people find information. This sounds simple. It isn't.
 
 The classic reference interview involves figuring out what the patron actually needs (which is often different from what they ask for), identifying the best sources, and helping them evaluate what they find. A student asking for "information about the Civil War" might need a children's encyclopedia entry, a scholarly monograph, or primary source documents—the reference librarian figures out which and guides them there.
 
-Reference skills transfer directly to the digital world. Information literacy—the ability to evaluate sources, detect bias, distinguish reliable from unreliable information—is arguably the most important skill in the internet age. Librarians have been teaching it for decades, long before "fake news" entered the lexicon.
+Reference skills transfer directly to the digital world. Information literacy—the ability to evaluate sources, detect bias, distinguish reliable from unreliable information—is arguably the most important skill in the internet age. Librarians have been [teaching](/teaching) it for decades, long before "fake news" entered the lexicon.
 
 ### Preservation and Digital Archiving
 
@@ -127,7 +127,7 @@ The internet didn't make libraries obsolete. But it did force a radical transfor
 
 Digital libraries provide access to collections of digital objects—scanned books, born-digital documents, images, audio, video, datasets—organized and searchable through library science principles. Project Gutenberg (founded 1971, making it older than the web itself) offers over 70,000 free e-books. Google Books has scanned over 40 million books. HathiTrust preserves the digital output of major research libraries.
 
-Building a digital library requires all the traditional library science skills—collection development, cataloging, preservation, access management—plus technical skills in database design, [data-structures](/data-structures), [web development](/web-development), and digital rights management.
+Building a digital library requires all the traditional library science skills—collection development, cataloging, preservation, access [management](/management)—plus technical skills in database design, [data-structures](/data-structures), [web development](/web-development), and digital rights management.
 
 ### Search Engines vs. Libraries
 
@@ -166,11 +166,11 @@ Not all librarians work in public or academic libraries. Special librarians work
 
 **Law libraries** organize case law, statutes, regulations, and legal scholarship. Legal research requires navigating complex, interconnected databases where missing a single relevant precedent can lose a case.
 
-**Medical libraries** manage clinical evidence, drug information, patient education materials, and research databases. Medical librarians working in hospitals often join clinical teams, providing real-time evidence to support treatment decisions. Studies have shown that librarian involvement in clinical teams improves patient outcomes.
+**Medical libraries** manage clinical evidence, drug information, patient [education](/education) materials, and research databases. Medical librarians working in hospitals often join clinical teams, providing real-time evidence to support treatment decisions. Studies have shown that librarian involvement in clinical teams improves patient outcomes.
 
-**Corporate libraries** (sometimes called "information centers" or "knowledge management teams") manage competitive intelligence, technical documentation, [market research](/market-research), and institutional knowledge. In industries like pharmaceuticals, finance, and consulting, the corporate library is a strategic asset.
+**Corporate libraries** (sometimes called "information centers" or "knowledge management teams") manage competitive intelligence, technical documentation, [market research](/market-research), and institutional knowledge. In industries like pharmaceuticals, [finance](/finance), and consulting, the corporate library is a strategic asset.
 
-**Government libraries** maintain public records, legislative histories, regulatory documents, and statistical data. The Government Publishing Office and the Federal Depository Library Program ensure public access to government information through a network of over 1,100 libraries.
+**Government libraries** maintain public records, legislative histories, regulatory documents, and statistical data. The Government [Publishing](/publishing) Office and the Federal Depository Library Program ensure public access to government information through a network of over 1,100 libraries.
 
 **Museum and archive libraries** manage collections of unique, often irreplaceable materials—manuscripts, photographs, recordings, artifacts—with specialized preservation and access requirements.
 
@@ -198,4 +198,4 @@ Library science has always been about connecting people with the information the
 
 ## Key Takeaways
 
-Library science is the discipline of organizing, preserving, and providing access to information. Its core functions—collection development, cataloging, reference services, and preservation—apply across physical and digital environments. The field has evolved from managing book collections to encompassing data management, information architecture, digital preservation, and information literacy education. In an age of information overload and misinformation, library science's emphasis on organized access, critical evaluation, and equitable availability is more relevant than ever.
+Library science is the discipline of organizing, preserving, and providing access to information. Its core functions—collection development, cataloging, reference services, and preservation—apply across physical and digital environments. The field has evolved from managing book collections to encompassing data management, information [architecture](/architecture), digital preservation, and information literacy education. In an age of information overload and misinformation, library science's emphasis on organized access, critical evaluation, and equitable availability is more relevant than ever.

@@ -41,7 +41,7 @@ UX design is the practice of shaping how people interact with products, services
 
 The term "user experience" was coined by Don Norman at Apple in 1993, but the underlying ideas are much older. Henry Dreyfuss, the industrial designer who shaped everything from Bell telephones to Honeywell thermostats in the 1950s, was doing UX work decades before the term existed. His 1955 book *Designing for People* argued that products should be designed around human capabilities and limitations — a radical idea in an era when products were designed for manufacturing efficiency first and human use second.
 
-The human-computer interaction (HCI) field, which emerged in the 1970s and 1980s at Xerox PARC, Stanford, and MIT, brought psychological research into computing. When Xerox researchers developed the first graphical user interface — with a mouse, windows, icons, and menus — they weren't just building technology. They were applying [cognitive psychology](/cognitive-psychology) to make computers usable by ordinary people, not just programmers.
+The [human-computer interaction](/human-computer-interaction) (HCI) field, which emerged in the 1970s and 1980s at Xerox PARC, Stanford, and MIT, brought psychological research into computing. When Xerox researchers developed the first graphical user interface — with a mouse, windows, icons, and menus — they weren't just building technology. They were applying [cognitive psychology](/cognitive-psychology) to make computers usable by ordinary people, not just programmers.
 
 Apple's Macintosh (1984) brought these ideas to consumers. The iPhone (2007) brought them to everyone. And the explosion of digital products since then has created an entire profession dedicated to making sure those products actually work for the people using them.
 
@@ -63,9 +63,9 @@ You can't design a good experience for people you don't understand. UX research 
 
 ### Information Architecture
 
-Information architecture (IA) is the structural design of information — how content and functionality are organized, labeled, and connected. It's the invisible skeleton that determines whether a product makes sense or feels like a maze.
+[Information architecture](/information-architecture) (IA) is the structural design of information — how content and functionality are organized, labeled, and connected. It's the invisible skeleton that determines whether a product makes sense or feels like a maze.
 
-**Card sorting** is a common IA method. You write the names of pages or features on cards and ask users to organize them into groups that make sense to them. The results reveal how people naturally categorize information, which is often different from how internal teams organize it. An insurance company might organize its website by product type (auto, home, life), but customers might think in terms of life events (buying a house, having a baby, retiring).
+**Card sorting** is a common IA method. You write the names of pages or features on cards and ask users to organize them into groups that make sense to them. The results reveal how people naturally categorize information, which is often different from how internal teams organize it. An [insurance](/insurance) company might organize its website by product type (auto, home, life), but customers might think in terms of life events (buying a house, having a baby, retiring).
 
 **Site maps** and **user flows** document the structure. A site map shows the hierarchy of pages. A user flow maps the path a user takes through a series of screens to accomplish a goal. Drawing these out before building anything is like creating a blueprint before constructing a building — it reveals structural problems early, when they're cheap to fix.
 
@@ -91,11 +91,11 @@ Interaction design defines how users interact with interface elements — what h
 
 ## Core Principles
 
-Several principles underpin good UX work, drawn from decades of research in cognitive psychology and human-computer interaction.
+Several principles underpin good UX work, drawn from decades of research in cognitive [psychology](/psychology) and human-computer interaction.
 
 ### Jakob Nielsen's 10 Usability Heuristics
 
-Published in 1994 and still cited constantly, these heuristics provide a framework for evaluating interface usability:
+Published in 1994 and still cited constantly, these [heuristics](/heuristics) provide a framework for evaluating interface usability:
 
 1. **Visibility of system status** — Keep users informed about what's happening
 2. **Match between system and real world** — Use language and concepts users already understand
@@ -135,9 +135,9 @@ The best product teams integrate these roles throughout the process rather than 
 
 **Personas** — fictional characters representing key user types, based on research data. A good persona includes demographics, goals, frustrations, and behavioral patterns. A bad persona is a marketing stereotype dressed up with a stock photo and a cute name. The difference is whether the persona was derived from actual user research or invented in a brainstorming session.
 
-**Journey maps** visualize the end-to-end experience a user has with a product or service, including touchpoints, emotions, pain points, and opportunities. A journey map for a hospital visit might cover everything from scheduling the appointment (confusing phone menu) to checking in (paperwork chaos) to waiting (anxiety, boredom) to the consultation (rushed, unclear) to follow-up (what do I do next?).
+**Journey maps** visualize the end-to-end experience a user has with a product or service, including touchpoints, emotions, pain points, and opportunities. A journey map for a hospital visit might cover everything from [scheduling](/scheduling) the appointment (confusing phone menu) to checking in (paperwork chaos) to waiting (anxiety, boredom) to the consultation (rushed, unclear) to follow-up (what do I do next?).
 
-**Design systems** are libraries of reusable components (buttons, forms, navigation patterns, typography scales) that ensure consistency across a product. Google's Material Design, Apple's Human Interface Guidelines, and Salesforce's Lightning Design System are well-known examples. A good design system speeds up development, ensures accessibility, and maintains visual coherence as products grow.
+**Design systems** are libraries of reusable components (buttons, forms, navigation patterns, [typography](/typography) scales) that ensure consistency across a product. Google's Material Design, Apple's Human Interface Guidelines, and Salesforce's Lightning Design System are well-known examples. A good design system speeds up development, ensures accessibility, and maintains visual coherence as products grow.
 
 ### Accessibility
 
@@ -163,7 +163,7 @@ The FTC has taken enforcement action against some dark patterns, and the EU's GD
 
 ## Career and Skills
 
-UX design has grown from a niche specialty to a mainstream profession. The U.S. Bureau of Labor Statistics doesn't track "UX designer" separately, but related categories (web designers, software developers) show strong growth. LinkedIn has consistently ranked UX design among the top in-demand skills.
+UX design has grown from a niche specialty to a mainstream profession. The U.S. Bureau of Labor [Statistics](/statistics) doesn't track "UX designer" separately, but related categories (web designers, software developers) show strong growth. LinkedIn has consistently ranked UX design among the top in-demand skills.
 
 **Entry paths vary.** Some UX designers come from [graphic design](/graphic-design), some from psychology, some from [computer science](/computer-science), some from entirely unrelated fields. Bootcamps (3-6 months) provide accelerated training, though the quality varies enormously. Traditional paths include degrees in HCI, information science, or design.
 

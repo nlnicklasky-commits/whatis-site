@@ -37,7 +37,7 @@ faq:
 
 # What Is Aerodynamics?
 
-Aerodynamics is the branch of physics that studies how air moves around solid objects and the forces that result from that movement. It explains why airplanes fly, why race cars hug the ground at 200 mph, and why a golf ball with dimples travels farther than a smooth one.
+Aerodynamics is the branch of [physics](/physics) that studies how air moves around solid objects and the forces that result from that movement. It explains why airplanes fly, why race cars hug the ground at 200 mph, and why a [golf](/golf) ball with dimples travels farther than a smooth one.
 
 ## Air Isn't Nothing — It's a Fluid
 
@@ -75,7 +75,7 @@ There are several types of drag, and they don't all come from the same source:
 
 ### Weight
 
-Weight is simply gravity pulling the aircraft toward Earth. It's the force lift must exceed for an airplane to climb. Reducing weight has always been an obsession in aviation — the Wright brothers' 1903 Flyer weighed just 274 kilograms (605 pounds) without a pilot, partly because they built it from spruce wood and muslin fabric.
+Weight is simply gravity pulling the aircraft toward Earth. It's the force lift must exceed for an airplane to climb. Reducing weight has always been an obsession in [aviation](/aviation) — the Wright brothers' 1903 Flyer weighed just 274 kilograms (605 pounds) without a pilot, partly because they built it from spruce wood and muslin fabric.
 
 Modern aircraft use aluminum alloys, titanium, and carbon fiber composites to minimize weight. The Boeing 787 Dreamliner's airframe is about 50% composite materials by weight — a first for a commercial airliner — saving roughly 20% in fuel consumption compared to similarly sized aluminum aircraft.
 
@@ -93,7 +93,7 @@ In plain English: faster air = lower pressure. Slower air = higher pressure.
 
 This is real. It's measurable. And it's one of the mechanisms that helps generate lift. But here's what most people get wrong: Bernoulli's principle alone doesn't fully explain why airplanes fly. The classic explanation — "air over the curved top travels faster because it has farther to go" — contains a hidden assumption called the "equal transit time" fallacy. There's no physical law requiring the air split at the leading edge to rejoin at the trailing edge simultaneously. In fact, the air on top arrives at the trailing edge *before* the air on the bottom. It moves even faster than the simple "longer path" explanation predicts.
 
-The full picture requires both Bernoulli's principle (pressure differences) and Newton's laws (the wing deflects air downward, and the reaction force pushes upward). Neither explanation alone captures the complete physics. Frankly, the fact that this debate still generates heated arguments among physicists and engineers is one of the genuinely amusing corners of science.
+The full picture requires both Bernoulli's principle (pressure differences) and Newton's laws (the wing deflects air downward, and the reaction force pushes upward). Neither explanation alone captures the complete physics. Frankly, the fact that this [debate](/debate) still generates heated arguments among physicists and engineers is one of the genuinely amusing corners of science.
 
 ## Reynolds Number: Why Scale Matters
 
@@ -143,11 +143,11 @@ Bridge design is deeply aerodynamic. The 1940 collapse of the Tacoma Narrows Bri
 
 ### Sports
 
-A baseball curveball works because of aerodynamics. When a pitcher throws with topspin, the spinning ball drags air around itself (the Magnus effect). Air on one side moves faster (lower pressure), while air on the other side moves slower (higher pressure). The ball curves toward the low-pressure side. A good curveball spins at roughly 1,500-1,800 RPM and can break by over 40 centimeters (17 inches) laterally.
+A [baseball](/baseball) curveball works because of aerodynamics. When a pitcher throws with topspin, the spinning ball drags air around itself (the Magnus effect). Air on one side moves faster (lower pressure), while air on the other side moves slower (higher pressure). The ball curves toward the low-pressure side. A good curveball spins at roughly 1,500-1,800 RPM and can break by over 40 centimeters (17 inches) laterally.
 
 Golf ball dimples are an aerodynamic masterstroke. A smooth golf ball hit by a pro would travel about 130 yards. A dimpled ball travels roughly 290 yards — more than double. The dimples create a turbulent boundary layer that clings to the ball longer, reducing the low-pressure wake behind it and cutting drag by about 50%.
 
-Cycling at competitive speeds is almost entirely about aerodynamics. A cyclist's body accounts for roughly 80% of total drag. The aerodynamic tuck position, skin suits, aero helmets, and deep-section wheels all aim to reduce the rider's drag coefficient. In time trials, the difference between first and tenth place can come down to aerodynamic [optimization](/optimization) measured in watts.
+[Cycling](/cycling) at competitive speeds is almost entirely about aerodynamics. A cyclist's body accounts for roughly 80% of total drag. The aerodynamic tuck position, skin suits, aero helmets, and deep-section wheels all aim to reduce the rider's drag coefficient. In time trials, the difference between first and tenth place can come down to aerodynamic [optimization](/optimization) measured in watts.
 
 ### Wind Energy
 
@@ -173,7 +173,7 @@ Humans have been thinking about aerodynamics for longer than you'd expect.
 
 **The scientific revolution (1600s-1700s):** Isaac Newton proposed that drag is proportional to velocity squared — not perfect, but a decent approximation. Daniel Bernoulli published his foundational work on fluid pressure and velocity in 1738. Leonhard Euler derived the equations of inviscid fluid flow in 1757.
 
-**The experimental era (1800s):** George Cayley — often called the father of aerodynamics — identified the four forces of flight around 1799 and built the first successful glider in 1853. Otto Lilienthal made over 2,000 glider flights in the 1890s, systematically studying wing shapes and publishing data that directly influenced the Wright brothers. His death in a glider crash in 1896 sobered the aviation community but also proved that controlled flight was tantalizingly close.
+**The experimental era (1800s):** George Cayley — often called the father of aerodynamics — identified the four forces of flight around 1799 and built the first successful glider in 1853. Otto Lilienthal made over 2,000 glider flights in the 1890s, systematically studying wing shapes and [publishing](/publishing) data that directly influenced the Wright brothers. His death in a glider crash in 1896 sobered the aviation community but also proved that controlled flight was tantalizingly close.
 
 **Powered flight and beyond (1900s):** The Wright brothers achieved powered, controlled flight on December 17, 1903, at Kitty Hawk, North Carolina. Their flight lasted 12 seconds and covered 37 meters. Within 66 years, humans walked on the moon. The speed of progress — from canvas-and-wood biplanes to supersonic jets to spacecraft — is staggering by any measure.
 
@@ -183,7 +183,7 @@ Ludwig Prandtl's boundary layer theory in 1904 provided the mathematical framewo
 
 You might think aerodynamics is a solved problem. Planes fly. Cars are streamlined. What's left?
 
-Quite a lot, actually. Climate change has made aerodynamic efficiency an urgent priority. Aviation accounts for roughly 2.5% of global CO2 emissions — about 1 billion tons per year. A 1% improvement in aerodynamic efficiency across the global fleet would save approximately 6 million tons of CO2 annually. NASA's experimental X-59 QueSST aircraft aims to prove that supersonic flight is possible without the loud sonic boom that got Concorde banned from overland routes, potentially reopening supersonic commercial travel with lower environmental impact.
+Quite a lot, actually. [Climate change](/climate-change) has made aerodynamic efficiency an urgent priority. Aviation accounts for roughly 2.5% of global CO2 emissions — about 1 billion tons per year. A 1% improvement in aerodynamic efficiency across the global fleet would save approximately 6 million tons of CO2 annually. NASA's experimental X-59 QueSST aircraft aims to prove that supersonic flight is possible without the loud sonic boom that got Concorde banned from overland routes, potentially reopening supersonic commercial travel with lower environmental impact.
 
 Urban air mobility — flying taxis and delivery drones — presents entirely new aerodynamic challenges. These vehicles operate at low speeds and in complex urban environments where buildings create unpredictable wind patterns. The aerodynamics of electric vertical takeoff and landing (eVTOL) aircraft, with their multiple rotors and transition between hover and forward flight, is a wide-open research area.
 
@@ -195,6 +195,6 @@ Hypersonic flight — speeds above Mach 5 — is the next frontier. At these spe
 
 Aerodynamics is the science of air in motion and the forces it creates. Four forces — lift, drag, weight, and thrust — govern every object moving through the atmosphere. Bernoulli's principle and Newton's laws together explain how wings generate lift, though neither explanation alone tells the full story. The Reynolds number determines which aerodynamic regime you're operating in, and the boundary layer — that razor-thin region where air meets surface — controls most of what matters.
 
-The field extends far beyond aviation: car design, architecture, sports equipment, wind energy, and even the trajectory of a baseball all depend on aerodynamic principles. And despite more than a century of research since the Wright brothers' first flight, the field remains full of unsolved problems — from the mathematics of turbulence to the engineering of hypersonic vehicles.
+The field extends far beyond aviation: car design, architecture, sports equipment, wind energy, and even the trajectory of a baseball all depend on aerodynamic principles. And despite more than a century of research since the Wright brothers' first flight, the field remains full of unsolved problems — from the mathematics of turbulence to the [engineering](/engineering) of hypersonic vehicles.
 
 What started with watching birds has become one of the most practically consequential branches of physics. Every time you drive a car, watch a plane overhead, or feel the wind on your face, you're experiencing aerodynamics firsthand. The air around you isn't empty space. It's a fluid, and it has opinions about how you move through it.

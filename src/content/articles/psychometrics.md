@@ -41,7 +41,7 @@ Psychometrics is the science of psychological measurement—the discipline that 
 
 Here's the fundamental challenge. If you want to measure someone's height, you pull out a ruler. The thing you're measuring is directly observable. But intelligence? Anxiety? Extraversion? You can't point to them. You can't weigh them. They're latent constructs—theoretical entities that must be inferred from observable behavior.
 
-This is genuinely different from measurement in physics or [engineering](/engineering). When a physicist measures temperature, there's a direct physical quantity (average kinetic energy of molecules) that the thermometer captures. When a psychometrician measures "conscientiousness," there's no single physical quantity involved. Instead, conscientious people tend to show up on time, keep their spaces organized, follow through on commitments, and plan ahead. The psychometrician must design questions that tap into these behavioral tendencies and then use statistical models to infer the underlying trait.
+This is genuinely different from measurement in [physics](/physics) or [engineering](/engineering). When a physicist measures temperature, there's a direct physical quantity (average kinetic energy of molecules) that the thermometer captures. When a psychometrician measures "conscientiousness," there's no single physical quantity involved. Instead, conscientious people tend to show up on time, keep their spaces organized, follow through on commitments, and plan ahead. The psychometrician must design questions that tap into these behavioral tendencies and then use statistical models to infer the underlying trait.
 
 The gap between observable responses (answers on a test) and the thing you're trying to measure (the latent construct) is where all the methodological challenges live. And psychometricians have spent over a century developing increasingly sophisticated tools to bridge that gap.
 
@@ -95,7 +95,7 @@ A key principle: reliability sets a ceiling on validity. An unreliable test cann
 
 Validity asks the deeper question: Does this test actually measure what it claims to measure? A test can be perfectly reliable while measuring the wrong thing. A bathroom scale that always reads 5 pounds too heavy is reliable but not valid.
 
-**Content validity**: Does the test sample the full range of the construct? A math test that only includes algebra questions lacks content validity as a measure of overall mathematical ability.
+**Content validity**: Does the test sample the full range of the construct? A math test that only includes [algebra](/algebra) questions lacks content validity as a measure of overall mathematical ability.
 
 **Criterion validity**: Does the test predict outcomes it should predict? SAT scores should correlate with college grades (they do, modestly—correlations around 0.35-0.50). Job aptitude tests should predict job performance. This comes in two flavors: concurrent validity (does the test correlate with current criteria?) and predictive validity (does it predict future criteria?).
 
@@ -151,7 +151,7 @@ Robert Sternberg's triarchic theory added practical and creative intelligence to
 
 ### The Flynn Effect
 
-IQ scores have been rising steadily across the developed world for decades—roughly 3 points per decade since at least the 1930s. James Flynn documented this trend extensively. The causes are debated: better nutrition, more education, increased cognitive stimulation, greater familiarity with abstract thinking, or some combination. Interestingly, recent data from some Scandinavian countries suggests the Flynn Effect may have reversed since the 1990s, with scores declining—though this finding is contested.
+IQ scores have been rising steadily across the developed world for decades—roughly 3 points per decade since at least the 1930s. James Flynn documented this trend extensively. The causes are debated: better [nutrition](/nutrition), more [education](/education), increased cognitive stimulation, greater familiarity with abstract thinking, or some combination. Interestingly, recent data from some Scandinavian countries suggests the Flynn Effect may have reversed since the 1990s, with scores declining—though this finding is contested.
 
 ## Personality Assessment
 
@@ -175,7 +175,7 @@ Psychometrics has expanded far beyond traditional testing.
 
 ### Educational Assessment
 
-Large-scale educational assessments like PISA (Programme for International Student Assessment), NAEP (National Assessment of Educational Progress), and state-level standardized tests rely entirely on psychometric methods. Item writing, test [construction](/construction), scoring, equating, and standard-setting are all psychometric processes.
+Large-scale educational assessments like PISA (Programme for International Student Assessment), NAEP (National Assessment of Educational Progress), and state-level standardized tests rely entirely on psychometric methods. Item [writing](/writing), test [construction](/construction), scoring, equating, and standard-setting are all psychometric processes.
 
 Computerized adaptive testing has transformed educational assessment. Students receive items matched to their ability level, producing more precise scores in less time. The GRE, for instance, adapts after each section—performing well on the first section results in a harder second section.
 
@@ -205,7 +205,7 @@ But item-level bias detection doesn't resolve broader questions about construct 
 
 ### Automated Scoring
 
-Machine learning is increasingly used to score constructed responses—essays, short answers, speech samples. Automated essay scoring systems achieve human-level agreement with human raters on many dimensions. But concerns about gaming (writing to please the algorithm rather than communicating effectively) and about encoding biases present in training data remain active research topics.
+Machine learning is increasingly used to score constructed responses—essays, short answers, speech samples. Automated essay scoring systems achieve human-level agreement with human raters on many dimensions. But concerns about [gaming](/gaming) (writing to please the algorithm rather than communicating effectively) and about encoding biases present in training data remain active research topics.
 
 ### Digital Assessments and Big Data
 

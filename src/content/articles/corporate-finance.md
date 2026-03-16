@@ -37,7 +37,7 @@ faq:
 
 # What Is Corporate Finance?
 
-Corporate finance is the area of finance that deals with how corporations make funding decisions, allocate capital to investments, and manage financial resources to maximize the value of the firm for its shareholders. It encompasses three fundamental decisions: what to invest in (capital budgeting), how to pay for it (capital structure), and how to return profits to owners (dividend policy).
+Corporate [finance](/finance) is the area of finance that deals with how corporations make funding decisions, allocate capital to investments, and manage financial resources to maximize the value of the firm for its shareholders. It encompasses three fundamental decisions: what to invest in (capital [budgeting](/budgeting)), how to pay for it (capital structure), and how to return profits to owners (dividend policy).
 
 ## The Three Big Decisions
 
@@ -49,7 +49,7 @@ This is capital budgeting---the process of deciding which projects, assets, or v
 
 A company has limited resources. It could build a new factory, acquire a competitor, develop a new product line, expand into a new market, or buy back its own stock. Each option requires spending money today in hopes of earning more money later. The job of corporate finance is to figure out which investments will actually create value.
 
-The primary tool for this is Net Present Value (NPV). The logic is straightforward: a dollar today is worth more than a dollar next year (because you could invest today's dollar and earn a return). So future cash flows must be "discounted" back to present value using an appropriate rate.
+The primary tool for this is Net Present Value (NPV). The [logic](/logic) is straightforward: a dollar today is worth more than a dollar next year (because you could invest today's dollar and earn a return). So future cash flows must be "discounted" back to present value using an appropriate rate.
 
 If you invest $1 million in a project that will generate $300,000 per year for five years, is that a good deal? It depends on your discount rate. At 10%, those future cash flows are worth about $1.14 million in present value---so the NPV is positive ($140,000), and the project creates value. At 25%, those same cash flows are worth only about $806,000---negative NPV, value destroyed.
 
@@ -69,11 +69,11 @@ In 1958, Franco Modigliani and Merton Miller published a theorem proving that, i
 
 Of course, we don't live in a perfect market. Taxes make debt cheaper (interest is deductible). Bankruptcy costs make too much debt expensive. Information asymmetries mean investors can't always tell good companies from bad. These "real world" frictions are exactly where capital structure decisions matter.
 
-The trade-off theory says companies balance the tax benefits of debt against the costs of potential financial distress. Use enough debt to get the tax shield, but not so much that bankruptcy risk destroys value.
+The [trade](/trade)-off theory says companies balance the tax benefits of debt against the costs of potential financial distress. Use enough debt to get the tax shield, but not so much that bankruptcy risk destroys value.
 
 The pecking order theory, proposed by Stewart Myers in 1984, says companies prefer internal funds first, then debt, then equity as a last resort---because each successive option involves more external scrutiny and information asymmetry.
 
-In practice, industries have typical debt levels. Utilities carry heavy debt (stable cash flows can support it). Technology companies carry less (volatile cash flows make debt risky). Real estate companies use enormous use. Pharmaceutical companies maintain large cash reserves for R&D.
+In practice, industries have typical debt levels. Utilities carry heavy debt (stable cash flows can support it). Technology companies carry less (volatile cash flows make debt risky). [Real estate](/real-estate) companies use enormous use. Pharmaceutical companies maintain large cash reserves for R&D.
 
 ### Decision 3: How Should We Return Profits?
 
@@ -105,7 +105,7 @@ The challenge is that DCF is extremely sensitive to assumptions. Small changes i
 
 Rather than building a model from scratch, analysts often value companies by comparing them to similar publicly traded firms. If comparable companies trade at 15 times earnings, and your target earns $100 million, it might be worth roughly $1.5 billion.
 
-Common multiples include price-to-earnings (P/E), enterprise value to EBITDA (EV/EBITDA), price-to-book (P/B), and price-to-sales (P/S). Each captures different aspects of value and is more appropriate for different industries.
+Common multiples include price-to-earnings (P/E), enterprise value to EBITDA (EV/EBITDA), price-to-book (P/B), and price-to-[sales](/sales) (P/S). Each captures different aspects of value and is more appropriate for different industries.
 
 ### Precedent Transaction Analysis
 
@@ -131,7 +131,7 @@ Airlines hedge fuel costs. Food companies hedge ingredient prices. Mining compan
 
 ### Credit Risk
 
-Companies extending [credit-management](/credit-management) terms to customers face the risk of non-payment. Managing credit risk involves setting credit policies, monitoring receivables, and sometimes purchasing credit insurance or using factoring (selling receivables to third parties at a discount).
+Companies extending [credit-management](/credit-management) terms to customers face the risk of non-payment. Managing credit risk involves setting credit policies, monitoring receivables, and sometimes purchasing credit [insurance](/insurance) or using factoring (selling receivables to third parties at a discount).
 
 ## Mergers and Acquisitions: The Big Deals
 
@@ -145,7 +145,7 @@ Here's what most people miss: acquiring companies tend to overpay. Studies consi
 
 ### The M&A Process
 
-A typical acquisition involves [strategic planning](/strategic-planning) (identifying targets), due diligence (investigating the target's finances, operations, legal liabilities, and [contract-law](/contract-law) obligations), valuation (determining what to pay), deal structuring (cash vs. stock, asset vs. stock purchase), negotiation, regulatory approval, and integration.
+A typical acquisition involves [strategic planning](/strategic-planning) (identifying targets), due diligence (investigating the target's finances, operations, legal liabilities, and [contract-law](/contract-law) obligations), valuation (determining what to pay), deal structuring (cash vs. stock, asset vs. stock purchase), [negotiation](/negotiation), regulatory approval, and integration.
 
 Each step is complex. Due diligence alone can take months and involve hundreds of professionals---accountants, lawyers, industry experts. Integration planning begins before the deal closes and continues for years after. McKinsey research suggests that 70% of mergers fail to achieve their projected synergies, usually because of integration failures.
 
@@ -153,7 +153,7 @@ Each step is complex. Due diligence alone can take months and involve hundreds o
 
 LBOs use heavy debt financing to acquire companies. A [private equity](/private-equity) firm might put up 30% equity and borrow 70% of the purchase price. The acquired company's cash flows service the debt. If the firm improves operations and increases the company's value, the equity investors earn outsized returns because of use.
 
-LBOs are controversial. Supporters argue they improve operational efficiency through better management discipline. Critics argue they load companies with dangerous debt levels, often leading to layoffs, reduced investment, and sometimes bankruptcy.
+LBOs are controversial. Supporters argue they improve operational efficiency through better [management](/management) discipline. Critics argue they load companies with dangerous debt levels, often leading to layoffs, reduced investment, and sometimes bankruptcy.
 
 ## Capital Markets: Where the Money Comes From
 
@@ -195,7 +195,7 @@ Managers might pursue empire-building (bigger company = more prestige and compen
 
 Stock options and performance-based compensation are designed to solve this problem by tying managers' wealth to shareholder returns. But these solutions create their own distortions. Stock options can incentivize short-term stock price manipulation. Performance targets can encourage excessive risk-taking.
 
-The Sarbanes-Oxley Act (2002), passed after the Enron and WorldCom scandals, strengthened corporate governance requirements. The Dodd-Frank Act (2010), passed after the financial crisis, added more. But no regulatory framework can fully solve the agency problem. Good governance ultimately requires ethical leadership and vigilant oversight.
+The Sarbanes-Oxley Act (2002), passed after the Enron and WorldCom scandals, strengthened corporate governance requirements. The Dodd-Frank Act (2010), passed after the financial crisis, added more. But no regulatory framework can fully solve the agency problem. Good governance ultimately requires ethical [leadership](/leadership) and vigilant oversight.
 
 ## The Evolving Field
 
@@ -207,7 +207,7 @@ Corporate finance doesn't stand still. Several trends are reshaping the field.
 
 **Globalization and Complexity**: Cross-border operations create complex financing, tax, and risk management challenges. Transfer pricing, currency hedging, and multi-jurisdictional compliance add layers of complexity that didn't exist a generation ago.
 
-**Stakeholder Capitalism**: The traditional shareholder primacy model---the idea that a company's sole purpose is maximizing shareholder value---faces growing challenge from stakeholder capitalism, which argues companies should also consider employees, customers, communities, and the environment. The Business Roundtable's 2019 statement endorsing stakeholder purpose, signed by 181 CEOs, signaled a shift (though critics question whether actions have followed words).
+**Stakeholder [Capitalism](/capitalism)**: The traditional shareholder primacy model---the idea that a company's sole purpose is maximizing shareholder value---faces growing challenge from stakeholder capitalism, which argues companies should also consider employees, customers, communities, and the environment. The Business Roundtable's 2019 statement endorsing stakeholder purpose, signed by 181 CEOs, signaled a shift (though critics question whether actions have followed words).
 
 ## Key Takeaways
 

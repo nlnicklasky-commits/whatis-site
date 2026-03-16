@@ -43,7 +43,7 @@ Cartography is the science, art, and technology of creating maps — visual repr
 
 Here's something that surprises most people: every map is an argument. A map doesn't show "the world as it is." It shows a deliberate selection of information, organized and styled to communicate a specific message.
 
-A subway map ignores geography almost entirely — distances and directions are distorted to make route planning easy. A topographic map ignores buildings and roads to emphasize terrain. A political map draws borders that are often disputed. A road map prioritizes highways over footpaths.
+A subway map ignores [geography](/geography) almost entirely — distances and directions are distorted to make route planning easy. A topographic map ignores buildings and roads to emphasize terrain. A political map draws borders that are often disputed. A road map prioritizes highways over footpaths.
 
 The cartographer decides what to include, what to leave out, how to style features, and — most critically — what projection to use. These decisions shape how viewers understand the territory being mapped. As geographer Mark Monmonier wrote, "Not only is it easy to lie with maps, it's essential."
 
@@ -61,17 +61,17 @@ Polynesian stick charts — frameworks of palm ribs and cowrie shells representi
 
 ### Greek Contributions
 
-The Greeks formalized cartography as a mathematical science. Eratosthenes calculated the Earth's circumference around 240 BC — and got it roughly correct (within about 2% of the modern value, though scholars debate the exact unit of measurement he used). He divided the world into climate zones and created coordinates using lines of latitude.
+The Greeks formalized cartography as a mathematical science. Eratosthenes calculated the Earth's circumference around 240 BC — and got it roughly correct (within about 2% of the modern value, though scholars [debate](/debate) the exact unit of measurement he used). He divided the world into climate zones and created coordinates using lines of latitude.
 
 Ptolemy's *Geography* (circa 150 AD) was a milestone. He described map projection — how to represent the curved Earth on a flat surface — and provided coordinates for roughly 8,000 locations. His work influenced cartography for over 1,400 years, despite containing significant errors (he underestimated the Earth's circumference, which later led Columbus to think Asia was closer than it actually was).
 
 ### Medieval Maps
 
-European medieval maps were often more theological than geographic. The "T-O" maps placed Jerusalem at the center, with the known world divided into three continents separated by water in a T shape. These weren't navigation tools — they were expressions of worldview.
+European medieval maps were often more theological than geographic. The "T-O" maps placed Jerusalem at the center, with the known world divided into three continents separated by water in a T shape. These weren't [navigation](/navigation) tools — they were expressions of worldview.
 
-Meanwhile, Islamic cartographers were producing remarkably accurate maps. Al-Idrisi created a world map for King Roger II of Sicily in 1154 that was the most accurate of its era, drawing on Greek, Islamic, and Norman geographic knowledge.
+Meanwhile, Islamic cartographers were producing remarkably accurate maps. Al-Idrisi created a world map for King Roger II of Sicily in 1154 that was the most accurate of its era, [drawing](/drawing) on Greek, Islamic, and Norman geographic knowledge.
 
-Chinese cartography developed independently, with quantitative mapping techniques appearing as early as the 3rd century AD. Pei Xiu, sometimes called the "father of Chinese cartography," established six principles of mapmaking in 267 AD, including consistent scale and angular measurement.
+Chinese cartography developed independently, with quantitative mapping techniques appearing as early as the 3rd century AD. Pei Xiu, sometimes called the "father of Chinese cartography," established six principles of [mapmaking](/mapmaking) in 267 AD, including consistent scale and angular measurement.
 
 ### The Age of Exploration
 
@@ -79,7 +79,7 @@ The 15th through 17th centuries transformed cartography. European exploration ge
 
 Gerardus Mercator's 1569 world map introduced the projection that bears his name. The Mercator projection preserves angles and straight-line compass bearings (crucial for navigation), but massively distorts area at high latitudes. Greenland appears the size of Africa on a Mercator map, when Africa is actually 14 times larger.
 
-The [Silk Road](/silk-road) trade routes were mapped with increasing accuracy during this period, as European, Islamic, and Asian cartographic traditions began to overlap and exchange methods.
+The [Silk Road](/silk-road) [trade](/trade) routes were mapped with increasing accuracy during this period, as European, Islamic, and Asian cartographic traditions began to overlap and exchange methods.
 
 The Mercator projection remains controversial because it visually minimizes equatorial regions (where most developing nations are located) while inflating northern regions (where colonial powers were). Whether Mercator intended this political effect is debatable — he designed the projection for navigation, not political propaganda — but the effect has shaped how billions of people visualize the world.
 
@@ -163,7 +163,7 @@ Learning to read contour lines lets you visualize terrain in three dimensions fr
 
 ### Symbology and Legend
 
-Maps use standardized symbols — blue lines for water, green for vegetation, black dots for cities, dashed lines for trails. But symbology varies between mapping traditions and agencies. Always check the legend.
+Maps use standardized symbols — blue lines for water, green for vegetation, black dots for cities, dashed lines for trails. But [symbology](/symbology) varies between mapping traditions and agencies. Always check the legend.
 
 Color choices carry meaning beyond convention. Choropleth maps (where regions are shaded based on data values) use color gradients to represent quantitative differences. A well-designed choropleth makes patterns immediately visible. A poorly designed one misleads.
 
@@ -179,7 +179,7 @@ Underserved communities are often undermapped — fewer street names, less detai
 
 Real-time mapping of movement — through phone GPS, license plate readers, and facial recognition — raises serious privacy concerns. When a mapping platform knows where you are at every moment, that data becomes a surveillance tool.
 
-Google's Location History, Uber's rider data, fitness apps' route tracking — these are all cartographic products, and their privacy implications are still being debated in courts and legislatures worldwide.
+Google's Location History, Uber's rider data, [fitness](/fitness) apps' route tracking — these are all cartographic products, and their privacy implications are still being debated in courts and legislatures worldwide.
 
 ### Contested Territories
 

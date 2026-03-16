@@ -31,7 +31,7 @@ faq:
 
 # What Is Copywriting?
 
-Copywriting is the craft of [writing](/writing) text (called "copy") that persuades people to take action — buy something, sign up for something, click something, believe something. It's the words behind advertisements, sales pages, email campaigns, product descriptions, billboards, and the countless prompts that guide you through commercial life every day.
+Copywriting is the craft of [writing](/writing) text (called "copy") that persuades people to take action — buy something, sign up for something, click something, believe something. It's the words behind advertisements, [sales](/sales) pages, email campaigns, product descriptions, billboards, and the countless prompts that guide you through commercial life every day.
 
 ## Not to Be Confused With Copyright
 

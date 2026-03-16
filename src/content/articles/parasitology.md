@@ -39,7 +39,7 @@ Parasitology is the branch of [biology](/biology) that studies parasites — org
 
 ## A Field You Probably Underestimate
 
-Parasitology doesn't get the same cultural spotlight as, say, virology or oncology. But in terms of sheer human impact, it's hard to find a field that matters more to global health.
+Parasitology doesn't get the same cultural spotlight as, say, [virology](/virology) or [oncology](/oncology). But in terms of sheer human impact, it's hard to find a field that matters more to global health.
 
 Consider some numbers. Malaria — caused by single-celled Plasmodium parasites transmitted by mosquitoes — infected an estimated 249 million people in 2022 and killed over 608,000, mostly children under five in sub-Saharan Africa. Soil-transmitted helminths (parasitic worms including hookworms, roundworms, and whipworms) infect over 1.5 billion people worldwide. Schistosomiasis affects more than 200 million people across 78 countries. Lymphatic filariasis has disabled an estimated 36 million people.
 
@@ -55,7 +55,7 @@ Parasites aren't a single evolutionary lineage. The parasitic lifestyle has evol
 
 Protozoan parasites are single-celled eukaryotic organisms — more complex than bacteria but still microscopic. Despite their tiny size, they cause some of the world's deadliest diseases.
 
-**Plasmodium** species cause malaria. Five species infect humans, with P. falciparum being the most dangerous. The parasite's life cycle is maddeningly complex: it reproduces sexually in mosquitoes and asexually in humans, cycling between liver cells and red blood cells. Inside red blood cells, Plasmodium consumes hemoglobin and multiplies until the cell bursts, releasing new parasites and triggering the characteristic fever cycles of malaria.
+**Plasmodium** species cause malaria. Five species infect humans, with P. falciparum being the most dangerous. The parasite's life cycle is maddeningly complex: it reproduces sexually in mosquitoes and asexually in humans, [cycling](/cycling) between liver cells and red blood cells. Inside red blood cells, Plasmodium consumes hemoglobin and multiplies until the cell bursts, releasing new parasites and triggering the characteristic fever cycles of malaria.
 
 **Trypanosoma** species cause sleeping sickness (African trypanosomiasis, transmitted by tsetse flies) and Chagas disease (American trypanosomiasis, transmitted by kissing bugs). These parasites have a remarkable trick: they can change their surface proteins faster than the immune system can mount a response, making them nearly impossible for the host to clear without treatment.
 
@@ -91,9 +91,9 @@ If there's one thing that makes parasitology uniquely fascinating — and unique
 
 Take Plasmodium, the malaria parasite. A female Anopheles mosquito bites an infected human, ingesting Plasmodium gametocytes (sexual stages) with the blood meal. These gametocytes fuse and develop inside the mosquito's gut, eventually producing sporozoites that migrate to the mosquito's salivary glands. When the mosquito bites another human, sporozoites enter the bloodstream, travel to the liver, invade liver cells, and multiply. After 5-16 days, thousands of merozoites burst from liver cells, enter the bloodstream, and invade red blood cells. Inside red blood cells, they multiply again, burst out, invade new red blood cells, and repeat the cycle every 48-72 hours (depending on species). Some merozoites develop into gametocytes, completing the loop when the next mosquito feeds.
 
-Every stage has specialized adaptations for its specific environment. The sporozoite is shaped for gliding motility and liver cell invasion. The merozoite has surface proteins for recognizing and entering red blood cells. The gametocyte is equipped for sexual reproduction inside the mosquito. It's one organism wearing half a dozen different costumes.
+Every stage has specialized adaptations for its specific environment. The sporozoite is shaped for [gliding](/gliding) motility and liver cell invasion. The merozoite has surface proteins for recognizing and entering red blood cells. The gametocyte is equipped for sexual reproduction inside the mosquito. It's one organism wearing half a dozen different costumes.
 
-Trematode life cycles are even more elaborate. Schistosoma requires a freshwater snail intermediate host. Eggs in human feces or urine hatch in water, releasing ciliated larvae (miracidia) that swim until they find the right snail species. Inside the snail, they undergo asexual reproduction, producing thousands of fork-tailed larvae (cercariae) that emerge into the water and actively seek human hosts by swimming toward skin chemicals. Each stage is morphologically and biochemically distinct.
+Trematode life cycles are even more elaborate. Schistosoma requires a freshwater snail intermediate host. Eggs in human feces or urine hatch in water, releasing ciliated larvae (miracidia) that swim until they find the right snail species. Inside the snail, they undergo asexual reproduction, producing thousands of fork-tailed larvae (cercariae) that emerge into the water and actively seek human hosts by [swimming](/swimming) toward skin chemicals. Each stage is morphologically and biochemically distinct.
 
 Why such complexity? Each additional host provides access to different resources, dispersal mechanisms, or reproductive opportunities. The complexity is the product of millions of years of coevolution between parasite and host — an evolutionary relationship that's equal parts beautiful and horrifying.
 
@@ -173,9 +173,9 @@ Host-parasite interactions also drive the evolution of immune systems, behaviora
 
 Parasitology faces both immense challenges and unprecedented opportunities.
 
-Climate change is altering the distribution of parasitic diseases. Mosquito-borne diseases are spreading to higher altitudes and latitudes as temperatures warm. Schistosomiasis transmission zones are shifting. The geographic patterns of parasitic disease that have held for centuries are being redrawn.
+[Climate change](/climate-change) is altering the distribution of parasitic diseases. Mosquito-borne diseases are spreading to higher altitudes and latitudes as temperatures warm. Schistosomiasis transmission zones are shifting. The geographic patterns of parasitic disease that have held for centuries are being redrawn.
 
-Genomic technologies are transforming the field. Complete genomes have been sequenced for many major parasites, revealing potential drug targets and vaccine candidates. CRISPR gene editing is being used to study parasite biology and to engineer mosquitoes resistant to malaria transmission.
+Genomic technologies are transforming the field. Complete genomes have been sequenced for many major parasites, revealing potential drug targets and vaccine candidates. CRISPR gene [editing](/editing) is being used to study parasite biology and to engineer mosquitoes resistant to malaria transmission.
 
 The push to eliminate specific parasitic diseases — including malaria, lymphatic filariasis, Guinea worm, and sleeping sickness — has achieved remarkable progress but requires sustained commitment and funding. [Microbiology](/microbiology) and parasitology increasingly overlap as molecular tools blur the distinctions between the fields.
 

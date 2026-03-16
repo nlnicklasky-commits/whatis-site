@@ -39,13 +39,13 @@ faq:
 
 # What Is Computer Architecture?
 
-Computer architecture is the design and specification of a computer's fundamental operational structure — it defines how a processor executes instructions, accesses memory, handles input and output, and coordinates all the components that turn electrical signals into useful computation. It sits at the boundary between hardware engineering and software, shaping everything from how your code runs to how much battery your laptop burns.
+Computer [architecture](/architecture) is the design and specification of a computer's fundamental operational structure — it defines how a processor executes instructions, accesses memory, handles input and output, and coordinates all the components that turn electrical signals into useful computation. It sits at the boundary between hardware [engineering](/engineering) and software, shaping everything from how your code runs to how much battery your laptop burns.
 
 ## Why You Should Care About What's Under the Hood
 
-You might think computer architecture is only for chip designers at Intel or ARM. And sure, they're the ones drawing transistor layouts. But here's the thing — architecture affects you whether you realize it or not.
+You might think computer architecture is only for chip designers at Intel or ARM. And sure, they're the ones [drawing](/drawing) transistor layouts. But here's the thing — architecture affects you whether you realize it or not.
 
-Every time your phone lasts all day on a single charge, that's an architectural decision. Every time a video game renders 120 frames per second, architecture made that possible. When your program runs ten times faster after a simple optimization, you probably stumbled into (or against) an architectural feature like [cache memory or pipeline behavior](/computer-hardware).
+Every time your phone lasts all day on a single charge, that's an architectural decision. Every time a video game renders 120 frames per second, architecture made that possible. When your program runs ten times faster after a simple [optimization](/optimization), you probably stumbled into (or against) an architectural feature like [cache memory or pipeline behavior](/computer-hardware).
 
 Software developers who understand architecture write meaningfully faster code. Not 5% faster — sometimes 10x or 100x faster. The difference between a cache-friendly algorithm and a cache-hostile one can be staggering. And as Moore's Law slows down, squeezing performance from existing hardware matters more than ever.
 
@@ -55,7 +55,7 @@ In 1945, mathematician John von Neumann described a computer architecture that s
 
 The Von Neumann architecture has four main components:
 
-**The Central Processing Unit (CPU)** — the brain that executes instructions. It contains the Arithmetic Logic Unit (ALU) for math and logic operations, and the Control Unit (CU) that fetches instructions and directs the whole show.
+**The Central Processing Unit (CPU)** — the brain that executes instructions. It contains the Arithmetic [Logic](/logic) Unit (ALU) for math and logic operations, and the Control Unit (CU) that fetches instructions and directs the whole show.
 
 **Memory** — a single store holding both instructions and data. The CPU reads instructions from memory, executes them, and writes results back to memory.
 
@@ -63,7 +63,7 @@ The Von Neumann architecture has four main components:
 
 **The System Bus** — the communication highway connecting CPU, memory, and I/O. Data, addresses, and control signals all travel along these pathways.
 
-Here's what's remarkable: despite being conceived in 1945, this basic model still describes how most modern computers work. Your laptop, your phone, the servers running this website — they're all essentially Von Neumann machines with decades of refinements layered on top.
+Here's what's remarkable: despite being conceived in 1945, this basic model still describes how most modern computers work. Your laptop, your phone, the servers [running](/running) this website — they're all essentially Von Neumann machines with decades of refinements layered on top.
 
 ### The Von Neumann Bottleneck
 
@@ -109,7 +109,7 @@ The Instruction Set Architecture (ISA) is arguably the most important concept in
 
 Complex Instruction Set Computing (CISC) architectures provide a large number of instructions, including specialized ones for complex tasks. The x86 architecture — found in most desktop PCs and servers — is the most famous CISC design. It has over 1,500 instructions.
 
-The philosophy: make each instruction do as much work as possible. A single x86 instruction can load a value from memory, add it to a register, and store the result — all in one instruction. This made assembly programming easier and reduced program size (important when memory was expensive).
+The [philosophy](/philosophy): make each instruction do as much work as possible. A single x86 instruction can load a value from memory, add it to a register, and store the result — all in one instruction. This made assembly programming easier and reduced program size (important when memory was expensive).
 
 The downside? Complex instructions are harder to execute quickly. They take variable numbers of clock cycles, making pipeline design difficult.
 
@@ -123,9 +123,9 @@ RISC processors are generally simpler to design, easier to pipeline, and more po
 
 ### The RISC vs. CISC Debate Is Basically Over
 
-Here's the funny part: modern x86 processors (CISC on the outside) actually decode complex instructions into simple micro-operations internally and execute them on a RISC-like core. And modern ARM processors (RISC) have added increasingly complex instructions for specific tasks like cryptography and machine learning.
+Here's the funny part: modern x86 processors (CISC on the outside) actually decode complex instructions into simple micro-operations internally and execute them on a RISC-like core. And modern ARM processors (RISC) have added increasingly complex instructions for specific tasks like [cryptography](/cryptography) and machine learning.
 
-The architectures have converged. The debate that consumed the 1990s is now mostly academic. What matters is the specific implementation, not the philosophical camp.
+The architectures have converged. The [debate](/debate) that consumed the 1990s is now mostly academic. What matters is the specific implementation, not the philosophical camp.
 
 ## Pipelining: The Assembly Line of Computing
 
@@ -181,7 +181,7 @@ Out-of-order execution takes this further — the processor dynamically reorders
 
 Instead of making one core faster, put multiple cores on a single chip. A quad-core processor can genuinely run four threads simultaneously. An AMD EPYC server processor has up to 128 cores.
 
-But here's what most people miss: multi-core only helps if your software is actually parallelized. A single-threaded program runs on one core and ignores the rest. Writing correct, efficient parallel software is one of the hardest problems in [computer science](/computer-science), which is why your 16-core processor still feels slow sometimes.
+But here's what most people miss: multi-core only helps if your software is actually parallelized. A single-threaded program runs on one core and ignores the rest. [Writing](/writing) correct, efficient parallel software is one of the hardest problems in [computer science](/computer-science), which is why your 16-core processor still feels slow sometimes.
 
 ### SIMD: Single Instruction, Multiple Data
 
@@ -193,13 +193,13 @@ This is enormously useful for [computer graphics](/computer-graphics), [signal p
 
 Graphics Processing Units (GPUs) take parallelism to an extreme. While a CPU might have 8-16 powerful cores optimized for diverse tasks, a modern GPU has thousands of simpler cores designed for the same operation on different data. An NVIDIA RTX 4090 has 16,384 CUDA cores.
 
-This architecture is perfect for tasks that apply the same computation to massive datasets — rendering pixels, training neural networks, simulating physics. It's terrible for tasks that require complex branching and sequential logic. The architecture matches the workload.
+This architecture is perfect for tasks that apply the same computation to massive datasets — rendering pixels, training [neural networks](/neural-networks), simulating [physics](/physics). It's terrible for tasks that require complex branching and sequential logic. The architecture matches the workload.
 
 ## Memory Management and Virtual Memory
 
 Virtual memory is one of those architectural features that quietly makes modern computing possible. Every program thinks it has access to a large, contiguous block of memory starting at address zero. In reality, the operating system and hardware collaboratively map these virtual addresses to physical addresses in RAM.
 
-The Memory Management Unit (MMU) handles this translation using page tables. A typical page is 4 KB. When a program accesses a virtual address, the MMU looks up the corresponding physical address. The Translation Lookaside Buffer (TLB) caches recent translations to avoid the overhead of a full page table walk every time.
+The Memory [Management](/management) Unit (MMU) handles this [translation](/translation) using page tables. A typical page is 4 KB. When a program accesses a virtual address, the MMU looks up the corresponding physical address. The Translation Lookaside Buffer (TLB) caches recent translations to avoid the overhead of a full page table walk every time.
 
 Virtual memory gives you three critical capabilities: process isolation (programs can't access each other's memory), memory protection (the OS controls what each program can access), and the ability to use more memory than physically available (by swapping pages to disk).
 
@@ -221,9 +221,9 @@ AMD's EPYC processors, for example, combine up to twelve compute chiplets with a
 
 General-purpose processors are reaching diminishing returns. The future increasingly belongs to specialized processors designed for specific workloads.
 
-Google's Tensor Processing Units (TPUs) are optimized for neural network inference and training. Apple's Neural Engine handles on-device machine learning. Various startups are building chips specifically for database queries, video encoding, or blockchain computation.
+Google's Tensor Processing Units (TPUs) are optimized for neural network inference and training. Apple's Neural Engine handles on-device machine learning. Various startups are building chips specifically for database queries, video encoding, or [blockchain](/blockchain) computation.
 
-The trade-off is clear: you lose generality but gain enormous efficiency for targeted tasks. A TPU can perform machine learning inference at a fraction of the power cost of a general-purpose GPU.
+The [trade](/trade)-off is clear: you lose generality but gain enormous efficiency for targeted tasks. A TPU can perform machine learning inference at a fraction of the power cost of a general-purpose GPU.
 
 ### RISC-V: The Open Source Revolution
 

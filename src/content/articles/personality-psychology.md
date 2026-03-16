@@ -41,7 +41,7 @@ Personality psychology is the branch of [psychology](/psychology) that studies t
 
 You already know, intuitively, that people are different. Some friends are reliably punctual; others are chronically late. Some people crave parties; others find them draining. Some approach conflict head-on; others avoid it at all costs. These differences aren't random — they're patterned, partially stable across time and situations, and they predict real-world outcomes from job performance to relationship satisfaction to physical health.
 
-Personality psychology tries to make sense of these patterns scientifically. That means moving beyond vague labels ("she's a people person") and casual astrology-style categorization toward rigorous measurement, testable theories, and replicated findings.
+Personality psychology tries to make sense of these patterns scientifically. That means moving beyond vague labels ("she's a people person") and casual [astrology](/astrology)-style categorization toward rigorous measurement, testable theories, and replicated findings.
 
 The field is also personal in a way that most sciences aren't. When you read about personality traits, you inevitably evaluate yourself. Am I conscientious enough? Too neurotic? This self-reflective quality makes personality psychology unusually engaging — but it also means people have strong emotional reactions to its findings, especially when the findings contradict flattering self-images.
 
@@ -49,7 +49,7 @@ The field is also personal in a way that most sciences aren't. When you read abo
 
 Personality psychology's roots stretch back to ancient attempts at human classification.
 
-The Greek physician Hippocrates (circa 400 BCE) proposed that personality was determined by the balance of four bodily fluids — blood, phlegm, yellow bile, and black bile — producing four temperaments: sanguine (cheerful, social), phlegmatic (calm, sluggish), choleric (irritable, ambitious), and melancholic (sad, anxious). The biology was completely wrong, but the observation that people fall into recognizable temperamental patterns was surprisingly prescient.
+The Greek physician Hippocrates (circa 400 BCE) proposed that personality was determined by the balance of four bodily fluids — blood, phlegm, yellow bile, and black bile — producing four temperaments: sanguine (cheerful, social), phlegmatic (calm, sluggish), choleric (irritable, ambitious), and melancholic (sad, anxious). The [biology](/biology) was completely wrong, but the observation that people fall into recognizable temperamental patterns was surprisingly prescient.
 
 The modern field emerged in the early 20th century through several competing approaches.
 
@@ -59,7 +59,7 @@ The modern field emerged in the early 20th century through several competing app
 
 **Humanistic psychology**, championed by Abraham Maslow and Carl Rogers in the mid-20th century, emphasized [personal growth](/personal-growth), self-actualization, and the inherent human drive toward fulfilling one's potential. This perspective contributed the concept of self-concept and unconditional positive regard, which influenced therapeutic practice enormously, though its theories were harder to test empirically.
 
-**Social-cognitive theory**, developed by Albert Bandura and Walter Mischel, emphasized the interaction between personality, behavior, and environment. Mischel's influential 1968 book *Personality and Assessment* argued that behavior was more influenced by situations than by stable personality traits — sparking the "person-situation debate" that consumed the field for decades.
+**Social-cognitive theory**, developed by Albert Bandura and Walter Mischel, emphasized the interaction between personality, behavior, and environment. Mischel's influential 1968 book *Personality and Assessment* argued that behavior was more influenced by situations than by stable personality traits — sparking the "person-situation [debate](/debate)" that consumed the field for decades.
 
 ## The Big Five: The Dominant Model
 
@@ -69,7 +69,7 @@ By the 1990s, extensive research had converged on a five-factor model of persona
 
 High scorers are imaginative, curious, creative, and open to new ideas and experiences. They tend to enjoy art, seek variety, and hold unconventional beliefs. Low scorers prefer routine, familiarity, and conventional approaches.
 
-Openness predicts artistic and creative achievement, political liberalism, and willingness to try new technologies. It's the trait most strongly associated with [cognitive psychology](/cognitive-psychology) measures of divergent thinking (generating multiple solutions to open-ended problems).
+Openness predicts artistic and creative achievement, political [liberalism](/liberalism), and willingness to try new technologies. It's the trait most strongly associated with [cognitive psychology](/cognitive-psychology) measures of divergent thinking (generating multiple solutions to open-ended problems).
 
 ### Conscientiousness
 
@@ -83,7 +83,7 @@ The finding that personality — something that feels like "just who you are" �
 
 High scorers are sociable, talkative, energetic, and assertive. They seek stimulation and enjoy being around people. Low scorers (introverts) prefer less stimulation, need more solitude to recharge, and tend to be more reserved.
 
-Extraversion predicts leadership emergence (extraverts are more likely to be perceived as leaders), subjective well-being (extraverts report higher happiness on average), and success in sales and social roles. However, introversion is associated with advantages in tasks requiring sustained focus and deep concentration.
+Extraversion predicts [leadership](/leadership) emergence (extraverts are more likely to be perceived as leaders), subjective well-being (extraverts report higher happiness on average), and success in [sales](/sales) and social roles. However, introversion is associated with advantages in tasks requiring sustained focus and deep concentration.
 
 The extraversion-introversion dimension is probably the most publicly recognized personality trait, partly because Susan Cain's 2012 book *Quiet* brought widespread attention to the strengths of introversion in an extrovert-biased culture.
 
@@ -97,7 +97,7 @@ Agreeableness has an interesting relationship with career success: moderately di
 
 High scorers experience negative emotions — anxiety, sadness, irritability, self-doubt — more intensely and more frequently. They're more reactive to stress and take longer to return to emotional equilibrium. Low scorers (emotionally stable) are calmer, more resilient, and less easily upset.
 
-Neuroticism is the strongest personality predictor of mental health problems, including depression, anxiety disorders, and substance abuse. It also predicts lower relationship satisfaction and poorer health outcomes. High neuroticism isn't a disorder — it's a normal personality variation — but it significantly increases vulnerability to psychological distress.
+Neuroticism is the strongest personality predictor of [mental health](/mental-health) problems, including depression, anxiety disorders, and substance abuse. It also predicts lower relationship satisfaction and poorer health outcomes. High neuroticism isn't a disorder — it's a normal personality variation — but it significantly increases vulnerability to psychological distress.
 
 ## Beyond the Big Five
 
@@ -135,11 +135,11 @@ The genome-wide association studies (GWAS) that have identified specific genetic
 
 The environmental side of personality development is surprisingly layered.
 
-**Shared environment** — growing up in the same family, attending the same schools — contributes remarkably little to adult personality similarities between siblings. This finding consistently shocks people who assume parenting style has a dominant influence on personality. It doesn't mean parenting is irrelevant (it affects many outcomes), but it doesn't make siblings' personalities more similar.
+**Shared environment** — growing up in the same family, attending the same schools — contributes remarkably little to adult personality similarities between siblings. This finding consistently shocks people who assume [parenting](/parenting) style has a dominant influence on personality. It doesn't mean parenting is irrelevant (it affects many outcomes), but it doesn't make siblings' personalities more similar.
 
 **Non-shared environment** — unique experiences, different friend groups, different teachers, different roles within the family — accounts for most of the environmental contribution to personality. Your particular experiences — not the family environment you shared with siblings — shape your personality development.
 
-**Culture** influences personality expression and development. East Asian cultures emphasize modesty, emotional restraint, and social harmony — and East Asian populations score lower on extraversion and neuroticism on average than Western populations. Whether these differences reflect genuine personality differences or measurement artifacts (different cultures interpret questionnaire items differently) is an ongoing research question.
+**Culture** influences personality expression and development. East Asian cultures emphasize modesty, emotional restraint, and social [harmony](/harmony) — and East Asian populations score lower on extraversion and neuroticism on average than Western populations. Whether these differences reflect genuine personality differences or measurement artifacts (different cultures interpret questionnaire items differently) is an ongoing research question.
 
 ### Gene-Environment Interactions
 
@@ -175,7 +175,7 @@ This finding — that machines can read your personality from your digital exhau
 
 Personality traits predict real-world outcomes across nearly every domain studied.
 
-**Work**: Conscientiousness predicts job performance across occupations. Extraversion predicts performance in sales and management roles. Agreeableness predicts teamwork effectiveness. Low neuroticism predicts performance under stress.
+**Work**: Conscientiousness predicts job performance across occupations. Extraversion predicts performance in sales and [management](/management) roles. Agreeableness predicts teamwork effectiveness. Low neuroticism predicts performance under stress.
 
 **Relationships**: Neuroticism is the strongest personality predictor of relationship dissatisfaction and divorce. Agreeableness predicts relationship satisfaction for both partners. Personality similarity between partners matters less than absolute levels of neuroticism and agreeableness.
 
@@ -183,7 +183,7 @@ Personality traits predict real-world outcomes across nearly every domain studie
 
 **Mental Health**: Neuroticism is a vulnerability factor for virtually every common mental disorder. Low conscientiousness predicts substance abuse. Low extraversion (introversion) plus high neuroticism is associated with depression risk.
 
-**Education**: Conscientiousness predicts academic performance as strongly as intelligence. Openness predicts intellectual engagement and love of learning.
+**[Education](/education)**: Conscientiousness predicts academic performance as strongly as intelligence. Openness predicts intellectual engagement and love of learning.
 
 These predictions are probabilistic, not deterministic. A highly neurotic person can have a happy marriage, and a highly conscientious person can fail at work. But across thousands of people, the patterns are remarkably consistent.
 
@@ -199,7 +199,7 @@ The DSM-5 (the American psychiatric diagnostic manual) identifies 10 personality
 
 Personality disorders affect roughly 9-15% of the adult population and are associated with significant interpersonal difficulties, occupational impairment, and other mental health problems.
 
-The field is increasingly moving toward dimensional models of personality pathology — understanding personality disorders as extreme variants of normal personality traits rather than discrete categories. The DSM-5 Alternative Model for Personality Disorders reflects this shift, describing pathological personality in terms of five trait domains that map onto (maladaptive variants of) the Big Five.
+The field is increasingly moving toward dimensional models of personality [pathology](/pathology) — understanding personality disorders as extreme variants of normal personality traits rather than discrete categories. The DSM-5 Alternative Model for Personality Disorders reflects this shift, describing pathological personality in terms of five trait domains that map onto (maladaptive variants of) the Big Five.
 
 ## Current Directions and Debates
 
@@ -221,4 +221,4 @@ The Big Five does emerge across dozens of languages and cultures, suggesting som
 
 ## Key Takeaways
 
-Personality psychology studies the stable patterns of thinking, feeling, and behaving that make each person unique. The Big Five model — openness, conscientiousness, extraversion, agreeableness, and neuroticism — provides the dominant framework, supported by decades of cross-cultural research. Personality is roughly 40-60% heritable, with non-shared environmental experiences accounting for most of the remaining variation. Personality traits predict important life outcomes including job performance, relationship satisfaction, health, and longevity. While personality is relatively stable after young adulthood, it does change gradually across the lifespan, and deliberate interventions can produce modest but meaningful shifts. The field continues to evolve through cross-cultural expansion, computational methods, and integration with [neuroscience](/neuroscience) and [genetics](/genetics).
+Personality psychology studies the stable patterns of thinking, feeling, and behaving that make each person unique. The Big Five model — openness, conscientiousness, extraversion, agreeableness, and neuroticism — provides the dominant framework, supported by decades of cross-cultural research. Personality is roughly 40-60% heritable, with non-shared environmental experiences [accounting](/accounting) for most of the remaining variation. Personality traits predict important life outcomes including job performance, relationship satisfaction, health, and longevity. While personality is relatively stable after young adulthood, it does change gradually across the lifespan, and deliberate interventions can produce modest but meaningful shifts. The field continues to evolve through cross-cultural expansion, computational methods, and integration with [neuroscience](/neuroscience) and [genetics](/genetics).

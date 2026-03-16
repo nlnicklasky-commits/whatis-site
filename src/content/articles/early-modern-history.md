@@ -41,13 +41,13 @@ Early modern history is the period of Western and global history spanning roughl
 
 The early modern period has an identity problem. It's defined largely by what it's between — neither medieval nor modern. But that in-between quality is exactly what makes it interesting. This was when old certainties were crumbling — the authority of the Catholic Church, feudal social structures, the Ptolemaic model of the universe — but new ones hadn't solidified. It was a period of extraordinary upheaval, creativity, and violence.
 
-The dates are inherently fuzzy. Some historians start in 1453, when the Ottoman Empire conquered Constantinople, ending the Byzantine Empire and disrupting trade routes to Asia. Others point to 1492, when Columbus reached the Caribbean. Others still prefer the 1450s, when Gutenberg's printing press began transforming how information spread. The endpoint is similarly debated — 1789 (French Revolution), 1800, or 1815 (Congress of Vienna) all have defenders.
+The dates are inherently fuzzy. Some historians start in 1453, when the Ottoman Empire conquered Constantinople, ending the Byzantine Empire and disrupting [trade](/trade) routes to Asia. Others point to 1492, when Columbus reached the Caribbean. Others still prefer the 1450s, when Gutenberg's printing press began transforming how information spread. The endpoint is similarly debated — 1789 (French Revolution), 1800, or 1815 (Congress of Vienna) all have defenders.
 
 What matters more than exact dates is the nature of the changes. Between roughly 1450 and 1800, virtually every aspect of European and eventually global life was upended.
 
 ## The Printing Revolution
 
-If you had to pick one invention that made the early modern period possible, the printing press is the strongest candidate. Johannes Gutenberg introduced movable type to Europe around 1440 (the Chinese had it centuries earlier, but it didn't spread the same way). By 1500, there were over 1,000 printing shops across Europe, and an estimated 20 million volumes had been produced.
+If you had to pick one [invention](/invention) that made the early modern period possible, the printing press is the strongest candidate. Johannes Gutenberg introduced movable type to Europe around 1440 (the Chinese had it centuries earlier, but it didn't spread the same way). By 1500, there were over 1,000 printing shops across Europe, and an estimated 20 million volumes had been produced.
 
 Before printing, books were hand-copied by scribes — expensive, slow, and error-prone. A single book could cost the equivalent of a year's salary. Printing dropped that cost dramatically and made information accessible to a much wider audience. [Literacy rates](/educational-history) rose. Ideas circulated faster. Martin Luther's 95 Theses (1517) spread across Germany in weeks, something that would have taken months or years before the press. The Reformation might not have succeeded without it.
 
@@ -67,13 +67,13 @@ The consequences were world-changing — and often catastrophic. The Columbian E
 
 ## The Reformation
 
-On October 31, 1517, Martin Luther reportedly nailed his 95 Theses to the door of the Castle Church in Wittenberg (whether he actually nailed them or just sent them by letter is debated). He was protesting the sale of indulgences — essentially, the Catholic Church selling forgiveness of sins. His protest triggered the Protestant Reformation, which split Western Christianity permanently.
+On October 31, 1517, Martin Luther reportedly nailed his 95 Theses to the door of the Castle Church in Wittenberg (whether he actually nailed them or just sent them by letter is debated). He was protesting the sale of indulgences — essentially, the Catholic Church selling forgiveness of sins. His protest triggered the Protestant Reformation, which split Western [Christianity](/christianity) permanently.
 
 Luther's core argument — that salvation came through faith alone, not through works or payments to the Church, and that the Bible was the ultimate authority rather than the Pope — resonated powerfully. Within decades, Lutheranism had swept across northern Germany and Scandinavia. John Calvin established a strict Protestant community in Geneva. Henry VIII broke England from Rome (largely for personal and political reasons rather than theological ones).
 
 The Catholic Church responded with the Counter-Reformation, reaffirming its doctrines at the Council of Trent (1545-1563) while also addressing some abuses. The Jesuits, founded in 1540, became the Church's intellectual and missionary vanguard, establishing schools and missions worldwide.
 
-The religious wars that followed were devastating. The French Wars of Religion (1562-1598) killed millions. The [Thirty Years' War](/thirty-years-war) (1618-1648) may have killed 8 million people — about a third of the German population. The Peace of Westphalia (1648), which ended that war, established the principle that each ruler could determine the religion of their state — a pragmatic compromise that laid the groundwork for the modern nation-state system and the principle of sovereignty.
+The religious wars that followed were devastating. The French Wars of [Religion](/religion) (1562-1598) killed millions. The [Thirty Years' War](/thirty-years-war) (1618-1648) may have killed 8 million people — about a third of the German population. The Peace of Westphalia (1648), which ended that war, established the principle that each ruler could determine the religion of their state — a pragmatic compromise that laid the groundwork for the modern nation-state system and the principle of sovereignty.
 
 ## The Scientific Revolution
 
@@ -89,15 +89,15 @@ The key shift was methodological. Instead of relying on ancient authorities (Ari
 
 Medieval Europe was a patchwork of feudal territories, free cities, church lands, and overlapping jurisdictions. The early modern period saw the consolidation of centralized nation-states with professional bureaucracies, standing armies, and defined borders.
 
-France under Louis XIV (reigned 1643-1715) was the model of absolutist monarchy — the "Sun King" who built Versailles and famously (though probably apocryphally) declared "L'état, c'est moi" ("I am the state"). Spain under Philip II controlled an empire spanning four continents. England developed a constitutional monarchy after the English Civil War (1640s) and Glorious Revolution (1688).
+France under Louis XIV (reigned 1643-1715) was the model of absolutist [monarchy](/monarchy) — the "Sun King" who built Versailles and famously (though probably apocryphally) declared "L'état, c'est moi" ("I am the state"). Spain under Philip II controlled an empire spanning four continents. England developed a constitutional monarchy after the English Civil War (1640s) and Glorious Revolution (1688).
 
 The Peace of Westphalia (1648) is conventionally seen as the birth of the modern international system. After Westphalia, sovereign states — not empires, churches, or feudal lords — were the primary units of political organization in Europe. [Diplomacy](/diplomacy) between these states became a formalized practice.
 
 ## The Enlightenment
 
-The Enlightenment (roughly 1685-1815) was the intellectual movement that capped the early modern period. Building on the Scientific Revolution's faith in reason and empirical evidence, Enlightenment thinkers applied rational analysis to politics, economics, religion, and social organization.
+The Enlightenment (roughly 1685-1815) was the intellectual movement that capped the early modern period. Building on the Scientific Revolution's faith in reason and empirical evidence, Enlightenment thinkers applied rational analysis to [politics](/politics), [economics](/economics), religion, and social organization.
 
-John Locke argued for natural rights and government by consent. Voltaire championed freedom of speech and religious tolerance. Montesquieu proposed the separation of powers. Adam Smith described [market economics](/capitalism). Rousseau theorized about the social contract. Immanuel Kant urged people to "dare to know."
+John Locke argued for natural rights and [government](/government) by consent. Voltaire championed freedom of speech and religious tolerance. Montesquieu proposed the separation of powers. Adam Smith described [market economics](/capitalism). Rousseau theorized about the social contract. Immanuel Kant urged people to "dare to know."
 
 These ideas had consequences. The American Revolution (1776) and French Revolution (1789) were directly inspired by Enlightenment principles. The Declaration of Independence and the Declaration of the Rights of Man are Enlightenment documents in political form.
 
@@ -105,4 +105,4 @@ These ideas had consequences. The American Revolution (1776) and French Revoluti
 
 The early modern period is when the modern world's foundations were poured. Global trade networks, the [scientific method](/scientific-method), religious pluralism, constitutional government, capitalism, colonialism (and its lasting consequences), the printing press and mass communication — all either originated or took their recognizable form during these 350 years.
 
-It's also a useful corrective to the idea that progress is linear. The same period that produced Newton's physics and Locke's [political philosophy](/political-philosophy) also produced the transatlantic slave trade, witch trials, and some of the most brutal colonial exploitation in human history. The early modern world was contradictory in ways that are uncomfortable but important to understand — because many of those contradictions persist today.
+It's also a useful corrective to the idea that progress is linear. The same period that produced Newton's [physics](/physics) and Locke's [political philosophy](/political-philosophy) also produced the transatlantic slave trade, witch trials, and some of the most brutal colonial exploitation in human history. The early modern world was contradictory in ways that are uncomfortable but important to understand — because many of those contradictions persist today.

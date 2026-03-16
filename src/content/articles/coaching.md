@@ -47,7 +47,7 @@ This sounds a bit soft, and honestly, some coaching is. But when it's done well,
 
 ## A Brief History
 
-Coaching as a formal profession is younger than you might think. The term was borrowed from athletics — coaches have trained athletes for centuries — but its application to business and personal development really took off in the 1980s and 1990s.
+Coaching as a formal profession is younger than you might think. The term was borrowed from [athletics](/athletics) — coaches have trained athletes for centuries — but its application to business and personal development really took off in the 1980s and 1990s.
 
 Thomas Leonard, a financial planner who noticed his clients needed life guidance more than money advice, is often credited with founding the personal coaching industry. He created Coach University in 1992 and co-founded the International Coach Federation (ICF) in 1995. The ICF now has over 50,000 credentialed coaches in more than 140 countries.
 
@@ -63,17 +63,17 @@ The best executive coaching uses 360-degree feedback — gathering input from th
 
 ### [Life Coaching](/life-coaching)
 
-Life coaching addresses personal goals: career transitions, relationship patterns, work-life balance, health and fitness, finding purpose. It's the broadest category and, frankly, the most uneven in quality. Because the industry is unregulated, life coaching attracts both highly skilled professionals and people who took a weekend course and printed business cards.
+Life coaching addresses personal goals: career transitions, relationship patterns, work-life balance, health and [fitness](/fitness), finding purpose. It's the broadest category and, frankly, the most uneven in quality. Because the industry is unregulated, life coaching attracts both highly skilled professionals and people who took a weekend course and printed business cards.
 
 The good life coaches bring structured frameworks, deep listening skills, and genuine expertise in [behavioral](/behavioral-psychology) change. They help you set specific goals, identify the patterns that keep you stuck, and build accountability systems that actually work.
 
 ### Career Coaching
 
-Career coaches specialize in professional transitions — job searches, career changes, promotion strategies, and professional brand building. They help with practical skills like resume writing and interview preparation, but the deeper work involves clarifying what you actually want (which is harder than it sounds) and overcoming the [psychological](/cognitive-psychology) barriers to going after it.
+Career coaches specialize in professional transitions — job searches, career changes, promotion strategies, and professional brand building. They help with practical skills like resume [writing](/writing) and interview preparation, but the deeper work involves clarifying what you actually want (which is harder than it sounds) and overcoming the [psychological](/cognitive-[psychology](/psychology)) barriers to going after it.
 
 ### Health and Wellness Coaching
 
-This growing specialty helps people make sustainable health behavior changes — weight [management](/management), exercise habits, stress reduction, chronic disease management. Health coaches often work alongside doctors, filling the gap between "your doctor told you to exercise more" and actually doing it consistently. The National Board for Health and Wellness Coaching (NBHWC) established a credentialing process in 2017.
+This growing specialty helps people make sustainable health behavior changes — weight [management](/management), exercise habits, stress reduction, chronic disease management. Health coaches often work alongside doctors, filling the gap between "your doctor told you to exercise more" and actually doing it consistently. The National Board for Health and [Wellness](/wellness) Coaching (NBHWC) established a credentialing process in 2017.
 
 ### Team and Group Coaching
 
@@ -83,7 +83,7 @@ Rather than working one-on-one, team coaches work with intact teams to improve c
 
 While specific models vary, most coaching follows a recognizable structure.
 
-**Contracting.** Coach and client agree on goals, logistics, confidentiality, and what success looks like. In executive coaching, this often includes the client's manager, since the organization is typically paying.
+**Contracting.** Coach and client agree on goals, [logistics](/logistics), confidentiality, and what success looks like. In executive coaching, this often includes the client's manager, since the organization is typically paying.
 
 **Assessment.** The coach gathers information — through conversation, questionnaires, 360-degree feedback, or personality instruments. The point is to establish a baseline: where are you now, what's working, and what isn't?
 

@@ -51,7 +51,7 @@ The common thread is control. Unlike wild [fishing](/fishing), where you take wh
 
 ## A History That Goes Back Further Than You'd Expect
 
-Humans have been farming aquatic animals for a very long time.
+Humans have been [farming](/farming) aquatic animals for a very long time.
 
 The oldest evidence of aquaculture comes from Australia, where Aboriginal Australians built elaborate stone fish traps at Budj Bim at least 6,600 years ago — and possibly as far back as 8,000 years. These weren't simple weirs. They were engineered canal systems that trapped, held, and fattened eels over extended periods. In 2019, the Budj Bim Cultural Field became a UNESCO World Heritage Site, partly because of these ancient aquaculture systems.
 
@@ -107,7 +107,7 @@ Several companies are betting big on land-based RAS for salmon farming, aiming t
 
 Used heavily for trout and some salmon species. Water from a river or spring flows through long, narrow channels (raceways), passing through once before being discharged. The constant flow provides fresh, oxygenated water, but you need a reliable water source and must treat effluent before release.
 
-Idaho produces about 75% of US farmed trout using raceway systems fed by springs from the Snake River aquifer. The cold, clean water is nearly ideal for rainbow trout — and the industry has been operating there since the 1940s.
+Idaho produces about 75% of US farmed trout using raceway systems fed by [springs](/springs) from the Snake River aquifer. The cold, clean water is nearly ideal for rainbow trout — and the industry has been operating there since the 1940s.
 
 ### Shellfish Culture
 
@@ -186,7 +186,7 @@ Several trends are reshaping the industry.
 
 **Land-based RAS** continues to attract investment. Companies in the US, Norway, Japan, and elsewhere are building massive indoor salmon farms close to consumer markets. If successful, this could reduce transportation emissions and give producers complete environmental control. Capital costs exceeding $500 million per facility, though, mean the financial risk is substantial.
 
-**Genetic improvement** through selective breeding (and potentially gene [editing](/editing)) is accelerating growth rates, disease resistance, and feed efficiency. AquaBounty's AquAdvantage salmon, genetically modified to grow twice as fast as conventional Atlantic salmon, received FDA approval in 2015 and began commercial sales in 2021.
+**Genetic improvement** through selective breeding (and potentially gene [editing](/editing)) is accelerating growth rates, disease resistance, and feed efficiency. AquaBounty's AquAdvantage salmon, genetically modified to grow twice as fast as conventional Atlantic salmon, received FDA approval in 2015 and began commercial [sales](/sales) in 2021.
 
 **Integrated multi-trophic aquaculture (IMTA)** mimics natural ecosystems by farming multiple species together. Waste from fish feeds seaweed and shellfish, which filter the water. The concept is ecologically elegant and is gaining traction in Canada, China, and Northern Europe.
 
@@ -194,7 +194,7 @@ Several trends are reshaping the industry.
 
 ## Why This Matters
 
-The math is simple. The global population is heading toward 10 billion by 2050. People are eating more protein as incomes rise. Wild fisheries can't grow. Land-based [agriculture](/agriculture) faces constraints from water scarcity, soil degradation, and climate change.
+The math is simple. The global population is heading toward 10 billion by 2050. People are eating more protein as incomes rise. Wild fisheries can't grow. Land-based [agriculture](/agriculture) faces constraints from water scarcity, soil degradation, and [climate change](/climate-change).
 
 Aquaculture is one of the few food production systems that can still scale significantly. It's not perfect. It has real environmental costs that need management. But done well — right species, right methods, right regulation — it's one of the most efficient ways to produce animal protein on the planet.
 

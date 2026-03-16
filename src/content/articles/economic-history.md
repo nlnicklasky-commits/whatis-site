@@ -35,7 +35,7 @@ faq:
 
 # What Is Economic History?
 
-Economic history is the study of how economies have developed and changed over time — how people produced, traded, consumed, and distributed goods and services across different eras and regions. It combines the methods of both economics and history to explain why some societies became wealthy while others stayed poor, and how the global economy arrived at its current state.
+Economic history is the study of how economies have developed and changed over time — how people produced, traded, consumed, and distributed goods and services across different eras and regions. It combines the methods of both [economics](/economics) and history to explain why some societies became wealthy while others stayed poor, and how the global economy arrived at its current state.
 
 ## Where History Meets Economics
 
@@ -51,7 +51,7 @@ These aren't just academic puzzles. Understanding how economies developed in the
 
 For most of human history, almost everyone was a farmer. Even in sophisticated ancient civilizations — Egypt, Mesopotamia, Rome, Han China — [agriculture](/agriculture) employed the overwhelming majority of the population. Economic growth was glacially slow by modern standards. A Roman citizen's material standard of living was probably not dramatically different from a medieval English peasant's, 1,000 years later.
 
-That doesn't mean nothing was happening. Ancient Mesopotamia developed money, contracts, and interest-bearing loans by 3000 BCE. The Roman Empire built a trade network spanning three continents. [The Silk Road](/silk-road) connected China to the Mediterranean. Song Dynasty China (960-1279) experienced a commercial revolution with paper money, sophisticated banking, and proto-industrial production of iron and textiles.
+That doesn't mean nothing was happening. Ancient Mesopotamia developed money, contracts, and interest-bearing loans by 3000 BCE. The Roman Empire built a [trade](/trade) network spanning three continents. [The Silk Road](/silk-road) connected China to the Mediterranean. Song Dynasty China (960-1279) experienced a commercial revolution with paper money, sophisticated banking, and proto-industrial production of iron and textiles.
 
 But sustained, per-capita economic growth — the kind where each generation is measurably richer than the last — essentially didn't exist. The economist Angus Maddison estimated that global per-capita GDP roughly doubled between 1 CE and 1500 CE — over fifteen centuries. That same doubling now happens in a few decades in fast-growing economies.
 
@@ -59,7 +59,7 @@ But sustained, per-capita economic growth — the kind where each generation is 
 
 The [Age of Exploration](/early-modern-history) opened global trade routes and began integrating the world's economies. Silver from the Americas flowed to China. Spices from Southeast Asia reached European tables. Sugar, tobacco, and cotton — often produced by enslaved labor — generated enormous wealth for European colonial powers.
 
-The [Netherlands](/dutch-history) pioneered many financial innovations during this period: the stock exchange, futures contracts, joint-stock companies, and central banking. Amsterdam became Europe's financial capital. England followed, establishing the Bank of England in 1694 and developing a sophisticated system of government debt that allowed it to fund wars and colonial expansion.
+The [Netherlands](/dutch-history) pioneered many financial innovations during this period: the stock exchange, futures contracts, joint-stock companies, and central banking. Amsterdam became Europe's financial capital. England followed, establishing the Bank of England in 1694 and developing a sophisticated system of [government](/government) debt that allowed it to fund wars and colonial expansion.
 
 This period also saw the beginnings of what economists call "the Great Divergence" — the widening gap between European and Asian (particularly Chinese and Indian) living standards. In 1500, Western Europe and China had roughly similar per-capita incomes. By 1800, Western Europe was significantly richer. Why this happened is one of the most hotly debated questions in economic history.
 
@@ -75,9 +75,9 @@ Industrialization spread from Britain to Belgium, France, Germany, and the Unite
 
 ### The Modern Global Economy (1870-Present)
 
-The period from 1870 to 1914 — sometimes called the First Globalization — saw unprecedented integration of world markets. Steamships, railroads, the telegraph, and the gold standard reduced the costs of [international trade](/international-trade) and finance dramatically. Immigration was largely unrestricted. Capital flowed freely across borders.
+The period from 1870 to 1914 — sometimes called the First Globalization — saw unprecedented integration of world markets. Steamships, railroads, the telegraph, and the gold standard reduced the costs of [international trade](/international-trade) and [finance](/finance) dramatically. Immigration was largely unrestricted. Capital flowed freely across borders.
 
-World War I shattered this system. The interwar period (1918-1939) was marked by instability — hyperinflation in Germany, the Great Depression, the rise of protectionism. The U.S. Smoot-Hawley Tariff of 1930, which raised import duties to near-record levels, worsened the global downturn by shrinking international trade.
+[World War I](/world-war-i) shattered this system. The interwar period (1918-1939) was marked by instability — hyperinflation in Germany, the Great Depression, the rise of protectionism. The U.S. Smoot-Hawley Tariff of 1930, which raised import duties to near-record levels, worsened the global downturn by shrinking international trade.
 
 The post-[World War II](/world-war-ii) era brought a new economic order. The Bretton Woods system (1944) established fixed exchange rates and created the International Monetary Fund and World Bank. The Marshall Plan rebuilt Western Europe. Japan and Germany experienced "economic miracles." The Cold War divided the world into [capitalist](/capitalism) and communist economic blocs.
 
@@ -87,11 +87,11 @@ The collapse of communism (1989-1991), the rise of China after Deng Xiaoping's r
 
 ### The Great Divergence
 
-Why did Western Europe pull ahead of the rest of the world? Kenneth Pomeranz argued in his influential 2000 book that China's Yangtze Delta was economically comparable to England as late as 1750, and that the divergence was partly due to Britain's lucky access to coal and New World colonies. Others (like Niall Ferguson) point to institutional factors — property rights, rule of law, competition among European states. This debate is far from settled.
+Why did Western Europe pull ahead of the rest of the world? Kenneth Pomeranz argued in his influential 2000 book that China's Yangtze Delta was economically comparable to England as late as 1750, and that the divergence was partly due to Britain's lucky access to coal and New World colonies. Others (like Niall Ferguson) point to institutional factors — property rights, rule of law, competition among European states. This [debate](/debate) is far from settled.
 
 ### Institutions vs. Geography
 
-Why are some countries rich and others poor? Daron Acemoglu and James Robinson argue in *Why Nations Fail* that inclusive institutions (property rights, fair courts, democratic governance) are the key driver. Jeffrey Sachs emphasizes geography — climate, disease burden, access to trade routes. Jared Diamond points to [biogeography](/biogeography) — the distribution of domesticable plants and animals. Each explanation has evidence in its favor; none fully explains the pattern alone.
+Why are some countries rich and others poor? Daron Acemoglu and James Robinson argue in *Why Nations Fail* that inclusive institutions (property rights, fair courts, democratic governance) are the key driver. Jeffrey Sachs emphasizes [geography](/geography) — climate, disease burden, access to trade routes. Jared Diamond points to [biogeography](/biogeography) — the distribution of domesticable plants and animals. Each explanation has evidence in its favor; none fully explains the pattern alone.
 
 ### The Role of Slavery and Colonialism
 

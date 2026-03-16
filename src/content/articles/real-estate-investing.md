@@ -39,11 +39,11 @@ faq:
 
 Real estate investing is the purchase, ownership, [management](/management), or sale of property for profit. It is one of the oldest wealth-building strategies in human history, and for good reason — real estate has created more millionaires than any other asset class, according to multiple studies including data from the IRS and the Federal Reserve's Survey of Consumer Finances.
 
-But let's be honest about something upfront: real estate investing is not the passive, easy money machine that late-night infomercials and social media influencers promise. It is a business. It involves capital, risk, management headaches, legal complexity, and market timing. Some people build extraordinary wealth through real estate. Others lose their shirts. The difference usually comes down to education, discipline, and realistic expectations.
+But let's be honest about something upfront: real estate investing is not the passive, easy money machine that late-night infomercials and social media influencers promise. It is a business. It involves capital, risk, management headaches, legal complexity, and market timing. Some people build extraordinary wealth through real estate. Others lose their shirts. The difference usually comes down to [education](/education), discipline, and realistic expectations.
 
 ## Why Real Estate? The Core Advantages
 
-Before diving into strategies, you need to understand why real estate investing works differently from stocks, bonds, or other investments. There are five structural advantages that make real estate unique.
+Before [diving](/diving) into strategies, you need to understand why real estate investing works differently from stocks, bonds, or other investments. There are five structural advantages that make real estate unique.
 
 ### Use: Other People's Money
 
@@ -53,7 +53,7 @@ Use works in both directions, though. If the property drops 20%, you have lost $
 
 ### Cash Flow: Getting Paid Every Month
 
-Rental properties produce monthly income. After paying the mortgage, property taxes, insurance, maintenance, and management costs, whatever remains is your cash flow. A well-chosen rental property might generate $200-$500 per month in positive cash flow per unit. Across 10 units, that is $2,000-$5,000 monthly — real income that shows up whether you go to your day job or not.
+Rental properties produce monthly income. After paying the mortgage, property taxes, [insurance](/insurance), maintenance, and management costs, whatever remains is your cash flow. A well-chosen rental property might generate $200-$500 per month in positive cash flow per unit. Across 10 units, that is $2,000-$5,000 monthly — real income that shows up whether you go to your day job or not.
 
 Cash flow is what separates real estate from pure speculation. Stocks might appreciate, but they don't pay your bills each month (dividends aside, and those are typically modest). A rental property can both appreciate over time and pay you along the way.
 
@@ -130,7 +130,7 @@ The historical returns are solid. From 1972 to 2023, the FTSE Nareit All Equity 
 Types of REITs include:
 
 - **Equity REITs**: Own and operate properties (offices, malls, apartments, data centers)
-- **Mortgage REITs**: Finance real estate by purchasing mortgages or mortgage-backed securities
+- **Mortgage REITs**: [Finance](/finance) real estate by purchasing mortgages or mortgage-backed securities
 - **Hybrid REITs**: Combine both strategies
 
 The downside? You miss out on the use, tax, and control benefits of direct ownership. REIT dividends are taxed as ordinary income (not at the lower qualified dividend rate). And you cannot walk through your investment, choose tenants, or decide when to sell.
@@ -228,7 +228,7 @@ This path is not glamorous. It requires patience, consistent effort, and the dis
 
 After analyzing thousands of investor stories, certain patterns emerge in failures.
 
-**Overpaying**: Buying at full market value leaves no margin for error. Successful investors buy at discounts through off-market deals, distressed sales, or properties needing cosmetic work.
+**Overpaying**: Buying at full market value leaves no margin for error. Successful investors buy at discounts through off-market deals, distressed [sales](/sales), or properties needing cosmetic work.
 
 **Underestimating expenses**: New investors routinely forget to budget for vacancies, capital expenditures, and management costs. The result is negative cash flow that they did not expect.
 

@@ -57,15 +57,15 @@ Prop making is wildly interdisciplinary. A single project might require:
 
 **[Woodworking](/woodworking)** — building furniture, architectural elements, wooden weapons, and structural frameworks. Traditional joinery and modern power tools are both relevant.
 
-**[Metalworking](/metalworking)** — welding, brazing, fabricating, and finishing metal props. Armor, weapons, machinery, and structural components often require metal skills.
+**[Metalworking](/metalworking)** — [welding](/welding), brazing, fabricating, and finishing metal props. Armor, weapons, machinery, and structural components often require metal skills.
 
 **[Painting](/painting) and finishing** — making new materials look old, cheap materials look expensive, and foam look like metal, wood, stone, or anything else. Finishing is where prop making becomes genuinely artful. A beautifully sculpted prop with bad paint looks terrible; a rough shape with brilliant finishing looks real.
 
-**Sewing and [upholstery](/upholstery)** — fabric-based props, padded items, banners, flags, and soft goods.
+**[Sewing](/sewing) and [upholstery](/upholstery)** — fabric-based props, padded items, banners, flags, and soft goods.
 
 **[Electronics](/electronics)** — LED lighting, sound effects, motorized mechanisms, remote-controlled elements. Modern props increasingly incorporate technology.
 
-**3D printing** — has transformed prop making since the 2010s. Complex shapes that would take days to sculpt by hand can be printed overnight. Props departments in major studios now have 3D printers running constantly.
+**3D printing** — has transformed prop making since the 2010s. Complex shapes that would take days to sculpt by hand can be printed overnight. Props departments in major studios now have 3D printers [running](/running) constantly.
 
 ## Theater vs. Film vs. Cosplay
 

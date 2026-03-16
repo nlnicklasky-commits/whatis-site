@@ -34,7 +34,7 @@ faq:
 ---
 
 # What Is Technology Management?
-Technology management is the discipline of selecting, deploying, and overseeing technology resources within an organization to meet business objectives, control costs, manage risk, and maintain competitive position. It sits at the intersection of technology expertise and [business strategy](/business-strategy) — the practice of making smart decisions about which technologies to adopt, how to implement them, and when to retire them.
+Technology [management](/management) is the discipline of selecting, deploying, and overseeing technology resources within an organization to meet business objectives, control costs, manage risk, and maintain competitive position. It sits at the intersection of technology expertise and [business strategy](/business-strategy) — the practice of making smart decisions about which technologies to adopt, how to implement them, and when to retire them.
 
 Every organization of any size faces technology decisions. Should we move to the cloud? Build or buy? Upgrade now or wait? How do we secure our data? What skills does our team need next year? Technology management is the structured approach to answering these questions instead of making them up as you go. And given that the average large enterprise spends 3-8% of revenue on technology, the stakes are significant.
 
@@ -42,7 +42,7 @@ Every organization of any size faces technology decisions. Should we move to the
 
 Technology spending has exploded over the past several decades. Global IT spending reached approximately $4.7 trillion in 2023, according to Gartner. That's more than the GDP of all but three countries. With that much money flowing into technology, organizations can't afford to wing it.
 
-But it's not just about money. Technology decisions shape what an organization can do. The company that adopts [cloud computing](/cloud-computing) early gains flexibility and speed. The company that ignores cybersecurity risks loses customer data and trust. The company that picks the wrong enterprise software platform wastes years and millions of dollars on a system nobody wants to use.
+But it's not just about money. Technology decisions shape what an organization can do. The company that adopts [cloud computing](/cloud-computing) early gains flexibility and speed. The company that ignores [cybersecurity](/cybersecurity) risks loses customer data and trust. The company that picks the wrong enterprise software platform wastes years and millions of dollars on a system nobody wants to use.
 
 Technology management emerged as a formal discipline because organizations realized that technology decisions are too important — and too complex — to leave entirely to technologists or entirely to business leaders. You need both perspectives, working together, with a structured framework for making and evaluating decisions.
 
@@ -108,7 +108,7 @@ Most organizations don't build everything in-house. They buy software, hire cons
 - Planning for vendor transitions or failures
 - Controlling software licensing costs
 
-Software licensing alone is a massive cost center. Gartner estimates that organizations waste 25-30% of their software spending on unused or underutilized licenses. License management and optimization can recover millions at large organizations.
+Software licensing alone is a massive cost center. Gartner estimates that organizations waste 25-30% of their software spending on unused or underutilized licenses. License management and [optimization](/optimization) can recover millions at large organizations.
 
 ## Key Roles
 
@@ -116,9 +116,9 @@ Software licensing alone is a massive cost center. Gartner estimates that organi
 
 **Chief Technology Officer (CTO)** — focuses more on technology vision, product technology, and R&D. The CIO/CTO distinction varies by organization — some have both, some have one or the other.
 
-**Chief [Information Security](/information-security) Officer (CISO)** — dedicated security leadership, reporting to the CIO or directly to the CEO. This role has grown rapidly as security threats have intensified.
+**Chief [Information Security](/information-security) Officer (CISO)** — dedicated security [leadership](/leadership), reporting to the CIO or directly to the CEO. This role has grown rapidly as security threats have intensified.
 
-**IT Director / VP of Engineering** — manages technology teams and projects, typically reporting to the CIO or CTO.
+**IT Director / VP of [Engineering](/engineering)** — manages technology teams and projects, typically reporting to the CIO or CTO.
 
 **Enterprise Architect** — designs the overall technology blueprint, ensuring systems work together coherently.
 
@@ -195,7 +195,7 @@ Successful digital transformation requires technology management and change mana
 
 How do you know if technology management is working? Common metrics include:
 
-- **System uptime and availability** — are systems running when people need them? (99.9% uptime means about 8.7 hours of downtime per year)
+- **System uptime and availability** — are systems [running](/running) when people need them? (99.9% uptime means about 8.7 hours of downtime per year)
 - **Incident response time** — how quickly are problems identified and resolved?
 - **Project delivery metrics** — are technology projects delivered on time and budget?
 - **User satisfaction** — do employees and customers find technology easy to use?
@@ -211,4 +211,4 @@ The role is evolving fast. Technology managers increasingly need to be business 
 
 Automation is changing the nature of IT operations. Infrastructure-as-code, automated testing, AI-powered monitoring, and self-healing systems are reducing the need for manual operational work and increasing the demand for architecture, strategy, and governance skills.
 
-For anyone entering the field, the combination of technical depth and business judgment is what separates good technology managers from great ones. You need to understand the technology well enough to evaluate it honestly — not just the shiny marketing version — and you need to understand the business well enough to connect technology decisions to actual organizational outcomes. That combination is rare, valuable, and will remain so for a long time.
+For anyone entering the field, the combination of technical depth and business judgment is what separates good technology managers from great ones. You need to understand the technology well enough to evaluate it honestly — not just the shiny [marketing](/marketing) version — and you need to understand the business well enough to connect technology decisions to actual organizational outcomes. That combination is rare, valuable, and will remain so for a long time.

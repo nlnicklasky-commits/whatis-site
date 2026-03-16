@@ -39,11 +39,11 @@ faq:
 
 # What Is Experimental Psychology?
 
-Experimental psychology is the branch of psychology that applies scientific methods—controlled experiments, systematic observation, and statistical analysis—to study mental processes and behavior. It treats the human mind as something that can be measured, tested, and understood through evidence rather than speculation.
+Experimental [psychology](/psychology) is the branch of psychology that applies scientific methods—controlled experiments, systematic observation, and statistical analysis—to study mental processes and behavior. It treats the human mind as something that can be measured, tested, and understood through evidence rather than speculation.
 
 ## Why Psychology Needed Experiments
 
-For most of human history, understanding the mind was the domain of philosophy. Aristotle theorized about memory. Descartes debated the relationship between mind and body. These were brilliant thinkers, but they were guessing. They had no way to test whether their ideas were right.
+For most of human history, understanding the mind was the domain of [philosophy](/philosophy). Aristotle theorized about memory. Descartes debated the relationship between mind and body. These were brilliant thinkers, but they were guessing. They had no way to test whether their ideas were right.
 
 That changed in 1879 when Wilhelm Wundt opened the first psychology laboratory at the University of Leipzig. His radical idea was simple: apply the methods of [experimental physics](/experimental-physics) to the study of the mind. Measure reaction times. Control conditions. Record observations systematically. Psychology would be a science, not a branch of philosophy.
 
@@ -61,7 +61,7 @@ Every experiment starts with a hypothesis. Not a vague question but a specific, 
 
 Next comes the experimental design. The researcher identifies:
 
-- **Independent variable**: What they'll manipulate (e.g., type of word processing)
+- **Independent variable**: What they'll manipulate (e.g., type of [word processing](/word-processing))
 - **Dependent variable**: What they'll measure (e.g., number of words recalled)
 - **Control variables**: Everything else that needs to stay constant (lighting, instructions, time allowed)
 - **Participants**: Who, how many, and how they'll be assigned to conditions
@@ -86,7 +86,7 @@ Blinding works too. In a double-blind experiment, neither the participant nor th
 
 ### Statistical Analysis: Making Sense of Data
 
-Raw [data analysis](/data-analysis) in psychology almost always involves statistics. The fundamental question is: "Is the difference I observed between conditions real, or could it have happened by chance?"
+Raw [data analysis](/data-analysis) in psychology almost always involves [statistics](/statistics). The fundamental question is: "Is the difference I observed between conditions real, or could it have happened by chance?"
 
 The conventional threshold is p < .05—a less than 5% probability that the result occurred by random chance. But this threshold has been increasingly criticized. A p-value of .049 means there's roughly a 1 in 20 chance the result is a fluke. Run 20 experiments, and you'd expect one false positive even if nothing is really going on.
 
@@ -102,7 +102,7 @@ Experimental psychology spans an enormous range of topics. Here are the fields t
 
 Memory research, for example, has established that human memory is constructive rather than reproductive. You don't replay memories like video recordings. You reconstruct them each time, and each reconstruction can introduce errors. Elizabeth Loftus's experiments on eyewitness testimony showed that simply changing one word in a question—"How fast were the cars going when they *smashed* into each other?" vs. "...when they *contacted* each other?"—significantly changed speed estimates and whether people "remembered" seeing broken glass (there was none).
 
-Attention research has demonstrated that humans are surprisingly blind to things they're not expecting. In the famous "invisible gorilla" experiment by Daniel Simons and Christopher Chabris (1999), about half of participants watching a basketball passing video failed to notice a person in a gorilla suit walking through the scene. This "inattentional blindness" has serious implications for driving, security screening, and medical imaging.
+Attention research has demonstrated that humans are surprisingly blind to things they're not expecting. In the famous "invisible gorilla" experiment by Daniel Simons and Christopher Chabris (1999), about half of participants watching a [basketball](/basketball) passing video failed to notice a person in a gorilla suit [walking](/walking) through the scene. This "inattentional blindness" has serious implications for driving, security screening, and [medical imaging](/medical-imaging).
 
 ### Behavioral Psychology
 
@@ -122,7 +122,7 @@ Modern developmental research uses techniques Piaget could never have imagined. 
 
 ### Social Psychology
 
-Social psychology examines how people's thoughts, feelings, and behaviors are influenced by others. This field has produced some of the most famous—and infamous—experiments in psychology.
+[Social psychology](/social-psychology) examines how people's thoughts, feelings, and behaviors are influenced by others. This field has produced some of the most famous—and infamous—experiments in psychology.
 
 Solomon Asch's conformity experiments (1951) showed that people will give obviously wrong answers to simple questions if everyone else in the group gives that wrong answer first. About 75% of participants conformed at least once across 12 trials. People weren't confused about the right answer—they knew it. They just didn't want to be the odd one out.
 
@@ -130,7 +130,7 @@ Stanley Milgram's obedience studies (1963) found that about 65% of participants 
 
 ### Neuroscience and Biological Psychology
 
-The intersection of psychology and neuroscience—[cognitive neuroscience](/cognitive-neuroscience)—has exploded over the past three decades, largely thanks to brain imaging technology. Functional MRI (fMRI) lets researchers see which brain regions activate during different mental tasks. EEG measures electrical activity with millisecond precision.
+The intersection of psychology and [neuroscience](/neuroscience)—[cognitive neuroscience](/cognitive-neuroscience)—has exploded over the past three decades, largely thanks to brain imaging technology. Functional MRI (fMRI) lets researchers see which brain regions activate during different mental tasks. EEG measures electrical activity with millisecond precision.
 
 These tools have revealed that psychological phenomena have specific neural signatures. Fear activates the amygdala. Working memory relies on the prefrontal cortex. Language processing involves Broca's and Wernicke's areas (mostly). The brain is not a uniform blob—it has specialized regions for specialized functions, though the old "left brain/right brain" oversimplification is exactly that—an oversimplification.
 
@@ -164,7 +164,7 @@ Starting around 2011, experimental psychology faced a reckoning. The Open Scienc
 
 This was devastating, but ultimately healthy. The replication crisis exposed several problems:
 
-**Publication bias**: Journals preferentially published positive results (significant findings) over null results. This meant the published literature was systematically skewed toward effects that might not be real.
+**Publication bias**: Journals preferentially published positive results (significant findings) over null results. This meant the published [literature](/literature) was systematically skewed toward effects that might not be real.
 
 **P-hacking**: Some researchers—consciously or not—analyzed their data multiple ways until they found a statistically significant result. Try enough analyses, and you'll find significance by chance.
 
@@ -174,7 +174,7 @@ This was devastating, but ultimately healthy. The replication crisis exposed sev
 
 The field has responded vigorously. Pre-registration—publicly committing to your analysis plan before collecting data—is now standard at top journals. Registered reports go further: journals accept papers based on the design alone, before results are known, eliminating publication bias entirely. Sample sizes have increased dramatically. Open data sharing allows other researchers to verify analyses.
 
-Psychology isn't alone in having reproducibility issues—similar problems exist in medicine, [biology](/biology), and even some areas of physics. But psychology confronted the crisis earlier and more openly than most fields, which speaks well of the discipline's commitment to self-correction.
+Psychology isn't alone in having reproducibility issues—similar problems exist in medicine, [biology](/biology), and even some areas of [physics](/physics). But psychology confronted the crisis earlier and more openly than most fields, which speaks well of the discipline's commitment to self-correction.
 
 ## Ethics in Experimental Psychology
 
@@ -204,21 +204,21 @@ Experimental psychology's toolkit has expanded enormously beyond the clipboard a
 
 **Online experiments** using platforms like Prolific and Amazon Mechanical Turk allow researchers to collect data from hundreds or thousands of participants in days rather than months. This has dramatically increased sample sizes—but raises questions about whether online participants behave the same as in-lab participants. (Usually, the answer is yes, with some caveats.)
 
-**Virtual reality** creates controlled environments that are far more immersive than traditional lab settings. Want to study fear of heights? Put someone in a VR environment on a virtual skyscraper. Want to study racial bias? Let participants experience life as a different race through VR embodiment.
+**[Virtual reality](/virtual-reality)** creates controlled environments that are far more immersive than traditional lab settings. Want to study fear of heights? Put someone in a VR environment on a virtual skyscraper. Want to study racial bias? Let participants experience life as a different race through VR embodiment.
 
 ## The Practical Impact
 
 Experimental psychology isn't just academic. Its findings shape daily life in ways most people never notice.
 
-**Education**: Spacing effect research shows that distributed practice (studying a little bit over many days) beats massed practice (cramming) for long-term retention. Testing effect research shows that taking practice tests is one of the most effective study strategies. These findings are slowly changing how teachers design curricula.
+**[Education](/education)**: Spacing effect research shows that distributed practice (studying a little bit over many days) beats massed practice (cramming) for long-term retention. Testing effect research shows that taking practice tests is one of the most effective study strategies. These findings are slowly changing how teachers design curricula.
 
 **Healthcare**: Understanding [cognitive bias](/cognitive-bias) helps doctors make better diagnostic decisions. Knowledge of placebo effects shapes clinical trial design. Behavioral interventions for addiction, anxiety, and depression are all grounded in experimental research.
 
-**Technology**: UX design draws heavily on attention and perception research. Notification systems exploit operant conditioning principles (variable ratio reinforcement schedules—the same principle behind slot machines). A/B testing on websites is literally experimental psychology applied to product design.
+**Technology**: UX design draws heavily on attention and perception research. Notification systems exploit operant conditioning principles (variable ratio reinforcement schedules—the same principle behind slot machines). A/B testing on websites is literally experimental psychology applied to [product design](/product-design).
 
 **Law**: Experimental research on eyewitness memory has changed courtroom procedures. Studies on false confessions have influenced interrogation practices. Research on jury decision-making informs legal strategy.
 
-**Public policy**: Nudge theory—using insights from [cognitive bias](/cognitive-bias) research to design better default options—has influenced government policy worldwide. The UK's Behavioural Insights Team and similar units in other countries apply experimental psychology to increase tax compliance, organ donation, and retirement savings.
+**[Public policy](/public-policy)**: Nudge theory—using insights from [cognitive bias](/cognitive-bias) research to design better default options—has influenced [government](/government) policy worldwide. The UK's Behavioural Insights Team and similar units in other countries apply experimental psychology to increase tax compliance, organ donation, and retirement savings.
 
 ## Where the Field Is Heading
 

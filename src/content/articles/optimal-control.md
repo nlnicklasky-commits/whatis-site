@@ -37,7 +37,7 @@ faq:
 
 # What Is Optimal Control?
 
-Optimal control is a branch of [mathematics](/mathematics) and engineering that figures out the best possible way to steer a system from one state to another over time. "Best" means minimizing some cost — fuel burned, time elapsed, energy consumed, deviation from a target — or maximizing some benefit. It's the math behind rocket trajectories, self-driving car navigation, economic policy planning, and robotic arm movements.
+Optimal control is a branch of [mathematics](/mathematics) and [engineering](/engineering) that figures out the best possible way to steer a system from one state to another over time. "Best" means minimizing some cost — fuel burned, time elapsed, energy consumed, deviation from a target — or maximizing some benefit. It's the math behind rocket trajectories, self-driving car [navigation](/navigation), economic policy planning, and robotic arm movements.
 
 ## The Core Idea: What Makes It "Optimal"?
 
@@ -51,7 +51,7 @@ That's a bold claim, and it requires serious [mathematical modeling](/mathematic
 
 Every optimal control problem has four components:
 
-1. **System dynamics** — differential equations describing how the system's state evolves over time. For a rocket, these might describe how position and velocity change based on thrust direction and gravity.
+1. **System dynamics** — [differential equations](/differential-equations) describing how the system's state evolves over time. For a rocket, these might describe how position and velocity change based on thrust direction and gravity.
 
 2. **Control inputs** — the variables you can adjust. These are your levers. Thrust magnitude and direction, steering angle, voltage applied to a motor.
 
@@ -77,9 +77,9 @@ There are two fundamentally different approaches to solving optimal control prob
 
 Lev Pontryagin, a Soviet mathematician who was blind from age 14 (truly remarkable for someone working in such visually demanding math), published his Maximum Principle in 1956. His approach is an indirect method — it derives necessary conditions that any optimal solution must satisfy, then solves the resulting equations.
 
-The key insight is the introduction of costate variables (sometimes called adjoint variables or Lagrange multipliers). These represent the "shadow price" of each state variable — how much the cost would decrease if you could magically improve that state variable by one unit. Together, the state variables and costate variables form a Hamiltonian system, borrowing the mathematical structure of classical mechanics.
+The key insight is the introduction of costate variables (sometimes called adjoint variables or Lagrange multipliers). These represent the "shadow price" of each state variable — how much the cost would decrease if you could magically improve that state variable by one unit. Together, the state variables and costate variables form a Hamiltonian system, borrowing the mathematical structure of [classical mechanics](/classical-mechanics).
 
-The Maximum Principle states that the optimal control at each instant in time maximizes (or minimizes) the Hamiltonian — a function combining the running cost and the effect of the control on the system's trajectory. This converts the original infinite-dimensional optimization problem into a two-point boundary value problem: you know the initial state but the initial costate, and you know the final state but not the final costate. Solving this requires shooting methods or collocation techniques.
+The Maximum Principle states that the optimal control at each instant in time maximizes (or minimizes) the Hamiltonian — a function combining the running cost and the effect of the control on the system's trajectory. This converts the original infinite-dimensional [optimization](/optimization) problem into a two-point boundary value problem: you know the initial state but the initial costate, and you know the final state but not the final costate. Solving this requires shooting methods or collocation techniques.
 
 The elegance is real. Pontryagin's approach reduces an impossibly hard problem to a merely very hard one.
 
@@ -105,7 +105,7 @@ When NASA plans a mission to Mars, the trajectory isn't a straight line — it's
 
 Modern spacecraft use continuous low-thrust propulsion (ion engines or solar sails) that can't be analyzed with simple orbital mechanics. Instead, the entire multi-month trajectory must be optimized as a continuous control problem. The fuel savings are substantial — low-thrust trajectories often use 50-80% less propellant than conventional approaches, at the cost of longer travel times.
 
-Commercial aviation uses optimal control for fuel-efficient flight paths. Airlines save millions of dollars annually by computing optimal altitude profiles, speed schedules, and routing that account for wind patterns. A single percentage point improvement in fuel efficiency across a major airline's fleet saves tens of millions of dollars per year.
+Commercial [aviation](/aviation) uses optimal control for fuel-efficient flight paths. Airlines save millions of dollars annually by computing optimal altitude profiles, speed schedules, and routing that account for wind patterns. A single percentage point improvement in fuel efficiency across a major airline's fleet saves tens of millions of dollars per year.
 
 ### Robotics: Smooth, Efficient Movement
 
@@ -119,11 +119,11 @@ Boston Dynamics' humanoid robots and quadruped robots use optimal control to gen
 
 Economists have used optimal control since the 1960s to model policy decisions. The Ramsey-Cass-Koopmans model treats economic growth as an optimal control problem: choose consumption and savings rates over time to maximize society's total well-being. Central banks implicitly solve optimal control problems when setting interest rates — they're trying to steer inflation and employment toward targets while minimizing economic volatility.
 
-In [finance](/finance), portfolio optimization over time is an optimal control problem. The famous Merton model (Robert Merton won a Nobel Prize partly for this work) determines how to optimally allocate investments between risky and risk-free assets over a lifetime, accounting for changing wealth and income.
+In [finance](/finance), portfolio optimization over time is an optimal control problem. The famous Merton model (Robert Merton won a Nobel Prize partly for this work) determines how to optimally allocate investments between risky and risk-free assets over a lifetime, [accounting](/accounting) for changing wealth and income.
 
 ### Medicine and Biology
 
-Optimal control appears in medicine in ways you might not expect. Chemotherapy scheduling — determining drug dosages over time to maximize tumor reduction while minimizing damage to healthy tissue — is a classic optimal control problem. The state variables are tumor size and healthy cell count, the control is drug dosage, and the cost function balances treatment effectiveness against side effects.
+Optimal control appears in medicine in ways you might not expect. Chemotherapy [scheduling](/scheduling) — determining drug dosages over time to maximize tumor reduction while minimizing damage to healthy tissue — is a classic optimal control problem. The state variables are tumor size and healthy cell count, the control is drug dosage, and the cost function balances treatment effectiveness against side effects.
 
 Artificial pancreas systems for Type 1 diabetes use optimal control [algorithms](/algorithms) to determine insulin delivery rates based on continuous glucose readings. These systems must balance the risk of high blood sugar (long-term organ damage) against the risk of low blood sugar (immediate danger) — a perfect application for cost-function optimization.
 
@@ -131,7 +131,7 @@ Epidemic modeling uses optimal control to determine the best intervention strate
 
 ### Energy Systems
 
-Power grid management is an enormous optimal control problem. Grid operators must continuously balance electricity supply and demand while minimizing cost and maintaining stability. With [alternative energy](/alternative-energy) sources like wind and solar adding variability, the control problem has become significantly harder. Modern grid optimization uses stochastic optimal control to account for uncertain weather and demand.
+Power grid [management](/management) is an enormous optimal control problem. Grid operators must continuously balance [electricity](/electricity) supply and demand while minimizing cost and maintaining stability. With [alternative energy](/alternative-energy) sources like wind and solar adding variability, the control problem has become significantly harder. Modern grid optimization uses stochastic optimal control to account for uncertain weather and demand.
 
 Building climate control — heating, ventilation, and [air conditioning](/air-conditioning) systems — applies model predictive control to maintain comfort while minimizing energy consumption. Smart buildings that predict occupancy patterns and pre-condition spaces can reduce energy use by 20-40% compared to traditional reactive control.
 
@@ -159,11 +159,11 @@ MPC is used in chemical process control, autonomous vehicles, robotic locomotion
 
 ### Reinforcement Learning: The AI Connection
 
-Here's where things get contemporary. [Deep learning](/deep-learning) and reinforcement learning are, in a very real sense, solving optimal control problems. A reinforcement learning agent learns a policy (a function mapping states to actions) that maximizes cumulative reward over time. That's exactly the optimal control problem stated in different language.
+Here's where things get contemporary. [Deep learning](/deep-learning) and [reinforcement learning](/reinforcement-learning) are, in a very real sense, solving optimal control problems. A reinforcement learning agent learns a policy (a function mapping states to actions) that maximizes cumulative reward over time. That's exactly the optimal control problem stated in different language.
 
 The advantage of reinforcement learning is that it doesn't require an explicit mathematical model of the system — it learns from experience. The disadvantage is that it typically requires millions of training interactions and provides no formal guarantees of optimality or safety.
 
-The convergence of classical optimal control and [machine learning](/machine-learning) is one of the most active research areas in engineering and [computer science](/computer-science). Researchers are combining the rigor of optimal control theory with the flexibility of neural networks to create systems that are both certifiably safe and adaptable to complex, poorly modeled environments.
+The convergence of classical optimal control and [machine learning](/machine-learning) is one of the most active research areas in engineering and [computer science](/computer-science). Researchers are combining the rigor of optimal [control theory](/control-theory) with the flexibility of [neural networks](/neural-networks) to create systems that are both certifiably safe and adaptable to complex, poorly modeled environments.
 
 ## A Brief History
 
@@ -171,7 +171,7 @@ The intellectual roots of optimal control go back to the [calculus](/calculus) o
 
 Both the United States and the Soviet Union desperately needed to compute optimal missile and spacecraft trajectories. Bellman developed active programming at RAND Corporation starting in 1953. Pontryagin published his Maximum Principle in 1956. Rudolf Kalman developed the Linear-Quadratic Regulator (LQR) — a foundation of modern control — in 1960. Kalman also developed the Kalman filter for optimal state estimation, which was used in the Apollo navigation computer and is still used in virtually every navigation system today, including the GPS in your phone.
 
-The 1960s through 1980s saw optimal control theory mature and expand into economics, biology, and chemical engineering. The 1990s and 2000s brought computational advances that made previously intractable problems solvable. And the 2010s-2020s brought the fusion with machine learning that's reshaping the field today.
+The 1960s through 1980s saw optimal control theory mature and expand into [economics](/economics), biology, and [chemical engineering](/chemical-engineering). The 1990s and 2000s brought computational advances that made previously intractable problems solvable. And the 2010s-2020s brought the fusion with machine learning that's reshaping the field today.
 
 ## The Linear-Quadratic Regulator: The Workhorse
 
@@ -203,4 +203,4 @@ As autonomous systems become more prevalent — self-driving cars, delivery dron
 
 ## Key Takeaways
 
-Optimal control finds the mathematically best way to steer a active system from one state to another while minimizing a cost. It rests on two theoretical pillars — Pontryagin's Maximum Principle and Bellman's Active Programming — and uses numerical methods ranging from direct collocation to model predictive control to reinforcement learning. Applications span aerospace, robotics, economics, medicine, and energy, making it one of the most practically important branches of applied mathematics. The field is currently being transformed by its intersection with machine learning, producing systems that combine mathematical rigor with data-driven adaptability.
+Optimal control finds the mathematically best way to steer a active system from one state to another while minimizing a cost. It rests on two theoretical pillars — Pontryagin's Maximum Principle and Bellman's Active Programming — and uses numerical methods ranging from direct collocation to model predictive control to reinforcement learning. Applications span aerospace, robotics, economics, medicine, and energy, making it one of the most practically important branches of [applied mathematics](/applied-mathematics). The field is currently being transformed by its intersection with machine learning, producing systems that combine mathematical rigor with data-driven adaptability.

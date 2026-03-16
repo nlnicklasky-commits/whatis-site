@@ -59,7 +59,7 @@ Smoothing the surface by hammering over a polished stake, removing dents and too
 
 ## A Brief History
 
-Tinsmithing became a significant trade in 17th-18th century Europe as tinplate became widely available. The craft migrated to colonial America, where tinsmiths produced essential household goods — plates, cups, candle molds, lanterns, and [cooking](/cooking) vessels — at a time when [ceramics](/ceramics) and glass were expensive imports.
+Tinsmithing became a significant [trade](/trade) in 17th-18th century Europe as tinplate became widely available. The craft migrated to colonial America, where tinsmiths produced essential household goods — plates, cups, candle molds, lanterns, and [cooking](/cooking) vessels — at a time when [ceramics](/ceramics) and glass were expensive imports.
 
 The 18th and 19th centuries were the golden age of American tinsmithing. Traveling tinsmiths (*tinkers*) went from farm to farm, repairing cookware and selling their goods. Decorated tinware — painted with colorful folk designs — became a popular art form.
 

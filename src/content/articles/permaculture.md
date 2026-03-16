@@ -39,7 +39,7 @@ The core question permaculture asks is deceptively simple: How do we meet human 
 
 Permaculture was developed in the 1970s by Bill Mollison and David Holmgren in Tasmania, Australia. Mollison, a biologist and field researcher, spent years observing natural ecosystems and became frustrated with conventional [agriculture](/agriculture)'s dependence on fossil fuels, synthetic chemicals, and soil-degrading practices.
 
-He and Holmgren proposed an alternative: design productive human systems by modeling them on the patterns of natural ecosystems. A forest doesn't need fertilizer, pesticide, or [irrigation](/irrigation). It maintains itself through interconnected relationships between species, nutrient cycling, [water management](/water-law)), and energy flow. What if human food systems could work the same way?
+He and Holmgren proposed an alternative: design productive human systems by modeling them on the patterns of natural ecosystems. A forest doesn't need fertilizer, pesticide, or [irrigation](/irrigation). It maintains itself through interconnected relationships between species, nutrient [cycling](/cycling), [water management](/water-law)), and energy flow. What if human food systems could work the same way?
 
 Their 1978 book *Permaculture One* laid out the principles. Mollison's subsequent *Permaculture: A Designers' Manual* (1988) became the movement's bible — a dense, 576-page guide covering everything from [soil science](/soil-science) to [economics](/economics).
 
@@ -75,7 +75,7 @@ David Holmgren articulated 12 design principles that guide permaculture practice
 
 **Food forests** are perhaps the most iconic permaculture application. Instead of planting crops in rows (requiring constant maintenance), you design a multi-layered planting that mimics a natural forest: canopy trees (fruit and nut trees), understory trees (smaller fruit trees), shrub layer (berries), herbaceous layer (vegetables and herbs), ground cover, root crops, and vine crops. Once established, a food forest requires far less maintenance than a traditional garden while producing diverse food year-round.
 
-**Water management** follows the principle of slowing, spreading, and sinking water into the field. Swales (shallow trenches along contour lines) capture rainwater and allow it to infiltrate rather than run off. Rain gardens, ponds, and greywater [recycling](/recycling) systems keep water on-site and productive.
+**[Water management](/water-management)** follows the principle of slowing, spreading, and sinking water into the field. Swales (shallow trenches along contour lines) capture rainwater and allow it to infiltrate rather than run off. Rain gardens, ponds, and greywater [recycling](/recycling) systems keep water on-site and productive.
 
 **Integrated animal systems** use animals for specific functions. Chickens provide eggs, meat, and pest control while scratching and fertilizing soil. Ducks manage slugs in gardens. Goats clear brush. Each animal fills a niche in the designed ecosystem.
 
@@ -85,7 +85,7 @@ David Holmgren articulated 12 design principles that guide permaculture practice
 
 Permaculture has its critics, and some criticisms have merit.
 
-**Scientific rigor.** Permaculture draws from ecology, [agronomy](/agronomy), and systems thinking, but much of the practice is based on observation and traditional knowledge rather than controlled studies. The permaculture community has historically been better at sharing anecdotes than [publishing](/publishing) peer-reviewed research.
+**Scientific rigor.** Permaculture draws from [ecology](/ecology), [agronomy](/agronomy), and systems thinking, but much of the practice is based on observation and traditional knowledge rather than controlled studies. The permaculture community has historically been better at sharing anecdotes than [publishing](/publishing) peer-reviewed research.
 
 **Yield claims.** Some permaculture advocates make optimistic claims about [productivity](/productivity) that aren't always supported by data. A well-designed permaculture system can be highly productive, but it rarely matches conventional agriculture's per-acre yields for staple crops.
 

@@ -45,7 +45,7 @@ The term "shaman" comes from the Tungusic word *saman*, used by the Evenki peopl
 
 This origin creates an immediate tension. Using a single word to describe practitioners across radically different cultures — from Siberian reindeer herders to Amazonian ayahuasca healers to Korean *mudang* to Australian Aboriginal *ngangkari* — inevitably flattens important differences. Some [anthropologists](/anthropology) argue the term is too broad to be useful. Others maintain that the similarities across cultures are striking enough to justify a common label.
 
-The debate matters because language shapes understanding. When we call all these practitioners "shamans," we risk assuming they share more than they do. When we refuse to use a common term, we miss genuine cross-cultural patterns. The best approach is probably to use the word while staying aware of its limitations.
+The [debate](/debate) matters because language shapes understanding. When we call all these practitioners "shamans," we risk assuming they share more than they do. When we refuse to use a common term, we miss genuine cross-cultural patterns. The best approach is probably to use the word while staying aware of its limitations.
 
 ## Core Elements of Shamanic Practice
 
@@ -57,11 +57,11 @@ The defining feature of shamanism — the element that separates shamans from ot
 
 Different cultures achieve this state through different means:
 
-**Rhythmic drumming and chanting** is the most common technique globally. The monotonous, repetitive beat of a frame drum at approximately 4 to 4.5 beats per second — corresponding to the brain's theta wave frequency — reliably induces trance states. Studies using EEG monitoring have confirmed that sustained rhythmic drumming shifts brain activity toward theta waves, which are associated with deep [meditation](/meditation), hypnagogic states, and increased mental imagery.
+**Rhythmic [drumming](/drumming) and chanting** is the most common technique globally. The monotonous, repetitive beat of a frame drum at approximately 4 to 4.5 beats per second — corresponding to the brain's theta wave frequency — reliably induces trance states. Studies using EEG monitoring have confirmed that sustained rhythmic drumming shifts brain activity toward theta waves, which are associated with deep [meditation](/meditation), hypnagogic states, and increased mental imagery.
 
 **Psychoactive plants** are central to many traditions. Amazonian shamans use ayahuasca, a brew containing DMT (dimethyltryptamine). Mesoamerican traditions use psilocybin mushrooms, peyote cactus, and morning glory seeds. Siberian shamans historically used *Amanita muscaria* (fly agaric mushroom). African traditions use iboga root bark. Each substance produces distinct altered states, and the specific plant used shapes the character of the shamanic experience in that culture.
 
-**Physical techniques** include fasting, sleep deprivation, sweat lodges, sensory deprivation, hyperventilation, and prolonged dancing. These methods alter consciousness through physiological stress, shifting brain chemistry without any chemical substance. Vision quests in Plains Indian traditions, for example, typically involve several days of fasting and isolation in a remote location.
+**Physical techniques** include fasting, sleep deprivation, sweat lodges, sensory deprivation, hyperventilation, and prolonged dancing. These methods alter consciousness through physiological stress, shifting brain [chemistry](/chemistry) without any chemical substance. Vision quests in Plains Indian traditions, for example, typically involve several days of fasting and isolation in a remote location.
 
 **Meditation and visualization** techniques, particularly in Asian shamanic traditions, achieve altered states through mental discipline rather than external stimuli.
 
@@ -77,7 +77,7 @@ The **Middle World** is the spirit dimension of ordinary reality. Shamans travel
 
 The **Lower World** (not to be confused with "hell" in Abrahamic religions) is associated with earth energies, animal spirits, ancestors, and deep wisdom. It's reached by descending — through a hole in the ground, down through water, into a cave.
 
-This three-world model appears across Siberian, Native American, Central Asian, and many other traditions. The similarities are either evidence of very ancient common origins (possibly predating the migration of humans out of Africa) or evidence that human neurology produces consistent patterns during altered states. Probably both.
+This three-world model appears across Siberian, Native American, Central Asian, and many other traditions. The similarities are either evidence of very ancient common origins (possibly predating the migration of humans out of Africa) or evidence that human [neurology](/neurology) produces consistent patterns during altered states. Probably both.
 
 ### Spirit Helpers and Power Animals
 
@@ -177,7 +177,7 @@ Some indigenous leaders have explicitly asked non-indigenous people to stop usin
 
 ### Shamanism and Psychology
 
-There's been growing interest in the intersection of shamanic practice and modern psychology. Psychologist Stanley Krippner has studied shamanic healers for decades, documenting cases where shamanic treatment produced measurable health improvements. The soul retrieval concept maps onto trauma therapy's understanding of dissociation. Shamanic journeying resembles guided visualization techniques used in Jungian [psychology](/behavioral-psychology).
+There's been growing interest in the intersection of shamanic practice and modern [psychology](/psychology). Psychologist Stanley Krippner has studied shamanic healers for decades, documenting cases where shamanic treatment produced measurable health improvements. The soul retrieval concept maps onto trauma therapy's understanding of dissociation. Shamanic journeying resembles guided visualization techniques used in Jungian [psychology](/behavioral-psychology).
 
 The psychedelic therapy movement — using psilocybin, MDMA, and ketamine in clinical settings — shares DNA with shamanic plant medicine traditions. Clinical trials at Johns Hopkins, NYU, and Imperial College London have shown that psychedelic-assisted therapy can be remarkably effective for depression, PTSD, and addiction. These substances were used by shamans for the same purposes for thousands of years.
 
@@ -197,7 +197,7 @@ Modern science can confirm that shamanic techniques alter brain states. Drumming
 
 Science can also document outcomes. Shamanic healing produces real psychological benefits in some cases — reduced anxiety, improved sense of meaning, resolution of traumatic experiences. The placebo effect is part of this, but dismissing all shamanic healing as placebo ignores cases where the outcomes exceed what placebo alone would predict.
 
-What science cannot do — at least not with current methods — is confirm or deny the existence of spirits, the reality of the spirit world, or whether shamanic journeys contact genuine non-physical entities. These questions fall outside the scope of empirical investigation. They belong to philosophy, theology, and personal experience.
+What science cannot do — at least not with current methods — is confirm or deny the existence of spirits, the reality of the spirit world, or whether shamanic journeys contact genuine non-physical entities. These questions fall outside the scope of empirical investigation. They belong to [philosophy](/philosophy), [theology](/theology), and personal experience.
 
 The intellectually honest position is this: shamanic practices produce measurable psychological and physiological effects. Some of these effects are therapeutically valuable. The metaphysical claims underlying shamanic practice are unfalsifiable by current scientific methods. You can acknowledge the practical effects without committing to the metaphysical framework — or you can embrace the framework based on personal experience. Both positions are defensible.
 

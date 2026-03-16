@@ -61,7 +61,7 @@ Here's something that might surprise you: in the United States, only about 20% o
 
 ### Legal Medicine and [Medical Ethics](/medical-ethics)
 
-The other branch is less dramatic but arguably more impactful on everyday life. It deals with the legal regulation of medical practice, patients' rights, medical ethics, and physician liability.
+The other branch is less dramatic but arguably more impactful on everyday life. It deals with the legal regulation of medical practice, patients' rights, medical [ethics](/ethics), and physician liability.
 
 This side of medical jurisprudence addresses questions like: When can a patient refuse treatment? Who decides for an incapacitated patient? What constitutes informed consent? When must a doctor breach confidentiality? What are the legal obligations of a physician who discovers child abuse?
 
@@ -84,7 +84,7 @@ Here's the thing most people don't realize: the majority of malpractice claims d
 
 ## Informed Consent: More Than a Signature
 
-Informed consent is one of the most important concepts in medical jurisprudence, and it's widely misunderstood. It's not just signing a form before surgery. It's a process — an ongoing conversation between doctor and patient.
+Informed consent is one of the most important concepts in medical jurisprudence, and it's widely misunderstood. It's not just signing a form before [surgery](/surgery). It's a process — an ongoing conversation between doctor and patient.
 
 For consent to be legally valid, a physician must disclose:
 
@@ -116,7 +116,7 @@ Forensic psychiatry sits at one of the most contentious intersections of medicin
 
 The insanity defense gets enormous media attention but is rarely used — it's raised in fewer than 1% of felony cases and succeeds roughly 25% of the time it's raised. The legal standard varies by jurisdiction, but most require proving that the defendant, due to severe mental disease, could not understand the nature of their actions or could not distinguish right from wrong.
 
-Competency evaluations are far more common. A court can order a psychiatric evaluation at any point in legal proceedings if there's reason to question a defendant's mental fitness. If found incompetent, the defendant is typically committed for treatment until competency is restored — which, in some cases, never happens.
+Competency evaluations are far more common. A court can order a psychiatric evaluation at any point in legal proceedings if there's reason to question a defendant's mental [fitness](/fitness). If found incompetent, the defendant is typically committed for treatment until competency is restored — which, in some cases, never happens.
 
 ## Medical Ethics as Legal Standards
 

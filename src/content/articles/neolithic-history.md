@@ -31,7 +31,7 @@ faq:
 
 # What Is Neolithic History?
 
-The Neolithic period — literally "New Stone Age" — is the era when humans stopped wandering and started [farming](/farming). It's when our species made the single biggest lifestyle change in its entire existence: the shift from [hunting](/hunting) and gathering to [agriculture](/agriculture). That transition, which began roughly 12,000 years ago, set off a chain reaction that led to permanent villages, cities, writing, social hierarchies, and basically everything we recognize as civilization.
+The Neolithic period — literally "New Stone Age" — is the era when humans stopped wandering and started [farming](/farming). It's when our species made the single biggest lifestyle change in its entire existence: the shift from [hunting](/hunting) and gathering to [agriculture](/agriculture). That transition, which began roughly 12,000 years ago, set off a chain reaction that led to permanent villages, cities, [writing](/writing), social hierarchies, and basically everything we recognize as civilization.
 
 ## The Before Picture
 
@@ -45,9 +45,9 @@ So why change?
 
 Nobody woke up one morning and decided to invent farming. The transition took thousands of years and probably started accidentally. In the Fertile Crescent — the arc of relatively lush land stretching from modern Iraq through Syria and Turkey — people were already managing wild plant stands and tracking seasonal animal movements.
 
-Around 9,500 BCE, communities in this region began deliberately planting wheat, barley, lentils, and peas. They also started keeping goats, sheep, pigs, and eventually cattle. Similar transitions happened independently in at least seven other regions: rice in China's Yangtze River valley around 8,000 BCE, maize in Mexico around 7,000 BCE, squash in eastern North America, sorghum and millet in sub-Saharan Africa, and potatoes in the Andes.
+Around 9,500 BCE, communities in this region began deliberately planting wheat, barley, lentils, and peas. They also started keeping goats, sheep, pigs, and eventually cattle. Similar transitions happened independently in at least seven other regions: rice in China's Yangtze River valley around 8,000 BCE, maize in Mexico around 7,000 BCE, [squash](/squash) in eastern North America, sorghum and millet in sub-Saharan Africa, and potatoes in the Andes.
 
-The key word is "independently." Farming wasn't invented once and spread outward. Multiple human populations, facing similar pressures, arrived at the same solution separately. Climate change likely played a role — the end of the last Ice Age around 11,700 years ago made previously harsh regions more hospitable to agriculture.
+The key word is "independently." Farming wasn't invented once and spread outward. Multiple human populations, facing similar pressures, arrived at the same solution separately. [Climate change](/climate-change) likely played a role — the end of the last Ice Age around 11,700 years ago made previously harsh regions more hospitable to agriculture.
 
 ## What Changed When People Settled Down
 
@@ -89,6 +89,6 @@ So why did farming win? Because it supported more people per square mile, even i
 
 Nearly everything about modern life traces back to Neolithic innovations. Agriculture. Permanent housing. Animal husbandry. Pottery. Woven clothing. Property ownership. Social hierarchy. Organized religion. Warfare.
 
-Whether the Neolithic Revolution was progress or a wrong turn is a question that still sparks debate. Jared Diamond called agriculture "the worst mistake in the history of the human race," arguing that it traded a relatively egalitarian, healthy lifestyle for disease, inequality, and backbreaking labor. Others point out that without farming, we'd never have built cities, written books, or developed medicine.
+Whether the Neolithic Revolution was progress or a wrong turn is a question that still sparks [debate](/debate). Jared Diamond called agriculture "the worst mistake in the history of the human race," arguing that it traded a relatively egalitarian, healthy lifestyle for disease, inequality, and backbreaking labor. Others point out that without farming, we'd never have built cities, written books, or developed medicine.
 
 Either way, the Neolithic period was the hinge. Everything before it was one kind of human existence. Everything after it — including right now — is a consequence of those first farmers deciding to stay put and plant seeds.

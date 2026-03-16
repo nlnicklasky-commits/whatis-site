@@ -37,7 +37,7 @@ faq:
 
 # What Is Classical Mechanics?
 
-Classical mechanics is the branch of physics that describes the motion of objects under the influence of forces, using principles formulated primarily by Isaac Newton in the 17th century. It accurately predicts how everything from falling apples to orbiting planets behaves, provided objects are much larger than atoms and moving well below the speed of light. Despite being over 300 years old, classical mechanics remains the foundation for most [engineering](/engineering) disciplines and is the physics you experience directly every moment of your life.
+Classical mechanics is the branch of [physics](/physics) that describes the motion of objects under the influence of forces, using principles formulated primarily by Isaac Newton in the 17th century. It accurately predicts how everything from falling apples to orbiting planets behaves, provided objects are much larger than atoms and moving well below the speed of light. Despite being over 300 years old, classical mechanics remains the foundation for most [engineering](/engineering) disciplines and is the physics you experience directly every moment of your life.
 
 ## Newton's Three Laws: The Whole Framework
 
@@ -49,17 +49,17 @@ An object at rest stays at rest, and an object in motion stays in motion at cons
 
 This sounds obvious until you think about it carefully. Before Newton (and Galileo before him), people assumed that objects naturally slow down and stop—that rest is the natural state of things. After all, that's what you observe: push a book across a table and it stops. Roll a ball across grass and it stops.
 
-But Newton (building on Galileo's insight) realized these objects stop because forces—friction, air resistance—act on them. Remove those forces, and motion continues forever. The Voyager 1 spacecraft, launched in 1977, is still moving through interstellar space at 61,000 km/h with no engine running. No friction in space means no force to slow it down.
+But Newton (building on Galileo's insight) realized these objects stop because forces—friction, air resistance—act on them. Remove those forces, and motion continues forever. The Voyager 1 spacecraft, launched in 1977, is still moving through interstellar space at 61,000 km/h with no engine [running](/running). No friction in space means no force to slow it down.
 
 Inertia is why seatbelts exist. When your car stops suddenly, your body wants to keep moving at the original speed. The seatbelt provides the force needed to decelerate you along with the car. Without it, your body continues forward—into the dashboard, the windshield, or worse.
 
 ### The Second Law: F = ma
 
-The net force acting on an object equals its mass multiplied by its acceleration. This is the most important equation in classical mechanics, and possibly the most used equation in all of engineering.
+The net force [acting](/acting) on an object equals its mass multiplied by its acceleration. This is the most important equation in classical mechanics, and possibly the most used equation in all of engineering.
 
 It tells you three things at once. Apply a force to an object, and it accelerates. Heavier objects accelerate less for the same force. Double the force, double the acceleration. Want to know how fast a rocket accelerates? Calculate the thrust force, divide by the total mass, and you have your answer.
 
-Every structural engineer, mechanical engineer, and [aerospace engineering](/aerospace-engineering) professional uses F = ma (or its rotational equivalent) constantly. When you design a bridge, you calculate the forces on every member and verify that materials can handle the resulting stresses. When you design a car's suspension, you analyze how forces from the road surface transmit through springs and dampers to the chassis.
+Every structural engineer, mechanical engineer, and [aerospace engineering](/aerospace-engineering) professional uses F = ma (or its rotational equivalent) constantly. When you design a bridge, you calculate the forces on every member and verify that materials can handle the resulting stresses. When you design a car's suspension, you analyze how forces from the road surface transmit through [springs](/springs) and dampers to the chassis.
 
 The second law also works in reverse—measure the acceleration and you can calculate the force. Accelerometers in your phone measure the acceleration due to gravity to determine which way is down, enabling screen rotation. The same principle lets seismometers detect earthquake forces and lets crash test engineers measure impact forces on dummy passengers.
 
@@ -157,9 +157,9 @@ Classical mechanics works extraordinarily well for everyday objects. But it fail
 
 ### Very Small Things (Quantum Mechanics)
 
-At atomic and subatomic scales, particles don't behave like tiny billiard balls. They exhibit wave-particle duality, quantum tunneling, and uncertainty—phenomena that classical mechanics cannot describe. You can't predict exactly where an electron will be; you can only calculate probabilities. This fundamentally different behavior is described by quantum mechanics.
+At atomic and subatomic scales, particles don't behave like tiny billiard balls. They exhibit wave-particle duality, quantum [tunneling](/tunneling), and uncertainty—phenomena that classical mechanics cannot describe. You can't predict exactly where an electron will be; you can only calculate probabilities. This fundamentally different behavior is described by quantum mechanics.
 
-The transition happens roughly at molecular scales. A baseball follows Newton's laws perfectly. A molecule mostly does too. But an individual electron or photon? Classical mechanics gives wrong answers.
+The transition happens roughly at molecular scales. A [baseball](/baseball) follows Newton's laws perfectly. A molecule mostly does too. But an individual electron or photon? Classical mechanics gives wrong answers.
 
 ### Very Fast Things (Special [Relativity](/relativity))
 
@@ -177,7 +177,7 @@ Engineers don't use quantum mechanics to design bridges. They don't use [general
 
 You might wonder why anyone bothers studying a 300-year-old theory when more "advanced" physics exists. The answer is straightforward: classical mechanics describes your world.
 
-Every physical action you take—walking, driving, throwing, lifting—follows classical mechanics. Every machine, every building, every vehicle, every sports play involves classical mechanics. The entire field of [civil engineering](/civil-engineering) rests on it. [Aerospace engineering](/aerospace-engineering) uses it to put satellites in orbit. [Mechanical engineering](/mechanical-engineering) uses it to design engines and transmissions. Robotics uses it to control manipulators and walking machines.
+Every physical action you take—[walking](/walking), driving, throwing, lifting—follows classical mechanics. Every machine, every building, every vehicle, every sports play involves classical mechanics. The entire field of [civil engineering](/civil-engineering) rests on it. [Aerospace engineering](/aerospace-engineering) uses it to put satellites in orbit. [Mechanical engineering](/mechanical-engineering) uses it to design engines and transmissions. [Robotics](/robotics) uses it to control manipulators and walking machines.
 
 Classical mechanics is also where physics becomes intuitive. You can develop physical intuition for Newtonian mechanics because you experience it constantly. A ball thrown at 45 degrees travels the farthest—you can verify this at any park. Heavier objects need more force to accelerate—you know this from pushing shopping carts. Action and reaction are equal—you feel the recoil every time you push something.
 

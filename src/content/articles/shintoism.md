@@ -85,7 +85,7 @@ Impurity in Shinto isn't moral failing. It's more like spiritual contamination �
 
 This is why purification rituals are everywhere in Shinto:
 
-**Temizu** — the hand-washing and mouth-rinsing at the *temizuya* (water basin) before entering a shrine. This is the first thing visitors do, and it's not symbolic hygiene — it's ritual purification, cleansing impurity before approaching the kami.
+**Temizu** — the hand-washing and mouth-rinsing at the *temizuya* (water basin) before entering a shrine. This is the first thing visitors do, and it's not symbolic [hygiene](/hygiene) — it's ritual purification, cleansing impurity before approaching the kami.
 
 **Harae** — formal purification ceremonies performed by priests. The priest waves a *haraigushi* (a wooden wand with paper streamers) over people or objects to remove impurity. Major harae ceremonies happen twice a year — at the end of June and December — purifying the entire community.
 
@@ -145,7 +145,7 @@ Matsuri are religious events, community celebrations, and economic drivers simul
 
 When Buddhism arrived in Japan in the 6th century CE, it didn't replace Shinto. Instead, the two traditions merged into a syncretic system called *shinbutsu-shugo* ("fusion of kami and Buddhas") that lasted over a millennium.
 
-The logic went like this: kami and Buddhas are not competing entities. Kami are local manifestations of universal Buddhist principles, or alternatively, Buddhas are particularly powerful kami. Either way, there's no conflict. A single religious complex could (and commonly did) contain both shrine and temple buildings.
+The [logic](/logic) went like this: kami and Buddhas are not competing entities. Kami are local manifestations of universal Buddhist principles, or alternatively, Buddhas are particularly powerful kami. Either way, there's no conflict. A single religious complex could (and commonly did) contain both shrine and temple buildings.
 
 This coexistence meant that most Japanese people practiced both traditions simultaneously without seeing any contradiction. Shinto handled life celebrations — births, coming-of-age ceremonies, weddings, seasonal festivals. [Buddhism](/buddhism) handled death — funerals, memorial services, and questions about the afterlife. The common saying captures it: "Born Shinto, die Buddhist."
 
@@ -167,9 +167,9 @@ Yasukuni Shrine remains controversial today. It enshrines 14 Class-A war crimina
 
 Shinto has no commandments, no moral code comparable to the Ten Commandments or the Buddhist Precepts. Its ethical framework is implicit rather than explicit, arising from its core concepts.
 
-**Sincerity (makoto)** — honesty, genuineness, and wholeness of heart. Acting with makoto means your inner intentions and outer actions are aligned. The emphasis is less on following rules and more on cultivating an authentic character.
+**Sincerity (makoto)** — honesty, genuineness, and wholeness of heart. [Acting](/acting) with makoto means your inner intentions and outer actions are aligned. The emphasis is less on following rules and more on cultivating an authentic character.
 
-**Harmony (wa)** — maintaining peaceful, balanced relationships within the community and with nature. Conflict and disruption are forms of impurity. This value connects to the broader Japanese cultural emphasis on social harmony, though some critics note it can also suppress dissent and individuality.
+**[Harmony](/harmony) (wa)** — maintaining peaceful, balanced relationships within the community and with nature. Conflict and disruption are forms of impurity. This value connects to the broader Japanese cultural emphasis on social harmony, though some critics note it can also suppress dissent and individuality.
 
 **Gratitude (kansha)** — appreciation for blessings received, from daily rice to good health to the beauty of cherry blossoms. Shinto rituals frequently express gratitude to kami for harvests, for rain, for the changing seasons.
 
@@ -181,7 +181,7 @@ Shinto has no commandments, no moral code comparable to the Ten Commandments or 
 
 Modern Japan presents a paradox for understanding Shinto. On one hand, shrine visiting is immensely popular. Meiji Shrine in Tokyo receives over 3 million visitors during the first three days of the New Year. Couples hold Shinto weddings. Families bring newborns to shrines for *miyamairi* (the first shrine visit). Students buy academic success charms before exams.
 
-On the other hand, very few Japanese people describe themselves as "religious," and many who visit shrines would say they don't "believe in" kami in the way that a Christian believes in God. The Japanese relationship with Shinto is more cultural and practical than doctrinal — you visit a shrine because it's what you do, not necessarily because you've thought deeply about theology.
+On the other hand, very few Japanese people describe themselves as "religious," and many who visit shrines would say they don't "believe in" kami in the way that a Christian believes in God. The Japanese relationship with Shinto is more cultural and practical than doctrinal — you visit a shrine because it's what you do, not necessarily because you've thought deeply about [theology](/theology).
 
 This puzzles Western observers who assume religion requires belief. But Shinto has never been primarily about belief. It's about practice, relationship, and participation. You bow at the shrine, wash your hands, clap, and make a prayer — and whether you "believe" or not is beside the point. The action itself is the practice. The participation itself is the connection.
 

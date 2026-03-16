@@ -99,8 +99,8 @@ Most people who train in a bodybuilding style never compete. They train for [hea
 
 ## The Culture
 
-Bodybuilding has its own subculture — gym slang ("gains," "cutting," "bulking"), aesthetic ideals, social media communities, and supplementation rituals. The industry generates enormous revenue through supplements, coaching, content, and apparel.
+Bodybuilding has its own subculture — gym slang ("gains," "cutting," "bulking"), aesthetic ideals, social media communities, and supplementation rituals. The industry generates enormous revenue through supplements, [coaching](/coaching), content, and apparel.
 
-Social media has both democratized and distorted bodybuilding. Instagram and TikTok fitness influencers provide training [education](/education) (sometimes good, often questionable) while also promoting unrealistic physique standards. The bodies displayed on social media often reflect genetics, drugs, lighting, angles, and photo editing in combinations that beginners may not recognize.
+Social media has both democratized and distorted bodybuilding. Instagram and TikTok fitness influencers provide training [education](/education) (sometimes good, often questionable) while also promoting unrealistic physique standards. The bodies displayed on social media often reflect [genetics](/genetics), drugs, lighting, angles, and photo [editing](/editing) in combinations that beginners may not recognize.
 
 The healthiest approach? Train consistently, eat well, sleep enough, and judge your progress against your own starting point rather than against someone else's heavily curated highlight reel. The gym mirror is the only comparison that matters.

@@ -43,9 +43,9 @@ Entrepreneurship is the process of designing, launching, and operating a new bus
 
 People often use "entrepreneurship" as a fancy synonym for "starting a business." That undersells it considerably.
 
-Opening a franchise McDonald's is starting a business. It involves investment, management skill, and hard work. But the model, brand, supply chain, menu, and training program already exist. You're executing someone else's playbook.
+Opening a franchise McDonald's is starting a business. It involves investment, [management](/management) skill, and hard work. But the model, brand, supply chain, menu, and training program already exist. You're executing someone else's playbook.
 
-Entrepreneurship is writing the playbook. It's identifying a problem no one else has solved — or solving an existing problem in a fundamentally better way — and building an organization around that solution. The risk is higher because you're operating without a proven template. The potential reward is higher for the same reason.
+Entrepreneurship is [writing](/writing) the playbook. It's identifying a problem no one else has solved — or solving an existing problem in a fundamentally better way — and building an organization around that solution. The risk is higher because you're operating without a proven template. The potential reward is higher for the same reason.
 
 This distinction matters because it shapes everything: how you raise money, how you hire, how you think about competition, and how you measure success. A franchise owner measures success against established benchmarks. An entrepreneur is often creating the benchmarks.
 
@@ -53,11 +53,11 @@ This distinction matters because it shapes everything: how you raise money, how 
 
 The word "entrepreneur" comes from the French *entreprendre*, meaning "to undertake." The Irish-French economist Richard Cantillon first used it in a business context around 1730, describing someone who buys goods at known prices to sell at unknown prices — essentially, someone who bears risk.
 
-But entrepreneurship as a practice is ancient. Mesopotamian merchants who organized trade caravans along the Silk Road were entrepreneurs. Renaissance-era Venetian merchants who financed risky maritime expeditions were entrepreneurs. The East India Company's founders in 1600 were entrepreneurs — albeit ones whose methods would raise serious ethical red flags today.
+But entrepreneurship as a practice is ancient. Mesopotamian merchants who organized [trade](/trade) caravans along [the Silk Road](/silk-road) were entrepreneurs. Renaissance-era Venetian merchants who financed risky maritime expeditions were entrepreneurs. The East India Company's founders in 1600 were entrepreneurs — albeit ones whose methods would raise serious ethical red flags today.
 
 The modern concept solidified during the Industrial Revolution. Figures like Andrew Carnegie (steel), John D. Rockefeller (oil), and Henry Ford (automobiles) didn't just start businesses — they created entirely new industries. They identified that mass production, vertical integration, and standardization could transform how goods were made and delivered.
 
-The 20th century added the technology entrepreneur to the archetype. From Silicon Valley garage startups in the 1970s to the dot-com boom of the late 1990s to today's AI and fintech startups, technology has been the dominant arena for entrepreneurial activity. But entrepreneurship thrives in every sector — food, healthcare, education, energy, entertainment, [agriculture](/agriculture), manufacturing.
+The 20th century added the technology entrepreneur to the archetype. From Silicon Valley garage startups in the 1970s to the dot-com boom of the late 1990s to today's AI and fintech startups, technology has been the dominant arena for entrepreneurial activity. But entrepreneurship thrives in every sector — food, healthcare, [education](/education), energy, entertainment, [agriculture](/agriculture), manufacturing.
 
 ## The Entrepreneurial Mindset
 
@@ -73,7 +73,7 @@ Research from the Kauffman Foundation suggests that successful entrepreneurs are
 
 Entrepreneurs tend to see opportunities where others see problems. Traffic congestion isn't just an annoyance — it's Uber. Empty spare rooms aren't wasted space — they're Airbnb. Difficulty finding reliable contractors isn't just frustrating — it's Angi (formerly Angie's List).
 
-This pattern recognition isn't mystical. It usually comes from deep domain knowledge. The best entrepreneurs spend years in an industry before starting their ventures. They understand customer pain points intimately because they've experienced them personally.
+This [pattern recognition](/pattern-recognition) isn't mystical. It usually comes from deep domain knowledge. The best entrepreneurs spend years in an industry before starting their ventures. They understand customer pain points intimately because they've experienced them personally.
 
 ### Bias Toward Action
 
@@ -87,11 +87,11 @@ Not all entrepreneurship looks the same. The solo freelancer and the venture-bac
 
 ### Small Business Entrepreneurship
 
-This is the most common type. Local restaurants, plumbing companies, retail shops, independent consultants. These businesses serve local markets, are usually self-funded or financed through bank loans, and aim for stable profitability rather than explosive growth. About 99.9% of U.S. businesses are small businesses, employing roughly 47% of the private workforce.
+This is the most common type. Local restaurants, [plumbing](/plumbing) companies, retail shops, independent consultants. These businesses serve local markets, are usually self-funded or financed through bank loans, and aim for stable profitability rather than explosive growth. About 99.9% of U.S. businesses are small businesses, employing roughly 47% of the private workforce.
 
 ### Scalable Startup Entrepreneurship
 
-This is the Silicon Valley model. The entrepreneur identifies a large market opportunity, builds a product that can grow rapidly with relatively low marginal costs, and seeks venture capital to fuel that growth. The goal is typically either an initial public offering (IPO) or acquisition by a larger company.
+This is the Silicon Valley model. The entrepreneur identifies a large market opportunity, builds a product that can grow rapidly with relatively low marginal costs, and seeks [venture capital](/venture-capital) to fuel that growth. The goal is typically either an initial public offering (IPO) or acquisition by a larger company.
 
 Only a tiny fraction of startups achieve this. But the ones that do — Google, Amazon, Tesla, Stripe — can become world-changing companies within a decade or two. The math behind venture capital reflects this: investors expect most of their portfolio companies to fail, but the few successes generate returns large enough to cover all the losses.
 
@@ -109,7 +109,7 @@ Let's walk through what actually happens when someone starts a venture. Fair war
 
 ### Finding the Idea
 
-The best startup ideas usually come from personal frustration. You encounter a problem repeatedly, realize existing solutions are terrible, and think "I could build something better." Stewart Butterfield built Slack because his gaming company needed better internal communication and nothing on the market worked well enough.
+The best startup ideas usually come from personal frustration. You encounter a problem repeatedly, realize existing solutions are terrible, and think "I could build something better." Stewart Butterfield built Slack because his [gaming](/gaming) company needed better internal communication and nothing on the market worked well enough.
 
 Not all ideas are good, of course. The critical question isn't "Is this a cool idea?" but "Is this a problem people will pay to solve?" Many failed startups built elegant solutions to problems nobody actually had.
 
@@ -117,9 +117,9 @@ Not all ideas are good, of course. The critical question isn't "Is this a cool i
 
 ### Validating the Concept
 
-Before investing serious money, smart entrepreneurs test their assumptions. This might mean building a simple prototype, running ads for a product that doesn't exist yet to gauge interest, or conducting dozens of customer interviews.
+Before investing serious money, smart entrepreneurs test their assumptions. This might mean building a simple prototype, [running](/running) ads for a product that doesn't exist yet to gauge interest, or conducting dozens of customer interviews.
 
-The goal is to find "product-market fit" — the point where your product clearly satisfies a genuine market demand. Without it, no amount of marketing or funding will save you. With it, growth becomes dramatically easier.
+The goal is to find "product-market fit" — the point where your product clearly satisfies a genuine market demand. Without it, no amount of [marketing](/marketing) or funding will save you. With it, growth becomes dramatically easier.
 
 ### Building the Team
 
@@ -137,7 +137,7 @@ Money. The part everyone wants to talk about.
 
 **Venture capital** firms invest larger amounts — from a few hundred thousand to hundreds of millions — in exchange for equity. They're looking for companies that can grow 10x or 100x and provide returns large enough to make their fund profitable. VC funding comes with strings: board seats, reporting requirements, and pressure to grow fast.
 
-**Bank loans and SBA loans** are traditional financing options, especially for businesses with physical assets or steady revenue. The SBA 7(a) loan program is the most common, offering loans up to $5 million with government guarantees that reduce lender risk.
+**Bank loans and SBA loans** are traditional financing options, especially for businesses with physical assets or steady revenue. The SBA 7(a) loan program is the most common, offering loans up to $5 million with [government](/government) guarantees that reduce lender risk.
 
 **Crowdfunding** platforms like Kickstarter and Indiegogo let entrepreneurs raise money from the public, often in exchange for early access to products. This works well for consumer products with visual appeal.
 
@@ -147,7 +147,7 @@ Understanding [corporate finance](/corporate-finance) and [budgeting](/budgeting
 
 Once you have a product and customers, the challenge shifts to scaling. This is where many startups struggle. What worked when you had 100 customers might break catastrophically at 10,000.
 
-Systems need to be built. Processes need to be documented. The founder who personally handled customer support must hire and train a team. The software that ran fine on a single server needs proper architecture. Marketing that relied on the founder's personal network needs to be systematized.
+Systems need to be built. Processes need to be documented. The founder who personally handled customer support must hire and train a team. The software that ran fine on a single server needs proper [architecture](/architecture). Marketing that relied on the founder's personal network needs to be systematized.
 
 This phase often requires entrepreneurs to fundamentally change how they work. The skills that make someone a great founder — doing everything yourself, making fast decisions without consensus, pivoting constantly — can become liabilities in a growing organization that needs consistency, delegation, and structure.
 
@@ -191,7 +191,7 @@ Notice that most of these failures aren't about bad luck or external circumstanc
 
 The startup world often celebrates risk-taking and hustle without acknowledging the costs.
 
-**Mental health:** Entrepreneurs experience depression and anxiety at significantly higher rates than the general population. A 2015 study by UC Berkeley found that 72% of entrepreneurs self-reported mental health concerns, compared to 48% of non-entrepreneurs. The combination of financial stress, isolation, uncertainty, and responsibility takes a real toll.
+**[Mental health](/mental-health):** Entrepreneurs experience depression and anxiety at significantly higher rates than the general population. A 2015 study by UC Berkeley found that 72% of entrepreneurs self-reported mental health concerns, compared to 48% of non-entrepreneurs. The combination of financial stress, isolation, uncertainty, and responsibility takes a real toll.
 
 **Financial risk:** About 70% of entrepreneurs in a Gallup survey reported investing personal savings. Many take on personal debt. When a startup fails, the financial consequences can be devastating — destroyed savings, damaged credit, personal bankruptcy.
 
@@ -237,7 +237,7 @@ Several trends are reshaping entrepreneurship.
 
 **AI as co-founder:** [Artificial intelligence](/artificial-intelligence) tools are automating tasks that previously required employees — customer support, content creation, data analysis, even basic software development. This lets smaller teams accomplish more and reduces the capital required to start a company.
 
-**Climate-tech entrepreneurship:** As the economic consequences of climate change become more visible, opportunities in clean energy, carbon capture, [sustainable agriculture](/sustainable-agriculture), and climate adaptation are attracting significant entrepreneurial and investment activity.
+**Climate-tech entrepreneurship:** As the economic consequences of [climate change](/climate-change) become more visible, opportunities in clean energy, carbon capture, [sustainable agriculture](/sustainable-agriculture), and climate adaptation are attracting significant entrepreneurial and investment activity.
 
 **Creator economy:** Individual creators — YouTubers, newsletter writers, podcast hosts, online educators — are increasingly building genuine businesses around their audiences. The line between "creator" and "entrepreneur" is blurring.
 

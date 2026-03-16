@@ -35,7 +35,7 @@ faq:
 
 # What Is Carbohydrate Chemistry?
 
-Carbohydrate chemistry is the branch of [organic chemistry](/organic-chemistry) and [biochemistry](/biochemistry) that studies the structure, properties, synthesis, and reactions of carbohydrates — a class of molecules composed of carbon, hydrogen, and oxygen that includes sugars, starches, cellulose, and glycans. These molecules are the most abundant organic compounds on Earth and serve as the primary energy source for most living organisms.
+Carbohydrate [chemistry](/chemistry) is the branch of [organic chemistry](/organic-chemistry) and [biochemistry](/biochemistry) that studies the structure, properties, synthesis, and reactions of carbohydrates — a class of molecules composed of carbon, hydrogen, and oxygen that includes sugars, starches, cellulose, and glycans. These molecules are the most abundant organic compounds on Earth and serve as the primary energy source for most living organisms.
 
 ## Why Carbohydrates Matter More Than You Think
 
@@ -43,7 +43,7 @@ When most people hear "carbohydrates," they think about bread, pasta, and dietin
 
 Cellulose — the structural carbohydrate in plant cell walls — is the most abundant organic polymer on Earth. Cotton is nearly pure cellulose. Paper is cellulose. Wood is roughly 40-50% cellulose. The T-shirt you might be wearing right now? Carbohydrate chemistry.
 
-Beyond materials, carbohydrates are the fuel that powers most of biology. Glucose is the primary energy currency of cells. Your brain alone consumes about 120 grams of glucose daily — roughly 60% of the body's total glucose usage at rest. Without carbohydrate chemistry, there's no understanding of metabolism, nutrition, or most of biology.
+Beyond materials, carbohydrates are the fuel that powers most of [biology](/biology). Glucose is the primary energy currency of cells. Your brain alone consumes about 120 grams of glucose daily — roughly 60% of the body's total glucose usage at rest. Without carbohydrate chemistry, there's no understanding of metabolism, [nutrition](/nutrition), or most of biology.
 
 And then there's the stuff that's harder to see. The surfaces of your cells are coated with complex carbohydrate structures called glycans. These glycans determine your blood type, help your immune system distinguish self from invader, and play roles in cell signaling that scientists are still unraveling. The field of glycobiology — studying these cell-surface carbohydrates — is one of the most active frontiers in biochemistry.
 
@@ -85,7 +85,7 @@ When two monosaccharides bond together through a glycosidic linkage (releasing a
 
 **Lactose** (milk sugar) = glucose + galactose. About 65% of the global population loses the ability to digest lactose after childhood — a condition called lactose intolerance. The enzyme lactase, which breaks the glycosidic bond in lactose, gets downregulated after weaning in most mammals. The ability to digest lactose as an adult is actually the mutation, not intolerance.
 
-**Maltose** (malt sugar) = glucose + glucose (alpha-1,4 linkage). Produced during the breakdown of starch by enzymes. Critical in brewing and [sourdough](/sourdough) baking, where enzymes in grain convert starch to maltose, which yeast then ferments.
+**Maltose** (malt sugar) = glucose + glucose (alpha-1,4 linkage). Produced during the breakdown of starch by enzymes. Critical in brewing and [sourdough](/sourdough) [baking](/baking), where enzymes in grain convert starch to maltose, which yeast then ferments.
 
 The specific glycosidic linkage — which carbons connect and whether the bond is alpha or beta — determines a disaccharide's properties completely. Cellobiose has the same components as maltose (two glucoses), but with a beta-1,4 linkage instead of alpha. That single difference makes cellobiose indigestible to humans.
 
@@ -193,7 +193,7 @@ Cancer cells often display abnormal glycan patterns. Detecting these changes cou
 
 ### Artificial Photosynthesis
 
-Mimicking how plants convert CO₂ and water into glucose using sunlight is one of the grand challenges in chemistry. If we could do this artificially, we could produce fuel and materials from atmospheric CO₂ — essentially running photosynthesis without plants. Progress is being made, but efficiency remains far below natural photosynthesis.
+Mimicking how plants convert CO₂ and water into glucose using sunlight is one of the grand challenges in chemistry. If we could do this artificially, we could produce fuel and materials from atmospheric CO₂ — essentially [running](/running) photosynthesis without plants. Progress is being made, but efficiency remains far below natural photosynthesis.
 
 ### Prebiotic Chemistry
 

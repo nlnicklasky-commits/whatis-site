@@ -31,7 +31,7 @@ faq:
 
 # What Is Television Writing?
 
-Television writing is the craft of creating scripts for TV shows — the dialogue, scene descriptions, and story structures that actors, directors, and crew translate into what you watch on screen. It's writing, but with constraints and opportunities that make it distinctly different from novels, films, or plays.
+Television [writing](/writing) is the craft of creating scripts for TV shows — the dialogue, scene descriptions, and story structures that actors, directors, and crew translate into what you watch on screen. It's writing, but with constraints and opportunities that make it distinctly different from novels, films, or plays.
 
 The biggest difference? Television writing is a team sport. While a novelist works alone and a screenwriter often works solo, TV writers work in groups — brainstorming, debating, pitching ideas, and building episodes together in what's called a writers' room. The final product is collaborative in a way that few other writing forms are.
 

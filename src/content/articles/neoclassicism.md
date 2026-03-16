@@ -39,7 +39,7 @@ Three forces converged to create Neoclassicism.
 
 First, [archaeology](/archaeology). The buried cities of Herculaneum (rediscovered in 1738) and Pompeii (1748) gave Europeans their first direct look at ancient Roman daily life — intact frescoes, mosaics, furniture, and [architecture](/architecture) preserved under volcanic ash. People were electrified. Suddenly, ancient Rome wasn't just something you read about in Latin texts. You could see it, touch it, walk through its streets.
 
-Second, the Enlightenment. Thinkers like Voltaire, Diderot, and Rousseau championed reason, logic, and civic virtue. They admired ancient Athens and the Roman Republic as models of rational governance. Classical art — orderly, restrained, morally serious — seemed like the visual expression of Enlightenment values.
+Second, the Enlightenment. Thinkers like Voltaire, Diderot, and Rousseau championed reason, [logic](/logic), and civic virtue. They admired ancient Athens and the Roman Republic as models of rational governance. Classical art — orderly, restrained, morally serious — seemed like the visual expression of Enlightenment values.
 
 Third, a backlash against Rococo. By the mid-18th century, the dominant style in European courts was Rococo — light, decorative, playful, and frankly a bit frivolous. Gilded furniture, pastel colors, cherubs everywhere. Critics saw it as decadent and shallow. Neoclassicism offered the opposite: gravity, simplicity, and moral purpose.
 
@@ -65,7 +65,7 @@ The movement was flexible enough to serve both republics and empires — anyone 
 
 ## Key Figures
 
-**Jacques-Louis David** (1748-1825) was the dominant neoclassical painter. His works — *Death of Marat*, *The Sabine Women*, *Coronation of Napoleon* — are textbook examples of the style's drama, moral seriousness, and technical precision.
+**Jacques-Louis David** (1748-1825) was the dominant neoclassical painter. His works — *Death of Marat*, *The Sabine Women*, *Coronation of Napoleon* — are textbook examples of the style's [drama](/drama), moral seriousness, and technical precision.
 
 **Antonio Canova** (1757-1822) was the leading sculptor. His marble figures achieved a luminous smoothness that made them look almost alive. *Perseus with the Head of Medusa* and *The Three Graces* remain among the most admired sculptures in European art.
 

@@ -52,7 +52,7 @@ The history of telecommunication is, in some ways, the history of human civiliza
 
 **Radio** (1890s-1900s) freed telecommunication from wires entirely. Guglielmo Marconi's experiments with wireless telegraphy led to [radio broadcasting](/radio-broadcasting), which could reach anyone with a receiver. Radio became the first mass medium, transforming news, entertainment, and [communication](/communication-theory) on a scale nobody had anticipated.
 
-**Television** (1920s-1930s) added moving images to the audio of radio. By the 1960s, television was the dominant communication medium in developed countries, and satellite relay made global live broadcasting possible. An estimated 600 million people watched the Apollo 11 moon landing in 1969 — the largest simultaneous audience in history at that time.
+**Television** (1920s-1930s) added moving images to the audio of radio. By the 1960s, television was the dominant communication medium in developed countries, and satellite relay made global live [broadcasting](/broadcasting) possible. An estimated 600 million people watched the Apollo 11 moon landing in 1969 — the largest simultaneous audience in history at that time.
 
 **The internet** (1960s–1990s) merged all previous telecommunication modes into a single digital network. Voice, video, text, data — everything became packets of digital information flowing over a shared infrastructure. The internet didn't replace earlier telecommunications technologies; it absorbed them.
 

@@ -44,7 +44,7 @@ Law didn't spring into existence with constitutions and courtrooms. Its roots st
 
 The Code of Hammurabi, carved into a stone pillar in ancient Babylon around 1754 BCE, is one of the earliest known written legal codes. It contained 282 laws covering everything from property disputes to medical malpractice — and yes, it included the famous "eye for an eye" principle. What's striking isn't the harshness. It's the ambition: the idea that rules should be publicly known, consistently applied, and enforced by authority.
 
-Ancient Rome's contribution was enormous. Roman law developed concepts — contracts, property rights, legal persons, due process — that still underpin Western legal systems today. The Justinian Code, compiled in the 6th century CE, organized centuries of Roman legal thought and became the foundation for civil law systems across Europe and, eventually, much of the world.
+Ancient Rome's contribution was enormous. [Roman law](/roman-law) developed concepts — contracts, property rights, legal persons, due process — that still underpin Western legal systems today. The Justinian Code, compiled in the 6th century CE, organized centuries of Roman legal thought and became the foundation for [civil law](/civil-law) systems across Europe and, eventually, much of the world.
 
 English common law took a different approach. Instead of thorough codes, it evolved through judicial decisions — judges resolving disputes and creating precedents that future judges would follow. This case-by-case method, developed after the Norman Conquest in 1066, spread through the British Empire and remains the basis of legal systems in the United States, Canada, Australia, and dozens of other countries.
 
@@ -52,7 +52,7 @@ Islamic law (Sharia) developed from the Quran, the Hadith (sayings of Prophet Mu
 
 ## The Major Legal Traditions
 
-Today's legal world is dominated by a few major traditions, each with its own logic and assumptions.
+Today's legal world is dominated by a few major traditions, each with its own [logic](/logic) and assumptions.
 
 **Common law systems** — used in about 80 countries — build law primarily through judicial decisions. When a court rules on a case, that ruling becomes precedent. Future courts facing similar facts are expected to follow that precedent (a principle called *stare decisis*). This makes common law flexible and responsive but sometimes unpredictable. The United States, United Kingdom, and most former British colonies use this system.
 
@@ -94,15 +94,15 @@ Modern legal systems have spawned dozens of specialized areas, each with its own
 
 **[Property law](/property-law)** determines who owns what and what ownership means. This includes real property (land and buildings), personal property (movable things), and intellectual property (patents, copyrights, trademarks). Property concepts vary wildly across cultures and legal traditions.
 
-**Tort law** addresses civil wrongs — situations where someone's negligence or intentional action causes harm to another person. Slip-and-fall cases, medical malpractice, defamation, product liability — all torts. The goal is compensation, not punishment.
+**[Tort law](/tort-law)** addresses civil wrongs — situations where someone's negligence or intentional action causes harm to another person. Slip-and-fall cases, medical malpractice, defamation, product liability — all torts. The goal is compensation, not punishment.
 
 **Administrative law** regulates the relationship between individuals and government agencies. Environmental regulations, immigration procedures, tax rules, [workplace safety](/workplace-safety) standards — all administered through agencies governed by administrative law. It's arguably the most practically important branch for most people's daily lives.
 
-**[International law](/international-law)** governs relations between nations — treaties, trade agreements, the laws of war, human rights. Whether it's "real" law has been debated for centuries, since there's no global police force to enforce it. But it shapes global affairs far more than skeptics admit.
+**[International law](/international-law)** governs relations between nations — treaties, [trade](/trade) agreements, the laws of war, human rights. Whether it's "real" law has been debated for centuries, since there's no global police force to enforce it. But it shapes global affairs far more than skeptics admit.
 
 ## Natural Law vs. Legal Positivism: The Eternal Debate
 
-Philosophers have argued about the nature of law for millennia. Two major schools dominate the debate.
+Philosophers have argued about the nature of law for millennia. Two major schools dominate the [debate](/debate).
 
 **Natural law** theorists — from Aristotle and Thomas Aquinas to Martin Luther King Jr. — argue that law is rooted in morality. True law must align with moral principles discoverable through reason or divine revelation. An unjust law, in this view, isn't really law at all. King wrote from a Birmingham jail: "An unjust law is no law at all" — quoting Augustine.
 
@@ -114,7 +114,7 @@ This isn't just academic. The debate matters when courts face hard cases. Should
 
 Law both reflects and drives social change — though not always in the direction of justice.
 
-The American civil rights movement used law strategically. *Brown v. Board of Education* (1954) declared school segregation unconstitutional. The Civil Rights Act of 1964 and the Voting Rights Act of 1965 dismantled legal discrimination. Law was the weapon that finally broke Jim Crow — though only after decades of activism, suffering, and political struggle.
+The American civil rights movement used law strategically. *Brown v. Board of [Education](/education)* (1954) declared school segregation unconstitutional. The Civil Rights Act of 1964 and the Voting Rights Act of 1965 dismantled legal discrimination. Law was the weapon that finally broke Jim Crow — though only after decades of activism, suffering, and political struggle.
 
 But law has also been used to entrench injustice. Apartheid in South Africa was meticulously legal. Nazi Germany's persecution of Jews was conducted through legislation. The U.S. Supreme Court's *Dred Scott* decision (1857) declared that Black people could never be citizens. Legal doesn't mean right.
 

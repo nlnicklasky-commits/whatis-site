@@ -123,7 +123,7 @@ Proponents argue it's a natural extension of patient autonomy — if you have th
 
 ### Genetic Technology
 
-CRISPR gene [editing](/editing), genetic screening of embryos, and predictive genetic testing raise questions that didn't exist 30 years ago. Should parents be able to select embryos based on genetic characteristics? Where's the line between treating genetic disease and "designing" babies? If a genetic test reveals you carry a gene for Huntington's disease, should your insurance company know?
+CRISPR gene [editing](/editing), genetic screening of embryos, and predictive genetic testing raise questions that didn't exist 30 years ago. Should parents be able to select embryos based on genetic characteristics? Where's the line between treating genetic disease and "designing" babies? If a genetic test reveals you carry a gene for Huntington's disease, should your [insurance](/insurance) company know?
 
 In 2018, Chinese scientist He Jiankui announced he had created the world's first gene-edited babies — twin girls whose CCR5 gene was modified to resist HIV. The international scientific community condemned the experiment as reckless and unethical. He was sentenced to three years in prison. But the technology exists, and the ethical frameworks for governing it are still being built.
 

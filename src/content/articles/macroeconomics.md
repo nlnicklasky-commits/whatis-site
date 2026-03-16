@@ -37,7 +37,7 @@ faq:
 
 Macroeconomics is the branch of economics that studies the behavior, structure, and performance of entire economies — nations, regions, or the world as a whole. While [microeconomics](/microeconomics) zooms in on individual consumers and firms, macroeconomics zooms out to look at total output, employment, price levels, and the policies governments use to influence these aggregates.
 
-If you've ever heard a news anchor say "GDP grew 2.4% last quarter" or "the Fed raised interest rates by 25 basis points," you've encountered macroeconomics. It's the economics of the big picture — and it affects every person, business, and government on the planet, whether they realize it or not.
+If you've ever heard a news anchor say "GDP grew 2.4% last quarter" or "the Fed raised interest rates by 25 basis points," you've encountered macroeconomics. It's the economics of the big picture — and it affects every person, business, and [government](/government) on the planet, whether they realize it or not.
 
 ## The Big Three: GDP, Inflation, and Unemployment
 
@@ -71,7 +71,7 @@ Robert Kennedy said it best in 1968: GDP "measures everything except that which 
 
 Inflation is a sustained increase in the general price level — meaning your money buys less over time. Moderate inflation (the Federal Reserve targets 2% annually) is considered normal and even desirable. High inflation (10%+) is corrosive. Hyperinflation (think Venezuela or Zimbabwe) is catastrophic.
 
-**Consumer Price Index (CPI)**: The most common inflation measure. The Bureau of Labor Statistics tracks the prices of a "basket" of goods and services (food, housing, transportation, medical care, etc.) and measures how the total cost changes. If the CPI rises 3%, prices increased 3% on average.
+**Consumer Price Index (CPI)**: The most common inflation measure. The Bureau of Labor [Statistics](/statistics) tracks the prices of a "basket" of goods and services (food, housing, transportation, medical care, etc.) and measures how the total cost changes. If the CPI rises 3%, prices increased 3% on average.
 
 **Core inflation** strips out food and energy prices (which are volatile month-to-month) to reveal the underlying trend. When the Fed makes policy decisions, it focuses heavily on core inflation.
 
@@ -133,7 +133,7 @@ While central banks control monetary policy, governments control **fiscal policy
 
 ### Expansionary Fiscal Policy
 
-During recessions, governments often increase spending or cut taxes to stimulate demand. The logic: if consumers and businesses aren't spending enough, the government can step in. The 2009 American Recovery and Reinvestment Act ($831 billion) and the 2020 CARES Act ($2.2 trillion) were massive fiscal stimulus programs.
+During recessions, governments often increase spending or cut taxes to stimulate demand. The [logic](/logic): if consumers and businesses aren't spending enough, the government can step in. The 2009 American Recovery and Reinvestment Act ($831 billion) and the 2020 CARES Act ($2.2 trillion) were massive fiscal stimulus programs.
 
 **The multiplier effect**: Government spending can generate additional economic activity beyond the initial amount. If the government pays $1 million to build a road, the [construction](/construction) workers spend their wages at local businesses, those businesses hire more staff, and so on. The multiplier — how much total GDP increases per dollar of government spending — is debated, but estimates typically range from 0.5 to 2.0.
 
@@ -173,17 +173,17 @@ Theories abound:
 
 **Monetarist view** (Milton Friedman): Cycles are primarily caused by changes in the money supply. The Fed's mistakes — too much money (inflation) or too little (recession) — are the main source of instability.
 
-**Real Business Cycle theory**: Cycles are driven by real shocks to productivity (technological changes, supply disruptions) rather than monetary or demand-side factors. This view implies government intervention is largely unnecessary.
+**Real Business Cycle theory**: Cycles are driven by real shocks to [productivity](/productivity) (technological changes, supply disruptions) rather than monetary or demand-side factors. This view implies government intervention is largely unnecessary.
 
 **Financial instability hypothesis** (Hyman Minsky): Stability itself is destabilizing. During good times, borrowers and lenders take increasing risks. Debt builds up until a small shock triggers a cascade of defaults. This theory, largely ignored before 2008, gained enormous credibility after the financial crisis.
 
 ## International Macroeconomics
 
-Economies don't exist in isolation. Trade, capital flows, and exchange rates connect them.
+Economies don't exist in isolation. [Trade](/trade), capital flows, and exchange rates connect them.
 
 ### Exchange Rates
 
-A currency's exchange rate — how many dollars per euro, how many yen per pound — affects everything from import prices to tourism to international investment. Exchange rates are determined by:
+A currency's exchange rate — how many dollars per euro, how many yen per pound — affects everything from import prices to [tourism](/tourism) to international investment. Exchange rates are determined by:
 - Interest rate differentials between countries
 - Relative inflation rates
 - Trade balances

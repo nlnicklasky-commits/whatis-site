@@ -57,7 +57,7 @@ The dairy industry has undergone dramatic consolidation. In 1970, the United Sta
 
 The average U.S. dairy farm now milks about 300 cows. But averages are misleading — the industry is split between smaller family operations (50-200 cows) and large concentrated animal feeding operations (CAFOs) with 1,000-10,000+ cows. The largest dairies in the western U.S. milk over 30,000 cows on a single operation.
 
-This consolidation has economic logic — larger operations achieve lower per-unit costs through mechanization, bulk purchasing, and operational efficiency. But it has costs too: environmental impacts from concentrated waste, loss of rural community fabric, and animal welfare concerns.
+This consolidation has economic [logic](/logic) — larger operations achieve lower per-unit costs through mechanization, bulk purchasing, and operational efficiency. But it has costs too: environmental impacts from concentrated waste, loss of rural community fabric, and animal welfare concerns.
 
 ## From Farm to Fridge
 

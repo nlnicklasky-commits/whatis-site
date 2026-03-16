@@ -132,7 +132,7 @@ Building a list requires offering value in exchange for email addresses. Lead ma
 
 ### Email Strategy
 
-**Welcome sequences** introduce new subscribers to your brand, establish expectations, and build relationship before making sales pitches. First impressions matter—welcome emails have the highest open rates of any email type.
+**Welcome sequences** introduce new subscribers to your brand, establish expectations, and build relationship before making [sales](/sales) pitches. First impressions matter—welcome emails have the highest open rates of any email type.
 
 **Newsletters** provide regular value—industry news, tips, insights, curated content—keeping your brand present in subscribers' minds. Consistency matters more than frequency.
 

@@ -31,7 +31,7 @@ faq:
 
 # What Is Visual Arts?
 
-Visual arts is the broad category of creative works primarily experienced through sight. Painting, [sculpture](/sculpture), photography, [printmaking](/printmaking), drawing, film, [architecture](/architecture), ceramics, [digital art](/digital-art), and installation art all fall under this umbrella. If you can see it, and someone made it with creative intent, it's probably visual art.
+Visual arts is the broad category of creative works primarily experienced through sight. [Painting](/painting), [sculpture](/sculpture), photography, [printmaking](/printmaking), [drawing](/drawing), film, [architecture](/architecture), [ceramics](/ceramics), [digital art](/digital-art), and installation art all fall under this umbrella. If you can see it, and someone made it with creative intent, it's probably visual art.
 
 ## The Traditional Categories
 
@@ -55,13 +55,13 @@ The art of creating images from a matrix (a plate, block, screen, or stone) that
 
 ### Photography
 
-When photography emerged in the 1830s, painters feared it would make their work obsolete. Instead, photography freed painting from the obligation to represent reality accurately, opening the door to [Impressionism](/impressionism), Expressionism, and abstraction. Photography itself developed into a fine art medium with its own aesthetic traditions, technical challenges, and expressive possibilities.
+When photography emerged in the 1830s, painters feared it would make their work obsolete. Instead, photography freed painting from the obligation to represent reality accurately, opening the door to [Impressionism](/impressionism), Expressionism, and abstraction. Photography itself developed into a [fine art](/fine-art) medium with its own aesthetic traditions, technical challenges, and expressive possibilities.
 
 ## The Fine Art vs. Applied Art Debate
 
-For centuries, Western culture maintained a hierarchy: fine arts (painting, sculpture, architecture) were considered intellectually and aesthetically superior to applied or decorative arts (pottery, textiles, furniture, metalwork). Fine art was "pure" — made for contemplation. Applied art was "functional" — made to be used.
+For centuries, Western culture maintained a hierarchy: fine arts (painting, sculpture, architecture) were considered intellectually and aesthetically superior to applied or decorative arts ([pottery](/pottery), textiles, furniture, metalwork). Fine art was "pure" — made for contemplation. Applied art was "functional" — made to be used.
 
-This hierarchy has been under sustained attack since at least the Arts and Crafts movement of the 1860s, which argued that a well-made chair was as artistically valid as a painting. The Bauhaus school (1919-1933) explicitly rejected the distinction, teaching fine and applied arts together. Today, most art schools and museums treat the categories as descriptive rather than hierarchical — a Tiffany lamp or a Japanese tea bowl can be as aesthetically significant as an oil painting.
+This hierarchy has been under sustained attack since at least the Arts and Crafts movement of the 1860s, which argued that a well-made chair was as artistically valid as a painting. The Bauhaus school (1919-1933) explicitly rejected the distinction, [teaching](/teaching) fine and applied arts together. Today, most art schools and museums treat the categories as descriptive rather than hierarchical — a Tiffany lamp or a Japanese tea bowl can be as aesthetically significant as an oil painting.
 
 ## Why "What Is Art?" Is the Wrong Question
 

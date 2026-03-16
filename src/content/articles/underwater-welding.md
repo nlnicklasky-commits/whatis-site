@@ -35,7 +35,7 @@ faq:
 
 # What Is Underwater Welding?
 
-Underwater welding is the process of joining metals at or below the water's surface, using specialized equipment and techniques adapted for the aquatic environment. It's used to build, repair, and maintain everything from offshore oil platforms and ship hulls to bridges, dams, and underwater pipelines — structures that can't be economically brought to the surface for repair.
+Underwater [welding](/welding) is the process of joining metals at or below the water's surface, using specialized equipment and techniques adapted for the aquatic environment. It's used to build, repair, and maintain everything from offshore oil platforms and ship hulls to bridges, dams, and underwater pipelines — structures that can't be economically brought to the surface for repair.
 
 ## Two Fundamentally Different Approaches
 
@@ -81,7 +81,7 @@ Between fully wet and fully dry, there are intermediate approaches:
 
 ## The Diving Side
 
-You can't discuss underwater welding without discussing the diving, because the diving is at least half the job — and often the more dangerous half.
+You can't discuss underwater welding without discussing the [diving](/diving), because the diving is at least half the job — and often the more dangerous half.
 
 ### Surface-Supplied Diving
 
@@ -93,7 +93,7 @@ Surface-supplied diving typically operates to depths of about 50 meters using ai
 
 For work deeper than about 50 meters or jobs lasting many days, saturation diving is the standard. The principle is simple but the practice is extreme: divers live in a pressurized chamber on the support vessel, breathing a helium-oxygen mix at the same pressure as the working depth. When it's time to work, they transfer to a diving bell that's lowered to the work site. Because they're already at pressure, there's no decompression needed between dives.
 
-The trade-off is that decompression happens once, at the end of the saturation period, and it takes days. A month-long saturation job at 200 meters depth requires roughly a week of decompression at the end. During this time, the divers live in the chamber and gradually reduce pressure.
+The [trade](/trade)-off is that decompression happens once, at the end of the saturation period, and it takes days. A month-long saturation job at 200 meters depth requires roughly a week of decompression at the end. During this time, the divers live in the chamber and gradually reduce pressure.
 
 Saturation divers are among the highest-paid manual workers in the world. Day rates of $1,500-4,000 are common, plus depth bonuses. A saturation diver doing underwater welding on a North Sea oil platform might earn $200,000-300,000 per year. But the job takes a physical and psychological toll — spending weeks in a pressurized steel tube the size of a bedroom, with your voice distorted to helium-squeaky pitches, doing physically exhausting work in near-freezing water.
 

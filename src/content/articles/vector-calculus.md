@@ -44,9 +44,9 @@ If regular calculus asks "how fast is this changing?" then vector calculus asks 
 
 Here's the thing — vector calculus isn't just abstract mathematics that professors invented to torture undergraduates. It's the language that physics actually speaks. Every time you see a weather map with wind arrows, every time an engineer models airflow over a wing, every time your phone picks up a GPS signal — vector calculus is running beneath the surface.
 
-James Clerk Maxwell unified electricity and magnetism into four elegant equations in the 1860s. Those equations? Written entirely in vector calculus. Without gradient, divergence, and curl, you can't even write down the fundamental laws of electromagnetism. That's not a minor detail — it means vector calculus is literally required to describe how light works.
+James Clerk Maxwell unified [electricity](/electricity) and magnetism into four elegant equations in the 1860s. Those equations? Written entirely in vector calculus. Without gradient, divergence, and curl, you can't even write down the fundamental laws of electromagnetism. That's not a minor detail — it means vector calculus is literally required to describe how light works.
 
-The same goes for fluid dynamics, heat transfer, gravitational fields, and quantum mechanics. If a physical quantity varies across space and has direction, vector calculus is probably involved.
+The same goes for fluid dynamics, [heat transfer](/heat-transfer), gravitational fields, and [quantum mechanics](/quantum-mechanics). If a physical quantity varies across space and has direction, vector calculus is probably involved.
 
 ## Scalars vs. Vectors: The Starting Point
 
@@ -142,7 +142,7 @@ Surface integrals are essential for [electromagnetic theory](/electromagnetism),
 
 ## The Big Theorems: Connecting Everything
 
-Vector calculus has three major theorems that connect different types of integrals. These aren't just mathematical curiosities — they're among the most powerful results in all of applied mathematics.
+Vector calculus has three major theorems that connect different types of integrals. These aren't just mathematical curiosities — they're among the most powerful results in all of [applied mathematics](/applied-mathematics).
 
 ### Green's Theorem
 
@@ -168,7 +168,7 @@ All three theorems share the same deep structure — they relate what's happenin
 
 ### Electromagnetism
 
-Maxwell's equations are vector calculus. Full stop. Without gradient, divergence, curl, and the associated integral theorems, you cannot formulate classical electrodynamics. Radio, television, WiFi, cellular networks, fiber optics — all designed using vector calculus applied to Maxwell's equations.
+Maxwell's equations are vector calculus. Full stop. Without gradient, divergence, curl, and the associated integral theorems, you cannot formulate classical [electrodynamics](/electrodynamics). Radio, television, WiFi, cellular networks, [fiber optics](/fiber-optics) — all designed using vector calculus applied to Maxwell's equations.
 
 ### Fluid Dynamics
 
@@ -206,7 +206,7 @@ The real breakthrough came in the 1800s. Carl Friedrich Gauss formulated the div
 
 The modern notation was a battlefield. William Rowan Hamilton advocated quaternions. Josiah Willard Gibbs and Oliver Heaviside championed the vector notation we use today. Heaviside essentially won the argument by demonstrating that vector notation made Maxwell's equations far more readable — reducing twenty equations down to four.
 
-By the early 1900s, vector calculus was standard in physics and engineering curricula. It remains indispensable today, though modern generalizations using differential forms (courtesy of Elie Cartan) provide even more powerful abstractions.
+By the early 1900s, vector calculus was standard in physics and [engineering](/engineering) curricula. It remains indispensable today, though modern generalizations using differential forms (courtesy of Elie Cartan) provide even more powerful abstractions.
 
 ## Connections to Other Mathematical Fields
 
@@ -216,7 +216,7 @@ Vector calculus doesn't exist in isolation. It connects to several other areas o
 
 **[Differential equations](/differential-equations)** are where vector calculus gets applied. Most physical laws expressed in vector calculus are partial differential equations — solving them is where the real work happens.
 
-**Differential geometry** generalizes vector calculus to curved spaces. On a curved surface, you need modified versions of gradient, divergence, and curl that account for curvature. This leads directly to Einstein's general relativity.
+**Differential geometry** generalizes vector calculus to curved spaces. On a curved surface, you need modified versions of gradient, divergence, and curl that account for curvature. This leads directly to Einstein's [general relativity](/general-relativity).
 
 **Topology** studies which properties survive continuous deformation. The integral theorems of vector calculus turn out to be special cases of deep topological results about boundaries and interiors.
 

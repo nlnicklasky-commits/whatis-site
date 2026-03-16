@@ -35,9 +35,9 @@ Aikido is a modern Japanese martial art developed in the early 20th century by M
 
 ## The Man They Called O-Sensei
 
-Morihei Ueshiba (1883–1969) studied several traditional [martial arts](/martial-arts), including Daito-ryu aiki-jujutsu under Sokaku Takeda and [swordsmanship](/swordsmanship) from various schools. He was also deeply influenced by the Omoto-kyo spiritual movement, which preached universal harmony.
+Morihei Ueshiba (1883–1969) studied several traditional [martial arts](/martial-arts), including Daito-ryu aiki-jujutsu under Sokaku Takeda and [swordsmanship](/swordsmanship) from various schools. He was also deeply influenced by the Omoto-kyo spiritual movement, which preached universal [harmony](/harmony).
 
-The combination produced something unusual. Ueshiba — who came to be called "O-Sensei" (Great Teacher) by his students — wanted a martial art that could protect the practitioner *without* destroying the attacker. He formally established aikido in the 1920s and 1930s, though it continued evolving throughout his life. The name itself tells you the philosophy: *ai* (harmony), *ki* (energy or spirit), *do* (way or path). The Way of Harmonious Energy.
+The combination produced something unusual. Ueshiba — who came to be called "O-Sensei" (Great Teacher) by his students — wanted a martial art that could protect the practitioner *without* destroying the attacker. He formally established aikido in the 1920s and 1930s, though it continued evolving throughout his life. The name itself tells you the [philosophy](/philosophy): *ai* (harmony), *ki* (energy or spirit), *do* (way or path). The Way of Harmonious Energy.
 
 That sounds nice and philosophical, but make no mistake — Ueshiba was formidable. Accounts from contemporaries describe him throwing multiple attackers simultaneously and pinning much larger opponents with apparent ease. Whether those stories are embellished is debatable. What's not debatable is that the art he created spread worldwide after [World War II](/world-war-ii).
 
@@ -79,13 +79,13 @@ Let's address the elephant in the dojo. Aikido catches a lot of criticism from p
 
 The criticism isn't entirely unfounded. Traditional aikido training uses compliant partners. The uke attacks and then goes with the technique, which can look like cooperative choreography rather than realistic combat. Critics argue that aikido practitioners rarely test their skills against genuinely resisting opponents, creating a gap between training and reality.
 
-Defenders counter that aikido was never designed to be a fighting system in the way boxing or wrestling is. Its purpose is personal development, [conflict resolution](/conflict-resolution), and — if absolutely necessary — a way to control an attacker without causing permanent harm. Some modern aikido schools have responded to the criticism by incorporating more resistance-based training and cross-training with other arts.
+Defenders counter that aikido was never designed to be a fighting system in the way [boxing](/boxing) or [wrestling](/wrestling) is. Its purpose is personal development, [conflict resolution](/conflict-resolution), and — if absolutely necessary — a way to control an attacker without causing permanent harm. Some modern aikido schools have responded to the criticism by incorporating more resistance-based training and cross-training with other arts.
 
 The truth probably lands somewhere in the middle. Aikido alone may not prepare you for a cage fight, but its principles of balance, awareness, and body mechanics have real value — and its emphasis on de-escalation is arguably more relevant to most people's lives than learning to throw punches.
 
 ## Aikido's Influence
 
-Even if you never step onto a tatami, aikido's fingerprints are everywhere. Police departments in several countries train officers in aikido-based restraint techniques. [Physical therapy](/physical-therapy) programs have adopted its rolling and falling methods for balance training in elderly patients. And its philosophy of blending rather than clashing shows up in conflict resolution training, [business administration](/business-administration) leadership courses, and negotiation strategies.
+Even if you never step onto a tatami, aikido's fingerprints are everywhere. Police departments in several countries train officers in aikido-based restraint techniques. [Physical therapy](/physical-therapy) programs have adopted its rolling and falling methods for balance training in elderly patients. And its philosophy of blending rather than clashing shows up in conflict resolution training, [business administration](/business-administration) [leadership](/leadership) courses, and [negotiation](/negotiation) strategies.
 
 Steven Seagal brought aikido to Hollywood in the late 1980s, which dramatically increased public awareness — even if his films weren't exactly faithful to the art's pacifist philosophy.
 

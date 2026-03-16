@@ -43,7 +43,7 @@ To understand Zionism, you have to understand what came before it. Jewish connec
 
 Throughout that entire period, return to Zion remained a central theme in Jewish religious life. Daily prayers included petitions for the restoration of Jerusalem. The Passover seder ended with the phrase "Next year in Jerusalem." Small Jewish communities maintained a continuous presence in the land, particularly in Jerusalem, Hebron, Safed, and Tiberias.
 
-But religious longing is different from political action. For most of [Jewish history](/jewish-history), the return to Zion was understood as something God would bring about — not something humans should engineer through politics and [diplomacy](/diplomacy). That distinction is critical for understanding why Zionism was so controversial even among Jews.
+But religious longing is different from political action. For most of [Jewish history](/jewish-history), the return to Zion was understood as something God would bring about — not something humans should engineer through [politics](/politics) and [diplomacy](/diplomacy). That distinction is critical for understanding why Zionism was so controversial even among Jews.
 
 ## The 19th Century Problem
 
@@ -69,7 +69,7 @@ Zionism was never a monolithic movement. From the very beginning, deep disagreem
 
 **Political Zionism** (Herzl's approach) emphasized diplomatic [negotiation](/negotiation) with great powers to secure a legal charter for Jewish settlement. Herzl was pragmatic about location — he briefly considered Uganda and Argentina before concluding that only Palestine had sufficient emotional and historical pull to motivate mass migration.
 
-**Labor Zionism** became the dominant strain by the 1920s and 1930s. Led by figures like David Ben-Gurion and Berl Katznelson, Labor Zionists were socialists who envisioned building a new society through collective agricultural settlements (kibbutzim) and organized labor. They saw physical work on the land — farming, [construction](/construction), road building — as essential to creating a "new Jew" freed from the economic patterns of diaspora life.
+**Labor Zionism** became the dominant strain by the 1920s and 1930s. Led by figures like David Ben-Gurion and Berl Katznelson, Labor Zionists were socialists who envisioned building a new society through collective agricultural settlements (kibbutzim) and organized labor. They saw physical work on the land — [farming](/farming), [construction](/construction), road building — as essential to creating a "new Jew" freed from the economic patterns of diaspora life.
 
 **Revisionist Zionism**, founded by Ze'ev Jabotinsky in the 1920s, took a more militant stance. Jabotinsky argued that a Jewish state would only come through military strength, not gradual settlement. He advocated for a Jewish state on both banks of the Jordan River and was willing to use force against both British authorities and Arab opposition. His ideological heirs later formed the Irgun and Lehi paramilitary organizations.
 

@@ -35,7 +35,7 @@ faq:
 
 Restaurant management is the business of [running](/running) a food service operation — everything from hiring cooks and setting menu prices to keeping bathrooms clean and responding to one-star Yelp reviews. It's one of the most demanding management jobs in any industry, requiring a mix of financial savvy, people skills, operational precision, and the ability to stay calm when the kitchen catches fire. Sometimes literally.
 
-The restaurant industry in the United States generates over $1 trillion in annual sales and employs roughly 15.5 million people, making it the nation's second-largest private employer. Behind every successful restaurant is a manager (or management team) [juggling](/juggling) dozens of variables simultaneously — and doing it seven days a week, often for 50 to 70 hours.
+The restaurant industry in the United States generates over $1 trillion in annual [sales](/sales) and employs roughly 15.5 million people, making it the nation's second-largest private employer. Behind every successful restaurant is a manager (or management team) [juggling](/juggling) dozens of variables simultaneously — and doing it seven days a week, often for 50 to 70 hours.
 
 ## The Financial Reality
 

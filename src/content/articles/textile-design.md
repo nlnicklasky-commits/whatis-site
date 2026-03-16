@@ -57,13 +57,13 @@ Creating the structure and pattern of knitted fabrics. Knit design involves choo
 
 1. **Research and inspiration** — Designers begin with mood boards, trend research, color forecasting, and inspiration from nature, art, [architecture](/architecture), and culture.
 
-2. **[Sketching](/sketching) and development** — Initial ideas are explored through hand drawing, painting, or digital [illustration](/illustration). Multiple colorways (the same pattern in different color combinations) are developed.
+2. **[Sketching](/sketching) and development** — Initial ideas are explored through hand [drawing](/drawing), [painting](/painting), or digital [illustration](/illustration). Multiple colorways (the same pattern in different color combinations) are developed.
 
 3. **Technical specification** — The design is prepared for production with exact color codes (Pantone references), repeat dimensions, and construction details.
 
 4. **Sampling** — A small-scale sample is produced to test how the design translates to actual fabric. Colors, scale, and details are adjusted based on the physical sample.
 
-5. **Production** — The finalized design goes into manufacturing. Print designs are screen-engraved or digitally printed. Woven designs are programmed into loom software. Knit designs are programmed into knitting machines.
+5. **Production** — The finalized design goes into manufacturing. Print designs are screen-engraved or digitally printed. Woven designs are programmed into loom software. Knit designs are programmed into [knitting](/knitting) machines.
 
 ## Where Textile Design Appears
 

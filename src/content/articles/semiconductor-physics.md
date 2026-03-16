@@ -41,7 +41,7 @@ Semiconductor physics is the branch of physics that studies materials whose elec
 
 ## Why Some Materials Can't Make Up Their Minds
 
-To understand semiconductors, you first need to understand why materials conduct electricity differently. And that means talking about electrons — specifically, where electrons are allowed to hang out inside a solid.
+To understand semiconductors, you first need to understand why materials conduct [electricity](/electricity) differently. And that means talking about electrons — specifically, where electrons are allowed to hang out inside a solid.
 
 ### The Band Theory Basics
 
@@ -65,7 +65,7 @@ This temperature sensitivity is why your laptop gets slower when it overheats. T
 
 ## Silicon: The Star of the Show
 
-Silicon dominates semiconductor [physics](/classical-mechanics) for reasons that are part chemistry, part economics, and part historical accident.
+Silicon dominates semiconductor [physics](/classical-mechanics) for reasons that are part chemistry, part [economics](/economics), and part historical accident.
 
 ### What Makes Silicon Special
 
@@ -109,7 +109,7 @@ The Fermi level might sound abstract, but it's enormously practical. When two di
 
 ## The P-N Junction: Where the Magic Happens
 
-Put p-type and n-type silicon next to each other, and something remarkable occurs at the boundary. This **p-n junction** is arguably the most important structure in all of electronics.
+Put p-type and n-type silicon next to each other, and something remarkable occurs at the boundary. This **p-n junction** is arguably the most important structure in all of [electronics](/electronics).
 
 ### What Happens at the Boundary
 
@@ -181,7 +181,7 @@ Your phone's camera uses a CMOS image sensor — millions of tiny photodiodes, e
 
 ## Quantum Effects: When Physics Gets Weird
 
-As devices shrink to the nanometer scale, classical physics starts breaking down. Quantum mechanics takes over, and semiconductor physics gets genuinely strange.
+As devices shrink to the nanometer scale, classical physics starts breaking down. [Quantum mechanics](/quantum-mechanics) takes over, and semiconductor physics gets genuinely strange.
 
 ### Quantum Tunneling
 
@@ -209,9 +209,9 @@ Understanding semiconductor physics is necessary but not sufficient for building
 
 ### Photolithography
 
-Patterns are transferred onto silicon wafers using photolithography. A photosensitive material (photoresist) is applied to the wafer surface. Light is shone through a mask containing the circuit pattern, selectively exposing the photoresist. Exposed regions are chemically removed, and the remaining photoresist protects areas during subsequent etching or deposition steps.
+Patterns are transferred onto silicon wafers using [photolithography](/photolithography). A photosensitive material (photoresist) is applied to the wafer surface. Light is shone through a mask containing the circuit pattern, selectively exposing the photoresist. Exposed regions are chemically removed, and the remaining photoresist protects areas during subsequent etching or deposition steps.
 
-Modern chips use extreme ultraviolet (EUV) lithography with a wavelength of just 13.5 nanometers. Producing this light requires a tin plasma source generating temperatures of 500,000 degrees Celsius. An EUV lithography machine costs over $200 million, weighs 180 tons, and contains over 100,000 parts sourced from hundreds of suppliers worldwide. There is exactly one company — ASML in the Netherlands — that can build them.
+Modern chips use extreme ultraviolet (EUV) [lithography](/lithography) with a wavelength of just 13.5 nanometers. Producing this light requires a tin plasma source generating temperatures of 500,000 degrees Celsius. An EUV lithography machine costs over $200 million, weighs 180 tons, and contains over 100,000 parts sourced from hundreds of suppliers worldwide. There is exactly one company — ASML in the Netherlands — that can build them.
 
 ### Ion Implantation
 
@@ -247,30 +247,30 @@ Graphene, molybdenum disulfide, and other 2D materials represent the frontier. T
 
 ## The Economic and Geopolitical Reality
 
-Semiconductor physics doesn't exist in a vacuum. The industry it enables is deeply intertwined with global economics and politics.
+Semiconductor physics doesn't exist in a vacuum. The industry it enables is deeply intertwined with [global economics](/global-economics) and politics.
 
-The most advanced chip fabrication is concentrated in a remarkably small number of facilities. TSMC in Taiwan produces over 90% of the world's most advanced chips. This concentration has made semiconductor supply a matter of national security, driving tens of billions of dollars in government subsidies for new fabrication plants in the United States, Europe, and Japan.
+The most advanced chip fabrication is concentrated in a remarkably small number of facilities. TSMC in Taiwan produces over 90% of the world's most advanced chips. This concentration has made semiconductor supply a matter of national security, driving tens of billions of dollars in [government](/government) subsidies for new fabrication plants in the United States, Europe, and Japan.
 
-The CHIPS Act, signed in 2022, allocated $52.7 billion to boost U.S. semiconductor manufacturing. New fabrication plants under construction in Arizona, Ohio, and New York represent the largest industrial investment in American history outside wartime.
+The CHIPS Act, signed in 2022, allocated $52.7 billion to boost U.S. semiconductor manufacturing. New fabrication plants under [construction](/construction) in Arizona, Ohio, and New York represent the largest industrial investment in [American history](/american-history) outside wartime.
 
-This all traces back to physics. The extreme difficulty of manufacturing at the nanometer scale means that the knowledge, equipment, and processes required take decades to develop. You can't simply build a chip factory — you need the accumulated expertise of an entire ecosystem, from [chemistry](/chemistry) to [materials science](/materials-science) to precision engineering.
+This all traces back to physics. The extreme difficulty of manufacturing at the nanometer scale means that the knowledge, equipment, and processes required take decades to develop. You can't simply build a chip factory — you need the accumulated expertise of an entire ecosystem, from [chemistry](/chemistry) to [materials science](/materials-science) to precision [engineering](/engineering).
 
 ## Where Semiconductor Physics Is Heading
 
 The field is evolving in several directions simultaneously.
 
-**Neuromorphic computing** designs chips that mimic the brain's neural architecture. Instead of the traditional von Neumann model where memory and processing are separate, neuromorphic chips integrate memory and computation, potentially achieving brain-like energy efficiency for specific tasks like [pattern recognition](/pattern-recognition).
+**Neuromorphic computing** designs chips that mimic the brain's neural [architecture](/architecture). Instead of the traditional von Neumann model where memory and processing are separate, neuromorphic chips integrate memory and computation, potentially achieving brain-like energy efficiency for specific tasks like [pattern recognition](/pattern-recognition).
 
 **Spintronics** uses the quantum spin of electrons, not just their charge, to process and store information. Magnetoresistive RAM (MRAM) already uses spin-based effects for non-volatile memory, and future spintronic devices could enable entirely new computing paradigms.
 
 **Photonic integrated circuits** process information using light instead of electrons. Light travels faster, generates less heat, and can carry more data. Silicon photonics — building optical components on silicon chips — is already used in data centers and could eventually transform computing.
 
-**Wide-bandgap semiconductors** like SiC and GaN are enabling a new generation of power electronics for electric vehicles, renewable energy, and industrial applications where silicon simply can't handle the voltage, temperature, or switching speed requirements.
+**Wide-bandgap semiconductors** like SiC and GaN are enabling a new generation of power electronics for electric vehicles, [renewable energy](/renewable-energy), and industrial applications where silicon simply can't handle the voltage, temperature, or switching speed requirements.
 
 ## Why This Matters to You
 
-Every time you pick up your phone, drive a car, turn on a light, or charge a [battery](/battery-technology), you're relying on semiconductor physics. The transistors in your processor switch billions of times per second. The LEDs in your screen emit photons at precisely engineered wavelengths. The power management chips in your charger regulate voltage using the same p-n junction physics discovered in the 1940s.
+Every time you pick up your phone, drive a car, turn on a light, or charge a [battery](/battery-technology), you're relying on semiconductor physics. The transistors in your processor switch billions of times per second. The LEDs in your screen emit photons at precisely engineered wavelengths. The power [management](/management) chips in your charger regulate voltage using the same p-n junction physics discovered in the 1940s.
 
-Understanding semiconductor physics isn't just academic curiosity. It's understanding the physical foundation of modern civilization. The entire digital world — from [artificial intelligence](/artificial-intelligence) to cloud computing — runs on devices that work because of how electrons behave in carefully engineered crystals of silicon and its cousins.
+Understanding semiconductor physics isn't just academic curiosity. It's understanding the physical foundation of modern civilization. The entire digital world — from [artificial intelligence](/artificial-intelligence) to [cloud computing](/cloud-computing) — runs on devices that work because of how electrons behave in carefully engineered crystals of silicon and its cousins.
 
-The next time someone mentions "chips" in a news headline, you'll know what's actually at stake: not just economic competition or supply chain logistics, but mastery over the quantum-mechanical behavior of electrons in crystals. That's what semiconductor physics really is — humanity's ability to control the behavior of matter at the atomic scale, turned into the technology that defines our era.
+The next time someone mentions "chips" in a news headline, you'll know what's actually at stake: not just economic competition or supply chain [logistics](/logistics), but mastery over the quantum-mechanical behavior of electrons in crystals. That's what semiconductor physics really is — humanity's ability to control the behavior of matter at the atomic scale, turned into the technology that defines our era.

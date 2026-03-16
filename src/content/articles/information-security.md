@@ -43,7 +43,7 @@ Every security decision, every policy, every technology ultimately serves one or
 
 ### Confidentiality
 
-Only authorized people should access the information. Your medical records should be visible to your doctor, not to random strangers. Corporate trade secrets should stay within the company. Your password should be known only to you.
+Only authorized people should access the information. Your medical records should be visible to your doctor, not to random strangers. Corporate [trade](/trade) secrets should stay within the company. Your password should be known only to you.
 
 Confidentiality breaches range from embarrassing to catastrophic. The 2017 Equifax breach exposed personal data — Social Security numbers, birth dates, addresses — of 147 million Americans. The 2014 Sony Pictures hack leaked unreleased films, executive emails, and employee salary data. The 2013 Target breach compromised 40 million credit card numbers.
 
@@ -59,7 +59,7 @@ Technologies protecting integrity include hashing (mathematical fingerprints tha
 
 ### Availability
 
-Information should be accessible when authorized users need it. An emergency room's patient record system being offline could cost lives. An e-commerce site's 4-hour outage during Black Friday could cost millions. A city's traffic management system going down could cause chaos.
+Information should be accessible when authorized users need it. An emergency room's patient record system being offline could cost lives. An e-commerce site's 4-hour outage during Black Friday could cost millions. A city's traffic [management](/management) system going down could cause chaos.
 
 Denial-of-service attacks deliberately target availability, flooding systems with so much traffic that legitimate users can't get through. The 2016 Mirai botnet attack, which hijacked hundreds of thousands of IoT devices, took down major websites including Twitter, Netflix, and Reddit for hours.
 
@@ -69,7 +69,7 @@ Technologies protecting availability include redundancy (backup systems that tak
 
 ### [Social Engineering](/social-engineering)
 
-The most effective attack vector isn't technical — it's human. Social engineering manipulates people into divulging information or performing actions that compromise security. Phishing emails that look like they're from your bank. Phone calls from someone claiming to be IT support. USB drives labeled "Salary Information" left in a parking lot.
+The most effective attack vector isn't technical — it's human. Social [engineering](/engineering) manipulates people into divulging information or performing actions that compromise security. Phishing emails that look like they're from your bank. Phone calls from someone claiming to be IT support. USB drives labeled "Salary Information" left in a parking lot.
 
 About 74% of data breaches involve a human element — social engineering, errors, or misuse. All the firewalls and encryption in the world can't help if an employee clicks a malicious link in a phishing email or tells their password to someone pretending to be from the help desk.
 
@@ -115,7 +115,7 @@ No single security measure stops all threats. Information security uses a "defen
 
 **Access control** determines who can do what. The principle of least privilege — giving users only the minimum access required for their job — limits the damage from compromised accounts. An accountant doesn't need access to engineering systems. A summer intern doesn't need administrative privileges.
 
-**Zero trust architecture** — a concept closely tied to modern [information systems](/information-systems) design — takes this further: trust nothing, verify everything. Instead of assuming that users inside the corporate network are safe, zero trust verifies identity, device health, and authorization for every access request, every time.
+**Zero trust [architecture](/architecture)** — a concept closely tied to modern [information systems](/information-systems) design — takes this further: trust nothing, verify everything. Instead of assuming that users inside the corporate network are safe, zero trust verifies identity, device health, and authorization for every access request, every time.
 
 ### Encryption
 
@@ -127,7 +127,7 @@ Encryption transforms readable data (plaintext) into unreadable data (ciphertext
 
 **End-to-end encryption (E2EE)** ensures that only the communicating parties can read messages — not even the service provider. Signal, WhatsApp, and iMessage use E2EE for messages. This is the strongest form of communication privacy, and it's also the most controversial — law enforcement agencies argue it prevents them from accessing criminal communications, even with valid warrants.
 
-Modern encryption standards (AES-256, RSA-2048, elliptic curve cryptography) are mathematically secure against all known attacks with current computing technology. The weaknesses are in implementation (bugs in encryption software), key management (storing keys insecurely), and the human factor (sharing passwords, falling for phishing).
+Modern encryption standards (AES-256, RSA-2048, elliptic curve [cryptography](/cryptography)) are mathematically secure against all known attacks with current computing technology. The weaknesses are in implementation (bugs in encryption software), key management (storing keys insecurely), and the human factor (sharing passwords, falling for phishing).
 
 ### Network Security
 
@@ -151,7 +151,7 @@ Security isn't just technology — it's also policy, process, and legal complian
 
 ### Security Frameworks
 
-**NIST Cybersecurity Framework**: The most widely adopted security framework in the United States. Organized around five functions: Identify, Protect, Detect, Respond, Recover. Provides a structured approach to assessing and improving security posture.
+**NIST [Cybersecurity](/cybersecurity) Framework**: The most widely adopted security framework in the United States. Organized around five functions: Identify, Protect, Detect, Respond, Recover. Provides a structured approach to assessing and improving security posture.
 
 **ISO 27001**: The international standard for information security management systems. Certification requires demonstrating that a systematic approach to managing sensitive information is in place and operating effectively.
 
@@ -181,7 +181,7 @@ Research shows that security awareness training reduces phishing susceptibility 
 
 Beyond training, organizations need a culture where security is everyone's responsibility, where reporting potential incidents is encouraged rather than punished, and where security considerations are embedded in everyday decision-making.
 
-This requires leadership commitment. When executives bypass security controls for convenience, the message to the entire organization is that security doesn't really matter. When executives demonstrate security-conscious behavior and invest in security resources, the culture follows.
+This requires [leadership](/leadership) commitment. When executives bypass security controls for convenience, the message to the entire organization is that security doesn't really matter. When executives demonstrate security-conscious behavior and invest in security resources, the culture follows.
 
 ## Emerging Threats and Trends
 
@@ -189,11 +189,11 @@ This requires leadership commitment. When executives bypass security controls fo
 
 [Artificial intelligence](/artificial-intelligence) tools enable more sophisticated attacks. AI-generated phishing emails are grammatically perfect and personalized. Deepfake voice and video can impersonate executives convincingly enough to authorize fraudulent transactions. Automated tools can find and exploit vulnerabilities faster than human attackers.
 
-The defensive side uses AI too — for anomaly detection, automated threat hunting, and predictive analytics. The AI arms race between attackers and defenders will define security for the foreseeable future.
+The defensive side uses AI too — for anomaly detection, automated threat [hunting](/hunting), and predictive analytics. The AI arms race between attackers and defenders will define security for the foreseeable future.
 
 ### Supply Chain Attacks
 
-Rather than attacking your organization directly, attackers compromise a software vendor or service provider that your organization trusts. The SolarWinds attack in 2020 is the most famous example: attackers inserted malicious code into a routine software update distributed to 18,000 SolarWinds customers, including multiple U.S. government agencies.
+Rather than attacking your organization directly, attackers compromise a software vendor or service provider that your organization trusts. The SolarWinds attack in 2020 is the most famous example: attackers inserted malicious code into a routine software update distributed to 18,000 SolarWinds customers, including multiple U.S. [government](/government) agencies.
 
 Supply chain security requires evaluating the security practices of every vendor and software component in your supply chain — a daunting task given the complexity of modern software ecosystems.
 

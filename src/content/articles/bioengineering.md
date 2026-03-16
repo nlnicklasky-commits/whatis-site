@@ -35,7 +35,7 @@ faq:
 
 # What Is Bioengineering?
 
-Bioengineering is the application of engineering principles and quantitative methods to biological systems. It's the discipline that designs artificial hearts, engineers bacteria to produce insulin, develops MRI machines, builds prosthetic limbs controlled by thought, and grows replacement tissues in laboratories. If a problem involves both biology and engineering — and the solution requires understanding both — it's probably bioengineering.
+Bioengineering is the application of [engineering](/engineering) principles and quantitative methods to biological systems. It's the discipline that designs artificial hearts, engineers bacteria to produce insulin, develops MRI machines, builds prosthetic limbs controlled by thought, and grows replacement tissues in laboratories. If a problem involves both biology and engineering — and the solution requires understanding both — it's probably bioengineering.
 
 ## Where Biology Meets Engineering
 
@@ -47,15 +47,15 @@ This makes bioengineering simultaneously one of the most challenging and most ex
 
 Bioengineering is really an umbrella covering several distinct but overlapping fields:
 
-**Biomedical engineering** focuses on healthcare applications — medical devices, diagnostic equipment, prosthetics, and clinical systems. This is the largest and most visible subdiscipline.
+**Biomedical engineering** focuses on healthcare applications — medical devices, diagnostic equipment, [prosthetics](/prosthetics), and clinical systems. This is the largest and most visible subdiscipline.
 
-**Genetic engineering** manipulates DNA directly, creating modified organisms for medicine, agriculture, and industry. CRISPR-Cas9, the gene-editing tool that won Jennifer Doudna and Emmanuelle Charpentier the 2020 Nobel Prize in Chemistry, is the most powerful genetic engineering technology ever developed.
+**Genetic engineering** manipulates DNA directly, creating modified organisms for medicine, [agriculture](/agriculture), and industry. CRISPR-Cas9, the gene-[editing](/editing) tool that won Jennifer Doudna and Emmanuelle Charpentier the 2020 Nobel Prize in [Chemistry](/chemistry), is the most powerful genetic engineering technology ever developed.
 
 **Tissue engineering** grows biological tissues outside the body for transplantation or drug testing. It typically combines scaffolds (structural frameworks), cells, and growth factors.
 
-**Biomechanics** studies the mechanical properties and behavior of biological systems — from the forces on a knee joint during running to the fluid dynamics of blood flow through arteries. (This field has its [own article](/biomechanics).)
+**Biomechanics** studies the mechanical properties and behavior of biological systems — from the forces on a knee joint during [running](/running) to the [fluid dynamics](/fluid-dynamics) of blood flow through arteries. (This field has its [own article](/biomechanics).)
 
-**Bioinformatics** applies computational methods to biological data — particularly genomic, proteomic, and metabolomic datasets. It sits at the intersection of biology, [computer science](/computer-science), and statistics.
+**Bioinformatics** applies computational methods to biological data — particularly genomic, proteomic, and metabolomic datasets. It sits at the intersection of biology, [computer science](/computer-science), and [statistics](/statistics).
 
 **Neural engineering** interfaces engineered systems with the nervous system. Brain-computer interfaces, cochlear implants, and deep brain stimulation for Parkinson's disease are all neural engineering.
 
@@ -73,7 +73,7 @@ The ability to see inside the human body without cutting it open has transformed
 
 **Ultrasound** sends high-frequency sound waves into the body and measures the echoes. It's safe (no radiation), relatively cheap, portable, and real-time — which is why it's the go-to imaging method for monitoring pregnancy. Modern ultrasound can produce 3D and 4D images, measure blood flow velocity (Doppler ultrasound), and even guide needle biopsies in real time.
 
-**PET** (positron emission tomography) detects radioactive tracers injected into the body, revealing metabolic activity rather than just anatomy. Cancer cells consume glucose at higher rates than normal cells, so a radioactive glucose analog (FDG) lights up tumors on PET scans. PET-CT combination scanners overlay metabolic information on anatomical images — one of the most powerful diagnostic tools in oncology.
+**PET** (positron emission tomography) detects radioactive tracers injected into the body, revealing metabolic activity rather than just [anatomy](/anatomy). Cancer cells consume glucose at higher rates than normal cells, so a radioactive glucose analog (FDG) lights up tumors on PET scans. PET-CT combination scanners overlay metabolic information on anatomical images — one of the most powerful diagnostic tools in [oncology](/oncology).
 
 ### Therapeutic Devices
 
@@ -93,7 +93,7 @@ The basic approach involves three components:
 
 **Cells** — typically the patient's own cells (autologous) to avoid immune rejection. Stem cells are particularly valuable because they can differentiate into multiple cell types. Induced pluripotent stem cells (iPSCs), created by reprogramming adult cells back to a stem-like state (a technique that won Shinya Yamanaka the 2012 Nobel Prize), can theoretically become any cell type in the body.
 
-**Scaffolds** provide the three-dimensional structure that cells need to organize into functional tissue. Scaffolds can be synthetic polymers (like polylactic acid or polyglycolic acid), natural materials (like collagen or decellularized tissue from donor organs), or even 3D-printed structures designed with precise geometry. The scaffold must be biocompatible, provide appropriate mechanical support, and ideally degrade at a rate that matches new tissue formation.
+**Scaffolds** provide the three-dimensional structure that cells need to organize into functional tissue. Scaffolds can be synthetic polymers (like polylactic acid or polyglycolic acid), natural materials (like collagen or decellularized tissue from donor organs), or even 3D-printed structures designed with precise [geometry](/geometry). The scaffold must be biocompatible, provide appropriate mechanical support, and ideally degrade at a rate that matches new tissue formation.
 
 **Growth factors and signals** — biochemical cues that direct cell behavior. Vascular endothelial growth factor (VEGF) promotes blood vessel formation. Bone morphogenetic proteins (BMPs) stimulate bone growth. Getting the right signals to the right cells at the right time is one of the field's biggest challenges.
 
@@ -146,7 +146,7 @@ Connecting engineered devices to the nervous system is one of bioengineering's m
 
 ## Bioinformatics and [Computational Biology](/computational-biology)
 
-The explosion of biological data — from genome sequencing, proteomics, metabolomics, and clinical records — has made computation central to bioengineering. The Human Genome Project (completed in 2003) cost about $3 billion and took 13 years. Today, a human genome can be sequenced in hours for under $200.
+The explosion of biological data — from genome sequencing, [proteomics](/proteomics), metabolomics, and clinical records — has made computation central to bioengineering. The Human Genome Project (completed in 2003) cost about $3 billion and took 13 years. Today, a human genome can be sequenced in hours for under $200.
 
 This data deluge requires sophisticated [algorithms](/machine-learning) for analysis. Bioinformatics tools align DNA sequences, predict protein structures, identify disease-associated genetic variants, model metabolic networks, and analyze the microbiome — the trillions of bacteria living in and on your body.
 
@@ -156,11 +156,11 @@ Machine learning is increasingly important. Drug discovery — traditionally a 1
 
 Bioengineering raises ethical questions that most other engineering fields don't face.
 
-Gene editing in human embryos — technically possible with CRISPR — could eliminate genetic diseases but also opens the door to genetic enhancement and "designer babies." In 2018, Chinese scientist He Jiankui announced the birth of twin girls whose genomes he had edited with CRISPR, drawing near-universal condemnation from the scientific community. The experiment was premature, poorly controlled, and ethically indefensible by current standards.
+Gene editing in human embryos — technically possible with CRISPR — could eliminate genetic diseases but also opens the door to genetic enhancement and "designer babies." In 2018, Chinese scientist He Jiankui announced the birth of twin girls whose genomes he had edited with CRISPR, [drawing](/drawing) near-universal condemnation from the scientific community. The experiment was premature, poorly controlled, and ethically indefensible by current standards.
 
 Animal testing remains essential for bioengineering research but faces growing ethical scrutiny. Organoids and organ-on-chip devices — microfluidic systems that mimic organ function — are being developed partly to reduce animal use.
 
-Genetic data privacy is a real concern as genome sequencing becomes routine. Your DNA contains information about your disease risks, ancestry, and family relationships. How this data is stored, shared, and protected has significant implications for insurance, employment, and law enforcement.
+Genetic data privacy is a real concern as genome sequencing becomes routine. Your DNA contains information about your disease risks, ancestry, and family relationships. How this data is stored, shared, and protected has significant implications for [insurance](/insurance), employment, and law enforcement.
 
 Access and equity matter too. Advanced bioengineering therapies — like gene therapy for sickle cell disease (priced at $2.2 million per treatment) — are only useful if patients can actually afford them. Ensuring that bioengineering's benefits reach everyone, not just the wealthy, is a challenge the field hasn't yet solved.
 
@@ -168,4 +168,4 @@ Access and equity matter too. Advanced bioengineering therapies — like gene th
 
 The convergence of biology, engineering, and computation is accelerating. Within the next decade, expect to see wider deployment of AI-designed drugs, broader clinical use of gene therapies, more sophisticated brain-computer interfaces, and increasingly complex engineered tissues. The tools are getting better, the data is getting richer, and the boundaries between biological and engineered systems are getting blurrier.
 
-That blurring is both the promise and the challenge. Bioengineering has the potential to cure diseases that have plagued humanity for millennia, extend healthy lifespans, and repair bodies in ways that seemed impossible a generation ago. Getting there responsibly — with attention to safety, ethics, and access — is the engineering problem beneath all the other engineering problems.
+That blurring is both the promise and the challenge. Bioengineering has the potential to cure diseases that have plagued humanity for millennia, extend healthy lifespans, and repair bodies in ways that seemed impossible a generation ago. Getting there responsibly — with attention to safety, [ethics](/ethics), and access — is the engineering problem beneath all the other engineering problems.

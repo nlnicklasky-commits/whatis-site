@@ -41,7 +41,7 @@ Ecology is the branch of [biology](/biology) that studies the relationships betw
 
 ## Ecology Is Not What Most People Think It Is
 
-When people hear "ecology," they often picture tree-hugging or recycling campaigns. That's environmentalism, and while the two overlap, they're different things. Ecology is a hard science. It involves [differential equations](/differential-equations), statistical models, isotope analysis, and years of fieldwork counting organisms in the mud. It's chemistry, physics, and [mathematics](/applied-mathematics) applied to living systems.
+When people hear "ecology," they often picture tree-hugging or [recycling](/recycling) campaigns. That's environmentalism, and while the two overlap, they're different things. Ecology is a hard science. It involves [differential equations](/differential-equations), statistical models, isotope analysis, and years of fieldwork counting organisms in the mud. It's [chemistry](/chemistry), [physics](/physics), and [mathematics](/applied-mathematics) applied to living systems.
 
 Ernst Haeckel coined the term in 1866, but ecology as a formal discipline didn't really take off until the early 20th century. Charles Elton's 1927 book *Animal Ecology* introduced concepts like food chains, ecological niches, and population dynamics that still structure the field today.
 
@@ -55,7 +55,7 @@ Ecology operates at several nested scales. Understanding these levels is fundame
 
 How does an individual organism interact with its environment? What temperature range can it tolerate? How does it find food? How does it respond to predators?
 
-A desert lizard, for instance, regulates its body temperature through behavior—basking in morning sun to warm up, retreating to shade when overheated. Its physiology, morphology, and behavior are all shaped by millions of years of adaptation to its specific environment. Organismal ecology studies these adaptations and the physiological limits that constrain where organisms can live.
+A desert lizard, for instance, regulates its body temperature through behavior—basking in morning sun to warm up, retreating to shade when overheated. Its [physiology](/physiology), morphology, and behavior are all shaped by millions of years of adaptation to its specific environment. Organismal ecology studies these adaptations and the physiological limits that constrain where organisms can live.
 
 ### Population Ecology
 
@@ -65,7 +65,7 @@ The math here is surprisingly elegant. The simplest model: a population grows ex
 
 But real populations are messier. Predator-prey cycles create oscillations. The classic example: Canadian lynx and snowshoe hare populations, tracked through fur trading records going back to the 1840s, cycle with a roughly 10-year period. Hare numbers boom, providing abundant food for lynx. Lynx numbers boom. Lynx eat most of the hares. Hare numbers crash. Lynx starve. Lynx numbers crash. Hares recover. Repeat.
 
-Disease outbreaks, random catastrophes, genetic bottlenecks, and migration all add complexity. Population ecology tries to predict when populations will grow, when they'll decline, and when they'll go extinct—questions with obvious practical importance for [conservation](/conservation-biology), fisheries management, and pest control.
+Disease outbreaks, random catastrophes, genetic bottlenecks, and migration all add complexity. Population ecology tries to predict when populations will grow, when they'll decline, and when they'll go extinct—questions with obvious practical importance for [conservation](/conservation-biology), fisheries [management](/management), and pest control.
 
 ### Community Ecology
 
@@ -85,7 +85,7 @@ An ecosystem includes all the living organisms in an area *plus* their physical 
 
 Energy enters most ecosystems through photosynthesis. Plants capture about 1% of incoming solar energy and convert it to biomass. Herbivores eat the plants, capturing roughly 10% of the energy stored in plant tissue. Predators eat the herbivores, capturing another 10%. This is the 10% rule—a rough approximation that explains why food chains rarely exceed 4-5 levels. There simply isn't enough energy left to support another trophic level.
 
-Nutrient cycling is equally fundamental. Carbon, nitrogen, phosphorus, and water cycle continuously between living organisms, the atmosphere, water, and soil. The carbon cycle, in particular, has become one of the most studied topics in all of science because human activities—burning fossil fuels, deforestation—have significantly altered it, increasing atmospheric CO2 by about 50% since preindustrial times.
+Nutrient [cycling](/cycling) is equally fundamental. Carbon, nitrogen, phosphorus, and water cycle continuously between living organisms, the atmosphere, water, and soil. The carbon cycle, in particular, has become one of the most studied topics in all of science because human activities—burning fossil fuels, deforestation—have significantly altered it, increasing atmospheric CO2 by about 50% since preindustrial times.
 
 ### Field and Global Ecology
 
@@ -101,9 +101,9 @@ Current estimates suggest 8-10 million eukaryotic species exist on Earth, of whi
 
 Why does biodiversity matter beyond its intrinsic value? Several reasons:
 
-**Ecosystem stability.** More diverse ecosystems tend to be more stable and more resilient to disturbance. David Tilman's long-running grassland experiments at Cedar Creek, Minnesota, have demonstrated this conclusively—plots with more plant species produce more biomass, resist drought better, and recover faster from disturbance.
+**Ecosystem stability.** More diverse ecosystems tend to be more stable and more resilient to disturbance. David Tilman's long-[running](/running) grassland experiments at Cedar Creek, Minnesota, have demonstrated this conclusively—plots with more plant species produce more biomass, resist drought better, and recover faster from disturbance.
 
-**Ecosystem services.** Natural ecosystems provide services worth an estimated $125-145 trillion per year globally (as of a 2014 estimate)—pollination, [water purification](/water-purification), flood control, carbon storage, soil formation. Losing biodiversity degrades these services.
+**Ecosystem services.** Natural ecosystems provide services worth an estimated $125-145 trillion per year globally (as of a 2014 estimate)—[pollination](/pollination), [water purification](/water-purification), flood control, carbon storage, soil formation. Losing biodiversity degrades these services.
 
 **Genetic resources.** About 50% of pharmaceuticals are derived from or inspired by natural compounds. The anticancer drug taxol comes from Pacific yew trees. The antibiotic vancomycin was discovered in a soil bacterium. Every species that goes extinct takes its unique genetic information—and potential medical, agricultural, or industrial applications—with it.
 
@@ -147,9 +147,9 @@ Ecology in the 2020s looks very different from ecology in the 1960s.
 
 **Restoration ecology.** Going beyond conservation (protecting what exists), restoration ecology aims to rebuild degraded ecosystems. The Loess Plateau restoration in China transformed 35,000 square kilometers of eroded, barren land back into productive, biodiverse landscapes over 20 years—one of the largest ecological restoration projects ever attempted.
 
-**Disease ecology.** COVID-19 made the connection between ecology and human health painfully obvious. Zoonotic diseases—those jumping from animals to humans—are more likely where human activities bring people into close contact with wildlife, particularly through habitat destruction and wildlife trade. Understanding and predicting disease emergence requires ecological thinking.
+**Disease ecology.** COVID-19 made the connection between ecology and human health painfully obvious. Zoonotic diseases—those jumping from animals to humans—are more likely where human activities bring people into close contact with wildlife, particularly through habitat destruction and wildlife [trade](/trade). Understanding and predicting disease emergence requires ecological thinking.
 
-**Climate change ecology.** How are species, populations, and ecosystems responding to rapid climate change? Some species shift their ranges poleward or uphill. Others change their timing—blooming earlier, migrating sooner. Some can't adapt fast enough and decline. Predicting these responses is one of the most urgent challenges in modern ecology.
+**[Climate change](/climate-change) ecology.** How are species, populations, and ecosystems responding to rapid climate change? Some species shift their ranges poleward or uphill. Others change their timing—blooming earlier, migrating sooner. Some can't adapt fast enough and decline. Predicting these responses is one of the most urgent challenges in modern ecology.
 
 ## Why You Should Care About Ecology
 

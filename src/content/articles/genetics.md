@@ -59,7 +59,7 @@ But what are chromosomes made of? That question took decades to answer. In 1944,
 
 DNA is a long molecule made of two strands twisted around each other. Each strand is a chain of nucleotides, and each nucleotide contains one of four bases: adenine (A), thymine (T), guanine (G), or cytosine (C). The two strands are held together by base pairing — A always pairs with T, G always pairs with C. This complementary pairing is what makes DNA replication possible: unzip the two strands, and each acts as a template for building its partner.
 
-The human genome contains roughly 3 billion base pairs. If you stretched out all the DNA from a single cell, it would be about 2 meters long. Yet it fits inside a cell nucleus about 6 micrometers across. That's like fitting 40 kilometers of thread inside a tennis ball.
+The human genome contains roughly 3 billion base pairs. If you stretched out all the DNA from a single cell, it would be about 2 meters long. Yet it fits inside a cell nucleus about 6 micrometers across. That's like fitting 40 kilometers of thread inside a [tennis](/tennis) ball.
 
 ## How Genes Work
 
@@ -71,7 +71,7 @@ The flow of genetic information generally follows what Francis Crick called the 
 
 **[Transcription](/transcription)**: When a gene needs to be expressed, an enzyme called RNA polymerase reads the DNA template and builds a complementary messenger RNA (mRNA) molecule. This is like making a working copy of one recipe from a massive cookbook.
 
-**Translation**: The mRNA travels to ribosomes — the cell's protein-building machinery — where transfer RNA (tRNA) molecules read the mRNA three bases at a time (called codons) and deliver the corresponding amino acids. The amino acids link together to form a protein.
+**[Translation](/translation)**: The mRNA travels to ribosomes — the cell's protein-building machinery — where transfer RNA (tRNA) molecules read the mRNA three bases at a time (called codons) and deliver the corresponding amino acids. The amino acids link together to form a protein.
 
 Proteins do almost everything in your body. They form structures (like collagen in your skin), speed up [chemical reactions](/chemistry) (enzymes), carry oxygen (hemoglobin), fight infections (antibodies), and send signals between cells (hormones and neurotransmitters).
 
@@ -97,7 +97,7 @@ Mendel's simple dominant-recessive model was a starting point, but genetics turn
 
 **Codominance** means both alleles are fully expressed. People with AB blood type express both the A and B alleles simultaneously — their red blood cells carry both A and B antigens.
 
-**Polygenic traits** are controlled by many genes working together. Height, skin color, intelligence, and most traits you'd think of as "complex" fall into this category. That's why height doesn't follow a simple dominant/recessive pattern — it's influenced by hundreds of genes, each contributing a small amount, plus environmental factors like nutrition.
+**Polygenic traits** are controlled by many genes working together. Height, skin color, intelligence, and most traits you'd think of as "complex" fall into this category. That's why height doesn't follow a simple dominant/recessive pattern — it's influenced by hundreds of genes, each contributing a small amount, plus environmental factors like [nutrition](/nutrition).
 
 ### Sex-Linked Inheritance
 
@@ -115,7 +115,7 @@ A mutation is any change in the DNA sequence. They range from single-base change
 
 **Insertions and deletions** add or remove bases. If the number isn't a multiple of three, they cause a frameshift — every codon after the mutation is read wrong, usually producing a nonfunctional protein.
 
-Most mutations are neutral or harmful. But occasionally, a mutation improves an organism's fitness in its environment. These beneficial mutations are the raw material for evolution by natural selection. Over millions of years, accumulated beneficial mutations drive the diversification of life — connecting genetics directly to evolutionary [biology](/biology).
+Most mutations are neutral or harmful. But occasionally, a mutation improves an organism's [fitness](/fitness) in its environment. These beneficial mutations are the raw material for evolution by natural selection. Over millions of years, accumulated beneficial mutations drive the diversification of life — connecting genetics directly to evolutionary [biology](/biology).
 
 ### Genetic Disorders
 
@@ -140,13 +140,13 @@ Since 2003, sequencing costs have plummeted. The first human genome cost $2.7 bi
 
 ## Modern Genetics: CRISPR and Gene Editing
 
-CRISPR-Cas9 changed everything. Discovered as a bacterial immune system and adapted as a gene-editing tool in 2012 by Jennifer Doudna and Emmanuelle Charpentier (who shared the 2020 Nobel Prize in Chemistry), CRISPR lets scientists edit DNA with unprecedented precision, speed, and affordability.
+CRISPR-Cas9 changed everything. Discovered as a bacterial immune system and adapted as a gene-[editing](/editing) tool in 2012 by Jennifer Doudna and Emmanuelle Charpentier (who shared the 2020 Nobel Prize in Chemistry), CRISPR lets scientists edit DNA with unprecedented precision, speed, and affordability.
 
 The system works like molecular scissors. You design a short RNA guide that matches your target DNA sequence. The Cas9 enzyme follows this guide to the right spot and cuts both strands of the DNA. The cell's repair mechanisms then either disrupt the gene (useful for knocking out harmful genes) or insert a new sequence (useful for correcting mutations).
 
 ### Applications Already Happening
 
-**Agriculture**: CRISPR-edited crops with improved disease resistance, drought tolerance, and nutritional content are already in development or on the market. Unlike traditional GMOs, CRISPR edits can be indistinguishable from natural mutations, complicating regulatory frameworks.
+**[Agriculture](/agriculture)**: CRISPR-edited crops with improved disease resistance, drought tolerance, and nutritional content are already in development or on the market. Unlike traditional GMOs, CRISPR edits can be indistinguishable from natural mutations, complicating regulatory frameworks.
 
 **Medicine**: Clinical trials are underway using CRISPR to treat sickle cell disease, beta-thalassemia, certain cancers, and hereditary blindness. In 2023, the FDA approved the first CRISPR-based therapy — Casgevy — for sickle cell disease and transfusion-dependent beta-thalassemia.
 
@@ -164,7 +164,7 @@ Consumer genetics testing — companies like 23andMe and AncestryDNA — has bro
 
 But here's what most people miss: for common diseases, genetic risk is probabilistic, not deterministic. Having a genetic variant associated with increased heart disease risk doesn't mean you'll get heart disease. It means your risk is somewhat higher than average, all else being equal. Your diet, exercise, stress levels, and other environmental factors matter enormously.
 
-**Pharmacogenomics** — tailoring drug prescriptions to your genetic profile — is one of the most practical applications. Some people metabolize certain drugs too quickly (rendering them ineffective) or too slowly (causing dangerous buildup). Genetic testing can identify which drugs and dosages will work best for you, reducing trial-and-error prescribing.
+**Pharmacogenomics** — [tailoring](/tailoring) drug prescriptions to your genetic profile — is one of the most practical applications. Some people metabolize certain drugs too quickly (rendering them ineffective) or too slowly (causing dangerous buildup). Genetic testing can identify which drugs and dosages will work best for you, reducing trial-and-error prescribing.
 
 **Cancer genomics** is another breakthrough area. Tumors accumulate mutations as they grow, and sequencing a tumor's DNA can reveal which mutations are driving its growth. This enables targeted therapies — drugs designed to attack cells with specific mutations — which are often more effective and less toxic than traditional chemotherapy.
 
@@ -200,7 +200,7 @@ Genetics is advancing at a pace that would have been unimaginable even 20 years 
 
 **Gene drives** — genetic systems that spread through populations faster than normal inheritance — could potentially eliminate malaria-carrying mosquitoes or invasive species. They could also cause ecological catastrophe if deployed recklessly.
 
-**[Synthetic biology](/synthetic-biology)**, powered by [biotechnology](/biotechnology), is engineering entirely new genetic circuits and even creating organisms with synthetic genomes. In 2010, Craig Venter's team created the first cell controlled by a completely synthetic genome.
+**[Synthetic biology](/synthetic-biology)**, powered by [biotechnology](/biotechnology), is [engineering](/engineering) entirely new genetic circuits and even creating organisms with synthetic genomes. In 2010, Craig Venter's team created the first cell controlled by a completely synthetic genome.
 
 **Polygenic risk scores** — combining information from thousands of genetic variants — are improving predictions for complex diseases. They're not crystal balls, but they're getting better at identifying people who would benefit from early screening or preventive interventions.
 
@@ -208,4 +208,4 @@ Genetics is advancing at a pace that would have been unimaginable even 20 years 
 
 The field moves fast. What's advanced today will be routine in five years. But the fundamental principles — DNA encodes information, genes are inherited in predictable patterns, mutations drive variation, and regulation determines expression — remain the foundation everything else builds on.
 
-Understanding genetics isn't just for scientists. It affects your healthcare decisions, your understanding of ancestry, your food choices, and increasingly, [public policy](/public-policy) debates about privacy, equity, and the ethics of modifying life itself. The more you know about how your genes work, the better equipped you are to make sense of a world increasingly shaped by genetic science.
+Understanding genetics isn't just for scientists. It affects your healthcare decisions, your understanding of ancestry, your food choices, and increasingly, [public policy](/public-policy) debates about privacy, equity, and the [ethics](/ethics) of modifying life itself. The more you know about how your genes work, the better equipped you are to make sense of a world increasingly shaped by genetic science.

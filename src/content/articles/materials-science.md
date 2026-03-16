@@ -49,7 +49,7 @@ The organizing principle of materials science is straightforward: a material's p
 
 At the most fundamental level, materials behave differently because their atoms bond differently.
 
-**Metallic bonding** involves a "sea" of delocalized electrons shared among positively charged metal ions. This electron sea explains why metals conduct electricity (electrons move freely), why they're malleable (layers of atoms can slide past each other without breaking bonds), and why they're shiny (free electrons interact with light across visible wavelengths).
+**Metallic bonding** involves a "sea" of delocalized electrons shared among positively charged metal ions. This electron sea explains why metals conduct [electricity](/electricity) (electrons move freely), why they're malleable (layers of atoms can slide past each other without breaking bonds), and why they're shiny (free electrons interact with light across visible wavelengths).
 
 **Ionic bonding** transfers electrons from one atom to another, creating positively and negatively charged ions held together by electrostatic attraction. Table salt (NaCl) is the classic example. Ionic materials are hard and brittle — the crystal structure resists deformation because displacing ions puts like charges next to each other, creating strong repulsive forces.
 
@@ -57,13 +57,13 @@ At the most fundamental level, materials behave differently because their atoms 
 
 **Van der Waals forces** and **hydrogen bonds** are weaker interactions that determine properties of polymers and biological materials. The difference between a hard plastic and a soft rubber often comes down to how polymer chains interact through these secondary bonds.
 
-This atomic-level understanding connects materials science to [chemistry](/chemistry), [physics](/physics), and quantum mechanics. You can't fully understand why silicon is a semiconductor without understanding its electronic band structure, which is pure [quantum mechanics](/physics).
+This atomic-level understanding connects materials science to [chemistry](/chemistry), [physics](/physics), and [quantum mechanics](/quantum-mechanics). You can't fully understand why silicon is a semiconductor without understanding its electronic band structure, which is pure [quantum mechanics](/physics).
 
 ### Crystal Structure
 
-Most metals and ceramics are crystalline — their atoms arrange in repeating three-dimensional patterns. The specific pattern (called the crystal structure) affects properties dramatically.
+Most metals and [ceramics](/ceramics) are crystalline — their atoms arrange in repeating three-dimensional patterns. The specific pattern (called the crystal structure) affects properties dramatically.
 
-Iron at room temperature has a body-centered cubic (BCC) structure. Heat it above 912 degrees Celsius and it transforms to face-centered cubic (FCC). This structural change is why steel can be heat-treated — carbon atoms fit differently in BCC and FCC iron, and trapping carbon in the "wrong" structure creates the hardness of martensite, the basis of hardened steel.
+Iron at room temperature has a body-centered cubic (BCC) structure. Heat it above 912 degrees Celsius and it transforms to face-centered cubic (FCC). This structural change is why steel can be heat-treated — carbon atoms fit differently in BCC and FCC iron, and [trapping](/trapping) carbon in the "wrong" structure creates the hardness of martensite, the basis of hardened steel.
 
 [Crystallography](/crystallography) — the study of crystal structures — provides the tools for understanding these arrangements. X-ray diffraction, electron diffraction, and neutron diffraction reveal how atoms are arranged at scales of angstroms (tenths of nanometers).
 
@@ -87,7 +87,7 @@ Materials are conventionally grouped into four classes, each with characteristic
 
 Metals are humanity's oldest engineered materials — the Bronze Age and Iron Age are literally named after metallurgical developments. Today, metallic alloys remain the most widely used structural materials.
 
-**Steel** (iron plus carbon, often with other alloying elements) is the world's most produced metal. Annual global steel production exceeds 1.9 billion tons. Different grades serve different purposes: low-carbon steel for car bodies and construction, stainless steel (with chromium for corrosion resistance) for kitchen equipment and medical instruments, tool steel (with tungsten, vanadium, or molybdenum) for cutting tools.
+**Steel** (iron plus carbon, often with other alloying elements) is the world's most produced metal. Annual global [steel production](/steel-production) exceeds 1.9 billion tons. Different grades serve different purposes: low-carbon steel for car bodies and [construction](/construction), stainless steel (with chromium for corrosion resistance) for kitchen equipment and medical instruments, tool steel (with tungsten, vanadium, or molybdenum) for cutting tools.
 
 **Aluminum alloys** combine low density (about one-third the density of steel) with good strength, making them essential for aerospace and increasingly for automotive applications. The 7000-series aluminum alloys used in aircraft structures achieve strengths comparable to mild steel at a fraction of the weight.
 
@@ -95,11 +95,11 @@ Metals are humanity's oldest engineered materials — the Bronze Age and Iron Ag
 
 **Superalloys** (nickel-based alloys like Inconel) withstand extreme temperatures in jet engine hot sections. A turbine blade in a modern jet engine operates at temperatures above its own melting point — surviving because of internal cooling channels and thermal barrier coatings. The materials science required to make this work is remarkable.
 
-Understanding metal behavior involves thermodynamics, diffusion, phase diagrams, and deformation mechanics — core topics in both materials science and [chemical engineering](/chemical-engineering).
+Understanding metal behavior involves [thermodynamics](/thermodynamics), diffusion, phase diagrams, and deformation mechanics — core topics in both materials science and [chemical engineering](/chemical-engineering).
 
 ### Ceramics and Glasses
 
-Ceramics are inorganic, nonmetallic materials — typically oxides, carbides, or nitrides — characterized by high hardness, high melting points, and brittleness. Traditional ceramics include pottery, brick, and cement. Advanced ceramics include silicon carbide cutting tools, alumina spark plugs, and zirconia dental crowns.
+Ceramics are inorganic, nonmetallic materials — typically oxides, carbides, or nitrides — characterized by high hardness, high melting points, and brittleness. Traditional ceramics include [pottery](/pottery), brick, and cement. Advanced ceramics include silicon carbide cutting tools, alumina spark plugs, and zirconia dental crowns.
 
 The brittleness of ceramics is their main limitation. Metals deform before they break (you can bend a paper clip back and forth). Ceramics crack without warning. This makes them unreliable in tension — a tiny flaw can initiate a catastrophic fracture.
 
@@ -109,7 +109,7 @@ Glass is an amorphous ceramic — its atoms lack the ordered crystal structure o
 
 Polymers are long-chain molecules built from repeating molecular units (monomers). They include plastics, rubbers, fibers, and adhesives — materials that barely existed 150 years ago but now pervade every aspect of modern life.
 
-**Thermoplastics** (polyethylene, polypropylene, PET, nylon, polycarbonate) soften when heated and can be reshaped repeatedly. This makes them recyclable in principle, though practical recycling is complicated by contamination and property degradation.
+**Thermoplastics** (polyethylene, polypropylene, PET, nylon, polycarbonate) soften when heated and can be reshaped repeatedly. This makes them recyclable in principle, though practical [recycling](/recycling) is complicated by contamination and property degradation.
 
 **Thermosets** (epoxies, polyurethanes, vulcanized rubber) undergo irreversible chemical cross-linking during processing. They can't be re-melted, which makes them more heat-resistant than thermoplastics but not recyclable through melting.
 
@@ -141,13 +141,13 @@ Materials scientists use an arsenal of techniques to probe structure and measure
 
 **Impact testing** (Charpy, Izod) measures energy absorbed during fracture. This is critical for safety — a material can be strong in tension but brittle under impact. The Titanic's hull steel had adequate tensile strength but became brittle in cold North Atlantic water, contributing to the catastrophic failure.
 
-**Fatigue testing** subjects specimens to repeated loading to determine how many cycles a material survives before cracking. Most structural failures are fatigue failures — not sudden overload but progressive crack growth under repeated stress. Understanding fatigue requires fracture mechanics, a subfield that combines materials science with solid mechanics.
+**Fatigue testing** subjects specimens to repeated loading to determine how many cycles a material survives before cracking. Most structural failures are fatigue failures — not sudden overload but progressive crack growth under repeated stress. Understanding fatigue requires fracture mechanics, a subfield that combines materials science with [solid mechanics](/solid-mechanics).
 
 ### Microscopy
 
-**Optical microscopy** reveals microstructure after specimens are polished and etched (chemically treated to reveal grain boundaries and phases). This is the oldest and most accessible materials characterization technique.
+**Optical [microscopy](/microscopy)** reveals microstructure after specimens are polished and etched (chemically treated to reveal grain boundaries and phases). This is the oldest and most accessible materials characterization technique.
 
-**Scanning electron microscopy** (SEM) provides much higher magnification and depth of field, revealing fracture surfaces, particle morphology, and microstructural details invisible to optical microscopes. [Electron microscopy](/electron-microscopy) has been central to materials science since the mid-20th century.
+**[Scanning electron microscopy](/scanning-electron-microscopy)** (SEM) provides much higher magnification and depth of field, revealing fracture surfaces, particle morphology, and microstructural details invisible to optical microscopes. [Electron microscopy](/electron-microscopy) has been central to materials science since the mid-20th century.
 
 **Transmission electron microscopy** (TEM) achieves atomic resolution — you can literally see individual atoms and crystal defects. TEM is essential for understanding nanomaterials, precipitation-hardened alloys, and semiconductor structures.
 
@@ -155,7 +155,7 @@ Materials scientists use an arsenal of techniques to probe structure and measure
 
 X-ray diffraction identifies crystal structures, measures residual stress, and determines phase composition. It's the primary tool for determining what phases are present in a material and how they're arranged.
 
-Various spectroscopic techniques — energy-dispersive X-ray spectroscopy (EDS), X-ray photoelectron spectroscopy (XPS), Raman spectroscopy — identify chemical composition and bonding states. These are essential for research and failure analysis.
+Various spectroscopic techniques — energy-dispersive X-ray [spectroscopy](/spectroscopy) (EDS), X-ray photoelectron spectroscopy (XPS), Raman spectroscopy — identify chemical composition and bonding states. These are essential for research and failure analysis.
 
 ## Materials Science in Practice: Failure Analysis
 
@@ -172,7 +172,7 @@ The investigation typically involves:
 
 Fracture surfaces tell stories. Fatigue cracks show characteristic "beach marks" — concentric lines radiating from the initiation site. Brittle fracture shows flat, featureless cleavage surfaces. Stress corrosion cracking shows branching crack networks. A skilled failure analyst can read a fracture surface the way a geologist reads a rock formation.
 
-Famous failure analyses have changed engineering practice. The de Havilland Comet crashes (1950s) revealed metal fatigue from pressurization cycling and led to fatigue-tolerant aircraft design. The Challenger disaster (1986) involved elastomer O-rings that lost resilience at low temperature. The Deepwater Horizon explosion (2010) involved multiple material and system failures.
+Famous failure analyses have changed engineering practice. The de Havilland Comet crashes (1950s) revealed metal fatigue from pressurization [cycling](/cycling) and led to fatigue-tolerant aircraft design. The Challenger disaster (1986) involved elastomer O-rings that lost resilience at low temperature. The Deepwater Horizon explosion (2010) involved multiple material and system failures.
 
 ## The Cutting Edge: Where Materials Science Is Going
 
@@ -182,7 +182,7 @@ Materials with features at the nanometer scale (1-100 nm) often exhibit properti
 
 This happens because at the nanoscale, quantum mechanical effects and surface-to-volume ratio effects dominate. A 5-nanometer gold particle has a significant fraction of its atoms on the surface, where they behave differently than interior atoms.
 
-Nanomaterials applications include drug delivery systems (nanoparticles targeted to tumors), catalysts (high surface area for chemical reactions), electronics (quantum dots for displays), and structural materials (nanoparticle-reinforced composites).
+Nanomaterials applications include drug delivery systems (nanoparticles targeted to tumors), catalysts (high surface area for chemical reactions), [electronics](/electronics) (quantum dots for displays), and structural materials (nanoparticle-reinforced composites).
 
 ### Biomaterials
 
@@ -204,7 +204,7 @@ Materials for energy generation, storage, and conversion are among the most acti
 
 **Battery materials** (lithium-ion cathode and anode materials, solid-state electrolytes) directly affect electric vehicle range, cost, and safety. The competition to develop higher-energy-density, lower-cost, safer battery materials is intense.
 
-**Solar cell materials** (silicon, perovskites, organic photovoltaics) determine the efficiency and cost of solar energy. Perovskite solar cells have gone from 3.8% efficiency in 2009 to over 26% in 2024, one of the fastest efficiency improvements in photovoltaic history.
+**Solar cell materials** (silicon, perovskites, organic [photovoltaics](/photovoltaics)) determine the efficiency and cost of solar energy. Perovskite solar cells have gone from 3.8% efficiency in 2009 to over 26% in 2024, one of the fastest efficiency improvements in photovoltaic history.
 
 **Hydrogen economy materials** — electrocatalysts for water splitting, storage materials for hydrogen, fuel cell membranes — are critical for hydrogen-based energy systems.
 

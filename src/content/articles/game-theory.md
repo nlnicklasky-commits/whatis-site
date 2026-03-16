@@ -31,7 +31,7 @@ faq:
 
 # What Is Game Theory?
 
-Game theory is the mathematical study of strategic interactions — situations where your best choice depends on what others choose, and their best choice depends on what you choose. It's not about [board games](/board-games) or video games (though it can analyze those). It's about any scenario where multiple decision-makers affect each other's outcomes: business competition, international diplomacy, [evolutionary biology](/evolutionary-biology), poker, traffic, and even how you split a restaurant bill.
+Game theory is the mathematical study of strategic interactions — situations where your best choice depends on what others choose, and their best choice depends on what you choose. It's not about [board games](/board-games) or video games (though it can analyze those). It's about any scenario where multiple decision-makers affect each other's outcomes: business competition, international [diplomacy](/diplomacy), [evolutionary biology](/evolutionary-biology), [poker](/poker), traffic, and even how you split a restaurant bill.
 
 ## The Basic Setup
 
@@ -49,9 +49,9 @@ If both cooperate: both get 1 year in prison.
 If both defect: both get 3 years.
 If one defects and the other cooperates: the defector goes free, the cooperator gets 5 years.
 
-The logic is inescapable. Regardless of what your partner does, you're better off defecting. If they cooperate, you go free (instead of 1 year). If they defect, you get 3 years (instead of 5). So rational self-interest demands defection.
+The [logic](/logic) is inescapable. Regardless of what your partner does, you're better off defecting. If they cooperate, you go free (instead of 1 year). If they defect, you get 3 years (instead of 5). So rational self-interest demands defection.
 
-But when both follow this logic, both get 3 years — worse than the 1 year they'd each get from mutual cooperation. Individual rationality leads to collective irrationality. This paradox appears everywhere: arms races, overfishing, climate change, price wars. Each actor's rational self-interest produces an outcome that's bad for everyone.
+But when both follow this logic, both get 3 years — worse than the 1 year they'd each get from mutual cooperation. Individual rationality leads to collective irrationality. This paradox appears everywhere: arms races, overfishing, [climate change](/climate-change), price wars. Each actor's rational self-interest produces an outcome that's bad for everyone.
 
 ## Nash Equilibrium
 
@@ -59,13 +59,13 @@ John Nash (whose story was dramatized in *A Beautiful Mind*) introduced the conc
 
 In the prisoner's dilemma, mutual defection is a Nash equilibrium — neither player benefits from switching to cooperation if the other is defecting. Importantly, Nash equilibrium doesn't mean the outcome is good. It means it's stable — no individual has an incentive to deviate.
 
-Nash proved that every finite game has at least one equilibrium (possibly involving mixed strategies — randomizing between options). This was a profound result. It guaranteed that game theory could find stable predictions for any strategic situation, not just specially structured ones. Nash shared the 1994 Nobel Prize in Economics for this work.
+Nash proved that every finite game has at least one equilibrium (possibly involving mixed strategies — randomizing between options). This was a profound result. It guaranteed that game theory could find stable predictions for any strategic situation, not just specially structured ones. Nash shared the 1994 Nobel Prize in [Economics](/economics) for this work.
 
 ## Types of Games
 
-**Zero-sum games** are pure competition — one player's gain is exactly another's loss. Chess, tennis, and poker are zero-sum. Whatever I win, you lose.
+**Zero-sum games** are pure competition — one player's gain is exactly another's loss. [Chess](/chess), [tennis](/tennis), and poker are zero-sum. Whatever I win, you lose.
 
-**Non-zero-sum games** allow for mutual benefit or mutual harm. Most real-world interactions are non-zero-sum. Trade benefits both parties. Arms races harm both parties. The prisoner's dilemma is non-zero-sum (mutual cooperation benefits both; mutual defection harms both).
+**Non-zero-sum games** allow for mutual benefit or mutual harm. Most real-world interactions are non-zero-sum. [Trade](/trade) benefits both parties. Arms races harm both parties. The prisoner's dilemma is non-zero-sum (mutual cooperation benefits both; mutual defection harms both).
 
 **Cooperative games** allow players to form binding agreements and coalitions. How should a group divide the proceeds of a joint venture? Cooperative game theory provides frameworks (like the Shapley value) for fair division.
 
@@ -77,7 +77,7 @@ Nash proved that every finite game has at least one equilibrium (possibly involv
 
 **Auction design** is game theory's biggest practical success. The FCC's spectrum auctions, designed by game theorists, allocated radio frequencies to telecommunications companies using a simultaneous ascending auction format that generated over $100 billion in [government](/government) revenue. The 2020 Nobel Prize in Economics went to Paul Milgrom and Robert Wilson for their work on auction theory.
 
-**Evolutionary biology** uses game theory to explain [animal behavior](/animal-behavior). The hawk-dove game models conflict between aggressive (hawk) and peaceful (dove) strategies. John Maynard Smith's evolutionary stable strategy (ESS) concept explains why animal populations maintain a mix of aggressive and peaceful behavior.
+**Evolutionary [biology](/biology)** uses game theory to explain [animal behavior](/animal-behavior). The hawk-dove game models conflict between aggressive (hawk) and peaceful (dove) strategies. John Maynard Smith's evolutionary stable strategy (ESS) concept explains why animal populations maintain a mix of aggressive and peaceful behavior.
 
 **[Business strategy](/business-strategy)** applies game theory to pricing, market entry, product positioning, and [negotiation](/negotiation). When should you match a competitor's price cut? When should you enter a market with an established incumbent? Game theory provides frameworks for these decisions.
 

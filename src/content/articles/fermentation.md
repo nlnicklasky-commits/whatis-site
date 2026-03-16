@@ -79,15 +79,15 @@ Fermentation isn't limited to these three. Propionic acid fermentation creates t
 
 Humans have been fermenting food since before recorded history—and frankly, before they had any idea what was happening at the chemical level.
 
-The earliest confirmed evidence of fermented beverages comes from pottery jars found in Jiahu, China, dating to about 7000 BCE. Chemical analysis revealed traces of a mixed drink made from rice, honey, and fruit—fermented, naturally, by wild yeasts. Ancient Egyptians baked leavened bread and brewed beer by at least 3000 BCE. Sumerians had a goddess of beer (Ninkasi) and a hymn that doubles as a brewing recipe.
+The earliest confirmed evidence of fermented beverages comes from [pottery](/pottery) jars found in Jiahu, China, dating to about 7000 BCE. Chemical analysis revealed traces of a mixed drink made from rice, honey, and fruit—fermented, naturally, by wild yeasts. Ancient Egyptians baked leavened bread and brewed beer by at least 3000 BCE. Sumerians had a goddess of beer (Ninkasi) and a hymn that doubles as a brewing recipe.
 
 For most of this history, nobody understood why fermentation worked. Food and drink just... transformed. Grape juice became wine. Dough rose. Milk thickened into yogurt. Many cultures attributed this to divine intervention or mysterious "vital forces."
 
 The scientific understanding came in stages. In the 1830s, Charles Cagniard-Latour and Theodor Schwann independently observed that yeast were living organisms. But the dominant theory of the day—championed by Justus von Liebig—held that fermentation was purely chemical, not biological.
 
-Louis Pasteur settled the debate in the 1850s and 1860s. Through elegant experiments, he demonstrated that fermentation required living organisms. No organisms, no fermentation. He also showed that different organisms produced different products—some made alcohol, others made lactic acid. This was a breakthrough not just for food science but for [biology](/biology) and medicine. Pasteur's work on fermentation led directly to germ theory, pasteurization, and modern microbiology.
+Louis Pasteur settled the [debate](/debate) in the 1850s and 1860s. Through elegant experiments, he demonstrated that fermentation required living organisms. No organisms, no fermentation. He also showed that different organisms produced different products—some made alcohol, others made lactic acid. This was a breakthrough not just for [food science](/food-science) but for [biology](/biology) and medicine. Pasteur's work on fermentation led directly to germ theory, pasteurization, and modern [microbiology](/microbiology).
 
-Eduard Buchner added the final piece in 1897 by showing that cell-free yeast extract could still ferment sugar. The enzymes themselves did the work—you didn't need living cells, just their molecular machinery. This discovery—that biological reactions could occur outside living organisms—won him the 1907 Nobel Prize in Chemistry and helped launch [biochemistry](/biochemistry) as a field.
+Eduard Buchner added the final piece in 1897 by showing that cell-free yeast extract could still ferment sugar. The enzymes themselves did the work—you didn't need living cells, just their molecular machinery. This discovery—that biological reactions could occur outside living organisms—won him the 1907 Nobel Prize in [Chemistry](/chemistry) and helped launch [biochemistry](/biochemistry) as a field.
 
 ## Fermented Foods Around the World
 
@@ -117,7 +117,7 @@ Beyond bread and beer, grain fermentation appears worldwide. Ethiopian injera (a
 
 ### Meat and Fish Fermentation
 
-Fish sauce—ubiquitous across Southeast Asian cooking—is made by fermenting whole fish with salt for months to years. The result is a liquid packed with amino acids and an intense umami flavor. Roman garum was essentially the same product.
+Fish sauce—ubiquitous across Southeast Asian [cooking](/cooking)—is made by fermenting whole fish with salt for months to years. The result is a liquid packed with amino acids and an intense umami flavor. Roman garum was essentially the same product.
 
 Fermented sausages like salami and chorizo rely on lactic acid bacteria to lower pH, combined with salt and curing agents to prevent harmful bacterial growth. The fermentation contributes both preservation and distinctive tangy flavors.
 
@@ -149,9 +149,9 @@ The health claims around fermented foods have exploded in recent years. Some are
 
 ### What's Overhyped
 
-The claim that fermented foods "heal your gut" or "fix your microbiome" is too simplistic. Your gut microbiome is influenced by hundreds of factors—genetics, medications, overall diet, exercise, stress, sleep. Adding a daily yogurt isn't going to override everything else.
+The claim that fermented foods "heal your gut" or "fix your microbiome" is too simplistic. Your gut microbiome is influenced by hundreds of factors—[genetics](/genetics), medications, overall diet, exercise, stress, sleep. Adding a daily yogurt isn't going to override everything else.
 
-Similarly, not all fermented foods contain live cultures. Bread, beer, and wine are fermented, but the organisms are killed during baking, pasteurization, or alcohol production. Pasteurized sauerkraut has no live bacteria. If you're eating fermented foods specifically for probiotics, you need unpasteurized versions with live cultures.
+Similarly, not all fermented foods contain live cultures. Bread, beer, and wine are fermented, but the organisms are killed during [baking](/baking), pasteurization, or alcohol production. Pasteurized sauerkraut has no live bacteria. If you're eating fermented foods specifically for probiotics, you need unpasteurized versions with live cultures.
 
 The specific strains matter, too. Not all bacteria are equally beneficial, and the health effects of one *Lactobacillus* species don't automatically apply to another. This nuance often gets lost in popular health advice.
 
@@ -203,7 +203,7 @@ The common thread is that fermentation is forgiving. Unlike baking, where precis
 
 ### Safety Considerations
 
-Home fermentation is remarkably safe when basic principles are followed. Lactic acid fermentation is self-protecting—the acid environment prevents pathogenic growth. In fact, there are essentially no documented cases of food poisoning from properly fermented vegetables in the scientific literature.
+Home fermentation is remarkably safe when basic principles are followed. Lactic acid fermentation is self-protecting—the acid environment prevents pathogenic growth. In fact, there are essentially no documented cases of food poisoning from properly fermented vegetables in the scientific [literature](/literature).
 
 The main risks come from canning fermented foods (botulism risk if done improperly) and from fermenting in non-food-safe containers. Keep it simple—glass jars, clean hands, proper salt ratios—and the microorganisms will handle the rest.
 
@@ -211,11 +211,11 @@ The main risks come from canning fermented foods (botulism risk if done improper
 
 Fermentation intersects with sustainability in several ways.
 
-**[Food preservation](/food-preservation)**: Before refrigeration, fermentation was one of the only ways to preserve food through winter. With food waste (roughly 30-40% of food produced globally is wasted), fermentation offers a low-energy preservation method that extends shelf life without electricity.
+**[Food preservation](/food-preservation)**: Before [refrigeration](/refrigeration), fermentation was one of the only ways to preserve food through winter. With food waste (roughly 30-40% of food produced globally is wasted), fermentation offers a low-energy preservation method that extends shelf life without [electricity](/electricity).
 
 **Reduced processing**: Fermented foods often require less energy to produce than their industrial equivalents. Sauerkraut needs no cooking, no canning, and no refrigeration during production. The bacteria do the processing work at room temperature.
 
-**Alternative proteins**: Precision fermentation and mycoprotein production (like Quorn, which ferments *Fusarium venenatum*) could reduce agriculture's environmental footprint by producing protein with less land, water, and greenhouse gas emissions than livestock.
+**Alternative proteins**: Precision fermentation and mycoprotein production (like Quorn, which ferments *Fusarium venenatum*) could reduce [agriculture](/agriculture)'s environmental footprint by producing protein with less land, water, and greenhouse gas emissions than livestock.
 
 **Waste valorization**: Fermentation can convert agricultural waste streams into useful products. Whey from cheese production—once a disposal problem—can be fermented into bioethanol. Fruit pomace from juice production can be fermented into animal feed supplements.
 
@@ -227,7 +227,7 @@ Fermentation is experiencing a renaissance driven by both consumer interest in t
 
 **Metagenomics** is revealing the full complexity of traditional fermentations. Rather than studying individual species, researchers can now sequence all DNA in a fermented food sample, identifying hundreds of species present in tiny quantities that influence flavor in ways we're just beginning to understand.
 
-**Personalized nutrition** may eventually use fermented foods tailored to individual gut microbiomes. Early research suggests different people respond differently to the same fermented foods depending on their existing microbial communities.
+**Personalized [nutrition](/nutrition)** may eventually use fermented foods tailored to individual gut microbiomes. Early research suggests different people respond differently to the same fermented foods depending on their existing microbial communities.
 
 **Space exploration** might depend on fermentation. NASA researchers are studying fermentation as a way to produce food, medicine, and materials during long-duration space missions where resupply from Earth isn't possible.
 

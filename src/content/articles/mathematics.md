@@ -41,7 +41,7 @@ That definition sounds tidy. The reality is messier, and frankly, more interesti
 
 ## Math Is Not What You Think It Is
 
-Here's what most people get wrong about mathematics: they think it's about calculation. Adding numbers, solving equations, memorizing formulas. That's arithmetic, and it's to mathematics what spelling is to literature. Necessary? Sure. The point? Not even close.
+Here's what most people get wrong about mathematics: they think it's about calculation. Adding numbers, solving equations, memorizing formulas. That's arithmetic, and it's to mathematics what spelling is to [literature](/literature). Necessary? Sure. The point? Not even close.
 
 Real mathematics is about *reasoning*. It's about recognizing patterns, building logical arguments, and proving things are true (or impossible) with absolute certainty. No other field of human knowledge can claim that kind of certainty. Physics has experiments that might be overturned. History has evidence that can be reinterpreted. But a mathematical proof? Once it's valid, it's valid forever. The Pythagorean theorem was true 2,500 years ago and it'll be true 2,500 years from now.
 
@@ -69,13 +69,13 @@ Archimedes calculated pi to remarkable accuracy, figured out the mathematics of 
 
 While Europe was mostly occupied with other concerns, scholars in the Islamic world were inventing [algebra](/algebra). Al-Khwarizmi (whose name gives us the word "[algorithm](/algorithms)") wrote a book around 820 CE that systematized the solving of equations. The word "algebra" comes from the Arabic "al-jabr" in its title.
 
-These mathematicians also developed trigonometry, refined the decimal number system (which they'd adopted from Indian mathematicians), and introduced the concept of zero as a number. Try doing modern mathematics without zero. You can't.
+These mathematicians also developed [trigonometry](/trigonometry), refined the decimal number system (which they'd adopted from Indian mathematicians), and introduced the concept of zero as a number. Try doing modern mathematics without zero. You can't.
 
 ### Calculus and the Modern Explosion (1600s -- Present)
 
-Isaac Newton and Gottfried Leibniz independently invented [calculus](/calculus) in the late 1600s, and then spent years arguing about who did it first. (Both did, essentially. Science is funny that way.) Calculus gave humanity a mathematical language for change and motion --- and it unlocked physics, engineering, and eventually the modern world.
+Isaac Newton and Gottfried Leibniz independently invented [calculus](/calculus) in the late 1600s, and then spent years arguing about who did it first. (Both did, essentially. Science is funny that way.) Calculus gave humanity a mathematical language for change and motion --- and it unlocked physics, [engineering](/engineering), and eventually the modern world.
 
-From there, mathematics exploded. The 1800s saw the invention of non-Euclidean geometry, abstract algebra, set theory, and mathematical logic. The 1900s gave us topology, chaos theory, category theory, and computational mathematics. Today, mathematical research produces tens of thousands of new papers annually.
+From there, mathematics exploded. The 1800s saw the invention of non-Euclidean geometry, abstract algebra, set theory, and [mathematical logic](/mathematical-logic). The 1900s gave us topology, [chaos theory](/chaos-theory), category theory, and computational mathematics. Today, mathematical research produces tens of thousands of new papers annually.
 
 ## The Major Branches of Mathematics
 
@@ -83,7 +83,7 @@ Mathematics has grown so large that no single person can master all of it. Here 
 
 ### Arithmetic and Number Theory
 
-Arithmetic is the study of numbers and basic operations: addition, subtraction, multiplication, division. It's the oldest and most fundamental branch. Number theory takes this much further, studying the deep properties of integers. Questions like: which numbers are prime? How are prime numbers distributed? Can every even number greater than 2 be expressed as the sum of two primes? (That last one --- Goldbach's conjecture --- remains unproven after nearly 300 years.)
+Arithmetic is the study of numbers and basic operations: addition, subtraction, multiplication, division. It's the oldest and most fundamental branch. [Number theory](/number-theory) takes this much further, studying the deep properties of integers. Questions like: which numbers are prime? How are prime numbers distributed? Can every even number greater than 2 be expressed as the sum of two primes? (That last one --- Goldbach's conjecture --- remains unproven after nearly 300 years.)
 
 Number theory was once considered the purest of pure math, with no practical applications. Then it became the foundation of modern [cryptography](/cryptography). Every secure transaction on the internet relies on the difficulty of factoring large numbers --- a problem in number theory.
 
@@ -91,13 +91,13 @@ Number theory was once considered the purest of pure math, with no practical app
 
 [Algebra](/algebra) starts with using symbols (usually letters) to represent unknown quantities and solving equations. But modern [abstract algebra](/abstract-algebra) goes far beyond that, studying structures like groups, rings, and fields --- abstract systems that obey certain rules.
 
-Why care about abstract structures? Because the same algebraic structure shows up in wildly different contexts. The symmetries of a snowflake, the arithmetic of clock numbers, and the ways you can shuffle a deck of cards all share the same underlying mathematical structure (group theory). Finding these hidden connections is one of the most powerful things math does.
+Why care about abstract structures? Because the same algebraic structure shows up in wildly different contexts. The symmetries of a snowflake, the arithmetic of clock numbers, and the ways you can shuffle a deck of cards all share the same underlying mathematical structure ([group theory](/group-theory)). Finding these hidden connections is one of the most powerful things math does.
 
 ### Geometry and Topology
 
 [Geometry](/geometry) is the study of shapes, sizes, positions, and properties of space. Euclidean geometry covers the flat-surface stuff you learned in school. But there are also non-Euclidean geometries where parallel lines can meet (spherical geometry --- relevant for navigating on Earth) or where they diverge (hyperbolic geometry --- relevant in Einstein's general relativity).
 
-Topology is geometry's wilder cousin. It studies properties that don't change when you stretch or deform objects (without cutting or gluing). To a topologist, a coffee mug and a donut are the same object because each has exactly one hole. This isn't a joke --- it's a genuine mathematical insight that has applications in data analysis, robotics, and physics.
+Topology is geometry's wilder cousin. It studies properties that don't change when you stretch or deform objects (without cutting or gluing). To a topologist, a coffee mug and a donut are the same object because each has exactly one hole. This isn't a joke --- it's a genuine mathematical insight that has applications in [data analysis](/data-analysis), robotics, and physics.
 
 ### Calculus and Analysis
 
@@ -109,13 +109,13 @@ Analysis is the rigorous foundation underneath calculus. It's where mathematicia
 
 ### Probability and Statistics
 
-Probability quantifies uncertainty. What are the odds of an event happening? Statistics uses data to draw conclusions about the world. Together, they're the mathematical backbone of [data science](/data-science), medicine, insurance, quality control, polling, sports analytics, and increasingly, [machine learning](/machine-learning).
+Probability quantifies uncertainty. What are the odds of an event happening? Statistics uses data to draw conclusions about the world. Together, they're the mathematical backbone of [data science](/data-science), medicine, insurance, quality control, polling, [sports analytics](/sports-analytics), and increasingly, [machine learning](/machine-learning).
 
 Here's a stat that illustrates why this matters: clinical trials that determine whether drugs are safe and effective rely entirely on statistical methods. Get the statistics wrong and dangerous drugs reach patients --- or effective ones don't.
 
 ### Discrete Mathematics and Logic
 
-Discrete math deals with things you can count (as opposed to continuous quantities like lengths or temperatures). It covers combinatorics (counting arrangements), graph theory (networks of connections), and logic.
+Discrete math deals with things you can count (as opposed to continuous quantities like lengths or temperatures). It covers combinatorics (counting arrangements), [graph theory](/graph-theory) (networks of connections), and logic.
 
 Mathematical logic formalizes the rules of reasoning itself. It's where math gets genuinely philosophical. Kurt Godel proved in 1931 that any consistent mathematical system complex enough to include basic arithmetic will contain true statements that cannot be proven within that system. This Incompleteness Theorem blew a hole in the hope that mathematics could be made completely self-contained. It remains one of the most profound intellectual results of the 20th century.
 
@@ -141,7 +141,7 @@ Here's the deepest mystery in mathematics, and possibly in all of science: why d
 
 Eugene Wigner called this "the unreasonable effectiveness of mathematics" in a famous 1960 essay. Mathematical structures invented purely for abstract reasons --- with no physical motivation at all --- repeatedly turn out to describe physical phenomena with extraordinary precision.
 
-Non-Euclidean geometry was explored as a mathematical curiosity in the 1800s. Decades later, Einstein used it as the foundation of general relativity. Group theory was developed as pure algebra. It became essential for understanding particle physics. Complex numbers were considered fictional for centuries. They're now indispensable in quantum mechanics and electrical engineering.
+Non-Euclidean geometry was explored as a mathematical curiosity in the 1800s. Decades later, Einstein used it as the foundation of [general relativity](/general-relativity). Group theory was developed as pure algebra. It became essential for understanding [particle physics](/particle-physics). Complex numbers were considered fictional for centuries. They're now indispensable in [quantum mechanics](/quantum-mechanics) and [electrical engineering](/electrical-engineering).
 
 Nobody fully understands why this happens. It's one of those questions that sits at the intersection of math, physics, and philosophy, and it might never have a clean answer.
 
@@ -169,11 +169,11 @@ Beyond the Millennium Problems, there are thousands of open questions. The Goldb
 
 Computers have changed mathematics profoundly. They can check billions of cases, find counterexamples, and assist in proofs. But they haven't replaced human mathematicians --- not yet, anyway.
 
-Computer-assisted proofs are increasingly common, though some purists resist them. Automated theorem provers can verify proofs with complete rigor. Computational mathematics has become its own substantial field, and numerical methods power everything from weather forecasting to structural engineering simulations.
+Computer-assisted proofs are increasingly common, though some purists resist them. Automated theorem provers can verify proofs with complete rigor. Computational mathematics has become its own substantial field, and numerical methods power everything from weather forecasting to [structural engineering](/structural-engineering) simulations.
 
 [Machine learning](/machine-learning) is now being applied to mathematics itself. AI systems have helped discover new mathematical conjectures and find patterns in data that humans missed. Whether AI will eventually prove major theorems independently remains an open and fascinating question.
 
-Quantum computing, if it matures, could solve certain mathematical problems exponentially faster than classical computers. This would have implications for [cryptography](/cryptography), optimization, and simulation that are hard to overstate.
+[Quantum computing](/quantum-computing), if it matures, could solve certain mathematical problems exponentially faster than classical computers. This would have implications for [cryptography](/cryptography), optimization, and simulation that are hard to overstate.
 
 ## Why Learn Mathematics?
 

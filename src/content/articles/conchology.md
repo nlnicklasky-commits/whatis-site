@@ -49,7 +49,7 @@ Ancient Romans used murex shells to produce Tyrian purple dye, worth more than g
 
 Conchology as a formal discipline emerged during the Age of Enlightenment. Martin Lister published the first systematic shell catalog in 1685. George Perry, Lamarck, and later the brothers Adams produced increasingly systematic classifications through the 1700s and 1800s. Shell collecting became enormously popular in Victorian England — "conchylomania" gripped the upper classes, and rare specimens sold for staggering sums at auction.
 
-Today, conchology sits at the intersection of biology, [paleontology](/paleontology), art, and amateur naturalism. About 100,000 living mollusk species have been described, and they produce an astonishing variety of shell forms.
+Today, conchology sits at the intersection of [biology](/biology), [paleontology](/paleontology), art, and amateur naturalism. About 100,000 living mollusk species have been described, and they produce an astonishing variety of shell forms.
 
 ## What Exactly Is a Shell?
 
@@ -69,7 +69,7 @@ The organic component — about 1-5% of the shell by weight — includes protein
 
 Shells grow by accretion — the mantle adds new material at the growing edge (aperture). The mollusk can never go back and modify earlier shell growth. This means every shell is a frozen record of the animal's life history. Growth rings record seasonal changes. Damage from predator attacks appears as healed scars. Periods of slow growth during food scarcity show as tightly packed lines.
 
-Growth follows mathematical patterns. The logarithmic spiral of a nautilus shell emerges naturally from the growth process — each new chamber is proportionally larger than the last, maintaining the same shape while increasing in size. This growth pattern is so consistent that you can predict shell geometry with mathematical models.
+Growth follows mathematical patterns. The logarithmic spiral of a nautilus shell emerges naturally from the growth process — each new chamber is proportionally larger than the last, maintaining the same shape while increasing in size. This growth pattern is so consistent that you can predict shell [geometry](/geometry) with mathematical models.
 
 ## The Major Shell Types
 
@@ -107,7 +107,7 @@ The cephalopod group includes the most spectacular fossil shells and a few livin
 
 **Nautiluses** — the only living cephalopods with external shells. The chambered nautilus builds a spiral shell divided into gas-filled compartments used for buoyancy control. The animal lives in the outermost chamber and adjusts buoyancy by pumping fluid in and out of inner chambers through a tube called the siphuncle. This design inspired submarine ballast systems.
 
-Nautiluses are "living fossils" — their basic design has changed little in 500 million years. They predate dinosaurs by over 250 million years.
+Nautiluses are "living fossils" — their basic design has changed little in 500 million years. They predate [dinosaurs](/dinosaurs) by over 250 million years.
 
 **Ammonites** — extinct cephalopods with coiled shells, often spectacularly preserved as fossils. Ammonites were incredibly diverse, with species ranging from coin-sized to over 2 meters in diameter. Their elaborate suture patterns (visible where internal walls meet the outer shell) make them among the most recognizable and popular fossils.
 
@@ -119,13 +119,13 @@ Identifying shells requires examining several features:
 
 **Aperture** — the opening of a gastropod shell. Its shape, size, and features (teeth, lips, canal) are critical for identification.
 
-**Sculpture** — surface features like ribs, spines, knobs, and grooves. These can be diagnostic for specific families.
+**[Sculpture](/sculpture)** — surface features like ribs, spines, knobs, and grooves. These can be diagnostic for specific families.
 
 **Color and pattern** — while variable within species, overall pattern types (banded, spotted, zigzag) help narrow identification.
 
 **Size** — adult shell size ranges are characteristic of each species.
 
-**Habitat and geography** — where you found it matters enormously. A shell from the Caribbean belongs to a completely different species pool than a similar-looking shell from the Indo-Pacific.
+**Habitat and [geography](/geography)** — where you found it matters enormously. A shell from the Caribbean belongs to a completely different species pool than a similar-looking shell from the Indo-Pacific.
 
 Field guides, online databases (like the World Register of Marine Species), and shell clubs help with identification. The learning curve is real — there are tens of thousands of species — but starting with common local shells and building knowledge gradually is rewarding.
 
@@ -139,7 +139,7 @@ Ammonite fossils are index fossils — their rapid evolution and wide distributi
 
 ### Climate Science
 
-Shell chemistry records environmental conditions during the animal's life. The ratio of oxygen isotopes (O-16 to O-18) in shell material reflects water temperature when that part of the shell was deposited. Scientists have used long-lived bivalve shells to reconstruct ocean temperature records spanning centuries — the 507-year-old ocean quahog "Ming" contributed over five centuries of climate data from a single specimen.
+Shell [chemistry](/chemistry) records environmental conditions during the animal's life. The ratio of oxygen isotopes (O-16 to O-18) in shell material reflects water temperature when that part of the shell was deposited. Scientists have used long-lived bivalve shells to reconstruct ocean temperature records spanning centuries — the 507-year-old ocean quahog "Ming" contributed over five centuries of climate data from a single specimen.
 
 Coral and shell records have been critical for understanding past climate variability, calibrating climate models, and contextualizing modern warming.
 
@@ -161,9 +161,9 @@ Shell collecting is one of the most accessible natural history hobbies. You can 
 
 **Beach collecting** — the simplest approach. Walk the tideline after storms (which wash up more shells). Low tide exposes more specimens. Different beaches produce different species depending on substrate, currents, and nearby habitats.
 
-**Snorkeling and diving** — access living shells and deeper-water species. Underwater collecting reveals the living animal and its habitat, adding enormously to understanding.
+**[Snorkeling](/snorkeling) and [diving](/diving)** — access living shells and deeper-water species. Underwater collecting reveals the living animal and its habitat, adding enormously to understanding.
 
-**Purchase and trade** — serious collectors acquire specimens through dealers, auctions, and trades with other collectors. Rare species, exceptional specimens, and shells from remote locations command premium prices.
+**Purchase and [trade](/trade)** — serious collectors acquire specimens through dealers, auctions, and trades with other collectors. Rare species, exceptional specimens, and shells from remote locations command premium prices.
 
 ### Ethics and Conservation
 
@@ -185,11 +185,11 @@ The collection data matters more than the shell itself — a shell without prove
 
 As the ocean absorbs CO2, seawater becomes more acidic. This reduces the availability of carbonate ions that mollusks need to build shells. Studies have documented thinner shells, reduced growth rates, and increased dissolution of existing shells in more acidic waters.
 
-Pteropods — tiny swimming snails called "sea butterflies" — are particularly vulnerable. Their thin aragonite shells dissolve in conditions projected for the Southern Ocean by 2050. Since pteropods are a food source for salmon, herring, and whales, their decline would cascade through marine food webs.
+Pteropods — tiny [swimming](/swimming) snails called "sea butterflies" — are particularly vulnerable. Their thin aragonite shells dissolve in conditions projected for the Southern Ocean by 2050. Since pteropods are a food source for salmon, herring, and whales, their decline would cascade through marine food webs.
 
 ### Habitat Destruction
 
-Coastal development, pollution, and destructive fishing practices destroy mollusk habitats. Oyster reefs along the U.S. East Coast have declined by an estimated 85% from historical levels. Freshwater mussel populations — among the most endangered animals in North America — have been devastated by dam [construction](/construction), sedimentation, and pollution.
+Coastal development, pollution, and destructive [fishing](/fishing) practices destroy mollusk habitats. Oyster reefs along the U.S. East Coast have declined by an estimated 85% from historical levels. Freshwater mussel populations — among the most endangered animals in North America — have been devastated by dam [construction](/construction), sedimentation, and pollution.
 
 ### Overexploitation
 

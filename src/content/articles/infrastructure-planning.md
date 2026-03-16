@@ -43,7 +43,7 @@ If that sounds like it touches almost every part of daily life, that's because i
 
 Here's a number that might surprise you: the American Society of Civil Engineers gave US infrastructure a C- grade in 2021. Not failing, but definitely not great. An estimated 43% of public roads are in poor or mediocre condition. About 7.5% of the nation's bridges are structurally deficient. Over 2 million miles of pipes delivering water are aging and, in many places, literally crumbling underground.
 
-These aren't just statistics. A water main break in your neighborhood means no showers for a day. A bridge collapse — like the I-35W bridge in Minneapolis in 2007, which killed 13 people — means lives lost. A failing power grid, like what Texas experienced during Winter Storm Uri in 2021, can mean hundreds of deaths from cold exposure.
+These aren't just [statistics](/statistics). A water main break in your neighborhood means no showers for a day. A bridge collapse — like the I-35W bridge in Minneapolis in 2007, which killed 13 people — means lives lost. A failing power grid, like what Texas experienced during Winter Storm Uri in 2021, can mean hundreds of deaths from cold exposure.
 
 Infrastructure planning exists to prevent these outcomes. It's also the mechanism through which societies decide how to grow, where development happens, and what kind of communities people will live in decades from now.
 
@@ -63,7 +63,7 @@ Modern transportation planning increasingly considers multiple modes — not jus
 
 Every day, US water utilities deliver about 39 billion gallons of drinking water through approximately 2.2 million miles of underground pipes. Many of those pipes were installed 75 to 100 years ago. The EPA has estimated that $473 billion in investment is needed over the next 20 years just to maintain existing water infrastructure.
 
-Water planning encompasses treatment plants, distribution networks, stormwater management, and wastewater processing. It requires understanding current demand, population growth projections, climate patterns, and source water availability. In drought-prone regions like the American Southwest, water infrastructure planning is essentially survival planning.
+Water planning encompasses treatment plants, distribution networks, stormwater [management](/management), and wastewater processing. It requires understanding current demand, population growth projections, climate patterns, and source water availability. In drought-prone regions like the American Southwest, water infrastructure planning is essentially survival planning.
 
 ### Energy Infrastructure
 
@@ -73,7 +73,7 @@ Energy infrastructure planning now faces a massive transition challenge: moving 
 
 ### Digital and Telecommunications Infrastructure
 
-Broadband internet has become as essential as electricity. The COVID-19 pandemic made this painfully clear — families without reliable internet couldn't access remote schooling or work. The FCC estimated in 2021 that about 14.5 million Americans lacked access to broadband, though independent analyses suggested the real number was much higher.
+Broadband internet has become as essential as [electricity](/electricity). The COVID-19 pandemic made this painfully clear — families without reliable internet couldn't access remote schooling or work. The FCC estimated in 2021 that about 14.5 million Americans lacked access to broadband, though independent analyses suggested the real number was much higher.
 
 Planning for digital infrastructure involves fiber optic networks, cell towers, data centers, and the emerging 5G ecosystem. It also requires policy decisions about net neutrality, spectrum allocation, and whether internet access should be treated as a public utility.
 
@@ -149,13 +149,13 @@ Infrastructure planners today face challenges that didn't exist even 20 years ag
 
 ### Climate Adaptation
 
-Climate change is forcing a fundamental rethinking of infrastructure design standards. Roads and bridges designed for historical weather patterns now face more extreme heat, heavier rainfall, rising sea levels, and stronger storms. Coastal infrastructure worth hundreds of billions of dollars may need to be relocated or hardened against storm surge.
+[Climate change](/climate-change) is forcing a fundamental rethinking of infrastructure design standards. Roads and bridges designed for historical weather patterns now face more extreme heat, heavier rainfall, rising sea levels, and stronger storms. Coastal infrastructure worth hundreds of billions of dollars may need to be relocated or hardened against storm surge.
 
 [Environmental engineering](/environmental-engineering) plays a growing role in infrastructure planning — designing green infrastructure, managing stormwater with natural systems, and building resilience against climate impacts into every project.
 
 ### Aging Infrastructure
 
-Much of America's infrastructure was built during the post-World War II boom of the 1950s and 1960s. It was designed for a 50-year lifespan, and that lifespan is expiring. The challenge isn't just replacing old infrastructure — it's doing so while people continue to use it. You can't simply shut down a water main or a highway for two years while you rebuild it.
+Much of America's infrastructure was built during the post-[World War II](/world-war-ii) boom of the 1950s and 1960s. It was designed for a 50-year lifespan, and that lifespan is expiring. The challenge isn't just replacing old infrastructure — it's doing so while people continue to use it. You can't simply shut down a water main or a highway for two years while you rebuild it.
 
 ### Equity and Access
 
@@ -167,11 +167,11 @@ Modern planning frameworks increasingly incorporate equity analysis — examinin
 
 Smart city technologies — sensors, data analytics, connected vehicles, automated systems — are changing what infrastructure can do. Traffic signals that adapt in real time to traffic conditions. Water pipes with sensors that detect leaks before they become breaks. Power grids that automatically reroute around failures.
 
-Planning for smart infrastructure means thinking about digital systems alongside physical ones, managing cybersecurity risks, and ensuring technology upgrades don't leave behind communities that can't afford them.
+Planning for smart infrastructure means thinking about digital systems alongside physical ones, managing [cybersecurity](/cybersecurity) risks, and ensuring technology upgrades don't leave behind communities that can't afford them.
 
 ### Political and Institutional Challenges
 
-Infrastructure planning involves multiple levels of government, private companies, community groups, and regulatory agencies. Coordination failures are common. A state might plan a highway that a city doesn't want. A water utility's plans might conflict with environmental regulations. Federal funding requirements might not align with local priorities.
+Infrastructure planning involves multiple levels of [government](/government), private companies, community groups, and regulatory agencies. Coordination failures are common. A state might plan a highway that a city doesn't want. A water utility's plans might conflict with environmental regulations. Federal funding requirements might not align with local priorities.
 
 The political challenge is equally real. Infrastructure projects take decades but election cycles are 2 to 4 years. Long-term planning requires political commitment that often doesn't survive changes in administration.
 

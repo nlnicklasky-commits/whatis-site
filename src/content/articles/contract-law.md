@@ -45,9 +45,9 @@ Here's the thing most people don't think about: without contract law, modern com
 
 Think about it. You order something online. You're trusting that a company will actually ship what you paid for. The company trusts your credit card will actually clear. Your bank trusts the merchant's bank. The shipping company trusts it'll get paid. Every single link in that chain depends on enforceable agreements.
 
-Contract law provides the framework that makes all of this work. It gives people confidence to make promises, exchange value, and plan for the future. Without it, every transaction would require immediate, simultaneous exchange---like trading shells for fish on a beach. No credit. No long-term deals. No subscriptions, leases, employment agreements, or insurance policies.
+Contract law provides the framework that makes all of this work. It gives people confidence to make promises, exchange value, and plan for the future. Without it, every transaction would require immediate, simultaneous exchange---like trading shells for fish on a beach. No credit. No long-term deals. No subscriptions, leases, employment agreements, or [insurance](/insurance) policies.
 
-The roots go deep. Contract law principles stretch back to Roman law (around 450 BC with the Twelve Tables), through medieval merchant customs, and into the modern common law system that England exported worldwide. The Uniform Commercial Code, adopted in some form by all 50 U.S. states, standardized commercial contract rules in the 1950s. But the basic idea---that a promise backed by something of value should be enforceable---has been around for millennia.
+The roots go deep. Contract law principles stretch back to [Roman law](/roman-law) (around 450 BC with the Twelve Tables), through medieval merchant customs, and into the modern common law system that England exported worldwide. The Uniform Commercial Code, adopted in some form by all 50 U.S. states, standardized commercial contract rules in the 1950s. But the basic idea---that a promise backed by something of value should be enforceable---has been around for millennia.
 
 ## The Six Elements That Make a Contract Valid
 
@@ -67,7 +67,7 @@ The other party must agree to the exact terms offered. This is called the "mirro
 
 Under common law, acceptance must be unqualified and communicated to the offeror. The "mailbox rule" (yes, that's its actual name) says acceptance is effective when dispatched---meaning when you drop the letter in the mailbox, not when the other party receives it. Modern electronic contracting has updated these rules, but the principles remain.
 
-The Uniform Commercial Code relaxes the mirror image rule for sales of goods between merchants. Under UCC Section 2-207, an acceptance with additional or different terms can still form a contract, with the extra terms treated as proposals for additions.
+The Uniform Commercial Code relaxes the mirror image rule for [sales](/sales) of goods between merchants. Under UCC Section 2-207, an acceptance with additional or different terms can still form a contract, with the extra terms treated as proposals for additions.
 
 ### 3. Consideration
 
@@ -81,7 +81,7 @@ What doesn't count as consideration? Past actions (doing something before the pr
 
 Both parties must have the legal ability to enter a contract. This means they must be of legal age (usually 18), mentally competent, and not under the influence of substances that impair judgment.
 
-Corporations have capacity through their authorized officers. Government entities have capacity within their statutory authority. But a person suffering from severe dementia? Their contracts are voidable.
+Corporations have capacity through their authorized officers. [Government](/government) entities have capacity within their statutory authority. But a person suffering from severe dementia? Their contracts are voidable.
 
 ### 5. Legality
 
@@ -143,7 +143,7 @@ When breach happens, the injured party has several options.
 
 **Consequential damages** cover foreseeable losses that flow from the breach. If your supplier's failure to deliver parts shut down your factory, the lost profits could be consequential damages---but only if the supplier knew or should have known their breach could cause such losses.
 
-**Specific performance** is a court order requiring the breaching party to actually perform the contract. Courts reserve this for unique situations where money damages aren't adequate---typically involving real estate, rare items, or other unique goods.
+**Specific performance** is a court order requiring the breaching party to actually perform the contract. Courts reserve this for unique situations where money damages aren't adequate---typically involving [real estate](/real-estate), rare items, or other unique goods.
 
 **Liquidated damages** are pre-agreed amounts specified in the contract itself. [Construction](/construction) contracts often include them: "$500 per day for late completion." Courts enforce these if they're a reasonable estimate of anticipated harm, not a penalty.
 
@@ -171,7 +171,7 @@ Unilateral mistake (only one party is wrong) generally doesn't void a contract u
 
 ### Statute of Frauds
 
-Certain contracts must be in writing to be enforceable. The Statute of Frauds---dating back to 1677 England---requires written contracts for real estate sales, agreements that can't be performed within one year, promises to pay another's debt, contracts for goods over $500 (under the UCC), and marriage-related agreements.
+Certain contracts must be in [writing](/writing) to be enforceable. The Statute of Frauds---dating back to 1677 England---requires written contracts for real estate sales, agreements that can't be performed within one year, promises to pay another's debt, contracts for goods over $500 (under the UCC), and marriage-related agreements.
 
 The writing doesn't need to be a formal document. Courts have enforced contracts written on napkins, in emails, and even in text messages. What matters is that the essential terms are memorialized in writing and signed by the party being held to the agreement.
 
@@ -225,7 +225,7 @@ Employee handbooks can create contractual rights even when they say they don't. 
 
 ### Consumer Protection
 
-Consumer contracts are heavily regulated. The Federal Trade Commission Act prohibits unfair or deceptive practices. State consumer protection laws add additional requirements. Many jurisdictions give consumers a "cooling off period"---typically 3 days---to cancel certain contracts, especially door-to-door sales.
+Consumer contracts are heavily regulated. The Federal [Trade](/trade) Commission Act prohibits unfair or deceptive practices. State consumer protection laws add additional requirements. Many jurisdictions give consumers a "cooling off period"---typically 3 days---to cancel certain contracts, especially door-to-door sales.
 
 Truth-in-lending laws require specific disclosures in [credit-management](/credit-management) agreements. Warranty laws (both express warranties and implied warranties of merchantability) protect buyers of goods. Lemon laws protect car buyers.
 

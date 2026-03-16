@@ -39,7 +39,7 @@ Irish history is the story of an island civilization shaped by Celtic culture, e
 
 ## The Island Before the English
 
-Ireland's earliest inhabitants arrived around 10,000 BCE, Mesolithic hunter-gatherers who crossed land bridges or narrow sea channels from Britain. Farming arrived around 4000 BCE, and the Neolithic period left remarkable monuments. Newgrange, a passage tomb in County Meath built around 3200 BCE, is older than Stonehenge and the Egyptian pyramids. Its chamber aligns perfectly with the winter solstice sunrise — a feat of astronomical precision that still impresses engineers.
+Ireland's earliest inhabitants arrived around 10,000 BCE, Mesolithic hunter-gatherers who crossed land bridges or narrow sea channels from Britain. [Farming](/farming) arrived around 4000 BCE, and the Neolithic period left remarkable monuments. Newgrange, a passage tomb in County Meath built around 3200 BCE, is older than Stonehenge and the Egyptian pyramids. Its chamber aligns perfectly with the winter solstice sunrise — a feat of astronomical precision that still impresses engineers.
 
 Celtic-speaking peoples arrived sometime between 500 and 300 BCE (the exact timeline is debated). They brought the Irish language, Brehon law, and a social structure based on kinship groups (tuatha) led by local kings. Ireland was never part of the Roman Empire — which is actually significant. While Roman rule brought centralized administration, roads, and [urban planning](/urban-planning) to Britain and Gaul, Ireland developed along its own path: decentralized, rural, and organized around cattle-based economics.
 
@@ -47,7 +47,7 @@ Christianity arrived in the 5th century, traditionally associated with St. Patri
 
 ## Vikings, Normans, and the English Arrive
 
-The Viking Age hit Ireland hard beginning in 795 CE. Norse raiders attacked monasteries — rich, undefended targets — and eventually established settlements. Dublin, Waterford, Wexford, Cork, and Limerick all began as Viking trading towns. The Vikings weren't just destroyers; they connected Ireland to European trade networks and introduced urbanization to a previously rural society.
+The Viking Age hit Ireland hard beginning in 795 CE. Norse raiders attacked monasteries — rich, undefended targets — and eventually established settlements. Dublin, Waterford, Wexford, Cork, and Limerick all began as Viking trading towns. The Vikings weren't just destroyers; they connected Ireland to European [trade](/trade) networks and introduced urbanization to a previously rural society.
 
 Brian Boru, the High King of Ireland, defeated a Viking-Irish alliance at the Battle of Clontarf in 1014. It's a national legend, though the reality is more complicated — Brian was killed after the battle, and Viking influence continued for decades.
 
@@ -73,7 +73,7 @@ The immediate cause was potato blight — a fungal disease that destroyed the cr
 
 Ireland was producing enough food to feed itself. During the worst famine years, Ireland was a net exporter of food — grain, cattle, butter, and bacon left Irish ports while people starved. The colonial land system concentrated ownership among British landlords, and tenants had no legal protection against eviction. British [government](/government) relief efforts were inadequate, delayed, and sometimes deliberately limited by ideological opposition to interfering with market forces.
 
-The famine's demographic impact was staggering and lasting. Ireland's population had been about 8.2 million in 1841. By 1900, it had fallen to about 4.4 million, due to continued emigration. Ireland is the only European country whose population is lower today than it was in 1840. The famine created the Irish diaspora — massive communities in the United States, Britain, Canada, and Australia that would influence the politics and culture of their adopted countries.
+The famine's demographic impact was staggering and lasting. Ireland's population had been about 8.2 million in 1841. By 1900, it had fallen to about 4.4 million, due to continued emigration. Ireland is the only European country whose population is lower today than it was in 1840. The famine created the Irish diaspora — massive communities in the United States, Britain, Canada, and Australia that would influence the [politics](/politics) and culture of their adopted countries.
 
 The emotional and political legacy is equally enduring. Many Irish people — then and now — view the famine as an act of genocide, or at minimum, criminal negligence by the British government. This view fueled the independence movement for generations.
 
@@ -109,6 +109,6 @@ The 2008 financial crisis hit Ireland hard. A property bubble burst, banks colla
 
 ## Irish Culture and Global Influence
 
-Ireland's cultural impact vastly exceeds what you'd expect from a country of 5 million people. Irish [literature](/literature) — Joyce, Yeats, Beckett, Wilde, Heaney — shaped the [English language](/english-language) itself. Irish music, from traditional sean-nos singing to U2 and Hozier, resonates worldwide. The global Irish diaspora numbers roughly 70 million people who claim Irish ancestry, including communities that have profoundly influenced the politics, culture, and [economics](/economics) of the United States, Britain, and Australia.
+Ireland's cultural impact vastly exceeds what you'd expect from a country of 5 million people. Irish [literature](/literature) — Joyce, Yeats, Beckett, Wilde, Heaney — shaped the [English language](/english-language) itself. Irish music, from traditional sean-nos [singing](/singing) to U2 and Hozier, resonates worldwide. The global Irish diaspora numbers roughly 70 million people who claim Irish ancestry, including communities that have profoundly influenced the politics, culture, and [economics](/economics) of the United States, Britain, and Australia.
 
-St. Patrick's Day, now celebrated on every continent, is perhaps the most visible symbol of Irish cultural reach. It's also a reminder that Irish identity — shaped by language, religion, colonialism, famine, and emigration — is one of the most complex and contested national identities in the world. Understanding Irish history means understanding how a small island on Europe's western edge shaped, and was shaped by, forces far larger than itself.
+St. Patrick's Day, now celebrated on every continent, is perhaps the most visible symbol of Irish cultural reach. It's also a reminder that Irish identity — shaped by language, [religion](/religion), colonialism, famine, and emigration — is one of the most complex and contested national identities in the world. Understanding Irish history means understanding how a small island on Europe's western edge shaped, and was shaped by, forces far larger than itself.

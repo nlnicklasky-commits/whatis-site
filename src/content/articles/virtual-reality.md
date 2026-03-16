@@ -70,19 +70,19 @@ Early VR systems used simple controllers with buttons and joysticks. Modern syst
 
 The Meta Quest 3 and Apple Vision Pro can track individual finger positions, allowing you to pinch, point, grab, and gesture naturally. Eye tracking (detecting where you're looking) is becoming standard in higher-end headsets, enabling foveated rendering (sharply rendering only what you're directly looking at, saving enormous GPU power) and more natural social interaction in virtual environments.
 
-Full-body tracking — knowing where your arms, legs, and torso are — remains challenging for consumer systems. Some VR fitness and social applications use additional trackers strapped to feet, waist, and elbows, but this adds cost and complexity.
+Full-body tracking — knowing where your arms, legs, and torso are — remains challenging for consumer systems. Some VR [fitness](/fitness) and social applications use additional trackers strapped to feet, waist, and elbows, but this adds cost and complexity.
 
 ### Spatial Audio
 
 Sound completes the immersion. VR audio systems use head-related transfer functions (HRTFs) to simulate how sounds reach your ears from different directions, creating the illusion that audio sources exist at specific locations in 3D space. Turn your head toward a virtual speaker, and the sound shifts to come from straight ahead. Turn away, and it moves behind you.
 
-Room acoustics simulation adds another layer — sounds reflecting off virtual walls, echoing in large spaces, or feeling intimate in small rooms. Good spatial audio dramatically increases the sense of presence in VR.
+Room [acoustics](/acoustics) simulation adds another layer — sounds reflecting off virtual walls, echoing in large spaces, or feeling intimate in small rooms. Good spatial audio dramatically increases the sense of presence in VR.
 
 ## The Presence Problem
 
 "Presence" is the technical term for the psychological state of feeling genuinely "there" in a virtual environment. It's the holy grail of VR design, and it's surprisingly fragile.
 
-High resolution, low latency, accurate tracking, spatial audio, and consistent physics all contribute to presence. But small breaks in immersion — a frame drop, a hand passing through a virtual wall, an unconvincing texture — shatter it instantly. Your brain is incredibly good at detecting "something's off," even when you can't consciously identify what.
+High resolution, low latency, accurate tracking, spatial audio, and consistent [physics](/physics) all contribute to presence. But small breaks in immersion — a frame drop, a hand passing through a virtual wall, an unconvincing texture — shatter it instantly. Your brain is incredibly good at detecting "something's off," even when you can't consciously identify what.
 
 Research from the Stanford Virtual Human Interaction Lab has shown that strong presence in VR produces measurable physiological responses. People's heart rates increase when they stand on a virtual cliff edge. They flinch when virtual objects fly toward them. They maintain personal space boundaries around virtual characters just as they would around real people.
 
@@ -90,7 +90,7 @@ This is both VR's superpower and its responsibility. If the brain treats virtual
 
 ## Applications Beyond Gaming
 
-Gaming is VR's most visible application, and frankly, it's what drives most consumer adoption. Beat Saber, Half-Life: Alyx, and other VR titles have demonstrated that VR gaming is genuinely different from playing on a screen — not just visually, but in terms of physical engagement and emotional intensity.
+[Gaming](/gaming) is VR's most visible application, and frankly, it's what drives most consumer adoption. Beat Saber, Half-Life: Alyx, and other VR titles have demonstrated that VR gaming is genuinely different from playing on a screen — not just visually, but in terms of physical engagement and emotional intensity.
 
 But VR's most impactful applications are increasingly outside entertainment.
 
@@ -100,7 +100,7 @@ VR therapy is one of the most validated non-gaming applications. Exposure therap
 
 Clinical trials have shown VR therapy effective for treating fear of heights, spider phobia, social anxiety, and PTSD — often with results comparable to traditional exposure therapy. The advantage: no need for actual spiders, actual heights, or actual plane flights. The therapist controls the intensity precisely.
 
-VR is also used for pain management. Studies at Cedars-Sinai and other hospitals have shown that immersive VR experiences reduce pain perception by 24-52% in hospitalized patients. The distraction effect appears to work through attention — the brain has limited bandwidth for processing stimuli, and an engaging VR experience competes with pain signals.
+VR is also used for pain [management](/management). Studies at Cedars-Sinai and other hospitals have shown that immersive VR experiences reduce pain perception by 24-52% in hospitalized patients. The distraction effect appears to work through attention — the brain has limited bandwidth for processing stimuli, and an engaging VR experience competes with pain signals.
 
 Surgical training and planning use VR to let surgeons practice procedures on virtual patients before operating on real ones. Medical students can explore virtual [anatomy](/anatomy) in 3D, manipulating organs and structures that textbooks can only show in 2D cross-sections.
 
@@ -120,9 +120,9 @@ Architects can walk clients through full-scale virtual models of buildings befor
 
 ### Real Estate and Tourism
 
-Virtual property tours became mainstream during the pandemic and haven't gone away. Buyers in different cities can "walk through" homes without traveling. Luxury real estate firms create detailed VR models of high-end properties.
+Virtual property tours became mainstream during the pandemic and haven't gone away. Buyers in different cities can "walk through" homes without traveling. Luxury [real estate](/real-estate) firms create detailed VR models of high-end properties.
 
-Tourism boards and hotels use VR previews to let potential visitors experience destinations before booking. Research shows that VR previews increase booking intent by 13-67%, depending on the destination and quality of the experience.
+[Tourism](/tourism) boards and hotels use VR previews to let potential visitors experience destinations before booking. Research shows that VR previews increase booking intent by 13-67%, depending on the destination and quality of the experience.
 
 ### Social VR and Remote Work
 
@@ -146,7 +146,7 @@ The VR hardware market has consolidated around a few major players and form fact
 
 Despite impressive progress, VR faces persistent technical challenges.
 
-**The vergence-accommodation conflict.** In reality, your eyes simultaneously adjust focus (accommodation) to different distances and converge on the same point (vergence). In current VR headsets, the screen is always at a fixed distance, so your eyes accommodate to that distance regardless of the virtual object's apparent depth. This conflict causes eye strain and limits depth perception realism. Light field displays and varifocal optics aim to solve this, but commercial solutions are still years away.
+**The vergence-accommodation conflict.** In reality, your eyes simultaneously adjust focus (accommodation) to different distances and converge on the same point (vergence). In current VR headsets, the screen is always at a fixed distance, so your eyes accommodate to that distance regardless of the virtual object's apparent depth. This conflict causes eye strain and limits depth perception realism. Light field displays and varifocal [optics](/optics) aim to solve this, but commercial solutions are still years away.
 
 **Field of view.** Human peripheral vision spans about 220 degrees. Most VR headsets offer 90-120 degrees. The "scuba mask" effect of limited FOV constantly reminds your brain that you're in a headset. Wider FOV requires larger lenses, more display area, and more rendering power — it's an ongoing trade-off.
 

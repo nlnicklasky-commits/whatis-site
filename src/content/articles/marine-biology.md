@@ -69,7 +69,7 @@ Ocean temperature ranges from about -2 degrees Celsius in polar waters (seawater
 
 Ocean currents — driven by wind, temperature differences, salinity differences, and Earth's rotation — transport heat, nutrients, larvae, and pollutants across entire ocean basins. The Gulf Stream moves warm water from the Caribbean to northwestern Europe, making Britain's climate dramatically milder than Labrador's despite similar latitudes. Upwelling currents bring nutrient-rich deep water to the surface, fueling some of the ocean's most productive ecosystems.
 
-These physical processes are the domain of physical oceanography, but marine biologists must understand them because they directly control where marine life can and cannot thrive.
+These physical processes are the domain of physical [oceanography](/oceanography), but marine biologists must understand them because they directly control where marine life can and cannot thrive.
 
 ## Major Marine Ecosystems
 
@@ -81,7 +81,7 @@ Coral reefs are built by tiny colonial animals (coral polyps) that secrete calci
 
 Frankly, coral reefs are in serious trouble. Ocean warming causes coral bleaching — corals expel the symbiotic algae (zooxanthellae) that provide them with food and color. Bleached corals can recover if conditions improve quickly, but prolonged or repeated bleaching kills them. The 2014-2017 global bleaching event affected over 70% of the world's coral reefs.
 
-Reef [ecology](/ecology) is extraordinarily complex. Cleaning stations where small fish remove parasites from larger fish. Symbiotic relationships between clownfish and anemones. Nocturnal feeding patterns that completely change which species are visible. Spawning events synchronized by moonlight. Marine biologists studying reefs need expertise in animal behavior, symbiosis, [genetics](/genetics), and increasingly, climate science.
+Reef [ecology](/ecology) is extraordinarily complex. Cleaning stations where small fish remove parasites from larger fish. Symbiotic relationships between clownfish and anemones. Nocturnal feeding patterns that completely change which species are visible. Spawning events synchronized by moonlight. Marine biologists studying reefs need expertise in [animal behavior](/animal-behavior), symbiosis, [genetics](/genetics), and increasingly, climate science.
 
 ### Deep Sea Ecosystems
 
@@ -113,7 +113,7 @@ This kind of cascade — where removing one species transforms an entire ecosyst
 
 ## How Marine Biologists Actually Work
 
-The public image of marine biology involves dolphins and scuba diving. The reality is more varied — and honestly, more interesting.
+The public image of marine biology involves dolphins and [scuba diving](/scuba-diving). The reality is more varied — and honestly, more interesting.
 
 ### Field Methods
 
@@ -157,11 +157,11 @@ Deoxygenation — declining dissolved oxygen — is driven by warming (warm wate
 
 ### Overfishing
 
-Approximately 34% of assessed fish stocks are overfished, according to the UN Food and Agriculture Organization. Many more stocks are fished at maximum capacity with no room for error. Overfishing doesn't just reduce fish populations — it restructures ecosystems by removing top predators, altering food webs, and sometimes triggering cascading ecological changes.
+Approximately 34% of assessed fish stocks are overfished, according to the UN Food and [Agriculture](/agriculture) Organization. Many more stocks are fished at maximum capacity with no room for error. Overfishing doesn't just reduce fish populations — it restructures ecosystems by removing top predators, altering food webs, and sometimes triggering cascading ecological changes.
 
 Bycatch — the unintentional capture of non-target species — kills millions of sharks, sea turtles, seabirds, and marine mammals annually. Destructive fishing methods like bottom trawling damage seafloor habitats that take decades or centuries to recover.
 
-The science of sustainable fisheries management draws on population [ecology](/ecology), [genetics](/genetics), economics, and political science. Marine biologists provide the biological assessments that should (but don't always) guide catch limits.
+The science of sustainable fisheries [management](/management) draws on population [ecology](/ecology), [genetics](/genetics), [economics](/economics), and [political science](/political-science). Marine biologists provide the biological assessments that should (but don't always) guide catch limits.
 
 ### Plastic Pollution
 
@@ -173,7 +173,7 @@ The full ecological impact of marine plastic pollution is still being understood
 
 Coastal development, dredging, destructive fishing, and pollution destroy critical marine habitats. Mangrove forests have lost 35% of their original extent. Seagrass meadows are declining at 7% per year in some regions. These losses eliminate nursery habitat, reduce biodiversity, and remove natural coastal protection.
 
-Marine protected areas (MPAs) — ocean equivalents of national parks — are the primary tool for habitat protection. Currently, about 8% of the global ocean is covered by MPAs, though protection levels vary enormously. The target adopted by many nations is 30% protection by 2030.
+Marine protected areas (MPAs) — ocean equivalents of [national parks](/national-parks) — are the primary tool for habitat protection. Currently, about 8% of the global ocean is covered by MPAs, though protection levels vary enormously. The target adopted by many nations is 30% protection by 2030.
 
 ## Marine Biology and Human Society
 
@@ -183,13 +183,13 @@ The ocean isn't just an ecosystem — it's the foundation of billions of livelih
 
 Ocean fisheries provide protein for over 3 billion people. [Aquaculture](/aquaculture) — farming marine and freshwater organisms — now produces more seafood than wild capture fisheries. Marine biologists work in fisheries management, aquaculture research, and seafood sustainability certification.
 
-The transition from hunting wild fish to farming them is one of the most significant shifts in human food production since the agricultural revolution. But aquaculture brings its own challenges: waste management, disease, escapees that may affect wild populations, and the need for feed inputs that may themselves come from wild-caught fish.
+The transition from hunting wild fish to farming them is one of the most significant shifts in human food production since the agricultural revolution. But aquaculture brings its own challenges: [waste management](/waste-management), disease, escapees that may affect wild populations, and the need for feed inputs that may themselves come from wild-caught fish.
 
 ### Marine Biotechnology
 
 Marine organisms produce an extraordinary diversity of chemicals — not surprising, given that life has been evolving in the ocean for 3.8 billion years. Marine-derived compounds are used in pharmaceuticals (the cancer drug Yondelis comes from sea squirts), industrial enzymes (from heat-loving vent bacteria), and biomaterials (inspired by mussel adhesion and shark skin).
 
-This field — sometimes called blue biotechnology — connects marine biology to [biochemistry](/biochemistry), pharmacology, and [biotechnology](/biotechnology). Marine natural products chemistry is one of the more commercially promising branches of marine biology.
+This field — sometimes called blue biotechnology — connects marine biology to [biochemistry](/biochemistry), [pharmacology](/pharmacology), and [biotechnology](/biotechnology). Marine natural products chemistry is one of the more commercially promising branches of marine biology.
 
 ### Climate Regulation
 
@@ -205,16 +205,16 @@ The career path in marine biology is not straightforward, and it's worth being h
 
 Most marine biologists follow this path:
 
-1. **Bachelor's degree** in marine biology, biology, ecology, or a related science. Strong quantitative skills matter — take statistics, calculus, and if possible, programming courses.
+1. **Bachelor's degree** in marine biology, biology, ecology, or a related science. Strong quantitative skills matter — take [statistics](/statistics), calculus, and if possible, programming courses.
 2. **Research experience** as an undergraduate — volunteer in a lab, do a summer research internship, work on an independent project. Graduate programs care more about research experience than GPA.
-3. **Master's degree or Ph.D.** for most career paths. A master's degree is sufficient for many applied positions (environmental consulting, fisheries management, education). A Ph.D. is required for academic research and teaching.
+3. **Master's degree or Ph.D.** for most career paths. A master's degree is sufficient for many applied positions (environmental consulting, fisheries management, [education](/education)). A Ph.D. is required for academic research and teaching.
 4. **Postdoctoral research** (often multiple positions) for academic careers. The academic job market in marine biology is extremely competitive.
 
 ### Career Realities
 
 Marine biology is a passion-driven field with more qualified candidates than positions. Funding is competitive. Salaries are modest compared to other science careers. Academic positions often require geographic flexibility.
 
-But the work itself — understanding the largest, most complex, most threatened ecosystem on the planet — attracts dedicated people who wouldn't want to do anything else. Non-academic careers in environmental consulting, government agencies (NOAA, EPA, state natural resource departments), nonprofit conservation organizations, and aquaculture offer alternatives to the academic track.
+But the work itself — understanding the largest, most complex, most threatened ecosystem on the planet — attracts dedicated people who wouldn't want to do anything else. Non-academic careers in environmental consulting, [government](/government) agencies (NOAA, EPA, state natural resource departments), nonprofit conservation organizations, and aquaculture offer alternatives to the academic track.
 
 ## The Future of Marine Biology
 
@@ -226,7 +226,7 @@ Several developments are shaping where the field is heading.
 
 **Ocean observing systems** — networks of moored instruments, drifting floats (the Argo array has nearly 4,000 floats worldwide), and satellites — provide continuous monitoring of ocean conditions. This data infrastructure enables marine biologists to study long-term trends and rapid changes in ways that weren't possible with ship-based surveys alone.
 
-**Restoration ecology** is growing as a marine biology specialization. Coral reef restoration, mangrove replanting, oyster reef construction, and seagrass reestablishment are moving from experimental to operational scale. Success rates vary, and the science of what works and what doesn't is still developing.
+**Restoration ecology** is growing as a marine biology specialization. Coral reef restoration, mangrove replanting, oyster reef [construction](/construction), and seagrass reestablishment are moving from experimental to operational scale. Success rates vary, and the science of what works and what doesn't is still developing.
 
 **Marine spatial planning** — systematically zoning ocean areas for different uses (conservation, fishing, shipping, energy production) — requires biological data that marine biologists provide. As demands on ocean space increase, planning frameworks that balance ecological and economic needs become essential.
 
@@ -234,6 +234,6 @@ Several developments are shaping where the field is heading.
 
 Marine biology studies life in Earth's largest, oldest, and least explored habitat. The ocean controls our climate, provides food for billions, generates half our oxygen, and harbors biodiversity we're only beginning to catalogue. Marine biologists work to understand these systems — and increasingly, to figure out how to keep them functioning in the face of warming, acidification, overfishing, and pollution.
 
-The field combines old-school natural history — knowing your organisms, understanding their habitats, spending time in the water — with advanced technology and quantitative analysis. It demands both the patience to spend months at sea and the analytical skill to make sense of complex datasets.
+The field combines old-school [natural history](/natural-history) — knowing your organisms, understanding their habitats, spending time in the water — with advanced technology and [quantitative analysis](/quantitative-analysis). It demands both the patience to spend months at sea and the analytical skill to make sense of complex datasets.
 
 If you find yourself drawn to the ocean, to the strangeness and beauty of organisms that live under conditions no land animal could survive, and to the urgency of understanding ecosystems that are changing faster than we can study them — marine biology might be your field. Just know going in that the reality involves more spreadsheets and grant applications than scuba tanks. But the organisms are worth it.
