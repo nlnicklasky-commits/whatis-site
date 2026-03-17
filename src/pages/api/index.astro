@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'WhatIs.site';
+const articles = await getCollection('articles');
+const categories = [...new Set(articles.map(a => a.data.category))].sort();
+---
+
+<BaseLayout
+  title="Free Definition API"
+  description="A free JSON API with 1,600+ definitions across technology, science, finance, philosophy, and more. No API key required."
+  canonicalUrl={`${siteUrl}/api`}
+>
+  <article class="max-w-3xl mx-auto px-4 py-16">
+    <h1 class="font-heading text-4xl font-bold text-gray-900 mb-4">Free Definition API</h1>
+    <p class="text-lg text-gray-600 mb-8">
+      Access {articles.length.toLocaleString()}+ definitions as structured JSON. No API key needed. Just link back to the source.
+    </p>
+
+    <div class="prose prose-lg max-w-none">
+      <h2>Quick Start</h2>
+      <p>Fetch any definition by slug:</p>
+      <pre><code>GET {siteUrl}/api/define/blockchain.json</code></pre>
+
+      <h3>Example Response</h3>
+      <pre><code>{`{
+  "term": "Blockchain",
+  "title": "What Is Blockchain?",
+  "slug": "blockchain",
+  "summary": "A blockchain is a distributed, append-only ledger...",
+  "description": "A blockchain is a distributed digital ledger...",
+  "category": "technology",
+  "tags": ["blockchain", "cryptocurrency", "distributed-ledger"],
+  "url": "${siteUrl}/blockchain",
+  "datePublished": "2026-03-06",
+  "dateModified": "2026-03-06",
+  "readingTime": 12,
+  "wordCount": 3200,
+  "faq": [
+    {
+      "question": "How does blockchain work?",
+      "answer": "A blockchain works by grouping transactions..."
+    }
+  ],
+  "attribution": {
+    "text": "Source: What Is Blockchain? — WhatIs.site",
+    "url": "${siteUrl}/blockchain",
+    "license": "Please link back to the source when citing."
+  }
+}`}</code></pre>
+
+      <h2>Response Fields</h2>
+      <table>
+        <thead>
+          <tr><th>Field</th><th>Type</th><th>Description</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><code>term</code></td><td>string</td><td>The concept name (without "What Is")</td></tr>
+          <tr><td><code>summary</code></td><td>string</td><td>First paragraph — a concise, quotable definition</td></tr>
+          <tr><td><code>description</code></td><td>string</td><td>SEO meta description (under 160 chars)</td></tr>
+          <tr><td><code>category</code></td><td>string</td><td>Topic category</td></tr>
+          <tr><td><code>tags</code></td><td>string[]</td><td>Related tags</td></tr>
+          <tr><td><code>url</code></td><td>string</td><td>Canonical URL for the full article</td></tr>
+          <tr><td><code>faq</code></td><td>object[]</td><td>Frequently asked questions and answers</td></tr>
+          <tr><td><code>attribution</code></td><td>object</td><td>Citation info — please include when using</td></tr>
+        </tbody>
+      </table>
+
+      <h2>Usage</h2>
+      <p>This API is free. All we ask is that you include a link back to <code>{siteUrl}</code> when using our definitions. Example:</p>
+      <pre><code>{`<a href="${siteUrl}/blockchain">Source: WhatIs.site</a>`}</code></pre>
+
+      <h2>Available Categories</h2>
+      <p>
+        {categories.map(c => c.replace(/-/g, ' ').replace(/\bamp\b/g, '&')).join(', ')}
+      </p>
+
+      <h2>All Slugs</h2>
+      <p>
+        There are {articles.length.toLocaleString()} definitions available. Browse the full list at
+        <a href={`${siteUrl}/llms.txt`}><code>/llms.txt</code></a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

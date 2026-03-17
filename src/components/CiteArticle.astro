@@ -1,0 +1,50 @@
+---
+interface Props {
+  title: string;
+  slug: string;
+  datePublished: string;
+  dateModified: string;
+}
+
+const { title, slug, datePublished, dateModified } = Astro.props;
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'WhatIs.site';
+
+const pubDate = new Date(datePublished);
+const modDate = new Date(dateModified);
+const accessDate = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const pubDateFormatted = pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const modDateFormatted = modDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const pubYear = pubDate.getFullYear();
+
+const url = `${siteUrl}/${slug}`;
+
+const apaCitation = `${siteName}. (${pubYear}). ${title}. Retrieved ${accessDate}, from ${url}`;
+const mlaCitation = `"${title}." ${siteName}, ${pubDateFormatted}, ${url}. Accessed ${accessDate}.`;
+const chicagoCitation = `${siteName}. "${title}." Last modified ${modDateFormatted}. ${url}.`;
+const htmlCitation = `<a href="${url}">${title}</a> — ${siteName}`;
+---
+
+<details class="mt-10 border border-gray-200 rounded-lg not-prose">
+  <summary class="cursor-pointer px-5 py-3 text-sm font-semibold text-gray-700 hover:bg-gray-50 transition-colors select-none">
+    Cite this article
+  </summary>
+  <div class="px-5 pb-5 pt-2 space-y-4 text-sm">
+    <div>
+      <p class="font-medium text-gray-600 mb-1">APA</p>
+      <code class="block bg-gray-50 rounded px-3 py-2 text-xs text-gray-800 break-all select-all">{apaCitation}</code>
+    </div>
+    <div>
+      <p class="font-medium text-gray-600 mb-1">MLA</p>
+      <code class="block bg-gray-50 rounded px-3 py-2 text-xs text-gray-800 break-all select-all">{mlaCitation}</code>
+    </div>
+    <div>
+      <p class="font-medium text-gray-600 mb-1">Chicago</p>
+      <code class="block bg-gray-50 rounded px-3 py-2 text-xs text-gray-800 break-all select-all">{chicagoCitation}</code>
+    </div>
+    <div>
+      <p class="font-medium text-gray-600 mb-1">HTML</p>
+      <code class="block bg-gray-50 rounded px-3 py-2 text-xs text-gray-800 break-all select-all">{htmlCitation}</code>
+    </div>
+  </div>
+</details>

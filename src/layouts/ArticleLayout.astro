@@ -5,6 +5,7 @@ import TableOfContents from '../components/TableOfContents.astro';
 import FAQ from '../components/FAQ.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
 import AdSlot from '../components/AdSlot.astro';
+import CiteArticle from '../components/CiteArticle.astro';
 import categories from '../data/categories.json';
 
 const { frontmatter, headings } = Astro.props;
@@ -144,6 +145,13 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
             </ul>
           </section>
         )}
+
+        <CiteArticle
+          title={frontmatter.title}
+          slug={frontmatter.slug}
+          datePublished={frontmatter.datePublished}
+          dateModified={frontmatter.dateModified}
+        />
       </div>
     </div>
 
