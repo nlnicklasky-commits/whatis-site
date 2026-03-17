@@ -1,6 +1,8 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 
+export const prerender = true;
+
 export const GET: APIRoute = async () => {
   const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
   const siteName = import.meta.env.PUBLIC_SITE_NAME || 'WhatIs.site';
@@ -8,7 +10,7 @@ export const GET: APIRoute = async () => {
   const allArticles = await getCollection('articles');
   const sorted = allArticles
     .sort((a, b) => new Date(b.data.dateModified).getTime() - new Date(a.data.dateModified).getTime())
-    .slice(0, 50); // Latest 50 articles
+    .slice(0, 50);
 
   const items = sorted.map((article) => {
     const pubDate = new Date(article.data.datePublished).toUTCString();
