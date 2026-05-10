@@ -4,5 +4,6 @@ dist/
 .astro/
 .env
 .env.local
+.secrets/
 .DS_Store
 .claude/settings.local.json

@@ -30,8 +30,12 @@ export default defineConfig({
     tailwind(),
     sitemap({
       serialize(item) {
-        // Extract slug from URL: https://whatis.site/some-slug/
         const urlPath = new URL(item.url).pathname.replace(/^\/|\/$/g, '');
+        // Strip trailing slash so sitemap URLs match canonical/og:url/JSON-LD
+        // (which the layouts emit without a trailing slash). Mismatched
+        // forms cause Google to flag sitemap entries as duplicates and
+        // suppress discovery of the rest of the site.
+        if (urlPath) item.url = item.url.replace(/\/$/, '');
         const dateModified = dateMap.get(urlPath);
         if (dateModified) {
           item.lastmod = new Date(dateModified).toISOString();
