@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1004
 tier: "3"
-relatedArticles: ["anthropology", "mythology", "indigenous-studies", "polynesian-culture"]
+relatedArticles: ["anthropology", "mythology", "polynesian-culture"]
 externalSources:
   - title: "Te Papa Tongarewa Museum of New Zealand"
     url: "https://www.tepapa.govt.nz/"

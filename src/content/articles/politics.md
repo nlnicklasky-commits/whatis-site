@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1042
 tier: "3"
-relatedArticles: ["political-science", "public-policy", "democracy", "economics", "sociology"]
+relatedArticles: ["political-science", "public-policy", "economics", "sociology"]
 externalSources:
   - title: "Britannica — Politics"
     url: "https://www.britannica.com/topic/politics"

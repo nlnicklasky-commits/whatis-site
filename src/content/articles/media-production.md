@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 902
 tier: "3"
-relatedArticles: ["film-production", "journalism", "photography", "music-production"]
+relatedArticles: ["film-production", "journalism", "music-production"]
 externalSources:
   - title: "Bureau of Labor Statistics: Film and Video Editors"
     url: "https://www.bls.gov/ooh/media-and-communication/"

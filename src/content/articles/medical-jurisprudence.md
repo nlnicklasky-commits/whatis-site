@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1656
 tier: "3"
-relatedArticles: ["anatomy", "criminal-justice", "anthropology"]
+relatedArticles: ["anatomy", "anthropology"]
 externalSources:
   - title: "National Library of Medicine - Forensic Medicine"
     url: "https://www.ncbi.nlm.nih.gov/mesh?term=forensic+medicine"

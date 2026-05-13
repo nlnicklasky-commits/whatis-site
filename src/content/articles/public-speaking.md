@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1097
 tier: "3"
-relatedArticles: ["rhetoric", "communication", "leadership", "persuasion", "writing"]
+relatedArticles: ["rhetoric", "leadership", "writing"]
 externalSources:
   - title: "Toastmasters International"
     url: "https://www.toastmasters.org/"

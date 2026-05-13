@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 957
 tier: "3"
-relatedArticles: ["public-relations", "journalism", "marketing", "writing", "communication"]
+relatedArticles: ["public-relations", "journalism", "marketing", "writing"]
 externalSources:
   - title: "AP Stylebook"
     url: "https://www.apstylebook.com/"

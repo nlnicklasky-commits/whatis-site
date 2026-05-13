@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1020
 tier: "3"
-relatedArticles: ["governance", "law", "leadership", "organizational-behavior"]
+relatedArticles: ["law", "leadership", "organizational-behavior"]
 externalSources:
   - title: "Robert's Rules of Order Official Website"
     url: "https://robertsrules.com/"

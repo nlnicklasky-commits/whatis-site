@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 8
 wordCount: 2291
 tier: "2"
-relatedArticles: ["computer-graphics", "virtual-reality", "photography", "physics", "neuroscience"]
+relatedArticles: ["computer-graphics", "virtual-reality", "physics", "neuroscience"]
 externalSources:
   - title: "Smithsonian Institution: History of 3D Imaging"
     url: "https://www.si.edu/spotlight/3d"

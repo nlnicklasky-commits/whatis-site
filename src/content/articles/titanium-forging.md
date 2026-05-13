@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 762
 tier: "3"
-relatedArticles: ["forging", "aerospace-engineering", "materials-science", "manufacturing-engineering", "metallurgy"]
+relatedArticles: ["forging", "aerospace-engineering", "materials-science", "manufacturing-engineering"]
 externalSources:
   - title: "Titanium - USGS Mineral Resources"
     url: "https://www.usgs.gov/centers/national-minerals-information-center/titanium-statistics-and-information"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 987
 tier: "3"
-relatedArticles: ["philosophy", "epistemology", "logic", "consciousness"]
+relatedArticles: ["philosophy", "epistemology", "logic"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy: Metaphysics"
     url: "https://plato.stanford.edu/entries/metaphysics/"

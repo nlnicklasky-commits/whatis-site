@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1641
 tier: "3"
-relatedArticles: ["european-history", "united-states-history", "industrial-revolution"]
+relatedArticles: ["european-history", "united-states-history"]
 externalSources:
   - title: "The National Archives (UK)"
     url: "https://www.nationalarchives.gov.uk/"

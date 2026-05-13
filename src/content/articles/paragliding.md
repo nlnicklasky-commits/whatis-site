@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1035
 tier: "3"
-relatedArticles: ["aviation", "hang-gliding", "skydiving", "adventure-sports"]
+relatedArticles: ["aviation", "skydiving"]
 externalSources:
   - title: "U.S. Hang Gliding and Paragliding Association"
     url: "https://www.ushpa.org/"

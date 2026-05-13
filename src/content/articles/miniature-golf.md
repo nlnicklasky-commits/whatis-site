@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 840
 tier: "3"
-relatedArticles: ["golf", "recreation", "entertainment", "sports"]
+relatedArticles: ["golf"]
 externalSources:
   - title: "World Minigolf Sport Federation"
     url: "https://www.minigolfsport.com/"

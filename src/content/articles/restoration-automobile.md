@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 882
 tier: "3"
-relatedArticles: ["automotive", "mechanics", "engineering", "hobbies", "welding"]
+relatedArticles: ["engineering", "welding"]
 externalSources:
   - title: "Hagerty — Classic Car Values"
     url: "https://www.hagerty.com/"

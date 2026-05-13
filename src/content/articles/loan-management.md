@@ -12,7 +12,7 @@ dateModified: "2026-03-06"
 readingTime: 9
 wordCount: 2558
 tier: "2"
-relatedArticles: ["finance", "credit-management", "financial-planning", "budgeting", "banking"]
+relatedArticles: ["finance", "credit-management", "financial-planning", "budgeting"]
 externalSources:
   - title: "Consumer Financial Protection Bureau - Loans"
     url: "https://www.consumerfinance.gov/consumer-tools/auto-loans/"

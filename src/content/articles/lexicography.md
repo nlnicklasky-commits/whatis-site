@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 904
 tier: "3"
-relatedArticles: ["linguistics", "etymology", "translation", "language"]
+relatedArticles: ["linguistics", "etymology", "translation"]
 externalSources:
   - title: "Oxford English Dictionary"
     url: "https://www.oed.com/information/about-the-oed/"

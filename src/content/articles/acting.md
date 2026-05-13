@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 5
 wordCount: 1420
 tier: "3"
-relatedArticles: ["theater", "film", "storytelling", "drama", "public-speaking"]
+relatedArticles: ["storytelling", "drama", "public-speaking"]
 externalSources:
   - title: "Britannica — Acting"
     url: "https://www.britannica.com/art/acting"

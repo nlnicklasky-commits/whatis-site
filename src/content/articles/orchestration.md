@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1000
 tier: "3"
-relatedArticles: ["classical-music", "music-theory", "opera", "composition"]
+relatedArticles: ["classical-music", "music-theory", "opera"]
 externalSources:
   - title: "Berklee Online - Orchestration"
     url: "https://online.berklee.edu/"

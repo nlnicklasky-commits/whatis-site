@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 5
 wordCount: 1294
 tier: "3"
-relatedArticles: ["theater", "drama", "screenwriting", "poetry", "prose"]
+relatedArticles: ["drama", "screenwriting", "poetry", "prose"]
 externalSources:
   - title: "Dramatists Guild of America"
     url: "https://www.dramatistsguild.com/"

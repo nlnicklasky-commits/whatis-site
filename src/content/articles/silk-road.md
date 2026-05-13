@@ -12,7 +12,7 @@ dateModified: "2026-03-06"
 readingTime: 13
 wordCount: 3490
 tier: "1"
-relatedArticles: ["roman-empire", "buddhism", "globalization", "china", "islam"]
+relatedArticles: ["buddhism", "islam"]
 externalSources:
   - title: National Geographic - The Silk Road
     url: https://www.nationalgeographic.org/article/silk-road/

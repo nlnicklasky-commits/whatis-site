@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 919
 tier: "3"
-relatedArticles: ["performing-arts", "theater", "psychology", "entertainment"]
+relatedArticles: ["psychology"]
 externalSources:
   - title: "Smithsonian: History of Magic"
     url: "https://americanhistory.si.edu/collections/subjects/magic"

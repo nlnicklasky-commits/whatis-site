@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1524
 tier: "3"
-relatedArticles: ["archaeology", "marine-biology", "conservation"]
+relatedArticles: ["archaeology", "marine-biology"]
 externalSources:
   - title: "UNESCO Convention on the Protection of Underwater Cultural Heritage"
     url: "https://www.unesco.org/en/underwater-cultural-heritage"

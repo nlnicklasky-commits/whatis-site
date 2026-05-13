@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 717
 tier: "3"
-relatedArticles: ["photography", "tourism", "visual-arts", "travel-writing", "aesthetics"]
+relatedArticles: ["tourism", "visual-arts", "travel-writing", "aesthetics"]
 externalSources:
   - title: "National Geographic - Travel Photography"
     url: "https://www.nationalgeographic.com/photography/"

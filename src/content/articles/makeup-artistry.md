@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1035
 tier: "3"
-relatedArticles: ["fashion-design", "photography", "film-production", "cosmetology"]
+relatedArticles: ["fashion-design", "film-production"]
 externalSources:
   - title: "Bureau of Labor Statistics: Makeup Artists"
     url: "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm"

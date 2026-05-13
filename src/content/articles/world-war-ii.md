@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1614
 tier: "3"
-relatedArticles: ["thirty-years-war", "cold-war", "fascism", "democracy", "nuclear-weapons"]
+relatedArticles: ["thirty-years-war"]
 externalSources:
   - title: "National WWII Museum"
     url: "https://www.nationalww2museum.org/"

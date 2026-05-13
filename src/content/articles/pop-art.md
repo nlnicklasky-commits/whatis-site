@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 967
 tier: "3"
-relatedArticles: ["modern-art", "graphic-design", "advertising", "consumerism", "contemporary-art"]
+relatedArticles: ["modern-art", "graphic-design"]
 externalSources:
   - title: "MoMA — Pop Art"
     url: "https://www.moma.org/collection/terms/pop-art"

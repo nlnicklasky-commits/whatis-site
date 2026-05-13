@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1120
 tier: "3"
-relatedArticles: ["porcelain-making", "raku-pottery", "ceramics", "sculpture", "art"]
+relatedArticles: ["porcelain-making", "raku-pottery", "ceramics", "sculpture"]
 externalSources:
   - title: "Smithsonian — Pottery and Ceramics"
     url: "https://www.si.edu/spotlight/pottery"

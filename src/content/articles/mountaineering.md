@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1122
 tier: "3"
-relatedArticles: ["rock-climbing", "hiking", "outdoor-recreation", "mountain-biking"]
+relatedArticles: ["rock-climbing", "hiking", "mountain-biking"]
 externalSources:
   - title: "American Alpine Club"
     url: "https://americanalpineclub.org/"

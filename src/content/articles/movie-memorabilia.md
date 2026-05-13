@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 973
 tier: "3"
-relatedArticles: ["film-studies", "art-collecting", "antiques", "pop-culture"]
+relatedArticles: []
 externalSources:
   - title: "Smithsonian National Museum of American History: Entertainment Collections"
     url: "https://americanhistory.si.edu/collections/subjects/entertainment"

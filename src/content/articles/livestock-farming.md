@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1018
 tier: "3"
-relatedArticles: ["agriculture", "animal-behavior", "veterinary-science", "food-science"]
+relatedArticles: ["agriculture", "animal-behavior", "food-science"]
 externalSources:
   - title: "USDA Economic Research Service: Animal Products"
     url: "https://www.ers.usda.gov/topics/animal-products/"

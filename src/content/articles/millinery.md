@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 886
 tier: "3"
-relatedArticles: ["fashion-design", "sewing", "textiles", "craftsmanship"]
+relatedArticles: ["fashion-design", "sewing"]
 externalSources:
   - title: "Victoria and Albert Museum: Hats Collection"
     url: "https://www.vam.ac.uk/collections/fashion"

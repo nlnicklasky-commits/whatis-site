@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1060
 tier: "3"
-relatedArticles: ["alternative-energy", "chemistry", "aerospace-engineering", "climate-science"]
+relatedArticles: ["alternative-energy", "chemistry", "aerospace-engineering"]
 externalSources:
   - title: "U.S. Department of Energy – Hydrogen and Fuel Cells"
     url: "https://www.energy.gov/eere/fuelcells/hydrogen-and-fuel-cell-technologies-office"

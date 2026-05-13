@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1034
 tier: "3"
-relatedArticles: ["child-development", "psychology", "education", "family-studies"]
+relatedArticles: ["child-development", "psychology", "education"]
 externalSources:
   - title: "American Academy of Pediatrics"
     url: "https://www.aap.org/"

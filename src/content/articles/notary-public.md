@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1016
 tier: "3"
-relatedArticles: ["law", "real-estate", "business-law", "legal-documents"]
+relatedArticles: ["law", "real-estate", "business-law"]
 externalSources:
   - title: "National Notary Association"
     url: "https://www.nationalnotary.org/"

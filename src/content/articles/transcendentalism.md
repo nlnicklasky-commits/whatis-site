@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 775
 tier: "3"
-relatedArticles: ["philosophy-of-education", "ethics", "american-history", "romanticism", "ecology"]
+relatedArticles: ["philosophy-of-education", "ethics", "american-history", "ecology"]
 externalSources:
   - title: "Transcendentalism - Stanford Encyclopedia of Philosophy"
     url: "https://plato.stanford.edu/entries/transcendentalism/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 925
 tier: "3"
-relatedArticles: ["performing-arts", "history", "culture", "fashion"]
+relatedArticles: []
 externalSources:
   - title: "Smithsonian - American Pageantry"
     url: "https://www.si.edu/"

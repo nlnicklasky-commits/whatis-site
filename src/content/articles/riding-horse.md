@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 904
 tier: "3"
-relatedArticles: ["equestrian", "sports", "animals", "outdoor-recreation", "fitness"]
+relatedArticles: ["fitness"]
 externalSources:
   - title: "United States Equestrian Federation"
     url: "https://www.usef.org/"

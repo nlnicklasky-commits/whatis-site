@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1054
 tier: "3"
-relatedArticles: ["exercise-science", "nutrition", "sports-medicine", "fitness"]
+relatedArticles: ["nutrition", "fitness"]
 externalSources:
   - title: "World Athletics: Marathon"
     url: "https://worldathletics.org/disciplines/road-running/marathon"

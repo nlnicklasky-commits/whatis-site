@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 5
 wordCount: 1508
 tier: "3"
-relatedArticles: ["anatomy", "nephrology", "medical-technology"]
+relatedArticles: ["anatomy", "nephrology"]
 externalSources:
   - title: "American Urological Association"
     url: "https://www.auanet.org/"

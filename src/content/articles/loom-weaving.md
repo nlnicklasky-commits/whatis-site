@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1056
 tier: "3"
-relatedArticles: ["textiles", "sewing", "knitting", "fiber-arts"]
+relatedArticles: ["sewing", "knitting"]
 externalSources:
   - title: "Handweavers Guild of America"
     url: "https://weavespindye.org/"

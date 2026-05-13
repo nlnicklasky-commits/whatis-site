@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 936
 tier: "3"
-relatedArticles: ["poetry", "literature", "fiction", "creative-writing", "journalism"]
+relatedArticles: ["poetry", "literature", "creative-writing", "journalism"]
 externalSources:
   - title: "Britannica — Prose"
     url: "https://www.britannica.com/art/prose"

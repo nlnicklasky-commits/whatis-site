@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 901
 tier: "3"
-relatedArticles: ["journalism", "politics", "satire", "illustration", "free-speech"]
+relatedArticles: ["journalism", "politics", "illustration"]
 externalSources:
   - title: "Library of Congress — Political Cartoons"
     url: "https://www.loc.gov/collections/cartoon-drawings/"

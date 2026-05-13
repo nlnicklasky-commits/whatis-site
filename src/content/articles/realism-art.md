@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 899
 tier: "3"
-relatedArticles: ["impressionism", "post-impressionism", "painting", "art-history", "photography"]
+relatedArticles: ["impressionism", "post-impressionism", "painting", "art-history"]
 externalSources:
   - title: "Metropolitan Museum of Art — Realism"
     url: "https://www.metmuseum.org/toah/hd/rlsm/hd_rlsm.htm"

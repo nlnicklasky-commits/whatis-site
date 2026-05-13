@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1027
 tier: "3"
-relatedArticles: ["bouldering", "hiking", "fitness", "outdoor-recreation", "sports"]
+relatedArticles: ["hiking", "fitness"]
 externalSources:
   - title: "American Alpine Club"
     url: "https://americanalpineclub.org/"

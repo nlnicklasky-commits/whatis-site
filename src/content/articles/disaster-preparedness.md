@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1012
 tier: "3"
-relatedArticles: ["first-aid", "community-organizing", "agriculture", "civil-engineering"]
+relatedArticles: ["first-aid", "agriculture", "civil-engineering"]
 externalSources:
   - title: "FEMA - Ready.gov"
     url: "https://www.ready.gov/"

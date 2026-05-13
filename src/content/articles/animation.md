@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1032
 tier: "3"
-relatedArticles: ["computer-graphics", "film", "art-history", "design-patterns", "motion-graphics"]
+relatedArticles: ["computer-graphics", "art-history", "design-patterns", "motion-graphics"]
 externalSources:
   - title: "Academy of Motion Picture Arts and Sciences - Animation"
     url: "https://www.oscars.org/animated-feature-film"

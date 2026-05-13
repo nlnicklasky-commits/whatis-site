@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1696
 tier: "3"
-relatedArticles: ["twentieth-century-history", "international-law", "human-rights"]
+relatedArticles: ["twentieth-century-history", "international-law"]
 externalSources:
   - title: "United Nations: History of the UN"
     url: "https://www.un.org/en/about-us/history-of-the-un"

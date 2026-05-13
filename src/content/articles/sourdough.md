@@ -12,7 +12,7 @@ dateModified: "2026-03-06"
 readingTime: 5
 wordCount: 1429
 tier: "3"
-relatedArticles: ["fermentation", "gluten", "probiotics"]
+relatedArticles: ["fermentation"]
 externalSources:
   - title: "The Sourdough Handbook by Thom Leonard"
     url: "https://www.sfbi.com"

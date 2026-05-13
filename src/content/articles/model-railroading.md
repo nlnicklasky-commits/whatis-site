@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 856
 tier: "3"
-relatedArticles: ["model-building", "engineering", "trains", "electronics"]
+relatedArticles: ["model-building", "engineering", "electronics"]
 externalSources:
   - title: "National Model Railroad Association"
     url: "https://www.nmra.org/"

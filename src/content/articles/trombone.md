@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1033
 tier: "3"
-relatedArticles: ["trumpet", "music-theory", "jazz", "orchestra", "acoustics"]
+relatedArticles: ["trumpet", "music-theory", "acoustics"]
 externalSources:
   - title: "International Trombone Association"
     url: "https://www.trombone.net/"

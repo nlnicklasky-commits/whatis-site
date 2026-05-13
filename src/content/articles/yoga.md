@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1634
 tier: "3"
-relatedArticles: ["meditation", "mindfulness", "fitness", "mental-health", "spirituality"]
+relatedArticles: ["meditation", "fitness", "mental-health"]
 externalSources:
   - title: "National Center for Complementary and Integrative Health — Yoga"
     url: "https://www.nccih.nih.gov/health/yoga-what-you-need-to-know"

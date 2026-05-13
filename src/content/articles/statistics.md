@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 9
 wordCount: 2584
 tier: "2"
-relatedArticles: ["mathematics", "data-analysis", "probability", "algorithms", "machine-learning"]
+relatedArticles: ["mathematics", "data-analysis", "algorithms", "machine-learning"]
 externalSources:
   - title: "American Statistical Association"
     url: "https://www.amstat.org/"

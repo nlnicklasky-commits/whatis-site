@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 885
 tier: "3"
-relatedArticles: ["buddhism", "linguistics", "ancient-languages", "comparative-religion"]
+relatedArticles: ["buddhism", "linguistics", "comparative-religion"]
 externalSources:
   - title: "Pali Text Society"
     url: "https://www.palitext.com/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1078
 tier: "3"
-relatedArticles: ["graphic-design", "animation", "photography", "computer-science"]
+relatedArticles: ["graphic-design", "animation", "computer-science"]
 externalSources:
   - title: "Whitney Museum - Artport"
     url: "https://whitney.org/artport"

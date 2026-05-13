@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1060
 tier: "3"
-relatedArticles: ["numismatics", "art-history", "printing", "paper-making"]
+relatedArticles: ["numismatics", "art-history", "paper-making"]
 externalSources:
   - title: "Smithsonian National Postal Museum"
     url: "https://postalmuseum.si.edu/"

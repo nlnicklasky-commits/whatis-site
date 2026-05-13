@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 955
 tier: "3"
-relatedArticles: ["hip-hop", "poetry", "music", "songwriting", "pop-music"]
+relatedArticles: ["poetry", "songwriting", "pop-music"]
 externalSources:
   - title: "Smithsonian — Hip-Hop"
     url: "https://www.si.edu/spotlight/hip-hop"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 5
 wordCount: 1327
 tier: "3"
-relatedArticles: ["geology", "earthquakes", "volcanoes", "geography", "oceanography"]
+relatedArticles: ["geology", "geography", "oceanography"]
 externalSources:
   - title: "USGS — Understanding Plate Motions"
     url: "https://pubs.usgs.gov/gip/dynamic/understanding.html"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1054
 tier: "3"
-relatedArticles: ["animal-behavior", "psychology", "education", "veterinary-science"]
+relatedArticles: ["animal-behavior", "psychology", "education"]
 externalSources:
   - title: "American Kennel Club - Training"
     url: "https://www.akc.org/expert-advice/training/"

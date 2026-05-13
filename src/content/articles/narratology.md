@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1009
 tier: "3"
-relatedArticles: ["literary-criticism", "mythology", "creative-writing", "film-studies"]
+relatedArticles: ["literary-criticism", "mythology", "creative-writing"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy: Narrative"
     url: "https://plato.stanford.edu/entries/narrative/"

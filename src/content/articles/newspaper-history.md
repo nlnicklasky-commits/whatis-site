@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1038
 tier: "3"
-relatedArticles: ["journalism", "printing-technology", "media-studies", "communication-theory"]
+relatedArticles: ["journalism", "media-studies", "communication-theory"]
 externalSources:
   - title: "Library of Congress - Chronicling America"
     url: "https://chroniclingamerica.loc.gov/"

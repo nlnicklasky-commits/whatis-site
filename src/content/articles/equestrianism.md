@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1095
 tier: "3"
-relatedArticles: ["dressage", "animal-behavior", "sports-psychology", "veterinary-science"]
+relatedArticles: ["dressage", "animal-behavior", "sports-psychology"]
 externalSources:
   - title: "International Federation for Equestrian Sports (FEI)"
     url: "https://www.fei.org/"

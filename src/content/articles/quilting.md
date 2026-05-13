@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 960
 tier: "3"
-relatedArticles: ["sewing", "textile-arts", "folk-art", "crafts", "fashion"]
+relatedArticles: ["sewing", "textile-arts", "folk-art"]
 externalSources:
   - title: "International Quilt Museum"
     url: "https://www.internationalquiltmuseum.org/"

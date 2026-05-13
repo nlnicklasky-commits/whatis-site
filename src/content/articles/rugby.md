@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1155
 tier: "3"
-relatedArticles: ["running", "rowing", "rock-climbing", "fitness", "sports"]
+relatedArticles: ["running", "rowing", "rock-climbing", "fitness"]
 externalSources:
   - title: "World Rugby"
     url: "https://www.world.rugby/"

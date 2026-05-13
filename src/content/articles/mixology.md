@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 755
 tier: "3"
-relatedArticles: ["culinary-arts", "food-science", "hospitality", "chemistry"]
+relatedArticles: ["culinary-arts", "food-science", "chemistry"]
 externalSources:
   - title: "United States Bartenders Guild"
     url: "https://www.usbg.org/"

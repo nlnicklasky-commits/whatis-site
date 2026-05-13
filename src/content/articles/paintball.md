@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 927
 tier: "3"
-relatedArticles: ["team-sports", "outdoor-recreation", "strategy-games", "adventure-sports"]
+relatedArticles: ["strategy-games"]
 externalSources:
   - title: "USA Paintball"
     url: "https://www.usapaintball.org/"

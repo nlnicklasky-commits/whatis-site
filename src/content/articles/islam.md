@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 862
 tier: "3"
-relatedArticles: ["christianity", "judaism", "comparative-religion", "indian-history"]
+relatedArticles: ["christianity", "comparative-religion", "indian-history"]
 externalSources:
   - title: "Islam – Encyclopaedia Britannica"
     url: "https://www.britannica.com/topic/Islam"

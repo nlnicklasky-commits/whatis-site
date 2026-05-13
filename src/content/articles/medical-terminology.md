@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 997
 tier: "3"
-relatedArticles: ["anatomy", "medicine", "biology", "linguistics"]
+relatedArticles: ["anatomy", "biology", "linguistics"]
 externalSources:
   - title: "National Library of Medicine: Medical Subject Headings"
     url: "https://www.nlm.nih.gov/mesh/meshhome.html"

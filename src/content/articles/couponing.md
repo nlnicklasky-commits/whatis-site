@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 954
 tier: "3"
-relatedArticles: ["budgeting", "shopping", "productivity", "home-economics"]
+relatedArticles: ["budgeting", "productivity", "home-economics"]
 externalSources:
   - title: "Bureau of Labor Statistics - Consumer Expenditures"
     url: "https://www.bls.gov/cex/"

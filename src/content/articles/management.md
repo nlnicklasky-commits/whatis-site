@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1079
 tier: "3"
-relatedArticles: ["leadership", "business-administration", "organizational-behavior", "strategy"]
+relatedArticles: ["leadership", "business-administration", "organizational-behavior"]
 externalSources:
   - title: "Harvard Business Review"
     url: "https://hbr.org/"

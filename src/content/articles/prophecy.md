@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1003
 tier: "3"
-relatedArticles: ["religion", "theology", "mythology", "bible", "philosophy"]
+relatedArticles: ["religion", "theology", "mythology", "philosophy"]
 externalSources:
   - title: "Britannica — Prophecy"
     url: "https://www.britannica.com/topic/prophecy"

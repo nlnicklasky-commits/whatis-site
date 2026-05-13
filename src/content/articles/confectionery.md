@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 945
 tier: "3"
-relatedArticles: ["baking", "cooking", "candy-making", "chocolate"]
+relatedArticles: ["baking", "cooking", "candy-making"]
 externalSources:
   - title: "National Confectioners Association"
     url: "https://www.candyusa.com/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 921
 tier: "3"
-relatedArticles: ["education", "child-development", "psychology", "pedagogy"]
+relatedArticles: ["education", "child-development", "psychology"]
 externalSources:
   - title: "American Montessori Society"
     url: "https://amshq.org/"

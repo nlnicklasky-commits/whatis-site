@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 975
 tier: "3"
-relatedArticles: ["theater", "performing-arts", "folk-art", "woodworking"]
+relatedArticles: ["folk-art", "woodworking"]
 externalSources:
   - title: "Center for Puppetry Arts"
     url: "https://www.puppet.org/"

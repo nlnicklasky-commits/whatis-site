@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 911
 tier: "3"
-relatedArticles: ["theater", "performing-arts", "comedy", "physical-comedy"]
+relatedArticles: ["comedy", "physical-comedy"]
 externalSources:
   - title: "Victoria and Albert Museum - Pantomime"
     url: "https://www.vam.ac.uk/"

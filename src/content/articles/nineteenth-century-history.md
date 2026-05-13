@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1061
 tier: "3"
-relatedArticles: ["industrial-revolution", "colonialism", "capitalism", "political-science"]
+relatedArticles: ["capitalism", "political-science"]
 externalSources:
   - title: "Library of Congress - 19th Century"
     url: "https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/"

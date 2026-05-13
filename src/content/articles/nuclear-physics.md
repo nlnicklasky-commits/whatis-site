@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1029
 tier: "3"
-relatedArticles: ["physics", "particle-physics", "chemistry", "energy"]
+relatedArticles: ["physics", "particle-physics", "chemistry"]
 externalSources:
   - title: "U.S. Department of Energy - Nuclear Physics"
     url: "https://www.energy.gov/science/np/nuclear-physics"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1131
 tier: "3"
-relatedArticles: ["physics", "geometry", "recreation", "sports", "game-theory"]
+relatedArticles: ["physics", "geometry", "game-theory"]
 externalSources:
   - title: "World Pool-Billiard Association"
     url: "https://wpa-pool.com/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 692
 tier: "3"
-relatedArticles: ["automotive-engineering", "mechanical-engineering", "motorcycle-racing", "safety"]
+relatedArticles: ["automotive-engineering", "mechanical-engineering", "motorcycle-racing"]
 externalSources:
   - title: "Motorcycle Safety Foundation"
     url: "https://www.msf-usa.org/"

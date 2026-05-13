@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 911
 tier: "3"
-relatedArticles: ["dance", "performing-arts", "ballet", "choreography"]
+relatedArticles: ["dance", "ballet"]
 externalSources:
   - title: "Library of Congress: Dance Collections"
     url: "https://www.loc.gov/collections/dance"

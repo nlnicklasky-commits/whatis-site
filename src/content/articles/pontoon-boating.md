@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1026
 tier: "3"
-relatedArticles: ["sailing", "fishing", "kayaking", "water-sports", "boating"]
+relatedArticles: ["sailing", "fishing"]
 externalSources:
   - title: "U.S. Coast Guard — Boating Safety"
     url: "https://www.uscgboating.org/"

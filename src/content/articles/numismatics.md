@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 946
 tier: "3"
-relatedArticles: ["economics", "history", "philately", "archaeology"]
+relatedArticles: ["economics", "philately", "archaeology"]
 externalSources:
   - title: "American Numismatic Association"
     url: "https://www.money.org/"

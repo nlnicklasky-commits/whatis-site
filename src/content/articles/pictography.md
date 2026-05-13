@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 910
 tier: "3"
-relatedArticles: ["philosophy-of-language", "art-history", "printing", "origami"]
+relatedArticles: ["philosophy-of-language", "art-history", "origami"]
 externalSources:
   - title: "Britannica - Pictography"
     url: "https://www.britannica.com/topic/pictography"

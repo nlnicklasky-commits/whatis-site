@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1095
 tier: "3"
-relatedArticles: ["tanning", "sewing", "fashion-design", "woodworking"]
+relatedArticles: ["sewing", "fashion-design", "woodworking"]
 externalSources:
   - title: "Smithsonian National Museum of American History: Leather"
     url: "https://americanhistory.si.edu/collections/subjects/leather"

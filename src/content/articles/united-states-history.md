@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1628
 tier: "3"
-relatedArticles: ["twentieth-century-history", "united-kingdom-history", "constitutional-law"]
+relatedArticles: ["twentieth-century-history", "united-kingdom-history"]
 externalSources:
   - title: "Library of Congress: Primary Sources in U.S. History"
     url: "https://www.loc.gov/classroom-materials/"

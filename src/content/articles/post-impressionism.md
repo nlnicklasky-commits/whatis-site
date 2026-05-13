@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1096
 tier: "3"
-relatedArticles: ["impressionism", "modern-art", "expressionism", "painting", "art-history"]
+relatedArticles: ["impressionism", "modern-art", "painting", "art-history"]
 externalSources:
   - title: "Metropolitan Museum of Art — Post-Impressionism"
     url: "https://www.metmuseum.org/toah/hd/poim/hd_poim.htm"

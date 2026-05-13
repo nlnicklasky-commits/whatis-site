@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 799
 tier: "3"
-relatedArticles: ["storytelling", "strategy-games", "game-development", "creative-writing", "fantasy"]
+relatedArticles: ["storytelling", "strategy-games", "game-development", "creative-writing"]
 externalSources:
   - title: "Tabletop RPGs - Britannica"
     url: "https://www.britannica.com/topic/role-playing-video-game"

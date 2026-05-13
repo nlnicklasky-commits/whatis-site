@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1155
 tier: "3"
-relatedArticles: ["rock-climbing", "forestry", "outdoor-recreation", "ecology", "knot-tying"]
+relatedArticles: ["rock-climbing", "forestry", "ecology", "knot-tying"]
 externalSources:
   - title: "Tree Climbers International"
     url: "https://www.treeclimbing.com/"

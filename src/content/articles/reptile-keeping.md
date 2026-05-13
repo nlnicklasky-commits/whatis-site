@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 971
 tier: "3"
-relatedArticles: ["pets", "biology", "zoology", "animal-behavior", "nature"]
+relatedArticles: ["biology", "zoology", "animal-behavior"]
 externalSources:
   - title: "Association of Reptilian and Amphibian Veterinarians"
     url: "https://arav.org/"

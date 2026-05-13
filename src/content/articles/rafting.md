@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 932
 tier: "3"
-relatedArticles: ["kayaking", "canoeing", "water-sports", "outdoor-recreation", "swimming"]
+relatedArticles: ["canoeing", "swimming"]
 externalSources:
   - title: "American Whitewater"
     url: "https://www.americanwhitewater.org/"

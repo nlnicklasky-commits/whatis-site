@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1019
 tier: "3"
-relatedArticles: ["contemporary-art", "theater", "visual-arts", "conceptual-art"]
+relatedArticles: ["visual-arts"]
 externalSources:
   - title: "MoMA - Performance Art"
     url: "https://www.moma.org/collection/terms/performance-art"

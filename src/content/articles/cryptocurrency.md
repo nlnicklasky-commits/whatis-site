@@ -8,11 +8,11 @@ heroImage: "/images/articles/cryptocurrency-hero.webp"
 heroAlt: "Editorial photograph representing the concept of cryptocurrency"
 author: "WhatIs Editorial"
 datePublished: "2026-03-15"
-dateModified: "2026-03-15"
+dateModified: "2026-05-12"
 readingTime: 14
 wordCount: 3647
 tier: "1"
-relatedArticles: ["blockchain", "cryptography", "economics", "game-theory", "distributed-systems"]
+relatedArticles: ["blockchain", "cryptography", "economics", "game-theory"]
 externalSources:
   - title: "Bitcoin Whitepaper"
     url: "https://bitcoin.org/bitcoin.pdf"
@@ -57,7 +57,7 @@ The genius of Bitcoin was combining three existing technologies—cryptographic 
 
 ## How Cryptocurrency Actually Works: The Technical Foundations
 
-At its core, cryptocurrency depends on [cryptography](/cryptography)—the science of encoding information so only authorized parties can read it. Every cryptocurrency user has two keys: a public key (like an email address you can share) and a private key (like a password you must keep secret).
+Cryptocurrency rests on [cryptography](/cryptography)—the science of encoding information so only authorized parties can read it. Every cryptocurrency user has two keys: a public key (like an email address you can share) and a private key (like a password you must keep secret).
 
 When you send cryptocurrency, you use your private key to digitally sign the transaction, proving you authorized it without revealing the key itself. Everyone on the network can verify your signature using your public key, confirming the transaction came from you and wasn't tampered with. This is called public-key cryptography.
 
@@ -81,7 +81,7 @@ Over 16 years, Bitcoin has become the most proven and tested cryptocurrency, tho
 
 In 2015, a 19-year-old programmer named Vitalik Buterin launched Ethereum, which added a crucial innovation: smart contracts. A smart contract is code that runs on the blockchain, executing automatically when conditions are met.
 
-This might sound simple, but it's transformative. Bitcoin can only say "send money from A to B." Ethereum can say "if the price of this commodity rises above $X, automatically sell Y and transfer proceeds to Z." This enables programmable money and opens possibilities from automated loans to decentralized organizations run entirely by code.
+This might sound simple, but it's a real shift. Bitcoin can only say "send money from A to B." Ethereum can say "if the price of this commodity rises above $X, automatically sell Y and transfer proceeds to Z." This enables programmable money and opens possibilities from automated loans to decentralized organizations run entirely by code.
 
 Ethereum's flexibility made it the foundation for an entire ecosystem. [Decentralized finance](/decentralized-finance) (DeFi) platforms like Uniswap let users trade crypto without an exchange. Staking platforms let users earn returns by providing capital. Lending protocols let users borrow against collateral, all without intermediaries.
 
@@ -89,7 +89,7 @@ Ethereum also became the platform for NFTs (non-fungible tokens)—unique digita
 
 Ethereum is far from perfect. Transaction fees during periods of high activity can exceed $100, making it uneconomical for small transactions. The network also consumes substantial energy, though its 2022 switch to proof-of-stake dramatically reduced this.
 
-## The Cryptocurrency Landscape Today
+## The Cryptocurrency Market Today
 
 Bitcoin and Ethereum dominate by market capitalization, but thousands of other cryptocurrencies exist, each with different purposes:
 

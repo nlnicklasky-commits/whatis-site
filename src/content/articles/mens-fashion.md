@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 921
 tier: "3"
-relatedArticles: ["fashion-design", "textiles", "tailoring", "culture"]
+relatedArticles: ["fashion-design", "tailoring"]
 externalSources:
   - title: "Victoria and Albert Museum: Fashion Collection"
     url: "https://www.vam.ac.uk/collections/fashion"

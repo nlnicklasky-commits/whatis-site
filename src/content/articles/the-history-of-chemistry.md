@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1683
 tier: "3"
-relatedArticles: ["chemistry", "physics", "biology", "periodic-table", "scientific-method"]
+relatedArticles: ["chemistry", "physics", "biology", "scientific-method"]
 externalSources:
   - title: "American Chemical Society — History of Chemistry"
     url: "https://www.acs.org/education/whatischemistry/landmarks.html"

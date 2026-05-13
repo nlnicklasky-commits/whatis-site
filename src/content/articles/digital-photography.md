@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1059
 tier: "3"
-relatedArticles: ["photography", "camera-operation", "digital-art", "graphic-design"]
+relatedArticles: ["camera-operation", "digital-art", "graphic-design"]
 externalSources:
   - title: "Smithsonian Photography Initiative"
     url: "https://www.si.edu/"

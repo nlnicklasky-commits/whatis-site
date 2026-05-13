@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 924
 tier: "3"
-relatedArticles: ["cosmetology", "beauty", "self-care", "fashion"]
+relatedArticles: []
 externalSources:
   - title: "FDA: Nail Care Products"
     url: "https://www.fda.gov/cosmetics/cosmetic-products/nail-care-products"

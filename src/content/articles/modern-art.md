@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 896
 tier: "3"
-relatedArticles: ["art-history", "painting", "sculpture", "contemporary-art"]
+relatedArticles: ["art-history", "painting", "sculpture"]
 externalSources:
   - title: "MoMA: What Is Modern Art?"
     url: "https://www.moma.org/learn/moma_learning/themes/what-is-modern-art/"

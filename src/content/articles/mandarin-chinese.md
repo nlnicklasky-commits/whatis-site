@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1118
 tier: "3"
-relatedArticles: ["linguistics", "language-learning", "chinese-culture", "translation"]
+relatedArticles: ["linguistics", "translation"]
 externalSources:
   - title: "Ethnologue: Mandarin Chinese"
     url: "https://www.ethnologue.com/language/cmn/"

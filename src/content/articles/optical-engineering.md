@@ -12,7 +12,7 @@ dateModified: "2026-03-06"
 readingTime: 10
 wordCount: 2831
 tier: "2"
-relatedArticles: ["optics", "photonics", "laser-technology", "physics", "electrical-engineering"]
+relatedArticles: ["optics", "laser-technology", "physics", "electrical-engineering"]
 externalSources:
   - title: "SPIE - The International Society for Optics and Photonics"
     url: "https://spie.org/about-spie"

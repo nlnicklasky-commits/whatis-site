@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1120
 tier: "3"
-relatedArticles: ["forestry", "woodworking", "conservation", "environmental-science"]
+relatedArticles: ["forestry", "woodworking", "environmental-science"]
 externalSources:
   - title: "USDA Forest Service"
     url: "https://www.fs.usda.gov/"

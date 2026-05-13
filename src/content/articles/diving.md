@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 916
 tier: "3"
-relatedArticles: ["swimming", "marine-biology", "canoeing", "adventure-sports"]
+relatedArticles: ["swimming", "marine-biology", "canoeing"]
 externalSources:
   - title: "PADI - Professional Association of Diving Instructors"
     url: "https://www.padi.com/"

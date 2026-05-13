@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 958
 tier: "3"
-relatedArticles: ["animal-behavior", "veterinary-science", "nutrition", "pet-grooming"]
+relatedArticles: ["animal-behavior", "nutrition", "pet-grooming"]
 externalSources:
   - title: "American Veterinary Medical Association"
     url: "https://www.avma.org/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 757
 tier: "3"
-relatedArticles: ["theater", "performing-arts", "dance", "comedy"]
+relatedArticles: ["dance", "comedy"]
 externalSources:
   - title: "Encyclopaedia Britannica: Mime and Pantomime"
     url: "https://www.britannica.com/art/mime-and-pantomime"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 969
 tier: "3"
-relatedArticles: ["printmaking", "drawing", "calligraphy", "metalwork"]
+relatedArticles: ["printmaking", "drawing", "calligraphy"]
 externalSources:
   - title: "The Metropolitan Museum of Art - Prints Collection"
     url: "https://www.metmuseum.org/"

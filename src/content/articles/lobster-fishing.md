@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1004
 tier: "3"
-relatedArticles: ["fishing", "marine-biology", "oceanography", "seafood"]
+relatedArticles: ["fishing", "marine-biology", "oceanography"]
 externalSources:
   - title: "NOAA Fisheries: American Lobster"
     url: "https://www.fisheries.noaa.gov/species/american-lobster"

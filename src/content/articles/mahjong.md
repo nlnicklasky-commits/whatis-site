@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 966
 tier: "3"
-relatedArticles: ["board-games", "card-games", "chinese-culture", "strategy"]
+relatedArticles: ["board-games", "card-games"]
 externalSources:
   - title: "World Mahjong Organization"
     url: "https://www.worldmahjong.com/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1175
 tier: "3"
-relatedArticles: ["construction", "home-improvement", "water", "engineering", "roofing"]
+relatedArticles: ["construction", "engineering", "roofing"]
 externalSources:
   - title: "EPA — Drinking Water"
     url: "https://www.epa.gov/ground-water-and-drinking-water"

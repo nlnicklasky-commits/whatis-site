@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 968
 tier: "3"
-relatedArticles: ["archaeology", "geology", "history", "collecting"]
+relatedArticles: ["archaeology", "geology"]
 externalSources:
   - title: "Smithsonian: Notable Metal Detecting Finds"
     url: "https://www.smithsonianmag.com/"

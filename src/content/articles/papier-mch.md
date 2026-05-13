@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 791
 tier: "3"
-relatedArticles: ["paper-making", "sculpture", "crafts", "art"]
+relatedArticles: ["paper-making", "sculpture"]
 externalSources:
   - title: "Smithsonian - Decorative Arts"
     url: "https://www.si.edu/"

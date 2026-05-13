@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 2
 wordCount: 669
 tier: "3"
-relatedArticles: ["railroad-history", "transportation-history", "photography", "engineering", "logistics"]
+relatedArticles: ["railroad-history", "transportation-history", "engineering", "logistics"]
 externalSources:
   - title: "Railway History - Smithsonian"
     url: "https://www.si.edu/"

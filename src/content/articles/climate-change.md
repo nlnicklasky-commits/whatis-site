@@ -8,11 +8,11 @@ heroImage: "/images/articles/climate-change-hero.webp"
 heroAlt: "Editorial photograph representing the concept of climate change"
 author: "WhatIs Editorial"
 datePublished: "2026-03-15"
-dateModified: "2026-03-15"
+dateModified: "2026-05-12"
 readingTime: 14
 wordCount: 3847
 tier: "1"
-relatedArticles: ["ecology", "meteorology", "oceanography", "thermodynamics", "sustainability"]
+relatedArticles: ["ecology", "meteorology", "oceanography", "thermodynamics"]
 externalSources:
   - title: "IPCC Sixth Assessment Report"
     url: "https://www.ipcc.ch/assessment-report/ar6/"
@@ -39,7 +39,7 @@ faq:
 
 # What Is Climate Change?
 
-Climate change is the long-term shift in global temperatures and weather patterns, primarily driven by human activities that release greenhouse gases into the atmosphere. Since the mid-1900s, Earth's average temperature has risen approximately 1.1°C above pre-industrial levels, and this seemingly small increase has profound implications for weather systems, ecosystems, and human civilization. The Intergovernmental Panel on Climate Change (IPCC) reports that the past decade has been the warmest on record, with Arctic temperatures warming at roughly three times the global average rate—a phenomenon known as Arctic amplification. This comprehensive guide explores what climate change is, how it works, the scientific evidence supporting it, its cascading effects across our planet, and the solutions being deployed globally.
+Climate change is the long-term shift in global temperatures and weather patterns, primarily driven by human activities that release greenhouse gases into the atmosphere. Since the mid-1900s, Earth's average temperature has risen approximately 1.1°C above pre-industrial levels, and this seemingly small increase has profound implications for weather systems, ecosystems, and human civilization. The Intergovernmental Panel on Climate Change (IPCC) reports that the past decade has been the warmest on record, with Arctic temperatures warming at roughly three times the global average rate—a phenomenon known as Arctic amplification. This guide explores what climate change is, how it works, the scientific evidence supporting it, its cascading effects across our planet, and the solutions being deployed globally.
 
 ## Earth Has Always Changed—So Why Is This Different?
 
@@ -123,7 +123,7 @@ Addressing climate change requires simultaneously reducing emissions (mitigation
 
 **Circular Economy**: Shifting from a linear "take-make-waste" economy to circular systems where materials are reused, refurbished, and recycled reduces manufacturing emissions. Material extraction and processing account for roughly 50% of global emissions; redesigning products for durability and recyclability offers significant savings.
 
-**International Agreements**: The Paris Agreement (2015) commits signatory nations to limiting warming to 1.5-2°C. While non-binding, the framework creates accountability mechanisms. The Kyoto Protocol (1997) was earlier but less comprehensive. Current commitments remain insufficient to achieve Paris Agreement goals; nations would need to reduce emissions 45% below 2010 levels by 2030 to limit warming to 1.5°C—a target few countries currently meet.
+**International Agreements**: The Paris Agreement (2015) commits signatory nations to limiting warming to 1.5-2°C. While non-binding, the framework creates accountability mechanisms. The Kyoto Protocol (1997) was earlier but narrower in scope. Current commitments remain insufficient to achieve Paris Agreement goals; nations would need to reduce emissions 45% below 2010 levels by 2030 to limit warming to 1.5°C—a target few countries currently meet.
 
 ## What Individuals Can Do: Personal Actions Matter
 

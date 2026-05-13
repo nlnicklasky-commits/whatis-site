@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 2
 wordCount: 542
 tier: "3"
-relatedArticles: ["metalworking", "forging", "industrial-design", "soldering", "crafts"]
+relatedArticles: ["metalworking", "forging", "industrial-design", "soldering"]
 externalSources:
   - title: "Tinsmithing - Colonial Williamsburg"
     url: "https://www.colonialwilliamsburg.org/"

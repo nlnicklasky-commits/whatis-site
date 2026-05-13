@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1752
 tier: "3"
-relatedArticles: ["marketing", "retail", "graphic-design", "consumer-psychology"]
+relatedArticles: ["marketing", "graphic-design"]
 externalSources:
   - title: "Retail Design Institute"
     url: "https://retaildesigninstitute.org/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1034
 tier: "3"
-relatedArticles: ["art-history", "perspective-drawing", "printing", "photolithography"]
+relatedArticles: ["art-history", "perspective-drawing", "photolithography"]
 externalSources:
   - title: "Metropolitan Museum of Art - History of Photography"
     url: "https://www.metmuseum.org/toah/hd/phot/hd_phot.htm"

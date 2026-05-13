@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1016
 tier: "3"
-relatedArticles: ["antiques-collecting", "collectibles", "stamp-collecting", "history"]
+relatedArticles: ["antiques-collecting", "collectibles", "stamp-collecting"]
 externalSources:
   - title: "American Numismatic Association"
     url: "https://www.money.org/"

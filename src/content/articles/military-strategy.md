@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 886
 tier: "3"
-relatedArticles: ["political-science", "history", "leadership", "geopolitics"]
+relatedArticles: ["political-science", "leadership", "geopolitics"]
 externalSources:
   - title: "U.S. Army War College"
     url: "https://www.armywarcollege.edu/"

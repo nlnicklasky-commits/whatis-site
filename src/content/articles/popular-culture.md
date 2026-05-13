@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 974
 tier: "3"
-relatedArticles: ["pop-music", "pop-art", "social-media", "film", "television"]
+relatedArticles: ["pop-music", "pop-art"]
 externalSources:
   - title: "Britannica — Popular Culture"
     url: "https://www.britannica.com/topic/popular-culture"

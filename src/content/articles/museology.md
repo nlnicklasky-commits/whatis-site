@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 986
 tier: "3"
-relatedArticles: ["art-history", "archaeology", "archival-science", "anthropology"]
+relatedArticles: ["art-history", "archaeology", "anthropology"]
 externalSources:
   - title: "International Council of Museums (ICOM)"
     url: "https://icom.museum/"

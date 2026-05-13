@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1014
 tier: "3"
-relatedArticles: ["animal-behavior", "conservation", "hunting"]
+relatedArticles: ["animal-behavior", "hunting"]
 externalSources:
   - title: "UNESCO — Falconry, a Living Human Heritage"
     url: "https://ich.unesco.org/en/RL/falconry-a-living-human-heritage-01209"

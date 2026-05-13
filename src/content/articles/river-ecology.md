@@ -12,7 +12,7 @@ dateModified: "2026-03-06"
 readingTime: 13
 wordCount: 3497
 tier: "1"
-relatedArticles: ["biology", "climatology", "botany", "conservation", "coral-reef-ecology"]
+relatedArticles: ["biology", "climatology", "botany", "coral-reef-ecology"]
 externalSources:
   - title: "USGS Water Resources"
     url: "https://www.usgs.gov/mission-areas/water-resources"

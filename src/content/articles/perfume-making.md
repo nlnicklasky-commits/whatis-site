@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 942
 tier: "3"
-relatedArticles: ["chemistry", "botany", "fashion", "essential-oils"]
+relatedArticles: ["chemistry", "botany"]
 externalSources:
   - title: "The Fragrance Foundation"
     url: "https://fragrance.org/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 9
 wordCount: 2432
 tier: "2"
-relatedArticles: ["chemistry", "civil-engineering", "manufacturing", "materials-science", "casting-metal"]
+relatedArticles: ["chemistry", "civil-engineering", "materials-science", "casting-metal"]
 externalSources:
   - title: "World Steel Association"
     url: "https://worldsteel.org/"

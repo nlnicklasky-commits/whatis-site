@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 965
 tier: "3"
-relatedArticles: ["foraging", "conservation", "gardening"]
+relatedArticles: ["foraging", "gardening"]
 externalSources:
   - title: "NOAA Fisheries"
     url: "https://www.fisheries.noaa.gov/"

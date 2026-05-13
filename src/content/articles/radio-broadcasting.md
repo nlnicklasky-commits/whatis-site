@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 965
 tier: "3"
-relatedArticles: ["journalism", "music", "communication", "television", "podcasting"]
+relatedArticles: ["journalism", "podcasting"]
 externalSources:
   - title: "FCC — Radio Broadcasting"
     url: "https://www.fcc.gov/media/radio"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1077
 tier: "3"
-relatedArticles: ["logic", "mathematics", "critical-thinking", "games"]
+relatedArticles: ["logic", "mathematics", "critical-thinking"]
 externalSources:
   - title: "American Mathematical Society: Puzzles"
     url: "https://www.ams.org/publicoutreach/puzzles"

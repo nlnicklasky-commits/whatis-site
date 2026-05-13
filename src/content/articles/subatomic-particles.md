@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 10
 wordCount: 2792
 tier: "2"
-relatedArticles: ["chemistry", "cosmology", "astrophysics", "classical-mechanics", "quantum mechanics"]
+relatedArticles: ["chemistry", "cosmology", "astrophysics", "classical-mechanics"]
 externalSources:
   - title: "CERN — The Standard Model"
     url: "https://home.cern/science/physics/standard-model"

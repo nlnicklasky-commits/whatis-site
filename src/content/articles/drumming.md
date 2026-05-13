@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1072
 tier: "3"
-relatedArticles: ["music-theory", "jazz", "electronic-music", "dance"]
+relatedArticles: ["music-theory", "electronic-music", "dance"]
 externalSources:
   - title: "Percussive Arts Society"
     url: "https://www.pas.org/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 708
 tier: "3"
-relatedArticles: ["fashion-history", "visual-merchandising", "aesthetics", "photography", "design-patterns"]
+relatedArticles: ["fashion-history", "visual-merchandising", "aesthetics", "design-patterns"]
 externalSources:
   - title: "Council of Fashion Designers of America"
     url: "https://cfda.com/"

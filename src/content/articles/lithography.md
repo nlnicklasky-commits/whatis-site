@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1115
 tier: "3"
-relatedArticles: ["printmaking", "graphic-design", "art-history", "photography"]
+relatedArticles: ["printmaking", "graphic-design", "art-history"]
 externalSources:
   - title: "The Metropolitan Museum of Art: Lithography"
     url: "https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/lithograph"

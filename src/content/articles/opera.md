@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 996
 tier: "3"
-relatedArticles: ["classical-music", "theater", "music-history", "orchestration"]
+relatedArticles: ["classical-music", "music-history", "orchestration"]
 externalSources:
   - title: "The Metropolitan Opera"
     url: "https://www.metopera.org/"

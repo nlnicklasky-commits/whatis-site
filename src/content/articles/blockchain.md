@@ -12,7 +12,7 @@ dateModified: "2026-03-06"
 readingTime: 8
 wordCount: 2209
 tier: "2"
-relatedArticles: ["cryptocurrency", "cryptography", "distributed-systems"]
+relatedArticles: ["cryptocurrency", "cryptography"]
 externalSources:
   - title: "Bitcoin Whitepaper"
     url: "https://bitcoin.org/bitcoin.pdf"

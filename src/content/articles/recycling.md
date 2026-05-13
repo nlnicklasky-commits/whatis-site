@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 872
 tier: "3"
-relatedArticles: ["sustainability", "environment", "conservation", "waste-management", "climate-change"]
+relatedArticles: ["waste-management", "climate-change"]
 externalSources:
   - title: "EPA — Recycling Basics"
     url: "https://www.epa.gov/recycle"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1137
 tier: "3"
-relatedArticles: ["weightlifting", "strength-training", "fitness", "bodybuilding", "sports"]
+relatedArticles: ["weightlifting", "strength-training", "fitness", "bodybuilding"]
 externalSources:
   - title: "International Powerlifting Federation"
     url: "https://www.powerlifting.sport/"

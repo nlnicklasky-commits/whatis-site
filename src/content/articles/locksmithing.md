@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1010
 tier: "3"
-relatedArticles: ["security", "engineering", "metalworking", "home-improvement"]
+relatedArticles: ["engineering", "metalworking"]
 externalSources:
   - title: "Associated Locksmiths of America"
     url: "https://www.aloa.org/"

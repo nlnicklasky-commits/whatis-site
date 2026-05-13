@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 964
 tier: "3"
-relatedArticles: ["art-history", "mosaic-art", "street-art", "painting"]
+relatedArticles: ["art-history", "mosaic-art", "painting"]
 externalSources:
   - title: "National Gallery of Art: Fresco Painting"
     url: "https://www.nga.gov/conservation/painting/fresco.html"

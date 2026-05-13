@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 864
 tier: "3"
-relatedArticles: ["folklore", "philosophy", "language", "literature", "oral-tradition"]
+relatedArticles: ["folklore", "philosophy", "literature"]
 externalSources:
   - title: "Britannica — Proverb"
     url: "https://www.britannica.com/art/proverb"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1582
 tier: "3"
-relatedArticles: ["radiology", "anatomy", "medical-technology"]
+relatedArticles: ["radiology", "anatomy"]
 externalSources:
   - title: "RadiologyInfo.org: Ultrasound"
     url: "https://www.radiologyinfo.org/en/info/genus"

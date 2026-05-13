@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 786
 tier: "3"
-relatedArticles: ["memory-techniques", "cognitive-psychology", "learning", "neuroscience"]
+relatedArticles: ["memory-techniques", "cognitive-psychology", "neuroscience"]
 externalSources:
   - title: "American Psychological Association: Memory Research"
     url: "https://www.apa.org/topics/memory"

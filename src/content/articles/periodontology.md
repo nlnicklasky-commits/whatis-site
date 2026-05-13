@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 970
 tier: "3"
-relatedArticles: ["dentistry", "health", "anatomy", "medicine"]
+relatedArticles: ["dentistry", "anatomy"]
 externalSources:
   - title: "American Academy of Periodontology"
     url: "https://www.perio.org/"

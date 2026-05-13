@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1007
 tier: "3"
-relatedArticles: ["marketing", "journalism", "press-release-writing", "advertising", "communication"]
+relatedArticles: ["marketing", "journalism", "press-release-writing"]
 externalSources:
   - title: "Public Relations Society of America"
     url: "https://www.prsa.org/"

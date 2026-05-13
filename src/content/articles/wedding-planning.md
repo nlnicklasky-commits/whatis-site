@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 903
 tier: "3"
-relatedArticles: ["public-speaking", "videography", "photography"]
+relatedArticles: ["public-speaking", "videography"]
 externalSources:
   - title: "The Knot — Wedding Planning Resources"
     url: "https://www.theknot.com/"

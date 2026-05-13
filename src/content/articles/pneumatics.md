@@ -12,7 +12,7 @@ dateModified: "2026-03-06"
 readingTime: 10
 wordCount: 2851
 tier: "2"
-relatedArticles: ["mechanical-engineering", "hydraulics", "electrical-engineering", "automation", "industrial-design"]
+relatedArticles: ["mechanical-engineering", "hydraulics", "electrical-engineering", "industrial-design"]
 externalSources:
   - title: "Pneumatic Systems - ScienceDirect"
     url: "https://www.sciencedirect.com/topics/engineering/pneumatic-system"

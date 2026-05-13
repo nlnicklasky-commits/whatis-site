@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1112
 tier: "3"
-relatedArticles: ["martial-arts", "theater", "television", "athletics", "performance"]
+relatedArticles: ["martial-arts", "athletics"]
 externalSources:
   - title: "Britannica — Professional Wrestling"
     url: "https://www.britannica.com/sports/professional-wrestling"

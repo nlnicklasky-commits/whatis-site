@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 975
 tier: "3"
-relatedArticles: ["automotive-engineering", "outdoor-survival", "camping", "adventure-sports"]
+relatedArticles: ["automotive-engineering", "outdoor-survival", "camping"]
 externalSources:
   - title: "Bureau of Land Management - OHV Recreation"
     url: "https://www.blm.gov/programs/recreation/OHV"

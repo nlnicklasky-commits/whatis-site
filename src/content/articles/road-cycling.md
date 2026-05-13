@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 935
 tier: "3"
-relatedArticles: ["cycling", "fitness", "sports", "endurance", "triathlon"]
+relatedArticles: ["cycling", "fitness", "triathlon"]
 externalSources:
   - title: "UCI — Union Cycliste Internationale"
     url: "https://www.uci.org/"

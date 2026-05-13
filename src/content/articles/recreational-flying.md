@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 898
 tier: "3"
-relatedArticles: ["aerospace-engineering", "aerodynamics", "sports", "adventure", "physics"]
+relatedArticles: ["aerospace-engineering", "aerodynamics", "physics"]
 externalSources:
   - title: "FAA — Become a Pilot"
     url: "https://www.faa.gov/pilots/become"

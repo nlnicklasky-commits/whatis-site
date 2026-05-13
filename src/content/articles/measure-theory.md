@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1147
 tier: "3"
-relatedArticles: ["calculus", "probability", "statistics", "abstract-algebra"]
+relatedArticles: ["calculus", "statistics", "abstract-algebra"]
 externalSources:
   - title: "MIT OpenCourseWare: Measure and Integration"
     url: "https://ocw.mit.edu/courses/18-125-measure-and-integration-fall-2003/"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 860
 tier: "3"
-relatedArticles: ["folklore", "language", "logic", "puzzles", "literature"]
+relatedArticles: ["folklore", "logic", "literature"]
 externalSources:
   - title: "Britannica — Riddle"
     url: "https://www.britannica.com/art/riddle"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 991
 tier: "3"
-relatedArticles: ["mycology", "botany", "outdoor-recreation", "cooking"]
+relatedArticles: ["mycology", "botany", "cooking"]
 externalSources:
   - title: "North American Mycological Association"
     url: "https://namyco.org/"

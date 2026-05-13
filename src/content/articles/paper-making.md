@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 989
 tier: "3"
-relatedArticles: ["printing-technology", "forestry", "recycling", "history"]
+relatedArticles: ["forestry", "recycling"]
 externalSources:
   - title: "Smithsonian - History of Paper"
     url: "https://www.si.edu/"

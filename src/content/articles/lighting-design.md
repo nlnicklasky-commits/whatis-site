@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 996
 tier: "3"
-relatedArticles: ["architecture", "interior-design", "theater", "photography"]
+relatedArticles: ["architecture", "interior-design"]
 externalSources:
   - title: "Illuminating Engineering Society"
     url: "https://www.ies.org/"

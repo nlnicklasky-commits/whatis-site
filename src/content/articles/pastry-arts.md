@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 967
 tier: "3"
-relatedArticles: ["cooking", "food-science", "culinary-arts", "chocolate-making"]
+relatedArticles: ["cooking", "food-science", "culinary-arts"]
 externalSources:
   - title: "American Institute of Baking"
     url: "https://www.aibonline.org/"

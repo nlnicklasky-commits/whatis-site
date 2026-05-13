@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 989
 tier: "3"
-relatedArticles: ["psychology", "mindfulness", "leadership", "education"]
+relatedArticles: ["psychology", "leadership", "education"]
 externalSources:
   - title: "American Psychological Association - Self-Improvement"
     url: "https://www.apa.org/"

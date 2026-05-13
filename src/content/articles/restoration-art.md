@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 901
 tier: "3"
-relatedArticles: ["art-history", "painting", "sculpture", "museums", "chemistry"]
+relatedArticles: ["art-history", "painting", "sculpture", "chemistry"]
 externalSources:
   - title: "American Institute for Conservation"
     url: "https://www.culturalheritage.org/"

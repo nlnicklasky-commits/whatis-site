@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 973
 tier: "3"
-relatedArticles: ["jewelry-making", "ceramics", "glass-art", "metalwork"]
+relatedArticles: ["jewelry-making", "ceramics"]
 externalSources:
   - title: "Enamelist Society"
     url: "https://www.enamelistsociety.org/"

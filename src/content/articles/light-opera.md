@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 925
 tier: "3"
-relatedArticles: ["musical-theatre", "music-performance", "music-history", "performing-arts"]
+relatedArticles: ["musical-theatre", "music-performance", "music-history"]
 externalSources:
   - title: "Encyclopaedia Britannica: Operetta"
     url: "https://www.britannica.com/art/operetta"

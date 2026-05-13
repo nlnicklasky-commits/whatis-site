@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1171
 tier: "3"
-relatedArticles: ["marathon-running", "swimming", "cycling", "sports-nutrition", "exercise-physiology"]
+relatedArticles: ["marathon-running", "swimming", "cycling", "exercise-physiology"]
 externalSources:
   - title: "World Triathlon"
     url: "https://www.triathlon.org/"

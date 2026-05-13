@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 988
 tier: "3"
-relatedArticles: ["rock-music", "hip-hop", "songwriting", "music-theory", "music-production"]
+relatedArticles: ["songwriting", "music-theory", "music-production"]
 externalSources:
   - title: "Britannica — Pop Music"
     url: "https://www.britannica.com/art/pop-music"

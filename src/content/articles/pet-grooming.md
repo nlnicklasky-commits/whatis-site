@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 882
 tier: "3"
-relatedArticles: ["pet-care", "animal-behavior", "veterinary-science", "hygiene"]
+relatedArticles: ["pet-care", "animal-behavior", "hygiene"]
 externalSources:
   - title: "National Dog Groomers Association of America"
     url: "https://nationaldoggroomers.com/"

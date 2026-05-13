@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 916
 tier: "3"
-relatedArticles: ["gardening", "decorating", "botany", "flower-arranging"]
+relatedArticles: ["gardening", "decorating", "botany"]
 externalSources:
   - title: "Royal Horticultural Society - Drying Flowers"
     url: "https://www.rhs.org.uk/"

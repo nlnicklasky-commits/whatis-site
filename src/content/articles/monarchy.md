@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 801
 tier: "3"
-relatedArticles: ["democracy", "government", "history", "political-science"]
+relatedArticles: ["government", "political-science"]
 externalSources:
   - title: "Encyclopaedia Britannica: Monarchy"
     url: "https://www.britannica.com/topic/monarchy"

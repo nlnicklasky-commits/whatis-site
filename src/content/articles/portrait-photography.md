@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1060
 tier: "3"
-relatedArticles: ["photography", "lighting", "art", "fashion", "film"]
+relatedArticles: []
 externalSources:
   - title: "Smithsonian National Portrait Gallery"
     url: "https://npg.si.edu/"

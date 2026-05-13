@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 8
 wordCount: 2218
 tier: "2"
-relatedArticles: ["philosophy", "comparative-religion", "psychology", "history", "literature"]
+relatedArticles: ["philosophy", "comparative-religion", "psychology", "literature"]
 externalSources:
   - title: "Britannica: Divination"
     url: "https://www.britannica.com/topic/divination"

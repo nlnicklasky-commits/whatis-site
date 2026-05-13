@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1044
 tier: "3"
-relatedArticles: ["democracy", "government", "law", "political-science"]
+relatedArticles: ["government", "law", "political-science"]
 externalSources:
   - title: "OpenSecrets: Lobbying Database"
     url: "https://www.opensecrets.org/federal-lobbying"

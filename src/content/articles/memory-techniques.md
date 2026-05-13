@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1010
 tier: "3"
-relatedArticles: ["mnemotechnics", "cognitive-psychology", "learning", "neuroscience"]
+relatedArticles: ["mnemotechnics", "cognitive-psychology", "neuroscience"]
 externalSources:
   - title: "NIH: Memory and Aging"
     url: "https://www.nia.nih.gov/health/memory-forgetfulness-and-aging-whats-normal-and-whats-not"

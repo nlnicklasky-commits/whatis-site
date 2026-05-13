@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 930
 tier: "3"
-relatedArticles: ["japanese-art", "mathematics", "crafts", "paper-making"]
+relatedArticles: ["japanese-art", "mathematics", "paper-making"]
 externalSources:
   - title: "OrigamiUSA"
     url: "https://origamiusa.org/"

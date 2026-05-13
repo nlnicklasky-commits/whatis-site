@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 996
 tier: "3"
-relatedArticles: ["pottery", "porcelain-making", "ceramics", "art", "japanese-culture"]
+relatedArticles: ["pottery", "porcelain-making", "ceramics"]
 externalSources:
   - title: "Britannica — Raku Ware"
     url: "https://www.britannica.com/art/raku-ware"

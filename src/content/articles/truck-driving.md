@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1213
 tier: "3"
-relatedArticles: ["logistics", "supply-chain-management", "automotive-engineering", "diesel-mechanics", "economics"]
+relatedArticles: ["logistics", "supply-chain-management", "automotive-engineering", "economics"]
 externalSources:
   - title: "Bureau of Labor Statistics - Heavy and Tractor-Trailer Truck Drivers"
     url: "https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm"

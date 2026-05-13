@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 986
 tier: "3"
-relatedArticles: ["romance-languages", "spanish", "linguistics", "brazil", "language-learning"]
+relatedArticles: ["romance-languages", "linguistics"]
 externalSources:
   - title: "Ethnologue — Portuguese"
     url: "https://www.ethnologue.com/language/por/"

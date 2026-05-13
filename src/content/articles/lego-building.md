@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1093
 tier: "3"
-relatedArticles: ["model-building", "architecture", "engineering", "creativity"]
+relatedArticles: ["model-building", "architecture", "engineering"]
 externalSources:
   - title: "LEGO Group Official History"
     url: "https://www.lego.com/en-us/history"

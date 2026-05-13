@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 949
 tier: "3"
-relatedArticles: ["theater", "film", "sculpture", "cosplay", "set-design"]
+relatedArticles: ["sculpture", "set-design"]
 externalSources:
   - title: "Society of Properties Artisan Managers"
     url: "https://www.spam-web.org/"

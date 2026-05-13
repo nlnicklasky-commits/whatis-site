@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1009
 tier: "3"
-relatedArticles: ["tennis", "squash", "badminton", "fitness", "sports"]
+relatedArticles: ["tennis", "squash", "fitness"]
 externalSources:
   - title: "USA Racquetball"
     url: "https://www.teamusa.org/usa-racquetball"

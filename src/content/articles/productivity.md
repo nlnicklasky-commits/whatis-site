@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1112
 tier: "3"
-relatedArticles: ["time-management", "economics", "psychology", "business", "technology"]
+relatedArticles: ["time-management", "economics", "psychology"]
 externalSources:
   - title: "Bureau of Labor Statistics — Productivity"
     url: "https://www.bls.gov/lpc/"

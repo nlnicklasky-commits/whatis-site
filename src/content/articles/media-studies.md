@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 965
 tier: "3"
-relatedArticles: ["journalism", "communication-theory", "sociology", "cultural-studies"]
+relatedArticles: ["journalism", "communication-theory", "sociology"]
 externalSources:
   - title: "MIT Media Lab"
     url: "https://www.media.mit.edu/"

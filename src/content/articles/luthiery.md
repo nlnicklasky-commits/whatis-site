@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1102
 tier: "3"
-relatedArticles: ["woodworking", "music-theory", "acoustics", "craftsmanship"]
+relatedArticles: ["woodworking", "music-theory", "acoustics"]
 externalSources:
   - title: "Smithsonian National Museum of American History: Musical Instruments"
     url: "https://americanhistory.si.edu/collections/subjects/musical-instruments"

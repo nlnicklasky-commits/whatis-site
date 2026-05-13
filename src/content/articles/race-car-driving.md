@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1129
 tier: "3"
-relatedArticles: ["automotive-engineering", "aerodynamics", "sports", "engineering", "physics"]
+relatedArticles: ["automotive-engineering", "aerodynamics", "engineering", "physics"]
 externalSources:
   - title: "FIA — Federation Internationale de l'Automobile"
     url: "https://www.fia.com/"

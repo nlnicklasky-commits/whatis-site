@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 803
 tier: "3"
-relatedArticles: ["interior-design", "philosophy", "sustainability", "modern-art"]
+relatedArticles: ["interior-design", "philosophy", "modern-art"]
 externalSources:
   - title: "MoMA: Minimalism in Art"
     url: "https://www.moma.org/collection/terms/minimalism"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 985
 tier: "3"
-relatedArticles: ["pottery", "ceramics", "raku-pottery", "art", "chinese-culture"]
+relatedArticles: ["pottery", "ceramics", "raku-pottery"]
 externalSources:
   - title: "Smithsonian — Chinese Porcelain"
     url: "https://www.si.edu/spotlight/chinese-porcelain"

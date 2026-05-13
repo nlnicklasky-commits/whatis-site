@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 724
 tier: "3"
-relatedArticles: ["motorcycle-maintenance", "motorsport", "engineering", "sports"]
+relatedArticles: ["motorcycle-maintenance", "engineering"]
 externalSources:
   - title: "MotoGP Official"
     url: "https://www.motogp.com/"

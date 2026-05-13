@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 705
 tier: "3"
-relatedArticles: ["model-building", "painting", "tabletop-gaming", "art"]
+relatedArticles: ["model-building", "painting"]
 externalSources:
   - title: "Smithsonian American Art Museum: Miniatures"
     url: "https://americanart.si.edu/"

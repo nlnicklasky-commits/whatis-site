@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 6
 wordCount: 1594
 tier: "3"
-relatedArticles: ["ancient-history", "philosophy", "anthropology"]
+relatedArticles: ["philosophy", "anthropology"]
 externalSources:
   - title: "Mithraism — Encyclopaedia Britannica"
     url: "https://www.britannica.com/topic/Mithraism"

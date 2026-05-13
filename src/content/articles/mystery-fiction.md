@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 979
 tier: "3"
-relatedArticles: ["creative-writing", "literary-criticism", "narratology", "film-studies"]
+relatedArticles: ["creative-writing", "literary-criticism", "narratology"]
 externalSources:
   - title: "Mystery Writers of America"
     url: "https://mysterywriters.org/"

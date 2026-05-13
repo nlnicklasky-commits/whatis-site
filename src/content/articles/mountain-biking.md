@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 824
 tier: "3"
-relatedArticles: ["cycling", "outdoor-recreation", "fitness", "mountaineering"]
+relatedArticles: ["cycling", "fitness", "mountaineering"]
 externalSources:
   - title: "International Mountain Bicycling Association"
     url: "https://www.imba.com/"

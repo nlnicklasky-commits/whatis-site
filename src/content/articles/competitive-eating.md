@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 983
 tier: "3"
-relatedArticles: ["athletics", "cooking", "entertainment", "sports-broadcasting"]
+relatedArticles: ["athletics", "cooking", "sports-broadcasting"]
 externalSources:
   - title: "Major League Eating"
     url: "https://www.majorleagueeating.com/"

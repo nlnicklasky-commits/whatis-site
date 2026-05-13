@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1033
 tier: "3"
-relatedArticles: ["geology", "climatology", "emergency-management", "plate-tectonics"]
+relatedArticles: ["geology", "climatology", "plate-tectonics"]
 externalSources:
   - title: "FEMA - Disaster Preparedness"
     url: "https://www.fema.gov/emergency-managers/risk-management"

@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 3
 wordCount: 923
 tier: "3"
-relatedArticles: ["public-speaking", "philosophy", "writing", "persuasion", "logic"]
+relatedArticles: ["public-speaking", "philosophy", "writing", "logic"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy — Aristotle's Rhetoric"
     url: "https://plato.stanford.edu/entries/aristotle-rhetoric/"

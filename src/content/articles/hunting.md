@@ -12,7 +12,7 @@ dateModified: "2025-07-15"
 readingTime: 4
 wordCount: 1035
 tier: "3"
-relatedArticles: ["hiking", "conservation", "animal-behavior", "agriculture"]
+relatedArticles: ["hiking", "animal-behavior", "agriculture"]
 externalSources:
   - title: "U.S. Fish and Wildlife Service – Hunting"
     url: "https://www.fws.gov/hunting"
