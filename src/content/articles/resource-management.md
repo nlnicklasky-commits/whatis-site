@@ -5,10 +5,10 @@ description: "Resource management is the process of planning, allocating, and op
 category: business
 tags: ["management", "resource management", "business operations"]
 heroImage: "/images/articles/resource-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of resource management"
+heroAlt: "Resource management is the process of planning, allocating, and optimizing people, money, equipment, and time to complete projects efficiently"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1501
 tier: "3"

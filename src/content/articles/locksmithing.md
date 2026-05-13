@@ -5,10 +5,10 @@ description: "Locksmithing is the trade of making, installing, and opening locks
 category: everyday-concepts
 tags: ["locksmithing", "locks", "security", "trade skills", "keys", "lock picking"]
 heroImage: "/images/articles/locksmithing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of locksmithing"
+heroAlt: "Locksmithing is the trade of making, installing, and opening locks"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1010
 tier: "3"

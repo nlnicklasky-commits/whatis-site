@@ -5,10 +5,10 @@ description: "Shooting sports are competitive and recreational activities involv
 category: sports
 tags: ["shooting sports", "target shooting", "archery", "firearms", "precision", "accuracy"]
 heroImage: "/images/articles/shooting-sports-hero.webp"
-heroAlt: "Editorial photograph representing the concept of shooting sports"
+heroAlt: "Shooting sports are competitive and recreational activities involving firearms or air guns for target accuracy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 985
 tier: "3"

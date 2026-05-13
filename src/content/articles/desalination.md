@@ -5,10 +5,10 @@ description: "Desalination removes salt from seawater to produce fresh drinking 
 category: science
 tags: ["desalination", "water treatment", "reverse osmosis", "water scarcity", "engineering", "environment", "technology"]
 heroImage: "/images/articles/desalination-hero.webp"
-heroAlt: "Editorial photograph representing the concept of desalination"
+heroAlt: "Desalination removes salt from seawater to produce fresh drinking water"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2420
 tier: "2"

@@ -5,10 +5,10 @@ description: "Forestry is the science and practice of managing forests for timbe
 category: science
 tags: ["forests", "conservation", "sustainability", "ecology", "timber", "natural resources", "environmental science"]
 heroImage: "/images/articles/forestry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of forestry"
+heroAlt: "Forestry is the science and practice of managing forests for timber, biodiversity, water protection, carbon storage, and recreation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2445
 tier: "2"

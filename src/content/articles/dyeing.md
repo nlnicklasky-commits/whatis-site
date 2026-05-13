@@ -5,10 +5,10 @@ description: "Dyeing is the process of adding color to textiles and materials us
 category: arts-amp-culture
 tags: ["dyeing", "arts-amp-culture"]
 heroImage: "/images/articles/dyeing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dyeing"
+heroAlt: "Dyeing is the process of adding color to textiles and materials using dyes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 972
 tier: "3"

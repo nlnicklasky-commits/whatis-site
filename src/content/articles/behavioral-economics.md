@@ -5,10 +5,10 @@ description: "Behavioral economics studies how psychological factors and cogniti
 category: everyday-concepts
 tags: ["behavioral economics", "economics", "psychology", "cognitive bias", "decision making", "nudge theory"]
 heroImage: "/images/articles/behavioral-economics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of behavioral economics"
+heroAlt: "Behavioral economics studies how psychological factors and cognitive biases influence economic decisions, challenging the assumption of purely rational actors"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1038
 tier: "3"

@@ -5,10 +5,10 @@ description: "Travel hacking uses credit card points, miles, and loyalty program
 category: everyday-concepts
 tags: ["travel hacking", "travel", "credit cards", "loyalty programs", "miles", "points"]
 heroImage: "/images/articles/travel-hacking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of travel hacking"
+heroAlt: "Travel hacking uses credit card points, miles, and loyalty programs to travel cheaply or free"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 736
 tier: "3"

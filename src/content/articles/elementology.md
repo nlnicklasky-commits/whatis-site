@@ -5,10 +5,10 @@ description: "Elementology is the study of chemical elements, their properties, 
 category: everyday-concepts
 tags: ["elementology", "everyday-concepts"]
 heroImage: "/images/articles/elementology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of elementology"
+heroAlt: "Elementology is the study of chemical elements, their properties, and their roles in nature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1001
 tier: "3"

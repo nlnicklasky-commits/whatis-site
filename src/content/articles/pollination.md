@@ -5,10 +5,10 @@ description: "Pollination is the transfer of pollen from a flower's anther to it
 category: science
 tags: ["biology", "plants", "ecology", "pollinators", "reproduction", "agriculture", "ecosystems"]
 heroImage: "/images/articles/pollination-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pollination"
+heroAlt: "Pollination is the transfer of pollen from a flower's anther to its stigma, enabling plant reproduction and the production of fruits and seeds"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2812
 tier: "2"

@@ -5,10 +5,10 @@ description: "United Nations history traces the founding and evolution of the UN
 category: history
 tags: ["united nations history", "un", "international relations", "peacekeeping"]
 heroImage: "/images/articles/united-nations-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of united nations history"
+heroAlt: "United Nations history traces the founding and evolution of the UN, from its 1945 creation to its role in peacekeeping and international cooperation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1696
 tier: "3"

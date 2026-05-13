@@ -5,10 +5,10 @@ description: "Native American history spans over 15,000 years of indigenous life
 category: history
 tags: ["native american history", "indigenous peoples", "american history", "tribal nations"]
 heroImage: "/images/articles/native-american-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of native american history"
+heroAlt: "Native American history spans over 15,000 years of indigenous life in North America"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1689
 tier: "3"

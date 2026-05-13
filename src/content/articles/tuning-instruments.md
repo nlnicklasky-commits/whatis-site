@@ -5,10 +5,10 @@ description: "Tuning is the process of adjusting an instrument's pitch to a stan
 category: arts-amp-culture
 tags: ["tuning instruments", "music theory", "pitch", "temperament", "A440", "intonation"]
 heroImage: "/images/articles/tuning-instruments-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tuning (instruments)"
+heroAlt: "Tuning is the process of adjusting an instrument's pitch to a standard"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 986
 tier: "3"

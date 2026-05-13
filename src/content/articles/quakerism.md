@@ -5,10 +5,10 @@ description: "Quakerism is a Christian movement emphasizing direct experience of
 category: religion
 tags: ["quakerism", "religion", "Christianity", "peace", "equality", "silent worship"]
 heroImage: "/images/articles/quakerism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quakerism"
+heroAlt: "Quakerism is a Christian movement emphasizing direct experience of God, silent worship, equality, and peace"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1118
 tier: "3"

@@ -5,10 +5,10 @@ description: "Organizational psychology applies psychological science to the wor
 category: psychology
 tags: ["organizational psychology", "i-o psychology", "workplace psychology", "human resources", "leadership", "job satisfaction"]
 heroImage: "/images/articles/organizational-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of organizational psychology"
+heroAlt: "Organizational psychology applies psychological science to the workplace, studying motivation, leadership, team dynamics, and job satisfaction"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2509
 tier: "2"

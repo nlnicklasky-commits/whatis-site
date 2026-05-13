@@ -5,10 +5,10 @@ description: "Illustration is visual art created to explain, decorate, or tell s
 category: arts-amp-culture
 tags: ["illustration", "art", "visual communication", "drawing", "painting", "digital art"]
 heroImage: "/images/articles/illustration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of illustration"
+heroAlt: "Illustration is visual art created to explain, decorate, or tell stories alongside text"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 987
 tier: "3"

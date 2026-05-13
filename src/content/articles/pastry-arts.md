@@ -5,10 +5,10 @@ description: "Pastry arts is the culinary discipline of creating baked goods, de
 category: everyday-concepts
 tags: ["pastry arts", "baking", "desserts", "confectionery", "pastry chef", "culinary arts"]
 heroImage: "/images/articles/pastry-arts-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pastry arts"
+heroAlt: "Pastry arts is the culinary discipline of creating baked goods, desserts, and confections"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 967
 tier: "3"

@@ -5,10 +5,10 @@ description: "Motorcycle maintenance covers the routine care and repair of motor
 category: sports
 tags: ["motorcycle", "maintenance", "bike care", "vehicle maintenance", "motorcycle repair", "riding safety"]
 heroImage: "/images/articles/motorcycle-maintenance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of motorcycle maintenance"
+heroAlt: "Motorcycle maintenance covers the routine care and repair of motorcycles to ensure safety and performance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 692
 tier: "3"

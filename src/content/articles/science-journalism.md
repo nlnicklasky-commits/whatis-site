@@ -5,10 +5,10 @@ description: "Science journalism translates research findings into stories the p
 category: everyday-concepts
 tags: ["science", "journalism", "science communication", "research", "public understanding", "scientific literacy"]
 heroImage: "/images/articles/science-journalism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of science journalism"
+heroAlt: "Science journalism translates research findings into stories the public can understand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1099
 tier: "3"

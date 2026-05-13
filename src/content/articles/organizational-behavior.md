@@ -5,10 +5,10 @@ description: "Organizational behavior studies how people act in workplaces and w
 category: everyday-concepts
 tags: ["organizational behavior", "ob", "workplace psychology", "human resources", "leadership", "team dynamics"]
 heroImage: "/images/articles/organizational-behavior-hero.webp"
-heroAlt: "Editorial photograph representing the concept of organizational behavior"
+heroAlt: "Organizational behavior studies how people act in workplaces and why"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 988
 tier: "3"

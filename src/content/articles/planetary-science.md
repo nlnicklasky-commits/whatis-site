@@ -5,10 +5,10 @@ description: "Planetary science studies planets, moons, and other bodies in our 
 category: science
 tags: ["astronomy", "planets", "space", "solar system", "exoplanets", "astrobiology", "geology"]
 heroImage: "/images/articles/planetary-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of planetary science"
+heroAlt: "Planetary science studies planets, moons, and other bodies in our solar system and beyond"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2415
 tier: "2"

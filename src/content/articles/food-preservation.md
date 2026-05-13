@@ -5,10 +5,10 @@ description: "Food preservation extends the shelf life of food through technique
 category: everyday-concepts
 tags: ["food science", "food safety", "preservation", "shelf life", "canning", "freezing"]
 heroImage: "/images/articles/food-preservation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of food preservation"
+heroAlt: "Food preservation extends the shelf life of food through techniques like canning, freezing, drying, and fermentation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 934
 tier: "3"

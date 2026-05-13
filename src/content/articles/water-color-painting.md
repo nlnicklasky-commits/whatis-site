@@ -5,10 +5,10 @@ description: "Watercolor painting uses water-soluble pigments on paper to create
 category: everyday-concepts
 tags: ["water color painting", "watercolor", "painting", "art", "fine art", "techniques"]
 heroImage: "/images/articles/water-color-painting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of water color painting"
+heroAlt: "Watercolor painting uses water-soluble pigments on paper to create luminous, transparent art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 875
 tier: "3"

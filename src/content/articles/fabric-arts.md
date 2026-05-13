@@ -5,10 +5,10 @@ description: "Fabric arts encompass textile-based creative practices like weavin
 category: arts-amp-culture
 tags: ["textile art", "fiber art", "crafts", "quilting", "embroidery", "weaving"]
 heroImage: "/images/articles/fabric-arts-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fabric arts"
+heroAlt: "Fabric arts encompass textile-based creative practices like weaving, quilting, and embroidery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 898
 tier: "3"

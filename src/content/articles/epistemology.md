@@ -5,10 +5,10 @@ description: "Epistemology is the branch of philosophy studying knowledge itself
 category: everyday-concepts
 tags: ["epistemology", "everyday-concepts"]
 heroImage: "/images/articles/epistemology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of epistemology"
+heroAlt: "Epistemology is the branch of philosophy studying knowledge itself"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1119
 tier: "3"

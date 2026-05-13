@@ -5,10 +5,10 @@ description: "Desktop publishing (DTP) uses software to create print and digital
 category: technology
 tags: ["desktop publishing", "graphic design", "typography", "layout", "print", "publishing", "dtp"]
 heroImage: "/images/articles/desktop-publishing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of desktop publishing"
+heroAlt: "Desktop publishing (DTP) uses software to create print and digital layouts"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2467
 tier: "2"

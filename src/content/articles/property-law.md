@@ -5,10 +5,10 @@ description: "Property law governs ownership, use, and transfer of land and poss
 category: law
 tags: ["property law", "real estate law", "land law", "ownership"]
 heroImage: "/images/articles/property-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of property law"
+heroAlt: "Property law governs ownership, use, and transfer of land and possessions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1513
 tier: "3"

@@ -5,10 +5,10 @@ description: "Home brewing is making beer, wine, or cider at home using basic eq
 category: everyday-concepts
 tags: ["home brewing", "brewing", "beer", "wine", "fermentation", "craft beer"]
 heroImage: "/images/articles/home-brewing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of home brewing"
+heroAlt: "Home brewing is making beer, wine, or cider at home using basic equipment and ingredients"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 983
 tier: "3"

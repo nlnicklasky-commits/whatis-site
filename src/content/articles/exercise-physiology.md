@@ -5,10 +5,10 @@ description: "Exercise physiology studies how your body responds and adapts to p
 category: health-amp-wellness
 tags: ["exercise physiology", "exercise", "sports science", "health", "fitness"]
 heroImage: "/images/articles/exercise-physiology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of exercise physiology"
+heroAlt: "Exercise physiology studies how your body responds and adapts to physical activity, covering energy systems, muscle function, and training principles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1629
 tier: "3"

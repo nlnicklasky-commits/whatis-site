@@ -5,10 +5,10 @@ description: "Craft beer is beer made by small, independent breweries focused on
 category: everyday-concepts
 tags: ["craft beer", "beer", "brewing", "microbrewery", "independent brewery", "ale"]
 heroImage: "/images/articles/craft-beer-hero.webp"
-heroAlt: "Editorial photograph representing the concept of craft beer"
+heroAlt: "Craft beer is beer made by small, independent breweries focused on quality and flavor"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"

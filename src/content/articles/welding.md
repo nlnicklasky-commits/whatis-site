@@ -5,10 +5,10 @@ description: "Welding is a fabrication process that joins materials, usually met
 category: technology
 tags: ["welding", "manufacturing", "metalwork"]
 heroImage: "/images/articles/welding-hero.webp"
-heroAlt: "Editorial photograph representing the concept of welding"
+heroAlt: "Welding is a fabrication process that joins materials, usually metals, by applying heat, pressure, or both to fuse them together at the molecular level"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2392
 tier: "2"

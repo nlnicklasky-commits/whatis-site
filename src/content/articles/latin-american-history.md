@@ -5,10 +5,10 @@ description: "Latin American history covers indigenous civilizations, European c
 category: history
 tags: ["colonialism", "latin america", "history", "indigenous peoples", "independence movements"]
 heroImage: "/images/articles/latin-american-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of latin american history"
+heroAlt: "Latin American history covers indigenous civilizations, European colonization, independence movements, and modern struggles across Central and South America"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1795
 tier: "3"

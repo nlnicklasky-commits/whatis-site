@@ -5,10 +5,10 @@ description: "Hydraulics uses pressurized fluid to generate force and motion. Le
 category: technology
 tags: ["hydraulics", "fluid mechanics", "engineering", "fluid power", "mechanical engineering", "pressure", "machinery"]
 heroImage: "/images/articles/hydraulics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hydraulics"
+heroAlt: "Hydraulics uses pressurized fluid to generate force and motion"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2477
 tier: "2"

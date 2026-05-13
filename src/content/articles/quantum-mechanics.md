@@ -5,10 +5,10 @@ description: "Quantum mechanics describes how matter and energy behave at atomic
 category: everyday-concepts
 tags: ["quantum mechanics", "physics", "atoms", "particles", "wave-particle duality", "science"]
 heroImage: "/images/articles/quantum-mechanics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantum mechanics"
+heroAlt: "Quantum mechanics describes how matter and energy behave at atomic and subatomic scales, where the rules of everyday physics break down"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1177
 tier: "3"

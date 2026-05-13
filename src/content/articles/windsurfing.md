@@ -5,10 +5,10 @@ description: "Windsurfing combines sailing and surfing on a board with an attach
 category: sports
 tags: ["windsurfing", "water sports", "sailing", "surfing", "extreme sports", "outdoor recreation"]
 heroImage: "/images/articles/windsurfing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of windsurfing"
+heroAlt: "Windsurfing combines sailing and surfing on a board with an attached sail"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 990
 tier: "3"

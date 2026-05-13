@@ -5,10 +5,10 @@ description: "Economic theory is a set of principles and models that explain how
 category: finance
 tags: ["economic theory", "economics", "microeconomics", "macroeconomics", "supply and demand", "scarcity", "rational choice"]
 heroImage: "/images/articles/economic-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of economic theory"
+heroAlt: "Economic theory is a set of principles and models that explain how economies function, how people make choices, and how resources get allocated"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2526
 tier: "2"

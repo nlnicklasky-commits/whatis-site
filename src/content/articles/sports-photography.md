@@ -5,10 +5,10 @@ description: "Sports photography captures athletic action, emotion, and drama th
 category: arts-amp-culture
 tags: ["sports photography", "photography", "action photography", "camera", "photojournalism", "athletics"]
 heroImage: "/images/articles/sports-photography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sports photography"
+heroAlt: "Sports photography captures athletic action, emotion, and drama through still images"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1033
 tier: "3"

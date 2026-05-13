@@ -5,10 +5,10 @@ description: "Trapping is the practice of capturing wild animals using mechanica
 category: everyday-concepts
 tags: ["trapping", "wildlife", "hunting", "fur trade", "conservation", "outdoors"]
 heroImage: "/images/articles/trapping-hero.webp"
-heroAlt: "Editorial photograph representing the concept of trapping"
+heroAlt: "Trapping is the practice of capturing wild animals using mechanical devices"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 703
 tier: "3"

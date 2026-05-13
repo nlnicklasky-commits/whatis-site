@@ -5,10 +5,10 @@ description: "Grilling cooks food over direct high heat from charcoal, gas, or w
 category: everyday-concepts
 tags: ["grilling", "barbecue", "cooking", "outdoor cooking", "food", "charcoal"]
 heroImage: "/images/articles/grilling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of grilling"
+heroAlt: "Grilling cooks food over direct high heat from charcoal, gas, or wood"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1013
 tier: "3"

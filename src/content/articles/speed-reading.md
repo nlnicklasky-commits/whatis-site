@@ -5,10 +5,10 @@ description: "Speed reading is a set of techniques for reading faster while reta
 category: everyday-concepts
 tags: ["speed reading", "reading", "literacy", "study skills", "productivity", "learning"]
 heroImage: "/images/articles/speed-reading-hero.webp"
-heroAlt: "Editorial photograph representing the concept of speed reading"
+heroAlt: "Speed reading is a set of techniques for reading faster while retaining information"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1025
 tier: "3"

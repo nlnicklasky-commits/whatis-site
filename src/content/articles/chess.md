@@ -5,10 +5,10 @@ description: "Chess is a two-player strategy board game played on a 64-square bo
 category: everyday-concepts
 tags: ["chess", "board games", "strategy", "competition", "games", "puzzles"]
 heroImage: "/images/articles/chess-hero.webp"
-heroAlt: "Editorial photograph representing the concept of chess"
+heroAlt: "Chess is a two-player strategy board game played on a 64-square board with 16 pieces per side, where the goal is to checkmate the opponent's king"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1124
 tier: "3"

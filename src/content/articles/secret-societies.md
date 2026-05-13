@@ -5,10 +5,10 @@ description: "Secret societies are organizations with hidden membership, rituals
 category: history
 tags: ["secret society", "freemasonry", "fraternal order", "conspiracy"]
 heroImage: "/images/articles/secret-societies-hero.webp"
-heroAlt: "Editorial photograph representing the concept of secret societies"
+heroAlt: "Secret societies are organizations with hidden membership, rituals, and goals that have influenced politics, religion, and culture for centuries"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1881
 tier: "3"

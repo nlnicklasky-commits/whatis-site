@@ -5,10 +5,10 @@ description: "Paleobiology studies ancient life through fossils, combining biolo
 category: science
 tags: ["paleobiology", "paleontology", "fossils", "evolution", "paleoecology", "ancient life", "biology"]
 heroImage: "/images/articles/paleobiology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paleobiology"
+heroAlt: "Paleobiology studies ancient life through fossils, combining biology and geology to understand evolution, extinction, and how organisms shaped Earth"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2237
 tier: "2"

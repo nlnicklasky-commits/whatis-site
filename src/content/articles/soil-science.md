@@ -5,10 +5,10 @@ description: "Soil science studies the formation, classification, and properties
 category: science
 tags: ["soil science", "earth science", "agriculture", "ecology", "geology", "environmental science"]
 heroImage: "/images/articles/soil-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of soil science"
+heroAlt: "Soil science studies the formation, classification, and properties of soil as a natural resource"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2408
 tier: "2"

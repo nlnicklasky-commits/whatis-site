@@ -5,10 +5,10 @@ description: "Celtic history covers the Iron Age peoples who spread across Europ
 category: history
 tags: ["celtic history", "celts", "ancient history", "european history", "archaeology"]
 heroImage: "/images/articles/celtic-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of celtic history"
+heroAlt: "Celtic history covers the Iron Age peoples who spread across Europe from 800 BCE, leaving lasting marks on language, art, law, and cultural identity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1448
 tier: "3"

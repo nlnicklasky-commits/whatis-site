@@ -5,10 +5,10 @@ description: "Christianity is a monotheistic religion centered on Jesus Christ. 
 category: philosophy
 tags: ["christianity", "religion", "jesus christ", "bible", "faith", "theology", "monotheism"]
 heroImage: "/images/articles/christianity-hero.webp"
-heroAlt: "Editorial photograph representing the concept of christianity"
+heroAlt: "Christianity is a monotheistic religion centered on Jesus Christ"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2882
 tier: "2"

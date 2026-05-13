@@ -5,10 +5,10 @@ description: "Criminology is the scientific study of crime, criminals, and the c
 category: everyday-concepts
 tags: ["criminology", "crime", "criminal justice", "sociology", "law", "deviance"]
 heroImage: "/images/articles/criminology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of criminology"
+heroAlt: "Criminology is the scientific study of crime, criminals, and the criminal justice system"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 959
 tier: "3"

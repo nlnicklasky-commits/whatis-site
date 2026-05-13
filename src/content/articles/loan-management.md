@@ -5,10 +5,10 @@ description: "Loan management covers the full lifecycle of lending, from origina
 category: finance
 tags: ["loan management", "finance", "lending", "debt", "interest rates", "credit", "banking"]
 heroImage: "/images/articles/loan-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of loan management"
+heroAlt: "Loan management covers the full lifecycle of lending, from origination to payoff"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2558
 tier: "2"

@@ -5,10 +5,10 @@ description: "Particle physics studies the fundamental building blocks of matter
 category: everyday-concepts
 tags: ["particle physics", "quantum physics", "Standard Model", "quarks", "CERN", "Higgs boson"]
 heroImage: "/images/articles/particle-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of particle physics"
+heroAlt: "Particle physics studies the fundamental building blocks of matter and the forces between them"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1069
 tier: "3"

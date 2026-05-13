@@ -5,10 +5,10 @@ description: "Kabbalah is the mystical tradition within Judaism that seeks hidde
 category: everyday-concepts
 tags: ["kabbalah", "Jewish mysticism", "religion", "spirituality", "Torah"]
 heroImage: "/images/articles/kabbalah-hero.webp"
-heroAlt: "Editorial photograph representing the concept of kabbalah"
+heroAlt: "Kabbalah is the mystical tradition within Judaism that seeks hidden meanings in scripture and explores divine nature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 800
 tier: "3"

@@ -5,10 +5,10 @@ description: "An abacus is one of the oldest counting tools in history, used for
 category: everyday-concepts
 tags: ["abacus", "counting tool", "mathematics", "arithmetic"]
 heroImage: "/images/articles/abacus-hero.webp"
-heroAlt: "Editorial photograph representing the concept of abacus"
+heroAlt: "An abacus is one of the oldest counting tools in history, used for arithmetic across many cultures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1105
 tier: "3"

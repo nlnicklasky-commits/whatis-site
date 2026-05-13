@@ -5,10 +5,10 @@ description: "Acupuncture is a traditional Chinese medical practice that inserts
 category: health-amp-wellness
 tags: ["acupuncture", "traditional chinese medicine", "alternative medicine", "pain management"]
 heroImage: "/images/articles/acupuncture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of acupuncture"
+heroAlt: "Acupuncture is a traditional Chinese medical practice that inserts thin needles into specific body points to treat pain and various conditions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1844
 tier: '2'

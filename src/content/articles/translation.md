@@ -5,10 +5,10 @@ description: "Translation is the process of converting text or speech from one l
 category: everyday-concepts
 tags: ["translation", "linguistics", "language", "interpretation", "localization", "communication"]
 heroImage: "/images/articles/translation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of translation"
+heroAlt: "Translation is the process of converting text or speech from one language to another"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 759
 tier: "3"

@@ -5,10 +5,10 @@ description: "Ichthyology is the branch of zoology that studies fish. Discover f
 category: science
 tags: ["ichthyology", "fish", "zoology", "marine biology", "aquatic life", "fisheries", "conservation"]
 heroImage: "/images/articles/ichthyology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ichthyology"
+heroAlt: "Ichthyology is the branch of zoology that studies fish"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2758
 tier: "2"

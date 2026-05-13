@@ -5,10 +5,10 @@ description: "Australian history spans over 65,000 years of Indigenous civilizat
 category: history
 tags: ["australian history", "australia", "indigenous australians", "federation"]
 heroImage: "/images/articles/australian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of australian history"
+heroAlt: "Australian history spans over 65,000 years of Indigenous civilization and 236 years since British colonization in 1788"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1621
 tier: "3"

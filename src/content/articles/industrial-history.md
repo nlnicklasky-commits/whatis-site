@@ -5,10 +5,10 @@ description: "Industrial history traces how manufacturing, technology, and labor
 category: history
 tags: ["industrial history", "industrial revolution", "economic history", "technology", "labor history"]
 heroImage: "/images/articles/industrial-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of industrial history"
+heroAlt: "Industrial history traces how manufacturing, technology, and labor shaped modern economies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1707
 tier: "3"

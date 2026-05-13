@@ -5,10 +5,10 @@ description: "Quantum physics studies matter and energy at atomic scales, where 
 category: everyday-concepts
 tags: ["quantum physics", "physics", "atoms", "science", "wave function", "subatomic"]
 heroImage: "/images/articles/quantum-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantum physics"
+heroAlt: "Quantum physics studies matter and energy at atomic scales, where particles follow probability rules instead of classical certainty"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1114
 tier: "3"

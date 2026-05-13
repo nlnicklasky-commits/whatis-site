@@ -5,10 +5,10 @@ description: "European history spans from ancient Greece and Rome through the Re
 category: history
 tags: ["european history", "europe", "renaissance", "revolutions", "world wars"]
 heroImage: "/images/articles/european-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of european history"
+heroAlt: "European history spans from ancient Greece and Rome through the Renaissance, revolutions, world wars, and the formation of the modern European Union"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1623
 tier: "3"

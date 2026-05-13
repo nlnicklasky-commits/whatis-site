@@ -5,10 +5,10 @@ description: "Korean history spans 5,000 years from ancient kingdoms to a divide
 category: everyday-concepts
 tags: ["Korean history", "Korea", "Joseon dynasty", "Korean War", "East Asia", "world history"]
 heroImage: "/images/articles/korean-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of korean history"
+heroAlt: "Korean history spans 5,000 years from ancient kingdoms to a divided peninsula"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1107
 tier: "3"

@@ -5,10 +5,10 @@ description: "Military strategy is the planning and conduct of warfare at the hi
 category: politics
 tags: ["military strategy", "warfare", "defense", "tactics", "geopolitics", "history"]
 heroImage: "/images/articles/military-strategy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of military strategy"
+heroAlt: "Military strategy is the planning and conduct of warfare at the highest level"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 886
 tier: "3"

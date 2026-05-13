@@ -5,10 +5,10 @@ description: "Hospitality management covers running hotels, restaurants, and tou
 category: everyday-concepts
 tags: ["hospitality management", "hotels", "restaurants", "tourism", "customer service", "business"]
 heroImage: "/images/articles/hospitality-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hospitality management"
+heroAlt: "Hospitality management covers running hotels, restaurants, and tourism businesses"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 960
 tier: "3"

@@ -5,10 +5,10 @@ description: "Herpetology is the branch of zoology that studies reptiles and amp
 category: science
 tags: ["herpetology", "amphibians", "reptiles", "zoology", "conservation", "ecology", "snakes"]
 heroImage: "/images/articles/herpetology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of herpetology"
+heroAlt: "Herpetology is the branch of zoology that studies reptiles and amphibians, covering their biology, ecology, behavior, evolution, and conservation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2581
 tier: "2"

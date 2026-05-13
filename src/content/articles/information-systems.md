@@ -5,10 +5,10 @@ description: "Information systems combine technology, people, and processes to c
 category: technology
 tags: ["information systems", "it", "business technology", "erp", "crm", "data management"]
 heroImage: "/images/articles/information-systems-hero.webp"
-heroAlt: "Editorial photograph representing the concept of information systems"
+heroAlt: "Information systems combine technology, people, and processes to collect and manage data"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2494
 tier: "2"

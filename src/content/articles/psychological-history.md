@@ -5,10 +5,10 @@ description: "Psychological history applies psychology to understand historical 
 category: history
 tags: ["psychological history", "psychology", "history", "psychoanalysis"]
 heroImage: "/images/articles/psychological-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of psychological history"
+heroAlt: "Psychological history applies psychology to understand historical figures and events"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1521
 tier: "3"

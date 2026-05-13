@@ -5,10 +5,10 @@ description: "Tarot reading uses a deck of 78 cards to gain insight into questio
 category: arts-amp-culture
 tags: ["tarot", "tarot reading", "divination", "cartomancy", "major arcana", "minor arcana"]
 heroImage: "/images/articles/tarot-reading-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tarot reading"
+heroAlt: "Tarot reading uses a deck of 78 cards to gain insight into questions and situations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 854
 tier: "3"

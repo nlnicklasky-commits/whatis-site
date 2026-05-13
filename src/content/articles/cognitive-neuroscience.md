@@ -5,10 +5,10 @@ description: "Cognitive neuroscience studies how brain structures and neural act
 category: science
 tags: ["cognitive neuroscience", "neuroscience", "psychology", "brain", "cognition", "neuroimaging", "mental processes"]
 heroImage: "/images/articles/cognitive-neuroscience-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cognitive neuroscience"
+heroAlt: "Cognitive neuroscience studies how brain structures and neural activity produce thought, memory, perception, and decision-making in humans"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3248
 tier: "1"

@@ -5,10 +5,10 @@ description: "Video production is the full process of creating video content, fr
 category: arts-amp-culture
 tags: ["video production", "filmmaking", "content creation", "cinematography", "media", "storytelling"]
 heroImage: "/images/articles/video-production-hero.webp"
-heroAlt: "Editorial photograph representing the concept of video production"
+heroAlt: "Video production is the full process of creating video content, from concept to final delivery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 984
 tier: "3"

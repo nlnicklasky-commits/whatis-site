@@ -5,10 +5,10 @@ description: "Aircraft mechanics keeps planes flying safely through inspection, 
 category: technology
 tags: ["aircraft mechanics", "aviation", "amt", "a&p", "aviation maintenance", "aircraft repair", "faa"]
 heroImage: "/images/articles/aircraft-mechanics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of aircraft mechanics"
+heroAlt: "Aircraft mechanics keeps planes flying safely through inspection, repair, and maintenance governed by strict FAA regulations and A&P certification"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 14
 wordCount: 3766
 tier: "1"

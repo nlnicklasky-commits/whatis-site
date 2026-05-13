@@ -5,10 +5,10 @@ description: "Global economics studies international trade, finance, and policy 
 category: finance
 tags: ["global economics", "international trade", "economics", "finance", "globalization", "foreign investment", "exchange rates"]
 heroImage: "/images/articles/global-economics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of global economics"
+heroAlt: "Global economics studies international trade, finance, and policy across borders"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2577
 tier: "2"

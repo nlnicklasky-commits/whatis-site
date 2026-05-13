@@ -5,10 +5,10 @@ description: "Physical anthropology studies human biology, evolution, and variat
 category: science
 tags: ["anthropology", "human evolution", "primatology", "archaeology", "human biology", "fossils", "genetics"]
 heroImage: "/images/articles/physical-anthropology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of physical anthropology"
+heroAlt: "Physical anthropology studies human biology, evolution, and variation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2687
 tier: "2"

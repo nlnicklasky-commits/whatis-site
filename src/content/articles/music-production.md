@@ -5,10 +5,10 @@ description: "Music production is the process of creating, recording, and refini
 category: arts-amp-culture
 tags: ["music production", "recording", "mixing", "mastering", "DAW", "audio engineering"]
 heroImage: "/images/articles/music-production-hero.webp"
-heroAlt: "Editorial photograph representing the concept of music production"
+heroAlt: "Music production is the process of creating, recording, and refining audio recordings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1080
 tier: "3"

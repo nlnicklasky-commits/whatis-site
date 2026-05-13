@@ -5,10 +5,10 @@ description: "Physiognomy is the discredited practice of judging character from 
 category: everyday-concepts
 tags: ["physiognomy", "pseudoscience", "history", "psychology", "face reading", "bias"]
 heroImage: "/images/articles/physiognomy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of physiognomy"
+heroAlt: "Physiognomy is the discredited practice of judging character from facial features"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 957
 tier: "3"

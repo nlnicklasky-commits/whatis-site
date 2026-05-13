@@ -5,10 +5,10 @@ description: "Midwifery is the practice of supporting women through pregnancy, l
 category: health-amp-wellness
 tags: ["healthcare", "midwifery", "childbirth"]
 heroImage: "/images/articles/midwifery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of midwifery"
+heroAlt: "Midwifery is the practice of supporting women through pregnancy, labor, and postpartum care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1539
 tier: "3"

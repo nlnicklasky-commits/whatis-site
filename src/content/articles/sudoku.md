@@ -5,10 +5,10 @@ description: "Sudoku is a number-placement puzzle where you fill a 9x9 grid usin
 category: everyday-concepts
 tags: ["sudoku", "puzzle", "logic", "number puzzle", "games", "brain teaser"]
 heroImage: "/images/articles/sudoku-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sudoku"
+heroAlt: "Sudoku is a number-placement puzzle where you fill a 9x9 grid using logic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 795
 tier: "3"

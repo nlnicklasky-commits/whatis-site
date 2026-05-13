@@ -5,10 +5,10 @@ description: "Parliamentary procedure is a set of rules for conducting orderly m
 category: everyday-concepts
 tags: ["parliamentary procedure", "meetings", "governance", "Roberts Rules", "democracy", "organizations"]
 heroImage: "/images/articles/parliamentary-procedure-hero.webp"
-heroAlt: "Editorial photograph representing the concept of parliamentary procedure"
+heroAlt: "Parliamentary procedure is a set of rules for conducting orderly meetings and making group decisions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1020
 tier: "3"

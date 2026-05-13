@@ -5,10 +5,10 @@ description: "Wildlife photography captures images of animals in their natural h
 category: arts-culture
 tags: ["wildlife photography", "photography", "nature", "camera gear", "animals", "outdoor photography"]
 heroImage: "/images/articles/wildlife-photography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wildlife photography"
+heroAlt: "Wildlife photography captures images of animals in their natural habitats"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"

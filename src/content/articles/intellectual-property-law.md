@@ -5,10 +5,10 @@ description: "Intellectual property law protects creations of the mind through p
 category: everyday-concepts
 tags: ["intellectual property law", "patents", "copyright", "trademarks", "legal"]
 heroImage: "/images/articles/intellectual-property-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of intellectual property law"
+heroAlt: "Intellectual property law protects creations of the mind through patents, copyrights, trademarks, and trade secrets"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 869
 tier: "3"

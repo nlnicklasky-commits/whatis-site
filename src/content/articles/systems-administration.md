@@ -5,10 +5,10 @@ description: "Systems administration is the practice of managing, maintaining, a
 category: technology
 tags: ["technology", "systems administration", "IT infrastructure", "networking", "server management", "DevOps"]
 heroImage: "/images/articles/systems-administration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of systems administration"
+heroAlt: "Systems administration is the practice of managing, maintaining, and configuring computer servers, networks, and infrastructure to keep IT systems running"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 2012
 tier: "2"

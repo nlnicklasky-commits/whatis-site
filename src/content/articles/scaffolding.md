@@ -5,10 +5,10 @@ description: "Scaffolding is a temporary structure that gives workers safe acces
 category: technology
 tags: ["scaffold", "construction", "building", "work platform", "safety", "temporary structure"]
 heroImage: "/images/articles/scaffolding-hero.webp"
-heroAlt: "Editorial photograph representing the concept of scaffolding"
+heroAlt: "Scaffolding is a temporary structure that gives workers safe access to heights"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3530
 tier: "1"

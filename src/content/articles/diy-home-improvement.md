@@ -5,10 +5,10 @@ description: "DIY home improvement means tackling home repairs and upgrades your
 category: everyday-concepts
 tags: ["diy home improvement", "everyday-concepts"]
 heroImage: "/images/articles/diy-home-improvement-hero.webp"
-heroAlt: "Editorial photograph representing the concept of diy home improvement"
+heroAlt: "DIY home improvement means tackling home repairs and upgrades yourself"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1072
 tier: "3"

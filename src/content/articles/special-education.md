@@ -5,10 +5,10 @@ description: "Special education provides tailored instruction for students with 
 category: education
 tags: ["special education", "IEP", "disabilities", "IDEA", "learning disabilities", "inclusion"]
 heroImage: "/images/articles/special-education-hero.webp"
-heroAlt: "Editorial photograph representing the concept of special education"
+heroAlt: "Special education provides tailored instruction for students with disabilities"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1248
 tier: "3"

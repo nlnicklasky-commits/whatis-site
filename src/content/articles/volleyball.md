@@ -5,10 +5,10 @@ description: "Volleyball is a team sport where two sides hit a ball over a net. 
 category: sports
 tags: ["volleyball", "team sports", "Olympic sports", "beach volleyball", "athletics", "indoor sports"]
 heroImage: "/images/articles/volleyball-hero.webp"
-heroAlt: "Editorial photograph representing the concept of volleyball"
+heroAlt: "Volleyball is a team sport where two sides hit a ball over a net"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1068
 tier: "3"

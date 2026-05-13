@@ -5,10 +5,10 @@ description: "Hydrogeology studies groundwater — how it moves, where it collec
 category: science
 tags: ["hydrogeology", "groundwater", "hydrology", "geology", "water resources", "aquifers", "water quality"]
 heroImage: "/images/articles/hydrogeology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hydrogeology"
+heroAlt: "Hydrogeology studies groundwater — how it moves, where it collects, and why it matters"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2536
 tier: "2"

@@ -5,10 +5,10 @@ description: "Circuit design is the process of creating electronic circuits that
 category: technology
 tags: ["circuit design", "electrical engineering", "electronics", "circuits", "schematics", "pcb", "digital"]
 heroImage: "/images/articles/circuit-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of circuit design"
+heroAlt: "Circuit design is the process of creating electronic circuits that perform specific functions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2738
 tier: "2"

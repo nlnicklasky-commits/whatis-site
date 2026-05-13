@@ -5,10 +5,10 @@ description: "An aquarium is a transparent container or facility housing aquatic
 category: everyday-concepts
 tags: ["aquarium", "fishkeeping", "aquascape", "marine biology", "fish", "pets"]
 heroImage: "/images/articles/aquariums-hero.webp"
-heroAlt: "Editorial photograph representing the concept of aquariums"
+heroAlt: "An aquarium is a transparent container or facility housing aquatic organisms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1057
 tier: "3"

@@ -5,10 +5,10 @@ description: "Fundamental analysis evaluates a stock's true value by studying fi
 category: finance
 tags: ["investment", "stocks", "bonds", "valuation", "financial analysis", "economics", "market analysis"]
 heroImage: "/images/articles/fundamental-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fundamental analysis"
+heroAlt: "Fundamental analysis evaluates a stock's true value by studying financial statements, industry conditions, and economic factors"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2611
 tier: "2"

@@ -5,10 +5,10 @@ description: "Space science is the study of everything beyond Earth's atmosphere
 category: science
 tags: ["space science", "astronomy", "astrophysics", "planetary science", "NASA", "cosmology"]
 heroImage: "/images/articles/space-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of space science"
+heroAlt: "Space science is the study of everything beyond Earth's atmosphere, from planets and stars to galaxies and cosmic radiation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2244
 tier: "2"

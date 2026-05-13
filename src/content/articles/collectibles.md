@@ -5,10 +5,10 @@ description: "Collectibles are objects valued for their rarity, nostalgia, or cu
 category: everyday-concepts
 tags: ["collectibles", "hobbies", "collecting", "antiques", "rarity", "value"]
 heroImage: "/images/articles/collectibles-hero.webp"
-heroAlt: "Editorial photograph representing the concept of collectibles"
+heroAlt: "Collectibles are objects valued for their rarity, nostalgia, or cultural significance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 921
 tier: "3"

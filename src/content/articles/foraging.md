@@ -5,10 +5,10 @@ description: "Foraging is gathering wild food from natural environments. Learn a
 category: everyday-concepts
 tags: ["wild food", "edible plants", "mushrooms", "nature", "sustainability", "self-sufficiency"]
 heroImage: "/images/articles/foraging-hero.webp"
-heroAlt: "Editorial photograph representing the concept of foraging"
+heroAlt: "Foraging is gathering wild food from natural environments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 915
 tier: "3"

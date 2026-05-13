@@ -5,10 +5,10 @@ description: "Voodoo (Vodou) is an Afro-Caribbean religion blending West African
 category: everyday-concepts
 tags: ["voodoo", "vodou", "religion", "Afro-Caribbean", "Haiti", "spirituality"]
 heroImage: "/images/articles/voodoo-hero.webp"
-heroAlt: "Editorial photograph representing the concept of voodoo"
+heroAlt: "Voodoo (Vodou) is an Afro-Caribbean religion blending West African traditions with Catholicism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 991
 tier: "3"

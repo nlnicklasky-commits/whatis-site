@@ -5,10 +5,10 @@ description: "Senior care encompasses the services, support systems, and medical
 category: health-amp-wellness
 tags: ["senior care", "elder care", "gerontology", "assisted living"]
 heroImage: "/images/articles/senior-care-hero.webp"
-heroAlt: "Editorial photograph representing the concept of senior care"
+heroAlt: "Senior care encompasses the services, support systems, and medical attention designed to help older adults live safely and with dignity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1785
 tier: "3"

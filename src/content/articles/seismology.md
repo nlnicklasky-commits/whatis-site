@@ -5,10 +5,10 @@ description: "Seismology is the study of earthquakes and seismic waves. Learn ho
 category: science
 tags: ["seismology", "earthquakes", "geology", "seismic waves", "plate tectonics", "geophysics", "earth science"]
 heroImage: "/images/articles/seismology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of seismology"
+heroAlt: "Seismology is the study of earthquakes and seismic waves"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3005
 tier: "1"

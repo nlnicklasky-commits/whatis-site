@@ -5,10 +5,10 @@ description: "Impressionism is an art movement from 1860s France that captured l
 category: everyday-concepts
 tags: ["impressionism", "art history", "painting", "French art", "Monet", "modern art"]
 heroImage: "/images/articles/impressionism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of impressionism"
+heroAlt: "Impressionism is an art movement from 1860s France that captured light and momentary scenes with visible brushwork"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 914
 tier: "3"

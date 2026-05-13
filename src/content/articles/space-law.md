@@ -5,10 +5,10 @@ description: "Space law governs human activities in outer space, including satel
 category: politics
 tags: ["space law", "outer space treaty", "international law", "satellites", "space exploration", "governance"]
 heroImage: "/images/articles/space-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of space law"
+heroAlt: "Space law governs human activities in outer space, including satellite operations, resource rights, and liability"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 2
 wordCount: 538
 tier: "3"

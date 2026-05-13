@@ -5,10 +5,10 @@ description: "Metal detecting is the hobby of using electronic devices to find b
 category: everyday-concepts
 tags: ["metal detecting", "treasure hunting", "hobby", "archaeology", "coins", "artifacts"]
 heroImage: "/images/articles/metal-detecting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of metal detecting"
+heroAlt: "Metal detecting is the hobby of using electronic devices to find buried metal objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 968
 tier: "3"

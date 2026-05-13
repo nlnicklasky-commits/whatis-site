@@ -5,10 +5,10 @@ description: "Marksmanship is the skill of accurately shooting firearms or other
 category: sports
 tags: ["marksmanship", "shooting sports", "target shooting", "firearms", "Olympic sports", "precision"]
 heroImage: "/images/articles/marksmanship-hero.webp"
-heroAlt: "Editorial photograph representing the concept of marksmanship"
+heroAlt: "Marksmanship is the skill of accurately shooting firearms or other projectile weapons"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 999
 tier: "3"

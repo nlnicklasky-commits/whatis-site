@@ -5,10 +5,10 @@ description: "Chivalry was the medieval code of conduct for knights, blending ma
 category: history
 tags: ["chivalry", "medieval history", "knighthood", "middle ages", "code of conduct"]
 heroImage: "/images/articles/chivalry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of chivalry"
+heroAlt: "Chivalry was the medieval code of conduct for knights, blending martial skill, religious duty, and courtly behavior into an idealized warrior ethic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1605
 tier: "3"

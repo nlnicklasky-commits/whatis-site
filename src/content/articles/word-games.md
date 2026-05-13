@@ -5,10 +5,10 @@ description: "Word games are puzzles and competitions based on language and voca
 category: everyday-concepts
 tags: ["word games", "puzzles", "Scrabble", "crosswords", "Wordle", "language"]
 heroImage: "/images/articles/word-games-hero.webp"
-heroAlt: "Editorial photograph representing the concept of a word game"
+heroAlt: "Word games are puzzles and competitions based on language and vocabulary"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 857
 tier: "3"

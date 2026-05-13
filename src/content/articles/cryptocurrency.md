@@ -5,7 +5,7 @@ description: "Cryptocurrency is digital money secured by cryptography on decentr
 category: technology
 tags: ["cryptocurrency", "blockchain", "bitcoin", "ethereum", "decentralized finance", "digital currency", "fintech"]
 heroImage: "/images/articles/cryptocurrency-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cryptocurrency"
+heroAlt: "Cryptocurrency is digital money secured by cryptography on decentralized networks"
 author: "WhatIs Editorial"
 datePublished: "2026-03-15"
 dateModified: "2026-05-12"

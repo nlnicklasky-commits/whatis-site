@@ -5,10 +5,10 @@ description: "Racquetball is a fast-paced indoor sport played with a hollow rubb
 category: sports
 tags: ["racquetball", "racquet sports", "indoor sports", "fitness", "court sports", "exercise"]
 heroImage: "/images/articles/racquetball-hero.webp"
-heroAlt: "Editorial photograph representing the concept of racquetball"
+heroAlt: "Racquetball is a fast-paced indoor sport played with a hollow rubber ball in an enclosed court"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1009
 tier: "3"

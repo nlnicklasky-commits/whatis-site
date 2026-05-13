@@ -5,10 +5,10 @@ description: "Gymnastics combines strength, flexibility, and artistry in events 
 category: sports
 tags: ["gymnastics", "sport", "athletics", "flexibility", "strength", "balance"]
 heroImage: "/images/articles/gymnastics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gymnastics"
+heroAlt: "Gymnastics combines strength, flexibility, and artistry in events like floor, vault, and bars"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1075
 tier: "3"

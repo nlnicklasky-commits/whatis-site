@@ -5,10 +5,10 @@ description: "Taxonomy is the science of classifying and naming organisms into h
 category: science
 tags: ["taxonomy", "biology", "classification", "nomenclature", "species", "genus", "kingdom", "phylum"]
 heroImage: "/images/articles/taxonomy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of taxonomy"
+heroAlt: "Taxonomy is the science of classifying and naming organisms into hierarchical groups based on shared characteristics and evolutionary relationships"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2248
 tier: "2"

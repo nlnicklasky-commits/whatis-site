@@ -5,10 +5,10 @@ description: "Social network analysis maps and measures relationships between pe
 category: science
 tags: ["social network analysis", "graph theory", "sociology", "data science", "network science", "research methods"]
 heroImage: "/images/articles/social-network-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social network analysis"
+heroAlt: "Social network analysis maps and measures relationships between people, groups, or organizations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2622
 tier: "2"

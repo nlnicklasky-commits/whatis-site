@@ -5,10 +5,10 @@ description: "Film editing is the art of selecting and assembling footage into a
 category: arts-amp-culture
 tags: ["film", "cinema", "post-production", "editing", "filmmaking", "movie making"]
 heroImage: "/images/articles/film-editing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of film editing"
+heroAlt: "Film editing is the art of selecting and assembling footage into a finished movie"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1017
 tier: "3"

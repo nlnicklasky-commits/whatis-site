@@ -5,10 +5,10 @@ description: "Investment management is the professional handling of securities a
 category: finance
 tags: ["investment management", "investing", "portfolio management", "wealth management", "asset management", "finance", "stocks"]
 heroImage: "/images/articles/investment-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of investment management"
+heroAlt: "Investment management is the professional handling of securities and assets to meet financial goals"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3333
 tier: "1"

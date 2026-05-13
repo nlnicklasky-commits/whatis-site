@@ -5,10 +5,10 @@ description: "Software engineering is the disciplined approach to designing, bui
 category: technology
 tags: ["software engineering", "programming", "software development", "computer science", "agile", "technology"]
 heroImage: "/images/articles/software-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of software engineering"
+heroAlt: "Software engineering is the disciplined approach to designing, building, testing, and maintaining software systems"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2324
 tier: "2"

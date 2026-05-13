@@ -5,10 +5,10 @@ description: "Taekwondo is a Korean martial art known for powerful kicks and fas
 category: sports
 tags: ["taekwondo", "martial arts", "Korean", "Olympics", "self-defense", "kicks"]
 heroImage: "/images/articles/taekwondo-hero.webp"
-heroAlt: "Editorial photograph representing the concept of taekwondo"
+heroAlt: "Taekwondo is a Korean martial art known for powerful kicks and fast footwork"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 784
 tier: "3"

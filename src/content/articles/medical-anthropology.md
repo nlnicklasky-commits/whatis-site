@@ -5,10 +5,10 @@ description: "Medical anthropology studies how culture, society, and politics sh
 category: health-amp-wellness
 tags: ["anthropology", "medical anthropology", "health"]
 heroImage: "/images/articles/medical-anthropology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of medical anthropology"
+heroAlt: "Medical anthropology studies how culture, society, and politics shape health, illness, and healing practices across different populations worldwide"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1498
 tier: "3"

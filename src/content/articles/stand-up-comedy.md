@@ -5,10 +5,10 @@ description: "Stand-up comedy is a performance art where a comedian speaks direc
 category: everyday-concepts
 tags: ["stand-up comedy", "comedy", "performing arts", "humor", "entertainment", "live performance"]
 heroImage: "/images/articles/stand-up-comedy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of stand-up comedy"
+heroAlt: "Stand-up comedy is a performance art where a comedian speaks directly to a live audience to make them laugh"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1195
 tier: "3"

@@ -5,10 +5,10 @@ description: "Radar uses electromagnetic waves to detect objects, measure speed,
 category: technology
 tags: ["radar", "electromagnetic waves", "detection", "aviation", "military", "weather", "technology"]
 heroImage: "/images/articles/radar-technology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of radar technology"
+heroAlt: "Radar uses electromagnetic waves to detect objects, measure speed, and map terrain"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2836
 tier: "2"

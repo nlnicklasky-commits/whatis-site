@@ -5,10 +5,10 @@ description: "Ultrasonography uses high-frequency sound waves to create images i
 category: health-amp-wellness
 tags: ["ultrasonography", "ultrasound", "medical imaging", "diagnostics"]
 heroImage: "/images/articles/ultrasonography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ultrasonography"
+heroAlt: "Ultrasonography uses high-frequency sound waves to create images inside the body"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1582
 tier: "3"

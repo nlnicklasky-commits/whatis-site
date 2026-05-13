@@ -5,10 +5,10 @@ description: "Mixology is the art and science of crafting cocktails. Learn about
 category: arts-amp-culture
 tags: ["mixology", "cocktails", "bartending", "spirits", "drinks", "craft beverages"]
 heroImage: "/images/articles/mixology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mixology"
+heroAlt: "Mixology is the art and science of crafting cocktails"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 755
 tier: "3"

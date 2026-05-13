@@ -5,10 +5,10 @@ description: "Semiconductor physics explains how materials like silicon conduct 
 category: science
 tags: ["semiconductor physics", "electronics", "physics", "transistors", "silicon", "band theory", "integrated circuits"]
 heroImage: "/images/articles/semiconductor-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of semiconductor physics"
+heroAlt: "Semiconductor physics explains how materials like silicon conduct electricity selectively, enabling transistors, chips, and every modern electronic device"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 14
 wordCount: 3738
 tier: "1"

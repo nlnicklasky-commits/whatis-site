@@ -5,10 +5,10 @@ description: "Motion graphics combine animation and graphic design to create mov
 category: technology
 tags: ["motion graphics", "animation", "graphic design", "video production", "digital art", "explainer video"]
 heroImage: "/images/articles/motion-graphics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of motion graphics"
+heroAlt: "Motion graphics combine animation and graphic design to create moving visuals for ads, films, apps, and explainer videos"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3574
 tier: "1"

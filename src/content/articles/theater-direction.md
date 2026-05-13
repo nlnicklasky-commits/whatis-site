@@ -5,10 +5,10 @@ description: "Theater direction is the art of guiding actors and creative teams 
 category: arts-amp-culture
 tags: ["theater direction", "directing", "theatre", "stage director", "artistic director", "play production"]
 heroImage: "/images/articles/theater-direction-hero.webp"
-heroAlt: "Editorial photograph representing the concept of theater direction"
+heroAlt: "Theater direction is the art of guiding actors and creative teams to bring a script to life on stage"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 765
 tier: "3"

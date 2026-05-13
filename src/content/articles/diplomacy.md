@@ -5,10 +5,10 @@ description: "Diplomacy is the practice of managing international relations thro
 category: history
 tags: ["diplomacy", "international relations", "foreign policy", "treaties"]
 heroImage: "/images/articles/diplomacy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of diplomacy"
+heroAlt: "Diplomacy is the practice of managing international relations through negotiation, dialogue, and treaty-making rather than force"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1476
 tier: "3"

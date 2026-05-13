@@ -5,10 +5,10 @@ description: "Theater arts is the discipline of creating live performances throu
 category: arts-amp-culture
 tags: ["theater arts", "theatre", "drama", "acting", "directing", "stagecraft"]
 heroImage: "/images/articles/theater-arts-hero.webp"
-heroAlt: "Editorial photograph representing the concept of theater arts"
+heroAlt: "Theater arts is the discipline of creating live performances through acting, directing, design, and stagecraft"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 2
 wordCount: 686
 tier: "3"

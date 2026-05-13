@@ -5,10 +5,10 @@ description: "Indigenous religions are spiritual traditions of native peoples wo
 category: everyday-concepts
 tags: ["indigenous religions", "spirituality", "animism", "oral tradition", "native peoples"]
 heroImage: "/images/articles/indigenous-religions-hero.webp"
-heroAlt: "Editorial photograph representing the concept of indigenous religions"
+heroAlt: "Indigenous religions are spiritual traditions of native peoples worldwide, rooted in land, ancestors, and oral tradition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 713
 tier: "3"

@@ -5,10 +5,10 @@ description: "Dermatology is the medical specialty focused on diagnosing and tre
 category: health-amp-wellness
 tags: ["dermatology", "skin health", "medicine", "skin conditions"]
 heroImage: "/images/articles/dermatology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dermatology"
+heroAlt: "Dermatology is the medical specialty focused on diagnosing and treating skin, hair, and nail conditions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1647
 tier: "3"

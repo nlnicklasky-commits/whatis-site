@@ -5,10 +5,10 @@ description: "Experimental physics tests theories through observation and measur
 category: science
 tags: ["experimental physics", "physics", "experiment", "scientific method", "observation", "measurement", "data analysis"]
 heroImage: "/images/articles/experimental-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of experimental physics"
+heroAlt: "Experimental physics tests theories through observation and measurement — how physicists design experiments, collect data, and push the limits of knowledge"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3213
 tier: "1"

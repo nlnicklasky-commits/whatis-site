@@ -5,10 +5,10 @@ description: "Programming languages let humans tell computers what to do. Explor
 category: technology
 tags: ["programming languages", "coding", "computer science", "software development", "python", "javascript", "java"]
 heroImage: "/images/articles/programming-languages-hero.webp"
-heroAlt: "Editorial photograph representing the concept of programming languages"
+heroAlt: "Programming languages let humans tell computers what to do"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2532
 tier: "2"

@@ -5,10 +5,10 @@ description: "Dynamic programming solves problems by breaking them into overlapp
 category: technology
 tags: ["dynamic programming", "algorithms", "computer science", "optimization", "recursion", "memoization", "programming"]
 heroImage: "/images/articles/dynamic-programming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dynamic programming"
+heroAlt: "Dynamic programming solves problems by breaking them into overlapping subproblems and storing results to avoid redundant work"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2709
 tier: "2"

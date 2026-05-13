@@ -5,10 +5,10 @@ description: "Aesthetics is the branch of philosophy studying beauty, taste, and
 category: philosophy
 tags: ["aesthetics", "philosophy", "art", "beauty", "taste", "philosophy of art", "art criticism"]
 heroImage: "/images/articles/aesthetics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of aesthetics"
+heroAlt: "Aesthetics is the branch of philosophy studying beauty, taste, and art"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2991
 tier: "2"

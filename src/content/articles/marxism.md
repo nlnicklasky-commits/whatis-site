@@ -5,10 +5,10 @@ description: "Marxism is a social, economic, and political theory developed by K
 category: politics
 tags: ["marxism", "political theory", "economics", "Karl Marx", "socialism", "class struggle"]
 heroImage: "/images/articles/marxism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of marxism"
+heroAlt: "Marxism is a social, economic, and political theory developed by Karl Marx analyzing class struggle and capitalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1090
 tier: "3"

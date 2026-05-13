@@ -5,10 +5,10 @@ description: "Babylonian mythology is the collection of myths, gods, and creatio
 category: history
 tags: ["babylonian mythology", "ancient mesopotamia", "epic of gilgamesh", "ancient religions"]
 heroImage: "/images/articles/babylonian-mythology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of babylonian mythology"
+heroAlt: "Babylonian mythology is the collection of myths, gods, and creation stories from ancient Mesopotamia, including the Epic of Gilgamesh"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1828
 tier: "3"

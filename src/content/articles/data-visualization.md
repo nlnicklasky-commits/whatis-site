@@ -5,10 +5,10 @@ description: "Data visualization turns numbers into graphics like charts and map
 category: technology
 tags: ["data visualization", "charts", "graphs", "infographics", "data science", "analytics", "design"]
 heroImage: "/images/articles/data-visualization-hero.webp"
-heroAlt: "Editorial photograph representing the concept of data visualization"
+heroAlt: "Data visualization turns numbers into graphics like charts and maps so humans can spot patterns fast"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2863
 tier: "2"

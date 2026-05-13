@@ -5,10 +5,10 @@ description: "Japanese art spans centuries of painting, ceramics, printmaking, a
 category: everyday-concepts
 tags: ["japanese art", "ukiyo-e", "ceramics", "calligraphy", "wabi-sabi", "Japanese culture"]
 heroImage: "/images/articles/japanese-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of japanese art"
+heroAlt: "Japanese art spans centuries of painting, ceramics, printmaking, and calligraphy shaped by Zen, nature, and refined aesthetics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 774
 tier: "3"

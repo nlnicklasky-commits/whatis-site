@@ -5,10 +5,10 @@ description: "Numerical analysis develops algorithms to approximate mathematical
 category: technology
 tags: ["numerical analysis", "mathematics", "algorithms", "approximation", "computational science", "engineering", "scientific computing"]
 heroImage: "/images/articles/numerical-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of numerical analysis"
+heroAlt: "Numerical analysis develops algorithms to approximate mathematical solutions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2671
 tier: "2"

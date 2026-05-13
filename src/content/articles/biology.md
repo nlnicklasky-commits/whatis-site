@@ -5,10 +5,10 @@ description: "Biology is the scientific study of living organisms and life proce
 category: science
 tags: ["biology", "living organisms", "cells", "evolution", "genetics", "ecosystems", "natural science"]
 heroImage: "/images/articles/biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of biology"
+heroAlt: "Biology is the scientific study of living organisms and life processes"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2557
 tier: "2"

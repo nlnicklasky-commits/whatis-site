@@ -5,10 +5,10 @@ description: "Marionettes are puppets controlled from above by strings or wires 
 category: arts-amp-culture
 tags: ["marionettes", "puppetry", "performing arts", "string puppets", "theater", "folk art"]
 heroImage: "/images/articles/marionettes-hero.webp"
-heroAlt: "Editorial photograph representing the concept of marionettes"
+heroAlt: "Marionettes are puppets controlled from above by strings or wires attached to a control bar"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 975
 tier: "3"

@@ -5,10 +5,10 @@ description: "Solid mechanics studies how solid materials deform and fail under 
 category: science
 tags: ["solid mechanics", "engineering", "physics", "stress", "strain", "materials science", "elasticity"]
 heroImage: "/images/articles/solid-mechanics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of solid mechanics"
+heroAlt: "Solid mechanics studies how solid materials deform and fail under forces"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2517
 tier: "2"

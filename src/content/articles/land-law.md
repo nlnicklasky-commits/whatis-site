@@ -5,10 +5,10 @@ description: "Land law governs the ownership, use, and transfer of real property
 category: law
 tags: ["property law", "land law", "real estate", "land ownership", "conveyancing"]
 heroImage: "/images/articles/land-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of land law"
+heroAlt: "Land law governs the ownership, use, and transfer of real property"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1823
 tier: "3"

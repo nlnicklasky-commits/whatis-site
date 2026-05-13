@@ -5,10 +5,10 @@ description: "Forensic science applies scientific methods to criminal and civil 
 category: science
 tags: ["crime", "investigation", "evidence", "laboratory", "dna", "fingerprints", "justice"]
 heroImage: "/images/articles/forensic-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of forensic science"
+heroAlt: "Forensic science applies scientific methods to criminal and civil investigations, from DNA analysis and fingerprinting to toxicology and digital evidence"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2810
 tier: "2"

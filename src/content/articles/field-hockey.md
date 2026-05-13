@@ -5,10 +5,10 @@ description: "Field hockey is a team sport where players use curved sticks to hi
 category: sports
 tags: ["hockey", "team sport", "stick sport", "olympics", "athletics", "field games"]
 heroImage: "/images/articles/field-hockey-hero.webp"
-heroAlt: "Editorial photograph representing the concept of field hockey"
+heroAlt: "Field hockey is a team sport where players use curved sticks to hit a ball into a goal"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1133
 tier: "3"

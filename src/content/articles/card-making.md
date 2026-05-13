@@ -5,10 +5,10 @@ description: "Card making is the craft of designing and creating handmade greeti
 category: arts-amp-culture
 tags: ["card making", "craft", "handmade cards", "paper craft", "scrapbooking", "stamping"]
 heroImage: "/images/articles/card-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of card making"
+heroAlt: "Card making is the craft of designing and creating handmade greeting cards using paper, stamps, inks, embellishments, and various artistic techniques"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1132
 tier: "3"

@@ -5,10 +5,10 @@ description: "Color theory explains how colors interact, combine, and affect per
 category: arts-amp-culture
 tags: ["color theory", "color", "art", "design", "visual arts", "hue"]
 heroImage: "/images/articles/color-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of color theory"
+heroAlt: "Color theory explains how colors interact, combine, and affect perception"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1093
 tier: "3"

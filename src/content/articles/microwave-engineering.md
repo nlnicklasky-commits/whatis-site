@@ -5,10 +5,10 @@ description: "Microwave engineering deals with electromagnetic waves from 300 MH
 category: technology
 tags: ["microwave engineering", "electromagnetics", "rf engineering", "antennas", "radar", "telecommunications", "electronics"]
 heroImage: "/images/articles/microwave-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of microwave engineering"
+heroAlt: "Microwave engineering deals with electromagnetic waves from 300 MHz to 300 GHz"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2517
 tier: "2"

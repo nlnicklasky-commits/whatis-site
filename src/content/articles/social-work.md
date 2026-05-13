@@ -5,10 +5,10 @@ description: "Social work helps individuals, families, and communities overcome 
 category: social-sciences
 tags: ["social work", "mental health", "community services", "child welfare", "counseling", "advocacy"]
 heroImage: "/images/articles/social-work-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social work"
+heroAlt: "Social work helps individuals, families, and communities overcome challenges and access resources"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 769
 tier: "3"

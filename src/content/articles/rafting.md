@@ -5,10 +5,10 @@ description: "Rafting is a water sport where groups ride inflatable rafts throug
 category: sports
 tags: ["rafting", "whitewater", "water sports", "outdoor recreation", "adventure", "rivers"]
 heroImage: "/images/articles/rafting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of rafting"
+heroAlt: "Rafting is a water sport where groups ride inflatable rafts through river rapids"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 932
 tier: "3"

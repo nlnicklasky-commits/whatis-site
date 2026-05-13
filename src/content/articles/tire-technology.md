@@ -5,10 +5,10 @@ description: "Tire technology is the engineering behind how tires are designed, 
 category: technology
 tags: ["tire technology", "tires", "rubber", "automotive engineering"]
 heroImage: "/images/articles/tire-technology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tire technology"
+heroAlt: "Tire technology is the engineering behind how tires are designed, built, and optimized"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3045
 tier: "1"

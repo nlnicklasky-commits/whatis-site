@@ -5,10 +5,10 @@ description: "Buddhism is a religion and philosophy founded by Siddhartha Gautam
 category: philosophy
 tags: ["buddhism", "religion", "philosophy", "siddhartha gautama", "buddha", "four noble truths", "eightfold path"]
 heroImage: "/images/articles/buddhism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of buddhism"
+heroAlt: "Buddhism is a religion and philosophy founded by Siddhartha Gautama based on the Four Noble Truths and the Eightfold Path to end suffering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3299
 tier: "1"

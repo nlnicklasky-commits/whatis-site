@@ -5,10 +5,10 @@ description: "Paleoclimatology studies Earth's past climates using ice cores, tr
 category: everyday-concepts
 tags: ["paleoclimatology", "climate science", "ice cores", "geology", "climate change", "earth science"]
 heroImage: "/images/articles/paleoclimatology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paleoclimatology"
+heroAlt: "Paleoclimatology studies Earth's past climates using ice cores, tree rings, and ocean sediments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1092
 tier: "3"

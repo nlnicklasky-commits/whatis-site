@@ -5,10 +5,10 @@ description: "Backpacking is independent, budget-conscious travel where you carr
 category: sports
 tags: ["backpacking", "travel", "adventure", "budget travel", "hiking", "cultural immersion"]
 heroImage: "/images/articles/backpacking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of backpacking"
+heroAlt: "Backpacking is independent, budget-conscious travel where you carry your belongings in a backpack, often combining hiking and cultural exploration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1010
 tier: "3"

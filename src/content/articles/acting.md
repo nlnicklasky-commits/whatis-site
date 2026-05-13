@@ -5,10 +5,10 @@ description: "Acting is the art of portraying characters through speech, movemen
 category: arts-amp-culture
 tags: ["acting", "theater", "film", "drama", "performance"]
 heroImage: "/images/articles/acting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of acting"
+heroAlt: "Acting is the art of portraying characters through speech, movement, and emotion"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1420
 tier: "3"

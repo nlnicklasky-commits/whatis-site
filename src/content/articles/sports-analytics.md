@@ -5,10 +5,10 @@ description: "Sports analytics uses data and statistics to evaluate players, opt
 category: sports
 tags: ["sports analytics", "sabermetrics", "data science", "statistics", "Moneyball", "performance analysis"]
 heroImage: "/images/articles/sports-analytics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sports analytics"
+heroAlt: "Sports analytics uses data and statistics to evaluate players, optimize strategy, and gain competitive advantages"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1058
 tier: "3"

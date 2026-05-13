@@ -5,10 +5,10 @@ description: "Computer vision enables machines to interpret visual information f
 category: everyday-concepts
 tags: ["computer vision", "everyday-concepts"]
 heroImage: "/images/articles/computer-vision-hero.webp"
-heroAlt: "Editorial photograph representing the concept of computer vision"
+heroAlt: "Computer vision enables machines to interpret visual information from images and video"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1079
 tier: "3"

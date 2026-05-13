@@ -5,10 +5,10 @@ description: "Nihilism is the philosophical view that life lacks objective meani
 category: everyday-concepts
 tags: ["nihilism", "philosophy", "existentialism", "Nietzsche", "meaning of life", "metaphysics"]
 heroImage: "/images/articles/nihilism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of nihilism"
+heroAlt: "Nihilism is the philosophical view that life lacks objective meaning, purpose, or value"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 944
 tier: "3"

@@ -5,10 +5,10 @@ description: "Wellness is the active pursuit of overall health across physical, 
 category: health-amp-wellness
 tags: ["wellness", "health", "well-being", "self-care"]
 heroImage: "/images/articles/wellness-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wellness"
+heroAlt: "Wellness is the active pursuit of overall health across physical, mental, and social dimensions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1596
 tier: "3"

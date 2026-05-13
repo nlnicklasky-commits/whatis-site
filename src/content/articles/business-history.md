@@ -5,10 +5,10 @@ description: "Business history studies how companies, industries, and commercial
 category: history
 tags: ["business history", "economic history", "corporations", "entrepreneurship"]
 heroImage: "/images/articles/business-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of business history"
+heroAlt: "Business history studies how companies, industries, and commercial practices have evolved over time, revealing patterns that shape modern economies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1420
 tier: "3"

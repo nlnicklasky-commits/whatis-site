@@ -5,10 +5,10 @@ description: "Tinsmithing is the craft of shaping thin metal sheets into functio
 category: arts-amp-culture
 tags: ["tinsmithing", "metalworking", "craft", "tinplate", "soldering", "sheet metal"]
 heroImage: "/images/articles/tinsmithing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tinsmithing"
+heroAlt: "Tinsmithing is the craft of shaping thin metal sheets into functional and decorative objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 2
 wordCount: 542
 tier: "3"

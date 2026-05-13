@@ -5,10 +5,10 @@ description: "Organic farming produces food without synthetic pesticides, fertil
 category: everyday-concepts
 tags: ["organic farming", "sustainable agriculture", "permaculture", "soil health", "biodiversity", "pesticide-free"]
 heroImage: "/images/articles/organic-farming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of organic farming"
+heroAlt: "Organic farming produces food without synthetic pesticides, fertilizers, or GMOs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1017
 tier: "3"

@@ -5,10 +5,10 @@ description: "Refrigeration is the process of removing heat from a space to lowe
 category: technology
 tags: ["refrigeration", "thermodynamics", "hvac", "cooling", "compressor", "refrigerant", "engineering"]
 heroImage: "/images/articles/refrigeration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of refrigeration"
+heroAlt: "Refrigeration is the process of removing heat from a space to lower its temperature"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2771
 tier: "2"

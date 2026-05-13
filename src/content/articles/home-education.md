@@ -5,10 +5,10 @@ description: "Home education (homeschooling) is parent-directed learning outside
 category: everyday-concepts
 tags: ["home education", "homeschooling", "education", "child development", "learning", "curriculum"]
 heroImage: "/images/articles/home-education-hero.webp"
-heroAlt: "Editorial photograph representing the concept of home education"
+heroAlt: "Home education (homeschooling) is parent-directed learning outside traditional schools"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1076
 tier: "3"

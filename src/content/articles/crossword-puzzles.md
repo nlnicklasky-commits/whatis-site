@@ -5,10 +5,10 @@ description: "Crossword puzzles are word games where clues lead to interlocking 
 category: everyday-concepts
 tags: ["crossword puzzles", "puzzles", "word games", "brain teasers", "mental exercise", "logic"]
 heroImage: "/images/articles/crossword-puzzles-hero.webp"
-heroAlt: "Editorial photograph representing the concept of crossword puzzles"
+heroAlt: "Crossword puzzles are word games where clues lead to interlocking answers in a grid"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 984
 tier: "3"

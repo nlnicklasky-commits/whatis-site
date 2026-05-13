@@ -5,10 +5,10 @@ description: "Chromatography separates mixtures into individual components for a
 category: science
 tags: ["chromatography", "analytical chemistry", "separation science", "laboratory techniques", "biochemistry", "forensics", "chemical analysis"]
 heroImage: "/images/articles/chromatography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of chromatography"
+heroAlt: "Chromatography separates mixtures into individual components for analysis"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2910
 tier: "2"

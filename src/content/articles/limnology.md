@@ -5,10 +5,10 @@ description: "Limnology is the study of inland waters including lakes, rivers, a
 category: science
 tags: ["limnology", "freshwater", "lakes", "rivers", "aquatic ecology", "water quality", "environmental science"]
 heroImage: "/images/articles/limnology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of limnology"
+heroAlt: "Limnology is the study of inland waters including lakes, rivers, and wetlands"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2850
 tier: "2"

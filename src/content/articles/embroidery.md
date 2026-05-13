@@ -5,10 +5,10 @@ description: "Embroidery is the craft of decorating fabric with needle and threa
 category: arts-amp-culture
 tags: ["embroidery", "textile art", "needlework", "handicraft", "fabric", "stitches"]
 heroImage: "/images/articles/embroidery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of embroidery"
+heroAlt: "Embroidery is the craft of decorating fabric with needle and thread"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1030
 tier: "3"

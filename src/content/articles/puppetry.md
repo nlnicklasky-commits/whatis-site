@@ -5,10 +5,10 @@ description: "Puppetry is the art of bringing inanimate figures to life through 
 category: arts-amp-culture
 tags: ["puppetry", "puppets", "puppeteer", "marionette", "hand puppet", "shadow puppetry"]
 heroImage: "/images/articles/puppetry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of puppetry"
+heroAlt: "Puppetry is the art of bringing inanimate figures to life through manipulation and performance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 976
 tier: "3"

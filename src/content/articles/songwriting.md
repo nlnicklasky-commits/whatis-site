@@ -5,10 +5,10 @@ description: "Songwriting is the craft of composing lyrics and melodies to creat
 category: arts-amp-culture
 tags: ["songwriting", "music composition", "lyrics", "melody", "music industry", "creativity"]
 heroImage: "/images/articles/songwriting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of songwriting"
+heroAlt: "Songwriting is the craft of composing lyrics and melodies to create songs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 950
 tier: "3"

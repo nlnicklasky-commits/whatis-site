@@ -5,10 +5,10 @@ description: "Amateur radio (ham radio) explained: licensing, frequencies, equip
 category: technology
 tags: ["amateur radio", "ham radio", "radio", "shortwave", "electronics", "communication", "fcc"]
 heroImage: "/images/articles/amateur-radio-hero.webp"
-heroAlt: "Editorial photograph representing the concept of amateur radio"
+heroAlt: "Amateur radio (ham radio) explained: licensing, frequencies, equipment, emergency use, and why millions worldwide still transmit over the airwaves"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3645
 tier: "1"

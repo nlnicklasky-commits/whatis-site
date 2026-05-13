@@ -5,10 +5,10 @@ description: "Intelligence analysis is evaluating information to support decisio
 category: everyday-concepts
 tags: ["intelligence analysis", "national security", "critical thinking", "geopolitics", "data analysis"]
 heroImage: "/images/articles/intelligence-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of intelligence analysis"
+heroAlt: "Intelligence analysis is evaluating information to support decision-making in security and policy contexts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 695
 tier: "3"

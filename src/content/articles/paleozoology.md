@@ -5,10 +5,10 @@ description: "Paleozoology studies fossil animals to reconstruct ancient ecosyst
 category: science
 tags: ["paleozoology", "fossil animals", "paleontology", "zoology", "animal evolution", "paleoecology"]
 heroImage: "/images/articles/paleozoology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paleozoology"
+heroAlt: "Paleozoology studies fossil animals to reconstruct ancient ecosystems and trace animal evolution"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2503
 tier: "2"

@@ -5,10 +5,10 @@ description: "Shipwreck archeology studies sunken vessels and their contents to 
 category: history
 tags: ["shipwreck", "archaeology", "underwater archaeology", "maritime history"]
 heroImage: "/images/articles/shipwreck-archeology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of shipwreck archeology"
+heroAlt: "Shipwreck archeology studies sunken vessels and their contents to understand maritime history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1673
 tier: "3"

@@ -5,10 +5,10 @@ description: "Design patterns are reusable solutions to common software problems
 category: technology
 tags: ["design patterns", "software engineering", "programming", "object-oriented", "architecture", "code reuse", "best practices"]
 heroImage: "/images/articles/design-patterns-hero.webp"
-heroAlt: "Editorial photograph representing the concept of design patterns"
+heroAlt: "Design patterns are reusable solutions to common software problems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3075
 tier: "1"

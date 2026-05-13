@@ -5,10 +5,10 @@ description: "Vaudeville was a popular American entertainment form featuring var
 category: arts-amp-culture
 tags: ["vaudeville", "theater", "performing arts", "entertainment history", "comedy", "variety shows"]
 heroImage: "/images/articles/vaudeville-hero.webp"
-heroAlt: "Editorial photograph representing the concept of vaudeville"
+heroAlt: "Vaudeville was a popular American entertainment form featuring variety acts from the 1880s to 1930s"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 962
 tier: "3"

@@ -5,10 +5,10 @@ description: "Public speaking is the act of presenting ideas to a live audience.
 category: everyday-concepts
 tags: ["public speaking", "communication skills", "presentation", "rhetoric", "oratory", "speaking"]
 heroImage: "/images/articles/public-speaking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of public speaking"
+heroAlt: "Public speaking is the act of presenting ideas to a live audience"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1097
 tier: "3"

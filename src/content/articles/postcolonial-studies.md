@@ -5,10 +5,10 @@ description: "Postcolonial studies examines the cultural, political, and economi
 category: history
 tags: ["postcolonial studies", "colonialism", "imperialism", "decolonization"]
 heroImage: "/images/articles/postcolonial-studies-hero.webp"
-heroAlt: "Editorial photograph representing the concept of postcolonial studies"
+heroAlt: "Postcolonial studies examines the cultural, political, and economic effects of colonialism and imperialism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1596
 tier: "3"

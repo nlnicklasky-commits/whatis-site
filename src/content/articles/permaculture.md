@@ -5,10 +5,10 @@ description: "Permaculture is a design system for sustainable living that mimics
 category: everyday-concepts
 tags: ["permaculture", "sustainable living", "regenerative agriculture", "ecology", "food systems", "design"]
 heroImage: "/images/articles/permaculture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of permaculture"
+heroAlt: "Permaculture is a design system for sustainable living that mimics natural ecosystems"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 935
 tier: "3"

@@ -5,10 +5,10 @@ description: "Venture capital is high-risk investment in early-stage startups. L
 category: finance
 tags: ["venture capital", "investing", "startups", "finance", "entrepreneurship"]
 heroImage: "/images/articles/venture-capital-hero.webp"
-heroAlt: "Editorial photograph representing the concept of venture capital"
+heroAlt: "Venture capital is high-risk investment in early-stage startups"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2508
 tier: '1'

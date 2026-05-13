@@ -5,10 +5,10 @@ description: "Occupational health protects workers from job-related hazards and 
 category: health-amp-wellness
 tags: ["occupational health", "workplace safety", "industrial hygiene", "ergonomics"]
 heroImage: "/images/articles/occupational-health-hero.webp"
-heroAlt: "Editorial photograph representing the concept of occupational health"
+heroAlt: "Occupational health protects workers from job-related hazards and illness"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1376
 tier: "3"

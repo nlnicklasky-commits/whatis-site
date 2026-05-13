@@ -5,10 +5,10 @@ description: "Massage therapy is the manual manipulation of soft tissues to reli
 category: health-amp-wellness
 tags: ["wellness", "massage therapy", "bodywork"]
 heroImage: "/images/articles/massage-therapy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of massage therapy"
+heroAlt: "Massage therapy is the manual manipulation of soft tissues to relieve pain, reduce stress, and improve physical function"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1611
 tier: "3"

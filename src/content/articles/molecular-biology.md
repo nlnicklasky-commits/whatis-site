@@ -5,10 +5,10 @@ description: "Molecular biology studies the molecular basis of life—DNA, RNA, 
 category: science
 tags: ["molecular biology", "dna", "rna", "proteins", "genetics", "gene expression", "biology"]
 heroImage: "/images/articles/molecular-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of molecular biology"
+heroAlt: "Molecular biology studies the molecular basis of life—DNA, RNA, and proteins"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2555
 tier: "2"

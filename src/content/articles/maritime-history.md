@@ -5,10 +5,10 @@ description: "Maritime history examines humanity's relationship with the sea, fr
 category: history
 tags: ["seafaring", "maritime history", "naval"]
 heroImage: "/images/articles/maritime-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of maritime history"
+heroAlt: "Maritime history examines humanity's relationship with the sea, from ancient seafaring and trade routes to naval warfare and modern shipping"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1507
 tier: "3"

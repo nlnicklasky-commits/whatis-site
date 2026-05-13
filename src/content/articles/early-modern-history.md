@@ -5,10 +5,10 @@ description: "Early modern history covers roughly 1450-1800, an era of explorati
 category: history
 tags: ["early modern", "history", "age of discovery", "reformation", "scientific revolution"]
 heroImage: "/images/articles/early-modern-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of early modern history"
+heroAlt: "Early modern history covers roughly 1450-1800, an era of exploration, religious upheaval, scientific revolution, and the rise of nation-states"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1468
 tier: "3"

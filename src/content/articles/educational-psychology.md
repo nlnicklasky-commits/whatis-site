@@ -5,10 +5,10 @@ description: "Educational psychology studies how people learn, applying psycholo
 category: psychology
 tags: ["educational psychology", "learning", "psychology", "education", "teaching", "cognitive development", "motivation"]
 heroImage: "/images/articles/educational-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of educational psychology"
+heroAlt: "Educational psychology studies how people learn, applying psychological science to improve teaching methods, curriculum design, and student outcomes"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2590
 tier: "2"

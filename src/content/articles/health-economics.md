@@ -5,10 +5,10 @@ description: "Health economics studies how societies allocate scarce resources t
 category: finance
 tags: ["health economics", "healthcare", "economics", "public health", "health policy", "resource allocation", "health insurance"]
 heroImage: "/images/articles/health-economics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of health economics"
+heroAlt: "Health economics studies how societies allocate scarce resources to healthcare, analyzing costs, outcomes, and policies shaping medical access"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3055
 tier: "1"

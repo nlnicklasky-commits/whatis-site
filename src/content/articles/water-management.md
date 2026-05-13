@@ -5,10 +5,10 @@ description: "Water management is the planning and control of water resources fo
 category: everyday-concepts
 tags: ["water management", "water resources", "hydrology", "conservation", "infrastructure", "sustainability"]
 heroImage: "/images/articles/water-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of water management"
+heroAlt: "Water management is the planning and control of water resources for human use and environmental health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 948
 tier: "3"

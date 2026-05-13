@@ -5,10 +5,10 @@ description: "Scent training teaches dogs to detect specific odors using their p
 category: everyday-concepts
 tags: ["dog training", "scent detection", "nose work", "canine", "olfaction", "dog behavior"]
 heroImage: "/images/articles/scent-training-dogs-hero.webp"
-heroAlt: "Editorial photograph representing the concept of scent training (dogs)"
+heroAlt: "Scent training teaches dogs to detect specific odors using their powerful noses"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1364
 tier: "3"

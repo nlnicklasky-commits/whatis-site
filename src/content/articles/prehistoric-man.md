@@ -5,10 +5,10 @@ description: "Prehistoric man refers to human ancestors who lived before written
 category: history
 tags: ["prehistoric man", "human evolution", "archaeology", "paleoanthropology"]
 heroImage: "/images/articles/prehistoric-man-hero.webp"
-heroAlt: "Editorial photograph representing the concept of prehistoric man"
+heroAlt: "Prehistoric man refers to human ancestors who lived before written records"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1611
 tier: "3"

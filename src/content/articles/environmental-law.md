@@ -5,10 +5,10 @@ description: "Environmental law is the body of regulations governing how humans 
 category: law
 tags: ["environmental law", "environment", "pollution control", "conservation", "regulations"]
 heroImage: "/images/articles/environmental-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of environmental law"
+heroAlt: "Environmental law is the body of regulations governing how humans interact with the natural world, covering pollution, conservation, and resource management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1464
 tier: "3"

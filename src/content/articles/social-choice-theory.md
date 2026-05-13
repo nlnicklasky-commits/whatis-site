@@ -5,10 +5,10 @@ description: "Social choice theory studies how individual preferences combine in
 category: politics
 tags: ["social choice theory", "voting", "elections", "Arrow's theorem", "democracy", "decision-making"]
 heroImage: "/images/articles/social-choice-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social choice theory"
+heroAlt: "Social choice theory studies how individual preferences combine into collective decisions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 886
 tier: "3"

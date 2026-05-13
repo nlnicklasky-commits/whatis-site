@@ -5,10 +5,10 @@ description: "Space medicine studies how spaceflight affects the human body and 
 category: science
 tags: ["space medicine", "aerospace", "health", "microgravity", "radiation", "astronauts", "physiology"]
 heroImage: "/images/articles/space-medicine-hero.webp"
-heroAlt: "Editorial photograph representing the concept of space medicine"
+heroAlt: "Space medicine studies how spaceflight affects the human body and develops countermeasures for microgravity, radiation, and isolation during missions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 2050
 tier: "2"

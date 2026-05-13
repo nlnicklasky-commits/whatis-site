@@ -5,10 +5,10 @@ description: "Running is the most natural form of human locomotion beyond walkin
 category: sports
 tags: ["exercise", "fitness", "cardio", "marathon", "running", "track and field"]
 heroImage: "/images/articles/running-hero.webp"
-heroAlt: "Editorial photograph representing the concept of running"
+heroAlt: "Running is the most natural form of human locomotion beyond walking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1170
 tier: "3"

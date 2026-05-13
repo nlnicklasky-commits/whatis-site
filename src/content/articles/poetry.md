@@ -5,10 +5,10 @@ description: "Poetry is a literary form that uses rhythm, imagery, and condensed
 category: arts-amp-culture
 tags: ["literature", "writing", "verse", "rhyme", "rhythm", "expression"]
 heroImage: "/images/articles/poetry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of poetry"
+heroAlt: "Poetry is a literary form that uses rhythm, imagery, and condensed language to express ideas and emotions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1250
 tier: "3"

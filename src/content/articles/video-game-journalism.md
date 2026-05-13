@@ -5,10 +5,10 @@ description: "Video game journalism covers the gaming industry through reviews, 
 category: everyday-concepts
 tags: ["video game journalism", "gaming media", "game reviews", "industry coverage", "content creation", "criticism"]
 heroImage: "/images/articles/video-game-journalism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of video game journalism"
+heroAlt: "Video game journalism covers the gaming industry through reviews, news, features, and criticism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 878
 tier: "3"

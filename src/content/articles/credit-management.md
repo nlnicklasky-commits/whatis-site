@@ -5,10 +5,10 @@ description: "Credit management controls how businesses and individuals handle c
 category: finance
 tags: ["credit management", "finance", "debt", "credit", "accounts receivable", "collections", "financial health"]
 heroImage: "/images/articles/credit-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of credit management"
+heroAlt: "Credit management controls how businesses and individuals handle credit risk, debt, and collections"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2605
 tier: "2"

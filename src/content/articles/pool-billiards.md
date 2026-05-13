@@ -5,10 +5,10 @@ description: "Pool is a cue sport played on a felt-covered table with pockets. L
 category: everyday-concepts
 tags: ["pool billiards", "cue sports", "eight-ball", "nine-ball", "snooker", "recreation"]
 heroImage: "/images/articles/pool-billiards-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pool (billiards)"
+heroAlt: "Pool is a cue sport played on a felt-covered table with pockets"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1131
 tier: "3"

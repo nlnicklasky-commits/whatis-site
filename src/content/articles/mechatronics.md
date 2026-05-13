@@ -5,10 +5,10 @@ description: "Mechatronics combines mechanical engineering, electronics, and com
 category: technology
 tags: ["mechatronics", "robotics", "automation", "electronics", "mechanical engineering", "control systems", "sensors"]
 heroImage: "/images/articles/mechatronics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mechatronics"
+heroAlt: "Mechatronics combines mechanical engineering, electronics, and computer science to create smart systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2436
 tier: "2"

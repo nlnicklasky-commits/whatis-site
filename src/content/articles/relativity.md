@@ -5,10 +5,10 @@ description: "Relativity is Einstein's theory describing how space, time, and gr
 category: everyday-concepts
 tags: ["relativity", "Einstein", "physics", "spacetime", "gravity", "science"]
 heroImage: "/images/articles/relativity-hero.webp"
-heroAlt: "Editorial photograph representing the concept of relativity"
+heroAlt: "Relativity is Einstein's theory describing how space, time, and gravity work at cosmic scales"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1037
 tier: "3"

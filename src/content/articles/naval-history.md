@@ -5,10 +5,10 @@ description: "Naval history studies how sea power shaped civilizations, wars, an
 category: history
 tags: ["naval history", "maritime history", "sea power", "naval warfare"]
 heroImage: "/images/articles/naval-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of naval history"
+heroAlt: "Naval history studies how sea power shaped civilizations, wars, and trade"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1716
 tier: "3"

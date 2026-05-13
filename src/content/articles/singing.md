@@ -5,10 +5,10 @@ description: "Singing is the act of producing musical sounds with the voice. Lea
 category: arts-amp-culture
 tags: ["singing", "voice", "music", "vocal performance", "choral music", "performance art"]
 heroImage: "/images/articles/singing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of singing"
+heroAlt: "Singing is the act of producing musical sounds with the voice"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1037
 tier: "3"

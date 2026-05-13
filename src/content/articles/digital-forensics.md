@@ -5,10 +5,10 @@ description: "Digital forensics recovers and analyzes electronic evidence for le
 category: technology
 tags: ["digital forensics", "cybersecurity", "computer forensics", "investigation", "evidence", "law enforcement", "data recovery"]
 heroImage: "/images/articles/digital-forensics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of digital forensics"
+heroAlt: "Digital forensics recovers and analyzes electronic evidence for legal cases"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2448
 tier: "2"

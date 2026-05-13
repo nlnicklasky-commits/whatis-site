@@ -5,10 +5,10 @@ description: "Comparative religion studies the world's religious traditions side
 category: philosophy
 tags: ["comparative religion", "religion", "religious studies", "theology", "faith", "spirituality", "culture"]
 heroImage: "/images/articles/comparative-religion-hero.webp"
-heroAlt: "Editorial photograph representing the concept of comparative religion"
+heroAlt: "Comparative religion studies the world's religious traditions side by side to find shared themes, key differences, and how beliefs shape cultures"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2503
 tier: "2"

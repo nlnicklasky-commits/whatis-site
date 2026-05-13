@@ -5,10 +5,10 @@ description: "Roman law is the legal system of ancient Rome that shaped Western 
 category: history
 tags: ["roman legal system", "ancient law", "jurisprudence", "civil law"]
 heroImage: "/images/articles/roman-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of roman law"
+heroAlt: "Roman law is the legal system of ancient Rome that shaped Western jurisprudence, civil law traditions, and modern legal concepts still used today"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1783
 tier: "3"

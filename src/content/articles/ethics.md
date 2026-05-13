@@ -5,10 +5,10 @@ description: "Ethics is the branch of philosophy studying right and wrong. Learn
 category: philosophy
 tags: ["ethics", "morality", "philosophy", "right and wrong", "values", "ethical theories", "justice"]
 heroImage: "/images/articles/ethics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ethics"
+heroAlt: "Ethics is the branch of philosophy studying right and wrong"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2716
 tier: "2"

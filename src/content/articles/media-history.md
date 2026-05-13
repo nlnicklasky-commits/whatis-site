@@ -5,10 +5,10 @@ description: "Media history traces how communication technologies evolved from p
 category: history
 tags: ["media", "journalism", "broadcasting"]
 heroImage: "/images/articles/media-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of media history"
+heroAlt: "Media history traces how communication technologies evolved from printing presses and telegraphs to radio, TV, the internet, and social media"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1627
 tier: "3"

@@ -5,10 +5,10 @@ description: "Asian history covers thousands of years of civilization across the
 category: history
 tags: ["asian history", "asia", "china", "india", "japan", "silk road"]
 heroImage: "/images/articles/asian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of asian history"
+heroAlt: "Asian history covers thousands of years of civilization across the world's largest continent, from ancient China and India to modern geopolitics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1564
 tier: "3"

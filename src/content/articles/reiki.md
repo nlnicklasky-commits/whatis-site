@@ -5,10 +5,10 @@ description: "Reiki is a Japanese energy healing practice where practitioners ch
 category: health-amp-wellness
 tags: ["alternative medicine", "reiki", "energy healing", "wellness"]
 heroImage: "/images/articles/reiki-hero.webp"
-heroAlt: "Editorial photograph representing the concept of reiki"
+heroAlt: "Reiki is a Japanese energy healing practice where practitioners channel life force energy through their hands to promote relaxation and well-being"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1615
 tier: "3"

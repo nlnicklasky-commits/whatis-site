@@ -5,10 +5,10 @@ description: "Emergency medicine is the medical specialty focused on diagnosing 
 category: health-amp-wellness
 tags: ["emergency medicine", "emergency care", "healthcare", "acute care", "triage"]
 heroImage: "/images/articles/emergency-medicine-hero.webp"
-heroAlt: "Editorial photograph representing the concept of emergency medicine"
+heroAlt: "Emergency medicine is the medical specialty focused on diagnosing and treating acute injuries and illnesses requiring immediate care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1690
 tier: "3"

@@ -5,10 +5,10 @@ description: "Human factors engineering designs systems around human abilities a
 category: technology
 tags: ["human factors", "ergonomics", "user-centered design", "usability", "safety", "cognitive psychology", "system design"]
 heroImage: "/images/articles/human-factors-hero.webp"
-heroAlt: "Editorial photograph representing the concept of human factors"
+heroAlt: "Human factors engineering designs systems around human abilities and limits"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2747
 tier: "2"

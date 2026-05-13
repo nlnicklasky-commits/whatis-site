@@ -5,10 +5,10 @@ description: "Diabetes management is the ongoing process of controlling blood su
 category: health-amp-wellness
 tags: ["diabetes management", "diabetes", "blood sugar", "insulin", "health"]
 heroImage: "/images/articles/diabetes-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of diabetes management"
+heroAlt: "Diabetes management is the ongoing process of controlling blood sugar through medication, diet, exercise, and monitoring"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1647
 tier: "3"

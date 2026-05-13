@@ -5,10 +5,10 @@ description: "Psychological warfare uses propaganda and manipulation to influenc
 category: history
 tags: ["psychological warfare", "psyops", "propaganda", "information warfare"]
 heroImage: "/images/articles/psychological-warfare-hero.webp"
-heroAlt: "Editorial photograph representing the concept of psychological warfare"
+heroAlt: "Psychological warfare uses propaganda and manipulation to influence enemy morale and behavior"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1737
 tier: "3"

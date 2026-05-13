@@ -5,10 +5,10 @@ description: "Type design is the art of creating typefaces and fonts. Learn abou
 category: arts-amp-culture
 tags: ["type design", "typography", "fonts", "graphic design", "letterforms", "visual communication"]
 heroImage: "/images/articles/type-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of type design"
+heroAlt: "Type design is the art of creating typefaces and fonts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1051
 tier: "3"

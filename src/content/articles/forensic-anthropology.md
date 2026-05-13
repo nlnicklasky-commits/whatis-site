@@ -5,10 +5,10 @@ description: "Forensic anthropology applies skeletal biology to legal cases, ide
 category: science
 tags: ["forensic science", "anthropology", "skeletal remains", "crime scene", "human identification", "archaeology", "trauma analysis"]
 heroImage: "/images/articles/forensic-anthropology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of forensic anthropology"
+heroAlt: "Forensic anthropology applies skeletal biology to legal cases, identifying human remains and analyzing trauma to help solve crimes and disasters"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2506
 tier: "2"

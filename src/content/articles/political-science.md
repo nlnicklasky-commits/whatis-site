@@ -5,10 +5,10 @@ description: "Political science studies how governments, power structures, and p
 category: everyday-concepts
 tags: ["politics", "government", "power", "public policy", "international relations", "political theory"]
 heroImage: "/images/articles/political-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of political science"
+heroAlt: "Political science studies how governments, power structures, and public policies work"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1046
 tier: "3"

@@ -5,10 +5,10 @@ description: "Newspaper history traces how printed news evolved from handwritten
 category: everyday-concepts
 tags: ["newspaper history", "journalism", "media", "printing press", "press freedom", "mass media"]
 heroImage: "/images/articles/newspaper-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of newspaper history"
+heroAlt: "Newspaper history traces how printed news evolved from handwritten bulletins to mass media empires"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1038
 tier: "3"

@@ -5,10 +5,10 @@ description: "Pilot training is the process of learning to fly aircraft through 
 category: everyday-concepts
 tags: ["pilot training", "aviation", "flying", "career", "FAA", "aerospace"]
 heroImage: "/images/articles/pilot-training-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pilot training"
+heroAlt: "Pilot training is the process of learning to fly aircraft through ground school, flight hours, and certification"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1003
 tier: "3"

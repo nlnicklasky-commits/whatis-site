@@ -5,10 +5,10 @@ description: "Financial regulation is government oversight of banks, markets, an
 category: finance
 tags: ["regulation", "financial markets", "banking", "investment", "consumer protection", "systemic risk", "compliance"]
 heroImage: "/images/articles/financial-regulation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of financial regulation"
+heroAlt: "Financial regulation is government oversight of banks, markets, and financial firms"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2638
 tier: "2"

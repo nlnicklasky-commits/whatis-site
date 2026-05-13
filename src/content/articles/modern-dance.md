@@ -5,10 +5,10 @@ description: "Modern dance is an expressive style that broke from classical ball
 category: everyday-concepts
 tags: ["modern dance", "dance", "performing arts", "choreography", "Martha Graham", "expression"]
 heroImage: "/images/articles/modern-dance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of modern dance"
+heroAlt: "Modern dance is an expressive style that broke from classical ballet to explore natural movement and personal expression"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 911
 tier: "3"

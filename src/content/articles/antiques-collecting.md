@@ -5,10 +5,10 @@ description: "Antiques collecting is the hobby and business of acquiring objects
 category: everyday-concepts
 tags: ["antiques", "collecting", "collectibles", "vintage", "history", "appraisal"]
 heroImage: "/images/articles/antiques-collecting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of antiques collecting"
+heroAlt: "Antiques collecting is the hobby and business of acquiring objects over 100 years old for their historical, aesthetic, or monetary value"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1014
 tier: "3"

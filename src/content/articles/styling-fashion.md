@@ -5,10 +5,10 @@ description: "Fashion styling is the art of selecting and arranging clothing and
 category: arts-amp-culture
 tags: ["styling fashion", "fashion", "wardrobe", "personal styling", "editorial", "visual arts"]
 heroImage: "/images/articles/styling-fashion-hero.webp"
-heroAlt: "Editorial photograph representing the concept of styling (fashion)"
+heroAlt: "Fashion styling is the art of selecting and arranging clothing and accessories to create a specific look"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 708
 tier: "3"

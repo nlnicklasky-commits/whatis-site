@@ -5,10 +5,10 @@ description: "Insect collecting is the practice of finding, preserving, and stud
 category: science
 tags: ["insect collecting", "entomology", "insects", "biodiversity", "taxonomy", "natural history", "ecology"]
 heroImage: "/images/articles/insect-collecting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of insect collecting"
+heroAlt: "Insect collecting is the practice of finding, preserving, and studying insects for science, education, and personal fascination with the natural world"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2859
 tier: "2"

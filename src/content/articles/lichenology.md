@@ -5,10 +5,10 @@ description: "Lichenology is the study of lichens, organisms formed by symbiosis
 category: science
 tags: ["lichenology", "lichens", "symbiosis", "biology", "ecology", "fungi", "algae"]
 heroImage: "/images/articles/lichenology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lichenology"
+heroAlt: "Lichenology is the study of lichens, organisms formed by symbiosis between fungi and algae"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2648
 tier: "2"

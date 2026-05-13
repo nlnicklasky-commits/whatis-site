@@ -5,10 +5,10 @@ description: "Personality psychology studies the patterns of thoughts, feelings,
 category: psychology
 tags: ["personality", "traits", "psychology", "individual differences", "human behavior", "self-awareness"]
 heroImage: "/images/articles/personality-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of personality psychology"
+heroAlt: "Personality psychology studies the patterns of thoughts, feelings, and behaviors that make each person unique"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2616
 tier: "2"

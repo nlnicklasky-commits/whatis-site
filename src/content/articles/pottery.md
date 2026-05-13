@@ -5,10 +5,10 @@ description: "Pottery is the craft of shaping clay into functional or decorative
 category: arts-amp-culture
 tags: ["pottery", "ceramics", "clay", "kiln", "glazing", "hand-building"]
 heroImage: "/images/articles/pottery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pottery"
+heroAlt: "Pottery is the craft of shaping clay into functional or decorative objects and firing them in a kiln"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1120
 tier: "3"

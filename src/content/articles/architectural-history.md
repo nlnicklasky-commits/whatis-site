@@ -5,10 +5,10 @@ description: "Architectural history studies how buildings and structures have be
 category: history
 tags: ["architectural history", "architecture", "art history", "design", "historic preservation"]
 heroImage: "/images/articles/architectural-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of architectural history"
+heroAlt: "Architectural history studies how buildings and structures have been designed, built, and understood across cultures and centuries"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1661
 tier: "3"

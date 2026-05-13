@@ -5,10 +5,10 @@ description: "Doll making is the craft of creating dolls from various materials.
 category: arts-amp-culture
 tags: ["doll making", "arts-amp-culture"]
 heroImage: "/images/articles/doll-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of doll making"
+heroAlt: "Doll making is the craft of creating dolls from various materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 908
 tier: "3"

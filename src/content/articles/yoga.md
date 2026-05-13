@@ -5,10 +5,10 @@ description: "Yoga is an ancient practice combining physical postures, breathing
 category: health-amp-wellness
 tags: ["mindfulness", "meditation", "fitness", "spirituality", "wellness"]
 heroImage: "/images/articles/yoga-hero.webp"
-heroAlt: "Editorial photograph representing the concept of yoga"
+heroAlt: "Yoga is an ancient practice combining physical postures, breathing, and meditation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1634
 tier: "3"

@@ -5,10 +5,10 @@ description: "Sculpture is three-dimensional art created by shaping materials li
 category: arts-amp-culture
 tags: ["sculpture", "art", "three-dimensional art", "statue", "public art", "carving"]
 heroImage: "/images/articles/sculpture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sculpture"
+heroAlt: "Sculpture is three-dimensional art created by shaping materials like stone, metal, clay, or wood"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1223
 tier: "3"

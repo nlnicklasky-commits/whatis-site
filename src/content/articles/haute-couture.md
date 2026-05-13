@@ -5,10 +5,10 @@ description: "Haute couture is custom-made high fashion governed by strict Frenc
 category: everyday-concepts
 tags: ["haute couture", "fashion", "luxury", "design", "Paris fashion"]
 heroImage: "/images/articles/haute-couture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of haute couture"
+heroAlt: "Haute couture is custom-made high fashion governed by strict French regulations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 989
 tier: "3"

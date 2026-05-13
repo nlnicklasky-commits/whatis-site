@@ -5,10 +5,10 @@ description: "Petroleum engineering applies science and technology to extract oi
 category: technology
 tags: ["oil and gas", "petroleum", "engineering", "drilling", "reservoir", "energy", "hydrocarbons"]
 heroImage: "/images/articles/petroleum-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of petroleum engineering"
+heroAlt: "Petroleum engineering applies science and technology to extract oil and gas from underground reservoirs, covering drilling, production, and energy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2432
 tier: "2"

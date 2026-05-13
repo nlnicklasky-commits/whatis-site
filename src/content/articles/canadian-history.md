@@ -5,10 +5,10 @@ description: "Canadian history traces the development of Canada from Indigenous 
 category: history
 tags: ["canadian history", "canada", "indigenous peoples", "confederation"]
 heroImage: "/images/articles/canadian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of canadian history"
+heroAlt: "Canadian history traces the development of Canada from Indigenous civilizations through European colonization, confederation, and modern nationhood"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1582
 tier: "3"

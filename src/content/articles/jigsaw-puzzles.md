@@ -5,10 +5,10 @@ description: "Jigsaw puzzles are pictures cut into interlocking pieces that you 
 category: everyday-concepts
 tags: ["jigsaw puzzles", "puzzles", "games", "hobbies", "brain training"]
 heroImage: "/images/articles/jigsaw-puzzles-hero.webp"
-heroAlt: "Editorial photograph representing the concept of jigsaw puzzles"
+heroAlt: "Jigsaw puzzles are pictures cut into interlocking pieces that you reassemble"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 782
 tier: "3"

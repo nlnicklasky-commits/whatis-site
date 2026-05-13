@@ -5,10 +5,10 @@ description: "Mathematical logic studies formal reasoning using precise mathemat
 category: science
 tags: ["mathematical logic", "logic", "mathematics", "set theory", "proof theory", "computability", "model theory"]
 heroImage: "/images/articles/mathematical-logic-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mathematical logic"
+heroAlt: "Mathematical logic studies formal reasoning using precise mathematical methods, covering proof theory, model theory, set theory, and computability theory"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2925
 tier: "2"

@@ -5,10 +5,10 @@ description: "Wildlife management applies science to maintain healthy animal pop
 category: science-technology
 tags: ["wildlife management", "conservation", "hunting", "ecology", "habitat", "natural resources"]
 heroImage: "/images/articles/wildlife-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wildlife management"
+heroAlt: "Wildlife management applies science to maintain healthy animal populations and habitats"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 938
 tier: "3"

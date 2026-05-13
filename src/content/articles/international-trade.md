@@ -5,10 +5,10 @@ description: "International trade is the exchange of goods and services between 
 category: finance
 tags: ["international trade", "trade", "exports", "imports", "comparative advantage", "tariffs", "free trade"]
 heroImage: "/images/articles/international-trade-hero.webp"
-heroAlt: "Editorial photograph representing the concept of international trade"
+heroAlt: "International trade is the exchange of goods and services between countries, driven by comparative advantage and shaped by tariffs, agreements, and policy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2676
 tier: "2"

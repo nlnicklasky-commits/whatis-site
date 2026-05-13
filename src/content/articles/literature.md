@@ -5,10 +5,10 @@ description: "Literature is written work valued for its artistic merit and lasti
 category: arts-amp-culture
 tags: ["literature", "writing", "fiction", "poetry", "drama", "humanities"]
 heroImage: "/images/articles/literature-hero.webp"
-heroAlt: "Editorial photograph representing the concept of literature"
+heroAlt: "Literature is written work valued for its artistic merit and lasting significance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"

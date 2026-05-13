@@ -5,10 +5,10 @@ description: "Solid-state physics studies how atoms arranged in solids create th
 category: science
 tags: ["solid-state physics", "physics", "semiconductors", "crystals", "quantum mechanics", "materials science"]
 heroImage: "/images/articles/solid-state-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of solid-state physics"
+heroAlt: "Solid-state physics studies how atoms arranged in solids create the electrical, magnetic, and thermal properties we depend on"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2491
 tier: "2"

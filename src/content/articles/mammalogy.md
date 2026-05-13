@@ -5,10 +5,10 @@ description: "Mammalogy is the study of mammals — their biology, behavior, eco
 category: science
 tags: ["mammalogy", "mammals", "zoology", "biology", "ecology", "conservation", "wildlife"]
 heroImage: "/images/articles/mammalogy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mammalogy"
+heroAlt: "Mammalogy is the study of mammals — their biology, behavior, ecology, and evolution"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2443
 tier: "2"

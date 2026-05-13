@@ -5,10 +5,10 @@ description: "Sports history traces how athletic competition evolved from ancien
 category: history
 tags: ["sports history", "athletics", "olympics", "sports culture"]
 heroImage: "/images/articles/sports-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sports history"
+heroAlt: "Sports history traces how athletic competition evolved from ancient rituals to a global industry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1658
 tier: "3"

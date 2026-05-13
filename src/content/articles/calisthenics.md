@@ -5,10 +5,10 @@ description: "Calisthenics is a form of exercise using your own body weight for 
 category: health-amp-wellness
 tags: ["calisthenics", "bodyweight", "exercise", "fitness", "strength training"]
 heroImage: "/images/articles/calisthenics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of calisthenics"
+heroAlt: "Calisthenics is a form of exercise using your own body weight for resistance, building strength, flexibility, and control without gym equipment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1491
 tier: "3"

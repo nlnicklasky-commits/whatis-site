@@ -5,10 +5,10 @@ description: "Hydrogen power uses hydrogen gas as a clean fuel for electricity a
 category: everyday-concepts
 tags: ["hydrogen power", "fuel cells", "clean energy", "renewable energy", "green hydrogen"]
 heroImage: "/images/articles/hydrogen-power-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hydrogen power"
+heroAlt: "Hydrogen power uses hydrogen gas as a clean fuel for electricity and transportation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1060
 tier: "3"

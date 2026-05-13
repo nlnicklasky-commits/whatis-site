@@ -5,10 +5,10 @@ description: "Distillation separates liquid mixtures by differences in boiling p
 category: science
 tags: ["distillation", "chemistry", "separation", "purification", "boiling point", "chemical engineering", "laboratory"]
 heroImage: "/images/articles/distillation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of distillation"
+heroAlt: "Distillation separates liquid mixtures by differences in boiling points"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2487
 tier: "2"

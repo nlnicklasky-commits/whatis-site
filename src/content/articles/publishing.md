@@ -5,10 +5,10 @@ description: "Publishing is the process of producing and distributing written co
 category: everyday-concepts
 tags: ["publishing", "books", "magazines", "digital publishing", "content creation", "distribution"]
 heroImage: "/images/articles/publishing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of publishing"
+heroAlt: "Publishing is the process of producing and distributing written content to the public"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 954
 tier: "3"

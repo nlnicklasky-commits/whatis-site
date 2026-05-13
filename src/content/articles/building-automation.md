@@ -5,10 +5,10 @@ description: "Building automation uses technology to automatically control HVAC,
 category: technology
 tags: ["building automation", "building management systems", "bms", "smart buildings", "hvac", "energy efficiency", "iot"]
 heroImage: "/images/articles/building-automation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of building automation"
+heroAlt: "Building automation uses technology to automatically control HVAC, lighting, security, and other building systems for efficiency and comfort"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2721
 tier: "2"

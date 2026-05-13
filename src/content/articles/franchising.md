@@ -5,10 +5,10 @@ description: "Franchising lets you run a business using an established brand's s
 category: finance
 tags: ["business", "entrepreneurship", "business model", "licensing", "brand", "expansion", "investment"]
 heroImage: "/images/articles/franchising-hero.webp"
-heroAlt: "Editorial photograph representing the concept of franchising"
+heroAlt: "Franchising lets you run a business using an established brand's systems and name"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2581
 tier: "2"

@@ -5,10 +5,10 @@ description: "Supply chain management coordinates the flow of goods from raw mat
 category: business
 tags: ["management", "supply chain", "logistics", "operations"]
 heroImage: "/images/articles/supply-chain-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of supply chain management"
+heroAlt: "Supply chain management coordinates the flow of goods from raw materials to customers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1764
 tier: "3"

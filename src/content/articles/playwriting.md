@@ -5,10 +5,10 @@ description: "Playwriting is the craft of writing scripts for theatrical perform
 category: arts-amp-culture
 tags: ["theater", "drama", "scriptwriting", "writing", "performing arts", "storytelling"]
 heroImage: "/images/articles/playwriting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of playwriting"
+heroAlt: "Playwriting is the craft of writing scripts for theatrical performance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1294
 tier: "3"

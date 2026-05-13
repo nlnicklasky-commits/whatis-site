@@ -5,10 +5,10 @@ description: "Architecture is the art and science of designing buildings and str
 category: arts-amp-culture
 tags: ["architecture", "building design", "construction", "structural engineering", "urban planning", "design"]
 heroImage: "/images/articles/architecture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of architecture"
+heroAlt: "Architecture is the art and science of designing buildings and structures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1057
 tier: "3"

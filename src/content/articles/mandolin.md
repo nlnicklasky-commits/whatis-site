@@ -5,10 +5,10 @@ description: "The mandolin is a stringed instrument with paired strings and a br
 category: arts-amp-culture
 tags: ["mandolin", "stringed instruments", "bluegrass", "music", "folk music", "classical music"]
 heroImage: "/images/articles/mandolin-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mandolin"
+heroAlt: "The mandolin is a stringed instrument with paired strings and a bright, tremolo-rich sound"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 925
 tier: "3"

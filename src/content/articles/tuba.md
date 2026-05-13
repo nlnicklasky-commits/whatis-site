@@ -5,10 +5,10 @@ description: "The tuba is the largest and lowest-pitched brass instrument. Learn
 category: arts-amp-culture
 tags: ["tuba", "brass instruments", "music", "orchestra", "band", "low brass"]
 heroImage: "/images/articles/tuba-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tuba"
+heroAlt: "The tuba is the largest and lowest-pitched brass instrument"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 983
 tier: "3"

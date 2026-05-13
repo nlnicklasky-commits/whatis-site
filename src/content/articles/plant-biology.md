@@ -5,10 +5,10 @@ description: "Plant biology studies how plants grow, reproduce, and interact wit
 category: science
 tags: ["botany", "plants", "photosynthesis", "ecology", "agriculture", "genetics", "biology"]
 heroImage: "/images/articles/plant-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of plant biology"
+heroAlt: "Plant biology studies how plants grow, reproduce, and interact with their environment"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2455
 tier: "2"

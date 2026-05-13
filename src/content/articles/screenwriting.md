@@ -5,10 +5,10 @@ description: "Screenwriting is the craft of writing scripts for film and televis
 category: arts-amp-culture
 tags: ["screenwriting", "screenplay", "film", "television", "script", "storytelling"]
 heroImage: "/images/articles/screenwriting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of screenwriting"
+heroAlt: "Screenwriting is the craft of writing scripts for film and television"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1223
 tier: "3"

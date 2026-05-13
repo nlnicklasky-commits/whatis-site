@@ -5,10 +5,10 @@ description: "Python is a high-level programming language prized for readability
 category: technology
 tags: ["python", "programming", "software development", "data science", "web development", "automation", "scripting"]
 heroImage: "/images/articles/python-programming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of python programming"
+heroAlt: "Python is a high-level programming language prized for readability and versatility, used in data science, web development, AI, automation, and more"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2173
 tier: "2"

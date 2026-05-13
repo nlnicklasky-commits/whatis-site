@@ -5,10 +5,10 @@ description: "Paleogeography maps where continents, oceans, and climates were in
 category: science
 tags: ["paleogeography", "plate tectonics", "continental drift", "earth history", "geology", "paleontology", "ancient geography"]
 heroImage: "/images/articles/paleogeography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paleogeography"
+heroAlt: "Paleogeography maps where continents, oceans, and climates were in Earth's past, revealing how plate tectonics reshaped our planet over billions of years"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2495
 tier: "2"

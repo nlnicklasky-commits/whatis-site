@@ -5,10 +5,10 @@ description: "Business ethics applies moral principles to commercial activity, g
 category: finance
 tags: ["business ethics", "corporate governance", "csr", "corporate social responsibility", "ethical dilemmas", "business responsibility", "moral principles"]
 heroImage: "/images/articles/business-ethics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of business ethics"
+heroAlt: "Business ethics applies moral principles to commercial activity, guiding decisions about fairness, responsibility, and corporate conduct"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2652
 tier: "2"

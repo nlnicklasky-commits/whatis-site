@@ -5,10 +5,10 @@ description: "Electrodynamics studies how electric and magnetic fields interact 
 category: science
 tags: ["electrodynamics", "physics", "electromagnetism", "maxwell's equations", "electric fields", "magnetic fields", "electromagnetic waves"]
 heroImage: "/images/articles/electrodynamics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of electrodynamics"
+heroAlt: "Electrodynamics studies how electric and magnetic fields interact with charged particles"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2813
 tier: "2"

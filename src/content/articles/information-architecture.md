@@ -5,10 +5,10 @@ description: "Information architecture organizes content so people can find what
 category: technology
 tags: ["information architecture", "ia", "ux design", "usability", "content strategy", "web design", "user experience"]
 heroImage: "/images/articles/information-architecture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of information architecture"
+heroAlt: "Information architecture organizes content so people can find what they need"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2664
 tier: "2"

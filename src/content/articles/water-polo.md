@@ -5,10 +5,10 @@ description: "Water polo is an aquatic team sport where players swim, pass, and 
 category: sports
 tags: ["water polo", "aquatic sports", "team sports", "Olympic sports", "swimming", "athletics"]
 heroImage: "/images/articles/water-polo-hero.webp"
-heroAlt: "Editorial photograph representing the concept of water polo"
+heroAlt: "Water polo is an aquatic team sport where players swim, pass, and shoot a ball into goals"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1014
 tier: "3"

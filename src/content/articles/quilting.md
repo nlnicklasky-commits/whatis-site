@@ -5,10 +5,10 @@ description: "Quilting is the craft of sewing layers of fabric together into a p
 category: arts-amp-culture
 tags: ["quilting", "sewing", "textile arts", "fabric", "crafts", "handmade"]
 heroImage: "/images/articles/quilting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quilting"
+heroAlt: "Quilting is the craft of sewing layers of fabric together into a padded textile"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 960
 tier: "3"

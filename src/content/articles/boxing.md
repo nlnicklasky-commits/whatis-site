@@ -5,10 +5,10 @@ description: "Boxing is a combat sport where two opponents fight using only thei
 category: everyday-concepts
 tags: ["boxing", "combat sports", "fighting", "martial arts", "fitness", "athletics"]
 heroImage: "/images/articles/boxing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of boxing"
+heroAlt: "Boxing is a combat sport where two opponents fight using only their fists within a roped ring, governed by rules, rounds, and weight classes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1005
 tier: "3"

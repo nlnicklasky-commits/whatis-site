@@ -5,10 +5,10 @@ description: "Orchid growing is the cultivation and care of orchids, one of the 
 category: everyday-concepts
 tags: ["orchid growing", "orchids", "horticulture", "houseplants", "phalaenopsis", "plant care"]
 heroImage: "/images/articles/orchid-growing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of orchid growing"
+heroAlt: "Orchid growing is the cultivation and care of orchids, one of the largest plant families"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 939
 tier: "3"

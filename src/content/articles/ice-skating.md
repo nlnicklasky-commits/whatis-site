@@ -5,10 +5,10 @@ description: "Ice skating is gliding on ice using bladed boots. Learn about figu
 category: sports
 tags: ["ice skating", "skates", "figure skating", "speed skating", "ice hockey", "winter sports"]
 heroImage: "/images/articles/ice-skating-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ice skating"
+heroAlt: "Ice skating is gliding on ice using bladed boots"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1037
 tier: "3"

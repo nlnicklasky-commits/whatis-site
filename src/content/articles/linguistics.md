@@ -5,10 +5,10 @@ description: "Linguistics is the scientific study of language. Learn about phone
 category: science
 tags: ["linguistics", "language", "phonetics", "syntax", "semantics", "pragmatics", "sociolinguistics"]
 heroImage: "/images/articles/linguistics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of linguistics"
+heroAlt: "Linguistics is the scientific study of language"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2824
 tier: "2"

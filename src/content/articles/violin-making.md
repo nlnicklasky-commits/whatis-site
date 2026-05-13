@@ -5,10 +5,10 @@ description: "Violin making (lutherie) is the craft of building stringed instrum
 category: arts-amp-culture
 tags: ["violin making", "lutherie", "luthier", "craftsmanship", "woodworking", "string instruments"]
 heroImage: "/images/articles/violin-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of violin making"
+heroAlt: "Violin making (lutherie) is the craft of building stringed instruments by hand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 937
 tier: "3"

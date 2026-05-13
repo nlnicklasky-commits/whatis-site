@@ -5,10 +5,10 @@ description: "Negotiation is a dialogue between parties aimed at reaching an agr
 category: everyday-concepts
 tags: ["negotiation", "bargaining", "conflict resolution", "diplomacy", "agreement", "communication skills"]
 heroImage: "/images/articles/negotiation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of negotiation"
+heroAlt: "Negotiation is a dialogue between parties aimed at reaching an agreement"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1125
 tier: "3"

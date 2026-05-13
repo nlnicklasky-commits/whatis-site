@@ -5,10 +5,10 @@ description: "Fine art refers to creative works made primarily for aesthetic val
 category: everyday-concepts
 tags: ["fine art", "painting", "sculpture", "visual arts", "art history", "aesthetics"]
 heroImage: "/images/articles/fine-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fine art"
+heroAlt: "Fine art refers to creative works made primarily for aesthetic value, including painting, sculpture, and drawing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 937
 tier: "3"

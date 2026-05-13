@@ -5,10 +5,10 @@ description: "Gold panning uses water and gravity to separate gold from sediment
 category: everyday-concepts
 tags: ["gold panning", "gold", "prospecting", "mining", "outdoor recreation", "geology"]
 heroImage: "/images/articles/gold-panning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gold panning"
+heroAlt: "Gold panning uses water and gravity to separate gold from sediment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1190
 tier: "3"

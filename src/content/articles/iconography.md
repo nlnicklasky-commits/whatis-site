@@ -5,10 +5,10 @@ description: "Iconography is the study of visual symbols and images in art. Lear
 category: everyday-concepts
 tags: ["iconography", "art history", "symbols", "visual culture", "religious art"]
 heroImage: "/images/articles/iconography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of iconography"
+heroAlt: "Iconography is the study of visual symbols and images in art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 911
 tier: "3"

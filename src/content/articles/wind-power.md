@@ -5,10 +5,10 @@ description: "Wind power converts moving air into electricity using turbines. Le
 category: science-technology
 tags: ["wind power", "renewable energy", "wind turbines", "clean energy", "electricity", "sustainability"]
 heroImage: "/images/articles/wind-power-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wind power"
+heroAlt: "Wind power converts moving air into electricity using turbines"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1030
 tier: "3"

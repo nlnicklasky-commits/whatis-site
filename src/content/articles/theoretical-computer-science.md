@@ -5,10 +5,10 @@ description: "Theoretical computer science studies computation itself — what c
 category: technology
 tags: ["theoretical computer science", "computer science", "algorithms", "computability"]
 heroImage: "/images/articles/theoretical-computer-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of theoretical computer science"
+heroAlt: "Theoretical computer science studies computation itself — what can be computed, how efficiently, and what problems are fundamentally unsolvable"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2260
 tier: "2"

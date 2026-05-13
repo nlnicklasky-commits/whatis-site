@@ -5,10 +5,10 @@ description: "Metal casting is a manufacturing process where molten metal is pou
 category: technology
 tags: ["metal casting", "manufacturing", "metallurgy", "foundry", "mold", "molten metal", "industrial process"]
 heroImage: "/images/articles/casting-metal-hero.webp"
-heroAlt: "Editorial photograph representing the concept of casting (metal)"
+heroAlt: "Metal casting is a manufacturing process where molten metal is poured into a mold and solidified into a desired shape, used for thousands of years"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2388
 tier: "2"

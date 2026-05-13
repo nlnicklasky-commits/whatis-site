@@ -5,10 +5,10 @@ description: "Finance is the study and management of money, investments, and fin
 category: finance
 tags: ["money management", "investment", "banking", "capital markets", "economics", "financial services"]
 heroImage: "/images/articles/finance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of finance"
+heroAlt: "Finance is the study and management of money, investments, and financial systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2756
 tier: "2"

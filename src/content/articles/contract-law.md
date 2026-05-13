@@ -5,10 +5,10 @@ description: "Contract law governs legally binding agreements between parties. L
 category: finance
 tags: ["law", "legal system", "agreements", "business law", "commercial law", "jurisprudence", "obligations"]
 heroImage: "/images/articles/contract-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of contract law"
+heroAlt: "Contract law governs legally binding agreements between parties"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3282
 tier: "1"

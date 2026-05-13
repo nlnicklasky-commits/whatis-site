@@ -5,10 +5,10 @@ description: "Voyages of discovery were the European maritime expeditions from t
 category: history
 tags: ["voyages of discovery", "age of exploration", "maritime history", "colonialism"]
 heroImage: "/images/articles/voyages-of-discovery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of voyages of discovery"
+heroAlt: "Voyages of discovery were the European maritime expeditions from the 15th to 17th centuries that mapped the world and reshaped global trade and power"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1659
 tier: "3"

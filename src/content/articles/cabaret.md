@@ -5,10 +5,10 @@ description: "Cabaret is a form of live entertainment combining music, comedy, d
 category: arts-amp-culture
 tags: ["cabaret", "live performance", "theatre", "music", "entertainment", "nightlife"]
 heroImage: "/images/articles/cabaret-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cabaret"
+heroAlt: "Cabaret is a form of live entertainment combining music, comedy, dance, and theatrical performance in intimate nightclub or restaurant settings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 864
 tier: "3"

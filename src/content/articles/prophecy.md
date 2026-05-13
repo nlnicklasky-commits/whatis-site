@@ -5,10 +5,10 @@ description: "Prophecy is the claim of receiving divine messages about the futur
 category: religion
 tags: ["prophecy", "prophet", "divine", "revelation", "foretelling", "religion"]
 heroImage: "/images/articles/prophecy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of prophecy"
+heroAlt: "Prophecy is the claim of receiving divine messages about the future or God's will"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1003
 tier: "3"

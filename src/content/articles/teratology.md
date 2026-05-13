@@ -5,10 +5,10 @@ description: "Teratology is the study of birth defects and congenital malformati
 category: science
 tags: ["teratology", "birth defects", "congenital malformations", "teratogens"]
 heroImage: "/images/articles/teratology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of teratology"
+heroAlt: "Teratology is the study of birth defects and congenital malformations, including their causes, mechanisms, and prevention"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2573
 tier: "2"

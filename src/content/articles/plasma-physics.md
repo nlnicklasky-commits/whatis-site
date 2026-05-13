@@ -5,10 +5,10 @@ description: "Plasma physics studies ionized gas — the fourth state of matter 
 category: science
 tags: ["physics", "plasma", "fusion", "astrophysics", "energy", "electromagnetism", "matter"]
 heroImage: "/images/articles/plasma-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of plasma physics"
+heroAlt: "Plasma physics studies ionized gas — the fourth state of matter that makes up 99% of the visible universe, from stars to fusion reactors"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2893
 tier: "2"

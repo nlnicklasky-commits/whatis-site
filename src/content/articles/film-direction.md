@@ -5,10 +5,10 @@ description: "Film direction is the art of guiding a movie's creative vision, fr
 category: everyday-concepts
 tags: ["film direction", "filmmaking", "cinema", "directing", "movies", "storytelling"]
 heroImage: "/images/articles/film-direction-hero.webp"
-heroAlt: "Editorial photograph representing the concept of film direction"
+heroAlt: "Film direction is the art of guiding a movie's creative vision, from script to screen"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1012
 tier: "3"

@@ -5,10 +5,10 @@ description: "Jukebox collecting is the hobby of acquiring, restoring, and prese
 category: everyday-concepts
 tags: ["jukebox collecting", "vintage", "music history", "antiques", "restoration"]
 heroImage: "/images/articles/jukebox-collecting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of jukebox collecting"
+heroAlt: "Jukebox collecting is the hobby of acquiring, restoring, and preserving coin-operated music machines"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 752
 tier: "3"

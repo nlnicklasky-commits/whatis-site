@@ -5,10 +5,10 @@ description: "Shamanism is an ancient spiritual practice where practitioners ent
 category: philosophy
 tags: ["shamanism", "spirituality", "indigenous cultures", "healing", "altered states", "ritual", "anthropology"]
 heroImage: "/images/articles/shamanism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of shamanism"
+heroAlt: "Shamanism is an ancient spiritual practice where practitioners enter altered states of consciousness to interact with the spirit world for healing and guidance"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3003
 tier: "1"

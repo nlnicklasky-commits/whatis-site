@@ -5,10 +5,10 @@ description: "Slate roofing uses natural stone tiles split from metamorphic rock
 category: technology
 tags: ["slate roofing", "roofing", "construction", "building materials", "natural stone", "architecture", "durability"]
 heroImage: "/images/articles/slate-roofing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of slate roofing"
+heroAlt: "Slate roofing uses natural stone tiles split from metamorphic rock to create durable, fire-resistant roofs that can last 100 to 200 years or more"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2686
 tier: "2"

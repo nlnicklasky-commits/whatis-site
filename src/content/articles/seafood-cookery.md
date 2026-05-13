@@ -5,10 +5,10 @@ description: "Seafood cookery covers the techniques for preparing fish, shellfis
 category: everyday-concepts
 tags: ["seafood", "cooking", "culinary", "fish", "shellfish", "recipes"]
 heroImage: "/images/articles/seafood-cookery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of seafood cookery"
+heroAlt: "Seafood cookery covers the techniques for preparing fish, shellfish, and other marine foods"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1058
 tier: "3"

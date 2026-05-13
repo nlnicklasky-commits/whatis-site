@@ -5,10 +5,10 @@ description: "Italian is a Romance language descended from Latin, spoken by 85 m
 category: everyday-concepts
 tags: ["italian language", "Romance languages", "linguistics", "Italian culture", "Latin"]
 heroImage: "/images/articles/italian-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of italian language"
+heroAlt: "Italian is a Romance language descended from Latin, spoken by 85 million people"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 845
 tier: "3"

@@ -5,10 +5,10 @@ description: "Ice climbing is ascending frozen waterfalls and ice formations usi
 category: sports
 tags: ["ice climbing", "mountaineering", "winter sports", "climbing", "ice axes", "crampons"]
 heroImage: "/images/articles/ice-climbing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ice climbing"
+heroAlt: "Ice climbing is ascending frozen waterfalls and ice formations using specialized gear"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 935
 tier: "3"

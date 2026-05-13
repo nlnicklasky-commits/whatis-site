@@ -5,10 +5,10 @@ description: "Pantomime is a theatrical form combining comedy, music, and audien
 category: everyday-concepts
 tags: ["pantomime", "theater", "performing arts", "comedy", "british culture", "entertainment"]
 heroImage: "/images/articles/pantomime-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pantomime"
+heroAlt: "Pantomime is a theatrical form combining comedy, music, and audience participation, popular in Britain"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 911
 tier: "3"

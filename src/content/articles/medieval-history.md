@@ -5,10 +5,10 @@ description: "Medieval history covers the period from roughly 500 to 1500 CE in 
 category: everyday-concepts
 tags: ["medieval history", "Middle Ages", "feudalism", "history", "European history", "crusades"]
 heroImage: "/images/articles/medieval-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of medieval history"
+heroAlt: "Medieval history covers the period from roughly 500 to 1500 CE in Europe"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 963
 tier: "3"

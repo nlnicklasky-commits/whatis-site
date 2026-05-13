@@ -5,10 +5,10 @@ description: "Rock climbing is the sport of ascending rock faces using physical 
 category: sports
 tags: ["rock climbing", "bouldering", "sport climbing", "outdoor recreation", "fitness", "adventure"]
 heroImage: "/images/articles/rock-climbing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of rock climbing"
+heroAlt: "Rock climbing is the sport of ascending rock faces using physical skill and specialized gear"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1027
 tier: "3"

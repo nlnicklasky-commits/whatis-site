@@ -5,10 +5,10 @@ description: "Optimal control is a mathematical framework for finding the best w
 category: technology
 tags: ["optimal control", "control theory", "optimization", "robotics", "aerospace engineering", "mathematical modeling"]
 heroImage: "/images/articles/optimal-control-hero.webp"
-heroAlt: "Editorial photograph representing the concept of optimal control"
+heroAlt: "Optimal control is a mathematical framework for finding the best way to steer a system over time, used in robotics, aerospace, economics, and more"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2848
 tier: "2"

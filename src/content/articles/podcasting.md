@@ -5,10 +5,10 @@ description: "Podcasting is creating and distributing audio content online via R
 category: technology
 tags: ["audio", "digital media", "content creation", "broadcasting", "entertainment", "information"]
 heroImage: "/images/articles/podcasting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of podcasting"
+heroAlt: "Podcasting is creating and distributing audio content online via RSS feeds, letting listeners subscribe and download episodes on demand"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2551
 tier: "2"

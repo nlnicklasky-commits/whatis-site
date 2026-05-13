@@ -5,10 +5,10 @@ description: "Social democracy blends capitalism with strong social welfare prog
 category: politics
 tags: ["social democracy", "welfare state", "Nordic model", "politics", "capitalism", "labor rights"]
 heroImage: "/images/articles/social-democracy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social democracy"
+heroAlt: "Social democracy blends capitalism with strong social welfare programs and worker protections"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 873
 tier: "3"

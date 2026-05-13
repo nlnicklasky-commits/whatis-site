@@ -5,10 +5,10 @@ description: "Sales is the process of persuading someone to exchange money for a
 category: business
 tags: ["sales", "selling", "business", "customer service"]
 heroImage: "/images/articles/sales-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sales"
+heroAlt: "Sales is the process of persuading someone to exchange money for a product or service, driving revenue and growth for every business"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1851
 tier: "3"

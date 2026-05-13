@@ -5,10 +5,10 @@ description: "Aerospace engineering designs aircraft and spacecraft. Learn how a
 category: technology
 tags: ["aerospace engineering", "engineering", "aviation", "spacecraft", "aeronautics", "astronautics", "rockets"]
 heroImage: "/images/articles/aerospace-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of aerospace engineering"
+heroAlt: "Aerospace engineering designs aircraft and spacecraft"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3460
 tier: "1"

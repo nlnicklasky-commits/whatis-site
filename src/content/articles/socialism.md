@@ -5,10 +5,10 @@ description: "Socialism advocates for collective or public ownership of producti
 category: politics
 tags: ["socialism", "economics", "political theory", "Marx", "collective ownership", "equality"]
 heroImage: "/images/articles/socialism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of socialism"
+heroAlt: "Socialism advocates for collective or public ownership of production and more equal wealth distribution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 954
 tier: "3"

@@ -5,10 +5,10 @@ description: "Race car driving is the competitive sport of driving vehicles at h
 category: sports
 tags: ["race car driving", "motorsport", "Formula 1", "NASCAR", "racing", "automotive"]
 heroImage: "/images/articles/race-car-driving-hero.webp"
-heroAlt: "Editorial photograph representing the concept of race car driving"
+heroAlt: "Race car driving is the competitive sport of driving vehicles at high speeds on circuits or courses"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1129
 tier: "3"

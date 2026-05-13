@@ -5,10 +5,10 @@ description: "Geochemistry studies the chemical composition of Earth and other p
 category: science
 tags: ["geochemistry", "geology", "chemistry", "earth science", "elements", "isotopes", "minerals"]
 heroImage: "/images/articles/geochemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of geochemistry"
+heroAlt: "Geochemistry studies the chemical composition of Earth and other planets, tracing how elements move through rocks, water, and air to shape our world"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2336
 tier: "2"

@@ -5,10 +5,10 @@ description: "The history of chemistry stretches from ancient alchemy to modern 
 category: history
 tags: ["history of chemistry", "chemistry", "alchemy", "atomic theory", "periodic table"]
 heroImage: "/images/articles/the-history-of-chemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of chemistry"
+heroAlt: "The history of chemistry stretches from ancient alchemy to modern atomic theory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1683
 tier: "3"

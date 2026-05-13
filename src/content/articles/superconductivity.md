@@ -5,10 +5,10 @@ description: "Superconductivity is a state where materials conduct electricity w
 category: everyday-concepts
 tags: ["superconductivity", "physics", "electricity", "materials science", "quantum mechanics", "magnets"]
 heroImage: "/images/articles/superconductivity-hero.webp"
-heroAlt: "Editorial photograph representing the concept of superconductivity"
+heroAlt: "Superconductivity is a state where materials conduct electricity with zero resistance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 804
 tier: "3"

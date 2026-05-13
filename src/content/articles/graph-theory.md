@@ -5,10 +5,10 @@ description: "Graph theory studies networks of nodes and edges. Learn how this m
 category: science
 tags: ["graph theory", "mathematics", "graphs", "networks", "algorithms", "computer science", "discrete mathematics"]
 heroImage: "/images/articles/graph-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of graph theory"
+heroAlt: "Graph theory studies networks of nodes and edges"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2541
 tier: "2"

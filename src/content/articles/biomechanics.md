@@ -5,10 +5,10 @@ description: "Biomechanics applies physics and engineering to biological movemen
 category: science
 tags: ["biomechanics", "human movement", "physics", "engineering", "sports science", "medical devices", "prosthetics"]
 heroImage: "/images/articles/biomechanics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of biomechanics"
+heroAlt: "Biomechanics applies physics and engineering to biological movement"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2402
 tier: "2"

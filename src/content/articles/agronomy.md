@@ -5,10 +5,10 @@ description: "Agronomy is the science of soil management and crop production. Le
 category: science
 tags: ["agronomy", "agriculture", "crop science", "soil science", "farming", "plant science", "sustainability"]
 heroImage: "/images/articles/agronomy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of agronomy"
+heroAlt: "Agronomy is the science of soil management and crop production"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3283
 tier: "1"

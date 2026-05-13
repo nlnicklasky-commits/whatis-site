@@ -5,10 +5,10 @@ description: "Space colonization is the idea of establishing permanent human set
 category: technology
 tags: ["space colonization", "space exploration", "Mars", "space habitat", "aerospace", "astronomy"]
 heroImage: "/images/articles/space-colonization-hero.webp"
-heroAlt: "Editorial photograph representing the concept of space colonization"
+heroAlt: "Space colonization is the idea of establishing permanent human settlements beyond Earth"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2242
 tier: "2"

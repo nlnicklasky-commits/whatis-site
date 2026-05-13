@@ -5,10 +5,10 @@ description: "Materials science studies how structure and composition determine 
 category: science
 tags: ["materials science", "engineering", "metals", "polymers", "ceramics", "composites", "nanotechnology"]
 heroImage: "/images/articles/materials-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of materials science"
+heroAlt: "Materials science studies how structure and composition determine material properties, enabling better metals, polymers, and ceramics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2712
 tier: "2"

@@ -5,10 +5,10 @@ description: "Mineralogy studies minerals, their structure, composition, propert
 category: science
 tags: ["mineralogy", "minerals", "geology", "crystals", "earth science", "geochemistry", "rocks"]
 heroImage: "/images/articles/mineralogy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mineralogy"
+heroAlt: "Mineralogy studies minerals, their structure, composition, properties, and formation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2442
 tier: "2"

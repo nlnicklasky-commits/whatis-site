@@ -5,10 +5,10 @@ description: "Dance is the art of moving the body rhythmically, usually to music
 category: arts-amp-culture
 tags: ["dance", "arts-amp-culture"]
 heroImage: "/images/articles/dance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dance"
+heroAlt: "Dance is the art of moving the body rhythmically, usually to music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 923
 tier: "3"

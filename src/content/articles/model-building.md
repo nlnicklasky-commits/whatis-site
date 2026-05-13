@@ -5,10 +5,10 @@ description: "Model building is the hobby of constructing scaled replicas of veh
 category: everyday-concepts
 tags: ["model building", "scale models", "hobby", "crafts", "miniatures", "plastic models"]
 heroImage: "/images/articles/model-building-hero.webp"
-heroAlt: "Editorial photograph representing the concept of model building"
+heroAlt: "Model building is the hobby of constructing scaled replicas of vehicles, buildings, and figures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 747
 tier: "3"

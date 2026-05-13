@@ -5,10 +5,10 @@ description: "Medicinal chemistry designs and optimizes drug molecules for treat
 category: science
 tags: ["medicinal chemistry", "drug design", "pharmacology", "chemistry", "pharmaceuticals", "molecular biology", "drug discovery"]
 heroImage: "/images/articles/medicinal-chemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of medicinal chemistry"
+heroAlt: "Medicinal chemistry designs and optimizes drug molecules for treating disease"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2535
 tier: "2"

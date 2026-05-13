@@ -5,10 +5,10 @@ description: "Argumentation is the process of constructing and evaluating reason
 category: philosophy
 tags: ["argumentation", "logic", "rhetoric", "debate", "critical thinking", "persuasion", "philosophy"]
 heroImage: "/images/articles/argumentation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of argumentation"
+heroAlt: "Argumentation is the process of constructing and evaluating reasoned claims"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2769
 tier: "2"

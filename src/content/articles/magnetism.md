@@ -5,10 +5,10 @@ description: "Magnetism is a force from moving electric charges. Learn about mag
 category: science
 tags: ["magnetism", "physics", "magnetic fields", "electromagnetism", "ferromagnetism", "magnets", "science"]
 heroImage: "/images/articles/magnetism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of magnetism"
+heroAlt: "Magnetism is a force from moving electric charges"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2626
 tier: "2"

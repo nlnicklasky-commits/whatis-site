@@ -5,10 +5,10 @@ description: "Dog training teaches dogs desired behaviors through structured met
 category: everyday-concepts
 tags: ["dog training", "everyday-concepts"]
 heroImage: "/images/articles/dog-training-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dog training"
+heroAlt: "Dog training teaches dogs desired behaviors through structured methods"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1054
 tier: "3"

@@ -5,10 +5,10 @@ description: "Clowning is a performance art centered on comedy, physical humor, 
 category: arts-amp-culture
 tags: ["clowning", "circus arts", "comedy", "physical comedy", "mime", "performance art"]
 heroImage: "/images/articles/clowning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of clowning"
+heroAlt: "Clowning is a performance art centered on comedy, physical humor, and audience connection"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1015
 tier: "3"

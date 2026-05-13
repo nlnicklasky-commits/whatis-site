@@ -5,10 +5,10 @@ description: "Roofing is the craft of constructing and repairing the top coverin
 category: everyday-concepts
 tags: ["roof", "roofing materials", "construction", "building", "home repair", "roof repair"]
 heroImage: "/images/articles/roofing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of roofing"
+heroAlt: "Roofing is the craft of constructing and repairing the top covering of buildings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1038
 tier: "3"

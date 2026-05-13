@@ -5,10 +5,10 @@ description: "Automotive repair covers the diagnosis, maintenance, and fixing of
 category: everyday-concepts
 tags: ["automotive repair", "auto repair", "mechanic", "car repair", "vehicle maintenance", "cars"]
 heroImage: "/images/articles/automotive-repair-hero.webp"
-heroAlt: "Editorial photograph representing the concept of automotive repair"
+heroAlt: "Automotive repair covers the diagnosis, maintenance, and fixing of motor vehicles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1025
 tier: "3"

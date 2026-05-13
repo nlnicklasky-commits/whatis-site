@@ -5,10 +5,10 @@ description: "Social Darwinism misapplied evolutionary theory to justify inequal
 category: everyday-concepts
 tags: ["social darwinism", "evolution", "sociology", "Herbert Spencer", "history", "ethics"]
 heroImage: "/images/articles/social-darwinism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social darwinism"
+heroAlt: "Social Darwinism misapplied evolutionary theory to justify inequality and competition in human societies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 836
 tier: "3"

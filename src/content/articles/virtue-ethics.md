@@ -5,10 +5,10 @@ description: "Virtue ethics is a moral philosophy focused on character traits ra
 category: everyday-concepts
 tags: ["virtue ethics", "philosophy", "Aristotle", "morality", "character", "ethics"]
 heroImage: "/images/articles/virtue-ethics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of virtue ethics"
+heroAlt: "Virtue ethics is a moral philosophy focused on character traits rather than rules or outcomes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1009
 tier: "3"

@@ -5,10 +5,10 @@ description: "Upholstery is the craft of padding and covering furniture with fab
 category: arts-amp-culture
 tags: ["upholstery", "furniture", "crafts", "fabric", "restoration", "interior design"]
 heroImage: "/images/articles/upholstery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of upholstery"
+heroAlt: "Upholstery is the craft of padding and covering furniture with fabric, leather, or vinyl"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 928
 tier: "3"

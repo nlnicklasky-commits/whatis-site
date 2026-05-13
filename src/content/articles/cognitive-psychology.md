@@ -5,10 +5,10 @@ description: "Cognitive psychology studies how people perceive, remember, think,
 category: science
 tags: ["cognitive psychology", "psychology", "cognition", "mental processes", "memory", "attention", "problem-solving"]
 heroImage: "/images/articles/cognitive-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cognitive psychology"
+heroAlt: "Cognitive psychology studies how people perceive, remember, think, speak, and solve problems through controlled experiments and mental models"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2946
 tier: "2"

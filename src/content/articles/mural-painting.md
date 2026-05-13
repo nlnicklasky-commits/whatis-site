@@ -5,10 +5,10 @@ description: "Mural painting is the art of creating large-scale artwork directly
 category: arts-amp-culture
 tags: ["mural painting", "murals", "wall art", "fresco", "public art", "art history"]
 heroImage: "/images/articles/mural-painting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mural painting"
+heroAlt: "Mural painting is the art of creating large-scale artwork directly on walls or ceilings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 964
 tier: "3"

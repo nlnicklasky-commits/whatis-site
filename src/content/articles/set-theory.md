@@ -5,10 +5,10 @@ description: "Set theory is the mathematical study of collections of objects. Le
 category: everyday-concepts
 tags: ["set theory", "mathematics", "logic", "infinity", "Georg Cantor", "foundations"]
 heroImage: "/images/articles/set-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of set theory"
+heroAlt: "Set theory is the mathematical study of collections of objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1102
 tier: "3"

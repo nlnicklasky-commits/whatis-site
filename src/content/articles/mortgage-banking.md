@@ -5,10 +5,10 @@ description: "Mortgage banking is the business of originating, funding, and serv
 category: finance
 tags: ["mortgage banking", "home loans", "real estate finance", "underwriting", "loan servicing", "interest rates"]
 heroImage: "/images/articles/mortgage-banking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mortgage banking"
+heroAlt: "Mortgage banking is the business of originating, funding, and servicing home loans"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2395
 tier: "2"

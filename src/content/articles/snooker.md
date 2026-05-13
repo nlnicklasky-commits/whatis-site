@@ -5,10 +5,10 @@ description: "Snooker is a cue sport played on a large table with 22 balls, dema
 category: everyday-concepts
 tags: ["snooker", "cue sports", "billiards", "pool", "precision", "strategy"]
 heroImage: "/images/articles/snooker-hero.webp"
-heroAlt: "Editorial photograph representing the concept of snooker"
+heroAlt: "Snooker is a cue sport played on a large table with 22 balls, demanding precision and strategy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 704
 tier: "3"

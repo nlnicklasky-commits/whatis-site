@@ -5,10 +5,10 @@ description: "Prose is ordinary written language that flows in sentences and par
 category: arts-amp-culture
 tags: ["prose", "writing", "literature", "fiction", "non-fiction", "grammar"]
 heroImage: "/images/articles/prose-hero.webp"
-heroAlt: "Editorial photograph representing the concept of prose"
+heroAlt: "Prose is ordinary written language that flows in sentences and paragraphs, without the line breaks of poetry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 936
 tier: "3"

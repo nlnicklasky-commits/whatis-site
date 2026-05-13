@@ -5,10 +5,10 @@ description: "Coffee roasting transforms green beans into the aromatic brown bea
 category: everyday-concepts
 tags: ["coffee roasting", "coffee", "roasting", "food science", "flavor", "coffee beans"]
 heroImage: "/images/articles/coffee-roasting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of coffee roasting"
+heroAlt: "Coffee roasting transforms green beans into the aromatic brown beans you brew"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1111
 tier: "3"

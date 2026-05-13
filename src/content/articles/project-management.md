@@ -5,10 +5,10 @@ description: "Project management is how teams plan, execute, and deliver work on
 category: technology
 tags: ["project management", "pmp", "agile", "scrum", "project planning", "risk management", "time management"]
 heroImage: "/images/articles/project-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of project management"
+heroAlt: "Project management is how teams plan, execute, and deliver work on time and on budget"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2720
 tier: "2"

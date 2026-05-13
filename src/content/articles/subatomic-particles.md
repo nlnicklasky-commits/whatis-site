@@ -5,10 +5,10 @@ description: "Subatomic particles are the tiny building blocks smaller than atom
 category: science
 tags: ["physics", "subatomic particles", "quantum mechanics", "particle physics", "standard model"]
 heroImage: "/images/articles/subatomic-particles-hero.webp"
-heroAlt: "Editorial photograph representing the concept of subatomic particles"
+heroAlt: "Subatomic particles are the tiny building blocks smaller than atoms—quarks, leptons, and bosons—that make up all matter and force in the universe"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2792
 tier: "2"

@@ -5,10 +5,10 @@ description: "Signal processing is the field of engineering and mathematics that
 category: technology
 tags: ["signal processing", "electronics", "digital signals", "analog signals", "filtering", "fourier transform", "dsp"]
 heroImage: "/images/articles/signal-processing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of signal processing"
+heroAlt: "Signal processing is the field of engineering and mathematics that analyzes, modifies, and extracts information from signals like audio, images, and data"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3013
 tier: "1"

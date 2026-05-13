@@ -5,10 +5,10 @@ description: "Structural biology studies the 3D shapes of biological molecules l
 category: everyday-concepts
 tags: ["structural biology", "biology", "proteins", "X-ray crystallography", "molecular biology", "biochemistry"]
 heroImage: "/images/articles/structural-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of structural biology"
+heroAlt: "Structural biology studies the 3D shapes of biological molecules like proteins and DNA"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 783
 tier: "3"

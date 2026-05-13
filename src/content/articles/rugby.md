@@ -5,10 +5,10 @@ description: "Rugby is a contact team sport played with an oval ball where playe
 category: sports
 tags: ["rugby union", "rugby league", "contact sport", "team sport", "oval ball", "tackling"]
 heroImage: "/images/articles/rugby-hero.webp"
-heroAlt: "Editorial photograph representing the concept of rugby"
+heroAlt: "Rugby is a contact team sport played with an oval ball where players score by carrying or kicking the ball into the opponent's goal area"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1155
 tier: "3"

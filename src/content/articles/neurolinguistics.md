@@ -5,10 +5,10 @@ description: "Neurolinguistics studies how the brain processes language, from sp
 category: science
 tags: ["neurolinguistics", "language", "brain", "neuroscience", "linguistics", "aphasia", "cognitive science"]
 heroImage: "/images/articles/neurolinguistics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of neurolinguistics"
+heroAlt: "Neurolinguistics studies how the brain processes language, from speech production and comprehension to reading, bilingualism, and language disorders"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2422
 tier: "2"

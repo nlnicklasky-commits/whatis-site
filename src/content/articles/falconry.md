@@ -5,10 +5,10 @@ description: "Falconry is the ancient art of hunting with trained birds of prey.
 category: sports
 tags: ["birds of prey", "raptors", "hunting", "avian", "conservation", "traditional sport"]
 heroImage: "/images/articles/falconry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of falconry"
+heroAlt: "Falconry is the ancient art of hunting with trained birds of prey"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1014
 tier: "3"

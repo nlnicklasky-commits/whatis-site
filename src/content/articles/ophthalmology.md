@@ -5,10 +5,10 @@ description: "Ophthalmology is the medical specialty for eye diseases and vision
 category: health-amp-wellness
 tags: ["ophthalmology", "eye care", "eye diseases", "vision"]
 heroImage: "/images/articles/ophthalmology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ophthalmology"
+heroAlt: "Ophthalmology is the medical specialty for eye diseases and vision disorders"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1466
 tier: "3"

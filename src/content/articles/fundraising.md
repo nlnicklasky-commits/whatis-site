@@ -5,10 +5,10 @@ description: "Fundraising is the organized effort to collect voluntary contribut
 category: finance
 tags: ["non-profit", "charity", "donations", "philanthropy", "grants", "campaigns", "fundraising strategies"]
 heroImage: "/images/articles/fundraising-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fundraising"
+heroAlt: "Fundraising is the organized effort to collect voluntary contributions for a cause"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2519
 tier: "2"

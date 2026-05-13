@@ -5,10 +5,10 @@ description: "Basket weaving is the craft of interlacing flexible materials like
 category: arts-amp-culture
 tags: ["basket weaving", "basketry", "traditional craft", "fiber art", "handmade", "natural materials"]
 heroImage: "/images/articles/basket-weaving-hero.webp"
-heroAlt: "Editorial photograph representing the concept of basket weaving"
+heroAlt: "Basket weaving is the craft of interlacing flexible materials like reeds, willow, and grasses to create containers, art, and functional objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 966
 tier: "3"

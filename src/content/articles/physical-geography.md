@@ -5,10 +5,10 @@ description: "Physical geography studies Earth's natural features and processes,
 category: science
 tags: ["geography", "earth science", "geology", "climate", "landforms", "ecology", "environment"]
 heroImage: "/images/articles/physical-geography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of physical geography"
+heroAlt: "Physical geography studies Earth's natural features and processes, from mountains and rivers to climate and ecosystems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2476
 tier: "2"

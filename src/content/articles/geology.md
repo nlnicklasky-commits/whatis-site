@@ -5,10 +5,10 @@ description: "Geology studies Earth's structure, materials, and the processes sh
 category: science
 tags: ["geology", "earth science", "rocks", "minerals", "plate tectonics", "natural hazards", "resources"]
 heroImage: "/images/articles/geology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of geology"
+heroAlt: "Geology studies Earth's structure, materials, and the processes shaping our planet over billions of years, from plate tectonics to minerals"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2488
 tier: "2"

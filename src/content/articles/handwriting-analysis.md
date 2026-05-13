@@ -5,10 +5,10 @@ description: "Handwriting analysis examines writing to identify authorship or in
 category: everyday-concepts
 tags: ["handwriting analysis", "graphology", "pseudoscience", "personality", "forensic science", "writing"]
 heroImage: "/images/articles/handwriting-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of handwriting analysis"
+heroAlt: "Handwriting analysis examines writing to identify authorship or infer traits"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 938
 tier: "3"

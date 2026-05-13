@@ -5,10 +5,10 @@ description: "Ottoman history spans over 600 years of empire across three contin
 category: history
 tags: ["ottoman empire", "turkish history", "islamic history", "middle east"]
 heroImage: "/images/articles/ottoman-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ottoman history"
+heroAlt: "Ottoman history spans over 600 years of empire across three continents"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1714
 tier: "3"

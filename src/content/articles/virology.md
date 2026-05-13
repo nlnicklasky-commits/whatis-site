@@ -5,10 +5,10 @@ description: "Virology is the study of viruses and viral diseases. Learn about v
 category: science
 tags: ["virology", "biology", "microbiology", "infectious disease", "vaccines"]
 heroImage: "/images/articles/virology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of virology"
+heroAlt: "Virology is the study of viruses and viral diseases"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2384
 tier: '1'

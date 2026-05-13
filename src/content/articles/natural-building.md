@@ -5,10 +5,10 @@ description: "Natural building uses earth, straw, wood, and other minimally proc
 category: everyday-concepts
 tags: ["natural building", "sustainable architecture", "green building", "eco-friendly", "straw bale", "cob"]
 heroImage: "/images/articles/natural-building-hero.webp"
-heroAlt: "Editorial photograph representing the concept of natural building"
+heroAlt: "Natural building uses earth, straw, wood, and other minimally processed materials to create structures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 938
 tier: "3"

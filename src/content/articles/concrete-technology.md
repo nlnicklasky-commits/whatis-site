@@ -5,10 +5,10 @@ description: "Concrete technology is the science of designing, mixing, placing, 
 category: technology
 tags: ["construction", "engineering", "materials science", "civil engineering", "building materials", "concrete", "cement"]
 heroImage: "/images/articles/concrete-technology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of concrete technology"
+heroAlt: "Concrete technology is the science of designing, mixing, placing, and curing concrete for construction — the most used building material on Earth"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2425
 tier: "2"

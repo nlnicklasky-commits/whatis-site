@@ -5,10 +5,10 @@ description: "Computer repair involves diagnosing and fixing hardware and softwa
 category: everyday-concepts
 tags: ["computer repair", "everyday-concepts"]
 heroImage: "/images/articles/computer-repair-hero.webp"
-heroAlt: "Editorial photograph representing the concept of computer repair"
+heroAlt: "Computer repair involves diagnosing and fixing hardware and software problems in computers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1014
 tier: "3"

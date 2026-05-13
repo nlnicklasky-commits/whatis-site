@@ -5,10 +5,10 @@ description: "Cereal science studies the biology, chemistry, and processing of c
 category: science
 tags: ["cereal science", "grains", "food science", "agriculture", "nutrition", "wheat", "rice", "corn"]
 heroImage: "/images/articles/cereal-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cereal science"
+heroAlt: "Cereal science studies the biology, chemistry, and processing of cereal grains like wheat, rice, and corn that feed most of the world's population"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2306
 tier: "2"

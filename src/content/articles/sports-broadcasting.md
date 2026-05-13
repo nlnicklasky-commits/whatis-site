@@ -5,10 +5,10 @@ description: "Sports broadcasting delivers live athletic events to audiences thr
 category: sports
 tags: ["sports broadcasting", "television", "commentary", "live production", "streaming", "media rights"]
 heroImage: "/images/articles/sports-broadcasting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sports broadcasting"
+heroAlt: "Sports broadcasting delivers live athletic events to audiences through TV, radio, and streaming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 993
 tier: "3"

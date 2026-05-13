@@ -5,10 +5,10 @@ description: "Sports writing covers athletic events, athletes, and sports cultur
 category: arts-amp-culture
 tags: ["sports writing", "journalism", "sports media", "sportswriting", "athletic storytelling", "reporting"]
 heroImage: "/images/articles/sports-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sports writing"
+heroAlt: "Sports writing covers athletic events, athletes, and sports culture through journalism, analysis, and storytelling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 973
 tier: "3"

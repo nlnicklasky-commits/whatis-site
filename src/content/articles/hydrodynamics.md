@@ -5,10 +5,10 @@ description: "Hydrodynamics studies how fluids flow and the forces they produce.
 category: science
 tags: ["hydrodynamics", "fluid dynamics", "fluid mechanics", "water", "engineering", "oceanography", "physics"]
 heroImage: "/images/articles/hydrodynamics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hydrodynamics"
+heroAlt: "Hydrodynamics studies how fluids flow and the forces they produce"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2382
 tier: "2"

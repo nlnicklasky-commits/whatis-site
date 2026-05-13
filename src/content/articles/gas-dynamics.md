@@ -5,10 +5,10 @@ description: "Gas dynamics studies how gases behave when they move at high speed
 category: science
 tags: ["gas dynamics", "fluid dynamics", "aerodynamics", "supersonic flow", "shock waves", "aerospace engineering", "thermodynamics"]
 heroImage: "/images/articles/gas-dynamics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gas dynamics"
+heroAlt: "Gas dynamics studies how gases behave when they move at high speeds"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2742
 tier: "2"

@@ -5,10 +5,10 @@ description: "Social psychology studies how people's thoughts, feelings, and beh
 category: psychology
 tags: ["social psychology", "psychology", "behavior", "social influence", "group dynamics", "cognitive bias"]
 heroImage: "/images/articles/social-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social psychology"
+heroAlt: "Social psychology studies how people's thoughts, feelings, and behaviors are influenced by others"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2403
 tier: "2"

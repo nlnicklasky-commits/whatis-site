@@ -5,10 +5,10 @@ description: "Pet grooming is the practice of cleaning and maintaining a pet's c
 category: everyday-concepts
 tags: ["grooming", "pets", "animal care", "hygiene", "bathing", "nails"]
 heroImage: "/images/articles/pet-grooming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pet grooming"
+heroAlt: "Pet grooming is the practice of cleaning and maintaining a pet's coat, skin, nails, and overall hygiene"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 882
 tier: "3"

@@ -5,10 +5,10 @@ description: "Phenomenology is a philosophy focused on the structures of conscio
 category: everyday-concepts
 tags: ["phenomenology", "philosophy", "consciousness", "Husserl", "Heidegger", "existentialism"]
 heroImage: "/images/articles/phenomenology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of phenomenology"
+heroAlt: "Phenomenology is a philosophy focused on the structures of conscious experience"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1018
 tier: "3"

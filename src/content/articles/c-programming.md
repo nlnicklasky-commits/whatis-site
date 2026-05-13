@@ -5,10 +5,10 @@ description: "C++ is a general-purpose programming language combining low-level 
 category: technology
 tags: ["c++", "programming", "software development", "object-oriented", "compiler", "system programming"]
 heroImage: "/images/articles/c-programming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of c++ programming"
+heroAlt: "C++ is a general-purpose programming language combining low-level memory control with high-level abstractions like classes, templates, and polymorphism"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2983
 tier: "2"

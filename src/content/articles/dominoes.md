@@ -5,10 +5,10 @@ description: "Dominoes is a tile-based game played worldwide for centuries. Lear
 category: everyday-concepts
 tags: ["dominoes", "everyday-concepts"]
 heroImage: "/images/articles/dominoes-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dominoes"
+heroAlt: "Dominoes is a tile-based game played worldwide for centuries"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 987
 tier: "3"

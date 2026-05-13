@@ -5,10 +5,10 @@ description: "Reinforcement learning trains AI agents through trial, error, and 
 category: technology
 tags: ["reinforcement learning", "machine learning", "ai", "deep learning", "agents", "rewards", "algorithms"]
 heroImage: "/images/articles/reinforcement-learning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of reinforcement learning"
+heroAlt: "Reinforcement learning trains AI agents through trial, error, and rewards"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3385
 tier: "1"

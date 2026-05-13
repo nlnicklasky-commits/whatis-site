@@ -5,10 +5,10 @@ description: "Marketing is the process of identifying customer needs and promoti
 category: business
 tags: ["business strategy", "marketing", "advertising"]
 heroImage: "/images/articles/marketing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of marketing"
+heroAlt: "Marketing is the process of identifying customer needs and promoting products or services to meet them"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1679
 tier: "3"

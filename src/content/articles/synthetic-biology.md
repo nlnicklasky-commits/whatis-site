@@ -5,10 +5,10 @@ description: "Synthetic biology is the engineering of biological systems by desi
 category: science
 tags: ["biology", "synthetic biology", "genetic engineering", "biotechnology", "bioengineering", "DNA"]
 heroImage: "/images/articles/synthetic-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of synthetic biology"
+heroAlt: "Synthetic biology is the engineering of biological systems by designing, building, and testing DNA, cells, and organisms for useful purposes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2168
 tier: "2"

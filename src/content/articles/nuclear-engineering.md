@@ -5,10 +5,10 @@ description: "Nuclear engineering applies nuclear physics to energy, medicine, a
 category: technology
 tags: ["nuclear engineering", "nuclear power", "nuclear physics", "radiation", "nuclear safety", "energy", "engineering"]
 heroImage: "/images/articles/nuclear-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of nuclear engineering"
+heroAlt: "Nuclear engineering applies nuclear physics to energy, medicine, and industry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2782
 tier: "2"

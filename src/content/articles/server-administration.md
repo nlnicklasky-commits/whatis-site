@@ -5,10 +5,10 @@ description: "Server administration is the practice of managing, configuring, an
 category: technology
 tags: ["server administration", "it", "linux", "windows server", "system administration", "networking", "cloud"]
 heroImage: "/images/articles/server-administration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of server administration"
+heroAlt: "Server administration is the practice of managing, configuring, and maintaining servers to keep applications, websites, and services running reliably"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3213
 tier: "1"

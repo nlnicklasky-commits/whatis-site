@@ -5,10 +5,10 @@ description: "Thermodynamics is the branch of physics studying heat, energy, wor
 category: science
 tags: ["thermodynamics", "physics", "heat", "energy", "entropy"]
 heroImage: "/images/articles/thermodynamics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of thermodynamics"
+heroAlt: "Thermodynamics is the branch of physics studying heat, energy, work, and entropy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2398
 tier: "2"

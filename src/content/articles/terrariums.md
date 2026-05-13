@@ -5,10 +5,10 @@ description: "A terrarium is a miniature garden enclosed in glass that creates i
 category: everyday-concepts
 tags: ["terrariums", "ecosystem", "plants", "gardening", "indoor plants", "glass container"]
 heroImage: "/images/articles/terrariums-hero.webp"
-heroAlt: "Editorial photograph representing the concept of terrariums"
+heroAlt: "A terrarium is a miniature garden enclosed in glass that creates its own ecosystem"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 802
 tier: "3"

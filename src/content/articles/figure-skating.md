@@ -5,10 +5,10 @@ description: "Figure skating combines athletic jumps, spins, and footwork with a
 category: sports
 tags: ["ice skating", "olympics", "winter sports", "jumps", "spins", "choreography"]
 heroImage: "/images/articles/figure-skating-hero.webp"
-heroAlt: "Editorial photograph representing the concept of figure skating"
+heroAlt: "Figure skating combines athletic jumps, spins, and footwork with artistic expression on ice"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1078
 tier: "3"

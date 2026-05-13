@@ -5,10 +5,10 @@ description: "Writing is the skill of communicating ideas through text. Learn ab
 category: everyday-concepts
 tags: ["writing", "communication", "creative writing", "nonfiction", "literacy", "language arts"]
 heroImage: "/images/articles/writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of writing"
+heroAlt: "Writing is the skill of communicating ideas through text"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1094
 tier: "3"

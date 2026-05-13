@@ -5,10 +5,10 @@ description: "Lexicography is the practice of compiling, editing, and publishing
 category: language
 tags: ["lexicography", "dictionaries", "linguistics", "language", "etymology", "words"]
 heroImage: "/images/articles/lexicography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lexicography"
+heroAlt: "Lexicography is the practice of compiling, editing, and publishing dictionaries"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 904
 tier: "3"

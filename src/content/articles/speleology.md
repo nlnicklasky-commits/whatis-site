@@ -5,10 +5,10 @@ description: "Speleology is the scientific study of caves, including their forma
 category: science
 tags: ["speleology", "caves", "geology", "karst", "underground", "earth science"]
 heroImage: "/images/articles/speleology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of speleology"
+heroAlt: "Speleology is the scientific study of caves, including their formation, geology, biology, and hydrology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2317
 tier: "2"

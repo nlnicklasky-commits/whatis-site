@@ -5,10 +5,10 @@ description: "Electricity is the flow of electric charge that powers modern life
 category: everyday-concepts
 tags: ["electricity", "everyday-concepts"]
 heroImage: "/images/articles/electricity-hero.webp"
-heroAlt: "Editorial photograph representing the concept of electricity"
+heroAlt: "Electricity is the flow of electric charge that powers modern life"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1068
 tier: "3"

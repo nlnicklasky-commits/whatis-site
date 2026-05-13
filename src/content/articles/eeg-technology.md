@@ -5,10 +5,10 @@ description: "EEG technology records the brain's electrical activity through sca
 category: technology
 tags: ["eeg", "electroencephalography", "neuroscience", "brain activity", "neurology", "brain waves", "medical technology"]
 heroImage: "/images/articles/eeg-technology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of eeg technology"
+heroAlt: "EEG technology records the brain's electrical activity through scalp electrodes, used in medicine, neuroscience, and brain-computer interfaces"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2443
 tier: "2"

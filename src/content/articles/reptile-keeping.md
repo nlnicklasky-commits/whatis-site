@@ -5,10 +5,10 @@ description: "Reptile keeping is the hobby of caring for reptiles as pets, from 
 category: hobbies
 tags: ["reptile keeping", "pets", "herpetology", "terrariums", "bearded dragons", "snakes"]
 heroImage: "/images/articles/reptile-keeping-hero.webp"
-heroAlt: "Editorial photograph representing the concept of reptile keeping"
+heroAlt: "Reptile keeping is the hobby of caring for reptiles as pets, from bearded dragons to ball pythons"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 971
 tier: "3"

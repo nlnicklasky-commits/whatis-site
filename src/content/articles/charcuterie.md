@@ -5,10 +5,10 @@ description: "Charcuterie is the craft of preparing and preserving meats — inc
 category: everyday-concepts
 tags: ["charcuterie", "cured meats", "food preservation", "cooking", "culinary arts", "salami"]
 heroImage: "/images/articles/charcuterie-hero.webp"
-heroAlt: "Editorial photograph representing the concept of charcuterie"
+heroAlt: "Charcuterie is the craft of preparing and preserving meats — including curing, smoking, and fermenting — to create products like salami, prosciutto, and pâté"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 934
 tier: "3"

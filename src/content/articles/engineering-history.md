@@ -5,10 +5,10 @@ description: "Engineering history traces how humans have designed and built stru
 category: history
 tags: ["engineering history", "engineering", "technology", "industrial revolution"]
 heroImage: "/images/articles/engineering-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of engineering history"
+heroAlt: "Engineering history traces how humans have designed and built structures, machines, and systems from ancient aqueducts to modern microchips"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1617
 tier: "3"

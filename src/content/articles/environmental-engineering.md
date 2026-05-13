@@ -5,10 +5,10 @@ description: "Environmental engineering applies science and engineering to prote
 category: technology
 tags: ["environmental engineering", "environment", "engineering", "pollution control", "waste management", "water treatment", "sustainability"]
 heroImage: "/images/articles/environmental-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of environmental engineering"
+heroAlt: "Environmental engineering applies science and engineering to protect human health and the environment — water treatment, waste, and pollution control"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2370
 tier: "2"

@@ -5,10 +5,10 @@ description: "Medical billing is the process of submitting healthcare claims to 
 category: finance
 tags: ["medical billing", "healthcare", "insurance claims", "revenue cycle", "coding", "reimbursement", "finance"]
 heroImage: "/images/articles/medical-billing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of medical billing"
+heroAlt: "Medical billing is the process of submitting healthcare claims to insurers for payment"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2453
 tier: "2"

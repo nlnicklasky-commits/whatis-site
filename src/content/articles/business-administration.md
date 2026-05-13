@@ -5,10 +5,10 @@ description: "Business administration is the management of an organization's ope
 category: finance
 tags: ["business administration", "management", "operations", "organizational goals", "finance", "marketing", "human resources"]
 heroImage: "/images/articles/business-administration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of business administration"
+heroAlt: "Business administration is the management of an organization's operations, resources, and people to achieve its goals efficiently"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2604
 tier: "2"

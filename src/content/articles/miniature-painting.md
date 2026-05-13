@@ -5,10 +5,10 @@ description: "Miniature painting is the art of painting small-scale figures and 
 category: arts-amp-culture
 tags: ["miniature painting", "tabletop gaming", "model painting", "art", "hobby", "Warhammer"]
 heroImage: "/images/articles/miniature-painting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of miniature painting"
+heroAlt: "Miniature painting is the art of painting small-scale figures and models with fine detail"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 705
 tier: "3"

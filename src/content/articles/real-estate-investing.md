@@ -5,10 +5,10 @@ description: "Real estate investing means buying property to generate income or 
 category: finance
 tags: ["real estate investing", "investment", "rental property", "reits", "passive income", "property", "finance"]
 heroImage: "/images/articles/real-estate-investing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of real estate investing"
+heroAlt: "Real estate investing means buying property to generate income or profit, including rental properties, REITs, flipping, and syndications"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3128
 tier: "1"

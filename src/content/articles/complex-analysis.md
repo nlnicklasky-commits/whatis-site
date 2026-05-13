@@ -5,10 +5,10 @@ description: "Complex analysis is the study of functions involving complex numbe
 category: everyday-concepts
 tags: ["complex analysis", "everyday-concepts"]
 heroImage: "/images/articles/complex-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of complex analysis"
+heroAlt: "Complex analysis is the study of functions involving complex numbers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1166
 tier: "3"

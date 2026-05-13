@@ -5,10 +5,10 @@ description: "Paragliding is a recreational flying sport using a lightweight fab
 category: sports
 tags: ["paragliding", "adventure sport", "flight", "gliding", "outdoor recreation", "air sports"]
 heroImage: "/images/articles/paragliding-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paragliding"
+heroAlt: "Paragliding is a recreational flying sport using a lightweight fabric wing launched from hillsides"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1035
 tier: "3"

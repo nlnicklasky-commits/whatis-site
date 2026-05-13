@@ -5,10 +5,10 @@ description: "Spreadsheet modeling uses programs like Excel to build financial, 
 category: everyday-concepts
 tags: ["spreadsheet modeling", "Excel", "financial modeling", "data analysis", "business", "forecasting"]
 heroImage: "/images/articles/spreadsheet-modeling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of spreadsheet modeling"
+heroAlt: "Spreadsheet modeling uses programs like Excel to build financial, scientific, or business models"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1089
 tier: "3"

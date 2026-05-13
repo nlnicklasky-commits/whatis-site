@@ -5,10 +5,10 @@ description: "Risk management is the process of identifying, analyzing, and resp
 category: business
 tags: ["finance", "risk management", "business", "insurance"]
 heroImage: "/images/articles/risk-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of risk management"
+heroAlt: "Risk management is the process of identifying, analyzing, and responding to potential threats that could affect a business, project, or investment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1779
 tier: "3"

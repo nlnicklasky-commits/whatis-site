@@ -5,10 +5,10 @@ description: "The history of space exploration covers the journey from early roc
 category: history
 tags: ["space exploration", "space race", "nasa", "rockets", "satellites"]
 heroImage: "/images/articles/the-history-of-space-exploration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of space exploration"
+heroAlt: "The history of space exploration covers the journey from early rocketry to the Moon landings, space stations, and Mars missions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1515
 tier: "3"

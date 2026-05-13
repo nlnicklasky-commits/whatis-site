@@ -5,10 +5,10 @@ description: "Superfoods are nutrient-dense foods marketed as especially benefic
 category: everyday-concepts
 tags: ["superfoods", "nutrition", "health", "diet", "antioxidants", "food science"]
 heroImage: "/images/articles/superfoods-hero.webp"
-heroAlt: "Editorial photograph representing the concept of superfoods"
+heroAlt: "Superfoods are nutrient-dense foods marketed as especially beneficial for health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 820
 tier: "3"

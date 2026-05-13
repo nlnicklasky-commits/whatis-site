@@ -5,10 +5,10 @@ description: "Linear programming optimizes outcomes under constraints. Learn abo
 category: science
 tags: ["linear programming", "optimization", "mathematics", "operations research", "simplex method", "constraints", "decision making"]
 heroImage: "/images/articles/linear-programming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of linear programming"
+heroAlt: "Linear programming optimizes outcomes under constraints"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2519
 tier: "2"

@@ -5,10 +5,10 @@ description: "Game development is the process of creating video games, from conc
 category: technology
 tags: ["game development", "programming", "game art", "sound design", "quality assurance", "video games", "software engineering"]
 heroImage: "/images/articles/game-development-hero.webp"
-heroAlt: "Editorial photograph representing the concept of game development"
+heroAlt: "Game development is the process of creating video games, from concept to release"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2513
 tier: "2"

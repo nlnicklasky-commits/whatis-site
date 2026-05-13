@@ -5,10 +5,10 @@ description: "Greek is one of the oldest recorded languages, spoken for over 3,4
 category: everyday-concepts
 tags: ["greek language", "Greek", "linguistics", "ancient languages", "alphabet", "Indo-European"]
 heroImage: "/images/articles/greek-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the greek language"
+heroAlt: "Greek is one of the oldest recorded languages, spoken for over 3,400 years"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1018
 tier: "3"

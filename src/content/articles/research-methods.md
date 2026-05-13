@@ -5,10 +5,10 @@ description: "Research methods are the systematic techniques used to collect and
 category: science
 tags: ["research methods", "scientific method", "methodology", "data collection", "analysis", "experiment"]
 heroImage: "/images/articles/research-methods-hero.webp"
-heroAlt: "Editorial photograph representing the concept of research methods"
+heroAlt: "Research methods are the systematic techniques used to collect and analyze data"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2885
 tier: "2"

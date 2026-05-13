@@ -5,10 +5,10 @@ description: "Swahili is a Bantu language spoken by over 100 million people acro
 category: everyday-concepts
 tags: ["swahili language", "linguistics", "Africa", "Bantu", "language", "East Africa"]
 heroImage: "/images/articles/swahili-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of swahili language"
+heroAlt: "Swahili is a Bantu language spoken by over 100 million people across East Africa"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 769
 tier: "3"

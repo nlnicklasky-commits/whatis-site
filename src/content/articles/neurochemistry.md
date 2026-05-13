@@ -5,10 +5,10 @@ description: "Neurochemistry studies the chemical processes in the brain, includ
 category: science
 tags: ["neurochemistry", "neurotransmitters", "neuroscience", "brain chemistry", "psychopharmacology", "biochemistry"]
 heroImage: "/images/articles/neurochemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of neurochemistry"
+heroAlt: "Neurochemistry studies the chemical processes in the brain, including neurotransmitters, receptors, and how brain chemistry shapes mood and behavior"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2320
 tier: "2"

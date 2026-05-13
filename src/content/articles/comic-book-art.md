@@ -5,10 +5,10 @@ description: "Comic book art is visual storytelling through sequential images an
 category: arts-amp-culture
 tags: ["comic book art", "comics", "graphic novels", "illustration", "sequential art", "drawing"]
 heroImage: "/images/articles/comic-book-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of comic book art"
+heroAlt: "Comic book art is visual storytelling through sequential images and text"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 992
 tier: "3"

@@ -5,10 +5,10 @@ description: "Knot tying is the skill of fastening rope or cord into functional 
 category: everyday-concepts
 tags: ["knot tying", "rope work", "sailing", "camping", "survival skills", "scouting"]
 heroImage: "/images/articles/knot-tying-hero.webp"
-heroAlt: "Editorial photograph representing the concept of knot tying"
+heroAlt: "Knot tying is the skill of fastening rope or cord into functional configurations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1088
 tier: "3"

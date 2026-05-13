@@ -5,10 +5,10 @@ description: "Periodontology is the dental specialty focused on gum disease and 
 category: everyday-concepts
 tags: ["periodontology", "dental health", "gum disease", "oral health", "dentistry", "gingivitis"]
 heroImage: "/images/articles/periodontology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of periodontology"
+heroAlt: "Periodontology is the dental specialty focused on gum disease and the structures supporting teeth"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 970
 tier: "3"

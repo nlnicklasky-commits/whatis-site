@@ -5,10 +5,10 @@ description: "Chemistry is the science of matter and how substances interact, bo
 category: science
 tags: ["chemistry", "science", "matter", "atoms", "molecules", "chemical reactions", "elements"]
 heroImage: "/images/articles/chemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of chemistry"
+heroAlt: "Chemistry is the science of matter and how substances interact, bond, and transform"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3205
 tier: "1"

@@ -5,10 +5,10 @@ description: "Printmaking is an art form where images are transferred from a pre
 category: arts-amp-culture
 tags: ["printmaking", "art", "woodcut", "etching", "lithography", "screen printing"]
 heroImage: "/images/articles/printmaking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of printmaking"
+heroAlt: "Printmaking is an art form where images are transferred from a prepared surface to paper or fabric"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1023
 tier: "3"

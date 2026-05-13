@@ -5,10 +5,10 @@ description: "Parallel computing runs multiple calculations simultaneously to so
 category: technology
 tags: ["parallel computing", "supercomputing", "concurrency", "multiprocessing", "distributed computing", "hpc"]
 heroImage: "/images/articles/parallel-computing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of parallel computing"
+heroAlt: "Parallel computing runs multiple calculations simultaneously to solve problems faster"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2893
 tier: "2"

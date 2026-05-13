@@ -5,10 +5,10 @@ description: "Computer networking connects devices to share data using protocols
 category: technology
 tags: ["networking", "internet", "data communication", "it", "network protocols", "cybersecurity", "cloud computing"]
 heroImage: "/images/articles/computer-networking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of computer networking"
+heroAlt: "Computer networking connects devices to share data using protocols like TCP/IP, enabling the internet, cloud computing, and modern communication"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2891
 tier: "2"

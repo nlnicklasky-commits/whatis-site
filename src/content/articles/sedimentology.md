@@ -5,10 +5,10 @@ description: "Sedimentology studies how sediments form, move, and become rock, c
 category: science
 tags: ["sedimentology", "geology", "sedimentary rocks", "stratigraphy", "earth science", "depositional environments"]
 heroImage: "/images/articles/sedimentology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sedimentology"
+heroAlt: "Sedimentology studies how sediments form, move, and become rock, covering depositional environments, sedimentary structures, and Earth's history"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2309
 tier: "2"

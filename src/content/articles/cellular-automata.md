@@ -5,10 +5,10 @@ description: "Cellular automata are discrete computational models where simple r
 category: technology
 tags: ["cellular automata", "computation", "simulation", "complexity theory", "mathematics", "game of life", "discrete models"]
 heroImage: "/images/articles/cellular-automata-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cellular automata"
+heroAlt: "Cellular automata are discrete computational models where simple rules applied to a grid of cells produce complex, emergent behavior over time"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2343
 tier: "2"

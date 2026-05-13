@@ -5,10 +5,10 @@ description: "Ballet is a highly technical form of classical dance originating i
 category: arts-amp-culture
 tags: ["ballet", "dance", "classical dance", "performing arts", "choreography", "swan lake"]
 heroImage: "/images/articles/ballet-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ballet"
+heroAlt: "Ballet is a highly technical form of classical dance originating in Renaissance Italy, characterized by precise movements, pointed feet, and graceful"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1048
 tier: "3"

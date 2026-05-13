@@ -5,10 +5,10 @@ description: "Stamp collecting (philately) is the hobby of collecting and studyi
 category: arts-amp-culture
 tags: ["stamp collecting", "philately", "hobbies", "postage stamps", "collectibles", "postal history"]
 heroImage: "/images/articles/stamp-collecting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of stamp collecting"
+heroAlt: "Stamp collecting (philately) is the hobby of collecting and studying postage stamps"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1086
 tier: "3"

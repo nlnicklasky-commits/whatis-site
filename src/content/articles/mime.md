@@ -5,10 +5,10 @@ description: "Mime is a theatrical art form that tells stories through body move
 category: everyday-concepts
 tags: ["mime", "performing arts", "theater", "physical theater", "Marcel Marceau", "silent performance"]
 heroImage: "/images/articles/mime-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mime"
+heroAlt: "Mime is a theatrical art form that tells stories through body movement and gesture without words"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 757
 tier: "3"

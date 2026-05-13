@@ -5,10 +5,10 @@ description: "The history of astronomy traces humanity's study of the cosmos fro
 category: history
 tags: ["history of astronomy", "astronomy", "cosmology", "copernicus", "galileo"]
 heroImage: "/images/articles/the-history-of-astronomy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of astronomy"
+heroAlt: "The history of astronomy traces humanity's study of the cosmos from ancient stargazers to modern space telescopes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1741
 tier: "3"

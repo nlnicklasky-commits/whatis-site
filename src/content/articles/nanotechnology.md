@@ -5,10 +5,10 @@ description: "Nanotechnology engineers materials and devices at the atomic scale
 category: technology
 tags: ["nanotechnology", "nanomaterials", "nanoscience", "quantum physics", "materials science", "medicine"]
 heroImage: "/images/articles/nanotechnology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of nanotechnology"
+heroAlt: "Nanotechnology engineers materials and devices at the atomic scale"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2526
 tier: "2"

@@ -5,10 +5,10 @@ description: "Shakespearean literature includes the plays and poems of William S
 category: everyday-concepts
 tags: ["shakespeare", "english literature", "plays", "poetry", "drama", "renaissance"]
 heroImage: "/images/articles/shakespearean-literature-hero.webp"
-heroAlt: "Editorial photograph representing the concept of shakespearean literature"
+heroAlt: "Shakespearean literature includes the plays and poems of William Shakespeare, the most influential writer in the English language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1159
 tier: "3"

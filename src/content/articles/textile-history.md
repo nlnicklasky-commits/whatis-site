@@ -5,10 +5,10 @@ description: "Textile history traces fabric production from ancient hand-spinnin
 category: history
 tags: ["textile history", "fabric", "weaving", "industrial revolution", "silk road"]
 heroImage: "/images/articles/textile-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of textile history"
+heroAlt: "Textile history traces fabric production from ancient hand-spinning to the Industrial Revolution and beyond"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1622
 tier: "3"

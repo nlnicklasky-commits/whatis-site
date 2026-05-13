@@ -5,10 +5,10 @@ description: "German is a West Germanic language spoken by over 130 million peop
 category: philosophy
 tags: ["german language", "linguistics", "germanic languages", "germany", "language learning", "indo-european", "culture"]
 heroImage: "/images/articles/german-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the german language"
+heroAlt: "German is a West Germanic language spoken by over 130 million people"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2629
 tier: "2"

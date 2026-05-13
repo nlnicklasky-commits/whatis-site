@@ -5,10 +5,10 @@ description: "Martial arts are codified fighting systems practiced for self-defe
 category: sports
 tags: ["martial arts", "self-defense", "combat sports", "karate", "judo", "fitness"]
 heroImage: "/images/articles/martial-arts-hero.webp"
-heroAlt: "Editorial photograph representing the concept of martial arts"
+heroAlt: "Martial arts are codified fighting systems practiced for self-defense, fitness, and personal growth"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1016
 tier: "3"

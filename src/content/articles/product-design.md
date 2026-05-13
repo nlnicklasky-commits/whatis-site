@@ -5,10 +5,10 @@ description: "Product design turns user needs into functional, beautiful things 
 category: technology
 tags: ["product design", "industrial design", "user experience", "ux design", "product development", "design thinking"]
 heroImage: "/images/articles/product-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of product design"
+heroAlt: "Product design turns user needs into functional, beautiful things people actually want"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2718
 tier: "2"

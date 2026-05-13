@@ -5,10 +5,10 @@ description: "Environmental chemistry studies chemical processes in air, water, 
 category: science
 tags: ["environmental chemistry", "chemistry", "environment", "pollution", "climate change", "green chemistry", "sustainability"]
 heroImage: "/images/articles/environmental-chemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of environmental chemistry"
+heroAlt: "Environmental chemistry studies chemical processes in air, water, and soil"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2767
 tier: "2"

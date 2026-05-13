@@ -5,10 +5,10 @@ description: "Modern art refers to artistic works from roughly 1860 to 1970 that
 category: arts-amp-culture
 tags: ["modern art", "art history", "impressionism", "cubism", "abstract art", "contemporary art"]
 heroImage: "/images/articles/modern-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of modern art"
+heroAlt: "Modern art refers to artistic works from roughly 1860 to 1970 that broke with traditional styles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 896
 tier: "3"

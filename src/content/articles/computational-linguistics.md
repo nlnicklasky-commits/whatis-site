@@ -5,10 +5,10 @@ description: "Computational linguistics combines linguistics and computer scienc
 category: technology
 tags: ["nlp", "ai", "linguistics", "computer science", "machine learning", "natural language processing", "data science"]
 heroImage: "/images/articles/computational-linguistics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of computational linguistics"
+heroAlt: "Computational linguistics combines linguistics and computer science to build systems that process, understand, and generate human language"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2622
 tier: "2"

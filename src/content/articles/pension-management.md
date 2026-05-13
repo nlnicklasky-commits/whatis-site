@@ -5,10 +5,10 @@ description: "Pension management handles retirement funds through investment, ac
 category: finance
 tags: ["pension management", "retirement planning", "defined benefit", "defined contribution", "actuarial science", "investment management"]
 heroImage: "/images/articles/pension-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pension management"
+heroAlt: "Pension management handles retirement funds through investment, actuarial analysis, and regulatory compliance so retirees get their promised income"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3090
 tier: "1"

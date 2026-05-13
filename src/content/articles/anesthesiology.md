@@ -5,10 +5,10 @@ description: "Anesthesiology is the medical specialty focused on pain management
 category: health-amp-wellness
 tags: ["anesthesiology", "anesthesia", "medicine", "surgery", "pain management"]
 heroImage: "/images/articles/anesthesiology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of anesthesiology"
+heroAlt: "Anesthesiology is the medical specialty focused on pain management, sedation, and life support during surgery and other procedures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1830
 tier: "3"

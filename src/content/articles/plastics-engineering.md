@@ -5,10 +5,10 @@ description: "Plastics engineering is the design, processing, and testing of pol
 category: technology
 tags: ["plastics", "engineering", "polymers", "manufacturing", "product design", "materials science", "recycling"]
 heroImage: "/images/articles/plastics-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of plastics engineering"
+heroAlt: "Plastics engineering is the design, processing, and testing of polymer-based materials and products — from packaging to aerospace components"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2428
 tier: "2"

@@ -5,10 +5,10 @@ description: "Industrial design shapes the products you use daily. Learn how des
 category: technology
 tags: ["industrial design", "product design", "design", "ux design", "ergonomics", "manufacturing", "aesthetics"]
 heroImage: "/images/articles/industrial-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of industrial design"
+heroAlt: "Industrial design shapes the products you use daily"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2374
 tier: "2"

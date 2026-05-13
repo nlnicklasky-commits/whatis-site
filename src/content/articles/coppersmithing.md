@@ -5,10 +5,10 @@ description: "Coppersmithing is the craft of shaping copper into functional and 
 category: arts-amp-culture
 tags: ["crafts", "metalworking", "artisan", "copper", "traditional crafts", "handicrafts"]
 heroImage: "/images/articles/coppersmithing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of coppersmithing"
+heroAlt: "Coppersmithing is the craft of shaping copper into functional and decorative objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 849
 tier: "3"

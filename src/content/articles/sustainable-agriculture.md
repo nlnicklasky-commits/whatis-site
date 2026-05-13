@@ -5,10 +5,10 @@ description: "Sustainable agriculture is farming that meets current food needs w
 category: science
 tags: ["environmental science", "sustainable agriculture", "farming", "ecology", "food systems", "soil science"]
 heroImage: "/images/articles/sustainable-agriculture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sustainable agriculture"
+heroAlt: "Sustainable agriculture is farming that meets current food needs without compromising future generations' ability to do the same, balancing ecology and profit"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2132
 tier: "2"

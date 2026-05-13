@@ -5,10 +5,10 @@ description: "Intellectual history studies how ideas develop and spread across t
 category: everyday-concepts
 tags: ["intellectual history", "history of ideas", "philosophy", "culture", "thought"]
 heroImage: "/images/articles/intellectual-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of intellectual history"
+heroAlt: "Intellectual history studies how ideas develop and spread across time"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 692
 tier: "3"

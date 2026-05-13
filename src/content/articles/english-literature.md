@@ -5,10 +5,10 @@ description: "English literature spans centuries of poetry, prose, and drama in 
 category: everyday-concepts
 tags: ["english literature", "everyday-concepts"]
 heroImage: "/images/articles/english-literature-hero.webp"
-heroAlt: "Editorial photograph representing the concept of english literature"
+heroAlt: "English literature spans centuries of poetry, prose, and drama in the English language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1077
 tier: "3"

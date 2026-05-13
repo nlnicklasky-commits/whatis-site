@@ -5,10 +5,10 @@ description: "Mechanical engineering designs and builds machines, engines, and s
 category: technology
 tags: ["mechanical engineering", "engineering", "machines", "thermodynamics", "mechanics", "design", "manufacturing"]
 heroImage: "/images/articles/mechanical-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mechanical engineering"
+heroAlt: "Mechanical engineering designs and builds machines, engines, and systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2252
 tier: "2"

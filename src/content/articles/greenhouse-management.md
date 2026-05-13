@@ -5,10 +5,10 @@ description: "Greenhouse management controls growing environments for year-round
 category: technology
 tags: ["greenhouse management", "horticulture", "agriculture", "controlled environment", "plant growth", "hydroponics", "farming"]
 heroImage: "/images/articles/greenhouse-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of greenhouse management"
+heroAlt: "Greenhouse management controls growing environments for year-round crop production"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2445
 tier: "2"

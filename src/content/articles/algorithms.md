@@ -5,10 +5,10 @@ description: "Algorithms are step-by-step instructions for solving problems. Lea
 category: technology
 tags: ["algorithms", "computer science", "programming", "data structures", "technology", "coding", "software"]
 heroImage: "/images/articles/algorithms-hero.webp"
-heroAlt: "Editorial photograph representing the concept of an algorithm"
+heroAlt: "Algorithms are step-by-step instructions for solving problems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3196
 tier: "1"

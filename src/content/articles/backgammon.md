@@ -5,10 +5,10 @@ description: "Backgammon is a two-player board game combining strategy and luck,
 category: everyday-concepts
 tags: ["backgammon", "board games", "strategy games", "dice games", "classic games", "tabletop"]
 heroImage: "/images/articles/backgammon-hero.webp"
-heroAlt: "Editorial photograph representing the concept of backgammon"
+heroAlt: "Backgammon is a two-player board game combining strategy and luck, where players race to move 15 checkers off the board based on dice rolls"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 923
 tier: "3"

@@ -5,10 +5,10 @@ description: "Video game history traces gaming from 1950s experiments to a $180 
 category: everyday-concepts
 tags: ["video game history", "gaming", "consoles", "arcade games", "game industry", "technology"]
 heroImage: "/images/articles/video-game-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of video game history"
+heroAlt: "Video game history traces gaming from 1950s experiments to a $180 billion industry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1063
 tier: "3"

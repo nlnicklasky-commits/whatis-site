@@ -5,10 +5,10 @@ description: "Stucco is a plaster-like building material applied to walls and ce
 category: everyday-concepts
 tags: ["stucco", "construction", "building materials", "plaster", "architecture", "exterior finish"]
 heroImage: "/images/articles/stucco-hero.webp"
-heroAlt: "Editorial photograph representing the concept of stucco"
+heroAlt: "Stucco is a plaster-like building material applied to walls and ceilings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 720
 tier: "3"

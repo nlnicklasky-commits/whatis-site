@@ -5,10 +5,10 @@ description: "Traffic engineering is the branch of civil engineering focused on 
 category: technology
 tags: ["traffic engineering", "transportation", "civil engineering"]
 heroImage: "/images/articles/traffic-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of traffic engineering"
+heroAlt: "Traffic engineering is the branch of civil engineering focused on safe, efficient movement of people and vehicles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2333
 tier: "2"

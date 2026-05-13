@@ -5,10 +5,10 @@ description: "Political philosophy examines questions about government, justice,
 category: philosophy
 tags: ["politics", "government", "justice", "liberty", "rights", "ethics", "political science"]
 heroImage: "/images/articles/political-philosophy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of political philosophy"
+heroAlt: "Political philosophy examines questions about government, justice, rights, liberty, and the proper relationship between individuals and the state"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2515
 tier: "2"

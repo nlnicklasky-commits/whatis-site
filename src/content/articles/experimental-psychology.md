@@ -5,10 +5,10 @@ description: "Experimental psychology uses scientific methods to study the mind 
 category: psychology
 tags: ["experimental psychology", "psychology", "research methods", "experiment", "scientific method", "cognition", "behavior"]
 heroImage: "/images/articles/experimental-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of experimental psychology"
+heroAlt: "Experimental psychology uses scientific methods to study the mind and behavior — research design, famous experiments, and how this field shapes science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3143
 tier: "1"

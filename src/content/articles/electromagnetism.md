@@ -5,10 +5,10 @@ description: "Electromagnetism is the fundamental force governing electricity, m
 category: science
 tags: ["electromagnetism", "physics", "electricity", "magnetism", "electric fields", "magnetic fields", "maxwell's equations"]
 heroImage: "/images/articles/electromagnetism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of electromagnetism"
+heroAlt: "Electromagnetism is the fundamental force governing electricity, magnetism, and light"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2398
 tier: "2"

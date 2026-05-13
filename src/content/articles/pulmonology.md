@@ -5,10 +5,10 @@ description: "Pulmonology is the medical specialty focused on the lungs and resp
 category: health-amp-wellness
 tags: ["pulmonology", "respiratory system", "lungs", "asthma"]
 heroImage: "/images/articles/pulmonology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pulmonology"
+heroAlt: "Pulmonology is the medical specialty focused on the lungs and respiratory system"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1540
 tier: "3"

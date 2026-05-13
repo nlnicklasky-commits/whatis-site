@@ -5,10 +5,10 @@ description: "Fuel cells generate electricity from hydrogen and oxygen with wate
 category: technology
 tags: ["energy", "hydrogen", "clean energy", "electrochemistry", "renewable energy", "sustainable technology", "power generation"]
 heroImage: "/images/articles/fuel-cell-technology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fuel cell technology"
+heroAlt: "Fuel cells generate electricity from hydrogen and oxygen with water as the only byproduct"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2449
 tier: "2"

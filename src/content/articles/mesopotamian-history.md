@@ -5,10 +5,10 @@ description: "Mesopotamian history covers the ancient civilizations between the 
 category: history
 tags: ["history", "mesopotamia", "ancient civilizations"]
 heroImage: "/images/articles/mesopotamian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mesopotamian history"
+heroAlt: "Mesopotamian history covers the ancient civilizations between the Tigris and Euphrates rivers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1690
 tier: "3"

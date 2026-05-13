@@ -5,10 +5,10 @@ description: "Underwater welding joins metals beneath the water's surface using 
 category: technology
 tags: ["underwater welding", "welding", "marine engineering", "diving", "construction"]
 heroImage: "/images/articles/underwater-welding-hero.webp"
-heroAlt: "Editorial photograph representing the concept of underwater welding"
+heroAlt: "Underwater welding joins metals beneath the water's surface using specialized techniques"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 2016
 tier: "2"

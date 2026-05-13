@@ -5,10 +5,10 @@ description: "State government is the level of government that manages affairs w
 category: politics
 tags: ["state government", "politics", "legislature", "governor", "federalism", "public policy"]
 heroImage: "/images/articles/state-government-hero.webp"
-heroAlt: "Editorial photograph representing the concept of state government"
+heroAlt: "State government is the level of government that manages affairs within a U"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 741
 tier: "3"

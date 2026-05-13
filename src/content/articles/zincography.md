@@ -5,10 +5,10 @@ description: "Zincography is a printmaking technique using zinc plates instead o
 category: arts-amp-culture
 tags: ["printmaking", "lithography", "art history", "printing techniques", "graphic arts", "historical printing"]
 heroImage: "/images/articles/zincography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of zincography"
+heroAlt: "Zincography is a printmaking technique using zinc plates instead of limestone for lithographic printing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1123
 tier: "3"

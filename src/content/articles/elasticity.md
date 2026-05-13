@@ -5,10 +5,10 @@ description: "Elasticity is how materials stretch, compress, and return to shape
 category: science
 tags: ["elasticity", "physics", "materials science", "stress", "strain", "hooke's law", "engineering"]
 heroImage: "/images/articles/elasticity-hero.webp"
-heroAlt: "Editorial photograph representing the concept of elasticity"
+heroAlt: "Elasticity is how materials stretch, compress, and return to shape"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3186
 tier: "1"

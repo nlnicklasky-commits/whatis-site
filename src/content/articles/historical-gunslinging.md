@@ -5,10 +5,10 @@ description: Historical gunslinging refers to the real-world culture of armed co
 category: history
 tags: ["historical gunslinging", "old west", "american history", "gunfights", "outlaws"]
 heroImage: "/images/articles/historical-gunslinging-hero.webp"
-heroAlt: "Editorial photograph representing the concept of historical gunslinging"
+heroAlt: "Historical gunslinging refers to the real-world culture of armed conflict, duels, and shootouts in the American Old West from roughly 1865 to 1900"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1510
 tier: "3"

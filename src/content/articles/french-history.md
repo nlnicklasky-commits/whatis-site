@@ -5,10 +5,10 @@ description: "French history spans from ancient Gaul to modern republic, shaped 
 category: everyday-concepts
 tags: ["french history", "France", "revolution", "Napoleon", "European history", "monarchy"]
 heroImage: "/images/articles/french-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of french history"
+heroAlt: "French history spans from ancient Gaul to modern republic, shaped by revolutions, empires, and cultural brilliance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1116
 tier: "3"

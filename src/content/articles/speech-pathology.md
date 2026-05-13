@@ -5,10 +5,10 @@ description: "Speech pathology diagnoses and treats communication and swallowing
 category: health-amp-wellness
 tags: ["speech pathology", "speech therapy", "communication disorders", "healthcare"]
 heroImage: "/images/articles/speech-pathology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of speech pathology"
+heroAlt: "Speech pathology diagnoses and treats communication and swallowing disorders"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1519
 tier: "3"

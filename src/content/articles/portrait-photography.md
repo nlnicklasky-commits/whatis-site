@@ -5,10 +5,10 @@ description: "Portrait photography captures people's likeness, personality, and 
 category: arts-amp-culture
 tags: ["portrait photography", "photography", "portraiture", "studio photography", "environmental portrait", "headshots"]
 heroImage: "/images/articles/portrait-photography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of portrait photography"
+heroAlt: "Portrait photography captures people's likeness, personality, and mood through deliberate composition and lighting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1060
 tier: "3"

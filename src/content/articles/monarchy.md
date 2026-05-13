@@ -5,10 +5,10 @@ description: "Monarchy is a form of government ruled by a king or queen. Learn a
 category: everyday-concepts
 tags: ["monarchy", "government", "royalty", "political systems", "constitutional monarchy", "history"]
 heroImage: "/images/articles/monarchy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of monarchy"
+heroAlt: "Monarchy is a form of government ruled by a king or queen"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 801
 tier: "3"

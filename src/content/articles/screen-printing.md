@@ -5,10 +5,10 @@ description: "Screen printing pushes ink through a stenciled mesh to create desi
 category: arts-amp-culture
 tags: ["screen printing", "silk screen", "printing", "textile printing", "art print", "stencil"]
 heroImage: "/images/articles/screen-printing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of screen printing"
+heroAlt: "Screen printing pushes ink through a stenciled mesh to create designs on fabric, paper, and more"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 974
 tier: "3"

@@ -5,10 +5,10 @@ description: "Smelting is the process of extracting metal from ore using heat an
 category: science
 tags: ["metallurgy", "chemistry", "metals", "mining", "industrial processes", "materials science"]
 heroImage: "/images/articles/smelting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of smelting"
+heroAlt: "Smelting is the process of extracting metal from ore using heat and chemical reactions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2648
 tier: "2"

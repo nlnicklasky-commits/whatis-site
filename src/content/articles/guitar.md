@@ -5,10 +5,10 @@ description: "The guitar is a stringed instrument played by strumming or pluckin
 category: arts-amp-culture
 tags: ["guitar", "musical instrument", "strings", "music", "acoustic guitar", "electric guitar"]
 heroImage: "/images/articles/guitar-hero.webp"
-heroAlt: "Editorial photograph representing the concept of a guitar"
+heroAlt: "The guitar is a stringed instrument played by strumming or plucking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1062
 tier: "3"

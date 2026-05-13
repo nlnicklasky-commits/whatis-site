@@ -5,10 +5,10 @@ description: "Thai history covers the rise of Sukhothai, Ayutthaya, and modern T
 category: history
 tags: ["thai history", "thailand", "siam", "sukhothai", "southeast asia"]
 heroImage: "/images/articles/thai-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of thai history"
+heroAlt: "Thai history covers the rise of Sukhothai, Ayutthaya, and modern Thailand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1648
 tier: "3"

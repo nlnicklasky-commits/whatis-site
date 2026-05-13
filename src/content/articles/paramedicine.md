@@ -5,10 +5,10 @@ description: "Paramedicine is the field of emergency pre-hospital medical care. 
 category: health-amp-wellness
 tags: ["paramedicine", "paramedic", "ems", "emergency medicine"]
 heroImage: "/images/articles/paramedicine-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paramedicine"
+heroAlt: "Paramedicine is the field of emergency pre-hospital medical care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1625
 tier: "3"

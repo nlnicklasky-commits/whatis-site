@@ -5,10 +5,10 @@ description: "Livestock farming is the raising of animals for food, fiber, and l
 category: agriculture
 tags: ["livestock farming", "agriculture", "animal husbandry", "cattle", "farming", "food production"]
 heroImage: "/images/articles/livestock-farming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of livestock farming"
+heroAlt: "Livestock farming is the raising of animals for food, fiber, and labor"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1018
 tier: "3"

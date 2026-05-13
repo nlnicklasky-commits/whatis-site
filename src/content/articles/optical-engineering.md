@@ -5,10 +5,10 @@ description: "Optical engineering designs systems that control light. Learn how 
 category: technology
 tags: ["optical engineering", "optics", "photonics", "laser", "fiber optics", "lens design", "optical instruments"]
 heroImage: "/images/articles/optical-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of optical engineering"
+heroAlt: "Optical engineering designs systems that control light"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2831
 tier: "2"

@@ -5,10 +5,10 @@ description: "Cosmology is the study of the universe's origin, structure, and fa
 category: science
 tags: ["cosmology", "universe", "big bang", "dark matter", "dark energy", "astronomy", "science"]
 heroImage: "/images/articles/cosmology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cosmology"
+heroAlt: "Cosmology is the study of the universe's origin, structure, and fate"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3232
 tier: "1"

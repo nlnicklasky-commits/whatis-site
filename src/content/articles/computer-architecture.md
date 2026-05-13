@@ -5,10 +5,10 @@ description: "Computer architecture defines how CPUs, memory, and I/O systems ar
 category: technology
 tags: ["computer science", "hardware", "processor", "memory", "system design", "computing", "engineering"]
 heroImage: "/images/articles/computer-architecture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of computer architecture"
+heroAlt: "Computer architecture defines how CPUs, memory, and I/O systems are designed and organized to execute instructions and process data efficiently"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3246
 tier: "1"

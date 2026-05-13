@@ -5,10 +5,10 @@ description: "Food chemistry studies the chemical makeup and reactions in food, 
 category: science
 tags: ["food science", "chemistry", "nutrition", "food safety", "food processing", "biochemistry", "sensory science"]
 heroImage: "/images/articles/food-chemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of food chemistry"
+heroAlt: "Food chemistry studies the chemical makeup and reactions in food, covering proteins, fats, carbohydrates, flavor development, and food safety"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2743
 tier: "2"

@@ -5,10 +5,10 @@ description: "Quantum field theory describes the universe as fields, not particl
 category: science
 tags: ["quantum field theory", "physics", "particle physics", "standard model", "quantum mechanics", "fields"]
 heroImage: "/images/articles/quantum-field-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantum field theory"
+heroAlt: "Quantum field theory describes the universe as fields, not particles"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2752
 tier: "2"

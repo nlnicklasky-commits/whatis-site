@@ -5,10 +5,10 @@ description: "Goat farming raises goats for milk, meat, fiber, and land manageme
 category: everyday-concepts
 tags: ["goat farming", "goats", "agriculture", "livestock", "dairy farming", "meat production"]
 heroImage: "/images/articles/goat-farming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of goat farming"
+heroAlt: "Goat farming raises goats for milk, meat, fiber, and land management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 921
 tier: "3"

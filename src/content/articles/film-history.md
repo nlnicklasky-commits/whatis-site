@@ -5,10 +5,10 @@ description: "Film history traces cinema from its 1890s invention to today's str
 category: everyday-concepts
 tags: ["film history", "cinema", "movies", "Hollywood", "silent film", "film movements"]
 heroImage: "/images/articles/film-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of film history"
+heroAlt: "Film history traces cinema from its 1890s invention to today's streaming era"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 938
 tier: "3"

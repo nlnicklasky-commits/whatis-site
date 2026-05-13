@@ -5,10 +5,10 @@ description: "Social anthropology studies human societies and cultures through f
 category: social-sciences
 tags: ["social anthropology", "culture", "ethnography", "fieldwork", "kinship", "social structure"]
 heroImage: "/images/articles/social-anthropology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social anthropology"
+heroAlt: "Social anthropology studies human societies and cultures through fieldwork and observation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 717
 tier: "3"

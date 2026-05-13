@@ -5,10 +5,10 @@ description: "Frame making is the craft of creating picture frames to display an
 category: arts-amp-culture
 tags: ["crafts", "art", "design", "woodworking", "picture framing", "art preservation"]
 heroImage: "/images/articles/frame-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of frame making"
+heroAlt: "Frame making is the craft of creating picture frames to display and protect artwork"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 908
 tier: "3"

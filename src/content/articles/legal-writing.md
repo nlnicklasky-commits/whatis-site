@@ -5,10 +5,10 @@ description: "Legal writing is the specialized form of written communication use
 category: law
 tags: ["legal profession", "legal writing", "law", "communication", "courts"]
 heroImage: "/images/articles/legal-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of legal writing"
+heroAlt: "Legal writing is the specialized form of written communication used by lawyers, judges, and legal scholars to analyze law and persuade courts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1759
 tier: "3"

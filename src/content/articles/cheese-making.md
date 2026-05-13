@@ -5,10 +5,10 @@ description: "Cheese making is the process of transforming milk into cheese thro
 category: everyday-concepts
 tags: ["cheese making", "cheese", "dairy", "food science", "fermentation", "culinary arts"]
 heroImage: "/images/articles/cheese-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cheese making"
+heroAlt: "Cheese making is the process of transforming milk into cheese through acidification, coagulation, curd processing, and aging to develop flavor and texture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 994
 tier: "3"

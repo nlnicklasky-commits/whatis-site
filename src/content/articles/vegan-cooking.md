@@ -5,10 +5,10 @@ description: "Vegan cooking prepares food without any animal products. Learn abo
 category: food-amp-drink
 tags: ["vegan cooking", "plant-based", "food", "nutrition", "cooking techniques", "recipes"]
 heroImage: "/images/articles/vegan-cooking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of vegan cooking"
+heroAlt: "Vegan cooking prepares food without any animal products"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 891
 tier: "3"

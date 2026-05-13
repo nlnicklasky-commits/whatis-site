@@ -5,10 +5,10 @@ description: "Cytology is the study of cells, their structure, function, and beh
 category: science
 tags: ["cytology", "cell biology", "cells", "biology", "microscopy", "organelles", "genetics"]
 heroImage: "/images/articles/cytology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cytology"
+heroAlt: "Cytology is the study of cells, their structure, function, and behavior"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2615
 tier: "2"

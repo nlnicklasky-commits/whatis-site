@@ -5,10 +5,10 @@ description: "Real estate covers land, buildings, and natural resources attached
 category: finance
 tags: ["real estate", "property", "housing", "investment", "commercial property", "residential", "finance"]
 heroImage: "/images/articles/real-estate-hero.webp"
-heroAlt: "Editorial photograph representing the concept of real estate"
+heroAlt: "Real estate covers land, buildings, and natural resources attached to them, including property types, markets, valuation, and economic impact"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2960
 tier: "2"

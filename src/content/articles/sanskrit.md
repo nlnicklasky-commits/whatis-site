@@ -5,10 +5,10 @@ description: "Sanskrit is an ancient Indo-European language of India, sacred to 
 category: language
 tags: ["sanskrit", "classical language", "india", "hinduism", "buddhism", "linguistics"]
 heroImage: "/images/articles/sanskrit-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sanskrit"
+heroAlt: "Sanskrit is an ancient Indo-European language of India, sacred to Hinduism and Buddhism, and one of the world's oldest documented languages"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1137
 tier: "3"

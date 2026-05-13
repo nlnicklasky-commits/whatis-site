@@ -5,10 +5,10 @@ description: "The 19th century brought industrialization, revolutions, and the r
 category: everyday-concepts
 tags: ["nineteenth century history", "industrial revolution", "colonialism", "nation-states", "modernization", "world history"]
 heroImage: "/images/articles/nineteenth-century-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of nineteenth-century history"
+heroAlt: "The 19th century brought industrialization, revolutions, and the rise of nation-states"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1061
 tier: "3"

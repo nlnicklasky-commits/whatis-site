@@ -5,10 +5,10 @@ description: "Turkish is a Turkic language spoken by over 80 million people. Lea
 category: everyday-concepts
 tags: ["turkish language", "linguistics", "Turkic languages", "agglutinative", "vowel harmony", "language"]
 heroImage: "/images/articles/turkish-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of turkish language"
+heroAlt: "Turkish is a Turkic language spoken by over 80 million people"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 872
 tier: "3"

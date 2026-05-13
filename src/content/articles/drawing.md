@@ -5,10 +5,10 @@ description: "Drawing is the art of making marks on a surface to create images. 
 category: arts-amp-culture
 tags: ["drawing", "arts-amp-culture"]
 heroImage: "/images/articles/drawing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of drawing"
+heroAlt: "Drawing is the art of making marks on a surface to create images"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 994
 tier: "3"

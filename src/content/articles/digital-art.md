@@ -5,10 +5,10 @@ description: "Digital art is visual art created using computers, tablets, and so
 category: arts-amp-culture
 tags: ["digital art", "arts-amp-culture"]
 heroImage: "/images/articles/digital-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of digital art"
+heroAlt: "Digital art is visual art created using computers, tablets, and software"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1078
 tier: "3"

@@ -5,10 +5,10 @@ description: "Computational physics uses numerical algorithms and computer simul
 category: science
 tags: ["physics", "computational science", "simulation", "numerical methods", "scientific computing", "modeling", "research"]
 heroImage: "/images/articles/computational-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of computational physics"
+heroAlt: "Computational physics uses numerical algorithms and computer simulations to solve physics problems too complex for pen-and-paper math"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2282
 tier: "2"

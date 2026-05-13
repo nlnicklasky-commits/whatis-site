@@ -5,10 +5,10 @@ description: "Editing is the process of refining written or visual content for c
 category: arts-amp-culture
 tags: ["editing", "writing", "publishing", "proofreading", "copyediting", "content creation"]
 heroImage: "/images/articles/editing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of editing"
+heroAlt: "Editing is the process of refining written or visual content for clarity, accuracy, and impact"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1041
 tier: "3"

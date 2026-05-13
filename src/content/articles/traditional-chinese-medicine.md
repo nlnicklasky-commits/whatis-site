@@ -5,10 +5,10 @@ description: "Traditional Chinese Medicine (TCM) is an ancient health system usi
 category: everyday-concepts
 tags: ["traditional chinese medicine", "TCM", "acupuncture", "herbal medicine", "health", "wellness"]
 heroImage: "/images/articles/traditional-chinese-medicine-hero.webp"
-heroAlt: "Editorial photograph representing the concept of traditional chinese medicine"
+heroAlt: "Traditional Chinese Medicine (TCM) is an ancient health system using acupuncture, herbs, and other practices"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 797
 tier: "3"

@@ -5,10 +5,10 @@ description: "Topology is the branch of mathematics studying properties preserve
 category: science
 tags: ["topology", "mathematics", "geometry"]
 heroImage: "/images/articles/topology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of topology"
+heroAlt: "Topology is the branch of mathematics studying properties preserved through continuous deformation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2578
 tier: "2"

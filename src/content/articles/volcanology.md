@@ -5,10 +5,10 @@ description: "Volcanology is the study of volcanoes, lava, magma, and eruptions.
 category: science
 tags: ["volcanology", "geology", "earth science", "natural hazards"]
 heroImage: "/images/articles/volcanology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of volcanology"
+heroAlt: "Volcanology is the study of volcanoes, lava, magma, and eruptions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2333
 tier: '1'

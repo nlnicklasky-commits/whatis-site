@@ -5,10 +5,10 @@ description: "Topography is the study and mapping of Earth's surface features, i
 category: science
 tags: ["topography", "geography", "mapping", "terrain"]
 heroImage: "/images/articles/topography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of topography"
+heroAlt: "Topography is the study and mapping of Earth's surface features, including elevation, slope, and landforms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2671
 tier: "2"

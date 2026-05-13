@@ -5,10 +5,10 @@ description: "Typesetting is the process of arranging text for printing or displ
 category: arts-amp-culture
 tags: ["typesetting", "printing", "typography", "publishing", "graphic design", "layout"]
 heroImage: "/images/articles/typesetting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of typesetting"
+heroAlt: "Typesetting is the process of arranging text for printing or display"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1107
 tier: "3"

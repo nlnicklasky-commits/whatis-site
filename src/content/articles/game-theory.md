@@ -5,10 +5,10 @@ description: "Game theory is the mathematical study of strategic decision-making
 category: everyday-concepts
 tags: ["game theory", "mathematics", "strategy", "economics", "decision making", "Nash equilibrium"]
 heroImage: "/images/articles/game-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of game theory"
+heroAlt: "Game theory is the mathematical study of strategic decision-making between rational agents"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1104
 tier: "3"

@@ -5,10 +5,10 @@ description: "Hair styling shapes and arranges hair using cutting, coloring, and
 category: everyday-concepts
 tags: ["hair styling", "haircut", "hairstyles", "beauty", "fashion", "grooming"]
 heroImage: "/images/articles/hair-styling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hair styling"
+heroAlt: "Hair styling shapes and arranges hair using cutting, coloring, and heat tools"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1008
 tier: "3"

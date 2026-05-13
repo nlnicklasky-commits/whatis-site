@@ -5,10 +5,10 @@ description: "Earth science is the study of our planet's physical systems, from 
 category: science
 tags: ["earth", "geology", "meteorology", "oceanography", "environmental science", "planet earth", "geosciences"]
 heroImage: "/images/articles/earth-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of earth science"
+heroAlt: "Earth science is the study of our planet's physical systems, from rocks and oceans to weather and the atmosphere, and how they interact over time"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2441
 tier: "2"

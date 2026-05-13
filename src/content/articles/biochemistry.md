@@ -5,10 +5,10 @@ description: "Biochemistry studies chemical processes in living organisms. Learn
 category: science
 tags: ["biochemistry", "biology", "chemistry", "biomolecules", "metabolism", "enzymes", "dna"]
 heroImage: "/images/articles/biochemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of biochemistry"
+heroAlt: "Biochemistry studies chemical processes in living organisms"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2384
 tier: "2"

@@ -5,10 +5,10 @@ description: "Romanticism was a 19th-century art movement that prized emotion, i
 category: arts-amp-culture
 tags: ["romantic art", "19th century art", "emotion", "individualism", "sublime", "art movement"]
 heroImage: "/images/articles/romanticism-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of romanticism (art)"
+heroAlt: "Romanticism was a 19th-century art movement that prized emotion, individualism, and the sublime power of nature over rational order"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1070
 tier: "3"

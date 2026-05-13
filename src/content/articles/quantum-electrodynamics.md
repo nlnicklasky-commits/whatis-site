@@ -5,10 +5,10 @@ description: "QED is the quantum theory of light and matter, and the most precis
 category: science
 tags: ["quantum electrodynamics", "qed", "physics", "quantum field theory", "feynman diagrams", "particle physics"]
 heroImage: "/images/articles/quantum-electrodynamics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantum electrodynamics"
+heroAlt: "QED is the quantum theory of light and matter, and the most precisely tested theory in all of science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2626
 tier: "2"

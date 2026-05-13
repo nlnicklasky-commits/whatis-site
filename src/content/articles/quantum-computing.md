@@ -5,10 +5,10 @@ description: "Quantum computing uses qubits, superposition, and entanglement to 
 category: technology
 tags: ["quantum computing", "qubits", "quantum mechanics", "superposition", "entanglement", "algorithms"]
 heroImage: "/images/articles/quantum-computing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantum computing"
+heroAlt: "Quantum computing uses qubits, superposition, and entanglement to solve problems classical computers can't touch"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2874
 tier: "2"

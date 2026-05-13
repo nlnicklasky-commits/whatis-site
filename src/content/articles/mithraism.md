@@ -5,10 +5,10 @@ description: "Mithraism was a mysterious Roman cult centered on the god Mithras.
 category: history
 tags: ["religion", "mithraism", "ancient religions"]
 heroImage: "/images/articles/mithraism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mithraism"
+heroAlt: "Mithraism was a mysterious Roman cult centered on the god Mithras"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1594
 tier: "3"

@@ -5,10 +5,10 @@ description: "Management information systems (MIS) use technology to help organi
 category: technology
 tags: ["management information systems", "mis", "information technology", "business", "data management", "erp", "decision support"]
 heroImage: "/images/articles/management-information-systems-hero.webp"
-heroAlt: "Editorial photograph representing the concept of management information systems"
+heroAlt: "Management information systems (MIS) use technology to help organizations make decisions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2236
 tier: "2"

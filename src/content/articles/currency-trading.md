@@ -5,10 +5,10 @@ description: "Currency trading is the buying and selling of national currencies 
 category: finance
 tags: ["currency trading", "forex", "foreign exchange", "finance", "investment", "trading", "currencies"]
 heroImage: "/images/articles/currency-trading-hero.webp"
-heroAlt: "Editorial photograph representing the concept of currency trading"
+heroAlt: "Currency trading is the buying and selling of national currencies on the foreign exchange market"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2600
 tier: "2"

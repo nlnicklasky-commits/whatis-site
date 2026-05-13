@@ -5,10 +5,10 @@ description: "Fencing is a combat sport using swords — foil, epee, or sabre. L
 category: sports
 tags: ["combat sport", "swordplay", "foil", "epee", "sabre", "olympic sport"]
 heroImage: "/images/articles/fencing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fencing"
+heroAlt: "Fencing is a combat sport using swords — foil, epee, or sabre"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1017
 tier: "3"

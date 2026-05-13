@@ -5,10 +5,10 @@ description: "Student government is a student-run organization that represents t
 category: education
 tags: ["student government", "education", "leadership", "student council", "elections", "school"]
 heroImage: "/images/articles/student-government-hero.webp"
-heroAlt: "Editorial photograph representing the concept of student government"
+heroAlt: "Student government is a student-run organization that represents the student body at schools and colleges"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 751
 tier: "3"

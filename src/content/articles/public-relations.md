@@ -5,10 +5,10 @@ description: "Public relations manages how organizations communicate with the pu
 category: everyday-concepts
 tags: ["public relations", "pr", "media relations", "communication", "reputation management", "crisis communication"]
 heroImage: "/images/articles/public-relations-hero.webp"
-heroAlt: "Editorial photograph representing the concept of public relations"
+heroAlt: "Public relations manages how organizations communicate with the public to build reputation and trust"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1007
 tier: "3"

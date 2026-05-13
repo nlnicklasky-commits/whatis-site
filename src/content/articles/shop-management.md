@@ -5,10 +5,10 @@ description: "Shop management covers the systems and practices used to run a ret
 category: business
 tags: ["shop management", "retail", "business operations", "management"]
 heroImage: "/images/articles/shop-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of shop management"
+heroAlt: "Shop management covers the systems and practices used to run a retail store efficiently"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1581
 tier: "3"

@@ -5,10 +5,10 @@ description: "Optometry is the healthcare profession focused on vision care and 
 category: health-amp-wellness
 tags: ["optometry", "eye care", "vision", "eyeglasses"]
 heroImage: "/images/articles/optometry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of optometry"
+heroAlt: "Optometry is the healthcare profession focused on vision care and eye health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1529
 tier: "3"

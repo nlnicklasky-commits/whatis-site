@@ -5,10 +5,10 @@ description: "The French horn is a brass instrument known for its warm, rich ton
 category: arts-amp-culture
 tags: ["musical instrument", "brass", "orchestra", "music performance", "classical music", "horn"]
 heroImage: "/images/articles/french-horn-hero.webp"
-heroAlt: "Editorial photograph representing the concept of french horn"
+heroAlt: "The French horn is a brass instrument known for its warm, rich tone"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 934
 tier: "3"

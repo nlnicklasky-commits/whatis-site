@@ -5,10 +5,10 @@ description: "Corporate finance manages how companies fund operations, invest ca
 category: finance
 tags: ["finance", "business", "investment", "capital management", "financial planning", "economics", "shareholder value"]
 heroImage: "/images/articles/corporate-finance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of corporate finance"
+heroAlt: "Corporate finance manages how companies fund operations, invest capital, and return value to shareholders"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2607
 tier: "2"

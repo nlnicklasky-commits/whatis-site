@@ -5,10 +5,10 @@ description: "Music engineering is the technical craft behind recorded sound —
 category: technology
 tags: ["music engineering", "audio engineering", "sound engineering", "music production", "recording", "mixing", "mastering"]
 heroImage: "/images/articles/music-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of music engineering"
+heroAlt: "Music engineering is the technical craft behind recorded sound — from microphone placement to mixing and mastering"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3079
 tier: "1"

@@ -5,10 +5,10 @@ description: "Water law governs the rights to use, distribute, and protect water
 category: everyday-concepts
 tags: ["water law", "water rights", "environmental law", "natural resources", "policy", "regulation"]
 heroImage: "/images/articles/water-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of water law"
+heroAlt: "Water law governs the rights to use, distribute, and protect water resources"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 934
 tier: "3"

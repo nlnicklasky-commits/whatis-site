@@ -5,10 +5,10 @@ description: "Psychophysics studies the relationship between physical stimuli an
 category: science
 tags: ["psychophysics", "perception", "sensory science", "thresholds", "absolute threshold", "gustav fechner"]
 heroImage: "/images/articles/psychophysics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of psychophysics"
+heroAlt: "Psychophysics studies the relationship between physical stimuli and the sensations they produce, measuring how we perceive light, sound, touch, and taste"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2457
 tier: "2"

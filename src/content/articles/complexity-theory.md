@@ -5,10 +5,10 @@ description: "Complexity theory studies how large systems of interacting parts p
 category: science
 tags: ["complexity theory", "complex systems", "emergence", "self-organization", "chaos theory", "interdisciplinary", "science"]
 heroImage: "/images/articles/complexity-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of complexity theory"
+heroAlt: "Complexity theory studies how large systems of interacting parts produce emergent behavior that cannot be predicted from individual components alone"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2632
 tier: "2"

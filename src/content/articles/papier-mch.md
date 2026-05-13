@@ -5,10 +5,10 @@ description: "Papier-mache is a craft technique using paper and adhesive to crea
 category: everyday-concepts
 tags: ["papier mch", "crafts", "sculpture", "art", "paper art", "DIY"]
 heroImage: "/images/articles/papier-mch-hero.webp"
-heroAlt: "Editorial photograph representing the concept of papier-mache"
+heroAlt: "Papier-mache is a craft technique using paper and adhesive to create sculptures and objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 791
 tier: "3"

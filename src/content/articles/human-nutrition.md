@@ -5,10 +5,10 @@ description: "Human nutrition is the science of how food sustains the body. Lear
 category: health-amp-wellness
 tags: ["human nutrition", "nutrition", "diet", "health", "food science"]
 heroImage: "/images/articles/human-nutrition-hero.webp"
-heroAlt: "Editorial photograph representing the concept of human nutrition"
+heroAlt: "Human nutrition is the science of how food sustains the body"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1808
 tier: "3"

@@ -5,10 +5,10 @@ description: "Philosophy of education examines fundamental questions about learn
 category: philosophy
 tags: ["education", "philosophy", "learning", "teaching", "curriculum", "pedagogy", "educational theory"]
 heroImage: "/images/articles/philosophy-of-education-hero.webp"
-heroAlt: "Editorial photograph representing the concept of philosophy of education"
+heroAlt: "Philosophy of education examines fundamental questions about learning, teaching, and what schools should do"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2431
 tier: "2"

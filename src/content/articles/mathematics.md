@@ -5,10 +5,10 @@ description: "Mathematics is the study of numbers, patterns, structures, and log
 category: science
 tags: ["mathematics", "math", "algebra", "geometry", "calculus", "logic", "numbers"]
 heroImage: "/images/articles/mathematics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mathematics"
+heroAlt: "Mathematics is the study of numbers, patterns, structures, and logical reasoning"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2635
 tier: "2"

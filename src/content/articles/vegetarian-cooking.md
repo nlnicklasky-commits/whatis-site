@@ -5,10 +5,10 @@ description: "Vegetarian cooking prepares meals without meat or fish. Learn abou
 category: food-amp-drink
 tags: ["vegetarian cooking", "plant-based", "meatless meals", "nutrition", "food", "recipes"]
 heroImage: "/images/articles/vegetarian-cooking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of vegetarian cooking"
+heroAlt: "Vegetarian cooking prepares meals without meat or fish"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 890
 tier: "3"

@@ -5,10 +5,10 @@ description: "Medical jurisprudence applies medical knowledge to legal questions
 category: law
 tags: ["medicine", "law", "forensic medicine"]
 heroImage: "/images/articles/medical-jurisprudence-hero.webp"
-heroAlt: "Editorial photograph representing the concept of medical jurisprudence"
+heroAlt: "Medical jurisprudence applies medical knowledge to legal questions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1656
 tier: "3"

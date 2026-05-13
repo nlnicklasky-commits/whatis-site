@@ -5,10 +5,10 @@ description: "Calligraphy is the art of beautiful handwriting, practiced across 
 category: arts-amp-culture
 tags: ["calligraphy", "handwriting", "art", "lettering", "script", "typography"]
 heroImage: "/images/articles/calligraphy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of calligraphy"
+heroAlt: "Calligraphy is the art of beautiful handwriting, practiced across cultures using specialized tools to create expressive, decorative letterforms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 842
 tier: "3"

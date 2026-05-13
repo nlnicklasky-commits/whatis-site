@@ -5,10 +5,10 @@ description: "Digital marketing promotes products and services through online ch
 category: technology
 tags: ["digital marketing", "marketing", "seo", "social media", "advertising", "content marketing", "analytics"]
 heroImage: "/images/articles/digital-marketing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of digital marketing"
+heroAlt: "Digital marketing promotes products and services through online channels"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2384
 tier: "2"

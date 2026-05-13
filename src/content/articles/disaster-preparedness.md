@@ -5,10 +5,10 @@ description: "Disaster preparedness means planning and preparing before emergenc
 category: everyday-concepts
 tags: ["disaster preparedness", "everyday-concepts"]
 heroImage: "/images/articles/disaster-preparedness-hero.webp"
-heroAlt: "Editorial photograph representing the concept of disaster preparedness"
+heroAlt: "Disaster preparedness means planning and preparing before emergencies strike"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1012
 tier: "3"

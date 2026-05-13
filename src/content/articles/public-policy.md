@@ -5,10 +5,10 @@ description: "Public policy is the set of government actions, laws, and regulati
 category: politics
 tags: ["public policy", "government", "policy making", "public administration", "law", "social issues"]
 heroImage: "/images/articles/public-policy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of public policy"
+heroAlt: "Public policy is the set of government actions, laws, and regulations designed to address societal problems"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1092
 tier: "3"

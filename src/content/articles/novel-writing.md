@@ -5,10 +5,10 @@ description: "Novel writing is the craft of creating long-form fiction with deve
 category: everyday-concepts
 tags: ["novel writing", "fiction", "creative writing", "storytelling", "publishing", "literature"]
 heroImage: "/images/articles/novel-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of novel writing"
+heroAlt: "Novel writing is the craft of creating long-form fiction with developed characters, plot, and themes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1063
 tier: "3"

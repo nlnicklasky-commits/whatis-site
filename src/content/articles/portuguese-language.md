@@ -5,10 +5,10 @@ description: "Portuguese is a Romance language spoken by over 250 million people
 category: arts-amp-culture
 tags: ["portuguese language", "romance languages", "brazil", "portugal", "lusophone", "linguistics"]
 heroImage: "/images/articles/portuguese-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of portuguese language"
+heroAlt: "Portuguese is a Romance language spoken by over 250 million people across four continents"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 986
 tier: "3"

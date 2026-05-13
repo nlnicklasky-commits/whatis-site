@@ -5,10 +5,10 @@ description: "Rural sociology studies social life, institutions, and change in r
 category: everyday-concepts
 tags: ["rural communities", "agriculture", "rural development", "social studies", "sociology", "community"]
 heroImage: "/images/articles/rural-sociology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of rural sociology"
+heroAlt: "Rural sociology studies social life, institutions, and change in rural communities"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1120
 tier: "3"

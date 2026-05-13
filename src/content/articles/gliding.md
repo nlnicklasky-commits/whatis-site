@@ -5,10 +5,10 @@ description: "Gliding is the sport of flying engineless aircraft using natural a
 category: sports
 tags: ["gliding", "sailplane", "aviation", "thermals", "aerodynamics", "flight"]
 heroImage: "/images/articles/gliding-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gliding"
+heroAlt: "Gliding is the sport of flying engineless aircraft using natural air currents"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 995
 tier: "3"

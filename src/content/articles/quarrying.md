@@ -5,10 +5,10 @@ description: "Quarrying extracts stone, sand, and gravel from the earth for cons
 category: technology
 tags: ["quarrying", "mining", "stone", "construction materials", "geology", "aggregates", "extraction"]
 heroImage: "/images/articles/quarrying-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quarrying"
+heroAlt: "Quarrying extracts stone, sand, and gravel from the earth for construction and industry, covering methods, environmental impact, and practices"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2700
 tier: "2"

@@ -5,10 +5,10 @@ description: "Biotechnology uses living organisms and biological systems to deve
 category: technology
 tags: ["biotechnology", "genetic engineering", "molecular biology", "pharmaceuticals", "agriculture", "bioremediation", "gene therapy"]
 heroImage: "/images/articles/biotechnology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of biotechnology"
+heroAlt: "Biotechnology uses living organisms and biological systems to develop products and technologies across medicine, agriculture, and industry"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3061
 tier: "1"

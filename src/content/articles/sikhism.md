@@ -5,10 +5,10 @@ description: "Sikhism is a monotheistic religion founded in 15th-century Punjab 
 category: philosophy
 tags: ["sikhism", "religion", "guru nanak", "punjab", "monotheism", "equality", "spirituality"]
 heroImage: "/images/articles/sikhism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sikhism"
+heroAlt: "Sikhism is a monotheistic religion founded in 15th-century Punjab that emphasizes equality, selfless service, honest living, and devotion to one God"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3201
 tier: "1"

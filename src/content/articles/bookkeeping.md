@@ -5,10 +5,10 @@ description: "Bookkeeping is the systematic recording of financial transactions.
 category: finance
 tags: ["bookkeeping", "accounting", "financial transactions", "double-entry bookkeeping", "financial records", "finance", "business management"]
 heroImage: "/images/articles/bookkeeping-hero.webp"
-heroAlt: "Editorial photograph representing the concept of bookkeeping"
+heroAlt: "Bookkeeping is the systematic recording of financial transactions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3040
 tier: "1"

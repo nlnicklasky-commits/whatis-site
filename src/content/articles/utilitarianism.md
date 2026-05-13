@@ -5,10 +5,10 @@ description: "Utilitarianism is the ethical theory that the right action is the 
 category: philosophy
 tags: ["utilitarianism", "ethics", "philosophy", "moral theory", "consequentialism"]
 heroImage: "/images/articles/utilitarianism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of utilitarianism"
+heroAlt: "Utilitarianism is the ethical theory that the right action is the one producing the greatest good for the greatest number"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2482
 tier: "2"

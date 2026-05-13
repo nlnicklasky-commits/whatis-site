@@ -5,10 +5,10 @@ description: "Skin care is the practice of maintaining skin health through clean
 category: health-amp-wellness
 tags: ["skin care", "dermatology", "beauty", "sunscreen", "skincare routine"]
 heroImage: "/images/articles/skin-care-hero.webp"
-heroAlt: "Editorial photograph representing the concept of skin care"
+heroAlt: "Skin care is the practice of maintaining skin health through cleansing, protection, and treatment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1715
 tier: "3"

@@ -5,10 +5,10 @@ description: "Transcription is the process of converting spoken language into wr
 category: everyday-concepts
 tags: ["transcription", "writing", "audio", "documentation", "typing", "language"]
 heroImage: "/images/articles/transcription-hero.webp"
-heroAlt: "Editorial photograph representing the concept of transcription"
+heroAlt: "Transcription is the process of converting spoken language into written text"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 2
 wordCount: 676
 tier: "3"

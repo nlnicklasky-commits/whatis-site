@@ -5,10 +5,10 @@ description: "Ecology is the scientific study of how organisms interact with eac
 category: science
 tags: ["ecology", "ecosystems", "biodiversity", "environmental science", "conservation", "biology", "organisms"]
 heroImage: "/images/articles/ecology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ecology"
+heroAlt: "Ecology is the scientific study of how organisms interact with each other and their physical environment, from individual behavior to global systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2144
 tier: "2"

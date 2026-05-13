@@ -5,10 +5,10 @@ description: "Symbology is the study of symbols and their meanings across cultur
 category: arts-amp-culture
 tags: ["symbology", "symbols", "semiotics", "culture", "religion", "art history"]
 heroImage: "/images/articles/symbology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of symbology"
+heroAlt: "Symbology is the study of symbols and their meanings across cultures, religions, and art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 766
 tier: "3"

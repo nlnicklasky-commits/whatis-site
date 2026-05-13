@@ -5,10 +5,10 @@ description: "Sound design creates and manipulates audio for film, theater, game
 category: arts-amp-culture
 tags: ["sound design", "audio", "film sound", "Foley", "game audio", "acoustics"]
 heroImage: "/images/articles/sound-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sound design"
+heroAlt: "Sound design creates and manipulates audio for film, theater, games, and installations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 710
 tier: "3"

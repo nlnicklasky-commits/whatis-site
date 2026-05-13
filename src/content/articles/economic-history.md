@@ -5,10 +5,10 @@ description: "Economic history studies how economies developed over time, from a
 category: history
 tags: ["economic history", "economics", "industrial revolution", "capitalism"]
 heroImage: "/images/articles/economic-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of economic history"
+heroAlt: "Economic history studies how economies developed over time, from ancient trade to modern capitalism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1440
 tier: "3"

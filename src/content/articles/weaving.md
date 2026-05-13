@@ -5,10 +5,10 @@ description: "Weaving is the craft of interlacing threads on a loom to create fa
 category: everyday-concepts
 tags: ["weaving", "textiles", "fiber arts", "crafts", "loom", "fabric"]
 heroImage: "/images/articles/weaving-hero.webp"
-heroAlt: "Editorial photograph representing the concept of weaving"
+heroAlt: "Weaving is the craft of interlacing threads on a loom to create fabric"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 869
 tier: "3"

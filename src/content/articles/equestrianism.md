@@ -5,10 +5,10 @@ description: "Equestrianism covers all equestrian sports and horsemanship. Explo
 category: sports
 tags: ["equestrianism", "horses", "horsemanship", "riding", "horse riding", "sports"]
 heroImage: "/images/articles/equestrianism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of equestrianism"
+heroAlt: "Equestrianism covers all equestrian sports and horsemanship"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1095
 tier: "3"

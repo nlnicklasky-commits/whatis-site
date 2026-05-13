@@ -5,10 +5,10 @@ description: "Telepathy research is the scientific investigation of alleged mind
 category: science
 tags: ["telepathy research", "parapsychology", "esp", "extrasensory perception"]
 heroImage: "/images/articles/telepathy-research-hero.webp"
-heroAlt: "Editorial photograph representing the concept of telepathy research"
+heroAlt: "Telepathy research is the scientific investigation of alleged mind-to-mind communication, studied within parapsychology using controlled experiments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 2024
 tier: "2"

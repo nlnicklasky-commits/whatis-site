@@ -5,10 +5,10 @@ description: "Psychometrics is the science of measuring psychological traits lik
 category: science
 tags: ["psychometrics", "psychological measurement", "reliability", "validity", "psychology", "assessment", "iq tests"]
 heroImage: "/images/articles/psychometrics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of psychometrics"
+heroAlt: "Psychometrics is the science of measuring psychological traits like intelligence, personality, and aptitude through validated tests and statistical analysis"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2787
 tier: "2"

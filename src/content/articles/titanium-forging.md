@@ -5,10 +5,10 @@ description: "Titanium forging shapes titanium alloys under heat and pressure in
 category: everyday-concepts
 tags: ["titanium forging", "metalworking", "aerospace", "manufacturing", "materials science", "engineering"]
 heroImage: "/images/articles/titanium-forging-hero.webp"
-heroAlt: "Editorial photograph representing the concept of titanium forging"
+heroAlt: "Titanium forging shapes titanium alloys under heat and pressure into high-performance parts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 762
 tier: "3"

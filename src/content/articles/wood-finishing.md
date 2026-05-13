@@ -5,10 +5,10 @@ description: "Wood finishing applies coatings to protect and beautify wood surfa
 category: everyday-concepts
 tags: ["wood finishing", "woodworking", "staining", "varnish", "furniture", "DIY"]
 heroImage: "/images/articles/wood-finishing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wood finishing"
+heroAlt: "Wood finishing applies coatings to protect and beautify wood surfaces"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1054
 tier: "3"

@@ -5,10 +5,10 @@ description: "Insurance is a financial contract where you pay premiums to transf
 category: finance
 tags: ["insurance", "risk management", "finance", "premiums", "claims", "policy", "financial protection"]
 heroImage: "/images/articles/insurance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of insurance"
+heroAlt: "Insurance is a financial contract where you pay premiums to transfer risk to an insurer, who covers your losses if specific bad events happen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2820
 tier: "2"

@@ -5,10 +5,10 @@ description: "Protohistory is the transitional period between prehistory and rec
 category: history
 tags: ["protohistory", "prehistory", "archaeology", "early history"]
 heroImage: "/images/articles/protohistory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of protohistory"
+heroAlt: "Protohistory is the transitional period between prehistory and recorded history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1501
 tier: "3"

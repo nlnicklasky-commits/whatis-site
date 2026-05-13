@@ -5,10 +5,10 @@ description: "Korean is the language of the Korean peninsula, spoken by 80 milli
 category: everyday-concepts
 tags: ["Korean language", "Hangul", "linguistics", "Korean alphabet", "East Asian languages"]
 heroImage: "/images/articles/korean-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the korean language"
+heroAlt: "Korean is the language of the Korean peninsula, spoken by 80 million people, with a unique alphabet called Hangul"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1074
 tier: "3"

@@ -5,10 +5,10 @@ description: "Emotional intelligence is the ability to recognize, understand, an
 category: psychology
 tags: ["emotional intelligence", "eq", "emotions", "self-awareness", "empathy", "social skills", "psychology"]
 heroImage: "/images/articles/emotional-intelligence-hero.webp"
-heroAlt: "Editorial photograph representing the concept of emotional intelligence"
+heroAlt: "Emotional intelligence is the ability to recognize, understand, and manage emotions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2803
 tier: "2"

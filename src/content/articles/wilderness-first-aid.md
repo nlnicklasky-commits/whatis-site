@@ -5,10 +5,10 @@ description: "Wilderness first aid is emergency medical care given in remote set
 category: health-amp-wellness
 tags: ["outdoor activities", "wilderness first aid", "emergency care", "hiking"]
 heroImage: "/images/articles/wilderness-first-aid-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wilderness first aid"
+heroAlt: "Wilderness first aid is emergency medical care given in remote settings where professional help is hours or days away"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1621
 tier: "3"

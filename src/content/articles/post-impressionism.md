@@ -5,10 +5,10 @@ description: "Post-Impressionism was an art movement featuring Van Gogh, Cezanne
 category: arts-amp-culture
 tags: ["post-impressionism", "art movement", "vincent van gogh", "paul cézanne", "georges seurat", "paul gauguin"]
 heroImage: "/images/articles/post-impressionism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of post-impressionism"
+heroAlt: "Post-Impressionism was an art movement featuring Van Gogh, Cezanne, and Gauguin who pushed beyond Impressionism toward personal expression"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1096
 tier: "3"

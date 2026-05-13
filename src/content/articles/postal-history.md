@@ -5,10 +5,10 @@ description: "Postal history traces the development of mail systems from ancient
 category: history
 tags: ["postal history", "philately", "mail", "communication history"]
 heroImage: "/images/articles/postal-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of postal history"
+heroAlt: "Postal history traces the development of mail systems from ancient couriers to modern delivery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1601
 tier: "3"

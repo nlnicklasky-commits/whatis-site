@@ -5,10 +5,10 @@ description: "Whale watching is the observation of whales and dolphins in their 
 category: lifestyle
 tags: ["whale watching", "marine life", "ecotourism", "whales", "ocean wildlife", "nature"]
 heroImage: "/images/articles/whale-watching-hero.webp"
-heroAlt: "Editorial photograph representing the concept of whale watching"
+heroAlt: "Whale watching is the observation of whales and dolphins in their natural habitat"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 977
 tier: "3"

@@ -5,10 +5,10 @@ description: "Evolutionary biology studies how life changes over generations thr
 category: science
 tags: ["evolutionary biology", "evolution", "biology", "natural selection", "genetics", "adaptation", "speciation"]
 heroImage: "/images/articles/evolutionary-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of evolutionary biology"
+heroAlt: "Evolutionary biology studies how life changes over generations through natural selection, genetics, and adaptation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2507
 tier: "2"

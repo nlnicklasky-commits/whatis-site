@@ -5,10 +5,10 @@ description: "Dinosaurs were reptiles that dominated Earth for over 160 million 
 category: science
 tags: ["dinosaurs", "paleontology", "fossils", "prehistoric", "evolution", "extinction", "mesozoic"]
 heroImage: "/images/articles/dinosaurs-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dinosaurs"
+heroAlt: "Dinosaurs were reptiles that dominated Earth for over 160 million years"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2425
 tier: "2"

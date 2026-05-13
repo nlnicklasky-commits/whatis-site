@@ -5,10 +5,10 @@ description: "Hedge fund management involves running pooled investment funds tha
 category: everyday-concepts
 tags: ["hedge fund management", "investing", "finance", "alternative investments", "portfolio management"]
 heroImage: "/images/articles/hedge-fund-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hedge fund management"
+heroAlt: "Hedge fund management involves running pooled investment funds that use advanced strategies to generate returns"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1064
 tier: "3"

@@ -5,10 +5,10 @@ description: "Journalism is gathering, verifying, and reporting news and informa
 category: everyday-concepts
 tags: ["journalism", "media", "news", "press freedom", "reporting"]
 heroImage: "/images/articles/journalism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of journalism"
+heroAlt: "Journalism is gathering, verifying, and reporting news and information to the public"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 770
 tier: "3"

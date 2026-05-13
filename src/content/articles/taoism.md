@@ -5,10 +5,10 @@ description: "Taoism is an ancient Chinese philosophy and religion centered on t
 category: philosophy
 tags: ["taoism", "chinese philosophy", "tao", "wu wei", "yin and yang", "nature", "simplicity", "qi"]
 heroImage: "/images/articles/taoism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of taoism"
+heroAlt: "Taoism is an ancient Chinese philosophy and religion centered on the Tao, emphasizing harmony with nature, simplicity, and wu wei (effortless action)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2738
 tier: "2"

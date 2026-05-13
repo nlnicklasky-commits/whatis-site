@@ -5,10 +5,10 @@ description: "Unemployment economics studies why people who want jobs can't find
 category: finance
 tags: ["unemployment economics", "economics", "labor", "macroeconomics", "employment"]
 heroImage: "/images/articles/unemployment-economics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of unemployment economics"
+heroAlt: "Unemployment economics studies why people who want jobs can't find them"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2498
 tier: "2"

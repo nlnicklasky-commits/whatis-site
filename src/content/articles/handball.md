@@ -5,10 +5,10 @@ description: "Handball is a fast-paced team sport where players throw a ball int
 category: sports
 tags: ["handball", "team sport", "sports", "ball game", "olympic sport", "agility"]
 heroImage: "/images/articles/handball-hero.webp"
-heroAlt: "Editorial photograph representing the concept of handball"
+heroAlt: "Handball is a fast-paced team sport where players throw a ball into a goal"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 996
 tier: "3"

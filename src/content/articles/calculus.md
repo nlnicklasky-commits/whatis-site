@@ -5,10 +5,10 @@ description: "Calculus is the branch of mathematics studying continuous change t
 category: science
 tags: ["calculus", "mathematics", "differential calculus", "integral calculus", "limits", "derivatives", "integrals"]
 heroImage: "/images/articles/calculus-hero.webp"
-heroAlt: "Editorial photograph representing the concept of calculus"
+heroAlt: "Calculus is the branch of mathematics studying continuous change through derivatives and integrals, used in physics, engineering, economics, and beyond"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2851
 tier: "2"

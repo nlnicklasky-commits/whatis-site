@@ -5,10 +5,10 @@ description: "Folklore is the traditional beliefs, stories, customs, and practic
 category: everyday-concepts
 tags: ["folklore", "mythology", "traditions", "oral history", "cultural heritage", "legends"]
 heroImage: "/images/articles/folklore-hero.webp"
-heroAlt: "Editorial photograph representing the concept of folklore"
+heroAlt: "Folklore is the traditional beliefs, stories, customs, and practices shared within a community"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 990
 tier: "3"

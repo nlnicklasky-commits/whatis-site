@@ -5,10 +5,10 @@ description: "Beachcombing is the recreational activity of searching shorelines 
 category: everyday-concepts
 tags: ["beachcombing", "shells", "sea glass", "driftwood", "coastal exploration", "ocean"]
 heroImage: "/images/articles/beachcombing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of beachcombing"
+heroAlt: "Beachcombing is the recreational activity of searching shorelines for interesting natural and human-made objects washed ashore by tides and waves"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 898
 tier: "3"

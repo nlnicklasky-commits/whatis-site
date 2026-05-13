@@ -5,10 +5,10 @@ description: "Surveying is the science of measuring and mapping land, determinin
 category: technology
 tags: ["engineering", "surveying", "cartography", "civil engineering", "geospatial technology"]
 heroImage: "/images/articles/surveying-hero.webp"
-heroAlt: "Editorial photograph representing the concept of surveying"
+heroAlt: "Surveying is the science of measuring and mapping land, determining precise positions, elevations, and boundaries using instruments like GPS and total stations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2227
 tier: "2"

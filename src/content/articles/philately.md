@@ -5,10 +5,10 @@ description: "Philately is the study and collection of postage stamps and postal
 category: arts-amp-culture
 tags: ["stamps", "collecting", "postal history", "philatelist", "hobbies", "history"]
 heroImage: "/images/articles/philately-hero.webp"
-heroAlt: "Editorial photograph representing the concept of philately"
+heroAlt: "Philately is the study and collection of postage stamps and postal history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1060
 tier: "3"

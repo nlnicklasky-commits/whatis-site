@@ -5,10 +5,10 @@ description: "Quantum biology explores how quantum mechanics shapes life itself,
 category: science
 tags: ["quantum biology", "quantum mechanics", "biology", "photosynthesis", "enzyme catalysis", "bird navigation"]
 heroImage: "/images/articles/quantum-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantum biology"
+heroAlt: "Quantum biology explores how quantum mechanics shapes life itself, from photosynthesis and enzyme reactions to bird navigation and even our sense of smell"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2979
 tier: "2"

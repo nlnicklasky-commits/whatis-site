@@ -5,10 +5,10 @@ description: "Saltwater aquariums are tanks that recreate marine environments fo
 category: everyday-concepts
 tags: ["aquarium", "saltwater", "marine life", "fishkeeping", "reef tank", "coral"]
 heroImage: "/images/articles/saltwater-aquariums-hero.webp"
-heroAlt: "Editorial photograph representing the concept of saltwater aquariums"
+heroAlt: "Saltwater aquariums are tanks that recreate marine environments for keeping ocean fish, corals, and invertebrates"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1102
 tier: "3"

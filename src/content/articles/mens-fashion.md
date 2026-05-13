@@ -5,10 +5,10 @@ description: "Men's fashion is the design, production, and cultural expression o
 category: arts-amp-culture
 tags: ["mens fashion", "fashion", "clothing", "style", "menswear", "design"]
 heroImage: "/images/articles/mens-fashion-hero.webp"
-heroAlt: "Editorial photograph representing the concept of men's fashion"
+heroAlt: "Men's fashion is the design, production, and cultural expression of clothing for men"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 921
 tier: "3"

@@ -5,10 +5,10 @@ description: "Telecommunication is the transmission of information over distance
 category: technology
 tags: ["telecommunication", "communication", "networks", "data transmission"]
 heroImage: "/images/articles/telecommunication-hero.webp"
-heroAlt: "Editorial photograph representing the concept of telecommunication"
+heroAlt: "Telecommunication is the transmission of information over distances using electronic or electromagnetic signals, from phone calls to internet data"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1884
 tier: "3"

@@ -5,10 +5,10 @@ description: "Sound engineering is the technical craft of recording, mixing, and
 category: technology
 tags: ["sound engineering", "audio", "music production", "recording", "acoustics", "mixing"]
 heroImage: "/images/articles/sound-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sound engineering"
+heroAlt: "Sound engineering is the technical craft of recording, mixing, and reproducing audio"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2349
 tier: "2"

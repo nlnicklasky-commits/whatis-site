@@ -5,10 +5,10 @@ description: "Paper making transforms plant fibers into flat sheets used for wri
 category: everyday-concepts
 tags: ["paper making", "pulp", "manufacturing", "history", "wood pulp", "recycling"]
 heroImage: "/images/articles/paper-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paper making"
+heroAlt: "Paper making transforms plant fibers into flat sheets used for writing, printing, and packaging"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 989
 tier: "3"

@@ -5,10 +5,10 @@ description: "Network administration is the management of computer networks — 
 category: technology
 tags: ["network administration", "it", "networking", "cybersecurity", "system administration", "network security"]
 heroImage: "/images/articles/network-administration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of network administration"
+heroAlt: "Network administration is the management of computer networks — keeping systems connected, secure, and running"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2419
 tier: "2"

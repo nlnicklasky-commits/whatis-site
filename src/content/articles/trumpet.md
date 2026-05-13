@@ -5,10 +5,10 @@ description: "The trumpet is a brass instrument played by buzzing into a mouthpi
 category: arts-amp-culture
 tags: ["trumpet", "brass instruments", "music", "jazz", "orchestra", "wind instruments"]
 heroImage: "/images/articles/trumpet-hero.webp"
-heroAlt: "Editorial photograph representing the concept of trumpet"
+heroAlt: "The trumpet is a brass instrument played by buzzing into a mouthpiece"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1216
 tier: "3"

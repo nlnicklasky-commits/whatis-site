@@ -5,10 +5,10 @@ description: "Decorating is the practice of arranging and styling living spaces 
 category: everyday-concepts
 tags: ["decorating", "everyday-concepts"]
 heroImage: "/images/articles/decorating-hero.webp"
-heroAlt: "Editorial photograph representing the concept of decorating"
+heroAlt: "Decorating is the practice of arranging and styling living spaces for beauty and function"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 909
 tier: "3"

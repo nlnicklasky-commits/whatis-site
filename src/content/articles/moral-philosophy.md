@@ -5,10 +5,10 @@ description: "Moral philosophy (ethics) asks what is right and wrong, and why. L
 category: philosophy
 tags: ["moral philosophy", "ethics", "philosophy", "virtue ethics", "deontology", "consequentialism", "justice"]
 heroImage: "/images/articles/moral-philosophy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of moral philosophy"
+heroAlt: "Moral philosophy (ethics) asks what is right and wrong, and why"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2474
 tier: "2"

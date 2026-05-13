@@ -5,10 +5,10 @@ description: "Strength training builds muscle and bone density through resistanc
 category: health-amp-wellness
 tags: ["fitness", "strength training", "exercise", "muscle building"]
 heroImage: "/images/articles/strength-training-hero.webp"
-heroAlt: "Editorial photograph representing the concept of strength training"
+heroAlt: "Strength training builds muscle and bone density through resistance exercises"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1800
 tier: "3"

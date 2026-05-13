@@ -5,10 +5,10 @@ description: "Military history studies warfare, strategy, and armed forces acros
 category: history
 tags: ["history", "military history", "warfare"]
 heroImage: "/images/articles/military-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of military history"
+heroAlt: "Military history studies warfare, strategy, and armed forces across time"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1717
 tier: "3"

@@ -5,10 +5,10 @@ description: "Engraving is the art of incising designs into hard surfaces for pr
 category: arts-amp-culture
 tags: ["engraving", "printmaking", "art", "intaglio", "burin", "metalwork"]
 heroImage: "/images/articles/engraving-hero.webp"
-heroAlt: "Editorial photograph representing the concept of engraving"
+heroAlt: "Engraving is the art of incising designs into hard surfaces for printing or decoration"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 969
 tier: "3"

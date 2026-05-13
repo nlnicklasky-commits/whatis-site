@@ -5,10 +5,10 @@ description: "Liberalism is a political philosophy centered on individual rights
 category: philosophy
 tags: ["liberalism", "political philosophy", "individual rights", "democracy", "liberty", "constitutional government", "enlightenment"]
 heroImage: "/images/articles/liberalism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of liberalism"
+heroAlt: "Liberalism is a political philosophy centered on individual rights, liberty, and constitutional government"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2929
 tier: "2"

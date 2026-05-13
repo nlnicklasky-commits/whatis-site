@@ -5,10 +5,10 @@ description: "Middle Eastern history spans the birth of civilization to modern g
 category: history
 tags: ["history", "middle east", "islamic history"]
 heroImage: "/images/articles/middle-eastern-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of middle eastern history"
+heroAlt: "Middle Eastern history spans the birth of civilization to modern geopolitics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1714
 tier: "3"

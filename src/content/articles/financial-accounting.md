@@ -5,10 +5,10 @@ description: "Financial accounting tracks and reports a company's financial acti
 category: finance
 tags: ["accounting", "financial reporting", "gaap", "ifrs", "balance sheet", "income statement", "cash flow"]
 heroImage: "/images/articles/financial-accounting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of financial accounting"
+heroAlt: "Financial accounting tracks and reports a company's financial activity"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2512
 tier: "2"

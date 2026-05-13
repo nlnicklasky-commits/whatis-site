@@ -5,10 +5,10 @@ description: "Model railroading is the hobby of building and operating miniature
 category: everyday-concepts
 tags: ["model railroading", "trains", "hobby", "miniatures", "model trains", "layouts"]
 heroImage: "/images/articles/model-railroading-hero.webp"
-heroAlt: "Editorial photograph representing the concept of model railroading"
+heroAlt: "Model railroading is the hobby of building and operating miniature train layouts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 856
 tier: "3"

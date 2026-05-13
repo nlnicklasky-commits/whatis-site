@@ -5,10 +5,10 @@ description: "Relaxation techniques are methods like deep breathing, meditation,
 category: health-amp-wellness
 tags: ["mental health", "relaxation", "stress management", "wellness"]
 heroImage: "/images/articles/relaxation-techniques-hero.webp"
-heroAlt: "Editorial photograph representing the concept of relaxation techniques"
+heroAlt: "Relaxation techniques are methods like deep breathing, meditation, and progressive muscle relaxation that reduce stress and calm your nervous system"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1808
 tier: "3"

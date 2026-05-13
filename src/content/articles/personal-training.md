@@ -5,10 +5,10 @@ description: "Personal training is one-on-one fitness coaching tailored to your 
 category: health-amp-wellness
 tags: ["fitness", "personal training", "exercise", "health"]
 heroImage: "/images/articles/personal-training-hero.webp"
-heroAlt: "Editorial photograph representing the concept of personal training"
+heroAlt: "Personal training is one-on-one fitness coaching tailored to your goals"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1535
 tier: "3"

@@ -5,10 +5,10 @@ description: "Social commentary is art, writing, or speech that critiques aspect
 category: arts-amp-culture
 tags: ["social commentary", "satire", "critique", "art", "literature", "activism"]
 heroImage: "/images/articles/social-commentary-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social commentary"
+heroAlt: "Social commentary is art, writing, or speech that critiques aspects of society"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 793
 tier: "3"

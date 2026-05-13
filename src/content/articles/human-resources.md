@@ -5,10 +5,10 @@ description: "Human resources (HR) manages hiring, employee relations, benefits,
 category: everyday-concepts
 tags: ["human resources", "hr", "employment", "recruitment", "talent management", "workplace"]
 heroImage: "/images/articles/human-resources-hero.webp"
-heroAlt: "Editorial photograph representing the concept of human resources"
+heroAlt: "Human resources (HR) manages hiring, employee relations, benefits, and compliance in organizations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 976
 tier: "3"

@@ -5,10 +5,10 @@ description: "Theatrical history traces the evolution of live performance from a
 category: arts-amp-culture
 tags: ["theatrical history", "theatre", "drama", "performance", "stage", "acting"]
 heroImage: "/images/articles/theatrical-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of theatrical history"
+heroAlt: "Theatrical history traces the evolution of live performance from ancient Greece to modern Broadway"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 819
 tier: "3"

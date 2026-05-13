@@ -5,10 +5,10 @@ description: "Low-carb diets restrict carbohydrate intake to promote fat burning
 category: health-amp-wellness
 tags: ["nutrition", "low-carb diets", "health", "weight loss", "metabolism"]
 heroImage: "/images/articles/low-carb-diets-hero.webp"
-heroAlt: "Editorial photograph representing the concept of low-carb diets"
+heroAlt: "Low-carb diets restrict carbohydrate intake to promote fat burning, weight loss, and improved blood sugar control"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1713
 tier: "3"

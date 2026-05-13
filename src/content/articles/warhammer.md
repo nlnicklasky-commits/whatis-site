@@ -5,10 +5,10 @@ description: "Warhammer is a tabletop miniature wargame franchise by Games Works
 category: everyday-concepts
 tags: ["warhammer", "tabletop gaming", "miniatures", "Games Workshop", "strategy", "sci-fi fantasy"]
 heroImage: "/images/articles/warhammer-hero.webp"
-heroAlt: "Editorial photograph representing the concept of warhammer"
+heroAlt: "Warhammer is a tabletop miniature wargame franchise by Games Workshop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1017
 tier: "3"

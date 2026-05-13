@@ -5,10 +5,10 @@ description: "Japanese mythology includes Shinto creation stories, kami spirits,
 category: everyday-concepts
 tags: ["japanese mythology", "Shinto", "kami", "folklore", "Japanese culture"]
 heroImage: "/images/articles/japanese-mythology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of japanese mythology"
+heroAlt: "Japanese mythology includes Shinto creation stories, kami spirits, and Buddhist legends that shaped Japanese culture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 880
 tier: "3"

@@ -5,10 +5,10 @@ description: "Food styling is the art of arranging food to look appealing for ph
 category: arts-amp-culture
 tags: ["food", "photography", "culinary arts", "visual arts", "marketing", "styling"]
 heroImage: "/images/articles/food-styling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of food styling"
+heroAlt: "Food styling is the art of arranging food to look appealing for photography and video"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 967
 tier: "3"

@@ -5,10 +5,10 @@ description: "Algebra explained clearly: variables, equations, functions, and wh
 category: science
 tags: ["algebra", "mathematics", "math", "equations", "variables", "functions", "problem-solving"]
 heroImage: "/images/articles/algebra-hero.webp"
-heroAlt: "Editorial photograph representing the concept of algebra"
+heroAlt: "Algebra explained clearly: variables, equations, functions, and why this branch of math matters far beyond the classroom"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3569
 tier: "1"

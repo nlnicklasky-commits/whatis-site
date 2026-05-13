@@ -5,10 +5,10 @@ description: "Social history studies the everyday experiences of ordinary people
 category: history
 tags: ["social history", "history", "cultural history", "everyday life"]
 heroImage: "/images/articles/social-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social history"
+heroAlt: "Social history studies the everyday experiences of ordinary people throughout time"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1558
 tier: "3"

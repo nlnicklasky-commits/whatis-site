@@ -5,10 +5,10 @@ description: "Patent law grants inventors exclusive rights to their inventions f
 category: finance
 tags: ["patent law", "intellectual property", "invention", "patent", "uspto", "exclusive rights", "technology"]
 heroImage: "/images/articles/patent-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of patent law"
+heroAlt: "Patent law grants inventors exclusive rights to their inventions for a limited time"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2624
 tier: "2"

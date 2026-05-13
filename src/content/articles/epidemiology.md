@@ -5,10 +5,10 @@ description: "Epidemiology is the study of how diseases spread through populatio
 category: health-amp-wellness
 tags: ["epidemiology", "public health", "disease", "population health", "biostatistics"]
 heroImage: "/images/articles/epidemiology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of epidemiology"
+heroAlt: "Epidemiology is the study of how diseases spread through populations, who gets sick, and why"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1529
 tier: "3"

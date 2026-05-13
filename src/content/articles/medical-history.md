@@ -5,10 +5,10 @@ description: "Medical history traces the evolution of medicine from ancient herb
 category: history
 tags: ["medicine", "medical history", "healthcare"]
 heroImage: "/images/articles/medical-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of medical history"
+heroAlt: "Medical history traces the evolution of medicine from ancient herbal remedies and surgery to germ theory, antibiotics, and modern genomic treatments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1620
 tier: "3"

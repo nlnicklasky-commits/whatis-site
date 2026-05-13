@@ -5,10 +5,10 @@ description: "Ocean engineering designs structures and systems for the marine en
 category: technology
 tags: ["ocean engineering", "marine engineering", "offshore structures", "underwater robotics", "coastal engineering", "renewable energy"]
 heroImage: "/images/articles/ocean-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ocean engineering"
+heroAlt: "Ocean engineering designs structures and systems for the marine environment"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2381
 tier: "2"

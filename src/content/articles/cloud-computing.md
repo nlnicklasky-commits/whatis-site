@@ -5,10 +5,10 @@ description: "Cloud computing delivers computing resources over the internet on 
 category: technology
 tags: ["cloud computing", "cloud", "technology", "it", "data storage", "servers", "aws"]
 heroImage: "/images/articles/cloud-computing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cloud computing"
+heroAlt: "Cloud computing delivers computing resources over the internet on demand"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2649
 tier: "2"

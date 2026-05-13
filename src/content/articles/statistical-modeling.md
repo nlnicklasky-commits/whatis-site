@@ -5,10 +5,10 @@ description: "Statistical modeling uses math to represent real-world processes a
 category: everyday-concepts
 tags: ["statistical modeling", "statistics", "data science", "regression", "probability", "machine learning"]
 heroImage: "/images/articles/statistical-modeling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of statistical modeling"
+heroAlt: "Statistical modeling uses math to represent real-world processes and data patterns"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 740
 tier: "3"

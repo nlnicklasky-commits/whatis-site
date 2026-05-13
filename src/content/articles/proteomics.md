@@ -5,10 +5,10 @@ description: "Proteomics studies all the proteins in a cell or organism at once.
 category: science
 tags: ["proteomics", "proteins", "mass spectrometry", "biochemistry", "molecular biology", "systems biology", "biomarkers"]
 heroImage: "/images/articles/proteomics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of proteomics"
+heroAlt: "Proteomics studies all the proteins in a cell or organism at once"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2430
 tier: "2"

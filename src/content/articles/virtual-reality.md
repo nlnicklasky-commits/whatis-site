@@ -5,10 +5,10 @@ description: "Virtual reality immerses users in computer-generated 3D environmen
 category: technology
 tags: ["virtual reality", "technology", "immersive", "computer graphics", "gaming"]
 heroImage: "/images/articles/virtual-reality-hero.webp"
-heroAlt: "Editorial photograph representing the concept of virtual reality"
+heroAlt: "Virtual reality immerses users in computer-generated 3D environments using headsets and sensors"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2499
 tier: '1'

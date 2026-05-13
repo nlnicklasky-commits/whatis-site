@@ -5,10 +5,10 @@ description: "Web security protects websites and users from cyber threats like h
 category: everyday-concepts
 tags: ["web security", "cybersecurity", "hacking", "encryption", "data protection", "internet safety"]
 heroImage: "/images/articles/web-security-hero.webp"
-heroAlt: "Editorial photograph representing the concept of web security"
+heroAlt: "Web security protects websites and users from cyber threats like hacking, data breaches, and malware"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 930
 tier: "3"

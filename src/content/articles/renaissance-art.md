@@ -5,10 +5,10 @@ description: "Renaissance art was the cultural rebirth of classical ideals in 14
 category: arts-amp-culture
 tags: ["renaissance art", "art history", "Leonardo da Vinci", "Michelangelo", "painting", "sculpture"]
 heroImage: "/images/articles/renaissance-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of renaissance art"
+heroAlt: "Renaissance art was the cultural rebirth of classical ideals in 14th-17th century Europe, producing works by Da Vinci, Michelangelo, and Raphael"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1027
 tier: "3"

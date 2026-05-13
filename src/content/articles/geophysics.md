@@ -5,10 +5,10 @@ description: "Geophysics applies physics to study Earth's structure, from seismi
 category: science
 tags: ["geophysics", "physics", "earth science", "seismology", "gravity", "geomagnetism", "plate tectonics"]
 heroImage: "/images/articles/geophysics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of geophysics"
+heroAlt: "Geophysics applies physics to study Earth's structure, from seismic waves and magnetic fields to gravity and heat flow"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2892
 tier: "2"

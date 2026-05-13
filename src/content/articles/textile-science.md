@@ -5,10 +5,10 @@ description: "Textile science studies the properties, production, and performanc
 category: science
 tags: ["textile science", "fiber science", "textile engineering", "fabric"]
 heroImage: "/images/articles/textile-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of textile science"
+heroAlt: "Textile science studies the properties, production, and performance of fibers, yarns, and fabrics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2107
 tier: "2"

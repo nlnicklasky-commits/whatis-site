@@ -5,10 +5,10 @@ description: "Lipidology is the medical specialty focused on diagnosing and trea
 category: health-amp-wellness
 tags: ["medicine", "lipidology", "cholesterol", "cardiovascular health", "nutrition"]
 heroImage: "/images/articles/lipidology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lipidology"
+heroAlt: "Lipidology is the medical specialty focused on diagnosing and treating disorders of blood lipids like cholesterol and triglycerides"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1747
 tier: "3"

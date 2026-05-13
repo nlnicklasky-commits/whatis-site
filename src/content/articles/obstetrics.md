@@ -5,10 +5,10 @@ description: "Obstetrics is the medical specialty focused on pregnancy, childbir
 category: health-amp-wellness
 tags: ["obstetrics", "pregnancy", "childbirth", "maternal health"]
 heroImage: "/images/articles/obstetrics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of obstetrics"
+heroAlt: "Obstetrics is the medical specialty focused on pregnancy, childbirth, and postpartum care"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1424
 tier: "3"

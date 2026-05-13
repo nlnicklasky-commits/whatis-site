@@ -5,10 +5,10 @@ description: "Seaplane piloting is flying aircraft that take off from and land o
 category: technology
 tags: ["seaplane", "aviation", "piloting", "aircraft", "floatplane", "flying boat", "water landing"]
 heroImage: "/images/articles/seaplane-piloting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of seaplane piloting"
+heroAlt: "Seaplane piloting is flying aircraft that take off from and land on water"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3025
 tier: "1"

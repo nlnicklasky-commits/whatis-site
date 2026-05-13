@@ -5,10 +5,10 @@ description: "Springs are elastic devices that store and release mechanical ener
 category: science
 tags: ["springs", "mechanical engineering", "physics", "elasticity", "Hooke's law", "energy storage"]
 heroImage: "/images/articles/springs-hero.webp"
-heroAlt: "Editorial photograph representing the concept of springs"
+heroAlt: "Springs are elastic devices that store and release mechanical energy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3101
 tier: "1"

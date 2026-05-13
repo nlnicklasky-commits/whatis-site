@@ -5,10 +5,10 @@ description: "Aquaculture is the farming of fish, shellfish, and aquatic plants.
 category: science
 tags: ["aquaculture", "farming", "fish farming", "fisheries", "mariculture", "seafood", "agriculture"]
 heroImage: "/images/articles/aquaculture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of aquaculture"
+heroAlt: "Aquaculture is the farming of fish, shellfish, and aquatic plants"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2471
 tier: "2"

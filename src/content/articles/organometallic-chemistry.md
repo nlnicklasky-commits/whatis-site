@@ -5,10 +5,10 @@ description: "Organometallic chemistry studies compounds with metal-carbon bonds
 category: science
 tags: ["organometallic chemistry", "catalysis", "organic synthesis", "metal-carbon bond", "inorganic chemistry", "homogeneous catalysis"]
 heroImage: "/images/articles/organometallic-chemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of organometallic chemistry"
+heroAlt: "Organometallic chemistry studies compounds with metal-carbon bonds, powering catalysis breakthroughs in pharmaceuticals, polymers, and green energy"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2171
 tier: "2"

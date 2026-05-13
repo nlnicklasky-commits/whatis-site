@@ -5,10 +5,10 @@ description: "Semantics is the study of meaning in language — how words, phras
 category: language
 tags: ["semantics", "linguistics", "meaning", "language", "philosophy of language", "lexical semantics"]
 heroImage: "/images/articles/semantics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of semantics"
+heroAlt: "Semantics is the study of meaning in language — how words, phrases, and sentences convey information"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1105
 tier: "3"

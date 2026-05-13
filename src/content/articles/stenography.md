@@ -5,10 +5,10 @@ description: "Stenography is the practice of writing in shorthand to capture spe
 category: everyday-concepts
 tags: ["stenography", "shorthand", "court reporting", "transcription", "writing", "steno machine"]
 heroImage: "/images/articles/stenography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of stenography"
+heroAlt: "Stenography is the practice of writing in shorthand to capture speech at high speed"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 722
 tier: "3"

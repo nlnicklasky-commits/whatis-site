@@ -5,10 +5,10 @@ description: "Dance history traces the evolution of dance forms across cultures 
 category: arts-amp-culture
 tags: ["dance history", "arts-amp-culture"]
 heroImage: "/images/articles/dance-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dance history"
+heroAlt: "Dance history traces the evolution of dance forms across cultures and centuries"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 964
 tier: "3"

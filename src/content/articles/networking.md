@@ -5,10 +5,10 @@ description: "Networking connects computers and devices to share data. Learn abo
 category: technology
 tags: ["networking", "computer networks", "internet", "protocols", "lan", "wan", "data communication"]
 heroImage: "/images/articles/networking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of networking"
+heroAlt: "Networking connects computers and devices to share data"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2704
 tier: "2"

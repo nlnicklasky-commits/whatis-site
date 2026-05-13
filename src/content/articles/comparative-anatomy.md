@@ -5,10 +5,10 @@ description: "Comparative anatomy studies structural similarities and difference
 category: science
 tags: ["comparative anatomy", "biology", "evolution", "anatomy", "zoology", "paleontology", "species"]
 heroImage: "/images/articles/comparative-anatomy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of comparative anatomy"
+heroAlt: "Comparative anatomy studies structural similarities and differences across species to reveal evolutionary relationships and functional adaptations"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2319
 tier: "2"

@@ -5,10 +5,10 @@ description: "Digital signal processing (DSP) manipulates signals like audio, im
 category: technology
 tags: ["digital signal processing", "dsp", "signal processing", "electronics", "audio", "communications", "engineering"]
 heroImage: "/images/articles/digital-signal-processing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of digital signal processing"
+heroAlt: "Digital signal processing (DSP) manipulates signals like audio, images, and sensor data using math and algorithms"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2445
 tier: "2"

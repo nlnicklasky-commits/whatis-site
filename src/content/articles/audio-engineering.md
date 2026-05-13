@@ -5,10 +5,10 @@ description: "Audio engineering is the technical practice of recording, mixing, 
 category: technology
 tags: ["audio engineering", "sound engineering", "music production", "recording", "mixing", "mastering", "acoustics"]
 heroImage: "/images/articles/audio-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of audio engineering"
+heroAlt: "Audio engineering is the technical practice of recording, mixing, and reproducing sound"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2532
 tier: "2"

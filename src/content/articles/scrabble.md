@@ -5,10 +5,10 @@ description: "Scrabble is a word-building board game where players score points 
 category: everyday-concepts
 tags: ["scrabble", "word game", "board game", "vocabulary", "crossword", "strategy game"]
 heroImage: "/images/articles/scrabble-hero.webp"
-heroAlt: "Editorial photograph representing the concept of scrabble"
+heroAlt: "Scrabble is a word-building board game where players score points by creating words from lettered tiles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1092
 tier: "3"

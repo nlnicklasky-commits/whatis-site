@@ -5,10 +5,10 @@ description: "Soccer (football) is the world's most popular sport, played by two
 category: sports
 tags: ["soccer", "football", "FIFA", "World Cup", "goal", "team sport"]
 heroImage: "/images/articles/soccer-hero.webp"
-heroAlt: "Editorial photograph representing the concept of soccer"
+heroAlt: "Soccer (football) is the world's most popular sport, played by two teams of 11 kicking a ball into the opposing goal"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 794
 tier: "3"

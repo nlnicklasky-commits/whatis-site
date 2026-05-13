@@ -5,10 +5,10 @@ description: "Automata theory studies abstract machines and what they can comput
 category: technology
 tags: ["automata theory", "computer science", "theoretical computer science", "formal language", "turing machine", "computation", "algorithms"]
 heroImage: "/images/articles/automata-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of automata theory"
+heroAlt: "Automata theory studies abstract machines and what they can compute"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2811
 tier: "2"

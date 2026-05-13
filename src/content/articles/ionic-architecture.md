@@ -5,10 +5,10 @@ description: "The Ionic order is a style of classical Greek architecture known f
 category: arts-amp-culture
 tags: ["ionic architecture", "classical orders", "greek architecture", "roman architecture", "volutes", "columns"]
 heroImage: "/images/articles/ionic-architecture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ionic architecture"
+heroAlt: "The Ionic order is a style of classical Greek architecture known for its scroll-shaped volutes and elegant proportions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 776
 tier: "3"

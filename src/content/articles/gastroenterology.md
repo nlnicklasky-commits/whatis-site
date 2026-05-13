@@ -5,10 +5,10 @@ description: "Gastroenterology is the medical specialty focused on diagnosing an
 category: health-amp-wellness
 tags: ["gastroenterology", "digestive system", "gastrointestinal", "medicine", "health"]
 heroImage: "/images/articles/gastroenterology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gastroenterology"
+heroAlt: "Gastroenterology is the medical specialty focused on diagnosing and treating disorders of the digestive system, from the esophagus to the rectum"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1570
 tier: "3"

@@ -5,10 +5,10 @@ description: "Pre-Columbian history covers the Americas before 1492, from early 
 category: history
 tags: ["pre-columbian history", "indigenous americas", "mesoamerica", "maya", "inca"]
 heroImage: "/images/articles/pre-columbian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pre-columbian history"
+heroAlt: "Pre-Columbian history covers the Americas before 1492, from early migrations to the Maya, Aztec, and Inca empires"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1784
 tier: "3"

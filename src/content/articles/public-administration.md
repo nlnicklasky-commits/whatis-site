@@ -5,10 +5,10 @@ description: "Public administration is the implementation of government policy t
 category: politics
 tags: ["public administration", "government", "public policy", "bureaucracy", "public service", "management"]
 heroImage: "/images/articles/public-administration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of public administration"
+heroAlt: "Public administration is the implementation of government policy through organized management of public programs and services"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1011
 tier: "3"

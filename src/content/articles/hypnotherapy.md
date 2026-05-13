@@ -5,10 +5,10 @@ description: "Hypnotherapy uses guided hypnosis to address habits, anxiety, pain
 category: health-amp-wellness
 tags: ["hypnotherapy", "hypnosis", "therapy", "mental health", "anxiety"]
 heroImage: "/images/articles/hypnotherapy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hypnotherapy"
+heroAlt: "Hypnotherapy uses guided hypnosis to address habits, anxiety, pain, and more"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1597
 tier: "3"

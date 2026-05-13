@@ -5,10 +5,10 @@ description: "Education is the process of acquiring knowledge, skills, and value
 category: everyday-concepts
 tags: ["education", "learning", "pedagogy", "schooling", "knowledge", "skills"]
 heroImage: "/images/articles/education-hero.webp"
-heroAlt: "Editorial photograph representing the concept of education"
+heroAlt: "Education is the process of acquiring knowledge, skills, and values through teaching and learning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1098
 tier: "3"

@@ -5,10 +5,10 @@ description: "Nautical archaeology studies shipwrecks and underwater sites to un
 category: history
 tags: ["nautical archaeology", "underwater archaeology", "shipwrecks", "maritime history"]
 heroImage: "/images/articles/nautical-archaeology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of nautical archaeology"
+heroAlt: "Nautical archaeology studies shipwrecks and underwater sites to understand maritime history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1558
 tier: "3"

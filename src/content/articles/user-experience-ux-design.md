@@ -5,10 +5,10 @@ description: "UX design shapes how people interact with products and services. L
 category: technology
 tags: ["user experience", "ux design", "design", "usability", "human-computer interaction", "product design"]
 heroImage: "/images/articles/user-experience-ux-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of user experience (ux) design"
+heroAlt: "UX design shapes how people interact with products and services"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2270
 tier: "2"

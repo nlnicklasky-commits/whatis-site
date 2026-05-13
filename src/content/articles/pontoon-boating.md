@@ -5,10 +5,10 @@ description: "Pontoon boating uses flat-decked boats supported by aluminum tubes
 category: sports
 tags: ["boating", "pontoon boat", "recreational boating", "lake life", "water sports", "cruising"]
 heroImage: "/images/articles/pontoon-boating-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pontoon boating"
+heroAlt: "Pontoon boating uses flat-decked boats supported by aluminum tubes for relaxed cruising on lakes and rivers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1026
 tier: "3"

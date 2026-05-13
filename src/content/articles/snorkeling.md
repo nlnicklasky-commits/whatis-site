@@ -5,10 +5,10 @@ description: "Snorkeling lets you observe underwater life while floating on the 
 category: sports
 tags: ["snorkeling", "underwater", "marine life", "ocean", "swimming", "coral reef"]
 heroImage: "/images/articles/snorkeling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of snorkeling"
+heroAlt: "Snorkeling lets you observe underwater life while floating on the surface with a mask, snorkel, and fins"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 806
 tier: "3"

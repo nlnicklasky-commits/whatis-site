@@ -5,10 +5,10 @@ description: "Mushroom hunting is the practice of foraging wild fungi for food o
 category: hobbies-amp-crafts
 tags: ["mushroom hunting", "foraging", "mycology", "wild mushrooms", "outdoor activities", "fungi"]
 heroImage: "/images/articles/mushroom-hunting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mushroom hunting"
+heroAlt: "Mushroom hunting is the practice of foraging wild fungi for food or study"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 991
 tier: "3"

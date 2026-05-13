@@ -5,10 +5,10 @@ description: "Climatology is the scientific study of climate patterns, causes, a
 category: science
 tags: ["climatology", "climate change", "earth science", "meteorology", "global warming", "climate", "environmental science"]
 heroImage: "/images/articles/climatology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of climatology"
+heroAlt: "Climatology is the scientific study of climate patterns, causes, and changes over time"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2686
 tier: "2"

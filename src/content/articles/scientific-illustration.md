@@ -5,10 +5,10 @@ description: "Scientific illustration is the art of depicting scientific subject
 category: arts-amp-culture
 tags: ["scientific illustration", "biology", "anatomy", "botany", "art", "science communication"]
 heroImage: "/images/articles/scientific-illustration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of scientific illustration"
+heroAlt: "Scientific illustration is the art of depicting scientific subjects with accuracy and clarity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1054
 tier: "3"

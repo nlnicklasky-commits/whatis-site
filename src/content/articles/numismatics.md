@@ -5,10 +5,10 @@ description: "Numismatics is the study and collection of coins, paper currency, 
 category: arts-amp-culture
 tags: ["numismatics", "coins", "currency", "money", "coin collecting", "economic history"]
 heroImage: "/images/articles/numismatics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of numismatics"
+heroAlt: "Numismatics is the study and collection of coins, paper currency, and medals"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 946
 tier: "3"

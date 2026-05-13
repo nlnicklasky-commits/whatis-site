@@ -5,10 +5,10 @@ description: "Soil mechanics studies how soil behaves under stress and water flo
 category: science
 tags: ["soil mechanics", "geotechnical engineering", "civil engineering", "geology", "construction", "earth science"]
 heroImage: "/images/articles/soil-mechanics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of soil mechanics"
+heroAlt: "Soil mechanics studies how soil behaves under stress and water flow"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2366
 tier: "2"

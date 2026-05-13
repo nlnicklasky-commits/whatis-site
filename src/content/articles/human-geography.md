@@ -5,10 +5,10 @@ description: "Human geography studies how people shape and are shaped by the wor
 category: science
 tags: ["human geography", "geography", "population", "culture", "economy", "political geography", "urban studies"]
 heroImage: "/images/articles/human-geography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of human geography"
+heroAlt: "Human geography studies how people shape and are shaped by the world"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2181
 tier: "2"

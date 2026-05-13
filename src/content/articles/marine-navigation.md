@@ -5,10 +5,10 @@ description: "Marine navigation is the science of directing a vessel safely acro
 category: everyday-concepts
 tags: ["marine navigation", "sailing", "GPS", "nautical", "seamanship", "maritime"]
 heroImage: "/images/articles/marine-navigation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of marine navigation"
+heroAlt: "Marine navigation is the science of directing a vessel safely across water"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1032
 tier: "3"

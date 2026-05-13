@@ -5,10 +5,10 @@ description: "Wood carving is the art of shaping wood into objects using cutting
 category: arts-culture
 tags: ["wood carving", "woodworking", "sculpture", "crafts", "hand tools", "folk art"]
 heroImage: "/images/articles/wood-carving-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wood carving"
+heroAlt: "Wood carving is the art of shaping wood into objects using cutting tools"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1019
 tier: "3"

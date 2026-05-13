@@ -5,10 +5,10 @@ description: "Rapping is the rhythmic vocal delivery of lyrics over beats, formi
 category: arts-amp-culture
 tags: ["rapping", "hip-hop", "music", "lyrics", "rhythm", "spoken word"]
 heroImage: "/images/articles/rapping-hero.webp"
-heroAlt: "Editorial photograph representing the concept of rapping"
+heroAlt: "Rapping is the rhythmic vocal delivery of lyrics over beats, forming the core of hip-hop music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 955
 tier: "3"

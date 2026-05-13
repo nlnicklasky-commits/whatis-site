@@ -5,10 +5,10 @@ description: "Synchronized swimming (artistic swimming) combines swimming, dance
 category: sports
 tags: ["synchronized swimming", "artistic swimming", "water sports", "Olympics", "dance", "athletics"]
 heroImage: "/images/articles/synchronized-swimming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of synchronized swimming"
+heroAlt: "Synchronized swimming (artistic swimming) combines swimming, dance, and gymnastics performed in water"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 756
 tier: "3"

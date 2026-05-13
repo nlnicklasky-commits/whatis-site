@@ -5,10 +5,10 @@ description: "Nuclear physics studies the atomic nucleus and the forces holding 
 category: everyday-concepts
 tags: ["nuclear physics", "atomic energy", "radioactivity", "fission", "fusion", "particle physics"]
 heroImage: "/images/articles/nuclear-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of nuclear physics"
+heroAlt: "Nuclear physics studies the atomic nucleus and the forces holding it together"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1029
 tier: "3"

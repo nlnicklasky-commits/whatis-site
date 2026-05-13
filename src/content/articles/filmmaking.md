@@ -5,10 +5,10 @@ description: "Filmmaking is the art and process of creating motion pictures. Lea
 category: arts-amp-culture
 tags: ["film", "movie making", "cinema", "production", "storytelling", "directing"]
 heroImage: "/images/articles/filmmaking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of filmmaking"
+heroAlt: "Filmmaking is the art and process of creating motion pictures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1051
 tier: "3"

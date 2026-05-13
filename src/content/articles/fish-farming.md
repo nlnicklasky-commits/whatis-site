@@ -5,10 +5,10 @@ description: "Fish farming raises fish in controlled environments for food. Lear
 category: science
 tags: ["aquaculture", "fisheries", "food production", "sustainability", "seafood", "mariculture"]
 heroImage: "/images/articles/fish-farming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fish farming"
+heroAlt: "Fish farming raises fish in controlled environments for food"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2443
 tier: "2"

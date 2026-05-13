@@ -5,10 +5,10 @@ description: "Ethnobotany studies how people use plants for food, medicine, shel
 category: science
 tags: ["ethnobotany", "plants", "traditional knowledge", "anthropology", "botany", "medicinal plants", "indigenous cultures"]
 heroImage: "/images/articles/ethnobotany-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ethnobotany"
+heroAlt: "Ethnobotany studies how people use plants for food, medicine, shelter, and ritual"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2539
 tier: "2"

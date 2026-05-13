@@ -5,10 +5,10 @@ description: "Spectroscopy studies how matter interacts with light to identify c
 category: everyday-concepts
 tags: ["spectroscopy", "chemistry", "light", "electromagnetic spectrum", "analytical chemistry", "physics"]
 heroImage: "/images/articles/spectroscopy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of spectroscopy"
+heroAlt: "Spectroscopy studies how matter interacts with light to identify chemical compositions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1038
 tier: "3"

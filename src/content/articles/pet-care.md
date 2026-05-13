@@ -5,10 +5,10 @@ description: "Pet care is the responsible management of a pet's health, nutritio
 category: everyday-concepts
 tags: ["pets", "animal welfare", "veterinary", "grooming", "pet health", "responsible ownership"]
 heroImage: "/images/articles/pet-care-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pet care"
+heroAlt: "Pet care is the responsible management of a pet's health, nutrition, exercise, and well-being"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 958
 tier: "3"

@@ -5,10 +5,10 @@ description: "Natural language processing (NLP) teaches computers to understand 
 category: technology
 tags: ["natural language processing", "nlp", "artificial intelligence", "machine learning", "computational linguistics", "language technology"]
 heroImage: "/images/articles/natural-language-processing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of natural language processing"
+heroAlt: "Natural language processing (NLP) teaches computers to understand human language"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2691
 tier: "2"

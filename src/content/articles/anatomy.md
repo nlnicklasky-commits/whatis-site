@@ -5,10 +5,10 @@ description: "Anatomy is the study of body structure in living organisms. Learn 
 category: science
 tags: ["anatomy", "physiology", "biology", "human body", "medicine", "structure", "gross anatomy"]
 heroImage: "/images/articles/anatomy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of anatomy"
+heroAlt: "Anatomy is the study of body structure in living organisms"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3516
 tier: "1"

@@ -5,10 +5,10 @@ description: "Snowboarding is a winter sport where you ride a single board down 
 category: sports
 tags: ["snowboarding", "winter sports", "snow", "halfpipe", "freestyle", "mountain"]
 heroImage: "/images/articles/snowboarding-hero.webp"
-heroAlt: "Editorial photograph representing the concept of snowboarding"
+heroAlt: "Snowboarding is a winter sport where you ride a single board down snow-covered slopes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 809
 tier: "3"

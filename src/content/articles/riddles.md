@@ -5,10 +5,10 @@ description: "Riddles are puzzles posed as questions or statements requiring cre
 category: arts-amp-culture
 tags: ["riddles", "puzzles", "wordplay", "folklore", "language", "logic"]
 heroImage: "/images/articles/riddles-hero.webp"
-heroAlt: "Editorial photograph representing the concept of riddles"
+heroAlt: "Riddles are puzzles posed as questions or statements requiring creative thinking to solve"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 860
 tier: "3"

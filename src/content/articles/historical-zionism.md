@@ -5,10 +5,10 @@ description: "Historical Zionism was the political movement to establish a Jewis
 category: history
 tags: ["historical zionism", "zionism", "jewish history", "israel", "antisemitism"]
 heroImage: "/images/articles/historical-zionism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of historical zionism"
+heroAlt: "Historical Zionism was the political movement to establish a Jewish homeland in Palestine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1695
 tier: "3"

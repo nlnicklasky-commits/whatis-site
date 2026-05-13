@@ -5,10 +5,10 @@ description: "Industrial engineering optimizes complex systems of people, materi
 category: everyday-concepts
 tags: ["industrial engineering", "manufacturing", "optimization", "lean", "Six Sigma"]
 heroImage: "/images/articles/industrial-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of industrial engineering"
+heroAlt: "Industrial engineering optimizes complex systems of people, materials, and machines"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 2
 wordCount: 463
 tier: "3"

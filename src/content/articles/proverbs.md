@@ -5,10 +5,10 @@ description: "Proverbs are short, memorable sayings that express common truths o
 category: arts-amp-culture
 tags: ["proverbs", "sayings", "wisdom", "folklore", "culture", "oral tradition"]
 heroImage: "/images/articles/proverbs-hero.webp"
-heroAlt: "Editorial photograph representing the concept of proverbs"
+heroAlt: "Proverbs are short, memorable sayings that express common truths or practical wisdom passed down through generations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 864
 tier: "3"

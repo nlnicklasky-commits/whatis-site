@@ -5,10 +5,10 @@ description: "Speech writing is the craft of composing speeches for public deliv
 category: arts-amp-culture
 tags: ["speech writing", "rhetoric", "public speaking", "persuasion", "communication", "oratory"]
 heroImage: "/images/articles/speech-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of speech writing"
+heroAlt: "Speech writing is the craft of composing speeches for public delivery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1046
 tier: "3"

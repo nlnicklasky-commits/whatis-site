@@ -5,10 +5,10 @@ description: "Water skiing is a surface water sport where a person is pulled by 
 category: sports
 tags: ["water skiing", "water sports", "boating", "recreation", "extreme sports", "summer sports"]
 heroImage: "/images/articles/water-skiing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of water skiing"
+heroAlt: "Water skiing is a surface water sport where a person is pulled by a boat while standing on skis"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 954
 tier: "3"

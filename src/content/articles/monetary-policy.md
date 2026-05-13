@@ -5,10 +5,10 @@ description: "Monetary policy is how central banks manage money supply and inter
 category: finance
 tags: ["monetary policy", "central banking", "interest rates", "inflation", "federal reserve", "money supply", "economics"]
 heroImage: "/images/articles/monetary-policy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of monetary policy"
+heroAlt: "Monetary policy is how central banks manage money supply and interest rates to control inflation, stabilize the economy, and promote employment"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2616
 tier: "2"

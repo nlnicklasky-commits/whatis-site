@@ -5,10 +5,10 @@ description: "Urban design shapes the physical layout of cities, from streets an
 category: technology
 tags: ["urban design", "architecture", "city planning", "public space", "built environment"]
 heroImage: "/images/articles/urban-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of urban design"
+heroAlt: "Urban design shapes the physical layout of cities, from streets and plazas to building arrangements"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2089
 tier: "2"

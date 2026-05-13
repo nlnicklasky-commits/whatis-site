@@ -5,10 +5,10 @@ description: "Meditation is a practice of focused attention and awareness traini
 category: everyday-concepts
 tags: ["meditation", "mindfulness", "mental health", "wellness", "stress relief", "contemplation"]
 heroImage: "/images/articles/meditation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of meditation"
+heroAlt: "Meditation is a practice of focused attention and awareness training"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1064
 tier: "3"

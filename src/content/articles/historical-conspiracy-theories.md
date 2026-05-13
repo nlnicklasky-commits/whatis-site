@@ -5,10 +5,10 @@ description: "Historical conspiracy theories are alternative explanations for pa
 category: everyday-concepts
 tags: ["historical conspiracy theories", "history", "critical thinking", "misinformation", "skepticism"]
 heroImage: "/images/articles/historical-conspiracy-theories-hero.webp"
-heroAlt: "Editorial photograph representing the concept of historical conspiracy theories"
+heroAlt: "Historical conspiracy theories are alternative explanations for past events that allege hidden plots"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1032
 tier: "3"

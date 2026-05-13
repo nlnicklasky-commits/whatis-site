@@ -5,10 +5,10 @@ description: "Firefighting is the practice of extinguishing fires and rescuing p
 category: everyday-concepts
 tags: ["emergency services", "public safety", "fire", "rescue", "first responders", "hazardous materials"]
 heroImage: "/images/articles/firefighting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of firefighting"
+heroAlt: "Firefighting is the practice of extinguishing fires and rescuing people from dangerous situations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1042
 tier: "3"

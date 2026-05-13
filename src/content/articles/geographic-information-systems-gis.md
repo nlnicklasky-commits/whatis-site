@@ -5,10 +5,10 @@ description: "GIS captures, stores, analyzes, and visualizes geographic data, tu
 category: technology
 tags: ["gis", "geographic information systems", "spatial data", "mapping", "geography", "data analysis", "cartography"]
 heroImage: "/images/articles/geographic-information-systems-gis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of geographic information systems (gis)"
+heroAlt: "GIS captures, stores, analyzes, and visualizes geographic data, turning location-based information into maps, insights, and spatial decisions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2306
 tier: "2"

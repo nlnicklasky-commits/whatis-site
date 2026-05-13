@@ -5,10 +5,10 @@ description: "Russian history spans over 1,100 years from medieval Kievan Rus to
 category: history
 tags: ["russia", "soviet union", "tsarist russia", "eastern europe"]
 heroImage: "/images/articles/russian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of russian history"
+heroAlt: "Russian history spans over 1,100 years from medieval Kievan Rus to the modern Russian Federation, shaped by tsars, revolutions, and empire"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1973
 tier: "3"

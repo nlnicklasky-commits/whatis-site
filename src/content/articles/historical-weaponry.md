@@ -5,10 +5,10 @@ description: "Historical weaponry spans every tool of war from stone-tipped spea
 category: history
 tags: ["historical weaponry", "weapons", "military history", "ancient weapons", "firearms"]
 heroImage: "/images/articles/historical-weaponry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of historical weaponry"
+heroAlt: "Historical weaponry spans every tool of war from stone-tipped spears to early firearms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1735
 tier: "3"

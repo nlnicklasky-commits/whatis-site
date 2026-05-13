@@ -5,10 +5,10 @@ description: "Manufacturing engineering designs and optimizes production process
 category: technology
 tags: ["manufacturing engineering", "manufacturing", "production", "automation", "quality control", "industrial engineering", "processes"]
 heroImage: "/images/articles/manufacturing-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of manufacturing engineering"
+heroAlt: "Manufacturing engineering designs and optimizes production processes, from raw materials to finished goods, using automation and quality control"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3271
 tier: "1"

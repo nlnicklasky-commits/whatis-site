@@ -5,10 +5,10 @@ description: "Macrobiotics is a dietary and lifestyle philosophy rooted in Easte
 category: health-amp-wellness
 tags: ["nutrition", "macrobiotics", "wellness", "whole grains", "Eastern philosophy"]
 heroImage: "/images/articles/macrobiotics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of macrobiotics"
+heroAlt: "Macrobiotics is a dietary and lifestyle philosophy rooted in Eastern traditions that emphasizes whole grains, vegetables, and balance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1738
 tier: "3"

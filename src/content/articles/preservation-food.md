@@ -5,10 +5,10 @@ description: "Food preservation extends shelf life by stopping spoilage through 
 category: everyday-concepts
 tags: ["food preservation", "food storage", "canning", "freezing", "drying", "fermentation"]
 heroImage: "/images/articles/preservation-food-hero.webp"
-heroAlt: "Editorial photograph representing the concept of preservation (food)"
+heroAlt: "Food preservation extends shelf life by stopping spoilage through methods like canning, freezing, drying, and fermentation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1040
 tier: "3"

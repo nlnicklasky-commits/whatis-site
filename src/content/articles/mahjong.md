@@ -5,10 +5,10 @@ description: "Mahjong is a tile-based strategy game for four players that origin
 category: everyday-concepts
 tags: ["mahjong", "tile games", "Chinese games", "strategy games", "board games", "traditional games"]
 heroImage: "/images/articles/mahjong-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mahjong"
+heroAlt: "Mahjong is a tile-based strategy game for four players that originated in China"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 966
 tier: "3"

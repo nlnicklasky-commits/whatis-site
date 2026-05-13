@@ -5,10 +5,10 @@ description: "Enameling is the art of fusing glass to metal at high temperatures
 category: arts-amp-culture
 tags: ["enameling", "art", "craft", "glass", "metalwork", "jewelry"]
 heroImage: "/images/articles/enameling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of enameling"
+heroAlt: "Enameling is the art of fusing glass to metal at high temperatures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 973
 tier: "3"

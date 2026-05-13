@@ -5,10 +5,10 @@ description: "Marine engineering designs and maintains the systems that keep shi
 category: technology
 tags: ["marine engineering", "naval architecture", "ship systems", "propulsion", "maritime", "engineering", "ocean"]
 heroImage: "/images/articles/marine-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of marine engineering"
+heroAlt: "Marine engineering designs and maintains the systems that keep ships, submarines, and offshore structures operating at sea"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2755
 tier: "2"

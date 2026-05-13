@@ -5,10 +5,10 @@ description: "Health science studies how the human body works, how diseases deve
 category: science
 tags: ["health science", "health", "medicine", "public health", "biology", "disease", "wellness"]
 heroImage: "/images/articles/health-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of health science"
+heroAlt: "Health science studies how the human body works, how diseases develop, and how medical knowledge is applied to prevent illness and improve well-being"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2754
 tier: "2"

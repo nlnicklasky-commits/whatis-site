@@ -5,10 +5,10 @@ description: "Southeast Asian history spans thousands of years of empires, trade
 category: history
 tags: ["southeast asian history", "asia", "colonialism", "history"]
 heroImage: "/images/articles/southeast-asian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of southeast asian history"
+heroAlt: "Southeast Asian history spans thousands of years of empires, trade networks, colonialism, and independence"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1680
 tier: "3"

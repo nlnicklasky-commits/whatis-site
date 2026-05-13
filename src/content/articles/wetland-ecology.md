@@ -5,10 +5,10 @@ description: "Wetland ecology studies marshes, swamps, and bogs and the organism
 category: science-technology
 tags: ["wetland ecology", "wetlands", "ecology", "conservation", "biodiversity", "environment"]
 heroImage: "/images/articles/wetland-ecology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wetland ecology"
+heroAlt: "Wetland ecology studies marshes, swamps, and bogs and the organisms that depend on them"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 965
 tier: "3"

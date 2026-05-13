@@ -5,10 +5,10 @@ description: "Tile setting is the skilled trade of installing ceramic, porcelain
 category: everyday-concepts
 tags: ["tile setting", "tiling", "construction", "home improvement", "ceramic tile", "porcelain tile"]
 heroImage: "/images/articles/tile-setting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tile setting"
+heroAlt: "Tile setting is the skilled trade of installing ceramic, porcelain, and stone tiles on floors, walls, and surfaces"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 700
 tier: "3"

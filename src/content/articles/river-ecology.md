@@ -5,10 +5,10 @@ description: "River ecology studies how living organisms interact with each othe
 category: science
 tags: ["river ecology", "freshwater", "aquatic ecosystems", "hydrology", "biodiversity", "conservation", "water quality"]
 heroImage: "/images/articles/river-ecology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of river ecology"
+heroAlt: "River ecology studies how living organisms interact with each other and their flowing freshwater environment, from headwater streams to river deltas"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3497
 tier: "1"

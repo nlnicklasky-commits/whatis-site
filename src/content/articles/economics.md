@@ -5,10 +5,10 @@ description: "Economics is the social science that studies how people, firms, an
 category: finance
 tags: ["economics", "scarcity", "microeconomics", "macroeconomics", "supply and demand", "opportunity cost", "economic policy"]
 heroImage: "/images/articles/economics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of economics"
+heroAlt: "Economics is the social science that studies how people, firms, and governments allocate scarce resources to satisfy unlimited wants and needs"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2483
 tier: "2"

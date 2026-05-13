@@ -5,10 +5,10 @@ description: "Engineering applies science and math to design solutions for real-
 category: technology
 tags: ["engineering", "design", "technology", "problem solving", "science", "systems", "construction"]
 heroImage: "/images/articles/engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of engineering"
+heroAlt: "Engineering applies science and math to design solutions for real-world problems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2497
 tier: "2"

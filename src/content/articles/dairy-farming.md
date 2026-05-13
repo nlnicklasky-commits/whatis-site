@@ -5,10 +5,10 @@ description: "Dairy farming is the agricultural practice of raising cows for mil
 category: agriculture
 tags: ["dairy farming", "agriculture"]
 heroImage: "/images/articles/dairy-farming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dairy farming"
+heroAlt: "Dairy farming is the agricultural practice of raising cows for milk production"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 920
 tier: "3"

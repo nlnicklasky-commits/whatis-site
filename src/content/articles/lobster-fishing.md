@@ -5,10 +5,10 @@ description: "Lobster fishing is the commercial and recreational harvesting of l
 category: everyday-concepts
 tags: ["lobster fishing", "fishing", "seafood", "marine industry", "lobster traps", "commercial fishing"]
 heroImage: "/images/articles/lobster-fishing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lobster fishing"
+heroAlt: "Lobster fishing is the commercial and recreational harvesting of lobsters using traps and other methods"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1004
 tier: "3"

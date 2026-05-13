@@ -5,10 +5,10 @@ description: "Systems theory is the study of how complex wholes emerge from inte
 category: science
 tags: ["philosophy", "systems theory", "complexity", "cybernetics", "interdisciplinary science", "systems thinking"]
 heroImage: "/images/articles/systems-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of systems theory"
+heroAlt: "Systems theory is the study of how complex wholes emerge from interacting parts, applicable across biology, engineering, sociology, and management"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2363
 tier: "2"

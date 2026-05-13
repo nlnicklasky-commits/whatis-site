@@ -5,10 +5,10 @@ description: "Espionage history tracks the evolution of spying from ancient civi
 category: history
 tags: ["espionage history", "spy", "intelligence", "covert operations", "cold war"]
 heroImage: "/images/articles/espionage-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of espionage history"
+heroAlt: "Espionage history tracks the evolution of spying from ancient civilizations through the Cold War to modern cyber intelligence operations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1626
 tier: "3"

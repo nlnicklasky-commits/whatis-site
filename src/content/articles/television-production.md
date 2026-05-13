@@ -5,10 +5,10 @@ description: "Television production is the process of creating TV content from c
 category: arts-amp-culture
 tags: ["television production", "tv production", "filmmaking", "media production", "broadcasting", "pre-production"]
 heroImage: "/images/articles/television-production-hero.webp"
-heroAlt: "Editorial photograph representing the concept of television production"
+heroAlt: "Television production is the process of creating TV content from concept to broadcast"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 778
 tier: "3"

@@ -5,10 +5,10 @@ description: "Surgery is a medical procedure involving manual or instrumental te
 category: health-amp-wellness
 tags: ["medicine", "surgery", "healthcare", "surgical procedures"]
 heroImage: "/images/articles/surgery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of surgery"
+heroAlt: "Surgery is a medical procedure involving manual or instrumental techniques to treat injuries, diseases, or deformities"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1609
 tier: "3"

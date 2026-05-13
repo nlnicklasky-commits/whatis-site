@@ -5,10 +5,10 @@ description: "Perfume making blends aromatic compounds to create fragrances. Lea
 category: everyday-concepts
 tags: ["perfume making", "fragrance", "essential oils", "perfumery", "scent", "aromatics"]
 heroImage: "/images/articles/perfume-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of perfume making"
+heroAlt: "Perfume making blends aromatic compounds to create fragrances"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 942
 tier: "3"

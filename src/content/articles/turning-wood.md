@@ -5,10 +5,10 @@ description: "Wood turning is the craft of shaping wood on a lathe. Learn about 
 category: arts-amp-culture
 tags: ["turning wood", "woodworking", "lathe", "crafts", "woodturning", "handmade"]
 heroImage: "/images/articles/turning-wood-hero.webp"
-heroAlt: "Editorial photograph representing the concept of turning (wood)"
+heroAlt: "Wood turning is the craft of shaping wood on a lathe"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 995
 tier: "3"

@@ -5,10 +5,10 @@ description: "Paganism encompasses nature-based spiritual traditions including W
 category: philosophy
 tags: ["paganism", "neopaganism", "wicca", "druidry", "heathenry", "nature worship", "polytheism"]
 heroImage: "/images/articles/paganism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paganism"
+heroAlt: "Paganism encompasses nature-based spiritual traditions including Wicca, Druidry, and Heathenry, with roots in pre-Christian and modern revival movements"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2550
 tier: "2"

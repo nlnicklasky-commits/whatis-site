@@ -5,10 +5,10 @@ description: "Dutch history traces the Netherlands from Roman-era marshlands to 
 category: history
 tags: ["dutch history", "netherlands", "holland", "european history", "maritime"]
 heroImage: "/images/articles/dutch-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dutch history"
+heroAlt: "Dutch history traces the Netherlands from Roman-era marshlands to global trading empire to modern constitutional monarchy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1614
 tier: "3"

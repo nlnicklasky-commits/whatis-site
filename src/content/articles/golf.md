@@ -5,10 +5,10 @@ description: "Golf is a precision sport where players hit a ball into holes acro
 category: everyday-concepts
 tags: ["golf", "sports", "recreation", "outdoor sports", "PGA", "country club"]
 heroImage: "/images/articles/golf-hero.webp"
-heroAlt: "Editorial photograph representing the concept of golf"
+heroAlt: "Golf is a precision sport where players hit a ball into holes across a course in as few strokes as possible"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1166
 tier: "3"

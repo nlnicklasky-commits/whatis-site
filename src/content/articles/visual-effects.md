@@ -5,10 +5,10 @@ description: "Visual effects (VFX) are digitally created or enhanced imagery in 
 category: everyday-concepts
 tags: ["visual effects", "VFX", "CGI", "filmmaking", "digital art", "post-production"]
 heroImage: "/images/articles/visual-effects-hero.webp"
-heroAlt: "Editorial photograph representing the concept of visual effects"
+heroAlt: "Visual effects (VFX) are digitally created or enhanced imagery in film and media"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1013
 tier: "3"

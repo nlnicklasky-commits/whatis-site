@@ -5,10 +5,10 @@ description: "Jurisprudence is the philosophy of law, examining what law is, why
 category: philosophy
 tags: ["jurisprudence", "philosophy of law", "legal theory", "justice", "natural law", "legal positivism", "rights"]
 heroImage: "/images/articles/jurisprudence-hero.webp"
-heroAlt: "Editorial photograph representing the concept of jurisprudence"
+heroAlt: "Jurisprudence is the philosophy of law, examining what law is, why it exists, and how it should work"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2902
 tier: "2"

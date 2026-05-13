@@ -5,10 +5,10 @@ description: "Neuromarketing uses brain science to understand consumer behavior,
 category: technology
 tags: ["neuromarketing", "consumer behavior", "neuroscience", "marketing", "psychology", "brain imaging", "market research"]
 heroImage: "/images/articles/neuromarketing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of neuromarketing"
+heroAlt: "Neuromarketing uses brain science to understand consumer behavior, measuring neural responses to ads, products, and brands to improve marketing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2475
 tier: "2"

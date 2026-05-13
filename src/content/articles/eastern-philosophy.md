@@ -5,10 +5,10 @@ description: "Eastern philosophy encompasses the philosophical traditions of Asi
 category: everyday-concepts
 tags: ["eastern philosophy", "everyday-concepts"]
 heroImage: "/images/articles/eastern-philosophy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of eastern philosophy"
+heroAlt: "Eastern philosophy encompasses the philosophical traditions of Asia, including Buddhism, Hinduism, Taoism, and Confucianism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1006
 tier: "3"

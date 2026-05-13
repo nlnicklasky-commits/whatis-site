@@ -5,10 +5,10 @@ description: "Philosophy is the study of fundamental questions about existence, 
 category: everyday-concepts
 tags: ["philosophy", "ethics", "metaphysics", "epistemology", "logic", "reason"]
 heroImage: "/images/articles/philosophy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of philosophy"
+heroAlt: "Philosophy is the study of fundamental questions about existence, knowledge, ethics, and reason"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1022
 tier: "3"

@@ -5,10 +5,10 @@ description: "Medical imaging uses technologies like X-rays, MRI, and CT scans t
 category: health-amp-wellness
 tags: ["medicine", "medical imaging", "radiology"]
 heroImage: "/images/articles/medical-imaging-hero.webp"
-heroAlt: "Editorial photograph representing the concept of medical imaging"
+heroAlt: "Medical imaging uses technologies like X-rays, MRI, and CT scans to see inside the body without surgery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1780
 tier: "3"

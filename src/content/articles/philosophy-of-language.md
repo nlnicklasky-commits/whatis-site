@@ -5,10 +5,10 @@ description: "Philosophy of language studies how words mean things, how language
 category: everyday-concepts
 tags: ["philosophy of language", "semantics", "meaning", "linguistics", "logic", "communication"]
 heroImage: "/images/articles/philosophy-of-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of philosophy of language"
+heroAlt: "Philosophy of language studies how words mean things, how language relates to reality, and what communication actually involves"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1115
 tier: "3"

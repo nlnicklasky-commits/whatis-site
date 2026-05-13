@@ -5,10 +5,10 @@ description: "Drumming is the art of creating rhythm by striking drums and percu
 category: arts-amp-culture
 tags: ["drumming", "arts-amp-culture"]
 heroImage: "/images/articles/drumming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of drumming"
+heroAlt: "Drumming is the art of creating rhythm by striking drums and percussion instruments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1072
 tier: "3"

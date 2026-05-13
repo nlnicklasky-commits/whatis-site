@@ -5,10 +5,10 @@ description: "Planktonology is the study of plankton, the tiny organisms that pr
 category: science
 tags: ["marine biology", "ecology", "oceanography", "plankton", "phytoplankton", "zooplankton"]
 heroImage: "/images/articles/planktonology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of planktonology"
+heroAlt: "Planktonology is the study of plankton, the tiny organisms that produce half our oxygen and underpin ocean food webs"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2160
 tier: "2"

@@ -5,10 +5,10 @@ description: "Logic is the study of valid reasoning and argumentation. Learn abo
 category: everyday-concepts
 tags: ["logic", "reasoning", "philosophy", "argumentation", "critical thinking", "formal logic"]
 heroImage: "/images/articles/logic-hero.webp"
-heroAlt: "Editorial photograph representing the concept of logic"
+heroAlt: "Logic is the study of valid reasoning and argumentation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1074
 tier: "3"

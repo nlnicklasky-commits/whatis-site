@@ -5,7 +5,7 @@ description: "Cybersecurity protects systems, networks, and data from digital at
 category: technology
 tags: ["cybersecurity", "information security", "hacking", "data protection", "network security", "encryption", "cyber threats"]
 heroImage: "/images/articles/cybersecurity-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cybersecurity"
+heroAlt: "Cybersecurity protects systems, networks, and data from digital attacks"
 author: "WhatIs Editorial"
 datePublished: "2026-03-15"
 dateModified: "2026-05-12"

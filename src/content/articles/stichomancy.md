@@ -5,10 +5,10 @@ description: "Stichomancy is the practice of seeking guidance by opening a book 
 category: philosophy
 tags: ["divination", "stichomancy", "bibliomancy", "fortune telling", "history", "literature"]
 heroImage: "/images/articles/stichomancy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of stichomancy"
+heroAlt: "Stichomancy is the practice of seeking guidance by opening a book to a random page and reading the passage found there"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2218
 tier: "2"

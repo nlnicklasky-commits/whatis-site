@@ -5,10 +5,10 @@ description: "Film theory examines how movies create meaning through image, soun
 category: everyday-concepts
 tags: ["film theory", "cinema studies", "semiotics", "auteur theory", "media studies", "aesthetics"]
 heroImage: "/images/articles/film-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of film theory"
+heroAlt: "Film theory examines how movies create meaning through image, sound, and editing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 899
 tier: "3"

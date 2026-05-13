@@ -5,10 +5,10 @@ description: "Histology is the study of biological tissues under the microscope,
 category: science
 tags: ["histology", "biology", "medicine", "tissues", "cells", "microscopy", "pathology"]
 heroImage: "/images/articles/histology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of histology"
+heroAlt: "Histology is the study of biological tissues under the microscope, examining cell organization and structure to understand organ function and disease"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2588
 tier: "2"

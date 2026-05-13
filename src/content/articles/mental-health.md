@@ -5,10 +5,10 @@ description: "Mental health is your emotional, psychological, and social well-be
 category: health-amp-wellness
 tags: ["health", "mental health", "psychology", "wellness"]
 heroImage: "/images/articles/mental-health-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mental health"
+heroAlt: "Mental health is your emotional, psychological, and social well-being"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1807
 tier: "3"

@@ -5,10 +5,10 @@ description: "Self-publishing lets authors produce and sell books without tradit
 category: arts-amp-culture
 tags: ["self-publishing", "author", "book publishing", "independent publishing", "ebooks", "print-on-demand"]
 heroImage: "/images/articles/self-publishing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of self-publishing"
+heroAlt: "Self-publishing lets authors produce and sell books without traditional publishers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1062
 tier: "3"

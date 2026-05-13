@@ -5,10 +5,10 @@ description: "Electron microscopy uses focused electron beams to image structure
 category: technology
 tags: ["electron microscopy", "microscopy", "science", "nanotechnology", "materials science", "biology", "tem"]
 heroImage: "/images/articles/electron-microscopy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of electron microscopy"
+heroAlt: "Electron microscopy uses focused electron beams to image structures far smaller than light can reveal"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2731
 tier: "2"

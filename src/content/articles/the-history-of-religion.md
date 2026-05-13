@@ -5,10 +5,10 @@ description: "The history of religion covers how belief systems developed worldw
 category: history
 tags: ["history of religion", "religion", "belief systems", "world religions"]
 heroImage: "/images/articles/the-history-of-religion-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of religion"
+heroAlt: "The history of religion covers how belief systems developed worldwide, from prehistoric rituals to today's major faiths and traditions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1642
 tier: "3"

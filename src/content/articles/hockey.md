@@ -5,10 +5,10 @@ description: "Hockey is a fast-paced team sport played on ice or field where pla
 category: sports
 tags: ["hockey", "ice hockey", "field hockey", "sports", "team sport", "puck"]
 heroImage: "/images/articles/hockey-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hockey"
+heroAlt: "Hockey is a fast-paced team sport played on ice or field where players use sticks to score goals"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1005
 tier: "3"

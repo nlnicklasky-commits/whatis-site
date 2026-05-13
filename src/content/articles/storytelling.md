@@ -5,10 +5,10 @@ description: "Storytelling is the ancient art of sharing narratives to entertain
 category: arts-amp-culture
 tags: ["storytelling", "narrative", "oral tradition", "literature", "communication", "culture"]
 heroImage: "/images/articles/storytelling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of storytelling"
+heroAlt: "Storytelling is the ancient art of sharing narratives to entertain, teach, and connect"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 743
 tier: "3"

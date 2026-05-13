@@ -5,10 +5,10 @@ description: "Lens grinding is the process of shaping glass or crystal into prec
 category: technology
 tags: ["lens grinding", "optics", "lenses", "telescope", "microscope", "precision manufacturing", "optical engineering"]
 heroImage: "/images/articles/lens-grinding-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lens grinding"
+heroAlt: "Lens grinding is the process of shaping glass or crystal into precision optical lenses"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2795
 tier: "2"

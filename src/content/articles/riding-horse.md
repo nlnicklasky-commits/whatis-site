@@ -5,10 +5,10 @@ description: "Horse riding is the skill of sitting on and controlling a horse. L
 category: sports
 tags: ["riding horse", "equestrian", "horseback riding", "dressage", "jumping", "horses"]
 heroImage: "/images/articles/riding-horse-hero.webp"
-heroAlt: "Editorial photograph representing the concept of riding (horse)"
+heroAlt: "Horse riding is the skill of sitting on and controlling a horse"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 904
 tier: "3"

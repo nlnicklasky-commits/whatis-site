@@ -5,10 +5,10 @@ description: "Functional programming builds software using pure functions, immut
 category: technology
 tags: ["programming", "software development", "computer science", "pure functions", "immutability", "declarative programming"]
 heroImage: "/images/articles/functional-programming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of functional programming"
+heroAlt: "Functional programming builds software using pure functions, immutability, and composition"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2844
 tier: "2"

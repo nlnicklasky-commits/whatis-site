@@ -5,10 +5,10 @@ description: "Zoology is the branch of biology that studies animals, their behav
 category: science
 tags: ["biology", "animals", "ecology", "wildlife", "evolution"]
 heroImage: "/images/articles/zoology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of zoology"
+heroAlt: "Zoology is the branch of biology that studies animals, their behavior, physiology, genetics, evolution, and interactions with ecosystems"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2469
 tier: '1'

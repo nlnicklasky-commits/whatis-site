@@ -5,10 +5,10 @@ description: "Business strategy is a plan that defines how an organization compe
 category: finance
 tags: ["business strategy", "strategic management", "competitive advantage", "market positioning", "business goals", "organizational planning", "swot analysis"]
 heroImage: "/images/articles/business-strategy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of business strategy"
+heroAlt: "Business strategy is a plan that defines how an organization competes, creates value, and achieves long-term goals in its market"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2675
 tier: "2"

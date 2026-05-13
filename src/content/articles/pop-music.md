@@ -5,10 +5,10 @@ description: "Pop music is a genre built on catchy melodies, simple structures, 
 category: arts-amp-culture
 tags: ["pop music", "popular music", "music genre", "catchy songs", "commercial music", "radio hits"]
 heroImage: "/images/articles/pop-music-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pop music"
+heroAlt: "Pop music is a genre built on catchy melodies, simple structures, and mass appeal"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 988
 tier: "3"

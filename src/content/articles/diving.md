@@ -5,10 +5,10 @@ description: "Diving includes scuba, free diving, and competitive platform divin
 category: sports
 tags: ["diving", "sports"]
 heroImage: "/images/articles/diving-hero.webp"
-heroAlt: "Editorial photograph representing the concept of diving"
+heroAlt: "Diving includes scuba, free diving, and competitive platform diving"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 916
 tier: "3"

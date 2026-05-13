@@ -5,10 +5,10 @@ description: "Comparative literature studies texts across languages, cultures, a
 category: arts-amp-culture
 tags: ["comparative literature", "literature", "world literature", "cultural studies", "literary criticism", "translation"]
 heroImage: "/images/articles/comparative-literature-hero.webp"
-heroAlt: "Editorial photograph representing the concept of comparative literature"
+heroAlt: "Comparative literature studies texts across languages, cultures, and media"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 976
 tier: "3"

@@ -5,10 +5,10 @@ description: "Music performance is the act of presenting music to an audience th
 category: arts-amp-culture
 tags: ["music performance", "performing", "live music", "concerts", "musicianship", "stage performance"]
 heroImage: "/images/articles/music-performance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of music performance"
+heroAlt: "Music performance is the act of presenting music to an audience through singing or playing instruments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1052
 tier: "3"

@@ -5,10 +5,10 @@ description: "Quantum optics studies light at the single-photon level, where qua
 category: science
 tags: ["quantum optics", "photons", "quantum mechanics", "lasers", "quantum information", "optics", "physics"]
 heroImage: "/images/articles/quantum-optics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantum optics"
+heroAlt: "Quantum optics studies light at the single-photon level, where quantum weirdness rules"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2534
 tier: "2"

@@ -5,10 +5,10 @@ description: "Phrenology was a pseudoscience claiming personality could be read 
 category: everyday-concepts
 tags: ["phrenology", "pseudoscience", "psychology", "history of science", "neuroscience", "brain"]
 heroImage: "/images/articles/phrenology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of phrenology"
+heroAlt: "Phrenology was a pseudoscience claiming personality could be read from skull shape"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 962
 tier: "3"

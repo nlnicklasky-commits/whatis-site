@@ -5,10 +5,10 @@ description: "Ideologies are organized systems of beliefs that shape political, 
 category: philosophy
 tags: ["ideologies", "political philosophy", "belief systems", "political science", "social theory", "worldview"]
 heroImage: "/images/articles/ideologies-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ideologies"
+heroAlt: "Ideologies are organized systems of beliefs that shape political, economic, and social views"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2584
 tier: "2"

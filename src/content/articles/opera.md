@@ -5,10 +5,10 @@ description: "Opera is a dramatic art form combining singing, orchestral music, 
 category: arts-amp-culture
 tags: ["opera", "classical music", "performing arts", "music drama", "aria", "libretto"]
 heroImage: "/images/articles/opera-hero.webp"
-heroAlt: "Editorial photograph representing the concept of opera"
+heroAlt: "Opera is a dramatic art form combining singing, orchestral music, acting, and stagecraft to tell stories"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 996
 tier: "3"

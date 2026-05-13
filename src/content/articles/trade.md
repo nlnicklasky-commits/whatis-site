@@ -5,10 +5,10 @@ description: "Trade is the voluntary exchange of goods, services, or money betwe
 category: finance
 tags: ["trade", "economics", "commerce", "international trade"]
 heroImage: "/images/articles/trade-hero.webp"
-heroAlt: "Editorial photograph representing the concept of trade"
+heroAlt: "Trade is the voluntary exchange of goods, services, or money between parties"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2192
 tier: "2"

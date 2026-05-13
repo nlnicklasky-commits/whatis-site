@@ -5,10 +5,10 @@ description: "Russian is a Slavic language spoken by 258 million people, known f
 category: language
 tags: ["russian", "slavic languages", "cyrillic", "language learning", "linguistics", "eastern europe"]
 heroImage: "/images/articles/russian-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of russian language"
+heroAlt: "Russian is a Slavic language spoken by 258 million people, known for its Cyrillic alphabet, complex grammar, and rich literary tradition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1140
 tier: "3"

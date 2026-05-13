@@ -5,10 +5,10 @@ description: "Computing history traces the evolution of calculating machines fro
 category: history
 tags: ["computers", "technology history", "digital age", "invention", "information technology"]
 heroImage: "/images/articles/computing-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of computing history"
+heroAlt: "Computing history traces the evolution of calculating machines from ancient abacuses to modern supercomputers, covering the key inventions and people who"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1490
 tier: "3"

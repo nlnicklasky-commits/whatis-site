@@ -5,10 +5,10 @@ description: "Sign language is a visual language using hand shapes, facial expre
 category: language
 tags: ["sign language", "asl", "bsl", "deaf culture", "communication", "linguistics"]
 heroImage: "/images/articles/sign-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sign language"
+heroAlt: "Sign language is a visual language using hand shapes, facial expressions, and body movement to communicate"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1129
 tier: "3"

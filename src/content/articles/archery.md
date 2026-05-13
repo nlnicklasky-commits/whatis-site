@@ -5,10 +5,10 @@ description: "Archery is the skill of shooting arrows with a bow. Learn about it
 category: sports
 tags: ["archery", "bow and arrow", "marksmanship", "target sports", "olympics", "hunting"]
 heroImage: "/images/articles/archery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of archery"
+heroAlt: "Archery is the skill of shooting arrows with a bow"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 970
 tier: "3"

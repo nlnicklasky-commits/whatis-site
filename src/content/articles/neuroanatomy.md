@@ -5,10 +5,10 @@ description: "Neuroanatomy studies the structure of the nervous system, from bra
 category: science
 tags: ["neuroanatomy", "nervous system", "brain", "spinal cord", "neurons", "anatomy", "neuroscience"]
 heroImage: "/images/articles/neuroanatomy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of neuroanatomy"
+heroAlt: "Neuroanatomy studies the structure of the nervous system, from brain regions and spinal cord pathways to individual neurons and their connections"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2619
 tier: "2"

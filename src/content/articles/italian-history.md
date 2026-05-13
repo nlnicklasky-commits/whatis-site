@@ -5,10 +5,10 @@ description: "Italian history spans from ancient Rome through the Renaissance to
 category: history
 tags: ["roman empire", "italy", "renaissance", "unification", "italian history"]
 heroImage: "/images/articles/italian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of italian history"
+heroAlt: "Italian history spans from ancient Rome through the Renaissance to modern unification"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1686
 tier: "3"

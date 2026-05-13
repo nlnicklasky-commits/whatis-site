@@ -5,10 +5,10 @@ description: "Film criticism analyzes and evaluates movies through artistic, cul
 category: arts-amp-culture
 tags: ["film", "cinema", "review", "analysis", "evaluation", "media studies"]
 heroImage: "/images/articles/film-criticism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of film criticism"
+heroAlt: "Film criticism analyzes and evaluates movies through artistic, cultural, and technical lenses"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 938
 tier: "3"

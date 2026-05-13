@@ -5,10 +5,10 @@ description: "Tai chi is a Chinese martial art practiced with slow, flowing move
 category: everyday-concepts
 tags: ["tai chi", "martial arts", "meditation", "exercise", "Chinese culture", "wellness"]
 heroImage: "/images/articles/tai-chi-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tai chi"
+heroAlt: "Tai chi is a Chinese martial art practiced with slow, flowing movements for health and meditation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 862
 tier: "3"

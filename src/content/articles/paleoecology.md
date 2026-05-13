@@ -5,10 +5,10 @@ description: "Paleoecology reconstructs ancient ecosystems using fossils, sedime
 category: science
 tags: ["paleoecology", "ancient ecosystems", "paleontology", "ecology", "fossils", "paleoenvironments", "environmental history"]
 heroImage: "/images/articles/paleoecology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paleoecology"
+heroAlt: "Paleoecology reconstructs ancient ecosystems using fossils, sediment cores, and geochemistry to understand how life and environments changed over time"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2416
 tier: "2"

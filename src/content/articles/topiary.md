@@ -5,10 +5,10 @@ description: "Topiary is the art of trimming and training plants into decorative
 category: arts-amp-culture
 tags: ["topiary", "gardening", "horticulture", "garden art", "landscaping", "plants"]
 heroImage: "/images/articles/topiary-hero.webp"
-heroAlt: "Editorial photograph representing the concept of topiary"
+heroAlt: "Topiary is the art of trimming and training plants into decorative shapes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 2
 wordCount: 674
 tier: "3"

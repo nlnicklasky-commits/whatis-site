@@ -5,10 +5,10 @@ description: "Geodesy is the science of measuring and understanding Earth's shap
 category: science
 tags: ["geodesy", "earth science", "gps", "mapping", "gravity", "geophysics", "spatial data"]
 heroImage: "/images/articles/geodesy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of geodesy"
+heroAlt: "Geodesy is the science of measuring and understanding Earth's shape, gravity field, and orientation in space — the foundation of GPS, mapping, and surveying"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2246
 tier: "2"

@@ -5,10 +5,10 @@ description: "Mathematical physics develops and applies rigorous mathematics to 
 category: science
 tags: ["mathematical physics", "physics", "mathematics", "quantum mechanics", "relativity", "symmetry", "theoretical physics"]
 heroImage: "/images/articles/mathematical-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mathematical physics"
+heroAlt: "Mathematical physics develops and applies rigorous mathematics to solve physics problems, from quantum mechanics and relativity to string theory and beyond"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2611
 tier: "2"

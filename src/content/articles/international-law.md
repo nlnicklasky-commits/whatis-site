@@ -5,10 +5,10 @@ description: "International law is the set of rules governing relations between 
 category: law
 tags: ["international law", "treaties", "customary law", "un", "human rights", "diplomacy"]
 heroImage: "/images/articles/international-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of international law"
+heroAlt: "International law is the set of rules governing relations between nations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 2032
 tier: "2"

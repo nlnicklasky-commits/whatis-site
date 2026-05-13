@@ -5,10 +5,10 @@ description: "United Kingdom history covers Britain from Roman times through the
 category: history
 tags: ["united kingdom history", "uk", "british history", "england", "scotland"]
 heroImage: "/images/articles/united-kingdom-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of united kingdom history"
+heroAlt: "United Kingdom history covers Britain from Roman times through the medieval period, the British Empire, two world wars, and the modern era"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1641
 tier: "3"

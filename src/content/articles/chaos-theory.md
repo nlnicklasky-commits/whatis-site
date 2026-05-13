@@ -5,10 +5,10 @@ description: "Chaos theory studies deterministic systems whose behavior is highl
 category: science
 tags: ["chaos theory", "mathematics", "physics", "nonlinear dynamics", "fractals", "complexity"]
 heroImage: "/images/articles/chaos-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of chaos theory"
+heroAlt: "Chaos theory studies deterministic systems whose behavior is highly sensitive to initial conditions, making long-term prediction practically impossible"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1096
 tier: "3"

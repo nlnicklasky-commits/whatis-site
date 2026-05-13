@@ -5,10 +5,10 @@ description: "Cultural anthropology studies human cultures, beliefs, and social 
 category: everyday-concepts
 tags: ["cultural anthropology", "anthropology", "culture", "ethnography", "society", "human behavior"]
 heroImage: "/images/articles/cultural-anthropology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cultural anthropology"
+heroAlt: "Cultural anthropology studies human cultures, beliefs, and social practices"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 951
 tier: "3"

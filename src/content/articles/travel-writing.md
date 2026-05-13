@@ -5,10 +5,10 @@ description: "Travel writing captures the experience of places through narrative
 category: arts-amp-culture
 tags: ["travel writing", "writing", "travel", "journalism", "creative nonfiction", "literature"]
 heroImage: "/images/articles/travel-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of travel writing"
+heroAlt: "Travel writing captures the experience of places through narrative prose"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1156
 tier: "3"

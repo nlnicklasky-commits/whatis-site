@@ -5,10 +5,10 @@ description: "The Thirty Years' War (1618-1648) devastated Central Europe and re
 category: history
 tags: ["thirty years war", "european history", "peace of westphalia", "holy roman empire"]
 heroImage: "/images/articles/thirty-years-war-hero.webp"
-heroAlt: "Editorial photograph representing the concept of thirty years' war"
+heroAlt: "The Thirty Years' War (1618-1648) devastated Central Europe and reshaped the political order"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1487
 tier: "3"

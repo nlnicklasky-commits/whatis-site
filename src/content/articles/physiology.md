@@ -5,10 +5,10 @@ description: "Physiology is the science of how living organisms function, from c
 category: everyday-concepts
 tags: ["physiology", "biology", "body systems", "medicine", "health", "science"]
 heroImage: "/images/articles/physiology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of physiology"
+heroAlt: "Physiology is the science of how living organisms function, from cellular processes to whole-body systems"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 954
 tier: "3"

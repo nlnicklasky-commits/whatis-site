@@ -5,10 +5,10 @@ description: "Theology is the systematic study of the nature of God, religious b
 category: religion
 tags: ["theology", "religion", "god", "faith", "doctrine", "ethics"]
 heroImage: "/images/articles/theology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of theology"
+heroAlt: "Theology is the systematic study of the nature of God, religious beliefs, and spiritual questions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 749
 tier: "3"

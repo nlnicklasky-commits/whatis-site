@@ -5,10 +5,10 @@ description: "Communication theory studies how messages are created, transmitted
 category: science
 tags: ["communication theory", "communication", "linguistics", "sociology", "psychology", "media", "information"]
 heroImage: "/images/articles/communication-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of communication theory"
+heroAlt: "Communication theory studies how messages are created, transmitted, received, and interpreted between individuals, groups, and mass audiences"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2663
 tier: "2"

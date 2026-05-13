@@ -5,10 +5,10 @@ description: "Visual arts encompass creative works experienced primarily through
 category: everyday-concepts
 tags: ["visual arts", "art", "painting", "sculpture", "photography", "creative expression"]
 heroImage: "/images/articles/visual-arts-hero.webp"
-heroAlt: "Editorial photograph representing the concept of visual arts"
+heroAlt: "Visual arts encompass creative works experienced primarily through sight, including painting, sculpture, photography, and digital art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 971
 tier: "3"

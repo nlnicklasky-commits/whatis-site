@@ -5,10 +5,10 @@ description: "Basketball is a fast-paced team sport where two teams of five try 
 category: sports
 tags: ["basketball", "sport", "nba", "team sport", "court sports", "dribbling"]
 heroImage: "/images/articles/basketball-hero.webp"
-heroAlt: "Editorial photograph representing the concept of basketball"
+heroAlt: "Basketball is a fast-paced team sport where two teams of five try to score by shooting a ball through a 10-foot-high hoop on the opponent's court"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1035
 tier: "3"

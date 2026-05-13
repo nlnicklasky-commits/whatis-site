@@ -5,10 +5,10 @@ description: "Gastronomy is the study of food, cooking, and culture. Learn how t
 category: arts-amp-culture
 tags: ["gastronomy", "food", "culinary arts", "cooking", "food culture", "food science"]
 heroImage: "/images/articles/gastronomy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gastronomy"
+heroAlt: "Gastronomy is the study of food, cooking, and culture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 942
 tier: "3"

@@ -5,10 +5,10 @@ description: "Podiatry is the medical specialty focused on diagnosing and treati
 category: health-amp-wellness
 tags: ["foot health", "podiatry", "medicine", "healthcare"]
 heroImage: "/images/articles/podiatry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of podiatry"
+heroAlt: "Podiatry is the medical specialty focused on diagnosing and treating foot and ankle conditions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1468
 tier: "3"

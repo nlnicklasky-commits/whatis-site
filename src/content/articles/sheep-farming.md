@@ -5,10 +5,10 @@ description: "Sheep farming raises sheep for wool, meat, and milk. Learn about b
 category: everyday-concepts
 tags: ["sheep", "farming", "agriculture", "wool", "lamb", "mutton"]
 heroImage: "/images/articles/sheep-farming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sheep farming"
+heroAlt: "Sheep farming raises sheep for wool, meat, and milk"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1028
 tier: "3"

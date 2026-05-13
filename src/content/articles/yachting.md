@@ -5,10 +5,10 @@ description: "Yachting covers sailing and motorboating for sport, leisure, or ra
 category: sports
 tags: ["boating", "sailing", "luxury", "recreation", "marine sports", "maritime"]
 heroImage: "/images/articles/yachting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of yachting"
+heroAlt: "Yachting covers sailing and motorboating for sport, leisure, or racing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1187
 tier: "3"

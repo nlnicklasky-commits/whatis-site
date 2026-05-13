@@ -5,10 +5,10 @@ description: "Public health protects and improves the health of entire populatio
 category: health-amp-wellness
 tags: ["public health", "disease prevention", "epidemiology", "community health"]
 heroImage: "/images/articles/public-health-hero.webp"
-heroAlt: "Editorial photograph representing the concept of public health"
+heroAlt: "Public health protects and improves the health of entire populations through prevention, education, and policy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1746
 tier: "3"

@@ -5,10 +5,10 @@ description: "X-ray crystallography is a technique that determines the atomic st
 category: science
 tags: ["crystallography", "x-rays", "chemistry", "biology"]
 heroImage: "/images/articles/x-ray-crystallography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of x-ray crystallography"
+heroAlt: "X-ray crystallography is a technique that determines the atomic structure of crystals by measuring how X-ray beams diffract through crystalline materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2358
 tier: "2"

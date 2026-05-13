@@ -5,10 +5,10 @@ description: "Renewable energy comes from sources that replenish naturally like 
 category: technology
 tags: ["renewable energy", "solar", "wind", "hydropower", "clean energy", "sustainability", "climate"]
 heroImage: "/images/articles/renewable-energy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of renewable energy"
+heroAlt: "Renewable energy comes from sources that replenish naturally like sun, wind, and water"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3048
 tier: "1"

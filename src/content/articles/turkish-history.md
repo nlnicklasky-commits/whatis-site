@@ -5,10 +5,10 @@ description: "Turkish history spans from ancient Anatolian civilizations through
 category: history
 tags: ["turkish history", "turkey", "ottoman empire", "ataturk", "anatolia"]
 heroImage: "/images/articles/turkish-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of turkish history"
+heroAlt: "Turkish history spans from ancient Anatolian civilizations through the Ottoman Empire to the modern Republic of Turkey founded by Ataturk in 1923"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1584
 tier: "3"

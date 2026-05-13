@@ -5,10 +5,10 @@ description: "Humanism is a philosophy centered on human dignity, reason, and et
 category: philosophy
 tags: ["humanism", "philosophy", "ethics", "secularism", "rationalism", "human flourishing", "critical thinking"]
 heroImage: "/images/articles/humanism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of humanism"
+heroAlt: "Humanism is a philosophy centered on human dignity, reason, and ethics without supernatural belief"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2538
 tier: "2"

@@ -5,10 +5,10 @@ description: "Irish history spans ancient Celtic culture through British rule, t
 category: history
 tags: ["irish history", "ireland", "great famine", "celtic", "british rule", "independence"]
 heroImage: "/images/articles/irish-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of irish history"
+heroAlt: "Irish history spans ancient Celtic culture through British rule, the Great Famine, and independence"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1864
 tier: "3"

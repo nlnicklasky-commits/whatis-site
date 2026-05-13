@@ -5,10 +5,10 @@ description: "South American history spans thousands of years, from ancient civi
 category: history
 tags: ["south american history", "latin america", "history", "colonialism"]
 heroImage: "/images/articles/south-american-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of south american history"
+heroAlt: "South American history spans thousands of years, from ancient civilizations like the Inca to colonialism and modern independence"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1785
 tier: "3"

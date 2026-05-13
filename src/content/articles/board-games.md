@@ -5,10 +5,10 @@ description: "Board games are tabletop games played on a marked surface with pie
 category: everyday-concepts
 tags: ["board games", "tabletop games", "strategy", "games", "entertainment", "family games"]
 heroImage: "/images/articles/board-games-hero.webp"
-heroAlt: "Editorial photograph representing the concept of board games"
+heroAlt: "Board games are tabletop games played on a marked surface with pieces, cards, or dice, ranging from ancient classics to modern strategy games"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 975
 tier: "3"

@@ -5,10 +5,10 @@ description: "Competitive eating is a sport where contestants race to consume la
 category: sports
 tags: ["competitive eating", "eating contests", "sports", "entertainment", "nathan's hot dogs", "endurance"]
 heroImage: "/images/articles/competitive-eating-hero.webp"
-heroAlt: "Editorial photograph representing the concept of competitive eating"
+heroAlt: "Competitive eating is a sport where contestants race to consume large quantities of food"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 983
 tier: "3"

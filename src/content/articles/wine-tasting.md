@@ -5,10 +5,10 @@ description: "Wine tasting is the sensory evaluation of wine's appearance, aroma
 category: lifestyle
 tags: ["wine tasting", "wine", "sommelier", "beverages", "food and drink", "sensory evaluation"]
 heroImage: "/images/articles/wine-tasting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wine tasting"
+heroAlt: "Wine tasting is the sensory evaluation of wine's appearance, aroma, flavor, and finish"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 921
 tier: "3"

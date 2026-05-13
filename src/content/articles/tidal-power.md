@@ -5,10 +5,10 @@ description: "Tidal power generates electricity from the rise and fall of ocean 
 category: technology
 tags: ["tidal power", "renewable energy", "tidal energy", "hydropower"]
 heroImage: "/images/articles/tidal-power-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tidal power"
+heroAlt: "Tidal power generates electricity from the rise and fall of ocean tides"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2226
 tier: "2"

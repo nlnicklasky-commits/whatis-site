@@ -5,10 +5,10 @@ description: "Cross-stitch is a form of embroidery using X-shaped stitches on gr
 category: arts-amp-culture
 tags: ["cross-stitch", "embroidery", "needlework", "craft", "textile art", "hobby"]
 heroImage: "/images/articles/cross-stitch-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cross-stitch"
+heroAlt: "Cross-stitch is a form of embroidery using X-shaped stitches on gridded fabric"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 931
 tier: "3"

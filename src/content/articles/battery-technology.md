@@ -5,10 +5,10 @@ description: "Battery technology is the science of storing electrical energy in 
 category: technology
 tags: ["battery technology", "energy storage", "electrochemical", "lithium-ion", "rechargeable batteries", "electric vehicles", "renewable energy"]
 heroImage: "/images/articles/battery-technology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of battery technology"
+heroAlt: "Battery technology is the science of storing electrical energy in chemical form"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2537
 tier: "2"

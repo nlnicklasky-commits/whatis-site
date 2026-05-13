@@ -5,10 +5,10 @@ description: "Tectonics is the study of Earth's large-scale structural features 
 category: science
 tags: ["tectonics", "plate tectonics", "geology", "earth science", "continental drift"]
 heroImage: "/images/articles/tectonics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tectonics"
+heroAlt: "Tectonics is the study of Earth's large-scale structural features and the forces that shape them, including the movement of tectonic plates"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2066
 tier: "2"

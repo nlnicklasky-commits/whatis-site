@@ -5,10 +5,10 @@ description: "Bayesian statistics is an approach to data analysis that updates p
 category: everyday-concepts
 tags: ["bayesian statistics", "statistics", "probability", "data science", "mathematics", "inference"]
 heroImage: "/images/articles/bayesian-statistics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of bayesian statistics"
+heroAlt: "Bayesian statistics is an approach to data analysis that updates probability estimates as new evidence arrives, using Bayes' theorem as its foundation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1028
 tier: "3"

@@ -5,10 +5,10 @@ description: "Rhetoric is the art of persuasive communication through language. 
 category: arts-amp-culture
 tags: ["rhetoric", "persuasion", "communication", "Aristotle", "speech", "writing"]
 heroImage: "/images/articles/rhetoric-hero.webp"
-heroAlt: "Editorial photograph representing the concept of rhetoric"
+heroAlt: "Rhetoric is the art of persuasive communication through language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 923
 tier: "3"

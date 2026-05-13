@@ -5,10 +5,10 @@ description: "Pharmacy is the science of preparing, dispensing, and managing med
 category: health-amp-wellness
 tags: ["pharmacist", "medications", "drugs", "healthcare"]
 heroImage: "/images/articles/pharmacy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pharmacy"
+heroAlt: "Pharmacy is the science of preparing, dispensing, and managing medications"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1380
 tier: "3"

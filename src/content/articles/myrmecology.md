@@ -5,10 +5,10 @@ description: "Myrmecology is the scientific study of ants — the most successfu
 category: science
 tags: ["myrmecology", "ants", "entomology", "social insects", "ant colonies", "insect biology", "ecology"]
 heroImage: "/images/articles/myrmecology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of myrmecology"
+heroAlt: "Myrmecology is the scientific study of ants — the most successful social insects on Earth"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2459
 tier: "2"

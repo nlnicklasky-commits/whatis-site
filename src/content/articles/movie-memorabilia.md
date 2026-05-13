@@ -5,10 +5,10 @@ description: "Movie memorabilia includes props, costumes, posters, and collectib
 category: arts-amp-culture
 tags: ["movie memorabilia", "film collectibles", "props", "Hollywood", "collecting", "entertainment"]
 heroImage: "/images/articles/movie-memorabilia-hero.webp"
-heroAlt: "Editorial photograph representing the concept of movie memorabilia"
+heroAlt: "Movie memorabilia includes props, costumes, posters, and collectibles from films"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 973
 tier: "3"

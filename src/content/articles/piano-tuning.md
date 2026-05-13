@@ -5,10 +5,10 @@ description: "Piano tuning adjusts string tension to correct pitch and temperame
 category: everyday-concepts
 tags: ["piano tuning", "music", "acoustics", "temperament", "pitch", "instrument maintenance"]
 heroImage: "/images/articles/piano-tuning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of piano tuning"
+heroAlt: "Piano tuning adjusts string tension to correct pitch and temperament"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1053
 tier: "3"

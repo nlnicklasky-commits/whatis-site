@@ -5,10 +5,10 @@ description: "Radio broadcasting transmits audio content wirelessly to listeners
 category: arts-amp-culture
 tags: ["radio broadcasting", "media", "communication", "FM", "AM", "broadcasting"]
 heroImage: "/images/articles/radio-broadcasting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of radio broadcasting"
+heroAlt: "Radio broadcasting transmits audio content wirelessly to listeners via electromagnetic waves"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 965
 tier: "3"

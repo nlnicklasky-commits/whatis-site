@@ -5,10 +5,10 @@ description: "Mining engineering is the discipline of extracting minerals from t
 category: technology
 tags: ["mining engineering", "mining", "geology", "mineral extraction", "underground mining", "surface mining", "engineering"]
 heroImage: "/images/articles/mining-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mining engineering"
+heroAlt: "Mining engineering is the discipline of extracting minerals from the earth safely and efficiently"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2234
 tier: "2"

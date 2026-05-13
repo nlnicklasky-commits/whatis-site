@@ -5,10 +5,10 @@ description: "Solar physics studies the Sun's structure, behavior, and effects o
 category: science
 tags: ["solar physics", "astronomy", "astrophysics", "space weather", "physics", "sun"]
 heroImage: "/images/articles/solar-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of solar physics"
+heroAlt: "Solar physics studies the Sun's structure, behavior, and effects on the solar system"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2422
 tier: "2"

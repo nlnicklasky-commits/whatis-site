@@ -5,10 +5,10 @@ description: "Flemish painting is a tradition from the Low Countries known for o
 category: everyday-concepts
 tags: ["flemish painting", "art history", "oil painting", "Jan van Eyck", "Rubens", "Northern Renaissance"]
 heroImage: "/images/articles/flemish-painting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of flemish painting"
+heroAlt: "Flemish painting is a tradition from the Low Countries known for oil technique mastery, realism, and rich detail"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 912
 tier: "3"

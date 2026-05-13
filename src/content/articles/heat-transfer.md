@@ -5,10 +5,10 @@ description: "Heat transfer is the movement of thermal energy between objects or
 category: science
 tags: ["heat transfer", "thermodynamics", "physics", "engineering", "conduction", "convection", "radiation"]
 heroImage: "/images/articles/heat-transfer-hero.webp"
-heroAlt: "Editorial photograph representing the concept of heat transfer"
+heroAlt: "Heat transfer is the movement of thermal energy between objects or systems due to temperature differences — conduction, convection, and radiation explained"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2973
 tier: "2"

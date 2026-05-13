@@ -5,10 +5,10 @@ description: "Sketching is quick, freehand drawing used to capture ideas, observ
 category: arts-amp-culture
 tags: ["sketching", "drawing", "art", "concept art", "visual arts", "illustration"]
 heroImage: "/images/articles/sketching-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sketching"
+heroAlt: "Sketching is quick, freehand drawing used to capture ideas, observations, and compositions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1013
 tier: "3"

@@ -5,10 +5,10 @@ description: "A notary public is a state-appointed official who witnesses signat
 category: everyday-concepts
 tags: ["notary public", "notarization", "legal documents", "witness", "fraud prevention", "public officer"]
 heroImage: "/images/articles/notary-public-hero.webp"
-heroAlt: "Editorial photograph representing the concept of notary public"
+heroAlt: "A notary public is a state-appointed official who witnesses signatures, administers oaths, and deters fraud"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1016
 tier: "3"

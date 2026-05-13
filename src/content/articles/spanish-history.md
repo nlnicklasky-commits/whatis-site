@@ -5,10 +5,10 @@ description: "Spanish history covers millennia of invasions, empires, and cultur
 category: history
 tags: ["spanish history", "spain", "european history", "reconquista"]
 heroImage: "/images/articles/spanish-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of spanish history"
+heroAlt: "Spanish history covers millennia of invasions, empires, and cultural exchange"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1339
 tier: "3"

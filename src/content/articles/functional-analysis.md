@@ -5,10 +5,10 @@ description: "Functional analysis studies infinite-dimensional vector spaces and
 category: everyday-concepts
 tags: ["functional analysis", "mathematics", "linear algebra", "Banach spaces", "Hilbert spaces", "topology"]
 heroImage: "/images/articles/functional-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of functional analysis"
+heroAlt: "Functional analysis studies infinite-dimensional vector spaces and operators"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 991
 tier: "3"

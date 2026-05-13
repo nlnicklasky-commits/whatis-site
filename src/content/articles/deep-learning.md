@@ -5,10 +5,10 @@ description: "Deep learning uses multi-layered neural networks to learn patterns
 category: technology
 tags: ["deep learning", "neural networks", "ai", "machine learning", "computer vision", "nlp", "tensorflow"]
 heroImage: "/images/articles/deep-learning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of deep learning"
+heroAlt: "Deep learning uses multi-layered neural networks to learn patterns from data"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2664
 tier: "2"

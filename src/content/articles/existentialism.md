@@ -5,10 +5,10 @@ description: "Existentialism is a philosophy centered on individual freedom, cho
 category: everyday-concepts
 tags: ["existentialism", "philosophy", "freedom", "Sartre", "Kierkegaard", "meaning"]
 heroImage: "/images/articles/existentialism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of existentialism"
+heroAlt: "Existentialism is a philosophy centered on individual freedom, choice, and meaning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1132
 tier: "3"

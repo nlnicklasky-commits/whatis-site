@@ -5,10 +5,10 @@ description: "Canoeing is the activity of paddling a canoe — an open, lightwei
 category: sports
 tags: ["canoeing", "paddling", "water sports", "outdoor recreation", "canoes", "adventure"]
 heroImage: "/images/articles/canoeing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of canoeing"
+heroAlt: "Canoeing is the activity of paddling a canoe — an open, lightweight boat propelled by single-bladed paddles — on rivers, lakes, and coastal waters"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 909
 tier: "3"

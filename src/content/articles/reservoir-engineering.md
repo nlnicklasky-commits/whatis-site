@@ -5,10 +5,10 @@ description: "Reservoir engineering optimizes oil and gas extraction from underg
 category: technology
 tags: ["reservoir engineering", "petroleum", "oil recovery", "fluid flow", "drilling", "energy", "geology"]
 heroImage: "/images/articles/reservoir-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of reservoir engineering"
+heroAlt: "Reservoir engineering optimizes oil and gas extraction from underground formations through fluid flow analysis, recovery methods, and simulation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2729
 tier: "2"

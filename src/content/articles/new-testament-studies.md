@@ -5,10 +5,10 @@ description: "New Testament studies is the academic examination of early Christi
 category: arts-amp-culture
 tags: ["new testament", "biblical studies", "christianity", "theology", "religious history", "bible"]
 heroImage: "/images/articles/new-testament-studies-hero.webp"
-heroAlt: "Editorial photograph representing the concept of new testament studies"
+heroAlt: "New Testament studies is the academic examination of early Christian texts, their authorship, historical context, and theology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1036
 tier: "3"

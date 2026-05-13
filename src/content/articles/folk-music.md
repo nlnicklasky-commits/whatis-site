@@ -5,10 +5,10 @@ description: "Folk music is traditional music passed down orally within communit
 category: arts-amp-culture
 tags: ["music", "traditional music", "culture", "oral tradition", "acoustic", "storytelling"]
 heroImage: "/images/articles/folk-music-hero.webp"
-heroAlt: "Editorial photograph representing the concept of folk music"
+heroAlt: "Folk music is traditional music passed down orally within communities"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 981
 tier: "3"

@@ -5,10 +5,10 @@ description: "The violin is a four-stringed instrument and the highest-pitched m
 category: arts-amp-culture
 tags: ["violin", "string instruments", "orchestra", "classical music", "fiddle", "music"]
 heroImage: "/images/articles/violin-hero.webp"
-heroAlt: "Editorial photograph representing the concept of violin"
+heroAlt: "The violin is a four-stringed instrument and the highest-pitched member of the string family"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1079
 tier: "3"

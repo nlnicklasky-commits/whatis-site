@@ -5,10 +5,10 @@ description: "Soviet history covers the rise and fall of the USSR from 1917 to 1
 category: history
 tags: ["soviet history", "ussr", "communism", "cold war"]
 heroImage: "/images/articles/soviet-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of soviet history"
+heroAlt: "Soviet history covers the rise and fall of the USSR from 1917 to 1991"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1649
 tier: "3"

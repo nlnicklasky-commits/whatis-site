@@ -5,10 +5,10 @@ description: "Visual Basic is a programming language from Microsoft that made Wi
 category: technology
 tags: ["programming", "visual basic", "microsoft", "software development"]
 heroImage: "/images/articles/visual-basic-hero.webp"
-heroAlt: "Editorial photograph representing the concept of visual basic"
+heroAlt: "Visual Basic is a programming language from Microsoft that made Windows app development accessible"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2357
 tier: '1'

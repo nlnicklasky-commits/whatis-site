@@ -5,10 +5,10 @@ description: "The saxophone is a woodwind instrument invented in the 1840s, famo
 category: arts-amp-culture
 tags: ["saxophone", "musical instrument", "woodwind", "jazz", "classical music", "adolphe sax"]
 heroImage: "/images/articles/saxophone-hero.webp"
-heroAlt: "Editorial photograph representing the concept of saxophone"
+heroAlt: "The saxophone is a woodwind instrument invented in the 1840s, famous for its role in jazz, classical music, and popular music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1234
 tier: "3"

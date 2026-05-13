@@ -5,10 +5,10 @@ description: "Realism is an art movement depicting everyday subjects truthfully,
 category: arts-amp-culture
 tags: ["realism art", "art movement", "19th century", "painting", "Gustave Courbet", "naturalism"]
 heroImage: "/images/articles/realism-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of realism (art)"
+heroAlt: "Realism is an art movement depicting everyday subjects truthfully, without idealization"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 899
 tier: "3"

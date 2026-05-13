@@ -5,10 +5,10 @@ description: "Perspective drawing creates the illusion of depth on a flat surfac
 category: arts-amp-culture
 tags: ["drawing", "art", "illustration", "architecture", "design", "depth"]
 heroImage: "/images/articles/perspective-drawing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of perspective drawing"
+heroAlt: "Perspective drawing creates the illusion of depth on a flat surface using vanishing points and converging lines"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1005
 tier: "3"

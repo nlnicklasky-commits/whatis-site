@@ -5,10 +5,10 @@ description: "Tort law governs civil wrongs where one person's actions cause har
 category: everyday-concepts
 tags: ["tort law", "civil law", "negligence", "liability", "damages", "legal system"]
 heroImage: "/images/articles/tort-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tort law"
+heroAlt: "Tort law governs civil wrongs where one person's actions cause harm to another"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 767
 tier: "3"

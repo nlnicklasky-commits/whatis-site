@@ -5,10 +5,10 @@ description: "Pathology is the medical science of disease — its causes, mechan
 category: health-amp-wellness
 tags: ["pathology", "disease", "diagnosis", "medical science"]
 heroImage: "/images/articles/pathology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pathology"
+heroAlt: "Pathology is the medical science of disease — its causes, mechanisms, and effects on the body"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1633
 tier: "3"

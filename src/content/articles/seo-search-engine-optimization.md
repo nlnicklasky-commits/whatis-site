@@ -5,10 +5,10 @@ description: "SEO is the practice of improving your website's visibility in sear
 category: technology
 tags: ["seo", "search engine optimization", "digital marketing", "google", "web traffic", "keywords", "ranking"]
 heroImage: "/images/articles/seo-search-engine-optimization-hero.webp"
-heroAlt: "Editorial photograph representing the concept of seo (search engine optimization)"
+heroAlt: "SEO is the practice of improving your website's visibility in search engine results through technical, content, and authority-building strategies"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3327
 tier: "1"

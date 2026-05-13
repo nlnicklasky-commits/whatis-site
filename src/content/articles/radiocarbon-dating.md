@@ -5,10 +5,10 @@ description: "Radiocarbon dating measures the decay of carbon-14 in organic mate
 category: everyday-concepts
 tags: ["radiocarbon dating", "archaeology", "carbon-14", "science", "dating methods", "geology"]
 heroImage: "/images/articles/radiocarbon-dating-hero.webp"
-heroAlt: "Editorial photograph representing the concept of radiocarbon dating"
+heroAlt: "Radiocarbon dating measures the decay of carbon-14 in organic materials to determine their age, up to about 50,000 years old"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1020
 tier: "3"

@@ -5,10 +5,10 @@ description: "Vocal performance is the art of singing or speaking before an audi
 category: arts-amp-culture
 tags: ["vocal performance", "singing", "performing arts", "stage presence", "music", "live performance"]
 heroImage: "/images/articles/vocal-performance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of vocal performance"
+heroAlt: "Vocal performance is the art of singing or speaking before an audience"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1009
 tier: "3"

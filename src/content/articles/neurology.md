@@ -5,10 +5,10 @@ description: "Neurology is the medical specialty that treats disorders of the br
 category: health-amp-wellness
 tags: ["neurology", "neurological disorders", "brain", "nervous system"]
 heroImage: "/images/articles/neurology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of neurology"
+heroAlt: "Neurology is the medical specialty that treats disorders of the brain and nervous system"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1724
 tier: "3"

@@ -5,10 +5,10 @@ description: "Real analysis is the rigorous mathematical study of real numbers, 
 category: everyday-concepts
 tags: ["real analysis", "mathematics", "calculus", "limits", "continuity", "proofs"]
 heroImage: "/images/articles/real-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of real analysis"
+heroAlt: "Real analysis is the rigorous mathematical study of real numbers, sequences, limits, and continuity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 922
 tier: "3"

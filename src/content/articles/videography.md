@@ -5,10 +5,10 @@ description: "Videography is the art of capturing video footage for events, comm
 category: arts-amp-culture
 tags: ["videography", "video recording", "camera work", "cinematography", "content creation", "media"]
 heroImage: "/images/articles/videography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of videography"
+heroAlt: "Videography is the art of capturing video footage for events, commercial projects, and creative work"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 969
 tier: "3"

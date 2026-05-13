@@ -5,10 +5,10 @@ description: "Gerontology is the scientific study of aging and its effects on in
 category: health-amp-wellness
 tags: ["gerontology", "aging", "elderly care", "health", "sociology"]
 heroImage: "/images/articles/gerontology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gerontology"
+heroAlt: "Gerontology is the scientific study of aging and its effects on individuals and societies, spanning biology, psychology, and social policy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1732
 tier: "3"

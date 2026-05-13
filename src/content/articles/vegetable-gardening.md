@@ -5,10 +5,10 @@ description: "Vegetable gardening is growing edible plants at home or in communi
 category: lifestyle
 tags: ["vegetable gardening", "gardening", "growing food", "home garden", "organic", "sustainability"]
 heroImage: "/images/articles/vegetable-gardening-hero.webp"
-heroAlt: "Editorial photograph representing the concept of vegetable gardening"
+heroAlt: "Vegetable gardening is growing edible plants at home or in community plots"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 940
 tier: "3"

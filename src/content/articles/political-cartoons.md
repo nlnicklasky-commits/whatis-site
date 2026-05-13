@@ -5,10 +5,10 @@ description: "Political cartoons use humor, satire, and visual metaphors to comm
 category: arts-amp-culture
 tags: ["politics", "art", "satire", "journalism", "humor", "current events"]
 heroImage: "/images/articles/political-cartoons-hero.webp"
-heroAlt: "Editorial photograph representing the concept of political cartoons"
+heroAlt: "Political cartoons use humor, satire, and visual metaphors to comment on politics and current events"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 901
 tier: "3"

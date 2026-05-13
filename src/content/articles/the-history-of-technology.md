@@ -5,10 +5,10 @@ description: "The history of technology tracks how human tool-making evolved fro
 category: history
 tags: ["history of technology", "technology", "innovation", "industrial revolution"]
 heroImage: "/images/articles/the-history-of-technology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of technology"
+heroAlt: "The history of technology tracks how human tool-making evolved from stone axes to smartphones across 3"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1433
 tier: "3"

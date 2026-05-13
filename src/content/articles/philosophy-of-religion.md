@@ -5,10 +5,10 @@ description: "Philosophy of religion examines questions about God, faith, evil, 
 category: everyday-concepts
 tags: ["philosophy of religion", "theology", "God", "faith", "ethics", "metaphysics"]
 heroImage: "/images/articles/philosophy-of-religion-hero.webp"
-heroAlt: "Editorial photograph representing the concept of philosophy of religion"
+heroAlt: "Philosophy of religion examines questions about God, faith, evil, and religious experience through rational argument"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1047
 tier: "3"

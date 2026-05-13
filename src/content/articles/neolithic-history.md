@@ -5,10 +5,10 @@ description: "The Neolithic era was when humans first farmed, settled, and built
 category: everyday-concepts
 tags: ["neolithic history", "prehistoric era", "agriculture", "archaeology", "ancient civilizations", "stone age"]
 heroImage: "/images/articles/neolithic-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of neolithic history"
+heroAlt: "The Neolithic era was when humans first farmed, settled, and built communities"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1005
 tier: "3"

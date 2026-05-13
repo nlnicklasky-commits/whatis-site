@@ -5,10 +5,10 @@ description: "Digital photography captures images using electronic sensors inste
 category: arts-amp-culture
 tags: ["digital photography", "arts-amp-culture"]
 heroImage: "/images/articles/digital-photography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of digital photography"
+heroAlt: "Digital photography captures images using electronic sensors instead of film"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1059
 tier: "3"

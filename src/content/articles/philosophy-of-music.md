@@ -5,10 +5,10 @@ description: "Philosophy of music examines what music is, why it moves us emotio
 category: everyday-concepts
 tags: ["philosophy of music", "aesthetics", "music theory", "emotion", "art", "meaning"]
 heroImage: "/images/articles/philosophy-of-music-hero.webp"
-heroAlt: "Editorial photograph representing the concept of philosophy of music"
+heroAlt: "Philosophy of music examines what music is, why it moves us emotionally, and what makes it meaningful"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1041
 tier: "3"

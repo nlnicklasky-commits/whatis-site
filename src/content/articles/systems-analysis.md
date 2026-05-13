@@ -5,10 +5,10 @@ description: "Systems analysis is the process of studying a system to identify p
 category: everyday-concepts
 tags: ["systems analysis", "systems thinking", "IT", "business analysis", "problem solving", "engineering"]
 heroImage: "/images/articles/systems-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of systems analysis"
+heroAlt: "Systems analysis is the process of studying a system to identify problems and propose solutions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 781
 tier: "3"

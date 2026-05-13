@@ -5,10 +5,10 @@ description: "Comic book collecting is the hobby of acquiring, preserving, and t
 category: everyday-concepts
 tags: ["comic book collecting", "comics", "collectibles", "hobbies", "graphic novels", "superheroes"]
 heroImage: "/images/articles/comic-book-collecting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of comic book collecting"
+heroAlt: "Comic book collecting is the hobby of acquiring, preserving, and trading comics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1023
 tier: "3"

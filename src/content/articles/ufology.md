@@ -5,10 +5,10 @@ description: "Ufology is the study of unidentified flying objects and related ph
 category: everyday-concepts
 tags: ["ufology", "UFOs", "UAP", "extraterrestrial", "paranormal", "unexplained phenomena"]
 heroImage: "/images/articles/ufology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ufology"
+heroAlt: "Ufology is the study of unidentified flying objects and related phenomena"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1073
 tier: "3"

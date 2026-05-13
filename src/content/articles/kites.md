@@ -5,10 +5,10 @@ description: "Kite flying is the practice of launching and controlling tethered 
 category: everyday-concepts
 tags: ["kites", "outdoor recreation", "wind", "hobbies", "aerodynamics"]
 heroImage: "/images/articles/kites-hero.webp"
-heroAlt: "Editorial photograph representing the concept of kite flying"
+heroAlt: "Kite flying is the practice of launching and controlling tethered aircraft using wind"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1151
 tier: "3"

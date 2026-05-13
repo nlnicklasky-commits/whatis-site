@@ -5,10 +5,10 @@ description: "Geopolitics studies how geography, resources, and territorial cont
 category: history
 tags: ["geopolitics", "international relations", "geography", "political science", "global power"]
 heroImage: "/images/articles/geopolitics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of geopolitics"
+heroAlt: "Geopolitics studies how geography, resources, and territorial control shape international power dynamics, foreign policy, and global conflict"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1431
 tier: "3"

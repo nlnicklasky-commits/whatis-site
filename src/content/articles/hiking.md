@@ -5,10 +5,10 @@ description: "Hiking is walking outdoors on trails or paths for recreation and e
 category: everyday-concepts
 tags: ["hiking", "outdoor recreation", "walking", "nature", "trails", "wilderness"]
 heroImage: "/images/articles/hiking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hiking"
+heroAlt: "Hiking is walking outdoors on trails or paths for recreation and exercise"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 964
 tier: "3"

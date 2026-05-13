@@ -5,10 +5,10 @@ description: "Metrology is the science of measurement. Learn about measurement s
 category: science
 tags: ["metrology", "measurement", "standards", "calibration", "precision", "accuracy", "science"]
 heroImage: "/images/articles/metrology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of metrology"
+heroAlt: "Metrology is the science of measurement"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2269
 tier: "2"

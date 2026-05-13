@@ -5,10 +5,10 @@ description: "Physical comedy uses the body to generate laughter through falls, 
 category: arts-amp-culture
 tags: ["comedy", "humor", "slapstick", "performance", "entertainment", "clowning"]
 heroImage: "/images/articles/physical-comedy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of physical comedy"
+heroAlt: "Physical comedy uses the body to generate laughter through falls, exaggerated movement, and visual gags"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 993
 tier: "3"

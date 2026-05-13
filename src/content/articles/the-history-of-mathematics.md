@@ -5,10 +5,10 @@ description: "The history of mathematics spans from ancient counting systems to 
 category: history
 tags: ["history of mathematics", "mathematics", "geometry", "algebra", "calculus"]
 heroImage: "/images/articles/the-history-of-mathematics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of mathematics"
+heroAlt: "The history of mathematics spans from ancient counting systems to modern abstractions, covering geometry, algebra, calculus, and beyond"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1639
 tier: "3"

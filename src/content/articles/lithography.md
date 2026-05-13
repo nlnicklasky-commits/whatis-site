@@ -5,10 +5,10 @@ description: "Lithography is a printing technique based on the repulsion of oil 
 category: arts-amp-culture
 tags: ["lithography", "printmaking", "printing", "art", "graphics", "Alois Senefelder"]
 heroImage: "/images/articles/lithography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lithography"
+heroAlt: "Lithography is a printing technique based on the repulsion of oil and water"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1115
 tier: "3"

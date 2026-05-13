@@ -5,10 +5,10 @@ description: "Archaeology is the study of human history through physical remains
 category: science
 tags: ["archaeology", "anthropology", "history", "artifact", "excavation", "prehistory", "paleontology"]
 heroImage: "/images/articles/archaeology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of archaeology"
+heroAlt: "Archaeology is the study of human history through physical remains like artifacts, buildings, and bones"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2751
 tier: "2"

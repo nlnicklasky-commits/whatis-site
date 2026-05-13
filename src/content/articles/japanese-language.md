@@ -5,10 +5,10 @@ description: "Japanese is spoken by 125 million people and uses three writing sy
 category: everyday-concepts
 tags: ["japanese language", "kanji", "hiragana", "linguistics", "writing systems"]
 heroImage: "/images/articles/japanese-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of japanese language"
+heroAlt: "Japanese is spoken by 125 million people and uses three writing systems"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 790
 tier: "3"

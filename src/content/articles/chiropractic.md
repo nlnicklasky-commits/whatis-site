@@ -5,10 +5,10 @@ description: "Chiropractic is a healthcare profession focused on diagnosing and 
 category: health-amp-wellness
 tags: ["chiropractic", "spinal health", "manual therapy", "alternative medicine"]
 heroImage: "/images/articles/chiropractic-hero.webp"
-heroAlt: "Editorial photograph representing the concept of chiropractic"
+heroAlt: "Chiropractic is a healthcare profession focused on diagnosing and treating musculoskeletal disorders, primarily through manual spinal adjustments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1424
 tier: "3"

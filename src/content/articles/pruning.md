@@ -5,10 +5,10 @@ description: "Pruning is the selective removal of plant parts to improve health,
 category: everyday-concepts
 tags: ["pruning", "horticulture", "gardening", "arboriculture", "plant care", "tree pruning"]
 heroImage: "/images/articles/pruning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pruning"
+heroAlt: "Pruning is the selective removal of plant parts to improve health, shape, and productivity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 914
 tier: "3"

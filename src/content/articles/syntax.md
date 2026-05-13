@@ -5,10 +5,10 @@ description: "Syntax is the set of rules governing how words combine into senten
 category: everyday-concepts
 tags: ["syntax", "linguistics", "grammar", "language", "sentence structure", "parsing"]
 heroImage: "/images/articles/syntax-hero.webp"
-heroAlt: "Editorial photograph representing the concept of syntax"
+heroAlt: "Syntax is the set of rules governing how words combine into sentences"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 845
 tier: "3"

@@ -5,10 +5,10 @@ description: "Differential equations describe how things change using rates of c
 category: science
 tags: ["differential equations", "mathematics", "calculus", "modeling", "physics", "engineering", "applied math"]
 heroImage: "/images/articles/differential-equations-hero.webp"
-heroAlt: "Editorial photograph representing the concept of differential equations"
+heroAlt: "Differential equations describe how things change using rates of change"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2342
 tier: "2"

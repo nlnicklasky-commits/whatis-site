@@ -5,10 +5,10 @@ description: "Set design creates the physical environments for theater, film, an
 category: arts-amp-culture
 tags: ["set design", "scenic design", "theater", "film", "television", "production design"]
 heroImage: "/images/articles/set-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of set design"
+heroAlt: "Set design creates the physical environments for theater, film, and TV productions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1148
 tier: "3"

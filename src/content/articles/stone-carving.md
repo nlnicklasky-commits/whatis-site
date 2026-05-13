@@ -5,10 +5,10 @@ description: "Stone carving is the art of shaping stone into sculptures, archite
 category: arts-amp-culture
 tags: ["stone carving", "sculpture", "art", "masonry", "marble", "chisel"]
 heroImage: "/images/articles/stone-carving-hero.webp"
-heroAlt: "Editorial photograph representing the concept of stone carving"
+heroAlt: "Stone carving is the art of shaping stone into sculptures, architecture, and decorative objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 711
 tier: "3"

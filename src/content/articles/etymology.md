@@ -5,10 +5,10 @@ description: "Etymology is the study of word origins and how their meanings evol
 category: everyday-concepts
 tags: ["etymology", "everyday-concepts"]
 heroImage: "/images/articles/etymology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of etymology"
+heroAlt: "Etymology is the study of word origins and how their meanings evolved over time"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1132
 tier: "3"

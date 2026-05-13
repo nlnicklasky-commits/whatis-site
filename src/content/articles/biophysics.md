@@ -5,10 +5,10 @@ description: "Biophysics uses physics methods to study biological systems. Learn
 category: science
 tags: ["biophysics", "physics", "biology", "molecular biology", "protein folding", "cell membrane", "sensory perception"]
 heroImage: "/images/articles/biophysics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of biophysics"
+heroAlt: "Biophysics uses physics methods to study biological systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2572
 tier: "2"

@@ -5,10 +5,10 @@ description: "Comedy is a genre of entertainment designed to make people laugh. 
 category: arts-amp-culture
 tags: ["comedy", "humor", "entertainment", "stand-up", "satire", "theatre"]
 heroImage: "/images/articles/comedy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of comedy"
+heroAlt: "Comedy is a genre of entertainment designed to make people laugh"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1089
 tier: "3"

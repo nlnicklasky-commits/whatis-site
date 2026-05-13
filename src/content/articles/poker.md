@@ -5,10 +5,10 @@ description: "Poker is a family of card games combining skill, strategy, and psy
 category: everyday-concepts
 tags: ["poker", "card games", "gambling", "strategy", "Texas Hold'em", "bluffing"]
 heroImage: "/images/articles/poker-hero.webp"
-heroAlt: "Editorial photograph representing the concept of poker"
+heroAlt: "Poker is a family of card games combining skill, strategy, and psychology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1193
 tier: "3"

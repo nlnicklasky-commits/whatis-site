@@ -5,10 +5,10 @@ description: "Restaurant management is the practice of running a food service bu
 category: business
 tags: ["hospitality", "restaurant management", "food service"]
 heroImage: "/images/articles/restaurant-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of restaurant management"
+heroAlt: "Restaurant management is the practice of running a food service business, covering operations, staffing, finances, menu planning, and customer experience"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1561
 tier: "3"

@@ -5,10 +5,10 @@ description: "Pilates is a low-impact exercise method focused on core strength, 
 category: everyday-concepts
 tags: ["pilates", "exercise", "fitness", "core strength", "flexibility", "wellness"]
 heroImage: "/images/articles/pilates-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pilates"
+heroAlt: "Pilates is a low-impact exercise method focused on core strength, flexibility, and controlled movement"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1014
 tier: "3"

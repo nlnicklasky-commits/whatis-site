@@ -5,10 +5,10 @@ description: "Train spotting is the hobby of observing, recording, and photograp
 category: everyday-concepts
 tags: ["train spotting", "railfan", "trains", "hobby", "transportation", "railways"]
 heroImage: "/images/articles/train-spotting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of train spotting"
+heroAlt: "Train spotting is the hobby of observing, recording, and photographing trains"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 2
 wordCount: 669
 tier: "3"

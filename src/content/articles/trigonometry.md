@@ -5,10 +5,10 @@ description: "Trigonometry is the branch of math studying relationships between 
 category: science
 tags: ["trigonometry", "mathematics", "geometry"]
 heroImage: "/images/articles/trigonometry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of trigonometry"
+heroAlt: "Trigonometry is the branch of math studying relationships between angles and sides of triangles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2353
 tier: "2"

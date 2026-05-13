@@ -5,10 +5,10 @@ description: "Endocrinology is the medical field focused on hormones and the gla
 category: health-amp-wellness
 tags: ["endocrinology", "hormones", "endocrine system", "metabolism", "diabetes"]
 heroImage: "/images/articles/endocrinology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of endocrinology"
+heroAlt: "Endocrinology is the medical field focused on hormones and the glands that produce them"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1607
 tier: "3"

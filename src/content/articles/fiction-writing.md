@@ -5,10 +5,10 @@ description: "Fiction writing is the craft of creating imaginary stories and cha
 category: everyday-concepts
 tags: ["fiction writing", "creative writing", "storytelling", "novels", "short stories", "literature"]
 heroImage: "/images/articles/fiction-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fiction writing"
+heroAlt: "Fiction writing is the craft of creating imaginary stories and characters"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 984
 tier: "3"

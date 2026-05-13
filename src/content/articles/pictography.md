@@ -5,10 +5,10 @@ description: "Pictography is a system of communication using pictures to represe
 category: everyday-concepts
 tags: ["pictography", "writing systems", "communication", "symbols", "history", "visual language"]
 heroImage: "/images/articles/pictography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pictography"
+heroAlt: "Pictography is a system of communication using pictures to represent objects and ideas"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 910
 tier: "3"

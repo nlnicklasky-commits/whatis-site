@@ -5,10 +5,10 @@ description: "Historical witchcraft covers centuries of beliefs, accusations, an
 category: history
 tags: ["historical witchcraft", "witchcraft", "witch hunts", "early modern history", "folklore"]
 heroImage: "/images/articles/historical-witchcraft-hero.webp"
-heroAlt: "Editorial photograph representing the concept of historical witchcraft"
+heroAlt: "Historical witchcraft covers centuries of beliefs, accusations, and trials tied to magic and sorcery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1631
 tier: "3"

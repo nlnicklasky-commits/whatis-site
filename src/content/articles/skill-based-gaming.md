@@ -5,10 +5,10 @@ description: "Skill-based gaming rewards player ability over luck. Learn how ski
 category: everyday-concepts
 tags: ["skill-based games", "video games", "esports", "gaming", "strategy", "competitive gaming"]
 heroImage: "/images/articles/skill-based-gaming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of skill-based gaming"
+heroAlt: "Skill-based gaming rewards player ability over luck"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1062
 tier: "3"

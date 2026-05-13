@@ -5,10 +5,10 @@ description: "Dietetics is the science of applying nutrition knowledge to plan d
 category: health-amp-wellness
 tags: ["dietetics", "nutrition", "diet", "health", "food science"]
 heroImage: "/images/articles/dietetics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dietetics"
+heroAlt: "Dietetics is the science of applying nutrition knowledge to plan diets that improve health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1514
 tier: "3"

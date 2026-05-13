@@ -5,10 +5,10 @@ description: "Human-computer interaction (HCI) studies how people use technology
 category: technology
 tags: ["human-computer interaction", "hci", "ux design", "usability", "interface design", "computer science", "user experience"]
 heroImage: "/images/articles/human-computer-interaction-hero.webp"
-heroAlt: "Editorial photograph representing the concept of human-computer interaction"
+heroAlt: "Human-computer interaction (HCI) studies how people use technology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2984
 tier: "2"

@@ -5,10 +5,10 @@ description: "Grassland ecology studies the ecosystems where grasses dominate, f
 category: science
 tags: ["grassland ecology", "ecology", "grasslands", "biomes", "ecosystems", "conservation", "biodiversity"]
 heroImage: "/images/articles/grassland-ecology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of grassland ecology"
+heroAlt: "Grassland ecology studies the ecosystems where grasses dominate, from prairies to savannas"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2610
 tier: "2"

@@ -5,10 +5,10 @@ description: "Pig farming is the raising of domestic pigs for pork, bacon, and o
 category: everyday-concepts
 tags: ["agriculture", "pigs", "farming", "pork", "livestock", "animal husbandry"]
 heroImage: "/images/articles/pig-farming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pig farming"
+heroAlt: "Pig farming is the raising of domestic pigs for pork, bacon, and other products"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 966
 tier: "3"

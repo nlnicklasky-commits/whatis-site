@@ -5,10 +5,10 @@ description: "Bowling is a sport where players roll a heavy ball down a lane to 
 category: everyday-concepts
 tags: ["bowling", "sports", "recreation", "pins", "lanes", "strike"]
 heroImage: "/images/articles/bowling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of bowling"
+heroAlt: "Bowling is a sport where players roll a heavy ball down a lane to knock down pins arranged in a triangle, scoring points based on pins toppled"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 911
 tier: "3"

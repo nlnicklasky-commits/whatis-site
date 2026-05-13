@@ -5,10 +5,10 @@ description: "Digital logic is the foundation of computing, using binary signals
 category: everyday-concepts
 tags: ["digital logic", "everyday-concepts"]
 heroImage: "/images/articles/digital-logic-hero.webp"
-heroAlt: "Editorial photograph representing the concept of digital logic"
+heroAlt: "Digital logic is the foundation of computing, using binary signals and logic gates to process information"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1100
 tier: "3"

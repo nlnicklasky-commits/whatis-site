@@ -5,10 +5,10 @@ description: "Sleight of hand is the art of using manual dexterity to perform ma
 category: arts-amp-culture
 tags: ["sleight of hand", "magic", "illusion", "close-up magic", "card tricks", "dexterity"]
 heroImage: "/images/articles/sleight-of-hand-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sleight of hand"
+heroAlt: "Sleight of hand is the art of using manual dexterity to perform magic tricks undetected"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 803
 tier: "3"

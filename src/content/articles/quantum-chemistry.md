@@ -5,10 +5,10 @@ description: "Quantum chemistry applies quantum mechanics to chemical systems, e
 category: science
 tags: ["quantum chemistry", "quantum mechanics", "chemistry", "molecular orbitals", "computational chemistry", "electronic structure"]
 heroImage: "/images/articles/quantum-chemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantum chemistry"
+heroAlt: "Quantum chemistry applies quantum mechanics to chemical systems, explaining molecular bonds, reactions, and properties through math and computation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2681
 tier: "2"

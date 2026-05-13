@@ -12,10 +12,10 @@ tags:
   - instinct
   - animal science
 heroImage: /images/articles/animal-behavior-hero.webp
-heroAlt: "Editorial photograph representing the concept of animal behavior"
+heroAlt: "Animal behavior is the scientific study of how animals act, interact, and respond to their environment — covering instinct, learning, and communication"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3300
 tier: "1"

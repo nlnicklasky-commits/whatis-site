@@ -5,10 +5,10 @@ description: "Fantasy literature features imaginary worlds, magic, and mythical 
 category: arts-amp-culture
 tags: ["literature", "fiction", "magic", "imaginary worlds", "mythology", "speculative fiction"]
 heroImage: "/images/articles/fantasy-literature-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fantasy literature"
+heroAlt: "Fantasy literature features imaginary worlds, magic, and mythical creatures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 913
 tier: "3"

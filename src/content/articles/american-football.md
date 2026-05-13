@@ -5,10 +5,10 @@ description: "American football is a team sport played on a 100-yard field where
 category: sports
 tags: ["american football", "football", "nfl", "sports", "gridiron", "super bowl"]
 heroImage: "/images/articles/american-football-hero.webp"
-heroAlt: "Editorial photograph representing the concept of american football"
+heroAlt: "American football is a team sport played on a 100-yard field where two teams of 11 compete to advance an oval ball into the opposing end zone"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1163
 tier: "3"

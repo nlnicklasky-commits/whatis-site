@@ -5,10 +5,10 @@ description: "Gemology is the science of identifying, grading, and valuing gemst
 category: everyday-concepts
 tags: ["gemology", "gemstones", "diamonds", "minerals", "jewelry", "geology"]
 heroImage: "/images/articles/gemology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gemology"
+heroAlt: "Gemology is the science of identifying, grading, and valuing gemstones"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 912
 tier: "3"

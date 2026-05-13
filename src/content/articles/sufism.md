@@ -5,10 +5,10 @@ description: "Sufism is the mystical tradition within Islam focused on direct pe
 category: philosophy
 tags: ["religion", "sufism", "islam", "mysticism", "spirituality", "meditation"]
 heroImage: "/images/articles/sufism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sufism"
+heroAlt: "Sufism is the mystical tradition within Islam focused on direct personal experience of God through devotion, meditation, and spiritual purification"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2318
 tier: "2"

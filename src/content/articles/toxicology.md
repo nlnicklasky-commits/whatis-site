@@ -5,10 +5,10 @@ description: "Toxicology is the science of poisons and their effects on living o
 category: science
 tags: ["toxicology", "pharmacology", "poisons"]
 heroImage: "/images/articles/toxicology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of toxicology"
+heroAlt: "Toxicology is the science of poisons and their effects on living organisms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2427
 tier: "2"

@@ -5,10 +5,10 @@ description: "Sushi making is the Japanese culinary art of preparing vinegared r
 category: arts-amp-culture
 tags: ["sushi making", "Japanese cuisine", "culinary arts", "cooking", "seafood", "rice"]
 heroImage: "/images/articles/sushi-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sushi making"
+heroAlt: "Sushi making is the Japanese culinary art of preparing vinegared rice with fish and other ingredients"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 813
 tier: "3"

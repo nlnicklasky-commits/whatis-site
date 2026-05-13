@@ -5,10 +5,10 @@ description: "Freshwater biology studies life in rivers, lakes, and wetlands. Le
 category: science
 tags: ["biology", "ecology", "aquatic ecosystems", "water quality", "conservation", "limnology", "biodiversity"]
 heroImage: "/images/articles/freshwater-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of freshwater biology"
+heroAlt: "Freshwater biology studies life in rivers, lakes, and wetlands"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2586
 tier: "2"

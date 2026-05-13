@@ -5,10 +5,10 @@ description: "Broadcasting is the transmission of audio or video content to a wi
 category: everyday-concepts
 tags: ["broadcasting", "radio", "television", "media", "communication", "journalism"]
 heroImage: "/images/articles/broadcasting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of broadcasting"
+heroAlt: "Broadcasting is the transmission of audio or video content to a wide audience through radio, television, or digital platforms simultaneously"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 881
 tier: "3"

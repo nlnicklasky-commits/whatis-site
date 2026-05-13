@@ -5,10 +5,10 @@ description: "Hydroponics is soilless plant growing using nutrient-rich water. L
 category: technology
 tags: ["hydroponics", "soilless growing", "agriculture", "gardening", "controlled environment", "urban farming", "nutrients"]
 heroImage: "/images/articles/hydroponics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hydroponics"
+heroAlt: "Hydroponics is soilless plant growing using nutrient-rich water"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2889
 tier: "2"

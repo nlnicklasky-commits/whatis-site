@@ -5,10 +5,10 @@ description: "Astrology is the belief that celestial bodies influence human affa
 category: philosophy
 tags: ["astrology", "horoscope", "zodiac", "pseudoscience", "divination", "natal chart", "spirituality"]
 heroImage: "/images/articles/astrology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of astrology"
+heroAlt: "Astrology is the belief that celestial bodies influence human affairs"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2455
 tier: "2"

@@ -5,10 +5,10 @@ description: "Celtic mythology is the collection of myths, legends, and religiou
 category: arts-amp-culture
 tags: ["Celtic mythology", "mythology", "Ireland", "folklore", "legends", "ancient religion"]
 heroImage: "/images/articles/celtic-mythology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of celtic mythology"
+heroAlt: "Celtic mythology is the collection of myths, legends, and religious beliefs of the Celtic peoples of ancient Ireland, Wales, Scotland, and Gaul"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1086
 tier: "3"

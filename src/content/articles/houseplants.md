@@ -5,10 +5,10 @@ description: "Houseplants are plants grown indoors for decoration, air quality, 
 category: everyday-concepts
 tags: ["houseplants", "plants", "indoor plants", "gardening", "horticulture", "home decor"]
 heroImage: "/images/articles/houseplants-hero.webp"
-heroAlt: "Editorial photograph representing the concept of houseplants"
+heroAlt: "Houseplants are plants grown indoors for decoration, air quality, and well-being"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 987
 tier: "3"

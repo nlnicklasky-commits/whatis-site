@@ -5,10 +5,10 @@ description: "App development is the process of creating software applications f
 category: technology
 tags: ["app development", "mobile development", "software development", "ios", "android", "ui", "ux"]
 heroImage: "/images/articles/app-development-hero.webp"
-heroAlt: "Editorial photograph representing the concept of app development? the complete guide to building software people actually use"
+heroAlt: "App development is the process of creating software applications for phones, tablets, and computers"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3295
 tier: "1"

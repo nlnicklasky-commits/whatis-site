@@ -5,10 +5,10 @@ description: "Country music is an American genre rooted in folk, blues, and gosp
 category: arts-amp-culture
 tags: ["country music", "music genre", "american music", "folk music", "blues", "nashville"]
 heroImage: "/images/articles/country-music-hero.webp"
-heroAlt: "Editorial photograph representing the concept of country music"
+heroAlt: "Country music is an American genre rooted in folk, blues, and gospel traditions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 934
 tier: "3"

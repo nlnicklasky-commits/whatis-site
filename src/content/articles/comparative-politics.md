@@ -5,10 +5,10 @@ description: "Comparative politics studies political systems across countries to
 category: everyday-concepts
 tags: ["comparative politics", "political science", "politics", "government", "political systems", "international relations"]
 heroImage: "/images/articles/comparative-politics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of comparative politics"
+heroAlt: "Comparative politics studies political systems across countries to understand how governments work"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 882
 tier: "3"

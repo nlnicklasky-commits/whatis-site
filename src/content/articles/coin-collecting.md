@@ -5,10 +5,10 @@ description: "Coin collecting (numismatics) is the hobby of acquiring and studyi
 category: everyday-concepts
 tags: ["coin collecting", "numismatics", "coins", "collectibles", "history", "hobbies"]
 heroImage: "/images/articles/coin-collecting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of coin collecting"
+heroAlt: "Coin collecting (numismatics) is the hobby of acquiring and studying coins"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1016
 tier: "3"

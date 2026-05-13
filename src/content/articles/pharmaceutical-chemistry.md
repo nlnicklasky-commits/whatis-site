@@ -5,10 +5,10 @@ description: "Pharmaceutical chemistry is the science of designing, synthesizing
 category: science
 tags: ["chemistry", "pharmacy", "drugs", "medicine", "drug discovery", "medicinal chemistry", "pharmacology"]
 heroImage: "/images/articles/pharmaceutical-chemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pharmaceutical chemistry"
+heroAlt: "Pharmaceutical chemistry is the science of designing, synthesizing, and optimizing drug molecules"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2807
 tier: "2"

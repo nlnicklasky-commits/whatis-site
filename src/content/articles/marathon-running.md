@@ -5,10 +5,10 @@ description: "Marathon running is the sport of racing 26.2 miles on foot. Learn 
 category: everyday-concepts
 tags: ["marathon running", "running", "endurance sports", "fitness", "athletics", "distance running"]
 heroImage: "/images/articles/marathon-running-hero.webp"
-heroAlt: "Editorial photograph representing the concept of marathon running"
+heroAlt: "Marathon running is the sport of racing 26"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1054
 tier: "3"

@@ -5,10 +5,10 @@ description: "Art history is the academic study of visual arts across time and c
 category: arts-amp-culture
 tags: ["art history", "history", "art", "visual arts", "painting", "sculpture"]
 heroImage: "/images/articles/art-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of art history"
+heroAlt: "Art history is the academic study of visual arts across time and cultures, examining how art reflects and shapes human civilization"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1026
 tier: "3"

@@ -5,10 +5,10 @@ description: "Apiculture is the practice of managing honey bee colonies to produ
 category: science
 tags: ["apiculture", "beekeeping", "honey bees", "bees", "pollination", "honey", "hive"]
 heroImage: "/images/articles/apiculture-beekeeping-hero.webp"
-heroAlt: "Editorial photograph representing the concept of apiculture (beekeeping)"
+heroAlt: "Apiculture is the practice of managing honey bee colonies to produce honey, wax, and pollination services"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2983
 tier: "2"

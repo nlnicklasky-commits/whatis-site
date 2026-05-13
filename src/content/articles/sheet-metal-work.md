@@ -5,10 +5,10 @@ description: "Sheet metal work is the process of forming flat metal sheets into 
 category: technology
 tags: ["sheet metal", "metalworking", "fabrication", "manufacturing", "bending", "welding", "industrial"]
 heroImage: "/images/articles/sheet-metal-work-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sheet metal work"
+heroAlt: "Sheet metal work is the process of forming flat metal sheets into parts and structures through cutting, bending, and joining techniques used across industries"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2773
 tier: "2"

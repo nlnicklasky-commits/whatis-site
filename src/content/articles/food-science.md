@@ -5,10 +5,10 @@ description: "Food science applies biology, chemistry, and engineering to unders
 category: science
 tags: ["food", "food safety", "nutrition", "food processing", "food preservation", "microbiology", "food engineering"]
 heroImage: "/images/articles/food-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of food science"
+heroAlt: "Food science applies biology, chemistry, and engineering to understand food production, preservation, safety, and nutrition from farm to fork"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2615
 tier: "2"

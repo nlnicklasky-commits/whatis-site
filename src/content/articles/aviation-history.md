@@ -5,10 +5,10 @@ description: "Aviation history traces humanity's quest for flight from early gli
 category: history
 tags: ["aviation history", "flight", "aircraft", "wright brothers", "aerospace"]
 heroImage: "/images/articles/aviation-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of aviation history"
+heroAlt: "Aviation history traces humanity's quest for flight from early gliders to supersonic jets, reshaping warfare, travel, and global commerce"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1689
 tier: "3"

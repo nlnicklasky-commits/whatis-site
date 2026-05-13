@@ -5,10 +5,10 @@ description: "Glass blowing shapes molten glass into art and functional objects 
 category: arts-amp-culture
 tags: ["glass blowing", "glass art", "craft", "artisan", "molten glass", "glassware"]
 heroImage: "/images/articles/glass-blowing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of glass blowing"
+heroAlt: "Glass blowing shapes molten glass into art and functional objects using air and tools"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 967
 tier: "3"

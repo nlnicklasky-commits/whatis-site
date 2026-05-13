@@ -5,10 +5,10 @@ description: "Curling is a winter sport where players slide stones across ice to
 category: sports
 tags: ["curling", "ice sport", "winter sports", "strategy", "team sport", "granite"]
 heroImage: "/images/articles/curling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of curling"
+heroAlt: "Curling is a winter sport where players slide stones across ice toward a target"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 952
 tier: "3"

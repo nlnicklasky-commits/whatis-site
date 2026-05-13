@@ -5,10 +5,10 @@ description: "Floral design is the art of arranging flowers and foliage into dec
 category: arts-amp-culture
 tags: ["floristry", "flowers", "arrangement", "design", "botanical art", "event decor"]
 heroImage: "/images/articles/floral-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of floral design"
+heroAlt: "Floral design is the art of arranging flowers and foliage into decorative compositions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 911
 tier: "3"

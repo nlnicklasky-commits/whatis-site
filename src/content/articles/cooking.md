@@ -5,10 +5,10 @@ description: "Cooking is the practice of preparing food using heat and technique
 category: everyday-concepts
 tags: ["food", "culinary arts", "nutrition", "baking", "grilling", "meal preparation"]
 heroImage: "/images/articles/cooking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cooking"
+heroAlt: "Cooking is the practice of preparing food using heat and technique"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1041
 tier: "3"

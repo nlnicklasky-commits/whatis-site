@@ -5,10 +5,10 @@ description: "Object-oriented programming organizes code into objects that combi
 category: everyday-concepts
 tags: ["object oriented programming", "software development", "coding", "classes", "inheritance", "polymorphism"]
 heroImage: "/images/articles/object-oriented-programming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of object-oriented programming"
+heroAlt: "Object-oriented programming organizes code into objects that combine data and behavior"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1088
 tier: "3"

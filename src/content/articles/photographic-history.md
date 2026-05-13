@@ -5,10 +5,10 @@ description: "Photographic history traces the evolution of photography from earl
 category: arts-amp-culture
 tags: ["photography", "history", "art", "camera", "image", "visual arts"]
 heroImage: "/images/articles/photographic-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of photographic history"
+heroAlt: "Photographic history traces the evolution of photography from early experiments to digital imaging"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1034
 tier: "3"

@@ -5,10 +5,10 @@ description: "Ballroom dancing is a set of partner dances performed socially and
 category: everyday-concepts
 tags: ["ballroom dancing", "dance", "partner dance", "waltz", "tango", "competitive dance"]
 heroImage: "/images/articles/ballroom-dancing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ballroom dancing"
+heroAlt: "Ballroom dancing is a set of partner dances performed socially and competitively, including waltz, tango, foxtrot, cha-cha, and samba"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 983
 tier: "3"

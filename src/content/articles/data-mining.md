@@ -5,10 +5,10 @@ description: "Data mining extracts patterns from large datasets using statistics
 category: technology
 tags: ["data mining", "machine learning", "data science", "pattern recognition", "analytics", "algorithms", "big data"]
 heroImage: "/images/articles/data-mining-hero.webp"
-heroAlt: "Editorial photograph representing the concept of data mining"
+heroAlt: "Data mining extracts patterns from large datasets using statistics and machine learning"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2762
 tier: "2"

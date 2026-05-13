@@ -5,10 +5,10 @@ description: "Recycling converts waste materials into new products, reducing lan
 category: everyday-concepts
 tags: ["recycling", "environment", "waste management", "sustainability", "conservation", "materials"]
 heroImage: "/images/articles/recycling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of recycling"
+heroAlt: "Recycling converts waste materials into new products, reducing landfill use and conserving resources"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 872
 tier: "3"

@@ -5,10 +5,10 @@ description: "Beer brewing is the process of making beer by steeping grain in wa
 category: everyday-concepts
 tags: ["beer brewing", "brewing", "beer", "hops", "malt", "yeast"]
 heroImage: "/images/articles/beer-brewing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of beer brewing"
+heroAlt: "Beer brewing is the process of making beer by steeping grain in water, boiling with hops, and fermenting with yeast to produce an alcoholic beverage"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1004
 tier: "3"

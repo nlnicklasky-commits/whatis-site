@@ -5,10 +5,10 @@ description: "Music composition is the art of creating original musical works. L
 category: arts-amp-culture
 tags: ["music composition", "composing", "songwriting", "music theory", "classical music", "music creation"]
 heroImage: "/images/articles/music-composition-hero.webp"
-heroAlt: "Editorial photograph representing the concept of music composition"
+heroAlt: "Music composition is the art of creating original musical works"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 982
 tier: "3"

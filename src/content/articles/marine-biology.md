@@ -5,10 +5,10 @@ description: "Marine biology is the study of ocean life, from microscopic plankt
 category: science
 tags: ["marine biology", "ocean", "marine life", "ecology", "conservation", "oceanography", "biodiversity"]
 heroImage: "/images/articles/marine-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of marine biology"
+heroAlt: "Marine biology is the study of ocean life, from microscopic plankton to blue whales, covering ecology, conservation, and how marine ecosystems actually work"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3051
 tier: "1"

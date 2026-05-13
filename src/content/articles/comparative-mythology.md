@@ -5,10 +5,10 @@ description: "Comparative mythology studies shared themes and motifs across diff
 category: arts-amp-culture
 tags: ["comparative mythology", "mythology", "folklore", "archetypes", "cultural studies", "religious studies"]
 heroImage: "/images/articles/comparative-mythology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of comparative mythology"
+heroAlt: "Comparative mythology studies shared themes and motifs across different cultures' myths"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 945
 tier: "3"

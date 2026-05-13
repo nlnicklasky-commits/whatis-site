@@ -5,10 +5,10 @@ description: "Horticulture is the science and art of growing fruits, vegetables,
 category: science
 tags: ["horticulture", "gardening", "plants", "agriculture", "botany", "landscape design", "plant science"]
 heroImage: "/images/articles/horticulture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of horticulture"
+heroAlt: "Horticulture is the science and art of growing fruits, vegetables, flowers, and ornamental plants"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3077
 tier: "1"

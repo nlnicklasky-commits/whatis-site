@@ -5,10 +5,10 @@ description: "Hot air ballooning is flight using heated air inside a fabric enve
 category: everyday-concepts
 tags: ["hot air ballooning", "hot air balloon", "aviation", "flight", "aerodynamics", "adventure"]
 heroImage: "/images/articles/hot-air-ballooning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hot air ballooning"
+heroAlt: "Hot air ballooning is flight using heated air inside a fabric envelope for lift"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1040
 tier: "3"

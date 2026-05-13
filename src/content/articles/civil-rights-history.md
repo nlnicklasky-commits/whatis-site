@@ -5,10 +5,10 @@ description: "Civil rights history traces the struggle for legal equality and so
 category: history
 tags: ["civil rights", "civil rights movement", "african american history", "social justice", "equality"]
 heroImage: "/images/articles/civil-rights-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of civil rights history"
+heroAlt: "Civil rights history traces the struggle for legal equality and social justice, from abolition movements to landmark legislation like the Civil Rights Act"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1656
 tier: "3"

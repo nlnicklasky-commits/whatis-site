@@ -5,10 +5,10 @@ description: "United States history covers the American story from colonial sett
 category: history
 tags: ["united states history", "american history", "us government", "democracy"]
 heroImage: "/images/articles/united-states-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of united states history"
+heroAlt: "United States history covers the American story from colonial settlement and revolution through civil war, industrialization, and superpower status"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1628
 tier: "3"

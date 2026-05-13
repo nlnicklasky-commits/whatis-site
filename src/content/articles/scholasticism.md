@@ -5,10 +5,10 @@ description: "Scholasticism was a medieval method of learning that used logic an
 category: everyday-concepts
 tags: ["scholasticism", "medieval philosophy", "theology", "logic", "Thomas Aquinas", "university"]
 heroImage: "/images/articles/scholasticism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of scholasticism"
+heroAlt: "Scholasticism was a medieval method of learning that used logic and debate to reconcile faith with reason"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1105
 tier: "3"

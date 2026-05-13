@@ -5,10 +5,10 @@ description: "Medical terminology is the standardized language used by healthcar
 category: everyday-concepts
 tags: ["medical terminology", "healthcare", "anatomy", "medicine", "Latin", "Greek roots"]
 heroImage: "/images/articles/medical-terminology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of medical terminology"
+heroAlt: "Medical terminology is the standardized language used by healthcare professionals to describe the body, diseases, and treatments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 997
 tier: "3"

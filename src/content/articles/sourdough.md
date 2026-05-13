@@ -5,10 +5,10 @@ description: "Sourdough is bread made through slow fermentation using wild yeast
 category: food-and-drink
 tags: ["sourdough", "bread", "fermentation", "baking", "starter", "wild yeast"]
 heroImage: "/images/articles/sourdough-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sourdough"
+heroAlt: "Sourdough is bread made through slow fermentation using wild yeast and bacteria — here's how it works and why it tastes better"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1429
 tier: "3"

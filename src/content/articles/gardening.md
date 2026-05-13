@@ -5,10 +5,10 @@ description: "Gardening is the practice of growing plants for food, beauty, or e
 category: everyday-concepts
 tags: ["gardening", "plants", "horticulture", "agriculture", "vegetables", "flowers"]
 heroImage: "/images/articles/gardening-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gardening"
+heroAlt: "Gardening is the practice of growing plants for food, beauty, or enjoyment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1049
 tier: "3"

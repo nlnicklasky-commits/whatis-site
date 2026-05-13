@@ -5,10 +5,10 @@ description: "Fossil collecting is the practice of finding, extracting, and pres
 category: science
 tags: ["paleontology", "geology", "fossils", "ancient life", "evolution", "earth science", "natural history"]
 heroImage: "/images/articles/fossil-collecting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fossil collecting"
+heroAlt: "Fossil collecting is the practice of finding, extracting, and preserving fossilized remains of ancient organisms from sedimentary rock formations"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2647
 tier: "2"

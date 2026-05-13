@@ -5,10 +5,10 @@ description: "Formal languages are mathematically defined sets of strings used i
 category: everyday-concepts
 tags: ["formal languages", "computer science", "automata theory", "grammar", "programming", "linguistics"]
 heroImage: "/images/articles/formal-languages-hero.webp"
-heroAlt: "Editorial photograph representing the concept of formal languages"
+heroAlt: "Formal languages are mathematically defined sets of strings used in computer science and linguistics"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 971
 tier: "3"

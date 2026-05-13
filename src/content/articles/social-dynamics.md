@@ -5,10 +5,10 @@ description: "Social dynamics studies how individuals interact and how group beh
 category: social-sciences
 tags: ["social dynamics", "group behavior", "social influence", "networks", "sociology", "psychology"]
 heroImage: "/images/articles/social-dynamics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social dynamics"
+heroAlt: "Social dynamics studies how individuals interact and how group behaviors emerge from those interactions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 805
 tier: "3"

@@ -5,10 +5,10 @@ description: "Microscopy is the science of using microscopes to see objects too 
 category: science
 tags: ["microscopy", "microscopes", "biology", "optics", "imaging", "nanotechnology", "science"]
 heroImage: "/images/articles/microscopy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of microscopy"
+heroAlt: "Microscopy is the science of using microscopes to see objects too small for the naked eye"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2908
 tier: "2"

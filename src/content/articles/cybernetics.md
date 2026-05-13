@@ -5,10 +5,10 @@ description: "Cybernetics studies how systems regulate themselves through feedba
 category: technology
 tags: ["cybernetics", "systems theory", "control systems", "feedback loops", "ai", "robotics", "communication"]
 heroImage: "/images/articles/cybernetics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cybernetics"
+heroAlt: "Cybernetics studies how systems regulate themselves through feedback"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2359
 tier: "2"

@@ -5,10 +5,10 @@ description: "Salsa dancing is a partner dance originating from Cuban and Puerto
 category: everyday-concepts
 tags: ["salsa dancing", "dance", "Latin dance", "partner dance", "music", "rhythm"]
 heroImage: "/images/articles/salsa-dancing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of salsa dancing"
+heroAlt: "Salsa dancing is a partner dance originating from Cuban and Puerto Rican music traditions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1139
 tier: "3"

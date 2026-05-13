@@ -5,10 +5,10 @@ description: "Wall painting is the art of applying pigment directly to walls and
 category: arts-amp-culture
 tags: ["wall painting", "murals", "fresco", "art", "public art", "visual arts"]
 heroImage: "/images/articles/wall-painting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of wall painting"
+heroAlt: "Wall painting is the art of applying pigment directly to walls and ceilings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 815
 tier: "3"

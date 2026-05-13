@@ -5,10 +5,10 @@ description: "Film production is the process of making a movie, from initial con
 category: arts-amp-culture
 tags: ["film", "cinema", "movie making", "filmmaking", "production", "pre-production"]
 heroImage: "/images/articles/film-production-hero.webp"
-heroAlt: "Editorial photograph representing the concept of film production"
+heroAlt: "Film production is the process of making a movie, from initial concept to final distribution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 956
 tier: "3"

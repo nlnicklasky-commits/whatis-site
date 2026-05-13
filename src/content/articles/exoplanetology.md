@@ -5,10 +5,10 @@ description: "Exoplanetology is the study of planets orbiting stars beyond our S
 category: science
 tags: ["exoplanetology", "exoplanets", "astronomy", "space", "habitable zone", "astrobiology", "planet discovery"]
 heroImage: "/images/articles/exoplanetology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of exoplanetology"
+heroAlt: "Exoplanetology is the study of planets orbiting stars beyond our Sun"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2413
 tier: "2"

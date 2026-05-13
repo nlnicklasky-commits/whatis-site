@@ -5,10 +5,10 @@ description: "Lacrosse is a team sport played with sticks and a ball, originatin
 category: everyday-concepts
 tags: ["lacrosse", "team sports", "Native American", "stick sports", "athletics"]
 heroImage: "/images/articles/lacrosse-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lacrosse"
+heroAlt: "Lacrosse is a team sport played with sticks and a ball, originating from Native American traditions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 972
 tier: "3"

@@ -5,10 +5,10 @@ description: "Confectionery is the art and business of making sweets, candies, a
 category: everyday-concepts
 tags: ["food", "sweets", "cooking", "baking", "desserts", "culinary arts"]
 heroImage: "/images/articles/confectionery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of confectionery"
+heroAlt: "Confectionery is the art and business of making sweets, candies, and chocolate"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 945
 tier: "3"

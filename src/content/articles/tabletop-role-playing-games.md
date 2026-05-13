@@ -5,10 +5,10 @@ description: "Tabletop RPGs are games where players create characters and tell s
 category: everyday-concepts
 tags: ["tabletop role playing games", "RPG", "Dungeons and Dragons", "gaming", "storytelling", "dice"]
 heroImage: "/images/articles/tabletop-role-playing-games-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tabletop role-playing games"
+heroAlt: "Tabletop RPGs are games where players create characters and tell stories together, guided by rules and dice"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 799
 tier: "3"

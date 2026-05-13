@@ -5,10 +5,10 @@ description: "Guerrilla marketing uses unconventional, low-cost tactics to promo
 category: everyday-concepts
 tags: ["guerrilla marketing", "marketing", "advertising", "branding", "viral marketing", "unconventional"]
 heroImage: "/images/articles/guerrilla-marketing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of guerrilla marketing"
+heroAlt: "Guerrilla marketing uses unconventional, low-cost tactics to promote products through surprise and creativity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 986
 tier: "3"

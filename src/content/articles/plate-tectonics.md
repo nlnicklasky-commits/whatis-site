@@ -5,10 +5,10 @@ description: "Plate tectonics explains how Earth's outer shell is broken into mo
 category: everyday-concepts
 tags: ["plate tectonics", "geology", "earthquakes", "volcanoes", "continental drift"]
 heroImage: "/images/articles/plate-tectonics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of plate tectonics"
+heroAlt: "Plate tectonics explains how Earth's outer shell is broken into moving plates that cause earthquakes, volcanoes, and continental drift"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1327
 tier: "3"

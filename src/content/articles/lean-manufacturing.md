@@ -5,10 +5,10 @@ description: "Lean manufacturing is a production method focused on eliminating w
 category: technology
 tags: ["lean manufacturing", "toyota production system", "waste reduction", "continuous improvement", "kaizen", "just-in-time", "efficiency"]
 heroImage: "/images/articles/lean-manufacturing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lean manufacturing"
+heroAlt: "Lean manufacturing is a production method focused on eliminating waste and maximizing value"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3166
 tier: "1"

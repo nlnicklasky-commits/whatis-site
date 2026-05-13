@@ -5,10 +5,10 @@ description: "Metalworking is the process of shaping, cutting, and joining metal
 category: technology
 tags: ["metalworking", "machining", "welding", "fabrication", "manufacturing", "metals", "tools"]
 heroImage: "/images/articles/metalworking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of metalworking"
+heroAlt: "Metalworking is the process of shaping, cutting, and joining metals into useful objects"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2369
 tier: "2"

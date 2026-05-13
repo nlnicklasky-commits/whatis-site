@@ -5,10 +5,10 @@ description: "First aid is emergency care given before professional medical help
 category: everyday-concepts
 tags: ["first aid", "emergency care", "CPR", "medical training", "health", "safety"]
 heroImage: "/images/articles/first-aid-hero.webp"
-heroAlt: "Editorial photograph representing the concept of first aid"
+heroAlt: "First aid is emergency care given before professional medical help arrives"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1033
 tier: "3"

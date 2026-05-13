@@ -5,10 +5,10 @@ description: "Information security protects data from unauthorized access and th
 category: technology
 tags: ["information security", "cybersecurity", "infosec", "data protection", "confidentiality", "integrity", "availability"]
 heroImage: "/images/articles/information-security-hero.webp"
-heroAlt: "Editorial photograph representing the concept of information security"
+heroAlt: "Information security protects data from unauthorized access and threats"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2705
 tier: "2"

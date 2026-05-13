@@ -5,10 +5,10 @@ description: "Dendrology is the scientific study of trees and woody plants, cove
 category: science
 tags: ["dendrology", "trees", "botany", "forestry", "plant science", "ecology", "arboriculture"]
 heroImage: "/images/articles/dendrology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of dendrology"
+heroAlt: "Dendrology is the scientific study of trees and woody plants, covering identification, classification, ecology, and conservation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2464
 tier: "2"

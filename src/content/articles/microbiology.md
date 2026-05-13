@@ -5,10 +5,10 @@ description: "Microbiology studies bacteria, viruses, fungi, and other microorga
 category: science
 tags: ["microbiology", "bacteria", "viruses", "fungi", "microorganisms", "biology", "infectious disease"]
 heroImage: "/images/articles/microbiology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of microbiology"
+heroAlt: "Microbiology studies bacteria, viruses, fungi, and other microorganisms"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2588
 tier: "2"

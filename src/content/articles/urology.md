@@ -5,10 +5,10 @@ description: "Urology is the medical specialty focused on the urinary tract and 
 category: health-amp-wellness
 tags: ["urology", "urinary tract", "kidney", "bladder", "medicine"]
 heroImage: "/images/articles/urology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of urology"
+heroAlt: "Urology is the medical specialty focused on the urinary tract and male reproductive system"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1508
 tier: "3"

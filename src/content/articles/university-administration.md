@@ -5,10 +5,10 @@ description: "University administration manages the operations, finances, and st
 category: everyday-concepts
 tags: ["university administration", "higher education", "academic management", "college", "education", "governance"]
 heroImage: "/images/articles/university-administration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of university administration"
+heroAlt: "University administration manages the operations, finances, and strategy of higher education institutions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1007
 tier: "3"

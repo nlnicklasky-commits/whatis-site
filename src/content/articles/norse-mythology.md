@@ -5,10 +5,10 @@ description: "Norse mythology is the collection of myths from ancient Scandinavi
 category: arts-amp-culture
 tags: ["norse mythology", "viking age", "mythology", "odin", "thor", "loki"]
 heroImage: "/images/articles/norse-mythology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of norse mythology"
+heroAlt: "Norse mythology is the collection of myths from ancient Scandinavia featuring gods like Odin, Thor, and Loki"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1076
 tier: "3"

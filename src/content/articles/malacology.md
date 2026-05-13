@@ -5,10 +5,10 @@ description: "Malacology is the study of mollusks like snails, clams, and octopu
 category: science
 tags: ["malacology", "mollusks", "biology", "zoology", "shells", "marine biology", "invertebrates"]
 heroImage: "/images/articles/malacology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of malacology"
+heroAlt: "Malacology is the study of mollusks like snails, clams, and octopuses"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2167
 tier: "2"

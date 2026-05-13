@@ -5,10 +5,10 @@ description: "Lighthouses are tower structures built on coastlines or offshore t
 category: history
 tags: ["maritime history", "lighthouses", "navigation", "architecture", "coastal safety"]
 heroImage: "/images/articles/lighthouses-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lighthouses"
+heroAlt: "Lighthouses are tower structures built on coastlines or offshore to project light signals that guide ships and warn sailors of hazards"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1819
 tier: "3"

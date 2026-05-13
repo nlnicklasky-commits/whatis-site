@@ -5,10 +5,10 @@ description: "Gaming is interactive electronic entertainment played on consoles,
 category: everyday-concepts
 tags: ["gaming", "video games", "esports", "interactive entertainment", "game culture", "hobby"]
 heroImage: "/images/articles/gaming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of gaming"
+heroAlt: "Gaming is interactive electronic entertainment played on consoles, PCs, and mobile devices"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1033
 tier: "3"

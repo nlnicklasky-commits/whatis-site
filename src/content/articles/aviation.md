@@ -5,10 +5,10 @@ description: "Aviation is the science and practice of flight. Learn about aerody
 category: technology
 tags: ["aviation", "flight", "aircraft", "airplanes", "aerodynamics", "aerospace", "pilot"]
 heroImage: "/images/articles/aviation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of aviation"
+heroAlt: "Aviation is the science and practice of flight"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2622
 tier: "2"

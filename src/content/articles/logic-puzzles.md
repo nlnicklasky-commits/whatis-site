@@ -5,10 +5,10 @@ description: "Logic puzzles are brain teasers solved through deductive reasoning
 category: everyday-concepts
 tags: ["logic puzzles", "puzzles", "brain teasers", "deductive reasoning", "games", "critical thinking"]
 heroImage: "/images/articles/logic-puzzles-hero.webp"
-heroAlt: "Editorial photograph representing the concept of logic puzzles"
+heroAlt: "Logic puzzles are brain teasers solved through deductive reasoning rather than guesswork"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1077
 tier: "3"

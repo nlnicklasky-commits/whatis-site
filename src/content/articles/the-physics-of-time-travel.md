@@ -5,10 +5,10 @@ description: "The physics of time travel explores whether moving through time is
 category: science
 tags: ["physics of time travel", "time travel", "relativity", "time dilation", "wormholes"]
 heroImage: "/images/articles/the-physics-of-time-travel-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the physics of time travel"
+heroAlt: "The physics of time travel explores whether moving through time is possible under known physical laws"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2539
 tier: "2"

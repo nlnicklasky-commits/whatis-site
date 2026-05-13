@@ -5,10 +5,10 @@ description: "Couponing is the practice of using discount vouchers to save money
 category: everyday-concepts
 tags: ["couponing", "savings", "discounts", "frugal", "budgeting", "shopping"]
 heroImage: "/images/articles/couponing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of couponing"
+heroAlt: "Couponing is the practice of using discount vouchers to save money on purchases"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 954
 tier: "3"

@@ -5,10 +5,10 @@ description: "Stonemasonry is the craft of cutting, shaping, and building with s
 category: everyday-concepts
 tags: ["stonemasonry", "masonry", "construction", "craft", "architecture", "stone"]
 heroImage: "/images/articles/stonemasonry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of stonemasonry"
+heroAlt: "Stonemasonry is the craft of cutting, shaping, and building with stone"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 698
 tier: "3"

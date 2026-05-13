@@ -5,10 +5,10 @@ description: "Literary theory provides frameworks for interpreting texts. Learn 
 category: everyday-concepts
 tags: ["literary theory", "criticism", "structuralism", "deconstruction", "humanities", "interpretation"]
 heroImage: "/images/articles/literary-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of literary theory"
+heroAlt: "Literary theory provides frameworks for interpreting texts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1097
 tier: "3"

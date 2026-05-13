@@ -5,10 +5,10 @@ description: "Real estate law governs ownership, use, and transfer of land and b
 category: law
 tags: ["real estate", "property law", "legal", "conveyancing"]
 heroImage: "/images/articles/real-estate-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of real estate law"
+heroAlt: "Real estate law governs ownership, use, and transfer of land and buildings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1668
 tier: "3"

@@ -5,10 +5,10 @@ description: "Museology is the study of museums, their purpose, organization, an
 category: arts-amp-culture
 tags: ["museology", "museums", "curation", "museum studies", "cultural heritage", "preservation"]
 heroImage: "/images/articles/museology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of museology"
+heroAlt: "Museology is the study of museums, their purpose, organization, and role in society"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 986
 tier: "3"

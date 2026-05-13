@@ -5,10 +5,10 @@ description: "Sandblasting uses high-pressure abrasive media to clean, smooth, o
 category: technology
 tags: ["abrasive blasting", "surface cleaning", "surface preparation", "etching", "industrial process", "cleaning"]
 heroImage: "/images/articles/sandblasting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sandblasting"
+heroAlt: "Sandblasting uses high-pressure abrasive media to clean, smooth, or etch surfaces"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3500
 tier: "1"

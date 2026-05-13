@@ -5,10 +5,10 @@ description: "Horse racing is a competitive sport where thoroughbreds race on tr
 category: sports
 tags: ["horse racing", "sports", "thoroughbred", "equestrian", "betting", "Triple Crown"]
 heroImage: "/images/articles/horse-racing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of horse racing"
+heroAlt: "Horse racing is a competitive sport where thoroughbreds race on tracks for speed"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1032
 tier: "3"

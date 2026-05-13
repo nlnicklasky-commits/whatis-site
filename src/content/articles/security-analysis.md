@@ -5,10 +5,10 @@ description: "Security analysis evaluates financial instruments to determine the
 category: finance
 tags: ["security analysis", "investment", "finance", "stock market", "fundamental analysis", "technical analysis"]
 heroImage: "/images/articles/security-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of security analysis"
+heroAlt: "Security analysis evaluates financial instruments to determine their value and risk through fundamental analysis, technical analysis, and valuation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2962
 tier: "2"

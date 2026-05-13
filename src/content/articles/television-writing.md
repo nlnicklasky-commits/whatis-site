@@ -5,10 +5,10 @@ description: "Television writing is the craft of creating scripts for TV shows. 
 category: arts-amp-culture
 tags: ["television writing", "tv writing", "screenwriting", "scriptwriting", "showrunner", "writers' room"]
 heroImage: "/images/articles/television-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of television writing"
+heroAlt: "Television writing is the craft of creating scripts for TV shows"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 890
 tier: "3"

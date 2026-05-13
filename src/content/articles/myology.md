@@ -5,10 +5,10 @@ description: "Myology is the study of muscles — their structure, function, and
 category: science
 tags: ["myology", "muscles", "anatomy", "physiology", "biomechanics", "muscle contraction", "myopathies"]
 heroImage: "/images/articles/myology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of myology"
+heroAlt: "Myology is the study of muscles — their structure, function, and diseases"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2626
 tier: "2"

@@ -5,10 +5,10 @@ description: "Engine repair is the process of diagnosing and fixing mechanical p
 category: technology
 tags: ["engine repair", "automotive", "mechanics", "internal combustion engine", "vehicle maintenance", "diagnostics", "repair"]
 heroImage: "/images/articles/engine-repair-hero.webp"
-heroAlt: "Editorial photograph representing the concept of engine repair"
+heroAlt: "Engine repair is the process of diagnosing and fixing mechanical problems in internal combustion engines"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2399
 tier: "2"

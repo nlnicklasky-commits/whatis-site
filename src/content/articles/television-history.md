@@ -5,10 +5,10 @@ description: "Television history spans from 1920s mechanical experiments to mode
 category: history
 tags: ["television history", "media history", "broadcasting", "tv", "entertainment"]
 heroImage: "/images/articles/television-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of television history"
+heroAlt: "Television history spans from 1920s mechanical experiments to modern streaming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1700
 tier: "3"

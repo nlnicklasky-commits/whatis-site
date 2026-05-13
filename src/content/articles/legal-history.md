@@ -5,10 +5,10 @@ description: "Legal history studies how laws, legal institutions, and judicial t
 category: history
 tags: ["law", "legal history", "jurisprudence", "courts", "civil rights"]
 heroImage: "/images/articles/legal-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of legal history"
+heroAlt: "Legal history studies how laws, legal institutions, and judicial thinking have evolved across societies and centuries"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1833
 tier: "3"

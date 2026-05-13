@@ -5,10 +5,10 @@ description: "Pattern recognition identifies regularities in data using algorith
 category: technology
 tags: ["pattern recognition", "machine learning", "artificial intelligence", "classification", "computer vision", "algorithms"]
 heroImage: "/images/articles/pattern-recognition-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pattern recognition"
+heroAlt: "Pattern recognition identifies regularities in data using algorithms and statistical models"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2487
 tier: "2"

@@ -5,10 +5,10 @@ description: "Learn how blockchain technology works: distributed ledgers, crypto
 category: technology
 tags: ["blockchain", "cryptocurrency", "distributed-ledger", "bitcoin", "decentralization", "web3"]
 heroImage: "/images/articles/blockchain-hero.webp"
-heroAlt: "Editorial photograph representing the concept of blockchain"
+heroAlt: "Learn how blockchain technology works: distributed ledgers, cryptography, consensus mechanisms, and real-world applications beyond cryptocurrency"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2209
 tier: "2"

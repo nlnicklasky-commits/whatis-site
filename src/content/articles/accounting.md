@@ -5,10 +5,10 @@ description: "Accounting is the system for recording, summarizing, and reporting
 category: finance
 tags: ["accounting", "finance", "bookkeeping", "financial statements", "gaap", "business", "economics"]
 heroImage: "/images/articles/accounting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of accounting"
+heroAlt: "Accounting is the system for recording, summarizing, and reporting financial transactions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3247
 tier: "1"

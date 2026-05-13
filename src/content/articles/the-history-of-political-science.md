@@ -5,10 +5,10 @@ description: "The history of political science traces how the study of governmen
 category: history
 tags: ["history of political science", "political science", "governance", "democracy"]
 heroImage: "/images/articles/the-history-of-political-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of political science"
+heroAlt: "The history of political science traces how the study of government, power, and governance evolved from ancient philosophy to modern research"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1586
 tier: "3"

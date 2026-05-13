@@ -5,10 +5,10 @@ description: "Self-defense is the right and ability to protect yourself from phy
 category: health-amp-wellness
 tags: ["self-defense", "personal safety", "martial arts", "conflict management"]
 heroImage: "/images/articles/self-defense-hero.webp"
-heroAlt: "Editorial photograph representing the concept of self-defense"
+heroAlt: "Self-defense is the right and ability to protect yourself from physical harm using awareness, de-escalation, and physical techniques"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1860
 tier: "3"

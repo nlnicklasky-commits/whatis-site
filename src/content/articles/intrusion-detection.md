@@ -5,10 +5,10 @@ description: "Intrusion detection is the process of monitoring networks and syst
 category: technology
 tags: ["intrusion detection", "ids", "cybersecurity", "network security", "cyber threats", "security monitoring", "anomaly detection"]
 heroImage: "/images/articles/intrusion-detection-hero.webp"
-heroAlt: "Editorial photograph representing the concept of intrusion detection"
+heroAlt: "Intrusion detection is the process of monitoring networks and systems for unauthorized access, malicious activity, or policy violations using automated tools"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2536
 tier: "2"

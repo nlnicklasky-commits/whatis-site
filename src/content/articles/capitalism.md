@@ -5,10 +5,10 @@ description: "Capitalism is an economic system where private individuals own the
 category: finance
 tags: ["capitalism", "economics", "market economy", "private ownership", "profit", "competition", "free market"]
 heroImage: "/images/articles/capitalism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of capitalism"
+heroAlt: "Capitalism is an economic system where private individuals own the means of production and trade goods in free markets driven by supply, demand, and profit"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2752
 tier: "2"

@@ -5,10 +5,10 @@ description: "Skiing is a winter sport where you glide over snow on long, narrow
 category: sports
 tags: ["skiing", "winter sports", "snow", "alpine skiing", "cross-country skiing", "ski resort"]
 heroImage: "/images/articles/skiing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of skiing"
+heroAlt: "Skiing is a winter sport where you glide over snow on long, narrow boards attached to boots"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1055
 tier: "3"

@@ -5,10 +5,10 @@ description: "Mexican history spans ancient Mesoamerican civilizations through S
 category: history
 tags: ["history", "mexico", "latin america"]
 heroImage: "/images/articles/mexican-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mexican history"
+heroAlt: "Mexican history spans ancient Mesoamerican civilizations through Spanish colonization to modern democracy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1542
 tier: "3"

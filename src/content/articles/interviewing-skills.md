@@ -5,10 +5,10 @@ description: "Interviewing skills are techniques for performing well in job inte
 category: everyday-concepts
 tags: ["interviewing skills", "job search", "career", "communication", "hiring"]
 heroImage: "/images/articles/interviewing-skills-hero.webp"
-heroAlt: "Editorial photograph representing the concept of interviewing skills"
+heroAlt: "Interviewing skills are techniques for performing well in job interviews"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 900
 tier: "3"

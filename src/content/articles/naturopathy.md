@@ -5,10 +5,10 @@ description: "Naturopathy is a form of medicine using natural therapies like her
 category: health-amp-wellness
 tags: ["naturopathy", "natural medicine", "alternative medicine", "preventative care"]
 heroImage: "/images/articles/naturopathy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of naturopathy"
+heroAlt: "Naturopathy is a form of medicine using natural therapies like herbs, nutrition, and lifestyle changes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1533
 tier: "3"

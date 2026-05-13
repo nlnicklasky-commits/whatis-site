@@ -5,10 +5,10 @@ description: "Tennis is a racket sport played by hitting a ball over a net on a 
 category: sports
 tags: ["tennis", "racket sport", "court", "Grand Slam", "ATP", "WTA"]
 heroImage: "/images/articles/tennis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tennis"
+heroAlt: "Tennis is a racket sport played by hitting a ball over a net on a court"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 850
 tier: "3"

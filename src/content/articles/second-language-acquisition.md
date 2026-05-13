@@ -5,10 +5,10 @@ description: "Second language acquisition is how people learn languages beyond t
 category: education
 tags: ["second language", "language learning", "language acquisition", "linguistics", "bilingualism", "foreign language"]
 heroImage: "/images/articles/second-language-acquisition-hero.webp"
-heroAlt: "Editorial photograph representing the concept of second language acquisition"
+heroAlt: "Second language acquisition is how people learn languages beyond their mother tongue"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1205
 tier: "3"

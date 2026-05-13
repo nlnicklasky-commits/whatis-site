@@ -5,10 +5,10 @@ description: "Oligopoly theory studies markets dominated by a few large firms. L
 category: finance
 tags: ["oligopoly", "market structure", "economics", "game theory", "industrial organization", "market competition"]
 heroImage: "/images/articles/oligopoly-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of oligopoly theory"
+heroAlt: "Oligopoly theory studies markets dominated by a few large firms"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2408
 tier: "2"

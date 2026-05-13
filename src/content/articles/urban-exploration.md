@@ -5,10 +5,10 @@ description: "Urban exploration is the hobby of visiting abandoned or hidden man
 category: everyday-concepts
 tags: ["urban exploration", "urbex", "abandoned places", "photography", "adventure", "subculture"]
 heroImage: "/images/articles/urban-exploration-hero.webp"
-heroAlt: "Editorial photograph representing the concept of urban exploration"
+heroAlt: "Urban exploration is the hobby of visiting abandoned or hidden man-made structures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 973
 tier: "3"

@@ -5,10 +5,10 @@ description: "Crystallography determines crystal atomic structure using X-ray di
 category: science
 tags: ["crystallography", "crystals", "atomic structure", "x-ray diffraction", "materials science", "chemistry", "physics"]
 heroImage: "/images/articles/crystallography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of crystallography"
+heroAlt: "Crystallography determines crystal atomic structure using X-ray diffraction"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2502
 tier: "2"

@@ -5,10 +5,10 @@ description: "Jewelry making is the craft of creating wearable ornaments from me
 category: arts-amp-culture
 tags: ["jewelry making", "metalsmithing", "gemstones", "crafts", "silversmithing"]
 heroImage: "/images/articles/jewelry-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of jewelry making"
+heroAlt: "Jewelry making is the craft of creating wearable ornaments from metals, gems, and other materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 762
 tier: "3"

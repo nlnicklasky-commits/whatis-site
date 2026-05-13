@@ -5,10 +5,10 @@ description: "Social justice is the fair distribution of wealth, opportunities, 
 category: philosophy
 tags: ["social justice", "ethics", "equality", "human rights", "political philosophy", "sociology"]
 heroImage: "/images/articles/social-justice-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social justice"
+heroAlt: "Social justice is the fair distribution of wealth, opportunities, and privileges in society"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2617
 tier: "2"

@@ -5,10 +5,10 @@ description: "The history of logic traces how humans developed formal reasoning,
 category: history
 tags: ["history of logic", "logic", "philosophy", "aristotle", "formal logic"]
 heroImage: "/images/articles/the-history-of-logic-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of logic"
+heroAlt: "The history of logic traces how humans developed formal reasoning, from Aristotle's syllogisms to modern symbolic logic and computer science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1672
 tier: "3"

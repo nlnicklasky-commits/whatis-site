@@ -5,10 +5,10 @@ description: "Blacksmithing is the craft of shaping iron and steel by heating me
 category: arts-amp-culture
 tags: ["blacksmithing", "metalworking", "forging", "ironwork", "traditional craft", "anvil"]
 heroImage: "/images/articles/blacksmithing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of blacksmithing"
+heroAlt: "Blacksmithing is the craft of shaping iron and steel by heating metal in a forge and hammering it on an anvil into tools, hardware, and art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1005
 tier: "3"

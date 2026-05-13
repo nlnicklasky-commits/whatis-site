@@ -5,10 +5,10 @@ description: "Air conditioning removes heat and humidity from indoor air using r
 category: technology
 tags: ["air conditioning", "hvac", "cooling", "refrigeration", "technology", "home improvement"]
 heroImage: "/images/articles/air-conditioning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of air conditioning"
+heroAlt: "Air conditioning removes heat and humidity from indoor air using refrigeration cycles"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3553
 tier: "1"

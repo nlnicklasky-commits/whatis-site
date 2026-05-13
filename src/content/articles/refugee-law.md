@@ -5,10 +5,10 @@ description: "Refugee law is the body of international and domestic law protecti
 category: law
 tags: ["human rights", "refugee law", "asylum", "international law"]
 heroImage: "/images/articles/refugee-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of refugee law"
+heroAlt: "Refugee law is the body of international and domestic law protecting people fleeing persecution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1719
 tier: "3"

@@ -5,10 +5,10 @@ description: "Yogurt making is the process of fermenting milk with live bacteria
 category: everyday-concepts
 tags: ["food science", "cooking", "dairy", "fermentation", "probiotics", "healthy eating"]
 heroImage: "/images/articles/yogurt-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of yogurt making"
+heroAlt: "Yogurt making is the process of fermenting milk with live bacteria cultures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1286
 tier: "3"

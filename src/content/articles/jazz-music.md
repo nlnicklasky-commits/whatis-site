@@ -5,10 +5,10 @@ description: "Jazz is an American music genre born in New Orleans, built on impr
 category: everyday-concepts
 tags: ["jazz music", "improvisation", "blues", "American music", "swing", "bebop"]
 heroImage: "/images/articles/jazz-music-hero.webp"
-heroAlt: "Editorial photograph representing the concept of jazz music"
+heroAlt: "Jazz is an American music genre born in New Orleans, built on improvisation, swing, and blues roots"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 872
 tier: "3"

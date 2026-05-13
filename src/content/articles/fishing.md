@@ -5,10 +5,10 @@ description: "Fishing is the practice of catching fish for food, sport, or livel
 category: sports
 tags: ["angling", "seafood", "fisheries", "recreation", "commercial fishing", "sustainability"]
 heroImage: "/images/articles/fishing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fishing"
+heroAlt: "Fishing is the practice of catching fish for food, sport, or livelihood"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 965
 tier: "3"

@@ -5,10 +5,10 @@ description: "Fermentation is a metabolic process where microorganisms convert s
 category: science
 tags: ["biochemistry", "microbiology", "food science", "food preservation", "yeast", "bacteria"]
 heroImage: "/images/articles/fermentation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fermentation"
+heroAlt: "Fermentation is a metabolic process where microorganisms convert sugars into acids, gases, or alcohol"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2919
 tier: "2"

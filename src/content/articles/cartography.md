@@ -5,10 +5,10 @@ description: "Cartography is the science and art of making maps, from ancient ha
 category: science
 tags: ["cartography", "maps", "geography", "gis", "mapping", "geographic information", "spatial data"]
 heroImage: "/images/articles/cartography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cartography"
+heroAlt: "Cartography is the science and art of making maps, from ancient hand-drawn charts to modern GIS and satellite-based digital mapping systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2249
 tier: "2"

@@ -5,10 +5,10 @@ description: "Abstract algebra studies algebraic structures like groups, rings, 
 category: science
 tags: ["abstract algebra", "mathematics", "group theory", "rings", "fields", "math", "algebra"]
 heroImage: "/images/articles/abstract-algebra-hero.webp"
-heroAlt: "Editorial photograph representing the concept of abstract algebra"
+heroAlt: "Abstract algebra studies algebraic structures like groups, rings, and fields"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3456
 tier: "1"

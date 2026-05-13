@@ -5,10 +5,10 @@ description: "Machine learning enables computers to learn patterns from data and
 category: technology
 tags: ["machine-learning", "artificial-intelligence", "data-science", "neural-networks", "deep-learning", "algorithms"]
 heroImage: "/images/articles/machine-learning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of machine learning? how computers learn without being programmed"
+heroAlt: "Machine learning enables computers to learn patterns from data and make decisions without explicit programming"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 15
 wordCount: 4070
 tier: "1"

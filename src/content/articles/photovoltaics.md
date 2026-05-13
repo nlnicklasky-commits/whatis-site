@@ -5,10 +5,10 @@ description: "Photovoltaics is the technology that converts sunlight directly in
 category: technology
 tags: ["solar energy", "renewable energy", "solar panels", "electricity", "semiconductors", "clean energy"]
 heroImage: "/images/articles/photovoltaics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of photovoltaics"
+heroAlt: "Photovoltaics is the technology that converts sunlight directly into electricity using solar cells"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2476
 tier: "2"

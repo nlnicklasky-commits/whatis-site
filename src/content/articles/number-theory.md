@@ -5,10 +5,10 @@ description: "Number theory studies the properties of integers, primes, and divi
 category: science
 tags: ["number theory", "mathematics", "integers", "prime numbers", "cryptography", "algebra", "divisibility"]
 heroImage: "/images/articles/number-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of number theory"
+heroAlt: "Number theory studies the properties of integers, primes, and divisibility"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2640
 tier: "2"

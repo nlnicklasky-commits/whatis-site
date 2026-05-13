@@ -5,10 +5,10 @@ description: "Farming is the practice of growing crops and raising livestock for
 category: everyday-concepts
 tags: ["agriculture", "crops", "livestock", "food production", "sustainability", "agronomy"]
 heroImage: "/images/articles/farming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of farming"
+heroAlt: "Farming is the practice of growing crops and raising livestock for food and materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1033
 tier: "3"

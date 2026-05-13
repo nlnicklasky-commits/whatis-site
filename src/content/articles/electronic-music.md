@@ -5,10 +5,10 @@ description: "Electronic music is created primarily with electronic instruments 
 category: arts-amp-culture
 tags: ["electronic music", "music", "synthesizer", "sampling", "digital music", "genre"]
 heroImage: "/images/articles/electronic-music-hero.webp"
-heroAlt: "Editorial photograph representing the concept of electronic music"
+heroAlt: "Electronic music is created primarily with electronic instruments and technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1011
 tier: "3"

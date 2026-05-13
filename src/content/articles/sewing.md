@@ -5,10 +5,10 @@ description: "Sewing joins fabric using needle and thread to create clothing, re
 category: arts-amp-culture
 tags: ["sewing", "craft", "textile arts", "fabric", "needlework", "tailoring"]
 heroImage: "/images/articles/sewing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sewing"
+heroAlt: "Sewing joins fabric using needle and thread to create clothing, repairs, and crafts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1073
 tier: "3"

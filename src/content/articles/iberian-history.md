@@ -5,10 +5,10 @@ description: "Iberian history covers the peninsula shared by Spain and Portugal 
 category: history
 tags: ["iberian peninsula", "spain", "portugal", "reconquista", "european history"]
 heroImage: "/images/articles/iberian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of iberian history"
+heroAlt: "Iberian history covers the peninsula shared by Spain and Portugal — from prehistoric cave art to colonial empires"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1590
 tier: "3"

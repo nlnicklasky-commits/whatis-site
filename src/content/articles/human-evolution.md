@@ -5,10 +5,10 @@ description: "Human evolution is how our species developed from earlier primates
 category: everyday-concepts
 tags: ["human evolution", "anthropology", "biology", "fossils", "natural selection", "primates"]
 heroImage: "/images/articles/human-evolution-hero.webp"
-heroAlt: "Editorial photograph representing the concept of human evolution"
+heroAlt: "Human evolution is how our species developed from earlier primates over millions of years"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1123
 tier: "3"

@@ -5,10 +5,10 @@ description: "Debate is the structured exchange of arguments on a topic. Learn a
 category: arts-amp-culture
 tags: ["debate", "arts-amp-culture"]
 heroImage: "/images/articles/debate-hero.webp"
-heroAlt: "Editorial photograph representing the concept of debate"
+heroAlt: "Debate is the structured exchange of arguments on a topic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 935
 tier: "3"

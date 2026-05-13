@@ -5,10 +5,10 @@ description: "Civil engineering designs and builds infrastructure like roads, br
 category: technology
 tags: ["civil engineering", "engineering", "infrastructure", "construction", "public works", "structures", "urban planning"]
 heroImage: "/images/articles/civil-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of civil engineering"
+heroAlt: "Civil engineering designs and builds infrastructure like roads, bridges, and buildings"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2380
 tier: "2"

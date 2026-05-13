@@ -5,10 +5,10 @@ description: "Furniture making is the craft of building functional objects from 
 category: arts-amp-culture
 tags: ["furniture", "craftsmanship", "woodworking", "carpentry", "materials", "joinery"]
 heroImage: "/images/articles/furniture-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of furniture making"
+heroAlt: "Furniture making is the craft of building functional objects from wood and other materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 967
 tier: "3"

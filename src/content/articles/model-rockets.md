@@ -5,10 +5,10 @@ description: "Model rocketry is the hobby and science of building and launching 
 category: technology
 tags: ["model rockets", "rocketry", "aerospace", "stem", "hobby", "propulsion", "engineering"]
 heroImage: "/images/articles/model-rockets-hero.webp"
-heroAlt: "Editorial photograph representing the concept of model rockets"
+heroAlt: "Model rocketry is the hobby and science of building and launching small rockets powered by commercial motors"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2447
 tier: "2"

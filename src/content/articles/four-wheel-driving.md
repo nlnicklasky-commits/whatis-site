@@ -5,10 +5,10 @@ description: "Four-wheel driving sends power to all four wheels for better tract
 category: everyday-concepts
 tags: ["four wheel driving", "off-road", "vehicles", "adventure", "4WD", "outdoor recreation"]
 heroImage: "/images/articles/four-wheel-driving-hero.webp"
-heroAlt: "Editorial photograph representing the concept of four-wheel driving"
+heroAlt: "Four-wheel driving sends power to all four wheels for better traction off-road"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 968
 tier: "3"

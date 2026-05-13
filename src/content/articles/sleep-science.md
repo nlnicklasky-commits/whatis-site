@@ -5,10 +5,10 @@ description: "Sleep science studies why and how we sleep, covering sleep stages,
 category: health-amp-wellness
 tags: ["sleep", "neuroscience", "health", "circadian rhythm"]
 heroImage: "/images/articles/sleep-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sleep science"
+heroAlt: "Sleep science studies why and how we sleep, covering sleep stages, circadian rhythms, and the health effects of sleep deprivation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1732
 tier: "3"

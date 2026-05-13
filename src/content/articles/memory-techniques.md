@@ -5,10 +5,10 @@ description: "Memory techniques are strategies for improving recall, from the me
 category: everyday-concepts
 tags: ["memory techniques", "mnemonics", "learning", "cognitive science", "memory palace", "study skills"]
 heroImage: "/images/articles/memory-techniques-hero.webp"
-heroAlt: "Editorial photograph representing the concept of memory techniques"
+heroAlt: "Memory techniques are strategies for improving recall, from the memory palace to spaced repetition"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1010
 tier: "3"

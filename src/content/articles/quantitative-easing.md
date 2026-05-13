@@ -5,10 +5,10 @@ description: "Quantitative easing is a central bank policy of buying financial a
 category: finance
 tags: ["quantitative easing", "monetary policy", "central banking", "federal reserve", "interest rates", "inflation"]
 heroImage: "/images/articles/quantitative-easing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantitative easing"
+heroAlt: "Quantitative easing is a central bank policy of buying financial assets to inject money into the economy, lower interest rates, and stimulate growth"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2442
 tier: "2"

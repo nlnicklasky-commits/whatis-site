@@ -5,10 +5,10 @@ description: "Recreational flying is piloting aircraft for personal enjoyment ra
 category: sports
 tags: ["recreational flying", "aviation", "pilot", "general aviation", "aircraft", "flying"]
 heroImage: "/images/articles/recreational-flying-hero.webp"
-heroAlt: "Editorial photograph representing the concept of recreational flying"
+heroAlt: "Recreational flying is piloting aircraft for personal enjoyment rather than commercial purposes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 898
 tier: "3"

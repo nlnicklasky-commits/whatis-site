@@ -5,10 +5,10 @@ description: "Oil painting uses pigments mixed with drying oils to create art on
 category: arts-amp-culture
 tags: ["oil painting", "art medium", "painting techniques", "fine art", "linseed oil", "pigments"]
 heroImage: "/images/articles/oil-painting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of oil painting"
+heroAlt: "Oil painting uses pigments mixed with drying oils to create art on canvas or panel"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1010
 tier: "3"

@@ -5,10 +5,10 @@ description: "Porcelain making is the craft of creating fine ceramic ware from k
 category: arts-amp-culture
 tags: ["porcelain", "ceramics", "pottery", "kaolin", "kiln", "glaze"]
 heroImage: "/images/articles/porcelain-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of porcelain making"
+heroAlt: "Porcelain making is the craft of creating fine ceramic ware from kaolin clay fired at extreme temperatures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 985
 tier: "3"

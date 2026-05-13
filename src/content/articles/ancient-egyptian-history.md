@@ -5,10 +5,10 @@ description: "Ancient Egyptian history spans over 3,000 years of civilization al
 category: history
 tags: ["ancient egypt", "egyptian history", "pharaoh", "pyramids", "nile valley"]
 heroImage: "/images/articles/ancient-egyptian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ancient egyptian history"
+heroAlt: "Ancient Egyptian history spans over 3,000 years of civilization along the Nile, from the first pharaohs around 3100 BCE to Roman conquest in 30 BCE"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1737
 tier: '2'

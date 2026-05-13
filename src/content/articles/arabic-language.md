@@ -5,10 +5,10 @@ description: "Arabic is a Semitic language spoken by over 400 million people, kn
 category: arts-amp-culture
 tags: ["arabic language", "arabic", "language", "linguistics", "middle east", "semitic"]
 heroImage: "/images/articles/arabic-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of arabic language"
+heroAlt: "Arabic is a Semitic language spoken by over 400 million people, known for its right-to-left script, rich literary tradition, and role as a liturgical language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1054
 tier: "3"

@@ -5,10 +5,10 @@ description: "Sustainable development meets present needs without compromising f
 category: everyday-concepts
 tags: ["sustainable development", "sustainability", "environment", "economics", "United Nations", "climate"]
 heroImage: "/images/articles/sustainable-development-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sustainable development"
+heroAlt: "Sustainable development meets present needs without compromising future generations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 811
 tier: "3"

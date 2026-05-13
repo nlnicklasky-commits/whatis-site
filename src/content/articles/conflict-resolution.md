@@ -5,10 +5,10 @@ description: "Conflict resolution is the process of settling disputes peacefully
 category: everyday-concepts
 tags: ["peacebuilding", "negotiation", "mediation", "communication", "dispute resolution", "psychology"]
 heroImage: "/images/articles/conflict-resolution-hero.webp"
-heroAlt: "Editorial photograph representing the concept of conflict resolution"
+heroAlt: "Conflict resolution is the process of settling disputes peacefully"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1065
 tier: "3"

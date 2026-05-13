@@ -5,10 +5,10 @@ description: "Library science is the study of how information is organized, pres
 category: technology
 tags: ["library science", "information science", "cataloging", "archives", "knowledge management", "digital libraries", "research"]
 heroImage: "/images/articles/library-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of library science"
+heroAlt: "Library science is the study of how information is organized, preserved, and made accessible"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2687
 tier: "2"

@@ -5,10 +5,10 @@ description: "Legends are traditional stories rooted in history but shaped by im
 category: arts-amp-culture
 tags: ["legends", "folklore", "storytelling", "oral tradition", "mythology", "cultural heritage"]
 heroImage: "/images/articles/legends-hero.webp"
-heroAlt: "Editorial photograph representing the concept of legends"
+heroAlt: "Legends are traditional stories rooted in history but shaped by imagination"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1048
 tier: "3"

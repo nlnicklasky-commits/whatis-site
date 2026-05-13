@@ -5,10 +5,10 @@ description: "Bookbinding is the craft of assembling and securing printed or bla
 category: arts-amp-culture
 tags: ["bookbinding", "book", "crafts", "traditional craft", "book restoration", "printing"]
 heroImage: "/images/articles/bookbinding-hero.webp"
-heroAlt: "Editorial photograph representing the concept of bookbinding"
+heroAlt: "Bookbinding is the craft of assembling and securing printed or blank pages into a protective cover, ranging from simple pamphlets to ornate leather volumes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 928
 tier: "3"

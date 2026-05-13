@@ -5,10 +5,10 @@ description: "String theory proposes that the universe's fundamental building bl
 category: everyday-concepts
 tags: ["string theory", "physics", "theoretical physics", "quantum mechanics", "dimensions", "particle physics"]
 heroImage: "/images/articles/string-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of string theory"
+heroAlt: "String theory proposes that the universe's fundamental building blocks are tiny vibrating strings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 819
 tier: "3"

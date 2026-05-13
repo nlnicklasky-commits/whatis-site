@@ -5,10 +5,10 @@ description: "Pop Art is an art movement that drew from advertising, comics, and
 category: arts-amp-culture
 tags: ["pop art", "andy warhol", "roy lichtenstein", "richard hamilton", "mass culture", "consumerism"]
 heroImage: "/images/articles/pop-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pop art"
+heroAlt: "Pop Art is an art movement that drew from advertising, comics, and consumer goods"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 967
 tier: "3"

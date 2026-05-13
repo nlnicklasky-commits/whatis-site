@@ -5,10 +5,10 @@ description: "Science fiction is a genre that explores imagined futures, technol
 category: everyday-concepts
 tags: ["science fiction", "sci-fi", "futuristic", "space exploration", "technology", "speculative fiction"]
 heroImage: "/images/articles/science-fiction-hero.webp"
-heroAlt: "Editorial photograph representing the concept of science fiction"
+heroAlt: "Science fiction is a genre that explores imagined futures, technologies, and societies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1180
 tier: "3"

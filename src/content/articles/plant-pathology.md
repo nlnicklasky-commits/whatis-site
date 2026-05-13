@@ -5,10 +5,10 @@ description: "Plant pathology studies diseases in plants caused by fungi, bacter
 category: science
 tags: ["plants", "diseases", "agriculture", "pathogens", "crops", "botany", "ecology"]
 heroImage: "/images/articles/plant-pathology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of plant pathology"
+heroAlt: "Plant pathology studies diseases in plants caused by fungi, bacteria, viruses, and environmental stress — and how to prevent crop losses worldwide"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2787
 tier: "2"

@@ -5,10 +5,10 @@ description: "Ceramics is the art and science of making objects from clay and ot
 category: arts-amp-culture
 tags: ["ceramics", "pottery", "clay", "art", "crafts", "sculpture"]
 heroImage: "/images/articles/ceramics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ceramics"
+heroAlt: "Ceramics is the art and science of making objects from clay and other earthy materials by shaping and firing them at high temperatures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 983
 tier: "3"

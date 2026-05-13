@@ -5,10 +5,10 @@ description: "Natural history is the observation and study of the natural world 
 category: science
 tags: ["natural history", "biology", "ecology", "biodiversity", "observation", "conservation", "nature"]
 heroImage: "/images/articles/natural-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of natural history"
+heroAlt: "Natural history is the observation and study of the natural world — plants, animals, rocks, and ecosystems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2499
 tier: "2"

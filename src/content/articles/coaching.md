@@ -5,10 +5,10 @@ description: "Coaching is a structured, goal-oriented process where a trained pr
 category: health-amp-wellness
 tags: ["coaching", "personal development", "professional development", "goal setting", "leadership"]
 heroImage: "/images/articles/coaching-hero.webp"
-heroAlt: "Editorial photograph representing the concept of coaching"
+heroAlt: "Coaching is a structured, goal-oriented process where a trained professional helps individuals improve performance, develop skills, and achieve personal goals"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1385
 tier: "3"

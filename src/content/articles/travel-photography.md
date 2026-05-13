@@ -5,10 +5,10 @@ description: "Travel photography captures places, people, and cultures through i
 category: arts-amp-culture
 tags: ["travel photography", "photography", "travel", "culture", "landscape", "visual arts"]
 heroImage: "/images/articles/travel-photography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of travel photography"
+heroAlt: "Travel photography captures places, people, and cultures through images"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 717
 tier: "3"

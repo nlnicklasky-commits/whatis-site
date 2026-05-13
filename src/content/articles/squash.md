@@ -5,10 +5,10 @@ description: "Squash is a fast-paced racquet sport played in a four-walled court
 category: sports
 tags: ["squash", "racquet sports", "fitness", "court sports", "Olympics", "exercise"]
 heroImage: "/images/articles/squash-hero.webp"
-heroAlt: "Editorial photograph representing the concept of squash"
+heroAlt: "Squash is a fast-paced racquet sport played in a four-walled court"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1144
 tier: "3"

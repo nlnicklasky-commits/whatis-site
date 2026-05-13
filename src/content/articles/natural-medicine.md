@@ -5,10 +5,10 @@ description: "Natural medicine uses plants, nutrition, and lifestyle changes to 
 category: health-amp-wellness
 tags: ["natural medicine", "naturopathy", "alternative medicine", "herbal medicine"]
 heroImage: "/images/articles/natural-medicine-hero.webp"
-heroAlt: "Editorial photograph representing the concept of natural medicine"
+heroAlt: "Natural medicine uses plants, nutrition, and lifestyle changes to support health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1580
 tier: "3"

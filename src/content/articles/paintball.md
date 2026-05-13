@@ -5,10 +5,10 @@ description: "Paintball is a competitive sport where players shoot paint-filled 
 category: everyday-concepts
 tags: ["paintball", "outdoor recreation", "team sports", "tactical games", "competition", "adventure"]
 heroImage: "/images/articles/paintball-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paintball"
+heroAlt: "Paintball is a competitive sport where players shoot paint-filled capsules at opponents using air-powered markers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 927
 tier: "3"

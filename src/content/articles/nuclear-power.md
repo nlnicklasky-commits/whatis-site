@@ -5,10 +5,10 @@ description: "Nuclear power generates electricity from atomic fission. Learn how
 category: technology
 tags: ["nuclear power", "nuclear energy", "fission", "nuclear reactor", "electricity generation", "clean energy", "uranium"]
 heroImage: "/images/articles/nuclear-power-hero.webp"
-heroAlt: "Editorial photograph representing the concept of nuclear power"
+heroAlt: "Nuclear power generates electricity from atomic fission"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2835
 tier: "2"

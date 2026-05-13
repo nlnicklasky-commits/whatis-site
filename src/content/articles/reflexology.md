@@ -5,10 +5,10 @@ description: "Reflexology applies pressure to specific points on the feet, hands
 category: health-amp-wellness
 tags: ["alternative medicine", "reflexology", "foot therapy", "wellness"]
 heroImage: "/images/articles/reflexology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of reflexology"
+heroAlt: "Reflexology applies pressure to specific points on the feet, hands, and ears believed to correspond to body organs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1476
 tier: "3"

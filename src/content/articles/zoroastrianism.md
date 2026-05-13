@@ -5,10 +5,10 @@ description: "Zoroastrianism is one of the world's oldest monotheistic religions
 category: philosophy
 tags: ["religion", "ancient religions", "persian culture", "monotheism", "spirituality"]
 heroImage: "/images/articles/zoroastrianism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of zoroastrianism"
+heroAlt: "Zoroastrianism is one of the world's oldest monotheistic religions, founded by the prophet Zarathustra in ancient Persia around 1500-500 BCE"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2413
 tier: '1'

@@ -5,10 +5,10 @@ description: "Romance literature is fiction centered on love and emotional relat
 category: everyday-concepts
 tags: ["medieval romance", "chivalry", "courtly love", "love stories", "fiction", "novel"]
 heroImage: "/images/articles/romance-literature-hero.webp"
-heroAlt: "Editorial photograph representing the concept of romance literature"
+heroAlt: "Romance literature is fiction centered on love and emotional relationships"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1172
 tier: "3"

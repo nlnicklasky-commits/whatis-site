@@ -5,10 +5,10 @@ description: "Fitness is your body's ability to perform physical tasks effective
 category: health-amp-wellness
 tags: ["health", "exercise", "physical activity", "nutrition", "wellness", "strength training"]
 heroImage: "/images/articles/fitness-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fitness"
+heroAlt: "Fitness is your body's ability to perform physical tasks effectively"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1783
 tier: "3"

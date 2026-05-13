@@ -5,10 +5,10 @@ description: "Urban planning is the process of managing city growth through land
 category: technology
 tags: ["urban planning", "city planning", "zoning", "land use", "infrastructure", "transportation"]
 heroImage: "/images/articles/urban-planning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of urban planning"
+heroAlt: "Urban planning is the process of managing city growth through land use, zoning, and infrastructure decisions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 2026
 tier: "2"

@@ -5,10 +5,10 @@ description: "Greek mythology is the collection of myths about gods, heroes, and
 category: arts-amp-culture
 tags: ["greek mythology", "gods", "heroes", "ancient greece", "mythology", "literature"]
 heroImage: "/images/articles/greek-mythology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of greek mythology"
+heroAlt: "Greek mythology is the collection of myths about gods, heroes, and monsters from ancient Greece"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1093
 tier: "3"

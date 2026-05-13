@@ -5,10 +5,10 @@ description: "Neural networks are computing systems inspired by the human brain 
 category: everyday-concepts
 tags: ["neural networks", "machine learning", "artificial intelligence", "deep learning", "data science", "algorithms"]
 heroImage: "/images/articles/neural-networks-hero.webp"
-heroAlt: "Editorial photograph representing the concept of neural networks"
+heroAlt: "Neural networks are computing systems inspired by the human brain that learn from data"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1042
 tier: "3"

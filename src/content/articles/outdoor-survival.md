@@ -5,10 +5,10 @@ description: "Outdoor survival is the skill of staying alive in wilderness situa
 category: everyday-concepts
 tags: ["outdoor survival", "wilderness skills", "bushcraft", "emergency preparedness", "camping", "first aid"]
 heroImage: "/images/articles/outdoor-survival-hero.webp"
-heroAlt: "Editorial photograph representing the concept of outdoor survival"
+heroAlt: "Outdoor survival is the skill of staying alive in wilderness situations using knowledge of shelter, water, fire, and food"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1074
 tier: "3"

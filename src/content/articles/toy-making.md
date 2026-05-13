@@ -5,10 +5,10 @@ description: "Toy making is the craft and industry of designing and producing pl
 category: everyday-concepts
 tags: ["toy making", "toys", "design", "manufacturing", "children", "crafts"]
 heroImage: "/images/articles/toy-making-hero.webp"
-heroAlt: "Editorial photograph representing the concept of toy making"
+heroAlt: "Toy making is the craft and industry of designing and producing playthings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 2
 wordCount: 676
 tier: "3"

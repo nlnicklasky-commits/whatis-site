@@ -5,10 +5,10 @@ description: "Collaborative filtering predicts your preferences by finding patte
 category: technology
 tags: ["collaborative filtering", "recommender systems", "machine learning", "data mining", "ai", "personalization", "algorithms"]
 heroImage: "/images/articles/collaborative-filtering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of collaborative filtering"
+heroAlt: "Collaborative filtering predicts your preferences by finding patterns in what similar users liked, powering recommendations on Netflix, Amazon, and Spotify"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2686
 tier: "2"

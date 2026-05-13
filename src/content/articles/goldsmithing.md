@@ -5,10 +5,10 @@ description: "Goldsmithing is the craft of shaping gold and precious metals into
 category: arts-amp-culture
 tags: ["goldsmithing", "gold", "jewelry making", "precious metals", "craftsmanship", "art"]
 heroImage: "/images/articles/goldsmithing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of goldsmithing"
+heroAlt: "Goldsmithing is the craft of shaping gold and precious metals into jewelry and objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1139
 tier: "3"

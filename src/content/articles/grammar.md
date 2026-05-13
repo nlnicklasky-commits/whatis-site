@@ -5,10 +5,10 @@ description: "Grammar is the system of rules governing how words combine into se
 category: everyday-concepts
 tags: ["grammar", "language", "linguistics", "writing", "syntax", "English"]
 heroImage: "/images/articles/grammar-hero.webp"
-heroAlt: "Editorial photograph representing the concept of grammar"
+heroAlt: "Grammar is the system of rules governing how words combine into sentences"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1031
 tier: "3"

@@ -5,10 +5,10 @@ description: "Baking is the method of cooking food using dry heat in an oven. Le
 category: everyday-concepts
 tags: ["baking", "cooking", "culinary arts", "bread", "cakes", "pastries"]
 heroImage: "/images/articles/baking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of baking"
+heroAlt: "Baking is the method of cooking food using dry heat in an oven"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1020
 tier: "3"

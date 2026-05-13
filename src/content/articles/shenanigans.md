@@ -5,10 +5,10 @@ description: "Shenanigans refers to playful mischief, trickery, or dubious behav
 category: everyday-concepts
 tags: ["mischief", "playful", "pranks", "trickery", "amusing", "behavior"]
 heroImage: "/images/articles/shenanigans-hero.webp"
-heroAlt: "Editorial photograph representing the concept of shenanigans"
+heroAlt: "Shenanigans refers to playful mischief, trickery, or dubious behavior"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 890
 tier: "3"

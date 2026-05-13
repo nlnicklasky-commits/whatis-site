@@ -5,10 +5,10 @@ description: "Systems biology studies biological organisms as integrated systems
 category: science
 tags: ["biology", "systems biology", "bioinformatics", "computational biology", "genomics", "molecular biology"]
 heroImage: "/images/articles/systems-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of systems biology"
+heroAlt: "Systems biology studies biological organisms as integrated systems of interacting genes, proteins, and networks rather than isolated individual components"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2103
 tier: "2"

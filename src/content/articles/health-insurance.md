@@ -5,10 +5,10 @@ description: "Health insurance is a contract where you pay premiums so an insure
 category: finance
 tags: ["health insurance", "insurance", "healthcare", "medical expenses", "premiums", "deductibles", "finance"]
 heroImage: "/images/articles/health-insurance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of health insurance"
+heroAlt: "Health insurance is a contract where you pay premiums so an insurer covers medical expenses, reducing the financial risk of illness and injury"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3049
 tier: "1"

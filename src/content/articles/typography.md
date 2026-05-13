@@ -5,10 +5,10 @@ description: "Typography is the art of arranging type to make text readable and 
 category: arts-amp-culture
 tags: ["typography", "design", "typefaces", "fonts", "graphic design", "visual communication"]
 heroImage: "/images/articles/typography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of typography"
+heroAlt: "Typography is the art of arranging type to make text readable and appealing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1044
 tier: "3"

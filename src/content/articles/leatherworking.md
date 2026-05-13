@@ -5,10 +5,10 @@ description: "Leatherworking is the craft of cutting, shaping, and stitching ani
 category: arts-amp-culture
 tags: ["leatherworking", "crafts", "leather", "tooling", "tanning", "handmade goods"]
 heroImage: "/images/articles/leatherworking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of leatherworking"
+heroAlt: "Leatherworking is the craft of cutting, shaping, and stitching animal hides into functional and decorative items"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1095
 tier: "3"

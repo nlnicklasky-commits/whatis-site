@@ -5,10 +5,10 @@ description: "Neuroeconomics combines neuroscience, economics, and psychology to
 category: science
 tags: ["neuroeconomics", "decision making", "neuroscience", "economics", "psychology", "brain", "behavioral economics"]
 heroImage: "/images/articles/neuroeconomics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of neuroeconomics"
+heroAlt: "Neuroeconomics combines neuroscience, economics, and psychology to study how the brain makes decisions about risk, reward, and value"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2330
 tier: "2"

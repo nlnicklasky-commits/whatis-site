@@ -5,10 +5,10 @@ description: "The piano is a keyboard instrument that produces sound by striking
 category: everyday-concepts
 tags: ["piano", "music", "instrument", "keyboard", "classical music", "performance"]
 heroImage: "/images/articles/piano-hero.webp"
-heroAlt: "Editorial photograph representing the concept of piano"
+heroAlt: "The piano is a keyboard instrument that produces sound by striking strings with hammers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1023
 tier: "3"

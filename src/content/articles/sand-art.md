@@ -5,10 +5,10 @@ description: "Sand art encompasses creative works made from or with sand, includ
 category: arts-amp-culture
 tags: ["sand", "art", "sculpture", "beach art", "sandcastle", "temporary art"]
 heroImage: "/images/articles/sand-art-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sand art"
+heroAlt: "Sand art encompasses creative works made from or with sand, including sculptures, paintings, animation, and mandala designs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1052
 tier: "3"

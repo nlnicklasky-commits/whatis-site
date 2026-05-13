@@ -5,10 +5,10 @@ description: "Behavioral psychology studies how behavior is learned through cond
 category: science
 tags: ["behavioral psychology", "behaviorism", "classical conditioning", "operant conditioning", "learning theory", "psychology", "reinforcement"]
 heroImage: "/images/articles/behavioral-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of behavioral psychology"
+heroAlt: "Behavioral psychology studies how behavior is learned through conditioning and environmental stimuli"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2429
 tier: "2"

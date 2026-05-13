@@ -5,10 +5,10 @@ description: "National parks are protected areas of natural beauty managed by go
 category: everyday-concepts
 tags: ["national parks", "conservation", "wildlife", "ecosystems", "outdoor recreation", "protected areas"]
 heroImage: "/images/articles/national-parks-hero.webp"
-heroAlt: "Editorial photograph representing the concept of national parks"
+heroAlt: "National parks are protected areas of natural beauty managed by governments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1183
 tier: "3"

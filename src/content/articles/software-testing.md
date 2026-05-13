@@ -5,10 +5,10 @@ description: "Software testing is the process of evaluating software to find bug
 category: technology
 tags: ["software testing", "quality assurance", "software engineering", "debugging", "automation", "programming"]
 heroImage: "/images/articles/software-testing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of software testing"
+heroAlt: "Software testing is the process of evaluating software to find bugs and verify it meets requirements"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2497
 tier: "2"

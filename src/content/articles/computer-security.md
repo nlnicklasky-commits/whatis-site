@@ -5,10 +5,10 @@ description: "Computer security protects systems, networks, and data from unauth
 category: technology
 tags: ["cybersecurity", "information security", "data privacy", "network security", "malware", "encryption", "it security"]
 heroImage: "/images/articles/computer-security-hero.webp"
-heroAlt: "Editorial photograph representing the concept of computer security"
+heroAlt: "Computer security protects systems, networks, and data from unauthorized access, cyberattacks, and theft through encryption, authentication, and defense"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2778
 tier: "2"

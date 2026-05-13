@@ -5,10 +5,10 @@ description: "Lighting design is the planned use of light to shape spaces, moods
 category: arts-amp-culture
 tags: ["lighting design", "stage lighting", "architectural lighting", "design", "theater", "illumination"]
 heroImage: "/images/articles/lighting-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lighting design"
+heroAlt: "Lighting design is the planned use of light to shape spaces, moods, and experiences"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 996
 tier: "3"

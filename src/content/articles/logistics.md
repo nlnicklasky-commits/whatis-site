@@ -5,10 +5,10 @@ description: "Logistics manages the flow of goods from origin to destination. Le
 category: technology
 tags: ["logistics", "supply chain", "transportation", "warehousing", "distribution", "operations", "freight"]
 heroImage: "/images/articles/logistics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of logistics"
+heroAlt: "Logistics manages the flow of goods from origin to destination"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2227
 tier: "2"

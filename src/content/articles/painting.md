@@ -5,10 +5,10 @@ description: "Painting is the practice of applying pigment to a surface to creat
 category: arts-amp-culture
 tags: ["painting", "art", "art medium", "visual arts", "pigment", "canvas"]
 heroImage: "/images/articles/painting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of painting"
+heroAlt: "Painting is the practice of applying pigment to a surface to create images, express ideas, and evoke emotions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1057
 tier: "3"

@@ -5,10 +5,10 @@ description: "World War II (1939-1945) was the deadliest conflict in human histo
 category: history
 tags: ["wwii", "second world war", "global conflict", "military history"]
 heroImage: "/images/articles/world-war-ii-hero.webp"
-heroAlt: "Editorial photograph representing the concept of world war ii"
+heroAlt: "World War II (1939-1945) was the deadliest conflict in human history"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1614
 tier: "3"

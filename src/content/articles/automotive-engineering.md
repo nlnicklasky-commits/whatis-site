@@ -5,10 +5,10 @@ description: "Automotive engineering is the branch of engineering focused on des
 category: technology
 tags: ["automotive engineering", "engineering", "cars", "mechanical engineering", "vehicle", "powertrain", "automotive"]
 heroImage: "/images/articles/automotive-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of automotive engineering"
+heroAlt: "Automotive engineering is the branch of engineering focused on designing, developing, and manufacturing vehicles"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2412
 tier: "2"

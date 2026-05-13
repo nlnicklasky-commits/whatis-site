@@ -5,10 +5,10 @@ description: "Thai is the official language of Thailand, spoken by about 60 mill
 category: everyday-concepts
 tags: ["thai language", "linguistics", "Southeast Asia", "tonal language", "Thai script", "language"]
 heroImage: "/images/articles/thai-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of thai language"
+heroAlt: "Thai is the official language of Thailand, spoken by about 60 million people"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 861
 tier: "3"

@@ -5,10 +5,10 @@ description: "Control theory is the math behind systems that regulate themselves
 category: everyday-concepts
 tags: ["control theory", "everyday-concepts"]
 heroImage: "/images/articles/control-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of control theory"
+heroAlt: "Control theory is the math behind systems that regulate themselves"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1047
 tier: "3"

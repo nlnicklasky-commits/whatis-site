@@ -5,10 +5,10 @@ description: "Paleoanthropology studies human evolution through fossil evidence.
 category: everyday-concepts
 tags: ["paleoanthropology", "human evolution", "fossils", "archaeology", "hominids", "anthropology"]
 heroImage: "/images/articles/paleoanthropology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of paleoanthropology"
+heroAlt: "Paleoanthropology studies human evolution through fossil evidence"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1010
 tier: "3"

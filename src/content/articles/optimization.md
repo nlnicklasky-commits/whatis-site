@@ -5,10 +5,10 @@ description: "Optimization is finding the best solution from a set of possibilit
 category: everyday-concepts
 tags: ["optimization", "mathematics", "operations research", "algorithms", "decision making", "efficiency"]
 heroImage: "/images/articles/optimization-hero.webp"
-heroAlt: "Editorial photograph representing the concept of optimization"
+heroAlt: "Optimization is finding the best solution from a set of possibilities given constraints"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"

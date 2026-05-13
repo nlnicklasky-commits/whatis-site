@@ -5,10 +5,10 @@ description: "Strategic planning is the process of setting organizational goals 
 category: business
 tags: ["management", "strategic planning", "business", "goal setting"]
 heroImage: "/images/articles/strategic-planning-hero.webp"
-heroAlt: "Editorial photograph representing the concept of strategic planning"
+heroAlt: "Strategic planning is the process of setting organizational goals and determining how to achieve them"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1712
 tier: "3"

@@ -5,10 +5,10 @@ description: "Biogeography studies the distribution of species and ecosystems ac
 category: everyday-concepts
 tags: ["biogeography", "biology", "geography", "ecology", "evolution", "species distribution"]
 heroImage: "/images/articles/biogeography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of biogeography"
+heroAlt: "Biogeography studies the distribution of species and ecosystems across geographic space and geological time, explaining why organisms live where they do"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 934
 tier: "3"

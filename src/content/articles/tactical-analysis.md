@@ -5,10 +5,10 @@ description: "Tactical analysis is the study of strategies and formations in spo
 category: sports
 tags: ["tactical analysis", "sports", "strategy", "coaching", "data analytics", "football"]
 heroImage: "/images/articles/tactical-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tactical analysis"
+heroAlt: "Tactical analysis is the study of strategies and formations in sports to understand and improve performance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 801
 tier: "3"

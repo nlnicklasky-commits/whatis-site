@@ -5,10 +5,10 @@ description: "Data science combines statistics, programming, and domain expertis
 category: technology
 tags: ["data science", "machine learning", "statistics", "analytics", "big data", "ai", "programming"]
 heroImage: "/images/articles/data-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of data science"
+heroAlt: "Data science combines statistics, programming, and domain expertise to extract knowledge from data"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2882
 tier: "2"

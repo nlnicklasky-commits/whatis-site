@@ -5,10 +5,10 @@ description: "American history covers the story of the United States from Indige
 category: history
 tags: ["american history", "us history", "united states", "american revolution"]
 heroImage: "/images/articles/american-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of american history"
+heroAlt: "American history covers the story of the United States from Indigenous civilizations through colonization, revolution, civil war, and modern era"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1775
 tier: '2'

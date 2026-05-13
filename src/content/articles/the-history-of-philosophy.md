@@ -5,10 +5,10 @@ description: "The history of philosophy follows 2,600 years of human thought on 
 category: history
 tags: ["history of philosophy", "philosophy", "ancient philosophy", "ethics", "metaphysics"]
 heroImage: "/images/articles/the-history-of-philosophy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of philosophy"
+heroAlt: "The history of philosophy follows 2,600 years of human thought on existence, knowledge, ethics, and reality across world traditions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1613
 tier: "3"

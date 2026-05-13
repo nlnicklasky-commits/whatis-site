@@ -5,10 +5,10 @@ description: "Psychology is the scientific study of mind and behavior. Learn abo
 category: science
 tags: ["psychology", "mind", "behavior", "mental health", "cognitive psychology", "social psychology", "clinical psychology"]
 heroImage: "/images/articles/psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of psychology"
+heroAlt: "Psychology is the scientific study of mind and behavior"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2815
 tier: "2"

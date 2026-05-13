@@ -5,10 +5,10 @@ description: "Mathematical biology uses equations and models to understand livin
 category: science
 tags: ["mathematical biology", "biomathematics", "modeling", "population dynamics", "epidemiology", "ecology", "mathematics"]
 heroImage: "/images/articles/mathematical-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mathematical biology"
+heroAlt: "Mathematical biology uses equations and models to understand living systems, from disease spread to population dynamics and cell division"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2770
 tier: "2"

@@ -5,10 +5,10 @@ description: "Religion is a system of beliefs, practices, and community centered
 category: philosophy
 tags: ["religion", "faith", "spirituality", "theology", "worship", "belief systems", "philosophy"]
 heroImage: "/images/articles/religion-hero.webp"
-heroAlt: "Editorial photograph representing the concept of religion"
+heroAlt: "Religion is a system of beliefs, practices, and community centered on questions of meaning, morality, and the sacred across major world traditions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3175
 tier: "1"

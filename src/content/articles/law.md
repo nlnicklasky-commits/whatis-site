@@ -5,10 +5,10 @@ description: "Law is the system of rules a society creates and enforces to regul
 category: law
 tags: ["legal system", "law", "justice", "governance", "civil rights", "courts"]
 heroImage: "/images/articles/law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of law"
+heroAlt: "Law is the system of rules a society creates and enforces to regulate behavior, protect rights, resolve disputes, and maintain order"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1863
 tier: "3"

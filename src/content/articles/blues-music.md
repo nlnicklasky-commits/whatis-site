@@ -5,10 +5,10 @@ description: "Blues is a music genre originating from African American communiti
 category: everyday-concepts
 tags: ["blues music", "music", "african american culture", "guitar", "musical genre", "jazz"]
 heroImage: "/images/articles/blues-music-hero.webp"
-heroAlt: "Editorial photograph representing the concept of blues music"
+heroAlt: "Blues is a music genre originating from African American communities in the Deep South, characterized by call-and-response patterns and blue notes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 972
 tier: "3"

@@ -5,10 +5,10 @@ description: "Hungarian history traces the Magyars from the Eurasian steppe to m
 category: history
 tags: ["hungarian history", "hungary", "magyars", "ottoman empire", "central europe"]
 heroImage: "/images/articles/hungarian-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hungarian history"
+heroAlt: "Hungarian history traces the Magyars from the Eurasian steppe to modern Europe"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1563
 tier: "3"

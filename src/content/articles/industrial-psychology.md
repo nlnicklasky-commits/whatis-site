@@ -5,10 +5,10 @@ description: "Industrial psychology applies psychological science to workplaces.
 category: science
 tags: ["industrial psychology", "organizational psychology", "i-o psychology", "human resources", "workplace", "employee well-being", "performance management"]
 heroImage: "/images/articles/industrial-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of industrial psychology"
+heroAlt: "Industrial psychology applies psychological science to workplaces"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2609
 tier: "2"

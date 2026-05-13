@@ -5,10 +5,10 @@ description: "Quantum cryptography uses the laws of physics, not math, to secure
 category: technology
 tags: ["quantum cryptography", "quantum key distribution", "cybersecurity", "encryption", "quantum mechanics"]
 heroImage: "/images/articles/quantum-cryptography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of quantum cryptography"
+heroAlt: "Quantum cryptography uses the laws of physics, not math, to secure communications"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2567
 tier: "2"

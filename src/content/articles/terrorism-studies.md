@@ -5,10 +5,10 @@ description: "Terrorism studies is the academic field examining political violen
 category: politics
 tags: ["terrorism studies", "terrorism", "counterterrorism", "political violence", "extremism", "radicalization"]
 heroImage: "/images/articles/terrorism-studies-hero.webp"
-heroAlt: "Editorial photograph representing the concept of terrorism studies"
+heroAlt: "Terrorism studies is the academic field examining political violence, its causes, and how societies respond"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 784
 tier: "3"

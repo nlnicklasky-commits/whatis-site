@@ -5,10 +5,10 @@ description: "Osteopathy is a medical approach that emphasizes the musculoskelet
 category: health-amp-wellness
 tags: ["osteopathy", "osteopathic medicine", "manual therapy", "alternative medicine"]
 heroImage: "/images/articles/osteopathy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of osteopathy"
+heroAlt: "Osteopathy is a medical approach that emphasizes the musculoskeletal system's role in health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1832
 tier: "3"

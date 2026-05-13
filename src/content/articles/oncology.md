@@ -5,10 +5,10 @@ description: "Oncology is the medical specialty focused on diagnosing and treati
 category: health-amp-wellness
 tags: ["oncology", "cancer", "cancer treatment", "chemotherapy", "radiation therapy"]
 heroImage: "/images/articles/oncology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of oncology"
+heroAlt: "Oncology is the medical specialty focused on diagnosing and treating cancer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1582
 tier: "3"

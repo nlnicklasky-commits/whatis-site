@@ -5,10 +5,10 @@ description: "French is a Romance language spoken by 321 million people worldwid
 category: philosophy
 tags: ["french language", "linguistics", "romance languages", "france", "francophone", "language learning", "culture"]
 heroImage: "/images/articles/french-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the french language"
+heroAlt: "French is a Romance language spoken by 321 million people worldwide"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2942
 tier: "2"

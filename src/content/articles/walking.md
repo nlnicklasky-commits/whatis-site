@@ -5,10 +5,10 @@ description: "Walking is the most basic human exercise — free, low-impact, and
 category: health-amp-wellness
 tags: ["walking", "exercise", "fitness", "health", "physical activity"]
 heroImage: "/images/articles/walking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of walking"
+heroAlt: "Walking is the most basic human exercise — free, low-impact, and surprisingly effective"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1668
 tier: "3"

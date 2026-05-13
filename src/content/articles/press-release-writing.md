@@ -5,10 +5,10 @@ description: "Press release writing is the craft of creating news announcements 
 category: everyday-concepts
 tags: ["press release", "public relations", "pr", "media relations", "journalism", "corporate communication"]
 heroImage: "/images/articles/press-release-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of press release writing"
+heroAlt: "Press release writing is the craft of creating news announcements for media outlets"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 957
 tier: "3"

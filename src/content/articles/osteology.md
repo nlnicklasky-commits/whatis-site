@@ -5,10 +5,10 @@ description: "Osteology is the scientific study of bones and the skeletal system
 category: science
 tags: ["osteology", "bones", "skeletal system", "anatomy", "archaeology", "forensic science", "physical anthropology"]
 heroImage: "/images/articles/osteology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of osteology"
+heroAlt: "Osteology is the scientific study of bones and the skeletal system, applied in medicine, archaeology, forensics, and physical anthropology"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2736
 tier: "2"

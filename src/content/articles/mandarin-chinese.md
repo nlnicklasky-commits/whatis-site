@@ -5,10 +5,10 @@ description: "Mandarin Chinese is the most spoken language in the world, with ov
 category: everyday-concepts
 tags: ["mandarin chinese", "language", "Chinese", "tonal language", "linguistics", "world languages"]
 heroImage: "/images/articles/mandarin-chinese-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mandarin chinese"
+heroAlt: "Mandarin Chinese is the most spoken language in the world, with over 920 million native speakers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1118
 tier: "3"

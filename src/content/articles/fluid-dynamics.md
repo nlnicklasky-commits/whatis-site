@@ -5,10 +5,10 @@ description: "Fluid dynamics studies how liquids and gases move, from airplane w
 category: science
 tags: ["physics", "engineering", "fluid mechanics", "aerodynamics", "hydrodynamics", "computational fluid dynamics"]
 heroImage: "/images/articles/fluid-dynamics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of fluid dynamics"
+heroAlt: "Fluid dynamics studies how liquids and gases move, from airplane wings and ocean currents to blood flow and weather systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3085
 tier: "1"

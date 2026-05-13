@@ -5,10 +5,10 @@ description: "The history of biology traces our understanding of life from Arist
 category: history
 tags: ["history of biology", "biology", "evolution", "genetics", "darwin"]
 heroImage: "/images/articles/the-history-of-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of biology"
+heroAlt: "The history of biology traces our understanding of life from Aristotle's classifications to DNA sequencing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1819
 tier: "3"

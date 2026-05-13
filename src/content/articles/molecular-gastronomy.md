@@ -5,10 +5,10 @@ description: "Molecular gastronomy applies scientific methods to cooking, creati
 category: everyday-concepts
 tags: ["molecular gastronomy", "food science", "cooking", "culinary arts", "chemistry", "modernist cuisine"]
 heroImage: "/images/articles/molecular-gastronomy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of molecular gastronomy"
+heroAlt: "Molecular gastronomy applies scientific methods to cooking, creating surprising textures and flavors"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 693
 tier: "3"

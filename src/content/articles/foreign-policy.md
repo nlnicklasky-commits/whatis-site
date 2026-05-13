@@ -5,10 +5,10 @@ description: "Foreign policy is a government's strategy for dealing with other n
 category: politics
 tags: ["international relations", "diplomacy", "geopolitics", "national security", "trade", "international law"]
 heroImage: "/images/articles/foreign-policy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of foreign policy"
+heroAlt: "Foreign policy is a government's strategy for dealing with other nations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1006
 tier: "3"

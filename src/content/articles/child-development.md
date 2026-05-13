@@ -5,10 +5,10 @@ description: "Child development is the study of how children grow physically, co
 category: health-amp-wellness
 tags: ["child development", "psychology", "education", "parenting", "childhood"]
 heroImage: "/images/articles/child-development-hero.webp"
-heroAlt: "Editorial photograph representing the concept of child development"
+heroAlt: "Child development is the study of how children grow physically, cognitively, emotionally, and socially from birth through adolescence"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1693
 tier: "3"

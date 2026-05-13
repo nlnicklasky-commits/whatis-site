@@ -5,10 +5,10 @@ description: "Ancient Roman history traces Rome's growth from a small Italian vi
 category: history
 tags: ["ancient rome", "roman history", "roman republic", "roman empire", "julius caesar"]
 heroImage: "/images/articles/ancient-roman-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ancient roman history"
+heroAlt: "Ancient Roman history traces Rome's growth from a small Italian village to an empire spanning three continents over roughly 1,200 years"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1786
 tier: "3"

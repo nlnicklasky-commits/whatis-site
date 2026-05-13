@@ -5,10 +5,10 @@ description: "Workplace safety covers the policies, practices, and regulations t
 category: business
 tags: ["workplace safety", "business"]
 heroImage: "/images/articles/workplace-safety-hero.webp"
-heroAlt: "Editorial photograph representing the concept of workplace safety"
+heroAlt: "Workplace safety covers the policies, practices, and regulations that protect employees from injury, illness, and hazards on the job"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1662
 tier: "3"

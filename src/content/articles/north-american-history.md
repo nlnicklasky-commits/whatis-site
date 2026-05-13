@@ -5,10 +5,10 @@ description: "North American history spans thousands of years, from Indigenous c
 category: history
 tags: ["north american history", "american history", "canadian history", "indigenous peoples"]
 heroImage: "/images/articles/north-american-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of north american history"
+heroAlt: "North American history spans thousands of years, from Indigenous civilizations to modern nations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1586
 tier: "3"

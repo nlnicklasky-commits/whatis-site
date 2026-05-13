@@ -5,10 +5,10 @@ description: "Mnemotechnics is the systematic practice of memory-enhancing techn
 category: everyday-concepts
 tags: ["mnemotechnics", "memory", "learning", "cognitive science", "study skills", "mnemonics"]
 heroImage: "/images/articles/mnemotechnics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mnemotechnics"
+heroAlt: "Mnemotechnics is the systematic practice of memory-enhancing techniques using associations, visualization, and structured recall methods"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 786
 tier: "3"

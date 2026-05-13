@@ -5,10 +5,10 @@ description: "Bridge is a four-player partnership card game of strategy and comm
 category: everyday-concepts
 tags: ["bridge card game", "card games", "strategy", "partnership game", "tricks", "bidding"]
 heroImage: "/images/articles/bridge-card-game-hero.webp"
-heroAlt: "Editorial photograph representing the concept of bridge (card game)"
+heroAlt: "Bridge is a four-player partnership card game of strategy and communication, where teams bid to win tricks using a standard 52-card deck"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 873
 tier: "3"

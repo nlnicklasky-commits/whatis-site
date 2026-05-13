@@ -5,10 +5,10 @@ description: "Silversmithing is the craft of shaping silver into jewelry, vessel
 category: arts-amp-culture
 tags: ["silversmithing", "silver", "metalworking", "jewelry making", "craft", "artisanship"]
 heroImage: "/images/articles/silversmithing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of silversmithing"
+heroAlt: "Silversmithing is the craft of shaping silver into jewelry, vessels, and decorative objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1009
 tier: "3"

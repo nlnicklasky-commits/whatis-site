@@ -5,10 +5,10 @@ description: "Drama is the art of storytelling through performance, from ancient
 category: everyday-concepts
 tags: ["drama", "everyday-concepts"]
 heroImage: "/images/articles/drama-hero.webp"
-heroAlt: "Editorial photograph representing the concept of drama"
+heroAlt: "Drama is the art of storytelling through performance, from ancient Greek theater to modern stage and screen"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1074
 tier: "3"

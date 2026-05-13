@@ -5,10 +5,10 @@ description: "Millinery is the craft of designing and making hats. Learn about t
 category: arts-amp-culture
 tags: ["millinery", "hats", "fashion", "craft", "headwear", "design"]
 heroImage: "/images/articles/millinery-hero.webp"
-heroAlt: "Editorial photograph representing the concept of millinery"
+heroAlt: "Millinery is the craft of designing and making hats"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 886
 tier: "3"

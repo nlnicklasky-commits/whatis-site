@@ -5,10 +5,10 @@ description: "Interior design is planning and creating functional, beautiful ind
 category: arts-amp-culture
 tags: ["interior design", "design", "home decor", "space planning", "commercial design", "aesthetics"]
 heroImage: "/images/articles/interior-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of interior design"
+heroAlt: "Interior design is planning and creating functional, beautiful indoor spaces"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 752
 tier: "3"

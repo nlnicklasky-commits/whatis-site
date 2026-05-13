@@ -5,10 +5,10 @@ description: "Voting theory studies how elections and collective decisions are s
 category: politics
 tags: ["voting theory", "elections", "political science", "democracy", "social choice", "electoral systems"]
 heroImage: "/images/articles/voting-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of voting theory"
+heroAlt: "Voting theory studies how elections and collective decisions are structured"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 985
 tier: "3"

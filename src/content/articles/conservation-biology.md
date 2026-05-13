@@ -5,10 +5,10 @@ description: "Conservation biology is the scientific study of protecting biodive
 category: science
 tags: ["biology", "ecology", "environment", "biodiversity", "conservation", "wildlife", "ecosystems"]
 heroImage: "/images/articles/conservation-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of conservation biology"
+heroAlt: "Conservation biology is the scientific study of protecting biodiversity and managing ecosystems to prevent species extinction and habitat loss"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2667
 tier: "2"

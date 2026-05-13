@@ -5,10 +5,10 @@ description: "Music theory is the study of how music works, covering melody, har
 category: arts-amp-culture
 tags: ["music theory", "harmony", "melody", "rhythm", "scales", "music fundamentals"]
 heroImage: "/images/articles/music-theory-hero.webp"
-heroAlt: "Editorial photograph representing the concept of music theory"
+heroAlt: "Music theory is the study of how music works, covering melody, harmony, rhythm, and form"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1036
 tier: "3"

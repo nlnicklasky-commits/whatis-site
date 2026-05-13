@@ -5,10 +5,10 @@ description: "Productivity measures how efficiently you turn inputs into outputs
 category: everyday-concepts
 tags: ["productivity", "efficiency", "time management", "work ethic", "performance", "output"]
 heroImage: "/images/articles/productivity-hero.webp"
-heroAlt: "Editorial photograph representing the concept of productivity"
+heroAlt: "Productivity measures how efficiently you turn inputs into outputs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1112
 tier: "3"

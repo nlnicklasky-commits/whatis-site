@@ -5,10 +5,10 @@ description: "Steam engines convert heat into mechanical work and powered the In
 category: history
 tags: ["technology", "steam engines", "industrial revolution", "engineering"]
 heroImage: "/images/articles/steam-engines-hero.webp"
-heroAlt: "Editorial photograph representing the concept of steam engines"
+heroAlt: "Steam engines convert heat into mechanical work and powered the Industrial Revolution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1712
 tier: "3"

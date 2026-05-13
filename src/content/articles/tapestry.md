@@ -5,10 +5,10 @@ description: "A tapestry is a woven textile artwork created on a loom. Learn abo
 category: arts-amp-culture
 tags: ["tapestry", "textile art", "weaving", "loom", "fiber art", "wall hanging"]
 heroImage: "/images/articles/tapestry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tapestry"
+heroAlt: "A tapestry is a woven textile artwork created on a loom"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 738
 tier: "3"

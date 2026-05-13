@@ -5,10 +5,10 @@ description: "Forging shapes metal using compressive force, producing parts with
 category: technology
 tags: ["metalworking", "manufacturing", "metallurgy", "strength", "materials science", "industrial process", "blacksmithing"]
 heroImage: "/images/articles/forging-hero.webp"
-heroAlt: "Editorial photograph representing the concept of forging"
+heroAlt: "Forging shapes metal using compressive force, producing parts with superior strength for aerospace, automotive, and industrial applications"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2413
 tier: "2"

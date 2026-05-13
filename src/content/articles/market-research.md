@@ -5,10 +5,10 @@ description: "Market research is the process of gathering and analyzing data abo
 category: business
 tags: ["marketing", "market research", "business"]
 heroImage: "/images/articles/market-research-hero.webp"
-heroAlt: "Editorial photograph representing the concept of market research"
+heroAlt: "Market research is the process of gathering and analyzing data about customers, competitors, and markets to make smarter business decisions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1562
 tier: "3"

@@ -5,10 +5,10 @@ description: "Lobbying is the act of influencing government officials on behalf 
 category: politics
 tags: ["lobbying", "politics", "government", "advocacy", "policy", "interest groups"]
 heroImage: "/images/articles/lobbying-hero.webp"
-heroAlt: "Editorial photograph representing the concept of lobbying"
+heroAlt: "Lobbying is the act of influencing government officials on behalf of a cause or interest group"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1044
 tier: "3"

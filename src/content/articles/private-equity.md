@@ -5,10 +5,10 @@ description: "Private equity firms buy companies with borrowed money, restructur
 category: finance
 tags: ["private equity", "investment", "leveraged buyout", "finance", "capital markets", "financial services"]
 heroImage: "/images/articles/private-equity-hero.webp"
-heroAlt: "Editorial photograph representing the concept of private equity"
+heroAlt: "Private equity firms buy companies with borrowed money, restructure them, and sell for profit"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2915
 tier: "2"

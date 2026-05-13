@@ -5,10 +5,10 @@ description: "Camera operation is the art and technical skill of capturing image
 category: arts-amp-culture
 tags: ["camera", "photography", "videography", "exposure", "composition", "lenses"]
 heroImage: "/images/articles/camera-operation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of camera operation"
+heroAlt: "Camera operation is the art and technical skill of capturing images and video using cameras, involving exposure, composition, focus, and lens selection"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 858
 tier: "3"

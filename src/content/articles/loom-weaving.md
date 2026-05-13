@@ -5,10 +5,10 @@ description: "Loom weaving is the craft of interlacing threads on a frame to cre
 category: everyday-concepts
 tags: ["loom weaving", "weaving", "textiles", "fiber arts", "handcraft", "fabric"]
 heroImage: "/images/articles/loom-weaving-hero.webp"
-heroAlt: "Editorial photograph representing the concept of loom weaving"
+heroAlt: "Loom weaving is the craft of interlacing threads on a frame to create fabric"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1056
 tier: "3"

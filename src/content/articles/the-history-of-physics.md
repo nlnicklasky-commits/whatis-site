@@ -5,10 +5,10 @@ description: "The history of physics traces how humans came to understand the fu
 category: everyday-concepts
 tags: ["the history of physics", "physics", "science history", "Newton", "Einstein", "quantum mechanics"]
 heroImage: "/images/articles/the-history-of-physics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of physics"
+heroAlt: "The history of physics traces how humans came to understand the fundamental laws of nature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 912
 tier: "3"

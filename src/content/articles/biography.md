@@ -5,10 +5,10 @@ description: "A biography is a detailed written account of a person's life, expl
 category: everyday-concepts
 tags: ["biography", "literature", "writing", "nonfiction", "history", "memoir"]
 heroImage: "/images/articles/biography-hero.webp"
-heroAlt: "Editorial photograph representing the concept of biography"
+heroAlt: "A biography is a detailed written account of a person's life, exploring their experiences, achievements, relationships, and historical significance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 922
 tier: "3"

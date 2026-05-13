@@ -5,10 +5,10 @@ description: "Computer science is the study of computation, algorithms, data str
 category: technology
 tags: ["computing", "programming", "algorithms", "ai", "software engineering", "data science", "it"]
 heroImage: "/images/articles/computer-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of computer science"
+heroAlt: "Computer science is the study of computation, algorithms, data structures, and the theory behind how computers solve problems and process information"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2512
 tier: "2"

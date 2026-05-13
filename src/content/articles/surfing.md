@@ -5,10 +5,10 @@ description: "Surfing is the sport of riding ocean waves on a board. Learn the b
 category: everyday-concepts
 tags: ["surfing", "ocean", "water sports", "waves", "balance", "beach culture"]
 heroImage: "/images/articles/surfing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of surfing"
+heroAlt: "Surfing is the sport of riding ocean waves on a board"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 821
 tier: "3"

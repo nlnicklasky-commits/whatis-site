@@ -5,10 +5,10 @@ description: "Judo is a Japanese martial art focused on throws and grappling, no
 category: sports
 tags: ["judo", "sports", "martial arts", "Olympic sport", "grappling", "self-defense"]
 heroImage: "/images/articles/judo-hero.webp"
-heroAlt: "Editorial photograph representing the concept of judo"
+heroAlt: "Judo is a Japanese martial art focused on throws and grappling, now an Olympic sport"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 748
 tier: "3"

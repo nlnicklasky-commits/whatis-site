@@ -5,10 +5,10 @@ description: "Rainforest ecology studies how tropical forest organisms interact 
 category: science
 tags: ["rainforest ecology", "tropical rainforest", "biodiversity", "ecology", "deforestation", "conservation", "ecosystems"]
 heroImage: "/images/articles/rainforest-ecology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of rainforest ecology"
+heroAlt: "Rainforest ecology studies how tropical forest organisms interact with each other and their environment, from canopy layers to nutrient cycling"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3319
 tier: "1"

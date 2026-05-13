@@ -5,10 +5,10 @@ description: "Qigong is an ancient Chinese practice combining slow movement, bre
 category: health-amp-wellness
 tags: ["qigong", "traditional chinese medicine", "meditation", "energy"]
 heroImage: "/images/articles/qigong-hero.webp"
-heroAlt: "Editorial photograph representing the concept of qigong"
+heroAlt: "Qigong is an ancient Chinese practice combining slow movement, breathing, and meditation to improve health"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1694
 tier: "3"

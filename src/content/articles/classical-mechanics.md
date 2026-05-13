@@ -5,10 +5,10 @@ description: "Classical mechanics explains how objects move under the influence 
 category: science
 tags: ["classical mechanics", "physics", "newton's laws", "motion", "energy", "force", "engineering"]
 heroImage: "/images/articles/classical-mechanics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of classical mechanics"
+heroAlt: "Classical mechanics explains how objects move under the influence of forces"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2715
 tier: "2"

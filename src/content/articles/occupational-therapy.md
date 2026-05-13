@@ -5,10 +5,10 @@ description: "Occupational therapy helps people perform daily activities after i
 category: health-amp-wellness
 tags: ["occupational therapy", "rehabilitation", "healthcare", "therapy"]
 heroImage: "/images/articles/occupational-therapy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of occupational therapy"
+heroAlt: "Occupational therapy helps people perform daily activities after injury, illness, or disability"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1556
 tier: "3"

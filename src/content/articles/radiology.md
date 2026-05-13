@@ -5,10 +5,10 @@ description: "Radiology uses imaging technologies like X-rays, CT, MRI, and ultr
 category: health-amp-wellness
 tags: ["medical", "radiology", "imaging", "x-ray"]
 heroImage: "/images/articles/radiology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of radiology"
+heroAlt: "Radiology uses imaging technologies like X-rays, CT, MRI, and ultrasound to diagnose and treat diseases"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1615
 tier: "3"

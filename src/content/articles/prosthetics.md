@@ -5,10 +5,10 @@ description: "Prosthetics is the field of designing and fitting artificial limbs
 category: health-amp-wellness
 tags: ["prosthetics", "artificial limbs", "rehabilitation", "biomedical engineering"]
 heroImage: "/images/articles/prosthetics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of prosthetics"
+heroAlt: "Prosthetics is the field of designing and fitting artificial limbs and body parts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1489
 tier: "3"

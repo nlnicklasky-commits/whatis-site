@@ -5,10 +5,10 @@ description: "Alchemy was an ancient practice blending proto-chemistry, philosop
 category: history
 tags: ["alchemy", "history", "pseudoscience", "transmutation", "history of science"]
 heroImage: "/images/articles/alchemy-hero.webp"
-heroAlt: "Editorial photograph representing the concept of alchemy"
+heroAlt: "Alchemy was an ancient practice blending proto-chemistry, philosophy, and mysticism aimed at transforming base metals into gold and finding immortality"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1602
 tier: '2'

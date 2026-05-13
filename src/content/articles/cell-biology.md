@@ -5,10 +5,10 @@ description: "Cell biology studies the structure, function, and behavior of cell
 category: science
 tags: ["cell biology", "biology", "cells", "molecular biology", "organelles", "genetics", "biochemistry"]
 heroImage: "/images/articles/cell-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of cell biology"
+heroAlt: "Cell biology studies the structure, function, and behavior of cells — the fundamental units of life that make up every living organism on Earth"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2885
 tier: "2"

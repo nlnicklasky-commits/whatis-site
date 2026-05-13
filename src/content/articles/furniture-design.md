@@ -5,10 +5,10 @@ description: "Furniture design combines aesthetics, ergonomics, and engineering 
 category: arts-amp-culture
 tags: ["furniture", "design", "interior design", "industrial design", "ergonomics", "aesthetics"]
 heroImage: "/images/articles/furniture-design-hero.webp"
-heroAlt: "Editorial photograph representing the concept of furniture design"
+heroAlt: "Furniture design combines aesthetics, ergonomics, and engineering to create functional objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 888
 tier: "3"

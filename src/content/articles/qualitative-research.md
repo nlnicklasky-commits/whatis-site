@@ -5,10 +5,10 @@ description: "Qualitative research explores human experience through interviews,
 category: science
 tags: ["qualitative research", "research methods", "interviews", "ethnography", "grounded theory", "social science"]
 heroImage: "/images/articles/qualitative-research-hero.webp"
-heroAlt: "Editorial photograph representing the concept of qualitative research"
+heroAlt: "Qualitative research explores human experience through interviews, observations, and text analysis to understand the 'why' behind behaviors and beliefs"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2397
 tier: "2"

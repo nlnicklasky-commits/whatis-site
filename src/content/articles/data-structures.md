@@ -5,10 +5,10 @@ description: "Data structures are ways of organizing information in a computer f
 category: technology
 tags: ["data structures", "computer science", "programming", "algorithms", "software engineering", "arrays", "linked lists"]
 heroImage: "/images/articles/data-structures-hero.webp"
-heroAlt: "Editorial photograph representing the concept of data structures"
+heroAlt: "Data structures are ways of organizing information in a computer for efficient access and modification"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3006
 tier: "1"

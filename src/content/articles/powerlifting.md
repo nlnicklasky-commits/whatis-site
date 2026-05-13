@@ -5,10 +5,10 @@ description: "Powerlifting is a strength sport where athletes compete in the squ
 category: sports
 tags: ["powerlifting", "strength sport", "squat", "bench press", "deadlift", "strength training"]
 heroImage: "/images/articles/powerlifting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of powerlifting"
+heroAlt: "Powerlifting is a strength sport where athletes compete in the squat, bench press, and deadlift"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1137
 tier: "3"

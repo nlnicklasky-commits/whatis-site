@@ -5,10 +5,10 @@ description: "Sailing is the practice of using wind to propel a boat across wate
 category: sports
 tags: ["sailing", "sailboat", "yachting", "wind power", "nautical", "water sports"]
 heroImage: "/images/articles/sailing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sailing"
+heroAlt: "Sailing is the practice of using wind to propel a boat across water"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1100
 tier: "3"

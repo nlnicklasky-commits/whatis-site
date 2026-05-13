@@ -5,10 +5,10 @@ description: "Olive oil production transforms olives into oil through harvesting
 category: everyday-concepts
 tags: ["olive oil", "olive cultivation", "oil extraction", "mediterranean diet", "extra virgin olive oil", "agronomy"]
 heroImage: "/images/articles/olive-oil-production-hero.webp"
-heroAlt: "Editorial photograph representing the concept of olive oil production"
+heroAlt: "Olive oil production transforms olives into oil through harvesting, pressing, and refining"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1057
 tier: "3"

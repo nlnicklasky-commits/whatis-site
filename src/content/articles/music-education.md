@@ -5,10 +5,10 @@ description: "Music education is the teaching and learning of music in schools a
 category: arts-amp-culture
 tags: ["music education", "teaching music", "school music", "music pedagogy", "arts education", "music learning"]
 heroImage: "/images/articles/music-education-hero.webp"
-heroAlt: "Editorial photograph representing the concept of music education"
+heroAlt: "Music education is the teaching and learning of music in schools and private settings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 948
 tier: "3"

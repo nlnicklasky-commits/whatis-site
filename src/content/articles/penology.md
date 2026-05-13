@@ -5,10 +5,10 @@ description: "Penology is the study of punishment, prison systems, and offender 
 category: law
 tags: ["penology", "criminology", "criminal justice", "punishment"]
 heroImage: "/images/articles/penology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of penology"
+heroAlt: "Penology is the study of punishment, prison systems, and offender rehabilitation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1810
 tier: "3"

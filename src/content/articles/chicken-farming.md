@@ -5,10 +5,10 @@ description: "Chicken farming is the practice of raising chickens for eggs, meat
 category: everyday-concepts
 tags: ["chicken farming", "poultry", "agriculture", "farming", "livestock", "eggs"]
 heroImage: "/images/articles/chicken-farming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of chicken farming"
+heroAlt: "Chicken farming is the practice of raising chickens for eggs, meat, or both, ranging from backyard flocks to large-scale commercial operations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 983
 tier: "3"

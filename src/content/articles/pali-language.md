@@ -5,10 +5,10 @@ description: "Pali is the sacred language of Theravada Buddhism, preserving the 
 category: everyday-concepts
 tags: ["pali language", "buddhism", "ancient languages", "theravada", "linguistics", "sacred texts"]
 heroImage: "/images/articles/pali-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of pali language"
+heroAlt: "Pali is the sacred language of Theravada Buddhism, preserving the oldest Buddhist scriptures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 885
 tier: "3"

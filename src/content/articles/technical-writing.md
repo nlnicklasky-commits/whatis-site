@@ -5,10 +5,10 @@ description: "Technical writing is the practice of creating clear, precise docum
 category: technology
 tags: ["technical writing", "documentation", "user manuals", "information design"]
 heroImage: "/images/articles/technical-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of technical writing"
+heroAlt: "Technical writing is the practice of creating clear, precise documents that explain complex information to specific audiences, from user manuals to API docs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2077
 tier: "2"

@@ -5,10 +5,10 @@ description: "Product management decides what gets built and why. Learn how PMs 
 category: technology
 tags: ["product management", "product development", "product strategy", "user experience", "product lifecycle", "agile"]
 heroImage: "/images/articles/product-management-hero.webp"
-heroAlt: "Editorial photograph representing the concept of product management"
+heroAlt: "Product management decides what gets built and why"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2555
 tier: "2"

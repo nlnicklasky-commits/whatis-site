@@ -5,10 +5,10 @@ description: "Natural disasters are extreme geological or weather events that ca
 category: everyday-concepts
 tags: ["natural disasters", "earthquakes", "hurricanes", "floods", "emergency preparedness", "geology"]
 heroImage: "/images/articles/natural-disasters-hero.webp"
-heroAlt: "Editorial photograph representing the concept of natural disasters"
+heroAlt: "Natural disasters are extreme geological or weather events that cause significant destruction"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1033
 tier: "3"

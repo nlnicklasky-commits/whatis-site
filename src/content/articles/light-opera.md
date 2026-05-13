@@ -5,10 +5,10 @@ description: "Light opera (operetta) is a form of musical theater combining spok
 category: everyday-concepts
 tags: ["light opera", "operetta", "musical theater", "Gilbert and Sullivan", "performing arts", "music"]
 heroImage: "/images/articles/light-opera-hero.webp"
-heroAlt: "Editorial photograph representing the concept of light opera"
+heroAlt: "Light opera (operetta) is a form of musical theater combining spoken dialogue with singing and dancing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 925
 tier: "3"

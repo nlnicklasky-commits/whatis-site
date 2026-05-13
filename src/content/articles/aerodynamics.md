@@ -5,10 +5,10 @@ description: "Aerodynamics is the study of how air moves around objects. Learn a
 category: science
 tags: ["aerodynamics", "physics", "engineering", "flight", "lift", "drag", "fluid dynamics"]
 heroImage: "/images/articles/aerodynamics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of aerodynamics"
+heroAlt: "Aerodynamics is the study of how air moves around objects"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3488
 tier: "1"

@@ -5,10 +5,10 @@ description: "Clinical psychology is the branch of psychology focused on diagnos
 category: health-amp-wellness
 tags: ["clinical psychology", "psychology", "mental health", "psychotherapy", "therapy"]
 heroImage: "/images/articles/clinical-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of clinical psychology"
+heroAlt: "Clinical psychology is the branch of psychology focused on diagnosing and treating mental illness, emotional disorders, and behavioral problems through therapy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1478
 tier: "3"

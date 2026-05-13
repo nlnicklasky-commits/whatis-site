@@ -5,10 +5,10 @@ description: "Modern history covers roughly 1500 CE to today. Learn how the Rena
 category: history
 tags: ["history", "modern era", "world history"]
 heroImage: "/images/articles/modern-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of modern history"
+heroAlt: "Modern history covers roughly 1500 CE to today"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1606
 tier: "3"

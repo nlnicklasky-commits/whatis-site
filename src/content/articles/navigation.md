@@ -5,10 +5,10 @@ description: "Navigation is the science and practice of determining position and
 category: everyday-concepts
 tags: ["navigation", "gps", "mapping", "orienteering", "celestial navigation", "route planning"]
 heroImage: "/images/articles/navigation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of navigation"
+heroAlt: "Navigation is the science and practice of determining position and plotting a course"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1052
 tier: "3"

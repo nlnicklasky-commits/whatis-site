@@ -5,10 +5,10 @@ description: "Latticework is a framework of crossed strips forming a grid patter
 category: everyday-concepts
 tags: ["latticework", "architecture", "garden design", "woodworking", "decorative arts"]
 heroImage: "/images/articles/latticework-hero.webp"
-heroAlt: "Editorial photograph representing the concept of latticework"
+heroAlt: "Latticework is a framework of crossed strips forming a grid pattern, used in architecture, gardening, and decorative arts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 992
 tier: "3"

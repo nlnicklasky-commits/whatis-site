@@ -5,10 +5,10 @@ description: "Business law governs commercial transactions, corporate structure,
 category: finance
 tags: ["business law", "commercial law", "contracts", "corporate law", "intellectual property", "consumer protection", "legal framework"]
 heroImage: "/images/articles/business-law-hero.webp"
-heroAlt: "Editorial photograph representing the concept of business law"
+heroAlt: "Business law governs commercial transactions, corporate structure, contracts, and regulatory compliance for organizations and entrepreneurs"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2635
 tier: "2"

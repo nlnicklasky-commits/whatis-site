@@ -5,10 +5,10 @@ description: "Language acquisition is how humans learn to understand and produce
 category: everyday-concepts
 tags: ["language acquisition", "linguistics", "child development", "second language", "Chomsky", "education"]
 heroImage: "/images/articles/language-acquisition-hero.webp"
-heroAlt: "Editorial photograph representing the concept of language acquisition"
+heroAlt: "Language acquisition is how humans learn to understand and produce language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1131
 tier: "3"

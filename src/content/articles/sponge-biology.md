@@ -5,10 +5,10 @@ description: "Sponges are the simplest multicellular animals on Earth, with no o
 category: everyday-concepts
 tags: ["sponge biology", "marine biology", "Porifera", "invertebrates", "ocean ecology", "animals"]
 heroImage: "/images/articles/sponge-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sponge biology"
+heroAlt: "Sponges are the simplest multicellular animals on Earth, with no organs or nervous system"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1069
 tier: "3"

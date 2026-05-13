@@ -5,10 +5,10 @@ description: "Investment banking helps companies raise capital, execute mergers,
 category: finance
 tags: ["investment banking", "finance", "m&a", "capital markets", "underwriting", "ipo", "financial advisory"]
 heroImage: "/images/articles/investment-banking-hero.webp"
-heroAlt: "Editorial photograph representing the concept of investment banking"
+heroAlt: "Investment banking helps companies raise capital, execute mergers, and navigate financial markets"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3036
 tier: "1"

@@ -5,10 +5,10 @@ description: "Irrigation is supplying water to crops through artificial channels
 category: agriculture
 tags: ["irrigation", "agriculture", "water management", "farming", "food production"]
 heroImage: "/images/articles/irrigation-hero.webp"
-heroAlt: "Editorial photograph representing the concept of irrigation"
+heroAlt: "Irrigation is supplying water to crops through artificial channels and systems"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 804
 tier: "3"

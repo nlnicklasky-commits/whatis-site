@@ -5,10 +5,10 @@ description: "Skateboarding is a sport and culture built around riding and perfo
 category: sports
 tags: ["skateboarding", "skateboard", "action sports", "extreme sports", "tricks", "skatepark"]
 heroImage: "/images/articles/skateboarding-hero.webp"
-heroAlt: "Editorial photograph representing the concept of skateboarding"
+heroAlt: "Skateboarding is a sport and culture built around riding and performing tricks on a skateboard"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 992
 tier: "3"

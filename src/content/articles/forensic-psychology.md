@@ -5,10 +5,10 @@ description: "Forensic psychology applies psychological science to the legal sys
 category: science
 tags: ["psychology", "law", "justice system", "mental health", "criminal behavior", "expert testimony", "assessment"]
 heroImage: "/images/articles/forensic-psychology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of forensic psychology"
+heroAlt: "Forensic psychology applies psychological science to the legal system, covering criminal profiling, competency evaluations, and expert testimony"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2371
 tier: "2"

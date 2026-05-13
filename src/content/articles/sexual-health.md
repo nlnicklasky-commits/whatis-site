@@ -5,10 +5,10 @@ description: "Sexual health covers physical, emotional, and social well-being re
 category: health-amp-wellness
 tags: ["sexual health", "reproductive health", "sti prevention", "consent", "sex education"]
 heroImage: "/images/articles/sexual-health-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sexual health"
+heroAlt: "Sexual health covers physical, emotional, and social well-being related to sexuality"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1874
 tier: "3"

@@ -5,10 +5,10 @@ description: "The spice trade shaped global history for thousands of years. Lear
 category: history
 tags: ["spice trade", "trade history", "age of exploration", "commerce"]
 heroImage: "/images/articles/spice-trade-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of spice trade history"
+heroAlt: "The spice trade shaped global history for thousands of years"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1654
 tier: "3"

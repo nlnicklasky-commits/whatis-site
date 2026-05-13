@@ -5,10 +5,10 @@ description: "Web analytics measures and analyzes website traffic and user behav
 category: technology
 tags: ["web analytics", "digital marketing", "data", "SEO", "marketing"]
 heroImage: "/images/articles/web-analytics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of web analytics"
+heroAlt: "Web analytics measures and analyzes website traffic and user behavior"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2478
 tier: '1'

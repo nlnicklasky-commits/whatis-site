@@ -5,10 +5,10 @@ description: "Neoclassicism is an art and architectural movement inspired by anc
 category: everyday-concepts
 tags: ["neoclassicism", "art history", "architecture", "classical art", "enlightenment", "sculpture"]
 heroImage: "/images/articles/neoclassicism-hero.webp"
-heroAlt: "Editorial photograph representing the concept of neoclassicism"
+heroAlt: "Neoclassicism is an art and architectural movement inspired by ancient Greece and Rome"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 892
 tier: "3"

@@ -5,10 +5,10 @@ description: "Swimming is the sport and skill of moving through water using body
 category: sports
 tags: ["swimming", "sports", "water", "exercise", "Olympics", "fitness"]
 heroImage: "/images/articles/swimming-hero.webp"
-heroAlt: "Editorial photograph representing the concept of swimming"
+heroAlt: "Swimming is the sport and skill of moving through water using body movements"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 883
 tier: "3"

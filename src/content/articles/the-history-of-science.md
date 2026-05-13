@@ -5,10 +5,10 @@ description: "The history of science tracks how humanity moved from myth to meth
 category: history
 tags: ["history of science", "science", "scientific revolution", "scientific method"]
 heroImage: "/images/articles/the-history-of-science-hero.webp"
-heroAlt: "Editorial photograph representing the concept of the history of science"
+heroAlt: "The history of science tracks how humanity moved from myth to method, reshaping our understanding of nature over 3,000 years"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1580
 tier: "3"

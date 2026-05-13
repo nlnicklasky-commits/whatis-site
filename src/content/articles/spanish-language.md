@@ -5,10 +5,10 @@ description: "Spanish is a Romance language spoken by over 500 million people wo
 category: everyday-concepts
 tags: ["spanish language", "Romance languages", "linguistics", "Latin America", "bilingualism", "global language"]
 heroImage: "/images/articles/spanish-language-hero.webp"
-heroAlt: "Editorial photograph representing the concept of spanish language"
+heroAlt: "Spanish is a Romance language spoken by over 500 million people worldwide, making it the fourth most spoken language"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 763
 tier: "3"

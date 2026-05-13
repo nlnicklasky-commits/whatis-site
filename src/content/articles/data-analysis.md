@@ -5,10 +5,10 @@ description: "Data analysis is the process of inspecting, cleaning, and modeling
 category: technology
 tags: ["data analysis", "statistics", "data science", "analytics", "business intelligence", "visualization", "research"]
 heroImage: "/images/articles/data-analysis-hero.webp"
-heroAlt: "Editorial photograph representing the concept of data analysis"
+heroAlt: "Data analysis is the process of inspecting, cleaning, and modeling data to find useful information"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3185
 tier: "1"

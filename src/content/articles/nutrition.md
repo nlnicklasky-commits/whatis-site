@@ -5,10 +5,10 @@ description: "Nutrition is the science of how food nourishes the body. Learn abo
 category: health-amp-wellness
 tags: ["nutrition", "diet", "nutrients", "health", "food science"]
 heroImage: "/images/articles/nutrition-hero.webp"
-heroAlt: "Editorial photograph representing the concept of nutrition"
+heroAlt: "Nutrition is the science of how food nourishes the body"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1611
 tier: "3"

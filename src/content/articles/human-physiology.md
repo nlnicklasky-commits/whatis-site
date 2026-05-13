@@ -5,10 +5,10 @@ description: "Human physiology studies how your body's systems function. Explore
 category: science
 tags: ["human physiology", "physiology", "human body", "biology", "health science", "medicine", "homeostasis"]
 heroImage: "/images/articles/human-physiology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of human physiology"
+heroAlt: "Human physiology studies how your body's systems function"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2682
 tier: "2"

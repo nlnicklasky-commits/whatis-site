@@ -5,10 +5,10 @@ description: "Health informatics applies IT to healthcare, managing electronic r
 category: technology
 tags: ["health informatics", "healthcare", "information technology", "ehr", "data analytics", "medical technology", "digital health"]
 heroImage: "/images/articles/health-informatics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of health informatics"
+heroAlt: "Health informatics applies IT to healthcare, managing electronic records, clinical data, and systems that improve patient care and outcomes"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2799
 tier: "2"

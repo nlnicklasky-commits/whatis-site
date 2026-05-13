@@ -5,10 +5,10 @@ description: "Tree climbing is the activity of ascending trees for recreation, s
 category: sports
 tags: ["tree climbing", "outdoor recreation", "arboriculture", "climbing", "adventure sports", "nature"]
 heroImage: "/images/articles/tree-climbing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of tree climbing"
+heroAlt: "Tree climbing is the activity of ascending trees for recreation, sport, or professional work"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1155
 tier: "3"

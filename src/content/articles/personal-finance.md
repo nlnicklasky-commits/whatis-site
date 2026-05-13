@@ -5,10 +5,10 @@ description: "Personal finance is managing your money through budgeting, saving,
 category: finance
 tags: ["budgeting", "saving", "investing", "debt management", "financial planning", "money management", "retirement"]
 heroImage: "/images/articles/personal-finance-hero.webp"
-heroAlt: "Editorial photograph representing the concept of personal finance"
+heroAlt: "Personal finance is managing your money through budgeting, saving, investing, and debt management"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2852
 tier: "2"

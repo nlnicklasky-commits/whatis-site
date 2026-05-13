@@ -5,10 +5,10 @@ description: "Metabolic pathways are linked chemical reactions in cells that bui
 category: science
 tags: ["metabolic pathways", "metabolism", "biochemistry", "enzymes", "cellular respiration", "biosynthesis", "biology"]
 heroImage: "/images/articles/metabolic-pathways-hero.webp"
-heroAlt: "Editorial photograph representing the concept of metabolic pathways"
+heroAlt: "Metabolic pathways are linked chemical reactions in cells that build or break down molecules"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2611
 tier: "2"

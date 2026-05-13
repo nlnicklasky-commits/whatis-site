@@ -5,10 +5,10 @@ description: "Carbohydrate chemistry studies the structure, synthesis, and react
 category: science
 tags: ["carbohydrate chemistry", "organic chemistry", "biochemistry", "sugars", "glucose", "polysaccharides", "monosaccharides"]
 heroImage: "/images/articles/carbohydrate-chemistry-hero.webp"
-heroAlt: "Editorial photograph representing the concept of carbohydrate chemistry"
+heroAlt: "Carbohydrate chemistry studies the structure, synthesis, and reactions of sugars and polysaccharides, from glucose molecules to cellulose and starch"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2557
 tier: "2"

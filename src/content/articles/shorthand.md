@@ -5,10 +5,10 @@ description: "Shorthand is a fast writing system using symbols and abbreviations
 category: everyday-concepts
 tags: ["shorthand", "stenography", "writing", "note-taking", "speed writing", "gregg shorthand"]
 heroImage: "/images/articles/shorthand-hero.webp"
-heroAlt: "Editorial photograph representing the concept of shorthand"
+heroAlt: "Shorthand is a fast writing system using symbols and abbreviations to capture speech at speed"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 993
 tier: "3"

@@ -5,10 +5,10 @@ description: "Developmental biology studies how organisms grow from a single cel
 category: science
 tags: ["developmental biology", "embryology", "biology", "genetics", "cell differentiation", "morphogenesis", "stem cells"]
 heroImage: "/images/articles/developmental-biology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of developmental biology"
+heroAlt: "Developmental biology studies how organisms grow from a single cell into complex beings"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2818
 tier: "2"

@@ -5,10 +5,10 @@ description: "Mathematical modeling translates real-world problems into equation
 category: science
 tags: ["mathematical modeling", "simulation", "mathematics", "applied math", "differential equations", "optimization", "prediction"]
 heroImage: "/images/articles/mathematical-modeling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of mathematical modeling"
+heroAlt: "Mathematical modeling translates real-world problems into equations to simulate, predict, and optimize systems from disease to climate"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2396
 tier: "2"

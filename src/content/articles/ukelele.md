@@ -5,10 +5,10 @@ description: "The ukulele is a small, four-stringed instrument from Hawaii. Lear
 category: arts-amp-culture
 tags: ["ukelele", "ukulele", "string instruments", "Hawaii", "music", "acoustic"]
 heroImage: "/images/articles/ukelele-hero.webp"
-heroAlt: "Editorial photograph representing the concept of ukelele"
+heroAlt: "The ukulele is a small, four-stringed instrument from Hawaii"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 931
 tier: "3"

@@ -5,10 +5,10 @@ description: "Landscape painting is the art of depicting natural scenery on canv
 category: arts-amp-culture
 tags: ["landscape painting", "art history", "painting", "nature", "fine art", "plein air"]
 heroImage: "/images/articles/landscape-painting-hero.webp"
-heroAlt: "Editorial photograph representing the concept of landscape painting"
+heroAlt: "Landscape painting is the art of depicting natural scenery on canvas"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1027
 tier: "3"

@@ -5,10 +5,10 @@ description: "Social engineering manipulates people into revealing information o
 category: everyday-concepts
 tags: ["social engineering", "cybersecurity", "phishing", "manipulation", "security", "hacking"]
 heroImage: "/images/articles/social-engineering-hero.webp"
-heroAlt: "Editorial photograph representing the concept of social engineering"
+heroAlt: "Social engineering manipulates people into revealing information or taking actions that compromise security"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 841
 tier: "3"

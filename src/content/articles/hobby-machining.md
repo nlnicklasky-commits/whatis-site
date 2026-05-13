@@ -5,10 +5,10 @@ description: "Hobby machining is using lathes, mills, and other machine tools at
 category: everyday-concepts
 tags: ["hobby machining", "machining", "metalworking", "diy", "craftsmanship", "engineering"]
 heroImage: "/images/articles/hobby-machining-hero.webp"
-heroAlt: "Editorial photograph representing the concept of hobby machining"
+heroAlt: "Hobby machining is using lathes, mills, and other machine tools at home to shape metal and other materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 931
 tier: "3"

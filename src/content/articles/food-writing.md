@@ -5,10 +5,10 @@ description: "Food writing covers restaurant reviews, cookbooks, food journalism
 category: arts-amp-culture
 tags: ["food", "writing", "culinary arts", "journalism", "culture", "recipes"]
 heroImage: "/images/articles/food-writing-hero.webp"
-heroAlt: "Editorial photograph representing the concept of food writing"
+heroAlt: "Food writing covers restaurant reviews, cookbooks, food journalism, and culinary memoir"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 919
 tier: "3"

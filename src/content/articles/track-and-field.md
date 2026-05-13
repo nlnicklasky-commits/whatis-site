@@ -5,10 +5,10 @@ description: "Track and field is a collection of athletic events including runni
 category: sports
 tags: ["track and field", "athletics", "Olympics", "running", "sports", "competition"]
 heroImage: "/images/articles/track-and-field-hero.webp"
-heroAlt: "Editorial photograph representing the concept of track and field"
+heroAlt: "Track and field is a collection of athletic events including running, jumping, and throwing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 754
 tier: "3"

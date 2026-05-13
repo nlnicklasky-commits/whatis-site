@@ -5,10 +5,10 @@ description: "Vexillology is the scholarly study of flags, their history, symbol
 category: everyday-concepts
 tags: ["vexillology", "flags", "symbols", "heraldry", "design", "history"]
 heroImage: "/images/articles/vexillology-hero.webp"
-heroAlt: "Editorial photograph representing the concept of vexillology"
+heroAlt: "Vexillology is the scholarly study of flags, their history, symbolism, and design"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 944
 tier: "3"

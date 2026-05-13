@@ -5,10 +5,10 @@ description: "Polynesian culture spans the Pacific islands from Hawaii to New Ze
 category: arts-amp-culture
 tags: ["polynesia", "pacific islands", "indigenous culture", "oceania", "voyaging", "navigation"]
 heroImage: "/images/articles/polynesian-culture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of polynesian culture"
+heroAlt: "Polynesian culture spans the Pacific islands from Hawaii to New Zealand, known for navigation, oral tradition, and deep ocean heritage"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1116
 tier: "3"

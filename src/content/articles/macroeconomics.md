@@ -5,10 +5,10 @@ description: "Macroeconomics studies economies at the national and global level.
 category: finance
 tags: ["macroeconomics", "economics", "gdp", "inflation", "unemployment", "monetary policy", "fiscal policy"]
 heroImage: "/images/articles/macroeconomics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of macroeconomics"
+heroAlt: "Macroeconomics studies economies at the national and global level"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
-dateModified: "2026-03-06"
+dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2569
 tier: "2"

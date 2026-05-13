@@ -5,10 +5,10 @@ description: "Sericulture is the farming of silkworms to produce silk fiber. Lea
 category: everyday-concepts
 tags: ["sericulture", "silkworms", "silk", "textile", "agriculture", "mulberry"]
 heroImage: "/images/articles/sericulture-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sericulture"
+heroAlt: "Sericulture is the farming of silkworms to produce silk fiber"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1121
 tier: "3"

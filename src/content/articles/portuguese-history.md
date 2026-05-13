@@ -5,10 +5,10 @@ description: "Portuguese history spans from ancient Lusitania to a global mariti
 category: history
 tags: ["portuguese history", "portugal", "age of discovery", "european history"]
 heroImage: "/images/articles/portuguese-history-hero.webp"
-heroAlt: "Editorial photograph representing the concept of portuguese history"
+heroAlt: "Portuguese history spans from ancient Lusitania to a global maritime empire and modern democracy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1552
 tier: "3"

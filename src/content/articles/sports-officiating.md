@@ -5,10 +5,10 @@ description: "Sports officiating is the enforcement of rules during athletic com
 category: sports
 tags: ["sports officiating", "referee", "umpire", "rules enforcement", "instant replay", "game management"]
 heroImage: "/images/articles/sports-officiating-hero.webp"
-heroAlt: "Editorial photograph representing the concept of sports officiating"
+heroAlt: "Sports officiating is the enforcement of rules during athletic competitions by referees, umpires, and judges"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1104
 tier: "3"

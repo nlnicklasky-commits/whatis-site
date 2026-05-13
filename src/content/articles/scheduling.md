@@ -5,10 +5,10 @@ description: "Scheduling is the process of organizing tasks and resources across
 category: everyday-concepts
 tags: ["scheduling", "time management", "project management", "planning", "resource allocation", "productivity"]
 heroImage: "/images/articles/scheduling-hero.webp"
-heroAlt: "Editorial photograph representing the concept of scheduling"
+heroAlt: "Scheduling is the process of organizing tasks and resources across time"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1251
 tier: "3"

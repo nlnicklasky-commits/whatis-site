@@ -5,10 +5,10 @@ description: "Orthodontics is the dental specialty focused on correcting misalig
 category: health-amp-wellness
 tags: ["orthodontics", "braces", "dentistry", "oral health"]
 heroImage: "/images/articles/orthodontics-hero.webp"
-heroAlt: "Editorial photograph representing the concept of orthodontics"
+heroAlt: "Orthodontics is the dental specialty focused on correcting misaligned teeth and jaws"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
-dateModified: "2025-07-15"
+dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1797
 tier: "3"
