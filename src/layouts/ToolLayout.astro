@@ -1,0 +1,112 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface FaqItem { q: string; a: string; }
+
+interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  applicationCategory: string; // schema.org WebApplication category
+  faq: FaqItem[];
+  lastUpdated: string;
+}
+
+const { title, description, slug, applicationCategory, faq, lastUpdated } = Astro.props;
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const canonicalUrl = `${siteUrl}/${slug}`;
+const lastUpdatedISO = new Date(lastUpdated).toISOString();
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage={`${siteUrl}/og-image.png`}
+  ogType="website"
+>
+  <!-- WebApplication schema for free tool -->
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "@id": canonicalUrl,
+    "name": title,
+    "url": canonicalUrl,
+    "applicationCategory": applicationCategory,
+    "operatingSystem": "All",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "description": description,
+    "publisher": { "@id": `${siteUrl}/#organization` },
+    "dateModified": lastUpdatedISO,
+    "isAccessibleForFree": true,
+    "browserRequirements": "Requires JavaScript. Requires HTML5."
+  })} />
+
+  {faq?.length > 0 && (
+    <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faq.map(item => ({
+        "@type": "Question",
+        "name": item.q,
+        "acceptedAnswer": { "@type": "Answer", "text": item.a }
+      }))
+    })} />
+  )}
+
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": siteUrl },
+      { "@type": "ListItem", "position": 2, "name": "Free Tools", "item": `${siteUrl}/free-tools` },
+      { "@type": "ListItem", "position": 3, "name": title }
+    ]
+  })} />
+
+  <article class="max-w-4xl mx-auto px-4 py-8">
+    <nav aria-label="Breadcrumb" class="text-sm text-gray-500 mb-4">
+      <ol class="flex items-center gap-1 flex-wrap">
+        <li><a href="/" class="hover:text-blue-600 transition-colors">Home</a></li>
+        <li class="before:content-['/'] before:mx-1.5 before:text-gray-300">
+          <a href="/free-tools" class="hover:text-blue-600 transition-colors">Free Tools</a>
+        </li>
+        <li class="before:content-['/'] before:mx-1.5 before:text-gray-300 text-gray-900 truncate max-w-xs">{title}</li>
+      </ol>
+    </nav>
+
+    <header class="mb-6">
+      <div class="mb-3">
+        <span class="inline-block bg-green-100 text-green-800 px-2 py-1 rounded text-xs font-medium uppercase tracking-wide">Free Tool</span>
+      </div>
+      <h1 class="text-4xl md:text-5xl font-heading font-bold text-gray-900 leading-tight mb-3">{title}</h1>
+      <p class="text-lg text-gray-700 leading-relaxed">{description}</p>
+    </header>
+
+    <noscript>
+      <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 mb-6 rounded">
+        <p class="text-sm text-gray-800">This calculator requires JavaScript. Please enable JavaScript in your browser to use it.</p>
+      </div>
+    </noscript>
+
+    <slot />
+
+    {faq?.length > 0 && (
+      <section class="mt-12 border-t border-gray-200 pt-10">
+        <h2 class="text-2xl font-heading font-semibold text-gray-900 mb-6">Frequently asked questions</h2>
+        <div class="space-y-6">
+          {faq.map(item => (
+            <div>
+              <h3 class="text-lg font-semibold text-gray-900 mb-2">{item.q}</h3>
+              <p class="text-gray-700 leading-relaxed">{item.a}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <section class="mt-10 text-sm text-gray-600 text-center">
+      <p>Try our other <a href="/free-tools" class="text-blue-700 hover:underline">free tools</a> or browse <a href="/statistics" class="text-blue-700 hover:underline">statistics roundups</a>.</p>
+    </section>
+  </article>
+</BaseLayout>

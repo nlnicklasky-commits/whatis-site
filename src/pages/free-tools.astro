@@ -1,0 +1,114 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const canonicalUrl = `${siteUrl}/free-tools`;
+
+const tools = [
+  {
+    title: 'Compound Interest Calculator',
+    slug: 'compound-interest-calculator',
+    blurb: 'Calculate future value with monthly contributions, multiple compounding frequencies, and a year-by-year breakdown.',
+    category: 'Finance',
+    icon: '💰',
+  },
+  {
+    title: 'Word Count & Reading Time Calculator',
+    slug: 'word-count-reading-time-calculator',
+    blurb: 'Count words, characters, and sentences. Estimate reading time at any WPM. Plus Flesch-Kincaid grade level.',
+    category: 'Writing',
+    icon: '📝',
+  },
+  {
+    title: 'Unit Converter',
+    slug: 'unit-converter',
+    blurb: 'Convert length, mass, volume, temperature, area, time, speed, energy, pressure, and data storage units instantly.',
+    category: 'Science',
+    icon: '📏',
+  },
+];
+---
+
+<BaseLayout
+  title="Free Tools — Calculators and Converters"
+  description="Free, no-signup calculators and converters from WhatIs.site. All math happens in your browser — your data stays private. Compound interest, word count, unit conversion, and more."
+  canonicalUrl={canonicalUrl}
+  ogType="website"
+>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "@id": canonicalUrl,
+    "name": "WhatIs.site Free Tools",
+    "url": canonicalUrl,
+    "description": "Free calculators and unit converters. No signup. All math happens in your browser.",
+    "publisher": { "@id": `${siteUrl}/#organization` },
+    "hasPart": tools.map(t => ({
+      "@type": "WebApplication",
+      "name": t.title,
+      "url": `${siteUrl}/${t.slug}`,
+      "description": t.blurb,
+      "applicationCategory": "UtilitiesApplication"
+    }))
+  })} />
+
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": siteUrl },
+      { "@type": "ListItem", "position": 2, "name": "Free Tools" }
+    ]
+  })} />
+
+  <div class="max-w-5xl mx-auto px-4 py-12">
+    <nav aria-label="Breadcrumb" class="text-sm text-gray-500 mb-4">
+      <ol class="flex items-center gap-1 flex-wrap">
+        <li><a href="/" class="hover:text-blue-600 transition-colors">Home</a></li>
+        <li class="before:content-['/'] before:mx-1.5 before:text-gray-300 text-gray-900">Free Tools</li>
+      </ol>
+    </nav>
+
+    <header class="mb-10">
+      <h1 class="text-4xl md:text-5xl font-heading font-bold text-gray-900 mb-3">Free Tools</h1>
+      <p class="text-lg text-gray-700 leading-relaxed max-w-3xl">
+        Useful, no-signup tools that pair with our explainers. All calculations happen in your browser —
+        your data never touches our servers. Bookmarkable, printable, sharable.
+      </p>
+    </header>
+
+    <section class="mb-12">
+      <div class="grid gap-5 md:grid-cols-3">
+        {tools.map(t => (
+          <a href={`/${t.slug}`} class="block group border border-gray-200 rounded-lg p-6 hover:border-blue-500 hover:shadow-md transition-all bg-white">
+            <div class="flex items-center justify-between mb-3">
+              <span class="text-3xl">{t.icon}</span>
+              <span class="text-xs bg-green-50 text-green-700 px-2 py-0.5 rounded font-medium">{t.category}</span>
+            </div>
+            <h3 class="text-lg font-heading font-semibold text-gray-900 group-hover:text-blue-700 mb-2">{t.title}</h3>
+            <p class="text-sm text-gray-600 leading-relaxed">{t.blurb}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="mb-12 bg-gray-50 border border-gray-200 rounded-lg p-6">
+      <h2 class="text-xl font-heading font-semibold text-gray-900 mb-3">Why these are free</h2>
+      <p class="text-gray-700 leading-relaxed mb-3">
+        We make explainers. Tools are an extension of that — they let you actually use the concepts we write about.
+        Our compound interest calculator pairs with our <a href="/compound-interest" class="text-blue-700 hover:underline">compound interest explainer</a>;
+        the unit converter pairs with our science and engineering categories.
+      </p>
+      <p class="text-gray-700 leading-relaxed">
+        No ads on the tool pages. No tracking pixels. No signup walls. Just useful calculators that work.
+      </p>
+    </section>
+
+    <section>
+      <p class="text-sm text-gray-600 text-center">
+        Looking for data instead? Browse our <a href="/statistics" class="text-blue-700 hover:underline">statistics roundups</a> or
+        the <a href="/categories" class="text-blue-700 hover:underline">full category index</a>.
+      </p>
+    </section>
+  </div>
+</BaseLayout>

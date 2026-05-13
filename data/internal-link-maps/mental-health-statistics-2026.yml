@@ -1,0 +1,6 @@
+asset: /mental-health-statistics-2026
+inbound_links:
+  - from: src/content/articles/mental-health.md
+    anchor: "Mental Health Statistics 2026"
+    must_contain_path: "/mental-health-statistics-2026"
+outbound_links: []

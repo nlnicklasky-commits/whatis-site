@@ -1,0 +1,331 @@
+---
+import ToolLayout from '../layouts/ToolLayout.astro';
+
+const lastUpdated = '2026-05-12';
+
+const faq = [
+  {
+    q: 'Which units does this converter support?',
+    a: 'Length, mass/weight, volume, temperature, area, time, speed, energy, pressure, and data storage. Pick a category at the top, then choose your "from" and "to" units. Everything is computed instantly in your browser.'
+  },
+  {
+    q: 'How accurate is it?',
+    a: 'Conversion factors come from SI definitions and NIST tables. For everyday use the precision is more than sufficient. Results display up to 6 significant figures and use scientific notation for very large or very small numbers.'
+  },
+  {
+    q: 'How does temperature conversion work?',
+    a: 'Temperature is an offset scale, not a ratio scale, so the math differs from other categories. Celsius to Fahrenheit is F = C × 9/5 + 32. Celsius to Kelvin is K = C + 273.15. The converter handles all six pairings.'
+  },
+  {
+    q: 'Is metric or imperial supported?',
+    a: 'Both, and the conversions between them are exact where the SI definition is exact (e.g., 1 inch = 0.0254 m exactly). Imperial fluid units default to US measurements; UK/imperial gallon is also offered where it matters.'
+  },
+];
+---
+
+<ToolLayout
+  title="Unit Converter"
+  description="Free unit converter for length, mass, volume, temperature, area, time, speed, energy, pressure, and data storage. Metric and imperial. Instant calculation in your browser."
+  slug="unit-converter"
+  applicationCategory="UtilitiesApplication"
+  faq={faq}
+  lastUpdated={lastUpdated}
+>
+
+<div class="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
+  <!-- Category tabs -->
+  <div class="flex flex-wrap gap-1 mb-4 border-b border-gray-200 pb-3" id="uc-tabs">
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded bg-blue-600 text-white" data-cat="length">Length</button>
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded text-gray-700 hover:bg-gray-100" data-cat="mass">Mass</button>
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded text-gray-700 hover:bg-gray-100" data-cat="volume">Volume</button>
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded text-gray-700 hover:bg-gray-100" data-cat="temperature">Temperature</button>
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded text-gray-700 hover:bg-gray-100" data-cat="area">Area</button>
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded text-gray-700 hover:bg-gray-100" data-cat="time">Time</button>
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded text-gray-700 hover:bg-gray-100" data-cat="speed">Speed</button>
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded text-gray-700 hover:bg-gray-100" data-cat="energy">Energy</button>
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded text-gray-700 hover:bg-gray-100" data-cat="pressure">Pressure</button>
+    <button type="button" class="uc-tab px-3 py-1.5 text-sm rounded text-gray-700 hover:bg-gray-100" data-cat="data">Data</button>
+  </div>
+
+  <div class="grid gap-4 sm:grid-cols-2">
+    <label class="block">
+      <span class="block text-sm font-medium text-gray-700 mb-1">From</span>
+      <div class="flex gap-2">
+        <input type="number" id="uc-from-value" value="1" step="any" class="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500" />
+        <select id="uc-from-unit" class="px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white"></select>
+      </div>
+    </label>
+    <label class="block">
+      <span class="block text-sm font-medium text-gray-700 mb-1">To</span>
+      <div class="flex gap-2">
+        <input type="text" id="uc-to-value" readonly class="flex-1 px-3 py-2 border border-gray-300 rounded-md bg-gray-50 font-semibold" />
+        <select id="uc-to-unit" class="px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white"></select>
+      </div>
+    </label>
+  </div>
+
+  <div class="mt-4 flex flex-wrap gap-2">
+    <button type="button" id="uc-swap" class="text-sm bg-blue-600 text-white px-3 py-1.5 rounded hover:bg-blue-700 transition-colors">Swap units</button>
+    <button type="button" id="uc-copy" class="text-sm bg-white text-blue-700 border border-blue-700 px-3 py-1.5 rounded hover:bg-blue-50 transition-colors">Copy result</button>
+  </div>
+</div>
+
+<section class="prose prose-lg max-w-none mt-12">
+  <h2>About this converter</h2>
+  <p>This is a no-frills converter for the 10 unit categories people actually look up. Pick a category. Type a value. Get an answer. The conversion factors come from SI definitions and NIST tables and are accurate to at least 6 significant figures for everyday use.</p>
+  <p>Temperature is special: it uses an offset scale, not a ratio scale, so the math is slightly different. The converter handles all six pairings of Celsius, Fahrenheit, and Kelvin correctly.</p>
+
+  <h2>Want the concept first?</h2>
+  <p>For background, see explainers in our <a href="/category/science">Science</a>, <a href="/category/engineering">Engineering</a>, and <a href="/category/mathematics">Mathematics</a> categories.</p>
+</section>
+
+<script is:inline>
+(function () {
+  // Conversion factors. Each unit's `factor` converts FROM that unit TO the canonical base unit for the category.
+  var units = {
+    length: {
+      base: 'm',
+      list: [
+        { id: 'mm', label: 'Millimeter (mm)', factor: 0.001 },
+        { id: 'cm', label: 'Centimeter (cm)', factor: 0.01 },
+        { id: 'm', label: 'Meter (m)', factor: 1 },
+        { id: 'km', label: 'Kilometer (km)', factor: 1000 },
+        { id: 'in', label: 'Inch (in)', factor: 0.0254 },
+        { id: 'ft', label: 'Foot (ft)', factor: 0.3048 },
+        { id: 'yd', label: 'Yard (yd)', factor: 0.9144 },
+        { id: 'mi', label: 'Mile (mi)', factor: 1609.344 },
+        { id: 'nmi', label: 'Nautical mile', factor: 1852 },
+      ],
+      defaultFrom: 'm', defaultTo: 'ft'
+    },
+    mass: {
+      base: 'kg',
+      list: [
+        { id: 'mg', label: 'Milligram (mg)', factor: 0.000001 },
+        { id: 'g', label: 'Gram (g)', factor: 0.001 },
+        { id: 'kg', label: 'Kilogram (kg)', factor: 1 },
+        { id: 't', label: 'Metric ton (t)', factor: 1000 },
+        { id: 'oz', label: 'Ounce (oz)', factor: 0.028349523125 },
+        { id: 'lb', label: 'Pound (lb)', factor: 0.45359237 },
+        { id: 'st', label: 'Stone (st)', factor: 6.35029318 },
+        { id: 'ton_us', label: 'Ton (US short)', factor: 907.18474 },
+      ],
+      defaultFrom: 'kg', defaultTo: 'lb'
+    },
+    volume: {
+      base: 'L',
+      list: [
+        { id: 'mL', label: 'Milliliter (mL)', factor: 0.001 },
+        { id: 'L', label: 'Liter (L)', factor: 1 },
+        { id: 'm3', label: 'Cubic meter (m³)', factor: 1000 },
+        { id: 'tsp', label: 'Teaspoon (US)', factor: 0.00492892 },
+        { id: 'tbsp', label: 'Tablespoon (US)', factor: 0.01478676 },
+        { id: 'fl_oz_us', label: 'Fluid ounce (US)', factor: 0.0295735 },
+        { id: 'cup_us', label: 'Cup (US)', factor: 0.236588 },
+        { id: 'pt_us', label: 'Pint (US)', factor: 0.473176 },
+        { id: 'qt_us', label: 'Quart (US)', factor: 0.946353 },
+        { id: 'gal_us', label: 'Gallon (US)', factor: 3.78541 },
+        { id: 'gal_uk', label: 'Gallon (UK imperial)', factor: 4.54609 },
+      ],
+      defaultFrom: 'L', defaultTo: 'gal_us'
+    },
+    temperature: {
+      // Handled specially in code (offset, not factor)
+      base: 'C',
+      list: [
+        { id: 'C', label: 'Celsius (°C)' },
+        { id: 'F', label: 'Fahrenheit (°F)' },
+        { id: 'K', label: 'Kelvin (K)' },
+      ],
+      defaultFrom: 'C', defaultTo: 'F'
+    },
+    area: {
+      base: 'm2',
+      list: [
+        { id: 'mm2', label: 'mm²', factor: 0.000001 },
+        { id: 'cm2', label: 'cm²', factor: 0.0001 },
+        { id: 'm2', label: 'm²', factor: 1 },
+        { id: 'ha', label: 'Hectare (ha)', factor: 10000 },
+        { id: 'km2', label: 'km²', factor: 1000000 },
+        { id: 'in2', label: 'Square inch', factor: 0.00064516 },
+        { id: 'ft2', label: 'Square foot', factor: 0.092903 },
+        { id: 'yd2', label: 'Square yard', factor: 0.836127 },
+        { id: 'ac', label: 'Acre', factor: 4046.8564224 },
+        { id: 'mi2', label: 'Square mile', factor: 2589988.110336 },
+      ],
+      defaultFrom: 'm2', defaultTo: 'ft2'
+    },
+    time: {
+      base: 's',
+      list: [
+        { id: 'ms', label: 'Millisecond (ms)', factor: 0.001 },
+        { id: 's', label: 'Second (s)', factor: 1 },
+        { id: 'min', label: 'Minute', factor: 60 },
+        { id: 'h', label: 'Hour', factor: 3600 },
+        { id: 'd', label: 'Day', factor: 86400 },
+        { id: 'wk', label: 'Week', factor: 604800 },
+        { id: 'mo', label: 'Month (30.44 d avg)', factor: 2629800 },
+        { id: 'yr', label: 'Year (365.25 d)', factor: 31557600 },
+      ],
+      defaultFrom: 'h', defaultTo: 'min'
+    },
+    speed: {
+      base: 'm/s',
+      list: [
+        { id: 'm/s', label: 'Meter / second', factor: 1 },
+        { id: 'km/h', label: 'Kilometer / hour', factor: 1/3.6 },
+        { id: 'mph', label: 'Mile / hour', factor: 0.44704 },
+        { id: 'ft/s', label: 'Foot / second', factor: 0.3048 },
+        { id: 'kn', label: 'Knot', factor: 0.514444 },
+      ],
+      defaultFrom: 'km/h', defaultTo: 'mph'
+    },
+    energy: {
+      base: 'J',
+      list: [
+        { id: 'J', label: 'Joule (J)', factor: 1 },
+        { id: 'kJ', label: 'Kilojoule (kJ)', factor: 1000 },
+        { id: 'cal', label: 'Calorie (cal)', factor: 4.184 },
+        { id: 'kcal', label: 'Kilocalorie / food cal', factor: 4184 },
+        { id: 'Wh', label: 'Watt-hour (Wh)', factor: 3600 },
+        { id: 'kWh', label: 'Kilowatt-hour (kWh)', factor: 3600000 },
+        { id: 'BTU', label: 'BTU', factor: 1055.05585 },
+      ],
+      defaultFrom: 'kWh', defaultTo: 'BTU'
+    },
+    pressure: {
+      base: 'Pa',
+      list: [
+        { id: 'Pa', label: 'Pascal (Pa)', factor: 1 },
+        { id: 'kPa', label: 'Kilopascal (kPa)', factor: 1000 },
+        { id: 'MPa', label: 'Megapascal (MPa)', factor: 1000000 },
+        { id: 'bar', label: 'Bar', factor: 100000 },
+        { id: 'atm', label: 'Atmosphere', factor: 101325 },
+        { id: 'mmHg', label: 'mmHg / Torr', factor: 133.322387415 },
+        { id: 'psi', label: 'PSI', factor: 6894.757 },
+      ],
+      defaultFrom: 'bar', defaultTo: 'psi'
+    },
+    data: {
+      base: 'B',
+      list: [
+        { id: 'b', label: 'Bit', factor: 0.125 },
+        { id: 'B', label: 'Byte', factor: 1 },
+        { id: 'KB', label: 'Kilobyte (KB, 1000)', factor: 1000 },
+        { id: 'KiB', label: 'Kibibyte (KiB, 1024)', factor: 1024 },
+        { id: 'MB', label: 'Megabyte (MB)', factor: 1e6 },
+        { id: 'MiB', label: 'Mebibyte (MiB)', factor: 1048576 },
+        { id: 'GB', label: 'Gigabyte (GB)', factor: 1e9 },
+        { id: 'GiB', label: 'Gibibyte (GiB)', factor: 1073741824 },
+        { id: 'TB', label: 'Terabyte (TB)', factor: 1e12 },
+        { id: 'TiB', label: 'Tebibyte (TiB)', factor: 1099511627776 },
+      ],
+      defaultFrom: 'MB', defaultTo: 'MiB'
+    },
+  };
+
+  var current = 'length';
+
+  function fmt(n) {
+    if (!isFinite(n)) return '—';
+    if (n === 0) return '0';
+    var abs = Math.abs(n);
+    if (abs >= 1e9 || abs < 1e-4) return n.toExponential(6);
+    return Number(n.toPrecision(8)).toString();
+  }
+
+  function populate(cat) {
+    var u = units[cat];
+    var fromSel = document.getElementById('uc-from-unit');
+    var toSel = document.getElementById('uc-to-unit');
+    fromSel.innerHTML = '';
+    toSel.innerHTML = '';
+    u.list.forEach(function (unit) {
+      var opt1 = document.createElement('option');
+      opt1.value = unit.id; opt1.textContent = unit.label;
+      fromSel.appendChild(opt1);
+      var opt2 = document.createElement('option');
+      opt2.value = unit.id; opt2.textContent = unit.label;
+      toSel.appendChild(opt2);
+    });
+    fromSel.value = u.defaultFrom;
+    toSel.value = u.defaultTo;
+  }
+
+  function convertTemp(value, from, to) {
+    var c;
+    if (from === 'C') c = value;
+    else if (from === 'F') c = (value - 32) * 5 / 9;
+    else if (from === 'K') c = value - 273.15;
+    if (to === 'C') return c;
+    if (to === 'F') return c * 9 / 5 + 32;
+    if (to === 'K') return c + 273.15;
+  }
+
+  function compute() {
+    var u = units[current];
+    var fromId = document.getElementById('uc-from-unit').value;
+    var toId = document.getElementById('uc-to-unit').value;
+    var val = parseFloat(document.getElementById('uc-from-value').value);
+    if (isNaN(val)) {
+      document.getElementById('uc-to-value').value = '';
+      return;
+    }
+    var result;
+    if (current === 'temperature') {
+      result = convertTemp(val, fromId, toId);
+    } else {
+      var fromUnit = u.list.find(function (x) { return x.id === fromId; });
+      var toUnit = u.list.find(function (x) { return x.id === toId; });
+      result = val * fromUnit.factor / toUnit.factor;
+    }
+    document.getElementById('uc-to-value').value = fmt(result);
+  }
+
+  document.querySelectorAll('.uc-tab').forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      current = tab.getAttribute('data-cat');
+      document.querySelectorAll('.uc-tab').forEach(function (t) {
+        t.classList.remove('bg-blue-600','text-white');
+        t.classList.add('text-gray-700','hover:bg-gray-100');
+      });
+      tab.classList.remove('text-gray-700','hover:bg-gray-100');
+      tab.classList.add('bg-blue-600','text-white');
+      populate(current);
+      compute();
+    });
+  });
+
+  document.getElementById('uc-from-value').addEventListener('input', compute);
+  document.getElementById('uc-from-unit').addEventListener('change', compute);
+  document.getElementById('uc-to-unit').addEventListener('change', compute);
+
+  document.getElementById('uc-swap').addEventListener('click', function () {
+    var fromSel = document.getElementById('uc-from-unit');
+    var toSel = document.getElementById('uc-to-unit');
+    var tmp = fromSel.value; fromSel.value = toSel.value; toSel.value = tmp;
+    var toVal = document.getElementById('uc-to-value').value;
+    if (toVal && !isNaN(parseFloat(toVal))) {
+      document.getElementById('uc-from-value').value = toVal;
+    }
+    compute();
+  });
+
+  document.getElementById('uc-copy').addEventListener('click', function () {
+    var summary = document.getElementById('uc-from-value').value + ' ' +
+      document.getElementById('uc-from-unit').selectedOptions[0].text + ' = ' +
+      document.getElementById('uc-to-value').value + ' ' +
+      document.getElementById('uc-to-unit').selectedOptions[0].text +
+      ' | whatis.site/unit-converter';
+    if (navigator.clipboard) navigator.clipboard.writeText(summary);
+    this.textContent = 'Copied!';
+    var btn = this;
+    setTimeout(function () { btn.textContent = 'Copy result'; }, 1500);
+  });
+
+  populate(current);
+  compute();
+})();
+</script>
+
+</ToolLayout>

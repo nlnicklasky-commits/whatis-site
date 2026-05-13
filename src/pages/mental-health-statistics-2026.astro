@@ -1,0 +1,172 @@
+---
+import StatsLayout from '../layouts/StatsLayout.astro';
+
+const lastUpdated = '2026-05-12';
+
+const topStats = [
+  { value: '~1 in 8', label: 'People worldwide live with a mental disorder (WHO global estimate)', source: 'WHO 2022/2023' },
+  { value: '~970M', label: 'People globally with a mental health condition (most commonly anxiety or depression)', source: 'WHO' },
+  { value: '23.1%', label: 'Of US adults experienced any mental illness in the past year (~59 million people)', source: 'SAMHSA NSDUH 2022' },
+  { value: '6.0%', label: 'Of US adults experienced serious mental illness in the past year (~15.4 million)', source: 'SAMHSA NSDUH 2022' },
+  { value: '~50%', label: 'Of US adults with any mental illness received treatment in 2022', source: 'SAMHSA' },
+  { value: '49,476', label: 'Suicide deaths in the US in 2022 — the highest number ever recorded', source: 'CDC WISQARS' },
+  { value: '~5%', label: 'Of adults globally live with depression', source: 'WHO depression fact sheet' },
+  { value: '$300B+', label: 'Estimated US annual economic cost of mental illness (medical + lost productivity)', source: 'NIMH / SAMHSA estimates' },
+];
+
+const faq = [
+  {
+    q: 'How common is mental illness in 2026?',
+    a: 'The World Health Organization estimates that roughly 1 in 8 people globally — about 970 million — live with a mental disorder. In the US, SAMHSA\'s NSDUH survey found 23.1% of adults experienced any mental illness in the past year, with 6.0% experiencing serious mental illness.'
+  },
+  {
+    q: 'How many people have anxiety or depression?',
+    a: 'Anxiety disorders are the most common mental disorder globally (about 4% of the population) and in the US (about 19% of adults annually). Major depressive episodes affect about 8% of US adults each year. Both rose substantially during and after the COVID-19 pandemic and have not returned to pre-2020 levels.'
+  },
+  {
+    q: 'How many people die by suicide?',
+    a: 'The US recorded 49,476 suicide deaths in 2022 — the highest ever — a rate of about 14.2 per 100,000. Globally, the WHO estimates about 700,000 suicide deaths per year, the fourth leading cause of death for 15–29 year-olds.'
+  },
+  {
+    q: 'What share of people who need mental health treatment actually get it?',
+    a: 'About half of US adults with any mental illness received treatment in the past year. The treatment gap is far larger globally — the WHO estimates 71% of people with psychosis worldwide receive no treatment, and the figure is similar for depression in many low and middle-income countries.'
+  },
+  {
+    q: 'How has youth mental health changed?',
+    a: 'CDC data shows significant deterioration. About 40% of US high school students reported persistent feelings of sadness or hopelessness in 2023 (CDC YRBSS), up from about 28% a decade earlier. The rise has been steepest among teen girls and LGBTQ+ youth.'
+  },
+  {
+    q: 'How much does mental illness cost economies?',
+    a: 'NIMH and SAMHSA estimates put the US annual cost above $300 billion when including medical care, lost productivity, and disability benefits. The OECD estimates mental ill-health costs OECD countries roughly 4% of GDP annually.'
+  },
+];
+
+const sources = [
+  { title: 'World mental health report: transforming mental health for all', publisher: 'World Health Organization', url: 'https://www.who.int/publications/i/item/9789240049338', accessed: '2026-05-12' },
+  { title: 'WHO depression fact sheet', publisher: 'WHO', url: 'https://www.who.int/news-room/fact-sheets/detail/depression', accessed: '2026-05-12' },
+  { title: '2022 National Survey on Drug Use and Health (NSDUH)', publisher: 'SAMHSA', url: 'https://www.samhsa.gov/data/release/2022-national-survey-drug-use-and-health-nsduh-releases', accessed: '2026-05-12' },
+  { title: 'WISQARS Fatal Injury Reports', publisher: 'CDC', url: 'https://www.cdc.gov/injury/wisqars/index.html', accessed: '2026-05-12' },
+  { title: 'Youth Risk Behavior Surveillance System (YRBSS)', publisher: 'CDC', url: 'https://www.cdc.gov/healthyyouth/data/yrbs/index.htm', accessed: '2026-05-12' },
+  { title: 'Mental Illness statistics', publisher: 'National Institute of Mental Health (NIMH)', url: 'https://www.nimh.nih.gov/health/statistics/mental-illness', accessed: '2026-05-12' },
+  { title: 'The State of Mental Health in America 2024', publisher: 'Mental Health America', url: 'https://mhanational.org/issues/state-mental-health-america', accessed: '2026-05-12' },
+  { title: 'A New Benchmark for Mental Health Systems', publisher: 'OECD', url: 'https://www.oecd.org/health/a-new-benchmark-for-mental-health-systems-4ed890f6-en.htm', accessed: '2026-05-12' },
+];
+---
+
+<StatsLayout
+  title="Mental Health Statistics 2026"
+  description="Mental health statistics for 2026 — prevalence of mental illness, depression and anxiety rates, suicide data, treatment gaps, and youth mental health trends. Sourced from WHO, CDC, SAMHSA, and NIMH."
+  slug="mental-health-statistics-2026"
+  lastUpdated={lastUpdated}
+  topStats={topStats}
+  faq={faq}
+  sources={sources}
+  category="health-amp-wellness"
+  categoryLabel="Health & Wellness"
+>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6 rounded">
+  <p class="text-sm text-gray-800">
+    <strong>If you or someone you know is in crisis:</strong> In the US, call or text <strong>988</strong> for the Suicide and Crisis Lifeline. In the UK, call <strong>116 123</strong> (Samaritans). Internationally, see the <a href="https://findahelpline.com/" rel="noopener" class="text-blue-700 underline">Find A Helpline</a> directory.
+  </p>
+</div>
+
+<h2>How common is mental illness</h2>
+
+<p>The WHO's most recent global estimates put <strong>about 1 in 8 people — roughly 970 million worldwide — living with a mental disorder</strong>, most commonly anxiety or depression. Prevalence rose sharply in the early COVID-19 years (the WHO estimated a 25% increase in anxiety and depression in 2020 alone) and has not returned to pre-pandemic levels in most countries.</p>
+
+<p>For the US specifically, SAMHSA's 2022 National Survey on Drug Use and Health found:</p>
+
+<ul>
+  <li><strong>23.1%</strong> of US adults experienced any mental illness (AMI) in the past year — about 59.3 million people</li>
+  <li><strong>6.0%</strong> experienced serious mental illness (SMI) — about 15.4 million</li>
+  <li>Rates are highest among young adults (36.2% of 18–25 year-olds had AMI)</li>
+  <li>Women experience AMI at higher rates than men (26.4% vs. 19.7%)</li>
+</ul>
+
+<h2>Depression and anxiety</h2>
+
+<p>These two conditions account for most of the global mental health burden:</p>
+
+<ul>
+  <li><strong>Depression</strong> — About 5% of adults globally; 8.3% of US adults had a major depressive episode in 2022 (NIMH). Higher in women (10.3%) than men (6.2%), and especially high in young adults (18.6% of those 18–25).</li>
+  <li><strong>Anxiety disorders</strong> — About 4% of the global population; 19.1% of US adults had an anxiety disorder in the past year (NIMH). Generalized anxiety disorder alone affects about 2.7%.</li>
+</ul>
+
+<p>Both rose sharply during the pandemic (the WHO documented a 25%+ increase globally in 2020), and population surveys including the US Census Household Pulse have shown <strong>elevated levels persisting through 2024 and into 2026</strong> — not the bounce-back many expected.</p>
+
+<h2>Youth mental health</h2>
+
+<p>This is where the data is most alarming. The CDC's Youth Risk Behavior Surveillance System tracks high-school students every two years. The most recent (2023) found:</p>
+
+<ul>
+  <li><strong>40%</strong> of US high school students reported persistent feelings of sadness or hopelessness in the past year</li>
+  <li><strong>20%</strong> had seriously considered attempting suicide</li>
+  <li><strong>9%</strong> had attempted suicide</li>
+  <li>Rates have been climbing steadily since the early 2010s, with the steepest increases among girls and LGBTQ+ youth</li>
+</ul>
+
+<p>For teen girls specifically, <strong>57%</strong> reported persistent sadness or hopelessness in 2021 (a record high in YRBSS history). Causal explanations are contested but commonly proposed factors include social media use, academic pressure, lingering pandemic effects, and reduced in-person socializing.</p>
+
+<h2>Suicide</h2>
+
+<p>The US recorded <strong>49,476 suicide deaths in 2022</strong>, the highest ever (CDC WISQARS), a rate of 14.2 per 100,000. Key patterns:</p>
+
+<ul>
+  <li>Male suicide rate (23.0 per 100,000) is roughly 4× the female rate (5.9)</li>
+  <li>American Indian / Alaska Native communities have the highest rates (26.4 per 100,000)</li>
+  <li>Firearm suicide deaths (~27,000) now substantially exceed firearm homicide deaths in the US</li>
+  <li>Rural rates are significantly higher than urban</li>
+</ul>
+
+<p>Globally, the WHO estimates <strong>about 700,000 suicide deaths annually</strong>, making it the fourth leading cause of death among 15–29 year-olds worldwide.</p>
+
+<p><em>Reporting on suicide should follow WHO and AFSP guidelines — avoiding details of method, sensationalizing language, and always including help resources.</em></p>
+
+<h2>The treatment gap</h2>
+
+<p>Globally, the WHO estimates <strong>71% of people with psychosis worldwide receive no treatment</strong>, and the depression treatment gap in low and middle-income countries exceeds 75%. In the US the picture is somewhat better but still uneven:</p>
+
+<ul>
+  <li>About 50% of US adults with AMI received mental health services in 2022 (SAMHSA)</li>
+  <li>About 65% of those with SMI received services</li>
+  <li>About one in three adults with AMI reported they did not get care because they could not afford it</li>
+  <li>Provider shortage is acute — about 47% of the US population lives in a federally designated Mental Health Professional Shortage Area</li>
+</ul>
+
+<h2>Workplace mental health</h2>
+
+<p>The American Psychological Association's annual Work in America survey consistently finds workplace stress at near-record levels, with <strong>about 77% of workers reporting work-related stress in the past month</strong> (2023). Burnout is most concentrated in healthcare, education, and hospitality.</p>
+
+<p>Employer mental health benefit usage rose sharply 2020–2024 — most large employers now offer Employee Assistance Programs, but utilization remains uneven.</p>
+
+<h2>Economic costs</h2>
+
+<p>Estimates vary by methodology but the order of magnitude is consistent:</p>
+
+<ul>
+  <li><strong>US</strong> — NIMH and SAMHSA estimates put the annual cost above $300 billion in direct medical costs, lost productivity, and disability benefits</li>
+  <li><strong>OECD</strong> — Roughly 4% of GDP annually across member countries (OECD New Benchmark report)</li>
+  <li><strong>Global</strong> — The World Economic Forum estimated $6 trillion in cumulative global costs from mental health conditions over 2011–2030</li>
+</ul>
+
+<h2>What the trends look like in 2026</h2>
+
+<p>Several directional trends matter most as of 2026:</p>
+
+<ul>
+  <li>Youth mental health has plateaued in the most recent surveys but has not improved — the elevated levels of the early 2020s appear to be a new baseline</li>
+  <li>Telehealth therapy is now mainstream — about 1 in 3 mental health appointments in the US is telehealth (HHS), up from less than 1% pre-2020</li>
+  <li>Psychedelic-assisted therapy (psilocybin, MDMA) saw mixed FDA progress through 2024–2025; some state-level programs are operational</li>
+  <li>AI-based mental health tools are proliferating (chatbots, screening, therapist augmentation) — efficacy data remains thin and quality is highly variable</li>
+</ul>
+
+<h2>Related explainers</h2>
+
+<ul>
+  <li><a href="/category/psychology">Psychology explainers</a></li>
+  <li><a href="/category/health-amp-wellness">Health & Wellness</a></li>
+  <li><a href="/category/biology-amp-medicine">Biology & Medicine</a></li>
+</ul>
+
+</StatsLayout>

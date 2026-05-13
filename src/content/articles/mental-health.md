@@ -37,6 +37,8 @@ faq:
 
 Mental health refers to your emotional, psychological, and social well-being — the way you think, feel, act, handle stress, relate to others, and make decisions. It's not simply the absence of mental illness. It's a positive state of functioning that allows you to cope with life's normal stresses, work productively, and contribute to your community.
 
+For prevalence numbers, treatment gaps, and the latest youth mental-health data, see our [Mental Health Statistics 2026](/mental-health-statistics-2026) roundup.
+
 ## More Than "Not Being Sick"
 
 Here's a mistake people make constantly: equating mental health with the absence of diagnosable mental illness. That's like saying physical health means "not currently in the hospital." It misses everything.

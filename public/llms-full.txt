@@ -1,6 +1,20 @@
 # WhatIs.site — Full Article Index
 
-> Complete index of all 1,615 articles on WhatIs.site, organized by category with descriptions.
+> Complete index of all 1,615 articles on WhatIs.site, organized by category with descriptions. Plus statistics roundups and free tools.
+
+## Statistics roundups (2026)
+
+- [Artificial Intelligence Statistics 2026](/artificial-intelligence-statistics-2026): 60+ AI statistics covering enterprise adoption, generative AI usage, investment, workforce impact, and regulation. Sourced from Stanford HAI, McKinsey, Pew, and the OECD.
+- [Remote Work Statistics 2026](/remote-work-statistics-2026): How many people work from home, what RTO mandates have actually done, productivity research, and the geographic split. Sourced from WFH Research, Pew, BLS, and ONS.
+- [Cryptocurrency Statistics 2026](/cryptocurrency-statistics-2026): Global ownership, market cap, Bitcoin ETF flows, adoption by country, illicit activity, and stablecoin volume. Sourced from Triple-A, Chainalysis, Pew, and Visa Onchain.
+- [Mental Health Statistics 2026](/mental-health-statistics-2026): Prevalence of mental illness, depression and anxiety rates, suicide data, treatment gaps, and youth mental health trends. Sourced from WHO, CDC, SAMHSA, and NIMH.
+- [Climate Change Statistics 2026](/climate-change-statistics-2026): Temperature, CO₂ emissions, sea level, renewables, and disaster costs. Sourced from IPCC, NASA, NOAA, IEA, and the Global Carbon Project.
+
+## Free tools
+
+- [Compound Interest Calculator](/compound-interest-calculator): Free compound interest calculator with monthly contributions and year-by-year breakdown.
+- [Word Count & Reading Time Calculator](/word-count-reading-time-calculator): Free word count, character count, reading time, and Flesch-Kincaid grade-level calculator.
+- [Unit Converter](/unit-converter): Free unit converter for length, mass, volume, temperature, area, time, speed, energy, pressure, and data storage.
 
 ## Technology
 

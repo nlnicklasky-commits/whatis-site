@@ -37,6 +37,8 @@ faq:
 
 Deep learning is a subset of [machine learning](/machine-learning) that uses artificial [neural networks](/neural-networks) with multiple layers to progressively extract higher-level features from raw input data. A deep learning model processing an image, for example, might detect edges in the first layer, shapes in the second, object parts in the third, and complete objects in the fourth—all without being explicitly programmed to look for any of these features.
 
+For current AI adoption and investment data driven largely by deep learning, see our [AI Statistics 2026](/artificial-intelligence-statistics-2026) roundup.
+
 ## From Perceptrons to GPT: A Quick History
 
 The story of deep learning stretches back further than most people realize—and includes a dramatic period of abandonment that almost killed the field entirely.

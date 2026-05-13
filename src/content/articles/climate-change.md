@@ -41,6 +41,8 @@ faq:
 
 Climate change is the long-term shift in global temperatures and weather patterns, primarily driven by human activities that release greenhouse gases into the atmosphere. Since the mid-1900s, Earth's average temperature has risen approximately 1.1°C above pre-industrial levels, and this seemingly small increase has profound implications for weather systems, ecosystems, and human civilization. The Intergovernmental Panel on Climate Change (IPCC) reports that the past decade has been the warmest on record, with Arctic temperatures warming at roughly three times the global average rate—a phenomenon known as Arctic amplification. This guide explores what climate change is, how it works, the scientific evidence supporting it, its cascading effects across our planet, and the solutions being deployed globally.
 
+For the most current data — temperature anomalies, CO₂ levels, renewable energy share, and disaster costs — see our [Climate Change Statistics 2026](/climate-change-statistics-2026) roundup.
+
 ## Earth Has Always Changed—So Why Is This Different?
 
 Earth's climate has fluctuated throughout its 4.5-billion-year history due to natural cycles, volcanic eruptions, and variations in solar output. The planet has experienced ice ages and warm periods, with natural [climate](/climate) shifts typically occurring over thousands or millions of years. However, the current warming is fundamentally different in three critical ways: speed, magnitude, and cause.

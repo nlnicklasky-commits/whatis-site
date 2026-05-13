@@ -26,6 +26,8 @@ const categories = [
           {cat.label}
         </a>
       ))}
+      <a href="/statistics" class="text-gray-600 hover:text-primary transition-colors">Stats</a>
+      <a href="/free-tools" class="text-gray-600 hover:text-primary transition-colors">Tools</a>
       <a href="/categories" class="text-gray-400 hover:text-primary transition-colors">
         More &rarr;
       </a>
@@ -49,6 +51,8 @@ const categories = [
       {categories.map(cat => (
         <a href={`/category/${cat.slug}`} class="text-gray-600 hover:text-primary py-1">{cat.label}</a>
       ))}
+      <a href="/statistics" class="text-gray-600 hover:text-primary py-1">Statistics</a>
+      <a href="/free-tools" class="text-gray-600 hover:text-primary py-1">Free Tools</a>
       <a href="/categories" class="text-primary font-medium py-1">All Categories &rarr;</a>
       <a href="/about" class="text-gray-600 hover:text-primary py-1">About</a>
     </nav>

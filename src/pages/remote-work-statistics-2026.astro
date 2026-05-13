@@ -1,0 +1,162 @@
+---
+import StatsLayout from '../layouts/StatsLayout.astro';
+
+const lastUpdated = '2026-05-12';
+
+const topStats = [
+  { value: '~35%', label: 'Of US paid full days worked from home in early 2025 — roughly 5× pre-pandemic levels', source: 'WFH Research / SWAA Survey' },
+  { value: '28%', label: 'Of all paid work in the US is done from home (as of 2024)', source: 'WFH Research' },
+  { value: '~13%', label: 'Of US full-time workers are fully remote; ~28% hybrid', source: 'WFH Research' },
+  { value: '60%', label: 'Of fully-remote workers say they would quit if forced back to office full-time', source: 'Pew Research 2023/2024' },
+  { value: '~25%', label: 'Higher quit rates at companies that required full RTO vs. those that stayed flexible', source: 'University of Pittsburgh, 2024' },
+  { value: '$70B', label: 'Annual savings to US workers from skipped commutes — roughly an hour per day worked from home', source: 'WFH Research' },
+  { value: '12%', label: 'Of UK workers are fully remote; another 28% are hybrid', source: 'UK ONS, 2024' },
+  { value: '~80%', label: 'Of S&P 500 companies have set some form of in-office mandate by 2025', source: 'Resume Builder / Flex Index trackers' },
+];
+
+const faq = [
+  {
+    q: 'How many people work remotely in 2026?',
+    a: 'In the US, roughly 35% of paid full days are worked from home — about 5× pre-pandemic levels. Around 13% of full-time workers are fully remote and another 28% are hybrid. The rate has stabilized after a long slow decline from the 2020–2021 peak.'
+  },
+  {
+    q: 'Is remote work still common after RTO mandates?',
+    a: 'Yes. Despite high-profile return-to-office mandates from large employers like Amazon, JPMorgan, and many federal agencies, total work-from-home days have stabilized in 2024–2026 rather than collapsing. WFH Research data shows the WFH share has held near 28% of paid US workdays since mid-2023.'
+  },
+  {
+    q: 'Which jobs allow remote work?',
+    a: 'About 37% of US jobs can be done fully remotely, per Stanford research — concentrated in tech, finance, professional services, education, and government. Manufacturing, construction, retail, healthcare delivery, and hospitality remain almost entirely on-site.'
+  },
+  {
+    q: 'Are remote workers more or less productive?',
+    a: 'Evidence is mixed but skews positive for hybrid arrangements. A 2024 Stanford-led randomized trial of hybrid work at Trip.com found no productivity loss and a 35% reduction in quit rates. Self-reported productivity is higher among remote workers; objective output metrics show smaller effects.'
+  },
+  {
+    q: 'Do return-to-office mandates work?',
+    a: 'Not as intended for retention. University of Pittsburgh research found S&P 500 firms with strict RTO mandates saw quit rates rise about 25% compared with peers — without measurable improvements in firm performance. Highly skilled workers leave first.'
+  },
+  {
+    q: 'What percentage of US jobs are fully remote in 2026?',
+    a: 'About 13% of US full-time workers are fully remote; 28% are hybrid; 59% are fully on-site. Job postings that are fully remote sit around 8–10% of all openings, per LinkedIn Workforce Report data.'
+  },
+];
+
+const sources = [
+  { title: 'Survey of Working Arrangements and Attitudes (SWAA)', publisher: 'WFH Research / Stanford', url: 'https://wfhresearch.com/', accessed: '2026-05-12' },
+  { title: 'Pew Research — About a third of US workers who can work from home now do so all the time', publisher: 'Pew Research Center', url: 'https://www.pewresearch.org/social-trends/2023/03/30/about-a-third-of-us-workers-who-can-work-from-home-do-so-all-the-time/', accessed: '2026-05-12' },
+  { title: 'US Bureau of Labor Statistics — American Time Use Survey', publisher: 'US BLS', url: 'https://www.bls.gov/tus/', accessed: '2026-05-12' },
+  { title: 'Office for National Statistics — Characteristics of homeworkers', publisher: 'UK ONS', url: 'https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes', accessed: '2026-05-12' },
+  { title: 'Return-to-Office Mandates and Employee Outcomes', publisher: 'University of Pittsburgh, Katz Graduate School of Business', url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4675401', accessed: '2026-05-12' },
+  { title: 'Hybrid Working from Home Improves Retention without Damaging Performance', publisher: 'Nature (Bloom, Han, Liang)', url: 'https://www.nature.com/articles/s41586-024-07500-2', accessed: '2026-05-12' },
+  { title: 'Flex Index Report', publisher: 'Scoop / Flex Index', url: 'https://www.flex.scoopforwork.com/', accessed: '2026-05-12' },
+  { title: 'Gallup — State of the Global Workplace 2024', publisher: 'Gallup', url: 'https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx', accessed: '2026-05-12' },
+];
+---
+
+<StatsLayout
+  title="Remote Work Statistics 2026"
+  description="The most-cited remote work statistics for 2026 — how many people work from home, what RTO mandates have actually done, productivity research, and the geographic split. Sourced from WFH Research, Pew, BLS, and ONS."
+  slug="remote-work-statistics-2026"
+  lastUpdated={lastUpdated}
+  topStats={topStats}
+  faq={faq}
+  sources={sources}
+  category="business"
+  categoryLabel="Business"
+>
+
+<h2>How many people work remotely in 2026</h2>
+
+<p>The headline number that matters most: <strong>about 28% of all paid US workdays</strong> are now done from home, per WFH Research's monthly Survey of Working Arrangements and Attitudes. That share spiked above 60% during the pandemic, declined through 2022, and has now <em>stabilized</em> rather than continuing to fall. The same survey finds about 13% of full-time US workers are fully remote, 28% are hybrid, and 59% are fully on-site.</p>
+
+<p>Translated to days: <strong>about 35% of paid full days</strong> in early 2025 were worked from home — roughly 5× the pre-pandemic baseline of around 7%.</p>
+
+<h3>Geographic breakdown</h3>
+
+<ul>
+  <li><strong>United States</strong> — ~28% of paid workdays from home; varies by metro from ~45% in tech-heavy cities like San Francisco and Seattle to under 20% in manufacturing-heavy regions</li>
+  <li><strong>United Kingdom</strong> — 12% fully remote, 28% hybrid (UK Office for National Statistics, 2024)</li>
+  <li><strong>European Union</strong> — Around 22% of EU workers worked from home at least sometimes in 2023 (Eurostat)</li>
+  <li><strong>Australia</strong> — ~37% of workers WFH at least one day a week (ABS, 2024)</li>
+  <li><strong>India / Asia-Pacific</strong> — Lower fully-remote share but high hybrid uptake in IT services</li>
+</ul>
+
+<h3>By job type</h3>
+
+<p>Stanford economist Nick Bloom and colleagues estimate that <strong>about 37% of US jobs</strong> can plausibly be done fully remotely. Those jobs are concentrated in:</p>
+
+<ul>
+  <li>Information / tech</li>
+  <li>Finance and insurance</li>
+  <li>Professional, scientific, and technical services</li>
+  <li>Management of companies and enterprises</li>
+  <li>Educational services</li>
+</ul>
+
+<p>The categories where remote work has barely budged: accommodation and food services, retail trade, construction, healthcare delivery, and manufacturing — all sectors where the work is fundamentally physical.</p>
+
+<h2>Return-to-office mandates: what they did and didn't do</h2>
+
+<p>Despite the headlines, <strong>RTO mandates have not significantly reduced aggregate work-from-home</strong>. WFH Research's monthly tracking shows the WFH share of paid workdays has held near 28% since mid-2023, even as Amazon, JPMorgan, Goldman Sachs, Meta, Dell, and many federal agencies announced or escalated in-office requirements.</p>
+
+<p>What RTO mandates <em>have</em> done:</p>
+
+<ul>
+  <li>Raised quit rates. A University of Pittsburgh study of S&P 500 firms with strict RTO mandates found <strong>~25% higher quit rates</strong> compared with peers, with no measurable improvement in firm performance.</li>
+  <li>Triggered selective attrition. Highly skilled workers — especially women, senior managers, and technical specialists — leave first.</li>
+  <li>Shifted bargaining toward "compliance theater" — employees badge in, hit minimums, and leave early.</li>
+</ul>
+
+<p>What they have <em>not</em> done at scale:</p>
+
+<ul>
+  <li>Lifted productivity measurably (no controlled study has found a statistically significant productivity gain from forced RTO)</li>
+  <li>Improved retention</li>
+  <li>Returned WFH rates to pre-pandemic levels</li>
+</ul>
+
+<h2>Productivity research</h2>
+
+<p>The best-designed studies on remote work productivity have converged on a roughly consistent picture: <strong>hybrid work is at least as productive as full in-office, and full-remote can be slightly less productive for new hires but is comparable for experienced workers</strong>.</p>
+
+<p>The most-cited recent studies:</p>
+
+<ul>
+  <li><strong>Bloom, Han, and Liang (2024, Nature)</strong> — Randomized trial at Trip.com showing hybrid work caused no productivity loss and reduced quit rates by 35%.</li>
+  <li><strong>Microsoft Work Trend Index (multiple years)</strong> — Self-reported productivity is higher for remote workers; collaboration metrics show somewhat reduced cross-team communication.</li>
+  <li><strong>Atlas of Quotidian Productivity (DeFilippis et al., 2020–2022)</strong> — Email and meeting volume rose substantially after the WFH shift; net effect on output unclear.</li>
+</ul>
+
+<h2>Worker preferences and the economics of WFH</h2>
+
+<p>WFH Research consistently finds workers value the ability to work from home at <strong>roughly 8% of pay</strong>. Workers also report substantial time savings — <strong>about an hour per day worked from home</strong>, mostly from skipped commutes — translating to an estimated <strong>$70 billion+ in annual time savings</strong> for US workers in aggregate.</p>
+
+<p>Pew Research's 2023/2024 surveys found:</p>
+
+<ul>
+  <li>60% of fully-remote workers would seriously consider quitting if forced back to office</li>
+  <li>71% of fully-remote workers say WFH helps balance work and personal life</li>
+  <li>56% of remote workers say WFH makes it easier to get work done</li>
+  <li>About a third of remote workers report it's harder to feel connected to coworkers</li>
+</ul>
+
+<h2>What changes from here</h2>
+
+<p>The base case for 2026–2028: WFH share holds roughly steady. Specific shifts to watch:</p>
+
+<ul>
+  <li><strong>AI tooling</strong> — Generative AI (see our <a href="/artificial-intelligence-statistics-2026">AI Statistics 2026</a>) is making async work more effective, slightly raising remote-friendly job share</li>
+  <li><strong>Real estate</strong> — Commercial office vacancy in major US cities sits at 19–22%, a multi-decade high; companies have less capacity to bring everyone back even if they wanted to</li>
+  <li><strong>Federal RTO</strong> — Recent US federal RTO mandates affect roughly 2.3 million workers; spillover into adjacent markets is the next thing to watch</li>
+  <li><strong>Global outsourcing</strong> — Fully remote roles increasingly compete with global talent pools, putting some downward pressure on US salaries in roles where remote is permitted</li>
+</ul>
+
+<h2>Related explainers</h2>
+
+<ul>
+  <li><a href="/category/business">Business explainers</a> — how organizations operate</li>
+  <li><a href="/category/economics">Economics</a> — labor market context</li>
+  <li><a href="/artificial-intelligence-statistics-2026">AI Statistics 2026</a> — how AI tooling is reshaping knowledge work</li>
+</ul>
+
+</StatsLayout>

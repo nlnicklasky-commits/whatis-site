@@ -1,0 +1,16 @@
+asset: /artificial-intelligence-statistics-2026
+inbound_links:
+  - from: src/content/articles/artificial-intelligence.md
+    anchor: "AI Statistics 2026"
+    must_contain_path: "/artificial-intelligence-statistics-2026"
+  - from: src/content/articles/machine-learning.md
+    anchor: "AI Statistics 2026"
+    must_contain_path: "/artificial-intelligence-statistics-2026"
+  - from: src/content/articles/deep-learning.md
+    anchor: "AI Statistics 2026"
+    must_contain_path: "/artificial-intelligence-statistics-2026"
+outbound_links:
+  - to: /artificial-intelligence
+  - to: /machine-learning
+  - to: /blockchain
+  - to: /cybersecurity

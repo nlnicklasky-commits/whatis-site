@@ -41,6 +41,8 @@ faq:
 
 Artificial intelligence (AI) is the field of [computer science](/computer-science) dedicated to creating systems capable of performing tasks that typically require human intelligence — including learning from experience, understanding natural language, recognizing patterns, making decisions, and solving problems. AI ranges from narrow systems designed for specific tasks (like image recognition or language [translation](/translation)) to the theoretical pursuit of machines with general, human-level cognitive abilities.
 
+For the numbers behind AI's rise — enterprise adoption, investment, workforce impact, and regulation — see our [AI Statistics 2026](/artificial-intelligence-statistics-2026) roundup.
+
 ## The Idea Is Older Than You Think
 
 The dream of artificial minds predates computers by millennia. Greek myths featured Talos, a bronze automaton that guarded Crete. Medieval [legends](/legends) described mechanical men built by alchemists. Descartes speculated in the 1630s about whether animals were essentially biological machines — and if so, whether a sufficiently complex machine could think.

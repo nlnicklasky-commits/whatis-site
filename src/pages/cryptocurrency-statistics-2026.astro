@@ -1,0 +1,184 @@
+---
+import StatsLayout from '../layouts/StatsLayout.astro';
+
+const lastUpdated = '2026-05-12';
+
+const topStats = [
+  { value: '~617M', label: 'Estimated global cryptocurrency owners worldwide as of mid-2024', source: 'Triple-A Crypto Ownership Data 2024' },
+  { value: '~7.5%', label: 'Of the global population owns some form of cryptocurrency (2024 estimate)', source: 'Triple-A' },
+  { value: '17%', label: 'Of US adults say they have invested in, traded, or used cryptocurrency', source: 'Pew Research 2024' },
+  { value: '$1.3T+', label: 'Approximate global cryptocurrency market cap in mid-2024 (highly volatile)', source: 'CoinGecko / CoinMarketCap' },
+  { value: '~$51B', label: 'Net inflows into US spot Bitcoin ETFs in their first 11 months after January 2024 launch', source: 'BlackRock / Fidelity / Bloomberg ETF data' },
+  { value: '$24.2B', label: 'Estimated illicit cryptocurrency transaction volume in 2023', source: 'Chainalysis Crypto Crime Report 2024' },
+  { value: '63%', label: 'Of crypto ownership is concentrated in Asia (by user count)', source: 'Triple-A' },
+  { value: '$60B+', label: 'Stablecoin transaction volume processed monthly in 2024', source: 'Visa Onchain Analytics' },
+];
+
+const faq = [
+  {
+    q: 'How many people own cryptocurrency in 2026?',
+    a: 'Estimates put global cryptocurrency owners at around 617 million as of mid-2024, roughly 7.5% of the global population. The exact share is uncertain because methodologies vary — Triple-A combines exchange data, survey data, and wallet analytics.'
+  },
+  {
+    q: 'What percentage of Americans own crypto?',
+    a: 'Pew Research found 17% of US adults have invested in, traded, or used cryptocurrency at some point. About 7% currently own crypto. Ownership skews younger and male — 25% of adults under 30 have used crypto vs. 8% of those 65+.'
+  },
+  {
+    q: 'How big is the cryptocurrency market?',
+    a: 'Total global crypto market cap has ranged between roughly $1 trillion and $3 trillion over 2024–2026 with significant volatility. Bitcoin alone accounts for 50–60% of total market cap. Daily trading volume across exchanges runs $50–150 billion.'
+  },
+  {
+    q: 'Did Bitcoin ETFs change the market?',
+    a: 'Yes, substantially. The January 2024 launch of US spot Bitcoin ETFs attracted over $51 billion in net inflows in the first eleven months, making them the most successful ETF launch in history. Institutional adoption is now embedded in the market structure.'
+  },
+  {
+    q: 'How much cryptocurrency fraud and theft happens?',
+    a: 'Chainalysis estimates $24.2 billion in illicit crypto transaction volume in 2023, including scams, theft, sanctions evasion, and ransomware. That is about 0.34% of total on-chain transaction volume — a smaller share than historical estimates, partly because total volume has grown faster than illicit volume.'
+  },
+  {
+    q: 'Which countries adopt cryptocurrency most?',
+    a: 'Chainalysis\'s Global Crypto Adoption Index ranks India, Nigeria, Indonesia, the US, and Vietnam at the top. Adoption is highest in countries with weak fiat currencies, large remittance flows, or limited banking access.'
+  },
+];
+
+const sources = [
+  { title: 'Cryptocurrency Ownership Data 2024', publisher: 'Triple-A', url: 'https://triple-a.io/cryptocurrency-ownership-data/', accessed: '2026-05-12' },
+  { title: '17% of Americans say they have used cryptocurrency', publisher: 'Pew Research Center', url: 'https://www.pewresearch.org/short-reads/2023/04/10/majority-of-americans-arent-confident-in-the-safety-and-reliability-of-cryptocurrency/', accessed: '2026-05-12' },
+  { title: '2024 Geography of Cryptocurrency Report', publisher: 'Chainalysis', url: 'https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/', accessed: '2026-05-12' },
+  { title: '2024 Crypto Crime Report', publisher: 'Chainalysis', url: 'https://www.chainalysis.com/blog/2024-crypto-crime-report-introduction/', accessed: '2026-05-12' },
+  { title: 'CoinGecko market data', publisher: 'CoinGecko', url: 'https://www.coingecko.com/', accessed: '2026-05-12' },
+  { title: 'Spot Bitcoin ETF flows', publisher: 'Bloomberg ETF Analytics', url: 'https://www.bloomberg.com/professional/insights/markets/spot-bitcoin-etfs/', accessed: '2026-05-12' },
+  { title: 'Onchain Analytics', publisher: 'Visa', url: 'https://usa.visa.com/solutions/crypto/onchain-analytics-dashboard.html', accessed: '2026-05-12' },
+  { title: 'FBI Internet Crime Report', publisher: 'FBI IC3', url: 'https://www.ic3.gov/AnnualReport/Reports', accessed: '2026-05-12' },
+];
+---
+
+<StatsLayout
+  title="Cryptocurrency Statistics 2026"
+  description="Global cryptocurrency statistics for 2026 — ownership, market cap, Bitcoin ETF flows, adoption by country, illicit activity, and stablecoin volume. Sourced from Triple-A, Chainalysis, Pew, and Visa Onchain."
+  slug="cryptocurrency-statistics-2026"
+  lastUpdated={lastUpdated}
+  topStats={topStats}
+  faq={faq}
+  sources={sources}
+  category="finance"
+  categoryLabel="Finance"
+>
+
+<h2>Global cryptocurrency ownership</h2>
+
+<p>The most-cited number for global <a href="/cryptocurrency">cryptocurrency</a> ownership is Triple-A's estimate of <strong>roughly 617 million owners</strong> as of mid-2024, or about 7.5% of the global population. The figure depends heavily on methodology — different sources reach 420 million to 850 million — but the order of magnitude is consistent. Crypto ownership has roughly doubled since 2021.</p>
+
+<p>Regional breakdown of ownership (Triple-A, 2024):</p>
+
+<table>
+  <thead>
+    <tr><th>Region</th><th>Approx. owners</th><th>Notes</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Asia</td><td>~390 million</td><td>Largest share globally; India, Indonesia, Vietnam, Pakistan all in top 10</td></tr>
+    <tr><td>North America</td><td>~70 million</td><td>US ownership at ~17% of adults (Pew)</td></tr>
+    <tr><td>Africa</td><td>~58 million</td><td>Highest growth rate; Nigeria, Kenya, South Africa lead</td></tr>
+    <tr><td>South America</td><td>~55 million</td><td>Argentina, Brazil, Venezuela use crypto as inflation hedge</td></tr>
+    <tr><td>Europe</td><td>~40 million</td><td>Lower percentage but higher average holdings</td></tr>
+    <tr><td>Oceania</td><td>~4 million</td><td>Smaller but high per-capita</td></tr>
+  </tbody>
+</table>
+
+<h3>US-specific ownership</h3>
+
+<p>Pew Research found 17% of US adults have invested in, traded, or used cryptocurrency at some point, with about 7% currently holding. Ownership skews:</p>
+
+<ul>
+  <li>Male — 22% of men vs. 12% of women have used crypto</li>
+  <li>Younger — 25% of adults under 30 vs. 8% of adults 65+</li>
+  <li>Higher-income — modest skew toward incomes above $75k</li>
+</ul>
+
+<h2>Market structure</h2>
+
+<p>Total global cryptocurrency market capitalization has swung between roughly <strong>$1 trillion and $3 trillion</strong> over 2024–2026. Within that:</p>
+
+<ul>
+  <li><strong>Bitcoin</strong> dominates with 50–60% of total market cap most weeks. The 2024 Bitcoin halving (April 2024) cut new issuance from 6.25 to 3.125 BTC per block.</li>
+  <li><strong>Ethereum</strong> typically holds 14–20% of total market cap.</li>
+  <li><strong>Stablecoins</strong> (USDT, USDC, DAI, others) collectively process the most transaction volume by far — Visa's Onchain Analytics estimates $60B+ monthly settled stablecoin volume in 2024.</li>
+  <li>The "long tail" of thousands of smaller tokens makes up the remainder.</li>
+</ul>
+
+<h3>Bitcoin ETF flows</h3>
+
+<p>The January 11, 2024 approval and launch of US spot Bitcoin ETFs was the biggest structural change to the market since exchange-traded crypto became possible. Net inflows for the first eleven months of trading:</p>
+
+<ul>
+  <li>BlackRock IBIT — over $30 billion in net inflows</li>
+  <li>Fidelity FBTC — over $10 billion</li>
+  <li>Other issuers (ARK, Bitwise, Invesco, etc.) — over $10 billion combined</li>
+  <li>Grayscale GBTC — net outflows of roughly $20 billion (as legacy trust holders converted/exited)</li>
+</ul>
+
+<p>The category as a whole saw <strong>$51 billion+ in net inflows</strong> in 2024 — making it the most successful ETF launch in history.</p>
+
+<h2>Adoption beyond speculation</h2>
+
+<p>Chainalysis's annual Global Crypto Adoption Index measures not just ownership but on-chain transaction volume relative to population and economy. The 2024 rankings put these countries at the top:</p>
+
+<ol>
+  <li>India</li>
+  <li>Nigeria</li>
+  <li>Indonesia</li>
+  <li>United States</li>
+  <li>Vietnam</li>
+  <li>Ukraine</li>
+  <li>Russia</li>
+  <li>Philippines</li>
+  <li>Pakistan</li>
+  <li>Brazil</li>
+</ol>
+
+<p>The pattern is clear: adoption is highest where local fiat currencies are weak, remittances are large, or formal banking is limited. Stablecoins — especially USD-pegged ones — are the dominant use case in these markets, not Bitcoin speculation.</p>
+
+<h2>Illicit use and fraud</h2>
+
+<p>Chainalysis's 2024 Crypto Crime Report estimates <strong>$24.2 billion in illicit on-chain transaction volume in 2023</strong>, about 0.34% of total. Categories:</p>
+
+<ul>
+  <li>Scams (rug pulls, romance scams, pig-butchering) — largest single category</li>
+  <li>Stolen funds (exchange and DeFi hacks) — $1.7 billion in 2023, down from 2022's $3.7 billion peak</li>
+  <li>Ransomware payments — $1.1 billion in 2023, the highest year on record</li>
+  <li>Sanctions evasion — material but precise figures contested</li>
+  <li>Darknet markets — declining as a share</li>
+</ul>
+
+<p>The FBI's 2023 Internet Crime Report logged <strong>$5.6 billion in reported crypto-related US losses</strong>, a 45% jump from 2022. Investment fraud (often via fake trading platforms) was the largest category.</p>
+
+<h2>Regulation in 2026</h2>
+
+<ul>
+  <li><strong>European Union</strong> — Markets in Crypto-Assets (MiCA) regulation in full force since December 2024; comprehensive licensing framework for exchanges and stablecoin issuers</li>
+  <li><strong>United States</strong> — Patchwork of SEC enforcement actions and state laws; bipartisan legislation pending; Bitcoin ETFs (and later Ethereum spot ETFs) have established a regulated investment-product path</li>
+  <li><strong>United Kingdom</strong> — Phased crypto regulation rolling out under FCA supervision</li>
+  <li><strong>China</strong> — Domestic trading and mining remain prohibited; Hong Kong is positioning as an Asian crypto hub</li>
+  <li><strong>El Salvador</strong> — Bitcoin remains legal tender (since 2021); adoption is much lower than the legislation implies</li>
+</ul>
+
+<h2>Stablecoins are now the volume story</h2>
+
+<p>Increasingly, the most economically significant on-chain activity is stablecoin transfer, not Bitcoin trading. Visa's Onchain Analytics dashboard estimates <strong>$60+ billion in monthly stablecoin transaction volume</strong> across major chains in 2024. Use cases:</p>
+
+<ul>
+  <li>Cross-border remittances (especially Latin America, Southeast Asia)</li>
+  <li>Treasury/corporate use (rare so far but growing)</li>
+  <li>On-ramp/off-ramp for crypto traders</li>
+  <li>Holding USD exposure in inflationary economies (Argentina, Turkey, Venezuela)</li>
+</ul>
+
+<h2>Related explainers</h2>
+
+<ul>
+  <li><a href="/cryptocurrency">What Is Cryptocurrency?</a> — the canonical definition</li>
+  <li><a href="/blockchain">What Is Blockchain?</a> — the underlying technology</li>
+  <li><a href="/category/finance">Finance explainers</a> — broader market context</li>
+</ul>
+
+</StatsLayout>

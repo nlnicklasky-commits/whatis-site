@@ -1,0 +1,8 @@
+asset: /remote-work-statistics-2026
+inbound_links:
+  - from: src/content/articles/economics.md
+    anchor: "Remote Work Statistics 2026"
+    must_contain_path: "/remote-work-statistics-2026"
+    optional: true
+outbound_links:
+  - to: /artificial-intelligence-statistics-2026

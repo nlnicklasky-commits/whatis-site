@@ -55,6 +55,39 @@ const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
   <link rel="preload" href="/fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/inter-700.woff2" as="font" type="font/woff2" crossorigin />
 
+  <!-- Organization schema (sitewide, for Google Knowledge Graph and AI search entity resolution) -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": `${siteUrl}/#organization`,
+    "name": siteName,
+    "alternateName": "WhatIs",
+    "url": siteUrl,
+    "logo": {
+      "@type": "ImageObject",
+      "url": `${siteUrl}/logo.svg`,
+      "width": 512,
+      "height": 512
+    },
+    "description": "Clear, human-written explanations of concepts across technology, science, finance, philosophy, history, and more.",
+    "sameAs": [
+      "https://twitter.com/whatisdotsite",
+      "https://bsky.app/profile/whatis.site",
+      "https://www.linkedin.com/company/whatisdotsite"
+    ]
+  })} />
+
+  <!-- WebSite schema with SearchAction for sitelinks search box -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": `${siteUrl}/#website`,
+    "url": siteUrl,
+    "name": siteName,
+    "publisher": { "@id": `${siteUrl}/#organization` },
+    "inLanguage": "en-US"
+  })} />
+
   <slot name="head" />
 </head>
 <body class="bg-white text-gray-900 font-body min-h-screen flex flex-col">

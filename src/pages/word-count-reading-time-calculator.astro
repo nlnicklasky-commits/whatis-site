@@ -1,0 +1,183 @@
+---
+import ToolLayout from '../layouts/ToolLayout.astro';
+
+const lastUpdated = '2026-05-12';
+
+const faq = [
+  {
+    q: 'How is reading time calculated?',
+    a: 'We multiply the word count by an average reading speed in words per minute (WPM). The default is 238 WPM — the median adult silent reading rate across English-language studies. You can adjust the WPM to match your audience: 150 for slow readers, 300+ for skimmers.'
+  },
+  {
+    q: 'What is the average reading speed?',
+    a: 'For adults reading non-technical English prose, the median silent reading speed is about 238 words per minute (Brysbaert, 2019, meta-analysis of 190+ studies). Faster readers hit 300+ WPM; slower readers or technical content runs closer to 150 WPM.'
+  },
+  {
+    q: 'What is the Flesch-Kincaid grade level?',
+    a: 'A readability score that estimates the US school grade level needed to understand the text. It is computed from sentence length and average syllables per word. A score of 8 means the text is appropriate for an eighth grader. General-audience web writing usually targets grade 7–9.'
+  },
+  {
+    q: 'Does my text get sent to a server?',
+    a: 'No. All counting happens inside your browser — your text never leaves your device. Refresh the page and it is gone.'
+  },
+  {
+    q: 'What counts as a word?',
+    a: 'Sequences of letters, digits, apostrophes, and hyphens separated by whitespace or punctuation. "Don\'t" is one word. "Self-driving" is one word. Numbers count.'
+  },
+];
+---
+
+<ToolLayout
+  title="Word Count & Reading Time Calculator"
+  description="Free word count, character count, and reading time calculator with adjustable reading speed and Flesch-Kincaid grade level. Your text never leaves your browser."
+  slug="word-count-reading-time-calculator"
+  applicationCategory="UtilitiesApplication"
+  faq={faq}
+  lastUpdated={lastUpdated}
+>
+
+<div class="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
+  <label class="block mb-2">
+    <span class="text-sm font-medium text-gray-700">Paste your text below</span>
+  </label>
+  <textarea id="wc-input" rows="10" placeholder="Paste or type here..." class="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 font-mono text-sm"></textarea>
+
+  <div class="mt-4 flex items-center gap-3">
+    <label class="flex items-center gap-2 text-sm">
+      <span class="text-gray-700">Reading speed (WPM):</span>
+      <input type="number" id="wc-wpm" value="238" min="50" max="1000" step="1" class="w-20 px-2 py-1 border border-gray-300 rounded text-sm" />
+    </label>
+    <button type="button" id="wc-clear" class="text-sm text-gray-600 hover:text-gray-900 underline">Clear</button>
+  </div>
+</div>
+
+<div class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+  <div class="bg-blue-50 border border-blue-200 rounded-lg p-4">
+    <p class="text-xs uppercase tracking-wide text-blue-800 font-semibold">Words</p>
+    <p class="text-3xl font-bold text-blue-900" id="wc-words">0</p>
+  </div>
+  <div class="bg-blue-50 border border-blue-200 rounded-lg p-4">
+    <p class="text-xs uppercase tracking-wide text-blue-800 font-semibold">Characters</p>
+    <p class="text-3xl font-bold text-blue-900" id="wc-chars">0</p>
+    <p class="text-xs text-blue-700 mt-1"><span id="wc-chars-nospace">0</span> no spaces</p>
+  </div>
+  <div class="bg-blue-50 border border-blue-200 rounded-lg p-4">
+    <p class="text-xs uppercase tracking-wide text-blue-800 font-semibold">Sentences</p>
+    <p class="text-3xl font-bold text-blue-900" id="wc-sentences">0</p>
+  </div>
+  <div class="bg-blue-50 border border-blue-200 rounded-lg p-4">
+    <p class="text-xs uppercase tracking-wide text-blue-800 font-semibold">Reading time</p>
+    <p class="text-3xl font-bold text-blue-900" id="wc-time">0 min</p>
+  </div>
+</div>
+
+<div class="mt-3 grid gap-3 sm:grid-cols-2">
+  <div class="bg-gray-50 border border-gray-200 rounded-lg p-4">
+    <p class="text-xs uppercase tracking-wide text-gray-700 font-semibold">Avg. word length</p>
+    <p class="text-xl font-bold text-gray-900"><span id="wc-avg-word">0</span> letters</p>
+  </div>
+  <div class="bg-gray-50 border border-gray-200 rounded-lg p-4">
+    <p class="text-xs uppercase tracking-wide text-gray-700 font-semibold">Flesch-Kincaid grade</p>
+    <p class="text-xl font-bold text-gray-900" id="wc-grade">—</p>
+    <p class="text-xs text-gray-600 mt-1" id="wc-grade-note"></p>
+  </div>
+</div>
+
+<section class="prose prose-lg max-w-none mt-12">
+  <h2>How to use this tool</h2>
+  <p>Paste your text into the box above. The counts update as you type. The reading-time estimate uses the median adult silent reading speed of 238 words per minute (Brysbaert, 2019), but you can adjust the WPM for your audience.</p>
+
+  <h2>Choosing a reading speed</h2>
+  <ul>
+    <li><strong>150 WPM</strong> — slower readers, technical or unfamiliar content, ESL audiences</li>
+    <li><strong>238 WPM</strong> — adult median for English non-fiction (default)</li>
+    <li><strong>300 WPM</strong> — fast readers, light content</li>
+    <li><strong>450+ WPM</strong> — speed readers or skimming</li>
+  </ul>
+
+  <h2>About Flesch-Kincaid</h2>
+  <p>The Flesch-Kincaid Grade Level estimates what US school grade can comfortably read your text. The formula: 0.39 × (words/sentences) + 11.8 × (syllables/words) − 15.59. General-audience writing typically targets grade 7–9. Academic writing routinely runs grade 12+. Your text length should be at least one full sentence for the grade level to be meaningful.</p>
+</section>
+
+<script is:inline>
+(function () {
+  var input = document.getElementById('wc-input');
+  var wpmInput = document.getElementById('wc-wpm');
+  var clearBtn = document.getElementById('wc-clear');
+
+  function countSyllables(word) {
+    word = word.toLowerCase();
+    if (word.length <= 3) return 1;
+    // Strip silent e at end
+    word = word.replace(/(?:[^laeiouy]es|ed|[^laeiouy]e)$/, '');
+    word = word.replace(/^y/, '');
+    var matches = word.match(/[aeiouy]{1,2}/g);
+    return matches ? matches.length : 1;
+  }
+
+  function compute() {
+    var text = input.value;
+    var wpm = parseInt(wpmInput.value, 10) || 238;
+    if (wpm < 50) wpm = 50;
+
+    var chars = text.length;
+    var charsNoSpace = text.replace(/\s/g, '').length;
+
+    var trimmed = text.trim();
+    var words = trimmed.length === 0 ? [] : trimmed.split(/\s+/).filter(function (w) { return /[\w'\-]/.test(w); });
+    var wordCount = words.length;
+
+    var sentences = trimmed.length === 0 ? 0 :
+      (trimmed.match(/[^.!?\n]+[.!?]+|\S+/g) || []).filter(function (s) { return s.trim().length > 0; }).length;
+    // Fallback: if no terminator present, treat blob as 1 sentence
+    if (wordCount > 0 && sentences === 0) sentences = 1;
+
+    var minutesRaw = wpm > 0 ? wordCount / wpm : 0;
+    var minutes = Math.ceil(minutesRaw);
+    var timeLabel;
+    if (wordCount === 0) timeLabel = '0 min';
+    else if (minutesRaw < 1) timeLabel = '< 1 min';
+    else timeLabel = minutes + ' min';
+
+    var avgWordLen = wordCount > 0 ? (charsNoSpace / wordCount) : 0;
+
+    var totalSyllables = 0;
+    for (var i = 0; i < words.length; i++) {
+      totalSyllables += countSyllables(words[i].replace(/[^a-zA-Z]/g, ''));
+    }
+    var grade = '—';
+    var gradeNote = '';
+    if (wordCount > 0 && sentences > 0) {
+      var fk = 0.39 * (wordCount / sentences) + 11.8 * (totalSyllables / wordCount) - 15.59;
+      grade = fk.toFixed(1);
+      if (fk < 6) gradeNote = 'Very easy. Elementary school level.';
+      else if (fk < 9) gradeNote = 'Easy. Middle school level — typical general-audience writing.';
+      else if (fk < 12) gradeNote = 'Moderate. High school level.';
+      else if (fk < 16) gradeNote = 'Difficult. College level.';
+      else gradeNote = 'Very difficult. Graduate / specialist level.';
+    }
+
+    document.getElementById('wc-words').textContent = wordCount.toLocaleString();
+    document.getElementById('wc-chars').textContent = chars.toLocaleString();
+    document.getElementById('wc-chars-nospace').textContent = charsNoSpace.toLocaleString();
+    document.getElementById('wc-sentences').textContent = sentences.toLocaleString();
+    document.getElementById('wc-time').textContent = timeLabel;
+    document.getElementById('wc-avg-word').textContent = avgWordLen.toFixed(1);
+    document.getElementById('wc-grade').textContent = grade;
+    document.getElementById('wc-grade-note').textContent = gradeNote;
+  }
+
+  input.addEventListener('input', compute);
+  wpmInput.addEventListener('input', compute);
+  wpmInput.addEventListener('change', compute);
+  clearBtn.addEventListener('click', function () {
+    input.value = '';
+    compute();
+    input.focus();
+  });
+
+  compute();
+})();
+</script>
+
+</ToolLayout>

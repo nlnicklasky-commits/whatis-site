@@ -1,0 +1,11 @@
+asset: /cryptocurrency-statistics-2026
+inbound_links:
+  - from: src/content/articles/cryptocurrency.md
+    anchor: "Cryptocurrency Statistics 2026"
+    must_contain_path: "/cryptocurrency-statistics-2026"
+  - from: src/content/articles/blockchain.md
+    anchor: "Cryptocurrency Statistics 2026"
+    must_contain_path: "/cryptocurrency-statistics-2026"
+outbound_links:
+  - to: /cryptocurrency
+  - to: /blockchain

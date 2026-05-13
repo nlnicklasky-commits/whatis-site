@@ -1,0 +1,7 @@
+asset: /climate-change-statistics-2026
+inbound_links:
+  - from: src/content/articles/climate-change.md
+    anchor: "Climate Change Statistics 2026"
+    must_contain_path: "/climate-change-statistics-2026"
+outbound_links:
+  - to: /climate-change

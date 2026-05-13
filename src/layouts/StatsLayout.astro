@@ -1,0 +1,219 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface StatItem {
+  value: string;
+  label: string;
+  source?: string;
+}
+
+interface FaqItem {
+  q: string;
+  a: string;
+}
+
+interface Source {
+  title: string;
+  publisher: string;
+  url: string;
+  accessed?: string;
+}
+
+interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  lastUpdated: string;
+  topStats: StatItem[];
+  faq: FaqItem[];
+  sources: Source[];
+  category?: string;
+  categoryLabel?: string;
+}
+
+const {
+  title,
+  description,
+  slug,
+  lastUpdated,
+  topStats,
+  faq,
+  sources,
+  category,
+  categoryLabel,
+} = Astro.props;
+
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const canonicalUrl = `${siteUrl}/${slug}`;
+const ogImage = `${siteUrl}/og-image.png`;
+const lastUpdatedISO = new Date(lastUpdated).toISOString();
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogImage={ogImage}
+  ogType="article"
+>
+  <!-- Article schema (a stats roundup is still an Article in schema.org terms) -->
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "@id": canonicalUrl,
+    "headline": title,
+    "description": description,
+    "author": { "@type": "Organization", "name": "WhatIs.site Editorial", "url": siteUrl },
+    "publisher": { "@id": `${siteUrl}/#organization` },
+    "datePublished": lastUpdatedISO,
+    "dateModified": lastUpdatedISO,
+    "image": ogImage,
+    "mainEntityOfPage": { "@type": "WebPage", "@id": canonicalUrl },
+    "isAccessibleForFree": true,
+    "speakable": {
+      "@type": "SpeakableSpecification",
+      "cssSelector": [".stats-lede", ".top-stats-list li"]
+    }
+  })} />
+
+  <!-- FAQPage schema (AI Overview citation magnet) -->
+  {faq?.length > 0 && (
+    <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faq.map(item => ({
+        "@type": "Question",
+        "name": item.q,
+        "acceptedAnswer": { "@type": "Answer", "text": item.a }
+      }))
+    })} />
+  )}
+
+  <!-- ItemList schema (top stats — discoverable as structured list) -->
+  {topStats?.length > 0 && (
+    <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": `${title} — Top Statistics`,
+      "itemListElement": topStats.map((s, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "name": `${s.value} — ${s.label}`
+      }))
+    })} />
+  )}
+
+  <!-- Breadcrumb schema -->
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": siteUrl },
+      { "@type": "ListItem", "position": 2, "name": "Statistics", "item": `${siteUrl}/statistics` },
+      { "@type": "ListItem", "position": 3, "name": title }
+    ]
+  })} />
+
+  <article class="max-w-4xl mx-auto px-4 py-8">
+    <!-- Breadcrumbs -->
+    <nav aria-label="Breadcrumb" class="text-sm text-gray-500 mb-4">
+      <ol class="flex items-center gap-1 flex-wrap">
+        <li><a href="/" class="hover:text-blue-600 transition-colors">Home</a></li>
+        <li class="before:content-['/'] before:mx-1.5 before:text-gray-300">
+          <a href="/statistics" class="hover:text-blue-600 transition-colors">Statistics</a>
+        </li>
+        <li class="before:content-['/'] before:mx-1.5 before:text-gray-300 text-gray-900 truncate max-w-xs">{title}</li>
+      </ol>
+    </nav>
+
+    <header class="mb-8">
+      <div class="mb-3 flex flex-wrap items-center gap-3 text-sm text-gray-500">
+        <span class="inline-block bg-blue-100 text-blue-800 px-2 py-1 rounded text-xs font-medium uppercase tracking-wide">
+          Statistics Roundup
+        </span>
+        {categoryLabel && category && (
+          <a href={`/category/${category}`} class="hover:text-blue-600 transition-colors">{categoryLabel}</a>
+        )}
+        <span>Updated <time datetime={lastUpdatedISO}>{new Date(lastUpdated).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time></span>
+      </div>
+
+      <h1 class="text-4xl md:text-5xl font-heading font-bold text-gray-900 leading-tight mb-4">{title}</h1>
+
+      <p class="stats-lede text-lg text-gray-700 leading-relaxed">{description}</p>
+    </header>
+
+    <!-- Top stats at a glance (the TL;DR — designed for AI Overview extraction) -->
+    {topStats?.length > 0 && (
+      <section class="mb-10 bg-gray-50 border border-gray-200 rounded-lg p-6">
+        <h2 class="text-xl font-heading font-semibold text-gray-900 mb-4">Key statistics at a glance</h2>
+        <ul class="top-stats-list grid gap-3 sm:grid-cols-2">
+          {topStats.map(stat => (
+            <li class="flex flex-col">
+              <span class="text-2xl font-bold text-blue-700">{stat.value}</span>
+              <span class="text-sm text-gray-700 leading-snug">{stat.label}</span>
+              {stat.source && <span class="text-xs text-gray-500 mt-0.5">Source: {stat.source}</span>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <!-- Slot for the page body (sections, tables, charts) -->
+    <div class="prose prose-lg max-w-none prose-headings:font-heading prose-headings:text-gray-900 prose-a:text-blue-700 prose-a:no-underline hover:prose-a:underline">
+      <slot />
+    </div>
+
+    <!-- FAQ -->
+    {faq?.length > 0 && (
+      <section class="mt-12 border-t border-gray-200 pt-10">
+        <h2 class="text-2xl font-heading font-semibold text-gray-900 mb-6">Frequently asked questions</h2>
+        <div class="space-y-6">
+          {faq.map(item => (
+            <div>
+              <h3 class="text-lg font-semibold text-gray-900 mb-2">{item.q}</h3>
+              <p class="text-gray-700 leading-relaxed">{item.a}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Sources -->
+    {sources?.length > 0 && (
+      <section class="mt-12 border-t border-gray-200 pt-10">
+        <h2 class="text-2xl font-heading font-semibold text-gray-900 mb-4">Sources & methodology</h2>
+        <p class="text-gray-700 mb-4 leading-relaxed">
+          Every number on this page comes from a published source. We aggregate; we don't survey. Figures are checked
+          before publish and refreshed quarterly. Last checked: <strong>{new Date(lastUpdated).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</strong>.
+        </p>
+        <ol class="list-decimal list-inside space-y-2 text-sm text-gray-700">
+          {sources.map(s => (
+            <li>
+              <a href={s.url} rel="noopener" target="_blank" class="text-blue-700 hover:underline">{s.title}</a>
+              {' — '}<span class="text-gray-600">{s.publisher}</span>
+              {s.accessed && <span class="text-gray-500"> (accessed {s.accessed})</span>}
+            </li>
+          ))}
+        </ol>
+      </section>
+    )}
+
+    <!-- Cite-this-page snippet -->
+    <section class="mt-12 border-t border-gray-200 pt-10 bg-gray-50 -mx-4 px-4 sm:mx-0 sm:rounded-lg sm:px-6 py-6">
+      <h2 class="text-xl font-heading font-semibold text-gray-900 mb-3">Cite this page</h2>
+      <p class="text-sm text-gray-700 mb-2"><strong>APA:</strong></p>
+      <code class="block bg-white border border-gray-200 rounded px-3 py-2 text-xs text-gray-800 mb-4 overflow-x-auto">
+        WhatIs.site Editorial. ({new Date(lastUpdated).getFullYear()}). <em>{title}</em>. WhatIs.site. {canonicalUrl}
+      </code>
+      <p class="text-sm text-gray-700 mb-2"><strong>Plain text:</strong></p>
+      <code class="block bg-white border border-gray-200 rounded px-3 py-2 text-xs text-gray-800 overflow-x-auto">
+        "{title}." WhatIs.site, updated {new Date(lastUpdated).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}. {canonicalUrl}
+      </code>
+    </section>
+
+    <!-- Cross-promo to other stats / tools -->
+    <section class="mt-10 text-sm text-gray-600 text-center">
+      <p>Explore more <a href="/statistics" class="text-blue-700 hover:underline">statistics roundups</a> or try our <a href="/free-tools" class="text-blue-700 hover:underline">free tools</a>.</p>
+    </section>
+  </article>
+</BaseLayout>

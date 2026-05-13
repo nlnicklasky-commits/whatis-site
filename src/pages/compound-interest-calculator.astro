@@ -1,0 +1,257 @@
+---
+import ToolLayout from '../layouts/ToolLayout.astro';
+
+const lastUpdated = '2026-05-12';
+
+const faq = [
+  {
+    q: 'What is compound interest?',
+    a: 'Compound interest is interest earned on both the original principal and the accumulated interest from previous periods. It is the engine behind long-term wealth building: small differences in rate or time produce dramatic differences in outcome.'
+  },
+  {
+    q: 'How is compound interest calculated?',
+    a: 'The standard formula is FV = P × (1 + r/n)^(n×t) + PMT × ((((1 + r/n)^(n×t)) − 1) / (r/n)), where P is principal, r is the annual rate (as decimal), n is compounding periods per year, t is years, and PMT is the contribution per period. Our calculator handles the contribution math automatically.'
+  },
+  {
+    q: 'What is the Rule of 72?',
+    a: 'A shortcut for compound growth: divide 72 by your annual return rate to estimate how many years it takes for an investment to double. At 7%, money doubles roughly every 10.3 years. At 10%, every 7.2 years. The rule is most accurate for rates between 5% and 12%.'
+  },
+  {
+    q: 'Does the calculator account for monthly contributions?',
+    a: 'Yes. You can set any monthly contribution amount. The math converts it to per-compounding-period amounts and supports compounding daily, monthly, quarterly, semi-annually, or annually.'
+  },
+  {
+    q: 'Does this consider taxes or inflation?',
+    a: 'No — the calculator computes nominal future value. To estimate real (inflation-adjusted) value, subtract your inflation assumption from your rate of return before calculating. For example, a 7% nominal return with 3% inflation would give roughly 4% real return.'
+  },
+];
+---
+
+<ToolLayout
+  title="Compound Interest Calculator"
+  description="Free compound interest calculator with monthly contributions, multiple compounding frequencies, and a year-by-year breakdown. No signup, all calculations stay in your browser."
+  slug="compound-interest-calculator"
+  applicationCategory="FinanceApplication"
+  faq={faq}
+  lastUpdated={lastUpdated}
+>
+
+<div class="bg-white border border-gray-200 rounded-lg p-6 shadow-sm">
+  <form id="ci-form" class="space-y-4" autocomplete="off">
+    <div class="grid gap-4 sm:grid-cols-2">
+      <label class="block">
+        <span class="block text-sm font-medium text-gray-700 mb-1">Initial deposit ($)</span>
+        <input type="number" id="ci-principal" value="10000" min="0" step="any" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500" />
+      </label>
+      <label class="block">
+        <span class="block text-sm font-medium text-gray-700 mb-1">Monthly contribution ($)</span>
+        <input type="number" id="ci-contribution" value="500" min="0" step="any" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500" />
+      </label>
+      <label class="block">
+        <span class="block text-sm font-medium text-gray-700 mb-1">Annual rate (%)</span>
+        <input type="number" id="ci-rate" value="7" min="0" max="100" step="0.01" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500" />
+      </label>
+      <label class="block">
+        <span class="block text-sm font-medium text-gray-700 mb-1">Years</span>
+        <input type="number" id="ci-years" value="20" min="1" max="100" step="1" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500" />
+      </label>
+      <label class="block">
+        <span class="block text-sm font-medium text-gray-700 mb-1">Compounding frequency</span>
+        <select id="ci-frequency" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white">
+          <option value="1">Annual</option>
+          <option value="2">Semi-annual</option>
+          <option value="4">Quarterly</option>
+          <option value="12" selected>Monthly</option>
+          <option value="365">Daily</option>
+        </select>
+      </label>
+      <label class="block">
+        <span class="block text-sm font-medium text-gray-700 mb-1">Contribution timing</span>
+        <select id="ci-timing" class="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white">
+          <option value="end" selected>End of period</option>
+          <option value="start">Start of period</option>
+        </select>
+      </label>
+    </div>
+  </form>
+</div>
+
+<div id="ci-result" class="mt-6 bg-blue-50 border border-blue-200 rounded-lg p-6">
+  <p class="text-sm uppercase tracking-wide text-blue-800 font-semibold mb-1">Future value</p>
+  <p class="text-4xl md:text-5xl font-bold text-blue-900" id="ci-final">$0</p>
+  <p class="text-sm text-blue-800 mt-2">
+    From <strong id="ci-contributed">$0</strong> contributed + <strong id="ci-interest">$0</strong> in interest.
+  </p>
+  <div class="mt-4 flex flex-wrap gap-2">
+    <button type="button" id="ci-copy" class="text-sm bg-blue-700 text-white px-3 py-1.5 rounded hover:bg-blue-800 transition-colors">Copy result</button>
+    <button type="button" id="ci-toggle-table" class="text-sm bg-white text-blue-700 border border-blue-700 px-3 py-1.5 rounded hover:bg-blue-50 transition-colors">Show year-by-year</button>
+  </div>
+</div>
+
+<!-- Bar chart: contributions vs interest at final year -->
+<div class="mt-6">
+  <h3 class="text-sm font-semibold text-gray-700 mb-2">Contributions vs. interest at end</h3>
+  <svg id="ci-chart" viewBox="0 0 400 80" class="w-full h-20" aria-label="Bar chart of contributions vs interest">
+    <rect x="0" y="20" width="0" height="40" fill="#1d4ed8" id="ci-bar-contrib"><title>Contributions</title></rect>
+    <rect x="0" y="20" width="0" height="40" fill="#10b981" id="ci-bar-interest"><title>Interest</title></rect>
+  </svg>
+  <div class="text-xs text-gray-600 flex gap-4 mt-1">
+    <span class="flex items-center gap-1"><span class="inline-block w-3 h-3 bg-blue-700 rounded-sm"></span>Contributions</span>
+    <span class="flex items-center gap-1"><span class="inline-block w-3 h-3 bg-emerald-500 rounded-sm"></span>Interest</span>
+  </div>
+</div>
+
+<div id="ci-table-wrap" class="mt-6 hidden overflow-x-auto">
+  <table class="w-full text-sm">
+    <thead class="bg-gray-50 text-gray-700">
+      <tr>
+        <th class="text-left px-3 py-2 border border-gray-200">Year</th>
+        <th class="text-right px-3 py-2 border border-gray-200">Start balance</th>
+        <th class="text-right px-3 py-2 border border-gray-200">Contributions</th>
+        <th class="text-right px-3 py-2 border border-gray-200">Interest</th>
+        <th class="text-right px-3 py-2 border border-gray-200">End balance</th>
+      </tr>
+    </thead>
+    <tbody id="ci-table-body"></tbody>
+  </table>
+</div>
+
+<section class="prose prose-lg max-w-none mt-12">
+  <h2>How compound interest works</h2>
+  <p>Compound interest is the interest you earn on both the original principal and on the interest that has accumulated from previous periods. The longer you let it run, the more dramatic the effect — which is why a typical retirement plan looks like a hockey stick rather than a straight line.</p>
+  <p>A worked example: invest $1,000 at 7% annual interest, compounded annually. After year 1, you have $1,070. After year 2, $1,144.90 — that extra $4.90 over a simple-interest result is the compound effect. After 30 years you have $7,612. Add a $200 monthly contribution and you end with $254,000. The contributions add up to $72,000 over 30 years; the rest is interest on interest.</p>
+  <p>Two practical insights this calculator makes obvious:</p>
+  <ul>
+    <li><strong>Time matters more than rate, in the long run.</strong> Doubling your annual contribution from $250 to $500 helps a lot. Starting 10 years earlier helps more.</li>
+    <li><strong>Compounding frequency matters less than people think.</strong> The difference between monthly and daily compounding at typical rates is small — a few basis points of effective annual yield.</li>
+  </ul>
+
+  <h2>Want the concept first?</h2>
+  <p>If you're new to the math, read the <a href="/compound-interest">What Is Compound Interest?</a> explainer, then come back to this page to play with the numbers. The <a href="/interest-rate">interest rate</a> and <a href="/savings">savings</a> explainers also help with the surrounding concepts.</p>
+</section>
+
+<script is:inline>
+(function () {
+  function fmt(n) {
+    return new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }).format(n);
+  }
+  function fmt2(n) {
+    return new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' }).format(n);
+  }
+
+  function compute() {
+    var P = parseFloat(document.getElementById('ci-principal').value) || 0;
+    var monthly = parseFloat(document.getElementById('ci-contribution').value) || 0;
+    var rPct = parseFloat(document.getElementById('ci-rate').value) || 0;
+    var years = parseInt(document.getElementById('ci-years').value, 10) || 0;
+    var n = parseInt(document.getElementById('ci-frequency').value, 10) || 12;
+    var timing = document.getElementById('ci-timing').value;
+
+    if (P < 0) P = 0;
+    if (monthly < 0) monthly = 0;
+    if (rPct < 0) rPct = 0;
+    if (years <= 0) years = 1;
+
+    var r = rPct / 100;
+    var pmt = monthly * 12 / n; // contribution per compounding period
+    var totalPeriods = n * years;
+    var ratePerPeriod = r / n;
+    var timingMult = timing === 'start' ? (1 + ratePerPeriod) : 1;
+
+    // Year-by-year accumulation (also used for final FV — most accurate way)
+    var balance = P;
+    var rows = [];
+    var totalContributions = P;
+    for (var y = 1; y <= years; y++) {
+      var start = balance;
+      var yearContribs = 0;
+      var yearInterest = 0;
+      for (var p = 0; p < n; p++) {
+        if (timing === 'start' && pmt > 0) {
+          balance += pmt;
+          yearContribs += pmt;
+          totalContributions += pmt;
+        }
+        var interestThisPeriod = balance * ratePerPeriod;
+        balance += interestThisPeriod;
+        yearInterest += interestThisPeriod;
+        if (timing === 'end' && pmt > 0) {
+          balance += pmt;
+          yearContribs += pmt;
+          totalContributions += pmt;
+        }
+      }
+      rows.push({ year: y, start: start, contribs: yearContribs, interest: yearInterest, end: balance });
+    }
+
+    var finalBalance = balance;
+    var totalInterest = finalBalance - totalContributions;
+
+    document.getElementById('ci-final').textContent = fmt(finalBalance);
+    document.getElementById('ci-contributed').textContent = fmt(totalContributions);
+    document.getElementById('ci-interest').textContent = fmt(Math.max(0, totalInterest));
+
+    // Update chart
+    var total = totalContributions + Math.max(0, totalInterest);
+    var contribWidth = total > 0 ? (totalContributions / total) * 400 : 0;
+    var interestWidth = total > 0 ? (Math.max(0, totalInterest) / total) * 400 : 0;
+    var contribBar = document.getElementById('ci-bar-contrib');
+    var interestBar = document.getElementById('ci-bar-interest');
+    contribBar.setAttribute('width', contribWidth);
+    interestBar.setAttribute('x', contribWidth);
+    interestBar.setAttribute('width', interestWidth);
+
+    // Render table
+    var tbody = document.getElementById('ci-table-body');
+    tbody.innerHTML = '';
+    for (var i = 0; i < rows.length; i++) {
+      var row = rows[i];
+      var tr = document.createElement('tr');
+      tr.className = i % 2 ? 'bg-white' : 'bg-gray-50';
+      tr.innerHTML = '<td class="px-3 py-1.5 border border-gray-200">' + row.year + '</td>' +
+        '<td class="text-right px-3 py-1.5 border border-gray-200">' + fmt2(row.start) + '</td>' +
+        '<td class="text-right px-3 py-1.5 border border-gray-200">' + fmt2(row.contribs) + '</td>' +
+        '<td class="text-right px-3 py-1.5 border border-gray-200">' + fmt2(row.interest) + '</td>' +
+        '<td class="text-right px-3 py-1.5 border border-gray-200 font-semibold">' + fmt2(row.end) + '</td>';
+      tbody.appendChild(tr);
+    }
+  }
+
+  var debounceTimer;
+  function debouncedCompute() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(compute, 150);
+  }
+
+  var inputs = ['ci-principal','ci-contribution','ci-rate','ci-years','ci-frequency','ci-timing'];
+  inputs.forEach(function (id) {
+    var el = document.getElementById(id);
+    if (el) el.addEventListener('input', debouncedCompute);
+    if (el) el.addEventListener('change', debouncedCompute);
+  });
+
+  document.getElementById('ci-copy').addEventListener('click', function () {
+    var summary = 'Final balance: ' + document.getElementById('ci-final').textContent +
+      ' | Contributed: ' + document.getElementById('ci-contributed').textContent +
+      ' | Interest: ' + document.getElementById('ci-interest').textContent +
+      ' | via whatis.site/compound-interest-calculator';
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(summary);
+    }
+    this.textContent = 'Copied!';
+    var btn = this;
+    setTimeout(function () { btn.textContent = 'Copy result'; }, 1500);
+  });
+
+  document.getElementById('ci-toggle-table').addEventListener('click', function () {
+    var wrap = document.getElementById('ci-table-wrap');
+    var isHidden = wrap.classList.contains('hidden');
+    wrap.classList.toggle('hidden');
+    this.textContent = isHidden ? 'Hide year-by-year' : 'Show year-by-year';
+  });
+
+  compute();
+})();
+</script>
+
+</ToolLayout>

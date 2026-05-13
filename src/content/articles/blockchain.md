@@ -41,6 +41,8 @@ faq:
 
 Blockchain is a distributed digital ledger that records transactions across many computers in a way that makes it nearly impossible to alter past records. Think of it as a public, permanent record book that's maintained by thousands of participants rather than a single authority.
 
+The biggest real-world use of blockchain today is cryptocurrency — see our [Cryptocurrency Statistics 2026](/cryptocurrency-statistics-2026) roundup for current adoption and market data.
+
 ## The Building Blocks: How Blockchain Actually Works
 
 Let's break down what makes blockchain tick—because understanding the mechanics is really where the magic becomes clear.

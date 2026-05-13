@@ -36,6 +36,8 @@ Machine learning is a branch of [artificial intelligence](/artificial-intelligen
 
 The fundamental idea is deceptively simple: show a computer lots of examples, let it figure out the underlying rules, and trust it to apply those rules to situations it's never encountered before.
 
+For current AI adoption statistics — including the 71% of organizations using generative AI in at least one function — see our [AI Statistics 2026](/artificial-intelligence-statistics-2026) roundup.
+
 ## Why Machine Learning Matters Right Now
 
 We're drowning in data. Every click you make online, every photo you take, every transaction you complete generates more of it. That's a trillion-data-points-per-day kind of abundance. Traditional programming can't scale to handle that. You can't write code to handle every possible permutation.

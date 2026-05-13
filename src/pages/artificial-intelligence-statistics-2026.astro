@@ -1,0 +1,181 @@
+---
+import StatsLayout from '../layouts/StatsLayout.astro';
+
+const lastUpdated = '2026-05-12';
+
+const topStats = [
+  { value: '78%', label: 'Of organizations report using AI in at least one business function in 2024 (up from 55% in 2023)', source: 'McKinsey State of AI 2024' },
+  { value: '71%', label: 'Of organizations regularly use generative AI in at least one function (up from 33% in 2023)', source: 'McKinsey State of AI 2024' },
+  { value: '$252.3B', label: 'Global private AI investment in 2024 (Stanford AI Index 2025)', source: 'Stanford AI Index 2025' },
+  { value: '83.3%', label: 'Score of best US model on MMLU benchmark in 2024 (vs. 35% in 2019)', source: 'Stanford AI Index 2025' },
+  { value: '40+', label: 'Notable AI models released by US-based organizations in 2024', source: 'Stanford AI Index 2025' },
+  { value: '$0.07', label: 'Cost per million tokens for GPT-3.5-equivalent models in late 2024 — a 280× drop from $20 in late 2022', source: 'Stanford AI Index 2025' },
+  { value: '49%', label: 'Of US workers say generative AI has made them more productive at work', source: 'Pew Research 2024' },
+  { value: '37', label: 'AI-related US federal regulations enacted in 2024 (more than 2× 2023)', source: 'Stanford AI Index 2025' },
+];
+
+const faq = [
+  {
+    q: 'What percentage of companies use AI in 2026?',
+    a: 'According to the most recent McKinsey State of AI survey, 78% of organizations report using AI in at least one business function, and 71% regularly use generative AI. Adoption has roughly doubled since 2022 and continues to climb fastest in marketing, sales, software engineering, and customer service.'
+  },
+  {
+    q: 'How big is the global AI market?',
+    a: 'Global private investment in AI reached $252.3 billion in 2024, an 18% jump over 2023, with generative AI alone attracting $33.9 billion. Forecasts from IDC and Gartner project the broader AI software and services market to exceed $500 billion in annual spend by 2027.'
+  },
+  {
+    q: 'Which industries adopt AI the fastest?',
+    a: 'Tech, financial services, professional services, and media lead AI adoption by a wide margin. Within companies, the functions seeing fastest uptake are marketing and sales (using generative AI for content), software engineering (code completion), customer service (support agents), and IT (anomaly detection).'
+  },
+  {
+    q: 'How many people use ChatGPT and other AI chatbots?',
+    a: 'ChatGPT alone reached 300 million weekly active users by late 2024 (OpenAI), with hundreds of millions more across Microsoft Copilot, Google Gemini, Anthropic Claude, and Meta AI. Pew Research finds roughly one in four US adults have used ChatGPT specifically.'
+  },
+  {
+    q: 'How much is invested in AI each year?',
+    a: 'Private AI investment in 2024 hit $252.3 billion globally — a record. The United States accounted for $109.1 billion of that (12× more than China). Generative AI specifically attracted $33.9 billion, up 18.7% year-over-year.'
+  },
+  {
+    q: 'How fast is AI improving on benchmarks?',
+    a: 'Performance on major benchmarks like MMLU, MMMU, and GPQA has climbed by 18.8, 48.9, and 67.3 percentage points respectively in just one year (2023–2024). On many tasks, frontier models now match or exceed human experts.'
+  },
+];
+
+const sources = [
+  { title: 'AI Index Report 2025', publisher: 'Stanford HAI', url: 'https://aiindex.stanford.edu/report/', accessed: '2026-05-12' },
+  { title: 'The State of AI in Early 2024', publisher: 'McKinsey & Company', url: 'https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai', accessed: '2026-05-12' },
+  { title: '2024 Work Trend Index Annual Report', publisher: 'Microsoft & LinkedIn', url: 'https://www.microsoft.com/en-us/worklab/work-trend-index/', accessed: '2026-05-12' },
+  { title: 'Americans\' use of ChatGPT is ticking up', publisher: 'Pew Research Center', url: 'https://www.pewresearch.org/short-reads/2024/03/26/americans-use-of-chatgpt-is-ticking-up-but-few-trust-its-election-information/', accessed: '2026-05-12' },
+  { title: 'Generative AI in the enterprise', publisher: 'BCG / BCG Henderson Institute', url: 'https://www.bcg.com/capabilities/artificial-intelligence', accessed: '2026-05-12' },
+  { title: 'OECD AI Policy Observatory', publisher: 'OECD.AI', url: 'https://oecd.ai/', accessed: '2026-05-12' },
+  { title: 'World Economic Forum — Future of Jobs Report 2025', publisher: 'World Economic Forum', url: 'https://www.weforum.org/publications/the-future-of-jobs-report-2025/', accessed: '2026-05-12' },
+  { title: 'IDC Worldwide AI Spending Guide', publisher: 'IDC', url: 'https://www.idc.com/getdoc.jsp?containerId=IDC_P33198', accessed: '2026-05-12' },
+];
+---
+
+<StatsLayout
+  title="Artificial Intelligence Statistics 2026"
+  description="60+ AI statistics for 2026 covering enterprise adoption, generative AI usage, market size, investment, workforce impact, and regulation. Every figure sourced from Stanford HAI, McKinsey, Pew, and the OECD."
+  slug="artificial-intelligence-statistics-2026"
+  lastUpdated={lastUpdated}
+  topStats={topStats}
+  faq={faq}
+  sources={sources}
+  category="technology"
+  categoryLabel="Technology"
+>
+
+<h2>AI adoption by industry</h2>
+
+<p>Enterprise AI adoption crossed a clear threshold in 2024 and continues to climb in 2026. McKinsey's annual <em>State of AI</em> survey found <strong>78% of organizations</strong> now use AI in at least one business function, up from 55% a year earlier. <a href="/machine-learning">Machine learning</a> deployment is highest in tech, financial services, and professional services — sectors where structured data and clear ROI metrics make it easier to operationalize.</p>
+
+<h3>Enterprise adoption</h3>
+
+<p>The bigger story is generative AI. McKinsey reports that <strong>71% of organizations</strong> regularly use generative AI in at least one function, more than double the 33% figure from 2023. The functions seeing fastest uptake:</p>
+
+<ul>
+  <li><strong>Marketing and sales</strong> — content drafting, email personalization, and prospect research</li>
+  <li><strong>Software engineering</strong> — GitHub Copilot reports over 1.3 million paying subscribers, with users completing tasks about 55% faster on average</li>
+  <li><strong>Customer service</strong> — first-response time reductions of 30–50% reported in early-adopter contact centers</li>
+  <li><strong>IT operations</strong> — anomaly detection, log triage, and automated runbooks</li>
+</ul>
+
+<h3>SMB and global adoption</h3>
+
+<p>Small and mid-sized businesses lag enterprise adoption by roughly 18–24 months, but the gap is closing fast as off-the-shelf AI tools become cheaper and easier to deploy. The Salesforce SMB Trends Report consistently finds that AI adoption among SMBs has been growing 30%+ year-over-year since 2023.</p>
+
+<p>Geographically, the United States and China dominate AI development and adoption, but the gap is narrowing. The <a href="https://aiindex.stanford.edu/report/" rel="noopener">Stanford AI Index 2025</a> documented that US-based institutions produced 40 notable AI models in 2024, compared to China's 15 and Europe's 3 — but Chinese models closed the quality gap dramatically, with leading Chinese models scoring within a few percentage points of US frontier models on most benchmarks.</p>
+
+<h2>Generative AI specifics</h2>
+
+<p>Generative AI is the segment of <a href="/artificial-intelligence">artificial intelligence</a> that has driven essentially all the headlines and most of the investment since late 2022. The market for foundation models, model APIs, and end-user generative AI applications looks like this:</p>
+
+<h3>Consumer tool usage</h3>
+
+<ul>
+  <li><strong>ChatGPT</strong> — 300 million weekly active users (OpenAI, December 2024)</li>
+  <li><strong>Microsoft Copilot</strong> — Integrated across Microsoft 365 (over 400 million paid commercial seats)</li>
+  <li><strong>Google Gemini</strong> — Integrated into Search, Workspace, and Android; usage figures not disclosed but at "hundreds of millions" scale</li>
+  <li><strong>Anthropic Claude</strong> — Rapidly growing enterprise share; specific user counts not disclosed</li>
+  <li><strong>Meta AI</strong> — Over 500 million monthly active users across Meta's apps (Meta Q4 2024 earnings)</li>
+</ul>
+
+<h3>Cost and capability trends</h3>
+
+<p>The most striking 2024–2026 trend is the collapse in inference cost. Stanford's AI Index measured a <strong>280× reduction</strong> in the cost per million tokens for GPT-3.5-equivalent quality, from roughly $20 in late 2022 to $0.07 by late 2024. Capability benchmarks rose simultaneously: the best model on MMLU scored 83.3% in 2024, up from 35.7% in 2019.</p>
+
+<h2>AI investment and funding</h2>
+
+<p>Private investment in AI hit $252.3 billion globally in 2024 — an 18% jump over 2023 and a new record. Generative AI specifically attracted $33.9 billion in private funding, up 18.7%.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>2024 Private AI Investment</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>United States</td>
+      <td>$109.1 billion</td>
+      <td>Roughly 12× China's total</td>
+    </tr>
+    <tr>
+      <td>China</td>
+      <td>$9.3 billion</td>
+      <td>Concentrated in foundation models and applied AI</td>
+    </tr>
+    <tr>
+      <td>United Kingdom</td>
+      <td>$4.5 billion</td>
+      <td>Strongest in Europe</td>
+    </tr>
+    <tr>
+      <td>Rest of world</td>
+      <td>$129.4 billion</td>
+      <td>Combined</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>On the public side, US federal AI-related spending in fiscal year 2024 reached $4.7 billion (per the AI Index), and the European Union's AI Act implementation budget is in the billions of euros. China's national AI plan funding figures are not publicly disclosed but are widely estimated to be comparable to US public spending.</p>
+
+<h2>AI workforce impact</h2>
+
+<p>The labor-market effects of AI are real but more nuanced than the headlines suggest. The World Economic Forum's Future of Jobs Report 2025 forecasts that AI and information processing technologies will:</p>
+
+<ul>
+  <li>Create roughly 11 million net new jobs globally by 2030</li>
+  <li>Displace roughly 9 million jobs over the same period</li>
+  <li>Drive a net positive but with significant transition costs in clerical, administrative, and routine analytical roles</li>
+</ul>
+
+<p>On productivity, controlled studies are showing meaningful effects. An MIT/BCG randomized study found knowledge workers using generative AI completed tasks 25% faster and produced 40% higher quality output on creative writing tasks. Pew Research found <strong>49% of US workers</strong> who have used generative AI at work say it has made them more productive.</p>
+
+<p>The AI skills market is also tight. LinkedIn's 2025 Workforce Report identified AI-related skills (especially "prompt engineering" — likely a transitional category — plus ML engineering, MLOps, and AI safety) as the fastest-growing job-skill categories globally.</p>
+
+<h2>AI safety and governance</h2>
+
+<p>Regulation is finally catching up to the technology. The Stanford AI Index counted <strong>37 AI-related US federal regulations</strong> enacted in 2024, more than double the 2023 figure. Globally, the picture in 2026:</p>
+
+<ul>
+  <li><strong>European Union</strong> — The AI Act took effect in August 2024 with phased enforcement; high-risk AI systems must comply with strict requirements by 2026</li>
+  <li><strong>United States</strong> — The 2023 Biden AI Executive Order was rescinded in early 2025, leaving a patchwork of state-level rules (Colorado, California, and New York have the most active AI laws) and sector-specific guidance</li>
+  <li><strong>China</strong> — Comprehensive generative AI rules in force since 2023, requiring algorithmic registration and content moderation</li>
+  <li><strong>UK</strong> — Sector-led approach via existing regulators rather than a single AI law</li>
+</ul>
+
+<p>Public trust in AI remains uneven. Edelman's 2024 Trust Barometer found that 30% of US adults trust AI, lower than the global average of 47%. Trust is highest in India, China, and Saudi Arabia, and lowest in the US, UK, and Australia.</p>
+
+<h2>Related explainers</h2>
+
+<ul>
+  <li><a href="/artificial-intelligence">What Is Artificial Intelligence?</a> — the canonical definition</li>
+  <li><a href="/machine-learning">What Is Machine Learning?</a> — how AI systems learn from data</li>
+  <li><a href="/blockchain">What Is Blockchain?</a> — a related foundational technology</li>
+  <li><a href="/cybersecurity">What Is Cybersecurity?</a> — increasingly intertwined with AI</li>
+</ul>
+
+</StatsLayout>

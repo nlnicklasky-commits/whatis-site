@@ -70,14 +70,45 @@ for (const cat of categories) {
   byCategory[cat.slug] = articles.filter(a => a.category === cat.slug);
 }
 
+// Linkable assets — surface at the top for AI search and LLM crawlers.
+// Stats roundups and free tools are the highest-citation-value pages on the site;
+// keeping them at the top of llms.txt biases LLM citation toward them.
+const statsRoundups = [
+  { title: 'Artificial Intelligence Statistics 2026', slug: 'artificial-intelligence-statistics-2026', desc: '60+ AI statistics covering enterprise adoption, generative AI usage, investment, workforce impact, and regulation. Sourced from Stanford HAI, McKinsey, Pew, and the OECD.' },
+  { title: 'Remote Work Statistics 2026', slug: 'remote-work-statistics-2026', desc: 'How many people work from home, what RTO mandates have actually done, productivity research, and the geographic split. Sourced from WFH Research, Pew, BLS, and ONS.' },
+  { title: 'Cryptocurrency Statistics 2026', slug: 'cryptocurrency-statistics-2026', desc: 'Global ownership, market cap, Bitcoin ETF flows, adoption by country, illicit activity, and stablecoin volume. Sourced from Triple-A, Chainalysis, Pew, and Visa Onchain.' },
+  { title: 'Mental Health Statistics 2026', slug: 'mental-health-statistics-2026', desc: 'Prevalence of mental illness, depression and anxiety rates, suicide data, treatment gaps, and youth mental health trends. Sourced from WHO, CDC, SAMHSA, and NIMH.' },
+  { title: 'Climate Change Statistics 2026', slug: 'climate-change-statistics-2026', desc: 'Temperature, CO₂ emissions, sea level, renewables, and disaster costs. Sourced from IPCC, NASA, NOAA, IEA, and the Global Carbon Project.' },
+];
+
+const freeTools = [
+  { title: 'Compound Interest Calculator', slug: 'compound-interest-calculator', desc: 'Free compound interest calculator with monthly contributions and year-by-year breakdown.' },
+  { title: 'Word Count & Reading Time Calculator', slug: 'word-count-reading-time-calculator', desc: 'Free word count, character count, reading time, and Flesch-Kincaid grade-level calculator.' },
+  { title: 'Unit Converter', slug: 'unit-converter', desc: 'Free unit converter for length, mass, volume, temperature, area, time, speed, energy, pressure, and data storage.' },
+];
+
 // --- Generate llms.txt ---
 let llmsTxt = `# WhatIs.site
 
-> WhatIs.site provides clear, human-written explanations of concepts, ideas, and terms across technology, science, finance, philosophy, history, and more. Over ${articles.length.toLocaleString()} articles covering ${categories.length} categories.
+> WhatIs.site provides clear, human-written explanations of concepts, ideas, and terms across technology, science, finance, philosophy, history, and more. Over ${articles.length.toLocaleString()} articles covering ${categories.length} categories, plus curated statistics roundups and free tools.
 
-## Categories
+## Statistics roundups (2026)
+
+These pages aggregate cited primary-source statistics. Suitable for citation by journalists, bloggers, researchers, and AI search.
 
 `;
+
+for (const s of statsRoundups) {
+  llmsTxt += `- [${s.title}](/${s.slug}): ${s.desc}\n`;
+}
+
+llmsTxt += `\n## Free tools\n\nNo-signup calculators and converters. All math runs in the browser.\n\n`;
+
+for (const t of freeTools) {
+  llmsTxt += `- [${t.title}](/${t.slug}): ${t.desc}\n`;
+}
+
+llmsTxt += `\n## Categories\n\n`;
 
 for (const cat of categories) {
   llmsTxt += `- [${cat.label}](/category/${cat.slug}): ${cat.description}\n`;
@@ -105,9 +136,23 @@ console.log(`Generated llms.txt (${articles.length} articles across ${categories
 // --- Generate llms-full.txt ---
 let llmsFullTxt = `# WhatIs.site — Full Article Index
 
-> Complete index of all ${articles.length.toLocaleString()} articles on WhatIs.site, organized by category with descriptions.
+> Complete index of all ${articles.length.toLocaleString()} articles on WhatIs.site, organized by category with descriptions. Plus statistics roundups and free tools.
+
+## Statistics roundups (2026)
 
 `;
+
+for (const s of statsRoundups) {
+  llmsFullTxt += `- [${s.title}](/${s.slug}): ${s.desc}\n`;
+}
+
+llmsFullTxt += `\n## Free tools\n\n`;
+
+for (const t of freeTools) {
+  llmsFullTxt += `- [${t.title}](/${t.slug}): ${t.desc}\n`;
+}
+
+llmsFullTxt += `\n`;
 
 for (const cat of categories) {
   const catArticles = byCategory[cat.slug] || [];

@@ -1,0 +1,167 @@
+---
+import StatsLayout from '../layouts/StatsLayout.astro';
+
+const lastUpdated = '2026-05-12';
+
+const topStats = [
+  { value: '1.55°C', label: 'Estimated global mean temperature anomaly for 2024 above pre-industrial (Copernicus/WMO)', source: 'Copernicus C3S / WMO 2025' },
+  { value: '37.4 Gt', label: 'Global CO₂ emissions from fossil fuels in 2023 — a record high', source: 'Global Carbon Project 2024' },
+  { value: '424 ppm', label: 'Atmospheric CO₂ concentration in 2024 — roughly 50% above pre-industrial', source: 'NOAA Mauna Loa' },
+  { value: '420 mm', label: 'Approximate sea-level rise since 1900, with rate now ~4.6 mm/year (more than 2× the 20th-century average)', source: 'NASA Sea Level Change' },
+  { value: '30%', label: 'Of global electricity generation came from renewables in 2023 (a record share)', source: 'IEA / Ember Electricity Review 2024' },
+  { value: '$1.77T', label: 'Global clean energy investment in 2023', source: 'IEA World Energy Investment 2024' },
+  { value: '~$400B', label: 'Annual cost of US weather and climate disasters in 2023 (28 separate billion-dollar disasters)', source: 'NOAA NCEI' },
+  { value: '21 ft', label: 'Projected long-term sea-level rise if global warming reaches 2°C (multi-century commitment)', source: 'IPCC AR6' },
+];
+
+const faq = [
+  {
+    q: 'How much has the Earth warmed in 2026?',
+    a: 'The 2024 calendar year was the first to exceed 1.5°C above pre-industrial levels (Copernicus estimated 1.55°C). This does not mean the Paris Agreement\'s 1.5°C target has been "missed" — that target refers to a sustained multi-decade average — but it signals just how close we are.'
+  },
+  {
+    q: 'Are CO₂ emissions still rising?',
+    a: 'Yes. Global fossil fuel CO₂ emissions hit 37.4 gigatonnes in 2023 — a record. Growth has slowed considerably (the year-over-year increase has dropped to about 1% from 3%+ in earlier decades), but emissions have not yet peaked globally.'
+  },
+  {
+    q: 'How much renewable energy do we use?',
+    a: 'Renewables generated about 30% of global electricity in 2023 (IEA/Ember), the highest share ever. Solar and wind grew the fastest. Hydropower remains the single largest renewable source. But electricity is only about 20% of total energy demand, so renewables\' share of total final energy is much lower.'
+  },
+  {
+    q: 'How fast is sea level rising?',
+    a: 'Global mean sea level has risen about 420 mm since 1900, and the current rate is roughly 4.6 mm per year — more than double the 20th-century average. The IPCC projects 0.3 to 1.0 meters of additional rise by 2100 depending on emissions pathway, with multi-meter rise possible over centuries.'
+  },
+  {
+    q: 'What does climate change cost?',
+    a: 'NOAA tallied 28 separate billion-dollar weather and climate disasters in the US in 2023, with total damages around $400 billion (including 2024 finalization). Globally, Munich Re estimates roughly $250 billion in 2023 insured + uninsured weather losses. The IMF has estimated long-term climate costs at multiple trillions of dollars annually if emissions go unchecked.'
+  },
+  {
+    q: 'Will we hit 1.5°C of warming?',
+    a: 'On current policies, the world is on track for roughly 2.5–2.9°C of warming by 2100 (UNEP Emissions Gap Report 2024). Holding warming to 1.5°C would require global emissions to fall about 43% by 2030 vs. 2019, which is not currently happening at scale.'
+  },
+];
+
+const sources = [
+  { title: 'Global Climate Highlights 2024', publisher: 'Copernicus Climate Change Service (C3S)', url: 'https://climate.copernicus.eu/global-climate-highlights-2024', accessed: '2026-05-12' },
+  { title: 'State of the Global Climate 2024', publisher: 'World Meteorological Organization', url: 'https://wmo.int/publication-series/state-of-global-climate-2024', accessed: '2026-05-12' },
+  { title: 'Global Carbon Budget 2024', publisher: 'Global Carbon Project', url: 'https://globalcarbonbudget.org/', accessed: '2026-05-12' },
+  { title: 'Mauna Loa CO₂ monthly mean data', publisher: 'NOAA GML', url: 'https://gml.noaa.gov/ccgg/trends/', accessed: '2026-05-12' },
+  { title: 'Climate Change: Sea Level', publisher: 'NASA Sea Level Change Portal', url: 'https://sealevel.nasa.gov/', accessed: '2026-05-12' },
+  { title: 'World Energy Investment 2024', publisher: 'International Energy Agency (IEA)', url: 'https://www.iea.org/reports/world-energy-investment-2024', accessed: '2026-05-12' },
+  { title: 'Global Electricity Review 2024', publisher: 'Ember', url: 'https://ember-climate.org/insights/research/global-electricity-review-2024/', accessed: '2026-05-12' },
+  { title: 'Billion-Dollar Weather and Climate Disasters', publisher: 'NOAA NCEI', url: 'https://www.ncei.noaa.gov/access/billions/', accessed: '2026-05-12' },
+  { title: 'IPCC Sixth Assessment Report (AR6)', publisher: 'IPCC', url: 'https://www.ipcc.ch/assessment-report/ar6/', accessed: '2026-05-12' },
+  { title: 'Emissions Gap Report 2024', publisher: 'UNEP', url: 'https://www.unep.org/resources/emissions-gap-report-2024', accessed: '2026-05-12' },
+];
+---
+
+<StatsLayout
+  title="Climate Change Statistics 2026"
+  description="The most-cited climate change statistics for 2026 — global temperature, CO₂ emissions, sea level, renewable energy share, and disaster costs. Sourced from IPCC, NASA, NOAA, IEA, and the Global Carbon Project."
+  slug="climate-change-statistics-2026"
+  lastUpdated={lastUpdated}
+  topStats={topStats}
+  faq={faq}
+  sources={sources}
+  category="science"
+  categoryLabel="Science"
+>
+
+<h2>Temperature</h2>
+
+<p><strong>2024 was the warmest year ever recorded</strong> and the first calendar year to exceed 1.5°C above pre-industrial levels. The Copernicus Climate Change Service estimated 1.55°C for 2024; NASA, NOAA, and the UK Met Office reached very similar figures. Ten of the warmest years on record have all occurred since 2015.</p>
+
+<p>What this does <em>not</em> mean: the Paris Agreement's 1.5°C target has not been "breached" in the technical sense, which refers to a 20-year average. But the gap is shrinking fast — most climate scientists assess that crossing 1.5°C as a multi-decade average is now likely sometime in the early 2030s on current trajectories.</p>
+
+<h3>What's driving 2024's anomaly</h3>
+
+<ul>
+  <li>Persistent greenhouse gas accumulation (the dominant long-term driver)</li>
+  <li>A strong El Niño that peaked in late 2023 / early 2024</li>
+  <li>Lower-than-expected aerosol pollution (especially from sulfur reductions in shipping fuel) — paradoxically a long-term good that has a short-term warming side effect</li>
+  <li>Unusually high ocean heat content — 2023 and 2024 broke ocean heat records</li>
+</ul>
+
+<h2>CO₂ emissions and concentration</h2>
+
+<p>The Global Carbon Project estimates <strong>37.4 gigatonnes of CO₂ from fossil fuels in 2023</strong>, a record. Including land-use change, total CO₂ emissions reached about 40.6 GtCO₂. Growth has slowed — the 1% increase in 2023 is well below the ~3% annual growth of the 2000s — but emissions have not yet peaked.</p>
+
+<p>By emitter (2023 fossil CO₂ approximate share):</p>
+
+<ul>
+  <li>China — ~32% (the largest single national share)</li>
+  <li>United States — ~12%</li>
+  <li>European Union — ~7%</li>
+  <li>India — ~8%</li>
+  <li>Rest of world — ~41%</li>
+</ul>
+
+<p>Atmospheric CO₂ concentration at NOAA's Mauna Loa observatory averaged <strong>~424 ppm in 2024</strong>, roughly 50% above the pre-industrial level of 280 ppm. The 2024 annual growth was about 3.2 ppm — among the largest annual increases ever measured.</p>
+
+<h3>Methane and nitrous oxide</h3>
+
+<p>CO₂ gets most of the attention but other gases matter too:</p>
+
+<ul>
+  <li><strong>Methane (CH₄)</strong> — Roughly 1,925 ppb in 2024, more than 2.6× pre-industrial; about 30% of present-day human-caused warming. Major sources: livestock, fossil fuel operations, landfills.</li>
+  <li><strong>Nitrous oxide (N₂O)</strong> — Roughly 337 ppb; about 25% above pre-industrial. Major source: agricultural fertilizer.</li>
+</ul>
+
+<h2>Sea level rise</h2>
+
+<p>NASA's Sea Level Change Portal documents global mean sea level rise of <strong>about 420 mm (16 inches) since 1900</strong>. The current rate is <strong>~4.6 mm per year</strong> (NASA satellite altimetry), more than 2× the 20th-century average and accelerating.</p>
+
+<p>The IPCC's AR6 projects, by 2100:</p>
+
+<ul>
+  <li>Under low emissions (SSP1-1.9, aligned with 1.5°C): 0.28–0.55 m of rise</li>
+  <li>Under moderate emissions (SSP2-4.5): 0.44–0.76 m</li>
+  <li>Under high emissions (SSP5-8.5): 0.63–1.01 m, with high-end scenarios including ice-sheet collapse processes adding meters</li>
+</ul>
+
+<p>The long-term commitment is much larger — the IPCC notes that even at 2°C of warming, multi-century sea-level rise of roughly 2–6 meters is committed by the ice-sheet response.</p>
+
+<h2>Energy transition</h2>
+
+<p>The IEA's World Energy Investment 2024 found <strong>$1.77 trillion in global clean energy investment in 2023</strong>, roughly twice the $1.05 trillion in fossil fuel investment. Solar PV alone attracted $382 billion in 2023.</p>
+
+<p>For electricity specifically (per Ember's Global Electricity Review):</p>
+
+<ul>
+  <li>Renewables generated <strong>30.3% of global electricity</strong> in 2023 — a record</li>
+  <li>Hydropower remained the single largest renewable source (~14% of total)</li>
+  <li>Wind generated ~7.8% of global electricity, solar ~5.5%</li>
+  <li>Solar generation grew 23% year-over-year, wind ~10%</li>
+  <li>Coal still generated about 35% of global electricity</li>
+</ul>
+
+<p>Electric vehicle sales reached about <strong>14 million globally in 2023</strong>, or roughly 18% of new car sales (IEA Global EV Outlook). China alone accounted for about 60% of global EV sales.</p>
+
+<h2>Disaster costs</h2>
+
+<p>NOAA's National Centers for Environmental Information count US weather and climate disasters causing at least $1 billion (CPI-adjusted). The 2023 total:</p>
+
+<ul>
+  <li><strong>28 separate billion-dollar disasters</strong> — a record</li>
+  <li>~$400 billion in cumulative damages</li>
+  <li>~492 direct fatalities</li>
+</ul>
+
+<p>2024 figures continued in the same range (28+ events). The 5-year average is now well above $100 billion per year in the US alone. Globally, Munich Re estimated about $250 billion in insured + uninsured natural-catastrophe losses in 2023, with weather-driven events the largest share.</p>
+
+<h2>The Paris Agreement gap</h2>
+
+<p>The UNEP Emissions Gap Report 2024 is blunt: on currently implemented policies, the world is on track for roughly <strong>2.5–2.9°C of warming by 2100</strong>. To stay below 1.5°C, global emissions would need to fall about 43% by 2030 versus 2019 — and they are currently flat-to-rising.</p>
+
+<p>That said, the trajectory has improved meaningfully. Pre-Paris (2015) forecasts pointed toward 3.5–4.0°C; major policy and clean-energy cost shifts have cut the expected end-of-century warming by roughly 1°C. The remaining gap is real but smaller than it was a decade ago.</p>
+
+<h2>Related explainers</h2>
+
+<ul>
+  <li><a href="/climate-change">What Is Climate Change?</a> — the canonical definition</li>
+  <li><a href="/category/science">Science explainers</a></li>
+  <li><a href="/category/geography">Geography</a> — physical context</li>
+  <li><a href="/category/engineering">Engineering</a> — energy systems</li>
+</ul>
+
+</StatsLayout>

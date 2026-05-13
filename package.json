@@ -5,10 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/generate-llms-txt.mjs",
+    "prebuild": "node scripts/generate-llms-txt.mjs && node scripts/seo/verify-internal-links.mjs",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "seo:report": "node scripts/seo/generate-monthly-report.mjs",
+    "seo:spotcheck": "node scripts/seo/ai-overview-spotcheck.mjs",
+    "seo:indexnow": "node scripts/seo/indexnow-submit.mjs --new-assets",
+    "seo:verify": "node scripts/seo/verify-internal-links.mjs"
   },
   "keywords": [
     "education",
