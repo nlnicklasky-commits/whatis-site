@@ -1,0 +1,9 @@
+asset: /cybersecurity-statistics-2026
+inbound_links:
+  - from: src/content/articles/cybersecurity.md
+    anchor: "Cybersecurity Statistics 2026"
+    must_contain_path: "/cybersecurity-statistics-2026"
+outbound_links:
+  - to: /cybersecurity
+  - to: /artificial-intelligence-statistics-2026
+  - to: /cryptocurrency-statistics-2026

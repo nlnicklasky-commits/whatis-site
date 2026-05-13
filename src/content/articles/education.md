@@ -33,6 +33,8 @@ faq:
 
 Education is the structured process through which individuals acquire knowledge, skills, values, beliefs, and habits — typically through [teaching](/teaching), training, research, or self-directed study. It happens in schools, universities, workplaces, homes, and increasingly online. About 1.5 billion students are enrolled in formal education worldwide at any given time, and global spending on education exceeds $5 trillion annually. It's one of the largest human enterprises in existence.
 
+For current numbers on online learning, platform user counts, and AI tutor adoption, see our [Online Education Statistics 2026](/online-education-statistics-2026) roundup.
+
 ## A Very Brief History
 
 For most of human history, education was informal — children learned by watching, imitating, and participating in adult activities. [Hunting](/hunting), [farming](/farming), [cooking](/cooking), building, and social customs were transmitted through direct experience and oral tradition. This worked well for small, stable societies.

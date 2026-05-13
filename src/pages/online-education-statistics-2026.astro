@@ -1,0 +1,184 @@
+---
+import StatsLayout from '../layouts/StatsLayout.astro';
+
+const lastUpdated = '2026-05-13';
+
+const topStats = [
+  { value: '~54%', label: 'Of US undergraduate students took at least one online course in fall 2022', source: 'NCES IPEDS 2022' },
+  { value: '27.4%', label: 'Of US undergraduates were fully online in fall 2022 — up from 14.7% pre-pandemic', source: 'NCES IPEDS 2022' },
+  { value: '~220M', label: 'Coursera registered learners globally as of late 2024', source: 'Coursera Q4 2024' },
+  { value: '~95M', label: 'edX registered learners (2U/edX, mid-2024)', source: '2U / edX disclosure' },
+  { value: '~1.6B', label: 'Duolingo monthly active users as of Q4 2024 (107M MAUs is the more commonly cited figure)', source: 'Duolingo Q4 2024' },
+  { value: '$348B', label: 'Estimated global e-learning market size 2024 (varies widely by definition)', source: 'Various market research firms' },
+  { value: '14.4%', label: 'US public-school student chronic absenteeism rate (2023–24), still above pre-pandemic ~15M', source: 'NCES, AEI' },
+  { value: '$2T+', label: 'Outstanding US student loan debt as of early 2025', source: 'Federal Reserve' },
+];
+
+const faq = [
+  {
+    q: 'How common is online learning in 2026?',
+    a: 'About 54% of US undergraduates took at least one online course in fall 2022 (the most recent NCES figures), with 27.4% fully online. Both figures roughly doubled vs. pre-pandemic. The pandemic-induced shift has not reversed.'
+  },
+  {
+    q: 'How big are Coursera, edX, and Khan Academy?',
+    a: 'Coursera reports about 220 million registered learners globally. 2U/edX is around 95 million. Khan Academy serves over 170 million registered learners. These are cumulative-registered figures; active learner counts are much smaller.'
+  },
+  {
+    q: 'How many people use Duolingo?',
+    a: 'Duolingo reported about 107 million monthly active users as of Q4 2024, with 11 million paying subscribers. It is by some measures the most-used educational app globally.'
+  },
+  {
+    q: 'How big is the global e-learning market?',
+    a: 'Estimates range from roughly $200B to $400B+ for 2024 depending on what is included (K-12 EdTech, corporate training, higher-ed online, language apps, professional certifications). The most-cited estimates put 2024 at around $348B with annual growth of 14–17%.'
+  },
+  {
+    q: 'How is AI changing online education?',
+    a: 'Major platforms (Khan Academy, Duolingo, Coursera) launched AI tutors in 2023–2024. Adoption is meaningful: Khan Academy reports its Khanmigo AI tutor has been used by hundreds of thousands of students. Quality varies; rigorous efficacy research is still early.'
+  },
+  {
+    q: 'What is happening with US student debt?',
+    a: 'US student loan debt is over $2 trillion as of early 2025, held by about 43 million borrowers. The Biden administration\'s Save plan and the broader debt forgiveness battle continued through 2024–2025. Payments resumed in fall 2023 after a multi-year pause.'
+  },
+];
+
+const sources = [
+  { title: 'Integrated Postsecondary Education Data System (IPEDS)', publisher: 'National Center for Education Statistics', url: 'https://nces.ed.gov/ipeds/', accessed: '2026-05-13' },
+  { title: 'Coursera Q4 2024 Shareholder Letter', publisher: 'Coursera, Inc.', url: 'https://investor.coursera.com/financials-and-filings', accessed: '2026-05-13' },
+  { title: 'Duolingo Q4 2024 Shareholder Letter', publisher: 'Duolingo, Inc.', url: 'https://investors.duolingo.com/financial-information', accessed: '2026-05-13' },
+  { title: '2U Annual Report', publisher: '2U / edX', url: 'https://investor.2u.com/sec-filings', accessed: '2026-05-13' },
+  { title: 'Chronic Absenteeism Data', publisher: 'American Enterprise Institute / NCES', url: 'https://www.aei.org/articles/chronic-absenteeism/', accessed: '2026-05-13' },
+  { title: 'Student Loans Owned and Securitized', publisher: 'Federal Reserve (FRED)', url: 'https://fred.stlouisfed.org/series/SLOAS', accessed: '2026-05-13' },
+  { title: 'Khan Academy Annual Report', publisher: 'Khan Academy', url: 'https://www.khanacademy.org/about/annualreport', accessed: '2026-05-13' },
+];
+---
+
+<StatsLayout
+  title="Online Education Statistics 2026"
+  description="Online learning statistics for 2026 — enrollment trends, platform user counts (Coursera, edX, Duolingo, Khan Academy), AI tutor adoption, market size, and US K-12 attendance trends. Sourced from NCES, Federal Reserve, and platform earnings."
+  slug="online-education-statistics-2026"
+  lastUpdated={lastUpdated}
+  topStats={topStats}
+  faq={faq}
+  sources={sources}
+  category="education"
+  categoryLabel="Education"
+>
+
+<h2>The pandemic shift didn't unwind</h2>
+
+<p>Most pandemic-era shifts have partially reversed. Online education isn't one of them. NCES IPEDS data for fall 2022 (most recent full release) shows:</p>
+
+<ul>
+  <li><strong>54%</strong> of US undergraduates took at least one distance-education course</li>
+  <li><strong>27.4%</strong> were fully online (no in-person courses)</li>
+  <li>Pre-pandemic (fall 2019) figures: ~36% any-distance, ~14.7% fully online</li>
+</ul>
+
+<p>So roughly a doubling in the fully-online share. The pandemic didn't *create* online learning — it accelerated infrastructure investment, faculty training, and student acceptance such that the new equilibrium is materially higher.</p>
+
+<h2>Major platforms by users</h2>
+
+<p>The biggest online-learning platforms by registered users (most recent disclosures):</p>
+
+<table>
+  <thead>
+    <tr><th>Platform</th><th>Users (Q4 2024 or latest)</th><th>Model</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Khan Academy</td><td>170M+ registered learners</td><td>Free non-profit, donor-funded</td></tr>
+    <tr><td>Duolingo</td><td>107M MAU, 11M paid</td><td>Freemium app</td></tr>
+    <tr><td>Coursera</td><td>~220M registered</td><td>MOOC + degrees</td></tr>
+    <tr><td>2U / edX</td><td>~95M registered</td><td>MOOC + degrees (now under 2U)</td></tr>
+    <tr><td>Udemy</td><td>67M+ learners</td><td>Marketplace courses</td></tr>
+    <tr><td>LinkedIn Learning</td><td>26M+ subscribers (paid)</td><td>Subscription, employer-bundled</td></tr>
+    <tr><td>Skillshare</td><td>~13M registered</td><td>Creative-focused subscription</td></tr>
+    <tr><td>FutureLearn</td><td>~22M registered</td><td>UK-based MOOC platform</td></tr>
+  </tbody>
+</table>
+
+<p>"Registered learners" is a much weaker metric than "monthly active users" — most platforms have low active-to-registered ratios. Duolingo's 107M MAUs is the highest-quality engagement metric in the category by far.</p>
+
+<h2>AI tutors</h2>
+
+<p>The 2023–2024 wave of AI tutor launches is the most significant pedagogical change in a generation. Major examples:</p>
+
+<ul>
+  <li><strong>Khan Academy + Khanmigo</strong> — launched March 2023; available to hundreds of thousands of students; uses GPT-4 underneath</li>
+  <li><strong>Duolingo Max</strong> — premium tier with AI conversation practice and personalized explanations</li>
+  <li><strong>Coursera Coach</strong> — AI-powered learning assistant on Coursera courses</li>
+  <li><strong>Carnegie Learning's MATHia</strong> — earlier-generation adaptive math system, predates the LLM wave but has been augmented with GPT-style features</li>
+  <li><strong>Schoolhouse.world</strong> (Khan Academy spin-off) — tutoring + AI tools</li>
+</ul>
+
+<p>Efficacy data is genuinely thin. Randomized studies (the gold standard for educational evidence) are slow to run and slow to publish. As of mid-2026, the published research is mostly observational and short-horizon. Whether AI tutors meaningfully improve learning outcomes vs. well-designed traditional methods is an open empirical question.</p>
+
+<h2>Market size</h2>
+
+<p>Global e-learning market estimates vary dramatically by definition:</p>
+
+<ul>
+  <li>Narrow (online higher-ed only): ~$50–80B</li>
+  <li>Mid (online higher-ed + K-12 edtech + language apps): ~$150–250B</li>
+  <li>Broad (all the above + corporate training + professional certifications): ~$300–400B</li>
+</ul>
+
+<p>The most-cited estimates from major market research firms put 2024 around <strong>$348 billion</strong> with annual growth around 14–17%. Treat these numbers as ballpark — the methodology behind them is rarely fully disclosed.</p>
+
+<h2>K-12 education in the US</h2>
+
+<p>Public-school enrollment has dropped about 1.2 million students between 2019 and 2023 (NCES) — partly demographic, partly a shift to private and home schooling that hasn't reversed. The bigger story for in-person K-12 is <strong>chronic absenteeism</strong>:</p>
+
+<ul>
+  <li>Pre-pandemic (2018–19) US chronic absenteeism: ~15%</li>
+  <li>2021–22 peak: ~28%</li>
+  <li>2023–24 (most recent): ~14–15% (AEI estimates)</li>
+</ul>
+
+<p>Roughly recovered to pre-pandemic baseline, but at the cost of two academic years of catch-up that didn't fully happen. NAEP scores in reading and math both dropped in 2022 and have not recovered to 2019 levels.</p>
+
+<h2>Higher ed enrollment trends</h2>
+
+<p>Total US undergraduate enrollment has been declining since 2010 from a peak of about 18.1 million to roughly 15.4 million in fall 2022 (NCES). The 2022 figure was the first measurable uptick after a decade of decline. Community colleges (which dropped most) saw modest recovery in 2022–2024.</p>
+
+<p>Specific compositional shifts:</p>
+
+<ul>
+  <li>Fully-online enrollment is up dramatically (per IPEDS, above)</li>
+  <li>Adult (25+) learners are a growing share</li>
+  <li>For-profit four-year college enrollment is down sharply</li>
+  <li>STEM degree shares continue to rise; humanities continue to fall</li>
+</ul>
+
+<h2>Student debt</h2>
+
+<p>US federal + private student loan debt totals roughly <strong>$2.0 trillion</strong> as of early 2025 (Federal Reserve), held by about 43 million borrowers. The average balance per borrower is about $39,000.</p>
+
+<p>The most-watched policy debates of 2023–2025:</p>
+
+<ul>
+  <li>Payment resumption (after pause that lasted from March 2020 to October 2023)</li>
+  <li>Biden administration's "Save Plan" income-driven repayment plan (legal challenges ongoing)</li>
+  <li>Targeted forgiveness for borrowers with disabilities, public service workers, and defrauded borrowers</li>
+  <li>The end of broad-based forgiveness via executive action (Supreme Court Biden v. Nebraska, 2023)</li>
+</ul>
+
+<h2>What's worth watching</h2>
+
+<p>Several open questions for the next 2–3 years:</p>
+
+<ul>
+  <li><strong>Will AI tutors actually improve outcomes?</strong> Two years of large-scale deployment without strong RCT evidence either way.</li>
+  <li><strong>How much will US higher-ed enrollment continue to decline?</strong> The 2025 demographic cliff (smaller birth cohorts hitting college age) is the biggest near-term driver.</li>
+  <li><strong>Online-only credentials</strong> — will employers continue accepting them? Anecdotal evidence is mixed; rigorous studies are scarce.</li>
+  <li><strong>Microcredentials</strong> — certificates, badges, bootcamp completions — are growing but acceptance and labor-market value remain inconsistent.</li>
+</ul>
+
+<h2>Related explainers</h2>
+
+<ul>
+  <li><a href="/category/education">Education explainers</a></li>
+  <li><a href="/artificial-intelligence-statistics-2026">AI Statistics 2026</a> — relevant to AI tutor context</li>
+  <li><a href="/category/business">Business explainers</a> — edtech industry context</li>
+</ul>
+
+</StatsLayout>

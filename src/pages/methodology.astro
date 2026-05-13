@@ -1,0 +1,119 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const siteUrl = import.meta.env.PUBLIC_SITE_URL || 'https://whatis.site';
+const canonicalUrl = `${siteUrl}/methodology`;
+---
+
+<BaseLayout
+  title="Methodology"
+  description="How WhatIs.site sources statistics, fact-checks claims, handles updates, and discloses limitations. The full editorial standard behind our statistics roundups and explainer articles."
+  canonicalUrl={canonicalUrl}
+>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": canonicalUrl,
+    "name": "Methodology",
+    "url": canonicalUrl,
+    "description": "Editorial standards, sourcing policy, and fact-checking process for WhatIs.site.",
+    "publisher": { "@id": `${siteUrl}/#organization` }
+  })} />
+
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": siteUrl },
+      { "@type": "ListItem", "position": 2, "name": "Methodology" }
+    ]
+  })} />
+
+  <article class="max-w-3xl mx-auto px-4 py-12">
+    <nav aria-label="Breadcrumb" class="text-sm text-gray-500 mb-4">
+      <ol class="flex items-center gap-1 flex-wrap">
+        <li><a href="/" class="hover:text-blue-600 transition-colors">Home</a></li>
+        <li class="before:content-['/'] before:mx-1.5 before:text-gray-300 text-gray-900">Methodology</li>
+      </ol>
+    </nav>
+
+    <header class="mb-8">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold text-gray-900 mb-3">Methodology</h1>
+      <p class="text-lg text-gray-700 leading-relaxed">
+        How we source statistics, fact-check claims, and handle updates. This is the editorial standard we hold ourselves to.
+      </p>
+    </header>
+
+    <div class="prose prose-lg max-w-none">
+      <h2>One-line version</h2>
+      <p>
+        We aggregate; we don't survey. Every statistic links to its primary source. Pages are dated, and we refresh statistics roundups quarterly.
+      </p>
+
+      <h2>Sources we trust</h2>
+      <p>
+        Our statistics pages prioritize, in roughly this order:
+      </p>
+      <ol>
+        <li><strong>Government statistics bureaus</strong> — US BLS, BEA, NCES, CDC, NIMH, EPA, NOAA, NASA; UK ONS; Eurostat; OECD; IEA; IPCC.</li>
+        <li><strong>Independent research institutions</strong> — Stanford HAI, Pew Research Center, Kaiser Family Foundation, Brookings, RAND, Mental Health America, AFSP, Federal Reserve and FRED data series.</li>
+        <li><strong>Peer-reviewed publications</strong> — Nature, Science, NEJM, Lancet, JAMA, and similar.</li>
+        <li><strong>Industry research with disclosed methodology</strong> — McKinsey, BCG, Bain, IDC, Gartner, Chainalysis. Cited when methodology is disclosed and the firm has a track record; treated with more caution than government or academic sources.</li>
+        <li><strong>Primary corporate filings</strong> — 10-K reports, earnings calls, investor presentations. Used for numbers companies disclose themselves.</li>
+      </ol>
+      <p>
+        We avoid: aggregator sites that obscure original sources, anonymous "industry insider" reports, paywalled summaries we can't verify, and any source whose methodology isn't disclosed.
+      </p>
+
+      <h2>How a statistics page gets written</h2>
+      <ol>
+        <li><strong>Topic selection</strong> — based on search demand, citation potential, and gaps in existing 2026-dated coverage. We don't write roundups on topics where Wikipedia, government agencies, or established explainer sites already do a definitive job — only where there's a clear opportunity to do better, fresher, or more accessibly.</li>
+        <li><strong>Source collection</strong> — we identify 8–15 primary publications, prefer the most recent edition, and pull headline numbers with their methodology context.</li>
+        <li><strong>Drafting</strong> — every claim is paired with a source link. Numerics include the year and methodology source.</li>
+        <li><strong>Editorial review</strong> — a human editor verifies each numeric claim against the cited source.</li>
+        <li><strong>Publish</strong> — with the publication date stamped in the page header and structured data.</li>
+        <li><strong>Quarterly refresh</strong> — we re-check each statistic against the most recent source release. Outdated numbers are updated and the <code>dateModified</code> field is bumped.</li>
+      </ol>
+
+      <h2>How an explainer article gets written</h2>
+      <ol>
+        <li>Pick a clear definition that works as the opening sentence — what we'd want an AI search engine or a 14-year-old reader to quote.</li>
+        <li>Outline the structure: definition, why it matters, how it works, real-world examples, FAQ.</li>
+        <li>Draft. AI tools are used in drafting and research, but every article is reviewed by a human editor.</li>
+        <li>Add 2–5 external links to authoritative sources, plus 5–10 internal links to related articles.</li>
+        <li>Write the FAQ — at least three questions, each answer self-contained and citation-worthy.</li>
+        <li>Editorial review for accuracy, voice, and humanization compliance (we have an explicit banned-words list to avoid corporate-blog clichés).</li>
+        <li>Publish, monitor reader feedback, update as needed.</li>
+      </ol>
+
+      <h2>Limitations we want you to know about</h2>
+      <ul>
+        <li><strong>We aggregate.</strong> We don't conduct primary research, run surveys, or commission studies. Everything cited is from someone who did.</li>
+        <li><strong>Statistics decay.</strong> A 2026 stat is current today. Three years from now, the page should either be updated or marked stale. Our quarterly refresh policy is the mitigation.</li>
+        <li><strong>Source citation is best-effort.</strong> Some industry research is published in PDFs without stable URLs. We link to the most stable source we can find and note when a citation is to a snapshot.</li>
+        <li><strong>We are not the original source.</strong> If you need to cite a number for academic or legal purposes, cite the primary source we link to — not WhatIs.site.</li>
+      </ul>
+
+      <h2>AI use disclosure</h2>
+      <p>
+        We use AI tools for drafting, structure, fact-finding, and editing — including state-of-the-art large language models like Claude and GPT-4o. Every article and statistics page is reviewed by a human editor before publication. Numbers are verified against named primary sources. We do not publish AI-generated content unchecked.
+      </p>
+
+      <h2>Corrections</h2>
+      <p>
+        Email <a href="mailto:hello@whatis.site">hello@whatis.site</a> with the URL and the specific claim you'd like reviewed. Include the source you're using if you have one. We respond within a few business days. Statistics corrections happen out-of-cycle (not waiting for the quarterly refresh); explainer corrections may be batched but are always acknowledged.
+      </p>
+
+      <h2>How to cite us</h2>
+      <p>
+        Every statistics roundup includes APA and plain-text citation snippets at the bottom of the page. For explainer articles, a generic citation:
+      </p>
+      <p>
+        WhatIs.site Editorial. (<em>year</em>). <em>Article title</em>. WhatIs.site. https://whatis.site/<em>slug</em>
+      </p>
+      <p>
+        Standard academic-and-editorial use is welcomed without permission. For bulk republication or derivative datasets, please email first.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

@@ -1,6 +1,6 @@
 # WhatIs.site — Full Article Index
 
-> Complete index of all 1,615 articles on WhatIs.site, organized by category with descriptions. Plus statistics roundups and free tools.
+> Complete index of all 1,620 articles on WhatIs.site, organized by category with descriptions. Plus statistics roundups and free tools.
 
 ## Statistics roundups (2026)
 
@@ -9,6 +9,11 @@
 - [Cryptocurrency Statistics 2026](/cryptocurrency-statistics-2026): Global ownership, market cap, Bitcoin ETF flows, adoption by country, illicit activity, and stablecoin volume. Sourced from Triple-A, Chainalysis, Pew, and Visa Onchain.
 - [Mental Health Statistics 2026](/mental-health-statistics-2026): Prevalence of mental illness, depression and anxiety rates, suicide data, treatment gaps, and youth mental health trends. Sourced from WHO, CDC, SAMHSA, and NIMH.
 - [Climate Change Statistics 2026](/climate-change-statistics-2026): Temperature, CO₂ emissions, sea level, renewables, and disaster costs. Sourced from IPCC, NASA, NOAA, IEA, and the Global Carbon Project.
+- [Cybersecurity Statistics 2026](/cybersecurity-statistics-2026): Data breach costs, ransomware payments, attack volume, workforce gap, and vulnerability disclosures. Sourced from IBM, FBI IC3, Verizon DBIR, ISC2, and Chainalysis.
+- [Social Media Statistics 2026](/social-media-statistics-2026): Total users, time spent, platform-by-platform MAU, teen usage, advertising revenue, and the youth mental health debate. Sourced from DataReportal, Pew, Meta, and the US Surgeon General.
+- [Music Streaming Statistics 2026](/music-streaming-statistics-2026): Subscriber counts, revenue, platform market share, per-stream payouts, and the vinyl resurgence. Sourced from IFPI, RIAA, Luminate, and Spotify earnings.
+- [Sports Betting Statistics 2026](/sports-betting-statistics-2026): US and global sports betting market size, state-by-state legalization, sportsbook market share, and problem gambling data. Sourced from AGA, NORC, NCPG, and H2 Gambling Capital.
+- [Online Education Statistics 2026](/online-education-statistics-2026): Online learning enrollment, platform user counts, AI tutor adoption, market size, US K-12 attendance, and student debt. Sourced from NCES, Coursera, Duolingo, and the Federal Reserve.
 
 ## Free tools
 
@@ -217,6 +222,8 @@ How the tools, systems, and innovations shaping our digital world actually work 
 - [What Is Thesaurus Construction?](/thesaurus-construction): Thesaurus construction is the process of building structured vocabularies that map relationships between terms for information retrieval and knowledge.
 - [What Is Technical Drawing?](/technical-drawing): Technical drawing is the practice of creating precise, standardized diagrams that communicate how objects are built, assembled, or manufactured. Discover the...
 - [What Is Telecommunication?](/telecommunication): Telecommunication is the transmission of information over distances using electronic or electromagnetic signals, from phone calls to internet data. Discover ...
+- [What Is a Large Language Model?](/large-language-model): A large language model (LLM) is a neural network trained on huge text data to predict and generate language. How LLMs work, what they can do, and limits.
+- [What Is Generative AI?](/generative-ai): Generative AI is artificial intelligence that creates new content — text, images, audio, code, video — rather than just classifying or predicting.
 
 ## Science
 
@@ -531,6 +538,9 @@ Money, markets, and economic decisions. Understanding the financial systems that
 - [What Is Technical Analysis?](/technical-analysis): Technical analysis is a method of evaluating securities by analyzing price charts, trading volume, and statistical patterns to forecast future movements.
 - [What Is Property Management?](/property-management): Property management handles the daily operations of rental real estate. Learn what property managers do, how fees work, and when you need one. Discover the k...
 - [What Is Trade?](/trade): Trade is the voluntary exchange of goods, services, or money between parties. Learn about comparative advantage, trade agreements, tariffs, and global commerce.
+- [What Is Compound Interest?](/compound-interest): Compound interest is interest earned on both your original principal and on accumulated interest. Learn how it works, why time matters most, and how to use it.
+- [What Is an Interest Rate?](/interest-rate): An interest rate is the price of borrowing money, expressed as a percentage. Learn how rates are set, the difference between APR and APY, and why they matter.
+- [What Is Savings?](/savings): Savings is money set aside for future use. Learn the difference between saving vs. investing, where to keep savings, and how much to save.
 
 ## Philosophy
 

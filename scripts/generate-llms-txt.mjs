@@ -79,6 +79,11 @@ const statsRoundups = [
   { title: 'Cryptocurrency Statistics 2026', slug: 'cryptocurrency-statistics-2026', desc: 'Global ownership, market cap, Bitcoin ETF flows, adoption by country, illicit activity, and stablecoin volume. Sourced from Triple-A, Chainalysis, Pew, and Visa Onchain.' },
   { title: 'Mental Health Statistics 2026', slug: 'mental-health-statistics-2026', desc: 'Prevalence of mental illness, depression and anxiety rates, suicide data, treatment gaps, and youth mental health trends. Sourced from WHO, CDC, SAMHSA, and NIMH.' },
   { title: 'Climate Change Statistics 2026', slug: 'climate-change-statistics-2026', desc: 'Temperature, CO₂ emissions, sea level, renewables, and disaster costs. Sourced from IPCC, NASA, NOAA, IEA, and the Global Carbon Project.' },
+  { title: 'Cybersecurity Statistics 2026', slug: 'cybersecurity-statistics-2026', desc: 'Data breach costs, ransomware payments, attack volume, workforce gap, and vulnerability disclosures. Sourced from IBM, FBI IC3, Verizon DBIR, ISC2, and Chainalysis.' },
+  { title: 'Social Media Statistics 2026', slug: 'social-media-statistics-2026', desc: 'Total users, time spent, platform-by-platform MAU, teen usage, advertising revenue, and the youth mental health debate. Sourced from DataReportal, Pew, Meta, and the US Surgeon General.' },
+  { title: 'Music Streaming Statistics 2026', slug: 'music-streaming-statistics-2026', desc: 'Subscriber counts, revenue, platform market share, per-stream payouts, and the vinyl resurgence. Sourced from IFPI, RIAA, Luminate, and Spotify earnings.' },
+  { title: 'Sports Betting Statistics 2026', slug: 'sports-betting-statistics-2026', desc: 'US and global sports betting market size, state-by-state legalization, sportsbook market share, and problem gambling data. Sourced from AGA, NORC, NCPG, and H2 Gambling Capital.' },
+  { title: 'Online Education Statistics 2026', slug: 'online-education-statistics-2026', desc: 'Online learning enrollment, platform user counts, AI tutor adoption, market size, US K-12 attendance, and student debt. Sourced from NCES, Coursera, Duolingo, and the Federal Reserve.' },
 ];
 
 const freeTools = [

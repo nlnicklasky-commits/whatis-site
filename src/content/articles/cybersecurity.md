@@ -41,6 +41,8 @@ faq:
 
 Cybersecurity is the practice of protecting systems, networks, and data from unauthorized digital attacks, theft, and damage. It encompasses technologies, processes, and policies designed to defend against an ever-evolving set of threats. In 2024, cybercrime cost the global economy over $10 trillion according to security research firms, and that figure grows annually as more of our critical infrastructure, personal information, and business operations move online. Whether you're managing a multinational corporation, operating a small business, or simply browsing the web, cybersecurity has become a fundamental requirement in our connected world.
 
+For current breach costs, ransomware payments, and the workforce gap, see our [Cybersecurity Statistics 2026](/cybersecurity-statistics-2026) roundup.
+
 Cybersecurity comes down to one fundamental truth: everything digital can be compromised. Databases can be breached. Networks can be infiltrated. Systems can be hijacked. Communications can be intercepted. The challenge for security professionals, organizations, and individuals is implementing defenses faster than attackers can circumvent them. This requires understanding not just the technical mechanisms of attacks, but also the human, organizational, and strategic dimensions that make security possible.
 
 ## Why Everything Connected Is Everything Vulnerable

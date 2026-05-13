@@ -1,0 +1,192 @@
+---
+import StatsLayout from '../layouts/StatsLayout.astro';
+
+const lastUpdated = '2026-05-13';
+
+const topStats = [
+  { value: '$13.5B', label: 'US legal sports betting revenue in 2024 — a record year', source: 'American Gaming Association 2025' },
+  { value: '$148B', label: 'Total US sports betting handle in 2024 (dollars wagered)', source: 'American Gaming Association 2025' },
+  { value: '38 + DC', label: 'US states with legal sports betting as of 2026', source: 'American Gaming Association' },
+  { value: '~24%', label: 'Of US adults bet on sports in the past year (NORC at University of Chicago, 2023)', source: 'NORC 2023' },
+  { value: 'FanDuel + DraftKings', label: '~70% combined US online sports betting market share', source: 'Eilers & Krejcik Gaming' },
+  { value: '$73B+', label: 'Global online sports betting market size estimate for 2024', source: 'H2 Gambling Capital' },
+  { value: '~3M', label: 'US adults with a gambling-related problem (NCPG 2023)', source: 'National Council on Problem Gambling' },
+  { value: '+96%', label: 'Calls to gambling helplines in legalized US states from 2018 to 2023', source: 'NCPG' },
+];
+
+const faq = [
+  {
+    q: 'How big is the US sports betting market?',
+    a: 'US legal sports betting generated $13.5 billion in operator revenue from $148 billion in handle (total dollars wagered) in 2024 — both records. Operators keep roughly 9% of handle on average; the rest is returned to bettors as winnings.'
+  },
+  {
+    q: 'How many states have legalized sports betting?',
+    a: '38 US states plus Washington DC have legalized some form of sports betting as of 2026. California, Texas, Florida, and a handful of smaller states remain holdouts. The Supreme Court\'s May 2018 Murphy v. NCAA decision opened the door by overturning the federal ban.'
+  },
+  {
+    q: 'Who are the biggest sportsbooks?',
+    a: 'FanDuel and DraftKings together hold roughly 70% of the US online sports betting market by revenue. BetMGM, Caesars, and Fanatics Sportsbook (which acquired PointsBet US) make up most of the rest. Bet365 has a growing US presence.'
+  },
+  {
+    q: 'How much do Americans actually bet?',
+    a: 'NORC research found 24% of US adults said they bet on sports in the past year (2023). The American Gaming Association tracks $148 billion in legal handle for 2024 — but a significant portion of total US sports betting still happens through illegal/offshore operators (estimated at $40–70 billion in annual handle).'
+  },
+  {
+    q: 'What is the rate of problem gambling?',
+    a: 'The National Council on Problem Gambling estimates about 3 million US adults have a severe gambling disorder, with another 5–8 million at-risk. Helpline call volume has roughly doubled in states that have legalized sports betting since 2018.'
+  },
+  {
+    q: 'How big is global sports betting?',
+    a: 'H2 Gambling Capital estimates the global online sports betting market at around $73 billion in 2024, growing roughly 10% per year. The UK, Australia, and the US are the largest mature markets; emerging markets in Africa, Latin America, and Southeast Asia are growing fastest.'
+  },
+];
+
+const sources = [
+  { title: 'State of the States 2025', publisher: 'American Gaming Association', url: 'https://www.americangaming.org/research/state-of-the-states/', accessed: '2026-05-13' },
+  { title: 'Legal Sports Betting Map', publisher: 'American Gaming Association', url: 'https://www.americangaming.org/research/sports-betting-state-tracker/', accessed: '2026-05-13' },
+  { title: 'Sports Betting in the US: NORC Survey', publisher: 'NORC at the University of Chicago', url: 'https://www.norc.org/research/projects/sports-betting-in-the-united-states.html', accessed: '2026-05-13' },
+  { title: 'National Council on Problem Gambling — Statistics', publisher: 'NCPG', url: 'https://www.ncpgambling.org/help-treatment/faq/', accessed: '2026-05-13' },
+  { title: 'Global Gambling Market Research', publisher: 'H2 Gambling Capital', url: 'https://h2gc.com/', accessed: '2026-05-13' },
+  { title: 'US Sports Betting Market Share', publisher: 'Eilers & Krejcik Gaming', url: 'https://www.eilersresearch.com/', accessed: '2026-05-13' },
+  { title: 'Murphy v. NCAA decision', publisher: 'Supreme Court of the United States', url: 'https://www.supremecourt.gov/opinions/17pdf/16-476_dbfi.pdf', accessed: '2026-05-13' },
+];
+---
+
+<StatsLayout
+  title="Sports Betting Statistics 2026"
+  description="US and global sports betting statistics for 2026 — market size, state-by-state legalization, sportsbook market share, problem gambling data, and global trends. Sourced from AGA, NORC, NCPG, and H2 Gambling Capital."
+  slug="sports-betting-statistics-2026"
+  lastUpdated={lastUpdated}
+  topStats={topStats}
+  faq={faq}
+  sources={sources}
+  category="sports"
+  categoryLabel="Sports"
+>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 my-6 rounded">
+  <p class="text-sm text-gray-800">
+    <strong>If gambling is becoming a problem for you or someone you know:</strong> Call the National Problem Gambling Helpline at <strong>1-800-GAMBLER</strong> (US, 24/7) or text "HELP" to <strong>800GAM</strong>.
+  </p>
+</div>
+
+<h2>The post-2018 US explosion</h2>
+
+<p>The single most important date for understanding US sports betting is <strong>May 14, 2018</strong> — when the Supreme Court's Murphy v. NCAA decision struck down the federal Professional and Amateur Sports Protection Act, opening the door for states to legalize sports betting individually.</p>
+
+<p>What's happened since:</p>
+
+<table>
+  <thead>
+    <tr><th>Year</th><th>US legal sports betting revenue</th><th>States with legal sports betting</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>2018 (partial year)</td><td>$430M</td><td>8</td></tr>
+    <tr><td>2019</td><td>$910M</td><td>14</td></tr>
+    <tr><td>2020</td><td>$1.5B</td><td>20</td></tr>
+    <tr><td>2021</td><td>$4.4B</td><td>30</td></tr>
+    <tr><td>2022</td><td>$7.6B</td><td>33</td></tr>
+    <tr><td>2023</td><td>$11.0B</td><td>38</td></tr>
+    <tr><td>2024</td><td>$13.5B</td><td>38 + DC</td></tr>
+  </tbody>
+</table>
+
+<p>That's roughly <strong>30× growth in six years</strong>. No other adult-spending category in US history has scaled this fast at this size.</p>
+
+<h2>The handle vs. revenue distinction</h2>
+
+<p>Two numbers get confused constantly:</p>
+
+<ul>
+  <li><strong>Handle</strong> = total dollars wagered. For 2024: $148 billion in US legal sports betting.</li>
+  <li><strong>Revenue</strong> (or "gross gaming revenue") = what the sportsbooks keep after paying out winnings. For 2024: $13.5 billion.</li>
+</ul>
+
+<p>The ratio — about 9% — is the operators' "hold." It varies by sport, bet type, and operator. Parlays (multi-leg bets) typically yield hold of 20%+ because of the way odds compound. Straight single-game bets typically yield 4–5%.</p>
+
+<h2>State-by-state legalization status (2026)</h2>
+
+<p>Legal in some form (mobile, retail, or both):</p>
+
+<ul>
+  <li>Arizona, Arkansas, Colorado, Connecticut, Delaware, District of Columbia, Florida (tribal-only currently), Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Mississippi (retail only), Missouri (newly legalized 2024), Montana, Nebraska (retail only), Nevada, New Hampshire, New Jersey, New Mexico (tribal), New York, North Carolina, North Dakota (tribal), Ohio, Oregon, Pennsylvania, Rhode Island, South Dakota (retail only), Tennessee, Vermont, Virginia, Washington (tribal-only), West Virginia, Wisconsin (tribal), Wyoming</li>
+</ul>
+
+<p>Notable holdouts: California (rejected ballot measures in 2022), Texas (legislature has not advanced), Alabama, Alaska, Georgia, Hawaii, Idaho, Minnesota, Oklahoma, South Carolina, Utah (constitutional ban).</p>
+
+<h2>Market share among sportsbooks</h2>
+
+<p>The US online sports betting market is a near-duopoly. Eilers &amp; Krejcik Gaming estimates of 2024 market share:</p>
+
+<ul>
+  <li><strong>FanDuel</strong> — ~42% of online sports betting revenue</li>
+  <li><strong>DraftKings</strong> — ~28%</li>
+  <li><strong>BetMGM</strong> — ~7%</li>
+  <li><strong>Fanatics Sportsbook</strong> (acquired PointsBet US) — ~5%</li>
+  <li><strong>Caesars Sportsbook</strong> — ~4%</li>
+  <li><strong>Bet365 + ESPN BET + others</strong> — ~14%</li>
+</ul>
+
+<p>The duopoly is far stronger than it was when most states opened — early entrants compounded their advantage through aggressive customer acquisition spending. FanDuel and DraftKings together spent over $4 billion on marketing in the 2021-2023 period combined, per company filings.</p>
+
+<h2>Who actually bets</h2>
+
+<p>NORC's 2023 nationally representative survey found:</p>
+
+<ul>
+  <li><strong>24%</strong> of US adults bet on sports in the past year (any form)</li>
+  <li><strong>15%</strong> placed a bet through a legal sportsbook</li>
+  <li>The remainder used illegal offshore sites, casual bets with friends, fantasy sports, or other channels</li>
+  <li>Bettors skew male (about 2:1) and younger (highest among 18–44)</li>
+  <li>The average bettor placed about 22 bets in the past year</li>
+</ul>
+
+<h2>Problem gambling</h2>
+
+<p>The National Council on Problem Gambling's most recent estimates:</p>
+
+<ul>
+  <li>About <strong>3 million US adults</strong> have a severe gambling disorder ("compulsive gambling")</li>
+  <li>About <strong>5–8 million</strong> are at risk or have mild-to-moderate gambling problems</li>
+  <li>Call volume to gambling helplines has roughly doubled in legalized states since 2018</li>
+  <li>The American Gaming Association's "Have a Game Plan" responsible-gambling campaign reaches roughly 80% of US bettors, per their own metrics</li>
+</ul>
+
+<p>A 2023 study published in JAMA Network Open found that calls to a major US problem-gambling helpline increased about 96% in states that legalized sports betting in the years following legalization, compared with control states that had not legalized.</p>
+
+<h2>The illegal market still exists</h2>
+
+<p>Despite rapid legalization, the American Gaming Association estimates Americans still wager $40–70 billion annually with illegal/offshore operators — sites operating outside US regulatory jurisdiction. The gap between legal and illegal handle has narrowed (it was over 90% illegal pre-2018) but illegal markets persist due to: tax avoidance, credit access, lower minimum age requirements, and players banned by legal books.</p>
+
+<h2>Global view</h2>
+
+<p>H2 Gambling Capital estimates the global online sports betting market at about <strong>$73 billion in 2024 gross gaming revenue</strong>, growing roughly 10% per year. By region:</p>
+
+<ul>
+  <li>Europe — largest mature market (UK, Ireland, Germany, Italy, Spain all major)</li>
+  <li>Asia-Pacific — fastest-growing, with Australia leading per-capita and India/Southeast Asia driving growth</li>
+  <li>North America — US-dominated, Canada legalized single-event betting in 2021</li>
+  <li>Latin America — Brazil's 2024 regulatory framework is the biggest regional development</li>
+  <li>Africa — Kenya, Nigeria, South Africa among the fastest-growing per-capita markets globally</li>
+</ul>
+
+<h2>What's next</h2>
+
+<p>Active developments to watch:</p>
+
+<ul>
+  <li><strong>California and Texas</strong> — the two largest unregulated US markets. Multiple paths possible; nothing imminent in 2026 but expected this decade.</li>
+  <li><strong>iGaming expansion</strong> (online casino) — a separate, smaller market than sports betting. Only seven states have legalized full online casino.</li>
+  <li><strong>AI-driven personalization</strong> — every major sportsbook is investing in real-time odds, personalized parlays, and behavioral modeling. Responsible-gambling concerns are real.</li>
+  <li><strong>Regulatory pressure on advertising</strong> — multiple US states have tightened ad restrictions; expect more.</li>
+</ul>
+
+<h2>Related explainers</h2>
+
+<ul>
+  <li><a href="/category/sports">Sports explainers</a></li>
+  <li><a href="/category/business">Business explainers</a> — industry context</li>
+  <li><a href="/category/law">Law explainers</a> — regulatory context</li>
+</ul>
+
+</StatsLayout>

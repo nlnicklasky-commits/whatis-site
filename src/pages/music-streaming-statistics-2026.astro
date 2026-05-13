@@ -1,0 +1,170 @@
+---
+import StatsLayout from '../layouts/StatsLayout.astro';
+
+const lastUpdated = '2026-05-13';
+
+const topStats = [
+  { value: '$28.6B', label: 'Total global recorded music revenue in 2023 — a tenth consecutive year of growth', source: 'IFPI Global Music Report 2024' },
+  { value: '67.3%', label: 'Of global recorded music revenue came from streaming in 2023', source: 'IFPI 2024' },
+  { value: '~713M', label: 'Paid music streaming subscribers globally at end of 2023', source: 'IFPI 2024' },
+  { value: '$15.3B', label: 'Paid streaming revenue alone in 2023, up 10.4% year-over-year', source: 'IFPI 2024' },
+  { value: '~626M', label: 'Spotify monthly active users as of Q4 2024', source: 'Spotify Q4 2024 earnings' },
+  { value: '~252M', label: 'Spotify paid subscribers as of Q4 2024', source: 'Spotify Q4 2024 earnings' },
+  { value: '~88M', label: 'Apple Music paid subscribers (mid-2024 estimate)', source: 'Industry estimates / MIDiA' },
+  { value: '4.0 trillion', label: 'On-demand audio streams in the US in 2023 (Luminate)', source: 'Luminate 2024 Year-End Report' },
+];
+
+const faq = [
+  {
+    q: 'How big is the music streaming industry in 2026?',
+    a: 'IFPI puts total global recorded music revenue at $28.6 billion in 2023, with streaming accounting for $19.3 billion (67.3%). Paid subscriptions alone were $15.3 billion. The market has grown for ten consecutive years.'
+  },
+  {
+    q: 'How many people pay for music streaming?',
+    a: 'IFPI reports about 713 million paid streaming subscribers worldwide at end of 2023, up from 589 million the year before. Spotify alone has roughly 252 million paid subscribers as of Q4 2024.'
+  },
+  {
+    q: 'What is the market share of Spotify, Apple Music, and YouTube Music?',
+    a: 'Industry estimates (MIDiA Research, Counterpoint) put Spotify at roughly 32% of paid music streaming subscribers, Apple Music at ~13%, and Amazon Music + YouTube Music each at around 13–14%. Chinese services (Tencent Music, NetEase) dominate domestic Chinese market share.'
+  },
+  {
+    q: 'How much does streaming pay artists per stream?',
+    a: 'Per-stream payouts vary widely by service, region, and royalty structure but generally fall between $0.003 and $0.005 per stream for major streaming platforms. An artist needs roughly 250–330 streams to earn $1. The economics differ for songwriters, performers, and rights-holders.'
+  },
+  {
+    q: 'How many songs are uploaded to Spotify per day?',
+    a: 'Spotify reports about 120,000 new tracks uploaded per day as of 2023 — roughly 44 million per year. The discoverability problem is now the dominant constraint for emerging artists, not distribution access.'
+  },
+  {
+    q: 'Are physical music sales dead?',
+    a: 'Not quite. Vinyl revenue has grown for 17+ consecutive years in the US — about $1.4 billion in 2023 (RIAA), the highest since 1984. CDs continue a slow decline but persist in some markets (Japan especially). Overall physical sales make up under 10% of global music revenue.'
+  },
+];
+
+const sources = [
+  { title: 'Global Music Report 2024', publisher: 'IFPI', url: 'https://www.ifpi.org/our-industry/industry-data/', accessed: '2026-05-13' },
+  { title: 'Year-End Music Report 2023', publisher: 'Luminate', url: 'https://luminatedata.com/reports/', accessed: '2026-05-13' },
+  { title: 'Q4 2024 Shareholder Letter', publisher: 'Spotify Technology', url: 'https://investors.spotify.com/financials/', accessed: '2026-05-13' },
+  { title: 'Year-End 2023 Music Industry Revenue Report', publisher: 'RIAA', url: 'https://www.riaa.com/u-s-sales-database/', accessed: '2026-05-13' },
+  { title: 'Music Subscriber Market Shares', publisher: 'MIDiA Research', url: 'https://www.midiaresearch.com/blog', accessed: '2026-05-13' },
+  { title: 'Global Music Subscription Market Tracker', publisher: 'Counterpoint Research', url: 'https://www.counterpointresearch.com/', accessed: '2026-05-13' },
+];
+---
+
+<StatsLayout
+  title="Music Streaming Statistics 2026"
+  description="Global music streaming statistics for 2026 — subscriber counts, revenue, platform market share, per-stream payouts, and vinyl resurgence. Sourced from IFPI, RIAA, Luminate, and Spotify earnings."
+  slug="music-streaming-statistics-2026"
+  lastUpdated={lastUpdated}
+  topStats={topStats}
+  faq={faq}
+  sources={sources}
+  category="music"
+  categoryLabel="Music"
+>
+
+<h2>The big picture: streaming is the music industry now</h2>
+
+<p>The recorded music industry hit <strong>$28.6 billion in global revenue in 2023</strong> — its tenth consecutive year of growth, and the highest figure since the late-1990s pre-Napster peak (in nominal dollars). Streaming was 67.3% of that. The story of the past decade is straightforward: streaming saved an industry that had been in free-fall since 1999.</p>
+
+<p>The breakdown for 2023, per IFPI:</p>
+
+<table>
+  <thead>
+    <tr><th>Revenue category</th><th>2023 value</th><th>Share</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Paid subscription streaming</td><td>$15.3B</td><td>53.5%</td></tr>
+    <tr><td>Ad-supported streaming</td><td>$4.0B</td><td>13.8%</td></tr>
+    <tr><td>Physical (CD, vinyl, etc.)</td><td>$5.1B</td><td>17.8%</td></tr>
+    <tr><td>Performance rights</td><td>$2.7B</td><td>9.5%</td></tr>
+    <tr><td>Sync revenue (film/TV/games)</td><td>$0.7B</td><td>2.4%</td></tr>
+    <tr><td>Digital downloads &amp; other</td><td>$0.9B</td><td>3.0%</td></tr>
+  </tbody>
+</table>
+
+<h2>Subscribers</h2>
+
+<p>IFPI reports about <strong>713 million paid music streaming subscribers worldwide</strong> at end of 2023, up from 589 million in 2022. Growth has been remarkably steady — roughly 80–120 million net new subscribers per year for several years running.</p>
+
+<p>By major platform (publicly reported or industry-estimated numbers):</p>
+
+<ul>
+  <li><strong>Spotify</strong> — 252 million paid subscribers (Q4 2024), 626 million MAUs. Largest single service globally.</li>
+  <li><strong>Apple Music</strong> — Apple no longer breaks out subscriber numbers; industry estimates put it around 88 million paid (mid-2024).</li>
+  <li><strong>Amazon Music Unlimited</strong> — also undisclosed; MIDiA estimates 80–90 million paid.</li>
+  <li><strong>YouTube Music + Premium</strong> — Google reported over 125 million paid YouTube Music + Premium subscribers as of early 2025.</li>
+  <li><strong>Tencent Music Entertainment</strong> — 117 million paid users in China as of Q4 2024.</li>
+  <li><strong>NetEase Cloud Music</strong> — 44.4 million paying users as of Q4 2024.</li>
+  <li><strong>Tidal, Deezer, others</strong> — much smaller globally.</li>
+</ul>
+
+<p>Aggregate market share by paid subscriber is roughly: Spotify ~32%, Tencent + NetEase combined ~22%, Apple Music ~13%, Amazon Music ~12%, YouTube Music ~17%, others ~4%. These shares shift modestly year-to-year but the rough hierarchy has been stable since around 2020.</p>
+
+<h2>How streaming pays artists</h2>
+
+<p>This is the part of the industry that generates the most public controversy. Reality: streaming platforms generally pay <strong>between $0.003 and $0.005 per stream</strong>, varying by service, country, and royalty pool method.</p>
+
+<p>Rough per-stream payouts by service (industry estimates, not officially disclosed):</p>
+
+<ul>
+  <li>Tidal HiFi Plus — $0.013 (highest)</li>
+  <li>Apple Music — ~$0.008</li>
+  <li>Amazon Music — ~$0.004</li>
+  <li>Spotify — ~$0.003–0.005 (varies by pro-rata vs. user-centric royalty model)</li>
+  <li>YouTube Music — ~$0.002 (also varies)</li>
+</ul>
+
+<p>Multiple structural points worth understanding:</p>
+
+<ol>
+  <li><strong>The "per-stream" rate isn't a fixed contract.</strong> Royalties are paid from a pool — total streaming subscription revenue, after platform's share, divided by total streams. The "rate" emerges, it isn't set.</li>
+  <li><strong>The artist sees a fraction</strong> of even that small payout. Record labels typically take 50–80% of streaming revenue; songwriters and performers split the rest.</li>
+  <li><strong>The top 1% of artists capture the majority of streams.</strong> Spotify's own data shows the top 200,000 artists out of ~12 million on the platform account for roughly 95% of streams.</li>
+</ol>
+
+<h2>The volume problem</h2>
+
+<p>About <strong>120,000 new tracks are uploaded to Spotify per day</strong> as of 2023 — roughly 44 million per year. That's not a typo. The bottleneck for artists is no longer access to distribution; it's discoverability against a tsunami of competing uploads.</p>
+
+<p>Spotify removed tracks with under 1,000 plays from royalty payouts in 2024 — a controversial change that reduced what it called the "noise floor" while critics pointed out that small/emerging artists are most affected.</p>
+
+<h2>Vinyl is back (no, really)</h2>
+
+<p>The most counterintuitive trend in music: vinyl revenue has grown for <strong>17+ consecutive years</strong> in the US (RIAA). 2023 vinyl revenue: $1.4 billion, the highest since 1984. Vinyl now outsells CDs by revenue in the US.</p>
+
+<p>Drivers: physical-as-merch, premium pricing ($30–50 per LP), tactile experience, collectibility. Pearl Jam, Taylor Swift, Olivia Rodrigo, and the Beatles' 1962-1966/1967-1970 reissues were the top-selling vinyl albums of 2023.</p>
+
+<h2>Geographic patterns</h2>
+
+<p>Revenue growth in 2023 was strongest in:</p>
+
+<ul>
+  <li>Sub-Saharan Africa (+24.7%) — fastest-growing region, off a small base</li>
+  <li>Latin America (+19.4%) — largely streaming-driven</li>
+  <li>MENA region (+14.4%)</li>
+  <li>Asia (+14.9%) — driven by emerging markets, not Japan</li>
+</ul>
+
+<p>The US remains the single largest music market at about $17 billion when adding RIAA US figures to the export-revenue category. China is now the world's fifth-largest music market and growing fastest among the top 10.</p>
+
+<h2>Looking forward</h2>
+
+<p>The industry's main near-term concerns:</p>
+
+<ul>
+  <li><strong>AI-generated music</strong> — the volume problem on steroids. Several platforms reported removing AI-generated tracks at scale in 2024.</li>
+  <li><strong>Royalty model debates</strong> — pro-rata vs. user-centric royalty pools is a live argument; Spotify and Deezer have experimented with user-centric models.</li>
+  <li><strong>Bundling</strong> — telco-bundled subscriptions inflate subscriber counts but pay lower per-user royalties.</li>
+  <li><strong>Live music</strong> — not in these recorded-music numbers, but the dominant revenue source for working musicians. Live Nation reported $23.2 billion in 2024 revenue.</li>
+</ul>
+
+<h2>Related explainers</h2>
+
+<ul>
+  <li><a href="/category/music">Music explainers</a> — theory, instruments, genres</li>
+  <li><a href="/category/business">Business explainers</a> — broader industry context</li>
+  <li><a href="/category/arts-amp-culture">Arts &amp; Culture</a></li>
+</ul>
+
+</StatsLayout>

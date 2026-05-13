@@ -1,0 +1,7 @@
+asset: /online-education-statistics-2026
+inbound_links:
+  - from: src/content/articles/education.md
+    anchor: "Online Education Statistics 2026"
+    must_contain_path: "/online-education-statistics-2026"
+outbound_links:
+  - to: /artificial-intelligence-statistics-2026
