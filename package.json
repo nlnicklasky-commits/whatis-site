@@ -7,11 +7,14 @@
     "dev": "astro dev",
     "prebuild": "node scripts/generate-llms-txt.mjs && node scripts/seo/verify-internal-links.mjs",
     "build": "astro build",
+    "postbuild": "node scripts/seo/indexnow-submit.mjs --auto",
     "preview": "astro preview",
     "astro": "astro",
     "seo:report": "node scripts/seo/generate-monthly-report.mjs",
     "seo:spotcheck": "node scripts/seo/ai-overview-spotcheck.mjs",
     "seo:indexnow": "node scripts/seo/indexnow-submit.mjs --new-assets",
+    "seo:indexnow:all": "node scripts/seo/indexnow-submit.mjs --all",
+    "seo:indexnow:recent": "node scripts/seo/indexnow-submit.mjs --recent 7",
     "seo:verify": "node scripts/seo/verify-internal-links.mjs"
   },
   "keywords": [
