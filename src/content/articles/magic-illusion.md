@@ -31,7 +31,7 @@ faq:
 
 # What Is Magic (Illusion)?
 
-Magic — in the entertainment sense, not the supernatural one — is the performing art of producing effects that appear to violate the known laws of [physics](/physics). Making objects vanish. Reading minds. Cutting someone in half and putting them back together. Levitating. Escaping from locked boxes underwater. None of it is real, and everyone in the audience knows that. But when it's done well, the gap between "I know it's a trick" and "I have no idea how that works" produces a feeling of genuine wonder.
+Magic — in the entertainment sense, not the supernatural one — is the performing art of producing effects that appear to violate the known laws of [physics](/physics). Vanishing objects, reading minds, cutting someone in half, levitating, escaping from locked boxes underwater — none of it is real, and everyone in the audience knows that. But when it's done well, the gap between "I know it's a trick" and "I have no idea how that works" produces a feeling of genuine wonder.
 
 That feeling is the point. Not the puzzle. Not the secret. The wonder.
 

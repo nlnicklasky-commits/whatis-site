@@ -1,0 +1,43 @@
+[
+  {
+    "date": "2026-05-13T02:33:40.067Z",
+    "sample": {
+      "size": 50,
+      "indexed": 1,
+      "indexedPct": 2,
+      "byCoverage": {
+        "URL is unknown to Google": 49,
+        "Submitted and indexed": 1
+      }
+    },
+    "sitemap": {
+      "lastSubmitted": "2026-05-10T15:15:34.800Z",
+      "lastDownloaded": "2026-05-10T15:15:36.116Z",
+      "isPending": false,
+      "isSitemapsIndex": true,
+      "errors": "0",
+      "warnings": "0",
+      "contents": [
+        {
+          "type": "web",
+          "submitted": "1690",
+          "indexed": "0"
+        }
+      ]
+    },
+    "search7": {
+      "windowDays": 7,
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "avgPosition": 29.142857142857142
+    },
+    "search28": {
+      "windowDays": 28,
+      "clicks": 0,
+      "impressions": 150,
+      "ctr": 0,
+      "avgPosition": 71.38
+    }
+  }
+]

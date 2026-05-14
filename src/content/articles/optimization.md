@@ -31,7 +31,7 @@ faq:
 
 # What Is Optimization?
 
-Optimization is the process of finding the best possible solution to a problem from a set of available alternatives, usually subject to constraints. Maximize profit. Minimize cost. Find the shortest route. Allocate resources most effectively. Schedule tasks most efficiently. It's one of the most widely applied branches of [mathematics](/mathematics), touching everything from airline [scheduling](/scheduling) and investment portfolios to [machine learning](/machine-learning) and bridge design.
+Optimization is the process of finding the best possible solution to a problem from a set of available alternatives, usually subject to constraints. Maximize profit, minimize cost, find the shortest route, allocate resources, schedule tasks — these are all optimization problems. It's one of the most widely applied branches of [mathematics](/mathematics), touching everything from airline [scheduling](/scheduling) and investment portfolios to [machine learning](/machine-learning) and bridge design.
 
 ## The Basic Framework
 

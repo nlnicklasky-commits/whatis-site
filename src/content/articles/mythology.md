@@ -31,7 +31,7 @@ faq:
 
 # What Is Mythology?
 
-Mythology is a body of myths — traditional stories that a culture uses to explain the world, its origins, natural phenomena, and the human condition. Every known civilization has produced mythology. The Greeks had Zeus and Athena. The Norse had Odin and Thor. The Egyptians had Ra and Osiris. The Hindu tradition has Vishnu, Shiva, and thousands of others. Indigenous peoples across every continent developed mythological systems of tremendous complexity and beauty.
+Mythology is a body of myths — traditional stories that a culture uses to explain the world, its origins, natural phenomena, and the human condition. Every known civilization has produced one: the Greeks had Zeus and Athena, the Norse had Odin and Thor, the Egyptians had Ra and Osiris, the Hindu tradition has Vishnu and Shiva. Indigenous peoples across every continent developed mythological systems of tremendous complexity and beauty.
 
 These aren't just old stories. Myths are how pre-scientific cultures made sense of a confusing, dangerous, and often terrifying world. Why does the sun move across the sky? Why do people die? Why do seasons change? Where did we come from? What happens after death? Myths answered these questions — and their answers, while not scientifically accurate, reveal enormous psychological and philosophical sophistication.
 

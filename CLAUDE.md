@@ -1,5 +1,7 @@
 # WhatIs.site — Claude Code Operating Instructions
 
+> **Bootstrapped by the setup agent** in `C:\Users\nlnic\Documents\Pre-project Builders`. Settings, hooks, and this CLAUDE.md were initialized from the starter kit.
+
 ## Project Overview
 
 WhatIs.site is an educational content platform with 1,600+ "What Is..." articles. Built with Astro 5, deployed on Vercel, optimized for SEO, AI engine citation (GEO), and ad monetization.
@@ -136,3 +138,63 @@ PUBLIC_SITE_URL=https://whatis.site
 PUBLIC_SITE_NAME=WhatIs.site
 PUBLIC_AD_NETWORK=none
 ```
+
+## Environment
+
+- **OS:** Windows 11 — PowerShell is the local shell. Do not assume macOS/Linux paths or tools on the client side.
+- **User path:** C:\Users\nlnic\
+- **Plan:** Claude Max subscription. NOT using the Anthropic API key. Do not reference ANTHROPIC_API_KEY or attempt API-key-based workflows.
+- **Model:** Opus (set in .claude/settings.json)
+- **GitHub:** github.com/nlnicklasky-commits — all repos live under this org
+- **Email:** nl.nicklasky@gmail.com
+- **SSH key (DigitalOcean):** C:\Users\nlnic\.ssh\digitalocean
+
+## API Keys & Services
+
+All secrets live in `.env` or `.env.local` at project root (gitignored). NEVER hardcode keys in source files or this CLAUDE.md.
+
+Available service accounts (use whichever are relevant to this project):
+
+| Service | Env Var(s) | What it's for |
+|---------|-----------|---------------|
+| **Vercel** | Vercel CLI auth | Deployment platform. Vercel org: `nick-laskys-projects`. Deploy with `vercel --prod`. |
+
+## Conventions
+
+- Astro 5 with static output only
+- TailwindCSS v3 (NOT v4) — paired with @astrojs/tailwind@6
+- Content collections use glob loader (not type: 'content')
+- Rendering uses `render()` from 'astro:content', NOT `article.render()`
+- Zero JavaScript by default — all features build-time computed
+- All articles in markdown with Zod-validated frontmatter
+
+## Working with Nick
+
+- Give full, copy-pasteable commands. Never abbreviate or say "just SSH in" — paste the complete command with flags, paths, and env expansions in PowerShell-ready form.
+- Be concise. Don't summarize what he just told you back to him.
+- Notion is the source of truth for project state, roadmap, and data pipeline status. Search Notion before making assumptions about project status.
+- When a step is slow or long-running, explain what's happening and set expectations on timing.
+- Prefer practical, working code over theoretical explanations.
+
+## Hooks (active via .claude/settings.json)
+
+Defined in .claude/settings.json. Current setup allows specific build, dev, and git commands with full read/write/edit access.
+
+## Project-Specific Notes
+
+- Content tiers: Tier 1 (3-5K words, definitive), Tier 2 (2-3K, thorough), Tier 3 (1.2-2K, overview)
+- Humanization rules enforced: no "delve/tapestry/paradigm" banned words, no generic phrases like "it's important to note"
+- SEO requires first paragraph as citation-worthy (clean definition under 3 sentences)
+- Articles: 1,600+ pieces in src/content/articles/
+- Ad network disabled (PUBLIC_AD_NETWORK=none)
+
+## SEO Tooling
+
+Scripts in `scripts/seo/` and `scripts/audits/` for ongoing health:
+
+- `scripts/seo/weekly-progress.mjs` — GSC snapshot of indexation, search totals, and sitemap status against a fixed 50-URL sample. Appends one row to `data/progress-log.json` per run. Needs `GOOGLE_SERVICE_ACCOUNT_JSON` and `GSC_SITE_URL` in `.env.local`.
+- `scripts/audits/banned-words-scan.mjs` — Scans all articles against the banned words/phrases list. Writes `.audit-content-quality.json`.
+- `scripts/audits/link-graph-audit.mjs` — Orphans, underlinked, bad related-article refs. Writes `.audit-link-graph.json`.
+- `scripts/audits/image-audit.mjs` — Hero image sizes, alt text, orphans. Writes `.audit-images.json`.
+
+All `.audit-*.json` files are gitignored scratch outputs.

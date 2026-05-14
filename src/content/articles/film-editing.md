@@ -31,7 +31,7 @@ faq:
 
 # What Is Film [Editing](/editing)?
 
-Film editing is the process of selecting, arranging, and assembling recorded footage into a coherent and compelling motion picture. It's often called the "invisible art" because when editing is done well, you don't notice it — you just experience the story. When it's done badly, everything feels off. Scenes drag. Conversations feel awkward. Action sequences become confusing. Editing is the difference between raw footage and a movie.
+Film editing is the process of selecting, arranging, and assembling recorded footage into a coherent and compelling motion picture. It's often called the "invisible art" because when editing is done well, you don't notice it — you just experience the story. When it's done badly, scenes drag, conversations feel awkward, and action sequences become confusing — editing is the difference between raw footage and a movie.
 
 ## The Hidden Power
 

@@ -31,7 +31,9 @@ faq:
 
 # What Is Public Speaking?
 
-Public speaking is the act of delivering a structured message to a live audience. It's one of the oldest human skills — predating [writing](/writing) by thousands of years — and one of the most feared. Surveys routinely show that people rank public speaking above snakes, heights, and even death on their list of fears. Jerry Seinfeld's joke about this is famous: "According to most studies, people's number one fear is public speaking. Number two is death. Does that sound right? This means at a funeral, the average person would rather be in the casket than doing the eulogy."
+Public speaking is the act of delivering a structured message to a live audience. It's one of the oldest human skills — predating [writing](/writing) by thousands of years — and one of the most feared. Surveys routinely show that people rank it above snakes, heights, and even death on their list of fears.
+
+Jerry Seinfeld's joke about this is famous: "According to most studies, people's number one fear is public speaking. Number two is death. Does that sound right? This means at a funeral, the average person would rather be in the casket than doing the eulogy."
 
 ## Why It Matters
 

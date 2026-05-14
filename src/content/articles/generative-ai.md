@@ -66,7 +66,7 @@ Large [language models](/large-language-model) (LLMs) like GPT-4, Claude 3.5/4, 
 
 ### Images
 
-Diffusion models like Stable Diffusion, DALL-E 3, Midjourney, and Imagen generate images from text descriptions. The underlying mechanism — start with noise, iteratively denoise toward an image consistent with the prompt — is different from text transformers but the broader paradigm (massive training data, neural networks at scale) is the same.
+Diffusion models like Stable Diffusion, DALL-E 3, Midjourney, and Imagen generate images from text descriptions. The underlying mechanism — start with noise, iteratively denoise toward an image consistent with the prompt — is different from text transformers but the broader pattern (massive training data, neural networks at scale) is the same.
 
 ### Audio
 
@@ -82,7 +82,7 @@ GitHub Copilot, Cursor, Claude Code, and similar systems generate code given com
 
 ### 3D and other domains
 
-3D model generation, protein structure prediction (AlphaFold), drug discovery, materials science. The same underlying paradigm is being applied to anything with sufficient training data and a useful generative objective.
+3D model generation, protein structure prediction (AlphaFold), drug discovery, materials science. The same underlying approach is being applied to anything with sufficient training data and a useful generative objective.
 
 ## Generative vs. Discriminative AI
 
@@ -134,7 +134,7 @@ Major regulatory developments through 2026:
 
 - **European Union** — The AI Act entered force in August 2024 with phased enforcement. Generative AI systems classified as "general-purpose AI" face transparency and copyright requirements; high-risk applications face strict obligations.
 - **United States** — Federal AI policy shifted considerably. State-level regulation (Colorado, California, New York) and sector-specific guidance from agencies (FTC, FDA, HHS, financial regulators) is now the main framework.
-- **China** — Comprehensive generative AI rules in force since 2023, including algorithmic registration and content moderation.
+- **China** — Broad generative AI rules in force since 2023, including algorithmic registration and content moderation.
 - **United Kingdom** — Sector-led approach via existing regulators; AI Safety Institute conducts model evaluations.
 
 Public concern is highest around: deepfakes and election integrity, copyright (especially around training data), automation of writing and entertainment work, and frontier-model safety risks.

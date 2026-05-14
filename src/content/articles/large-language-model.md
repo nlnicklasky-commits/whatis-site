@@ -150,7 +150,7 @@ The deployment patterns that have emerged:
 
 - [What Is Artificial Intelligence?](/artificial-intelligence) — the broader field
 - [What Is Generative AI?](/generative-ai) — the category LLMs belong to
-- [What Is Machine Learning?](/machine-learning) — the underlying paradigm
+- [What Is Machine Learning?](/machine-learning) — the technique LLMs grew out of
 - [What Is Deep Learning?](/deep-learning) — the technique LLMs are built on
 - [What Are Neural Networks?](/neural-networks) — the building blocks of LLMs
 - [AI Statistics 2026](/artificial-intelligence-statistics-2026) — current capability, cost, and adoption data

@@ -31,7 +31,7 @@ faq:
 
 # What Is Lithography?
 
-Lithography is a printing method invented in 1796 that works on a beautifully simple principle: oil and water repel each other. You draw an image on a flat surface using greasy materials, wet the surface with water, then roll oily ink over it. The ink sticks to the greasy [drawing](/drawing) and is repelled by the wet areas. Press paper against it, and the image transfers. No carving. No etching. Just [chemistry](/chemistry).
+Lithography is a printing method invented in 1796 that works on a beautifully simple principle: oil and water repel each other. You draw an image on a flat surface using greasy materials, wet the surface, then roll oily ink over it — the ink sticks to the greasy [drawing](/drawing) and is repelled by the wet areas. Press paper against it and the image transfers; no carving, no etching, just [chemistry](/chemistry).
 
 It was a genuine breakthrough — the first fundamentally new printing technology since Gutenberg's movable type 350 years earlier. And it's still in use today, both as a [fine art](/fine-art) medium and (in its mechanized form) as the world's most common commercial printing process.
 
