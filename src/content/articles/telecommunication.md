@@ -5,7 +5,7 @@ description: "Telecommunication is the transmission of information — voice, da
 category: technology
 tags: ["telecommunication", "communication", "networks", "data transmission"]
 heroImage: "/images/articles/telecommunication-hero.webp"
-heroAlt: "Telecommunication is the transmission of information over distances using electronic or electromagnetic signals, from phone calls to internet data"
+heroAlt: "Telecommunication is the transmission of information — voice, data, text, images, video — across distances using electronic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

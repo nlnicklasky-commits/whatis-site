@@ -5,7 +5,7 @@ description: "World religions is the study of major belief systems including Chr
 category: philosophy
 tags: ["religions", "belief systems", "spirituality", "faith", "theology"]
 heroImage: "/images/articles/world-religions-hero.webp"
-heroAlt: "World religions is the study of major belief systems including Christianity, Islam, Hinduism, Buddhism, and Judaism, their histories, practices, and teachings"
+heroAlt: "World religions is the study of major belief systems including Christianity, Islam, Hinduism, Buddhism, and Judaism"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

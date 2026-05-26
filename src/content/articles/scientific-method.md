@@ -5,7 +5,7 @@ description: "The scientific method is a systematic approach to understanding th
 category: science
 tags: ["scientific method", "science", "research", "hypothesis", "experiment", "observation", "empirical"]
 heroImage: "/images/articles/scientific-method-hero.webp"
-heroAlt: "The scientific method is a systematic process for investigating the natural world through observation, hypothesis, experiment, and analysis"
+heroAlt: "The scientific method is a systematic approach to understanding the natural world through empirical observation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

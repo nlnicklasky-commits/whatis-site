@@ -5,7 +5,7 @@ description: "Zoroastrianism is one of the world's oldest continuously practiced
 category: philosophy
 tags: ["religion", "ancient religions", "persian culture", "monotheism", "spirituality"]
 heroImage: "/images/articles/zoroastrianism-hero.webp"
-heroAlt: "Zoroastrianism is one of the world's oldest monotheistic religions, founded by the prophet Zarathustra in ancient Persia around 1500-500 BCE"
+heroAlt: "Zoroastrianism is one of the world's oldest continuously practiced religions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

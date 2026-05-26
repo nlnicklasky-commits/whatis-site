@@ -5,7 +5,7 @@ description: "Statistical mechanics connects the microscopic behavior of atoms a
 category: science
 tags: ["physics", "statistical mechanics", "thermodynamics", "entropy", "Boltzmann", "quantum mechanics"]
 heroImage: "/images/articles/statistical-mechanics-hero.webp"
-heroAlt: "Statistical mechanics connects the microscopic behavior of atoms and molecules to the macroscopic properties we observe, like temperature and pressure"
+heroAlt: "Statistical mechanics connects the microscopic behavior of atoms and molecules to the macroscopic properties we observe"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

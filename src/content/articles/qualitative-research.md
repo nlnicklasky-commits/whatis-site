@@ -5,7 +5,7 @@ description: "Qualitative research explores human experience through interviews,
 category: science
 tags: ["qualitative research", "research methods", "interviews", "ethnography", "grounded theory", "social science"]
 heroImage: "/images/articles/qualitative-research-hero.webp"
-heroAlt: "Qualitative research explores human experience through interviews, observations, and text analysis to understand the 'why' behind behaviors and beliefs"
+heroAlt: "Qualitative research explores human experience through interviews, observations"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Health insurance is a contract between an individual and an insura
 category: finance
 tags: ["health insurance", "insurance", "healthcare", "medical expenses", "premiums", "deductibles", "finance"]
 heroImage: "/images/articles/health-insurance-hero.webp"
-heroAlt: "Health insurance is a contract where you pay premiums so an insurer covers medical expenses, reducing the financial risk of illness and injury"
+heroAlt: "Health insurance is a contract between an individual and an insurance company in which the insurer agrees to pay for some"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

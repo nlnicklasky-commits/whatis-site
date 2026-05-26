@@ -5,7 +5,7 @@ description: "Botany is the scientific study of plants — their structure, phys
 category: science
 tags: ["botany", "plant biology", "plants", "photosynthesis", "plant taxonomy", "ethnobotany", "ecology"]
 heroImage: "/images/articles/botany-hero.webp"
-heroAlt: "Botany is the scientific study of plants, covering their structure, growth, reproduction, ecology, and vital role in Earth's ecosystems"
+heroAlt: "Botany is the scientific study of plants — their structure, physiology, genetics, ecology, distribution, classification"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Workplace safety is the set of policies, procedures, and practices
 category: business
 tags: ["workplace safety", "business"]
 heroImage: "/images/articles/workplace-safety-hero.webp"
-heroAlt: "Workplace safety covers the policies, practices, and regulations that protect employees from injury, illness, and hazards on the job"
+heroAlt: "Workplace safety is the set of policies, procedures, and practices designed to protect employees from physical injury"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Confucianism is a Chinese philosophical system focused on ethics, 
 category: philosophy
 tags: ["chinese philosophy", "ethics", "social harmony", "confucius", "human relationships", "moral philosophy", "asian history"]
 heroImage: "/images/articles/confucianism-hero.webp"
-heroAlt: "Confucianism is a Chinese philosophical system focused on ethics, social harmony, proper conduct, and moral cultivation founded by Confucius around 500 BCE"
+heroAlt: "Confucianism is a Chinese philosophical system focused on ethics, social harmony, proper conduct"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

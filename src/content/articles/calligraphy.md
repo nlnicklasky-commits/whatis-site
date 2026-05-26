@@ -5,7 +5,7 @@ description: "Calligraphy is the art of forming beautiful, harmonious, and expre
 category: arts-amp-culture
 tags: ["calligraphy", "handwriting", "art", "lettering", "script", "typography"]
 heroImage: "/images/articles/calligraphy-hero.webp"
-heroAlt: "Calligraphy is the art of beautiful handwriting, practiced across cultures using specialized tools to create expressive, decorative letterforms"
+heroAlt: "Calligraphy is the art of forming beautiful, harmonious, and expressive letters using specialized writing instruments"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

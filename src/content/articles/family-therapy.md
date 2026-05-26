@@ -5,7 +5,7 @@ description: "Family therapy is a type of psychotherapy that treats the family u
 category: health-amp-wellness
 tags: ["therapy", "counseling", "psychotherapy", "family dynamics", "mental health"]
 heroImage: "/images/articles/family-therapy-hero.webp"
-heroAlt: "Family therapy is a type of psychotherapy that treats the family unit as a whole to resolve conflicts, improve communication, and strengthen relationships"
+heroAlt: "Family therapy is a type of psychotherapy that treats the family unit as a whole to resolve conflicts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

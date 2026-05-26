@@ -5,7 +5,7 @@ description: "Religion is a system of beliefs, practices, rituals, and ethics or
 category: philosophy
 tags: ["religion", "faith", "spirituality", "theology", "worship", "belief systems", "philosophy"]
 heroImage: "/images/articles/religion-hero.webp"
-heroAlt: "Religion is a system of beliefs, practices, and community centered on questions of meaning, morality, and the sacred across major world traditions"
+heroAlt: "Religion is a system of beliefs, practices, rituals, and ethics organized around questions of ultimate meaning"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

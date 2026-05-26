@@ -5,7 +5,7 @@ description: "YouTube content creation is the process of producing and publishin
 category: technology
 tags: ["digital media", "video production", "online content", "social media"]
 heroImage: "/images/articles/youtube-content-creation-hero.webp"
-heroAlt: "YouTube content creation is the process of producing and publishing video content on YouTube, covering filming, editing, optimization, and audience growth"
+heroAlt: "YouTube content creation is the process of producing and publishing video content on YouTube, covering filming, editing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

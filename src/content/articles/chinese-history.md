@@ -5,7 +5,7 @@ description: "Chinese history spans over 5,000 years of continuous civilization,
 category: history
 tags: ["chinese history", "china", "dynasties", "confucianism", "asian history"]
 heroImage: "/images/articles/chinese-history-hero.webp"
-heroAlt: "Chinese history spans over 5,000 years of continuous civilization, from ancient dynasties and philosophical traditions to modern revolution and reform"
+heroAlt: "Chinese history spans over 5,000 years of continuous civilization"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

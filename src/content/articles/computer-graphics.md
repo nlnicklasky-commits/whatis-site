@@ -5,7 +5,7 @@ description: "Computer graphics is the field of creating, manipulating, and rend
 category: technology
 tags: ["digital art", "visuals", "3d modeling", "animation", "gaming", "virtual reality", "cgi"]
 heroImage: "/images/articles/computer-graphics-hero.webp"
-heroAlt: "Computer graphics is the creation and manipulation of visual content using computers, from 3D rendering and animation to real-time gaming and VR"
+heroAlt: "Computer graphics is the field of creating, manipulating, and rendering visual content using computers"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

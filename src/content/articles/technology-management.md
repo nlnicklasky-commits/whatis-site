@@ -5,7 +5,7 @@ description: "Technology management is the discipline of planning, implementing,
 category: technology
 tags: ["technology management", "it management", "strategy", "project management"]
 heroImage: "/images/articles/technology-management-hero.webp"
-heroAlt: "Technology management is the discipline of planning, implementing, and governing technology resources to achieve organizational goals and competitive advantage"
+heroAlt: "Technology management is the discipline of planning, implementing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

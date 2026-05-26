@@ -5,7 +5,7 @@ description: "Medical terminology is the specialized vocabulary used by healthca
 category: everyday-concepts
 tags: ["medical terminology", "healthcare", "anatomy", "medicine", "Latin", "Greek roots"]
 heroImage: "/images/articles/medical-terminology-hero.webp"
-heroAlt: "Medical terminology is the standardized language used by healthcare professionals to describe the body, diseases, and treatments"
+heroAlt: "Medical terminology is the specialized vocabulary used by healthcare professionals to describe the human body"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

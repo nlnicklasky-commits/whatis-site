@@ -5,7 +5,7 @@ description: "Psychopharmacology is the scientific study of how drugs affect moo
 category: science
 tags: ["psychopharmacology", "psychiatry", "neuroscience", "psychotropic drugs", "antidepressants", "antipsychotics"]
 heroImage: "/images/articles/psychopharmacology-hero.webp"
-heroAlt: "Psychopharmacology studies how drugs affect mood, thought, and behavior by altering brain chemistry, covering antidepressants to antipsychotics"
+heroAlt: "Psychopharmacology is the scientific study of how drugs affect mood, cognition"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "A biography is a nonfiction account of a person's life written by 
 category: everyday-concepts
 tags: ["biography", "literature", "writing", "nonfiction", "history", "memoir"]
 heroImage: "/images/articles/biography-hero.webp"
-heroAlt: "A biography is a detailed written account of a person's life, exploring their experiences, achievements, relationships, and historical significance"
+heroAlt: "A biography is a nonfiction account of a person's life written by someone other than the subject"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Geopolitics is the study of how geography — physical terrain, na
 category: history
 tags: ["geopolitics", "international relations", "geography", "political science", "global power"]
 heroImage: "/images/articles/geopolitics-hero.webp"
-heroAlt: "Geopolitics studies how geography, resources, and territorial control shape international power dynamics, foreign policy, and global conflict"
+heroAlt: "Geopolitics is the study of how geography — physical terrain, natural resources, climate, and location — shapes the power"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

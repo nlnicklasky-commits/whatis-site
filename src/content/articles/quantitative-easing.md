@@ -5,7 +5,7 @@ description: "Quantitative easing (QE) is an unconventional monetary policy tool
 category: finance
 tags: ["quantitative easing", "monetary policy", "central banking", "federal reserve", "interest rates", "inflation"]
 heroImage: "/images/articles/quantitative-easing-hero.webp"
-heroAlt: "Quantitative easing is a central bank policy of buying financial assets to inject money into the economy, lower interest rates, and stimulate growth"
+heroAlt: "Quantitative easing (QE) is an unconventional monetary policy tool in which a central bank creates new money electronically"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

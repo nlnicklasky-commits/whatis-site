@@ -5,7 +5,7 @@ description: "Dream analysis is the practice of examining the imagery, emotions,
 category: science
 tags: ["dream analysis", "psychology", "sleep", "subconscious", "freud", "neuroscience", "dreams"]
 heroImage: "/images/articles/dream-analysis-hero.webp"
-heroAlt: "Dream analysis is the process of interpreting the content and meaning of dreams, drawing on psychology, neuroscience, and symbolic frameworks"
+heroAlt: "Dream analysis is the practice of examining the imagery, emotions, narratives"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Organizational psychology is the scientific study of human behavio
 category: psychology
 tags: ["organizational psychology", "i-o psychology", "workplace psychology", "human resources", "leadership", "job satisfaction"]
 heroImage: "/images/articles/organizational-psychology-hero.webp"
-heroAlt: "Organizational psychology applies psychological science to the workplace, studying motivation, leadership, team dynamics, and job satisfaction"
+heroAlt: "Organizational psychology is the scientific study of human behavior in the workplace"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

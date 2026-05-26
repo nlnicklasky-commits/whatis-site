@@ -5,7 +5,7 @@ description: "Reservoir engineering is the branch of petroleum engineering conce
 category: technology
 tags: ["reservoir engineering", "petroleum", "oil recovery", "fluid flow", "drilling", "energy", "geology"]
 heroImage: "/images/articles/reservoir-engineering-hero.webp"
-heroAlt: "Reservoir engineering optimizes oil and gas extraction from underground formations through fluid flow analysis, recovery methods, and simulation"
+heroAlt: "Reservoir engineering is the branch of petroleum engineering concerned with understanding and optimizing the extraction"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

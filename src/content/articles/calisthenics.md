@@ -5,7 +5,7 @@ description: "Calisthenics is a form of strength training that uses your own bod
 category: health-amp-wellness
 tags: ["calisthenics", "bodyweight", "exercise", "fitness", "strength training"]
 heroImage: "/images/articles/calisthenics-hero.webp"
-heroAlt: "Calisthenics is a form of exercise using your own body weight for resistance, building strength, flexibility, and control without gym equipment"
+heroAlt: "Calisthenics is a form of strength training that uses your own body weight as resistance — push-ups, pull-ups, squats, dips"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

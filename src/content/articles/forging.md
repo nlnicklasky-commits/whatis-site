@@ -5,7 +5,7 @@ description: "Forging is a manufacturing process that shapes metal using localiz
 category: technology
 tags: ["metalworking", "manufacturing", "metallurgy", "strength", "materials science", "industrial process", "blacksmithing"]
 heroImage: "/images/articles/forging-hero.webp"
-heroAlt: "Forging shapes metal using compressive force, producing parts with superior strength for aerospace, automotive, and industrial applications"
+heroAlt: "Forging is a manufacturing process that shapes metal using localized compressive forces"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

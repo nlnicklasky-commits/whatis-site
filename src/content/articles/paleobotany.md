@@ -5,7 +5,7 @@ description: "Paleobotany studies fossil plants and their evolution over 470+ mi
 category: science
 tags: ["paleobotany", "fossil plants", "plant evolution", "paleontology", "botany", "paleoecology", "paleoclimate"]
 heroImage: "/images/articles/paleobotany-hero.webp"
-heroAlt: "Paleobotany studies fossil plants and their evolution over 470+ million years, revealing how vegetation shaped Earth's climate, atmosphere, and ecosystems"
+heroAlt: "Paleobotany studies fossil plants and their evolution over 470+ million years"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -21,12 +21,12 @@ const OUTPUT_LLMS_FULL = path.join(ROOT, 'public', 'llms-full.txt');
 
 // Parse YAML-ish frontmatter (simple parser — no dependency needed)
 function parseFrontmatter(content) {
-  const match = content.match(/^---\n([\s\S]*?)\n---/);
+  const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!match) return null;
   const yaml = match[1];
   const data = {};
 
-  for (const line of yaml.split('\n')) {
+  for (const line of yaml.split(/\r?\n/)) {
     const kv = line.match(/^(\w+):\s*"?(.+?)"?\s*$/);
     if (kv) {
       data[kv[1]] = kv[2].replace(/^["']|["']$/g, '');

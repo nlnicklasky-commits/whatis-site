@@ -5,7 +5,7 @@ description: "Card games are games played with a deck of playing cards, encompas
 category: everyday-concepts
 tags: ["card games", "cards", "games", "strategy", "entertainment", "playing cards"]
 heroImage: "/images/articles/card-games-hero.webp"
-heroAlt: "Card games are games played with a deck of playing cards, encompassing thousands of variations from poker and bridge to solitaire and collectible card games"
+heroAlt: "Card games are games played with a deck of playing cards, encompassing thousands of variations from poker and bridge"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

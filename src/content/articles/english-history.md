@@ -5,7 +5,7 @@ description: "English history covers over 2,000 years of events that shaped Engl
 category: history
 tags: ["english history", "england", "british history", "monarchy", "parliament"]
 heroImage: "/images/articles/english-history-hero.webp"
-heroAlt: "English history covers over 2,000 years of events that shaped England, from Roman Britain through the monarchy, parliamentary democracy, and the British Empire"
+heroAlt: "English history covers over 2,000 years of events that shaped England, from Roman Britain through the monarchy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Market research is the systematic process of collecting, analyzing
 category: business
 tags: ["marketing", "market research", "business"]
 heroImage: "/images/articles/market-research-hero.webp"
-heroAlt: "Market research is the process of gathering and analyzing data about customers, competitors, and markets to make smarter business decisions"
+heroAlt: "Market research is the systematic process of collecting, analyzing, and interpreting data about a market, its customers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

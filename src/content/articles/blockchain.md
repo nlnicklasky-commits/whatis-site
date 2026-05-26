@@ -5,7 +5,7 @@ description: "Blockchain is a distributed digital ledger that records transactio
 category: technology
 tags: ["blockchain", "cryptocurrency", "distributed-ledger", "bitcoin", "decentralization", "web3"]
 heroImage: "/images/articles/blockchain-hero.webp"
-heroAlt: "Learn how blockchain technology works: distributed ledgers, cryptography, consensus mechanisms, and real-world applications beyond cryptocurrency"
+heroAlt: "Blockchain is a distributed digital ledger that records transactions across many computers in a way that makes it nearly"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

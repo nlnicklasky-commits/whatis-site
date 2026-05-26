@@ -5,7 +5,7 @@ description: "The history of technology is the record of everything humans have 
 category: history
 tags: ["history of technology", "technology", "innovation", "industrial revolution"]
 heroImage: "/images/articles/the-history-of-technology-hero.webp"
-heroAlt: "The history of technology tracks how human tool-making evolved from stone axes to smartphones across 3"
+heroAlt: "The history of technology is the record of everything humans have built"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

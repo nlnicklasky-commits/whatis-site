@@ -5,7 +5,7 @@ description: "Carbohydrate chemistry is the branch of organic chemistry and bioc
 category: science
 tags: ["carbohydrate chemistry", "organic chemistry", "biochemistry", "sugars", "glucose", "polysaccharides", "monosaccharides"]
 heroImage: "/images/articles/carbohydrate-chemistry-hero.webp"
-heroAlt: "Carbohydrate chemistry studies the structure, synthesis, and reactions of sugars and polysaccharides, from glucose molecules to cellulose and starch"
+heroAlt: "Carbohydrate chemistry is the branch of organic chemistry and biochemistry that studies the structure, properties, synthesis"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

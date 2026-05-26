@@ -5,7 +5,7 @@ description: "Measure theory is the mathematical study of assigning sizes to set
 category: everyday-concepts
 tags: ["measure theory", "mathematics", "probability", "integration", "analysis", "Lebesgue"]
 heroImage: "/images/articles/measure-theory-hero.webp"
-heroAlt: "Measure theory is the mathematical study of assigning sizes to sets, forming the foundation of modern probability and integration"
+heroAlt: "Measure theory is the mathematical study of assigning sizes to sets"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

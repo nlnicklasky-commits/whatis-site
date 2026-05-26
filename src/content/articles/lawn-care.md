@@ -5,7 +5,7 @@ description: "Lawn care is the practice of maintaining a healthy, attractive gra
 category: everyday-concepts
 tags: ["lawn care", "gardening", "yard maintenance", "grass", "landscaping", "home improvement"]
 heroImage: "/images/articles/lawn-care-hero.webp"
-heroAlt: "Lawn care is the practice of maintaining a healthy, attractive grass lawn through mowing, watering, fertilizing, and pest management"
+heroAlt: "Lawn care is the practice of maintaining a healthy, attractive grass lawn through mowing, watering, fertilizing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

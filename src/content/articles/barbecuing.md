@@ -5,7 +5,7 @@ description: "Barbecuing is the method of cooking meat slowly — typically for 
 category: everyday-concepts
 tags: ["barbecuing", "bbq", "smoking food", "outdoor cooking", "low and slow", "brisket"]
 heroImage: "/images/articles/barbecuing-hero.webp"
-heroAlt: "Barbecuing is the slow cooking of meat over low, indirect heat with wood smoke, producing tender, flavorful results distinct from grilling"
+heroAlt: "Barbecuing is the method of cooking meat slowly — typically for hours — over low, indirect heat with smoke from burning wood"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

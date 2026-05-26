@@ -5,7 +5,7 @@ description: "Rhinology is the medical subspecialty devoted to the nose and para
 category: health-amp-wellness
 tags: ["medical", "rhinology", "ent", "nasal disorders"]
 heroImage: "/images/articles/rhinology-hero.webp"
-heroAlt: "Rhinology is the medical subspecialty focused on diagnosing and treating disorders of the nose and sinuses, from chronic sinusitis to nasal tumors"
+heroAlt: "Rhinology is the medical subspecialty devoted to the nose and paranasal sinuses"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

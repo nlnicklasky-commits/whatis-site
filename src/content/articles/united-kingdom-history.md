@@ -5,7 +5,7 @@ description: "United Kingdom history is the story of four nations — England, S
 category: history
 tags: ["united kingdom history", "uk", "british history", "england", "scotland"]
 heroImage: "/images/articles/united-kingdom-history-hero.webp"
-heroAlt: "United Kingdom history covers Britain from Roman times through the medieval period, the British Empire, two world wars, and the modern era"
+heroAlt: "United Kingdom history is the story of four nations — England, Scotland, Wales, and Northern Ireland"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

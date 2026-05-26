@@ -5,7 +5,7 @@ description: "English is a global language spoken by over 1.5 billion people. Ex
 category: everyday-concepts
 tags: ["english language", "linguistics", "global language", "communication", "grammar", "vocabulary"]
 heroImage: "/images/articles/english-language-hero.webp"
-heroAlt: "English is a global language spoken by over 1"
+heroAlt: "English is a global language spoken by over 1.5 billion people. Explore its history, structure, dialects, quirks"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

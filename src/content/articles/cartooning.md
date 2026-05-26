@@ -5,7 +5,7 @@ description: "Cartooning is the art of creating cartoons — simplified, often h
 category: arts-amp-culture
 tags: ["cartooning", "cartoons", "comic art", "illustration", "humor", "satire"]
 heroImage: "/images/articles/cartooning-hero.webp"
-heroAlt: "Cartooning is the art of creating cartoons — simplified, often humorous drawings used in comic strips, editorial commentary, animation, and illustration"
+heroAlt: "Cartooning is the art of creating cartoons — simplified, often humorous drawings used in comic strips, editorial commentary"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

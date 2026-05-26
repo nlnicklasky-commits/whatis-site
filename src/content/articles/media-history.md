@@ -5,7 +5,7 @@ description: "Media history is the study of how communication technologies and i
 category: history
 tags: ["media", "journalism", "broadcasting"]
 heroImage: "/images/articles/media-history-hero.webp"
-heroAlt: "Media history traces how communication technologies evolved from printing presses and telegraphs to radio, TV, the internet, and social media"
+heroAlt: "Media history is the study of how communication technologies and institutions have developed over time"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "The history of space exploration is the story of how humans went f
 category: history
 tags: ["space exploration", "space race", "nasa", "rockets", "satellites"]
 heroImage: "/images/articles/the-history-of-space-exploration-hero.webp"
-heroAlt: "The history of space exploration covers the journey from early rocketry to the Moon landings, space stations, and Mars missions"
+heroAlt: "The history of space exploration is the story of how humans went from staring at the sky and making up stories about it"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

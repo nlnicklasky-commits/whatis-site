@@ -5,7 +5,7 @@ description: "Circus arts encompass the performance disciplines of acrobatics, a
 category: arts-amp-culture
 tags: ["circus arts", "acrobatics", "aerial arts", "juggling", "performance", "entertainment"]
 heroImage: "/images/articles/circus-arts-hero.webp"
-heroAlt: "Circus arts encompass the performance disciplines of acrobatics, aerial arts, juggling, clowning, and other physical feats performed for entertainment"
+heroAlt: "Circus arts encompass the performance disciplines of acrobatics, aerial arts, juggling, clowning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "European history is the study of the people, events, ideas, and in
 category: history
 tags: ["european history", "europe", "renaissance", "revolutions", "world wars"]
 heroImage: "/images/articles/european-history-hero.webp"
-heroAlt: "European history spans from ancient Greece and Rome through the Renaissance, revolutions, world wars, and the formation of the modern European Union"
+heroAlt: "European history is the study of the people, events, ideas, and institutions of the European continent from prehistoric"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

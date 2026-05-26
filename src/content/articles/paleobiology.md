@@ -5,7 +5,7 @@ description: "Paleobiology is the scientific study of ancient life through the l
 category: science
 tags: ["paleobiology", "paleontology", "fossils", "evolution", "paleoecology", "ancient life", "biology"]
 heroImage: "/images/articles/paleobiology-hero.webp"
-heroAlt: "Paleobiology studies ancient life through fossils, combining biology and geology to understand evolution, extinction, and how organisms shaped Earth"
+heroAlt: "Paleobiology is the scientific study of ancient life through the lens of biological principles"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

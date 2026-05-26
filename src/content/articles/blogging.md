@@ -5,7 +5,7 @@ description: "Blogging is the practice of writing and publishing content on a we
 category: everyday-concepts
 tags: ["blogging", "writing", "content creation", "digital media", "web publishing", "online writing"]
 heroImage: "/images/articles/blogging-hero.webp"
-heroAlt: "Blogging is the practice of writing and publishing content on a website, typically in a conversational style, covering personal interests or professional"
+heroAlt: "Blogging is the practice of writing and publishing content on a website, typically in a conversational style"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

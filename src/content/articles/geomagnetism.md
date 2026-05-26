@@ -5,7 +5,7 @@ description: "Geomagnetism is the study of Earth's magnetic field — its origin
 category: science
 tags: ["geomagnetism", "earth's magnetic field", "geophysics", "solar wind", "magnetosphere", "magnetic poles", "space weather"]
 heroImage: "/images/articles/geomagnetism-hero.webp"
-heroAlt: "Geomagnetism is the study of Earth's magnetic field — its origin in the liquid iron core, its role shielding life from solar wind, and its periodic reversals"
+heroAlt: "Geomagnetism is the study of Earth's magnetic field — its origin in the liquid iron core"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

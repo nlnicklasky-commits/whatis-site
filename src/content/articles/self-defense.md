@@ -5,7 +5,7 @@ description: "Self-defense is the act of protecting yourself or others from phys
 category: health-amp-wellness
 tags: ["self-defense", "personal safety", "martial arts", "conflict management"]
 heroImage: "/images/articles/self-defense-hero.webp"
-heroAlt: "Self-defense is the right and ability to protect yourself from physical harm using awareness, de-escalation, and physical techniques"
+heroAlt: "Self-defense is the act of protecting yourself or others from physical harm through awareness, avoidance, de-escalation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

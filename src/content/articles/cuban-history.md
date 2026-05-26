@@ -5,7 +5,7 @@ description: "Cuban history spans from the indigenous Taino people through Spani
 category: history
 tags: ["cuban history", "cuba", "cuban revolution", "fidel castro", "cold war"]
 heroImage: "/images/articles/cuban-history-hero.webp"
-heroAlt: "Cuban history spans from the indigenous Taino people through Spanish colonialism, U"
+heroAlt: "Cuban history spans from the indigenous Taino people through Spanish colonialism, U.S. influence, the 1959 revolution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

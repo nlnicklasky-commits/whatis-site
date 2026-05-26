@@ -5,7 +5,7 @@ description: "Terraforming is the hypothetical process of modifying a planet's a
 category: science
 tags: ["terraforming", "planetary science", "space colonization", "astrobiology"]
 heroImage: "/images/articles/terraforming-hero.webp"
-heroAlt: "Terraforming is the hypothetical process of modifying a planet's atmosphere, temperature, and surface to make it habitable for Earth life"
+heroAlt: "Terraforming is the hypothetical process of modifying a planet's atmosphere, temperature"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

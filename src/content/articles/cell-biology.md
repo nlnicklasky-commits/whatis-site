@@ -5,7 +5,7 @@ description: "Cell biology is the scientific discipline that studies cells — t
 category: science
 tags: ["cell biology", "biology", "cells", "molecular biology", "organelles", "genetics", "biochemistry"]
 heroImage: "/images/articles/cell-biology-hero.webp"
-heroAlt: "Cell biology studies the structure, function, and behavior of cells — the fundamental units of life that make up every living organism on Earth"
+heroAlt: "Cell biology is the scientific discipline that studies cells — the basic structural, functional"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

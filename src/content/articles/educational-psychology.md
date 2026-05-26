@@ -5,7 +5,7 @@ description: "Educational psychology is the branch of psychology that studies ho
 category: psychology
 tags: ["educational psychology", "learning", "psychology", "education", "teaching", "cognitive development", "motivation"]
 heroImage: "/images/articles/educational-psychology-hero.webp"
-heroAlt: "Educational psychology studies how people learn, applying psychological science to improve teaching methods, curriculum design, and student outcomes"
+heroAlt: "Educational psychology is the branch of psychology that studies how people learn and how educational environments can be"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

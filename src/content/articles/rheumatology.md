@@ -5,7 +5,7 @@ description: "Rheumatology is the medical specialty focused on diagnosing and tr
 category: health-amp-wellness
 tags: ["medical", "rheumatology", "arthritis", "autoimmune"]
 heroImage: "/images/articles/rheumatology-hero.webp"
-heroAlt: "Rheumatology is the medical specialty focused on diagnosing and treating arthritis, autoimmune diseases, and other disorders of joints and connective tissue"
+heroAlt: "Rheumatology is the medical specialty focused on diagnosing and treating arthritis, autoimmune diseases"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

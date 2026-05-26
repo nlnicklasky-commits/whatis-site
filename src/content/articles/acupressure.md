@@ -5,7 +5,7 @@ description: "Acupressure is a traditional healing technique rooted in Chinese m
 category: health-amp-wellness
 tags: ["acupressure", "traditional chinese medicine", "alternative medicine", "wellness"]
 heroImage: "/images/articles/acupressure-hero.webp"
-heroAlt: "Acupressure is a traditional Chinese healing practice that applies pressure to specific body points to relieve pain and promote wellness"
+heroAlt: "Acupressure is a traditional healing technique rooted in Chinese medicine that involves applying physical pressure"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

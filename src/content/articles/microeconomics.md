@@ -5,7 +5,7 @@ description: "Microeconomics is the branch of economics that studies how individ
 category: finance
 tags: ["microeconomics", "economics", "supply and demand", "market structure", "consumer behavior", "pricing", "competition"]
 heroImage: "/images/articles/microeconomics-hero.webp"
-heroAlt: "Microeconomics studies how individuals and businesses make decisions about scarce resources, set prices, and interact in markets"
+heroAlt: "Microeconomics is the branch of economics that studies how individual people, households"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

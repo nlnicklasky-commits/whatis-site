@@ -5,7 +5,7 @@ description: "Medical ethics is the set of moral principles guiding healthcare d
 category: health-amp-wellness
 tags: ["ethics", "medical ethics", "bioethics"]
 heroImage: "/images/articles/medical-ethics-hero.webp"
-heroAlt: "Medical ethics is the set of moral principles guiding healthcare decisions, from patient consent and confidentiality to end-of-life care and research"
+heroAlt: "Medical ethics is the set of moral principles guiding healthcare decisions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

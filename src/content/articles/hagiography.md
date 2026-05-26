@@ -5,7 +5,7 @@ description: Hagiography is the writing of saints' lives, a literary genre that 
 category: history
 tags: ["hagiography", "saints", "religious studies", "biography", "christianity"]
 heroImage: "/images/articles/hagiography-hero.webp"
-heroAlt: "Hagiography is the writing of saints' lives, a literary genre that blends biography, theology, and moral instruction to celebrate holy figures"
+heroAlt: "Hagiography is the writing of saints' lives, a literary genre that blends biography, theology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

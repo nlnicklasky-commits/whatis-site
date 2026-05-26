@@ -5,7 +5,7 @@ description: "Thesaurus construction is the process of building structured vocab
 category: technology
 tags: ["thesaurus construction", "information retrieval", "knowledge organization"]
 heroImage: "/images/articles/thesaurus-construction-hero.webp"
-heroAlt: "Thesaurus construction is the process of building structured vocabularies that map relationships between terms for information retrieval and knowledge"
+heroAlt: "Thesaurus construction is the process of building structured vocabularies that map relationships between terms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

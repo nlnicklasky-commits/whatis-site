@@ -5,7 +5,7 @@ description: "Neurochemistry is the study of the chemical molecules, reactions, 
 category: science
 tags: ["neurochemistry", "neurotransmitters", "neuroscience", "brain chemistry", "psychopharmacology", "biochemistry"]
 heroImage: "/images/articles/neurochemistry-hero.webp"
-heroAlt: "Neurochemistry studies the chemical processes in the brain, including neurotransmitters, receptors, and how brain chemistry shapes mood and behavior"
+heroAlt: "Neurochemistry is the study of the chemical molecules, reactions, and processes that operate within the nervous system"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Genealogy is the study of family history and lineage, tracing ance
 category: history
 tags: ["genealogy", "family history", "ancestry", "family tree", "dna testing"]
 heroImage: "/images/articles/genealogy-hero.webp"
-heroAlt: "Genealogy is the study of family history and lineage, tracing ancestors through records, DNA testing, and oral traditions to build a picture of your past"
+heroAlt: "Genealogy is the study of family history and lineage, tracing ancestors through records, DNA testing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

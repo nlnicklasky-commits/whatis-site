@@ -5,7 +5,7 @@ description: "Anesthesiology is the branch of medicine dedicated to pain relief,
 category: health-amp-wellness
 tags: ["anesthesiology", "anesthesia", "medicine", "surgery", "pain management"]
 heroImage: "/images/articles/anesthesiology-hero.webp"
-heroAlt: "Anesthesiology is the medical specialty focused on pain management, sedation, and life support during surgery and other procedures"
+heroAlt: "Anesthesiology is the branch of medicine dedicated to pain relief, sedation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Biotechnology is the application of biological systems, living org
 category: technology
 tags: ["biotechnology", "genetic engineering", "molecular biology", "pharmaceuticals", "agriculture", "bioremediation", "gene therapy"]
 heroImage: "/images/articles/biotechnology-hero.webp"
-heroAlt: "Biotechnology uses living organisms and biological systems to develop products and technologies across medicine, agriculture, and industry"
+heroAlt: "Biotechnology is the application of biological systems, living organisms, or their derivatives to develop products, processes"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

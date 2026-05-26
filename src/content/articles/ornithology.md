@@ -5,7 +5,7 @@ description: "Ornithology is the scientific study of birds — their biology, be
 category: science
 tags: ["ornithology", "birds", "zoology", "avian biology", "bird watching", "ecology", "conservation"]
 heroImage: "/images/articles/ornithology-hero.webp"
-heroAlt: "Ornithology is the scientific study of birds — their anatomy, behavior, evolution, ecology, and conservation across roughly 10,000 living species"
+heroAlt: "Ornithology is the scientific study of birds — their biology, behavior, evolution, ecology, and conservation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Sales is the process of identifying potential buyers, understandin
 category: business
 tags: ["sales", "selling", "business", "customer service"]
 heroImage: "/images/articles/sales-hero.webp"
-heroAlt: "Sales is the process of persuading someone to exchange money for a product or service, driving revenue and growth for every business"
+heroAlt: "Sales is the process of identifying potential buyers, understanding their needs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Tax law is the body of legal rules and regulations that govern how
 category: finance
 tags: ["tax law", "taxation", "income tax", "sales tax", "property tax", "tax deductions", "tax credits", "tax evasion"]
 heroImage: "/images/articles/tax-law-hero.webp"
-heroAlt: "Tax law is the body of legal rules governing how governments impose, collect, and enforce taxes on individuals, businesses, and transactions"
+heroAlt: "Tax law is the body of legal rules and regulations that govern how governments levy, collect"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

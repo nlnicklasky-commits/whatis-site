@@ -5,7 +5,7 @@ description: "Engineering history is the study of how humans have designed, buil
 category: history
 tags: ["engineering history", "engineering", "technology", "industrial revolution"]
 heroImage: "/images/articles/engineering-history-hero.webp"
-heroAlt: "Engineering history traces how humans have designed and built structures, machines, and systems from ancient aqueducts to modern microchips"
+heroAlt: "Engineering history is the study of how humans have designed, built, and improved the structures, machines"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

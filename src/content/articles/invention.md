@@ -5,7 +5,7 @@ description: "Invention is the creation of something genuinely new — a device,
 category: technology
 tags: ["invention", "technology", "problem solving", "creativity", "patent", "engineering", "discovery"]
 heroImage: "/images/articles/invention-hero.webp"
-heroAlt: "Invention is the creation of something genuinely new — a device, process, or method that didn't exist before — through problem-solving and experimentation"
+heroAlt: "Invention is the creation of something genuinely new — a device, process, or method that didn't exist before"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

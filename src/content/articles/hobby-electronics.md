@@ -5,7 +5,7 @@ description: "Hobby electronics is the recreational pursuit of building, modifyi
 category: technology
 tags: ["hobby electronics", "electronics", "diy", "stem", "circuitry", "arduino", "raspberry pi"]
 heroImage: "/images/articles/hobby-electronics-hero.webp"
-heroAlt: "Hobby electronics is the recreational pursuit of building, modifying, and experimenting with electronic circuits, from simple LED projects to complex robots"
+heroAlt: "Hobby electronics is the recreational pursuit of building, modifying, and experimenting with electronic circuits"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

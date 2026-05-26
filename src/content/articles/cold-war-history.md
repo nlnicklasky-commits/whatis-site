@@ -5,7 +5,7 @@ description: "Cold War history covers the 45-year geopolitical standoff between 
 category: history
 tags: ["cold war", "geopolitics", "soviet union", "united states", "communism"]
 heroImage: "/images/articles/cold-war-history-hero.webp"
-heroAlt: "Cold War history covers the 45-year geopolitical standoff between the U"
+heroAlt: "Cold War history covers the 45-year geopolitical standoff between the U.S. and Soviet Union from 1947 to 1991"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

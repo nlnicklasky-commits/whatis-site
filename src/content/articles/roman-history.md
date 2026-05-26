@@ -5,7 +5,7 @@ description: "Roman history spans over 1,200 years, from a small Italian village
 category: history
 tags: ["ancient rome", "roman empire", "roman republic", "classical history"]
 heroImage: "/images/articles/roman-history-hero.webp"
-heroAlt: "Roman history spans over 1,200 years, from a small Italian village to the most powerful empire in the ancient world, shaping law, language, and culture"
+heroAlt: "Roman history spans over 1,200 years, from a small Italian village to the most powerful empire in the ancient world"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

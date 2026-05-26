@@ -5,7 +5,7 @@ description: "Shipbuilding is the design, engineering, and construction of ships
 category: technology
 tags: ["shipbuilding", "naval architecture", "maritime", "construction", "engineering", "vessels", "marine"]
 heroImage: "/images/articles/shipbuilding-hero.webp"
-heroAlt: "Shipbuilding is the design and construction of ships and marine vessels, from ancient wooden craft to modern steel cargo ships and naval warships"
+heroAlt: "Shipbuilding is the design, engineering, and construction of ships and other marine vessels"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

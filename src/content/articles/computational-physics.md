@@ -5,7 +5,7 @@ description: "Computational physics is the branch of physics that uses numerical
 category: science
 tags: ["physics", "computational science", "simulation", "numerical methods", "scientific computing", "modeling", "research"]
 heroImage: "/images/articles/computational-physics-hero.webp"
-heroAlt: "Computational physics uses numerical algorithms and computer simulations to solve physics problems too complex for pen-and-paper math"
+heroAlt: "Computational physics is the branch of physics that uses numerical algorithms, computer simulations"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

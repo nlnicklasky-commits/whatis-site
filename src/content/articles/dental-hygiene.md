@@ -5,7 +5,7 @@ description: "Dental hygiene is the practice of keeping your mouth, teeth, and g
 category: health-amp-wellness
 tags: ["dental hygiene", "oral health", "teeth", "preventive care"]
 heroImage: "/images/articles/dental-hygiene-hero.webp"
-heroAlt: "Dental hygiene is the practice of keeping your mouth, teeth, and gums clean and healthy to prevent cavities, gum disease, and other oral health problems"
+heroAlt: "Dental hygiene is the practice of keeping your mouth, teeth, and gums clean and healthy to prevent cavities, gum disease"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

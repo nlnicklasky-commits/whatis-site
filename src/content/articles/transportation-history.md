@@ -5,7 +5,7 @@ description: "Transportation history traces how humans moved people and goods, f
 category: history
 tags: ["transportation history", "transport", "railways", "aviation", "automobiles"]
 heroImage: "/images/articles/transportation-history-hero.webp"
-heroAlt: "Transportation history traces how humans moved people and goods, from ancient roads to railways, automobiles, and aviation that reshaped civilization"
+heroAlt: "Transportation history traces how humans moved people and goods, from ancient roads to railways, automobiles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

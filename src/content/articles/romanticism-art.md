@@ -5,7 +5,7 @@ description: "Romanticism was an artistic and intellectual movement that swept t
 category: arts-amp-culture
 tags: ["romantic art", "19th century art", "emotion", "individualism", "sublime", "art movement"]
 heroImage: "/images/articles/romanticism-art-hero.webp"
-heroAlt: "Romanticism was a 19th-century art movement that prized emotion, individualism, and the sublime power of nature over rational order"
+heroAlt: "Romanticism was an artistic and intellectual movement that swept through Europe and America from roughly 1790 to 1850"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

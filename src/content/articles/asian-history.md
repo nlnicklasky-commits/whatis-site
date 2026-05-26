@@ -5,7 +5,7 @@ description: "Asian history encompasses the political, cultural, economic, and s
 category: history
 tags: ["asian history", "asia", "china", "india", "japan", "silk road"]
 heroImage: "/images/articles/asian-history-hero.webp"
-heroAlt: "Asian history covers thousands of years of civilization across the world's largest continent, from ancient China and India to modern geopolitics"
+heroAlt: "Asian history encompasses the political, cultural, economic, and social developments across Earth's largest and most"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

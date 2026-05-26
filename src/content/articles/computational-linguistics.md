@@ -5,7 +5,7 @@ description: "Computational linguistics is the scientific discipline that uses c
 category: technology
 tags: ["nlp", "ai", "linguistics", "computer science", "machine learning", "natural language processing", "data science"]
 heroImage: "/images/articles/computational-linguistics-hero.webp"
-heroAlt: "Computational linguistics combines linguistics and computer science to build systems that process, understand, and generate human language"
+heroAlt: "Computational linguistics is the scientific discipline that uses computational methods — algorithms, statistical models"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

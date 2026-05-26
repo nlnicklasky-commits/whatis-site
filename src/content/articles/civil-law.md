@@ -5,7 +5,7 @@ description: "Civil law is the body of law governing disputes between private pa
 category: everyday-concepts
 tags: ["civil law", "law", "legal system", "courts", "contracts", "justice"]
 heroImage: "/images/articles/civil-law-hero.webp"
-heroAlt: "Civil law is the body of law governing disputes between private parties, covering contracts, property, torts, and family matters — distinct from criminal law"
+heroAlt: "Civil law is the body of law governing disputes between private parties, covering contracts, property, torts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

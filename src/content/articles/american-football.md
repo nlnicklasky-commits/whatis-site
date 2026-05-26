@@ -5,7 +5,7 @@ description: "American football is a team sport in which two teams of 11 players
 category: sports
 tags: ["american football", "football", "nfl", "sports", "gridiron", "super bowl"]
 heroImage: "/images/articles/american-football-hero.webp"
-heroAlt: "American football is a team sport played on a 100-yard field where two teams of 11 compete to advance an oval ball into the opposing end zone"
+heroAlt: "American football is a team sport in which two teams of 11 players each compete on a 100-yard field"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

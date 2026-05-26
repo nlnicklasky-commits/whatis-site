@@ -5,7 +5,7 @@ description: "Turkish history covers the story of the land we now call Turkey â€
 category: history
 tags: ["turkish history", "turkey", "ottoman empire", "ataturk", "anatolia"]
 heroImage: "/images/articles/turkish-history-hero.webp"
-heroAlt: "Turkish history spans from ancient Anatolian civilizations through the Ottoman Empire to the modern Republic of Turkey founded by Ataturk in 1923"
+heroAlt: "Turkish history covers the story of the land we now call Turkey"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

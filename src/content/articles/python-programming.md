@@ -5,7 +5,7 @@ description: "Python is a high-level, general-purpose programming language creat
 category: technology
 tags: ["python", "programming", "software development", "data science", "web development", "automation", "scripting"]
 heroImage: "/images/articles/python-programming-hero.webp"
-heroAlt: "Python is a high-level programming language prized for readability and versatility, used in data science, web development, AI, automation, and more"
+heroAlt: "Python is a high-level, general-purpose programming language created by Guido van Rossum and first released in 1991"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

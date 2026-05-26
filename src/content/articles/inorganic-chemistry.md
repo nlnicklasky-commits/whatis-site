@@ -5,7 +5,7 @@ description: "Inorganic chemistry studies compounds not based on carbon-hydrogen
 category: science
 tags: ["inorganic chemistry", "chemistry", "elements", "compounds", "catalysis", "material science", "periodic table"]
 heroImage: "/images/articles/inorganic-chemistry-hero.webp"
-heroAlt: "Inorganic chemistry studies compounds not based on carbon-hydrogen bonds, covering metals, minerals, catalysts, and materials that shape modern technology"
+heroAlt: "Inorganic chemistry studies compounds not based on carbon-hydrogen bonds, covering metals, minerals, catalysts"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

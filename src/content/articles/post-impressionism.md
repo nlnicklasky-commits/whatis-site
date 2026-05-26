@@ -5,7 +5,7 @@ description: "Post-Impressionism is a term for the diverse art styles that emerg
 category: arts-amp-culture
 tags: ["post-impressionism", "art movement", "vincent van gogh", "paul cézanne", "georges seurat", "paul gauguin"]
 heroImage: "/images/articles/post-impressionism-hero.webp"
-heroAlt: "Post-Impressionism was an art movement featuring Van Gogh, Cezanne, and Gauguin who pushed beyond Impressionism toward personal expression"
+heroAlt: "Post-Impressionism is a term for the diverse art styles that emerged in France between roughly 1886 and 1910"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: Historical piracy is the practice of robbery and violence at sea, s
 category: history
 tags: ["historical piracy", "pirates", "maritime history", "golden age of piracy", "privateers"]
 heroImage: "/images/articles/historical-piracy-hero.webp"
-heroAlt: "Historical piracy is the practice of robbery and violence at sea, spanning thousands of years from ancient mariners to the Golden Age of the 1700s"
+heroAlt: "Historical piracy is the practice of robbery and violence at sea"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

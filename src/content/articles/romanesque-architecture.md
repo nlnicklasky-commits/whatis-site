@@ -5,7 +5,7 @@ description: "Romanesque architecture is the medieval European building style kn
 category: arts-amp-culture
 tags: ["medieval architecture", "romanesque", "european architecture", "church architecture", "cathedral", "arches"]
 heroImage: "/images/articles/romanesque-architecture-hero.webp"
-heroAlt: "Romanesque architecture is the medieval European building style known for thick walls, round arches, and massive towers built from the 10th to 12th centuries"
+heroAlt: "Romanesque architecture is the medieval European building style known for thick walls, round arches"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

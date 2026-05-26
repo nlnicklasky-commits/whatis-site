@@ -5,7 +5,7 @@ description: "Theoretical physics uses mathematical models to explain and predic
 category: science
 tags: ["theoretical physics", "physics", "quantum mechanics", "general relativity"]
 heroImage: "/images/articles/theoretical-physics-hero.webp"
-heroAlt: "Theoretical physics uses mathematical models to explain and predict natural phenomena, from subatomic particles to the structure of the universe itself"
+heroAlt: "Theoretical physics uses mathematical models to explain and predict natural phenomena"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

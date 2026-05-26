@@ -5,7 +5,7 @@ description: "American history is the study of the people, events, ideas, and fo
 category: history
 tags: ["american history", "us history", "united states", "american revolution"]
 heroImage: "/images/articles/american-history-hero.webp"
-heroAlt: "American history covers the story of the United States from Indigenous civilizations through colonization, revolution, civil war, and modern era"
+heroAlt: "American history is the study of the people, events, ideas, and forces that shaped the United States"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

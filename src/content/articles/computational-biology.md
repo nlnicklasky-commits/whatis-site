@@ -5,7 +5,7 @@ description: "Computational biology is the field that applies mathematical model
 category: science
 tags: ["computational biology", "bioinformatics", "biology", "computer science", "genomics", "data science", "ai"]
 heroImage: "/images/articles/computational-biology-hero.webp"
-heroAlt: "Computational biology uses algorithms, statistics, and computing power to analyze biological data, from DNA sequences to protein structures"
+heroAlt: "Computational biology is the field that applies mathematical modeling, statistical analysis"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

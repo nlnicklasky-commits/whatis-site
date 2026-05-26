@@ -5,7 +5,7 @@ description: Health law is the body of legal rules governing healthcare delivery
 category: law
 tags: ["health law", "healthcare", "medical ethics", "patient rights", "regulation"]
 heroImage: "/images/articles/health-law-hero.webp"
-heroAlt: "Health law is the body of legal rules governing healthcare delivery, patient rights, medical ethics, insurance, and public health regulation"
+heroAlt: "Health law is the body of legal rules governing healthcare delivery, patient rights, medical ethics, insurance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Structural engineering is the branch of engineering that designs b
 category: technology
 tags: ["engineering", "structural engineering", "construction", "civil engineering", "architecture", "materials science"]
 heroImage: "/images/articles/structural-engineering-hero.webp"
-heroAlt: "Structural engineering is the branch of engineering that designs buildings, bridges, and other structures to safely resist loads and forces"
+heroAlt: "Structural engineering is the branch of engineering that designs buildings, bridges"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

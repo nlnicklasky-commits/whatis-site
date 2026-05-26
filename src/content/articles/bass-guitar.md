@@ -5,7 +5,7 @@ description: "The bass guitar is a stringed instrument that produces low-frequen
 category: arts-amp-culture
 tags: ["bass guitar", "musical instrument", "low frequency", "rhythm section", "electric bass", "funk"]
 heroImage: "/images/articles/bass-guitar-hero.webp"
-heroAlt: "The bass guitar is a stringed instrument that produces low-frequency tones, providing rhythmic and harmonic foundation in virtually every genre of modern music"
+heroAlt: "The bass guitar is a stringed instrument that produces low-frequency tones"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

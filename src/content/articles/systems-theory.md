@@ -5,7 +5,7 @@ description: "Systems theory is the interdisciplinary study of systems — organ
 category: science
 tags: ["philosophy", "systems theory", "complexity", "cybernetics", "interdisciplinary science", "systems thinking"]
 heroImage: "/images/articles/systems-theory-hero.webp"
-heroAlt: "Systems theory is the study of how complex wholes emerge from interacting parts, applicable across biology, engineering, sociology, and management"
+heroAlt: "Systems theory is the interdisciplinary study of systems — organized wholes made up of interacting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

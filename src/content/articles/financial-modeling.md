@@ -5,7 +5,7 @@ description: "Financial modeling builds spreadsheet-based representations of a c
 category: finance
 tags: ["finance", "modeling", "excel", "valuation", "forecasting", "investment banking", "financial analysis"]
 heroImage: "/images/articles/financial-modeling-hero.webp"
-heroAlt: "Financial modeling builds spreadsheet-based representations of a company's finances to forecast performance and value investments"
+heroAlt: "Financial modeling builds spreadsheet-based representations of a company's finances to forecast performance and value"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

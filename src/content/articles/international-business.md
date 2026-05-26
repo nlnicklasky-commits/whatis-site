@@ -5,7 +5,7 @@ description: "International business is any commercial activity that crosses nat
 category: finance
 tags: ["international business", "global business", "trade", "foreign direct investment", "globalization", "export", "import"]
 heroImage: "/images/articles/international-business-hero.webp"
-heroAlt: "International business is commercial activity that crosses national borders, from exporting products to operating subsidiaries in foreign countries"
+heroAlt: "International business is any commercial activity that crosses national borders"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

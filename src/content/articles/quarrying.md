@@ -5,7 +5,7 @@ description: "Quarrying is the process of extracting stone, sand, gravel, and ot
 category: technology
 tags: ["quarrying", "mining", "stone", "construction materials", "geology", "aggregates", "extraction"]
 heroImage: "/images/articles/quarrying-hero.webp"
-heroAlt: "Quarrying extracts stone, sand, and gravel from the earth for construction and industry, covering methods, environmental impact, and practices"
+heroAlt: "Quarrying is the process of extracting stone, sand, gravel, and other non-metallic mineral resources from open surface"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

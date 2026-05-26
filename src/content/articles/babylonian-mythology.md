@@ -5,7 +5,7 @@ description: "Babylonian mythology is the body of myths, religious narratives, a
 category: history
 tags: ["babylonian mythology", "ancient mesopotamia", "epic of gilgamesh", "ancient religions"]
 heroImage: "/images/articles/babylonian-mythology-hero.webp"
-heroAlt: "Babylonian mythology is the collection of myths, gods, and creation stories from ancient Mesopotamia, including the Epic of Gilgamesh"
+heroAlt: "Babylonian mythology is the body of myths, religious narratives"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

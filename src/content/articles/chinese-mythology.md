@@ -5,7 +5,7 @@ description: "Chinese mythology is the collection of myths, legends, and folk ta
 category: arts-amp-culture
 tags: ["Chinese mythology", "mythology", "folklore", "China", "legends", "Daoism"]
 heroImage: "/images/articles/chinese-mythology-hero.webp"
-heroAlt: "Chinese mythology is the collection of myths, legends, and folk tales from ancient China, blending cosmology, ancestor worship, and Daoist-Buddhist themes"
+heroAlt: "Chinese mythology is the collection of myths, legends, and folk tales from ancient China, blending cosmology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Sourdough is a type of bread made through a long, slow fermentatio
 category: food-and-drink
 tags: ["sourdough", "bread", "fermentation", "baking", "starter", "wild yeast"]
 heroImage: "/images/articles/sourdough-hero.webp"
-heroAlt: "Sourdough is bread made through slow fermentation using wild yeast and bacteria — here's how it works and why it tastes better"
+heroAlt: "Sourdough is a type of bread made through a long, slow fermentation process using a sourdough starter—a living culture"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

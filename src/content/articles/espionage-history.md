@@ -5,7 +5,7 @@ description: "Espionage history is the study of how nations, rulers, and organiz
 category: history
 tags: ["espionage history", "spy", "intelligence", "covert operations", "cold war"]
 heroImage: "/images/articles/espionage-history-hero.webp"
-heroAlt: "Espionage history tracks the evolution of spying from ancient civilizations through the Cold War to modern cyber intelligence operations"
+heroAlt: "Espionage history is the study of how nations, rulers, and organizations have gathered secret information about"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

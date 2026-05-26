@@ -5,7 +5,7 @@ description: "Classical civilizations refers to the ancient Greek and Roman soci
 category: history
 tags: ["classical civilizations", "ancient greece", "ancient rome", "philosophy", "western civilization"]
 heroImage: "/images/articles/classical-civilizations-hero.webp"
-heroAlt: "Classical civilizations refers to the ancient Greek and Roman societies whose ideas about government, philosophy, art, and law shaped the foundations of"
+heroAlt: "Classical civilizations refers to the ancient Greek and Roman societies whose ideas about government, philosophy, art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

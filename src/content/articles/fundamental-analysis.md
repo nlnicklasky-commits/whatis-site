@@ -5,7 +5,7 @@ description: "Fundamental analysis is a method of evaluating securities by exami
 category: finance
 tags: ["investment", "stocks", "bonds", "valuation", "financial analysis", "economics", "market analysis"]
 heroImage: "/images/articles/fundamental-analysis-hero.webp"
-heroAlt: "Fundamental analysis evaluates a stock's true value by studying financial statements, industry conditions, and economic factors"
+heroAlt: "Fundamental analysis is a method of evaluating securities by examining the underlying financial and economic factors"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

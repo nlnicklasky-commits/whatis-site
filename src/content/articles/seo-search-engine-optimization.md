@@ -5,7 +5,7 @@ description: "SEO — search engine optimization — is the practice of improvin
 category: technology
 tags: ["seo", "search engine optimization", "digital marketing", "google", "web traffic", "keywords", "ranking"]
 heroImage: "/images/articles/seo-search-engine-optimization-hero.webp"
-heroAlt: "SEO is the practice of improving your website's visibility in search engine results through technical, content, and authority-building strategies"
+heroAlt: "SEO — search engine optimization — is the practice of improving a website's visibility in organic (unpaid) search engine"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

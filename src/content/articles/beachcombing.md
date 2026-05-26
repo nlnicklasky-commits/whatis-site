@@ -5,7 +5,7 @@ description: "Beachcombing is the practice of walking along shorelines to search
 category: everyday-concepts
 tags: ["beachcombing", "shells", "sea glass", "driftwood", "coastal exploration", "ocean"]
 heroImage: "/images/articles/beachcombing-hero.webp"
-heroAlt: "Beachcombing is the recreational activity of searching shorelines for interesting natural and human-made objects washed ashore by tides and waves"
+heroAlt: "Beachcombing is the practice of walking along shorelines to search for interesting objects — shells, sea glass, driftwood"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

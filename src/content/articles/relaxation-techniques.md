@@ -5,7 +5,7 @@ description: "Relaxation techniques are structured methods designed to activate 
 category: health-amp-wellness
 tags: ["mental health", "relaxation", "stress management", "wellness"]
 heroImage: "/images/articles/relaxation-techniques-hero.webp"
-heroAlt: "Relaxation techniques are methods like deep breathing, meditation, and progressive muscle relaxation that reduce stress and calm your nervous system"
+heroAlt: "Relaxation techniques are structured methods designed to activate your body's natural calming response"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Chivalry was the moral, religious, and social code that governed t
 category: history
 tags: ["chivalry", "medieval history", "knighthood", "middle ages", "code of conduct"]
 heroImage: "/images/articles/chivalry-hero.webp"
-heroAlt: "Chivalry was the medieval code of conduct for knights, blending martial skill, religious duty, and courtly behavior into an idealized warrior ethic"
+heroAlt: "Chivalry was the moral, religious, and social code that governed the behavior of medieval European knights"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

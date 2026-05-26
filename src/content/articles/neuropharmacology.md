@@ -5,7 +5,7 @@ description: "Neuropharmacology studies how drugs affect the nervous system, fro
 category: science
 tags: ["neuropharmacology", "neurotransmitters", "pharmacology", "neuroscience", "brain", "drug action", "psychiatry"]
 heroImage: "/images/articles/neuropharmacology-hero.webp"
-heroAlt: "Neuropharmacology studies how drugs affect the nervous system, from psychiatric medications to anesthetics, and how new brain treatments are developed"
+heroAlt: "Neuropharmacology studies how drugs affect the nervous system, from psychiatric medications to anesthetics"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

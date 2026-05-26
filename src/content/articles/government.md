@@ -5,7 +5,7 @@ description: Government is the system of institutions, laws, and people that org
 category: history
 tags: ["government", "politics", "political science", "democracy", "law"]
 heroImage: "/images/articles/government-hero.webp"
-heroAlt: "Government is the system of institutions, laws, and people that organizes a society, makes collective decisions, and enforces rules within a territory"
+heroAlt: "Government is the system of institutions, laws, and people that organizes a society, makes collective decisions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

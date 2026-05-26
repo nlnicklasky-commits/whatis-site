@@ -5,7 +5,7 @@ description: "Plant pathology (also called phytopathology) is the scientific stu
 category: science
 tags: ["plants", "diseases", "agriculture", "pathogens", "crops", "botany", "ecology"]
 heroImage: "/images/articles/plant-pathology-hero.webp"
-heroAlt: "Plant pathology studies diseases in plants caused by fungi, bacteria, viruses, and environmental stress — and how to prevent crop losses worldwide"
+heroAlt: "Plant pathology (also called phytopathology) is the scientific study of plant diseases — their causes"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

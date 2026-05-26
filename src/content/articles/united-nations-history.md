@@ -5,7 +5,7 @@ description: "The United Nations is an international organization created after 
 category: history
 tags: ["united nations history", "un", "international relations", "peacekeeping"]
 heroImage: "/images/articles/united-nations-history-hero.webp"
-heroAlt: "United Nations history traces the founding and evolution of the UN, from its 1945 creation to its role in peacekeeping and international cooperation"
+heroAlt: "The United Nations is an international organization created after World War II with one overriding goal: to stop countries"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

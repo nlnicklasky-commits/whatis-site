@@ -5,7 +5,7 @@ description: "Neuroanatomy is the branch of anatomy devoted to studying the stru
 category: science
 tags: ["neuroanatomy", "nervous system", "brain", "spinal cord", "neurons", "anatomy", "neuroscience"]
 heroImage: "/images/articles/neuroanatomy-hero.webp"
-heroAlt: "Neuroanatomy studies the structure of the nervous system, from brain regions and spinal cord pathways to individual neurons and their connections"
+heroAlt: "Neuroanatomy is the branch of anatomy devoted to studying the structure of the nervous system"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

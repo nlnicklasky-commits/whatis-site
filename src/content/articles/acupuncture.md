@@ -5,7 +5,7 @@ description: "Acupuncture is a medical practice originating in ancient China tha
 category: health-amp-wellness
 tags: ["acupuncture", "traditional chinese medicine", "alternative medicine", "pain management"]
 heroImage: "/images/articles/acupuncture-hero.webp"
-heroAlt: "Acupuncture is a traditional Chinese medical practice that inserts thin needles into specific body points to treat pain and various conditions"
+heroAlt: "Acupuncture is a medical practice originating in ancient China that involves inserting thin"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

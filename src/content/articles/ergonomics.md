@@ -5,7 +5,7 @@ description: "Ergonomics is the science of designing workplaces, products, and s
 category: health-amp-wellness
 tags: ["ergonomics", "human factors", "workplace safety", "design", "productivity"]
 heroImage: "/images/articles/ergonomics-hero.webp"
-heroAlt: "Ergonomics is the science of designing workplaces, products, and systems to fit the people who use them, reducing injury and boosting comfort and efficiency"
+heroAlt: "Ergonomics is the science of designing workplaces, products, and systems to fit the people who use them"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

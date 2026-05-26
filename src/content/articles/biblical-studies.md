@@ -5,7 +5,7 @@ description: "Biblical studies is the academic examination of the Bible using hi
 category: history
 tags: ["biblical studies", "bible", "old testament", "new testament", "historical criticism"]
 heroImage: "/images/articles/biblical-studies-hero.webp"
-heroAlt: "Biblical studies is the academic examination of the Bible using historical, literary, and archaeological methods to understand its texts and contexts"
+heroAlt: "Biblical studies is the academic examination of the Bible using historical, literary"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

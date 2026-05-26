@@ -5,7 +5,7 @@ description: "Bridge (formally contract bridge) is a four-player partnership car
 category: everyday-concepts
 tags: ["bridge card game", "card games", "strategy", "partnership game", "tricks", "bidding"]
 heroImage: "/images/articles/bridge-card-game-hero.webp"
-heroAlt: "Bridge is a four-player partnership card game of strategy and communication, where teams bid to win tricks using a standard 52-card deck"
+heroAlt: "Bridge (formally contract bridge) is a four-player partnership card game played with a standard 52-card deck"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Taxonomy is the branch of science concerned with classifying, nami
 category: science
 tags: ["taxonomy", "biology", "classification", "nomenclature", "species", "genus", "kingdom", "phylum"]
 heroImage: "/images/articles/taxonomy-hero.webp"
-heroAlt: "Taxonomy is the science of classifying and naming organisms into hierarchical groups based on shared characteristics and evolutionary relationships"
+heroAlt: "Taxonomy is the branch of science concerned with classifying, naming"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

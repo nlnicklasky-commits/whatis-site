@@ -5,7 +5,7 @@ description: "Medical anthropology is the study of how human health, illness, an
 category: health-amp-wellness
 tags: ["anthropology", "medical anthropology", "health"]
 heroImage: "/images/articles/medical-anthropology-hero.webp"
-heroAlt: "Medical anthropology studies how culture, society, and politics shape health, illness, and healing practices across different populations worldwide"
+heroAlt: "Medical anthropology is the study of how human health, illness, and healing are shaped by culture, social structures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

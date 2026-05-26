@@ -5,16 +5,21 @@ import vercel from '@astrojs/vercel';
 import fs from 'node:fs';
 import path from 'node:path';
 
-// Build a slug → dateModified map from article frontmatter
+// Build slug → dateModified and slug → heroImage maps from article frontmatter
 const articlesDir = './src/content/articles';
 const dateMap = new Map();
+const heroMap = new Map(); // slug -> heroImage path (for the image sitemap)
 if (fs.existsSync(articlesDir)) {
   for (const file of fs.readdirSync(articlesDir).filter(f => f.endsWith('.md'))) {
     const content = fs.readFileSync(path.join(articlesDir, file), 'utf-8');
     const slugMatch = content.match(/^slug:\s*(.+)$/m);
     const dateMatch = content.match(/^dateModified:\s*"?([^"\n]+)"?$/m);
+    const heroMatch = content.match(/^heroImage:\s*"?([^"\n]+?)"?$/m);
     if (slugMatch && dateMatch) {
       dateMap.set(slugMatch[1].trim(), dateMatch[1].trim());
+    }
+    if (slugMatch && heroMatch) {
+      heroMap.set(slugMatch[1].trim(), heroMatch[1].trim());
     }
   }
 }
@@ -42,6 +47,11 @@ export default defineConfig({
         const dateModified = dateMap.get(urlPath);
         if (dateModified) {
           item.lastmod = new Date(dateModified).toISOString();
+        }
+        // Image sitemap: expose each article's hero to Google Images.
+        const hero = heroMap.get(urlPath);
+        if (hero) {
+          item.img = [{ url: `https://whatis.site${hero}` }];
         }
         return item;
       },

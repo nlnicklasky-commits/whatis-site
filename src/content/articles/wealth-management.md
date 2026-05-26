@@ -5,7 +5,7 @@ description: "Wealth management is a financial advisory service combining invest
 category: finance
 tags: ["wealth management", "finance", "investing", "financial planning", "estate planning"]
 heroImage: "/images/articles/wealth-management-hero.webp"
-heroAlt: "Wealth management is a financial advisory service combining investment, tax, estate, and retirement planning for high-net-worth individuals and families"
+heroAlt: "Wealth management is a financial advisory service combining investment, tax, estate"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

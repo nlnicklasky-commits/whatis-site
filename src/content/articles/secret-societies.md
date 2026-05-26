@@ -5,7 +5,7 @@ description: "A secret society is an organization that conceals some or all of i
 category: history
 tags: ["secret society", "freemasonry", "fraternal order", "conspiracy"]
 heroImage: "/images/articles/secret-societies-hero.webp"
-heroAlt: "Secret societies are organizations with hidden membership, rituals, and goals that have influenced politics, religion, and culture for centuries"
+heroAlt: "A secret society is an organization that conceals some or all of its membership, rituals, internal practices"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

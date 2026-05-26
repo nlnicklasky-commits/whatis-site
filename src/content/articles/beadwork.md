@@ -5,7 +5,7 @@ description: "Beadwork is the art of creating decorative items by sewing, weavin
 category: arts-amp-culture
 tags: ["beadwork", "beads", "craft", "jewelry making", "textile arts", "traditional crafts"]
 heroImage: "/images/articles/beadwork-hero.webp"
-heroAlt: "Beadwork is the art of creating decorative items by sewing, weaving, or stringing small beads into patterns for jewelry, clothing, and ceremonial objects"
+heroAlt: "Beadwork is the art of creating decorative items by sewing, weaving, or stringing small beads into patterns for jewelry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

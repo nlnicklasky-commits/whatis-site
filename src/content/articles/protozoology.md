@@ -5,7 +5,7 @@ description: "Protozoology studies single-celled eukaryotic organisms called pro
 category: science
 tags: ["protozoology", "protozoa", "microbiology", "single-celled organisms", "eukaryotes", "parasitology", "malaria"]
 heroImage: "/images/articles/protozoology-hero.webp"
-heroAlt: "Protozoology studies single-celled eukaryotic organisms called protozoa, from amoebas to malaria parasites, covering their biology, ecology, and medical impact"
+heroAlt: "Protozoology studies single-celled eukaryotic organisms called protozoa, from amoebas to malaria parasites"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Dentistry is the branch of medicine dedicated to the study, diagno
 category: health-amp-wellness
 tags: ["dentistry", "oral health", "dental care", "teeth", "medicine"]
 heroImage: "/images/articles/dentistry-hero.webp"
-heroAlt: "Dentistry is the branch of medicine focused on diagnosing, treating, and preventing diseases and conditions of the teeth, gums, jaw, and mouth"
+heroAlt: "Dentistry is the branch of medicine dedicated to the study, diagnosis, treatment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

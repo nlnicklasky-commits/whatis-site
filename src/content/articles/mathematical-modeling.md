@@ -5,7 +5,7 @@ description: "Mathematical modeling is the process of translating a real-world s
 category: science
 tags: ["mathematical modeling", "simulation", "mathematics", "applied math", "differential equations", "optimization", "prediction"]
 heroImage: "/images/articles/mathematical-modeling-hero.webp"
-heroAlt: "Mathematical modeling translates real-world problems into equations to simulate, predict, and optimize systems from disease to climate"
+heroAlt: "Mathematical modeling is the process of translating a real-world system or problem into mathematical language — equations"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

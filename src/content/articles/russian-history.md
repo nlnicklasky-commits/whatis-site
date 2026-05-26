@@ -5,7 +5,7 @@ description: "Russian history is the story of a civilization that grew from a co
 category: history
 tags: ["russia", "soviet union", "tsarist russia", "eastern europe"]
 heroImage: "/images/articles/russian-history-hero.webp"
-heroAlt: "Russian history spans over 1,100 years from medieval Kievan Rus to the modern Russian Federation, shaped by tsars, revolutions, and empire"
+heroAlt: "Russian history is the story of a civilization that grew from a collection of medieval trading settlements into the largest"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

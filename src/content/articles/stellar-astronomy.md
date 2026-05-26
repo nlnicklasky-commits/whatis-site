@@ -5,7 +5,7 @@ description: "Stellar astronomy is the study of stars, from their birth in nebul
 category: science
 tags: ["astronomy", "stellar astronomy", "stars", "astrophysics", "nuclear fusion", "cosmology"]
 heroImage: "/images/articles/stellar-astronomy-hero.webp"
-heroAlt: "Stellar astronomy is the study of stars, from their birth in nebulae to their death as white dwarfs, neutron stars, or black holes"
+heroAlt: "Stellar astronomy is the study of stars, from their birth in nebulae to their death as white dwarfs, neutron stars"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

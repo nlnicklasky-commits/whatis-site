@@ -5,7 +5,7 @@ description: "Technical drawing is the practice of creating precise, standardize
 category: technology
 tags: ["technical drawing", "drafting", "engineering drawing", "cad"]
 heroImage: "/images/articles/technical-drawing-hero.webp"
-heroAlt: "Technical drawing is the practice of creating precise, standardized diagrams that communicate how objects are built, assembled, or manufactured"
+heroAlt: "Technical drawing is the practice of creating precise, standardized visual representations of objects, structures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

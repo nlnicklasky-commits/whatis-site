@@ -5,7 +5,7 @@ description: "Philosophy of language is the branch of philosophy that investigat
 category: everyday-concepts
 tags: ["philosophy of language", "semantics", "meaning", "linguistics", "logic", "communication"]
 heroImage: "/images/articles/philosophy-of-language-hero.webp"
-heroAlt: "Philosophy of language studies how words mean things, how language relates to reality, and what communication actually involves"
+heroAlt: "Philosophy of language is the branch of philosophy that investigates the nature of language, meaning, reference"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

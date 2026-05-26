@@ -5,7 +5,7 @@ description: "Uniformology is the study of military uniforms — their design, h
 category: history
 tags: ["uniformology", "military uniforms", "historical clothing", "military history"]
 heroImage: "/images/articles/uniformology-hero.webp"
-heroAlt: "Uniformology is the study of military uniforms and their history — how they evolved, what they signified, and why they changed across centuries"
+heroAlt: "Uniformology is the study of military uniforms — their design, history, symbolism, manufacturing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

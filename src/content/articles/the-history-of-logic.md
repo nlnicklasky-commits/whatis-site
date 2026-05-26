@@ -5,7 +5,7 @@ description: "The history of logic is the story of how humans learned to think a
 category: history
 tags: ["history of logic", "logic", "philosophy", "aristotle", "formal logic"]
 heroImage: "/images/articles/the-history-of-logic-hero.webp"
-heroAlt: "The history of logic traces how humans developed formal reasoning, from Aristotle's syllogisms to modern symbolic logic and computer science"
+heroAlt: "The history of logic is the story of how humans learned to think about thinking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Process engineering is the discipline of designing, operating, con
 category: technology
 tags: ["process engineering", "chemical engineering", "industrial engineering", "process control", "manufacturing", "optimization"]
 heroImage: "/images/articles/process-engineering-hero.webp"
-heroAlt: "Process engineering designs, optimizes, and controls industrial processes that turn raw materials into products through systematic methods"
+heroAlt: "Process engineering is the discipline of designing, operating, controlling"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

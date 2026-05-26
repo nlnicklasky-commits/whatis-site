@@ -5,7 +5,7 @@ description: "Scandinavian history is the shared story of Denmark, Norway, and S
 category: history
 tags: ["scandinavia", "nordic history", "viking age", "denmark", "norway"]
 heroImage: "/images/articles/scandinavian-history-hero.webp"
-heroAlt: "Scandinavian history covers the shared past of Denmark, Norway, and Sweden from prehistoric times through the Viking Age to modern welfare states"
+heroAlt: "Scandinavian history is the shared story of Denmark, Norway, and Sweden"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

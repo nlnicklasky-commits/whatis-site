@@ -5,7 +5,7 @@ description: "Sedimentology is the branch of geology that studies sediments—pa
 category: science
 tags: ["sedimentology", "geology", "sedimentary rocks", "stratigraphy", "earth science", "depositional environments"]
 heroImage: "/images/articles/sedimentology-hero.webp"
-heroAlt: "Sedimentology studies how sediments form, move, and become rock, covering depositional environments, sedimentary structures, and Earth's history"
+heroAlt: "Sedimentology is the branch of geology that studies sediments—particles of rock, mineral"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

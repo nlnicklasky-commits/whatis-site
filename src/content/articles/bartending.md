@@ -5,7 +5,7 @@ description: "Bartending is the craft of preparing and serving drinks at a bar, 
 category: everyday-concepts
 tags: ["bartending", "mixology", "cocktails", "bar", "customer service", "hospitality"]
 heroImage: "/images/articles/bartending-hero.webp"
-heroAlt: "Bartending is the craft of preparing and serving drinks at a bar, combining mixology skills, customer service, and knowledge of spirits, cocktails, and wine"
+heroAlt: "Bartending is the craft of preparing and serving drinks at a bar, combining mixology skills, customer service"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

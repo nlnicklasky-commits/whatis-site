@@ -5,7 +5,7 @@ description: "Roman mythology is the body of myths, legends, and religious belie
 category: history
 tags: ["roman gods", "roman legends", "ancient rome", "mythology"]
 heroImage: "/images/articles/roman-mythology-hero.webp"
-heroAlt: "Roman mythology is the collection of myths, gods, and legends from ancient Rome that shaped religion, culture, and Western storytelling traditions"
+heroAlt: "Roman mythology is the body of myths, legends, and religious beliefs from ancient Rome — stories about gods, heroes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

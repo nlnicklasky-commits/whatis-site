@@ -5,7 +5,7 @@ description: "Maritime law governs activities on the sea, from shipping contract
 category: law
 tags: ["international law", "maritime law", "admiralty"]
 heroImage: "/images/articles/maritime-law-hero.webp"
-heroAlt: "Maritime law governs activities on the sea, from shipping contracts and cargo disputes to piracy, pollution, and sailors' rights"
+heroAlt: "Maritime law governs activities on the sea, from shipping contracts and cargo disputes to piracy, pollution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

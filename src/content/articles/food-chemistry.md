@@ -5,7 +5,7 @@ description: "Food chemistry is the branch of chemistry that studies the chemica
 category: science
 tags: ["food science", "chemistry", "nutrition", "food safety", "food processing", "biochemistry", "sensory science"]
 heroImage: "/images/articles/food-chemistry-hero.webp"
-heroAlt: "Food chemistry studies the chemical makeup and reactions in food, covering proteins, fats, carbohydrates, flavor development, and food safety"
+heroAlt: "Food chemistry is the branch of chemistry that studies the chemical composition of food"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

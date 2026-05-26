@@ -5,7 +5,7 @@ description: "Ecology is the branch of biology that studies the relationships be
 category: science
 tags: ["ecology", "ecosystems", "biodiversity", "environmental science", "conservation", "biology", "organisms"]
 heroImage: "/images/articles/ecology-hero.webp"
-heroAlt: "Ecology is the scientific study of how organisms interact with each other and their physical environment, from individual behavior to global systems"
+heroAlt: "Ecology is the branch of biology that studies the relationships between living organisms and their physical environment"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

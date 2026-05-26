@@ -5,7 +5,7 @@ description: "Brazilian Jiu-Jitsu (BJJ) is a grappling martial art focused on gr
 category: everyday-concepts
 tags: ["brazilian jiu jitsu", "martial arts", "grappling", "self-defense", "mma", "combat sports"]
 heroImage: "/images/articles/brazilian-jiu-jitsu-hero.webp"
-heroAlt: "Brazilian Jiu-Jitsu (BJJ) is a grappling martial art focused on ground fighting and submissions, where technique and leverage overcome size and strength"
+heroAlt: "Brazilian Jiu-Jitsu (BJJ) is a grappling martial art focused on ground fighting and submissions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Shinto is Japan's indigenous spiritual tradition centered on kami 
 category: philosophy
 tags: ["shinto", "japan", "religion", "kami", "spirituality", "nature worship", "ritual"]
 heroImage: "/images/articles/shintoism-hero.webp"
-heroAlt: "Shinto is Japan's indigenous spiritual tradition centered on kami worship, ritual purity, and a deep connection between people, nature, and the sacred"
+heroAlt: "Shinto is Japan's indigenous spiritual tradition centered on kami worship, ritual purity"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

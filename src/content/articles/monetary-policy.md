@@ -5,7 +5,7 @@ description: "Monetary policy is the set of actions taken by a central bank—su
 category: finance
 tags: ["monetary policy", "central banking", "interest rates", "inflation", "federal reserve", "money supply", "economics"]
 heroImage: "/images/articles/monetary-policy-hero.webp"
-heroAlt: "Monetary policy is how central banks manage money supply and interest rates to control inflation, stabilize the economy, and promote employment"
+heroAlt: "Monetary policy is the set of actions taken by a central bank—such as the Federal Reserve in the United States"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

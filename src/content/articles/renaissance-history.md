@@ -5,7 +5,7 @@ description: "Renaissance history covers the cultural explosion in Europe from t
 category: history
 tags: ["european history", "renaissance", "art", "culture"]
 heroImage: "/images/articles/renaissance-history-hero.webp"
-heroAlt: "Renaissance history covers the cultural explosion in Europe from the 14th to 17th century, when art, science, and philosophy were radically reinvented"
+heroAlt: "Renaissance history covers the cultural explosion in Europe from the 14th to 17th century, when art, science"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

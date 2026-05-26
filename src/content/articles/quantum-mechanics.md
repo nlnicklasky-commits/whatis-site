@@ -5,7 +5,7 @@ description: "Quantum mechanics is the branch of physics that describes how matt
 category: everyday-concepts
 tags: ["quantum mechanics", "physics", "atoms", "particles", "wave-particle duality", "science"]
 heroImage: "/images/articles/quantum-mechanics-hero.webp"
-heroAlt: "Quantum mechanics describes how matter and energy behave at atomic and subatomic scales, where the rules of everyday physics break down"
+heroAlt: "Quantum mechanics is the branch of physics that describes how matter and energy behave at the smallest scales — atoms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

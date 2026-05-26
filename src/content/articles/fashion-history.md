@@ -5,7 +5,7 @@ description: "Fashion history studies how clothing, textiles, and style have cha
 category: history
 tags: ["fashion", "clothing", "costume", "cultural history", "textiles"]
 heroImage: "/images/articles/fashion-history-hero.webp"
-heroAlt: "Fashion history studies how clothing, textiles, and style have changed over time, reflecting shifts in culture, technology, economics, and social identity"
+heroAlt: "Fashion history studies how clothing, textiles, and style have changed over time, reflecting shifts in culture, technology"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

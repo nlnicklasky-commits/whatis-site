@@ -5,7 +5,7 @@ description: "Genetics studies genes, heredity, and variation in living organism
 category: science
 tags: ["genetics", "genes", "dna", "heredity", "molecular biology", "biotechnology", "evolution"]
 heroImage: "/images/articles/genetics-hero.webp"
-heroAlt: "Genetics studies genes, heredity, and variation in living organisms — from DNA structure to gene editing, inheritance patterns, and modern biotechnology"
+heroAlt: "Genetics studies genes, heredity, and variation in living organisms — from DNA structure to gene editing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

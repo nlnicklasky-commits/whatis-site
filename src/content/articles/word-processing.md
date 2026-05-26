@@ -5,7 +5,7 @@ description: "Word processing is the creation, editing, formatting, and printing
 category: technology
 tags: ["software", "word processing", "productivity"]
 heroImage: "/images/articles/word-processing-hero.webp"
-heroAlt: "Word processing is the creation, editing, formatting, and printing of text documents using software, from basic letters to complex reports and manuscripts"
+heroAlt: "Word processing is the creation, editing, formatting, and printing of text documents using software"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

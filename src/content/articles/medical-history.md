@@ -5,7 +5,7 @@ description: "Medical history is the study of how human understanding and treatm
 category: history
 tags: ["medicine", "medical history", "healthcare"]
 heroImage: "/images/articles/medical-history-hero.webp"
-heroAlt: "Medical history traces the evolution of medicine from ancient herbal remedies and surgery to germ theory, antibiotics, and modern genomic treatments"
+heroAlt: "Medical history is the study of how human understanding and treatment of disease, injury, and health have evolved over time"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

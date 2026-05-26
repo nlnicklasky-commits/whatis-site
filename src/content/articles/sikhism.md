@@ -5,7 +5,7 @@ description: "Sikhism is a monotheistic religion founded in the Punjab region of
 category: philosophy
 tags: ["sikhism", "religion", "guru nanak", "punjab", "monotheism", "equality", "spirituality"]
 heroImage: "/images/articles/sikhism-hero.webp"
-heroAlt: "Sikhism is a monotheistic religion founded in 15th-century Punjab that emphasizes equality, selfless service, honest living, and devotion to one God"
+heroAlt: "Sikhism is a monotheistic religion founded in the Punjab region of South Asia by Guru Nanak Dev Ji in the late 15th century"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

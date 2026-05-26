@@ -5,7 +5,7 @@ description: "Political philosophy is the branch of philosophy that asks the mos
 category: philosophy
 tags: ["politics", "government", "justice", "liberty", "rights", "ethics", "political science"]
 heroImage: "/images/articles/political-philosophy-hero.webp"
-heroAlt: "Political philosophy examines questions about government, justice, rights, liberty, and the proper relationship between individuals and the state"
+heroAlt: "Political philosophy is the branch of philosophy that asks the most fundamental questions about how humans organize"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

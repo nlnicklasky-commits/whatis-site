@@ -5,7 +5,7 @@ description: "Tectonics is the branch of geology that studies the large-scale st
 category: science
 tags: ["tectonics", "plate tectonics", "geology", "earth science", "continental drift"]
 heroImage: "/images/articles/tectonics-hero.webp"
-heroAlt: "Tectonics is the study of Earth's large-scale structural features and the forces that shape them, including the movement of tectonic plates"
+heroAlt: "Tectonics is the branch of geology that studies the large-scale structure of Earth's outer layer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

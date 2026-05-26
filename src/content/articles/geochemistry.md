@@ -5,7 +5,7 @@ description: "Geochemistry is the scientific discipline that uses chemistry prin
 category: science
 tags: ["geochemistry", "geology", "chemistry", "earth science", "elements", "isotopes", "minerals"]
 heroImage: "/images/articles/geochemistry-hero.webp"
-heroAlt: "Geochemistry studies the chemical composition of Earth and other planets, tracing how elements move through rocks, water, and air to shape our world"
+heroAlt: "Geochemistry is the scientific discipline that uses chemistry principles to study the composition, structure"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Plasma physics is the study of ionized gases — matter in which a
 category: science
 tags: ["physics", "plasma", "fusion", "astrophysics", "energy", "electromagnetism", "matter"]
 heroImage: "/images/articles/plasma-physics-hero.webp"
-heroAlt: "Plasma physics studies ionized gas — the fourth state of matter that makes up 99% of the visible universe, from stars to fusion reactors"
+heroAlt: "Plasma physics is the study of ionized gases — matter in which atoms have been stripped of some or all of their electrons"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

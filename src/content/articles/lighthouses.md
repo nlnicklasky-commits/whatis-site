@@ -5,7 +5,7 @@ description: "A lighthouse is a tower or structure — usually located on a coas
 category: history
 tags: ["maritime history", "lighthouses", "navigation", "architecture", "coastal safety"]
 heroImage: "/images/articles/lighthouses-hero.webp"
-heroAlt: "Lighthouses are tower structures built on coastlines or offshore to project light signals that guide ships and warn sailors of hazards"
+heroAlt: "A lighthouse is a tower or structure — usually located on a coastline, rocky outcrop, or offshore shoal"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

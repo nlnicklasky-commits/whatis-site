@@ -5,7 +5,7 @@ description: "Plate tectonics is the scientific theory explaining how Earth's ou
 category: everyday-concepts
 tags: ["plate tectonics", "geology", "earthquakes", "volcanoes", "continental drift"]
 heroImage: "/images/articles/plate-tectonics-hero.webp"
-heroAlt: "Plate tectonics explains how Earth's outer shell is broken into moving plates that cause earthquakes, volcanoes, and continental drift"
+heroAlt: "Plate tectonics is the scientific theory explaining how Earth's outer layer — the lithosphere — is divided into large"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

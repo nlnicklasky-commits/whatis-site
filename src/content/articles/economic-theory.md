@@ -5,7 +5,7 @@ description: "Economic theory is the body of principles, models, and frameworks 
 category: finance
 tags: ["economic theory", "economics", "microeconomics", "macroeconomics", "supply and demand", "scarcity", "rational choice"]
 heroImage: "/images/articles/economic-theory-hero.webp"
-heroAlt: "Economic theory is a set of principles and models that explain how economies function, how people make choices, and how resources get allocated"
+heroAlt: "Economic theory is the body of principles, models, and frameworks that economists use to explain how individuals, firms"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: Heraldry is the system of designing, displaying, and regulating coa
 category: history
 tags: ["heraldry", "coats of arms", "medieval", "genealogy", "symbols"]
 heroImage: "/images/articles/heraldry-hero.webp"
-heroAlt: "Heraldry is the system of designing, displaying, and regulating coats of arms and other armorial bearings used to identify individuals and families"
+heroAlt: "Heraldry is the system of designing, displaying, and regulating coats of arms and other armorial bearings used to identify"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

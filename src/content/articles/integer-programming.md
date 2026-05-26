@@ -5,7 +5,7 @@ description: "Integer programming is a type of mathematical optimization where s
 category: technology
 tags: ["integer programming", "optimization", "operations research", "mathematical modeling", "discrete optimization", "linear programming"]
 heroImage: "/images/articles/integer-programming-hero.webp"
-heroAlt: "Integer programming is an optimization method where variables must be whole numbers, used to solve scheduling and logistics problems"
+heroAlt: "Integer programming is a type of mathematical optimization where some or all of the decision variables are restricted"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

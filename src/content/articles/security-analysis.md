@@ -5,7 +5,7 @@ description: "Security analysis is the systematic evaluation of financial instru
 category: finance
 tags: ["security analysis", "investment", "finance", "stock market", "fundamental analysis", "technical analysis"]
 heroImage: "/images/articles/security-analysis-hero.webp"
-heroAlt: "Security analysis evaluates financial instruments to determine their value and risk through fundamental analysis, technical analysis, and valuation"
+heroAlt: "Security analysis is the systematic evaluation of financial instruments—stocks, bonds, options"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

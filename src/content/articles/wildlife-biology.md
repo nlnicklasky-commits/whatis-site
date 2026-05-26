@@ -5,7 +5,7 @@ description: "Wildlife biology is the scientific study of wild animals and their
 category: science
 tags: ["wildlife biology", "ecology", "conservation"]
 heroImage: "/images/articles/wildlife-biology-hero.webp"
-heroAlt: "Wildlife biology is the scientific study of wild animals and their ecosystems, focusing on behavior, populations, habitats, and conservation of species"
+heroAlt: "Wildlife biology is the scientific study of wild animals and their ecosystems, focusing on behavior, populations, habitats"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

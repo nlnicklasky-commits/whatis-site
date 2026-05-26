@@ -5,7 +5,7 @@ description: "Camping is the recreational practice of staying overnight outdoors
 category: sports
 tags: ["camping", "outdoor recreation", "nature", "tenting", "wilderness", "adventure"]
 heroImage: "/images/articles/camping-hero.webp"
-heroAlt: "Camping is the outdoor recreational activity of staying overnight in temporary shelters like tents, RVs, or hammocks, typically in natural settings"
+heroAlt: "Camping is the recreational practice of staying overnight outdoors, typically in natural settings"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

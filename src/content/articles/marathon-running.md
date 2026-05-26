@@ -5,7 +5,7 @@ description: "A marathon is a long-distance running race covering 26.2 miles (42
 category: everyday-concepts
 tags: ["marathon running", "running", "endurance sports", "fitness", "athletics", "distance running"]
 heroImage: "/images/articles/marathon-running-hero.webp"
-heroAlt: "Marathon running is the sport of racing 26"
+heroAlt: "A marathon is a long-distance running race covering 26.2 miles (42.195 kilometers)"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Baseball is a bat-and-ball sport played between two teams of nine 
 category: everyday-concepts
 tags: ["baseball", "sports", "mlb", "bat-and-ball", "team sports", "pitching"]
 heroImage: "/images/articles/baseball-hero.webp"
-heroAlt: "Baseball is a bat-and-ball team sport played between two teams of nine, where batters try to hit a pitched ball and run a circuit of four bases"
+heroAlt: "Baseball is a bat-and-ball sport played between two teams of nine players on a diamond-shaped field"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

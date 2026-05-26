@@ -5,7 +5,7 @@ description: "Ancient Greek history covers roughly 1,500 years of civilization c
 category: history
 tags: ["ancient greece", "greek history", "athens", "sparta", "philosophy", "democracy"]
 heroImage: "/images/articles/ancient-greek-history-hero.webp"
-heroAlt: "Ancient Greek history spans roughly 1,500 years of civilization that gave the world democracy, philosophy, theater, and the Olympic Games"
+heroAlt: "Ancient Greek history covers roughly 1,500 years of civilization centered around the Aegean Sea"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Backpacking has two related meanings: wilderness backpacking, wher
 category: sports
 tags: ["backpacking", "travel", "adventure", "budget travel", "hiking", "cultural immersion"]
 heroImage: "/images/articles/backpacking-hero.webp"
-heroAlt: "Backpacking is independent, budget-conscious travel where you carry your belongings in a backpack, often combining hiking and cultural exploration"
+heroAlt: "Backpacking has two related meanings: wilderness backpacking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

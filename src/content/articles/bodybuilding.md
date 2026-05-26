@@ -5,7 +5,7 @@ description: "Bodybuilding is the practice of using progressive resistance train
 category: everyday-concepts
 tags: ["bodybuilding", "fitness", "weight training", "muscle", "nutrition", "strength"]
 heroImage: "/images/articles/bodybuilding-hero.webp"
-heroAlt: "Bodybuilding is the practice of progressive resistance training to develop musculature, combined with nutrition and posing for aesthetic competition"
+heroAlt: "Bodybuilding is the practice of using progressive resistance training (weight lifting) to develop and control"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

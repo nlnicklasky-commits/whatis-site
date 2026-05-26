@@ -5,7 +5,7 @@ description: "Zoology is the scientific study of animals — their structure, de
 category: science
 tags: ["biology", "animals", "ecology", "wildlife", "evolution"]
 heroImage: "/images/articles/zoology-hero.webp"
-heroAlt: "Zoology is the branch of biology that studies animals, their behavior, physiology, genetics, evolution, and interactions with ecosystems"
+heroAlt: "Zoology is the scientific study of animals — their structure, development, behavior, classification, distribution"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

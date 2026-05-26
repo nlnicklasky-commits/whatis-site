@@ -5,7 +5,7 @@ description: "The history of philosophy is the record of humanity's most persist
 category: history
 tags: ["history of philosophy", "philosophy", "ancient philosophy", "ethics", "metaphysics"]
 heroImage: "/images/articles/the-history-of-philosophy-hero.webp"
-heroAlt: "The history of philosophy follows 2,600 years of human thought on existence, knowledge, ethics, and reality across world traditions"
+heroAlt: "The history of philosophy is the record of humanity's most persistent attempt to figure out what's going on. What exists"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

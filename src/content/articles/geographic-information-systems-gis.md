@@ -5,7 +5,7 @@ description: "A Geographic Information System (GIS) is a framework for gathering
 category: technology
 tags: ["gis", "geographic information systems", "spatial data", "mapping", "geography", "data analysis", "cartography"]
 heroImage: "/images/articles/geographic-information-systems-gis-hero.webp"
-heroAlt: "GIS captures, stores, analyzes, and visualizes geographic data, turning location-based information into maps, insights, and spatial decisions"
+heroAlt: "A Geographic Information System (GIS) is a framework for gathering, managing, analyzing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

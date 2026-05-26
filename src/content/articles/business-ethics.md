@@ -5,7 +5,7 @@ description: "Business ethics is the application of moral principles and standar
 category: finance
 tags: ["business ethics", "corporate governance", "csr", "corporate social responsibility", "ethical dilemmas", "business responsibility", "moral principles"]
 heroImage: "/images/articles/business-ethics-hero.webp"
-heroAlt: "Business ethics applies moral principles to commercial activity, guiding decisions about fairness, responsibility, and corporate conduct"
+heroAlt: "Business ethics is the application of moral principles and standards to commercial activities, organizations"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

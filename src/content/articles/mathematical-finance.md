@@ -5,7 +5,7 @@ description: "Mathematical finance uses probability, stochastic calculus, and st
 category: finance
 tags: ["mathematical finance", "quantitative finance", "derivatives", "risk management", "stochastic calculus", "options pricing", "finance"]
 heroImage: "/images/articles/mathematical-finance-hero.webp"
-heroAlt: "Mathematical finance uses probability, stochastic calculus, and statistics to price derivatives, manage risk, and model financial markets quantitatively"
+heroAlt: "Mathematical finance uses probability, stochastic calculus, and statistics to price derivatives, manage risk"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

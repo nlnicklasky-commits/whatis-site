@@ -5,7 +5,7 @@ description: "Presidential history is the study of U.S. presidents, their decisi
 category: history
 tags: ["presidential history", "u.s. presidents", "political history", "american history"]
 heroImage: "/images/articles/presidential-history-hero.webp"
-heroAlt: "Presidential history is the study of U"
+heroAlt: "Presidential history is the study of U.S. presidents, their decisions, and their impact on America. Explore key eras"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

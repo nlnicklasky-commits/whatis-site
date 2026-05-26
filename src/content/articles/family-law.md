@@ -5,7 +5,7 @@ description: "Family law governs legal relationships between family members, inc
 category: law
 tags: ["family law", "legal", "marriage", "divorce", "child custody", "adoption"]
 heroImage: "/images/articles/family-law-hero.webp"
-heroAlt: "Family law governs legal relationships between family members, including marriage, divorce, child custody, adoption, and domestic violence protections"
+heroAlt: "Family law governs legal relationships between family members, including marriage, divorce, child custody, adoption"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Architectural history is the study of buildings and built environm
 category: history
 tags: ["architectural history", "architecture", "art history", "design", "historic preservation"]
 heroImage: "/images/articles/architectural-history-hero.webp"
-heroAlt: "Architectural history studies how buildings and structures have been designed, built, and understood across cultures and centuries"
+heroAlt: "Architectural history is the study of buildings and built environments across time, examining how structures were designed"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

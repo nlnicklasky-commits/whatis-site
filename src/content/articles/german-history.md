@@ -5,7 +5,7 @@ description: "German history spans from ancient Germanic tribes through the Holy
 category: history
 tags: ["german history", "germany", "holy roman empire", "world war ii", "european history"]
 heroImage: "/images/articles/german-history-hero.webp"
-heroAlt: "German history spans from ancient Germanic tribes through the Holy Roman Empire, unification, two world wars, division, and reunification into modern Europe"
+heroAlt: "German history spans from ancient Germanic tribes through the Holy Roman Empire, unification, two world wars, division"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

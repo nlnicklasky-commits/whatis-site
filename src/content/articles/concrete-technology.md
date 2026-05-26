@@ -5,7 +5,7 @@ description: "Concrete technology is the branch of engineering and materials sci
 category: technology
 tags: ["construction", "engineering", "materials science", "civil engineering", "building materials", "concrete", "cement"]
 heroImage: "/images/articles/concrete-technology-hero.webp"
-heroAlt: "Concrete technology is the science of designing, mixing, placing, and curing concrete for construction — the most used building material on Earth"
+heroAlt: "Concrete technology is the branch of engineering and materials science devoted to the design, production, placement"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

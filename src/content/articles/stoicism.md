@@ -5,7 +5,7 @@ description: Discover Stoicism—an ancient philosophy teaching virtue, resilien
 category: philosophy
 tags: ["stoicism", "philosophy", "marcus-aurelius", "epictetus", "ancient-greece", "ethics", "mindfulness"]
 heroImage: "/images/articles/stoicism-hero.webp"
-heroAlt: "Discover Stoicism—an ancient philosophy teaching virtue, resilience, and inner peace through accepting what you cannot control"
+heroAlt: "Discover Stoicism—an ancient philosophy teaching virtue, resilience"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

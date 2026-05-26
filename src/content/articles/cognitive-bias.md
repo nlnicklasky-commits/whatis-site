@@ -5,7 +5,7 @@ description: Cognitive bias explained—why our brains take mental shortcuts, ho
 category: psychology
 tags: ["cognitive-bias", "psychology", "decision-making", "behavioral-economics", "heuristics", "critical-thinking"]
 heroImage: "/images/articles/cognitive-bias-hero.webp"
-heroAlt: "Cognitive bias explained—why our brains take mental shortcuts, how they affect decisions, and practical strategies to recognize them"
+heroAlt: "Cognitive bias explained—why our brains take mental shortcuts, how they affect decisions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

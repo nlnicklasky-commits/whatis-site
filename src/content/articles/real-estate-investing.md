@@ -5,7 +5,7 @@ description: "Real estate investing is the purchase, ownership, management, or s
 category: finance
 tags: ["real estate investing", "investment", "rental property", "reits", "passive income", "property", "finance"]
 heroImage: "/images/articles/real-estate-investing-hero.webp"
-heroAlt: "Real estate investing means buying property to generate income or profit, including rental properties, REITs, flipping, and syndications"
+heroAlt: "Real estate investing is the purchase, ownership, management, or sale of property for profit"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

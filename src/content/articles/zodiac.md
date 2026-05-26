@@ -5,7 +5,7 @@ description: "The zodiac is a band of sky extending roughly 8 degrees on either 
 category: philosophy
 tags: ["astrology", "horoscope", "constellations", "spirituality", "divination"]
 heroImage: "/images/articles/zodiac-hero.webp"
-heroAlt: "The zodiac is a belt of 12 constellations along the ecliptic used in astrology and astronomy to map celestial positions and personality types"
+heroAlt: "The zodiac is a band of sky extending roughly 8 degrees on either side of the ecliptic"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

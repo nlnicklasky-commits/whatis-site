@@ -5,7 +5,7 @@ description: "Forensic anthropology is the application of physical anthropology 
 category: science
 tags: ["forensic science", "anthropology", "skeletal remains", "crime scene", "human identification", "archaeology", "trauma analysis"]
 heroImage: "/images/articles/forensic-anthropology-hero.webp"
-heroAlt: "Forensic anthropology applies skeletal biology to legal cases, identifying human remains and analyzing trauma to help solve crimes and disasters"
+heroAlt: "Forensic anthropology is the application of physical anthropology and human osteology (the study of bones) to legal"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Synthetic biology is the application of engineering principles to 
 category: science
 tags: ["biology", "synthetic biology", "genetic engineering", "biotechnology", "bioengineering", "DNA"]
 heroImage: "/images/articles/synthetic-biology-hero.webp"
-heroAlt: "Synthetic biology is the engineering of biological systems by designing, building, and testing DNA, cells, and organisms for useful purposes"
+heroAlt: "Synthetic biology is the application of engineering principles to biology — designing, constructing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

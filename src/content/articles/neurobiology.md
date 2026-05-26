@@ -5,7 +5,7 @@ description: "Neurobiology is the study of how the nervous system functions at t
 category: science
 tags: ["neurobiology", "neuroscience", "brain", "nervous system", "neurons", "synapses", "brain function"]
 heroImage: "/images/articles/neurobiology-hero.webp"
-heroAlt: "Neurobiology studies how the nervous system works at the cellular and molecular level, from neuron signaling to brain circuits that drive behavior"
+heroAlt: "Neurobiology is the study of how the nervous system functions at the biological level"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

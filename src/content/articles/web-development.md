@@ -5,7 +5,7 @@ description: "Web development is the building and maintenance of websites, cover
 category: technology
 tags: ["web development", "programming", "html", "javascript"]
 heroImage: "/images/articles/web-development-hero.webp"
-heroAlt: "Web development is the building and maintenance of websites, covering frontend, backend, and full-stack programming with languages like HTML, CSS, and"
+heroAlt: "Web development is the building and maintenance of websites, covering frontend, backend"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

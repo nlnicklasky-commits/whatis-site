@@ -5,7 +5,7 @@ description: "Portfolio management is the art and science of making decisions ab
 category: finance
 tags: ["portfolio management", "investment", "asset allocation", "financial planning", "risk management", "wealth management"]
 heroImage: "/images/articles/portfolio-management-hero.webp"
-heroAlt: "Portfolio management is the process of selecting and overseeing investments to meet long-term financial goals while managing risk"
+heroAlt: "Portfolio management is the art and science of making decisions about what investments to hold"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

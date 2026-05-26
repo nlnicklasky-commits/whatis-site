@@ -5,7 +5,7 @@ description: "Web hosting is a service that stores website files on servers and 
 category: technology
 tags: ["web hosting", "internet", "servers"]
 heroImage: "/images/articles/web-hosting-hero.webp"
-heroAlt: "Web hosting is a service that stores website files on servers and makes them accessible via the internet, enabling anyone to visit your site from a browser"
+heroAlt: "Web hosting is a service that stores website files on servers and makes them accessible via the internet"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

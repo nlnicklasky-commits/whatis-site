@@ -5,7 +5,7 @@ description: "Business strategy is a coordinated set of choices and actions that
 category: finance
 tags: ["business strategy", "strategic management", "competitive advantage", "market positioning", "business goals", "organizational planning", "swot analysis"]
 heroImage: "/images/articles/business-strategy-hero.webp"
-heroAlt: "Business strategy is a plan that defines how an organization competes, creates value, and achieves long-term goals in its market"
+heroAlt: "Business strategy is a coordinated set of choices and actions that define how an organization will compete in its market"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

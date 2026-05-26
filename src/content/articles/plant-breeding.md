@@ -5,7 +5,7 @@ description: "Plant breeding is the science and art of altering the genetic make
 category: technology
 tags: ["agriculture", "plants", "genetics", "crops", "breeding", "food security", "biotechnology"]
 heroImage: "/images/articles/plant-breeding-hero.webp"
-heroAlt: "Plant breeding is the science of changing plant genetics to develop improved varieties with better yield, disease resistance, and nutritional value"
+heroAlt: "Plant breeding is the science and art of altering the genetic makeup of plants to produce new varieties with desired"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

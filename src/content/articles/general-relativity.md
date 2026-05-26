@@ -5,7 +5,7 @@ description: "General relativity is Albert Einstein's theory of gravitation, pub
 category: science
 tags: ["general relativity", "gravity", "spacetime", "einstein", "physics", "astrophysics", "cosmology"]
 heroImage: "/images/articles/general-relativity-hero.webp"
-heroAlt: "General relativity is Einstein's theory explaining gravity as spacetime curvature caused by mass and energy, reshaping our view of the universe"
+heroAlt: "General relativity is Albert Einstein's theory of gravitation, published in 1915"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

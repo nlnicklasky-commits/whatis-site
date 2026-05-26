@@ -5,7 +5,7 @@ description: "Cognitive psychology is the branch of psychology that studies inte
 category: science
 tags: ["cognitive psychology", "psychology", "cognition", "mental processes", "memory", "attention", "problem-solving"]
 heroImage: "/images/articles/cognitive-psychology-hero.webp"
-heroAlt: "Cognitive psychology studies how people perceive, remember, think, speak, and solve problems through controlled experiments and mental models"
+heroAlt: "Cognitive psychology is the branch of psychology that studies internal mental processes — how people perceive the world"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

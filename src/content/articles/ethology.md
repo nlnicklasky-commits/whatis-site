@@ -5,7 +5,7 @@ description: "Ethology is the scientific study of animal behavior, particularly 
 category: science
 tags: ["ethology", "animal behavior", "zoology", "biology", "ecology", "instinct", "learning"]
 heroImage: "/images/articles/ethology-hero.webp"
-heroAlt: "Ethology is the scientific study of animal behavior in natural conditions — instinct, learning, communication, and key figures in the field"
+heroAlt: "Ethology is the scientific study of animal behavior, particularly as it occurs under natural conditions"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

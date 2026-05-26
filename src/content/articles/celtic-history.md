@@ -5,7 +5,7 @@ description: "Celtic history is the study of the peoples who spoke Celtic langua
 category: history
 tags: ["celtic history", "celts", "ancient history", "european history", "archaeology"]
 heroImage: "/images/articles/celtic-history-hero.webp"
-heroAlt: "Celtic history covers the Iron Age peoples who spread across Europe from 800 BCE, leaving lasting marks on language, art, law, and cultural identity"
+heroAlt: "Celtic history is the study of the peoples who spoke Celtic languages and shared recognizable cultural patterns across"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

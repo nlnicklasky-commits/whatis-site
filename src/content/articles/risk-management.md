@@ -5,7 +5,7 @@ description: "Risk management is the systematic process of figuring out what cou
 category: business
 tags: ["finance", "risk management", "business", "insurance"]
 heroImage: "/images/articles/risk-management-hero.webp"
-heroAlt: "Risk management is the process of identifying, analyzing, and responding to potential threats that could affect a business, project, or investment"
+heroAlt: "Risk management is the systematic process of figuring out what could go wrong, deciding how bad it would be if it did"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

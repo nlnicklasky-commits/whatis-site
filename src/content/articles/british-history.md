@@ -5,7 +5,7 @@ description: "British history spans thousands of years from ancient Celtic tribe
 category: history
 tags: ["british history", "england", "scotland", "wales", "british empire"]
 heroImage: "/images/articles/british-history-hero.webp"
-heroAlt: "British history spans thousands of years from ancient Celtic tribes to a modern constitutional monarchy, shaped by invasion, empire, and democratic reform"
+heroAlt: "British history spans thousands of years from ancient Celtic tribes to a modern constitutional monarchy, shaped by invasion"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Retail management is the process of running a store or retail busi
 category: business
 tags: ["management", "retail", "business", "commerce"]
 heroImage: "/images/articles/retail-management-hero.webp"
-heroAlt: "Retail management is the process of running a store or retail business, from inventory and merchandising to staffing, sales strategy, and customer service"
+heroAlt: "Retail management is the process of running a store or retail business, from inventory and merchandising to staffing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

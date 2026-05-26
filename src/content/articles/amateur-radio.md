@@ -5,7 +5,7 @@ description: "Amateur radio -- often called ham radio -- is a licensed radio ser
 category: technology
 tags: ["amateur radio", "ham radio", "radio", "shortwave", "electronics", "communication", "fcc"]
 heroImage: "/images/articles/amateur-radio-hero.webp"
-heroAlt: "Amateur radio (ham radio) explained: licensing, frequencies, equipment, emergency use, and why millions worldwide still transmit over the airwaves"
+heroAlt: "Amateur radio -- often called ham radio -- is a licensed radio service that lets individuals communicate using designated"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

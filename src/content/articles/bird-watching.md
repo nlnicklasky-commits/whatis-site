@@ -5,7 +5,7 @@ description: "Bird watching (birding) is the observation and identification of w
 category: sports
 tags: ["bird watching", "birding", "ornithology", "nature observation", "wildlife", "conservation"]
 heroImage: "/images/articles/bird-watching-hero.webp"
-heroAlt: "Bird watching (birding) is the observation and identification of wild birds in their natural habitat, enjoyed by over 45 million Americans as a hobby"
+heroAlt: "Bird watching (birding) is the observation and identification of wild birds in their natural habitat"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

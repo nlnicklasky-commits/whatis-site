@@ -5,7 +5,7 @@ description: "Sustainable architecture is designing buildings that minimize envi
 category: technology
 tags: ["architecture", "sustainable architecture", "green building", "energy efficiency", "environmental design"]
 heroImage: "/images/articles/sustainable-architecture-hero.webp"
-heroAlt: "Sustainable architecture is designing buildings that minimize environmental impact through energy efficiency, smart materials, and integration with natural"
+heroAlt: "Sustainable architecture is designing buildings that minimize environmental impact through energy efficiency"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

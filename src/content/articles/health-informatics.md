@@ -5,7 +5,7 @@ description: "Health informatics is the interdisciplinary field that applies inf
 category: technology
 tags: ["health informatics", "healthcare", "information technology", "ehr", "data analytics", "medical technology", "digital health"]
 heroImage: "/images/articles/health-informatics-hero.webp"
-heroAlt: "Health informatics applies IT to healthcare, managing electronic records, clinical data, and systems that improve patient care and outcomes"
+heroAlt: "Health informatics is the interdisciplinary field that applies information science, computer science"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

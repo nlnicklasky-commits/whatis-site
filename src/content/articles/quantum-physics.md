@@ -5,7 +5,7 @@ description: "Quantum physics is the branch of science that studies how nature w
 category: everyday-concepts
 tags: ["quantum physics", "physics", "atoms", "science", "wave function", "subatomic"]
 heroImage: "/images/articles/quantum-physics-hero.webp"
-heroAlt: "Quantum physics studies matter and energy at atomic scales, where particles follow probability rules instead of classical certainty"
+heroAlt: "Quantum physics is the branch of science that studies how nature works at its smallest scales — atoms, electrons, photons"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

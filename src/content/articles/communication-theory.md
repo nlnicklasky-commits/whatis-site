@@ -5,7 +5,7 @@ description: "Communication theory is the academic field that studies how inform
 category: science
 tags: ["communication theory", "communication", "linguistics", "sociology", "psychology", "media", "information"]
 heroImage: "/images/articles/communication-theory-hero.webp"
-heroAlt: "Communication theory studies how messages are created, transmitted, received, and interpreted between individuals, groups, and mass audiences"
+heroAlt: "Communication theory is the academic field that studies how information, meaning, and messages are produced, transmitted"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

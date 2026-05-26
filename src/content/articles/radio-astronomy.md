@@ -5,7 +5,7 @@ description: "Radio astronomy studies the universe through radio waves, revealin
 category: science
 tags: ["radio astronomy", "astronomy", "radio waves", "telescopes", "astrophysics", "cosmology", "space"]
 heroImage: "/images/articles/radio-astronomy-hero.webp"
-heroAlt: "Radio astronomy studies the universe through radio waves, revealing pulsars, quasars, the Big Bang's afterglow, and objects invisible to optical telescopes"
+heroAlt: "Radio astronomy studies the universe through radio waves, revealing pulsars, quasars, the Big Bang's afterglow"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Technical analysis is a method of evaluating securities by analyzi
 category: finance
 tags: ["technical analysis", "trading", "investing", "stock market"]
 heroImage: "/images/articles/technical-analysis-hero.webp"
-heroAlt: "Technical analysis is a method of evaluating securities by analyzing price charts, trading volume, and statistical patterns to forecast future movements"
+heroAlt: "Technical analysis is a method of evaluating securities by analyzing price charts, trading volume"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

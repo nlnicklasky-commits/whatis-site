@@ -5,7 +5,7 @@ description: "Chiropractic is a licensed healthcare profession that focuses on d
 category: health-amp-wellness
 tags: ["chiropractic", "spinal health", "manual therapy", "alternative medicine"]
 heroImage: "/images/articles/chiropractic-hero.webp"
-heroAlt: "Chiropractic is a healthcare profession focused on diagnosing and treating musculoskeletal disorders, primarily through manual spinal adjustments"
+heroAlt: "Chiropractic is a licensed healthcare profession that focuses on disorders of the musculoskeletal and nervous systems"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

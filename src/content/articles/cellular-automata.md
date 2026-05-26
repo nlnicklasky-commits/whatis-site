@@ -5,7 +5,7 @@ description: "A cellular automaton is a discrete model of computation consisting
 category: technology
 tags: ["cellular automata", "computation", "simulation", "complexity theory", "mathematics", "game of life", "discrete models"]
 heroImage: "/images/articles/cellular-automata-hero.webp"
-heroAlt: "Cellular automata are discrete computational models where simple rules applied to a grid of cells produce complex, emergent behavior over time"
+heroAlt: "A cellular automaton is a discrete model of computation consisting of a grid of cells"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

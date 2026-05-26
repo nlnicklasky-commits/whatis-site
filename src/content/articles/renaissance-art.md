@@ -5,7 +5,7 @@ description: "Renaissance art refers to the painting, sculpture, and architectur
 category: arts-amp-culture
 tags: ["renaissance art", "art history", "Leonardo da Vinci", "Michelangelo", "painting", "sculpture"]
 heroImage: "/images/articles/renaissance-art-hero.webp"
-heroAlt: "Renaissance art was the cultural rebirth of classical ideals in 14th-17th century Europe, producing works by Da Vinci, Michelangelo, and Raphael"
+heroAlt: "Renaissance art refers to the painting, sculpture, and architecture produced in Europe — primarily Italy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

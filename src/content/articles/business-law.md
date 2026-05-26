@@ -5,7 +5,7 @@ description: "Business law — also called commercial law or mercantile law — 
 category: finance
 tags: ["business law", "commercial law", "contracts", "corporate law", "intellectual property", "consumer protection", "legal framework"]
 heroImage: "/images/articles/business-law-hero.webp"
-heroAlt: "Business law governs commercial transactions, corporate structure, contracts, and regulatory compliance for organizations and entrepreneurs"
+heroAlt: "Business law — also called commercial law or mercantile law — is the body of legal rules and principles governing commercial"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

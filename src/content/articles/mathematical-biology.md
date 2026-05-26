@@ -5,7 +5,7 @@ description: "Mathematical biology is the application of mathematical techniques
 category: science
 tags: ["mathematical biology", "biomathematics", "modeling", "population dynamics", "epidemiology", "ecology", "mathematics"]
 heroImage: "/images/articles/mathematical-biology-hero.webp"
-heroAlt: "Mathematical biology uses equations and models to understand living systems, from disease spread to population dynamics and cell division"
+heroAlt: "Mathematical biology is the application of mathematical techniques to understand biological systems"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"
