@@ -37,6 +37,12 @@ faq:
 
 Plant breeding is the science and art of altering the genetic makeup of plants to produce new varieties with desired characteristics — higher yields, better disease resistance, improved [nutrition](/nutrition), or adaptation to specific growing conditions. Humans have been doing it for roughly 10,000 years, though the methods have changed dramatically.
 
+
+<figure>
+  <img src="/images/articles/plant-breeding-fig1.webp" alt="A gloved hand tending young seedlings in a greenhouse" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Plant breeding develops crops with better traits.</figcaption>
+</figure>
+
 ## From Ancient Fields to Modern Labs
 
 Here's something that might surprise you: almost nothing you eat today looks like its wild ancestor. Corn started as a scraggly grass called teosinte with tiny seed heads. Bananas were small, hard, and full of seeds. Watermelons were the size of a [tennis](/tennis) ball. Every crop you can name is the product of thousands of years of selective [breeding](/animal-behavior) and cultivation.

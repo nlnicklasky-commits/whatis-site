@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-label="The agile sprint cycle: plan, build, test, and review in short repeating iterations, then start the next sprint." font-family="Inter, system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="ag-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#2563eb"/></marker>
+  </defs>
+  <rect width="1200" height="440" fill="#ffffff"/>
+  <text x="600" y="50" text-anchor="middle" font-size="29" font-weight="700" fill="#1a1a2e">The Agile Sprint Cycle</text>
+
+  <g font-size="21" font-weight="600">
+    <rect x="60"  y="120" width="220" height="86" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/><text x="170" y="170" text-anchor="middle" fill="#1d4ed8">Plan</text>
+    <rect x="350" y="120" width="220" height="86" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/><text x="460" y="170" text-anchor="middle" fill="#1d4ed8">Build</text>
+    <rect x="640" y="120" width="220" height="86" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/><text x="750" y="170" text-anchor="middle" fill="#1d4ed8">Test</text>
+    <rect x="930" y="120" width="220" height="86" rx="12" fill="#2563eb" stroke="#1d4ed8" stroke-width="2.5"/><text x="1040" y="170" text-anchor="middle" fill="#ffffff">Review</text>
+  </g>
+
+  <g stroke="#2563eb" stroke-width="3" fill="none">
+    <path d="M280 163 H350" marker-end="url(#ag-arrow)"/>
+    <path d="M570 163 H640" marker-end="url(#ag-arrow)"/>
+    <path d="M860 163 H930" marker-end="url(#ag-arrow)"/>
+    <path d="M1040 206 V300 a18 18 0 0 1 -18 18 H188 a18 18 0 0 1 -18 -18 V206" marker-end="url(#ag-arrow)"/>
+  </g>
+  <text x="600" y="345" text-anchor="middle" font-size="19" font-weight="600" fill="#1d4ed8">Next sprint</text>
+  <text x="600" y="398" text-anchor="middle" font-size="18" fill="#4a5568">Short, repeating cycles deliver working software and absorb feedback fast.</text>
+</svg>

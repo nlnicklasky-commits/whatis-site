@@ -47,6 +47,12 @@ Here is the number that puts renewables in perspective: the sun delivers roughly
 
 In 2023, renewables accounted for roughly 30% of global electricity generation, up from about 20% in 2010. Solar and wind alone generated more electricity than [nuclear power](/nuclear-power) for the first time. The International Energy Agency projects that renewables will surpass coal as the world's largest source of electricity by 2027.
 
+
+<figure>
+  <img src="/images/articles/renewable-energy-fig1.webp" alt="An aerial view of a solar farm beside a hydroelectric dam at sunset" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Renewable energy draws power from sun, water, and wind.</figcaption>
+</figure>
+
 ## Solar Energy: Capturing Starlight
 
 Solar energy is the big one — both in terms of potential and recent growth. There are two main ways to convert sunlight into usable energy.

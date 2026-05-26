@@ -41,6 +41,12 @@ Soldering is a metal-joining process where a filler alloy — called solder — 
 
 If you've ever looked at the underside of a [circuit board](/circuit-design), those tiny silver dots holding every component in place are solder joints. Billions of them are created every single day in factories around the world. But soldering isn't just an [electronics](/electronics) thing — plumbers, jewelers, [stained glass](/stained-glass) artists, and HVAC technicians all rely on it too.
 
+
+<figure>
+  <img src="/images/articles/soldering-fig1.webp" alt="A soldering iron melting a glowing bead of solder on a circuit board" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Soldering joins electronic components with molten metal.</figcaption>
+</figure>
+
 ## How Soldering Actually Works
 
 The basic idea is deceptively simple. You heat two metal surfaces, touch solder to the joint, and the solder melts and flows into the gap by capillary action. When it cools, it forms a metallurgical bond — not just a mechanical grip, but an actual intermetallic connection at the atomic level.

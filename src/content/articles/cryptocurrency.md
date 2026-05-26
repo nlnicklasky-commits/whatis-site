@@ -47,6 +47,12 @@ Cryptocurrency removes the need for this trusted middleman by using [cryptograph
 
 For the current numbers on global ownership, market cap, Bitcoin ETF flows, and adoption by country, see our [Cryptocurrency Statistics 2026](/cryptocurrency-statistics-2026) roundup.
 
+
+<figure>
+  <img src="/images/articles/cryptocurrency-fig1.webp" alt="Glowing golden coins linked across a digital network" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Cryptocurrency records value on a decentralized network.</figcaption>
+</figure>
+
 ## The Money Problem Bitcoin Solved
 
 In 2008, during the global financial crisis, an anonymous person (or group) using the pseudonym Satoshi Nakamoto published the Bitcoin whitepaper titled "Bitcoin: A Peer-to-Peer Electronic Cash System." The paper proposed a solution to a longstanding [computer science](/computer-science) problem: how can a network of untrusting computers agree on a shared transaction history without a central authority?

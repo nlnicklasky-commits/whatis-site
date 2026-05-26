@@ -41,6 +41,12 @@ Seaplane piloting is the art and skill of flying aircraft equipped to take off f
 
 About 10,000 seaplanes are registered in the United States and Canada combined, with thousands more operating worldwide. In places like Alaska, northern Canada, Scandinavia, the Maldives, and island nations across the Pacific, seaplanes aren't recreational novelties—they're essential transportation, connecting communities that have no roads, no runways, and sometimes no other way in or out.
 
+
+<figure>
+  <img src="/images/articles/seaplane-piloting-fig1.webp" alt="A floatplane skimming across a calm mountain lake" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Seaplanes take off and land on water.</figcaption>
+</figure>
+
 ## Floatplanes vs. Flying Boats: What's the Difference?
 
 These terms get tossed around interchangeably, but they refer to distinct aircraft designs with different handling characteristics.

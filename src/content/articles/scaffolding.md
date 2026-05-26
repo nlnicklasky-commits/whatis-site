@@ -41,6 +41,12 @@ Scaffolding is a temporary elevated structure that provides workers with safe ac
 
 About 65% of the construction workforce—roughly 2.3 million people in the U.S. alone—works on scaffolding at some point during their careers. It's so common on job sites that it almost fades into the background, which is exactly when complacency makes it dangerous. Scaffold-related falls remain one of the leading causes of construction worker deaths worldwide.
 
+
+<figure>
+  <img src="/images/articles/scaffolding-fig1.webp" alt="A metal scaffolding framework rising against a building under a blue sky" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Scaffolding gives workers safe access to a structure during construction.</figcaption>
+</figure>
+
 ## A Surprisingly Long History
 
 Scaffolding is ancient. Really ancient. When paleontologists examined the cave paintings in Lascaux, France—created roughly 17,000 years ago—they found socket holes in the cave walls where wooden poles had been inserted. The painters built scaffolding to reach the high ceilings. That's scaffolding technology dating back to the Upper Paleolithic period.

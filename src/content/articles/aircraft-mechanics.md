@@ -39,6 +39,12 @@ faq:
 
 Aircraft mechanics is the field of maintaining, inspecting, repairing, and overhauling aircraft to keep them safe and airworthy. It covers everything from swapping brake pads on a Cessna 172 to rebuilding a turbofan engine on a Boeing 787 — all under a regulatory framework so strict that every bolt torque and safety wire gets documented.
 
+
+<figure>
+  <img src="/images/articles/aircraft-mechanics-fig1.webp" alt="A technician inspecting the turbine blades of a jet engine" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Aircraft mechanics keep planes safe and airworthy.</figcaption>
+</figure>
+
 ## Why Aircraft Mechanics Exists (And Why It's So Regulated)
 
 Here's a fact that puts things in perspective: commercial [aviation](/aviation) is the safest form of mass transportation ever created. The fatal accident rate for commercial flights hovers around 0.07 per million departures. That safety record didn't happen by accident — pun intended. It's the direct result of obsessive maintenance standards enforced by agencies like the Federal Aviation Administration (FAA) in the United States and the European Union Aviation Safety Agency (EASA) in Europe.

@@ -52,6 +52,28 @@ const JOBS = [
   { slug: 'horticulture', prompt: `Editorial photograph, a flourishing greenhouse full of potted green plants and blooming flowers, soft diffused natural light, ${SUFFIX}, no numbers` },
   { slug: 'psycholinguistics', prompt: `Cinematic 3D render, an abstract glowing brain connected to flowing smooth sound waves, language and mind, blue and violet tones, ${SUFFIX}, no letters, no numbers, no symbols, no glyphs` },
   { slug: 'scanning-electron-microscopy', prompt: `A highly detailed black and white scanning electron micrograph style image of pollen grains at extreme magnification, intricate surface texture, ${SUFFIX}, no scale bar, no numbers` },
+
+  // Wave 3 — Tier-1 Technology
+  { slug: 'aircraft-mechanics', prompt: `Editorial photograph, a technician at the open cowling of a jet engine inspecting polished turbine blades, bright hangar light, no gauges, ${SUFFIX}, no numbers` },
+  { slug: 'cryptocurrency', prompt: `Cinematic 3D render, abstract glowing golden coins and interconnected blockchain links floating over a dark digital grid, blank coins with no markings, ${SUFFIX}, no numbers, no symbols` },
+  { slug: 'amateur-radio', prompt: `Editorial photograph, a tall steel lattice radio antenna tower silhouetted against a deep blue dusk sky, abstract glowing concentric radio-wave rings emanating outward from the top, sense of broadcasting signals, ${SUFFIX}, no numbers, no equipment` },
+  { slug: 'motion-graphics', prompt: `Cinematic 3D render, vibrant abstract flowing geometric shapes and ribbons of color in motion against a dark background, dynamic energy, ${SUFFIX}, no numbers` },
+  { slug: 'air-conditioning', prompt: `Editorial photograph, a sleek white wall air-conditioning unit with cool blue mist and delicate frost crystals drifting from it, clean modern interior, ${SUFFIX}, no numbers` },
+  { slug: 'scaffolding', prompt: `Editorial photograph, a geometric metal scaffolding framework rising against a building facade under a clear blue sky, strong lines, ${SUFFIX}, no numbers` },
+  { slug: 'seo-search-engine-optimization', prompt: `Cinematic 3D render, a glowing glass magnifying lens hovering over an abstract network of connected glowing nodes and floating blank panels, clean blue tones, no search bar, ${SUFFIX}, no numbers` },
+  { slug: 'app-development', prompt: `Editorial photograph, a smartphone standing upright displaying abstract colorful rounded app-icon shapes with no text, soft studio light, clean background, ${SUFFIX}, no numbers, no interface text` },
+  { slug: 'manufacturing-engineering', prompt: `Editorial photograph, orange robotic arms working on a clean automated assembly line in a bright modern factory, precision and motion, ${SUFFIX}, no numbers` },
+  { slug: 'satellite-communication', prompt: `Cinematic photograph, a communications satellite with wide solar panels orbiting above Earth, a glowing signal beam reaching the surface, deep space, ${SUFFIX}, no numbers` },
+  { slug: 'seaplane-piloting', prompt: `Editorial photograph, a floatplane skimming across a calm mountain lake throwing a fan of spray, scenic wilderness, ${SUFFIX}, no numbers` },
+  { slug: 'signal-processing', prompt: `Cinematic 3D render, abstract smooth glowing sine waveforms flowing across a dark background in blue and teal, no grid lines, ${SUFFIX}, no numbers, no symbols` },
+  { slug: 'telescope-making', prompt: `Editorial photograph, a large reflecting telescope silhouetted against a brilliant starry night sky and the Milky Way, ${SUFFIX}, no numbers` },
+  { slug: 'lean-manufacturing', prompt: `Editorial photograph, a spotless highly organized factory floor with neatly arranged workstations and clear flow lanes, bright and efficient, ${SUFFIX}, no numbers` },
+  { slug: 'music-engineering', prompt: `Editorial photograph, a recording studio mixing console with rows of faders and softly glowing knobs, warm studio light, blank unlabeled controls, ${SUFFIX}, no numbers, no labels` },
+  { slug: 'design-patterns', prompt: `Cinematic 3D render, abstract modular interlocking building blocks and connected geometric components forming an elegant ordered structure, blue tones, ${SUFFIX}, no numbers, no symbols` },
+  { slug: 'biotechnology', prompt: `Editorial photograph, a glowing blue DNA double helix rising above clear laboratory glassware filled with softly colored liquids on a clean bench, no electronic devices, no screens, no monitors, ${SUFFIX}, no numbers` },
+  { slug: 'soldering', prompt: `Editorial extreme macro photograph, the glowing hot tip of a soldering iron melting a bright bead of molten silver solder, intense orange glow and a wisp of smoke, the circuit board fully blurred into soft bokeh behind with no chips in focus, ${SUFFIX}, no numbers, no components with markings` },
+  { slug: 'plant-breeding', prompt: `Editorial photograph, rows of young hybrid plant seedlings in a greenhouse with a researcher's gloved hands gently tending one, soft natural light, ${SUFFIX}, no numbers` },
+  { slug: 'renewable-energy', prompt: `Editorial aerial photograph, a vast solar panel farm beside a hydroelectric dam and flowing river at golden hour, clean energy landscape, ${SUFFIX}, no numbers` },
 ];
 
 const only = process.argv.slice(2).filter((a) => !a.startsWith('-'));

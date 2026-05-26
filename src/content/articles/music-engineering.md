@@ -41,6 +41,12 @@ Music [engineering](/engineering) is the technical discipline of capturing, mani
 
 The title gets used somewhat loosely, but fundamentally, a music engineer is the person who understands the [physics](/physics) of [sound](/acoustics), the [electronics](/electronics) of audio equipment, the [mathematics](/mathematics) of [digital signal processing](/digital-signal-processing), and the artistic judgment to make all of it serve the music. They're the bridge between a musical performance and the recording you actually hear.
 
+
+<figure>
+  <img src="/images/articles/music-engineering-fig1.webp" alt="A studio mixing console with rows of faders and glowing controls" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Music engineers shape how a recording sounds.</figcaption>
+</figure>
+
 ## Recording, Mixing, Mastering — The Three Acts
 
 Music engineering breaks down into three major phases, each requiring distinct skills and often performed by different specialists.

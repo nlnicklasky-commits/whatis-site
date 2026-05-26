@@ -41,6 +41,12 @@ Satellite communication is the transmission of information between points on Ear
 
 About 60% of the world's international phone calls in the 1990s traveled through satellites. That share has dropped as undersea fiber optic cables took over bulk traffic, but satellites remain irreplaceable for [broadcasting](/broadcasting), maritime and [aviation](/aviation) communication, military operations, rural broadband, and—increasingly—as the backbone of new global internet constellations.
 
+
+<figure>
+  <img src="/images/articles/satellite-communication-fig1.webp" alt="A communications satellite orbiting above Earth" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Satellites relay signals across the globe.</figcaption>
+</figure>
+
 ## The Physics of Getting a Signal to Space
 
 Before we talk about satellite types and orbits, it helps to understand what's actually happening when your satellite TV dish picks up a signal from 36,000 kilometers away. It's kind of remarkable when you think about it.

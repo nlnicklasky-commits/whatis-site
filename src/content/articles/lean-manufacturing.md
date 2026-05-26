@@ -39,6 +39,12 @@ Lean manufacturing is a systematic approach to production that seeks to minimize
 
 The core idea is disarmingly simple: identify what your customer actually values, then organize everything around delivering that value as efficiently as possible. Anything that doesn't contribute to customer value is waste—and waste should be eliminated.
 
+
+<figure>
+  <img src="/images/articles/lean-manufacturing-fig1.webp" alt="An organized factory floor with clear flow lanes and workstations" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Lean manufacturing removes waste from production.</figcaption>
+</figure>
+
 ## The Origin Story: How Toyota Changed Everything
 
 You can't understand lean manufacturing without understanding Toyota. And you can't understand Toyota without understanding post-war Japan.

@@ -41,6 +41,12 @@ Manufacturing engineering is the branch of engineering that designs, improves, a
 
 If you've ever picked up a smartphone, driven a car, or taken medication, a manufacturing engineer figured out how to produce that thing reliably, affordably, and by the millions. They're the people who bridge the gap between a prototype sitting on a workbench and a product sitting on store shelves worldwide.
 
+
+<figure>
+  <img src="/images/articles/manufacturing-engineering-fig1.webp" alt="Orange robotic arms working along an automated assembly line" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Manufacturing engineering designs how products get made at scale.</figcaption>
+</figure>
+
 ## What Manufacturing Engineers Actually Do All Day
 
 Here's the thing most people don't realize: designing a product and manufacturing a product are completely different problems. An aerospace engineer might design a turbine blade with perfect [aerodynamics](/aerodynamics), but if nobody can actually machine that shape affordably at the tolerances required, the design is worthless.

@@ -38,6 +38,12 @@ The fundamental idea is deceptively simple: show a computer lots of examples, le
 
 For current AI adoption statistics — including the 71% of organizations using generative AI in at least one function — see our [AI Statistics 2026](/artificial-intelligence-statistics-2026) roundup.
 
+
+<figure>
+  <img src="/images/articles/machine-learning-fig1.svg" alt="A neural network diagram with input, hidden, and output layers of connected nodes" width="900" height="520" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>A neural network adjusts weighted connections until its output matches the data.</figcaption>
+</figure>
+
 ## Why Machine Learning Matters Right Now
 
 We're drowning in data. Every click you make online, every photo you take, every transaction you complete generates more of it. That's a trillion-data-points-per-day kind of abundance. Traditional programming can't scale to handle that. You can't write code to handle every possible permutation.

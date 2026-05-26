@@ -41,6 +41,12 @@ faq:
 
 An algorithm is a finite sequence of well-defined instructions designed to perform a specific task or solve a particular problem. Every Google search you run, every route your GPS calculates, every recommendation Netflix serves you—there's an algorithm behind it.
 
+
+<figure>
+  <img src="/images/articles/algorithms-fig1.svg" alt="Flowchart of an algorithm: start, do a step, check if done, loop back if not, and end" width="760" height="560" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>An algorithm is a precise sequence of steps with clear stopping rules.</figcaption>
+</figure>
+
 ## Older Than Computers, Surprisingly
 
 Most people associate algorithms with computers. Reasonable assumption, wrong history. The word itself comes from the name of the 9th-century Persian mathematician Muhammad ibn Musa al-Khwarizmi, whose work on arithmetic and [algebra](/algebra) laid foundations that mathematicians still build on today. His name was Latinized to "Algoritmi," and eventually we got "algorithm."

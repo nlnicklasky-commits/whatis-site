@@ -41,6 +41,12 @@ Motion graphics is the art of bringing [graphic design](/graphic-design) to life
 
 You've seen motion graphics thousands of times even if you didn't know the term. The animated title sequence of your favorite TV show? Motion graphics. That slick explainer video a startup used to pitch their product? Motion graphics. The lower-third text crawling across a news broadcast? Also motion graphics. The animated infographic that went viral on social media last week? You get the idea.
 
+
+<figure>
+  <img src="/images/articles/motion-graphics-fig1.webp" alt="Vibrant flowing ribbons of color and floating spheres in motion" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Motion graphics bring design to life through movement.</figcaption>
+</figure>
+
 ## How Motion Graphics Differ From Traditional Animation
 
 This distinction trips people up constantly, so let's clear it out right away.

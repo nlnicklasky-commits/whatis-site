@@ -39,6 +39,12 @@ faq:
 
 A design pattern is a reusable, generalized solution to a commonly occurring problem in software design. It is not finished code you can copy-paste into your project, but rather a template or blueprint describing how to solve a particular type of problem in a way that has been tested and refined by thousands of developers over decades.
 
+
+<figure>
+  <img src="/images/articles/design-patterns-fig1.webp" alt="Abstract modular blocks and spheres connected into an ordered structure" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Design patterns are reusable solutions to common coding problems.</figcaption>
+</figure>
+
 ## Where This All Started
 
 In 1994, four authors—Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides—published a book that would reshape how programmers think about code. *Design Patterns: Elements of Reusable Object-Oriented Software* introduced 23 patterns organized into three categories. These four became known as the "Gang of Four" (GoF), and their book became one of the most influential programming texts ever written.

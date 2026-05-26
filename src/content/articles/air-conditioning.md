@@ -39,6 +39,12 @@ faq:
 
 Air conditioning is a system that removes heat and moisture from indoor air and moves it outside, making interior spaces cooler and more comfortable. It works by exploiting a basic [physics](/physics) principle: when a liquid evaporates into a gas, it absorbs heat from its surroundings.
 
+
+<figure>
+  <img src="/images/articles/air-conditioning-fig1.webp" alt="A wall air-conditioning unit releasing cool blue mist into a room" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Air conditioning moves heat to keep indoor air cool.</figcaption>
+</figure>
+
 ## The Surprisingly Recent History of Cool Air
 
 Here's something that might catch you off guard: for roughly 99.9% of human history, nobody had air conditioning. People just... sweated. Ancient Egyptians hung wet reeds in windows and let evaporation do modest work. Romans circulated aqueduct water through walls. But mechanical cooling? That's a 20th-century [invention](/invention).

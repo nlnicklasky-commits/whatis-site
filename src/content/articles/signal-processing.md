@@ -39,6 +39,12 @@ faq:
 
 Signal processing is the [engineering](/engineering) and mathematical discipline concerned with analyzing, modifying, synthesizing, and extracting useful information from signals. A signal is any quantity that varies over time, space, or some other independent variable — a sound wave, a radio transmission, a stock price, an image, a heartbeat. Signal processing gives us the tools to understand what's in a signal, clean it up, compress it, or pull out the information we care about. Every phone call you make, every photo you take, every song you stream, and every medical scan you receive depends on signal processing techniques developed over the past century.
 
+
+<figure>
+  <img src="/images/articles/signal-processing-fig1.webp" alt="Smooth glowing blue waveforms flowing across a dark field" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Signal processing extracts meaning from waves and data streams.</figcaption>
+</figure>
+
 ## What Is a Signal, Really?
 
 The word "signal" covers an enormous range of phenomena. Formally, a signal is a function that conveys information about the behavior or attributes of some phenomenon. Less formally, it's anything that changes in a way that carries meaning.

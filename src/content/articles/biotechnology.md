@@ -41,6 +41,12 @@ faq:
 
 Biotechnology is the application of biological systems, living organisms, or their derivatives to develop products, processes, and technologies that serve human needs. It spans medicine, agriculture, industrial manufacturing, and [environmental science](/environmental-science), making it one of the broadest applied sciences in existence.
 
+
+<figure>
+  <img src="/images/articles/biotechnology-fig1.webp" alt="A glowing DNA double helix rising above laboratory glassware" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Biotechnology engineers living systems to solve problems.</figcaption>
+</figure>
+
 ## A Field Older Than You Think
 
 Most people hear "biotechnology" and picture sterile labs with pipettes and gene sequencers. Fair enough. But here's the thing — humans have been practicing biotechnology for about 10,000 years. Every time ancient civilizations brewed beer, made cheese, or bred crops for better yields, they were using biological processes to create something useful. They just didn't call it biotechnology.

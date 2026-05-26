@@ -39,6 +39,12 @@ faq:
 
 Telescope making is the craft and practice of building optical telescopes by hand, typically involving grinding and polishing glass mirror blanks into precise optical surfaces, then assembling them into functional instruments for astronomical observation. The tradition dates back centuries and remains one of the few areas where a dedicated amateur can produce equipment rivaling or exceeding commercial quality.
 
+
+<figure>
+  <img src="/images/articles/telescope-making-fig1.webp" alt="A telescope silhouetted against the Milky Way" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Telescope makers grind and align optics to gather distant light.</figcaption>
+</figure>
+
 ## Why Would Anyone Build a Telescope from Scratch?
 
 Fair question. You can buy a perfectly good telescope online for a few hundred bucks. So why would someone spend weeks hunched over a glass disk, rubbing it against another glass disk, covered in gritty slurry?

@@ -37,6 +37,12 @@ faq:
 
 A data structure is a specialized format for organizing, storing, and accessing data in a computer so that it can be used efficiently. Just as a library organizes books by genre, author, and catalog number to make finding them practical, data structures organize digital information so that programs can access and modify it quickly—and choosing the right structure for the job is one of the most consequential decisions a programmer makes.
 
+
+<figure>
+  <img src="/images/articles/data-structures-fig1.svg" alt="Comparison of three data structures: an array of cells, a linked list of nodes, and a branching tree" width="1200" height="480" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>The structure you choose shapes how fast you can work with data.</figcaption>
+</figure>
+
 ## Why Data Structures Matter
 
 Here's a thought experiment. You have a phone book with 1 million names. You need to find "Smith, John." With no organization at all—names in random order—you'd need to check every single entry. That's potentially 1 million comparisons. With an alphabetically sorted list, you can use binary search and find the name in about 20 comparisons. Same data. Same hardware. The only difference is how the data is organized.

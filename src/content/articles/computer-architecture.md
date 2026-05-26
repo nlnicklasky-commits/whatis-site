@@ -41,6 +41,12 @@ faq:
 
 Computer [architecture](/architecture) is the design and specification of a computer's fundamental operational structure — it defines how a processor executes instructions, accesses memory, handles input and output, and coordinates all the components that turn electrical signals into useful computation. It sits at the boundary between hardware [engineering](/engineering) and software, shaping everything from how your code runs to how much battery your laptop burns.
 
+
+<figure>
+  <img src="/images/articles/computer-architecture-fig1.svg" alt="Von Neumann architecture diagram: a CPU with control unit and ALU, plus memory, input, and output, joined by a system bus" width="1000" height="540" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>One shared bus moves data and instructions between the CPU, memory, and I/O.</figcaption>
+</figure>
+
 ## Why You Should Care About What's Under the Hood
 
 You might think computer architecture is only for chip designers at Intel or ARM. And sure, they're the ones [drawing](/drawing) transistor layouts. But here's the thing — architecture affects you whether you realize it or not.

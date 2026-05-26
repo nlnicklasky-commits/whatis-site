@@ -39,6 +39,12 @@ faq:
 
 SEO — search engine optimization — is the practice of improving a website's visibility in organic (unpaid) search engine results. When someone types a question into Google and your page appears near the top, that's SEO at work. According to BrightEdge research, organic search drives 53% of all trackable website traffic, making it the single largest source of web visits for most businesses.
 
+
+<figure>
+  <img src="/images/articles/seo-search-engine-optimization-fig1.webp" alt="A luminous glass sphere above an abstract network of connected panels" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>SEO helps the right pages get found by search engines.</figcaption>
+</figure>
+
 ## How Search Engines Actually Work
 
 Before you can optimize for search engines, you need to understand what they're doing behind the scenes. And frankly, it's more interesting than most people expect.

@@ -41,6 +41,12 @@ faq:
 
 Agile software development is a set of principles and practices for building software through short, repeated cycles of planning, building, testing, and gathering feedback. Instead of trying to design everything upfront and delivering one massive release, Agile teams ship small pieces of working software frequently — usually every one to four weeks — and adjust direction based on what they learn.
 
+
+<figure>
+  <img src="/images/articles/agile-software-development-fig1.svg" alt="The agile sprint cycle: plan, build, test, review, then start the next sprint" width="1200" height="440" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Agile delivers software in short, repeating, feedback-driven cycles.</figcaption>
+</figure>
+
 ## The Problem Agile Was Built to Solve
 
 To understand why Agile exists, you need to understand what came before it. And frankly, what came before it was a mess.

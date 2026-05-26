@@ -42,6 +42,12 @@ App development is the process of designing, building, testing, and deploying so
 
 That sounds straightforward enough. But the reality is messier and more interesting than the definition suggests.
 
+
+<figure>
+  <img src="/images/articles/app-development-fig1.webp" alt="A smartphone displaying abstract colorful app shapes" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>App development builds the software that runs on your phone.</figcaption>
+</figure>
+
 ## How We Got Here: A Quick History That Actually Matters
 
 Apps didn't start with the iPhone. They started with the first time someone wrote a program that wasn't the operating system itself. But let's be honest—the modern app economy traces directly back to July 10, 2008, when Apple launched the App Store with 500 applications. Google's Android Market (now Google Play) followed two months later.

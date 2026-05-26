@@ -39,6 +39,12 @@ faq:
 
 Amateur radio -- often called ham radio -- is a licensed radio service that lets individuals communicate using designated radio frequencies without relying on any commercial infrastructure. There are roughly 3 million licensed amateur radio operators worldwide, with over 760,000 in the United States alone, making it one of the largest technical hobbies on the planet.
 
+
+<figure>
+  <img src="/images/articles/amateur-radio-fig1.webp" alt="A radio antenna tower broadcasting glowing signal waves against a dusk sky" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Amateur radio operators communicate worldwide over the airwaves.</figcaption>
+</figure>
+
 ## How Did We Get Here? A Quick History
 
 The story of amateur radio starts before [broadcasting](/broadcasting) even existed. In the early 1900s, after Guglielmo Marconi demonstrated transatlantic wireless telegraphy in 1901, hobbyists started building their own spark-gap transmitters in basements and garages. These early experimenters were literally inventing radio communication alongside the professionals.
