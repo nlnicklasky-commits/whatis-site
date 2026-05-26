@@ -31,7 +31,9 @@ faq:
 
 # What Is Formal Languages?
 
-A formal language is a set of strings (sequences of symbols) defined by precise mathematical rules. Unlike natural languages — English, Spanish, Mandarin — which evolved organically and tolerate ambiguity, formal languages are rigorously specified. Every string either belongs to the language or it doesn't. There's no "sort of" grammatical. This precision makes formal languages essential to [computer science](/computer-science), [mathematics](/mathematics), and [logic](/logic), where ambiguity isn't just inconvenient — it's fatal.
+A formal language is a set of strings (sequences of symbols) defined by precise mathematical rules. Unlike natural languages — English, Spanish, Mandarin — which evolved organically and tolerate ambiguity, formal languages are rigorously specified. Every string either belongs to the language or it doesn't.
+
+There's no "sort of" grammatical. This precision makes formal languages essential to [computer science](/computer-science), [mathematics](/mathematics), and [logic](/logic), where ambiguity isn't just inconvenient — it's fatal.
 
 ## The Basic Idea
 

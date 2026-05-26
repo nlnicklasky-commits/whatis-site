@@ -1,7 +1,7 @@
 ---
 title: "What Is Gerontology?"
 slug: gerontology
-description: "Gerontology is the scientific study of aging and its effects on individuals and societies, spanning biology, psychology, and social policy. Discover the key ..."
+description: "Gerontology is the scientific study of aging — the biological, psychological, and social processes that accompany growing older."
 category: health-amp-wellness
 tags: ["gerontology", "aging", "elderly care", "health", "sociology"]
 heroImage: "/images/articles/gerontology-hero.webp"

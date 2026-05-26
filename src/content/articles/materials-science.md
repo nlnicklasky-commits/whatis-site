@@ -1,7 +1,7 @@
 ---
 title: "What Is Materials Science?"
 slug: materials-science
-description: "Materials science studies how structure and composition determine material properties, enabling better metals, polymers, and ceramics. Discover the key facts..."
+description: "Materials science is the study of how a material's internal structure — its atoms, their arrangement, and their bonding."
 category: science
 tags: ["materials science", "engineering", "metals", "polymers", "ceramics", "composites", "nanotechnology"]
 heroImage: "/images/articles/materials-science-hero.webp"

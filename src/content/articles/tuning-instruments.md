@@ -1,7 +1,7 @@
 ---
 title: "What Is Tuning (Instruments)?"
 slug: tuning-instruments
-description: "Tuning is the process of adjusting an instrument's pitch to a standard. Learn about equal temperament, A440, tuning methods, and why it matters. Discover the..."
+description: "Tuning is the process of adjusting a musical instrument so its pitches match a chosen standard."
 category: arts-amp-culture
 tags: ["tuning instruments", "music theory", "pitch", "temperament", "A440", "intonation"]
 heroImage: "/images/articles/tuning-instruments-hero.webp"

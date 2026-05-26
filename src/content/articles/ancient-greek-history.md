@@ -1,7 +1,7 @@
 ---
 title: "What Is Ancient Greek History?"
 slug: ancient-greek-history
-description: "Ancient Greek history spans roughly 1,500 years of civilization that gave the world democracy, philosophy, theater, and the Olympic Games. Discover the key f..."
+description: "Ancient Greek history covers roughly 1,500 years of civilization centered around the Aegean Sea."
 category: history
 tags: ["ancient greece", "greek history", "athens", "sparta", "philosophy", "democracy"]
 heroImage: "/images/articles/ancient-greek-history-hero.webp"

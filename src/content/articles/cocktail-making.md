@@ -1,7 +1,7 @@
 ---
 title: "What Is Cocktail Making?"
 slug: cocktail-making
-description: "Cocktail making is the art and science of mixing drinks. Learn about essential techniques, classic recipes, tools, and the history behind the bar. Discover t..."
+description: "Cocktail making is the practice of combining spirits, mixers, and other ingredients to create mixed drinks."
 category: everyday-concepts
 tags: ["cocktail making", "mixology", "cocktails", "drinks", "bartending", "culinary arts"]
 heroImage: "/images/articles/cocktail-making-hero.webp"

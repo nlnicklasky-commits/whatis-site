@@ -31,7 +31,9 @@ faq:
 
 # What Is Handwriting Analysis?
 
-Handwriting analysis is the examination of handwriting to draw conclusions about the writer. That simple statement conceals a major divide: there are two completely different disciplines that both use the term, and confusing them causes real problems. **Forensic document examination** asks "Who wrote this?" — comparing handwriting samples to identify or exclude a writer. **[Graphology](/graphology)** asks "What kind of person wrote this?" — claiming to reveal personality traits from handwriting features. The first is a legitimate forensic discipline used in courts. The second is a pseudoscience with no validated scientific support. They sound similar but are fundamentally different practices.
+Handwriting analysis is the examination of handwriting to draw conclusions about the writer. That simple statement conceals a major divide: there are two completely different disciplines that both use the term, and confusing them causes real problems. **Forensic document examination** asks "Who wrote this?" — comparing handwriting samples to identify or exclude a writer. **[Graphology](/graphology)** asks "What kind of person wrote this?" — claiming to reveal personality traits from handwriting features. The first is a legitimate forensic discipline used in courts.
+
+The second is a pseudoscience with no validated scientific support. They sound similar but are fundamentally different practices.
 
 ## Forensic Document Examination
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Prophecy?"
 slug: prophecy
-description: "Prophecy is the claim of receiving divine messages about the future or God's will. Learn how it functions across religions and history. Discover the key fact..."
+description: "Prophecy is the claim that a person has received a message from a divine or supernatural source and is communicating it to others."
 category: religion
 tags: ["prophecy", "prophet", "divine", "revelation", "foretelling", "religion"]
 heroImage: "/images/articles/prophecy-hero.webp"

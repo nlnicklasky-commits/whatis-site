@@ -9,8 +9,8 @@ heroAlt: "Allergies are immune system overreactions to normally harmless substan
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 7
-wordCount: 1725
+readingTime: 10
+wordCount: 2146
 tier: '2'
 relatedArticles: ["biology", "anatomy", "health-science", "genetics", "cell-biology"]
 externalSources:
@@ -158,6 +158,25 @@ The most effective "treatment" is not getting exposed in the first place. For so
 **Biologics** — engineered antibodies targeting specific immune pathways — represent the newest approach. Omalizumab (Xolair) blocks IgE antibodies and is FDA-approved for severe asthma and chronic hives. Dupilumab (Dupixent) targets inflammatory signals and treats moderate-to-severe eczema, asthma, and nasal polyps.
 
 **Oral immunotherapy** for food allergies is gaining traction. The first FDA-approved peanut allergy treatment (Palforzia) was approved in 2020. It doesn't cure peanut allergy but raises the threshold for reaction — meaning accidental exposure to small amounts is less likely to trigger anaphylaxis.
+
+## How Allergies Get Diagnosed
+
+Guessing your triggers is a losing game. People routinely blame the wrong food or assume they're allergic to a pet they actually tolerate fine. Proper testing replaces guesswork with specifics.
+
+The **skin prick test** is the workhorse. A clinician places a drop of diluted allergen on your skin (usually the forearm or back) and lightly pricks the surface so a tiny amount gets in. If you're sensitized, a small itchy welt — called a wheal — rises within about 15-20 minutes. It's fast, cheap, and you walk out with results the same visit.
+
+**Blood tests** measure specific IgE antibodies against individual allergens. These are useful when skin testing isn't practical — for instance, if you have severe eczema covering your test sites, or you can't stop taking antihistamines (which suppress skin reactions and ruin the prick test). A newer refinement called component-resolved diagnostics breaks an allergen down into its individual proteins, which helps predict whether a peanut allergy, say, is likely to be mild or dangerous.
+
+Here's the catch worth knowing: a positive test means you're *sensitized*, not necessarily that you'll react. Plenty of people test positive to foods they eat without trouble. That's why the **oral food challenge** — eating gradually increasing amounts of a suspect food under medical supervision — remains the gold standard for confirming a true food allergy. It carries real risk, so it's done in clinics stocked with emergency epinephrine, never at home.
+
+## Allergy Myths Worth Killing Off
+
+A few stubborn beliefs cause real harm:
+
+- **"Hypoallergenic" pets don't exist.** The allergen isn't the fur — it's proteins in dander, saliva, and urine. Every cat and dog produces them. Some breeds shed less, which can mean less allergen spread around your home, but no breed is truly allergy-free.
+- **A mild reaction last time doesn't predict a mild reaction next time.** Anaphylaxis can strike on an exposure that previously caused only hives. This is exactly why doctors prescribe epinephrine even to people whose past reactions seemed minor.
+- **You can't "boost" your immune system out of an allergy with supplements.** Allergies are the immune system being *too* active, not too weak. The retraining that actually works — immunotherapy — does the opposite of revving things up.
+- **Going gluten-free won't help unless you have celiac disease or a wheat allergy.** Most people cutting gluten have neither.
 
 ## Living With Allergies
 

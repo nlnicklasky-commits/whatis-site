@@ -1,7 +1,7 @@
 ---
 title: "What Is Disaster Preparedness?"
 slug: disaster-preparedness
-description: "Disaster preparedness means planning and preparing before emergencies strike. Learn about kits, plans, risk types, and how readiness saves lives. Discover th..."
+description: "Disaster preparedness is the process of planning, organizing, and equipping yourself, your family."
 category: everyday-concepts
 tags: ["disaster preparedness", "everyday-concepts"]
 heroImage: "/images/articles/disaster-preparedness-hero.webp"

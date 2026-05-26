@@ -1,7 +1,7 @@
 ---
 title: "What Is Conservation Biology?"
 slug: conservation-biology
-description: "Conservation biology is the scientific study of protecting biodiversity and managing ecosystems to prevent species extinction and habitat loss. Discover the ..."
+description: "Conservation biology is the scientific discipline dedicated to understanding and protecting Earth's biological diversity — the variety of species, genes."
 category: science
 tags: ["biology", "ecology", "environment", "biodiversity", "conservation", "wildlife", "ecosystems"]
 heroImage: "/images/articles/conservation-biology-hero.webp"

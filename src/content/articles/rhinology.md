@@ -1,7 +1,7 @@
 ---
 title: "What Is Rhinology?"
 slug: rhinology
-description: "Rhinology is the medical subspecialty focused on diagnosing and treating disorders of the nose and sinuses, from chronic sinusitis to nasal tumors. Discover ..."
+description: "Rhinology is the medical subspecialty devoted to the nose and paranasal sinuses — those air-filled cavities in your skull that you probably never think about."
 category: health-amp-wellness
 tags: ["medical", "rhinology", "ent", "nasal disorders"]
 heroImage: "/images/articles/rhinology-hero.webp"

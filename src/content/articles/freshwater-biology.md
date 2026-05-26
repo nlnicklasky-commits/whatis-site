@@ -1,7 +1,7 @@
 ---
 title: "What Is Freshwater Biology?"
 slug: freshwater-biology
-description: "Freshwater biology studies life in rivers, lakes, and wetlands. Learn about aquatic ecosystems, water quality, biodiversity, and conservation. Discover the k..."
+description: "Freshwater biology is the scientific study of living organisms and ecological processes in freshwater environments — rivers, streams, lakes, ponds, wetlands."
 category: science
 tags: ["biology", "ecology", "aquatic ecosystems", "water quality", "conservation", "limnology", "biodiversity"]
 heroImage: "/images/articles/freshwater-biology-hero.webp"

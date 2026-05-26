@@ -1,7 +1,7 @@
 ---
 title: "What Is Data Science?"
 slug: data-science
-description: "Data science combines statistics, programming, and domain expertise to extract knowledge from data. Learn about methods, tools, and careers. Discover the key..."
+description: "Data science is an interdisciplinary field that uses scientific methods, statistics, algorithms."
 category: technology
 tags: ["data science", "machine learning", "statistics", "analytics", "big data", "ai", "programming"]
 heroImage: "/images/articles/data-science-hero.webp"

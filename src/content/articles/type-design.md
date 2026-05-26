@@ -1,7 +1,7 @@
 ---
 title: "What Is Type Design?"
 slug: type-design
-description: "Type design is the art of creating typefaces and fonts. Learn about letterform anatomy, design principles, font formats, and famous type designers. Discover ..."
+description: "Type design is the discipline of creating typefaces — the visual systems of letters, numbers, punctuation, and symbols that we read every day."
 category: arts-amp-culture
 tags: ["type design", "typography", "fonts", "graphic design", "letterforms", "visual communication"]
 heroImage: "/images/articles/type-design-hero.webp"

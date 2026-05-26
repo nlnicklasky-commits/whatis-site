@@ -1,7 +1,7 @@
 ---
 title: "What Is Medical Anthropology?"
 slug: medical-anthropology
-description: "Medical anthropology studies how culture, society, and politics shape health, illness, and healing practices across different populations worldwide. Discover..."
+description: "Medical anthropology is the study of how human health, illness, and healing are shaped by culture, social structures, and political forces."
 category: health-amp-wellness
 tags: ["anthropology", "medical anthropology", "health"]
 heroImage: "/images/articles/medical-anthropology-hero.webp"

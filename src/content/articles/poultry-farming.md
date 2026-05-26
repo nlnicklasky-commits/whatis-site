@@ -1,7 +1,7 @@
 ---
 title: "What Is Poultry Farming?"
 slug: poultry-farming
-description: "Poultry farming is the raising of domesticated birds like chickens, turkeys, and ducks for meat, eggs, and other products on a commercial scale. Discover the..."
+description: "Poultry farming is the practice of raising domesticated birds — primarily chickens, but also turkeys, ducks, geese, and increasingly guinea fowl and quail."
 category: science
 tags: ["poultry farming", "agriculture", "chicken farming", "egg production", "meat production", "livestock", "animal husbandry"]
 heroImage: "/images/articles/poultry-farming-hero.webp"

@@ -9,8 +9,8 @@ heroAlt: "Veterinary medicine prevents, diagnoses, and treats disease in animals
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 10
-wordCount: 2515
+readingTime: 14
+wordCount: 3147
 tier: '1'
 relatedArticles: ["biology", "anatomy", "pharmacology", "genetics", "microbiology"]
 externalSources:
@@ -204,6 +204,30 @@ The breadth of veterinary career options surprises most people. Beyond clinical 
 - **Laboratory animal medicine** — ensuring humane treatment of research animals and managing research colonies
 
 The field is growing. The Bureau of Labor Statistics projects 19% job growth for veterinarians through 2032, much faster than the average for all occupations. Pet ownership continues to rise, pet owners are spending more on veterinary care, and the demand for food safety and public health expertise isn't going anywhere.
+
+## A Brief History of the Profession
+
+People have treated sick animals for as long as they've kept them. Egyptian papyri from around 1900 BCE describe treatments for cattle and dogs. In ancient India, the emperor Ashoka established what may have been the first animal hospitals in the 3rd century BCE. But veterinary medicine as a formal science is much younger.
+
+The turning point came in 1761, when Claude Bourgelat founded the world's first veterinary school in Lyon, France. The trigger was a practical disaster: rinderpest, a viral cattle plague, was wiping out European herds and threatening the food supply. Governments needed trained people who understood animal disease, and the school model spread quickly across Europe.
+
+In the United States, the American Veterinary Medical Association formed in 1863, and the profession grew up alongside agriculture. For its first century, the work was mostly about horses — the engines of transportation and farming — and then about the livestock that fed a growing country. The shift toward treating pets, which now dominates the field, only accelerated after World War II as dogs and cats moved indoors and became family members rather than working animals.
+
+## What Happens at a Vet Visit, and Why It Costs What It Does
+
+A routine exam looks simple from the owner's side: the vet looks the animal over, maybe runs a test, and sends you home. Underneath that is a structured process. The vet takes a history (what's changed, eating habits, behavior), then performs a physical exam from nose to tail — checking heart and lung sounds, palpating the abdomen, examining eyes, ears, teeth, skin, and lymph nodes. Because the patient can't describe symptoms, the physical exam carries far more diagnostic weight than it does in human [emergency medicine](/emergency-medicine).
+
+The cost surprises people because a veterinary clinic is, in effect, a compressed version of an entire human hospital. The same building houses the pharmacy, the lab, the X-ray suite, the surgical theater, and the recovery ward — and the practice pays for all of it without insurance subsidies or public funding. When a dog needs surgery, the clinic provides the anesthesia, the [pharmacology](/pharmacology) expertise, the monitoring equipment, and the recovery care that a human patient would receive across several separate, insured institutions.
+
+This is also where pet insurance changes the math. By covering large unexpected bills, it lets owners say yes to treatments — chemotherapy, advanced imaging, orthopedic surgery — they might otherwise decline on cost alone. That shift is steadily pushing veterinary medicine toward the same standard of care found in human hospitals.
+
+## Preventive Medicine: The Quiet Core of the Job
+
+Most of what keeps animals healthy isn't dramatic surgery — it's prevention, and it's where vets spend a surprising share of their time. Vaccination programs have nearly eliminated diseases like canine distemper and feline panleukopenia in well-cared-for pet populations, and rabies vaccination of pets is a frontline defense for human [public health](/public-health) too.
+
+Parasite control is constant. Heartworm, transmitted by mosquitoes, can be fatal and is far cheaper to prevent than to treat. Ticks and fleas spread disease to both animals and people. Then there's nutrition and weight management — pet obesity is one of the most common and most overlooked health problems vets see, driving diabetes, arthritis, and shortened lifespans. A vet who talks an owner into a leaner diet may add years to an animal's life without a single prescription.
+
+Dental care belongs here as well. Untreated dental disease is the most common condition in adult dogs and cats, and it isn't just bad breath — chronic infection in the mouth can damage the heart, liver, and kidneys over time.
 
 ## How Veterinary Medicine Has Changed
 

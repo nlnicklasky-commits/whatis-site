@@ -1,7 +1,7 @@
 ---
 title: "What Is Taxidermy?"
 slug: taxidermy
-description: "Taxidermy is the art of preserving and mounting animal specimens to appear lifelike. Learn the process, its history, and its role in science and art. Discove..."
+description: "Taxidermy is the art and science of preserving an animal's body by mounting its skin over an artificial form to create a lifelike representation."
 category: everyday-concepts
 tags: ["taxidermy", "animal preservation", "specimen", "mounting", "craft", "natural history"]
 heroImage: "/images/articles/taxidermy-hero.webp"

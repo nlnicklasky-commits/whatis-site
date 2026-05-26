@@ -1,7 +1,7 @@
 ---
 title: "What Is Anesthesiology?"
 slug: anesthesiology
-description: "Anesthesiology is the medical specialty focused on pain management, sedation, and life support during surgery and other procedures. Discover the key facts, h..."
+description: "Anesthesiology is the branch of medicine dedicated to pain relief, sedation, and the management of patients' vital functions before, during."
 category: health-amp-wellness
 tags: ["anesthesiology", "anesthesia", "medicine", "surgery", "pain management"]
 heroImage: "/images/articles/anesthesiology-hero.webp"

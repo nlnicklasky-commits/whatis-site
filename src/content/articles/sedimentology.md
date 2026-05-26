@@ -1,7 +1,7 @@
 ---
 title: "What Is Sedimentology?"
 slug: sedimentology
-description: "Sedimentology studies how sediments form, move, and become rock, covering depositional environments, sedimentary structures, and Earth's history. Discover th..."
+description: "Sedimentology is the branch of geology that studies sediments—particles of rock, mineral, and organic material—and the processes by which they are produced."
 category: science
 tags: ["sedimentology", "geology", "sedimentary rocks", "stratigraphy", "earth science", "depositional environments"]
 heroImage: "/images/articles/sedimentology-hero.webp"

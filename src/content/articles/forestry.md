@@ -1,7 +1,7 @@
 ---
 title: "What Is Forestry?"
 slug: forestry
-description: "Forestry is the science and practice of managing forests for timber, biodiversity, water protection, carbon storage, and recreation. Discover the key facts, ..."
+description: "Forestry is the science, art, and practice of managing forests, woodlands, and associated resources for human benefit and ecological health."
 category: science
 tags: ["forests", "conservation", "sustainability", "ecology", "timber", "natural resources", "environmental science"]
 heroImage: "/images/articles/forestry-hero.webp"

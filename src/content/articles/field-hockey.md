@@ -1,7 +1,7 @@
 ---
 title: "What Is Field Hockey?"
 slug: field-hockey
-description: "Field hockey is a team sport where players use curved sticks to hit a ball into a goal. Learn about rules, positions, equipment, and Olympic history. Discove..."
+description: "Field hockey is a team sport in which two sides of 11 players use curved sticks to maneuver a hard ball across a pitch and into the opposing team's goal."
 category: sports
 tags: ["hockey", "team sport", "stick sport", "olympics", "athletics", "field games"]
 heroImage: "/images/articles/field-hockey-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Music Theory?"
 slug: music-theory
-description: "Music theory is the study of how music works, covering melody, harmony, rhythm, and form. Learn the fundamentals that underpin all musical styles. Discover t..."
+description: "Music theory is the study of how music works — the rules, patterns, and structures that organize sound into something meaningful."
 category: arts-amp-culture
 tags: ["music theory", "harmony", "melody", "rhythm", "scales", "music fundamentals"]
 heroImage: "/images/articles/music-theory-hero.webp"

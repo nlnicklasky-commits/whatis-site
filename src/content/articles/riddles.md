@@ -1,7 +1,7 @@
 ---
 title: "What Is Riddles?"
 slug: riddles
-description: "Riddles are puzzles posed as questions or statements requiring creative thinking to solve. Learn their history and role across cultures. Discover the key fac..."
+description: "A riddle is a question, statement, or description deliberately phrased to be puzzling, requiring creative or lateral thinking to solve."
 category: arts-amp-culture
 tags: ["riddles", "puzzles", "wordplay", "folklore", "language", "logic"]
 heroImage: "/images/articles/riddles-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Riddles?
 
-A riddle is a question, statement, or description deliberately phrased to be puzzling, requiring creative or lateral thinking to solve. "I have cities but no houses. I have mountains but no trees. I have water but no fish. What am I?" (A map.) Riddles have existed in every documented human culture for thousands of years, serving as entertainment, [education](/education), social competition, and — in [mythology](/mythology) at least — matters of life and death.
+A riddle is a question, statement, or description deliberately phrased to be puzzling, requiring creative or lateral thinking to solve. "I have cities but no houses. I have mountains but no trees.
+
+I have water but no fish. What am I?" (A map.) Riddles have existed in every documented human culture for thousands of years, serving as entertainment, [education](/education), social competition, and — in [mythology](/mythology) at least — matters of life and death.
 
 ## How Riddles Work
 

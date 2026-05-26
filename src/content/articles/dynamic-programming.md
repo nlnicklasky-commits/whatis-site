@@ -1,7 +1,7 @@
 ---
 title: "What Is Dynamic Programming?"
 slug: dynamic-programming
-description: "Dynamic programming solves problems by breaking them into overlapping subproblems and storing results to avoid redundant work. Discover the key facts, histor..."
+description: "Active programming (DP) is an algorithmic problem-solving technique that works by breaking a complex problem into simpler, overlapping subproblems."
 category: technology
 tags: ["dynamic programming", "algorithms", "computer science", "optimization", "recursion", "memoization", "programming"]
 heroImage: "/images/articles/dynamic-programming-hero.webp"

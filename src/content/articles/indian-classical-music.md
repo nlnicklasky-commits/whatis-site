@@ -1,7 +1,7 @@
 ---
 title: "What Is Indian Classical Music?"
 slug: indian-classical-music
-description: "Indian classical music is one of the world's oldest musical traditions, built on ragas and talas. Learn about Hindustani, Carnatic, and key concepts. Discove..."
+description: "Indian classical music is one of the world's oldest and most sophisticated musical systems."
 category: arts-amp-culture
 tags: ["indian classical music", "raga", "tala", "hindustani music", "carnatic music", "indian music"]
 heroImage: "/images/articles/indian-classical-music-hero.webp"

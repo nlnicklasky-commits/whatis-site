@@ -1,7 +1,7 @@
 ---
 title: "What Is Beer Brewing?"
 slug: beer-brewing
-description: "Beer brewing is the process of making beer by steeping grain in water, boiling with hops, and fermenting with yeast to produce an alcoholic beverage. Discove..."
+description: "Beer brewing is the process of converting grain starches — usually from malted barley — into a fermented alcoholic beverage through mashing, boiling."
 category: everyday-concepts
 tags: ["beer brewing", "brewing", "beer", "hops", "malt", "yeast"]
 heroImage: "/images/articles/beer-brewing-hero.webp"

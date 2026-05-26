@@ -1,7 +1,7 @@
 ---
 title: "What Is Relativity?"
 slug: relativity
-description: "Relativity is Einstein's theory describing how space, time, and gravity work at cosmic scales. Learn the basics of special and general relativity. Discover t..."
+description: "Relativity is Albert Einstein's theory of how space, time, mass, and energy relate to each other."
 category: everyday-concepts
 tags: ["relativity", "Einstein", "physics", "spacetime", "gravity", "science"]
 heroImage: "/images/articles/relativity-hero.webp"

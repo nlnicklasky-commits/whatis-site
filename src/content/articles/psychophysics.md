@@ -35,7 +35,9 @@ faq:
 
 # What Is Psychophysics?
 
-Psychophysics is the scientific study of the relationship between physical stimuli and the subjective sensations they produce. It asks questions like: How bright does a light need to be before you can see it? How much louder does a sound need to get before you notice the difference? If you add one gram to a 100-gram weight, can you feel it—and what about adding one gram to a 1,000-gram weight? These questions sit right at the boundary between [physics](/physics) and [psychology](/psychology), which is exactly where Gustav Fechner planted his flag in 1860 when he coined the term.
+Psychophysics is the scientific study of the relationship between physical stimuli and the subjective sensations they produce. It asks questions like: How bright does a light need to be before you can see it? How much louder does a sound need to get before you notice the difference?
+
+If you add one gram to a 100-gram weight, can you feel it—and what about adding one gram to a 1,000-gram weight? These questions sit right at the boundary between [physics](/physics) and [psychology](/psychology), which is exactly where Gustav Fechner planted his flag in 1860 when he coined the term.
 
 ## The Birth of Quantitative Psychology
 

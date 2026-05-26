@@ -1,7 +1,7 @@
 ---
 title: "What Is Forensic Psychology?"
 slug: forensic-psychology
-description: "Forensic psychology applies psychological science to the legal system, covering criminal profiling, competency evaluations, and expert testimony. Discover th..."
+description: "Forensic psychology is the application of psychological science and clinical practice to questions and issues relating to law and the legal system."
 category: science
 tags: ["psychology", "law", "justice system", "mental health", "criminal behavior", "expert testimony", "assessment"]
 heroImage: "/images/articles/forensic-psychology-hero.webp"

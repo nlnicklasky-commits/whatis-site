@@ -1,7 +1,7 @@
 ---
 title: "What Is Newspaper History?"
 slug: newspaper-history
-description: "Newspaper history traces how printed news evolved from handwritten bulletins to mass media empires. Learn about the press's origins and impact. Discover the ..."
+description: "Newspaper history is the story of how humans organized and distributed written news."
 category: everyday-concepts
 tags: ["newspaper history", "journalism", "media", "printing press", "press freedom", "mass media"]
 heroImage: "/images/articles/newspaper-history-hero.webp"

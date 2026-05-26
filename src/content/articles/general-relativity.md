@@ -1,7 +1,7 @@
 ---
 title: "What Is General Relativity?"
 slug: general-relativity
-description: "General relativity is Einstein's theory explaining gravity as spacetime curvature caused by mass and energy, reshaping our view of the universe. Discover the..."
+description: "General relativity is Albert Einstein's theory of gravitation, published in 1915."
 category: science
 tags: ["general relativity", "gravity", "spacetime", "einstein", "physics", "astrophysics", "cosmology"]
 heroImage: "/images/articles/general-relativity-hero.webp"

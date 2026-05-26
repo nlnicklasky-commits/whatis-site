@@ -1,7 +1,7 @@
 ---
 title: "What Is Molecular Biology?"
 slug: molecular-biology
-description: "Molecular biology studies the molecular basis of life—DNA, RNA, and proteins. Learn how genes work, how proteins are made, and why it matters. Discover the k..."
+description: "Molecular biology is the branch of biology that studies the structure and function of the macromolecules essential to life—primarily DNA, RNA, and proteins."
 category: science
 tags: ["molecular biology", "dna", "rna", "proteins", "genetics", "gene expression", "biology"]
 heroImage: "/images/articles/molecular-biology-hero.webp"

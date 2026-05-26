@@ -1,7 +1,7 @@
 ---
 title: "What Is Asian History?"
 slug: asian-history
-description: "Asian history covers thousands of years of civilization across the world's largest continent, from ancient China and India to modern geopolitics. Discover th..."
+description: "Asian history encompasses the political, cultural, economic, and social developments across Earth's largest and most populous continent."
 category: history
 tags: ["asian history", "asia", "china", "india", "japan", "silk road"]
 heroImage: "/images/articles/asian-history-hero.webp"

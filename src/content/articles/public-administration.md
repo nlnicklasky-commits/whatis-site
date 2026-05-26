@@ -1,7 +1,7 @@
 ---
 title: "What Is Public Administration?"
 slug: public-administration
-description: "Public administration is the implementation of government policy through organized management of public programs and services. Discover the key facts, histor..."
+description: "Public administration is the field concerned with implementing government policy and managing public programs, services, and organizations."
 category: politics
 tags: ["public administration", "government", "public policy", "bureaucracy", "public service", "management"]
 heroImage: "/images/articles/public-administration-hero.webp"

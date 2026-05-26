@@ -1,7 +1,7 @@
 ---
 title: "What Is Cellular Automata?"
 slug: cellular-automata
-description: "Cellular automata are discrete computational models where simple rules applied to a grid of cells produce complex, emergent behavior over time. Discover the ..."
+description: "A cellular automaton is a discrete model of computation consisting of a grid of cells, each in one of a finite number of states."
 category: technology
 tags: ["cellular automata", "computation", "simulation", "complexity theory", "mathematics", "game of life", "discrete models"]
 heroImage: "/images/articles/cellular-automata-hero.webp"

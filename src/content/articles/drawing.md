@@ -31,7 +31,9 @@ faq:
 
 # What Is Drawing?
 
-Drawing is the act of making marks on a surface — typically with pencils, pens, charcoal, or chalk on paper — to create images, express ideas, or record observations. It's the most direct form of visual art: just a tool, a surface, and your hand translating what your eye sees (or your mind imagines) into visible marks. Every visual artist draws. Architects, engineers, designers, scientists, and surgeons draw. Children draw before they write. It's fundamental.
+Drawing is the act of making marks on a surface — typically with pencils, pens, charcoal, or chalk on paper — to create images, express ideas, or record observations. It's the most direct form of visual art: just a tool, a surface, and your hand translating what your eye sees (or your mind imagines) into visible marks. Every visual artist draws.
+
+Architects, engineers, designers, scientists, and surgeons draw. Children draw before they write. It's fundamental.
 
 ## The Oldest Art Form
 

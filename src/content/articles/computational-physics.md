@@ -1,7 +1,7 @@
 ---
 title: "What Is Computational Physics?"
 slug: computational-physics
-description: "Computational physics uses numerical algorithms and computer simulations to solve physics problems too complex for pen-and-paper math. Discover the key facts..."
+description: "Computational physics is the branch of physics that uses numerical algorithms, computer simulations."
 category: science
 tags: ["physics", "computational science", "simulation", "numerical methods", "scientific computing", "modeling", "research"]
 heroImage: "/images/articles/computational-physics-hero.webp"

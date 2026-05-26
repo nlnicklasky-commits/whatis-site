@@ -1,7 +1,7 @@
 ---
 title: "What Is Bodybuilding?"
 slug: bodybuilding
-description: "Bodybuilding is the practice of progressive resistance training to develop musculature, combined with nutrition and posing for aesthetic competition. Discove..."
+description: "Bodybuilding is the practice of using progressive resistance training (weight lifting) to develop and control the musculature of the body for aesthetic."
 category: everyday-concepts
 tags: ["bodybuilding", "fitness", "weight training", "muscle", "nutrition", "strength"]
 heroImage: "/images/articles/bodybuilding-hero.webp"

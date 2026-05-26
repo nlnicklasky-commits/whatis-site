@@ -1,7 +1,7 @@
 ---
 title: "What Is The History of Philosophy?"
 slug: the-history-of-philosophy
-description: "The history of philosophy follows 2,600 years of human thought on existence, knowledge, ethics, and reality across world traditions. Discover the key facts, ..."
+description: "The history of philosophy is the record of humanity's most persistent attempt to figure out what's going on. What exists?"
 category: history
 tags: ["history of philosophy", "philosophy", "ancient philosophy", "ethics", "metaphysics"]
 heroImage: "/images/articles/the-history-of-philosophy-hero.webp"
@@ -33,7 +33,9 @@ faq:
 
 # What Is The History of Philosophy?
 
-The history of [philosophy](/philosophy) is the record of humanity's most persistent attempt to figure out what's going on. What exists? What can we know? How should we live? What makes a society just? These questions emerged independently across multiple civilizations around 2,600 years ago, and — here's the thing — we're still arguing about most of them.
+The history of [philosophy](/philosophy) is the record of humanity's most persistent attempt to figure out what's going on. What exists? What can we know?
+
+How should we live? What makes a society just? These questions emerged independently across multiple civilizations around 2,600 years ago, and — here's the thing — we're still arguing about most of them.
 
 Philosophy isn't a body of settled knowledge the way [chemistry](/chemistry) is. It's more like a conversation that's been going on for millennia, where the questions matter as much as the answers. Many of the disciplines we now consider separate — [science](/the-history-of-science), [psychology](/psychology), [linguistics](/linguistics), [political science](/political-science) — originally spun off from philosophy when they developed their own methods.
 

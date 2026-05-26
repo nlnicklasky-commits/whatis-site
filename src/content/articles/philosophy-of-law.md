@@ -31,7 +31,9 @@ faq:
 
 # What Is [Philosophy](/philosophy) of Law?
 
-Philosophy of law — also called [jurisprudence](/jurisprudence) — is the branch of philosophy that asks fundamental questions about the nature, authority, and purpose of law. What makes something a law rather than just a command backed by force? Does law have to be moral to be valid? Why should anyone obey the law? What justifies punishing people who break it? These aren't questions that lawyers typically ask in courtrooms, but the answers shape every legal system on Earth.
+Philosophy of law — also called [jurisprudence](/jurisprudence) — is the branch of philosophy that asks fundamental questions about the nature, authority, and purpose of law. What makes something a law rather than just a command backed by force? Does law have to be moral to be valid?
+
+Why should anyone obey the law? What justifies punishing people who break it? These aren't questions that lawyers typically ask in courtrooms, but the answers shape every legal system on Earth.
 
 ## The Core Question
 

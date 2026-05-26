@@ -1,7 +1,7 @@
 ---
 title: "What Is Emotional Intelligence?"
 slug: emotional-intelligence
-description: "Emotional intelligence is the ability to recognize, understand, and manage emotions. Learn about EQ, its components, and why it matters. Discover the key fac..."
+description: "Emotional intelligence (EI or EQ) is the capacity to recognize, understand, manage, and effectively use emotions."
 category: psychology
 tags: ["emotional intelligence", "eq", "emotions", "self-awareness", "empathy", "social skills", "psychology"]
 heroImage: "/images/articles/emotional-intelligence-hero.webp"

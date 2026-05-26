@@ -1,7 +1,7 @@
 ---
 title: "What Is Pharmacy?"
 slug: pharmacy
-description: "Pharmacy is the science of preparing, dispensing, and managing medications. Learn about pharmacist roles, education, drug safety, and career paths. Discover ..."
+description: "Pharmacy is the health science concerned with the preparation, dispensing, and appropriate use of medications."
 category: health-amp-wellness
 tags: ["pharmacist", "medications", "drugs", "healthcare"]
 heroImage: "/images/articles/pharmacy-hero.webp"

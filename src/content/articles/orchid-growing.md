@@ -1,7 +1,7 @@
 ---
 title: "What Is Orchid Growing?"
 slug: orchid-growing
-description: "Orchid growing is the cultivation and care of orchids, one of the largest plant families. Learn about varieties, care tips, and growing techniques. Discover ..."
+description: "Orchid growing is the cultivation of orchids — the second-largest family of flowering plants on Earth."
 category: everyday-concepts
 tags: ["orchid growing", "orchids", "horticulture", "houseplants", "phalaenopsis", "plant care"]
 heroImage: "/images/articles/orchid-growing-hero.webp"

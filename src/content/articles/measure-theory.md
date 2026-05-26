@@ -31,7 +31,9 @@ faq:
 
 # What Is Measure Theory?
 
-Measure theory is the branch of [mathematics](/mathematics) that deals with a deceptively simple question: how do you assign a "size" to a set of things? The length of a line segment. The area of a region. The probability of an event. These all seem intuitive, but when you try to make them mathematically precise — especially for complicated or infinite sets — things get weird fast.
+Measure theory is the branch of [mathematics](/mathematics) that deals with a deceptively simple question: how do you assign a "size" to a set of things? The length of a line segment. The area of a region.
+
+The probability of an event. These all seem intuitive, but when you try to make them mathematically precise — especially for complicated or infinite sets — things get weird fast.
 
 The theory was developed primarily by Henri Lebesgue in the early 1900s, and it's now the foundation for modern probability, advanced [calculus](/calculus) (integration theory), and large parts of mathematical analysis. If you've taken a probability course and were told "the probability of an event is a number between 0 and 1," measure theory is the machinery that makes that statement rigorous.
 

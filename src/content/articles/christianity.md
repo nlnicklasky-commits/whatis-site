@@ -1,7 +1,7 @@
 ---
 title: "What Is Christianity?"
 slug: christianity
-description: "Christianity is a monotheistic religion centered on Jesus Christ. Learn about its beliefs, history, denominations, scriptures, and global influence. Discover..."
+description: "Christianity is a monotheistic religion based on the life, teachings, death, and resurrection of Jesus of Nazareth."
 category: philosophy
 tags: ["christianity", "religion", "jesus christ", "bible", "faith", "theology", "monotheism"]
 heroImage: "/images/articles/christianity-hero.webp"

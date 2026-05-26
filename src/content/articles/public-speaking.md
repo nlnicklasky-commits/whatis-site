@@ -1,7 +1,7 @@
 ---
 title: "What Is Public Speaking?"
 slug: public-speaking
-description: "Public speaking is the act of presenting ideas to a live audience. Learn techniques for overcoming fear and delivering effective talks. Discover the key fact..."
+description: "Public speaking is the act of delivering a structured message to a live audience."
 category: everyday-concepts
 tags: ["public speaking", "communication skills", "presentation", "rhetoric", "oratory", "speaking"]
 heroImage: "/images/articles/public-speaking-hero.webp"

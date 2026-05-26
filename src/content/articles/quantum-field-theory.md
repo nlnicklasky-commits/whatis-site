@@ -35,7 +35,9 @@ faq:
 
 # What Is Quantum Field Theory?
 
-Quantum field theory (QFT) is the theoretical framework that combines [quantum mechanics](/quantum-mechanics) with special [relativity](/relativity) to describe the fundamental particles and forces of nature. In QFT, the basic entities aren't particles -- they're fields that extend throughout all of space and time. What we call "particles" are really localized excitations (vibrations) of these fields. An electron is a ripple in the electron field. A photon is a ripple in the electromagnetic field. Everything you've ever seen, touched, or measured is made of field excitations.
+Quantum field theory (QFT) is the theoretical framework that combines [quantum mechanics](/quantum-mechanics) with special [relativity](/relativity) to describe the fundamental particles and forces of nature. In QFT, the basic entities aren't particles -- they're fields that extend throughout all of space and time. What we call "particles" are really localized excitations (vibrations) of these fields.
+
+An electron is a ripple in the electron field. A photon is a ripple in the electromagnetic field. Everything you've ever seen, touched, or measured is made of field excitations.
 
 This is probably the most important idea in modern [physics](/experimental-physics), and most people have never heard of it. Quantum mechanics gets all the popular attention. [General relativity](/general-relativity) gets the cool visualizations. But quantum field theory is the framework that actually describes how the universe works at its most fundamental level. It's the mathematical backbone of the Standard Model -- the theory that accounts for every particle and every force (except gravity) we've ever observed.
 

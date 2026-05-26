@@ -1,7 +1,7 @@
 ---
 title: "What Is Library Science?"
 slug: library-science
-description: "Library science is the study of how information is organized, preserved, and made accessible. Learn about cataloging, digital libraries, and more. Discover t..."
+description: "Library science is the academic and professional discipline concerned with how information is collected, organized, preserved."
 category: technology
 tags: ["library science", "information science", "cataloging", "archives", "knowledge management", "digital libraries", "research"]
 heroImage: "/images/articles/library-science-hero.webp"

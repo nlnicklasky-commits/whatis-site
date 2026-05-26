@@ -1,7 +1,7 @@
 ---
 title: "What Is Magnetism?"
 slug: magnetism
-description: "Magnetism is a force from moving electric charges. Learn about magnetic fields, electromagnetism, ferromagnetism, and how magnets shape technology. Discover ..."
+description: "Magnetism is a fundamental force of nature arising from the motion of electric charges."
 category: science
 tags: ["magnetism", "physics", "magnetic fields", "electromagnetism", "ferromagnetism", "magnets", "science"]
 heroImage: "/images/articles/magnetism-hero.webp"

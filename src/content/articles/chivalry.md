@@ -1,7 +1,7 @@
 ---
 title: "What Is Chivalry?"
 slug: chivalry
-description: "Chivalry was the medieval code of conduct for knights, blending martial skill, religious duty, and courtly behavior into an idealized warrior ethic. Discover..."
+description: "Chivalry was the moral, religious, and social code that governed the behavior of medieval European knights — a system of ideals that blended martial courage."
 category: history
 tags: ["chivalry", "medieval history", "knighthood", "middle ages", "code of conduct"]
 heroImage: "/images/articles/chivalry-hero.webp"

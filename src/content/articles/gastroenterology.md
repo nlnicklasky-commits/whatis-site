@@ -1,7 +1,7 @@
 ---
 title: "What Is Gastroenterology?"
 slug: gastroenterology
-description: "Gastroenterology is the medical specialty focused on diagnosing and treating disorders of the digestive system, from the esophagus to the rectum. Discover th..."
+description: "Gastroenterology is the branch of medicine devoted to the digestive system and its disorders."
 category: health-amp-wellness
 tags: ["gastroenterology", "digestive system", "gastrointestinal", "medicine", "health"]
 heroImage: "/images/articles/gastroenterology-hero.webp"

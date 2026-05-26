@@ -1,7 +1,7 @@
 ---
 title: "What Is Child Development?"
 slug: child-development
-description: "Child development is the study of how children grow physically, cognitively, emotionally, and socially from birth through adolescence. Discover the key facts..."
+description: "Child development is the scientific study of how children change and grow from conception through adolescence — physically, cognitively, emotionally."
 category: health-amp-wellness
 tags: ["child development", "psychology", "education", "parenting", "childhood"]
 heroImage: "/images/articles/child-development-hero.webp"

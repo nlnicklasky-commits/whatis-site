@@ -1,7 +1,7 @@
 ---
 title: "What Is Real Estate?"
 slug: real-estate
-description: "Real estate covers land, buildings, and natural resources attached to them, including property types, markets, valuation, and economic impact. Discover the k..."
+description: "Real estate is land, the buildings and structures sitting on it, and the natural resources attached to it — water, minerals, crops, everything."
 category: finance
 tags: ["real estate", "property", "housing", "investment", "commercial property", "residential", "finance"]
 heroImage: "/images/articles/real-estate-hero.webp"

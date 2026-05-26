@@ -1,7 +1,7 @@
 ---
 title: "What Is Visual Effects?"
 slug: visual-effects
-description: "Visual effects (VFX) are digitally created or enhanced imagery in film and media. Learn about CGI, compositing, motion capture, and VFX careers. Discover the..."
+description: "Visual effects (VFX) are the processes by which imagery is created, altered, or enhanced outside of live-action filming."
 category: everyday-concepts
 tags: ["visual effects", "VFX", "CGI", "filmmaking", "digital art", "post-production"]
 heroImage: "/images/articles/visual-effects-hero.webp"

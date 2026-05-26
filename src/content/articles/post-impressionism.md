@@ -1,7 +1,7 @@
 ---
 title: "What Is Post-Impressionism?"
 slug: post-impressionism
-description: "Post-Impressionism was an art movement featuring Van Gogh, Cezanne, and Gauguin who pushed beyond Impressionism toward personal expression. Discover the key ..."
+description: "Post-Impressionism is a term for the diverse art styles that emerged in France between roughly 1886 and 1910."
 category: arts-amp-culture
 tags: ["post-impressionism", "art movement", "vincent van gogh", "paul cézanne", "georges seurat", "paul gauguin"]
 heroImage: "/images/articles/post-impressionism-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Myrmecology?"
 slug: myrmecology
-description: "Myrmecology is the scientific study of ants — the most successful social insects on Earth. Discover ant biology, colonies, and why they matter. Discover the ..."
+description: "Myrmecology is the branch of entomology (insect science) dedicated to the study of ants."
 category: science
 tags: ["myrmecology", "ants", "entomology", "social insects", "ant colonies", "insect biology", "ecology"]
 heroImage: "/images/articles/myrmecology-hero.webp"
@@ -37,7 +37,9 @@ faq:
 
 # What Is Myrmecology?
 
-Myrmecology is the branch of [entomology](/entomology) (insect science) dedicated to the study of ants. That might sound extremely specific — an entire scientific discipline for one family of insects? — but ants are arguably the most successful animal group on the planet. They've colonized every continent except Antarctica. Their combined biomass outweighs all wild mammals and birds put together. They've been [farming](/farming) fungi for 60 million years (humans have been farming for about 12,000). And their colonies function as superorganisms — collective entities that exhibit problem-solving abilities no individual ant possesses.
+Myrmecology is the branch of [entomology](/entomology) (insect science) dedicated to the study of ants. That might sound extremely specific — an entire scientific discipline for one family of insects? — but ants are arguably the most successful animal group on the planet. They've colonized every continent except Antarctica.
+
+Their combined biomass outweighs all wild mammals and birds put together. They've been [farming](/farming) fungi for 60 million years (humans have been farming for about 12,000). And their colonies function as superorganisms — collective entities that exhibit problem-solving abilities no individual ant possesses.
 
 The word comes from the Greek *myrmex* (ant) and *logos* (study). Myrmecologists investigate ant [taxonomy](/taxonomy), [ecology](/ecology), [behavior](/animal-behavior), evolution, [physiology](/physiology), and increasingly, the applications of ant-inspired algorithms in [robotics](/robotics), [computer science](/computer-science), and [logistics](/logistics).
 

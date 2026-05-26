@@ -1,7 +1,7 @@
 ---
 title: "What Is Natural Language Processing?"
 slug: natural-language-processing
-description: "Natural language processing (NLP) teaches computers to understand human language. Learn how NLP works, from chatbots to translation to search. Discover the k..."
+description: "Natural language processing — usually abbreviated NLP — is the field of artificial intelligence focused on enabling computers to understand, interpret."
 category: technology
 tags: ["natural language processing", "nlp", "artificial intelligence", "machine learning", "computational linguistics", "language technology"]
 heroImage: "/images/articles/natural-language-processing-hero.webp"

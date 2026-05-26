@@ -1,7 +1,7 @@
 ---
 title: "What Is Pottery?"
 slug: pottery
-description: "Pottery is the craft of shaping clay into functional or decorative objects and firing them in a kiln. Learn the techniques and history. Discover the key fact..."
+description: "Pottery is the craft of forming clay into objects — bowls, cups, plates, vases, sculptures — and hardening them permanently through firing in a kiln."
 category: arts-amp-culture
 tags: ["pottery", "ceramics", "clay", "kiln", "glazing", "hand-building"]
 heroImage: "/images/articles/pottery-hero.webp"

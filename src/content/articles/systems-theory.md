@@ -1,7 +1,7 @@
 ---
 title: "What Is Systems Theory?"
 slug: systems-theory
-description: "Systems theory is the study of how complex wholes emerge from interacting parts, applicable across biology, engineering, sociology, and management. Discover ..."
+description: "Systems theory is the interdisciplinary study of systems — organized wholes made up of interacting."
 category: science
 tags: ["philosophy", "systems theory", "complexity", "cybernetics", "interdisciplinary science", "systems thinking"]
 heroImage: "/images/articles/systems-theory-hero.webp"

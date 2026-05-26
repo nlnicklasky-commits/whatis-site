@@ -1,7 +1,7 @@
 ---
 title: "What Is Fishing?"
 slug: fishing
-description: "Fishing is the practice of catching fish for food, sport, or livelihood. Learn about techniques, gear, regulations, and the global fishing industry. Discover..."
+description: "Fishing is the activity of catching fish and other aquatic organisms, whether for food, recreation, sport, or commercial sale."
 category: sports
 tags: ["angling", "seafood", "fisheries", "recreation", "commercial fishing", "sustainability"]
 heroImage: "/images/articles/fishing-hero.webp"

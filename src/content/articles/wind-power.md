@@ -31,7 +31,9 @@ faq:
 
 # What Is Wind Power?
 
-Wind power is the conversion of kinetic [energy](/alternative-energy) in moving air into [electricity](/electricity), primarily using wind turbines. It's one of the fastest-growing [energy](/renewable-energy) sources in the world — global installed wind capacity increased from about 17 gigawatts in 2000 to over 900 GW by 2023. Wind generated roughly 10% of U.S. electricity in 2023 and over 30% of electricity in Denmark. The technology works, it's competitive on cost, and it's scaling rapidly. It also has real limitations that honest discussion requires acknowledging.
+Wind power is the conversion of kinetic [energy](/alternative-energy) in moving air into [electricity](/electricity), primarily using wind turbines. It's one of the fastest-growing [energy](/renewable-energy) sources in the world — global installed wind capacity increased from about 17 gigawatts in 2000 to over 900 GW by 2023. Wind generated roughly 10% of U.S. electricity in 2023 and over 30% of electricity in Denmark.
+
+The technology works, it's competitive on cost, and it's scaling rapidly. It also has real limitations that honest discussion requires acknowledging.
 
 ## How a Wind Turbine Works
 

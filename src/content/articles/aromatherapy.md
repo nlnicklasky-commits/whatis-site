@@ -1,7 +1,7 @@
 ---
 title: "What Is Aromatherapy?"
 slug: aromatherapy
-description: "Aromatherapy uses plant-derived essential oils to promote physical and psychological well-being through inhalation or topical application. Discover the key f..."
+description: "Aromatherapy is a practice that uses concentrated plant extracts — called essential oils — to support physical and emotional well-being."
 category: health-amp-wellness
 tags: ["aromatherapy", "essential oils", "alternative medicine", "wellness", "relaxation"]
 heroImage: "/images/articles/aromatherapy-hero.webp"

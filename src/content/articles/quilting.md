@@ -1,7 +1,7 @@
 ---
 title: "What Is Quilting?"
 slug: quilting
-description: "Quilting is the craft of sewing layers of fabric together into a padded textile. Learn the techniques, history, and modern quilting culture. Discover the key..."
+description: "Quilting is the process of sewing two or more layers of fabric together with a layer of padding in between, creating a thick, warm textile."
 category: arts-amp-culture
 tags: ["quilting", "sewing", "textile arts", "fabric", "crafts", "handmade"]
 heroImage: "/images/articles/quilting-hero.webp"

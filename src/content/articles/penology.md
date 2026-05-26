@@ -1,7 +1,7 @@
 ---
 title: "What Is Penology?"
 slug: penology
-description: "Penology is the study of punishment, prison systems, and offender rehabilitation. Learn about its history, theories, and modern reform debates. Discover the ..."
+description: "Penology is the study of punishment and the management of criminal offenders."
 category: law
 tags: ["penology", "criminology", "criminal justice", "punishment"]
 heroImage: "/images/articles/penology-hero.webp"

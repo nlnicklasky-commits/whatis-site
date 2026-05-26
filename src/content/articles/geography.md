@@ -1,7 +1,7 @@
 ---
 title: "What Is Geography?"
 slug: geography
-description: "Geography is the study of places, landscapes, environments, and the relationships between people and their physical world across space and time. Discover the..."
+description: "Geography is the scientific study of places, spaces, and the relationships between people and their environments."
 category: science
 tags: ["geography", "physical geography", "human geography", "maps", "spatial analysis", "earth science", "environment"]
 heroImage: "/images/articles/geography-hero.webp"

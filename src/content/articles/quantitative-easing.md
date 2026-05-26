@@ -1,7 +1,7 @@
 ---
 title: "What Is Quantitative Easing?"
 slug: quantitative-easing
-description: "Quantitative easing is a central bank policy of buying financial assets to inject money into the economy, lower interest rates, and stimulate growth. Discove..."
+description: "Quantitative easing (QE) is an unconventional monetary policy tool in which a central bank creates new money electronically and uses it to purchase financial."
 category: finance
 tags: ["quantitative easing", "monetary policy", "central banking", "federal reserve", "interest rates", "inflation"]
 heroImage: "/images/articles/quantitative-easing-hero.webp"

@@ -31,7 +31,9 @@ faq:
 
 # What Is Irrigation?
 
-Irrigation is the artificial application of water to land for growing crops. It is one of the oldest and most important agricultural technologies — civilizations have practiced it for at least 8,000 years, and it remains essential today. Irrigated land covers about 20% of the world's cultivated area but produces roughly 40% of the world's food. Without irrigation, feeding 8 billion people would be impossible. Modern irrigation represents a major intersection of [engineering](/engineering), environmental [sustainability](/sustainability), and [hydrology](/hydrology).
+Irrigation is the artificial application of water to land for growing crops. It is one of the oldest and most important agricultural technologies — civilizations have practiced it for at least 8,000 years, and it remains essential today. Irrigated land covers about 20% of the world's cultivated area but produces roughly 40% of the world's food.
+
+Without irrigation, feeding 8 billion people would be impossible. Modern irrigation represents a major intersection of [engineering](/engineering), environmental sustainability, and [hydrology](/hydrology).
 
 ## Why Irrigation Matters
 

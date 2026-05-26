@@ -1,7 +1,7 @@
 ---
 title: "What Is Self-Publishing?"
 slug: self-publishing
-description: "Self-publishing lets authors produce and sell books without traditional publishers. Learn about platforms, costs, and how to succeed independently. Discover ..."
+description: "Self-publishing is the process of producing, distributing, and selling a book without going through a traditional publishing house."
 category: arts-amp-culture
 tags: ["self-publishing", "author", "book publishing", "independent publishing", "ebooks", "print-on-demand"]
 heroImage: "/images/articles/self-publishing-hero.webp"

@@ -43,7 +43,7 @@ Cryptocurrency is digital money secured by cryptography and maintained on decent
 
 To understand cryptocurrency, you need to understand the problem it was designed to solve: how do strangers exchange value over the internet without trusting a middleman? Every online purchase you make relies on a bank, payment processor, or payment app to verify you have the funds and to prevent you from spending the same dollar twice. This centralized verification worked fine for decades, but it creates vulnerabilities—intermediaries can freeze accounts, lose your data, or fail entirely.
 
-Cryptocurrency removes the need for this trusted middleman by using [cryptography](/cryptography) and [distributed networks](/distributed-systems) to create a system where the network itself verifies transactions. This is genuinely novel, and it's the foundation for everything else in the crypto world.
+Cryptocurrency removes the need for this trusted middleman by using [cryptography](/cryptography) and distributed networks to create a system where the network itself verifies transactions. This is genuinely novel, and it's the foundation for everything else in the crypto world.
 
 For the current numbers on global ownership, market cap, Bitcoin ETF flows, and adoption by country, see our [Cryptocurrency Statistics 2026](/cryptocurrency-statistics-2026) roundup.
 
@@ -85,7 +85,7 @@ In 2015, a 19-year-old programmer named Vitalik Buterin launched Ethereum, which
 
 This might sound simple, but it's a real shift. Bitcoin can only say "send money from A to B." Ethereum can say "if the price of this commodity rises above $X, automatically sell Y and transfer proceeds to Z." This enables programmable money and opens possibilities from automated loans to decentralized organizations run entirely by code.
 
-Ethereum's flexibility made it the foundation for an entire ecosystem. [Decentralized finance](/decentralized-finance) (DeFi) platforms like Uniswap let users trade crypto without an exchange. Staking platforms let users earn returns by providing capital. Lending protocols let users borrow against collateral, all without intermediaries.
+Ethereum's flexibility made it the foundation for an entire ecosystem. Decentralized finance (DeFi) platforms like Uniswap let users trade crypto without an exchange. Staking platforms let users earn returns by providing capital. Lending protocols let users borrow against collateral, all without intermediaries.
 
 Ethereum also became the platform for NFTs (non-fungible tokens)—unique digital assets represented as blockchain tokens. While much hype surrounded NFTs, the underlying technology enables genuine use cases: proof of digital ownership, digital ticketing, in-game assets that players actually own.
 

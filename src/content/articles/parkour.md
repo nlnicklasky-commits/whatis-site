@@ -31,7 +31,9 @@ faq:
 
 # What Is Parkour?
 
-Parkour is the physical discipline of moving through an environment — typically urban — by [running](/running), jumping, climbing, vaulting, rolling, and swinging over obstacles in your path. The goal is efficient, fluid movement from one point to another. A wall isn't an obstacle — it's something to vault over. A gap between buildings is something to jump across. A railing is something to swing under. Parkour treats the built environment as a playground and the human body as the only equipment needed to move through it.
+Parkour is the physical discipline of moving through an environment — typically urban — by [running](/running), jumping, climbing, vaulting, rolling, and swinging over obstacles in your path. The goal is efficient, fluid movement from one point to another. A wall isn't an obstacle — it's something to vault over.
+
+A gap between buildings is something to jump across. A railing is something to swing under. Parkour treats the built environment as a playground and the human body as the only equipment needed to move through it.
 
 ## Where It Came From
 

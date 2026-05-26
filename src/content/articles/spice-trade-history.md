@@ -1,7 +1,7 @@
 ---
 title: "What Is Spice Trade History?"
 slug: spice-trade-history
-description: "The spice trade shaped global history for thousands of years. Learn how pepper, cloves, and cinnamon drove exploration, war, and colonialism. Discover the ke..."
+description: "The spice trade is the millennia-long story of how humanity's desire for flavorful, aromatic plant products — pepper, cinnamon, cloves, nutmeg."
 category: history
 tags: ["spice trade", "trade history", "age of exploration", "commerce"]
 heroImage: "/images/articles/spice-trade-history-hero.webp"

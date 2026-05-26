@@ -1,7 +1,7 @@
 ---
 title: "What Is Romance Literature?"
 slug: romance-literature
-description: "Romance literature is fiction centered on love and emotional relationships. Learn about its origins, subgenres, and massive cultural impact. Discover the key..."
+description: "Romance literature is fiction built around a central love story, where the emotional relationship between the characters is the primary focus and the ending."
 category: everyday-concepts
 tags: ["medieval romance", "chivalry", "courtly love", "love stories", "fiction", "novel"]
 heroImage: "/images/articles/romance-literature-hero.webp"

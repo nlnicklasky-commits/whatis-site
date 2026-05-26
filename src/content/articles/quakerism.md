@@ -1,7 +1,7 @@
 ---
 title: "What Is Quakerism?"
 slug: quakerism
-description: "Quakerism is a Christian movement emphasizing direct experience of God, silent worship, equality, and peace. Learn its beliefs and history. Discover the key ..."
+description: "Quakerism — formally the Religious Society of Friends — is a Christian-rooted religious movement founded in 17th-century England on the belief that every."
 category: religion
 tags: ["quakerism", "religion", "Christianity", "peace", "equality", "silent worship"]
 heroImage: "/images/articles/quakerism-hero.webp"

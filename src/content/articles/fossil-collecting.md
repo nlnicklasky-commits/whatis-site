@@ -1,7 +1,7 @@
 ---
 title: "What Is Fossil Collecting?"
 slug: fossil-collecting
-description: "Fossil collecting is the practice of finding, extracting, and preserving fossilized remains of ancient organisms from sedimentary rock formations. Discover t..."
+description: "Fossil collecting is the practice of searching for, extracting, and preserving the fossilized remains and traces of organisms that lived in the geological."
 category: science
 tags: ["paleontology", "geology", "fossils", "ancient life", "evolution", "earth science", "natural history"]
 heroImage: "/images/articles/fossil-collecting-hero.webp"

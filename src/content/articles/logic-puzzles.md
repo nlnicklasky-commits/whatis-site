@@ -31,7 +31,9 @@ faq:
 
 # What Is [Logic](/logic) Puzzles?
 
-Logic puzzles are problems designed to be solved through systematic deductive reasoning. No guessing. No special knowledge. No tricks. Just a set of clues, a set of constraints, and your ability to think through what must be true, what can't be true, and what follows from what.
+Logic puzzles are problems designed to be solved through systematic deductive reasoning. No guessing. No special knowledge.
+
+No tricks. Just a set of clues, a set of constraints, and your ability to think through what must be true, what can't be true, and what follows from what.
 
 They're the purest form of recreational reasoning, and they've been entertaining (and frustrating) people for centuries.
 

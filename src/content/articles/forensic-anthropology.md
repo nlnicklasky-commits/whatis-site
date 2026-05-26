@@ -1,7 +1,7 @@
 ---
 title: "What Is Forensic Anthropology?"
 slug: forensic-anthropology
-description: "Forensic anthropology applies skeletal biology to legal cases, identifying human remains and analyzing trauma to help solve crimes and disasters. Discover th..."
+description: "Forensic anthropology is the application of physical anthropology and human osteology (the study of bones) to legal proceedings."
 category: science
 tags: ["forensic science", "anthropology", "skeletal remains", "crime scene", "human identification", "archaeology", "trauma analysis"]
 heroImage: "/images/articles/forensic-anthropology-hero.webp"

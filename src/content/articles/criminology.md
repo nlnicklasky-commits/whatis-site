@@ -31,7 +31,9 @@ faq:
 
 # What Is Criminology?
 
-Criminology is the scientific study of crime — its causes, consequences, prevention, and the societal response to it. Unlike [detective fiction](/detective-fiction), which focuses on solving individual crimes, criminology examines patterns: Why do crime rates differ between neighborhoods? What turns a teenager into a career criminal — or doesn't? Do prisons reduce crime, and at what cost? These questions sit at the intersection of [sociology](/sociology), [psychology](/psychology), law, and public policy.
+Criminology is the scientific study of crime — its causes, consequences, prevention, and the societal response to it. Unlike [detective fiction](/detective-fiction), which focuses on solving individual crimes, criminology examines patterns: Why do crime rates differ between neighborhoods? What turns a teenager into a career criminal — or doesn't?
+
+Do prisons reduce crime, and at what cost? These questions sit at the intersection of [sociology](/sociology), [psychology](/psychology), law, and public policy.
 
 ## The Big Theories
 

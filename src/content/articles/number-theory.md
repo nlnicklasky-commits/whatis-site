@@ -1,7 +1,7 @@
 ---
 title: "What Is Number Theory?"
 slug: number-theory
-description: "Number theory studies the properties of integers, primes, and divisibility. Learn why this pure math branch powers modern cryptography and computing. Discove..."
+description: "Number theory is the branch of mathematics devoted to studying integers — whole numbers and their properties, patterns, and relationships."
 category: science
 tags: ["number theory", "mathematics", "integers", "prime numbers", "cryptography", "algebra", "divisibility"]
 heroImage: "/images/articles/number-theory-hero.webp"
@@ -35,7 +35,9 @@ faq:
 
 # What Is Number Theory?
 
-Number theory is the branch of [mathematics](/mathematics) devoted to studying integers — whole numbers and their properties, patterns, and relationships. It asks questions that sound deceptively simple: Which numbers are prime? How are primes distributed? Can every even number greater than 2 be expressed as the sum of two primes? These questions are easy to ask, often easy to understand, and frequently extraordinarily hard to answer.
+Number theory is the branch of [mathematics](/mathematics) devoted to studying integers — whole numbers and their properties, patterns, and relationships. It asks questions that sound deceptively simple: Which numbers are prime? How are primes distributed?
+
+Can every even number greater than 2 be expressed as the sum of two primes? These questions are easy to ask, often easy to understand, and frequently extraordinarily hard to answer.
 
 Carl Friedrich Gauss — arguably the greatest mathematician who ever lived — called number theory the "queen of mathematics." That's not just poetic flattery. Number theory sits at the foundation of mathematics itself, and its problems have driven the development of entirely new mathematical fields. It's also, somewhat ironically for a branch of "pure" math, responsible for the security of every online transaction you've ever made.
 

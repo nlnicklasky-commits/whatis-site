@@ -1,7 +1,7 @@
 ---
 title: "What Is Speech Pathology?"
 slug: speech-pathology
-description: "Speech pathology diagnoses and treats communication and swallowing disorders. Learn what speech pathologists do, common conditions, and career paths. Discove..."
+description: "Speech pathology — formally called speech-language pathology — is the healthcare field devoted to diagnosing and treating disorders of communication."
 category: health-amp-wellness
 tags: ["speech pathology", "speech therapy", "communication disorders", "healthcare"]
 heroImage: "/images/articles/speech-pathology-hero.webp"

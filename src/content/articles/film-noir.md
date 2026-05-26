@@ -31,7 +31,9 @@ faq:
 
 # What Is Film Noir?
 
-Film noir is a style of [filmmaking](/filmmaking) — or a genre, depending on who you ask — defined by dark, shadowy visuals, cynical themes, morally compromised characters, and stories steeped in crime, paranoia, and doomed romance. The classic period runs roughly from 1941 (*The Maltese Falcon*) to 1958 (*Touch of Evil*), though the influence extends in every direction. French critics coined the term ("black film") in 1946 when they finally got to see the American crime films that had piled up during the German occupation of France. They noticed something different about these movies. Something darker.
+Film noir is a style of [filmmaking](/filmmaking) — or a genre, depending on who you ask — defined by dark, shadowy visuals, cynical themes, morally compromised characters, and stories steeped in crime, paranoia, and doomed romance. The classic period runs roughly from 1941 (*The Maltese Falcon*) to 1958 (*Touch of Evil*), though the influence extends in every direction. French critics coined the term ("black film") in 1946 when they finally got to see the American crime films that had piled up during the German occupation of France.
+
+They noticed something different about these movies. Something darker.
 
 ## The Look
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Optimal Control?"
 slug: optimal-control
-description: "Optimal control is a mathematical framework for finding the best way to steer a system over time, used in robotics, aerospace, economics, and more. Discover ..."
+description: "Optimal control is a branch of mathematics and engineering that figures out the best possible way to steer a system from one state to another over time."
 category: technology
 tags: ["optimal control", "control theory", "optimization", "robotics", "aerospace engineering", "mathematical modeling"]
 heroImage: "/images/articles/optimal-control-hero.webp"

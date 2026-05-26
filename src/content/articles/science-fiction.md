@@ -1,7 +1,7 @@
 ---
 title: "What Is Science Fiction?"
 slug: science-fiction
-description: "Science fiction is a genre that explores imagined futures, technologies, and societies. Learn about its history, subgenres, and cultural impact. Discover the..."
+description: "Science fiction is a genre of storytelling that imagines how science, technology, and social change could reshape the world."
 category: everyday-concepts
 tags: ["science fiction", "sci-fi", "futuristic", "space exploration", "technology", "speculative fiction"]
 heroImage: "/images/articles/science-fiction-hero.webp"

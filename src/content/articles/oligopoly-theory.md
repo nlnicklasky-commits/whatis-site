@@ -35,7 +35,9 @@ faq:
 
 # What Is Oligopoly Theory?
 
-Oligopoly theory is the branch of [economics](/economics) that studies markets dominated by a small number of large firms — typically between two and ten — whose decisions are strategically interdependent. When Coca-Cola sets its price, Pepsi responds. When Boeing announces a new aircraft, Airbus adjusts its plans. When one wireless carrier offers unlimited data, the others follow within weeks. That mutual awareness and strategic reaction is what makes oligopoly different from every other market structure, and what makes it so analytically interesting.
+Oligopoly theory is the branch of [economics](/economics) that studies markets dominated by a small number of large firms — typically between two and ten — whose decisions are strategically interdependent. When Coca-Cola sets its price, Pepsi responds. When Boeing announces a new aircraft, Airbus adjusts its plans.
+
+When one wireless carrier offers unlimited data, the others follow within weeks. That mutual awareness and strategic reaction is what makes oligopoly different from every other market structure, and what makes it so analytically interesting.
 
 Most of the economy you actually interact with is oligopolistic. Airlines, automakers, wireless carriers, banks, streaming services, social media platforms, credit card networks, smartphone manufacturers, [cloud computing](/cloud-computing) providers — these aren't perfectly competitive markets with thousands of small firms, and they aren't monopolies with just one. They're oligopolies, and understanding how they work explains a lot about why prices are what they are, why products look the way they do, and why certain industries seem to move in lockstep.
 

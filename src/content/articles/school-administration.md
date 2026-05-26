@@ -1,7 +1,7 @@
 ---
 title: "What Is School Administration?"
 slug: school-administration
-description: "School administration covers the leadership, management, and operations that keep schools running. Learn what administrators do and why it matters. Discover ..."
+description: "School administration is the organizational leadership and management of educational institutions."
 category: education
 tags: ["school management", "education", "school leadership", "principal", "superintendent", "educational administration"]
 heroImage: "/images/articles/school-administration-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Permaculture?"
 slug: permaculture
-description: "Permaculture is a design system for sustainable living that mimics natural ecosystems. Learn about its principles, practices, and applications. Discover the ..."
+description: "Permaculture is a design system for creating sustainable human habitats by following patterns and relationships found in nature."
 category: everyday-concepts
 tags: ["permaculture", "sustainable living", "regenerative agriculture", "ecology", "food systems", "design"]
 heroImage: "/images/articles/permaculture-hero.webp"

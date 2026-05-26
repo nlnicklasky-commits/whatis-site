@@ -1,7 +1,7 @@
 ---
 title: "What Is Geophysics?"
 slug: geophysics
-description: "Geophysics applies physics to study Earth's structure, from seismic waves and magnetic fields to gravity and heat flow. Explore how it works. Discover the ke..."
+description: "Geophysics is the branch of science that applies the principles and methods of physics to study Earth's structure, composition."
 category: science
 tags: ["geophysics", "physics", "earth science", "seismology", "gravity", "geomagnetism", "plate tectonics"]
 heroImage: "/images/articles/geophysics-hero.webp"

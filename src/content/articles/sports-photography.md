@@ -1,7 +1,7 @@
 ---
 title: "What Is Sports Photography?"
 slug: sports-photography
-description: "Sports photography captures athletic action, emotion, and drama through still images. Learn about equipment, techniques, and how professionals work. Discover..."
+description: "Sports photography is the practice of capturing still images of athletic competition — the action, emotion, and drama of sports frozen in single frames."
 category: arts-amp-culture
 tags: ["sports photography", "photography", "action photography", "camera", "photojournalism", "athletics"]
 heroImage: "/images/articles/sports-photography-hero.webp"

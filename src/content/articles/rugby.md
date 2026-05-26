@@ -1,7 +1,7 @@
 ---
 title: "What Is Rugby?"
 slug: rugby
-description: "Rugby is a contact team sport played with an oval ball where players score by carrying or kicking the ball into the opponent's goal area. Discover the key fa..."
+description: "Rugby is a full-contact team sport played with an oval ball on a rectangular grass field."
 category: sports
 tags: ["rugby union", "rugby league", "contact sport", "team sport", "oval ball", "tackling"]
 heroImage: "/images/articles/rugby-hero.webp"

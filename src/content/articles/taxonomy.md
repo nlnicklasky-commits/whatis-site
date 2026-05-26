@@ -1,7 +1,7 @@
 ---
 title: "What Is Taxonomy?"
 slug: taxonomy
-description: "Taxonomy is the science of classifying and naming organisms into hierarchical groups based on shared characteristics and evolutionary relationships. Discover..."
+description: "Taxonomy is the branch of science concerned with classifying, naming, and organizing living organisms into groups based on their shared characteristics."
 category: science
 tags: ["taxonomy", "biology", "classification", "nomenclature", "species", "genus", "kingdom", "phylum"]
 heroImage: "/images/articles/taxonomy-hero.webp"

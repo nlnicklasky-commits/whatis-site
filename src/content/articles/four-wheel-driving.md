@@ -1,7 +1,7 @@
 ---
 title: "What Is Four-Wheel Driving?"
 slug: four-wheel-driving
-description: "Four-wheel driving sends power to all four wheels for better traction off-road. Learn about 4WD systems, off-road techniques, and vehicle types. Discover the..."
+description: "Four-wheel driving (also called 4WD, 4x4, or off-roading) is the practice of driving vehicles equipped with four-wheel drive systems on unpaved terrain."
 category: everyday-concepts
 tags: ["four wheel driving", "off-road", "vehicles", "adventure", "4WD", "outdoor recreation"]
 heroImage: "/images/articles/four-wheel-driving-hero.webp"

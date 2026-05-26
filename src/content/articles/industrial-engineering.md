@@ -1,7 +1,7 @@
 ---
 title: "What Is Industrial Engineering?"
 slug: industrial-engineering
-description: "Industrial engineering optimizes complex systems of people, materials, and machines. Learn about lean manufacturing, Six Sigma, and career paths. Discover th..."
+description: "Industrial engineering is the engineering discipline focused on optimizing complex systems and processes."
 category: everyday-concepts
 tags: ["industrial engineering", "manufacturing", "optimization", "lean", "Six Sigma"]
 heroImage: "/images/articles/industrial-engineering-hero.webp"

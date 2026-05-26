@@ -1,7 +1,7 @@
 ---
 title: "What Is Legal Writing?"
 slug: legal-writing
-description: "Legal writing is the specialized form of written communication used by lawyers, judges, and legal scholars to analyze law and persuade courts. Discover the k..."
+description: "Legal writing is the specialized form of written communication used by lawyers, judges, legislators, and legal scholars to analyze legal issues."
 category: law
 tags: ["legal profession", "legal writing", "law", "communication", "courts"]
 heroImage: "/images/articles/legal-writing-hero.webp"

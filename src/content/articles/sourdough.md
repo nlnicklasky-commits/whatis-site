@@ -1,7 +1,7 @@
 ---
 title: "What Is Sourdough?"
 slug: sourdough
-description: "Sourdough is bread made through slow fermentation using wild yeast and bacteria — here's how it works and why it tastes better. Discover the key facts, histo..."
+description: "Sourdough is a type of bread made through a long, slow fermentation process using a sourdough starter—a living culture of wild yeast and lactic acid bacteria."
 category: food-and-drink
 tags: ["sourdough", "bread", "fermentation", "baking", "starter", "wild yeast"]
 heroImage: "/images/articles/sourdough-hero.webp"

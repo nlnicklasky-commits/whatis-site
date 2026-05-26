@@ -1,7 +1,7 @@
 ---
 title: "What Is Negotiation?"
 slug: negotiation
-description: "Negotiation is a dialogue between parties aimed at reaching an agreement. Learn about strategies, tactics, BATNA, and how to negotiate effectively. Discover ..."
+description: "Negotiation is a conversation between two or more parties who want different things, working toward an outcome they can all accept."
 category: everyday-concepts
 tags: ["negotiation", "bargaining", "conflict resolution", "diplomacy", "agreement", "communication skills"]
 heroImage: "/images/articles/negotiation-hero.webp"

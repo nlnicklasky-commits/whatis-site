@@ -1,7 +1,7 @@
 ---
 title: "What Is Quantum Chemistry?"
 slug: quantum-chemistry
-description: "Quantum chemistry applies quantum mechanics to chemical systems, explaining molecular bonds, reactions, and properties through math and computation. Discover..."
+description: "Quantum chemistry is the branch of chemistry that applies quantum mechanics — the physics of the very small — to understand how atoms bond."
 category: science
 tags: ["quantum chemistry", "quantum mechanics", "chemistry", "molecular orbitals", "computational chemistry", "electronic structure"]
 heroImage: "/images/articles/quantum-chemistry-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Ultrasonography?"
 slug: ultrasonography
-description: "Ultrasonography uses high-frequency sound waves to create images inside the body. Learn how ultrasound works, its medical uses, and what to expect. Discover ..."
+description: "Ultrasonography is a medical imaging technique that uses high-frequency sound waves — well above what your ears can hear."
 category: health-amp-wellness
 tags: ["ultrasonography", "ultrasound", "medical imaging", "diagnostics"]
 heroImage: "/images/articles/ultrasonography-hero.webp"

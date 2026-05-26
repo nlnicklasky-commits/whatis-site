@@ -1,7 +1,7 @@
 ---
 title: "What Is Press Release Writing?"
 slug: press-release-writing
-description: "Press release writing is the craft of creating news announcements for media outlets. Learn the format, structure, and best practices. Discover the key facts,..."
+description: "A press release is a written statement sent to media outlets announcing something newsworthy — a product launch, an executive hire, a research finding."
 category: everyday-concepts
 tags: ["press release", "public relations", "pr", "media relations", "journalism", "corporate communication"]
 heroImage: "/images/articles/press-release-writing-hero.webp"

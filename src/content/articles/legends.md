@@ -31,7 +31,9 @@ faq:
 
 # What Is Legends?
 
-A legend is a traditional narrative set in the real world, in historical or quasi-historical time, that may be based on actual people or events but has been reshaped by centuries of retelling. King Arthur. Robin Hood. Johnny Appleseed. Pocahontas. These are all legends — stories anchored somewhere in reality but stretched, embellished, and polished until the line between fact and fiction disappeared entirely.
+A legend is a traditional narrative set in the real world, in historical or quasi-historical time, that may be based on actual people or events but has been reshaped by centuries of retelling. King Arthur. Robin Hood.
+
+Johnny Appleseed. Pocahontas. These are all legends — stories anchored somewhere in reality but stretched, embellished, and polished until the line between fact and fiction disappeared entirely.
 
 ## Legends vs. Myths vs. [Fairy Tales](/fairy-tales)
 

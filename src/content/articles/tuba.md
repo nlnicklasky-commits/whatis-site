@@ -1,7 +1,7 @@
 ---
 title: "What Is Tuba?"
 slug: tuba
-description: "The tuba is the largest and lowest-pitched brass instrument. Learn about its history, types, playing techniques, and role in ensembles. Discover the key fact..."
+description: "The tuba is the largest and lowest-pitched instrument in the brass family."
 category: arts-amp-culture
 tags: ["tuba", "brass instruments", "music", "orchestra", "band", "low brass"]
 heroImage: "/images/articles/tuba-hero.webp"

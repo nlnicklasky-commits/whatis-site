@@ -1,7 +1,7 @@
 ---
 title: "What Is Raku Pottery?"
 slug: raku-pottery
-description: "Raku pottery is a ceramic firing technique producing unpredictable, dramatic results through rapid heating and post-fire reduction. Discover the key facts, h..."
+description: "Raku is a ceramic firing technique known for producing dramatic, unpredictable results — metallic lusters, crackled surfaces, smoky blacks."
 category: arts-amp-culture
 tags: ["raku pottery", "ceramics", "pottery", "firing techniques", "art", "Japanese craft"]
 heroImage: "/images/articles/raku-pottery-hero.webp"

@@ -31,7 +31,9 @@ faq:
 
 # What Is Frame Making?
 
-Frame making is the craft of constructing frames to surround, display, and protect artwork, photographs, documents, and other flat objects. It sounds straightforward — build a rectangle, put glass in it, hang it on a wall. In practice, frame making involves [woodworking](/woodworking) precision, material science, design sensibility, and conservation knowledge. A well-made frame doesn't just hold a picture. It presents the artwork, protects it from environmental damage, and complements both the piece and the space it occupies.
+Frame making is the craft of constructing frames to surround, display, and protect artwork, photographs, documents, and other flat objects. It sounds straightforward — build a rectangle, put glass in it, hang it on a wall. In practice, frame making involves [woodworking](/woodworking) precision, material science, design sensibility, and conservation knowledge.
+
+A well-made frame doesn't just hold a picture. It presents the artwork, protects it from environmental damage, and complements both the piece and the space it occupies.
 
 ## More Than a Border
 

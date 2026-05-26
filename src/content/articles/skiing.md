@@ -1,7 +1,7 @@
 ---
 title: "What Is Skiing?"
 slug: skiing
-description: "Skiing is a winter sport where you glide over snow on long, narrow boards attached to boots. Learn about alpine, cross-country, and freestyle skiing. Discove..."
+description: "Skiing is the sport of gliding across snow on a pair of long, narrow boards (skis) attached to specialized boots."
 category: sports
 tags: ["skiing", "winter sports", "snow", "alpine skiing", "cross-country skiing", "ski resort"]
 heroImage: "/images/articles/skiing-hero.webp"

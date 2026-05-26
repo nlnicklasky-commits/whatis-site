@@ -1,7 +1,7 @@
 ---
 title: "What Is Snorkeling?"
 slug: snorkeling
-description: "Snorkeling lets you observe underwater life while floating on the surface with a mask, snorkel, and fins. Learn how to start and where to go. Discover the ke..."
+description: "Snorkeling is the practice of swimming at the water's surface while wearing a diving mask, a breathing tube (snorkel), and usually swim fins."
 category: sports
 tags: ["snorkeling", "underwater", "marine life", "ocean", "swimming", "coral reef"]
 heroImage: "/images/articles/snorkeling-hero.webp"

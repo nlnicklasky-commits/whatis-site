@@ -1,7 +1,7 @@
 ---
 title: What Is Digital Marketing?
 slug: digital-marketing
-description: "Digital marketing promotes products and services through online channels. Learn about SEO, social media, email, paid ads, and measuring what works. Discover ..."
+description: "Digital marketing is the promotion of products, services, or brands through electronic channels—primarily the internet, but also mobile apps, email."
 category: technology
 tags: ["digital marketing", "marketing", "seo", "social media", "advertising", "content marketing", "analytics"]
 heroImage: "/images/articles/digital-marketing-hero.webp"

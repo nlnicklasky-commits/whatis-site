@@ -1,7 +1,7 @@
 ---
 title: "What Is Political Philosophy?"
 slug: political-philosophy
-description: "Political philosophy examines questions about government, justice, rights, liberty, and the proper relationship between individuals and the state. Discover t..."
+description: "Political philosophy is the branch of philosophy that asks the most fundamental questions about how humans organize their collective lives: What gives."
 category: philosophy
 tags: ["politics", "government", "justice", "liberty", "rights", "ethics", "political science"]
 heroImage: "/images/articles/political-philosophy-hero.webp"
@@ -35,7 +35,9 @@ faq:
 
 # What Is Political [Philosophy](/philosophy)?
 
-Political philosophy is the branch of philosophy that asks the most fundamental questions about how humans organize their collective lives: What gives a [government](/government) the right to rule? What do citizens owe each other? When is inequality unjust? What are the limits of individual freedom? These aren't abstract puzzles — they're the questions beneath every political [debate](/debate), law, and revolution in human history.
+Political philosophy is the branch of philosophy that asks the most fundamental questions about how humans organize their collective lives: What gives a [government](/government) the right to rule? What do citizens owe each other? When is inequality unjust?
+
+What are the limits of individual freedom? These aren't abstract puzzles — they're the questions beneath every political [debate](/debate), law, and revolution in human history.
 
 ## Why This Matters to You, Specifically
 

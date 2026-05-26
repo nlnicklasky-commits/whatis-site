@@ -1,7 +1,7 @@
 ---
 title: "What Is Viennese Waltz?"
 slug: viennese-waltz
-description: "The Viennese waltz is a fast, elegant ballroom dance in 3/4 time. Learn about its history, technique, music, and place in competitive dance. Discover the key..."
+description: "The Viennese waltz is a fast, spinning ballroom dance performed in 3/4 time at roughly 180 beats per minute."
 category: arts-amp-culture
 tags: ["viennese waltz", "ballroom dance", "dance", "waltz", "classical music", "performing arts"]
 heroImage: "/images/articles/viennese-waltz-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Bowling?"
 slug: bowling
-description: "Bowling is a sport where players roll a heavy ball down a lane to knock down pins arranged in a triangle, scoring points based on pins toppled. Discover the ..."
+description: "Bowling is a sport in which players roll a weighted ball down a long, narrow lane to knock down a group of pins arranged in a triangular formation at the far."
 category: everyday-concepts
 tags: ["bowling", "sports", "recreation", "pins", "lanes", "strike"]
 heroImage: "/images/articles/bowling-hero.webp"

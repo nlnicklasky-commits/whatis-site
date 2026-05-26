@@ -1,7 +1,7 @@
 ---
 title: "What Is Oil Painting?"
 slug: oil-painting
-description: "Oil painting uses pigments mixed with drying oils to create art on canvas or panel. Learn about techniques, materials, and the medium's rich history. Discove..."
+description: "Oil painting is an art technique that uses pigments suspended in drying oils — most commonly linseed oil — to create images on canvas, wood panels."
 category: arts-amp-culture
 tags: ["oil painting", "art medium", "painting techniques", "fine art", "linseed oil", "pigments"]
 heroImage: "/images/articles/oil-painting-hero.webp"

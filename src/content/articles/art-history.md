@@ -1,7 +1,7 @@
 ---
 title: "What Is Art History?"
 slug: art-history
-description: "Art history is the academic study of visual arts across time and cultures, examining how art reflects and shapes human civilization. Discover the key facts, ..."
+description: "Art history is the scholarly study of visual arts — painting, sculpture, architecture, photography, and other visual forms — examining how they were created."
 category: arts-amp-culture
 tags: ["art history", "history", "art", "visual arts", "painting", "sculpture"]
 heroImage: "/images/articles/art-history-hero.webp"

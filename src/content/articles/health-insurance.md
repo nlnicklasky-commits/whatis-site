@@ -1,7 +1,7 @@
 ---
 title: "What Is Health Insurance?"
 slug: health-insurance
-description: "Health insurance is a contract where you pay premiums so an insurer covers medical expenses, reducing the financial risk of illness and injury. Discover the ..."
+description: "Health insurance is a contract between an individual and an insurance company in which the insurer agrees to pay for some or all of the insured person's."
 category: finance
 tags: ["health insurance", "insurance", "healthcare", "medical expenses", "premiums", "deductibles", "finance"]
 heroImage: "/images/articles/health-insurance-hero.webp"

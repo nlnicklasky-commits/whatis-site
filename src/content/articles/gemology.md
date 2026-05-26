@@ -1,7 +1,7 @@
 ---
 title: "What Is Gemology?"
 slug: gemology
-description: "Gemology is the science of identifying, grading, and valuing gemstones. Learn about diamond grading, gem types, and how gemologists work. Discover the key fa..."
+description: "Gemology (also spelled gemmology) is the scientific study of gemstones — their identification, grading, evaluation, and origin determination."
 category: everyday-concepts
 tags: ["gemology", "gemstones", "diamonds", "minerals", "jewelry", "geology"]
 heroImage: "/images/articles/gemology-hero.webp"

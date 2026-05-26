@@ -1,7 +1,7 @@
 ---
 title: "What Is Aerodynamics?"
 slug: aerodynamics
-description: "Aerodynamics is the study of how air moves around objects. Learn about lift, drag, Bernoulli's principle, and why planes fly. Discover the key facts, history..."
+description: "Aerodynamics is the branch of physics that studies how air moves around solid objects and the forces that result from that movement."
 category: science
 tags: ["aerodynamics", "physics", "engineering", "flight", "lift", "drag", "fluid dynamics"]
 heroImage: "/images/articles/aerodynamics-hero.webp"

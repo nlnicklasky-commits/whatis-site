@@ -1,7 +1,7 @@
 ---
 title: "What Is Southeast Asian History?"
 slug: southeast-asian-history
-description: "Southeast Asian history spans thousands of years of empires, trade networks, colonialism, and independence. Discover what shaped this diverse region. Discove..."
+description: "Southeast Asian history is the story of how eleven modern nations — stretching from Myanmar in the west to the Philippines in the east."
 category: history
 tags: ["southeast asian history", "asia", "colonialism", "history"]
 heroImage: "/images/articles/southeast-asian-history-hero.webp"

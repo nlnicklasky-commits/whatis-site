@@ -1,7 +1,7 @@
 ---
 title: "What Is Reptile Keeping?"
 slug: reptile-keeping
-description: "Reptile keeping is the hobby of caring for reptiles as pets, from bearded dragons to ball pythons. Learn the basics of responsible ownership. Discover the ke..."
+description: "Reptile keeping is the hobby of maintaining reptiles — lizards, snakes, turtles, tortoises, and crocodilians — as captive animals, typically as pets."
 category: hobbies
 tags: ["reptile keeping", "pets", "herpetology", "terrariums", "bearded dragons", "snakes"]
 heroImage: "/images/articles/reptile-keeping-hero.webp"

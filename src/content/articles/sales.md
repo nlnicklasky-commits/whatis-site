@@ -1,7 +1,7 @@
 ---
 title: "What Is Sales?"
 slug: sales
-description: "Sales is the process of persuading someone to exchange money for a product or service, driving revenue and growth for every business. Discover the key facts,..."
+description: "Sales is the process of identifying potential buyers, understanding their needs, and persuading them to exchange money for a product or service."
 category: business
 tags: ["sales", "selling", "business", "customer service"]
 heroImage: "/images/articles/sales-hero.webp"

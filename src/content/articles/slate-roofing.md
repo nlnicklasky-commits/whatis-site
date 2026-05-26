@@ -1,7 +1,7 @@
 ---
 title: "What Is Slate Roofing?"
 slug: slate-roofing
-description: "Slate roofing uses natural stone tiles split from metamorphic rock to create durable, fire-resistant roofs that can last 100 to 200 years or more. Discover t..."
+description: "Slate roofing is the use of natural stone tiles — split from metamorphic rock called slate — to create a waterproof roof covering."
 category: technology
 tags: ["slate roofing", "roofing", "construction", "building materials", "natural stone", "architecture", "durability"]
 heroImage: "/images/articles/slate-roofing-hero.webp"

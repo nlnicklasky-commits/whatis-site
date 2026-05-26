@@ -1,7 +1,7 @@
 ---
 title: "What Is Quantum Mechanics?"
 slug: quantum-mechanics
-description: "Quantum mechanics describes how matter and energy behave at atomic and subatomic scales, where the rules of everyday physics break down. Discover the key fac..."
+description: "Quantum mechanics is the branch of physics that describes how matter and energy behave at the smallest scales — atoms, electrons, photons."
 category: everyday-concepts
 tags: ["quantum mechanics", "physics", "atoms", "particles", "wave-particle duality", "science"]
 heroImage: "/images/articles/quantum-mechanics-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Quantum Mechanics?
 
-Quantum mechanics is the branch of [physics](/physics) that describes how matter and energy behave at the smallest scales — atoms, electrons, photons, and other [subatomic particles](/subatomic-particles). At these scales, the intuitive rules of everyday physics break down completely. Particles behave like waves. Things can be in two places at once. Measurement changes what's being measured. The universe, at its foundations, is profoundly weird.
+Quantum mechanics is the branch of [physics](/physics) that describes how matter and energy behave at the smallest scales — atoms, electrons, photons, and other [subatomic particles](/subatomic-particles). At these scales, the intuitive rules of everyday physics break down completely. Particles behave like waves.
+
+Things can be in two places at once. Measurement changes what's being measured. The universe, at its foundations, is profoundly weird.
 
 ## The Problem That Started It All
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Business History?"
 slug: business-history
-description: "Business history studies how companies, industries, and commercial practices have evolved over time, revealing patterns that shape modern economies. Discover..."
+description: "Business history is the study of how commercial enterprises, industries, and economic practices have developed over time."
 category: history
 tags: ["business history", "economic history", "corporations", "entrepreneurship"]
 heroImage: "/images/articles/business-history-hero.webp"

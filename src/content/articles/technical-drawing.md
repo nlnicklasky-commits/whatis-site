@@ -1,7 +1,7 @@
 ---
 title: "What Is Technical Drawing?"
 slug: technical-drawing
-description: "Technical drawing is the practice of creating precise, standardized diagrams that communicate how objects are built, assembled, or manufactured. Discover the..."
+description: "Technical drawing is the practice of creating precise, standardized visual representations of objects, structures, and systems so they can be manufactured."
 category: technology
 tags: ["technical drawing", "drafting", "engineering drawing", "cad"]
 heroImage: "/images/articles/technical-drawing-hero.webp"

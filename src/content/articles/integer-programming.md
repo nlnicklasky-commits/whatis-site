@@ -1,7 +1,7 @@
 ---
 title: "What Is Integer Programming?"
 slug: integer-programming
-description: "Integer programming is an optimization method where variables must be whole numbers, used to solve scheduling and logistics problems. Discover the key facts,..."
+description: "Integer programming is a type of mathematical optimization where some or all of the decision variables are restricted to whole numbers."
 category: technology
 tags: ["integer programming", "optimization", "operations research", "mathematical modeling", "discrete optimization", "linear programming"]
 heroImage: "/images/articles/integer-programming-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Pop Art?"
 slug: pop-art
-description: "Pop Art is an art movement that drew from advertising, comics, and consumer goods. Learn about Warhol, Lichtenstein, and why it changed art. Discover the key..."
+description: "Pop Art is an art movement that emerged in the 1950s and exploded in the 1960s, pulling its imagery directly from popular culture — advertisements."
 category: arts-amp-culture
 tags: ["pop art", "andy warhol", "roy lichtenstein", "richard hamilton", "mass culture", "consumerism"]
 heroImage: "/images/articles/pop-art-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Pop Art?
 
-Pop Art is an art movement that emerged in the 1950s and exploded in the 1960s, pulling its imagery directly from [popular culture](/popular-culture) — advertisements, comic books, consumer products, celebrities, mass media. It was a deliberate rejection of the serious, inward-looking Abstract Expressionism that dominated post-war art. Instead of tortured brushstrokes expressing the artist's inner turmoil, Pop Art gave you a soup can. A comic strip panel. Marilyn Monroe's face, repeated thirty times in different colors.
+Pop Art is an art movement that emerged in the 1950s and exploded in the 1960s, pulling its imagery directly from [popular culture](/popular-culture) — advertisements, comic books, consumer products, celebrities, mass media. It was a deliberate rejection of the serious, inward-looking Abstract Expressionism that dominated post-war art. Instead of tortured brushstrokes expressing the artist's inner turmoil, Pop Art gave you a soup can.
+
+A comic strip panel. Marilyn Monroe's face, repeated thirty times in different colors.
 
 ## The Big Idea
 

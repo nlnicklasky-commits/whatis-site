@@ -1,7 +1,7 @@
 ---
 title: "What Is Physiognomy?"
 slug: physiognomy
-description: "Physiognomy is the discredited practice of judging character from facial features. Learn its history, why science rejected it, and its modern echoes. Discove..."
+description: "Physiognomy is the practice of assessing a person's character, intelligence, or moral nature based on their facial features — the shape of their nose."
 category: everyday-concepts
 tags: ["physiognomy", "pseudoscience", "history", "psychology", "face reading", "bias"]
 heroImage: "/images/articles/physiognomy-hero.webp"

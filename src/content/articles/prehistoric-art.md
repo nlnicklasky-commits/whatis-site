@@ -1,7 +1,7 @@
 ---
 title: "What Is Prehistoric Art?"
 slug: prehistoric-art
-description: "Prehistoric art includes cave paintings, carvings, and sculptures created before written records. Learn about humanity's earliest creative works. Discover th..."
+description: "Prehistoric art is any visual art created before the invention of writing systems — which means before roughly 3500-3000 BCE in Mesopotamia and Egypt."
 category: arts-amp-culture
 tags: ["prehistoric art", "cave paintings", "paleolithic art", "neolithic art", "archaeology", "ancient art"]
 heroImage: "/images/articles/prehistoric-art-hero.webp"

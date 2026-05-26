@@ -1,7 +1,7 @@
 ---
 title: "What Is Baseball?"
 slug: baseball
-description: "Baseball is a bat-and-ball team sport played between two teams of nine, where batters try to hit a pitched ball and run a circuit of four bases. Discover the..."
+description: "Baseball is a bat-and-ball sport played between two teams of nine players on a diamond-shaped field."
 category: everyday-concepts
 tags: ["baseball", "sports", "mlb", "bat-and-ball", "team sports", "pitching"]
 heroImage: "/images/articles/baseball-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Economics?"
 slug: economics
-description: "Economics is the social science that studies how people, firms, and governments allocate scarce resources to satisfy unlimited wants and needs. Discover the ..."
+description: "Economics is the social science that studies how individuals, businesses, governments."
 category: finance
 tags: ["economics", "scarcity", "microeconomics", "macroeconomics", "supply and demand", "opportunity cost", "economic policy"]
 heroImage: "/images/articles/economics-hero.webp"

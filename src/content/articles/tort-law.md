@@ -1,7 +1,7 @@
 ---
 title: "What Is Tort Law?"
 slug: tort-law
-description: "Tort law governs civil wrongs where one person's actions cause harm to another. Learn about negligence, liability, damages, and how tort cases work. Discover..."
+description: "Tort law is the branch of civil law that deals with situations where one person's actions (or failures to act) cause harm to another person."
 category: everyday-concepts
 tags: ["tort law", "civil law", "negligence", "liability", "damages", "legal system"]
 heroImage: "/images/articles/tort-law-hero.webp"

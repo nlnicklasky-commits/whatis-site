@@ -25,7 +25,9 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
   ogType="article"
 >
   <!-- Preload the hero (LCP element) so the browser fetches it off the critical path -->
-  <link slot="head" rel="preload" as="image" href={frontmatter.heroImage} fetchpriority="high" />
+  <link slot="head" rel="preload" as="image" href={frontmatter.heroImage}
+    imagesrcset={`${frontmatter.heroImage.replace('.webp', '-800.webp')} 800w, ${frontmatter.heroImage} 1344w`}
+    imagesizes="(max-width: 1024px) 90vw, 720px" fetchpriority="high" />
 
   <!-- Article Schema (with speakable for voice assistants / GEO) -->
   <script slot="head" type="application/ld+json" set:html={JSON.stringify({
@@ -91,6 +93,7 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
 
       <img
         src={frontmatter.heroImage}
+        srcset={`${frontmatter.heroImage.replace('.webp', '-400.webp')} 400w, ${frontmatter.heroImage.replace('.webp', '-800.webp')} 800w, ${frontmatter.heroImage} 1344w`}
         alt={frontmatter.heroAlt}
         width="1200"
         height="675"
@@ -99,7 +102,7 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
         fetchpriority="high"
         decoding="async"
         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 90vw, 720px"
-        onerror="this.onerror=null;this.src='/images/articles/placeholder.svg'"
+        onerror="this.onerror=null;this.removeAttribute('srcset');this.src='/images/articles/placeholder.svg'"
       />
     </header>
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is American History?"
 slug: american-history
-description: "American history covers the story of the United States from Indigenous civilizations through colonization, revolution, civil war, and modern era. Discover th..."
+description: "American history is the study of the people, events, ideas, and forces that shaped the United States."
 category: history
 tags: ["american history", "us history", "united states", "american revolution"]
 heroImage: "/images/articles/american-history-hero.webp"
@@ -9,8 +9,8 @@ heroAlt: "American history covers the story of the United States from Indigenous
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 7
-wordCount: 1775
+readingTime: 10
+wordCount: 2237
 tier: '2'
 relatedArticles: ["economics", "capitalism", "jurisprudence", "geography", "philosophy"]
 externalSources:
@@ -114,6 +114,12 @@ This was also the era of mass immigration. Between 1880 and 1920, over 23 millio
 
 Working conditions were often horrific. The Triangle Shirtwaist Factory fire of 1911 killed 146 garment workers — mostly young immigrant women — and galvanized the labor movement. Progressive Era reforms gradually established worker protections, antitrust laws, food safety regulations, and women's suffrage (Nineteenth Amendment, 1920).
 
+## The Great Depression and the New Deal
+
+The 1920s roared, and then they crashed. The stock market collapse of October 1929 kicked off the worst economic disaster in American history. By 1933, roughly a quarter of the workforce was unemployed, thousands of banks had failed, and families lost their savings overnight. Farmers in the Great Plains, already struggling, got hit by the Dust Bowl — years of drought and poor soil practices that turned topsoil into choking black storms and drove hundreds of thousands of "Okies" west toward California.
+
+Franklin D. Roosevelt's response, the New Deal (1933 onward), permanently changed the relationship between Americans and their government. Social Security, federal bank deposit insurance, the minimum wage, public works programs that put millions back to work, and regulation of the stock market all date from this period. Some of these programs are still load-bearing parts of American life nearly a century later. The New Deal didn't fully end the Depression — that took the spending of World War II — but it established the idea that the federal government bears some responsibility for the [economy](/economics) and for ordinary people's welfare, a principle that's been fought over ever since.
+
 ## World Wars and Superpower Status
 
 World War I (U.S. involvement 1917-1918) and [World War II](/world-war-ii) (1941-1945) transformed America from a regional power into a global superpower.
@@ -139,3 +145,11 @@ Recent American history defies easy summary. The end of the Cold War (1991) left
 What's clear is that America remains a country arguing with itself about what it means and who it's for — the same argument it's been having since 1776. That argument is messy, sometimes ugly, occasionally inspiring. But the fact that it continues — that Americans keep pushing, protesting, legislating, and debating their way toward a "more perfect union" — is itself a form of history happening in real time.
 
 Understanding American history means understanding not just what happened, but the ongoing tensions between ideals and reality that have defined this country from the beginning. The story isn't finished. It never is.
+
+## History Is Argued, Not Just Memorized
+
+One thing classrooms often miss: American history isn't a fixed set of facts to be memorized. It's a continuous argument among historians about what the evidence means. Each generation asks new questions and notices what earlier ones ignored. For most of the 20th century, textbooks treated westward expansion as a heroic adventure and barely mentioned the people already living there. Then the field shifted toward "history from below" — studying enslaved people, workers, women, and Indigenous nations through their own words and records rather than only through the writings of presidents and generals.
+
+This is why the same events get retold so differently across decades. New primary sources surface, old assumptions get tested, and interpretations change. The National Archives, the Library of Congress, and the Smithsonian hold the raw material — letters, photographs, census records, court documents — that lets historians keep re-examining the record. When you read about a debate over how history "should" be taught, you're watching this process play out in public.
+
+The practical lesson is to read history actively. Ask who wrote a source and why, whose voices are missing, and what the author wanted you to believe. A speech by a politician, a diary kept by an enslaved person, and a newspaper from 1860 all tell you something true — but never the whole truth. Treating history as a debate rather than a verdict is what separates understanding the past from simply reciting it.

@@ -1,7 +1,7 @@
 ---
 title: "What Is National Parks?"
 slug: national-parks
-description: "National parks are protected areas of natural beauty managed by governments. Learn about their history, purpose, wildlife, and why they matter. Discover the ..."
+description: "A national park is a protected area of land — sometimes water too — set aside by a government to preserve natural scenery, wildlife."
 category: everyday-concepts
 tags: ["national parks", "conservation", "wildlife", "ecosystems", "outdoor recreation", "protected areas"]
 heroImage: "/images/articles/national-parks-hero.webp"

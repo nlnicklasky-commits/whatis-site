@@ -1,7 +1,7 @@
 ---
 title: "What Is Comic Book Collecting?"
 slug: comic-book-collecting
-description: "Comic book collecting is the hobby of acquiring, preserving, and trading comics. Learn about grading, key issues, storage, and building a collection. Discove..."
+description: "Comic book collecting is the hobby of acquiring, organizing, preserving, and sometimes trading comic books."
 category: everyday-concepts
 tags: ["comic book collecting", "comics", "collectibles", "hobbies", "graphic novels", "superheroes"]
 heroImage: "/images/articles/comic-book-collecting-hero.webp"

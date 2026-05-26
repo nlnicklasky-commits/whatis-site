@@ -1,7 +1,7 @@
 ---
 title: "What Is Septuagint Studies?"
 slug: septuagint-studies
-description: "Septuagint studies is the academic field examining the ancient Greek translation of the Hebrew Bible, its origins, textual history, and influence. Discover t..."
+description: "Septuagint studies is the academic discipline focused on the Septuagint (abbreviated LXX)."
 category: history
 tags: ["septuagint", "bible", "old testament", "greek translation", "biblical studies"]
 heroImage: "/images/articles/septuagint-studies-hero.webp"

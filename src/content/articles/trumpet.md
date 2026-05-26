@@ -1,7 +1,7 @@
 ---
 title: "What Is Trumpet?"
 slug: trumpet
-description: "The trumpet is a brass instrument played by buzzing into a mouthpiece. Learn about its history, types, playing techniques, and role in music. Discover the ke..."
+description: "The trumpet is a brass instrument — and arguably the flashiest one in any ensemble."
 category: arts-amp-culture
 tags: ["trumpet", "brass instruments", "music", "jazz", "orchestra", "wind instruments"]
 heroImage: "/images/articles/trumpet-hero.webp"

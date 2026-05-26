@@ -1,7 +1,7 @@
 ---
 title: "What Is Geology?"
 slug: geology
-description: "Geology studies Earth's structure, materials, and the processes shaping our planet over billions of years, from plate tectonics to minerals. Discover the key..."
+description: "Geology is the scientific study of Earth — its structure, composition, the physical and chemical processes that shape it."
 category: science
 tags: ["geology", "earth science", "rocks", "minerals", "plate tectonics", "natural hazards", "resources"]
 heroImage: "/images/articles/geology-hero.webp"

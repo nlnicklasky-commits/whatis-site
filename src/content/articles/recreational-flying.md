@@ -1,7 +1,7 @@
 ---
 title: "What Is Recreational Flying?"
 slug: recreational-flying
-description: "Recreational flying is piloting aircraft for personal enjoyment rather than commercial purposes. Learn about licenses, costs, and aircraft types. Discover th..."
+description: "Recreational flying is piloting an aircraft — airplane, glider, ultralight, helicopter, or balloon."
 category: sports
 tags: ["recreational flying", "aviation", "pilot", "general aviation", "aircraft", "flying"]
 heroImage: "/images/articles/recreational-flying-hero.webp"

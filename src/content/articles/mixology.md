@@ -1,7 +1,7 @@
 ---
 title: "What Is Mixology?"
 slug: mixology
-description: "Mixology is the art and science of crafting cocktails. Learn about techniques, essential spirits, bar tools, and the craft cocktail movement. Discover the ke..."
+description: "Mixology is the craft of creating mixed drinks — cocktails — by combining spirits, modifiers, sweeteners, citrus, bitters."
 category: arts-amp-culture
 tags: ["mixology", "cocktails", "bartending", "spirits", "drinks", "craft beverages"]
 heroImage: "/images/articles/mixology-hero.webp"

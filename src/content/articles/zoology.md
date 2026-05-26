@@ -1,7 +1,7 @@
 ---
 title: "What Is Zoology?"
 slug: zoology
-description: "Zoology is the branch of biology that studies animals, their behavior, physiology, genetics, evolution, and interactions with ecosystems. Discover the key fa..."
+description: "Zoology is the scientific study of animals — their structure, development, behavior, classification, distribution, evolution, and ecological relationships."
 category: science
 tags: ["biology", "animals", "ecology", "wildlife", "evolution"]
 heroImage: "/images/articles/zoology-hero.webp"
@@ -9,8 +9,8 @@ heroAlt: "Zoology is the branch of biology that studies animals, their behavior,
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 10
-wordCount: 2469
+readingTime: 14
+wordCount: 3139
 tier: '1'
 relatedArticles: ["biology", "ecology", "evolutionary-biology", "animal-behavior", "anatomy"]
 externalSources:
@@ -195,6 +195,32 @@ The evidence is mixed. Some species (California condors, Arabian oryx) would lik
 ### Trophy Hunting and Sustainable Use
 
 Some conservation biologists argue that regulated trophy [hunting](/hunting) can fund conservation — the fees from a single elephant hunt can fund anti-poaching patrols for a year. Others consider this morally repugnant. The debate is heated, emotional, and genuinely complex.
+
+## How a New Species Gets Named
+
+When a zoologist finds something genuinely new, there's a formal process — and it's stricter than most people expect. You can't just photograph an unfamiliar beetle and announce a discovery. Under the rules set by the International Commission on Zoological Nomenclature (ICZN), a new species needs a published description in a recognized scientific outlet, a unique two-part Latin name, and a designated "type specimen" — a single physical example, deposited in a museum, that forever anchors what the name refers to.
+
+That type specimen matters more than you'd think. Decades later, if scientists argue over whether two populations are really the same species, they go back to the type. Museum collections like the Smithsonian or London's Natural History Museum hold millions of these reference specimens, some collected by Darwin himself. They're the permanent backbone of [taxonomy](/taxonomy).
+
+The naming itself can be playful. There's a horsefly named *Scaptia beyonceae* for its golden rear end, a trapdoor spider called *Aname aragog* after the Harry Potter character, and a fungus beetle named *Gelae baen*. The Latin must be valid, but the meaning is up to the discoverer — which is why scientists sometimes name species after celebrities, donors, or inside jokes.
+
+Despite roughly 1.5 million species described so far, taxonomists estimate that 80 to 90 percent of animal species still have no name at all. Most are small invertebrates in tropical forests and deep oceans. We are, in a real sense, still in the cataloging phase of [zoology](/biology) — and we're racing extinction to finish it.
+
+## Model Organisms: The Animals Science Leans On
+
+A surprising amount of what we know about animal life — including human biology — comes from a short list of creatures studied obsessively in labs worldwide. These "model organisms" are chosen because they breed fast, are easy to keep, and share fundamental machinery with other animals.
+
+The fruit fly (*Drosophila melanogaster*) has driven [genetics](/genetics) for over a century; much of our basic understanding of how genes map to traits came from breeding flies in milk bottles. The nematode worm *C. elegans* was the first animal to have its entire nervous system mapped, neuron by neuron — all 302 of them. Zebrafish, with their transparent embryos, let researchers watch organs form in real time. The humble lab mouse shares about 85 percent of its protein-coding genes with humans, which is why it underpins most medical research.
+
+The point is that these aren't random choices. A discovery in a fruit fly often holds true in a human because [evolution](/evolutionary-biology) conserves the core toolkit of life across enormous spans of time. Studying one well-understood animal deeply teaches you about thousands you'll never put under a microscope.
+
+## Animals We Got Completely Wrong
+
+Part of zoology's charm is how often careful study overturns confident assumptions. For centuries, naturalists insisted the platypus specimen sent from Australia in 1799 was a hoax — a duck's bill sewn onto a mammal's body. It's real: a venomous, egg-laying mammal that detects prey by sensing electrical fields. Nobody would have predicted it.
+
+Bats were long lumped with birds because both fly; they're mammals more closely related to you than to a sparrow. Whales were treated as fish until anatomy and later [genetics](/genetics) confirmed they're mammals that returned to the sea. Eels baffled scientists for over two thousand years — Aristotle thought they spontaneously generated from mud — because no one could find their reproductive organs. We only confirmed where European eels breed (the Sargasso Sea) in the 20th century, and direct observation of wild eel spawning still eludes us.
+
+These aren't just trivia. Each correction came from someone refusing to accept the obvious-looking answer, and they're a reminder that the [scientific method](/scientific-method) in zoology means trusting evidence over intuition. The animals keep humbling us, which is exactly why the field stays interesting.
 
 ## Careers in Zoology
 

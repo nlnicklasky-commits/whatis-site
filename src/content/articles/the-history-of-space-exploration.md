@@ -1,7 +1,7 @@
 ---
 title: "What Is The History of Space Exploration?"
 slug: the-history-of-space-exploration
-description: "The history of space exploration covers the journey from early rocketry to the Moon landings, space stations, and Mars missions. Discover the key facts, hist..."
+description: "The history of space exploration is the story of how humans went from staring at the sky and making up stories about it to actually going there."
 category: history
 tags: ["space exploration", "space race", "nasa", "rockets", "satellites"]
 heroImage: "/images/articles/the-history-of-space-exploration-hero.webp"
@@ -33,7 +33,9 @@ faq:
 
 # What Is The History of Space Exploration?
 
-The history of space exploration is the story of how humans went from staring at the sky and making up stories about it to actually going there. It took thousands of years of dreaming, about 50 years of serious [engineering](/engineering), and several trillion dollars — but we pulled it off. Sort of. We've been to the Moon six times and haven't gone back in over 50 years. We've landed robots on Mars but haven't sent people. The story is impressive and frustrating in equal measure.
+The history of space exploration is the story of how humans went from staring at the sky and making up stories about it to actually going there. It took thousands of years of dreaming, about 50 years of serious [engineering](/engineering), and several trillion dollars — but we pulled it off. Sort of.
+
+We've been to the Moon six times and haven't gone back in over 50 years. We've landed robots on Mars but haven't sent people. The story is impressive and frustrating in equal measure.
 
 ## Rockets: The Part Most People Skip
 

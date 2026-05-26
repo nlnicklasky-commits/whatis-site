@@ -1,7 +1,7 @@
 ---
 title: "What Is Scent Training (Dogs)?"
 slug: scent-training-dogs
-description: "Scent training teaches dogs to detect specific odors using their powerful noses. Learn how nose work builds confidence and mental stimulation. Discover the k..."
+description: "Scent training — also called nose work or scent detection — is a structured activity where dogs learn to find and identify specific odors using."
 category: everyday-concepts
 tags: ["dog training", "scent detection", "nose work", "canine", "olfaction", "dog behavior"]
 heroImage: "/images/articles/scent-training-dogs-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Tectonics?"
 slug: tectonics
-description: "Tectonics is the study of Earth's large-scale structural features and the forces that shape them, including the movement of tectonic plates. Discover the key..."
+description: "Tectonics is the branch of geology that studies the large-scale structure of Earth's outer layer — its crust and upper mantle — and the forces that deform."
 category: science
 tags: ["tectonics", "plate tectonics", "geology", "earth science", "continental drift"]
 heroImage: "/images/articles/tectonics-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Portuguese Language?"
 slug: portuguese-language
-description: "Portuguese is a Romance language spoken by over 250 million people across four continents. Learn its history, spread, and unique features. Discover the key f..."
+description: "Portuguese is a Romance language — meaning it descended from Latin — spoken by roughly 260 million native speakers across four continents."
 category: arts-amp-culture
 tags: ["portuguese language", "romance languages", "brazil", "portugal", "lusophone", "linguistics"]
 heroImage: "/images/articles/portuguese-language-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Portuguese Language?
 
-Portuguese is a Romance language — meaning it descended from Latin — spoken by roughly 260 million native speakers across four continents. It's the official language of nine countries, the dominant language of South America, and the sixth most spoken language on Earth. And yet, for a language with that kind of reach, it's surprisingly underestimated. People tend to assume it's just "Spanish with a funny accent." It isn't. Not even close.
+Portuguese is a Romance language — meaning it descended from Latin — spoken by roughly 260 million native speakers across four continents. It's the official language of nine countries, the dominant language of South America, and the sixth most spoken language on Earth. And yet, for a language with that kind of reach, it's surprisingly underestimated.
+
+People tend to assume it's just "Spanish with a funny accent." It isn't. Not even close.
 
 ## Where It Came From
 

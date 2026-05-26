@@ -1,7 +1,7 @@
 ---
 title: "What Is Horse Racing?"
 slug: horse-racing
-description: "Horse racing is a competitive sport where thoroughbreds race on tracks for speed. Learn about types, the Triple Crown, betting, and controversies. Discover t..."
+description: "Horse racing is a competitive sport in which horses — typically Thoroughbreds — race against each other on a track."
 category: sports
 tags: ["horse racing", "sports", "thoroughbred", "equestrian", "betting", "Triple Crown"]
 heroImage: "/images/articles/horse-racing-hero.webp"

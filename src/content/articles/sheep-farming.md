@@ -1,7 +1,7 @@
 ---
 title: "What Is Sheep Farming?"
 slug: sheep-farming
-description: "Sheep farming raises sheep for wool, meat, and milk. Learn about breeds, husbandry, economics, and what running a flock actually involves. Discover the key f..."
+description: "Sheep farming is the agricultural practice of raising domestic sheep (Ovis aries) for their wool, meat (lamb and mutton), milk, and hides."
 category: everyday-concepts
 tags: ["sheep", "farming", "agriculture", "wool", "lamb", "mutton"]
 heroImage: "/images/articles/sheep-farming-hero.webp"

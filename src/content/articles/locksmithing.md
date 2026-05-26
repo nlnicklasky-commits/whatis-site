@@ -1,7 +1,7 @@
 ---
 title: "What Is Locksmithing?"
 slug: locksmithing
-description: "Locksmithing is the trade of making, installing, and opening locks. Learn about the skills, tools, history, and career outlook for modern locksmiths. Discove..."
+description: "Locksmithing is the skilled trade of designing, installing, adjusting, repairing, and defeating lock mechanisms."
 category: everyday-concepts
 tags: ["locksmithing", "locks", "security", "trade skills", "keys", "lock picking"]
 heroImage: "/images/articles/locksmithing-hero.webp"

@@ -41,7 +41,9 @@ faq:
 
 # What Is The Silk Road?
 
-The Silk Road wasn't a single road—it was a sprawling network of trade routes connecting [China](/coaching), Central Asia, the Middle East, and Europe for nearly 1,500 years. Goods flowed. Ideas flowed. Religions spread. People collided, competed, and sometimes collaborated.
+The Silk Road wasn't a single road—it was a sprawling network of trade routes connecting [China](/coaching), Central Asia, the Middle East, and Europe for nearly 1,500 years. Goods flowed. Ideas flowed.
+
+Religions spread. People collided, competed, and sometimes collaborated.
 
 ## How This Ancient Trade System Actually Worked
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Science Journalism?"
 slug: science-journalism
-description: "Science journalism translates research findings into stories the public can understand. Learn how it works, why it matters, and its challenges. Discover the ..."
+description: "Science journalism is the practice of reporting on scientific research, discoveries, and developments for a general audience."
 category: everyday-concepts
 tags: ["science", "journalism", "science communication", "research", "public understanding", "scientific literacy"]
 heroImage: "/images/articles/science-journalism-hero.webp"

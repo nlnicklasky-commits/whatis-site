@@ -1,7 +1,7 @@
 ---
 title: "What Is Carpentry?"
 slug: carpentry
-description: "Carpentry is the skilled trade of cutting, shaping, and joining wood to build structures, furniture, and other wooden objects. Discover the key facts, histor..."
+description: "Carpentry is the skilled trade of cutting, shaping, and assembling wood (and increasingly, engineered wood products) to construct buildings, structures."
 category: everyday-concepts
 tags: ["carpentry", "woodworking", "construction", "trade", "crafts", "building"]
 heroImage: "/images/articles/carpentry-hero.webp"

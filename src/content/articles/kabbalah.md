@@ -31,7 +31,9 @@ faq:
 
 # What Is Kabbalah?
 
-Kabbalah is the mystical tradition within Judaism that seeks to understand the hidden, esoteric dimensions of God, creation, and the Torah. While mainstream Judaism focuses on law, [ethics](/ethics), and communal practice, Kabbalah explores questions that go deeper — or stranger, depending on your perspective: What is the nature of the infinite? How did the formless create form? What is the structure of the divine? How can human actions affect cosmic reality?
+Kabbalah is the mystical tradition within Judaism that seeks to understand the hidden, esoteric dimensions of God, creation, and the Torah. While mainstream Judaism focuses on law, [ethics](/ethics), and communal practice, Kabbalah explores questions that go deeper — or stranger, depending on your perspective: What is the nature of the infinite? How did the formless create form?
+
+What is the structure of the divine? How can human actions affect cosmic reality?
 
 ## The Core Ideas
 

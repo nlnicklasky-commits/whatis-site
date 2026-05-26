@@ -1,7 +1,7 @@
 ---
 title: "What Is Mathematical Biology?"
 slug: mathematical-biology
-description: "Mathematical biology uses equations and models to understand living systems, from disease spread to population dynamics and cell division. Discover the key f..."
+description: "Mathematical biology is the application of mathematical techniques to understand biological systems."
 category: science
 tags: ["mathematical biology", "biomathematics", "modeling", "population dynamics", "epidemiology", "ecology", "mathematics"]
 heroImage: "/images/articles/mathematical-biology-hero.webp"

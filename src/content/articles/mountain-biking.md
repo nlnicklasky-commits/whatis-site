@@ -1,7 +1,7 @@
 ---
 title: "What Is Mountain Biking?"
 slug: mountain-biking
-description: "Mountain biking is off-road cycling on rough terrain using specially designed bikes. Learn about disciplines, equipment, trails, and getting started. Discove..."
+description: "Mountain biking is the sport of riding specially designed bicycles on off-road terrain — dirt trails, forest paths, mountain tracks, rock gardens."
 category: sports
 tags: ["mountain biking", "cycling", "off-road", "trail riding", "bike sports", "outdoor recreation"]
 heroImage: "/images/articles/mountain-biking-hero.webp"

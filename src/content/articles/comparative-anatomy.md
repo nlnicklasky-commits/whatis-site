@@ -1,7 +1,7 @@
 ---
 title: "What Is Comparative Anatomy?"
 slug: comparative-anatomy
-description: "Comparative anatomy studies structural similarities and differences across species to reveal evolutionary relationships and functional adaptations. Discover ..."
+description: "Comparative anatomy is the branch of biology that studies the similarities and differences in the physical structures of different species to understand."
 category: science
 tags: ["comparative anatomy", "biology", "evolution", "anatomy", "zoology", "paleontology", "species"]
 heroImage: "/images/articles/comparative-anatomy-hero.webp"

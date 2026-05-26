@@ -1,7 +1,7 @@
 ---
 title: "What Is Calligraphy?"
 slug: calligraphy
-description: "Calligraphy is the art of beautiful handwriting, practiced across cultures using specialized tools to create expressive, decorative letterforms. Discover the..."
+description: "Calligraphy is the art of forming beautiful, harmonious, and expressive letters using specialized writing instruments — pens, brushes, or other tools."
 category: arts-amp-culture
 tags: ["calligraphy", "handwriting", "art", "lettering", "script", "typography"]
 heroImage: "/images/articles/calligraphy-hero.webp"

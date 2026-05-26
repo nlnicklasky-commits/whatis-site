@@ -1,7 +1,7 @@
 ---
 title: "What Is Mime?"
 slug: mime
-description: "Mime is a theatrical art form that tells stories through body movement and gesture without words. Learn about techniques, history, and famous mimes. Discover..."
+description: "Mime is the art of telling stories, expressing emotions, and creating illusions using only the body — no words, no props, no scenery."
 category: everyday-concepts
 tags: ["mime", "performing arts", "theater", "physical theater", "Marcel Marceau", "silent performance"]
 heroImage: "/images/articles/mime-hero.webp"

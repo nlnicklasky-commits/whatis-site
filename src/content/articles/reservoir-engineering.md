@@ -1,7 +1,7 @@
 ---
 title: "What Is Reservoir Engineering?"
 slug: reservoir-engineering
-description: "Reservoir engineering optimizes oil and gas extraction from underground formations through fluid flow analysis, recovery methods, and simulation. Discover th..."
+description: "Reservoir engineering is the branch of petroleum engineering concerned with understanding and optimizing the extraction of oil and gas from underground rock."
 category: technology
 tags: ["reservoir engineering", "petroleum", "oil recovery", "fluid flow", "drilling", "energy", "geology"]
 heroImage: "/images/articles/reservoir-engineering-hero.webp"

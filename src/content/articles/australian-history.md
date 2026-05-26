@@ -1,7 +1,7 @@
 ---
 title: "What Is Australian History?"
 slug: australian-history
-description: "Australian history spans over 65,000 years of Indigenous civilization and 236 years since British colonization in 1788. Discover the key facts, history, and ..."
+description: "Australian history encompasses over 65,000 years of Indigenous civilization — the longest continuous cultural tradition on Earth."
 category: history
 tags: ["australian history", "australia", "indigenous australians", "federation"]
 heroImage: "/images/articles/australian-history-hero.webp"

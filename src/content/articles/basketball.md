@@ -1,7 +1,7 @@
 ---
 title: "What Is Basketball?"
 slug: basketball
-description: "Basketball is a fast-paced team sport where two teams of five try to score by shooting a ball through a 10-foot-high hoop on the opponent's court. Discover t..."
+description: "Basketball is a team sport in which two teams of five players each compete on a rectangular court."
 category: sports
 tags: ["basketball", "sport", "nba", "team sport", "court sports", "dribbling"]
 heroImage: "/images/articles/basketball-hero.webp"

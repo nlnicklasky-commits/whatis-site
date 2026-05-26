@@ -1,7 +1,7 @@
 ---
 title: "What Is Fencing?"
 slug: fencing
-description: "Fencing is a combat sport using swords — foil, epee, or sabre. Learn about the rules, weapons, techniques, and Olympic history of this ancient sport. Discove..."
+description: "Fencing is a combat sport in which two opponents attempt to score points by touching each other with a weapon — either a foil, epee, or sabre."
 category: sports
 tags: ["combat sport", "swordplay", "foil", "epee", "sabre", "olympic sport"]
 heroImage: "/images/articles/fencing-hero.webp"

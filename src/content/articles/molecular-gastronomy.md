@@ -1,7 +1,7 @@
 ---
 title: "What Is Molecular Gastronomy?"
 slug: molecular-gastronomy
-description: "Molecular gastronomy applies scientific methods to cooking, creating surprising textures and flavors. Learn about techniques, tools, and key figures. Discove..."
+description: "Molecular gastronomy is the application of scientific principles and techniques to cooking."
 category: everyday-concepts
 tags: ["molecular gastronomy", "food science", "cooking", "culinary arts", "chemistry", "modernist cuisine"]
 heroImage: "/images/articles/molecular-gastronomy-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Phycology?"
 slug: phycology
-description: "Phycology is the scientific study of algae. Learn about these diverse organisms, from microscopic phytoplankton to giant kelp, and why they matter. Discover ..."
+description: "Phycology is the scientific study of algae --- those green, red, brown, and sometimes invisible organisms that live in nearly every body of water on Earth."
 category: science
 tags: ["algae", "biology", "marine biology", "ecology", "photosynthesis", "biofuels", "aquatic ecosystems"]
 heroImage: "/images/articles/phycology-hero.webp"
@@ -24,7 +24,9 @@ externalSources:
     url: "https://www.nature.com/subjects/algae"
 faq:
   - q: "Are algae plants?"
-    a: "Not exactly. While algae photosynthesize like plants, they lack true roots, stems, and leaves. Many algae are more closely related to animals or bacteria than to land plants. The term 'algae' is a functional grouping of photosynthetic organisms rather than a single evolutionary lineage."
+    a: "Not exactly. While algae photosynthesize like plants, they lack true roots, stems, and leaves. Many algae are more closely related to animals or bacteria than to land plants.
+
+The term 'algae' is a functional grouping of photosynthetic organisms rather than a single evolutionary lineage."
   - q: "Why are algae important for the environment?"
     a: "Algae produce roughly 50% of the oxygen in Earth's atmosphere through photosynthesis and absorb massive amounts of carbon dioxide. They form the base of aquatic food webs, feeding zooplankton that in turn feed fish and marine mammals. Without algae, most aquatic ecosystems would collapse."
   - q: "Can algae be used as fuel?"

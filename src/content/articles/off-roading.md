@@ -1,7 +1,7 @@
 ---
 title: "What Is Off-roading?"
 slug: off-roading
-description: "Off-roading is driving vehicles on unpaved terrain like trails, sand, mud, and rocks. Learn about vehicles, techniques, and the culture behind it. Discover t..."
+description: "Off-roading is the activity of driving motor vehicles on unpaved surfaces — dirt trails, rocky terrain, sand dunes, muddy paths, river crossings."
 category: everyday-concepts
 tags: ["off roading", "4x4", "adventure", "outdoor recreation", "vehicles", "trail driving"]
 heroImage: "/images/articles/off-roading-hero.webp"

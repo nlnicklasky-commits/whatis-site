@@ -1,7 +1,7 @@
 ---
 title: "What Is Memory Techniques?"
 slug: memory-techniques
-description: "Memory techniques are strategies for improving recall, from the memory palace to spaced repetition. Learn proven methods backed by cognitive science. Discove..."
+description: "Memory techniques — also called mnemonics or mnemonic strategies — are methods for encoding, storing."
 category: everyday-concepts
 tags: ["memory techniques", "mnemonics", "learning", "cognitive science", "memory palace", "study skills"]
 heroImage: "/images/articles/memory-techniques-hero.webp"

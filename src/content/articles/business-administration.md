@@ -1,7 +1,7 @@
 ---
 title: "What Is Business Administration?"
 slug: business-administration
-description: "Business administration is the management of an organization's operations, resources, and people to achieve its goals efficiently. Discover the key facts, hi..."
+description: "Business administration is the process of managing an organization's resources — including people, finances, operations, and information systems."
 category: finance
 tags: ["business administration", "management", "operations", "organizational goals", "finance", "marketing", "human resources"]
 heroImage: "/images/articles/business-administration-hero.webp"

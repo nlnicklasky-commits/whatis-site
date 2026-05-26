@@ -1,7 +1,7 @@
 ---
 title: "What Is Norse Mythology?"
 slug: norse-mythology
-description: "Norse mythology is the collection of myths from ancient Scandinavia featuring gods like Odin, Thor, and Loki. Learn about its stories and themes. Discover th..."
+description: "Norse mythology is the body of myths, legends, and religious beliefs held by the ancient Scandinavian peoples — the Vikings and their predecessors."
 category: arts-amp-culture
 tags: ["norse mythology", "viking age", "mythology", "odin", "thor", "loki"]
 heroImage: "/images/articles/norse-mythology-hero.webp"

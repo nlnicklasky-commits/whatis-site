@@ -1,7 +1,7 @@
 ---
 title: "What Is Contract Law?"
 slug: contract-law
-description: "Contract law governs legally binding agreements between parties. Learn how contracts form, what makes them enforceable, and key principles to know. Discover ..."
+description: "Contract law is the body of legal rules governing agreements between two or more parties that create mutual obligations enforceable by courts."
 category: finance
 tags: ["law", "legal system", "agreements", "business law", "commercial law", "jurisprudence", "obligations"]
 heroImage: "/images/articles/contract-law-hero.webp"

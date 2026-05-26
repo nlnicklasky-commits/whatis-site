@@ -1,7 +1,7 @@
 ---
 title: "What Is Hot Air Ballooning?"
 slug: hot-air-ballooning
-description: "Hot air ballooning is flight using heated air inside a fabric envelope for lift. Learn how balloons work, their history, and what a ride is like. Discover th..."
+description: "Hot air ballooning is the oldest form of human flight, using the simple principle that heated air rises."
 category: everyday-concepts
 tags: ["hot air ballooning", "hot air balloon", "aviation", "flight", "aerodynamics", "adventure"]
 heroImage: "/images/articles/hot-air-ballooning-hero.webp"

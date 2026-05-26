@@ -1,7 +1,7 @@
 ---
 title: "What Is Inventory Management?"
 slug: inventory-management
-description: "Inventory management is the practice of ordering, storing, tracking, and controlling stock. Learn how businesses keep the right products available. Discover ..."
+description: "Inventory management is the systematic process of ordering, storing, tracking, and controlling a company's stock—from raw materials to finished goods."
 category: finance
 tags: ["inventory management", "supply chain", "logistics", "stock control", "warehouse management", "erp", "just-in-time"]
 heroImage: "/images/articles/inventory-management-hero.webp"

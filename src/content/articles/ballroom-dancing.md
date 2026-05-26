@@ -1,7 +1,7 @@
 ---
 title: "What Is Ballroom Dancing?"
 slug: ballroom-dancing
-description: "Ballroom dancing is a set of partner dances performed socially and competitively, including waltz, tango, foxtrot, cha-cha, and samba. Discover the key facts..."
+description: "Ballroom dancing is a category of partner dances that are performed socially at gatherings, events, and dance halls."
 category: everyday-concepts
 tags: ["ballroom dancing", "dance", "partner dance", "waltz", "tango", "competitive dance"]
 heroImage: "/images/articles/ballroom-dancing-hero.webp"

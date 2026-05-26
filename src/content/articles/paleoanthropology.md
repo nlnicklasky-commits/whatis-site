@@ -1,7 +1,7 @@
 ---
 title: "What Is Paleoanthropology?"
 slug: paleoanthropology
-description: "Paleoanthropology studies human evolution through fossil evidence. Learn about hominid species, key discoveries, and how our ancestors lived. Discover the ke..."
+description: "Paleoanthropology is the scientific study of human evolution — the long, branching story of how our species, Homo sapiens."
 category: everyday-concepts
 tags: ["paleoanthropology", "human evolution", "fossils", "archaeology", "hominids", "anthropology"]
 heroImage: "/images/articles/paleoanthropology-hero.webp"

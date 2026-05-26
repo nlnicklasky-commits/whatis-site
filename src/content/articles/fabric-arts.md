@@ -1,7 +1,7 @@
 ---
 title: "What Is Fabric Arts?"
 slug: fabric-arts
-description: "Fabric arts encompass textile-based creative practices like weaving, quilting, and embroidery. Learn about techniques, history, and modern fiber art. Discove..."
+description: "Fabric arts — sometimes called textile arts — cover any creative practice that uses fabric, thread, yarn, or fiber as its primary medium."
 category: arts-amp-culture
 tags: ["textile art", "fiber art", "crafts", "quilting", "embroidery", "weaving"]
 heroImage: "/images/articles/fabric-arts-hero.webp"

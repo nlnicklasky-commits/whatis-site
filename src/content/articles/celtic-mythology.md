@@ -1,7 +1,7 @@
 ---
 title: "What Is Celtic Mythology?"
 slug: celtic-mythology
-description: "Celtic mythology is the collection of myths, legends, and religious beliefs of the Celtic peoples of ancient Ireland, Wales, Scotland, and Gaul. Discover the..."
+description: "Celtic mythology is the body of myths, legends, and religious narratives created by the Celtic peoples."
 category: arts-amp-culture
 tags: ["Celtic mythology", "mythology", "Ireland", "folklore", "legends", "ancient religion"]
 heroImage: "/images/articles/celtic-mythology-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Music Production?"
 slug: music-production
-description: "Music production is the process of creating, recording, and refining audio recordings. Learn about DAWs, mixing, mastering, and the producer's role. Discover..."
+description: "Music production is the complete process of creating a finished audio recording — from the initial idea through composition, arrangement, recording, editing."
 category: arts-amp-culture
 tags: ["music production", "recording", "mixing", "mastering", "DAW", "audio engineering"]
 heroImage: "/images/articles/music-production-hero.webp"

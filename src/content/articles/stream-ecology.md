@@ -1,7 +1,7 @@
 ---
 title: "What Is Stream Ecology?"
 slug: stream-ecology
-description: "Stream ecology is the study of organisms in flowing freshwater systems and their relationships with each other and the physical environment. Discover the key..."
+description: "Stream ecology is the scientific study of the organisms that live in flowing freshwater environments — streams, creeks, brooks, and rivers."
 category: science
 tags: ["ecology", "stream ecology", "freshwater", "aquatic biology", "hydrology", "conservation"]
 heroImage: "/images/articles/stream-ecology-hero.webp"

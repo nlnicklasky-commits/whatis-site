@@ -1,7 +1,7 @@
 ---
 title: "What Is Forging?"
 slug: forging
-description: "Forging shapes metal using compressive force, producing parts with superior strength for aerospace, automotive, and industrial applications. Discover the key..."
+description: "Forging is a manufacturing process that shapes metal using localized compressive forces, typically applied through hammering, pressing."
 category: technology
 tags: ["metalworking", "manufacturing", "metallurgy", "strength", "materials science", "industrial process", "blacksmithing"]
 heroImage: "/images/articles/forging-hero.webp"

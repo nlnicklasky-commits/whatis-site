@@ -1,7 +1,7 @@
 ---
 title: What Is Algebra?
 slug: algebra
-description: "Algebra explained clearly: variables, equations, functions, and why this branch of math matters far beyond the classroom. Discover the key facts, history, an..."
+description: "Algebra is the branch of mathematics that uses letters and symbols to represent numbers and quantities in equations and formulas."
 category: science
 tags: ["algebra", "mathematics", "math", "equations", "variables", "functions", "problem-solving"]
 heroImage: "/images/articles/algebra-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Acting?"
 slug: acting
-description: "Acting is the art of portraying characters through speech, movement, and emotion. Explore its history, techniques, and what makes a performance work. Discove..."
+description: "Acting is the art of embodying a character — adopting their thoughts, emotions, voice, and physical behavior to tell a story for an audience."
 category: arts-amp-culture
 tags: ["acting", "theater", "film", "drama", "performance"]
 heroImage: "/images/articles/acting-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Acting?
 
-Acting is the art of embodying a character — adopting their thoughts, emotions, voice, and physical behavior to tell a story for an audience. It's one of the oldest art forms, stretching back at least 2,500 years to ancient Greek theater. And despite what some people assume, it's one of the most demanding. Good acting looks effortless. That's what makes it so hard.
+Acting is the art of embodying a character — adopting their thoughts, emotions, voice, and physical behavior to tell a story for an audience. It's one of the oldest art forms, stretching back at least 2,500 years to ancient Greek theater. And despite what some people assume, it's one of the most demanding.
+
+Good acting looks effortless. That's what makes it so hard.
 
 ## From Greek Masks to Global Screens
 

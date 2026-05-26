@@ -1,7 +1,7 @@
 ---
 title: "What Is Railroad History?"
 slug: railroad-history
-description: "Railroad history spans from early steam engines to modern high-speed rail. Learn how trains reshaped economies, cities, warfare, and daily life. Discover the..."
+description: "Railroad history is the story of how iron rails, steam power, and eventually electricity and diesel fuel reshaped human civilization over the past 200 years."
 category: history
 tags: ["transportation history", "railroad", "trains", "industrial revolution"]
 heroImage: "/images/articles/railroad-history-hero.webp"

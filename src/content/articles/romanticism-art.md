@@ -1,7 +1,7 @@
 ---
 title: "What Is Romanticism (Art)?"
 slug: romanticism-art
-description: "Romanticism was a 19th-century art movement that prized emotion, individualism, and the sublime power of nature over rational order. Discover the key facts, ..."
+description: "Romanticism was an artistic and intellectual movement that swept through Europe and America from roughly 1790 to 1850, elevating emotion."
 category: arts-amp-culture
 tags: ["romantic art", "19th century art", "emotion", "individualism", "sublime", "art movement"]
 heroImage: "/images/articles/romanticism-art-hero.webp"

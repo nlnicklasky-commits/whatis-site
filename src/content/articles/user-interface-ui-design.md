@@ -1,7 +1,7 @@
 ---
 title: "What Is User Interface (UI) Design?"
 slug: user-interface-ui-design
-description: "UI design is the process of creating visual interfaces for software and apps. Learn about principles, tools, patterns, and career paths in UI design. Discove..."
+description: "UI design is the practice of creating the visual and interactive elements that people see and interact with when using software — the buttons, menus, icons."
 category: everyday-concepts
 tags: ["user interface ui design", "UI", "design", "software", "apps", "visual design"]
 heroImage: "/images/articles/user-interface-ui-design-hero.webp"

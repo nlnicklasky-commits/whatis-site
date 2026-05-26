@@ -1,7 +1,7 @@
 ---
 title: "What Is Scheduling?"
 slug: scheduling
-description: "Scheduling is the process of organizing tasks and resources across time. Learn about methods, tools, and strategies for effective planning. Discover the key ..."
+description: "Scheduling is the process of arranging, controlling, and optimizing tasks, resources, and time to achieve specific outcomes."
 category: everyday-concepts
 tags: ["scheduling", "time management", "project management", "planning", "resource allocation", "productivity"]
 heroImage: "/images/articles/scheduling-hero.webp"

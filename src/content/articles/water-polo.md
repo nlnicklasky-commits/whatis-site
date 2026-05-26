@@ -1,7 +1,7 @@
 ---
 title: "What Is Water Polo?"
 slug: water-polo
-description: "Water polo is an aquatic team sport where players swim, pass, and shoot a ball into goals. Learn about rules, positions, skills, and Olympic history. Discove..."
+description: "Water polo is a team sport played in a pool where two teams of seven players (six field players plus a goalkeeper) try to throw a ball into the opposing."
 category: sports
 tags: ["water polo", "aquatic sports", "team sports", "Olympic sports", "swimming", "athletics"]
 heroImage: "/images/articles/water-polo-hero.webp"

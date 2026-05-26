@@ -1,7 +1,7 @@
 ---
 title: "What Is Sewing?"
 slug: sewing
-description: "Sewing joins fabric using needle and thread to create clothing, repairs, and crafts. Learn about techniques, tools, and getting started. Discover the key fac..."
+description: "Sewing is the craft of joining pieces of fabric or other materials using needle and thread — either by hand or with a sewing machine."
 category: arts-amp-culture
 tags: ["sewing", "craft", "textile arts", "fabric", "needlework", "tailoring"]
 heroImage: "/images/articles/sewing-hero.webp"

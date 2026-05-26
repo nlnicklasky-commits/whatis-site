@@ -1,7 +1,7 @@
 ---
 title: "What Is Industrial Psychology?"
 slug: industrial-psychology
-description: "Industrial psychology applies psychological science to workplaces. Learn about hiring, motivation, performance, and making work better for everyone. Discover..."
+description: "Industrial psychology — more formally called industrial-organizational (I-O) psychology — is the scientific study of human behavior in workplace settings."
 category: science
 tags: ["industrial psychology", "organizational psychology", "i-o psychology", "human resources", "workplace", "employee well-being", "performance management"]
 heroImage: "/images/articles/industrial-psychology-hero.webp"
@@ -35,7 +35,9 @@ faq:
 
 # What Is Industrial Psychology?
 
-Industrial [psychology](/psychology) — more formally called industrial-organizational (I-O) psychology — is the scientific study of human behavior in workplace settings. It applies psychological [research methods](/research-methods) to questions about employee selection, training, motivation, performance, well-being, and organizational effectiveness. The field uses data and evidence rather than intuition to answer practical questions: Who should we hire? How should we train them? What makes teams work well? Why do people quit?
+Industrial [psychology](/psychology) — more formally called industrial-organizational (I-O) psychology — is the scientific study of human behavior in workplace settings. It applies psychological [research methods](/research-methods) to questions about employee selection, training, motivation, performance, well-being, and organizational effectiveness. The field uses data and evidence rather than intuition to answer practical questions: Who should we hire?
+
+How should we train them? What makes teams work well? Why do people quit?
 
 ## The Science of Work (Not Just Common Sense)
 

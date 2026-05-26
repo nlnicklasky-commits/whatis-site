@@ -1,7 +1,7 @@
 ---
 title: "What Is Ottoman History?"
 slug: ottoman-history
-description: "Ottoman history spans over 600 years of empire across three continents. Learn about its rise, golden age, decline, and lasting legacy. Discover the key facts..."
+description: "Ottoman history is the study of the Ottoman Empire — one of the longest-lasting, most geographically expansive, and most influential empires in world history."
 category: history
 tags: ["ottoman empire", "turkish history", "islamic history", "middle east"]
 heroImage: "/images/articles/ottoman-history-hero.webp"

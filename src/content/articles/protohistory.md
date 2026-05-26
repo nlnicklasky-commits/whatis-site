@@ -1,7 +1,7 @@
 ---
 title: "What Is Protohistory?"
 slug: protohistory
-description: "Protohistory is the transitional period between prehistory and recorded history. Learn how it differs from both, and why this in-between era matters. Discove..."
+description: "Protohistory is the period in a culture's past when it had no writing system of its own but was described in the written records of other."
 category: history
 tags: ["protohistory", "prehistory", "archaeology", "early history"]
 heroImage: "/images/articles/protohistory-hero.webp"

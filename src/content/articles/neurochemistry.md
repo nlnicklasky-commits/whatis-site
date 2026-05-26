@@ -1,7 +1,7 @@
 ---
 title: "What Is Neurochemistry?"
 slug: neurochemistry
-description: "Neurochemistry studies the chemical processes in the brain, including neurotransmitters, receptors, and how brain chemistry shapes mood and behavior. Discove..."
+description: "Neurochemistry is the study of the chemical molecules, reactions, and processes that operate within the nervous system."
 category: science
 tags: ["neurochemistry", "neurotransmitters", "neuroscience", "brain chemistry", "psychopharmacology", "biochemistry"]
 heroImage: "/images/articles/neurochemistry-hero.webp"

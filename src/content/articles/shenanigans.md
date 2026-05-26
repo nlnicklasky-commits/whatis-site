@@ -1,7 +1,7 @@
 ---
 title: "What Is Shenanigans?"
 slug: shenanigans
-description: "Shenanigans refers to playful mischief, trickery, or dubious behavior. Learn the word's origins, usage, and cultural significance. Discover the key facts, hi..."
+description: "Shenanigans is a wonderfully flexible English word that refers to secret or dishonest activity, playful mischief."
 category: everyday-concepts
 tags: ["mischief", "playful", "pranks", "trickery", "amusing", "behavior"]
 heroImage: "/images/articles/shenanigans-hero.webp"

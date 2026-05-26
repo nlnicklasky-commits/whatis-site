@@ -1,7 +1,7 @@
 ---
 title: "What Is Oratory?"
 slug: oratory
-description: "Oratory is the art of public speaking, using rhetoric and persuasion to move audiences. Learn about its history, techniques, and famous orators. Discover the..."
+description: "Oratory is the art of public speaking — specifically, speaking designed to inform, persuade, or inspire an audience."
 category: everyday-concepts
 tags: ["oratory", "public speaking", "rhetoric", "persuasion", "communication", "speech"]
 heroImage: "/images/articles/oratory-hero.webp"

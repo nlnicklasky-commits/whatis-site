@@ -1,7 +1,7 @@
 ---
 title: "What Is Mahjong?"
 slug: mahjong
-description: "Mahjong is a tile-based strategy game for four players that originated in China. Learn the rules, history, variations, and cultural significance. Discover th..."
+description: "Mahjong is a tile-based game for four players that originated in China, probably in the mid-to-late 19th century."
 category: everyday-concepts
 tags: ["mahjong", "tile games", "Chinese games", "strategy games", "board games", "traditional games"]
 heroImage: "/images/articles/mahjong-hero.webp"

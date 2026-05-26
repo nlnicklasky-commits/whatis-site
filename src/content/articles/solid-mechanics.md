@@ -1,7 +1,7 @@
 ---
 title: "What Is Solid Mechanics?"
 slug: solid-mechanics
-description: "Solid mechanics studies how solid materials deform and fail under forces. Learn about stress, strain, elasticity, and why bridges don't collapse. Discover th..."
+description: "Solid mechanics is the branch of physics and engineering that studies how solid materials deform, move, and fail when subjected to forces."
 category: science
 tags: ["solid mechanics", "engineering", "physics", "stress", "strain", "materials science", "elasticity"]
 heroImage: "/images/articles/solid-mechanics-hero.webp"

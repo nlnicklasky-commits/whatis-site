@@ -1,7 +1,7 @@
 ---
 title: "What Is Programming Languages?"
 slug: programming-languages
-description: "Programming languages let humans tell computers what to do. Explore how they work, the major types, and which ones matter most in 2026. Discover the key fact..."
+description: "A programming language is a formal system of notation that allows humans to write instructions a computer can execute."
 category: technology
 tags: ["programming languages", "coding", "computer science", "software development", "python", "javascript", "java"]
 heroImage: "/images/articles/programming-languages-hero.webp"

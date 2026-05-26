@@ -1,7 +1,7 @@
 ---
 title: "What Is Train Spotting?"
 slug: train-spotting
-description: "Train spotting is the hobby of observing, recording, and photographing trains. Learn why people do it, how it started, and the community behind it. Discover ..."
+description: "Train spotting (also called railfanning in North America) is the hobby of observing, identifying, and recording trains — noting locomotive numbers."
 category: everyday-concepts
 tags: ["train spotting", "railfan", "trains", "hobby", "transportation", "railways"]
 heroImage: "/images/articles/train-spotting-hero.webp"

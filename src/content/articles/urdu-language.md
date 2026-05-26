@@ -1,7 +1,7 @@
 ---
 title: "What Is Urdu Language?"
 slug: urdu-language
-description: "Urdu is an Indo-Aryan language and Pakistan's national language. Learn about its history, script, relationship to Hindi, and cultural significance. Discover ..."
+description: "Urdu is an Indo-Aryan language that serves as Pakistan's national language and is one of India's 22 scheduled languages."
 category: language
 tags: ["urdu language", "linguistics", "Pakistan", "Indo-Aryan", "Nastaliq script", "South Asian languages"]
 heroImage: "/images/articles/urdu-language-hero.webp"

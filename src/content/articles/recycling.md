@@ -1,7 +1,7 @@
 ---
 title: "What Is Recycling?"
 slug: recycling
-description: "Recycling converts waste materials into new products, reducing landfill use and conserving resources. Learn how it works and what's recyclable. Discover the ..."
+description: "Recycling is the process of collecting waste materials and converting them into new products instead of discarding them in landfills or incinerators."
 category: everyday-concepts
 tags: ["recycling", "environment", "waste management", "sustainability", "conservation", "materials"]
 heroImage: "/images/articles/recycling-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Recycling?
 
-Recycling is the process of collecting [waste](/waste-management) materials and converting them into new products instead of discarding them in landfills or incinerators. Aluminum cans become new cans. Old newspapers become cardboard. Glass bottles become new glass bottles. The basic idea is simple and appealing: instead of extracting virgin resources from the earth, reuse what we've already extracted. The reality is more complicated than the idea, but the [environmental](/environmental-engineering) benefits — when recycling works — are genuine and significant.
+Recycling is the process of collecting [waste](/waste-management) materials and converting them into new products instead of discarding them in landfills or incinerators. Aluminum cans become new cans. Old newspapers become cardboard.
+
+Glass bottles become new glass bottles. The basic idea is simple and appealing: instead of extracting virgin resources from the earth, reuse what we've already extracted. The reality is more complicated than the idea, but the [environmental](/environmental-engineering) benefits — when recycling works — are genuine and significant.
 
 ## How It Works
 

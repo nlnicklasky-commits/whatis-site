@@ -1,7 +1,7 @@
 ---
 title: "What Is Computer Hardware?"
 slug: computer-hardware
-description: "Computer hardware includes all the physical components of a computer system — CPUs, memory, storage, motherboards, and peripherals that process data. Discove..."
+description: "Computer hardware refers to the physical components of a computer system — the tangible parts you can touch."
 category: technology
 tags: ["computing", "hardware", "electronics", "computer components", "it", "cpu", "memory"]
 heroImage: "/images/articles/computer-hardware-hero.webp"

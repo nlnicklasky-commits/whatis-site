@@ -1,7 +1,7 @@
 ---
 title: "What Is Hydrogeology?"
 slug: hydrogeology
-description: "Hydrogeology studies groundwater — how it moves, where it collects, and why it matters. Learn about aquifers, wells, contamination, and water supply. Discove..."
+description: "Hydrogeology is the branch of geology that studies groundwater — how water moves through soil and rock beneath the Earth's surface."
 category: science
 tags: ["hydrogeology", "groundwater", "hydrology", "geology", "water resources", "aquifers", "water quality"]
 heroImage: "/images/articles/hydrogeology-hero.webp"

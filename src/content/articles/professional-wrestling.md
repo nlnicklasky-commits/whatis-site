@@ -1,7 +1,7 @@
 ---
 title: "What Is Professional Wrestling?"
 slug: professional-wrestling
-description: "Professional wrestling combines athletic performance with scripted storytelling. Learn how it works, its history, and why millions watch. Discover the key fa..."
+description: "Professional wrestling is a form of live performance that combines athletic competition with theatrical storytelling."
 category: arts-amp-culture
 tags: ["professional wrestling", "wwe", "wrestling", "sports entertainment", "lucha libre", "njpw"]
 heroImage: "/images/articles/professional-wrestling-hero.webp"

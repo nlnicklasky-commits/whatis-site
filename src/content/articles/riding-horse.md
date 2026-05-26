@@ -1,7 +1,7 @@
 ---
 title: "What Is Riding (Horse)?"
 slug: riding-horse
-description: "Horse riding is the skill of sitting on and controlling a horse. Learn about riding styles, equipment, and what beginners should know. Discover the key facts..."
+description: "Horse riding — also called horseback riding or equestrianism — is the practice of sitting on and directing the movement of a horse."
 category: sports
 tags: ["riding horse", "equestrian", "horseback riding", "dressage", "jumping", "horses"]
 heroImage: "/images/articles/riding-horse-hero.webp"

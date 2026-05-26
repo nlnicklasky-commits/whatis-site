@@ -1,7 +1,7 @@
 ---
 title: "What Is Lexicography?"
 slug: lexicography
-description: "Lexicography is the practice of compiling, editing, and publishing dictionaries. Learn about methods, history, and how modern dictionaries are made. Discover..."
+description: "Lexicography is the craft and science of making dictionaries."
 category: language
 tags: ["lexicography", "dictionaries", "linguistics", "language", "etymology", "words"]
 heroImage: "/images/articles/lexicography-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Lexicography?
 
-Lexicography is the craft and science of making dictionaries. That might sound straightforward — you collect words, write definitions, put them in alphabetical order, done. But anyone who's actually attempted it knows better. Samuel Johnson, who compiled the first major English dictionary in 1755, described the lexicographer as "a harmless drudge." Seven decades later, Noah Webster spent 26 years on his American dictionary. The Oxford English Dictionary took 70 years for its first complete edition.
+Lexicography is the craft and science of making dictionaries. That might sound straightforward — you collect words, write definitions, put them in alphabetical order, done. But anyone who's actually attempted it knows better.
+
+Samuel Johnson, who compiled the first major English dictionary in 1755, described the lexicographer as "a harmless drudge." Seven decades later, Noah Webster spent 26 years on his American dictionary. The Oxford English Dictionary took 70 years for its first complete edition.
 
 Making a dictionary is a massive, painstaking, endlessly debatable undertaking. And it's far more interesting than most people realize.
 

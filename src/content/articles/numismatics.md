@@ -1,7 +1,7 @@
 ---
 title: "What Is Numismatics?"
 slug: numismatics
-description: "Numismatics is the study and collection of coins, paper currency, and medals. Learn about coin grading, rare coins, and monetary history. Discover the key fa..."
+description: "Numismatics is the systematic study and collection of coins, paper currency, tokens, medals, and related objects."
 category: arts-amp-culture
 tags: ["numismatics", "coins", "currency", "money", "coin collecting", "economic history"]
 heroImage: "/images/articles/numismatics-hero.webp"

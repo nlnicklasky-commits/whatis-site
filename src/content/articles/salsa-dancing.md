@@ -1,7 +1,7 @@
 ---
 title: "What Is Salsa Dancing?"
 slug: salsa-dancing
-description: "Salsa dancing is a partner dance originating from Cuban and Puerto Rican music traditions. Learn about styles, basic steps, and the global scene. Discover th..."
+description: "Salsa dancing is a partner dance performed to salsa music — a genre rooted in Cuban son, Puerto Rican bomba and plena, jazz."
 category: everyday-concepts
 tags: ["salsa dancing", "dance", "Latin dance", "partner dance", "music", "rhythm"]
 heroImage: "/images/articles/salsa-dancing-hero.webp"

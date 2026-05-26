@@ -1,7 +1,7 @@
 ---
 title: "What Is Sufism?"
 slug: sufism
-description: "Sufism is the mystical tradition within Islam focused on direct personal experience of God through devotion, meditation, and spiritual purification. Discover..."
+description: "Sufism (Arabic: tasawwuf) is the mystical and ascetic tradition within Islam that seeks direct, personal experience of God through practices of devotion."
 category: philosophy
 tags: ["religion", "sufism", "islam", "mysticism", "spirituality", "meditation"]
 heroImage: "/images/articles/sufism-hero.webp"

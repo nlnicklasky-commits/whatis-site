@@ -1,7 +1,7 @@
 ---
 title: "What Is Ceramics?"
 slug: ceramics
-description: "Ceramics is the art and science of making objects from clay and other earthy materials by shaping and firing them at high temperatures. Discover the key fact..."
+description: "Ceramics is the art and science of creating objects by shaping clay (or other earthy materials) and hardening them permanently through high-temperature."
 category: arts-amp-culture
 tags: ["ceramics", "pottery", "clay", "art", "crafts", "sculpture"]
 heroImage: "/images/articles/ceramics-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Strength Training?"
 slug: strength-training
-description: "Strength training builds muscle and bone density through resistance exercises. Learn about types, benefits, proper form, and how to start a program. Discover..."
+description: "Strength training is any form of exercise where you work your muscles against resistance — gravity, weights, bands, or even your own body weight."
 category: health-amp-wellness
 tags: ["fitness", "strength training", "exercise", "muscle building"]
 heroImage: "/images/articles/strength-training-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Backgammon?"
 slug: backgammon
-description: "Backgammon is a two-player board game combining strategy and luck, where players race to move 15 checkers off the board based on dice rolls. Discover the key..."
+description: "Backgammon is a two-player board game in which each player moves 15 checkers across 24 triangular points according to dice rolls."
 category: everyday-concepts
 tags: ["backgammon", "board games", "strategy games", "dice games", "classic games", "tabletop"]
 heroImage: "/images/articles/backgammon-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Crochet?"
 slug: crochet
-description: "Crochet is a fiber craft using a hooked needle to create fabric from yarn. Learn about basic stitches, patterns, history, and getting started. Discover the k..."
+description: "Crochet is a fiber craft that uses a single hooked needle to interloop yarn or thread into fabric, one stitch at a time."
 category: everyday-concepts
 tags: ["crochet", "everyday-concepts"]
 heroImage: "/images/articles/crochet-hero.webp"

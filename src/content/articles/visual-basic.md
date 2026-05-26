@@ -9,8 +9,8 @@ heroAlt: "Visual Basic is a programming language from Microsoft that made Window
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 9
-wordCount: 2357
+readingTime: 14
+wordCount: 3104
 tier: '1'
 relatedArticles: ["c-programming", "programming-languages", "app-development", "algorithms", "data-structures"]
 externalSources:
@@ -147,6 +147,44 @@ Several concepts that Visual Basic pioneered or popularized are now standard acr
 **IntelliSense (autocomplete).** VB popularized the dropdown list of available properties and methods that appears as you type. This feature is now so standard that programming without it feels primitive. The [algorithms](/algorithms) behind modern autocomplete have evolved far beyond VB's original implementation, but the concept traces directly back.
 
 **Component-based development.** VB's ecosystem of third-party controls — grids, charts, menus, calendars — established the model of building applications by assembling pre-built components. This philosophy lives on in npm packages, NuGet libraries, Python packages, and every modern component ecosystem.
+
+## What Writing Visual Basic Actually Felt Like
+
+Reading about VB doesn't capture why people loved it. The experience was the selling point.
+
+You'd open the IDE to a blank form — a gray rectangle representing your future window. On the left sat the toolbox: buttons, text boxes, labels, list boxes, grids. You dragged a button onto the form, and it just appeared, sized and positioned exactly where you dropped it. Double-click that button and the code window opened with the skeleton already written for you:
+
+```vb
+Private Sub Command1_Click()
+    MsgBox "Hello, World!"
+End Sub
+```
+
+That's a complete, working program. Hit F5, your window appeared, you clicked the button, and a dialog box popped up. No compiler flags, no makefiles, no header files, no linking. Seconds from idea to running app. For anyone who'd fought with C and the Windows API, this felt like magic.
+
+The tight feedback loop was the real innovation. You could pause a running program mid-execution, hover over a variable to see its value, change a line of code, and keep running without restarting. That "edit and continue" debugging spoiled a generation of programmers — and it took other ecosystems years to match it.
+
+## Where Visual Basic Actually Got Used
+
+The abstract claim that VB "built business apps" undersells how deeply it embedded itself in real organizations. A few concrete examples:
+
+Internal line-of-business tools were VB's home turf — order entry systems, inventory trackers, scheduling apps, and custom front-ends sitting on top of a Microsoft Access or SQL Server database. A mid-sized distributor might have a dozen small VB6 programs holding the company together, each written by one person who's since retired.
+
+Point-of-sale and kiosk software ran on VB for years. So did a startling amount of medical, laboratory, and manufacturing equipment software — instruments shipped with VB6 control panels because it was the fastest way to wire up a user interface to hardware. Some of that gear is still in service, which is part of why the VB6 runtime stubbornly survives.
+
+And then there's the spreadsheet empire. Walk into almost any bank, insurer, or accounting department and you'll find Excel workbooks with thousands of lines of VBA quietly running pricing models, reconciliations, and reports. These aren't relics — many are mission-critical, and replacing them with "proper" software keeps getting deferred because the VBA version works.
+
+## Can You Still Learn Visual Basic Today?
+
+You can, and for specific reasons it's still worth it — just be clear-eyed about which version.
+
+Learning **VBA** is genuinely useful right now. If your job involves Excel, knowing how to record a macro and then read and edit the generated VBA is a real productivity skill. You don't need to become a programmer; you just need enough to automate the boring parts. The macro recorder is still the best on-ramp ever built for non-programmers — it writes the code for you, and you learn by tweaking it.
+
+Learning **VB.NET** as your first language is reasonable but no longer the obvious choice. Its English-like syntax is still friendlier than most, and everything you learn about variables, loops, and [data structures](/data-structures) transfers directly to other languages. But the broader industry has moved to C#, Python, and JavaScript, so most people learning to code today are better served starting there. If you specifically want to maintain existing .NET business apps, VB.NET still makes sense.
+
+Learning **classic VB6** as a beginner makes little sense in 2025 — the tooling is ancient and the skills don't transfer cleanly. The exception is if you've inherited a VB6 system you have to keep alive, in which case learning just enough to read it is a defensible, if unglamorous, investment.
+
+Whichever version you pick, the underlying concepts carry over. Variables, conditionals, loops, functions, and event handlers work the same way in VB as they do in Python or C#. The syntax differs, but the mental model — break a problem into steps, store data, react to input — is universal. Plenty of working developers will tell you their first taste of "I made the computer do something" came from dragging a button onto a VB form, and that spark is hard to manufacture in a harder language. If your goal is simply to find out whether programming clicks for you, VB's gentle on-ramp still has something to offer, even decades after its heyday.
 
 ## The Current State
 

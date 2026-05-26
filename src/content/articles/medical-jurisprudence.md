@@ -1,7 +1,7 @@
 ---
 title: "What Is Medical Jurisprudence?"
 slug: medical-jurisprudence
-description: "Medical jurisprudence applies medical knowledge to legal questions. Learn how forensic medicine, malpractice law, and ethics intersect in courts. Discover th..."
+description: "Medical jurisprudence is the branch of knowledge where medicine and law intersect."
 category: law
 tags: ["medicine", "law", "forensic medicine"]
 heroImage: "/images/articles/medical-jurisprudence-hero.webp"

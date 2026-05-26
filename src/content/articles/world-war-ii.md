@@ -1,7 +1,7 @@
 ---
 title: "What Is World War II?"
 slug: world-war-ii
-description: "World War II (1939-1945) was the deadliest conflict in human history. Learn about its causes, key battles, the Holocaust, and lasting effects. Discover the k..."
+description: "World War II (1939–1945) was the largest and deadliest armed conflict in human history."
 category: history
 tags: ["wwii", "second world war", "global conflict", "military history"]
 heroImage: "/images/articles/world-war-ii-hero.webp"

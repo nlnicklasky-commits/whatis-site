@@ -1,7 +1,7 @@
 ---
 title: "What Is Digital Logic?"
 slug: digital-logic
-description: "Digital logic is the foundation of computing, using binary signals and logic gates to process information. Learn how ones and zeros run the world. Discover t..."
+description: "Digital logic is the system of rules and circuits that processes information using binary signals — ones and zeros, on and off, true and false."
 category: everyday-concepts
 tags: ["digital logic", "everyday-concepts"]
 heroImage: "/images/articles/digital-logic-hero.webp"

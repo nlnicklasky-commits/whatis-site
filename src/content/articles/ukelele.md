@@ -1,7 +1,7 @@
 ---
 title: "What Is Ukelele?"
 slug: ukelele
-description: "The ukulele is a small, four-stringed instrument from Hawaii. Learn about its types, tuning, playing techniques, history, and how to get started. Discover th..."
+description: "The ukulele is a small, four-stringed instrument that originated in Hawaii in the 1880s, adapted from a Portuguese instrument called the machete de braga."
 category: arts-amp-culture
 tags: ["ukelele", "ukulele", "string instruments", "Hawaii", "music", "acoustic"]
 heroImage: "/images/articles/ukelele-hero.webp"

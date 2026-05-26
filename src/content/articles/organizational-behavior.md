@@ -1,7 +1,7 @@
 ---
 title: "What Is Organizational Behavior?"
 slug: organizational-behavior
-description: "Organizational behavior studies how people act in workplaces and why. Learn about motivation, leadership, team dynamics, and corporate culture. Discover the ..."
+description: "Organizational behavior (OB) is the academic study of how people behave within organizations — how individuals act, how groups function."
 category: everyday-concepts
 tags: ["organizational behavior", "ob", "workplace psychology", "human resources", "leadership", "team dynamics"]
 heroImage: "/images/articles/organizational-behavior-hero.webp"

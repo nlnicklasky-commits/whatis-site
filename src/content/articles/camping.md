@@ -1,7 +1,7 @@
 ---
 title: "What Is Camping?"
 slug: camping
-description: "Camping is the outdoor recreational activity of staying overnight in temporary shelters like tents, RVs, or hammocks, typically in natural settings. Discover..."
+description: "Camping is the recreational practice of staying overnight outdoors, typically in natural settings, using temporary shelter like tents, recreational vehicles."
 category: sports
 tags: ["camping", "outdoor recreation", "nature", "tenting", "wilderness", "adventure"]
 heroImage: "/images/articles/camping-hero.webp"

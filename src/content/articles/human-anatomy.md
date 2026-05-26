@@ -1,7 +1,7 @@
 ---
 title: "What Is Human Anatomy?"
 slug: human-anatomy
-description: "Human anatomy is the study of the body's structures. Explore its organ systems, history, modern imaging methods, and why anatomy still matters today. Discove..."
+description: "Human anatomy is the scientific study of the body's physical structures — from the macroscopic arrangement of organs and bones down to the microscopic."
 category: science
 tags: ["human anatomy", "anatomy", "human body", "medicine", "biology", "health science", "physiology"]
 heroImage: "/images/articles/human-anatomy-hero.webp"

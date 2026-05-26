@@ -31,7 +31,9 @@ faq:
 
 # What Is a Harmonica?
 
-A harmonica is a small, rectangular wind instrument played by blowing air into and [drawing](/drawing) air out of holes, each containing one or more metal reeds that vibrate to produce sound. It fits in your pocket, costs less than a decent meal, requires no [electricity](/electricity), and has been central to some of the most emotionally powerful music ever recorded. Little Walter's amplified harmonica on Chicago blues records. Stevie Wonder's chromatic harmonica on "Isn't She Lovely." Bob Dylan's harmonica rack on every folk song he ever performed. For an instrument that's basically a metal comb with reeds, the harmonica has had an outsized impact on popular music.
+A harmonica is a small, rectangular wind instrument played by blowing air into and [drawing](/drawing) air out of holes, each containing one or more metal reeds that vibrate to produce sound. It fits in your pocket, costs less than a decent meal, requires no [electricity](/electricity), and has been central to some of the most emotionally powerful music ever recorded. Little Walter's amplified harmonica on Chicago blues records.
+
+Stevie Wonder's chromatic harmonica on "Isn't She Lovely." Bob Dylan's harmonica rack on every folk song he ever performed. For an instrument that's basically a metal comb with reeds, the harmonica has had an outsized impact on popular music.
 
 ## How It Works
 

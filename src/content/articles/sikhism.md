@@ -1,7 +1,7 @@
 ---
 title: "What Is Sikhism?"
 slug: sikhism
-description: "Sikhism is a monotheistic religion founded in 15th-century Punjab that emphasizes equality, selfless service, honest living, and devotion to one God. Discove..."
+description: "Sikhism is a monotheistic religion founded in the Punjab region of South Asia by Guru Nanak Dev Ji in the late 15th century (1469-1539 CE)."
 category: philosophy
 tags: ["sikhism", "religion", "guru nanak", "punjab", "monotheism", "equality", "spirituality"]
 heroImage: "/images/articles/sikhism-hero.webp"

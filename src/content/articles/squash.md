@@ -1,7 +1,7 @@
 ---
 title: "What Is Squash?"
 slug: squash
-description: "Squash is a fast-paced racquet sport played in a four-walled court. Learn about rules, equipment, fitness benefits, and the sport's Olympic debut. Discover t..."
+description: "Squash is a racquet sport played by two players (or four in doubles) in a four-walled indoor court, hitting a small rubber ball against the front wall."
 category: sports
 tags: ["squash", "racquet sports", "fitness", "court sports", "Olympics", "exercise"]
 heroImage: "/images/articles/squash-hero.webp"

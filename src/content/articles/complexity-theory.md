@@ -1,7 +1,7 @@
 ---
 title: "What Is Complexity Theory?"
 slug: complexity-theory
-description: "Complexity theory studies how large systems of interacting parts produce emergent behavior that cannot be predicted from individual components alone. Discove..."
+description: "Complexity theory is the interdisciplinary study of how systems composed of many interacting components produce collective behaviors, patterns."
 category: science
 tags: ["complexity theory", "complex systems", "emergence", "self-organization", "chaos theory", "interdisciplinary", "science"]
 heroImage: "/images/articles/complexity-theory-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Board Games?"
 slug: board-games
-description: "Board games are tabletop games played on a marked surface with pieces, cards, or dice, ranging from ancient classics to modern strategy games. Discover the k..."
+description: "Board games are structured games played on a flat surface (a board) using pieces, cards, dice, or other components according to defined rules."
 category: everyday-concepts
 tags: ["board games", "tabletop games", "strategy", "games", "entertainment", "family games"]
 heroImage: "/images/articles/board-games-hero.webp"

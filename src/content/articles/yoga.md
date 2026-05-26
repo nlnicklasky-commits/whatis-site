@@ -1,7 +1,7 @@
 ---
 title: "What Is Yoga?"
 slug: yoga
-description: "Yoga is an ancient practice combining physical postures, breathing, and meditation. Learn about its origins, styles, benefits, and how to start. Discover the..."
+description: "Yoga is a mind-body practice that originated in ancient India and combines physical postures (asanas), controlled breathing (pranayama)."
 category: health-amp-wellness
 tags: ["mindfulness", "meditation", "fitness", "spirituality", "wellness"]
 heroImage: "/images/articles/yoga-hero.webp"

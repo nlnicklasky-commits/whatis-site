@@ -1,7 +1,7 @@
 ---
 title: "What Is Neuroeconomics?"
 slug: neuroeconomics
-description: "Neuroeconomics combines neuroscience, economics, and psychology to study how the brain makes decisions about risk, reward, and value. Discover the key facts,..."
+description: "Neuroeconomics is an interdisciplinary field that combines neuroscience, economics, and psychology to understand how people make decisions."
 category: science
 tags: ["neuroeconomics", "decision making", "neuroscience", "economics", "psychology", "brain", "behavioral economics"]
 heroImage: "/images/articles/neuroeconomics-hero.webp"

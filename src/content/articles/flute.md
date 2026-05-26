@@ -1,7 +1,7 @@
 ---
 title: "What Is Flute?"
 slug: flute
-description: "The flute is a woodwind instrument producing sound through airflow across an opening. Learn about its types, history, technique, and role in music. Discover ..."
+description: "The flute is a woodwind instrument that produces sound when the player directs a stream of air across an opening."
 category: arts-amp-culture
 tags: ["musical instrument", "woodwind", "orchestra", "music", "classical music", "jazz"]
 heroImage: "/images/articles/flute-hero.webp"

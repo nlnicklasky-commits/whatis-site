@@ -1,7 +1,7 @@
 ---
 title: "What Is Secret Societies?"
 slug: secret-societies
-description: "Secret societies are organizations with hidden membership, rituals, and goals that have influenced politics, religion, and culture for centuries. Discover th..."
+description: "A secret society is an organization that conceals some or all of its membership, rituals, internal practices, or goals from outsiders."
 category: history
 tags: ["secret society", "freemasonry", "fraternal order", "conspiracy"]
 heroImage: "/images/articles/secret-societies-hero.webp"

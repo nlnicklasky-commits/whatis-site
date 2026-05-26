@@ -1,7 +1,7 @@
 ---
 title: "What Is Public Relations?"
 slug: public-relations
-description: "Public relations manages how organizations communicate with the public to build reputation and trust. Learn how PR actually works. Discover the key facts, hi..."
+description: "Public relations is the strategic management) of communication between an organization and the public."
 category: everyday-concepts
 tags: ["public relations", "pr", "media relations", "communication", "reputation management", "crisis communication"]
 heroImage: "/images/articles/public-relations-hero.webp"

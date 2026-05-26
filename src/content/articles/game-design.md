@@ -1,7 +1,7 @@
 ---
 title: "What Is Game Design?"
 slug: game-design
-description: "Game design is the process of creating rules, mechanics, and experiences for games. Learn about design principles, careers, and the game industry. Discover t..."
+description: "Game design is the process of creating the rules, systems, narratives, and interactive experiences that make a game a game."
 category: everyday-concepts
 tags: ["game design", "video games", "board games", "interactive design", "game mechanics", "entertainment"]
 heroImage: "/images/articles/game-design-hero.webp"

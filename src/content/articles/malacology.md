@@ -1,7 +1,7 @@
 ---
 title: "What Is Malacology?"
 slug: malacology
-description: "Malacology is the study of mollusks like snails, clams, and octopuses. Learn about mollusk biology, classification, ecology, and why they matter. Discover th..."
+description: "Malacology is the branch of zoology dedicated to the study of mollusks — the extraordinarily diverse phylum Mollusca that includes snails, slugs, clams."
 category: science
 tags: ["malacology", "mollusks", "biology", "zoology", "shells", "marine biology", "invertebrates"]
 heroImage: "/images/articles/malacology-hero.webp"

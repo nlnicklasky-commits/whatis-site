@@ -1,7 +1,7 @@
 ---
 title: "What Is Neural Networks?"
 slug: neural-networks
-description: "Neural networks are computing systems inspired by the human brain that learn from data. Learn how they work, their types, and real-world uses. Discover the k..."
+description: "A neural network is a computing system loosely inspired by the structure of biological brains."
 category: everyday-concepts
 tags: ["neural networks", "machine learning", "artificial intelligence", "deep learning", "data science", "algorithms"]
 heroImage: "/images/articles/neural-networks-hero.webp"

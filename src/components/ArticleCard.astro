@@ -27,6 +27,7 @@ const displayCategory = categoryMap[data.category] || data.category.replace(/-/g
 <a href={`/${data.slug || article.slug}`} class="group block bg-white rounded-lg border border-gray-100 overflow-hidden hover:shadow-md transition-shadow">
   <img
     src={data.heroImage}
+    srcset={`${data.heroImage.replace('.webp', '-400.webp')} 400w, ${data.heroImage.replace('.webp', '-800.webp')} 800w, ${data.heroImage} 1344w`}
     alt={data.heroAlt}
     width="400"
     height="225"
@@ -34,7 +35,7 @@ const displayCategory = categoryMap[data.category] || data.category.replace(/-/g
     loading="lazy"
     decoding="async"
     sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-    onerror="this.onerror=null;this.src='/images/articles/placeholder.svg'"
+    onerror="this.onerror=null;this.removeAttribute('srcset');this.src='/images/articles/placeholder.svg'"
   />
   <div class="p-4">
     <div class="flex items-center gap-2 mb-2 text-xs text-gray-500">

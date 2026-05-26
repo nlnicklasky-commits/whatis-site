@@ -1,7 +1,7 @@
 ---
 title: "What Is Medicinal Chemistry?"
 slug: medicinal-chemistry
-description: "Medicinal chemistry designs and optimizes drug molecules for treating disease. Learn about drug discovery, SAR, pharmacology, and career paths. Discover the ..."
+description: "Medicinal chemistry is the science of designing, synthesizing, and developing chemical compounds for use as pharmaceutical drugs."
 category: science
 tags: ["medicinal chemistry", "drug design", "pharmacology", "chemistry", "pharmaceuticals", "molecular biology", "drug discovery"]
 heroImage: "/images/articles/medicinal-chemistry-hero.webp"

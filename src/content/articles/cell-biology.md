@@ -1,7 +1,7 @@
 ---
 title: "What Is Cell Biology?"
 slug: cell-biology
-description: "Cell biology studies the structure, function, and behavior of cells — the fundamental units of life that make up every living organism on Earth. Discover the..."
+description: "Cell biology is the scientific discipline that studies cells — the basic structural, functional, and biological units of all known living organisms."
 category: science
 tags: ["cell biology", "biology", "cells", "molecular biology", "organelles", "genetics", "biochemistry"]
 heroImage: "/images/articles/cell-biology-hero.webp"

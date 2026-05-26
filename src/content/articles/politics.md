@@ -1,7 +1,7 @@
 ---
 title: "What Is Politics?"
 slug: politics
-description: "Politics is the process of making collective decisions, distributing power, and governing societies. Here's how it actually works. Discover the key facts, hi..."
+description: "Politics is the process by which groups of people make decisions, resolve conflicts, allocate resources."
 category: everyday-concepts
 tags: ["government", "power", "decision-making", "society", "elections", "policy"]
 heroImage: "/images/articles/politics-hero.webp"

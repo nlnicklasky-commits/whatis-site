@@ -1,7 +1,7 @@
 ---
 title: "What Is Roman Mythology?"
 slug: roman-mythology
-description: "Roman mythology is the collection of myths, gods, and legends from ancient Rome that shaped religion, culture, and Western storytelling traditions. Discover ..."
+description: "Roman mythology is the body of myths, legends, and religious beliefs from ancient Rome — stories about gods, heroes."
 category: history
 tags: ["roman gods", "roman legends", "ancient rome", "mythology"]
 heroImage: "/images/articles/roman-mythology-hero.webp"

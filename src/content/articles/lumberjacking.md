@@ -1,7 +1,7 @@
 ---
 title: "What Is Lumberjacking?"
 slug: lumberjacking
-description: "Lumberjacking is the trade of felling, processing, and transporting timber. Learn about its history, modern methods, safety, and competitive events. Discover..."
+description: "Lumberjacking — more formally called logging — is the work of cutting down trees, processing them into logs."
 category: everyday-concepts
 tags: ["lumberjacking", "forestry", "timber", "logging", "woodcutting", "outdoor work"]
 heroImage: "/images/articles/lumberjacking-hero.webp"

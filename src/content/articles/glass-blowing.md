@@ -1,7 +1,7 @@
 ---
 title: "What Is Glass Blowing?"
 slug: glass-blowing
-description: "Glass blowing shapes molten glass into art and functional objects using air and tools. Learn about techniques, history, and modern glass art. Discover the ke..."
+description: "Glass blowing is the technique of shaping molten glass by inflating it with air through a hollow metal pipe (blowpipe)."
 category: arts-amp-culture
 tags: ["glass blowing", "glass art", "craft", "artisan", "molten glass", "glassware"]
 heroImage: "/images/articles/glass-blowing-hero.webp"

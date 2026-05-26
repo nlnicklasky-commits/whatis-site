@@ -1,7 +1,7 @@
 ---
 title: "What Is Miniature Painting?"
 slug: miniature-painting
-description: "Miniature painting is the art of painting small-scale figures and models with fine detail. Learn about techniques, supplies, and this growing hobby. Discover..."
+description: "Miniature painting is the art of applying paint to small-scale figures — typically 25-35mm tall — to bring them to life with color, shading, and fine detail."
 category: arts-amp-culture
 tags: ["miniature painting", "tabletop gaming", "model painting", "art", "hobby", "Warhammer"]
 heroImage: "/images/articles/miniature-painting-hero.webp"

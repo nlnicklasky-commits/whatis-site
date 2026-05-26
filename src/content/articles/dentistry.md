@@ -1,7 +1,7 @@
 ---
 title: "What Is Dentistry?"
 slug: dentistry
-description: "Dentistry is the branch of medicine focused on diagnosing, treating, and preventing diseases and conditions of the teeth, gums, jaw, and mouth. Discover the ..."
+description: "Dentistry is the branch of medicine dedicated to the study, diagnosis, treatment, and prevention of diseases and conditions affecting the teeth, gums, jaw."
 category: health-amp-wellness
 tags: ["dentistry", "oral health", "dental care", "teeth", "medicine"]
 heroImage: "/images/articles/dentistry-hero.webp"

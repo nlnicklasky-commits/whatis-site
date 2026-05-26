@@ -1,7 +1,7 @@
 ---
 title: "What Is United Nations History?"
 slug: united-nations-history
-description: "United Nations history traces the founding and evolution of the UN, from its 1945 creation to its role in peacekeeping and international cooperation. Discove..."
+description: "The United Nations is an international organization created after World War II with one overriding goal: to stop countries from doing to each other what."
 category: history
 tags: ["united nations history", "un", "international relations", "peacekeeping"]
 heroImage: "/images/articles/united-nations-history-hero.webp"

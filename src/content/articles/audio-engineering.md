@@ -1,7 +1,7 @@
 ---
 title: "What Is Audio Engineering?"
 slug: audio-engineering
-description: "Audio engineering is the technical practice of recording, mixing, and reproducing sound. Learn about equipment, techniques, and career paths. Discover the ke..."
+description: "Audio engineering is the technical practice and applied science of recording, manipulating, mixing, and reproducing sound."
 category: technology
 tags: ["audio engineering", "sound engineering", "music production", "recording", "mixing", "mastering", "acoustics"]
 heroImage: "/images/articles/audio-engineering-hero.webp"

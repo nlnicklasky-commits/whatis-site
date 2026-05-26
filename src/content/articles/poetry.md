@@ -1,7 +1,7 @@
 ---
 title: "What Is Poetry?"
 slug: poetry
-description: "Poetry is a literary form that uses rhythm, imagery, and condensed language to express ideas and emotions. Here's what makes it different from prose. Discove..."
+description: "Poetry is a form of literary expression that uses concentrated language, rhythm, sound, and imagery to convey meaning and emotion."
 category: arts-amp-culture
 tags: ["literature", "writing", "verse", "rhyme", "rhythm", "expression"]
 heroImage: "/images/articles/poetry-hero.webp"

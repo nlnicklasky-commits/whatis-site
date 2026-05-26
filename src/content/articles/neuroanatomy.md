@@ -1,7 +1,7 @@
 ---
 title: "What Is Neuroanatomy?"
 slug: neuroanatomy
-description: "Neuroanatomy studies the structure of the nervous system, from brain regions and spinal cord pathways to individual neurons and their connections. Discover t..."
+description: "Neuroanatomy is the branch of anatomy devoted to studying the structure of the nervous system."
 category: science
 tags: ["neuroanatomy", "nervous system", "brain", "spinal cord", "neurons", "anatomy", "neuroscience"]
 heroImage: "/images/articles/neuroanatomy-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Landscape Painting?"
 slug: landscape-painting
-description: "Landscape painting is the art of depicting natural scenery on canvas. Learn about its history from Chinese masters to the Impressionists and beyond. Discover..."
+description: "Field painting is the genre of visual art dedicated to depicting natural scenery — mountains, rivers, forests, fields, skies, oceans."
 category: arts-amp-culture
 tags: ["landscape painting", "art history", "painting", "nature", "fine art", "plein air"]
 heroImage: "/images/articles/landscape-painting-hero.webp"

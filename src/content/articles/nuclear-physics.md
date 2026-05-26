@@ -1,7 +1,7 @@
 ---
 title: "What Is Nuclear Physics?"
 slug: nuclear-physics
-description: "Nuclear physics studies the atomic nucleus and the forces holding it together. Learn about fission, fusion, radioactivity, and nuclear energy. Discover the k..."
+description: "Nuclear physics is the branch of physics that studies the atomic nucleus — the tiny, dense core of an atom made up of protons and neutrons."
 category: everyday-concepts
 tags: ["nuclear physics", "atomic energy", "radioactivity", "fission", "fusion", "particle physics"]
 heroImage: "/images/articles/nuclear-physics-hero.webp"

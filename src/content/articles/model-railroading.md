@@ -1,7 +1,7 @@
 ---
 title: "What Is Model Railroading?"
 slug: model-railroading
-description: "Model railroading is the hobby of building and operating miniature train layouts. Learn about scales, track planning, scenery, and the community. Discover th..."
+description: "Model railroading is the hobby of building and operating miniature railroad systems."
 category: everyday-concepts
 tags: ["model railroading", "trains", "hobby", "miniatures", "model trains", "layouts"]
 heroImage: "/images/articles/model-railroading-hero.webp"

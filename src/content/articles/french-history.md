@@ -1,7 +1,7 @@
 ---
 title: "What Is French History?"
 slug: french-history
-description: "French history spans from ancient Gaul to modern republic, shaped by revolutions, empires, and cultural brilliance. Explore the key eras and events. Discover..."
+description: "French history is the story of one of Europe's most influential nations — a country that has experienced more dramatic political upheaval than almost any."
 category: everyday-concepts
 tags: ["french history", "France", "revolution", "Napoleon", "European history", "monarchy"]
 heroImage: "/images/articles/french-history-hero.webp"

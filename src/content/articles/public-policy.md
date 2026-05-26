@@ -1,7 +1,7 @@
 ---
 title: "What Is Public Policy?"
 slug: public-policy
-description: "Public policy is the set of government actions, laws, and regulations designed to address societal problems. Here's how the process works. Discover the key f..."
+description: "Public policy is what governments do (and choose not to do) about public problems."
 category: politics
 tags: ["public policy", "government", "policy making", "public administration", "law", "social issues"]
 heroImage: "/images/articles/public-policy-hero.webp"

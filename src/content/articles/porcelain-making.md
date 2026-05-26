@@ -1,7 +1,7 @@
 ---
 title: "What Is Porcelain Making?"
 slug: porcelain-making
-description: "Porcelain making is the craft of creating fine ceramic ware from kaolin clay fired at extreme temperatures. Here's how the process works. Discover the key fa..."
+description: "Porcelain is a type of ceramic made from kaolin clay, feldspar, and silica, fired at temperatures so high that the materials fuse into a hard, white."
 category: arts-amp-culture
 tags: ["porcelain", "ceramics", "pottery", "kaolin", "kiln", "glaze"]
 heroImage: "/images/articles/porcelain-making-hero.webp"

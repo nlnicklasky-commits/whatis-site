@@ -1,7 +1,7 @@
 ---
 title: "What Is Antiques Collecting?"
 slug: antiques-collecting
-description: "Antiques collecting is the hobby and business of acquiring objects over 100 years old for their historical, aesthetic, or monetary value. Discover the key fa..."
+description: "Antiques collecting is the practice of seeking out, acquiring, and preserving objects that are at least 100 years old, valued for their craftsmanship."
 category: everyday-concepts
 tags: ["antiques", "collecting", "collectibles", "vintage", "history", "appraisal"]
 heroImage: "/images/articles/antiques-collecting-hero.webp"

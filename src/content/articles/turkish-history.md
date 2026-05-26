@@ -1,7 +1,7 @@
 ---
 title: "What Is Turkish History?"
 slug: turkish-history
-description: "Turkish history spans from ancient Anatolian civilizations through the Ottoman Empire to the modern Republic of Turkey founded by Ataturk in 1923. Discover t..."
+description: "Turkish history covers the story of the land we now call Turkey — a stretch of territory bridging Europe and Asia that has been home to some of the oldest."
 category: history
 tags: ["turkish history", "turkey", "ottoman empire", "ataturk", "anatolia"]
 heroImage: "/images/articles/turkish-history-hero.webp"

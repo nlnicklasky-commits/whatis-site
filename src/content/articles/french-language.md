@@ -1,7 +1,7 @@
 ---
 title: "What Is the French Language?"
 slug: french-language
-description: "French is a Romance language spoken by 321 million people worldwide. Explore its history, grammar, global spread, and cultural significance. Discover the key..."
+description: "French is a Romance language descended from Vulgar Latin, spoken by approximately 321 million people across five continents."
 category: philosophy
 tags: ["french language", "linguistics", "romance languages", "france", "francophone", "language learning", "culture"]
 heroImage: "/images/articles/french-language-hero.webp"

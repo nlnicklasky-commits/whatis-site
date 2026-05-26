@@ -1,7 +1,7 @@
 ---
 title: "What Is Rock Climbing?"
 slug: rock-climbing
-description: "Rock climbing is the sport of ascending rock faces using physical skill and specialized gear. Learn about the types, grading, and how to start. Discover the ..."
+description: "Rock climbing is the sport of ascending natural rock formations or artificial climbing walls using your hands, feet, and body."
 category: sports
 tags: ["rock climbing", "bouldering", "sport climbing", "outdoor recreation", "fitness", "adventure"]
 heroImage: "/images/articles/rock-climbing-hero.webp"

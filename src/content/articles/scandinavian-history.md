@@ -1,7 +1,7 @@
 ---
 title: "What Is Scandinavian History?"
 slug: scandinavian-history
-description: "Scandinavian history covers the shared past of Denmark, Norway, and Sweden from prehistoric times through the Viking Age to modern welfare states. Discover t..."
+description: "Scandinavian history is the shared story of Denmark, Norway, and Sweden — three nations whose fates have been intertwined for over 10,000 years through."
 category: history
 tags: ["scandinavia", "nordic history", "viking age", "denmark", "norway"]
 heroImage: "/images/articles/scandinavian-history-hero.webp"

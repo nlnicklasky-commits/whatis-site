@@ -1,7 +1,7 @@
 ---
 title: "What Is Typesetting?"
 slug: typesetting
-description: "Typesetting is the process of arranging text for printing or display. Learn about its history from movable type to digital layout tools. Discover the key fac..."
+description: "Typesetting is the process of arranging text — letter by letter, line by line, page by page — for printing or digital display."
 category: arts-amp-culture
 tags: ["typesetting", "printing", "typography", "publishing", "graphic design", "layout"]
 heroImage: "/images/articles/typesetting-hero.webp"

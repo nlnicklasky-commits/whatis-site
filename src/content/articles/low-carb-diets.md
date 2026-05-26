@@ -1,7 +1,7 @@
 ---
 title: "What Is Low-Carb Diets?"
 slug: low-carb-diets
-description: "Low-carb diets restrict carbohydrate intake to promote fat burning, weight loss, and improved blood sugar control. Discover the key facts, history, and why i..."
+description: "A low-carb diet is any eating pattern that restricts carbohydrate intake — typically to somewhere between 20 and 130 grams per day."
 category: health-amp-wellness
 tags: ["nutrition", "low-carb diets", "health", "weight loss", "metabolism"]
 heroImage: "/images/articles/low-carb-diets-hero.webp"

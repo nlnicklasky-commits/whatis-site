@@ -1,7 +1,7 @@
 ---
 title: "What Is Human Resources?"
 slug: human-resources
-description: "Human resources (HR) manages hiring, employee relations, benefits, and compliance in organizations. Learn what HR does and why it matters. Discover the key f..."
+description: "Human resources — universally abbreviated to HR — is the department within an organization that manages everything related to the people who work there."
 category: everyday-concepts
 tags: ["human resources", "hr", "employment", "recruitment", "talent management", "workplace"]
 heroImage: "/images/articles/human-resources-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Psycholinguistics?"
 slug: psycholinguistics
-description: "Psycholinguistics examines how your brain processes language, from understanding speech to learning new words, reading, and producing sentences. Discover the..."
+description: "Psycholinguistics is the study of how humans process, produce, and acquire language."
 category: science
 tags: ["psycholinguistics", "psychology", "linguistics", "language acquisition", "language comprehension", "speech production"]
 heroImage: "/images/articles/psycholinguistics-hero.webp"

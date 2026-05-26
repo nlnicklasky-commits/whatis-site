@@ -1,7 +1,7 @@
 ---
 title: "What Is Engineering History?"
 slug: engineering-history
-description: "Engineering history traces how humans have designed and built structures, machines, and systems from ancient aqueducts to modern microchips. Discover the key..."
+description: "Engineering history is the study of how humans have designed, built, and improved the structures, machines, and systems that shape civilization."
 category: history
 tags: ["engineering history", "engineering", "technology", "industrial revolution"]
 heroImage: "/images/articles/engineering-history-hero.webp"

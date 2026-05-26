@@ -31,7 +31,9 @@ faq:
 
 # What Is Metal Detecting?
 
-Metal detecting is the hobby of using an electronic device to locate metal objects buried underground. You sweep a coil-equipped device over the ground, it beeps or displays a signal when it senses metal beneath the surface, and you dig it up. The object might be a [coin](/coin-collecting) from 1823. It might also be a pull tab from a 1983 beer can. That uncertainty is part of the appeal.
+Metal detecting is the hobby of using an electronic device to locate metal objects buried underground. You sweep a coil-equipped device over the ground, it beeps or displays a signal when it senses metal beneath the surface, and you dig it up. The object might be a [coin](/coin-collecting) from 1823.
+
+It might also be a pull tab from a 1983 beer can. That uncertainty is part of the appeal.
 
 About 3-5 million people practice metal detecting as a hobby worldwide. Some do it for the thrill of finding historical artifacts. Some hope to find valuable coins or jewelry. Some just enjoy being outdoors with a purpose. And a few have made genuinely spectacular discoveries — the Staffordshire Hoard, the largest collection of Anglo-Saxon gold ever found (over 11 pounds of gold), was discovered by a metal detectorist in 2009.
 

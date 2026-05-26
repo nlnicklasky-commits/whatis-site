@@ -1,7 +1,7 @@
 ---
 title: "What Is Ocean Engineering?"
 slug: ocean-engineering
-description: "Ocean engineering designs structures and systems for the marine environment. Learn about offshore platforms, underwater robots, and coastal defense. Discover..."
+description: "Ocean engineering is the branch of engineering that designs, builds, and maintains structures, vehicles, instruments, and systems intended to operate in, on."
 category: technology
 tags: ["ocean engineering", "marine engineering", "offshore structures", "underwater robotics", "coastal engineering", "renewable energy"]
 heroImage: "/images/articles/ocean-engineering-hero.webp"

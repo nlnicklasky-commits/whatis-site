@@ -1,7 +1,7 @@
 ---
 title: "What Is Productivity?"
 slug: productivity
-description: "Productivity measures how efficiently you turn inputs into outputs. Learn what affects it, how to measure it, and how to improve it. Discover the key facts, ..."
+description: "Productivity is the ratio of output to input — how much you produce relative to the resources (time, labor, money, materials) you put in."
 category: everyday-concepts
 tags: ["productivity", "efficiency", "time management", "work ethic", "performance", "output"]
 heroImage: "/images/articles/productivity-hero.webp"

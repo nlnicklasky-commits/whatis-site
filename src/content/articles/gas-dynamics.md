@@ -1,7 +1,7 @@
 ---
 title: "What Is Gas Dynamics?"
 slug: gas-dynamics
-description: "Gas dynamics studies how gases behave when they move at high speeds. Learn about shock waves, supersonic flow, nozzles, and aerospace applications. Discover ..."
+description: "Gas dynamics — also called compressible flow or compressible fluid dynamics — is the branch of fluid mechanics that studies the motion of gases when density."
 category: science
 tags: ["gas dynamics", "fluid dynamics", "aerodynamics", "supersonic flow", "shock waves", "aerospace engineering", "thermodynamics"]
 heroImage: "/images/articles/gas-dynamics-hero.webp"

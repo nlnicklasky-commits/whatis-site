@@ -1,7 +1,7 @@
 ---
 title: "What Is Real Analysis?"
 slug: real-analysis
-description: "Real analysis is the rigorous mathematical study of real numbers, sequences, limits, and continuity. Learn why it matters for advanced math. Discover the key..."
+description: "Real analysis is the branch of mathematics that provides rigorous foundations for calculus and the study of real numbers."
 category: everyday-concepts
 tags: ["real analysis", "mathematics", "calculus", "limits", "continuity", "proofs"]
 heroImage: "/images/articles/real-analysis-hero.webp"

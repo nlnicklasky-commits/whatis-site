@@ -1,7 +1,7 @@
 ---
 title: "What Is Film Production?"
 slug: film-production
-description: "Film production is the process of making a movie, from initial concept to final distribution. Learn about the stages, roles, and costs of filmmaking. Discove..."
+description: "Film production is the entire process of creating a motion picture — from the initial idea through scripting, financing, filming, editing, and distribution."
 category: arts-amp-culture
 tags: ["film", "cinema", "movie making", "filmmaking", "production", "pre-production"]
 heroImage: "/images/articles/film-production-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Film Direction?"
 slug: film-direction
-description: "Film direction is the art of guiding a movie's creative vision, from script to screen. Learn what directors do, key techniques, and famous auteurs. Discover ..."
+description: "Film direction is the process of translating a screenplay into a finished motion picture by making the thousands of creative decisions that determine how."
 category: everyday-concepts
 tags: ["film direction", "filmmaking", "cinema", "directing", "movies", "storytelling"]
 heroImage: "/images/articles/film-direction-hero.webp"

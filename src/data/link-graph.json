@@ -311,6 +311,7 @@
       "human-physiology",
       "management",
       "massage-therapy",
+      "meditation",
       "nursing",
       "reflexology",
       "traditional-chinese-medicine"
@@ -10692,6 +10693,7 @@
       "programming-languages",
       "python-programming",
       "seo-search-engine-optimization",
+      "visual-basic",
       "web-development"
     ]
   },
@@ -10730,7 +10732,8 @@
       "numerical-analysis",
       "pattern-recognition",
       "pictography",
-      "scientific-method"
+      "scientific-method",
+      "web-analytics"
     ]
   },
   "database-administration": {
@@ -12353,6 +12356,7 @@
       "physics",
       "planetary-science",
       "plate-tectonics",
+      "seismology",
       "solar-physics",
       "tectonics",
       "volcanology"
@@ -12486,12 +12490,14 @@
       "tree-climbing",
       "tropical-agriculture",
       "tropical-ecology",
+      "virology",
       "wetland-ecology",
       "wildlife-biology",
       "wildlife-conservation",
       "wildlife-management",
       "wildlife-photography",
-      "zoology"
+      "zoology",
+      "zoroastrianism"
     ]
   },
   "econometrics": {
@@ -14438,6 +14444,7 @@
       "type-design",
       "university-administration",
       "vector-calculus",
+      "venture-capital",
       "video-game-design",
       "viking-history",
       "virtual-reality",
@@ -17608,7 +17615,8 @@
       "information-architecture",
       "tabletop-role-playing-games",
       "video-game-design",
-      "video-game-journalism"
+      "video-game-journalism",
+      "virtual-reality"
     ]
   },
   "game-theory": {
@@ -21493,7 +21501,8 @@
     "incoming": [
       "biology",
       "dermatology",
-      "medical-history"
+      "medical-history",
+      "virology"
     ]
   },
   "impressionism": {
@@ -22784,6 +22793,7 @@
       "private-equity",
       "real-estate",
       "real-estate-investing",
+      "venture-capital",
       "wealth-management"
     ]
   },
@@ -25201,6 +25211,7 @@
       "tire-technology",
       "toxicology",
       "vector-calculus",
+      "vibration-analysis",
       "volcanology",
       "web-analytics",
       "web-development",
@@ -27312,6 +27323,7 @@
       "yoga"
     ],
     "incoming": [
+      "acupressure",
       "alchemy",
       "anatomy",
       "angling",
@@ -40523,6 +40535,7 @@
       "classical-mechanics",
       "climatology",
       "data-analysis",
+      "earth-science",
       "engineering",
       "geology",
       "management",
@@ -40684,6 +40697,7 @@
     ],
     "incoming": [
       "blogging",
+      "web-analytics",
       "youtube-content-creation"
     ]
   },
@@ -48155,9 +48169,11 @@
       "artificial-intelligence",
       "data-analysis",
       "economics",
+      "engineering",
       "geography",
       "government",
       "insurance",
+      "investment-management",
       "logic",
       "management",
       "pattern-recognition",
@@ -48225,6 +48241,7 @@
     "outgoing": [
       "digital-signal-processing",
       "geometry",
+      "machine-learning",
       "mathematics",
       "mechanical-engineering",
       "pattern-recognition",
@@ -48442,9 +48459,11 @@
       "architecture",
       "biology",
       "cell-biology",
+      "ecology",
       "electron-microscopy",
       "genetics",
       "geometry",
+      "immunology",
       "molecular-biology",
       "pharmacology",
       "physics",
@@ -48472,6 +48491,7 @@
       "construction",
       "engineering",
       "fitness",
+      "game-development",
       "gaming",
       "industrial-design",
       "management",
@@ -48562,6 +48582,7 @@
       "accounting",
       "algorithms",
       "c-programming",
+      "data-structures",
       "finance",
       "insurance",
       "inventory-management",
@@ -49155,6 +49176,7 @@
     "outgoing": [
       "algorithms",
       "data-analysis",
+      "data-visualization",
       "digital-marketing",
       "geography",
       "government",
@@ -49164,6 +49186,7 @@
       "optimization",
       "running",
       "sales",
+      "seo-search-engine-optimization",
       "trade"
     ],
     "incoming": [
@@ -50681,6 +50704,7 @@
       "christianity",
       "comparative-religion",
       "debate",
+      "ecology",
       "harmony",
       "hinduism",
       "islam",

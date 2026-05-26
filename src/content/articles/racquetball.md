@@ -1,7 +1,7 @@
 ---
 title: "What Is Racquetball?"
 slug: racquetball
-description: "Racquetball is a fast-paced indoor sport played with a hollow rubber ball in an enclosed court. Learn the rules, strategy, and history. Discover the key fact..."
+description: "Racquetball is an indoor racquet sport played in an enclosed court where a hollow rubber ball can bounce off any wall, the floor, and even the ceiling."
 category: sports
 tags: ["racquetball", "racquet sports", "indoor sports", "fitness", "court sports", "exercise"]
 heroImage: "/images/articles/racquetball-hero.webp"

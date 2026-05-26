@@ -1,7 +1,7 @@
 ---
 title: "What Is Thai Language?"
 slug: thai-language
-description: "Thai is the official language of Thailand, spoken by about 60 million people. Learn about its tones, script, history, and what makes it unique. Discover the ..."
+description: "Thai (also called Siamese or Central Thai) is the official language of Thailand, spoken as a first language by approximately 20-36 million people."
 category: everyday-concepts
 tags: ["thai language", "linguistics", "Southeast Asia", "tonal language", "Thai script", "language"]
 heroImage: "/images/articles/thai-language-hero.webp"

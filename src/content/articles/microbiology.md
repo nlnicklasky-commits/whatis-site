@@ -1,7 +1,7 @@
 ---
 title: "What Is Microbiology?"
 slug: microbiology
-description: "Microbiology studies bacteria, viruses, fungi, and other microorganisms. Learn how microbes work, their role in health, disease, and industry. Discover the k..."
+description: "Microbiology is the study of organisms too small to see with the naked eye --- bacteria, viruses, fungi, protozoa, and algae."
 category: science
 tags: ["microbiology", "bacteria", "viruses", "fungi", "microorganisms", "biology", "infectious disease"]
 heroImage: "/images/articles/microbiology-hero.webp"
@@ -24,7 +24,9 @@ externalSources:
     url: "https://en.wikipedia.org/wiki/Microbiology"
 faq:
   - q: "Are all bacteria harmful?"
-    a: "No. The vast majority of bacteria are harmless to humans, and many are beneficial or essential. Your body contains roughly as many bacterial cells as human cells, mostly in the gut, where they help digest food, synthesize vitamins, and protect against harmful microbes. Fewer than 1% of known bacterial species cause disease in humans. Bacteria also play critical roles in soil fertility, nutrient cycling, wastewater treatment, and food production."
+    a: "No. The vast majority of bacteria are harmless to humans, and many are beneficial or essential. Your body contains roughly as many bacterial cells as human cells, mostly in the gut, where they help digest food, synthesize vitamins, and protect against harmful microbes. Fewer than 1% of known bacterial species cause disease in humans.
+
+Bacteria also play critical roles in soil fertility, nutrient cycling, wastewater treatment, and food production."
   - q: "What is the difference between bacteria and viruses?"
     a: "Bacteria are living cells with their own metabolism, DNA, ribosomes, and the ability to reproduce independently. Viruses are not cells and cannot reproduce on their own. They consist of genetic material (DNA or RNA) enclosed in a protein coat and must hijack a host cell's machinery to replicate. Antibiotics work against bacteria but not viruses. Bacteria are typically 1 to 10 micrometers in size; viruses are 10 to 100 times smaller."
   - q: "Why is antibiotic resistance such a big problem?"

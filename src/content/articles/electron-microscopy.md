@@ -1,7 +1,7 @@
 ---
 title: "What Is Electron Microscopy?"
 slug: electron-microscopy
-description: "Electron microscopy uses focused electron beams to image structures far smaller than light can reveal. Learn about TEM, SEM, and nanoscale imaging. Discover ..."
+description: "Electron microscopy is an imaging technique that uses focused beams of electrons instead of light to examine specimens at extremely high magnification."
 category: technology
 tags: ["electron microscopy", "microscopy", "science", "nanotechnology", "materials science", "biology", "tem"]
 heroImage: "/images/articles/electron-microscopy-hero.webp"

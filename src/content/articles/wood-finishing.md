@@ -31,7 +31,9 @@ faq:
 
 # What Is [Wood](/wood-carving) Finishing?
 
-Wood finishing is the process of applying protective and decorative coatings to wood surfaces — the final step that transforms raw wood into something that resists moisture, wear, and time while looking its best. It's arguably the most underappreciated skill in [woodworking](/woodworking). You can build a flawless piece of furniture with perfect joinery, and a bad finish will make it look amateur. A great finish on modest [construction](/construction) looks professional. The finish is what people see and touch.
+Wood finishing is the process of applying protective and decorative coatings to wood surfaces — the final step that transforms raw wood into something that resists moisture, wear, and time while looking its best. It's arguably the most underappreciated skill in [woodworking](/woodworking). You can build a flawless piece of furniture with perfect joinery, and a bad finish will make it look amateur.
+
+A great finish on modest [construction](/construction) looks professional. The finish is what people see and touch.
 
 ## Why Wood Needs Finishing
 

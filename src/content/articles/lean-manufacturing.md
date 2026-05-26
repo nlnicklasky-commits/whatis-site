@@ -1,7 +1,7 @@
 ---
 title: "What Is Lean Manufacturing?"
 slug: lean-manufacturing
-description: "Lean manufacturing is a production method focused on eliminating waste and maximizing value. Learn its principles, tools, and real-world impact. Discover the..."
+description: "Lean manufacturing is a systematic approach to production that seeks to minimize waste while maximizing the value delivered to customers."
 category: technology
 tags: ["lean manufacturing", "toyota production system", "waste reduction", "continuous improvement", "kaizen", "just-in-time", "efficiency"]
 heroImage: "/images/articles/lean-manufacturing-hero.webp"

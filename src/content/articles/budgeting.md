@@ -1,7 +1,7 @@
 ---
 title: "What Is Budgeting?"
 slug: budgeting
-description: "Budgeting is the process of creating a plan for spending and saving money. Learn methods, tools, and strategies for personal and business budgets. Discover t..."
+description: "Budgeting is the process of creating a financial plan that estimates income and allocates spending across categories over a defined period."
 category: finance
 tags: ["budgeting", "personal finance", "financial planning", "expense tracking", "income management", "saving", "debt management"]
 heroImage: "/images/articles/budgeting-hero.webp"

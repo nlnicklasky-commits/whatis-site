@@ -1,7 +1,7 @@
 ---
 title: "What Is Supply Chain Management?"
 slug: supply-chain-management
-description: "Supply chain management coordinates the flow of goods from raw materials to customers. Learn about logistics, procurement, and modern SCM strategies. Discove..."
+description: "Supply chain management (SCM) is the coordination of everything involved in getting a product from raw materials to a customer's hands."
 category: business
 tags: ["management", "supply chain", "logistics", "operations"]
 heroImage: "/images/articles/supply-chain-management-hero.webp"

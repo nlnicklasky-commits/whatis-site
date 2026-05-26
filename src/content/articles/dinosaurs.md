@@ -1,7 +1,7 @@
 ---
 title: What Is Dinosaurs?
 slug: dinosaurs
-description: "Dinosaurs were reptiles that dominated Earth for over 160 million years. Learn about their evolution, diversity, extinction, and what fossils reveal. Discove..."
+description: "Dinosaurs are a group of reptiles that first appeared during the Triassic period approximately 230-240 million years ago."
 category: science
 tags: ["dinosaurs", "paleontology", "fossils", "prehistoric", "evolution", "extinction", "mesozoic"]
 heroImage: "/images/articles/dinosaurs-hero.webp"

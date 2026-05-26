@@ -1,7 +1,7 @@
 ---
 title: "What Is Mycology?"
 slug: mycology
-description: "Mycology is the scientific study of fungi — mushrooms, molds, and yeasts. Learn how fungi shape ecosystems, medicine, and biotechnology. Discover the key fac..."
+description: "Mycology is the branch of biology that studies fungi — a kingdom of organisms that includes mushrooms, molds, yeasts, and thousands of less familiar species."
 category: science
 tags: ["mycology", "fungi", "mushrooms", "biology", "ecology", "decomposers", "biotechnology"]
 heroImage: "/images/articles/mycology-hero.webp"
@@ -37,7 +37,9 @@ faq:
 
 # What Is Mycology?
 
-Mycology is the branch of [biology](/biology) that studies fungi — a kingdom of organisms that includes mushrooms, molds, yeasts, and thousands of less familiar species. If that sounds like a niche topic, consider this: without fungi, terrestrial life as we know it almost certainly wouldn't exist. They decompose dead matter and recycle nutrients. They form partnerships with about 90% of all plant species. They gave us penicillin, bread, beer, and cheese. And we've barely scratched the surface of understanding them.
+Mycology is the branch of [biology](/biology) that studies fungi — a kingdom of organisms that includes mushrooms, molds, yeasts, and thousands of less familiar species. If that sounds like a niche topic, consider this: without fungi, terrestrial life as we know it almost certainly wouldn't exist. They decompose dead matter and recycle nutrients.
+
+They form partnerships with about 90% of all plant species. They gave us penicillin, bread, beer, and cheese. And we've barely scratched the surface of understanding them.
 
 Fungi aren't plants, aren't animals, and aren't bacteria. They occupy their own kingdom of life — and they're actually more closely related to you, genetically speaking, than they are to any plant. That fact surprises most people, but it's been well established since molecular phylogenetics reshaped our understanding of life's family tree in the late 20th century.
 

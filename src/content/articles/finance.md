@@ -1,7 +1,7 @@
 ---
 title: "What Is Finance?"
 slug: finance
-description: "Finance is the study and management of money, investments, and financial systems. Learn about personal, corporate, and public finance. Discover the key facts..."
+description: "Finance is the discipline concerned with the management, creation, and study of money, investments, and other financial instruments."
 category: finance
 tags: ["money management", "investment", "banking", "capital markets", "economics", "financial services"]
 heroImage: "/images/articles/finance-hero.webp"

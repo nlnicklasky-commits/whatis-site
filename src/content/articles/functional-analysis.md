@@ -1,7 +1,7 @@
 ---
 title: "What Is Functional Analysis?"
 slug: functional-analysis
-description: "Functional analysis studies infinite-dimensional vector spaces and operators. Learn about Banach spaces, Hilbert spaces, and real-world applications. Discove..."
+description: "Functional analysis is the branch of mathematics that studies vector spaces of functions and the operators that act on them."
 category: everyday-concepts
 tags: ["functional analysis", "mathematics", "linear algebra", "Banach spaces", "Hilbert spaces", "topology"]
 heroImage: "/images/articles/functional-analysis-hero.webp"

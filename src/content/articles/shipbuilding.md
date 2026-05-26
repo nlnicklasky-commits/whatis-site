@@ -1,7 +1,7 @@
 ---
 title: "What Is Shipbuilding?"
 slug: shipbuilding
-description: "Shipbuilding is the design and construction of ships and marine vessels, from ancient wooden craft to modern steel cargo ships and naval warships. Discover t..."
+description: "Shipbuilding is the design, engineering, and construction of ships and other marine vessels."
 category: technology
 tags: ["shipbuilding", "naval architecture", "maritime", "construction", "engineering", "vessels", "marine"]
 heroImage: "/images/articles/shipbuilding-hero.webp"

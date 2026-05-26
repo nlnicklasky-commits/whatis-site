@@ -1,7 +1,7 @@
 ---
 title: "What Is Neurolinguistics?"
 slug: neurolinguistics
-description: "Neurolinguistics studies how the brain processes language, from speech production and comprehension to reading, bilingualism, and language disorders. Discove..."
+description: "Neurolinguistics is the study of how the brain processes language."
 category: science
 tags: ["neurolinguistics", "language", "brain", "neuroscience", "linguistics", "aphasia", "cognitive science"]
 heroImage: "/images/articles/neurolinguistics-hero.webp"

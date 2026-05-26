@@ -1,7 +1,7 @@
 ---
 title: "What Is Canoeing?"
 slug: canoeing
-description: "Canoeing is the activity of paddling a canoe — an open, lightweight boat propelled by single-bladed paddles — on rivers, lakes, and coastal waters. Discover ..."
+description: "Canoeing is the activity of propelling and navigating a canoe — an open, pointed-end boat — using a single-bladed paddle."
 category: sports
 tags: ["canoeing", "paddling", "water sports", "outdoor recreation", "canoes", "adventure"]
 heroImage: "/images/articles/canoeing-hero.webp"

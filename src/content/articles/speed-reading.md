@@ -1,7 +1,7 @@
 ---
 title: "What Is Speed Reading?"
 slug: speed-reading
-description: "Speed reading is a set of techniques for reading faster while retaining information. Learn about methods, the science, and what actually works. Discover the ..."
+description: "Speed reading refers to a collection of techniques designed to increase reading speed beyond the normal 200-300 words per minute that most adults manage."
 category: everyday-concepts
 tags: ["speed reading", "reading", "literacy", "study skills", "productivity", "learning"]
 heroImage: "/images/articles/speed-reading-hero.webp"

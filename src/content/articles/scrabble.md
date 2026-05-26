@@ -1,7 +1,7 @@
 ---
 title: "What Is Scrabble?"
 slug: scrabble
-description: "Scrabble is a word-building board game where players score points by creating words from lettered tiles. Learn its rules, strategy, and history. Discover the..."
+description: "Scrabble is a board game where two to four players score points by forming words from individual lettered tiles on a 15-by-15 grid."
 category: everyday-concepts
 tags: ["scrabble", "word game", "board game", "vocabulary", "crossword", "strategy game"]
 heroImage: "/images/articles/scrabble-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Martial Arts?"
 slug: martial-arts
-description: "Martial arts are codified fighting systems practiced for self-defense, fitness, and personal growth. Learn about styles, history, and benefits. Discover the ..."
+description: "Martial arts are structured systems of combat practices — techniques for fighting, self-defense, and (in many traditions) personal development."
 category: sports
 tags: ["martial arts", "self-defense", "combat sports", "karate", "judo", "fitness"]
 heroImage: "/images/articles/martial-arts-hero.webp"

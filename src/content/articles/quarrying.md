@@ -1,7 +1,7 @@
 ---
 title: "What Is Quarrying?"
 slug: quarrying
-description: "Quarrying extracts stone, sand, and gravel from the earth for construction and industry, covering methods, environmental impact, and practices. Discover the ..."
+description: "Quarrying is the process of extracting stone, sand, gravel, and other non-metallic mineral resources from open surface excavations called quarries."
 category: technology
 tags: ["quarrying", "mining", "stone", "construction materials", "geology", "aggregates", "extraction"]
 heroImage: "/images/articles/quarrying-hero.webp"

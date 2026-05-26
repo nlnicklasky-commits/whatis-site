@@ -1,7 +1,7 @@
 ---
 title: "What Is American Football?"
 slug: american-football
-description: "American football is a team sport played on a 100-yard field where two teams of 11 compete to advance an oval ball into the opposing end zone. Discover the k..."
+description: "American football is a team sport in which two teams of 11 players each compete on a 100-yard field."
 category: sports
 tags: ["american football", "football", "nfl", "sports", "gridiron", "super bowl"]
 heroImage: "/images/articles/american-football-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Linear Algebra?"
 slug: linear-algebra
-description: "Linear algebra studies vectors, matrices, and linear transformations. Learn how this branch of math powers everything from AI to computer graphics. Discover ..."
+description: "Linear algebra is the branch of mathematics that studies vectors, matrices, vector spaces, and linear transformations."
 category: science
 tags: ["linear algebra", "mathematics", "vectors", "matrices", "linear equations", "eigenvalues", "math"]
 heroImage: "/images/articles/linear-algebra-hero.webp"

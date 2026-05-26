@@ -1,7 +1,7 @@
 ---
 title: "What Is Nineteenth-Century History?"
 slug: nineteenth-century-history
-description: "The 19th century brought industrialization, revolutions, and the rise of nation-states. Learn about the era that built the modern world. Discover the key fac..."
+description: "The 19th century — 1801 to 1900 — was the era that built the modern world."
 category: everyday-concepts
 tags: ["nineteenth century history", "industrial revolution", "colonialism", "nation-states", "modernization", "world history"]
 heroImage: "/images/articles/nineteenth-century-history-hero.webp"

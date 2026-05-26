@@ -1,7 +1,7 @@
 ---
 title: "What Is Pop Music?"
 slug: pop-music
-description: "Pop music is a genre built on catchy melodies, simple structures, and mass appeal. Here's how it works and why it dominates global charts. Discover the key f..."
+description: "Pop music is a genre of popular music characterized by catchy melodies, simple song structures, and lyrics aimed at the widest possible audience."
 category: arts-amp-culture
 tags: ["pop music", "popular music", "music genre", "catchy songs", "commercial music", "radio hits"]
 heroImage: "/images/articles/pop-music-hero.webp"

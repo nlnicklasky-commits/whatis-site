@@ -1,7 +1,7 @@
 ---
 title: "What Is Macrobiotics?"
 slug: macrobiotics
-description: "Macrobiotics is a dietary and lifestyle philosophy rooted in Eastern traditions that emphasizes whole grains, vegetables, and balance. Discover the key facts..."
+description: "Macrobiotics is a dietary and lifestyle system based on the idea that food choices and daily habits should create balance between opposing natural forces."
 category: health-amp-wellness
 tags: ["nutrition", "macrobiotics", "wellness", "whole grains", "Eastern philosophy"]
 heroImage: "/images/articles/macrobiotics-hero.webp"

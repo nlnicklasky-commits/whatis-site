@@ -1,7 +1,7 @@
 ---
 title: "What Is Fashion Design?"
 slug: fashion-design
-description: "Fashion design is the art of creating clothing and accessories. Learn about the design process, industry structure, and major fashion movements. Discover the..."
+description: "Fashion design is the art of applying aesthetics, cultural awareness, and technical skills to create clothing, footwear, and accessories."
 category: arts-amp-culture
 tags: ["fashion", "design", "clothing", "apparel", "textiles", "trends"]
 heroImage: "/images/articles/fashion-design-hero.webp"

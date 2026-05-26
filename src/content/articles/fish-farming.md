@@ -1,7 +1,7 @@
 ---
 title: "What Is Fish Farming?"
 slug: fish-farming
-description: "Fish farming raises fish in controlled environments for food. Learn about species, methods, sustainability challenges, and the industry's future. Discover th..."
+description: "Fish farming, formally called aquaculture, is the practice of breeding, raising, and harvesting fish, shellfish."
 category: science
 tags: ["aquaculture", "fisheries", "food production", "sustainability", "seafood", "mariculture"]
 heroImage: "/images/articles/fish-farming-hero.webp"

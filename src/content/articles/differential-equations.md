@@ -1,7 +1,7 @@
 ---
 title: What Is Differential Equations?
 slug: differential-equations
-description: "Differential equations describe how things change using rates of change. Learn ODEs, PDEs, solution methods, and real-world applications. Discover the key fa..."
+description: "A differential equation is a mathematical equation that relates a function to its derivatives—that is, to its rates of change."
 category: science
 tags: ["differential equations", "mathematics", "calculus", "modeling", "physics", "engineering", "applied math"]
 heroImage: "/images/articles/differential-equations-hero.webp"

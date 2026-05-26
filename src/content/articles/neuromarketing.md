@@ -1,7 +1,7 @@
 ---
 title: "What Is Neuromarketing?"
 slug: neuromarketing
-description: "Neuromarketing uses brain science to understand consumer behavior, measuring neural responses to ads, products, and brands to improve marketing. Discover the..."
+description: "Neuromarketing applies neuroscience methods to marketing research, measuring brain activity, eye movements, skin conductance."
 category: technology
 tags: ["neuromarketing", "consumer behavior", "neuroscience", "marketing", "psychology", "brain imaging", "market research"]
 heroImage: "/images/articles/neuromarketing-hero.webp"

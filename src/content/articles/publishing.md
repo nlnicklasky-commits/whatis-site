@@ -1,7 +1,7 @@
 ---
 title: "What Is Publishing?"
 slug: publishing
-description: "Publishing is the process of producing and distributing written content to the public. Learn how books, magazines, and digital content get made. Discover the..."
+description: "Publishing is the process of making content — books, magazines, newspapers, journals, digital media — available to the public."
 category: everyday-concepts
 tags: ["publishing", "books", "magazines", "digital publishing", "content creation", "distribution"]
 heroImage: "/images/articles/publishing-hero.webp"

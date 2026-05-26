@@ -1,7 +1,7 @@
 ---
 title: "What Is Natural Building?"
 slug: natural-building
-description: "Natural building uses earth, straw, wood, and other minimally processed materials to create structures. Learn about cob, straw bale, and more. Discover the k..."
+description: "Natural building is a construction approach that uses minimally processed, locally sourced materials — earth, straw, timber, stone, bamboo."
 category: everyday-concepts
 tags: ["natural building", "sustainable architecture", "green building", "eco-friendly", "straw bale", "cob"]
 heroImage: "/images/articles/natural-building-hero.webp"

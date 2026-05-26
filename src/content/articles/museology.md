@@ -31,7 +31,9 @@ faq:
 
 # What Is Museology?
 
-Museology is the academic study of museums — their history, [philosophy](/philosophy), social function, organizational practices, and evolving relationship with the public. It asks questions that might seem obvious but turn out to be genuinely complicated: What is a museum for? Who decides what's worth preserving? Whose stories get told, and whose get left out? How should collections acquired through colonialism be handled?
+Museology is the academic study of museums — their history, [philosophy](/philosophy), social function, organizational practices, and evolving relationship with the public. It asks questions that might seem obvious but turn out to be genuinely complicated: What is a museum for? Who decides what's worth preserving?
+
+Whose stories get told, and whose get left out? How should collections acquired through colonialism be handled?
 
 The field sits at the crossroads of several disciplines — [art history](/art-history), [anthropology](/anthropology), [education](/education), [architecture](/architecture), [ethics](/ethics), and organizational [management](/management). If you've ever walked through a museum and wondered why certain objects are displayed in certain ways, or why some cultures are represented by artifacts behind glass while others get entire wings of self-narrated exhibitions, you've been thinking museologically.
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Acupuncture?"
 slug: acupuncture
-description: "Acupuncture is a traditional Chinese medical practice that inserts thin needles into specific body points to treat pain and various conditions. Discover the ..."
+description: "Acupuncture is a medical practice originating in ancient China that involves inserting thin, sterile needles into specific points on the body to treat pain."
 category: health-amp-wellness
 tags: ["acupuncture", "traditional chinese medicine", "alternative medicine", "pain management"]
 heroImage: "/images/articles/acupuncture-hero.webp"
@@ -9,8 +9,8 @@ heroAlt: "Acupuncture is a traditional Chinese medical practice that inserts thi
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 7
-wordCount: 1844
+readingTime: 9
+wordCount: 2126
 tier: '2'
 relatedArticles: ["anatomy", "health-science", "psychology", "biology", "neuroscience"]
 externalSources:
@@ -103,6 +103,16 @@ Real acupuncture often outperforms no treatment by a significant margin. But it 
 What does this mean? Skeptics say it proves acupuncture is "just" placebo — the specific point locations don't matter. Advocates counter that any needle insertion has real physiological effects, making sham acupuncture an active treatment rather than a true placebo. If sticking needles anywhere in the body triggers endorphin release and immune responses, then comparing two active treatments and finding similar results doesn't prove either is ineffective.
 
 This [debate](/debate) remains unresolved. It's one of the most interesting methodological challenges in medical research.
+
+## Acupuncture Around the World
+
+Acupuncture didn't stay Chinese, and it didn't stay a single technique. Different countries shaped it into recognizably different practices, which is part of why studies don't always seem to be measuring the same thing.
+
+Japan developed its own style somewhere around the 17th century, favoring much thinner needles, shallower insertion, and a gentler touch — partly thanks to Waichi Sugiyama, a blind practitioner who popularized the guide tube that nearly every acupuncturist still uses to insert needles today. Korean hand acupuncture (Koryo Sooji Chim), developed in the 1970s by Tae-Woo Yoo, maps the whole body onto the hand alone. France produced auricular (ear) acupuncture in the 1950s through physician Paul Nogier, who noticed a pattern of treatment scars on patients' ears and worked out a system from it.
+
+There's also a strain called "medical acupuncture" or Western acupuncture, which drops the qi-and-meridian theory entirely and treats needling as a way to stimulate nerves and muscle trigger points. A practitioner working from that model and one working from classical [Traditional Chinese Medicine](/traditional-chinese-medicine) might needle the same patient very differently — and both might call it acupuncture.
+
+The World Health Organization has taken the practice seriously enough to publish reviews of its evidence, and in 2019 the WHO added Traditional Chinese Medicine diagnoses to its International Classification of Diseases (ICD-11). That move drew sharp criticism from researchers who argued it lent scientific legitimacy to concepts like qi that don't hold up under [biology](/biology). The disagreement captures acupuncture's whole awkward status: widely used, partly evidence-backed, and theoretically contested all at once.
 
 ## What Happens During a Session
 

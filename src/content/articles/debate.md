@@ -1,7 +1,7 @@
 ---
 title: "What Is Debate?"
 slug: debate
-description: "Debate is the structured exchange of arguments on a topic. Learn about formats, skills, competitive debate, and how arguing well improves thinking. Discover ..."
+description: "Debate is the formal practice of constructing and presenting arguments on opposing sides of a proposition."
 category: arts-amp-culture
 tags: ["debate", "arts-amp-culture"]
 heroImage: "/images/articles/debate-hero.webp"

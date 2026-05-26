@@ -1,7 +1,7 @@
 ---
 title: "What Is Radiology?"
 slug: radiology
-description: "Radiology uses imaging technologies like X-rays, CT, MRI, and ultrasound to diagnose and treat diseases. Learn how it works and why it matters. Discover the ..."
+description: "Radiology is the medical specialty that uses imaging technologies — X-rays, CT scans, MRI, ultrasound, and nuclear medicine."
 category: health-amp-wellness
 tags: ["medical", "radiology", "imaging", "x-ray"]
 heroImage: "/images/articles/radiology-hero.webp"

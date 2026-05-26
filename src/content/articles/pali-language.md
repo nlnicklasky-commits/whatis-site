@@ -1,7 +1,7 @@
 ---
 title: "What Is Pali Language?"
 slug: pali-language
-description: "Pali is the sacred language of Theravada Buddhism, preserving the oldest Buddhist scriptures. Learn about its history, structure, and significance. Discover ..."
+description: "Pali is a Middle Indo-Aryan language that became the sacred language of Theravada Buddhism — the oldest surviving branch of Buddhism."
 category: everyday-concepts
 tags: ["pali language", "buddhism", "ancient languages", "theravada", "linguistics", "sacred texts"]
 heroImage: "/images/articles/pali-language-hero.webp"

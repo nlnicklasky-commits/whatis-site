@@ -37,7 +37,9 @@ faq:
 
 # What Is Rice Farming?
 
-Rice [farming](/farming) is the cultivation of rice (*Oryza sativa* and *Oryza glaberrima*), a cereal grain that feeds more people than any other single crop on Earth. Over 3.5 billion people — roughly half of humanity — depend on rice as their primary source of calories. In many Asian countries, rice provides 50-80% of daily caloric intake. The word for "rice" and the word for "food" or "meal" are the same in several Asian languages. That tells you everything about how central this grain is to human civilization.
+Rice [farming](/farming) is the cultivation of rice (*Oryza sativa* and *Oryza glaberrima*), a cereal grain that feeds more people than any other single crop on Earth. Over 3.5 billion people — roughly half of humanity — depend on rice as their primary source of calories. In many Asian countries, rice provides 50-80% of daily caloric intake.
+
+The word for "rice" and the word for "food" or "meal" are the same in several Asian languages. That tells you everything about how central this grain is to human civilization.
 
 Humans have been growing rice for at least 9,000 years, and probably longer. The earliest confirmed evidence of rice cultivation comes from the Yangtze River valley in China, dating to around 7000 BCE. From that single origin, rice cultivation spread across Southeast Asia, South Asia, the Middle East, Africa, and eventually the Americas. Today, rice is grown on every continent except Antarctica, with global production exceeding 520 million metric tons (milled equivalent) annually.
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Japanese Language?"
 slug: japanese-language
-description: "Japanese is spoken by 125 million people and uses three writing systems. Learn about kanji, hiragana, katakana, grammar, and what makes it unique. Discover t..."
+description: "Japanese is spoken by approximately 125 million people, primarily in Japan."
 category: everyday-concepts
 tags: ["japanese language", "kanji", "hiragana", "linguistics", "writing systems"]
 heroImage: "/images/articles/japanese-language-hero.webp"

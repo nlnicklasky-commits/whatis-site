@@ -1,7 +1,7 @@
 ---
 title: "What Is Group Theory?"
 slug: group-theory
-description: "Group theory studies mathematical symmetry through algebraic structures called groups. Learn how it connects algebra, physics, and chemistry. Discover the ke..."
+description: "Group theory is the branch of mathematics that studies algebraic structures called groups—sets equipped with an operation that combines any two elements."
 category: science
 tags: ["group theory", "mathematics", "abstract algebra", "symmetry", "algebra", "physics", "chemistry"]
 heroImage: "/images/articles/group-theory-hero.webp"

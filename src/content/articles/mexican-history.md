@@ -1,7 +1,7 @@
 ---
 title: "What Is Mexican History?"
 slug: mexican-history
-description: "Mexican history spans ancient Mesoamerican civilizations through Spanish colonization to modern democracy. Explore the events that shaped Mexico. Discover th..."
+description: "Mexican history is the story of the land and peoples that make up modern Mexico — from the earliest human settlements over 13,000 years ago."
 category: history
 tags: ["history", "mexico", "latin america"]
 heroImage: "/images/articles/mexican-history-hero.webp"

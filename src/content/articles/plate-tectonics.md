@@ -1,7 +1,7 @@
 ---
 title: "What Is Plate Tectonics?"
 slug: plate-tectonics
-description: "Plate tectonics explains how Earth's outer shell is broken into moving plates that cause earthquakes, volcanoes, and continental drift. Discover the key fact..."
+description: "Plate tectonics is the scientific theory explaining how Earth's outer layer — the lithosphere — is divided into large, rigid pieces called plates that move."
 category: everyday-concepts
 tags: ["plate tectonics", "geology", "earthquakes", "volcanoes", "continental drift"]
 heroImage: "/images/articles/plate-tectonics-hero.webp"

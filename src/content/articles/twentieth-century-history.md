@@ -1,7 +1,7 @@
 ---
 title: "What Is Twentieth-Century History?"
 slug: twentieth-century-history
-description: "Twentieth-century history covers the 1900s — two world wars, the Cold War, decolonization, and the rise of technology that defined modern life. Discover the ..."
+description: "The twentieth century — 1901 to 2000 — packed more change into a hundred years than any other period in human history."
 category: history
 tags: ["twentieth-century history", "world wars", "cold war", "decolonization"]
 heroImage: "/images/articles/twentieth-century-history-hero.webp"

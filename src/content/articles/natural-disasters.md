@@ -1,7 +1,7 @@
 ---
 title: "What Is Natural Disasters?"
 slug: natural-disasters
-description: "Natural disasters are extreme geological or weather events that cause significant destruction. Learn about earthquakes, hurricanes, floods, and more. Discove..."
+description: "A natural disaster is a catastrophic event caused by natural processes of the Earth — earthquakes, hurricanes, volcanic eruptions, floods, tornadoes."
 category: everyday-concepts
 tags: ["natural disasters", "earthquakes", "hurricanes", "floods", "emergency preparedness", "geology"]
 heroImage: "/images/articles/natural-disasters-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Numerical Analysis?"
 slug: numerical-analysis
-description: "Numerical analysis develops algorithms to approximate mathematical solutions. Learn how it powers engineering simulations, weather forecasts, and AI. Discove..."
+description: "Numerical analysis is the branch of mathematics that develops, analyzes, and implements algorithms for obtaining approximate solutions to mathematical."
 category: technology
 tags: ["numerical analysis", "mathematics", "algorithms", "approximation", "computational science", "engineering", "scientific computing"]
 heroImage: "/images/articles/numerical-analysis-hero.webp"

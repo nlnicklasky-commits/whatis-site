@@ -1,7 +1,7 @@
 ---
 title: "What Is Mathematics?"
 slug: mathematics
-description: "Mathematics is the study of numbers, patterns, structures, and logical reasoning. Learn how math works, its branches, history, and why it matters. Discover t..."
+description: "Mathematics is the study of numbers, quantities, structures, patterns, and the logical relationships between them."
 category: science
 tags: ["mathematics", "math", "algebra", "geometry", "calculus", "logic", "numbers"]
 heroImage: "/images/articles/mathematics-hero.webp"

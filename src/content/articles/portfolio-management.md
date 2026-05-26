@@ -1,7 +1,7 @@
 ---
 title: "What Is Portfolio Management?"
 slug: portfolio-management
-description: "Portfolio management is the process of selecting and overseeing investments to meet long-term financial goals while managing risk. Discover the key facts, hi..."
+description: "Portfolio management is the art and science of making decisions about what investments to hold, how much to allocate to each, and when to make changes."
 category: finance
 tags: ["portfolio management", "investment", "asset allocation", "financial planning", "risk management", "wealth management"]
 heroImage: "/images/articles/portfolio-management-hero.webp"

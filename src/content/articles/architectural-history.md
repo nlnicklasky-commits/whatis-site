@@ -1,7 +1,7 @@
 ---
 title: "What Is Architectural History?"
 slug: architectural-history
-description: "Architectural history studies how buildings and structures have been designed, built, and understood across cultures and centuries. Discover the key facts, h..."
+description: "Architectural history is the study of buildings and built environments across time, examining how structures were designed, constructed, used."
 category: history
 tags: ["architectural history", "architecture", "art history", "design", "historic preservation"]
 heroImage: "/images/articles/architectural-history-hero.webp"

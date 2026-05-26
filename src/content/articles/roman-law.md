@@ -1,7 +1,7 @@
 ---
 title: "What Is Roman Law?"
 slug: roman-law
-description: "Roman law is the legal system of ancient Rome that shaped Western jurisprudence, civil law traditions, and modern legal concepts still used today. Discover t..."
+description: "Roman law is the legal system developed in ancient Rome between roughly 753 BCE and 565 CE, spanning the Kingdom, Republic, and Empire periods."
 category: history
 tags: ["roman legal system", "ancient law", "jurisprudence", "civil law"]
 heroImage: "/images/articles/roman-law-hero.webp"

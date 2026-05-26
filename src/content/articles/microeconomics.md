@@ -1,7 +1,7 @@
 ---
 title: "What Is Microeconomics?"
 slug: microeconomics
-description: "Microeconomics studies how individuals and businesses make decisions about scarce resources, set prices, and interact in markets. Discover the key facts, his..."
+description: "Microeconomics is the branch of economics that studies how individual people, households, and firms make decisions about allocating limited resources."
 category: finance
 tags: ["microeconomics", "economics", "supply and demand", "market structure", "consumer behavior", "pricing", "competition"]
 heroImage: "/images/articles/microeconomics-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Nihilism?"
 slug: nihilism
-description: "Nihilism is the philosophical view that life lacks objective meaning, purpose, or value. Learn about its history, types, and key thinkers. Discover the key f..."
+description: "Nihilism is the philosophical position that life has no inherent meaning, purpose, or objective value."
 category: everyday-concepts
 tags: ["nihilism", "philosophy", "existentialism", "Nietzsche", "meaning of life", "metaphysics"]
 heroImage: "/images/articles/nihilism-hero.webp"

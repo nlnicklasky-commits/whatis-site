@@ -1,7 +1,7 @@
 ---
 title: "What Is Jurisprudence?"
 slug: jurisprudence
-description: "Jurisprudence is the philosophy of law, examining what law is, why it exists, and how it should work. Learn the major theories and thinkers. Discover the key..."
+description: "Jurisprudence is the theoretical study of law—its nature, its purpose, its foundations, and its relationship to morality, society, and justice."
 category: philosophy
 tags: ["jurisprudence", "philosophy of law", "legal theory", "justice", "natural law", "legal positivism", "rights"]
 heroImage: "/images/articles/jurisprudence-hero.webp"

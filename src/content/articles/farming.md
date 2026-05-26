@@ -31,7 +31,9 @@ faq:
 
 # What Is Farming?
 
-Farming is the deliberate cultivation of plants and raising of animals for food, fiber, fuel, and other products. It's the thing that made civilization possible. Before farming, every human on Earth was a hunter-gatherer, living in small mobile bands. Once people figured out how to grow their own food — roughly 12,000 years ago — everything changed. Settlements, cities, [writing](/writing), governments, and eventually everything you see around you today all flow from that single innovation.
+Farming is the deliberate cultivation of plants and raising of animals for food, fiber, fuel, and other products. It's the thing that made civilization possible. Before farming, every human on Earth was a hunter-gatherer, living in small mobile bands.
+
+Once people figured out how to grow their own food — roughly 12,000 years ago — everything changed. Settlements, cities, [writing](/writing), governments, and eventually everything you see around you today all flow from that single innovation.
 
 ## The Revolution That Changed Everything
 

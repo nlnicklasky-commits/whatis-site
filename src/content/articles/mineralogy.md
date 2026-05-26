@@ -1,7 +1,7 @@
 ---
 title: "What Is Mineralogy?"
 slug: mineralogy
-description: "Mineralogy studies minerals, their structure, composition, properties, and formation. Learn how scientists classify Earth's building blocks. Discover the key..."
+description: "Mineralogy is the branch of geology that studies minerals—naturally occurring, inorganic solids with a defined chemical composition and an ordered atomic."
 category: science
 tags: ["mineralogy", "minerals", "geology", "crystals", "earth science", "geochemistry", "rocks"]
 heroImage: "/images/articles/mineralogy-hero.webp"

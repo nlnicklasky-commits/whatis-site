@@ -1,7 +1,7 @@
 ---
 title: "What Is Buddhism?"
 slug: buddhism
-description: "Buddhism is a religion and philosophy founded by Siddhartha Gautama based on the Four Noble Truths and the Eightfold Path to end suffering. Discover the key ..."
+description: "Buddhism is a religion and philosophical system founded in the 5th century BCE by Siddhartha Gautama, known as the Buddha."
 category: philosophy
 tags: ["buddhism", "religion", "philosophy", "siddhartha gautama", "buddha", "four noble truths", "eightfold path"]
 heroImage: "/images/articles/buddhism-hero.webp"

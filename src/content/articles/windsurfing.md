@@ -1,7 +1,7 @@
 ---
 title: "What Is Windsurfing?"
 slug: windsurfing
-description: "Windsurfing combines sailing and surfing on a board with an attached sail. Learn about equipment, techniques, conditions, and how to get started. Discover th..."
+description: "Windsurfing is a water sport that combines elements of sailing and surfing — you stand on a board and use an attached sail to use wind power."
 category: sports
 tags: ["windsurfing", "water sports", "sailing", "surfing", "extreme sports", "outdoor recreation"]
 heroImage: "/images/articles/windsurfing-hero.webp"

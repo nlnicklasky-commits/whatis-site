@@ -1,7 +1,7 @@
 ---
 title: "What Is Functional Programming?"
 slug: functional-programming
-description: "Functional programming builds software using pure functions, immutability, and composition. Learn how FP works and why developers adopt it. Discover the key ..."
+description: "Functional programming (FP) is a programming model that constructs software by composing pure functions, avoiding shared mutable state and side effects."
 category: technology
 tags: ["programming", "software development", "computer science", "pure functions", "immutability", "declarative programming"]
 heroImage: "/images/articles/functional-programming-hero.webp"

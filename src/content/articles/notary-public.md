@@ -1,7 +1,7 @@
 ---
 title: "What Is Notary Public?"
 slug: notary-public
-description: "A notary public is a state-appointed official who witnesses signatures, administers oaths, and deters fraud. Here's how notarization works. Discover the key ..."
+description: "A notary public is a person appointed by a state government) to serve as an impartial witness to the signing of important documents."
 category: everyday-concepts
 tags: ["notary public", "notarization", "legal documents", "witness", "fraud prevention", "public officer"]
 heroImage: "/images/articles/notary-public-hero.webp"

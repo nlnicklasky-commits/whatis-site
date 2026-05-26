@@ -1,7 +1,7 @@
 ---
 title: "What Is Chess?"
 slug: chess
-description: "Chess is a two-player strategy board game played on a 64-square board with 16 pieces per side, where the goal is to checkmate the opponent's king. Discover t..."
+description: "Chess is a two-player strategy game played on an 8x8 board with 32 pieces — 16 per side."
 category: everyday-concepts
 tags: ["chess", "board games", "strategy", "competition", "games", "puzzles"]
 heroImage: "/images/articles/chess-hero.webp"

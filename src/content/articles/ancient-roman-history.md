@@ -1,7 +1,7 @@
 ---
 title: "What Is Ancient Roman History?"
 slug: ancient-roman-history
-description: "Ancient Roman history traces Rome's growth from a small Italian village to an empire spanning three continents over roughly 1,200 years. Discover the key fac..."
+description: "Ancient Roman history spans roughly 1,200 years — from Rome's legendary founding in 753 BCE to the fall of the Western Roman Empire in 476 CE."
 category: history
 tags: ["ancient rome", "roman history", "roman republic", "roman empire", "julius caesar"]
 heroImage: "/images/articles/ancient-roman-history-hero.webp"

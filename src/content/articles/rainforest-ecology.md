@@ -1,7 +1,7 @@
 ---
 title: "What Is Rainforest Ecology?"
 slug: rainforest-ecology
-description: "Rainforest ecology studies how tropical forest organisms interact with each other and their environment, from canopy layers to nutrient cycling. Discover the..."
+description: "Rainforest ecology is the scientific study of how organisms in tropical and subtropical forests interact with each other and their physical environment."
 category: science
 tags: ["rainforest ecology", "tropical rainforest", "biodiversity", "ecology", "deforestation", "conservation", "ecosystems"]
 heroImage: "/images/articles/rainforest-ecology-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Road Cycling?"
 slug: road-cycling
-description: "Road cycling is the sport of riding lightweight bicycles on paved roads for fitness, competition, or recreation. Learn the basics and gear. Discover the key ..."
+description: "Road cycling is the practice of riding lightweight bicycles on paved roads, either competitively or recreationally."
 category: sports
 tags: ["road cycling", "cycling", "bicycles", "endurance", "Tour de France", "fitness"]
 heroImage: "/images/articles/road-cycling-hero.webp"

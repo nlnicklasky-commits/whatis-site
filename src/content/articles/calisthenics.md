@@ -1,7 +1,7 @@
 ---
 title: "What Is Calisthenics?"
 slug: calisthenics
-description: "Calisthenics is a form of exercise using your own body weight for resistance, building strength, flexibility, and control without gym equipment. Discover the..."
+description: "Calisthenics is a form of strength training that uses your own body weight as resistance — push-ups, pull-ups, squats, dips, and their countless variations."
 category: health-amp-wellness
 tags: ["calisthenics", "bodyweight", "exercise", "fitness", "strength training"]
 heroImage: "/images/articles/calisthenics-hero.webp"

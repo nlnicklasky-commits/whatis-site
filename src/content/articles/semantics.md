@@ -1,7 +1,7 @@
 ---
 title: "What Is Semantics?"
 slug: semantics
-description: "Semantics is the study of meaning in language — how words, phrases, and sentences convey information. Learn about types, theories, and applications. Discover..."
+description: "Semantics is the branch of linguistics that studies meaning — how words, phrases, sentences, and texts convey information."
 category: language
 tags: ["semantics", "linguistics", "meaning", "language", "philosophy of language", "lexical semantics"]
 heroImage: "/images/articles/semantics-hero.webp"

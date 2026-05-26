@@ -1,7 +1,7 @@
 ---
 title: "What Is Lighthouses?"
 slug: lighthouses
-description: "Lighthouses are tower structures built on coastlines or offshore to project light signals that guide ships and warn sailors of hazards. Discover the key fact..."
+description: "A lighthouse is a tower or structure — usually located on a coastline, rocky outcrop, or offshore shoal."
 category: history
 tags: ["maritime history", "lighthouses", "navigation", "architecture", "coastal safety"]
 heroImage: "/images/articles/lighthouses-hero.webp"

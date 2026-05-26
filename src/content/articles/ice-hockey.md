@@ -1,7 +1,7 @@
 ---
 title: "What Is Ice Hockey?"
 slug: ice-hockey
-description: "Ice hockey is a fast team sport played on ice where skaters use sticks to shoot a puck into the goal. Learn about rules, positions, and the NHL. Discover the..."
+description: "Ice hockey is a team sport played on an enclosed ice rink where two teams of six skaters each use sticks to shoot a vulcanized rubber puck into the opposing."
 category: sports
 tags: ["ice hockey", "hockey", "winter sports", "team sports", "nhl", "puck"]
 heroImage: "/images/articles/ice-hockey-hero.webp"

@@ -35,7 +35,9 @@ faq:
 
 # What Is Radiography?
 
-Radiography is the imaging technique that uses X-rays or other forms of penetrating radiation to create pictures of structures inside the body (or inside objects, in industrial applications). When you go to the hospital and get an "X-ray," you're getting a radiograph -- an image formed by passing X-ray beams through your body and capturing the radiation that emerges on the other side. Dense structures like bones absorb more X-rays and appear white. Soft tissues absorb less and appear in shades of gray. Air absorbs almost none and appears black.
+Radiography is the imaging technique that uses X-rays or other forms of penetrating radiation to create pictures of structures inside the body (or inside objects, in industrial applications). When you go to the hospital and get an "X-ray," you're getting a radiograph -- an image formed by passing X-ray beams through your body and capturing the radiation that emerges on the other side. Dense structures like bones absorb more X-rays and appear white.
+
+Soft tissues absorb less and appear in shades of gray. Air absorbs almost none and appears black.
 
 It's the oldest and most widely used form of [medical imaging](/medical-imaging). Wilhelm Rontgen discovered X-rays in 1895, and within months, doctors were using them to see broken bones. Over 130 years later, radiography remains the first-line imaging tool in hospitals worldwide. Approximately 3.6 billion diagnostic X-ray examinations are performed globally each year -- that's nearly one for every two people on Earth.
 

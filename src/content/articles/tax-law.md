@@ -1,7 +1,7 @@
 ---
 title: "What Is Tax Law?"
 slug: tax-law
-description: "Tax law is the body of legal rules governing how governments impose, collect, and enforce taxes on individuals, businesses, and transactions. Discover the ke..."
+description: "Tax law is the body of legal rules and regulations that govern how governments levy, collect, and enforce taxes on individuals, businesses, and transactions."
 category: finance
 tags: ["tax law", "taxation", "income tax", "sales tax", "property tax", "tax deductions", "tax credits", "tax evasion"]
 heroImage: "/images/articles/tax-law-hero.webp"

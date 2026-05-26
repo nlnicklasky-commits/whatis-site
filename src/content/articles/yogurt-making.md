@@ -1,7 +1,7 @@
 ---
 title: "What Is Yogurt Making?"
 slug: yogurt-making
-description: "Yogurt making is the process of fermenting milk with live bacteria cultures. Learn the science, methods, and tips for making yogurt at home. Discover the key..."
+description: "Yogurt making is the process of fermenting milk using specific bacteria — primarily Lactobacillus bulgaricus and Streptococcus thermophilus."
 category: everyday-concepts
 tags: ["food science", "cooking", "dairy", "fermentation", "probiotics", "healthy eating"]
 heroImage: "/images/articles/yogurt-making-hero.webp"

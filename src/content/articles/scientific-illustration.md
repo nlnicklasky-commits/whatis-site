@@ -1,7 +1,7 @@
 ---
 title: "What Is Scientific Illustration?"
 slug: scientific-illustration
-description: "Scientific illustration is the art of depicting scientific subjects with accuracy and clarity. Learn about its history, techniques, and modern role. Discover..."
+description: "Scientific illustration is the practice of creating accurate, detailed visual representations of scientific subjects — plants, animals."
 category: arts-amp-culture
 tags: ["scientific illustration", "biology", "anatomy", "botany", "art", "science communication"]
 heroImage: "/images/articles/scientific-illustration-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is United States History?"
 slug: united-states-history
-description: "United States history covers the American story from colonial settlement and revolution through civil war, industrialization, and superpower status. Discover..."
+description: "United States history is the story of how 13 small British colonies on the Atlantic coast became the most powerful nation on Earth."
 category: history
 tags: ["united states history", "american history", "us government", "democracy"]
 heroImage: "/images/articles/united-states-history-hero.webp"

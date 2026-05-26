@@ -1,7 +1,7 @@
 ---
 title: "What Is Investment Banking?"
 slug: investment-banking
-description: "Investment banking helps companies raise capital, execute mergers, and navigate financial markets. Learn how it works and why it matters. Discover the key fa..."
+description: "Investment banking is a specialized segment of banking that helps organizations raise capital, execute mergers and acquisitions."
 category: finance
 tags: ["investment banking", "finance", "m&a", "capital markets", "underwriting", "ipo", "financial advisory"]
 heroImage: "/images/articles/investment-banking-hero.webp"

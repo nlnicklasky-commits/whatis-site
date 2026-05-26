@@ -1,7 +1,7 @@
 ---
 title: "What Is Barbecuing?"
 slug: barbecuing
-description: "Barbecuing is the slow cooking of meat over low, indirect heat with wood smoke, producing tender, flavorful results distinct from grilling. Discover the key ..."
+description: "Barbecuing is the method of cooking meat slowly — typically for hours — over low, indirect heat with smoke from burning wood."
 category: everyday-concepts
 tags: ["barbecuing", "bbq", "smoking food", "outdoor cooking", "low and slow", "brisket"]
 heroImage: "/images/articles/barbecuing-hero.webp"

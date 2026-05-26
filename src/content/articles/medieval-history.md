@@ -1,7 +1,7 @@
 ---
 title: "What Is Medieval History?"
 slug: medieval-history
-description: "Medieval history covers the period from roughly 500 to 1500 CE in Europe. Learn about feudalism, the Church, crusades, culture, and daily life. Discover the ..."
+description: "Medieval history — the history of the Middle Ages — covers roughly a thousand years of European civilization."
 category: everyday-concepts
 tags: ["medieval history", "Middle Ages", "feudalism", "history", "European history", "crusades"]
 heroImage: "/images/articles/medieval-history-hero.webp"

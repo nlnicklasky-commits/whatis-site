@@ -9,8 +9,8 @@ heroAlt: "Vibration analysis detects machinery faults by measuring mechanical os
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 10
-wordCount: 2424
+readingTime: 14
+wordCount: 3053
 tier: '1'
 relatedArticles: ["mechanical-engineering", "signal-processing", "acoustics", "digital-signal-processing", "electrical-engineering"]
 externalSources:
@@ -195,6 +195,30 @@ Implementing a vibration program involves more than buying sensors and software.
 **Trending and analysis.** Track measurements over time. A slow upward trend in vibration amplitude at a bearing defect frequency is the early warning you're looking for. Software tools automate trending, alarming, and reporting.
 
 **Corrective action.** Analysis without action is useless. The program needs clear communication channels between analysts and maintenance planners so that identified problems actually get fixed.
+
+## Reading the Numbers: Standards and Severity
+
+A vibration reading is meaningless without a yardstick. How much is too much? That's where international standards come in.
+
+The ISO 10816 series (now being folded into ISO 20816) defines vibration severity zones based on overall velocity, usually measured in millimeters per second RMS. Machines get sorted into zones: Zone A is a newly commissioned machine, Zone B is acceptable for long-term operation, Zone C means the machine is unsatisfactory and should be scheduled for repair, and Zone D is dangerous — failure may be imminent. The exact thresholds depend on the machine's size, power, and mounting (rigid foundation versus flexible).
+
+For high-speed turbomachinery on fluid-film bearings, the API 670 standard governs the protection systems instead, specifying things like proximity probe placement and shutdown logic. Knowing which standard applies to which machine is part of an analyst's everyday judgment.
+
+Units trip up beginners constantly. The same vibration can be expressed as displacement (micrometers), velocity (mm/s), or acceleration (g or m/s²) — and they emphasize different frequency ranges. Displacement dominates at low frequencies, velocity is the all-rounder used for most general machinery, and acceleration highlights the high-frequency content where bearing and gear faults live. Picking the wrong unit for the fault you're hunting is a quick way to miss it entirely.
+
+## A Walkthrough: Catching a Bearing Before It Dies
+
+Here's how this plays out in practice. Say a plant runs a 250 horsepower process pump at 1,780 RPM. Monthly route data has shown a steady, boring 2.1 mm/s overall velocity for two years — solidly in Zone B.
+
+One month the overall reading ticks up to 2.8 mm/s. Not alarming on its own. But the analyst pulls the spectrum and sees a cluster of non-synchronous peaks around 3,200 Hz that weren't there before. Running the bearing's BPFO calculation confirms it: the spacing matches an outer-race defect frequency. An envelope (demodulation) spectrum makes it unmistakable — clean peaks at BPFO and its harmonics.
+
+The verdict: an early-stage outer-race spall, probably from a brief lubrication lapse. The analyst flags it, the planner orders the bearing, and three weeks later — during scheduled downtime — the bearing gets swapped in two hours. The old one comes out with a visible pit on the outer race, exactly where the data said it would be. Total cost: one $180 bearing and a planned two-hour job. The alternative — catastrophic seizure during production — could have wrecked the shaft and housing and idled the line for a day. That gap is the entire value proposition of predictive maintenance in a single story.
+
+## Where the Field Is Heading
+
+Vibration analysis is being reshaped by cheap sensors and machine learning. Wireless MEMS accelerometers — the same accelerometer technology in your phone, ruggedized for industry — now cost a fraction of traditional sensors. That makes it economical to instrument hundreds of machines that previously got a monthly walk-around, if they got monitored at all.
+
+The flood of continuous data feeds into condition-monitoring platforms that apply [machine learning](/machine-learning) to flag anomalies automatically. These models learn each machine's normal signature and alert when something drifts, which helps less-experienced staff triage problems. The honest caveat: algorithms are good at detecting that something changed, but still weak at explaining what changed and why. A model might raise an alarm; a human analyst still has to decide whether it's a real bearing defect or just a sensor that came loose. The technology is shifting the analyst's job from collecting data to interpreting a far larger stream of it — which makes the human element more important, not less.
 
 ## The Human Element
 

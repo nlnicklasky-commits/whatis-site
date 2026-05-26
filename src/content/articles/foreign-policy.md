@@ -1,7 +1,7 @@
 ---
 title: "What Is Foreign Policy?"
 slug: foreign-policy
-description: "Foreign policy is a government's strategy for dealing with other nations. Learn about diplomacy, trade, alliances, and how foreign policy is made. Discover t..."
+description: "Foreign policy is the set of strategies, decisions, and actions a government uses to manage its relationships with other countries and international."
 category: politics
 tags: ["international relations", "diplomacy", "geopolitics", "national security", "trade", "international law"]
 heroImage: "/images/articles/foreign-policy-hero.webp"

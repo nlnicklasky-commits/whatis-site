@@ -1,7 +1,7 @@
 ---
 title: "What Is Philosophy of Music?"
 slug: philosophy-of-music
-description: "Philosophy of music examines what music is, why it moves us emotionally, and what makes it meaningful. Learn about key debates and thinkers. Discover the key..."
+description: "Philosophy of music is the branch of philosophy that asks fundamental questions about the nature and value of music."
 category: everyday-concepts
 tags: ["philosophy of music", "aesthetics", "music theory", "emotion", "art", "meaning"]
 heroImage: "/images/articles/philosophy-of-music-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is [Philosophy](/philosophy) of Music?
 
-Philosophy of music is the branch of philosophy that asks fundamental questions about the nature and value of music. What is music, exactly? How is it different from noise? Why does a particular sequence of sounds make you cry, while a different sequence makes you want to [dance](/dance)? Does music mean anything, or is it just patterns of sound that we project meaning onto? And why do humans — every known human culture — make and listen to music?
+Philosophy of music is the branch of philosophy that asks fundamental questions about the nature and value of music. What is music, exactly? How is it different from noise?
+
+Why does a particular sequence of sounds make you cry, while a different sequence makes you want to [dance](/dance)? Does music mean anything, or is it just patterns of sound that we project meaning onto? And why do humans — every known human culture — make and listen to music?
 
 ## The Definition Problem
 

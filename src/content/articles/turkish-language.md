@@ -1,7 +1,7 @@
 ---
 title: "What Is Turkish Language?"
 slug: turkish-language
-description: "Turkish is a Turkic language spoken by over 80 million people. Learn about its agglutinative grammar, vowel harmony, script reform, and origins. Discover the..."
+description: "Turkish is the most widely spoken member of the Turkic language family, with roughly 80 to 85 million native speakers concentrated in Turkey and Northern."
 category: everyday-concepts
 tags: ["turkish language", "linguistics", "Turkic languages", "agglutinative", "vowel harmony", "language"]
 heroImage: "/images/articles/turkish-language-hero.webp"

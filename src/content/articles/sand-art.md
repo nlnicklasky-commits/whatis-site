@@ -1,7 +1,7 @@
 ---
 title: "What Is Sand Art?"
 slug: sand-art
-description: "Sand art encompasses creative works made from or with sand, including sculptures, paintings, animation, and mandala designs. Discover the key facts, history,..."
+description: "Sand art is any creative work that uses sand as its primary medium — from the massive."
 category: arts-amp-culture
 tags: ["sand", "art", "sculpture", "beach art", "sandcastle", "temporary art"]
 heroImage: "/images/articles/sand-art-hero.webp"

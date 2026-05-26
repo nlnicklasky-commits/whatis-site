@@ -31,7 +31,9 @@ faq:
 
 # What Is Lego Building?
 
-Lego building is the practice of constructing models, structures, and creations using LEGO's interlocking plastic bricks. It's a toy. It's a hobby. It's an art form. It's a $9 billion-per-year industry. And if you think it's just for kids, you haven't been paying attention — some of the most dedicated Lego builders on the planet are adults who spend thousands of hours and dollars on their creations.
+Lego building is the practice of constructing models, structures, and creations using LEGO's interlocking plastic bricks. It's a toy. It's a hobby.
+
+It's an art form. It's a $9 billion-per-year industry. And if you think it's just for kids, you haven't been paying attention — some of the most dedicated Lego builders on the planet are adults who spend thousands of hours and dollars on their creations.
 
 ## A Brief History of the Brick
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Rafting?"
 slug: rafting
-description: "Rafting is a water sport where groups ride inflatable rafts through river rapids. Learn the classification system, skills, and safety basics. Discover the ke..."
+description: "Rafting — usually called whitewater rafting — is the recreational activity of riding an inflatable raft through sections of a river that have varying degrees."
 category: sports
 tags: ["rafting", "whitewater", "water sports", "outdoor recreation", "adventure", "rivers"]
 heroImage: "/images/articles/rafting-hero.webp"

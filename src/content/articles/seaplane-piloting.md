@@ -9,8 +9,8 @@ heroAlt: "Seaplane piloting is flying aircraft that take off from and land on wa
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"
-readingTime: 11
-wordCount: 3025
+readingTime: 14
+wordCount: 3231
 tier: "1"
 relatedArticles: ["aerodynamics", "aerospace-engineering", "aircraft-mechanics", "acoustics", "alternative-energy"]
 externalSources:
@@ -210,6 +210,16 @@ Seaplane flying has been declared dead multiple times since the 1950s, when pave
 **Urban seaplane services** are expanding. Several companies operate scheduled seaplane service between cities with waterfronts—New York to Boston, San Francisco Bay area, various routes in Southeast Asia. For distances of 100-300 miles between coastal cities, seaplanes offer door-to-door times competitive with airlines when you factor in airport security and transfer times.
 
 **Autonomous and remotely piloted seaplanes** are being developed for cargo delivery to remote communities. The [economics](/economics) of putting a human pilot on a small cargo run to a village of 50 people are challenging—autonomous seaplanes could make such service viable.
+
+## Common Mistakes New Float Pilots Make
+
+Most early seaplane errors trace back to one habit: flying the airplane like it's still on wheels. A few patterns show up again and again in training.
+
+Pulling back too hard during the takeoff run is the classic one. Land pilots are conditioned to rotate firmly, but on floats that pitches the bows up and plows water instead of letting the aircraft accelerate onto the step. The fix is patience — get on the step, hold the attitude, let speed build.
+
+Forgetting that there are no brakes is another. A seaplane keeps moving until water drag or the wind stops it. New pilots routinely approach docks far too fast, then realize there's nothing to stand on the pedals for. Experienced float pilots plan the approach so momentum runs out exactly where they want it to.
+
+Then there's complacency about glassy water and submerged hazards — the two conditions that punish overconfidence hardest. A pilot who has made 200 routine landings can still get caught flying into a mirror-smooth lake with no depth cue, or clipping a deadhead log just under the surface. Treating every water surface as unknown until proven otherwise is the mindset that keeps float pilots alive.
 
 ## The Romance and the Reality
 

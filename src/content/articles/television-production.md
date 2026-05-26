@@ -1,7 +1,7 @@
 ---
 title: "What Is Television Production?"
 slug: television-production
-description: "Television production is the process of creating TV content from concept to broadcast. Learn the stages, key roles, and how shows get made. Discover the key ..."
+description: "Television production is the complete process of creating television content — from the initial concept through writing, filming, editing."
 category: arts-amp-culture
 tags: ["television production", "tv production", "filmmaking", "media production", "broadcasting", "pre-production"]
 heroImage: "/images/articles/television-production-hero.webp"

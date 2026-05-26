@@ -1,7 +1,7 @@
 ---
 title: "What Is Process Engineering?"
 slug: process-engineering
-description: "Process engineering designs, optimizes, and controls industrial processes that turn raw materials into products through systematic methods. Discover the key ..."
+description: "Process engineering is the discipline of designing, operating, controlling, and optimizing industrial processes that transform raw materials into finished."
 category: technology
 tags: ["process engineering", "chemical engineering", "industrial engineering", "process control", "manufacturing", "optimization"]
 heroImage: "/images/articles/process-engineering-hero.webp"

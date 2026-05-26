@@ -1,7 +1,7 @@
 ---
 title: "What Is Roofing?"
 slug: roofing
-description: "Roofing is the craft of constructing and repairing the top covering of buildings. Learn about materials, roof types, and maintenance basics. Discover the key..."
+description: "Roofing is the construction, installation, and maintenance of the outermost covering of a building — the part that keeps rain, snow, sun, and wind out."
 category: everyday-concepts
 tags: ["roof", "roofing materials", "construction", "building", "home repair", "roof repair"]
 heroImage: "/images/articles/roofing-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Roofing?
 
-Roofing is the [construction](/construction), installation, and maintenance of the outermost covering of a building — the part that keeps rain, snow, sun, and wind out. It sounds simple, and conceptually it is: put something waterproof on top of the structure. But the details matter enormously. A well-built roof lasts decades and you never think about it. A poorly built one leaks, rots the structure underneath, grows mold, wastes energy, and can cost you tens of thousands of dollars to fix. Your roof is probably the most important part of your house that you never look at.
+Roofing is the [construction](/construction), installation, and maintenance of the outermost covering of a building — the part that keeps rain, snow, sun, and wind out. It sounds simple, and conceptually it is: put something waterproof on top of the structure. But the details matter enormously.
+
+A well-built roof lasts decades and you never think about it. A poorly built one leaks, rots the structure underneath, grows mold, wastes energy, and can cost you tens of thousands of dollars to fix. Your roof is probably the most important part of your house that you never look at.
 
 ## What a Roof Actually Does
 

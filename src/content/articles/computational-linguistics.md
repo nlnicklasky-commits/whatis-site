@@ -1,7 +1,7 @@
 ---
 title: "What Is Computational Linguistics?"
 slug: computational-linguistics
-description: "Computational linguistics combines linguistics and computer science to build systems that process, understand, and generate human language. Discover the key ..."
+description: "Computational linguistics is the scientific discipline that uses computational methods — algorithms, statistical models, and machine learning."
 category: technology
 tags: ["nlp", "ai", "linguistics", "computer science", "machine learning", "natural language processing", "data science"]
 heroImage: "/images/articles/computational-linguistics-hero.webp"

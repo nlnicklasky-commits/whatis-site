@@ -1,7 +1,7 @@
 ---
 title: "What Is Security Analysis?"
 slug: security-analysis
-description: "Security analysis evaluates financial instruments to determine their value and risk through fundamental analysis, technical analysis, and valuation. Discover..."
+description: "Security analysis is the systematic evaluation of financial instruments—stocks, bonds, options, and other securities—to determine their investment value."
 category: finance
 tags: ["security analysis", "investment", "finance", "stock market", "fundamental analysis", "technical analysis"]
 heroImage: "/images/articles/security-analysis-hero.webp"

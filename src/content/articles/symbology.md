@@ -31,7 +31,9 @@ faq:
 
 # What Is Symbology?
 
-Symbology is the study and interpretation of symbols — images, objects, marks, and gestures that represent ideas, beliefs, or concepts beyond their literal form. A cross isn't just two intersecting lines. A flag isn't just colored fabric. A wedding ring isn't just a gold band. Each carries layers of meaning that symbology seeks to unpack.
+Symbology is the study and interpretation of symbols — images, objects, marks, and gestures that represent ideas, beliefs, or concepts beyond their literal form. A cross isn't just two intersecting lines. A flag isn't just colored fabric.
+
+A wedding ring isn't just a gold band. Each carries layers of meaning that symbology seeks to unpack.
 
 Humans are symbol-making creatures. We've been investing objects and images with meaning since we first scratched marks on cave walls. Every [culture](/anthropology), religion, political movement, and corporation communicates through symbols. Understanding how they work — and why they're so powerful — is what symbology is about.
 

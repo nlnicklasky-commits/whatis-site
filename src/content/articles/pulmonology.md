@@ -1,7 +1,7 @@
 ---
 title: "What Is Pulmonology?"
 slug: pulmonology
-description: "Pulmonology is the medical specialty focused on the lungs and respiratory system. Learn about common lung diseases, diagnostic tests, and treatments. Discove..."
+description: "Pulmonology is the branch of medicine that deals with diseases and conditions of the respiratory system — your lungs, airways."
 category: health-amp-wellness
 tags: ["pulmonology", "respiratory system", "lungs", "asthma"]
 heroImage: "/images/articles/pulmonology-hero.webp"

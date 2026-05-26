@@ -1,7 +1,7 @@
 ---
 title: "What Is Hospitality Management?"
 slug: hospitality-management
-description: "Hospitality management covers running hotels, restaurants, and tourism businesses. Learn about careers, skills needed, and how the industry works. Discover t..."
+description: "Hospitality management is the business of making people feel welcome — specifically, managing the operations of hotels, restaurants, resorts, event venues."
 category: everyday-concepts
 tags: ["hospitality management", "hotels", "restaurants", "tourism", "customer service", "business"]
 heroImage: "/images/articles/hospitality-management-hero.webp"

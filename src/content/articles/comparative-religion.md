@@ -1,7 +1,7 @@
 ---
 title: "What Is Comparative Religion?"
 slug: comparative-religion
-description: "Comparative religion studies the world's religious traditions side by side to find shared themes, key differences, and how beliefs shape cultures. Discover t..."
+description: "Comparative religion is the academic discipline that studies the world's religious traditions systematically, examining their beliefs, practices, texts."
 category: philosophy
 tags: ["comparative religion", "religion", "religious studies", "theology", "faith", "spirituality", "culture"]
 heroImage: "/images/articles/comparative-religion-hero.webp"

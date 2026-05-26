@@ -1,7 +1,7 @@
 ---
 title: "What Is Spanish History?"
 slug: spanish-history
-description: "Spanish history covers millennia of invasions, empires, and cultural exchange. Learn about the Reconquista, the Golden Age, and modern Spain. Discover the ke..."
+description: "Spanish history is the story of the Iberian Peninsula's southwestern nation — a country shaped by wave after wave of invasion, cultural blending."
 category: history
 tags: ["spanish history", "spain", "european history", "reconquista"]
 heroImage: "/images/articles/spanish-history-hero.webp"

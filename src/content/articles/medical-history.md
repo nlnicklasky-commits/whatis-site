@@ -1,7 +1,7 @@
 ---
 title: "What Is Medical History?"
 slug: medical-history
-description: "Medical history traces the evolution of medicine from ancient herbal remedies and surgery to germ theory, antibiotics, and modern genomic treatments. Discove..."
+description: "Medical history is the study of how human understanding and treatment of disease, injury, and health have evolved over time."
 category: history
 tags: ["medicine", "medical history", "healthcare"]
 heroImage: "/images/articles/medical-history-hero.webp"

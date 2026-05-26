@@ -1,7 +1,7 @@
 ---
 title: "What Is Law?"
 slug: law
-description: "Law is the system of rules a society creates and enforces to regulate behavior, protect rights, resolve disputes, and maintain order. Discover the key facts,..."
+description: "Law is the system of rules that a society or government creates, recognizes, and enforces to regulate behavior, protect individual rights."
 category: law
 tags: ["legal system", "law", "justice", "governance", "civil rights", "courts"]
 heroImage: "/images/articles/law-hero.webp"

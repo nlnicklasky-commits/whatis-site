@@ -1,7 +1,7 @@
 ---
 title: "What Is Seasonal Cooking?"
 slug: seasonal-cooking
-description: "Seasonal cooking means preparing meals with ingredients at their peak harvest time. Learn why it tastes better, costs less, and helps the planet. Discover th..."
+description: "Seasonal cooking is the practice of building your meals around ingredients that are naturally available and at peak quality during the current time of year."
 category: everyday-concepts
 tags: ["seasonal food", "local food", "cooking", "fresh ingredients", "sustainability", "culinary arts"]
 heroImage: "/images/articles/seasonal-cooking-hero.webp"

@@ -35,7 +35,9 @@ faq:
 
 # What Is Quantitative Analysis?
 
-Quantitative analysis is the systematic use of mathematical models, statistical methods, and computational tools to examine numerical data, identify patterns, test hypotheses, and make data-driven decisions. It's the approach you use when you want to answer questions with numbers: How effective is this drug compared to a placebo? Is this investment strategy profitable? What factors predict student success? How fast is the climate warming? The discipline spans [statistics](/statistics), [mathematics](/mathematics), [finance](/finance), science, [engineering](/engineering), social science, and increasingly every field that generates measurable data.
+Quantitative analysis is the systematic use of mathematical models, statistical methods, and computational tools to examine numerical data, identify patterns, test hypotheses, and make data-driven decisions. It's the approach you use when you want to answer questions with numbers: How effective is this drug compared to a placebo? Is this investment strategy profitable?
+
+What factors predict student success? How fast is the climate warming? The discipline spans [statistics](/statistics), [mathematics](/mathematics), [finance](/finance), science, [engineering](/engineering), social science, and increasingly every field that generates measurable data.
 
 ## What Makes Analysis "Quantitative"
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Gardening?"
 slug: gardening
-description: "Gardening is the practice of growing plants for food, beauty, or enjoyment. Learn about techniques, garden types, soil basics, and getting started. Discover ..."
+description: "Gardening is the practice of growing and tending plants — flowers, vegetables, herbs, fruits, shrubs, and trees — in a defined space for food, beauty."
 category: everyday-concepts
 tags: ["gardening", "plants", "horticulture", "agriculture", "vegetables", "flowers"]
 heroImage: "/images/articles/gardening-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Gastronomy?"
 slug: gastronomy
-description: "Gastronomy is the study of food, cooking, and culture. Learn how this discipline connects cuisine, science, history, and the art of eating well. Discover the..."
+description: "Gastronomy is the study and appreciation of food and cooking as a cultural, scientific, and artistic practice."
 category: arts-amp-culture
 tags: ["gastronomy", "food", "culinary arts", "cooking", "food culture", "food science"]
 heroImage: "/images/articles/gastronomy-hero.webp"

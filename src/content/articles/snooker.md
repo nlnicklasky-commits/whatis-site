@@ -1,7 +1,7 @@
 ---
 title: "What Is Snooker?"
 slug: snooker
-description: "Snooker is a cue sport played on a large table with 22 balls, demanding precision and strategy. Learn the rules, scoring, and why millions watch it. Discover..."
+description: "Snooker is a cue sport played on a large baize-covered table (12 feet by 6 feet) where players use a cue stick to pot (pocket) colored balls in a specific."
 category: everyday-concepts
 tags: ["snooker", "cue sports", "billiards", "pool", "precision", "strategy"]
 heroImage: "/images/articles/snooker-hero.webp"

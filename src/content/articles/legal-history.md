@@ -1,7 +1,7 @@
 ---
 title: "What Is Legal History?"
 slug: legal-history
-description: "Legal history studies how laws, legal institutions, and judicial thinking have evolved across societies and centuries. Discover the key facts, history, and w..."
+description: "Legal history is the scholarly study of how laws, legal systems, and judicial institutions have developed and changed over time."
 category: history
 tags: ["law", "legal history", "jurisprudence", "courts", "civil rights"]
 heroImage: "/images/articles/legal-history-hero.webp"

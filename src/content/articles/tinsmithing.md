@@ -1,7 +1,7 @@
 ---
 title: "What Is Tinsmithing?"
 slug: tinsmithing
-description: "Tinsmithing is the craft of shaping thin metal sheets into functional and decorative objects. Learn the techniques, history, and modern applications. Discove..."
+description: "Tinsmithing is the craft of cutting, bending, shaping, and joining thin sheets of metal — traditionally tin-plated steel."
 category: arts-amp-culture
 tags: ["tinsmithing", "metalworking", "craft", "tinplate", "soldering", "sheet metal"]
 heroImage: "/images/articles/tinsmithing-hero.webp"

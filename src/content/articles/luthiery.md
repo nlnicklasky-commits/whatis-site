@@ -1,7 +1,7 @@
 ---
 title: "What Is Luthiery?"
 slug: luthiery
-description: "Luthiery is the craft of building and repairing stringed instruments like guitars, violins, and cellos. Learn about techniques, woods, and the trade. Discove..."
+description: "Luthiery is the art and craft of building stringed musical instruments — guitars, violins, cellos, mandolins, banjos, lutes, and their many relatives."
 category: arts-amp-culture
 tags: ["luthiery", "instrument making", "guitars", "violins", "woodworking", "music"]
 heroImage: "/images/articles/luthiery-hero.webp"

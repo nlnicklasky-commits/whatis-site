@@ -1,7 +1,7 @@
 ---
 title: "What Is Caving?"
 slug: caving
-description: "Caving (spelunking) is the recreational exploration of natural cave systems, involving climbing, crawling, and navigating underground passages. Discover the ..."
+description: "Caving — also called spelunking or potholing — is the recreational exploration of natural underground cave systems."
 category: sports
 tags: ["caving", "spelunking", "caves", "outdoor recreation", "adventure", "geology"]
 heroImage: "/images/articles/caving-hero.webp"

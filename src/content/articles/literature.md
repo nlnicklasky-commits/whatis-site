@@ -1,7 +1,7 @@
 ---
 title: "What Is Literature?"
 slug: literature
-description: "Literature is written work valued for its artistic merit and lasting significance. Learn what counts as literature, its forms, and why we study it. Discover ..."
+description: "Literature is written work that people value for its artistic quality, emotional impact, or lasting significance."
 category: arts-amp-culture
 tags: ["literature", "writing", "fiction", "poetry", "drama", "humanities"]
 heroImage: "/images/articles/literature-hero.webp"

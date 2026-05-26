@@ -9,8 +9,8 @@ heroAlt: "African history spans millions of years of human development, ancient 
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 7
-wordCount: 1825
+readingTime: 9
+wordCount: 2082
 tier: '2'
 relatedArticles: ["anthropology", "archaeology", "economics", "geography", "comparative-religion"]
 externalSources:
@@ -37,6 +37,14 @@ faq:
 African history encompasses the full human story on the world's second-largest continent — from the emergence of *Homo sapiens* over 300,000 years ago through ancient civilizations, medieval empires, the devastating impacts of slavery and colonialism, independence movements, and the complex realities of modern African nations.
 
 For too long, mainstream historical [education](/education) treated Africa as if its history began with European contact. That's not just wrong — it's absurdly wrong. Africa is where humanity itself began, where some of the earliest civilizations arose, and where empires of extraordinary wealth and sophistication flourished for centuries before Europeans arrived.
+
+## How We Even Know This Stuff
+
+Here's a question that trips people up: if so much of Africa's past wasn't written down in European-style archives, how do historians reconstruct it?
+
+The answer is that "written down" was never the only way to keep a record. West African griots — hereditary oral historians, also called *jeli* — memorized centuries of genealogies, royal successions, and epic narratives, passing them along word for word across generations. The Epic of Sundiata, which tells the founding of the Mali Empire in the 13th century, survived for roughly 700 years primarily through these performers before scholars transcribed it. That's not folklore standing in for history. It's a deliberate, trained system of record-keeping with its own checks against error.
+
+Historians cross-check oral tradition against other evidence: Arabic chronicles from travelers like Ibn Battuta (who visited Mali in 1352) and the geographer al-Bakri, [archaeology](/archaeology), linguistic analysis that tracks how languages split and spread, and physical records like the Timbuktu manuscripts. The reason so much of this got ignored for so long is partly that 19th- and early-20th-century European scholars dismissed non-written sources as unreliable — a bias that conveniently justified the claim that Africa "had no history." UNESCO's eight-volume *General History of Africa*, written largely by African scholars from the 1960s onward, was a direct correction to that. When people talk about decolonizing history as a field, this is a lot of what they mean.
 
 ## The Birthplace of Humanity
 

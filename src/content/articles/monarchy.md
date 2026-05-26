@@ -1,7 +1,7 @@
 ---
 title: "What Is Monarchy?"
 slug: monarchy
-description: "Monarchy is a form of government ruled by a king or queen. Learn about types, history, modern constitutional monarchies, and the ongoing debate. Discover the..."
+description: "Monarchy is a form of government in which a single person — a king, queen, emperor, or sultan — serves as head of state, usually for life."
 category: everyday-concepts
 tags: ["monarchy", "government", "royalty", "political systems", "constitutional monarchy", "history"]
 heroImage: "/images/articles/monarchy-hero.webp"

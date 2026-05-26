@@ -1,7 +1,7 @@
 ---
 title: "What Is Motorcycle Racing?"
 slug: motorcycle-racing
-description: "Motorcycle racing is competitive motorsport on two wheels, from MotoGP to motocross. Learn about disciplines, famous races, and the sport's appeal. Discover ..."
+description: "Motorcycle racing is competitive motorsport on two-wheeled vehicles, encompassing everything from grand prix circuit racing at 220 mph to motocross riders."
 category: sports
 tags: ["motorcycle racing", "motorsport", "motogp", "motocross", "road racing", "bike racing"]
 heroImage: "/images/articles/motorcycle-racing-hero.webp"

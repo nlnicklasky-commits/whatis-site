@@ -1,7 +1,7 @@
 ---
 title: "What Is Music Engineering?"
 slug: music-engineering
-description: "Music engineering is the technical craft behind recorded sound — from microphone placement to mixing and mastering. Here's how it works. Discover the key fac..."
+description: "Music engineering is the technical discipline of capturing, manipulating, and reproducing sound for musical recordings."
 category: technology
 tags: ["music engineering", "audio engineering", "sound engineering", "music production", "recording", "mixing", "mastering"]
 heroImage: "/images/articles/music-engineering-hero.webp"

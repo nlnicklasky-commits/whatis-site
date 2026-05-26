@@ -1,7 +1,7 @@
 ---
 title: "What Is Sailing?"
 slug: sailing
-description: "Sailing is the practice of using wind to propel a boat across water. Learn about the physics, boat types, racing, and how to get started. Discover the key fa..."
+description: "Sailing is the art and science of using wind to move a boat across water."
 category: sports
 tags: ["sailing", "sailboat", "yachting", "wind power", "nautical", "water sports"]
 heroImage: "/images/articles/sailing-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Sailing?
 
-Sailing is the art and science of using wind to move a boat across water. It's one of humanity's oldest technologies — civilizations have been sailing for at least 5,000 years — and one of the few sports where you're essentially harnessing a natural force rather than fighting against one. A sailboat converts invisible air movement into forward motion through [physics](/physics), [geometry](/geometry), and the sailor's judgment. No engine. No fuel. Just fabric, rope, and wind.
+Sailing is the art and science of using wind to move a boat across water. It's one of humanity's oldest technologies — civilizations have been sailing for at least 5,000 years — and one of the few sports where you're essentially harnessing a natural force rather than fighting against one. A sailboat converts invisible air movement into forward motion through [physics](/physics), [geometry](/geometry), and the sailor's judgment.
+
+No engine. No fuel. Just fabric, rope, and wind.
 
 ## The Physics (Briefly)
 

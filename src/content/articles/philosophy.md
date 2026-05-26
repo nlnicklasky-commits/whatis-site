@@ -31,7 +31,9 @@ faq:
 
 # What Is Philosophy?
 
-Philosophy is the systematic study of fundamental questions about existence, knowledge, values, reason, mind, and language. The word comes from the Greek *philosophia* — literally "love of wisdom." Unlike sciences that investigate specific aspects of the natural world, philosophy tackles questions that can't be settled by [running](/running) experiments: What makes something real? How do you know what you think you know? What does it mean to live a good life? Is there such a thing as objective truth?
+Philosophy is the systematic study of fundamental questions about existence, knowledge, values, reason, mind, and language. The word comes from the Greek *philosophia* — literally "love of wisdom." Unlike sciences that investigate specific aspects of the natural world, philosophy tackles questions that can't be settled by [running](/running) experiments: What makes something real? How do you know what you think you know?
+
+What does it mean to live a good life? Is there such a thing as objective truth?
 
 ## The Big Questions
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Knitting?"
 slug: knitting
-description: "Knitting is the craft of creating fabric by interlocking loops of yarn with needles. Learn about techniques, yarn types, and how to start knitting. Discover ..."
+description: "Knitting is the craft of creating fabric by interlocking loops of yarn using two or more needles."
 category: arts-amp-culture
 tags: ["knitting", "fiber arts", "yarn", "craft", "textile", "hobby"]
 heroImage: "/images/articles/knitting-hero.webp"

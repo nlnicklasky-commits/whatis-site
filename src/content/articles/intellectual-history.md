@@ -1,7 +1,7 @@
 ---
 title: "What Is Intellectual History?"
 slug: intellectual-history
-description: "Intellectual history studies how ideas develop and spread across time. Learn about key thinkers, movements, and why ideas shape civilizations. Discover the k..."
+description: "Intellectual history is the study of how ideas develop, spread, and shape human societies over time."
 category: everyday-concepts
 tags: ["intellectual history", "history of ideas", "philosophy", "culture", "thought"]
 heroImage: "/images/articles/intellectual-history-hero.webp"

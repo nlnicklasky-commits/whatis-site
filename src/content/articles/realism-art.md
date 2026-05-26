@@ -1,7 +1,7 @@
 ---
 title: "What Is Realism (Art)?"
 slug: realism-art
-description: "Realism is an art movement depicting everyday subjects truthfully, without idealization. Learn about Courbet, Millet, and its lasting impact. Discover the ke..."
+description: "Realism is an art movement that emerged in France in the 1840s-1850s, committed to depicting the world as it actually appeared — ordinary people."
 category: arts-amp-culture
 tags: ["realism art", "art movement", "19th century", "painting", "Gustave Courbet", "naturalism"]
 heroImage: "/images/articles/realism-art-hero.webp"

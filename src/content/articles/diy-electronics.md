@@ -1,7 +1,7 @@
 ---
 title: "What Is DIY Electronics?"
 slug: diy-electronics
-description: "DIY electronics is the practice of designing, building, and modifying electronic circuits and devices yourself using accessible tools and components. Discove..."
+description: "DIY electronics is the practice of designing, building, and modifying electronic circuits and devices on your own, typically using affordable components."
 category: technology
 tags: ["diy electronics", "electronics", "circuits", "arduino", "maker", "stem", "hobbyist"]
 heroImage: "/images/articles/diy-electronics-hero.webp"

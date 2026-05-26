@@ -31,7 +31,9 @@ faq:
 
 # What Is Haiku?
 
-Haiku is a form of Japanese [poetry](/poetry) that captures a single moment — usually involving nature — in three short lines. In English, the standard [teaching](/teaching) is 5 syllables, then 7, then 5 (17 total). In Japanese, it's actually 5-7-5 sound units called *on*, which are shorter than English syllables, but the principle is the same: say something meaningful in the smallest possible space. A good haiku makes you see something you've seen a thousand times as if for the first time. A great haiku does it in fewer than 20 words.
+Haiku is a form of Japanese [poetry](/poetry) that captures a single moment — usually involving nature — in three short lines. In English, the standard [teaching](/teaching) is 5 syllables, then 7, then 5 (17 total). In Japanese, it's actually 5-7-5 sound units called *on*, which are shorter than English syllables, but the principle is the same: say something meaningful in the smallest possible space.
+
+A good haiku makes you see something you've seen a thousand times as if for the first time. A great haiku does it in fewer than 20 words.
 
 ## The Elements
 

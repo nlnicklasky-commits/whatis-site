@@ -1,7 +1,7 @@
 ---
 title: "What Is Millinery?"
 slug: millinery
-description: "Millinery is the craft of designing and making hats. Learn about techniques, materials, history, and the art of creating headwear from scratch. Discover the ..."
+description: "Millinery is the art and craft of designing and constructing hats."
 category: arts-amp-culture
 tags: ["millinery", "hats", "fashion", "craft", "headwear", "design"]
 heroImage: "/images/articles/millinery-hero.webp"

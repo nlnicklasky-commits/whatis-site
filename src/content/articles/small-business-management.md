@@ -1,7 +1,7 @@
 ---
 title: "What Is Small Business Management?"
 slug: small-business-management
-description: "Small business management is the process of running a company with limited resources. Learn about planning, finances, hiring, and common pitfalls. Discover t..."
+description: "Small business management is the work of running a company that typically has fewer than 500 employees."
 category: business
 tags: ["small business", "management", "entrepreneurship", "business operations"]
 heroImage: "/images/articles/small-business-management-hero.webp"

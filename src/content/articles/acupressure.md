@@ -1,7 +1,7 @@
 ---
 title: "What Is Acupressure?"
 slug: acupressure
-description: "Acupressure is a traditional Chinese healing practice that applies pressure to specific body points to relieve pain and promote wellness. Discover the key fa..."
+description: "Acupressure is a traditional healing technique rooted in Chinese medicine that involves applying physical pressure — usually with fingers, thumbs."
 category: health-amp-wellness
 tags: ["acupressure", "traditional chinese medicine", "alternative medicine", "wellness"]
 heroImage: "/images/articles/acupressure-hero.webp"
@@ -9,8 +9,8 @@ heroAlt: "Acupressure is a traditional Chinese healing practice that applies pre
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 6
-wordCount: 1468
+readingTime: 10
+wordCount: 2139
 tier: '2'
 relatedArticles: ["anatomy", "health-science", "psychology", "biology", "hypnotherapy"]
 externalSources:
@@ -140,6 +140,32 @@ Common reasons people seek acupressure:
 - Stress and anxiety management
 - Sleep problems
 - Menstrual discomfort
+
+## Where Acupressure Came From
+
+Acupressure is older than acupuncture, at least in its crudest form. Long before anyone made thin needles, people pressed on sore spots with their fingers and noticed it helped. The systematized version grew up alongside the rest of [Traditional Chinese Medicine](/traditional-chinese-medicine), with the foundational text — the *Huangdi Neijing*, or *Yellow Emperor's Classic of Internal Medicine* — compiled roughly 2,000 years ago. That book laid out the meridian map and the point locations that practitioners still reference today.
+
+From China the ideas spread across East Asia and mutated as they traveled. Japan developed *anma* massage, which later evolved into shiatsu — the finger-pressure style most Westerners now picture when they hear "acupressure." The technique reached Europe and North America in waves, most prominently during the 1970s surge of interest in Chinese medicine that followed President Nixon's 1972 visit to China, when American journalists witnessed acupuncture used during surgery and brought the story home.
+
+What's striking is how little the core map has changed. The point a modern practitioner presses for nausea is the same Neiguan described in classical texts. Whether or not you accept the underlying theory, that continuity is genuinely unusual for any health practice.
+
+## Trying It at Home Safely
+
+You can experiment with basic acupressure on yourself with almost no risk, provided you follow a few sensible rules.
+
+Start with clean hands and trimmed nails — you're pressing, not scratching. Use the pad of your thumb or finger, find the point, and apply steady, firm pressure. It should feel like a deep ache or a "good hurt," never a sharp pain. Hold each point for one to three minutes, breathing slowly. You can press steadily or use small circular motions. Two or three sessions a day is plenty for something like a tension headache or motion sickness.
+
+A few things to skip. Don't press directly on broken skin, fresh bruises, varicose veins, swollen joints, or anything inflamed. If you're pregnant, avoid LI4 and SP6 entirely, since both are traditionally linked to triggering contractions — the evidence that they actually induce labor is thin, but there's no reason to take the chance. And if you have a clotting disorder or take blood thinners, go gentle, because firm sustained pressure can bruise.
+
+The bigger caution is about expectations, not safety. Acupressure is reasonable for everyday complaints — a queasy stomach, a stress headache, trouble winding down at night. It is not a treatment for chest pain, sudden severe headaches, numbness, or any symptom that could signal something serious. Those need a doctor, not a wristband. Think of self-acupressure the way you'd think of a hot bath or a [meditation](/meditation) break: a low-cost comfort measure that sometimes helps and rarely hurts, sitting comfortably alongside conventional care rather than in place of it.
+
+## Finding a Qualified Practitioner
+
+If you'd rather see someone than poke at your own wrist, the tricky part is that acupressure isn't licensed the way acupuncture is in most places. Anyone can call themselves an acupressure practitioner. That makes credentials worth checking.
+
+In the United States, many of the better-trained practitioners are licensed acupuncturists (L.Ac.) who also offer hands-on point work, or are certified in a specific style like shiatsu through an accredited program. Massage therapists with additional acupressure or [Traditional Chinese Medicine](/traditional-chinese-medicine) training are another reasonable route. Ask what they trained in, how long, and whether they hold any state license at all. A practitioner who promises to cure a named disease, pushes expensive multi-session packages up front, or discourages you from seeing your regular doctor is a red flag — those behaviors signal a sales pitch, not careful care.
+
+The cost is usually similar to a massage: somewhere around $60 to $120 for a 60-minute session in most US cities, often more in major metros. Insurance rarely covers it, though some integrative-medicine clinics attached to hospitals fold it into broader treatment plans.
 
 ## The Bottom Line
 

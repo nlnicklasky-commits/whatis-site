@@ -1,7 +1,7 @@
 ---
 title: "What Is SEO (Search Engine Optimization)?"
 slug: seo-search-engine-optimization
-description: "SEO is the practice of improving your website's visibility in search engine results through technical, content, and authority-building strategies. Discover t..."
+description: "SEO — search engine optimization — is the practice of improving a website's visibility in organic (unpaid) search engine results."
 category: technology
 tags: ["seo", "search engine optimization", "digital marketing", "google", "web traffic", "keywords", "ranking"]
 heroImage: "/images/articles/seo-search-engine-optimization-hero.webp"

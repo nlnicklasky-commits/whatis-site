@@ -31,7 +31,9 @@ faq:
 
 # What Is Graffiti Art?
 
-Graffiti art is the practice of creating visual works — letters, images, murals — on public surfaces, typically without permission. It exists in a tension that has never been resolved: it's simultaneously illegal property damage and one of the most influential art movements of the past 50 years. A city [government](/government) will spend millions removing graffiti from one neighborhood while commissioning murals in another. Banksy's works are protected by plexiglass by the same property owners who would call the police on any other person with a spray can. The contradiction is part of what makes graffiti fascinating.
+Graffiti art is the practice of creating visual works — letters, images, murals — on public surfaces, typically without permission. It exists in a tension that has never been resolved: it's simultaneously illegal property damage and one of the most influential art movements of the past 50 years. A city [government](/government) will spend millions removing graffiti from one neighborhood while commissioning murals in another.
+
+Banksy's works are protected by plexiglass by the same property owners who would call the police on any other person with a spray can. The contradiction is part of what makes graffiti fascinating.
 
 ## Origins
 

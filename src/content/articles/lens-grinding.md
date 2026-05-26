@@ -1,7 +1,7 @@
 ---
 title: "What Is Lens Grinding?"
 slug: lens-grinding
-description: "Lens grinding is the process of shaping glass or crystal into precision optical lenses. Learn its history, techniques, and role in science. Discover the key ..."
+description: "Lens grinding is the process of shaping a piece of glass, crystal, or other transparent material into a lens with precisely controlled curvature and surface."
 category: technology
 tags: ["lens grinding", "optics", "lenses", "telescope", "microscope", "precision manufacturing", "optical engineering"]
 heroImage: "/images/articles/lens-grinding-hero.webp"

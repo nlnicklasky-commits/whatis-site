@@ -1,7 +1,7 @@
 ---
 title: "What Is Paragliding?"
 slug: paragliding
-description: "Paragliding is a recreational flying sport using a lightweight fabric wing launched from hillsides. Learn about the gear, training, and experience. Discover ..."
+description: "Paragliding is a form of free flight where the pilot sits in a use suspended below a lightweight fabric wing, launching from hillsides, mountains."
 category: sports
 tags: ["paragliding", "adventure sport", "flight", "gliding", "outdoor recreation", "air sports"]
 heroImage: "/images/articles/paragliding-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Paragliding?
 
-Paragliding is a form of free flight where the pilot sits in a use suspended below a lightweight fabric wing, launching from hillsides, mountains, or by being towed aloft. There's no engine. No rigid frame. Just a curved canopy of nylon, some lines, and the same thermals and wind patterns that birds use to stay aloft. It's the simplest and most accessible form of piloted flight — the closest thing to strapping on wings and flying.
+Paragliding is a form of free flight where the pilot sits in a use suspended below a lightweight fabric wing, launching from hillsides, mountains, or by being towed aloft. There's no engine. No rigid frame.
+
+Just a curved canopy of nylon, some lines, and the same thermals and wind patterns that birds use to stay aloft. It's the simplest and most accessible form of piloted flight — the closest thing to strapping on wings and flying.
 
 ## How It Works
 

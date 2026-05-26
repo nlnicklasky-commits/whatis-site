@@ -1,7 +1,7 @@
 ---
 title: "What Is Surfing?"
 slug: surfing
-description: "Surfing is the sport of riding ocean waves on a board. Learn the basics, the history, the gear, and why surfers are so obsessed with the ocean. Discover the ..."
+description: "Surfing is the act of riding ocean waves while standing (or lying, or kneeling) on a surfboard."
 category: everyday-concepts
 tags: ["surfing", "ocean", "water sports", "waves", "balance", "beach culture"]
 heroImage: "/images/articles/surfing-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Film Theory?"
 slug: film-theory
-description: "Film theory examines how movies create meaning through image, sound, and editing. Explore key theories from formalism to feminist film criticism. Discover th..."
+description: "Film theory is the academic study of how cinema works — not the practical mechanics of operating cameras and editing software."
 category: everyday-concepts
 tags: ["film theory", "cinema studies", "semiotics", "auteur theory", "media studies", "aesthetics"]
 heroImage: "/images/articles/film-theory-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Film Theory?
 
-Film theory is the academic study of how cinema works — not the practical mechanics of operating cameras and [editing](/editing) software, but the deeper questions about how moving images create meaning, affect emotions, and reflect culture. Why does a close-up feel intimate? Why does a cut create a sense of time passing? How do movies shape our understanding of gender, race, and power? Film theory tries to answer these questions systematically.
+Film theory is the academic study of how cinema works — not the practical mechanics of operating cameras and [editing](/editing) software, but the deeper questions about how moving images create meaning, affect emotions, and reflect culture. Why does a close-up feel intimate? Why does a cut create a sense of time passing?
+
+How do movies shape our understanding of gender, race, and power? Film theory tries to answer these questions systematically.
 
 ## The Big Questions
 

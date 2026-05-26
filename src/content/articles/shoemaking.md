@@ -1,7 +1,7 @@
 ---
 title: "What Is Shoemaking?"
 slug: shoemaking
-description: "Shoemaking is the craft of designing and constructing footwear from leather and other materials. Learn about techniques, history, and modern methods. Discove..."
+description: "Shoemaking is the craft of designing and constructing footwear — turning flat pieces of leather, fabric, rubber."
 category: everyday-concepts
 tags: ["shoemaking", "footwear", "shoes", "craft", "leatherwork", "fashion"]
 heroImage: "/images/articles/shoemaking-hero.webp"

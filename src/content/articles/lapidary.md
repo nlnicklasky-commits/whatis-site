@@ -1,7 +1,7 @@
 ---
 title: "What Is Lapidary?"
 slug: lapidary
-description: "Lapidary is the art of cutting, shaping, and polishing stones and gems. Learn about techniques, equipment, and how to start working with gemstones. Discover ..."
+description: "Lapidary is the art and craft of cutting, shaping, and polishing stones — turning rough rocks into polished gems, cabochons, beads, and decorative objects."
 category: arts-amp-culture
 tags: ["lapidary", "gemstones", "rock cutting", "jewelry", "mineral collecting", "craft"]
 heroImage: "/images/articles/lapidary-hero.webp"

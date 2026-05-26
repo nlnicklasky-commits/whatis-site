@@ -1,7 +1,7 @@
 ---
 title: "What Is Screenwriting?"
 slug: screenwriting
-description: "Screenwriting is the craft of writing scripts for film and television. Learn about screenplay structure, formatting, and what makes a script work. Discover t..."
+description: "Screenwriting is the craft of writing scripts for film, television, and other visual media. A screenplay isn't a novel."
 category: arts-amp-culture
 tags: ["screenwriting", "screenplay", "film", "television", "script", "storytelling"]
 heroImage: "/images/articles/screenwriting-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Screenwriting?
 
-Screenwriting is the craft of [writing](/writing) scripts for film, television, and other visual media. A screenplay isn't a novel. It isn't a play. It's a blueprint — a set of instructions that tells directors, actors, cinematographers, and editors what to put on screen. Everything you see in a movie started as words on a page, written by someone who had to imagine visually while working in text.
+Screenwriting is the craft of [writing](/writing) scripts for film, television, and other visual media. A screenplay isn't a novel. It isn't a play.
+
+It's a blueprint — a set of instructions that tells directors, actors, cinematographers, and editors what to put on screen. Everything you see in a movie started as words on a page, written by someone who had to imagine visually while working in text.
 
 The screenplay communicates three things: what you see (action), what you hear (dialogue and sound), and where it happens (scene headings). That's it. No internal thoughts. No literary [prose](/prose). No commentary on themes. Just what the audience would experience if they were watching.
 

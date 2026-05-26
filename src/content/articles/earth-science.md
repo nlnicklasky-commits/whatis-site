@@ -1,7 +1,7 @@
 ---
 title: "What Is Earth Science?"
 slug: earth-science
-description: "Earth science is the study of our planet's physical systems, from rocks and oceans to weather and the atmosphere, and how they interact over time. Discover t..."
+description: "Earth science is the broad field of study concerned with the physical makeup and processes of planet Earth—its rocks, water, atmosphere."
 category: science
 tags: ["earth", "geology", "meteorology", "oceanography", "environmental science", "planet earth", "geosciences"]
 heroImage: "/images/articles/earth-science-hero.webp"

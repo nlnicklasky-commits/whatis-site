@@ -1,7 +1,7 @@
 ---
 title: "What Is Plasma Physics?"
 slug: plasma-physics
-description: "Plasma physics studies ionized gas — the fourth state of matter that makes up 99% of the visible universe, from stars to fusion reactors. Discover the key fa..."
+description: "Plasma physics is the study of ionized gases — matter in which atoms have been stripped of some or all of their electrons."
 category: science
 tags: ["physics", "plasma", "fusion", "astrophysics", "energy", "electromagnetism", "matter"]
 heroImage: "/images/articles/plasma-physics-hero.webp"

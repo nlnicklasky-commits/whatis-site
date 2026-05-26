@@ -1,7 +1,7 @@
 ---
 title: "What Is Nanotechnology?"
 slug: nanotechnology
-description: "Nanotechnology engineers materials and devices at the atomic scale. Learn how working at billionths of a meter is changing medicine and materials. Discover t..."
+description: "Nanotechnology is the science and engineering of manipulating matter at the nanoscale — roughly 1 to 100 nanometers."
 category: technology
 tags: ["nanotechnology", "nanomaterials", "nanoscience", "quantum physics", "materials science", "medicine"]
 heroImage: "/images/articles/nanotechnology-hero.webp"

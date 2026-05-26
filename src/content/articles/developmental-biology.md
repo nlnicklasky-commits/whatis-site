@@ -1,7 +1,7 @@
 ---
 title: What Is Developmental Biology?
 slug: developmental-biology
-description: "Developmental biology studies how organisms grow from a single cell into complex beings. Learn about embryos, genes, stem cells, and morphogenesis. Discover ..."
+description: "Developmental biology is the branch of biology that studies the processes by which organisms grow and develop from a single fertilized cell into a complex."
 category: science
 tags: ["developmental biology", "embryology", "biology", "genetics", "cell differentiation", "morphogenesis", "stem cells"]
 heroImage: "/images/articles/developmental-biology-hero.webp"

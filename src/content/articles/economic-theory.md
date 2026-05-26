@@ -1,7 +1,7 @@
 ---
 title: "What Is Economic Theory?"
 slug: economic-theory
-description: "Economic theory is a set of principles and models that explain how economies function, how people make choices, and how resources get allocated. Discover the..."
+description: "Economic theory is the body of principles, models, and frameworks that economists use to explain how individuals, firms."
 category: finance
 tags: ["economic theory", "economics", "microeconomics", "macroeconomics", "supply and demand", "scarcity", "rational choice"]
 heroImage: "/images/articles/economic-theory-hero.webp"

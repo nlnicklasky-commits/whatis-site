@@ -1,7 +1,7 @@
 ---
 title: "What Is Investment Management?"
 slug: investment-management
-description: "Investment management is the professional handling of securities and assets to meet financial goals. Learn about strategies, risks, and how it works. Discove..."
+description: "Investment management is the professional practice of managing a portfolio of financial assets—stocks, bonds, real estate, commodities."
 category: finance
 tags: ["investment management", "investing", "portfolio management", "wealth management", "asset management", "finance", "stocks"]
 heroImage: "/images/articles/investment-management-hero.webp"

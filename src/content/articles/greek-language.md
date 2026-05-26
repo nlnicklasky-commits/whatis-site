@@ -31,7 +31,9 @@ faq:
 
 # What Is the Greek Language?
 
-Greek is an Indo-European language with the longest documented history of any language in its family — over 3,400 years of continuous written records. It's the language of Homer, Plato, Aristotle, the New Proof, and modern Greece. About 13 million people speak it today, mostly in Greece and Cyprus. But Greek's influence extends far beyond its speaker population — it's donated more words to English than any language except Latin, and its alphabet became the ancestor of both the Latin and Cyrillic scripts. You're using Greek every time you say "democracy," "[philosophy](/philosophy)," "[biology](/biology)," or "technology."
+Greek is an Indo-European language with the longest documented history of any language in its family — over 3,400 years of continuous written records. It's the language of Homer, Plato, Aristotle, the New Proof, and modern Greece. About 13 million people speak it today, mostly in Greece and Cyprus.
+
+But Greek's influence extends far beyond its speaker population — it's donated more words to English than any language except Latin, and its alphabet became the ancestor of both the Latin and Cyrillic scripts. You're using Greek every time you say "democracy," "[philosophy](/philosophy)," "[biology](/biology)," or "technology."
 
 ## The Timeline
 

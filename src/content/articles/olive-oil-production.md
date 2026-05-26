@@ -1,7 +1,7 @@
 ---
 title: "What Is Olive Oil Production?"
 slug: olive-oil-production
-description: "Olive oil production transforms olives into oil through harvesting, pressing, and refining. Learn about grades, regions, and the process behind it. Discover ..."
+description: "Olive oil production is the process of extracting oil from the fruit of the olive tree (Olea europaea)."
 category: everyday-concepts
 tags: ["olive oil", "olive cultivation", "oil extraction", "mediterranean diet", "extra virgin olive oil", "agronomy"]
 heroImage: "/images/articles/olive-oil-production-hero.webp"

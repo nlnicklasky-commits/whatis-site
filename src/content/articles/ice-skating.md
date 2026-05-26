@@ -1,7 +1,7 @@
 ---
 title: "What Is Ice Skating?"
 slug: ice-skating
-description: "Ice skating is gliding on ice using bladed boots. Learn about figure skating, speed skating, recreational skating, and how to get started on the ice. Discove..."
+description: "Ice skating is moving across ice on metal-bladed boots, using the blade's thin edge to glide with remarkably little friction."
 category: sports
 tags: ["ice skating", "skates", "figure skating", "speed skating", "ice hockey", "winter sports"]
 heroImage: "/images/articles/ice-skating-hero.webp"

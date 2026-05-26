@@ -9,8 +9,8 @@ heroAlt: "Thesaurus construction is the process of building structured vocabular
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 7
-wordCount: 2006
+readingTime: 10
+wordCount: 2211
 tier: "2"
 relatedArticles: ["algorithms", "data-structures", "artificial-intelligence", "computational-linguistics", "machine-learning"]
 externalSources:
@@ -157,6 +157,16 @@ Subject experts review the thesaurus for accuracy and completeness. Test indexin
 ### Step 8: Maintain
 
 A thesaurus is never finished. New concepts emerge, terminology changes, and usage patterns shift. The Library of Congress adds or modifies thousands of headings every year. A thesaurus without active maintenance becomes increasingly obsolete — and an obsolete thesaurus is worse than no thesaurus at all, because it creates a false sense of order.
+
+## Where Thesaurus Builders Go Wrong
+
+A few mistakes show up again and again, and they're worth knowing because they quietly wreck otherwise careful work.
+
+The most common is over-specificity — creating narrow terms for concepts almost nobody searches for. If a term gets used to index two documents in a decade, it's clutter, not precision. The opposite error is just as bad: lumping distinct concepts under one broad term so that a search returns a pile of marginally relevant hits.
+
+Then there's the "false hierarchy" trap. Builders sometimes file a term under a broader term out of loose association rather than a true is-a relationship. "Hospitals" is not a narrower term of "Medicine" — a hospital isn't a kind of medicine. It's a related term. Getting this wrong breaks the logical inheritance that makes hierarchical searching work, since a search on the broader term is supposed to retrieve everything beneath it.
+
+Inconsistent application is the slow killer. Two indexers, given the same document, should assign the same terms. When they don't — and without clear scope notes and training, they won't — retrieval becomes unpredictable. This is why ANSI/NISO Z39.19 spends so much energy on documentation and review rather than just on term lists.
 
 ## Famous Thesauri and Controlled Vocabularies
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Prop Making?"
 slug: prop-making
-description: "Prop making is the craft of building objects used in theater, film, and TV productions. Learn the techniques, materials, and career paths. Discover the key f..."
+description: "Prop making is the craft of creating physical objects used by performers in theater, film, television, and related productions."
 category: arts-amp-culture
 tags: ["prop making", "props", "theater arts", "film production", "stagecraft", "set design"]
 heroImage: "/images/articles/prop-making-hero.webp"

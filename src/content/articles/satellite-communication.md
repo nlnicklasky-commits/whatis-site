@@ -9,8 +9,8 @@ heroAlt: "Satellite communication transmits signals via orbiting spacecraft"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"
-readingTime: 11
-wordCount: 3022
+readingTime: 14
+wordCount: 3259
 tier: "1"
 relatedArticles: ["aerospace-engineering", "amateur-radio", "digital-signal-processing", "cloud-computing", "communication-theory"]
 externalSources:
@@ -202,6 +202,14 @@ Satellite communication is in the middle of its biggest transformation since the
 **Software-defined satellites** can reconfigure their frequency plans, coverage areas, and capacity allocation on the fly via software updates. Traditional satellites are built with fixed configurations that can't change for their 15-year lifespan. Flexible satellites adapt to changing markets and demands.
 
 **Optical ground stations** using laser links between satellites and ground terminals promise higher bandwidth and lower probability of interception than radio frequency links. Atmospheric turbulence and clouds are challenges, but adaptive [optics](/optics) and site diversity are making ground-based laser links increasingly practical.
+
+## A Short History of Getting Here
+
+The whole industry started with a magazine article. In 1945, science fiction writer Arthur C. Clarke published a piece in *Wireless World* describing how three satellites in geostationary orbit could relay radio signals across the entire planet. He never patented it — a decision he later joked about — but the concept proved exactly right.
+
+The first real test came in 1962 with Telstar 1, a beach-ball-sized satellite that relayed the first live transatlantic television pictures between the United States and Europe. Telstar wasn't geostationary; it swung around Earth in a low elliptical orbit and was only usable for about 20 minutes per pass. Then in 1964, Syncom 3 became the first satellite to actually sit in geostationary orbit, and it broadcast the Tokyo Olympics to American viewers — the first major event carried live across an ocean by satellite.
+
+From there the pace picked up fast. Intelsat I ("Early Bird") opened commercial service in 1965 with capacity for a few hundred phone calls. By the 1980s, satellites carried the bulk of intercontinental voice traffic and the entire cable-TV distribution system. Undersea fiber later stole the high-volume point-to-point business, pushing satellites toward what they do uniquely well: reaching everywhere at once. The LEO broadband boom of the 2020s is, in a sense, a return to Clarke's original promise — connectivity anywhere — just with thousands of satellites instead of three.
 
 ## Should You Care About Satellite Communication?
 

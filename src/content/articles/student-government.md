@@ -1,7 +1,7 @@
 ---
 title: "What Is Student Government?"
 slug: student-government
-description: "Student government is a student-run organization that represents the student body at schools and colleges. Learn how it works and why it matters. Discover th..."
+description: "Student government is an organized body of students elected or appointed to represent the student population at a school, college, or university."
 category: education
 tags: ["student government", "education", "leadership", "student council", "elections", "school"]
 heroImage: "/images/articles/student-government-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Celtic History?"
 slug: celtic-history
-description: "Celtic history covers the Iron Age peoples who spread across Europe from 800 BCE, leaving lasting marks on language, art, law, and cultural identity. Discove..."
+description: "Celtic history is the study of the peoples who spoke Celtic languages and shared recognizable cultural patterns across a vast stretch of Europe."
 category: history
 tags: ["celtic history", "celts", "ancient history", "european history", "archaeology"]
 heroImage: "/images/articles/celtic-history-hero.webp"

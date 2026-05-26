@@ -1,7 +1,7 @@
 ---
 title: "What Is Espionage History?"
 slug: espionage-history
-description: "Espionage history tracks the evolution of spying from ancient civilizations through the Cold War to modern cyber intelligence operations. Discover the key fa..."
+description: "Espionage history is the study of how nations, rulers, and organizations have gathered secret information about their adversaries throughout human."
 category: history
 tags: ["espionage history", "spy", "intelligence", "covert operations", "cold war"]
 heroImage: "/images/articles/espionage-history-hero.webp"

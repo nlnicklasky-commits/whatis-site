@@ -1,7 +1,7 @@
 ---
 title: "What Is Upholstery?"
 slug: upholstery
-description: "Upholstery is the craft of padding and covering furniture with fabric, leather, or vinyl. Learn about materials, techniques, tools, and DIY basics. Discover ..."
+description: "Upholstery is the craft of providing furniture with padding, springs, webbing, and a fabric or leather covering."
 category: arts-amp-culture
 tags: ["upholstery", "furniture", "crafts", "fabric", "restoration", "interior design"]
 heroImage: "/images/articles/upholstery-hero.webp"

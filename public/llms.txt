@@ -77,22 +77,22 @@ No-signup calculators and converters. All math runs in the browser.
 - [What Is Investment Management?](/investment-management)
 - [What Is Contract Law?](/contract-law)
 - [What Is Accounting?](/accounting)
-- [What Is Inventory Management?](/inventory-management)
+- [What Is Venture Capital?](/venture-capital)
 
 ### Philosophy
 
 - [What Is Pragmatism?](/pragmatism)
+- [What Is Shamanism?](/shamanism)
 - [What Is Buddhism?](/buddhism)
+- [What Is Zoroastrianism?](/zoroastrianism)
 - [What Is Sikhism?](/sikhism)
-- [What Is Religion?](/religion)
-- [What Is Stoicism?](/stoicism)
 
 ### History
 
 - [What Is The Silk Road?](/silk-road)
-- [What Is African History?](/african-history)
 - [What Is American History?](/american-history)
 - [What Is Ancient Egyptian History?](/ancient-egyptian-history)
+- [What Is African History?](/african-history)
 - [What Is Alchemy?](/alchemy)
 
 ### Psychology
@@ -105,9 +105,9 @@ No-signup calculators and converters. All math runs in the browser.
 
 ### Health & Wellness
 
-- [What Is Acupuncture?](/acupuncture)
 - [What Is Allergies?](/allergies)
 - [What Is Acupressure?](/acupressure)
+- [What Is Acupuncture?](/acupuncture)
 - [What Is Sexual Health?](/sexual-health)
 - [What Is Self-Defense?](/self-defense)
 

@@ -1,7 +1,7 @@
 ---
 title: "What Is Media History?"
 slug: media-history
-description: "Media history traces how communication technologies evolved from printing presses and telegraphs to radio, TV, the internet, and social media. Discover the k..."
+description: "Media history is the study of how communication technologies and institutions have developed over time — and how those developments changed society."
 category: history
 tags: ["media", "journalism", "broadcasting"]
 heroImage: "/images/articles/media-history-hero.webp"

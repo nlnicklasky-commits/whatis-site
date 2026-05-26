@@ -1,7 +1,7 @@
 ---
 title: "What Is Performance Art?"
 slug: performance-art
-description: "Performance art is a live art form where the artist's body and actions become the medium. Learn about its history, key artists, and major works. Discover the..."
+description: "Performance art is a form of artistic expression in which the artist's actions, body, and presence — performed live before an audience."
 category: arts-amp-culture
 tags: ["performance art", "contemporary art", "live art", "conceptual art", "art performance", "body art"]
 heroImage: "/images/articles/performance-art-hero.webp"
@@ -31,7 +31,9 @@ faq:
 
 # What Is Performance Art?
 
-Performance art is a form of artistic expression in which the artist's actions, body, and presence — performed live before an audience — constitute the artwork itself. There's no canvas, no [sculpture](/sculpture), no object to hang on a wall. The art is what happens in a specific time and place, experienced by whoever is present, and then it's gone. It can be scripted or improvised, solo or collaborative, minutes long or stretching over days. What defines it is that the artist's live action is the medium.
+Performance art is a form of artistic expression in which the artist's actions, body, and presence — performed live before an audience — constitute the artwork itself. There's no canvas, no [sculpture](/sculpture), no object to hang on a wall. The art is what happens in a specific time and place, experienced by whoever is present, and then it's gone.
+
+It can be scripted or improvised, solo or collaborative, minutes long or stretching over days. What defines it is that the artist's live action is the medium.
 
 ## What It Looks Like (Or Doesn't)
 

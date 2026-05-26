@@ -1,7 +1,7 @@
 ---
 title: "What Is Socialism?"
 slug: socialism
-description: "Socialism advocates for collective or public ownership of production and more equal wealth distribution. Learn about its types, history, and debates. Discove..."
+description: "Socialism is a political and economic philosophy that advocates for collective or public ownership of the means of production (factories, land."
 category: politics
 tags: ["socialism", "economics", "political theory", "Marx", "collective ownership", "equality"]
 heroImage: "/images/articles/socialism-hero.webp"

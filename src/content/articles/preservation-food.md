@@ -1,7 +1,7 @@
 ---
 title: "What Is Preservation (Food)?"
 slug: preservation-food
-description: "Food preservation extends shelf life by stopping spoilage through methods like canning, freezing, drying, and fermentation. Discover the key facts, history, ..."
+description: "Food preservation is any method of treating food to slow or prevent spoilage caused by microorganisms (bacteria, molds, yeasts), enzymes, or oxidation."
 category: everyday-concepts
 tags: ["food preservation", "food storage", "canning", "freezing", "drying", "fermentation"]
 heroImage: "/images/articles/preservation-food-hero.webp"

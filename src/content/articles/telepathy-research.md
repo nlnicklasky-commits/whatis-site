@@ -1,7 +1,7 @@
 ---
 title: "What Is Telepathy Research?"
 slug: telepathy-research
-description: "Telepathy research is the scientific investigation of alleged mind-to-mind communication, studied within parapsychology using controlled experiments. Discove..."
+description: "Telepathy research is the systematic, experimental investigation of whether direct mind-to-mind communication is possible."
 category: science
 tags: ["telepathy research", "parapsychology", "esp", "extrasensory perception"]
 heroImage: "/images/articles/telepathy-research-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Exoplanetology?"
 slug: exoplanetology
-description: "Exoplanetology is the study of planets orbiting stars beyond our Sun. Learn about detection methods, habitable zones, and the search for alien life. Discover..."
+description: "Exoplanetology is the branch of astronomy and planetary science devoted to the study of exoplanets — planets that orbit stars other than our Sun."
 category: science
 tags: ["exoplanetology", "exoplanets", "astronomy", "space", "habitable zone", "astrobiology", "planet discovery"]
 heroImage: "/images/articles/exoplanetology-hero.webp"

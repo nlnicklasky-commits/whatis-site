@@ -1,7 +1,7 @@
 ---
 title: "What Is Thai History?"
 slug: thai-history
-description: "Thai history covers the rise of Sukhothai, Ayutthaya, and modern Thailand. Learn how Siam became the only Southeast Asian nation never colonized. Discover th..."
+description: "Thai history is the story of how a collection of Tai-speaking peoples migrated southward from what is now southern China."
 category: history
 tags: ["thai history", "thailand", "siam", "sukhothai", "southeast asia"]
 heroImage: "/images/articles/thai-history-hero.webp"

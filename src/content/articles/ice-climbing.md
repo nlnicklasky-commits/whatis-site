@@ -1,7 +1,7 @@
 ---
 title: "What Is Ice Climbing?"
 slug: ice-climbing
-description: "Ice climbing is ascending frozen waterfalls and ice formations using specialized gear. Learn about techniques, equipment, grading, and safety. Discover the k..."
+description: "Ice climbing is the sport of ascending frozen waterfalls, ice-covered rock faces, and glacial ice formations using specialized tools."
 category: sports
 tags: ["ice climbing", "mountaineering", "winter sports", "climbing", "ice axes", "crampons"]
 heroImage: "/images/articles/ice-climbing-hero.webp"

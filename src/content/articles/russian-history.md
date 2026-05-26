@@ -1,7 +1,7 @@
 ---
 title: "What Is Russian History?"
 slug: russian-history
-description: "Russian history spans over 1,100 years from medieval Kievan Rus to the modern Russian Federation, shaped by tsars, revolutions, and empire. Discover the key ..."
+description: "Russian history is the story of a civilization that grew from a collection of medieval trading settlements into the largest country on Earth."
 category: history
 tags: ["russia", "soviet union", "tsarist russia", "eastern europe"]
 heroImage: "/images/articles/russian-history-hero.webp"

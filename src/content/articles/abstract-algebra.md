@@ -1,7 +1,7 @@
 ---
 title: What Is Abstract Algebra?
 slug: abstract-algebra
-description: "Abstract algebra studies algebraic structures like groups, rings, and fields. Learn how this branch of math works and why it matters. Discover the key facts,..."
+description: "Abstract algebra is the branch of mathematics that studies algebraic structures — groups, rings, fields, and other systems."
 category: science
 tags: ["abstract algebra", "mathematics", "group theory", "rings", "fields", "math", "algebra"]
 heroImage: "/images/articles/abstract-algebra-hero.webp"

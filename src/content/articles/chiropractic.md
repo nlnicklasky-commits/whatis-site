@@ -1,7 +1,7 @@
 ---
 title: "What Is Chiropractic?"
 slug: chiropractic
-description: "Chiropractic is a healthcare profession focused on diagnosing and treating musculoskeletal disorders, primarily through manual spinal adjustments. Discover t..."
+description: "Chiropractic is a licensed healthcare profession that focuses on disorders of the musculoskeletal and nervous systems, particularly the spine."
 category: health-amp-wellness
 tags: ["chiropractic", "spinal health", "manual therapy", "alternative medicine"]
 heroImage: "/images/articles/chiropractic-hero.webp"

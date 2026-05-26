@@ -31,7 +31,9 @@ faq:
 
 # What Is Dried Flowers?
 
-Dried flowers are natural blooms that have been preserved through drying methods to maintain their shape and — to varying degrees — their color, for use in arrangements, crafts, and decoration. They're having a moment right now, but they're hardly new. Victorians pressed flowers obsessively. Ancient Egyptians placed dried floral garlands in tombs. Herbalists have dried plants for centuries. What's changed is that dried flowers have shifted from "dusty grandmother's house" aesthetic to genuinely stylish decor.
+Dried flowers are natural blooms that have been preserved through drying methods to maintain their shape and — to varying degrees — their color, for use in arrangements, crafts, and decoration. They're having a moment right now, but they're hardly new. Victorians pressed flowers obsessively.
+
+Ancient Egyptians placed dried floral garlands in tombs. Herbalists have dried plants for centuries. What's changed is that dried flowers have shifted from "dusty grandmother's house" aesthetic to genuinely stylish decor.
 
 ## Why They're Back
 

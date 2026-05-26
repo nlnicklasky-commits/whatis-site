@@ -1,7 +1,7 @@
 ---
 title: "What Is Polynesian Culture?"
 slug: polynesian-culture
-description: "Polynesian culture spans the Pacific islands from Hawaii to New Zealand, known for navigation, oral tradition, and deep ocean heritage. Discover the key fact..."
+description: "Polynesian culture is the shared cultural heritage of the indigenous peoples of Polynesia."
 category: arts-amp-culture
 tags: ["polynesia", "pacific islands", "indigenous culture", "oceania", "voyaging", "navigation"]
 heroImage: "/images/articles/polynesian-culture-hero.webp"

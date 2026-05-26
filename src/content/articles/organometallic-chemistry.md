@@ -1,7 +1,7 @@
 ---
 title: "What Is Organometallic Chemistry?"
 slug: organometallic-chemistry
-description: "Organometallic chemistry studies compounds with metal-carbon bonds, powering catalysis breakthroughs in pharmaceuticals, polymers, and green energy. Discover..."
+description: "Organometallic chemistry is the study of compounds that contain at least one direct bond between a metal atom and a carbon atom."
 category: science
 tags: ["organometallic chemistry", "catalysis", "organic synthesis", "metal-carbon bond", "inorganic chemistry", "homogeneous catalysis"]
 heroImage: "/images/articles/organometallic-chemistry-hero.webp"

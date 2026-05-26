@@ -1,7 +1,7 @@
 ---
 title: "What Is Fluid Dynamics?"
 slug: fluid-dynamics
-description: "Fluid dynamics studies how liquids and gases move, from airplane wings and ocean currents to blood flow and weather systems. Discover the key facts, history,..."
+description: "Fluid dynamics is the branch of physics that studies how fluids — both liquids and gases — move and the forces acting on them during that motion."
 category: science
 tags: ["physics", "engineering", "fluid mechanics", "aerodynamics", "hydrodynamics", "computational fluid dynamics"]
 heroImage: "/images/articles/fluid-dynamics-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Aviation History?"
 slug: aviation-history
-description: "Aviation history traces humanity's quest for flight from early gliders to supersonic jets, reshaping warfare, travel, and global commerce. Discover the key f..."
+description: "Aviation history is the story of how humans learned to fly — from mythological dreams and failed experiments to the Wright Brothers' 12-second flight in 1903."
 category: history
 tags: ["aviation history", "flight", "aircraft", "wright brothers", "aerospace"]
 heroImage: "/images/articles/aviation-history-hero.webp"

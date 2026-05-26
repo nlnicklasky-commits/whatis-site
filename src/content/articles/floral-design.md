@@ -1,7 +1,7 @@
 ---
 title: "What Is Floral Design?"
 slug: floral-design
-description: "Floral design is the art of arranging flowers and foliage into decorative compositions. Learn about styles, principles, and career opportunities. Discover th..."
+description: "Floral design is the art of arranging cut flowers, foliage, and other plant materials into aesthetically pleasing compositions."
 category: arts-amp-culture
 tags: ["floristry", "flowers", "arrangement", "design", "botanical art", "event decor"]
 heroImage: "/images/articles/floral-design-hero.webp"

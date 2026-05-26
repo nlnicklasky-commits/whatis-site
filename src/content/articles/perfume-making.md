@@ -1,7 +1,7 @@
 ---
 title: "What Is Perfume Making?"
 slug: perfume-making
-description: "Perfume making blends aromatic compounds to create fragrances. Learn about ingredients, extraction methods, and the art of scent composition. Discover the ke..."
+description: "Perfume making — or perfumery — is the art and science of creating fragrances by blending aromatic compounds derived from natural sources (flowers, woods."
 category: everyday-concepts
 tags: ["perfume making", "fragrance", "essential oils", "perfumery", "scent", "aromatics"]
 heroImage: "/images/articles/perfume-making-hero.webp"

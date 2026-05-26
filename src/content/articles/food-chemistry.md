@@ -1,7 +1,7 @@
 ---
 title: "What Is Food Chemistry?"
 slug: food-chemistry
-description: "Food chemistry studies the chemical makeup and reactions in food, covering proteins, fats, carbohydrates, flavor development, and food safety. Discover the k..."
+description: "Food chemistry is the branch of chemistry that studies the chemical composition of food, the chemical changes food undergoes during processing, cooking."
 category: science
 tags: ["food science", "chemistry", "nutrition", "food safety", "food processing", "biochemistry", "sensory science"]
 heroImage: "/images/articles/food-chemistry-hero.webp"

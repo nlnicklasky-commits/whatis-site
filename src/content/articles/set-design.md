@@ -1,7 +1,7 @@
 ---
 title: "What Is Set Design?"
 slug: set-design
-description: "Set design creates the physical environments for theater, film, and TV productions. Learn about the process, skills, and creative decisions involved. Discove..."
+description: "Set design — also called scenic design — is the art and craft of creating the physical environments where performances happen."
 category: arts-amp-culture
 tags: ["set design", "scenic design", "theater", "film", "television", "production design"]
 heroImage: "/images/articles/set-design-hero.webp"

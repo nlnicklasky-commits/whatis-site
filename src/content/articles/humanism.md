@@ -1,7 +1,7 @@
 ---
 title: "What Is Humanism?"
 slug: humanism
-description: "Humanism is a philosophy centered on human dignity, reason, and ethics without supernatural belief. Learn its history, principles, and modern forms. Discover..."
+description: "Humanism is a philosophical and ethical stance that emphasizes the value, agency, and rational capacity of human beings — centering morality, meaning."
 category: philosophy
 tags: ["humanism", "philosophy", "ethics", "secularism", "rationalism", "human flourishing", "critical thinking"]
 heroImage: "/images/articles/humanism-hero.webp"

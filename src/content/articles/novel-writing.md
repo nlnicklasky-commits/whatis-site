@@ -1,7 +1,7 @@
 ---
 title: "What Is Novel Writing?"
 slug: novel-writing
-description: "Novel writing is the craft of creating long-form fiction with developed characters, plot, and themes. Learn about structure, process, and publishing. Discove..."
+description: "Novel writing is the craft of creating a long-form work of fiction — typically 70,000 to 100,000 words — that tells a story through developed characters."
 category: everyday-concepts
 tags: ["novel writing", "fiction", "creative writing", "storytelling", "publishing", "literature"]
 heroImage: "/images/articles/novel-writing-hero.webp"

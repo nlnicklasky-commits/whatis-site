@@ -1,7 +1,7 @@
 ---
 title: "What Is Pollination?"
 slug: pollination
-description: "Pollination is the transfer of pollen from a flower's anther to its stigma, enabling plant reproduction and the production of fruits and seeds. Discover the ..."
+description: "Pollination is the transfer of pollen grains from the male part of a flower (the anther) to the female part (the stigma)."
 category: science
 tags: ["biology", "plants", "ecology", "pollinators", "reproduction", "agriculture", "ecosystems"]
 heroImage: "/images/articles/pollination-hero.webp"

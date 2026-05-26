@@ -31,7 +31,9 @@ faq:
 
 # What Is Metaphysics?
 
-Metaphysics is the branch of [philosophy](/philosophy) that investigates the fundamental nature of reality — what exists, what it means for something to exist, and how the basic categories of being relate to one another. It asks the biggest, most stubbornly unanswerable questions humans can formulate: Why is there something rather than nothing? What is consciousness? Do we have free will? Is the mind separate from the body? What is time?
+Metaphysics is the branch of [philosophy](/philosophy) that investigates the fundamental nature of reality — what exists, what it means for something to exist, and how the basic categories of being relate to one another. It asks the biggest, most stubbornly unanswerable questions humans can formulate: Why is there something rather than nothing? What is consciousness?
+
+Do we have free will? Is the mind separate from the body? What is time?
 
 The name comes from Aristotle — sort of. His students compiled his works on "first philosophy" (the study of being as being) and placed them after ("meta") his writings on [physics](/physics). "Metaphysics" literally means "after physics," though the discipline addresses questions that come *before* physics in a logical sense — questions about what reality fundamentally is, before you start measuring it.
 

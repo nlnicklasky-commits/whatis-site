@@ -31,7 +31,9 @@ faq:
 
 # What Is Set Theory?
 
-Set theory is the branch of [mathematics](/mathematics) that studies sets — collections of distinct objects considered as a whole. A set can contain anything: numbers, letters, people, ideas, or even other sets. The set of all even numbers. The set of planets in our solar system. The set of all words in this sentence. If you can define a clear rule for membership, you have a set.
+Set theory is the branch of [mathematics](/mathematics) that studies sets — collections of distinct objects considered as a whole. A set can contain anything: numbers, letters, people, ideas, or even other sets. The set of all even numbers.
+
+The set of planets in our solar system. The set of all words in this sentence. If you can define a clear rule for membership, you have a set.
 
 That sounds too simple to be important. But set theory is the foundation on which virtually all modern mathematics is built. Numbers, functions, geometric shapes, probability — all of these can be defined and constructed using sets. When mathematicians in the late 19th and early 20th centuries needed a rigorous foundation for mathematics, they built it from sets.
 

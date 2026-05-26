@@ -1,7 +1,7 @@
 ---
 title: "What Is The History of Warfare?"
 slug: the-history-of-warfare
-description: "The history of warfare traces how armed conflict evolved from ancient battles to modern hybrid warfare over 5,000 years. Discover the key facts, history, and..."
+description: "The history of warfare is the record of organized violence between human groups — and it's depressingly long."
 category: history
 tags: ["history of warfare", "military history", "war", "strategy", "weapons"]
 heroImage: "/images/articles/the-history-of-warfare-hero.webp"

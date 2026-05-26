@@ -1,7 +1,7 @@
 ---
 title: "What Is Film Criticism?"
 slug: film-criticism
-description: "Film criticism analyzes and evaluates movies through artistic, cultural, and technical lenses. Learn about its history, methods, and top critics. Discover th..."
+description: "Film criticism is the analysis and evaluation of movies as works of art, entertainment, and cultural expression."
 category: arts-amp-culture
 tags: ["film", "cinema", "review", "analysis", "evaluation", "media studies"]
 heroImage: "/images/articles/film-criticism-hero.webp"

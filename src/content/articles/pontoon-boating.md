@@ -1,7 +1,7 @@
 ---
 title: "What Is Pontoon Boating?"
 slug: pontoon-boating
-description: "Pontoon boating uses flat-decked boats supported by aluminum tubes for relaxed cruising on lakes and rivers. Here's what to know. Discover the key facts, his..."
+description: "A pontoon boat is a flat-decked watercraft supported by two or three aluminum tubes (pontoons) that keep it floating."
 category: sports
 tags: ["boating", "pontoon boat", "recreational boating", "lake life", "water sports", "cruising"]
 heroImage: "/images/articles/pontoon-boating-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Cross-Stitch?"
 slug: cross-stitch
-description: "Cross-stitch is a form of embroidery using X-shaped stitches on gridded fabric. Learn about techniques, patterns, materials, and modern trends. Discover the ..."
+description: "Cross-stitch is a form of embroidery where X-shaped stitches are sewn onto gridded fabric to create patterns and images."
 category: arts-amp-culture
 tags: ["cross-stitch", "embroidery", "needlework", "craft", "textile art", "hobby"]
 heroImage: "/images/articles/cross-stitch-hero.webp"

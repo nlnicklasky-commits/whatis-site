@@ -1,7 +1,7 @@
 ---
 title: "What Is Cognitive Psychology?"
 slug: cognitive-psychology
-description: "Cognitive psychology studies how people perceive, remember, think, speak, and solve problems through controlled experiments and mental models. Discover the k..."
+description: "Cognitive psychology is the branch of psychology that studies internal mental processes — how people perceive the world, store and retrieve memories."
 category: science
 tags: ["cognitive psychology", "psychology", "cognition", "mental processes", "memory", "attention", "problem-solving"]
 heroImage: "/images/articles/cognitive-psychology-hero.webp"

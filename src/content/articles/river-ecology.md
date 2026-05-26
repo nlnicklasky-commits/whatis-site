@@ -1,7 +1,7 @@
 ---
 title: "What Is River Ecology?"
 slug: river-ecology
-description: "River ecology studies how living organisms interact with each other and their flowing freshwater environment, from headwater streams to river deltas. Discove..."
+description: "River ecology is the scientific study of how living organisms interact with each other and with the physical and chemical conditions of flowing freshwater."
 category: science
 tags: ["river ecology", "freshwater", "aquatic ecosystems", "hydrology", "biodiversity", "conservation", "water quality"]
 heroImage: "/images/articles/river-ecology-hero.webp"

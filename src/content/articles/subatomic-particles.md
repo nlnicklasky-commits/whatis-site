@@ -1,7 +1,7 @@
 ---
 title: "What Is Subatomic Particles?"
 slug: subatomic-particles
-description: "Subatomic particles are the tiny building blocks smaller than atoms—quarks, leptons, and bosons—that make up all matter and force in the universe. Discover t..."
+description: "Subatomic particles are any particles smaller than an atom — the quarks, leptons."
 category: science
 tags: ["physics", "subatomic particles", "quantum mechanics", "particle physics", "standard model"]
 heroImage: "/images/articles/subatomic-particles-hero.webp"

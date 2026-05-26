@@ -1,7 +1,7 @@
 ---
 title: "What Is First Aid?"
 slug: first-aid
-description: "First aid is emergency care given before professional medical help arrives. Learn essential techniques for bleeding, burns, choking, and CPR. Discover the ke..."
+description: "First aid is the immediate care given to a person who has been injured or suddenly become ill, before professional medical treatment is available."
 category: everyday-concepts
 tags: ["first aid", "emergency care", "CPR", "medical training", "health", "safety"]
 heroImage: "/images/articles/first-aid-hero.webp"

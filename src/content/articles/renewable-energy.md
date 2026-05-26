@@ -39,7 +39,9 @@ faq:
 
 # What Is Renewable Energy?
 
-Renewable energy is energy generated from natural sources that replenish themselves over short timescales — sunlight, wind, water flow, geothermal heat, and biomass. Unlike fossil fuels (coal, oil, natural gas), which took millions of years to form and are being depleted far faster than they can regenerate, renewable sources are essentially inexhaustible on human timescales. The sun will keep shining for another 5 billion years. Wind will blow as long as the sun heats the atmosphere unevenly. Rivers will flow as long as the water cycle continues.
+Renewable energy is energy generated from natural sources that replenish themselves over short timescales — sunlight, wind, water flow, geothermal heat, and biomass. Unlike fossil fuels (coal, oil, natural gas), which took millions of years to form and are being depleted far faster than they can regenerate, renewable sources are essentially inexhaustible on human timescales. The sun will keep shining for another 5 billion years.
+
+Wind will blow as long as the sun heats the atmosphere unevenly. Rivers will flow as long as the water cycle continues.
 
 Here is the number that puts renewables in perspective: the sun delivers roughly 173,000 terawatts of energy to Earth's surface continuously. Total human energy consumption is about 18 terawatts. We receive nearly 10,000 times more solar energy than we use. The challenge was never whether renewable energy could meet human needs — the challenge was learning to capture, convert, store, and distribute it affordably. And frankly, that challenge has been largely solved for [electricity](/electricity) generation, which is why renewables are the fastest-growing energy source on the planet.
 

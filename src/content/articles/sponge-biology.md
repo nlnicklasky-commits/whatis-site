@@ -31,7 +31,9 @@ faq:
 
 # What Is Sponge [Biology](/biology)?
 
-Sponges — phylum Porifera, which literally means "pore-bearing" — are the simplest multicellular animals on Earth. They have no brain, no nervous system, no muscles, no organs, and no digestive system. They can't move. They don't even have true tissues in the way other animals do. And yet they've been extraordinarily successful for over 600 million years, they're found in virtually every aquatic habitat on the planet, and they produce chemical compounds that pharmaceutical companies spend billions trying to synthesize.
+Sponges — phylum Porifera, which literally means "pore-bearing" — are the simplest multicellular animals on Earth. They have no brain, no nervous system, no muscles, no organs, and no digestive system. They can't move.
+
+They don't even have true tissues in the way other animals do. And yet they've been extraordinarily successful for over 600 million years, they're found in virtually every aquatic habitat on the planet, and they produce chemical compounds that pharmaceutical companies spend billions trying to synthesize.
 
 If you think sponges are boring, you haven't been paying attention to sponges.
 

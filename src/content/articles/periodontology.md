@@ -1,7 +1,7 @@
 ---
 title: "What Is Periodontology?"
 slug: periodontology
-description: "Periodontology is the dental specialty focused on gum disease and the structures supporting teeth. Learn about periodontal treatment and prevention. Discover..."
+description: "Periodontology is the branch of dentistry that deals with the structures supporting your teeth — the gums (gingiva)."
 category: everyday-concepts
 tags: ["periodontology", "dental health", "gum disease", "oral health", "dentistry", "gingivitis"]
 heroImage: "/images/articles/periodontology-hero.webp"

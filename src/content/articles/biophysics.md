@@ -1,7 +1,7 @@
 ---
 title: "What Is Biophysics?"
 slug: biophysics
-description: "Biophysics uses physics methods to study biological systems. Learn about protein folding, cell membranes, molecular motors, and sensory perception. Discover ..."
+description: "Biophysics is the interdisciplinary science that applies the theories, methods, and mathematical tools of physics to understand how biological systems work."
 category: science
 tags: ["biophysics", "physics", "biology", "molecular biology", "protein folding", "cell membrane", "sensory perception"]
 heroImage: "/images/articles/biophysics-hero.webp"
@@ -35,7 +35,9 @@ faq:
 
 # What Is Biophysics?
 
-Biophysics is the interdisciplinary science that applies the theories, methods, and mathematical tools of [physics](/physics) to understand how biological systems work. It asks questions like: What forces hold a protein in its functional shape? How does a nerve cell generate an electrical signal? Why does DNA form a double helix? How can a single photon of light trigger a cascade of molecular events that lets you see? The answer to each of these questions requires physics — not just [biology](/biology) or [chemistry](/biochemistry), but the quantitative understanding of energy, force, and matter that physics provides.
+Biophysics is the interdisciplinary science that applies the theories, methods, and mathematical tools of [physics](/physics) to understand how biological systems work. It asks questions like: What forces hold a protein in its functional shape? How does a nerve cell generate an electrical signal?
+
+Why does DNA form a double helix? How can a single photon of light trigger a cascade of molecular events that lets you see? The answer to each of these questions requires physics — not just [biology](/biology) or [chemistry](/biochemistry), but the quantitative understanding of energy, force, and matter that physics provides.
 
 ## Why Biology Needs Physics
 

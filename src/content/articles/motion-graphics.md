@@ -1,7 +1,7 @@
 ---
 title: "What Is Motion Graphics?"
 slug: motion-graphics
-description: "Motion graphics combine animation and graphic design to create moving visuals for ads, films, apps, and explainer videos. Here's how it all works. Discover t..."
+description: "Motion graphics is the art of bringing graphic design to life through movement."
 category: technology
 tags: ["motion graphics", "animation", "graphic design", "video production", "digital art", "explainer video"]
 heroImage: "/images/articles/motion-graphics-hero.webp"

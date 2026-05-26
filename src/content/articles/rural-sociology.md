@@ -1,7 +1,7 @@
 ---
 title: "What Is Rural Sociology?"
 slug: rural-sociology
-description: "Rural sociology studies social life, institutions, and change in rural communities. Learn what rural sociologists research and why it matters. Discover the k..."
+description: "Rural sociology is the branch of sociology that studies the social structures, relationships, and changes in rural communities — places where agriculture."
 category: everyday-concepts
 tags: ["rural communities", "agriculture", "rural development", "social studies", "sociology", "community"]
 heroImage: "/images/articles/rural-sociology-hero.webp"

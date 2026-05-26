@@ -1,7 +1,7 @@
 ---
 title: "What Is Food Styling?"
 slug: food-styling
-description: "Food styling is the art of arranging food to look appealing for photography and video. Learn about techniques, tools, and career paths in the field. Discover..."
+description: "Food styling is the specialized practice of preparing and arranging food so it looks as appealing as possible for photographs, video, film, and advertising."
 category: arts-amp-culture
 tags: ["food", "photography", "culinary arts", "visual arts", "marketing", "styling"]
 heroImage: "/images/articles/food-styling-hero.webp"

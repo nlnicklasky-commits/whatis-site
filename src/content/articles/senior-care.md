@@ -1,7 +1,7 @@
 ---
 title: "What Is Senior Care?"
 slug: senior-care
-description: "Senior care encompasses the services, support systems, and medical attention designed to help older adults live safely and with dignity. Discover the key fac..."
+description: "Senior care is the broad category of services, support systems, and medical attention designed to help older adults maintain their health, safety."
 category: health-amp-wellness
 tags: ["senior care", "elder care", "gerontology", "assisted living"]
 heroImage: "/images/articles/senior-care-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Portrait Photography?"
 slug: portrait-photography
-description: "Portrait photography captures people's likeness, personality, and mood through deliberate composition and lighting. Here's how it works. Discover the key fac..."
+description: "Portrait photography is the practice of capturing images of people with the intent of conveying their likeness, personality, mood, or story."
 category: arts-amp-culture
 tags: ["portrait photography", "photography", "portraiture", "studio photography", "environmental portrait", "headshots"]
 heroImage: "/images/articles/portrait-photography-hero.webp"

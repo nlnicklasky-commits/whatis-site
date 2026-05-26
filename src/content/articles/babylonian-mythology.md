@@ -1,7 +1,7 @@
 ---
 title: "What Is Babylonian Mythology?"
 slug: babylonian-mythology
-description: "Babylonian mythology is the collection of myths, gods, and creation stories from ancient Mesopotamia, including the Epic of Gilgamesh. Discover the key facts..."
+description: "Babylonian mythology is the body of myths, religious narratives, and cosmological stories produced by the ancient Babylonian civilization in Mesopotamia."
 category: history
 tags: ["babylonian mythology", "ancient mesopotamia", "epic of gilgamesh", "ancient religions"]
 heroImage: "/images/articles/babylonian-mythology-hero.webp"

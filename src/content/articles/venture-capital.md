@@ -1,7 +1,7 @@
 ---
 title: "What Is Venture Capital?"
 slug: venture-capital
-description: "Venture capital is high-risk investment in early-stage startups. Learn how VC funds work, deal stages, term sheets, and what founders should know. Discover t..."
+description: "Venture capital is a form of private equity financing where investors provide money to early-stage."
 category: finance
 tags: ["venture capital", "investing", "startups", "finance", "entrepreneurship"]
 heroImage: "/images/articles/venture-capital-hero.webp"
@@ -9,8 +9,8 @@ heroAlt: "Venture capital is high-risk investment in early-stage startups"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
-readingTime: 10
-wordCount: 2508
+readingTime: 14
+wordCount: 3157
 tier: '1'
 relatedArticles: ["entrepreneurship", "corporate-finance", "investment-management", "private-equity", "financial-planning"]
 externalSources:
@@ -177,6 +177,33 @@ Venture capital isn't the only option for startups, and honestly, it's wrong for
 **Crowdfunding** — platforms like Kickstarter (for products) or Republic/Wefunder (for equity). Useful for consumer products with broad appeal.
 
 **[Personal finance](/personal-finance) and savings** — the original startup funding mechanism, and still the most common. Most businesses in the world start with the founder's own money.
+
+## Where Venture Capital Came From
+
+The modern industry is younger than most people assume. The first true venture firm, American Research and Development Corporation (ARDC), was founded in 1946 by Georges Doriot, a Harvard Business School professor often called "the father of venture capital." ARDC's 1957 investment of $70,000 in Digital Equipment Corporation grew to more than $355 million by the time DEC went public — a return of over 500x that demonstrated, for the first time, what a single outlier could do for a fund.
+
+The structure that defines the industry today came from a 1958 law. The Small Business Investment Company Act let the federal [government](/government) license and back private investment funds, which jump-started professional VC. The limited-partnership model — the "2 and 20" arrangement still used today — took hold in the 1960s and 1970s along Sand Hill Road near Stanford. Firms like Kleiner Perkins (1972) and Sequoia Capital (1972) set up shop there, and the proximity to Stanford's [engineering](/engineering) talent helped seed the entire Silicon Valley ecosystem.
+
+The personal-computer and internet booms turned VC from a niche into a major asset class. The dot-com bubble of 1999-2000 was a brutal lesson — funds raised in 1999 mostly lost money — but the survivors funded the next wave: Google, Salesforce, and eventually the mobile and cloud giants.
+
+## What Raising a Round Actually Feels Like
+
+The textbook describes stages and term sheets cleanly. The lived experience is messier. Founders describe fundraising as a second full-time job layered on top of running the company, lasting three to six months of near-constant rejection. You pitch 40 investors to get a handful of second meetings, and most of those go nowhere.
+
+The mood flips the moment one credible firm commits. VCs hate being the only believer and love being part of a competitive deal — so a single term sheet often triggers others quickly. This is why timing matters so much. Founders try to run a tight process, meeting investors in parallel rather than one at a time, to create the sense of momentum that gets deals closed.
+
+A few mistakes show up over and over, and they're worth flagging if you ever sit on the founder's side of the table:
+
+- **Optimizing for valuation alone.** A sky-high valuation sets a bar you then have to clear in the next round. Miss it, and you face a "down round" that crushes morale and triggers anti-dilution penalties.
+- **Raising too much.** Big rounds feel like validation, but they raise expectations and dilute founders. Capital you don't need yet is rarely free.
+- **Ignoring the terms behind the headline number.** As the term-sheet section explained, a liquidation preference or aggressive anti-dilution clause can quietly transfer most of an exit's value to investors.
+- **Picking the wrong partner.** You're not just taking money — you're adding someone to your board for the better part of a decade. The wrong fit is hard to undo.
+
+## How VC Differs From Other Funding
+
+It helps to place venture capital next to its neighbors. [Private equity](/private-equity) buys mature, often profitable companies — frequently using debt — and aims to improve operations before selling. VC buys minority stakes in unprofitable, fast-growing young companies and expects most to fail. Bank lending wants predictable cash flow to service a loan; a pre-revenue startup has none, which is exactly why debt rarely works for them. And public-market [investing](/investment-management) trades liquid shares anyone can buy and sell daily, while VC stakes are locked up for years.
+
+That illiquidity is the whole point, not a flaw. VCs are paid to hold through the long, uncertain period when a company is figuring out whether it can become enormous — a stretch that public markets and lenders have little appetite for.
 
 ## What Makes a Good VC (From a Founder's Perspective)
 

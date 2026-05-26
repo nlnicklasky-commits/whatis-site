@@ -1,7 +1,7 @@
 ---
 title: "What Is Food Science?"
 slug: food-science
-description: "Food science applies biology, chemistry, and engineering to understand food production, preservation, safety, and nutrition from farm to fork. Discover the k..."
+description: "Food science is the applied discipline that uses biology, chemistry, and engineering to study the nature of food, the causes of its deterioration."
 category: science
 tags: ["food", "food safety", "nutrition", "food processing", "food preservation", "microbiology", "food engineering"]
 heroImage: "/images/articles/food-science-hero.webp"

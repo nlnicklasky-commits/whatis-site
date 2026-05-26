@@ -1,7 +1,7 @@
 ---
 title: "What Is Occupational Therapy?"
 slug: occupational-therapy
-description: "Occupational therapy helps people perform daily activities after injury, illness, or disability. Learn about OT methods, settings, and who benefits. Discover..."
+description: "Occupational therapy (OT) is a healthcare profession that helps people of all ages participate in the activities they need and want to do."
 category: health-amp-wellness
 tags: ["occupational therapy", "rehabilitation", "healthcare", "therapy"]
 heroImage: "/images/articles/occupational-therapy-hero.webp"

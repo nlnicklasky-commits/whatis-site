@@ -1,7 +1,7 @@
 ---
 title: "What Is Optimization?"
 slug: optimization
-description: "Optimization is finding the best solution from a set of possibilities given constraints. Learn about its methods, applications, and why it matters. Discover ..."
+description: "Optimization is the process of finding the best possible solution to a problem from a set of available alternatives, usually subject to constraints."
 category: everyday-concepts
 tags: ["optimization", "mathematics", "operations research", "algorithms", "decision making", "efficiency"]
 heroImage: "/images/articles/optimization-hero.webp"

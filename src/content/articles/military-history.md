@@ -1,7 +1,7 @@
 ---
 title: "What Is Military History?"
 slug: military-history
-description: "Military history studies warfare, strategy, and armed forces across time. Learn how battles, technology, and military thinking shaped civilizations. Discover..."
+description: "Military history is the study of warfare — its causes, conduct, consequences, and the armed forces, strategies, technologies, and human experiences involved."
 category: history
 tags: ["history", "military history", "warfare"]
 heroImage: "/images/articles/military-history-hero.webp"

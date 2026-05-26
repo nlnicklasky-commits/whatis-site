@@ -1,7 +1,7 @@
 ---
 title: "What Is K'nex?"
 slug: knex
-description: "K'nex is a construction toy system using rods and connectors to build 3D models. Learn about its history, building techniques, and educational value. Discove..."
+description: "K'nex is a construction toy system built around a simple but clever idea: rods of different lengths snap into connectors at fixed angles."
 category: everyday-concepts
 tags: ["knex", "construction toys", "STEM education", "building", "engineering"]
 heroImage: "/images/articles/knex-hero.webp"

@@ -31,7 +31,9 @@ faq:
 
 # What Is Speech [Writing](/writing)?
 
-Speech writing is the craft of composing words meant to be spoken aloud to an audience. That distinction — written to be spoken, not read — changes everything about how you write. Sentences need to be shorter. Ideas need to land on first hearing because your audience can't reread a paragraph. Rhythm matters in ways it doesn't on a page. And the words need to sound like they're coming from a specific human being, not a committee.
+Speech writing is the craft of composing words meant to be spoken aloud to an audience. That distinction — written to be spoken, not read — changes everything about how you write. Sentences need to be shorter.
+
+Ideas need to land on first hearing because your audience can't reread a paragraph. Rhythm matters in ways it doesn't on a page. And the words need to sound like they're coming from a specific human being, not a committee.
 
 Humans have been giving speeches for thousands of years. Aristotle wrote *[Rhetoric](/rhetoric)* in the 4th century BCE, laying out principles of persuasion that speechwriters still follow today. But modern professional speech writing — one person writing words that another person delivers — is largely a 20th-century development, driven by the demands of political communication and corporate [leadership](/leadership).
 

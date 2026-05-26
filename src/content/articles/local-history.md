@@ -1,7 +1,7 @@
 ---
 title: "What Is Local History?"
 slug: local-history
-description: "Local history is the study of past events, people, and changes within a specific community, town, county, or region over time. Discover the key facts, histor..."
+description: "Local history is the study of the past as it unfolded in a specific place — a town, neighborhood, county, or region."
 category: history
 tags: ["community history", "local history", "heritage", "genealogy", "archives"]
 heroImage: "/images/articles/local-history-hero.webp"

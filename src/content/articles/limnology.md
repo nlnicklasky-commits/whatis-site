@@ -1,7 +1,7 @@
 ---
 title: "What Is Limnology?"
 slug: limnology
-description: "Limnology is the study of inland waters including lakes, rivers, and wetlands. Learn about freshwater science, water quality, and aquatic ecosystems. Discove..."
+description: "Limnology is the scientific study of inland waters—lakes, ponds, rivers, streams, wetlands, and reservoirs."
 category: science
 tags: ["limnology", "freshwater", "lakes", "rivers", "aquatic ecology", "water quality", "environmental science"]
 heroImage: "/images/articles/limnology-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Falconry?"
 slug: falconry
-description: "Falconry is the ancient art of hunting with trained birds of prey. Learn about its 4,000-year history, techniques, and modern practice. Discover the key fact..."
+description: "Falconry is the practice of hunting wild game using trained birds of prey — falcons, hawks, eagles, and sometimes owls."
 category: sports
 tags: ["birds of prey", "raptors", "hunting", "avian", "conservation", "traditional sport"]
 heroImage: "/images/articles/falconry-hero.webp"

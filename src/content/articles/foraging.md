@@ -1,7 +1,7 @@
 ---
 title: "What Is Foraging?"
 slug: foraging
-description: "Foraging is gathering wild food from natural environments. Learn about edible plants, mushrooms, safety rules, and how to start foraging responsibly. Discove..."
+description: "Foraging is the practice of gathering wild food from natural environments — plants, mushrooms, fruits, nuts, seaweed, and occasionally insects or shellfish."
 category: everyday-concepts
 tags: ["wild food", "edible plants", "mushrooms", "nature", "sustainability", "self-sufficiency"]
 heroImage: "/images/articles/foraging-hero.webp"

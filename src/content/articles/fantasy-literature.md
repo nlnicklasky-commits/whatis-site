@@ -1,7 +1,7 @@
 ---
 title: "What Is Fantasy Literature?"
 slug: fantasy-literature
-description: "Fantasy literature features imaginary worlds, magic, and mythical creatures. Explore the genre's history from ancient myths to modern bestsellers. Discover t..."
+description: "Fantasy literature is fiction that uses magic, supernatural phenomena, or imaginary worlds as central elements of the story."
 category: arts-amp-culture
 tags: ["literature", "fiction", "magic", "imaginary worlds", "mythology", "speculative fiction"]
 heroImage: "/images/articles/fantasy-literature-hero.webp"

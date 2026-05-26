@@ -1,7 +1,7 @@
 ---
 title: "What Is The History of Mathematics?"
 slug: the-history-of-mathematics
-description: "The history of mathematics spans from ancient counting systems to modern abstractions, covering geometry, algebra, calculus, and beyond. Discover the key fac..."
+description: "The history of mathematics is the story of how humans went from counting sheep to proving that some infinities are bigger than others."
 category: history
 tags: ["history of mathematics", "mathematics", "geometry", "algebra", "calculus"]
 heroImage: "/images/articles/the-history-of-mathematics-hero.webp"

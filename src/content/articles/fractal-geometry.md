@@ -1,7 +1,7 @@
 ---
 title: "What Is Fractal Geometry?"
 slug: fractal-geometry
-description: "Fractal geometry studies shapes with self-similar patterns at every scale. Learn how fractals work in math, nature, art, and computer graphics. Discover the ..."
+description: "Fractal geometry is a branch of mathematics that studies shapes and structures exhibiting self-similarity."
 category: science
 tags: ["mathematics", "geometry", "fractals", "chaos theory", "self-similarity", "patterns", "computer graphics"]
 heroImage: "/images/articles/fractal-geometry-hero.webp"

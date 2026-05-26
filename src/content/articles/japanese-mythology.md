@@ -1,7 +1,7 @@
 ---
 title: "What Is Japanese Mythology?"
 slug: japanese-mythology
-description: "Japanese mythology includes Shinto creation stories, kami spirits, and Buddhist legends that shaped Japanese culture. Learn about key gods and tales. Discove..."
+description: "Japanese mythology is the collection of creation stories, divine narratives, and supernatural tales drawn primarily from Shinto (Japan's indigenous religion)."
 category: everyday-concepts
 tags: ["japanese mythology", "Shinto", "kami", "folklore", "Japanese culture"]
 heroImage: "/images/articles/japanese-mythology-hero.webp"

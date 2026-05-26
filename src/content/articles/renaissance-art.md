@@ -1,7 +1,7 @@
 ---
 title: "What Is Renaissance Art?"
 slug: renaissance-art
-description: "Renaissance art was the cultural rebirth of classical ideals in 14th-17th century Europe, producing works by Da Vinci, Michelangelo, and Raphael. Discover th..."
+description: "Renaissance art refers to the painting, sculpture, and architecture produced in Europe — primarily Italy — between roughly 1300 and 1600."
 category: arts-amp-culture
 tags: ["renaissance art", "art history", "Leonardo da Vinci", "Michelangelo", "painting", "sculpture"]
 heroImage: "/images/articles/renaissance-art-hero.webp"

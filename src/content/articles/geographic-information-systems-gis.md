@@ -1,7 +1,7 @@
 ---
 title: "What Is Geographic Information Systems (GIS)?"
 slug: geographic-information-systems-gis
-description: "GIS captures, stores, analyzes, and visualizes geographic data, turning location-based information into maps, insights, and spatial decisions. Discover the k..."
+description: "A Geographic Information System (GIS) is a framework for gathering, managing, analyzing, and visualizing data linked to geographic locations."
 category: technology
 tags: ["gis", "geographic information systems", "spatial data", "mapping", "geography", "data analysis", "cartography"]
 heroImage: "/images/articles/geographic-information-systems-gis-hero.webp"

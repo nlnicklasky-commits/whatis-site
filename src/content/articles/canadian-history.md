@@ -1,7 +1,7 @@
 ---
 title: "What Is Canadian History?"
 slug: canadian-history
-description: "Canadian history traces the development of Canada from Indigenous civilizations through European colonization, confederation, and modern nationhood. Discover..."
+description: "Canadian history is the story of the land, peoples, and events that shaped Canada."
 category: history
 tags: ["canadian history", "canada", "indigenous peoples", "confederation"]
 heroImage: "/images/articles/canadian-history-hero.webp"

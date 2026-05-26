@@ -1,7 +1,7 @@
 ---
 title: "What Is Podcasting?"
 slug: podcasting
-description: "Podcasting is creating and distributing audio content online via RSS feeds, letting listeners subscribe and download episodes on demand. Discover the key fac..."
+description: "Podcasting is the creation and distribution of episodic audio content that listeners can subscribe to, download, and listen to at their convenience."
 category: technology
 tags: ["audio", "digital media", "content creation", "broadcasting", "entertainment", "information"]
 heroImage: "/images/articles/podcasting-hero.webp"

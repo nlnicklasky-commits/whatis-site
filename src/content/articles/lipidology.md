@@ -1,7 +1,7 @@
 ---
 title: "What Is Lipidology?"
 slug: lipidology
-description: "Lipidology is the medical specialty focused on diagnosing and treating disorders of blood lipids like cholesterol and triglycerides. Discover the key facts, ..."
+description: "Lipidology is the branch of medicine dedicated to the study, diagnosis, and treatment of lipid disorders."
 category: health-amp-wellness
 tags: ["medicine", "lipidology", "cholesterol", "cardiovascular health", "nutrition"]
 heroImage: "/images/articles/lipidology-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Playwriting?"
 slug: playwriting
-description: "Playwriting is the craft of writing scripts for theatrical performance. Learn about structure, dialogue, and what separates stage writing from prose. Discove..."
+description: "Playwriting is the art and craft of writing scripts intended for live theatrical performance."
 category: arts-amp-culture
 tags: ["theater", "drama", "scriptwriting", "writing", "performing arts", "storytelling"]
 heroImage: "/images/articles/playwriting-hero.webp"

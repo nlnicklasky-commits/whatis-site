@@ -1,7 +1,7 @@
 ---
 title: "What Is Restoration (Art)?"
 slug: restoration-art
-description: "Art restoration is the process of repairing, cleaning, and preserving damaged or deteriorating artworks. Learn the techniques and ethical debates. Discover t..."
+description: "Art restoration — more precisely called conservation-restoration — is the examination, treatment, and preservation of cultural artifacts including paintings."
 category: arts-amp-culture
 tags: ["restoration art", "conservation", "art preservation", "museums", "painting", "repair"]
 heroImage: "/images/articles/restoration-art-hero.webp"

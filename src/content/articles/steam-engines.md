@@ -1,7 +1,7 @@
 ---
 title: "What Is Steam Engines?"
 slug: steam-engines
-description: "Steam engines convert heat into mechanical work and powered the Industrial Revolution. Learn how they work, who invented them, and their legacy. Discover the..."
+description: "A steam engine is a machine that converts thermal energy from steam into mechanical work."
 category: history
 tags: ["technology", "steam engines", "industrial revolution", "engineering"]
 heroImage: "/images/articles/steam-engines-hero.webp"

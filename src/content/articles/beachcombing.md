@@ -1,7 +1,7 @@
 ---
 title: "What Is Beachcombing?"
 slug: beachcombing
-description: "Beachcombing is the recreational activity of searching shorelines for interesting natural and human-made objects washed ashore by tides and waves. Discover t..."
+description: "Beachcombing is the practice of walking along shorelines to search for interesting objects — shells, sea glass, driftwood, fossils, unusual stones."
 category: everyday-concepts
 tags: ["beachcombing", "shells", "sea glass", "driftwood", "coastal exploration", "ocean"]
 heroImage: "/images/articles/beachcombing-hero.webp"

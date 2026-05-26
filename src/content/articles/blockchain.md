@@ -1,7 +1,7 @@
 ---
 title: What Is Blockchain?
 slug: blockchain
-description: "Learn how blockchain technology works: distributed ledgers, cryptography, consensus mechanisms, and real-world applications beyond cryptocurrency. Discover t..."
+description: "Blockchain is a distributed digital ledger that records transactions across many computers in a way that makes it nearly impossible to alter past records."
 category: technology
 tags: ["blockchain", "cryptocurrency", "distributed-ledger", "bitcoin", "decentralization", "web3"]
 heroImage: "/images/articles/blockchain-hero.webp"

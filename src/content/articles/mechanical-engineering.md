@@ -1,7 +1,7 @@
 ---
 title: "What Is Mechanical Engineering?"
 slug: mechanical-engineering
-description: "Mechanical engineering designs and builds machines, engines, and systems. Learn about its branches, career paths, history, and why it matters. Discover the k..."
+description: "Mechanical engineering is the branch of engineering that deals with the design, analysis, manufacturing, and maintenance of mechanical systems."
 category: technology
 tags: ["mechanical engineering", "engineering", "machines", "thermodynamics", "mechanics", "design", "manufacturing"]
 heroImage: "/images/articles/mechanical-engineering-hero.webp"

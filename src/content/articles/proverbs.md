@@ -1,7 +1,7 @@
 ---
 title: "What Is Proverbs?"
 slug: proverbs
-description: "Proverbs are short, memorable sayings that express common truths or practical wisdom passed down through generations. Discover the key facts, history, and wh..."
+description: "A proverb is a short, pithy statement that expresses a commonly held truth, piece of practical wisdom, or moral lesson."
 category: arts-amp-culture
 tags: ["proverbs", "sayings", "wisdom", "folklore", "culture", "oral tradition"]
 heroImage: "/images/articles/proverbs-hero.webp"
