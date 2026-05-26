@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-label="The accounting equation: assets equal liabilities plus equity." font-family="Inter, system-ui, -apple-system, sans-serif">
+  <rect width="1100" height="360" fill="#ffffff"/>
+  <text x="550" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#1a1a2e">The Accounting Equation</text>
+
+  <!-- Assets -->
+  <rect x="40" y="120" width="300" height="120" rx="14" fill="#2563eb"/>
+  <text x="190" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">Assets</text>
+
+  <text x="378" y="192" text-anchor="middle" font-size="44" font-weight="700" fill="#1a1a2e">=</text>
+
+  <!-- Liabilities -->
+  <rect x="420" y="120" width="300" height="120" rx="14" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <text x="570" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#1d4ed8">Liabilities</text>
+
+  <text x="758" y="192" text-anchor="middle" font-size="44" font-weight="700" fill="#1a1a2e">+</text>
+
+  <!-- Equity -->
+  <rect x="800" y="120" width="260" height="120" rx="14" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <text x="930" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#1d4ed8">Equity</text>
+
+  <text x="550" y="300" text-anchor="middle" font-size="19" fill="#4a5568">What a company owns equals what it owes plus what the owners have invested.</text>
+</svg>

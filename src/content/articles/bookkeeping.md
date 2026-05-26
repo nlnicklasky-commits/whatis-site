@@ -39,6 +39,12 @@ faq:
 
 Bookkeeping is the systematic process of recording, organizing, and maintaining a business's financial transactions, including purchases, [sales](/sales), receipts, and payments. It forms the foundation of all financial [management](/management) and provides the raw data that [accounting](/accounting) professionals use to create financial statements and business insights.
 
+
+<figure>
+  <img src="/images/articles/bookkeeping-fig1.webp" alt="A closed leather ledger book with a fountain pen and gold coins on a desk" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Bookkeeping records every financial transaction a business makes.</figcaption>
+</figure>
+
 ## Why Bookkeeping Exists (And Why It Matters)
 
 Let's be blunt. Nobody starts a business because they're excited about recording transactions. But here's the reality — businesses that neglect bookkeeping fail at significantly higher rates than those that don't. A U.S. Bank study found that 82% of small business failures involve cash flow problems. You can't manage cash flow if you don't know where your money is going.

@@ -41,6 +41,12 @@ faq:
 
 Buddhism is a [religion](/religion) and philosophical system founded in the 5th century BCE by Siddhartha Gautama, known as the Buddha, based on the principle that suffering arises from attachment and craving and can be ended through ethical conduct, mental discipline, and wisdom — specifically through the Four Noble Truths and the Noble Eightfold Path.
 
+
+<figure>
+  <img src="/images/articles/buddhism-fig1.webp" alt="A serene stone Buddha statue in meditation beside a lotus over water" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Buddhism is a path toward awakening and the end of suffering.</figcaption>
+</figure>
+
 ## The Man Behind the Teaching
 
 Every major religion has an origin story, but Buddhism's is unusually human. No divine revelation, no burning bush, no angelic visitation. Just a man who got deeply uncomfortable with the suffering he saw and decided to do something about it.

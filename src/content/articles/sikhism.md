@@ -39,6 +39,12 @@ faq:
 
 Sikhism is a monotheistic [religion](/religion) founded in the Punjab region of South Asia by Guru Nanak Dev Ji in the late 15th century (1469-1539 CE). With approximately 25-30 million adherents worldwide, it is the fifth-largest organized religion. Sikhism teaches devotion to one formless God, the equality of all people, honest living through productive work, and selfless service to others. Its scripture — the Guru Granth Sahib — holds the unique status of being considered a living Guru, the final and eternal spiritual authority for all Sikhs.
 
+
+<figure>
+  <img src="/images/articles/sikhism-fig1.webp" alt="A golden domed temple reflected in calm water at dawn" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Sikhism teaches devotion, equality, and service.</figcaption>
+</figure>
+
 ## Guru Nanak: The Founder's Story
 
 Nanak was born in 1469 in the village of Talwandi (now Nankana Sahib, Pakistan) into a Hindu Khatri family. From childhood, accounts describe him as unusually thoughtful about spiritual matters — questioning rituals, challenging social conventions, and seeking direct experience of the divine rather than accepting inherited dogma.

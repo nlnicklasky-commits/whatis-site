@@ -83,6 +83,27 @@ const FIGS = {
   'machine-learning': { ext: 'svg', w: 900, h: 520, alt: 'A neural network diagram with input, hidden, and output layers of connected nodes', caption: 'A neural network adjusts weighted connections until its output matches the data.' },
   'agile-software-development': { ext: 'svg', w: 1200, h: 440, alt: 'The agile sprint cycle: plan, build, test, review, then start the next sprint', caption: 'Agile delivers software in short, repeating, feedback-driven cycles.' },
   'computer-architecture': { ext: 'svg', w: 1000, h: 540, alt: 'Von Neumann architecture diagram: a CPU with control unit and ALU, plus memory, input, and output, joined by a system bus', caption: 'One shared bus moves data and instructions between the CPU, memory, and I/O.' },
+
+  // Final wave — remaining Tier-1 (finance, philosophy, psychology, history)
+  bookkeeping: { ext: 'webp', w: 1344, h: 768, alt: 'A closed leather ledger book with a fountain pen and gold coins on a desk', caption: 'Bookkeeping records every financial transaction a business makes.' },
+  'contract-law': { ext: 'webp', w: 1344, h: 768, alt: "A judge's gavel beside a rolled document sealed with red wax", caption: 'Contract law governs the agreements people and businesses make.' },
+  'health-economics': { ext: 'webp', w: 1344, h: 768, alt: 'A stethoscope beside two small stacks of gold coins', caption: 'Health economics studies how healthcare resources are produced and paid for.' },
+  'health-insurance': { ext: 'webp', w: 1344, h: 768, alt: 'A glowing glass shield with a medical cross at its center', caption: 'Health insurance pools risk to protect people from medical costs.' },
+  'inventory-management': { ext: 'webp', w: 1344, h: 768, alt: 'A warehouse aisle lined with tall shelves of cardboard boxes', caption: 'Inventory management tracks stock from supplier to customer.' },
+  'investment-banking': { ext: 'webp', w: 1344, h: 768, alt: 'Glass skyscrapers of a financial district seen from below', caption: 'Investment banks raise capital and advise on major deals.' },
+  'investment-management': { ext: 'webp', w: 1344, h: 768, alt: 'A hand arranging growing stacks of coins with a seedling on the tallest', caption: 'Investment management grows a portfolio toward long-term goals.' },
+  'pension-management': { ext: 'webp', w: 1344, h: 768, alt: 'A golden egg resting in a nest beside a few coins', caption: 'Pension management protects the nest egg that funds retirement.' },
+  'real-estate-investing': { ext: 'webp', w: 1344, h: 768, alt: 'Small wooden model houses on a desk with keys and a plant', caption: 'Real estate investing builds wealth through property.' },
+  'silk-road': { ext: 'webp', w: 1344, h: 768, alt: 'A camel caravan crossing desert dunes at sunset', caption: 'The Silk Road linked East and West through centuries of trade.' },
+  buddhism: { ext: 'webp', w: 1344, h: 768, alt: 'A serene stone Buddha statue in meditation beside a lotus over water', caption: 'Buddhism is a path toward awakening and the end of suffering.' },
+  pragmatism: { ext: 'webp', w: 1344, h: 768, alt: 'A dirt path forking into two directions through a misty landscape', caption: 'Pragmatism judges ideas by their practical consequences.' },
+  religion: { ext: 'webp', w: 1344, h: 768, alt: 'Sunlight streaming through a stained-glass window into a quiet sacred hall', caption: 'Religion gives communities shared meaning, ritual, and morality.' },
+  shamanism: { ext: 'webp', w: 1344, h: 768, alt: 'A shamanic frame drum and feathers beside a glowing ritual fire at night', caption: 'Shamans mediate between the human and spirit worlds.' },
+  sikhism: { ext: 'webp', w: 1344, h: 768, alt: 'A golden domed temple reflected in calm water at dawn', caption: 'Sikhism teaches devotion, equality, and service.' },
+  stoicism: { ext: 'webp', w: 1344, h: 768, alt: 'A classical marble bust beside a calm sea under a clear sky', caption: 'Stoicism focuses on what you can control and accepting what you cannot.' },
+  'experimental-psychology': { ext: 'webp', w: 1344, h: 768, alt: 'A glowing blue maze with a single lit path winding through it', caption: 'Experimental psychology studies the mind through controlled experiments.' },
+  microeconomics: { ext: 'svg', w: 900, h: 600, alt: 'A supply and demand graph where the downward demand curve and upward supply curve cross at equilibrium', caption: 'Price settles where the quantity demanded equals the quantity supplied.' },
+  accounting: { ext: 'svg', w: 1100, h: 360, alt: 'The accounting equation: assets equal liabilities plus equity', caption: 'What a company owns equals what it owes plus what owners invested.' },
 };
 
 let embedded = 0;

@@ -41,6 +41,12 @@ faq:
 
 Accounting is the systematic process of recording, classifying, summarizing, and reporting financial transactions to provide useful information for decision-making. It is often called "the language of business" because it translates the messy reality of money flowing in and out of an organization into structured reports that people can actually understand and act on.
 
+
+<figure>
+  <img src="/images/articles/accounting-fig1.svg" alt="The accounting equation: assets equal liabilities plus equity" width="1100" height="360" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>What a company owns equals what it owes plus what owners invested.</figcaption>
+</figure>
+
 ## The Oldest Profession You Never Think About
 
 Okay, maybe not *the* oldest. But accounting has been around far longer than most people realize. The earliest accounting records date back over 7,000 years to ancient Mesopotamia, where merchants used clay tablets to track grain and livestock trades. The word "account" itself comes from the Old French *aconter*, meaning "to reckon."

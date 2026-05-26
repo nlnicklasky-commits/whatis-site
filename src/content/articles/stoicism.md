@@ -40,6 +40,12 @@ Stoicism is an ancient [philosophy](/philosophy) that teaches you can achieve la
 
 The philosophy emerged during turbulent times—wars, political instability, economic uncertainty. Sound familiar? The Stoics weren't offering escapism. They were offering something more practical: a framework for living well regardless of external circumstances. And somehow, two millennia later, it still works.
 
+
+<figure>
+  <img src="/images/articles/stoicism-fig1.webp" alt="A classical marble bust beside a calm sea under a clear sky" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Stoicism focuses on what you can control and accepting what you cannot.</figcaption>
+</figure>
+
 ## The Origins and History of Stoicism
 
 Stoicism didn't emerge from nowhere. It grew out of a specific historical moment when Greek civilization was shifting, when old certainties were crumbling, and people needed a new way to make sense of chaos.

@@ -39,6 +39,12 @@ faq:
 
 Contract law is the body of legal rules governing agreements between two or more parties that create mutual obligations enforceable by courts. It defines how contracts are formed, interpreted, performed, and what happens when someone fails to hold up their end of the deal. Nearly every commercial transaction and many personal arrangements you encounter daily are governed by contract law principles.
 
+
+<figure>
+  <img src="/images/articles/contract-law-fig1.webp" alt="A judge's gavel beside a rolled document sealed with red wax" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Contract law governs the agreements people and businesses make.</figcaption>
+</figure>
+
 ## Why Contract Law Exists in the First Place
 
 Here's the thing most people don't think about: without contract law, modern commerce would collapse. Not slowly, not gradually. Overnight.

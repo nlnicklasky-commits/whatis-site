@@ -39,6 +39,12 @@ Investment banking is a specialized segment of banking that helps organizations 
 
 If a company wants to go public, buy a competitor, sell a division, or raise $500 million in debt—they call an investment bank. These are the dealmakers of the financial world, and the deals they broker shape entire industries.
 
+
+<figure>
+  <img src="/images/articles/investment-banking-fig1.webp" alt="Glass skyscrapers of a financial district seen from below" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Investment banks raise capital and advise on major deals.</figcaption>
+</figure>
+
 ## What Investment Banks Actually Do
 
 The phrase "investment banking" gets thrown around a lot, usually alongside images of Wall Street traders and enormous bonuses. But what do these firms actually spend their days doing? The work breaks down into several distinct functions.

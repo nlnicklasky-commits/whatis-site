@@ -39,6 +39,12 @@ faq:
 
 Shamanism is a spiritual practice found in cultures across every inhabited continent, in which a trained practitioner — the shaman — enters altered states of consciousness to communicate with the spirit world on behalf of their community. The shaman acts as an intermediary between the human and spirit realms, seeking healing, guidance, knowledge, and protection. Archaeological evidence suggests these practices date back at least 30,000 years, making shamanism arguably the oldest form of spiritual practice in human history.
 
+
+<figure>
+  <img src="/images/articles/shamanism-fig1.webp" alt="A shamanic frame drum and feathers beside a glowing ritual fire at night" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Shamans mediate between the human and spirit worlds.</figcaption>
+</figure>
+
 ## The Word Itself
 
 The term "shaman" comes from the Tungusic word *saman*, used by the Evenki people of Siberia. Russian explorers encountered Evenki shamans in the 17th century and brought the word back to Europe, where scholars adopted it as a general term for similar practitioners worldwide.

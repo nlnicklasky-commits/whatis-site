@@ -45,6 +45,12 @@ The Silk Road wasn't a single road—it was a sprawling network of trade routes 
 
 Religions spread. People collided, competed, and sometimes collaborated.
 
+
+<figure>
+  <img src="/images/articles/silk-road-fig1.webp" alt="A camel caravan crossing desert dunes at sunset" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>The Silk Road linked East and West through centuries of trade.</figcaption>
+</figure>
+
 ## How This Ancient Trade System Actually Worked
 
 Here's what catches most people off guard: merchant caravans didn't typically travel the entire route from China to Rome. That would be suicide—literally. The journeys were brutal. Sand storms appeared without warning. Mountain passes became impassable with unexpected snow. Bandits ambushed unprepared travelers. Disease killed more people than bullets ever could. Instead, the system operated on a relay model.

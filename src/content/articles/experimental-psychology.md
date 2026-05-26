@@ -41,6 +41,12 @@ faq:
 
 Experimental [psychology](/psychology) is the branch of psychology that applies scientific methods—controlled experiments, systematic observation, and statistical analysis—to study mental processes and behavior. It treats the human mind as something that can be measured, tested, and understood through evidence rather than speculation.
 
+
+<figure>
+  <img src="/images/articles/experimental-psychology-fig1.webp" alt="A glowing blue maze with a single lit path winding through it" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Experimental psychology studies the mind through controlled experiments.</figcaption>
+</figure>
+
 ## Why Psychology Needed Experiments
 
 For most of human history, understanding the mind was the domain of [philosophy](/philosophy). Aristotle theorized about memory. Descartes debated the relationship between mind and body. These were brilliant thinkers, but they were guessing. They had no way to test whether their ideas were right.

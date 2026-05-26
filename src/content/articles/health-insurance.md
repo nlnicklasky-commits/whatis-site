@@ -37,6 +37,12 @@ faq:
 
 Health insurance is a contract between an individual and an insurance company in which the insurer agrees to pay for some or all of the insured person's medical expenses in exchange for regular premium payments. It works by spreading the financial risk of illness and injury across a large group of people, so that no single person faces the full cost of a medical catastrophe alone.
 
+
+<figure>
+  <img src="/images/articles/health-insurance-fig1.webp" alt="A glowing glass shield with a medical cross at its center" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Health insurance pools risk to protect people from medical costs.</figcaption>
+</figure>
+
 ## The Basic Mechanics: How Health Insurance Actually Works
 
 Let's cut through the jargon and talk about what actually happens when you have health insurance.

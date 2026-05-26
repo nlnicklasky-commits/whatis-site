@@ -41,6 +41,12 @@ Real estate investing is the purchase, ownership, [management](/management), or 
 
 But let's be honest about something upfront: real estate investing is not the passive, easy money machine that late-night infomercials and social media influencers promise. It is a business. It involves capital, risk, management headaches, legal complexity, and market timing. Some people build extraordinary wealth through real estate. Others lose their shirts. The difference usually comes down to [education](/education), discipline, and realistic expectations.
 
+
+<figure>
+  <img src="/images/articles/real-estate-investing-fig1.webp" alt="Small wooden model houses on a desk with keys and a plant" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Real estate investing builds wealth through property.</figcaption>
+</figure>
+
 ## Why Real Estate? The Core Advantages
 
 Before [diving](/diving) into strategies, you need to understand why real estate investing works differently from stocks, bonds, or other investments. There are five structural advantages that make real estate unique.

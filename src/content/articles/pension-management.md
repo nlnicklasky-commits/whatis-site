@@ -39,6 +39,12 @@ faq:
 
 Pension [management](/management) is the process of administering, investing, and overseeing retirement funds so that workers receive income after they stop working. It involves collecting contributions, investing those funds across decades, calculating future obligations using actuarial science, and distributing benefits to retirees according to plan rules.
 
+
+<figure>
+  <img src="/images/articles/pension-management-fig1.webp" alt="A golden egg resting in a nest beside a few coins" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Pension management protects the nest egg that funds retirement.</figcaption>
+</figure>
+
 ## Why Pension Management Matters More Than You Think
 
 Here's a number that should grab your attention: globally, pension funds hold over $56 trillion in assets as of 2025. That's trillion with a T. These funds are among the largest institutional investors on the planet, and how they're managed affects everything from stock market stability to whether your grandmother can pay her electric bill.

@@ -39,6 +39,12 @@ faq:
 
 Pragmatism is a philosophical tradition that evaluates ideas, beliefs, and theories based on their practical consequences rather than their correspondence to abstract truth. Born in America in the late 1800s, it holds that the meaning of any concept is found in the real-world effects it produces — and that the best test of an idea isn't whether it sounds elegant, but whether it actually works.
 
+
+<figure>
+  <img src="/images/articles/pragmatism-fig1.webp" alt="A dirt path forking into two directions through a misty landscape" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Pragmatism judges ideas by their practical consequences.</figcaption>
+</figure>
+
 ## The Origin Story Nobody Expected
 
 Pragmatism started, of all places, in a small discussion club. In the early 1870s, a group of young intellectuals in Cambridge, Massachusetts formed what they half-jokingly called "The Metaphysical Club." Among them were Charles Sanders Peirce, a brilliant but eccentric logician, and William James, a psychologist-turned-philosopher who would become one of the most famous thinkers in [American history](/american-history).

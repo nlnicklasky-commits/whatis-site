@@ -37,6 +37,12 @@ faq:
 
 Health [economics](/economics) is a branch of economics that studies how individuals, institutions, and societies allocate scarce resources to the production, distribution, and consumption of healthcare goods and services. It examines why healthcare markets behave differently from other markets, how policy decisions affect health outcomes, and what [trade](/trade)-offs emerge when budgets can't cover every medical need.
 
+
+<figure>
+  <img src="/images/articles/health-economics-fig1.webp" alt="A stethoscope beside two small stacks of gold coins" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Health economics studies how healthcare resources are produced and paid for.</figcaption>
+</figure>
+
 ## Why Healthcare Isn't Like Buying Groceries
 
 Here's the thing most people don't realize: healthcare breaks almost every rule that makes normal markets work. When you buy a car, you can compare models, check prices, wait for a sale, and walk away if the deal stinks. Try doing that when you're having a heart attack.

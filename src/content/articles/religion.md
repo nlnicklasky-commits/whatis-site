@@ -43,6 +43,12 @@ But defining religion is surprisingly difficult. Is Confucianism a religion or a
 
 Scholars have debated these boundary questions for centuries without resolution. What is clear is that religion, however you define it, has shaped every human society in recorded history. It has inspired art, [architecture](/architecture), music, and [literature](/literature). It has motivated both extraordinary compassion and terrible violence. It has provided comfort to billions and imposed restrictions on billions more. Understanding religion is not optional if you want to understand human beings.
 
+
+<figure>
+  <img src="/images/articles/religion-fig1.webp" alt="Sunlight streaming through a stained-glass window into a quiet sacred hall" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Religion gives communities shared meaning, ritual, and morality.</figcaption>
+</figure>
+
 ## The Core Elements of Religion
 
 While religions differ enormously, most share certain structural elements. Not every religion has all of these, but most have several.

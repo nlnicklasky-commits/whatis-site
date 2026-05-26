@@ -39,6 +39,12 @@ Inventory management is the systematic process of ordering, storing, tracking, a
 
 Those questions sound easy. They're not. Getting them wrong costs businesses billions every year. The U.S. retail industry alone loses an estimated $300 billion annually from inventory distortion—a fancy term for having too much of what nobody wants and too little of what everybody does.
 
+
+<figure>
+  <img src="/images/articles/inventory-management-fig1.webp" alt="A warehouse aisle lined with tall shelves of cardboard boxes" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Inventory management tracks stock from supplier to customer.</figcaption>
+</figure>
+
 ## Why Inventory Management Matters More Than You'd Think
 
 Here's something that surprises most people: inventory is usually the single largest asset on a retailer's balance sheet. We're talking 20-30% of total company assets sitting on shelves, in warehouses, and on trucks. That's an enormous pile of money doing nothing productive until someone buys it.

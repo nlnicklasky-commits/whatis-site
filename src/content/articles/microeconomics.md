@@ -39,6 +39,12 @@ faq:
 
 Microeconomics is the branch of economics that studies how individual people, households, and firms make decisions about allocating limited resources. It examines how these decisions affect the supply and demand for goods and services, which in turn determines prices, and how prices shape the quantity produced and consumed.
 
+
+<figure>
+  <img src="/images/articles/microeconomics-fig1.svg" alt="A supply and demand graph where the downward demand curve and upward supply curve cross at equilibrium" width="900" height="600" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Price settles where the quantity demanded equals the quantity supplied.</figcaption>
+</figure>
+
 ## The Small-Scale View of Economics
 
 If [economics](/economics) is the study of how societies deal with scarcity, microeconomics is where you zoom in. Way in. Instead of asking "why is the national unemployment rate 4%?" (that's [macroeconomics](/macroeconomics)), micro asks questions like: why does a cup of coffee cost $5 at one cafe and $2.50 at the one across the street? Why do doctors earn more than teachers? Why does a diamond ring cost thousands when water—far more essential—costs almost nothing?

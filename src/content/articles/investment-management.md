@@ -39,6 +39,12 @@ Investment [management](/management) is the professional practice of managing a 
 
 At its simplest, investment management answers the question: "I have money. How do I make it grow while not losing sleep at night?" The answer, it turns out, is far more detailed than most people expect.
 
+
+<figure>
+  <img src="/images/articles/investment-management-fig1.webp" alt="A hand arranging growing stacks of coins with a seedling on the tallest" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Investment management grows a portfolio toward long-term goals.</figcaption>
+</figure>
+
 ## Why Investment Management Exists
 
 Here's a question worth considering: why do people pay professionals to manage their investments when they could just buy index funds themselves?

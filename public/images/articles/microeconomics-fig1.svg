@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="A supply and demand graph: the downward-sloping demand curve and upward-sloping supply curve cross at the equilibrium price and quantity." font-family="Inter, system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="me-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#64748b"/></marker>
+  </defs>
+  <rect width="900" height="600" fill="#ffffff"/>
+  <text x="450" y="48" text-anchor="middle" font-size="30" font-weight="700" fill="#1a1a2e">Supply and Demand</text>
+
+  <!-- axes -->
+  <line x1="140" y1="500" x2="140" y2="90" stroke="#64748b" stroke-width="2.5" marker-end="url(#me-arrow)"/>
+  <line x1="140" y1="500" x2="820" y2="500" stroke="#64748b" stroke-width="2.5" marker-end="url(#me-arrow)"/>
+  <text x="92" y="295" text-anchor="middle" font-size="20" font-weight="600" fill="#1a1a2e" transform="rotate(-90 92 295)">Price</text>
+  <text x="480" y="548" text-anchor="middle" font-size="20" font-weight="600" fill="#1a1a2e">Quantity</text>
+
+  <!-- demand (down) and supply (up) -->
+  <line x1="180" y1="150" x2="760" y2="450" stroke="#2563eb" stroke-width="4"/>
+  <line x1="180" y1="450" x2="760" y2="150" stroke="#f59e0b" stroke-width="4"/>
+  <text x="772" y="452" font-size="20" font-weight="700" fill="#1d4ed8">Demand</text>
+  <text x="772" y="150" font-size="20" font-weight="700" fill="#b45309">Supply</text>
+
+  <!-- equilibrium -->
+  <line x1="470" y1="300" x2="470" y2="500" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <line x1="140" y1="300" x2="470" y2="300" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <circle cx="470" cy="300" r="7" fill="#1a1a2e"/>
+  <text x="486" y="288" font-size="18" font-weight="600" fill="#1a1a2e">Equilibrium</text>
+
+  <text x="450" y="586" text-anchor="middle" font-size="18" fill="#4a5568">Price settles where the quantity buyers want equals the quantity sellers offer.</text>
+</svg>

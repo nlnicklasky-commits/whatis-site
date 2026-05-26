@@ -74,6 +74,25 @@ const JOBS = [
   { slug: 'soldering', prompt: `Editorial extreme macro photograph, the glowing hot tip of a soldering iron melting a bright bead of molten silver solder, intense orange glow and a wisp of smoke, the circuit board fully blurred into soft bokeh behind with no chips in focus, ${SUFFIX}, no numbers, no components with markings` },
   { slug: 'plant-breeding', prompt: `Editorial photograph, rows of young hybrid plant seedlings in a greenhouse with a researcher's gloved hands gently tending one, soft natural light, ${SUFFIX}, no numbers` },
   { slug: 'renewable-energy', prompt: `Editorial aerial photograph, a vast solar panel farm beside a hydroelectric dam and flowing river at golden hour, clean energy landscape, ${SUFFIX}, no numbers` },
+
+  // Final wave — remaining Tier-1 (finance, philosophy, psychology, history)
+  { slug: 'bookkeeping', prompt: `Editorial photograph, a classic leather ledger book with a fountain pen and stacked gold coins on a wooden desk, warm light, blank pages with no writing, ${SUFFIX}, no numbers, no writing` },
+  { slug: 'contract-law', prompt: `Editorial photograph, a wooden judge's gavel resting on a sound block beside a rolled blank document with a red wax seal, warm office light, blank paper, ${SUFFIX}, no numbers, no writing` },
+  { slug: 'health-economics', prompt: `Editorial photograph, a silver stethoscope coiled beside a small stack of plain blank gold coins shown edge-on with no faces and no markings, clean soft white background, the cost of healthcare, ${SUFFIX}, no numbers, no symbols, no coin faces` },
+  { slug: 'health-insurance', prompt: `Editorial 3D render, a translucent protective shield with a soft glowing medical cross over a calm blue background, sense of health protection, ${SUFFIX}, no numbers` },
+  { slug: 'inventory-management', prompt: `Editorial photograph, tall warehouse shelving stacked with neat plain cardboard boxes receding down an aisle, soft industrial light, blank boxes with no labels, ${SUFFIX}, no numbers, no labels` },
+  { slug: 'investment-banking', prompt: `Editorial photograph, a low-angle view of gleaming glass skyscrapers in a financial district against a clear blue sky, ${SUFFIX}, no numbers` },
+  { slug: 'investment-management', prompt: `Editorial photograph, a hand carefully stacking gold coins into growing columns on a desk beside a small green plant, growing a portfolio, ${SUFFIX}, no numbers` },
+  { slug: 'pension-management', prompt: `Editorial photograph, a single golden egg resting in a cozy woven nest beside a few coins, soft warm light, a retirement nest egg, ${SUFFIX}, no numbers` },
+  { slug: 'real-estate-investing', prompt: `Editorial photograph, small wooden model houses arranged on a desk with a brass key and a small green plant, soft light, property investment, ${SUFFIX}, no numbers` },
+  { slug: 'silk-road', prompt: `Editorial photograph, a camel caravan crossing golden desert dunes at sunset casting long shadows, ancient trade route, ${SUFFIX}, no numbers` },
+  { slug: 'buddhism', prompt: `Editorial photograph, a serene stone Buddha statue in meditation beside a floating lotus flower, soft diffused light, peaceful mood, ${SUFFIX}, no numbers` },
+  { slug: 'pragmatism', prompt: `Editorial photograph, a single dirt path forking into two directions through a calm misty landscape at soft morning light, practical choices, ${SUFFIX}, no numbers` },
+  { slug: 'religion', prompt: `Editorial photograph, warm sunlight streaming through a tall stained-glass window into a quiet sacred hall, soft glowing atmosphere, ${SUFFIX}, no numbers, no writing` },
+  { slug: 'shamanism', prompt: `Editorial photograph, a hand-held shamanic frame drum and feathers beside a small glowing ritual fire in a dim natural setting, mystical warm glow, ${SUFFIX}, no numbers` },
+  { slug: 'sikhism', prompt: `Editorial photograph, a serene golden domed temple reflected in calm water at dawn, peaceful and reverent, ${SUFFIX}, no numbers` },
+  { slug: 'stoicism', prompt: `Editorial photograph, a weathered classical marble bust beside a calm sea under a clear sky, contemplative mood, soft light, ${SUFFIX}, no numbers` },
+  { slug: 'experimental-psychology', prompt: `Cinematic render, a glowing abstract maze viewed from above with a single soft light tracing a path through it, deep blue tones, studying the mind, ${SUFFIX}, no numbers` },
 ];
 
 const only = process.argv.slice(2).filter((a) => !a.startsWith('-'));
