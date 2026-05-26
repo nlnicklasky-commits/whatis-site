@@ -37,6 +37,12 @@ faq:
 
 Geometry is the branch of [mathematics](/mathematics) that studies the properties, measurements, and relationships of points, lines, surfaces, and solids in space. It provides the formal language for describing shapes, sizes, angles, and positions—and it is one of the oldest mathematical disciplines, with roots stretching back over 5,000 years to ancient Egypt and Mesopotamia.
 
+
+<figure>
+  <img src="/images/articles/geometry-fig1.webp" alt="Floating geometric solids: a sphere, cube, octahedron, and torus" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Geometry studies shape, size, and space.</figcaption>
+</figure>
+
 ## Where It All Started
 
 The word "geometry" comes from the Greek *geo* (earth) and *metron* (measurement). And that's literally how it began—measuring the earth. Ancient Egyptians needed to re-survey farm boundaries every year after the Nile flooded and washed away property markers. Around 3000 BCE, they developed practical techniques for measuring land, constructing pyramids, and laying out [irrigation](/irrigation) canals.

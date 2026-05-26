@@ -41,6 +41,12 @@ faq:
 
 Experimental [physics](/physics) is the branch of physics devoted to testing hypotheses and theories through controlled observations, measurements, and reproducible experiments. It produces the empirical evidence that either confirms or overturns our understanding of the physical world—from [subatomic particles](/subatomic-particles) to the structure of the universe itself.
 
+
+<figure>
+  <img src="/images/articles/experimental-physics-fig1.webp" alt="Glowing blue and orange particle trails in a dark laboratory" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Experimental physics tests theory against measurement.</figcaption>
+</figure>
+
 ## Where Theory Meets Reality
 
 Physics has two major branches, and they couldn't be more different in their day-to-day work. Theoretical physicists sit with equations, whiteboard markers, and computers, building mathematical models of how nature should behave. Experimental physicists get their hands dirty. They build detectors, calibrate instruments, collect data for months or years, and then spend even more time figuring out what that data actually means.

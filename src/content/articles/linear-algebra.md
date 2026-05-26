@@ -39,6 +39,12 @@ Linear algebra is the branch of [mathematics](/mathematics) that studies vectors
 
 Here's the thing most people don't realize: linear algebra is arguably the most *useful* math you'll ever learn. Not calculus. Not [statistics](/statistics). Linear algebra. It runs your Google searches, trains your AI models, renders your video games, and compresses your Netflix streams. And yet, most people have never heard of it until college — if they hear about it at all.
 
+
+<figure>
+  <img src="/images/articles/linear-algebra-fig1.svg" alt="Diagram of a linear transformation shearing a square grid into a parallelogram grid via the basis vectors i-hat and j-hat" width="1000" height="520" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Move the basis vectors and the whole grid follows.</figcaption>
+</figure>
+
 ## Vectors: The Starting Point
 
 A vector is, at its simplest, a list of numbers. That's it. A point in 2D space is a vector with two components: (3, 5). A point in 3D space has three: (3, 5, 7). A data record with 100 features? That's a vector in 100-dimensional space. You can't visualize it, but the math works exactly the same way.

@@ -41,6 +41,12 @@ faq:
 
 Cognitive [neuroscience](/neuroscience) is the scientific study of how biological processes in the brain give rise to mental functions such as memory, attention, language, perception, and decision-making. It sits at the intersection of neuroscience and [cognitive psychology](/cognitive-psychology), combining brain imaging technology with behavioral experiments to map the relationship between neural activity and thought.
 
+
+<figure>
+  <img src="/images/articles/cognitive-neuroscience-fig1.webp" alt="A glowing brain with neural signals firing outward" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Cognitive neuroscience links the brain to thought and behavior.</figcaption>
+</figure>
+
 ## Where This Field Came From
 
 The term "cognitive neuroscience" was coined in the late 1970s — legend has it, in the back of a New York City taxi. Cognitive scientist George Miller and neuroscientist Michael Gazzaniga were heading to a dinner and realized that their two fields were converging fast enough to need a name. Whether the taxi story is perfectly true or slightly embellished, the timing checks out. By the late '70s, psychologists studying mental processes and neuroscientists studying brain tissue were increasingly asking the same questions from different angles.

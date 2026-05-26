@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" role="img" aria-label="The four forces of flight acting on an airfoil: lift acts upward, weight downward, thrust forward, and drag backward." font-family="Inter, system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="ae-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7.5" markerHeight="7.5" orient="auto"><path d="M0 0L10 5L0 10z" fill="#2563eb"/></marker>
+  </defs>
+  <rect width="1000" height="540" fill="#ffffff"/>
+  <text x="500" y="46" text-anchor="middle" font-size="30" font-weight="700" fill="#1a1a2e">The Four Forces of Flight</text>
+
+  <!-- airflow streamlines over the airfoil -->
+  <g fill="none" stroke="#93c5fd" stroke-width="2">
+    <path d="M250 250 C 400 210, 600 210, 760 248"/>
+    <path d="M250 270 C 400 244, 600 244, 760 268"/>
+  </g>
+
+  <!-- airfoil -->
+  <path d="M360 300 C 440 276, 600 276, 660 296 C 600 316, 440 320, 360 300 Z" fill="#1e293b"/>
+
+  <!-- Lift (up) -->
+  <line x1="500" y1="288" x2="500" y2="150" stroke="#2563eb" stroke-width="4" marker-end="url(#ae-arrow)"/>
+  <text x="500" y="132" text-anchor="middle" font-size="22" font-weight="600" fill="#1d4ed8">Lift</text>
+
+  <!-- Weight (down) -->
+  <line x1="500" y1="312" x2="500" y2="450" stroke="#2563eb" stroke-width="4" marker-end="url(#ae-arrow)"/>
+  <text x="500" y="478" text-anchor="middle" font-size="22" font-weight="600" fill="#1d4ed8">Weight</text>
+
+  <!-- Thrust (forward / right) -->
+  <line x1="664" y1="300" x2="820" y2="300" stroke="#2563eb" stroke-width="4" marker-end="url(#ae-arrow)"/>
+  <text x="838" y="306" text-anchor="start" font-size="22" font-weight="600" fill="#1d4ed8">Thrust</text>
+
+  <!-- Drag (backward / left) -->
+  <line x1="356" y1="300" x2="200" y2="300" stroke="#2563eb" stroke-width="4" marker-end="url(#ae-arrow)"/>
+  <text x="182" y="306" text-anchor="end" font-size="22" font-weight="600" fill="#1d4ed8">Drag</text>
+
+  <text x="500" y="516" text-anchor="middle" font-size="18" fill="#4a5568">An aircraft flies steadily when lift balances weight and thrust balances drag.</text>
+</svg>

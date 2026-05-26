@@ -39,6 +39,12 @@ faq:
 
 Elasticity is a property of materials that describes their ability to deform under an applied force and then return to their original shape once that force is removed. It is one of the most fundamental concepts in [classical mechanics](/classical-mechanics) and [materials science](/materials-science), governing everything from how bridges flex under traffic to why your earbuds fit snugly in your ears.
 
+
+<figure>
+  <img src="/images/articles/elasticity-fig1.webp" alt="A coiled metal spring on a clean white surface" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Elasticity is a material’s ability to spring back after deforming.</figcaption>
+</figure>
+
 ## The Rubber Band Intuition — And Why It's Misleading
 
 Everyone's first mental image of elasticity is a rubber band. You stretch it, let go, it snaps back. Simple enough. But here's what trips people up: in [engineering](/engineering) and [physics](/physics), "elastic" doesn't mean "stretchy." It means "returns to its original shape."

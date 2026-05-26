@@ -39,6 +39,12 @@ faq:
 
 Semiconductor physics is the branch of physics that studies materials whose electrical conductivity falls between that of conductors (like copper) and insulators (like rubber). These materials — most famously silicon — form the foundation of virtually every electronic device on the planet, from your phone to the satellites orbiting overhead. The global semiconductor industry was valued at over $580 billion in 2024, and the physics behind it explains how we went from room-sized computers to chips smaller than a fingernail.
 
+
+<figure>
+  <img src="/images/articles/semiconductor-physics-fig1.webp" alt="A silicon wafer covered in shimmering iridescent microcircuitry" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Semiconductor physics governs how chips switch and compute.</figcaption>
+</figure>
+
 ## Why Some Materials Can't Make Up Their Minds
 
 To understand semiconductors, you first need to understand why materials conduct [electricity](/electricity) differently. And that means talking about electrons — specifically, where electrons are allowed to hang out inside a solid.

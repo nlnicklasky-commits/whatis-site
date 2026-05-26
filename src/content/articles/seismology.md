@@ -41,6 +41,12 @@ Seismology is the scientific study of earthquakes and the propagation of elastic
 
 The Earth experiences roughly 500,000 detectable earthquakes per year. About 100,000 are strong enough for people to feel, and roughly 100 cause damage. Every few years, a major earthquake kills thousands and causes billions in damage—the 2011 Tohoku earthquake and tsunami killed nearly 20,000 people in Japan and caused $235 billion in damage, making it the costliest natural disaster in history.
 
+
+<figure>
+  <img src="/images/articles/seismology-fig1.webp" alt="A deep fissure splitting cracked, dry ground toward the horizon" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Seismology studies earthquakes and the waves they send through Earth.</figcaption>
+</figure>
+
 ## What Causes Earthquakes
 
 Most earthquakes are caused by the sudden release of energy that has accumulated along geological faults—fractures in the Earth's crust where blocks of rock slide past each other. The energy source is [plate tectonics](/plate-tectonics): the slow but relentless movement of Earth's lithospheric plates, driven by convection currents in the underlying mantle.

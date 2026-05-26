@@ -41,6 +41,12 @@ faq:
 
 Anatomy is the scientific study of the structure of living organisms — their parts, how those parts are arranged, and how they relate to each other. In practice, most people mean [human anatomy](/human-anatomy), though the field covers everything from earthworms to elephants. It's one of the oldest branches of [biology](/biology), with roots stretching back more than 2,000 years.
 
+
+<figure>
+  <img src="/images/articles/anatomy-fig1.webp" alt="An illustration of the human skeleton and major muscle groups" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Anatomy maps the structures that make up the body.</figcaption>
+</figure>
+
 ## The Body Mapped, Not Explained
 
 Here's a distinction that trips people up: anatomy and [physiology](/physiology) are not the same thing. They're related, sure, and they're almost always taught together. But anatomy asks *what's there* and *where is it?* Physiology asks *what does it do and how?*

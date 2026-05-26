@@ -39,6 +39,12 @@ faq:
 
 Rainforest ecology is the scientific study of how organisms in tropical and subtropical forests interact with each other and their physical environment. It examines everything from nutrient [cycling](/cycling) and energy flow to species relationships and the effects of disturbance on these extraordinarily complex systems. Tropical rainforests cover roughly 6% of Earth's land surface yet harbor about half of all known species — making them the single most biodiverse biome on the planet.
 
+
+<figure>
+  <img src="/images/articles/rainforest-ecology-fig1.webp" alt="Sunlight streaming through a dense, misty rainforest canopy" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Rainforests hold much of the planet's biodiversity.</figcaption>
+</figure>
+
 ## Why Rainforests Are Not Just "Lots of Trees"
 
 When most people picture a rainforest, they imagine a wall of green. And sure, there's green everywhere. But calling a rainforest a bunch of trees is like calling a city a pile of bricks. The real story is in the *relationships* — millions of species locked in a web of competition, cooperation, parasitism, and mutualism that took tens of millions of years to develop.

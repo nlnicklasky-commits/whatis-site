@@ -39,6 +39,12 @@ faq:
 
 Abstract [algebra](/algebra) is the branch of [mathematics](/mathematics) that studies algebraic structures — groups, rings, fields, and other systems — by focusing on the rules that govern operations rather than the specific numbers involved. If regular algebra asks "what is x?", abstract algebra asks "what makes addition *work*, and where else can we find something that behaves the same way?"
 
+
+<figure>
+  <img src="/images/articles/abstract-algebra-fig1.webp" alt="Colorful interlocking symmetric three-dimensional forms" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Abstract algebra studies symmetry and structure itself.</figcaption>
+</figure>
+
 ## Why Should You Care About a "Pure" Math Subject?
 
 Here's the thing most people get wrong about abstract algebra: they assume it's entirely theoretical. Ivory tower stuff. Math for math's sake.

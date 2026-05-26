@@ -41,6 +41,12 @@ The scientific method is a systematic approach to understanding the natural worl
 
 That's a big claim, so let me back it up with a specific number: in 1900, global life expectancy was about 32 years. By 2025, it exceeded 73 years. The scientific method—applied through medicine, [agriculture](/agriculture), [engineering](/engineering), and sanitation—is the primary reason. Not [philosophy](/philosophy). Not tradition. Not intuition. Systematic, evidence-based inquiry.
 
+
+<figure>
+  <img src="/images/articles/scientific-method-fig1.svg" alt="Diagram of the scientific method cycle: question, hypothesis, experiment, analyze, conclude, then refine and repeat" width="1200" height="440" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Each conclusion raises new questions, and the cycle repeats.</figcaption>
+</figure>
+
 ## The Textbook Version (And Why It's Wrong-ish)
 
 You probably learned the scientific method as a tidy sequence of steps, maybe on a poster in a middle school classroom:

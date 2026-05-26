@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-label="A linear transformation: the basis vectors i-hat and j-hat are moved, shearing the original square grid into a parallelogram grid while keeping the origin fixed." font-family="Inter, system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="la-i" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#2563eb"/></marker>
+    <marker id="la-j" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#f59e0b"/></marker>
+  </defs>
+  <rect width="1000" height="520" fill="#ffffff"/>
+  <text x="500" y="46" text-anchor="middle" font-size="30" font-weight="700" fill="#1a1a2e">A Linear Transformation</text>
+
+  <!-- original light grid -->
+  <g stroke="#e2e8f0" stroke-width="1.5">
+    <line x1="120" y1="120" x2="120" y2="460"/><line x1="200" y1="120" x2="200" y2="460"/><line x1="280" y1="120" x2="280" y2="460"/><line x1="360" y1="120" x2="360" y2="460"/><line x1="440" y1="120" x2="440" y2="460"/>
+    <line x1="120" y1="140" x2="460" y2="140"/><line x1="120" y1="220" x2="460" y2="220"/><line x1="120" y1="300" x2="460" y2="300"/><line x1="120" y1="380" x2="460" y2="380"/>
+  </g>
+
+  <!-- origin -->
+  <circle cx="200" cy="380" r="5" fill="#1a1a2e"/>
+  <text x="186" y="404" text-anchor="end" font-size="16" fill="#64748b">origin</text>
+
+  <!-- transformed parallelogram grid (sheared) spanned by i-hat and j-hat -->
+  <g stroke="#bfdbfe" stroke-width="1.5">
+    <path d="M200 380 L 440 320"/><path d="M260 220 L 500 160"/>
+    <path d="M200 380 L 260 220"/><path d="M320 356 L 380 196"/><path d="M440 320 L 500 160"/>
+  </g>
+  <polygon points="200,380 440,320 500,160 260,220" fill="#2563eb" opacity="0.10"/>
+
+  <!-- basis vectors after transform -->
+  <line x1="200" y1="380" x2="440" y2="320" stroke="#2563eb" stroke-width="4" marker-end="url(#la-i)"/>
+  <text x="455" y="318" font-size="22" font-weight="700" fill="#1d4ed8">î</text>
+  <line x1="200" y1="380" x2="260" y2="220" stroke="#f59e0b" stroke-width="4" marker-end="url(#la-j)"/>
+  <text x="262" y="206" font-size="22" font-weight="700" fill="#b45309">ĵ</text>
+
+  <text x="640" y="270" font-size="19" fill="#4a5568" font-weight="600">Move the two basis</text>
+  <text x="640" y="298" font-size="19" fill="#4a5568" font-weight="600">vectors î and ĵ, and</text>
+  <text x="640" y="326" font-size="19" fill="#4a5568" font-weight="600">the whole grid follows —</text>
+  <text x="640" y="354" font-size="19" fill="#4a5568" font-weight="600">lines stay straight, the</text>
+  <text x="640" y="382" font-size="19" fill="#4a5568" font-weight="600">origin stays fixed.</text>
+</svg>

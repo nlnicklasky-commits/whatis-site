@@ -37,6 +37,12 @@ faq:
 
 Horticulture is the branch of [agriculture](/agriculture) that deals with the science, technology, and business of growing plants for human use — specifically fruits, vegetables, flowers, herbs, and ornamental species. The term comes from the Latin *hortus* (garden) and *cultura* (cultivation), and the discipline spans everything from backyard tomato patches to multi-million-dollar commercial greenhouses.
 
+
+<figure>
+  <img src="/images/articles/horticulture-fig1.webp" alt="A lush greenhouse filled with potted plants and flowers" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Horticulture is the art and science of growing plants.</figcaption>
+</figure>
+
 ## How Horticulture Differs from Farming at Large
 
 People often lump horticulture in with general farming. That's understandable — both involve growing things — but the distinction matters.

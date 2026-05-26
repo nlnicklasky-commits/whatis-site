@@ -41,6 +41,12 @@ faq:
 
 Algebra is the branch of [mathematics](/mathematics) that uses letters and symbols to represent numbers and quantities in equations and formulas. It provides a language for describing patterns, expressing general relationships, and solving problems where some values are unknown.
 
+
+<figure>
+  <img src="/images/articles/algebra-fig1.webp" alt="A polished brass balance scale resting in perfect equilibrium" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Algebra is about keeping both sides of an equation in balance.</figcaption>
+</figure>
+
 ## The Moment Math Gets Interesting
 
 Here's the thing about algebra that most school curricula fail to communicate: it's the point where math stops being about calculating and starts being about thinking.

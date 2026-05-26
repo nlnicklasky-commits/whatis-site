@@ -39,6 +39,12 @@ faq:
 
 River [ecology](/ecology) is the scientific study of how living organisms interact with each other and with the physical and chemical conditions of flowing freshwater environments. It examines everything from microscopic algae clinging to rocks in a mountain stream to the massive fish populations migrating through continental river systems — and all the biological, chemical, and physical processes connecting them.
 
+
+<figure>
+  <img src="/images/articles/river-ecology-fig1.webp" alt="An aerial view of a clear river winding through green forest" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>River ecology studies the life and flow of freshwater systems.</figcaption>
+</figure>
+
 ## Why Rivers Deserve Their Own Science
 
 You might think a river is just water moving downhill. And in the most reductive sense, sure, that's true. But rivers are among the most biologically productive and ecologically complex systems on Earth. They cover less than 1% of the planet's surface area, yet they support roughly 12% of all known animal species and about a third of all vertebrate species. That ratio is staggering.

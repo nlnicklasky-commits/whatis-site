@@ -37,6 +37,12 @@ faq:
 
 Psycholinguistics is the study of how humans process, produce, and acquire language. It investigates the mental mechanisms behind seemingly effortless acts—reading this sentence, understanding a friend's joke, finding the right word when you're mid-thought—and reveals that each of these involves astonishingly complex computation happening below conscious awareness. The field sits at the crossroads of [psychology](/psychology), [linguistics](/linguistics), and [neuroscience](/neuroscience), [drawing](/drawing) on experiments, brain imaging, computational models, and observations of language breakdown to understand what's happening between your ears when you use language.
 
+
+<figure>
+  <img src="/images/articles/psycholinguistics-fig1.webp" alt="A glowing brain connected to flowing waves of sound" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Psycholinguistics studies how the mind produces and understands language.</figcaption>
+</figure>
+
 ## How Psycholinguistics Became a Field
 
 The roots run deep, but the field as we know it crystallized in the 1950s and 1960s. Before that, [psychology](/psychology) was dominated by behaviorism—the idea that all behavior, including language, was learned through stimulus and response. B.F. Skinner's 1957 book *Verbal Behavior* argued that children learn language the same way pigeons learn to peck buttons: through reinforcement.

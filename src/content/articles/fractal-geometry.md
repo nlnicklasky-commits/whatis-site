@@ -37,6 +37,12 @@ faq:
 
 Fractal [geometry](/geometry) is a branch of [mathematics](/mathematics) that studies shapes and structures exhibiting self-similarity — patterns that repeat at every level of magnification. Coined by mathematician Benoit Mandelbrot in 1975, the term "fractal" comes from the Latin word *fractus*, meaning broken or fragmented. Unlike classical Euclidean geometry, which deals with smooth lines and perfect circles, fractal geometry describes the rough, irregular shapes that actually dominate the natural world.
 
+
+<figure>
+  <img src="/images/articles/fractal-geometry-fig1.webp" alt="A vivid fractal of infinitely repeating spiral patterns" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Fractals repeat their structure at every scale.</figcaption>
+</figure>
+
 ## Why Regular Geometry Falls Short
 
 Here's something that probably never bothered you until right now: classical geometry can't describe a cloud. Or a mountain. Or the branching pattern of your lungs.

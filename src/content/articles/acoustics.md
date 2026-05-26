@@ -41,6 +41,12 @@ faq:
 
 Acoustics is the branch of [physics](/physics) that deals with the production, transmission, and reception of sound. It covers everything from why your voice echoes in a parking garage to how dolphins communicate underwater to why some concert halls sound breathtaking and others sound like you're inside a tin can.
 
+
+<figure>
+  <img src="/images/articles/acoustics-fig1.webp" alt="A metal tuning fork above concentric rings of sound waves" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Acoustics is the science of how sound is produced and travels.</figcaption>
+</figure>
+
 ## Sound Starts with Vibration
 
 Every sound you've ever heard began the same way: something vibrated. [A guitar](/guitar) string. A vocal cord. A jackhammer slamming concrete. That vibration pushes against surrounding air molecules, which push against their neighbors, which push against theirs, creating a pressure wave that ripples outward from the source. When that wave reaches your eardrum, it vibrates too, and your brain interprets the pattern as sound.

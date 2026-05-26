@@ -41,6 +41,12 @@ faq:
 
 Agronomy is the science of producing and using plants for food, fuel, fiber, and land reclamation. It combines principles from [biology](/biology), [chemistry](/chemistry), [ecology](/ecology), and [soil science](/soil-science) to figure out how to grow crops more effectively while keeping the land productive for future generations. If you've eaten today, an agronomist had a hand in making that possible.
 
+
+<figure>
+  <img src="/images/articles/agronomy-fig1.webp" alt="Young seedlings sprouting from rich soil beside a garden trowel" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Agronomy is the science of soil and crop production.</figcaption>
+</figure>
+
 ## Where Agronomy Came From — and Why It Exists
 
 Humans have been farming for roughly 10,000 years, but agronomy as a formal discipline? That's surprisingly recent. For most of history, agricultural knowledge passed from parent to child — trial and error across generations, with no systematic understanding of *why* certain practices worked.

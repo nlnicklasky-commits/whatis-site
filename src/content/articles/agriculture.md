@@ -41,6 +41,12 @@ faq:
 
 Agriculture is the practice of cultivating plants, raising animals, and processing natural resources to produce food, fiber, and fuel. It's the single most important [invention](/invention) in human history — the thing that turned small bands of nomadic hunters into civilizations with cities, writing, and everything else we associate with modern life.
 
+
+<figure>
+  <img src="/images/articles/agriculture-fig1.webp" alt="Rows of green crops stretching to the horizon at sunset" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Agriculture feeds the world by cultivating plants and animals.</figcaption>
+</figure>
+
 ## How Growing Food Changed Everything
 
 Here's a number that might surprise you: for roughly 95% of human existence, nobody farmed. Humans spent about 200,000 years as hunter-gatherers before anyone thought to stick a seed in the ground and wait. When it finally happened — around 10,000 BCE in the Fertile Crescent (modern-day Iraq, Syria, and Turkey) — it changed absolutely everything.

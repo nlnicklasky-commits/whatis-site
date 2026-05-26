@@ -39,6 +39,12 @@ faq:
 
 Fluid dynamics is the branch of [physics](/physics) that studies how fluids — both liquids and gases — move and the forces [acting](/acting) on them during that motion. It describes everything from water flowing through a pipe to air rushing over an airplane wing, from blood circulating through your arteries to hurricanes forming over warm ocean water.
 
+
+<figure>
+  <img src="/images/articles/fluid-dynamics-fig1.webp" alt="Swirling blue ink plumes spreading through water" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Fluid dynamics describes how liquids and gases flow.</figcaption>
+</figure>
+
 ## The Basics: What Counts as a Fluid?
 
 Before we go any further, let's clear up a common misconception. When physicists say "fluid," they don't just mean liquids. A fluid is any substance that deforms continuously when you apply a force to it — technically, a shear stress. Water is a fluid. So is honey, even though it flows slowly. And so is air, helium, and every other gas.

@@ -39,6 +39,12 @@ faq:
 
 Aerodynamics is the branch of [physics](/physics) that studies how air moves around solid objects and the forces that result from that movement. It explains why airplanes fly, why race cars hug the ground at 200 mph, and why a [golf](/golf) ball with dimples travels farther than a smooth one.
 
+
+<figure>
+  <img src="/images/articles/aerodynamics-fig1.svg" alt="Diagram of the four forces of flight on an airfoil: lift up, weight down, thrust forward, drag backward" width="1000" height="540" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Steady flight balances lift against weight and thrust against drag.</figcaption>
+</figure>
+
 ## Air Isn't Nothing — It's a Fluid
 
 Here's something that trips people up: air has weight. A cubic meter of air at sea level weighs about 1.225 kilograms — roughly 2.7 pounds. That doesn't sound like much until you consider that a commercial airplane cruising at 575 mph is slamming into trillions of air molecules every second. At those speeds, air behaves less like the invisible stuff you breathe and more like a wall you're trying to punch through.

@@ -43,6 +43,12 @@ Climate change is the long-term shift in global temperatures and weather pattern
 
 For the most current data — temperature anomalies, CO₂ levels, renewable energy share, and disaster costs — see our [Climate Change Statistics 2026](/climate-change-statistics-2026) roundup.
 
+
+<figure>
+  <img src="/images/articles/climate-change-fig1.webp" alt="A lone melting iceberg adrift on a calm ocean under a moody sky" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Climate change is reshaping ice, oceans, and weather worldwide.</figcaption>
+</figure>
+
 ## Earth Has Always Changed—So Why Is This Different?
 
 Earth's climate has fluctuated throughout its 4.5-billion-year history due to natural cycles, volcanic eruptions, and variations in solar output. The planet has experienced ice ages and warm periods, with natural climate shifts typically occurring over thousands or millions of years. However, the current warming is fundamentally different in three critical ways: speed, magnitude, and cause.

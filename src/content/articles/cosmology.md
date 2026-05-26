@@ -41,6 +41,12 @@ faq:
 
 Cosmology is the scientific study of the origin, structure, evolution, and ultimate fate of the universe as a whole. It examines the largest-scale properties of the cosmos---the distribution of galaxies, the nature of space and time, and the fundamental physical laws governing everything from the Big Bang 13.8 billion years ago to the universe's distant future.
 
+
+<figure>
+  <img src="/images/articles/cosmology-fig1.webp" alt="A luminous galaxy and nebula stretching across deep space" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Cosmology studies the origin and structure of the universe.</figcaption>
+</figure>
+
 ## A Quick History of Asking Big Questions
 
 Humans have stared at the sky and asked "what is all this?" for as long as we've been human. But scientific cosmology---cosmology based on observation, [mathematics](/mathematics), and testable predictions---is surprisingly young. Most of what we know was discovered in the last century.
