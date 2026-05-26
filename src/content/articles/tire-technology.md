@@ -39,6 +39,12 @@ faq:
 
 Tire technology is the [engineering](/engineering) discipline focused on designing, manufacturing, and optimizing pneumatic tires for vehicles. It spans rubber chemistry, [structural engineering](/structural-engineering), tread design, and [materials science](/materials-science) — all working together to keep roughly 1.4 billion vehicles on the road connected to the ground through four palm-sized contact patches.
 
+
+<figure>
+  <img src="/images/articles/tire-technology-fig1.webp" alt="An extreme close-up of a rugged tire tread pattern beaded with water" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Tread design channels water away to keep tires gripping the road.</figcaption>
+</figure>
+
 ## The Only Thing Between You and the Road
 
 Think about this for a second. Your entire car — two tons of metal, glass, and [electronics](/electronics) — touches the pavement through four patches of rubber, each roughly the size of a postcard. Everything your vehicle does — accelerating, braking, turning, absorbing bumps — happens through those contact patches. That's it. That's the whole interface.

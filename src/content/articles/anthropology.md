@@ -40,6 +40,12 @@ Anthropology is the study of humans in every dimension — our biology, our cult
 
 That might sound impossibly broad. And honestly? It kind of is. But that breadth is the whole point.
 
+
+<figure>
+  <img src="/images/articles/anthropology-fig1.webp" alt="Ancient stone tools and pottery shards arranged on dark soil" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Anthropology studies humanity through artifacts and culture.</figcaption>
+</figure>
+
 ## How a Discipline About Everything Got Started
 
 Anthropology as a formal academic field is surprisingly young. The first university departments didn't appear until the late 1800s, though the questions anthropologists ask — *Why do different people live so differently? What connects all humans?* — are as old as Herodotus writing about Persian customs in the 5th century BCE.

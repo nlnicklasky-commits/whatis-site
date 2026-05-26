@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 560" role="img" aria-label="The water cycle: the sun drives evaporation from the ocean, water vapor condenses into clouds, falls as precipitation, and returns to the ocean as runoff." font-family="Inter, system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="hy-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#1d4ed8"/></marker>
+  </defs>
+  <rect width="1100" height="560" fill="#f0f9ff"/>
+  <text x="550" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="#1a1a2e">The Water Cycle</text>
+
+  <!-- sun -->
+  <circle cx="120" cy="120" r="46" fill="#f59e0b"/>
+  <g stroke="#f59e0b" stroke-width="4" stroke-linecap="round">
+    <line x1="120" y1="50" x2="120" y2="30"/><line x1="190" y1="120" x2="210" y2="120"/>
+    <line x1="170" y1="70" x2="184" y2="56"/><line x1="170" y1="170" x2="184" y2="184"/>
+  </g>
+
+  <!-- ocean -->
+  <path d="M0 440 H1100 V560 H0 Z" fill="#3b82f6"/>
+  <path d="M0 440 q 60 -22 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 V560 H0 Z" fill="#2563eb" opacity="0.45"/>
+  <text x="230" y="520" text-anchor="middle" font-size="20" font-weight="600" fill="#ffffff">Ocean</text>
+
+  <!-- land / mountain -->
+  <path d="M760 440 L900 250 L1040 440 Z" fill="#86efac"/>
+  <path d="M900 250 L955 325 L845 325 Z" fill="#ffffff" opacity="0.85"/>
+
+  <!-- cloud -->
+  <g fill="#cbd5e1" stroke="#94a3b8" stroke-width="1.5">
+    <ellipse cx="620" cy="170" rx="70" ry="42"/><ellipse cx="690" cy="150" rx="60" ry="46"/><ellipse cx="560" cy="158" rx="52" ry="38"/><rect x="560" y="172" width="170" height="26" rx="13" stroke="none"/>
+  </g>
+  <text x="635" y="118" text-anchor="middle" font-size="19" font-weight="600" fill="#475569">Condensation</text>
+
+  <!-- evaporation arrow (ocean to cloud) -->
+  <path d="M300 430 C 360 300, 470 250, 560 200" fill="none" stroke="#1d4ed8" stroke-width="3.5" marker-end="url(#hy-arrow)"/>
+  <text x="350" y="300" text-anchor="middle" font-size="20" font-weight="600" fill="#1d4ed8">Evaporation</text>
+
+  <!-- precipitation (rain from cloud to land) -->
+  <g stroke="#1d4ed8" stroke-width="3.5" stroke-linecap="round">
+    <line x1="630" y1="215" x2="610" y2="270"/><line x1="670" y1="215" x2="650" y2="270"/><line x1="710" y1="215" x2="690" y2="270"/>
+  </g>
+  <path d="M690 230 C 740 300, 800 360, 860 415" fill="none" stroke="#1d4ed8" stroke-width="3.5" marker-end="url(#hy-arrow)"/>
+  <text x="800" y="240" text-anchor="middle" font-size="20" font-weight="600" fill="#1d4ed8">Precipitation</text>
+
+  <!-- runoff (land back to ocean) -->
+  <path d="M840 430 C 780 452, 720 452, 660 446" fill="none" stroke="#1d4ed8" stroke-width="3.5" marker-end="url(#hy-arrow)"/>
+  <text x="770" y="490" text-anchor="middle" font-size="20" font-weight="600" fill="#1d4ed8">Runoff</text>
+</svg>

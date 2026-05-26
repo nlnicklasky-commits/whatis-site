@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="The data analysis pipeline: collect, clean, analyze, visualize, then decide." font-family="Inter, system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="da-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="360" fill="#ffffff"/>
+  <text x="600" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#1a1a2e">The Data Analysis Pipeline</text>
+
+  <!-- 5 stages -->
+  <g font-size="22" font-weight="600">
+    <rect x="40"  y="130" width="180" height="90" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/>
+    <text x="130" y="183" text-anchor="middle" fill="#1d4ed8">Collect</text>
+    <rect x="270" y="130" width="180" height="90" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/>
+    <text x="360" y="183" text-anchor="middle" fill="#1d4ed8">Clean</text>
+    <rect x="500" y="130" width="180" height="90" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/>
+    <text x="590" y="183" text-anchor="middle" fill="#1d4ed8">Analyze</text>
+    <rect x="730" y="130" width="180" height="90" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/>
+    <text x="820" y="183" text-anchor="middle" fill="#1d4ed8">Visualize</text>
+    <rect x="960" y="130" width="200" height="90" rx="12" fill="#2563eb" stroke="#1d4ed8" stroke-width="2.5"/>
+    <text x="1060" y="183" text-anchor="middle" fill="#ffffff">Decide</text>
+  </g>
+
+  <!-- arrows between stages -->
+  <g stroke="#2563eb" stroke-width="3" fill="none">
+    <path d="M220 175 H270" marker-end="url(#da-arrow)"/>
+    <path d="M450 175 H500" marker-end="url(#da-arrow)"/>
+    <path d="M680 175 H730" marker-end="url(#da-arrow)"/>
+    <path d="M910 175 H960" marker-end="url(#da-arrow)"/>
+  </g>
+
+  <text x="600" y="300" text-anchor="middle" font-size="19" fill="#4a5568">Raw data becomes a decision only after it is gathered, cleaned, examined, and made legible.</text>
+</svg>

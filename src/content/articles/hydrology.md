@@ -37,6 +37,12 @@ faq:
 
 Hydrology is the scientific study of water's movement, distribution, and quality across Earth and other planets. It tracks water from the moment it evaporates off an ocean surface, through its journey as atmospheric vapor and precipitation, into rivers and underground aquifers, and eventually back again. The field sits at the intersection of [geology](/geology), [environmental science](/environmental-science), [chemistry](/chemistry), and atmospheric science.
 
+
+<figure>
+  <img src="/images/articles/hydrology-fig1.svg" alt="Diagram of the water cycle: evaporation, condensation, precipitation, and runoff" width="1100" height="560" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Water cycles continuously between ocean, air, and land.</figcaption>
+</figure>
+
 ## Why Water Science Matters More Than You Think
 
 Here's a number that should stop you cold: only 0.5% of Earth's water is available as fresh, accessible liquid. The rest is locked in oceans (96.5%), ice caps (1.74%), or deep underground where we can't easily reach it. That tiny fraction sustains every farm, every city, every ecosystem on the planet.

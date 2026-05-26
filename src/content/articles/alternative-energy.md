@@ -41,6 +41,12 @@ faq:
 
 Alternative energy is any energy source used instead of fossil fuels — coal, oil, and natural gas. It includes solar, wind, hydropower, geothermal, hydrogen, tidal, biomass, and [nuclear power](/nuclear-power). The unifying idea is simple: generate the energy modern life demands without burning stuff that took millions of years to form underground.
 
+
+<figure>
+  <img src="/images/articles/alternative-energy-fig1.webp" alt="Wind turbines and rows of solar panels in a green field at sunrise" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Wind and solar are leading sources of renewable energy.</figcaption>
+</figure>
+
 ## Why the Shift Away From Fossil Fuels Actually Matters
 
 Here's the situation in plain terms. Fossil fuels still supply about 80% of the world's primary energy. Burning them releases carbon dioxide and other greenhouse gases, which trap heat in the atmosphere. Since the industrial revolution, atmospheric CO2 has risen from roughly 280 parts per million to over 420 ppm — a 50% increase. Global average temperatures have climbed about 1.2 degrees Celsius above pre-industrial levels.

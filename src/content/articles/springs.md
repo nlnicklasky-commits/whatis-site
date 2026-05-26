@@ -39,6 +39,12 @@ faq:
 
 A spring is an elastic mechanical device that stores energy when deformed and releases it when the deforming force is removed. Springs are everywhere — in your mattress, your car's suspension, your retractable pen, and the mechanism that closes your front door. They're one of the oldest and most reliable ways to store and control mechanical energy.
 
+
+<figure>
+  <img src="/images/articles/springs-fig1.webp" alt="Several shiny chrome coiled metal compression springs on a reflective surface" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Springs store and release mechanical energy.</figcaption>
+</figure>
+
 ## The Basic Physics of How Springs Work
 
 Here's the fundamental idea: when you stretch, compress, or twist a spring, you're doing work on it. That work gets stored as potential energy inside the spring's material. Release the spring, and that stored energy converts back into kinetic energy — motion.

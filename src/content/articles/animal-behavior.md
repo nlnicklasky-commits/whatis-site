@@ -54,6 +54,12 @@ Animal behavior is the scientific study of how animals act, respond to stimuli, 
 
 If you have ever watched a dog tilt its head at a strange noise or wondered why birds fly in V-formations, you have already been doing informal animal behavior research. The formal version — backed by rigorous observation, experiments, and statistical analysis — has been an active scientific discipline since the early 20th century, and it keeps turning up surprises.
 
+
+<figure>
+  <img src="/images/articles/animal-behavior-fig1.webp" alt="A flock of starlings forming a flowing murmuration against a dusk sky" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Collective behavior emerges from simple individual rules.</figcaption>
+</figure>
+
 ## How the Science Got Started
 
 People have been watching animals for as long as there have been people. Aristotle wrote detailed observations about animal habits around 350 BCE, noting that some birds migrate while others hibernate. But the systematic, scientific study of animal behavior did not really take off until the 1930s.

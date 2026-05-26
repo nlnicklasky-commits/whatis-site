@@ -39,6 +39,12 @@ faq:
 
 Server administration is the practice of installing, configuring, maintaining, and securing computer servers so that the applications, websites, databases, and services [running](/running) on them stay available, performant, and safe. Every website you visit, every app you open, and every email you send relies on a server somewhere — and someone is responsible for keeping it running. That someone is a server administrator.
 
+
+<figure>
+  <img src="/images/articles/server-administration-fig1.webp" alt="An aisle of glowing server racks in a modern data center" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Server administrators keep the machines behind every website running.</figcaption>
+</figure>
+
 ## What Exactly Is a Server?
 
 Before getting into administration, let's clear up what "server" actually means — because the word gets thrown around loosely.

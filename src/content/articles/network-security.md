@@ -39,6 +39,12 @@ faq:
 
 Network security is the practice of protecting computer networks from unauthorized access, misuse, attacks, and data theft. It combines hardware devices, software tools, policies, and procedures to create barriers between your data and the people who shouldn't have it.
 
+
+<figure>
+  <img src="/images/articles/network-security-fig1.svg" alt="Defense-in-depth diagram: internet traffic passes through a firewall, DMZ, and internal network to reach protected data" width="1100" height="460" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Layered defenses protect critical data at the core.</figcaption>
+</figure>
+
 ## Why Network Security Matters More Than You Think
 
 Here's a number that should get your attention: the average cost of a data breach in 2025 hit $4.88 million globally. That's not a typo. And that figure only accounts for the direct costs — lost business, regulatory fines, and remediation. The reputational damage? Much harder to quantify but often worse.

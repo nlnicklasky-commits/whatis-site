@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 460" role="img" aria-label="Defense in depth: traffic from the internet passes through a firewall, then a DMZ, then the internal network, with critical data protected at the core." font-family="Inter, system-ui, -apple-system, sans-serif">
+  <rect width="1100" height="460" fill="#ffffff"/>
+  <text x="550" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="#1a1a2e">Defense in Depth</text>
+
+  <!-- concentric layers -->
+  <rect x="70"  y="95" width="960" height="300" rx="18" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="160" y="125" text-anchor="middle" font-size="20" font-weight="600" fill="#1d4ed8">Firewall</text>
+
+  <rect x="190" y="140" width="720" height="210" rx="16" fill="#dbeafe" stroke="#60a5fa" stroke-width="2"/>
+  <text x="300" y="170" text-anchor="middle" font-size="20" font-weight="600" fill="#1d4ed8">DMZ</text>
+
+  <rect x="320" y="185" width="460" height="120" rx="14" fill="#bfdbfe" stroke="#3b82f6" stroke-width="2"/>
+  <text x="470" y="213" text-anchor="middle" font-size="20" font-weight="600" fill="#1d4ed8">Internal network</text>
+
+  <!-- core data with lock -->
+  <rect x="470" y="225" width="160" height="62" rx="10" fill="#2563eb"/>
+  <text x="566" y="263" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">Data</text>
+  <g transform="translate(505 243)" stroke="#ffffff" stroke-width="2.5" fill="none">
+    <rect x="0" y="7" width="20" height="15" rx="2" fill="#ffffff" stroke="none"/>
+    <path d="M3 7 V4 a7 7 0 0 1 14 0 V7"/>
+  </g>
+
+  <!-- incoming traffic arrow -->
+  <text x="40" y="245" text-anchor="middle" font-size="18" fill="#4a5568" transform="rotate(-90 40 245)">Internet</text>
+  <path d="M12 245 H66" fill="none" stroke="#1a1a2e" stroke-width="3"/>
+  <path d="M58 238 L70 245 L58 252 z" fill="#1a1a2e"/>
+
+  <text x="550" y="425" text-anchor="middle" font-size="19" fill="#4a5568">Each layer an attacker must pass through buys time and adds a chance to detect them.</text>
+</svg>

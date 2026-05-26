@@ -41,6 +41,12 @@ faq:
 
 Aerospace [engineering](/engineering) is the branch of engineering that designs, builds, and tests aircraft, spacecraft, satellites, and missiles. It splits into two main disciplines: aeronautics (vehicles that fly within Earth's atmosphere) and astronautics (vehicles that operate beyond it). If it flies or orbits, an aerospace engineer probably had a hand in making it work.
 
+
+<figure>
+  <img src="/images/articles/aerospace-engineering-fig1.webp" alt="A white rocket ascending into a clear blue sky on a bright exhaust plume" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Aerospace engineering designs vehicles that fly within and beyond the atmosphere.</figcaption>
+</figure>
+
 ## Two Fields Under One Roof
 
 The "aero" in aerospace covers a lot of ground — literally and figuratively. Understanding the split between aeronautics and astronautics is the first step to understanding what aerospace engineers actually do all day.

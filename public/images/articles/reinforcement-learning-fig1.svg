@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" role="img" aria-label="The reinforcement learning loop: an agent takes an action on the environment, which returns a new state and a reward back to the agent." font-family="Inter, system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="rl-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="1000" height="440" fill="#ffffff"/>
+  <text x="500" y="48" text-anchor="middle" font-size="30" font-weight="700" fill="#1a1a2e">The Reinforcement Learning Loop</text>
+
+  <!-- Agent box -->
+  <rect x="110" y="170" width="250" height="120" rx="14" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/>
+  <text x="235" y="238" text-anchor="middle" font-size="28" font-weight="600" fill="#1d4ed8">Agent</text>
+
+  <!-- Environment box -->
+  <rect x="640" y="170" width="250" height="120" rx="14" fill="#eff6ff" stroke="#2563eb" stroke-width="2.5"/>
+  <text x="765" y="238" text-anchor="middle" font-size="28" font-weight="600" fill="#1d4ed8">Environment</text>
+
+  <!-- Action arrow (top, left to right) -->
+  <path d="M360 200 H640" fill="none" stroke="#2563eb" stroke-width="3" marker-end="url(#rl-arrow)"/>
+  <text x="500" y="184" text-anchor="middle" font-size="22" fill="#1a1a2e">Action</text>
+
+  <!-- State + Reward arrow (bottom, right to left) -->
+  <path d="M640 262 H360" fill="none" stroke="#2563eb" stroke-width="3" marker-end="url(#rl-arrow)"/>
+  <text x="500" y="298" text-anchor="middle" font-size="22" fill="#1a1a2e">State + Reward</text>
+
+  <text x="500" y="400" text-anchor="middle" font-size="19" fill="#4a5568">The agent acts; the environment responds with a new state and a reward; the agent learns to maximize total reward.</text>
+</svg>

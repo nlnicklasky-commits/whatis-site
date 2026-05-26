@@ -41,6 +41,12 @@ faq:
 
 Chemistry is the scientific study of matter—its properties, composition, structure, and the changes it undergoes during reactions with other matter. Sometimes called "the central science" because it bridges physics with biology and [earth science](/earth-science), chemistry explains everything from why iron rusts to how your body converts food into energy. There are roughly 118 known elements, and their combinations produce millions of distinct substances that make up the physical world.
 
+
+<figure>
+  <img src="/images/articles/chemistry-fig1.webp" alt="Laboratory glassware filled with brightly colored liquids and a falling droplet" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Chemistry studies how substances combine, react, and transform.</figcaption>
+</figure>
+
 ## Atoms: The Cast of Characters
 
 Everything around you—your phone, the air you breathe, your own body—is made of atoms. And atoms are absurdly small. Line up about 10 million of them side by side, and you'd span the width of a single millimeter. Yet these tiny particles determine the behavior of every substance in existence.

@@ -39,6 +39,12 @@ faq:
 
 Optics is the branch of [physics](/physics) that studies light — how it behaves, how it interacts with matter, and how we can bend it, split it, and focus it to do useful things. It covers everything from why the sky is blue to how surgeons use lasers to reshape corneas.
 
+
+<figure>
+  <img src="/images/articles/optics-fig1.svg" alt="Ray diagram showing a convex lens forming a real, inverted image of an object" width="1100" height="520" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>A convex lens bends light rays to form an image.</figcaption>
+</figure>
+
 ## Light Itself: What Are We Actually Talking About?
 
 Before you can understand optics, you need to grapple with a surprisingly tricky question: what is light?

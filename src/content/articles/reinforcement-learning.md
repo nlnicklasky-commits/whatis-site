@@ -43,6 +43,12 @@ If supervised learning is like studying with an answer key, reinforcement learni
 
 And RL has accomplished genuinely astonishing things. DeepMind's AlphaGo defeated the world champion at Go in 2016 — a game with more possible board positions than atoms in the observable universe. OpenAI Five beat professional teams at DOTA 2. AlphaFold used RL techniques to predict protein structures, a problem that had stumped biologists for 50 years. These are not incremental improvements. They are capabilities that seemed decades away just a few years before they happened.
 
+
+<figure>
+  <img src="/images/articles/reinforcement-learning-fig1.svg" alt="Diagram of the reinforcement learning loop: an agent takes an action on the environment, which returns a new state and reward" width="1000" height="440" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>The agent learns by acting and observing the resulting reward.</figcaption>
+</figure>
+
 ## The Core Framework: Agent, Environment, State, Action, Reward
 
 Every reinforcement learning system has the same basic structure. Understanding these five elements lets you understand any RL system, from a simple grid-world puzzle to a robot learning to walk.

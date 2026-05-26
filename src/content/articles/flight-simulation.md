@@ -39,6 +39,12 @@ faq:
 
 Flight simulation is the artificial recreation of aircraft flight and the environment in which it occurs, using a combination of software models, hardware interfaces, and — in professional systems — motion platforms and visual displays. It serves three primary purposes: training pilots safely and cost-effectively, testing aircraft designs before physical prototypes exist, and providing realistic entertainment for aviation enthusiasts.
 
+
+<figure>
+  <img src="/images/articles/flight-simulation-fig1.webp" alt="A passenger airliner banking through golden sunset clouds" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Flight simulators recreate the experience of piloting real aircraft.</figcaption>
+</figure>
+
 ## How Flight Simulation Actually Works
 
 At its heart, a flight simulator is a lie your brain mostly believes. It takes mathematical models of how air flows over wings, how engines produce thrust, and how control surfaces alter an aircraft's trajectory — then runs those calculations fast enough that a human sitting in front of the controls feels like they're flying.

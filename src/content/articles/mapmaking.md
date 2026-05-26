@@ -41,6 +41,12 @@ Mapmaking — formally called [cartography](/cartography) — is the science, ar
 
 Maps are so woven into daily life that you probably used one today without thinking about it. Checked your phone for directions? That's a map. Looked at a weather forecast? Map. Scrolled through a [real estate](/real-estate) listing? Map. Each of those required someone — or some system — to collect spatial data, choose what to include and exclude, pick a visual representation, and handle the unavoidable distortions that come from projecting a sphere onto a flat surface.
 
+
+<figure>
+  <img src="/images/articles/mapmaking-fig1.webp" alt="An antique brass globe, a compass, and a blank parchment by candlelight" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Mapmaking turns the world into something you can hold and navigate.</figcaption>
+</figure>
+
 ## The Problem Every Mapmaker Faces
 
 Here's the fundamental challenge of mapmaking, and it's one that hasn't changed in thousands of years: the Earth is round-ish, and maps are flat. You cannot perfectly represent a curved surface on a flat plane. Period. This isn't a technology limitation — it's a mathematical impossibility, proven by Gauss in the early 19th century.

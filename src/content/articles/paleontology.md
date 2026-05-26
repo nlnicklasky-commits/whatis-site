@@ -39,6 +39,12 @@ faq:
 
 Paleontology is the scientific study of ancient life on Earth through the examination of fossils — the preserved remains, impressions, and traces of organisms that lived thousands to billions of years ago. It sits at the intersection of [biology](/biology) and [geology](/geology), reconstructing the history of life from evidence locked in rock.
 
+
+<figure>
+  <img src="/images/articles/paleontology-fig1.webp" alt="A dinosaur skeleton embedded in layered sedimentary rock" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Paleontology reconstructs ancient life from fossils preserved in rock.</figcaption>
+</figure>
+
 ## More Than Just Dinosaur Bones
 
 When most people hear "paleontology," they picture someone brushing dirt off a T. rex skull in the desert. And sure, that happens. But paleontology is far broader — and, frankly, weirder — than [popular culture](/popular-culture) suggests.

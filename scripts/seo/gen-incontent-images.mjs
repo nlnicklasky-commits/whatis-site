@@ -1,0 +1,73 @@
+// Generate concept-specific WORDLESS in-content illustrations via FLUX 1.1 Pro.
+// Output: public/images/articles/<slug>-fig1.webp (1344x768). Artifact-safe
+// prompts (no text/labels); every image must still be visually inspected before
+// going live. Graceful OCR gate flags any rendered text. Run from project root:
+//   node scripts/seo/gen-incontent-images.mjs [slug ...]
+import { rmSync } from 'node:fs';
+import { execSync } from 'node:child_process';
+import sharp from 'sharp';
+import { config } from 'dotenv';
+config({ path: '.env' });
+
+const TOKEN = process.env.REPLICATE_API_TOKEN;
+const MODEL = 'black-forest-labs/flux-1.1-pro';
+const DIR = 'public/images/articles';
+const SUFFIX = 'clean composition, no text, no words, no letters, no numbers, no captions, no logos, no watermark, no signature, no UI, no labels, no signage, no diagrams';
+
+const JOBS = [
+  { slug: 'cybersecurity', prompt: `Editorial 3D render, a glowing blue padlock and a translucent shield floating above an abstract network of connected light nodes, deep dark-blue background, cinematic rim light, sense of digital protection, ${SUFFIX}` },
+  { slug: 'flight-simulation', prompt: `Editorial photograph, a sleek modern airliner banking gracefully through golden sunset clouds high above, dramatic atmospheric light, shallow depth of field, sense of flight, no cockpit instruments, ${SUFFIX}` },
+  { slug: 'sandblasting', prompt: `Editorial photograph, a close-up stream of abrasive sand blasting against a rusty metal surface revealing bright bare steel, flying dust and sparks, dramatic side light, shallow depth of field, ${SUFFIX}` },
+  { slug: 'aerospace-engineering', prompt: `Editorial photograph, a sleek white rocket ascending with a brilliant exhaust plume against a clear blue sky, dynamic upward diagonal, sense of engineering power, ${SUFFIX}` },
+  { slug: 'alternative-energy', prompt: `Editorial photograph, white wind turbines and rows of solar panels in a lush green field at golden hour, clean blue sky, hopeful sustainable mood, ${SUFFIX}` },
+  { slug: 'animal-behavior', prompt: `Editorial wildlife photograph, a sweeping murmuration of starlings forming flowing organic shapes against a dusk sky, sense of collective behavior, soft natural light, ${SUFFIX}` },
+  { slug: 'anthropology', prompt: `Editorial photograph, ancient stone hand tools and weathered clay pottery shards arranged on dark earth, warm museum spotlight, shallow depth of field, sense of human history, ${SUFFIX}` },
+  { slug: 'server-administration', prompt: `Editorial photograph, rows of sleek server racks in a modern data center glowing with soft blue ambient light, receding perspective, no screens, no displays, ${SUFFIX}` },
+  { slug: 'paleontology', prompt: `Editorial photograph, a large dinosaur skeleton fossil partially embedded in layered rock, dramatic museum lighting, sense of deep time and discovery, ${SUFFIX}` },
+  { slug: 'springs', prompt: `Editorial macro photograph, several shiny chrome coiled metal compression springs of varying sizes on a clean reflective surface, soft studio light, shallow depth of field, ${SUFFIX}` },
+  { slug: 'marine-biology', prompt: `Editorial underwater photograph, a vibrant healthy coral reef teeming with colorful tropical fish, shafts of sunlight piercing clear blue water, ${SUFFIX}` },
+  { slug: 'tire-technology', prompt: `Editorial macro photograph, an extreme close-up of a rugged car tire tread pattern glistening with water droplets, dramatic low side light, deep blacks, ${SUFFIX}` },
+  { slug: 'mapmaking', prompt: `Editorial photograph, an antique brass globe, a brass compass, and a blank rolled parchment with absolutely no writing, on a dark wooden table, warm candlelight, blank surfaces only, ${SUFFIX}, no map, no markings` },
+  { slug: 'chemistry', prompt: `Editorial photograph, elegant laboratory glassware with vivid colored liquids and a single droplet mid-fall, clean bright lab background, soft diffused light, no labels on glassware, ${SUFFIX}` },
+];
+
+const only = process.argv.slice(2).filter((a) => !a.startsWith('-'));
+const jobs = only.length ? JOBS.filter((j) => only.includes(j.slug)) : JOBS;
+
+function hasCmd(c) { try { execSync(process.platform === 'win32' ? `where ${c}` : `command -v ${c}`, { stdio: 'ignore' }); return true; } catch { return false; } }
+function ocrCheck(file) {
+  if (!hasCmd('tesseract') || !hasCmd('magick')) return null;
+  const png = file.replace(/\.webp$/, '.ocr.png');
+  try { execSync(`magick "${file}" "${png}"`, { stdio: 'ignore' }); const txt = execSync(`tesseract "${png}" stdout --psm 11`, { encoding: 'utf8' }).replace(/\s+/g, ''); return txt.length >= 3 ? txt : ''; }
+  catch { return null; } finally { rmSync(png, { force: true }); }
+}
+
+async function generate(prompt) {
+  const create = await fetch(`https://api.replicate.com/v1/models/${MODEL}/predictions`, {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${TOKEN}`, 'Content-Type': 'application/json', Prefer: 'wait' },
+    body: JSON.stringify({ input: { prompt, aspect_ratio: 'custom', width: 1344, height: 768, output_format: 'webp', output_quality: 90, prompt_upsampling: true, safety_tolerance: 2 } }),
+  });
+  let pred = await create.json();
+  if (pred.error) throw new Error(JSON.stringify(pred.error));
+  while (pred.status && !['succeeded', 'failed', 'canceled'].includes(pred.status)) {
+    await new Promise((r) => setTimeout(r, 2000));
+    pred = await fetch(pred.urls.get, { headers: { Authorization: `Bearer ${TOKEN}` } }).then((r) => r.json());
+  }
+  if (pred.status !== 'succeeded') throw new Error(`status ${pred.status}`);
+  return Array.isArray(pred.output) ? pred.output[0] : pred.output;
+}
+
+for (const { slug, prompt } of jobs) {
+  const out = `${DIR}/${slug}-fig1.webp`;
+  try {
+    process.stdout.write(`Generating ${slug}-fig1... `);
+    const url = await generate(prompt);
+    const buf = Buffer.from(await fetch(url).then((r) => r.arrayBuffer()));
+    await sharp(buf).resize(1344, 768, { fit: 'cover' }).webp({ quality: 82 }).toFile(out);
+    const ocr = ocrCheck(out);
+    const note = ocr === null ? '(OCR skipped)' : ocr ? `⚠ OCR "${ocr}"` : 'OCR clean';
+    console.log(`done | ${note}`);
+  } catch (e) { console.error(`FAILED ${slug}: ${e.message}`); }
+}
+console.log('\nAll done.');

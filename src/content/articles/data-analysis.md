@@ -37,6 +37,12 @@ faq:
 
 Data analysis is the systematic process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It sits at the intersection of [statistics](/statistics), domain expertise, and increasingly, [computer science](/computer-science)—and it's become one of the most in-demand skills across virtually every industry.
 
+
+<figure>
+  <img src="/images/articles/data-analysis-fig1.svg" alt="Diagram of the data analysis pipeline: collect, clean, analyze, visualize, decide" width="1200" height="360" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Raw data becomes a decision through a sequence of steps.</figcaption>
+</figure>
+
 ## Why Data Analysis Matters More Than Ever
 
 Here's a number that should grab your attention: the world generates roughly 328.77 million terabytes of data every single day as of 2025. That's not a typo. Every click, purchase, sensor reading, social media post, and medical record adds to this avalanche. The problem isn't collecting data anymore—it's figuring out what it actually means.

@@ -41,6 +41,12 @@ Sandblasting is a surface treatment process that propels abrasive material at hi
 
 The name "sandblasting" comes from the original medium: actual sand. But here's the thing—most modern operations don't use sand anymore. Silica sand turned out to cause a devastating lung disease called silicosis, so the industry shifted to safer alternatives decades ago. The name stuck, though. People still call it sandblasting whether the abrasive is walnut shells, [baking](/baking) soda, or aluminum oxide.
 
+
+<figure>
+  <img src="/images/articles/sandblasting-fig1.webp" alt="An abrasive blasting nozzle stripping rust from metal in a shower of sparks" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Sandblasting uses high-speed abrasive to clean and prepare surfaces.</figcaption>
+</figure>
+
 ## How Sandblasting Actually Works
 
 The basic [physics](/physics) behind sandblasting are surprisingly straightforward. You're essentially doing what wind and water do to rock formations over millennia—eroding material through particle impact—but compressed into seconds rather than centuries.

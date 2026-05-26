@@ -41,6 +41,12 @@ Marine biology is the scientific study of life in the ocean — from bacteria so
 
 Here's a number that puts the field in perspective: the ocean covers 71% of Earth's surface and contains 97% of our planet's water. It harbors an estimated 700,000 to over 1 million species, and scientists believe we've only identified about a third of them. We've mapped the surface of Mars in greater detail than the ocean floor. Marine biology, in other words, is studying the largest and least understood habitat on the planet.
 
+
+<figure>
+  <img src="/images/articles/marine-biology-fig1.webp" alt="A vibrant coral reef teeming with tropical fish beneath sunlit water" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Marine biology studies life in the ocean, from reefs to the deep sea.</figcaption>
+</figure>
+
 ## Why the Ocean Is Different From Everything Else
 
 Marine environments are fundamentally different from terrestrial ones, and those differences shape everything about marine biology.

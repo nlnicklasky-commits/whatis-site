@@ -45,6 +45,12 @@ For current breach costs, ransomware payments, and the workforce gap, see our [C
 
 Cybersecurity comes down to one fundamental truth: everything digital can be compromised. Databases can be breached. Networks can be infiltrated. Systems can be hijacked. Communications can be intercepted. The challenge for security professionals, organizations, and individuals is implementing defenses faster than attackers can circumvent them. This requires understanding not just the technical mechanisms of attacks, but also the human, organizational, and strategic dimensions that make security possible.
 
+
+<figure>
+  <img src="/images/articles/cybersecurity-fig1.webp" alt="A glowing blue padlock floating above an abstract digital network" width="1344" height="768" loading="lazy" decoding="async" class="rounded-lg" />
+  <figcaption>Cybersecurity protects data and systems from digital threats.</figcaption>
+</figure>
+
 ## Why Everything Connected Is Everything Vulnerable
 
 The expansion of digital connectivity has created new attack surfaces faster than defenses can be built. Every smartphone, IoT device, cloud service, and connected sensor represents a potential entry point for malicious actors. The average organization now manages thousands of endpoints—computers, phones, tablets, servers, IoT devices—each requiring security patches and monitoring. This sprawl is why the security picture has fundamentally transformed.
