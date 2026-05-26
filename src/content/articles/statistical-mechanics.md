@@ -57,7 +57,7 @@ A **microstate** is a complete description of every particle in the system: the 
 
 A **macrostate** is what you actually measure: temperature, pressure, volume, total energy. A macrostate is defined by a handful of numbers. Here's the key insight — an astronomically large number of different microstates all correspond to the same macrostate. The air in your room has a definite temperature and pressure right now, but the specific arrangement of molecules producing that temperature and pressure changes trillions of times per second.
 
-Statistical mechanics postulates that all microstates consistent with the observed macroscopic constraints are equally likely. This is called the **equal a priori probability postulate**, and from this single assumption, the entire structure of [thermodynamics](/classical-mechanics) follows.
+Statistical mechanics postulates that all microstates consistent with the observed macroscopic constraints are equally likely. This is called the **equal a priori probability postulate**, and from this single assumption, the entire structure of [thermodynamics](/thermodynamics) follows.
 
 ### Counting Microstates
 

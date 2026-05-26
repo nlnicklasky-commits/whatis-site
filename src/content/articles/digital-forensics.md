@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2448
 tier: "2"
-relatedArticles: ["algorithms", "blockchain", "machine-learning"]
+relatedArticles: ["algorithms", "blockchain", "machine-learning", "computer-repair", "network-administration"]
 externalSources:
   - title: "NIST Computer Forensics Guidelines"
     url: "https://www.nist.gov/itl/ssd/software-quality-group/computer-forensics-tool-testing-program-cftt"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3574
 tier: "1"
-relatedArticles: ["computer-graphics", "digital-signal-processing", "app-development", "digital-marketing"]
+relatedArticles: ["computer-graphics", "digital-signal-processing", "app-development", "digital-marketing", "tidal-power"]
 externalSources:
   - title: "School of Motion — What Is Motion Design?"
     url: "https://www.schoolofmotion.com/blog/what-is-motion-design"
@@ -37,7 +37,7 @@ faq:
 
 # What Is Motion Graphics?
 
-Motion graphics is the art of bringing [graphic design](/graphic-design) to life through movement. Take a logo, a chart, some text, a handful of geometric shapes — now make them move with purpose and rhythm. That's motion graphics in a sentence. It sits at the intersection of [graphic design](/computer-graphics), [animation](/animation), and [filmmaking](/filmmaking), and it's become one of the most in-demand creative skills of the past decade.
+Motion graphics is the art of bringing [graphic design](/graphic-design) to life through movement. Take a logo, a chart, some text, a handful of geometric shapes — now make them move with purpose and rhythm. That's motion graphics in a sentence. It sits at the intersection of [graphic design](/graphic-design), [animation](/animation), and [filmmaking](/filmmaking), and it's become one of the most in-demand creative skills of the past decade.
 
 You've seen motion graphics thousands of times even if you didn't know the term. The animated title sequence of your favorite TV show? Motion graphics. That slick explainer video a startup used to pitch their product? Motion graphics. The lower-third text crawling across a news broadcast? Also motion graphics. The animated infographic that went viral on social media last week? You get the idea.
 
@@ -89,7 +89,7 @@ Here are the ones that matter most for motion designers:
 
 **Ease In and Ease Out (Slow In and Slow Out).** Real objects don't start and stop moving instantaneously. They accelerate and decelerate. In After Effects, this is controlled through "easing" on keyframes — and frankly, it's the single most important thing separating amateur motion graphics from professional work. Linear keyframes (constant speed) look robotic. Properly eased motion looks polished.
 
-**Staging.** Direct the viewer's attention to what matters. In a frame with twenty elements, motion should guide the eye to the one that's important right now. This connects directly to [graphic design](/computer-graphics) principles of visual hierarchy.
+**Staging.** Direct the viewer's attention to what matters. In a frame with twenty elements, motion should guide the eye to the one that's important right now. This connects directly to [graphic design](/graphic-design) principles of visual hierarchy.
 
 **Follow Through and Overlapping Action.** When a main element stops moving, secondary elements continue slightly. A title card slides into position, but the text on it settles a few frames later. This layered timing creates richness and prevents motion from feeling stiff.
 
@@ -253,7 +253,7 @@ After years of watching student and junior work, certain patterns emerge consist
 
 **Ignoring easing.** Linear keyframes — where objects move at constant speed — are the single biggest giveaway of amateur work. Learn the graph editor in After Effects. Learn it well. The difference between linear motion and properly eased motion is the difference between "my nephew made this" and "a professional made this."
 
-**Poor typography.** If you're animating text and the type choices, sizing, and spacing aren't solid, no amount of clever animation will save it. Typography is a core [graphic design](/computer-graphics) discipline, and it matters even more in motion because the viewer's attention is drawn to anything that moves.
+**Poor typography.** If you're animating text and the type choices, sizing, and spacing aren't solid, no amount of clever animation will save it. Typography is a core [graphic design](/graphic-design) discipline, and it matters even more in motion because the viewer's attention is drawn to anything that moves.
 
 **Neglecting audio.** A beautifully animated piece with no [sound design](/sound-design) feels incomplete. Even subtle ambient sound and transition effects make an enormous difference in perceived quality.
 

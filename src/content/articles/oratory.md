@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1001
 tier: "3"
-relatedArticles: ["rhetoric", "communication-theory", "argumentation", "philosophy"]
+relatedArticles: ["rhetoric", "communication-theory", "argumentation", "philosophy", "mnemotechnics"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy - Rhetoric"
     url: "https://plato.stanford.edu/entries/aristotle-rhetoric/"

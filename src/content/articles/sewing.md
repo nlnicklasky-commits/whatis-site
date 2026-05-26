@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1073
 tier: "3"
-relatedArticles: ["screen-printing", "sericulture", "shoemaking"]
+relatedArticles: ["screen-printing", "sericulture", "shoemaking", "insect-collecting", "leatherworking"]
 externalSources:
   - title: "Textile Museum - Smithsonian"
     url: "https://www.si.edu/"

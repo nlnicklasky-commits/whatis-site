@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1627
 tier: "3"
-relatedArticles: ["international-law", "political-philosophy", "sociology"]
+relatedArticles: ["international-law", "political-philosophy", "sociology", "penology", "refugee-law"]
 externalSources:
   - title: "United Nations: Universal Declaration of Human Rights"
     url: "https://www.un.org/en/about-us/universal-declaration-of-human-rights"

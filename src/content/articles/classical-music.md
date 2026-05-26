@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1096
 tier: "3"
-relatedArticles: ["music-theory", "opera", "choral-music", "classical-composition"]
+relatedArticles: ["music-theory", "opera", "choral-music", "classical-composition", "photographic-history"]
 externalSources:
   - title: "Library of Congress - Music Division"
     url: "https://www.loc.gov/collections/music-division/"

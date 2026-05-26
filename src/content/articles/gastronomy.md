@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 942
 tier: "3"
-relatedArticles: ["gourmet-cooking", "food-writing", "food-styling", "food-preservation"]
+relatedArticles: ["gourmet-cooking", "food-writing", "food-styling", "food-preservation", "french-language"]
 externalSources:
   - title: "UNESCO — Intangible Cultural Heritage: Food"
     url: "https://ich.unesco.org/"

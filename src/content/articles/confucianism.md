@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2734
 tier: "2"
-relatedArticles: ["stoicism", "aesthetics", "anthropology", "animal-behavior"]
+relatedArticles: ["stoicism", "aesthetics", "anthropology", "animal-behavior", "stichomancy"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy - Confucius"
     url: "https://plato.stanford.edu/entries/confucius/"

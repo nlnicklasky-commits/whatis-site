@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 931
 tier: "3"
-relatedArticles: ["instrument-making", "knot-tying", "interior-design", "casting-metal"]
+relatedArticles: ["instrument-making", "knot-tying", "interior-design", "casting-metal", "jukebox-collecting"]
 externalSources:
   - title: "Home Shop Machinist Magazine"
     url: "https://www.homeshopmachinist.net/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1529
 tier: "3"
-relatedArticles: ["anatomy", "biology", "data-analysis", "algorithms"]
+relatedArticles: ["anatomy", "biology", "data-analysis", "algorithms", "myrmecology"]
 externalSources:
   - title: "CDC: Introduction to Epidemiology"
     url: "https://www.cdc.gov/training/publichealth101/epidemiology.html"
@@ -119,7 +119,7 @@ But the fundamental [logic](/logic) remains the same as Snow's: observe, hypothe
 
 A common misconception is that epidemiology is only about epidemics. In reality, the field covers every health condition.
 
-**Cancer epidemiology** studies risk factors for different cancers — from [genetics](/biology) to environmental exposures to lifestyle factors. The link between HPV and cervical cancer, established through epidemiological studies, led directly to the HPV vaccine.
+**Cancer epidemiology** studies risk factors for different cancers — from [genetics](/genetics) to environmental exposures to lifestyle factors. The link between HPV and cervical cancer, established through epidemiological studies, led directly to the HPV vaccine.
 
 **Cardiovascular epidemiology** has identified the modifiable risk factors for heart disease and stroke, driving public health campaigns around blood pressure, cholesterol, diet, and exercise.
 

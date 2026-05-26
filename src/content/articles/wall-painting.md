@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 815
 tier: "3"
-relatedArticles: ["visual-arts", "western-art", "pop-art", "printmaking"]
+relatedArticles: ["visual-arts", "western-art", "pop-art", "printmaking", "mural-painting"]
 externalSources:
   - title: "The Metropolitan Museum of Art — Mural Painting"
     url: "https://www.metmuseum.org/"

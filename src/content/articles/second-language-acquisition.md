@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1205
 tier: "3"
-relatedArticles: ["semantics", "sociolinguistics", "sign-language"]
+relatedArticles: ["semantics", "sociolinguistics", "sign-language", "spanish-language"]
 externalSources:
   - title: "Second Language Acquisition Research - Cambridge University Press"
     url: "https://www.cambridge.org/"

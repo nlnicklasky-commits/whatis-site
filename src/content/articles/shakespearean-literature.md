@@ -59,7 +59,7 @@ The blank verse (unrhymed iambic pentameter) that forms the backbone of his play
 
 Shakespeare didn't write for English classes. He wrote for a commercial theater company that needed to fill seats six days a week.
 
-The Globe Theatre held about 3,000 people. Groundlings (standing audience) paid a penny. Better seats cost more. The audience was mixed — aristocrats and apprentices, scholars and illiterates, all watching the same play. Shakespeare wrote for all of them simultaneously — philosophical depth for the educated, [physical comedy](/physics)) and bawdy humor for everyone else, and compelling stories that kept all 3,000 people engaged for three hours.
+The Globe Theatre held about 3,000 people. Groundlings (standing audience) paid a penny. Better seats cost more. The audience was mixed — aristocrats and apprentices, scholars and illiterates, all watching the same play. Shakespeare wrote for all of them simultaneously — philosophical depth for the educated, [physical comedy](/physical-comedy)) and bawdy humor for everyone else, and compelling stories that kept all 3,000 people engaged for three hours.
 
 This practical context shaped his [writing](/writing). He wrote roles for specific actors — the clown Will Kemp, the leading man Richard Burbage. He wrote quickly — about two plays a year, sometimes more. He recycled plots from Italian novellas, English chronicles, and classical sources. Originality in plot wasn't the point. Originality in language, character, and dramatic structure was.
 

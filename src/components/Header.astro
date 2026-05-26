@@ -28,33 +28,31 @@ const categories = [
       ))}
       <a href="/statistics" class="text-gray-600 hover:text-primary transition-colors">Stats</a>
       <a href="/free-tools" class="text-gray-600 hover:text-primary transition-colors">Tools</a>
-      <a href="/categories" class="text-gray-400 hover:text-primary transition-colors">
+      <a href="/categories" class="text-gray-500 hover:text-primary transition-colors">
         More &rarr;
       </a>
     </nav>
 
-    <!-- Mobile menu button -->
-    <button
-      class="md:hidden p-2 text-gray-600"
-      aria-label="Open menu"
-      onclick="document.getElementById('mobile-menu').classList.toggle('hidden')"
-    >
-      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-      </svg>
-    </button>
-  </div>
-
-  <!-- Mobile menu -->
-  <div id="mobile-menu" class="hidden md:hidden border-t border-gray-100 bg-white px-4 py-3">
-    <nav class="flex flex-col gap-3 text-sm">
-      {categories.map(cat => (
-        <a href={`/category/${cat.slug}`} class="text-gray-600 hover:text-primary py-1">{cat.label}</a>
-      ))}
-      <a href="/statistics" class="text-gray-600 hover:text-primary py-1">Statistics</a>
-      <a href="/free-tools" class="text-gray-600 hover:text-primary py-1">Free Tools</a>
-      <a href="/categories" class="text-primary font-medium py-1">All Categories &rarr;</a>
-      <a href="/about" class="text-gray-600 hover:text-primary py-1">About</a>
-    </nav>
+    <!-- Mobile menu — JS-free disclosure (native <details> exposes open/closed
+         state to assistive tech and works with keyboard and no JavaScript). -->
+    <details class="md:hidden">
+      <summary
+        class="list-none [&::-webkit-details-marker]:hidden p-2 text-gray-600 cursor-pointer"
+        aria-label="Toggle navigation menu"
+      >
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </summary>
+      <nav class="absolute left-0 right-0 top-full border-t border-gray-100 bg-white px-4 py-3 flex flex-col gap-3 text-sm shadow-lg">
+        {categories.map(cat => (
+          <a href={`/category/${cat.slug}`} class="text-gray-600 hover:text-primary py-1">{cat.label}</a>
+        ))}
+        <a href="/statistics" class="text-gray-600 hover:text-primary py-1">Statistics</a>
+        <a href="/free-tools" class="text-gray-600 hover:text-primary py-1">Free Tools</a>
+        <a href="/categories" class="text-primary font-medium py-1">All Categories &rarr;</a>
+        <a href="/about" class="text-gray-600 hover:text-primary py-1">About</a>
+      </nav>
+    </details>
   </div>
 </header>

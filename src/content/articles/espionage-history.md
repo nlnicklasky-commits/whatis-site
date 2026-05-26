@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1626
 tier: "3"
-relatedArticles: ["european-history", "english-history", "cryptography", "digital-forensics"]
+relatedArticles: ["european-history", "english-history", "cryptography", "digital-forensics", "septuagint-studies"]
 externalSources:
   - title: "CIA: History of the CIA"
     url: "https://www.cia.gov/about/history-of-the-cia/"

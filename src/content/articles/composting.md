@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 995
 tier: "3"
-relatedArticles: ["gardening", "recycling", "organic-farming", "vegetable-gardening"]
+relatedArticles: ["gardening", "recycling", "organic-farming", "vegetable-gardening", "chicken-farming"]
 externalSources:
   - title: "EPA - Composting at Home"
     url: "https://www.epa.gov/recycle/composting-home"

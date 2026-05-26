@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 881
 tier: "3"
-relatedArticles: ["international-development", "intelligence-analysis", "leadership", "indian-history"]
+relatedArticles: ["international-development", "intelligence-analysis", "leadership", "indian-history", "social-network-analysis"]
 externalSources:
   - title: "Council on Foreign Relations"
     url: "https://www.cfr.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1583
 tier: "3"
-relatedArticles: ["archaeology", "stoicism", "comparative-religion", "capitalism"]
+relatedArticles: ["archaeology", "stoicism", "comparative-religion", "capitalism", "historical-piracy"]
 externalSources:
   - title: "Perseus Digital Library — Tufts University"
     url: "https://www.perseus.tufts.edu/"
@@ -41,7 +41,7 @@ Classical civilizations is the academic study of the ancient Greek and Roman soc
 
 Fair question. Ancient Egypt, Persia, China, and India all produced sophisticated civilizations with lasting legacies. But the Western academic tradition singles out Greece and Rome for a specific reason: the intellectual and institutional frameworks that shaped Europe, and by extension the Americas and much of the modern world, trace most directly to these two cultures.
 
-That doesn't mean they were "better." It means the chain of influence is unusually direct. The U.S. Capitol building looks like a Roman temple on purpose. When Thomas Jefferson designed the University of Virginia, he used classical [architecture](/archaeology) as his model. The word "democracy" is literally Greek — *demos* (people) + *kratos* (power).
+That doesn't mean they were "better." It means the chain of influence is unusually direct. The U.S. Capitol building looks like a Roman temple on purpose. When Thomas Jefferson designed the University of Virginia, he used classical [architecture](/architecture) as his model. The word "democracy" is literally Greek — *demos* (people) + *kratos* (power).
 
 But here's what makes this field interesting rather than dusty: classical civilizations were messy, contradictory, and frequently brutal. Athens invented democracy and ran on slave labor. Rome built aqueducts and crucified thousands. Understanding these contradictions is the real work.
 
@@ -65,7 +65,7 @@ If Greece gave the world one thing, it was the habit of asking "why?" systematic
 
 Socrates (470–399 BCE) shifted philosophy toward ethics and human behavior. He never wrote anything down — everything we know comes through his student Plato. Socrates was executed by Athens for "corrupting the youth" and "impiety," which probably had more to do with his embarrassing habit of proving important people wrong in public.
 
-Plato (428–348 BCE) founded the Academy, wrote dialogues exploring justice, beauty, truth, and the ideal state, and proposed that the physical world is just a shadow of a higher reality of perfect "Forms." His student Aristotle (384–322 BCE) took the opposite approach — observe the physical world, categorize it, and reason from evidence. Aristotle wrote on [philosophy](/stoicism), [biology](/biology), [politics](/politics), [logic](/logic), and [poetry](/poetry). His work dominated Western thought for nearly two millennia.
+Plato (428–348 BCE) founded the Academy, wrote dialogues exploring justice, beauty, truth, and the ideal state, and proposed that the physical world is just a shadow of a higher reality of perfect "Forms." His student Aristotle (384–322 BCE) took the opposite approach — observe the physical world, categorize it, and reason from evidence. Aristotle wrote on [philosophy](/philosophy), [biology](/biology), [politics](/politics), [logic](/logic), and [poetry](/poetry). His work dominated Western thought for nearly two millennia.
 
 ### Greek Art, Drama, and Science
 
@@ -105,7 +105,7 @@ The Romans also developed apartment buildings, central heating (hypocausts), pub
 
 The Western Roman Empire fell in 476 CE when the Germanic chieftain Odoacer deposed the last emperor. But "fell" is somewhat misleading. The Eastern Roman Empire — Byzantium — continued until 1453. And Roman culture didn't vanish; it was absorbed.
 
-The Catholic Church preserved Latin, Roman administrative structures, and classical texts. Monasteries copied manuscripts that would otherwise have been lost. [Roman law](/business-law) became the basis for the legal systems of continental Europe. Latin evolved into French, Spanish, Italian, Portuguese, and Romanian.
+The Catholic Church preserved Latin, Roman administrative structures, and classical texts. Monasteries copied manuscripts that would otherwise have been lost. [Roman law](/roman-law) became the basis for the legal systems of continental Europe. Latin evolved into French, Spanish, Italian, Portuguese, and Romanian.
 
 The Islamic world also preserved and expanded on classical knowledge. Arab scholars translated Greek philosophy, [mathematics](/mathematics), and medicine, adding their own contributions. When these texts returned to Western Europe during the 12th century, they sparked a renaissance of classical learning.
 

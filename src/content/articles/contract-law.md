@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3282
 tier: "1"
-relatedArticles: ["corporate-finance", "credit-management", "accounting", "economics"]
+relatedArticles: ["corporate-finance", "credit-management", "accounting", "economics", "talmudic-law"]
 externalSources:
   - title: "Cornell Law Institute - Contract Law"
     url: "https://www.law.cornell.edu/wex/contract"

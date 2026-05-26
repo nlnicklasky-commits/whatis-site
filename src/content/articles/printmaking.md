@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1023
 tier: "3"
-relatedArticles: ["illustration", "graphic-design", "painting"]
+relatedArticles: ["illustration", "graphic-design", "painting", "zincography"]
 externalSources:
   - title: "MoMA — What Is a Print?"
     url: "https://www.moma.org/collection/terms/print"

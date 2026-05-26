@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1478
 tier: "3"
-relatedArticles: ["cognitive-psychology", "behavioral-psychology", "developmental-psychology", "anatomy"]
+relatedArticles: ["cognitive-psychology", "behavioral-psychology", "developmental-psychology", "anatomy", "paramedicine"]
 externalSources:
   - title: "American Psychological Association: About Clinical Psychology"
     url: "https://www.apa.org/ed/graduate/specialize/clinical"

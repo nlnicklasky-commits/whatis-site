@@ -91,7 +91,7 @@ MIDI controllers — keyboards, pad controllers, wind controllers — let compos
 
 ## Learning to Compose
 
-The traditional path runs through formal [music education](/pop-music)) — conservatory or university programs [teaching](/teaching) theory, counterpoint, orchestration, and analysis. Studying scores by great composers is the literary equivalent of reading great novels before writing your own.
+The traditional path runs through formal [music education](/music-education)) — conservatory or university programs [teaching](/teaching) theory, counterpoint, orchestration, and analysis. Studying scores by great composers is the literary equivalent of reading great novels before writing your own.
 
 But many working composers are self-taught or informally trained. The ability to hear, imagine, and organize sound matters more than credentials. What helps most is writing constantly — finishing pieces, hearing them performed (or at least played back through software), and critically evaluating what works and what doesn't.
 

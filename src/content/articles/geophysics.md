@@ -215,7 +215,7 @@ Geophysics still has major unsolved problems.
 
 Geophysics affects your life more than you probably realize. The earthquake safety of your building depends on geophysical hazard maps. The fuel in your car was likely found using seismic surveys. The GPS on your phone relies on geodetic measurements of Earth's shape. Weather forecasts incorporate geophysical data about ocean temperatures and atmospheric conditions. Even your tap water may come from aquifers located using geophysical methods.
 
-The field also contributes to addressing global challenges: [climate change](/climatology) monitoring, natural [disaster preparedness](/disaster-preparedness), sustainable [resource management](/resource-management), and space exploration all depend heavily on geophysical science.
+The field also contributes to addressing global challenges: [climate change](/climate-change) monitoring, natural [disaster preparedness](/disaster-preparedness), sustainable [resource management](/resource-management), and space exploration all depend heavily on geophysical science.
 
 ## Key Takeaways
 

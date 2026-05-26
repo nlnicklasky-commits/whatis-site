@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1118
 tier: "3"
-relatedArticles: ["christianity", "religion", "social-justice", "philosophy"]
+relatedArticles: ["christianity", "religion", "social-justice", "philosophy", "tantra"]
 externalSources:
   - title: "Quaker Information Center"
     url: "https://www.quakerinfo.org/"

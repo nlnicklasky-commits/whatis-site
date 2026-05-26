@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1166
 tier: "3"
-relatedArticles: ["calculus", "algebra", "differential-equations", "algorithms"]
+relatedArticles: ["calculus", "algebra", "differential-equations", "algorithms", "model-railroading"]
 externalSources:
   - title: "MIT OpenCourseWare - Complex Analysis"
     url: "https://ocw.mit.edu/"

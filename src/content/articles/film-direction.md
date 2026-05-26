@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1012
 tier: "3"
-relatedArticles: ["filmmaking", "film-editing", "film-production", "film-criticism"]
+relatedArticles: ["filmmaking", "film-editing", "film-production", "film-criticism", "thai-language"]
 externalSources:
   - title: "Directors Guild of America"
     url: "https://www.dga.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1076
 tier: "3"
-relatedArticles: ["home-economics", "language-acquisition", "leadership", "interviewing-skills"]
+relatedArticles: ["home-economics", "language-acquisition", "leadership", "interviewing-skills", "montessori-method"]
 externalSources:
   - title: "NCES – Homeschooling in the United States"
     url: "https://nces.ed.gov/fastfacts/display.asp?id=91"

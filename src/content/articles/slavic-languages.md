@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 965
 tier: "3"
-relatedArticles: ["semantics", "sociolinguistics", "second-language-acquisition"]
+relatedArticles: ["semantics", "sociolinguistics", "second-language-acquisition", "spanish-language"]
 externalSources:
   - title: "Slavic Linguistics - Oxford Bibliographies"
     url: "https://www.oxfordbibliographies.com/"

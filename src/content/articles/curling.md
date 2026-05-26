@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 952
 tier: "3"
-relatedArticles: ["ice-hockey", "ice-skating", "bowling", "chess"]
+relatedArticles: ["ice-hockey", "ice-skating", "bowling", "chess", "rafting"]
 externalSources:
   - title: "World Curling Federation"
     url: "https://worldcurling.org/"

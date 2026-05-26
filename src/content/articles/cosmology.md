@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3232
 tier: "1"
-relatedArticles: ["crystallography", "acoustics", "algebra", "algorithms"]
+relatedArticles: ["crystallography", "acoustics", "algebra", "algorithms", "italian-history"]
 externalSources:
   - title: "NASA - Universe Overview"
     url: "https://science.nasa.gov/universe/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1030
 tier: "3"
-relatedArticles: ["sewing", "dyeing", "calligraphy", "fashion-design"]
+relatedArticles: ["sewing", "dyeing", "calligraphy", "fashion-design", "tapestry"]
 externalSources:
   - title: "Embroiderers' Guild (UK)"
     url: "https://www.embroiderersguild.com/"

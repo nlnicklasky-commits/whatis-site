@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 937
 tier: "3"
-relatedArticles: ["indian-mythology", "indian-classical-music", "buddhism", "hinduism"]
+relatedArticles: ["indian-mythology", "indian-classical-music", "buddhism", "hinduism", "protohistory"]
 externalSources:
   - title: "Ancient India – National Museum, New Delhi"
     url: "https://www.nationalmuseumindia.gov.in/"

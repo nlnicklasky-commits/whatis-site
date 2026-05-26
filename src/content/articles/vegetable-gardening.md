@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 940
 tier: "3"
-relatedArticles: ["urban-farming", "pruning", "recycling"]
+relatedArticles: ["urban-farming", "pruning", "recycling", "wedding-planning", "whale-watching"]
 externalSources:
   - title: "USDA Plant Hardiness Zone Map"
     url: "https://planthardiness.ars.usda.gov/"

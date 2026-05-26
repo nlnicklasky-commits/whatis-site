@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2198
 tier: "2"
-relatedArticles: ["machine-learning", "critical-thinking", "behavioral-economics"]
+relatedArticles: ["machine-learning", "critical-thinking", "behavioral-economics", "scientific-writing", "stichomancy"]
 externalSources:
   - title: "Thinking, Fast and Slow — Daniel Kahneman"
     url: "https://scholar.google.com/scholar?q=kahneman+thinking+fast+slow"

@@ -89,7 +89,7 @@ Most ant species have multiple castes — morphologically and behaviorally disti
 
 ### How Colonies Make Decisions
 
-No ant gives orders. Colony decisions emerge from local interactions following simple rules — a process studied extensively in both myrmecology and [computer science](/algorithms).
+No ant gives orders. Colony decisions emerge from local interactions following simple rules — a process studied extensively in both myrmecology and [computer science](/computer-science).
 
 **Ant foraging** is the classic example. When a scout finds food, she returns to the nest laying a pheromone trail. Other ants that encounter this trail follow it to the food source, reinforcing the trail with their own pheromone on the return trip. The more ants use a trail, the stronger it becomes, attracting more ants. Trails to closer or richer food sources get reinforced faster (because round trips are quicker), so the colony automatically optimizes foraging efficiency without any ant understanding the [optimization](/optimization).
 

@@ -55,7 +55,7 @@ But neuroanatomy as a real science began with **Andreas Vesalius** in 1543, whos
 
 The real revolution came with **Santiago Ramon y Cajal** in the late 1800s. Using a staining technique developed by Camillo Golgi, Cajal painstakingly drew individual neurons under the microscope. His drawings — thousands of them — proved that the nervous system is composed of discrete cells (neurons) rather than a continuous web. This "neuron doctrine" earned Cajal and Golgi the Nobel Prize in 1906, even though they disagreed about the finding it supported.
 
-Modern neuroanatomy uses MRI, diffusion tensor imaging, [electron microscopy](/electricity)), and optogenetics to see the brain in ways Cajal could never have imagined. But remarkably, many of his hand-drawn observations remain accurate.
+Modern neuroanatomy uses MRI, diffusion tensor imaging, [electron microscopy](/electron-microscopy)), and optogenetics to see the brain in ways Cajal could never have imagined. But remarkably, many of his hand-drawn observations remain accurate.
 
 ## Gross Anatomy: The Big Structures
 

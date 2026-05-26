@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2615
 tier: "2"
-relatedArticles: ["anatomy", "crystallography", "coral-reef-ecology", "cosmology"]
+relatedArticles: ["anatomy", "crystallography", "coral-reef-ecology", "cosmology", "solar-physics"]
 externalSources:
   - title: "NIH - National Human Genome Research Institute"
     url: "https://www.genome.gov/"

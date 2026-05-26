@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1115
 tier: "3"
-relatedArticles: ["printmaking", "graphic-design", "art-history"]
+relatedArticles: ["printmaking", "graphic-design", "art-history", "xylography", "zincography"]
 externalSources:
   - title: "The Metropolitan Museum of Art: Lithography"
     url: "https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/lithograph"

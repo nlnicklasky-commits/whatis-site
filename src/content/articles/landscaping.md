@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1007
 tier: "3"
-relatedArticles: ["landscape-architecture", "lawn-care", "irrigation", "houseplants"]
+relatedArticles: ["landscape-architecture", "lawn-care", "irrigation", "houseplants", "nursery-management"]
 externalSources:
   - title: "National Association of Landscape Professionals"
     url: "https://www.landscapeprofessionals.org/"

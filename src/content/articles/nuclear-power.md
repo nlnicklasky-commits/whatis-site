@@ -218,4 +218,4 @@ That choice will shape how the world generates electricity for the rest of this 
 
 The [physics](/experimental-physics) is proven. The [engineering](/nuclear-engineering) is mature. The safety record, when you look at actual data rather than movie plots, is excellent. What happens next depends on [economics](/economics), [politics](/politics), and whether societies can make rational decisions about risk.
 
-Given what's at stake with [climate change](/ecology) and growing global energy demand, that rationality matters more than ever.
+Given what's at stake with [climate change](/climate-change) and growing global energy demand, that rationality matters more than ever.

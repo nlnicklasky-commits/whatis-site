@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1783
 tier: "3"
-relatedArticles: ["anatomy", "biology", "behavioral-psychology"]
+relatedArticles: ["anatomy", "biology", "behavioral-psychology", "calisthenics", "medical-jurisprudence"]
 externalSources:
   - title: "CDC Physical Activity Guidelines"
     url: "https://www.cdc.gov/physicalactivity/basics/index.htm"

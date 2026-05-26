@@ -161,7 +161,7 @@ The challenge is speed. Traditional plant breeding takes 8-12 years to develop a
 
 If this field sounds interesting, here's what the career path actually looks like.
 
-Most agronomists start with a bachelor's degree in agronomy, crop science, soil science, or [plant biology](/botany). Coursework typically includes soil chemistry, plant physiology, [genetics](/genetics), [statistics](/statistics), and [ecology](/ecology). Field experience is heavily valued — internships with seed companies, farm operations, or agricultural research stations carry a lot of weight.
+Most agronomists start with a bachelor's degree in agronomy, crop science, soil science, or [plant biology](/plant-biology). Coursework typically includes soil chemistry, plant physiology, [genetics](/genetics), [statistics](/statistics), and [ecology](/ecology). Field experience is heavily valued — internships with seed companies, farm operations, or agricultural research stations carry a lot of weight.
 
 Career paths diverge from there. Many agronomists work directly with farmers as crop consultants or advisers, making field-level recommendations on fertility, pest management, and variety selection. Others work for agribusiness companies — seed firms, fertilizer manufacturers, crop protection companies — in research, sales, or technical support roles. [Government](/government) agencies like the USDA's Natural Resources Conservation Service employ agronomists for soil surveys and conservation planning. And academic research positions at land-grant universities drive the foundational science.
 

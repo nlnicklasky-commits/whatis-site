@@ -107,7 +107,7 @@ This is the practical arm. Industrial metrology ensures that manufacturing measu
 
 Coordinate measuring machines (CMMs) measure complex 3D parts to micrometer-level accuracy. Optical measurement systems capture surfaces without physical contact. Gauge blocks --- precision-ground steel or ceramic blocks of known thickness --- serve as physical calibration references. Laser interferometers measure displacements with sub-wavelength precision.
 
-Quality standards like ISO 9001 require documented measurement traceability. In industries like [aerospace engineering](/aerodynamics)), automotive, and medical devices, metrology isn't optional --- it's a regulatory requirement. A jet engine turbine blade specified at 100.000 mm must actually be 100.000 mm (within stated tolerances), and the measurement that confirms this must be traceable to the SI meter.
+Quality standards like ISO 9001 require documented measurement traceability. In industries like [aerospace engineering](/aerospace-engineering)), automotive, and medical devices, metrology isn't optional --- it's a regulatory requirement. A jet engine turbine blade specified at 100.000 mm must actually be 100.000 mm (within stated tolerances), and the measurement that confirms this must be traceable to the SI meter.
 
 ### Legal Metrology
 
@@ -194,7 +194,7 @@ The digital transformation of metrology involves automated calibration systems, 
 
 ### In-Process Measurement
 
-Rather than measuring parts after they're made (and scrapping defective ones), in-process measurement integrates sensors directly into manufacturing equipment. Machine tools measure workpieces during machining and adjust automatically. This closed-loop approach --- measure, compare, correct, repeat --- is essentially [control theory](/classical-mechanics) applied to manufacturing quality.
+Rather than measuring parts after they're made (and scrapping defective ones), in-process measurement integrates sensors directly into manufacturing equipment. Machine tools measure workpieces during machining and adjust automatically. This closed-loop approach --- measure, compare, correct, repeat --- is essentially [control theory](/control-theory) applied to manufacturing quality.
 
 ## Key Takeaways
 

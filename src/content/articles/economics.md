@@ -109,7 +109,7 @@ Not all markets operate the same way.
 
 **Monopoly** is the opposite—one seller dominates the market. Before deregulation, your local power company was a monopoly. Monopolists charge higher prices and produce less than competitive markets, creating a loss to society called "deadweight loss."
 
-**Oligopoly** is a few large firms dominating a market—airlines, wireless carriers, auto manufacturers. Oligopolists are interdependent: each firm's optimal strategy depends on what competitors do. This is where [game theory](/business-strategy) enters economics.
+**Oligopoly** is a few large firms dominating a market—airlines, wireless carriers, auto manufacturers. Oligopolists are interdependent: each firm's optimal strategy depends on what competitors do. This is where [game theory](/game-theory) enters economics.
 
 **Monopolistic competition** features many firms selling differentiated products—restaurants, clothing brands, [apps](/app-development). Each firm has some market power (you'll pay a bit more for your favorite coffee shop), but competition limits how much they can charge.
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1636
 tier: "3"
-relatedArticles: ["feudalism", "christianity", "capitalism"]
+relatedArticles: ["feudalism", "christianity", "capitalism", "television-history", "thai-history"]
 externalSources:
   - title: "German Historical Institute Washington"
     url: "https://www.ghi-dc.org/"
@@ -41,7 +41,7 @@ German history is the story of the peoples, states, and cultures that occupied c
 
 The Romans called them "Germani" — a collection of tribal peoples living beyond the Rhine and Danube rivers. These weren't a unified nation. They were dozens of distinct tribes — Franks, Saxons, Goths, Vandals, Alamanni, and many others — who shared broad cultural and linguistic similarities but spent as much time fighting each other as they did fighting Rome.
 
-The defining moment came in 9 CE, when a Germanic chieftain named Arminius ambushed three Roman legions in the Teutoburg Forest. The Romans lost roughly 20,000 soldiers — one of the worst defeats in their history. Rome essentially gave up trying to conquer the lands east of the Rhine, establishing a frontier that would shape European [geography](/cartography) for millennia.
+The defining moment came in 9 CE, when a Germanic chieftain named Arminius ambushed three Roman legions in the Teutoburg Forest. The Romans lost roughly 20,000 soldiers — one of the worst defeats in their history. Rome essentially gave up trying to conquer the lands east of the Rhine, establishing a frontier that would shape European [geography](/geography) for millennia.
 
 When the Western Roman Empire collapsed in the 5th century, Germanic tribes carved up its territory. The Franks took Gaul (modern France), the Visigoths took Spain, the Ostrogoths took Italy, and the Anglo-Saxons crossed the Channel to Britain. The Germanic migrations reshaped the entire map of Europe.
 
@@ -75,7 +75,7 @@ On January 18, 1871, in the Hall of Mirrors at Versailles, the German Empire was
 
 ## The German Empire (1871-1918)
 
-United Germany rapidly became Europe's most powerful state. Its industrial output surpassed Britain's by 1900. Its population grew from 41 million in 1871 to 65 million by 1914. Its army was the continent's strongest. Its universities and scientific institutions were the world's finest — German was the international language of science, and German scholars dominated [physics](/classical-mechanics), [chemistry](/chemistry), [philosophy](/philosophy), and medicine.
+United Germany rapidly became Europe's most powerful state. Its industrial output surpassed Britain's by 1900. Its population grew from 41 million in 1871 to 65 million by 1914. Its army was the continent's strongest. Its universities and scientific institutions were the world's finest — German was the international language of science, and German scholars dominated [physics](/physics), [chemistry](/chemistry), [philosophy](/philosophy), and medicine.
 
 But the new empire had structural problems. Bismarck's constitution gave enormous power to the military and the Kaiser while limiting parliamentary democracy. The army answered to the emperor, not the legislature. This meant that when Kaiser Wilhelm II dismissed Bismarck in 1890 and pursued an aggressive [foreign policy](/foreign-policy) — building a navy to challenge Britain, demanding colonies, alienating potential allies — there were few institutional checks on his recklessness.
 

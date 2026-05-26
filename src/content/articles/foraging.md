@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 915
 tier: "3"
-relatedArticles: ["gardening", "farming", "food-preservation", "botany"]
+relatedArticles: ["gardening", "farming", "food-preservation", "botany", "mushroom-hunting"]
 externalSources:
   - title: "USDA Forest Service — Foraging"
     url: "https://www.fs.usda.gov/"

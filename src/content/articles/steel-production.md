@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2432
 tier: "2"
-relatedArticles: ["chemistry", "civil-engineering", "materials-science", "casting-metal"]
+relatedArticles: ["chemistry", "civil-engineering", "materials-science", "casting-metal", "elementology"]
 externalSources:
   - title: "World Steel Association"
     url: "https://worldsteel.org/"
@@ -127,7 +127,7 @@ Solid steel from the caster is shaped into final products through rolling — pa
 
 **Hot rolling** happens above the steel's recrystallization temperature (typically 900-1,200°C). The steel is soft and can be deformed easily with less force. Hot-rolled products include structural beams, railroad rails, plate steel, and hot-rolled coils.
 
-**Cold rolling** happens at room temperature, producing thinner gauges with better surface finish and tighter tolerances. Cold-rolled steel is harder and stronger (due to work hardening) and is used for automotive body panels, appliances, and [construction](/civil-law)) applications where surface quality matters.
+**Cold rolling** happens at room temperature, producing thinner gauges with better surface finish and tighter tolerances. Cold-rolled steel is harder and stronger (due to work hardening) and is used for automotive body panels, appliances, and [construction](/construction)) applications where surface quality matters.
 
 Other forming processes include [forging](/forging) (shaping with compressive force), extrusion (pushing through a die), [drawing](/drawing) (pulling through a die to make wire), and tube making ([welding](/welding) a rolled strip or seamlessly piercing a solid billet).
 

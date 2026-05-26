@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 769
 tier: "3"
-relatedArticles: ["sociology", "social-anthropology"]
+relatedArticles: ["sociology", "social-anthropology", "hypnotherapy", "united-nations-history"]
 externalSources:
   - title: "National Association of Social Workers"
     url: "https://www.socialworkers.org/"

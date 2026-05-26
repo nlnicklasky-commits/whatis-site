@@ -153,7 +153,7 @@ But the ESA is also controversial. Listing a species can restrict land use, crea
 
 If working with wildlife appeals to you, here's what the career path looks like.
 
-**[Education](/education)**: A bachelor's degree in wildlife biology, [ecology](/ecology), [zoology](/biology), or a related field is the entry point. Key coursework includes ecology, statistics, botany, vertebrate zoology, wildlife management, and GIS. A master's degree opens doors to research positions and agency management roles. A Ph.D. is necessary for university faculty positions and senior research roles.
+**[Education](/education)**: A bachelor's degree in wildlife biology, [ecology](/ecology), [zoology](/zoology), or a related field is the entry point. Key coursework includes ecology, statistics, botany, vertebrate zoology, wildlife management, and GIS. A master's degree opens doors to research positions and agency management roles. A Ph.D. is necessary for university faculty positions and senior research roles.
 
 **Field experience matters enormously**. Hiring managers look for candidates who have worked field jobs -- seasonal technician positions conducting surveys, [trapping](/trapping), tagging, and data collection. These positions are competitive, often seasonal, sometimes in remote locations, and typically pay $15-20/hour. But they provide the practical skills and professional connections that classroom education can't.
 

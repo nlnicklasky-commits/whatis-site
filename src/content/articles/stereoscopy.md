@@ -81,7 +81,7 @@ Different applications use different techniques to deliver separate images to ea
 
 The simplest and cheapest method. The left-eye image is shown in one color (typically red) and the right-eye image in another (cyan). Colored glasses filter the appropriate image to each eye. The obvious downside: you lose most color information, and the cross-talk between channels creates ghosting artifacts.
 
-Anaglyph is still used in educational materials, scientific publications, and casual applications where cost matters more than quality. You'll sometimes see anaglyph 3D images in [geology](/cartography) textbooks showing terrain maps or in medical [literature](/literature) showing anatomical structures.
+Anaglyph is still used in educational materials, scientific publications, and casual applications where cost matters more than quality. You'll sometimes see anaglyph 3D images in [geology](/geology) textbooks showing terrain maps or in medical [literature](/literature) showing anatomical structures.
 
 ### Polarized Glasses
 

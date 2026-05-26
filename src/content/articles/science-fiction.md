@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1180
 tier: "3"
-relatedArticles: ["screenwriting", "science-journalism"]
+relatedArticles: ["screenwriting", "science-journalism", "romance-literature"]
 externalSources:
   - title: "Science Fiction Studies - DePauw University"
     url: "https://www.depauw.edu/sfs/"

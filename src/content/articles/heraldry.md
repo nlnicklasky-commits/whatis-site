@@ -99,7 +99,7 @@ Heraldry was never just about identification. It was about status. Having a coat
 
 "Heraldic visitations" — inspections conducted by heralds traveling through English counties from the 16th to 17th centuries — required families to prove their right to bear arms. Those who couldn't were publicly denounced. Their names were posted as people who had been "disclaimed" — a social humiliation that carried real consequences.
 
-The connection between heraldry and [genealogy](/anthropology) is deep. Arms were inherited, so tracing a coat of arms often means tracing a family's lineage back centuries. Heraldic records maintained by institutions like the College of Arms constitute some of the most detailed genealogical archives in existence.
+The connection between heraldry and [genealogy](/genealogy) is deep. Arms were inherited, so tracing a coat of arms often means tracing a family's lineage back centuries. Heraldic records maintained by institutions like the College of Arms constitute some of the most detailed genealogical archives in existence.
 
 Marriage produced combined arms — a husband and wife's shields displayed side by side ("impalement") or quartered together. Over generations, as families intermarried, shields became increasingly complex, with multiple coats quartered together. Some late-medieval and early-modern shields contained sixteen or more quarters, each representing an ancestral family. At a certain point, the designs became so busy they defeated the original purpose of quick identification.
 

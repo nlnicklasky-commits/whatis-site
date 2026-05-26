@@ -31,7 +31,7 @@ faq:
 
 # What Is Public Relations?
 
-Public relations is the [strategic management](/illustration)) of communication between an organization and the public. It's how companies, governments, nonprofits, and individuals shape their public image, manage their reputation, and build relationships with the audiences that matter to them. If advertising is a megaphone (you control the message, you pay for the space), PR is a conversation — you put information out, but you don't fully control what comes back.
+Public relations is the [strategic management](/strategic-management)) of communication between an organization and the public. It's how companies, governments, nonprofits, and individuals shape their public image, manage their reputation, and build relationships with the audiences that matter to them. If advertising is a megaphone (you control the message, you pay for the space), PR is a conversation — you put information out, but you don't fully control what comes back.
 
 ## What PR Actually Does
 

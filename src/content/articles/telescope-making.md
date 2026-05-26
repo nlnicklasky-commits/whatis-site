@@ -187,7 +187,7 @@ Part of this is the maker movement — the same impulse that drives people to bu
 
 Part of it is practical. The largest apertures are still cheapest when homemade. And computerized telescope mounts — which you can build with Arduino boards and stepper motors — have added a new dimension to the hobby. Some makers are combining traditional mirror-grinding with modern [electronics](/electronics), creating telescopes with hand-figured optics and computer-controlled tracking.
 
-There's also an educational angle. Schools and science centers use telescope making as a teaching tool. Grinding a mirror teaches [optics](/acoustics), geometry, and patience. Building the mount teaches [mechanical engineering](/mechanical-engineering). Using the finished telescope teaches [astronomy](/astronomy). It's a complete STEM project wrapped in a genuinely useful outcome.
+There's also an educational angle. Schools and science centers use telescope making as a teaching tool. Grinding a mirror teaches [optics](/optics), geometry, and patience. Building the mount teaches [mechanical engineering](/mechanical-engineering). Using the finished telescope teaches [astronomy](/astronomy). It's a complete STEM project wrapped in a genuinely useful outcome.
 
 ## Getting Started — What You Actually Need
 

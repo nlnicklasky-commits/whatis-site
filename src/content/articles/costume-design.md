@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 885
 tier: "3"
-relatedArticles: ["fashion-design", "theater-arts", "film-production", "set-design"]
+relatedArticles: ["fashion-design", "theater-arts", "film-production", "set-design", "syriac-language"]
 externalSources:
   - title: "Costume Designers Guild"
     url: "https://costumedesignersguild.com/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1034
 tier: "3"
-relatedArticles: ["literature", "literary-theory", "philosophy", "writing"]
+relatedArticles: ["literature", "literary-theory", "philosophy", "writing", "new-testament-studies"]
 externalSources:
   - title: "Purdue OWL: Literary Theory and Schools of Criticism"
     url: "https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/literary_theory_and_schools_of_criticism/index.html"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2192
 tier: "2"
-relatedArticles: ["capitalism", "budgeting", "currency-trading", "credit-management"]
+relatedArticles: ["capitalism", "budgeting", "currency-trading", "credit-management", "fountain-pen-collecting"]
 externalSources:
   - title: "World Trade Organization"
     url: "https://www.wto.org/"

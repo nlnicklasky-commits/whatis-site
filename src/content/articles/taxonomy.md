@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2248
 tier: "2"
-relatedArticles: ["biology", "anatomy", "botany", "cell-biology"]
+relatedArticles: ["biology", "anatomy", "botany", "cell-biology", "insect-collecting"]
 externalSources:
   - title: "Smithsonian National Museum of Natural History — Classification"
     url: "https://naturalhistory.si.edu/research/nmnh-collections"

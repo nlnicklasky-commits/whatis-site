@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 693
 tier: "3"
-relatedArticles: ["food-science", "chemistry", "culinary-arts", "cooking"]
+relatedArticles: ["food-science", "chemistry", "culinary-arts", "cooking", "soap-making"]
 externalSources:
   - title: "Harvard University: Science and Cooking"
     url: "https://online-learning.harvard.edu/course/science-and-cooking"

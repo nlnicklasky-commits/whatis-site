@@ -31,7 +31,7 @@ faq:
 
 # What Is Camping?
 
-Camping is the recreational practice of staying overnight outdoors, typically in natural settings, using temporary shelter like tents, recreational vehicles, or hammocks. It ranges from developed campgrounds with electrical hookups and flush toilets to remote wilderness sites accessible only by [hiking](/backpacking) — and everything in between.
+Camping is the recreational practice of staying overnight outdoors, typically in natural settings, using temporary shelter like tents, recreational vehicles, or hammocks. It ranges from developed campgrounds with electrical hookups and flush toilets to remote wilderness sites accessible only by [hiking](/hiking) — and everything in between.
 
 ## Why People Sleep on the Ground Voluntarily
 

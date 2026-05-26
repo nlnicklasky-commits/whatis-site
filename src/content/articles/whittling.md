@@ -31,7 +31,7 @@ faq:
 
 # What Is Whittling?
 
-Whittling is the practice of carving [wood](/[wood](/wood-finishing)-carving) into shapes using nothing but a knife and your hands. No power tools, no workbench, no elaborate setup. You take a piece of wood, you take a sharp knife, and you remove everything that doesn't look like the thing you want to make. It's one of the oldest craft forms humans have practiced, and its appeal hasn't changed much: it's portable, meditative, inexpensive, and produces something tangible from raw material using nothing but skill and patience.
+Whittling is the practice of carving [wood](/wood-carving) into shapes using nothing but a knife and your hands. No power tools, no workbench, no elaborate setup. You take a piece of wood, you take a sharp knife, and you remove everything that doesn't look like the thing you want to make. It's one of the oldest craft forms humans have practiced, and its appeal hasn't changed much: it's portable, meditative, inexpensive, and produces something tangible from raw material using nothing but skill and patience.
 
 ## The Basics
 

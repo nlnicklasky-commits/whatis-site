@@ -117,7 +117,7 @@ The ability to read, edit, and write DNA has created an entirely new branch of b
 
 CRISPR-Cas9 is, at its simplest, molecular scissors. It uses a guide RNA to find a specific DNA sequence and the Cas9 enzyme to cut it. The cell's repair mechanisms then either disrupt the gene (if the cut isn't perfectly repaired) or incorporate a new sequence (if a template is provided).
 
-What made CRISPR significant wasn't the concept — scientists had been editing genes for decades — but the speed, cost, and accessibility. Previous gene-editing tools (like zinc finger nucleases and TALENs) were expensive, slow to design, and required significant expertise. CRISPR can be designed for a new target in days, costs a few hundred dollars in reagents, and can be used by any competent molecular [biology](/biochemistry) lab.
+What made CRISPR significant wasn't the concept — scientists had been editing genes for decades — but the speed, cost, and accessibility. Previous gene-editing tools (like zinc finger nucleases and TALENs) were expensive, slow to design, and required significant expertise. CRISPR can be designed for a new target in days, costs a few hundred dollars in reagents, and can be used by any competent molecular [biology](/biology) lab.
 
 Medical applications of CRISPR include:
 - **Sickle cell disease treatment** — the first CRISPR-based therapy (Casgevy) was approved by the FDA in December 2023. It edits patients' own blood stem cells to produce fetal hemoglobin, compensating for the defective sickle hemoglobin gene.
@@ -148,7 +148,7 @@ Connecting engineered devices to the nervous system is one of bioengineering's m
 
 The explosion of biological data — from genome sequencing, [proteomics](/proteomics), metabolomics, and clinical records — has made computation central to bioengineering. The Human Genome Project (completed in 2003) cost about $3 billion and took 13 years. Today, a human genome can be sequenced in hours for under $200.
 
-This data deluge requires sophisticated [algorithms](/machine-learning) for analysis. Bioinformatics tools align DNA sequences, predict protein structures, identify disease-associated genetic variants, model metabolic networks, and analyze the microbiome — the trillions of bacteria living in and on your body.
+This data deluge requires sophisticated [algorithms](/algorithms) for analysis. Bioinformatics tools align DNA sequences, predict protein structures, identify disease-associated genetic variants, model metabolic networks, and analyze the microbiome — the trillions of bacteria living in and on your body.
 
 Machine learning is increasingly important. Drug discovery — traditionally a 10-15 year, $2.6 billion process — is being accelerated by AI models that predict which molecular structures will bind to disease targets, forecast toxicity, and optimize drug properties before a single experiment is run. Whether AI will dramatically reduce drug development timelines is still debated, but the trajectory is clear.
 

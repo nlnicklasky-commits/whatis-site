@@ -146,7 +146,7 @@ The best network administrators develop [pattern recognition](/pattern-recogniti
 
 **[Intrusion detection](/intrusion-detection) and prevention** — monitoring for suspicious activity. IDS/IPS systems analyze network traffic patterns, compare them against known attack signatures, and can automatically block detected threats.
 
-The line between network administration and [cybersecurity](/cryptography) is now more blurry. Many organizations expect network administrators to handle both.
+The line between network administration and [cybersecurity](/cybersecurity) is now more blurry. Many organizations expect network administrators to handle both.
 
 ### Documentation
 
@@ -191,7 +191,7 @@ Network administration has one of the most structured certification ecosystems i
 
 **Expert:** Cisco CCIE (Cisco Certified Internetwork Expert) is considered the gold standard — notoriously difficult, with pass rates historically around 20-30%. CCIE holders are among the highest-paid networking professionals.
 
-Career progression typically moves from help desk support → junior network administrator → senior network administrator → network engineer → network architect or IT manager. Lateral moves into [cybersecurity](/digital-forensics), [cloud architecture](/cloud-computing), or DevOps are common and often lucrative.
+Career progression typically moves from help desk support → junior network administrator → senior network administrator → network engineer → network architect or IT manager. Lateral moves into [cybersecurity](/cybersecurity), [cloud architecture](/cloud-computing), or DevOps are common and often lucrative.
 
 Salaries vary widely by location and experience. In the U.S., network administrators earned a median of approximately $90,520 in 2023 (Bureau of Labor [Statistics](/statistics)). Senior network engineers and architects earn $120,000-$180,000+ in major markets.
 

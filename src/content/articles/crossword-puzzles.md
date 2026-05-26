@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 984
 tier: "3"
-relatedArticles: ["word-games", "logic-puzzles", "sudoku", "scrabble"]
+relatedArticles: ["word-games", "logic-puzzles", "sudoku", "scrabble", "physiognomy"]
 externalSources:
   - title: "New York Times - Crossword"
     url: "https://www.nytimes.com/crosswords"

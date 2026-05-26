@@ -101,7 +101,7 @@ This is where domain expertise shines. Someone who understands the business can 
 
 Now the stereotypically "data science" part. You select an algorithm (or several), train it on your data, and evaluate its performance.
 
-**Supervised learning** trains models on labeled data—examples where you know the correct answer. Classification (predicting categories) and regression (predicting numbers) are the two main types. Algorithms include linear regression, logistic regression, decision trees, random forests, gradient boosting, support vector machines, and [neural networks](/deep-learning).
+**Supervised learning** trains models on labeled data—examples where you know the correct answer. Classification (predicting categories) and regression (predicting numbers) are the two main types. Algorithms include linear regression, logistic regression, decision trees, random forests, gradient boosting, support vector machines, and [neural networks](/neural-networks).
 
 **Unsupervised learning** finds patterns in unlabeled data. Clustering groups similar items together. Dimensionality reduction simplifies high-dimensional data while preserving important structure. Anomaly detection identifies unusual data points.
 

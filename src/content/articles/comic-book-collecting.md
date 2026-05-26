@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1023
 tier: "3"
-relatedArticles: ["collectibles", "comic-book-art", "coin-collecting", "antiques-collecting"]
+relatedArticles: ["collectibles", "comic-book-art", "coin-collecting", "antiques-collecting", "lumberjacking"]
 externalSources:
   - title: "CGC Comics - Grading Standards"
     url: "https://www.cgccomics.com/"

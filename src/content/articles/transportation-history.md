@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1880
 tier: "3"
-relatedArticles: ["aviation", "automotive-engineering", "civil-engineering"]
+relatedArticles: ["aviation", "automotive-engineering", "civil-engineering", "train-spotting"]
 externalSources:
   - title: "Smithsonian National Air and Space Museum"
     url: "https://airandspace.si.edu/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2607
 tier: "2"
-relatedArticles: ["contract-law", "credit-management", "accounting", "currency-trading"]
+relatedArticles: ["contract-law", "credit-management", "accounting", "currency-trading", "spreadsheet-modeling"]
 externalSources:
   - title: "SEC - Corporate Finance Division"
     url: "https://www.sec.gov/divisions/corpfin"

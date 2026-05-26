@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2818
 tier: "2"
-relatedArticles: ["anatomy", "animal-behavior", "agriculture"]
+relatedArticles: ["anatomy", "animal-behavior", "agriculture", "speleology", "stellar-astronomy"]
 externalSources:
   - title: "NICHD - Developmental Biology"
     url: "https://www.nichd.nih.gov/health/topics/developmental-biology"

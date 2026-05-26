@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1013
 tier: "3"
-relatedArticles: ["gourmet-cooking", "food-science", "fermentation"]
+relatedArticles: ["gourmet-cooking", "food-science", "fermentation", "seafood-cookery"]
 externalSources:
   - title: "USDA — Safe Grilling Temperatures"
     url: "https://www.usda.gov/media/blog/2011/05/25/grilling-food-safely"

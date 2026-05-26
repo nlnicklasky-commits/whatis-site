@@ -117,7 +117,7 @@ James Clerk Maxwell unified electricity and magnetism into a single theoretical 
 
 Maxwell's equations predicted that changing electric and magnetic fields could sustain each other in a self-propagating wave — and calculated that this wave would travel at the speed of light. His conclusion: light itself is an electromagnetic wave. This was confirmed experimentally by Heinrich Hertz in 1887.
 
-The implications were staggering. Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays are all electromagnetic waves — magnetic and electric fields oscillating together, differing only in frequency. Maxwell's equations unified [optics](/optics) with electricity and magnetism in one of the most elegant theoretical achievements in the history of [physics](/classical-mechanics).
+The implications were staggering. Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays are all electromagnetic waves — magnetic and electric fields oscillating together, differing only in frequency. Maxwell's equations unified [optics](/optics) with electricity and magnetism in one of the most elegant theoretical achievements in the history of [physics](/physics).
 
 ## Earth's Magnetic Field
 

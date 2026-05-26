@@ -131,7 +131,7 @@ Mountain ranges aren't smooth. They're rough at every scale — from the shape o
 
 ### Clouds and Weather
 
-Clouds are fractal. Their edges are rough and self-similar across scales. More importantly, weather patterns themselves show fractal-like behavior — the same kinds of turbulent structures appear at scales from centimeters to hundreds of kilometers. This connects to [chaos theory](/complexity-theory), where small changes in initial conditions produce dramatically different outcomes, creating the unpredictability that makes weather forecasting so difficult beyond about 10 days.
+Clouds are fractal. Their edges are rough and self-similar across scales. More importantly, weather patterns themselves show fractal-like behavior — the same kinds of turbulent structures appear at scales from centimeters to hundreds of kilometers. This connects to [chaos theory](/chaos-theory), where small changes in initial conditions produce dramatically different outcomes, creating the unpredictability that makes weather forecasting so difficult beyond about 10 days.
 
 ## The Math Behind the Beauty
 

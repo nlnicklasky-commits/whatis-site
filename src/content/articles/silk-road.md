@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3490
 tier: "1"
-relatedArticles: ["buddhism", "islam"]
+relatedArticles: ["buddhism", "islam", "merchant-marine", "mongol-history"]
 externalSources:
   - title: National Geographic - The Silk Road
     url: https://www.nationalgeographic.org/article/silk-road/

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1582
 tier: "3"
-relatedArticles: ["anatomy", "biology", "nursing", "nutrition"]
+relatedArticles: ["anatomy", "biology", "nursing", "nutrition", "urology"]
 externalSources:
   - title: "National Cancer Institute"
     url: "https://www.cancer.gov/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1019
 tier: "3"
-relatedArticles: ["whittling", "woodworking", "wood-finishing"]
+relatedArticles: ["whittling", "woodworking", "wood-finishing", "turning-wood"]
 externalSources:
   - title: "Woodcarving Illustrated"
     url: "https://woodcarvingillustrated.com/"

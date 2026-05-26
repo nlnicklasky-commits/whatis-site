@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 945
 tier: "3"
-relatedArticles: ["baking", "cooking", "candy-making"]
+relatedArticles: ["baking", "cooking", "candy-making", "notary-public", "olive-oil-production"]
 externalSources:
   - title: "National Confectioners Association"
     url: "https://www.candyusa.com/"

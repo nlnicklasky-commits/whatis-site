@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 938
 tier: "3"
-relatedArticles: ["architecture", "sustainable-development", "permaculture", "construction"]
+relatedArticles: ["architecture", "sustainable-development", "permaculture", "construction", "plastering"]
 externalSources:
   - title: "Natural Building Companion - Chelsea Green Publishing"
     url: "https://www.chelseagreen.com/"
@@ -31,7 +31,7 @@ faq:
 
 # What Is Natural Building?
 
-Natural building is a [construction](/construction) approach that uses minimally processed, locally sourced materials — earth, straw, timber, stone, bamboo — to create homes and structures. Think of it as building the way humans did for thousands of years, but with modern understanding of [structural engineering](/construction)), insulation, and design.
+Natural building is a [construction](/construction) approach that uses minimally processed, locally sourced materials — earth, straw, timber, stone, bamboo — to create homes and structures. Think of it as building the way humans did for thousands of years, but with modern understanding of [structural engineering](/structural-engineering)), insulation, and design.
 
 ## Why People Are Doing This Again
 

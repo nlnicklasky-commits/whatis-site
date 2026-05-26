@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 934
 tier: "3"
-relatedArticles: ["farming", "foraging", "gastronomy", "grilling"]
+relatedArticles: ["farming", "foraging", "gastronomy", "grilling", "preservation-food"]
 externalSources:
   - title: "USDA — Food Preservation"
     url: "https://nifa.usda.gov/topic/food-preservation"

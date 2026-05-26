@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1714
 tier: "3"
-relatedArticles: ["mesopotamian-history", "mediterranean-history", "christianity", "archaeology"]
+relatedArticles: ["mesopotamian-history", "mediterranean-history", "christianity", "archaeology", "historical-zionism"]
 externalSources:
   - title: "Britannica - Middle East History"
     url: "https://www.britannica.com/place/Middle-East"

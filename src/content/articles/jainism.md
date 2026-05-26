@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 800
 tier: "3"
-relatedArticles: ["buddhism", "hinduism", "indian-history", "comparative-religion"]
+relatedArticles: ["buddhism", "hinduism", "indian-history", "comparative-religion", "quakerism"]
 externalSources:
   - title: "Jainism – Encyclopaedia Britannica"
     url: "https://www.britannica.com/topic/Jainism"

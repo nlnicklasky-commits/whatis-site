@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3456
 tier: "1"
-relatedArticles: ["machine-learning", "blockchain", "cryptography"]
+relatedArticles: ["machine-learning", "blockchain", "cryptography", "lichenology", "oleochemistry"]
 externalSources:
   - title: "Abstract Algebra — MIT OpenCourseWare"
     url: "https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/"
@@ -45,7 +45,7 @@ Here's the thing most people get wrong about abstract algebra: they assume it's 
 
 It's not. Or rather — it started that way, and then the real world caught up.
 
-Every secure transaction you make online relies on abstract algebra. The [cryptography](/blockchain) protecting your bank account? Built on [group theory](/group-theory) and finite fields. The error-correcting codes that keep your cell phone calls from dissolving into static? Ring theory. The quantum computers that major tech companies are racing to build? Their mathematical backbone is abstract algebra.
+Every secure transaction you make online relies on abstract algebra. The [cryptography](/cryptography) protecting your bank account? Built on [group theory](/group-theory) and finite fields. The error-correcting codes that keep your cell phone calls from dissolving into static? Ring theory. The quantum computers that major tech companies are racing to build? Their mathematical backbone is abstract algebra.
 
 But let's back up. Before we get to applications, you need to understand what abstract algebra actually *is* — and that starts with a surprisingly simple idea.
 
@@ -134,7 +134,7 @@ A field is a ring where you *can* divide — where every nonzero element has a m
 
 **Finite fields** are where things get really interesting for applications. The field with p elements (where p is prime), denoted GF(p) or F_p, is just modular arithmetic mod p. The field with 2 elements — GF(2) — has just {0, 1} and underlies all of binary computing and digital communication. Every bit of data your computer processes lives in GF(2).
 
-There are also fields with p^n elements for any prime p and positive integer n. These extension fields are not just modular arithmetic — they require polynomial constructions — and they're critical to modern [cryptography](/blockchain). Elliptic curve cryptography, used in Bitcoin and secure messaging apps like Signal, operates over carefully chosen finite fields.
+There are also fields with p^n elements for any prime p and positive integer n. These extension fields are not just modular arithmetic — they require polynomial constructions — and they're critical to modern [cryptography](/cryptography). Elliptic curve cryptography, used in Bitcoin and secure messaging apps like Signal, operates over carefully chosen finite fields.
 
 ### The Field With No Formula: Galois Theory
 

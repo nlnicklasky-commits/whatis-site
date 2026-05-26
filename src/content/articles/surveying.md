@@ -66,7 +66,7 @@ Traditional methods for establishing horizontal position include:
 
 ### Vertical Position (Elevation)
 
-Measuring elevation is critical for [construction](/civil-engineering) — water flows downhill, so every drainage system, sewer, and road grade depends on accurate elevation data.
+Measuring elevation is critical for [construction](/construction) — water flows downhill, so every drainage system, sewer, and road grade depends on accurate elevation data.
 
 **Leveling** is the traditional method. A surveyor sets up an optical level (a telescope mounted to stay perfectly horizontal) and reads measurements on graduated rods held at different points. By comparing readings, they determine the height difference between points. This is painstaking work, but it's accurate — first-order leveling achieves accuracy of about 1 millimeter per kilometer.
 

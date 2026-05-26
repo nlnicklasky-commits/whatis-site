@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1037
 tier: "3"
-relatedArticles: ["songwriting", "sound-design", "showmanship"]
+relatedArticles: ["songwriting", "sound-design", "showmanship", "philosophy-of-music", "sound-healing"]
 externalSources:
   - title: "National Association of Teachers of Singing"
     url: "https://www.nats.org/"

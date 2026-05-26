@@ -81,7 +81,7 @@ Erosion is weathering plus transport. Once rock breaks down, something has to mo
 
 **Water** is the dominant erosional force on most of Earth's surface. Rivers carry enormous quantities of sediment—the Mississippi River alone delivers about 200 million tons of sediment to the Gulf of Mexico each year. Rainfall erodes hillslopes through splash erosion (individual raindrops dislodging particles) and sheet wash (thin films of water carrying particles downhill).
 
-**Wind** erosion matters most in arid and semi-arid environments. It creates sand dunes, erodes rock into bizarre formations (ventifacts and yardangs), and transports fine dust across continents. Saharan dust regularly crosses the Atlantic to fertilize the Amazon rainforest—a connection between African geomorphology and South American [ecology](/conservation-biology).
+**Wind** erosion matters most in arid and semi-arid environments. It creates sand dunes, erodes rock into bizarre formations (ventifacts and yardangs), and transports fine dust across continents. Saharan dust regularly crosses the Atlantic to fertilize the Amazon rainforest—a connection between African geomorphology and South American [ecology](/ecology).
 
 **Glaciers** are extraordinarily powerful erosional agents. A glacier doesn't just scrape rock—it plucks boulders from bedrock, grinds them against the valley floor, and reshapes entire mountain ranges. U-shaped valleys, cirques, fjords, and moraines are all glacial landforms. During ice ages, glaciers covered about 30% of Earth's land surface and fundamentally reshaped the landscapes of North America, Europe, and parts of South America.
 
@@ -97,7 +97,7 @@ Rivers are Earth's primary sculptors. They create V-shaped valleys, floodplains,
 
 Rivers evolve over time. Young rivers in mountainous terrain tend to be steep and fast, cutting downward aggressively. Mature rivers on gentler slopes meander across broad floodplains, depositing sediment in characteristic patterns. But this isn't a rigid sequence—tectonic uplift can rejuvenate an old river, and a dam (natural or artificial) can completely reorganize a river's behavior.
 
-Understanding fluvial geomorphology matters enormously for practical purposes. Flood prediction, [water management](/desalination), bridge design, and [urban planning](/urban-planning) all require knowledge of how rivers behave and how their channels change over time.
+Understanding fluvial geomorphology matters enormously for practical purposes. Flood prediction, [water management](/water-management), bridge design, and [urban planning](/urban-planning) all require knowledge of how rivers behave and how their channels change over time.
 
 ### Glacial Landforms
 
@@ -105,7 +105,7 @@ Glaciers leave distinctive signatures on the field. Cirques (armchair-shaped hol
 
 About 10% of Earth's land surface is currently covered by glaciers. During the last ice age (peaking about 20,000 years ago), that figure was about 30%. The landscapes of Canada, northern Europe, Patagonia, and New Zealand were profoundly shaped by glacial processes that operated for tens of thousands of years.
 
-Today, glacial geomorphology takes on new urgency as [climate change](/climatology) causes glaciers to retreat worldwide. This affects water supplies for billions of people—many major rivers, including the Ganges, Yangtze, and Indus, depend on glacial meltwater.
+Today, glacial geomorphology takes on new urgency as [climate change](/climate-change) causes glaciers to retreat worldwide. This affects water supplies for billions of people—many major rivers, including the Ganges, Yangtze, and Indus, depend on glacial meltwater.
 
 ### Coastal Landforms
 

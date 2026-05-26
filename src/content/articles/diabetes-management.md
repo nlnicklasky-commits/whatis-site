@@ -92,7 +92,7 @@ Carbohydrate counting is the most precise approach. People using insulin calcula
 
 The glycemic index (GI) ranks carbohydrates by how quickly they raise blood sugar. White bread (GI of about 75) spikes glucose faster than lentils (GI of about 32). Choosing lower-GI foods can help smooth out blood sugar swings.
 
-But here's what most people miss: it's not just about carbs. Fat and protein slow gastric emptying, which delays glucose absorption. A pizza with its combination of carbs, fat, and protein will raise blood sugar differently than the same number of carbs from rice. This is why [nutrition](/dietetics) [education](/education) is so critical for people with diabetes — the interactions are more complex than simple carb-counting suggests.
+But here's what most people miss: it's not just about carbs. Fat and protein slow gastric emptying, which delays glucose absorption. A pizza with its combination of carbs, fat, and protein will raise blood sugar differently than the same number of carbs from rice. This is why [nutrition](/nutrition) [education](/education) is so critical for people with diabetes — the interactions are more complex than simple carb-counting suggests.
 
 ### Physical Activity
 

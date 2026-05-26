@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1433
 tier: "3"
-relatedArticles: ["the-history-of-science", "the-history-of-space-exploration", "the-history-of-warfare", "algorithms"]
+relatedArticles: ["the-history-of-science", "the-history-of-space-exploration", "the-history-of-warfare", "algorithms", "photographic-history"]
 externalSources:
   - title: "Smithsonian National Museum of American History"
     url: "https://americanhistory.si.edu/"

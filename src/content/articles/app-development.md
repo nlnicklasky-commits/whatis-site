@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3295
 tier: "1"
-relatedArticles: ["algorithms", "machine-learning", "agile-software-development", "blockchain"]
+relatedArticles: ["algorithms", "machine-learning", "agile-software-development", "blockchain", "music-engineering"]
 externalSources:
   - title: "Bureau of Labor Statistics - Software Developers Occupational Outlook"
     url: "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm"

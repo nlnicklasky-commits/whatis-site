@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 992
 tier: "3"
-relatedArticles: ["english-language", "french-history", "anthropology", "sociolinguistics"]
+relatedArticles: ["english-language", "french-history", "anthropology", "sociolinguistics", "perfume-making"]
 externalSources:
   - title: "Linguistic Society of America"
     url: "https://www.linguisticsociety.org/"

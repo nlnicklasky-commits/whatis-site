@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 864
 tier: "3"
-relatedArticles: ["folklore", "philosophy", "literature"]
+relatedArticles: ["folklore", "philosophy", "literature", "old-testament-studies", "septuagint-studies"]
 externalSources:
   - title: "Britannica — Proverb"
     url: "https://www.britannica.com/art/proverb"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 14
 wordCount: 3847
 tier: "1"
-relatedArticles: ["ecology", "meteorology", "oceanography", "thermodynamics"]
+relatedArticles: ["ecology", "meteorology", "oceanography", "thermodynamics", "dendrology"]
 externalSources:
   - title: "IPCC Sixth Assessment Report"
     url: "https://www.ipcc.ch/assessment-report/ar6/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 925
 tier: "3"
-relatedArticles: ["fine-art", "fabric-arts", "folklore"]
+relatedArticles: ["fine-art", "fabric-arts", "folklore", "sand-art"]
 externalSources:
   - title: "American Folk Art Museum"
     url: "https://folkartmuseum.org/"

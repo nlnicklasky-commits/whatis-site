@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1717
 tier: "3"
-relatedArticles: ["mesopotamian-history", "mediterranean-history", "middle-eastern-history", "mexican-history"]
+relatedArticles: ["mesopotamian-history", "mediterranean-history", "middle-eastern-history", "mexican-history", "hawaiian-history"]
 externalSources:
   - title: "U.S. Army Center of Military History"
     url: "https://history.army.mil/"

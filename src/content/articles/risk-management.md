@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1779
 tier: "3"
-relatedArticles: ["resource-management", "retail-management", "budgeting"]
+relatedArticles: ["resource-management", "retail-management", "budgeting", "hedge-fund-management", "mathematical-finance"]
 externalSources:
   - title: "ISO 31000: Risk Management"
     url: "https://www.iso.org/iso-31000-risk-management.html"

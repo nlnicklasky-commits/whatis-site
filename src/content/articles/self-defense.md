@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1860
 tier: "3"
-relatedArticles: ["anatomy", "philosophy"]
+relatedArticles: ["anatomy", "philosophy", "historical-gunslinging"]
 externalSources:
   - title: "Bureau of Justice Statistics — Criminal Victimization"
     url: "https://bjs.ojp.gov/topics/crime/violent-crime"

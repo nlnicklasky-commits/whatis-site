@@ -222,7 +222,7 @@ Graph [algorithms](/algorithms) solve some of computing's most important problem
 - **Minimum Spanning Tree** (Kruskal's, Prim's) finds the cheapest way to connect all vertices.
 - **PageRank** (yes, the Google algorithm) determines the importance of nodes based on the structure of incoming edges.
 
-Social networks, road maps, internet routing, dependency management in [software engineering](/app-development), recommendation systems, and biological networks all use graph structures.
+Social networks, road maps, internet routing, dependency management in [software engineering](/software-engineering), recommendation systems, and biological networks all use graph structures.
 
 ## Advanced and Specialized Structures
 

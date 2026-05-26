@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1208
 tier: "3"
-relatedArticles: ["music-theory", "flute", "violin", "bass-guitar"]
+relatedArticles: ["music-theory", "flute", "violin", "bass-guitar", "museology"]
 externalSources:
   - title: "Guitar Foundation of America"
     url: "https://guitarfoundation.org/"

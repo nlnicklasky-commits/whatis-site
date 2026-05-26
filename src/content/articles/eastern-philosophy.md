@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1006
 tier: "3"
-relatedArticles: ["philosophy", "meditation", "ethics", "religion"]
+relatedArticles: ["philosophy", "meditation", "ethics", "religion", "feng-shui"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy - Chinese Philosophy"
     url: "https://plato.stanford.edu/entries/chinese-phil-language/"

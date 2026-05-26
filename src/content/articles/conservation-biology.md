@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2667
 tier: "2"
-relatedArticles: ["animal-behavior", "agriculture", "conchology", "anatomy"]
+relatedArticles: ["animal-behavior", "agriculture", "conchology", "anatomy", "freshwater-biology"]
 externalSources:
   - title: "Society for Conservation Biology"
     url: "https://conbio.org/"

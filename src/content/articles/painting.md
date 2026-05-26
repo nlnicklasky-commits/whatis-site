@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1057
 tier: "3"
-relatedArticles: ["oil-painting", "art-history", "illustration", "color-theory"]
+relatedArticles: ["oil-painting", "art-history", "illustration", "color-theory", "doll-making"]
 externalSources:
   - title: "The Metropolitan Museum of Art"
     url: "https://www.metmuseum.org/"

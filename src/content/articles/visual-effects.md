@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1013
 tier: "3"
-relatedArticles: ["video-editing", "video-production", "videography"]
+relatedArticles: ["video-editing", "video-production", "videography", "tile-setting", "youtube-content-creation"]
 externalSources:
   - title: "Visual Effects Society"
     url: "https://www.visualeffectssociety.com/"

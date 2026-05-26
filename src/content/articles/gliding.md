@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 995
 tier: "3"
-relatedArticles: ["aerodynamics", "aviation", "physics"]
+relatedArticles: ["aerodynamics", "aviation", "physics", "paragliding"]
 externalSources:
   - title: "Soaring Society of America"
     url: "https://www.ssa.org/"

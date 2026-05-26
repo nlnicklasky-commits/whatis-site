@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 987
 tier: "3"
-relatedArticles: ["iconography", "interior-design", "landscape-painting", "jewelry-making"]
+relatedArticles: ["iconography", "interior-design", "landscape-painting", "jewelry-making", "scientific-illustration"]
 externalSources:
   - title: "Society of Illustrators"
     url: "https://societyillustrators.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1133
 tier: "3"
-relatedArticles: ["handball", "golf", "gymnastics"]
+relatedArticles: ["handball", "golf", "gymnastics", "yachting"]
 externalSources:
   - title: "International Hockey Federation (FIH)"
     url: "https://www.fih.hockey/"

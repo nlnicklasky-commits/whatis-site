@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2066
 tier: "2"
-relatedArticles: ["climatology", "astronomy", "chemistry", "classical-mechanics"]
+relatedArticles: ["climatology", "astronomy", "chemistry", "classical-mechanics", "telepathy-research"]
 externalSources:
   - title: "USGS — Understanding Plate Tectonics"
     url: "https://www.usgs.gov/programs/earthquake-hazards/science/science-earthquakes"

@@ -130,7 +130,7 @@ Founded by Abu al-Hasan ash-Shadhili (1196-1258) in North Africa, this order emp
 
 ## Sufism and the Arts
 
-Sufism has produced an extraordinary artistic legacy. Some of the greatest works of world [literature](/anthropology), music, and visual art emerged from Sufi traditions.
+Sufism has produced an extraordinary artistic legacy. Some of the greatest works of world [literature](/literature), music, and visual art emerged from Sufi traditions.
 
 **Poetry** is the primary art form. Rumi, Hafez, Ibn Arabi, Attar, and Yunus Emre created works that rank among the finest poetry in any language. Rumi's *Masnavi* alone runs to six volumes and addresses everything from theology to humor to practical ethics through stories, parables, and lyrical passages.
 
@@ -170,6 +170,6 @@ Sufism matters because it addresses a question that never goes away: is there mo
 
 The Sufi answer — through love, discipline, self-knowledge, and surrender — may not satisfy everyone. But the tradition's survival across fourteen centuries, despite persecution, modernization, and radical cultural change, suggests it speaks to something deep in human experience.
 
-For students of [religion](/comparative-religion), Sufism offers a fascinating case study in how mystical traditions develop, organize, and adapt within larger religious frameworks. For anyone interested in [philosophy](/stoicism), literature, music, or the history of ideas, Sufism's contributions are enormous and often underappreciated.
+For students of [religion](/comparative-religion), Sufism offers a fascinating case study in how mystical traditions develop, organize, and adapt within larger religious frameworks. For anyone interested in [philosophy](/philosophy), literature, music, or the history of ideas, Sufism's contributions are enormous and often underappreciated.
 
 And for anyone who's ever read a Rumi poem and felt something stir inside — Sufism is where that feeling comes from.

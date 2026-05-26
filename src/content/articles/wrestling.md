@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1122
 tier: "3"
-relatedArticles: ["weightlifting", "volleyball", "water-polo"]
+relatedArticles: ["weightlifting", "volleyball", "water-polo", "professional-wrestling", "talmudic-law"]
 externalSources:
   - title: "United World Wrestling"
     url: "https://uww.org/"

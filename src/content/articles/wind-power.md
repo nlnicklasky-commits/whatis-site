@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1030
 tier: "3"
-relatedArticles: ["alternative-energy", "aerodynamics", "aerospace-engineering"]
+relatedArticles: ["alternative-energy", "aerodynamics", "aerospace-engineering", "windsurfing"]
 externalSources:
   - title: "U.S. Department of Energy — Wind Energy"
     url: "https://www.energy.gov/eere/wind/wind-energy-technologies-office"

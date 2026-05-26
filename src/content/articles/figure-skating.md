@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1078
 tier: "3"
-relatedArticles: ["gymnastics", "fencing", "folk-dancing"]
+relatedArticles: ["gymnastics", "fencing", "folk-dancing", "yachting"]
 externalSources:
   - title: "International Skating Union (ISU)"
     url: "https://www.isu.org/"

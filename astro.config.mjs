@@ -29,6 +29,9 @@ export default defineConfig({
   integrations: [
     tailwind(),
     sitemap({
+      // Split into multiple child sitemaps so GSC reports indexation per
+      // chunk (per-section telemetry) instead of one opaque 1,710-URL file.
+      entryLimit: 250,
       serialize(item) {
         const urlPath = new URL(item.url).pathname.replace(/^\/|\/$/g, '');
         // Strip trailing slash so sitemap URLs match canonical/og:url/JSON-LD
@@ -46,5 +49,10 @@ export default defineConfig({
   ],
   markdown: {
     shikiConfig: { theme: 'github-light' },
+  },
+  // Merge per-page CSS chunks into one shared, cacheable stylesheet instead of
+  // two near-identical render-blocking files per page (Astro CSS-split artifact).
+  vite: {
+    build: { cssCodeSplit: false },
   },
 });

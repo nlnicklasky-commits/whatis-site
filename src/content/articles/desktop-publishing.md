@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2467
 tier: "2"
-relatedArticles: ["app-development", "aesthetics", "algorithms"]
+relatedArticles: ["app-development", "aesthetics", "algorithms", "telescope-making", "thesaurus-construction"]
 externalSources:
   - title: "Adobe InDesign - Industry Standard DTP"
     url: "https://www.adobe.com/products/indesign.html"

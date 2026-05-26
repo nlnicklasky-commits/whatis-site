@@ -188,7 +188,7 @@ The U.S. does not currently reprocess spent fuel, primarily due to proliferation
 
 ## Education and Career Paths
 
-Becoming a nuclear engineer typically starts with a bachelor's degree in nuclear engineering, though some enter through [mechanical engineering](/engineering), [physics](/experimental-physics), or [chemical engineering](/chemical-engineering). About 30 universities in the U.S. offer nuclear engineering programs, with MIT, the University of Michigan, and Texas A&M among the most prominent.
+Becoming a nuclear engineer typically starts with a bachelor's degree in nuclear engineering, though some enter through [mechanical engineering](/mechanical-engineering), [physics](/experimental-physics), or [chemical engineering](/chemical-engineering). About 30 universities in the U.S. offer nuclear engineering programs, with MIT, the University of Michigan, and Texas A&M among the most prominent.
 
 The field offers several career tracks:
 

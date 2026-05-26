@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1015
 tier: "3"
-relatedArticles: ["circus-arts", "comedy", "mime", "physical-comedy"]
+relatedArticles: ["circus-arts", "comedy", "mime", "physical-comedy", "styling-fashion"]
 externalSources:
   - title: "Clowns International"
     url: "https://www.clownsinternational.com/"

@@ -45,7 +45,7 @@ The name comes from the heavy wooden workbench, not anything financial. Though h
 
 ### Fixer Masons (or Field Masons)
 
-Fixer masons install the stone on-site. They set stones in mortar, align courses, plumb walls, and ensure the finished structure is both structurally sound and visually correct. This work demands a strong understanding of [structural engineering](/civil-engineering) principles — stone is heavy, and gravity is unforgiving.
+Fixer masons install the stone on-site. They set stones in mortar, align courses, plumb walls, and ensure the finished structure is both structurally sound and visually correct. This work demands a strong understanding of [structural engineering](/structural-engineering) principles — stone is heavy, and gravity is unforgiving.
 
 ## Types of Stonework
 

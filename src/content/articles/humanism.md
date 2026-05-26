@@ -159,7 +159,7 @@ In Scotland, humanist weddings have been legally recognized since 2005 and now o
 
 Humanists are strong advocates for secular education — schools that teach about religions ([comparative religion](/comparative-religion)) without promoting any specific one. They oppose creationism in science classes, mandatory prayer, and religious tests for public office.
 
-But humanist educational philosophy goes beyond church-state separation. It emphasizes [critical thinking](/cognitive-bias), scientific literacy, ethical reasoning, and exposure to diverse perspectives. The goal is producing citizens who can think independently — echoing Kant's "dare to know" across the centuries.
+But humanist educational philosophy goes beyond church-state separation. It emphasizes [critical thinking](/critical-thinking), scientific literacy, ethical reasoning, and exposure to diverse perspectives. The goal is producing citizens who can think independently — echoing Kant's "dare to know" across the centuries.
 
 ## The Demographics of Non-Belief
 

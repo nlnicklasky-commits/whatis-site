@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1429
 tier: "3"
-relatedArticles: ["fermentation"]
+relatedArticles: ["fermentation", "yogurt-making"]
 externalSources:
   - title: "The Sourdough Handbook by Thom Leonard"
     url: "https://www.sfbi.com"

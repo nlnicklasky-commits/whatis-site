@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 875
 tier: "3"
-relatedArticles: ["harp", "harmony", "acoustics", "indian-classical-music"]
+relatedArticles: ["harp", "harmony", "acoustics", "indian-classical-music", "lapidary"]
 externalSources:
   - title: "Violin Society of America"
     url: "https://vsaweb.org/"

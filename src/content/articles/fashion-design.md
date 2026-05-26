@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 966
 tier: "3"
-relatedArticles: ["fabric-arts", "graphic-design", "fine-art"]
+relatedArticles: ["fabric-arts", "graphic-design", "fine-art", "mens-fashion"]
 externalSources:
   - title: "Council of Fashion Designers of America"
     url: "https://cfda.com/"

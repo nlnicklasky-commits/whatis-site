@@ -31,7 +31,7 @@ faq:
 
 # What Is [Model](/model-building) Railroading?
 
-Model railroading is the hobby of building and operating miniature railroad systems — tiny trains [running](/running) on precisely scaled track through handcrafted landscapes of mountains, towns, bridges, and tunnels. It combines [electrical engineering](/electricity)), [carpentry](/carpentry), field artistry, historical research, and the simple childhood joy of watching trains go around in circles. Except the circles become complex route networks, and the landscapes become astonishingly realistic miniature worlds.
+Model railroading is the hobby of building and operating miniature railroad systems — tiny trains [running](/running) on precisely scaled track through handcrafted landscapes of mountains, towns, bridges, and tunnels. It combines [electrical engineering](/electrical-engineering)), [carpentry](/carpentry), field artistry, historical research, and the simple childhood joy of watching trains go around in circles. Except the circles become complex route networks, and the landscapes become astonishingly realistic miniature worlds.
 
 An estimated 500,000+ people in North America actively pursue model railroading, making it one of the most popular hobbies in the country. The average model railroader spends about $500 per year on the hobby, supporting an industry worth roughly $500 million annually.
 

@@ -75,7 +75,7 @@ Covenants created decades ago sometimes cause problems. Historical restrictive c
 
 A mortgage is a security interest in land — you borrow money to buy the property, and the lender holds a legal interest in it as collateral. If you stop making payments, the lender can foreclose — take possession and sell the property to recover the debt.
 
-Mortgages are the mechanism that makes homeownership possible for most people. Without them, you'd need to pay cash for a house. The modern mortgage system, combined with [government](/business-law) programs like FHA [insurance](/insurance) and the secondary mortgage market (Fannie Mae, Freddie Mac), transformed homeownership from an elite privilege into a middle-class norm. Roughly 65% of American households own their homes, and most of them are leveraged through a mortgage.
+Mortgages are the mechanism that makes homeownership possible for most people. Without them, you'd need to pay cash for a house. The modern mortgage system, combined with [government](/government) programs like FHA [insurance](/insurance) and the secondary mortgage market (Fannie Mae, Freddie Mac), transformed homeownership from an elite privilege into a middle-class norm. Roughly 65% of American households own their homes, and most of them are leveraged through a mortgage.
 
 The 2008 financial crisis demonstrated what happens when the mortgage system breaks down. Subprime lending, securitization of risky mortgages, and inadequate regulation combined to create a housing bubble whose collapse triggered a global recession. Over 3.8 million foreclosure filings were processed in 2010 alone.
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2600
 tier: "2"
-relatedArticles: ["corporate-finance", "credit-management", "cryptography", "contract-law"]
+relatedArticles: ["corporate-finance", "credit-management", "cryptography", "contract-law", "unemployment-economics"]
 externalSources:
   - title: "Bank for International Settlements - Triennial Survey"
     url: "https://www.bis.org/statistics/rpfx22.htm"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 972
 tier: "3"
-relatedArticles: ["film-history", "film-criticism", "film-theory", "filmmaking"]
+relatedArticles: ["film-history", "film-criticism", "film-theory", "filmmaking", "thatching"]
 externalSources:
   - title: "British Film Institute — Film Noir"
     url: "https://www.bfi.org.uk/lists/10-great-film-noirs"

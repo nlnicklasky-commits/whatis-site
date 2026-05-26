@@ -68,7 +68,7 @@ Alexander, king of Macedon, conquered the Persian Empire by age 30. He died at 3
 
 After Alexander's death, his generals carved up his empire into rival kingdoms. Greek culture blended with Egyptian, Persian, and Indian traditions. Alexandria in Egypt became the intellectual capital of the Mediterranean, housing the famous Library.
 
-Science flourished. Euclid systematized [geometry](/geometry). Archimedes calculated pi and invented war machines. Eratosthenes measured the Earth's circumference — and got remarkably close. The Hellenistic period is sometimes overlooked, but it produced some of the most practical advances in Greek [astronomy](/astronomy) and [mathematics](/calculus).
+Science flourished. Euclid systematized [geometry](/geometry). Archimedes calculated pi and invented war machines. Eratosthenes measured the Earth's circumference — and got remarkably close. The Hellenistic period is sometimes overlooked, but it produced some of the most practical advances in Greek [astronomy](/astronomy) and [mathematics](/mathematics).
 
 This era ended when Rome gradually absorbed the Greek world, culminating in the destruction of Corinth in 146 BCE.
 
@@ -130,6 +130,6 @@ Here's what makes ancient Greece unusual: its influence is disproportionate to i
 
 Democracy, however imperfect its Greek form, inspired every modern democratic government. The [scientific method](/scientific-method) traces back to Greek rationalism. Western [literature](/literature) begins with Homer. Theater begins with Athenian drama. [Philosophy](/philosophy) as a discipline is a Greek [invention](/invention). Even the word "history" comes from the Greek *historia* — inquiry.
 
-The Romans conquered Greece militarily but were conquered by Greek culture in return. They adopted Greek gods (with new names), Greek [architecture](/archaeology), Greek philosophy, and Greek educational methods. Through Rome, Greek ideas spread across Europe and eventually the world.
+The Romans conquered Greece militarily but were conquered by Greek culture in return. They adopted Greek gods (with new names), Greek [architecture](/architecture), Greek philosophy, and Greek educational methods. Through Rome, Greek ideas spread across Europe and eventually the world.
 
 That said, romanticizing Greece is easy and misleading. This was a society built on slavery, where women had few rights, where warfare was glorified, and where most people lived short, hard lives. The achievements are real. So are the failures. Understanding both is what makes Greek history worth studying — not as some golden age, but as a complicated, fascinating civilization that happened to ask some very good questions.

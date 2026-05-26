@@ -51,7 +51,7 @@ Understanding that history doesn't mean modern schooling is wrong — but it doe
 
 The earliest known formal schools appeared in Sumer around 3000 BCE. Called "edubba" (tablet house), these scribal schools trained boys to read and write cuneiform — a skill essential for bureaucratic and commercial record-keeping. Education was vocational: you learned to write because the temple or the palace needed scribes. Tablets recovered from these schools include student exercises, teacher corrections, and even essays about lazy students — proof that some things never change.
 
-Egypt had a similar system. The "House of Life" attached to temples taught reading, [writing](/writing), [mathematics](/calculus), and religious texts to the sons of scribes and officials. One surviving document, the Instruction of Ptahhotep (around 2400 BCE), is essentially an advice manual from a father to his son about how to behave properly — an early form of moral education.
+Egypt had a similar system. The "House of Life" attached to temples taught reading, [writing](/writing), [mathematics](/mathematics), and religious texts to the sons of scribes and officials. One surviving document, the Instruction of Ptahhotep (around 2400 BCE), is essentially an advice manual from a father to his son about how to behave properly — an early form of moral education.
 
 ### Greece and Rome
 
@@ -73,7 +73,7 @@ After Rome's fall in Western Europe, the Catholic Church became the primary inst
 
 The first universities emerged in the 12th and 13th centuries — Bologna (1088), Paris (circa 1150), Oxford (1167). They were initially loose associations of scholars and students, not the campus-based institutions we know today. Students were often teenagers. Lectures were the primary teaching method because books were hand-copied and enormously expensive — a single text might cost what a laborer earned in a year.
 
-Islamic civilization, meanwhile, developed an extensive educational system. The madrasa (school) network spread across the Muslim world from the 9th century onward. Al-Azhar University in Cairo, founded in 970 CE, is often cited as the oldest continuously operating degree-granting institution. Islamic scholars preserved and built upon Greek, Persian, and Indian knowledge in [mathematics](/algebra), astronomy, medicine, and [philosophy](/philosophy) during a period when much of that knowledge was unavailable in Europe.
+Islamic civilization, meanwhile, developed an extensive educational system. The madrasa (school) network spread across the Muslim world from the 9th century onward. Al-Azhar University in Cairo, founded in 970 CE, is often cited as the oldest continuously operating degree-granting institution. Islamic scholars preserved and built upon Greek, Persian, and Indian knowledge in [mathematics](/mathematics), astronomy, medicine, and [philosophy](/philosophy) during a period when much of that knowledge was unavailable in Europe.
 
 ## The Modern Education Revolution
 

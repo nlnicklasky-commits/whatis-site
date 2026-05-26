@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 972
 tier: "3"
-relatedArticles: ["embroidery", "sewing", "chemistry", "fashion-design"]
+relatedArticles: ["embroidery", "sewing", "chemistry", "fashion-design", "mushroom-hunting"]
 externalSources:
   - title: "Smithsonian - Textile Museum"
     url: "https://museum.gwu.edu/"
@@ -33,7 +33,7 @@ faq:
 
 Dyeing is the process of applying color to textiles, yarns, fibers, or other materials using dyes — substances that bond chemically or physically to the material to produce lasting color. It's one of humanity's oldest technologies, practiced for at least 5,000 years, and one of the most environmentally consequential — the textile dyeing industry processes roughly 100 billion garments annually, using enormous quantities of water, energy, and chemicals.
 
-## A [History](/[dance](/dance)-history) in Color
+## A History in Color
 
 The oldest evidence of textile dyeing comes from the Indus Valley civilization, around 3000 BC, where traces of madder dye (a red derived from the *Rubia tinctorum* root) have been found on fragments of cotton cloth. But color lust goes back further — ancient Egyptians used natural dyes on linen wrappings, and Mesopotamian texts describe dyeing recipes.
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 972
 tier: "3"
-relatedArticles: ["knitting", "cross-stitch", "embroidery", "textile-arts"]
+relatedArticles: ["knitting", "cross-stitch", "embroidery", "textile-arts", "philosophy-of-law"]
 externalSources:
   - title: "Craft Yarn Council"
     url: "https://www.craftyarncouncil.com/"

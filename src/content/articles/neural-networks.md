@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1042
 tier: "3"
-relatedArticles: ["machine-learning", "artificial-intelligence", "deep-learning", "algorithms"]
+relatedArticles: ["machine-learning", "artificial-intelligence", "deep-learning", "algorithms", "social-network-analysis"]
 externalSources:
   - title: "MIT - Introduction to Deep Learning"
     url: "https://introtodeeplearning.com/"
@@ -53,7 +53,7 @@ A neural network is organized into layers.
 
 The magic is in the weights. Initially, they're set randomly, so the network's guesses are essentially random too. But during training, [an algorithm](/algorithms) called backpropagation calculates how much each weight contributed to the error and adjusts it accordingly. Do this millions of times across thousands of examples, and the weights gradually converge on values that produce accurate predictions.
 
-The math behind this is mostly [calculus](/calculus) and [linear algebra](/millinery)) — chain rule derivatives and matrix multiplication. Not conceptually difficult, but the scale is enormous. GPT-4, for instance, reportedly has over a trillion parameters (weights).
+The math behind this is mostly [calculus](/calculus) and [linear algebra](/linear-algebra)) — chain rule derivatives and matrix multiplication. Not conceptually difficult, but the scale is enormous. GPT-4, for instance, reportedly has over a trillion parameters (weights).
 
 ## Types of Neural Networks
 

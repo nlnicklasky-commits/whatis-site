@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1863
 tier: "3"
-relatedArticles: ["business-law", "capitalism", "philosophy"]
+relatedArticles: ["business-law", "capitalism", "philosophy", "notary-public", "refugee-law"]
 externalSources:
   - title: "Cornell Law Institute — Legal Information"
     url: "https://www.law.cornell.edu/"

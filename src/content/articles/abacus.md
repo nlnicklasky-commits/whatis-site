@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1105
 tier: "3"
-relatedArticles: ["algebra", "algorithms", "mathematics"]
+relatedArticles: ["algebra", "algorithms", "mathematics", "elementology", "hedge-fund-management"]
 externalSources:
   - title: "Britannica — Abacus"
     url: "https://www.britannica.com/technology/abacus-calculating-device"

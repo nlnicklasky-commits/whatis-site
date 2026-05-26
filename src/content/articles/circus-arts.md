@@ -45,7 +45,7 @@ The traditional circus declined through the late 20th century as television, mov
 
 ### Acrobatics
 
-The physical foundation of circus performance. Acrobatics includes tumbling (floor [gymnastics](/gymnastics)), partner acrobatics (two or more performers working together), hand balancing (holding positions on hands), and contortion (extreme flexibility demonstrations). The line between circus acrobatics and Olympic [gymnastics](/athletics) is thin — many circus performers have competitive gymnastics backgrounds.
+The physical foundation of circus performance. Acrobatics includes tumbling (floor [gymnastics](/gymnastics)), partner acrobatics (two or more performers working together), hand balancing (holding positions on hands), and contortion (extreme flexibility demonstrations). The line between circus acrobatics and Olympic [gymnastics](/gymnastics) is thin — many circus performers have competitive gymnastics backgrounds.
 
 Hand balancing deserves special mention. A skilled hand balancer holds their entire body weight inverted on one or two hands, moving through positions with controlled slowness that makes the difficulty almost invisible. It looks easy. It requires years of daily training and is considered one of the most technically demanding circus disciplines.
 

@@ -100,7 +100,7 @@ Beyond resistors and LEDs, here are the components you'll encounter constantly:
 
 **Capacitors** store and release electrical energy. They smooth out voltage fluctuations, filter signals, and provide brief bursts of current. Measured in farads (usually microfarads or picofarads because a full farad is enormous).
 
-**Transistors** are electronic switches. Apply a small current to the base pin, and they allow a much larger current to flow between the other two pins. This is how microcontrollers (which output tiny currents) can control motors, relays, and high-power LEDs. Transistors are also the basic building blocks of all [digital logic](/algorithms).
+**Transistors** are electronic switches. Apply a small current to the base pin, and they allow a much larger current to flow between the other two pins. This is how microcontrollers (which output tiny currents) can control motors, relays, and high-power LEDs. Transistors are also the basic building blocks of all [digital logic](/digital-logic).
 
 **Diodes** allow current to flow in only one direction. LEDs (light-emitting diodes) are a special case that produce light. Zener diodes regulate voltage. Schottky diodes switch extremely fast.
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1752
 tier: "3"
-relatedArticles: ["marketing", "graphic-design"]
+relatedArticles: ["marketing", "graphic-design", "shop-management", "styling-fashion"]
 externalSources:
   - title: "Retail Design Institute"
     url: "https://retaildesigninstitute.org/"

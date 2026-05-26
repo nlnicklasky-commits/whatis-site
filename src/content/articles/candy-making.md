@@ -35,7 +35,7 @@ Candy making ([confectionery](/confectionery)) is the craft of creating sweet tr
 
 ## Sugar [Science](/food-science)
 
-The [chemistry](/superfoods)) of candy making is fundamentally about sugar and water. When you dissolve sugar in water and heat the solution, water evaporates. The higher the temperature, the less water remains, and the harder the cooled candy will be. This is why candy recipes specify exact temperatures rather than cooking times.
+The [chemistry](/chemistry)) of candy making is fundamentally about sugar and water. When you dissolve sugar in water and heat the solution, water evaporates. The higher the temperature, the less water remains, and the harder the cooled candy will be. This is why candy recipes specify exact temperatures rather than cooking times.
 
 The stages, from lowest to highest temperature:
 

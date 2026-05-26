@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1783
 tier: "3"
-relatedArticles: ["roman-mythology", "philosophy"]
+relatedArticles: ["roman-mythology", "philosophy", "classical-civilizations", "historical-slavery"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy — Ancient Political Philosophy"
     url: "https://plato.stanford.edu/entries/ancient-political/"
@@ -62,7 +62,7 @@ The jurists developed key distinctions that still matter today:
 - **Jus gentium** — law of nations, governing interactions with foreigners and based on principles considered universally fair
 - **Jus naturale** — natural law, the idea that certain rights exist by nature, independent of any [government](/government)
 
-That last category is particularly interesting. The Stoic [philosophy](/stoicism) popular among educated Romans taught that reason governed the universe, and that rational humans could discover universal moral principles. This philosophical conviction — that some laws are higher than any human decree — fed directly into later ideas about human rights, constitutional limits on power, and [international law](/international-law).
+That last category is particularly interesting. The Stoic [philosophy](/philosophy) popular among educated Romans taught that reason governed the universe, and that rational humans could discover universal moral principles. This philosophical conviction — that some laws are higher than any human decree — fed directly into later ideas about human rights, constitutional limits on power, and [international law](/international-law).
 
 ## The Imperial Period and Professional Law
 

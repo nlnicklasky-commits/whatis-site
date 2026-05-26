@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1010
 tier: "3"
-relatedArticles: ["painting", "art-history", "illustration", "color-theory"]
+relatedArticles: ["painting", "art-history", "illustration", "color-theory", "fresco-painting"]
 externalSources:
   - title: "National Gallery - The Art of Painting"
     url: "https://www.nationalgallery.org.uk/"

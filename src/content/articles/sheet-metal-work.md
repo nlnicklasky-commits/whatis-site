@@ -51,7 +51,7 @@ Common sheet metals include:
 
 **Stainless steel** resists corrosion thanks to its chromium content (at least 10.5%). Used for kitchen equipment, medical devices, architectural features, and anywhere appearance and [hygiene](/hygiene) matter. More expensive and harder to work than mild steel.
 
-**Aluminum** is about one-third the weight of steel with good corrosion resistance. Essential in [aerospace engineering](/aerodynamics)), transportation, and [electronics](/electronics) enclosures. It's softer and more prone to scratching, but its light weight often outweighs (pun intended) that drawback.
+**Aluminum** is about one-third the weight of steel with good corrosion resistance. Essential in [aerospace engineering](/aerospace-engineering)), transportation, and [electronics](/electronics) enclosures. It's softer and more prone to scratching, but its light weight often outweighs (pun intended) that drawback.
 
 **Galvanized steel** is mild steel coated with a thin layer of zinc to prevent rust. The standard material for HVAC ductwork, outdoor enclosures, and agricultural equipment.
 

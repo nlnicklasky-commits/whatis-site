@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2983
 tier: "2"
-relatedArticles: ["algorithms", "machine-learning", "app-development", "agile-software-development"]
+relatedArticles: ["algorithms", "machine-learning", "app-development", "agile-software-development", "hobby-electronics"]
 externalSources:
   - title: "ISO C++ Standard"
     url: "https://isocpp.org/"

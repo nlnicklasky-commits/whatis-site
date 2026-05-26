@@ -31,7 +31,7 @@ faq:
 
 # What Is Paleoanthropology?
 
-Paleoanthropology is the scientific study of [human evolution](/human-evolution) — the long, branching story of how our species, Homo sapiens, emerged from earlier primates over millions of years. It combines [physical anthropology](/physics)), [archaeology](/archaeology), [geology](/geology), and [genetics](/genetics) to reconstruct the lives, bodies, and behaviors of our ancestors using fossil bones, stone tools, ancient DNA, and the geological contexts in which they're found.
+Paleoanthropology is the scientific study of [human evolution](/human-evolution) — the long, branching story of how our species, Homo sapiens, emerged from earlier primates over millions of years. It combines [physical anthropology](/physical-anthropology)), [archaeology](/archaeology), [geology](/geology), and [genetics](/genetics) to reconstruct the lives, bodies, and behaviors of our ancestors using fossil bones, stone tools, ancient DNA, and the geological contexts in which they're found.
 
 ## What the Fossil Record Shows
 

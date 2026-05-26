@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1166
 tier: "3"
-relatedArticles: ["gymnastics", "handball", "game-theory"]
+relatedArticles: ["gymnastics", "handball", "game-theory", "miniature-golf", "titanium-forging"]
 externalSources:
   - title: "USGA — United States Golf Association"
     url: "https://www.usga.org/"

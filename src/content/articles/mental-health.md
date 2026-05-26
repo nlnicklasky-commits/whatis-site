@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1807
 tier: "3"
-relatedArticles: ["behavioral-psychology", "cognitive-psychology", "developmental-psychology", "anatomy"]
+relatedArticles: ["behavioral-psychology", "cognitive-psychology", "developmental-psychology", "anatomy", "naturopathy"]
 externalSources:
   - title: "WHO - Mental Health"
     url: "https://www.who.int/health-topics/mental-health"

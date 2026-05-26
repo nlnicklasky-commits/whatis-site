@@ -196,7 +196,7 @@ The Cosmic Microwave Background radiation, measured by satellites like Planck, c
 
 ### Quantum Information
 
-Quantum [information theory](/computer-science), [quantum computing](/quantum-computing), and quantum error correction all use QFT concepts. Entanglement entropy, which measures quantum correlations, connects QFT to black hole physics through the holographic principle -- one of the deepest theoretical insights of the past three decades.
+Quantum [information theory](/information-theory), [quantum computing](/quantum-computing), and quantum error correction all use QFT concepts. Entanglement entropy, which measures quantum correlations, connects QFT to black hole physics through the holographic principle -- one of the deepest theoretical insights of the past three decades.
 
 ## What QFT Doesn't Explain
 
@@ -236,4 +236,4 @@ Quantum field theory is the framework that unifies quantum mechanics and special
 
 The key insight of QFT is that particles aren't fundamental -- fields are. Electrons, photons, quarks, and all other particles are excitations of underlying quantum fields that permeate all of space and time. This perspective naturally explains particle creation and annihilation, the identity of particles, the existence of antiparticles, and the connection between forces and symmetries.
 
-QFT's successes are staggering: predictions verified to parts per trillion, a complete classification of known particles and forces, and applications spanning particle physics, condensed matter, [cosmology](/astrophysics), and quantum information. Its limitations -- the exclusion of gravity, the dark matter mystery, unexplained parameters -- point toward deeper theories yet to be discovered. But as a description of the non-gravitational universe, QFT is our most successful and most fundamental scientific framework. Understanding it, even conceptually, is understanding the deepest layer of physical reality we've yet reached.
+QFT's successes are staggering: predictions verified to parts per trillion, a complete classification of known particles and forces, and applications spanning particle physics, condensed matter, [cosmology](/cosmology), and quantum information. Its limitations -- the exclusion of gravity, the dark matter mystery, unexplained parameters -- point toward deeper theories yet to be discovered. But as a description of the non-gravitational universe, QFT is our most successful and most fundamental scientific framework. Understanding it, even conceptually, is understanding the deepest layer of physical reality we've yet reached.

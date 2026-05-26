@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2209
 tier: "2"
-relatedArticles: ["cryptocurrency", "cryptography"]
+relatedArticles: ["cryptocurrency", "cryptography", "mathematical-finance", "post-and-beam-construction"]
 externalSources:
   - title: "Bitcoin Whitepaper"
     url: "https://bitcoin.org/bitcoin.pdf"
@@ -89,7 +89,7 @@ Historically, we've relied on intermediaries to verify transactions. Your bank c
 
 Blockchain removes this requirement. The network itself becomes the trusted authority. You don't need to trust a bank, a [government](/government), or any company. You trust [mathematics](/mathematics) and distributed verification. This is genuinely revolutionary for certain use cases.
 
-### [Cryptocurrency](/cryptography) and Digital Assets
+### [Cryptocurrency](/cryptocurrency) and Digital Assets
 
 The most famous application is cryptocurrency like Bitcoin and Ethereum. For the first time, digital assets could be owned and transferred without a bank processing the transaction. Your cryptocurrency lives on the blockchain. When you send someone Bitcoin, you're not asking a bank to move numbers in a database—you're creating a transaction that the network verifies and records permanently.
 
@@ -195,11 +195,11 @@ The technology that seemed advanced two years ago often looks primitive today. T
 
 Here's the real question: does blockchain matter to your life?
 
-If you're interested in [cryptocurrency](/cryptography), the answer is yes—you need to understand the technology underlying digital assets.
+If you're interested in [cryptocurrency](/cryptocurrency), the answer is yes—you need to understand the technology underlying digital assets.
 
 If you're in supply chain, healthcare, [finance](/finance), or any industry where multiple parties need to agree on shared records, blockchain deserves serious investigation.
 
-If you're just an ordinary person who doesn't use [cryptocurrency](/cryptography) and your institutions work fine, blockchain probably won't directly impact your life for years—if ever. Many problems are already solved well by existing systems. Blockchain isn't always an improvement.
+If you're just an ordinary person who doesn't use [cryptocurrency](/cryptocurrency) and your institutions work fine, blockchain probably won't directly impact your life for years—if ever. Many problems are already solved well by existing systems. Blockchain isn't always an improvement.
 
 What matters is understanding what blockchain is, what problems it genuinely solves, and where the hype outpaces reality. Armed with that knowledge, you can evaluate blockchain claims critically instead of dismissing or accepting them uncritically.
 

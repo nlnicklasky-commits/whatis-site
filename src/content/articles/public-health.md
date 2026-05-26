@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1746
 tier: "3"
-relatedArticles: ["anatomy", "biology", "anthropology"]
+relatedArticles: ["anatomy", "biology", "anthropology", "pulmonology", "sexual-health"]
 externalSources:
   - title: "CDC: What Is Public Health?"
     url: "https://www.cdc.gov/about/what-is-public-health.html"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 971
 tier: "3"
-relatedArticles: ["algorithms", "grammar", "computational-linguistics"]
+relatedArticles: ["algorithms", "grammar", "computational-linguistics", "ufology", "university-administration"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy — Formal Languages"
     url: "https://plato.stanford.edu/entries/logic-classical/"

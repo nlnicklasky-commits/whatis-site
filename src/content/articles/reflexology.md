@@ -109,7 +109,7 @@ That doesn't mean reflexology is useless. It means the mechanism is probably sim
 
 Reflexology exists in a middle ground between mainstream medicine and fringe therapy. Some hospitals and cancer centers offer it as a complementary service. Denmark's healthcare system partially covers reflexology. Many hospice programs include it for comfort care.
 
-In the [wellness](/wellness) industry, reflexology is widely available — spas, standalone clinics, mobile practitioners. Sessions typically cost $40-$100 depending on location and duration. Some [health insurance](/health-law)) plans cover it under complementary therapy benefits, though most do not.
+In the [wellness](/wellness) industry, reflexology is widely available — spas, standalone clinics, mobile practitioners. Sessions typically cost $40-$100 depending on location and duration. Some [health insurance](/health-insurance)) plans cover it under complementary therapy benefits, though most do not.
 
 Training programs range from 100-hour weekend courses to 300+ hour professional certification programs. The lack of standardization is a legitimate concern — the person working on your feet might have 20 years of training or 20 hours.
 

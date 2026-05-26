@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 921
 tier: "3"
-relatedArticles: ["antiques-collecting", "coin-collecting", "comic-book-collecting", "stamp-collecting"]
+relatedArticles: ["antiques-collecting", "coin-collecting", "comic-book-collecting", "stamp-collecting", "lumberjacking"]
 externalSources:
   - title: "Smithsonian Institution - Collections"
     url: "https://www.si.edu/collections"

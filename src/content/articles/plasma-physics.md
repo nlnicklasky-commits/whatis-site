@@ -93,7 +93,7 @@ Plasma supports an extraordinary variety of waves — far more than ordinary flu
 
 Langmuir waves are oscillations of the electron density at the plasma frequency — a characteristic frequency determined by the electron density. These waves are why radio signals above a certain frequency pass through the ionosphere while lower frequencies bounce back. AM radio can bounce off the ionosphere and travel over the horizon; higher-frequency FM signals punch straight through into space.
 
-Alfvén waves, discovered theoretically by Hannes Alfvén (who won the 1970 Nobel Prize in [physics](/classical-mechanics) for it), are low-frequency waves that propagate along magnetic field lines, somewhat like waves on [a guitar](/guitar) string. They're ubiquitous in space plasmas — the solar wind, Earth's magnetosphere, and [astrophysics](/astrophysics) environments like accretion disks around black holes.
+Alfvén waves, discovered theoretically by Hannes Alfvén (who won the 1970 Nobel Prize in [physics](/physics) for it), are low-frequency waves that propagate along magnetic field lines, somewhat like waves on [a guitar](/guitar) string. They're ubiquitous in space plasmas — the solar wind, Earth's magnetosphere, and [astrophysics](/astrophysics) environments like accretion disks around black holes.
 
 ### Instabilities — Plasma's Wild Side
 

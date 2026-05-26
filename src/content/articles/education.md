@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1098
 tier: "3"
-relatedArticles: ["psychology", "philosophy", "critical-thinking", "english-literature"]
+relatedArticles: ["psychology", "philosophy", "critical-thinking", "english-literature", "creole-languages"]
 externalSources:
   - title: "UNESCO - Education"
     url: "https://www.unesco.org/en/education"

@@ -41,7 +41,7 @@ The gap between "edible bread" and "extraordinary bread" is where the craft live
 
 ## The Science
 
-Bread making is applied [food chemistry](/superfoods)). Here's what's actually happening:
+Bread making is applied [food chemistry](/food-chemistry)). Here's what's actually happening:
 
 **Mixing** — Flour meets water. Proteins in the flour (glutenin and gliadin) hydrate and begin forming gluten, an elastic, stretchy network. This network is the skeleton of your bread.
 

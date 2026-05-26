@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1132
 tier: "3"
-relatedArticles: ["philosophy", "psychology", "ethics", "stoicism"]
+relatedArticles: ["philosophy", "psychology", "ethics", "stoicism", "french-language"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy — Existentialism"
     url: "https://plato.stanford.edu/entries/existentialism/"
@@ -37,7 +37,7 @@ Existentialism is a philosophical movement built on one uncomfortable idea: you'
 
 The phrase most associated with existentialism is Jean-Paul Sartre's "existence precedes essence." In plain language, that means you exist first, and *then* you define who you are through your choices. A hammer has an essence before it exists — someone designs it with a purpose. But you? You showed up without instructions.
 
-This flips centuries of [Western philosophy](/western-art)) on its head. Plato, Aristotle, and most religious traditions assumed humans had a fixed nature — an essence that determined what a good human life looked like. Existentialists said no. There's no human nature you're born with. You build yourself through action.
+This flips centuries of [Western philosophy](/western-philosophy)) on its head. Plato, Aristotle, and most religious traditions assumed humans had a fixed nature — an essence that determined what a good human life looked like. Existentialists said no. There's no human nature you're born with. You build yourself through action.
 
 And here's the kicker: you can't escape this. Even refusing to choose is a choice. Sartre called this being "condemned to be free."
 

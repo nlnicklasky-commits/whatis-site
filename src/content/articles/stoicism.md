@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3071
 tier: "1"
-relatedArticles: ["philosophy", "ethics"]
+relatedArticles: ["philosophy", "ethics", "sufism"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy — Stoicism"
     url: "https://plato.stanford.edu/entries/stoicism/"

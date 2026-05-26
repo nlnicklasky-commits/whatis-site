@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1042
 tier: "3"
-relatedArticles: ["fire-safety", "first-aid"]
+relatedArticles: ["fire-safety", "first-aid", "seaplane-piloting", "toy-making"]
 externalSources:
   - title: "FEMA — U.S. Fire Administration"
     url: "https://www.usfa.fema.gov/"

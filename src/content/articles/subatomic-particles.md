@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2792
 tier: "2"
-relatedArticles: ["chemistry", "cosmology", "astrophysics", "classical-mechanics"]
+relatedArticles: ["chemistry", "cosmology", "astrophysics", "classical-mechanics", "telepathy-research"]
 externalSources:
   - title: "CERN — The Standard Model"
     url: "https://home.cern/science/physics/standard-model"
@@ -62,7 +62,7 @@ Murray Gell-Mann and George Zweig independently proposed in 1964 that many of th
 
 ## The Standard Model: Physics' Best Map
 
-The Standard Model of particle [physics](/classical-mechanics) is our best description of the subatomic world. Developed throughout the 1970s and refined since, it organizes all known fundamental particles and three of the four fundamental forces into one framework.
+The Standard Model of particle [physics](/physics) is our best description of the subatomic world. Developed throughout the 1970s and refined since, it organizes all known fundamental particles and three of the four fundamental forces into one framework.
 
 Think of it as a periodic table for the very small. It's not perfect — it doesn't include gravity, and it leaves some big questions unanswered — but it's been tested thousands of times and keeps passing with flying colors.
 
@@ -78,7 +78,7 @@ Fermions come in two flavors: quarks and leptons.
 
 The other four quarks — charm, strange, top, and bottom — are heavier and unstable. They only appear briefly in high-energy collisions, like those inside particle accelerators. The top quark, discovered at Fermilab in 1995, is the heaviest known fundamental particle, weighing about as much as an entire gold atom despite being a point-like particle.
 
-**Leptons** also come in six varieties: the electron, muon, and tau (each with an associated neutrino). You know the electron well — it's what flows through wires as [electricity](/circuit-design) and determines chemical bonding. The muon and tau are like heavier, unstable cousins of the electron.
+**Leptons** also come in six varieties: the electron, muon, and tau (each with an associated neutrino). You know the electron well — it's what flows through wires as [electricity](/electricity) and determines chemical bonding. The muon and tau are like heavier, unstable cousins of the electron.
 
 Neutrinos are the oddballs. They have almost no mass, no electric charge, and barely interact with anything. About 100 trillion neutrinos from the sun pass through your body every second, and you never notice. Detecting them requires enormous underground detectors filled with thousands of tons of water or liquid scintillator.
 
@@ -202,6 +202,6 @@ The field is far from finished. CERN is planning the Future Circular Collider (F
 
 Meanwhile, experiments searching for dark matter particles are getting more sensitive every year. Neutrino experiments like DUNE (Deep Underground Neutrino Experiment) in South Dakota aim to measure neutrino properties with unprecedented precision.
 
-We're also entering the era of gravitational wave [astronomy](/astrophysics) and multi-messenger observations, combining signals from gravitational waves, light, neutrinos, and cosmic rays to study the most extreme events in the universe — events where subatomic physics and cosmology collide.
+We're also entering the era of gravitational wave [astronomy](/astronomy) and multi-messenger observations, combining signals from gravitational waves, light, neutrinos, and cosmic rays to study the most extreme events in the universe — events where subatomic physics and cosmology collide.
 
 The subatomic world is strange, beautiful, and far from fully understood. Every answer we've found has opened more questions. And honestly? That's what makes it one of the most exciting areas of science there is.

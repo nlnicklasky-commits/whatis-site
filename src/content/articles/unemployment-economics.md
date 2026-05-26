@@ -188,4 +188,4 @@ Several structural forces are reshaping unemployment economics:
 
 **Globalization** continues to shift some types of work across borders, though the rate of offshoring has slowed compared to the 1990s-2000s peak. The political backlash against trade-related job losses has reshaped economic policy in the U.S. and Europe.
 
-Understanding these forces — and developing policy responses that actually work — remains one of the most consequential challenges in [economics](/budgeting). The numbers on the chart represent families, communities, and futures. Getting unemployment economics right matters enormously.
+Understanding these forces — and developing policy responses that actually work — remains one of the most consequential challenges in [economics](/economics). The numbers on the chart represent families, communities, and futures. Getting unemployment economics right matters enormously.

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1673
 tier: "3"
-relatedArticles: ["dental-hygiene", "anatomy", "chemistry", "biology"]
+relatedArticles: ["dental-hygiene", "anatomy", "chemistry", "biology", "rhinology"]
 externalSources:
   - title: "American Dental Association"
     url: "https://www.ada.org/"

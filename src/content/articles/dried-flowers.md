@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 916
 tier: "3"
-relatedArticles: ["gardening", "decorating", "botany"]
+relatedArticles: ["gardening", "decorating", "botany", "shenanigans", "small-engine-repair"]
 externalSources:
   - title: "Royal Horticultural Society - Drying Flowers"
     url: "https://www.rhs.org.uk/"

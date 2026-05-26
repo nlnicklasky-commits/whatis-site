@@ -50,7 +50,7 @@ Not all stone is created equal. The type you choose determines everything — yo
 - **Soapstone** — Extremely soft (1 on the Mohs scale). You can carve it with a kitchen knife. Great for beginners, but won't hold fine detail.
 - **Alabaster** — Soft, translucent, beautiful. Popular for decorative carving but too fragile for outdoor use.
 - **Limestone** — Moderate hardness. Widely used for architectural carving and outdoor [sculpture](/sculpture).
-- **Marble** — The gold standard for fine [sculpture](/aesthetics). Hard enough to hold incredible detail, but workable with hand tools. Its crystalline structure gives it a slight translucency that makes skin look almost alive.
+- **Marble** — The gold standard for fine [sculpture](/sculpture). Hard enough to hold incredible detail, but workable with hand tools. Its crystalline structure gives it a slight translucency that makes skin look almost alive.
 - **Granite** — Extremely hard and durable. Requires diamond-tipped tools or pneumatic equipment. Used for monuments and architectural features that need to last centuries.
 
 ## Tools and Techniques

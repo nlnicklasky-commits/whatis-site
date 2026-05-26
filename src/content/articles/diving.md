@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 916
 tier: "3"
-relatedArticles: ["swimming", "marine-biology", "canoeing"]
+relatedArticles: ["swimming", "marine-biology", "canoeing", "falconry", "hobby-electronics"]
 externalSources:
   - title: "PADI - Professional Association of Diving Instructors"
     url: "https://www.padi.com/"
@@ -57,7 +57,7 @@ Diving involves physics that can hurt you if you don't understand them.
 
 Free diving strips away the equipment. One breath, no tank. Humans have been doing this for at least 7,000 years — archaeological evidence of free-diving shell gatherers exists across the Mediterranean, Pacific Islands, and East Asia. Japan's Ama divers (traditionally women) have harvested shellfish and pearls by breath-hold diving for over 2,000 years.
 
-Modern competitive free diving pushes [human physiology](/humanism)) to its limits. The current "No Limits" depth record is 214 meters (702 feet) — deeper than the height of a 60-story building, achieved on a single breath of air. The mammalian dive reflex — a set of physiological responses that slow heart rate, redirect blood to vital organs, and increase the blood's oxygen-carrying capacity — helps make this possible.
+Modern competitive free diving pushes [human physiology](/human-physiology)) to its limits. The current "No Limits" depth record is 214 meters (702 feet) — deeper than the height of a 60-story building, achieved on a single breath of air. The mammalian dive reflex — a set of physiological responses that slow heart rate, redirect blood to vital organs, and increase the blood's oxygen-carrying capacity — helps make this possible.
 
 Training focuses on relaxation, breath-hold technique, and mental control rather than equipment mastery. A skilled free diver can hold their breath for 5-10 minutes at rest and 3-5 minutes while actively diving. The static breath-hold record is over 24 minutes.
 

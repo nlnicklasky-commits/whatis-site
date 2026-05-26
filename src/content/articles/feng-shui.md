@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1005
 tier: "3"
-relatedArticles: ["interior-design", "architecture", "meditation"]
+relatedArticles: ["interior-design", "architecture", "meditation", "sponge-biology", "swahili-language"]
 externalSources:
   - title: "National Geographic — Feng Shui"
     url: "https://education.nationalgeographic.org/resource/feng-shui/"

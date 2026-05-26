@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2249
 tier: "2"
-relatedArticles: ["algorithms", "machine-learning", "agriculture", "silk-road"]
+relatedArticles: ["algorithms", "machine-learning", "agriculture", "silk-road", "rainforest-ecology"]
 externalSources:
   - title: "International Cartographic Association"
     url: "https://icaci.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1621
 tier: "3"
-relatedArticles: ["biology", "anatomy", "chemistry", "sociology"]
+relatedArticles: ["biology", "anatomy", "chemistry", "sociology", "greenhouse-management"]
 externalSources:
   - title: "CDC: Handwashing — Clean Hands Save Lives"
     url: "https://www.cdc.gov/handwashing/index.html"
@@ -107,4 +107,4 @@ This connects to growing research on the [human microbiome](/humanism)) and its 
 
 The COVID-19 pandemic put hygiene center stage in public consciousness in a way that hadn't happened for generations. Handwashing, surface disinfection, mask-wearing, and social distancing became daily topics of conversation. Some of those practices will likely persist; others have already faded.
 
-What COVID reinforced — brutally — is that hygiene is not just a personal choice. It's a collective endeavor. Your handwashing habits affect other people. Your decision to stay home when sick protects your coworkers. A community's investment in water treatment protects everyone who drinks the water. Hygiene is where individual behavior and [public health](/anatomy) infrastructure intersect, and getting that intersection right remains one of the most important — and most underfunded — challenges in global health.
+What COVID reinforced — brutally — is that hygiene is not just a personal choice. It's a collective endeavor. Your handwashing habits affect other people. Your decision to stay home when sick protects your coworkers. A community's investment in water treatment protects everyone who drinks the water. Hygiene is where individual behavior and [public health](/public-health) infrastructure intersect, and getting that intersection right remains one of the most important — and most underfunded — challenges in global health.

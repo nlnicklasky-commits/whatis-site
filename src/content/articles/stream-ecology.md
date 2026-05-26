@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2408
 tier: "2"
-relatedArticles: ["biology", "climatology", "hydrology", "coral-reef-ecology"]
+relatedArticles: ["biology", "climatology", "hydrology", "coral-reef-ecology", "limnology"]
 externalSources:
   - title: "EPA: Streams and Rivers"
     url: "https://www.epa.gov/national-aquatic-resource-surveys/national-rivers-and-streams-assessment"

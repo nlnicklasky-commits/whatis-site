@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 928
 tier: "3"
-relatedArticles: ["fine-art", "flemish-painting", "gothic-architecture"]
+relatedArticles: ["fine-art", "flemish-painting", "gothic-architecture", "water-color-painting", "yogurt-making"]
 externalSources:
   - title: "Metropolitan Museum of Art — Fresco Painting"
     url: "https://www.metmuseum.org/toah/hd/frsc/hd_frsc.htm"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1183
 tier: "3"
-relatedArticles: ["ecology", "wildlife-management", "hiking", "camping"]
+relatedArticles: ["ecology", "wildlife-management", "hiking", "camping", "metal-detecting"]
 externalSources:
   - title: "National Park Service"
     url: "https://www.nps.gov/"

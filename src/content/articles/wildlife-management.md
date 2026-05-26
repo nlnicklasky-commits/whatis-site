@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 938
 tier: "3"
-relatedArticles: ["wildlife-conservation", "wetland-ecology", "wildfire-management"]
+relatedArticles: ["wildlife-conservation", "wetland-ecology", "wildfire-management", "taxidermy"]
 externalSources:
   - title: "U.S. Fish & Wildlife Service"
     url: "https://www.fws.gov/"

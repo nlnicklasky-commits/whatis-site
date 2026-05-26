@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1695
 tier: "3"
-relatedArticles: ["jewish-history", "middle-eastern-history", "political-philosophy", "international-law"]
+relatedArticles: ["jewish-history", "middle-eastern-history", "political-philosophy", "international-law", "the-history-of-biology"]
 externalSources:
   - title: "United States Holocaust Memorial Museum: Zionism"
     url: "https://encyclopedia.ushmm.org/content/en/article/zionism"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1115
 tier: "3"
-relatedArticles: ["etymology", "english-literature", "education", "creative-writing"]
+relatedArticles: ["etymology", "english-literature", "education", "creative-writing", "jacobean-era"]
 externalSources:
   - title: "Oxford English Dictionary"
     url: "https://www.oed.com/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1385
 tier: "3"
-relatedArticles: ["behavioral-psychology", "cognitive-psychology", "business-administration", "business-ethics"]
+relatedArticles: ["behavioral-psychology", "cognitive-psychology", "business-administration", "business-ethics", "paramedicine"]
 externalSources:
   - title: "International Coaching Federation: What Is Coaching?"
     url: "https://coachingfederation.org/about"
@@ -57,7 +57,7 @@ Executive coaching emerged separately, growing out of [organizational psychology
 
 ### Executive Coaching
 
-This is the most established and best-researched form. Executive coaches work with senior leaders — CEOs, VPs, directors — on [leadership](/business-administration) effectiveness, strategic thinking, communication, and managing difficult relationships. Engagements typically last 6-12 months, with sessions every two to four weeks.
+This is the most established and best-researched form. Executive coaches work with senior leaders — CEOs, VPs, directors — on [leadership](/leadership) effectiveness, strategic thinking, communication, and managing difficult relationships. Engagements typically last 6-12 months, with sessions every two to four weeks.
 
 The best executive coaching uses 360-degree feedback — gathering input from the leader's boss, peers, and direct reports — to identify blind spots. Leaders often think they're communicating clearly when their teams are confused, or believe they're empowering people when they're actually micromanaging. The gap between self-perception and others' experience is where coaching does its most useful work.
 

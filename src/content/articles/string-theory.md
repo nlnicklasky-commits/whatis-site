@@ -37,7 +37,7 @@ That's the elevator pitch. The full picture is quite a bit stranger.
 
 ## The Problem String Theory Tries to Solve
 
-Modern physics has two extraordinarily successful theories that refuse to work together. [General relativity](/general-relativity) describes gravity and the large-scale structure of the universe — planets, stars, galaxies. [Quantum mechanics](/quantum-field-theory) describes the subatomic world — electrons, quarks, photons. Both are confirmed by experiments to astonishing precision.
+Modern physics has two extraordinarily successful theories that refuse to work together. [General relativity](/general-relativity) describes gravity and the large-scale structure of the universe — planets, stars, galaxies. [Quantum mechanics](/quantum-mechanics) describes the subatomic world — electrons, quarks, photons. Both are confirmed by experiments to astonishing precision.
 
 But when you try to combine them — specifically, when you try to describe gravity at quantum scales — the math breaks down. You get infinities that can't be removed. This isn't a minor inconvenience. It means our understanding of physics is fundamentally incomplete. We don't know what happens at the center of a black hole or at the very first instant of the Big Bang, because those situations require both theories simultaneously.
 

@@ -89,7 +89,7 @@ The printing press, arriving in Italy in the 1460s, amplified the Renaissance's 
 
 Italy's political fragmentation made it vulnerable. Beginning with the French invasion of 1494, the peninsula became a battleground for European great powers. Spain controlled southern Italy and Milan through the 16th and 17th centuries. Austria succeeded Spain in the 18th century. Napoleon conquered most of Italy in the 1790s, reorganizing its states and spreading ideas of nationalism and constitutional government.
 
-These centuries weren't all decline. Italian music flourished — [opera](/opera) was invented in Florence around 1600, and composers like Vivaldi, Monteverdi, and later Verdi created works that defined European musical culture. Italian science continued to advance — Torricelli invented the barometer, Volta the battery, Galvani studied bioelectricity. The word "volt" comes from Alessandro Volta. So does "galvanize" from Luigi Galvani. Italian contributions to science shaped the vocabulary of [chemistry](/chemistry) and [physics](/classical-mechanics).
+These centuries weren't all decline. Italian music flourished — [opera](/opera) was invented in Florence around 1600, and composers like Vivaldi, Monteverdi, and later Verdi created works that defined European musical culture. Italian science continued to advance — Torricelli invented the barometer, Volta the battery, Galvani studied bioelectricity. The word "volt" comes from Alessandro Volta. So does "galvanize" from Luigi Galvani. Italian contributions to science shaped the vocabulary of [chemistry](/chemistry) and [physics](/physics).
 
 But politically, Italians chafed under foreign rule. The idea of a unified Italian nation — the Risorgimento — gathered force through the 19th century.
 

@@ -99,7 +99,7 @@ A mechanical engineer selecting materials for a jet engine turbine blade faces c
 
 ### Manufacturing Processes
 
-Designing something brilliant means nothing if you can't actually make it. Mechanical engineers need to understand casting, machining, [welding](/metalworking), 3D printing, injection molding, and dozens of other manufacturing methods. Each process has limitations, tolerances, and cost implications that influence design decisions from the very beginning.
+Designing something brilliant means nothing if you can't actually make it. Mechanical engineers need to understand casting, machining, [welding](/welding), 3D printing, injection molding, and dozens of other manufacturing methods. Each process has limitations, tolerances, and cost implications that influence design decisions from the very beginning.
 
 Design for manufacturability (DFM) is a real discipline. The best designers think about how something will be built while they're still sketching concepts.
 

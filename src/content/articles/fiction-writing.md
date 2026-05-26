@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 984
 tier: "3"
-relatedArticles: ["creative-writing", "fantasy-literature", "film-production"]
+relatedArticles: ["creative-writing", "fantasy-literature", "film-production", "systems-analysis", "taxidermy"]
 externalSources:
   - title: "Purdue OWL — Fiction Writing"
     url: "https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/fiction_writing.html"

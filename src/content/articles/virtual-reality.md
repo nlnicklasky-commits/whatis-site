@@ -66,7 +66,7 @@ The target for head tracking latency is under 20 milliseconds from head movement
 
 ### Hand and Body Tracking
 
-Early VR systems used simple controllers with buttons and joysticks. Modern systems increasingly track your actual hands using cameras and [computer vision](/computer-graphics) algorithms.
+Early VR systems used simple controllers with buttons and joysticks. Modern systems increasingly track your actual hands using cameras and [computer vision](/computer-vision) algorithms.
 
 The Meta Quest 3 and Apple Vision Pro can track individual finger positions, allowing you to pinch, point, grab, and gesture naturally. Eye tracking (detecting where you're looking) is becoming standard in higher-end headsets, enabling foveated rendering (sharply rendering only what you're directly looking at, saving enormous GPU power) and more natural social interaction in virtual environments.
 

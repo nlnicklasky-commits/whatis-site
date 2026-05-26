@@ -81,4 +81,4 @@ But plaster has real advantages:
 
 The tradeoff is cost. Wet plastering costs 3-5 times more than drywall, almost entirely due to labor. In new construction where budget matters, drywall wins. In historic restoration, high-end custom homes, and buildings where quality justifies cost, plaster remains the superior finish.
 
-Plastering is a [trade](/trade) where the difference between competent and exceptional shows in the result. A well-plastered wall has a solidity, smoothness, and character that no manufactured board can quite replicate. It's the difference between a printed poster and an [oil painting](/soil-science)) — both cover the wall, but one has a quality the other doesn't.
+Plastering is a [trade](/trade) where the difference between competent and exceptional shows in the result. A well-plastered wall has a solidity, smoothness, and character that no manufactured board can quite replicate. It's the difference between a printed poster and an [oil painting](/oil-painting)) — both cover the wall, but one has a quality the other doesn't.

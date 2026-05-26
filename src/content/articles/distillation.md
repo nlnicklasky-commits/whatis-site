@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2487
 tier: "2"
-relatedArticles: ["agriculture", "alternative-energy", "air-conditioning", "acoustics"]
+relatedArticles: ["agriculture", "alternative-energy", "air-conditioning", "acoustics", "oleochemistry"]
 externalSources:
   - title: "LibreTexts Chemistry - Distillation"
     url: "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Reactions/Separation_Techniques/Distillation"

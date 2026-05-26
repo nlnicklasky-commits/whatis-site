@@ -40,7 +40,7 @@ No gym membership. No expensive equipment. No waiting for machines. Just you, gr
 
 ## A Surprisingly Ancient Practice
 
-Calisthenics isn't a modern [fitness](/fitness) trend. Ancient Greek soldiers trained with bodyweight exercises to prepare for combat. Spartan warriors — among the most feared fighters in history — built their legendary conditioning through calisthenics, not weight rooms. The [human anatomy](/anatomy) hasn't changed since then, and neither have the basic principles.
+Calisthenics isn't a modern [fitness](/fitness) trend. Ancient Greek soldiers trained with bodyweight exercises to prepare for combat. Spartan warriors — among the most feared fighters in history — built their legendary conditioning through calisthenics, not weight rooms. The [human anatomy](/human-anatomy) hasn't changed since then, and neither have the basic principles.
 
 Roman legionnaires practiced bodyweight drills as part of their military training. Indian wrestlers have used bodyweight exercises called "dands" (a type of push-up) and "bethaks" (squats) for centuries. Shaolin monks trained with bodyweight movements that developed both martial ability and physical conditioning.
 

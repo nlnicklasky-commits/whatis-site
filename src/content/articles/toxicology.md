@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2427
 tier: "2"
-relatedArticles: ["chemistry", "biology", "anatomy", "agriculture"]
+relatedArticles: ["chemistry", "biology", "anatomy", "agriculture", "tropical-agriculture"]
 externalSources:
   - title: "National Institute of Environmental Health Sciences: Toxicology"
     url: "https://www.niehs.nih.gov/health/topics/science/toxicology"

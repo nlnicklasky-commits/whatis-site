@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 956
 tier: "3"
-relatedArticles: ["filmmaking", "film-direction", "film-editing"]
+relatedArticles: ["filmmaking", "film-direction", "film-editing", "claymation", "western-film-genre"]
 externalSources:
   - title: "Producers Guild of America"
     url: "https://producersguild.org/"

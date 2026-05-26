@@ -55,7 +55,7 @@ In **China**, **Confucius** (551–479 BCE) developed an ethical philosophy cent
 
 **Plato** (428–348 BCE), Socrates' student, wrote dialogues that are still read as both philosophy and [literature](/literature). His **Theory of Forms** proposed that the physical world is just shadows — imperfect copies of perfect, eternal Forms that exist in a higher reality. The chair you're sitting in is an imperfect instance of the Form of Chair. This sounds wild, but it influenced everything from Christian theology to modern [mathematics](/mathematics).
 
-Plato's *Republic* remains one of the most important works of [political philosophy](/the-history-of-political-science). His allegory of the cave — prisoners chained in a cave, mistaking shadows on the wall for reality — is one of the most famous images in all of philosophy.
+Plato's *Republic* remains one of the most important works of [political philosophy](/political-philosophy). His allegory of the cave — prisoners chained in a cave, mistaking shadows on the wall for reality — is one of the most famous images in all of philosophy.
 
 **Aristotle** (384–322 BCE), Plato's student, rejected the Theory of Forms and focused on the concrete world. He basically invented formal [logic](/the-history-of-logic), classified living organisms, wrote the first systematic treatise on ethics, analyzed political systems empirically, and developed theories of physics that lasted until Galileo. His influence on Western thought is almost impossible to overstate. Alfred North Whitehead once said that all of Western philosophy is "a series of footnotes to Plato" — but Aristotle's footnotes were pretty substantial too.
 

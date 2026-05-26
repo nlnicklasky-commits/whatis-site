@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1012
 tier: "3"
-relatedArticles: ["first-aid", "agriculture", "civil-engineering"]
+relatedArticles: ["first-aid", "agriculture", "civil-engineering", "pizza-making", "plastering"]
 externalSources:
   - title: "FEMA - Ready.gov"
     url: "https://www.ready.gov/"

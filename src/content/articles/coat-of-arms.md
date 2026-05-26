@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1568
 tier: "3"
-relatedArticles: ["archaeology", "cartography", "comparative-religion"]
+relatedArticles: ["archaeology", "cartography", "comparative-religion", "falconry", "native-american-history"]
 externalSources:
   - title: "The College of Arms (England)"
     url: "https://www.college-of-arms.gov.uk/"

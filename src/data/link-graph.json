@@ -19,7 +19,6 @@
     "category": "science",
     "outgoing": [
       "algebra",
-      "blockchain",
       "chemistry",
       "computer-graphics",
       "computer-science",
@@ -49,8 +48,7 @@
       "group-theory",
       "mathematics",
       "number-theory",
-      "the-history-of-logic",
-      "the-history-of-mathematics"
+      "the-history-of-logic"
     ]
   },
   "accounting": {
@@ -80,7 +78,6 @@
       "algebra",
       "alternative-energy",
       "anatomy",
-      "applied-mathematics",
       "artificial-intelligence",
       "australian-history",
       "automotive-engineering",
@@ -101,6 +98,7 @@
       "climate-change",
       "cloud-computing",
       "cognitive-bias",
+      "compound-interest",
       "computer-networking",
       "corporate-finance",
       "credit-management",
@@ -152,6 +150,7 @@
       "restaurant-management",
       "rice-farming",
       "romance-languages",
+      "savings",
       "security-analysis",
       "shop-management",
       "small-business-management",
@@ -197,10 +196,8 @@
       "air-conditioning",
       "animal-behavior",
       "audio-engineering",
-      "automotive-engineering",
       "aviation",
       "bass-guitar",
-      "biomechanics",
       "biophysics",
       "calculus",
       "classical-mechanics",
@@ -225,7 +222,6 @@
       "speech-pathology",
       "submarine-technology",
       "sustainable-architecture",
-      "telescope-making",
       "violin-making",
       "virtual-reality",
       "vocal-performance"
@@ -401,8 +397,6 @@
       "manufacturing-engineering",
       "mathematical-modeling",
       "mechanical-engineering",
-      "metalworking",
-      "metrology",
       "model-rockets",
       "naval-architecture",
       "pilot-training",
@@ -411,8 +405,6 @@
       "road-cycling",
       "rowing",
       "seaplane-piloting",
-      "sheet-metal-work",
-      "space-medicine",
       "structural-engineering",
       "sustainable-agriculture",
       "systems-engineering",
@@ -475,16 +467,18 @@
       "mechanical-engineering",
       "mechatronics",
       "metalworking",
+      "metrology",
       "mining-engineering",
       "model-rockets",
       "optimal-control",
       "pyrotechnics",
       "satellite-communication",
+      "sheet-metal-work",
       "solid-mechanics",
       "space-colonization",
+      "space-medicine",
       "surveying",
       "systems-engineering",
-      "systems-theory",
       "tire-technology",
       "titanium-forging",
       "tungsten-inert-gas-tig-welding",
@@ -541,17 +535,13 @@
       "dried-flowers",
       "electronic-music",
       "engraving",
-      "european-history",
       "fashion-design",
-      "fashion-history",
       "film-noir",
       "folk-art",
       "folk-music",
       "frame-making",
       "freemasonry",
-      "french-language",
       "gemology",
-      "german-language",
       "glass-blowing",
       "greek-language",
       "hagiography",
@@ -577,8 +567,6 @@
       "reptile-keeping",
       "shintoism",
       "skateboarding",
-      "spiritualism",
-      "stone-carving",
       "stonemasonry",
       "structural-engineering",
       "stucco",
@@ -594,7 +582,6 @@
       "tinsmithing",
       "toy-making",
       "uniformology",
-      "utilitarianism",
       "visual-merchandising",
       "web-design",
       "wellness",
@@ -923,6 +910,7 @@
       "nutrition",
       "optimization",
       "physiology",
+      "plant-biology",
       "plant-breeding",
       "plant-pathology",
       "productivity",
@@ -937,8 +925,6 @@
       "horticulture",
       "hydrology",
       "permaculture",
-      "soil-science",
-      "sustainable-agriculture",
       "synthetic-biology"
     ]
   },
@@ -964,7 +950,6 @@
       "wrestling"
     ],
     "incoming": [
-      "brazilian-jiu-jitsu",
       "martial-arts"
     ]
   },
@@ -1063,7 +1048,6 @@
       "western-esotericism"
     ],
     "incoming": [
-      "oleochemistry",
       "the-history-of-chemistry"
     ]
   },
@@ -1113,13 +1097,11 @@
       "differential-equations",
       "digital-logic",
       "econometrics",
-      "educational-history",
       "english-language",
       "functional-analysis",
       "geometry",
       "graph-theory",
       "group-theory",
-      "iranian-history",
       "islamic-history",
       "logic",
       "mathematical-logic",
@@ -1133,10 +1115,7 @@
       "psychometrics",
       "set-theory",
       "signal-processing",
-      "the-history-of-logic",
-      "the-history-of-mathematics",
-      "topology",
-      "trigonometry"
+      "the-history-of-logic"
     ]
   },
   "algorithms": {
@@ -1229,11 +1208,9 @@
       "digital-forensics",
       "digital-marketing",
       "digital-signal-processing",
-      "diy-electronics",
       "dynamic-programming",
       "econometrics",
       "educational-psychology",
-      "endocrinology",
       "ergonomics",
       "ethics",
       "experimental-physics",
@@ -1283,7 +1260,6 @@
       "moral-philosophy",
       "motion-graphics",
       "music-composition",
-      "myrmecology",
       "navigation",
       "network-security",
       "networking",
@@ -1337,7 +1313,6 @@
       "the-history-of-technology",
       "theoretical-computer-science",
       "theoretical-physics",
-      "thesaurus-construction",
       "topology",
       "tribology",
       "tungsten-inert-gas-tig-welding",
@@ -1413,7 +1388,6 @@
       "chemistry",
       "circuit-design",
       "climatology",
-      "concrete-technology",
       "coral-reef-ecology",
       "diy-electronics",
       "earth-science",
@@ -1427,7 +1401,6 @@
       "environmental-engineering",
       "fermentation",
       "fuel-cell-technology",
-      "global-economics",
       "high-speed-rail",
       "horticulture",
       "marine-engineering",
@@ -1441,7 +1414,6 @@
       "petroleum-engineering",
       "photovoltaics",
       "plasma-physics",
-      "refrigeration",
       "seaplane-piloting",
       "solid-state-physics",
       "spiritualism",
@@ -1494,9 +1466,9 @@
       "health-science",
       "neuroscience",
       "religion",
+      "rugby",
       "running",
       "soccer",
-      "sports-history",
       "statistics",
       "tourism"
     ],
@@ -1588,7 +1560,6 @@
       "biology",
       "biomechanics",
       "biotechnology",
-      "calisthenics",
       "carbohydrate-chemistry",
       "cell-biology",
       "chemistry",
@@ -1622,7 +1593,6 @@
       "histology",
       "human-anatomy",
       "human-physiology",
-      "hygiene",
       "ichthyology",
       "illustration",
       "latin-language",
@@ -1717,10 +1687,9 @@
     "title": "What Is Ancient Greek History?",
     "category": "history",
     "outgoing": [
-      "archaeology",
+      "architecture",
       "astronomy",
       "biology",
-      "calculus",
       "comedy",
       "debate",
       "drama",
@@ -1757,7 +1726,7 @@
     "category": "history",
     "outgoing": [
       "ancient-greek-history",
-      "archaeology",
+      "architecture",
       "astronomy",
       "christianity",
       "civil-engineering",
@@ -1789,7 +1758,6 @@
       "allergies",
       "anatomy",
       "artificial-intelligence",
-      "biology",
       "chemistry",
       "cognitive-neuroscience",
       "management",
@@ -1991,7 +1959,6 @@
       "forensic-anthropology",
       "gastronomy",
       "genealogy",
-      "heraldry",
       "historical-reenactment",
       "historical-weaponry",
       "historical-witchcraft",
@@ -2006,7 +1973,6 @@
       "paganism",
       "physical-anthropology",
       "physiognomy",
-      "political-philosophy",
       "postcolonial-studies",
       "psychological-warfare",
       "qualitative-research",
@@ -2014,7 +1980,6 @@
       "shamanism",
       "social-anthropology",
       "social-network-analysis",
-      "sufism",
       "supernatural-folklore",
       "sustainable-agriculture",
       "symbology",
@@ -2045,7 +2010,7 @@
     "outgoing": [
       "agriculture",
       "biology",
-      "climatology",
+      "climate-change",
       "entomology",
       "farming",
       "fermentation",
@@ -2094,7 +2059,6 @@
       "computer-architecture",
       "computer-networking",
       "contract-law",
-      "data-structures",
       "design-patterns",
       "economics",
       "ergonomics",
@@ -2120,7 +2084,6 @@
     "category": "science",
     "outgoing": [
       "abstract-algebra",
-      "accounting",
       "aerodynamics",
       "aerospace-engineering",
       "agile-software-development",
@@ -2140,8 +2103,10 @@
       "operations-research",
       "particle-physics",
       "pattern-recognition",
+      "physics",
       "probability-theory",
       "quantum-computing",
+      "statistics",
       "supply-chain-management"
     ],
     "incoming": [
@@ -2280,8 +2245,6 @@
     "incoming": [
       "african-history",
       "ancient-egyptian-history",
-      "ancient-greek-history",
-      "ancient-roman-history",
       "anthropology",
       "archery",
       "basket-weaving",
@@ -2291,7 +2254,6 @@
       "british-history",
       "celtic-history",
       "chinese-history",
-      "classical-civilizations",
       "coat-of-arms",
       "dendrology",
       "egyptian-mythology",
@@ -2387,7 +2349,6 @@
     ],
     "incoming": [
       "architecture",
-      "asian-history",
       "romanesque-architecture"
     ]
   },
@@ -2401,13 +2362,13 @@
       "climate-change",
       "construction",
       "engineering",
-      "environmental-engineering",
       "environmental-science",
       "government",
       "leadership",
       "productivity",
       "sociology",
       "structural-engineering",
+      "sustainable-architecture",
       "urban-planning",
       "writing"
     ],
@@ -2419,6 +2380,8 @@
       "aircraft-mechanics",
       "amateur-radio",
       "anatomy",
+      "ancient-greek-history",
+      "ancient-roman-history",
       "anthropology",
       "aquariums",
       "archaeology",
@@ -2437,6 +2400,7 @@
       "chemistry",
       "child-development",
       "civil-rights-history",
+      "classical-civilizations",
       "classical-composition",
       "cloud-computing",
       "cognitive-psychology",
@@ -2473,6 +2437,7 @@
       "fresco-painting",
       "functional-programming",
       "game-development",
+      "geometry",
       "german-language",
       "global-economics",
       "gothic-architecture",
@@ -2656,7 +2621,7 @@
       "mental-health",
       "nursing",
       "pharmacology",
-      "psychology"
+      "wellness"
     ],
     "incoming": [
       "distillation",
@@ -2788,6 +2753,7 @@
       "flight-simulation",
       "game-development",
       "general-relativity",
+      "generative-ai",
       "geography",
       "go-game",
       "health-economics",
@@ -2808,6 +2774,7 @@
       "international-relations",
       "inventory-management",
       "jurisprudence",
+      "large-language-model",
       "lean-manufacturing",
       "legal-history",
       "liberalism",
@@ -2905,10 +2872,8 @@
     "title": "What Is Asian History?",
     "category": "history",
     "outgoing": [
-      "architectural-history",
       "architecture",
       "buddhism",
-      "calculus",
       "calligraphy",
       "ceramics",
       "confucianism",
@@ -2918,6 +2883,7 @@
       "hinduism",
       "jainism",
       "literature",
+      "mathematics",
       "monarchy",
       "negotiation",
       "religion",
@@ -3078,8 +3044,7 @@
       "quantum-field-theory",
       "radio-astronomy",
       "solar-physics",
-      "space-science",
-      "subatomic-particles"
+      "space-science"
     ]
   },
   "athletics": {
@@ -3101,8 +3066,6 @@
     "incoming": [
       "ballroom-dancing",
       "baseball",
-      "cheerleading",
-      "circus-arts",
       "coaching",
       "competitive-eating",
       "educational-history",
@@ -3155,9 +3118,9 @@
     "category": "history",
     "outgoing": [
       "accounting",
-      "botany",
-      "climatology",
+      "climate-change",
       "debate",
+      "ecology",
       "education",
       "farming",
       "foreign-policy",
@@ -3216,6 +3179,7 @@
       "diplomacy",
       "electronics",
       "engineering",
+      "industrial-design",
       "interior-design",
       "leadership",
       "management",
@@ -3244,7 +3208,6 @@
     "category": "technology",
     "outgoing": [
       "accounting",
-      "acoustics",
       "aerodynamics",
       "algorithms",
       "alternative-energy",
@@ -3259,10 +3222,10 @@
       "fluid-dynamics",
       "golf",
       "insurance",
-      "machine-learning",
       "management",
       "manufacturing-engineering",
       "mechanical-engineering",
+      "physics",
       "running",
       "sales",
       "software-engineering",
@@ -3456,7 +3419,6 @@
       "walking"
     ],
     "incoming": [
-      "camping",
       "canoeing",
       "food-preservation",
       "hiking"
@@ -3661,7 +3623,7 @@
       "collectibles",
       "data-analysis",
       "invention",
-      "physics",
+      "physical-education",
       "statistics"
     ],
     "incoming": [
@@ -3669,7 +3631,6 @@
       "astronomy",
       "baseball",
       "biomechanics",
-      "card-making",
       "cheerleading",
       "experimental-psychology",
       "handball",
@@ -3831,7 +3792,6 @@
       "architecture",
       "cognitive-bias",
       "cognitive-psychology",
-      "economic-theory",
       "economics",
       "government",
       "heuristics",
@@ -3954,7 +3914,6 @@
     ],
     "incoming": [
       "battery-technology",
-      "bioengineering",
       "biology",
       "biophysics",
       "carbohydrate-chemistry",
@@ -3983,6 +3942,7 @@
       "mathematical-biology",
       "mycology",
       "naturopathy",
+      "neurochemistry",
       "oleochemistry",
       "organic-chemistry",
       "pharmaceutical-chemistry",
@@ -4009,7 +3969,6 @@
       "agriculture",
       "algorithms",
       "anatomy",
-      "biochemistry",
       "biology",
       "biomechanics",
       "chemistry",
@@ -4022,7 +3981,6 @@
       "fluid-dynamics",
       "geometry",
       "insurance",
-      "machine-learning",
       "medical-imaging",
       "oncology",
       "prosthetics",
@@ -4160,7 +4118,6 @@
       "allergies",
       "anatomy",
       "ancient-greek-history",
-      "anesthesiology",
       "animal-behavior",
       "apiculture-beekeeping",
       "aquariums",
@@ -4213,7 +4170,6 @@
       "environmental-engineering",
       "environmental-law",
       "environmental-science",
-      "epidemiology",
       "epistemology",
       "ergonomics",
       "ethology",
@@ -4342,7 +4298,6 @@
       "systems-biology",
       "systems-theory",
       "taxonomy",
-      "teratology",
       "textile-science",
       "the-history-of-biology",
       "thermodynamics",
@@ -4352,7 +4307,6 @@
       "veterinary-medicine",
       "virology",
       "walking",
-      "wildlife-biology",
       "wildlife-management",
       "x-ray-crystallography",
       "zoology"
@@ -4362,7 +4316,6 @@
     "title": "What Is Biomechanics?",
     "category": "science",
     "outgoing": [
-      "acoustics",
       "acting",
       "aerodynamics",
       "aerospace-engineering",
@@ -4422,6 +4375,7 @@
       "electron-microscopy",
       "engineering",
       "information-theory",
+      "molecular-biology",
       "neuroscience",
       "physics",
       "quantum-biology",
@@ -4559,7 +4513,6 @@
       "real-estate"
     ],
     "incoming": [
-      "abstract-algebra",
       "algorithms",
       "computer-architecture",
       "contract-law",
@@ -4772,7 +4725,6 @@
     ],
     "incoming": [
       "agronomy",
-      "australian-history",
       "basket-weaving",
       "dendrology",
       "entomology",
@@ -4796,7 +4748,6 @@
       "taxonomy",
       "terrariums",
       "topiary",
-      "tropical-agriculture",
       "tropical-ecology"
     ]
   },
@@ -4847,7 +4798,6 @@
     "title": "What Is Brazilian Jiu-Jitsu?",
     "category": "everyday-concepts",
     "outgoing": [
-      "aikido",
       "exercise-physiology",
       "fitness",
       "martial-arts",
@@ -4870,8 +4820,8 @@
       "artisan-bread-making",
       "baking",
       "fermentation",
-      "sourdough",
-      "superfoods"
+      "food-chemistry",
+      "sourdough"
     ],
     "incoming": [
       "artisan-bread-making"
@@ -5058,9 +5008,7 @@
       "strategic-planning",
       "student-government",
       "tax-law",
-      "technical-analysis",
       "television-production",
-      "unemployment-economics",
       "video-production"
     ]
   },
@@ -5089,7 +5037,6 @@
       "scheduling"
     ],
     "incoming": [
-      "geometry",
       "mechanical-engineering",
       "pneumatics",
       "scaffolding",
@@ -5132,10 +5079,8 @@
       "aikido",
       "bookkeeping",
       "budgeting",
-      "business-history",
       "business-law",
       "business-strategy",
-      "coaching",
       "franchising",
       "government",
       "heraldry",
@@ -5144,8 +5089,7 @@
       "legal-writing",
       "life-coaching",
       "small-business-management",
-      "word-processing",
-      "workplace-safety"
+      "word-processing"
     ]
   },
   "business-ethics": {
@@ -5191,7 +5135,6 @@
     "outgoing": [
       "accounting",
       "bookkeeping",
-      "business-administration",
       "business-law",
       "business-strategy",
       "capitalism",
@@ -5245,13 +5188,11 @@
       "accounting",
       "business-administration",
       "business-history",
-      "classical-civilizations",
       "family-law",
       "franchising",
       "health-law",
       "industrial-psychology",
       "jurisprudence",
-      "land-law",
       "law",
       "notary-public",
       "small-business-management"
@@ -5279,7 +5220,6 @@
       "business-administration",
       "business-history",
       "economic-theory",
-      "economics",
       "entrepreneurship",
       "franchising",
       "fundamental-analysis",
@@ -5426,9 +5366,7 @@
       "abacus",
       "aerospace-engineering",
       "alchemy",
-      "ancient-greek-history",
       "architectural-history",
-      "asian-history",
       "automata-theory",
       "chemistry",
       "circuit-design",
@@ -5436,9 +5374,7 @@
       "dental-hygiene",
       "differential-equations",
       "econometrics",
-      "educational-history",
       "educational-psychology",
-      "engineering-history",
       "ethics",
       "functional-analysis",
       "functional-programming",
@@ -5485,11 +5421,11 @@
     "category": "health-amp-wellness",
     "outgoing": [
       "acting",
-      "anatomy",
       "biomechanics",
       "etymology",
       "fitness",
       "gymnastics",
+      "human-anatomy",
       "human-physiology",
       "physical-education",
       "psychology",
@@ -5506,7 +5442,6 @@
       "arabic-language",
       "ceramics",
       "chinese-language",
-      "design-patterns",
       "graphic-design",
       "islam",
       "meditation",
@@ -5514,6 +5449,7 @@
       "painting",
       "philosophy",
       "poetry",
+      "typography",
       "writing"
     ],
     "incoming": [
@@ -5557,7 +5493,6 @@
     "title": "What Is Camping?",
     "category": "sports",
     "outgoing": [
-      "backpacking",
       "biology",
       "conservation-biology",
       "cooking",
@@ -5610,8 +5545,7 @@
       "chemistry",
       "confectionery",
       "cooking",
-      "food-science",
-      "superfoods"
+      "food-science"
     ],
     "incoming": [
       "cocktail-making",
@@ -5671,9 +5605,7 @@
       "early-modern-history",
       "economic-history",
       "entrepreneurship",
-      "european-history",
       "fashion-history",
-      "feudalism",
       "financial-regulation",
       "german-history",
       "government",
@@ -5758,11 +5690,11 @@
     "category": "arts-amp-culture",
     "outgoing": [
       "accounting",
-      "basketball",
       "calligraphy",
       "construction",
       "economics",
       "engineering",
+      "origami",
       "sales"
     ],
     "incoming": [
@@ -5779,7 +5711,8 @@
       "english-language",
       "productivity",
       "statistics",
-      "trade"
+      "trade",
+      "woodworking"
     ],
     "incoming": [
       "cabinet-making",
@@ -5825,7 +5758,6 @@
       "geomatics",
       "geomorphology",
       "geopolitics",
-      "german-history",
       "graph-theory",
       "human-geography",
       "lighthouses",
@@ -5833,7 +5765,6 @@
       "mapmaking",
       "marine-navigation",
       "spice-trade-history",
-      "stereoscopy",
       "surveying",
       "topography",
       "trigonometry"
@@ -6178,7 +6109,6 @@
     "title": "What Is Cheerleading?",
     "category": "sports",
     "outgoing": [
-      "athletics",
       "ballet",
       "basketball",
       "coaching",
@@ -6340,7 +6270,6 @@
       "dental-hygiene",
       "dentistry",
       "dermatology",
-      "dietetics",
       "differential-equations",
       "distillation",
       "dyeing",
@@ -6348,7 +6277,6 @@
       "earth-science",
       "ecology",
       "educational-psychology",
-      "elasticity",
       "electrochemistry",
       "electromagnetism",
       "electron-microscopy",
@@ -6421,7 +6349,6 @@
       "nanotechnology",
       "nautical-archaeology",
       "neurobiology",
-      "neurochemistry",
       "neuropharmacology",
       "nuclear-engineering",
       "oceanography",
@@ -6491,7 +6418,6 @@
       "smelting",
       "soap-making",
       "soil-science",
-      "soldering",
       "sourdough",
       "space-science",
       "special-effects",
@@ -6808,7 +6734,6 @@
       "islam",
       "islamic-history",
       "italian-history",
-      "jacobean-era",
       "japanese-history",
       "jewish-history",
       "medieval-history",
@@ -6841,7 +6766,6 @@
       "viking-history",
       "virtue-ethics",
       "voyages-of-discovery",
-      "western-esotericism",
       "world-religions",
       "zoroastrianism"
     ]
@@ -6934,15 +6858,13 @@
       "semiconductor-physics",
       "signal-processing",
       "smelting",
-      "soldering",
-      "subatomic-particles"
+      "soldering"
     ]
   },
   "circus-arts": {
     "title": "What Is Circus Arts?",
     "category": "arts-amp-culture",
     "outgoing": [
-      "athletics",
       "clowning",
       "comedy",
       "dance",
@@ -7011,14 +6933,12 @@
       "mining-engineering",
       "numerical-analysis",
       "ocean-engineering",
-      "post-and-beam-construction",
       "sandblasting",
+      "scaffolding",
       "seismology",
       "soil-mechanics",
       "solid-mechanics",
       "springs",
-      "stonemasonry",
-      "surveying",
       "technical-drawing",
       "tire-technology",
       "topography",
@@ -7050,8 +6970,6 @@
       "ottoman-history",
       "postcolonial-studies",
       "roman-law",
-      "scaffolding",
-      "steel-production",
       "tort-law",
       "tungsten-inert-gas-tig-welding",
       "underwater-welding",
@@ -7067,7 +6985,6 @@
       "architecture",
       "baseball",
       "capitalism",
-      "comparative-religion",
       "education",
       "islam",
       "leadership",
@@ -7086,9 +7003,8 @@
     "title": "What Is Classical Civilizations?",
     "category": "history",
     "outgoing": [
-      "archaeology",
+      "architecture",
       "biology",
-      "business-law",
       "civil-engineering",
       "comedy",
       "drama",
@@ -7104,8 +7020,7 @@
       "poetry",
       "politics",
       "religion",
-      "roman-law",
-      "stoicism"
+      "roman-law"
     ],
     "incoming": []
   },
@@ -7189,32 +7104,17 @@
       "fluid-dynamics",
       "gas-dynamics",
       "general-relativity",
-      "german-history",
-      "group-theory",
       "human-factors",
       "hydraulics",
       "hydrodynamics",
-      "italian-history",
-      "linear-algebra",
-      "magnetism",
       "mathematical-physics",
       "mechanical-engineering",
-      "metrology",
       "optimal-control",
       "physics",
-      "plasma-physics",
       "quantum-biology",
       "quantum-chemistry",
-      "refrigeration",
       "seismology",
-      "semiconductor-physics",
-      "solid-state-physics",
-      "sports-science",
       "springs",
-      "statistical-mechanics",
-      "subatomic-particles",
-      "thermodynamics",
-      "topology",
       "vector-calculus"
     ]
   },
@@ -7238,7 +7138,6 @@
     ],
     "incoming": [
       "classical-composition",
-      "drumming",
       "flute",
       "french-horn",
       "harp",
@@ -7292,9 +7191,11 @@
       "alternative-energy",
       "ancient-egyptian-history",
       "angling",
+      "apiculture-beekeeping",
       "aquaculture",
       "archaeology",
       "architecture",
+      "australian-history",
       "biogeography",
       "biology",
       "biotechnology",
@@ -7319,6 +7220,7 @@
       "dutch-history",
       "earth-science",
       "ecology",
+      "economic-theory",
       "engineering",
       "engineering-history",
       "entomology",
@@ -7346,6 +7248,7 @@
       "global-economics",
       "government",
       "grassland-ecology",
+      "greenhouse-management",
       "health-economics",
       "health-science",
       "heat-transfer",
@@ -7393,6 +7296,8 @@
       "ornithology",
       "paganism",
       "paleoanthropology",
+      "paleobiology",
+      "paleobotany",
       "paleoclimatology",
       "paleoecology",
       "paleontology",
@@ -7423,7 +7328,9 @@
       "sheep-farming",
       "shipwreck-archeology",
       "skiing",
+      "smelting",
       "social-anthropology",
+      "social-justice",
       "speleology",
       "steel-production",
       "stream-ecology",
@@ -7440,6 +7347,7 @@
       "transportation-engineering",
       "tropical-agriculture",
       "tropical-ecology",
+      "tunneling",
       "underwater-archaeology",
       "united-nations-history",
       "urban-planning",
@@ -7478,13 +7386,10 @@
       "trapping"
     ],
     "incoming": [
-      "apiculture-beekeeping",
       "architectural-history",
-      "australian-history",
       "biogeography",
       "coastal-geography",
       "earth-science",
-      "economic-theory",
       "entomology",
       "environmental-chemistry",
       "environmental-science",
@@ -7494,7 +7399,6 @@
       "geophysics",
       "geopolitics",
       "grassland-ecology",
-      "greenhouse-management",
       "heat-transfer",
       "human-geography",
       "hydrodynamics",
@@ -7516,8 +7420,6 @@
       "river-ecology",
       "sedimentology",
       "seismology",
-      "smelting",
-      "social-justice",
       "soil-science",
       "space-colonization",
       "speleology",
@@ -7527,8 +7429,7 @@
       "terraforming",
       "topography",
       "tropical-agriculture",
-      "tropical-ecology",
-      "tunneling"
+      "tropical-ecology"
     ]
   },
   "clinical-psychology": {
@@ -7554,6 +7455,7 @@
       "developmental-psychology",
       "evolutionary-psychology",
       "forensic-psychology",
+      "graphology",
       "relaxation-techniques"
     ]
   },
@@ -7678,7 +7580,6 @@
     "outgoing": [
       "athletics",
       "behavioral-psychology",
-      "business-administration",
       "business-ethics",
       "fitness",
       "leadership",
@@ -7821,13 +7722,10 @@
       "forensic-psychology",
       "forensic-science",
       "heuristics",
-      "humanism",
       "intelligence-analysis",
       "investment-management",
       "microeconomics",
-      "neurochemistry",
       "neuroeconomics",
-      "neurolinguistics",
       "neuromarketing",
       "neuroscience",
       "psychology",
@@ -7876,6 +7774,7 @@
       "magic-illusion",
       "neuroanatomy",
       "neurobiology",
+      "neurochemistry",
       "neuroeconomics",
       "neuromarketing",
       "neuroscience"
@@ -7919,6 +7818,7 @@
       "linguistics",
       "mnemotechnics",
       "neuroanatomy",
+      "neurolinguistics",
       "organizational-psychology",
       "pattern-recognition",
       "personality-psychology",
@@ -8147,7 +8047,6 @@
       "legal-writing",
       "pragmatism",
       "satellite-communication",
-      "storytelling",
       "systems-analysis",
       "systems-theory",
       "telecommunication",
@@ -8223,7 +8122,9 @@
       "storytelling",
       "trade"
     ],
-    "incoming": []
+    "incoming": [
+      "philology"
+    ]
   },
   "comparative-politics": {
     "title": "What Is Comparative Politics?",
@@ -8277,11 +8178,11 @@
       "african-history",
       "byzantine-history",
       "celtic-history",
-      "civil-rights-history",
       "egyptian-mythology",
       "hinduism",
       "humanism",
       "indonesian-history",
+      "pali-language",
       "religion",
       "sufism",
       "theology",
@@ -8354,7 +8255,6 @@
       "applied-mathematics",
       "automata-theory",
       "computer-science",
-      "fractal-geometry",
       "graph-theory",
       "number-theory",
       "the-history-of-mathematics",
@@ -8376,16 +8276,27 @@
       "chicken-farming",
       "coat-of-arms",
       "computer-hardware",
-      "neurolinguistics",
       "organic-farming",
-      "pali-language",
-      "philology",
       "plastics-engineering",
       "sustainable-agriculture",
       "tantra",
       "urban-farming",
       "waste-management",
       "zero-waste-living"
+    ]
+  },
+  "compound-interest": {
+    "title": "What Is Compound Interest?",
+    "category": "finance",
+    "outgoing": [
+      "accounting",
+      "interest-rate",
+      "investment-management",
+      "savings"
+    ],
+    "incoming": [
+      "interest-rate",
+      "savings"
     ]
   },
   "computational-biology": {
@@ -8457,6 +8368,7 @@
       "french-language",
       "functional-programming",
       "linguistics",
+      "neurolinguistics",
       "psycholinguistics",
       "sanskrit",
       "theoretical-computer-science"
@@ -8596,11 +8508,9 @@
       "mapmaking",
       "motion-graphics",
       "numerical-analysis",
-      "pattern-recognition",
       "perspective-drawing",
       "technical-drawing",
-      "tungsten-inert-gas-tig-welding",
-      "virtual-reality"
+      "tungsten-inert-gas-tig-welding"
     ]
   },
   "computer-hardware": {
@@ -8636,7 +8546,6 @@
       "photovoltaics",
       "sandblasting",
       "semiconductor-physics",
-      "soldering",
       "solid-state-physics",
       "sound-engineering",
       "subatomic-particles",
@@ -8793,7 +8702,6 @@
       "quantum-chemistry",
       "quantum-computing",
       "quantum-cryptography",
-      "quantum-field-theory",
       "quantum-optics",
       "radio-astronomy",
       "real-analysis",
@@ -8876,9 +8784,11 @@
       "management-information-systems",
       "mechatronics",
       "occupational-health",
+      "pattern-recognition",
       "robotics",
       "sports-analytics",
-      "traffic-engineering"
+      "traffic-engineering",
+      "virtual-reality"
     ]
   },
   "computing-history": {
@@ -8942,7 +8852,6 @@
     "category": "technology",
     "outgoing": [
       "algorithms",
-      "alternative-energy",
       "aviation",
       "construction",
       "cycling",
@@ -8951,6 +8860,7 @@
       "materials-science",
       "optimization",
       "poker",
+      "renewable-energy",
       "steel-production",
       "topology"
     ],
@@ -9080,7 +8990,6 @@
       "fish-farming",
       "forestry",
       "freshwater-biology",
-      "geomorphology",
       "grassland-ecology",
       "herpetology",
       "horticulture",
@@ -9259,6 +9168,7 @@
       "paleozoology",
       "pension-management",
       "petroleum-engineering",
+      "petrology",
       "piano",
       "pipe-organ",
       "plasma-physics",
@@ -9437,6 +9347,7 @@
       "massage-therapy",
       "mechanical-engineering",
       "mechatronics",
+      "metrology",
       "optimal-control",
       "systems-theory"
     ]
@@ -9688,6 +9599,7 @@
       "planetary-science",
       "plasma-physics",
       "quantum-electrodynamics",
+      "quantum-field-theory",
       "sanskrit",
       "statistical-mechanics",
       "subatomic-particles",
@@ -9893,7 +9805,6 @@
       "aesthetics",
       "cognitive-bias",
       "conflict-resolution",
-      "cryptozoology",
       "data-analysis",
       "debate",
       "detective-fiction",
@@ -10024,13 +9935,11 @@
       "cryptocurrency",
       "cybersecurity",
       "espionage-history",
-      "finance",
       "group-theory",
       "information-security",
       "information-theory",
       "linear-algebra",
       "mathematics",
-      "network-administration",
       "network-security",
       "networking",
       "number-theory",
@@ -10050,7 +9959,6 @@
     "category": "everyday-concepts",
     "outgoing": [
       "biology",
-      "critical-thinking",
       "debate",
       "folklore",
       "pattern-recognition",
@@ -10275,6 +10183,7 @@
       "internet-of-things-iot",
       "management-information-systems",
       "mechatronics",
+      "network-administration",
       "risk-management",
       "school-administration",
       "social-engineering",
@@ -10315,7 +10224,6 @@
       "fuel-cell-technology",
       "gas-dynamics",
       "geochemistry",
-      "graphology",
       "grassland-ecology",
       "group-theory",
       "hiking",
@@ -10758,7 +10666,6 @@
     "category": "technology",
     "outgoing": [
       "algorithms",
-      "app-development",
       "checkers",
       "database-design",
       "diving",
@@ -10766,6 +10673,7 @@
       "management",
       "programming-languages",
       "scheduling",
+      "software-engineering",
       "syntax"
     ],
     "incoming": [
@@ -11157,9 +11065,11 @@
       "data-science",
       "digital-signal-processing",
       "eeg-technology",
+      "generative-ai",
       "geographic-information-systems-gis",
       "graph-theory",
       "image-processing",
+      "large-language-model",
       "linear-algebra",
       "machine-learning",
       "mathematical-biology",
@@ -11304,7 +11214,6 @@
     "incoming": [
       "chemical-engineering",
       "distillation",
-      "geomorphology",
       "submarine-technology",
       "water-management"
     ]
@@ -11335,7 +11244,6 @@
     "incoming": [
       "animation",
       "cabinet-making",
-      "calligraphy",
       "functional-programming",
       "game-development",
       "object-oriented-programming",
@@ -11466,6 +11374,7 @@
       "genetics",
       "management",
       "mental-health",
+      "nutrition",
       "swimming",
       "walking"
     ],
@@ -11485,7 +11394,6 @@
       "biochemistry",
       "biology",
       "cell-biology",
-      "chemistry",
       "cooking",
       "diabetes-management",
       "education",
@@ -11595,12 +11503,10 @@
       "art-history",
       "beadwork",
       "drawing",
-      "electricity",
       "electronic-music",
       "fine-art",
       "oil-painting",
       "painting",
-      "press-release-writing",
       "visual-arts",
       "western-art"
     ]
@@ -11629,8 +11535,7 @@
       "computer-repair",
       "espionage-history",
       "forensic-science",
-      "handwriting-analysis",
-      "network-administration"
+      "handwriting-analysis"
     ]
   },
   "digital-logic": {
@@ -11640,7 +11545,7 @@
       "algebra",
       "architecture",
       "computer-science",
-      "electricity",
+      "electronics",
       "logic",
       "management",
       "mathematics",
@@ -11679,6 +11584,7 @@
       "neuromarketing",
       "online-marketing",
       "podcasting",
+      "press-release-writing",
       "seo-search-engine-optimization",
       "social-psychology",
       "web-analytics",
@@ -11900,7 +11806,7 @@
     "outgoing": [
       "equestrianism",
       "gymnastics",
-      "humanism",
+      "human-physiology",
       "invention",
       "physics",
       "underwater-photography"
@@ -11945,7 +11851,6 @@
     "category": "technology",
     "outgoing": [
       "acoustics",
-      "algorithms",
       "alternative-energy",
       "amateur-radio",
       "circuit-design",
@@ -12107,6 +12012,7 @@
       "anatomy",
       "digital-art",
       "engineering",
+      "illustration",
       "painting"
     ],
     "incoming": [
@@ -12292,14 +12198,14 @@
     "title": "What Is Drumming?",
     "category": "arts-amp-culture",
     "outgoing": [
-      "classical-music",
       "economics",
       "harmony",
       "invention",
       "jazz-music",
+      "mental-health",
       "neurology",
       "neuroscience",
-      "psychology",
+      "piano",
       "walking"
     ],
     "incoming": [
@@ -12470,7 +12376,6 @@
       "western-philosophy"
     ],
     "incoming": [
-      "energy-healing",
       "feng-shui",
       "macrobiotics"
     ]
@@ -12505,6 +12410,7 @@
       "agronomy",
       "angling",
       "animal-behavior",
+      "australian-history",
       "backpacking",
       "beachcombing",
       "biogeography",
@@ -12544,7 +12450,6 @@
       "mycology",
       "myrmecology",
       "natural-history",
-      "nuclear-power",
       "ocean-engineering",
       "oceanography",
       "organic-farming",
@@ -12655,7 +12560,7 @@
       "agriculture",
       "behavioral-economics",
       "business-strategy",
-      "climatology",
+      "climate-change",
       "cognitive-bias",
       "debate",
       "economics",
@@ -12678,7 +12583,6 @@
       "trade"
     ],
     "incoming": [
-      "behavioral-economics",
       "cognitive-bias",
       "econometrics",
       "health-economics",
@@ -12701,10 +12605,10 @@
     "outgoing": [
       "app-development",
       "automata-theory",
-      "business-strategy",
       "cognitive-bias",
       "education",
       "electronics",
+      "game-theory",
       "geography",
       "government",
       "insurance",
@@ -12783,6 +12687,7 @@
       "environmental-science",
       "ethics",
       "etymology",
+      "european-history",
       "fashion-history",
       "fiber-optics",
       "forestry",
@@ -12946,7 +12851,6 @@
       "creative-writing",
       "film-editing",
       "grammar",
-      "journalism",
       "management",
       "marketing",
       "pattern-recognition",
@@ -13340,16 +13244,15 @@
     "title": "What Is Educational History?",
     "category": "history",
     "outgoing": [
-      "algebra",
       "astronomy",
       "athletics",
-      "calculus",
       "debate",
       "education",
       "geometry",
       "government",
       "grammar",
       "logic",
+      "mathematics",
       "mental-health",
       "philosophy",
       "rhetoric",
@@ -13447,7 +13350,6 @@
       "automotive-engineering",
       "biomechanics",
       "ceramics",
-      "chemistry",
       "civil-engineering",
       "classical-mechanics",
       "engineering",
@@ -13516,9 +13418,11 @@
       "mathematics",
       "mechatronics",
       "microwave-engineering",
+      "model-railroading",
       "nuclear-engineering",
       "optical-engineering",
       "photovoltaics",
+      "physical-comedy",
       "process-engineering",
       "robotics"
     ]
@@ -13528,7 +13432,7 @@
     "category": "everyday-concepts",
     "outgoing": [
       "alternative-energy",
-      "digital-art",
+      "electronics",
       "engineering",
       "nuclear-power",
       "wind-power"
@@ -13555,7 +13459,6 @@
       "cryptocurrency",
       "desalination",
       "developmental-biology",
-      "digital-logic",
       "diy-home-improvement",
       "electrochemistry",
       "electrodynamics",
@@ -13595,14 +13498,12 @@
       "metrology",
       "microeconomics",
       "mining-engineering",
-      "model-railroading",
       "modern-history",
       "music-engineering",
       "nanotechnology",
       "naval-architecture",
       "navigation",
       "networking",
-      "neuroanatomy",
       "neurobiology",
       "nineteenth-century-history",
       "nuclear-engineering",
@@ -13612,9 +13513,7 @@
       "optimal-control",
       "organometallic-chemistry",
       "particle-physics",
-      "pathology",
       "photovoltaics",
-      "physical-comedy",
       "physics",
       "plasma-physics",
       "plate-tectonics",
@@ -13640,6 +13539,7 @@
       "spiritualism",
       "steam-engines",
       "steel-production",
+      "subatomic-particles",
       "sudoku",
       "superconductivity",
       "survival-skills",
@@ -13812,6 +13712,7 @@
       "nanotechnology",
       "neuroanatomy",
       "optics",
+      "pathology",
       "protein-chemistry",
       "protozoology",
       "scanning-electron-microscopy",
@@ -13880,9 +13781,11 @@
       "classical-composition",
       "cold-war-history",
       "computer-repair",
+      "digital-logic",
       "digital-signal-processing",
       "diy-electronics",
       "economics",
+      "electricity",
       "electrochemistry",
       "electrodynamics",
       "engine-repair",
@@ -13942,7 +13845,6 @@
       "solid-state-physics",
       "sound-engineering",
       "space-science",
-      "spiritualism",
       "subatomic-particles",
       "supply-chain-management",
       "synthetic-biology",
@@ -14081,13 +13983,13 @@
     "title": "What Is Endocrinology?",
     "category": "health-amp-wellness",
     "outgoing": [
-      "algorithms",
       "anatomy",
       "biology",
       "chemistry",
       "mental-health",
       "physiology",
       "running",
+      "science-fiction",
       "surgery"
     ],
     "incoming": [
@@ -14100,7 +14002,6 @@
     "category": "everyday-concepts",
     "outgoing": [
       "critical-thinking",
-      "eastern-philosophy",
       "marketing",
       "meditation",
       "nursing",
@@ -14138,7 +14039,6 @@
       "aerospace-engineering",
       "anthropology",
       "artificial-intelligence",
-      "calculus",
       "civil-engineering",
       "climate-change",
       "concrete-technology",
@@ -14147,6 +14047,7 @@
       "electricity",
       "engineering",
       "irrigation",
+      "mathematics",
       "pottery",
       "refrigeration",
       "silk-road",
@@ -14358,7 +14259,6 @@
       "machine-learning",
       "magic-illusion",
       "magnetism",
-      "manufacturing-engineering",
       "mapmaking",
       "marine-archeology",
       "marine-engineering",
@@ -14796,7 +14696,6 @@
       "waste-management"
     ],
     "incoming": [
-      "architecture",
       "civil-engineering",
       "engineering",
       "infrastructure-planning",
@@ -14807,6 +14706,7 @@
       "plastics-engineering",
       "post-and-beam-construction",
       "quarrying",
+      "recycling",
       "renewable-energy",
       "reservoir-engineering"
     ]
@@ -14891,7 +14791,6 @@
       "rainforest-ecology",
       "real-estate",
       "refrigeration",
-      "smelting",
       "soil-science",
       "sustainable-development",
       "systems-theory",
@@ -14904,9 +14803,9 @@
     "category": "health-amp-wellness",
     "outgoing": [
       "artificial-intelligence",
-      "biology",
       "chemistry",
       "data-analysis",
+      "genetics",
       "information-systems",
       "logic",
       "machine-learning",
@@ -14992,6 +14891,7 @@
     "incoming": [
       "furniture-design",
       "human-factors",
+      "industrial-design",
       "industrial-engineering",
       "occupational-health",
       "product-design",
@@ -15238,13 +15138,12 @@
     "title": "What Is European History?",
     "category": "history",
     "outgoing": [
-      "aesthetics",
       "agriculture",
       "anthropology",
       "architecture",
-      "capitalism",
       "christianity",
       "drama",
+      "economics",
       "engineering-history",
       "english-history",
       "ethics",
@@ -15253,6 +15152,7 @@
       "invention",
       "mathematics",
       "monarchy",
+      "philosophy",
       "politics",
       "religion",
       "scientific-method",
@@ -15311,6 +15211,7 @@
       "cybernetics",
       "cytology",
       "game-theory",
+      "human-evolution",
       "insect-collecting",
       "malacology",
       "mammalogy",
@@ -15330,6 +15231,7 @@
       "protozoology",
       "rainforest-ecology",
       "scientific-method",
+      "social-darwinism",
       "zoology"
     ]
   },
@@ -15396,7 +15298,7 @@
       "nihilism",
       "philosophy",
       "psychology",
-      "western-art",
+      "western-philosophy",
       "world-war-ii",
       "writing"
     ],
@@ -15455,6 +15357,7 @@
       "quantum-computing",
       "quantum-mechanics",
       "relativity",
+      "scientific-method",
       "spectroscopy",
       "statistics",
       "subatomic-particles",
@@ -15723,7 +15626,6 @@
     "title": "What Is Fashion History?",
     "category": "history",
     "outgoing": [
-      "aesthetics",
       "anthropology",
       "art-history",
       "capitalism",
@@ -15860,7 +15762,6 @@
     "category": "history",
     "outgoing": [
       "archaeology",
-      "capitalism",
       "christianity",
       "farming",
       "government",
@@ -16127,7 +16028,6 @@
       "corporate-finance",
       "credit-management",
       "cryptocurrency",
-      "cryptography",
       "currency-trading",
       "education",
       "government",
@@ -16491,6 +16391,7 @@
     ],
     "incoming": [
       "aquaculture",
+      "fishing",
       "ichthyology",
       "rice-farming",
       "urban-farming"
@@ -16502,6 +16403,7 @@
     "outgoing": [
       "angling",
       "aquaculture",
+      "fish-farming",
       "government",
       "management"
     ],
@@ -16899,6 +16801,7 @@
       "artisan-bread-making",
       "baking",
       "barbecuing",
+      "bread-making",
       "ceramics",
       "cereal-science",
       "food-science"
@@ -16965,6 +16868,7 @@
       "elasticity",
       "fermentation",
       "gastronomy",
+      "gourmet-cooking",
       "molecular-gastronomy",
       "poultry-farming",
       "process-engineering",
@@ -17053,6 +16957,7 @@
       "chinese-history",
       "geopolitics",
       "german-history",
+      "hungarian-history",
       "political-science",
       "presidential-history",
       "thirty-years-war",
@@ -17079,6 +16984,7 @@
     "incoming": [
       "anthropology",
       "biological-anthropology",
+      "medical-jurisprudence",
       "physical-anthropology"
     ]
   },
@@ -17158,7 +17064,6 @@
       "laser-technology",
       "limnology",
       "lumberjacking",
-      "medical-jurisprudence",
       "nursery-management",
       "oleochemistry",
       "paintball",
@@ -17273,7 +17178,6 @@
       "biology",
       "cellular-automata",
       "chaos-theory",
-      "complexity-theory",
       "computer-graphics",
       "data-analysis",
       "data-science",
@@ -17403,7 +17307,6 @@
     "title": "What Is the French Language?",
     "category": "philosophy",
     "outgoing": [
-      "aesthetics",
       "communication-theory",
       "computational-linguistics",
       "diplomacy",
@@ -17664,7 +17567,8 @@
       "game-development",
       "mahjong",
       "video-game-design",
-      "video-game-history"
+      "video-game-history",
+      "warhammer"
     ]
   },
   "game-development": {
@@ -17735,6 +17639,7 @@
       "backgammon",
       "cybernetics",
       "economic-theory",
+      "economics",
       "handball",
       "microeconomics",
       "military-strategy",
@@ -17904,6 +17809,7 @@
       "celtic-mythology",
       "coat-of-arms",
       "forensic-science",
+      "heraldry",
       "maori-culture",
       "polynesian-culture"
     ]
@@ -17944,10 +17850,12 @@
       "mathematical-modeling",
       "mathematical-physics",
       "mathematics",
+      "particle-physics",
       "physics",
       "quantum-field-theory",
       "quantum-physics",
       "radio-astronomy",
+      "real-analysis",
       "relativity",
       "scientific-method",
       "string-theory",
@@ -17959,6 +17867,19 @@
       "theoretical-physics",
       "topology",
       "vector-calculus"
+    ]
+  },
+  "generative-ai": {
+    "title": "What Is Generative AI?",
+    "category": "technology",
+    "outgoing": [
+      "artificial-intelligence",
+      "deep-learning",
+      "large-language-model",
+      "machine-learning"
+    ],
+    "incoming": [
+      "large-language-model"
     ]
   },
   "genetics": {
@@ -18006,6 +17927,7 @@
       "developmental-psychology",
       "diabetes-management",
       "entomology",
+      "epidemiology",
       "evolutionary-biology",
       "evolutionary-psychology",
       "exercise-physiology",
@@ -18034,7 +17956,6 @@
       "paleobiology",
       "paleobotany",
       "parenting",
-      "particle-physics",
       "periodontology",
       "personality-psychology",
       "pharmaceutical-chemistry",
@@ -18051,12 +17972,12 @@
       "protozoology",
       "psychiatry",
       "psychology",
-      "real-analysis",
       "religion",
       "sheep-farming",
       "sports-science",
       "structural-biology",
       "synthetic-biology",
+      "teratology",
       "the-history-of-biology",
       "the-history-of-science",
       "veterinary-medicine",
@@ -18347,6 +18268,7 @@
       "soil-science",
       "space-science",
       "speleology",
+      "stereoscopy",
       "stream-ecology",
       "tectonics",
       "the-history-of-biology",
@@ -18420,7 +18342,7 @@
       "algebra",
       "algorithms",
       "applied-mathematics",
-      "building-automation",
+      "architecture",
       "calculus",
       "civil-engineering",
       "computer-graphics",
@@ -18557,10 +18479,8 @@
       "chemistry",
       "climate-change",
       "climatology",
-      "conservation-biology",
       "construction",
       "data-science",
-      "desalination",
       "ecology",
       "engineering",
       "geochemistry",
@@ -18576,7 +18496,8 @@
       "real-estate",
       "soil-science",
       "springs",
-      "urban-planning"
+      "urban-planning",
+      "water-management"
     ],
     "incoming": [
       "geography",
@@ -18652,9 +18573,7 @@
     "category": "history",
     "outgoing": [
       "capitalism",
-      "cartography",
       "chemistry",
-      "classical-mechanics",
       "debate",
       "economics",
       "education",
@@ -18664,6 +18583,7 @@
       "government",
       "leadership",
       "philosophy",
+      "physics",
       "thirty-years-war",
       "world-war-i",
       "world-war-ii"
@@ -18674,7 +18594,6 @@
     "title": "What Is the German Language?",
     "category": "philosophy",
     "outgoing": [
-      "aesthetics",
       "architecture",
       "chemistry",
       "debate",
@@ -18758,7 +18677,6 @@
     "title": "What Is Global Economics?",
     "category": "finance",
     "outgoing": [
-      "alternative-energy",
       "architecture",
       "climate-change",
       "cloud-computing",
@@ -18773,6 +18691,7 @@
       "international-trade",
       "monetary-policy",
       "productivity",
+      "renewable-energy",
       "silk-road",
       "statistics",
       "sustainable-development",
@@ -18901,6 +18820,7 @@
     "outgoing": [
       "cooking",
       "culinary-arts",
+      "food-science",
       "management"
     ],
     "incoming": [
@@ -18922,12 +18842,12 @@
       "education",
       "irrigation",
       "lobbying",
+      "philosophy",
       "political-science",
       "politics",
       "prehistory",
       "public-policy",
       "silk-road",
-      "stoicism",
       "trade"
     ],
     "incoming": [
@@ -19390,7 +19310,7 @@
     "outgoing": [
       "astrology",
       "behavioral-economics",
-      "cycling",
+      "clinical-psychology",
       "handwriting-analysis",
       "writing"
     ],
@@ -19491,7 +19411,7 @@
     "category": "technology",
     "outgoing": [
       "agriculture",
-      "climatology",
+      "climate-change",
       "construction",
       "data-science",
       "economics",
@@ -19538,7 +19458,6 @@
       "abstract-algebra",
       "algebra",
       "chemistry",
-      "classical-mechanics",
       "computer-graphics",
       "computer-science",
       "cryptography",
@@ -19960,7 +19879,10 @@
       "information-security",
       "insurance",
       "medical-billing",
+      "medical-ethics",
       "personal-finance",
+      "public-policy",
+      "reflexology",
       "senior-care"
     ]
   },
@@ -19982,10 +19904,7 @@
     "incoming": [
       "family-law",
       "lipidology",
-      "macrobiotics",
-      "medical-ethics",
-      "public-policy",
-      "reflexology"
+      "macrobiotics"
     ]
   },
   "health-science": {
@@ -20021,7 +19940,6 @@
     ],
     "incoming": [
       "american-football",
-      "parasitology",
       "pharmacy",
       "public-health",
       "superfoods",
@@ -20086,9 +20004,9 @@
     "title": "What Is Heraldry?",
     "category": "history",
     "outgoing": [
-      "anthropology",
       "business-administration",
       "coat-of-arms",
+      "genealogy",
       "juggling",
       "painting",
       "translation",
@@ -20756,6 +20674,7 @@
     ],
     "incoming": [
       "anatomy",
+      "calisthenics",
       "dietetics",
       "renaissance-art",
       "the-history-of-biology",
@@ -20799,6 +20718,7 @@
     "outgoing": [
       "cooking",
       "engineering",
+      "evolutionary-biology",
       "genetics",
       "paleoanthropology",
       "physiology",
@@ -20934,6 +20854,7 @@
       "biological-anthropology",
       "calisthenics",
       "chiropractic",
+      "diving",
       "gravitational-biology",
       "herbal-medicine",
       "lighting-design",
@@ -20994,7 +20915,6 @@
       "artificial-intelligence",
       "christianity",
       "climate-change",
-      "cognitive-bias",
       "comedy",
       "comparative-religion",
       "critical-thinking",
@@ -21019,11 +20939,9 @@
       "translation"
     ],
     "incoming": [
-      "diving",
       "existentialism",
       "hygiene",
       "ideologies",
-      "pharmacology",
       "renaissance-art",
       "renaissance-history"
     ]
@@ -21035,11 +20953,11 @@
       "agriculture",
       "christianity",
       "european-history",
+      "foreign-policy",
       "government",
       "leadership",
       "monarchy",
       "opera",
-      "politics",
       "romance-languages",
       "world-war-i",
       "world-war-ii"
@@ -21290,7 +21208,6 @@
     "title": "What Is Hygiene?",
     "category": "health-amp-wellness",
     "outgoing": [
-      "anatomy",
       "biology",
       "chemistry",
       "construction",
@@ -21521,6 +21438,7 @@
       "comic-book-art",
       "desktop-publishing",
       "digital-art",
+      "drawing",
       "human-anatomy",
       "jigsaw-puzzles",
       "mathematical-modeling",
@@ -21529,7 +21447,6 @@
       "perspective-drawing",
       "pollination",
       "printmaking",
-      "public-relations",
       "scientific-illustration",
       "social-psychology",
       "speech-writing",
@@ -21712,6 +21629,7 @@
       "engineering",
       "entrepreneurship",
       "environmental-science",
+      "ergonomics",
       "geometry",
       "human-computer-interaction",
       "human-factors",
@@ -21725,6 +21643,7 @@
     ],
     "incoming": [
       "acoustics",
+      "automotive-design",
       "hydrodynamics",
       "perspective-drawing",
       "product-design",
@@ -21754,6 +21673,7 @@
     "incoming": [
       "boat-building",
       "engineering",
+      "manufacturing-engineering",
       "operations-research"
     ]
   },
@@ -21975,6 +21895,7 @@
       "social-psychology",
       "surveying",
       "systems-analysis",
+      "thesaurus-construction",
       "topography"
     ]
   },
@@ -21998,6 +21919,7 @@
       "mathematical-biology",
       "neuroscience",
       "physics",
+      "quantum-field-theory",
       "statistical-mechanics",
       "string-theory",
       "systems-theory",
@@ -22348,6 +22270,18 @@
     ],
     "incoming": []
   },
+  "interest-rate": {
+    "title": "What Is an Interest Rate?",
+    "category": "finance",
+    "outgoing": [
+      "compound-interest",
+      "savings"
+    ],
+    "incoming": [
+      "compound-interest",
+      "savings"
+    ]
+  },
   "interior-design": {
     "title": "What Is Interior Design?",
     "category": "arts-amp-culture",
@@ -22365,8 +22299,7 @@
       "desktop-publishing",
       "home-economics",
       "neoclassicism",
-      "set-design",
-      "shipwreck-archeology"
+      "set-design"
     ]
   },
   "international-business": {
@@ -22456,7 +22389,6 @@
       "maritime-law",
       "refugee-law",
       "roman-law",
-      "terrorism-studies",
       "thirty-years-war"
     ]
   },
@@ -22485,6 +22417,7 @@
       "political-science",
       "postcolonial-studies",
       "social-network-analysis",
+      "terrorism-studies",
       "the-history-of-political-science",
       "thirty-years-war",
       "united-nations-history"
@@ -22536,6 +22469,7 @@
       "ocean-engineering",
       "plant-pathology",
       "rice-farming",
+      "shipwreck-archeology",
       "twentieth-century-history",
       "wildlife-conservation"
     ]
@@ -22714,7 +22648,6 @@
       "microwave-engineering",
       "modern-history",
       "nanotechnology",
-      "optimization",
       "paper-making",
       "patent-law",
       "porcelain-making",
@@ -22777,6 +22710,7 @@
       "logistics",
       "nursery-management",
       "operations-management",
+      "optimization",
       "restaurant-management",
       "retail-management",
       "shop-management",
@@ -22841,6 +22775,7 @@
       "venture-capital"
     ],
     "incoming": [
+      "compound-interest",
       "finance",
       "financial-planning",
       "mathematical-finance",
@@ -22867,13 +22802,13 @@
     "title": "What Is Iranian History?",
     "category": "history",
     "outgoing": [
-      "algebra",
       "architecture",
       "christianity",
       "education",
       "islam",
       "jewish-history",
       "literature",
+      "mathematics",
       "miniature-painting",
       "philosophy",
       "poetry",
@@ -23027,6 +22962,7 @@
       "jurisprudence",
       "leadership",
       "literature",
+      "mathematics",
       "optics",
       "philosophy",
       "poetry",
@@ -23046,7 +22982,6 @@
       "architecture",
       "chemistry",
       "christianity",
-      "classical-mechanics",
       "cosmology",
       "diplomacy",
       "engineering",
@@ -23056,6 +22991,7 @@
       "monarchy",
       "opera",
       "philosophy",
+      "physics",
       "politics",
       "prehistory",
       "religion",
@@ -23088,7 +23024,6 @@
     "category": "history",
     "outgoing": [
       "architecture",
-      "christianity",
       "drama",
       "english-history",
       "english-language",
@@ -23309,7 +23244,6 @@
       "arabic-language",
       "creative-writing",
       "data-visualization",
-      "editing",
       "food-writing",
       "illustration",
       "intelligence-analysis",
@@ -23401,7 +23335,6 @@
       "philosophy",
       "pragmatism",
       "religion",
-      "stoicism",
       "tort-law",
       "world-war-ii",
       "wrestling",
@@ -23552,7 +23485,6 @@
     "category": "law",
     "outgoing": [
       "aviation",
-      "business-law",
       "climate-change",
       "construction",
       "economics",
@@ -23655,6 +23587,20 @@
       "sales"
     ],
     "incoming": []
+  },
+  "large-language-model": {
+    "title": "What Is a Large Language Model?",
+    "category": "technology",
+    "outgoing": [
+      "artificial-intelligence",
+      "deep-learning",
+      "generative-ai",
+      "machine-learning",
+      "neural-networks"
+    ],
+    "incoming": [
+      "generative-ai"
+    ]
   },
   "laser-technology": {
     "title": "What Is Laser Technology?",
@@ -24263,7 +24209,6 @@
       "architecture",
       "artificial-intelligence",
       "calculus",
-      "classical-mechanics",
       "computer-graphics",
       "computer-science",
       "cryptography",
@@ -24282,6 +24227,7 @@
       "mathematics",
       "natural-language-processing",
       "optimization",
+      "physics",
       "quantum-mechanics",
       "quantum-physics",
       "signal-processing",
@@ -24300,6 +24246,7 @@
       "integer-programming",
       "mathematical-biology",
       "mechanical-engineering",
+      "neural-networks",
       "numerical-analysis",
       "operations-research",
       "python-programming",
@@ -24407,7 +24354,6 @@
       "sign-language",
       "speech-pathology",
       "swahili-language",
-      "symbology",
       "syntax",
       "taxonomy",
       "thai-language",
@@ -25118,9 +25064,7 @@
       "app-development",
       "applied-mathematics",
       "artificial-intelligence",
-      "automotive-engineering",
       "bayesian-statistics",
-      "bioengineering",
       "biotechnology",
       "building-automation",
       "business-strategy",
@@ -25160,6 +25104,7 @@
       "fiber-optics",
       "financial-accounting",
       "flight-simulation",
+      "generative-ai",
       "geographic-information-systems-gis",
       "geomatics",
       "graph-theory",
@@ -25183,6 +25128,7 @@
       "invention",
       "inventory-management",
       "investment-management",
+      "large-language-model",
       "linear-algebra",
       "manufacturing-engineering",
       "mapmaking",
@@ -25333,7 +25279,6 @@
     "title": "What Is Magnetism?",
     "category": "science",
     "outgoing": [
-      "classical-mechanics",
       "cooking",
       "electrical-engineering",
       "electricity",
@@ -25751,7 +25696,6 @@
       "radio-astronomy",
       "rainforest-ecology",
       "real-estate-investing",
-      "recycling",
       "renewable-energy",
       "reservoir-engineering",
       "resource-management",
@@ -25839,6 +25783,7 @@
       "wildlife-management",
       "wine-making",
       "word-processing",
+      "workplace-safety",
       "wrestling",
       "youtube-content-creation"
     ]
@@ -25911,13 +25856,13 @@
       "economics",
       "education",
       "electronics",
-      "engineering",
       "environmental-engineering",
       "environmental-science",
       "finance",
       "fluid-dynamics",
       "forging",
       "heat-transfer",
+      "industrial-engineering",
       "lean-manufacturing",
       "logistics",
       "machine-learning",
@@ -26141,7 +26086,6 @@
       "walking"
     ],
     "incoming": [
-      "planktonology",
       "puppetry"
     ]
   },
@@ -26182,7 +26126,6 @@
     ],
     "incoming": [
       "maritime-history",
-      "minimalism",
       "satellite-communication"
     ]
   },
@@ -26555,6 +26498,7 @@
       "semiconductor-physics",
       "shipbuilding",
       "smelting",
+      "soldering",
       "springs",
       "textile-science",
       "the-history-of-chemistry",
@@ -26794,6 +26738,7 @@
       "ancient-greek-history",
       "arabic-language",
       "argumentation",
+      "asian-history",
       "astrology",
       "automata-theory",
       "babylonian-mythology",
@@ -26820,6 +26765,8 @@
       "earth-science",
       "econometrics",
       "education",
+      "educational-history",
+      "engineering-history",
       "ethics",
       "european-history",
       "fluid-dynamics",
@@ -26837,6 +26784,8 @@
       "hydrodynamics",
       "iberian-history",
       "integer-programming",
+      "iranian-history",
+      "islamic-history",
       "knex",
       "latin-american-history",
       "library-science",
@@ -26968,12 +26917,12 @@
       "mathematics",
       "mechatronics",
       "medical-imaging",
-      "metalworking",
       "metrology",
       "nuclear-power",
       "product-design",
       "prosthetics",
-      "thermodynamics"
+      "thermodynamics",
+      "welding"
     ],
     "incoming": [
       "automotive-engineering",
@@ -26987,6 +26936,7 @@
       "metalworking",
       "metrology",
       "mining-engineering",
+      "nuclear-engineering",
       "petroleum-engineering",
       "process-engineering",
       "robotics",
@@ -27044,7 +26994,7 @@
       "literature",
       "politics",
       "publishing",
-      "radiology",
+      "radio-broadcasting",
       "translation",
       "writing"
     ],
@@ -27143,7 +27093,7 @@
       "editing",
       "education",
       "ethics",
-      "health-law",
+      "health-insurance",
       "insurance",
       "public-health",
       "surgery"
@@ -27262,8 +27212,8 @@
       "artificial-intelligence",
       "ethics",
       "fitness",
+      "forensic-anthropology",
       "forensic-science",
-      "forestry",
       "jurisprudence",
       "medical-ethics",
       "psychiatry",
@@ -27504,6 +27454,7 @@
       "developmental-psychology",
       "diabetes-management",
       "dietetics",
+      "drumming",
       "educational-history",
       "endocrinology",
       "entrepreneurship",
@@ -27671,7 +27622,6 @@
     "title": "What Is Metalworking?",
     "category": "technology",
     "outgoing": [
-      "aerodynamics",
       "aerospace-engineering",
       "blacksmithing",
       "casting-metal",
@@ -27700,7 +27650,6 @@
       "coppersmithing",
       "forging",
       "japanese-history",
-      "mechanical-engineering",
       "oleochemistry",
       "pneumatics",
       "prop-making",
@@ -27776,10 +27725,10 @@
     "title": "What Is Metrology?",
     "category": "science",
     "outgoing": [
-      "aerodynamics",
+      "aerospace-engineering",
       "astronomy",
-      "classical-mechanics",
       "construction",
+      "control-theory",
       "electricity",
       "international-trade",
       "management",
@@ -28087,8 +28036,7 @@
       "trade"
     ],
     "incoming": [
-      "haute-couture",
-      "neural-networks"
+      "haute-couture"
     ]
   },
   "mime": {
@@ -28099,7 +28047,6 @@
       "dance",
       "drama",
       "physical-comedy",
-      "physics",
       "puppetry",
       "storytelling",
       "visual-effects",
@@ -28166,6 +28113,7 @@
     ],
     "incoming": [
       "iranian-history",
+      "persian-history",
       "warhammer"
     ]
   },
@@ -28176,11 +28124,11 @@
       "architecture",
       "climate-change",
       "graphic-design",
-      "maritime-law",
       "personal-growth",
       "philosophy",
       "product-design",
-      "sculpture"
+      "sculpture",
+      "time-management"
     ],
     "incoming": [
       "art-history",
@@ -28191,7 +28139,6 @@
       "music-history",
       "opera",
       "painting",
-      "persian-history",
       "quarrying",
       "sculpture",
       "western-art",
@@ -28287,7 +28234,7 @@
     "category": "everyday-concepts",
     "outgoing": [
       "carpentry",
-      "electricity",
+      "electrical-engineering",
       "engineering",
       "model-building",
       "running"
@@ -28420,6 +28367,7 @@
     ],
     "incoming": [
       "biology",
+      "biophysics",
       "biotechnology",
       "botany",
       "comparative-anatomy",
@@ -28434,7 +28382,6 @@
       "myology",
       "natural-history",
       "paleozoology",
-      "pastry-arts",
       "pharmaceutical-chemistry",
       "plant-biology",
       "proteomics",
@@ -28459,6 +28406,7 @@
     ],
     "incoming": [
       "gastronomy",
+      "pastry-arts",
       "soap-making"
     ]
   },
@@ -28785,10 +28733,10 @@
       "algorithms",
       "editing",
       "logic",
+      "music-education",
       "opera",
       "orchestration",
       "piano",
-      "pop-music",
       "songwriting",
       "sound-design",
       "teaching",
@@ -28817,7 +28765,9 @@
       "singing",
       "teaching"
     ],
-    "incoming": []
+    "incoming": [
+      "music-composition"
+    ]
   },
   "music-engineering": {
     "title": "What Is Music Engineering?",
@@ -29002,7 +28952,6 @@
     "category": "science",
     "outgoing": [
       "agriculture",
-      "algorithms",
       "animal-behavior",
       "architecture",
       "biogeography",
@@ -29222,6 +29171,7 @@
     "outgoing": [
       "architecture",
       "construction",
+      "structural-engineering",
       "zero-waste-living"
     ],
     "incoming": [
@@ -29456,7 +29406,9 @@
     "incoming": [
       "boat-building",
       "hydrodynamics",
-      "marine-engineering"
+      "marine-engineering",
+      "ocean-engineering",
+      "shipbuilding"
     ]
   },
   "naval-history": {
@@ -29471,10 +29423,7 @@
       "world-war-i",
       "world-war-ii"
     ],
-    "incoming": [
-      "ocean-engineering",
-      "shipbuilding"
-    ]
+    "incoming": []
   },
   "navigation": {
     "title": "What Is Navigation?",
@@ -29644,7 +29593,7 @@
       "logic",
       "mythology",
       "painting",
-      "politics",
+      "political-philosophy",
       "roman-history",
       "sculpture"
     ],
@@ -29698,8 +29647,7 @@
     "outgoing": [
       "architecture",
       "cloud-computing",
-      "cryptography",
-      "digital-forensics",
+      "cybersecurity",
       "diving",
       "intrusion-detection",
       "machine-learning",
@@ -29813,8 +29761,8 @@
       "architecture",
       "calculus",
       "deep-learning",
+      "linear-algebra",
       "medical-imaging",
-      "millinery",
       "pattern-recognition",
       "translation",
       "writing"
@@ -29853,6 +29801,7 @@
       "integer-programming",
       "internet-history",
       "intrusion-detection",
+      "large-language-model",
       "machine-learning",
       "mathematical-biology",
       "mathematical-modeling",
@@ -29885,7 +29834,6 @@
       "anatomy",
       "cognitive-neuroscience",
       "cognitive-psychology",
-      "electricity",
       "electron-microscopy",
       "microscopy",
       "neurobiology",
@@ -29934,8 +29882,8 @@
     "title": "What Is Neurochemistry?",
     "category": "science",
     "outgoing": [
-      "chemistry",
-      "cognitive-bias",
+      "biochemistry",
+      "cognitive-neuroscience",
       "mental-health",
       "neurobiology",
       "neuropharmacology",
@@ -29980,8 +29928,8 @@
     "category": "science",
     "outgoing": [
       "artificial-intelligence",
-      "cognitive-bias",
-      "composting",
+      "cognitive-psychology",
+      "computational-linguistics",
       "geography",
       "grammar",
       "language-acquisition",
@@ -30270,7 +30218,7 @@
       "government",
       "law",
       "real-estate",
-      "statistics"
+      "state-government"
     ],
     "incoming": []
   },
@@ -30311,6 +30259,7 @@
       "experimental-physics",
       "human-factors",
       "materials-science",
+      "mechanical-engineering",
       "nuclear-power",
       "philosophy",
       "physics",
@@ -30350,7 +30299,6 @@
       "climate-change",
       "construction",
       "debate",
-      "ecology",
       "economics",
       "electricity",
       "engineering",
@@ -30557,6 +30505,7 @@
       "cheese-making",
       "coastal-geography",
       "developmental-psychology",
+      "diabetes-management",
       "dietetics",
       "ethics",
       "exercise-physiology",
@@ -30738,7 +30687,7 @@
       "fishing",
       "government",
       "international-trade",
-      "naval-history",
+      "naval-architecture",
       "renewable-energy",
       "robotics",
       "trade",
@@ -30814,6 +30763,7 @@
       "fresco-painting",
       "japanese-art",
       "painting",
+      "plastering",
       "renaissance-art",
       "visual-arts",
       "western-art"
@@ -30845,7 +30795,6 @@
     "title": "What Is Oleochemistry?",
     "category": "science",
     "outgoing": [
-      "alchemy",
       "biochemistry",
       "biotechnology",
       "chemistry",
@@ -31092,8 +31041,7 @@
     "incoming": [
       "microscopy",
       "optics",
-      "quantum-cryptography",
-      "quantum-optics"
+      "quantum-cryptography"
     ]
   },
   "optics": {
@@ -31196,7 +31144,7 @@
       "engineering",
       "finance",
       "integer-programming",
-      "invention",
+      "inventory-management",
       "linear-programming",
       "logistics",
       "machine-learning",
@@ -31397,7 +31345,8 @@
       "symphony-composition",
       "systems-administration",
       "trombone",
-      "tuba"
+      "tuba",
+      "web-hosting"
     ]
   },
   "orchid-growing": {
@@ -31440,6 +31389,7 @@
       "inorganic-chemistry",
       "medicinal-chemistry",
       "organometallic-chemistry",
+      "pharmaceutical-chemistry",
       "physical-chemistry",
       "planetary-science",
       "podiatry",
@@ -31553,6 +31503,7 @@
       "squash"
     ],
     "incoming": [
+      "card-making",
       "nanotechnology"
     ]
   },
@@ -31649,7 +31600,7 @@
       "hunting",
       "microscopy",
       "paleoanthropology",
-      "physics",
+      "physical-anthropology",
       "running",
       "scaffolding",
       "statistics",
@@ -31901,7 +31852,7 @@
       "genetics",
       "geology",
       "human-evolution",
-      "physics",
+      "physical-anthropology",
       "physiology"
     ],
     "incoming": [
@@ -31920,6 +31871,7 @@
       "astronomy",
       "biology",
       "chemistry",
+      "climate-change",
       "climatology",
       "conservation-biology",
       "data-analysis",
@@ -31951,6 +31903,7 @@
       "agriculture",
       "anatomy",
       "botany",
+      "climate-change",
       "climatology",
       "dinosaurs",
       "ecology",
@@ -32105,7 +32058,8 @@
       "paleontology",
       "pathology",
       "running",
-      "swimming"
+      "swimming",
+      "zoology"
     ],
     "incoming": [
       "paleobiology",
@@ -32117,7 +32071,7 @@
     "category": "everyday-concepts",
     "outgoing": [
       "buddhism",
-      "composting",
+      "comparative-religion",
       "ethics",
       "grammar",
       "linguistics",
@@ -32248,7 +32202,6 @@
       "entomology",
       "evolutionary-biology",
       "gliding",
-      "health-science",
       "management",
       "microbiology",
       "microscopy",
@@ -32317,7 +32270,7 @@
       "chemistry",
       "electricity",
       "electromagnetism",
-      "genetics",
+      "general-relativity",
       "magnetism",
       "materials-science",
       "medical-imaging",
@@ -32354,7 +32307,7 @@
     "outgoing": [
       "chemistry",
       "cooking",
-      "molecular-biology",
+      "molecular-gastronomy",
       "opera",
       "running"
     ],
@@ -32396,7 +32349,7 @@
       "artificial-intelligence",
       "chemistry",
       "dermatology",
-      "electricity",
+      "electron-microscopy",
       "machine-learning",
       "microbiology",
       "pattern-recognition",
@@ -32439,8 +32392,8 @@
       "astronomy",
       "climatology",
       "cognitive-psychology",
-      "computer-graphics",
       "computer-science",
+      "computer-vision",
       "data-analysis",
       "data-mining",
       "data-visualization",
@@ -32649,7 +32602,6 @@
       "publishing",
       "recycling",
       "soil-science",
-      "water-law",
       "water-management"
     ],
     "incoming": []
@@ -32662,7 +32614,7 @@
       "christianity",
       "islam",
       "literature",
-      "minimalism",
+      "miniature-painting",
       "philosophy",
       "poetry",
       "religion",
@@ -32849,6 +32801,7 @@
     "outgoing": [
       "biology",
       "chemistry",
+      "construction",
       "cycling",
       "earth-science",
       "engineering",
@@ -32885,6 +32838,7 @@
       "molecular-biology",
       "nanotechnology",
       "optimization",
+      "organic-chemistry",
       "pharmacology",
       "robotics",
       "spectroscopy",
@@ -32904,12 +32858,12 @@
       "cell-biology",
       "economics",
       "genetics",
-      "humanism",
       "mathematical-modeling",
       "neurobiology",
       "neuropharmacology",
       "neuroscience",
       "pharmaceutical-chemistry",
+      "physiology",
       "toxicology",
       "trade"
     ],
@@ -33007,8 +32961,7 @@
       "trade"
     ],
     "incoming": [
-      "stamp-collecting",
-      "transcendentalism"
+      "stamp-collecting"
     ]
   },
   "philology": {
@@ -33016,7 +32969,7 @@
     "category": "history",
     "outgoing": [
       "comparative-literature",
-      "composting",
+      "comparative-mythology",
       "editing",
       "grammar",
       "historical-linguistics",
@@ -33202,6 +33155,7 @@
       "educational-history",
       "epistemology",
       "ethics",
+      "european-history",
       "existentialism",
       "exoplanetology",
       "experimental-psychology",
@@ -33213,6 +33167,7 @@
       "furniture-design",
       "german-history",
       "german-language",
+      "government",
       "greek-language",
       "hinduism",
       "historical-slavery",
@@ -33296,6 +33251,7 @@
       "rapping",
       "religion",
       "renaissance-art",
+      "roman-law",
       "romanticism-art",
       "sanskrit",
       "scholasticism",
@@ -33314,6 +33270,7 @@
       "socialism",
       "software-engineering",
       "sound-engineering",
+      "spiritualism",
       "sports-coaching",
       "stichomancy",
       "stoicism",
@@ -33333,9 +33290,11 @@
       "the-history-of-religion",
       "theology",
       "trade",
+      "transcendentalism",
       "translation",
       "tunneling",
       "urban-planning",
+      "utilitarianism",
       "virtue-ethics",
       "visual-basic",
       "visual-merchandising",
@@ -33482,7 +33441,9 @@
       "walking"
     ],
     "incoming": [
-      "biological-anthropology"
+      "biological-anthropology",
+      "osteology",
+      "paleoanthropology"
     ]
   },
   "physical-chemistry": {
@@ -33517,7 +33478,7 @@
       "animation",
       "comedy",
       "dance",
-      "electricity",
+      "electrical-engineering",
       "martial-arts",
       "mime",
       "opera",
@@ -33530,6 +33491,7 @@
       "film-history",
       "mime",
       "pantomime",
+      "shakespearean-literature",
       "vaudeville"
     ]
   },
@@ -33555,6 +33517,7 @@
       "volleyball"
     ],
     "incoming": [
+      "basketball",
       "calisthenics",
       "education",
       "judo"
@@ -33680,16 +33643,17 @@
       "amateur-radio",
       "ancient-greek-history",
       "animation",
+      "applied-mathematics",
       "archery",
       "astrology",
       "astronomy",
       "astrophysics",
       "audio-engineering",
       "automata-theory",
+      "automotive-engineering",
       "aviation",
       "aviation-history",
       "baseball",
-      "basketball",
       "bass-guitar",
       "billiards",
       "biomechanics",
@@ -33745,6 +33709,7 @@
       "geomagnetism",
       "geomorphology",
       "geophysics",
+      "german-history",
       "german-language",
       "gold-panning",
       "golf",
@@ -33763,10 +33728,12 @@
       "inorganic-chemistry",
       "instrument-making",
       "intellectual-history",
+      "italian-history",
       "kites",
       "laser-technology",
       "lens-grinding",
       "limnology",
+      "linear-algebra",
       "magic-illusion",
       "magnetism",
       "manufacturing-engineering",
@@ -33779,7 +33746,6 @@
       "metaphysics",
       "meteorology",
       "microwave-engineering",
-      "mime",
       "model-rockets",
       "molecular-gastronomy",
       "music-engineering",
@@ -33793,9 +33759,7 @@
       "optics",
       "optometry",
       "ornithology",
-      "osteology",
       "osteopathy",
-      "paleoanthropology",
       "paleontology",
       "parallel-computing",
       "particle-physics",
@@ -33843,7 +33807,7 @@
       "scuba-diving",
       "sedimentology",
       "seismology",
-      "shakespearean-literature",
+      "semiconductor-physics",
       "sheet-metal-work",
       "skateboarding",
       "skiing",
@@ -33873,6 +33837,7 @@
       "stonemasonry",
       "string-theory",
       "structural-engineering",
+      "subatomic-particles",
       "superconductivity",
       "telepathy-research",
       "telescope-making",
@@ -33979,6 +33944,7 @@
       "osteopathy",
       "paleoanthropology",
       "paramedicine",
+      "pharmacology",
       "pharmacy",
       "physical-anthropology",
       "physical-therapy",
@@ -34027,6 +33993,7 @@
       "classical-music",
       "developmental-biology",
       "digital-signal-processing",
+      "drumming",
       "electronic-music",
       "flute",
       "guerrilla-marketing",
@@ -34180,7 +34147,6 @@
       "environmental-science",
       "fishing",
       "marine-biology",
-      "marionettes",
       "microscopy",
       "oceanography",
       "phycology",
@@ -34218,6 +34184,7 @@
       "writing"
     ],
     "incoming": [
+      "agronomy",
       "botany",
       "environmental-engineering",
       "horticulture",
@@ -34258,7 +34225,8 @@
       "ethnobotany",
       "horticulture",
       "pre-columbian-history",
-      "proteomics"
+      "proteomics",
+      "tropical-agriculture"
     ]
   },
   "plant-pathology": {
@@ -34299,7 +34267,6 @@
       "agriculture",
       "alternative-energy",
       "astrophysics",
-      "classical-mechanics",
       "construction",
       "cosmology",
       "electricity",
@@ -34321,7 +34288,7 @@
     "outgoing": [
       "construction",
       "natural-building",
-      "soil-science",
+      "oil-painting",
       "stucco",
       "trade"
     ],
@@ -34660,7 +34627,6 @@
     "category": "philosophy",
     "outgoing": [
       "algorithms",
-      "anthropology",
       "basketball",
       "debate",
       "education",
@@ -34673,6 +34639,7 @@
       "philosophy",
       "religion",
       "social-democracy",
+      "sociology",
       "writing"
     ],
     "incoming": [
@@ -34683,11 +34650,13 @@
       "human-rights-law",
       "iberian-history",
       "liberalism",
+      "neoclassicism",
       "philosophy-of-education",
       "political-science",
       "pragmatism",
       "social-contract-theory",
       "taoism",
+      "the-history-of-philosophy",
       "the-history-of-political-science",
       "western-philosophy"
     ]
@@ -34789,7 +34758,6 @@
       "historical-zionism",
       "human-anatomy",
       "human-geography",
-      "hungarian-history",
       "ideologies",
       "indonesian-history",
       "international-development",
@@ -34816,7 +34784,6 @@
       "monarchy",
       "mural-painting",
       "napoleonic-wars",
-      "neoclassicism",
       "north-american-history",
       "nuclear-power",
       "old-testament-studies",
@@ -34995,7 +34962,6 @@
     "incoming": [
       "choral-music",
       "jazz-music",
-      "music-composition",
       "salsa-dancing",
       "symphony-composition",
       "trumpet",
@@ -35149,7 +35115,6 @@
     "category": "technology",
     "outgoing": [
       "architecture",
-      "civil-engineering",
       "construction",
       "drama",
       "engineering",
@@ -35357,7 +35322,7 @@
       "plant-breeding",
       "religion",
       "running",
-      "water-law",
+      "water-management",
       "writing"
     ],
     "incoming": []
@@ -35469,7 +35434,7 @@
     "title": "What Is Press Release Writing?",
     "category": "everyday-concepts",
     "outgoing": [
-      "digital-art",
+      "digital-marketing",
       "government",
       "journalism",
       "optimization",
@@ -36370,7 +36335,6 @@
       "animal-behavior",
       "anthropology",
       "app-development",
-      "aromatherapy",
       "astrology",
       "athletics",
       "automotive-design",
@@ -36405,7 +36369,6 @@
       "cybersecurity",
       "developmental-psychology",
       "dream-analysis",
-      "drumming",
       "eastern-philosophy",
       "economic-theory",
       "educational-psychology",
@@ -36713,7 +36676,7 @@
     "outgoing": [
       "education",
       "government",
-      "health-law",
+      "health-insurance",
       "negotiation",
       "politics",
       "trade",
@@ -36738,10 +36701,10 @@
     "outgoing": [
       "ethics",
       "government",
-      "illustration",
       "leadership",
       "lobbying",
       "management",
+      "strategic-management",
       "world-war-ii"
     ],
     "incoming": [
@@ -37175,8 +37138,7 @@
       "superconductivity",
       "the-physics-of-time-travel",
       "theoretical-computer-science",
-      "topology",
-      "vector-calculus"
+      "topology"
     ]
   },
   "quantum-cryptography": {
@@ -37251,10 +37213,11 @@
     "outgoing": [
       "applied-mathematics",
       "astrophysics",
-      "computer-science",
+      "cosmology",
       "experimental-physics",
       "general-relativity",
       "geometry",
+      "information-theory",
       "mathematical-physics",
       "mathematics",
       "particle-physics",
@@ -37274,7 +37237,6 @@
       "mathematical-physics",
       "quantum-electrodynamics",
       "quantum-physics",
-      "string-theory",
       "the-history-of-physics",
       "the-physics-of-time-travel",
       "theoretical-physics"
@@ -37367,7 +37329,6 @@
       "fiber-optics",
       "geology",
       "navigation",
-      "optical-engineering",
       "optics",
       "physics",
       "quantum-computing",
@@ -37561,6 +37522,7 @@
     ],
     "incoming": [
       "broadcasting",
+      "media-history",
       "telecommunication"
     ]
   },
@@ -37634,7 +37596,6 @@
       "chiropractic",
       "emergency-medicine",
       "health-informatics",
-      "media-history",
       "medical-imaging",
       "natural-language-processing",
       "radiography"
@@ -37735,7 +37696,7 @@
       "differential-equations",
       "economics",
       "engineering",
-      "genetics",
+      "general-relativity",
       "logic",
       "machine-learning",
       "mathematics",
@@ -37922,7 +37883,8 @@
     "category": "everyday-concepts",
     "outgoing": [
       "economics",
-      "management",
+      "environmental-engineering",
+      "waste-management",
       "water-management"
     ],
     "incoming": [
@@ -37958,6 +37920,7 @@
       "renewable-energy",
       "river-ecology",
       "robotics",
+      "smelting",
       "space-colonization",
       "sponge-biology",
       "supply-chain-management",
@@ -37974,7 +37937,7 @@
     "category": "health-amp-wellness",
     "outgoing": [
       "anatomy",
-      "health-law",
+      "health-insurance",
       "nursing",
       "painting",
       "physiology",
@@ -37990,10 +37953,8 @@
     "category": "technology",
     "outgoing": [
       "air-conditioning",
-      "alternative-energy",
       "chemical-engineering",
       "chemistry",
-      "classical-mechanics",
       "climate-change",
       "construction",
       "cycling",
@@ -38007,7 +37968,9 @@
       "heat-transfer",
       "human-nutrition",
       "public-health",
-      "running"
+      "renewable-energy",
+      "running",
+      "thermodynamics"
     ],
     "incoming": [
       "air-conditioning",
@@ -38383,6 +38346,7 @@
       "building-automation",
       "climate-change",
       "cloud-computing",
+      "concrete-technology",
       "cryptocurrency",
       "desalination",
       "electrochemistry",
@@ -38392,6 +38356,7 @@
       "fuel-cell-technology",
       "geochemistry",
       "geology",
+      "global-economics",
       "greenhouse-management",
       "hydrogen-power",
       "hydroponics",
@@ -38402,6 +38367,7 @@
       "organometallic-chemistry",
       "petroleum-engineering",
       "photovoltaics",
+      "refrigeration",
       "semiconductor-physics",
       "skiing",
       "sustainable-architecture",
@@ -38920,8 +38886,8 @@
       "international-law",
       "jurisprudence",
       "legal-writing",
+      "philosophy",
       "property-law",
-      "stoicism",
       "trade",
       "writing"
     ],
@@ -38997,7 +38963,7 @@
       "romance-languages",
       "sales",
       "science-fiction",
-      "self-defense",
+      "self-publishing",
       "social-dynamics",
       "storytelling",
       "writing"
@@ -39102,6 +39068,7 @@
       "soccer"
     ],
     "incoming": [
+      "american-football",
       "polynesian-culture",
       "sports-history"
     ]
@@ -39827,6 +39794,19 @@
       "hobby-electronics"
     ]
   },
+  "savings": {
+    "title": "What Is Savings?",
+    "category": "finance",
+    "outgoing": [
+      "accounting",
+      "compound-interest",
+      "interest-rate"
+    ],
+    "incoming": [
+      "compound-interest",
+      "interest-rate"
+    ]
+  },
   "saxophone": {
     "title": "What Is Saxophone?",
     "category": "arts-amp-culture",
@@ -39852,7 +39832,7 @@
       "architecture",
       "biomechanics",
       "building-automation",
-      "civil-law",
+      "civil-engineering",
       "concrete-technology",
       "construction",
       "economics",
@@ -40071,7 +40051,6 @@
       "mental-health",
       "scheduling",
       "special-education",
-      "spectroscopy",
       "teaching",
       "technology-management",
       "trade"
@@ -40107,6 +40086,7 @@
       "creative-writing",
       "digital-signal-processing",
       "electronic-music",
+      "endocrinology",
       "english-literature",
       "fantasy-literature",
       "fiction-writing",
@@ -40209,6 +40189,7 @@
       "argumentation",
       "early-modern-history",
       "european-history",
+      "experimental-physics",
       "humanism",
       "islamic-history",
       "jacobean-era",
@@ -40575,7 +40556,6 @@
       "international-law",
       "judo",
       "martial-arts",
-      "romance-literature",
       "tax-law"
     ]
   },
@@ -40597,7 +40577,8 @@
       "desktop-publishing",
       "fiction-writing",
       "novel-writing",
-      "publishing"
+      "publishing",
+      "romance-literature"
     ]
   },
   "semantics": {
@@ -40640,7 +40621,6 @@
       "battery-technology",
       "chemistry",
       "circuit-design",
-      "classical-mechanics",
       "cloud-computing",
       "computer-hardware",
       "construction",
@@ -40656,6 +40636,7 @@
       "materials-science",
       "pattern-recognition",
       "photolithography",
+      "physics",
       "quantum-computing",
       "quantum-mechanics",
       "renewable-energy"
@@ -40852,7 +40833,7 @@
       "education",
       "leadership",
       "literature",
-      "physics",
+      "physical-comedy",
       "poetry",
       "psychology",
       "storytelling",
@@ -40908,7 +40889,7 @@
     "title": "What Is Sheet Metal Work?",
     "category": "technology",
     "outgoing": [
-      "aerodynamics",
+      "aerospace-engineering",
       "air-conditioning",
       "automotive-engineering",
       "construction",
@@ -40983,7 +40964,7 @@
       "hydrodynamics",
       "insurance",
       "materials-science",
-      "naval-history",
+      "naval-architecture",
       "navigation",
       "rock-climbing",
       "running",
@@ -41015,7 +40996,7 @@
       "diving",
       "ethics",
       "insurance",
-      "interior-design",
+      "international-trade",
       "maritime-history",
       "oceanography",
       "trade"
@@ -41516,16 +41497,16 @@
     "outgoing": [
       "chemistry",
       "circuit-design",
-      "climatology",
+      "climate-change",
       "concrete-technology",
       "electricity",
       "electronics",
       "engineering",
-      "environmental-science",
       "logic",
       "materials-science",
       "metalworking",
       "physics",
+      "recycling",
       "steel-production",
       "thermodynamics",
       "trade"
@@ -41695,6 +41676,7 @@
     "outgoing": [
       "education",
       "ethics",
+      "evolutionary-biology",
       "fitness",
       "geography",
       "government",
@@ -41735,7 +41717,7 @@
       "marketing",
       "physics",
       "public-health",
-      "sociology",
+      "social-psychology",
       "urban-planning"
     ],
     "incoming": [
@@ -41800,7 +41782,7 @@
       "buddhism",
       "capitalism",
       "christianity",
-      "climatology",
+      "climate-change",
       "economics",
       "education",
       "ethics",
@@ -41900,7 +41882,8 @@
       "experimental-psychology",
       "neuroscience",
       "psychological-history",
-      "psychology"
+      "psychology",
+      "social-dynamics"
     ]
   },
   "social-work": {
@@ -41982,10 +41965,10 @@
       "media-studies",
       "organizational-behavior",
       "paganism",
+      "political-philosophy",
       "psychology",
       "qualitative-research",
       "rural-sociology",
-      "social-dynamics",
       "social-network-analysis",
       "social-psychology",
       "terrorism-studies",
@@ -42042,6 +42025,7 @@
       "cold-war-history",
       "computer-science",
       "data-science",
+      "data-structures",
       "database-design",
       "engineering",
       "mathematical-finance",
@@ -42103,7 +42087,6 @@
     "category": "science",
     "outgoing": [
       "agriculture",
-      "agronomy",
       "biology",
       "chemistry",
       "climatology",
@@ -42126,7 +42109,6 @@
       "geomorphology",
       "irrigation",
       "permaculture",
-      "plastering",
       "soil-mechanics",
       "taxonomy",
       "tropical-agriculture"
@@ -42166,13 +42148,12 @@
     "category": "technology",
     "outgoing": [
       "artificial-intelligence",
-      "chemistry",
       "circuit-design",
-      "computer-hardware",
       "cycling",
       "design-patterns",
       "electronics",
       "hygiene",
+      "materials-science",
       "modern-history",
       "plumbing",
       "roofing",
@@ -42226,7 +42207,6 @@
     "outgoing": [
       "algorithms",
       "alternative-energy",
-      "classical-mechanics",
       "computer-hardware",
       "crystallography",
       "database-design",
@@ -42405,7 +42385,7 @@
       "religion",
       "sanskrit",
       "trade",
-      "water-law",
+      "water-management",
       "world-war-ii"
     ],
     "incoming": []
@@ -42474,7 +42454,7 @@
     "title": "What Is Space Medicine?",
     "category": "science",
     "outgoing": [
-      "aerodynamics",
+      "aerospace-engineering",
       "artificial-intelligence",
       "biology",
       "child-development",
@@ -42632,7 +42612,6 @@
       "quantum-optics",
       "quantum-physics",
       "scanning-electron-microscopy",
-      "school-administration",
       "stellar-astronomy",
       "structural-biology",
       "violin-making"
@@ -42733,16 +42712,15 @@
     "title": "What Is Spiritualism?",
     "category": "philosophy",
     "outgoing": [
-      "aesthetics",
       "alternative-energy",
       "chemistry",
       "cognitive-psychology",
       "debate",
       "electricity",
-      "electronics",
       "logic",
       "magnetism",
       "neuroscience",
+      "philosophy",
       "physics",
       "psychology",
       "rapping",
@@ -42852,14 +42830,12 @@
       "wrestling"
     ],
     "incoming": [
-      "american-football",
       "archery",
       "baseball",
       "boxing",
       "gymnastics",
       "rowing",
       "sumo-wrestling",
-      "swordsmanship",
       "table-tennis",
       "tennis",
       "wrestling"
@@ -42926,7 +42902,6 @@
       "basketball",
       "biology",
       "biomechanics",
-      "classical-mechanics",
       "cycling",
       "exercise-physiology",
       "genetics",
@@ -43158,7 +43133,9 @@
       "sales",
       "tax-law"
     ],
-    "incoming": []
+    "incoming": [
+      "notary-public"
+    ]
   },
   "statistical-mechanics": {
     "title": "What Is Statistical Mechanics?",
@@ -43166,7 +43143,6 @@
     "outgoing": [
       "algorithms",
       "chemistry",
-      "classical-mechanics",
       "cosmology",
       "data-analysis",
       "deep-learning",
@@ -43247,6 +43223,7 @@
       "algebra",
       "american-football",
       "app-development",
+      "applied-mathematics",
       "art-history",
       "automotive-repair",
       "baseball",
@@ -43313,7 +43290,6 @@
       "model-rockets",
       "motion-graphics",
       "network-administration",
-      "notary-public",
       "nursing",
       "occupational-health",
       "oncology",
@@ -43417,7 +43393,6 @@
     "outgoing": [
       "alternative-energy",
       "chemistry",
-      "civil-law",
       "climate-change",
       "construction",
       "data-analysis",
@@ -43483,11 +43458,11 @@
       "algorithms",
       "anatomy",
       "architecture",
-      "cartography",
       "chemistry",
       "diving",
       "education",
       "engineering",
+      "geology",
       "geometry",
       "invention",
       "literature",
@@ -43541,25 +43516,18 @@
       "business-ethics",
       "chivalry",
       "christianity",
-      "classical-civilizations",
       "comparative-religion",
       "confucianism",
-      "government",
       "hinduism",
-      "jurisprudence",
       "moral-philosophy",
       "pragmatism",
-      "roman-law",
-      "sufism",
-      "taoism",
-      "utilitarianism"
+      "taoism"
     ]
   },
   "stone-carving": {
     "title": "What Is Stone Carving?",
     "category": "arts-amp-culture",
     "outgoing": [
-      "aesthetics",
       "fine-art",
       "government",
       "sculpture",
@@ -43576,12 +43544,12 @@
     "category": "everyday-concepts",
     "outgoing": [
       "aesthetics",
-      "civil-engineering",
       "construction",
       "freemasonry",
       "government",
       "masonry",
       "physics",
+      "structural-engineering",
       "trade"
     ],
     "incoming": [
@@ -43595,7 +43563,6 @@
     "outgoing": [
       "agriculture",
       "ancient-greek-history",
-      "communication-theory",
       "education",
       "hunting",
       "invention",
@@ -43700,6 +43667,7 @@
     "incoming": [
       "business-administration",
       "business-ethics",
+      "public-relations",
       "strategic-planning"
     ]
   },
@@ -43807,7 +43775,6 @@
       "mathematics",
       "number-theory",
       "physics",
-      "quantum-field-theory",
       "quantum-mechanics",
       "theoretical-physics",
       "topology"
@@ -43886,12 +43853,14 @@
       "linear-algebra",
       "mathematics",
       "mechatronics",
+      "natural-building",
       "naval-architecture",
       "scaffolding",
       "shipbuilding",
       "soil-mechanics",
       "solid-mechanics",
       "steel-production",
+      "stonemasonry",
       "tire-technology"
     ]
   },
@@ -43948,18 +43917,17 @@
       "anatomy",
       "app-development",
       "astronomy",
-      "astrophysics",
       "biology",
       "chemistry",
-      "circuit-design",
-      "classical-mechanics",
       "computer-hardware",
       "cosmology",
+      "electricity",
       "electromagnetism",
       "electronics",
       "engineering",
       "general-relativity",
       "particle-physics",
+      "physics",
       "quantum-mechanics",
       "science-fiction",
       "string-theory"
@@ -44018,7 +43986,6 @@
     "category": "philosophy",
     "outgoing": [
       "aesthetics",
-      "anthropology",
       "architecture",
       "calligraphy",
       "comparative-religion",
@@ -44031,7 +43998,6 @@
       "philosophy",
       "politics",
       "religion",
-      "stoicism",
       "teaching",
       "theology",
       "visual-arts"
@@ -44081,10 +44047,7 @@
       "nutrition",
       "sales"
     ],
-    "incoming": [
-      "bread-making",
-      "candy-making"
-    ]
+    "incoming": []
   },
   "supernatural-folklore": {
     "title": "What Is Supernatural Folklore?",
@@ -44237,7 +44200,6 @@
       "applied-mathematics",
       "building-automation",
       "cartography",
-      "civil-engineering",
       "climate-change",
       "construction",
       "education",
@@ -44303,7 +44265,6 @@
     "outgoing": [
       "aerodynamics",
       "agriculture",
-      "agronomy",
       "anthropology",
       "biology",
       "composting",
@@ -44348,6 +44309,7 @@
       "renewable-energy"
     ],
     "incoming": [
+      "architecture",
       "thatching"
     ]
   },
@@ -44464,7 +44426,6 @@
       "military-history",
       "pattern-recognition",
       "philosophy",
-      "sports-history",
       "tai-chi"
     ],
     "incoming": [
@@ -44479,7 +44440,6 @@
       "anthropology",
       "art-history",
       "graphic-design",
-      "linguistics",
       "literary-criticism",
       "literature",
       "psychology",
@@ -44715,7 +44675,6 @@
     "title": "What Is Systems Theory?",
     "category": "science",
     "outgoing": [
-      "aerospace-engineering",
       "artificial-intelligence",
       "biology",
       "climate-change",
@@ -44916,7 +44875,6 @@
       "embroidery",
       "government",
       "painting",
-      "textile-arts",
       "weaving"
     ],
     "incoming": []
@@ -45164,7 +45122,6 @@
     "outgoing": [
       "acting",
       "algorithms",
-      "budgeting",
       "data-analysis",
       "finance",
       "fundamental-analysis",
@@ -45324,7 +45281,6 @@
     "title": "What Is Telescope Making?",
     "category": "technology",
     "outgoing": [
-      "acoustics",
       "app-development",
       "astronomy",
       "construction",
@@ -45443,12 +45399,12 @@
     "category": "science",
     "outgoing": [
       "anatomy",
-      "biology",
       "climatology",
       "debate",
       "developmental-biology",
       "editing",
       "etymology",
+      "genetics",
       "surgery"
     ],
     "incoming": []
@@ -45500,7 +45456,7 @@
       "drawing",
       "geopolitics",
       "ideologies",
-      "international-law",
+      "international-relations",
       "political-science",
       "politics",
       "psychology",
@@ -45536,7 +45492,6 @@
       "hobby-electronics",
       "japanese-art",
       "tailoring",
-      "tapestry",
       "textile-design"
     ]
   },
@@ -45740,8 +45695,6 @@
     "title": "What Is The History of Mathematics?",
     "category": "history",
     "outgoing": [
-      "abstract-algebra",
-      "algebra",
       "calculus",
       "complexity-theory",
       "cryptography",
@@ -45781,17 +45734,16 @@
       "metaphysics",
       "philosophy",
       "philosophy-of-religion",
+      "political-philosophy",
       "political-science",
       "psychology",
       "scholasticism",
       "the-history-of-logic",
-      "the-history-of-political-science",
       "the-history-of-science",
       "western-philosophy"
     ],
     "incoming": [
       "the-history-of-logic",
-      "the-history-of-political-science",
       "the-history-of-religion"
     ]
   },
@@ -45836,13 +45788,10 @@
       "public-policy",
       "religion",
       "running",
-      "the-history-of-philosophy",
       "theology",
       "writing"
     ],
-    "incoming": [
-      "the-history-of-philosophy"
-    ]
+    "incoming": []
   },
   "the-history-of-religion": {
     "title": "What Is The History of Religion?",
@@ -46096,6 +46045,7 @@
       "the-history-of-political-science",
       "the-history-of-religion",
       "western-art",
+      "western-esotericism",
       "western-philosophy",
       "zoroastrianism"
     ]
@@ -46172,7 +46122,6 @@
       "air-conditioning",
       "biology",
       "chemistry",
-      "classical-mechanics",
       "cooking",
       "cosmology",
       "ecology",
@@ -46216,6 +46165,7 @@
       "physical-chemistry",
       "physics",
       "process-engineering",
+      "refrigeration",
       "reservoir-engineering",
       "smelting",
       "statistical-mechanics",
@@ -46228,7 +46178,6 @@
     "title": "What Is Thesaurus Construction?",
     "category": "technology",
     "outgoing": [
-      "algorithms",
       "architecture",
       "artificial-intelligence",
       "automotive-engineering",
@@ -46236,6 +46185,7 @@
       "construction",
       "education",
       "information-retrieval",
+      "information-systems",
       "literature",
       "machine-learning",
       "natural-language-processing",
@@ -46320,6 +46270,7 @@
     ],
     "incoming": [
       "cooking",
+      "minimalism",
       "systems-administration"
     ]
   },
@@ -46435,11 +46386,9 @@
     "title": "What Is Topology?",
     "category": "science",
     "outgoing": [
-      "algebra",
       "algorithms",
       "basketball",
       "calculus",
-      "classical-mechanics",
       "electricity",
       "general-relativity",
       "geometry",
@@ -47009,7 +46958,7 @@
       "education",
       "literature",
       "logic",
-      "philately",
+      "philosophy",
       "religion",
       "writing"
     ],
@@ -47301,7 +47250,6 @@
     "title": "What Is Trigonometry?",
     "category": "science",
     "outgoing": [
-      "algebra",
       "animation",
       "applied-mathematics",
       "astronomy",
@@ -47358,7 +47306,6 @@
     "outgoing": [
       "agriculture",
       "biology",
-      "botany",
       "chemistry",
       "climate-change",
       "climatology",
@@ -47368,6 +47315,7 @@
       "farming",
       "irrigation",
       "management",
+      "plant-breeding",
       "productivity",
       "soil-science"
     ],
@@ -47491,7 +47439,7 @@
     "outgoing": [
       "acting",
       "civil-engineering",
-      "climatology",
+      "climate-change",
       "concrete-technology",
       "construction",
       "engineering",
@@ -47618,6 +47566,7 @@
     ],
     "incoming": [
       "app-development",
+      "calligraphy",
       "data-visualization",
       "desktop-publishing",
       "graphic-design",
@@ -47740,7 +47689,6 @@
       "accounting",
       "agriculture",
       "bookkeeping",
-      "budgeting",
       "capitalism",
       "construction",
       "data-analysis",
@@ -48064,7 +48012,6 @@
     "title": "What Is Utilitarianism?",
     "category": "philosophy",
     "outgoing": [
-      "aesthetics",
       "calculus",
       "cognitive-bias",
       "debate",
@@ -48072,8 +48019,8 @@
       "economics",
       "ethics",
       "government",
+      "philosophy",
       "poetry",
-      "stoicism",
       "virtue-ethics"
     ],
     "incoming": [
@@ -48131,7 +48078,6 @@
       "linear-algebra",
       "machine-learning",
       "mathematics",
-      "quantum-computing",
       "quantum-mechanics"
     ],
     "incoming": [
@@ -48522,7 +48468,7 @@
       "artificial-intelligence",
       "battery-technology",
       "cloud-computing",
-      "computer-graphics",
+      "computer-vision",
       "construction",
       "engineering",
       "fitness",
@@ -48958,6 +48904,7 @@
     "title": "What Is Warhammer?",
     "category": "everyday-concepts",
     "outgoing": [
+      "game-design",
       "gaming",
       "miniature-painting",
       "painting",
@@ -48991,7 +48938,8 @@
       "nuclear-engineering",
       "nuclear-power",
       "pig-farming",
-      "plastics-engineering"
+      "plastics-engineering",
+      "recycling"
     ]
   },
   "watchmaking": {
@@ -49044,11 +48992,7 @@
       "government",
       "public-policy"
     ],
-    "incoming": [
-      "permaculture",
-      "pre-columbian-history",
-      "southeast-asian-history"
-    ]
+    "incoming": []
   },
   "water-management": {
     "title": "What Is Water Management?",
@@ -49068,15 +49012,18 @@
       "dutch-history",
       "environmental-science",
       "fuel-cell-technology",
+      "geomorphology",
       "hydrology",
       "infrastructure-planning",
       "internet-of-things-iot",
       "naval-architecture",
       "nursery-management",
       "permaculture",
+      "pre-columbian-history",
       "quarrying",
       "recycling",
       "rice-farming",
+      "southeast-asian-history",
       "sustainable-agriculture",
       "water-purification",
       "wetland-ecology",
@@ -49296,6 +49243,7 @@
       "electricity",
       "information-security",
       "intrusion-detection",
+      "orchestration",
       "productivity",
       "running",
       "server-administration",
@@ -49380,6 +49328,7 @@
       "hydraulics",
       "laser-technology",
       "lean-manufacturing",
+      "mechanical-engineering",
       "metalworking",
       "ocean-engineering",
       "optical-engineering",
@@ -49420,6 +49369,7 @@
       "walking"
     ],
     "incoming": [
+      "aromatherapy",
       "clinical-psychology",
       "coaching",
       "dietetics",
@@ -49464,7 +49414,6 @@
       "christianity",
       "classical-guitar",
       "classical-music",
-      "existentialism",
       "flemish-painting",
       "fresco-painting",
       "japanese-art",
@@ -49484,7 +49433,6 @@
     "outgoing": [
       "astronomy",
       "chemistry",
-      "christianity",
       "freemasonry",
       "intellectual-history",
       "literature",
@@ -49498,6 +49446,7 @@
       "psychology",
       "quantum-physics",
       "spiritualism",
+      "theology",
       "western-art"
     ],
     "incoming": [
@@ -49545,6 +49494,7 @@
       "confucianism",
       "eastern-philosophy",
       "ethics",
+      "existentialism",
       "jewish-history",
       "mediterranean-history",
       "philosophy",
@@ -49572,7 +49522,8 @@
     "outgoing": [
       "sales",
       "swimming",
-      "tourism"
+      "tourism",
+      "wildlife-photography"
     ],
     "incoming": []
   },
@@ -49581,7 +49532,8 @@
     "category": "everyday-concepts",
     "outgoing": [
       "running",
-      "walking"
+      "walking",
+      "wood-carving"
     ],
     "incoming": [
       "wood-carving"
@@ -49621,7 +49573,6 @@
       "agriculture",
       "algorithms",
       "animal-behavior",
-      "biology",
       "data-analysis",
       "ecology",
       "education",
@@ -49634,7 +49585,8 @@
       "statistics",
       "trapping",
       "wildlife-conservation",
-      "wildlife-management"
+      "wildlife-management",
+      "zoology"
     ],
     "incoming": [
       "bird-watching",
@@ -49703,7 +49655,8 @@
     ],
     "incoming": [
       "underwater-photography",
-      "urban-exploration"
+      "urban-exploration",
+      "whale-watching"
     ]
   },
   "wind-power": {
@@ -49777,6 +49730,7 @@
       "doll-making",
       "sculpture",
       "turning-wood",
+      "whittling",
       "wood-finishing"
     ]
   },
@@ -49805,6 +49759,7 @@
     "incoming": [
       "blogging",
       "cabinet-making",
+      "carpentry",
       "frame-making",
       "furniture-making",
       "historical-reenactment",
@@ -49864,7 +49819,6 @@
     "outgoing": [
       "agriculture",
       "artificial-intelligence",
-      "business-administration",
       "climate-change",
       "construction",
       "engineering",
@@ -49873,6 +49827,7 @@
       "human-anatomy",
       "leadership",
       "machine-learning",
+      "management",
       "mental-health",
       "nursing",
       "occupational-health",
@@ -50713,8 +50668,10 @@
       "malacology",
       "mammalogy",
       "natural-history",
+      "paleozoology",
       "taxidermy",
-      "taxonomy"
+      "taxonomy",
+      "wildlife-biology"
     ]
   },
   "zoroastrianism": {

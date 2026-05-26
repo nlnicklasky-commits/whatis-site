@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1047
 tier: "3"
-relatedArticles: ["algorithms", "differential-equations", "engineering", "complex-analysis"]
+relatedArticles: ["algorithms", "differential-equations", "engineering", "complex-analysis", "paintball"]
 externalSources:
   - title: "MIT OpenCourseWare - Control Systems"
     url: "https://ocw.mit.edu/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1074
 tier: "3"
-relatedArticles: ["philosophy", "mathematics", "critical-thinking", "argumentation"]
+relatedArticles: ["philosophy", "mathematics", "critical-thinking", "argumentation", "feng-shui"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy: Logic"
     url: "https://plato.stanford.edu/entries/logic-classical/"

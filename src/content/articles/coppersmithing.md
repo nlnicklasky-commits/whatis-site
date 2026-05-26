@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 849
 tier: "3"
-relatedArticles: ["blacksmithing", "silversmithing", "goldsmithing", "jewelry-making"]
+relatedArticles: ["blacksmithing", "silversmithing", "goldsmithing", "jewelry-making", "syriac-language"]
 externalSources:
   - title: "Smithsonian - Metalwork Collections"
     url: "https://www.si.edu/"

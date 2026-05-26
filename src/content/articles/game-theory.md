@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1104
 tier: "3"
-relatedArticles: ["algorithms", "economics", "applied-mathematics"]
+relatedArticles: ["algorithms", "economics", "applied-mathematics", "oligopoly-theory"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy — Game Theory"
     url: "https://plato.stanford.edu/entries/game-theory/"

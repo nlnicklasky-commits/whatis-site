@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 954
 tier: "3"
-relatedArticles: ["writing", "journalism", "literature", "marketing"]
+relatedArticles: ["writing", "journalism", "literature", "marketing", "phrenology"]
 externalSources:
   - title: "Association of American Publishers"
     url: "https://publishers.org/"

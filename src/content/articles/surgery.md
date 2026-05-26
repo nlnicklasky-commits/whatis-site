@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1609
 tier: "3"
-relatedArticles: ["anatomy", "biology", "cell-biology"]
+relatedArticles: ["anatomy", "biology", "cell-biology", "natural-medicine", "optometry"]
 externalSources:
   - title: "American College of Surgeons"
     url: "https://www.facs.org/"

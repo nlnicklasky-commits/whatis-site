@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 882
 tier: "3"
-relatedArticles: ["engineering", "welding"]
+relatedArticles: ["engineering", "welding", "reptile-keeping"]
 externalSources:
   - title: "Hagerty — Classic Car Values"
     url: "https://www.hagerty.com/"

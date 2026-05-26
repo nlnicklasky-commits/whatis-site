@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 996
 tier: "3"
-relatedArticles: ["gymnastics", "golf", "game-theory"]
+relatedArticles: ["gymnastics", "golf", "game-theory", "racquetball"]
 externalSources:
   - title: "IHF — International Handball Federation"
     url: "https://www.ihf.info/"

@@ -43,7 +43,7 @@ You might wonder why ancient animals need a separate field. The short answer: an
 
 The animal kingdom encompasses over 30 recognized phyla, each with its own body plan, evolutionary history, and preservation characteristics. Studying a Cambrian trilobite requires a completely different skill set than studying a Pleistocene mammoth. The methods for extracting information from a clam shell are nothing like those used on a dinosaur femur. So while "paleozoology" is technically a subdivision of [paleontology](/paleontology), it's an enormous subdivision — arguably the largest single chunk of paleontological work.
 
-The field also bridges the gap between paleontology and [zoology](/ecology). Modern zoologists study living animals. Paleozoologists study dead ones — but the questions are often identical. How did this animal move? What did it eat? How did it interact with its environment? The difference is that paleozoologists have to answer these questions using nothing but bones, shells, tracks, and the rocks that contain them.
+The field also bridges the gap between paleontology and [zoology](/zoology). Modern zoologists study living animals. Paleozoologists study dead ones — but the questions are often identical. How did this animal move? What did it eat? How did it interact with its environment? The difference is that paleozoologists have to answer these questions using nothing but bones, shells, tracks, and the rocks that contain them.
 
 ## The Invertebrate Majority
 
@@ -127,7 +127,7 @@ Taphonomic analysis prevents paleozoologists from making errors. Without it, you
 
 ## Paleoecology: Putting Animals in Context
 
-One of paleozoology's most powerful contributions is reconstructing how ancient animals interacted with each other and their environments — the domain of [paleoecology](/ecology).
+One of paleozoology's most powerful contributions is reconstructing how ancient animals interacted with each other and their environments — the domain of [paleoecology](/paleoecology).
 
 Fossil assemblages (groups of fossils found together) represent ancient communities. By analyzing which species occur together, how abundant each is, and what trophic (feeding) level each occupied, paleozoologists reconstruct ancient food webs and ecological structures.
 

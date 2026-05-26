@@ -63,7 +63,7 @@ Filipino martial arts (Arnis/Kali/Eskrima) emphasize blade and stick fighting. I
 
 As firearms made swords militarily obsolete, swordsmanship transformed from a combat necessity into a gentlemanly accomplishment and eventually a sport.
 
-Modern Olympic [fencing](/sports-history) uses three weapons:
+Modern Olympic [fencing](/fencing) uses three weapons:
 
 - **Foil** — A light thrusting weapon. Valid target is the torso only. Right-of-way rules determine which fencer scores when both hit simultaneously.
 - **Epee** — A heavier thrusting weapon. The entire body is a valid target. No right-of-way — whoever hits first scores.

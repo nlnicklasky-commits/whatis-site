@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 804
 tier: "3"
-relatedArticles: ["agriculture", "agronomy", "landscaping", "lawn-care"]
+relatedArticles: ["agriculture", "agronomy", "landscaping", "lawn-care", "greenhouse-management"]
 externalSources:
   - title: "USDA – Irrigation and Water Use"
     url: "https://www.ers.usda.gov/topics/farm-practices-management/irrigation-water-use/"

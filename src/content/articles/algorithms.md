@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3196
 tier: "1"
-relatedArticles: ["machine-learning", "blockchain", "agile-software-development", "abstract-algebra"]
+relatedArticles: ["machine-learning", "blockchain", "agile-software-development", "abstract-algebra", "diy-electronics"]
 externalSources:
   - title: "Khan Academy - Intro to Algorithms"
     url: "https://www.khanacademy.org/computing/computer-science/algorithms"

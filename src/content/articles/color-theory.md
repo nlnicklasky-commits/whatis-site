@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1093
 tier: "3"
-relatedArticles: ["graphic-design", "painting", "digital-art", "fashion-design"]
+relatedArticles: ["graphic-design", "painting", "digital-art", "fashion-design", "floral-design"]
 externalSources:
   - title: "Yale University Art Gallery - Color Studies"
     url: "https://artgallery.yale.edu/"

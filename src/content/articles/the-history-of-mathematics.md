@@ -87,7 +87,7 @@ Between roughly the 8th and 14th centuries, Islamic scholars did two things: the
 
 By the 16th century, European mathematicians were pushing past ancient achievements. Italian algebraists solved the general cubic equation (Tartaglia, Cardano) and quartic equation (Ferrari) in the 1540s — breakthroughs that had eluded mathematicians for millennia.
 
-**Rene Descartes** merged algebra and geometry in 1637 with his coordinate system — the x-y plane you learned in school. This was a genuine revolution. Geometric shapes became equations. Equations became shapes. Two previously separate branches of [mathematics](/algebra) fused into one.
+**Rene Descartes** merged algebra and geometry in 1637 with his coordinate system — the x-y plane you learned in school. This was a genuine revolution. Geometric shapes became equations. Equations became shapes. Two previously separate branches of [mathematics](/mathematics) fused into one.
 
 **Pierre de Fermat** scribbled his famous "last theorem" in the margin of a book around 1637 — claiming he had a proof that the equation a^n + b^n = c^n has no integer solutions for n > 2, but the margin was "too narrow to contain it." It took 358 years for anyone to prove him right: Andrew Wiles finally did it in 1995.
 
@@ -115,4 +115,4 @@ The rise of computers created entirely new branches: computational [complexity t
 
 Seven "Millennium Prize Problems" remain, each worth $1 million for a solution. Only one — the Poincare conjecture — has been solved (by Grigori Perelman in 2003, who declined both the prize money and the Fields Medal). The Riemann Hypothesis, perhaps the most important unsolved problem in mathematics, has resisted all efforts since 1859.
 
-The history of [mathematics](/abstract-algebra) isn't over. It's accelerating. And if the past 5,000 years are any guide, the most surprising discoveries are probably still ahead.
+The history of [mathematics](/mathematics) isn't over. It's accelerating. And if the past 5,000 years are any guide, the most surprising discoveries are probably still ahead.

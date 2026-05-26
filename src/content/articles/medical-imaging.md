@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1780
 tier: "3"
-relatedArticles: ["anatomy", "bioengineering", "biophysics", "chemistry"]
+relatedArticles: ["anatomy", "bioengineering", "biophysics", "chemistry", "psychophysics"]
 externalSources:
   - title: "RadiologyInfo.org - Patient Information"
     url: "https://www.radiologyinfo.org/"

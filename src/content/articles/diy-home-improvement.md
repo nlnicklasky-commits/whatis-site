@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1072
 tier: "3"
-relatedArticles: ["carpentry", "decorating", "electricity", "woodworking"]
+relatedArticles: ["carpentry", "decorating", "electricity", "woodworking", "pool-billiards"]
 externalSources:
   - title: "This Old House"
     url: "https://www.thisoldhouse.com/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1089
 tier: "3"
-relatedArticles: ["stand-up-comedy", "clowning", "drama"]
+relatedArticles: ["stand-up-comedy", "clowning", "drama", "light-opera", "musical-theatre"]
 externalSources:
   - title: "Encyclopedia Britannica - Comedy"
     url: "https://www.britannica.com/art/comedy"

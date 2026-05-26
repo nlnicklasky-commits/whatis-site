@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1656
 tier: "3"
-relatedArticles: ["anthropology", "capitalism", "comparative-religion"]
+relatedArticles: ["anthropology", "capitalism", "comparative-religion", "historical-piracy", "mithraism"]
 externalSources:
   - title: "National Archives: The Civil Rights Act of 1964"
     url: "https://www.archives.gov/milestone-documents/civil-rights-act"
@@ -95,7 +95,7 @@ The Fair Housing Act of 1968, passed just a week after King's assassination, pro
 
 The civil rights movement was never a monolith. While King's [philosophy](/philosophy) of nonviolent resistance and integration is the most celebrated, other voices offered different visions.
 
-Malcolm X, a minister in the Nation of [Islam](/islam), rejected integration in favor of Black self-determination and [self-defense](/self-defense). His [philosophy](/comparative-religion) evolved significantly after leaving the Nation of Islam in 1964 and traveling to Mecca. He was assassinated in February 1965 at age 39.
+Malcolm X, a minister in the Nation of [Islam](/islam), rejected integration in favor of Black self-determination and [self-defense](/self-defense). His [philosophy](/philosophy) evolved significantly after leaving the Nation of Islam in 1964 and traveling to Mecca. He was assassinated in February 1965 at age 39.
 
 The Black Power movement, popularized by Stokely Carmichael and the Black Panther Party, emphasized racial pride, community control, and — when necessary — armed self-defense. The Panthers also ran breakfast programs for children and health clinics in Black neighborhoods, though their story is often reduced to the guns and berets.
 

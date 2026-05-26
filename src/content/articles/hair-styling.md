@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1008
 tier: "3"
-relatedArticles: ["fashion-design", "graphic-design", "anatomy"]
+relatedArticles: ["fashion-design", "graphic-design", "anatomy", "pet-grooming"]
 externalSources:
   - title: "Professional Beauty Association"
     url: "https://www.probeauty.org/"

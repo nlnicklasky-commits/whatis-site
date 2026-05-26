@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2557
 tier: "2"
-relatedArticles: ["anatomy", "agriculture", "sourdough"]
+relatedArticles: ["anatomy", "agriculture", "sourdough", "psychometrics", "rainforest-ecology"]
 externalSources:
   - title: "Carbohydrates - IUPAC Gold Book"
     url: "https://goldbook.iupac.org/terms/view/C00815"

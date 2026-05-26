@@ -53,7 +53,7 @@ The Italian city-states of the 15th century (Venice, Florence, Milan, Naples, th
 
 The Peace of Westphalia in 1648 — which ended the [Thirty Years' War](/thirty-years-war) — established the modern state system and the principle of sovereignty. After Westphalia, states were recognized as legally equal (at least in theory), and diplomacy became the primary means of managing relations between them. This was a significant shift from the medieval model, where the Pope and the Holy Roman Emperor claimed authority over all of Christendom.
 
-The Congress of Vienna in 1815 formalized diplomatic practice further. After Napoleon's defeat, European powers gathered to redraw the map and establish rules for [international relations](/early-modern-history). The Congress created a system of regular diplomatic conferences and established the precedence rules for ambassadors that are still largely followed today.
+The Congress of Vienna in 1815 formalized diplomatic practice further. After Napoleon's defeat, European powers gathered to redraw the map and establish rules for [international relations](/international-relations). The Congress created a system of regular diplomatic conferences and established the precedence rules for ambassadors that are still largely followed today.
 
 ## The Machinery of Diplomacy
 

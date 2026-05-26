@@ -141,7 +141,7 @@ German's influence on [intellectual history](/intellectual-history) is enormous.
 
 Before [World War II](/world-war-ii), German was arguably the most important language of science. Einstein published in German. Max Planck, Werner Heisenberg, Erwin Schrodinger—the founders of [quantum mechanics](/quantum-mechanics)—worked and published in German. The periodic table uses German-derived element names (Wolfram for tungsten, Kalium for potassium).
 
-The shift to English as science's dominant language is a 20th-century phenomenon, driven largely by World War II and America's subsequent scientific dominance. But German remains significant in specific fields—particularly [chemistry](/chemistry), [philosophy](/aesthetics), musicology, and [theology](/theology).
+The shift to English as science's dominant language is a 20th-century phenomenon, driven largely by World War II and America's subsequent scientific dominance. But German remains significant in specific fields—particularly [chemistry](/chemistry), [philosophy](/philosophy), musicology, and [theology](/theology).
 
 ### Philosophy
 

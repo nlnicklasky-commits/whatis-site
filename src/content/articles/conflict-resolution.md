@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1065
 tier: "3"
-relatedArticles: ["negotiation", "leadership", "critical-thinking", "psychology"]
+relatedArticles: ["negotiation", "leadership", "critical-thinking", "psychology", "orchid-growing"]
 externalSources:
   - title: "Harvard Law School - Program on Negotiation"
     url: "https://www.pon.harvard.edu/"

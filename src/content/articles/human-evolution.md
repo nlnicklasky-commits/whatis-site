@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1123
 tier: "3"
-relatedArticles: ["anthropology", "anatomy", "biology", "archaeology"]
+relatedArticles: ["anthropology", "anatomy", "biology", "archaeology", "social-darwinism"]
 externalSources:
   - title: "Smithsonian Human Origins Program"
     url: "https://humanorigins.si.edu/"
@@ -74,7 +74,7 @@ The answer is probably some combination of all of these, varying by environment 
 
 ## The Brain Explosion
 
-Hominin brain size remained relatively stable for millions of years — then grew dramatically starting about 2 million years ago. The reason is one of the biggest questions in [evolutionary biology](/human-evolution)).
+Hominin brain size remained relatively stable for millions of years — then grew dramatically starting about 2 million years ago. The reason is one of the biggest questions in [evolutionary biology](/evolutionary-biology)).
 
 **Meat-eating and [cooking](/cooking)** may have fueled brain growth. Brains are metabolically expensive — yours consumes about 20% of your total energy despite being 2% of your body weight. Cooked food provides more calories per gram than raw food, potentially providing the energy surplus needed to support larger brains. Evidence of controlled fire appears around 1 million years ago.
 

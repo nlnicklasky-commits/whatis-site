@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1698
 tier: "3"
-relatedArticles: ["business-law", "environmental-law", "behavioral-psychology", "economics"]
+relatedArticles: ["business-law", "environmental-law", "behavioral-psychology", "economics", "penology"]
 externalSources:
   - title: "Cornell Law Institute: Family Law"
     url: "https://www.law.cornell.edu/wex/family_law"

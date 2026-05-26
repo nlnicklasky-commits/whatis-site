@@ -193,6 +193,6 @@ Salaries range widely. Entry-level positions at major manufacturers start around
 
 ## Why It Matters Beyond Cars
 
-Automotive design has consistently pushed the boundaries of [industrial design](/aesthetics) more broadly. Techniques developed for car surfaces — like Class A surface modeling — are now used in [product design](/product-design), consumer [electronics](/electronics), and architecture. The visual language of cars influences everything from sneaker design to kitchen appliances.
+Automotive design has consistently pushed the boundaries of [industrial design](/industrial-design) more broadly. Techniques developed for car surfaces — like Class A surface modeling — are now used in [product design](/product-design), consumer [electronics](/electronics), and architecture. The visual language of cars influences everything from sneaker design to kitchen appliances.
 
 And there's a deeper point. Cars are, for most people, the most expensive designed object they'll ever own (after a house, which they probably didn't custom-design). The way a car looks and feels shapes daily life for millions of people. A well-designed interior makes a 45-minute commute tolerable. A poorly designed one makes it miserable. That's a real, measurable impact on human wellbeing — and it's why automotive design, for all its commercial pressures, remains one of the most creatively demanding design disciplines on the planet.

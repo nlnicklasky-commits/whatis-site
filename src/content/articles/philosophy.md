@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1022
 tier: "3"
-relatedArticles: ["ethics", "logic", "phenomenology", "existentialism"]
+relatedArticles: ["ethics", "logic", "phenomenology", "existentialism", "historical-slavery"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy"
     url: "https://plato.stanford.edu/"

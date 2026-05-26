@@ -59,7 +59,7 @@ Natural law is the oldest and arguably most intuitive approach. Its core claim: 
 
 The idea traces back to ancient Greece. Aristotle distinguished between "particular law" (the rules of specific societies) and "universal law" (principles of justice that apply everywhere). A law permitting slavery might be valid particular law, but it violates universal moral principles—and therefore, in some important sense, isn't truly law.
 
-The Stoics—whose [philosophy](/stoicism) influenced Roman legal thought enormously—argued that the universe is governed by rational principles, and human law should conform to them. Cicero wrote in *De Legibus* that "law is the highest reason, implanted in nature." This became the philosophical foundation of Roman jurisprudence, which in turn shaped the legal systems of most of Europe.
+The Stoics—whose [philosophy](/philosophy) influenced Roman legal thought enormously—argued that the universe is governed by rational principles, and human law should conform to them. Cicero wrote in *De Legibus* that "law is the highest reason, implanted in nature." This became the philosophical foundation of Roman jurisprudence, which in turn shaped the legal systems of most of Europe.
 
 Thomas Aquinas gave natural law its most sophisticated medieval formulation. He argued that human law derives its authority from "eternal law" (God's rational plan for the universe) through "natural law" (human participation in eternal law through reason). A human law that violates natural law—one that requires injustice—lacks binding force. You're not obligated to obey it.
 

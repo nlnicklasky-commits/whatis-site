@@ -37,7 +37,7 @@ The art form relies on the extraordinary expressiveness of the human body. Every
 
 ## Ancient Roots
 
-Mime is genuinely ancient. Greek and Roman theater included "mimus" — performers who used exaggerated [physical comedy](/physics)) and gesture to entertain. Roman mimes performed satirical sketches, often bawdy, at festivals and public events. The tradition survived through the Middle Ages in the form of commedia dell'arte — Italian masked comedy that relied heavily on physical performance.
+Mime is genuinely ancient. Greek and Roman theater included "mimus" — performers who used exaggerated [physical comedy](/physical-comedy)) and gesture to entertain. Roman mimes performed satirical sketches, often bawdy, at festivals and public events. The tradition survived through the Middle Ages in the form of commedia dell'arte — Italian masked comedy that relied heavily on physical performance.
 
 Modern mime took shape in early 19th-century Paris. Jean-Gaspard Deburau created the character of Pierrot — the sad, white-faced, silent figure — at the Theatre des Funambules. This established the visual template that most people associate with mime today.
 

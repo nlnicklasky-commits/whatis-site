@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1006
 tier: "3"
-relatedArticles: ["capitalism", "economics", "political-science"]
+relatedArticles: ["capitalism", "economics", "political-science", "terrorism-studies"]
 externalSources:
   - title: "Council on Foreign Relations"
     url: "https://www.cfr.org/"

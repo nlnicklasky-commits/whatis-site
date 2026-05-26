@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1144
 tier: "3"
-relatedArticles: ["sports-coaching", "sports-officiating", "aerodynamics"]
+relatedArticles: ["sports-coaching", "sports-officiating", "aerodynamics", "racquetball", "seasonal-cooking"]
 externalSources:
   - title: "World Squash Federation"
     url: "https://www.worldsquash.org/"

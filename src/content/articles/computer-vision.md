@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1079
 tier: "3"
-relatedArticles: ["artificial-intelligence", "machine-learning", "deep-learning", "digital-photography"]
+relatedArticles: ["artificial-intelligence", "machine-learning", "deep-learning", "digital-photography", "dynamic-programming"]
 externalSources:
   - title: "Stanford Vision Lab"
     url: "https://vision.stanford.edu/"

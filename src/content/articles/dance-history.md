@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 964
 tier: "3"
-relatedArticles: ["dance", "ballet", "modern-dance", "folk-dancing"]
+relatedArticles: ["dance", "ballet", "modern-dance", "folk-dancing", "tragedy-literature"]
 externalSources:
   - title: "New York Public Library - Dance Division"
     url: "https://www.nypl.org/locations/lpa/jerome-robbins-dance-division"

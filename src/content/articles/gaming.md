@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1033
 tier: "3"
-relatedArticles: ["game-design", "game-theory", "app-development"]
+relatedArticles: ["game-design", "game-theory", "app-development", "native-american-history", "psychometrics"]
 externalSources:
   - title: "Entertainment Software Association"
     url: "https://www.theesa.com/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1038
 tier: "3"
-relatedArticles: ["fine-art", "graffiti-art", "web-development"]
+relatedArticles: ["fine-art", "graffiti-art", "web-development", "floral-design", "social-media-management"]
 externalSources:
   - title: "AIGA — The Professional Association for Design"
     url: "https://www.aiga.org/"

@@ -103,7 +103,7 @@ Starting around 2012, deep [neural networks](/neural-networks) — particularly 
 
 CNNs process images through layers of learned filters that detect increasingly abstract patterns. Early layers detect edges and textures. Middle layers combine edges into parts (eyes, wheels, letters). Later layers combine parts into objects (faces, cars, words). The network learns these representations automatically from labeled training data — no manual feature engineering required.
 
-AlexNet's victory in the 2012 ImageNet competition — achieving a classification error rate of 15.3% compared to the previous best of 26.2% — marked the beginning of the deep learning era in [computer vision](/computer-graphics). By 2015, CNNs surpassed human-level performance on the ImageNet benchmark (though this benchmark is narrower than general human visual recognition).
+AlexNet's victory in the 2012 ImageNet competition — achieving a classification error rate of 15.3% compared to the previous best of 26.2% — marked the beginning of the deep learning era in [computer vision](/computer-vision). By 2015, CNNs surpassed human-level performance on the ImageNet benchmark (though this benchmark is narrower than general human visual recognition).
 
 Today, CNNs and their descendants power everything from smartphone camera apps (automatic scene detection, portrait mode) to medical imaging (detecting tumors, retinal diseases, skin cancer) to autonomous vehicle perception.
 

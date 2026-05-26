@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3071
 tier: "2"
-relatedArticles: ["anatomy", "animal-behavior", "agriculture", "alternative-energy"]
+relatedArticles: ["anatomy", "animal-behavior", "agriculture", "alternative-energy", "river-ecology"]
 externalSources:
   - title: "NOAA Coral Reef Information System"
     url: "https://www.coris.noaa.gov/"

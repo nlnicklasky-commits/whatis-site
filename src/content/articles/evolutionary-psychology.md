@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1127
 tier: "3"
-relatedArticles: ["anthropology", "biology", "behavioral-psychology", "cognitive-psychology"]
+relatedArticles: ["anthropology", "biology", "behavioral-psychology", "cognitive-psychology", "solar-sailing"]
 externalSources:
   - title: "Center for Evolutionary Psychology — UC Santa Barbara"
     url: "https://www.cep.ucsb.edu/"

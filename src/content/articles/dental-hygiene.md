@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1543
 tier: "3"
-relatedArticles: ["dentistry", "anatomy", "biology", "chemistry"]
+relatedArticles: ["dentistry", "anatomy", "biology", "chemistry", "pulmonology"]
 externalSources:
   - title: "CDC: Oral Health"
     url: "https://www.cdc.gov/oral-health/index.html"

@@ -195,7 +195,7 @@ Post-and-beam construction spans a remarkable range:
 
 **Commercial buildings** — breweries, restaurants, wineries, churches, and retail spaces use post-and-beam for its aesthetic warmth and structural openness. Exposed timber frames create atmospheres that steel and drywall simply can't match.
 
-**Institutional buildings** — universities, libraries, and community centers are increasingly choosing mass timber [construction](/civil-engineering) for both environmental and aesthetic reasons. The T3 office building in Minneapolis, completed in 2016, was the first modern tall timber building in the U.S.
+**Institutional buildings** — universities, libraries, and community centers are increasingly choosing mass timber [construction](/construction) for both environmental and aesthetic reasons. The T3 office building in Minneapolis, completed in 2016, was the first modern tall timber building in the U.S.
 
 ## The Bottom Line
 

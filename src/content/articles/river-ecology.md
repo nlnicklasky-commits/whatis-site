@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3497
 tier: "1"
-relatedArticles: ["biology", "climatology", "botany", "coral-reef-ecology"]
+relatedArticles: ["biology", "climatology", "botany", "coral-reef-ecology", "speleology"]
 externalSources:
   - title: "USGS Water Resources"
     url: "https://www.usgs.gov/mission-areas/water-resources"
@@ -135,7 +135,7 @@ Rivers are naturally disturbed systems. Floods, droughts, ice scour, landslides 
 
 Floods, while destructive in human terms, are ecologically essential. They scour channels, redistribute sediment, create new habitat features, reconnect rivers with their floodplains, and reset [biological communities](/biology). Many species actually depend on floods for reproduction. Floodplain trees like cottonwoods need periodic flooding to germinate. Many fish species spawn in response to rising water levels.
 
-The concept of a "natural flow regime" — the characteristic pattern of high and low flows that a river experiences over time — is now recognized as a master variable controlling river ecosystem health. Alter the flow regime (through dams, diversions, or [climate change](/climatology)), and you fundamentally change the ecosystem.
+The concept of a "natural flow regime" — the characteristic pattern of high and low flows that a river experiences over time — is now recognized as a master variable controlling river ecosystem health. Alter the flow regime (through dams, diversions, or [climate change](/climate-change)), and you fundamentally change the ecosystem.
 
 ### Connectivity: The Fourth Dimension
 
@@ -174,7 +174,7 @@ Invasive species compete with native organisms for food and habitat, prey on nat
 
 Rising temperatures, altered precipitation patterns, and more extreme weather events are reshaping river ecosystems globally. Warmer water holds less dissolved oxygen and stresses cold-water species. Changed snowmelt timing disrupts life cycles tuned to historical flow patterns. More intense storms increase erosion and pollutant delivery.
 
-Some projections suggest that 30-50% of freshwater fish species could face extinction risk from [climate change](/climatology) impacts by the end of this century. That's not a distant, abstract threat — it's a measurable shift already underway in river systems on every continent.
+Some projections suggest that 30-50% of freshwater fish species could face extinction risk from [climate change](/climate-change) impacts by the end of this century. That's not a distant, abstract threat — it's a measurable shift already underway in river systems on every continent.
 
 ## Studying River Ecology
 
@@ -226,7 +226,7 @@ But many projects fail or underperform, often because they address symptoms rath
 
 ## The Future of River Ecology
 
-River ecology faces an interesting tension. On one hand, the threats to rivers are intensifying — population growth, agricultural expansion, [climate change](/climatology), and increasing water demand all put pressure on freshwater systems. By 2050, global water demand is projected to increase by 20-30%, and much of that will come from rivers.
+River ecology faces an interesting tension. On one hand, the threats to rivers are intensifying — population growth, agricultural expansion, [climate change](/climate-change), and increasing water demand all put pressure on freshwater systems. By 2050, global water demand is projected to increase by 20-30%, and much of that will come from rivers.
 
 On the other hand, our ability to understand and restore rivers has never been greater. Advances in [environmental DNA](/biotechnology), remote sensing, computational modeling, and ecological theory give us tools that previous generations of river ecologists couldn't have imagined. The science is better than it's ever been.
 

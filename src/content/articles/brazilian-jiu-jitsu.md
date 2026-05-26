@@ -41,7 +41,7 @@ In the early 1900s, Japanese judoka and jiu-jitsu practitioner Mitsuyo Maeda emi
 
 The Gracie family issued open challenges ("the Gracie Challenge") to practitioners of other martial arts for decades, compiling an impressive record. But the art gained global recognition when Royce Gracie — chosen specifically because he was not the largest or strongest family member — won the first three UFC tournaments (1993-1994), submitting opponents who outweighed him by 50+ pounds.
 
-Those early UFCs demonstrated something that [martial arts](/aikido) traditionalists didn't want to hear: most fights go to the ground, and the fighter who knows what to do there usually wins. BJJ enrollment exploded worldwide.
+Those early UFCs demonstrated something that [martial arts](/martial-arts) traditionalists didn't want to hear: most fights go to the ground, and the fighter who knows what to do there usually wins. BJJ enrollment exploded worldwide.
 
 ## How BJJ Works
 

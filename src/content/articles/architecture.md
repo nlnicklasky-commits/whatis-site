@@ -95,7 +95,7 @@ The field has faced serious criticism for its historical lack of diversity. The 
 
 Buildings account for roughly 40% of global energy consumption and 36% of CO2 emissions, according to the United Nations Environment Programme. This makes architecture one of the most consequential fields for addressing [climate change](/climate-change).
 
-[Sustainable architecture](/environmental-engineering) addresses this through multiple strategies: passive solar design (orienting buildings to maximize natural heating and cooling), high-performance insulation, green roofs, rainwater harvesting, solar panels, and materials with lower embodied carbon. Cross-laminated timber (CLT) is gaining traction as a structural alternative to steel and concrete, with significantly lower carbon emissions.
+[Sustainable architecture](/sustainable-architecture) addresses this through multiple strategies: passive solar design (orienting buildings to maximize natural heating and cooling), high-performance insulation, green roofs, rainwater harvesting, solar panels, and materials with lower embodied carbon. Cross-laminated timber (CLT) is gaining traction as a structural alternative to steel and concrete, with significantly lower carbon emissions.
 
 The LEED ([Leadership](/leadership) in Energy and Environmental Design) certification system, administered by the U.S. Green Building Council, rates buildings on sustainability criteria. Similar systems exist worldwide — BREEAM in the UK, DGNB in Germany, Green Star in Australia.
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1057
 tier: "3"
-relatedArticles: ["gaming", "game-theory", "app-development"]
+relatedArticles: ["gaming", "game-theory", "app-development", "mahjong"]
 externalSources:
   - title: "Game Developers Conference (GDC)"
     url: "https://gdconf.com/"

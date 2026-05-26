@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 976
 tier: "3"
-relatedArticles: ["literary-criticism", "creative-writing", "philosophy", "translation"]
+relatedArticles: ["literary-criticism", "creative-writing", "philosophy", "translation", "philology"]
 externalSources:
   - title: "American Comparative Literature Association"
     url: "https://www.acla.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1544
 tier: "3"
-relatedArticles: ["anatomy", "biomechanics", "civil-engineering", "behavioral-psychology"]
+relatedArticles: ["anatomy", "biomechanics", "civil-engineering", "behavioral-psychology", "sleep-science"]
 externalSources:
   - title: "OSHA: Ergonomics"
     url: "https://www.osha.gov/ergonomics"

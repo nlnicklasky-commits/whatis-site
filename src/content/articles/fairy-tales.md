@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 993
 tier: "3"
-relatedArticles: ["folklore", "fantasy-literature", "creative-writing"]
+relatedArticles: ["folklore", "fantasy-literature", "creative-writing", "german-language"]
 externalSources:
   - title: "Library of Congress — Fairy Tales Collection"
     url: "https://www.loc.gov/collections/"

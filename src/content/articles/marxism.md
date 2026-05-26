@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1090
 tier: "3"
-relatedArticles: ["capitalism", "socialism", "political-science", "economics"]
+relatedArticles: ["capitalism", "socialism", "political-science", "economics", "indonesian-history"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy: Karl Marx"
     url: "https://plato.stanford.edu/entries/marx/"

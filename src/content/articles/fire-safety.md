@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1020
 tier: "3"
-relatedArticles: ["firefighting", "first-aid", "building-automation"]
+relatedArticles: ["firefighting", "first-aid", "building-automation", "toy-making", "transcendentalism"]
 externalSources:
   - title: "NFPA — National Fire Protection Association"
     url: "https://www.nfpa.org/"

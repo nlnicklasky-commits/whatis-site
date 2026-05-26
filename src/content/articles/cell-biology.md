@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2885
 tier: "2"
-relatedArticles: ["anatomy", "animal-behavior", "carbohydrate-chemistry", "agriculture"]
+relatedArticles: ["anatomy", "animal-behavior", "carbohydrate-chemistry", "agriculture", "gravitational-biology"]
 externalSources:
   - title: "Molecular Biology of the Cell - NCBI Bookshelf"
     url: "https://www.ncbi.nlm.nih.gov/books/NBK21054/"

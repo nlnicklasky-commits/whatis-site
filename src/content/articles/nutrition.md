@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1611
 tier: "3"
-relatedArticles: ["biology", "chemistry", "anatomy"]
+relatedArticles: ["biology", "chemistry", "anatomy", "lichenology", "macrobiotics"]
 externalSources:
   - title: "USDA Dietary Guidelines for Americans 2020-2025"
     url: "https://www.dietaryguidelines.gov/"

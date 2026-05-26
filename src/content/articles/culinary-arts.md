@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 966
 tier: "3"
-relatedArticles: ["cooking", "gastronomy", "baking", "pastry-arts"]
+relatedArticles: ["cooking", "gastronomy", "baking", "pastry-arts", "tragedy-literature"]
 externalSources:
   - title: "American Culinary Federation"
     url: "https://www.acfchefs.org/"

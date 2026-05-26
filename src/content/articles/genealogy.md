@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1538
 tier: "3"
-relatedArticles: ["anthropology", "archaeology", "biology"]
+relatedArticles: ["anthropology", "archaeology", "biology", "television-history", "thai-history"]
 externalSources:
   - title: "National Archives: Genealogy Research"
     url: "https://www.archives.gov/research/genealogy"

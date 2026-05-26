@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1398
 tier: "3"
-relatedArticles: ["capitalism", "civil-rights-history", "cuban-history", "computing-history"]
+relatedArticles: ["capitalism", "civil-rights-history", "cuban-history", "computing-history", "persian-history"]
 externalSources:
   - title: "National Archives: The Cold War"
     url: "https://www.archives.gov/research/foreign-policy/cold-war"

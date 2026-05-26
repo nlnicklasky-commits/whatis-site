@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3061
 tier: "1"
-relatedArticles: ["agriculture", "algorithms", "machine-learning", "anatomy"]
+relatedArticles: ["agriculture", "algorithms", "machine-learning", "anatomy", "myology"]
 externalSources:
   - title: "NIH National Human Genome Research Institute"
     url: "https://www.genome.gov/about-genomics/fact-sheets/Biotechnology"

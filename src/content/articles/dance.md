@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 923
 tier: "3"
-relatedArticles: ["ballet", "modern-dance", "folk-dancing", "ballroom-dancing"]
+relatedArticles: ["ballet", "modern-dance", "folk-dancing", "ballroom-dancing", "dance-history"]
 externalSources:
   - title: "National Dance Education Organization"
     url: "https://www.ndeo.org/"

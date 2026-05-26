@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 899
 tier: "3"
-relatedArticles: ["film-criticism", "film-history", "filmmaking"]
+relatedArticles: ["film-criticism", "film-history", "filmmaking", "tile-setting", "titanium-forging"]
 externalSources:
   - title: "Society for Cinema and Media Studies"
     url: "https://www.cmstudies.org/"

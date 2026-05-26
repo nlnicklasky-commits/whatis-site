@@ -89,7 +89,7 @@ Linear algebra is the workhorse of modern applied math. The reason is efficiency
 
 ### Probability and Statistics
 
-The real world is noisy. Data is messy. Measurements have errors. People behave unpredictably. [Probability theory](/probability-theory) and [statistics](/accounting) give applied mathematicians the tools to work with uncertainty rather than pretending it doesn't exist.
+The real world is noisy. Data is messy. Measurements have errors. People behave unpredictably. [Probability theory](/probability-theory) and [statistics](/statistics) give applied mathematicians the tools to work with uncertainty rather than pretending it doesn't exist.
 
 Bayesian inference, hypothesis testing, regression analysis, stochastic processes — these techniques appear everywhere from clinical drug trials to weather forecasting to financial risk assessment. The insurance industry is essentially applied probability. So is [machine learning](/machine-learning), which fundamentally is statistical [pattern recognition](/pattern-recognition) at scale.
 
@@ -201,7 +201,7 @@ High-performance computing, parallel processing, and GPU acceleration are now st
 
 Applied mathematics doesn't exist in isolation. It's more like a connective tissue that holds other disciplines together.
 
-[Physics](/aerodynamics) provides many of the problems and much of the intuition. Engineering converts mathematical solutions into physical systems. Computer science provides the computational tools and raises its own mathematical questions. Biology, economics, and social science offer increasingly rich problems that demand new mathematical approaches.
+[Physics](/physics) provides many of the problems and much of the intuition. Engineering converts mathematical solutions into physical systems. Computer science provides the computational tools and raises its own mathematical questions. Biology, economics, and social science offer increasingly rich problems that demand new mathematical approaches.
 
 The interdisciplinary nature of applied math is one of its biggest selling points for students. An applied math degree doesn't lock you into one career path. You learn a way of thinking — breaking complex problems into mathematical structures, solving them systematically, and interpreting the results — that transfers across fields.
 

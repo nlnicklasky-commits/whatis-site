@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1119
 tier: "3"
-relatedArticles: ["philosophy", "critical-thinking", "ethics", "eastern-philosophy"]
+relatedArticles: ["philosophy", "critical-thinking", "ethics", "eastern-philosophy", "social-darwinism"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy - Epistemology"
     url: "https://plato.stanford.edu/entries/epistemology/"

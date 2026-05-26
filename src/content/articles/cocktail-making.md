@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 998
 tier: "3"
-relatedArticles: ["bartending", "beer-brewing", "cooking", "gastronomy"]
+relatedArticles: ["bartending", "beer-brewing", "cooking", "gastronomy", "hydrogen-power"]
 externalSources:
   - title: "Smithsonian - History of the Cocktail"
     url: "https://www.smithsonianmag.com/arts-culture/a-stiff-drink-the-history-of-the-cocktail-180953150/"

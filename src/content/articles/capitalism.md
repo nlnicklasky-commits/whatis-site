@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2752
 tier: "2"
-relatedArticles: ["accounting", "blockchain", "agriculture"]
+relatedArticles: ["accounting", "blockchain", "agriculture", "hawaiian-history", "health-economics"]
 externalSources:
   - title: "Adam Smith - The Wealth of Nations (Library of Economics)"
     url: "https://www.econlib.org/library/Smith/smWN.html"

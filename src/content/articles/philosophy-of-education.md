@@ -35,7 +35,7 @@ faq:
 
 # What Is Philosophy of Education?
 
-[Philosophy](/philosophy) of education is the branch of [philosophy](/ethics) that asks the most basic questions about learning, teaching, and schooling: What is education actually for? What should we teach? How do people learn? Who gets to decide? And --- perhaps most importantly --- what kind of people and society do we want education to produce?
+[Philosophy](/philosophy) of education is the branch of [philosophy](/philosophy) that asks the most basic questions about learning, teaching, and schooling: What is education actually for? What should we teach? How do people learn? Who gets to decide? And --- perhaps most importantly --- what kind of people and society do we want education to produce?
 
 These aren't abstract questions. Every school policy, every curriculum decision, every [teaching](/teaching) method rests on answers to them, whether those answers are stated explicitly or just assumed.
 

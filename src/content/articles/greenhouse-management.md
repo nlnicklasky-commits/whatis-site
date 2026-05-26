@@ -212,7 +212,7 @@ Greenhouse management is evolving rapidly. Several trends stand out:
 
 **Urban greenhouse integration**: Rooftop greenhouses on commercial buildings use waste heat from the building below while supplying fresh produce to the local market. Projects like Gotham Greens in New York and Montreal's Lufa Farms demonstrate the concept.
 
-**Climate adaptation**: As [climate change](/climatology) makes outdoor agriculture less predictable—more extreme heat waves, droughts, floods, and storms—controlled environment [agriculture](/agriculture) becomes increasingly attractive as [insurance](/insurance) against weather variability.
+**Climate adaptation**: As [climate change](/climate-change) makes outdoor agriculture less predictable—more extreme heat waves, droughts, floods, and storms—controlled environment [agriculture](/agriculture) becomes increasingly attractive as [insurance](/insurance) against weather variability.
 
 ## Key Takeaways
 

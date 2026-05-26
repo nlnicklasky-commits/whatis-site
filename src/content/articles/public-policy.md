@@ -37,7 +37,7 @@ Public policy is what governments do (and choose not to do) about public problem
 
 Political scientists describe the policy process as a cycle, though "messy loop" would be more accurate.
 
-**Problem identification.** Something gets recognized as a problem requiring government action. This sounds obvious but isn't — problems don't announce themselves. Millions of Americans lacked [health insurance](/health-law)) for decades before it became a policy priority. Climate science existed for 30+ years before climate policy gained traction. Who gets to define what counts as a "problem" is itself a political question.
+**Problem identification.** Something gets recognized as a problem requiring government action. This sounds obvious but isn't — problems don't announce themselves. Millions of Americans lacked [health insurance](/health-insurance)) for decades before it became a policy priority. Climate science existed for 30+ years before climate policy gained traction. Who gets to define what counts as a "problem" is itself a political question.
 
 **Agenda setting.** Getting a problem onto the political agenda — the list of issues decision-makers are actively considering — requires political will, public attention, or both. John Kingdon's "multiple streams" model suggests that policy change happens when three things align: a recognized problem, a viable solution, and political willingness to act. When these streams converge (often triggered by a crisis or election), a "policy window" opens.
 

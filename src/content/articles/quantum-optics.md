@@ -95,7 +95,7 @@ What actually happens: an interference pattern builds up -- even though each pho
 
 Each single photon somehow "interferes with itself," as if it passed through both slits simultaneously. But if you add detectors to determine which slit the photon went through, the interference pattern disappears. The act of gaining which-path information destroys the quantum superposition.
 
-This experiment, simple in concept and staggering in implications, has been performed thousands of times in quantum [optics](/optical-engineering) labs worldwide. The results are always the same. Photons exhibit wave behavior when unobserved and particle behavior when measured.
+This experiment, simple in concept and staggering in implications, has been performed thousands of times in quantum [optics](/optics) labs worldwide. The results are always the same. Photons exhibit wave behavior when unobserved and particle behavior when measured.
 
 ### Photon Antibunching: Proof That Photons Are Real
 

@@ -63,7 +63,7 @@ This isn't guesswork — it's systematic analysis using engineering principles, 
 
 ### Production System Design
 
-Once you know how individual parts get made, you need to figure out how the whole production system fits together. This is where manufacturing engineering overlaps with [industrial engineering](/engineering) territory.
+Once you know how individual parts get made, you need to figure out how the whole production system fits together. This is where manufacturing engineering overlaps with [industrial engineering](/industrial-engineering) territory.
 
 Questions at this level include: How do materials flow through the factory? Where are the bottlenecks? Should you use a dedicated production line or a flexible job shop? How many machines do you need? Where should inspection stations go? How do you handle work-in-process inventory?
 

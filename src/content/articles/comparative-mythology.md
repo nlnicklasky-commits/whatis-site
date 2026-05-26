@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 945
 tier: "3"
-relatedArticles: ["mythology", "folklore", "celtic-mythology", "greek-mythology"]
+relatedArticles: ["mythology", "folklore", "celtic-mythology", "greek-mythology", "sushi-making"]
 externalSources:
   - title: "Joseph Campbell Foundation"
     url: "https://www.jcf.org/"

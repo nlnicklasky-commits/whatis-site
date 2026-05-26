@@ -99,7 +99,7 @@ Voting reform is gaining traction in the United States and elsewhere:
 
 **Maine** became the first U.S. state to use ranked-choice voting for federal elections in 2018.
 
-**New Zealand** switched from plurality to Mixed Member Proportional representation in 1996, dramatically changing its [political](/[political](/the-history-of-political-science)-science) field from a two-party system to a multi-party democracy.
+**New Zealand** switched from plurality to Mixed Member Proportional representation in 1996, dramatically changing its [political](/political-science) field from a two-party system to a multi-party democracy.
 
 **Over 50 U.S. jurisdictions** now use ranked-choice voting for local or state elections.
 

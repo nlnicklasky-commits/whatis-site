@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1648
 tier: "3"
-relatedArticles: ["modern-history", "naval-history", "philosophy"]
+relatedArticles: ["modern-history", "naval-history", "philosophy", "nineteenth-century-history", "romanticism-art"]
 externalSources:
   - title: "Napoleonic Wars — Encyclopaedia Britannica"
     url: "https://www.britannica.com/event/Napoleonic-Wars"

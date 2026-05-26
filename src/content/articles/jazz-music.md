@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 872
 tier: "3"
-relatedArticles: ["harmony", "indian-classical-music", "instrument-making", "harp"]
+relatedArticles: ["harmony", "indian-classical-music", "instrument-making", "harp", "jukebox-collecting"]
 externalSources:
   - title: "Smithsonian – National Museum of American History Jazz"
     url: "https://americanhistory.si.edu/smithsonian-jazz"

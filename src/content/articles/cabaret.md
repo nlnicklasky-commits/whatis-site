@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 864
 tier: "3"
-relatedArticles: ["art-history", "ballet", "blues-music", "acting"]
+relatedArticles: ["art-history", "ballet", "blues-music", "acting", "museology"]
 externalSources:
   - title: "Cabaret Hotline Online"
     url: "https://www.cabarethotlineonline.com/"

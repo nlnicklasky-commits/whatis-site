@@ -31,7 +31,7 @@ faq:
 
 # What Is Warhammer?
 
-Warhammer is a franchise of tabletop miniature wargames created by Games Workshop, a British company founded in 1975. Players collect, assemble, and paint small plastic miniature figures representing armies, then use them to play strategic battles on tabletop terrain. The two main [game](/[video](/video-game-history)-game-design) systems are Warhammer 40,000 (a grim science-fiction setting) and Warhammer Age of Sigmar (a high-fantasy setting). Together, they form one of the most commercially successful and culturally influential tabletop [gaming](/gaming) properties in the world.
+Warhammer is a franchise of tabletop miniature wargames created by Games Workshop, a British company founded in 1975. Players collect, assemble, and paint small plastic miniature figures representing armies, then use them to play strategic battles on tabletop terrain. The two main [game](/game-design) systems are Warhammer 40,000 (a grim science-fiction setting) and Warhammer Age of Sigmar (a high-fantasy setting). Together, they form one of the most commercially successful and culturally influential tabletop [gaming](/gaming) properties in the world.
 
 ## The Two Universes
 

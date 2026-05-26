@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1037
 tier: "3"
-relatedArticles: ["wood-carving", "wood-finishing", "whittling"]
+relatedArticles: ["wood-carving", "wood-finishing", "whittling", "latticework", "youtube-content-creation"]
 externalSources:
   - title: "Fine Woodworking"
     url: "https://www.finewoodworking.com/"

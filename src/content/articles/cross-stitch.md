@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 931
 tier: "3"
-relatedArticles: ["embroidery", "crochet", "knitting", "textile-arts"]
+relatedArticles: ["embroidery", "crochet", "knitting", "textile-arts", "topiary"]
 externalSources:
   - title: "Victoria and Albert Museum - Textiles"
     url: "https://www.vam.ac.uk/"

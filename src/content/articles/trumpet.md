@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1216
 tier: "3"
-relatedArticles: ["tuba", "viola", "violin", "pop-music"]
+relatedArticles: ["tuba", "viola", "violin", "pop-music", "mycology"]
 externalSources:
   - title: "International Trumpet Guild"
     url: "https://www.trumpetguild.org/"

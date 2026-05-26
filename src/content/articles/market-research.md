@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1562
 tier: "3"
-relatedArticles: ["marketing", "data-analysis", "business-administration"]
+relatedArticles: ["marketing", "data-analysis", "business-administration", "shop-management", "small-business-management"]
 externalSources:
   - title: "American Marketing Association - Market Research Definition"
     url: "https://www.ama.org/topics/market-research/"

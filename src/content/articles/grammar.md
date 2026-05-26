@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1031
 tier: "3"
-relatedArticles: ["greek-language", "haiku", "linguistics"]
+relatedArticles: ["greek-language", "haiku", "linguistics", "pali-language", "philology"]
 externalSources:
   - title: "Linguistic Society of America"
     url: "https://www.linguisticsociety.org/"

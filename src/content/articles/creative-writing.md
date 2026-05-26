@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1068
 tier: "3"
-relatedArticles: ["poetry", "screenwriting", "literary-criticism", "journalism"]
+relatedArticles: ["poetry", "screenwriting", "literary-criticism", "journalism", "scientific-writing"]
 externalSources:
   - title: "Association of Writers & Writing Programs"
     url: "https://www.awpwriter.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1580
 tier: "3"
-relatedArticles: ["the-history-of-mathematics", "the-history-of-technology", "the-history-of-philosophy", "the-history-of-space-exploration"]
+relatedArticles: ["the-history-of-mathematics", "the-history-of-technology", "the-history-of-philosophy", "the-history-of-space-exploration", "psychophysics"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy: Scientific Revolutions"
     url: "https://plato.stanford.edu/entries/scientific-revolutions/"

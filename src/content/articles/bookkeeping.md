@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3040
 tier: "1"
-relatedArticles: ["accounting", "budgeting", "business-administration", "business-ethics"]
+relatedArticles: ["accounting", "budgeting", "business-administration", "business-ethics", "mortgage-banking"]
 externalSources:
   - title: "IRS Record Keeping for Small Business"
     url: "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2810
 tier: "2"
-relatedArticles: ["computer-architecture", "computer-science", "computer-networking", "computer-graphics"]
+relatedArticles: ["computer-architecture", "computer-science", "computer-networking", "computer-graphics", "computer-repair"]
 externalSources:
   - title: "How Computers Work - Computer History Museum"
     url: "https://www.computerhistory.org/revolution/digital-logic/12"

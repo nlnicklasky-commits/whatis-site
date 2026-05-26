@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1088
 tier: "3"
-relatedArticles: ["algorithms", "data-structures", "software-engineering", "design-patterns"]
+relatedArticles: ["algorithms", "data-structures", "software-engineering", "design-patterns", "visual-basic"]
 externalSources:
   - title: "MIT OpenCourseWare - Object-Oriented Programming"
     url: "https://ocw.mit.edu/"

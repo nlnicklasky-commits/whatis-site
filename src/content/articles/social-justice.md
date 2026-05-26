@@ -185,7 +185,7 @@ None of these metrics capture everything. Justice is partly a qualitative experi
 
 ## Where Social Justice Stands Now
 
-The concept of social justice continues to evolve. Climate justice — the recognition that [climate change](/climatology) disproportionately affects poor communities and developing nations that contributed least to the problem — has emerged as a major framework. Digital justice addresses questions about algorithmic bias in [artificial intelligence](/artificial-intelligence), digital privacy, and access to technology. Global justice asks whether wealthy nations have obligations to address poverty and exploitation in developing countries.
+The concept of social justice continues to evolve. Climate justice — the recognition that [climate change](/climate-change) disproportionately affects poor communities and developing nations that contributed least to the problem — has emerged as a major framework. Digital justice addresses questions about algorithmic bias in [artificial intelligence](/artificial-intelligence), digital privacy, and access to technology. Global justice asks whether wealthy nations have obligations to address poverty and exploitation in developing countries.
 
 These are hard questions without clean answers. But the impulse behind social justice — that a fair society doesn't just happen, it has to be built and maintained through deliberate effort — remains as relevant as it was when Plato first asked what justice means.
 

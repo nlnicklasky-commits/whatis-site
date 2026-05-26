@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2425
 tier: "2"
-relatedArticles: ["anatomy", "animal-behavior", "agriculture", "acoustics"]
+relatedArticles: ["anatomy", "animal-behavior", "agriculture", "acoustics", "miniature-golf"]
 externalSources:
   - title: "Smithsonian National Museum of Natural History - Dinosaurs"
     url: "https://naturalhistory.si.edu/exhibits/david-h-koch-hall-fossils-deep-time"

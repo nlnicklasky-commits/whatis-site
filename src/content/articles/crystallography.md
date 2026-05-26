@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2502
 tier: "2"
-relatedArticles: ["cosmology", "anatomy", "algorithms", "acoustics"]
+relatedArticles: ["cosmology", "anatomy", "algorithms", "acoustics", "protein-chemistry"]
 externalSources:
   - title: "International Union of Crystallography"
     url: "https://www.iucr.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3049
 tier: "1"
-relatedArticles: ["budgeting", "corporate-finance", "capitalism", "data-analysis"]
+relatedArticles: ["budgeting", "corporate-finance", "capitalism", "data-analysis", "health-economics"]
 externalSources:
   - title: "Healthcare.gov - Glossary"
     url: "https://www.healthcare.gov/glossary/"

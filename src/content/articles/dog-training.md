@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1054
 tier: "3"
-relatedArticles: ["animal-behavior", "psychology", "education"]
+relatedArticles: ["animal-behavior", "psychology", "education", "preservation-food", "scent-training-dogs"]
 externalSources:
   - title: "American Kennel Club - Training"
     url: "https://www.akc.org/expert-advice/training/"

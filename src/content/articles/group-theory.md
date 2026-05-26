@@ -151,7 +151,7 @@ Emmy Noether's 1918 theorem—one of the most important results in [theoretical 
 - Symmetry under spatial translation (physics works the same here as there) gives conservation of momentum
 - Symmetry under rotation (physics works the same in every direction) gives conservation of angular momentum
 
-Each of these symmetries corresponds to a group. Time translations form a group. Spatial translations form a group. Rotations form SO(3). Noether showed that the group structure directly determines the conservation law. This connection between symmetry groups and conservation laws is the deepest organizing principle in [physics](/classical-mechanics).
+Each of these symmetries corresponds to a group. Time translations form a group. Spatial translations form a group. Rotations form SO(3). Noether showed that the group structure directly determines the conservation law. This connection between symmetry groups and conservation laws is the deepest organizing principle in [physics](/physics).
 
 ### [Particle Physics](/particle-physics) and the Standard Model
 

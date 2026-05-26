@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1114
 tier: "3"
-relatedArticles: ["visual-arts", "wall-painting", "sculpture"]
+relatedArticles: ["visual-arts", "wall-painting", "sculpture", "realism-art", "romanticism-art"]
 externalSources:
   - title: "The Metropolitan Museum of Art — Heilbrunn Timeline of Art History"
     url: "https://www.metmuseum.org/toah/"

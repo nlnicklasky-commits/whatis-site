@@ -60,7 +60,7 @@ The Vedic period (c. 1500–500 BCE) brought the [Sanskrit](/sanskrit) texts tha
 
 The Maurya Empire (322–185 BCE) under Ashoka achieved something rare — an enormous empire governed, at least in theory, by Buddhist principles of non-violence and tolerance. Ashoka's edicts, carved into rocks and pillars across the subcontinent, represent one of the earliest documented attempts to govern according to ethical principles rather than pure power.
 
-The Gupta period (320–550 CE) is sometimes called India's "Golden Age" — a label that oversimplifies but captures something real. Indian mathematicians developed the decimal numeral system and the concept of zero. Astronomers calculated the Earth's circumference. Sanskrit [literature](/literature) and [drama](/drama) flourished. These intellectual achievements would eventually reach Europe through Arab intermediaries and reshape global [mathematics](/calculus) and science.
+The Gupta period (320–550 CE) is sometimes called India's "Golden Age" — a label that oversimplifies but captures something real. Indian mathematicians developed the decimal numeral system and the concept of zero. Astronomers calculated the Earth's circumference. Sanskrit [literature](/literature) and [drama](/drama) flourished. These intellectual achievements would eventually reach Europe through Arab intermediaries and reshape global [mathematics](/mathematics) and science.
 
 ### Japan, Korea, and Southeast Asia
 
@@ -94,7 +94,7 @@ The empire's sophisticated system of administration, tax collection, and religio
 
 ### The Ottoman Empire
 
-The Ottoman Empire (c. 1299–1922) controlled vast territories in West Asia, North Africa, and southeastern Europe. Istanbul (Constantinople) served as one of the world's great cities for centuries. Ottoman [architecture](/architectural-history), [calligraphy](/calligraphy), and administrative systems influenced the entire Middle East and beyond.
+The Ottoman Empire (c. 1299–1922) controlled vast territories in West Asia, North Africa, and southeastern Europe. Istanbul (Constantinople) served as one of the world's great cities for centuries. Ottoman [architecture](/architecture), [calligraphy](/calligraphy), and administrative systems influenced the entire Middle East and beyond.
 
 ## Colonialism and Its Aftermath
 

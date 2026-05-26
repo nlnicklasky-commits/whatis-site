@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 15
 wordCount: 4070
 tier: "1"
-relatedArticles: ["artificial-intelligence", "deep-learning"]
+relatedArticles: ["artificial-intelligence", "deep-learning", "eeg-technology", "geomatics"]
 externalSources:
   - title: "Machine Learning Basics - MIT OpenCourseWare"
     url: "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/"

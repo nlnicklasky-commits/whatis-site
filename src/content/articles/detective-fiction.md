@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 908
 tier: "3"
-relatedArticles: ["creative-writing", "mystery-fiction", "literary-criticism", "criminology"]
+relatedArticles: ["creative-writing", "mystery-fiction", "literary-criticism", "criminology", "vocal-coaching"]
 externalSources:
   - title: "Mystery Writers of America"
     url: "https://mysterywriters.org/"

@@ -31,7 +31,7 @@ faq:
 
 # What Is Gourmet [Cooking](/cooking)?
 
-Gourmet cooking is the preparation of [food](/[food](/food-styling)-science) with exceptional attention to ingredient quality, cooking technique, flavor balance, and visual presentation. It's not a strict category — there's no governing body that certifies a dish as "gourmet." Instead, it's a standard of care and intention that separates cooking done with precision and thought from cooking done on autopilot. A perfectly roasted chicken with crispy skin, moist meat, and a pan sauce made from the drippings can be gourmet. A complicated dish with 30 components that doesn't taste good isn't.
+Gourmet cooking is the preparation of [food](/food-science) with exceptional attention to ingredient quality, cooking technique, flavor balance, and visual presentation. It's not a strict category — there's no governing body that certifies a dish as "gourmet." Instead, it's a standard of care and intention that separates cooking done with precision and thought from cooking done on autopilot. A perfectly roasted chicken with crispy skin, moist meat, and a pan sauce made from the drippings can be gourmet. A complicated dish with 30 components that doesn't taste good isn't.
 
 ## What Makes It Different
 

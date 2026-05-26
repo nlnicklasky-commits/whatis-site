@@ -68,7 +68,7 @@ The factory system upended all of that. Richard Arkwright's water-powered spinni
 
 The railroad transformed business [geography](/geography). Before railways, markets were local. A manufacturer could only sell within the distance a horse could travel. Railways connected distant markets, enabling mass production and mass distribution for the first time. The railroad companies themselves became the first truly large-scale business organizations, requiring management structures that previous businesses never needed.
 
-This is where modern [management](/business-administration) was born. [Running](/running) a railroad with thousands of employees spread across hundreds of miles demanded new approaches to organization, communication, and control. The divisional structure, middle management, cost accounting — all emerged from the practical challenges of running these vast enterprises.
+This is where modern [management](/management) was born. [Running](/running) a railroad with thousands of employees spread across hundreds of miles demanded new approaches to organization, communication, and control. The divisional structure, middle management, cost accounting — all emerged from the practical challenges of running these vast enterprises.
 
 ## The Age of the Corporation
 

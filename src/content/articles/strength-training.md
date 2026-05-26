@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1800
 tier: "3"
-relatedArticles: ["anatomy", "biomechanics", "nutrition"]
+relatedArticles: ["anatomy", "biomechanics", "nutrition", "calisthenics"]
 externalSources:
   - title: "ACSM Guidelines for Exercise Testing and Prescription"
     url: "https://www.acsm.org/education-resources/books/guidelines-exercise-testing-prescription"

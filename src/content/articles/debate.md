@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 935
 tier: "3"
-relatedArticles: ["rhetoric", "oratory", "critical-thinking", "public-speaking"]
+relatedArticles: ["rhetoric", "oratory", "critical-thinking", "public-speaking", "german-language"]
 externalSources:
   - title: "National Speech & Debate Association"
     url: "https://www.speechanddebate.org/"

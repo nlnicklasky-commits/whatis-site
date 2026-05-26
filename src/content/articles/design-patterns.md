@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3075
 tier: "1"
-relatedArticles: ["algorithms", "app-development", "agile-software-development", "machine-learning"]
+relatedArticles: ["algorithms", "app-development", "agile-software-development", "machine-learning", "telescope-making"]
 externalSources:
   - title: "Design Patterns: Elements of Reusable Object-Oriented Software"
     url: "https://en.wikipedia.org/wiki/Design_Patterns"

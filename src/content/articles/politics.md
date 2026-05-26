@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1042
 tier: "3"
-relatedArticles: ["political-science", "public-policy", "economics", "sociology"]
+relatedArticles: ["political-science", "public-policy", "economics", "sociology", "latin-american-history"]
 externalSources:
   - title: "Britannica — Politics"
     url: "https://www.britannica.com/topic/politics"

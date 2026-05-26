@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 914
 tier: "3"
-relatedArticles: ["iconography", "illustration", "landscape-painting", "aesthetics"]
+relatedArticles: ["iconography", "illustration", "landscape-painting", "aesthetics", "water-color-painting"]
 externalSources:
   - title: "Impressionism – Metropolitan Museum of Art"
     url: "https://www.metmuseum.org/toah/hd/imml/hd_imml.htm"

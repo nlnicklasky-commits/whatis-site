@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 971
 tier: "3"
-relatedArticles: ["gardening", "farming", "agriculture", "botany"]
+relatedArticles: ["gardening", "farming", "agriculture", "botany", "orchid-growing"]
 externalSources:
   - title: "USDA — Fruit and Tree Nuts"
     url: "https://www.ers.usda.gov/topics/crops/fruit-tree-nuts/"

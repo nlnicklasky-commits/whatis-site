@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3569
 tier: "1"
-relatedArticles: ["abstract-algebra", "machine-learning", "accounting", "aerodynamics"]
+relatedArticles: ["abstract-algebra", "machine-learning", "accounting", "aerodynamics", "protozoology"]
 externalSources:
   - title: "Khan Academy Algebra"
     url: "https://www.khanacademy.org/math/algebra"

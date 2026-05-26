@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 987
 tier: "3"
-relatedArticles: ["card-games", "chess", "board-games"]
+relatedArticles: ["card-games", "chess", "board-games", "scent-training-dogs", "shakespearean-literature"]
 externalSources:
   - title: "World Domino Federation"
     url: "https://www.fdmworlddomino.com/"

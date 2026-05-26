@@ -35,7 +35,7 @@ American football is a team sport in which two teams of 11 players each compete 
 
 ## From Rugby Fields to Gridiron
 
-American football didn't spring from nothing. It evolved from [rugby](/sports-history) and association football ([soccer](/soccer)) in the late 19th century. The first college football game, played between Rutgers and Princeton on November 6, 1869, looked a lot more like soccer than anything you'd recognize today.
+American football didn't spring from nothing. It evolved from [rugby](/rugby) and association football ([soccer](/soccer)) in the late 19th century. The first college football game, played between Rutgers and Princeton on November 6, 1869, looked a lot more like soccer than anything you'd recognize today.
 
 Walter Camp, a Yale player and coach, is generally credited as the "Father of American Football." During the 1880s, he introduced the line of scrimmage, the snap from center, the down-and-distance system, and the concept of set plays. These rule changes — especially the requirement to gain a certain number of yards within a set number of attempts — transformed a chaotic scrum into a strategic, play-by-play contest.
 

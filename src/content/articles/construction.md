@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1032
 tier: "3"
-relatedArticles: ["architecture", "civil-engineering", "carpentry", "masonry"]
+relatedArticles: ["architecture", "civil-engineering", "carpentry", "masonry", "barbecuing"]
 externalSources:
   - title: "Bureau of Labor Statistics - Construction"
     url: "https://www.bls.gov/iag/tgs/iag23.htm"

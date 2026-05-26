@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1062
 tier: "3"
-relatedArticles: ["harmonica", "haiku", "folk-art"]
+relatedArticles: ["harmonica", "haiku", "folk-art", "plasma-physics", "salsa-dancing"]
 externalSources:
   - title: "Smithsonian — Musical Instrument Collection"
     url: "https://americanhistory.si.edu/collections/subjects/musical-instruments"

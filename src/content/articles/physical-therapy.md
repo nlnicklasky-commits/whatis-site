@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1560
 tier: "3"
-relatedArticles: ["anatomy", "personal-training", "biology"]
+relatedArticles: ["anatomy", "personal-training", "biology", "podiatry"]
 externalSources:
   - title: "American Physical Therapy Association"
     url: "https://www.apta.org/"

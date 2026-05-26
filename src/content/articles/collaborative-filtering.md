@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2686
 tier: "2"
-relatedArticles: ["machine-learning", "algorithms", "app-development", "cognitive-bias"]
+relatedArticles: ["machine-learning", "algorithms", "app-development", "cognitive-bias", "stereoscopy"]
 externalSources:
   - title: "ACM Recommender Systems Conference"
     url: "https://recsys.acm.org/"

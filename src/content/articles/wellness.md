@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1596
 tier: "3"
-relatedArticles: ["yoga", "walking", "water-aerobics", "wilderness-first-aid"]
+relatedArticles: ["yoga", "walking", "water-aerobics", "wilderness-first-aid", "sound-healing"]
 externalSources:
   - title: "WHO: Constitution"
     url: "https://www.who.int/about/accountability/governance/constitution"

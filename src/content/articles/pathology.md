@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1633
 tier: "3"
-relatedArticles: ["biology", "cell-biology", "anatomy"]
+relatedArticles: ["biology", "cell-biology", "anatomy", "podiatry", "speech-pathology"]
 externalSources:
   - title: "College of American Pathologists"
     url: "https://www.cap.org/"
@@ -53,7 +53,7 @@ Giovanni Morgagni, an Italian anatomist, published *De Sedibus et Causis Morboru
 
 Rudolf Virchow took things further in 1858 with his book *Cellular Pathology*, arguing that all disease originates at the cellular level. Virchow's insight — that every sick organ is made of sick cells — remains the foundation of pathology today. He's often called the father of modern pathology, and the title is well earned.
 
-The 20th century brought a cascade of new tools: better microscopes, chemical staining techniques that made cell structures visible, [electron microscopy](/electricity)) for subcellular detail, immunohistochemistry that uses antibodies to identify specific proteins in tissue, and eventually molecular diagnostics — techniques that detect disease at the DNA and RNA level.
+The 20th century brought a cascade of new tools: better microscopes, chemical staining techniques that made cell structures visible, [electron microscopy](/electron-microscopy)) for subcellular detail, immunohistochemistry that uses antibodies to identify specific proteins in tissue, and eventually molecular diagnostics — techniques that detect disease at the DNA and RNA level.
 
 Today's pathology is a blend of the traditional (looking at cells under glass) and the advanced (sequencing tumor genomes to guide precision cancer therapy). The microscope hasn't gone anywhere, but it's been joined by an arsenal of molecular, genetic, and digital tools that Virchow couldn't have imagined.
 

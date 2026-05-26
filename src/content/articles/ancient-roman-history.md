@@ -112,7 +112,7 @@ The Eastern Empire — which we call the Byzantine Empire — continued for near
 
 Rome's legacy is everywhere, and you probably don't notice most of it. The [calendar](/astronomy) you use is essentially Julius Caesar's reform. The legal systems of most Western countries descend from Roman law. Republican government — with its separation of powers, checks and balances, and representative institutions — was explicitly modeled on Rome by the American founders. Even the U.S. Senate takes its name directly from the Roman Senatus.
 
-Roman engineering and [architecture](/archaeology) influenced every subsequent Western building tradition. The arch, the dome, concrete [construction](/construction) — these were Roman perfections of earlier techniques. When Renaissance architects rediscovered Roman principles, they reshaped European cities.
+Roman engineering and [architecture](/architecture) influenced every subsequent Western building tradition. The arch, the dome, concrete [construction](/construction) — these were Roman perfections of earlier techniques. When Renaissance architects rediscovered Roman principles, they reshaped European cities.
 
 But Rome also offers cautionary lessons. The Republic fell because its institutions couldn't adapt to new realities — wealth inequality, military power concentrated in individual hands, political violence normalized as a tool. The Empire lasted through authoritarianism that eventually became rigid and brittle. These patterns recur throughout history, which is why historians keep returning to Rome.
 

@@ -82,7 +82,7 @@ Transcendentalism emerged during a period of rapid change in America — industr
 - **Materialism** — The growing commercial culture of the 1830s-40s prioritized wealth over wisdom
 - **Conformity** — Social pressure to fit in conflicted with the transcendentalist emphasis on individual expression
 
-The movement was influenced by European Romanticism (Wordsworth, Coleridge, Carlyle), German idealist [philosophy](/philately)) (Kant, Hegel), and Eastern religious texts (Hindu and Buddhist writings that Emerson and Thoreau read avidly).
+The movement was influenced by European Romanticism (Wordsworth, Coleridge, Carlyle), German idealist [philosophy](/philosophy)) (Kant, Hegel), and Eastern religious texts (Hindu and Buddhist writings that Emerson and Thoreau read avidly).
 
 ## The Legacy
 

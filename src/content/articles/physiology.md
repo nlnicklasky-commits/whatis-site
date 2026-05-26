@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 954
 tier: "3"
-relatedArticles: ["anatomy", "nutrition", "physical-chemistry", "psychology"]
+relatedArticles: ["anatomy", "nutrition", "physical-chemistry", "psychology", "gravitational-biology"]
 externalSources:
   - title: "American Physiological Society"
     url: "https://www.physiology.org/"

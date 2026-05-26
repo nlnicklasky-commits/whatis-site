@@ -81,7 +81,7 @@ Past a certain point — the yield point — the curve bends. Now you're in the 
 
 ## Hooke's Law: The Foundation
 
-Robert Hooke figured this out in 1660, and his insight remains one of the most useful relationships in all of [physics](/classical-mechanics). Hooke's law states:
+Robert Hooke figured this out in 1660, and his insight remains one of the most useful relationships in all of [physics](/physics). Hooke's law states:
 
 **F = kx**
 
@@ -234,7 +234,7 @@ This technique works because the speed of sound in a solid is directly related t
 
 At very small scales, traditional tensile testing doesn't work. You can't make a test specimen from a thin film that's only a few micrometers thick. Nanoindentation solves this by pressing a tiny diamond tip into a material surface with precisely controlled force while measuring displacement with nanometer resolution. The resulting force-displacement curve reveals local elastic properties.
 
-This technique has been transformational for [materials science](/chemistry) research, enabling elastic property measurement of individual grains within a polycrystalline material, thin film coatings, and even biological cells.
+This technique has been transformational for [materials science](/materials-science) research, enabling elastic property measurement of individual grains within a polycrystalline material, thin film coatings, and even biological cells.
 
 ## Advanced Topics: Anisotropy and Viscoelasticity
 
@@ -260,7 +260,7 @@ We understand elasticity extraordinarily well for traditional engineering materi
 
 But new materials keep pushing boundaries. Metamaterials with negative Poisson's ratio (they expand sideways when stretched, instead of contracting) challenge classical intuition. Hydrogels that are 90% water yet behave elastically require new theoretical frameworks. Shape-memory alloys that recover enormous strains upon heating blur the line between elastic and plastic behavior.
 
-Understanding elasticity remains as important as ever in [engineering](/civil-engineering) and [materials science](/chemistry). Every structure you walk through, every vehicle you ride in, every device you hold relies on engineers who understood exactly how far a material could bend — and more importantly, how far it couldn't.
+Understanding elasticity remains as important as ever in [engineering](/civil-engineering) and [materials science](/materials-science). Every structure you walk through, every vehicle you ride in, every device you hold relies on engineers who understood exactly how far a material could bend — and more importantly, how far it couldn't.
 
 ## Key Takeaways
 

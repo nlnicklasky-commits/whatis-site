@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1420
 tier: "3"
-relatedArticles: ["storytelling", "drama", "public-speaking"]
+relatedArticles: ["storytelling", "drama", "public-speaking", "locksmithing", "mosaic-art"]
 externalSources:
   - title: "Britannica — Acting"
     url: "https://www.britannica.com/art/acting"

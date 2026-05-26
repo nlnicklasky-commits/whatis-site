@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2396
 tier: "2"
-relatedArticles: ["classical-mechanics", "chemistry", "automotive-engineering", "civil-engineering"]
+relatedArticles: ["classical-mechanics", "chemistry", "automotive-engineering", "civil-engineering", "tropical-agriculture"]
 externalSources:
   - title: "Society of Tribologists and Lubrication Engineers"
     url: "https://www.stle.org/"

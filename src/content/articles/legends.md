@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1048
 tier: "3"
-relatedArticles: ["mythology", "folklore", "storytelling", "anthropology"]
+relatedArticles: ["mythology", "folklore", "storytelling", "anthropology", "paintball"]
 externalSources:
   - title: "American Folklore Society"
     url: "https://www.afsnet.org/"

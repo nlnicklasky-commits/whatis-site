@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2306
 tier: "2"
-relatedArticles: ["agriculture", "agronomy", "carbohydrate-chemistry", "sourdough"]
+relatedArticles: ["agriculture", "agronomy", "carbohydrate-chemistry", "sourdough", "river-ecology"]
 externalSources:
   - title: "AACC International (Cereals & Grains Association)"
     url: "https://www.cerealsgrains.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1542
 tier: "3"
-relatedArticles: ["archaeology", "anthropology", "agriculture", "christianity"]
+relatedArticles: ["archaeology", "anthropology", "agriculture", "christianity", "mural-painting"]
 externalSources:
   - title: "Britannica - History of Mexico"
     url: "https://www.britannica.com/place/Mexico/History"

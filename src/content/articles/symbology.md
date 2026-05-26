@@ -73,7 +73,7 @@ Logos are modern symbols, designed to condense a brand's identity into a single 
 
 ## Symbology as a Field
 
-Academic symbology draws from multiple disciplines: [art history](/art-history), religious studies, [anthropology](/linguistics), [psychology](/psychology), [literary criticism](/literary-criticism), and semiotics (the broader study of signs and meaning). Carl Jung's work on archetypes — universal symbolic patterns he believed were embedded in the collective unconscious — has been particularly influential.
+Academic symbology draws from multiple disciplines: [art history](/art-history), religious studies, [anthropology](/anthropology), [psychology](/psychology), [literary criticism](/literary-criticism), and semiotics (the broader study of signs and meaning). Carl Jung's work on archetypes — universal symbolic patterns he believed were embedded in the collective unconscious — has been particularly influential.
 
 The study of symbols also has practical applications in branding, [graphic design](/graphic-design), user interface design, and cross-cultural communication. Understanding what symbols mean to different audiences prevents embarrassing (or offensive) mistakes.
 

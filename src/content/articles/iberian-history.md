@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1590
 tier: "3"
-relatedArticles: ["medieval-history", "european-history", "archaeology", "comparative-religion"]
+relatedArticles: ["medieval-history", "european-history", "archaeology", "comparative-religion", "turkish-history"]
 externalSources:
   - title: "Encyclopaedia Britannica: Iberian Peninsula"
     url: "https://www.britannica.com/place/Iberian-Peninsula"

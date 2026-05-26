@@ -145,7 +145,7 @@ The primary air pollutants from smelting include:
 
 **Heavy metals.** Smelter emissions contain particulate matter laden with toxic metals — lead, arsenic, cadmium, and mercury, depending on the ore. These settle on surrounding soils and waterways, creating long-lasting contamination. Several former smelter sites in the United States are now Superfund cleanup locations.
 
-**Carbon dioxide.** Carbon-based smelting inherently produces CO2. The steel industry alone accounts for roughly 7-9% of global CO2 emissions — making it one of the single largest industrial contributors to [climate change](/climatology).
+**Carbon dioxide.** Carbon-based smelting inherently produces CO2. The steel industry alone accounts for roughly 7-9% of global CO2 emissions — making it one of the single largest industrial contributors to [climate change](/climate-change).
 
 ### Modern Controls
 
@@ -189,7 +189,7 @@ Some figures to put smelting's scale in perspective:
 
 You might think smelting is old technology — something that belonged to the Industrial Revolution. And it's true that the basic chemistry hasn't changed much. But smelting remains one of the most important industrial processes on the planet. Every steel beam in every skyscraper, every copper wire in every [circuit](/circuit-design), every aluminum can — all of it started in a smelter.
 
-The challenge ahead is doing it with a smaller environmental footprint. Green hydrogen steelmaking, inert anode aluminum smelting (which would produce oxygen instead of CO2), carbon capture and storage, and increased [recycling](/environmental-science) of metals are all being pursued. Some of these technologies work in the lab but need decades to reach full industrial scale.
+The challenge ahead is doing it with a smaller environmental footprint. Green hydrogen steelmaking, inert anode aluminum smelting (which would produce oxygen instead of CO2), carbon capture and storage, and increased [recycling](/recycling) of metals are all being pursued. Some of these technologies work in the lab but need decades to reach full industrial scale.
 
 Smelting is one of those processes that sits quietly behind modern life, unseen and underappreciated. The phone in your hand? Its [components](/electronics) required copper, aluminum, tin, gold, and a dozen other metals — all extracted through some form of smelting. The building you're sitting in? Steel frame. Smelted. The car outside? Smelted steel, smelted aluminum, smelted copper wiring.
 

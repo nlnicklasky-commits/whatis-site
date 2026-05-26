@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 2024
 tier: "2"
-relatedArticles: ["cognitive-psychology", "behavioral-psychology", "cognitive-neuroscience", "biology"]
+relatedArticles: ["cognitive-psychology", "behavioral-psychology", "cognitive-neuroscience", "biology", "teratology"]
 externalSources:
   - title: "The Parapsychological Association"
     url: "https://www.parapsych.org/"

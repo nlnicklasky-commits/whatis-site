@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1050
 tier: "3"
-relatedArticles: ["sound-design", "screenwriting", "sports-photography"]
+relatedArticles: ["sound-design", "screenwriting", "sports-photography", "makeup-artistry"]
 externalSources:
   - title: "Academy of Motion Picture Arts and Sciences - Visual Effects"
     url: "https://www.oscars.org/"

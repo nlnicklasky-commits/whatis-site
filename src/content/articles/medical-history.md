@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1620
 tier: "3"
-relatedArticles: ["medical-ethics", "medical-anthropology", "anatomy"]
+relatedArticles: ["medical-ethics", "medical-anthropology", "anatomy", "nineteenth-century-history", "wilderness-first-aid"]
 externalSources:
   - title: "National Library of Medicine - History of Medicine"
     url: "https://www.nlm.nih.gov/hmd/index.html"

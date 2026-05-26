@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 974
 tier: "3"
-relatedArticles: ["pop-music", "pop-art"]
+relatedArticles: ["pop-music", "pop-art", "tarot-reading", "thai-language"]
 externalSources:
   - title: "Britannica — Popular Culture"
     url: "https://www.britannica.com/topic/popular-culture"

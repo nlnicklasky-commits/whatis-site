@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1489
 tier: "3"
-relatedArticles: ["anatomy", "bioengineering", "biomechanics"]
+relatedArticles: ["anatomy", "bioengineering", "biomechanics", "makeup-artistry", "plastics-engineering"]
 externalSources:
   - title: "American Academy of Orthotists and Prosthetists"
     url: "https://www.oandp.org/"

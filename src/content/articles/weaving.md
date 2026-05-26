@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 869
 tier: "3"
-relatedArticles: ["upholstery", "quilting", "woodworking"]
+relatedArticles: ["upholstery", "quilting", "woodworking", "latticework"]
 externalSources:
   - title: "Handweavers Guild of America"
     url: "https://weavespindye.org/"

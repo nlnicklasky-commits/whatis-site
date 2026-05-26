@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1041
 tier: "3"
-relatedArticles: ["baking", "gastronomy", "culinary-arts", "barbecuing"]
+relatedArticles: ["baking", "gastronomy", "culinary-arts", "barbecuing", "cocktail-making"]
 externalSources:
   - title: "USDA - Food Safety"
     url: "https://www.fsis.usda.gov/"

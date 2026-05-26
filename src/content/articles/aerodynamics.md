@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3488
 tier: "1"
-relatedArticles: ["machine-learning", "blockchain", "cognitive-bias"]
+relatedArticles: ["machine-learning", "blockchain", "cognitive-bias", "kites", "model-rockets"]
 externalSources:
   - title: "NASA Beginner's Guide to Aerodynamics"
     url: "https://www.grc.nasa.gov/www/k-12/airplane/bga.html"

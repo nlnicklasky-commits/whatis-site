@@ -67,7 +67,7 @@ There are several flux types:
 
 **Water-soluble flux** is more aggressive, leaving residues that must be cleaned after soldering (they're corrosive if left on the board). But the stronger cleaning action makes it useful for heavily oxidized surfaces.
 
-**No-clean flux** is designed to leave benign residues that don't need removal. Most modern [electronics](/computer-hardware) manufacturing uses no-clean flux to skip the post-soldering wash step.
+**No-clean flux** is designed to leave benign residues that don't need removal. Most modern [electronics](/electronics) manufacturing uses no-clean flux to skip the post-soldering wash step.
 
 ## The Tools of the Trade
 
@@ -157,7 +157,7 @@ This intermetallic layer is what makes a solder joint a true metallurgical bond 
 
 Too much intermetallic growth is bad — the compounds are brittle. This is why you don't want to overheat joints or reflow them more times than necessary. Each reflow cycle grows the intermetallic layer further.
 
-Different solder alloys form different intermetallics with different properties. This is a whole field of study in [materials science](/chemistry), and alloy selection for specific applications gets surprisingly technical. Aerospace and military specifications, for instance, call out exact alloy compositions, flux types, and inspection criteria.
+Different solder alloys form different intermetallics with different properties. This is a whole field of study in [materials science](/materials-science), and alloy selection for specific applications gets surprisingly technical. Aerospace and military specifications, for instance, call out exact alloy compositions, flux types, and inspection criteria.
 
 ## Common Soldering Defects
 
@@ -211,7 +211,7 @@ HVAC ductwork, [roofing](/roofing), and decorative metalwork all use soldering f
 
 Soldering is ancient. Archaeological evidence shows soldering in Mesopotamia dating back to roughly 3000 BCE. The Egyptians soldered gold jewelry. Roman plumbers (the word "plumber" comes from *plumbum*, Latin for lead) joined lead pipes with solder. The basic technique — clean the surfaces, apply flux, flow a lower-melting-point metal into the joint — hasn't fundamentally changed in five millennia.
 
-The big shift came with [electronics](/computer-hardware). As vacuum tubes gave way to transistors in the 1950s, and transistors gave way to integrated circuits in the 1960s, the scale of soldering changed dramatically. Where a radio might have had 50 solder joints, a modern smartphone has thousands.
+The big shift came with [electronics](/electronics). As vacuum tubes gave way to transistors in the 1950s, and transistors gave way to integrated circuits in the 1960s, the scale of soldering changed dramatically. Where a radio might have had 50 solder joints, a modern smartphone has thousands.
 
 The 2006 RoHS directive was probably the single biggest disruption to the soldering industry in [modern history](/modern-history). Overnight, manufacturers had to retool for lead-free alloys that behaved differently, required higher temperatures, and produced joints that looked different from what inspectors had been trained to evaluate for decades. The transition cost the industry billions — but it removed roughly 10,000 metric tons of lead per year from the electronics waste stream.
 

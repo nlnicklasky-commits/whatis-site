@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1698
 tier: "3"
-relatedArticles: ["cognitive-psychology", "behavioral-psychology", "developmental-psychology"]
+relatedArticles: ["cognitive-psychology", "behavioral-psychology", "developmental-psychology", "ultrasonography", "urology"]
 externalSources:
   - title: "American Association for Marriage and Family Therapy"
     url: "https://www.aamft.org/Consumer_Updates/Family_Therapy.aspx"

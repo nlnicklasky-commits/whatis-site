@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1036
 tier: "3"
-relatedArticles: ["algorithms", "neural-networks", "physical-chemistry", "engineering"]
+relatedArticles: ["algorithms", "neural-networks", "physical-chemistry", "engineering", "laser-technology"]
 externalSources:
   - title: "ASML - How Microchips Are Made"
     url: "https://www.asml.com/en/technology/lithography-principles"

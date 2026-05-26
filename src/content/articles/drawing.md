@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 994
 tier: "3"
-relatedArticles: ["painting", "digital-art", "calligraphy", "sculpture"]
+relatedArticles: ["painting", "digital-art", "calligraphy", "sculpture", "dance-history"]
 externalSources:
   - title: "The Metropolitan Museum of Art - Drawings Collection"
     url: "https://www.metmuseum.org/"
@@ -51,7 +51,7 @@ Michelangelo, Raphael, and Durer were equally accomplished draftsmen. The Renais
 
 **[Colored pencils](/painting)** bridge drawing and painting. Professional-grade colored pencils (Prismacolor, Faber-Castell Polychromos) layer and blend to produce paintings on paper. The medium is more controllable than paint but slower — a detailed colored pencil drawing can take 40-100+ hours.
 
-**Digital tools** — tablets and stylus pens with software like Procreate, Photoshop, or Clip Studio Paint — have become essential for commercial [illustration](/digital-art). The fundamental drawing skills are identical; only the surface changes.
+**Digital tools** — tablets and stylus pens with software like Procreate, Photoshop, or Clip Studio Paint — have become essential for commercial [illustration](/illustration). The fundamental drawing skills are identical; only the surface changes.
 
 ## The Core Skills
 

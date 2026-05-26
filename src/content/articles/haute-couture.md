@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 989
 tier: "3"
-relatedArticles: ["interior-design", "illustration", "aesthetics"]
+relatedArticles: ["interior-design", "illustration", "aesthetics", "mens-fashion"]
 externalSources:
   - title: "Federation de la Haute Couture et de la Mode"
     url: "https://fhcm.paris/en/"

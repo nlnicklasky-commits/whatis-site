@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 975
 tier: "3"
-relatedArticles: ["french-horn", "folk-music", "harmonica"]
+relatedArticles: ["french-horn", "folk-music", "harmonica", "turning-wood"]
 externalSources:
   - title: "National Flute Association"
     url: "https://www.nfaonline.org/"

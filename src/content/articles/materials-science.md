@@ -57,7 +57,7 @@ At the most fundamental level, materials behave differently because their atoms 
 
 **Van der Waals forces** and **hydrogen bonds** are weaker interactions that determine properties of polymers and biological materials. The difference between a hard plastic and a soft rubber often comes down to how polymer chains interact through these secondary bonds.
 
-This atomic-level understanding connects materials science to [chemistry](/chemistry), [physics](/physics), and [quantum mechanics](/quantum-mechanics). You can't fully understand why silicon is a semiconductor without understanding its electronic band structure, which is pure [quantum mechanics](/physics).
+This atomic-level understanding connects materials science to [chemistry](/chemistry), [physics](/physics), and [quantum mechanics](/quantum-mechanics). You can't fully understand why silicon is a semiconductor without understanding its electronic band structure, which is pure [quantum mechanics](/quantum-mechanics).
 
 ### Crystal Structure
 

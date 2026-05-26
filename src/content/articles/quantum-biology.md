@@ -137,7 +137,7 @@ If an adenine proton tunnels to the wrong position just as the DNA replication m
 
 For decades this was just a theoretical possibility. But computational studies published between 2019 and 2024 using advanced quantum mechanical simulations have shown that proton tunneling in DNA base pairs does occur at biologically relevant rates. A 2022 study in *[Physical Chemistry](/physical-chemistry) Chemical Physics* calculated that the probability of tautomeric states created by tunneling is significant enough to contribute to spontaneous mutation rates.
 
-This doesn't mean all mutations are quantum mechanical. Most arise from chemical damage, replication errors, or environmental factors. But quantum tunneling may contribute a baseline rate of spontaneous mutations that has been operating since the origin of life. If true, [quantum mechanics](/quantum-chemistry) is literally one of the engines of evolution.
+This doesn't mean all mutations are quantum mechanical. Most arise from chemical damage, replication errors, or environmental factors. But quantum tunneling may contribute a baseline rate of spontaneous mutations that has been operating since the origin of life. If true, [quantum mechanics](/quantum-mechanics) is literally one of the engines of evolution.
 
 ## Smell: The Vibrational Theory
 
@@ -225,7 +225,7 @@ A few clarifications, because this field attracts a lot of pseudoscience:
 
 Quantum biology does NOT support claims about "quantum healing," "quantum consciousness manifesting reality," or any of the other mystical interpretations of quantum mechanics that populate self-help books. The quantum effects in biology are specific, measurable physical phenomena -- not metaphysical principles.
 
-Quantum biology does NOT mean that your thoughts can influence physical reality through quantum mechanics. The observer effect in [quantum mechanics](/quantum-chemistry) refers to measurement devices, not conscious observers.
+Quantum biology does NOT mean that your thoughts can influence physical reality through quantum mechanics. The observer effect in [quantum mechanics](/quantum-mechanics) refers to measurement devices, not conscious observers.
 
 Quantum biology IS a rigorous scientific discipline with peer-reviewed research, falsifiable predictions, and experimental validation. It's unusual and surprising, but it's not mystical.
 

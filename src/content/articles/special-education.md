@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1248
 tier: "3"
-relatedArticles: ["speech-writing", "speed-reading"]
+relatedArticles: ["speech-writing", "speed-reading", "school-administration"]
 externalSources:
   - title: "Individuals with Disabilities Education Act - U.S. Department of Education"
     url: "https://sites.ed.gov/idea/"

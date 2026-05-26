@@ -29,7 +29,7 @@ faq:
     a: "The Japanese government's joyo kanji list contains 2,136 characters considered necessary for everyday use — these are taught through high school. Newspapers use roughly 3,000 to 4,000. An educated adult might know 4,000 to 6,000. The JLPT N1 (highest proficiency level) requires knowledge of about 2,000 kanji."
 ---
 
-# What Is [Japanese](/[japanese](/japanese-mythology)-art) Language?
+# What Is Japanese Language?
 
 Japanese is spoken by approximately 125 million people, primarily in Japan. It is one of the most fascinating languages in the world — partly because of its three simultaneous [writing](/writing) systems, partly because of its involved honorific system, and partly because it is a linguistic mystery. Despite extensive study, linguists have not conclusively linked Japanese to any other language family, making it what many consider a language isolate (though the Japonic family includes the Ryukyuan languages of Okinawa).
 

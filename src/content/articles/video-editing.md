@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 978
 tier: "3"
-relatedArticles: ["video-production", "videography", "visual-effects", "video-game-design"]
+relatedArticles: ["video-production", "videography", "visual-effects", "video-game-design", "social-media-management"]
 externalSources:
   - title: "American Cinema Editors"
     url: "https://americancinemaeditors.org/"

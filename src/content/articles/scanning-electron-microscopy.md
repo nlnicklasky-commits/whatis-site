@@ -39,7 +39,7 @@ faq:
 
 Scanning electron [microscopy](/microscopy) (SEM) is an imaging technique that uses a focused beam of electrons to scan across a sample's surface, producing highly detailed images of its [topography](/topography) and composition at magnifications up to 500,000x and resolutions as fine as 1 nanometer. Unlike optical microscopes that use light and glass lenses, SEM uses electrons and electromagnetic lenses, bypassing the fundamental resolution limit of visible light (about 200 nanometers) and revealing a world of surface detail invisible to any conventional microscope.
 
-Since its commercial introduction in 1965, SEM has become one of the most widely used analytical instruments in science and industry. There are an estimated 50,000+ SEMs operating worldwide, used in fields from [materials science](/chemistry) and semiconductor manufacturing to forensic investigation and art conservation.
+Since its commercial introduction in 1965, SEM has become one of the most widely used analytical instruments in science and industry. There are an estimated 50,000+ SEMs operating worldwide, used in fields from [materials science](/materials-science) and semiconductor manufacturing to forensic investigation and art conservation.
 
 ## Why Electrons Instead of Light?
 

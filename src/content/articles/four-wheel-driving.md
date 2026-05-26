@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 968
 tier: "3"
-relatedArticles: ["automotive-engineering", "camping"]
+relatedArticles: ["automotive-engineering", "camping", "hot-air-ballooning", "university-administration"]
 externalSources:
   - title: "Tread Lightly! — Responsible Off-Roading"
     url: "https://www.treadlightly.org/"

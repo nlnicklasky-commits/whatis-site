@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2287
 tier: "2"
-relatedArticles: ["agriculture", "agronomy", "botany", "climatology"]
+relatedArticles: ["agriculture", "agronomy", "botany", "climatology", "tropical-ecology"]
 externalSources:
   - title: "CGIAR: Research for a Food-Secure Future"
     url: "https://www.cgiar.org/"
@@ -89,7 +89,7 @@ When the forest is cleared, this loop breaks. The organic matter decomposes with
 
 Most tropical soils are acidic (pH 4.0-5.5), and at low pH, aluminum becomes soluble and toxic to plant roots. Aluminum toxicity is probably the single biggest chemical constraint on crop production in the humid tropics — it stunts root growth, reduces nutrient uptake, and limits the crops that can be grown successfully.
 
-Lime (calcium carbonate) neutralizes acidity and reduces aluminum toxicity, but it's expensive to transport to remote tropical farming areas and must be reapplied every few years. Selecting crop varieties that tolerate acid soils and aluminum — a major focus of [plant breeding](/botany) research — is often more practical than trying to fix the soil [chemistry](/chemistry).
+Lime (calcium carbonate) neutralizes acidity and reduces aluminum toxicity, but it's expensive to transport to remote tropical farming areas and must be reapplied every few years. Selecting crop varieties that tolerate acid soils and aluminum — a major focus of [plant breeding](/plant-breeding) research — is often more practical than trying to fix the soil [chemistry](/chemistry).
 
 ### Phosphorus Fixation
 

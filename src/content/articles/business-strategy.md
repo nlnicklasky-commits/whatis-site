@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2675
 tier: "2"
-relatedArticles: ["business-administration", "business-ethics", "business-law", "budgeting"]
+relatedArticles: ["business-administration", "business-ethics", "business-law", "budgeting", "oligopoly-theory"]
 externalSources:
   - title: "Harvard Business School - Strategy"
     url: "https://www.hbs.edu/faculty/research/Pages/default.aspx"

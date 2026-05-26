@@ -75,7 +75,7 @@ Stamped images can be colored with markers (Copic markers are the gold standard,
 
 **Shabby chic/vintage** — Distressed edges, sepia tones, lace, ribbon, and antique-looking elements. Ink distressing (rubbing ink pads along paper edges) creates the aged look.
 
-**Interactive** — Cards with moving parts: sliders, spinners, pop-ups, pull tabs, and waterfall mechanisms. These require [engineering](/engineering) as well as artistry. A well-designed pop-up card is genuinely impressive — paper engineering has produced designs that rival [origami](/basketball)) in their ingenuity.
+**Interactive** — Cards with moving parts: sliders, spinners, pop-ups, pull tabs, and waterfall mechanisms. These require [engineering](/engineering) as well as artistry. A well-designed pop-up card is genuinely impressive — paper engineering has produced designs that rival [origami](/origami)) in their ingenuity.
 
 **Mixed media** — Combining paper craft with other materials: fabric, metal charms, wire, beads, natural elements. These cards push into art object territory and are often framed rather than mailed.
 

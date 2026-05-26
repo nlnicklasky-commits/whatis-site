@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1049
 tier: "3"
-relatedArticles: ["farming", "botany", "fruit-growing", "foraging"]
+relatedArticles: ["farming", "botany", "fruit-growing", "foraging", "topiary"]
 externalSources:
   - title: "USDA Plant Hardiness Zone Map"
     url: "https://planthardiness.ars.usda.gov/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1668
 tier: "3"
-relatedArticles: ["yoga", "wellness", "water-aerobics", "anatomy"]
+relatedArticles: ["yoga", "wellness", "water-aerobics", "anatomy", "macrobiotics"]
 externalSources:
   - title: "CDC: Walking"
     url: "https://www.cdc.gov/physical-activity-basics/walking.html"

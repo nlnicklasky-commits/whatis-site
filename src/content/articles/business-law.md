@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2635
 tier: "2"
-relatedArticles: ["business-ethics", "business-administration", "business-strategy", "accounting"]
+relatedArticles: ["business-ethics", "business-administration", "business-strategy", "accounting", "classical-civilizations"]
 externalSources:
   - title: "Cornell Law Institute - Business Law"
     url: "https://www.law.cornell.edu/wex/business_law"

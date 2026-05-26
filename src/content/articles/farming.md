@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1033
 tier: "3"
-relatedArticles: ["agriculture", "agronomy", "gardening", "fruit-growing"]
+relatedArticles: ["agriculture", "agronomy", "gardening", "fruit-growing", "goat-farming"]
 externalSources:
   - title: "USDA — National Agricultural Statistics Service"
     url: "https://www.nass.usda.gov/"

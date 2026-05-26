@@ -47,7 +47,7 @@ Here is something that trips people up: cold is not a thing. It is the absence o
 
 [Heat transfer](/heat-transfer) is the underlying physics. Heat naturally flows from warmer objects to cooler ones. Your warm soda sitting on the counter gradually reaches room temperature because heat from the room transfers into it. Refrigeration forces this process to work in reverse — pulling heat out of a cool space and dumping it into a warmer one.
 
-This seems to violate common sense. How do you move heat from cold to hot? The answer is: you do work. You use energy to pump heat against its natural flow direction, just like a water pump moves water uphill against gravity. This is the second law of [thermodynamics](/classical-mechanics) in action — you can move heat from cold to hot, but it costs you energy to do it.
+This seems to violate common sense. How do you move heat from cold to hot? The answer is: you do work. You use energy to pump heat against its natural flow direction, just like a water pump moves water uphill against gravity. This is the second law of [thermodynamics](/thermodynamics) in action — you can move heat from cold to hot, but it costs you energy to do it.
 
 ## The Vapor-Compression Cycle: How Your Fridge Actually Works
 
@@ -145,7 +145,7 @@ Refrigeration consumes roughly 20% of global electricity. In the average America
 
 As global temperatures rise due to [climate change](/climate-change), demand for cooling is exploding. The International Energy Agency projects that the number of air conditioning units worldwide will grow from 2 billion in 2023 to 5.6 billion by 2050. The energy required to power all this cooling could require new electricity generation capacity equivalent to the combined capacity of the U.S., EU, and Japan.
 
-This creates a feedback loop: more cooling requires more electricity, which (if generated from fossil fuels) accelerates climate change, which increases cooling demand. Breaking this cycle requires more efficient refrigeration systems, cleaner electricity generation ([renewable energy](/alternative-energy) and nuclear), and better building design that reduces cooling loads in the first place.
+This creates a feedback loop: more cooling requires more electricity, which (if generated from fossil fuels) accelerates climate change, which increases cooling demand. Breaking this cycle requires more efficient refrigeration systems, cleaner electricity generation ([renewable energy](/renewable-energy) and nuclear), and better building design that reduces cooling loads in the first place.
 
 ### Efficiency Improvements
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1851
 tier: "3"
-relatedArticles: ["digital-marketing", "business-administration", "business-ethics"]
+relatedArticles: ["digital-marketing", "business-administration", "business-ethics", "mortgage-banking", "movie-memorabilia"]
 externalSources:
   - title: "Harvard Business Review — Sales"
     url: "https://hbr.org/topic/subject/sales"

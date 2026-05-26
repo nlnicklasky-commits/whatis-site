@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 951
 tier: "3"
-relatedArticles: ["anthropology", "sociology", "comparative-mythology", "folklore"]
+relatedArticles: ["anthropology", "sociology", "comparative-mythology", "folklore", "pictography"]
 externalSources:
   - title: "American Anthropological Association"
     url: "https://www.americananthro.org/"

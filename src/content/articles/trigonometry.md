@@ -37,7 +37,7 @@ faq:
 
 # What Is Trigonometry?
 
-Trigonometry is the branch of [mathematics](/algebra) that studies the relationships between the angles and sides of triangles. It provides a set of functions — sine, cosine, tangent, and their reciprocals — that connect angular measurements to ratios of lengths, making it possible to calculate distances and angles that would be impossible to measure directly.
+Trigonometry is the branch of [mathematics](/mathematics) that studies the relationships between the angles and sides of triangles. It provides a set of functions — sine, cosine, tangent, and their reciprocals — that connect angular measurements to ratios of lengths, making it possible to calculate distances and angles that would be impossible to measure directly.
 
 ## Triangles, Ratios, and Why You Should Care
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 935
 tier: "3"
-relatedArticles: ["recycling", "water-purification", "water-management"]
+relatedArticles: ["recycling", "water-purification", "water-management", "pig-farming"]
 externalSources:
   - title: "EPA — Solid Waste Management"
     url: "https://www.epa.gov/rcra"

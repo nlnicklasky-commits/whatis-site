@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1251
 tier: "3"
-relatedArticles: ["agile-software-development", "algorithms"]
+relatedArticles: ["agile-software-development", "algorithms", "medical-billing", "myrmecology"]
 externalSources:
   - title: "Project Management Institute - Scheduling"
     url: "https://www.pmi.org/"

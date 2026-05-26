@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 809
 tier: "3"
-relatedArticles: ["social-anthropology", "social-dynamics", "sociolinguistics"]
+relatedArticles: ["social-anthropology", "social-dynamics", "sociolinguistics", "rural-sociology", "terrorism-studies"]
 externalSources:
   - title: "American Sociological Association"
     url: "https://www.asanet.org/"

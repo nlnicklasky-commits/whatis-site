@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1029
 tier: "3"
-relatedArticles: ["portuguese-language", "linguistics"]
+relatedArticles: ["portuguese-language", "linguistics", "lexicography", "romance-literature"]
 externalSources:
   - title: "Britannica — Romance Languages"
     url: "https://www.britannica.com/topic/Romance-languages"

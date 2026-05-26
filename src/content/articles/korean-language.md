@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1074
 tier: "3"
-relatedArticles: ["japanese-language", "italian-language", "latin-language", "historical-linguistics"]
+relatedArticles: ["japanese-language", "italian-language", "latin-language", "historical-linguistics", "korean-history"]
 externalSources:
   - title: "Korean Language – Encyclopaedia Britannica"
     url: "https://www.britannica.com/topic/Korean-language"

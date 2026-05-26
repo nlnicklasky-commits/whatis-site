@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1007
 tier: "3"
-relatedArticles: ["italian-language", "historical-linguistics", "korean-language", "japanese-language"]
+relatedArticles: ["italian-language", "historical-linguistics", "korean-language", "japanese-language", "french-history"]
 externalSources:
   - title: "Latin Language – Encyclopaedia Britannica"
     url: "https://www.britannica.com/topic/Latin-language"

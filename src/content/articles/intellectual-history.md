@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 692
 tier: "3"
-relatedArticles: ["indian-history", "historical-linguistics", "journalism", "aesthetics"]
+relatedArticles: ["indian-history", "historical-linguistics", "journalism", "aesthetics", "kabbalah"]
 externalSources:
   - title: "Journal of the History of Ideas"
     url: "https://www.press.jhu.edu/journals/journal-history-ideas"

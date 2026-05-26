@@ -118,7 +118,7 @@ The absolute value of the determinant tells you by what factor the transformatio
 
 For a 2x2 matrix [[a, b], [c, d]], the determinant is simply ad - bc. For larger matrices, computation gets more involved, using cofactor expansion or LU decomposition.
 
-Determinants show up constantly in [calculus](/calculus) (Jacobians for change of variables), [physics](/classical-mechanics) (cross products), and [geometry](/geometry) (area calculations).
+Determinants show up constantly in [calculus](/calculus) (Jacobians for change of variables), [physics](/physics) (cross products), and [geometry](/geometry) (area calculations).
 
 ## Eigenvalues and Eigenvectors: The Heart of Linear Algebra
 
@@ -156,7 +156,7 @@ This is where linear algebra becomes beautiful. Every matrix represents a geomet
 
 **Shear**: Tilting a shape — like pushing the top of a rectangle sideways to make a parallelogram.
 
-The composition of any sequence of these transformations is simply the product of the corresponding matrices. This is why graphics engines and [physics](/classical-mechanics) engines can handle complex transformations so efficiently — they're just multiplying matrices.
+The composition of any sequence of these transformations is simply the product of the corresponding matrices. This is why graphics engines and [physics](/physics) engines can handle complex transformations so efficiently — they're just multiplying matrices.
 
 ## Inner Product Spaces and Orthogonality
 

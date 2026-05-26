@@ -161,6 +161,6 @@ Several trends are reshaping the industry. Automated and remote-controlled TBMs 
 
 Advances in precast segment design, fast-setting grouts, and real-time geotechnical monitoring are incrementally improving efficiency. But the fundamental challenge hasn't changed: you're still cutting through unpredictable ground, managing enormous forces, and building a structure that has to last 100+ years.
 
-The demand for tunnels is growing. Urban populations are expanding, surface space is maxed out, and [climate change](/climatology) is driving interest in underground infrastructure for flood control and utilities. China alone has built more than 40,000 km of tunnels since 2000, mostly for rail and metro systems.
+The demand for tunnels is growing. Urban populations are expanding, surface space is maxed out, and [climate change](/climate-change) is driving interest in underground infrastructure for flood control and utilities. China alone has built more than 40,000 km of tunnels since 2000, mostly for rail and metro systems.
 
 Underground construction will keep expanding because the math is simple: when you can't go over, around, or through — you go under.

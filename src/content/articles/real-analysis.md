@@ -94,7 +94,7 @@ If you're not a math major, why does real analysis matter?
 Because the concepts it formalizes — convergence, approximation, continuity, limiting behavior — show up everywhere:
 
 - **[Computer science](/computer-science)** uses convergence theory for algorithms that approximate solutions ([machine learning](/machine-learning), numerical methods)
-- **[Physics](/physics)** relies on analysis for [differential equations](/differential-equations), [quantum mechanics](/quantum-mechanics), and [general relativity](/genetics))
+- **[Physics](/physics)** relies on analysis for [differential equations](/differential-equations), [quantum mechanics](/quantum-mechanics), and [general relativity](/general-relativity))
 - **[Economics](/economics)** uses analysis for [optimization](/optimization) theory and equilibrium analysis
 - **[Statistics](/statistics)** depends on convergence theorems (the Central Limit Theorem requires analysis to prove)
 - **[Engineering](/engineering)** uses approximation theory and Fourier analysis (both grounded in real analysis)

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1077
 tier: "3"
-relatedArticles: ["creative-writing", "english-language", "drama", "editing"]
+relatedArticles: ["creative-writing", "english-language", "drama", "editing", "soap-making"]
 externalSources:
   - title: "British Library - English Literature"
     url: "https://www.bl.uk/"

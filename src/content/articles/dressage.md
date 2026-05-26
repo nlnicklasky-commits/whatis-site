@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 950
 tier: "3"
-relatedArticles: ["equestrianism", "animal-behavior", "dance", "sports-psychology"]
+relatedArticles: ["equestrianism", "animal-behavior", "dance", "sports-psychology", "shakespearean-literature"]
 externalSources:
   - title: "International Federation for Equestrian Sports"
     url: "https://www.fei.org/"

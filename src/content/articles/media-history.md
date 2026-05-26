@@ -77,7 +77,7 @@ The Associated Press was founded in 1846 specifically to share the cost of teleg
 
 ### Radio — Voice in the Air
 
-[Radio broadcasting](/radiology)) began in the early 1920s (KDKA in Pittsburgh is often cited as the first commercial station, broadcasting election results in November 1920, though this is debated). Within a decade, radio was in millions of homes.
+[Radio broadcasting](/radio-broadcasting)) began in the early 1920s (KDKA in Pittsburgh is often cited as the first commercial station, broadcasting election results in November 1920, though this is debated). Within a decade, radio was in millions of homes.
 
 Radio was the first truly intimate electronic medium. It entered your living room — or your bedroom, or your car. Franklin Roosevelt's "fireside chats" (beginning in 1933) demonstrated radio's political power: the president speaking directly to citizens, bypassing newspapers and political intermediaries. Roosevelt's calm, conversational tone was perfectly suited to the medium.
 

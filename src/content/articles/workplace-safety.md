@@ -133,7 +133,7 @@ Don't laugh. Office workers deal with [ergonomic](/ergonomics) issues (carpal tu
 
 Here's what separates organizations with good safety records from bad ones: culture. You can have every policy, procedure, and piece of equipment in place, and still have a terrible safety record if the culture doesn't support it.
 
-In a strong safety culture, everyone — from the CEO to the newest hire — genuinely believes that no task is so urgent it can't be done safely. Workers feel comfortable reporting hazards and near-misses without fear of punishment. Supervisors model safe behavior instead of cutting corners to meet deadlines. And [management](/business-administration) invests in safety because they actually care, not just because they're afraid of fines.
+In a strong safety culture, everyone — from the CEO to the newest hire — genuinely believes that no task is so urgent it can't be done safely. Workers feel comfortable reporting hazards and near-misses without fear of punishment. Supervisors model safe behavior instead of cutting corners to meet deadlines. And [management](/management) invests in safety because they actually care, not just because they're afraid of fines.
 
 In weak safety cultures, you hear things like "we've always done it this way," or "just be careful." Incident reports get buried. Near-misses go unreported because people don't want to rock the boat. And safety rules exist on paper but get ignored in practice.
 

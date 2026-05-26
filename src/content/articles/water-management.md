@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 948
 tier: "3"
-relatedArticles: ["water-law", "water-purification", "waste-management"]
+relatedArticles: ["water-law", "water-purification", "waste-management", "fuel-cell-technology", "internet-of-things-iot"]
 externalSources:
   - title: "USGS — Water Resources"
     url: "https://www.usgs.gov/mission-areas/water-resources"

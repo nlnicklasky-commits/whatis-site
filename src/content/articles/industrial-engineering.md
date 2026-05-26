@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 2
 wordCount: 463
 tier: "3"
-relatedArticles: ["civil-engineering", "algorithms", "business-administration", "hobby-machining"]
+relatedArticles: ["civil-engineering", "algorithms", "business-administration", "hobby-machining", "boat-building"]
 externalSources:
   - title: "Institute of Industrial and Systems Engineers"
     url: "https://www.iise.org/"

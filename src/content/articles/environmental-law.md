@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1464
 tier: "3"
-relatedArticles: ["business-law", "climatology", "agriculture", "economics"]
+relatedArticles: ["business-law", "climatology", "agriculture", "economics", "land-law"]
 externalSources:
   - title: "EPA: Summary of Environmental Laws"
     url: "https://www.epa.gov/laws-regulations/laws-and-executive-orders"

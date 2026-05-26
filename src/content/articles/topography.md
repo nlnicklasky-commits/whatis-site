@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2671
 tier: "2"
-relatedArticles: ["cartography", "geography", "civil-engineering", "climatology"]
+relatedArticles: ["cartography", "geography", "civil-engineering", "climatology", "teratology"]
 externalSources:
   - title: "USGS Topographic Maps"
     url: "https://www.usgs.gov/programs/national-geospatial-program/topographic-maps"

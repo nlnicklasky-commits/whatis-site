@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3516
 tier: "1"
-relatedArticles: ["biology", "physiology", "genetics", "neuroscience"]
+relatedArticles: ["biology", "physiology", "genetics", "neuroscience", "ancient-egyptian-history"]
 externalSources:
   - title: "NIH National Library of Medicine: Visible Human Project"
     url: "https://www.nlm.nih.gov/research/visible/visible_human.html"

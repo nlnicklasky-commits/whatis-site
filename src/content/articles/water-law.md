@@ -29,7 +29,7 @@ faq:
     a: "Water is scarce in the American West while demand is high. Agriculture consumes about 80% of Western water, and growing cities need more. The Colorado River, which supplies 40 million people, has been over-allocated since the 1922 Compact — the river doesn't contain enough water to satisfy all legal claims. Climate change is reducing snowpack and river flows, intensifying competition among states, cities, farmers, tribes, and ecosystems."
 ---
 
-# What Is [Water](/[water](/water-purification)-management) Law?
+# What Is Water Law?
 
 Water law is the body of legal rules governing who can use water, how much they can take, what they can do with it, and who's responsible when things go wrong. It sounds dry (no pun intended), but water law is actually one of the most contested and consequential areas of legal practice — because water is simultaneously essential for human survival, economic activity, and ecosystem health, and there's never enough to satisfy every demand.
 

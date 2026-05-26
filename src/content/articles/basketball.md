@@ -35,7 +35,7 @@ Basketball is a team sport in which two teams of five players each compete on a 
 
 ## Invented in a Gym, Conquered the World
 
-James Naismith's [invention](/invention) in 1891 is one of the few major sports with a known creator, specific date, and documented original rules. Naismith, a [physical education](/physics)) instructor in Springfield, Massachusetts, needed a game that could be played indoors during New England winters, was vigorous enough to keep students fit, and was simple enough to learn quickly.
+James Naismith's [invention](/invention) in 1891 is one of the few major sports with a known creator, specific date, and documented original rules. Naismith, a [physical education](/physical-education)) instructor in Springfield, Massachusetts, needed a game that could be played indoors during New England winters, was vigorous enough to keep students fit, and was simple enough to learn quickly.
 
 He nailed a peach basket to a 10-foot-high balcony at each end of the gym and wrote 13 rules. Someone had to climb up and retrieve the ball after every made basket — it took a while before someone thought to cut the bottom out. The game spread with extraordinary speed through YMCA networks, colleges, and military bases. By the 1936 Olympics, basketball was an international sport.
 

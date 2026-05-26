@@ -72,7 +72,7 @@ The [invention](/invention) of writing around 3200 BC didn't replace oral storyt
 - **Entertainment** — Movies, TV, novels, podcasts, video games, theater. The global entertainment industry is essentially a storytelling industry.
 - **Business** — [Marketing](/marketing), branding, and [sales](/sales) all run on stories. A product feature list doesn't sell. A story about how the product changes someone's life does.
 - **[Education](/education)** — Teachers who frame lessons as narratives see better retention and engagement. Case studies in business and law schools are structured as stories for exactly this reason.
-- **[Journalism](/journalism)** — The best [journalism](/communication-theory) doesn't just report facts; it tells the story of why those facts matter to real people.
+- **[Journalism](/journalism)** — The best [journalism](/journalism) doesn't just report facts; it tells the story of why those facts matter to real people.
 - **Personal connection** — When you meet someone new and they ask, "What do you do?" your answer is a story. First dates, job interviews, family dinners — storytelling is how we present ourselves and connect with others.
 
 ## The Difference Between Good and Great

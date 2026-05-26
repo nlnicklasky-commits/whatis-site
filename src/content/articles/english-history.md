@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1521
 tier: "3"
-relatedArticles: ["european-history", "anthropology", "comparative-religion", "capitalism"]
+relatedArticles: ["european-history", "anthropology", "comparative-religion", "capitalism", "jacobean-era"]
 externalSources:
   - title: "The National Archives (UK)"
     url: "https://www.nationalarchives.gov.uk/"

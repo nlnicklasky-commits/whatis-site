@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1065
 tier: "3"
-relatedArticles: ["acoustics", "harp", "indian-classical-music", "jazz-music"]
+relatedArticles: ["acoustics", "harp", "indian-classical-music", "jazz-music", "coffee-roasting"]
 externalSources:
   - title: "Music Theory – Open Music Theory"
     url: "https://viva.pressbooks.pub/openmusictheory/"

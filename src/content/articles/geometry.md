@@ -93,7 +93,7 @@ Triangles are the workhorses of geometry. Every polygon can be divided into tria
 
 The interior angles of any triangle in Euclidean geometry sum to exactly 180 degrees. This is not true on curved surfaces, which is partly what makes non-Euclidean geometry so interesting.
 
-Triangles are classified by sides (equilateral, isosceles, scalene) and by angles (acute, right, obtuse). The most famous relationship in all of geometry applies to right triangles: the Pythagorean theorem. In a right triangle with legs *a* and *b* and hypotenuse *c*, the equation a squared plus b squared equals c squared always holds. Always. No exceptions. This single relationship underlies everything from [architecture](/building-automation) to GPS calculations.
+Triangles are classified by sides (equilateral, isosceles, scalene) and by angles (acute, right, obtuse). The most famous relationship in all of geometry applies to right triangles: the Pythagorean theorem. In a right triangle with legs *a* and *b* and hypotenuse *c*, the equation a squared plus b squared equals c squared always holds. Always. No exceptions. This single relationship underlies everything from [architecture](/architecture) to GPS calculations.
 
 ### Circles
 

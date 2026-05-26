@@ -67,7 +67,7 @@ Physical comedy works through several psychological mechanisms:
 
 ## The Trained Body
 
-Great physical comedians are extraordinary athletes. Keaton was an acrobat from childhood. Jackie Chan trained in Chinese [opera](/opera), which includes [martial arts](/martial-arts), acrobatics, and [dance](/dance). Rowan Atkinson (Mr. Bean) studied [electrical engineering](/electricity)) but had an instinctive physical control that's almost eerie to watch.
+Great physical comedians are extraordinary athletes. Keaton was an acrobat from childhood. Jackie Chan trained in Chinese [opera](/opera), which includes [martial arts](/martial-arts), acrobatics, and [dance](/dance). Rowan Atkinson (Mr. Bean) studied [electrical engineering](/electrical-engineering)) but had an instinctive physical control that's almost eerie to watch.
 
 The skills involved include:
 

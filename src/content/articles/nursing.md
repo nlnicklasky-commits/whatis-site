@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1604
 tier: "3"
-relatedArticles: ["anatomy", "obstetrics", "occupational-therapy"]
+relatedArticles: ["anatomy", "obstetrics", "occupational-therapy", "pig-farming", "senior-care"]
 externalSources:
   - title: "American Nurses Association: What Is Nursing?"
     url: "https://www.nursingworld.org/practice-policy/workforce/what-is-nursing/"

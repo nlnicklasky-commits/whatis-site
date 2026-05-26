@@ -79,7 +79,7 @@ The ratio of Type I to Type II fibers is largely determined by [genetics](/genet
 
 ## Biomechanics: The Physics of Movement
 
-[Biomechanics](/biomechanics) applies the laws of [physics](/classical-mechanics) to human movement. In sports, this means analyzing technique to maximize performance and minimize injury risk.
+[Biomechanics](/biomechanics) applies the laws of [physics](/physics) to human movement. In sports, this means analyzing technique to maximize performance and minimize injury risk.
 
 ### Motion Analysis
 

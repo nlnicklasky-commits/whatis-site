@@ -53,7 +53,7 @@ Transmissions are another critical powertrain component. Manual transmissions �
 
 The chassis is the structural skeleton of the vehicle. Modern cars overwhelmingly use unibody [construction](/construction), where the body panels and structural frame are integrated into a single welded assembly. This approach saves weight compared to traditional body-on-frame construction (still used for trucks and large SUVs) but makes engineering more complex because every panel contributes to structural rigidity.
 
-Suspension engineering is where [physics](/acoustics) meets human perception. The suspension connects the wheels to the body and must accomplish contradictory goals simultaneously: keep the tires in contact with the road surface over bumps, isolate passengers from road impacts, resist body roll in corners, and provide steering feedback to the driver. The most common front suspension type is the MacPherson strut, invented by Earle MacPherson at GM in the 1940s. It's simple, compact, and cheap — which is why you'll find it on everything from a Honda Civic to a Ford Mustang.
+Suspension engineering is where [physics](/physics) meets human perception. The suspension connects the wheels to the body and must accomplish contradictory goals simultaneously: keep the tires in contact with the road surface over bumps, isolate passengers from road impacts, resist body roll in corners, and provide steering feedback to the driver. The most common front suspension type is the MacPherson strut, invented by Earle MacPherson at GM in the 1940s. It's simple, compact, and cheap — which is why you'll find it on everything from a Honda Civic to a Ford Mustang.
 
 More expensive vehicles use multi-link suspension designs with 4 or 5 separate links per wheel, allowing engineers to optimize camber change, toe change, and roll center independently. Active suspension systems, which use electronically controlled dampers or even hydraulic actuators, can adjust suspension behavior in milliseconds — softening for comfort on the highway, stiffening for sharp handling on a winding road.
 
@@ -75,7 +75,7 @@ Here's something that surprises most people: a modern car contains more lines of
 
 The automotive industry's relationship with software has been... rocky. Traditional automakers were hardware companies that happened to need some software. The arrival of Tesla — essentially a software company that happens to build cars — exposed how far behind established manufacturers were in software development. Over-the-air (OTA) updates, which Tesla pioneered in production cars, are now being adopted industry-wide, allowing manufacturers to fix bugs and add features after the car has been sold.
 
-The move toward autonomous driving (SAE Levels 0 through 5) has made software engineering arguably the most important discipline in modern automotive engineering. The sensor fusion, perception [algorithms](/machine-learning), and decision-making systems required for self-driving represent some of the most complex software challenges in any industry.
+The move toward autonomous driving (SAE Levels 0 through 5) has made software engineering arguably the most important discipline in modern automotive engineering. The sensor fusion, perception [algorithms](/algorithms), and decision-making systems required for self-driving represent some of the most complex software challenges in any industry.
 
 ## The Engineering Development Process
 

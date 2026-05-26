@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2778
 tier: "2"
-relatedArticles: ["computer-networking", "computer-science", "algorithms", "blockchain"]
+relatedArticles: ["computer-networking", "computer-science", "algorithms", "blockchain", "health-informatics"]
 externalSources:
   - title: "NIST Cybersecurity Framework"
     url: "https://www.nist.gov/cyberframework"

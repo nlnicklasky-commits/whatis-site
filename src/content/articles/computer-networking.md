@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2891
 tier: "2"
-relatedArticles: ["computer-science", "computer-security", "computer-hardware", "algorithms"]
+relatedArticles: ["computer-science", "computer-security", "computer-hardware", "algorithms", "microwave-engineering"]
 externalSources:
   - title: "RFC Editor - Internet Standards"
     url: "https://www.rfc-editor.org/"
@@ -238,7 +238,7 @@ Cloud computing — [running](/running) workloads on rented infrastructure from 
 
 ## [Network Security](/network-security) Fundamentals
 
-Networks are attack surfaces. Every connected device is potentially reachable by every other connected device on the internet (unless firewalls intervene). Understanding [network security](/computer-security) is non-negotiable for anyone managing or building networked systems.
+Networks are attack surfaces. Every connected device is potentially reachable by every other connected device on the internet (unless firewalls intervene). Understanding [network security](/network-security) is non-negotiable for anyone managing or building networked systems.
 
 ### Common Threats
 

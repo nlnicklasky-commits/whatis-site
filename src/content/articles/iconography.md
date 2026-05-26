@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 911
 tier: "3"
-relatedArticles: ["illustration", "impressionism", "indian-mythology", "aesthetics"]
+relatedArticles: ["illustration", "impressionism", "indian-mythology", "aesthetics", "pre-columbian-history"]
 externalSources:
   - title: "Iconography – Encyclopaedia Britannica"
     url: "https://www.britannica.com/topic/iconography"

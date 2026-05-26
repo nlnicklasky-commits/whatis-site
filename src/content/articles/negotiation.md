@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1125
 tier: "3"
-relatedArticles: ["communication-theory", "psychology", "business-administration", "leadership"]
+relatedArticles: ["communication-theory", "psychology", "business-administration", "leadership", "student-government"]
 externalSources:
   - title: "Harvard Program on Negotiation"
     url: "https://www.pon.harvard.edu/"

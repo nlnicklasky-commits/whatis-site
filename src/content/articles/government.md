@@ -89,7 +89,7 @@ Government has evolved through distinct phases, though these overlap and vary by
 
 **Tribal and clan-based governance** ([prehistory](/prehistory) to present in some areas) relied on kinship, elder councils, and consensus decision-making. No written laws. No formal institutions. Authority came from age, wisdom, or warrior reputation.
 
-**City-states** emerged around 3000 BCE in Mesopotamia and later in Greece. These were small, self-governing communities — Ur, Athens, Sparta — each with their own laws, armies, and political systems. The Greek city-states gave the world democracy, [philosophy](/stoicism), and the idea that citizens could [debate](/debate) [public policy](/public-policy) openly.
+**City-states** emerged around 3000 BCE in Mesopotamia and later in Greece. These were small, self-governing communities — Ur, Athens, Sparta — each with their own laws, armies, and political systems. The Greek city-states gave the world democracy, [philosophy](/philosophy), and the idea that citizens could [debate](/debate) [public policy](/public-policy) openly.
 
 **Empires** consolidated multiple peoples under centralized authority. The Roman Empire at its height governed roughly 70 million people across three continents. The [Chinese imperial system](/silk-road) lasted over 2,000 years. These empires developed sophisticated administrative systems — tax collection, road networks, postal services, legal codes — that modern governments still echo.
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1223
 tier: "3"
-relatedArticles: ["casting-metal", "stained-glass", "sketching"]
+relatedArticles: ["casting-metal", "stained-glass", "sketching", "leatherworking", "lego-building"]
 externalSources:
   - title: "Sculpture Collection - Metropolitan Museum of Art"
     url: "https://www.metmuseum.org/"

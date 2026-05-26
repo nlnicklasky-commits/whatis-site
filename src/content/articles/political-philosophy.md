@@ -149,7 +149,7 @@ Ubuntu philosophy — "I am because we are" — emphasizes communal identity, mu
 
 ### Islamic Political Thought
 
-Islamic political philosophy addresses the relationship between religious law (sharia) and political authority. Al-Farabi (870-950), influenced by Plato and Aristotle, argued for a virtuous city led by a philosopher-prophet. Ibn Khaldun (1332-1406) developed a cyclical theory of political rise and decline that anticipated modern [sociology](/anthropology) by centuries.
+Islamic political philosophy addresses the relationship between religious law (sharia) and political authority. Al-Farabi (870-950), influenced by Plato and Aristotle, argued for a virtuous city led by a philosopher-prophet. Ibn Khaldun (1332-1406) developed a cyclical theory of political rise and decline that anticipated modern [sociology](/sociology) by centuries.
 
 ## Contemporary Debates
 

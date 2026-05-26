@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1543
 tier: "3"
-relatedArticles: ["archaeology", "cartography", "anthropology"]
+relatedArticles: ["archaeology", "cartography", "anthropology", "historical-weaponry"]
 externalSources:
   - title: "British Museum: Siege Warfare in the Ancient World"
     url: "https://www.britishmuseum.org/collection"

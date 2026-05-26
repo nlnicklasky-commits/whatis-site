@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1051
 tier: "3"
-relatedArticles: ["film-direction", "film-editing", "film-production", "film-history"]
+relatedArticles: ["film-direction", "film-editing", "film-production", "film-history", "movie-memorabilia"]
 externalSources:
   - title: "American Film Institute"
     url: "https://www.afi.com/"

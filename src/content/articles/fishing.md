@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 965
 tier: "3"
-relatedArticles: ["foraging", "gardening"]
+relatedArticles: ["foraging", "gardening", "limnology", "pontoon-boating"]
 externalSources:
   - title: "NOAA Fisheries"
     url: "https://www.fisheries.noaa.gov/"
@@ -73,7 +73,7 @@ The commercial fishing industry is massive and complex. Major methods include:
 
 **Purse seining** encircles schools of fish (often tuna or sardines) with a large net that closes at the bottom like a drawstring purse. It's efficient but can capture dolphins and other marine mammals along with target species.
 
-**[Aquaculture](/aquaculture)** ([fish farming](/fishing))) has grown dramatically. About half of all fish consumed globally now comes from aquaculture rather than wild catch. Farmed species include salmon, tilapia, shrimp, catfish, and carp. Aquaculture reduces pressure on wild stocks but raises its own environmental concerns — water pollution, disease transmission to wild fish, and habitat destruction for coastal shrimp farms.
+**[Aquaculture](/aquaculture)** ([fish farming](/fish-farming))) has grown dramatically. About half of all fish consumed globally now comes from aquaculture rather than wild catch. Farmed species include salmon, tilapia, shrimp, catfish, and carp. Aquaculture reduces pressure on wild stocks but raises its own environmental concerns — water pollution, disease transmission to wild fish, and habitat destruction for coastal shrimp farms.
 
 ## The Sustainability Problem
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1019
 tier: "3"
-relatedArticles: ["visual-arts"]
+relatedArticles: ["visual-arts", "maori-culture", "sand-art"]
 externalSources:
   - title: "MoMA - Performance Art"
     url: "https://www.moma.org/collection/terms/performance-art"

@@ -90,6 +90,6 @@ The Global Terrorism Database (maintained by START at the University of [Marylan
 
 ## Why It Matters
 
-Terrorism affects policy decisions worth trillions of dollars, shapes [international relations](/international-law), and directly impacts civil liberties and human rights. Understanding what works and what doesn't in preventing and responding to terrorism has enormous practical consequences.
+Terrorism affects policy decisions worth trillions of dollars, shapes [international relations](/international-relations), and directly impacts civil liberties and human rights. Understanding what works and what doesn't in preventing and responding to terrorism has enormous practical consequences.
 
 The field is imperfect — definitional problems, data limitations, and political pressures all constrain the research. But systematic study of terrorism, however difficult, produces better outcomes than policy based on fear, intuition, or political expedience alone.

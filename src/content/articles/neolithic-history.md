@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1005
 tier: "3"
-relatedArticles: ["archaeology", "anthropology", "agriculture", "human-evolution"]
+relatedArticles: ["archaeology", "anthropology", "agriculture", "human-evolution", "metal-detecting"]
 externalSources:
   - title: "Smithsonian National Museum of Natural History"
     url: "https://humanorigins.si.edu/"

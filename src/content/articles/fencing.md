@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1017
 tier: "3"
-relatedArticles: ["gymnastics", "martial-arts", "field-hockey"]
+relatedArticles: ["gymnastics", "martial-arts", "field-hockey", "sheep-farming", "trail-running"]
 externalSources:
   - title: "International Fencing Federation (FIE)"
     url: "https://fie.org/"

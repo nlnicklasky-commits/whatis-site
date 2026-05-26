@@ -169,7 +169,7 @@ The environmental concerns are less solvable. Deep-sea ecosystems are poorly und
 
 ## Career and Future Outlook
 
-Ocean engineering careers span energy companies, [naval architecture](/naval-history)) firms, defense contractors, environmental consultancies, research institutions, and [government](/government) agencies like NOAA. Salaries tend to be above average for engineering — particularly in offshore energy — and the work often involves travel, fieldwork, and operating in remote locations.
+Ocean engineering careers span energy companies, [naval architecture](/naval-architecture)) firms, defense contractors, environmental consultancies, research institutions, and [government](/government) agencies like NOAA. Salaries tend to be above average for engineering — particularly in offshore energy — and the work often involves travel, fieldwork, and operating in remote locations.
 
 The field is growing for several converging reasons. [Climate change](/climate-change) is driving massive investment in offshore wind power and coastal resilience. Growing [aquaculture](/aquaculture) needs engineered marine infrastructure. Submarine data cables support the ever-expanding digital economy. And humanity's fundamental need to understand and responsibly use the ocean — the largest and least explored environment on Earth — ensures that ocean engineers will be needed for as long as we depend on the sea.
 

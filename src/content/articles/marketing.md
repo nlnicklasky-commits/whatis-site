@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1679
 tier: "3"
-relatedArticles: ["market-research", "digital-marketing", "business-administration"]
+relatedArticles: ["market-research", "digital-marketing", "business-administration", "coffee-roasting", "couponing"]
 externalSources:
   - title: "American Marketing Association - Definition of Marketing"
     url: "https://www.ama.org/the-definition-of-marketing-what-is-marketing/"

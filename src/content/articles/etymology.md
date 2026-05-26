@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1132
 tier: "3"
-relatedArticles: ["english-language", "english-literature", "anthropology", "philosophy"]
+relatedArticles: ["english-language", "english-literature", "anthropology", "philosophy", "lexicography"]
 externalSources:
   - title: "Oxford English Dictionary - Etymology Resources"
     url: "https://www.oed.com/"

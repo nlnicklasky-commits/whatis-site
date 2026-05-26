@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 992
 tier: "3"
-relatedArticles: ["cartooning", "illustration", "graphic-design", "animation"]
+relatedArticles: ["cartooning", "illustration", "graphic-design", "animation", "sushi-making"]
 externalSources:
   - title: "Library of Congress - Comic Book Collections"
     url: "https://www.loc.gov/collections/"

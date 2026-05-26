@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1029
 tier: "3"
-relatedArticles: ["anthropology", "religion", "narratology", "folklore"]
+relatedArticles: ["anthropology", "religion", "narratology", "folklore", "comparative-mythology"]
 externalSources:
   - title: "Encyclopaedia Britannica: Mythology"
     url: "https://www.britannica.com/topic/mythology"

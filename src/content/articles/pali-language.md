@@ -69,7 +69,7 @@ Some distinctive features:
 
 **Buddhist practice.** Monks in Theravada countries study Pali as part of their training. Chanting in Pali is a daily practice in temples across Southeast Asia. Serious lay practitioners often learn enough Pali to read suttas in the original or understand chanted texts.
 
-**Scholarly research.** Academics studying early Buddhism, Indian philosophy, or [comparative religion](/composting)) need Pali to work with primary sources. [Translation](/translation) inevitably loses nuances — key Buddhist terms like dukkha (suffering, unsatisfactoriness), anatta (non-self), and sunnata (emptiness) have layers of meaning that single English words can't capture.
+**Scholarly research.** Academics studying early Buddhism, Indian philosophy, or [comparative religion](/comparative-religion)) need Pali to work with primary sources. [Translation](/translation) inevitably loses nuances — key Buddhist terms like dukkha (suffering, unsatisfactoriness), anatta (non-self), and sunnata (emptiness) have layers of meaning that single English words can't capture.
 
 **Meditation.** The most widely practiced Theravada meditation techniques — vipassana (insight meditation) and samatha (calm abiding) — are described in detail in Pali texts. Practitioners who study the original descriptions sometimes find nuances that translations obscure.
 

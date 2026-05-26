@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1482
 tier: "3"
-relatedArticles: ["anthropology", "capitalism", "archaeology"]
+relatedArticles: ["anthropology", "capitalism", "archaeology", "islamic-history"]
 externalSources:
   - title: "American Historical Association"
     url: "https://www.historians.org/"

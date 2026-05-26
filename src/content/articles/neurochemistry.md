@@ -143,7 +143,7 @@ When a neurotransmitter binds to a metabotropic receptor, it doesn't directly op
 
 **Calcium signaling** — calcium itself acts as a second messenger. It activates CaMKII (calcium/calmodulin-dependent protein kinase II), which is the most abundant protein at excitatory synapses and is essential for long-term potentiation — the cellular basis of learning.
 
-These cascades matter because they connect momentary synaptic events to long-lasting changes in gene expression. A brief burst of neural activity can, through second messenger cascades, alter which genes a neuron expresses for days or weeks. This is how short-term experience becomes long-term memory — and it's the subject of extensive research in [cognitive neuroscience](/cognitive-bias)).
+These cascades matter because they connect momentary synaptic events to long-lasting changes in gene expression. A brief burst of neural activity can, through second messenger cascades, alter which genes a neuron expresses for days or weeks. This is how short-term experience becomes long-term memory — and it's the subject of extensive research in [cognitive neuroscience](/cognitive-neuroscience)).
 
 ## Neurochemistry of Mental Illness
 
@@ -175,7 +175,7 @@ Cocaine blocks the dopamine transporter, preventing reuptake. Amphetamine revers
 
 With repeated use, the brain adapts — downregulating dopamine receptors, reducing natural dopamine production, and strengthening habit circuits in the dorsal striatum. The result: the drug becomes necessary just to feel normal, natural rewards lose their appeal, and compulsive drug-seeking behavior becomes deeply ingrained.
 
-Understanding this [biochemistry](/chemistry) has led to medications that help — naltrexone blocks opioid receptors, buprenorphine partially activates them, and varenicline partially activates nicotinic receptors to reduce smoking cravings.
+Understanding this [biochemistry](/biochemistry) has led to medications that help — naltrexone blocks opioid receptors, buprenorphine partially activates them, and varenicline partially activates nicotinic receptors to reduce smoking cravings.
 
 ## Emerging Frontiers
 

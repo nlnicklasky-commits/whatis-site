@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1036
 tier: "3"
-relatedArticles: ["music-composition", "music-history", "music-performance", "music-education"]
+relatedArticles: ["music-composition", "music-history", "music-performance", "music-education", "tuning-instruments"]
 externalSources:
   - title: "Open Music Theory (Open Educational Resource)"
     url: "https://openmusictheory.com/"

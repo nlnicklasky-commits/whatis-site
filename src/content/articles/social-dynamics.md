@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 805
 tier: "3"
-relatedArticles: ["sociology", "social-anthropology"]
+relatedArticles: ["sociology", "social-anthropology", "rural-sociology", "uniformology"]
 externalSources:
   - title: "Social Dynamics Research - Santa Fe Institute"
     url: "https://www.santafe.edu/"
@@ -53,7 +53,7 @@ Modern social dynamics draws on several methodological traditions.
 
 **Agent-based modeling** creates computer simulations where virtual "agents" follow simple behavioral rules. When thousands of these agents interact, complex collective patterns emerge — similar to how flocking behavior emerges from individual birds each following simple rules about distance and direction. These models help researchers test theories about social dynamics without waiting for real-world experiments.
 
-**Experimental [social psychology](/sociology))** tests specific mechanisms in controlled settings. How does group size affect conformity? How does anonymity change cooperation? How do status hierarchies form? Lab experiments isolate variables that are impossibly tangled in real-world observation.
+**Experimental [social psychology](/social-psychology))** tests specific mechanisms in controlled settings. How does group size affect conformity? How does anonymity change cooperation? How do status hierarchies form? Lab experiments isolate variables that are impossibly tangled in real-world observation.
 
 **Computational social science** analyzes massive datasets from social media, mobile phones, financial transactions, and other digital traces to identify patterns in social behavior at scale. This approach can track how emotions spread through networks, how segregation patterns form in cities, and how political polarization develops over time.
 

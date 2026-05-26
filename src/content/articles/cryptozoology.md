@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 960
 tier: "3"
-relatedArticles: ["mythology", "folklore", "biology", "anthropology"]
+relatedArticles: ["mythology", "folklore", "biology", "anthropology", "pictography"]
 externalSources:
   - title: "Smithsonian - Cryptozoology"
     url: "https://www.smithsonianmag.com/"
@@ -53,7 +53,7 @@ The problem is the gap between "unknown species might exist" and "Bigfoot is rea
 
 ## Why People Believe
 
-The persistence of cryptid belief, despite the lack of evidence, reveals interesting things about human [psychology](/critical-thinking).
+The persistence of cryptid belief, despite the lack of evidence, reveals interesting things about human [psychology](/psychology).
 
 **[Pattern recognition](/pattern-recognition) overdrive.** Our brains are wired to detect agents and threats in ambiguous stimuli. A shadow in the forest, a wake on a lake surface, an unusual sound at night — the brain's default is to interpret ambiguous input as a potential creature rather than nothing at all. False positives were evolutionarily cheap; false negatives were potentially fatal.
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1038
 tier: "3"
-relatedArticles: ["astronomy", "acoustics"]
+relatedArticles: ["astronomy", "acoustics", "school-administration", "stellar-astronomy"]
 externalSources:
   - title: "NASA - Spectroscopy in Space"
     url: "https://science.nasa.gov/"

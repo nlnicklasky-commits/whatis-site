@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1072
 tier: "3"
-relatedArticles: ["music-theory", "electronic-music", "dance"]
+relatedArticles: ["music-theory", "electronic-music", "dance", "tabletop-role-playing-games", "voodoo"]
 externalSources:
   - title: "Percussive Arts Society"
     url: "https://www.pas.org/"
@@ -51,7 +51,7 @@ Today's kits vary enormously. A jazz drummer might use a small four-piece kit wi
 
 **The grip** comes in two main styles. Matched grip (both hands hold the stick the same way) is the modern standard — versatile, powerful, and applicable to all kit playing. Traditional grip (the left hand holds the stick underhand, like holding a paintbrush) originated in marching drumming and is associated with jazz. Neither is superior; both work.
 
-**Rudiments** are to drumming what scales are to [piano](/classical-music). The 40 Percussive Arts Society International Drum Rudiments include single strokes, double strokes, paradiddles, flams, and drags. They're not exciting to practice. They're essential. Every complex drum pattern decomposes into rudimentary combinations.
+**Rudiments** are to drumming what scales are to [piano](/piano). The 40 Percussive Arts Society International Drum Rudiments include single strokes, double strokes, paradiddles, flams, and drags. They're not exciting to practice. They're essential. Every complex drum pattern decomposes into rudimentary combinations.
 
 **Limb independence** is what separates drumming from most instruments. A drummer might play eighth notes on the hi-hat with the right hand, snare backbeats with the left hand, bass drum patterns with the right foot, and hi-hat opening/closing with the left foot — all simultaneously, all different patterns. Your brain essentially runs four independent programs at once. This takes months to develop and years to master.
 
@@ -73,7 +73,7 @@ Today's kits vary enormously. A jazz drummer might use a small four-piece kit wi
 
 A landmark study at the Karolinska Institute in Stockholm found that drummers who kept better time also scored higher on intelligence tests measuring problem-solving ability. The researchers suggested that rhythmic precision correlates with the efficiency of information processing in the brain.
 
-Group drumming — drum circles, community percussion — produces measurable physiological effects. Cortisol (stress hormone) drops. Immune markers improve. Participants report mood elevation comparable to moderate exercise. The combination of physical activity, social connection, and rhythmic synchronization appears to be uniquely therapeutic. Hospitals, rehabilitation centers, and [mental health](/psychology) programs increasingly include drumming in treatment protocols.
+Group drumming — drum circles, community percussion — produces measurable physiological effects. Cortisol (stress hormone) drops. Immune markers improve. Participants report mood elevation comparable to moderate exercise. The combination of physical activity, social connection, and rhythmic synchronization appears to be uniquely therapeutic. Hospitals, rehabilitation centers, and [mental health](/mental-health) programs increasingly include drumming in treatment protocols.
 
 ## Getting Started
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1617
 tier: "3"
-relatedArticles: ["civil-engineering", "aerospace-engineering", "architecture", "classical-mechanics"]
+relatedArticles: ["civil-engineering", "aerospace-engineering", "architecture", "classical-mechanics", "secret-societies"]
 externalSources:
   - title: "American Society of Civil Engineers History and Heritage"
     url: "https://www.asce.org/about-civil-engineering/history-and-heritage"
@@ -73,7 +73,7 @@ The popular image of the Middle Ages as a technological wasteland is flat wrong.
 
 Gothic cathedrals, in particular, were engineering marvels. Builders figured out that pointed arches, ribbed vaults, and flying buttresses could redistribute weight so effectively that walls could be thinner and filled with enormous [stained glass](/stained-glass) windows. Notre-Dame de Paris (begun 1163) and Chartres Cathedral (begun 1194) pushed the boundaries of what stone [construction](/construction) could achieve.
 
-The funny thing is, these medieval builders had no formal [mathematics](/calculus) to guide them. They relied on geometric rules of thumb passed down through craft guilds. The fact that these structures still stand — despite being designed without stress calculations — says something about the value of accumulated practical knowledge.
+The funny thing is, these medieval builders had no formal [mathematics](/mathematics) to guide them. They relied on geometric rules of thumb passed down through craft guilds. The fact that these structures still stand — despite being designed without stress calculations — says something about the value of accumulated practical knowledge.
 
 ## The Renaissance and the Birth of Modern Engineering
 

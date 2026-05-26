@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1424
 tier: "3"
-relatedArticles: ["nursing", "anatomy", "nutrition"]
+relatedArticles: ["nursing", "anatomy", "nutrition", "ultrasonography"]
 externalSources:
   - title: "ACOG: The American College of Obstetricians and Gynecologists"
     url: "https://www.acog.org/"

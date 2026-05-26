@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1035
 tier: "3"
-relatedArticles: ["hiking", "animal-behavior", "agriculture"]
+relatedArticles: ["hiking", "animal-behavior", "agriculture", "cat-breeding", "historical-gunslinging"]
 externalSources:
   - title: "U.S. Fish and Wildlife Service – Hunting"
     url: "https://www.fws.gov/hunting"

@@ -85,7 +85,7 @@ What makes wetlands irreplaceable is their function. They filter pollutants, abs
 
 Out of sight and usually out of mind, groundwater harbors entire ecosystems. Caves, aquifers, and underground rivers contain species found nowhere else — eyeless fish, transparent crustaceans, and microorganisms adapted to permanent darkness and nutrient scarcity.
 
-Groundwater [ecology](/conservation-biology) is one of the least studied areas of freshwater biology, partly because access is difficult and partly because the organisms are small and the environments extreme. But groundwater provides about 30% of the world's freshwater supply and sustains base flows in rivers and streams during dry periods. Understanding its biology is becoming increasingly important as groundwater extraction accelerates worldwide.
+Groundwater [ecology](/ecology) is one of the least studied areas of freshwater biology, partly because access is difficult and partly because the organisms are small and the environments extreme. But groundwater provides about 30% of the world's freshwater supply and sustains base flows in rivers and streams during dry periods. Understanding its biology is becoming increasingly important as groundwater extraction accelerates worldwide.
 
 ## The Organisms: Who Lives in Freshwater?
 

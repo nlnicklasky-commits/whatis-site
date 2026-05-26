@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1667
 tier: "3"
-relatedArticles: ["southeast-asian-history", "anthropology", "comparative-religion"]
+relatedArticles: ["southeast-asian-history", "anthropology", "comparative-religion", "uniformology", "united-kingdom-history"]
 externalSources:
   - title: "Encyclopaedia Britannica: Indonesia"
     url: "https://www.britannica.com/place/Indonesia"

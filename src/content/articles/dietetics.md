@@ -39,7 +39,7 @@ Dietetics is the science of how food and [nutrition](/nutrition) affect human he
 
 ## More Than Just Telling People to Eat Vegetables
 
-There's a common misconception that dietetics is just common-sense advice about eating more greens and drinking water. Frankly, that sells the field way short. Dietetics sits at the intersection of [biochemistry](/chemistry), [physiology](/physiology), [food science](/food-science), and clinical medicine. A registered dietitian working in a hospital's intensive care unit is calculating precise macronutrient ratios for a patient receiving nutrition through an IV line — that's applied science, not [wellness](/wellness) advice.
+There's a common misconception that dietetics is just common-sense advice about eating more greens and drinking water. Frankly, that sells the field way short. Dietetics sits at the intersection of [biochemistry](/biochemistry), [physiology](/physiology), [food science](/food-science), and clinical medicine. A registered dietitian working in a hospital's intensive care unit is calculating precise macronutrient ratios for a patient receiving nutrition through an IV line — that's applied science, not [wellness](/wellness) advice.
 
 The field's scope is genuinely broad. Dietitians manage the nutritional care of premature infants who can't yet eat. They design renal diets for people whose kidneys can no longer filter phosphorus and potassium properly. They help athletes optimize performance by timing carbohydrate intake around training. They treat eating disorders, counsel cancer patients experiencing treatment-related nausea, and develop school lunch programs that meet federal nutrition standards while staying within budget.
 

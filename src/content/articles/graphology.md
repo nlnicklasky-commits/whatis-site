@@ -55,7 +55,7 @@ The first known work on [handwriting analysis](/handwriting-analysis) was Camill
 
 The field split into two traditions. The **French school** (Michon's approach) assigned fixed meanings to individual handwriting features — each sign meant something specific. The **German school** (developed by Ludwig Klages in the early 1900s) took a more complete approach, arguing that the overall rhythm and pattern of writing mattered more than individual features.
 
-Graphology gained popularity in Europe during the early-to-mid 20th century. It was used in hiring, [clinical psychology](/cycling)), and compatibility assessment. In France, an estimated 50-75% of companies used graphology in hiring at its peak, though the practice has declined significantly since the 2000s as scientific criticism increased.
+Graphology gained popularity in Europe during the early-to-mid 20th century. It was used in hiring, [clinical psychology](/clinical-psychology)), and compatibility assessment. In France, an estimated 50-75% of companies used graphology in hiring at its peak, though the practice has declined significantly since the 2000s as scientific criticism increased.
 
 ## The Scientific Problem
 

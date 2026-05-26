@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 3079
 tier: "1"
-relatedArticles: ["acoustics", "digital-signal-processing", "amateur-radio", "app-development"]
+relatedArticles: ["acoustics", "digital-signal-processing", "amateur-radio", "app-development", "tidal-power"]
 externalSources:
   - title: "Audio Engineering Society"
     url: "https://www.aes.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2445
 tier: "2"
-relatedArticles: ["algorithms", "acoustics", "machine-learning", "alternative-energy"]
+relatedArticles: ["algorithms", "acoustics", "machine-learning", "alternative-energy", "eeg-technology"]
 externalSources:
   - title: "MIT OpenCourseWare - Signals and Systems"
     url: "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1735
 tier: "3"
-relatedArticles: ["military-history", "archaeology", "medieval-history"]
+relatedArticles: ["military-history", "archaeology", "medieval-history", "the-history-of-astronomy", "the-history-of-biology"]
 externalSources:
   - title: "The Metropolitan Museum of Art: Arms and Armor"
     url: "https://www.metmuseum.org/about-the-met/collection-areas/arms-and-armor"

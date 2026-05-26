@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1064
 tier: "3"
-relatedArticles: ["psychology", "neuroscience", "yoga"]
+relatedArticles: ["psychology", "neuroscience", "yoga", "go-game", "jigsaw-puzzles"]
 externalSources:
   - title: "NIH National Center for Complementary and Integrative Health: Meditation"
     url: "https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know"

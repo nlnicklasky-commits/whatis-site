@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1539
 tier: "3"
-relatedArticles: ["anatomy", "mental-health", "biology"]
+relatedArticles: ["anatomy", "mental-health", "biology", "historical-witchcraft"]
 externalSources:
   - title: "American College of Nurse-Midwives"
     url: "https://www.midwife.org/"

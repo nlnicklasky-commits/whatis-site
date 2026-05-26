@@ -176,4 +176,4 @@ Buy from local farmers who practice sustainable methods. Join a CSA. Look for ce
 
 And frankly, pay attention to farm policy. The Farm Bill affects every bite you eat, and public engagement in its renewal process is surprisingly low given its impact.
 
-Sustainable [agriculture](/agronomy) isn't a return to some romanticized past. It's a forward-looking approach that combines the best of traditional knowledge with modern science and technology. The goal isn't to produce less food — it's to produce enough food without destroying the ecological systems that all future food production depends on. That's not idealism. That's [pragmatism](/pragmatism).
+Sustainable [agriculture](/agriculture) isn't a return to some romanticized past. It's a forward-looking approach that combines the best of traditional knowledge with modern science and technology. The goal isn't to produce less food — it's to produce enough food without destroying the ecological systems that all future food production depends on. That's not idealism. That's [pragmatism](/pragmatism).

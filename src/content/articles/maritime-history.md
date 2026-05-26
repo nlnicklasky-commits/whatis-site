@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1507
 tier: "3"
-relatedArticles: ["marine-archeology", "anthropology", "maritime-law"]
+relatedArticles: ["marine-archeology", "anthropology", "maritime-law", "shipwreck-archeology"]
 externalSources:
   - title: "National Maritime Museum, Greenwich"
     url: "https://www.rmg.co.uk/national-maritime-museum"

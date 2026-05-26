@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1074
 tier: "3"
-relatedArticles: ["camping", "hiking", "first-aid", "navigation"]
+relatedArticles: ["camping", "hiking", "first-aid", "navigation", "tree-climbing"]
 externalSources:
   - title: "U.S. Army Survival Manual (FM 21-76)"
     url: "https://www.goarmy.com/"

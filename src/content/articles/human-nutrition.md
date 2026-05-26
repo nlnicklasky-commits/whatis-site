@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1808
 tier: "3"
-relatedArticles: ["biology", "chemistry", "anatomy", "agriculture"]
+relatedArticles: ["biology", "chemistry", "anatomy", "agriculture", "poultry-farming"]
 externalSources:
   - title: "USDA Dietary Guidelines for Americans"
     url: "https://www.dietaryguidelines.gov/"

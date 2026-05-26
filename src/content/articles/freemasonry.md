@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1567
 tier: "3"
-relatedArticles: ["christianity", "aesthetics", "capitalism"]
+relatedArticles: ["christianity", "aesthetics", "capitalism", "paganism", "secret-societies"]
 externalSources:
   - title: "United Grand Lodge of England — History"
     url: "https://www.ugle.org.uk/about-freemasonry/history-of-freemasonry"

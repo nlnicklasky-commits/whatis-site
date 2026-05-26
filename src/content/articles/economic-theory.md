@@ -191,7 +191,7 @@ Economic theory is powerful but has real limitations worth acknowledging.
 
 **Distributional questions.** Standard theory demonstrates that free trade increases total wealth, but says little about who gains and who loses. A trade agreement might increase national GDP while devastating specific communities. Efficiency and equity are different things, and economic theory handles efficiency much better than equity.
 
-**Environmental externalities.** Markets don't automatically account for environmental costs. A factory pollutes because the cost of pollution is borne by society, not the factory. [Climate change](/climatology) is the ultimate externality—the cost of carbon emissions is distributed globally and across generations, far from the point of emission. Market-based solutions (carbon taxes, cap-and-trade) exist in theory but face enormous political obstacles.
+**Environmental externalities.** Markets don't automatically account for environmental costs. A factory pollutes because the cost of pollution is borne by society, not the factory. [Climate change](/climate-change) is the ultimate externality—the cost of carbon emissions is distributed globally and across generations, far from the point of emission. Market-based solutions (carbon taxes, cap-and-trade) exist in theory but face enormous political obstacles.
 
 **Financial instability.** Standard macroeconomic models largely ignored financial markets until the 2008 crisis exposed this as a catastrophic blind spot. Post-crisis macroeconomics has incorporated financial frictions, but modeling financial crises—which are inherently about panic, contagion, and nonlinear dynamics—remains extremely difficult.
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 988
 tier: "3"
-relatedArticles: ["songwriting", "music-theory", "music-production"]
+relatedArticles: ["songwriting", "music-theory", "music-production", "salsa-dancing", "ukelele"]
 externalSources:
   - title: "Britannica — Pop Music"
     url: "https://www.britannica.com/art/pop-music"

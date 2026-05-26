@@ -195,7 +195,7 @@ Foreign aid's role in development is heavily debated. Total official development
 
 Several trends will shape the global economy in coming decades.
 
-**[Climate change](/climate-change)** is becoming a major economic variable. The transition from fossil fuels to [renewable energy](/alternative-energy) will reshape trade patterns, create new industries, and strand existing assets. Carbon pricing, border carbon adjustments, and climate finance are becoming central trade policy issues.
+**[Climate change](/climate-change)** is becoming a major economic variable. The transition from fossil fuels to [renewable energy](/renewable-energy) will reshape trade patterns, create new industries, and strand existing assets. Carbon pricing, border carbon adjustments, and climate finance are becoming central trade policy issues.
 
 **Digital transformation** is redefining what's tradeable. Services that once required physical presence—consulting, education, healthcare—can increasingly be delivered digitally across borders. This creates new opportunities but also new challenges for regulation and taxation.
 

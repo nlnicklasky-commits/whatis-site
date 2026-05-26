@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1468
 tier: '2'
-relatedArticles: ["anatomy", "health-science", "psychology", "biology"]
+relatedArticles: ["anatomy", "health-science", "psychology", "biology", "hypnotherapy"]
 externalSources:
   - title: "NCCIH — Acupressure"
     url: "https://www.nccih.nih.gov/health/acupuncture-in-depth"

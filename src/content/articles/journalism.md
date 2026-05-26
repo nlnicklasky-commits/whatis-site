@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 770
 tier: "3"
-relatedArticles: ["intellectual-history", "intelligence-analysis", "historical-conspiracy-theories", "leadership"]
+relatedArticles: ["intellectual-history", "intelligence-analysis", "historical-conspiracy-theories", "leadership", "newspaper-history"]
 externalSources:
   - title: "Society of Professional Journalists – Code of Ethics"
     url: "https://www.spj.org/ethicscode.asp"

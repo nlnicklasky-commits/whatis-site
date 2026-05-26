@@ -250,6 +250,6 @@ Hosting is evolving toward more abstraction. Serverless computing (AWS Lambda, C
 
 Edge computing pushes processing closer to users. Instead of your application running in a single data center, it runs at CDN edge nodes worldwide. Frameworks like Next.js and Astro are already optimizing for edge deployment.
 
-Containerization with Docker and [orchestration](/cloud-computing) with Kubernetes has standardized how applications are packaged and deployed, making it easier to move between hosting providers and scale individual components independently.
+Containerization with Docker and [orchestration](/orchestration) with Kubernetes has standardized how applications are packaged and deployed, making it easier to move between hosting providers and scale individual components independently.
 
 The trend is clear: less time managing infrastructure, more time building applications. Whether that means using a managed platform, going serverless, or deploying containers to the edge, the tools for getting websites online have never been more accessible.

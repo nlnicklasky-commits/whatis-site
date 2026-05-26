@@ -12,7 +12,7 @@ dateModified: "2026-05-13"
 readingTime: 7
 wordCount: 1650
 tier: "3"
-relatedArticles: ["interest-rate", "savings", "accounting", "investment-management"]
+relatedArticles: ["interest-rate", "savings", "accounting", "investment-management", "pension-management"]
 externalSources:
   - title: "Investor.gov — Compound Interest Calculator"
     url: "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator"

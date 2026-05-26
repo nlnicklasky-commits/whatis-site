@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1431
 tier: "3"
-relatedArticles: ["capitalism", "cartography", "climatology"]
+relatedArticles: ["capitalism", "cartography", "climatology", "russian-history", "soviet-history"]
 externalSources:
   - title: "Council on Foreign Relations"
     url: "https://www.cfr.org/"

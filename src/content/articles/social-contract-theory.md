@@ -29,7 +29,7 @@ faq:
     a: "No. It's a philosophical concept — a thought experiment explaining why rational people would agree to be governed. No one actually signs it. However, constitutions function as something close to explicit social contracts, spelling out the rights citizens retain and the powers they grant to government. The U.S. Constitution's opening — 'We the People' — echoes social contract language directly."
 ---
 
-# What Is [Social](/[social](/social-choice-theory)-democracy) Contract Theory?
+# What Is Social Contract Theory?
 
 Social contract theory is the philosophical idea that legitimate political authority comes from an agreement — explicit or implied — between individuals and their [government](/government). People consent to give up certain freedoms and follow certain rules in exchange for the benefits of organized society: security, order, property protection, and collective services they couldn't provide alone. This theory bridges [ethics](/ethics), [political-philosophy](/political-philosophy), [democracy](/democracy), [law](/law), and [human-rights](/human-rights-law) concepts.
 

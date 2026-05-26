@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1023
 tier: "3"
-relatedArticles: ["piano-tuning", "orchestration", "opera", "philosophy-of-music"]
+relatedArticles: ["piano-tuning", "orchestration", "opera", "philosophy-of-music", "guerrilla-marketing"]
 externalSources:
   - title: "Britannica - Piano"
     url: "https://www.britannica.com/art/piano"

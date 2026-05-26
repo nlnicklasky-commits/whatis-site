@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1116
 tier: "3"
-relatedArticles: ["exploration-history", "gothic-architecture", "existentialism"]
+relatedArticles: ["exploration-history", "gothic-architecture", "existentialism", "urban-exploration", "voodoo"]
 externalSources:
   - title: "Britannica — History of France"
     url: "https://www.britannica.com/place/France/History"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2920
 tier: "2"
-relatedArticles: ["computer-science", "computer-hardware", "algorithms", "computer-architecture"]
+relatedArticles: ["computer-science", "computer-hardware", "algorithms", "computer-architecture", "dynamic-programming"]
 externalSources:
   - title: "ACM SIGGRAPH - Computer Graphics Resources"
     url: "https://www.siggraph.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2721
 tier: "2"
-relatedArticles: ["air-conditioning", "alternative-energy", "machine-learning", "algorithms"]
+relatedArticles: ["air-conditioning", "alternative-energy", "machine-learning", "algorithms", "seaplane-piloting"]
 externalSources:
   - title: "ASHRAE - Building Automation"
     url: "https://www.ashrae.org/"

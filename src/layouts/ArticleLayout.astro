@@ -24,6 +24,9 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
   ogImage={`${siteUrl}${frontmatter.heroImage}`}
   ogType="article"
 >
+  <!-- Preload the hero (LCP element) so the browser fetches it off the critical path -->
+  <link slot="head" rel="preload" as="image" href={frontmatter.heroImage} fetchpriority="high" />
+
   <!-- Article Schema (with speakable for voice assistants / GEO) -->
   <script slot="head" type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
@@ -78,7 +81,7 @@ const displayCategory = categoryMap[frontmatter.category] || frontmatter.categor
           {new Date(frontmatter.datePublished).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
         </time>
         {frontmatter.dateModified && frontmatter.dateModified !== frontmatter.datePublished && (
-          <span class="text-gray-400">
+          <span class="text-gray-500">
             (Updated <time datetime={frontmatter.dateModified}>
               {new Date(frontmatter.dateModified).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
             </time>)

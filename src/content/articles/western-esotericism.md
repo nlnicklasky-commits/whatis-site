@@ -79,7 +79,7 @@ Christian Kabbalah emerged in the late 15th century when thinkers like Giovanni 
 
 Neoplatonism, based on the philosophy of Plotinus (204-270 CE), teaches that all reality emanates from a single source called "the One." The physical world is the furthest emanation from this source, and the goal of spiritual practice is to reverse the process -- to ascend back toward the One through contemplation and purification.
 
-This framework profoundly influenced Christian [theology](/christianity), Islamic philosophy, and virtually every Western esoteric tradition. The Neoplatonic idea of a "great chain of being" -- a hierarchy of existence from pure matter to pure spirit -- was the dominant cosmological model in the West for over a thousand years.
+This framework profoundly influenced Christian [theology](/theology), Islamic philosophy, and virtually every Western esoteric tradition. The Neoplatonic idea of a "great chain of being" -- a hierarchy of existence from pure matter to pure spirit -- was the dominant cosmological model in the West for over a thousand years.
 
 ### Astrology
 

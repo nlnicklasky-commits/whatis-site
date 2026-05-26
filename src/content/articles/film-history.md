@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 938
 tier: "3"
-relatedArticles: ["filmmaking", "film-criticism", "film-theory", "film-noir"]
+relatedArticles: ["filmmaking", "film-criticism", "film-theory", "film-noir", "thatching"]
 externalSources:
   - title: "Library of Congress — National Film Registry"
     url: "https://www.loc.gov/programs/national-film-preservation-board/film-registry/"

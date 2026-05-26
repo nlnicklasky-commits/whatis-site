@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3553
 tier: "1"
-relatedArticles: ["aerodynamics", "acoustics", "machine-learning"]
+relatedArticles: ["aerodynamics", "acoustics", "machine-learning", "network-administration", "post-and-beam-construction"]
 externalSources:
   - title: "Energy Information Administration - Air Conditioning"
     url: "https://www.eia.gov/energyexplained/use-of-energy/heating-and-cooling.php"

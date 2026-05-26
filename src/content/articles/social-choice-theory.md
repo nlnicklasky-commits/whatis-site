@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 886
 tier: "3"
-relatedArticles: ["social-democracy", "socialism"]
+relatedArticles: ["social-democracy", "socialism", "voting-theory"]
 externalSources:
   - title: "Social Choice Theory - Stanford Encyclopedia of Philosophy"
     url: "https://plato.stanford.edu/entries/social-choice/"

@@ -93,7 +93,7 @@ Behavioral economics isn't without skeptics. Some economists argue that markets 
 
 The replication crisis in psychology has affected behavioral economics too. Some famous findings (including certain priming effects) have failed to replicate in larger, more rigorous studies. The field is responding with pre-registration of studies, larger sample sizes, and more transparent methodology.
 
-There's also a meaningful gap between identifying biases in lab experiments and predicting behavior in complex real-world situations where multiple biases interact. Behavioral [economics](/economic-theory) is better at explaining past behavior than forecasting future decisions.
+There's also a meaningful gap between identifying biases in lab experiments and predicting behavior in complex real-world situations where multiple biases interact. Behavioral [economics](/economics) is better at explaining past behavior than forecasting future decisions.
 
 ## Why It Matters
 

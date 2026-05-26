@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1064
 tier: "3"
-relatedArticles: ["jewelry-making", "illustration", "home-economics", "instrument-making"]
+relatedArticles: ["jewelry-making", "illustration", "home-economics", "instrument-making", "textile-science"]
 externalSources:
   - title: "Knitting – Textile Research Centre, Leiden University"
     url: "https://trc-leiden.nl/"

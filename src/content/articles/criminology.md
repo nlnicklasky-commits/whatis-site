@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 959
 tier: "3"
-relatedArticles: ["sociology", "civil-law", "critical-thinking", "public-policy"]
+relatedArticles: ["sociology", "civil-law", "critical-thinking", "public-policy", "philosophy-of-law"]
 externalSources:
   - title: "Bureau of Justice Statistics"
     url: "https://bjs.ojp.gov/"

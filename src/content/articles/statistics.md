@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2584
 tier: "2"
-relatedArticles: ["mathematics", "data-analysis", "algorithms", "machine-learning"]
+relatedArticles: ["mathematics", "data-analysis", "algorithms", "machine-learning", "medical-billing"]
 externalSources:
   - title: "American Statistical Association"
     url: "https://www.amstat.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2760
 tier: "2"
-relatedArticles: ["bookkeeping", "accounting", "business-administration", "business-strategy"]
+relatedArticles: ["bookkeeping", "accounting", "business-administration", "business-strategy", "couponing"]
 externalSources:
   - title: "Consumer Financial Protection Bureau - Budgeting"
     url: "https://www.consumerfinance.gov/about-us/blog/budgeting-how-to-create-a-budget-and-stick-with-it/"

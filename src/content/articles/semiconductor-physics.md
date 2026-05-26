@@ -65,7 +65,7 @@ This temperature sensitivity is why your laptop gets slower when it overheats. T
 
 ## Silicon: The Star of the Show
 
-Silicon dominates semiconductor [physics](/classical-mechanics) for reasons that are part chemistry, part [economics](/economics), and part historical accident.
+Silicon dominates semiconductor [physics](/physics) for reasons that are part chemistry, part [economics](/economics), and part historical accident.
 
 ### What Makes Silicon Special
 

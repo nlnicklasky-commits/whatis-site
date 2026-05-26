@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 967
 tier: "3"
-relatedArticles: ["architecture", "construction", "civil-engineering", "concrete-technology"]
+relatedArticles: ["architecture", "construction", "civil-engineering", "concrete-technology", "pre-columbian-history"]
 externalSources:
   - title: "Mason Contractors Association of America"
     url: "https://www.masoncontractors.org/"

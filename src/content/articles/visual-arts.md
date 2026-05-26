@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 971
 tier: "3"
-relatedArticles: ["type-design", "typography", "video-editing", "western-art"]
+relatedArticles: ["type-design", "typography", "video-editing", "western-art", "vexillology"]
 externalSources:
   - title: "National Endowment for the Arts"
     url: "https://www.arts.gov/"

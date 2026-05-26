@@ -200,4 +200,4 @@ If you want to explore technical analysis:
 5. **Keep a trading journal** — record your reasoning, not just your results
 6. **Study your losses** — they teach more than your wins
 
-The learning curve is steep, and most people who try active trading lose money. That's not a reason to avoid learning — it's a reason to approach it seriously, with realistic expectations and rigorous [risk management](/budgeting).
+The learning curve is steep, and most people who try active trading lose money. That's not a reason to avoid learning — it's a reason to approach it seriously, with realistic expectations and rigorous [risk management](/risk-management).

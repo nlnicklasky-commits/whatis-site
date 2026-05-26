@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 13
 wordCount: 3528
 tier: "1"
-relatedArticles: ["physics", "engineering", "signal-processing", "music-theory"]
+relatedArticles: ["physics", "engineering", "signal-processing", "music-theory", "pipe-organ"]
 externalSources:
   - title: "Acoustical Society of America"
     url: "https://acousticalsociety.org/"

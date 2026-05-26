@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 881
 tier: "3"
-relatedArticles: ["communication-theory", "digital-marketing", "podcasting", "journalism"]
+relatedArticles: ["communication-theory", "digital-marketing", "podcasting", "journalism", "guerrilla-marketing"]
 externalSources:
   - title: "FCC - Federal Communications Commission"
     url: "https://www.fcc.gov/"

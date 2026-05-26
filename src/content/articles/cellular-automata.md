@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2343
 tier: "2"
-relatedArticles: ["algorithms", "machine-learning", "abstract-algebra", "cell-biology"]
+relatedArticles: ["algorithms", "machine-learning", "abstract-algebra", "cell-biology", "slate-roofing"]
 externalSources:
   - title: "Wolfram MathWorld - Cellular Automaton"
     url: "https://mathworld.wolfram.com/CellularAutomaton.html"

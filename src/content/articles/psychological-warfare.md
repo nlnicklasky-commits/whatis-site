@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1737
 tier: "3"
-relatedArticles: ["presidential-history", "psychological-history", "communication-theory"]
+relatedArticles: ["presidential-history", "psychological-history", "communication-theory", "mongol-history"]
 externalSources:
   - title: "U.S. Army Psychological Operations"
     url: "https://www.soc.mil/USAPSA/USAPSA.html"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1132
 tier: "3"
-relatedArticles: ["virtue-ethics", "voting-theory", "western-art"]
+relatedArticles: ["virtue-ethics", "voting-theory", "western-art", "wildfire-management"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy"
     url: "https://plato.stanford.edu/"

@@ -87,7 +87,7 @@ Developed most notably by R.M. Hare and Peter Singer, preference utilitarianism 
 
 This avoids the awkward question of what counts as pleasure and whether some pleasures are "higher" than others. Instead, it respects what people actually want, whatever that may be. If you prefer a quiet life of contemplation and I prefer extreme sports, neither preference is inherently superior — what matters is whether our preferences are satisfied.
 
-Preference utilitarianism has been influential in applied [ethics](/aesthetics) and [economic theory](/economic-theory) (welfare [economics](/economics) is largely built on preference satisfaction). But it faces its own problems: Should we satisfy sadistic preferences? Uninformed preferences (you want X but would want Y if you knew all the facts)? Adaptive preferences (the oppressed person who has "learned" to prefer oppression)?
+Preference utilitarianism has been influential in applied [ethics](/ethics) and [economic theory](/economic-theory) (welfare [economics](/economics) is largely built on preference satisfaction). But it faces its own problems: Should we satisfy sadistic preferences? Uninformed preferences (you want X but would want Y if you knew all the facts)? Adaptive preferences (the oppressed person who has "learned" to prefer oppression)?
 
 ### Negative Utilitarianism
 
@@ -139,7 +139,7 @@ Healthcare systems around the world use utilitarian frameworks. The UK's NICE ev
 
 ### Effective Altruism
 
-The effective altruism movement, influenced heavily by Peter Singer's utilitarian [philosophy](/stoicism) and Will MacAskill's philosophical work, applies utilitarian reasoning to charitable giving. Rather than donating to whatever cause tugs your heartstrings, effective altruists try to determine which interventions produce the most good per dollar spent.
+The effective altruism movement, influenced heavily by Peter Singer's utilitarian [philosophy](/philosophy) and Will MacAskill's philosophical work, applies utilitarian reasoning to charitable giving. Rather than donating to whatever cause tugs your heartstrings, effective altruists try to determine which interventions produce the most good per dollar spent.
 
 The results are striking. GiveWell's research estimates that distributing antimalarial bed nets through the Against Malaria Foundation saves a child's life for roughly $3,500-5,500. By contrast, training a guide dog in the U.S. costs about $50,000. If your goal is to maximize welfare, the utilitarian math strongly favors malaria nets.
 

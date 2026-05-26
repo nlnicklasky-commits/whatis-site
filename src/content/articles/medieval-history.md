@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 963
 tier: "3"
-relatedArticles: ["archaeology", "architecture", "religion"]
+relatedArticles: ["archaeology", "architecture", "religion", "iberian-history"]
 externalSources:
   - title: "Metropolitan Museum of Art: Medieval Art"
     url: "https://www.metmuseum.org/about-the-met/collection-areas/medieval-art-and-the-cloisters"

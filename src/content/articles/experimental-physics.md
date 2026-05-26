@@ -51,7 +51,7 @@ Sometimes experiments lead and theory follows. The discovery of X-rays by Wilhel
 
 ## The Experimental Method in Physics
 
-The process of experimental physics follows a logic that's related to the broader [scientific method](/algorithms) but has its own particular flavor. Here's how it actually works in practice.
+The process of experimental physics follows a logic that's related to the broader [scientific method](/scientific-method) but has its own particular flavor. Here's how it actually works in practice.
 
 ### Forming the Question
 

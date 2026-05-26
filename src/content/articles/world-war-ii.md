@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1614
 tier: "3"
-relatedArticles: ["thirty-years-war"]
+relatedArticles: ["thirty-years-war", "australian-history", "espionage-history"]
 externalSources:
   - title: "National WWII Museum"
     url: "https://www.nationalww2museum.org/"

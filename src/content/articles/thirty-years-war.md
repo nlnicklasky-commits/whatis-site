@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1487
 tier: "3"
-relatedArticles: ["world-war-ii", "the-history-of-chemistry", "feudalism"]
+relatedArticles: ["world-war-ii", "the-history-of-chemistry", "feudalism", "german-history", "historical-witchcraft"]
 externalSources:
   - title: "Britannica — Thirty Years' War"
     url: "https://www.britannica.com/event/Thirty-Years-War"

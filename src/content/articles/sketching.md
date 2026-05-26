@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1013
 tier: "3"
-relatedArticles: ["scientific-illustration", "sculpture", "screen-printing"]
+relatedArticles: ["scientific-illustration", "sculpture", "screen-printing", "protozoology"]
 externalSources:
   - title: "Drawing and Sketching - National Gallery of Art"
     url: "https://www.nga.gov/"

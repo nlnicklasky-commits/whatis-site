@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1094
 tier: "3"
-relatedArticles: ["typography", "word-games", "type-design"]
+relatedArticles: ["typography", "word-games", "type-design", "fountain-pen-collecting", "korean-history"]
 externalSources:
   - title: "Purdue Online Writing Lab (OWL)"
     url: "https://owl.purdue.edu/"

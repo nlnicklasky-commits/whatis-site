@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1513
 tier: "3"
-relatedArticles: ["business-law", "capitalism"]
+relatedArticles: ["business-law", "capitalism", "land-law"]
 externalSources:
   - title: "Cornell Law Institute - Property"
     url: "https://www.law.cornell.edu/wex/property"

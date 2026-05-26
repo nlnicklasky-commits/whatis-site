@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1112
 tier: "3"
-relatedArticles: ["time-management", "economics", "psychology"]
+relatedArticles: ["time-management", "economics", "psychology", "flemish-painting", "grassland-ecology"]
 externalSources:
   - title: "Bureau of Labor Statistics — Productivity"
     url: "https://www.bls.gov/lpc/"

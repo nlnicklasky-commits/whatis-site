@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1714
 tier: "3"
-relatedArticles: ["anthropology", "archaeology", "christianity"]
+relatedArticles: ["anthropology", "archaeology", "christianity", "turkish-history"]
 externalSources:
   - title: "Encyclopaedia Britannica: Ottoman Empire"
     url: "https://www.britannica.com/place/Ottoman-Empire"

@@ -35,7 +35,7 @@ faq:
 
 # What Is Biomechanics?
 
-Biomechanics is the science that applies the principles of mechanics — the branch of [physics](/acoustics) dealing with forces and motion — to biological systems. It studies how muscles, bones, tendons, and ligaments generate and respond to forces, how organisms move through their environments, and how the mechanical properties of biological tissues determine their function and vulnerability to injury.
+Biomechanics is the science that applies the principles of mechanics — the branch of [physics](/physics) dealing with forces and motion — to biological systems. It studies how muscles, bones, tendons, and ligaments generate and respond to forces, how organisms move through their environments, and how the mechanical properties of biological tissues determine their function and vulnerability to injury.
 
 ## Forces Inside Your Body
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 937
 tier: "3"
-relatedArticles: ["folk-art", "graphic-design", "fashion-design"]
+relatedArticles: ["folk-art", "graphic-design", "fashion-design", "frame-making", "graffiti-art"]
 externalSources:
   - title: "Metropolitan Museum of Art"
     url: "https://www.metmuseum.org/"

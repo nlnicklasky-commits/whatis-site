@@ -147,7 +147,7 @@ Single-gene mutations cause conditions like achondroplasia (the most common form
 
 But the most interesting cases, from a teratological perspective, involve gene-environment interactions. A fetus with certain genetic variants may be more susceptible to a teratogen than one without those variants. For example, variations in the gene encoding the enzyme ALDH2 (which metabolizes alcohol) may partly explain why some fetuses develop fetal alcohol syndrome while others exposed to similar levels do not.
 
-The [genetics](/biology) of susceptibility is a major frontier in teratology research. As genome sequencing becomes cheaper and more accessible, researchers are beginning to identify specific genetic variants that modify teratogenic risk.
+The [genetics](/genetics) of susceptibility is a major frontier in teratology research. As genome sequencing becomes cheaper and more accessible, researchers are beginning to identify specific genetic variants that modify teratogenic risk.
 
 ## Modern Teratology — Prevention and Screening
 

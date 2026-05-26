@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1556
 tier: "3"
-relatedArticles: ["nursing", "occupational-health", "anatomy"]
+relatedArticles: ["nursing", "occupational-health", "anatomy", "senior-care"]
 externalSources:
   - title: "American Occupational Therapy Association"
     url: "https://www.aota.org/"

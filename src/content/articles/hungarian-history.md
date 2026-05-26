@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1563
 tier: "3"
-relatedArticles: ["medieval-history", "ottoman-history", "european-history", "political-philosophy"]
+relatedArticles: ["medieval-history", "ottoman-history", "european-history", "political-philosophy", "the-history-of-chemistry"]
 externalSources:
   - title: "Encyclopaedia Britannica: Hungary"
     url: "https://www.britannica.com/place/Hungary"
@@ -77,7 +77,7 @@ Hungary entered World War I as part of the Central Powers. It lost. The 1920 Tre
 
 About 3.3 million ethnic Hungarians — roughly one-third of all Magyars — found themselves as minorities in neighboring states. The trauma of Trianon became the defining event of modern Hungarian national consciousness. "Nem, nem, soha!" ("No, no, never!") became the nationalist rallying cry.
 
-The desire to revise Trianon drove interwar Hungarian [foreign policy](/politics)) and pushed the country toward alliance with Nazi Germany, which promised territorial revision. Hungary recovered some lost territories between 1938 and 1941 through German and Italian arbitration — but the price was catastrophic. Hungary entered [World War II](/world-war-ii) on the Axis side, suffered massive military losses (particularly at the Battle of the Don in January 1943, where the Second Hungarian Army was virtually destroyed), and experienced the Holocaust's final horrific chapter.
+The desire to revise Trianon drove interwar Hungarian [foreign policy](/foreign-policy)) and pushed the country toward alliance with Nazi Germany, which promised territorial revision. Hungary recovered some lost territories between 1938 and 1941 through German and Italian arbitration — but the price was catastrophic. Hungary entered [World War II](/world-war-ii) on the Axis side, suffered massive military losses (particularly at the Battle of the Don in January 1943, where the Second Hungarian Army was virtually destroyed), and experienced the Holocaust's final horrific chapter.
 
 In 1944, Germany occupied Hungary and, with the collaboration of Hungarian authorities, deported approximately 437,000 Hungarian Jews to Auschwitz in just 56 days — one of the most concentrated mass murders of the entire Holocaust. By the end of the war, roughly 565,000 Hungarian Jews — about two-thirds of the prewar Jewish population — had been killed.
 

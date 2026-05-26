@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1998
 tier: "3"
-relatedArticles: ["civil-engineering", "automotive-engineering", "computer-graphics", "architecture"]
+relatedArticles: ["civil-engineering", "automotive-engineering", "computer-graphics", "architecture", "zentangle"]
 externalSources:
   - title: "ASME — Engineering Drawing Standards (Y14.5)"
     url: "https://www.asme.org/codes-standards/find-codes-standards/y14-5-dimensioning-and-tolerancing"

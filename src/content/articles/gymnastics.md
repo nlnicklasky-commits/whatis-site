@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1075
 tier: "3"
-relatedArticles: ["handball", "golf", "gliding"]
+relatedArticles: ["handball", "golf", "gliding", "pilates", "synchronized-swimming"]
 externalSources:
   - title: "USA Gymnastics"
     url: "https://usagym.org/"

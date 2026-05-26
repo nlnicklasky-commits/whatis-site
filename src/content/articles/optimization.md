@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"
-relatedArticles: ["algorithms", "mathematics", "operations-management", "data-analysis"]
+relatedArticles: ["algorithms", "mathematics", "operations-management", "data-analysis", "internet-of-things-iot"]
 externalSources:
   - title: "MIT - Optimization Methods"
     url: "https://ocw.mit.edu/"
@@ -67,7 +67,7 @@ Simple optimization problems — finding the minimum of a smooth function with t
 
 **Nonlinear programming** addresses problems with curved objective functions or constraints. Gradient descent — repeatedly moving in the direction that improves the objective fastest — is the workhorse method. It powers machine learning training, where the "objective" is minimizing prediction error across millions of data points.
 
-**Active programming** breaks complex problems into simpler subproblems and solves them recursively. It's used in resource allocation over time, [inventory management](/invention)), and sequence alignment in bioinformatics.
+**Active programming** breaks complex problems into simpler subproblems and solves them recursively. It's used in resource allocation over time, [inventory management](/inventory-management)), and sequence alignment in bioinformatics.
 
 **Metaheuristics** — genetic algorithms, simulated annealing, particle swarm optimization — are general-purpose methods inspired by natural processes. They don't guarantee the best possible answer, but they find good solutions to problems that are too complex for exact methods. They're popular in [engineering](/engineering) design, scheduling, and [logistics](/logistics).
 

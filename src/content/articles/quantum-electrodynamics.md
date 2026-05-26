@@ -45,7 +45,7 @@ To appreciate QED, you need to understand the crisis it resolved. By the 1930s, 
 
 ### [Quantum Mechanics](/quantum-mechanics)
 
-[Quantum mechanics](/quantum-chemistry), developed in the 1920s, described the behavior of atoms and [subatomic particles](/subatomic-particles). It explained the periodic table, chemical bonding, and the structure of atoms. But it was non-relativistic -- it didn't account for Einstein's special relativity. When particles move close to the speed of light, quantum mechanics gives wrong answers.
+[Quantum mechanics](/quantum-mechanics), developed in the 1920s, described the behavior of atoms and [subatomic particles](/subatomic-particles). It explained the periodic table, chemical bonding, and the structure of atoms. But it was non-relativistic -- it didn't account for Einstein's special relativity. When particles move close to the speed of light, quantum mechanics gives wrong answers.
 
 ### Special Relativity and Classical Electromagnetism
 

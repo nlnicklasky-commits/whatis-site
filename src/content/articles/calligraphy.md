@@ -65,7 +65,7 @@ In an age of keyboards and touchscreens, calligraphy's continued popularity migh
 
 **Tangibility** — In a digital world, handmade objects carry increasing value. A hand-lettered wedding invitation, a calligraphed poem, or a personal letter in beautiful script communicates care that a printed document cannot.
 
-**Aesthetics** — [Typography](/design-patterns) — the design of printed letterforms — owes everything to calligraphy. Understanding how letters are formed with tools illuminates why typefaces look the way they do and develops visual sensitivity applicable to [graphic design](/graphic-design).
+**Aesthetics** — [Typography](/typography) — the design of printed letterforms — owes everything to calligraphy. Understanding how letters are formed with tools illuminates why typefaces look the way they do and develops visual sensitivity applicable to [graphic design](/graphic-design).
 
 **Cultural connection** — For practitioners of East Asian and Islamic calligraphy, the practice connects to deep cultural traditions spanning centuries.
 

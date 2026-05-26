@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1660
 tier: "3"
-relatedArticles: ["anthropology", "aesthetics", "capitalism"]
+relatedArticles: ["anthropology", "aesthetics", "capitalism", "manicuring", "south-american-history"]
 externalSources:
   - title: "The Costume Institute — The Metropolitan Museum of Art"
     url: "https://www.metmuseum.org/about-the-met/collection-areas/the-costume-institute"
@@ -112,7 +112,7 @@ Fashion history might sound like a soft discipline, but the methodology is rigor
 - **Written records.** Inventories, wills, account books, letters, diaries, sumptuary laws, and [trade](/trade) records all provide evidence about clothing production, cost, and social significance.
 - **Material culture analysis.** Examining the physical construction of garments — seam types, fabric grain, finishing techniques — reveals information about manufacturing technology and labor practices.
 
-The field intersects with [art history](/aesthetics), [economic history](/economic-history), gender studies, [postcolonial studies](/postcolonial-studies), and material science. It's genuinely interdisciplinary.
+The field intersects with [art history](/art-history), [economic history](/economic-history), gender studies, [postcolonial studies](/postcolonial-studies), and material science. It's genuinely interdisciplinary.
 
 ## Why Fashion History Matters Now
 

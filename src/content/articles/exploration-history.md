@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 967
 tier: "3"
-relatedArticles: ["anthropology", "cartography", "geography"]
+relatedArticles: ["anthropology", "cartography", "geography", "sponge-biology", "swahili-language"]
 externalSources:
   - title: "Library of Congress — Exploration and Discovery"
     url: "https://www.loc.gov/collections/exploration-and-early-america/"

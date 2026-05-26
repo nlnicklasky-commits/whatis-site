@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1096
 tier: "3"
-relatedArticles: ["human-resources", "hospitality-management", "journalism", "international-relations"]
+relatedArticles: ["human-resources", "hospitality-management", "journalism", "international-relations", "historical-zionism"]
 externalSources:
   - title: "Leadership – Harvard Business Review"
     url: "https://hbr.org/topic/leadership"

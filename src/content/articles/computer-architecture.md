@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3246
 tier: "1"
-relatedArticles: ["computer-hardware", "computer-science", "algorithms", "computer-networking"]
+relatedArticles: ["computer-hardware", "computer-science", "algorithms", "computer-networking", "diy-electronics"]
 externalSources:
   - title: "Computer Architecture - Stanford CS"
     url: "https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/whatis/"

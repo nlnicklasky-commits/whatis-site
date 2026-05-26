@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1041
 tier: "3"
-relatedArticles: ["creative-writing", "journalism", "publishing", "english-literature"]
+relatedArticles: ["creative-writing", "journalism", "publishing", "english-literature", "myology"]
 externalSources:
   - title: "Editorial Freelancers Association"
     url: "https://www.the-efa.org/"
@@ -83,7 +83,7 @@ The limitation of self-editing is fundamental: you can't see your own blind spot
 
 ## Editing as a Career
 
-The [publishing](/journalism) industry employs editors across books, magazines, newspapers, websites, and corporate communications. Entry typically starts with editorial assistant or associate roles ($35,000-$45,000) and progresses to editor, senior editor, and editorial director.
+The [publishing](/publishing) industry employs editors across books, magazines, newspapers, websites, and corporate communications. Entry typically starts with editorial assistant or associate roles ($35,000-$45,000) and progresses to editor, senior editor, and editorial director.
 
 Freelance editing offers flexibility but requires self-[marketing](/marketing) and business [management](/management). The Editorial Freelancers Association provides rate guidelines: developmental editing runs $56-$70/hour, copyediting $36-$50/hour, and proofreading $31-$45/hour. Specialization (medical, legal, technical, academic) commands premium rates.
 

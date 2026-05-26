@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1623
 tier: "3"
-relatedArticles: ["english-history", "engineering-history", "comparative-religion", "capitalism"]
+relatedArticles: ["english-history", "engineering-history", "comparative-religion", "capitalism", "byzantine-history"]
 externalSources:
   - title: "European History Online (EGO)"
     url: "https://www.ieg-ego.eu/"
@@ -45,7 +45,7 @@ European history, in the way most people understand it, begins with the Greeks.
 
 Around the 8th century BCE, Greek city-states began developing political and intellectual traditions that would shape Western civilization for the next 2,800 years. Athens pioneered democracy (limited, admittedly, to free adult men). Greek philosophers — Socrates, Plato, Aristotle — asked questions about [ethics](/ethics), [politics](/politics), and reality that we're still debating.
 
-The numbers are striking. Athens at its peak had a population of about 300,000 (including slaves and non-citizens). From this relatively small city came the foundations of Western [philosophy](/aesthetics), [drama](/drama), history [writing](/writing), [mathematics](/mathematics), and political theory. No comparable concentration of intellectual achievement has occurred in such a small population before or since.
+The numbers are striking. Athens at its peak had a population of about 300,000 (including slaves and non-citizens). From this relatively small city came the foundations of Western [philosophy](/philosophy), [drama](/drama), history [writing](/writing), [mathematics](/mathematics), and political theory. No comparable concentration of intellectual achievement has occurred in such a small population before or since.
 
 Alexander the Great spread Greek culture across an empire stretching from Egypt to India between 334 and 323 BCE. He died at 32, and his empire immediately fragmented. But Hellenistic culture — a blend of Greek and Eastern elements — persisted across the eastern Mediterranean for centuries.
 
@@ -97,7 +97,7 @@ By 1914, European powers controlled roughly 84% of the world's land surface. The
 
 ## The Enlightenment and Revolution (1650-1800)
 
-The Enlightenment — an intellectual movement centered in France, Britain, and Germany — championed reason, science, individual rights, and skepticism of traditional authority. Voltaire, Rousseau, Locke, Kant, and Adam Smith reframed how Europeans thought about [government](/government), [economics](/capitalism), [religion](/religion), and human nature.
+The Enlightenment — an intellectual movement centered in France, Britain, and Germany — championed reason, science, individual rights, and skepticism of traditional authority. Voltaire, Rousseau, Locke, Kant, and Adam Smith reframed how Europeans thought about [government](/government), [economics](/economics), [religion](/religion), and human nature.
 
 These ideas had explosive political consequences.
 

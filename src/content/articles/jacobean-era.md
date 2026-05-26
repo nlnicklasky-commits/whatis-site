@@ -65,7 +65,7 @@ James ordered the translation at the Hampton Court Conference of 1604, partly to
 
 The result was a literary masterpiece. The translators achieved a register that was elevated without being pompous, rhythmically beautiful without sacrificing clarity. Phrases from the KJV saturate English to this day: "the powers that be," "a law unto themselves," "the salt of the earth," "to everything there is a season," "the [writing](/writing) on the wall," "a wolf in sheep's clothing."
 
-The Bible's influence extended far beyond [religion](/christianity). It shaped English [prose](/prose) style for centuries. Writers from John Milton to Herman Melville to Toni Morrison drew on its cadences. Abraham Lincoln's speeches echo its rhythms. The KJV is simultaneously a work of [theology](/theology), [literature](/literature), and cultural infrastructure — the shared textual foundation of English-speaking civilization.
+The Bible's influence extended far beyond [religion](/religion). It shaped English [prose](/prose) style for centuries. Writers from John Milton to Herman Melville to Toni Morrison drew on its cadences. Abraham Lincoln's speeches echo its rhythms. The KJV is simultaneously a work of [theology](/theology), [literature](/literature), and cultural infrastructure — the shared textual foundation of English-speaking civilization.
 
 ## Shakespeare's Later Works
 

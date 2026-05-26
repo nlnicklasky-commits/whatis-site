@@ -67,7 +67,7 @@ Living things are not just passengers in soil — they're architects. Plants con
 
 Bacteria are the most numerous soil organisms — a gram of healthy soil contains 100 million to 1 billion bacterial cells. They drive nitrogen fixation (converting atmospheric nitrogen into forms plants can use), decomposition, and nutrient [cycling](/cycling). Without soil bacteria, terrestrial ecosystems would collapse within years.
 
-Humans are organisms too, and our impact on soil is enormous. [Agriculture](/agronomy), urbanization, deforestation, and pollution have altered soils across most of the Earth's land surface.
+Humans are organisms too, and our impact on soil is enormous. [Agriculture](/agriculture), urbanization, deforestation, and pollution have altered soils across most of the Earth's land surface.
 
 ### Topography
 

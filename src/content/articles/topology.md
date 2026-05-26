@@ -37,7 +37,7 @@ faq:
 
 # What Is Topology?
 
-Topology is the branch of [mathematics](/algebra) that studies the properties of shapes and spaces that remain unchanged when those shapes are stretched, bent, twisted, or continuously deformed — but not torn or glued. It's sometimes called "rubber sheet geometry" because it treats objects as if they were made of infinitely flexible rubber.
+Topology is the branch of [mathematics](/mathematics) that studies the properties of shapes and spaces that remain unchanged when those shapes are stretched, bent, twisted, or continuously deformed — but not torn or glued. It's sometimes called "rubber sheet geometry" because it treats objects as if they were made of infinitely flexible rubber.
 
 ## The Math of Squishable Shapes
 
@@ -129,7 +129,7 @@ Algebraic topology was central to the proof of the Poincare Conjecture and conti
 
 Here the objects are smooth manifolds — spaces that not only look like Euclidean space locally but have enough structure to do calculus on them. Differential topology studies the properties of smooth manifolds that are preserved by smooth (differentiable) deformations.
 
-This branch connects directly to [physics](/classical-mechanics). Einstein's [general relativity](/general-relativity) treats spacetime as a smooth 4-dimensional manifold. The equations of motion live on this manifold. Understanding the topology of spacetime — whether it has handles, twists, or exotic structures — is a genuine physics question with observational consequences.
+This branch connects directly to [physics](/physics). Einstein's [general relativity](/general-relativity) treats spacetime as a smooth 4-dimensional manifold. The equations of motion live on this manifold. Understanding the topology of spacetime — whether it has handles, twists, or exotic structures — is a genuine physics question with observational consequences.
 
 ### Knot Theory
 

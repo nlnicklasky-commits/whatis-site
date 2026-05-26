@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2882
 tier: "2"
-relatedArticles: ["aesthetics", "anthropology", "stoicism", "philosophy"]
+relatedArticles: ["aesthetics", "anthropology", "stoicism", "philosophy", "ancient-egyptian-history"]
 externalSources:
   - title: "Pew Research Center - Global Christianity"
     url: "https://www.pewresearch.org/religion/2011/12/19/global-christianity-exec/"

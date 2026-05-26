@@ -113,7 +113,7 @@ Paleobiologists have debated the causes for decades. Was it rising oxygen levels
 
 The end-Permian extinction 252 million years ago was triggered by massive volcanic eruptions in what's now Siberia. These eruptions released enormous quantities of carbon dioxide and methane, causing extreme global warming, ocean acidification, and ocean anoxia (oxygen depletion). Sound familiar?
 
-Paleobiologists have documented the extinction in remarkable detail. Marine ecosystems collapsed. Coral reefs vanished for millions of years. On land, forests were replaced by fungal blooms—literally a world of rot. The parallels to modern [climate change](/climatology) and ocean acidification aren't lost on researchers. We're essentially [running](/running) a faster version of the same experiment.
+Paleobiologists have documented the extinction in remarkable detail. Marine ecosystems collapsed. Coral reefs vanished for millions of years. On land, forests were replaced by fungal blooms—literally a world of rot. The parallels to modern [climate change](/climate-change) and ocean acidification aren't lost on researchers. We're essentially [running](/running) a faster version of the same experiment.
 
 ### The Rise of Mammals After the Dinosaurs
 

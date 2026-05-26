@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"
-relatedArticles: ["literary-criticism", "literary-theory", "poetry", "creative-writing"]
+relatedArticles: ["literary-criticism", "literary-theory", "poetry", "creative-writing", "latin-american-history"]
 externalSources:
   - title: "Library of Congress: Literature Collections"
     url: "https://www.loc.gov/literature/"

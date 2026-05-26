@@ -192,7 +192,7 @@ These tools can suggest candidate synonyms, related terms, and even hierarchical
 
 ## The Deeper Point
 
-Thesaurus construction might seem like a narrow, technical activity. It is, on the surface. But underneath, it grapples with a fundamental problem: human language is messy, ambiguous, and constantly evolving, while [information systems](/algorithms) need precision, consistency, and stability.
+Thesaurus construction might seem like a narrow, technical activity. It is, on the surface. But underneath, it grapples with a fundamental problem: human language is messy, ambiguous, and constantly evolving, while [information systems](/information-systems) need precision, consistency, and stability.
 
 Every thesaurus is an attempt to impose order on linguistic chaos without losing the richness that makes language useful. That's a balancing act — too rigid, and the thesaurus can't adapt to how people actually talk; too loose, and it fails to solve the vocabulary problem that justified its existence.
 

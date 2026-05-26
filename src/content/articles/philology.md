@@ -87,7 +87,7 @@ Philology reached its peak prestige in the 1800s, particularly in Germany. Fried
 
 The Brothers Grimm weren't just fairy tale collectors. Jacob Grimm formulated Grimm's Law (1822), which described systematic sound shifts between Germanic languages and other Indo-European languages. His work demonstrated that language change follows regular, predictable patterns — a finding that put historical linguistics on a scientific footing.
 
-Other giants of the era include Franz Bopp (comparative grammar of Indo-European languages), Karl Lachmann (systematic textual criticism of the New Proof and classical texts), and Friedrich Max Muller ([comparative mythology](/composting)) and Sanskrit studies at Oxford).
+Other giants of the era include Franz Bopp (comparative grammar of Indo-European languages), Karl Lachmann (systematic textual criticism of the New Proof and classical texts), and Friedrich Max Muller ([comparative mythology](/comparative-mythology)) and Sanskrit studies at Oxford).
 
 ## Philology vs. Linguistics: The Split
 

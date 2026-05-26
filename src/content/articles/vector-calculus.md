@@ -118,7 +118,7 @@ By itself, it's incomplete — it needs something to operate on. But the notatio
 
 This notation, introduced by Josiah Willard Gibbs and Oliver Heaviside in the late 1800s, made vector calculus dramatically more readable. Before it, the same equations required pages of component-by-component expressions.
 
-There's even a fourth operation: the **Laplacian**, ∇²f = ∇ · (∇f), which is the divergence of the gradient. It measures how much a value at a point differs from its average in the surrounding neighborhood. The Laplacian appears in heat equations, wave equations, and [quantum mechanics](/quantum-computing) — basically anywhere diffusion or oscillation happens.
+There's even a fourth operation: the **Laplacian**, ∇²f = ∇ · (∇f), which is the divergence of the gradient. It measures how much a value at a point differs from its average in the surrounding neighborhood. The Laplacian appears in heat equations, wave equations, and [quantum mechanics](/quantum-mechanics) — basically anywhere diffusion or oscillation happens.
 
 ## Line Integrals: Adding Up Along a Path
 

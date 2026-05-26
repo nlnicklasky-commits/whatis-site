@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2442
 tier: "2"
-relatedArticles: ["monetary-policy", "economics", "finance", "macroeconomics"]
+relatedArticles: ["monetary-policy", "economics", "finance", "macroeconomics", "unemployment-economics"]
 externalSources:
   - title: "Federal Reserve - Quantitative Easing FAQs"
     url: "https://www.federalreserve.gov/faqs.htm"

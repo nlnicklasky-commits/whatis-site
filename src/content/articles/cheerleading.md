@@ -31,7 +31,7 @@ faq:
 
 # What Is Cheerleading?
 
-Cheerleading is a physical activity that combines elements of [dance](/dance), [gymnastics](/athletics), acrobatic stunts, tumbling, and chanting — performed either in support of sports teams (sideline cheerleading) or as a competitive sport in its own right (competitive/all-star cheerleading). Approximately 4.5 million people participate in cheerleading in the United States, making it one of the most popular athletic activities in the country.
+Cheerleading is a physical activity that combines elements of [dance](/dance), [gymnastics](/gymnastics), acrobatic stunts, tumbling, and chanting — performed either in support of sports teams (sideline cheerleading) or as a competitive sport in its own right (competitive/all-star cheerleading). Approximately 4.5 million people participate in cheerleading in the United States, making it one of the most popular athletic activities in the country.
 
 ## From Yell Leaders to Athletes
 

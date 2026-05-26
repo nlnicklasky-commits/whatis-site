@@ -59,7 +59,7 @@ The transition from wood to iron and then steel happened remarkably quickly. The
 
 ## How Modern Ships Are Designed
 
-Modern ship design — [naval architecture](/naval-history)) — combines [hydrodynamics](/hydrodynamics), [structural engineering](/structural-engineering), [materials science](/materials-science), and systems integration into one of the most complex engineering disciplines practiced today.
+Modern ship design — [naval architecture](/naval-architecture)) — combines [hydrodynamics](/hydrodynamics), [structural engineering](/structural-engineering), [materials science](/materials-science), and systems integration into one of the most complex engineering disciplines practiced today.
 
 ### Hull Form Design
 

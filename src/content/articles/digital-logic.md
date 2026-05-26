@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1100
 tier: "3"
-relatedArticles: ["computer-science", "electronics", "algorithms", "electricity"]
+relatedArticles: ["computer-science", "electronics", "algorithms", "electricity", "pizza-making"]
 externalSources:
   - title: "MIT OpenCourseWare - Digital Systems"
     url: "https://ocw.mit.edu/"
@@ -43,7 +43,7 @@ That's it. Three basic operations. From these, you can build [arithmetic](/algeb
 
 The person who made all of this possible was a 21-year-old master's student at MIT named Claude Shannon. In 1937, Shannon submitted what's been called "the most important master's thesis of the 20th century." He demonstrated that Boolean algebra — a system of logic developed by mathematician George Boole in 1854 — could be implemented with electrical relay circuits.
 
-Before Shannon, circuit designers built complex switching networks through trial and error. After Shannon, they had a mathematical framework. If you could express a problem in Boolean algebra, you could build a circuit to solve it. This single insight bridges the gap between abstract [mathematics](/mathematics) and physical [electronics](/electricity), and it's the reason we have computers.
+Before Shannon, circuit designers built complex switching networks through trial and error. After Shannon, they had a mathematical framework. If you could express a problem in Boolean algebra, you could build a circuit to solve it. This single insight bridges the gap between abstract [mathematics](/mathematics) and physical [electronics](/electronics), and it's the reason we have computers.
 
 ## The Building Blocks
 

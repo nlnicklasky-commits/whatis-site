@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1626
 tier: "3"
-relatedArticles: ["capitalism", "archaeology", "christianity"]
+relatedArticles: ["capitalism", "archaeology", "christianity", "german-history", "south-american-history"]
 externalSources:
   - title: "Feudalism — Encyclopaedia Britannica"
     url: "https://www.britannica.com/topic/feudalism"
@@ -123,7 +123,7 @@ Kings gradually built centralized states with professional bureaucracies, standi
 
 ### The Money Economy
 
-As coinage became more widely available and [trade](/capitalism) expanded, the land-for-service exchange that underpinned feudalism became awkward. It was simpler to pay taxes in cash and hire soldiers than to maintain the elaborate web of feudal obligations. By the 15th and 16th centuries, most feudal dues had been converted to cash payments, draining the system of its functional purpose.
+As coinage became more widely available and [trade](/trade) expanded, the land-for-service exchange that underpinned feudalism became awkward. It was simpler to pay taxes in cash and hire soldiers than to maintain the elaborate web of feudal obligations. By the 15th and 16th centuries, most feudal dues had been converted to cash payments, draining the system of its functional purpose.
 
 ## The Feudalism Debate
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 749
 tier: "3"
-relatedArticles: ["philosophy-of-education", "ethics", "comparative-religion", "christianity"]
+relatedArticles: ["philosophy-of-education", "ethics", "comparative-religion", "christianity", "mithraism"]
 externalSources:
   - title: "Theology - Stanford Encyclopedia of Philosophy"
     url: "https://plato.stanford.edu/entries/philosophy-religion/"

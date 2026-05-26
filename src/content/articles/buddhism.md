@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 12
 wordCount: 3299
 tier: "1"
-relatedArticles: ["stoicism", "aesthetics", "anthropology", "business-ethics"]
+relatedArticles: ["stoicism", "aesthetics", "anthropology", "business-ethics", "indigenous-religions"]
 externalSources:
   - title: "Stanford Encyclopedia of Philosophy - Buddha"
     url: "https://plato.stanford.edu/entries/buddha/"

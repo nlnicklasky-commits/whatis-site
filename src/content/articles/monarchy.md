@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 801
 tier: "3"
-relatedArticles: ["government", "political-science"]
+relatedArticles: ["government", "political-science", "hungarian-history", "iberian-history"]
 externalSources:
   - title: "Encyclopaedia Britannica: Monarchy"
     url: "https://www.britannica.com/topic/monarchy"

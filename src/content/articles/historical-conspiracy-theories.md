@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1032
 tier: "3"
-relatedArticles: ["heuristics", "cognitive-bias", "journalism", "intellectual-history"]
+relatedArticles: ["heuristics", "cognitive-bias", "journalism", "intellectual-history", "vexillology"]
 externalSources:
   - title: "Conspiracy Theory – Encyclopaedia Britannica"
     url: "https://www.britannica.com/topic/conspiracy-theory"

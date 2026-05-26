@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 14
 wordCount: 3647
 tier: "1"
-relatedArticles: ["blockchain", "cryptography", "economics", "game-theory"]
+relatedArticles: ["blockchain", "cryptography", "economics", "game-theory", "submarine-technology"]
 externalSources:
   - title: "Bitcoin Whitepaper"
     url: "https://bitcoin.org/bitcoin.pdf"

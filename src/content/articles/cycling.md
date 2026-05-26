@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"
-relatedArticles: ["running", "triathlon", "road-cycling", "mountain-biking"]
+relatedArticles: ["running", "triathlon", "road-cycling", "mountain-biking", "fuel-cell-technology"]
 externalSources:
   - title: "USA Cycling"
     url: "https://usacycling.org/"

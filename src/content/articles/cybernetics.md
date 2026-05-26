@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2359
 tier: "2"
-relatedArticles: ["cryptography", "algorithms", "app-development", "acoustics"]
+relatedArticles: ["cryptography", "algorithms", "app-development", "acoustics", "submarine-technology"]
 externalSources:
   - title: "American Society for Cybernetics"
     url: "https://asc-cybernetics.org/"

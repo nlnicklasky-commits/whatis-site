@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 807
 tier: "3"
-relatedArticles: ["warhammer", "word-games", "video-game-design"]
+relatedArticles: ["warhammer", "word-games", "video-game-design", "tabletop-role-playing-games"]
 externalSources:
   - title: "U.S. Naval War College — Wargaming Department"
     url: "https://usnwc.edu/Research-and-Wargaming"

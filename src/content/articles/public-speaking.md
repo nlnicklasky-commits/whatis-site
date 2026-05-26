@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1097
 tier: "3"
-relatedArticles: ["rhetoric", "leadership", "writing"]
+relatedArticles: ["rhetoric", "leadership", "writing", "student-government"]
 externalSources:
   - title: "Toastmasters International"
     url: "https://www.toastmasters.org/"

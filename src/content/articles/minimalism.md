@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 803
 tier: "3"
-relatedArticles: ["interior-design", "philosophy", "modern-art"]
+relatedArticles: ["interior-design", "philosophy", "modern-art", "persian-history"]
 externalSources:
   - title: "MoMA: Minimalism in Art"
     url: "https://www.moma.org/collection/terms/minimalism"
@@ -62,7 +62,7 @@ Practical minimalist practices include:
 - **Decluttering** — removing possessions that don't serve a purpose or bring genuine satisfaction
 - **Intentional purchasing** — buying less but choosing higher quality
 - **Digital minimalism** — reducing screen time, app usage, and information overload
-- **[Time management](/maritime-law))** — saying no to commitments that don't align with your priorities
+- **[Time management](/time-management))** — saying no to commitments that don't align with your priorities
 - **Financial simplification** — reducing expenses, avoiding debt, and building financial freedom
 
 ## The Critiques

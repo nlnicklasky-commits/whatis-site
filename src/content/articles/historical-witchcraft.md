@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1631
 tier: "3"
-relatedArticles: ["medieval-history", "anthropology", "sociology", "comparative-religion"]
+relatedArticles: ["medieval-history", "anthropology", "sociology", "comparative-religion", "the-history-of-astronomy"]
 externalSources:
   - title: "University of Edinburgh: Survey of Scottish Witchcraft Database"
     url: "https://www.shca.ed.ac.uk/Research/witches/"

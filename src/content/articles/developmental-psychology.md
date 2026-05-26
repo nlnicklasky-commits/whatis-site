@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2668
 tier: "2"
-relatedArticles: ["cognitive-bias", "anatomy", "animal-behavior", "anthropology"]
+relatedArticles: ["cognitive-bias", "anatomy", "animal-behavior", "anthropology", "personality-psychology"]
 externalSources:
   - title: "APA - Developmental Psychology"
     url: "https://www.apa.org/topics/developmental-psychology"

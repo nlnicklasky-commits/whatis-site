@@ -173,7 +173,7 @@ Financial technology—fintech—has reshaped how financial services are deliver
 
 **Robo-advisors** like Betterment and Wealthfront provide automated [investment management](/investment-management) at a fraction of the cost of human financial advisors. They construct diversified portfolios, rebalance automatically, and harvest tax losses—all for fees of 0.25% or less.
 
-**[Blockchain](/blockchain) and [cryptocurrency](/cryptocurrency)** have introduced decentralized financial systems that operate without traditional intermediaries. [Cryptocurrency](/cryptography) remains volatile and speculative, but the underlying technology is being explored by major banks for settlement, clearing, and cross-border payments.
+**[Blockchain](/blockchain) and [cryptocurrency](/cryptocurrency)** have introduced decentralized financial systems that operate without traditional intermediaries. [Cryptocurrency](/cryptocurrency) remains volatile and speculative, but the underlying technology is being explored by major banks for settlement, clearing, and cross-border payments.
 
 **Buy now, pay later (BNPL)** services have exploded, offering interest-free installment payments at the point of sale. While convenient, they've raised concerns about encouraging overspending, particularly among younger consumers.
 

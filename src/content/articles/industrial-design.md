@@ -69,7 +69,7 @@ When the Nazis closed the Bauhaus in 1933, its faculty scattered across the worl
 
 Post-[World War II](/world-war-ii) America became the epicenter of industrial design, shaped by growing [entrepreneurship](/entrepreneurship) culture and consumer demand. Raymond Loewy — who designed everything from the Lucky Strike cigarette package to the Studebaker Avanti to the interior of Skylab — became the first designer to appear on the cover of Time magazine. His concept of MAYA — "Most Advanced Yet Acceptable" — remains one of design's most useful principles: push innovation as far as the market will accept, but no further.
 
-Henry Dreyfuss took a different approach, grounding design in human factors research. His book "Designing for People" (1955) established [ergonomics](/human-factors) as central to industrial design. Dreyfuss created standardized human body measurements — "Joe" and "Josephine" — that designers used for decades to ensure products fit actual human bodies.
+Henry Dreyfuss took a different approach, grounding design in human factors research. His book "Designing for People" (1955) established [ergonomics](/ergonomics) as central to industrial design. Dreyfuss created standardized human body measurements — "Joe" and "Josephine" — that designers used for decades to ensure products fit actual human bodies.
 
 Charles and Ray Eames brought artistic sensibility to industrial materials. Their molded plywood and fiberglass chairs, produced by Herman Miller, demonstrated that mass-produced furniture could be beautiful, comfortable, and affordable. The Eames Lounge Chair (1956) remains one of the most recognized pieces of furniture in the world.
 

@@ -37,7 +37,7 @@ faq:
 
 # What Is Space Medicine?
 
-Space medicine is the medical specialty focused on understanding how the space environment — microgravity, radiation, isolation, and confinement — affects human health, and on developing countermeasures to keep astronauts functional and healthy during spaceflight. It draws on [physiology](/physiology), radiation biology, [psychology](/psychology), [emergency medicine](/emergency-medicine), and [aerospace engineering](/aerodynamics)).
+Space medicine is the medical specialty focused on understanding how the space environment — microgravity, radiation, isolation, and confinement — affects human health, and on developing countermeasures to keep astronauts functional and healthy during spaceflight. It draws on [physiology](/physiology), radiation biology, [psychology](/psychology), [emergency medicine](/emergency-medicine), and [aerospace engineering](/aerospace-engineering)).
 
 Since Yuri Gagarin's first orbital flight in 1961, approximately 600 people have traveled to space. Every one of them came back changed — physiologically, and often psychologically. The job of space medicine is to understand those changes and figure out how to prevent the harmful ones.
 

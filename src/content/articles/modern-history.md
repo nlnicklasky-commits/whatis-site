@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1606
 tier: "3"
-relatedArticles: ["napoleonic-wars", "anthropology", "philosophy"]
+relatedArticles: ["napoleonic-wars", "anthropology", "philosophy", "pension-management"]
 externalSources:
   - title: "Modern History — Encyclopaedia Britannica"
     url: "https://www.britannica.com/topic/modern-history"

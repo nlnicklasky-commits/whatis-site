@@ -141,7 +141,7 @@ France has won more Nobel Prizes in Literature (16) than any other country. Fren
 
 ### Philosophy
 
-French is a language of philosophy in a way few other languages can claim. Descartes wrote *Cogito, ergo sum* in Latin, but his *Discourse on the Method* (1637) was written in French — a radical choice that made [philosophy](/aesthetics) accessible beyond the university. Rousseau's [social contract theory](/social-contract-theory), Voltaire's advocacy for civil liberties, Montesquieu's separation of powers — these ideas, written in French, became the intellectual foundations of modern democracy.
+French is a language of philosophy in a way few other languages can claim. Descartes wrote *Cogito, ergo sum* in Latin, but his *Discourse on the Method* (1637) was written in French — a radical choice that made [philosophy](/philosophy) accessible beyond the university. Rousseau's [social contract theory](/social-contract-theory), Voltaire's advocacy for civil liberties, Montesquieu's separation of powers — these ideas, written in French, became the intellectual foundations of modern democracy.
 
 The 20th century continued the tradition. Existentialism (Sartre, de Beauvoir, Camus), structuralism (Levi-Strauss, Barthes), post-structuralism (Foucault, Derrida) — these movements were conceived and articulated in French before being translated worldwide.
 

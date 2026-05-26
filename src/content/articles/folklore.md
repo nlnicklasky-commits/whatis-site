@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 990
 tier: "3"
-relatedArticles: ["fairy-tales", "folk-music", "folk-art", "folk-dancing"]
+relatedArticles: ["fairy-tales", "folk-music", "folk-art", "folk-dancing", "cryptozoology"]
 externalSources:
   - title: "American Folklore Society"
     url: "https://www.afsnet.org/"

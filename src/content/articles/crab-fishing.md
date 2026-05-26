@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"
-relatedArticles: ["fishing", "sailing", "cooking", "marine-navigation"]
+relatedArticles: ["fishing", "sailing", "cooking", "marine-navigation", "parliamentary-procedure"]
 externalSources:
   - title: "NOAA Fisheries - Crab"
     url: "https://www.fisheries.noaa.gov/"

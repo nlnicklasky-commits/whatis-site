@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1016
 tier: "3"
-relatedArticles: ["aikido", "judo", "taekwondo", "self-defense"]
+relatedArticles: ["aikido", "judo", "taekwondo", "self-defense", "go-game"]
 externalSources:
   - title: "World Martial Arts Center - UNESCO"
     url: "https://www.unesco.org/en/intangible-cultural-heritage"

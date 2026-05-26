@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2425
 tier: "2"
-relatedArticles: ["aerospace-engineering", "agriculture", "alternative-energy", "acoustics"]
+relatedArticles: ["aerospace-engineering", "agriculture", "alternative-energy", "acoustics", "stereoscopy"]
 externalSources:
   - title: "American Concrete Institute (ACI)"
     url: "https://www.concrete.org/"
@@ -185,7 +185,7 @@ The technology is still maturing — layer adhesion, reinforcement integration, 
 
 Here's the uncomfortable truth: cement production is responsible for approximately 8% of global CO2 emissions — roughly 2.8 billion tons per year. That's more than the entire [aviation](/aviation) industry.
 
-About 60% of cement's CO2 comes from the chemical process itself — heating limestone releases CO2 as calcium carbonate decomposes into calcium oxide. The remaining 40% comes from burning fuel to heat kilns to 1,450 degrees Celsius. You can't fix the process emissions by switching to [renewable energy](/alternative-energy) alone.
+About 60% of cement's CO2 comes from the chemical process itself — heating limestone releases CO2 as calcium carbonate decomposes into calcium oxide. The remaining 40% comes from burning fuel to heat kilns to 1,450 degrees Celsius. You can't fix the process emissions by switching to [renewable energy](/renewable-energy) alone.
 
 ### Reducing Concrete's Carbon Footprint
 

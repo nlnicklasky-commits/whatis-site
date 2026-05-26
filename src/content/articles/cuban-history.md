@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1457
 tier: "3"
-relatedArticles: ["cold-war-history", "capitalism", "civil-rights-history", "anthropology"]
+relatedArticles: ["cold-war-history", "capitalism", "civil-rights-history", "anthropology", "renaissance-history"]
 externalSources:
   - title: "Library of Congress: Country Studies — Cuba"
     url: "https://www.loc.gov/rr/frd/cs/cutoc.html"

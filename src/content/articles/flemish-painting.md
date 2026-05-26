@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 912
 tier: "3"
-relatedArticles: ["fine-art", "fresco-painting", "gothic-architecture"]
+relatedArticles: ["fine-art", "fresco-painting", "gothic-architecture", "truck-driving", "ufology"]
 externalSources:
   - title: "Metropolitan Museum of Art — Flemish Art"
     url: "https://www.metmuseum.org/toah/hd/flan/hd_flan.htm"

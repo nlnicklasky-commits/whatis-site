@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1052
 tier: "3"
-relatedArticles: ["cartography", "astronomy", "geography", "aviation"]
+relatedArticles: ["cartography", "astronomy", "geography", "aviation", "merchant-marine"]
 externalSources:
   - title: "NOAA Office of Coast Survey"
     url: "https://nauticalcharts.noaa.gov/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 976
 tier: "3"
-relatedArticles: ["animation", "prop-making", "storytelling"]
+relatedArticles: ["animation", "prop-making", "storytelling", "ventriloquism"]
 externalSources:
   - title: "UNIMA — International Puppetry Association"
     url: "https://www.unima.org/"

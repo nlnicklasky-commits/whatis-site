@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 977
 tier: "3"
-relatedArticles: ["creative-writing", "digital-marketing", "public-relations", "blogging"]
+relatedArticles: ["creative-writing", "digital-marketing", "public-relations", "blogging", "pali-language"]
 externalSources:
   - title: "American Writers & Artists Institute"
     url: "https://www.awai.com/"

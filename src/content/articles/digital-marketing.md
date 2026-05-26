@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2384
 tier: "2"
-relatedArticles: ["algorithms", "machine-learning", "app-development", "blockchain"]
+relatedArticles: ["algorithms", "machine-learning", "app-development", "blockchain", "thesaurus-construction"]
 externalSources:
   - title: "Google Digital Marketing & E-commerce Certificate"
     url: "https://grow.google/certificates/digital-marketing-ecommerce/"

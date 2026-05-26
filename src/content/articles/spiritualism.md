@@ -63,7 +63,7 @@ Spiritualism offered something more concrete: the claim that you could actually 
 
 ### The Scientific Moment
 
-The 1840s-1890s were also a period of astonishing scientific discovery. The telegraph (1844) proved that invisible signals could travel through wires. [Electricity](/electronics) and [magnetism](/magnetism) were being unified. The idea that invisible forces could transmit information was no longer supernatural — it was front-page news.
+The 1840s-1890s were also a period of astonishing scientific discovery. The telegraph (1844) proved that invisible signals could travel through wires. [Electricity](/electricity) and [magnetism](/magnetism) were being unified. The idea that invisible forces could transmit information was no longer supernatural — it was front-page news.
 
 Spiritualists explicitly drew parallels between telegraphy and mediumship. If [electricity](/electricity) could carry messages along wires, why couldn't some analogous force carry messages from the spirit world? The analogy was wrong, but it was persuasive in an era when the boundaries of [physics](/physics) seemed to be expanding weekly.
 
@@ -168,6 +168,6 @@ Spiritualism as a mass movement peaked around 1870-1920. Several factors drove i
 
 Spiritualism never disappeared. The NSAC continues to operate churches across the United States. Spiritualist churches in the UK number in the hundreds. In Brazil, Spiritism — a related tradition founded by Allan Kardec in France in the 1850s, which adds reincarnation to the basic Spiritualist framework — has tens of millions of adherents and significant cultural influence.
 
-The broader cultural legacy is harder to measure but arguably more significant. Spiritualism helped normalize the idea that the afterlife could be investigated empirically rather than accepted on faith. It helped push the scientific study of consciousness and unusual mental states. It gave women public platforms before they had the vote. And it raised questions about the relationship between mind, brain, and identity that [neuroscience](/neuroscience) and [philosophy](/aesthetics) still grapple with today.
+The broader cultural legacy is harder to measure but arguably more significant. Spiritualism helped normalize the idea that the afterlife could be investigated empirically rather than accepted on faith. It helped push the scientific study of consciousness and unusual mental states. It gave women public platforms before they had the vote. And it raised questions about the relationship between mind, brain, and identity that [neuroscience](/neuroscience) and [philosophy](/philosophy) still grapple with today.
 
 Whether the spirits were real or not — and the overwhelming weight of scientific evidence says they weren't — the humans who believed in them changed the world in ways that were entirely real.

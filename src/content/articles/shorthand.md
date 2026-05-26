@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 993
 tier: "3"
-relatedArticles: ["speed-reading", "sign-language"]
+relatedArticles: ["speed-reading", "sign-language", "western-film-genre"]
 externalSources:
   - title: "Shorthand History - British Library"
     url: "https://www.bl.uk/"

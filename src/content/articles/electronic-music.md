@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1011
 tier: "3"
-relatedArticles: ["music-theory", "drumming", "digital-art", "dance"]
+relatedArticles: ["music-theory", "drumming", "digital-art", "dance", "symphony-composition"]
 externalSources:
   - title: "Resident Advisor"
     url: "https://ra.co/"

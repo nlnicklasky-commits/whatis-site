@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2388
 tier: "2"
-relatedArticles: ["aerospace-engineering", "air-conditioning", "aircraft-mechanics", "alternative-energy"]
+relatedArticles: ["aerospace-engineering", "air-conditioning", "aircraft-mechanics", "alternative-energy", "slate-roofing"]
 externalSources:
   - title: "American Foundry Society"
     url: "https://www.afsinc.org/"

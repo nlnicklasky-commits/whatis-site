@@ -31,7 +31,7 @@ faq:
 
 # What Is Neoclassicism?
 
-Neoclassicism is an artistic and architectural movement that looked back to ancient Greece and Rome for inspiration — their clean lines, idealized forms, symmetry, and restraint. It emerged in the mid-1700s as a reaction against the ornate excesses of Baroque and Rococo styles, and it shaped everything from paintings and sculptures to [government](/government) buildings and [political philosophy](/politics)).
+Neoclassicism is an artistic and architectural movement that looked back to ancient Greece and Rome for inspiration — their clean lines, idealized forms, symmetry, and restraint. It emerged in the mid-1700s as a reaction against the ornate excesses of Baroque and Rococo styles, and it shaped everything from paintings and sculptures to [government](/government) buildings and [political philosophy](/political-philosophy)).
 
 ## Why It Happened When It Did
 

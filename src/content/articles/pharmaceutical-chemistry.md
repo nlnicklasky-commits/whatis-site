@@ -101,7 +101,7 @@ Pharmaceutical chemists use an enormous range of chemical techniques. Here are t
 
 ### Organic Synthesis
 
-Most drugs are organic molecules --- carbon-based compounds with specific three-dimensional arrangements. Synthesizing them requires mastery of [organic chemistry](/chemistry) reactions: forming carbon-carbon bonds, adding or removing functional groups, controlling stereochemistry (the 3D arrangement of atoms).
+Most drugs are organic molecules --- carbon-based compounds with specific three-dimensional arrangements. Synthesizing them requires mastery of [organic chemistry](/organic-chemistry) reactions: forming carbon-carbon bonds, adding or removing functional groups, controlling stereochemistry (the 3D arrangement of atoms).
 
 Total synthesis --- building a complex molecule from simple starting materials --- remains one of the most intellectually demanding tasks in science. Some drugs require 20, 30, or even 40 synthetic steps. Each step has a yield (the percentage of material that successfully converts), and yields multiply. If each of 30 steps has a 90% yield, your overall yield is 0.9^30 = about 4%. That's a lot of wasted material.
 

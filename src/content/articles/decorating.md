@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 909
 tier: "3"
-relatedArticles: ["interior-design", "color-theory", "architecture", "furniture-design"]
+relatedArticles: ["interior-design", "color-theory", "architecture", "furniture-design", "diy-home-improvement"]
 externalSources:
   - title: "American Society of Interior Designers"
     url: "https://www.asid.org/"

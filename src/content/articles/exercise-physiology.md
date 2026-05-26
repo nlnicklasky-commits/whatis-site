@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1629
 tier: "3"
-relatedArticles: ["anatomy", "biomechanics", "biology", "cell-biology"]
+relatedArticles: ["anatomy", "biomechanics", "biology", "cell-biology", "sleep-science"]
 externalSources:
   - title: "American College of Sports Medicine"
     url: "https://www.acsm.org/"

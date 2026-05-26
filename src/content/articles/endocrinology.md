@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1607
 tier: "3"
-relatedArticles: ["anatomy", "biology", "cell-biology", "chemistry"]
+relatedArticles: ["anatomy", "biology", "cell-biology", "chemistry", "sexual-health"]
 externalSources:
   - title: "National Institute of Diabetes and Digestive and Kidney Diseases"
     url: "https://www.niddk.nih.gov/health-information/endocrine-diseases"
@@ -129,7 +129,7 @@ Banting received the Nobel Prize in 1923 — just two years after the discovery.
 
 Today's endocrinologists use blood tests to measure hormone levels with extraordinary precision. They can detect hormones in concentrations of parts per trillion. Imaging technologies like ultrasound, CT scans, and MRI help identify tumors and structural problems in glands.
 
-Treatment has advanced significantly too. Synthetic hormones can replace what the body can't produce. Continuous glucose monitors and insulin pumps give people with diabetes real-time feedback and automated insulin delivery — something that would have seemed like [science fiction](/algorithms) just 30 years ago.
+Treatment has advanced significantly too. Synthetic hormones can replace what the body can't produce. Continuous glucose monitors and insulin pumps give people with diabetes real-time feedback and automated insulin delivery — something that would have seemed like [science fiction](/science-fiction) just 30 years ago.
 
 Gene therapy and targeted molecular treatments are on the horizon, promising even more precise interventions. Researchers are also investigating the connections between [hormones and the microbiome](/biology), [mental health](/mental-health), and aging — links that earlier generations of scientists barely suspected existed.
 

@@ -87,7 +87,7 @@ The traditional path is an apprenticeship — 3-4 years of paid on-the-job train
 
 Vocational schools and community colleges offer carpentry programs ranging from certificates (6-12 months) to associate degrees (2 years). These provide faster entry into the workforce but less on-the-job experience than apprenticeships.
 
-The self-taught route works for hobbyists and some professionals — YouTube has made [woodworking](/cabinet-making) instruction extraordinarily accessible. But for commercial construction, formal training and credential recognition (licenses, certifications) are increasingly expected or required.
+The self-taught route works for hobbyists and some professionals — YouTube has made [woodworking](/woodworking) instruction extraordinarily accessible. But for commercial construction, formal training and credential recognition (licenses, certifications) are increasingly expected or required.
 
 ## The Carpenter's Paradox
 

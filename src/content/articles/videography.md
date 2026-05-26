@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 969
 tier: "3"
-relatedArticles: ["video-production", "video-editing", "underwater-photography", "wildlife-photography"]
+relatedArticles: ["video-production", "video-editing", "underwater-photography", "wildlife-photography", "wedding-planning"]
 externalSources:
   - title: "Wedding and Event Videographers Association"
     url: "https://www.weva.com/"

@@ -43,7 +43,7 @@ More than half of all physicists worldwide work in this field or its parent disc
 
 ## Why Solids Are Special
 
-Gases are simple. Each molecule bounces around independently, barely interacting with its neighbors. The [physics](/classical-mechanics) is relatively tractable.
+Gases are simple. Each molecule bounces around independently, barely interacting with its neighbors. The [physics](/physics) is relatively tractable.
 
 Solids are the opposite. You have something like 10 to the effect of 23 atoms packed closely together, all interacting simultaneously through electromagnetic forces. Every atom feels the pull and push of its neighbors. The electrons, especially, do strange things when confined in these dense arrangements.
 
@@ -93,7 +93,7 @@ Between these bands are **band gaps** — ranges of energy where no electron sta
 
 **Semiconductors** are the interesting middle ground. Their band gaps are small enough — silicon is 1.1 eV, germanium is 0.67 eV — that some electrons can jump the gap at room temperature. More importantly, the conductivity can be precisely controlled.
 
-This controllability is the entire basis of modern [electronics](/computer-hardware).
+This controllability is the entire basis of modern [electronics](/electronics).
 
 ### Doping: Engineering Conductivity
 

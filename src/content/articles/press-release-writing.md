@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 957
 tier: "3"
-relatedArticles: ["public-relations", "journalism", "marketing", "writing"]
+relatedArticles: ["public-relations", "journalism", "marketing", "writing", "newspaper-history"]
 externalSources:
   - title: "AP Stylebook"
     url: "https://www.apstylebook.com/"
@@ -83,7 +83,7 @@ Some shifts in modern practice:
 
 **Multimedia releases** include images, video, infographics, and social media content alongside the text. Journalists appreciate having ready-to-use assets.
 
-**SEO [optimization](/optimization)** — press releases distributed through newswires appear on news sites and can influence search rankings. This has made press releases partly a [digital marketing](/digital-art)) tool, for better or worse.
+**SEO [optimization](/optimization)** — press releases distributed through newswires appear on news sites and can influence search rankings. This has made press releases partly a [digital marketing](/digital-marketing)) tool, for better or worse.
 
 **Direct distribution** — many organizations now bypass traditional media entirely, [publishing](/publishing) releases on their own newsrooms and social channels. The press release becomes a public record of announcements, whether journalists pick it up or not.
 

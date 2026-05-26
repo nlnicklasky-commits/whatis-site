@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1613
 tier: "3"
-relatedArticles: ["prehistoric-man", "archaeology", "anthropology", "agriculture"]
+relatedArticles: ["prehistoric-man", "archaeology", "anthropology", "agriculture", "italian-history"]
 externalSources:
   - title: "Smithsonian National Museum of Natural History"
     url: "https://naturalhistory.si.edu/"

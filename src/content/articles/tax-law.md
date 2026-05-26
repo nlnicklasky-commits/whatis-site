@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2362
 tier: "2"
-relatedArticles: ["accounting", "budgeting", "business-law", "capitalism"]
+relatedArticles: ["accounting", "budgeting", "business-law", "capitalism", "state-government"]
 externalSources:
   - title: "IRS — Understanding Taxes"
     url: "https://www.irs.gov/newsroom/understanding-taxes"

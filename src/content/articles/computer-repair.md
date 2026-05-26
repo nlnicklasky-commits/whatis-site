@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1014
 tier: "3"
-relatedArticles: ["computer-hardware", "app-development", "cloud-computing", "digital-forensics"]
+relatedArticles: ["computer-hardware", "app-development", "cloud-computing", "digital-forensics", "montessori-method"]
 externalSources:
   - title: "CompTIA - IT Certifications"
     url: "https://www.comptia.org/"

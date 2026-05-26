@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 8
 wordCount: 2125
 tier: "2"
-relatedArticles: ["chemistry", "physics", "materials-science", "engineering"]
+relatedArticles: ["chemistry", "physics", "materials-science", "engineering", "model-rockets"]
 externalSources:
   - title: "Pyrotechnics Guild International"
     url: "https://www.pgi.org/"

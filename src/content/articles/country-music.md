@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 934
 tier: "3"
-relatedArticles: ["folk-music", "blues-music", "guitar", "songwriting"]
+relatedArticles: ["folk-music", "blues-music", "guitar", "songwriting", "tarot-reading"]
 externalSources:
   - title: "Country Music Hall of Fame"
     url: "https://countrymusichalloffame.org/"

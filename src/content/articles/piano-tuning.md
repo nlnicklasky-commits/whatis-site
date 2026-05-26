@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1053
 tier: "3"
-relatedArticles: ["piano", "acoustics", "orchestration", "pipe-organ"]
+relatedArticles: ["piano", "acoustics", "orchestration", "pipe-organ", "tuning-instruments"]
 externalSources:
   - title: "Piano Technicians Guild"
     url: "https://www.ptg.org/"

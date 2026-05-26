@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 982
 tier: "3"
-relatedArticles: ["animation", "film-production", "sculpture", "cinematography"]
+relatedArticles: ["animation", "film-production", "sculpture", "cinematography", "restoration-art"]
 externalSources:
   - title: "Academy of Motion Picture Arts and Sciences"
     url: "https://www.oscars.org/"

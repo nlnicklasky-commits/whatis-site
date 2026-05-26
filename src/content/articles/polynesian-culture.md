@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1116
 tier: "3"
-relatedArticles: ["anthropology", "navigation", "surfing", "mythology"]
+relatedArticles: ["anthropology", "navigation", "surfing", "mythology", "maori-culture"]
 externalSources:
   - title: "Smithsonian — Polynesian Voyaging"
     url: "https://ocean.si.edu/planet-ocean/waves-storms-tsunamis/polynesian-navigation"

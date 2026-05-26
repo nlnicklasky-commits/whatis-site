@@ -192,7 +192,7 @@ Some experiments probe conditions found hundreds of kilometers deep in Earth's m
 
 Petrology answers fundamental questions about our planet. How did Earth's crust form? What drives volcanic eruptions? How do mountain belts evolve? What conditions existed billions of years ago?
 
-It also has immediate practical applications. Finding mineral resources — metal ores, gemstones, industrial minerals, fossil fuels — depends on understanding how rocks form and what processes concentrate valuable materials. [Construction](/engineering) requires knowing how rocks behave under load. Environmental protection requires understanding how rocks interact with water and pollutants. Geothermal energy extraction requires knowledge of rock thermal properties at depth.
+It also has immediate practical applications. Finding mineral resources — metal ores, gemstones, industrial minerals, fossil fuels — depends on understanding how rocks form and what processes concentrate valuable materials. [Construction](/construction) requires knowing how rocks behave under load. Environmental protection requires understanding how rocks interact with water and pollutants. Geothermal energy extraction requires knowledge of rock thermal properties at depth.
 
 The rocks beneath your feet record a 4.5-billion-year story of a planet constantly reshaping itself through volcanism, erosion, burial, metamorphism, and tectonic upheaval. Petrology is how we read that story.
 

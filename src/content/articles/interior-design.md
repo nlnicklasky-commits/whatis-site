@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 752
 tier: "3"
-relatedArticles: ["illustration", "home-organization", "houseplants", "landscape-architecture"]
+relatedArticles: ["illustration", "home-organization", "houseplants", "landscape-architecture", "shipwreck-archeology"]
 externalSources:
   - title: "American Society of Interior Designers"
     url: "https://www.asid.org/"

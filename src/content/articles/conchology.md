@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 9
 wordCount: 2507
 tier: "2"
-relatedArticles: ["animal-behavior", "anatomy", "conservation-biology", "agriculture"]
+relatedArticles: ["animal-behavior", "anatomy", "conservation-biology", "agriculture", "solar-physics"]
 externalSources:
   - title: "Conchologists of America"
     url: "https://conchologistsofamerica.org/"

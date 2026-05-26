@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1005
 tier: "3"
-relatedArticles: ["painting", "architecture", "illustration", "art-history"]
+relatedArticles: ["painting", "architecture", "illustration", "art-history", "zentangle"]
 externalSources:
   - title: "Metropolitan Museum of Art - Perspective"
     url: "https://www.metmuseum.org/"

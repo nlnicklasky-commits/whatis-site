@@ -73,7 +73,7 @@ Contemporary fiber artists have pushed mix into new territory. Modern tapestries
 
 Large-scale commissions continue — tapestries hang in [government](/government) buildings, cathedrals, corporate headquarters, and museums worldwide. The format's unique qualities — its scale, its textile warmth, its way of absorbing and softening light — give it presence that no other medium quite matches.
 
-Small-scale mix weaving has also seen a hobbyist boom. Social media communities devoted to [weaving](/textile-arts) have introduced the craft to new audiences, and affordable small looms make it accessible for home practice.
+Small-scale mix weaving has also seen a hobbyist boom. Social media communities devoted to [weaving](/weaving) have introduced the craft to new audiences, and affordable small looms make it accessible for home practice.
 
 ## Why Tapestries Endure
 

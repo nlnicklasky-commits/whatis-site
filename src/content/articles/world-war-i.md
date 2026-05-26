@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1689
 tier: "3"
-relatedArticles: ["world-war-ii", "viking-history", "voyages-of-discovery", "wagon-trains"]
+relatedArticles: ["world-war-ii", "viking-history", "voyages-of-discovery", "wagon-trains", "australian-history"]
 externalSources:
   - title: "Imperial War Museum: WWI"
     url: "https://www.iwm.org.uk/history/first-world-war"

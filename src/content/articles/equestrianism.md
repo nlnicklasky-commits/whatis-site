@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1095
 tier: "3"
-relatedArticles: ["dressage", "animal-behavior", "sports-psychology"]
+relatedArticles: ["dressage", "animal-behavior", "sports-psychology", "riding-horse", "shooting-sports"]
 externalSources:
   - title: "International Federation for Equestrian Sports (FEI)"
     url: "https://www.fei.org/"

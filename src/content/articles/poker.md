@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1193
 tier: "3"
-relatedArticles: ["psychology", "game-theory", "mathematics"]
+relatedArticles: ["psychology", "game-theory", "mathematics", "mahjong"]
 externalSources:
   - title: "Britannica — Poker"
     url: "https://www.britannica.com/topic/poker-card-game"

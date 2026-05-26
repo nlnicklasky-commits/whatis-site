@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1068
 tier: "3"
-relatedArticles: ["electronics", "alternative-energy", "digital-logic", "physics"]
+relatedArticles: ["electronics", "alternative-energy", "digital-logic", "physics", "diy-home-improvement"]
 externalSources:
   - title: "U.S. Energy Information Administration"
     url: "https://www.eia.gov/"
@@ -39,7 +39,7 @@ At the atomic level, electricity is about electrons — the tiny negatively char
 
 Apply a voltage (an electrical "pressure"), and these free electrons start drifting in one direction. That drift is electric current. The individual electrons move surprisingly slowly — only about 0.1 millimeters per second in a typical wire. But the electromagnetic field that pushes them propagates at nearly the speed of light, which is why your light turns on instantly when you flip the switch. It's like a long tube full of marbles — push one marble in one end, and a marble pops out the other end almost immediately, even though no single marble traveled the full distance.
 
-**Voltage** (measured in volts) is the pressure pushing electrons through a circuit. **Current** (measured in amperes, or amps) is the amount of charge flowing. **Resistance** (measured in ohms) opposes current flow. These three quantities are linked by Ohm's Law: Voltage = Current x Resistance. Understanding this relationship is basically understanding [electronics](/digital-art)).
+**Voltage** (measured in volts) is the pressure pushing electrons through a circuit. **Current** (measured in amperes, or amps) is the amount of charge flowing. **Resistance** (measured in ohms) opposes current flow. These three quantities are linked by Ohm's Law: Voltage = Current x Resistance. Understanding this relationship is basically understanding [electronics](/electronics)).
 
 ## A Quick History
 

@@ -31,7 +31,7 @@ faq:
 
 # What Is Notary Public?
 
-A notary public is a person appointed by a [state government](/statistics)) to serve as an impartial witness to the signing of important documents, verify the identity of signers, administer oaths, and deter fraud. When you get a document "notarized," you're essentially having an authorized official confirm that you are who you say you are and that you're signing voluntarily.
+A notary public is a person appointed by a [state government](/state-government)) to serve as an impartial witness to the signing of important documents, verify the identity of signers, administer oaths, and deter fraud. When you get a document "notarized," you're essentially having an authorized official confirm that you are who you say you are and that you're signing voluntarily.
 
 ## Why Notarization Exists
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 882
 tier: "3"
-relatedArticles: ["political-science", "international-relations", "sociology", "public-policy"]
+relatedArticles: ["political-science", "international-relations", "sociology", "public-policy", "manicuring"]
 externalSources:
   - title: "American Political Science Association"
     url: "https://www.apsanet.org/"

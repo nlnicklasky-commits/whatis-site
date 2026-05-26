@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1074
 tier: "3"
-relatedArticles: ["acting", "creative-writing", "dance"]
+relatedArticles: ["acting", "creative-writing", "dance", "creole-languages", "health-informatics"]
 externalSources:
   - title: "The Drama League"
     url: "https://dramaleague.org/"

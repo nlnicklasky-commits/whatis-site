@@ -31,7 +31,7 @@ faq:
 
 # What Is Cabinet Making?
 
-Cabinet making is the skilled craft of designing and constructing fine furniture, cabinets, and wooden storage pieces using precise joinery, careful wood selection, and refined finishing techniques. It sits at the higher end of [woodworking](/carpentry) — where structural soundness meets aesthetic beauty, and joints that could be hidden are instead executed with such precision they become decorative features themselves.
+Cabinet making is the skilled craft of designing and constructing fine furniture, cabinets, and wooden storage pieces using precise joinery, careful wood selection, and refined finishing techniques. It sits at the higher end of [woodworking](/woodworking) — where structural soundness meets aesthetic beauty, and joints that could be hidden are instead executed with such precision they become decorative features themselves.
 
 ## Craft vs. Production
 

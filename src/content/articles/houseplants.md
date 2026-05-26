@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 987
 tier: "3"
-relatedArticles: ["home-organization", "interior-design", "botany", "agriculture"]
+relatedArticles: ["home-organization", "interior-design", "botany", "agriculture", "nursery-management"]
 externalSources:
   - title: "NASA Clean Air Study"
     url: "https://ntrs.nasa.gov/citations/19930073077"

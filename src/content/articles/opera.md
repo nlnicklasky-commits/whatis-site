@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 996
 tier: "3"
-relatedArticles: ["classical-music", "music-history", "orchestration"]
+relatedArticles: ["classical-music", "music-history", "orchestration", "hungarian-history", "light-opera"]
 externalSources:
   - title: "The Metropolitan Opera"
     url: "https://www.metopera.org/"

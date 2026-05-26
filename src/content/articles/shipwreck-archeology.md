@@ -87,7 +87,7 @@ Some wrecks are more than archeological curiosities. They've reshaped our unders
 
 Discovered off southern Turkey in 1982, this Bronze Age merchant vessel carried one of the most extraordinary cargo loads ever found. Ten tons of copper ingots from Cyprus. One ton of tin from central Asia. Ebony from Egypt. Ivory. Amber from the Baltic. Gold jewelry. Hippopotamus teeth.
 
-The ship's cargo came from at least seven different cultures, proving that long-distance [international trade](/interior-design)) networks were far more sophisticated in the Bronze Age than anyone had assumed. Eleven excavation campaigns between 1984 and 1994 — involving over 22,000 individual dives — recovered more than 17 tons of artifacts.
+The ship's cargo came from at least seven different cultures, proving that long-distance [international trade](/international-trade)) networks were far more sophisticated in the Bronze Age than anyone had assumed. Eleven excavation campaigns between 1984 and 1994 — involving over 22,000 individual dives — recovered more than 17 tons of artifacts.
 
 ### The Antikythera Wreck (c. 70-60 BCE)
 

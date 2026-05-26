@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 7
 wordCount: 1832
 tier: "3"
-relatedArticles: ["medical-anthropology", "medical-history", "business-ethics"]
+relatedArticles: ["medical-anthropology", "medical-history", "business-ethics", "medical-jurisprudence"]
 externalSources:
   - title: "American Medical Association - Code of Medical Ethics"
     url: "https://www.ama-assn.org/delivering-care/ethics"
@@ -103,7 +103,7 @@ Healthcare resources are limited. Not everyone can receive every treatment. Just
 
 During the COVID-19 pandemic, this principle was tested daily. When ventilators were scarce, who should get one? The youngest patient? The sickest? The one most likely to survive? The healthcare worker who could save others if they recovered? There's no algorithm for this. Justice requires human judgment, transparency, and consistency.
 
-At a broader level, justice asks why some populations have worse health outcomes than others — and whether the healthcare system is complicit in those disparities. In the U.S., where [health insurance](/health-law)) status can determine access to care, the justice principle raises uncomfortable questions about whether the system itself is ethical.
+At a broader level, justice asks why some populations have worse health outcomes than others — and whether the healthcare system is complicit in those disparities. In the U.S., where [health insurance](/health-insurance)) status can determine access to care, the justice principle raises uncomfortable questions about whether the system itself is ethical.
 
 ## Major Ethical Debates in Modern Medicine
 

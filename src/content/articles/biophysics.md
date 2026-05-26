@@ -121,7 +121,7 @@ The efficiency of muscle contraction — about 25% for converting chemical energ
 
 ATP synthase is literally a rotary motor embedded in the mitochondrial membrane. Protons flow through it driven by the electrochemical gradient across the membrane (established by the electron transport chain), causing a rotor subunit to spin at about 100 revolutions per second. This rotation drives conformational changes in the catalytic subunits that synthesize ATP from ADP and phosphate.
 
-The mechanism was worked out by Paul Boyer and John Walker (1997 Nobel Prize in Chemistry). Single-molecule experiments by Masasuke Yoshida's group directly visualized the rotation using a fluorescent actin filament attached to the rotor — you could literally watch the motor spin under a microscope. This remains one of the most visually stunning demonstrations in all of [molecular biology](/biochemistry).
+The mechanism was worked out by Paul Boyer and John Walker (1997 Nobel Prize in Chemistry). Single-molecule experiments by Masasuke Yoshida's group directly visualized the rotation using a fluorescent actin filament attached to the rotor — you could literally watch the motor spin under a microscope. This remains one of the most visually stunning demonstrations in all of [molecular biology](/molecular-biology).
 
 ## Biophysics of the Senses
 

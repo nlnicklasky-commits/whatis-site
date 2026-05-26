@@ -101,7 +101,7 @@ The fundamental laws of physics — Newton's laws, Maxwell's equations, quantum 
 
 But macroscopic processes aren't symmetric. Eggs break but don't unbreak. Coffee cools but doesn't spontaneously heat up. You age in one direction only. Where does this asymmetry come from?
 
-The second law of thermodynamics. Entropy increases with time, giving the universe a direction — an arrow of time. The past is the direction of lower entropy; the future is the direction of higher entropy. This may sound like a minor technical point, but it's actually one of the deepest statements in [physics](/classical-mechanics). The direction of time itself is a thermodynamic phenomenon.
+The second law of thermodynamics. Entropy increases with time, giving the universe a direction — an arrow of time. The past is the direction of lower entropy; the future is the direction of higher entropy. This may sound like a minor technical point, but it's actually one of the deepest statements in [physics](/physics). The direction of time itself is a thermodynamic phenomenon.
 
 Why the universe started in a low-entropy state — a state so improbable that it requires explanation — remains one of the great open questions in [cosmology](/cosmology). Roger Penrose has estimated that the probability of the Big Bang producing a universe with our level of initial order is about 1 in 10^(10^123). That number is beyond comprehension.
 

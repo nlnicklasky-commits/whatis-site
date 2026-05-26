@@ -67,7 +67,7 @@ The French tradition emphasizes technique and precision above all. If you can ex
 
 Contemporary pastry has expanded far beyond the French classical tradition. Influences from Japan (light, delicate textures, matcha and yuzu flavors), Latin America (dulce de leche, tropical fruits), the Middle East (rosewater, pistachios, phyllo), and Scandinavia (cardamom, berries, restraint) have broadened the palette.
 
-[Molecular gastronomy](/molecular-biology)) techniques have entered the pastry kitchen: gelification with agar and gellan gum, spherification, liquid nitrogen for instant freezing, and hydrocolloids for texture control. These tools expand what's possible but don't replace fundamental technique — you still need to know how to make custard before you can reinvent it.
+[Molecular gastronomy](/molecular-gastronomy)) techniques have entered the pastry kitchen: gelification with agar and gellan gum, spherification, liquid nitrogen for instant freezing, and hydrocolloids for texture control. These tools expand what's possible but don't replace fundamental technique — you still need to know how to make custard before you can reinvent it.
 
 Plated desserts at fine-dining restaurants are miniature compositions — combining multiple textures (crispy, creamy, chewy, frozen), temperatures, and flavors on a single plate. A restaurant dessert might include a main element (cake, tart, souffle), a sauce, a frozen component (ice cream, sorbet), a crispy element, and a decorative piece, all balanced in flavor and visual presentation.
 

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 6
 wordCount: 1543
 tier: "3"
-relatedArticles: ["civil-engineering", "classical-mechanics"]
+relatedArticles: ["civil-engineering", "classical-mechanics", "train-spotting"]
 externalSources:
   - title: "Smithsonian National Museum of American History: Railroad Collections"
     url: "https://americanhistory.si.edu/collections/subjects/transportation"

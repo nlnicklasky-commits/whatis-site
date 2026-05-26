@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"
-relatedArticles: ["beer-brewing", "gastronomy", "wine-tasting", "cooking"]
+relatedArticles: ["beer-brewing", "gastronomy", "wine-tasting", "cooking", "cocktail-making"]
 externalSources:
   - title: "Brewers Association"
     url: "https://www.brewersassociation.org/"

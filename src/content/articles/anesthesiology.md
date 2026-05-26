@@ -145,7 +145,7 @@ The path is long. In the United States: four years of college, four years of med
 
 During residency, trainees progress from simple cases to increasingly complex ones. They learn to manage airways, place central lines, perform nerve blocks, handle cardiac surgery, and manage life-threatening emergencies. By the end, they've participated in thousands of cases across every surgical specialty.
 
-The specialty attracts people who thrive under pressure, enjoy [physiology](/biology) and pharmacology, and prefer immediate results over long-term patient relationships. It's sometimes called the "internist of the operating room" because the anesthesiologist manages the whole patient — every organ system, every drug interaction, every vital function — while the surgeon focuses on one specific problem.
+The specialty attracts people who thrive under pressure, enjoy [physiology](/physiology) and pharmacology, and prefer immediate results over long-term patient relationships. It's sometimes called the "internist of the operating room" because the anesthesiologist manages the whole patient — every organ system, every drug interaction, every vital function — while the surgeon focuses on one specific problem.
 
 ## The Future of Anesthesiology
 

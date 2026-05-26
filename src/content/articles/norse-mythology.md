@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1076
 tier: "3"
-relatedArticles: ["mythology", "viking-history", "religion", "folklore"]
+relatedArticles: ["mythology", "viking-history", "religion", "folklore", "scandinavian-history"]
 externalSources:
   - title: "Britannica - Norse Mythology"
     url: "https://www.britannica.com/topic/Norse-mythology"

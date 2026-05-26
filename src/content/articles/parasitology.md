@@ -139,7 +139,7 @@ Diagnosing parasitic infections ranges from straightforward to maddeningly diffi
 
 Antiparasitic drugs have saved countless lives, but the arsenal is limited compared to antibacterial or antiviral drugs.
 
-**Antimalarials** include chloroquine (now widely resisted), artemisinin-based combination therapies (the current front-line treatment), and newer drugs in development. Artemisinin resistance has emerged in Southeast Asia and is spreading, causing serious concern among parasitologists and [public health](/health-science) experts.
+**Antimalarials** include chloroquine (now widely resisted), artemisinin-based combination therapies (the current front-line treatment), and newer drugs in development. Artemisinin resistance has emerged in Southeast Asia and is spreading, causing serious concern among parasitologists and [public health](/public-health) experts.
 
 **Anthelmintics** (anti-worm drugs) like albendazole, mebendazole, ivermectin, and praziquantel are used in mass drug administration programs treating hundreds of millions of people annually. Ivermectin — originally discovered as a veterinary drug — has been donated by Merck for onchocerciasis control since 1987, preventing millions of cases of river blindness.
 

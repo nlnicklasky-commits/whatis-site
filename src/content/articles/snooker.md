@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 704
 tier: "3"
-relatedArticles: ["scrabble", "skill-based-gaming"]
+relatedArticles: ["scrabble", "skill-based-gaming", "pool-billiards"]
 externalSources:
   - title: "World Snooker Tour"
     url: "https://wst.tv/"

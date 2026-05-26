@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 11
 wordCount: 2605
 tier: "2"
-relatedArticles: ["corporate-finance", "contract-law", "accounting", "currency-trading"]
+relatedArticles: ["corporate-finance", "contract-law", "accounting", "currency-trading", "loan-management"]
 externalSources:
   - title: "Federal Reserve - Consumer Credit"
     url: "https://www.federalreserve.gov/releases/g19/current/"

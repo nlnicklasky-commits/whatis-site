@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1004
 tier: "3"
-relatedArticles: ["logic", "philosophy", "negotiation", "education"]
+relatedArticles: ["logic", "philosophy", "negotiation", "education", "cryptozoology"]
 externalSources:
   - title: "Foundation for Critical Thinking"
     url: "https://www.criticalthinking.org/"

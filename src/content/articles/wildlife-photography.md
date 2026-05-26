@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 980
 tier: "3"
-relatedArticles: ["underwater-photography", "videography", "wildlife-conservation"]
+relatedArticles: ["underwater-photography", "videography", "wildlife-conservation", "urban-exploration"]
 externalSources:
   - title: "National Geographic — Photography"
     url: "https://www.nationalgeographic.com/photography/"

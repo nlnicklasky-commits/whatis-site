@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 10
 wordCount: 2786
 tier: "2"
-relatedArticles: ["agriculture", "anatomy", "agronomy", "biotechnology"]
+relatedArticles: ["agriculture", "anatomy", "agronomy", "biotechnology", "dendrology"]
 externalSources:
   - title: "Botanical Society of America"
     url: "https://botany.org/"

@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 999
 tier: "3"
-relatedArticles: ["archery", "sports-psychology", "military-strategy", "hunting"]
+relatedArticles: ["archery", "sports-psychology", "military-strategy", "hunting", "shooting-sports"]
 externalSources:
   - title: "USA Shooting (Olympic Governing Body)"
     url: "https://www.usashooting.org/"

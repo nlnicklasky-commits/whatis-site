@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 5
 wordCount: 1441
 tier: "3"
-relatedArticles: ["business-administration", "business-law", "accounting"]
+relatedArticles: ["business-administration", "business-law", "accounting", "small-business-management", "urban-farming"]
 externalSources:
   - title: "Urban Land Institute"
     url: "https://uli.org/"

@@ -151,7 +151,7 @@ System dynamics, developed by Jay Forrester at MIT in the 1950s, uses computer s
 
 Control [systems engineering](/systems-engineering) — designing systems that regulate themselves through feedback — is a direct descendant of cybernetics. Every autopilot, thermostat, cruise control, and industrial process controller embodies systems principles.
 
-[Systems engineering](/aerospace-engineering) manages the design of complex technical systems like aircraft, spacecraft, and power grids. It focuses on requirements, interfaces between subsystems, integration, testing, and lifecycle management — all systems-level concerns that can't be addressed by any single engineering discipline alone.
+[Systems engineering](/systems-engineering) manages the design of complex technical systems like aircraft, spacecraft, and power grids. It focuses on requirements, interfaces between subsystems, integration, testing, and lifecycle management — all systems-level concerns that can't be addressed by any single engineering discipline alone.
 
 ### Psychology and Family Therapy
 

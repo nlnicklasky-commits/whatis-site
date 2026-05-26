@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 4
 wordCount: 1033
 tier: "3"
-relatedArticles: ["fire-safety", "firefighting"]
+relatedArticles: ["fire-safety", "firefighting", "truck-driving", "turkish-language"]
 externalSources:
   - title: "American Red Cross — First Aid"
     url: "https://www.redcross.org/take-a-class/first-aid"

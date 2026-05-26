@@ -12,7 +12,7 @@ dateModified: "2026-05-12"
 readingTime: 3
 wordCount: 928
 tier: "3"
-relatedArticles: ["woodworking", "wood-finishing", "weaving"]
+relatedArticles: ["woodworking", "wood-finishing", "weaving", "restoration-automobile"]
 externalSources:
   - title: "Smithsonian Institution — Furniture Conservation"
     url: "https://www.si.edu/mci"
