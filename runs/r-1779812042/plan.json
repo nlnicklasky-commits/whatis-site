@@ -1,0 +1,81 @@
+{
+  "runId": "r-1779812042",
+  "brief": "Audit the image status of all 1,620 WhatIs.site articles: which lack hero images, which lack the responsive variants (400/800w), and which lack in-content images/diagrams (currently zero). Then audit SEO alt tags. User emphasis: ensure AI-generated images avoid the typical artifacts (rendered words/letters/numbers, garbled anatomy, watermarks) and follow image best practices — spin up a prompt-engineering role to produce an artifact-safe FLUX prompt playbook and QA the 5 heroes already generated (compound-interest, interest-rate, savings, generative-ai, large-language-model).",
+  "createdAt": "2026-05-26T00:00:00Z",
+  "roles": [
+    {
+      "id": "r-coverage",
+      "title": "Image Asset Coverage Auditor",
+      "mission": "Produce an exact, script-driven coverage matrix of every article's image assets (hero, 400w/800w variants, in-content images) and the precise gap lists.",
+      "expertise": "Filesystem/content auditing at scale, Astro content collections, frontmatter parsing, responsive image variant conventions, reproducible Node audit scripts.",
+      "headcount": 1
+    },
+    {
+      "id": "r-altseo",
+      "title": "Alt-Text & Image SEO Auditor",
+      "mission": "Assess alt-text coverage and quality plus technical image SEO across the corpus, with specific defects and fixes.",
+      "expertise": "Image SEO, accessibility (WCAG alt-text), alt quality heuristics (descriptive, unique, length, no keyword-stuffing), filenames, dimensions, format/weight, lazy/eager, srcset, sitemap image extensions.",
+      "headcount": 1
+    },
+    {
+      "id": "r-prompteng",
+      "title": "AI Image Prompt Engineer",
+      "mission": "Deliver an artifact-safe prompt-engineering playbook for generating hero and in-content images via FLUX (Replicate) and QA the 5 already-generated heroes for AI artifacts.",
+      "expertise": "Text-to-image prompting (FLUX 1.1 Pro), negative/exclusion prompting, avoiding rendered text/letters/numbers and anatomy/watermark artifacts, composition and aspect best practices, automated artifact QA.",
+      "headcount": 1
+    },
+    {
+      "id": "r-instrat",
+      "title": "In-Content Image Strategist",
+      "mission": "Define what in-content images/diagrams the corpus should add, prioritize where, and give an implementation + rollout plan.",
+      "expertise": "Content visual strategy, diagrams/illustrations for educational explainers, Astro markdown image embedding, SEO/engagement value of in-content visuals, pragmatic rollout planning.",
+      "headcount": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "Hero + responsive-variant + in-content coverage audit",
+      "roleId": "r-coverage",
+      "instance": 1,
+      "prompt": "Produce a precise, reproducible image-coverage audit for all WhatIs.site articles (src/content/articles/*.md; images in public/images/articles/). Write and run a Node script to compute, for every article: (a) does its heroImage file exist on disk; (b) does the 400w variant exist (<base>-400.webp where heroImage is <base>.webp); (c) does the 800w variant exist (<base>-800.webp); (d) how many in-content/inline markdown images the body contains (pattern ![alt](url)). Cross-reference against the actual files in public/images/articles/. Also report orphan images (variant or hero files with no referencing article) and total image storage. Reference scripts/audits/image-audit.mjs and scripts/seo/gen-image-variants.mjs for conventions; you MAY run/extend the existing audit script (it writes gitignored .audit-images.json scratch — fine). Do NOT edit articles or source.\n\nDeliver a markdown report with: (1) Headline coverage table — counts and % for hero present, 400w present, 800w present, in-content image present, across all 1,620; (2) Exact gap lists — every article missing a hero, missing a 400w, or missing an 800w (slug + category; if a list is long, give the full count and the first 40 plus a note that the full list is enumerated in the scratch JSON you wrote); (3) In-content image inventory — confirm the count of articles with >=1 body image and list any that have them; (4) Orphans & storage — orphan files and total MB. Be exact and grounded in real file checks, not estimates. End your reply with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "scripts/audits/image-audit.mjs", "scripts/seo/gen-image-variants.mjs", "src/content/articles", "public/images/articles"],
+      "deps": [],
+      "deliverable": "out/r-1779812042/t1-coverage.md",
+      "attempts": 0
+    },
+    {
+      "id": "t2",
+      "title": "Alt-text & image SEO audit",
+      "roleId": "r-altseo",
+      "instance": 1,
+      "prompt": "Audit alt text and technical image SEO across all 1,620 WhatIs.site articles. The heroAlt frontmatter field supplies each hero image's alt (rendered in ArticleLayout.astro and ArticleCard.astro). A prior pass (git ed9c630) rewrote all hero alts from a template to unique text — verify that actually holds now. Write/run a Node script over src/content/articles/*.md and reference scripts/audits/image-audit.mjs.\n\nDeliver a markdown report with: (1) Alt-text coverage & quality — count of heroAlt that are missing/empty, under ~15 chars, over ~125 chars (too long), still matching the old template 'Editorial photograph representing the concept of', duplicated across articles, or keyword-stuffed (e.g., repeats the slug words verbatim with no natural phrasing). Show 5-8 concrete examples (slug + the alt text) of the worst offenders with suggested rewrites; (2) Accessibility check — are alts descriptive of the image content vs just the topic, and do decorative images correctly use empty alt (e.g., the logo)? Note any in-content images lacking alt (currently there are none). (3) Technical image SEO — assess filenames (descriptive vs generic), explicit width/height (CLS), format (webp), file weight/largest offenders, loading strategy (eager hero / lazy cards), srcset presence (added last session), and whether images are included in the sitemap (image sitemap extension) — check astro.config.mjs sitemap config and dist if you build. Give a prioritized fix list (P0/P1/P2). Be specific with slugs and quoted alt text. End your reply with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "src/content/articles", "src/layouts/ArticleLayout.astro", "src/components/ArticleCard.astro", "scripts/audits/image-audit.mjs", "astro.config.mjs"],
+      "deps": [],
+      "deliverable": "out/r-1779812042/t2-alt-seo.md",
+      "attempts": 0
+    },
+    {
+      "id": "t3",
+      "title": "Artifact-safe AI image prompt-engineering playbook + QA of the 5 generated heroes",
+      "roleId": "r-prompteng",
+      "instance": 1,
+      "prompt": "Deliver a prompt-engineering playbook for generating WhatIs.site images with FLUX 1.1 Pro via Replicate (see scripts/seo/gen-hero-images.mjs for the current generation setup and prompt style) that reliably AVOIDS the typical AI artifacts the user is worried about — especially rendered words/letters/numbers, gibberish text, watermarks/signatures/logos, garbled human anatomy (hands/eyes/teeth), and uncanny faces — and follows image best practices (composition, lighting, 16:9 hero framing at 1344x768, consistent editorial style, accessibility-friendly clear subjects).\n\nPart A — Playbook: (1) Prompt construction rules and phrasing that suppress text artifacts (FLUX has no negative-prompt input via the basic API, so cover both prompt-side phrasing like 'no text, no words, no letters, no numbers, no watermark, no signage' AND the realistic limits of that, plus subject choices that avoid text-prone scenes like keyboards, newspapers, signs, book spines, calculators); (2) A reusable prompt template + 6-10 ready category templates (finance, technology/AI, science, history, arts, health, sports, everyday-concepts) that bias toward clean, text-free compositions; (3) Best-practice parameters for flux-1.1-pro (aspect ratio/dimensions, output format/quality, prompt_upsampling, safety_tolerance, seeds for reproducibility); (4) A QA/verification process to catch artifacts at scale BEFORE publishing — including a concrete approach to detect rendered text in generated images (e.g., run an OCR pass such as tesseract over each generated image and flag any with detected character runs), plus a human spot-check checklist.\n\nPart B — QA the 5 heroes already generated last session. Use the Read tool to VISUALLY inspect each of these files and give a per-image verdict (PASS / FIX) calling out any artifacts (text, garbled letters/numbers, anatomy, watermark): public/images/articles/compound-interest-hero.webp, interest-rate-hero.webp, savings-hero.webp, generative-ai-hero.webp, large-language-model-hero.webp. For any FIX, give an improved prompt. Note: the interest-rate image has a calculator (text-prone) and the large-language-model image shows floating glyph-like characters — scrutinize those closely.\n\nDo NOT edit source or regenerate images in this run; this is a playbook + QA deliverable. Target 1,000-1,800 words plus prompt blocks. End your reply with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "scripts/seo/gen-hero-images.mjs", "public/images/articles/compound-interest-hero.webp", "public/images/articles/interest-rate-hero.webp", "public/images/articles/savings-hero.webp", "public/images/articles/generative-ai-hero.webp", "public/images/articles/large-language-model-hero.webp"],
+      "deps": [],
+      "deliverable": "out/r-1779812042/t3-prompt-playbook.md",
+      "attempts": 0
+    },
+    {
+      "id": "t4",
+      "title": "In-content image/diagram strategy & rollout plan",
+      "roleId": "r-instrat",
+      "instance": 1,
+      "prompt": "WhatIs.site articles currently contain ZERO in-content images — only a hero. Design a strategy for adding in-content visuals/diagrams that improve comprehension, engagement, dwell time, and image-search/GEO value, grounded in this corpus (educational 'What Is X?' explainers across ~25 categories, tiers 1-3, src/content/articles/). Read a handful of real articles and CLAUDE.md (architecture rules: zero-JS, build-time, markdown content) so the plan fits how the site actually works.\n\nDeliver a markdown plan with: (1) Which in-content visual TYPES fit this corpus and add real value — e.g., explanatory diagrams, process/flow illustrations, labeled illustrations, comparison visuals, timelines — and which to avoid (decorative filler, anything text-heavy that AI generates badly); (2) Where to apply them first — prioritize by category/tier/traffic-potential, and roughly how many images per article by tier; (3) Implementation in Astro — how to embed in markdown (relative path under public/images/articles/, the ![alt](/path) pattern), the alt-text requirement, dimensions/CLS handling, lazy loading, and whether a shared figure/caption component is worth adding; (4) Production approach — which can be AI-generated (and must follow the artifact-safe prompt rules from the prompt-engineering playbook — cross-reference it) vs which need real diagrams/SVG, plus a phased rollout with rough effort. Be concrete and pragmatic for a solo operator with 1,620 articles. Target 900-1,500 words. End your reply with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "src/content/articles", "src/layouts/ArticleLayout.astro", "data/topics-master.json"],
+      "deps": [],
+      "deliverable": "out/r-1779812042/t4-incontent-strategy.md",
+      "attempts": 0
+    }
+  ]
+}

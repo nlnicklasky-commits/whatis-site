@@ -1,0 +1,92 @@
+{
+  "runId": "r-1779760513",
+  "brief": "lets improve this site — WhatIs.site, an Astro 5 content platform with 1,620 articles. Recon shows an indexation crisis: ~2% of articles known to Google despite a recent trailing-slash canonical fix. User scoped to all four focus areas (get indexed & found, authority & backlinks, content & GEO quality, UX/performance & revenue) with output as a DIAGNOSTIC ROADMAP first — analysis + prioritized, copy-ready fixes and diffs, no shipping changes in this run.",
+  "createdAt": "2026-05-25T00:00:00Z",
+  "roles": [
+    {
+      "id": "r-indexation",
+      "title": "Technical SEO & Indexation Engineer",
+      "mission": "Diagnose exactly why Google has indexed almost none of the 1,620 articles and produce a prioritized, evidence-grounded fix plan to accelerate discovery and indexation.",
+      "expertise": "Crawl budget, sitemaps, robots.txt, canonicalization, IndexNow, internal-link discoverability, log-driven indexation diagnosis, Astro static-output SEO mechanics.",
+      "headcount": 1
+    },
+    {
+      "id": "r-authority",
+      "title": "Off-Site Authority & Link Strategist",
+      "mission": "Explain why a new low-authority site gets ignored by Google and deliver a concrete, sequenced backlink/citation acquisition roadmap that leverages the site's existing linkable assets.",
+      "expertise": "Domain authority growth, digital PR, link building, HARO/citation outreach, leveraging stats roundups and free tools as link magnets, realistic timelines for new-site authority.",
+      "headcount": 1
+    },
+    {
+      "id": "r-content",
+      "title": "Content & GEO Quality Analyst",
+      "mission": "Assess on-page SEO, AI-citation (GEO) readiness, humanization compliance, and topical-authority/content-gap posture across the article corpus, with specific upgrades that convert crawls into rankings and citations.",
+      "expertise": "On-page SEO, GEO/answer-engine optimization, schema (Article/FAQ/Breadcrumb), editorial quality, topical clustering, content-gap analysis, the project's banned-words humanization rules.",
+      "headcount": 1
+    },
+    {
+      "id": "r-growth",
+      "title": "UX/Performance & Monetization Engineer",
+      "mission": "Audit Core Web Vitals, design/UX, and accessibility, and design a monetization-activation plan so arriving traffic is fast, pleasant, and revenue-generating.",
+      "expertise": "Astro/Tailwind performance, Core Web Vitals, zero-JS frontend, responsive/a11y design, ad-network integration (the site's existing ad-slot system), revenue strategy for high-pageview content sites.",
+      "headcount": 2
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "Indexation & technical-SEO diagnosis + prioritized fix plan",
+      "roleId": "r-indexation",
+      "instance": 1,
+      "prompt": "Produce a technical-SEO and indexation diagnostic for WhatIs.site (Astro 5 static, 1,620 articles, deployed on Vercel). The dominant business problem: per data/seo-audit-findings.md and data/indexation-audit.md, Google had ~0-2% of articles indexed and 90% 'unknown to Google'. A trailing-slash canonical fix shipped recently (git commit 6978b3c; vercel.json now 301-redirects trailing-slash to no-slash and canonical is no-slash) and IndexNow auto-submit was added (commit 3bb1c12). VERIFY whether the root causes are actually resolved now and identify what still blocks discovery/indexation.\n\nDo this concretely by reading the repo: astro.config.mjs, vercel.json, src/layouts/ArticleLayout.astro and BaseLayout.astro (canonical/og:url construction), the sitemap generation, public/robots.txt (find it), src/pages/[...slug].astro, scripts/seo/* (indexnow-submit.mjs, indexation-audit.mjs, weekly-progress.mjs), scripts/build-link-graph.mjs and src/data/link-graph.json, and data/progress-log.json. Where useful, build the site (npm run build) to inspect dist/ output (sitemap, robots, a sample article's rendered <head>) for evidence — but do NOT edit source files or commit anything.\n\nDeliver a markdown report with: (1) Current state verdict — is the slash/canonical issue truly fixed end-to-end (sitemap URL form vs canonical vs og:url vs JSON-LD @id), with the exact evidence; (2) Remaining/likely-remaining indexation blockers ranked by impact — crawl budget for a new site, internal-link discoverability (orphan pages, click-depth from homepage, hub/category linking), sitemap structure/lastmod, robots/AI-crawler posture, IndexNow coverage, thin/duplicate signals; (3) A prioritized fix list (P0/P1/P2) — each fix as: problem, evidence (file:line where relevant), the specific change (copy-ready diff or config snippet), expected impact, and effort. Be specific and grounded in this repo, not generic SEO advice. Target 900-1,600 words plus code/diff blocks. End your reply with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "astro.config.mjs", "vercel.json", "src/layouts/ArticleLayout.astro", "src/layouts/BaseLayout.astro", "src/pages/[...slug].astro", "scripts/seo/indexnow-submit.mjs", "scripts/seo/indexation-audit.mjs", "scripts/build-link-graph.mjs", "src/data/link-graph.json", "data/seo-audit-findings.md", "data/indexation-audit.md", "data/progress-log.json"],
+      "deps": [],
+      "deliverable": "out/r-1779760513/t1-indexation.md",
+      "attempts": 0
+    },
+    {
+      "id": "t2",
+      "title": "Off-site authority & backlink/citation acquisition roadmap",
+      "roleId": "r-authority",
+      "instance": 1,
+      "prompt": "Build an off-site authority roadmap for WhatIs.site, a new content site with 1,620 'What Is...' educational articles and effectively zero domain authority/backlinks, which is a major reason Google deprioritizes crawling/indexing it. The team has already shipped 'linkable assets' — review git log and the repo for these: stats roundups, free tools, and hub pages (commits cd5a194 and 1aadeda mention '5 stats roundups, 3 free tools, 2 hubs' and a wave 2). Find them in src/content and src/pages and assess how linkable/promotable they actually are.\n\nDeliver a markdown roadmap with: (1) Why authority is the gating factor for a new site — connect low DR/backlinks to the indexation crisis in concrete cause-effect terms, with a realistic timeline expectation; (2) Inventory & verdict on the existing linkable assets — which are genuinely link-worthy, which need work, and what's missing; (3) A sequenced 90-day link-acquisition plan — specific, low-cost, founder-executable tactics (digital PR / data-journalism angles off the stats roundups, free-tool promotion, relevant directories, resource-page and unlinked-mention outreach, strategic guest content, community seeding). For each tactic: the target, the exact angle/pitch, effort, and expected link quality. Avoid spammy/black-hat tactics and generic listicles — be specific to this site's assets and a solo operator's constraints. Include 2-3 ready-to-send outreach email templates. Target 900-1,500 words. End your reply with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "src/content/articles", "src/pages", "data/topics-master.json"],
+      "deps": [],
+      "deliverable": "out/r-1779760513/t2-authority.md",
+      "attempts": 0
+    },
+    {
+      "id": "t3",
+      "title": "Content quality, GEO/AI-citation, and content-gap analysis",
+      "roleId": "r-content",
+      "instance": 1,
+      "prompt": "Assess content quality and GEO (answer-engine/AI-citation) readiness across WhatIs.site's 1,620 articles, and identify topical-authority gaps. Ground everything in the actual content: read CLAUDE.md for the humanization rules and tiers, src/content/config.ts for the schema, and sample at least 6-8 real articles across tiers/categories from src/content/articles/. Run the existing audit scripts for evidence where cheap: scripts/audits/banned-words-scan.mjs and scripts/audits/link-graph-audit.mjs (they write gitignored .audit-*.json scratch — fine; do NOT edit articles or commit). Review data/audit-report.json and data/article-status.json if present.\n\nDeliver a markdown report with: (1) Humanization & editorial compliance — does the corpus actually obey the banned-words/voice rules? Quantify violations from the scan and show 3-5 concrete examples (article + offending text) with suggested rewrites; (2) GEO/AI-citation readiness — are first paragraphs clean citable definitions (<3 sentences), are FAQs self-contained/quotable, is statistics usage present, is schema (Article/FAQPage/Breadcrumb) correct? Cite specific articles; (3) On-page SEO quality — titles/meta length, H-structure, internal links per article (target 5-10), external authoritative links; (4) Topical authority & content gaps — using data/topics-master.json and data/remaining-topics.json, identify the highest-value clusters to complete/strengthen and which existing articles to upgrade first. Give a prioritized improvement list (which articles/patterns to fix first, expected impact). Be specific with article slugs and quoted text, not generic. Target 1,000-1,600 words. End your reply with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "src/content/config.ts", "src/content/articles", "scripts/audits/banned-words-scan.mjs", "scripts/audits/link-graph-audit.mjs", "data/audit-report.json", "data/article-status.json", "data/topics-master.json", "data/remaining-topics.json"],
+      "deps": [],
+      "deliverable": "out/r-1779760513/t3-content-geo.md",
+      "attempts": 0
+    },
+    {
+      "id": "t4",
+      "title": "Performance, Core Web Vitals, UX & accessibility audit",
+      "roleId": "r-growth",
+      "instance": 1,
+      "prompt": "Audit performance and UX/design/accessibility for WhatIs.site (Astro 5 static, Tailwind v3, zero-JS-by-default, deployed on Vercel). Ground everything in the repo: read the layouts (src/layouts/*.astro), components (src/components if present), src/pages/index.astro and [...slug].astro and category pages, tailwind.config.mjs, astro.config.mjs, and the image setup (public/images/articles/, hero image handling and the placeholder fallback). Build the site (npm run build) and inspect dist/ output — page weight, render-blocking assets, font loading, image formats/dimensions, presence of width/height attributes, CLS risks, and whether any unnecessary client JS is shipped. Do NOT edit source or commit.\n\nDeliver a markdown report with: (1) Performance — estimated Core Web Vitals posture (LCP/CLS/INP) with the specific evidence from the build output and code (font strategy, hero image loading/lazy/eager, dimensions, CSS size), and the concrete fixes (copy-ready code/config snippets) ranked by impact; (2) UX/design — readability, navigation, internal-link discoverability for humans, mobile layout, TOC, related-articles, category browsing — what helps engagement and what's weak; (3) Accessibility — headings, alt text, color contrast, focus/keyboard, landmarks — flag concrete WCAG issues with file:line and fixes. Prioritize P0/P1/P2 with effort estimates. Be specific to this codebase. Target 900-1,500 words plus snippets. End your reply with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "src/layouts", "src/components", "src/pages", "tailwind.config.mjs", "astro.config.mjs", "data/design-audit.md"],
+      "deps": [],
+      "deliverable": "out/r-1779760513/t4-performance-ux.md",
+      "attempts": 0
+    },
+    {
+      "id": "t5",
+      "title": "Monetization activation plan",
+      "roleId": "r-growth",
+      "instance": 2,
+      "prompt": "Design a monetization-activation plan for WhatIs.site. Ads are currently OFF (PUBLIC_AD_NETWORK=none) and there are defined ad slots: header-leaderboard, in-content, sidebar-sticky, end-of-article, mobile-anchor. Find and read the ad-slot implementation in the repo (grep for PUBLIC_AD_NETWORK and the ad component/slots), and understand how toggling the network would work. The strategic reality: traffic is currently near-zero because of the indexation crisis, so monetization must be sequenced AFTER traffic arrives — make the plan reflect that, not pretend revenue is imminent.\n\nDeliver a markdown plan with: (1) Readiness assessment — how the existing ad-slot system works, what's wired vs missing, and what it would take to turn ads on (copy-ready config/code notes), without shipping it now; (2) Network selection — realistic options for a new high-pageview educational site (e.g. AdSense to start, then Mediavine/Raptive/Ezoic tiers) with their traffic thresholds and approximate RPMs, plus the non-ad options that fit (affiliate within articles, contextual, sponsorships) and which suit this content; (3) A revenue projection model — given the content footprint, sketch realistic RPM x sessions scenarios (pessimistic/base/optimistic) once indexation recovers, and the pageview milestones that unlock better networks; (4) A sequenced activation timeline tied to traffic milestones, including ad density/UX and Core Web Vitals trade-offs (don't wreck LCP/CLS). Be concrete and honest about timelines. Target 800-1,400 words. End your reply with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "src/components", "src/layouts", "astro.config.mjs"],
+      "deps": [],
+      "deliverable": "out/r-1779760513/t5-monetization.md",
+      "attempts": 0
+    }
+  ]
+}

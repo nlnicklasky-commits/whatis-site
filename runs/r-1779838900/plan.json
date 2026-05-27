@@ -1,0 +1,63 @@
+{
+  "runId": "r-1779838900",
+  "brief": "Move on to the alt tags: first audit, then plan, then execute. Context: WhatIs.site has 1,620 hero images whose heroAlt currently restates the article topic (e.g. 'Acupuncture is a medical practice...') rather than describing the image — flagged P2 in the r-1779812042 image audit. All alts are now <=125 chars and untruncated (a prior pass fixed 438). 87 articles also carry in-content figures whose alts are already descriptive (hand-written) and should be LEFT ALONE. Goal: rewrite hero alts to describe the actual image (better accessibility + image-SEO) via a vision-captioning pipeline (Replicate API token available in .env). Sequential: audit -> plan -> execute.",
+  "createdAt": "2026-05-26T00:00:00Z",
+  "roles": [
+    {
+      "id": "r-audit",
+      "title": "Alt-Text & Image-SEO Auditor",
+      "mission": "Produce an exact, evidence-grounded audit of the current hero alt-text corpus and define the target quality bar for image-descriptive alts.",
+      "expertise": "Accessibility (WCAG alt-text), image SEO, alt quality heuristics (descriptive vs topic-restatement, length, uniqueness, keyword-stuffing), reproducible Node analysis over markdown frontmatter.",
+      "headcount": 1
+    },
+    {
+      "id": "r-strategy",
+      "title": "Alt-Text Rewrite Strategist",
+      "mission": "Design the methodology and quality rubric for rewriting 1,620 hero alts into accurate, accessible, SEO-sound image descriptions at scale.",
+      "expertise": "Alt-text best practices, vision-model captioning approaches, prompt design for descriptive alt generation, batching/cost/QA strategy, edge-case handling (placeholder images, already-good alts).",
+      "headcount": 1
+    },
+    {
+      "id": "r-pipeline",
+      "title": "Vision Captioning Engineer",
+      "mission": "Build and prove a Replicate-based vision-captioning pipeline that turns a hero image into a clean image-descriptive alt, validated on a pilot batch.",
+      "expertise": "Replicate API, vision/multimodal models (BLIP/LLaVA/moondream-class), Node scripting, image batch processing, caption->alt cleaning (length, casing, no-text-restatement, topic-aware phrasing).",
+      "headcount": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "AUDIT — current hero alt-text corpus + quality bar",
+      "roleId": "r-audit",
+      "instance": 1,
+      "prompt": "Audit the hero alt-text across all 1,620 WhatIs.site articles. heroAlt frontmatter supplies each hero image's alt (rendered in ArticleLayout.astro / ArticleCard.astro). A prior pass made all alts <=125 chars and fixed 8 truncations + 430 over-length; the open issue (P2 in out/r-1779812042/t2-alt-seo.md) is that alts RESTATE THE TOPIC rather than DESCRIBE THE IMAGE. Write/run a Node script over src/content/articles/*.md to quantify the current state. Reference out/r-1779812042/t2-alt-seo.md and scripts/audits/image-audit.mjs.\n\nDeliver a markdown audit with: (1) Current-state metrics — count of alts that are topic-restatement (start with the subject + is/are/was/refers), length distribution (min/mean/max, % >125), duplicates, missing/empty, and how many articles already have in-content figure alts (these are hand-written and descriptive — must be EXCLUDED from any rewrite). (2) The core defect — show 8-10 concrete examples (slug + current alt) demonstrating topic-restatement vs what an image description should be, with a model rewrite for each (you don't need to see the image; infer plausible content from the topic, but mark these as illustrative). (3) Image-SEO/accessibility rationale — why image-descriptive alts matter (Google Images, screen readers) and the risks of getting it wrong (inaccurate descriptions are worse than generic ones). (4) Quality bar — a crisp checklist defining a GOOD hero alt for this site (describes what's visibly in the frame, <=125 chars, no 'image of/photo of' filler, natural topic keyword where truthful, no fabricated specifics). (5) Scope recommendation — which alts to rewrite (heroes only; leave the 87 in-content fig alts and any already-descriptive ones) and the exact count. Be exact and grounded. End with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["CLAUDE.md", "src/content/articles", "out/r-1779812042/t2-alt-seo.md", "scripts/audits/image-audit.mjs", "src/layouts/ArticleLayout.astro"],
+      "deps": [],
+      "deliverable": "out/r-1779838900/t1-audit.md",
+      "attempts": 0
+    },
+    {
+      "id": "t2",
+      "title": "PLAN — rewrite methodology + quality rubric",
+      "roleId": "r-strategy",
+      "instance": 1,
+      "prompt": "Using the audit (out/r-1779838900/t1-audit.md), design the methodology for rewriting the hero alts into image-descriptive alt text at scale. The images: ~1,615 are pre-existing editorial photos (content unknown without seeing them) plus 5 known AI-generated heroes (compound-interest, interest-rate, savings, generative-ai, large-language-model). Vision is required to describe images accurately — a Replicate API token is in .env. There is an artifact-safe image playbook at out/r-1779812042/t3-prompt-playbook.md and a generator at scripts/seo/gen-hero-images.mjs for reference on Replicate usage.\n\nDeliver a markdown plan with: (1) Approach — recommend a specific Replicate vision/captioning model class (e.g. a LLaVA/moondream/BLIP-style multimodal) and WHY, including how to prompt it to produce concise alt text that describes the frame AND naturally includes the article topic when truthful. Give the exact prompt template to send the model per image (it should receive the image + the article title/topic). (2) Caption->alt cleaning rules — strip 'an image of/a photo of/this image shows' prefixes, cap at 125 chars at a clean boundary, sentence case, no trailing period, no fabricated brand/number specifics, fallback to the current topic alt if the caption is too generic/empty/low-confidence. (3) Cost & throughput estimate for ~1,615 images, and a batching/concurrency + resumability approach (skip already-done, write incrementally to a JSON map). (4) QA plan — how to validate quality without eyeballing 1,615: automated checks (length, banned filler phrases, not-identical-to-old, language) + a human spot-check sample size; plus how to detect/flag low-confidence captions for manual review. (5) Edge cases — articles using placeholder.svg (none currently, but guard), the 5 known AI heroes (use their known content), and the 87 in-content fig alts (do NOT touch). (6) Rollout — pilot (~40) then full, and the exact data contract for the dataset the executor will produce (out/r-1779838900/alt-text.json: { slug: newAlt }). Be concrete. End with WORK_COMPLETE and the deliverable path.",
+      "ctxRefs": ["out/r-1779838900/t1-audit.md", "out/r-1779812042/t3-prompt-playbook.md", "scripts/seo/gen-hero-images.mjs", "CLAUDE.md"],
+      "deps": ["t1"],
+      "deliverable": "out/r-1779838900/t2-plan.md",
+      "attempts": 0
+    },
+    {
+      "id": "t3",
+      "title": "EXECUTE (pipeline + pilot) — build captioning pipeline, prove on 40-image pilot",
+      "roleId": "r-pipeline",
+      "instance": 1,
+      "prompt": "Implement the plan from out/r-1779838900/t2-plan.md. Build a reusable Node pipeline script at scripts/seo/gen-alt-text.mjs that: reads each article's heroImage + title, sends the image to the chosen Replicate vision model with the alt-generation prompt, applies the caption->alt cleaning rules, and writes an incremental, resumable slug->alt JSON map (skip slugs already present; support a slug-filter arg and a --limit). Use the REPLICATE_API_TOKEN in .env (see scripts/seo/gen-hero-images.mjs for the Replicate request pattern). Do NOT edit any article markdown — only produce the dataset + script.\n\nThen PROVE it: run the pipeline on a 40-article pilot spanning varied categories/tiers, writing out/r-1779838900/alt-text.json (the pilot subset). Deliver a markdown report (out/r-1779838900/t3-pipeline.md) with: (1) the model you chose + why + the exact Replicate model id/version; (2) measured per-image latency and cost from the pilot, extrapolated to ~1,615; (3) a table of 15-20 pilot results: slug | OLD topic alt | NEW image-descriptive alt, so the CEO can judge quality; (4) any failures/low-confidence cases and how the script flags them; (5) confirmation the cleaning rules work (lengths <=125, no filler prefixes, no empties). The dataset out/r-1779838900/alt-text.json must contain the ~40 pilot entries. Note: the script may live in scripts/ (reusable tooling); the dataset + report go in out/. End with WORK_COMPLETE and the deliverable paths.",
+      "ctxRefs": ["out/r-1779838900/t2-plan.md", "scripts/seo/gen-hero-images.mjs", "src/content/articles", ".env"],
+      "deps": ["t2"],
+      "deliverable": "out/r-1779838900/t3-pipeline.md",
+      "attempts": 0
+    }
+  ]
+}
