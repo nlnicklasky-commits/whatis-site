@@ -5,7 +5,7 @@ description: "Wedding planning is the process of organizing a wedding ceremony a
 category: lifestyle
 tags: ["wedding planning", "event planning", "celebrations", "lifestyle", "organization", "budgeting"]
 heroImage: "/images/articles/wedding-planning-hero.webp"
-heroAlt: "Wedding planning is the process of organizing a wedding ceremony and reception"
+heroAlt: "The woman is standing at a table, looking at a book or document, and appears to be focused on reading or writing something"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

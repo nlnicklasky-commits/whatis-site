@@ -5,7 +5,7 @@ description: "Nursery management is the practice of growing and caring for plant
 category: everyday-concepts
 tags: ["nursery management", "horticulture", "plant propagation", "gardening", "agriculture", "plant health"]
 heroImage: "/images/articles/nursery-management-hero.webp"
-heroAlt: "Nursery management is the practice of growing and caring for plants commercially for sale or transplanting"
+heroAlt: "A woman is crouching down and interacting with a group of young children sitting on the floor in a nursery setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

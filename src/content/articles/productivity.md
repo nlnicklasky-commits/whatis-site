@@ -5,7 +5,7 @@ description: "Productivity is the ratio of output to input — how much you prod
 category: everyday-concepts
 tags: ["productivity", "efficiency", "time management", "work ethic", "performance", "output"]
 heroImage: "/images/articles/productivity-hero.webp"
-heroAlt: "Productivity measures how efficiently you turn inputs into outputs"
+heroAlt: "A woman working on a laptop at a desk in an office setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

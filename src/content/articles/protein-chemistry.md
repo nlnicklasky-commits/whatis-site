@@ -5,7 +5,7 @@ description: "Protein chemistry studies how proteins are built, fold into shapes
 category: science
 tags: ["protein chemistry", "proteins", "amino acids", "protein folding", "enzymes", "biochemistry", "molecular biology"]
 heroImage: "/images/articles/protein-chemistry-hero.webp"
-heroAlt: "Protein chemistry studies how proteins are built, fold into shapes, and perform life's essential functions"
+heroAlt: "A woman in a lab coat is using a microscope to examine a sample"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

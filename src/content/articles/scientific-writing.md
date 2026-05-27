@@ -5,7 +5,7 @@ description: "Scientific writing communicates research findings with precision a
 category: science
 tags: ["scientific communication", "research writing", "academic writing", "technical writing", "research paper"]
 heroImage: "/images/articles/scientific-writing-hero.webp"
-heroAlt: "Scientific writing communicates research findings with precision and clarity"
+heroAlt: "A group of scientists in a laboratory setting, engaged in discussion and collaboration"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

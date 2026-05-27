@@ -5,7 +5,7 @@ description: "Cycling is riding a bicycle for transport, exercise, or sport. Lea
 category: sports
 tags: ["cycling", "bicycle", "biking", "exercise", "transportation", "sport"]
 heroImage: "/images/articles/cycling-hero.webp"
-heroAlt: "Cycling is riding a bicycle for transport, exercise, or sport"
+heroAlt: "A cyclist rides along a winding road at sunset, with the sun setting behind the mountains in the distance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "The Thirty Years' War (1618–1648) was the most destructive confl
 category: history
 tags: ["thirty years war", "european history", "peace of westphalia", "holy roman empire"]
 heroImage: "/images/articles/thirty-years-war-hero.webp"
-heroAlt: "The Thirty Years' War (1618-1648) devastated Central Europe and reshaped the political order"
+heroAlt: "A man with a beard and a cowboy hat standing in a rubble-filled area, with a large archway in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

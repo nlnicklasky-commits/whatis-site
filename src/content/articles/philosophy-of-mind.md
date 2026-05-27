@@ -5,7 +5,7 @@ description: "Philosophy of mind studies consciousness, mental states, and how t
 category: everyday-concepts
 tags: ["philosophy of mind", "consciousness", "dualism", "physicalism", "mental states", "brain"]
 heroImage: "/images/articles/philosophy-of-mind-hero.webp"
-heroAlt: "Philosophy of mind studies consciousness, mental states, and how the mind relates to the body"
+heroAlt: "A woman in a dark blazer is sitting at a desk, reading a book and looking down at her hands"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

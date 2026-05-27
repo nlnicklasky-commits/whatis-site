@@ -5,7 +5,7 @@ description: "Forensic science applies scientific methods to criminal and civil 
 category: science
 tags: ["crime", "investigation", "evidence", "laboratory", "dna", "fingerprints", "justice"]
 heroImage: "/images/articles/forensic-science-hero.webp"
-heroAlt: "Forensic science applies scientific methods to criminal and civil investigations"
+heroAlt: "A woman wearing a white lab coat and safety goggles, standing in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

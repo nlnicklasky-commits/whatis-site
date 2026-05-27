@@ -5,7 +5,7 @@ description: "Military history is the study of warfare — its causes, conduct, 
 category: history
 tags: ["history", "military history", "warfare"]
 heroImage: "/images/articles/military-history-hero.webp"
-heroAlt: "Military history studies warfare, strategy, and armed forces across time"
+heroAlt: "A man in military uniform and glasses is sitting by a campfire, reading a book or document"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Grammar is the system of rules governing how words combine into se
 category: everyday-concepts
 tags: ["grammar", "language", "linguistics", "writing", "syntax", "English"]
 heroImage: "/images/articles/grammar-hero.webp"
-heroAlt: "Grammar is the system of rules governing how words combine into sentences"
+heroAlt: "A man is sitting at a table, reading a book and writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

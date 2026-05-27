@@ -5,7 +5,7 @@ description: "Acoustics is the science of sound: how it's produced, transmitted,
 category: science
 tags: ["acoustics", "sound", "physics", "sound waves", "noise control", "architectural acoustics", "vibration"]
 heroImage: "/images/articles/acoustics-hero.webp"
-heroAlt: "Acoustics is the science of sound: how it's produced, transmitted, and received"
+heroAlt: "A sound mixing console with various knobs and buttons, creating a visually striking and detailed composition"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

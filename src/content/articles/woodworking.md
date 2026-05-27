@@ -5,7 +5,7 @@ description: "Woodworking is the craft of building objects from wood using hand 
 category: everyday-concepts
 tags: ["woodworking", "carpentry", "joinery", "hand tools", "furniture making", "crafts"]
 heroImage: "/images/articles/woodworking-hero.webp"
-heroAlt: "Woodworking is the craft of building objects from wood using hand and power tools"
+heroAlt: "A man working on a woodworking project in a workshop, surrounded by various tools and materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

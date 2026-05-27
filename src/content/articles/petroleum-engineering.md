@@ -5,7 +5,7 @@ description: "Petroleum engineering is the branch of engineering focused on the 
 category: technology
 tags: ["oil and gas", "petroleum", "engineering", "drilling", "reservoir", "energy", "hydrocarbons"]
 heroImage: "/images/articles/petroleum-engineering-hero.webp"
-heroAlt: "Petroleum engineering is the branch of engineering focused on the exploration, extraction"
+heroAlt: "A man wearing a hard hat and safety vest, working on a large pipe in an industrial setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

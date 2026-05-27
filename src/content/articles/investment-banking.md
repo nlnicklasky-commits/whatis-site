@@ -5,7 +5,7 @@ description: "Investment banking is a specialized segment of banking that helps 
 category: finance
 tags: ["investment banking", "finance", "m&a", "capital markets", "underwriting", "ipo", "financial advisory"]
 heroImage: "/images/articles/investment-banking-hero.webp"
-heroAlt: "Investment banking helps companies raise capital, execute mergers, and navigate financial markets"
+heroAlt: "A woman and a man engaged in a conversation, with the woman appearing to be in a professional setting, possibly an office or"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

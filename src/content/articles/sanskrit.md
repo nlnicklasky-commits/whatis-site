@@ -5,7 +5,7 @@ description: "Sanskrit is an ancient language of the Indian subcontinent, belong
 category: language
 tags: ["sanskrit", "classical language", "india", "hinduism", "buddhism", "linguistics"]
 heroImage: "/images/articles/sanskrit-hero.webp"
-heroAlt: "Sanskrit is an ancient language of the Indian subcontinent, belonging to the Indo-Aryan branch of the Indo-European language"
+heroAlt: "An elderly man with a long white beard and glasses is sitting in a cozy room, writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Functional programming (FP) is a programming model that constructs
 category: technology
 tags: ["programming", "software development", "computer science", "pure functions", "immutability", "declarative programming"]
 heroImage: "/images/articles/functional-programming-hero.webp"
-heroAlt: "Functional programming builds software using pure functions, immutability, and composition"
+heroAlt: "A man working on a laptop in front of two computer monitors displaying code"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

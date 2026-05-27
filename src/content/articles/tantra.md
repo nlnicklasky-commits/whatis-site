@@ -5,7 +5,7 @@ description: "Tantra is a spiritual tradition within Hinduism and Buddhism focus
 category: religion
 tags: ["tantra", "spirituality", "hinduism", "buddhism", "shakti", "mantra"]
 heroImage: "/images/articles/tantra-hero.webp"
-heroAlt: "Tantra is a spiritual tradition within Hinduism and Buddhism focused on ritual, meditation, and energy practices"
+heroAlt: "A woman in a yoga pose on a colorful rug in a dimly lit, ornate room with columns and plants"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

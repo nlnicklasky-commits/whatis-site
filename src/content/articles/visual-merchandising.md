@@ -5,7 +5,7 @@ description: "Visual merchandising is the practice of designing retail spaces an
 category: business
 tags: ["visual merchandising", "retail", "store design", "marketing"]
 heroImage: "/images/articles/visual-merchandising-hero.webp"
-heroAlt: "Visual merchandising is the practice of designing retail spaces and displays to attract customers and drive sales"
+heroAlt: "A storefront window display featuring mannequins dressed in clothing and accessories, with various items such as handbags"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

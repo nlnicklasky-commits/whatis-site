@@ -5,7 +5,7 @@ description: "Industrial psychology — more formally called industrial-organiza
 category: science
 tags: ["industrial psychology", "organizational psychology", "i-o psychology", "human resources", "workplace", "employee well-being", "performance management"]
 heroImage: "/images/articles/industrial-psychology-hero.webp"
-heroAlt: "Industrial psychology applies psychological science to workplaces"
+heroAlt: "A man in a suit and glasses is sitting at a desk in an office, looking focused and engaged with his work"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

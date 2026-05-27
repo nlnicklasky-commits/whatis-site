@@ -5,7 +5,7 @@ description: "Stained glass is the art of creating decorative windows from color
 category: everyday-concepts
 tags: ["stained glass", "art", "glasswork", "cathedrals", "crafts", "architecture"]
 heroImage: "/images/articles/stained-glass-hero.webp"
-heroAlt: "Stained glass is the art of creating decorative windows from colored glass pieces joined with lead"
+heroAlt: "Stained glass windows in a cathedral, with sunlight streaming through and casting colorful patterns on the walls and floor"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

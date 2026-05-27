@@ -5,7 +5,7 @@ description: "Humanism is a philosophical and ethical stance that emphasizes the
 category: philosophy
 tags: ["humanism", "philosophy", "ethics", "secularism", "rationalism", "human flourishing", "critical thinking"]
 heroImage: "/images/articles/humanism-hero.webp"
-heroAlt: "Humanism is a philosophy centered on human dignity, reason, and ethics without supernatural belief"
+heroAlt: "A group of people sitting around a table, engaged in reading and discussing books"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

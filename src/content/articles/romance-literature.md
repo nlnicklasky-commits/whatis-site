@@ -5,7 +5,7 @@ description: "Romance literature is fiction built around a central love story, w
 category: everyday-concepts
 tags: ["medieval romance", "chivalry", "courtly love", "love stories", "fiction", "novel"]
 heroImage: "/images/articles/romance-literature-hero.webp"
-heroAlt: "Romance literature is fiction centered on love and emotional relationships"
+heroAlt: "A man and a woman are sitting on a couch, reading a book together"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "The ukulele is a small, four-stringed instrument that originated i
 category: arts-amp-culture
 tags: ["ukelele", "ukulele", "string instruments", "Hawaii", "music", "acoustic"]
 heroImage: "/images/articles/ukelele-hero.webp"
-heroAlt: "The ukulele is a small, four-stringed instrument from Hawaii"
+heroAlt: "The ukulele is a small, four-stringed instrument with a distinctive round hole in the center"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

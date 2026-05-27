@@ -5,7 +5,7 @@ description: "Shakespearean literature includes the plays and poems of William S
 category: everyday-concepts
 tags: ["shakespeare", "english literature", "plays", "poetry", "drama", "renaissance"]
 heroImage: "/images/articles/shakespearean-literature-hero.webp"
-heroAlt: "Shakespearean literature includes the plays and poems of William Shakespeare"
+heroAlt: "A bearded man sitting at a desk, reading a book. In the background, there is a bust of William Shakespeare"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

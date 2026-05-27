@@ -5,7 +5,7 @@ description: "Pageantry is the spectacle of elaborate ceremonies, parades, and c
 category: arts-amp-culture
 tags: ["pageantry", "beauty pageants", "spectacle", "performance", "competition", "ceremony"]
 heroImage: "/images/articles/pageantry-hero.webp"
-heroAlt: "Pageantry is the spectacle of elaborate ceremonies, parades, and competitions with colorful displays"
+heroAlt: "A group of uniformed individuals, including a woman in a military uniform, standing together in a parade-like setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

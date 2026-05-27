@@ -5,7 +5,7 @@ description: "Orchestration is the art of assigning musical parts to different i
 category: arts-amp-culture
 tags: ["orchestration", "music", "classical music", "instrumentation", "score", "timbre"]
 heroImage: "/images/articles/orchestration-hero.webp"
-heroAlt: "Orchestration is the art of assigning musical parts to different instruments in an ensemble or orchestra"
+heroAlt: "The conductor is standing in front of an orchestra, directing the musicians with his hands raised"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

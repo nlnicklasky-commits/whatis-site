@@ -5,7 +5,7 @@ description: "The history of warfare is the record of organized violence between
 category: history
 tags: ["history of warfare", "military history", "war", "strategy", "weapons"]
 heroImage: "/images/articles/the-history-of-warfare-hero.webp"
-heroAlt: "The history of warfare traces how armed conflict evolved from ancient battles to modern hybrid warfare over 5,000 years"
+heroAlt: "A man wearing a helmet and armor, standing in a field with a group of people in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

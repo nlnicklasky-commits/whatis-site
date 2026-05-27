@@ -5,7 +5,7 @@ description: "Landscape architecture is the design of outdoor spaces including p
 category: everyday-concepts
 tags: ["landscape architecture", "urban design", "parks", "environmental design", "outdoor spaces"]
 heroImage: "/images/articles/landscape-architecture-hero.webp"
-heroAlt: "Landscape architecture is the design of outdoor spaces including parks, gardens, and urban areas"
+heroAlt: "A man tending to a garden with his hands, surrounded by lush greenery and flowers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

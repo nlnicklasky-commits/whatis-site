@@ -5,7 +5,7 @@ description: "Tropical agriculture is the science of farming in tropical climate
 category: science
 tags: ["tropical agriculture", "agriculture", "farming"]
 heroImage: "/images/articles/tropical-agriculture-hero.webp"
-heroAlt: "Tropical agriculture is the science of farming in tropical climates, covering crops like rice, cocoa, and coffee"
+heroAlt: "A man in a hat crouches in a muddy field, tending to the plants"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

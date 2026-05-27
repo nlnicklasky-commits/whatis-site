@@ -5,7 +5,7 @@ description: "A design pattern is a reusable, generalized solution to a commonly
 category: technology
 tags: ["design patterns", "software engineering", "programming", "object-oriented", "architecture", "code reuse", "best practices"]
 heroImage: "/images/articles/design-patterns-hero.webp"
-heroAlt: "Design patterns are reusable solutions to common software problems"
+heroAlt: "A person typing on a computer keyboard in a dimly lit room with colorful bokeh lights in the background"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

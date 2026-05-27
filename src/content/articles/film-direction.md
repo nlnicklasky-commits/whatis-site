@@ -5,7 +5,7 @@ description: "Film direction is the process of translating a screenplay into a f
 category: everyday-concepts
 tags: ["film direction", "filmmaking", "cinema", "directing", "movies", "storytelling"]
 heroImage: "/images/articles/film-direction-hero.webp"
-heroAlt: "Film direction is the art of guiding a movie's creative vision, from script to screen"
+heroAlt: "The man is holding a clipboard and gesturing with his hand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

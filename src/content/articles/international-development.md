@@ -5,7 +5,7 @@ description: "International development works to reduce poverty and improve livi
 category: everyday-concepts
 tags: ["international development", "poverty reduction", "global health", "sustainable development", "ngos", "humanitarian aid"]
 heroImage: "/images/articles/international-development-hero.webp"
-heroAlt: "International development works to reduce poverty and improve living standards in lower-income countries"
+heroAlt: "A group of people, including a man and two young girls, are standing together and looking at a tablet device"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

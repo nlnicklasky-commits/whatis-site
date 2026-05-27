@@ -5,7 +5,7 @@ description: "Turkish history covers the story of the land we now call Turkey â€
 category: history
 tags: ["turkish history", "turkey", "ottoman empire", "ataturk", "anatolia"]
 heroImage: "/images/articles/turkish-history-hero.webp"
-heroAlt: "Turkish history covers the story of the land we now call Turkey"
+heroAlt: "The man is examining a large stone slab in an outdoor courtyard with ornate architectural features in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

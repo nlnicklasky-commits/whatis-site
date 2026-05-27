@@ -5,7 +5,7 @@ description: "Cocktail making is the practice of combining spirits, mixers, and 
 category: everyday-concepts
 tags: ["cocktail making", "mixology", "cocktails", "drinks", "bartending", "culinary arts"]
 heroImage: "/images/articles/cocktail-making-hero.webp"
-heroAlt: "Cocktail making is the art and science of mixing drinks"
+heroAlt: "The bartender is pouring a drink into a glass"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

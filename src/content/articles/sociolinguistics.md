@@ -5,7 +5,7 @@ description: "Sociolinguistics studies how language varies with social factors l
 category: language
 tags: ["sociolinguistics", "language", "dialects", "social class", "linguistics", "identity"]
 heroImage: "/images/articles/sociolinguistics-hero.webp"
-heroAlt: "Sociolinguistics studies how language varies with social factors like class, gender, ethnicity, and region"
+heroAlt: "A group of people engaged in conversation on a busy street"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

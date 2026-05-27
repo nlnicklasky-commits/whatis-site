@@ -5,7 +5,7 @@ description: "Creole languages are fully developed languages that emerged from c
 category: everyday-concepts
 tags: ["creole languages", "everyday-concepts"]
 heroImage: "/images/articles/creole-languages-hero.webp"
-heroAlt: "Creole languages are fully developed languages that emerged from contact between different linguistic groups"
+heroAlt: "A woman sitting at a table, looking at her phone"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

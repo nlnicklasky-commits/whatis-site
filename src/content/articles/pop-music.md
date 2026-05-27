@@ -5,7 +5,7 @@ description: "Pop music is a genre of popular music characterized by catchy melo
 category: arts-amp-culture
 tags: ["pop music", "popular music", "music genre", "catchy songs", "commercial music", "radio hits"]
 heroImage: "/images/articles/pop-music-hero.webp"
-heroAlt: "Pop music is a genre built on catchy melodies, simple structures, and mass appeal"
+heroAlt: "A man with curly hair and a beard is playing an acoustic guitar and singing into a microphone on stage"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

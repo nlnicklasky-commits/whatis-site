@@ -5,7 +5,7 @@ description: "A press release is a written statement sent to media outlets annou
 category: everyday-concepts
 tags: ["press release", "public relations", "pr", "media relations", "journalism", "corporate communication"]
 heroImage: "/images/articles/press-release-writing-hero.webp"
-heroAlt: "Press release writing is the craft of creating news announcements for media outlets"
+heroAlt: "A woman in a business suit is sitting at a desk, writing on a piece of paper while looking at a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

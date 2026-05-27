@@ -5,7 +5,7 @@ description: "Photographic history traces the evolution of photography from earl
 category: arts-amp-culture
 tags: ["photography", "history", "art", "camera", "image", "visual arts"]
 heroImage: "/images/articles/photographic-history-hero.webp"
-heroAlt: "Photographic history traces the evolution of photography from early experiments to digital imaging"
+heroAlt: "A person's hands holding an old photograph, with a blurred background suggesting an indoor setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

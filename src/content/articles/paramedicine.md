@@ -5,7 +5,7 @@ description: "Paramedicine is the healthcare discipline focused on providing eme
 category: health-amp-wellness
 tags: ["paramedicine", "paramedic", "ems", "emergency medicine"]
 heroImage: "/images/articles/paramedicine-hero.webp"
-heroAlt: "Paramedicine is the field of emergency pre-hospital medical care"
+heroAlt: "WHAT IS AMBULENCE"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

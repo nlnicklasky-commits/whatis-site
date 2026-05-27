@@ -5,7 +5,7 @@ description: "Aircraft mechanics is the field of maintaining, inspecting, repair
 category: technology
 tags: ["aircraft mechanics", "aviation", "amt", "a&p", "aviation maintenance", "aircraft repair", "faa"]
 heroImage: "/images/articles/aircraft-mechanics-hero.webp"
-heroAlt: "Aircraft mechanics is the field of maintaining, inspecting, repairing"
+heroAlt: "A man in a blue cap and jacket is examining a large metal object, likely an aircraft component, in a workshop setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

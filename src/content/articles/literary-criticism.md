@@ -5,7 +5,7 @@ description: "Literary criticism is the study, analysis, and evaluation of liter
 category: arts-amp-culture
 tags: ["literary criticism", "literature", "literary analysis", "criticism", "English", "humanities"]
 heroImage: "/images/articles/literary-criticism-hero.webp"
-heroAlt: "Literary criticism is the study, analysis, and evaluation of literature"
+heroAlt: "A woman in a dark suit is sitting at a desk, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

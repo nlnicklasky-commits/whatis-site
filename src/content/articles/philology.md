@@ -5,7 +5,7 @@ description: "Philology is the study of language through historical texts and li
 category: history
 tags: ["language", "linguistics", "history", "literature"]
 heroImage: "/images/articles/philology-hero.webp"
-heroAlt: "Philology is the study of language through historical texts and literary sources"
+heroAlt: "An elderly man with a long white beard sitting at a desk, writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

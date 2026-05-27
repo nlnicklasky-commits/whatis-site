@@ -5,7 +5,7 @@ description: "Video editing is the process of selecting, arranging, and modifyin
 category: arts-amp-culture
 tags: ["video editing", "filmmaking", "post-production", "editing software", "content creation", "media"]
 heroImage: "/images/articles/video-editing-hero.webp"
-heroAlt: "Video editing is the process of selecting, arranging, and modifying recorded footage into a finished production"
+heroAlt: "The man is wearing headphones and working on a computer with multiple video editing software open on the screen"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

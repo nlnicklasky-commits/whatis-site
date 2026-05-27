@@ -5,7 +5,7 @@ description: "Slate roofing is the use of natural stone tiles — split from met
 category: technology
 tags: ["slate roofing", "roofing", "construction", "building materials", "natural stone", "architecture", "durability"]
 heroImage: "/images/articles/slate-roofing-hero.webp"
-heroAlt: "Slate roofing is the use of natural stone tiles — split from metamorphic rock called slate"
+heroAlt: "A house with a slate roof and a chimney"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

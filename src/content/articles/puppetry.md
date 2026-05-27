@@ -5,7 +5,7 @@ description: "Puppetry is the art of animating inanimate objects — figures, sh
 category: arts-amp-culture
 tags: ["puppetry", "puppets", "puppeteer", "marionette", "hand puppet", "shadow puppetry"]
 heroImage: "/images/articles/puppetry-hero.webp"
-heroAlt: "Puppetry is the art of bringing inanimate figures to life through manipulation and performance"
+heroAlt: "The elderly man with a long white beard and mustache is gesturing towards a wooden puppet figure in a dimly lit room"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

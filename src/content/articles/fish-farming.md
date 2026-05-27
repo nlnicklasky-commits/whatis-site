@@ -5,7 +5,7 @@ description: "Fish farming, formally called aquaculture, is the practice of bree
 category: science
 tags: ["aquaculture", "fisheries", "food production", "sustainability", "seafood", "mariculture"]
 heroImage: "/images/articles/fish-farming-hero.webp"
-heroAlt: "Fish farming raises fish in controlled environments for food"
+heroAlt: "A man crouching down and holding a net full of fish"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

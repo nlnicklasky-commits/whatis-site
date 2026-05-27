@@ -5,7 +5,7 @@ description: "Beer brewing is the process of converting grain starches — usual
 category: everyday-concepts
 tags: ["beer brewing", "brewing", "beer", "hops", "malt", "yeast"]
 heroImage: "/images/articles/beer-brewing-hero.webp"
-heroAlt: "Beer brewing is the process of converting grain starches — usually from malted barley"
+heroAlt: "An elderly man with dreadlocks and a long beard, standing in a field with a cloudy sky in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Media history is the study of how communication technologies and i
 category: history
 tags: ["media", "journalism", "broadcasting"]
 heroImage: "/images/articles/media-history-hero.webp"
-heroAlt: "Media history is the study of how communication technologies and institutions have developed over time"
+heroAlt: "A man in a suit and glasses is sitting at a desk, typing on a typewriter"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Coastal geography studies the landforms, processes, and ecosystems
 category: science
 tags: ["coastal geography", "geography", "coastlines", "oceans", "erosion", "landforms", "environmental science"]
 heroImage: "/images/articles/coastal-geography-hero.webp"
-heroAlt: "Coastal geography studies the landforms, processes, and ecosystems where land meets sea"
+heroAlt: "A woman in a tan jacket and backpack stands on a rocky beach, holding a notebook and looking out at the ocean"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

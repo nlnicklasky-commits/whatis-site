@@ -5,7 +5,7 @@ description: "Observational astronomy studies celestial objects by collecting li
 category: science
 tags: ["observational astronomy", "astronomy", "telescopes", "astrophysics", "space science", "cosmology", "celestial objects"]
 heroImage: "/images/articles/observational-astronomy-hero.webp"
-heroAlt: "Observational astronomy studies celestial objects by collecting light and other radiation"
+heroAlt: "A bearded man in a dark room, looking at a computer screen with a starry night sky visible through a circular window in"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

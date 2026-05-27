@@ -5,7 +5,7 @@ description: "Physical education teaches movement skills, fitness, and healthy h
 category: sports
 tags: ["education", "fitness", "health", "sports", "movement", "wellness"]
 heroImage: "/images/articles/physical-education-hero.webp"
-heroAlt: "Physical education teaches movement skills, fitness, and healthy habits through structured activity in schools"
+heroAlt: "A group of young men in a gymnasium, with one man in a blue tank top standing in the foreground"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Fishing is the activity of catching fish and other aquatic organis
 category: sports
 tags: ["angling", "seafood", "fisheries", "recreation", "commercial fishing", "sustainability"]
 heroImage: "/images/articles/fishing-hero.webp"
-heroAlt: "Fishing is the practice of catching fish for food, sport, or livelihood"
+heroAlt: "A man fishing on the shore of a lake at sunset"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

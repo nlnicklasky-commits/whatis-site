@@ -5,7 +5,7 @@ description: "Environmental science studies how natural and human systems intera
 category: science
 tags: ["environmental science", "environment", "ecology", "sustainability", "pollution", "climate change", "conservation"]
 heroImage: "/images/articles/environmental-science-hero.webp"
-heroAlt: "Environmental science studies how natural and human systems interact"
+heroAlt: "A woman in a hat and jacket is reading a book while sitting by a stream in a forest"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Oleochemistry converts plant oils and animal fats into industrial 
 category: science
 tags: ["oleochemistry", "fats", "oils", "lipids", "fatty acids", "glycerol", "green chemistry"]
 heroImage: "/images/articles/oleochemistry-hero.webp"
-heroAlt: "Oleochemistry converts plant oils and animal fats into industrial products"
+heroAlt: "A man in a lab coat and glasses, holding a pen and focused on a piece of paper or a test tube, suggesting he is conducting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

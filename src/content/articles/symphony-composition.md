@@ -5,7 +5,7 @@ description: "Symphony composition is the art of writing large-scale orchestral 
 category: everyday-concepts
 tags: ["symphony composition", "classical music", "orchestra", "music theory", "composers", "movements"]
 heroImage: "/images/articles/symphony-composition-hero.webp"
-heroAlt: "Symphony composition is the art of writing large-scale orchestral works in multiple movements"
+heroAlt: "A person's hands writing on a sheet of music, likely a score or composition, with a piano keyboard visible in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

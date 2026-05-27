@@ -5,7 +5,7 @@ description: "Computer hardware refers to the physical components of a computer 
 category: technology
 tags: ["computing", "hardware", "electronics", "computer components", "it", "cpu", "memory"]
 heroImage: "/images/articles/computer-hardware-hero.webp"
-heroAlt: "Computer hardware refers to the physical components of a computer system — the tangible parts you can touch"
+heroAlt: "A close-up view of a computer circuit board, focusing on a central processor chip"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

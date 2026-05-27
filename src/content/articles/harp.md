@@ -5,7 +5,7 @@ description: "The harp is one of the oldest string instruments, spanning culture
 category: arts-amp-culture
 tags: ["harp", "musical instrument", "string instrument", "music", "orchestral music", "folk music"]
 heroImage: "/images/articles/harp-hero.webp"
-heroAlt: "The harp is one of the oldest string instruments, spanning cultures from ancient Egypt to modern orchestras"
+heroAlt: "A close-up view of the strings and wooden body of a harp, with a blurred background that appears to be a room with a window"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

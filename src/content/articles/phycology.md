@@ -5,7 +5,7 @@ description: "Phycology is the scientific study of algae --- those green, red, b
 category: science
 tags: ["algae", "biology", "marine biology", "ecology", "photosynthesis", "biofuels", "aquatic ecosystems"]
 heroImage: "/images/articles/phycology-hero.webp"
-heroAlt: "Phycology is the scientific study of algae"
+heroAlt: "A bearded man in a white lab coat carefully examining a sample in a Petri dish"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Tragedy is a genre of drama depicting a protagonist's downfall thr
 category: arts-amp-culture
 tags: ["tragedy literature", "drama", "theater", "Greek tragedy", "Shakespeare", "literary genre"]
 heroImage: "/images/articles/tragedy-literature-hero.webp"
-heroAlt: "Tragedy is a genre of drama depicting a protagonist's downfall through fate, flaws, or circumstance"
+heroAlt: "A silhouetted figure stands in front of a large, glowing orange moon against a starry night sky"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

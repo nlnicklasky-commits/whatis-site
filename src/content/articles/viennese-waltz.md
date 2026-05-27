@@ -5,7 +5,7 @@ description: "The Viennese waltz is a fast, spinning ballroom dance performed in
 category: arts-amp-culture
 tags: ["viennese waltz", "ballroom dance", "dance", "waltz", "classical music", "performing arts"]
 heroImage: "/images/articles/viennese-waltz-hero.webp"
-heroAlt: "The Viennese waltz is a fast, elegant ballroom dance in 3/4 time"
+heroAlt: "A couple dancing in an ornate ballroom"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

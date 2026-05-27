@@ -5,7 +5,7 @@ description: "Seasonal cooking is the practice of building your meals around ing
 category: everyday-concepts
 tags: ["seasonal food", "local food", "cooking", "fresh ingredients", "sustainability", "culinary arts"]
 heroImage: "/images/articles/seasonal-cooking-hero.webp"
-heroAlt: "Seasonal cooking means preparing meals with ingredients at their peak harvest time"
+heroAlt: "A man in a kitchen preparing food, specifically chopping vegetables on a cutting board"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

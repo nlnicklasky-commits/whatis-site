@@ -5,7 +5,7 @@ description: "Senior care is the broad category of services, support systems, an
 category: health-amp-wellness
 tags: ["senior care", "elder care", "gerontology", "assisted living"]
 heroImage: "/images/articles/senior-care-hero.webp"
-heroAlt: "Senior care is the broad category of services, support systems"
+heroAlt: "A caregiver in blue scrubs is seen smiling and interacting with an elderly woman in a wheelchair"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

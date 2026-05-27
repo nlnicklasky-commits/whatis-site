@@ -5,7 +5,7 @@ description: "Budgeting is the process of creating a financial plan that estimat
 category: finance
 tags: ["budgeting", "personal finance", "financial planning", "expense tracking", "income management", "saving", "debt management"]
 heroImage: "/images/articles/budgeting-hero.webp"
-heroAlt: "Budgeting is the process of creating a plan for spending and saving money"
+heroAlt: "A woman in a navy blue blazer is sitting at a desk, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

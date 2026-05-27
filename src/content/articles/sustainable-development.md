@@ -5,7 +5,7 @@ description: "Sustainable development is development that meets the needs of the
 category: everyday-concepts
 tags: ["sustainable development", "sustainability", "environment", "economics", "United Nations", "climate"]
 heroImage: "/images/articles/sustainable-development-hero.webp"
-heroAlt: "Sustainable development meets present needs without compromising future generations"
+heroAlt: "A group of people examining solar panels in a garden setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

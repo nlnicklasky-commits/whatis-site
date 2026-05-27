@@ -5,7 +5,7 @@ description: "The history of mathematics is the story of how humans went from co
 category: history
 tags: ["history of mathematics", "mathematics", "geometry", "algebra", "calculus"]
 heroImage: "/images/articles/the-history-of-mathematics-hero.webp"
-heroAlt: "The history of mathematics is the story of how humans went from counting sheep to proving that some infinities are bigger"
+heroAlt: "A person's hands writing on a piece of paper, with a small metal object, possibly a candlestick, visible in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

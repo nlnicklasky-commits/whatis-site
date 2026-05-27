@@ -5,7 +5,7 @@ description: "Geomorphology studies how Earth's landforms are shaped by erosion,
 category: science
 tags: ["geomorphology", "landforms", "geology", "physical geography", "erosion", "weathering", "plate tectonics"]
 heroImage: "/images/articles/geomorphology-hero.webp"
-heroAlt: "Geomorphology studies how Earth's landforms are shaped by erosion, weathering, tectonics, and other forces"
+heroAlt: "A rocky cliff face with a small plant growing on it, set against a backdrop of mountains and a valley"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

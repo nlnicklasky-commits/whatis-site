@@ -5,7 +5,7 @@ description: "Professional wrestling is a form of live performance that combines
 category: arts-amp-culture
 tags: ["professional wrestling", "wwe", "wrestling", "sports entertainment", "lucha libre", "njpw"]
 heroImage: "/images/articles/professional-wrestling-hero.webp"
-heroAlt: "Professional wrestling combines athletic performance with scripted storytelling"
+heroAlt: "A man in a wrestling ring jumping in the air during a professional wrestling match"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

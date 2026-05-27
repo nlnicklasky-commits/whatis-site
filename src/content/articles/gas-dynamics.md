@@ -5,7 +5,7 @@ description: "Gas dynamics — also called compressible flow or compressible flu
 category: science
 tags: ["gas dynamics", "fluid dynamics", "aerodynamics", "supersonic flow", "shock waves", "aerospace engineering", "thermodynamics"]
 heroImage: "/images/articles/gas-dynamics-hero.webp"
-heroAlt: "Gas dynamics studies how gases behave when they move at high speeds"
+heroAlt: "A man in a lab coat is working on a piece of equipment in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Jurisprudence is the theoretical study of law—its nature, its pu
 category: philosophy
 tags: ["jurisprudence", "philosophy of law", "legal theory", "justice", "natural law", "legal positivism", "rights"]
 heroImage: "/images/articles/jurisprudence-hero.webp"
-heroAlt: "Jurisprudence is the philosophy of law, examining what law is, why it exists, and how it should work"
+heroAlt: "A man with a gray beard and mustache, wearing a dark blue suit, sitting at a desk in a library or office setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

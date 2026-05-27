@@ -5,7 +5,7 @@ description: "Eastern philosophy refers broadly to the philosophical traditions 
 category: everyday-concepts
 tags: ["eastern philosophy", "everyday-concepts"]
 heroImage: "/images/articles/eastern-philosophy-hero.webp"
-heroAlt: "Eastern philosophy encompasses the philosophical traditions of Asia, including Buddhism, Hinduism, Taoism, and Confucianism"
+heroAlt: "A man sitting at a desk, writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Strategy games are games where the player's decisions and planning
 category: technology
 tags: ["gaming", "strategy games", "game design", "real-time strategy", "turn-based", "artificial intelligence"]
 heroImage: "/images/articles/strategy-games-hero.webp"
-heroAlt: "Strategy games are games where the player's decisions and planning determine the outcome"
+heroAlt: "A man in a gray hoodie is sitting at a desk, intently focused on a laptop screen displaying a map"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

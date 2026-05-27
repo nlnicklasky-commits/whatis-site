@@ -5,7 +5,7 @@ description: "Critical thinking is the disciplined process of analyzing informat
 category: everyday-concepts
 tags: ["critical thinking", "logic", "reasoning", "problem solving", "decision making", "analysis"]
 heroImage: "/images/articles/critical-thinking-hero.webp"
-heroAlt: "Critical thinking is the disciplined process of analyzing information and reasoning clearly"
+heroAlt: "A young man with curly hair and a beard is sitting at a desk, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

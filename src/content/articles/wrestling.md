@@ -5,7 +5,7 @@ description: "Wrestling is a combat sport where two opponents grapple for contro
 category: sports
 tags: ["wrestling", "combat sports", "Olympic sports", "grappling", "martial arts", "athletics"]
 heroImage: "/images/articles/wrestling-hero.webp"
-heroAlt: "Wrestling is a combat sport where two opponents grapple for control using throws, pins, and holds"
+heroAlt: "A muscular man in a wrestling ring"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

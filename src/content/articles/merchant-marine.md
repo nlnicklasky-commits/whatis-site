@@ -5,7 +5,7 @@ description: "The merchant marine is a nation's commercial shipping fleet and th
 category: everyday-concepts
 tags: ["merchant marine", "shipping", "maritime", "cargo", "global trade", "seafaring"]
 heroImage: "/images/articles/merchant-marine-hero.webp"
-heroAlt: "The merchant marine is a nation's commercial shipping fleet and the civilians who operate it"
+heroAlt: "A man wearing a hard hat and holding a clipboard, standing on a ship deck and looking out at the ocean"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

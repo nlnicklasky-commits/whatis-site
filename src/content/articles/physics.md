@@ -5,7 +5,7 @@ description: "Physics is the science of matter, energy, and the fundamental forc
 category: science
 tags: ["science", "universe", "matter", "energy", "forces", "quantum mechanics", "relativity"]
 heroImage: "/images/articles/physics-hero.webp"
-heroAlt: "Physics is the science of matter, energy, and the fundamental forces governing the universe"
+heroAlt: "A person's hands holding a pen, writing on a piece of paper or a digital device, with a background of colorful lights and"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

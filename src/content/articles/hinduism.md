@@ -5,7 +5,7 @@ description: "Hinduism is the world's oldest major religion, originating in Sout
 category: philosophy
 tags: ["hinduism", "religion", "india", "karma", "reincarnation", "dharma", "yoga"]
 heroImage: "/images/articles/hinduism-hero.webp"
-heroAlt: "Hinduism is the world's oldest major religion, originating in South Asia, centered on dharma, karma, reincarnation"
+heroAlt: "A woman dressed in traditional Indian attire, standing in an ornate, historic setting with columns and a temple-like"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

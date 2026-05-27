@@ -5,7 +5,7 @@ description: "Food preservation is any technique used to slow or stop the natura
 category: everyday-concepts
 tags: ["food science", "food safety", "preservation", "shelf life", "canning", "freezing"]
 heroImage: "/images/articles/food-preservation-hero.webp"
-heroAlt: "Food preservation extends the shelf life of food through techniques like canning, freezing, drying, and fermentation"
+heroAlt: "A person's hands holding sliced cucumbers and tomatoes, surrounded by various jars filled with pickled vegetables, carrots"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

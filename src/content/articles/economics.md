@@ -5,7 +5,7 @@ description: "Economics is the social science that studies how individuals, busi
 category: finance
 tags: ["economics", "scarcity", "microeconomics", "macroeconomics", "supply and demand", "opportunity cost", "economic policy"]
 heroImage: "/images/articles/economics-hero.webp"
-heroAlt: "Economics is the social science that studies how individuals, businesses, governments"
+heroAlt: "A man in a suit is sitting at a desk, working on a computer and writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

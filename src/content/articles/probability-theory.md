@@ -5,7 +5,7 @@ description: "Probability theory is the math of uncertainty. Learn how it quanti
 category: science
 tags: ["probability theory", "statistics", "randomness", "uncertainty", "mathematics", "chance", "events"]
 heroImage: "/images/articles/probability-theory-hero.webp"
-heroAlt: "Probability theory is the math of uncertainty"
+heroAlt: "A woman is sitting at a desk, reading a book and looking at a piece of paper with mathematical equations"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

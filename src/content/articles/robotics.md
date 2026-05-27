@@ -5,7 +5,7 @@ description: "Robotics is the field of designing, building, and programming mach
 category: technology
 tags: ["robotics", "automation", "artificial intelligence", "engineering", "sensors", "actuators", "programming"]
 heroImage: "/images/articles/robotics-hero.webp"
-heroAlt: "Robotics is the field of designing, building, and programming machines that can perform tasks autonomously"
+heroAlt: "A robot in a laboratory setting, with a man in a white lab coat examining something on a tablet"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Foraging is the practice of gathering wild food from natural envir
 category: everyday-concepts
 tags: ["wild food", "edible plants", "mushrooms", "nature", "sustainability", "self-sufficiency"]
 heroImage: "/images/articles/foraging-hero.webp"
-heroAlt: "Foraging is gathering wild food from natural environments"
+heroAlt: "A man in a green jacket and hat is carefully picking up mushrooms from the forest floor"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

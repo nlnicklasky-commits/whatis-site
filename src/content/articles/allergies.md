@@ -5,7 +5,7 @@ description: "Allergies are immune system overreactions to normally harmless sub
 category: health-amp-wellness
 tags: ["allergies", "immune system", "allergen", "histamine", "immunology"]
 heroImage: "/images/articles/allergies-hero.webp"
-heroAlt: "Allergies are immune system overreactions to normally harmless substances like pollen, food, or pet dander"
+heroAlt: "A collection of small white and orange flowers scattered across a dark blue background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

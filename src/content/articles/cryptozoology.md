@@ -5,7 +5,7 @@ description: "Cryptozoology studies animals whose existence is unproven, like Bi
 category: everyday-concepts
 tags: ["cryptozoology", "cryptids", "bigfoot", "loch ness monster", "yeti", "pseudoscience"]
 heroImage: "/images/articles/cryptozoology-hero.webp"
-heroAlt: "Cryptozoology studies animals whose existence is unproven, like Bigfoot and the Loch Ness Monster"
+heroAlt: "A person crouching down in a forest, examining something on the ground, with a notebook and pencil nearby"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

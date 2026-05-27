@@ -5,7 +5,7 @@ description: "Urban development is the process of building, expanding, and impro
 category: technology
 tags: ["urban development", "city planning", "infrastructure", "housing", "real estate"]
 heroImage: "/images/articles/urban-development-hero.webp"
-heroAlt: "Urban development is the process of building, expanding, and improving cities"
+heroAlt: "A construction worker wearing a hard hat and safety vest, standing on a construction site with a city skyline in"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

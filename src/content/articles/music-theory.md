@@ -5,7 +5,7 @@ description: "Music theory is the study of how music works — the rules, patter
 category: arts-amp-culture
 tags: ["music theory", "harmony", "melody", "rhythm", "scales", "music fundamentals"]
 heroImage: "/images/articles/music-theory-hero.webp"
-heroAlt: "Music theory is the study of how music works, covering melody, harmony, rhythm, and form"
+heroAlt: "A woman is sitting at a piano, reading sheet music"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

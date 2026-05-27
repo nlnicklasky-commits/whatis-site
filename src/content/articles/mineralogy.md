@@ -5,7 +5,7 @@ description: "Mineralogy is the branch of geology that studies minerals—natura
 category: science
 tags: ["mineralogy", "minerals", "geology", "crystals", "earth science", "geochemistry", "rocks"]
 heroImage: "/images/articles/mineralogy-hero.webp"
-heroAlt: "Mineralogy studies minerals, their structure, composition, properties, and formation"
+heroAlt: "A man wearing a hard hat and gloves, examining a collection of colorful minerals and crystals through a magnifying glass"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

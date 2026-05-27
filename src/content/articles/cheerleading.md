@@ -5,7 +5,7 @@ description: "Cheerleading is a physical activity that combines elements of danc
 category: sports
 tags: ["cheerleading", "sports", "gymnastics", "dance", "athletics", "competition"]
 heroImage: "/images/articles/cheerleading-hero.webp"
-heroAlt: "Cheerleading is a physical activity that combines elements of dance, gymnastics, acrobatic stunts, tumbling, and chanting"
+heroAlt: "Cheerleaders performing a stunt"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

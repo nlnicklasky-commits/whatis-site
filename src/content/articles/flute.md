@@ -5,7 +5,7 @@ description: "The flute is a woodwind instrument that produces sound when the pl
 category: arts-amp-culture
 tags: ["musical instrument", "woodwind", "orchestra", "music", "classical music", "jazz"]
 heroImage: "/images/articles/flute-hero.webp"
-heroAlt: "The flute is a woodwind instrument producing sound through airflow across an opening"
+heroAlt: "A person's hands playing a silver flute in a room with a wooden floor and a black stand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

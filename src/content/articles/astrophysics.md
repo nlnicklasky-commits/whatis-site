@@ -5,7 +5,7 @@ description: "Astrophysics applies physics to understand how stars, galaxies, an
 category: science
 tags: ["astrophysics", "astronomy", "physics", "cosmology", "space", "science", "black holes"]
 heroImage: "/images/articles/astrophysics-hero.webp"
-heroAlt: "Astrophysics applies physics to understand how stars, galaxies, and the universe work"
+heroAlt: "A woman in a dark suit is working at a computer in a futuristic, blue-lit room"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

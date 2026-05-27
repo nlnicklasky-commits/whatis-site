@@ -5,7 +5,7 @@ description: "Fabric arts — sometimes called textile arts — cover any creati
 category: arts-amp-culture
 tags: ["textile art", "fiber art", "crafts", "quilting", "embroidery", "weaving"]
 heroImage: "/images/articles/fabric-arts-hero.webp"
-heroAlt: "Fabric arts encompass textile-based creative practices like weaving, quilting, and embroidery"
+heroAlt: "A woman is working on a colorful woven textile in a room with natural light"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

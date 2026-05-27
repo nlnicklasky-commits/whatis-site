@@ -5,7 +5,7 @@ description: "Fantasy literature is fiction that uses magic, supernatural phenom
 category: arts-amp-culture
 tags: ["literature", "fiction", "magic", "imaginary worlds", "mythology", "speculative fiction"]
 heroImage: "/images/articles/fantasy-literature-hero.webp"
-heroAlt: "Fantasy literature features imaginary worlds, magic, and mythical creatures"
+heroAlt: "A woman is sitting in a cozy room, reading a book with a lit candle on a table in front of her"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Macrobiotics is a dietary and lifestyle system based on the idea t
 category: health-amp-wellness
 tags: ["nutrition", "macrobiotics", "wellness", "whole grains", "Eastern philosophy"]
 heroImage: "/images/articles/macrobiotics-hero.webp"
-heroAlt: "Macrobiotics is a dietary and lifestyle system based on the idea that food choices and daily habits should create balance"
+heroAlt: "A person preparing a salad in a kitchen, with various vegetables and ingredients visible on the countertop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

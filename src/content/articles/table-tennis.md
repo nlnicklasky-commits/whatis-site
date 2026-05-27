@@ -5,7 +5,7 @@ description: "Table tennis (ping-pong) is a fast-paced racket sport played on a 
 category: everyday-concepts
 tags: ["table tennis", "ping-pong", "racket sport", "Olympics", "sports", "recreation"]
 heroImage: "/images/articles/table-tennis-hero.webp"
-heroAlt: "Table tennis (ping-pong) is a fast-paced racket sport played on a table with a small ball"
+heroAlt: "A man playing table tennis, with a focused expression on his face as he prepares to hit the ball"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

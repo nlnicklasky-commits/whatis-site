@@ -5,7 +5,7 @@ description: "Ancient Roman history spans roughly 1,200 years — from Rome's le
 category: history
 tags: ["ancient rome", "roman history", "roman republic", "roman empire", "julius caesar"]
 heroImage: "/images/articles/ancient-roman-history-hero.webp"
-heroAlt: "Ancient Roman history spans roughly 1,200 years — from Rome's legendary founding in 753 BCE to the fall of the Western Roman"
+heroAlt: "An ornate vase or urn with intricate designs, placed on a stone pedestal or ledge. The setting appears to be an outdoor"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

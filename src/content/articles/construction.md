@@ -5,7 +5,7 @@ description: "Construction is the process of building structures and infrastruct
 category: everyday-concepts
 tags: ["engineering", "architecture", "building", "infrastructure", "project management", "trades"]
 heroImage: "/images/articles/construction-hero.webp"
-heroAlt: "Construction is the process of building structures and infrastructure"
+heroAlt: "A construction worker wearing a yellow hard hat and a face mask, holding a bundle of construction materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

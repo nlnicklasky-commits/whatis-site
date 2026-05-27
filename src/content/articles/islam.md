@@ -5,7 +5,7 @@ description: "Islam is a monotheistic religion founded in 7th-century Arabia, pr
 category: religion
 tags: ["islam", "religion", "monotheism", "Quran", "Muslim", "five pillars"]
 heroImage: "/images/articles/islam-hero.webp"
-heroAlt: "Islam is a monotheistic religion founded in 7th-century Arabia, practiced by nearly 2 billion people"
+heroAlt: "A person with a beard and a woman wearing a hijab, both with their hands clasped together in a praying position"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

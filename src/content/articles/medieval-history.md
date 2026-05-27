@@ -5,7 +5,7 @@ description: "Medieval history — the history of the Middle Ages — covers rou
 category: everyday-concepts
 tags: ["medieval history", "Middle Ages", "feudalism", "history", "European history", "crusades"]
 heroImage: "/images/articles/medieval-history-hero.webp"
-heroAlt: "Medieval history covers the period from roughly 500 to 1500 CE in Europe"
+heroAlt: "The bearded man wearing a red cape and ornate armor, sitting at a table with various objects in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

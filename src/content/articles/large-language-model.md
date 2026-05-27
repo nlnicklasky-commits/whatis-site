@@ -5,7 +5,7 @@ description: "A large language model (LLM) is a neural network trained on huge t
 category: technology
 tags: ["large language model", "llm", "ai", "machine learning", "deep learning", "transformer", "technology"]
 heroImage: "/images/articles/large-language-model-hero.webp"
-heroAlt: "A large language model is a neural network trained on massive text data to predict and generate human language"
+heroAlt: "Glowing lattice of connected nodes and light threads in blue and amber"
 author: "WhatIs Editorial"
 datePublished: "2026-05-13"
 dateModified: "2026-05-13"

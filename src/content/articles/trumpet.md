@@ -5,7 +5,7 @@ description: "The trumpet is a brass instrument — and arguably the flashiest o
 category: arts-amp-culture
 tags: ["trumpet", "brass instruments", "music", "jazz", "orchestra", "wind instruments"]
 heroImage: "/images/articles/trumpet-hero.webp"
-heroAlt: "The trumpet is a brass instrument played by buzzing into a mouthpiece"
+heroAlt: "A trumpet on a dark surface, with a pen lying next to it"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

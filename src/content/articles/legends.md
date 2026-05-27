@@ -5,7 +5,7 @@ description: "Legends are traditional stories rooted in history but shaped by im
 category: arts-amp-culture
 tags: ["legends", "folklore", "storytelling", "oral tradition", "mythology", "cultural heritage"]
 heroImage: "/images/articles/legends-hero.webp"
-heroAlt: "Legends are traditional stories rooted in history but shaped by imagination"
+heroAlt: "La Nati mar per anarcan d'sporrie per"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

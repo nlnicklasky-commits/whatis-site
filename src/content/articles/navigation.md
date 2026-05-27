@@ -5,7 +5,7 @@ description: "Navigation is the process of figuring out where you are, determini
 category: everyday-concepts
 tags: ["navigation", "gps", "mapping", "orienteering", "celestial navigation", "route planning"]
 heroImage: "/images/articles/navigation-hero.webp"
-heroAlt: "Navigation is the science and practice of determining position and plotting a course"
+heroAlt: "The man is sitting at a table, wearing headphones and writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

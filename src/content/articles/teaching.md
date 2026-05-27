@@ -5,7 +5,7 @@ description: "Teaching is the practice of facilitating learning by sharing knowl
 category: everyday-concepts
 tags: ["teaching", "education", "pedagogy", "learning", "instructor", "educator"]
 heroImage: "/images/articles/teaching-hero.webp"
-heroAlt: "Teaching is the practice of facilitating learning by sharing knowledge and skills"
+heroAlt: "A group of people, including two women and one man, are sitting around a table and smiling at each other"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

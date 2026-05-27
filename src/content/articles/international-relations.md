@@ -5,7 +5,7 @@ description: "International relations studies how countries interact through dip
 category: everyday-concepts
 tags: ["international relations", "global politics", "diplomacy", "foreign policy", "international law", "geopolitics"]
 heroImage: "/images/articles/international-relations-hero.webp"
-heroAlt: "International relations studies how countries interact through diplomacy, trade, conflict, and cooperation"
+heroAlt: "A group of business professionals sitting around a conference table, engaged in discussion"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

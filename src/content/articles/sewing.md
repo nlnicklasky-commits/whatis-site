@@ -5,7 +5,7 @@ description: "Sewing is the craft of joining pieces of fabric or other materials
 category: arts-amp-culture
 tags: ["sewing", "craft", "textile arts", "fabric", "needlework", "tailoring"]
 heroImage: "/images/articles/sewing-hero.webp"
-heroAlt: "Sewing joins fabric using needle and thread to create clothing, repairs, and crafts"
+heroAlt: "A woman is sewing a piece of denim in a sewing workshop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

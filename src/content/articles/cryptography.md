@@ -5,7 +5,7 @@ description: "Cryptography protects information through mathematical techniques 
 category: technology
 tags: ["cryptography", "encryption", "cybersecurity", "data security", "privacy", "algorithms", "information security"]
 heroImage: "/images/articles/cryptography-hero.webp"
-heroAlt: "Cryptography protects information through mathematical techniques that ensure privacy, integrity, and authenticity"
+heroAlt: "A man and a woman working together on a computer, with the woman typing on the keyboard and the man looking at the screen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

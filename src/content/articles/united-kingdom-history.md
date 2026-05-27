@@ -5,7 +5,7 @@ description: "United Kingdom history is the story of four nations — England, S
 category: history
 tags: ["united kingdom history", "uk", "british history", "england", "scotland"]
 heroImage: "/images/articles/united-kingdom-history-hero.webp"
-heroAlt: "United Kingdom history is the story of four nations — England, Scotland, Wales, and Northern Ireland"
+heroAlt: "A man sitting at a desk in a library, writing in a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Handwriting analysis examines writing to identify authorship or in
 category: everyday-concepts
 tags: ["handwriting analysis", "graphology", "pseudoscience", "personality", "forensic science", "writing"]
 heroImage: "/images/articles/handwriting-analysis-hero.webp"
-heroAlt: "Handwriting analysis examines writing to identify authorship or infer traits"
+heroAlt: "Handwritten note on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Spanish history is the story of the Iberian Peninsula's southweste
 category: history
 tags: ["spanish history", "spain", "european history", "reconquista"]
 heroImage: "/images/articles/spanish-history-hero.webp"
-heroAlt: "Spanish history covers millennia of invasions, empires, and cultural exchange"
+heroAlt: "A man with a long white beard wearing a red hat and a red and gold robe"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

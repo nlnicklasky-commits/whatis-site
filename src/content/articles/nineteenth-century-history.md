@@ -5,7 +5,7 @@ description: "The 19th century — 1801 to 1900 — was the era that built the m
 category: everyday-concepts
 tags: ["nineteenth century history", "industrial revolution", "colonialism", "nation-states", "modernization", "world history"]
 heroImage: "/images/articles/nineteenth-century-history-hero.webp"
-heroAlt: "The 19th century brought industrialization, revolutions, and the rise of nation-states"
+heroAlt: "A woman sitting at a table, writing on a piece of paper with a pen"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Nephrology is the medical specialty focused on kidney health and d
 category: health-amp-wellness
 tags: ["nephrology", "kidney disease", "dialysis", "internal medicine"]
 heroImage: "/images/articles/nephrology-hero.webp"
-heroAlt: "Nephrology is the medical specialty focused on kidney health and disease"
+heroAlt: "A doctor in a medical setting, wearing a mask and gloves, examining a sample in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

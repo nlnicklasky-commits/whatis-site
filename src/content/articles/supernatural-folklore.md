@@ -5,7 +5,7 @@ description: "Supernatural folklore includes myths, legends, and beliefs about g
 category: arts-amp-culture
 tags: ["supernatural folklore", "folklore", "mythology", "ghosts", "legends", "culture"]
 heroImage: "/images/articles/supernatural-folklore-hero.webp"
-heroAlt: "Supernatural folklore includes myths, legends, and beliefs about ghosts, spirits, and the unexplained"
+heroAlt: "An elderly man with a beard, wearing a brown jacket, standing in a foggy forest"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

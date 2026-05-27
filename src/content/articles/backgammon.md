@@ -5,7 +5,7 @@ description: "Backgammon is a two-player board game in which each player moves 1
 category: everyday-concepts
 tags: ["backgammon", "board games", "strategy games", "dice games", "classic games", "tabletop"]
 heroImage: "/images/articles/backgammon-hero.webp"
-heroAlt: "Backgammon is a two-player board game in which each player moves 15 checkers across 24 triangular points according to dice"
+heroAlt: "A game of Backgammon being played by two people, with the game board and pieces visible"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

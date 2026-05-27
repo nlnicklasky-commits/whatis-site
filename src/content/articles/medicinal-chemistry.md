@@ -5,7 +5,7 @@ description: "Medicinal chemistry is the science of designing, synthesizing, and
 category: science
 tags: ["medicinal chemistry", "drug design", "pharmacology", "chemistry", "pharmaceuticals", "molecular biology", "drug discovery"]
 heroImage: "/images/articles/medicinal-chemistry-hero.webp"
-heroAlt: "Medicinal chemistry designs and optimizes drug molecules for treating disease"
+heroAlt: "A man in a lab coat and safety goggles, holding a test tube and examining it"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

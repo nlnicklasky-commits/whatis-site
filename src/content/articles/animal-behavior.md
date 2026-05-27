@@ -12,7 +12,7 @@ tags:
   - instinct
   - animal science
 heroImage: /images/articles/animal-behavior-hero.webp
-heroAlt: "Animal behavior is the scientific study of how animals act, interact, and respond to their environment — covering instinct"
+heroAlt: "A tiger resting in the grass, its gaze directed off to the side"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

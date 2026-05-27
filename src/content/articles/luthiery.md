@@ -5,7 +5,7 @@ description: "Luthiery is the art and craft of building stringed musical instrum
 category: arts-amp-culture
 tags: ["luthiery", "instrument making", "guitars", "violins", "woodworking", "music"]
 heroImage: "/images/articles/luthiery-hero.webp"
-heroAlt: "Luthiery is the craft of building and repairing stringed instruments like guitars, violins, and cellos"
+heroAlt: "A man in a blue shirt and apron is working on a wooden guitar in a workshop filled with various tools and equipment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

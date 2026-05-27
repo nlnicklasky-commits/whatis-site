@@ -5,7 +5,7 @@ description: "Leadership is the ability to guide, influence, and inspire others 
 category: everyday-concepts
 tags: ["leadership", "management", "organizational behavior", "influence", "teamwork"]
 heroImage: "/images/articles/leadership-hero.webp"
-heroAlt: "Leadership is the ability to guide, influence, and inspire others toward shared goals"
+heroAlt: "A group of four people sitting around a table, engaged in a discussion or meeting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

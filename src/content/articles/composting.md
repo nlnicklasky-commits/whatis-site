@@ -5,7 +5,7 @@ description: "Composting is the natural decomposition of organic matter into nut
 category: everyday-concepts
 tags: ["composting", "recycling", "waste management", "organic waste", "soil", "gardening"]
 heroImage: "/images/articles/composting-hero.webp"
-heroAlt: "Composting is the natural decomposition of organic matter into nutrient-rich soil"
+heroAlt: "A person's hands using a gardening tool to work in the soil, surrounded by plants and a wooden structure in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

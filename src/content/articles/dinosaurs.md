@@ -5,7 +5,7 @@ description: "Dinosaurs are a group of reptiles that first appeared during the T
 category: science
 tags: ["dinosaurs", "paleontology", "fossils", "prehistoric", "evolution", "extinction", "mesozoic"]
 heroImage: "/images/articles/dinosaurs-hero.webp"
-heroAlt: "Dinosaurs were reptiles that dominated Earth for over 160 million years"
+heroAlt: "A person carefully excavating a dinosaur skeleton in a rocky, desert-like environment"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

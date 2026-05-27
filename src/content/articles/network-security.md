@@ -5,7 +5,7 @@ description: "Network security protects computer networks from unauthorized acce
 category: technology
 tags: ["network security", "cybersecurity", "information security", "firewall", "encryption", "data protection", "it security"]
 heroImage: "/images/articles/network-security-hero.webp"
-heroAlt: "Network security protects computer networks from unauthorized access, attacks, and data theft using firewalls, encryption"
+heroAlt: "A man sitting at a desk in an office, working on a computer with multiple monitors in front of him"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

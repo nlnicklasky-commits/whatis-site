@@ -5,7 +5,7 @@ description: "Spectroscopy is the study of how matter interacts with electromagn
 category: everyday-concepts
 tags: ["spectroscopy", "chemistry", "light", "electromagnetic spectrum", "analytical chemistry", "physics"]
 heroImage: "/images/articles/spectroscopy-hero.webp"
-heroAlt: "Spectroscopy studies how matter interacts with light to identify chemical compositions"
+heroAlt: "A man in a lab coat and safety goggles is using a microscope to examine a sample"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Ancient Egyptian history covers approximately 3,000 years of conti
 category: history
 tags: ["ancient egypt", "egyptian history", "pharaoh", "pyramids", "nile valley"]
 heroImage: "/images/articles/ancient-egyptian-history-hero.webp"
-heroAlt: "Ancient Egyptian history covers approximately 3,000 years of continuous civilization along the Nile River in northeastern"
+heroAlt: "An ancient Egyptian statue or sculpture, featuring the profile of a woman with elaborate headdress and makeup, likely"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "The Western film genre tells stories of the American frontier with
 category: arts-culture
 tags: ["western films", "movie genres", "film history", "cowboys", "American cinema", "Hollywood"]
 heroImage: "/images/articles/western-film-genre-hero.webp"
-heroAlt: "The Western film genre tells stories of the American frontier with cowboys, outlaws, and lawmen"
+heroAlt: "An older man wearing a cowboy hat and a brown scarf, standing in a desert-like setting with mountains in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

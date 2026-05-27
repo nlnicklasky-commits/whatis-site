@@ -5,7 +5,7 @@ description: "Comparative anatomy is the branch of biology that studies the simi
 category: science
 tags: ["comparative anatomy", "biology", "evolution", "anatomy", "zoology", "paleontology", "species"]
 heroImage: "/images/articles/comparative-anatomy-hero.webp"
-heroAlt: "Comparative anatomy is the branch of biology that studies the similarities and differences in the physical structures"
+heroAlt: "A human skull with visible muscles, displayed in a museum or exhibition setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

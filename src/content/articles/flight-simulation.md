@@ -5,7 +5,7 @@ description: "Flight simulation recreates the experience of flying aircraft usin
 category: technology
 tags: ["aviation", "simulation", "pilot training", "aerospace", "aircraft", "virtual reality", "flight"]
 heroImage: "/images/articles/flight-simulation-hero.webp"
-heroAlt: "Flight simulation recreates the experience of flying aircraft using software and hardware, serving pilot training"
+heroAlt: "The cockpit of an airplane, with a pilot seated at the controls"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

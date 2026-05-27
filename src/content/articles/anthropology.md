@@ -5,7 +5,7 @@ description: "Anthropology is the study of humans—past and present—across cu
 category: science
 tags: ["anthropology", "archaeology", "sociology", "humanity", "culture", "ethnography", "social science"]
 heroImage: "/images/articles/anthropology-hero.webp"
-heroAlt: "Anthropology is the study of humans—past and present—across cultures, biology, language, and societies"
+heroAlt: "A woman in a hat and jacket is sitting on a rock, looking down at it, with a group of people in the background"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Aromatherapy is a practice that uses concentrated plant extracts â
 category: health-amp-wellness
 tags: ["aromatherapy", "essential oils", "alternative medicine", "wellness", "relaxation"]
 heroImage: "/images/articles/aromatherapy-hero.webp"
-heroAlt: "Aromatherapy is a practice that uses concentrated plant extracts â€” called essential oils"
+heroAlt: "A person's hands holding a glass diffuser with a steaming liquid inside, surrounded by scattered lavender petals on a wooden"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

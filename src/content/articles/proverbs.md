@@ -5,7 +5,7 @@ description: "A proverb is a short, pithy statement that expresses a commonly he
 category: arts-amp-culture
 tags: ["proverbs", "sayings", "wisdom", "folklore", "culture", "oral tradition"]
 heroImage: "/images/articles/proverbs-hero.webp"
-heroAlt: "Proverbs are short, memorable sayings that express common truths or practical wisdom passed down through generations"
+heroAlt: "A woman in a dark blazer is sitting at a table and reading a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

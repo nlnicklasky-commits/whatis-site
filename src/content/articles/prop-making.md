@@ -5,7 +5,7 @@ description: "Prop making is the craft of creating physical objects used by perf
 category: arts-amp-culture
 tags: ["prop making", "props", "theater arts", "film production", "stagecraft", "set design"]
 heroImage: "/images/articles/prop-making-hero.webp"
-heroAlt: "Prop making is the craft of building objects used in theater, film, and TV productions"
+heroAlt: "A man working on a woodworking project in a workshop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

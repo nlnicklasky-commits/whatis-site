@@ -5,7 +5,7 @@ description: "Indian classical music is one of the world's oldest and most sophi
 category: arts-amp-culture
 tags: ["indian classical music", "raga", "tala", "hindustani music", "carnatic music", "indian music"]
 heroImage: "/images/articles/indian-classical-music-hero.webp"
-heroAlt: "Indian classical music is one of the world's oldest musical traditions, built on ragas and talas"
+heroAlt: "The man is playing a sitar, a traditional Indian stringed instrument"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

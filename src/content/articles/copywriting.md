@@ -5,7 +5,7 @@ description: "Copywriting is writing text that persuades people to take action. 
 category: everyday-concepts
 tags: ["marketing", "advertising", "writing", "sales", "content creation", "branding"]
 heroImage: "/images/articles/copywriting-hero.webp"
-heroAlt: "Copywriting is writing text that persuades people to take action"
+heroAlt: "A woman in a dark blazer is sitting at a desk, focused on writing on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

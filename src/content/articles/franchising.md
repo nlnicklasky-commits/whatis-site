@@ -5,7 +5,7 @@ description: "Franchising is a business model in which a company (the franchisor
 category: finance
 tags: ["business", "entrepreneurship", "business model", "licensing", "brand", "expansion", "investment"]
 heroImage: "/images/articles/franchising-hero.webp"
-heroAlt: "Franchising lets you run a business using an established brand's systems and name"
+heroAlt: "A man shaking hands with a woman in a restaurant"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Quantum biology explores how quantum mechanics shapes life itself,
 category: science
 tags: ["quantum biology", "quantum mechanics", "biology", "photosynthesis", "enzyme catalysis", "bird navigation"]
 heroImage: "/images/articles/quantum-biology-hero.webp"
-heroAlt: "Quantum biology explores how quantum mechanics shapes life itself"
+heroAlt: "The woman in a white lab coat is working on a computer, looking at a screen displaying a diagram of a molecular structure"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

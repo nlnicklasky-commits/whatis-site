@@ -5,7 +5,7 @@ description: "Caving — also called spelunking or potholing — is the recreati
 category: sports
 tags: ["caving", "spelunking", "caves", "outdoor recreation", "adventure", "geology"]
 heroImage: "/images/articles/caving-hero.webp"
-heroAlt: "Caving — also called spelunking or potholing — is the recreational exploration of natural underground cave systems"
+heroAlt: "A person in a yellow jacket and backpack exploring a cave with stalactites and stalagmites"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

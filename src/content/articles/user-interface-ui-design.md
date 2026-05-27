@@ -5,7 +5,7 @@ description: "UI design is the practice of creating the visual and interactive e
 category: everyday-concepts
 tags: ["user interface ui design", "UI", "design", "software", "apps", "visual design"]
 heroImage: "/images/articles/user-interface-ui-design-hero.webp"
-heroAlt: "UI design is the process of creating visual interfaces for software and apps"
+heroAlt: "A man sitting at a desk in an office, working on a computer with a large monitor in front of him"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

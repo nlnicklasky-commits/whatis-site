@@ -5,7 +5,7 @@ description: "Indonesian history spans ancient Hindu-Buddhist kingdoms, Islamic 
 category: history
 tags: ["indonesian history", "indonesia", "southeast asia", "dutch east indies", "colonialism"]
 heroImage: "/images/articles/indonesian-history-hero.webp"
-heroAlt: "Indonesian history spans ancient Hindu-Buddhist kingdoms, Islamic sultanates, Dutch colonialism, and independence"
+heroAlt: "A smiling woman wearing a floral print dress standing in front of a temple or pagoda"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

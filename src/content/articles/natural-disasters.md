@@ -5,7 +5,7 @@ description: "A natural disaster is a catastrophic event caused by natural proce
 category: everyday-concepts
 tags: ["natural disasters", "earthquakes", "hurricanes", "floods", "emergency preparedness", "geology"]
 heroImage: "/images/articles/natural-disasters-hero.webp"
-heroAlt: "Natural disasters are extreme geological or weather events that cause significant destruction"
+heroAlt: "A large explosion occurs in a city street, with water and debris flying in all directions"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

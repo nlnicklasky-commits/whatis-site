@@ -5,7 +5,7 @@ description: "Radio broadcasting is the transmission of audio content — music,
 category: arts-amp-culture
 tags: ["radio broadcasting", "media", "communication", "FM", "AM", "broadcasting"]
 heroImage: "/images/articles/radio-broadcasting-hero.webp"
-heroAlt: "Radio broadcasting transmits audio content wirelessly to listeners via electromagnetic waves"
+heroAlt: "A man and a woman sitting at a table in what appears to be a radio studio, with microphones and equipment in front of them"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

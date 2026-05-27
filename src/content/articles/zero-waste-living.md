@@ -5,7 +5,7 @@ description: "Zero-waste living aims to send nothing to landfills by reducing, r
 category: everyday-concepts
 tags: ["sustainability", "environmentalism", "eco-friendly", "waste reduction", "green living", "recycling"]
 heroImage: "/images/articles/zero-waste-living-hero.webp"
-heroAlt: "Zero-waste living aims to send nothing to landfills by reducing, reusing, and composting"
+heroAlt: "A woman holding a bag of fresh produce in a kitchen setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

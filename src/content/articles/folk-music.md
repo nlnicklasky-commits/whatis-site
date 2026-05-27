@@ -5,7 +5,7 @@ description: "Folk music is the traditional music of ordinary people — songs a
 category: arts-amp-culture
 tags: ["music", "traditional music", "culture", "oral tradition", "acoustic", "storytelling"]
 heroImage: "/images/articles/folk-music-hero.webp"
-heroAlt: "Folk music is traditional music passed down orally within communities"
+heroAlt: "A group of people playing guitars and singing outdoors in a scenic countryside setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

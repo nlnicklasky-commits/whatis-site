@@ -5,7 +5,7 @@ description: "Sports history is the study of how organized physical competition 
 category: history
 tags: ["sports history", "athletics", "olympics", "sports culture"]
 heroImage: "/images/articles/sports-history-hero.webp"
-heroAlt: "Sports history traces how athletic competition evolved from ancient rituals to a global industry"
+heroAlt: "A person is sitting at a table, working on a project involving sports equipment, such as a basketball and a football"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

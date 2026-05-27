@@ -5,7 +5,7 @@ description: "Comparative mythology is the study of myths from different culture
 category: arts-amp-culture
 tags: ["comparative mythology", "mythology", "folklore", "archetypes", "cultural studies", "religious studies"]
 heroImage: "/images/articles/comparative-mythology-hero.webp"
-heroAlt: "Comparative mythology studies shared themes and motifs across different cultures' myths"
+heroAlt: "An elderly man with a long white beard is sitting at a desk, intently reading a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Fairy tales are short stories featuring magical elements, moral le
 category: arts-amp-culture
 tags: ["folklore", "mythology", "children's literature", "storytelling", "fantasy", "traditional stories"]
 heroImage: "/images/articles/fairy-tales-hero.webp"
-heroAlt: "Fairy tales are short stories featuring magical elements, moral lessons, and archetypal characters"
+heroAlt: "A woman is sitting at a desk, writing in a notebook while a lamp illuminates the scene"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Psychoanalysis is a theory of the mind and a therapy method founde
 category: health-amp-wellness
 tags: ["psychoanalysis", "sigmund freud", "unconscious mind", "psychotherapy"]
 heroImage: "/images/articles/psychoanalysis-hero.webp"
-heroAlt: "Psychoanalysis is a theory of the mind and a therapy method founded by Sigmund Freud"
+heroAlt: "A man in a suit is sitting at a table and writing on a piece of paper, while a woman in a sweater is sitting across from him"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

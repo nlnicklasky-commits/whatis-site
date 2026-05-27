@@ -5,7 +5,7 @@ description: "Nursing is a healthcare profession focused on patient care, health
 category: health-amp-wellness
 tags: ["nursing", "healthcare", "patient care", "registered nurse"]
 heroImage: "/images/articles/nursing-hero.webp"
-heroAlt: "Nursing is a healthcare profession focused on patient care, health promotion, and illness prevention"
+heroAlt: "A smiling woman wearing a white coat and stethoscope, sitting at a desk in a medical setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

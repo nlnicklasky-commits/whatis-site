@@ -5,7 +5,7 @@ description: "Syriac is an ancient Aramaic dialect that shaped Middle Eastern Ch
 category: arts-amp-culture
 tags: ["syriac language", "Aramaic", "ancient languages", "Christianity", "Middle East", "linguistics"]
 heroImage: "/images/articles/syriac-language-hero.webp"
-heroAlt: "Syriac is an ancient Aramaic dialect that shaped Middle Eastern Christianity and scholarship"
+heroAlt: "An elderly man with a long white beard sitting at a desk, surrounded by books and papers, suggesting he is engaged"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

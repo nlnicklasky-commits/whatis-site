@@ -5,7 +5,7 @@ description: "Reptile keeping is the hobby of maintaining reptiles — lizards, 
 category: hobbies
 tags: ["reptile keeping", "pets", "herpetology", "terrariums", "bearded dragons", "snakes"]
 heroImage: "/images/articles/reptile-keeping-hero.webp"
-heroAlt: "Reptile keeping is the hobby of caring for reptiles as pets, from bearded dragons to ball pythons"
+heroAlt: "A green tree frog perched on a mossy branch in a lush, verdant environment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

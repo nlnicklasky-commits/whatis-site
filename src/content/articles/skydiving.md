@@ -5,7 +5,7 @@ description: "Skydiving is the sport of jumping from aircraft and freefalling be
 category: sports
 tags: ["skydiving", "parachuting", "freefall", "extreme sports", "adrenaline", "adventure"]
 heroImage: "/images/articles/skydiving-hero.webp"
-heroAlt: "Skydiving is the sport of jumping from aircraft and freefalling before deploying a parachute"
+heroAlt: "A person in a yellow jacket and safety gear is seen jumping out of an airplane and flying through the air, with their arms"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

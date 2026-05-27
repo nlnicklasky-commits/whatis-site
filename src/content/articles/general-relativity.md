@@ -5,7 +5,7 @@ description: "General relativity is Albert Einstein's theory of gravitation, pub
 category: science
 tags: ["general relativity", "gravity", "spacetime", "einstein", "physics", "astrophysics", "cosmology"]
 heroImage: "/images/articles/general-relativity-hero.webp"
-heroAlt: "General relativity is Albert Einstein's theory of gravitation, published in 1915"
+heroAlt: "A man with a beard wearing a white lab coat, standing in a laboratory setting with various scientific equipment"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

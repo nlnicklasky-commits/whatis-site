@@ -5,7 +5,7 @@ description: "International trade is the exchange of goods and services between 
 category: finance
 tags: ["international trade", "trade", "exports", "imports", "comparative advantage", "tariffs", "free trade"]
 heroImage: "/images/articles/international-trade-hero.webp"
-heroAlt: "International trade is the exchange of goods and services between countries"
+heroAlt: "A man in a blue jacket standing next to a cargo container, with a large cargo crane visible in the background"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

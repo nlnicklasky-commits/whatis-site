@@ -5,7 +5,7 @@ description: "Fluid dynamics is the branch of physics that studies how fluids â€
 category: science
 tags: ["physics", "engineering", "fluid mechanics", "aerodynamics", "hydrodynamics", "computational fluid dynamics"]
 heroImage: "/images/articles/fluid-dynamics-hero.webp"
-heroAlt: "Fluid dynamics studies how liquids and gases move, from airplane wings and ocean currents to blood flow and weather systems"
+heroAlt: "A man in a white lab coat sitting at a desk in a laboratory setting, looking intently at a computer screen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Mandarin Chinese is the most widely spoken language on Earth, with
 category: everyday-concepts
 tags: ["mandarin chinese", "language", "Chinese", "tonal language", "linguistics", "world languages"]
 heroImage: "/images/articles/mandarin-chinese-hero.webp"
-heroAlt: "Mandarin Chinese is the most spoken language in the world, with over 920 million native speakers"
+heroAlt: "A person writing on a tablet or smartphone"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

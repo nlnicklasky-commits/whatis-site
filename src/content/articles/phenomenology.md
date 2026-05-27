@@ -5,7 +5,7 @@ description: "Phenomenology is a philosophical movement that studies the structu
 category: everyday-concepts
 tags: ["phenomenology", "philosophy", "consciousness", "Husserl", "Heidegger", "existentialism"]
 heroImage: "/images/articles/phenomenology-hero.webp"
-heroAlt: "Phenomenology is a philosophy focused on the structures of conscious experience"
+heroAlt: "A woman in a gray blazer sitting at a desk, writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

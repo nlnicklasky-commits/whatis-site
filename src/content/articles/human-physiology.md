@@ -5,7 +5,7 @@ description: "Human physiology is the scientific study of how the human body fun
 category: science
 tags: ["human physiology", "physiology", "human body", "biology", "health science", "medicine", "homeostasis"]
 heroImage: "/images/articles/human-physiology-hero.webp"
-heroAlt: "Human physiology studies how your body's systems function"
+heroAlt: "A detailed 3D rendering of a human heart encased in a transparent bubble, surrounded by a glowing, fiery background"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

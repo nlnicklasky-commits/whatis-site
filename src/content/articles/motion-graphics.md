@@ -5,7 +5,7 @@ description: "Motion graphics is the art of bringing graphic design to life thro
 category: technology
 tags: ["motion graphics", "animation", "graphic design", "video production", "digital art", "explainer video"]
 heroImage: "/images/articles/motion-graphics-hero.webp"
-heroAlt: "Motion graphics combine animation and graphic design to create moving visuals for ads, films, apps, and explainer videos"
+heroAlt: "A person sitting at a desk, writing on a tablet or electronic device"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

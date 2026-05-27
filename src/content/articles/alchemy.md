@@ -5,7 +5,7 @@ description: "Alchemy was an ancient practice blending proto-chemistry, philosop
 category: history
 tags: ["alchemy", "history", "pseudoscience", "transmutation", "history of science"]
 heroImage: "/images/articles/alchemy-hero.webp"
-heroAlt: "Alchemy was an ancient practice blending proto-chemistry, philosophy"
+heroAlt: "A bowl of what appears to be a golden substance, possibly a type of grain or spice, surrounded by small grains or nuts on"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

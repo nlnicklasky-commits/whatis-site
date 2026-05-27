@@ -5,7 +5,7 @@ description: "Old Testament studies examines the Hebrew Bible's texts, history, 
 category: history
 tags: ["old testament", "hebrew bible", "biblical studies", "theology"]
 heroImage: "/images/articles/old-testament-studies-hero.webp"
-heroAlt: "Old Testament studies examines the Hebrew Bible's texts, history, and theology"
+heroAlt: "A woman in a dark blazer sits at a desk, focused on an open book in front of her"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

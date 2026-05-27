@@ -5,7 +5,7 @@ description: "Networking is the practice of connecting computers and other devic
 category: technology
 tags: ["networking", "computer networks", "internet", "protocols", "lan", "wan", "data communication"]
 heroImage: "/images/articles/networking-hero.webp"
-heroAlt: "Networking connects computers and devices to share data"
+heroAlt: "A group of people, including both men and women, are sitting around a table engaged in a discussion"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

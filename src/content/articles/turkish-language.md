@@ -5,7 +5,7 @@ description: "Turkish is the most widely spoken member of the Turkic language fa
 category: everyday-concepts
 tags: ["turkish language", "linguistics", "Turkic languages", "agglutinative", "vowel harmony", "language"]
 heroImage: "/images/articles/turkish-language-hero.webp"
-heroAlt: "Turkish is a Turkic language spoken by over 80 million people"
+heroAlt: "A person's hands typing on a laptop, with a notebook and pen nearby, suggesting they are working on a project or taking notes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

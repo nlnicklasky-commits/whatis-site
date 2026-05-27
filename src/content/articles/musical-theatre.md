@@ -5,7 +5,7 @@ description: "Musical theatre combines singing, dialogue, acting, and dance to t
 category: arts-amp-culture
 tags: ["musical theatre", "Broadway", "musicals", "performing arts", "theatre", "stage performance"]
 heroImage: "/images/articles/musical-theatre-hero.webp"
-heroAlt: "Musical theatre combines singing, dialogue, acting, and dance to tell stories on stage"
+heroAlt: "A woman in a red sequined dress performing on stage with her arms raised high"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

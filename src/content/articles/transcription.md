@@ -5,7 +5,7 @@ description: "Transcription is the process of converting spoken language into wr
 category: everyday-concepts
 tags: ["transcription", "writing", "audio", "documentation", "typing", "language"]
 heroImage: "/images/articles/transcription-hero.webp"
-heroAlt: "Transcription is the process of converting spoken language into written text"
+heroAlt: "A woman in a black blazer is sitting at a desk, typing on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

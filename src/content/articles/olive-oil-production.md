@@ -5,7 +5,7 @@ description: "Olive oil production is the process of extracting oil from the fru
 category: everyday-concepts
 tags: ["olive oil", "olive cultivation", "oil extraction", "mediterranean diet", "extra virgin olive oil", "agronomy"]
 heroImage: "/images/articles/olive-oil-production-hero.webp"
-heroAlt: "Olive oil production transforms olives into oil through harvesting, pressing, and refining"
+heroAlt: "A man holding a large pile of dark blue olives in his hands, with a background of trees and greenery"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

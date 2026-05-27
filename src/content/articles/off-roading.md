@@ -5,7 +5,7 @@ description: "Off-roading is the activity of driving motor vehicles on unpaved s
 category: everyday-concepts
 tags: ["off roading", "4x4", "adventure", "outdoor recreation", "vehicles", "trail driving"]
 heroImage: "/images/articles/off-roading-hero.webp"
-heroAlt: "Off-roading is driving vehicles on unpaved terrain like trails, sand, mud, and rocks"
+heroAlt: "A person riding an ATV through a muddy forest trail"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

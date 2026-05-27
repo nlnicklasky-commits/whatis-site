@@ -5,7 +5,7 @@ description: "Makeup artistry is the professional application of cosmetics to en
 category: everyday-concepts
 tags: ["makeup artistry", "cosmetics", "beauty", "special effects", "fashion", "film makeup"]
 heroImage: "/images/articles/makeup-artistry-hero.webp"
-heroAlt: "Makeup artistry is the professional application of cosmetics to enhance or transform appearance"
+heroAlt: "A woman applying makeup in front of a mirror, with a focus on her face and hands"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Gardening is the practice of growing and tending plants — flower
 category: everyday-concepts
 tags: ["gardening", "plants", "horticulture", "agriculture", "vegetables", "flowers"]
 heroImage: "/images/articles/gardening-hero.webp"
-heroAlt: "Gardening is the practice of growing plants for food, beauty, or enjoyment"
+heroAlt: "The person is planting a small green plant in the soil"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

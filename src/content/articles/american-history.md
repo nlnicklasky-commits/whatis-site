@@ -5,7 +5,7 @@ description: "American history is the study of the people, events, ideas, and fo
 category: history
 tags: ["american history", "us history", "united states", "american revolution"]
 heroImage: "/images/articles/american-history-hero.webp"
-heroAlt: "American history is the study of the people, events, ideas, and forces that shaped the United States"
+heroAlt: "A group of men dressed in period clothing walking through a field of tall grass, with a large building in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Grilling is cooking food over direct heat — typically from burni
 category: everyday-concepts
 tags: ["grilling", "barbecue", "cooking", "outdoor cooking", "food", "charcoal"]
 heroImage: "/images/articles/grilling-hero.webp"
-heroAlt: "Grilling cooks food over direct high heat from charcoal, gas, or wood"
+heroAlt: "A chef wearing a white uniform and hat, cooking food on a grill outdoors"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

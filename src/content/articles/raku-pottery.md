@@ -5,7 +5,7 @@ description: "Raku is a ceramic firing technique known for producing dramatic, u
 category: arts-amp-culture
 tags: ["raku pottery", "ceramics", "pottery", "firing techniques", "art", "Japanese craft"]
 heroImage: "/images/articles/raku-pottery-hero.webp"
-heroAlt: "Raku is a ceramic firing technique known for producing dramatic, unpredictable results — metallic lusters"
+heroAlt: "A collection of pottery items, including vases and a bowl, arranged on a wooden surface"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

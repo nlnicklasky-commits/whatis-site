@@ -5,7 +5,7 @@ description: "Viking history covers the Norse seafarers who raided, traded, and 
 category: history
 tags: ["viking history", "norse", "scandinavia", "medieval history"]
 heroImage: "/images/articles/viking-history-hero.webp"
-heroAlt: "Viking history covers the Norse seafarers who raided, traded, and settled across Europe from 793 to 1066 CE"
+heroAlt: "A sword with ornate handles and a blurred background of dirt and rocks"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

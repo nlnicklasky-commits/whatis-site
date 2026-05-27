@@ -5,7 +5,7 @@ description: "Spiritualism is the belief that the living can communicate with th
 category: philosophy
 tags: ["spiritualism", "philosophy", "religion", "mediumship", "paranormal", "history"]
 heroImage: "/images/articles/spiritualism-hero.webp"
-heroAlt: "Spiritualism is the belief that the living can communicate with the dead through mediums"
+heroAlt: "A woman sitting at a table with her hands on the table, looking at a lit candle in front of her"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Monarchy is a form of government in which a single person — a ki
 category: everyday-concepts
 tags: ["monarchy", "government", "royalty", "political systems", "constitutional monarchy", "history"]
 heroImage: "/images/articles/monarchy-hero.webp"
-heroAlt: "Monarchy is a form of government ruled by a king or queen"
+heroAlt: "A well-dressed man in a suit stands in a grand, ornate hallway with arched ceilings and stained glass windows"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

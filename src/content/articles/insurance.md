@@ -5,7 +5,7 @@ description: "Insurance is a financial contract between you and an insurance com
 category: finance
 tags: ["insurance", "risk management", "finance", "premiums", "claims", "policy", "financial protection"]
 heroImage: "/images/articles/insurance-hero.webp"
-heroAlt: "Insurance is a financial contract between you and an insurance company"
+heroAlt: "A person signing a document at a desk, with a futuristic security symbol hovering above the document"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

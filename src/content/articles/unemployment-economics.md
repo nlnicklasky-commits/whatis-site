@@ -5,7 +5,7 @@ description: "Unemployment economics is the study of why workers who want to be 
 category: finance
 tags: ["unemployment economics", "economics", "labor", "macroeconomics", "employment"]
 heroImage: "/images/articles/unemployment-economics-hero.webp"
-heroAlt: "Unemployment economics studies why people who want jobs can't find them"
+heroAlt: "A man in a suit sitting at a desk, looking intently at a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

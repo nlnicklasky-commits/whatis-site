@@ -5,7 +5,7 @@ description: "Dressage is an equestrian discipline where horse and rider perform
 category: everyday-concepts
 tags: ["dressage", "everyday-concepts"]
 heroImage: "/images/articles/dressage-hero.webp"
-heroAlt: "Dressage is an equestrian discipline where horse and rider perform precise movements in harmony"
+heroAlt: "A woman riding a brown horse in an arena, with the horse and rider in the foreground and a crowd of spectators in"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

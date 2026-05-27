@@ -5,7 +5,7 @@ description: "Ice skating is moving across ice on metal-bladed boots, using the 
 category: sports
 tags: ["ice skating", "skates", "figure skating", "speed skating", "ice hockey", "winter sports"]
 heroImage: "/images/articles/ice-skating-hero.webp"
-heroAlt: "Ice skating is gliding on ice using bladed boots"
+heroAlt: "A female ice skater in a blue dress performing a graceful spin on the ice rink"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

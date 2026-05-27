@@ -5,7 +5,7 @@ description: "Hair styling shapes and arranges hair using cutting, coloring, and
 category: everyday-concepts
 tags: ["hair styling", "haircut", "hairstyles", "beauty", "fashion", "grooming"]
 heroImage: "/images/articles/hair-styling-hero.webp"
-heroAlt: "Hair styling shapes and arranges hair using cutting, coloring, and heat tools"
+heroAlt: "A woman getting her hair styled by another woman in a hair salon"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

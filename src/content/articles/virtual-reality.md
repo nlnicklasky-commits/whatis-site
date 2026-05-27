@@ -5,7 +5,7 @@ description: "Virtual reality immerses users in computer-generated 3D environmen
 category: technology
 tags: ["virtual reality", "technology", "immersive", "computer graphics", "gaming"]
 heroImage: "/images/articles/virtual-reality-hero.webp"
-heroAlt: "Virtual reality immerses users in computer-generated 3D environments using headsets and sensors"
+heroAlt: "A woman wearing a virtual reality headset is sitting at a desk, holding a video game controller and looking at a computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Steel production is the process of converting iron ore into steel 
 category: technology
 tags: ["manufacturing", "steel production", "metallurgy", "iron", "engineering", "materials science"]
 heroImage: "/images/articles/steel-production-hero.webp"
-heroAlt: "Steel production is the process of converting iron ore into steel alloys"
+heroAlt: "The worker in the image is wearing a yellow safety vest and an orange hard hat, and is holding onto a beam in a factory"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

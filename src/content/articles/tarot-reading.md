@@ -5,7 +5,7 @@ description: "Tarot reading is the practice of using a deck of 78 illustrated ca
 category: arts-amp-culture
 tags: ["tarot", "tarot reading", "divination", "cartomancy", "major arcana", "minor arcana"]
 heroImage: "/images/articles/tarot-reading-hero.webp"
-heroAlt: "Tarot reading uses a deck of 78 cards to gain insight into questions and situations"
+heroAlt: "Two women sitting at a table, one of them appears to be reading tarot cards"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

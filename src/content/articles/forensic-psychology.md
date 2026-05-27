@@ -5,7 +5,7 @@ description: "Forensic psychology is the application of psychological science an
 category: science
 tags: ["psychology", "law", "justice system", "mental health", "criminal behavior", "expert testimony", "assessment"]
 heroImage: "/images/articles/forensic-psychology-hero.webp"
-heroAlt: "Forensic psychology is the application of psychological science and clinical practice to questions and issues relating"
+heroAlt: "A man and a woman sitting at a desk, focused on a laptop screen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

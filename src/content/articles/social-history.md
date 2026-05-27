@@ -5,7 +5,7 @@ description: "Social history is the study of how ordinary people lived in the pa
 category: history
 tags: ["social history", "history", "cultural history", "everyday life"]
 heroImage: "/images/articles/social-history-hero.webp"
-heroAlt: "Social history studies the everyday experiences of ordinary people throughout time"
+heroAlt: "A group of people, including two men and a woman, standing together and smiling. The woman is wearing a white blouse and"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

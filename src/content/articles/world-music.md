@@ -5,7 +5,7 @@ description: "World music is a broad category for traditional and contemporary m
 category: arts-culture
 tags: ["world music", "global music", "traditional music", "ethnomusicology", "folk music", "cultural music"]
 heroImage: "/images/articles/world-music-hero.webp"
-heroAlt: "World music is a broad category for traditional and contemporary music from non-Western cultures"
+heroAlt: "A man playing the drums in a room with other people in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

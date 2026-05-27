@@ -5,7 +5,7 @@ description: "Interior design is the art and science of creating interior spaces
 category: arts-amp-culture
 tags: ["interior design", "design", "home decor", "space planning", "commercial design", "aesthetics"]
 heroImage: "/images/articles/interior-design-hero.webp"
-heroAlt: "Interior design is planning and creating functional, beautiful indoor spaces"
+heroAlt: "A man in a navy blue blazer stands confidently at a wooden desk, surrounded by various office supplies and decor"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

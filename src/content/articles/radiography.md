@@ -5,7 +5,7 @@ description: "Radiography uses X-rays and other radiation to create images of th
 category: technology
 tags: ["radiography", "x-ray", "medical imaging", "radiology", "healthcare", "diagnostic imaging", "radiation"]
 heroImage: "/images/articles/radiography-hero.webp"
-heroAlt: "Radiography uses X-rays and other radiation to create images of the body's interior"
+heroAlt: "A radiographer, a medical professional, wearing a mask and glasses, standing in a medical setting with a patient visible"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

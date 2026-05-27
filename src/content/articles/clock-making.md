@@ -5,7 +5,7 @@ description: "Clock making (horology) is the craft and science of building timek
 category: technology
 tags: ["clock making", "horology", "clocks", "watches", "timekeeping", "mechanical engineering", "craft"]
 heroImage: "/images/articles/clock-making-hero.webp"
-heroAlt: "Clock making (horology) is the craft and science of building timekeeping devices"
+heroAlt: "A person's hands holding a pocket watch, surrounded by various watch parts and tools on a workbench"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

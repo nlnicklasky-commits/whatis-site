@@ -5,7 +5,7 @@ description: "Legal history is the scholarly study of how laws, legal systems, a
 category: history
 tags: ["law", "legal history", "jurisprudence", "courts", "civil rights"]
 heroImage: "/images/articles/legal-history-hero.webp"
-heroAlt: "Legal history studies how laws, legal institutions, and judicial thinking have evolved across societies and centuries"
+heroAlt: "A woman in a dark blazer is sitting at a desk, writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

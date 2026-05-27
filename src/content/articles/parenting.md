@@ -5,7 +5,7 @@ description: "Parenting is the process of raising children, shaping their develo
 category: everyday-concepts
 tags: ["parenting", "child development", "family", "child rearing", "nurturing", "discipline"]
 heroImage: "/images/articles/parenting-hero.webp"
-heroAlt: "Parenting is the process of raising children, shaping their development through care, guidance, and support"
+heroAlt: "A man and a woman are sitting at a table, smiling and looking at a notebook together"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

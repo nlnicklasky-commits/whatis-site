@@ -5,7 +5,7 @@ description: "Motorcycle racing is competitive motorsport on two-wheeled vehicle
 category: sports
 tags: ["motorcycle racing", "motorsport", "motogp", "motocross", "road racing", "bike racing"]
 heroImage: "/images/articles/motorcycle-racing-hero.webp"
-heroAlt: "Motorcycle racing is competitive motorsport on two wheels, from MotoGP to motocross"
+heroAlt: "A motorcycle rider wearing a black and yellow racing suit"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

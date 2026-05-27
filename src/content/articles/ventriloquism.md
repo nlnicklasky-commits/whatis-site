@@ -5,7 +5,7 @@ description: "Ventriloquism is the art of speaking so your voice appears to come
 category: everyday-concepts
 tags: ["ventriloquism", "performing arts", "puppetry", "comedy", "entertainment", "illusion"]
 heroImage: "/images/articles/ventriloquism-hero.webp"
-heroAlt: "Ventriloquism is the art of speaking so your voice appears to come from elsewhere"
+heroAlt: "A man in a suit sitting at a table, looking at a ventriloquist doll with exaggerated features, such as a large nose and"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

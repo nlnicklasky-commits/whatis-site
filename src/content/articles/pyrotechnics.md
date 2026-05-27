@@ -5,7 +5,7 @@ description: "Pyrotechnics is the science and technology of creating controlled 
 category: science
 tags: ["pyrotechnics", "fireworks", "chemistry", "combustion", "explosives", "special effects", "safety"]
 heroImage: "/images/articles/pyrotechnics-hero.webp"
-heroAlt: "Pyrotechnics is the science and technology of creating controlled chemical reactions that produce light, heat, sound, gas"
+heroAlt: "A man who is adjusting or inspecting a piece of equipment, possibly related to pyrotechnics, in a field during sunset"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Vegetarian cooking prepares meals without meat or fish. Learn abou
 category: food-amp-drink
 tags: ["vegetarian cooking", "plant-based", "meatless meals", "nutrition", "food", "recipes"]
 heroImage: "/images/articles/vegetarian-cooking-hero.webp"
-heroAlt: "Vegetarian cooking prepares meals without meat or fish"
+heroAlt: "A wooden cutting board with a bowl of fresh salad and a bunch of ripe tomatoes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

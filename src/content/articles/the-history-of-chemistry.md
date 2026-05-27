@@ -5,7 +5,7 @@ description: "The history of chemistry is the story of how humans went from myst
 category: history
 tags: ["history of chemistry", "chemistry", "alchemy", "atomic theory", "periodic table"]
 heroImage: "/images/articles/the-history-of-chemistry-hero.webp"
-heroAlt: "The history of chemistry stretches from ancient alchemy to modern atomic theory"
+heroAlt: "A man wearing a lab coat and safety goggles, leaning on a table in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

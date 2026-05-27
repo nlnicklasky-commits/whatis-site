@@ -5,7 +5,7 @@ description: "Exploration history traces humanity's drive to map the unknown, fr
 category: everyday-concepts
 tags: ["exploration history", "discovery", "navigation", "geography", "expeditions", "colonialism"]
 heroImage: "/images/articles/exploration-history-hero.webp"
-heroAlt: "Exploration history traces humanity's drive to map the unknown, from ancient seafarers to space missions"
+heroAlt: "A person standing on a hilltop, holding a camera and looking at a building in the distance, with a colorful sunset sky"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

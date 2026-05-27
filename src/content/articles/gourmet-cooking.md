@@ -5,7 +5,7 @@ description: "Gourmet cooking elevates food through premium ingredients, precise
 category: arts-amp-culture
 tags: ["gourmet cooking", "culinary arts", "fine dining", "food", "cooking", "chef"]
 heroImage: "/images/articles/gourmet-cooking-hero.webp"
-heroAlt: "Gourmet cooking elevates food through premium ingredients, precise techniques, and artful presentation"
+heroAlt: "A person's hands arranging colorful flower petals on a white surface, creating a visually appealing and vibrant display"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Prose is written or spoken language in its ordinary form — flowi
 category: arts-amp-culture
 tags: ["prose", "writing", "literature", "fiction", "non-fiction", "grammar"]
 heroImage: "/images/articles/prose-hero.webp"
-heroAlt: "Prose is ordinary written language that flows in sentences and paragraphs, without the line breaks of poetry"
+heroAlt: "A man with glasses and a beard is sitting at a desk, writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Haiku is a Japanese poetry form using 5-7-5 syllables to capture a
 category: arts-amp-culture
 tags: ["haiku", "poetry", "japanese poetry", "literature", "nature", "verse"]
 heroImage: "/images/articles/haiku-hero.webp"
-heroAlt: "Haiku is a Japanese poetry form using 5-7-5 syllables to capture a moment in nature"
+heroAlt: "A bowl filled with rocks sits on a wooden surface, with a sprig of grass or straw protruding from it"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

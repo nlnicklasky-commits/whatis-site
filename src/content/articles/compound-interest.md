@@ -5,7 +5,7 @@ description: "Compound interest is interest earned on both your original princip
 category: finance
 tags: ["compound interest", "finance", "investing", "savings", "money", "personal finance"]
 heroImage: "/images/articles/compound-interest-hero.webp"
-heroAlt: "Compound interest is interest earned on both the original principal and on the interest accumulated from previous periods"
+heroAlt: "Glass jar of mixed coins with a green seedling sprouting from the top"
 author: "WhatIs Editorial"
 datePublished: "2026-05-13"
 dateModified: "2026-05-13"

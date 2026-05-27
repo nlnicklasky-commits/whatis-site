@@ -5,7 +5,7 @@ description: "Polynesian culture is the shared cultural heritage of the indigeno
 category: arts-amp-culture
 tags: ["polynesia", "pacific islands", "indigenous culture", "oceania", "voyaging", "navigation"]
 heroImage: "/images/articles/polynesian-culture-hero.webp"
-heroAlt: "Polynesian culture is the shared cultural heritage of the indigenous peoples of Polynesia"
+heroAlt: "A family of three, consisting of an older woman, a man, and a young girl, sitting together in a natural setting with trees"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Indian history spans over 5,000 years from the Indus Valley civili
 category: everyday-concepts
 tags: ["indian history", "India", "ancient civilizations", "Mughal Empire", "British Raj"]
 heroImage: "/images/articles/indian-history-hero.webp"
-heroAlt: "Indian history spans over 5,000 years from the Indus Valley civilization to modern independence"
+heroAlt: "The hands of a person preparing food, with a plate of food and spices in the foreground"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

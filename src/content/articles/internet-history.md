@@ -5,7 +5,7 @@ description: "Internet history traces how a Cold War military network became the
 category: technology
 tags: ["internet history", "arpanet", "world wide web", "tcp/ip", "networking", "digital history", "communication"]
 heroImage: "/images/articles/internet-history-hero.webp"
-heroAlt: "Internet history traces how a Cold War military network became the global communication system connecting 5 billion people"
+heroAlt: "A person's hands typing on a keyboard in a dimly lit room with various electronic equipment and lights in the background"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

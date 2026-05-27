@@ -5,7 +5,7 @@ description: "Gothic architecture uses pointed arches, flying buttresses, and st
 category: arts-amp-culture
 tags: ["gothic architecture", "medieval", "cathedral", "pointed arch", "flying buttress", "stained glass"]
 heroImage: "/images/articles/gothic-architecture-hero.webp"
-heroAlt: "Gothic architecture uses pointed arches, flying buttresses, and stained glass to create soaring medieval structures"
+heroAlt: "The interior of a Gothic cathedral, featuring a large stained glass window and sunlight streaming through the arched windows"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

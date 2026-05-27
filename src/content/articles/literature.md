@@ -5,7 +5,7 @@ description: "Literature is written work that people value for its artistic qual
 category: arts-amp-culture
 tags: ["literature", "writing", "fiction", "poetry", "drama", "humanities"]
 heroImage: "/images/articles/literature-hero.webp"
-heroAlt: "Literature is written work valued for its artistic merit and lasting significance"
+heroAlt: "A bearded man is sitting at a desk, writing on a laptop and surrounded by books and plants, suggesting a studious"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

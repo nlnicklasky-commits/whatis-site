@@ -5,7 +5,7 @@ description: "Tribology is the science of friction, lubrication, and wear betwee
 category: science
 tags: ["tribology", "friction", "lubrication", "wear"]
 heroImage: "/images/articles/tribology-hero.webp"
-heroAlt: "Tribology is the science of friction, lubrication, and wear between surfaces in relative motion"
+heroAlt: "A close-up view of a mechanical part with a drop of oil or lubricant on it, indicating that the part is being serviced or"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Byzantine history covers the Eastern Roman Empire from 330 to 1453
 category: history
 tags: ["byzantine history", "eastern roman empire", "constantinople", "orthodox christianity"]
 heroImage: "/images/articles/byzantine-history-hero.webp"
-heroAlt: "Byzantine history covers the Eastern Roman Empire from 330 to 1453 CE"
+heroAlt: "A woman sitting at a desk in a library, surrounded by books and an icon of Jesus Christ"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

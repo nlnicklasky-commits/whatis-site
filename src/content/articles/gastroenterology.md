@@ -5,7 +5,7 @@ description: "Gastroenterology is the branch of medicine devoted to the digestiv
 category: health-amp-wellness
 tags: ["gastroenterology", "digestive system", "gastrointestinal", "medicine", "health"]
 heroImage: "/images/articles/gastroenterology-hero.webp"
-heroAlt: "Gastroenterology is the branch of medicine devoted to the digestive system and its disorders"
+heroAlt: "A bearded man wearing a white coat and glasses, intently examining a document or object with a magnifying glass"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

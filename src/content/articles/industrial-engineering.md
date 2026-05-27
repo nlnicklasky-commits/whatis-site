@@ -5,7 +5,7 @@ description: "Industrial engineering is the engineering discipline focused on op
 category: everyday-concepts
 tags: ["industrial engineering", "manufacturing", "optimization", "lean", "Six Sigma"]
 heroImage: "/images/articles/industrial-engineering-hero.webp"
-heroAlt: "Industrial engineering optimizes complex systems of people, materials, and machines"
+heroAlt: "The man wearing a hard hat and a gray jacket is standing in front of a blue background with lights"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Sign language is a complete, natural language that uses hand shape
 category: language
 tags: ["sign language", "asl", "bsl", "deaf culture", "communication", "linguistics"]
 heroImage: "/images/articles/sign-language-hero.webp"
-heroAlt: "Sign language is a visual language using hand shapes, facial expressions, and body movement to communicate"
+heroAlt: "A person gesturing with their hands, possibly in a classroom or meeting setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

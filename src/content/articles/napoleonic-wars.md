@@ -5,7 +5,7 @@ description: "The Napoleonic Wars (1803-1815) were a series of conflicts between
 category: history
 tags: ["napoleonic wars", "napoleon bonaparte", "european history", "military history"]
 heroImage: "/images/articles/napoleonic-wars-hero.webp"
-heroAlt: "The Napoleonic Wars (1803-1815) were a series of conflicts between Napoleon's French Empire and European coalitions"
+heroAlt: "A group of soldiers in historical military uniforms marching through a field, with smoke and fire visible in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

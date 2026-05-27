@@ -5,7 +5,7 @@ description: "Wine making (vinification) is the process of turning grapes into w
 category: everyday-concepts
 tags: ["wine making", "vinification", "fermentation", "viticulture", "wine", "beverages"]
 heroImage: "/images/articles/wine-making-hero.webp"
-heroAlt: "Wine making (vinification) is the process of turning grapes into wine through fermentation"
+heroAlt: "The man is standing in a vineyard, surrounded by grapevines, and he is pouring red wine into a glass"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

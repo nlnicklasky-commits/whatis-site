@@ -5,7 +5,7 @@ description: "Cognitive neuroscience is the scientific study of how biological p
 category: science
 tags: ["cognitive neuroscience", "neuroscience", "psychology", "brain", "cognition", "neuroimaging", "mental processes"]
 heroImage: "/images/articles/cognitive-neuroscience-hero.webp"
-heroAlt: "Cognitive neuroscience is the scientific study of how biological processes in the brain give rise to mental functions such"
+heroAlt: "A woman in a lab coat and safety glasses working at a computer, surrounded by various laboratory equipment and chemicals"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

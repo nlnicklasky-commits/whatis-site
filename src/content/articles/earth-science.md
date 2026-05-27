@@ -5,7 +5,7 @@ description: "Earth science is the broad field of study concerned with the physi
 category: science
 tags: ["earth", "geology", "meteorology", "oceanography", "environmental science", "planet earth", "geosciences"]
 heroImage: "/images/articles/earth-science-hero.webp"
-heroAlt: "Earth science is the broad field of study concerned with the physical makeup and processes of planet Earth—its rocks, water"
+heroAlt: "A man in a tan jacket sits on a rocky cliff, writing in a notebook while taking in the breathtaking view of the canyon below"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "The spice trade is the millennia-long story of how humanity's desi
 category: history
 tags: ["spice trade", "trade history", "age of exploration", "commerce"]
 heroImage: "/images/articles/spice-trade-history-hero.webp"
-heroAlt: "The spice trade shaped global history for thousands of years"
+heroAlt: "A woman sitting at a table surrounded by various spices and herbs, with a large pile of red spices in front of her"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

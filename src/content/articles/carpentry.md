@@ -5,7 +5,7 @@ description: "Carpentry is the skilled trade of cutting, shaping, and assembling
 category: everyday-concepts
 tags: ["carpentry", "woodworking", "construction", "trade", "crafts", "building"]
 heroImage: "/images/articles/carpentry-hero.webp"
-heroAlt: "Carpentry is the skilled trade of cutting, shaping, and joining wood to build structures, furniture, and other wooden objects"
+heroAlt: "A person working on a woodworking project in a workshop, using a hand plane to smooth the surface of a wooden plank"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

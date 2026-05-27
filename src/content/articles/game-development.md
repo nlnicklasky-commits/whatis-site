@@ -5,7 +5,7 @@ description: "Game development is the multidisciplinary process of designing, cr
 category: technology
 tags: ["game development", "programming", "game art", "sound design", "quality assurance", "video games", "software engineering"]
 heroImage: "/images/articles/game-development-hero.webp"
-heroAlt: "Game development is the process of creating video games, from concept to release"
+heroAlt: "A person's hands holding a video game controller in front of a computer monitor displaying a game interface"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

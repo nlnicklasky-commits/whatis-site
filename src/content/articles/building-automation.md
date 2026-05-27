@@ -5,7 +5,7 @@ description: "Building automation is the centralized, automated control of a bui
 category: technology
 tags: ["building automation", "building management systems", "bms", "smart buildings", "hvac", "energy efficiency", "iot"]
 heroImage: "/images/articles/building-automation-hero.webp"
-heroAlt: "Building automation is the centralized, automated control of a building's mechanical, electrical"
+heroAlt: "A man in a suit is standing in front of a large screen displaying various data visualizations and graphs"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

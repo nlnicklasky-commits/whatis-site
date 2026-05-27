@@ -5,7 +5,7 @@ description: "Culinary arts is the professional practice of preparing, cooking, 
 category: arts-amp-culture
 tags: ["culinary arts", "cooking", "food", "chef", "cuisine", "gastronomy"]
 heroImage: "/images/articles/culinary-arts-hero.webp"
-heroAlt: "Culinary arts is the professional practice of preparing, cooking, and presenting food"
+heroAlt: "A man in a kitchen preparing food, specifically mixing ingredients in a bowl using a whisk"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

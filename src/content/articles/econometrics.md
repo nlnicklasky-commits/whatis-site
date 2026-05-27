@@ -5,7 +5,7 @@ description: "Econometrics is the application of statistical methods, mathematic
 category: finance
 tags: ["econometrics", "statistics", "economics", "economic modeling", "regression analysis", "forecasting", "economic policy"]
 heroImage: "/images/articles/econometrics-hero.webp"
-heroAlt: "Econometrics is the application of statistical methods, mathematical models"
+heroAlt: "A man in a suit is sitting at a desk, working on a laptop computer with a graph displayed on the screen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

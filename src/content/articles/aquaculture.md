@@ -5,7 +5,7 @@ description: "Aquaculture is the controlled breeding, raising, and harvesting of
 category: science
 tags: ["aquaculture", "farming", "fish farming", "fisheries", "mariculture", "seafood", "agriculture"]
 heroImage: "/images/articles/aquaculture-hero.webp"
-heroAlt: "Aquaculture is the farming of fish, shellfish, and aquatic plants"
+heroAlt: "A man with a long beard and a blue cap is shown reaching into a body of water, surrounded by a net filled with small fish"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

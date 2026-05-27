@@ -5,7 +5,7 @@ description: "Hygiene is the set of practices that prevent disease and maintain 
 category: health-amp-wellness
 tags: ["hygiene", "cleanliness", "health", "public health", "disease prevention"]
 heroImage: "/images/articles/hygiene-hero.webp"
-heroAlt: "Hygiene is the set of practices that prevent disease and maintain health through cleanliness"
+heroAlt: "Hand washing"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

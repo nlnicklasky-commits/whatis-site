@@ -5,7 +5,7 @@ description: "Masonry is the building craft using stone, brick, or concrete bloc
 category: everyday-concepts
 tags: ["masonry", "construction", "brickwork", "stonework", "building trades", "architecture"]
 heroImage: "/images/articles/masonry-hero.webp"
-heroAlt: "Masonry is the building craft using stone, brick, or concrete blocks joined with mortar"
+heroAlt: "A person wearing blue gloves and a blue shirt working on a brick wall, using a tool to smooth out the bricks"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

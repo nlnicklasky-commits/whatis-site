@@ -5,7 +5,7 @@ description: "Latin is the ancient language of Rome that shaped Western civiliza
 category: everyday-concepts
 tags: ["Latin language", "ancient Rome", "linguistics", "Romance languages", "classical education"]
 heroImage: "/images/articles/latin-language-hero.webp"
-heroAlt: "Latin is the ancient language of Rome that shaped Western civilization, law, science, and modern Romance languages"
+heroAlt: "A man in a suit sitting at a desk, typing on a typewriter"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

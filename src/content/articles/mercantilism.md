@@ -5,7 +5,7 @@ description: "Mercantilism was the dominant economic theory from the 1500s to 17
 category: history
 tags: ["economics", "mercantilism", "trade"]
 heroImage: "/images/articles/mercantilism-hero.webp"
-heroAlt: "Mercantilism was the dominant economic theory from the 1500s to 1700s"
+heroAlt: "An elderly man with a long white beard sitting at a table, writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

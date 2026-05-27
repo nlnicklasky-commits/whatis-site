@@ -5,7 +5,7 @@ description: "Solar physics studies the Sun's structure, behavior, and effects o
 category: science
 tags: ["solar physics", "astronomy", "astrophysics", "space weather", "physics", "sun"]
 heroImage: "/images/articles/solar-physics-hero.webp"
-heroAlt: "Solar physics studies the Sun's structure, behavior, and effects on the solar system"
+heroAlt: "A woman in a white lab coat is working on a piece of equipment in a laboratory setting with various scientific equipment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

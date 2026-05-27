@@ -5,7 +5,7 @@ description: "Fruit growing is the cultivation of fruit-bearing plants for food 
 category: everyday-concepts
 tags: ["agriculture", "horticulture", "fruits", "farming", "orchard", "vineyard"]
 heroImage: "/images/articles/fruit-growing-hero.webp"
-heroAlt: "Fruit growing is the cultivation of fruit-bearing plants for food and commerce"
+heroAlt: "A ladder leaning against a tree laden with ripe, juicy oranges"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

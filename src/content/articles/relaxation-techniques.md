@@ -5,7 +5,7 @@ description: "Relaxation techniques are structured methods designed to activate 
 category: health-amp-wellness
 tags: ["mental health", "relaxation", "stress management", "wellness"]
 heroImage: "/images/articles/relaxation-techniques-hero.webp"
-heroAlt: "Relaxation techniques are structured methods designed to activate your body's natural calming response"
+heroAlt: "A person sitting in a meditative pose with their hands in a crescent shape, surrounded by a natural setting with trees"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Home education — more commonly called homeschooling — is the p
 category: everyday-concepts
 tags: ["home education", "homeschooling", "education", "child development", "learning", "curriculum"]
 heroImage: "/images/articles/home-education-hero.webp"
-heroAlt: "Home education (homeschooling) is parent-directed learning outside traditional schools"
+heroAlt: "A woman and a young girl are sitting at a table, working on a project together"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

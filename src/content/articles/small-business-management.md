@@ -5,7 +5,7 @@ description: "Small business management is the work of running a company that ty
 category: business
 tags: ["small business", "management", "entrepreneurship", "business operations"]
 heroImage: "/images/articles/small-business-management-hero.webp"
-heroAlt: "Small business management is the process of running a company with limited resources"
+heroAlt: "A woman in a brown jacket is sitting at a table, writing in a notebook while holding a cup of coffee"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

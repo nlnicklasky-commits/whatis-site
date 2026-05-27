@@ -5,7 +5,7 @@ description: "Electron microscopy is an imaging technique that uses focused beam
 category: technology
 tags: ["electron microscopy", "microscopy", "science", "nanotechnology", "materials science", "biology", "tem"]
 heroImage: "/images/articles/electron-microscopy-hero.webp"
-heroAlt: "Electron microscopy uses focused electron beams to image structures far smaller than light can reveal"
+heroAlt: "A close-up view of an electron microscope, with a bright blue light illuminating the sample being observed"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

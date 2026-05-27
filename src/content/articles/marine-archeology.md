@@ -5,7 +5,7 @@ description: "Marine archeology studies human interaction with the sea through s
 category: history
 tags: ["archaeology", "marine archeology", "shipwrecks"]
 heroImage: "/images/articles/marine-archeology-hero.webp"
-heroAlt: "Marine archeology studies human interaction with the sea through submerged artifacts, shipwrecks, and underwater ruins"
+heroAlt: "The diver exploring the underwater ruins of a shipwreck, with the ruins' rusted metal structures and coral formations visible"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

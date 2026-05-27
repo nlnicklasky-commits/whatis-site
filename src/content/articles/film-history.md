@@ -5,7 +5,7 @@ description: "Film history traces cinema from its 1890s invention to today's str
 category: everyday-concepts
 tags: ["film history", "cinema", "movies", "Hollywood", "silent film", "film movements"]
 heroImage: "/images/articles/film-history-hero.webp"
-heroAlt: "Film history traces cinema from its 1890s invention to today's streaming era"
+heroAlt: "A man with a beard and glasses is sitting at a table, holding a film projector and surrounded by various film reels"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

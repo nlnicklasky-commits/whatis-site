@@ -5,7 +5,7 @@ description: "Developmental psychology studies how people grow and change across
 category: science
 tags: ["developmental psychology", "psychology", "child development", "cognitive development", "lifespan", "learning", "behavior"]
 heroImage: "/images/articles/developmental-psychology-hero.webp"
-heroAlt: "Developmental psychology studies how people grow and change across their entire lifespan"
+heroAlt: "A happy family of three - a woman, a man, and a young girl - smiling together outdoors"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

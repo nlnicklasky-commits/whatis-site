@@ -5,7 +5,7 @@ description: "Human anatomy is the scientific study of the body's physical struc
 category: science
 tags: ["human anatomy", "anatomy", "human body", "medicine", "biology", "health science", "physiology"]
 heroImage: "/images/articles/human-anatomy-hero.webp"
-heroAlt: "Human anatomy is the study of the body's structures"
+heroAlt: "A medical professional, likely a doctor, examining a model of a human head in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

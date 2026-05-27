@@ -5,7 +5,7 @@ description: "The saxophone is a single-reed woodwind instrument made of brass, 
 category: arts-amp-culture
 tags: ["saxophone", "musical instrument", "woodwind", "jazz", "classical music", "adolphe sax"]
 heroImage: "/images/articles/saxophone-hero.webp"
-heroAlt: "The saxophone is a woodwind instrument invented in the 1840s, famous for its role in jazz, classical music, and popular music"
+heroAlt: "A person's hands holding a saxophone, with a blurred background suggesting an outdoor setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

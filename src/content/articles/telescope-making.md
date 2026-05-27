@@ -5,7 +5,7 @@ description: "Telescope making is the craft of building optical telescopes by ha
 category: technology
 tags: ["telescope making", "amateur astronomy", "optics", "mirror grinding"]
 heroImage: "/images/articles/telescope-making-hero.webp"
-heroAlt: "Telescope making is the craft of building optical telescopes by hand, from grinding mirrors to assembling mounts"
+heroAlt: "A person working on a glass dome or dome-shaped object, likely a piece of scientific or industrial equipment, in a workshop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

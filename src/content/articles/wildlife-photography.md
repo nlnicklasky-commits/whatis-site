@@ -5,7 +5,7 @@ description: "Wildlife photography captures images of animals in their natural h
 category: arts-culture
 tags: ["wildlife photography", "photography", "nature", "camera gear", "animals", "outdoor photography"]
 heroImage: "/images/articles/wildlife-photography-hero.webp"
-heroAlt: "Wildlife photography captures images of animals in their natural habitats"
+heroAlt: "A man crouches down to take a photograph of a leopard in a lush, green forest"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

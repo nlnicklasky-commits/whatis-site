@@ -5,7 +5,7 @@ description: "Wetland ecology studies marshes, swamps, and bogs and the organism
 category: science-technology
 tags: ["wetland ecology", "wetlands", "ecology", "conservation", "biodiversity", "environment"]
 heroImage: "/images/articles/wetland-ecology-hero.webp"
-heroAlt: "Wetland ecology studies marshes, swamps, and bogs and the organisms that depend on them"
+heroAlt: "A frog with a green head and brown body is swimming in a body of water"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

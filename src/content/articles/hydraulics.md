@@ -5,7 +5,7 @@ description: "Hydraulics is the branch of engineering and applied science that u
 category: technology
 tags: ["hydraulics", "fluid mechanics", "engineering", "fluid power", "mechanical engineering", "pressure", "machinery"]
 heroImage: "/images/articles/hydraulics-hero.webp"
-heroAlt: "Hydraulics uses pressurized fluid to generate force and motion"
+heroAlt: "A man in a blue work uniform and safety glasses is adjusting a piece of equipment in a factory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

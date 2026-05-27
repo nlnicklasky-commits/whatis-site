@@ -5,7 +5,7 @@ description: "Crystallography is the scientific discipline that determines the a
 category: science
 tags: ["crystallography", "crystals", "atomic structure", "x-ray diffraction", "materials science", "chemistry", "physics"]
 heroImage: "/images/articles/crystallography-hero.webp"
-heroAlt: "Crystallography determines crystal atomic structure using X-ray diffraction"
+heroAlt: "A man in a lab coat using a microscope to examine a sample"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

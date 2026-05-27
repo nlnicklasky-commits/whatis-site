@@ -5,7 +5,7 @@ description: "Data mining is the computational process of discovering previously
 category: technology
 tags: ["data mining", "machine learning", "data science", "pattern recognition", "analytics", "algorithms", "big data"]
 heroImage: "/images/articles/data-mining-hero.webp"
-heroAlt: "Data mining extracts patterns from large datasets using statistics and machine learning"
+heroAlt: "The woman is sitting at a desk in an office, working on a computer with a large screen displaying graphs and charts"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

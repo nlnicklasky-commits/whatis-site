@@ -5,7 +5,7 @@ description: "Molecular biology is the branch of biology that studies the struct
 category: science
 tags: ["molecular biology", "dna", "rna", "proteins", "genetics", "gene expression", "biology"]
 heroImage: "/images/articles/molecular-biology-hero.webp"
-heroAlt: "Molecular biology studies the molecular basis of life—DNA, RNA, and proteins"
+heroAlt: "A woman in a lab coat is intently examining a sample through a microscope"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

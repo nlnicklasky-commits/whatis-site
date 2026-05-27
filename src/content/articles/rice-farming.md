@@ -5,7 +5,7 @@ description: "Rice farming is the cultivation of rice, the staple food for over 
 category: science
 tags: ["rice farming", "agriculture", "paddy", "food production", "irrigation", "crop science", "sustainability"]
 heroImage: "/images/articles/rice-farming-hero.webp"
-heroAlt: "Rice farming is the cultivation of rice, the staple food for over half of humanity"
+heroAlt: "A farmer crouches in a flooded rice paddy, tending to the young rice plants"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

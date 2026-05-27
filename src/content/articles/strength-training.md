@@ -5,7 +5,7 @@ description: "Strength training is any form of exercise where you work your musc
 category: health-amp-wellness
 tags: ["fitness", "strength training", "exercise", "muscle building"]
 heroImage: "/images/articles/strength-training-hero.webp"
-heroAlt: "Strength training builds muscle and bone density through resistance exercises"
+heroAlt: "A woman lifting weights in a gym"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Urdu is an Indo-Aryan language that serves as Pakistan's national 
 category: language
 tags: ["urdu language", "linguistics", "Pakistan", "Indo-Aryan", "Nastaliq script", "South Asian languages"]
 heroImage: "/images/articles/urdu-language-hero.webp"
-heroAlt: "Urdu is an Indo-Aryan language and Pakistan's national language"
+heroAlt: "A person wearing a face mask and writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

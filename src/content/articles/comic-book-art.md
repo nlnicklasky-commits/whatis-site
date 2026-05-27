@@ -5,7 +5,7 @@ description: "Comic book art is the visual component of sequential storytelling 
 category: arts-amp-culture
 tags: ["comic book art", "comics", "graphic novels", "illustration", "sequential art", "drawing"]
 heroImage: "/images/articles/comic-book-art-hero.webp"
-heroAlt: "Comic book art is visual storytelling through sequential images and text"
+heroAlt: "A bearded man is sitting at a desk, intently focused on drawing or writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

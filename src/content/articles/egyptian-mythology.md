@@ -5,7 +5,7 @@ description: "Egyptian mythology is the collection of myths, gods, and rituals f
 category: history
 tags: ["egyptian mythology", "ancient egypt", "mythology", "gods", "afterlife"]
 heroImage: "/images/articles/egyptian-mythology-hero.webp"
-heroAlt: "Egyptian mythology is the collection of myths, gods, and rituals from ancient Egypt that explained creation, death"
+heroAlt: "A woman dressed in traditional Egyptian attire, including a headdress and jewelry, standing in front of the iconic pyramids"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

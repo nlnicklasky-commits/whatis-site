@@ -5,7 +5,7 @@ description: "Environmental engineering applies science and engineering to prote
 category: technology
 tags: ["environmental engineering", "environment", "engineering", "pollution control", "waste management", "water treatment", "sustainability"]
 heroImage: "/images/articles/environmental-engineering-hero.webp"
-heroAlt: "Environmental engineering applies science and engineering to protect human health and the environment — water treatment"
+heroAlt: "A construction worker wearing a yellow hard hat and safety vest, holding a smartphone and looking at it while standing on"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Educational history studies how teaching, learning, and schooling 
 category: history
 tags: ["educational history", "education", "pedagogy", "curriculum", "schooling"]
 heroImage: "/images/articles/educational-history-hero.webp"
-heroAlt: "Educational history studies how teaching, learning, and schooling have evolved from ancient times to today"
+heroAlt: "A large, multi-domed building with a distinctive architectural style, surrounded by a grassy field with trees and shrubs"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

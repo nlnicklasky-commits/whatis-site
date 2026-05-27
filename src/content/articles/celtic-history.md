@@ -5,7 +5,7 @@ description: "Celtic history is the study of the peoples who spoke Celtic langua
 category: history
 tags: ["celtic history", "celts", "ancient history", "european history", "archaeology"]
 heroImage: "/images/articles/celtic-history-hero.webp"
-heroAlt: "Celtic history is the study of the peoples who spoke Celtic languages and shared recognizable cultural patterns across"
+heroAlt: "A hand touching a moss-covered stone in a field with other moss-covered stones in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

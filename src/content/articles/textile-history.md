@@ -5,7 +5,7 @@ description: "Textile history traces fabric production from ancient hand-spinnin
 category: history
 tags: ["textile history", "fabric", "weaving", "industrial revolution", "silk road"]
 heroImage: "/images/articles/textile-history-hero.webp"
-heroAlt: "Textile history traces fabric production from ancient hand-spinning to the Industrial Revolution and beyond"
+heroAlt: "A close-up view of a pile of colorful, textured fabric, including a mix of white, blue, orange, and brown materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

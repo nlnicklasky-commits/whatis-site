@@ -5,7 +5,7 @@ description: "The history of religion is the story of how humans have sought mea
 category: history
 tags: ["history of religion", "religion", "belief systems", "world religions"]
 heroImage: "/images/articles/the-history-of-religion-hero.webp"
-heroAlt: "The history of religion is the story of how humans have sought meaning, explained the unexplainable"
+heroAlt: "A group of people wearing black robes, with one person in the foreground holding a book or tablet"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

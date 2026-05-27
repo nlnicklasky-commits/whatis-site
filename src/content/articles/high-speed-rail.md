@@ -5,7 +5,7 @@ description: "High-speed rail is a passenger railway system designed for speeds 
 category: technology
 tags: ["high-speed rail", "trains", "transportation", "sustainable transport", "infrastructure", "bullet train", "railway"]
 heroImage: "/images/articles/high-speed-rail-hero.webp"
-heroAlt: "High-speed rail is a passenger railway system designed for speeds above 250 km/h"
+heroAlt: "The front of a high-speed train at a train station platform"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

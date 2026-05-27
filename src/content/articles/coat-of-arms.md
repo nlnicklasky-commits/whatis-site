@@ -5,7 +5,7 @@ description: "A coat of arms is a heraldic design on a shield used to identify i
 category: history
 tags: ["coat of arms", "heraldry", "symbolism", "genealogy", "medieval"]
 heroImage: "/images/articles/coat-of-arms-hero.webp"
-heroAlt: "A coat of arms is a heraldic design on a shield used to identify individuals, families, or institutions"
+heroAlt: "A knight's armor, featuring a coat of arms on the chest"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Astronomy is the scientific study of celestial objects, space, and
 category: science
 tags: ["astronomy", "astrophysics", "cosmology", "space", "science", "stars", "planets"]
 heroImage: "/images/articles/astronomy-hero.webp"
-heroAlt: "Astronomy is the scientific study of celestial objects, space, and the universe"
+heroAlt: "A person using a smartphone to view the night sky through a telescope"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Submarine technology is the engineering of vessels that operate un
 category: technology
 tags: ["engineering", "submarine technology", "naval engineering", "military technology", "underwater exploration"]
 heroImage: "/images/articles/submarine-technology-hero.webp"
-heroAlt: "Submarine technology is the engineering of vessels that operate underwater, using pressure hulls, ballast systems"
+heroAlt: "A close-up view of a futuristic-looking submarine, with a blurred background that appears to be a laboratory or workshop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

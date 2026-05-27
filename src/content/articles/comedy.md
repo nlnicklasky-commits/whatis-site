@@ -5,7 +5,7 @@ description: "Comedy is a form of entertainment — across theater, film, televi
 category: arts-amp-culture
 tags: ["comedy", "humor", "entertainment", "stand-up", "satire", "theatre"]
 heroImage: "/images/articles/comedy-hero.webp"
-heroAlt: "Comedy is a genre of entertainment designed to make people laugh"
+heroAlt: "A man with curly hair and a beard is singing into a microphone on a stage, with colorful lights in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Plasma physics is the study of ionized gases — matter in which a
 category: science
 tags: ["physics", "plasma", "fusion", "astrophysics", "energy", "electromagnetism", "matter"]
 heroImage: "/images/articles/plasma-physics-hero.webp"
-heroAlt: "Plasma physics is the study of ionized gases — matter in which atoms have been stripped of some or all of their electrons"
+heroAlt: "A man wearing a white lab coat and safety goggles, standing in a laboratory setting with a large piece of scientific"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "The banjo is a stringed instrument with a thin membrane stretched 
 category: everyday-concepts
 tags: ["banjo", "musical instrument", "bluegrass", "folk music", "string instrument", "country music"]
 heroImage: "/images/articles/banjo-hero.webp"
-heroAlt: "The banjo is a stringed instrument with a thin membrane stretched over a circular frame, known for its bright"
+heroAlt: "A person playing a banjo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

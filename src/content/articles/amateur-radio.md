@@ -5,7 +5,7 @@ description: "Amateur radio -- often called ham radio -- is a licensed radio ser
 category: technology
 tags: ["amateur radio", "ham radio", "radio", "shortwave", "electronics", "communication", "fcc"]
 heroImage: "/images/articles/amateur-radio-hero.webp"
-heroAlt: "Amateur radio -- often called ham radio -- is a licensed radio service that lets individuals communicate using designated"
+heroAlt: "An AMR ( amateur radio) device with a display showing the time and date, and a coiled antenna"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

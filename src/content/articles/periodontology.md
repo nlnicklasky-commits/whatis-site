@@ -5,7 +5,7 @@ description: "Periodontology is the branch of dentistry that deals with the stru
 category: everyday-concepts
 tags: ["periodontology", "dental health", "gum disease", "oral health", "dentistry", "gingivitis"]
 heroImage: "/images/articles/periodontology-hero.webp"
-heroAlt: "Periodontology is the dental specialty focused on gum disease and the structures supporting teeth"
+heroAlt: "A female patient sitting in a dental chair, with a dentist examining her teeth using a dental instrument"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

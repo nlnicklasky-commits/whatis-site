@@ -5,7 +5,7 @@ description: "Yachting is the sport and recreation of sailing or motoring on a y
 category: sports
 tags: ["boating", "sailing", "luxury", "recreation", "marine sports", "maritime"]
 heroImage: "/images/articles/yachting-hero.webp"
-heroAlt: "Yachting covers sailing and motorboating for sport, leisure, or racing"
+heroAlt: "A large white yacht sailing on the ocean with a clear blue sky in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

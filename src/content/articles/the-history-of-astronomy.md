@@ -5,7 +5,7 @@ description: "The history of astronomy traces humanity's study of the cosmos fro
 category: history
 tags: ["history of astronomy", "astronomy", "cosmology", "copernicus", "galileo"]
 heroImage: "/images/articles/the-history-of-astronomy-hero.webp"
-heroAlt: "The history of astronomy traces humanity's study of the cosmos from ancient stargazers to modern space telescopes"
+heroAlt: "A bearded man in a blue jacket examining a telescope in a room filled with various scientific equipment and maps"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

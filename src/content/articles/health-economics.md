@@ -5,7 +5,7 @@ description: "Health economics is a branch of economics that studies how individ
 category: finance
 tags: ["health economics", "healthcare", "economics", "public health", "health policy", "resource allocation", "health insurance"]
 heroImage: "/images/articles/health-economics-hero.webp"
-heroAlt: "Health economics is a branch of economics that studies how individuals, institutions"
+heroAlt: "A man in a white lab coat is sitting at a desk, writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

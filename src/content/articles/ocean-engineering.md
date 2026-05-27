@@ -5,7 +5,7 @@ description: "Ocean engineering is the branch of engineering that designs, build
 category: technology
 tags: ["ocean engineering", "marine engineering", "offshore structures", "underwater robotics", "coastal engineering", "renewable energy"]
 heroImage: "/images/articles/ocean-engineering-hero.webp"
-heroAlt: "Ocean engineering designs structures and systems for the marine environment"
+heroAlt: "The woman in a blue coat is examining a large metal object, possibly a piece of equipment, in an industrial setting with"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

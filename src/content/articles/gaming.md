@@ -5,7 +5,7 @@ description: "Gaming is the activity of playing electronic games — on consoles
 category: everyday-concepts
 tags: ["gaming", "video games", "esports", "interactive entertainment", "game culture", "hobby"]
 heroImage: "/images/articles/gaming-hero.webp"
-heroAlt: "Gaming is interactive electronic entertainment played on consoles, PCs, and mobile devices"
+heroAlt: "A young man is sitting at a desk, intently focused on a computer screen in front of him"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

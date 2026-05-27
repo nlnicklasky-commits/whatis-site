@@ -5,7 +5,7 @@ description: "Chess is a two-player strategy game played on an 8x8 board with 32
 category: everyday-concepts
 tags: ["chess", "board games", "strategy", "competition", "games", "puzzles"]
 heroImage: "/images/articles/chess-hero.webp"
-heroAlt: "Chess is a two-player strategy game played on an 8x8 board with 32 pieces — 16 per side"
+heroAlt: "A chessboard with pieces in focus, including a king, queen, and other chess pieces, with a blurred background suggesting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

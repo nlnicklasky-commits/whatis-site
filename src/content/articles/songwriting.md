@@ -5,7 +5,7 @@ description: "Songwriting is the art of creating songs — combining lyrics (wor
 category: arts-amp-culture
 tags: ["songwriting", "music composition", "lyrics", "melody", "music industry", "creativity"]
 heroImage: "/images/articles/songwriting-hero.webp"
-heroAlt: "Songwriting is the craft of composing lyrics and melodies to create songs"
+heroAlt: "A typewriter, a cup of coffee, a notebook, a pen, a plant, and a small electronic device are arranged on a desk"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

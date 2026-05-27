@@ -5,7 +5,7 @@ description: "Taxidermy is the art and science of preserving an animal's body by
 category: everyday-concepts
 tags: ["taxidermy", "animal preservation", "specimen", "mounting", "craft", "natural history"]
 heroImage: "/images/articles/taxidermy-hero.webp"
-heroAlt: "Taxidermy is the art of preserving and mounting animal specimens to appear lifelike"
+heroAlt: "A man is working on a project with a dog in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

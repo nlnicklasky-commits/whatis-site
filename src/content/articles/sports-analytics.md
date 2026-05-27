@@ -5,7 +5,7 @@ description: "Sports analytics is the use of data, statistical methods, and tech
 category: sports
 tags: ["sports analytics", "sabermetrics", "data science", "statistics", "Moneyball", "performance analysis"]
 heroImage: "/images/articles/sports-analytics-hero.webp"
-heroAlt: "Sports analytics uses data and statistics to evaluate players, optimize strategy, and gain competitive advantages"
+heroAlt: "A man in a suit is sitting at a desk, working on a laptop computer and looking at a computer monitor displaying various"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

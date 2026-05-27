@@ -5,7 +5,7 @@ description: "Physical therapy restores movement and reduces pain through exerci
 category: health-amp-wellness
 tags: ["physical therapy", "physiotherapy", "rehabilitation", "healthcare"]
 heroImage: "/images/articles/physical-therapy-hero.webp"
-heroAlt: "Physical therapy restores movement and reduces pain through exercise and hands-on care"
+heroAlt: "A man in a white coat and a woman in a black sports bra, both sitting and engaged in conversation in what appears to be"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

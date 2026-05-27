@@ -5,7 +5,7 @@ description: "Magic (illusion) is the performing art of creating seemingly impos
 category: arts-amp-culture
 tags: ["magic illusion", "performing arts", "sleight of hand", "misdirection", "entertainment", "stagecraft"]
 heroImage: "/images/articles/magic-illusion-hero.webp"
-heroAlt: "Magic (illusion) is the performing art of creating seemingly impossible effects through sleight of hand, misdirection"
+heroAlt: "A person in a suit holding a card in their hands, with a blurred background that suggests an indoor setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

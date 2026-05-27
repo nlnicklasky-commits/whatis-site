@@ -5,7 +5,7 @@ description: "Fractal geometry is a branch of mathematics that studies shapes an
 category: science
 tags: ["mathematics", "geometry", "fractals", "chaos theory", "self-similarity", "patterns", "computer graphics"]
 heroImage: "/images/articles/fractal-geometry-hero.webp"
-heroAlt: "Fractal geometry studies shapes with self-similar patterns at every scale"
+heroAlt: "A complex, intricate, and visually striking pattern of interconnected lines and shapes, resembling a natural or organic form"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

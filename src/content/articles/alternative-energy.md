@@ -5,7 +5,7 @@ description: "Alternative energy comes from sources other than fossil fuels. Lea
 category: technology
 tags: ["alternative energy", "renewable energy", "solar power", "wind power", "geothermal", "sustainability", "clean energy"]
 heroImage: "/images/articles/alternative-energy-hero.webp"
-heroAlt: "Alternative energy comes from sources other than fossil fuels"
+heroAlt: "A solar panel with a wind turbine blade in the foreground, surrounded by flowers and greenery"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

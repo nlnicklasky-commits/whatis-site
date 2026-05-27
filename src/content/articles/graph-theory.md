@@ -5,7 +5,7 @@ description: "Graph theory is the branch of mathematics that studies graphs—st
 category: science
 tags: ["graph theory", "mathematics", "graphs", "networks", "algorithms", "computer science", "discrete mathematics"]
 heroImage: "/images/articles/graph-theory-hero.webp"
-heroAlt: "Graph theory studies networks of nodes and edges"
+heroAlt: "A man with glasses and a beard, intently studying a whiteboard filled with mathematical equations and diagrams"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

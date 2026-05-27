@@ -5,7 +5,7 @@ description: "Speech writing is the craft of composing speeches for public deliv
 category: arts-amp-culture
 tags: ["speech writing", "rhetoric", "public speaking", "persuasion", "communication", "oratory"]
 heroImage: "/images/articles/speech-writing-hero.webp"
-heroAlt: "Speech writing is the craft of composing speeches for public delivery"
+heroAlt: "A woman in a business suit is sitting at a desk, typing on a keyboard"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

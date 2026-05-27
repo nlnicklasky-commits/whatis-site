@@ -5,7 +5,7 @@ description: "Gastronomy is the study and appreciation of food and cooking as a 
 category: arts-amp-culture
 tags: ["gastronomy", "food", "culinary arts", "cooking", "food culture", "food science"]
 heroImage: "/images/articles/gastronomy-hero.webp"
-heroAlt: "Gastronomy is the study of food, cooking, and culture"
+heroAlt: "The chef is preparing a dish in a kitchen"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "A fuel cell is an electrochemical device that converts chemical en
 category: technology
 tags: ["energy", "hydrogen", "clean energy", "electrochemistry", "renewable energy", "sustainable technology", "power generation"]
 heroImage: "/images/articles/fuel-cell-technology-hero.webp"
-heroAlt: "Fuel cells generate electricity from hydrogen and oxygen with water as the only byproduct"
+heroAlt: "A busy street scene in a European city, with people walking and a motorcycle parked on the side of the road"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

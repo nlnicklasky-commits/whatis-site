@@ -5,7 +5,7 @@ description: "Candy making is the art of creating confections by heating sugar t
 category: everyday-concepts
 tags: ["candy making", "confectionery", "sweets", "sugar", "culinary arts", "baking"]
 heroImage: "/images/articles/candy-making-hero.webp"
-heroAlt: "Candy making is the art of creating confections by heating sugar to specific temperatures and combining it with flavors"
+heroAlt: "A person's hands carefully decorating small orange candies with a knife on a table covered with various ingredients"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Inventory management is the systematic process of ordering, storin
 category: finance
 tags: ["inventory management", "supply chain", "logistics", "stock control", "warehouse management", "erp", "just-in-time"]
 heroImage: "/images/articles/inventory-management-hero.webp"
-heroAlt: "Inventory management is the practice of ordering, storing, tracking, and controlling stock"
+heroAlt: "A man wearing a navy blue cap and gloves, holding a cardboard box with a label on it. The setting appears to be a warehouse"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

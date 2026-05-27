@@ -5,7 +5,7 @@ description: "Boat building is the craft and engineering of constructing watercr
 category: everyday-concepts
 tags: ["boat building", "shipbuilding", "marine engineering", "naval architecture", "woodworking", "fiberglass"]
 heroImage: "/images/articles/boat-building-hero.webp"
-heroAlt: "Boat building is the craft and engineering of constructing watercraft from wood, fiberglass, aluminum"
+heroAlt: "A man working on a wooden boat in a workshop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "A neural network is a computing system loosely inspired by the str
 category: everyday-concepts
 tags: ["neural networks", "machine learning", "artificial intelligence", "deep learning", "data science", "algorithms"]
 heroImage: "/images/articles/neural-networks-hero.webp"
-heroAlt: "Neural networks are computing systems inspired by the human brain that learn from data"
+heroAlt: "A man and a woman in a laboratory setting, with a computer screen displaying what appears to be a diagram or graph in"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

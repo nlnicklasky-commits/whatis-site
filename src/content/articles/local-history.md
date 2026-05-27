@@ -5,7 +5,7 @@ description: "Local history is the study of the past as it unfolded in a specifi
 category: history
 tags: ["community history", "local history", "heritage", "genealogy", "archives"]
 heroImage: "/images/articles/local-history-hero.webp"
-heroAlt: "Local history is the study of past events, people, and changes within a specific community, town, county, or region over time"
+heroAlt: "A woman in a dark blazer is intently examining a document on a desk in a library or study room"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Life coaching is a goal-oriented practice where a trained coach he
 category: health-amp-wellness
 tags: ["personal development", "life coaching", "wellness", "psychology", "goal setting"]
 heroImage: "/images/articles/life-coaching-hero.webp"
-heroAlt: "Life coaching is a goal-oriented practice where a trained coach helps you clarify objectives, overcome obstacles"
+heroAlt: "A smiling woman in a brown sweater sitting at a desk with a notebook and coffee mug in front of her"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

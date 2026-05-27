@@ -5,7 +5,7 @@ description: "Miniature golf is a scaled-down version of golf played on short co
 category: sports
 tags: ["miniature golf", "putt-putt", "recreation", "family entertainment", "golf", "amusement"]
 heroImage: "/images/articles/miniature-golf-hero.webp"
-heroAlt: "Miniature golf is a scaled-down version of golf played on short courses with creative obstacles"
+heroAlt: "A man playing miniature golf in a park with trees, flowers, and a green course"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

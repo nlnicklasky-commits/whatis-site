@@ -5,7 +5,7 @@ description: "Sudoku is a logic-based number-placement puzzle. You get a 9×9 gr
 category: everyday-concepts
 tags: ["sudoku", "puzzle", "logic", "number puzzle", "games", "brain teaser"]
 heroImage: "/images/articles/sudoku-hero.webp"
-heroAlt: "Sudoku is a number-placement puzzle where you fill a 9x9 grid using logic"
+heroAlt: "A woman in a dark blazer is sitting at a desk, writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Historical linguistics studies how languages change over time. Lea
 category: everyday-concepts
 tags: ["historical linguistics", "linguistics", "language", "etymology", "language families"]
 heroImage: "/images/articles/historical-linguistics-hero.webp"
-heroAlt: "Historical linguistics studies how languages change over time"
+heroAlt: "A woman sitting at a desk in a library, focused on writing or studying from an open book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

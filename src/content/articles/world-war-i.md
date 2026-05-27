@@ -5,7 +5,7 @@ description: "World War I (1914-1918) was a global conflict that killed 20 milli
 category: history
 tags: ["wwi", "great war", "european history", "military history"]
 heroImage: "/images/articles/world-war-i-hero.webp"
-heroAlt: "World War I (1914-1918) was a global conflict that killed 20 million people and reshaped the political map of Europe"
+heroAlt: "A group of soldiers in military uniforms and helmets, with one soldier holding a rifle, standing in a foggy forest setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

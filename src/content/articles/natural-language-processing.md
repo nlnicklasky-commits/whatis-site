@@ -5,7 +5,7 @@ description: "Natural language processing — usually abbreviated NLP — is the
 category: technology
 tags: ["natural language processing", "nlp", "artificial intelligence", "machine learning", "computational linguistics", "language technology"]
 heroImage: "/images/articles/natural-language-processing-hero.webp"
-heroAlt: "Natural language processing (NLP) teaches computers to understand human language"
+heroAlt: "A woman working at a desk with two computer monitors, typing on a keyboard and looking at the screen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

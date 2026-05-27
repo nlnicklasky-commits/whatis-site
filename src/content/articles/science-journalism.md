@@ -5,7 +5,7 @@ description: "Science journalism is the practice of reporting on scientific rese
 category: everyday-concepts
 tags: ["science", "journalism", "science communication", "research", "public understanding", "scientific literacy"]
 heroImage: "/images/articles/science-journalism-hero.webp"
-heroAlt: "Science journalism translates research findings into stories the public can understand"
+heroAlt: "A woman in a business suit looking at a document while two men in lab coats are discussing something in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Agriculture is the practice of cultivating plants, raising animals
 category: science
 tags: ["agriculture", "farming", "cultivation", "livestock", "crops", "agronomy", "food production"]
 heroImage: "/images/articles/agriculture-hero.webp"
-heroAlt: "Agriculture is the practice of cultivating crops and raising livestock for food, fiber, and fuel"
+heroAlt: "A person's hands gently holding a young plant sprouting from the soil in a lush, green field"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

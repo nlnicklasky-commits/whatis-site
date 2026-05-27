@@ -5,7 +5,7 @@ description: "Coral reef ecology studies the complex relationships within reef e
 category: science
 tags: ["marine biology", "ecology", "oceanography", "biodiversity", "conservation", "coral reefs", "ecosystems"]
 heroImage: "/images/articles/coral-reef-ecology-hero.webp"
-heroAlt: "Coral reef ecology studies the complex relationships within reef ecosystems"
+heroAlt: "A vibrant underwater scene with a variety of colorful coral formations and small fish swimming among them"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

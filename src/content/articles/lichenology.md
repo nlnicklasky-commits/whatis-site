@@ -5,7 +5,7 @@ description: "Lichenology is the branch of biology devoted to the study of liche
 category: science
 tags: ["lichenology", "lichens", "symbiosis", "biology", "ecology", "fungi", "algae"]
 heroImage: "/images/articles/lichenology-hero.webp"
-heroAlt: "Lichenology is the study of lichens, organisms formed by symbiosis between fungi and algae"
+heroAlt: "A close-up view of a tree trunk covered in vibrant yellow lichen, creating a striking contrast against the dark bark"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Graphic design uses typography, imagery, and layout to communicate
 category: arts-amp-culture
 tags: ["graphic design", "design", "visual communication", "branding", "typography", "logo design"]
 heroImage: "/images/articles/graphic-design-hero.webp"
-heroAlt: "Graphic design uses typography, imagery, and layout to communicate ideas visually"
+heroAlt: "A woman in a business suit is sitting at a desk, working on a laptop and tablet, with a coffee mug and other office supplies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

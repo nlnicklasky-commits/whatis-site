@@ -5,7 +5,7 @@ description: "Real estate development is the process of creating value by transf
 category: business
 tags: ["real estate", "development", "property", "construction"]
 heroImage: "/images/articles/real-estate-development-hero.webp"
-heroAlt: "Real estate development is the process of creating value by improving land and buildings"
+heroAlt: "A person's hands holding a printed architectural drawing of a city skyline, with a desk and other office supplies visible"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

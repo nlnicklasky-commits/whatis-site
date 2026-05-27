@@ -5,7 +5,7 @@ description: "Image processing is manipulating digital images using algorithms t
 category: everyday-concepts
 tags: ["image processing", "computer vision", "digital imaging", "photography", "algorithms"]
 heroImage: "/images/articles/image-processing-hero.webp"
-heroAlt: "Image processing is manipulating digital images using algorithms to enhance, analyze, or extract information"
+heroAlt: "The woman is holding a camera and adjusting the settings, likely preparing to take a photograph"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Popular culture — pop culture — is the collection of ideas, im
 category: arts-amp-culture
 tags: ["popular culture", "pop culture", "mass media", "trends", "mainstream", "cultural phenomena"]
 heroImage: "/images/articles/popular-culture-hero.webp"
-heroAlt: "Popular culture is the set of ideas, images, and phenomena that dominate mainstream society"
+heroAlt: "A smiling woman in a plaid jacket holding a smartphone in a busy urban setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

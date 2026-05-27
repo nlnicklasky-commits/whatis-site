@@ -5,7 +5,7 @@ description: "Scientific illustration is the practice of creating accurate, deta
 category: arts-amp-culture
 tags: ["scientific illustration", "biology", "anatomy", "botany", "art", "science communication"]
 heroImage: "/images/articles/scientific-illustration-hero.webp"
-heroAlt: "Scientific illustration is the art of depicting scientific subjects with accuracy and clarity"
+heroAlt: "The woman is sitting at a desk, focused on drawing or writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

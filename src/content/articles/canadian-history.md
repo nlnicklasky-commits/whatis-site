@@ -5,7 +5,7 @@ description: "Canadian history is the story of the land, peoples, and events tha
 category: history
 tags: ["canadian history", "canada", "indigenous peoples", "confederation"]
 heroImage: "/images/articles/canadian-history-hero.webp"
-heroAlt: "Canadian history is the story of the land, peoples, and events that shaped Canada"
+heroAlt: "The man with the gray beard and white hair is reading a book or document in a room with various objects, including a statue"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

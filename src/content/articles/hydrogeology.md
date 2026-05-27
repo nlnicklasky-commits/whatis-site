@@ -5,7 +5,7 @@ description: "Hydrogeology is the branch of geology that studies groundwater —
 category: science
 tags: ["hydrogeology", "groundwater", "hydrology", "geology", "water resources", "aquifers", "water quality"]
 heroImage: "/images/articles/hydrogeology-hero.webp"
-heroAlt: "Hydrogeology studies groundwater — how it moves, where it collects, and why it matters"
+heroAlt: "A man in a tan jacket and hat is crouched down and using a handheld device to measure the soil in a desert-like environment"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Real analysis is the branch of mathematics that provides rigorous 
 category: everyday-concepts
 tags: ["real analysis", "mathematics", "calculus", "limits", "continuity", "proofs"]
 heroImage: "/images/articles/real-analysis-hero.webp"
-heroAlt: "Real analysis is the rigorous mathematical study of real numbers, sequences, limits, and continuity"
+heroAlt: "The man is sitting at a desk, focused on writing something on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Meteorology is the scientific study of the atmosphere and weather.
 category: science
 tags: ["meteorology", "weather", "atmosphere", "climate", "forecasting", "storms", "earth science"]
 heroImage: "/images/articles/meteorology-hero.webp"
-heroAlt: "Meteorology is the scientific study of the atmosphere and weather"
+heroAlt: "A man in a suit is sitting at a desk in front of a large computer screen displaying multiple weather maps and charts"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

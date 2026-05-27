@@ -5,7 +5,7 @@ description: "Paleoecology reconstructs ancient ecosystems using fossils, sedime
 category: science
 tags: ["paleoecology", "ancient ecosystems", "paleontology", "ecology", "fossils", "paleoenvironments", "environmental history"]
 heroImage: "/images/articles/paleoecology-hero.webp"
-heroAlt: "Paleoecology reconstructs ancient ecosystems using fossils, sediment cores"
+heroAlt: "The man is carefully examining the rock formation with a magnifying glass, likely searching for fossilized remains or"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

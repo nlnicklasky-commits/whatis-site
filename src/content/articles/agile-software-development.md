@@ -5,7 +5,7 @@ description: "Agile software development is a set of principles and practices fo
 category: technology
 tags: ["agile", "agile software development", "scrum", "kanban", "project management", "software development", "technology"]
 heroImage: "/images/articles/agile-software-development-hero.webp"
-heroAlt: "Agile software development is a set of principles and practices for building software through short"
+heroAlt: "A laptop displaying a graph or chart, with a person sitting at a table in the background"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

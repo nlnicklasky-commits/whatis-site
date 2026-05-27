@@ -5,7 +5,7 @@ description: "Television production is the complete process of creating televisi
 category: arts-amp-culture
 tags: ["television production", "tv production", "filmmaking", "media production", "broadcasting", "pre-production"]
 heroImage: "/images/articles/television-production-hero.webp"
-heroAlt: "Television production is the process of creating TV content from concept to broadcast"
+heroAlt: "A man operating a video camera in a studio with green screens and lighting equipment in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

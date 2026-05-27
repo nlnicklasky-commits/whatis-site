@@ -5,7 +5,7 @@ description: "Small engine repair covers fixing and maintaining compact engines 
 category: everyday-concepts
 tags: ["small engine repair", "maintenance", "lawn mower", "chainsaw", "two-stroke", "four-stroke"]
 heroImage: "/images/articles/small-engine-repair-hero.webp"
-heroAlt: "Small engine repair covers fixing and maintaining compact engines in lawn mowers, chainsaws, and generators"
+heroAlt: "Two men working on a car engine in a garage"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

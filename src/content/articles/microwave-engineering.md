@@ -5,7 +5,7 @@ description: "Microwave engineering is the branch of electrical engineering that
 category: technology
 tags: ["microwave engineering", "electromagnetics", "rf engineering", "antennas", "radar", "telecommunications", "electronics"]
 heroImage: "/images/articles/microwave-engineering-hero.webp"
-heroAlt: "Microwave engineering deals with electromagnetic waves from 300 MHz to 300 GHz"
+heroAlt: "The woman is wearing a white lab coat and glasses, and is working on a complex piece of equipment in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

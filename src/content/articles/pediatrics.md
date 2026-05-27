@@ -5,7 +5,7 @@ description: "Pediatrics is the medical specialty focused on the health of infan
 category: health-amp-wellness
 tags: ["pediatrics", "child health", "children's medicine", "healthcare"]
 heroImage: "/images/articles/pediatrics-hero.webp"
-heroAlt: "Pediatrics is the medical specialty focused on the health of infants, children, and adolescents"
+heroAlt: "A doctor examining a young child in a medical setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

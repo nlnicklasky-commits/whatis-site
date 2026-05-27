@@ -5,7 +5,7 @@ description: "Dried flowers are preserved blooms used in arrangements, crafts, a
 category: everyday-concepts
 tags: ["dried flowers", "everyday-concepts"]
 heroImage: "/images/articles/dried-flowers-hero.webp"
-heroAlt: "Dried flowers are preserved blooms used in arrangements, crafts, and decor"
+heroAlt: "A white vase with a handle, filled with a bouquet of dried flowers, sits on a wooden surface against a gray background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

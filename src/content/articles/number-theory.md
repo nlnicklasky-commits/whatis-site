@@ -5,7 +5,7 @@ description: "Number theory is the branch of mathematics devoted to studying int
 category: science
 tags: ["number theory", "mathematics", "integers", "prime numbers", "cryptography", "algebra", "divisibility"]
 heroImage: "/images/articles/number-theory-hero.webp"
-heroAlt: "Number theory studies the properties of integers, primes, and divisibility"
+heroAlt: "A man sitting at a desk in front of a chalkboard filled with mathematical equations and diagrams"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

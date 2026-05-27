@@ -5,7 +5,7 @@ description: "Pulmonology is the branch of medicine that deals with diseases and
 category: health-amp-wellness
 tags: ["pulmonology", "respiratory system", "lungs", "asthma"]
 heroImage: "/images/articles/pulmonology-hero.webp"
-heroAlt: "Pulmonology is the medical specialty focused on the lungs and respiratory system"
+heroAlt: "A doctor examining a patient in a medical setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

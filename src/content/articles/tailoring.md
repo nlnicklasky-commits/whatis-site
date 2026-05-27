@@ -5,7 +5,7 @@ description: "Tailoring is the craft of cutting and sewing fabric to create fitt
 category: everyday-concepts
 tags: ["tailoring", "fashion", "sewing", "bespoke", "garments", "craft"]
 heroImage: "/images/articles/tailoring-hero.webp"
-heroAlt: "Tailoring is the craft of cutting and sewing fabric to create fitted garments"
+heroAlt: "A man in a suit is working on tailoring a suit in a workshop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

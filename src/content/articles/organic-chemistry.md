@@ -5,7 +5,7 @@ description: "Organic chemistry studies carbon-based compounds, their structures
 category: science
 tags: ["organic chemistry", "carbon compounds", "functional groups", "chemical reactions", "synthesis", "biochemistry"]
 heroImage: "/images/articles/organic-chemistry-hero.webp"
-heroAlt: "Organic chemistry studies carbon-based compounds, their structures, reactions, and synthesis"
+heroAlt: "A man in a laboratory coat and safety goggles working with various scientific equipment and glassware"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

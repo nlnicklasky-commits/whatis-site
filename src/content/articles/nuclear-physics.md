@@ -5,7 +5,7 @@ description: "Nuclear physics is the branch of physics that studies the atomic n
 category: everyday-concepts
 tags: ["nuclear physics", "atomic energy", "radioactivity", "fission", "fusion", "particle physics"]
 heroImage: "/images/articles/nuclear-physics-hero.webp"
-heroAlt: "Nuclear physics studies the atomic nucleus and the forces holding it together"
+heroAlt: "A person in a laboratory setting, wearing a white lab coat and a face mask, writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

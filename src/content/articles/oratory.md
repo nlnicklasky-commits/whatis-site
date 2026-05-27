@@ -5,7 +5,7 @@ description: "Oratory is the art of public speaking — specifically, speaking d
 category: everyday-concepts
 tags: ["oratory", "public speaking", "rhetoric", "persuasion", "communication", "speech"]
 heroImage: "/images/articles/oratory-hero.webp"
-heroAlt: "Oratory is the art of public speaking, using rhetoric and persuasion to move audiences"
+heroAlt: "An elderly man with a long white beard and glasses, who is gesturing with his hand"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

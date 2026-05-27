@@ -5,7 +5,7 @@ description: "Political science is the systematic study of politics, government,
 category: everyday-concepts
 tags: ["politics", "government", "power", "public policy", "international relations", "political theory"]
 heroImage: "/images/articles/political-science-hero.webp"
-heroAlt: "Political science studies how governments, power structures, and public policies work"
+heroAlt: "A man in a suit and glasses gesturing while speaking in front of a group of people in a classroom setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

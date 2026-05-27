@@ -5,7 +5,7 @@ description: "Road cycling is the practice of riding lightweight bicycles on pav
 category: sports
 tags: ["road cycling", "cycling", "bicycles", "endurance", "Tour de France", "fitness"]
 heroImage: "/images/articles/road-cycling-hero.webp"
-heroAlt: "Road cycling is the sport of riding lightweight bicycles on paved roads for fitness, competition, or recreation"
+heroAlt: "A man riding a bicycle on a road"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

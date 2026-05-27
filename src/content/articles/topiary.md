@@ -5,7 +5,7 @@ description: "Topiary is the horticultural art of clipping and training living p
 category: arts-amp-culture
 tags: ["topiary", "gardening", "horticulture", "garden art", "landscaping", "plants"]
 heroImage: "/images/articles/topiary-hero.webp"
-heroAlt: "Topiary is the art of trimming and training plants into decorative shapes"
+heroAlt: "A large, meticulously trimmed box-like structure made of lush, green foliage"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

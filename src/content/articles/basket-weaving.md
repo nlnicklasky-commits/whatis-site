@@ -5,7 +5,7 @@ description: "Basket weaving (also called basketry) is the craft of creating con
 category: arts-amp-culture
 tags: ["basket weaving", "basketry", "traditional craft", "fiber art", "handmade", "natural materials"]
 heroImage: "/images/articles/basket-weaving-hero.webp"
-heroAlt: "Basket weaving (also called basketry) is the craft of creating containers and structures by interlacing flexible materials"
+heroAlt: "A person's hands working on a woven basket, surrounded by various crafting tools and materials on a wooden surface"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

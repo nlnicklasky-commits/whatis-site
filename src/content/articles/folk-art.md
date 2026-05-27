@@ -5,7 +5,7 @@ description: "Folk art is traditional creative work made by self-taught artists 
 category: arts-amp-culture
 tags: ["art", "crafts", "traditional art", "cultural heritage", "indigenous art", "self-taught artists"]
 heroImage: "/images/articles/folk-art-hero.webp"
-heroAlt: "Folk art is traditional creative work made by self-taught artists within cultural communities"
+heroAlt: "A bearded man working on a wooden bust in a workshop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

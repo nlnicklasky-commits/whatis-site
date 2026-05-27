@@ -5,7 +5,7 @@ description: "Deep learning is a subset of machine learning that uses artificial
 category: technology
 tags: ["deep learning", "neural networks", "ai", "machine learning", "computer vision", "nlp", "tensorflow"]
 heroImage: "/images/articles/deep-learning-hero.webp"
-heroAlt: "Deep learning uses multi-layered neural networks to learn patterns from data"
+heroAlt: "A man looking intently at a computer screen displaying a complex graph or chart"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

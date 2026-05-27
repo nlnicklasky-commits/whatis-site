@@ -5,7 +5,7 @@ description: "Movie memorabilia includes props, costumes, posters, and collectib
 category: arts-amp-culture
 tags: ["movie memorabilia", "film collectibles", "props", "Hollywood", "collecting", "entertainment"]
 heroImage: "/images/articles/movie-memorabilia-hero.webp"
-heroAlt: "Movie memorabilia includes props, costumes, posters, and collectibles from films"
+heroAlt: "A wooden director's chair with a leather seat and armrests, positioned in front of a window with sunlight streaming in"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

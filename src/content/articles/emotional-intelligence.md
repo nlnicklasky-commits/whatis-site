@@ -5,7 +5,7 @@ description: "Emotional intelligence (EI or EQ) is the capacity to recognize, un
 category: psychology
 tags: ["emotional intelligence", "eq", "emotions", "self-awareness", "empathy", "social skills", "psychology"]
 heroImage: "/images/articles/emotional-intelligence-hero.webp"
-heroAlt: "Emotional intelligence is the ability to recognize, understand, and manage emotions"
+heroAlt: "A group of people engaged in a discussion, smiling and focused on each other"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Electrochemistry studies how chemical reactions produce electricit
 category: science
 tags: ["electrochemistry", "chemistry", "electricity", "redox reactions", "batteries", "fuel cells", "electrolysis"]
 heroImage: "/images/articles/electrochemistry-hero.webp"
-heroAlt: "Electrochemistry studies how chemical reactions produce electricity and vice versa"
+heroAlt: "A woman in a laboratory setting, wearing a white lab coat and safety goggles, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

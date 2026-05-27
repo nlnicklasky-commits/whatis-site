@@ -5,7 +5,7 @@ description: "DIY electronics is the practice of designing, building, and modify
 category: technology
 tags: ["diy electronics", "electronics", "circuits", "arduino", "maker", "stem", "hobbyist"]
 heroImage: "/images/articles/diy-electronics-hero.webp"
-heroAlt: "DIY electronics is the practice of designing, building, and modifying electronic circuits and devices on your own"
+heroAlt: "A person's hands are seen working on a laptop, surrounded by various electronic components and tools, suggesting a workspace"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

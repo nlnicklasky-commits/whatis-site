@@ -5,7 +5,7 @@ description: "Solo performance is a theatrical form where one performer creates 
 category: arts-amp-culture
 tags: ["solo performance", "theater", "one-person show", "monologue", "storytelling", "stage"]
 heroImage: "/images/articles/solo-performance-hero.webp"
-heroAlt: "Solo performance is a theatrical form where one performer creates an entire show alone"
+heroAlt: "A single chair in a room with a wooden floor"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

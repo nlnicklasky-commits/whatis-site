@@ -5,7 +5,7 @@ description: "Tunneling is the engineering of underground passages through rock,
 category: technology
 tags: ["tunneling", "civil engineering", "construction", "infrastructure", "underground"]
 heroImage: "/images/articles/tunneling-hero.webp"
-heroAlt: "Tunneling is the engineering of underground passages through rock, soil, or water"
+heroAlt: "A construction worker wearing a hard hat and safety vest, standing in a construction site with a large excavator visible"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

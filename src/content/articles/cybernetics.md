@@ -5,7 +5,7 @@ description: "Cybernetics is the interdisciplinary study of regulatory systems, 
 category: technology
 tags: ["cybernetics", "systems theory", "control systems", "feedback loops", "ai", "robotics", "communication"]
 heroImage: "/images/articles/cybernetics-hero.webp"
-heroAlt: "Cybernetics studies how systems regulate themselves through feedback"
+heroAlt: "A person in a lab coat and safety goggles, holding a small object and examining it closely"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

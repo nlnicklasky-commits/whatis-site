@@ -5,7 +5,7 @@ description: "Laser technology uses focused beams of coherent light for cutting,
 category: everyday-concepts
 tags: ["laser technology", "physics", "optics", "light", "photonics", "engineering"]
 heroImage: "/images/articles/laser-technology-hero.webp"
-heroAlt: "Laser technology uses focused beams of coherent light for cutting, communication, medicine, and more"
+heroAlt: "A close-up view of a laser cutting or welding machine, with sparks and light emanating from the cutting process"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

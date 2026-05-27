@@ -5,7 +5,7 @@ description: "A tea ceremony is a ritualized practice of preparing and serving t
 category: arts-amp-culture
 tags: ["tea ceremony", "japanese tea ceremony", "chanoyu", "gongfu cha", "tea", "culture"]
 heroImage: "/images/articles/tea-ceremony-hero.webp"
-heroAlt: "A tea ceremony is a ritualized practice of preparing and serving tea, rooted in Japanese and Chinese traditions"
+heroAlt: "A person in a blue robe is holding a ceramic bowl with a green liquid inside, surrounded by various tea-making accessories"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

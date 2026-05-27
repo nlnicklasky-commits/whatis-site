@@ -5,7 +5,7 @@ description: "Pizza making is the craft of preparing dough, sauce, and toppings 
 category: everyday-concepts
 tags: ["cooking", "food", "pizza", "baking", "dough", "culinary"]
 heroImage: "/images/articles/pizza-making-hero.webp"
-heroAlt: "Pizza making is the craft of preparing dough, sauce, and toppings to create one of the world's favorite foods"
+heroAlt: "The chef is carefully placing the toppings on the pizza"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

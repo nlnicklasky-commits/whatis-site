@@ -5,7 +5,7 @@ description: "Artificial intelligence is the field of building machines that can
 category: technology
 tags: ["artificial intelligence", "ai", "machine learning", "deep learning", "neural networks", "technology", "computer science"]
 heroImage: "/images/articles/artificial-intelligence-hero.webp"
-heroAlt: "Artificial intelligence is the field of building machines that can perform tasks requiring human-like reasoning"
+heroAlt: "A smiling woman in a grey blazer is sitting at a desk, working on a computer and holding a smartphone"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

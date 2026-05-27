@@ -5,7 +5,7 @@ description: "Sociology studies human societies, social institutions, and group 
 category: social-sciences
 tags: ["sociology", "society", "social institutions", "Durkheim", "Weber", "research methods"]
 heroImage: "/images/articles/sociology-hero.webp"
-heroAlt: "Sociology studies human societies, social institutions, and group behavior"
+heroAlt: "A group of people sitting around a table, smiling and engaged in conversation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

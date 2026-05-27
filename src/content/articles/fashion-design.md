@@ -5,7 +5,7 @@ description: "Fashion design is the art of applying aesthetics, cultural awarene
 category: arts-amp-culture
 tags: ["fashion", "design", "clothing", "apparel", "textiles", "trends"]
 heroImage: "/images/articles/fashion-design-hero.webp"
-heroAlt: "Fashion design is the art of creating clothing and accessories"
+heroAlt: "A woman is sitting at a desk, working on a piece of paper or sketching, surrounded by clothing and other office supplies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

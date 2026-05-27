@@ -5,7 +5,7 @@ description: "Computer architecture is the design and specification of a compute
 category: technology
 tags: ["computer science", "hardware", "processor", "memory", "system design", "computing", "engineering"]
 heroImage: "/images/articles/computer-architecture-hero.webp"
-heroAlt: "Computer architecture is the design and specification of a computer's fundamental operational structure"
+heroAlt: "A man in a black turtleneck is leaning over a laptop, focused on the screen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

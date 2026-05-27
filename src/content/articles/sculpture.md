@@ -5,7 +5,7 @@ description: "Sculpture is the art of creating three-dimensional forms — objec
 category: arts-amp-culture
 tags: ["sculpture", "art", "three-dimensional art", "statue", "public art", "carving"]
 heroImage: "/images/articles/sculpture-hero.webp"
-heroAlt: "Sculpture is three-dimensional art created by shaping materials like stone, metal, clay, or wood"
+heroAlt: "A person's hands shaping a piece of clay on a wooden workbench in a studio setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

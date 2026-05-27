@@ -5,7 +5,7 @@ description: "Whale watching is the observation of whales and dolphins in their 
 category: lifestyle
 tags: ["whale watching", "marine life", "ecotourism", "whales", "ocean wildlife", "nature"]
 heroImage: "/images/articles/whale-watching-hero.webp"
-heroAlt: "Whale watching is the observation of whales and dolphins in their natural habitat"
+heroAlt: "A man with a long beard and a purple beanie is holding a camera and looking intently at something off-camera"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

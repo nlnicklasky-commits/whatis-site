@@ -5,7 +5,7 @@ description: "Squash is a racquet sport played by two players (or four in double
 category: sports
 tags: ["squash", "racquet sports", "fitness", "court sports", "Olympics", "exercise"]
 heroImage: "/images/articles/squash-hero.webp"
-heroAlt: "Squash is a fast-paced racquet sport played in a four-walled court"
+heroAlt: "A man playing squash"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

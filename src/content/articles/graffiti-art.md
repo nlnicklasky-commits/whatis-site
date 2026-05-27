@@ -5,7 +5,7 @@ description: "Graffiti art is visual expression created on public surfaces, from
 category: everyday-concepts
 tags: ["graffiti art", "street art", "urban art", "murals", "spray paint", "culture"]
 heroImage: "/images/articles/graffiti-art-hero.webp"
-heroAlt: "Graffiti art is visual expression created on public surfaces, from tags to murals"
+heroAlt: "A colorful, abstract graffiti-style mural on a wall, with a blurred background that suggests an urban setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

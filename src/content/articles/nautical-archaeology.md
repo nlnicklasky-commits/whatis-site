@@ -5,7 +5,7 @@ description: "Nautical archaeology studies shipwrecks and underwater sites to un
 category: history
 tags: ["nautical archaeology", "underwater archaeology", "shipwrecks", "maritime history"]
 heroImage: "/images/articles/nautical-archaeology-hero.webp"
-heroAlt: "Nautical archaeology studies shipwrecks and underwater sites to understand maritime history"
+heroAlt: "A person wearing scuba gear and holding a piece of food, likely a snack or meal, while underwater in a coral reef environment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

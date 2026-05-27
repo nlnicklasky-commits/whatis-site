@@ -5,7 +5,7 @@ description: "Human resources — universally abbreviated to HR — is the depar
 category: everyday-concepts
 tags: ["human resources", "hr", "employment", "recruitment", "talent management", "workplace"]
 heroImage: "/images/articles/human-resources-hero.webp"
-heroAlt: "Human resources (HR) manages hiring, employee relations, benefits, and compliance in organizations"
+heroAlt: "An elderly man with a long white beard wearing a green jacket and holding a garland of orange flowers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

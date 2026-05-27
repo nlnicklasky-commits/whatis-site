@@ -5,7 +5,7 @@ description: "Iranian history spans over 5,000 years from ancient Persia to the 
 category: history
 tags: ["iranian history", "iran", "persia", "persian empires", "zoroastrianism", "islamic revolution"]
 heroImage: "/images/articles/iranian-history-hero.webp"
-heroAlt: "Iranian history spans over 5,000 years from ancient Persia to the modern Islamic Republic"
+heroAlt: "The man is examining a large, ornate vase in a museum setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

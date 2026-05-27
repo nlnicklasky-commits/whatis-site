@@ -5,7 +5,7 @@ description: "Basketball is a team sport in which two teams of five players each
 category: sports
 tags: ["basketball", "sport", "nba", "team sport", "court sports", "dribbling"]
 heroImage: "/images/articles/basketball-hero.webp"
-heroAlt: "Basketball is a team sport in which two teams of five players each compete on a rectangular court"
+heroAlt: "A basketball on a court"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

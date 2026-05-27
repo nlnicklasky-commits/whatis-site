@@ -5,7 +5,7 @@ description: "Wargaming is the hobby of simulating military conflicts using mini
 category: everyday-concepts
 tags: ["wargaming", "tabletop games", "strategy games", "miniatures", "military history", "board games"]
 heroImage: "/images/articles/wargaming-hero.webp"
-heroAlt: "Wargaming is the hobby of simulating military conflicts using miniatures, boards, or computers"
+heroAlt: "A collection of miniature toy tanks and soldiers arranged on a wooden table, along with various other items such as books"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

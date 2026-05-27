@@ -5,7 +5,7 @@ description: "A pontoon boat is a flat-decked watercraft supported by two or thr
 category: sports
 tags: ["boating", "pontoon boat", "recreational boating", "lake life", "water sports", "cruising"]
 heroImage: "/images/articles/pontoon-boating-hero.webp"
-heroAlt: "Pontoon boating uses flat-decked boats supported by aluminum tubes for relaxed cruising on lakes and rivers"
+heroAlt: "A man driving a blue pontoon boat on a body of water, with a forested shoreline in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

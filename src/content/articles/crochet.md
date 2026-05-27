@@ -5,7 +5,7 @@ description: "Crochet is a fiber craft that uses a single hooked needle to inter
 category: everyday-concepts
 tags: ["crochet", "everyday-concepts"]
 heroImage: "/images/articles/crochet-hero.webp"
-heroAlt: "Crochet is a fiber craft using a hooked needle to create fabric from yarn"
+heroAlt: "A person's hands working on a crochet project on a wooden surface"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

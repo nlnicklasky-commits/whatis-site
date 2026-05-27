@@ -5,7 +5,7 @@ description: "Myrmecology is the branch of entomology (insect science) dedicated
 category: science
 tags: ["myrmecology", "ants", "entomology", "social insects", "ant colonies", "insect biology", "ecology"]
 heroImage: "/images/articles/myrmecology-hero.webp"
-heroAlt: "Myrmecology is the scientific study of ants — the most successful social insects on Earth"
+heroAlt: "The man is examining a moss-covered log with a magnifying glass in a forest setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Parasitology studies parasites and their hosts. Learn about the ma
 category: science
 tags: ["parasitology", "parasites", "infectious diseases", "epidemiology", "public health", "biology", "protozoa"]
 heroImage: "/images/articles/parasitology-hero.webp"
-heroAlt: "Parasitology studies parasites and their hosts"
+heroAlt: "A man in a white lab coat is intently examining a sample under a microscope in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

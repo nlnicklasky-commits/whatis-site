@@ -5,7 +5,7 @@ description: "African history spans millions of years of human development, anci
 category: history
 tags: ["african history", "africa", "history", "civilizations", "colonialism"]
 heroImage: "/images/articles/african-history-hero.webp"
-heroAlt: "African history spans millions of years of human development, ancient civilizations, empires, colonialism"
+heroAlt: "A lone, twisted tree stands in a vast, golden field under a blue sky with fluffy white clouds"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

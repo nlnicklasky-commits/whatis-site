@@ -5,7 +5,7 @@ description: "Hunting is pursuing and taking wild animals for food, conservation
 category: everyday-concepts
 tags: ["hunting", "wildlife management", "conservation", "outdoor recreation", "game meat", "subsistence"]
 heroImage: "/images/articles/hunting-hero.webp"
-heroAlt: "Hunting is pursuing and taking wild animals for food, conservation, or sport"
+heroAlt: "A man wearing a cowboy hat and camouflage jacket, sitting in a field with a focused expression"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

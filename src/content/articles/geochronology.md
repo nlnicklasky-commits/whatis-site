@@ -5,7 +5,7 @@ description: "Geochronology is the science of determining the ages of rocks, fos
 category: science
 tags: ["geochronology", "geology", "dating", "radioactive decay", "isotopes", "earth history", "radiometric dating"]
 heroImage: "/images/articles/geochronology-hero.webp"
-heroAlt: "Geochronology is the science of determining the ages of rocks, fossils"
+heroAlt: "A woman in a blue jacket is crouched down and examining something in her hands, which appears to be a small object or tool"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

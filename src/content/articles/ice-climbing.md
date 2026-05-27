@@ -5,7 +5,7 @@ description: "Ice climbing is the sport of ascending frozen waterfalls, ice-cove
 category: sports
 tags: ["ice climbing", "mountaineering", "winter sports", "climbing", "ice axes", "crampons"]
 heroImage: "/images/articles/ice-climbing-hero.webp"
-heroAlt: "Ice climbing is ascending frozen waterfalls and ice formations using specialized gear"
+heroAlt: "A person climbing up an icy, snow-covered cliff face with a backpack"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

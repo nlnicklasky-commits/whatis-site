@@ -5,7 +5,7 @@ description: "Ultrasonography is a medical imaging technique that uses high-freq
 category: health-amp-wellness
 tags: ["ultrasonography", "ultrasound", "medical imaging", "diagnostics"]
 heroImage: "/images/articles/ultrasonography-hero.webp"
-heroAlt: "Ultrasonography uses high-frequency sound waves to create images inside the body"
+heroAlt: "A doctor examining a medical scan on a computer screen while a patient lies in a hospital bed"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Neoclassicism is an artistic and architectural movement that looke
 category: everyday-concepts
 tags: ["neoclassicism", "art history", "architecture", "classical art", "enlightenment", "sculpture"]
 heroImage: "/images/articles/neoclassicism-hero.webp"
-heroAlt: "Neoclassicism is an art and architectural movement inspired by ancient Greece and Rome"
+heroAlt: "Neoclassical architecture"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

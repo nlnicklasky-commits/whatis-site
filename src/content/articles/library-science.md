@@ -5,7 +5,7 @@ description: "Library science is the academic and professional discipline concer
 category: technology
 tags: ["library science", "information science", "cataloging", "archives", "knowledge management", "digital libraries", "research"]
 heroImage: "/images/articles/library-science-hero.webp"
-heroAlt: "Library science is the study of how information is organized, preserved, and made accessible"
+heroAlt: "A young woman is sitting at a desk, focused on working on a computer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

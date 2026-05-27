@@ -5,7 +5,7 @@ description: "Sports psychology studies mental factors that affect athletic perf
 category: health-amp-wellness
 tags: ["psychology", "sports psychology", "mental performance", "athletics"]
 heroImage: "/images/articles/sports-psychology-hero.webp"
-heroAlt: "Sports psychology studies mental factors that affect athletic performance"
+heroAlt: "The two men are engaged in a conversation in a gym setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

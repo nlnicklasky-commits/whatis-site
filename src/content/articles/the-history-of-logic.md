@@ -5,7 +5,7 @@ description: "The history of logic is the story of how humans learned to think a
 category: history
 tags: ["history of logic", "logic", "philosophy", "aristotle", "formal logic"]
 heroImage: "/images/articles/the-history-of-logic-hero.webp"
-heroAlt: "The history of logic is the story of how humans learned to think about thinking"
+heroAlt: "The woman sitting at a desk in front of a laptop and a stack of books, with a bookshelf in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Falconry is the practice of hunting wild game using trained birds 
 category: sports
 tags: ["birds of prey", "raptors", "hunting", "avian", "conservation", "traditional sport"]
 heroImage: "/images/articles/falconry-hero.webp"
-heroAlt: "Falconry is the ancient art of hunting with trained birds of prey"
+heroAlt: "A man with a beard and a glove is holding a falcon in a field"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

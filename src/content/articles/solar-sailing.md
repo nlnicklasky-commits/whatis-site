@@ -5,7 +5,7 @@ description: "Solar sailing propels spacecraft using pressure from sunlight on l
 category: everyday-concepts
 tags: ["solar sailing", "space propulsion", "spacecraft", "photon pressure", "NASA", "space exploration"]
 heroImage: "/images/articles/solar-sailing-hero.webp"
-heroAlt: "Solar sailing propels spacecraft using pressure from sunlight on large reflective sails"
+heroAlt: "A surface with numerous small, glowing dots or specks of light, creating a visually striking and abstract pattern"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

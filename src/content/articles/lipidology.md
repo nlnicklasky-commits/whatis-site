@@ -5,7 +5,7 @@ description: "Lipidology is the branch of medicine dedicated to the study, diagn
 category: health-amp-wellness
 tags: ["medicine", "lipidology", "cholesterol", "cardiovascular health", "nutrition"]
 heroImage: "/images/articles/lipidology-hero.webp"
-heroAlt: "Lipidology is the branch of medicine dedicated to the study, diagnosis, and treatment of lipid disorders"
+heroAlt: "A man in a lab coat examining a smartphone"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

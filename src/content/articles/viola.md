@@ -5,7 +5,7 @@ description: "The viola is a string instrument slightly larger than a violin, pr
 category: arts-amp-culture
 tags: ["viola", "string instruments", "orchestra", "music", "classical music", "chamber music"]
 heroImage: "/images/articles/viola-hero.webp"
-heroAlt: "The viola is a string instrument slightly larger than a violin, producing a warm, rich alto tone"
+heroAlt: "Vibrant purple flowers with delicate petals and green leaves"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

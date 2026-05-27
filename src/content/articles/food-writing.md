@@ -5,7 +5,7 @@ description: "Food writing is any written work that takes food as its primary su
 category: arts-amp-culture
 tags: ["food", "writing", "culinary arts", "journalism", "culture", "recipes"]
 heroImage: "/images/articles/food-writing-hero.webp"
-heroAlt: "Food writing covers restaurant reviews, cookbooks, food journalism, and culinary memoir"
+heroAlt: "The chef is preparing a meal in a kitchen"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

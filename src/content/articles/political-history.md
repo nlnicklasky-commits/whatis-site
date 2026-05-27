@@ -5,7 +5,7 @@ description: "Political history studies how governments, leaders, and power stru
 category: history
 tags: ["history", "politics", "government", "power"]
 heroImage: "/images/articles/political-history-hero.webp"
-heroAlt: "Political history studies how governments, leaders, and power structures have shaped societies over time"
+heroAlt: "A woman in a dark suit and glasses is sitting at a desk in a library, reading a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

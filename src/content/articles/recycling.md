@@ -5,7 +5,7 @@ description: "Recycling is the process of collecting waste materials and convert
 category: everyday-concepts
 tags: ["recycling", "environment", "waste management", "sustainability", "conservation", "materials"]
 heroImage: "/images/articles/recycling-hero.webp"
-heroAlt: "Recycling converts waste materials into new products, reducing landfill use and conserving resources"
+heroAlt: "A person wearing yellow gloves is sorting through a large pile of plastic bottles and containers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

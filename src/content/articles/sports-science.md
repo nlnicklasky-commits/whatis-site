@@ -5,7 +5,7 @@ description: "Sports science applies biology, physics, and psychology to improve
 category: science
 tags: ["sports", "exercise science", "physiology", "biomechanics", "nutrition", "performance"]
 heroImage: "/images/articles/sports-science-hero.webp"
-heroAlt: "Sports science applies biology, physics, and psychology to improve athletic performance, prevent injuries"
+heroAlt: "A man is running on a treadmill while a woman in a white coat is looking at a tablet"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

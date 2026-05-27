@@ -5,7 +5,7 @@ description: "Iconography is the study of images, symbols, and visual convention
 category: everyday-concepts
 tags: ["iconography", "art history", "symbols", "visual culture", "religious art"]
 heroImage: "/images/articles/iconography-hero.webp"
-heroAlt: "Iconography is the study of visual symbols and images in art"
+heroAlt: "A person's hands holding a small statue of a religious figure, likely a saint or deity, with a cross symbol above it"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

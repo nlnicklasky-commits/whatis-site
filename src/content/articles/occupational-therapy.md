@@ -5,7 +5,7 @@ description: "Occupational therapy (OT) is a healthcare profession that helps pe
 category: health-amp-wellness
 tags: ["occupational therapy", "rehabilitation", "healthcare", "therapy"]
 heroImage: "/images/articles/occupational-therapy-hero.webp"
-heroAlt: "Occupational therapy helps people perform daily activities after injury, illness, or disability"
+heroAlt: "Three women sitting on a couch, smiling and holding a small object together"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

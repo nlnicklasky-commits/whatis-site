@@ -5,7 +5,7 @@ description: "Choral music is music written for a choir — a group of singers p
 category: arts-amp-culture
 tags: ["choral music", "choir", "singing", "vocal music", "classical music", "performance"]
 heroImage: "/images/articles/choral-music-hero.webp"
-heroAlt: "Choral music is music written for a choir — a group of singers performing together"
+heroAlt: "A large group of people, predominantly women, are singing together in a church or cathedral"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

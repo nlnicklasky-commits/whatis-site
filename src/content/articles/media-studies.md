@@ -5,7 +5,7 @@ description: "Media studies is the academic field examining how media shapes soc
 category: arts-amp-culture
 tags: ["media studies", "communications", "journalism", "cultural studies", "media literacy", "mass media"]
 heroImage: "/images/articles/media-studies-hero.webp"
-heroAlt: "Media studies is the academic field examining how media shapes society, culture, and politics"
+heroAlt: "A person's hands holding a pen, writing on a piece of paper while using a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

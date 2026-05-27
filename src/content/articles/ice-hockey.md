@@ -5,7 +5,7 @@ description: "Ice hockey is a team sport played on an enclosed ice rink where tw
 category: sports
 tags: ["ice hockey", "hockey", "winter sports", "team sports", "nhl", "puck"]
 heroImage: "/images/articles/ice-hockey-hero.webp"
-heroAlt: "Ice hockey is a fast team sport played on ice where skaters use sticks to shoot a puck into the goal"
+heroAlt: "Ice hockey player wearing a helmet and jersey"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

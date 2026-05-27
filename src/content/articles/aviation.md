@@ -5,7 +5,7 @@ description: "Aviation is the science, engineering, and practice of designing, b
 category: technology
 tags: ["aviation", "flight", "aircraft", "airplanes", "aerodynamics", "aerospace", "pilot"]
 heroImage: "/images/articles/aviation-hero.webp"
-heroAlt: "Aviation is the science and practice of flight"
+heroAlt: "The pilot is wearing an orange jacket and a headset, and is operating the controls of the aircraft"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

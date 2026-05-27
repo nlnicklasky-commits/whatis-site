@@ -5,7 +5,7 @@ description: "Psycholinguistics is the study of how humans process, produce, and
 category: science
 tags: ["psycholinguistics", "psychology", "linguistics", "language acquisition", "language comprehension", "speech production"]
 heroImage: "/images/articles/psycholinguistics-hero.webp"
-heroAlt: "Psycholinguistics is the study of how humans process, produce, and acquire language"
+heroAlt: "A young woman with curly hair is sitting at a desk, writing in a notebook while surrounded by books and plants"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Speech pathology — formally called speech-language pathology —
 category: health-amp-wellness
 tags: ["speech pathology", "speech therapy", "communication disorders", "healthcare"]
 heroImage: "/images/articles/speech-pathology-hero.webp"
-heroAlt: "Speech pathology diagnoses and treats communication and swallowing disorders"
+heroAlt: "A smiling female doctor in a white coat and stethoscope, engaged in a conversation with a patient"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

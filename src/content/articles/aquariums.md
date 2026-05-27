@@ -5,7 +5,7 @@ description: "An aquarium is a water-filled enclosure — from a small glass tan
 category: everyday-concepts
 tags: ["aquarium", "fishkeeping", "aquascape", "marine biology", "fish", "pets"]
 heroImage: "/images/articles/aquariums-hero.webp"
-heroAlt: "An aquarium is a transparent container or facility housing aquatic organisms"
+heroAlt: "A vibrant underwater scene with a diverse array of colorful fish swimming among coral formations"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

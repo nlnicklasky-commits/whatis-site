@@ -5,7 +5,7 @@ description: "Publishing is the process of making content — books, magazines, 
 category: everyday-concepts
 tags: ["publishing", "books", "magazines", "digital publishing", "content creation", "distribution"]
 heroImage: "/images/articles/publishing-hero.webp"
-heroAlt: "Publishing is the process of producing and distributing written content to the public"
+heroAlt: "A group of people sitting around a table, working on laptops and surrounded by books and other study materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Biological anthropology studies human evolution, genetics, primato
 category: everyday-concepts
 tags: ["biological anthropology", "anthropology", "evolution", "primatology", "genetics", "human biology"]
 heroImage: "/images/articles/biological-anthropology-hero.webp"
-heroAlt: "Biological anthropology studies human evolution, genetics, primatology"
+heroAlt: "A person's hands carefully excavating a fossilized skull from the ground, surrounded by rocks and dirt"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

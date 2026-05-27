@@ -5,7 +5,7 @@ description: "Prehistory is the period of human history before written records, 
 category: history
 tags: ["prehistory", "archaeology", "stone age", "neolithic revolution"]
 heroImage: "/images/articles/prehistory-hero.webp"
-heroAlt: "Prehistory is the period of human history before written records, spanning millions of years"
+heroAlt: "The hands of a person working on a craft project, surrounded by various objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Reiki is a Japanese energy healing technique developed in the 1920
 category: health-amp-wellness
 tags: ["alternative medicine", "reiki", "energy healing", "wellness"]
 heroImage: "/images/articles/reiki-hero.webp"
-heroAlt: "Reiki is a Japanese energy healing technique developed in the 1920s by Mikao Usui, a Buddhist practitioner from Kyoto"
+heroAlt: "The woman is providing a Reiki treatment to the person lying on the bed"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

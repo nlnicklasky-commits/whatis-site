@@ -5,7 +5,7 @@ description: "Finance is the discipline concerned with the management, creation,
 category: finance
 tags: ["money management", "investment", "banking", "capital markets", "economics", "financial services"]
 heroImage: "/images/articles/finance-hero.webp"
-heroAlt: "Finance is the study and management of money, investments, and financial systems"
+heroAlt: "A woman in a navy blue blazer standing confidently with her arms crossed in an office setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

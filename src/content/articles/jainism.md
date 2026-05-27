@@ -5,7 +5,7 @@ description: "Jainism is an ancient Indian religion emphasizing non-violence, tr
 category: religion
 tags: ["jainism", "religion", "non-violence", "ahimsa", "Indian religion"]
 heroImage: "/images/articles/jainism-hero.webp"
-heroAlt: "Jainism is an ancient Indian religion emphasizing non-violence, truth, and asceticism"
+heroAlt: "The man is wearing a white robe and has a long white beard"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

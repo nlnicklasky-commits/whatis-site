@@ -5,7 +5,7 @@ description: "Pension management is the process of administering, investing, and
 category: finance
 tags: ["pension management", "retirement planning", "defined benefit", "defined contribution", "actuarial science", "investment management"]
 heroImage: "/images/articles/pension-management-hero.webp"
-heroAlt: "Pension management is the process of administering, investing"
+heroAlt: "A man in a suit is sitting at a desk and working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

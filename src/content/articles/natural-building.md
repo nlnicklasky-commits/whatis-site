@@ -5,7 +5,7 @@ description: "Natural building is a construction approach that uses minimally pr
 category: everyday-concepts
 tags: ["natural building", "sustainable architecture", "green building", "eco-friendly", "straw bale", "cob"]
 heroImage: "/images/articles/natural-building-hero.webp"
-heroAlt: "Natural building uses earth, straw, wood, and other minimally processed materials to create structures"
+heroAlt: "A straw hut with a thatched roof, surrounded by grass and trees, in a rural setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

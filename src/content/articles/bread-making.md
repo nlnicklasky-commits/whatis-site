@@ -5,7 +5,7 @@ description: "Bread making is the process of combining flour, water, salt, and a
 category: everyday-concepts
 tags: ["bread making", "baking", "bread", "yeast", "sourdough", "gluten"]
 heroImage: "/images/articles/bread-making-hero.webp"
-heroAlt: "Bread making is the process of combining flour, water, salt, and a leavener to create dough that is shaped and baked"
+heroAlt: "A person's hands kneading dough on a wooden surface, surrounded by flour and other baking ingredients"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

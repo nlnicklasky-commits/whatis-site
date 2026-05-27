@@ -5,7 +5,7 @@ description: "Geography is the scientific study of places, spaces, and the relat
 category: science
 tags: ["geography", "physical geography", "human geography", "maps", "spatial analysis", "earth science", "environment"]
 heroImage: "/images/articles/geography-hero.webp"
-heroAlt: "Geography is the scientific study of places, spaces, and the relationships between people and their environments"
+heroAlt: "A group of people standing on a cliff, overlooking a valley with mountains in the background"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

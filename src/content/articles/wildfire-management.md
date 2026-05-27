@@ -5,7 +5,7 @@ description: "Wildfire management involves preventing, suppressing, and using fi
 category: science-technology
 tags: ["wildfire management", "firefighting", "prescribed burns", "forestry", "natural disasters", "ecology"]
 heroImage: "/images/articles/wildfire-management-hero.webp"
-heroAlt: "Wildfire management involves preventing, suppressing, and using fire to protect communities and ecosystems"
+heroAlt: "A firefighter in an orange uniform and yellow helmet is spraying water from a hose to extinguish a fire in a forested area"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

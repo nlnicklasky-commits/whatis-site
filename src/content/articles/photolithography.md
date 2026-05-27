@@ -5,7 +5,7 @@ description: "Photolithography is the process used to pattern microchips by proj
 category: everyday-concepts
 tags: ["photolithography", "semiconductors", "microchips", "manufacturing", "silicon", "technology"]
 heroImage: "/images/articles/photolithography-hero.webp"
-heroAlt: "Photolithography is the process used to pattern microchips by projecting light through masks onto silicon wafers"
+heroAlt: "A man in a white lab coat is examining a sample under a microscope in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

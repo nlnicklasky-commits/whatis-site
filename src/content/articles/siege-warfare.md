@@ -5,7 +5,7 @@ description: "Siege warfare is the military strategy of surrounding and attackin
 category: history
 tags: ["siege warfare", "military history", "fortifications", "medieval warfare"]
 heroImage: "/images/articles/siege-warfare-hero.webp"
-heroAlt: "Siege warfare is the military strategy of surrounding and attacking fortified positions"
+heroAlt: "A bearded man wearing a helmet and carrying a sword"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

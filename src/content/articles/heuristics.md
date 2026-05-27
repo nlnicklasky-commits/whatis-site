@@ -5,7 +5,7 @@ description: "Heuristics are mental shortcuts your brain uses to make quick deci
 category: everyday-concepts
 tags: ["heuristics", "psychology", "decision making", "cognitive science", "mental shortcuts"]
 heroImage: "/images/articles/heuristics-hero.webp"
-heroAlt: "Heuristics are mental shortcuts your brain uses to make quick decisions"
+heroAlt: "A man in a white coat sitting at a desk, writing on a piece of paper while using a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

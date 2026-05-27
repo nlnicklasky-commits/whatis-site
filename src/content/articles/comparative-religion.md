@@ -5,7 +5,7 @@ description: "Comparative religion is the academic discipline that studies the w
 category: philosophy
 tags: ["comparative religion", "religion", "religious studies", "theology", "faith", "spirituality", "culture"]
 heroImage: "/images/articles/comparative-religion-hero.webp"
-heroAlt: "Comparative religion is the academic discipline that studies the world's religious traditions systematically"
+heroAlt: "A group of people sitting around a table in a library or study room, engaged in discussion or study"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

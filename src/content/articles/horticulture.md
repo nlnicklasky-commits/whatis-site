@@ -5,7 +5,7 @@ description: "Horticulture is the branch of agriculture that deals with the scie
 category: science
 tags: ["horticulture", "gardening", "plants", "agriculture", "botany", "landscape design", "plant science"]
 heroImage: "/images/articles/horticulture-hero.webp"
-heroAlt: "Horticulture is the science and art of growing fruits, vegetables, flowers, and ornamental plants"
+heroAlt: "A woman tending to plants in a greenhouse"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

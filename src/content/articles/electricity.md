@@ -5,7 +5,7 @@ description: "Electricity is the flow of electric charge that powers modern life
 category: everyday-concepts
 tags: ["electricity", "everyday-concepts"]
 heroImage: "/images/articles/electricity-hero.webp"
-heroAlt: "Electricity is the flow of electric charge that powers modern life"
+heroAlt: "A sparkler or a piece of equipment emitting sparks"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

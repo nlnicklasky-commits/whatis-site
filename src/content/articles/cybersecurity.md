@@ -5,7 +5,7 @@ description: "Cybersecurity protects systems, networks, and data from digital at
 category: technology
 tags: ["cybersecurity", "information security", "hacking", "data protection", "network security", "encryption", "cyber threats"]
 heroImage: "/images/articles/cybersecurity-hero.webp"
-heroAlt: "Cybersecurity protects systems, networks, and data from digital attacks"
+heroAlt: "A long, dimly lit hallway with rows of computer servers on either side. The servers are illuminated by blue and pink lights"
 author: "WhatIs Editorial"
 datePublished: "2026-03-15"
 dateModified: "2026-05-12"

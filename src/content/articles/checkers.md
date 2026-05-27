@@ -5,7 +5,7 @@ description: "Checkers (draughts) is a two-player strategy board game played on 
 category: everyday-concepts
 tags: ["checkers", "draughts", "board games", "strategy", "games", "puzzles"]
 heroImage: "/images/articles/checkers-hero.webp"
-heroAlt: "Checkers (draughts) is a two-player strategy board game played on an 8x8 board where players capture opponent pieces"
+heroAlt: "A chessboard with pieces in red, black, and brown colors"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

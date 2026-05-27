@@ -5,7 +5,7 @@ description: "Radiology is the medical specialty that uses imaging technologies 
 category: health-amp-wellness
 tags: ["medical", "radiology", "imaging", "x-ray"]
 heroImage: "/images/articles/radiology-hero.webp"
-heroAlt: "Radiology uses imaging technologies like X-rays, CT, MRI, and ultrasound to diagnose and treat diseases"
+heroAlt: "Two scientists in a laboratory setting, one of whom is holding a computer monitor displaying an image of a human skeleton"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Permaculture is a design system for creating sustainable human hab
 category: everyday-concepts
 tags: ["permaculture", "sustainable living", "regenerative agriculture", "ecology", "food systems", "design"]
 heroImage: "/images/articles/permaculture-hero.webp"
-heroAlt: "Permaculture is a design system for sustainable living that mimics natural ecosystems"
+heroAlt: "A man in a hat tending to a garden with orange flowers"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

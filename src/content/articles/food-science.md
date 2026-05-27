@@ -5,7 +5,7 @@ description: "Food science is the applied discipline that uses biology, chemistr
 category: science
 tags: ["food", "food safety", "nutrition", "food processing", "food preservation", "microbiology", "food engineering"]
 heroImage: "/images/articles/food-science-hero.webp"
-heroAlt: "Food science is the applied discipline that uses biology, chemistry, and engineering to study the nature of food"
+heroAlt: "A woman in a lab coat and protective gear, working with various laboratory equipment and chemicals"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

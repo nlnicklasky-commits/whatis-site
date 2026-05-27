@@ -5,7 +5,7 @@ description: "Fountain pen collecting is the hobby of acquiring, using, and pres
 category: arts-amp-culture
 tags: ["collecting", "hobby", "writing instruments", "pens", "antiques", "craftsmanship"]
 heroImage: "/images/articles/fountain-pen-collecting-hero.webp"
-heroAlt: "Fountain pen collecting is the hobby of acquiring, using, and preserving fine writing instruments"
+heroAlt: "Fountain pens"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

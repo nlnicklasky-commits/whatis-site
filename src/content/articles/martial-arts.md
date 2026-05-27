@@ -5,7 +5,7 @@ description: "Martial arts are structured systems of combat practices — techni
 category: sports
 tags: ["martial arts", "self-defense", "combat sports", "karate", "judo", "fitness"]
 heroImage: "/images/articles/martial-arts-hero.webp"
-heroAlt: "Martial arts are codified fighting systems practiced for self-defense, fitness, and personal growth"
+heroAlt: "A man dressed in a black martial arts uniform with a red belt, who is performing a fighting stance in a martial arts studio"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

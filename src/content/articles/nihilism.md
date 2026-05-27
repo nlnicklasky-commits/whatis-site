@@ -5,7 +5,7 @@ description: "Nihilism is the philosophical position that life has no inherent m
 category: everyday-concepts
 tags: ["nihilism", "philosophy", "existentialism", "Nietzsche", "meaning of life", "metaphysics"]
 heroImage: "/images/articles/nihilism-hero.webp"
-heroAlt: "Nihilism is the philosophical view that life lacks objective meaning, purpose, or value"
+heroAlt: "A man wearing a hoodie and sunglasses sits on a bench in a park, with trees and street lamps in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

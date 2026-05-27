@@ -5,7 +5,7 @@ description: "Plumbing is the system of pipes, fixtures, valves, and fittings th
 category: everyday-concepts
 tags: ["construction", "home improvement", "water", "pipes", "drains", "maintenance"]
 heroImage: "/images/articles/plumbing-hero.webp"
-heroAlt: "Plumbing is the system of pipes, valves, and fixtures that delivers clean water and removes waste"
+heroAlt: "A man wearing a blue cap and overalls, working on a plumbing issue in a room with various tools and equipment visible"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

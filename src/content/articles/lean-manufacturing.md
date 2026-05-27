@@ -5,7 +5,7 @@ description: "Lean manufacturing is a systematic approach to production that see
 category: technology
 tags: ["lean manufacturing", "toyota production system", "waste reduction", "continuous improvement", "kaizen", "just-in-time", "efficiency"]
 heroImage: "/images/articles/lean-manufacturing-hero.webp"
-heroAlt: "Lean manufacturing is a production method focused on eliminating waste and maximizing value"
+heroAlt: "A man in a blue work uniform working on a piece of machinery at a workbench in a factory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

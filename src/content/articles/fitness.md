@@ -5,7 +5,7 @@ description: "Fitness is your body's ability to perform physical tasks effective
 category: health-amp-wellness
 tags: ["health", "exercise", "physical activity", "nutrition", "wellness", "strength training"]
 heroImage: "/images/articles/fitness-hero.webp"
-heroAlt: "Fitness is your body's ability to perform physical tasks effectively"
+heroAlt: "A woman in a black sports outfit is jogging on a sidewalk, with other people walking in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

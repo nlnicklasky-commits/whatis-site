@@ -5,7 +5,7 @@ description: "Business administration is the process of managing an organization
 category: finance
 tags: ["business administration", "management", "operations", "organizational goals", "finance", "marketing", "human resources"]
 heroImage: "/images/articles/business-administration-hero.webp"
-heroAlt: "Business administration is the process of managing an organization's resources — including people, finances, operations"
+heroAlt: "A smiling older man in a suit and a smiling younger woman in a black jacket are sitting together at a desk, with the woman"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

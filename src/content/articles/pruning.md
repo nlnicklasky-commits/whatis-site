@@ -5,7 +5,7 @@ description: "Pruning is the deliberate removal of specific parts of a plant —
 category: everyday-concepts
 tags: ["pruning", "horticulture", "gardening", "arboriculture", "plant care", "tree pruning"]
 heroImage: "/images/articles/pruning-hero.webp"
-heroAlt: "Pruning is the selective removal of plant parts to improve health, shape, and productivity"
+heroAlt: "A man with a beard and hat is carefully pruning a bush with a pair of shears"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

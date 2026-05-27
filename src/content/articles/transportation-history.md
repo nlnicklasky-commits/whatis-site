@@ -5,7 +5,7 @@ description: "Transportation history traces how humans moved people and goods, f
 category: history
 tags: ["transportation history", "transport", "railways", "aviation", "automobiles"]
 heroImage: "/images/articles/transportation-history-hero.webp"
-heroAlt: "Transportation history traces how humans moved people and goods, from ancient roads to railways, automobiles"
+heroAlt: "A steam locomotive and a modern electric train on parallel tracks, with a person walking between them"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

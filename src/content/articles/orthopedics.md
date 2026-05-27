@@ -5,7 +5,7 @@ description: "Orthopedics is the medical specialty that treats bones, joints, mu
 category: health-amp-wellness
 tags: ["orthopedics", "musculoskeletal", "bones", "joints", "surgery"]
 heroImage: "/images/articles/orthopedics-hero.webp"
-heroAlt: "Orthopedics is the medical specialty that treats bones, joints, muscles, and connective tissue"
+heroAlt: "A doctor examining a patient lying on a hospital bed"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

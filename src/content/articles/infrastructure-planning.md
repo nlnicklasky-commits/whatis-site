@@ -5,7 +5,7 @@ description: "Infrastructure planning is the process of designing, funding, and 
 category: technology
 tags: ["infrastructure planning", "urban planning", "civil engineering", "public policy", "economic development", "sustainable infrastructure", "smart cities"]
 heroImage: "/images/articles/infrastructure-planning-hero.webp"
-heroAlt: "Infrastructure planning is the process of designing, funding, and building the systems a society depends on"
+heroAlt: "A construction worker wearing a hard hat and an orange safety vest, holding a tablet device and looking at it"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

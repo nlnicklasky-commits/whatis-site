@@ -5,7 +5,7 @@ description: "The Internet of Things connects everyday devices to the internet f
 category: everyday-concepts
 tags: ["internet of things iot", "smart devices", "automation", "sensors", "connected technology"]
 heroImage: "/images/articles/internet-of-things-iot-hero.webp"
-heroAlt: "The Internet of Things connects everyday devices to the internet for data collection and automation"
+heroAlt: "Two men in suits looking at a tablet computer together"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

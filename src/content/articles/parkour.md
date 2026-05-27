@@ -5,7 +5,7 @@ description: "Parkour is the athletic discipline of moving through environments 
 category: everyday-concepts
 tags: ["parkour", "freerunning", "movement", "athletics", "urban sport", "fitness"]
 heroImage: "/images/articles/parkour-hero.webp"
-heroAlt: "Parkour is the athletic discipline of moving through environments by running, jumping, climbing, and vaulting"
+heroAlt: "A young man in athletic clothing is performing a parkour jump in an alleyway with graffiti-covered walls"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

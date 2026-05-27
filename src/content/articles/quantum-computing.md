@@ -5,7 +5,7 @@ description: "Quantum computing is a type of computation that uses quantum mecha
 category: technology
 tags: ["quantum computing", "qubits", "quantum mechanics", "superposition", "entanglement", "algorithms"]
 heroImage: "/images/articles/quantum-computing-hero.webp"
-heroAlt: "Quantum computing uses qubits, superposition, and entanglement to solve problems classical computers can't touch"
+heroAlt: "A man sitting at a desk in a laboratory, working on a laptop with a futuristic interface displayed on the screen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

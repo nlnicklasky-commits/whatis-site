@@ -5,7 +5,7 @@ description: "The Jacobean era (1603-1625) was the reign of King James I of Engl
 category: history
 tags: ["english history", "jacobean", "james i", "stuart dynasty", "early modern"]
 heroImage: "/images/articles/jacobean-era-hero.webp"
-heroAlt: "The Jacobean era (1603-1625) was the reign of King James I of England"
+heroAlt: "A bearded man wearing a black top hat and a black coat with gold embroidery, sitting in a room with large windows"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

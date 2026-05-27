@@ -5,7 +5,7 @@ description: "Horse riding — also called horseback riding or equestrianism —
 category: sports
 tags: ["riding horse", "equestrian", "horseback riding", "dressage", "jumping", "horses"]
 heroImage: "/images/articles/riding-horse-hero.webp"
-heroAlt: "Horse riding is the skill of sitting on and controlling a horse"
+heroAlt: "A brown horse with a white blaze on its face, standing behind a wooden fence"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

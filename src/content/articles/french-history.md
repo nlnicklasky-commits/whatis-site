@@ -5,7 +5,7 @@ description: "French history is the story of one of Europe's most influential na
 category: everyday-concepts
 tags: ["french history", "France", "revolution", "Napoleon", "European history", "monarchy"]
 heroImage: "/images/articles/french-history-hero.webp"
-heroAlt: "French history spans from ancient Gaul to modern republic, shaped by revolutions, empires, and cultural brilliance"
+heroAlt: "A man with a gray beard and mustache, wearing a brown coat, standing in front of a large building with the Eiffel Tower"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

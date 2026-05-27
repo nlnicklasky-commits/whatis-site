@@ -5,7 +5,7 @@ description: "Feng shui is an ancient Chinese system for arranging spaces to pro
 category: everyday-concepts
 tags: ["chinese philosophy", "qi", "energy", "home decor", "interior design", "harmony"]
 heroImage: "/images/articles/feng-shui-hero.webp"
-heroAlt: "Feng shui is an ancient Chinese system for arranging spaces to promote harmony and positive energy flow"
+heroAlt: "A woman sitting on a couch in a living room with plants and a coffee table in front of her"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

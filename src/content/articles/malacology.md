@@ -5,7 +5,7 @@ description: "Malacology is the branch of zoology dedicated to the study of moll
 category: science
 tags: ["malacology", "mollusks", "biology", "zoology", "shells", "marine biology", "invertebrates"]
 heroImage: "/images/articles/malacology-hero.webp"
-heroAlt: "Malacology is the study of mollusks like snails, clams, and octopuses"
+heroAlt: "A single pink rose bud rests on the ground, its delicate petals facing upwards"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

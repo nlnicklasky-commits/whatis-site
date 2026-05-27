@@ -5,7 +5,7 @@ description: "Philosophy of law examines what law is, why it has authority, and 
 category: everyday-concepts
 tags: ["philosophy of law", "jurisprudence", "legal theory", "ethics", "justice", "natural law"]
 heroImage: "/images/articles/philosophy-of-law-hero.webp"
-heroAlt: "Philosophy of law examines what law is, why it has authority, and its relationship to morality"
+heroAlt: "A woman sitting at a desk in a library or office setting, surrounded by bookshelves and plants"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

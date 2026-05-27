@@ -5,7 +5,7 @@ description: "Time management is the process of planning and controlling how you
 category: everyday-concepts
 tags: ["time management", "productivity", "organization", "planning", "prioritization", "efficiency"]
 heroImage: "/images/articles/time-management-hero.webp"
-heroAlt: "Time management is the practice of organizing and planning how you spend your hours"
+heroAlt: "A man in a striped shirt stands on a sandy beach, with a group of people walking in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

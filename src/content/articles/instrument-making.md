@@ -5,7 +5,7 @@ description: "Instrument making is the craft of building musical instruments by 
 category: arts-amp-culture
 tags: ["instrument making", "musical instruments", "luthiery", "acoustics", "craftsmanship", "music technology"]
 heroImage: "/images/articles/instrument-making-hero.webp"
-heroAlt: "Instrument making is the craft of building musical instruments by hand"
+heroAlt: "A person standing on a beach, facing the ocean with large rock formations in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Xylography is the art and technique of printing images or text fro
 category: arts-amp-culture
 tags: ["woodcut", "printmaking", "engraving", "art history", "printing techniques", "relief printing"]
 heroImage: "/images/articles/xylography-hero.webp"
-heroAlt: "Xylography is the art of printing from carved wood blocks"
+heroAlt: "The hands of a person working on a wooden surface, carefully carving or etching a pattern onto the wood"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

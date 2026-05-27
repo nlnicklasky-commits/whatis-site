@@ -5,7 +5,7 @@ description: "Transcendentalism was a 19th-century American philosophical moveme
 category: everyday-concepts
 tags: ["transcendentalism", "philosophy", "Emerson", "Thoreau", "individualism", "nature"]
 heroImage: "/images/articles/transcendentalism-hero.webp"
-heroAlt: "Transcendentalism was a 19th-century American philosophical movement emphasizing nature, individualism, and intuition"
+heroAlt: "A man is sitting on a bench in a forest, reading a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

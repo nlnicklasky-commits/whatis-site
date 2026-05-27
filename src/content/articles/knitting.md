@@ -5,7 +5,7 @@ description: "Knitting is the craft of creating fabric by interlocking loops of 
 category: arts-amp-culture
 tags: ["knitting", "fiber arts", "yarn", "craft", "textile", "hobby"]
 heroImage: "/images/articles/knitting-hero.webp"
-heroAlt: "Knitting is the craft of creating fabric by interlocking loops of yarn with needles"
+heroAlt: "A woman is sitting at a table, knitting a scarf"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

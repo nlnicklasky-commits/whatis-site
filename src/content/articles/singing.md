@@ -5,7 +5,7 @@ description: "Singing is the act of producing musical sounds with the voice. Lea
 category: arts-amp-culture
 tags: ["singing", "voice", "music", "vocal performance", "choral music", "performance art"]
 heroImage: "/images/articles/singing-hero.webp"
-heroAlt: "Singing is the act of producing musical sounds with the voice"
+heroAlt: "A man with a beard and a black cap is singing into a microphone on stage, with a blurred audience in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

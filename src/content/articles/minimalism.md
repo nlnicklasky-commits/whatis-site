@@ -5,7 +5,7 @@ description: "Minimalism is a lifestyle and design philosophy focused on reducin
 category: everyday-concepts
 tags: ["minimalism", "lifestyle", "design", "simplicity", "decluttering", "intentional living"]
 heroImage: "/images/articles/minimalism-hero.webp"
-heroAlt: "Minimalism is a lifestyle and design philosophy focused on reducing excess to emphasize what matters most"
+heroAlt: "A woman sitting on a couch in a living room with plants in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

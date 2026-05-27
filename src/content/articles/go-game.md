@@ -5,7 +5,7 @@ description: "Go is an ancient strategy board game where players place stones to
 category: everyday-concepts
 tags: ["go game", "board games", "strategy", "ancient games", "Japan", "China"]
 heroImage: "/images/articles/go-game-hero.webp"
-heroAlt: "Go is an ancient strategy board game where players place stones to control territory"
+heroAlt: "A man and a woman playing a game of Go (Go) on a wooden board"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

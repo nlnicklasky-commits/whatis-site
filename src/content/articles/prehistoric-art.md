@@ -5,7 +5,7 @@ description: "Prehistoric art is any visual art created before the invention of 
 category: arts-amp-culture
 tags: ["prehistoric art", "cave paintings", "paleolithic art", "neolithic art", "archaeology", "ancient art"]
 heroImage: "/images/articles/prehistoric-art-hero.webp"
-heroAlt: "Prehistoric art includes cave paintings, carvings, and sculptures created before written records"
+heroAlt: "A carved animal figure, likely a bison or buffalo, in a cave or rock formation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

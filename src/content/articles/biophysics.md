@@ -5,7 +5,7 @@ description: "Biophysics is the interdisciplinary science that applies the theor
 category: science
 tags: ["biophysics", "physics", "biology", "molecular biology", "protein folding", "cell membrane", "sensory perception"]
 heroImage: "/images/articles/biophysics-hero.webp"
-heroAlt: "Biophysics uses physics methods to study biological systems"
+heroAlt: "A bearded man in a lab coat and glasses is intently examining a sample under a microscope in a well-equipped laboratory"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

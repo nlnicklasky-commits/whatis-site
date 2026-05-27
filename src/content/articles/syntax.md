@@ -5,7 +5,7 @@ description: "Syntax is the set of rules governing how words combine into senten
 category: everyday-concepts
 tags: ["syntax", "linguistics", "grammar", "language", "sentence structure", "parsing"]
 heroImage: "/images/articles/syntax-hero.webp"
-heroAlt: "Syntax is the set of rules governing how words combine into sentences"
+heroAlt: "The man is sitting at a desk, working on a computer and writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

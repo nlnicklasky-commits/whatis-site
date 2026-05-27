@@ -5,7 +5,7 @@ description: "Graphology claims to analyze personality through handwriting. Lear
 category: everyday-concepts
 tags: ["graphology", "handwriting", "personality", "pseudoscience", "psychology", "analysis"]
 heroImage: "/images/articles/graphology-hero.webp"
-heroAlt: "Graphology claims to analyze personality through handwriting"
+heroAlt: "A person's hand holding a pen and writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Sleep science studies why and how we sleep, covering sleep stages,
 category: health-amp-wellness
 tags: ["sleep", "neuroscience", "health", "circadian rhythm"]
 heroImage: "/images/articles/sleep-science-hero.webp"
-heroAlt: "Sleep science studies why and how we sleep, covering sleep stages, circadian rhythms"
+heroAlt: "A man in a lab coat sitting at a desk, focused on a computer screen"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Snowboarding is a winter sport where you stand sideways on a singl
 category: sports
 tags: ["snowboarding", "winter sports", "snow", "halfpipe", "freestyle", "mountain"]
 heroImage: "/images/articles/snowboarding-hero.webp"
-heroAlt: "Snowboarding is a winter sport where you ride a single board down snow-covered slopes"
+heroAlt: "PREPAREDIATIONAL SNOWSTALL"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

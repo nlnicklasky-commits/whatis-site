@@ -5,7 +5,7 @@ description: "Hospitality management is the business of making people feel welco
 category: everyday-concepts
 tags: ["hospitality management", "hotels", "restaurants", "tourism", "customer service", "business"]
 heroImage: "/images/articles/hospitality-management-hero.webp"
-heroAlt: "Hospitality management covers running hotels, restaurants, and tourism businesses"
+heroAlt: "Three people in a hotel lobby, with one person standing at the reception desk and two others seated at the desk"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

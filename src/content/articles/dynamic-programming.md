@@ -5,7 +5,7 @@ description: "Active programming (DP) is an algorithmic problem-solving techniqu
 category: technology
 tags: ["dynamic programming", "algorithms", "computer science", "optimization", "recursion", "memoization", "programming"]
 heroImage: "/images/articles/dynamic-programming-hero.webp"
-heroAlt: "Dynamic programming solves problems by breaking them into overlapping subproblems and storing results to avoid redundant work"
+heroAlt: "A man wearing headphones and glasses is sitting at a desk, working on a computer with multiple monitors displaying graphs"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

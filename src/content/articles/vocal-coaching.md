@@ -5,7 +5,7 @@ description: "Vocal coaching helps singers and speakers improve their voice thro
 category: arts-amp-culture
 tags: ["vocal coaching", "singing", "voice training", "music education", "performance", "breath control"]
 heroImage: "/images/articles/vocal-coaching-hero.webp"
-heroAlt: "Vocal coaching helps singers and speakers improve their voice through technique, breathing, and performance skills"
+heroAlt: "A man in a suit and glasses standing next to a woman who is holding a tablet, both appearing to be engaged in a conversation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

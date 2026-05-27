@@ -5,7 +5,7 @@ description: "Human rights law is the body of international and domestic rules p
 category: law
 tags: ["human rights law", "human rights", "international law", "justice", "equality"]
 heroImage: "/images/articles/human-rights-law-hero.webp"
-heroAlt: "Human rights law is the body of international and domestic rules protecting fundamental freedoms"
+heroAlt: "A man in a suit standing in a room with a group of people, and he is reading a document"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

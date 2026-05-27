@@ -5,7 +5,7 @@ description: "Gliding (also called soaring) is the sport and practice of flying 
 category: sports
 tags: ["gliding", "sailplane", "aviation", "thermals", "aerodynamics", "flight"]
 heroImage: "/images/articles/gliding-hero.webp"
-heroAlt: "Gliding is the sport of flying engineless aircraft using natural air currents"
+heroAlt: "The pilot in the cockpit of the glider, wearing a helmet and looking out the window"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

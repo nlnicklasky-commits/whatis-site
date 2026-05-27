@@ -5,7 +5,7 @@ description: "Public policy is what governments do (and choose not to do) about 
 category: politics
 tags: ["public policy", "government", "policy making", "public administration", "law", "social issues"]
 heroImage: "/images/articles/public-policy-hero.webp"
-heroAlt: "Public policy is the set of government actions, laws, and regulations designed to address societal problems"
+heroAlt: "A group of business professionals engaged in a discussion around a conference table"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

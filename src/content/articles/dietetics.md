@@ -5,7 +5,7 @@ description: "Dietetics is the science of how food and nutrition affect human he
 category: health-amp-wellness
 tags: ["dietetics", "nutrition", "diet", "health", "food science"]
 heroImage: "/images/articles/dietetics-hero.webp"
-heroAlt: "Dietetics is the science of applying nutrition knowledge to plan diets that improve health"
+heroAlt: "Two people engaged in a conversation, with one person wearing a white coat and the other wearing a gray sweater"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

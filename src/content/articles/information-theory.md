@@ -5,7 +5,7 @@ description: "Information theory is the math behind data compression and transmi
 category: everyday-concepts
 tags: ["information theory", "mathematics", "data", "entropy", "Claude Shannon"]
 heroImage: "/images/articles/information-theory-hero.webp"
-heroAlt: "Information theory is the math behind data compression and transmission"
+heroAlt: "A person sitting at a desk, working on a computer with multiple monitors displaying various graphs and charts"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

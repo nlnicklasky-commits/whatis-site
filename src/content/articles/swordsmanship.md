@@ -5,7 +5,7 @@ description: "Swordsmanship is the art and skill of fighting with a sword. Learn
 category: sports
 tags: ["swordsmanship", "martial arts", "fencing", "sword", "combat", "history"]
 heroImage: "/images/articles/swordsmanship-hero.webp"
-heroAlt: "Swordsmanship is the art and skill of fighting with a sword"
+heroAlt: "A man in a white karate uniform is practicing sword fighting in a room with wooden walls and hanging weapons"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

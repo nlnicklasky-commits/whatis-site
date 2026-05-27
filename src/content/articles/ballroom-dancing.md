@@ -5,7 +5,7 @@ description: "Ballroom dancing is a category of partner dances that are performe
 category: everyday-concepts
 tags: ["ballroom dancing", "dance", "partner dance", "waltz", "tango", "competitive dance"]
 heroImage: "/images/articles/ballroom-dancing-hero.webp"
-heroAlt: "Ballroom dancing is a category of partner dances that are performed socially at gatherings, events, and dance halls"
+heroAlt: "A man in a tuxedo and a woman in a long green dress are standing together in a dimly lit room, their hands clasped"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

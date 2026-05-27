@@ -5,7 +5,7 @@ description: "Art restoration — more precisely called conservation-restoration
 category: arts-amp-culture
 tags: ["restoration art", "conservation", "art preservation", "museums", "painting", "repair"]
 heroImage: "/images/articles/restoration-art-hero.webp"
-heroAlt: "Art restoration is the process of repairing, cleaning, and preserving damaged or deteriorating artworks"
+heroAlt: "A woman's hand holding a brush, standing in front of a large painting of a woman"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

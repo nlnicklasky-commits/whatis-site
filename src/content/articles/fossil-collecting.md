@@ -5,7 +5,7 @@ description: "Fossil collecting is the practice of searching for, extracting, an
 category: science
 tags: ["paleontology", "geology", "fossils", "ancient life", "evolution", "earth science", "natural history"]
 heroImage: "/images/articles/fossil-collecting-hero.webp"
-heroAlt: "Fossil collecting is the practice of searching for, extracting"
+heroAlt: "A man in a hat and leather jacket carefully excavates a fossil in a desert setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

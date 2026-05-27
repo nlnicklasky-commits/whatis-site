@@ -5,7 +5,7 @@ description: "Database design is the process of structuring how data is stored, 
 category: technology
 tags: ["database design", "databases", "data modeling", "sql", "normalization", "schema", "software engineering"]
 heroImage: "/images/articles/database-design-hero.webp"
-heroAlt: "Database design is the process of structuring how data is stored, organized, and accessed in a database"
+heroAlt: "The woman is sitting at a desk, working on a computer with multiple monitors displaying various lines of code and diagrams"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

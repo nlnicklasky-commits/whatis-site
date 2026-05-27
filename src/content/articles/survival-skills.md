@@ -5,7 +5,7 @@ description: "Survival skills are techniques for staying alive in emergencies or
 category: health-amp-wellness
 tags: ["outdoor recreation", "survival skills", "wilderness", "emergency preparedness"]
 heroImage: "/images/articles/survival-skills-hero.webp"
-heroAlt: "Survival skills are techniques for staying alive in emergencies or wilderness settings"
+heroAlt: "A man in a green jacket and hat is crouched down and lighting a campfire in a forest"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

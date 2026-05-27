@@ -5,7 +5,7 @@ description: "Marine engineering is the branch of engineering that designs, buil
 category: technology
 tags: ["marine engineering", "naval architecture", "ship systems", "propulsion", "maritime", "engineering", "ocean"]
 heroImage: "/images/articles/marine-engineering-hero.webp"
-heroAlt: "Marine engineering designs and maintains the systems that keep ships, submarines, and offshore structures operating at sea"
+heroAlt: "A man wearing a hard hat and a blue jacket, standing in front of a construction site with various equipment and machinery"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

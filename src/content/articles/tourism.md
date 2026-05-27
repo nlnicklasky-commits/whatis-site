@@ -5,7 +5,7 @@ description: "Tourism is the business and activity of traveling for pleasure, cu
 category: everyday-concepts
 tags: ["tourism", "travel", "hospitality", "economy", "culture", "recreation"]
 heroImage: "/images/articles/tourism-hero.webp"
-heroAlt: "Tourism is the business and activity of traveling for pleasure, culture, or recreation"
+heroAlt: "A woman is sitting on a stool and showing something to an older man, who is sitting on a stool and looking at the object"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

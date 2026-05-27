@@ -5,7 +5,7 @@ description: "Aerodynamics is the branch of physics that studies how air moves a
 category: science
 tags: ["aerodynamics", "physics", "engineering", "flight", "lift", "drag", "fluid dynamics"]
 heroImage: "/images/articles/aerodynamics-hero.webp"
-heroAlt: "Aerodynamics is the study of how air moves around objects"
+heroAlt: "A commercial airplane flying through the sky, with a dramatic effect of light trails or streaks behind it, suggesting high"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Ottoman history is the study of the Ottoman Empire — one of the 
 category: history
 tags: ["ottoman empire", "turkish history", "islamic history", "middle east"]
 heroImage: "/images/articles/ottoman-history-hero.webp"
-heroAlt: "Ottoman history spans over 600 years of empire across three continents"
+heroAlt: "A man in a library, reading a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

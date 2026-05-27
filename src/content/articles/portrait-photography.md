@@ -5,7 +5,7 @@ description: "Portrait photography is the practice of capturing images of people
 category: arts-amp-culture
 tags: ["portrait photography", "photography", "portraiture", "studio photography", "environmental portrait", "headshots"]
 heroImage: "/images/articles/portrait-photography-hero.webp"
-heroAlt: "Portrait photography captures people's likeness, personality, and mood through deliberate composition and lighting"
+heroAlt: "A man sitting in a chair, holding a camera and looking at the photographer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

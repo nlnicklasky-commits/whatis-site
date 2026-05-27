@@ -5,7 +5,7 @@ description: "Fiction writing is the craft of inventing stories — creating cha
 category: everyday-concepts
 tags: ["fiction writing", "creative writing", "storytelling", "novels", "short stories", "literature"]
 heroImage: "/images/articles/fiction-writing-hero.webp"
-heroAlt: "Fiction writing is the craft of creating imaginary stories and characters"
+heroAlt: "A person is sitting at a table, writing in a notebook with a pencil"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

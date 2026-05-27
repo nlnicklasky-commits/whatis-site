@@ -5,7 +5,7 @@ description: "Molecular gastronomy is the application of scientific principles a
 category: everyday-concepts
 tags: ["molecular gastronomy", "food science", "cooking", "culinary arts", "chemistry", "modernist cuisine"]
 heroImage: "/images/articles/molecular-gastronomy-hero.webp"
-heroAlt: "Molecular gastronomy applies scientific methods to cooking, creating surprising textures and flavors"
+heroAlt: "A chef who is carefully decorating a cake with a spoon"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

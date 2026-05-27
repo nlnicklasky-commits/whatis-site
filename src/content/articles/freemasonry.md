@@ -5,7 +5,7 @@ description: "Freemasonry is the world's oldest and largest fraternal organizati
 category: history
 tags: ["fraternal organizations", "secret societies", "symbolism", "ethics", "charity"]
 heroImage: "/images/articles/freemasonry-hero.webp"
-heroAlt: "Freemasonry is the world's oldest and largest fraternal organization"
+heroAlt: "The two elderly men with long white hair and beards are sitting together in a room with wooden paneling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

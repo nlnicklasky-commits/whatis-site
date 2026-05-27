@@ -5,7 +5,7 @@ description: "Pragmatism judges ideas by their real-world results, not abstract 
 category: philosophy
 tags: ["pragmatism", "philosophy", "american philosophy", "william james", "john dewey", "charles sanders peirce"]
 heroImage: "/images/articles/pragmatism-hero.webp"
-heroAlt: "Pragmatism judges ideas by their real-world results, not abstract truth"
+heroAlt: "A smiling woman with curly hair is sitting at a desk, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

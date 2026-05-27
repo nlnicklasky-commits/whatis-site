@@ -5,7 +5,7 @@ description: Hawaiian history spans over 1,000 years from Polynesian voyagers to
 category: history
 tags: ["hawaiian history", "hawaii", "polynesia", "hawaiian kingdom", "us history"]
 heroImage: "/images/articles/hawaiian-history-hero.webp"
-heroAlt: "Hawaiian history spans over 1,000 years from Polynesian voyagers to statehood, covering a unique kingdom"
+heroAlt: "An elderly man wearing a lei and holding a paddle"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

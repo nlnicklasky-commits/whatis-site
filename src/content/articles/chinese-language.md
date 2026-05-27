@@ -5,7 +5,7 @@ description: "Chinese is a family of related languages spoken by over 1.3 billio
 category: arts-amp-culture
 tags: ["Chinese language", "Mandarin", "languages", "linguistics", "writing systems", "tonal languages"]
 heroImage: "/images/articles/chinese-language-hero.webp"
-heroAlt: "Chinese is a family of related languages spoken by over 1.3 billion people"
+heroAlt: "A man sitting at a desk, writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

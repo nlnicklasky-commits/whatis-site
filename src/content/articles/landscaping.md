@@ -5,7 +5,7 @@ description: "Landscaping is the practice of modifying outdoor areas with plants
 category: everyday-concepts
 tags: ["landscaping", "gardening", "outdoor design", "yard maintenance", "hardscaping"]
 heroImage: "/images/articles/landscaping-hero.webp"
-heroAlt: "Landscaping is the practice of modifying outdoor areas with plants, structures, and terrain changes"
+heroAlt: "A person's hand holding a pair of gardening shears, cutting through a green hedge or shrub"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

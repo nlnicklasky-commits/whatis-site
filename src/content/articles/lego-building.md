@@ -5,7 +5,7 @@ description: "Lego building is the art of constructing models and structures fro
 category: everyday-concepts
 tags: ["lego building", "construction toys", "hobbies", "AFOL", "building blocks", "creativity"]
 heroImage: "/images/articles/lego-building-hero.webp"
-heroAlt: "Lego building is the art of constructing models and structures from interlocking plastic bricks"
+heroAlt: "A person's hands are seen playing with colorful building blocks on a table"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

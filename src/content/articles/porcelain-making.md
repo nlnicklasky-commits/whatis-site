@@ -5,7 +5,7 @@ description: "Porcelain is a type of ceramic made from kaolin clay, feldspar, an
 category: arts-amp-culture
 tags: ["porcelain", "ceramics", "pottery", "kaolin", "kiln", "glaze"]
 heroImage: "/images/articles/porcelain-making-hero.webp"
-heroAlt: "Porcelain making is the craft of creating fine ceramic ware from kaolin clay fired at extreme temperatures"
+heroAlt: "A person's hands shaping a clay pot on a pottery wheel, with various pottery pieces visible in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

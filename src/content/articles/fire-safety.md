@@ -5,7 +5,7 @@ description: "Fire safety covers prevention, detection, and response practices t
 category: everyday-concepts
 tags: ["safety", "emergency preparedness", "fire prevention", "fire extinguishers", "smoke detectors", "risk management"]
 heroImage: "/images/articles/fire-safety-hero.webp"
-heroAlt: "Fire safety covers prevention, detection, and response practices that protect people and property from fire"
+heroAlt: "Firefighter in uniform standing next to a fire hydrant"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Energy healing is a set of practices claiming to channel healing e
 category: everyday-concepts
 tags: ["energy healing", "everyday-concepts"]
 heroImage: "/images/articles/energy-healing-hero.webp"
-heroAlt: "Energy healing is a set of practices claiming to channel healing energy to restore health"
+heroAlt: "A woman sitting in a chair with her eyes closed, and a person's hands are placed on her shoulders, suggesting a relaxing or"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

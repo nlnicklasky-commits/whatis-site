@@ -5,7 +5,7 @@ description: "Pop Art is an art movement that emerged in the 1950s and exploded 
 category: arts-amp-culture
 tags: ["pop art", "andy warhol", "roy lichtenstein", "richard hamilton", "mass culture", "consumerism"]
 heroImage: "/images/articles/pop-art-hero.webp"
-heroAlt: "Pop Art is an art movement that drew from advertising, comics, and consumer goods"
+heroAlt: "The man is standing in front of a wall covered in colorful posters and artwork"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

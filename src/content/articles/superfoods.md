@@ -5,7 +5,7 @@ description: "Superfoods are nutrient-dense foods marketed as especially benefic
 category: everyday-concepts
 tags: ["superfoods", "nutrition", "health", "diet", "antioxidants", "food science"]
 heroImage: "/images/articles/superfoods-hero.webp"
-heroAlt: "Superfoods are nutrient-dense foods marketed as especially beneficial for health"
+heroAlt: "Blueberries, chia seeds, kale, and parsley"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

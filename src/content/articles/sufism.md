@@ -5,7 +5,7 @@ description: "Sufism (Arabic: tasawwuf) is the mystical and ascetic tradition wi
 category: philosophy
 tags: ["religion", "sufism", "islam", "mysticism", "spirituality", "meditation"]
 heroImage: "/images/articles/sufism-hero.webp"
-heroAlt: "Sufism (Arabic: tasawwuf) is the mystical and ascetic tradition within Islam that seeks direct"
+heroAlt: "A man wearing traditional Middle Eastern attire, sitting on the ground and facing away from the camera, with a mosque in"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

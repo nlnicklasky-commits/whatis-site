@@ -5,7 +5,7 @@ description: "Doll making is the craft of creating dolls from various materials.
 category: arts-amp-culture
 tags: ["doll making", "arts-amp-culture"]
 heroImage: "/images/articles/doll-making-hero.webp"
-heroAlt: "Doll making is the craft of creating dolls from various materials"
+heroAlt: "A bearded man in a blue apron is carefully crafting a doll in a workshop filled with various tools and materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

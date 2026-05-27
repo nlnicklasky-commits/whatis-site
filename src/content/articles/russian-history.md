@@ -5,7 +5,7 @@ description: "Russian history is the story of a civilization that grew from a co
 category: history
 tags: ["russia", "soviet union", "tsarist russia", "eastern europe"]
 heroImage: "/images/articles/russian-history-hero.webp"
-heroAlt: "Russian history is the story of a civilization that grew from a collection of medieval trading settlements into the largest"
+heroAlt: "A man in a brown jacket is reading a book in a cluttered room filled with various objects"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

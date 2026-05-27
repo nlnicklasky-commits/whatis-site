@@ -5,7 +5,7 @@ description: "Feudalism was a medieval European social and economic system built
 category: history
 tags: ["medieval europe", "social system", "land tenure", "vassalage", "serfdom"]
 heroImage: "/images/articles/feudalism-hero.webp"
-heroAlt: "Feudalism was a medieval European social and economic system built on land grants, military service"
+heroAlt: "A close-up portrait of a man with a long beard and a crown on his head. The man appears to be wearing a robe or garment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

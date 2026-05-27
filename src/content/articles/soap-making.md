@@ -5,7 +5,7 @@ description: "Soap making is the craft of creating soap from oils and lye throug
 category: everyday-concepts
 tags: ["soap making", "craft", "saponification", "handmade", "chemistry", "natural products"]
 heroImage: "/images/articles/soap-making-hero.webp"
-heroAlt: "Soap making is the craft of creating soap from oils and lye through a chemical process called saponification"
+heroAlt: "A person's hands holding a yellow bar of soap, surrounded by various ingredients and tools commonly used in soap making"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

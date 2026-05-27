@@ -5,7 +5,7 @@ description: "Quilting is the process of sewing two or more layers of fabric tog
 category: arts-amp-culture
 tags: ["quilting", "sewing", "textile arts", "fabric", "crafts", "handmade"]
 heroImage: "/images/articles/quilting-hero.webp"
-heroAlt: "Quilting is the craft of sewing layers of fabric together into a padded textile"
+heroAlt: "A woman is working on a quilt in a room with various sewing supplies and a sewing machine"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

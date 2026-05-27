@@ -5,7 +5,7 @@ description: "Neuromarketing applies neuroscience methods to marketing research,
 category: technology
 tags: ["neuromarketing", "consumer behavior", "neuroscience", "marketing", "psychology", "brain imaging", "market research"]
 heroImage: "/images/articles/neuromarketing-hero.webp"
-heroAlt: "Neuromarketing applies neuroscience methods to marketing research, measuring brain activity, eye movements, skin conductance"
+heroAlt: "A woman in a white lab coat looking at a smartphone screen in a modern office environment with large computer monitors"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

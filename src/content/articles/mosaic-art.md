@@ -5,7 +5,7 @@ description: "Mosaic art creates images and patterns from small pieces of stone,
 category: arts-amp-culture
 tags: ["mosaic", "art", "tesserae", "grout", "decorative arts", "ancient art"]
 heroImage: "/images/articles/mosaic-art-hero.webp"
-heroAlt: "Mosaic art creates images and patterns from small pieces of stone, glass, or tile called tesserae"
+heroAlt: "A colorful mosaic pattern composed of small, irregularly shaped tiles in various shades of blue, orange, and yellow."
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

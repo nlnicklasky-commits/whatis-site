@@ -5,7 +5,7 @@ description: "Creative writing is original composition that uses imagination and
 category: arts-amp-culture
 tags: ["creative writing", "writing", "fiction", "poetry", "storytelling", "literature"]
 heroImage: "/images/articles/creative-writing-hero.webp"
-heroAlt: "Creative writing is original composition that uses imagination and literary craft"
+heroAlt: "A woman in a business suit is typing on a typewriter at a desk with a cup of coffee and a plant in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

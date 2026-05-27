@@ -5,7 +5,7 @@ description: "Mountain biking is the sport of riding specially designed bicycles
 category: sports
 tags: ["mountain biking", "cycling", "off-road", "trail riding", "bike sports", "outdoor recreation"]
 heroImage: "/images/articles/mountain-biking-hero.webp"
-heroAlt: "Mountain biking is off-road cycling on rough terrain using specially designed bikes"
+heroAlt: "A mountain biker riding on a trail through a forested area"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

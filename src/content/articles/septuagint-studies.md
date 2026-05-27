@@ -5,7 +5,7 @@ description: "Septuagint studies is the academic discipline focused on the Septu
 category: history
 tags: ["septuagint", "bible", "old testament", "greek translation", "biblical studies"]
 heroImage: "/images/articles/septuagint-studies-hero.webp"
-heroAlt: "Septuagint studies is the academic discipline focused on the Septuagint (abbreviated LXX)"
+heroAlt: "A man with a white beard is sitting at a desk, intently reading a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

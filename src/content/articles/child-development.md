@@ -5,7 +5,7 @@ description: "Child development is the scientific study of how children change a
 category: health-amp-wellness
 tags: ["child development", "psychology", "education", "parenting", "childhood"]
 heroImage: "/images/articles/child-development-hero.webp"
-heroAlt: "Child development is the scientific study of how children change and grow from conception through adolescence — physically"
+heroAlt: "Three young children playing with colorful blocks at a table"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

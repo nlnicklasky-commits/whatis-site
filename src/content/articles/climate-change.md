@@ -5,7 +5,7 @@ description: "Climate change is the long-term shift in global temperatures and w
 category: science
 tags: ["climate change", "global warming", "environment", "greenhouse gases", "sustainability", "climate science", "ecology"]
 heroImage: "/images/articles/climate-change-hero.webp"
-heroAlt: "Climate change is the long-term shift in global temperatures and weather patterns"
+heroAlt: "A breathtaking view of a massive glacier with towering ice formations and a serene body of water in the foreground"
 author: "WhatIs Editorial"
 datePublished: "2026-03-15"
 dateModified: "2026-05-12"

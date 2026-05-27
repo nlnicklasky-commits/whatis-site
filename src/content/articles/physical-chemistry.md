@@ -5,7 +5,7 @@ description: "Physical chemistry applies physics principles to chemical systems,
 category: everyday-concepts
 tags: ["physical chemistry", "thermodynamics", "kinetics", "quantum chemistry", "science", "molecules"]
 heroImage: "/images/articles/physical-chemistry-hero.webp"
-heroAlt: "Physical chemistry applies physics principles to chemical systems, studying how matter behaves at the molecular level"
+heroAlt: "A group of scientists in a laboratory setting, with one man wearing a white lab coat and glasses focused on a microscope"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

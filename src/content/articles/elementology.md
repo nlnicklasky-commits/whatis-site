@@ -5,7 +5,7 @@ description: "Elementology is the study of chemical elements, their properties, 
 category: everyday-concepts
 tags: ["elementology", "everyday-concepts"]
 heroImage: "/images/articles/elementology-hero.webp"
-heroAlt: "Elementology is the study of chemical elements, their properties, and their roles in nature"
+heroAlt: "The woman in the image is holding a glowing crystal or gemstone in her hands, with a warm, radiant light emanating from it"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

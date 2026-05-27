@@ -5,7 +5,7 @@ description: "Japanese mythology is the collection of creation stories, divine n
 category: everyday-concepts
 tags: ["japanese mythology", "Shinto", "kami", "folklore", "Japanese culture"]
 heroImage: "/images/articles/japanese-mythology-hero.webp"
-heroAlt: "Japanese mythology includes Shinto creation stories, kami spirits, and Buddhist legends that shaped Japanese culture"
+heroAlt: "A traditional Japanese torii gate, which is a wooden gate with a curved roof, often found in Japanese shrines and forests."
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

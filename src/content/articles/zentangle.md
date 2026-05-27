@@ -5,7 +5,7 @@ description: "Zentangle is a structured drawing method using repetitive patterns
 category: arts-amp-culture
 tags: ["art", "drawing", "mindfulness", "relaxation", "creative expression", "pattern art"]
 heroImage: "/images/articles/zentangle-hero.webp"
-heroAlt: "Zentangle is a structured drawing method using repetitive patterns to promote relaxation and creativity"
+heroAlt: "A woman is sitting at a desk, drawing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

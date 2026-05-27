@@ -5,7 +5,7 @@ description: "Jewish history spans over 3,500 years from ancient Israel through 
 category: history
 tags: ["judaism", "jewish history", "diaspora", "israel", "antisemitism", "torah"]
 heroImage: "/images/articles/jewish-history-hero.webp"
-heroAlt: "Jewish history spans over 3,500 years from ancient Israel through diaspora, persecution, and the modern state"
+heroAlt: "A bearded man in a suit sits at a desk in a library, surrounded by bookshelves"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

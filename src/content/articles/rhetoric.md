@@ -5,7 +5,7 @@ description: "Rhetoric is the art and study of effective communication — speci
 category: arts-amp-culture
 tags: ["rhetoric", "persuasion", "communication", "Aristotle", "speech", "writing"]
 heroImage: "/images/articles/rhetoric-hero.webp"
-heroAlt: "Rhetoric is the art of persuasive communication through language"
+heroAlt: "The man with a beard and gray hair is speaking and gesturing with his hands, while a group of people can be seen in"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

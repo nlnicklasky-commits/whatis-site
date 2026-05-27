@@ -5,7 +5,7 @@ description: "Space science is the broad field of study concerned with everythin
 category: science
 tags: ["space science", "astronomy", "astrophysics", "planetary science", "NASA", "cosmology"]
 heroImage: "/images/articles/space-science-hero.webp"
-heroAlt: "Space science is the study of everything beyond Earth's atmosphere, from planets and stars to galaxies and cosmic radiation"
+heroAlt: "A person's face wearing a space helmet, with a starry background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

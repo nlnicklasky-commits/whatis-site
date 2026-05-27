@@ -5,7 +5,7 @@ description: "Fiber optics transmits data as light pulses through thin glass str
 category: technology
 tags: ["telecommunications", "data transmission", "internet", "light", "optics", "broadband"]
 heroImage: "/images/articles/fiber-optics-hero.webp"
-heroAlt: "Fiber optics transmits data as light pulses through thin glass strands"
+heroAlt: "A man in a blue shirt standing in a hallway, looking at a tablet or smartphone"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "An interest rate is the price of borrowing money, expressed as a p
 category: finance
 tags: ["interest rate", "finance", "lending", "borrowing", "economics", "money"]
 heroImage: "/images/articles/interest-rate-hero.webp"
-heroAlt: "An interest rate is the price of borrowing money, expressed as a percentage of the loan amount per year"
+heroAlt: "Rising stacks of gold coins beside a smooth golden upward arrow"
 author: "WhatIs Editorial"
 datePublished: "2026-05-13"
 dateModified: "2026-05-13"

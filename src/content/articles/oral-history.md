@@ -5,7 +5,7 @@ description: "Oral history is the systematic practice of recording, preserving, 
 category: history
 tags: ["oral history", "historical research", "interviews", "social history"]
 heroImage: "/images/articles/oral-history-hero.webp"
-heroAlt: "Oral history is the practice of recording firsthand accounts from people who lived through events"
+heroAlt: "Two elderly men engaged in a conversation, with one man holding a book and the other man gesturing with his hands"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

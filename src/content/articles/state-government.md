@@ -5,7 +5,7 @@ description: "State government is the level of government that manages affairs w
 category: politics
 tags: ["state government", "politics", "legislature", "governor", "federalism", "public policy"]
 heroImage: "/images/articles/state-government-hero.webp"
-heroAlt: "State government is the level of government that manages affairs within a U.S. state. Learn how it works, its branches"
+heroAlt: "The United States Capitol building in Washington D.C"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

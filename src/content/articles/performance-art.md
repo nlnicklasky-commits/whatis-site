@@ -5,7 +5,7 @@ description: "Performance art is a form of artistic expression in which the arti
 category: arts-amp-culture
 tags: ["performance art", "contemporary art", "live art", "conceptual art", "art performance", "body art"]
 heroImage: "/images/articles/performance-art-hero.webp"
-heroAlt: "Performance art is a live art form where the artist's body and actions become the medium"
+heroAlt: "A person standing in a large, empty room with a large, abstract sculpture or installation in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

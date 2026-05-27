@@ -5,7 +5,7 @@ description: "Strategic management is how organizations set goals, analyze compe
 category: business
 tags: ["management", "strategic management", "business strategy", "planning"]
 heroImage: "/images/articles/strategic-management-hero.webp"
-heroAlt: "Strategic management is how organizations set goals, analyze competition, and allocate resources for long-term success"
+heroAlt: "Three people sitting around a table, engaged in a discussion. One person is using a laptop, while the other two are actively"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

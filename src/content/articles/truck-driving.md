@@ -5,7 +5,7 @@ description: "Truck driving is the profession of operating large commercial vehi
 category: everyday-concepts
 tags: ["truck driving", "transportation", "logistics", "CDL", "careers", "freight"]
 heroImage: "/images/articles/truck-driving-hero.webp"
-heroAlt: "Truck driving is the profession of operating large commercial vehicles to transport goods"
+heroAlt: "A man driving a truck, and the setting is a highway at sunset"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Gerontology is the scientific study of aging — the biological, p
 category: health-amp-wellness
 tags: ["gerontology", "aging", "elderly care", "health", "sociology"]
 heroImage: "/images/articles/gerontology-hero.webp"
-heroAlt: "Gerontology is the scientific study of aging — the biological, psychological"
+heroAlt: "The elderly couple sitting at a table, engaged in conversation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

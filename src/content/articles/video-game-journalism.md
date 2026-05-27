@@ -5,7 +5,7 @@ description: "Video game journalism covers the gaming industry through reviews, 
 category: everyday-concepts
 tags: ["video game journalism", "gaming media", "game reviews", "industry coverage", "content creation", "criticism"]
 heroImage: "/images/articles/video-game-journalism-hero.webp"
-heroAlt: "Video game journalism covers the gaming industry through reviews, news, features, and criticism"
+heroAlt: "A man wearing headphones is sitting at a desk, working on a laptop and a desktop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

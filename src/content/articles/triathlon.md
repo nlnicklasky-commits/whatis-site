@@ -5,7 +5,7 @@ description: "Triathlon is an endurance race combining swimming, cycling, and ru
 category: sports
 tags: ["triathlon", "endurance sports", "swimming", "cycling", "running", "multisport"]
 heroImage: "/images/articles/triathlon-hero.webp"
-heroAlt: "Triathlon is an endurance race combining swimming, cycling, and running"
+heroAlt: "A person wearing a wetsuit and a yellow cap, who is swimming in the water"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Medical history is the study of how human understanding and treatm
 category: history
 tags: ["medicine", "medical history", "healthcare"]
 heroImage: "/images/articles/medical-history-hero.webp"
-heroAlt: "Medical history is the study of how human understanding and treatment of disease, injury, and health have evolved over time"
+heroAlt: "A woman in a dark blazer sits at a desk in a library, writing in a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

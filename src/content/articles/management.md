@@ -5,7 +5,7 @@ description: "Management is the process of planning, organizing, leading, and co
 category: everyday-concepts
 tags: ["management", "business", "leadership", "organization", "strategy", "administration"]
 heroImage: "/images/articles/management-hero.webp"
-heroAlt: "Management is the process of planning, organizing, leading, and controlling resources to achieve organizational goals"
+heroAlt: "A woman in a business suit is smiling and gesturing while seated at a conference table with other people in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

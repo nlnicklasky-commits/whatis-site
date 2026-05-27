@@ -5,7 +5,7 @@ description: "Train spotting (also called railfanning in North America) is the h
 category: everyday-concepts
 tags: ["train spotting", "railfan", "trains", "hobby", "transportation", "railways"]
 heroImage: "/images/articles/train-spotting-hero.webp"
-heroAlt: "Train spotting is the hobby of observing, recording, and photographing trains"
+heroAlt: "A person wearing a uniform and hat is standing next to a train, taking a photograph of the train"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

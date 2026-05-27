@@ -5,7 +5,7 @@ description: "Liberalism is a political and philosophical tradition centered on 
 category: philosophy
 tags: ["liberalism", "political philosophy", "individual rights", "democracy", "liberty", "constitutional government", "enlightenment"]
 heroImage: "/images/articles/liberalism-hero.webp"
-heroAlt: "Liberalism is a political philosophy centered on individual rights, liberty, and constitutional government"
+heroAlt: "Two men engaged in a conversation on a city street. One man is wearing a green jacket and scarf, while the other is wearing"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

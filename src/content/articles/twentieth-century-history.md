@@ -5,7 +5,7 @@ description: "The twentieth century — 1901 to 2000 — packed more change into
 category: history
 tags: ["twentieth-century history", "world wars", "cold war", "decolonization"]
 heroImage: "/images/articles/twentieth-century-history-hero.webp"
-heroAlt: "The twentieth century — 1901 to 2000 — packed more change into a hundred years than any other period in human history"
+heroAlt: "A cozy outdoor seating area with a fire pit in the center, surrounded by people enjoying the warm ambiance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

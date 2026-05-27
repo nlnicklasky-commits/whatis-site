@@ -5,7 +5,7 @@ description: "Contract law is the body of legal rules governing agreements betwe
 category: finance
 tags: ["law", "legal system", "agreements", "business law", "commercial law", "jurisprudence", "obligations"]
 heroImage: "/images/articles/contract-law-hero.webp"
-heroAlt: "Contract law governs legally binding agreements between parties"
+heroAlt: "A man in a suit sitting at a desk and writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

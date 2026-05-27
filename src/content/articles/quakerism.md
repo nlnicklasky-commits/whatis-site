@@ -5,7 +5,7 @@ description: "Quakerism — formally the Religious Society of Friends — is a C
 category: religion
 tags: ["quakerism", "religion", "Christianity", "peace", "equality", "silent worship"]
 heroImage: "/images/articles/quakerism-hero.webp"
-heroAlt: "Quakerism is a Christian movement emphasizing direct experience of God, silent worship, equality, and peace"
+heroAlt: "A group of people wearing headscarves are seated in a room with large windows"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

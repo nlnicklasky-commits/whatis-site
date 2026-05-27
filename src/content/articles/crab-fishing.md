@@ -5,7 +5,7 @@ description: "Crab fishing is the commercial and recreational harvesting of crab
 category: everyday-concepts
 tags: ["crab fishing", "fishing", "seafood", "marine industry", "crab", "fishermen"]
 heroImage: "/images/articles/crab-fishing-hero.webp"
-heroAlt: "Crab fishing is the commercial and recreational harvesting of crabs from the ocean"
+heroAlt: "A man wearing a yellow glove is sorting through a pile of crabs in a boat"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Diving includes scuba, free diving, and competitive platform divin
 category: sports
 tags: ["diving", "sports"]
 heroImage: "/images/articles/diving-hero.webp"
-heroAlt: "Diving includes scuba, free diving, and competitive platform diving"
+heroAlt: "A man swimming underwater with his arms outstretched"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "United States history is the story of how 13 small British colonie
 category: history
 tags: ["united states history", "american history", "us government", "democracy"]
 heroImage: "/images/articles/united-states-history-hero.webp"
-heroAlt: "United States history is the story of how 13 small British colonies on the Atlantic coast became the most powerful nation"
+heroAlt: "A group of people engaged in a discussion, with one man in a suit holding a tablet or book, and another man in a suit"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

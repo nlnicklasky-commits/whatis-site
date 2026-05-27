@@ -5,7 +5,7 @@ description: "Poetry is a form of literary expression that uses concentrated lan
 category: arts-amp-culture
 tags: ["literature", "writing", "verse", "rhyme", "rhythm", "expression"]
 heroImage: "/images/articles/poetry-hero.webp"
-heroAlt: "Poetry is a literary form that uses rhythm, imagery, and condensed language to express ideas and emotions"
+heroAlt: "A woman is sitting at a desk, writing in a notebook with a pen"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

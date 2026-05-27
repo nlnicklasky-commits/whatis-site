@@ -5,7 +5,7 @@ description: "Lapidary is the art and craft of cutting, shaping, and polishing s
 category: arts-amp-culture
 tags: ["lapidary", "gemstones", "rock cutting", "jewelry", "mineral collecting", "craft"]
 heroImage: "/images/articles/lapidary-hero.webp"
-heroAlt: "Lapidary is the art of cutting, shaping, and polishing stones and gems"
+heroAlt: "A person's hand holding a pen and touching a rock on a rocky surface"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

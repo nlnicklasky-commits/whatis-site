@@ -5,7 +5,7 @@ description: "Operations research uses math, statistics, and algorithms to make 
 category: technology
 tags: ["operations research", "optimization", "mathematical modeling", "decision science", "analytics", "logistics", "supply chain"]
 heroImage: "/images/articles/operations-research-hero.webp"
-heroAlt: "Operations research uses math, statistics, and algorithms to make better decisions"
+heroAlt: "A man sitting at a desk, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

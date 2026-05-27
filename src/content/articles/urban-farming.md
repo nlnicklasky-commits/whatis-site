@@ -5,7 +5,7 @@ description: "Urban farming is growing food in cities using rooftops, vacant lot
 category: everyday-concepts
 tags: ["urban farming", "agriculture", "city gardening", "food production", "sustainability", "community"]
 heroImage: "/images/articles/urban-farming-hero.webp"
-heroAlt: "Urban farming is growing food in cities using rooftops, vacant lots, and indoor spaces"
+heroAlt: "The woman is kneeling in a garden, planting a seed in the soil"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

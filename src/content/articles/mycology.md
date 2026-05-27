@@ -5,7 +5,7 @@ description: "Mycology is the branch of biology that studies fungi — a kingdom
 category: science
 tags: ["mycology", "fungi", "mushrooms", "biology", "ecology", "decomposers", "biotechnology"]
 heroImage: "/images/articles/mycology-hero.webp"
-heroAlt: "Mycology is the scientific study of fungi — mushrooms, molds, and yeasts"
+heroAlt: "A man in a forest examining mushrooms with a magnifying glass"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

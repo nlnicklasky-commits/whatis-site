@@ -5,7 +5,7 @@ description: "Yogurt making is the process of fermenting milk using specific bac
 category: everyday-concepts
 tags: ["food science", "cooking", "dairy", "fermentation", "probiotics", "healthy eating"]
 heroImage: "/images/articles/yogurt-making-hero.webp"
-heroAlt: "Yogurt making is the process of fermenting milk with live bacteria cultures"
+heroAlt: "A person's hands holding a glass jar containing a white substance, likely yogurt, on a wooden cutting board"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

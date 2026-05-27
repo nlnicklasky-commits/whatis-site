@@ -5,7 +5,7 @@ description: "Wildlife management applies science to maintain healthy animal pop
 category: science-technology
 tags: ["wildlife management", "conservation", "hunting", "ecology", "habitat", "natural resources"]
 heroImage: "/images/articles/wildlife-management-hero.webp"
-heroAlt: "Wildlife management applies science to maintain healthy animal populations and habitats"
+heroAlt: "A man in a brown jacket is sitting in a forest, reading a book and writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

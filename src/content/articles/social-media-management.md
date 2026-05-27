@@ -5,7 +5,7 @@ description: "Social media management is the process of creating, scheduling, an
 category: business
 tags: ["social media", "digital marketing", "content strategy", "management"]
 heroImage: "/images/articles/social-media-management-hero.webp"
-heroAlt: "Social media management is the process of creating, scheduling, and analyzing content across social platforms"
+heroAlt: "A woman working on a laptop at a desk with multiple computer monitors in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

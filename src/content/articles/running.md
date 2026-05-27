@@ -5,7 +5,7 @@ description: "Running is the act of moving on foot at a speed where both feet ar
 category: sports
 tags: ["exercise", "fitness", "cardio", "marathon", "running", "track and field"]
 heroImage: "/images/articles/running-hero.webp"
-heroAlt: "Running is the most natural form of human locomotion beyond walking"
+heroAlt: "A woman running on a track"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

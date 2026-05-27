@@ -5,7 +5,7 @@ description: "Antiques collecting is the practice of seeking out, acquiring, and
 category: everyday-concepts
 tags: ["antiques", "collecting", "collectibles", "vintage", "history", "appraisal"]
 heroImage: "/images/articles/antiques-collecting-hero.webp"
-heroAlt: "Antiques collecting is the practice of seeking out, acquiring, and preserving objects that are at least 100 years old"
+heroAlt: "A woman in a brown jacket is sitting at a wooden table, looking down at a floral vase"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

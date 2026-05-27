@@ -5,7 +5,7 @@ description: "Aviation history is the story of how humans learned to fly — fro
 category: history
 tags: ["aviation history", "flight", "aircraft", "wright brothers", "aerospace"]
 heroImage: "/images/articles/aviation-history-hero.webp"
-heroAlt: "Aviation history is the story of how humans learned to fly — from mythological dreams and failed experiments to the Wright"
+heroAlt: "A man in pilot's gear stands next to a vintage biplane on a tarmac"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Surfing is the act of riding ocean waves while standing (or lying,
 category: everyday-concepts
 tags: ["surfing", "ocean", "water sports", "waves", "balance", "beach culture"]
 heroImage: "/images/articles/surfing-hero.webp"
-heroAlt: "Surfing is the sport of riding ocean waves on a board"
+heroAlt: "The powerful, crashing wave with white foam spraying into the air"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

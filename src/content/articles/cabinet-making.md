@@ -5,7 +5,7 @@ description: "Cabinet making is the skilled craft of designing and building fine
 category: arts-amp-culture
 tags: ["cabinet making", "woodworking", "furniture", "craft", "joinery", "woodcraft"]
 heroImage: "/images/articles/cabinet-making-hero.webp"
-heroAlt: "Cabinet making is the skilled craft of designing and building fine furniture and storage pieces from wood using joinery"
+heroAlt: "A man working on a wooden surface, using a tool to shape and refine the wood"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

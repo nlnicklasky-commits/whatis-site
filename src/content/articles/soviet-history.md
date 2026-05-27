@@ -5,7 +5,7 @@ description: "Soviet history is the study of the Union of Soviet Socialist Repub
 category: history
 tags: ["soviet history", "ussr", "communism", "cold war"]
 heroImage: "/images/articles/soviet-history-hero.webp"
-heroAlt: "Soviet history covers the rise and fall of the USSR from 1917 to 1991"
+heroAlt: "Two elderly men wearing military uniforms, standing on a city street"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

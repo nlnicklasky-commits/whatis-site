@@ -5,7 +5,7 @@ description: "Podcasting is the creation and distribution of episodic audio cont
 category: technology
 tags: ["audio", "digital media", "content creation", "broadcasting", "entertainment", "information"]
 heroImage: "/images/articles/podcasting-hero.webp"
-heroAlt: "Podcasting is the creation and distribution of episodic audio content that listeners can subscribe to, download"
+heroAlt: "A woman in a navy blue blazer sitting at a desk with a camera and other equipment in front of her"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

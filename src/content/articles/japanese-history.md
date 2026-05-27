@@ -5,7 +5,7 @@ description: "Japanese history spans from ancient Jomon culture to modern econom
 category: history
 tags: ["japanese culture", "japan", "samurai", "shogunate", "meiji restoration"]
 heroImage: "/images/articles/japanese-history-hero.webp"
-heroAlt: "Japanese history spans from ancient Jomon culture to modern economic power"
+heroAlt: "A man wearing a traditional Japanese warrior costume, including a helmet and armor, standing on a street in front of"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

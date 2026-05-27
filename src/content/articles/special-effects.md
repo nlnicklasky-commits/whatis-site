@@ -5,7 +5,7 @@ description: "Special effects create illusions in film, TV, and theater using pr
 category: arts-amp-culture
 tags: ["special effects", "VFX", "CGI", "practical effects", "film production", "motion capture"]
 heroImage: "/images/articles/special-effects-hero.webp"
-heroAlt: "Special effects create illusions in film, TV, and theater using practical techniques and CGI"
+heroAlt: "A man in a futuristic suit is sitting at a desk, focused on a computer screen displaying an image of a woman"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

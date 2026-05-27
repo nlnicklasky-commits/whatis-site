@@ -5,7 +5,7 @@ description: "Systems engineering is the discipline of designing and managing co
 category: everyday-concepts
 tags: ["systems engineering", "engineering", "design", "lifecycle", "requirements", "integration"]
 heroImage: "/images/articles/systems-engineering-hero.webp"
-heroAlt: "Systems engineering is the discipline of designing and managing complex systems over their entire lifecycle"
+heroAlt: "A man in a blue suit and glasses sitting at a desk, writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

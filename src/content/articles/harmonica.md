@@ -5,7 +5,7 @@ description: "The harmonica is a small wind instrument played by blowing and dra
 category: arts-amp-culture
 tags: ["harmonica", "musical instrument", "wind instrument", "blues", "folk music", "reed instrument"]
 heroImage: "/images/articles/harmonica-hero.webp"
-heroAlt: "The harmonica is a small wind instrument played by blowing and drawing air through reeds"
+heroAlt: "A person's hands holding a harmonica"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

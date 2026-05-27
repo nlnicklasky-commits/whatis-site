@@ -5,7 +5,7 @@ description: "Decorating is the practice of arranging and styling living spaces 
 category: everyday-concepts
 tags: ["decorating", "everyday-concepts"]
 heroImage: "/images/articles/decorating-hero.webp"
-heroAlt: "Decorating is the practice of arranging and styling living spaces for beauty and function"
+heroAlt: "A person is pointing at a color swatch on a table, while another person is looking at the swatch"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

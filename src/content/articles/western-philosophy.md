@@ -5,7 +5,7 @@ description: "Western philosophy is the tradition of rational inquiry from ancie
 category: science-technology
 tags: ["western philosophy", "philosophy", "ancient Greece", "ethics", "metaphysics", "epistemology"]
 heroImage: "/images/articles/western-philosophy-hero.webp"
-heroAlt: "Western philosophy is the tradition of rational inquiry from ancient Greece to modern times"
+heroAlt: "A man in a suit stands facing away from the camera, with a dark background and a single light source illuminating him"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Negotiation is a conversation between two or more parties who want
 category: everyday-concepts
 tags: ["negotiation", "bargaining", "conflict resolution", "diplomacy", "agreement", "communication skills"]
 heroImage: "/images/articles/negotiation-hero.webp"
-heroAlt: "Negotiation is a dialogue between parties aimed at reaching an agreement"
+heroAlt: "A man and a woman sitting at a table, engaged in a conversation"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

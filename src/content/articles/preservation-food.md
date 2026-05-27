@@ -5,7 +5,7 @@ description: "Food preservation is any method of treating food to slow or preven
 category: everyday-concepts
 tags: ["food preservation", "food storage", "canning", "freezing", "drying", "fermentation"]
 heroImage: "/images/articles/preservation-food-hero.webp"
-heroAlt: "Food preservation extends shelf life by stopping spoilage through methods like canning, freezing, drying, and fermentation"
+heroAlt: "A person's hands holding a pile of various fruits, including cherries and tomatoes, on a wooden surface. There are also some"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

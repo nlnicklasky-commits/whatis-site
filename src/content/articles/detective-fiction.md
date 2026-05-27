@@ -5,7 +5,7 @@ description: "Detective fiction is a genre centered on solving crimes through in
 category: arts-amp-culture
 tags: ["detective fiction", "arts-amp-culture"]
 heroImage: "/images/articles/detective-fiction-hero.webp"
-heroAlt: "Detective fiction is a genre centered on solving crimes through investigation and logic"
+heroAlt: "A man in a trench coat and hat, holding a small object, appears to be a character from a mystery or crime novel"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Roofing is the construction, installation, and maintenance of the 
 category: everyday-concepts
 tags: ["roof", "roofing materials", "construction", "building", "home repair", "roof repair"]
 heroImage: "/images/articles/roofing-hero.webp"
-heroAlt: "Roofing is the craft of constructing and repairing the top covering of buildings"
+heroAlt: "A construction worker wearing a yellow hard hat and safety vest, kneeling on a roof and using tools to work on the shingles"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

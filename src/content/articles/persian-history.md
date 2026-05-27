@@ -5,7 +5,7 @@ description: "Persian history covers over 2,500 years of civilization in modern-
 category: history
 tags: ["persian history", "iran", "ancient persia", "achaemenid empire"]
 heroImage: "/images/articles/persian-history-hero.webp"
-heroAlt: "Persian history covers over 2,500 years of civilization in modern-day Iran"
+heroAlt: "A man with a long beard is reading a book while sitting on a stone wall, with a cityscape visible in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Electrical engineering designs systems that generate, transmit, an
 category: technology
 tags: ["electrical engineering", "electronics", "electricity", "electromagnetism", "power systems", "circuitry", "engineering"]
 heroImage: "/images/articles/electrical-engineering-hero.webp"
-heroAlt: "Electrical engineering designs systems that generate, transmit, and use electricity"
+heroAlt: "Two scientists in lab coats examining a circuit board"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Scheduling is the process of arranging, controlling, and optimizin
 category: everyday-concepts
 tags: ["scheduling", "time management", "project management", "planning", "resource allocation", "productivity"]
 heroImage: "/images/articles/scheduling-hero.webp"
-heroAlt: "Scheduling is the process of organizing tasks and resources across time"
+heroAlt: "A woman in a blue blazer is sitting at a desk, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

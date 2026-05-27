@@ -5,7 +5,7 @@ description: "Bioengineering applies engineering principles to biological system
 category: technology
 tags: ["bioengineering", "biomedical engineering", "medical devices", "tissue engineering", "prosthetics", "bioinformatics", "healthcare technology"]
 heroImage: "/images/articles/bioengineering-hero.webp"
-heroAlt: "Bioengineering applies engineering principles to biological systems"
+heroAlt: "A man in a lab coat and glasses is carefully handling a small object, likely conducting an experiment or analyzing data"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

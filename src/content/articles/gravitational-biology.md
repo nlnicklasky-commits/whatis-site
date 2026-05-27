@@ -5,7 +5,7 @@ description: "Gravitational biology studies how gravity affects living organisms
 category: science
 tags: ["gravitational biology", "gravity", "microgravity", "space biology", "astrobiology", "physiology", "space exploration"]
 heroImage: "/images/articles/gravitational-biology-hero.webp"
-heroAlt: "Gravitational biology studies how gravity affects living organisms, from plant growth to astronaut health"
+heroAlt: "A man in a lab coat examining a glass container filled with a clear liquid, which appears to be a sample or substance"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

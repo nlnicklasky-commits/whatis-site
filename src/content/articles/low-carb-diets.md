@@ -5,7 +5,7 @@ description: "A low-carb diet is any eating pattern that restricts carbohydrate 
 category: health-amp-wellness
 tags: ["nutrition", "low-carb diets", "health", "weight loss", "metabolism"]
 heroImage: "/images/articles/low-carb-diets-hero.webp"
-heroAlt: "Low-carb diets restrict carbohydrate intake to promote fat burning, weight loss, and improved blood sugar control"
+heroAlt: "A plate of grilled salmon with asparagus and a side salad, accompanied by a fork and knife on a wooden table"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

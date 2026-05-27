@@ -5,7 +5,7 @@ description: "Chicken farming is the practice of raising domesticated chickens (
 category: everyday-concepts
 tags: ["chicken farming", "poultry", "agriculture", "farming", "livestock", "eggs"]
 heroImage: "/images/articles/chicken-farming-hero.webp"
-heroAlt: "Chicken farming is the practice of raising domesticated chickens (Gallus gallus domesticus) for egg production"
+heroAlt: "A bearded man in overalls is feeding chickens in a barn"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

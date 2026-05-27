@@ -5,7 +5,7 @@ description: "Media production is the process of creating content for film, TV, 
 category: arts-amp-culture
 tags: ["media production", "film", "television", "video", "content creation", "broadcasting"]
 heroImage: "/images/articles/media-production-hero.webp"
-heroAlt: "Media production is the process of creating content for film, TV, radio, web, and social platforms"
+heroAlt: "A man with a beard and a suit, who is gesturing with his hands while standing in front of a camera and a video camera"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

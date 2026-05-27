@@ -5,7 +5,7 @@ description: "World War II (1939–1945) was the largest and deadliest armed con
 category: history
 tags: ["wwii", "second world war", "global conflict", "military history"]
 heroImage: "/images/articles/world-war-ii-hero.webp"
-heroAlt: "World War II (1939-1945) was the deadliest conflict in human history"
+heroAlt: "A man in a military uniform sits in a trench, intently studying a map"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

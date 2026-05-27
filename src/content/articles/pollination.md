@@ -5,7 +5,7 @@ description: "Pollination is the transfer of pollen grains from the male part of
 category: science
 tags: ["biology", "plants", "ecology", "pollinators", "reproduction", "agriculture", "ecosystems"]
 heroImage: "/images/articles/pollination-hero.webp"
-heroAlt: "Pollination is the transfer of pollen grains from the male part of a flower (the anther) to the female part (the stigma)"
+heroAlt: "A bee pollinating a pink flower"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

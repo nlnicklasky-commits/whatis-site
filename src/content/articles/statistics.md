@@ -5,7 +5,7 @@ description: "Statistics is the science of collecting, analyzing, and interpreti
 category: science
 tags: ["statistics", "mathematics", "probability", "data analysis", "hypothesis testing", "regression"]
 heroImage: "/images/articles/statistics-hero.webp"
-heroAlt: "Statistics is the science of collecting, analyzing, and interpreting data to make decisions under uncertainty"
+heroAlt: "A woman in a navy blue blazer and white blouse sits at a desk, smiling confidently with her arms crossed"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

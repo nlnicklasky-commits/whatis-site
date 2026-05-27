@@ -5,7 +5,7 @@ description: "Windsurfing is a water sport that combines elements of sailing and
 category: sports
 tags: ["windsurfing", "water sports", "sailing", "surfing", "extreme sports", "outdoor recreation"]
 heroImage: "/images/articles/windsurfing-hero.webp"
-heroAlt: "Windsurfing combines sailing and surfing on a board with an attached sail"
+heroAlt: "A person in a wetsuit is windsurfing on a wave, holding onto a rope attached to a sail"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

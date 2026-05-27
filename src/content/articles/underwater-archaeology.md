@@ -5,7 +5,7 @@ description: "Underwater archaeology studies human history through submerged sit
 category: history
 tags: ["underwater archaeology", "shipwrecks", "maritime", "conservation"]
 heroImage: "/images/articles/underwater-archaeology-hero.webp"
-heroAlt: "Underwater archaeology studies human history through submerged sites — shipwrecks, sunken cities"
+heroAlt: "The underwater environment, with coral formations and a diver holding a piece of coral"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Human nutrition is the science of how food sustains the body. Lear
 category: health-amp-wellness
 tags: ["human nutrition", "nutrition", "diet", "health", "food science"]
 heroImage: "/images/articles/human-nutrition-hero.webp"
-heroAlt: "Human nutrition is the science of how food sustains the body"
+heroAlt: "A person holding a bowl of fresh salad with various fruits and vegetables, including apples, oranges, and grapes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

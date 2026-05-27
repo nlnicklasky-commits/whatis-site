@@ -5,7 +5,7 @@ description: "Plastering is the craft of applying plaster to walls and ceilings 
 category: everyday-concepts
 tags: ["construction", "building", "plaster", "walls", "ceilings", "craft"]
 heroImage: "/images/articles/plastering-hero.webp"
-heroAlt: "Plastering is the craft of applying plaster to walls and ceilings for smooth, durable finishes"
+heroAlt: "A person's hands wearing white gloves working with a yellow container on a table covered in flour"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

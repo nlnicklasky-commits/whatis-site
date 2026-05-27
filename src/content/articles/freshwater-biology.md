@@ -5,7 +5,7 @@ description: "Freshwater biology is the scientific study of living organisms and
 category: science
 tags: ["biology", "ecology", "aquatic ecosystems", "water quality", "conservation", "limnology", "biodiversity"]
 heroImage: "/images/articles/freshwater-biology-hero.webp"
-heroAlt: "Freshwater biology studies life in rivers, lakes, and wetlands"
+heroAlt: "A colorful frog with large eyes sits on a pond surface, surrounded by floating leaves and other aquatic plants"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

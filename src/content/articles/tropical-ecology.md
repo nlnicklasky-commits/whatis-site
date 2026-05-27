@@ -5,7 +5,7 @@ description: "Tropical ecology studies life in Earth's warmest regions, from rai
 category: science
 tags: ["tropical ecology", "ecology", "biodiversity", "rainforest", "conservation", "ecosystems"]
 heroImage: "/images/articles/tropical-ecology-hero.webp"
-heroAlt: "Tropical ecology studies life in Earth's warmest regions, from rainforest canopies to coral reefs"
+heroAlt: "A man in a white jacket and protective gear is using a smartphone to photograph a small bird perched on his finger"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

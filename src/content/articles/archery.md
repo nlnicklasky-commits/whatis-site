@@ -5,7 +5,7 @@ description: "Archery is the practice of using a bow to propel arrows toward a t
 category: sports
 tags: ["archery", "bow and arrow", "marksmanship", "target sports", "olympics", "hunting"]
 heroImage: "/images/articles/archery-hero.webp"
-heroAlt: "Archery is the skill of shooting arrows with a bow"
+heroAlt: "A man in a black shirt and khaki pants is aiming a bow and arrow at a target in a grassy field"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

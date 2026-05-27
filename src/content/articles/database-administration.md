@@ -5,7 +5,7 @@ description: "Database administration manages, secures, and optimizes databases 
 category: technology
 tags: ["database administration", "databases", "sql", "data management", "it", "dba", "performance tuning"]
 heroImage: "/images/articles/database-administration-hero.webp"
-heroAlt: "Database administration manages, secures, and optimizes databases that store organizational data"
+heroAlt: "A man in a suit is sitting at a desk, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

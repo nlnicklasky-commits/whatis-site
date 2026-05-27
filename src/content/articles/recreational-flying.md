@@ -5,7 +5,7 @@ description: "Recreational flying is piloting an aircraft — airplane, glider, 
 category: sports
 tags: ["recreational flying", "aviation", "pilot", "general aviation", "aircraft", "flying"]
 heroImage: "/images/articles/recreational-flying-hero.webp"
-heroAlt: "Recreational flying is piloting aircraft for personal enjoyment rather than commercial purposes"
+heroAlt: "A man wearing sunglasses and a leather jacket, sitting in the cockpit of an airplane and looking out the window at the sunset"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

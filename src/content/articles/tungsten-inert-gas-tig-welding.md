@@ -5,7 +5,7 @@ description: "TIG welding uses a non-consumable tungsten electrode and inert gas
 category: technology
 tags: ["tig welding", "welding", "manufacturing", "metalworking", "fabrication"]
 heroImage: "/images/articles/tungsten-inert-gas-tig-welding-hero.webp"
-heroAlt: "TIG welding uses a non-consumable tungsten electrode and inert gas to create precise, high-quality welds"
+heroAlt: "A person wearing protective gear, such as a helmet and gloves, working on a piece of metal in a workshop setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

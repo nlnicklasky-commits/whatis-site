@@ -5,7 +5,7 @@ description: "Islamic history covers 1,400 years from the Prophet Muhammad to mo
 category: history
 tags: ["islamic civilization", "islam", "history", "caliphate", "muslim world"]
 heroImage: "/images/articles/islamic-history-hero.webp"
-heroAlt: "Islamic history covers 1,400 years from the Prophet Muhammad to modern Muslim-majority nations"
+heroAlt: "The man is wearing a turban and holding a book in his hands"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

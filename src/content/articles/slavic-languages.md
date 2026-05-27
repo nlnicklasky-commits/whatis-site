@@ -5,7 +5,7 @@ description: "Slavic languages are a family of related languages spoken by over 
 category: language
 tags: ["slavic languages", "east slavic", "west slavic", "south slavic", "russian", "polish"]
 heroImage: "/images/articles/slavic-languages-hero.webp"
-heroAlt: "Slavic languages are a family of related languages spoken by over 300 million people across Eastern Europe and beyond"
+heroAlt: "A smiling elderly man wearing a red hat and scarf is seated at a table with a glass jar and a plant in front of him"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

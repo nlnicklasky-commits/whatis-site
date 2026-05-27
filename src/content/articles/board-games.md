@@ -5,7 +5,7 @@ description: "Board games are structured games played on a flat surface (a board
 category: everyday-concepts
 tags: ["board games", "tabletop games", "strategy", "games", "entertainment", "family games"]
 heroImage: "/images/articles/board-games-hero.webp"
-heroAlt: "Board games are structured games played on a flat surface (a board) using pieces, cards, dice"
+heroAlt: "A group of people playing chess together"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

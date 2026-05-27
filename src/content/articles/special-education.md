@@ -5,7 +5,7 @@ description: "Special education is individually designed instruction for student
 category: education
 tags: ["special education", "IEP", "disabilities", "IDEA", "learning disabilities", "inclusion"]
 heroImage: "/images/articles/special-education-hero.webp"
-heroAlt: "Special education provides tailored instruction for students with disabilities"
+heroAlt: "A group of children sitting at a table, smiling and engaged in a learning activity"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

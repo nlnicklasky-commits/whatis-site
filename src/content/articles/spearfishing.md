@@ -5,7 +5,7 @@ description: "Spearfishing is an ancient method of fishing using a spear or spea
 category: sports
 tags: ["spearfishing", "freediving", "underwater hunting", "marine", "fishing", "ocean"]
 heroImage: "/images/articles/spearfishing-hero.webp"
-heroAlt: "Spearfishing is an ancient method of fishing using a spear or speargun while diving underwater"
+heroAlt: "A scuba diver in a black wetsuit and diving mask is holding a rifle while underwater in a coral reef environment"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

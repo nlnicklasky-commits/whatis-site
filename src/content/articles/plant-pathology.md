@@ -5,7 +5,7 @@ description: "Plant pathology (also called phytopathology) is the scientific stu
 category: science
 tags: ["plants", "diseases", "agriculture", "pathogens", "crops", "botany", "ecology"]
 heroImage: "/images/articles/plant-pathology-hero.webp"
-heroAlt: "Plant pathology (also called phytopathology) is the scientific study of plant diseases — their causes"
+heroAlt: "A person in a lab coat examining a leaf with spots on it"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

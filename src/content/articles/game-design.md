@@ -5,7 +5,7 @@ description: "Game design is the process of creating the rules, systems, narrati
 category: everyday-concepts
 tags: ["game design", "video games", "board games", "interactive design", "game mechanics", "entertainment"]
 heroImage: "/images/articles/game-design-hero.webp"
-heroAlt: "Game design is the process of creating rules, mechanics, and experiences for games"
+heroAlt: "A man is sitting at a desk, intently focused on a large computer monitor displaying multiple screens, likely working on"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

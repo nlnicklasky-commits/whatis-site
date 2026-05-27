@@ -5,7 +5,7 @@ description: "Philosophy of music is the branch of philosophy that asks fundamen
 category: everyday-concepts
 tags: ["philosophy of music", "aesthetics", "music theory", "emotion", "art", "meaning"]
 heroImage: "/images/articles/philosophy-of-music-hero.webp"
-heroAlt: "Philosophy of music examines what music is, why it moves us emotionally, and what makes it meaningful"
+heroAlt: "A person standing by a lake, looking at the mountains in the distance"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

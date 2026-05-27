@@ -5,7 +5,7 @@ description: "Western art spans thousands of years of visual culture from ancien
 category: arts-culture
 tags: ["western art", "art history", "painting", "sculpture", "fine arts", "visual culture"]
 heroImage: "/images/articles/western-art-hero.webp"
-heroAlt: "Western art spans thousands of years of visual culture from ancient Greece to contemporary movements"
+heroAlt: "A man looking at a painting of a dog in a museum"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

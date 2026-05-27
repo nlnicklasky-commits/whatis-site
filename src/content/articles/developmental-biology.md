@@ -5,7 +5,7 @@ description: "Developmental biology is the branch of biology that studies the pr
 category: science
 tags: ["developmental biology", "embryology", "biology", "genetics", "cell differentiation", "morphogenesis", "stem cells"]
 heroImage: "/images/articles/developmental-biology-hero.webp"
-heroAlt: "Developmental biology studies how organisms grow from a single cell into complex beings"
+heroAlt: "A bearded man in a lab coat and glasses examines a sample under a microscope"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

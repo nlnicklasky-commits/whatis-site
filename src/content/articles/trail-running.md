@@ -5,7 +5,7 @@ description: "Trail running is the sport of running on unpaved paths through nat
 category: sports
 tags: ["trail running", "running", "outdoor sports", "nature", "endurance", "ultramarathon"]
 heroImage: "/images/articles/trail-running-hero.webp"
-heroAlt: "Trail running is the sport of running on unpaved paths through natural terrain"
+heroAlt: "A woman running on a trail in a natural setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

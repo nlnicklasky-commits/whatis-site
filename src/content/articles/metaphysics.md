@@ -5,7 +5,7 @@ description: "Metaphysics is the branch of philosophy studying the fundamental n
 category: everyday-concepts
 tags: ["metaphysics", "philosophy", "ontology", "reality", "existence", "consciousness"]
 heroImage: "/images/articles/metaphysics-hero.webp"
-heroAlt: "Metaphysics is the branch of philosophy studying the fundamental nature of reality, existence, and being"
+heroAlt: "A woman in a navy blue blazer is sitting at a wooden desk, working on a laptop and surrounded by various office supplies"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

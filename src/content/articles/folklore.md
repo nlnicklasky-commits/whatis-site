@@ -5,7 +5,7 @@ description: "Folklore is the collective body of traditions, beliefs, stories, c
 category: everyday-concepts
 tags: ["folklore", "mythology", "traditions", "oral history", "cultural heritage", "legends"]
 heroImage: "/images/articles/folklore-hero.webp"
-heroAlt: "Folklore is the traditional beliefs, stories, customs, and practices shared within a community"
+heroAlt: "An elderly person sitting by a campfire, reading a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

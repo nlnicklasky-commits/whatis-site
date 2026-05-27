@@ -5,7 +5,7 @@ description: "Computer networking is the practice of connecting two or more comp
 category: technology
 tags: ["networking", "internet", "data communication", "it", "network protocols", "cybersecurity", "cloud computing"]
 heroImage: "/images/articles/computer-networking-hero.webp"
-heroAlt: "Computer networking is the practice of connecting two or more computing devices to share data and resources"
+heroAlt: "A man in a suit standing in front of a computer monitor displaying a world map"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

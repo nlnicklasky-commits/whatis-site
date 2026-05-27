@@ -5,7 +5,7 @@ description: "Realism is an art movement that emerged in France in the 1840s-185
 category: arts-amp-culture
 tags: ["realism art", "art movement", "19th century", "painting", "Gustave Courbet", "naturalism"]
 heroImage: "/images/articles/realism-art-hero.webp"
-heroAlt: "Realism is an art movement depicting everyday subjects truthfully, without idealization"
+heroAlt: "The man is painting a picture on an easel"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Electronics is the science of controlling electrical current using
 category: technology
 tags: ["electronics", "electrical engineering", "semiconductors", "circuits", "transistors", "integrated circuits", "technology"]
 heroImage: "/images/articles/electronics-hero.webp"
-heroAlt: "Electronics is the science of controlling electrical current using semiconductors and circuits"
+heroAlt: "A close-up view of a circuit board with various electronic components, including a large integrated circuit in the center"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

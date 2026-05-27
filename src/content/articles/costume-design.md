@@ -5,7 +5,7 @@ description: "Costume design is the art of creating clothing for theater, film, 
 category: arts-amp-culture
 tags: ["costume design", "theater", "film", "fashion", "character", "production"]
 heroImage: "/images/articles/costume-design-hero.webp"
-heroAlt: "Costume design is the art of creating clothing for theater, film, and TV characters"
+heroAlt: "Two women working together on a sewing project in a sewing workshop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

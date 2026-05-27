@@ -5,7 +5,7 @@ description: "Speed reading refers to a collection of techniques designed to inc
 category: everyday-concepts
 tags: ["speed reading", "reading", "literacy", "study skills", "productivity", "learning"]
 heroImage: "/images/articles/speed-reading-hero.webp"
-heroAlt: "Speed reading is a set of techniques for reading faster while retaining information"
+heroAlt: "A man in a suit is sitting at a desk, reading a book and using a laptop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Immunology is the study of the immune system — how your body fig
 category: everyday-concepts
 tags: ["immunology", "immune system", "biology", "medicine", "vaccines", "autoimmune"]
 heroImage: "/images/articles/immunology-hero.webp"
-heroAlt: "Immunology is the study of the immune system — how your body fights infections and disease"
+heroAlt: "A man wearing a white lab coat and glasses, standing in a laboratory setting with various scientific equipment and materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

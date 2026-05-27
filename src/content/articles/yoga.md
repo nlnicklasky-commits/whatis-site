@@ -5,7 +5,7 @@ description: "Yoga is a mind-body practice that originated in ancient India and 
 category: health-amp-wellness
 tags: ["mindfulness", "meditation", "fitness", "spirituality", "wellness"]
 heroImage: "/images/articles/yoga-hero.webp"
-heroAlt: "Yoga is an ancient practice combining physical postures, breathing, and meditation"
+heroAlt: "A person wearing a brown beanie and jacket is taking a photograph of a body of water at sunset"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

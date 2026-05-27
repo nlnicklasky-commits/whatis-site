@@ -5,7 +5,7 @@ description: "Pharmacy is the health science concerned with the preparation, dis
 category: health-amp-wellness
 tags: ["pharmacist", "medications", "drugs", "healthcare"]
 heroImage: "/images/articles/pharmacy-hero.webp"
-heroAlt: "Pharmacy is the science of preparing, dispensing, and managing medications"
+heroAlt: "A man in a white lab coat sitting at a desk in a laboratory setting, focused on a tablet device"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

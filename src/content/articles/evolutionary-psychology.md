@@ -5,7 +5,7 @@ description: "Evolutionary psychology studies how natural selection shaped human
 category: everyday-concepts
 tags: ["evolutionary psychology", "human behavior", "natural selection", "cognitive science", "adaptation", "psychology"]
 heroImage: "/images/articles/evolutionary-psychology-hero.webp"
-heroAlt: "Evolutionary psychology studies how natural selection shaped human behavior and mental processes"
+heroAlt: "A woman sitting at a desk, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

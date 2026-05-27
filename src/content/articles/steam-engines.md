@@ -5,7 +5,7 @@ description: "A steam engine is a machine that converts thermal energy from stea
 category: history
 tags: ["technology", "steam engines", "industrial revolution", "engineering"]
 heroImage: "/images/articles/steam-engines-hero.webp"
-heroAlt: "Steam engines convert heat into mechanical work and powered the Industrial Revolution"
+heroAlt: "A steam engine train, and there is a person standing next to it"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

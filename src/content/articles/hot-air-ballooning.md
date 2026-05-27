@@ -5,7 +5,7 @@ description: "Hot air ballooning is the oldest form of human flight, using the s
 category: everyday-concepts
 tags: ["hot air ballooning", "hot air balloon", "aviation", "flight", "aerodynamics", "adventure"]
 heroImage: "/images/articles/hot-air-ballooning-hero.webp"
-heroAlt: "Hot air ballooning is flight using heated air inside a fabric envelope for lift"
+heroAlt: "A hot air balloon carrying two people is seen in a field with wildflowers at sunset"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

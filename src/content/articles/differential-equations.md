@@ -5,7 +5,7 @@ description: "A differential equation is a mathematical equation that relates a 
 category: science
 tags: ["differential equations", "mathematics", "calculus", "modeling", "physics", "engineering", "applied math"]
 heroImage: "/images/articles/differential-equations-hero.webp"
-heroAlt: "Differential equations describe how things change using rates of change"
+heroAlt: "A bearded man in a white jacket sitting at a desk, focused on writing on a piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Pantomime is a theatrical form combining comedy, music, and audien
 category: everyday-concepts
 tags: ["pantomime", "theater", "performing arts", "comedy", "british culture", "entertainment"]
 heroImage: "/images/articles/pantomime-hero.webp"
-heroAlt: "Pantomime is a theatrical form combining comedy, music, and audience participation, popular in Britain"
+heroAlt: "A man with a long white beard and a black hat, wearing a red and black outfit, appears to be in a forest setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

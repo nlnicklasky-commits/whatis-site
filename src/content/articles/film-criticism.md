@@ -5,7 +5,7 @@ description: "Film criticism is the analysis and evaluation of movies as works o
 category: arts-amp-culture
 tags: ["film", "cinema", "review", "analysis", "evaluation", "media studies"]
 heroImage: "/images/articles/film-criticism-hero.webp"
-heroAlt: "Film criticism analyzes and evaluates movies through artistic, cultural, and technical lenses"
+heroAlt: "A woman in a black blazer sitting at a desk with a laptop and papers in front of her"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

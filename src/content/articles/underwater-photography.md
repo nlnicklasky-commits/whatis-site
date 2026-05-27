@@ -5,7 +5,7 @@ description: "Underwater photography captures images beneath the water's surface
 category: arts-amp-culture
 tags: ["underwater photography", "photography", "marine life", "diving", "ocean", "camera gear"]
 heroImage: "/images/articles/underwater-photography-hero.webp"
-heroAlt: "Underwater photography captures images beneath the water's surface"
+heroAlt: "The underwater photographer is capturing images of the vibrant coral reef below"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

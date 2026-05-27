@@ -5,7 +5,7 @@ description: "Oceanography studies the ocean's physics, chemistry, biology, and 
 category: science
 tags: ["oceanography", "ocean", "marine science", "marine biology", "climate change", "ecology", "marine geology"]
 heroImage: "/images/articles/oceanography-hero.webp"
-heroAlt: "Oceanography studies the ocean's physics, chemistry, biology, and geology"
+heroAlt: "The person is conducting an experiment in the water, using a specialized instrument to collect water samples"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

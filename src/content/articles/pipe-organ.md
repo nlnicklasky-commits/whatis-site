@@ -5,7 +5,7 @@ description: "A pipe organ is a keyboard instrument that produces sound by forci
 category: everyday-concepts
 tags: ["pipe organ", "music", "instrument", "church music", "keyboard", "acoustics"]
 heroImage: "/images/articles/pipe-organ-hero.webp"
-heroAlt: "A pipe organ is a keyboard instrument that produces sound by pushing air through tuned pipes"
+heroAlt: "The interior of a church with a large pipe organ and stained glass windows"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

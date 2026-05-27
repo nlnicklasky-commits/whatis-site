@@ -5,7 +5,7 @@ description: "Psychiatry is the medical specialty focused on diagnosing and trea
 category: health-amp-wellness
 tags: ["psychiatry", "mental health", "mental illness", "psychotherapy"]
 heroImage: "/images/articles/psychiatry-hero.webp"
-heroAlt: "Psychiatry is the medical specialty focused on diagnosing and treating mental illness"
+heroAlt: "A doctor and a patient engaged in a conversation, with the doctor sitting on a chair and the patient sitting on a couch"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

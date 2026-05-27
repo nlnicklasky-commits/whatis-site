@@ -5,7 +5,7 @@ description: "Video game design is the process of creating game rules, mechanics
 category: everyday-concepts
 tags: ["video game design", "game development", "game mechanics", "level design", "interactive media", "gaming"]
 heroImage: "/images/articles/video-game-design-hero.webp"
-heroAlt: "Video game design is the process of creating game rules, mechanics, levels, and player experiences"
+heroAlt: "A man with curly hair is sitting at a desk, intently focused on a computer screen displaying a video game"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

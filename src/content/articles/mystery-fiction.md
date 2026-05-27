@@ -5,7 +5,7 @@ description: "Mystery fiction centers on solving a crime or puzzle, typically a 
 category: arts-amp-culture
 tags: ["mystery fiction", "detective fiction", "crime fiction", "whodunit", "thriller", "literary genre"]
 heroImage: "/images/articles/mystery-fiction-hero.webp"
-heroAlt: "Mystery fiction centers on solving a crime or puzzle, typically a murder"
+heroAlt: "A man sitting at a desk, focused on a book or document in front of him, with a lamp illuminating the area"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

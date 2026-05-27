@@ -5,7 +5,7 @@ description: "Scuba diving lets you breathe underwater using portable air tanks.
 category: sports
 tags: ["scuba diving", "underwater", "diving", "marine life", "ocean", "exploration"]
 heroImage: "/images/articles/scuba-diving-hero.webp"
-heroAlt: "Scuba diving lets you breathe underwater using portable air tanks"
+heroAlt: "Scuba diver exploring a vibrant underwater coral reef"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

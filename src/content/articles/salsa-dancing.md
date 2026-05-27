@@ -5,7 +5,7 @@ description: "Salsa dancing is a partner dance performed to salsa music — a ge
 category: everyday-concepts
 tags: ["salsa dancing", "dance", "Latin dance", "partner dance", "music", "rhythm"]
 heroImage: "/images/articles/salsa-dancing-hero.webp"
-heroAlt: "Salsa dancing is a partner dance originating from Cuban and Puerto Rican music traditions"
+heroAlt: "A couple dancing salsa in a crowded room"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

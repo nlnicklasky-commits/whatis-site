@@ -5,7 +5,7 @@ description: "Automotive design is the process of creating a vehicle's visual id
 category: technology
 tags: ["automotive design", "car design", "industrial design", "transportation design", "automotive", "cars", "engineering"]
 heroImage: "/images/articles/automotive-design-hero.webp"
-heroAlt: "Automotive design is the process of creating a vehicle's visual identity, form, and user experience"
+heroAlt: "A sleek, futuristic-looking car with a streamlined design and a pointed nose, positioned in a well-lit room with a large"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

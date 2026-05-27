@@ -5,7 +5,7 @@ description: "Software architecture is the high-level structure of a software sy
 category: technology
 tags: ["software architecture", "software engineering", "design patterns", "system design", "microservices", "technology"]
 heroImage: "/images/articles/software-architecture-hero.webp"
-heroAlt: "Software architecture is the high-level structure of a software system, defining its components and how they interact"
+heroAlt: "The man is writing on a whiteboard"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

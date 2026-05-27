@@ -5,7 +5,7 @@ description: "Maori culture is the indigenous culture of New Zealand, known for 
 category: arts-amp-culture
 tags: ["maori culture", "New Zealand", "indigenous culture", "haka", "Te Reo Maori", "Polynesian"]
 heroImage: "/images/articles/maori-culture-hero.webp"
-heroAlt: "Maori culture is the indigenous culture of New Zealand, known for its art, haka, language, and deep connection to land"
+heroAlt: "An elderly man with a long white beard wearing a colorful, feathered headdress"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

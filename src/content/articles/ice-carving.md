@@ -5,7 +5,7 @@ description: "Ice carving is the art of sculpting blocks of ice into decorative 
 category: arts-amp-culture
 tags: ["ice sculpture", "carving", "art", "winter art", "ephemeral art", "sculpture techniques"]
 heroImage: "/images/articles/ice-carving-hero.webp"
-heroAlt: "Ice carving is the art of sculpting blocks of ice into decorative forms"
+heroAlt: "A person's gloved hand using a knife to carve a block of ice"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

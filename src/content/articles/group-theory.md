@@ -5,7 +5,7 @@ description: "Group theory is the branch of mathematics that studies algebraic s
 category: science
 tags: ["group theory", "mathematics", "abstract algebra", "symmetry", "algebra", "physics", "chemistry"]
 heroImage: "/images/articles/group-theory-hero.webp"
-heroAlt: "Group theory studies mathematical symmetry through algebraic structures called groups"
+heroAlt: "A bearded man is sitting at a desk, writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

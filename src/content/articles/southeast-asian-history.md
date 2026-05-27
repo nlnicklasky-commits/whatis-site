@@ -5,7 +5,7 @@ description: "Southeast Asian history is the story of how eleven modern nations 
 category: history
 tags: ["southeast asian history", "asia", "colonialism", "history"]
 heroImage: "/images/articles/southeast-asian-history-hero.webp"
-heroAlt: "Southeast Asian history spans thousands of years of empires, trade networks, colonialism, and independence"
+heroAlt: "A vase with dried branches and a hanging lamp on a table with a stack of books"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

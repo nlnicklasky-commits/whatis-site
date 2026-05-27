@@ -5,7 +5,7 @@ description: "Textile design is the creation of patterns, prints, and structures
 category: arts-amp-culture
 tags: ["textile design", "fabric design", "pattern design", "weave", "print", "knitting"]
 heroImage: "/images/articles/textile-design-hero.webp"
-heroAlt: "Textile design is the creation of patterns, prints, and structures for fabrics"
+heroAlt: "A person's hands working on a colorful textile project, surrounded by various crafting supplies and materials"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

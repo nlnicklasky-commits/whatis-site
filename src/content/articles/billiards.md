@@ -5,7 +5,7 @@ description: "Billiards is a family of cue sports played on a felt-covered table
 category: everyday-concepts
 tags: ["billiards", "pool", "snooker", "cue sports", "8-ball", "9-ball"]
 heroImage: "/images/articles/billiards-hero.webp"
-heroAlt: "Billiards is a family of cue sports played on a felt-covered table, where players strike balls with a stick called a cue"
+heroAlt: "A pool table with colorful balls and a pool cue on it"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

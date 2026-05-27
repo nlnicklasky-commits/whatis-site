@@ -5,7 +5,7 @@ description: "Mediterranean history covers thousands of years of civilizations a
 category: history
 tags: ["history", "mediterranean", "ancient civilizations"]
 heroImage: "/images/articles/mediterranean-history-hero.webp"
-heroAlt: "Mediterranean history covers thousands of years of civilizations around the Mediterranean Sea"
+heroAlt: "A person carefully carving a relief sculpture on a wall"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

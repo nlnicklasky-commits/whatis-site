@@ -5,7 +5,7 @@ description: "Generative AI is artificial intelligence that creates new content 
 category: technology
 tags: ["generative ai", "artificial intelligence", "machine learning", "deep learning", "llm", "technology"]
 heroImage: "/images/articles/generative-ai-hero.webp"
-heroAlt: "Generative AI is artificial intelligence that creates new content — text, images, audio, code, video"
+heroAlt: "Flowing blue and violet light particles on a deep navy background"
 author: "WhatIs Editorial"
 datePublished: "2026-05-13"
 dateModified: "2026-05-13"

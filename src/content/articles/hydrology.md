@@ -5,7 +5,7 @@ description: "Hydrology is the science of water movement through Earth's systems
 category: science
 tags: ["hydrology", "water cycle", "water resources", "environmental science", "precipitation", "groundwater", "flood management"]
 heroImage: "/images/articles/hydrology-hero.webp"
-heroAlt: "Hydrology is the science of water movement through Earth's systems"
+heroAlt: "A man standing near a river, looking at a map or GPS device, appears to be studying the terrain or planning a route"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Textile arts encompass all art forms made with fibers and fabric, 
 category: arts-amp-culture
 tags: ["textile arts", "fiber art", "weaving", "knitting", "dyeing", "embroidery"]
 heroImage: "/images/articles/textile-arts-hero.webp"
-heroAlt: "Textile arts encompass all art forms made with fibers and fabric, from weaving to embroidery"
+heroAlt: "A woman working on a loom in a room with various plants and books visible in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

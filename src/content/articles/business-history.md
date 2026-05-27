@@ -5,7 +5,7 @@ description: "Business history is the study of how commercial enterprises, indus
 category: history
 tags: ["business history", "economic history", "corporations", "entrepreneurship"]
 heroImage: "/images/articles/business-history-hero.webp"
-heroAlt: "Business history is the study of how commercial enterprises, industries, and economic practices have developed over time"
+heroAlt: "A man in a suit and tie is sitting at a desk, reading a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

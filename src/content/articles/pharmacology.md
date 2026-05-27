@@ -5,7 +5,7 @@ description: "Pharmacology is the study of how drugs interact with the body. Lea
 category: science
 tags: ["drugs", "medicine", "drug action", "pharmacodynamics", "pharmacokinetics", "toxicology", "pharmaceuticals"]
 heroImage: "/images/articles/pharmacology-hero.webp"
-heroAlt: "Pharmacology is the study of how drugs interact with the body"
+heroAlt: "A man in a lab coat is examining a small object, likely a piece of medication, while a computer monitor displays a graph or"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Transportation engineering designs and maintains systems that move
 category: technology
 tags: ["transportation engineering", "civil engineering", "infrastructure"]
 heroImage: "/images/articles/transportation-engineering-hero.webp"
-heroAlt: "Transportation engineering designs and maintains systems that move people and goods"
+heroAlt: "A construction worker wearing a yellow hard hat and an orange safety vest, standing on a road and looking at a tablet device"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

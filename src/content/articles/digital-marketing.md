@@ -5,7 +5,7 @@ description: "Digital marketing is the promotion of products, services, or brand
 category: technology
 tags: ["digital marketing", "marketing", "seo", "social media", "advertising", "content marketing", "analytics"]
 heroImage: "/images/articles/digital-marketing-hero.webp"
-heroAlt: "Digital marketing promotes products and services through online channels"
+heroAlt: "A woman in a business suit is sitting at a desk, looking at her phone and working on a laptop"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

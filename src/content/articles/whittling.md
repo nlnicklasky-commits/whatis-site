@@ -5,7 +5,7 @@ description: "Whittling is the art of carving shapes from wood using a knife. Le
 category: everyday-concepts
 tags: ["whittling", "wood carving", "crafts", "woodworking", "knife skills", "hobbies"]
 heroImage: "/images/articles/whittling-hero.webp"
-heroAlt: "Whittling is the art of carving shapes from wood using a knife"
+heroAlt: "An elderly man working on a wooden sculpture in a workshop, with a focused expression on his face"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

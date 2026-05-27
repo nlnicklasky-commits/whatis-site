@@ -5,7 +5,7 @@ description: "Canoeing is the activity of propelling and navigating a canoe — 
 category: sports
 tags: ["canoeing", "paddling", "water sports", "outdoor recreation", "canoes", "adventure"]
 heroImage: "/images/articles/canoeing-hero.webp"
-heroAlt: "Canoeing is the activity of propelling and navigating a canoe — an open, pointed-end boat — using a single-bladed paddle"
+heroAlt: "A man paddling a white kayak on a calm lake during sunset"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

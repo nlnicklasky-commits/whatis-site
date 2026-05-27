@@ -5,7 +5,7 @@ description: "Geomatics is the discipline of collecting, managing, and analyzing
 category: technology
 tags: ["geomatics", "spatial data", "gis", "remote sensing", "surveying", "gps", "mapping"]
 heroImage: "/images/articles/geomatics-hero.webp"
-heroAlt: "Geomatics is the discipline of collecting, managing, and analyzing spatial data using GPS, GIS, remote sensing"
+heroAlt: "A person's hands are using a smartphone to view a map, with a pen and paper visible on the table"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

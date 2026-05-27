@@ -5,7 +5,7 @@ description: "Folk dancing refers to traditional dances passed down within cultu
 category: arts-amp-culture
 tags: ["dance", "culture", "traditional dance", "folklore", "community", "heritage"]
 heroImage: "/images/articles/folk-dancing-hero.webp"
-heroAlt: "Folk dancing refers to traditional dances passed down within cultural communities"
+heroAlt: "Folk dancers performing a traditional dance in colorful costumes"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

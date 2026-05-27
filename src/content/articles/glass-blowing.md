@@ -5,7 +5,7 @@ description: "Glass blowing is the technique of shaping molten glass by inflatin
 category: arts-amp-culture
 tags: ["glass blowing", "glass art", "craft", "artisan", "molten glass", "glassware"]
 heroImage: "/images/articles/glass-blowing-hero.webp"
-heroAlt: "Glass blowing shapes molten glass into art and functional objects using air and tools"
+heroAlt: "The man is working with glass in a workshop, creating a piece of glass art"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

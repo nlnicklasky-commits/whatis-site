@@ -5,7 +5,7 @@ description: "Homeopathy is an alternative medicine system using ultra-diluted s
 category: everyday-concepts
 tags: ["homeopathy", "alternative medicine", "health", "placebo", "natural remedies"]
 heroImage: "/images/articles/homeopathy-hero.webp"
-heroAlt: "Homeopathy is an alternative medicine system using ultra-diluted substances to treat illness"
+heroAlt: "The woman is leaning over a table, examining a small bottle of liquid, which appears to be a homeopathic remedy"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Chemistry is the science of matter and how substances interact, bo
 category: science
 tags: ["chemistry", "science", "matter", "atoms", "molecules", "chemical reactions", "elements"]
 heroImage: "/images/articles/chemistry-hero.webp"
-heroAlt: "Chemistry is the science of matter and how substances interact, bond, and transform"
+heroAlt: "A man in a lab coat is conducting an experiment with various chemicals in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

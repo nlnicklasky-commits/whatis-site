@@ -5,7 +5,7 @@ description: "Nanotechnology is the science and engineering of manipulating matt
 category: technology
 tags: ["nanotechnology", "nanomaterials", "nanoscience", "quantum physics", "materials science", "medicine"]
 heroImage: "/images/articles/nanotechnology-hero.webp"
-heroAlt: "Nanotechnology engineers materials and devices at the atomic scale"
+heroAlt: "A man in a lab coat is intently examining a sample through a microscope"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

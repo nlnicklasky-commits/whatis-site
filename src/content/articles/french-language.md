@@ -5,7 +5,7 @@ description: "French is a Romance language descended from Vulgar Latin, spoken b
 category: philosophy
 tags: ["french language", "linguistics", "romance languages", "france", "francophone", "language learning", "culture"]
 heroImage: "/images/articles/french-language-hero.webp"
-heroAlt: "French is a Romance language spoken by 321 million people worldwide"
+heroAlt: "A person sitting at a table in a restaurant, with a backpack on the ground in front of them"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

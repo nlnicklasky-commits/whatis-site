@@ -5,7 +5,7 @@ description: "Information retrieval is the science of finding relevant content i
 category: technology
 tags: ["information retrieval", "search engines", "nlp", "data mining", "big data", "relevance", "indexing"]
 heroImage: "/images/articles/information-retrieval-hero.webp"
-heroAlt: "Information retrieval is the science of finding relevant content in large collections"
+heroAlt: "A person looking at a computer screen displaying a graph and charts"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

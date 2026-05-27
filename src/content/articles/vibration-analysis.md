@@ -5,7 +5,7 @@ description: "Vibration analysis detects machinery faults by measuring mechanica
 category: technology
 tags: ["vibration analysis", "mechanical engineering", "predictive maintenance", "signal processing"]
 heroImage: "/images/articles/vibration-analysis-hero.webp"
-heroAlt: "Vibration analysis detects machinery faults by measuring mechanical oscillations"
+heroAlt: "A man wearing safety glasses and a blue shirt, working on a piece of machinery in a workshop setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

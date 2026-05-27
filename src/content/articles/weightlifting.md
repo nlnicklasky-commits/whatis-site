@@ -5,7 +5,7 @@ description: "Weightlifting is the sport of lifting heavy barbells overhead in t
 category: everyday-concepts
 tags: ["weightlifting", "Olympic lifting", "strength training", "fitness", "barbell", "athletics"]
 heroImage: "/images/articles/weightlifting-hero.webp"
-heroAlt: "Weightlifting is the sport of lifting heavy barbells overhead in the snatch and clean & jerk"
+heroAlt: "A man in a suit is seen lifting a heavy object, surrounded by sparks and light"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Complexity theory is the interdisciplinary study of how systems co
 category: science
 tags: ["complexity theory", "complex systems", "emergence", "self-organization", "chaos theory", "interdisciplinary", "science"]
 heroImage: "/images/articles/complexity-theory-hero.webp"
-heroAlt: "Complexity theory is the interdisciplinary study of how systems composed of many interacting components produce collective"
+heroAlt: "The woman is writing on a whiteboard or a similar surface, using a marker or pen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

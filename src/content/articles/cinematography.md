@@ -5,7 +5,7 @@ description: "Cinematography is the art of visual storytelling through motion pi
 category: arts-amp-culture
 tags: ["cinematography", "filmmaking", "camera", "visual storytelling", "movies", "directing"]
 heroImage: "/images/articles/cinematography-hero.webp"
-heroAlt: "Cinematography is the art of visual storytelling through motion pictures — controlling light, camera movement, lens choice"
+heroAlt: "A man in a black sweater is standing in front of a camera and film equipment, looking intently at the camera"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

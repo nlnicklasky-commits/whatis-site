@@ -5,7 +5,7 @@ description: "Film noir is a style of dark, cynical crime films from the 1940s-5
 category: everyday-concepts
 tags: ["film noir", "cinema", "crime films", "Hollywood", "detective stories", "visual style"]
 heroImage: "/images/articles/film-noir-hero.webp"
-heroAlt: "Film noir is a style of dark, cynical crime films from the 1940s-50s featuring shadowy visuals and morally ambiguous"
+heroAlt: "A person in a long coat and hat standing in a dimly lit alley at night, holding a lit object"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

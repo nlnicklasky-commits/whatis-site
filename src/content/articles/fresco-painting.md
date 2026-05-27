@@ -5,7 +5,7 @@ description: "Fresco painting applies pigment to wet plaster, creating durable w
 category: everyday-concepts
 tags: ["fresco painting", "mural art", "Renaissance art", "Michelangelo", "wall painting", "art history"]
 heroImage: "/images/articles/fresco-painting-hero.webp"
-heroAlt: "Fresco painting applies pigment to wet plaster, creating durable wall art"
+heroAlt: "A faded fresco painting on a wall, depicting a group of people in classical attire"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

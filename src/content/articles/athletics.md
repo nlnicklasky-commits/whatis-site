@@ -5,7 +5,7 @@ description: "Athletics is a collection of sporting events including running, ju
 category: sports
 tags: ["athletics", "track and field", "sports", "running", "olympics", "marathon"]
 heroImage: "/images/articles/athletics-hero.webp"
-heroAlt: "Athletics is a collection of sporting events including running, jumping, throwing, and walking competitions"
+heroAlt: "A female athlete in a maroon top and black shorts is running on a blue track, with other runners visible in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

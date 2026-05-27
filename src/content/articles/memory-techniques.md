@@ -5,7 +5,7 @@ description: "Memory techniques — also called mnemonics or mnemonic strategies
 category: everyday-concepts
 tags: ["memory techniques", "mnemonics", "learning", "cognitive science", "memory palace", "study skills"]
 heroImage: "/images/articles/memory-techniques-hero.webp"
-heroAlt: "Memory techniques are strategies for improving recall, from the memory palace to spaced repetition"
+heroAlt: "A man sitting in a chair, writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

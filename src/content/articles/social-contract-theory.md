@@ -5,7 +5,7 @@ description: "Social contract theory explains why people form governments by agr
 category: everyday-concepts
 tags: ["social contract theory", "philosophy", "government", "Hobbes", "Locke", "Rousseau"]
 heroImage: "/images/articles/social-contract-theory-hero.webp"
-heroAlt: "Social contract theory explains why people form governments by agreeing to give up some freedoms for collective security"
+heroAlt: "A person holding a blank piece of paper in front of a bookshelf"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Manufacturing engineering is the branch of engineering that design
 category: technology
 tags: ["manufacturing engineering", "manufacturing", "production", "automation", "quality control", "industrial engineering", "processes"]
 heroImage: "/images/articles/manufacturing-engineering-hero.webp"
-heroAlt: "Manufacturing engineering is the branch of engineering that designs, improves"
+heroAlt: "A smiling woman in a blue shirt stands in front of a large industrial machine in a factory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Geology is the scientific study of Earth — its structure, compos
 category: science
 tags: ["geology", "earth science", "rocks", "minerals", "plate tectonics", "natural hazards", "resources"]
 heroImage: "/images/articles/geology-hero.webp"
-heroAlt: "Geology is the scientific study of Earth — its structure, composition, the physical and chemical processes that shape it"
+heroAlt: "A woman in a tan jacket and backpack is crouched on a rocky mountain, closely examining something with a magnifying glass"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Printmaking is a family of artistic techniques in which an image i
 category: arts-amp-culture
 tags: ["printmaking", "art", "woodcut", "etching", "lithography", "screen printing"]
 heroImage: "/images/articles/printmaking-hero.webp"
-heroAlt: "Printmaking is an art form where images are transferred from a prepared surface to paper or fabric"
+heroAlt: "The person is using a pen to draw on a piece of paper or a surface, likely engaged in the process of printmaking"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Sports coaching is the practice of guiding athletes to improve per
 category: sports
 tags: ["sports coaching", "athlete development", "training", "coaching philosophy", "mentorship", "youth sports"]
 heroImage: "/images/articles/sports-coaching-hero.webp"
-heroAlt: "Sports coaching is the practice of guiding athletes to improve performance, develop skills, and achieve goals"
+heroAlt: "A man in a blue shirt who is crouching on the grass and appears to be coaching a soccer game"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

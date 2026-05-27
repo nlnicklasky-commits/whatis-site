@@ -5,7 +5,7 @@ description: "Naval architecture is the engineering discipline concerned with th
 category: technology
 tags: ["naval architecture", "marine engineering", "ship design", "vessel design", "hydrodynamics", "maritime technology"]
 heroImage: "/images/articles/naval-architecture-hero.webp"
-heroAlt: "Naval architecture is the engineering of ships and marine vessels — from hull design to stability to propulsion"
+heroAlt: "A man wearing a white lab coat and safety goggles, intently examining a piece of machinery or equipment in a large"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Cereal science is the interdisciplinary study of cereal grains —
 category: science
 tags: ["cereal science", "grains", "food science", "agriculture", "nutrition", "wheat", "rice", "corn"]
 heroImage: "/images/articles/cereal-science-hero.webp"
-heroAlt: "Cereal science is the interdisciplinary study of cereal grains — their biology, genetics, chemistry, processing"
+heroAlt: "The woman in the image is holding a bowl of cereal and appears to be in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

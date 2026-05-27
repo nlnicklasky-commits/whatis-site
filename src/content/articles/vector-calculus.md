@@ -5,7 +5,7 @@ description: "Vector calculus extends calculus to vector fields, enabling the ma
 category: science
 tags: ["mathematics", "vector calculus", "physics", "engineering"]
 heroImage: "/images/articles/vector-calculus-hero.webp"
-heroAlt: "Vector calculus extends calculus to vector fields, enabling the math behind physics, engineering, and fluid flow"
+heroAlt: "A bearded man is sitting at a desk, writing on a piece of paper in front of a laptop"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

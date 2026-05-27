@@ -5,7 +5,7 @@ description: "Digital logic is the system of rules and circuits that processes i
 category: everyday-concepts
 tags: ["digital logic", "everyday-concepts"]
 heroImage: "/images/articles/digital-logic-hero.webp"
-heroAlt: "Digital logic is the foundation of computing, using binary signals and logic gates to process information"
+heroAlt: "A man with a beard is smiling and working on a computer in an office setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

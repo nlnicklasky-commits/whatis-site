@@ -5,7 +5,7 @@ description: "Sports writing covers athletic events, athletes, and sports cultur
 category: arts-amp-culture
 tags: ["sports writing", "journalism", "sports media", "sportswriting", "athletic storytelling", "reporting"]
 heroImage: "/images/articles/sports-writing-hero.webp"
-heroAlt: "Sports writing covers athletic events, athletes, and sports culture through journalism, analysis, and storytelling"
+heroAlt: "A person's hand holding a pen and writing in a notebook on a desk"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

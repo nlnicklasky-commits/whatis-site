@@ -5,7 +5,7 @@ description: "Public health protects and improves the health of entire populatio
 category: health-amp-wellness
 tags: ["public health", "disease prevention", "epidemiology", "community health"]
 heroImage: "/images/articles/public-health-hero.webp"
-heroAlt: "Public health protects and improves the health of entire populations through prevention, education, and policy"
+heroAlt: "A female doctor wearing a face mask and scrubs, sitting at a desk and examining a patient"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

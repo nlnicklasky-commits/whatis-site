@@ -5,7 +5,7 @@ description: "Data science is an interdisciplinary field that uses scientific me
 category: technology
 tags: ["data science", "machine learning", "statistics", "analytics", "big data", "ai", "programming"]
 heroImage: "/images/articles/data-science-hero.webp"
-heroAlt: "Data science combines statistics, programming, and domain expertise to extract knowledge from data"
+heroAlt: "A woman in a blue blazer is sitting at a desk, working on a computer with multiple monitors displaying data"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

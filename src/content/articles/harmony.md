@@ -5,7 +5,7 @@ description: "Harmony is how musical notes combine into chords and progressions.
 category: arts-amp-culture
 tags: ["harmony", "music theory", "music", "chords", "consonance", "dissonance"]
 heroImage: "/images/articles/harmony-hero.webp"
-heroAlt: "Harmony is how musical notes combine into chords and progressions"
+heroAlt: "A group of people, including a man and a woman, are standing together and smiling"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

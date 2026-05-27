@@ -5,7 +5,7 @@ description: "Pali is a Middle Indo-Aryan language that became the sacred langua
 category: everyday-concepts
 tags: ["pali language", "buddhism", "ancient languages", "theravada", "linguistics", "sacred texts"]
 heroImage: "/images/articles/pali-language-hero.webp"
-heroAlt: "Pali is the sacred language of Theravada Buddhism, preserving the oldest Buddhist scriptures"
+heroAlt: "A man sitting at a table, intently reading a book"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

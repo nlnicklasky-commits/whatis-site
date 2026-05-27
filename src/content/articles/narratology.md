@@ -5,7 +5,7 @@ description: "Narratology is the study of narrative structure and how stories wo
 category: arts-amp-culture
 tags: ["narratology", "narrative theory", "storytelling", "literary theory", "story structure", "fiction"]
 heroImage: "/images/articles/narratology-hero.webp"
-heroAlt: "Narratology is the study of narrative structure and how stories work across media"
+heroAlt: "A woman sitting at a table, writing in a notebook while a man looks on"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

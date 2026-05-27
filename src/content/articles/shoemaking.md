@@ -5,7 +5,7 @@ description: "Shoemaking is the craft of designing and constructing footwear —
 category: everyday-concepts
 tags: ["shoemaking", "footwear", "shoes", "craft", "leatherwork", "fashion"]
 heroImage: "/images/articles/shoemaking-hero.webp"
-heroAlt: "Shoemaking is the craft of designing and constructing footwear from leather and other materials"
+heroAlt: "A person's hands carefully adjusting the laces of a black shoe on a workbench covered in flour"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Rural sociology is the branch of sociology that studies the social
 category: everyday-concepts
 tags: ["rural communities", "agriculture", "rural development", "social studies", "sociology", "community"]
 heroImage: "/images/articles/rural-sociology-hero.webp"
-heroAlt: "Rural sociology studies social life, institutions, and change in rural communities"
+heroAlt: "A person's hands planting a seed in the soil"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

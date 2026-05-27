@@ -5,7 +5,7 @@ description: "Quantum chemistry is the branch of chemistry that applies quantum 
 category: science
 tags: ["quantum chemistry", "quantum mechanics", "chemistry", "molecular orbitals", "computational chemistry", "electronic structure"]
 heroImage: "/images/articles/quantum-chemistry-hero.webp"
-heroAlt: "Quantum chemistry is the branch of chemistry that applies quantum mechanics — the physics of the very small"
+heroAlt: "A woman in a lab coat is sitting at a desk, working on a computer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Wildlife conservation protects animal species and their habitats f
 category: science-technology
 tags: ["wildlife conservation", "endangered species", "biodiversity", "ecology", "habitat protection", "conservation"]
 heroImage: "/images/articles/wildlife-conservation-hero.webp"
-heroAlt: "Wildlife conservation protects animal species and their habitats from extinction and decline"
+heroAlt: "A woman in a safari outfit crouches down and examines something in a basket, with a field of trees and wildlife in"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

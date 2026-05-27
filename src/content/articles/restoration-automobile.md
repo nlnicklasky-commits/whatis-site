@@ -5,7 +5,7 @@ description: "Automobile restoration is the process of disassembling, repairing,
 category: hobbies
 tags: ["restoration automobile", "classic cars", "vintage vehicles", "automotive", "hobby", "mechanics"]
 heroImage: "/images/articles/restoration-automobile-hero.webp"
-heroAlt: "Automobile restoration is the process of returning a classic or vintage vehicle to its original condition"
+heroAlt: "A red and white car with visible rust and damage, suggesting it is in the process of being restored"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

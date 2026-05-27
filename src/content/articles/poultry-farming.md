@@ -5,7 +5,7 @@ description: "Poultry farming is the practice of raising domesticated birds — 
 category: science
 tags: ["poultry farming", "agriculture", "chicken farming", "egg production", "meat production", "livestock", "animal husbandry"]
 heroImage: "/images/articles/poultry-farming-hero.webp"
-heroAlt: "Poultry farming is the practice of raising domesticated birds — primarily chickens, but also turkeys, ducks, geese"
+heroAlt: "A bearded man in a gray jacket and cap tending to a flock of chickens in a barn"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

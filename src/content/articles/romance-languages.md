@@ -5,7 +5,7 @@ description: "Romance languages are a family of languages that all descended fro
 category: language
 tags: ["latin", "vulgar latin", "spanish", "french", "italian", "portuguese"]
 heroImage: "/images/articles/romance-languages-hero.webp"
-heroAlt: "Romance languages are a family of languages descended from Latin, including Spanish, French, Italian, and Portuguese"
+heroAlt: "A group of people gathered in a park, with a city skyline visible in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

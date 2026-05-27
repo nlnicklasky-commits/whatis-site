@@ -5,7 +5,7 @@ description: "Politics is the process by which groups of people make decisions, 
 category: everyday-concepts
 tags: ["government", "power", "decision-making", "society", "elections", "policy"]
 heroImage: "/images/articles/politics-hero.webp"
-heroAlt: "Politics is the process of making collective decisions, distributing power, and governing societies"
+heroAlt: "Two men in suits, one older and one younger, engaged in a conversation in front of a crowd of people"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Aikido is a Japanese martial art focused on redirecting an attacke
 category: sports
 tags: ["aikido", "martial arts", "japanese martial arts", "self-defense", "budo", "jujutsu"]
 heroImage: "/images/articles/aikido-hero.webp"
-heroAlt: "Aikido is a Japanese martial art focused on redirecting an attacker's energy rather than meeting force with force"
+heroAlt: "A man in a white gi is practicing martial arts with another person in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

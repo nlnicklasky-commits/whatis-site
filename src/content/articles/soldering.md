@@ -5,7 +5,7 @@ description: "Soldering is the process of joining metals using a filler alloy me
 category: technology
 tags: ["soldering", "electronics", "metalwork", "circuit board", "welding", "manufacturing"]
 heroImage: "/images/articles/soldering-hero.webp"
-heroAlt: "Soldering is the process of joining metals using a filler alloy melted at low temperatures"
+heroAlt: "A man in a blue shirt and safety glasses is soldering a circuit board with a soldering iron"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

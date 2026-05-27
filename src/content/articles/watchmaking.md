@@ -5,7 +5,7 @@ description: "Watchmaking is the art and science of designing and building timep
 category: arts-amp-culture
 tags: ["watchmaking", "horology", "craftsmanship", "mechanical watches", "Swiss watches", "precision"]
 heroImage: "/images/articles/watchmaking-hero.webp"
-heroAlt: "Watchmaking is the art and science of designing and building timepieces"
+heroAlt: "A person's hands examining a watch on a workbench in a workshop setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Maritime history is the study of humanity's relationship with the 
 category: history
 tags: ["seafaring", "maritime history", "naval"]
 heroImage: "/images/articles/maritime-history-hero.webp"
-heroAlt: "Maritime history is the study of humanity's relationship with the sea — how people have sailed, traded, fought, explored"
+heroAlt: "The ship's wheel and the people on the dock"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

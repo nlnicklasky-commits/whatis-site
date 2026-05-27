@@ -5,7 +5,7 @@ description: "Operations management oversees the production of goods and service
 category: everyday-concepts
 tags: ["operations management", "business efficiency", "supply chain", "production", "manufacturing", "service delivery"]
 heroImage: "/images/articles/operations-management-hero.webp"
-heroAlt: "Operations management oversees the production of goods and services efficiently"
+heroAlt: "The woman is sitting at a desk in an office, looking at a document or piece of paper"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

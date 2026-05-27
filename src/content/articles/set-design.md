@@ -5,7 +5,7 @@ description: "Set design — also called scenic design — is the art and craft 
 category: arts-amp-culture
 tags: ["set design", "scenic design", "theater", "film", "television", "production design"]
 heroImage: "/images/articles/set-design-hero.webp"
-heroAlt: "Set design creates the physical environments for theater, film, and TV productions"
+heroAlt: "The interior of a studio with a large window, curtains, and a chandelier hanging from the ceiling. There is a wooden chair"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

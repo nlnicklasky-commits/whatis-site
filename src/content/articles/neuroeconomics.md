@@ -5,7 +5,7 @@ description: "Neuroeconomics is an interdisciplinary field that combines neurosc
 category: science
 tags: ["neuroeconomics", "decision making", "neuroscience", "economics", "psychology", "brain", "behavioral economics"]
 heroImage: "/images/articles/neuroeconomics-hero.webp"
-heroAlt: "Neuroeconomics is an interdisciplinary field that combines neuroscience, economics"
+heroAlt: "A man in a white lab coat is sitting at a desk, working on a laptop computer with a graph displayed on the screen"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

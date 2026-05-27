@@ -5,7 +5,7 @@ description: "Classical music spans over 1,000 years of Western art music tradit
 category: arts-amp-culture
 tags: ["classical music", "music", "orchestra", "symphony", "opera", "music history"]
 heroImage: "/images/articles/classical-music-hero.webp"
-heroAlt: "Classical music spans over 1,000 years of Western art music tradition"
+heroAlt: "A man playing a violin on stage in front of an audience"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

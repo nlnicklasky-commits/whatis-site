@@ -5,7 +5,7 @@ description: "Psychotherapy is structured talk-based treatment for mental health
 category: health-amp-wellness
 tags: ["psychotherapy", "talk therapy", "mental health", "counseling"]
 heroImage: "/images/articles/psychotherapy-hero.webp"
-heroAlt: "Psychotherapy is structured talk-based treatment for mental health conditions"
+heroAlt: "A man in a suit is sitting in a chair and talking to a woman who is sitting across from him"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

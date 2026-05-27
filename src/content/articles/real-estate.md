@@ -5,7 +5,7 @@ description: "Real estate is land, the buildings and structures sitting on it, a
 category: finance
 tags: ["real estate", "property", "housing", "investment", "commercial property", "residential", "finance"]
 heroImage: "/images/articles/real-estate-hero.webp"
-heroAlt: "Real estate is land, the buildings and structures sitting on it, and the natural resources attached to it — water, minerals"
+heroAlt: "Two men standing outside a house, engaged in conversation"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

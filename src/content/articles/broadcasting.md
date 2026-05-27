@@ -5,7 +5,7 @@ description: "Broadcasting is the electronic transmission of audio or video cont
 category: everyday-concepts
 tags: ["broadcasting", "radio", "television", "media", "communication", "journalism"]
 heroImage: "/images/articles/broadcasting-hero.webp"
-heroAlt: "Broadcasting is the electronic transmission of audio or video content to a dispersed audience through radio, television"
+heroAlt: "A person operating a video camera in a recording studio, with a microphone and other equipment visible"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

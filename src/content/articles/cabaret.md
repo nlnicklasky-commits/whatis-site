@@ -5,7 +5,7 @@ description: "Cabaret is a form of live entertainment featuring music, comedy, d
 category: arts-amp-culture
 tags: ["cabaret", "live performance", "theatre", "music", "entertainment", "nightlife"]
 heroImage: "/images/articles/cabaret-hero.webp"
-heroAlt: "Cabaret is a form of live entertainment featuring music, comedy, dance, drama, and spoken word"
+heroAlt: "The woman in the image is wearing a black dress with a feathered skirt and has her hair styled in an elaborate updo"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

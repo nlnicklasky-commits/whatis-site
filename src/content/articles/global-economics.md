@@ -5,7 +5,7 @@ description: "Global economics is the study of economic activity, trade, finance
 category: finance
 tags: ["global economics", "international trade", "economics", "finance", "globalization", "foreign investment", "exchange rates"]
 heroImage: "/images/articles/global-economics-hero.webp"
-heroAlt: "Global economics studies international trade, finance, and policy across borders"
+heroAlt: "A group of people sitting around a table, engaged in a discussion or meeting, with a large graph or chart displayed on"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

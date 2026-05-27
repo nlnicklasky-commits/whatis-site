@@ -5,7 +5,7 @@ description: "Linear algebra is the branch of mathematics that studies vectors, 
 category: science
 tags: ["linear algebra", "mathematics", "vectors", "matrices", "linear equations", "eigenvalues", "math"]
 heroImage: "/images/articles/linear-algebra-hero.webp"
-heroAlt: "Linear algebra studies vectors, matrices, and linear transformations"
+heroAlt: "A person holding a camera, and there is a bench in the background"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

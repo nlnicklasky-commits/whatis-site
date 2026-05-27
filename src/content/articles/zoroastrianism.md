@@ -5,7 +5,7 @@ description: "Zoroastrianism is one of the world's oldest continuously practiced
 category: philosophy
 tags: ["religion", "ancient religions", "persian culture", "monotheism", "spirituality"]
 heroImage: "/images/articles/zoroastrianism-hero.webp"
-heroAlt: "Zoroastrianism is one of the world's oldest continuously practiced religions"
+heroAlt: "A man with a long white beard wearing a red turban and robe, standing in front of a stone structure with a fire burning"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

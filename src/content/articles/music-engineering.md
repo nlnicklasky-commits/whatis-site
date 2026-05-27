@@ -5,7 +5,7 @@ description: "Music engineering is the technical discipline of capturing, manipu
 category: technology
 tags: ["music engineering", "audio engineering", "sound engineering", "music production", "recording", "mixing", "mastering"]
 heroImage: "/images/articles/music-engineering-hero.webp"
-heroAlt: "Music engineering is the technical craft behind recorded sound — from microphone placement to mixing and mastering"
+heroAlt: "A bearded man wearing headphones is intently focused on a computer screen displaying complex audio waveform data"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

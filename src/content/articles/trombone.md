@@ -5,7 +5,7 @@ description: "The trombone is a brass instrument that uses a slide instead of va
 category: everyday-concepts
 tags: ["trombone", "brass instruments", "music", "jazz", "orchestra", "marching band"]
 heroImage: "/images/articles/trombone-hero.webp"
-heroAlt: "The trombone is a brass instrument that uses a slide instead of valves to change pitch"
+heroAlt: "A golden trombone rests on a wooden surface, its polished surface reflecting the light"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Functional analysis is the branch of mathematics that studies vect
 category: everyday-concepts
 tags: ["functional analysis", "mathematics", "linear algebra", "Banach spaces", "Hilbert spaces", "topology"]
 heroImage: "/images/articles/functional-analysis-hero.webp"
-heroAlt: "Functional analysis studies infinite-dimensional vector spaces and operators"
+heroAlt: "A man in a suit is sitting at a desk, focused on a tablet device"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

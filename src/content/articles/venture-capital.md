@@ -5,7 +5,7 @@ description: "Venture capital is a form of private equity financing where invest
 category: finance
 tags: ["venture capital", "investing", "startups", "finance", "entrepreneurship"]
 heroImage: "/images/articles/venture-capital-hero.webp"
-heroAlt: "Venture capital is high-risk investment in early-stage startups"
+heroAlt: "A group of people sitting around a table, engaged in discussion"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

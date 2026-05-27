@@ -5,7 +5,7 @@ description: "Home brewing is the practice of making beer, wine, cider, or mead 
 category: everyday-concepts
 tags: ["home brewing", "brewing", "beer", "wine", "fermentation", "craft beer"]
 heroImage: "/images/articles/home-brewing-hero.webp"
-heroAlt: "Home brewing is making beer, wine, or cider at home using basic equipment and ingredients"
+heroAlt: "A glass bottle filled with a golden liquid, likely beer, sits on a wooden table in a cozy kitchen setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

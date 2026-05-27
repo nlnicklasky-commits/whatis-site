@@ -5,7 +5,7 @@ description: "Mechatronics is the engineering discipline that combines mechanica
 category: technology
 tags: ["mechatronics", "robotics", "automation", "electronics", "mechanical engineering", "control systems", "sensors"]
 heroImage: "/images/articles/mechatronics-hero.webp"
-heroAlt: "Mechatronics combines mechanical engineering, electronics, and computer science to create smart systems"
+heroAlt: "A man in a white lab coat is working on a computer in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

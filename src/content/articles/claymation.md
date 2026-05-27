@@ -5,7 +5,7 @@ description: "Claymation is a form of stop-motion animation where characters and
 category: arts-amp-culture
 tags: ["claymation", "stop-motion", "animation", "clay", "film", "art"]
 heroImage: "/images/articles/claymation-hero.webp"
-heroAlt: "Claymation is a stop-motion animation technique using clay figures"
+heroAlt: "Two small figurines, one with a duck-like head and the other with a human-like body, sitting on a table covered with clay"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

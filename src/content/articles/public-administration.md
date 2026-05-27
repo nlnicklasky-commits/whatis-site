@@ -5,7 +5,7 @@ description: "Public administration is the field concerned with implementing gov
 category: politics
 tags: ["public administration", "government", "public policy", "bureaucracy", "public service", "management"]
 heroImage: "/images/articles/public-administration-hero.webp"
-heroAlt: "Public administration is the implementation of government policy through organized management of public programs and services"
+heroAlt: "A woman in a business suit is sitting at a desk, focused on a tablet device, surrounded by stacks of papers and a cup"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

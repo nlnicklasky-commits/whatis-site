@@ -5,7 +5,7 @@ description: "Public relations is the strategic management) of communication bet
 category: everyday-concepts
 tags: ["public relations", "pr", "media relations", "communication", "reputation management", "crisis communication"]
 heroImage: "/images/articles/public-relations-hero.webp"
-heroAlt: "Public relations manages how organizations communicate with the public to build reputation and trust"
+heroAlt: "A woman in a business suit is speaking at a conference, gesturing with her hands as she addresses an audience"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

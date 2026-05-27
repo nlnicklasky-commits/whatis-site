@@ -5,7 +5,7 @@ description: "Mnemotechnics is the systematic study and application of technique
 category: everyday-concepts
 tags: ["mnemotechnics", "memory", "learning", "cognitive science", "study skills", "mnemonics"]
 heroImage: "/images/articles/mnemotechnics-hero.webp"
-heroAlt: "Mnemotechnics is the systematic study and application of techniques for improving memory"
+heroAlt: "A woman sitting at a desk, writing on a piece of paper or a notebook. There are several books and a laptop on the desk"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

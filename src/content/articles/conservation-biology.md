@@ -5,7 +5,7 @@ description: "Conservation biology is the scientific discipline dedicated to und
 category: science
 tags: ["biology", "ecology", "environment", "biodiversity", "conservation", "wildlife", "ecosystems"]
 heroImage: "/images/articles/conservation-biology-hero.webp"
-heroAlt: "Conservation biology is the scientific discipline dedicated to understanding and protecting Earth's biological diversity"
+heroAlt: "A woman in a forest, holding a magnifying glass and examining something on the ground"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

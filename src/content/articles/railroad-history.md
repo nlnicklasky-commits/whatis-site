@@ -5,7 +5,7 @@ description: "Railroad history is the story of how iron rails, steam power, and 
 category: history
 tags: ["transportation history", "railroad", "trains", "industrial revolution"]
 heroImage: "/images/articles/railroad-history-hero.webp"
-heroAlt: "Railroad history spans from early steam engines to modern high-speed rail"
+heroAlt: "A steam locomotive pulling passenger cars along a railway track through a forested area"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

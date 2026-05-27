@@ -5,7 +5,7 @@ description: "Origami is the Japanese art of paper folding, creating sculptures 
 category: everyday-concepts
 tags: ["origami", "paper art", "Japanese culture", "folding", "mathematics", "craft"]
 heroImage: "/images/articles/origami-hero.webp"
-heroAlt: "Origami is the Japanese art of paper folding, creating sculptures from a single sheet without cuts"
+heroAlt: "A man and a woman are sitting at a table, surrounded by various origami animals and figures"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

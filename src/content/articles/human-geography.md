@@ -5,7 +5,7 @@ description: "Human geography is the branch of geography that studies the spatia
 category: science
 tags: ["human geography", "geography", "population", "culture", "economy", "political geography", "urban studies"]
 heroImage: "/images/articles/human-geography-hero.webp"
-heroAlt: "Human geography studies how people shape and are shaped by the world"
+heroAlt: "A group of people shopping at an outdoor market, with a woman looking at a tablet and a man holding a bag"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

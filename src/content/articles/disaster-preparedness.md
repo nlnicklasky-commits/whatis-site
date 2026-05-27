@@ -5,7 +5,7 @@ description: "Disaster preparedness is the process of planning, organizing, and 
 category: everyday-concepts
 tags: ["disaster preparedness", "everyday-concepts"]
 heroImage: "/images/articles/disaster-preparedness-hero.webp"
-heroAlt: "Disaster preparedness means planning and preparing before emergencies strike"
+heroAlt: "A woman wearing a green hard hat is examining a cardboard box filled with orange items"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

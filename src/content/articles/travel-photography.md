@@ -5,7 +5,7 @@ description: "Travel photography captures places, people, and cultures through i
 category: arts-amp-culture
 tags: ["travel photography", "photography", "travel", "culture", "landscape", "visual arts"]
 heroImage: "/images/articles/travel-photography-hero.webp"
-heroAlt: "Travel photography captures places, people, and cultures through images"
+heroAlt: "A woman wearing a wide-brimmed hat and carrying a camera, taking a photograph of a colorful market scene"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

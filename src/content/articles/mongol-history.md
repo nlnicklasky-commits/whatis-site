@@ -5,7 +5,7 @@ description: "Mongol history covers the rise of Genghis Khan, the vast Mongol Em
 category: everyday-concepts
 tags: ["mongol history", "Genghis Khan", "Mongol Empire", "Asian history", "conquests", "steppe nomads"]
 heroImage: "/images/articles/mongol-history-hero.webp"
-heroAlt: "Mongol history covers the rise of Genghis Khan, the vast Mongol Empire, and its lasting impact on Eurasia"
+heroAlt: "A man in traditional Chinese attire stands in a field with mountains in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

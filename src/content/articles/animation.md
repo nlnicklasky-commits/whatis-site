@@ -5,7 +5,7 @@ description: "Animation is the art of creating the illusion of movement by displ
 category: arts-amp-culture
 tags: ["animation", "cgi", "2d animation", "3d animation", "stop motion", "motion graphics"]
 heroImage: "/images/articles/animation-hero.webp"
-heroAlt: "Animation is the art of creating the illusion of movement by displaying a sequence of images in rapid succession"
+heroAlt: "A woman sitting at a desk, focused on a computer screen displaying multiple images"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

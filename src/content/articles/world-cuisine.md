@@ -5,7 +5,7 @@ description: "World cuisine encompasses the diverse food traditions of cultures 
 category: lifestyle
 tags: ["world cuisine", "food", "cooking", "culinary traditions", "international food", "gastronomy"]
 heroImage: "/images/articles/world-cuisine-hero.webp"
-heroAlt: "World cuisine encompasses the diverse food traditions of cultures globally"
+heroAlt: "A person's hand holding a fork over a plate of steaming noodles, with a bowl of additional food and a bowl of vegetables"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

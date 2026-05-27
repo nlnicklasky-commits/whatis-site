@@ -5,7 +5,7 @@ description: "A political cartoon is a drawing — usually a single panel — th
 category: arts-amp-culture
 tags: ["politics", "art", "satire", "journalism", "humor", "current events"]
 heroImage: "/images/articles/political-cartoons-hero.webp"
-heroAlt: "Political cartoons use humor, satire, and visual metaphors to comment on politics and current events"
+heroAlt: "A man in a brown jacket is sitting at a desk, working on a laptop computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

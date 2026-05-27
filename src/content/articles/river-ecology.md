@@ -5,7 +5,7 @@ description: "River ecology is the scientific study of how living organisms inte
 category: science
 tags: ["river ecology", "freshwater", "aquatic ecosystems", "hydrology", "biodiversity", "conservation", "water quality"]
 heroImage: "/images/articles/river-ecology-hero.webp"
-heroAlt: "River ecology is the scientific study of how living organisms interact with each other and with the physical and chemical"
+heroAlt: "A small frog rests on a mossy rock in a stream, surrounded by lush greenery and sunlight filtering through the trees"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

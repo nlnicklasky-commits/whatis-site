@@ -5,7 +5,7 @@ description: "Neuroscience is the study of the nervous system, from brain cells 
 category: science
 tags: ["neuroscience", "brain", "nervous system", "neurons", "cognition", "behavior", "neurology"]
 heroImage: "/images/articles/neuroscience-hero.webp"
-heroAlt: "Neuroscience is the study of the nervous system, from brain cells and circuits to cognition, behavior, and consciousness"
+heroAlt: "A woman in a white lab coat standing in a modern, well-lit office environment with computer monitors and other scientific"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

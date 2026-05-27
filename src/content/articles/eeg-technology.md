@@ -5,7 +5,7 @@ description: "Electroencephalography (EEG) is a method of recording the electric
 category: technology
 tags: ["eeg", "electroencephalography", "neuroscience", "brain activity", "neurology", "brain waves", "medical technology"]
 heroImage: "/images/articles/eeg-technology-hero.webp"
-heroAlt: "Electroencephalography (EEG) is a method of recording the electrical activity of the brain using small sensors (electrodes)"
+heroAlt: "A woman wearing a white lab coat and looking at a tablet computer"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

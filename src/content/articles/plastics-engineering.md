@@ -5,7 +5,7 @@ description: "Plastics engineering is the branch of engineering focused on desig
 category: technology
 tags: ["plastics", "engineering", "polymers", "manufacturing", "product design", "materials science", "recycling"]
 heroImage: "/images/articles/plastics-engineering-hero.webp"
-heroAlt: "Plastics engineering is the branch of engineering focused on designing, manufacturing"
+heroAlt: "A woman in a white lab coat holding up a piece of plastic in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

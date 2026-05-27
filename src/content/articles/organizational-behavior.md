@@ -5,7 +5,7 @@ description: "Organizational behavior (OB) is the academic study of how people b
 category: everyday-concepts
 tags: ["organizational behavior", "ob", "workplace psychology", "human resources", "leadership", "team dynamics"]
 heroImage: "/images/articles/organizational-behavior-hero.webp"
-heroAlt: "Organizational behavior studies how people act in workplaces and why"
+heroAlt: "A group of people, including a woman and a man, are sitting around a table in a meeting room, engaged in discussion"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

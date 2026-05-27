@@ -5,7 +5,7 @@ description: "Mapmaking (cartography) is the art and science of creating maps, f
 category: technology
 tags: ["mapmaking", "cartography", "maps", "geography", "gis", "surveying", "spatial data"]
 heroImage: "/images/articles/mapmaking-hero.webp"
-heroAlt: "Mapmaking (cartography) is the art and science of creating maps"
+heroAlt: "A detailed map of the world with a compass and a feather quill pen on a wooden desk"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

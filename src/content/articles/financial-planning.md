@@ -5,7 +5,7 @@ description: "Financial planning is the process of setting financial goals and c
 category: finance
 tags: ["personal finance", "wealth management", "investment", "retirement", "budgeting", "saving", "debt management"]
 heroImage: "/images/articles/financial-planning-hero.webp"
-heroAlt: "Financial planning is the process of setting financial goals and creating a strategy to achieve them"
+heroAlt: "A man in a suit is working on a laptop at a desk with various documents and charts in front of him"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

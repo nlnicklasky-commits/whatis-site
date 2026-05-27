@@ -5,7 +5,7 @@ description: The ancient trade network connecting Asia, the Middle East, and Eur
 category: history
 tags: ["silk-road", "trade-routes", "ancient-history", "china", "roman-empire", "cultural-exchange"]
 heroImage: "/images/articles/silk-road-hero.webp"
-heroAlt: "The ancient trade network connecting Asia, the Middle East, and Europe that reshaped civilization through commerce, culture"
+heroAlt: "A close-up view of a textured surface with small brown grains or particles scattered across it"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

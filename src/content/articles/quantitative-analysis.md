@@ -5,7 +5,7 @@ description: "Quantitative analysis uses mathematical models and statistical met
 category: science
 tags: ["quantitative analysis", "statistics", "data analysis", "research methods", "mathematics", "measurement"]
 heroImage: "/images/articles/quantitative-analysis-hero.webp"
-heroAlt: "Quantitative analysis uses mathematical models and statistical methods to measure, interpret"
+heroAlt: "A man in a suit is sitting at a desk, working on a laptop computer that displays various charts and graphs"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

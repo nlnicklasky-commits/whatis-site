@@ -5,7 +5,7 @@ description: "Mountaineering is the sport of climbing mountains using specialize
 category: sports
 tags: ["mountaineering", "climbing", "mountains", "alpine", "outdoor recreation", "adventure sports"]
 heroImage: "/images/articles/mountaineering-hero.webp"
-heroAlt: "Mountaineering is the sport of climbing mountains using specialized skills and equipment"
+heroAlt: "A person wearing a red jacket and a white helmet is climbing up a rocky mountain"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

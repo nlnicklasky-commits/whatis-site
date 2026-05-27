@@ -5,7 +5,7 @@ description: "Rope skipping (jump rope) is a fitness activity where you swing a 
 category: sports
 tags: ["jump rope", "skipping", "fitness", "exercise", "cardio", "coordination"]
 heroImage: "/images/articles/rope-skipping-hero.webp"
-heroAlt: "Rope skipping (jump rope) is a fitness activity where you swing a rope under your feet while jumping"
+heroAlt: "A young man who is actively engaged in rope jumping or rope skipping, as he is holding a rope in his hand and appears to be"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Angling is the sport of catching fish using a hook, line, and rod.
 category: sports
 tags: ["angling", "fishing", "sport fishing", "recreational fishing", "fish hook", "fly fishing"]
 heroImage: "/images/articles/angling-hero.webp"
-heroAlt: "Angling is the sport of catching fish using a hook, line, and rod"
+heroAlt: "A man in a green jacket is fishing from a boat on a river, holding a fishing rod and focusing intently on his task"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

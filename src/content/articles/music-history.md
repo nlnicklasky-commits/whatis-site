@@ -5,7 +5,7 @@ description: "Music history traces the development of musical styles, forms, and
 category: arts-amp-culture
 tags: ["music history", "musicology", "classical music", "musical eras", "composers", "music evolution"]
 heroImage: "/images/articles/music-history-hero.webp"
-heroAlt: "Music history traces the development of musical styles, forms, and traditions across cultures and centuries"
+heroAlt: "A man with a beard and a black hat is playing a guitar and singing into a microphone"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

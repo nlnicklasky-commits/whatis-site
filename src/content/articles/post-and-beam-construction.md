@@ -5,7 +5,7 @@ description: "Post-and-beam construction is a building method that uses large ve
 category: technology
 tags: ["construction", "timber framing", "woodworking", "architecture", "building techniques", "sustainable building"]
 heroImage: "/images/articles/post-and-beam-construction-hero.webp"
-heroAlt: "Post-and-beam construction is a building method that uses large vertical posts and horizontal beams to create the structural"
+heroAlt: "A person wearing a hard hat and safety gloves working on a wooden beam at a construction site"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

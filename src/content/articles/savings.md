@@ -5,7 +5,7 @@ description: "Savings is money set aside for future use. Learn the difference be
 category: finance
 tags: ["savings", "personal finance", "money", "budgeting", "emergency fund", "finance"]
 heroImage: "/images/articles/savings-hero.webp"
-heroAlt: "Savings is money set aside for future use rather than spent immediately, held in accounts that preserve principal"
+heroAlt: "Ceramic piggy bank beside stacked coins and a closed book on a wooden desk"
 author: "WhatIs Editorial"
 datePublished: "2026-05-13"
 dateModified: "2026-05-13"

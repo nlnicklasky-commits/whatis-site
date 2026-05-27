@@ -5,7 +5,7 @@ description: "Myology is the branch of anatomy and physiology that deals with th
 category: science
 tags: ["myology", "muscles", "anatomy", "physiology", "biomechanics", "muscle contraction", "myopathies"]
 heroImage: "/images/articles/myology-hero.webp"
-heroAlt: "Myology is the study of muscles — their structure, function, and diseases"
+heroAlt: "A woman in a white lab coat examining a large piece of meat on a tray"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

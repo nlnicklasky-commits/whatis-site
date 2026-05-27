@@ -5,7 +5,7 @@ description: "Magnetism is a fundamental force of nature arising from the motion
 category: science
 tags: ["magnetism", "physics", "magnetic fields", "electromagnetism", "ferromagnetism", "magnets", "science"]
 heroImage: "/images/articles/magnetism-hero.webp"
-heroAlt: "Magnetism is a force from moving electric charges"
+heroAlt: "A woman wearing a lab coat and safety goggles, holding a small object in her hand"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

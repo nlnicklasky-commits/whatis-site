@@ -5,7 +5,7 @@ description: "Wagon trains were organized groups of covered wagons that carried 
 category: history
 tags: ["american history", "wagon trains", "westward expansion", "frontier"]
 heroImage: "/images/articles/wagon-trains-hero.webp"
-heroAlt: "Wagon trains were organized groups of covered wagons that carried settlers westward across North America in the 1800s"
+heroAlt: "A group of people riding in covered wagons pulled by horses in a dusty, open field"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

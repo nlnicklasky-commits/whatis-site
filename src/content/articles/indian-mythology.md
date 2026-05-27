@@ -5,7 +5,7 @@ description: "Indian mythology encompasses the gods, epics, and creation stories
 category: arts-amp-culture
 tags: ["indian mythology", "hinduism", "mythology", "ramayana", "mahabharata", "gods"]
 heroImage: "/images/articles/indian-mythology-hero.webp"
-heroAlt: "Indian mythology encompasses the gods, epics, and creation stories of Hindu, Buddhist, and Jain traditions"
+heroAlt: "A man with a long beard wearing an ornate headdress and jewelry"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

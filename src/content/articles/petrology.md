@@ -5,7 +5,7 @@ description: "Petrology studies rocks — their origins, composition, and transf
 category: science
 tags: ["geology", "rocks", "minerals", "igneous", "sedimentary", "metamorphic", "earth science"]
 heroImage: "/images/articles/petrology-hero.webp"
-heroAlt: "Petrology studies rocks — their origins, composition, and transformations"
+heroAlt: "The woman in a white lab coat is examining a rock sample in a laboratory setting"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

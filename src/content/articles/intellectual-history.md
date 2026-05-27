@@ -5,7 +5,7 @@ description: "Intellectual history is the study of how ideas develop, spread, an
 category: everyday-concepts
 tags: ["intellectual history", "history of ideas", "philosophy", "culture", "thought"]
 heroImage: "/images/articles/intellectual-history-hero.webp"
-heroAlt: "Intellectual history studies how ideas develop and spread across time"
+heroAlt: "A woman in a blue blazer is reading a book in a library"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

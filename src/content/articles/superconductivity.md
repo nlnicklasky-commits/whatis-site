@@ -5,7 +5,7 @@ description: "Superconductivity is a quantum mechanical phenomenon where certain
 category: everyday-concepts
 tags: ["superconductivity", "physics", "electricity", "materials science", "quantum mechanics", "magnets"]
 heroImage: "/images/articles/superconductivity-hero.webp"
-heroAlt: "Superconductivity is a state where materials conduct electricity with zero resistance"
+heroAlt: "A woman in a lab coat holding a test tube, with a focus on her expression and the scientific equipment in the background"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

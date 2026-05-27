@@ -5,7 +5,7 @@ description: "Paleoanthropology is the scientific study of human evolution — t
 category: everyday-concepts
 tags: ["paleoanthropology", "human evolution", "fossils", "archaeology", "hominids", "anthropology"]
 heroImage: "/images/articles/paleoanthropology-hero.webp"
-heroAlt: "Paleoanthropology studies human evolution through fossil evidence"
+heroAlt: "A man kneeling down and examining a large, ancient skull in a rocky, outdoor setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

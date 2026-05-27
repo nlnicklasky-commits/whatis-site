@@ -5,7 +5,7 @@ description: "Entrepreneurship is the process of creating and running a new busi
 category: finance
 tags: ["entrepreneurship", "startup", "business", "risk-taking", "business plan", "economic growth", "venture"]
 heroImage: "/images/articles/entrepreneurship-hero.webp"
-heroAlt: "Entrepreneurship is the process of creating and running a new business"
+heroAlt: "A group of three smiling people sitting at a table, with one person in the foreground wearing an apron and writing on"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

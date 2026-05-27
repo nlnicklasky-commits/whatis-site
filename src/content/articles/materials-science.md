@@ -5,7 +5,7 @@ description: "Materials science is the study of how a material's internal struct
 category: science
 tags: ["materials science", "engineering", "metals", "polymers", "ceramics", "composites", "nanotechnology"]
 heroImage: "/images/articles/materials-science-hero.webp"
-heroAlt: "Materials science is the study of how a material's internal structure — its atoms, their arrangement, and their bonding"
+heroAlt: "Two scientists in a laboratory setting, one of whom is using a microscope to examine a sample"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

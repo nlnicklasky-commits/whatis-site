@@ -5,7 +5,7 @@ description: "Water purification removes contaminants to make water safe for dri
 category: everyday-concepts
 tags: ["water purification", "drinking water", "filtration", "public health", "water treatment", "safety"]
 heroImage: "/images/articles/water-purification-hero.webp"
-heroAlt: "Water purification removes contaminants to make water safe for drinking"
+heroAlt: "A man in a blue lab coat working on a water purification device, which appears to be a large, cylindrical container with"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

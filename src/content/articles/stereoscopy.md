@@ -5,7 +5,7 @@ description: "Stereoscopy is the technique of creating depth perception from two
 category: technology
 tags: ["imaging", "stereoscopy", "3D vision", "virtual reality", "depth perception", "photography"]
 heroImage: "/images/articles/stereoscopy-hero.webp"
-heroAlt: "Stereoscopy is the technique of creating depth perception from two slightly different images"
+heroAlt: "A man wearing a headset and holding a camera, looking through the viewfinder of a camera"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

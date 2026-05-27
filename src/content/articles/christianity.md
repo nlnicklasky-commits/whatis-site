@@ -5,7 +5,7 @@ description: "Christianity is a monotheistic religion based on the life, teachin
 category: philosophy
 tags: ["christianity", "religion", "jesus christ", "bible", "faith", "theology", "monotheism"]
 heroImage: "/images/articles/christianity-hero.webp"
-heroAlt: "Christianity is a monotheistic religion centered on Jesus Christ"
+heroAlt: "A man with a long white beard wearing a red turban and a black robe, standing in what appears to be a church or cathedral"
 author: "WhatIs Editorial"
 datePublished: "2026-03-06"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Sheep farming is the agricultural practice of raising domestic she
 category: everyday-concepts
 tags: ["sheep", "farming", "agriculture", "wool", "lamb", "mutton"]
 heroImage: "/images/articles/sheep-farming-hero.webp"
-heroAlt: "Sheep farming raises sheep for wool, meat, and milk"
+heroAlt: "A man in a denim jacket and cowboy hat tending to a group of sheep in a grassy field"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Wood finishing applies coatings to protect and beautify wood surfa
 category: everyday-concepts
 tags: ["wood finishing", "woodworking", "staining", "varnish", "furniture", "DIY"]
 heroImage: "/images/articles/wood-finishing-hero.webp"
-heroAlt: "Wood finishing applies coatings to protect and beautify wood surfaces"
+heroAlt: "A person using a paintbrush to apply a finish to a wooden surface, likely in a workshop or garage setting"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

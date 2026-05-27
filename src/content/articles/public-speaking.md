@@ -5,7 +5,7 @@ description: "Public speaking is the act of delivering a structured message to a
 category: everyday-concepts
 tags: ["public speaking", "communication skills", "presentation", "rhetoric", "oratory", "speaking"]
 heroImage: "/images/articles/public-speaking-hero.webp"
-heroAlt: "Public speaking is the act of presenting ideas to a live audience"
+heroAlt: "A woman in a blue suit standing at a podium and speaking to an audience"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: Herbal medicine is the use of plants and plant extracts to prevent,
 category: health-amp-wellness
 tags: ["herbal medicine", "herbalism", "naturopathy", "traditional medicine", "natural remedies"]
 heroImage: "/images/articles/herbal-medicine-hero.webp"
-heroAlt: "Herbal medicine is the use of plants and plant extracts to prevent, treat, or manage health conditions"
+heroAlt: "A person's hands holding a small pile of green plant material, which appears to be a type of herb or seed"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

@@ -5,7 +5,7 @@ description: "Shorthand is a method of rapid writing that uses symbols, abbrevia
 category: everyday-concepts
 tags: ["shorthand", "stenography", "writing", "note-taking", "speed writing", "gregg shorthand"]
 heroImage: "/images/articles/shorthand-hero.webp"
-heroAlt: "Shorthand is a fast writing system using symbols and abbreviations to capture speech at speed"
+heroAlt: "Hand writing in a notebook"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

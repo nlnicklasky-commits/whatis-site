@@ -5,7 +5,7 @@ description: "Organic farming is an agricultural approach that produces food and
 category: everyday-concepts
 tags: ["organic farming", "sustainable agriculture", "permaculture", "soil health", "biodiversity", "pesticide-free"]
 heroImage: "/images/articles/organic-farming-hero.webp"
-heroAlt: "Organic farming produces food without synthetic pesticides, fertilizers, or GMOs"
+heroAlt: "A man in a straw hat and apron is crouched down and inspecting a freshly harvested carrot in a lush, green garden"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

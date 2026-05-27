@@ -5,7 +5,7 @@ description: "Web design is the process of planning and creating websites, combi
 category: technology
 tags: ["web design", "design", "html", "css"]
 heroImage: "/images/articles/web-design-hero.webp"
-heroAlt: "Web design is the process of planning and creating websites, combining visual layout, typography, color"
+heroAlt: "A woman in a dark suit is sitting at a desk, focused on working on a computer"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"

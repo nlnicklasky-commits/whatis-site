@@ -5,7 +5,7 @@ description: "Personal growth is the ongoing process of improving yourself throu
 category: everyday-concepts
 tags: ["self-improvement", "self-development", "mindset", "well-being", "life skills", "learning"]
 heroImage: "/images/articles/personal-growth-hero.webp"
-heroAlt: "Personal growth is the ongoing process of improving yourself through learning, self-awareness, and skill development"
+heroAlt: "A smiling woman with curly hair wearing a yellow sweater"
 author: "WhatIs Editorial"
 datePublished: "2025-07-15"
 dateModified: "2026-05-12"
